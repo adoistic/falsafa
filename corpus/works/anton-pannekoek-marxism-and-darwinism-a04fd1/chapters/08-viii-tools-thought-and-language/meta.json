@@ -1,0 +1,26 @@
+{
+  "work_slug": "anton-pannekoek-marxism-and-darwinism-a04fd1",
+  "work_title": "Marxism and Darwinism",
+  "chapter_number": 8,
+  "chapter_title": "VIII. Tools, Thought and Language",
+  "chapter_slug": "08-viii-tools-thought-and-language",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c9505fdc-8ab8-591a-9656-e67a315b7de3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2198,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/pannekoe/1912/marxism-darwinism.htm"
+    }
+  ]
+}

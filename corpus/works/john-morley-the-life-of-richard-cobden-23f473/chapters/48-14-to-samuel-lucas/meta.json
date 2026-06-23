@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-the-life-of-richard-cobden-23f473",
+  "work_title": "The Life of Richard Cobden",
+  "chapter_number": 48,
+  "chapter_title": "(14.): To Samuel Lucas",
+  "chapter_slug": "48-14-to-samuel-lucas",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8da0839b-db2f-5669-9e16-d8afd600ed28",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 247,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+    }
+  ]
+}

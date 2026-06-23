@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-fields-factories-and-workshops-49b176",
+  "work_title": "Fields, Factories, and Workshops",
+  "chapter_number": 12,
+  "chapter_title": "Appendix B : French Imports",
+  "chapter_slug": "12-appendix-b-french-imports",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9edf542c-b6b6-5333-bb55-f766335c7384",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 185,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/appendix-b.html"
+    }
+  ]
+}

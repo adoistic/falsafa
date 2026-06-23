@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-socialistic-fallacies-ca8e8f",
+  "work_title": "Socialistic Fallacies",
+  "chapter_number": 62,
+  "chapter_title": "V (2)",
+  "chapter_slug": "62-v-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "62f5945f-cebe-58e2-83d5-c07a2c9dea04",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 223,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 39,
+  "chapter_title": "Chap. XXXIV.: Of the Signification of Spirit, Angel, and Inspiration in the Books of Holy Scripture.",
+  "chapter_slug": "39-chap-xxxiv-of-the-signification-of-spirit-angel-an",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a3a1a0c8-74b4-521a-814c-a6ccf7b8b45f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4799,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

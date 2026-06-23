@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-the-re-conquest-of-ireland-059d10",
+  "work_title": "The Re-Conquest of Ireland",
+  "chapter_number": 5,
+  "chapter_title": "IV. Labour in Dublin",
+  "chapter_slug": "05-iv-labour-in-dublin",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d6c10f4-c06e-569c-815e-857be96ac86a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1807,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1915/rcoi/chap04.htm"
+    }
+  ]
+}

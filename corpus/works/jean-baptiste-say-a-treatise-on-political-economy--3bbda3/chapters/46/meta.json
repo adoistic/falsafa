@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 46,
-  "chapter_title": "BOOK II, CHAPTER II: THE SOURCES OF REVENUE.",
+  "chapter_title": "Book II, Chapter IV: Of Nominal Variation of Price, and of the Peculiar Value of Bullion and of Coin.",
   "chapter_slug": "46",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2312,
-      "paragraph_count": 21,
+      "word_count": 3345,
+      "paragraph_count": 25,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

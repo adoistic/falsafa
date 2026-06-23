@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-gramsci-workers-democracy-9b8530",
+  "work_title": "Workers' Democracy",
+  "chapter_number": 1,
+  "chapter_title": "Workers' Democracy",
+  "chapter_slug": "01-workers-democracy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6830795e-146d-5dd0-a1e8-2900ace4de7d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1359,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gramsci/1919/06/workers-democracy.htm"
+    }
+  ]
+}

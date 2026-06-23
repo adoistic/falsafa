@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 60,
+  "chapter_title": "Chap. VI : What would be the Consequence of reducing, by a British Statue, the legal Interest of Money below the present",
+  "chapter_slug": "60-chap-vi-what-would-be-the-consequence-of-reducing-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1fa85b40-6105-5571-8b7b-daab0ace232c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1235,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4.htm"
+    }
+  ]
+}

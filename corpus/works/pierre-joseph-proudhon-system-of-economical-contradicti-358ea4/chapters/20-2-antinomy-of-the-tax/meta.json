@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-system-of-economical-contradicti-358ea4",
+  "work_title": "System of Economical Contradictions: or, The Philosophy of Poverty",
+  "chapter_number": 20,
+  "chapter_title": "2. Antinomy of the tax.",
+  "chapter_slug": "20-2-antinomy-of-the-tax",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d679e1d-aa31-5958-9318-7da027a41460",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5095,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/philosophy/ch07.htm"
+    }
+  ]
+}

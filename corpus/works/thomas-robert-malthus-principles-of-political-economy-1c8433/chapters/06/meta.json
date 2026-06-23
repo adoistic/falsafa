@@ -2,7 +2,7 @@
   "work_slug": "thomas-robert-malthus-principles-of-political-economy-1c8433",
   "work_title": "Principles of Political Economy",
   "chapter_number": 6,
-  "chapter_title": "Section I.—: On the different sorts of Value.",
+  "chapter_title": "Section II.—: Of Demand and Supply as they affect Exchangeable Value.",
   "chapter_slug": "06",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3714,
-      "paragraph_count": 36,
+      "word_count": 2731,
+      "paragraph_count": 23,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/malthus-principles-of-political-economy"
     }

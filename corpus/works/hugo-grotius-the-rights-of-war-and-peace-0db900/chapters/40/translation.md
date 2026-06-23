@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-rights-of-war-and-peace-0db900"
 work_title: The Rights of War and Peace
 author_name: Hugo Grotius
 chapter_number: 40
-chapter_title: "CHAPTER XI.: The Right of Killing Enemies, in Just War, to be Tempered with Moderation and Humanity."
+chapter_title: "Chapter XI.: The Right of Killing Enemies, in Just War, to be Tempered with Moderation and Humanity."
 chapter_slug: 40
 variant_id: "b96f5ab9-3b36-5954-98c2-deccfd546054"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2205
+word_count: 2189
 source_url: "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
 translator: Online Library of Liberty edition
 ---
@@ -26,7 +26,7 @@ The explanations given in the first chapter of this book will point out the case
 
 No one can be justly killed by design, except by way of legal punishment, or to defend our lives, and preserve our property, when it cannot be effected without his destruction. For although in sacrificing the life of man to the preservation of perishable possessions, there may be nothing repugnant to strict justice, it is by no means consonant to the law of charity.
 
-But to justify a punishment of that kind, the person put to death must have committed a crime, and such a Edition: current; Page: [360] crime too, as every equitable judge would deem worthy of death. Points, which it is unnecessary to discuss any further, as they have been so fully explained in the chapter on punishments.
+But to justify a punishment of that kind, the person put to death must have committed a crime, and such a crime too, as every equitable judge would deem worthy of death. Points, which it is unnecessary to discuss any further, as they have been so fully explained in the chapter on punishments.
 
 III. In speaking of the clamities of war, as a punishment, it is proper to make a distinction between misfortune and injury. For a people may sometimes be engaged in war against their will, where they cannot be justly charged with entertaining hostile intentions.
 
@@ -36,7 +36,7 @@ IV. and V. Between complete injuries and pure misfortunes there may be sometimes
 
 VI. But respecting the authors of war, a distinction is to be made also, as to the motives and causes of war: some of which though not actually just, wear an appearance of justice, that may impose upon the well meaning. The writer to Herennius lays it down as the most equitable vindication of injury, where the party committing it, has neither been actuated by revenge, nor cruelty; but by the dictates of duty and an upright zeal.
 
-Cicero, in the first book of his offices, advises the sparing of those, who have committed no acts of atrocity and cruelty in war, and that wars, undertaken to maintain national honour, should be conducted upon principles of moderation. And, in one of his letters, adverting to the war between Pompey and Caesar, he describes the struggle between those two illustrious men, as involved Edition: current; Page: [361] in so much obscurity of motives and causes, that many were perplexed in deciding which side to embrace. In his speech too for Marcellus, he remarks that such uncertainty might be attended with error, but could never be charged with guilt.
+Cicero, in the first book of his offices, advises the sparing of those, who have committed no acts of atrocity and cruelty in war, and that wars, undertaken to maintain national honour, should be conducted upon principles of moderation. And, in one of his letters, adverting to the war between Pompey and Caesar, he describes the struggle between those two illustrious men, as involved in so much obscurity of motives and causes, that many were perplexed in deciding which side to embrace. In his speech too for Marcellus, he remarks that such uncertainty might be attended with error, but could never be charged with guilt.
 
 VII. Such forbearance in war is not only a tribute to justice, it is a tribute to humanity, it is a tribute to moderation, it is a tribute to greatness of soul. It was in this moderation, says Sallust, the foundation of Roman greatness was laid. Tacitus describes his countrymen as a people no less remarkable for their courage in the field, than for their humanity to the vanquished and suppliant.
 
@@ -46,7 +46,7 @@ VIII. Though there may be circumstances, in which absolute justice will not cond
 
 IX. After establishing these general principles, it will not be difficult to decide upon particular cases. Seneca says, that “in the calamities of war children are exempted and spared, on the score of their age, and women from respect to their sex.” In the wars of the Hebrews, even after the offers of peace have been rejected, God commands the women and children to be spared.
 
-Thus when the Ninevites were threatened with utter Edition: current; Page: [362] destruction, on account of their grievous crimes, a mitigation of the sentence was allowed, in compassion to the many thousands, who were of an age incapable of making a distinction between right and wrong.
+Thus when the Ninevites were threatened with utter destruction, on account of their grievous crimes, a mitigation of the sentence was allowed, in compassion to the many thousands, who were of an age incapable of making a distinction between right and wrong.
 
 If God, from whose supreme gift the life of man proceeds, and on whose supreme disposal it depends, prescribes to himself a rule like this, it is surely incumbent upon men, who have no commission, but for the welfare and preservation of the lives of men, to act by the same rule. Thus age and sex are equally spared, except where the latter have departed from this privilege by taking arms, or performing the part of men.
 
@@ -58,7 +58,7 @@ Equally privileged with the holy priesthood are those, who devote their lives to
 
 XI. Diodorus bestows an encomium upon the Indians, who, in all their wars with each other, forbore destroying or even hurting those employed in husbandry, as being the common benefactors of all. Plutarch relates the same of the ancient Corinthians and Megarensians, and Cyrus sent a message to the king of Assyria to inform him that he was willing to avoid molesting all who were employed in tilling the ground.
 
-XII. To the above catalogue of those exempted from sharing in the calamities of war, may be added merchants, not only those residing for a time in the enemy’s country, but even his natural-born, and regular subjects: artisans Edition: current; Page: [363] too, and all others are included; whose subsistence depends upon cultivating the arts of peace.
+XII. To the above catalogue of those exempted from sharing in the calamities of war, may be added merchants, not only those residing for a time in the enemy’s country, but even his natural-born, and regular subjects: artisans too, and all others are included; whose subsistence depends upon cultivating the arts of peace.
 
 XIII. and XIV. More civilized manners having abolished the barbarous practice of putting prisoners to death, for the same reason, the surrender of those, who stipulate late for the preservation of their lives either in battle, or in a siege, is not to be rejected.
 

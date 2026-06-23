@@ -4,13 +4,17 @@ slug: "victor-cousin-lectures-on-the-true-the-beautif-ab35d3"
 title: Lectures on the True, the Beautiful and the Good
 author:
   name: Victor Cousin
-  biography: "Victor Cousin (1792-1867)."
+  biography: French philosopher and educational administrator, founder of the eclectic or spiritualist school and reformer of the national university system. Du vrai, du beau et du bien argued that philosophy should select what is true across rival systems and grounded a doctrine of the true, the beautiful, and the good.
+  birth_year: 1792
+  death_year: 1867
+  nationality: French
 era: 19th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "Lectures on the True, the Beautiful and the Good, by Victor Cousin (1792-1867), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1836
 total_logical_chapters: 17
 total_variant_entries: 17
 thothica_role: catalog

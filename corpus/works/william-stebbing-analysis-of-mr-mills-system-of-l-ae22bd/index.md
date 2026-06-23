@@ -4,13 +4,17 @@ slug: "william-stebbing-analysis-of-mr-mills-system-of-l-ae22bd"
 title: "Analysis of Mr. Mill's System of Logic"
 author:
   name: William Stebbing
-  biography: "William Stebbing (1832-1926)."
+  biography: "English barrister, journalist, and editor associated with The Times and All Souls College, Oxford. His Analysis of Mr. Mill's System of Logic condensed John Stuart Mill's treatise into a student abstract that long served as a study guide."
+  birth_year: 1832
+  death_year: 1926
+  nationality: British
 era: 19th Century
 genre: Logic
 language: English
 language_direction: ltr
 description: "Analysis of Mr. Mill's System of Logic, by William Stebbing (1832-1926), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1864
 total_logical_chapters: 28
 total_variant_entries: 28
 thothica_role: catalog

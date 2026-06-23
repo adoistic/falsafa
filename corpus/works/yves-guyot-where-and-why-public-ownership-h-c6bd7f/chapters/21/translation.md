@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 21
-chapter_title: "CHAPTER XIV: HOUSING OF THE WORKING CLASSES ON THE CONTINENT"
+chapter_title: "Chapter XV: Government Control of Food Supplies"
 chapter_slug: 21
 variant_id: "68ddd8ad-cd51-56dc-9ef5-ff07829ef6bd"
 content_type: translation
@@ -13,125 +13,53 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2296
+word_count: 1297
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-1. There are men who, full of sympathy for their fellow men, wish to house them, feed them, and dress them, but at whose expense? The trouble is they want to house people of one class at the cost of another.
+Public Control of the Sale of Fish, Potatoes and Apples in Swiss Towns.—Eighteen Communes.—Losses.—Negative Results.—Competition with Private Business.—Municipal Slaughter House at Denain, France.—Experiment at Montpellier.—Three German Slaughter Houses.—Four Slaughter Houses at Vienna.—The Municipal Oven at Udine.—The Verona Fish Market.
 
-Of late years the activity of the partisans of municipalization and socialism has been turned toward the housing of the working classes, as if the term “working classes” alone were not sufficient to indicate the retrogressive character of such measures. They are Edition: current; Page: [162] instrumental in creating a class apart, who are to be protected by other classes, utterly oblivious of that spirit of equality inculcated by the motto of the French Republic.
+To a questionnaire sent out to Swiss towns by Edgar Milhaud concerning markets operated by them 74 towns responded; 33 returned purely negative answers; 41 have made some headway against the high cost of living; Glarus has leased a fish market to a merchant who has been authorized to raise his price from 10 to 20 centimes (2 cents to 4 cents) a pound above cost. Oerlikon had given to certain families the right to reductions of from 10 to 20 per cent. from all retail dealers, at the expense of the commune. In 1908 Romanshorn opened a public fish market: “No gains and few losses.” Saint-Imier, Herisau, Rorschach, Schaffhausen have renounced similar attempts. Thun has leased a fish market.
 
-The interventionalists denounce the weakness of private initiative, as though up to the present it had not been responsible for the development of the cities which these same individuals, from an entirely different standpoint, so bitterly deplore. It never seems to occur to them that, by deluding the people of the rural districts into thinking that they will be offered desirable and more or less gratuitous homes, they are influencing them to leave the farms for the city. Their real motives are concealed within such vague terms as “public health,” and “the housing crisis.”
+At Saint Gall the sale of fish yields several hundreds of francs profit to the city, and has lowered the price of fish in the private market. The market is patronized, however, only by wealthy families or those in easy circumstances.
 
-Nor are French interventionalists of all kinds ever at a loss for foreign examples. In their report to the Municipal Council of Paris (1912), upon the housing crisis, and the creation of cheap homes, concluding with the recommendation for a loan of 200,000,000 francs by the city of Paris for the purpose of constructing cheap lodgings, MM. Henri Rousselle, F. Brunet, E. Desvaux, and D'Herbécourt review the legislation and practice of foreign countries. We congratulate them upon having at least made the attempt to support their thesis upon facts.
+Zurich, three years ago, entrusted the sale of sea fish to a coöperative society, the Zurich Lebensmittel-verein; the fish were sold at cost, plus a percentage to cover expenses. The administrative council of the society declared that “the attempts made to accustom the Swiss population to the use of fish food must be regarded as having failed.” Zurich then organized cooking classes. The results of this latter experiment are not yet known.
 
-2. Germany:
+Zug has established a municipal slaughter house. Freiburg bought and sold, in the autumn of 1910 and the spring of 1911, 193,000 kilos (474,600 lbs.) of potatoes, at a loss of 2,833 francs ($538). Lucerne, in 1911, sold 13 carloads of potatoes, 4 carloads of apples, and 2 carloads of carrots, for cash. The shipping costs were met by the town. In addition 43,750 kilos (96,250 lbs.) of coke were sold by the city. The undertaking ultimately resulted in a loss of 2,842 francs. In any event, the authorities of Lucerne can hardly be accused of supplying over-substantial nourishment to their fellow-citizens!
 
-In Germany it is customary for municipalities to ask for a direct loan from private associations and individuals and to supplement the sums so raised by municipal loans.
+The town of Saint Gall caused vegetables to be sold by a coöperative society at cost price f.o.b. Saint Gall at the receiving point (the railroad station). The city paid the difference, which amounted to 400 francs a month. The sale was limited to “that part of the public without income.” The total sales amounted to only 1,700 francs, the expenses to 6,131 francs, and the attempt lasted only from the first of November, 1911, to February 29, 1912.
 
-Düsseldorf borrows up to 60 per cent. of the value of its investment, with a 0.20 per cent. premium in the rate of issue.
+During the winter months 1910–1911 and 1911–1912, Bern undertook to purchase potatoes at wholesale and to sell them at retail. In the latter year, it added the sale of white cabbages. As a matter of course the experiment resulted in losses.
 
-Frankfort (414,400 inhabitants) has constructed and rents 65 houses, containing 366 apartments.
+Lausanne, during several days in 1910, sold potatoes with a profit of 230 francs 15 centimes, and distributed a balance of 1,340 kilos (2,948 lbs.) gratis.
 
-Ulm (57,500 inhabitants) has provided separate houses, of which the family lodged therein becomes proprietor. During the years since 1891 it has owned 2,131 hectares (5,263 acres) of land. It has managed to dispose of 35. The city of Ulm congratulates itself upon the results it has achieved. Everything depends upon your point of view.
+In 1911–1912 Zurich sold 550 kilos (1,210 lbs.) of potatoes at a loss of 901 francs 25 centimes which was reduced to 569 francs, following a reduction in the freight costs of 332 francs 25 centimes made by the Federal railways. “A reduction of the freight rates has been granted for the transportation of food supplies from October 1, 1911, to May 31, 1912, if the supplies are to be utilized for the public good.”
 
-In 1896 Strassburg (173,280 inhabitants) began to construct houses and to manage them directly; it now owns 11 buildings, containing 98 apartments, occupied by 372 people.
+Anybody who ships potatoes ships them for the public benefit since they are destined to provide food for those who buy them. This reduction, therefore, simply gave a subsidy to municipalities as against individual merchants. The figures that I have just reproduced prove that, if the Swiss, in order to live, had been forced to rely upon the municipality for their food in 1910–1911, they would all be dead of starvation.
 
-Berlin (2,064,000 inhabitants) has done nothing along these lines; nor has Hamburg (802,800 inhabitants) any municipal lodging enterprises.
+As a matter of fact, 18 communes have made attempts at public regulation of food supplies, in order to combat the high cost of living. These are: Brugg (3,000 inhabitants); Weinfelden (4,000); Baden (6,050); Grenchen (5,202); Romanshorn (6,000); Thun (6,030); Herisau (13,853); Le Locle (13,197); Rorschach (13,481); Schaffhausen (17,148); Freiburg (20,300); La Chaux-de-Fonds (39,497); Lucerne (38,467); Saint Gall (35,000); Basle (129,600); Bern (78,500); Lausanne (59,327); Zurich (180,000).
 
-Freiburg im Breisgau (85,000 inhabitants) owns 77 houses, containing 266 lodgings, and costing 1,225,000 marks ($294,000), which sum was advanced at 3.75 per cent. interest by the savings banks. It was estimated that the rent should bring in 5.25 per cent. on the capital.
+Milhaud concludes his article with this enthusiastic statement:
 
-Magdeburg (279,600 inhabitants) has constructed 7 buildings, containing 50 apartments.
+“As a result of these public services we have remarked the following cost reductions: Potatoes, from 12 per cent, to 24 per cent.; fuel, 15 per cent. to 50 per cent.; fish, 30 per cent. to 50 per cent.”
 
-Barmen (170,000 inhabitants) has constructed 7 buildings, containing 50 apartments.
+Or in other words free competition is making a losing fight against public operation, and Edgard Milhaud considers this a most desirable state of affairs.
 
-Emden (20,000 inhabitants) has constructed 228 houses. The capital invested by the village brings in 3.50 per cent. to 4 per cent.
+If the custom of providing government food should ever become general, it would be necessary for an individual to have great courage in order to engage in any similar undertaking in view of the prospect of being undersold by the municipality. The town can lose with impunity; the taxpayers will make up the loss. On the other hand, loss to a merchant means his whole financial standing in the community and that of those who may have placed confidence in him, all of whom have a right not to anticipate such disturbing factors as result from the intervention of municipalities turned merchants of potatoes, apples, cabbages, carrots, and fish.
 
-Dresden (547,000 inhabitants) has constructed “out of resources provided by the Krenkel Fund” a model group of 5 houses, each containing 34 separate rooms. “In this work the question of financial return has been considered as wholly secondary.” As a result, the inhabitants of these houses are a privileged class, who enjoy all sorts of advantages and pay 25 per cent. less than the usual rents. With the help of the Krenkel Fund the city has also undertaken the construction of two other buildings, containing 36 apartments.
+The towns concerned would answer that their action was only one form of philanthropy. As a matter of fact, several of them did limit their sales to the poor. Others, however, did not take this precaution, and, in the majority of cases, they did not seek any justification for the measures they took.
 
-Munich (595,000 inhabitants) has devoted 1,040,000 marks ($249,600) to the construction of 15 houses, containing 167 apartments, for laborers and other employees of the city.
+I do not believe that the results of this investigation would encourage very many towns to follow the example of the 18 Swiss communes. They are such that it is not even necessary to furnish further arguments for an amendment to the law of 1884 prohibiting municipalities from going into business.
 
-3. Italy:
+In 1911 there were several attempts in France to regulate the food supply. The mayor of Denain, M. Selle, opened a municipal slaughter house. Cattle decked with ribbons were conducted there solemnly to the tune of the “Internationale.” At the end of one week the undertaking developed the following figures (in francs):
 
-Louis Rousselle quotes these words of Garibaldi, spoken at the time of the conquest of the two Sicilies:
+The mayor called a halt. The indignant populace, whom he had promised to feed below cost, broke into his house, from which he managed to escape under the protection of the police. Thereafter neither the mayoralty nor the municipal council knew him more.
 
-“A government sprung from the people is before all else bound to provide for the first necessity of the people—commodious and sanitary homes at a moderate cost.”
+At Montpellier an attempt at a municipal slaughter house was made, which resulted in a loss of 6,000 francs.
 
-Certainly, if any people were ever badly housed it was the Neapolitans. I saw some of their hovels a long time after Garibaldi had pronounced these words. No change had been wrought by them in the filth and misery of the majority of the population. However, the true home of the lazzerone is the shore. The children swarm in the sun, and the sea air counteracts the pestilential atmosphere of the home.
+Edgard Milhaud, who sees all attempts at public ownership through rose-colored glasses, has declared that at Eberwald, Thionville, and Freiburg-im-Breisgau the attempts at municipalizing a slaughter house were successful. According to the director of the abattoir of Freiburg, M. Metz, the experiment, which took place in 1895, was only temporary, and a burden while it lasted. The enormous waste, which may and does occur in such enterprises, renders management very difficult.
 
-The Italian law of May 31, 1903—modified in 1907 Edition: current; Page: [165] —has constituted an autonomous institution, “a sort of financial organization with social intentions,” to quote the expression of Luigi Luzzatti, recently Minister of Foreign Affairs.
+At Thionville experiments were made with pork in order to force the butchers to lower their prices. “The meager profits realized were divided between two old butchers who had been entrusted with the purchase, slaughter and sale of the meat.” In 1905, at Vienna, four municipal abattoirs were established, which disappeared after a short period.
 
-Public construction and control of such works are in force only in Venice, Parma, Reggio, Emelia, Vincenza, Sestri-Ponente, and Carrara.
-
-Venice (167,000 inhabitants) owns 396 houses, lodging 2,000 persons.
-
-Parma (51,300 inhabitants) has 82 houses containing 508 rooms, and sheltering 130 families, or 724 people.
-
-Sestri-Ponente (23,100 inhabitants) has 11 houses, each containing 20 apartments.
-
-4. Belgium:
-
-Brussels (195,600 inhabitants) has appropriated sums for housing purposes amounting to 2,500,000 francs ($475,000). But our report declares that it is necessary to subtract half as devoted to sanitation. Thus, 1,250,000 francs ($237,500) remained to be applied to the experiment. On this basis the net cost of one rented room is 3,575 francs ($679). It is all quite simple.
-
-The Commission estimates the total charges at from 15 to 30 per cent. of the rent. The bonds of the city of Brussels were issued at about 2.70 per cent., interest, premiums and amortization included. The annual rent of one room, taking into account the higher rent of small shops, will be about 98 francs 51 ($18.72).
-
-Saint Gilles-près-Bruxelles (63,000 inhabitants) began Edition: current; Page: [166] in 1894 with 5 small, one-story houses. Later this system was abandoned, and the town now has a group of tenement houses, comprising 130 lodgings.
-
-The loans contracted by the municipality are issued at 3.25 per cent., with an amortization charge of 44 centimes (9 cents), or 49 centimes (10 cents). This appears about to equal the average income.
-
-5. Holland:
-
-A law of 1853 permits officials entrusted with the duty of looking out for house sanitation to enter any building, even in the night. The law of June 22, 1911, confers upon municipal councils the right of preventing the occupancy of unsanitary buildings and of regulating the number of people to a house. But no city has constructed or rents houses.
-
-6. Switzerland:
-
-Geneva (145,000 inhabitants) has constructed buildings containing 43 apartments and 111 rooms.
-
-Lausanne (65,000 inhabitants) has constructed 8 houses, containing a total of 24 apartments.
-
-Zurich (191,200 inhabitants) began by building houses for its municipal employees. In 1907 it erected 25 buildings, containing 225 apartments; in 1910 it constructed 228 apartments, and 76 attic rooms. It is now planning to construct 370 new houses.
-
-Bern (85,000 inhabitants) built 134 small houses, containing 182 apartments in 1895, and, in 1898, 25 new houses.
-
-Neuchatel (23,600 inhabitants) has built houses containing 47 apartments.
-
-7. Austria:
-
-In 1911 a plan was discussed in Vienna (1,999,900 inhabitants), involving an outlay of 480,000 crowns ($96,000), for the construction of temporary homes for the homeless.
-
-8. Hungary:
-
-In 1908 the Hungarian government proposed to the Chamber of Deputies to build a group of houses in the suburbs of the city of Budapest (791,700 inhabitants) capable of sheltering from 8,000 to 10,000 families. A credit of 12,000,000 crowns ($2,400,000) was opened to the ministry of Finance, and a tract of land, containing 169 hectares (417 acres), was bought at Kispest, while in the tenth district a second tract, containing 77 hectares (190 acres), was purchased. On May 1, 1911, 970 apartments were finished. In 1912, 2,000 other lodgings were to be open to rent. The work is to be finished in 1914. As tenants the preference is given to laborers and subordinate employees of the government. These houses are exempt from state taxes.
-
-In 1909 the burgomaster of Budapest asked for an appropriation of 69,000,000 crowns ($13,800,000) for the construction of cheap lodgings. In all the city has constructed 26 buildings, containing 1,600 apartments, and costing 27,000,000 crowns ($5,400,000). On September 19th of the current year, it was decided to construct 1,000 more.
-
-A special feature of the lodging schemes of Budapest has been the establishment of temporary settlements, containing 3,000 apartments, and expected to Edition: current; Page: [168] last 20 years, at a cost of 8,100,000 crowns ($1,620,000). Still another special feature has been the construction of a furnished hotel, containing 500 beds. The city is planning to build others.
-
-9. Sweden:
-
-Stockholm (344,000 inhabitants) owns 12,000 apartments. According to the memorandum of M. Gunichard, one of the municipal directors of the city, 10,136 lodgings are to be considered as housing 21,000 persons, almost 7 per cent. of the entire population of the city. But “these apartments are situated in old houses, about to be demolished, and the city is trying to sell the land.”
-
-The government has also built houses for the benefit of government laborers and employees, especially for those connected with the railroad and telegraph services. In the city of Stockholm 443 apartments are reckoned to 1,700 people.
-
-Norway:
-
-Christiania (227,600 inhabitants) has built and rents two buildings, containing 152 rooms.
-
-10. After their review (summarized above) of municipal housing in general, M. Rousselle and his collaborators on the Municipal Council say, with emphasis:
-
-“The conclusion of this rapid review of the work accomplished abroad in the matter of housing the working classes is that in all the great cities the officials in power have approached the problem squarely and have attempted Edition: current; Page: [169] to solve it by the most direct and energetic means.”
-
-Wherefore, there is bitter indignation against “France, which, alone among the great modern nations, obstinately refuses to municipalities the right of direct interference, despite the failure of private initiative and in the light of universal experience.”
-
-It is curious to note the different interpretations to which a single fact is susceptible. These municipal councillors speak of the failure of private industry and universal experience. But, without private initiative, where would ninety-nine one hundredths of the population of London be living? The irrefutable facts already enumerated show that, in most of the cities which construct and rent apartments, the privileged classes who occupy them form but an infinitesimal portion of the population. If individual owners had not housed for a long time, and were not still housing, less favored mortals, the great cities would not exist at all. And still another fact that should be observed in this connection is that, in a certain number of these cases, municipal lodgings actually constitute supplemental wages for employees and laborers.
-
-From no possible point of view is the desire to house so many people justified, and, moreover, it threatens both political and social dangers in the future. For example, the Hungarian government establishes settlements of small homes near Budapest. Then the municipality of Budapest, in order to meet this competition, builds houses in its turn. I gaze Edition: current; Page: [170] with awe on those states and cities which, while confronted with the necessity of husbanding their resources, have the courage to launch out into such extravagances.
-
-According to the advocates of municipalization, all great cities should construct and manage workmen's houses. But when they cite facts in support of their contention, their facts prove precisely the opposite from what they intended them to prove. The majority of the great cities of the world neither construct nor administer houses for the benefit of the working people.
-
-Nor have such cities as have undertaken this kind of work displayed the courage of their convictions, as the oft-quoted example of the London County Council proves. In cities containing hundreds of thousands of inhabitants lodgings are built for a few hundred people. Yet we French are airily urged: Imitate them! If we should imitate them in the same degree our undertakings would certainly not amount to much.
-
-However, the following circumstance proves that the efforts of the promoters of municipal lodgings are bearing some fruit. The prefect of the Seine is demanding the creation of a public bureau of cheap lodgings, to which the city of Paris shall hand over the millions set aside according to the law of December 12, 1912, for that purpose. The plan provides that the bureau shall attend to the payment of interest, and the reimbursement—after 75 years—of the capital thus invested by the city.
-
-But at what rate of interest can the city of Paris Edition: current; Page: [171] borrow now (June, 1913)? The bonds issued at 3 per cent. on May 21, 1912, and rated at 285 francs, are now 250 francs; moreover, the housing bureau must be responsible for capital and all general expenses of administration, rental and up-keep at a gross rate of 2 per cent., as well as the expenses of control by the city of Paris at a gross rate of 0.15 per cent. It must set aside 0.50 per cent. for a reserve fund to cover the more costly repairs and unexpected expenses. We have thus a rate of over 5.65 per cent. Under such a system the city is supplying capital to an association which pays interest, builds, maintains, and rents, it is true, but which, at the same time, is neither more nor less than a monopoly, suppressing all competition, since it frightens private capital away from just such investments.
+All these undertakings are direct attacks on commercial freedom. In Italy such attacks are made without scruple. Udine opened a municipal oven in order to ruin the existing bakeries. Verona sells fish to the injury of other fish merchants.

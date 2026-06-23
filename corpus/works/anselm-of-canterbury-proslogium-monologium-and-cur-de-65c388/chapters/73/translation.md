@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 73
-chapter_title: CHAPTER XXXIII.
+chapter_title: Chapter XXXVII.
 chapter_slug: 73
 variant_id: "526aa4e5-a91f-5365-aa5b-ffa6adac7a89"
 content_type: translation
@@ -13,25 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 730
+word_count: 202
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-He utters himself and what he creates by a single consubstantial Word.
+Whatever his relation to his creatures, this relation his Word also sustains: yet both do not simultaneously sustain this relation as more than one being.
 
-But here, in my inquiry concerning the Word, by which the Creator expresses all that he creates, is suggested the word by which he, who creates all, expresses himself. Does he express himself, then, by one word, and what he creates by another; or does Edition: current; Page: [96] he rather express whatever he creates by the same word whereby he expresses himself?
+But since it has already been clearly demonstrated that the supreme Spirit created all things through his Word, did not the Word itself also create all things? For, since it is consubstantial with him, it must be the supreme essence of that of which it is the Word. But there is no supreme Essence, except one, which is the only creator and the only beginning of all things which have been created. For this Essence, through no other than itself, alone created all things from nothing. Hence, whatever the supreme Spirit creates, the same his Word also creates, and in the same way.
 
-For this Word also, by which he expresses himself, must be identical with himself, as is evidently true of the Word by which he expresses his creatures. For since, even if nothing but that supreme Spirit ever existed, urgent reason would still require the existence of that word by which he expresses himself, what is more true than that his Word is nothing else than what he himself is? Therefore, if he expresses himself and what he creates, by a Word consubstantial with himself, it is manifest that of the Word by which he expresses himself, and of the Word by which he expresses the created world, the substance is one.
-
-How, then, if the substance is one, are there two words? But, perhaps, identity of substance does not compel us to admit a single Word. For the Creator himself, who speaks in these words, has the same substance with them, and yet is not the Word. But, undoubtedly the word by which the supreme Wisdom expresses itself may most fitly be called its Word on the former ground, namely, that it contains the perfect likeness of that Wisdom.
-
-For, on no ground can it be denied that when a rational mind conceives of itself in meditation the image of itself arises in its thought, or rather the thought of the mind is itself its image, after its likeness, as if formed from its impression. For, whatever object the mind, either through representation of the body or through reason, desires to conceive of truly, it at least attempts to express its likeness, so far as it is able, in the mental concept itself. And the more truly it succeeds in this, the more truly does it think of the object itself; and, indeed, this fact is observed more Edition: current; Page: [97] clearly when it thinks of something else which it is not, and especially when it thinks of a material body. For, when I think of a man I know, in his absence, the vision of my thought forms such an image as I have acquired in memory through my ocular vision and this image is the word corresponding to the man I express by thinking of him.
-
-The rational mind, then, when it conceives of itself in thought, has with itself its image born of itself that is, its thought in its likeness, as if formed from its impression, although it cannot, except in thought alone, separate itself from its image, which image is its word.
-
-Who, then, can deny that the supreme Wisdom, when it conceives of itself by expressing itself, begets a likeness of itself consubstantial with it, namely, its Word? And this Word, although of a subject so uniquely important nothing can be said with sufficient propriety, may still not inappropriately be called the image of that Wisdom, its representation, just as it is called his likeness.
-
-But the Word by which the Creator expresses the created world is not at all, in the same way, a word corresponding to the created world, since it is not this world’s likeness, but its elementary essence. It therefore follows, that he does not express the created world itself by a word corresponding to the created world. To what, then, does the word belong, whereby he expresses it, if he does not express it by a word belonging to itself? For what he expresses, he expresses by a word, and a word must belong to something, that is, it is the likeness of something. But if he expresses nothing but himself or his created world Edition: current; Page: [98] he can express nothing, except by a word corresponding to himself or to something else.
-
-So, if he expresses nothing by a word belonging to the created world, whatever he expresses, he expresses by the Word corresponding to himself. By one and the same Word, then, he expresses himself and whatever he has made.
+Whatever relation, then, the supreme Spirit bears to what he creates, this relation his Word also bears, and in the same way. And yet, both do not bear it simultaneously, as more than one, since there are not more supreme creative essences than one. Therefore, just as he is the creator and the beginning of the world, so is his Word also; and yet there are not two, but one creator and one beginning.

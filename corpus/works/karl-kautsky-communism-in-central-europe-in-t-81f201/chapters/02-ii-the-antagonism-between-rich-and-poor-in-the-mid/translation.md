@@ -1,0 +1,35 @@
+---
+work_id: "81f201f1-ca98-5a11-950f-0b329603106b"
+work_slug: "karl-kautsky-communism-in-central-europe-in-t-81f201"
+work_title: Communism in Central Europe in the Time of the Reformation
+author_name: Karl Kautsky
+chapter_number: 2
+chapter_title: II. The Antagonism between Rich and Poor in the Middle Ages
+chapter_slug: "02-ii-the-antagonism-between-rich-and-poor-in-the-mid"
+variant_id: "fafb60ed-2aae-5287-a667-65617225eb3a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1024
+source_url: "https://www.marxists.org/archive/kautsky/1897/europe/ch01.htm"
+translator: "J.L. & E.G. Mulliken"
+---
+
+The distinctions between rich and poor, though more openly and aggressively displayed, were not nearly so great during the Middle Ages and Reformation period as they have become in the present capitalised state of society. Then, as now, these distinctions were chiefly found in towns; but, whereas modern towns count their millions of inhabitants, and the districts of the poor lie far removed from those of the wealthy, in the times of which we are treating a population of from 10,000 to 20,000 constituted a large city, and men were drawn more closely together. Moreover, life was carried on to a far greater extent in public – work as well as pleasure – and the joys and sorrows of one class remained no secret to the others. Political life and festal life went on chiefly in open places – in the markets and squares, in churches and halls. The marketplaces were the scenes of trade, but, when possible, the work of the handicrafts was pursued in the streets, or, at least, with open doors.
+
+One feature of those times, however, stands out in marked contrast to our own. In these days the chief object which the capitalist sets before himself is the accumulation of wealth. Your modern capitalist can never have enough money. His great desire is to employ his whole income in amassing capital, expanding his business, undertaking fresh enterprises, or ruining his competitors. After acquiring his first million he strives for a second, for he fears being outstripped by some rival, and wishes to secure his possessions. The capitalist never employs his whole income for his personal consumption unless, indeed, he is a fool or a spendthrift, or unless his income is insufficient for his wants.
+
+Moreover, the wealthiest millionaire can lead the simplest of lives without diminishing the respect in which he is held. Whatever luxury he may permit himself, he keeps out of sight of the general public – in ball-rooms, chambres-séparées, in hunting-boxes, card-rooms, &c. Consequently, the millionaire is indistinguishable from the mass of his fellow-citizens when he is in the street.
+
+A very different state of things existed under the system of natural production and petty manufacture. The incomes of the rich and powerful, whether in natural products or money, could not be invested in shares or government bonds. The only use to which they could put their revenues was that of consumption, or – so far as they consisted in money – in the accumulation of valuable and imperishable things – precious metals and precious stones. The larger the incomes of temporal and spiritual princes and nobles, of patricians and merchants, the greater their luxury. Being by no means able to expend their wealth on themselves, they employed it in keeping up large establishments of servants, in the purchase of fine horses and dogs, in clothing themselves and their dependents in sumptuous apparel, in building lordly palaces and furnishing them as magnificently as possible. The craving for amassing treasure contributed only to the increase of luxury. The haughty lord of the Middle Ages did not, like the timorous Hindoo, bury his treasure in the ground; nor did he deem it necessary to shield it from the sight of thieves and tax-collectors, as do our modern capitalists. His wealth was the sign and source of his power, and he displayed it proudly and ostentatiously in the sight of all men; his garments, his equipages, his houses, glittering with gold and silver, with precious stones and pearls. That was indeed a golden age; and a golden age for art as well.
+
+The misery of those times, however, made itself quite as conspicuous as the widespread opulence. The proletariat was only in the first stage of development; though it was powerful enough to spur deep-thinking and sensitive men to meditate upon the ways and means by which want could be banished from the world, it was not sufficiently strong to count as a danger to state and society.
+
+Thus the primitive Christian doctrine which had found its chief supporters among a tatterdemalian proletariat, now fell on fertile soil; the doctrine that poverty is no crime, but rather a providential, God-given condition, demanding earnest consideration. According to the teaching of the gospel the poor man was a representative of Christ who had said “Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto Me” (Matt. xxv. 40). In practice the proletarian did not benefit to any great extent by this precept, for “ the representative of Christ” was sometimes treated in a most unchristian manner. But society was still far from possessing those contrivances of the modern police system which are intended to sweep all social as well as other rubbish from the path of the rich, not for the purpose of preventing misery, but merely to hide it out of sight. During the Middle Ages the poor were not shut up in almshouses, workhouses, reformatories, and the like. Begging was an acknowledged right; every church service, and especially every church festival, united the greatest splendour and the most abject want under the same roof – the roof of the Church.
+
+At that time, as at the present, society could be defined by the Platonic description, “the two nations.” In the decline of the Middle Ages however, the “two nations” of the rich and the poor still remained, at least, two neighbourly ones, understanding and knowing each other. In these latter days they have become such complete strangers, that when the “nation” of the wealthy desires to learn something about that of the proletarians a special expedition is required, as if it were a question of exploring the interior of Africa.
+
+In the Middle Ages the rich had no need to study the proletariat in order to understand it. Unveiled misery met the observer everywhere, in glaring contrast with wanton and excessive luxury. It is not surprising, therefore, that this contrast, besides arousing the anger of the lower classes, should have excited the nobler spirits of the higher ranks against it and in favour of tendencies towards the re-establishment of equality.

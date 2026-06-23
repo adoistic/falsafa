@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-bogdanov-socially-organised-society-socia-33d056",
+  "work_title": "Socially Organised Society: Socialist Society",
+  "chapter_number": 3,
+  "chapter_title": "2. The Social Relations of Production",
+  "chapter_slug": "03-2-the-social-relations-of-production",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4e42ec77-6a95-5b3f-bd40-aeaab6a8d173",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1037,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bogdanov/1919/socialism.htm"
+    }
+  ]
+}

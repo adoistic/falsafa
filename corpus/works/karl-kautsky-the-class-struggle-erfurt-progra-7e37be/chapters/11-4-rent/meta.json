@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-class-struggle-erfurt-progra-7e37be",
+  "work_title": "The Class Struggle (Erfurt Program)",
+  "chapter_number": 11,
+  "chapter_title": "4. Rent",
+  "chapter_slug": "11-4-rent",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4353b426-81d2-5817-aa54-710ba7b4fd0f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 521,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1892/erfurt/ch03.htm"
+    }
+  ]
+}

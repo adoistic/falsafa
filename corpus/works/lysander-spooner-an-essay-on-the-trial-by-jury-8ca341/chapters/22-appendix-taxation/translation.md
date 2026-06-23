@@ -1,0 +1,33 @@
+---
+work_id: "8ca341b9-142d-5fd1-9074-0176df8ba16c"
+work_slug: "lysander-spooner-an-essay-on-the-trial-by-jury-8ca341"
+work_title: An Essay on the Trial by Jury
+author_name: Lysander Spooner
+chapter_number: 22
+chapter_title: Appendix.↩, Taxation.↩
+chapter_slug: "22-appendix-taxation"
+variant_id: "8f48ca5b-ce4f-56db-a6ff-667625b10f20"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1034
+source_url: "https://oll.libertyfund.org/titles/spooner-an-essay-on-the-trial-by-jury-1852"
+translator: Online Library of Liberty edition
+---
+
+It was a principle of the Common Law, as it is of the law of nature, and of common sense, that no man can be taxed without his personal consent. The Common Law knew nothing of that system, which now prevails in England, of assuming a man’s own consent to be taxed, because some pretended representative, whom he never authorized to act for him, has taken it upon himself to consent that he may be taxed. That is one of the many frauds on the Common Law, and the English constitution, which have been introduced since Magna Carta. Having finally established itself in England, it has been stupidly and servilely copied and submitted to in the United States.
+
+If the trial by jury were reëstablished, the Common Law principle of taxation would be reëstablished with it; for it is not to be supposed that juries would enforce a tax upon an individual which he had never agreed to pay. Taxation without consent is as plainly robbery, when enforced against one man, as when enforced against millions; and it is not to be imagined that juries could be blind to so self-evident a principle. Taking a man’s money without his consent, is also as much robbery, when it is done by millions of men, acting in concert, and calling themselves a government, as when it is done by a single individual, acting on his own responsibility, and calling himself a highwayman. Neither the numbers engaged in the act, nor the different characters they assume as a cover for the act, alter the nature of the act itself.
+
+If the government can take a man’s money without his consent, there is no limit to the additional tyranny it may practise upon him; for, with his money, it can hire soldiers to stand over him, keep him in subjection, plunder him at discretion, and kill him if he resists. And governments always will do this, as they everywhere and always have done it, except where the Common Law principle has been established. It is therefore a first principle, a very sine qua non of political freedom, that a man can be taxed only by his personal consent. And the establishment of this principle, with trial by jury, insures freedom of course; because: 1. No man would pay his money unless he had first contracted for such a government as he was willing to support; and, 2. Unless the government then kept itself within the terms of its contract, juries would not enforce the payment of the tax. Besides, the agreement to be taxed would probably be entered into but for a year at a time. If, in that year, the government proved itself either inefficient or tyrannical, to any serious degree, the contract would not be renewed. [223] The dissatisfied parties, if sufficiently numerous for a new organization, would form themselves into a separate association for mutual protection. If not sufficiently numerous for that purpose, those who were conscientious would forego all governmental protection, rather than contribute to the support of a government which they deemed unjust.
+
+All legitimate government is a mutual insurance company, voluntarily agreed upon by the parties to it, for the protection of their rights against wrong-doers. In its voluntary character it is precisely similar to an association for mutual protection against fire or shipwreck. Before a man will join an association for these latter purposes, and pay the premium for being insured, he will, if he be a man of sense, look at the articles of the association; see what the company promises to do; what it is likely to do; and what are the rates of insurance. If he be satisfied on all these points, he will become a member, pay his premium for a year, and then hold the company to its contract. If the conduct of the company prove unsatisfactory, he will let his policy expire at the end of the year for which he has paid; will decline to pay any further premiums, and either seek insurance elsewhere, or take his own risk without any insurance. And as men act in the insurance of their ships and dwellings, they would act in the insurance of their properties, liberties and lives, in the political association, or government.
+
+The political insurance company, or government, have no more right, in nature or reason, to assume a man’s consent to be protected by them, and to be taxed for that protection, when he has given no actual consent, than a fire or marine insurance company have to assume a man’s consent to be protected by them, and to pay the premium, when his actual consent has never been given. To take a man’s property without his consent is robbery; and to assume his consent, where no actual consent is given, makes the taking none the less robbery. If it did, the highwayman has the same right to assume a man’s consent to part with his purse, that any other man, or body of men, can have. And his assumption would afford as much moral justification for his robbery as does a like assumption, on the part of the government, for taking a man’s property without his consent. The government’s pretence of protecting him, as an equivalent for the taxation, affords no justification. It is for himself to decide whether he desires such protection as the government offers him. If he do not desire it, or do not bargain for it, the government has no more right than any other insurance company to impose it upon him, or make him pay for it.
+
+Trial by the country, and no taxation without consent, were the two pillars of English liberty, (when England had any liberty,) and the first principles of the Common Law. They mutually sustain each other; and neither can stand without the other. Without both, no people have any guaranty for their freedom; with both, no people can be otherwise than free.*
+
+By what force, fraud, and conspiracy, on the part of kings, nobles, and “a few wealthy freeholders,” these pillars have been prostrated in England, it is designed to show more fully in the next volume, if it should be necessary.

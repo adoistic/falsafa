@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 19
-chapter_title: "CHAPTER VI: THE DIAGRAMMATIC EXPOSITION OF THE LAW OF RENT AND ITS IMPLICATIONS"
+chapter_title: "Chapter VI: The Diagrammatic Exposition of the Law of Rent and Its Implications"
 chapter_slug: 19
 variant_id: "7c833355-969d-52ef-9ede-d3fe9ccda47f"
 content_type: translation

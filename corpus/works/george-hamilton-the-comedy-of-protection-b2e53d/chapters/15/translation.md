@@ -4,7 +4,7 @@ work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
 work_title: The Comedy of Protection
 author_name: George Hamilton
 chapter_number: 15
-chapter_title: "CHAPTER VIII: RESULTS OF THE 1860 TREATIES"
+chapter_title: "Chapter VIII: Results of the 1860 Treaties"
 chapter_slug: 15
 variant_id: "d644f8e7-aa6a-5d14-b461-324961f1b652"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 381
+word_count: 377
 source_url: "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
 translator: Online Library of Liberty edition
 ---
@@ -22,7 +22,7 @@ Development of cotton-spinning—Funds for the unemployed—Tables from 1859 to 
 
 The justification of economic reaction, urged in season and out of season by those who encouraged it, was that France had been ruined by the commercial treaties of 1860, although ten years after their conclusion she had been able to sustain the disasters of the war of 1870. The lamentations of the cotton-spinners were the loudest of all: had they been justified they must have closed their factories and ceased to import raw cotton; as a matter of fact, in spite of the loss of Alsace-Lorraine, importation increased, as the table shows:—
 
-It is worth notice that the War of Secession took place during the years following the treaty, and made Edition: current; Page: [35] it difficult to obtain a supply of cotton. In 1863 the Government handed to the manufacturers a sum of £40,000, to be used in assisting the unemployed cotton hands. In his evidence before the Senate’s Committee of Inquiry, M. Delessalle admitted frankly that the motive used to obtain this sum was a mere pretex. “M. Pouyer-Quertier, president of a society for assisting the unemployed, knows as well as I do that for want of people to assist another use has been found for a large portion of the fund.” It would be interesting to know the use made with so little ceremony of funds diverted from their proper purpose. The cotton-spinners resented the treaty because it had forced them to improve their plant, and had hastened the substitution of mechanical for manual labour. Since, however, the number of factories had increased, and the horse-power of the engines employed, it is not easy to draw, with M. Pouyer-Quertier, the conclusion that the industry has been ruined. Figures disprove it:—
+It is worth notice that the War of Secession took place during the years following the treaty, and made it difficult to obtain a supply of cotton. In 1863 the Government handed to the manufacturers a sum of £40,000, to be used in assisting the unemployed cotton hands. In his evidence before the Senate’s Committee of Inquiry, M. Delessalle admitted frankly that the motive used to obtain this sum was a mere pretex. “M. Pouyer-Quertier, president of a society for assisting the unemployed, knows as well as I do that for want of people to assist another use has been found for a large portion of the fund.” It would be interesting to know the use made with so little ceremony of funds diverted from their proper purpose. The cotton-spinners resented the treaty because it had forced them to improve their plant, and had hastened the substitution of mechanical for manual labour. Since, however, the number of factories had increased, and the horse-power of the engines employed, it is not easy to draw, with M. Pouyer-Quertier, the conclusion that the industry has been ruined. Figures disprove it:—
 
 There was an immense expansion in all trades:—
 

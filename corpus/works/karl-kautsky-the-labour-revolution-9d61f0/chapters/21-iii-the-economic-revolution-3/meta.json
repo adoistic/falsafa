@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-labour-revolution-9d61f0",
+  "work_title": "The Labour Revolution",
+  "chapter_number": 21,
+  "chapter_title": "III. The Economic Revolution (3)",
+  "chapter_slug": "21-iii-the-economic-revolution-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ba6bf3c-5a0c-5f34-a948-187b3a4a34d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3250,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1924/labour/ch03_e.htm"
+    }
+  ]
+}

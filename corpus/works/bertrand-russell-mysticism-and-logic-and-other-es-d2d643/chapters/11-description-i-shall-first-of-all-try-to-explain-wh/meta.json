@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-mysticism-and-logic-and-other-es-d2d643",
+  "work_title": "Mysticism and Logic and Other Essays",
+  "chapter_number": 11,
+  "chapter_title": "\"description,\" I shall first of all try to explain what I mean by",
+  "chapter_slug": "11-description-i-shall-first-of-all-try-to-explain-wh",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b114a8a9-661b-5daf-8890-d757982d40cb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7405,
+      "paragraph_count": 75,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/25447"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+---
+work_id: "9854ed81-f7ef-52b6-99c9-8ce949767ef2"
+work_slug: "nikolai-bukharin-the-abc-of-communism-9854ed"
+work_title: The ABC of Communism
+author_name: Nikolai Bukharin
+chapter_number: 44
+chapter_title: â§ 65. The political commissars and the communist groups
+chapter_slug: "44-a-65-the-political-commissars-and-the-communist-gr"
+variant_id: "5865ac10-fd32-511b-9fe7-fe02374da299"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 647
+source_url: "https://www.marxists.org/archive/bukharin/works/1920/abc/08.htm"
+translator: Marxists Internet Archive edition
+---
+
+In the Russian Soviet Republic, in which all workers can express their will through the soviets, the workers and peasants have for the last two years been electing communists to the various executive organs. The Communist Party - we put the matter in bourgeois phraseology - has become by the will of the masses the ruling party of the republic, for no other party was capable of conducting the victorious workers' and peasants' revolution to a successful issue. As a result of this, our party has become as it were a huge executive committee of the proletarian dictatorship. This is why the communists fill the leading role in the Red Army. The political commissars are the representatives of the class willof the proletariat inthe army; they are mandated by the party and the military centres. Thereby are determined the mutual relationships of the commissar alike with the military staff and with the communist groups of the division to which he is assigned. The communist group is a section of the ruling party; the commissar is a plenipotentiary of the party as a whole. Thence derives his leading role, both in the army division, and in the communist groups of that division. Thence, likewise, his right to supervise the military staff. He is a political leader who acts as overseer to watch the technical experts performing their duties.
+
+The task of the communist groups is to give to the soldiers of the Red Army clear ideas concerning the civil war, and concerning the need that they should subordinate their interests to the interests of all the workers. A further duty of the members of the communist groups in the army is, by personal example, to display their devotion to the revolution, and to arouse in their fellow-soldiers a desire to emulate this example. The members of the communist groups are further entitled to watch how their own commissar and other commissars perform their communist duties, and they can endeavour (by appealing to the supreme party organizations or to responsible commissars) to secure that necessary measures shall be carried into effect. Thus only can the Communist Party - without any infringement of general military discipline on the part of Red soldiers who are communists - secure complete control over all its members and prevent any misuse of power on their side.
+
+Apart from the communist groups in the army and apart from the political commissars, the political education of the Red Army is supervised by a whole network of political sections in the divisions and in the armies at the various fronts, and it is also supervised by the propaganda sections of the Commissariat for War. In its various departments, the proletarian State of Russia has created a mighty instrument for the enlightenment and organization of its army, and it endeavours to secure the maximum of result with the minimum of effort. Thanks to the existence of this apparatus, the work of agitation and enlightenment in our army is not carried on fortuitously, but has a systematized character. The newspaper, the spoken word at meetings, and scholastic instruction, are ensured for every soldier of the Red Army.
+
+Unfortunately, however, the above-described organizations have not escaped the common lot of all the organizations of the Soviet Power. They have succumbed to bureaucracy; they have tended towards a detachment from the masses, on the one hand, and from the party, on the other; and in practice they have often shown themselves to be harbours of refuge for idlers and incapables who belong to the party war-office officialdom. A vigorous campaign against such abuses would seem to be of far more urgent importance to the Communist Party than the campaign against bureaucracy and slackness in the general soviet mechanism, for upon the success of the former campaign our speedy victory in the civil war must be said in a sense to depend.

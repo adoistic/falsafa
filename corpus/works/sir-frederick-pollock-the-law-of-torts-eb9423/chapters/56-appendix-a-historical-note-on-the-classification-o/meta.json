@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-law-of-torts-eb9423",
+  "work_title": "The Law of Torts",
+  "chapter_number": 56,
+  "chapter_title": "Appendix a. Historical Note on the Classification of the Forms of Personal Action.",
+  "chapter_slug": "56-appendix-a-historical-note-on-the-classification-o",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd112781-c6c8-5d5c-a8e8-d50fcf134c8a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2551,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+    }
+  ]
+}

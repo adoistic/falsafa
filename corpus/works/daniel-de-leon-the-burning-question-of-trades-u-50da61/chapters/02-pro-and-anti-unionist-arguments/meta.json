@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-the-burning-question-of-trades-u-50da61",
+  "work_title": "The Burning Question of Trades Unionism",
+  "chapter_number": 2,
+  "chapter_title": "Pro- and Anti-unionist Arguments",
+  "chapter_slug": "02-pro-and-anti-unionist-arguments",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f010bb65-783c-518a-a623-2163e3a8f5f5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5384,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1904/040421.htm"
+    }
+  ]
+}

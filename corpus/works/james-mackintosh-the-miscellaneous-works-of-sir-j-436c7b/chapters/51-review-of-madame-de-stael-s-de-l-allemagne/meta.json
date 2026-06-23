@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 51,
+  "chapter_title": "Review of Madame De Staël’s ‘De L’allemagne.’",
+  "chapter_slug": "51-review-of-madame-de-stael-s-de-l-allemagne",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "be20a6fb-21f6-598e-9405-c9e198ece0ee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9417,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

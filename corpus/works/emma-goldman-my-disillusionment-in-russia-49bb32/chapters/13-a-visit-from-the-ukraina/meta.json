@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 13,
+  "chapter_title": "A Visit from the Ukraina",
+  "chapter_slug": "13-a-visit-from-the-ukraina",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23c1c00a-1c92-5b47-b4a3-d7e3598f1b90",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2290,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch11.htm"
+    }
+  ]
+}

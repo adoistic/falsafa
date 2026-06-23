@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-england-for-all-528b1d",
+  "work_title": "England For All",
+  "chapter_number": 4,
+  "chapter_title": "Chap.II – Labour",
+  "chapter_slug": "04-chap-ii-labour",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ef82278-b298-5007-b833-2039c88be782",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8861,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1881/england/chap02.html"
+    }
+  ]
+}

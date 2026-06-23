@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 10
-chapter_title: "BOOK III, CHAPTER II: WANTS IN RELATION TO ACTIVITIES."
+chapter_title: "Book III, Chapter II: Wants in Relation to Activities."
 chapter_slug: 10
 variant_id: "72cf470f-f619-5f1e-9b00-8fd489db5183"
 content_type: translation

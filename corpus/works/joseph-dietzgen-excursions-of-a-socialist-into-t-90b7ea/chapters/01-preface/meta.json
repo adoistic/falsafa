@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-excursions-of-a-socialist-into-t-90b7ea",
+  "work_title": "Excursions of a Socialist into the Domain of Epistemology",
+  "chapter_number": 1,
+  "chapter_title": "Preface",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "28c7aa6e-ba54-549a-92ed-6149a1df6091",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 784,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1887/epistemology.htm"
+    }
+  ]
+}

@@ -4,15 +4,19 @@ slug: "knut-wicksell-the-influence-of-the-rate-of-int-4e7ec4"
 title: The Influence of the Rate of Interest on Prices
 author:
   name: Knut Wicksell
-  biography: Knut Wicksell (1851–1926).
-era: 19th Century
+  biography: "Swedish economist of the Lund chair, founder of the Stockholm school of monetary theory. \"The Influence of the Rate of Interest on Prices\" set out his cumulative-process account of how a gap between the market and natural rates of interest drives the price level."
+  birth_year: 1851
+  death_year: 1926
+  nationality: Swedish
+era: 20th Century
 genre: Economics
 language: English
 language_direction: ltr
 description: "The Influence of the Rate of Interest on Prices, by Knut Wicksell (1851–1926), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
-total_logical_chapters: 2
-total_variant_entries: 2
+published_year: 1907
+total_logical_chapters: 1
+total_variant_entries: 1
 thothica_role: catalog
 ---
 
@@ -23,4 +27,3 @@ The Influence of the Rate of Interest on Prices, by Knut Wicksell (1851–1926),
 ## Chapters
 
 01. [Knut Wicksell, “The Influence of the Rate of Interest on Prices”, Economic Journal, XVII (1907), pp. 213–220. A paper re](./chapters/01-knut-wicksell-the-influence-of-the-rate-of-interes/) — prose, 1 variant
-02. [Notes](./chapters/02-notes/) — prose, 1 variant

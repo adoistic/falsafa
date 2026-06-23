@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-bernard-shaw-on-the-history-of-fabian-economi-0af1cd",
+  "work_title": "On the History of Fabian Economics",
+  "chapter_number": 1,
+  "chapter_title": "On the History of Fabian Economics",
+  "chapter_slug": "01-on-the-history-of-fabian-economics",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c5df119b-e4ba-5923-a00d-852bcab9f4c6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2150,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/subject/economy/authors/fabians/earlyenglishvalue/gbs-histfabianeconomics.htm"
+    }
+  ]
+}

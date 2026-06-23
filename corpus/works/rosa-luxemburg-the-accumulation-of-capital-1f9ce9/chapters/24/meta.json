@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-accumulation-of-capital-1f9ce9",
+  "work_title": "The Accumulation of Capital",
+  "chapter_number": 24,
+  "chapter_title": "Chapter 23: Tugan Baranovski and His ‘Lack of Proportion’",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "50330a3f-2582-5bf3-a5bd-5ac8df72ec15",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3729,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch23.htm"
+    }
+  ]
+}

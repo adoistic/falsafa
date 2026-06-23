@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-imperialism-the-highest-stage-of-c6d840",
+  "work_title": "Imperialism, the Highest Stage of Capitalism",
+  "chapter_number": 10,
+  "chapter_title": "VIII. Parasitism and Decay of Capitalism",
+  "chapter_slug": "10-viii-parasitism-and-decay-of-capitalism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eeb17c65-565a-5362-af7d-899c6ef6e7f1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3056,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch08.htm"
+    }
+  ]
+}

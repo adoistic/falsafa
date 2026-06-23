@@ -4,7 +4,7 @@ work_slug: "thomas-robert-malthus-definitions-in-political-economy-2a1c5b"
 work_title: Definitions in Political Economy
 author_name: Thomas Robert Malthus
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "0ce14cd1-e7f2-55d9-bff5-b637d2765181"
 content_type: translation

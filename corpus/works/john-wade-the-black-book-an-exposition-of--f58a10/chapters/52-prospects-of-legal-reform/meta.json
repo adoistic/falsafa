@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 52,
+  "chapter_title": "Prospects of Legal Reform.",
+  "chapter_slug": "52-prospects-of-legal-reform",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5c9202d4-89ca-55d8-9308-fbe134281710",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1713,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

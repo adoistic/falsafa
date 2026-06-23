@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c"
 work_title: The Positive Theory of Capital
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 4
-chapter_title: "Book I, Chapter I: Man and Nature"
+chapter_title: "Book I: The Nature and Conception of Capital, Book I, Chapter I: Man and Nature"
 chapter_slug: 04
 variant_id: "a6075471-42cc-598c-893a-f0cce494a3b6"
 content_type: translation

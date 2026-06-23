@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-treatises-and-essays-on-subjects-4cfbd6",
+  "work_title": "Treatises and Essays on Subjects Connected with Economic Policy",
+  "chapter_number": 8,
+  "chapter_title": "Tables Relative to the Money of the United Kingdom.",
+  "chapter_slug": "08-tables-relative-to-the-money-of-the-united-kingdom",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cedd575e-f9ea-5b2e-bbaf-66540b2253e6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 314,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853"
+    }
+  ]
+}

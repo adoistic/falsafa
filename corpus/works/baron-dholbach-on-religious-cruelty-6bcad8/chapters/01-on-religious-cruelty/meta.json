@@ -1,0 +1,26 @@
+{
+  "work_slug": "baron-dholbach-on-religious-cruelty-6bcad8",
+  "work_title": "On Religious Cruelty",
+  "chapter_number": 1,
+  "chapter_title": "On Religious Cruelty",
+  "chapter_slug": "01-on-religious-cruelty",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "afe94314-2842-5a75-81d8-b4f5fd445f23",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3115,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/holbach/1769/religious-cruelty.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 7
-chapter_title: Chapter XV
+chapter_title: Chapter XIV
 chapter_slug: 07
 variant_id: "accc2d94-d777-55e1-9d72-8066adbf67a7"
 content_type: translation
@@ -13,143 +13,89 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1296
+word_count: 847
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-*Of the Special Canons of the Four Figures.*
+_Of the Determination of the Moods that are valid in the Four Figures._
 
-§ 633. So far we have given only a negative test of legitimacy, having shown what moods are not invalidated by running counter to any of the special rules of the four figures. We will now lay down special canons for the four figures, conformity to which will serve as a positive test of the validity of a given mood in a given figure. The special canon of the first figure--will of course be practically equivalent to the Dictum de Omni et Nullo. All of them will be expressed in terms of extension, for the sake of perspicuity.
+§ 621. By applying the special rules just given we shall be able to determine how many of the eleven legitimate moods are valid in the four figures.
 
-*Special Canons of the Four Figures.*
+$622. These eleven legitimate moods were found to be
+
+AAA. AAI. AEE. AEO. AII. AOO. EAE. EAO. EIO. IAI. OAO.
 
 FIGURE 1.
 
-§ 634. CANON. If one term wholly includes or excludes another, which wholly or partly includes a third, the first term wholly or partly includes or excludes the third.
+§ 623. The rule that the major premiss must be universal excludes the last two moods, IAI, OAO. The rule that the minor premiss must be affirmative excludes three more, namely, AEE, AEO, AOO.
 
-Here four cases arise--
+Thus we are left with six moods which are valid in the first figure, namely,
 
-(1) Total inclusion (Barbara).
-
-(2) Partial inclusion (Darii).
-
-All B is A. Some C is B. .'. Some C is A.
-
-(3) Total exclusion (Celarent).
-
-(4) Partial exclusion (Ferio).
-
-No B is A. Some C is B. .'. Some C is not A.
+AAA. EAE. AII. EIO. AAI. EAO.
 
 FIGURE II.
 
-§ 635. CANON. If one term is excluded from another, which wholly or partly includes a third, or is included in another from which a third is wholly or partly excluded, the first is excluded from the whole or part of the third.
+§ 624. The rule that one premiss must be negative excludes four moods, namely, AAA, AAI, AII, IAI. The rule that the major must be universal excludes OAO. Thus we are left with six moods which are valid in the second figure, namely,
 
-Here we have four cases, all of exclusion--
-
-(1) Total exclusion on the ground of inclusion in an excluded term (Cesare).
-
-(2) Partial exclusion on the ground of a similar partial inclusion (Festino).
-
-No A is B. Some C is B. .'. Some C is not A.
-
-(3) Total exclusion on the ground of exclusion from an including term (Camestres).
-
-(4) Partial exclusion on the ground of a similar partial exclusion (Baroko).
-
-All A is B. Some C is not B. .'. Some C is not A.
+EAE. AEE. EIO. AOO. EAO. AEO.
 
 FIGURE III.
 
-§ 636. CANON. If two terms include another term in common, or if the first includes the whole and the second a part of the same term, or vice versâ, the first of these two terms partly includes the second; and if the first is excluded from the whole of a term which is wholly or in part included in the second, or is excluded from part of a term which is wholly included in the second, the first is excluded from part of the second.
+§ 625. The rule that the conclusion must be particular confines us to eight moods, two of which, namely AEE and AOO, are excluded by the rule that the minor premiss must be affirmative.
 
-Here it is evident from the statement that six cases arise--
+Thus we are left with six moods which are valid in the third figure, namely,
 
-(1) Total inclusion of the same term in two others (Darapti).
-
-All B is A. All B is C. .'. some C is A.
-
-(2) Total inclusion in the first and partial inclusion in the second (Datisi).
-
-All B is A. Some B is C. .'. some C is A.
-
-(3) Partial inclusion in the first and total inclusion in the second (Disamis).
-
-Some B is A. All B is C. .'. some C is A.
-
-(4) Total exclusion of the first from a term which is wholly included in the second (Felapton).
-
-No B is A. All B is C. .'. some C is not A.
-
-(5) Total exclusion of the first from a term which is partly included in the second (Ferison).
-
-No B is A. Some B is C. .'. some C is not A.
-
-(6) Exclusion of the first from part of a term which is wholly included in the second (Bokardo).
-
-Some B is not A. All B is C. .'. Some C is not A.
+AAI. IAI. AII. EAO. OAO. EIO.
 
 FIGURE IV.
 
-§ 637. CANON. If one term is wholly or partly included in another which is wholly included in or excluded from a third, the third term wholly or partly includes the first, or, in the case of total inclusion, is wholly excluded from it; and if a term is excluded from another which is wholly or partly included in a third, the third is partly excluded from the first.
+§ 626. The first of the eleven moods, AAA, is excluded by the rule that the conclusion cannot be a universal affirmative.
 
-Here we have five cases--
+Two more moods, namely AOO and OAO, are excluded by the rule that neither of the premisses can be a particular negative.
 
-(1) Of the inclusion of a whole term (Bramsntip).
+AII violates the rule that when the major premiss is affirmative, the minor must be universal.
 
-(2) Of the inclusion of part of a term (DIMARIS).
+EAE violates the rule that, when the minor premiss is affirmative, the conclusion must be particular. Thus we are left with six moods which are valid in the fourth figure, namely,
 
-Some A is B. All B is C. .'. Some C is (some) A,
+AAI. AEE. IAI. EAO. EIO. AEO.
 
-(3) Of the exclusion of a whole term (Camenes).
+§ 627. Thus the 256 possible forms of syllogism have been reduced to two dozen legitimate combinations of mood and figure, six moods being valid in each of the four figures.
 
-(4) Partial exclusion on the ground of including the whole of an excluded term (Fesapo).
+FIGURE I. AAA. EAE. AII. EIO. (AAI. EAO.)
 
-No A is B. All B is C. .'. Some C is not A.
+FIGURE II. EAE. AEE. EIO. AGO. (EAO. AEO.)
 
-(5) Partial exclusion on the ground of including part of an excluded term (Fresison).
+FIGURE III. AAI. IAI. AII. EAO. OAO. EIO.
 
-No A is B. Some B is C. .'. Some C is not A.
+FIGURE IV. AAI. AEE. IAI. EAO. EIO. (AEO.)
 
-§ 638. It is evident from the diagrams that in the subaltern moods the conclusion is not drawn directly from the premisses, but is an immediate inference from the natural conclusion. Take for instance AAI in the first figure. The natural conclusion from these premisses is that the minor term C is wholly contained in the major term A. But instead of drawing this conclusion we go on to infer that something which is contained in C, namely some C, is contained in A.
+§ 628. The five moods enclosed in brackets, though valid, are useless. For the conclusion drawn is less than is warranted by the premisses. These are called Subaltern Moods, because their conclusions might be inferred by subalternation from the universal conclusions which can justly be drawn from the same premisses. Thus AAI is subaltern to AAA, EAO to EAE, and so on with the rest.
 
-Similarly in EAO in figure 1, instead of arguing that the whole of C is excluded from A, we draw a conclusion which really involves a further inference, namely that part of C is excluded from A.
+§ 629. The remaining 19 combinations of mood and figure, which are loosely called 'moods,' though in strictness they should be called 'figured moods,' are generally spoken of under the names supplied by the following mnemonics--
 
-§ 639. The reason why the canons have been expressed in so cumbrous a form is to render the validity of all the moods in each figure at once apparent from the statement. For purposes of general convenience they admit of a much more compendious mode of expression.
+Barbara, Celarent, Darii, Ferioque prioris; Cesare, Camestres, Festino, Baroko secundæ; Tertia Darapti, Disamis, Datisi, Felapton, Bokardo, Ferison habet; Quarta insuper addit Bramantip, Camenes, Dimaris, Fesapo, Fresison: Quinque Subalterni, totidem Generalibus orti, Nomen habent nullum, nee, si bene colligis, usum.
 
-§ 640. The canon of the first figure is known as the Dictum de Omni et Nullo--
+§ 630. The vowels in these lines indicate the letters of the mood. All the special rules of the four figures can be gathered from an inspection of them. The following points should be specially noted.
 
-What is true (distributively) of a whole term is true of all that it includes.
+The first figure proves any kind of conclusion, and is the only one which can prove A.
 
-§ 641. The canon of the second figure is known as the Dictum de Diverse--
+The second figure proves only negatives.
 
-If one term is contained in, and another excluded from a third term, they are mutually excluded.
+The third figure proves only particulars.
 
-§ 642. The canon of the third figure is known as the Dictum de Exemplo et de Excepto--
+The fourth figure proves any conclusion except A.
 
-Two terms which contain a common part partly agree, or, if one contains a part which the other does not, they partly differ.
+§ 631. The first figure is called the Perfect, and the rest the Imperfect figures. The claim of the first to be regarded as the perfect figure may be rested on these grounds--
 
-§ 643. The canon of the fourth figure has had no name assigned to it, and does not seem to admit of any simple expression. Another mode of formulating it is as follows:--
+1. It alone conforms directly to the Dictum de Omni et Nullo.
 
-Whatever is affirmed of a whole term may have partially affirmed of it whatever is included in that term (Bramantip, Dimaris), and partially denied of it whatever is excluded (Fesapo); whatever is affirmed of part of a term may have partially denied of it whatever is wholly excluded from that term (Fresison); and whatever is denied of a whole term may have wholly denied of it whatever is wholly included in that term (Camenes).
+2. It suffices to prove every kind of conclusion, and is the only figure in which a universal affirmative proposition can be established.
 
-§ 644. From the point of view of intension the canons of the first three figures may be expressed as follows.
+3. It is only in a mood of this figure that the major, middle and minor terms are to be found standing in their relative order of extension.
 
-§ 645. Canon of the first figure. Dictum de Omni et Nullo--
+§ 632. The reason why a universal affirmative, which is of course infinitely the most important form of proposition, can only be proved in the first figure may be seen as follows.
 
-An attribute of an attribute of anything is an attribute of the thing itself.
+*Proof that A can only be established in figure I.*
 
-§ 646. Canon of the second figure. Dictum de Diverso--
-
-If a subject has an attribute which a class has not, or vice versa, the subject does not belong to the class.
-
-§ 647. Canon of the third figure.
-
-1. Dictum de Exemplo--
-
-If a certain attribute can be affirmed of any portion of the members of a class, it is not incompatible with the distinctive attributes of that class.
-
-2. Dictum de Excepto--
-
-If a certain attribute can be denied of any portion of the members of a class, it is not inseparable from the distinctive attributes of that class.
+An A conclusion necessitates both premisses being A propositions (by Rule 7). But the minor term is distributed in the conclusion, as being the subject of an A proposition, and must therefore be distributed in the minor premiss, in order to which it must be the subject. Therefore the middle term must be the predicate and is consequently undistributed. In order therefore that the middle term may be distributed, it must be subject in the major premiss, since that also is an A proposition. But when the middle term is subject in the major and predicate in the minor premiss, we have what is called the first figure.

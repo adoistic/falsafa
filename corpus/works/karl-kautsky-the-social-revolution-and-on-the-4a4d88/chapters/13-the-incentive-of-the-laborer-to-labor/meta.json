@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-social-revolution-and-on-the-4a4d88",
+  "work_title": "The Social Revolution (and On the Day After the Social Revolution)",
+  "chapter_number": 13,
+  "chapter_title": "The Incentive of the Laborer to Labor",
+  "chapter_slug": "13-the-incentive-of-the-laborer-to-labor",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7f0e9835-9b87-560c-ac06-59263b43079f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3261,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1902/socrev/pt2-1.htm"
+    }
+  ]
+}

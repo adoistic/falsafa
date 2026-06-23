@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-ethics-and-the-materialist-conce-c26920",
+  "work_title": "Ethics and the Materialist Conception of History",
+  "chapter_number": 6,
+  "chapter_title": "III. Freedom and Necessity",
+  "chapter_slug": "06-iii-freedom-and-necessity",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "231e41a1-79ee-549c-9dc5-17afe1ec8259",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1472,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1906/ethics/ch03.htm"
+    }
+  ]
+}

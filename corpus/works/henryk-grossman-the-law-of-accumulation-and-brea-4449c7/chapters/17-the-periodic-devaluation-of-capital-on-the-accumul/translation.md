@@ -1,0 +1,47 @@
+---
+work_id: "4449c7c1-e350-52e4-84b7-261a293aa5d6"
+work_slug: "henryk-grossman-the-law-of-accumulation-and-brea-4449c7"
+work_title: The Law of Accumulation and Breakdown of the Capitalist System
+author_name: Henryk Grossman
+chapter_number: 17
+chapter_title: The periodic devaluation of capital on the accumulation process
+chapter_slug: "17-the-periodic-devaluation-of-capital-on-the-accumul"
+variant_id: "8fe99afa-8045-5194-b010-915281762f8f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1288
+source_url: "https://www.marxists.org/archive/grossman/1929/breakdown/ch03.htm"
+translator: Jairus Banaji
+---
+
+The assumption of constant values is one of the many underlying the reproduction scheme of Marx. Bauer adopts this assumption in two senses: (i) the value of the constant capital used up in the process of production is transferred intact to the product; (ii) the values created in each cycle of production are accumulated in the next cycle without undergoing any quantitative changes. (Some values are of course destroyed in consumption.) This constancy is postulated although Bauer’s scheme presupposes continuous technological progress. He does not notice the contradiction.
+
+Technological progress means that since commodities are created with a smaller expenditure of labour their value falls. This is not only true of the newly produced commodities. The fall in value reacts back on the commodities that are still on the market but which were produced under the older methods, involving a greater expenditure of labour time. These commodities are devalued.
+
+There is no trace of this phenomenon in Bauer’s scheme. He refers to devaluations but this is only due to periodic overproduction. The implication is that if the system were in equilibrium there would be no devaluations — the value relations of any given point of time would survive indefinitely. Things are quite different in Marx. Devaluation necessarily flows out of the mechanism of capital even in its ideal or normal course. It is a necessary consequence of continual improvements in technology, of the fact that labour time is the measure of exchange value.
+
+It follows that the assumption of constant values has a purely provisional character. The question arises — how is the law of accumulation and breakdown modified in its workings when the assumption is dropped? Until now this problem has never been posed. Both Bauer and Tugan realised that holding values constant is a simplifying assumption. But neither modified this assumption. For this reason their models of reproduction are completely unrealistic fictions which cannot reflect or explain the actual course of capitalist reproduction.
+
+Devaluation of capital goes hand in hand with the fall in the rate of profit and is crucial for explaining the concentration and centralisation of capital that accompanies this fall.
+
+We have seen how the accumulation process encounters its ultimate limits in insufficient valorisation. The further continuation of capital depends on restoring the conditions of valorisation. These conditions can only be secured if a) relative surplus value is increased orb) the value of the constant capital is reduced ‘so that the commodities which enter either the reproduction of labour-power, or into the elements of constant capital, are cheapened. Both imply a depreciation of the existing capital’ (Marx, 1959, p. 248). This depreciation does not come about as a consequence of overproduction but in the normal course of capitalist accumulation — as a result of constant improvements in technology. Advances in technology thus entail ‘periodical depreciation of existing capital — one of the means immanent in capitalist production to check the fall of the rate of profit and hasten accumulation of capital value through formation of new capital’ (p. 249).
+
+The result of the devaluation of capital is reflected in the fact that a given mass of means of production represents a smaller value. The result is analogous to that which arises from growing productivity — cheapening of the elements of production and a faster growth of the mass of use values as compared with the mass of value. However in the case of rising productivity the elements of production actually start off cheaper whereas here we are dealing with a case where the elements of production produced at a given value are only subsequently devalued.
+
+With devaluation the technological composition of capital remains the same while its value composition declines. Both before and after devaluation the same quantity of labour is required to set in motion the same mass of means of production and to produce the same quantity of surplus value.
+
+But because the value of the constant capital has declined this quantity of surplus value is calculated on a reduced capital value. The rate of valorisation is thereby increased and so the breakdown is postponed for some time. In terms of Bauer’s scheme, periodic devaluation of capital would mean that the accumulated capital represents a smaller value magnitude than shown by the figures there and would, for example, only reach the level of year 20 as late as year 36.
+
+In other words, however much devaluation of capital may devastate the individual capitalist in periods of crisis, they are a safety valve for the capitalist class as a whole. For the system devaluation of capital is a means of prolonging its life span, of defusing the dangers that threaten to explode the entire mechanism. The individual is thus sacrificed in the interest of the species.
+
+The devaluation of accumulated capital takes various forms. Initially Marx deals with the case of periodic devaluation due to technological changes. In this case the value of the existing capital is diminished while the mass of production remains the same. The same effect however, is produced when the apparatus of reproduction is used up or destroyed in terms of value as well as use value through wars, revolutions, habitual use without simultaneous reproduction, etc. For a given economy the effect of capital devaluation is the same as if the accumulation of capital were to find itself at a lower stage of development. In this sense it creates a greater scope for the accumulation of capital.
+
+The specific function of wars in the capitalist mechanism is only explicable in these terms. Far from being an obstacle to the development of capitalism or a factor which accelerates the breakdown, as Kautsky and other Marxists have supposed, the destructions and devaluations of war are a means of warding off the imminent collapse, of creating a breathing space for the accumulation of capital. For example it cost Britain £23.5 million to suppress the Indian uprising of 1857—8 and another £77.5 million to fight the Crimean War. These capital losses relieved the overtense situation of British capitalism and opened up new room for her expansion. This is even more true of the capital losses and devaluations to follow in the aftermath of the 1914—18 war. According to W Woytinsky, ‘around 35 per cent of the wealth of mankind was destroyed and squandered in the four years’ (1925, pp. 197—8). Because the population of the major European countries simultaneously expanded, despite war losses, a larger valorisation base confronted a reduced capital, and this created new scope for accumulation.
+
+Kautsky was completely wrong to have supposed that the catastrophe of the world war would inevitably lead to the breakdown of capitalism and then, when no such thing happened, to have gone on to deny the inevitability of the breakdown as such. From the Marxist theory of accumulation it follows that war and the destruction of capital values bound up with it weaken the breakdown and necessarily provide a new impetus to the accumulation of capital. Luxemburg’s conception is equally wrong: ‘From the purely economic point of view, militarism is a pre-eminent means for the realisation of surplus-value; it is in itself a sphere of accumulation’ (1968, p. 454).
+
+This is how things may appear from the standpoint of individual capital as military supplies have always been the occasion for rapid enrichment. But from the standpoint of the total capital, militarism is a sphere of unproductive consumption. Instead of being saved, values are pulverised. Far from being a sphere of accumulation, militarism slows down accumulation. By means of indirect taxation a major share of the income of the working class which might have gone into the hands of the capitalists as surplus value is seized by the state and spent mainly for unproductive purposes.

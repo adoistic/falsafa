@@ -1,0 +1,92 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 71
+chapter_title: Letter 71
+chapter_slug: "71-letter-71"
+variant_id: "8521abb9-9fc8-570a-b819-baedcf6733ac"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 3245
+translator: thothica
+---
+
+1. You keep consulting me on particular matters, forgetting that a vast sea divides us. Since a great part of counsel lies in timing, it must needs come about that on certain matters my opinion is carried to you when the contrary is already the better. For counsels are fitted to circumstances. Our affairs are borne along — nay, are whirled. Therefore counsel ought to be born on the very day; and even this is too slow; let it be born, as they say, under the hand. How it may be found, I will show.
+
+2. As often as you wish to know what is to be shunned or what to be sought, look to the highest good, the purpose of your whole life. For to it whatever we do must consent; no man will set particular things in order unless the sum of his life is already set before him. No one, however ready his colors, will render a likeness unless it is already settled what he wishes to paint. We err in this, that we all deliberate about the parts of life, no one about the whole.
+
+3. He who wishes to shoot an arrow must know what he is aiming at, and then direct and govern the shaft with his hand. Our counsels go astray because they have nothing toward which to be directed. He who knows not what harbor he makes for has no wind that is his own. It must needs be that chance has much power in our life, because we live by chance.
+
+4. But it happens to some that they do not know that they know certain things. As we often look for those with whom we are standing, so for the most part we are ignorant of the end of the highest good though it is set close beside us. You will gather what the highest good is neither in many words nor by a long circuit; it must be pointed out, so to speak, with the finger, and not scattered into many parts. For what does it matter to draw it out into bits, when you can say: the highest good is that which is honorable? And, what you may wonder at more: there is one good, that which is honorable; the rest are false and counterfeit goods.
+
+5. If you persuade yourself of this and fall in love with virtue — for to love is too little — whatever it has touched will be, however it shall seem to others, blessed and happy for you: both to be tortured, if only you lie more untroubled than the torturer himself, and to be ill, if you have not reviled fortune, if you have not yielded to the disease; in short, all things which to others seem evils will both grow tame and pass over into good, if you have risen above them. Let this be clear, that nothing is good but the honorable, and all discomforts will rightly be called goods, provided virtue has made them honorable.
+
+6. To many we seem to promise greater things than the human condition admits; not without reason. For they have regard to the body. Let them turn back to the mind; soon they will measure man by god. Rouse yourself, Lucilius, best of men, and leave that literary game of the philosophers, who reduce a most magnificent matter to syllables, who, by teaching trifles, bring down and wear out the mind; you will become like those who discovered these things, not those who teach them and aim at making philosophy seem rather difficult than great.
+
+7. Socrates, who recalled all philosophy to conduct and said that this was the sum of wisdom, to distinguish goods and evils, says: "Follow those things, if I have any authority with you, that you may be happy, and let yourself seem a fool to someone. Let whoever will do you insult and injury; you will yet suffer nothing, if only virtue is with you. If you wish," he says, "to be happy, if to be a good man in good faith, let someone despise you." No one will grant this but he who has made all goods equal, because there is no good without the honorable, and the honorable is equal in all things.
+
+8. What then? Is there no difference between Cato's praetorship and his defeat? Does it make no difference whether Cato is conquered or conquers in the line at Pharsalia? Was this good of his, by which he could not be conquered though his party was conquered, equal to that good by which he would have returned victorious to his country and composed a peace? Why should it not be equal? For by the same virtue both ill fortune is overcome and good fortune set in order. But virtue cannot become greater or less; it is of one stature.
+
+9. "But Gnaeus Pompeius will lose his army; but that fairest bulwark of the republic, the aristocrats, and the front line of the Pompeian party, the senate bearing arms, will be routed in a single battle, and the ruin of so great an empire will be scattered over the whole world; one part of it will fall in Egypt, one in Africa, one in Spain. Not even this will fall to the wretched republic — to fall once and for all."
+
+10. Let all this come to pass; let not the knowledge of the country aid Juba in his own kingdom, nor the most stubborn valor of his people on behalf of their king; let the loyalty of the men of Utica too, broken by misfortunes, give way, and let the fortune of his name desert Scipio in Africa. Long ago it was provided that Cato should take no harm.
+
+11. "Yet he was conquered." Count this too among Cato's defeats; with as great a spirit he will bear that something stood in the way of his victory as that something stood in the way of his praetorship. On the day he was defeated, he played at games; on the night he was to die, he read. He held it the same to lose the praetorship and to lose his life; he had persuaded himself that all that should befall must be borne.
+
+12. Why should he not endure the change of the republic with a brave and even mind? For what is exempt from the danger of change? Not earth, not heaven, not this whole fabric of all things, though it is driven by god's working. It will not always keep this order, but some day will cast it from this course.
+
+13. All things go by fixed times; they must be born, grow, be extinguished. Whatever you see running above us, and these things on which we are placed and mingled as on the most solid foundations, will be worn away and cease. There is none that has not its own old age; at unequal intervals Nature dismisses all these things to the same end. Whatever is will not be, yet will not perish, but be dissolved.
+
+14. To us to be dissolved is to perish, for we look at what is nearest; our dull mind, which has bound itself over to the body, does not look forward to the further things; otherwise it would more bravely endure its own end and its dear ones', if it hoped that, as all those things, so life and death go by turns, that things composed are dissolved and things dissolved composed, and that in this work the eternal art of god, who governs all things, is at work.
+
+15. And so, as Marcus Cato, when he has run over the age in his mind, will say: "The whole human race, both that which is and that which will be, is condemned to death. All the cities which anywhere hold dominion over things, and all that are great ornaments of foreign empires, where they have been will some day be asked, and will be removed by a varied kind of destruction; some wars will destroy, others idleness and a peace turned to sloth will consume, and that thing ruinous to great resources, luxury. All these fertile fields a sudden inundation of the sea will hide, or the slipping of the settling soil will draw down into a sudden cavern. Why, then, should I be indignant or grieve, if by a brief moment I go before the public fates?"
+
+16. Let a great mind obey god and, whatever the law of the universe bids, suffer it without hesitation; either it is sent forth into a better life, to dwell more luminously and tranquilly among things divine, or at least, with no discomfort of itself, it will be mingled again with Nature and return into the whole. So the honorable life of Marcus Cato is no greater a good than his honorable death, since virtue is not intensified. Socrates used to say that truth and virtue are the same thing. As the one does not grow, so neither does virtue; it has its own numbers, it is full.
+
+17. There is no reason, then, for you to wonder that goods are equal — both those that are to be taken of set purpose and those taken if circumstance so brings it. For if you admit this inequality, so as to count the brave endurance of torture among the lesser goods, you will count it also among evils, and you will call Socrates unhappy in his prison, Cato unhappy as he tore open his wounds more spiritedly than he had made them, Regulus most calamitous of all as he paid the penalty of a faith kept even with his enemies. And yet no one has dared to say this, not even the most effeminate. For they deny that he is happy, but they deny too that he is wretched.
+
+18. The old Academics confess that a man is indeed happy even amid these torments, but not to perfection nor to fullness. Which can in no way be admitted; unless he is happy, he is not in the highest good. That which is the highest good has no step above itself, provided virtue is in it, provided adversities do not diminish it, provided it remains, even when the body is broken, unharmed; and it does remain. For I understand virtue to be spirited and lofty, which whatever assails it stirs up.
+
+19. This spirit, which young men of noble disposition often put on, struck by the beauty of some honorable thing, so that they despise all chance happenings — this wisdom will surely pour into us and hand over. It will persuade us that there is one good, the honorable; that this can be neither remitted nor intensified, no more than you will bend the rule by which the straight is wont to be tested. Whatever you change in it is an injury to the straight.
+
+20. The same, then, we shall say of virtue: it too is straight, it admits no bending. It is a rigid thing — what can be intensified further? It judges of all things; of it nothing judges. If it cannot itself be made straighter, neither are the things done by it straighter one than another. For they must needs answer to it; so they are equal.
+
+21. "What then?" you say. "Are reclining at a banquet and being tortured equal?" Does this seem strange to you? You may wonder at this more: to recline at a banquet is an evil, to lie on the rack is a good, if the one is done basely, the other honorably. Matter does not make these things good or evil, but virtue. Wherever this has appeared, all things are of the same measure and price.
+
+22. He who measures all men's minds by his own now thrusts his hands at my eyes, because I say that those judge alike good who judge honorably and who face danger honorably — because I say that the goods of the man who triumphs and of the man who is borne before the chariot, unconquered in spirit, are equal. For they think that whatever they cannot do cannot be done; from their own weakness they pass sentence upon virtue.
+
+23. Why do you wonder if to be burned, wounded, slain, bound is a pleasure, and sometimes even a delight? To the luxurious frugality is a punishment, to the lazy labor stands in the place of torture, the soft man pities the industrious, to the slothful man study is to be tortured. In the same way these things, toward which we are all weak, we believe hard and unbearable, forgetting how great a torment it is to many to lack wine or to be roused at the first light. These things are not difficult by nature, but we are fluid and nerveless.
+
+24. Great matters must be judged with a great mind; otherwise that will seem to be their fault which is ours. So certain perfectly straight things, when they are let down into water, present to the beholder the appearance of being curved and broken. It matters not only what you see, but how; our mind is dim for perceiving truths.
+
+25. Give me an uncorrupted young man, vigorous in mind; he will say that the man seems to him more fortunate who upholds all the burdens of adversity with stiff neck, who stands above fortune. It is no wonder to be unshaken in tranquility; wonder at this — that one is lifted up where all are cast down, that one stands where all lie prostrate.
+
+26. What is there of evil in torments, what in the other things we call adverse? This, as I think: that the mind sinks down and is bent and gives way. None of which can befall the wise man; he stands upright under any weight. Nothing makes him less; nothing of those things that must be borne displeases him. For whatever can fall upon a man he does not complain has fallen upon himself. He knows his own strength. He knows that he is fit to bear a burden.
+
+27. I do not draw the wise man out of the number of men, nor do I remove pains from him as from some rock admitting no feeling. I remember that he is composed of two parts; the one is irrational — this is bitten, burned, pained; the other rational — this holds unshaken opinions, is undaunted and untamed. In this is placed that highest good of man. Before it is fulfilled, there is an uncertain wavering of the mind; but when it is perfected, that stability is unmoved.
+
+28. And so the man who has but begun and is advancing toward the heights, the cultivator of virtue, even if he draws near the perfect good but has not yet laid the final hand to it, will sometimes go back and slacken something of the intentness of his mind. For he has not yet passed beyond the uncertainties; he still treads on slippery ground. But the blessed man, of perfected virtue, then loves himself most when he has been most bravely tried, and the things others dread, if they are the price of some honorable duty, he not only bears but embraces, and far rather hears "so much the better" than "so much the more fortunate."
+
+29. I come now to the point to which your expectation calls me. That our virtue may not seem to wander beyond Nature, the wise man will both tremble and feel pain and grow pale. For all these are sensations of the body. Where, then, is calamity, where that true evil? There, of course, if these things drag down the mind, if they bring it to a confession of slavery, if they make it repent of itself.
+
+30. The wise man indeed conquers fortune by virtue, but many who have professed wisdom have sometimes been terrified by the slightest threats. Here lies our fault, who demand the same of the wise man and of the one making progress. I still recommend to myself those things I praise, but I do not yet persuade myself of them. And even if I had persuaded myself, I would not yet have them so ready or so practiced that they would run forward to meet every chance.
+
+31. As wool takes some colors at the first dipping, but others it does not drink in unless it is steeped and boiled again and again; so some studies the mind, when it has received them, displays at once, but this one, unless it has descended deep and sat long and not merely colored the mind but dyed it through, performs nothing of what it had promised.
+
+32. This can be taught quickly and in very few words: that virtue is the one good, that there is at least no good without virtue, and that virtue itself is placed in the better part of us, that is, the rational. What will this virtue be? A true and unmoved judgment. For from this will come the impulses of the mind, and by this every impression that moves an impulse will be brought to clearness.
+
+33. To this judgment it will be consonant to judge all things that have been touched by virtue both goods and equal among themselves. But the goods of bodies are indeed goods to bodies, but on the whole are not goods. They will have some price, but no dignity; they will stand apart by great intervals among themselves; some will be smaller, some greater.
+
+34. And among those who pursue wisdom themselves we must confess there are great distinctions. One has now advanced so far that he dares to lift his eyes against fortune, but not steadfastly, for they fall, dazzled by too great a splendor; another so far that he can match his countenance with hers — unless he has already arrived at the summit and is full of confidence.
+
+35. Imperfect things must needs totter, and now advance, now slip back or sink down. And they will slip back unless they persevere in going and striving; if they relax anything from their zeal and faithful intentness, they must go backward. No one finds his progress where he left it. Let us therefore press on and persevere.
+
+36. More remains than we have routed, but a great part of progress is the will to make progress. Of this thing I am conscious to myself; I will, and I will with my whole mind. You too I see to be roused and hastening with great impulse toward the fairest things. Let us hasten; only so will life be a benefit. Otherwise it is a delay, and indeed a shameful one for those who dwell among foul things. Let us see to it that all our time be our own. But it will not be, unless we first begin to be our own.
+
+37. When will it fall to us to despise both kinds of fortune, when will it fall to us, all our passions crushed and brought under our own control, to send forth this cry: "I have conquered"? Whom have I conquered, you ask? Not the Persians, nor the far reaches of the Medes, nor whatever warlike thing lies beyond the Dahae, but greed, but ambition, but the fear of death, which has conquered the conquerors of nations. Farewell.

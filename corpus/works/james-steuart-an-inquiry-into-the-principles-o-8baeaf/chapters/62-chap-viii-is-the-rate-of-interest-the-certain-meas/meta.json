@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 62,
+  "chapter_title": "Chap. VIII : Is the Rate of Interest the certain measure of the State of Commerce?",
+  "chapter_slug": "62-chap-viii-is-the-rate-of-interest-the-certain-meas",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7a0ddb87-363d-5340-aee8-5e556a5b6839",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1303,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4.htm"
+    }
+  ]
+}

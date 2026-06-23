@@ -4,7 +4,10 @@ slug: "sophocles-oedipus-tyrannus-6e2280"
 title: Oedipus Tyrannus
 author:
   name: Sophocles
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Athenian tragedian of the fifth century and one of the three whose plays survive, a contemporary of Pericles. His seven extant tragedies, including Antigone and the Oedipus plays, reshaped the form by adding a third actor and remain central to the Western dramatic canon.
+  birth_year: -497
+  death_year: -406
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

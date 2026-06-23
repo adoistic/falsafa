@@ -1,0 +1,37 @@
+---
+work_id: "e48f8ea0-4021-5340-a56a-48d107b2ca85"
+work_slug: "thomas-paine-the-rights-of-man-e48f8e"
+work_title: The Rights of Man
+author_name: Thomas Paine
+chapter_number: 1
+chapter_title: Preface to the English Edition.
+chapter_slug: "01-preface-to-the-english-edition"
+variant_id: "8624fcb8-85c8-5d36-ab23-0d56df23d50d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 882
+source_url: "https://oll.libertyfund.org/titles/paine-the-rights-of-man-part-i-1791-ed"
+translator: Online Library of Liberty edition
+---
+
+I present you a small Treatise in defence of those Principles of Freedom which your exemplary Virtue hath so eminently contributed to establish.—That the Rights of Man may become as universal as your Benevolence can wish, and that you may enjoy the Happiness of seeing the New World regenerate the Old, is the Prayer of
+
+FROM the part Mr. Burke took in the American Revolution, it was natural that I should consider him a friend to mankind; and as our acquaintance commenced on that ground, it would have been more agreeable to me to have had cause to continue in that opinion, than to change it.
+
+At the time Mr. Burke made his violent speech last winter in the English Parliament against the French Revolution and the National Assembly, I was in Paris, and had written him, but a short time before, to inform him how prosperously matters were going on. Soon after this, I saw his advertisement of the Pamphlet he intended to publish: As the attack was to be made in a language but little studied, and less understood, in France, and as every thing suffers by translation, I promised some of the friends of the Revolution in that country, that whenever Mr. Burke’s Pamphlet came forth, I Edition: current; Page: [[viii]] would answer it. This appeared to me the more necessary to be done, when I saw the flagrant misrepresentations which Mr. Burke’s Pamphlet contains; and that while it is an outrageous abuse on the French Revolution, and the principles of Liberty, it is an imposition on the rest of the world.
+
+I am the more astonished and disappointed at this conduct in Mr. Burke, as (from the circumstance I am going to mention), I had formed other expectations.
+
+I had seen enough of the miseries of war, to wish it might never more have existence in the world, and that some other mode might befound out to settle the differences that should occasionally arise in the neighbourhood of nations. This certainly might be done if Courts were disposed to set honestly about it, or if countries were enlightened enough not to be made the dupes of Courts. The people of America had been bred up in the same prejudices against France, which at that time characterized the people of England, but experience and an acquaintance with the French Nation have most effectually shown to the Americans the falsehood of those prejudices; and I do not believe that a more cordial and confidential intercourse exists between any two countries than between America and France.
+
+When I came to France in the Spring of 1787, the Archbishop of Thoulouse was then Minister, and at that time highly esteemed. I became much acquainted with the private Secretary of that Minister, a man of an enlarged benevolent heart; and found, that his sentiments and my own perfectly agreed with respect to the madness of war, and the wretched impolicy of two nations, like England and France, continually worrying each other, to no other end than that of a mutual increase of burdens and taxes. That I might be assured I had not misunderstood him, nor he me, I put the substance of our opinions into writing, and sent it to him; subjoining a request, that if I should see among the people of England, any disposition to cultivate a better understanding between the two nations than had hitherto prevailed, how far I might be authorized to say that the same disposition prevailed on the part of France? He answered me by letter in the most unreserved manner, and that not for himself only, but for the Minister, with whose knowledge the letter was declared to be written.
+
+I put this letter into the hands of Mr. Burke almost three years ago, and left it with him, where it still remains; hoping, and at the same time naturally expecting, from the opinion Edition: current; Page: [[x]] I had conceived of him, that he would find some opportunity of making a good use of it, for the purpose of removing those errors and prejudices, which two neighbouring nations, from the want of knowing each other, had entertained, to the injury of both.
+
+When the French Revolution broke out, it certainly afforded to Mr. Burke an opportunity of doing some good, had he been disposed to it; instead of which, no sooner did he see the old prejudices wearing away, than he immediately began sowing the seeds of a new inveteracy, as if he were afraid that England and France would cease to be enemies. That there are men in all countries who get their living by war, and by keeping up the quarrels of Nations, is as shocking as it is true; but when those who are concerned in the government of a country, make it their study to sow discord, and cultivate prejudices between Nations, it becomes the more unpardonable.
+
+With respect to a paragraph in this Work alluding to Mr. Burke’s having a pension, the report has been some time in circulation, at least two months; and as a person is often the last to hear what concerns him the most to know, I have mentioned it, that Mr. Burke may have an opportunity of contradicting the rumour, if he thinks proper.

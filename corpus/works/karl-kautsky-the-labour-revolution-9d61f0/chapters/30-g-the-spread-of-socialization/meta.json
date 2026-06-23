@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-labour-revolution-9d61f0",
+  "work_title": "The Labour Revolution",
+  "chapter_number": 30,
+  "chapter_title": "(g) The Spread of Socialization",
+  "chapter_slug": "30-g-the-spread-of-socialization",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c2d2f924-f66f-5f21-b4f9-c017d6814dba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3525,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1924/labour/ch03_h.htm"
+    }
+  ]
+}

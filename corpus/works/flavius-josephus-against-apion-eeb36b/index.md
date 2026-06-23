@@ -4,7 +4,10 @@ slug: "flavius-josephus-against-apion-eeb36b"
 title: Against Apion
 author:
   name: Flavius Josephus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Jewish priest and rebel commander in Galilee who surrendered to Vespasian and wrote under Flavian patronage in Rome. The Jewish War and the Antiquities preserve the only continuous account of Judaea's revolt against Rome and much of the nation's earlier history."
+  birth_year: 37
+  death_year: 100
+  nationality: Jewish
 era: Imperial
 genre: Classics
 language: Greek

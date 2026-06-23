@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 12,
+  "chapter_title": "Political Jurisdiction in The United States.",
+  "chapter_slug": "12-political-jurisdiction-in-the-united-states",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc3f0a42-caf3-5be9-9b79-7911d98a6364",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2216,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch07.htm"
+    }
+  ]
+}

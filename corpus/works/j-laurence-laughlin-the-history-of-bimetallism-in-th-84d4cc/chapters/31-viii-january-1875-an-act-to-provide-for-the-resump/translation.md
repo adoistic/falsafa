@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 31
-chapter_title: VIII. JANUARY, 1875.—An Act to provide for the Resumption of Specie Payments.
+chapter_title: VIII. January, 1875.—An Act to provide for the Resumption of Specie Payments.
 chapter_slug: "31-viii-january-1875-an-act-to-provide-for-the-resump"
 variant_id: "0c80b557-7607-5db7-bebe-a4090a7404c2"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 61,
+  "chapter_title": "De Legitima Patronorvm Tvtela. (1)",
+  "chapter_slug": "61-de-legitima-patronorvm-tvtela-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ff67268-84ac-5617-bf98-3d87b241e3dc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 287,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

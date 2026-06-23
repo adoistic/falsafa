@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 119
-chapter_title: CHAPTER LXXIX.
+chapter_title: Chapter VIII. (2)
 chapter_slug: 119
 variant_id: "56cedfd3-8fdc-5f82-adb9-a4b5d00e7a32"
 content_type: translation
@@ -13,15 +13,21 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 337
+word_count: 485
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-This Essence itself is God, who alone is lord and ruler of all.
+The example of the picture, treated in Gaunilon’s third chapter, is examined —From what source a notion may be formed of the supremely great being, of which Gaunilon inquired in his fourth chapter.
 
-It appears, then—nay, it is unhesitatingly declared that what is called God is not nothing; and that to this supreme Essence the name God is properly given. For every one who says that a God exists, whether one or more than one, conceives of him only as of some substance which he believes to be above every nature that is not God, and that he is to be worshipped of men because of his preëminent majesty, and to be appeased for man’s own sake because of some imminent necessity.
+Moreover, your so careful demonstration that the being than which a greater cannot be conceived is not analogous to the not yet executed picture in the understanding of the painter, is quite unnecessary. It was not for this purpose that I suggested the preconceived picture. I had no thought of asserting that the being which I was discussing is of such a nature; but I wished to show that what is not understood to exist can be in the understanding.
 
-But what should be so worshipped in accordance with its majesty, and what should be so appeased in behalf of any object, as the supremely good and supremely powerful Spirit, who is Lord of all and who rules all? For, as it is established that through the Edition: current; Page: [144] supreme Good and its supremely wise omnipotence all things were created and live, it is most inconsistent to suppose that the Spirit himself does not rule the beings created by him, or that beings he created are governed by another less powerful or less good, or by no reason at all, but by the confused flow of events alone. For it is he alone through whom it is well with every creature, and without whom it is well with none, and from whom, and through whom, and in whom, are all things.
+Again, you say that when you hear of a being than which a greater is inconceivable, you cannot conceive of it in terms of any real object known to you either specifically or generally, nor have it in your understanding. For, you say, you neither know such a being in itself, nor can you form an idea of it from anything like it.
 
-Therefore, since he himself alone is not only the beneficent Creator, but the most powerful lord, and most wise ruler of all; it is clear that it is he alone whom every other nature, according to its whole ability, ought to worship in love, and to love in worship; from whom all happiness is to be hoped for; with whom refuge from adversity is to be sought; to whom supplication for all things is to be offered. Truly, therefore, he is not only God, but the only God, ineffably Three and One.
+But obviously this is not true. For everything that is less good, in so far as it is good, is like the greater good. It is therefore evident to any rational mind, that by ascending from the lesser good to the greater, we can form a considerable notion of a being than which a greater is inconceivable.
+
+For instance, who (even if he does not believe that what he conceives of exists in reality) supposing that there is some good which has a beginning and an end, does not conceive that a good is much better, which, if it begins, does not cease to be? And that as the second good is better than the first, so that good which has neither beginning nor end, though it is ever passing from the past through the present to the future, is better than the second? And that far better than this is a being—whether any being of such a nature exists or not—which in no wise requires change or motion, nor is compelled to undergo change or motion?
+
+Is this inconceivable, or is some being greater than this conceivable? Or is not this to form a notion from objects than which a greater is conceivable, of the being than which a greater cannot be conceived? There is, then, a means of forming a notion of a being than which a greater is inconceivable.
+
+So easily, then, can the fool who does not accept sacred authority be refuted, if he denies that a notion may be formed from other objects of a being than which a greater is inconceivable. But if any Catholic would deny this, let him remember that the invisible things of God, from the creation of the world, are clearly seen, being understood by the things that are made, even his eternal power and Godhead. (Romans i. 20.)

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-dewey-the-reflex-arc-concept-in-psycho-255fcb",
+  "work_title": "The Reflex Arc Concept in Psychology",
+  "chapter_number": 1,
+  "chapter_title": "The Reflex Arc Concept in Psychology",
+  "chapter_slug": "01-the-reflex-arc-concept-in-psychology",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d99c04aa-586f-56f7-a2e8-6d9d8e4aa2c7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5124,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/philosophy/works/us/dewey-reflex-arc.htm"
+    }
+  ]
+}

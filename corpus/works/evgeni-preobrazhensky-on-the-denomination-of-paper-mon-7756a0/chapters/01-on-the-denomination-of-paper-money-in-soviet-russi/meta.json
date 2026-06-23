@@ -1,0 +1,26 @@
+{
+  "work_slug": "evgeni-preobrazhensky-on-the-denomination-of-paper-mon-7756a0",
+  "work_title": "On the Denomination of Paper Money in Soviet Russia",
+  "chapter_number": 1,
+  "chapter_title": "On the Denomination of Paper Money in Soviet Russia",
+  "chapter_slug": "01-on-the-denomination-of-paper-money-in-soviet-russi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5319d4a-2041-5faf-9038-acdbb111344c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 946,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/preobrazhensky/1923/01/denom.htm"
+    }
+  ]
+}

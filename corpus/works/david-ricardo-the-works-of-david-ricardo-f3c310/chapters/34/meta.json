@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 34,
-  "chapter_title": "CHAPTER XXIV.: DOCTRINE OF ADAM SMITH CONCERNING THE RENT OF LAND.",
+  "chapter_title": "Chapter XXV.: On Colonial Trade.",
   "chapter_slug": "34",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3632,
-      "paragraph_count": 21,
+      "word_count": 2650,
+      "paragraph_count": 20,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 19,
+  "chapter_title": "Chap. XIV.: Of the first and second Naturall Lawes, and of Contracts.",
+  "chapter_slug": "19-chap-xiv-of-the-first-and-second-naturall-lawes-an",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2cc50da9-f920-549b-ad7f-004905b0e517",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4181,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

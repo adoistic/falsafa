@@ -4,7 +4,10 @@ slug: "boethius-quomodo-substantiae-in-eo-quod-s-f7a454"
 title: Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substantialia Bona
 author:
   name: Boethius
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman senator and consul under the Ostrogothic king Theoderic, translator of Aristotle's logic into Latin. The Consolation of Philosophy, written in prison while he awaited execution, carried Platonic argument about fortune and providence through the Latin Middle Ages."
+  birth_year: 477
+  death_year: 524
+  nationality: Roman
 era: Late Antiquity
 genre: Classics
 language: Latin

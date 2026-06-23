@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-problems-of-mind-and-morals-97554e",
+  "work_title": "Problems of Mind and Morals",
+  "chapter_number": 10,
+  "chapter_title": "VIII. The Problem of Modern Feminism",
+  "chapter_slug": "10-viii-the-problem-of-modern-feminism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e2c7333-7928-53a5-88ac-6499dde9b9c2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3409,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1912/probs/08-feminism.htm"
+    }
+  ]
+}

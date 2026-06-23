@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 48,
+  "chapter_title": "National Differences of Wages",
+  "chapter_slug": "48-national-differences-of-wages",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "328bdf1d-8b8c-5e88-ba15-b5396a05f3b7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1630,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch22.htm"
+    }
+  ]
+}

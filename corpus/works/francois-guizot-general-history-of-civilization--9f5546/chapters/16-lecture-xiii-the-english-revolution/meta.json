@@ -1,0 +1,26 @@
+{
+  "work_slug": "francois-guizot-general-history-of-civilization--9f5546",
+  "work_title": "General History of Civilization in Europe",
+  "chapter_number": 16,
+  "chapter_title": "Lecture XIII.: The English Revolution.",
+  "chapter_slug": "16-lecture-xiii-the-english-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "47664932-10a6-5651-a400-e308f84a959c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7147,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/knight-general-history-of-civilization-in-europe"
+    }
+  ]
+}

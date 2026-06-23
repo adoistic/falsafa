@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--objective-spirit-8b1922",
+  "work_title": "Objective Spirit",
+  "chapter_number": 2,
+  "chapter_title": "Law",
+  "chapter_slug": "02-law",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2ac9d94-e319-5183-8389-d2c7e7fca0c3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1724,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sp/osabstra.htm"
+    }
+  ]
+}

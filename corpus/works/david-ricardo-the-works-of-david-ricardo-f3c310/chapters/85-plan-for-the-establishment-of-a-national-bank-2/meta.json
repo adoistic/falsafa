@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 85,
+  "chapter_title": "Plan for the Establishment of a National Bank. (2)",
+  "chapter_slug": "85-plan-for-the-establishment-of-a-national-bank-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df1f0811-2e69-54f2-9212-aa623deab2d2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4334,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

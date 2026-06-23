@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 58,
+  "chapter_title": "Chap. IV: Of the Principles which regulate the Rate of Interest",
+  "chapter_slug": "58-chap-iv-of-the-principles-which-regulate-the-rate-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c83303b5-0638-5fbe-bbc8-01b58499fbb6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2161,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4.htm"
+    }
+  ]
+}

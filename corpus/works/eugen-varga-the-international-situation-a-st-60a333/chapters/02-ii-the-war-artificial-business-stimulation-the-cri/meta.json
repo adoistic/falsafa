@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-the-international-situation-a-st-60a333",
+  "work_title": "The International Situation: A Study of Capitalism in Collapse",
+  "chapter_number": 2,
+  "chapter_title": "II. The War, Artificial Business Stimulation, the Crisis, and the Countries of Europe",
+  "chapter_slug": "02-ii-the-war-artificial-business-stimulation-the-cri",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74d3ed97-e942-5d68-a883-b39fd8c7afaa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1826,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1921/x01/x02.htm"
+    }
+  ]
+}

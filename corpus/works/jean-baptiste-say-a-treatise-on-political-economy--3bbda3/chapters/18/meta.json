@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 18,
-  "chapter_title": "BOOK I, CHAPTER XV: OF THE DEMAND OR MARKET FOR PRODUCTS.",
+  "chapter_title": "Book I, Chapter XVII: Of the Effect of Government Regulations Intended to Influence Production.",
   "chapter_slug": "18",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3190,
-      "paragraph_count": 24,
+      "word_count": 241,
+      "paragraph_count": 2,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

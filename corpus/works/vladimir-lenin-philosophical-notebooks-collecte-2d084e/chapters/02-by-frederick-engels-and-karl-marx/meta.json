@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 2,
+  "chapter_title": "By Frederick Engels and Karl Marx",
+  "chapter_slug": "02-by-frederick-engels-and-karl-marx",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b4776b32-b8ad-5b00-a8a2-65bff288773d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1857,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1895/misc/holy-fam/holy-fam.htm"
+    }
+  ]
+}

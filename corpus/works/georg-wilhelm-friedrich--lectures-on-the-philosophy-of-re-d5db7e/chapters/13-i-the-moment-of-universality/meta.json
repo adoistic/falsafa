@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-philosophy-of-re-d5db7e",
+  "work_title": "Lectures on the Philosophy of Religion (Introduction and Absolute Religion, final section)",
+  "chapter_number": 13,
+  "chapter_title": "I. The Moment of Universality.",
+  "chapter_slug": "13-i-the-moment-of-universality",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e1176e9-04a1-5491-bbc0-2e37300b6157",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 524,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/re/partc.htm"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+---
+work_id: "d77274fa-3610-5f16-9c9f-12e84c9fe82d"
+work_slug: "carl-von-clausewitz-on-war-d77274"
+work_title: On War
+author_name: Carl von Clausewitz
+chapter_number: 40
+chapter_title: Chpt. 3 The Combat in General
+chapter_slug: "40-chpt-3-the-combat-in-general"
+variant_id: "cd7d6718-9bca-5f43-8a23-c3c02d074c88"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1673
+source_url: "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book4/ch03.htm"
+translator: Colonel J.J. Graham
+---
+
+The Combat is the real warlike activity, everything else is only its auxiliary; let us therefore take an attentive look at its nature.
+
+Combat means fighting, and in this the destruction or conquest of the enemy is the object, and the enemy, in the particular combat, is the armed force which stands opposed to us.
+
+This is the simple idea; we shall return to it, but before we can do that we must insert a series of others.
+
+If we suppose the State and its military force as a unit, then the most natural idea is to imagine the War also as one great combat, and in the simple relations of savage nations it is also not much otherwise. But our Wars are made up of a number of great and small simultaneous or consecutive combats, and this severance of the activity into so many separate actions is owing to the great multiplicity of the relations out of which War arises with us.
+
+In point of fact, the ultimate object of our Wars the, political one, is not always quite a simple one; and even were it so, still the action is bound up with such a number of conditions and considerations to be taken into account, that the object can no longer be attained by one single great act but only through a number of greater or smaller acts which are bound up into a whole; each of these separate acts is therefore a part of a whole, and has consequently a special object by which it is bound to this whole.
+
+We have already said that every strategic act can be referred to the idea of a combat, because it is an employment of the military force, and at the root of that there always lies the idea of fighting. We may therefore reduce every military activity in the province of Strategy to the unit of single combats, and occupy ourselves with the object of these only; we shall get acquainted with these special objects by degrees as we come to speak of the causes which produce them; here we content ourselves with saying that every combat, great or small, has its own peculiar object in subordination to the main object. If this is the case then, the destruction and conquest of the enemy is only to be regarded as the means of gaining this object; as it unquestionably is.
+
+But this result is true only in its form, and important only on account of the connection which the ideas have between themselves, and we have only sought it out to get rid of it at once.
+
+What is overcoming the enemy? Invariably the destruction of his military force, whether it be by death, or wounds, or any means; whether it be completely or only to such a degree that he can no longer continue the contest; therefore as long as we set aside all special objects of combats, we may look upon the complete or partial destruction of the enemy as the only object of all combats.
+
+Now we maintain that in the majority of cases, and especially in great battles, the special object by which the battle is individualised and bound up with the great whole is only a weak modification of that general object, or an ancillary object bound up with it, important enough to individualise the battle, but always insignificant in comparison with that general object; so that if that ancillary object alone should be obtained, only an unimportant part of the purpose of the combat is fulfilled. If this assertion is correct, then we see that the idea, according to which the destruction of the enemys force is only the means, and something else always the object, can only be true in form, but, that it would lead to false conclusions if we did not recollect that this destruction of the enemys force is comprised in that object, and that this object is only a weak modification of it. Forgetfulness of this led to completely false views before the Wars of the last period, and created tendencies as well as fragments of systems, in which theory thought it raised itself so much the more above handicraft, the less it supposed itself to stand in need of the use of the real instrument, that is the destruction of the enemys force.
+
+Certainly such a system could not have arisen unless supported by other false suppositions, and unless in place of the destruction of the enemy, other things had been substituted to which an efficacy was ascribed which did not rightly belong to them. We shall attack these falsehoods whenever occasion requires, but we could not treat of the combat without claiming for it the real importance and value which belong to it, and giving warning against the errors to which merely formal truth might lead.
+
+But now how shall we manage to show that in most cases, and in those of most importance, the destruction of the enemys Army is the chief thing? How shall we manage to combat that extremely subtle idea, which supposes it possible, through the use of a special artificial form, to effect by a small direct destruction of the enemys forces a much greater destruction indirectly, or by means of small but extremely well-directed blows to produce such paralysation of the enemys forces, such a command over the enemys will, that this mode of proceeding is to be viewed as a great shortening of the road? Undoubtedly a victory at one point may be of more value than at another. Undoubtedly there is a scientific arrangement of battles amongst themselves, even in Strategy, which is in fact nothing but the Art of thus arranging them. To deny that is not our intention, but we assert that the direct destruction of the enemys forces is everywhere predominant; we contend here for the overruling importance of this destructive principle and nothing else.
+
+We must, however, call to mind that we are now engaged with Strategy, not with tactics, therefore we do not speak of the means which the former may have of destroying at a small expense a large body of the enemys forces, but under direct destruction we understand the tactical results, and that, therefore, our assertion is that only great tactical results can lead to great strategical ones, or, as we have already once before more distinctly expressed it, the tactical successes are of paramount importance in the conduct of War.
+
+The proof of this assertion seems to us simple enough, it lies in the time which every complicated (artificial) combination requires. The question whether a simple attack, or one more carefully prepared, i.e., more artificial, will produce greater effects, may undoubtedly be decided in favour of the latter as long as the enemy is assumed to remain quite passive. But every carefully combined attack requires time for its preparation, and if a counter- stroke by the enemy intervenes, our whole design may be upset. Now if the enemy should decide upon some simple attack, which can be executed in a shorter time, then he gains the initiative, and destroys the effect of the great plan. Therefore, together with the expediency of a complicated attack we must consider all the dangers which we run during its preparation, and should only adopt it if there is no reason to fear that the enemy will disconcert our scheme. Whenever this is the case we must ourselves choose the simpler, i.e., quicker way, and lower our views in this sense as far as the character, the relations of the enemy, and other circumstances may render necessary. If we quit the weak impressions of abstract ideas and descend to the region of practical life, then it is evident that a bold, courageous, resolute enemy will not let us have time for wide-reaching skilful combinations, and it is just against such a one we should require skill the most. By this it appears to us that the advantage of simple and direct results over those that are complicated is conclusively shown.
+
+Our opinion is not on that account that the simple blow is the best, but that we must not lift the arm too far for the time given to strike, and that this condition will always lead more to direct conflict the more warlike our opponent is. Therefore, far from making it our aim to gain upon the enemy by complicated plans, we must rather seek to be beforehand with him by greater simplicity in our designs.
+
+If we seek for the lowest foundation-stones of these converse propositions we find that in the one it is ability, in the other, courage. Now, there is something very attractive in the notion that a moderate degree of courage joined to great ability will produce greater effects than moderate ability with great courage. But unless we suppose these elements in a disproportionate relation, not logical, we have no right to assign to ability this advantage over courage in a field which is called danger, and which must be regarded as the true domain of courage.
+
+After this abstract view we shall only add that experience, very far from leading to a different conclusion, is rather the sole cause which has impelled us in this direction, and given rise to such reflections.
+
+Whoever reads history with a mind free from prejudice cannot fail to arrive at a conviction that of all military virtues, energy in the conduct of operations has always contributed the most to the glory and success of arms.
+
+How we make good our principle of regarding the destruction of the enemys force as the principal object, not only in the War as a whole but also in each separate combat, and how that principle suits all the forms and conditions necessarily demanded by the relations out of which War springs, the sequel will show. For the present all that we desire is to uphold its general importance, and with this result we return again to the combat.

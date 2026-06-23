@@ -1,0 +1,26 @@
+{
+  "work_slug": "m-n-roy-anti-imperialist-struggle-in-ind-88f02a",
+  "work_title": "Anti-Imperialist Struggle in India",
+  "chapter_number": 1,
+  "chapter_title": "Anti-Imperialist Struggle in India",
+  "chapter_slug": "01-anti-imperialist-struggle-in-india",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37a93c59-dda3-5376-b8ee-e9f827f4d65e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4225,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/roy/1923/x01/x01.htm"
+    }
+  ]
+}

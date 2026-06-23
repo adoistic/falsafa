@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-class-struggle-erfurt-progra-7e37be",
+  "work_title": "The Class Struggle (Erfurt Program)",
+  "chapter_number": 14,
+  "chapter_title": "7. The Growth of Large Production. Syndicates and Trusts.",
+  "chapter_slug": "14-7-the-growth-of-large-production-syndicates-and-tr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "148ae8a4-2743-5c0f-9d37-80133fa81d31",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2260,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1892/erfurt/ch03.htm"
+    }
+  ]
+}

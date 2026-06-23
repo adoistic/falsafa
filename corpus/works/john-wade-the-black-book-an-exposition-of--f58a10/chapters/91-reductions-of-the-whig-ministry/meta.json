@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 91,
+  "chapter_title": "Reductions of the Whig Ministry.",
+  "chapter_slug": "91-reductions-of-the-whig-ministry",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f2b7adb-ef91-55f4-86d0-9ae62621c434",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2050,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

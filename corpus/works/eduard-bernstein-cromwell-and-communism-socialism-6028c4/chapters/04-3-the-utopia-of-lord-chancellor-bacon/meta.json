@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-cromwell-and-communism-socialism-6028c4",
+  "work_title": "Cromwell and Communism: Socialism and Democracy in the Great English Revolution",
+  "chapter_number": 4,
+  "chapter_title": "3. The Utopia of Lord Chancellor Bacon",
+  "chapter_slug": "04-3-the-utopia-of-lord-chancellor-bacon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7550720c-2c07-5f9f-b8e3-aae081a06d57",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 690,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1895/cromwell/02-england.htm"
+    }
+  ]
+}

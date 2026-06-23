@@ -4,7 +4,7 @@ work_slug: "william-stanley-jevons-the-theory-of-political-economy-20a14c"
 work_title: The Theory of Political Economy
 author_name: William Stanley Jevons
 chapter_number: 2
-chapter_title: PREFACE TO THE SECOND EDITION (1879)
+chapter_title: Preface to the Second Edition (1879)
 chapter_slug: "02-preface-to-the-second-edition-1879"
 variant_id: "1eb3d239-e80a-5f2f-83de-0da6b2e8d4d7"
 content_type: translation

@@ -1,0 +1,35 @@
+---
+work_id: "49b1767d-52c0-5270-b264-ddc4b6622a1a"
+work_slug: "peter-kropotkin-fields-factories-and-workshops-49b176"
+work_title: Fields, Factories, and Workshops
+author_name: Peter Kropotkin
+chapter_number: 20
+chapter_title: "Appendix J : Mr. Giffen's And Mr. Flux's Figures Concerning The Position Of The United Kingdom In International Trade"
+chapter_slug: "20-appendix-j-mr-giffens-and-mr-fluxs-figures-concern"
+variant_id: "bf44525b-cd4d-56c9-b57e-75847d1ea367"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 546
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/appendix-j.html"
+translator: Marxists Internet Archive edition
+---
+
+A few remarks concerning these figures may be of some avail.
+
+When a sudden fall in the British and Irish exports took place in the years 1882-1886, and the alarmists took advantage of the bad times to raise the never-forgotten war-cry of protection, especially insisting on the damages made to British trade by German competition, Mr. Giffen analyzed the figures of international trade in his Finance Essays, and in a report read in 1888 before the Board of Trade Commission. Subsequently, Mr. A. W. Flux analyzed again the same figures, extending them to a later period. He confirmed Mr. Giffens conclusions and endeavored to prove that the famous German competition is a fallacy.
+
+Mr. Giffens conclusions, quoted by Mr. A. W. Flux (The Commercial Supremacy of Great Britain, in Economical Journal, 1894, iv., p. 457), were as follows:-
+
+On the whole, the figures are not such as to indicate any great and overwhelming advance in German exports, in comparison with those of the United Kingdom. There is greater progress in certain direction, but, taken altogether, no great disproportionate advance, and in many important markets for the United Kingdom Germany hardly appears at all.
+
+In this subdued form, with regard to German competition alone  and due allowance being made for figures in which no consideration is given to what sort of goods make a given value of exports, and in what quantities  Mr. Giffens statement could be accepted. But that was all.
+
+If we take, however, Mr. Giffens figures as they are reproduced in extended tables (on pp. 461-467 of the just quoted paper), tabulated with great pains in order to show that Germanys part in the imports to several European countries, such as Russia, Italy, Servia, etc., had declined, as well as the part of the United Kingdom , all we could conclude from these figures was, that there were other countries besides Germany  namely, the United States and Belgium  which competed very effectively with England, France, and Germany for supplying what manufactured goods were taken by Russia, Italy, Servia, etc., from abroad.
+
+At the same time such figures gave no idea of the fact that where manufactured metal goods were formerly supplied, coal and raw metals were imported for the home manufacture of those same goods; or, where dyed and printed cottons were imported, only yarn was required. The whole subject is infinitely more complicated that it appeared in Mr. Giffens calculations; and, valuable as his figures may have been for appeasing exaggerated fears, they contained no answer whatever to the many economic questions involved in the matters treated by Mr. Giffen.
+
+The conclusions which I came to in these lines in the first edition of this book found further confirmation in the subsequent economical development of all nations in that same direction. The result is, that  apart from the extraordinary exports of the years 1910 and 1911 (which I venture to explain by the general prevision of a great European war going to break out)  the exports from this country, apart from their usual periodical fluctuations, continued to remain what they were, in proportion to the increasing population, and many of them became less profitable; while the exports from all other countries increased in a much greater proportion.

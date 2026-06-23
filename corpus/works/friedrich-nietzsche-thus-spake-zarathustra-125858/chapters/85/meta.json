@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 85,
+  "chapter_title": "Chapter XV — The Thousand and One Goals",
+  "chapter_slug": "85",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f303cbe-0932-55dd-844c-17ddffd27ebc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 77,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

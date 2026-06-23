@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-ethics-of-socialism-e57e6f",
+  "work_title": "The Ethics of Socialism",
+  "chapter_number": 4,
+  "chapter_title": "Criminal Law under Socialism",
+  "chapter_slug": "04-criminal-law-under-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "45a58b82-d593-5ff0-85a8-280f46ee66d4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3505,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1887/03/crimlaw.htm"
+    }
+  ]
+}

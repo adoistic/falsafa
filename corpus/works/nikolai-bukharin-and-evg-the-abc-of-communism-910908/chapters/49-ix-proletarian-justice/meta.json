@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 49,
+  "chapter_title": "IX. Proletarian Justice",
+  "chapter_slug": "49-ix-proletarian-justice",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "056ef5bb-ffe9-5e31-8e06-9348f56fff85",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2384,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/09.htm"
+    }
+  ]
+}

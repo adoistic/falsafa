@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-rights-of-war-and-peace-0db900"
 work_title: The Rights of War and Peace
 author_name: Hugo Grotius
 chapter_number: 49
-chapter_title: "CHAPTER XXII.: On the Faith on Those Invested with Subordinate Powers in War."
+chapter_title: "Chapter XXII.: On the Faith on Those Invested with Subordinate Powers in War."
 chapter_slug: 49
 variant_id: "4e2e031a-1b36-5a93-ae0d-2b5687a7271c"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1434
+word_count: 1422
 source_url: "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
 translator: Online Library of Liberty edition
 ---
@@ -22,7 +22,7 @@ Commanders—Extent of their engagements in binding the sovereign—Exceeding th
 
 I. Ulpian reckons the agreements, entered into between the generals of opposite armies during the course of a war, among public conventions. So that after explaining the nature of the faith pledged by sovereign powers to each other, it will be proper to make a short inquiry into the nature of engagements made by subordinate authorities; whether those authorities bear a near approach to supreme power, as commanders in chief, or are removed to a greater distance from it. Caesar makes the following distinction between them, observing that the offices of commander and deputy are very different; the latter being obliged to act according to prescribed rules, and the former having unqualified discretion in matters of the highest importance.
 
-II. The engagements of those invested with such subordinate powers are to be considered in a double point of view, whether they are binding upon the sovereign, or only upon themselves. The former of these points has been already settled in a former part of this treatise, where it was shewn that a person is bound by the measures of an agent, whom he has appointed to act in his name, whether his intentions have been expressly named, or are only to be gathered from the nature of the employment. For whoever gives another a commission, gives him along with it every thing in his power that is necessary to the execution of it. So that there are two ways, in which persons acting with subordinate powers may bind their principals by their conduct, and Edition: current; Page: [412] that is, by doing what is probably thought to be contained in their commission, or apart from that, by acting according to special instructions, generally known, at least to those, with whom they treat.
+II. The engagements of those invested with such subordinate powers are to be considered in a double point of view, whether they are binding upon the sovereign, or only upon themselves. The former of these points has been already settled in a former part of this treatise, where it was shewn that a person is bound by the measures of an agent, whom he has appointed to act in his name, whether his intentions have been expressly named, or are only to be gathered from the nature of the employment. For whoever gives another a commission, gives him along with it every thing in his power that is necessary to the execution of it. So that there are two ways, in which persons acting with subordinate powers may bind their principals by their conduct, and that is, by doing what is probably thought to be contained in their commission, or apart from that, by acting according to special instructions, generally known, at least to those, with whom they treat.
 
 III. There are other modes too, in which a sovereign may be bound by the previous act of his minister; but not in such a manner as to suppose the obligation owes its existence to that action, which only gives occasion to its fulfillment. And there are two ways, in which this may happen, either by the consent of the sovereign, or by the very nature of the thing itself. His consent appears by his ratification of the act, either expressed or implied, and that is, where a sovereign has known and suffered a thing to be done, which can be accounted for upon no other motive but that of approval and consent.
 
@@ -32,7 +32,7 @@ On the other hand a charge of injustice may fairly be brought against those, who
 
 IV. It is necessary to repeat an observation made before, that a sovereign, who has given a commission to another, is bound by the conduct of that person, even though he may have acted contrary to his secret instructions, provided he has not gone beyond the limits of his ostensible, and public commission.
 
-This was a principle of equity, which the Roman Praetor observed in actions brought against employers for the conduct of their agents or factors. An employer could not be made answerable for any act or measure of his factor, but such as was immediately connected with the business, in which he employed him. Nor could he be considered as an appointed agent, with whom the public were apprized, by due notice, to make no contract—If such notice was given, without having come to the knowledge of the contracting parties, the employer was bound by the conduct of the agent. If any one chuses to make a contract on certain conditions, or through the intervention of a third person, it is right and necessary Edition: current; Page: [413] for that person to observe the particular conditions on which he is employed.
+This was a principle of equity, which the Roman Praetor observed in actions brought against employers for the conduct of their agents or factors. An employer could not be made answerable for any act or measure of his factor, but such as was immediately connected with the business, in which he employed him. Nor could he be considered as an appointed agent, with whom the public were apprized, by due notice, to make no contract—If such notice was given, without having come to the knowledge of the contracting parties, the employer was bound by the conduct of the agent. If any one chuses to make a contract on certain conditions, or through the intervention of a third person, it is right and necessary for that person to observe the particular conditions on which he is employed.
 
 From hence it follows that kings and nations are more or less bound by the conventions of their commanders in proportion as their laws, conditions, and customs, are more or less known. If the meaning of their intentions is not evident, conjecture may supply the place of evidence, as it is natural to suppose that any one employed would be invested with full powers sufficient to execute his commission.
 
@@ -46,7 +46,7 @@ VI. It is necessary to consider too what are the powers of subordinate authoriti
 
 On the other hand, in engagements purely beneficial, the advantage shall be on the side of the inferior: for that is a condition comprehended in the very nature of power.—Where there is any burdensome condition annexed it shall not extend beyond the usual limits in which authority is exercised; or if it does, it shall be at the option of the inferior to accept or refuse that condition.
 
-VII. As to the causes and consequences of a war, it is not with in the province of a general to decide them. Edition: current; Page: [414] For concluding and conducting a war are very different things, and rest upon distinct kinds of authority.
+VII. As to the causes and consequences of a war, it is not with in the province of a general to decide them. For concluding and conducting a war are very different things, and rest upon distinct kinds of authority.
 
 VIII. and IX. As to granting truces, it is a power which belongs not only to commanders in chief, but also to inferior commanders. And they may grant them for themselves, and the forces immediately under their command, to places which they are besieging or blockading: but they do not thereby bind other parts of the army. Generals have no right to cede nations, dominions, or any kind of conquests made in war. They may relinquish any thing of which a complete conquest has not been made: for towns frequently surrender on condition of the inhabitants being spared, and allowed to retain their liberty and property: cases, in which there is no time for consulting the will and pleasure of the sovereign. In the same manner, and upon the same principle this right is allowed to subordinate commanders, if it falls within the nature of their commission.
 

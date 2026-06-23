@@ -1,0 +1,26 @@
+{
+  "work_slug": "georgi-plekhanov-anarchism-and-socialism-3fcdf0",
+  "work_title": "Anarchism and Socialism",
+  "chapter_number": 1,
+  "chapter_title": "Preface to the First English Edition",
+  "chapter_slug": "01-preface-to-the-first-english-edition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7fc1e767-9ece-558b-98cd-c51a7354a6aa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 577,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/plekhanov/1895/anarch/preface.htm"
+    }
+  ]
+}

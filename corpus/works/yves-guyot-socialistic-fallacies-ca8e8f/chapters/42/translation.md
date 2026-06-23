@@ -1,0 +1,35 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 42
+chapter_title: "Chapter VIII: The Two Classes"
+chapter_slug: 42
+variant_id: "7cb4cb68-34cb-53e8-b09e-e62aee769cf8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 863
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+All the followers of Marx, including MM. Werner Sombart and Georges Sorel, consider the “Communist Manifesto” of 1847, which was drawn up by Marx and Engels, as “the starting point of a new era.” The “Manifesto” begins by asserting that “the whole history of human society to the present day is the history of the struggle of classes.” Karl Marx, Engels, and their disciple Paul Lafargue make the history of human decadence begin with the introduction of private property. Historians have, generally speaking, overlooked the claims of the Terra del Fuegans, Australian aborigines and other people who still enjoy the benefits of communistic anarchy. If Marx, Engels, and Paul Lafargue have written that they considered themselves as in a state of decadence by comparison with them, they have failed to accommodate their conduct to their theories.
+
+Thirty-six years after the “Communist Manifesto,” Engels still asserts that, “Since the abolition of the ancient common ownership of the soil, the whole of history has been a struggle of classes.” M. Werner Sombart recognises that all these struggles, far from being struggles of classes, have most frequently been conflicts between ethnic groups or between populations who inhabited different countries, but if he condemns Karl Marx' definition of history as false as applied to the past, he adjudges it to be true as regards the future. The “Communist Manifesto” said:—
+
+Our age, the age of the bourgeoisie, has simplified class antagonisms. Society more and more divides itself into two great hostile camps, into two great classes in direct opposition to one another, the bourgeoisie and the proletariat (§3).
+
+The mass of labour to provide for increases in proportion to the development of machinery and of division of labour; the number of hours of labour is increased, as well as the labour required to be performed in a particular time (§15).
+
+The middle classes of former times, the small tradesmen, the merchants, and the people of independent means, the artisans and peasants are all in their turn being absorbed in the proletariat. Thus the proletariat recruits from among all classes of the population (§18).
+
+In 1847 Karl Marx used the present indicative tense, but he was prophesying, basing the future upon the abolition of ethnic struggles and of all national and religious wars. He set up two classes in our increasingly complex society. I call this simplex system social dichotomy. “But,” says M. Werner Sombart, “modern society presents itself to us as a complex concatenation of numerous social classes, country squires, middle class, lower middle class, proletariat, officials, men of learning, artists, etc.” So that there must be more than two of them, in which case the process which Marx foresaw, in virtue of which actual society must forcibly end in communism, has no real existence.
+
+Karl Marx' theory is summarised in Victor Modeste's formula, “the rich grow richer and the poor poorer.” Karl Marx substitutes “the few” for “the rich” and “the many” for “the poor.” He sets up an antithesis between two groups, the bourgeois group, consisting of an increasingly restricted number of individuals, each of whom is increasingly inflated by capitalism, and the proletariat group who are increasingly numerous and indigent. All the rich are not equally rich, all the bourgeois are not capitalists on the same level. Consequently they are not all inflated to the same degree with what Karl Marx calls “surplus value”: they are not all magnitudes of the same order. To bring the rest of mankind into alignment with the same symmetry, as though they too are magnitudes of the same order, prepared to march with auto matic step against a bourgeoisie which they are to annihilate by sheer weight of numbers—for victory belongs to the big battalions—to imagine two armies in perfect alignment and perfect order, one of which, continually adding to its recruits, crushes the other with its weight, all this is merely the conception of a Prussian corporal. But contrary to Karl Marx' proposition, the recruits do not go to swell the proletariat army, the army they join is that of the capitalists. The proletariat army invented by Karl Marx, merely consists of candidates for the other army. The most active and sterling elements in the ranks of the proletariat are intending deserters many of whom have already acquired interests in the opposing camp. The skeleton units in that camp are formed entirely out of deserters, at whose head are the majority of the actual leaders of socialism, the most unassuming of whom become members of the lower middle class, while others become rich, substantial bourgeois like Bebel.
+
+Karl Marx and Engels based their theory upon two postulates—that the number of those interested in individual property would quickly and constantly diminish, and that the proletariat of the greater industrial system would be in a progressively miserable condition. It is necessary to the realisation of socialist evolution that industry and capital be concentrated in a small number of hands, and that the masses of wage earners become more and more miserable and be deprived of all personal property. This is the process set forth in Karl Marx' and Engels' “Communistic Manifesto” and confirmed by the Erfurt Congress of 1891.

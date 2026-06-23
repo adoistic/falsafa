@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-one-step-forward-two-steps-back--9a5c6a",
+  "work_title": "One Step Forward, Two Steps Back (The Crisis in Our Party)",
+  "chapter_number": 17,
+  "chapter_title": "P. Little Annoyances Should Not Stand in the Way of a Big Pleasure",
+  "chapter_slug": "17-p-little-annoyances-should-not-stand-in-the-way-of",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9c8f5a0b-0e95-5adf-9cd6-56673e05b5e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4115,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1904/onestep/p.htm"
+    }
+  ]
+}

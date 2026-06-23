@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-social-revolution-and-on-the-4a4d88",
+  "work_title": "The Social Revolution (and On the Day After the Social Revolution)",
+  "chapter_number": 14,
+  "chapter_title": "Increase in Production",
+  "chapter_slug": "14-increase-in-production",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e8866dff-b893-5747-81b8-d3342f86a748",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2631,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1902/socrev/pt2-1.htm"
+    }
+  ]
+}

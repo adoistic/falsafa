@@ -1,0 +1,26 @@
+{
+  "work_slug": "anton-pannekoek-marxism-and-darwinism-a04fd1",
+  "work_title": "Marxism and Darwinism",
+  "chapter_number": 9,
+  "chapter_title": "IX. Animal Organs and Human Tools",
+  "chapter_slug": "09-ix-animal-organs-and-human-tools",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "69dd3c7e-e6dc-534f-87ea-771a1a896dfa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1330,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/pannekoe/1912/marxism-darwinism.htm"
+    }
+  ]
+}

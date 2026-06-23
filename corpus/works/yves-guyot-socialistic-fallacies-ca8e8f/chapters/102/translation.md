@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 102
-chapter_title: "CHAPTER I: The Programme of the International Association"
+chapter_title: "Chapter III: How Many are There"
 chapter_slug: 102
 variant_id: "f092171d-9dc4-5e3a-a70c-ef8709b81822"
 content_type: translation
@@ -13,31 +13,25 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 647
+word_count: 911
 source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
 translator: Online Library of Liberty edition
 ---
 
-Karl Marx' subtleties—Developments rather than reforms—Set-back to Internationalism—Hervé's logic—Socialists act contrary to their professions.
+The trade unions represent minorities—English Trade Unions—American Labor Unions—Number of members in France—Electoral results—Elections to the Reichstag — England — Socialist set-backs at the municipal elections—The United States—Strength of the socialists in France.
 
-Herr Werner Sombart says of the inaugural address of the International Association of Workmen, “It is a veritable masterpiece of ability, although its scheme is not very clear: but Marx is its author and his obscurity is intentional…. Opposing tendencies had to be reconciled. There is something to satisfy everyone in the address. In its convincing portraiture it exhibits the wretchedness of the working classes under the capitalistic yoke…. It celebrates the advantages of free co-operation, Proudhon, Buchez, the advocates of co-operative production subsidised by the State, Lassalle and Louis Blanc. It contains the common sentimental passages which Marx reluctantly let fall from his pen…. Of the object of the Association there was little question.”
+In actual fact, a minority of the workmen in a particular trade are members of trade unions, a small minority of the members leads the union, and this small oligarchy expects to impose its will upon the rest.
 
-The Socialists continue to carry out this policy; what they desire is developments rather than reforms, and, while courting the mob, they aim, not at the true and the useful, but at the art of exploiting the passions and prejudices of the ignorant and the seekers after chimæras.
+The leaders of the Confederation of Labour expect the Government, the municipalities and the whole body of ratepayers to obey their commands.
 
-The headquarters of the International Association was transferred to New York in 1872. It did not perish in consequence of Government measures taken to destroy it, but was dislocated by the quarrels of Karl Marx and Bakunin, which like those which rage between Guesde, Jaurès and Lagardelle, give us an idea of the harmony which will prevail in the Collectivist Paradise.
+In England, where the Trade Unions are the most powerful, they only represent 15 per cent. of the number of workmen; in the United States, the Labour Unions, so far as it is possible to ascertain with reference to organisations which remain shrouded in mystery, do not represent one-tenth of the workmen; in France there is no means of ascertaining the number of members.
 
-Karl Marx concluded his Manifesto of 1847 with Edition: current; Page: [318] the words, “Proletarians of all countries, unite.” Werner Sombart says that Marx had “vainly attempted to introduce the ideals of solidarity and union from without.” They certainly have not radiated from within.
+The Labour Office gave the number of workmen who are members of trade unions as 836,000 out of a total of 4,032,000 on January 1st, 1906, and as 896,000 on January 1st, 1907, exclusive of agricultural labourers, or a percentage of 20 and 25 respectively; but how many of them pay their subscriptions regularly and remain members of a union from one year's end to another? And how many of their number does the Socialist Party count as paying their subscriptions? Fifty to sixty thousand, according to the statements of their representatives at their Congresses, when they are discussing their respective forces. According to the reports of the Confederation of Labour at the Marseilles Congress in October, 1908, the receipts from June 1st, 1906, to June 30th, 1908, a period of 25 months, were 27,339 francs. Adding to this the proceeds of the “Bourses” and of the sale of their newspaper, “La Voix du Peuple,” the total receipts would be 124,430 francs, or 4,900 francs per month.
 
-The French Socialists do not display the slightest sympathy for Belgian or Italian workmen who come to France; the English workmen have obtained the passing of the “Aliens' Act,” and the expulsion of the Chinese from the Transvaal; the American workmen have inherited the European immigration difficulties and have prohibited the entry of the Chinese and Japanese.
+If we refer to electoral forces, we find a recoil in the successes of the German Socialists, whom Engels announced in 1892 to be about to come into power in 1898. At the elections to the Reichstag in 1907, the social democratic members were reduced to 79, as against 81 in 1902; the elections of January 25th and February 6th, 1909, reduced their number to 43. But, it may be said, the number of electors has increased. It has in fact increased from 3,010,000 to 3,251,000, an increase of 250,000 or 8 per cent., but the centre vote has increased by 400,000, and the liberal vote by 240,000 or 40 per cent.
 
-Socialists nevertheless talk of Society with a big S, of Society with neither frontiers nor nations. When Karl Marx said, “Proletarians of all nations, unite,” he did not say that the proletarians of China were excluded from his appeal. The agrarians of Eastern Prussia have suggested the importation of Chinese coolies. Is the German Socialist Party disposed to welcome them as brothers?
+In England also, Mr. Keir Hardie announced in 1892 that the country was Socialist. In 1894 the Trade Union Congress at Norwich passed a resolution in favour of the socialisation of all the means of production and exchange; in 1895, at Cardiff, the Congress confined itself to nationalisation of land, mines and railways. At the General Election of 1895, the members of the Labour Party were reduced from 12 to 4, Mr. Keir Hardie being among the victims. The Trade Unions freed themselves from Socialism. At present, the Labour Party, having opposed Mr. Chamberlain's fiscal policy, numbers fifty members in the House of Commons. But how many Socialists are there among them? Twenty-nine style themselves Socialists, but decline to make any confession of faith in the doctrine of the class war or to give expression to collectivist aspirations. The Fabians, or temporising Socialists, want to begin with Municipal Socialism. I was not disturbed at the result which would be obtained from experi ments of this kind. Practical Socialism will always be curbed by one thing—the Budget. And the electors of members of the London County Council and the London Borough Councils, have taken fright at the increase of expenditure and have recently cut short the experiments in Municipal Socialism which had been attempted in that City.
 
-At the Stuttgart Congress, the Germans displayed a strong national sentiment and were very angry with Hervé. Still it is Hervé, and not they, that is logical. Every Socialist who admits the existence of a separate nation, admits individual property; for a nation presupposes the ownership by a group of individuals of a portion of the earth's surface.
+In the United States the number of Socialists is insignificant, and one may say that all the Socialist writers, journalists and agitators are of German origin. At the elections to the Chamber of Representatives in 1904, they numbered 408,000; at the elections in 1906, they had fallen to 285,300 out of a total of eleven millions of electors, a proportion of about 2½ per cent.: and yet this is the country which Socialists ought to consider as having advanced furthest on the road to collectivism marked out by Karl Marx, by reason of the enormous size of a number of its industrial establishments and of the accumulations of capital to be found in certain hands.
 
-Speaking generally, the Socialists act contrary to their professions. They say that they want to place property in the hands of the people, but they will either place it in the hands of bodies of men which, whatever the name by which they may go, are greedier than any Harpagon, or in the hands of the State, which, in its turn, will delegate it to departments of administration; and these will exploit it for their own benefit, not for that of the public.
-
-They talk of liberty, but all their proposed legislation is the legislation of tyranny and police, and we have seen them reassimilate free to the type of servile labour.
-
-They talk of an ideal of government, and instead of limiting its attributes, they endow it with powers as vague and indeterminate as those of Oriental or African potentates.
-
-They say nothing of liberty, for they understand it in the same sense as the maid-servant of Frankfort who, on the day after the Revolution of 1848, said to her mistress, “Now that we are equal, you shall carry the coal-box and I will wear the diamonds.”
+In France they have drawn all their power from the weakness entertained for them by the Radicals and Radical-Socialists. There are fifty-three members owning allegiance to the party in the Chamber of Deputies, but many of them were elected with a balance of Radical votes; and how many are there, among those who voted for them, who would care to see Socialism, in however attenuated a form, put into practice? As regards independent Socialists, there are a certain number who have been rejected by the united Socialist Party and by all honest parties. Combining the 160,000 votes obtained by these buffoons with the 960,000 votes given to the United Socialist Party, we have a total of 1,120,000 votes out of 8,900,000, or 7 per cent. And three-fourths of them are only voting for a word, while hostile to the things for which it stands.

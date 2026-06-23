@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7",
+  "work_title": "Memoirs of a Revolutionist",
+  "chapter_number": 25,
+  "chapter_title": "Part 3: Siberia, Section 4",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "173c7b28-bc1d-5b57-a85c-89f70e9bac19",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4749,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1899/memoirs-of-a-revolutionist/part-3-section-4.html"
+    }
+  ]
+}

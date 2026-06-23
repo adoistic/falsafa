@@ -4,7 +4,7 @@ work_slug: "edwin-cannan-wealth-a-brief-explanation-of-th-1af31c"
 work_title: "Wealth: A Brief Explanation of the Causes of Economic Welfare"
 author_name: Edwin Cannan
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "9ed8a571-b9d1-5905-9cb6-0cc3a6b384d0"
 content_type: translation

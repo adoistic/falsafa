@@ -1,0 +1,91 @@
+---
+work_id: "7d67978d-3ca5-501c-8251-ba8d164e60e5"
+work_slug: "daniel-de-leon-reform-or-revolution-7d6797"
+work_title: "Reform or Revolution?"
+author_name: Daniel De Leon
+chapter_number: 9
+chapter_title: Questions
+chapter_slug: "09-questions"
+variant_id: "d64fe19f-eb27-58aa-9384-4e02b2323859"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2408
+source_url: "https://www.marxists.org/archive/deleon/works/1896/960126.htm"
+translator: Marxists Internet Archive edition
+---
+
+MR. DOOLING: I would like to inquire what it is proposed shall replace wages? How are men to be supported when wages are done away with? Upon the answer to that question will depend largely whether the middle class will support Socialism.
+
+THE SPEAKER: I must disagree with the gentleman that the middle class is going to be brought into this movement by any information upon what is going to be substituted for wages. The middle class will have to be sold at auction by the sheriff. That alone will enlighten it as a class. When it has lost its property, whereby it is now skinning some unhappy devils, and its members have themselves become wage slaves, then it will see what this whole question of wages amounts to, and what should “substitute wages.”
+
+Individuals among the middle class may, however, be intelligent enough to study the question and, in that way, to learn, before they become wage slaves, the secret of the wages question.
+
+Now, what are wages?
+
+Wages are that part of the product of labor which the capitalist pays to the workingman out of the proceeds of the workingman’s own products. Say that a workingman produces $4 a day, and that $1 is paid him for his labor. That $1 is taken out of the wealth that he himself produces, and it is kindly given back to him by the capitalist, who pockets the other $3. That is one feature of wages.
+
+Another is that wages are the price of labor in the labor market, and that in the labor market, labor stands on the same footing as any other commodity. It is governed by the law of supply and demand, its price, the same as that of anything else hairpins, shoes or cast-off clothing, is determined by the law of supply and demand”the more there is of these, the cheaper their price. Likewise with labor. Under the capitalist system, labor is a commodity in the market. The workingman must sell his labor, which he gets paid for with the thing called wages, at the market price. If the supply of labor is so much larger than the demand, then, instead of getting his one dollar out of the four that he produces in the illustration above given, he may get only ninety-five cents; if the demand for labor goes down further, he may get ninety cents as the price of his labor; and if it goes still further below the supply, still further down would go the price of labor, i.e., wages. The price of labor may sink to I don’t know how low a level.
+
+Some of you may say that the workingman has to live, and there is a limit. No, there is no limit. The only limit that there is is a limit to the rapidity of the decline. Wages cannot fall from a hundred cents to ten cents, but they can fall by easy gradations even below ten cents.
+
+We have, for instance, this story about the Chinese that in some places they live only upon the rats they catch; that in other places, their stomachs having been squeezed still more, they live upon the tails of rats that others ate; and that in still other places there are Chinamen who live upon the smell of the tail of the rats. This may sound like a joke, and yet there is more truth than poetry about it.
+
+In the history of France we have it reported that large masses of the population lived, in the eighteenth century, during the ancient regime, upon herbs, the price of which for the whole year would not have been five francs. The human stomach is like an India rubber ball; you can squeeze it, and squeeze it, and squeeze it, and you can shave off and pare off the wants of the workingman till his wants are merely those of the beast.
+
+Wages, then, are the part of the product of labor which the capitalist allows the workingman to keep, and which the capitalist does not steal, along with the other three parts.
+
+Now, then, for the same reason that wages are what I have said, there can be, under Socialism, no “wages,” because sticking to my previous illustration, under Socialism that workingman must get all the four dollars which he produces.
+
+What are the things which compel the workingman today to receive wages?
+
+First”the capitalist class owns all the things necessary to produce with; it holds the land, the railroads and the machinery with which to labor. The working class owns none of these necessities, all of which it needs to labor with; hence it must sell itself.
+
+Second”The reason why the wageworker must put up with so small a return is that under this system he is not treated as a human being, Christianity to the contrary notwithstanding. The capitalists are refined cannibals; they look at the workingman in no other light than a horse; in fact, in a worse light; they will take care of a horse, but let the workingmen die. Labor is cheap, and is treated that way under capitalism. Under Socialism, standing upon that high scientific plane, we see a higher morality. We see that labor should not be treated as a chattel; it should not be treated as a commodity; it should not be treated as shoes, and potatoes and hairpins and cast-off clothing, but as a human being capable of the highest intellectual development. So treating him, the wageworker of today becomes a part owner in the machinery of production, and being part owner in the machinery of production he then gets the full return of his labor; he is then free from the shackles that compel him to accept wages; he becomes the boss of the machine, whereas today he is its appendage.
+
+Under Socialism, we don’t need potato bugs, as a friend puts it, to raise potatoes. Some people think that the wageworker class must carry the capitalist on its back. As well say that you must have potato bugs, or you won’t have any potatoes. If you remove the potato bugs, you will have all the more potatoes; remove the capitalist class and you will have the whole of your product; there will not then be any potato bug, i.e., capitalist, to sponge up the bulk of your product.
+
+JOHN F. O’SULLIVAN: I should like to ask the speaker if the four dollars, as per the illustration, given to the worker”in other words, if he gets the full product of his labor or work”wouldn’t that be wages all the same?
+
+THE SPEAKER: If you choose to call water Paris green, that’s your business. Suppose I came to you and said: “Paris green is not poisonous, it is an excellent thing for the human system"; and suppose I went on saying: “See here, I am taking Paris green, look at me. You see, it refreshes and does not kill me!” What ,would you think of that? You would he justified to say I was juggling with words. And that is what I tell you. You have no right to call water Paris green; it is known all the world over as water, and Paris green is known as Paris green, a poison.
+
+Now in the same way “wages” is a technical term. The term means in political economy that portion of the product of labor that the workingman is allowed to keep, and that is not stolen from him by the capitalist.
+
+Now you may say, “Well, granted; but suppose we call the revenue of a man his wages, and I mean by that the full proceeds of his labor - wouldn’t that be the same?”
+
+Yes, it would be the same if you mean the right thing, but here I would warn you”and in that consists one of the “wickednesses” of us New York and Brooklyn Socialists”we insist upon strict, technical terms, because if you juggle with terms in that way you will have a Tower of Babel confusion.
+
+The Bible, which I recommend to you to read carefully, furnishes in its Tower of Babel story a warning worth taking to heart. When the Lord wanted to confuse the Jews so that they shouldn’t build that tower and get into heaven by that route, he introduced the confusion of language among them. Thereupon, when a man said, “Bring me a brick,” they brought him a chair, and when a man said, “Bring me a chair,” they struck him over the head with a crowbar; and so, not being able to understand one another, the building of the tower was given up, and the people scattered to the four winds.
+
+Now, we Socialists brace ourselves against all Tower of Babel confusion. When we say “wages,” we mean the thing that is so styled by scientific political economy, and we won’t allow its well marked and sharply drawn character to be blurred. Wages are what they are understood to be technically, and we call them by no other name.
+
+The four dollars your workingmen would get would not be “wages.” Those four dollars would be the proceeds of labor. Today he gets wages, and wages mean only that part of his product, as I said before, which capital does not steal away from him.
+
+Unless you define wages in that way, you will not be able to have a clear, scientific understanding of what profits are, namely, that portion of the product of labor which the capitalist does steal from the worker. The worker produces a certain amount of wealth, and that is divided into two parts. One small part is called wages; the big part is called profits. Now, by sticking to scientific definitions, we are aided in the understanding of the nature of capitalism, and the relations that exist between the capitalist class and the workmen’s class. We are aided in understanding that capital, i.e., the capitalist class, and labor are enemies born.
+
+Since wages are a part of the product of labor, and profits are another part, it follows that you cannot increase profits without reducing wages, and you cannot increase wages without reducing profits. It follows that the interests of the man who gets profits are dead against the interests of the working class. In other words, the two are enemies born, and the fight between them cannot be patched up; it must be fought to a finish.
+
+You will now understand the danger of a loose use of the word “wages"; it simply aids the labor fakers --
+
+[Applause, during which the speaker is informed that the questioner is the president of the Boston Central Labor Union.]
+
+It seems that I hit the nail more squarely on the head than I knew. Well, as I was saying:
+
+Such loose use of the term “wages” positively aids the labor faker in his work of bunco-steering you into the political shambles of the capitalists.
+
+The Democratic and Republican capitalists, at election time, seem to be enemies; but, after they get into their offices, shake hands and have a good laugh. Now, in order that these gentlemen should laugh, the political agents of their class must have been kept in office, and the representatives of the working class must have been kept out. To have that, the workingmen must have voted for the capitalist candidates -- it matters not whether Democratic or Republican, that is all one”and to induce the workers to cut their own throats in that way. They must be made to believe that “Capital and labor are brothers.” This is the important work for which the labor faker is commissioned by the capitalists. He must make it plausible to the workers that they and their skinners are brothers.
+
+So long as a workingman imagines capital is his brother, he will expect something from his “brother.” When the Irish worker first arrived in this country, they thought an Irishman all the world over was his brother, and united with him against the “iron heel of England,” and thus he trusted the Irishman capitalist. But his “brother,” the Irishman capitalist, while patting him on the back, skinned and bled and used him in the approved capitalist way. It was the same with the Jewish workingmen. They came to this country, and imagined that the Jewish capitalist was their brother”all of the seed of Abraham. The Jewish capitalist fostered the profitable delusion and rode on tie backs of his Abrahamic brothers. And so with the American capitalist and the American workingman, down to the end of the list of nationalities.
+
+By insisting upon a strict use of the terms “wages,” “profits,” etc., we enable the working class to understand and proceed from the fundamental truth that the interests of the workingmen bind these together, and are opposed to those of the capitalist”whether Jew or Gentile, Irishman or American, Democrat or Republican, silver bug or gold bug or bed bug. And, by doing that, we lame the arm of the labor faker that is sent to tell the workingman: “The capitalist is your brother; and I am your brother; so come to your dear brother, and get skinned.”
+
+QUESTION (no name): The social question is an economic question. Why should not an economic organization be enough?
+
+THE SPEAKER: The social question and all such questions are essentially political. If you have an economic organization alone, you have a duck flying with one wing. You must have a political organization or you are nowhere.
+
+Watch the capitalist closely, and see whether the social question is exclusively an economic one, or whether the political wing is not a very necessary one. The capitalist rules in the shop. Is he satisfied with that? Watch him at election time, it is then he works; he has also another workshop, not an economic one”the legislatures and capitols in the nation. He buzzes around them and accomplishes political results. He gets the laws passed that will protect his economic class interests, and he pulls the wires when these interests are in danger, bringing down the strong arm of political power over the heads of the striking workingmen, who have the notion that the wages or social question is only an economic question.
+
+Make no mistake: The organization of the working class must be both economic and political. The capitalist is organized upon both lines. You must attack him on both.

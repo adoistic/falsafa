@@ -1,0 +1,26 @@
+{
+  "work_slug": "michel-de-montaigne-literary-and-philosophical-essay-6e6fc6",
+  "work_title": "Literary and Philosophical Essays: French, German and Italian",
+  "chapter_number": 23,
+  "chapter_title": "Letter XXIII",
+  "chapter_slug": "23-letter-xxiii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4758218e-8558-5a48-b275-476986373d36",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1378,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5637"
+    }
+  ]
+}

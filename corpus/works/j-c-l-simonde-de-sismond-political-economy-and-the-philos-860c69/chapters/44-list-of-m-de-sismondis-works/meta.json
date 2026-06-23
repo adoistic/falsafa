@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69",
+  "work_title": "Political Economy and the Philosophy of Government",
+  "chapter_number": 44,
+  "chapter_title": "List of M. De SISMONDI's Works..",
+  "chapter_slug": "44-list-of-m-de-sismondis-works",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "795adde4-ffce-51c2-be69-437c62f321fa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8996,
+      "paragraph_count": 148,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+    }
+  ]
+}

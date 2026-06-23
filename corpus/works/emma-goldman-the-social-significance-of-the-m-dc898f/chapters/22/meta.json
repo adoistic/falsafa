@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 22,
+  "chapter_title": "Part 9, Chapter 1: George Bernard Shaw",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b34acbbc-ac7b-579f-97ac-1fce135dc99b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 391,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-9-chapter-1.html"
+    }
+  ]
+}

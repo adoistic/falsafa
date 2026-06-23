@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 8,
+  "chapter_title": "VI. The Break",
+  "chapter_slug": "08-vi-the-break",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1017823d-eb3c-5bc0-b27d-f31f18c9f188",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3858,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch06.htm"
+    }
+  ]
+}

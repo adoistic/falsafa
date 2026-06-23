@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-literature-and-revolution-9b02a3",
+  "work_title": "Literature and Revolution",
+  "chapter_number": 1,
+  "chapter_title": "Introduction",
+  "chapter_slug": "01-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08f381d0-339a-5a3c-8f5e-72e86f0d3f2c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1860,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1924/lit_revo/intro.htm"
+    }
+  ]
+}

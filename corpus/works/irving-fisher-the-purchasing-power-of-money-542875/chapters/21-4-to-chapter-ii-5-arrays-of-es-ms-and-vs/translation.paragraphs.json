@@ -1,0 +1,87 @@
+[
+  {
+    "id": "p-e65d32",
+    "offset": 0,
+    "text": "In the preceding section we have seen that there exists an \"array\" of p's, pQ's and Q's for each commodity. These relate to the right side of the equation of exchange. Similar arrays relate to the left side."
+  },
+  {
+    "id": "p-ef687f",
+    "offset": 209,
+    "text": "If, as before, we assume a community of any number of persons, distinguished respectively by subscripts at the right, and if we divide the year into moments, distinguished by subscripts at the left, we may designate the amount of money expended in the first moment by the first person as 1e1, the average amount of money he has on hand at that moment as 1m1 and his velocity of circulation at that moment (reckoned at its rate per year) as 1V1. The expenditure in the moment being 1e1, that moment's rate per annum is 1n1 1e1, there being n moments in the year, so that the velocity of circulation or rate of turnover per annum, 1V1, is"
+  },
+  {
+    "id": "p-4f04d5",
+    "offset": 847,
+    "text": "A similar notation may be used to express the amounts expended and held and the velocity of circulation for each member of the community during each moment of the year as shown in the following three \"arrays\" (inside the lines)."
+  },
+  {
+    "id": "p-a5cf13",
+    "offset": 1077,
+    "text": "In the first table, E1 at the right of the first line is the sum expended by the first person, being the sum of 1e1, 2e1, 3e1,...in the first line representing the amounts expended by him at successive moments during the year. Likewise, E2 is the sum expended by the second person during the year, and E3 is the sum expended by the third. 1E at the foot of the first column is the amount expended by all persons in the first moment; that is, it is the sum of all the amounts in the column above it; 2E is likewise the amount expended by all persons in the second moment; 3E, the amount expended in the third, etc. Finally, E, in the lower right-hand corner, is, as employed in the text, the grand total expended by all persons in all moments of the year. Evidently E can be obtained by adding the row to the left of it, or by adding the column above it. It is also the sum of all the elements inside the lines, i.e. E = S1E = SE1 = S1e1."
+  },
+  {
+    "id": "p-60a934",
+    "offset": 2016,
+    "text": "In the second table, M in the lower right corner is a sum of the average amounts held by the different members of the community during the year, i.e. it is the sum of the elements in the column above it, m1, m2, m3, etc., each of which is by hypothesis a simple average of the row to its left."
+  },
+  {
+    "id": "p-7e2cd4",
+    "offset": 2311,
+    "text": "Or, again, M is a simple average of the row to its left, 1M, 2M, 3M, etc., the average amounts of money in the community, in the successive moments of the year, each of which averages is in turn the sum of the column above it, i.e."
+  },
+  {
+    "id": "p-461b6d",
+    "offset": 2544,
+    "text": "Thus M is both the sum of averages and the average of sums. That the two are equal follows by expressing both in terms of the elementary quantities 1m1 by means of the equations"
+  },
+  {
+    "id": "p-1903c5",
+    "offset": 2723,
+    "text": "and the equations 1M = 1m1 + 1m2 + 1m3 +....It is, of course, easy also to express M directly in terms of 1m1, etc., within the table. Thus expressed, it is"
+  },
+  {
+    "id": "p-e92b8e",
+    "offset": 2881,
+    "text": "The third table (that for velocities) is derived from the other two. As just explained, 1V1 is the velocity of circulation (considered as a per annum rate) for the first person in the community in the first moment."
+  },
+  {
+    "id": "p-886e28",
+    "offset": 3097,
+    "text": "There remain to be shown the relations of the elements in the V table."
+  },
+  {
+    "id": "p-774175",
+    "offset": 3169,
+    "text": "Form (1) shows that V is a weighted average of the yearly velocities of the different persons, the velocity of each person being for the entire year and weighted according to his average amount of money on hand."
+  },
+  {
+    "id": "p-778eaa",
+    "offset": 3382,
+    "text": "Following an analogous but slightly different sequence, we have"
+  },
+  {
+    "id": "p-157476",
+    "offset": 3447,
+    "text": "Form (2) shows that V is also the weighted average of the yearly velocities of the successive moments into which the year is divided, the velocity of each moment being for the entire community and weighted according to its average amount of money then in circulation."
+  },
+  {
+    "id": "p-271123",
+    "offset": 3716,
+    "text": "Thus form (1) gives V in terms of the column above it, while form (2) gives V in terms of the row at its left. A formula similar to (1) may be constructed to express each of the magnitudes 1V, 2V, 3V, etc., in terms of the column above it, while a formula similar to (2) may be constructed to express each of the magnitudes V1, V2, V3, etc., in terms of the row at its left. That is, the velocity in the entire community at any particular moment is a specific form of average of the velocities of different persons at that moment; and the velocity for the entire year of any particular person is a specific form of average of the velocities at different moments for that person."
+  },
+  {
+    "id": "p-da6083",
+    "offset": 4396,
+    "text": "Finally, V may be expressed, not only as an average of its column and row as in formula (1) and (2), but also as an average of the magnitudes in the interior of the table. This last result may be obtained in several ways, of which the most direct may briefly be expressed as follows: We know that E is the sum of the interior of the first or E table, that is, E = S1e1; and that M is equal to"
+  },
+  {
+    "id": "p-4e1358",
+    "offset": 4790,
+    "text": "Hence, we have"
+  },
+  {
+    "id": "p-e35d94",
+    "offset": 4806,
+    "text": "That is, V is the weighted arithmetical average of the yearly velocities pertaining to different persons in different moments, each velocity being weighted by the amount of money on hand in that instance. The mathematical reader will perceive that an alternative treatment would derive the result in terms of an harmonic average."
+  }
+]

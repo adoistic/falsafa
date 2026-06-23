@@ -1,52 +1,482 @@
 [
   {
-    "id": "p-27796a",
+    "id": "p-cd3e99",
     "offset": 0,
-    "text": "In order to judge of the object and meaning of that chapter of Magna Carta which secures the trial by jury, it is to be borne in mind that, at the time of Magna Carta, the king (with exceptions immaterial to this discussion, but which will appear hereafter) was, constitutionally, the entire government; the sole legislative, judicial, and executive power of the nation. The executive and judicial officers were merely his servants, appointed by him, and removable at his pleasure. In addition to this, “the king himself often sat in his court, which always attended his person. He there heard causes, and pronounced judgment; and though he was assisted by the advice of other members, it is not to be imagined that a decision could be obtained contrary to his inclination or opinion.”* Judges were in those days, and afterwards, such abject servants of the king, that “we find that King Edward I. (1272 to 1307) fined and imprisoned his judges, in the same manner as Alfred the Great, among the Saxons, had done before him, by the sole exercise of his authority.”†"
+    "text": "But it is in the administration of justice, or of law, that the freedom or subjection of a people is tested. If this administration be in accordance with the arbitrary will of the legislator—that is, if his will, as it appears in his statutes, be the highest rule of decision known to the judicial tribunals,—the government is a despotism, and the people are slaves. If, on the other hand, the rule of decision be those principles of natural equity and justice, which constitute, or at least are embodied in, the general conscience of mankind, the people are free in just so far as that conscience is enlightened."
   },
   {
-    "id": "p-7ea149",
-    "offset": 1067,
-    "text": "Parliament, so far as there was a parliament, was a mere council of the king.* It assembled only at the pleasure of the king; sat only during his pleasure; and when sitting had no power, so far as general legislation was concerned, beyond that of simply advising the king. The only legislation to which their assent was constitutionally necessary, was demands for money and military services for extraordinary occasions. Even Magna Carta itself makes no provisions whatever for any parliaments, except when the king should want means to carry on war, or to meet some other extraordinary necessity.† He had no need of parliaments to raise taxes for the ordinary purposes of government; for his revenues from the rents of the crown lands and other sources, were ample for all except extraordinary occasions. Parliaments, too, when assembled, consisted only of bishops, barons, and other great men of the kingdom, unless the king chose to invite others.‡ There was no House of Commons at that time, and the people had no right to be heard, unless as petitioners.§"
+    "id": "p-96320e",
+    "offset": 615,
+    "text": "That the authority of the king was of little weight with the judicial tribunals, must necessarily be inferred from the fact already stated, that his authority over the people was but weak. If the authority of his laws had been paramount in the judicial tribunals, it would have been paramount with the people, of course; because they would have had no alternative [64] but submission. The fact, then, that his laws were not authoritative with the people, is proof that they were not authoritative with the tribunals—in other words, that they were not, as matter of course, enforced by the tribunals."
   },
   {
-    "id": "p-b92f3f",
-    "offset": 2129,
-    "text": "Even when laws were made at the time of a parliament, they were made in the name of the king alone. Sometimes it was inserted in the laws, that they were made with the consent or advice of the bishops, barons, and others assembled; but often this was omitted. Their consent or advice was evidently a matter of no legal importance to the enactment or validity of the laws, but only inserted, when inserted at all, with a view of obtaining a more willing submission to them on the part of the people. The style of enactment generally was, either “The King wills and commands,” or some other form significant of the sole legislative authority of the king. The king could pass laws at any time when it pleased him. The presence of a parliament was wholly unnecessary. Hume says, “It is asserted by Sir Harry Spelman, as an undoubted fact, that, during the reigns of the Norman princes, every order of the king, issued with the consent of his privy council, had the full force of law.”* And other authorities abundantly corroborate this assertion.†"
+    "id": "p-42e0c8",
+    "offset": 1216,
+    "text": "But we have additional evidence that, up to the time of Magna Carta, the laws of the king were not binding upon the judicial tribunals; and if they were not binding before that time, they certainly were not afterwards, as has already been shown from Magna Carta itself. It is manifest from all the accounts we have of the courts in which juries sat, prior to Magna Carta, such as the court-baron, the hundred court, the court-leet, and the county court, that they were mere courts of conscience, and that the juries were the judges, deciding causes according to their own notions of equity, and not according to any laws of the king, unless they thought them just."
   },
   {
-    "id": "p-3e0fd1",
-    "offset": 3174,
-    "text": "The king was, therefore, constitutionally the government; and the only legal limitation upon his power seems to have been simply the Common Law, usually called “the law of the land,” which he was bound by oath to maintain; (which oath had about the same practical value as similar oaths have always had.) This “law of the land” seems not to have been regarded at all by many of the kings, except so far as they found it convenient to do so, or were constrained to observe it by the fear of arousing resistance. But as all people are slow in making resistance, oppression and usurpation often reached a great height; and, in the case of John, they had become so intolerable as to enlist the nation almost universally against him; and he was reduced to the necessity of complying with any terms the barons saw fit to dictate to him."
+    "id": "p-8aac72",
+    "offset": 1882,
+    "text": "These courts, it must be considered, were very numerous, and held very frequent sessions. There were probably seven, eight, or nine hundred courts a month, in the kingdom; the object being, as Blackstone says, “to bring justice home to every man’s door.” (3 Blackstone, 30.) The number of the county courts, of course, corresponded to the number of counties, (36.) The court-leet was the criminal court for a district less than a county. The hundred court was the court for one of those districts anciently called a hundred, because, at the time of their first organization for judicial purposes, they comprised (as is supposed) but a hundred families.* The court-baron was the court for a single manor, and there was a court for every manor in the kingdom. All these courts were holden as often as once in three or five weeks; the county court once a month. The king’s judges were present at none of these courts; the only officers in attendance being sheriffs, bailiffs, and stewards, merely ministerial, and not judicial, officers; doubtless incompetent, and, if not incompetent, untrustworthy, for giving the juries any reliable information in matters of law, beyond what was already known to the jurors themselves. [65] And yet these were the courts, in which was done all the judicial business, both civil and criminal, of the nation, except appeals, and some of the more important and difficult cases.* It is plain that the juries, in these courts, must, of necessity, have been the sole judges of all matters of law whatsoever; because there was no one present, but sheriffs, bailiffs, and stewards, to give them any instructions; and surely it will not be pretended that the jurors were bound to take their law from such sources as these."
   },
   {
-    "id": "p-266cab",
-    "offset": 4006,
-    "text": "It was under these circumstances, that the Great Charter of [23] English Liberties was granted. The barons of England, sustained by the common people, having their king in their power, compelled him, as the price of his throne, to pledge himself that he would punish no freeman for a violation of any of his laws, unless with the consent of the peers—that is, the equals—of the accused."
+    "id": "p-6bfae0",
+    "offset": 3631,
+    "text": "In the second place, it is manifest that the principles of law, by which the juries determined causes, were, as a general rule, nothing else than their own ideas of natural equity, and not any laws of the king; because but few laws were enacted, and many of those were not written, but only agreed upon in council.† Of those that were written, few copies only were made, (printing being then unknown,) and not enough to supply all, or any considerable number, of these numerous courts. Beside and beyond all this, few or none of the jurors could have read the laws, if they had been written; because few or none of the common people could, at that time, read. Not only were the common people unable to read their own language, but, at the time of Magna Carta, the laws were written in Latin, a language that could be read by few persons except the priests, who were also the lawyers of the nation. Mackintosh says, “the first act of the House of Commons composed and recorded in the English tongue,” was in 1415, two centuries after Magna Carta.‡ Up to this time, and for some seventy years later, the laws were generally written [66] either in Latin or French; both languages incapable of being read by the common people, as well Normans as Saxons; and one of them, the Latin, not only incapable of being read by them, but of being even understood when it was heard by them."
   },
   {
-    "id": "p-f69da7",
-    "offset": 4394,
-    "text": "The question here arises, Whether the barons and people intended that those peers (the jury) should be mere puppets in the hands of the king, exercising no opinion of their own as to the intrinsic merits of the accusations they should try, or the justice of the laws they should be called on to enforce? Whether those haughty and victorious barons, when they had their tyrant king at their feet, gave back to him his throne, with full power to enact any tyrannical laws he might please, reserving only to a jury (“the country”) the contemptible and servile privilege of ascertaining, (under the dictation of the king, or his judges, as to the laws of evidence), the simple fact whether those laws had been transgressed? Was this the only restraint, which, when they had all power in their hands, they placed upon the tyranny of a king, whose oppressions they had risen in arms to resist? Was it to obtain such a charter as that, that the whole nation had united, as it were, like one man, against their king? Was it on such a charter that they intended to rely, for all future time, for the security of their liberties? No. They were engaged in no such senseless work as that. On the contrary, when they required him to renounce forever the power to punish any freeman, unless by the consent of his peers, they intended those peers should judge of, and try, the whole case on its merits, independently of all arbitrary legislation, or judicial authority, on the part of the king. In this way they took the liberties of each individual—and thus the liberties of the whole people—entirely out of the hands of the king, and out of the power of his laws, and placed them in the keeping of the people themselves. And this it was that made the trial by jury the palladium of their liberties."
+    "id": "p-66df11",
+    "offset": 5008,
+    "text": "To suppose that the people were bound to obey, and juries to enforce, laws, many of which were unwritten, none of which they could read, and the larger part of which (those written in Latin) they could not translate, or understand when they heard them read, is equivalent to supposing the nation sunk in the most degrading slavery, instead of enjoying a liberty of their own choosing."
   },
   {
-    "id": "p-4c810a",
-    "offset": 6181,
-    "text": "The trial by jury, be it observed, was the only real barrier interposed by them against absolute despotism. Could this trial, then, have been such an entire farce as it necessarily [24] must have been, if the jury had had no power to judge of the justice of the laws the people were required to obey? Did it not rather imply that the jury were to judge independently and fearlessly as to everything involved in the charge, and especially as to its intrinsic justice, and thereon give their decision, (unbiased by any legislation of the king,) whether the accused might be punished? The reason of the thing, no less than the historical celebrity of the events, as securing the liberties of the people, and the veneration with which the trial by jury has continued to be regarded, notwithstanding its essence and vitality have been almost entirely extracted from it in practice, would settle the question, if other evidences had left the matter in doubt."
+    "id": "p-0c1582",
+    "offset": 5394,
+    "text": "Their knowledge of the laws passed by the king was, of course, derived only from oral information; and “the good laws,” as some of them were called, in contradistinction to others—those which the people at large esteemed to be good laws—were doubtless enforced by the juries, and the others, as a general thing, disregarded.*"
   },
   {
-    "id": "p-3c202b",
-    "offset": 7135,
-    "text": "Besides, if his laws were to be authoritative with the jury, why should John indignantly refuse, as at first he did, to grant the charter, (and finally grant it only when brought to the last extremity,) on the ground that it deprived him of all power, and left him only the name of a king? He evidently understood that the juries were to veto his laws, and paralyze his power, at discretion, by forming their own opinions as to the true character of the offences they were to try, and the laws they were to be called on to enforce; and that “the king wills and commands” was to have no weight with them contrary to their own judgments of what was intrinsically right.*"
+    "id": "p-a381b7",
+    "offset": 5721,
+    "text": "That such was the nature of judicial proceedings, and of the power of juries, up to the time of Magna Carta, is further shown by the following authorities."
   },
   {
-    "id": "p-e6e405",
-    "offset": 7805,
-    "text": "The barons and people having obtained by the charter all the liberties they had demanded of the king, it was further [25] provided by the charter itself that twenty-five barons should be appointed by the barons, out of their number, to keep special vigilance in the kingdom to see that the charter was observed, with authority to make war upon the king in case of its violation. The king also, by the charter, so far absolved all the people of the kingdom from their allegiance to him, as to authorize and require them to swear to obey the twenty-five barons, in case they should make war upon the king for infringement of the charter. It was then thought by the barons and people, that something substantial had been done for the security of their liberties."
+    "id": "p-35110b",
+    "offset": 5878,
+    "text": "“The sheriffs and bailiffs caused the free tenants of their bailiwics to meet at their counties and hundreds; at which justice was so done, that every one so judged his neighbor by such judgment as a man could not elsewhere receive in the like cases, until such times as the customs of the realm were put in writing, and certainly published."
   },
   {
-    "id": "p-96f0e0",
-    "offset": 8566,
-    "text": "This charter, in its most essential features, and without any abatement as to the trial by jury, has since been confirmed more than thirty times; and the people of England have always had a traditionary idea that it was of some value as a guaranty against oppression. Yet that idea has been an entire delusion, unless the jury have had the right to judge of the justice of the laws they were called on to enforce."
+    "id": "p-5897f3",
+    "offset": 6221,
+    "text": "“And although a freeman commonly was not to serve (as a juror or judge) without his assent, nevertheless it was assented unto that free tenants should meet together in the counties and hundreds, and lords courts, if they were not specially exempted to do such suits, and there judged their neighbors.”"
+  },
+  {
+    "id": "p-ec5b16",
+    "offset": 6524,
+    "text": "Gilbert, in his treatise on the Constitution of England, says:"
+  },
+  {
+    "id": "p-e6adef",
+    "offset": 6588,
+    "text": "“In the county courts, if the debt was above forty shillings, there issued a justicies (a commission) to the sheriff, to enable him to hold such a plea, where the suitors (jurors) are judges of the law and fact.”"
+  },
+  {
+    "id": "p-eaf3db",
+    "offset": 6802,
+    "text": "All the ancient writs, given in Glanville, for summoning jurors, indicate that the jurors judged of everything, on their consciences only. The writs are in this form:"
+  },
+  {
+    "id": "p-515db3",
+    "offset": 6970,
+    "text": "“Summon twelve free and legal men (or sometimes twelve knights) to be in court, prepared upon their oaths to declare whether A or B have the greater right to the land (or other thing) in question.” See Writs in Beames’ Glanville, p. 54 to 70, and 233-306 to 332."
+  },
+  {
+    "id": "p-92a9e3",
+    "offset": 7234,
+    "text": "Crabbe, speaking of the time of Henry I., (1100 to 1135,) recognizes the fact that the jurors were the judges. He says:"
+  },
+  {
+    "id": "p-d81983",
+    "offset": 7355,
+    "text": "“By one law, every one was to be tried by his peers, who were of the same neighborhood as himself. * * By another law, the judges, for so the jury were called, were to be chosen by the party impleaded, after the manner of the Danish nembas; by which, probably, is to be understood that the defendant had the liberty of taking exceptions to, or challenging the jury, as it was afterwards called.”"
+  },
+  {
+    "id": "p-8a0b0b",
+    "offset": 7752,
+    "text": "Reeve says:"
+  },
+  {
+    "id": "p-77894d",
+    "offset": 7765,
+    "text": "“The great court for civil business was the county court; held once every four weeks. Here the sheriff presided; but the suitors of the court, as they were called, that is, the freemen or landholders of the county, were the judges; and the sheriff was to execute the judgment. * * *"
+  },
+  {
+    "id": "p-9ab79a",
+    "offset": 8049,
+    "text": "“The hundred court was held before some bailiff; the leet before the lord of the manor’s steward.† * *"
+  },
+  {
+    "id": "p-2ab4b9",
+    "offset": 8153,
+    "text": "“Out of the county court was derived an inferior court of civil jurisdiction, called the court-baron. This was held from three weeks to three weeks, and was in every respect like the county court;” (that is, the jurors were judges in it;) “only the lord to whom this franchise was granted, or his steward, [68] presided instead of the sheriff.”"
+  },
+  {
+    "id": "p-bf6b40",
+    "offset": 8499,
+    "text": "Chief Baron Gilbert says:"
+  },
+  {
+    "id": "p-98ddf1",
+    "offset": 8526,
+    "text": "“Besides the tenants of the king, which held per baroniam, (by the right of a baron,) and did suit and service (served as judges) at his own court; and the burghers and tenants in ancient demesne, that did suit and service (served as jurors or judges) in their own court in person, and in the king’s by proxy, there was also a set of freeholders, that did suit and service (served as jurors) at the county court. These were such as anciently held of the lord of the county, and by the escheats of earldoms had fallen to the king; or such as were granted out by service to hold of the king, but with particular reservation to do suit and service (serve as jurors) before the king’s bailiff; because it was necessary the sheriff, or bailiff of the king, should have suitors (jurors) at the county court, that the business might be despatched. These suitors are the pares (peers) of the county court, and indeed the judges of it; as the pares (peers) were the judges in every court-baron; and therefore the king’s bailiff having a court before him, there must be pares or judges, for the sheriff himself is not a judge; and though the style of the court is Curia prima Comitatus E. C. Milit.’ vicecom’ Comitat’ præd’ Tent’ apud B., &c. (First Court of the county, E. C. knight, sheriff of the aforesaid county, held at B., &c.); by which it appears that the court was the sheriff’s; yet, by the old feudal constitutions, the lord was not judge, but the pares (peers) only; so that, even in a justicies, which was a commission to the sheriff to hold plea of more than was allowed by the natural jurisdiction of a county court, the pares (peers, jurors) only were judges, and not the sheriff; because it was to hold plea in the same manner as they used to do in that (the lord’s) court.”"
+  },
+  {
+    "id": "p-6df568",
+    "offset": 10310,
+    "text": "“It is a distinguishing feature of the feudal system, to make civil jurisdiction necessarily, and criminal jurisdiction ordinarily, coëxtensive with tenure; and accordingly there is inseparably incident to every manor a court-baron (curia baronum), being a court in which the freeholders of the manor are the sole judges, but in which the lord, by himself, or more commonly by his steward, presides.”"
+  },
+  {
+    "id": "p-1669b9",
+    "offset": 10712,
+    "text": "The same work, speaking of the county court, says: “The judges were the freeholders who did suit to the court.” See word Courts."
+  },
+  {
+    "id": "p-b91b69",
+    "offset": 10842,
+    "text": "“In the case of freeholders attending as suitors, the county [69] court or court-baron, (as in the case of the ancient tenants per baroniam attending Parliament,) the suitors are the judges of the court, both for law and for fact, and the sheriff or the under sheriff in the county court, and the lord or his steward in the court-baron, are only presiding officers, with no judicial authority.”"
+  },
+  {
+    "id": "p-961217",
+    "offset": 11238,
+    "text": "“Court, (curtis, curia aula); the space enclosed by the walls of a feudal residence, in which the followers of a lord used to assemble in the middle ages, to administer justice, and decide respecting affairs of common interest, &c. It was next used for those who stood in immediate connexion with the lord and master, the pares curiæ, (peers of the court,) the limited portion of the general assembly, to which was entrusted the pronouncing of judgment,” &c."
+  },
+  {
+    "id": "p-2593af",
+    "offset": 11698,
+    "text": "“In court-barons or county courts the steward was not judge, but the pares (peers, jurors); nor was the speaker in the House of Lords judge, but the barons only.”"
+  },
+  {
+    "id": "p-a3b33b",
+    "offset": 11862,
+    "text": "Crabbe, speaking of the Saxon times, says:"
+  },
+  {
+    "id": "p-c7c12b",
+    "offset": 11906,
+    "text": "“The sheriff presided at the hundred court, * * and sometimes sat in the place of the alderman (earl) in the county court.”"
+  },
+  {
+    "id": "p-e8bd70",
+    "offset": 12031,
+    "text": "The sheriff afterwards became the sole presiding officer of the county court."
+  },
+  {
+    "id": "p-46adea",
+    "offset": 12110,
+    "text": "Sir Thomas Smith, Secretary of State to Queen Elizabeth, writing more than three hundred years after Magna Carta, in describing the difference between the Civil Law and the English Law, says:"
+  },
+  {
+    "id": "p-b8d67a",
+    "offset": 12303,
+    "text": "“Judex is of us called Judge, but our fashion is so divers, that they which give the deadly stroke, and either condemn or acquit the man for guilty or not guilty, are not called judges, but the twelve men. And the same order as well in civil matters and pecuniary, as in matters criminal.”"
+  },
+  {
+    "id": "p-3a5008",
+    "offset": 12594,
+    "text": "Court-Leet. “That the leet is the most ancient court in the land for criminal matters, (the court-baron being of no less antiquity in civil,) has been pronounced by the highest legal authority. * * Lord Mansfield states that this court was coeval with the establishment of the Saxons here, and its activity marked very visibly both among the Saxons and Danes. * * The leet is a court of record for the cognizance of criminal matters, or pleas of the crown; and necessarily belongs to the king; though a subject, usually the lord [70] of the manor, may be, and is, entitled to the profits, consisting of the essoign pence, fines, and amerciaments."
+  },
+  {
+    "id": "p-18d271",
+    "offset": 13242,
+    "text": "“It is held before the steward, or was, in ancient times, before the bailiff, of the lord.”"
+  },
+  {
+    "id": "p-830d46",
+    "offset": 13335,
+    "text": "Of course the jury were the judges in this court, where only a “steward” or “bailiff” of a manor presided."
+  },
+  {
+    "id": "p-f0cd30",
+    "offset": 13443,
+    "text": "“No cause of consequence was determined without the king’s writ; for even in the county courts, of the debts, which were above forty shillings, there issued a Justicies (commission) to the sheriff, to enable him to hold such plea, where the suitors are judges of the law and fact.”"
+  },
+  {
+    "id": "p-2881d6",
+    "offset": 13726,
+    "text": "“This position” (that “the matter of law was decided by the King’s Justices, but the matter of fact by the pares”) “is wholly incompatible with the common law, for the Jurata (jury) were the sole judges both of the law and the fact.”"
+  },
+  {
+    "id": "p-9f63e2",
+    "offset": 13961,
+    "text": "“We come now to the challenge; and of old the suitors in court, who were judges, could not be challenged; nor by the feudal law could the pares be even challenged, Pares qui ordinariam jurisdictionem habent recusari non possunt; (the peers who have ordinary jurisdiction cannot be rejected;) “but those suitors who are judges of the court, could not be challenged; and the reason is, that there are several qualifications required by the writ, viz., that they be liberos et legales homines de vincineto (free and legal men of the neighborhood) of the place laid in the declaration,” &c., &c."
+  },
+  {
+    "id": "p-2b0e62",
+    "offset": 14554,
+    "text": "“Ad questionem juris non respondent Juratores.” (To the question of law the jurors do not answer.) “The Annotist says, that this is indeed a maxim in the Civil-Law Jurisprudence, but it does not bind an English jury, for by the common law of the land the jury are judges as well of the matter of law, as of the fact, with this difference only, that the (a Saxon word) or judge on the bench is to give them no assistance in determining the matter of fact, but if they have any doubt among themselves relating to matter of law, they may then request him to explain it to them, which when he hath done, and they are thus become well informed, they, and they only, become competent judges of the matter of law. And this is the province of the judge on the bench, namely, to show, or teach the law, but not to take upon him the trial of the delinquent, either in matter of fact or in matter of law.” (Here various Saxon laws are quoted.) “In neither of these fundamental [71] laws is there the least word, hint, or idea, that the earl or alderman (that is to say, the Prepositus (presiding officer) of the court, which is tantamount to the judge on the bench) is to take upon him to judge the delinquent in any sense whatever, the sole purport of his office is to teach the secular or worldly law.”"
+  },
+  {
+    "id": "p-d21896",
+    "offset": 15849,
+    "text": "“The administration of justice was carefully provided for; it was not the caprice of their lord, but the sentence of their peers, that they obeyed. Each was the judge of his equals, and each by his equals was judged.”"
+  },
+  {
+    "id": "p-2aee58",
+    "offset": 16068,
+    "text": "Hallam says: “A respectable class of free socagers, having, in general, full rights of alienating their lands, and holding them probably at a small certain rent from the lord of the manor, frequently occur in Domes-day Book. * * They undoubtedly were suitors to the court-baron of the lord, to whose soc, or right of justice, they belonged. They were consequently judges in civil causes, determined before the manorial tribunal.”"
+  },
+  {
+    "id": "p-2abfd9",
+    "offset": 16499,
+    "text": "Stephens adopts as correct the following quotations from Blackstone:"
+  },
+  {
+    "id": "p-398413",
+    "offset": 16569,
+    "text": "“The Court-Baron is a court incident to every manor in the kingdom, to be holden by the steward within the said manor.” * * It “is a court of common law, and it is the court before the freeholders who owe suit and service to the manor,” (are bound to serve as jurors in the courts of the manor,) “the steward being rather the registrar than the judge. * * The freeholders’ court was composed of the lord’s tanants, who were the pares (equals) of each other, and were bound by their feudal tenure to assist their lord in the dispensation of domestic justice. This was formerly held every three weeks; and its most important business was to determine, by writ of right, all controversies relating to the right of lands within the manor.”"
+  },
+  {
+    "id": "p-e391e8",
+    "offset": 17306,
+    "text": "“A Hundred Court is only a larger court-baron, being held for all the inhabitants of a particular hundred, instead of a manor. The free suitors (jurors) are here also the judges, and the steward the register.”"
+  },
+  {
+    "id": "p-69b03d",
+    "offset": 17517,
+    "text": "“The County Court is a court incident to the jurisdiction of the sheriff. * * The freeholders of the county are the real judges in this court, and the sheriff is the ministerial officer.”"
+  },
+  {
+    "id": "p-45a5a5",
+    "offset": 17706,
+    "text": "Blackstone describes these courts, as courts “wherein injuries were redressed in an easy and expeditious manner, by the suffrage of neighbors and friends.”"
+  },
+  {
+    "id": "p-0d9c05",
+    "offset": 17863,
+    "text": "“When we read of a certain number of freemen chosen by the parties to decide in a dispute—all bound by oath to vote in foro conscientia—and that their decision, not the will of the judge presiding, ended the suit, we at once perceive that a great improvement has been made in the old form of compurgation—an improvement which impartial observation can have no hesitation to pronounce as identical in its main features with the trial by jury.”"
+  },
+  {
+    "id": "p-f0cf56",
+    "offset": 18307,
+    "text": "“The bishop and the earl, or, in his absence, the gerefa, (sheriff,) and sometimes both the earl and the gerefa, presided at the schyre-mote (county court); the gerefa (sheriff) usually alone presided at the mote (meeting or court) of the hundred. In the cities and towns which were not within any peculiar jurisdiction, there was held, at regular stated intervals, a burgh mote, (borough court,) for the administration of justice, at which a gerefa, or a magistrate appointed by the king, presided.”"
+  },
+  {
+    "id": "p-f65857",
+    "offset": 18809,
+    "text": "“The right of the plaintiff and defendant, and of the prosecutor and criminal, to challenge the judices, (judges,) or assessors,* appointed to try the cause in civil matters, and to decide upon the guilt or innocence of the accused in criminal matters, is recognized in the treatise called the Laws of Henry the First; but I cannot discover, from the Anglo-Saxon laws or histories, that before the Conquest the parties had any general right of challenge; indeed, had such right existed, the injunctions to all persons standing in the situation of judges (jurors) to do right according to their conscience, would scarcely have been so frequently and anxiously repeated.”"
+  },
+  {
+    "id": "p-3cd60e",
+    "offset": 19480,
+    "text": "Hale says:"
+  },
+  {
+    "id": "p-095c9f",
+    "offset": 19492,
+    "text": "“The administration of the common justice of the kingdom seems to be wholly dispensed in the county courts, hundred courts, and courts-baron; except some of the greater crimes reformed by the laws of King Henry I., and that part thereof which was sometimes taken up by the Justitiarius Angliæ. [73] This doubtless bred great inconvenience, uncertainty, and variety in the laws, viz.:"
+  },
+  {
+    "id": "p-e936de",
+    "offset": 19877,
+    "text": "“First, by the ignorance of the judges, which were the freeholders of the county. * *"
+  },
+  {
+    "id": "p-d8bc00",
+    "offset": 19964,
+    "text": "“Thirdly, a third inconvenience was, that all the business of any moment was carried by parties and factions. For the freeholders being generally the judges, and conversing one among another, and being as it were the chief judges, not only of the fact, but of the law; every man that had a suit there, sped according as he could make parties.”"
+  },
+  {
+    "id": "p-8059cb",
+    "offset": 20309,
+    "text": "“In all these tribunals,” (county court, hundred court, &c.,) “the judges were the free tenants, owing suit to the court, and afterwards called its peers.”"
+  },
+  {
+    "id": "p-82aaaf",
+    "offset": 20466,
+    "text": "Henry calls the twelve jurors “assessors,” and says:"
+  },
+  {
+    "id": "p-9282b1",
+    "offset": 20520,
+    "text": "“These assessors, who were in reality judges, took a solemn oath, that they would faithfully discharge the duties of their office, and not suffer an innocent man to be condemned, nor any guilty person to be acquitted.”"
+  },
+  {
+    "id": "p-a5b850",
+    "offset": 20740,
+    "text": "Tyrrell says:"
+  },
+  {
+    "id": "p-e33348",
+    "offset": 20755,
+    "text": "“Alfred cantoned his kingdom, first into Trihings and Lathes, as they are still called in Kent and other places, consisting of three or four Hundreds; in which, the freeholders being judges, such causes were brought as could not be determined in the Hundred court.”"
+  },
+  {
+    "id": "p-b524c9",
+    "offset": 21022,
+    "text": "Of the Hundred Court he says:"
+  },
+  {
+    "id": "p-2afb7c",
+    "offset": 21053,
+    "text": "“In this court anciently, one of the principal inhabitants, called the alderman, together with the barons of the Hundred*"
+  },
+  {
+    "id": "p-127346",
+    "offset": 21176,
+    "text": "Also he says:"
+  },
+  {
+    "id": "p-76bc05",
+    "offset": 21191,
+    "text": "“By a law of Edward the Elder, ‘Every sheriff shall convene [74] the people once a month, and do equal right to all, putting an end to controversies at times appointed.’ ”"
+  },
+  {
+    "id": "p-20c24f",
+    "offset": 21364,
+    "text": "“A statute, emphatically termed the ‘Grand Assize,’ enabled the defendant, if he thought proper, to abide by the testimony of the twelve good and lawful knights, chosen by four others of the vicinage, and whose oaths gave a final decision to the contested claim.”"
+  },
+  {
+    "id": "p-fbad1e",
+    "offset": 21629,
+    "text": "“From the moment when the crown became accustomed to the ‘Inquest,’ a restraint was imposed upon every branch of the prerogative. The king could never be informed of his rights, but through the medium of the people. Every ‘extent’ by which he claimed the profits and advantages resulting from the casualties of tenure, every process by which he repressed the usurpations of the baronage, depended upon the ‘good men and true’ who were impanelled to ‘pass’ between the subject and the sovereign; and the thunder of the Exchequer at Westminster might be silenced by the honesty, the firmness, or the obstinacy, of one sturdy knight or yeoman in the distant shire."
+  },
+  {
+    "id": "p-235f97",
+    "offset": 22292,
+    "text": "Taxation was controlled in the same manner by the voice of those who were most liable to oppression. * * A jury was impanelled to adjudge the proportion due to the sovereign; and this course was not essentially varied, even after the right of granting aids to the crown was fully acknowledged to be vested in the parliament of the realm. The people taxed themselves; and the collection of the grants was checked and controlled, and, perhaps, in many instances evaded, by these virtual representatives of the community."
+  },
+  {
+    "id": "p-0441de",
+    "offset": 22812,
+    "text": "The principle of the jury was, therefore, not confined to its mere application as a mode of trying contested facts, whether in civil or criminal cases; and, both in its form and in its consequences, it had a very material influence upon the general constitution of the realm. * * The main-spring of the machinery of remedial justice existed in the franchise of the lower and lowest orders of the political hierarchy. Without the suffrage of the yeoman, the burgess, and the churl, the sovereign could not exercise the most important and most essential function of royalty; from them he received the power of life and death; he could not wield the sword of justice until the humblest of his subjects placed the weapon in his hand.”"
+  },
+  {
+    "id": "p-6fff90",
+    "offset": 23544,
+    "text": "Coke says, “The court of the county is no court of record,* and the suitors are the judges thereof.”"
+  },
+  {
+    "id": "p-b35539",
+    "offset": 23646,
+    "text": "Also, “The court of the Hundred is no court of record, and the suitors be thereof judges.”"
+  },
+  {
+    "id": "p-fdf9e8",
+    "offset": 23738,
+    "text": "Also, “The court-baron is a court incident to every manor, and is not of record, and the suitors be thereof judges.”"
+  },
+  {
+    "id": "p-e677d6",
+    "offset": 23856,
+    "text": "Also, “The court of ancient demesne is in the nature of a court-baron, wherein the suitors are judges, and is no court of record.”"
+  },
+  {
+    "id": "p-6530e7",
+    "offset": 23988,
+    "text": "Millar says, “Some authors have thought that jurymen were originally compurgators, called by a defendant to swear that they believed him innocent of the facts with which he was charged. . . But . . compurgators were merely witnesses; jurymen were, in reality, judges. The former were called to confirm the oath of the party by swearing, according to their belief, that he had told the truth, (in his oath of purgation;) the latter were appointed to try, by witnesses, and by all other means of proof, whether he was innocent or guilty. . . Juries were accustomed to ascertain the truth of facts, by the defendant’s oath of purgation, together with that of his compurgators. . . Both of them (jurymen and compurgators) were obliged to swear that they would tell the truth. . . According to the simple idea of our forefathers, guilt or innocence was regarded as a mere matter of fact; and it was thought that no man, who knew the real circumstances of a case, could be at a loss to determine whether the culprit ought to be condemned or acquitted.”"
+  },
+  {
+    "id": "p-934f18",
+    "offset": 25036,
+    "text": "Also, “The same form of procedure, which took place in the administration of justice among the vassals of a barony, was gradually extended to the courts held in the trading towns.”"
+  },
+  {
+    "id": "p-bafa8f",
+    "offset": 25218,
+    "text": "Also, “The same regulations, concerning the distribution of justice by the intervention of juries, . . were introduced into the baron courts of the king, as into those of the nobility, or such of his subjects as retained their allodial property.”"
+  },
+  {
+    "id": "p-736478",
+    "offset": 25466,
+    "text": "Also, “This tribunal” (the aula regis, or king’s court, afterwards divided into the courts of King’s Bench, Common [76] Pleas, and Exchequer) “was properly the ordinary baron-court of the king; and, being in the same circumstances with the baron courts of the nobility, it was under the same necessity of trying causes by the intervention of a jury.”"
+  },
+  {
+    "id": "p-ad39c2",
+    "offset": 25818,
+    "text": "Speaking of the times of Edward the First, (1272 to 1307,) Millar says:"
+  },
+  {
+    "id": "p-35428a",
+    "offset": 25891,
+    "text": "“What is called the petty jury was therefore introduced into these tribunals, (the King’s Bench, the Common Pleas, and the Exchequer,) as well as into their auxiliary courts employed to distribute justice in the circuits; and was thus rendered essentially necessary in determining causes of every sort, whether civil, criminal, or fiscal.”"
+  },
+  {
+    "id": "p-40eced",
+    "offset": 26232,
+    "text": "Also, “That this form of trial (by jury) obtained universally in all the feudal governments, as well as in that of England, there can be no reason to doubt. In France, in Germany, and in other European countries, where we have any accounts of the constitution and procedure of the feudal courts, it appears that lawsuits of every sort concerning the freemen or vassals of a barony, were determined by the pares curiæ (peers of the court;) and that the judge took little more upon him than to regulate the method of proceeding, or to declare the verdict of the jury.”"
+  },
+  {
+    "id": "p-5c7fbd",
+    "offset": 26800,
+    "text": "Also, “Among the Gothic nations of modern Europe, the custom of deciding lawsuits by a jury seems to have prevailed universally; first in the allodial courts of the county, or of the hundred, and afterwards in the baron-courts of every feudal superior.”"
+  },
+  {
+    "id": "p-aa860f",
+    "offset": 27055,
+    "text": "Palgrave says that in Germany “The Graff (gerefa, sheriff) placed himself in the seat of judgment, and gave the charge to the assembled free Echevins, warning them to pronounce judgment according to right and justice.”"
+  },
+  {
+    "id": "p-9a84c4",
+    "offset": 27275,
+    "text": "Also, that, in Germany, “The Echevins were composed of the villanage, somewhat obscured in their functions by the learning of the grave civilian who was associated to them, and somewhat limited by the encroachments of modern feudality; but they were still substantially the judges of the court.”"
+  },
+  {
+    "id": "p-3a5f7f",
+    "offset": 27572,
+    "text": "Palgrave also says, “Scotland, in like manner, had the laws of Burlaw, or Birlaw, which were made and determined by the neighbors, elected by common consent, in the Burlaw or Birlaw courts, wherein knowledge was taken of complaints between neighbor and neighbor, which men, so chosen, were judges and arbitrators, and called Birlaw men.”"
+  },
+  {
+    "id": "p-f9200c",
+    "offset": 27911,
+    "text": "But, in order to understand the common law trial by jury, as it existed prior to Magna Carta, and as it was guaranteed by that instrument, it is perhaps indispensable to understand more fully the nature of the courts in which juries sat, and the extent of the powers exercised by juries in those courts. I therefore give in a note extended extracts, on these points, from Stuart on the Constitution of England, and from Blackstone’s Commentaries.*"
+  },
+  {
+    "id": "p-af6318",
+    "offset": 28360,
+    "text": "That all these courts were mere courts of conscience, in which the juries were sole judges, administering justice according to their own ideas of it, is not only shown by the extracts [79] already given, but is explicitly acknowledged in the following one, in which the modern “courts of conscience” are compared with the ancient hundred and county courts, and the preference [80] given to the latter, on the ground that the duties of the jurors in the one case, and of the commissioners in the other, are the same, and that the consciences of a jury are a safer and purer [81] tribunal than the consciences of individuals specially appointed, and holding permanent offices."
+  },
+  {
+    "id": "p-9323bd",
+    "offset": 29036,
+    "text": "“But there is one species of courts constituted by act of Parliament, in the city of London, and other trading and populous districts, which, in their proceedings, so vary from the course of the common law, that they deserve a more particular consideration. I mean the court of requests, or courts of conscience, for the recovery of small debts. The first of these was established in London so early as the reign of Henry VIII., by an act of their common council; which, however, was certainly insufficient for that purpose, and illegal, till confirmed by statute 3 Jac. I., ch. 15, which has since been explained and amended by statute 14 Geo. II., ch. 10. The constitution is this: two aldermen and four commoners sit twice a week to hear all causes of debt not exceeding the value of forty shillings; which they examine in a summary way, by the oath of the parties or other witnesses, and make such order therein as is consonant to equity and good conscience. * * * Divers trading towns and other districts have obtained acts of Parliament, [82] for establishing in them courts of conscience upon nearly the same plan as that in the city of London."
+  },
+  {
+    "id": "p-475f94",
+    "offset": 30189,
+    "text": "“The anxious desire that has been shown to obtain these several acts, proves clearly that the nation, in general, is truly sensible of the great inconvenience arising from the disuse of the ancient county and hundred courts, wherein causes of this small value were always formerly decided with very little trouble and expense to the parties. But it is to be feared that the general remedy, which of late hath been principally applied to this inconvenience, (the erecting these new jurisdictions,) may itself be attended in time with very ill consequences; as the method of proceeding therein is entirely in derogation of the common law; and their large discretionary powers create a petty tyranny in a set of standing commissioners; and as the disuse of the trial by jury may tend to estrange the minds of the people from that valuable prerogative of Englishmen, which has already been more than sufficiently excluded in many instances. How much rather is it to be wished that the proceedings in the county and hundred courts could be again [83] revived, without burdening the freeholders with too frequent and tedious attendances; and at the same time removing the delays that have insensibly crept into their proceedings, and the power that either party has of transferring at pleasure their suits to the courts at Westminster! And we may, with satisfaction, observe, that this experiment has been actually tried, and has succeeded in the populous county of Middlesex, which might serve as an example for others. For by statute 23 Geo. II., ch. 33, it is enacted:"
+  },
+  {
+    "id": "p-7c5ff4",
+    "offset": 31756,
+    "text": "1. That a special county court shall be held at least once in a month, in every hundred of the county of Middlesex, by the county clerk."
+  },
+  {
+    "id": "p-ffed6d",
+    "offset": 31894,
+    "text": "2. That twelve freeholders of that hundred, qualified to serve on juries, and struck by the sheriff, shall be summoned to appear at such court by rotation; so as none shall be summoned oftener than once a year."
+  },
+  {
+    "id": "p-983996",
+    "offset": 32106,
+    "text": "3. That in all causes not exceeding the value of forty shillings, the county clerk and twelve suitors (jurors) shall proceed in a summary way, examining the parties and witnesses on oath, without the formal process anciently used; and shall make such order therein as they shall judge agreeable to conscience.”"
+  },
+  {
+    "id": "p-82ddc5",
+    "offset": 32418,
+    "text": "What are these but courts of conscience? And yet Blackstone tells us they are a revival of the ancient hundred and county courts. And what does this fact prove, but that the ancient common law courts, in which juries sat, were mere courts of conscience?"
+  },
+  {
+    "id": "p-6f4416",
+    "offset": 32673,
+    "text": "It is perfectly evident that in all these courts the jurors were the judges, and determined all questions of law for themselves; because the only alternative to that supposition is, that the jurors took their law from sheriffs, bailiffs, and stewards, of which there is not the least evidence in history, nor the least probability in reason. It is evident, also, that they judged independently of the laws of the king, for the reasons before given, viz., that the authority of the king was held in very little esteem; and, secondly, that the laws of the king (not being printed, and the people being unable to read them if they had been printed) must have been in a great measure unknown to them, and could have been received by them only on the authority of the sheriff, bailiff, or steward. If laws were to be received by them on the authority of these officers, [84] the latter would have imposed such laws upon the people as they pleased."
+  },
+  {
+    "id": "p-700ab6",
+    "offset": 33617,
+    "text": "These courts, that have now been described, were continued in full power long after Magna Carta, no alteration being made in them by that instrument, nor in the mode of administering justice in them."
+  },
+  {
+    "id": "p-a44816",
+    "offset": 33818,
+    "text": "There is no evidence whatever, so far as I am aware, that the juries had any less power in the courts held by the king’s justices, than in those held by sheriffs, bailiffs, and stewards; and there is no probability whatever that they had. All the difference between the former courts and the latter undoubtedly was, that, in the former, the juries had the benefit of the advice and assistance of the justices, which would, of course, be considered valuable in difficult cases, on account of the justices being regarded as more learned, not only in the laws of the king, but also in the common law, or “law of the land.”"
+  },
+  {
+    "id": "p-72e1aa",
+    "offset": 34439,
+    "text": "The conclusion, therefore, I think, inevitably must be, that neither the laws of the king, nor the instructions of his justices, had any authority over jurors beyond what the latter saw fit to accord to them. And this view is confirmed by this remark of Hallam, the truth of which all will acknowledge:"
+  },
+  {
+    "id": "p-b9dc99",
+    "offset": 34743,
+    "text": "“The rules of legal decision, among a rude people, are always very simple; not serving much to guide, far less to control the feelings of natural equity.”"
+  },
+  {
+    "id": "p-92b171",
+    "offset": 34899,
+    "text": "It is evident that it was in this way, by the free and concurrent judgments of juries, approving and enforcing certain laws and rules of conduct, corresponding to their notions of right and justice, that the laws and customs, which, for the most part, made up the common law, and were called, at that day, “the good laws, and good customs,” and “the law of the land,” were established. How otherwise could they ever have become established, as Blackstone says they were, “by long and immemorial usage, and by their universal reception throughout the kingdom,”* when, as the Mirror says, “justice was so done, that every one so judged his neighbor, by such judgment as a man could not elsewhere receive in the like cases, until such [85] times as the customs of the realm were put in writing and certainly published?”"
+  },
+  {
+    "id": "p-6b0076",
+    "offset": 35717,
+    "text": "The fact that, in that dark age, so many of the principles of natural equity, as those then embraced in the Common Law, should have been so uniformly recognized and enforced by juries, as to have become established by general consent as “the law of the land;” and the further fact that this “law of the land” was held so sacred that even the king could not lawfully infringe or alter it, but was required to swear to maintain it, are beautiful and impressive illustrations of the truth that men’s minds, even in the comparative infancy of other knowledge, have clear and coincident ideas of the elementary principles, and the paramount obligation, of justice. The same facts also prove that the common mind, and the general, or, perhaps, rather, the universal conscience, as developed in the untrammelled judgments of juries, may be safely relied upon for the preservation of individual rights in civil society; and that there is no necessity or excuse for that deluge of arbitrary legislation, with which the present age is overwhelmed, under the pretext that unless laws be made, the law will not be known; a pretext, by the way, almost universally used for overturning, instead of establishing, the principles of justice."
   }
 ]

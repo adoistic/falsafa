@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 44,
+  "chapter_title": "Sect. VIII.: That a Nation may grow poor by Forreign Trade, viz. by an excess of meer Importations, illustrated by some ",
+  "chapter_slug": "44-sect-viii-that-a-nation-may-grow-poor-by-forreign-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ee0597c-b337-5957-aa07-e7ccc593da69",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3283,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

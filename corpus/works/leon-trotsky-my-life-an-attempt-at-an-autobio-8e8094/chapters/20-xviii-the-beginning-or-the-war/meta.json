@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 20,
+  "chapter_title": "XVIII. The Beginning or The War",
+  "chapter_slug": "20-xviii-the-beginning-or-the-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ce85446f-9ace-5ed1-a49f-ffda777af06d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3562,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch18.htm"
+    }
+  ]
+}

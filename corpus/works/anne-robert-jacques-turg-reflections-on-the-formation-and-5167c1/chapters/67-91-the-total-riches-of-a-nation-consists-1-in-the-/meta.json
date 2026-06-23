@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 67,
+  "chapter_title": "91. The total Riches of a nation consists, 1. in the clear revenue of all the real estates, multiplied by the rate of th",
+  "chapter_slug": "67-91-the-total-riches-of-a-nation-consists-1-in-the-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2518116a-1764-5cfb-aa36-e5eff0e69861",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 292,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

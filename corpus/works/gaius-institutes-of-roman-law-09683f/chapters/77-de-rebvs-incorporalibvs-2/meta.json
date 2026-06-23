@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 77,
+  "chapter_title": "De Rebvs Incorporalibvs. (2)",
+  "chapter_slug": "77-de-rebvs-incorporalibvs-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "71b52329-dbe9-5bbb-891d-df023f3018db",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4205,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

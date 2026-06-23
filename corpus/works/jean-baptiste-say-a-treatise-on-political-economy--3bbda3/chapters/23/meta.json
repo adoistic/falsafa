@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 23,
-  "chapter_title": "SECTION II.: Of the Effect of Regulations fixing the Manner of Production.",
+  "chapter_title": "Section IV.: Of regulations affecting the Corn Trade.",
   "chapter_slug": "23",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3667,
-      "paragraph_count": 29,
+      "word_count": 3886,
+      "paragraph_count": 28,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-the-re-conquest-of-ireland-059d10",
+  "work_title": "The Re-Conquest of Ireland",
+  "chapter_number": 12,
+  "chapter_title": "II. Report of Dublin Housing Commission (1914)",
+  "chapter_slug": "12-ii-report-of-dublin-housing-commission-1914",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "de1ad838-cbba-556b-87fe-8e6fd213864d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 971,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1915/rcoi/app02.htm"
+    }
+  ]
+}

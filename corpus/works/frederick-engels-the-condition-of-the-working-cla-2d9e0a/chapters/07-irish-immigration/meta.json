@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-engels-the-condition-of-the-working-cla-2d9e0a",
+  "work_title": "The Condition of the Working Class in England",
+  "chapter_number": 7,
+  "chapter_title": "Irish Immigration",
+  "chapter_slug": "07-irish-immigration",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23363722-e7d8-5ca5-ae45-418eb9681a15",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1582,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch06.htm"
+    }
+  ]
+}

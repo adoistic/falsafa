@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 9,
+  "chapter_title": "II. Social Conditions in Bohemia before the Hussite Wars",
+  "chapter_slug": "09-ii-social-conditions-in-bohemia-before-the-hussite",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "40796bed-211e-562f-93d8-acbd9621b9d6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3243,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch02.htm"
+    }
+  ]
+}

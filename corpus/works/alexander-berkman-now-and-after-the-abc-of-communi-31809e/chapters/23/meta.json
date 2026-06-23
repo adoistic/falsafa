@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-now-and-after-the-abc-of-communi-31809e",
+  "work_title": "Now and After: The ABC of Communist Anarchism (What is Communist Anarchism?)",
+  "chapter_number": 23,
+  "chapter_title": "Chapter 21 : Is Anarchy Possible?",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74ce3252-1b56-53b2-8174-fd60b80c1361",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2854,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1929/what-is-communist-anarchism/chapter-21.html"
+    }
+  ]
+}

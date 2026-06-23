@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-milton-areopagitica-0f564e",
+  "work_title": "Areopagitica",
+  "chapter_number": 1,
+  "chapter_title": "Life of Milton",
+  "chapter_slug": "01-life-of-milton",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "32e26219-ebd9-522c-99eb-61dee344ed6f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3804,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jebb-areopagitica-1644-jebb-ed"
+    }
+  ]
+}

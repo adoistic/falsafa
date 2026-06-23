@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 33,
+  "chapter_title": "Chapter XVIII: Future Condition Of Three Races In The United States – Part I",
+  "chapter_slug": "33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df96017b-612c-5f71-bff1-7db2432dd618",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3740,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch18.htm"
+    }
+  ]
+}

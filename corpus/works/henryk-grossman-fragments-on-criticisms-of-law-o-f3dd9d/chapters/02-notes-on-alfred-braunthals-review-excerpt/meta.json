@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-fragments-on-criticisms-of-law-o-f3dd9d",
+  "work_title": "Fragments on criticisms of 'Law of Accumulation'",
+  "chapter_number": 2,
+  "chapter_title": "Notes on Alfred Braunthal's review (Excerpt)",
+  "chapter_slug": "02-notes-on-alfred-braunthals-review-excerpt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7a37159f-23d3-5a0b-ac3f-eab35c845489",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 632,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/braunthal.htm"
+    }
+  ]
+}

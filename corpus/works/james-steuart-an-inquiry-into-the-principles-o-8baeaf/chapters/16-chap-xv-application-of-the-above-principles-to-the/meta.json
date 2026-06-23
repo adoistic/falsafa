@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 16,
+  "chapter_title": "Chap. XV Application of the above Principles to the State of Population in Great Britain",
+  "chapter_slug": "16-chap-xv-application-of-the-above-principles-to-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fcf82e88-92df-5980-98ca-d2635995319e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2047,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book1_13.htm"
+    }
+  ]
+}

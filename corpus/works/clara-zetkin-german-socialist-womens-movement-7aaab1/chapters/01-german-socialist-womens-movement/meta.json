@@ -1,0 +1,26 @@
+{
+  "work_slug": "clara-zetkin-german-socialist-womens-movement-7aaab1",
+  "work_title": "German Socialist Women's Movement",
+  "chapter_number": 1,
+  "chapter_title": "German Socialist Women's Movement",
+  "chapter_slug": "01-german-socialist-womens-movement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3bdc78ff-0838-5afa-9ddc-efef69ba0794",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1230,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/zetkin/1909/10/09.htm"
+    }
+  ]
+}

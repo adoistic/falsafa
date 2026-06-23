@@ -1,0 +1,61 @@
+---
+work_id: "1431d35e-650a-53c3-a614-95acb48f2fe8"
+work_slug: "william-morris-and-e-bel-socialism-its-growth-and-outcome-1431d3"
+work_title: "Socialism: Its Growth and Outcome"
+author_name: William Morris and E. Belfort Bax
+chapter_number: 20
+chapter_title: Chapter 18
+chapter_slug: 20
+variant_id: "ea8a0404-1a2d-5e87-b47f-ee393fb36dcf"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1944
+source_url: "https://www.marxists.org/archive/morris/works/1893/sgo/ch18.htm"
+translator: Marxists Internet Archive edition
+---
+
+| | Socialism: Index | Works | William Morris Archive
+
+OF the Socialist thinkers who serve as 218 a kind of link between the Utopists and the school of the Socialism of historical evolution, or scientific Socialists, by far the most noteworthy figure is Proudhon, who was born at Besançon in 1809. By birth he belonged to the working class, his father being a brewer's cooper, and he himself as a youth followed the occupation of cowherding.
+
+In 1838, however, he published an essay on general grammar, and in 1839 he gained a scholarship to be held for three years, a gift of one Madame Suard to his native town. The result of this 219 advantage was his most important though far from his most voluminous work, published the same year as the essay which. Madame Suard’s scholars were bound to write: it bore the title of What is Property? (Quest-ce que la propriété?) his answer being, Property is Robbery (La propriété est le vol).
+
+As may be imagined, this remarkable essay caused much stir and indignation, and Proudhon was censured by the Besançon Academy for its production, narrowly escaping a prosecution. In 1841 he was tried at Besançon for a letter he wrote to Victor Considérant, the Fourierist, but was acquitted. In 1846 he wrote his Philosophie de la Misère (Philosophy of Poverty), which received an elaborate reply and refutation from Karl Marx.
+
+In 1847 he went to Paris. In the Revolution of 1848 he showed himself a vigorous controversialist, and was elected Deputy for the Seine. He wrote numerous articles in several journals, mostly criticisms of the progress of the revolution. In the Chamber he proposed a tax of one-third to be levied on all 220 interest and rent, which was, as a matter of course, rejected. He also put forward a scheme for a mutual credit bank, by which he hoped to simplify exchange and reduce interest to a vanishing point; but this scheme was also rejected.
+
+After the failure of the revolution of '48, Proudhon was imprisoned for three years, during which time he married a young woman of the working class.
+
+In 1858 he fully developed his system of “Mutualism” in his last work, entitled Justice in the Revolution and the Church. In consequence of the publication of this book he had to retire to Brussels, but was amnestied in 1860, came back to France, and died at Passy in 1865.
+
+Proudhon’s opinions and works may be broadly divided into two periods: In his What is Property? his position is that of a communist pure and simple; but after this one clear development of a definite thesis, we meet in his writings, and we must add, in his political actions also, with so much paradox that it is next to impossible to formulate in brief any definite Proudhonian doctrine. At 221 one time a communist, at another the vehement opponent of Communism; at one time professing anarchy, at another lending himself to schemes of the crudest State socialism; at one time an enthusiastic theist, at another apparently as strong an atheist; in one passage of his works giving his eager adhesion ta Auguste Comte’s worship of women, in another a decided contemner of the female sex,—it is with a sense of confusion that one rises from the perusal of his productions.
+
+His connection with the revolution of '48 seems to have been the turning-point in his history; in his address to the electors of the Seine, in which he put forward the scheme for a credit bank backed by a number of decrees of a State-socialistic nature, and strongly smacking of Bismarck, he announces himself as the man who said Property is Robbery, says that he still maintains that opinion, and then goes on to defend the rights of property which he had so successfully annihilated in his first work.
+
+But as to his political career, the 222 element he had to work in was an impossible one for the success of a man holding definite socialistic ideas. On the one hand were the Jacobins with their archaeological restorations of the ideas and politics of 1793; on the other Socialism showing itself, taking hold of people’s minds, but attempting to realise its doctrines by crude, dislocated, and consequently hopeless schemes of action. Into all these affairs Proudhon looked shrewdly and with insight, and his bitter criticisms of the confusion of the period were shown by the event to have been well founded.
+
+Proudhon defended the modern family and monogamy in its strictest sense, and does not seem to have troubled himself to study the history of those institutions even superficially: in short, he seems to have been singularly lacking in the historical sense, and had not formed any conception of the evolution of society. Those who read his works will find themselves forced to return to his first essay, What is Property? if they are seeking in him for any consistent series of ideas. He was an eager and rough 223 controversialist, and his style is brilliant and attractive in spite of its discursiveness. Throughout his life he was thoroughly single-hearted and disinterested. In spite of his inconsistencies much of his teaching has lived, especially the side of it that thought that economic society must be based on the mutual exchange of services, and the equality of the reward of labour. Proudhon had a great influence on the French proletariat in the latter years of his life and in those immediately following his death. This influence is now completely gone. In spite of his recurrence to the crudest ideas of authoritative repression, he is the protagonist of the individualist anarchist school represented to-day by Mr. Benjamin Tucker and by his paper Liberty, published at Boston, U.S.A.
+
+We may now mention the names of two men of no great importance in themselves, but worth noting as forerunners of the Sentimental Socialists and Christian Socialists of the present day. Hugues Felicité Robert de Lamennais (born 1782, died 1854) is the type of 224 the Christian Socialist: he was intended for a priest from the first, and duly took orders. He began by efforts to reform the Catholic Church, so as to make it an effective instrument for happiness and social morality and reform. He expected to be helped and encouraged by the clergy in these efforts, and at first, before they perceived their real tendency, he received some support from them. At last, in his paper L’ Avenir (the future), he took so decidedly a democratic turn that he incurred the animosity of the whole Church, especially of the then Pope Gregory XVI. The signal for his complete rupture with the Church, however was the publication (in 1834) of his Paroles d'un Croyant (“Words of a Believer ”), which the Pope characterised as “small in size but immense in perversity.” After that he became thoroughly democratic or even Communistic, as Communism was then understood. A series of political works and pamphlets followed, all in the sense of his new departure. He started, in 1848, two papers, one after another, 225 which were suppressed. He sat in the Republican Constituent Chamber until the coup d'état; and, while Deputy, drew up for the Left a plan of Constitution which was rejected as too revolutionary. He was buried by his own direction without ecclesiastical rites.
+
+Pierre le Roux (born 1798, died 1871) was originally a disciple of Saint Simon. In 1840 he published his most important work, De L’ Humanité, whence the name of his school, the Humanitarians. He joined George Sand and Niardof in a literary review, and it was owing to this connection that the humanitarian tendencies of some of her novels are to be traced. In 1843 he set on foot a co-operative printing association, and started a journal advocating co-operation, Or as he termed it, “the pacific solution of the problem of the proletariat.” He also sat in the Republican Chamber of 1848: he was exiled in 1851 and lived in Jersey, not returning to France till 1869. He died in Paris under the Commune, and two of its members were deputed to attend his funeral, in the words of the Journal Officiel, 226 “not in honour of the partisan of the mystical ideas of which we now feel the evil, but of the politician who courageously undertook the defence of the vanquished after the days of June.” This is an allusion to the unpractical and non-political tendency of his teaching, which undertook to reform society by the inculcation of morality blended with mysticism, the result of which was to be the gradual spread of voluntary industrial co-operation.
+
+We finish this series with the wellknown name of Louis Blanc, a personage more important than the last-named; and more definitely Socialistic in principles than either he or Lamennais, though his political career finished in a way unworthy of those principles. It should be remembered, however, that he never grasped the great truth that only through the class struggle can the regeneration of society be accomplished. He was born in 1813, of a middle-class family which, on the maternal side, was Corsican, and an incident of the relations between him and his brother Charles is said to have suggested to Dumas 227 his famous novelette and play of the Corsican Brothers.
+
+In 1838 he quarrelled with the proprietors of the journal of which he was editor, Le Bonsens, on the subject of the railways then being projected, he maintaining that these ought to be owned and managed by the State, and retired from the editorship in consequence.
+
+In 1840 he published his Organisation of Labour, the ideas of which he attempted to realise in the famous “National Workshops,” by which he is best known. In this work he put forward the genuine Socialistic maxim of “From each according to his capacity; to each according to his needs” as the basis of the production of a true society.
+
+He took an active part in the Revolutionary Government of 1848, and got an edict passed abolishing the punishment of death for political offences.
+
+In 1848 he got the National Workshops founded. These failed; but their failure was not necessarily due to anything wrong in Louis Blanc’s conception, 228 imperfect as it was: but to the fact that Bethmont, the Minister of Trade and Agriculture, had intentionally organised them for failure, inasmuch as it was not articles of real and prime necessity, or even those for which there was a genuine demand which were allowed to be produced in them, but merely articles outside the true commercial market; the object being, as in our prisons, not to interfere with the “legitimate” trade and industry of the country. Under such circumstances they naturally caused a heavy drain on the resources of the Republic. Loud demands were made by the middle classes for their suppression, to which the Government at last listened, and their imminent abolition was one of. the causes which led to the insurrection of June 1848.
+
+In consequence of the events of June, Louis Blanc was compelled to flee from France to England, where he wrote his History of the French Revolution. He returned to France in 1869, was elected to the legislative body, but played only a subordinate part in the 229 stirring times that followed. It remains, indeed, an indelible stain on his character that he deserted the cause of the people in the days of March, 1871, leaving Paris to sit amongst the “Liberals” in the reactionary Chamber at Versailles.
+
+He died in 1882, having outlived his reputation and his influence.
+
+| | Socialism: Index | Works | William Morris Archive

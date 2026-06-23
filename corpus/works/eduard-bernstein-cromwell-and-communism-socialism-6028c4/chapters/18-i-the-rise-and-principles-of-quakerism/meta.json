@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-cromwell-and-communism-socialism-6028c4",
+  "work_title": "Cromwell and Communism: Socialism and Democracy in the Great English Revolution",
+  "chapter_number": 18,
+  "chapter_title": "I. The Rise and Principles of Quakerism",
+  "chapter_slug": "18-i-the-rise-and-principles-of-quakerism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ea1a16fd-d836-5e20-9f93-adeb43178230",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2869,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1895/cromwell/16-quakers.htm"
+    }
+  ]
+}

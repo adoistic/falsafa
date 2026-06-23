@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 14,
+  "chapter_title": "(b) Quantum (How Much)",
+  "chapter_slug": "14-b-quantum-how-much",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3fa4a32b-fdb1-58f3-904b-e791cea3eda5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 734,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slquant.htm"
+    }
+  ]
+}

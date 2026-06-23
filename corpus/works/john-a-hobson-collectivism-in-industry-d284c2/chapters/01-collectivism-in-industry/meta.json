@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-collectivism-in-industry-d284c2",
+  "work_title": "Collectivism in Industry",
+  "chapter_number": 1,
+  "chapter_title": "Collectivism in Industry",
+  "chapter_slug": "01-collectivism-in-industry",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "096d72ba-5431-5115-95d3-f7eb5c6f6f01",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6427,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1896/10/collectivism.html"
+    }
+  ]
+}

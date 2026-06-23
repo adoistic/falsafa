@@ -1,0 +1,163 @@
+---
+work_id: "2d084eee-d430-5d63-bc92-d1ca2dbf9aac"
+work_slug: "vladimir-lenin-philosophical-notebooks-collecte-2d084e"
+work_title: Philosophical Notebooks (Collected Works, Volume 38)
+author_name: Vladimir Lenin
+chapter_number: 44
+chapter_title: N. G. Chernyshevsky’s Philosophical, Historical and Literary Views
+chapter_slug: "44-n-g-chernyshevsky-s-philosophical-historical-and-l"
+variant_id: "268081e2-f5c0-53a8-918f-823ab3980f0c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 4437
+source_url: "https://www.marxists.org/archive/lenin/works/1908/remarks/ch05.htm"
+translator: Clemence Dutt
+---
+
+... In the first edition of this work, the first article of which, dealing, inter aim, with Cherny- sky’s philosophical views, was written in late
+
+18|9|9, we expressed the conviction that in his
+
+philosophical views our author was a follower of Feuerbach. Naturally, this conviction of ours was based above all on a comparison of those ideas of Chernyshevsky which had a more or less direct bearing on philosophy, with Feuerbach’s views....
+
+... Yurkevich ascribes to Chernyshevsky the idea that there is no difference at all between material and psychical phenomena, and inquires triumphantly how it is that sensa- tions arise from the movement of a nerve. This is the old nonsense that has long been flung at material- ists and from which it merely follows that the people who want to “criticise” materialism do not even know the ABC of materialism. Nowhere in his article does Chernyshevsky say that there is no difference at all between so-called physical phenomena, on the one hand, and psychical pheno- mena, on the other. On the contrary, he categori- cally admits the existence of this difference; but he believes that it in no way justifies attributing psychical phenomena to a particular non-material factor. We are already acquainted with his re- mark to the effect that there are very many differ- ent qualities in every object. Now we shall discuss it in more detail. “For example,” Chernyshevsky says, “a tree grows and burns; we say it has two qualities: the power of growth and combustibility. What similarity is there between these two quali- ties? They are totally different; there is no concept under which one could put both these qualities, except the general conception—quality; there is no concept under which we could put both series of phenomena corresponding to these qualities, except the concept—phenomenon. Or, for example, ice is hard and sparkles; what is there common to hardness and sparkle? The logical distance from one of these qualities to the other is immeasurably great or, it would be better to say, there is no logical distance between them, whether near or far, because there is no logical relation between them. From this we see that the combination of quite heterogeneous qualities in one object is the
+
+general law of things.” The same also with the quality we call the capacity for sensation and thought. Its distance from the so-called physical qualities of the living organism is immeasurably great. But this does not prevent it being a quality
+
+of the same organism which, at the same time, possesses extension and capacity for movement....
+
+... Even J. Priestley remarked in his Disquisitions that the idea that brain vibrations are identical with perception would be a very great abuse of materialist doctrine. “It is easy to form an idea of there being vibrations without any perceptions accompanying them. But it is
+
+supposed that the brain, besides its vibrating power, has superadded to it a percipient or sentient power, likewise; there being no reason that we know why this power may not be imparted to it.” This is precisely the point of view held by all the prominent materialists of modern times, including, of course, Feuerbach and Chernyshevsky. The opponents of material- ism—the consistent or inconsistent, conscious or unconscious idealists—ought, in their criticism of this doctrine, to convince us above all that they know more about it than Priestley does, and show us what grounds specifically prevent them from recognising, together with Priestley, that the brain, besides having the ability to vibrate, may also be capable of perceiving. They undoubt- edly have such grounds. But these amount to the spiritualistic prejudice that by itself, i.e., unless animated by spirit, matter is dead and incapable not only of perception, but even of motion. To re- fer, in arguing with the materialists, to such grounds means to commit an obvious petitio principii, i.e., to argue from the very same proposi- tion which has to be proved. The opponents of materialism themselves more or less vaguely sense this. Therefore, they are usually very careful not to show the grounds which hinder them from recognis- ing the capacity for perceiving one of the prop- erties of matter, and prefer to refute what no single prominent materialist has ever stated, at least in modern times, i.e., that perception is the same as motion. We leave it to the reader to judge of this sort of criticism, a criticism which is more widespread in our country than anywhere else, and is more so now than ever before....
+
+... “It stands to reason,” Chernyshevsky admits, “that when we speak of the difference in the state of the body during a chemical process and at a time when it is not in that process, we mean only the quantitative distinction between a vigorous, rapid course of that process and a very feeble slow course of it. Properly speaking, every body is constantly going through a chemical pro- cess. For example, a log, even if it is not set on fire or burnt in a stove but lies quietly, seemingly undergoing no changes, in the wall of a house, will nevertheless come in time to the same end to which burning brings it: it will gradually decay, and nothing will be left of it, too, but ashes (the dust of decayed wood, of which in the end nothing remains but the mineral particles of ash). But if this process—e.g., in the case of the ordinary decay of a log in a house wall—takes place very slowly and feebly, then qualities which are proper to a body going through the process manifest them- selves with a microscopic feebleness that is com- pletely imperceptible under ordinary conditions. For example, the slow decay of a piece of wood in a house wall also generates heat; but that quan- tity of it which in burning would have been con- centrated into a few hours, in this case becomes diluted, so to speak, into several decades, so that it does not achieve any result that is easily per- ceptible in practice; the existence of this heat is negligible for practical purposes. It is the same as the taste of wine in a whole pond of water into which one has let fall a drop of wine: from the scientific point of view, the pond contains a mixture of water and wine, but to all practical purposes it can be assumed that there is no wine at all in it.”
+
+This brilliant passage allows one to sur- mise that for Chernyshevsky in this respect too there was no cleavage between organised matter on the one hand and unorganised matter, on the other. To be sure, the organism of the animal (and even more so of the animal at the top of the zoologi- cal tree, that is, man) displays in the respect that is of interest to us such properties as are altogether alien to unorganised matter. But, after all, the burning of a piece of wood, too, is accompanied by a number of phenomena that are not to be observed during the process of its slow decay. However, there is no essential difference between these two processes. On the contrary, this is one and the same process, with this difference only that in the one case it is very rapid and in the other, extremely slow. Therefore, in the one case the properties which belong to a body undergoing this process manifest themselves with great force, while in the other case they do so “with microscopic feebleness that is completely imperceptible under ordinary conditions.” In regard to the question of
+
+psychical phenomena this means that in an unor- ganised form also, matter is not devoid of the basic capacity for “sensation,” which provides such rich “spiritual” fruits among the higher animals. But in unorganised matter this capacity
+
+exists to an extremely small extent. Therefore it is totally imperceptible to the investigator and, without risk of committing any appreciable error, we can equate it to nil. Nevertheless, it must not be forgotten that this capacity in general is inher- ent in matter and that in consequence there are no grounds for regarding it as something miraculous where it manifests itself particularly strongly, as can be seen, for example, among the higher animals in general, and pre-eminently in man. In express- ing this idea—with the caution necessary under the conditions of our press at that time—Chernyshevsky came close to such materialists as Lamettrie and Diderot, who, in turn, adopted the view of Spinoz- ism, freed of the unnecessary theological append- ages....
+
+... Yurkevich also asserted that quantita- tive differences are transformed into qualitative differences not in the object itself but in its re- lation to the sentient subject. But this is a very
+
+gross logical mistake. In order to become changed in its relation to the sentient subject, the object must undergo a preliminary change ||in itself.||
+
+If for us ice does not have the same properties as steam, it is because the mutual relations of the water particles in the former case are entirely different from those in the latter. But enough of this....
+
+We know how contemptuous Chernyshevsky was of Yurkevich’s arguments. He did not analyse these arguments—and had no possibility of doing so under the conditions of the censorship—but sim- ply declared them to be obsolete and not in the least convincing.
+
+“I am a seminarian myself,” he wrote in his Polemical Gems. “I know from my own experience the position of people who get their education as Yurkevich did. I have seen people in the same position as he is. I therefore find it hard to laugh at him; it would mean laughing at the impossibility of having decent books available, laughing at the complete helplessness in the matter of developing oneself, at a situation that is unimaginably re- stricted in all possible respects.
+
+“I don’t know Mr. Yurkevich’s age; if he is no longer a young man, it is too late to worry about him. But if he is still young, I gladly offer him the small collection of books in my possession.”
+
+Mr. Volynsky still finds this reply highly unsatisfactory. He thinks that Chernyshevsky replied in this way solely because of his inability to decisively refute Yurkevich. Evidently some journalists at the beginning of the sixties also reasoned in this manner. For example, Dudyshkin, enumerating Yurkevich’s allegedly irrefutable arguments point by point, wrote the following in Otechestvenniye Zapiski, addressing himself to Chernyshevsky:
+
+“The matter would appear to be clear; it now concerns not someone else, but you; not philosophy or physiology in general, but your ignorance of these sciences. Why drag in the red herring of seminary philosophy? Why confuse totally differ- ent things and say that you knew all that when you were in the seminary and even now remember it all by heart?”
+
+To this Chernyshevsky replied that Dudyshkin’s lack of acquaintance with seminary notebooks prevented him from understanding what was at issue. “If you took the trouble to look through these notebooks,” he continues, “you would see that all the shortcomings which Mr. Yurkevich discovers in me, these notebooks discover in Aristotle, Bacon, Gassendi, Locke, etc., etc.,
+
+in all the philosophers who were not idealists. Consequently, these reproaches by no means apply to me as an individual writer; they apply properly
+
+to the theory which I consider it useful to popular- ise. If you are incredulous, take a look at the Philosophical Dictionary, published by Mr. S.G., which takes the same line as Mr. Yurkevich, and you will see that the same thing is said there of every non-idealist: he does not know psychology, he is not acquainted with the natural sciences, he rejects inner experience, he is overwhelmed by facts, he confuses metaphysics with the natural sciences, he degrades man, etc., etc....”
+
+... In general, very noticeable in Cherny- shevsky’s view of rational egoism is the endeavour, characteristic of all “periods of enlightenment” (Aufklärungsperioden), to seek support for morality in reason, and in the more or less well-founded calculations of the individual an explanation of his character and behaviour. Sometimes Cherny- shevsky’s arguments in this connection are as similar as two peas in a pod to the arguments of Helvétius and those who shared his ideas. They recall almost as strongly the arguments of Socrates, the typical representative of the epoch of enlight- enment in ancient Greece, who, in coming forward as a champion of friendship, showed that it is advantageous to have friends because
+
+they may be of some use in times of mis- fortune. The explanation for such |extremes of rationality| is that the enlighteners were usually incapable of adopting the viewpoint of development.
+
+We know that, according to Chernyshevsky’s theory, man is by nature neither good nor evil but becomes good or evil depending on circum- stances. Were we to recognise that man is always prompted by calculation in his behaviour, then we should have to formulate Chernyshevsky’s view on human nature differently; we should have to say that man is by nature neither good nor evil but only calculating, this property of his becoming more or less marked depending on cir- cumstances. But such a formulation would hardly be to our author’s liking.
+
+What is good, and what is evil, according to his theory? This question is answered by the same article, “The Anthropological Principle in Philos- ophy”—a very informative one, as the reader can see. “Individuals,” says Chernyshevsky in it, “regard as good the actions of other people that are beneficial to them; society holds as good, what is good for the whole of society, or for the majority of its members. Lastly people in general, irrespec- tive of a nation or a class, describe as good that which is beneficial for mankind in general.” It often happens that the interests of different nations or estates run counter to one another or to human interests generally; it is also a frequent occurrence that the interests of one estate are opposed to those of the whole nation. How is one to decide in this case what is good and what is bad?
+
+... Chernyshevsky applied Feuerbach’s views to aesthetics and in this, as we shall see below, he achieved results that in a certain sense are most remarkable. But here, too, his conclusions were not quite satisfactory because tbe perfectly correct idea of the aesthetic development of man- kind implies the preliminary elaboration of a general conception of history. As regards this general con-
+
+ception of history, Chernyshevsky succeeded in making only a few, if very correct, steps towards its elaboration. One may cite as examples of such steps the large quotations from his writings that we have just made ....
+
+Here is what we read in his article dealing with V. P. Botkin’s well-known-book Letters of Spain (Sovremennik, 1857, Book 2):
+
+“The division of a people into hostile castes is one of the greatest obstacles to the improvement of its future; in Spain, there is no such disastrous division, no irreconcilable enmity between social- estates every one of which would be prepared to sacrifice the most precious historical achievements
+
+if only it could do harm to another estate; in Spain the entire nation feels itself a single whole. This peculiarity is so extraordinary among the peoples of Western Europe that it deserves the greatest
+
+attention and may in itself be considered an
+
+earnest of the country’s happy future.”
+
+This is not a slip of the pen, because, several pages further below in the same article, Cherny- shevsky says: “The Spanish people have an indis- putable advantage over most civilised nations in
+
+one, exceedingly important respect: the Spanish estates are not divided either by deep-rooted hatred or by substantial conflicting interests; they do not constitute castes inimical to one another, as is the case in many other West-European coun- tries; on the contrary, in Spain, all the estates may strive jointly for a common goal....”
+
+... Utopian socialists took an idealist view of the entire future of contemporary society. They were convinced that the fate of that society would be decided by the “views” held by its members, i.e., the standpoint which they took, with regard to social reorganisation plan put forward by a particular reformer. They did not ask themselves why it was that the dominant views in that particular society were such and not others. That is why they were not eager for a further elaboration of those elements of a materialist interpretation of history which their doctrines undoubtedly were replete with. In fact, they were prone to look on mankind’s past history as well from an idealist standpoint. For this reason, in their statements about that history we very often encounter the most undoubted and, it would seem, most obvious contradictions: facts which have apparently been interpreted in an
+
+entirely materialist sense are suddenly given an entirely idealist explanation; and, on the other hand, idealist interpretations are every now and again upset by perfectly materialist eruptions. This lack of stability, this recurrent shift from materialism to idealism and from idealism to materialism, a shift perceptible to the modern reader but imperceptible to the author, makes itself felt also in the historical statements of Chernyshevsky, who in this respect is very reminis- cent of the great utopians of the West. In the final analysis he inclines like them, we repeat, to idealism.
+
+This can be clearly seen from his interesting article “On the Causes of the Fall of Rome (an Imitation of Montesquieu),” published in Sovre- mennik for 1861 (Book 5). In it he vigorously
+
+opposes the very widespread opinion that the Roman Empire in the West fell because of its inherent inability to develop further, whereas the barbarians who put an end to its existence brought new seeds of progress with them....
+
+No mention is made here either of the internal social relations in Rome, which accounted for its weakness and which were pointed out even by Guizot in his first article “Essais sur l’histoire de France”, or of the forms of communal life to which the German barbarians owed their strength at the time of the fall of the Roman Empire in the West. Chernyshevsky forgot even the famous words of Pliny, which he himself quotes elsewhere: lati- fundia perdidere Italiam (“latifundia were the undoing of Italy”). In his “formula of progress”, as the phrase went in our country afterwards,
+
+there is no room for the internal relations in the country concerned. Everything is reduced to intellectual development. Chernyshevsky states
+
+emphatically that progress is based on intellectual development and that “its fundamental aspect consists precisely in the successes and develop- ment of knowledge.” It does not occur to him that “the successes and development of knowledge” may depend on social relations, which in some cases are conducive to those successes and that development and in others hinder them. He de- picts social relations as a mere corollary of the spread of certain views. We have just read this: “historical knowledge is broadened; this reduces the number of false notions that prevent people from organising their social life, which is, there- fore, organised more successfully than before.” This is very unlike what our author said in his article on Roscher’s book. From what he said there it followed, moreover, that it is impossible,
+
+and indeed ridiculous, to judge scholars as if they were schoolboys, saying that a particular scholar was unfamiliar with a particular science and therefore came to hold erroneous views. It also
+
+followed from what he said there that what matters is not the amount of knowledge acquired by a partic- ular scholar, but the interests of the group which he represents. In short, it followed from what he said there that social views are determined by social interests; and social thought, by social life. Now, it is the other way round. Now, it appears that social life is determined by social thought and that if a social system has certain shortcomings,
+
+it is because society, like a schoolboy, has studied poorly or little and therefore has conceived er- roneous notions. It would be hard to think of a more striking contradiction....
+
+... Herzen formed his view of Russia’s attitude to the “old world” under the strong in-
+
+fluence of Slavophils and this view was wrong. But one can arrive at an erroneuos view even when one employs a more or less correct method, just as a correct view may result from the employ- ment of a more or less erroneous method. It is therefore fair to ask oneself how the method by
+
+which Herzen formed his erroneous view was related to the method which led Chernyshevsky to a com- pletely justified repudiation and ridicule of that view....
+
+...We may be reminded that, as we have remarked, the reviews by Chernyshevsky which we have examined appeared after the historical
+
+views of Marx and Engels shaped themselves into a harmonious whole. We are not forgetful of this. But we believe that this matter cannot be settled by mere reference to chronology. The main writings of Lassalle, too, did not appear until after the historical views of Marx and Engels assumed a harmonious form, and yet, in ideological content,
+
+those writings, too, belong to the period of transi-
+
+tion from historical idealism to historical material- ism. The point is not when a particular work ap- peared but rather what was its content.
+
+If in previous historical periods the advance of knowledge depended on the character of economic relations, in passing to our own period Cherny- shevsky should have asked himself: what are the economic peculiarities of it that led to the discovery of social truth and ensured the future realisation of the latter. But in order to ask himself that question, he should have broken resolutely with idealism and firmly adopted a materialist interpre-
+
+tation of history. We shall not reiterate that Chernyshevsky was still far from a break with idealism and that his conception of the further trend of social development was completely ideal- ist. We merely ask the reader to note that Cherny-
+
+shevsky’s historical idealism compelled him in his considerations of the future to give first place to “advanced” people—to the intellectuals, as we now call them—who should disseminate
+
+the ultimately discovered social truth among the masses. The masses are allotted the role of back- ward soldiers in the advancing army. Of course, no sensible materialist will assert that the average “man in the street”, just because he is an ordinary person, i.e., “one of the masses”, knows no less
+
+than tho average “intellectual”. Of course he knows less. But it is not a matter of the knowledge of the “man in the street,” but of his actions.
+
+The actions of people are not always determined by their knowledge and are never determined only by their knowledge, but also—and chiefly—by their position, which is merely made clear and comprehensible by the knowledge they possess.
+
+Here again one has to remember the fundamental proposition of materialism in general, and of the materialist explanation of history in particular: it is not being that is determined by consciousness, but consciousness by being. The “consciousness” of a man from the “intelligentsia” is more highly developed than the consciousness of a man from the
+
+“masses.” But the “being” of a man from the masses prescribes to him a far more definite method of action than that which the social position of the intellectual prescribes to the latter. That is why
+
+the materialist view of history allows one only in a certain and, moreover, very limited sense to speak of the backwardness of the man from the “masses,” compared with the man from the intel- ligentsia; in a certain sense, the “man in the street” undoubtedly lags behind the “intellectual”, but in another sense he undoubtedly is in advance of him. And precisely because this is so, an adherent of the materialist interpretation of history, while by no means repeating the absurd attacks on the intelligentsia that are coming from the Black- Hundred and syndicalist camp, would never agree to assign the intelligentsia the role of a demiurge of history which is generally assigned to it by idealists. There are various kinds of aristocratical- ness. Historical idealism is guilty of an “aristocrat- icalness of knowledge.”
+
+What in Chernyshevsky’s historical views was a shortcoming resulting from the insufficient elaboration of Feuerbach’s materialism, later became the basis of our subjectivism, which had
+
+nothing in common with materialism and vigor- ously opposed it not only in the field of history but also in the field of philosophy. The subjectivists boastfully called themselves continuers of the best traditions of the sixties. In reality, they continued only the weak aspects of the world outlook peculiar to that period....
+
+...Had Chernyshevsky consistently elabo- rated the idea expressed here, he would have had to renounce completely the idealist views expressed by him in the article—now familiar to us—con- cerning the causes for the fall of Rome. But the point is that he expresses such ideas only in pass- ing, he does not enlarge on them. In expressing them, he does not at all find it necessary to repu- diate historical idealism, and this is not due to
+
+a predilection for idealism as a philosophical theory. Chernyshevsky’s attitude to this theory was in general extremely negative. While expound- ing the idealist view of the trend of historical development, he continues to regard himself as a consistent materialist. He is wrong. But the root of his error lies in one of the chief shortcom- ings of Feuerbach’s materialist system. Marx expressed it rather aptly: “Feuerbach wants sen- suous objects, really differentiated from the thought
+
+objects, but he does not conceive of human activity itself as being objective activity. Hence, in the Essence of Christianity, he regards the theoreti- cal attitude as the only genuinely human atti- tude....“ ...Like his teacher, Chernyshevsky directs his attention almost exclusively to the “theoretical”
+
+activity of mankind, and, as a result, mental development becomes for him the most basic cause of historical movement....
+
+... It follows from Chernyshevsky that in history vice is always punished as it deserves. In reality, however, the historical facts known to us do not at all warrant this view, which may
+
+be comforting but is certainly naÏve. The only
+
+question of interest to us is how it came to be held by our author. This question can be answered
+
+by reference to the period when Chernyshevsky lived. It was a period of social upsurge, a period having a moral need, so to speak, for such views as would bolster faith in the inevitable defeat of evil....

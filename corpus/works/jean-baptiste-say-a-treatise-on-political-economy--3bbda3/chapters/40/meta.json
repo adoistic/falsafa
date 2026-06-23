@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 40,
-  "chapter_title": "SECTION XII.: Of the Party, on whom the Loss of the Coin by Wear should properly fall",
+  "chapter_title": "Section II.: Of Banks of Deposit.",
   "chapter_slug": "40",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 998,
-      "paragraph_count": 10,
+      "word_count": 911,
+      "paragraph_count": 9,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

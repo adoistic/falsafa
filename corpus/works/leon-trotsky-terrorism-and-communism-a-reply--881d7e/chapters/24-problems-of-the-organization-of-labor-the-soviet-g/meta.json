@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-terrorism-and-communism-a-reply--881d7e",
+  "work_title": "Terrorism and Communism: A Reply to Karl Kautsky",
+  "chapter_number": 24,
+  "chapter_title": "Problems of the Organization of Labor, The Soviet Government and Industry",
+  "chapter_slug": "24-problems-of-the-organization-of-labor-the-soviet-g",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "557afaae-693a-5801-ab7e-12bafb2379e0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1682,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1920/terrcomm/ch08.htm"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+---
+work_id: "a21c4c07-4c33-5a92-8dbc-99bdd6e55297"
+work_slug: "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c"
+work_title: Prison Memoirs of an Anarchist
+author_name: Alexander Berkman
+chapter_number: 12
+chapter_title: IV (2)
+chapter_slug: "12-iv-2"
+variant_id: "1ddad5f0-b4ae-54a5-80a6-5f5f226c60ef"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1213
+source_url: "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-1-chapter-6.html"
+translator: Marxists Internet Archive edition
+---
+
+Within, on the narrow stool, I find a tin pan filled with a dark-brown mixture. It is the noon meal, but the "dinner" does not look inviting: the pan is old and rusty; the smell of the soup excites suspicion. The greasy surface, dotted here and there with specks of vegetable, resembles a pool of stagnant water covered with green slime. The first taste nauseates me, and I decide to "dine" on the remnants of my breakfast-a piece of bread.
+
+I pace the floor in agitation over the conversation with my fellow-prisoners. Why can't they understand the motives that prompted my act? Their manner of pitying condescension is aggravating. My attempted explanation they evidently considered a waste of effort. Not a striker myself, I could and should have had no interest in the struggle,-the opinion seemed final with both the negro and the white man. In the purpose of the act they refused to see any significance,-nothing beyond the mere physical effect. It would have been a good thing if Frick had died, because "he was bad." But it is "lucky" for me that he didn't die, they thought, for now "they" can't hang me. My remark that the probable consequences to myself are not to be weighed in the scale against the welfare of the People, they had met with a smile of derision, suggestive of doubt as to my sanity. It is, of course, consoling to reflect that neither of those men can properly be said to represent the People. The negro is a very inferior type of laborer; and the other-he is a bourgeois I "in business." He is not worth while. Besides, he confessed that it is his third offense. He is a common criminal, not an honest producer. But that tall man-the Homestead steel- worker whom the negro pointed out to me-oh, he will understand: he is of the real People. My heart wells up in admiration of the man, as I think of his participation in the memorable struggle of Homestead. He fought the Pinkertons, the myrmidons of Capital. Perhaps he helped to dynamite the barges and drive those Hessians out of town. He is tall and broad-shouldered, his face strong and determined, his body manly and powerful. He is of the true spirit; the embodiment of the great, noble People: the giant of labor grown to his full stature, conscious of his strength. Fearless, strong, and proud, he will conquer all obstacles; he will break his chains and lib- erate mankind.
+
+Next morning, during exercise hour, I watch with beating heart for an opportunity to converse with the Homestead steelworker. I shall explain to him the motives and purpose of my attempt on Frick. He will understand me; he will himself enlighten his fellow-strikers. It is very important they should comprehend my act quite clearly, and he is the very man to do this great service to humanity. He is the rebel-worker; his heroism during the struggle bears witness. I hope the People will not allow the enemy to hang him. He defended the rights of the Homestead workers, the cause of the whole working class. No, the People will never allow such a sacrifice. How well he carries himself! Erect, head high, the look of conscious dignity and strength
+
+"Cell num-b-ber fi-i-ve!"
+
+The prisoner with the smoked glasses leaves the line, and advances in response to the guard's call. Quickly I pass along the gallery, and fall into the vacant place, alongside of the steel-worker.
+
+"A happy chance," I address him. I should like to speak to you about something important. You are one of the Homestead strikers, are you not?"
+
+"Jack Tinford," he introduces himself. "What's your name?"
+
+He is visibly startled by my answer. "The man who shot Frick?" he asks.
+
+An expression of deep anxiety crosses his face. His eye wanders to the gate. Through the wire network I observe visitors approaching from the Warden's office.
+
+"They'd better not see us together," he says, impatiently. "Fall in back of me. Then we'll talk."
+
+Pained at his manner, yet not fully realizing its significance, I slowly fall back. His tall, broad figure completely hides me from view. He speaks to me in monosyllables, unwillingly. At the mention of Homestead he grows more communicative, talking in an undertone, as if conversing with his neighbor, the Sicilian, who does not understand a syllable of English. I strain my ear to catch his words. The steel-workers merely defended themselves against armed invaders, I hear him say. They are not on strike: they've been locked out by Frick, because he wants to non-unionize the works. That's why he broke the contract with the Amalgamated, and hired the damned Pinkertons two months before, when all was peace. They shot many workers from the barges before the millmen "got after them." They deserved roasting alive for their unprovoked murders. Well, the men "fixed them all right." Some were killed, others committed suicide on the burning barges, and the rest were forced to surrender like whipped curs. A grand victory all right, if that coward of a sheriff hadn't got the Governor to send the militia to Homestead. But it was a victory, you bet, for the boys to get the best of three hundred armed Pinkertons. He himself, though, had nothing to do with the fight. He was sick at the time. They're trying to get the Pinkertons to swear his life away. One of the hounds has already made an affidavit that he saw him, Jack Tinford, throw dynamite at the barges, before the Pinkertons landed. But never mind, he is not afraid. No Pittsburgh jury will believe those lying murderers. He was in his sweetheart's house, sick abed. The girl and her mother will prove an alibi for him. And the Advisory Committee of the Amalgamated, too. They know he wasn't on the shore. They'll swear to it in court, anyhow.
+
+Abruptly he ceases, a look of fear on his face. For a moment he is lost in thought. Then he gives me a searching look, and smiles at me. As we turn the corner of the walk, he whispers: "Too bad you didn't kill him. Some business misunderstanding, eh?" he adds, aloud.
+
+Could he be serious, I wonder. Does he only pretend? He faces straight ahead, and I am unable to see his expression. I begin the careful explanation I had prepared:
+
+"Jack, it was for you, for your people that I-"
+
+Impatiently, angrily he interrupts me. I'd better be careful not to talk that way in court, he warns me. If Frick should die, I'd hang myself with such "gab." And it would only harm the steel-workers. They don't believe in killing; they respect the law. Of course, they had a right to defend their homes and families against unlawful invaders. But they welcomed the militia to Homestead. They showed their respect for authority. To be sure, Frick deserves to die. He is a murderer. But the mill- workers will have nothing to do with Anarchists. What did I want to kill him for, anyhow? I did not belong to the Homestead men. It was none of my business. I had better not say anything about it in court, or-
+
+The gong tolls.
+
+"All in!

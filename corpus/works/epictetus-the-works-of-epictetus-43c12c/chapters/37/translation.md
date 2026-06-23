@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 37
-chapter_title: "CHAPTER III.: CONCERNING SUCH AS RECOMMEND PERSONS TO THE PHILOSOPHERS"
+chapter_title: "Chapter III.: Concerning Such as Recommend Persons to the Philosophers"
 chapter_slug: 37
 variant_id: "39c5aeb1-04a7-5492-a4d8-214d65e8e1c6"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 233
+word_count: 229
 source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
 translator: Online Library of Liberty edition
 ---
 
 DIOGENES rightly answered one who desired letters of recommendation from him: “At first sight he will know you to be a man; and whether you are a good or a bad man, if he has any skill in distinguishing, he will know likewise; and, if he has not, he will never know it, though I should write a thousand times.” Just as if you were a piece of coin, and should desire to be recommended to any person as good, in order to be tried; — if it be to an assayer, he will know your value, for you will recommend yourself.
 
-We ought, therefore, in life also, to have something analogous to this skill in gold; that one may be able to say, like the assayer, Bring me whatever piece you will, and I will find out its value; or, as I would say with regard to syllogisms, Bring me whomsoever you will, and I will distinguish for you, whether he knows how to solve syllogisms, or not. Why? Because I can do that myself, and have that faculty which is necessary for one, who can discern persons skilled in such solutions. But how do I act in life? I sometimes call a thing good; at other times, bad. What is the cause of this? Something contrary to Edition: current; Page: [102] what occurs to me in syllogisms, — ignorance, and inexperience.
+We ought, therefore, in life also, to have something analogous to this skill in gold; that one may be able to say, like the assayer, Bring me whatever piece you will, and I will find out its value; or, as I would say with regard to syllogisms, Bring me whomsoever you will, and I will distinguish for you, whether he knows how to solve syllogisms, or not. Why? Because I can do that myself, and have that faculty which is necessary for one, who can discern persons skilled in such solutions. But how do I act in life? I sometimes call a thing good; at other times, bad. What is the cause of this? Something contrary to what occurs to me in syllogisms, — ignorance, and inexperience.

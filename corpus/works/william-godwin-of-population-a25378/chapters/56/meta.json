@@ -2,7 +2,7 @@
   "work_slug": "william-godwin-of-population-a25378",
   "work_title": "Of Population",
   "chapter_number": 56,
-  "chapter_title": "CHAPTER II.: OF THE POSITIONS RESPECTING THE NATURE OF MAN UPON WHICH THE ESSAY ON POPULATION IS CONSTRUCTED.",
+  "chapter_title": "Chapter III.: of the doctrines of the essay on population as they affect the principles of morality.",
   "chapter_slug": "56",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2862,
-      "paragraph_count": 33,
+      "word_count": 2379,
+      "paragraph_count": 37,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
     }

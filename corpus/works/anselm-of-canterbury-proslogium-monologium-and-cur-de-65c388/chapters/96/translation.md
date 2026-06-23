@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 96
-chapter_title: CHAPTER LVI.
+chapter_title: Chapter LXIV.
 chapter_slug: 96
 variant_id: "612521fd-d4f2-58ea-a38c-430860637d35"
 content_type: translation
@@ -13,15 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 223
+word_count: 265
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-Only the Father begets and is unbegotten; only the Son is begotten; only love neither begotten nor unbegotten.
+Though this truth is inexplicable, it demands belief.
 
-Still, it is apparent that this love can neither be said, in accordance with the usage of common speech, to be unbegotten, nor can it so properly be said to be begotten, as the Word is said to be begotten. For we often say of a thing that it is begotten of that from which it derives existence, as when we say that light or heat is begotten of fire, or any effect of its cause.
+It seems to me that the mystery of so sublime a subject transcends all the vision of the human intellect. And for that reason I think it best to refrain from the attempt to explain how this thing is. For it is my opinion that one who is investigating an incomprehensible object ought to be satisfied if his reasoning shall have brought him far enough to recognise that this object most certainly exists; nor ought assured belief to be the less readily given to these truths which are declared to be such by cogent proofs, and without the contradiction of any other reason, if, because of the incomprehensibility of their own natural sublimity, they do not admit of explanation.
 
-On this ground, then, love, proceeding from the supreme Spirit, cannot be declared to be wholly unbegotten, but it cannot so properly be said to be begotten as can the Word; since the Word is the most true offspring and most true Son, while it is manifest that love is by no means offspring or son.
-
-He alone, therefore, may, or rather should, be called begetter and unbegotten, whose is the Word; since he alone is Father and parent, and in no wise derives existence from another; and the Word alone should be called begotten, which alone is Son and offspring. But only the love of both is neither begotten nor unbegotten, because it is neither son nor offspring, and yet does in some sort derive existence from another.
+But what is so incomprehensible, so ineffable, as that which is above all things? Hence, if these truths, which have thus far been debated in connection with the supreme Being, have been declared on cogent grounds, even though they cannot be so examined by the human intellect as to be capable of explanation in words, their assured certainty is not therefore shaken. For, if a consideration, such as that above, rationally comprehends that it is incomprehensible in what way supreme Wisdom knows its creatures, of which we necessarily know so many; who shall explain how it knows and expresses itself, of which nothing or scarcely anything can be known by man? Hence, if it is not by virtue of the self-expression of this Wisdom that the Father begets and the Son is begotten, who shall tell his generation?

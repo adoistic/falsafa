@@ -1,0 +1,61 @@
+---
+work_id: "125858cf-fea7-5292-b00d-5f4f6d6e46e4"
+work_slug: "friedrich-nietzsche-thus-spake-zarathustra-125858"
+work_title: Thus Spake Zarathustra
+author_name: Friedrich Nietzsche
+chapter_number: 14
+chapter_title: XIII. Chastity.
+chapter_slug: "14-xiii-chastity"
+variant_id: "8388cbdb-36dd-5191-88f8-88da6ea615c9"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 374
+source_url: "https://www.gutenberg.org/ebooks/1998"
+translator: Project Gutenberg edition
+---
+
+I love the forest. It is bad to live in cities: there, there are too many of the lustful.
+
+Is it not better to fall into the hands of a murderer, than into the dreams of a lustful woman?
+
+And just look at these men: their eye saith it—they know nothing better on earth than to lie with a woman.
+
+Filth is at the bottom of their souls; and alas! if their filth hath still spirit in it!
+
+Would that ye were perfect—at least as animals! But to animals belongeth innocence.
+
+Do I counsel you to slay your instincts? I counsel you to innocence in your instincts.
+
+Do I counsel you to chastity? Chastity is a virtue with some, but with many almost a vice.
+
+These are continent, to be sure: but doggish lust looketh enviously out of all that they do.
+
+Even into the heights of their virtue and into their cold spirit doth this creature follow them, with its discord.
+
+And how nicely can doggish lust beg for a piece of spirit, when a piece of flesh is denied it!
+
+Ye love tragedies and all that breaketh the heart? But I am distrustful of your doggish lust.
+
+Ye have too cruel eyes, and ye look wantonly towards the sufferers. Hath not your lust just disguised itself and taken the name of fellow-suffering?
+
+And also this parable give I unto you: Not a few who meant to cast out their devil, went thereby into the swine themselves.
+
+To whom chastity is difficult, it is to be dissuaded: lest it become the road to hell—to filth and lust of soul.
+
+Do I speak of filthy things? That is not the worst thing for me to do.
+
+Not when the truth is filthy, but when it is shallow, doth the discerning one go unwillingly into its waters.
+
+Verily, there are chaste ones from their very nature; they are gentler of heart, and laugh better and oftener than you.
+
+They laugh also at chastity, and ask: “What is chastity?
+
+Is chastity not folly? But the folly came unto us, and not we unto it.
+
+We offered that guest harbour and heart: now it dwelleth with us—let it stay as long as it will!”—
+
+Thus spake Zarathustra.

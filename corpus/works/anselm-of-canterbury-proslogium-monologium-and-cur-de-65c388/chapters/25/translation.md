@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 25
-chapter_title: CHAPTER XII.
+chapter_title: Chapter XIV. (1)
 chapter_slug: 25
 variant_id: "beef3a93-e8f5-5685-9f7c-3c5f0d9f64b3"
 content_type: translation
@@ -13,11 +13,19 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 62
+word_count: 458
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-God is the very life whereby he lives: and so of other like attributes
+How and why God is seen and yet not seen by those who seek him.
 
-But undoubtedly, whatever thou art, thou art through nothing else than thyself. Therefore, thou art the very life whereby thou livest; and the wisdom wherewith thou art wise; and the very goodness whereby thou art good to the righteous and the wicked; and so of other like attributes.
+Hast thou found what thou didst seek, my soul? Thou didst seek God. Thou hast found him to be a being which is the highest of all beings, a being than which nothing better can be conceived; that this being is life itself, light, wisdom, goodness, eternal blessedness and blessed eternity; and that it is everywhere and always.
+
+For, if thou hast not found thy God, how is he this being which thou hast found, and which thou hast conceived him to be, with so certain truth and so true certainty? But, if thou hast found him, why is it that thou dost not feel thou hast found him? Why, O Lord, our God, does not my soul feel thee, if it hath found thee? Or, has it not found him whom it found to be light and truth? For how did it understand this, except by seeing light and truth? Or, could it understand anything at all of thee, except through thy light and thy truth?
+
+Hence, if it has seen light and truth, it has seen thee; if it has not seen thee, it has not seen light and truth. Or, is what it has seen both light and truth; and still it has not yet seen thee, because it has seen thee only in part, but has not seen thee as thou art? Lord my God, my creator and renewer, speak to the desire of my soul, what thou art other than it hath seen, that it may clearly see what it desires. It strains to see thee more; and sees nothing beyond this which it hath seen, except darkness. Nay, it does not see darkness, of which there is none in thee; but it sees that it cannot see farther, because of its own darkness.
+
+Why is this, Lord, why is this? Is the eye of the soul darkened by its infirmity, or dazzled by thy glory? Surely it is both darkened in itself, and dazzled by thee. Doubtless it is both obscured by its own insignificance, and overwhelmed by thy infinity. Truly, it is both contracted by its own narrowness and overcome by thy greatness.
+
+For how great is that light from which shines every truth that gives light to the rational mind? How great is that truth in which is everything that is true, and outside which is only nothngness and the false? How boundless is the truth which sees at one glance whatsoever has been made and by whom, and through whom, and how it has been made from nothing? What purity, what certainty, what splendor where it is? Assuredly more than a creature can conceive.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-d-bernal-the-world-the-flesh-and-the-devi-0b9b9c",
+  "work_title": "The World, the Flesh and the Devil: An Enquiry into the Future of the Three Enemies of the Rational Soul",
+  "chapter_number": 5,
+  "chapter_title": "Synthesis",
+  "chapter_slug": "05-synthesis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0d62ffe7-b4dd-5860-b4a9-d9830cfd404e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1695,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bernal/works/1920s/soul/ch05.htm"
+    }
+  ]
+}

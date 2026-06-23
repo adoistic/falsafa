@@ -4,7 +4,10 @@ slug: "antiphon-the-third-tetralogy-ae647c"
 title: The Third Tetralogy
 author:
   name: Antiphon
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Athenian orator and speechwriter from Rhamnus, an architect of the oligarchic coup of the Four Hundred. His courtroom speeches and model Tetralogies are the earliest surviving specimens of Attic forensic oratory.
+  birth_year: -480
+  death_year: -411
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

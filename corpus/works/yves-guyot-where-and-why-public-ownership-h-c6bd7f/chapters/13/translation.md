@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 13
-chapter_title: "CHAPTER VI: THE RAILWAYS OF THE SWISS FEDERATION."
+chapter_title: "Chapter VIII: Government Railroads in France"
 chapter_slug: 13
 variant_id: "99801d46-e73f-58c5-95f8-43a0c8d6299c"
 content_type: translation
@@ -13,49 +13,103 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1150
+word_count: 2568
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-Purchase Price Exceeded Expectation.—Profit and Loss Account.—Debt of the Confederation.—Receipts and Expenses.—Operating Ratio.—Labor.—Economy at the Expense of Passengers and Shippers.—Prophecy of Numa Droz.
+1. In Book I, Chapter 2, I referred to the political motives underlying the purchase of the Western Railway of France. In order to do a good turn to the Socialists, Georges Clemenceau socialized this system.
 
-The promoters of the existing Swiss railroad monopoly declared most emphatically that the new régime was not expected, primarily at least, to yield financial results, but rather advantages for passengers and shippers. The actual purchase, however, was limited to the four great systems, the government passing over the lines of secondary importance, which were less productive. Thus two classes of railway service were established: a first class, consisting of patrons of the more important roads and a second class, composed of users of the small roads, which could be safely neglected. The purchase price of the four great systems was estimated at 964,000,000 francs ($183,160,000). The Confederation has actually paid 1,195,000,000 francs, or 231,000,000 francs more than the figure first quoted.
+The Minister of Public Works, Louis Barthou, saw in the purchase a double advantage. It would be a sop to the Radicals and Radical Socialists, for one thing, and, in addition, it might serve to cover the deficits of the so-called old government system, that is to say the lines already under public management. The deficits were not to be hidden, however. Therefore, Minister Barthou, who had at first repudiated the charge that such deficits existed, openly demanded that the sum of 26,600,000 francs be set aside for the benefit of the old system from the special treasury account established by the law of December 18, 1908.
 
-On December 31, 1912, the general construction Edition: current; Page: [89] account amounted to 1,472,000,000 francs, to which must be added 45,824,000 francs representing divers expenses, reduced by sinking funds to 28,177,000 francs. The total amount of capital sunk is therefore 1,500,469,000 francs ($285,089,000). This does not include, however, the cost of the St. Gothard line.
+In November, 1906, the government introduced a bill for the purchase of the Western Railway, although it confessed “that no papers relating to such a project were on file in the office of the Minister of Public Works,” a provision required by law. Nevertheless, the government demanded that a law authorizing the transaction be passed by the Senate and the Chamber of Deputies, before the end of the year, in order to prevent the Western company, which had had a profitable year, from increasing its net profit.
 
-Excluding the St. Gothard line, the profit and loss accounts are shown in the following table:
+The Senate, however, refused to be intimidated by threats. Its committee, through the secretary, M. Prevet, who assigned the strongest possible reasons for such action, rejected the purchase bill, although it had already passed the Chamber of Deputies, by 364 votes against 187, 76 out of the 80 deputies from the districts touched by the Western road having voted against the purchase. Out of 46 senators, 44 were emphatically against the bill. Nearly all the chambers of commerce in France were also opposed.
 
-The cost of the St. Gothard line has exceeded by 34,000,000 francs ($6,460,000) the provisions of the estimate of 1897. The expenses for completed works and new acquisitions, which on December 31, 1909, already amounted to 218,000,000 francs, had jumped in 1912 to 292,000,000 francs, or 74,000,000 francs more, and at that time there still remained unfinished works to the extent of 69,000,000 francs, while expenses in the near future for other lines are in sight, amounting to almost 100,000,000 francs. In their report to the budget of 1912 the board of managers of the Federal railroads stated that they were anxious to reduce the yearly expenses by 24,000,000 francs, but such a reduction is out of the question.
+The argument advanced in favor of the purchase was that the Western company would never be able to repay the advances that had been made it under the name of guaranty of interest, that thus it was running on government money, and hence it was neither more nor less than a state department engaged in an unprofitable operation.
 
-The capital stock of the four old companies was 280,000,000 francs ($53,000,000). The dividends paid to stockholders had been reduced, or altogether discontinued, during the losing years, in order that the interest upon the outstanding debt might be paid.
+Yet the results of its operation indicated that the company was making the greatest possible effort to extricate itself from the crisis of 1901. The receipts, net profits and interest guaranties for 1901, 1904 and 1906 were as follows (in francs):
 
-In the case of the state railways there is only one stockholder, the state; and, if its railways lose, it is the state, that is to say, the taxpayers as a whole, who must make up the deficit.
+But the charge was made that the company had obtained its reduction in expenses only at the cost of its employees. I give below the number of employees and the increase in their salaries:
 
-In 1903 the consolidated debt was 1,075,152,000 francs. In 1909 it had risen to 1,344,221,000 francs. On December 31, 1912, it had again increased 399,000,000 francs, or 37 per cent. The interest on the debt, which was 36,000,000 francs in 1903, amounted to 54,000,000 francs in 1912. Sinking fund charges on the capital invested in the enterprise rose from 4,300,000 francs in 1903 to 7,840,000 francs in 1912.
+Thus we see that the number of employees had increased, as well as the individual salaries, in spite of the difficulties facing the company. Moreover, during this same period, the sick and other benefits, bounties and allowances of various kinds had grown from 2,188,000 francs to 3,580,000 francs, or an increase of 1,392,000 francs.
 
-The surplus should have been transferred, at least in part, to a surplus fund. But the department, considering the unreliability of future operations, has refused to put in force the provisions of the law governing the purchase, and has simply carried it over. Some special expenses, represented by no actual value, such as abandoned installations, etc., were still carried on December 31,1912, to the amount of 28,000,000 francs ($5,320,000). As long as this balance is not disposed of, it is out of the question to talk about surplus of receipts.
+The other argument, harped on ad nauseam by partisans of the purchase, was that on December 31,1905, the Western railway's debt to the state amounted to 302,569,000 francs, and the interest on it to 117,300,000 francs, a total of 419,869,000 francs.
 
-The annual appropriation of special funds, to defray the expenses of maintenance and renewals not already covered by operation in 1906, was 7,084,000 francs. In 1912 it was 9,325,000 francs.
+But the Western company had equipment estimated at 350,000,000 francs. By forcing it to submit to a deduction of 30 per cent. the price the government would then have to pay for the road would be 245,000,000 francs. The difference between 419,869,000 and 245,000,000—or 174,000,000 francs—was the clinching argument on the part of the advocates of the purchase to hasten action in order to safeguard the interest of the state.
 
-There has been no miscalculation in regard to receipts. They were estimated on the basis of an average annual increase of 3 per cent. The increase has been 4.8 per cent. for passengers and 4.5 per cent. for freight.
+And how did this purchase safeguard the interests of the state? The government took over the road at once; but it increased its investment in the Western company. The guaranty of interest to the stockholders would come to an end in 1935 if the company continued to operate the road, while, in case of purchase by the state, it would continue to the end of the franchise, in 1956. As a result the chief beneficiaries by the purchase of the Western road were the stockholders. On the day when the road changed hands its stock was quoted at 830 francs. It subsequently fell to 810 francs, but the Cote de la Bourse et de la Banque, the Moniteur des Intérêts Matérièls, and I myself immediately pointed out that the advantages resulting from the purchase would raise the value of the stock to more than 1,100 francs. At the present time, June 17, 1913, it is quoted at 870 francs.
 
-During the last three years the gross earnings have jumped from 174,000,000 francs, in 1909, to 206,000,000 francs, in 1912, or 18 per cent. But these earnings will be reduced after the opening of the Loetschberg line, and as a result of the St. Gothard agreement, which has just been accepted.
+What did the purchase cost the state? The official in charge of the financial end of the purchase (Directeur Général du Mouvement des Fonds) declared that “it was not possible to determine it even approximately.” Yet the Minister of Public Works declared that the whole transaction could be called an “opération blanche.” That is to say, it would cost the state nothing.
 
-Moreover, the expenses of operation have increased on an average of 6.2 per cent., consequently at a proportion greater than the receipts, up to 1908. Since 1909 this proportion has decreased. The operating ratio appears as follows:
+We have already referred to the fact that the Senate rejected the bill authorizing the purchase of the Western line. But the Clemenceau ministry brought so much pressure to bear upon the senators that the purchase was finally voted by a majority of three. Thus the state found itself charged with the duty of furnishing service on a system of 9,000 kilometers (5,625 miles). In the drafts and reports of the committee in charge of the purchase, various settlements of the points at issue between the government and the company were discussed, but these were all summarily eliminated by the law of July 13, 1908, which ratified an agreement with the Western company. The guaranty of interest, which was to expire in 1935, was extended to 1951.
 
-During the same period the highest operating ratio of the Paris-Lyon-Mediterranean line of France (operated by a private company) was 53.5 per cent.
+The remainder of the sums due from the company upon bonds, certificates and guaranties of interest was fixed by law at the sum of 7,122,000 francs ($1,353,180). There was no discussion of the 419,869,000 francs, nor even the 174,000,000 francs. The real amount of the sums due the company is determined by annual estimates. The sum total amounts to 4,972,334,000 francs ($944,743,000).
 
-In 1909 the secretary of the department observed that, taking into account the increase of interest, extensions, and all those charges which, at the beginning of 1912, bore so heavily upon the railway, Edition: current; Page: [92] the annual increase in expenditures would ultimately reach 20,000,000 francs. This year (1913) it has been 11,270,000 francs.
+2. What are the expenses resulting from the operation of the system by the state?
 
-After 1906, following an average rise in wages, together with an increase in the number of employees, the ordinary labor expenses of the railroad exceeded by 4,280,000 francs the figure of the preceding year.
+The state took over the Western Railway January 1, 1909. During the five years of its operation by the company, from 1904 through 1908, the average annual net profit was 78,540,000 francs. In 1909, the first year of state operation, this net profit fell to 69,970,600 francs; in 1910 to 57,169,200 francs; in 1911, to 30,180,900 francs; in 1912, to 21,932,900 francs. From this last figure a forecast may be made of what the profit of 1913 will be. Therefore, and taking into consideration the probabilities of 1913, we have an annual average of 41,071,000 francs for the net profit from state operation, instead of the 78,540,000 francs from operation by the company.
 
-Beginning with April 1, 1912, a new law concerning salaries went into effect, which has brought about an annual increase of 8,200,000 francs in the expenses, without counting supplementary payments to be made in the way of pensions and sick and other benefits established on the basis of full pay. Nor does it include the increase in the salaries of laborers paid by the day. The total increase is estimated at 10,000,000 francs.
+In a statement outlining the special features of the budget of 1912, M. Klotz estimated that the deficit on the operation of the Western Railroad would not exceed 24,000,000 francs ($4,560,000).
 
-From 1904 to 1910 the increase in labor expenses was 14,370,000 francs, or 51 per cent. For all other expenses the increase was only 36 per cent. In 1902 there were 23,030 employees; in 1907 the number had risen to 31,300. On the 1st of April the tri-yearly rise in salary took effect, as provided for by a law fixing higher maximums. This law has increased the annual expenses by 10,000,000 francs.
+On the other hand M. Chéron's report upon the application for supplemental credits in favor of state railways, submitted March 29, 1912, declares:
 
-With the object of balancing the expenses in favor of the employees, certain economies were effected at the expense of passengers and shippers, such as withdrawal of reduced fares on holidays, decreased inspection of the road, fewer trains, speed of freight trains lessened, a certain number of improvements postponed, and resistance to demands for improvements which were not too urgent. Finally the department Edition: current; Page: [93] determined to increase the rates when the industry and commerce of Switzerland are already paying internal transportation taxes double those in force in neighboring countries.
+“The demand for supplemental credits, which we are about to examine, constitutes a confirmation of the estimates of the budget of 1912. It was, as we see now, anticipated. The figures are none the less very disturbing.”
 
-The nationalizing of the Swiss railways has certainly proved of advantage to the employees. But, are state operations carried on for the benefit of employees or for the public? Present conditions justify the following prophecy of Numa Droz:
+It was not anticipated in the explanatory statement of the budget of 1912. Some lines further on M. Chéron adds:
 
-“Through this purchase our railroad policy is in course of stiffening into a set of rigid regulations prescribed by a poverty stricken department incapable of solving the great problems of the future for lack of resources.”
+“Progress has already been made in bringing order into this department. It only remains now to control the conduct of the enterprise with such vigilance and severity as will reduce the truly exorbitant deficit in the profits of operation.
+
+The Honorable Secretary states that the supplemental credits granted in 1912 have decreased the net profits of the old system by 3,813,400 francs and increased the deficit of the Western line to 23,389,900 francs.
+
+Following the reduction effected by the commission in the ordinary expenses of the Western line, the increase in the deficiency of the profits of the system affecting the budget of the ministry of Public Works is discovered to be 22,389,900 francs instead of 24,529,900 francs. The total deficit in the profits from the operation of the system will thus be found to be for 1912, and, including the original provisions, 81,535,900 francs, instead of 83,675,900 francs allowed by the government. If the deficit on partial operation be added, or 739,000 francs, we have a total deficiency for 1912 of 82,874,900 francs.”
+
+M. Chéron is basing his comparison on the year 1908, the last year of the company, with the present condition of the state railway. But the purchase had been voted by the Chamber of Deputies in December, 1906. The company had no more authority over its employees, and its condition was altogether abnormal. Moreover, during the fiscal year 1908 expenses had to be met which, if the purchase had not been made, would normally have been carried over into the year 1909.
+
+The unfortunate situation of the Western company serves rather to bring out more clearly the seriousness of the increase in the expenses of the system after its purchase by the state.
+
+It should be noted further that the actual deficit of the company in 1908 was only 28,522,675 francs 68, to which M. Chéron adds 3,300,000 francs, representing additional charges resulting from the agreement regulating the sums due annually on the purchase.
+
+As far as the old government railway system is concerned, we can speak only of the receipts and expenditures of operation, since the costs of construction have not yet been determined. Since 1908 the net profit of operation has considerably diminished.
+
+The receipts thus rose 8,000,000 francs, while the expenses increased 15,000,000 francs. Thus the same condition is reached as in the case of the Western line.
+
+M. Chéron, after having reported an annual increase in the receipts of 3.50 per cent. “as merely satisfactory,” remarks: “The progressive increase of expenses is the true cause of the decrease in the net profit of operation.”
+
+The following table presents the expenses of operation:
+
+These figures drew the following criticism from the secretary:
+
+“It would be regrettable if the results of the public operation of the Western line did not convince the department of the necessity of keeping down the general expenses of the old system. We are anxious in this case also to reach, or rather to return, to a more favorable net profit. Outside of justifiable improvements in the position of the employees, there are expenses which could be reduced or checked.
+
+3. “Moreover, we would say that, in the case of the old system, as in that of the Western line, the extraordinary works which for some years have been in course of construction (involving an outlay of more than 21,000,000 francs since 1909, together with the 31,000,000 francs demanded, and with the same excuse, in 1912), ought to result in a development of traffic, and, as a direct consequence, a corresponding increase in the net profit.”
+
+From the foregoing extracts it would appear that the greater part of the increase in expenses came from the raising of the wages and salaries of an enlarged working force. The proportion varies for the two state railway systems from 72 to 73 per cent. of the total increase in expenditures. On the newly acquired Western line, the improvements in the situation of the employees and the regulations governing promotion represent together more than two-thirds of the total increase in labor expenses.
+
+While operating expenses from 1908 to 1912 have increased 72,304,000 francs the gross receipts have risen from 217,645,000 francs to 244,335,000 francs—a gain of only 26,690,000 francs. The difference is at least 45,614,000 francs.
+
+Moreover this deficit must continue to increase, because this year the state railways have just issued 300,000,000 francs ($57,000,000) of 4 per cent. bonds, on which the state must pay interest in the future.
+
+Foreseeing this bond issue M. Rouvier observed, in a speech on the 26th of January, 1904:
+
+“You will have to create a special issue that you will probably term 'railroad' or 'public works' bonds: and, in spite of your delusion that, because you are going to call it by another name, this new issue will be sold on the market under the same conditions as are private bonds, you will have made a serious attack upon the credit of the state.”
+
+The prophecy has been realized. The Minister of Finance did issue the 4 per cent. bonds. The 3 per cent. rentes fell immediately to 92.65. In October they were quoted under 91 francs. To-day (June 18, 1913) they are 83. The amount of depreciation thus forced upon the 3 per cent. rentes has been greater than the 300,000,000 francs borrowed by the state for the railroad.
+
+Optimists prophesied that these state railway bonds would pull up the rentes; they have been pulled, but they have been pulled down.
+
+The question has been asked: How can a bond issue of 300,000,000 francs have any influence upon a market of 22,000,000,000 francs? But there are not 22,000,000,000 francs in circulation. A portion of this sum is tied up in savings banks, insurance companies, benevolent associations, the property of minors, etc. There is only a limited amount left to bear the entire weight of this issue of state railway bonds. The 4 per cent. bonds, issued at 503 francs, have remained at about this figure.
+
+Some improvements have been made in the Western line; but in five years, from 1909 to 1913, the cost of construction has been 718,000,000 francs ($136,000,000). According to the partisans of the purchase, “this is the fault of the Western company, which delivered a system in poor shape.”
+
+But at the end of 1911 M. Colson, formerly Director of Railroads in the ministry of Public Works, and now councillor of state, declared:
+
+“According to such information as we are able to gather from engineers, whether those of the late Western company or in our own service, it is clearly apparent that, down to the final day on which it remained in the hands of the company, the whole system was in excellent shape.”
+
+While his final statement could not well be more explicit:
+
+“The state of the roads at the time of purchase would neither endanger the safety of travelers nor impose abnormal financial charges upon the new management.”
+
+Whereas, the net profit per train kilometer varied in the case of the private companies from 1 franc 75 to 2 francs 71, it was only 0 franc 53 upon the Western (state) line, and 0 franc 44 on the old system. In other words, the state was operating its new purchase at a figure four times higher than the operating cost of private lines, and its old system at a figure five times higher.
+
+From 1909 to 1912, that is to say, in three years, the decrease in net profit upon the Western line has been 66 per cent., and the operating ratio has increased to 91 per cent. This is bad enough, but the situation is even worse on the old system. During the same period the decrease in the net profit was 73 per cent., while the operating ratio reached the enormous figure of 95 per cent.

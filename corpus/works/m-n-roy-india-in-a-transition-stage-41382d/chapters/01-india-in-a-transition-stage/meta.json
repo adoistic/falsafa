@@ -1,0 +1,26 @@
+{
+  "work_slug": "m-n-roy-india-in-a-transition-stage-41382d",
+  "work_title": "India in a Transition Stage",
+  "chapter_number": 1,
+  "chapter_title": "India in a Transition Stage",
+  "chapter_slug": "01-india-in-a-transition-stage",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08293787-07bd-565e-a0ce-6b7d8d5ad9dc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7308,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/roy/1921/12/x01.htm"
+    }
+  ]
+}

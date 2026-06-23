@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-economic-doctrines-of-karl-m-8309a8",
+  "work_title": "The Economic Doctrines of Karl Marx",
+  "chapter_number": 5,
+  "chapter_title": "I. The Process of Production",
+  "chapter_slug": "05-i-the-process-of-production",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54ce8ef9-a6bf-5354-934b-7cefc7a3f016",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2167,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1903/economic/ch04.htm"
+    }
+  ]
+}

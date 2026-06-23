@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-bernard-shaw-the-perfect-wagnerite-a-commenta-7cd750",
+  "work_title": "The Perfect Wagnerite: A Commentary on the Niblung's Ring",
+  "chapter_number": 5,
+  "chapter_title": "The Rhine Gold",
+  "chapter_slug": "05-the-rhine-gold",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "906239fa-9637-50a2-aac8-740ce0d62cc8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 519,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/shaw/works/wagner.htm"
+    }
+  ]
+}

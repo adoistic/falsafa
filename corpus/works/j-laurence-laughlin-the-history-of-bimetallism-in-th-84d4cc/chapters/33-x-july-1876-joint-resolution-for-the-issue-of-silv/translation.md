@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 33
-chapter_title: X. JULY, 1876.—Joint Resolution for the Issue of Silver Coin.
+chapter_title: X. July, 1876.—Joint Resolution for the Issue of Silver Coin.
 chapter_slug: "33-x-july-1876-joint-resolution-for-the-issue-of-silv"
 variant_id: "cb33fe9a-8c12-5628-b3e3-9064b4277736"
 content_type: translation

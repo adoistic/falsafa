@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 68,
+  "chapter_title": "Letter 68",
+  "chapter_slug": "68-letter-68",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b0fc2fff-f7f6-5475-a7f8-86e55f4dbe33",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "85249186-d48a-589e-9382-1b1f738ea1cf",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1103,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

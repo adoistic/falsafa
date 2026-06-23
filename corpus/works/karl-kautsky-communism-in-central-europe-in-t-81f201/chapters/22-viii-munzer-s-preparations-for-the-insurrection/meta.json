@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 22,
+  "chapter_title": "VIII. Münzer’s Preparations for the Insurrection",
+  "chapter_slug": "22-viii-munzer-s-preparations-for-the-insurrection",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d7a5920f-3faf-5210-9f88-066abf1cfd12",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3028,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch04b.htm"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+---
+work_id: "4236c39f-c0d0-5a54-8dc7-6901642e8c28"
+work_slug: "alexis-de-tocqueville-democracy-in-america-4236c3"
+work_title: Democracy in America
+author_name: Alexis de Tocqueville
+chapter_number: 60
+chapter_title: "Chapter II: Of Individualism In Democratic Countries"
+chapter_slug: 60
+variant_id: "59268455-4fcd-5cbe-9ec4-9811e6636e0c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 767
+source_url: "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch27.htm"
+translator: Henry Reeve
+---
+
+I have shown how it is that in ages of equality every man seeks for his opinions within himself: I am now about to show how it is that, in the same ages, all his feelings are turned towards himselfalone. Individualism is a novel expression, to which a novel idea has given birth. Our fathers were only acquainted with egotism. Egotism is a passionate and exaggerated love of self, which leads a man to connect everything with his own person, and to prefer himself to everything in the world. Individualism is a mature and calm feeling, which disposes each member of the community to sever himself from the mass of his fellow-creatures; and to draw apart with his family and his friends; so that, after he has thus formed a little circle of his own, he willingly leaves society at large to itself. Egotism originates in blind instinct: individualism proceeds from erroneous judgment more than from depraved feelings; it originates as much in the deficiencies of the mind as in the perversity of the heart. Egotism blights the germ of all virtue; individualism, at first, only saps the virtues of public life; but, in the long run, it attacks and destroys all others, and is at length absorbed in downright egotism. Egotism is a vice as old as the world, which does not belong to one form of society more than to another: individualism is of democratic origin, and it threatens to spread in the same ratio as the equality of conditions.
+
+Amongst aristocratic nations, as families remain for centuries in the same condition, often on the same spot, all generations become as it were contemporaneous. A man almost always knows his forefathers, and respects them: he thinks he already sees his remote descendants, and he loves them. He willingly imposes duties on himself towards the former and the latter; and he will frequently sacrifice his personal gratifications to those who went before and to those who will come after him. Aristocratic institutions have, moreover, the effect of closely binding every man to several of his fellow-citizens. As the classes of an aristocratic people are strongly marked and permanent, each of them is regarded by its own members as a sort of lesser country, more tangible and more cherished than the country at large. As in aristocratic communities all the citizens occupy fixed positions, one above the other, the result is that each of them always sees a man above himself whose patronage is necessary to him, and below himself another man whose co-operation he may claim. Men living in aristocratic ages are therefore almost always closely attached to something placed out of their own sphere, and they are often disposed to forget themselves. It is true that in those ages the notion of human fellowship is faint, and that men seldom think of sacrificing themselves for mankind; but they often sacrifice themselves for other men. In democratic ages, on the contrary, when the duties of each individual to the race are much more clear, devoted service to any one man becomes more rare; the bond of human affection is extended, but it is relaxed.
+
+Amongst democratic nations new families are constantly springing up, others are constantly falling away, and all that remain change their condition; the woof of time is every instant broken, and the track of generations effaced. Those who went before are soon forgotten; of those who will come after no one has any idea: the interest of man is confined to those in close propinquity to himself. As each class approximates to other classes, and intermingles with them, its members become indifferent and as strangers to one another. Aristocracy had made a chain of all the members of the community, from the peasant to the king: democracy breaks that chain, and severs every link of it. As social conditions become more equal, the number of persons increases who, although they are neither rich enough nor powerful enough to exercise any great influence over their fellow-creatures, have nevertheless acquired or retained sufficient education and fortune to satisfy their own wants. They owe nothing to any man, they expect nothing from any man; they acquire the habit of always considering themselves as standing alone, and they are apt to imagine that their whole destiny is in their own hands. Thus not only does democracy make every man forget his ancestors, but it hides his descendants, and separates his contemporaries from him; it throws him back forever upon himself alone, and threatens in the end to confine him entirely within the solitude of his own heart.

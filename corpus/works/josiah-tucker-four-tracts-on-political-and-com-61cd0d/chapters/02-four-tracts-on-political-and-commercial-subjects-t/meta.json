@@ -1,0 +1,26 @@
+{
+  "work_slug": "josiah-tucker-four-tracts-on-political-and-com-61cd0d",
+  "work_title": "Four Tracts on Political and Commercial Subjects",
+  "chapter_number": 2,
+  "chapter_title": "Four Tracts, On Political and Commercial Subjects, Tract I.: The great Question resolved, Whether a rich Country can sta",
+  "chapter_slug": "02-four-tracts-on-political-and-commercial-subjects-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23856819-8502-5fec-9a5b-402d5cf01009",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1082,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tucker-four-tracts-on-political-and-commercial-subjects"
+    }
+  ]
+}

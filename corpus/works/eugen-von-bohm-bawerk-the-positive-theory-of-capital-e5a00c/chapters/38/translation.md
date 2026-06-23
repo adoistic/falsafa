@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c"
 work_title: The Positive Theory of Capital
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 38
-chapter_title: "Book VI, Chapter I: The Loan and Loan Interest"
+chapter_title: "Book VI: The Source of Interest, Book VI, Chapter I: The Loan and Loan Interest"
 chapter_slug: 38
 variant_id: "e90e0502-7b98-50ff-91ae-203dc1073791"
 content_type: translation

@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-on-benefits-5f8e5d",
+  "work_title": "On Benefits",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cd2d1f66-c773-5f22-ad4d-6f9f1e641131",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4198,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi013"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1ad7a57a-bef0-5c39-b913-4c18212a6a29",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6613,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

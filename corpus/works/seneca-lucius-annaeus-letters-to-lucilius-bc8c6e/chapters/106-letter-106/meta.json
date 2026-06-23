@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 106,
+  "chapter_title": "Letter 106",
+  "chapter_slug": "106-letter-106",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1fc30682-1e78-578a-a221-0012a54a3e69",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 516,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b668b86e-7237-5f19-b0af-5e8f8e42535a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 777,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

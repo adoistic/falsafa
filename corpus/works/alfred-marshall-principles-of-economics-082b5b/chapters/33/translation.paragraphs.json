@@ -1,162 +1,147 @@
 [
   {
-    "id": "p-c44c6f",
+    "id": "p-f7f6ca",
     "offset": 0,
-    "text": "§ 1. We have next to inquire what causes govern supply prices, that is prices which dealers are willing to accept for different amounts. In the last chapter we looked at the affairs of only a single day; and supposed the stocks offered for sale to be already in existence. But of course these stocks are dependent on the amount of wheat sown in the preceding year; and that, in its turn, was largely influenced by the farmers' guesses as to the price which they would get for it in this year. This is the point at which we have to work in the present chapter."
+    "text": "§ 1. Bread satisfies man's wants directly: and the demand for it is said to be direct. But a flour mill and an oven satisfy wants only indirectly, by helping to make bread, etc., and the demand for them is said to be indirect. More generally:—"
   },
   {
-    "id": "p-bc9ee1",
-    "offset": 561,
-    "text": "Even in the corn-exchange of a country town on a market-day the equilibrium price is affected by calculations of the future relations of production and consumption; while in the leading corn-markets of America and Europe dealings for future delivery already predominate and are rapidly weaving into one web all the leading threads of trade in corn throughout the whole world. Some of these dealings in \"futures\" are but incidents in speculative manœuvres; but in the main they are governed by calculations of the world's consumption on the one hand, and of the existing stocks and coming harvests in the Northern and Southern hemispheres on the other. Dealers take account of the areas sown with each kind of grain, of the forwardness and weight of the crops, of the supply of things which can be used as substitutes for grain, and of the things for which grain can be used as a substitute. Thus, when buying or selling barley, they take account of the supplies of such things as sugar, which can be used as substitutes for it in brewing, and again of all the various feeding stuffs, a scarcity of which might raise the value of barley for consumption on the farm. If it is thought that the growers of any kind of grain in any part of the world have been losing money, and are likely to sow a less area for a future harvest; it is argued that prices are likely to rise as soon as that harvest comes into sight, and its shortness is manifest to all. Anticipations of that rise exercise an influence on present sales for future delivery, and that in its turn influences cash prices; so that these prices are indirectly affected by estimates of the expenses of producing further supplies."
+    "id": "p-04d18f",
+    "offset": 245,
+    "text": "The demand for raw materials and other means of production is indirect and is derived from the direct demand for those directly serviceable products which they help to produce."
   },
   {
-    "id": "p-09d31f",
-    "offset": 2248,
-    "text": "But in this and the following chapters we are specially concerned with movements of price ranging over still longer periods than those for which the most far-sighted dealers in futures generally make their reckoning: we have to consider the volume of production adjusting itself to the conditions of the market, and the normal price being thus determined at the position of stable equilibrium of normal demand and normal supply."
+    "id": "p-9a8423",
+    "offset": 423,
+    "text": "The services of the flour mill and the oven are joined together in the ultimate product, bread: the demand for them is therefore called a joint demand. Again, hops and malt are complementary to one another; and are joined together in the common destination of ale: and so on. Thus the demand for each of several complementary things is derived from the services which they jointly render in the production of some ultimate product, as for instance a loaf of bread, a cask of ale. In other words there is a joint demand for the services which any of these things render in helping to produce a thing which satisfies wants directly and for which there is therefore a direct demand: the direct demand for the finished product is in effect split up into many derived demands for the things used in producing it."
   },
   {
-    "id": "p-820f54",
-    "offset": 2678,
-    "text": "§ 2. In this discussion we shall have to make frequent use of the terms cost and expenses of production; and some provisional account of them must be given before proceeding further."
+    "id": "p-4a958a",
+    "offset": 1232,
+    "text": "To take another illustration, the direct demand for houses gives rise to a joint demand for the labour of all the various building trades, and for bricks, stone, wood, etc. which are factors of production of building work of all kinds, or as we may say for shortness, of new houses. The demand for any one of these, as for instance the labour of plasterers, is only an indirect or derived demand."
   },
   {
-    "id": "p-4072c1",
-    "offset": 2862,
-    "text": "We may revert to the analogy between the supply price and the demand price of a commodity. Assuming for the moment that the efficiency of production depends solely upon the exertions of the workers, we saw that \"the price required to call forth the exertion necessary for producing any given amount of a commodity may be called the supply price for that amount, with reference of course to a given unit of time.\" But now we have to take account of the fact that the production of a commodity generally requires many different kinds of labour and the use of capital in many forms. The exertions of all the different kinds of labour that are directly or indirectly involved in making it; together with the abstinences or rather the waitings required for saving the capital used in making it: all these efforts and sacrifices together will be called the real cost of production of the commodity. The sums of money that have to be paid for these efforts and sacrifices will be called either its money cost of production, or, for shortness, its expenses of production; they are the prices which have to be paid in order to call forth an adequate supply of the efforts and waitings that are required for making it; or, in other words, they are its supply price."
+    "id": "p-5b8d8c",
+    "offset": 1630,
+    "text": "Let us pursue this last illustration with reference to a class of events that are of frequent occurrence in the labour market; the period over which the disturbance extends being short, and the causes of which we have to take account as readjusting demand and supply being only such as are able to operate within that short period."
   },
   {
-    "id": "p-386e5d",
-    "offset": 4119,
-    "text": "The analysis of the expenses of production of a commodity might be carried backward to any length; but it is seldom worth while to go back very far. It is for instance often sufficient to take the supply prices of the different kinds of raw materials used in any manufacture as ultimate facts, without analysing these supply prices into the several elements of which they are composed; otherwise indeed the analysis would never end. We may then arrange the things that are required for making a commodity into whatever groups are convenient, and call them its factors of production. Its expenses of production when any given amount of it is produced are thus the supply prices of the corresponding quantities of its factors of production. And the sum of these is the supply price of that amount of the commodity."
+    "id": "p-69122e",
+    "offset": 1963,
+    "text": "This case has important practical bearings, which give it a special claim on our attention; but we should notice that, referring as it does to short periods, it is an exception to our general rule of selecting illustrations in this and the neighbouring chapters from cases in which there is time enough for the full long-period action of the forces of supply to be developed."
   },
   {
-    "id": "p-0e9018",
-    "offset": 4933,
-    "text": "§ 3. The typical modern market is often regarded as that in which manufacturers sell goods to wholesale dealers at prices into which but few trading expenses enter. But taking a broader view, we may consider that the supply price of a commodity is the price at which it will be delivered for sale to that group of persons whose demand for it we are considering; or, in other words, in the market which we have in view. On the character of that market will depend how many trading expenses have to be reckoned to make up the supply price. For instance, the supply price of wood in the neighbourhood of Canadian forests often consists almost exclusively of the price of the labour of lumber men: but the supply price of the same wood in the wholesale London market consists in a large measure of freights; while its supply price to a small retail buyer in an English country town is more than half made up of the charges of the railways and middlemen who have brought what he wants to his doors, and keep a stock of it ready for him. Again, the supply price of a certain kind of labour may for some purposes be divided up into the expenses of rearing, of general education and of special trade education. The possible combinations are numberless; and though each may have incidents of its own which will require separate treatment in the complete solution of any problem connected with it, yet all such incidents may be ignored, so far as the general reasonings of this Book are concerned."
+    "id": "p-b4cf15",
+    "offset": 2340,
+    "text": "Let us then suppose that the supply and demand for building being in equilibrium, there is a strike on the part of one group of workers, say the plasterers, or that there is some other disturbance to the supply of plasterers' labour. In order to isolate and make a separate study of the demand for that factor, we suppose firstly that the general conditions of the demand for new houses remain unchanged (that is, that the demand schedule for new houses remains valid); and secondly we assume that there is no change in the general conditions of supply of the other factors, two of which are of course the business faculties and the business organizations of the master builders; (that is, we assume that their lists of supply prices also remain valid). Then a temporary check to the supply of plasterers' labour will cause a proportionate check to the amount of building: the demand price for the diminished number of houses will be a little higher than before; and the supply prices for the other factors of production will not be greater than before. Thus new houses can now be sold at prices which exceed by a good margin the sum of the prices at which these other requisites for the production of houses can be bought; and that margin gives the limit to the possible rise of the price that will be offered for plasterers' labour, on the supposition that plasterers' labour is indispensable. The different amounts of this margin, corresponding to different checks to the supply of plasterers' labour, are governed by the general rule that:— The price that will be offered for any thing used in producing a commodity is, for each separate amount for the commodity, limited by the excess of the price at which that amount of the commodity can find purchasers, over the sum of the prices at which the corresponding supplies of the other things needed for making it will be forthcoming."
   },
   {
-    "id": "p-c5e70b",
-    "offset": 6422,
-    "text": "In calculating the expenses of production of a commodity we must take account of the fact that changes in the amounts produced are likely, even when there is no new invention, to be accompanied by changes in the relative quantities of its several factors of production. For instance, when the scale of production increases, horse or steam power is likely to be substituted for manual labour; materials are likely to be brought from a greater distance and in greater quantities, thus increasing those expenses of production which correspond to the work of carriers, middlemen and traders of all kinds."
+    "id": "p-b54fd9",
+    "offset": 4228,
+    "text": "To use technical terms, the demand schedule for any factor of production of a commodity can be derived from that for the commodity by subtracting from the demand price of each separate amount of the commodity the sum of the supply prices for corresponding amounts of the other factors."
   },
   {
-    "id": "p-3ff749",
-    "offset": 7024,
-    "text": "As far as the knowledge and business enterprise of the producers reach, they in each case choose those factors of production which are best for their purpose; the sum of the supply prices of those factors which are used is, as a rule, less than the sum of the supply prices of any other set of factors which could be substituted for them; and whenever it appears to the producers that this is not the case, they will, as a rule, set to work to substitute the less expensive method. And further on we shall see how in a somewhat similar way society substitutes one undertaker for another who is less efficient in proportion to his charges. We may call this, for convenience of reference, The principle of substitution."
+    "id": "p-870b54",
+    "offset": 4515,
+    "text": "§ 2. When however we come to apply this theory to the actual conditions of life, it will be important to remember that if the supply of one factor is disturbed, the supply of others is likely to be disturbed also. In particular, when the factor of which the supply is disturbed is one class of labour, as that of the plasterers, the employers' earnings generally act as a buffer. That is to say, the loss falls in the first instance on them; but by discharging some of their workmen and lowering the wages of others, they ultimately distribute a great part of it among the other factors of production. The details of the process by which this is effected are various, and depend on the action of trade combinations, on the higgling and bargaining of the market, and on other causes with which we are not just at present concerned."
   },
   {
-    "id": "p-bc181a",
-    "offset": 7743,
-    "text": "The applications of this principle extend over almost every field of economic inquiry."
+    "id": "p-a7fc12",
+    "offset": 5347,
+    "text": "Let us inquire what are the conditions, under which a check to the supply of a thing that is wanted not for direct use, but as a factor of production of some commodity, may cause a very great rise in its price. The first condition is that the factor itself should be essential, or nearly essential to the production of the commodity, no good substitute being available at a moderate price."
   },
   {
-    "id": "p-ff4e76",
-    "offset": 7831,
-    "text": "§ 4. The position then is this: we are investigating the equilibrium of normal demand and normal supply in their most general form; we are neglecting those features which are special to particular parts of economic science, and are confining our attention to those broad relations which are common to nearly the whole of it. Thus we assume that the forces of demand and supply have free play; that there is no close combination among dealers on either side, but each acts for himself, and there is much free competition; that is, buyers generally compete freely with buyers, and sellers compete freely with sellers. But though everyone acts for himself, his knowledge of what others are doing is supposed to be generally sufficient to prevent him from taking a lower or paying a higher price than others are doing. This is assumed provisionally to be true both of finished goods and of their factors of production, of the hire of labour and of the borrowing of capital. We have already inquired to some extent, and we shall have to inquire further, how far these assumptions are in accordance with the actual facts of life. But meanwhile this is the supposition on which we proceed; we assume that there is only one price in the market at one and the same time; it being understood that separate allowance is made, when necessary, for differences in the expense of delivering goods to dealers in different parts of the market; including allowance for the special expenses of retailing, if it is a retail market."
+    "id": "p-254743",
+    "offset": 5738,
+    "text": "The second condition is that the commodity in the production of which it is a necessary factor, should be one for which the demand is stiff and inelastic; so that a check to its supply will cause consumers to offer a much increased price for it rather than go without it; and this of course includes the condition that no good substitutes for the commodity are available at a price but little higher than its equilibrium price. If the check to house building raises the price of houses very much, builders, anxious to secure the exceptional profits, will bid against one another for such plasterers' labour as there is in the market."
   },
   {
-    "id": "p-f589d8",
-    "offset": 9344,
-    "text": "In such a market there is a demand price for each amount of the commodity, that is, a price at which each particular amount of the commodity can find purchasers in a day or week or year. The circumstances which govern this price for any given amount of the commodity vary in character from one problem to another; but in every case the more of a thing is offered for sale in a market the lower is the price at which it will find purchasers; or in other words, the demand price for each bushel or yard diminishes with every increase in the amount offered."
+    "id": "p-7f6f69",
+    "offset": 6373,
+    "text": "The third condition is that only a small part of the expenses of production of the commodity should consist of the price of this factor. Since the plasterer's wages are but a small part of the total expenses of building a house, a rise of even 50 per cent. in them would add but a very small percentage to the expenses of production of a house and would check demand but little."
   },
   {
-    "id": "p-e8be69",
-    "offset": 9900,
-    "text": "The unit of time may be chosen according to the circumstances of each particular problem: it may be a day, a month, a year, or even a generation: but in every case it must be short relatively to the period of the market under discussion. It is to be assumed that the general circumstances of the market remain unchanged throughout this period; that there is, for instance, no change in fashion or taste, no new substitute which might affect the demand, no new invention to disturb the supply."
+    "id": "p-34bb9c",
+    "offset": 6753,
+    "text": "The fourth condition is that even a small check to the amount demanded should cause a considerable fall in the supply prices of other factors of production; as that will increase the margin available for paying a high price for this one. If, for instance, bricklayers and other classes of workmen, or the employers themselves cannot easily find other things to do, and cannot afford to remain idle, they may be willing to work for much lower earnings than before, and this will increase the margin available for paying higher wages to plasterers. These four conditions are independent, and the effects of the last three are cumulative."
   },
   {
-    "id": "p-083ae9",
-    "offset": 10394,
-    "text": "The conditions of normal supply are less definite; and a full study of them must be reserved for later chapters. They will be found to vary in detail with the length of the period of time to which the investigation refers; chiefly because both the material capital of machinery and other business plant, and the immaterial capital of business skill and ability and organization, are of slow growth and slow decay."
+    "id": "p-d31234",
+    "offset": 7390,
+    "text": "The rise in plasterers' wages would be checked if it were possible either to avoid the use of plaster, or to get the work done tolerably well and at a moderate price by people outside the plasterers' trade: the tyranny, which one factor of production of a commodity might in some cases exercise over the other factors through the action of derived demand, is tempered by the principle of substitution."
   },
   {
-    "id": "p-0da614",
-    "offset": 10809,
-    "text": "Let us call to mind the \"representative firm,\" whose economies of production, internal and external, are dependent on the aggregate volume of production of the commodity that it makes; and, postponing all further study of the nature of this dependence, let us assume that the normal supply price of any amount of that commodity may be taken to be its normal expenses of production (including gross earnings of management) by that firm. That is, let us assume that this is the price the expectation of which will just suffice to maintain the existing aggregate amount of production; some firms meanwhile rising and increasing their output, and others falling and diminishing theirs; but the aggregate production remaining unchanged. A price higher than this would increase the growth of the rising firms, and slacken, though it might not arrest, the decay of the falling firms; with the net result of an increase in the aggregate production. On the other hand, a price lower than this would hasten the decay of the falling firms, and slacken the growth of the rising firms; and on the whole diminish production: and a rise or fall of price would affect in like manner though perhaps not in an equal degree those great joint-stock companies which often stagnate, but seldom die."
+    "id": "p-417f32",
+    "offset": 7793,
+    "text": "Again, an increased difficulty in obtaining one of the factors of a finished commodity can often be met by modifying the character of the finished product. Some plasterers' labour may be indispensable; but people are often in doubt how much plaster work it is worth while to have in their houses, and if there is a rise in its price they will have less of it. The intensity of the satisfaction of which they would be deprived if they had a little less of it, is its marginal utility; the price which they are just willing to pay in order to have it, is the true demand price for plasterers' work up to the amount which is being used."
   },
   {
-    "id": "p-1a4138",
-    "offset": 12087,
-    "text": "§ 5. To give definiteness to our ideas let us take an illustration from the woollen trade. Let us suppose that a person well acquainted with the woollen trade sets himself to inquire what would be the normal supply price of a certain number of millions of yards annually of a particular kind of cloth. He would have to reckon (i) the price of the wool, coal, and other materials which would be used up in making it, (ii) wear-and-tear and depreciation of the buildings, machinery and other fixed capital, (iii) interest and insurance on all the capital, (iv) the wages of those who work in the factories, and (v) the gross earnings of management (including insurance against loss), of those who undertake the risks, who engineer and superintend the working. He would of course estimate the supply prices of all these different factors of production of the cloth with reference to the amounts of each of them that would be wanted, and on the supposition that the conditions of supply would be normal; and he would add them all together to find the supply price of the cloth."
+    "id": "p-f20a59",
+    "offset": 8428,
+    "text": "So again there is a joint demand for malt and hops in ale. But their proportions can be varied. A higher price can be got for an ale which differs from others only in containing more hops; and this excess price represents the demand for hops."
   },
   {
-    "id": "p-e8b520",
-    "offset": 13162,
-    "text": "Let us suppose a list of supply prices (or a supply schedule) made on a similar plan to that of our list of demand prices : the supply price of each amount of the commodity in a year, or any other unit of time, being written against that amount. As the flow, or (annual) amount of the commodity increases, the supply price may either increase or diminish; or it may even alternately increase and diminish. For if nature is offering a sturdy resistance to man's efforts to wring from her a larger supply of raw material, while at that particular stage there is no great room for introducing important new economies into the manufacture, the supply price will rise; but if the volume of production were greater, it would perhaps be profitable to substitute largely machine work for hand work and steam power for muscular force; and the increase in the volume of production would have diminished the expenses of production of the commodity of our representative firm. But those cases in which the supply price falls as the amount increases involve special difficulties of their own; and they are postponed to chapter XII. of this Book."
+    "id": "p-c8132e",
+    "offset": 8672,
+    "text": "The relations between plasterers, bricklayers, etc., are representative of much that is both instructive and romantic in the history of alliances and conflicts between trades-unions in allied trades. But the most numerous instances of joint demand are those of the demand for a raw material and the operatives who work it up; as for instance cotton or jute or iron or copper, and those who work up these several materials. Again, the relative prices of different articles of food vary a good deal with the supply of skilled cooks' labour: thus for instance many kinds of meat and many parts of vegetables which are almost valueless in America, where skilled cooks are rare and expensive, have a good value in France, where the art of cooking is widely diffused."
   },
   {
-    "id": "p-38d080",
-    "offset": 14296,
-    "text": "§ 6. When therefore the amount produced (in a unit of time) is such that the demand price is greater than the supply price, then sellers receive more than is sufficient to make it worth their while to bring goods to market to that amount; and there is at work an active force tending to increase the amount brought forward for sale. On the other hand, when the amount produced is such that the demand price is less than the supply price, sellers receive less than is sufficient to make it worth their while to bring goods to market on that scale; so that those who were just on the margin of doubt as to whether to go on producing are decided not to do so, and there is an active force at work tending to diminish the amount brought forward for sale. When the demand price is equal to the supply price, the amount produced has no tendency either to be increased or to be diminished; it is in equilibrium."
+    "id": "p-2d5401",
+    "offset": 9435,
+    "text": "§ 3. We have already discussed the way in which the aggregate demand for any commodity is compounded of the demands of the different groups of people who may need it. But we now may extend this notion of composite demand to requisites of production which are needed by several groups of producers."
   },
   {
-    "id": "p-635989",
-    "offset": 15202,
-    "text": "When demand and supply are in equilibrium, the amount of the commodity which is being produced in a unit of time may be called the equilibrium-amount, and the price at which it is being sold may be called the equilibrium-price."
+    "id": "p-017f1f",
+    "offset": 9734,
+    "text": "Nearly every raw material and nearly every kind of labour is applied in many different branches of industry, and contributes to the production of a great variety of commodities. Each of these commodities has its own direct demand; and from that the derived demand for any of the things used in making it can be found, and the thing is \"distributed between its various uses\" in the manner which we have already discussed. The various uses are rivals, or competitors with one another; and the corresponding derived demands are rival or competitive demands relatively to one another. But in relation to the supply of the product, they co-operate with one another; being \"compounded\" into the total demand that carries off the supply: in just the same way as the partial demands of several classes of society for a finished commodity are aggregated, or compounded together into the total demand for it."
   },
   {
-    "id": "p-d05f4b",
-    "offset": 15431,
-    "text": "Such an equilibrium is stable; that is, the price, if displaced a little from it, will tend to return, as a pendulum oscillates about its lowest point; and it will be found to be a characteristic of stable equilibria that in them the demand price is greater than the supply price for amounts just less than the equilibrium amount, and vice versâ. For when the demand price is greater than the supply price, the amount produced tends to increase. Therefore, if the demand price is greater than the supply price for amounts just less than an equilibrium amount; then, if the scale of production is temporarily diminished somewhat below that equilibrium amount, it will tend to return; thus the equilibrium is stable for displacements in that direction. If the demand price is greater than the supply price for amounts just less than the equilibrium amount, it is sure to be less than the supply price for amounts just greater: and therefore, if the scale of production is somewhat increased beyond the equilibrium position, it will tend to return; and the equilibrium will be stable for displacements in that direction also."
+    "id": "p-f1f431",
+    "offset": 10634,
+    "text": "§ 4. We may now pass to consider the case of joint products: i.e. of things which cannot easily be produced separately; but are joined in a common origin, and may therefore be said to have a joint supply, such as beef and hides, or wheat and straw. This case corresponds to that of things which have a joint demand, and it may be discussed almost in the same words, by merely substituting \"demand\" for \"supply,\" and vice versâ. As there is a joint demand for things joined in a common destination: so there is a joint supply of things which have a common origin. The single supply of the common origin is split up into so many derived supplies of the things that proceed from it."
   },
   {
-    "id": "p-6694c6",
-    "offset": 16555,
-    "text": "When demand and supply are in stable equilibrium, if any accident should move the scale of production from its equilibrium position, there will be instantly brought into play forces tending to push it back to that position; just as, if a stone hanging by a string is displaced from its equilibrium position, the force of gravity will at once tend to bring it back to its equilibrium position. The movements of the scale of production about its position of equilibrium will be of a somewhat similar kind."
+    "id": "p-5f7900",
+    "offset": 11315,
+    "text": "For instance, since the repeal of the Corn Laws much of the wheat consumed in England has been imported, of course without any straw. This has caused a scarcity and a consequent rise in the price of straw, and the farmer who grows wheat looks to the straw for a great part of the value of the crop. The value of straw then is high in countries which import wheat, and low in those which export wheat. In the same way the price of mutton in the wool-producing districts of Australia was at one time very low. The wool was exported, the meat had to be consumed at home; and as there was no great demand for it, the price of the wool had to defray almost the whole of the joint expenses of production of the wool and the meat. Afterwards the low price of meat gave a stimulus to the industries of preserving meat for exportation, and now its price in Australia is higher."
   },
   {
-    "id": "p-635a7a",
-    "offset": 17060,
-    "text": "But in real life such oscillations are seldom as rhythmical as those of a stone hanging freely from a string; the comparison would be more exact if the string were supposed to hang in the troubled waters of a mill-race, whose stream was at one time allowed to flow freely, and at another partially cut off. Nor are these complexities sufficient to illustrate all the disturbances with which the economist and the merchant alike are forced to concern themselves. If the person holding the string swings his hand with movements partly rhythmical and partly arbitrary, the illustration will not outrun the difficulties of some very real and practical problems of value. For indeed the demand and supply schedules do not in practice remain unchanged for a long time together, but are constantly being changed; and every change in them alters the equilibrium amount and the equilibrium price, and thus gives new positions to the centres about which the amount and the price tend to oscillate."
+    "id": "p-81ac5c",
+    "offset": 12185,
+    "text": "There are very few cases of joint products the cost of production of both of which together is exactly the same as that of one of them alone. So long as any product of a business has a market value, it is almost sure to have devoted to it some special care and expense, which would be diminished, or dispensed with if the demand for that product were to fall very much. Thus, for instance, if straw were valueless, farmers would exert themselves more than they do to make the ear bear as large a proportion as possible to the stalk. Again, the importation of foreign wool has caused English sheep to be adapted by judicious crossing and selection so as to develop heavy weights of good meat at an early age, even at the expense of some deterioration of their wool. It is only when one of two things produced by the same process is valueless, unsaleable, and yet does not involve any expense for its removal, that there is no inducement to attempt to alter its amount; and, it is only in these exceptional cases that we have no means of assigning its separate supply price to each of the joint products. For when it is possible to modify the proportions of these products, we can ascertain what part of the whole expense of the process of production would be saved, by so modifying these proportions as slightly to diminish the amount of one of the joint products without affecting the amounts of the others. That part of the expense is the expense of production of the marginal element of that product; it is the supply price of which we are in search."
   },
   {
-    "id": "p-c2b6f1",
-    "offset": 18049,
-    "text": "These considerations point to the great importance of the element of time in relation to demand and supply, to the study of which we now proceed. We shall gradually discover a great many different limitations of the doctrine that the price at which a thing can be produced represents its real cost of production, that is, the efforts and sacrifices which have been directly and indirectly devoted to its production. For, in an age of rapid change such as this, the equilibrium of normal demand and supply does not thus correspond to any distinct relation of a certain aggregate of pleasures got from the consumption of the commodity and an aggregate of efforts and sacrifices involved in producing it: the correspondence would not be exact, even if normal earnings and interest were exact measures of the efforts and sacrifices for which they are the money payments. This is the real drift of that much quoted, and much-misunderstood doctrine of Adam Smith and other economists that the normal, or \"natural,\" value of a commodity is that which economic forces tend to bring about in the long run. It is the average value which economic forces would bring about if the general conditions of life were stationary for a run of time long enough to enable them all to work out their full effect."
+    "id": "p-776dd0",
+    "offset": 13739,
+    "text": "But these are exceptional cases. It more frequently happens that a business, or even an industry finds its advantage in using a good deal of the same plant, technical skill, and business organization for several classes of products. In such cases the cost of anything used for several purposes has to be defrayed by its fruits in all of them: but there is seldom any rule of nature to determine either the relative importance of these uses, or the proportions in which the total cost should be distributed among them: much depends on the changing features of markets."
   },
   {
-    "id": "p-f136ad",
-    "offset": 19341,
-    "text": "But we cannot foresee the future perfectly. The unexpected may happen; and the existing tendencies may be modified before they have had time to accomplish what appears now to be their full and complete work. The fact that the general conditions of life are not stationary is the source of many of the difficulties that are met with in applying economic doctrines to practical problems."
+    "id": "p-3ced78",
+    "offset": 14308,
+    "text": "§ 5. We may pass to the problem of composite supply which is analogous to that of composite demand. A demand can often be satisfied by any one of several routes, according to the principle of substitution. These various routes are rivals or competitors with one another; and the corresponding supplies of commodities are rival, or competitive supplies relatively to one another. But in relation to the demand they co-operate with one another; being \"compounded\" into the total supply that meets the demand."
   },
   {
-    "id": "p-813e4f",
-    "offset": 19728,
-    "text": "Of course Normal does not mean Competitive. Market prices and Normal prices are alike brought about by a multitude of influences, of which some rest on a moral basis and some on a physical; of which some are competitive and some are not. It is to the persistence of the influences considered, and the time allowed for them to work out their effects that we refer when contrasting Market and Normal price, and again when contrasting the narrower and the broader use of the term Normal price."
+    "id": "p-3ba212",
+    "offset": 14816,
+    "text": "If the causes which govern their production are nearly the same, they may for many purposes be treated as one commodity. For instance, beef and mutton may be treated as varieties of one commodity for many purposes; but they must be treated as separate for others, as for instance for those in which the question of the supply of wool enters. Rival things are however often not finished commodities, but factors of production: for instance, there are many rival fibres which are used in making ordinary printing paper. We have just noticed how the fierce action of derived demand for one of several complementary supplies, as e.g. for the supply of plasterers' labour, was liable to be moderated, when the demand was met by the competitive supply of a rival thing, which could be substituted for it."
   },
   {
-    "id": "p-bf5e87",
-    "offset": 20220,
-    "text": "§ 7. The remainder of the present volume will be chiefly occupied with interpreting and limiting this doctrine that the value of a thing tends in the long run to correspond to its cost of production. In particular the notion of equilibrium, which has been treated rather slightly in this chapter, will be studied more carefully in chapters V. and XII. of this Book: and some account of the controversy whether \"cost of production\" or \"utility\" governs value will be given in Appendix I. But it may be well to say a word or two here on this last point."
+    "id": "p-862482",
+    "offset": 15616,
+    "text": "§ 6. All the four chief problems which have been discussed in this chapter have some bearing on the causes that govern the value of almost every commodity: and many of the most important cross connections between the values of different commodities are not obvious at first sight."
   },
   {
-    "id": "p-24203d",
-    "offset": 20773,
-    "text": "We might as reasonably dispute whether it is the upper or the under blade of a pair of scissors that cuts a piece of paper, as whether value is governed by utility or cost of production. It is true that when one blade is held still, and the cutting is effected by moving the other, we may say with careless brevity that the cutting is done by the second; but the statement is not strictly accurate, and is to be excused only so long as it claims to be merely a popular and not a strictly scientific account of what happens."
+    "id": "p-fa2290",
+    "offset": 15898,
+    "text": "Thus when charcoal was generally used in making iron, the price of leather depended in some measure on that of iron; and the tanners petitioned for the exclusion of foreign iron in order that the demand on the part of English iron smelters for oak charcoal might cause the production of English oak to be kept up, and thus prevent oak bark from becoming dear. This instance may serve to remind us of the way in which an excessive demand for a thing may cause its sources of supply to be destroyed, and thus render scarce any joint products that it may have: for the demand for wood on the part of the ironmakers led to a relentless destruction of many forests in England. Again, an excessive demand for lamb was assigned as a cause of the prevailing scarcity of sheep some years ago; while some argued on the contrary that the better the price to be got for spring lamb sold to the rich, the more profitable would be the production of sheep, and the cheaper would mutton be for the people. The fact is that an increase of demand may have opposite effects according as it does or does not act so suddenly as to prevent producers from adapting their action to it."
   },
   {
-    "id": "p-9c18ec",
-    "offset": 21298,
-    "text": "In the same way, when a thing already made has to be sold, the price which people will be willing to pay for it will be governed by their desire to have it, together with the amount they can afford to spend on it. Their desire to have it depends partly on the chance that, if they do not buy it, they will be able to get another thing like it at as low a price: this depends on the causes that govern the supply of it, and this again upon cost of production. But it may so happen that the stock to be sold is practically fixed. This, for instance, is the case with a fish market, in which the value of fish for the day is governed almost exclusively by the stock on the slabs in relation to the demand: and if a person chooses to take the stock for granted, and say that the price is governed by demand, his brevity may perhaps be excused so long as he does not claim strict accuracy. So again it may be pardonable, but it is not strictly accurate to say that the varying prices which the same rare book fetches, when sold and resold at Christie's auction room, are governed exclusively by demand."
+    "id": "p-bcacf1",
+    "offset": 17061,
+    "text": "Again, the development of railways and other means of communication for the benefit of one trade, as for instance wheat growing in some parts of America and silver mining in others, greatly lowers some of the chief expenses of production of nearly every other product of those districts. Again, the prices of soda, and bleaching materials and other products of industries, the chief raw material of which is salt, move up and down relatively to one another with almost every improvement in the various processes which are used in those industries; and every change in those prices affects the prices of many other goods, for the various products of the salt industries are more or less important factors in many branches of manufacture."
   },
   {
-    "id": "p-f717c7",
-    "offset": 22397,
-    "text": "Taking a case at the opposite extreme, we find some commodities which conform pretty closely to the law of constant return; that is to say, their average cost of production will be very nearly the same whether they are produced in small quantities or in large. In such a case the normal level about which the market price fluctuates will be this definite and fixed (money) cost of production. If the demand happens to be great, the market price will rise for a time above the level; but as a result production will increase and the market price will fall: and conversely, if the demand falls for a time below its ordinary level."
-  },
-  {
-    "id": "p-8d425d",
-    "offset": 23027,
-    "text": "In such a case, if a person chooses to neglect market fluctuations, and to take it for granted that there will anyhow be enough demand for the commodity to insure that some of it, more or less, will find purchasers at a price equal to this cost of production, then he may be excused for ignoring the influence of demand, and speaking of (normal) price as governed by cost of production—provided only he does not claim scientific accuracy for the wording of his doctrine, and explains the influence of demand in its right place."
-  },
-  {
-    "id": "p-4a1614",
-    "offset": 23556,
-    "text": "Thus we may conclude that, as a general rule, the shorter the period which we are considering, the greater must be the share of our attention which is given to the influence of demand on value; and the longer the period, the more important will be the influence of cost of production on value. For the influence of changes in cost of production takes as a rule a longer time to work itself out than does the influence of changes in demand. The actual value at any time, the market value as it is often called, is often more influenced by passing events and by causes whose action is fitful and short lived, than by those which work persistently. But in long periods these fitful and irregular causes in large measure efface one another's influence; so that in the long run persistent causes dominate value completely. Even the most persistent causes are however liable to change. For the whole structure of production is modified, and the relative costs of production of different things are permanently altered, from one generation to another."
-  },
-  {
-    "id": "p-b3ea7d",
-    "offset": 24602,
-    "text": "When considering costs from the point of view of the capitalist employer, we of course measure them in money; because his direct concern with the efforts needed for the work of his employees lies in the money payments he must make. His concern with the real costs of their effort and of the training required for it is only indirect, though a monetary assessment of his own labour is necessary for some problems, as will be seen later on. But when considering costs from the social point of view, when inquiring whether the cost of attaining a given result is increasing or diminishing with changing economic conditions, then we are concerned with the real costs of efforts of various qualities, and with the real cost of waiting. If the purchasing power of money, in terms of effort has remained about constant, and if the rate of remuneration for waiting has remained about constant, then the money measure of costs corresponds to the real costs: but such a correspondence is never to be assumed lightly. These considerations will generally suffice for the interpretation of the term Cost in what follows, even where no distinct indication is given in the context."
+    "id": "p-1324fe",
+    "offset": 17799,
+    "text": "Again, cotton and cotton-seed oil are joint products, and the recent fall in the price of cotton is largely due to the improved manufacture and uses of cotton-seed oil: and further, as the history of the cotton famine shows, the price of cotton largely affects that of wool, linen and other things of its own class; while cotton-seed oil is ever opening up new rivalries with things of its own class. Again, many new uses have been found for straw in manufacture; and these inventions are giving value to straw that used to be burnt in the West of America, and tend to hinder the rise in the marginal cost of producing wheat."
   }
 ]

@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 47
-chapter_title: "CHAPTER III: Financial Feudalism"
+chapter_title: "Chapter IV: Real and Apparent Income"
 chapter_slug: 47
 variant_id: "7aed17ac-0eaf-546f-8604-e6a5d2e18e54"
 content_type: translation
@@ -13,35 +13,33 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 628
+word_count: 1347
 source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
 translator: Online Library of Liberty edition
 ---
 
-M. A. Neymarck—Sub-division of transferable securities—Certificates of railway shares—Bonds—Government stock—The “Banque de France”—Loans on landed security—Saving bank deposits—American millionaires and feudal lords.
+Regular incomes vary.—Reduction of income by fall in securities.—French Government stock.—Railway shares.—Fall in landed property.—The increase of capital not automatic.
 
-M. A. NEymarck made a series of studies in 1893, in 1896, and in 1903, in the “Sub-division of transferable securities,” bearing upon government stock, shares and bonds of the “Credit Foncier” (a bank issuing loans upon the security of landed property), and shares and bonds of railway companies representing approximately a capital of 55,000 millions of francs (£2,200,000,000) out of the 85 to 90 milliards of francs (£3,400,000,000 to £3,600,000,000) belonging to French capitalists.
+Among the promoters of various taxes upon income who have put forward various proposals, not one has asked himself the simple question, “What is income, and how is it distinguished from capital?” It is repeatedly stated, for example, that the 3 per cent. paid upon stock of the City of Paris, the Crédit Foncier or the railway companies represents a security paying a fixed rate of interest. This is the established phrase. The conclusion is suggested that on the imposition of so much per cent. upon income every taxpayer knows the precise portion of the total levy which he has to bear. This may seem certain, but it is wrong, for French Government stock does not always bear 3 per cent., and railway bonds and other securities paying a fixed rate of interest pay irregular dividends.
 
-In 1860, the average number of shares in railway companies registered on each certificate was 28.33: on December 31st, 1900, it was 12.49. The number of certificates was 40,846 in 1860 and 112,026 in 1900. The number of certificates has nearly trebled, while the number of small holders of securities has more than doubled. The value of these certificates, at the prices ruling in 1900, was as follows:—
+Instead of exclaiming at the paradox let us look at the facts. I bought 3 per cent. French Government stock at the end of December, 1897, at 103fr. 10; I had to sell at the end of December, 1906, at 95fr. That is a difference of at least 7fr. 85, say an annual loss for nine years of ofr. 87. I must therefore deduct this 87 centimes from my 3 francs of dividend, and my regular income was not 3fr., but 2fr. 13. If the Treasury imposes a tax of 4 per cent. upon my 3 francs I am paying ofr. 12, which upon 2fr. 13, represents an actual rate of 5.68 per cent. But I may fare even worse than this. I bought 3 per cents. at 99fr. at the end of December, 1905, and sold them at the end of December, 1906, at 95fr. 25, that is at a loss of 3fr. 75. I drew a dividend of 3 francs, but this was absorbed by the loss which I sustained on my capital, to which I have to add a further ofr. 75.
 
-That is to say a maximum of 26,000 francs and a minimum of 10,000. Out of 100 shareholders, 75 owned only from 1 to 10 shares. Here we have the “financial feudalism” referred to in Socialist orations.
+Accordingly an income tax would have fallen not only upon a smaller income than the anticipated regular income, but upon a deficit as well: I sustain a loss of ofr. 75 and should have had to pay 4 per cent. on 3 francs, i.e., ofr. 12, which I have to add to my loss. Because I have had the misfortune to buy stock bearing 3 francs as interest at the end of December, 1905, the State is to force me to withdraw ofr. 12 of my capital in order to pay income tax to the State, when, instead of supplying me with a dividend, it has already inflicted a loss of ofr. 75 upon me!
 
-The bonds of the railway companies were distributed as follows:—
+In reviewing other securities with a fixed rate of interest, I find that their dividend is by no means the nominal dividend upon which the tax is placed. Those who want safe investments are recommended to buy railway bonds, and quite rightly on the ground of safety; it offers a double guarantee, that of the Government, and that of the substantial character of the Company.
 
-354,731 of from 1 to 24, say a capital of from
+A woman, a widow, a workman, or a careful clerk buys a 3 per cent. bond in the “Chemin de fer du Nord” at the end of December, 1898, at the price of 478 francs. The holder wants to re-sell at the end of December, 1906, and can only recover 456 francs. The stock has brought in 15 × 8=120 francs. Deducting 22 francs, it has brought in 98fr., i.e. 11fr. per annum or 2fr. 30 per cent.
 
-Nearly 95 per cent. of the shares are the property of investors who hold a maximum number of 100 securities. The total French Government stock is divided among more than five million subscribers. The average is hardly more than 150 francs in interest, say a capital of 5,000 francs. More than 80 per cent. belongs to investors with an income of from two to fifty francs. The number of holders is more than two millions.
+In order to simplify my instance I have not taken actual taxes into account. The holder of a security payable to bearer has only received 13fr. 42 instead of 15 francs, i.e., 107fr. 36 in eight years, from which he must deduct 22 francs. He has therefore received 85fr. 26, i.e., 10fr. 70 per annum or 2fr. 24 per cent.
 
-The Banque de France is an investment patronised by rich men. In 1870 the number of shareholders was 16,062, with an average holding of 12 shares: in 1900 it was 27,136 with an average of 6½: at the end of 1908 it was 31,249, of whom 10,381 owned one share and 17,403 between 2 and 10.
+Take another security of the same kind, a share in the issue of the Crédit Foncier of 1895 at the rate of 2fr. 80. At the end of December, 1897, the price was 499fr., at the end of December, 1906, it was only 463fr., i.e. a decline of 35fr. The gross dividend is 14fr. In nine years it has brought in 126—35=91 fr., i.e. 10fr. 11 per annum, or 2.02 per cent. But this is subject to taxation, and if we again deduct the actual tax, the holder's dividend is reduced to 12fr. 46. In nine years he has received 112fr. 14—35=77fr. 14, yielding him 1.54 per cent. per annum. This is the dividend obtained by the holder of a share in the issue of the Crédit Foncier of 1895.
 
-Of 39,000 shareholders of the Crédit Foncier in 1900, 32,767 owned 10 shares or less.
+At a number of election meetings, and even in the Chamber of Deputies, the income tax is represented as an instrument destined to make railway shareholders disgorge, the shareholders being pictured as vampires which—at the expense of the public—appropriate enormous dividends.
 
-The “Revue Socialiste” has stated the number of deposits in the savings banks in 1904 to be as follows:—
+The holders of shares in the Compagnie du Nord are among those who are thus attacked. But on examining the illusory dividends received by them from 1898 to 1906, this is what I find. At the end of December, 1898, the stock of the Compagnie du Nord stood at 2,110fr., at the end of December, 1906, it had declined to 1,775, i.e. a fall of 335fr. Now in the eight years from 1899 to 1906, inclusive, the total dividend amounted to 550fr., which, after deducting 335fr., leaves 215. The purchaser of a share at the end of December, 1895, has therefore received 26.87fr. per annum, which amounts to 1fr. 27 per cent., having regard to the purchase price. The income tax of 4 per cent. on 550fr. yields 22fr., but since the income was only 215fr., it actually amounts to 10 per cent. The holder of stock may have done even worse by buying stock at the end of June, 1900, at the price of 2,400fr., if he were forced to sell on May 30th, 1907, at the price of 1,769fr.—a loss of 631fr. Supposing that he drew the whole of the dividends from 1900 to 1906, he has received 472fr. in dividends and his account shews a loss of 159fr. Nevertheless he has had to pay 4 per cent. upon this amount of 472fr., in addition to the lump sum assessed on the nominal capital of the securities and the annual tax of ofr.20 upon their capital value assessed upon their average price during the preceding year, so that it is necessary to add, in round numbers, another 50fr. to his loss. This investment in a first class security has therefore resulted, not in a profit, but in an annual loss of 28fr. 50.
 
-It follows from these figures that these 11,767,772 depositors possess an average deposit of 378 francs, constituting a tolerably small property and that of these 11,767,772 proprietors or capitalists (as M. Yves Guyot or M. Paul Leroy-Beaulieu would freely call them) more than half (3,908,800 + 2,291,489) have an “average capital” varying between 49 and 11 francs, while their income varies between 2 fr. 47 and 33 centimes (“Revue socialiste”).
+Take the case of an investment in real property. In some parts of Paris this class of property has depreciated 20 or 30 per cent. in less than ten years, and this should be deducted from the income. And do not upkeep, rebuilding, and improvements frequently represent several years' income?
 
-What do these figures prove? That the savings bank does not represent a concentration of capital. It cannot, therefore, be invoked as an argument in favour of Karl Marx' thesis, but these small deposits none the less represent a sum of four milliards of francs (£160,000,000) and that is a total which is not to be despised.
+As proprietor of an agricultural estate, am I not continually obliged to undertake building, repairs and work of all kinds? If my income from the property is 3,000fr. and I build new stables at a cost of 6,000, am I not deprived of my income for two years?
 
-Twenty-five years ago, in 1882, the savings banks had:—
-
-One knows that the savings bank does not allow of deposits above 1,500 francs. This progress points to the increase of would-be capitalists. So far from decreasing they become more and more numerous, in spite of Karl Marx' law of concentration, which involves the “pauperisation” of the great majority. But Messrs. Rockfeller, Carnegie and perhaps two or three others are multi-millionaires. Be it so, but do they absorb a greater proportion of wealth than the great feudal lords and kings of the good old times? Quite the contrary. Therefore the alleged law of the concentration of capital is not in accordance with the facts.
+Income is only a slice of capital, cut off for convenience in accounts, but it cannot be separated from it; profit and loss can no more stop at a fixed point at the end of a year than the physiological condition of the human body can undergo a sudden change. In order to arrive at a correct statement of income, it is necessary to take into account the rise and fall in the value of capital as well as the nominal rate of interest. The examples that I have given prove that capital does not increase automatically by means of compound interest, as Socialists are pleased to assert who, instead of looking at the facts, only seek for arguments in support of their system.

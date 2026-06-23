@@ -1,0 +1,26 @@
+{
+  "work_slug": "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2",
+  "work_title": "Dialogues Concerning Two New Sciences",
+  "chapter_number": 10,
+  "chapter_title": "Corollary I (1)",
+  "chapter_slug": "10-corollary-i-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dfcc1ecb-16eb-5152-8956-c186bb64c1f5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1518,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/galilei-dialogues-concerning-two-new-sciences"
+    }
+  ]
+}

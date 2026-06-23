@@ -1,0 +1,26 @@
+{
+  "work_slug": "baron-dholbach-essay-on-the-art-of-crawling-for-1e708f",
+  "work_title": "Essay on the Art of Crawling, for the Use of Courtiers",
+  "chapter_number": 1,
+  "chapter_title": "Essay on the Art of Crawling, for the Use of Courtiers",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99b3d43f-cb07-58f8-ae79-9afe799221c8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1886,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/holbach/1776/crawling.htm"
+    }
+  ]
+}

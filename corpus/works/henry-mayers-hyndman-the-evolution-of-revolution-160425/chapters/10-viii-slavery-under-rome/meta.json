@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 10,
+  "chapter_title": "VIII. Slavery under Rome",
+  "chapter_slug": "10-viii-slavery-under-rome",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "545193a8-727d-54cf-9a71-0767e6fdeb34",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3272,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter08.htm"
+    }
+  ]
+}

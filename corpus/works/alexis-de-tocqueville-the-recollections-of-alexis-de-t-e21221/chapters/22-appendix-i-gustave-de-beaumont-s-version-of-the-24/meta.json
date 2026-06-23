@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 22,
+  "chapter_title": "Appendix, I: Gustave De Beaumont’s Version of the 24Th of February.",
+  "chapter_slug": "22-appendix-i-gustave-de-beaumont-s-version-of-the-24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "98586d88-32fc-5840-8140-e7b9bff32749",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1596,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

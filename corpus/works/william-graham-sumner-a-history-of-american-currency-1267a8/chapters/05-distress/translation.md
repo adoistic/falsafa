@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-a-history-of-american-currency-1267a8"
 work_title: A History of American Currency
 author_name: William Graham Sumner
 chapter_number: 5
-chapter_title: DISTRESS.
+chapter_title: Distress.
 chapter_slug: "05-distress"
 variant_id: "23c30326-5ca5-5ae1-a7b1-cf83a20bd267"
 content_type: translation

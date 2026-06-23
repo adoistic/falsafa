@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 79,
+  "chapter_title": "A Concurrent Circulation of Gold and Silver [1878]",
+  "chapter_slug": "79-a-concurrent-circulation-of-gold-and-silver-1878",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f8847cd-4f1d-591a-b535-61e2dcd08fcb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9554,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

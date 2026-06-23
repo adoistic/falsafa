@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 27,
+  "chapter_title": "Ninth Proposition. Property is impossible, because it is powerless against Property.",
+  "chapter_slug": "27-ninth-proposition-property-is-impossible-because-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f4d8f36-ad74-597c-8d75-2e5fc275aaf1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1389,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch04.htm"
+    }
+  ]
+}

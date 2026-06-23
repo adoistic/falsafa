@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-the-tyranny-of-socialism-1e5c8b",
+  "work_title": "The Tyranny of Socialism",
+  "chapter_number": 46,
+  "chapter_title": "Chapter III, The Executive, the Judicature, and Strikes.",
+  "chapter_slug": "46",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ee85ae3-f2cd-5ba2-b98e-d428cdc60e43",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2014,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-the-tyranny-of-socialism"
+    }
+  ]
+}

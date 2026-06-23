@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 11
-chapter_title: "Part II, Chapter VIII: The Production of Gold since 1850"
+chapter_title: "Part II: The Late Fall in the Value of Silver, Part II, Chapter VIII: The Production of Gold since 1850"
 chapter_slug: 11
 variant_id: "d2c3b773-b778-5307-aa32-2b73053bd97a"
 content_type: translation

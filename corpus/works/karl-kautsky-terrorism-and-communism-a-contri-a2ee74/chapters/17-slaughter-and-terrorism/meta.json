@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-terrorism-and-communism-a-contri-a2ee74",
+  "work_title": "Terrorism and Communism: A Contribution to the Natural History of Revolution",
+  "chapter_number": 17,
+  "chapter_title": "Slaughter and Terrorism",
+  "chapter_slug": "17-slaughter-and-terrorism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "074831de-15fa-5e6e-91e7-f6e8fb2c02c1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2167,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1919/terrcomm/ch07.htm"
+    }
+  ]
+}

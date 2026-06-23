@@ -4,7 +4,7 @@ work_slug: "wilhelm-von-humboldt-the-sphere-and-duties-of-governm-76de6e"
 work_title: The Sphere and Duties of Government
 author_name: Wilhelm von Humboldt
 chapter_number: 1
-chapter_title: New and Recent Works PUBLISHED BY JOHN CHAPMAN, 8, KING WILLIAM STREET, STRAND.
+chapter_title: New and Recent Works Published by John Chapman, 8, King William Street, Strand.
 chapter_slug: "01-new-and-recent-works-published-by-john-chapman-8-k"
 variant_id: "79b188c8-b345-5a68-96a0-486a16296cb5"
 content_type: translation

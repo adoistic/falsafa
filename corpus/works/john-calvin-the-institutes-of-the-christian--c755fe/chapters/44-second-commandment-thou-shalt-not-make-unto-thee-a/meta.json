@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 44,
+  "chapter_title": "Second Commandment.: Thou Shalt Not Make Unto Thee Any Graven Image, or Any Likeness of Anything That Is in Heaven Above",
+  "chapter_slug": "44-second-commandment-thou-shalt-not-make-unto-thee-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "02825364-2737-5fb0-bea6-3e022c0d0b32",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1861,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

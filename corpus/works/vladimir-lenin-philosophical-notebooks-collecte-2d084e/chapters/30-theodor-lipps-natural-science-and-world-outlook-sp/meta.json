@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 30,
+  "chapter_title": "Theodor Lipps. Natural Science and World Outlook. (Speech at the 78th Congress of German Natural Scientists in Stuttgart",
+  "chapter_slug": "30-theodor-lipps-natural-science-and-world-outlook-sp",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1e1e871-71c4-5b28-b0b7-f0a4072c85be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 94,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/misc/x11.htm"
+    }
+  ]
+}

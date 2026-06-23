@@ -1,0 +1,26 @@
+{
+  "work_slug": "clara-zetkin-through-dictatorship-to-democrac-1a9a37",
+  "work_title": "Through Dictatorship to Democracy",
+  "chapter_number": 1,
+  "chapter_title": "(1919)",
+  "chapter_slug": "01-1919",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f9e4b5a3-ccff-5e2c-82c8-13b8ffb2d1bc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 94,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/zetkin/1919/xx/dictdem.htm"
+    }
+  ]
+}

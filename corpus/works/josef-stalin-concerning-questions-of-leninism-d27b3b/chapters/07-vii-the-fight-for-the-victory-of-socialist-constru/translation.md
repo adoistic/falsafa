@@ -1,0 +1,155 @@
+---
+work_id: "d27b3b5a-fa51-5923-be07-fa7030da318f"
+work_slug: "josef-stalin-concerning-questions-of-leninism-d27b3b"
+work_title: Concerning Questions of Leninism
+author_name: Josef Stalin
+chapter_number: 7
+chapter_title: VII the Fight for the Victory of Socialist Construction
+chapter_slug: "07-vii-the-fight-for-the-victory-of-socialist-constru"
+variant_id: "2b576101-f778-50b3-82cb-dd475d1a3e87"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 4296
+source_url: "https://www.marxists.org/reference/archive/stalin/works/1926/01/25.htm"
+translator: Marxists Internet Archive edition
+---
+
+I think that disbelief in the victory of socialist construction is the principal error of the “New Opposition.” In my opinion, it is the principal error because from it spring all the other errors of the “New Opposition.” The errors of the “New Opposition” on the questions of NEP, state capitalism, the nature of our socialist industry, the role of the co-operatives under the dictatorship of the proletariat, the methods of fighting the kulaks, the role and importance of the middle peasantry—all these errors are to be traced to the principal error of the opposition, to disbelief in the possibility of completely building a socialist society by the efforts of our country.
+
+What is disbelief in the victory of socialist construction in our country?
+
+It is, first of all, lack of confidence that, owing to certain conditions of development in our country, the main mass of the peasantry can be drawn into the work of socialist construction.
+
+It is, secondly, lack of confidence that the proletariat of our country, which holds the key positions in our national economy, is capable of drawing the main mass of the peasantry into the work of socialist construction. It is from these theses that the opposition tacitly proceeds in its arguments about the paths of our development—no matter whether it does so consciously or unconsciously.
+
+Can the main mass of the Soviet peasantry be drawn into the work of socialist construction?
+
+In the pamphlet The Foundations of Leninism there are two main theses on this subject:
+
+1) “The peasantry in the Soviet Union must not be confused with the peasantry in the West. A peasantry that has been schooled in three revolutions, that fought against the tsar and the power of the bourgeoisie side by side with the proletariat and under the leadership of the proletariat, a peasantry that has received land and peace at the hands of the proletarian revolution and by reason of this has become the reserve of the proletariat—such a peasantry cannot but be different from a peasantry which during the bourgeois revolution fought under the leadership of the liberal bourgeoisie, which received land at the hands of that bourgeoisie, and in view of this became the reserve of the bourgeoisie. It scarcely needs proof that the Soviet peasantry, which has learnt to appreciate its political friendship and political collaboration with the proletariat and which owes its freedom to this friendship and collaboration, cannot but represent exceptionally favourable material for economic collaboration with the proletariat.”
+
+2) “Agriculture in Russia must not be confused with agriculture in the West. There, agriculture is developing along the ordinary lines of capitalism, under conditions of profound differentiation among the peasantry, with large landed estates and private capitalist latifundia at one extreme and pauperism, destitution and wage slavery at the other. Owing to this, disintegration and decay are quite natural there. Not so in Russia. Here agriculture cannot develop along such a path, if for no other reason than that the existence of Soviet power and the nationalisation of the principal instruments and means of production preclude such a development. In Russia the development of agriculture must proceed along a different path, along the path of organising millions of small and middle peasants in co-operatives, along the path of developing in the countryside a mass co-operative movement supported by the state by means of preferential credits. Lenin rightly pointed out in his articles on co-operation that the development of agriculture in our country must proceed along a new path, along the path of drawing the majority of the peasants into socialist construction through the co-operatives, along the path of gradually introducing into agriculture the principles of collectivism, first in the sphere of marketing and later in the sphere of production of agricultural products. . . .
+
+“It scarcely needs proof that the vast majority of the peasantry will eagerly take this new path of development, rejecting the path of private capitalist latifundia and wage slavery, the path of destitution and ruin.”
+
+Are these theses correct?
+
+I think that both theses are correct and incontrovertible for the whole of our construction period under the conditions of NEP.
+
+They are merely the expression of Lenin’s well-known theses on the bond between the proletariat and the peasantry, on the inclusion of the peasant farms in the system of socialist development of our country; of his theses that the proletariat must march towards socialism together with the main mass of the peasantry, that the organisation of the vast masses of the peasantry in co-operatives is the high road of socialist construction in the countryside, that with the growth of our socialist industry, “for us, the more growth of co-operation is identical . . . with the growth of socialism” (see Vol. XXVII, p. 396).
+
+Indeed, along what path can and must the development of peasant economy in our country proceed? Peasant economy is not capitalist economy. Peasant economy, if you take the overwhelming majority of the peasant farms, is small commodity economy. And what is peasant small commodity economy? It is economy standing at the cross-roads between capitalism and socialism. It may develop in the direction of capitalism, as it is now doing in capitalist countries, or in the direction of socialism, as it must do here, in our country, under the dictatorship of the proletariat.
+
+Whence this instability, this lack of independence of peasant economy? How is it to be explained?
+
+It is to be explained by the scattered character of the peasant farms, their lack of organisation, their dependence on the towns, on industry, on the credit system, on the character of the state power in the country, and, lastly, by the well-known fact that the countryside follows, and necessarily must follow, the town both in material and in cultural matters.
+
+The capitalist path of development of peasant economy means development through profound differentiation among the peasantry, with large latifundia at one extreme and mass impoverishment at the other. Such a path of development is inevitable in capitalist countries, because the countryside, peasant economy, is dependent on the towns, on industry, on credit concentrated in the towns, on the character of the state power—and in the towns it is the bourgeoisie, capitalist industry, the capitalist credit system and the capitalist state power that hold sway.
+
+Is this path of development of peasant farms obligatory for our country, where the towns have quite a different aspect, where industry is in the hands of the proletariat, where transport, the credit system, the state power, etc., are concentrated in the hands of the proletariat, where the nationalisation of the land is a universal law of the country? Of course not. On the contrary. Precisely because the towns do lead the countryside, while we have in the towns the rule of the proletariat, which holds all the key positions of national economy—precisely for this reason the peasant farms in their development must proceed along a different path, the path of socialist construction.
+
+What is this path?
+
+It is the path of the mass organisation of millions of peasant farms into co-operatives in all spheres of co-operation, the path of uniting the scattered peasant farms around socialist industry, the path of implanting the elements of collectivism among the peasantry at first in the sphere of marketing agricultural produce and supplying the peasant farms with the products of urban industry and later in the sphere of agricultural production.
+
+And the further we advance the more this path becomes inevitable under the conditions of the dictatorship of the proletariat, because co-operative marketing, co-operative supplying, and, finally, co-operative credit and production (agricultural co-operatives) are the only way to promote the welfare of the countryside, the only way to save the broad masses of the peasantry from poverty and ruin.
+
+It is said that our peasantry, by its position, is not socialist, and, therefore, incapable of socialist development. It is true, of course, that the peasantry, by its position, is not socialist. But this is no argument against the development of the peasant farms along the path of socialism, once it has been proved that the countryside follows the town, and in the towns it is socialist industry that holds sway. The peasantry, by its position, was not socialist at the time of the October Revolution either, and it did not by any means want to establish socialism in our country. At that time it strove mainly for the abolition of the power of the landlords and for the ending of the war, for the establishment of peace. Nevertheless, it followed the lead of the socialist proletariat. Why? Because the overthrow of the bourgeoisie and the seizure of power by the socialist proletariat was at that time the only way of getting out of the imperialist war, the only way of establishing peace. Because there was no other way at that time, nor could there be any. Because our Party was able to hit upon that degree of the combination of the specific interests of the peasantry (the overthrow of the landlords, peace) with, and their subordination to, the general interests of the country (the dictatorship of the proletariat) which proved acceptable and advantageous to the peasantry. And so the peasantry, in spite of its non-socialist character, at that time followed the lead of the socialist proletariat.
+
+The same must be said about socialist construction in our country, about drawing the peasantry into the channel of this construction. The peasantry is non-socialist by its position. But it must, and certainly will, take the path of socialist development, for there is not, and cannot be, any other way of saving the peasantry from poverty and ruin except the bond with the proletariat, except the bond with socialist industry, except the inclusion of peasant economy in the common channel of socialist development by the mass organisation of the peasantry in co-operatives.
+
+But why precisely by the mass organisation of the peasantry in co-operatives?
+
+Because in the mass organisation in co-operatives “we have found that degree of the combination of private interest, private trading interest, with state supervision and control of this interest, that degree of its subordination to the general interests” (Lenin) which is acceptable and advantageous to the peasantry and which ensures the proletariat the possibility of drawing the main mass of the peasantry into the work of socialist construction. It is precisely because it is advantageous to the peasantry to organise the sale of its products and the purchase of machines for its farms through co-operatives, it is precisely for that reason that it should and will proceed along the path of mass organisation in co-operatives.
+
+What does the mass organisation of peasant farms in co-operatives mean when we have the supremacy of socialist industry?
+
+It means that peasant small commodity economy abandons the old capitalist path, which is fraught with mass ruin for the peasantry, and goes over to the new path of development, the path of socialist construction.
+
+This is why the fight for the new path of development of peasant economy, the fight to draw the main mass of the peasantry into the work of socialist construction, is the immediate task facing our Party.
+
+The Fourteenth Congress of the C.P.S.U.(B.), therefore, was right in declaring:
+
+“The main path of building socialism in the countryside consists in using the growing economic leadership of socialist state industry, of the state credit institutions, and of the other key positions in the hands of the proletariat to draw the main mass of the peasantry into co-operative organisation and to ensure for this organisation a socialist development, while utilising, overcoming and ousting its capitalist elements” (see Resolution of the Congress on the Report of the Central Committee).
+
+The profound mistake of the “New Opposition” lies in the fact that it does not believe in this new path of development of the peasantry, that it does not see, or does not understand, the absolute inevitability of this path under the conditions of the dictatorship of the proletariat. And it does not understand this because it does not believe in the victory of socialist construction in our country, it does not believe in the capacity of our proletariat to lead the peasantry along the path to socialism.
+
+Hence the failure to understand the dual character of NEP, the exaggeration of the negative aspects of NEP and the treatment of NEP as being mainly a retreat.
+
+Hence the exaggeration of the role of the capitalist elements in our economy, and the belittling of the role of the levers of our socialist development (socialist industry, the credit system, the co-operatives, the rule of the proletariat, etc.).
+
+Hence the failure to understand the socialist nature of our state industry, and the doubts concerning the correctness of Lenin’s co-operative plan.
+
+Hence the inflated accounts of differentiation in the countryside, the panic in face of the kulak, the belittling of the role of the middle peasant, the attempts to thwart the Party’s policy of securing a firm alliance with the middle peasant, and, in general, the wobbling from one side to another on the question of the Party’s policy in the countryside.
+
+Hence the failure to understand the tremendous work of the Party in drawing the vast masses of the workers and peasants into building up industry and agriculture, revitalising the co-operatives and the Soviets, administering the country, combating bureaucracy, improving and remodelling our state apparatus—work which marks a new stage of development and without which no socialist construction is conceivable.
+
+Hence the hopelessness and consternation in face of the difficulties of our work of construction, the doubts about the possibility of industrialising our country, the pessimistic chatter about degeneration of the Party, etc.
+
+Over there, among the bourgeoisie, all is going on fairly well, but here, among the proletarians, things are fairly bad; unless the revolution in the West takes place pretty soon, our cause is lost—such is the general tone of the “New Opposition” which, in my opinion, is a liquidationist tone, but which, for some reason or other (probably in jest), the opposition tries to pass off as “internationalism.”
+
+NEP is capitalism, says the opposition. NEP is mainly a retreat, says Zinoviev. All this, of course, is untrue. In actual fact, NEP is the Party’s policy, permitting a struggle between the socialist and the capitalist elements and aimed at the victory of the socialist elements over the capitalist elements. In actual fact, NEP only began as a retreat, but it aimed at regrouping our forces during the retreat and launching an offensive. In actual fact, we have been on the offensive for several years now, and are attacking successfully, developing our industry, developing Soviet trade, and ousting private capital.
+
+But what is the meaning of the thesis that NEP is capitalism, that NEP is mainly a retreat? What does this thesis proceed from?
+
+It proceeds from the wrong assumption that what is now taking place in our country is simply the restoration of capitalism, simply a “return” to capitalism. This assumption alone can explain the doubts of the opposition regarding the socialist nature of our industry. This assumption alone can explain the panic of the opposition in face of the kulak. This assumption alone can explain the haste with which the opposition seized upon the inaccurate statistics on differentiation in the peasantry. This assumption alone can explain the opposition’s special forgetfulness of the fact that the middle peasant is the central figure in our agriculture. This assumption alone can explain the under-estimation of the importance of the middle peasant and the doubts concerning Lenin’s cooperative plan. This assumption alone can serve to “substantiate” the “New Opposition’s” disbelief in the new path of development of the countryside, the path of drawing it into the work of socialist construction.
+
+As a matter of fact, what is taking place in our country now is not a one-sided process of restoration of capitalism, but a double process of development of capitalism and development of socialism—a contradictory process of struggle between the socialist and the capitalist elements, a process in which the socialist elements are overcoming the capitalist elements. This is equally incontestable as regards the towns, where state industry is the basis of socialism, and as regards the countryside, here the main foothold for socialist development is mass co-operation linked up with socialist industry.
+
+The simple restoration of capitalism is impossible, if only for the reason that the proletariat is in power, that large-scale industry is in the hands of the proletariat, and that transport and credit are in the possession of the proletarian state.
+
+Differentiation in the countryside cannot assume its former dimensions, the middle peasants still constitute the main mass of the peasantry, and the kulak cannot regain his former strength, if only for the reason that the land has been nationalised, that it has been withdrawn from circulation, while our trade, credit, tax and cooperative policy is directed towards restricting the kulaks’ exploiting proclivities, towards promoting the welfare of the broad mass of the peasantry and levelling out the extremes in the countryside. That is quite apart from the fact that the fight against the kulaks is now proceeding not only along the old line of organising the poor peasants against the kulaks, but also along the new line of strengthening the alliance of the proletariat and the poor peasants with the mass of the middle peasants against the kulaks. The fact that the opposition does not understand the meaning and significance of the fight against the kulaks along this second line once more confirms that the opposition is straying towards the old path of development in the countryside—the path of capitalist development, when the kulaks and the poor peasants constituted the main forces in the countryside, while the middle peasants were “melting away.”
+
+Co-operation is a variety of state capitalism, says the opposition, citing in this connection Lenin’s pamphlet The Tax in Kind; and, consequently, it does not believe it possible to utilise the co-operatives as the main foothold for socialist development. Here, too, the opposition commits a gross error. Such an interpretation of co-operation was adequate and satisfactory in 1921, when The Tax in Kind was written, when we had no developed socialist industry, when Lenin conceived of state capitalism as the possible basic form of conducting our economy, and when he considered co-operation in conjunction with state capitalism. But this interpretation has now become inadequate and has been rendered obsolete by history, for times have changed since then: our socialist industry has developed, state capitalism never took hold to the degree expected, whereas the co-operatives, which now have over ten million members, have begun to link up with socialist industry.
+
+How else are we to explain the fact that already in 1923, two years after The Tax in Kind was written, Lenin began to regard co-operation in a different light, and considered that “co-operation, under our conditions, very often entirely coincides with socialism” (see Vol. XXVII, p. 396).
+
+How else can this be explained except by the fact that during those two years socialist industry had grown, whereas state capitalism had failed to take hold to the required extent, in view of which Lenin began to consider co-operation, not in conjunction with state capitalism, but in conjunction with socialist industry?
+
+The conditions of development of co-operation had changed. And so the approach to the question of co-operation had to be changed also.
+
+Here, for instance, is a remarkable passage from Lenin’s pamphlet On Co-operation (1923), which throws light on this matter:
+
+“Under state capitalism, co-operative enterprises differ from state capitalist enterprises, firstly, in that they are private enterprises and, secondly, in that they are collective enterprises. Under our present system, co-operative enterprises differ from private capitalist enterprises because they are collective enterprises, but they do not differ from socialist enterprises if the land on which they are situated and the means of production belong to the state, i.e., the working class” (see Vol. XXVII, p. 396).
+
+In this short passage two big questions are solved. Firstly, that “our present system” is not state capitalism. Secondly, that co-operative enterprises taken in conjunction with “our system” “do not differ” from socialist enterprises.
+
+I think it would be difficult to express oneself more clearly.
+
+Here is another passage from the same pamphlet of Lenin’s:
+
+“. . . for us, the mere growth of co-operation (with the ‘slight’ exception mentioned above) is identical with the growth of socialism, and at the same time we must admit that a radical change has taken place in our whole outlook on socialism” (ibid.).
+
+Obviously, the pamphlet On Co-operation gives a new appraisal of the co-operatives, a thing which the “New Opposition” does not want to admit, and which it is carefully hushing up, in defiance of the facts, in defiance of the obvious truth, in defiance of Leninism. Co-operation taken in conjunction with state capitalism is one thing, and co-operation taken in conjunction with socialist industry is another.
+
+From this, however, it must not be concluded that a gulf lies between The Tax in Kind and On Co-operation. That would, of course, be wrong. It is sufficient, for instance, to refer to the following passage in The Tax in Kind to discern immediately the inseparable connection between The Tax in Kind and the pamphlet On Co-operation as regards appraisal of the co-operatives. Here it is:
+
+“The transition from concessions to socialism is a transition from one form of large-scale production to another form of large-scale production. The transition from small-proprietor co-operatives to socialism is a transition from small production to large-scale production, i.e., it is a more complicated transition, but, if successful, is capable of embracing wider masses of the population, is capable of pulling up the deeper and more tenacious roots of the old, pre-socialist and even pre-capitalist relations, which most stubbornly resist all ‘innovations’” (see Vol. XXVI, p. 337).
+
+From this quotation it is evident that even during the time of The Tax in Kind, when we had as yet no developed socialist industry, Lenin was of the opinion that, if successful, co-operation could be transformed into a powerful weapon in the struggle against “pre-socialist,” and, hence, against capitalist relations. I think it was precisely this idea that subsequently served as the point of departure for his pamphlet On Co-operation.
+
+But what follows from all this?
+
+From all this it follows that the “New Opposition” approaches the question of co-operation, not in a Marxist way, but metaphysically. It regards co-operation not as a historical phenomenon taken in conjunction with other phenomena, in conjunction, say, with state capitalism (in 1921) or with socialist industry (in 1923), but as something constant and immutable, as a “thing in itself.”
+
+Hence the mistakes of the opposition on the question of co-operation, hence its disbelief in the development of the countryside towards socialism through co-operation, hence its turning back to the old path, the path of capitalist development in the countryside.
+
+Such, in general, is the position of the “New Opposition” on the practical questions of socialist construction.
+
+There is only one conclusion: the line of the opposition, so far as it has a line, its wavering and vacillation, its disbelief in our cause and its consternation in face of difficulties, lead to capitulation to the capitalist elements of our economy.
+
+For, if NEP is mainly a retreat, if the socialist nature of state-industry is doubted, if the kulak is almost omnipotent, if little hope can be placed in the co-operatives, if the role of the middle peasant is progressively declining, if the new path of development in the countryside is open to doubt, if the Party is almost degenerating, while the revolution in the West is not very near—then what is there left in the arsenal of the opposition, what can it count on in the struggle against the capitalist elements in our economy? You cannot go into battle armed only with “The Philosophy of the Epoch.”
+
+It is clear that the arsenal of the “New Opposition,” if it can be termed an arsenal at all, is an unenviable one. It is not an arsenal for battle. Still less is it one for victory.
+
+It is clear that the Party would be doomed “in no time” if it entered the fight equipped with such an arsenal; it would simply have to capitulate to the capitalist elements in our economy.
+
+That is why the Fourteenth Congress of the Party was absolutely right in deciding that “the fight for the victory of socialist construction in the U.S.S.R. is the main task of our Party”; that one of the necessary conditions for the fulfilment of this task is “to combat disbelief in the cause of building socialism in our country and the attempts to represent our enterprises, which are of a ‘consistently socialist type’ (Lenin), as state capitalist enterprises”; that “such ideological trends, which prevent the masses from adopting a conscious attitude towards the building of socialism in general and of a socialist industry in particular, can only serve to hinder the growth of the socialist elements in our economy and to facilitate the struggle of private capital against them”; that “the congress therefore considers that wide-spread educational work must be carried on for the purpose of overcoming these distortions of Leninism” (see Resolution on the Report of the Central Committee of the C.P.S.U.(B.)).
+
+The historical significance of the Fourteenth Congress of the C.P.S.U.(B.) lies in the fact that it was able radically to expose the mistakes of the “New Opposition,” that it rejected their disbelief and whining, that it clearly and precisely indicated the path of the further struggle for socialism, opened before the Party the prospect of victory, and thus armed the proletariat with an invincible faith in the victory of socialist construction.
+
+January 25, 1926

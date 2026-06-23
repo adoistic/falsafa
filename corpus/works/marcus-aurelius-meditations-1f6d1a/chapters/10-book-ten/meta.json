@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-aurelius-meditations-1f6d1a",
+  "work_title": "Meditations",
+  "chapter_number": 10,
+  "chapter_title": "Book Ten",
+  "chapter_slug": "10-book-ten",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "724b3189-9eec-5625-b9cd-f98160eee7f1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2863,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0562.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8211be25-46b6-525d-a025-ed55e48f0f73",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4105,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

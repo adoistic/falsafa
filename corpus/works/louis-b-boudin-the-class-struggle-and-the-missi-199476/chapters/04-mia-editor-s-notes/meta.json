@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-b-boudin-the-class-struggle-and-the-missi-199476",
+  "work_title": "The Class Struggle and the Mission of the Working Class",
+  "chapter_number": 4,
+  "chapter_title": "Mia Editor’s Notes",
+  "chapter_slug": "04-mia-editor-s-notes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f713d369-b176-54d5-8ba1-1f2537358f99",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 123,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/boudin/1909/09/class-struggle.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-programme-of-the-world-revolutio-953692",
+  "work_title": "Programme of the World Revolution",
+  "chapter_number": 8,
+  "chapter_title": "VII. Freedom for the Working Class and the Poorest Elements of the Peasantry; Restrictions for the Bourgeoisie",
+  "chapter_slug": "08-vii-freedom-for-the-working-class-and-the-poorest-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0113d659-67b2-5d03-88af-b83e4848ae75",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2179,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1918/worldrev/ch07.html"
+    }
+  ]
+}

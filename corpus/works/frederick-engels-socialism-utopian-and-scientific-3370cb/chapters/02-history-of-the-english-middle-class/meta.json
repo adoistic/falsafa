@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-engels-socialism-utopian-and-scientific-3370cb",
+  "work_title": "Socialism: Utopian and Scientific",
+  "chapter_number": 2,
+  "chapter_title": "[History of the English middle-class]",
+  "chapter_slug": "02-history-of-the-english-middle-class",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c44d2f9-1dcc-5075-b482-7b1d2a34dfb2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4868,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1880/soc-utop/int-hist.htm"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 74
+chapter_title: Letter 74
+chapter_slug: "74-letter-74"
+variant_id: "52b5300e-7e30-519d-9e1f-d2895ae043ec"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 3074
+translator: thothica
+---
+
+1. Your letter delighted me and roused me from my languor; it also called forth my memory, which is now sluggish and slow with me. Why should you not, my dear Lucilius, think this the greatest instrument of the happy life — the conviction that there is one good, that which is honorable? For he who judges other things to be goods comes into the power of fortune, becomes subject to another's will; but he who has circumscribed every good within the honorable is happy within himself.
+
+2. This man is sad at the loss of his children, that one anxious over their illness, that one grieved over base ones who have suffered some disgrace. You will see one tortured by love of another's wife, another by love of his own. There will not be lacking one whom a rejection wrings; there will be those whom honor itself harasses.
+
+3. But the greatest crowd of wretched men out of all the people of mortals is that which the expectation of death harries, impending on every side. For there is nothing from which it does not steal up. And so, as men in an enemy's country must look about this way and that and turn the neck at every sound, unless this fear is cast out of the breast, life is lived with palpitating heart.
+
+4. There will occur to you men driven into exile and stripped of their goods. There will occur to you — what kind of poverty is the heaviest — men poor amid riches. There will occur to you shipwrecked men, or men who have suffered things like shipwreck, whom either the people's anger or envy, a destructive weapon against the best, has scattered, unsuspecting and untroubled, like a squall which is wont to rise up in the very confidence of fair weather, or like a sudden lightning-stroke, at whose blow even the neighboring things have trembled. For as there whoever stood nearer the fire was stupefied like one struck, so in these things befalling through some violence calamity overwhelms one, fear the rest, and makes those who could suffer grieve as much as those who have.
+
+5. The evils of others, and sudden ones, trouble the minds of all. As birds are terrified even by the sound of an empty sling, so we are thrown into agitation not only at the blow, but at the crack. No one, then, can be happy who has trusted himself to this opinion. For nothing is happy except what is undaunted; amid things suspected one lives ill.
+
+6. Whoever has given himself much to chance things has made for himself a vast and inextricable material of perturbation; there is this one road for the man going to safety: to despise external things and to be content with the honorable. For he who thinks anything better than virtue, or any good besides it, spreads out his lap for these things which fortune scatters, and anxiously awaits her missiles.
+
+7. Set before your mind this image: that fortune is holding games and showering down upon this assembly of mortals honors, riches, favor — of which some have been torn apart amid the hands of those snatching them, some divided by faithless partnership, some seized with great loss to those into whose hands they came. Of these, some fell to men who were busy with something else, some, because they were grasped at too eagerly, were lost and, while greedily snatched, were knocked away. But to no one, even to him to whom the plunder fell happily, did the joy of the spoil last into the morrow. And so every most prudent man, as soon as he sees the little gifts being brought in, flees the theater and knows that small things cost great. No one comes to grips with one who is going away, no one strikes one going out; the brawl is around the prize.
+
+8. The same happens with these things which fortune throws down from above: we are in a fever, wretches, we are pulled apart, we wish to have many hands, we look now to this side, now to that. The things that provoke our desires seem to us sent too slowly; they reach few, they are awaited by all.
+
+9. We long to go to meet what is falling. We rejoice if we have seized anything, and the vain hope of seizing has mocked some; we pay for cheap plunder with some great discomfort, or, abandoned, we are cheated. Let us therefore withdraw from these games and give place to the snatchers; let them gaze at those goods hanging there and themselves hang the more.
+
+10. Whoever resolves to be happy, let him think that there is one good, that which is honorable. For if he thinks there is any other, first he passes ill judgment on providence, because many discomforts befall just men, and because whatever it has given us is brief and scant, if you compare it with the age of the whole universe.
+
+11. From this lamentation it comes that we are ungrateful interpreters of things divine; we complain that they do not fall to us always, that they fall to us both few and uncertain and soon to pass. Hence it is that we wish neither to live nor to die; a hatred of life holds us, a fear of death. Every resolve floats, and no good fortune can fill us. But the cause is that we have not arrived at that immense and insuperable good, where our will must needs halt, because beyond the highest there is no place.
+
+12. You ask why virtue lacks nothing? It rejoices in things present, it does not covet things absent. Nothing is not great to it which is enough. Depart from this judgment; neither piety will stand fast, nor faith. For many things must be endured by one who wishes to render both, out of those things which are called evils; many must be spent of those things in which we indulge ourselves as in goods.
+
+13. Courage perishes, which ought to make trial of itself; magnanimity perishes, which cannot stand out unless it has despised, as petty, all the things which the crowd seeks as the greatest; gratitude and the return of gratitude perish, if we fear toil, if we have known anything more precious than faith, if we do not look to the best things.
+
+14. But, to pass these by, either these things are not goods which are so called, or man is happier than god, since indeed god has not in use the things which are prepared for us. For neither lust pertains to him, nor the daintiness of feasts, nor wealth, nor anything of these things that bait man and lead him with cheap pleasure. Therefore either it is not incredible that goods are lacking to god, or this very thing is the proof that they are not goods, that they are lacking to god.
+
+15. Add that many things which wish to seem goods fall more fully to animals than to man. They use food more greedily, they are not equally wearied by love, the firmness of their strength is greater and more even. It follows that they are much happier than man. For they pass their life without wickedness, without frauds. They enjoy pleasures which they both take more, and easily, without any fear of shame or repentance.
+
+16. Consider, then, whether that ought to be called a good in which god is surpassed by man. Let us keep the highest good in the mind; it grows worthless if it passes from the best part of us to the worst and is transferred to the senses, which are nimbler in dumb animals. The sum of our happiness is not to be placed in the flesh; those goods are true which reason gives, solid and everlasting, which cannot fall, nor even decrease or be diminished.
+
+17. The rest are goods by opinion, and have indeed a name in common with the true ones, but the property of the good is not in them. Let them therefore be called advantages and — to speak in our own tongue — "preferred." For the rest, let us know that they are our slaves, not our parts; and let them be with us, but so that we remember they are outside us. Even if they are with us, let them be counted among things subject and lowly, on account of which no one ought to lift himself up. For what is more foolish than for someone to be pleased with himself for what he himself did not do?
+
+18. Let all these things come to us, not cling to us, so that if they are led away they may depart without any tearing of us. Let us use them, not boast of them, and let us use them sparingly, as things deposited with us and soon to depart. Whoever has possessed them without reason has not held them long, for happiness itself, unless it is governed, crushes itself. If a man has trusted in these most fleeting goods, he is quickly deserted and, that he may not be deserted, is afflicted. To few has it been granted to lay down their happiness gently; the rest fall together with the things among which they stood out, and the very things that had raised them weigh them down.
+
+19. Therefore prudence will be applied, to impose on them measure or thrift, since indeed license throws down and presses its own resources. Nor have things immoderate ever lasted, unless that moderating reason has restrained them. This the fate of many cities will show you, whose luxurious dominions fell in their very flower, and whatever had been won by virtue collapsed through intemperance. Against these chances we must be fortified. But there is no wall against fortune that cannot be stormed; let us be equipped within. If that part is safe, a man can be battered, but not captured.
+
+20. Do you wish to know what this instrument is? Let a man be indignant at nothing that befalls him, and let him know that those very things by which he seems to be harmed pertain to the preservation of the universe and are among those which complete the course and the function of the world. Let whatever has pleased god please man; let him admire himself and his own on this very account, that he cannot be conquered, that he holds the evils themselves beneath him, that by reason, than which nothing is stronger, he subdues chance and pain and injury.
+
+21. Love reason! The love of it will arm you against the hardest things. Love of their cubs drives wild beasts onto the hunting-spears, and their ferocity and unconsidered onset makes them untamable; the desire of glory has sometimes sent youthful spirits into contempt of sword as much as of fire; a semblance and shadow of virtue thrusts some into voluntary death. By as much as reason is braver than all these, by as much as it is more steadfast, by so much the more vehemently will it go out through the very fears and dangers.
+
+22. "You accomplish nothing," he says, "by denying that there is any other good than the honorable; this fortification will not make you safe from fortune and immune. For you say that pious children are among goods, and a well-ordered country, and good parents; you cannot watch the dangers of these untroubled. The siege of your country will perturb you, the death of your children, the slavery of your parents."
+
+23. What is wont to be answered against these things on our behalf I will set down; then I will add what besides I think must be answered. The case is different in those things which, when taken away, substitute some discomfort in their place; as good health, when impaired, is changed into bad; the keenness of the eyes, extinguished, afflicts us with blindness; not only is swiftness lost when the hams are cut, but feebleness comes in its stead. This danger is not in the things we mentioned a little before. Why? If I have lost a good friend, I have not to endure treachery in his place, nor, if I have buried good children, does impiety succeed in their place.
+
+24. Then it is not there the destruction of friends or children, but of bodies. But a good perishes in one way only, if it passes into an evil; which Nature does not allow, because every virtue and every work of virtue remains uncorrupted. Then, even if friends have perished, even if children approved and answering to a father's prayer, there is that which fills their place. You ask what it is? That which had made them good too — virtue.
+
+25. This suffers no place to be empty, it holds the whole mind, it takes away the longing for all things; it alone is enough, for the force and origin of all goods is in it. What does it matter whether running water is intercepted and goes off, if the spring from which it had flowed is safe? You will not say that life is juster with children safe than with them lost, nor more ordered, nor more prudent, nor more honorable; therefore not even better. The addition of friends does not make one wiser, the subtraction does not make one more foolish; therefore neither happier nor more wretched. So long as virtue is safe, you will not feel whatever has departed.
+
+26. "What then? Is a man not happier when girt about with a throng of friends and children?" Why should he be? For the highest good is neither broken nor increased; it abides in its own measure, however fortune has borne itself. Whether a long old age has fallen to a man, or he has ended short of old age, the measure of the highest good is the same, though the span of life is different.
+
+27. Whether you draw a larger or a smaller circle, it pertains to its extent, not to its form. Though the one has remained long, and you have at once rubbed out the other and let the sun thicken the dust in which it was drawn, each was of the same form. What is right is valued neither by greatness nor by number nor by time; it can no more be lengthened than shortened. Take an honorable life, out of the number of a hundred years, and abridge it as much as you will, and compress it into a single day; it is equally honorable.
+
+28. Now virtue is poured out more widely, it governs kingdoms, cities, provinces, makes laws, cultivates friendships, dispenses duties among kinsmen and children; now it is shut within the narrow bound of poverty, exile, bereavement. Yet it is no less if from a higher height it is drawn down into private life, from royal into lowly, from a public and spacious jurisdiction it shrinks into the narrowness of a house or a corner.
+
+29. It is equally great, even if it has retreated into itself, shut out on every side. For it is none the less of a great and lofty spirit, of perfect prudence, of unbending justice. Therefore it is equally happy. For that happiness is placed in one spot, in the mind itself, grand, stable, tranquil, which cannot be brought about without the knowledge of things divine and human.
+
+30. There follows that which I said I would answer. The wise man is not afflicted by the loss of children or of friends. For he bears their death with the same mind with which he awaits his own. He does not fear the one more than he grieves at the other. For virtue consists in consistency; all its works accord and agree with itself. This concord perishes if the mind, which ought to be lofty, is brought low by mourning or longing. All trepidation and anxiety is dishonorable, sluggishness in any act. For the honorable is untroubled and unhampered, undaunted, it stands ready for battle.
+
+31. "What then? Will he not suffer something like perturbation? Will not his color change, and his face be agitated, and his limbs grow cold?" And whatever else is done not at the command of the mind, but by some unconsidered impulse of Nature. I admit it; but the same conviction will remain with him: that none of those things is an evil, or worthy that a sound mind should give way to it. All that has to be done, he does boldly and promptly.
+
+32. For one might call this proper to folly: to do sluggishly and stubbornly what one does, and to drive the body one way, to pull the mind another, and to be torn apart among the most diverse motions. For on account of the very things by which folly exalts and admires itself, it is despised, and not even those things by which it boasts does it do gladly. But if some evil is feared, it is thereupon pressed, while it awaits, as though it had come, and whatever it fears to suffer it already suffers through fear.
+
+33. As in bodies the signs of a settling languor run ahead — for there is a certain nerveless sluggishness and a weariness without any toil, and yawning, and a shudder running through the limbs — so the weak mind is shaken long before it is overwhelmed by evils. It anticipates them and falls before its time. But what is more mad than to be tortured by things future and not to reserve oneself for the torment, but to summon miseries to oneself and bring them near?
+
+34. Which it is best to put off, if one cannot dispel them. Do you wish to know that no one ought to be tortured by the future? Whoever has heard that he must suffer punishments after his fiftieth year is not perturbed unless he has leaped over the intervening space and flung himself into that anxiety to come an age later; in the same way it comes about that things old and obliterated sadden minds gladly sick and grasping at causes of grief. Both things that have passed and things that are to come are absent; we feel neither. But there is no pain except from what you feel. Farewell.

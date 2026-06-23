@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 98,
+  "chapter_title": "Chapter XL — Great Events",
+  "chapter_slug": "98",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f23e7826-3492-5863-ae8a-44979f87369d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 146,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

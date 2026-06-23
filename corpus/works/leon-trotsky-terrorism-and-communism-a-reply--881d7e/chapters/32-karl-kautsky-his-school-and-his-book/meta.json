@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-terrorism-and-communism-a-reply--881d7e",
+  "work_title": "Terrorism and Communism: A Reply to Karl Kautsky",
+  "chapter_number": 32,
+  "chapter_title": "Karl Kautsky, His School and His Book",
+  "chapter_slug": "32-karl-kautsky-his-school-and-his-book",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "388fe91b-48d8-531e-bc6d-cfc8badb989c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3714,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1920/terrcomm/ch09.htm"
+    }
+  ]
+}

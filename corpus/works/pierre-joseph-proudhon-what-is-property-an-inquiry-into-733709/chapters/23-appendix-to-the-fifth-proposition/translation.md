@@ -1,0 +1,115 @@
+---
+work_id: "73370992-5f04-5c8c-a2bf-ed531993835d"
+work_slug: "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709"
+work_title: "What is Property? An Inquiry into the Principle of Right and of Government"
+author_name: "Pierre-Joseph Proudhon"
+chapter_number: 23
+chapter_title: Appendix to the Fifth Proposition.
+chapter_slug: "23-appendix-to-the-fifth-proposition"
+variant_id: "ffd1f66d-5404-583d-8f03-79ff5b30b3ce"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 3380
+source_url: "https://www.marxists.org/reference/subject/economics/proudhon/property/ch04.htm"
+translator: Benjamin R. Tucker
+---
+
+I. Certain reformers, and even the most of the publicists — who, though belonging to no particular school, busy themselves in devising means for the amelioration of the lot of the poorer and more numerous class — lay much stress now-a-days on a better organization of labor. The disciples of Fourier, especially, never stop shouting, “On to the phalanx!” declaiming in the same breath against the foolishness and absurdity of other sects. They consist of half-a-dozen incomparable geniuses who have discovered that five and four make nine; take two away, and nine remain, — and who weep over the blindness of France, who refuses to believe in this astonishing arithmetic.
+
+In fact, the Fourierists proclaim themselves, on the one hand, defenders of property, of the right of increase, which they have thus formulated: To each according to his capital, his labor, and his skill. On the other hand, they wish the workingman to come into the enjoyment of all the wealth of society; that is, — abridging the expression, — into the undivided enjoyment of his own product. Is not this like saying to the workingman, “Labor, you shall have three francs per day; you shall live on fifty-five sous; you shall give the rest to the proprietor, and thus you will consume three francs"?
+
+If the above speech is not an exact epitome of Charles Fourier’s system, I will subscribe to the whole phalansterian folly with a pen dipped in my own blood.
+
+Of what use is it to reform industry and agriculture, — of what use, indeed, to labor at all, — if property is maintained, and labor can never meet its expenses? Without the abolition of property, the organization of labor is neither more nor less than a delusion. If production should be quadrupled, — a thing which does not seem to me at all impossible, — it would be labor lost: if the additional product was not consumed, it would be of no value, and the proprietor would decline to receive it as interest; if it was consumed, all the disadvantages of property would reappear. It must be confessed that the theory of passional attraction is gravely at fault in this particular, and that Fourier, when he tried to harmonize the passion for property, — a bad passion, whatever he may say to the contrary, — blocked his own chariot-wheels.
+
+The absurdity of the phalansterian economy is so gross, that many people suspect Fourier, in spite of all the homage paid by him to proprietors, of having been a secret enemy of property. This opinion might be supported by plausible arguments; still it is not mine. Charlatanism was too important a part for such a man to play, and sincerity too insignificant a one. I would rather think Fourier ignorant (which is generally admitted) than disingenuous. As for his disciples, before they can formulate any opinion of their own, they must declare once for all, unequivocally and with no mental reservation, whether they mean to maintain property or not, and what they mean by their famous motto, — “To each according to his capital, his labor, and his skill.”
+
+II. But, some half-converted proprietor will observe, “Would it not be possible, by suppressing the bank, incomes, farm-rent, house-rent, usury of all kinds, and finally property itself, to proportion products to capacities? That was St. Simon’s idea; it was also Fourier’s; it is the desire of the human conscience; and no decent person would dare maintain that a minister of state should live no better than a peasant.”
+
+O Midas! your ears are long! What! will you never understand that disparity of wages and the right of increase are one and the same? Certainly, St. Simon, Fourier, and their respective flocks committed a serious blunder in attempting to unite, the one, inequality and communism; the other, inequality and property: but you, a man of figures, a man of economy, — you, who know by heart your logarithmic tables, — how can you make so stupid a mistake? Does not political economy itself teach you that the product of a man, whatever be his individual capacity, is never worth more than his labor, and that a man’s labor is worth no more than his consumption? You remind me of that great constitution-framer, poor Pinheiro-Ferreira, the Sieyès of the nineteenth century, who, dividing the citizens of a nation into twelve classes, — or, if you prefer, into twelve grades, — assigned to some a salary of one hundred thousand francs each; to others, eighty thousand; then twenty-five thousand, fifteen thousand, ten thousand, &c., down to one thousand five hundred, and one thousand francs, the minimum allowance of a citizen. Pinheiro loved distinctions, and could no more conceive of a State without great dignitaries than of an army without drum-majors; and as he also loved, or thought he loved, liberty, equality, and fraternity, he combined the good and the evil of our old society in an eclectic philosophy which he embodied in a constitution. Excellent Pinheiro! Liberty even to passive submission, fraternity even to identity of language, equality even in the jury-box and at the guillotine, — such was his ideal republic. Unappreciated genius, of whom the present century was unworthy, but whom the future will avenge!
+
+Listen, proprietor. Inequality of talent exists in fact; in right it is not admissible, it goes for nothing, it is not thought of. One Newton in a century is equal to thirty millions of men; the psychologist admires the rarity of so fine a genius, the legislator sees only the rarity of the function. Now, rarity of function bestows no privilege upon the functionary; and that for several reasons, all equally forcible.
+
+1. Rarity of genius was not, in the Creator’s design, a motive to compel society to go down on its knees before the man of superior talents, but a providential means for the performance of all functions to the greatest advantage of all.
+
+2. Talent is a creation of society rather than a gift of Nature; it is an accumulated capital, of which the receiver is only the guardian. Without society, — without the education and powerful assistance which it furnishes, — the finest nature would be inferior to the most ordinary capacities in the very respect in which it ought to shine. The more extensive a man’s knowledge, the more luxuriant his imagination, the more versatile his talent, — the more costly has his education been, the more remarkable and numerous were his teachers and his models, and the greater is his debt. The farmer produces from the time that he leaves his cradle until he enters his grave: the fruits of art and science are late and scarce; frequently the tree dies before the fruit ripens. Society, in cultivating talent, makes a sacrifice to hope.
+
+3. Capacities have no common standard of comparison: the conditions of development being equal, inequality of talent is simply speciality of talent.
+
+4. Inequality of wages, like the right of increase, is economically impossible. Take the most favorable case, — that where each laborer has furnished his maximum production; that there may be an equitable distribution of products, the share of each must be equal to the quotient of the total production divided by the number of laborers. This done, what remains wherewith to pay the higher wages? Nothing whatever.
+
+Will it be said that all laborers should be taxed? But, then, their consumption will not be equal to their production, their wages will not pay for their productive service, they will not be able to repurchase their product, and we shall once more be afflicted with all the calamities of property. I do not speak of the injustice done to the defrauded laborer, of rivalry, of excited ambition, and burning hatred, — these may all be important considerations, but they do not hit the point.
+
+On the one hand, each laborer’s task being short and easy, and the means for its successful accomplishment being equal in all cases, how could there be large and small producers? On the other hand, all functions being equal, either on account of the actual equivalence of talents and capacities, or on account of social co-operation, how could a functionary claim a salary proportional to the worth of his genius?
+
+But, what do I say? In equality wages are always proportional to talents. What is the economical meaning of wages? The reproductive consumption of the laborer. The very act by which the laborer produces constitutes, then, this consumption, exactly equal to his production, of which we are speaking. When the astronomer produces observations, the poet verses, or the savant experiments, they consume instruments, books, travels, &c., &c.; now, if society supplies this consumption, what more can the astronomer, the savant, or the poet demand? We must conclude, then, that in equality, and only in equality, St. Simon’s adage — To each according to his capacity to each capacity according to its results — finds its full and complete application.
+
+III. The great evil — the horrible and ever-present evil — arising from property, is that, while property exists, population, however reduced, is, and always must be, over-abundant. Complaints have been made in all ages of the excess of population; in all ages property has been embarrassed by the presence of pauperism, not perceiving that it caused it. Further, — nothing is more curious than the diversity of the plans proposed for its extermination. Their atrocity is equalled only by their absurdity.
+
+The ancients made a practice of abandoning their children. The wholesale and retail slaughter of slaves, civil and foreign wars, also lent their aid. In Rome (where property held full sway), these three means were employed so effectively, and for so long a time, that finally the empire found itself without inhabitants. When the barbarians arrived, nobody was to be found; the fields were no longer cultivated; grass grew in the streets of the Italian cities.
+
+In China, from time immemorial, upon famine alone has devolved the task of sweeping away the poor. The people living almost exclusively upon rice, if an accident causes the crop to fail, in a few days hunger kills the inhabitants by myriads; and the Chinese historian records in the annals of the empire, that in such a year of such an emperor twenty, thirty, fifty, one hundred thousand inhabitants died of starvation. Then they bury the dead, and recommence the production of children until another famine leads to the same result. Such appears to have been, in all ages, the Confucian economy.
+
+I borrow the following facts from a modern economist: —
+
+“Since the fourteenth and fifteenth centuries, England has been preyed upon by pauperism. At that time beggars were punished by law.” Nevertheless, she had not one-fourth as large a population as she has to-day.
+
+“Edward prohibits alms-giving, on pain of imprisonment... . The laws of 1547 and 1656 prescribe a like punishment, in case of a second offence. Elizabeth orders that each parish shall support its own paupers. But what is a pauper? Charles II. decides that an undisputed residence of forty days constitutes a settlement in a parish; but, if disputed, the new-comer is forced to pack off. James II. modifies this decision, which is again modified by William. In the midst of trials, reports, and modifications, pauperism increases, and the workingman languishes and dies.
+
+“The poor-tax in 1774 exceeded forty millions of francs; in 1783-4-5, it averaged fifty-three millions; 1813, more than a hundred and eighty-seven millions five hundred thousand francs; 1816, two hundred and fifty millions; in 1817, it is estimated at three hundred and seventeen millions.
+
+“In 1821, the number of paupers enrolled upon the parish lists was estimated at four millions, nearly one-third of the population.
+
+“France. In 1544, Francis I. establishes a compulsory tax in behalf of the poor. In 1566 and 1586, the same principle is applied to the whole kingdom.
+
+“Under Louis XIV., forty thousand paupers infested the capital [as many in proportion as to-day]. Mendicity was punished severely. In 1740, the Parliament of Paris re-establishes within its own jurisdiction the compulsory assessment.
+
+"The Constituent Assembly, frightened at the extent of the evil and the difficulty of curing it, ordains the statu quo.
+
+“The Convention proclaims assistance of the poor to be a national debt. Its law remains unexecuted.
+
+“Napoleon also wishes to remedy the evil: his idea is imprisonment. ‘In that way,’ said he, ‘I shall protect the rich from the importunity of beggars, and shall relieve them of the disgusting sight of abject poverty.’ “
+
+O wonderful man!
+
+From these facts, which I might multiply still farther, two things are to be inferred, — the one, that pauperism is independent of population; the other, that all attempts hitherto made at its extermination have proved abortive.
+
+Catholicism founds hospitals and convents, and commands charity; that is, she encourages mendicity. That is the extent of her insight as voiced by her priests.
+
+The secular power of Christian nations now orders taxes on the rich, now banishment and imprisonment for the poor; that is, on the one hand, violation of the right of property, and, on the other, civil death and murder.
+
+The modern economists — thinking that pauperism is caused by the excess of population, exclusively — have devoted themselves to devising checks. Some wish to prohibit the poor from marrying; thus, — having denounced religious celibacy, — they propose compulsory celibacy, which will inevitably become licentious celibacy.
+
+Others do not approve this method, which they deem too violent; and which, they say, deprives the poor man of the only pleasure which he knows in this world. They would simply recommend him to be prudent. This opinion is held by Malthus, Sismondi, Say, Droz, Duchatel, &c. But if the poor are to be prudent, the rich must set the example. Why should the marriageable age of the latter be fixed at eighteen years, while that of the former is postponed until thirty?
+
+Again, they would do well to explain clearly what they mean by this matrimonial prudence which they so urgently recommend to the laborer; for here equivocation is especially dangerous, and I suspect that the economists are not thoroughly understood. “Some half-enlightened ecclesiastics are alarmed when they hear prudence in marriage advised; they fear that the divine injunction — increase and multiply — is to be set aside. To be logical, they must anathematize bachelors.” (J. Droz: Political Economy.)
+
+M. Droz is too honest a man, and too little of a theologian, to see why these casuists are so alarmed; and this chaste ignorance is the very best evidence of the purity of his heart. Religion never has encouraged early marriages; and the kind of prudence which it condemns is that described in this Latin sentence from Sanchez, — An licet ob metum liberorum semen extra vas ejicere?
+
+Destutt de Tracy seems to dislike prudence in either form. He says: “I confess that I no more share the desire of the moralists to diminish and restrain our pleasures, than that of the politicians to increase our procreative powers, and accelerate reproduction.” He believes, then, that we should love and marry when and as we please. Widespread misery results from love and marriage, but this our philosopher does not heed. True to the dogma of the necessity of evil, to evil he looks for the solution of all problems. He adds: “The multiplication of men continuing in all classes of society, the surplus members of the upper classes are supported by the lower classes, and those of the latter are destroyed by poverty.” This philosophy has few avowed partisans; but it has over every other the indisputable advantage of demonstration in practice. Not long since France heard it advocated in the Chamber of Deputies, in the course of the discussion on the electoral reform, — Poverty will always exist. That is the political aphorism with which the minister of state ground to powder the arguments of M. Arago. Poverty will always exist! Yes, so long as property does.
+
+The Fourierists — inventors of so many marvellous contrivances — could not, in this field, belie their character. They invented four methods of checking increase of population at will.
+
+1. The vigor of women. On this point they are contradicted by experience; for, although vigorous women may be less likely to conceive, nevertheless they give birth to the healthiest children; so that the advantage of maternity is on their side.
+
+2. Integral exercise, or the equal development of all the physical powers. If this development is equal, how is the power of reproduction lessened?
+
+3. The gastronomic regime; or, in plain English, the philosophy of the belly. The Fourierists say, that abundance of rich food renders women sterile; just as too much sap — while enhancing the beauty of flowers — destroys their reproductive capacity. But the analogy is a false one. Flowers become sterile when the stamens — or male organs — are changed into petals, as may be seen by inspecting a rose; and when through excessive dampness the pollen loses its fertilizing power. Then, — in order that the gastronomic régime may produce the results claimed for it, — not only must the females be fattened, but the males must be rendered impotent.
+
+4. Phanerogamic morality, or public concubinage. I know not why the phalansterians use Greek words to convey ideas which can be expressed so clearly in French. This method — like the preceding one — is copied from civilized customs. Fourier, himself, cites the example of prostitutes as a proof.
+
+Now we have no certain knowledge yet of the facts which he quotes. So states Parent Duchatelet in his work on “Prostitution.”
+
+From all the information which I have been able to gather, I find that all the remedies for pauperism and fecundity — sanctioned by universal practice, philosophy, political economy, and the latest reformers — may be summed up in the following list: masturbation, onanism, sodomy, tribadie, polyandry, prostitution, castration, continence, abortion, and infanticide.
+
+All these methods being proved inadequate, there remains proscription.
+
+Unfortunately, proscription, while decreasing the number of the poor, increases their proportion. If the interest charged by the proprietor upon the product is equal only to one-twentieth of the product (by law it is equal to one-twentieth of the capital), it follows that twenty laborers produce for nineteen only; because there is one among them, called proprietor, who eats the share of two. Suppose that the twentieth laborer — the poor one — is killed: the production of the following year will be diminished one-twentieth; consequently the nineteenth will have to yield his portion, and perish. For, since it is not one-twentieth of the product of nineteen which must be paid to the proprietor, but one-twentieth of the product of twenty (see third proposition), each surviving laborer must sacrifice one-twentieth plus one four-hundredth of his product; in other words, one man out of nineteen must be killed. Therefore, while property exists, the more poor people we kill, the more there are born in proportion.
+
+Malthus, who proved so clearly that population increases in geometrical progression, while production increases only in arithmetical progression, did not notice this pauperizing power of property. Had he observed this, he would have understood that, before trying to check reproduction, the right of increase should be abolished; because, wherever that right is tolerated, there are always too many inhabitants, whatever the extent or fertility of the soil.
+
+It will be asked, perhaps, how I would maintain a balance between population and production; for sooner or later this problem must be solved. The reader will pardon me, if I do not give my method here. For, in my opinion, it is useless to say a thing unless we prove it. Now, to explain my method fully would require no less than a formal treatise. It is a thing so simple and so vast, so common and so extraordinary, so true and so misunderstood, so sacred and so profane, that to name it without developing and proving it would serve only to excite contempt and incredulity. One thing at a time. Let us establish equality, and this remedy will soon appear; for truths follow each other, just as crimes and errors do.

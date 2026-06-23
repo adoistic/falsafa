@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 46,
+  "chapter_title": "â§ 67. The officers of the Red Army",
+  "chapter_slug": "46-a-67-the-officers-of-the-red-army",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d6293d33-3143-5dab-b195-be7df7a24b26",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 598,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/08.htm"
+    }
+  ]
+}

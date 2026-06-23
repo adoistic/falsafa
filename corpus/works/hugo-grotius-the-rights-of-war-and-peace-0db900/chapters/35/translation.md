@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-rights-of-war-and-peace-0db900"
 work_title: The Rights of War and Peace
 author_name: Hugo Grotius
 chapter_number: 35
-chapter_title: "CHAPTER V.: On the Right to Lay Waste an Enemy’s Country, and Carry Off His Effects."
+chapter_title: "Chapter V.: On the Right to Lay Waste an Enemy’s Country, and Carry Off His Effects."
 chapter_slug: 35
 variant_id: "f3d01047-f2be-5529-80b0-dec787b2c06e"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 764
+word_count: 760
 source_url: "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
 translator: Online Library of Liberty edition
 ---
@@ -22,7 +22,7 @@ An enemy’s property may be wasted and plundered—Things deemed sacred, how fa
 
 I. Cicero, in the third book of his offices, has said that there is nothing repugnant to the law of nature in spoiling the effects of an enemy, whom by the same law we are authorized to kill. Wherefore it is not surprising that the same things should be allowed by the law of nations. Polybius, for this reason, in the fifth book of his history, maintains, that the laws of war authorize the destruction of an enemy’s forts, harbours, and fleets, the seizure of his men, or carrying off the produce of his country, and every thing of that description. And we find from Livy that there are certain rights of war, by which an enemy must expect to suffer the calamities, which he is allowed to inflict, such as the Burning of corn, the destruction of houses, and the plunder of men and cattle. Almost every page of history abounds in examples of entire cities being destroyed, walls leveled to the ground, and even whole countries wasted by fire and sword. Even in cases of surrender, towns have sometimes been destroyed, while the inhabitants were spared —an example of which is given by Tacitus, in the taking of Artaxata by the Romans; the inhabitants opened their gates and were spared, but the town was devoted to the flames.
 
-II. Nor does the law of nations, in itself, considered apart from other duties, which will be mentioned hereafter, make any exemption in favour of things deemed sacred. For when places are taken by an enemy, all things without exception, whether sacred or not, must fall a sacrifice. For which it is assigned as a reason, that things which are called sacred, are not actually excepted from all human uses, but are a kind of public property, called sacred indeed from the general purposes, to which they are more immediately devoted. And as a proof of this, it is usual, when one nation surrenders to Edition: current; Page: [333] another state or sovereign, to surrender, along with other rights, every thing of a sacred kind, as appears by the form cited from Livy in a former part of this treatise.
+II. Nor does the law of nations, in itself, considered apart from other duties, which will be mentioned hereafter, make any exemption in favour of things deemed sacred. For when places are taken by an enemy, all things without exception, whether sacred or not, must fall a sacrifice. For which it is assigned as a reason, that things which are called sacred, are not actually excepted from all human uses, but are a kind of public property, called sacred indeed from the general purposes, to which they are more immediately devoted. And as a proof of this, it is usual, when one nation surrenders to another state or sovereign, to surrender, along with other rights, every thing of a sacred kind, as appears by the form cited from Livy in a former part of this treatise.
 
 And therefore Ulpian says, that the public have a property in sacred things. Conformably to which Tacitus says, that “in the Italian towns all the temples, the images of the Gods, and every thing connected with religion belonged of right to the Roman people.” For this reason a nation, as the Lawyers, Paulus and Venuleius openly maintain, may, under a change of circumstances, convert to secular uses things, that have before been consecrated: and an overruling necessity may justify the hand, which has formely consecrated the object in employing it as one of the resources and instruments of war. A thing which Pericles once did under a pledge of making the restitution: Mago did the same in Spain, and the Romans in the Mithridatic war. We read of the same actions done by Sylla, Pompey, Caesar, and others. Plutarch in his life of Tiberius Gracchus says that nothing is so sacred and inviolable, as divine offerings: yet to one can hinder these from being removed or applied to other purposes at the pleasure of the state. Thus Livy mentions the ornaments of the temples, which Marcellus brought from Syracuse to Rome, as acquisitions made by the right of war.
 

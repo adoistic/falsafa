@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 50,
+  "chapter_title": "Chpt. 13 Retreat after a lost Battle",
+  "chapter_slug": "50-chpt-13-retreat-after-a-lost-battle",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d917e699-f8ff-5ca5-b2f4-a5efbbf4c676",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 919,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book4/ch13.htm"
+    }
+  ]
+}

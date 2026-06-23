@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-james-a-pluralistic-universe-6dc780",
+  "work_title": "A Pluralistic Universe",
+  "chapter_number": 7,
+  "chapter_title": "Lecture VI",
+  "chapter_slug": "07-lecture-vi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74326fce-eb0e-5fa5-a594-b0e7bae61de3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1406,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/11984"
+    }
+  ]
+}

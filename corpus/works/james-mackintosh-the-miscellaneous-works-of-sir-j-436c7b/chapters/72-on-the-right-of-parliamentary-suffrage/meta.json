@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 72,
+  "chapter_title": "On the Right of Parliamentary Suffrage.",
+  "chapter_slug": "72-on-the-right-of-parliamentary-suffrage",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "28501ebf-d2a6-5773-bd98-53f03a777356",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10903,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

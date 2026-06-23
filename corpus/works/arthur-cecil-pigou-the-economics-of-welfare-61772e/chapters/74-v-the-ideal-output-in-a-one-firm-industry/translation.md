@@ -4,7 +4,7 @@ work_slug: "arthur-cecil-pigou-the-economics-of-welfare-61772e"
 work_title: The Economics of Welfare
 author_name: Arthur Cecil Pigou
 chapter_number: 74
-chapter_title: "V THE IDEAL OUTPUT IN A ONE-FIRM INDUSTRY"
+chapter_title: "V the Ideal Output in a One-firm Industry"
 chapter_slug: "74-v-the-ideal-output-in-a-one-firm-industry"
 variant_id: "f162327e-9466-5ab1-9fbb-a04075d9b1e4"
 content_type: translation

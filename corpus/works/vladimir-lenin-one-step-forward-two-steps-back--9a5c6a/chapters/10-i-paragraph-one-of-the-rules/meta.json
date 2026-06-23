@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-one-step-forward-two-steps-back--9a5c6a",
+  "work_title": "One Step Forward, Two Steps Back (The Crisis in Our Party)",
+  "chapter_number": 10,
+  "chapter_title": "I. Paragraph One of the Rules",
+  "chapter_slug": "10-i-paragraph-one-of-the-rules",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7d089293-2836-5735-8087-355c5daa3598",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8908,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1904/onestep/i.htm"
+    }
+  ]
+}

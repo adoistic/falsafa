@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 47,
+  "chapter_title": "The God of the Bible Against Slavery.",
+  "chapter_slug": "47-the-god-of-the-bible-against-slavery",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a56e6c9f-b764-52b1-9163-9689671d2811",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4358,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

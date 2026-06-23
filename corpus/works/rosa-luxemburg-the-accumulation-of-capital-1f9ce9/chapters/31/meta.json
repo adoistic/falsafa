@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-accumulation-of-capital-1f9ce9",
+  "work_title": "The Accumulation of Capital",
+  "chapter_number": 31,
+  "chapter_title": "Chapter 30. International Loans",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ad086d15-f32b-5cc9-a774-339063d0d24f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8928,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch30.htm"
+    }
+  ]
+}

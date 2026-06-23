@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 75,
+  "chapter_title": "Letter 75",
+  "chapter_slug": "75-letter-75",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "683c366b-427a-5d46-a8d6-9f2d1eae3dd2",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6feddbb4-59ff-5983-8b4a-1428d80ef32a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1387,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

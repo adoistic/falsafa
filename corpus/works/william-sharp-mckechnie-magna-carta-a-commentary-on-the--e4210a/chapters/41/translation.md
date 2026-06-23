@@ -4,7 +4,7 @@ work_slug: "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a"
 work_title: "Magna Carta: A Commentary on the Great Charter of King John"
 author_name: William Sharp McKechnie
 chapter_number: 41
-chapter_title: CHAPTER SEVEN.
+chapter_title: Chapter Seven.
 chapter_slug: 41
 variant_id: "1b388020-1791-590f-8927-a04ca28ba3d4"
 content_type: translation

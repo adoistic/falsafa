@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2955
+word_count: 2939
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
@@ -34,7 +34,7 @@ You seem to have no conception of any other “liberty” whatever.
 
 You give us no idea of any other “liberty” that we can secure to ourselves, even though “every citizen”—fifty millions and more of them—shall all keep “a vigilant watch and close scrutiny” upon the lawmakers.
 
-Now, inasmuch as the human race always have had all the “liberty” their lawmakers have seen fit to permit them to have; and inasmuch as, under your system of lawmaking, they always will have as much “liberty” as their lawmakers shall see fit to give them; and inasmuch as you apparently concede the right, which the Edition: current; Page: [30] lawmakers have always claimed, of killing all those who are not content with so much “liberty” as their lawmakers have seen fit to allow them,—it seems very plain that you have not added anything to our stock of knowledge on the subject of “our liberty.”
+Now, inasmuch as the human race always have had all the “liberty” their lawmakers have seen fit to permit them to have; and inasmuch as, under your system of lawmaking, they always will have as much “liberty” as their lawmakers shall see fit to give them; and inasmuch as you apparently concede the right, which the lawmakers have always claimed, of killing all those who are not content with so much “liberty” as their lawmakers have seen fit to allow them,—it seems very plain that you have not added anything to our stock of knowledge on the subject of “our liberty.”
 
 Leaving us thus, as you do, in as great darkness as we ever were, on this all-important subject of “our liberty,” I think you ought to submit patiently to a little questioning on the part of those of us, who feel that all this lawmaking—each and every separate particle of it—is a violation of “our liberty.”
 
@@ -52,7 +52,7 @@ That this is so is proved by the fact that all a man’s natural rights stand up
 
 Plainly, unless all a man’s natural rights are inviolable by lawmakers, none of them are. It is an absurdity to say that a man has any rights of his own, if other men, whether calling themselves a government, or by any other name, have the right to take them from him, without his consent. Therefore the very idea of a lawmaking government necessarily implies a denial of all such things as individual liberty, or individual rights.
 
-From this statement it does not follow that every lawmaking government will, in practice, take from every man all his natural rights. It will do as it pleases about it. It will take some, leaving him to enjoy others, just as its own pleasure or discretion shall dictate at the time. It would defeat its own ends, if it were wantonly to take away all his natural rights,—as, for example, his right to live, and to breathe,—for then he would be dead, and the government could then get Edition: current; Page: [31] nothing more out of him. The most tyrannical government will, therefore, if it have any sense, leave its victims enough liberty to enable them to provide for their own subsistence, to pay their taxes, and to render such military or other service as the government may have need of. But it will do this for its own good, and not for theirs. In allowing them this liberty, it does not at all recognize their right to it, but only consults its own interests.
+From this statement it does not follow that every lawmaking government will, in practice, take from every man all his natural rights. It will do as it pleases about it. It will take some, leaving him to enjoy others, just as its own pleasure or discretion shall dictate at the time. It would defeat its own ends, if it were wantonly to take away all his natural rights,—as, for example, his right to live, and to breathe,—for then he would be dead, and the government could then get nothing more out of him. The most tyrannical government will, therefore, if it have any sense, leave its victims enough liberty to enable them to provide for their own subsistence, to pay their taxes, and to render such military or other service as the government may have need of. But it will do this for its own good, and not for theirs. In allowing them this liberty, it does not at all recognize their right to it, but only consults its own interests.
 
 Now, sir, this is the real character of the government of the United States, as it is of all other lawmaking governments. There is not a single human right, which the government of the United States recognizes as inviolable. It tramples upon any and every individual right, whenever its own will, pleasure, or discretion shall so dictate. It takes men’s property, liberty, and lives whenever it can serve its own purposes by doing so.
 
@@ -86,7 +86,7 @@ All these things prove that the government recognizes no right of the individual
 
 This is proved by the fact that it takes, for its own uses, any and every man’s property—when it pleases, and as much of it as it pleases—without obtaining, or even asking, his consent.
 
-This taking of a man’s property, without his consent, is a denial of his right of property; for the right of property is the right of supreme, absolute, and irresponsible dominion over anything that is naturally a subject of property,—that is, of Edition: current; Page: [33] ownership. It is a right against all the world. And this right of property—this right of supreme, absolute, and irresponsible dominion over anything that is naturally a subject of ownership—is subject only to this qualification, viz., that each man must so use his own, as not to injure another.
+This taking of a man’s property, without his consent, is a denial of his right of property; for the right of property is the right of supreme, absolute, and irresponsible dominion over anything that is naturally a subject of property,—that is, of ownership. It is a right against all the world. And this right of property—this right of supreme, absolute, and irresponsible dominion over anything that is naturally a subject of ownership—is subject only to this qualification, viz., that each man must so use his own, as not to injure another.
 
 If A uses his own property so as to injure the person or property of B, his own property may rightfully be taken to any extent that is necessary to make reparation for the wrong he has done.
 
@@ -108,7 +108,7 @@ It asserts that wilderness land is the property of the government; and that indi
 
 The government has no more right to claim the ownership of wilderness lands, than it has to claim the ownership of the sunshine, the water, or the atmosphere. And it has no more right to punish a man for taking possession of wilderness land, and cultivating it, without the consent of the government, than it has to punish him for breathing the air, drinking the water, or enjoying the sunshine, without a special grant from the government.
 
-In thus asserting the government’s right of property in wilderness land, and in denying men’s right to take possession of and cultivate it, except on first obtaining a grant from the government,—which grant the government may withhold if it pleases,—the government plainly denies the natural right of men to live on this Edition: current; Page: [34] planet, by denying their natural right to the means that are indispensable to their procuring the food that is necessary for supporting life.
+In thus asserting the government’s right of property in wilderness land, and in denying men’s right to take possession of and cultivate it, except on first obtaining a grant from the government,—which grant the government may withhold if it pleases,—the government plainly denies the natural right of men to live on this planet, by denying their natural right to the means that are indispensable to their procuring the food that is necessary for supporting life.
 
 In asserting its right of arbitrary dominion over that natural wealth that is indispensable to the support of human life, it asserts its right to withhold that wealth from those whose lives are dependent upon it. In this way it denies the natural right of human beings to live on the planet. It asserts that government owns the planet, and that men have no right to live on it, except by first getting a permit from the government.
 

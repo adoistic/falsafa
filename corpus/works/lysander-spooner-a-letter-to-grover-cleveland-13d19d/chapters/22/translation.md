@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3241
+word_count: 3221
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
@@ -24,7 +24,7 @@ This monopoly is established by a prohibitory tax—a tax of ten per cent.—on 
 
 This ten per cent. is called a “tax,” but is really a penalty, and is intended as such, and as nothing else. Its whole purpose is—not to raise revenue—but solely to establish a monopoly of money, by prohibiting the issue of all notes intended for circulation as money, except those issued, or specially licensed, by the government itself.
 
-This prohibition upon the issue of all notes, except those issued, or specially licensed, by the government, is a prohibition upon all freedom of industry and traffic. It is a prohibition upon the exercise of men’s natural right to lend and hire such money capital as all men need to enable them to create and distribute Edition: current; Page: [75] wealth, and supply their own wants, and provide for their own happiness. Its whole purpose is to reduce, as far as possible, the great body of the people to the condition of servants to a few—a condition but a single grade above that of chattel slavery—in which their labor, and the products of their labor, may be extorted from them at such prices only as the holders of the monopoly may choose to give.
+This prohibition upon the issue of all notes, except those issued, or specially licensed, by the government, is a prohibition upon all freedom of industry and traffic. It is a prohibition upon the exercise of men’s natural right to lend and hire such money capital as all men need to enable them to create and distribute wealth, and supply their own wants, and provide for their own happiness. Its whole purpose is to reduce, as far as possible, the great body of the people to the condition of servants to a few—a condition but a single grade above that of chattel slavery—in which their labor, and the products of their labor, may be extorted from them at such prices only as the holders of the monopoly may choose to give.
 
 This prohibitory tax—so-called—is therefore really a penalty imposed upon the exercise of men’s natural right to create and distribute wealth, and provide for their own and each other’s wants. And it is imposed solely for the purpose of establishing a practically omnipotent monopoly in the hands of a few.
 
@@ -40,7 +40,7 @@ No person, nor any association of persons, incorporated or unincorporated—unle
 
 the act would have been the same, in effect and intention, as is this act, that imposes what it calls a “tax.” The penalty would have been understood by everybody as a punishment for issuing the notes; and would have been applied to, and enforced against, those only who should have issued them. And it is the same with this so-called tax. It will never be collected, except for the same cause, and under the same circumstances, as the penalty would have been. It has no more to do with raising a revenue, than the penalty would have had. And all these lying lawmakers and courts know it.
 
-But if congress had put this prohibition distinctly in the form of a penalty, the usurpation would have been so barefaced—so destitute of all color of constitutional Edition: current; Page: [76] authority—that congress dared not risk the consequences. And possibly the court might not have dared to sanction it; if, indeed, there be any crime or usurpation which the court dare not sanction. So these knavish lawmakers called this penalty a “tax”; and the court says that such a “tax” is clearly constitutional. And the monopoly has now been established for twenty years. And substantially all the industrial and financial troubles of that period have been the natural consequences of the monopoly.
+But if congress had put this prohibition distinctly in the form of a penalty, the usurpation would have been so barefaced—so destitute of all color of constitutional authority—that congress dared not risk the consequences. And possibly the court might not have dared to sanction it; if, indeed, there be any crime or usurpation which the court dare not sanction. So these knavish lawmakers called this penalty a “tax”; and the court says that such a “tax” is clearly constitutional. And the monopoly has now been established for twenty years. And substantially all the industrial and financial troubles of that period have been the natural consequences of the monopoly.
 
 If congress had laid a prohibitory tax upon all food—that is, had imposed a penalty upon the production and sale of all food—except such as it should have itself produced, or specially licensed; and should have reduced the amount of food, thus produced or licensed, to one tenth, twentieth, or fiftieth of what was really needed; the motive and the crime would have been the same, in character, if not in degree, as they are in this case, viz., to enable the few holders of the licensed food to extort, from everybody else, by the fear of starvation, all their (the latter’s) earnings and property, in exchange for this small quantity of privileged food.
 
@@ -58,7 +58,7 @@ Let us look at these constitutional provisions, and see how much authority congr
 
 The congress shall have power to lay and collect taxes, duties, imposts, and excises, to pay the debts, and provide for the common defence and general welfare of the United States.
 
-This provision plainly authorizes no taxation whatever, except for the raising of revenue to pay the debts and legitimate expenses of the government. It no more authorizes taxation for the purpose of establishing monopolies of any kind whatever, than it does for taking openly and boldly all the property of the many, Edition: current; Page: [77] and giving it outright to a few. And none but a congress of usurpers, robbers, and swindlers would ever think of using it for that purpose.
+This provision plainly authorizes no taxation whatever, except for the raising of revenue to pay the debts and legitimate expenses of the government. It no more authorizes taxation for the purpose of establishing monopolies of any kind whatever, than it does for taking openly and boldly all the property of the many, and giving it outright to a few. And none but a congress of usurpers, robbers, and swindlers would ever think of using it for that purpose.
 
 The court says, in effect, that this provision gives congress power to establish the present monopoly of money; that the power to tax all other money, is a power to prohibit all other money; and a power to prohibit all other money is a power to give the present money a monopoly.
 
@@ -96,7 +96,7 @@ The power itself is a frivolous one, of little or no utility; for the weighing a
 
 And all excuses for establishing monopolies of money, by prohibiting all other money than the coins, would also have been avoided.
 
-As it is, the constitution imposes no prohibition upon the coining of money by individuals, but only by State governments. Individuals are left perfectly free to Edition: current; Page: [79] coin it, except that they must not “counterfeit the securities and current coin of the United States.”
+As it is, the constitution imposes no prohibition upon the coining of money by individuals, but only by State governments. Individuals are left perfectly free to coin it, except that they must not “counterfeit the securities and current coin of the United States.”
 
 For quite a number of years after the discovery of gold in California—that is, until the establishment of a government mint there—a large part of the gold that was taken out of the earth, was coined by private persons and companies; and this coinage was perfectly legal. And I do not remember to have ever heard any complaint, or accusation, that it was not honest and reliable.
 
@@ -114,7 +114,7 @@ Certainly no such connection is visible to the legal eye. But it is distinctly v
 
 To a government, whose usurpations and crimes have brought it to the verge of destruction, these men say:
 
-Make bonds bearing six per cent. interest; sell them to us at half their face value; then give us a monopoly of money based upon these bonds—such a monopoly as will subject the great body of the people to a dependence upon us for the necessaries of life, and compel them to sell their labor and property to us at our own prices; then, under pretence of raising Edition: current; Page: [80] revenue to pay the interest and principal of the bonds, impose such a tariff upon imported commodities as will enable us to get fifty per cent. more for our own goods than they are worth; in short, pledge to us all the power of the government to extort for us, in the future, everything that can be extorted from the producers of wealth, and we will lend you all the money you need to maintain your power.
+Make bonds bearing six per cent. interest; sell them to us at half their face value; then give us a monopoly of money based upon these bonds—such a monopoly as will subject the great body of the people to a dependence upon us for the necessaries of life, and compel them to sell their labor and property to us at our own prices; then, under pretence of raising revenue to pay the interest and principal of the bonds, impose such a tariff upon imported commodities as will enable us to get fifty per cent. more for our own goods than they are worth; in short, pledge to us all the power of the government to extort for us, in the future, everything that can be extorted from the producers of wealth, and we will lend you all the money you need to maintain your power.
 
 And the government has no alternative but to comply with this infamous proposal, or give up its infamous life.
 

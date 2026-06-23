@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-religion-of-socialism-b65d8b",
+  "work_title": "The Religion of Socialism",
+  "chapter_number": 9,
+  "chapter_title": "The Criminal Court Judge",
+  "chapter_slug": "09-the-criminal-court-judge",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2b79b57c-6d11-5e10-8f3d-0c9609075867",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1620,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1886/01/judge.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-mctaggart-a-commentary-on-hegels-logic-5c82b2",
+  "work_title": "A Commentary on Hegel's Logic",
+  "chapter_number": 11,
+  "chapter_title": "Chapter X",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "094ccd2c-9269-557c-8b12-5ebd20715dee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2094,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/mctaggart/logic/ch10.htm"
+    }
+  ]
+}

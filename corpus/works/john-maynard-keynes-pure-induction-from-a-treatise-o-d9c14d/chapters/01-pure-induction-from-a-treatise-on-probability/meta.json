@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-maynard-keynes-pure-induction-from-a-treatise-o-d9c14d",
+  "work_title": "Pure Induction (from A Treatise on Probability)",
+  "chapter_number": 1,
+  "chapter_title": "Pure Induction (from A Treatise on Probability)",
+  "chapter_slug": "01-pure-induction-from-a-treatise-on-probability",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "43bac6e8-b741-5327-9b3c-af8c42e69405",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1105,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/keynes/1920/pure-induction.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 4,
+  "chapter_title": "Chapter VI. Absolute Critical Criticism, or Critical Criticism in the Person of Herr Bruno",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4dd4bd0c-83c7-51af-9cd9-af68280ed97d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2779,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1895/misc/holy-fam/holy-fam.htm"
+    }
+  ]
+}

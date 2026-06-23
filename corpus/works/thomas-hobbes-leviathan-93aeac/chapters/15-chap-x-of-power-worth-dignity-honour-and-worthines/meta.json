@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 15,
+  "chapter_title": "Chap. X.: Of Power, Worth, Dignity, Honour, and Worthinesse.",
+  "chapter_slug": "15-chap-x-of-power-worth-dignity-honour-and-worthines",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd376f4a-4331-5041-9388-97efeffaf87f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3108,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

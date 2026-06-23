@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 80,
+  "chapter_title": "Xxvi.—: Contract no friendship with an angry man, nor walk with a furious one",
+  "chapter_slug": "80-xxvi-contract-no-friendship-with-an-angry-man-nor-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b5651f76-a568-5de2-8a56-e68548f25e41",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 138,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

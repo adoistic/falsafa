@@ -1,0 +1,53 @@
+---
+work_id: "dc898f19-2632-5c72-b197-d73f331680f9"
+work_slug: "emma-goldman-the-social-significance-of-the-m-dc898f"
+work_title: The Social Significance of the Modern Drama
+author_name: Emma Goldman
+chapter_number: 39
+chapter_title: "Part 18, Chapter 3: The Cherry Orchard"
+chapter_slug: 39
+variant_id: "33abaea0-ab0f-5fb4-ab20-468bd9a5b887"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 999
+source_url: "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-18-chapter-3.html"
+translator: Marxists Internet Archive edition
+---
+
+"The Cherry Orchard" is Tchekhof's prophetic song. In this play he depicts three stages of social development and their reflex in literature.
+
+Mme. Ranevsky, the owner of the cherry orchard, an estate celebrated far and wide for its beauty and historic traditions, is deeply attached to the family place. She loves it for its romanticism: nightingales sing in the orchard, accompanying the wooing of lovers. She is devoted to it because of the memory of her ancestors and because of the many tender ties which bind her to the orchard. The same feeling and reverence is entertained by her brother Leonid Gayef. They are expressed in the Ode to an Old Family Cupboard:
+
+Gayef. Beloved and venerable cupboard; honor and glory to your existence, which for more than a hundred years has been directed to the noble ideals of justice and virtue. Your silent summons to profitable labor has never weakened in all these hundred years. You have upheld the courage of succeeding generations of human kind; you have upheld faith in a better future and cherished in us ideals of goodness and social consciousness.
+
+But the social consciousness of Gayef and of his sister is of a paternal nature: the attitude of the aristocracy toward its serfs. It is a paternalism that takes no account of the freedom and happiness of the people,- the romanticism of a dying class.
+
+Mme. Ranevsky is impoverished. The cherry orchard is heavily mortgaged and as romance and sentiment cannot liquidate debts, the beautiful estate falls into the cruel hands of commercialism.
+
+The merchant Yermolai Lopakhin buys the place. He is in ecstasy over his newly acquired possession. He the owner -- he who had risen from the serfs of the former master of the orchard!
+
+Lopakhin. Just think of it! The cherry orchard is mine! Mine! Tell me that I'm drunk; tell me that I'm off my head; tell me that it's all a dream! . . . If only my father and my grandfather could rise from their graves and see the whole affair, how their Yermolai, their flogged and ignorant Yermolai, who used to run about barefooted in the winter, how this same Yermolai had bought a property that hasn't its equal for beauty anywhere in the whole world! I have bought the property where my father and grandfather were slaves, where they weren't even allowed into the kitchen.
+
+A new epoch begins in the cherry orchard. On the ruins of romanticism and aristocratic ease there rises commercialism, its iron hand yoking nature, devastating her beauty, and robbing her of all radiance.
+
+With the greed of rich returns, Lopakhin cries, Lay the ax to the cherry orchard, come and see the trees fall down! We'll fill the place with villas."
+
+Materialism reigns supreme: it lords the orchard with mighty hand and in the frenzy of its triumph believes itself in control of the bodies and souls of men. But in the madness of conquest it has discounted a stubborn obstacle -- the spirit of idealism. It is symbolized in Peter Trophimof, the perpetual student," and Anya, the young daughter of Mme. Ranevsky. The "wonderful achievements" of the materialistic age do not enthuse them; they have emancipated themselves from the Lopakhin idol as well as from their aristocratic traditions.
+
+Anya. Why is it that I no longer love the cherry orchard as I did? I used to love it so tenderly; I thought there was no better place on earth than our garden.
+
+Trophimof. All Russia is our garden. The earth is great and beautiful; it is full of wonderful places. Think, Anya, your grandfather, your great-grandfather and all your ancestors were serf-owners, owners of living souls. Do not human spirits look out at you from every tree in the orchard, from every, leaf and every stem? Do you not hear human voices? . . . Oh! it is terrible. Your orchard frightens me. When I walk through it in the evening or at night, the rugged bark on the trees glow with a dim light, and the cherry trees seem to see all that happened a hundred and two hundred years ago in painful and oppressive dreams. Well, we have fallen at least two hundred years beyond the times. We have achieved nothing at all as yet; we have not made up our minds how we stand with the past; we only philosophize, complain of boredom, or drink vodka. It is so plain, that, before we can live in the present, we must first redeem the past, and have done with it.
+
+Anya. The house we live in has long since ceased to be our house; I shall go away.
+
+Trophimof. If you have the household keys, throw them in the well and go away. Be free, be free as the wind. . . . I am hungry as the winter; I am sick, anxious, poor as a beggar. Fate has tossed me hither and thither; I have been everywhere, everywhere. But everywhere I have been, every minute, day and night, my soul has been full of mysterious anticipations. I feel the approach of happiness, Anya; I see it coming . . . it is coming towards us, nearer and nearer; I can hear the sound of its footsteps. . . . And if we do not see it, if we do not know it, what does it matter? Others will see it.
+
+The new generation, on the threshold of the new epoch, hears the approaching footsteps of the Future. And even if the Anyas and Trophimofs of to-day will not see it, others will.
+
+It was not given to Anton Tchekhof to see it with his bodily eyes. But his prophetic vision beheld the coming of the New Day, and with powerful pen he proclaimed it, that others might see it. Far from being a pessimist, as charged by unintelligent critics, his faith was strong in the possibilities of liberty.
+
+This is the inspiring message of "The Cherry Orchard."

@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 23,
+  "chapter_title": "XXI. Through Spain",
+  "chapter_slug": "23-xxi-through-spain",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5ccec3dc-9701-5057-9f79-b919c086c245",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4637,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch21.htm"
+    }
+  ]
+}

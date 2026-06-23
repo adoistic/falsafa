@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 983
+word_count: 975
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
 
-If, now, it be asked, what is this constitutional “obligation of contracts,” which the States are forbidden to impair, the answer is, that it is, and necessarily must be, the natural obligation; or that obligation, which contracts have, on principles Edition: current; Page: [59] of natural law, and natural justice, as distinguished from any arbitrary or unjust obligation, which lawmakers may assume to create, and attach to contracts.
+If, now, it be asked, what is this constitutional “obligation of contracts,” which the States are forbidden to impair, the answer is, that it is, and necessarily must be, the natural obligation; or that obligation, which contracts have, on principles of natural law, and natural justice, as distinguished from any arbitrary or unjust obligation, which lawmakers may assume to create, and attach to contracts.
 
 This natural obligation is the only one “obligation,” which all obligatory contracts can be said to have. It is the only inherent “obligation,” that any contract can be said to have. It is recognized all over the world—at least as far as it is known—as the one only true obligation, that any, or all, contracts can have. And, so far as it is known—it is held valid all over the world, except in those exceptional cases, where arbitrary and tyrannical governments have assumed to annul it, or substitute some other in its stead.
 
@@ -32,7 +32,7 @@ But this is not all.
 
 The right of property is a natural right. The only real right of property, that is known to mankind, is the natural right. Men have also a natural right to convey their natural rights of property from one person to another. And there is no means known to mankind, by which this natural right of property can be transferred, or conveyed, by one man to another, except by such contracts as are naturally obligatory; that is, naturally capable of conveying and binding the right of property.
 
-All contracts whatsoever, that are naturally capable, competent, and sufficient to convey, transfer, and bind the natural right of property, are naturally obligatory; Edition: current; Page: [60] and really and truly do convey, transfer, and bind such rights of property as they purport to convey, transfer, and bind.
+All contracts whatsoever, that are naturally capable, competent, and sufficient to convey, transfer, and bind the natural right of property, are naturally obligatory; and really and truly do convey, transfer, and bind such rights of property as they purport to convey, transfer, and bind.
 
 All the other modes, by which one man has ever attempted to acquire the property of another, have been thefts, robberies, and frauds. But these, of course, have never conveyed any real rights of property.
 

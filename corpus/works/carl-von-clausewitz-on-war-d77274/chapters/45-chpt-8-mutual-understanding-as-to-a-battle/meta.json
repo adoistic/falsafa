@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 45,
+  "chapter_title": "Chpt. 8 Mutual Understanding as to a Battle",
+  "chapter_slug": "45-chpt-8-mutual-understanding-as-to-a-battle",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "47e53743-7610-5fa0-8414-fa24a6b2d999",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1140,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book4/ch08.htm"
+    }
+  ]
+}

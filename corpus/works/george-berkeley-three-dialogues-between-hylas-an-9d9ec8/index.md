@@ -4,15 +4,19 @@ slug: "george-berkeley-three-dialogues-between-hylas-an-9d9ec8"
 title: Three Dialogues Between Hylas and Philonous
 author:
   name: George Berkeley
-  biography: "George Berkeley (1685-1753)."
+  biography: "Irish philosopher and Anglican bishop of Cloyne, the central figure of British empiricist immaterialism. His Principles and Dialogues argued that to be is to be perceived, denying the existence of mind-independent matter."
+  birth_year: 1685
+  death_year: 1753
+  nationality: Irish
 era: Enlightenment
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "Three Dialogues Between Hylas and Philonous, by George Berkeley (1685-1753), from Project Gutenberg's public-domain text."
 difficulty: Advanced
-total_logical_chapters: 1
-total_variant_entries: 1
+published_year: 1713
+total_logical_chapters: 3
+total_variant_entries: 3
 thothica_role: catalog
 ---
 
@@ -22,4 +26,6 @@ Three Dialogues Between Hylas and Philonous, by George Berkeley (1685-1753), fro
 
 ## Chapters
 
-01. [Three Dialogues Between Hylas and Philonous](./chapters/01-three-dialogues-between-hylas-and-philonous/) — prose, 1 variant
+01. [First Dialogue](./chapters/01-first-dialogue/) — prose, 1 variant
+02. [Second Dialogue](./chapters/02-second-dialogue/) — prose, 1 variant
+03. [Third Dialogue](./chapters/03-third-dialogue/) — prose, 1 variant

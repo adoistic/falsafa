@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 3,
+  "chapter_title": "Deportation to Russia",
+  "chapter_slug": "03-deportation-to-russia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f0524bd-fd95-50f9-9127-c98bc22868b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1947,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch01.htm"
+    }
+  ]
+}

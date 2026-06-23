@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-mass-strike-the-political-pa-0ea472",
+  "work_title": "The Mass Strike, the Political Party and the Trade Unions",
+  "chapter_number": 2,
+  "chapter_title": "The Mass Strike, A Historical and Not an Artificial Product",
+  "chapter_slug": "02-the-mass-strike-a-historical-and-not-an-artificial",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc76d238-2fb9-5f8b-b38b-4bb569ffe9c8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1916,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1906/mass-strike/ch02.htm"
+    }
+  ]
+}

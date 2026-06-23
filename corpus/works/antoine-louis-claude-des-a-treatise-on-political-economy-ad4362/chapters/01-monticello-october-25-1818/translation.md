@@ -4,7 +4,7 @@ work_slug: "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362"
 work_title: A Treatise on Political Economy
 author_name: Antoine Louis Claude Destutt de Tracy
 chapter_number: 1
-chapter_title: MONTICELLO, October 25, 1818.
+chapter_title: Monticello, October 25, 1818.
 chapter_slug: "01-monticello-october-25-1818"
 variant_id: "14857a8b-7c9d-56e6-84bf-03a66d26392d"
 content_type: translation

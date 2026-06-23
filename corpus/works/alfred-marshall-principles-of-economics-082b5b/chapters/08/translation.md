@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 8
-chapter_title: "BOOK II, CHAPTER IV: INCOME. CAPITAL."
+chapter_title: "Book II, Chapter IV: Income. Capital."
 chapter_slug: 08
 variant_id: "13e556d4-3170-5c92-b3b5-61811aeb7896"
 content_type: translation

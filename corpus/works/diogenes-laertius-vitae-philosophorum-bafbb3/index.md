@@ -4,7 +4,8 @@ slug: "diogenes-laertius-vitae-philosophorum-bafbb3"
 title: Vitae philosophorum
 author:
   name: Diogenes Laertius
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Greek biographer of the third century, author of a compilation of the lives and doctrines of the ancient philosophers. His Lives of Eminent Philosophers is the principal surviving source for the biographies and teachings of many Greek thinkers whose own works are lost.
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

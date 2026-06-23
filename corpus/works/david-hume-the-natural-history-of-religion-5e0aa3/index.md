@@ -4,13 +4,17 @@ slug: "david-hume-the-natural-history-of-religion-5e0aa3"
 title: The Natural History of Religion
 author:
   name: David Hume
-  biography: David Hume (1711–1776).
+  biography: Scottish philosopher and historian of the Edinburgh Enlightenment, friend and correspondent of Adam Smith. The Treatise and the Enquiries that recast it pressed empiricism to skeptical conclusions about causation and induction that philosophy has been answering ever since.
+  birth_year: 1711
+  death_year: 1776
+  nationality: Scottish
 era: Enlightenment
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "The Natural History of Religion, by David Hume (1711–1776), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1757
 total_logical_chapters: 17
 total_variant_entries: 17
 thothica_role: catalog
@@ -22,8 +26,8 @@ The Natural History of Religion, by David Hume (1711–1776), a public-domain te
 
 ## Chapters
 
-01. [INTRODUCTION.](./chapters/01-introduction/) — prose, 1 variant
-02. [THE NATURAL HISTORY OF RELIGION.](./chapters/02-the-natural-history-of-religion/) — prose, 1 variant
+01. [Introduction.](./chapters/01-introduction/) — prose, 1 variant
+02. [The Natural History of Religion.](./chapters/02-the-natural-history-of-religion/) — prose, 1 variant
 03. [Section I.: That Polytheism was the primary Religion of Men.](./chapters/03/) — prose, 1 variant
 04. [Section II.: Origin of Polytheism.](./chapters/04/) — prose, 1 variant
 05. [Section III.: The same subject continued.](./chapters/05/) — prose, 1 variant

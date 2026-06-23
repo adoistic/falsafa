@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 8,
+  "chapter_title": "Part 2, Chapter 2: The Father",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3d1ab5b1-3f22-54a2-920e-074d92e5ecb5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1364,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-2-chapter-2.html"
+    }
+  ]
+}

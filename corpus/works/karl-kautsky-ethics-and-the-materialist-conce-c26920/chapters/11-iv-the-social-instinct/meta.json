@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-ethics-and-the-materialist-conce-c26920",
+  "work_title": "Ethics and the Materialist Conception of History",
+  "chapter_number": 11,
+  "chapter_title": "IV. The Social Instinct",
+  "chapter_slug": "11-iv-the-social-instinct",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49b71e13-6fb2-5331-b2fd-c54465128517",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3480,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1906/ethics/ch04.htm"
+    }
+  ]
+}

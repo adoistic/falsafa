@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 56
-chapter_title: CHAPTER XVI.
+chapter_title: Chapter XIX
 chapter_slug: 56
 variant_id: "b1072336-edd9-5039-a275-5f89e6010760"
 content_type: translation
@@ -13,19 +13,23 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 601
+word_count: 639
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-For this Being it is the same to be just that it is to be justice; and so with regard to attributes that can be expressed in the same way: and none of these shows of what character, or how great, but what this Being is.
+In what sense nothing existed before or will exist after this Being.
 
-But perhaps, when this Being is called just, or great, or anything like these, it is not shown what it is, but of what character, or how great it is. For Edition: current; Page: [65] every such term seems to be used with reference to quantity or magnitude; because everything that is just is so through justness, and so with other like cases, in the same way. Hence, the supreme Nature itself is not just, except through justness.
+But here we are again confronted by the term nothing, and whatever our reasoning thus far, with the concordant attestation of truth and necessity, has concluded nothing to be. For, if the propositions duly set forth above have been confirmed by the fortification of logically necessary truth, not anything existed before the supreme Being, nor will anything exist after it. Hence, nothing existed before, and nothing will exist after, it. For, either something or nothing must have preceded it; and either something or nothing must be destined to follow it.
 
-It seems, then, that by participation in this quality, that is, justness, the supremely good Substance is called just. But, if this is so, it is just through another, and not through itself. But this is contrary to the truth already established, that it is good, or great, or whatever it is at all, through itself and not through another. So, if it is not just, except through justness, and cannot be just, except through itself, what can be more clear than that this Nature is itself justness? And, when it is said to be just through justness, it is the same as saying that it is just through itself. And, when it is said to be just through itself, nothing else is understood than that it is just through justness. Hence, if it is inquired what the supreme Nature, which is in question, is in itself, what truer answer can be given, than Justness?
+But, he who says that nothing existed before it appears to make this statement, “that there was before it a time when nothing existed, and that there will be after it a time when nothing will exist.” Therefore, when nothing existed, that Being did not exist, and when nothing shall exist, that Being will not exist. How is it, then, that it does not take inception from nothing or how is it that it will not come to nothing?—if that Being did not yet exist, when nothing already existed; and the same Being shall no longer exist, when nothing shall still exist. Of what avail is so weighty a mass of arguments, if this nothing so easily demolishes their structure? For, if it is established that the supreme Being succeeds nothing, which precedes it, and yields its place to nothing, which follows it, whatever has been posited as true above is necessarily unsettled by empty nothing.
 
-We must observe, then, how we are to understand the statement, that the Nature which is itself justness is just. For, since a man cannot be justness, but can possess justness, we do not conceive of a just man as being justness, but as possessing justness. Since, on the other hand, it cannot properly be said of the supreme Nature that it possesses justness, but that it is justness, when it is called just it is properly conceived of as being justness, but not as possessing justness. Hence, if, when it is said to be justness, it is not said of what character it is, but what it is, it follows that, when it is called just, it is not said of what character it is, but what it is.
+But, rather ought this nothing to be resisted, lest so many structures of cogent reasoning be stormed by nothing; and the supreme good, which has been sought and found by the light of truth, be lost for nothing. Let it rather be declared, then, that nothing did not exist before the supreme Being, and that nothing will not exist after it, rather than that, when a place is given before or after it to nothing, that Being which through itself brought into existence what was nothing, should be reduced through nothing to nothing.
 
-Therefore, seeing that it is the same to say of the supreme Being, that it is just and that it is justness; and, when it is said that it is justness, it is nothing else than saying that it is just; it makes no difference whether it is said to be justness or to be just. Hence, when one is asked regarding the supreme Nature, what it is, the answer, Just, is not less fitting than the answer, Justness. Moreover, what we see to have been proved in the case of justness, the intellect is compelled to acknowledge as true of all attributes which are similarly predicated of this supreme Nature. Whatever such attribute is predicated of it, then, it is shown, not of what character, or how great, but what it is.
+For this one assertion, namely, that nothing existed before the supreme Being, carries two meanings. For, one sense of this statement is that, before the supreme Being, there was a time when nothing was. But another understanding of the same statement is that, before the supreme Being, not anything existed. Just as, supposing I should say, “Nothing has taught me to fly,” I could explain this assertion either in this way, that nothing, as an entity in itself, which signifies not anything, has taught me actually to fly—which would be false; or in this way, that not anything has taught me to fly, which would be true.
 
-But it is obvious that whatever good thing the supreme Nature is, it is in the highest degree. It is, therefore, supreme Being, supreme Justness, supreme Wisdom, supreme Truth, supreme Goodness, supreme Greatness, supreme Beauty, supreme Immortality, supreme Incorruptibility, supreme Immutability, supreme Blessedness, supreme Eternity, supreme Power, supreme Unity; which is nothing else than supremely being, supremely living, etc.
+The former interpretation, therefore, which is followed by the inconsistency discussed above, is rejected by all reasoning as false. But there remains the other interpretation, which unites in perfect consistency with the foregoing arguments, and which, from the force of their whole correlation, must be true.
+
+Hence, the statement that nothing existed before that Being must be received in the latter sense. Nor should it be so explained, that it shall be understood that there was any time when that Being did not exist, and nothing did exist; but, so that it shall be understood that, before that Being, there was not anything. The same sort of double signification is found in the statement that nothing will exist after that Being.
+
+If, then, this interpretation of the term nothing, that has been given, is carefully analysed, most truly neither something nor nothing preceded or will follow the supreme Being, and the conclusion is reached, that nothing existed before or will exist after it. Yet, the solidity of the truths already established is in no wise impaired by the emptiness of nothing.

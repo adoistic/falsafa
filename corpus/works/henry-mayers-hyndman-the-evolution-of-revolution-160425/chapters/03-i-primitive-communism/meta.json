@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 3,
+  "chapter_title": "I. Primitive Communism",
+  "chapter_slug": "03-i-primitive-communism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e53ab462-86be-5d51-a1ba-018ba790084b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3313,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter01.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-the-life-of-richard-cobden-23f473",
+  "work_title": "The Life of Richard Cobden",
+  "chapter_number": 41,
+  "chapter_title": "(7.): To Mr. Bright",
+  "chapter_slug": "41-7-to-mr-bright",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e3d6695-59cf-5944-8be9-2ee8a9c4ce5d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 828,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+    }
+  ]
+}

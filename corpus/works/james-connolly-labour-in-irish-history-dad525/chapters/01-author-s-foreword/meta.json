@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-labour-in-irish-history-dad525",
+  "work_title": "Labour in Irish History",
+  "chapter_number": 1,
+  "chapter_title": "Author’s Foreword",
+  "chapter_slug": "01-author-s-foreword",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5084f1e9-e331-5e2e-a0a9-d02d6d2c66c6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2787,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1910/lih/foreword.htm"
+    }
+  ]
+}

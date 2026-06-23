@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-problems-of-mind-and-morals-97554e",
+  "work_title": "Problems of Mind and Morals",
+  "chapter_number": 2,
+  "chapter_title": "I. The Problem of Ethical Evolution",
+  "chapter_slug": "02-i-the-problem-of-ethical-evolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3f2cd454-91d7-598b-9f16-148c46f54b92",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7661,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1912/probs/01-ethicevol.htm"
+    }
+  ]
+}

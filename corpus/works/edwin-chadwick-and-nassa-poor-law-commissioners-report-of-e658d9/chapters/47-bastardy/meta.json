@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 47,
+  "chapter_title": "Bastardy",
+  "chapter_slug": "47-bastardy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "107b56d6-63c3-52b5-b072-cc7225131c42",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2503,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

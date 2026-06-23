@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-the-socialist-ideal-cc8407",
+  "work_title": "The Socialist Ideal",
+  "chapter_number": 1,
+  "chapter_title": "The Socialist Ideal",
+  "chapter_slug": "01-the-socialist-ideal",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "30797b21-74dc-5b43-a15c-9dc6c44f8a93",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3621,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1900/xx/ideal.htm"
+    }
+  ]
+}

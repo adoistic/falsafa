@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-the-rights-of-the-horse-and-the--bc7b19",
+  "work_title": "The Rights of the Horse and the Rights of Man",
+  "chapter_number": 1,
+  "chapter_title": "The Rights of the Horse and the Rights of Man",
+  "chapter_slug": "01-the-rights-of-the-horse-and-the-rights-of-man",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "32eaf617-4ca4-5a76-bc8d-f95d84fc19ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1500,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1900/xx/horse.htm"
+    }
+  ]
+}

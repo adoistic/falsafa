@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 11,
+  "chapter_title": "Ii.—: Of the Association of Ideas",
+  "chapter_slug": "11-ii-of-the-association-of-ideas",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da645546-0b46-55cb-83ff-9a8af73f6c6b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 678,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

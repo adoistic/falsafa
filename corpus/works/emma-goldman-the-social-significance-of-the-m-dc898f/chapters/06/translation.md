@@ -1,0 +1,89 @@
+---
+work_id: "dc898f19-2632-5c72-b197-d73f331680f9"
+work_slug: "emma-goldman-the-social-significance-of-the-m-dc898f"
+work_title: The Social Significance of the Modern Drama
+author_name: Emma Goldman
+chapter_number: 6
+chapter_title: "Part 1, Chapter 5: An Enemy of Society"
+chapter_slug: 06
+variant_id: "eebefb66-7d25-5fb4-b3ce-b6b739e21709"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1930
+source_url: "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-1-chapter-5.html"
+translator: Marxists Internet Archive edition
+---
+
+Dr. Thomas Stockmann is called to the position of medical adviser to the management of the "Baths," the main resource of his native town.
+
+A sincere man of high ideals, Dr. Stockmann returns home after an absence of many years, full of the spirit of enterprise and progressive innovation. For as he says to his brother Peter, the town Burgomaster, "I am so glad and content. I feel so unspeakably happy in the midst of all this growing, germinating life. After all, what a glorious time we do live in. It is as if a new world were springing up around us."
+
+Burgomaster. Do you really think so?
+
+Dr. Stockmann. Well, of course, you can't see this as clearly as I do. You've spent all your life in this place, and so your perceptions have been dulled. But I, who had to live up there in that small hole in the north all those years, hardly ever seeing a soul to speak a stimulating word to me--all this affects me as if I were carried to the midst of a crowded city--I know well enough that the conditions of life are small compared with many other towns. But here is life, growth, an infinity of things to work for and to strive for; and that is the main point.
+
+In this spirit Dr. Stockmann sets to his task. After two years of careful investigation, he finds that the Baths are built on a swamp, full of poisonous germs, and that people who come there for their health will be infected with fever.
+
+Thomas Stockmann is a conscientious physician. He loves his native town, but he loves his fellow-men more. He considers it his duty to communicate his discovery to the highest authority of the town, the Burgomaster, his brother Peter Stockmann.
+
+Dr. Stockmann is indeed an idealist; else he would know that the man is often lost in the official. Besides, Peter Stockmann is also the president of the board of directors and one of the heaviest stockholders of the Baths. Sufficient reason to upbraid his reckless medical brother as a dangerous man:
+
+Burgomaster. Anyhow, you've an ingrained propensity for going your own way. And that in a well-ordered community is almost as dangerous. The individual must submit himself to the whole community, or, to speak more correctly, bow to the authority that watches over the welfare of all.
+
+But the Doctor is not disconcerted: Peter is an official; he is not concerned with ideals. But there is the press,--that is the medium for his purpose! The staff of the People's Messenger--Hovstad, Billings, and Aslaksen, are deeply impressed by the Doctor's discovery. With one eye to good copy and the other to the political chances, they immediately put the People's Messenger at the disposal of Thomas Stockmann. Hovstad sees great possibilities for a thorough radical reform of the whole life of the community.
+
+Hovstad. To you, as a doctor and a man of science, this business of the water-works is an isolated affair. I fancy it hasn't occurred to you that a good many other things are connected with it. . . . The swamp our whole municipal life stands and rots in. . . . I think a journalist assumes an immense responsibility when he neglects an opportunity of aiding the masses, the poor, the oppressed. I know well enough that the upper classes will call this stirring up the people, and so forth, but they can do as they please, if only my conscience is clear.
+
+Aslaksen, printer of the People's Messenger, chairman of the Householders' Association, and agent for the Moderation Society, has, like Hovstad, a keen eye to business. He assures the Doctor of his whole-hearted coöperation, especially emphasizing that, "It might do you no harm to have us middle-class men at your back. We now form a compact majority in the town--when we really make up our minds to. And it's always as well, Doctor, to have the majority with you. . . . And so I think it wouldn't be amiss if we made some sort of a demonstration. . . . Of course with great moderation, Doctor. I am always in favor of moderation; for moderation is a citizen's first virtue--at least those are my sentiments."
+
+Truly, Dr. Stockmann is an idealist; else he would not place so much faith in the staff of the People's Messenger, who love the people so well that they constantly feed them with high-sounding phrases of democratic principles and of the noble function of the press, while they pilfer their pockets.
+
+That is expressed in Hovstad's own words, when Petra, the daughter of Dr. Stockmann, returns a sentimental novel she was to translate for the People's Messenger: "This can't possibly go into the Messenger," she tells Hovstad; "it is in direct contradiction to your own opinion."
+
+Hovstad. Well, but for the sake of the cause--
+
+Petra. You don't understand me yet. It is all about a supernatural power that looks after the so-called good people here on earth, and turns all things to their advantage at last, and all the bad people are punished.
+
+Hovstad. Yes, but that's very fine. It's the very thing the public like.
+
+Petra. And would you supply the public with such stuff? Why, you don't believe one word of it yourself. You know well enough that things don't really happen like that.
+
+Hovstad. You're right there; but an editor can't always do as he likes. He often has to yield to public opinion in small matters. After all, politics is the chief thing in life--at any rate for a newspaper; and if I want the people to follow me along the path of emancipation and progress, I mustn't scare them away. If they find such a moral story down in the cellar, they're much more willing to stand what is printed above it--they feel themselves safer.
+
+Editors of the stamp of Hovstad seldom dare to express their real opinions. They cannot afford to "scare away" their readers. They generally yield to the most ignorant and vulgar public opinion; they do not set themselves up against constituted authority. Therefore the People's Messenger drops the "greatest man" in town when it learns that the Burgomaster and the influential citizens are determined that the truth shall be silenced. The Burgomaster soundly denounces his brother's "rebellion."
+
+Burgomaster. The public doesn't need new ideas. The public is best served by the good old recognized ideas that they have already. . . . As an official, you've no right to have any individual conviction.
+
+Dr. Stockmann. The source is poisoned, man! Are you mad? We live by trafficking in filth and garbage. The whole of our developing social life is rooted in a lie!
+
+Burgomaster. Idle fancies--or something worse. The man who makes such offensive insinuations against his own native place must be an enemy of society.
+
+Dr. Stockmann. And I must bear such treatment! In my own house. Katrine! What do you think of it?
+
+Mrs. Stockmann. Indeed, it is a shame and an insult, Thomas---- . . . But, after all, your brother has the power----
+
+Dr. Stockmann. Yes, but I have the right!
+
+Mrs. Stockmann. Ah, yes, right, right! What is the good of being right when you haven't any might?
+
+Dr. Stockmann. What! No good in a free society to have right on your side? You are absurd, Katrine. And besides, haven't I the free and independent press with me? The compact majority behind me? That's might enough, I should think!
+
+Katrine Stockmann is wiser than her husband. For he who has no might need hope for no right. The good Doctor has to drink the bitter cup to the last drop before he realizes the wisdom of his wife.
+
+Threatened by the authorities and repudiated by the People's Messenger, Dr. Stockmann attempts to secure a hall wherein to hold a public meeting. A free-born citizen, he believes in the Constitution and its guarantees; he is determined to maintain his right of free expression. But like so many others, even most advanced liberals blinded by the spook of constitutional rights and free speech, Dr. Stockmann inevitably has to pay the penalty of his credulity. He finds every hall in town closed against him. Only one solitary citizen has the courage to open his doors to the persecuted Doctor, his old friend Horster. But the mob follows him even there and howls him down as an enemy of society. Thomas Stockmann makes the discovery in his battle with ignorance, stupidity, and vested interests that "the most dangerous enemies of truth and freedom in our midst are the compact majority, the damned compact liberal majority." His experiences lead him to the conclusion that "the majority is never right. . . . That is one of those conventional lies against which a free, thoughtful man must rebel. . . . The majority has might unhappily--but right it has not."
+
+Hovstad. The man who would ruin a whole community must be an enemy of society!
+
+Dr. Stockmann. It doesn't matter if a lying community is ruined! . . . You'll poison the whole country in time; you will bring it to such a pass that the whole country will deserve to perish. And should it come to this, I say, from the bottom of my heart: Perish the country! Perish all its people!
+
+Driven out of the place, hooted and jeered by the mob, Dr. Stockmann barely escapes with his life, and seeks safety in his home, only to find everything demolished there. In due time he is repudiated by the grocer, the baker, and the candlestick maker. The landlord, of course, is very sorry for him. The Stockmanns have always paid their rent regularly, but it would injure his reputation to have such an avowed rebel for a tenant. The grocer is sorry, and the butcher, too; but they can not jeopardize their business. Finally the board of education sends expressions of regret: Petra is an excellent teacher and the boys of Stockmann splendid pupils, but it would contaminate the other children were the Stockmanns allowed to remain in school. And again Dr. Stockmann learns a vital lesson. But he will not submit; he will be strong.
+
+Dr. Stockmann. Should I let myself be beaten off the field by public opinion, and the compact majority, and such deviltry? No, thanks. Besides, what I want is so simple, so clear and straightforward. I only want to drive into the heads of these curs that the Liberals are the worst foes of free men; that party-programs wring the necks of all young living truths; that considerations of expediency turn morality and righteousness upside down, until life is simply hideous. . . . I don't see any man free and brave enough to dare the Truth. . . . The strongest man is he who stands most alone.
+
+A confession of faith, indeed, because Henrik Ibsen, although recognized as a great dramatic artist, remained alone in his stand as a revolutionist.
+
+His dramatic art, without his glorious rebellion against every authoritative institution, against every social and moral lie, against every vestige of bondage, were inconceivable. Just as his art would lose human significance, were his love of truth and freedom lacking. Already in "Brand," Henrik Ibsen demanded all or nothing, no weak-kneed moderation,--no compromise of any sort in the struggle for the ideal. His proud defiance, his enthusiastic daring, his utter indifference to consequences, are Henrik Ibsen's bugle call, heralding a new dawn and the birth of a new race.

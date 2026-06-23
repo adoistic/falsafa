@@ -4,7 +4,7 @@ work_slug: "abbe-de-mably-remarks-concerning-the-governmen-569ca7"
 work_title: Remarks Concerning the Government and Laws of the United States of America
 author_name: Abbé de Mably
 chapter_number: 5
-chapter_title: APPENDIX.
+chapter_title: Appendix.
 chapter_slug: "05-appendix"
 variant_id: "541ec4d1-3815-5fe9-a498-140ab3d50fd6"
 content_type: translation

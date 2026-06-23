@@ -4,7 +4,7 @@ work_slug: "boethius-the-consolation-of-philosophy-88b715"
 work_title: The Consolation of Philosophy
 author_name: Boethius
 chapter_number: 17
-chapter_title: Book iv, prose 2.
+chapter_title: Book iii, metr. 2, Book iv, prose 2. (5)
 chapter_slug: 17
 variant_id: "1337daab-acea-5f3f-bb9b-5553825c2828"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 201
+word_count: 230
 source_url: "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
 translator: Online Library of Liberty edition
 ---
 
-‘Yf any man then that can go, and an other to whom the naturall propertie of the feete is wanting, stryving with his handes, stryves so to walke, which of these ij suppose you more worth?’ ‘Perform the rest if that you will, for no man doutes but he is more of force that hath the vse of nature, than he that wantes it.’ ‘But the greatest good,’ said she, ‘that is set before yll and good, the good desyre by naturall duty of vertue, the other by a scatterd desyre, and stryue to get that which is no proper gift, to such as will obtayne the greatest good. Dost thou think the contrary?’ ‘No,’ quoth I, ‘for that is playne that followes. For heerby may we gather that I graunted afore, good men to be mighty, and yll men weake.’ ‘Rightly hast thou discourst, And so, as phisicians ought to hope, that it is a signe of a helthy and Resisting Nature.’
+Wherefore if one, that can go vpon his feete, doeth walke, and another, who hath not this naturall function of his feete, endeuoureth to walke by creeping vpon his hands: which of these two is deseruedly to be esteemed the stronger? Inferre the rest (quoth I) for no man doubteth, but that hee which can vse that naturall function is stronger then he which cannot. But (quoth she) the good seeke to obtaine the chiefest good, which is equally proposed to badde and good, by the naturall function of vertues, but the euill endeuour to obtaine the same by diuers concupiscences, which are not the natural function of obtaining goodnesse. Thinkest thou otherwise? No (quoth I) for it is manifest, what followeth. For by force of that which I haue already granted, it is Edition: current; Page: [xlvi]necessary, that good men are powerful, and euil men weake. Thou runnest rightly (quoth she) and it is (as Physitions are wont to hope) a token of an erected and resisting nature.
 
-The next version, written by a certain ‘J. T.,’ was printed in London in 1609 for Matthew Lownes, as the title-page tells us. The book is dedicated to the Countess of Dorset. The metres are in terza rima.
+In 1664 appeared a free metrical version of the whole work, the prose being rendered in eight-syllable rhyming couplets (the metre of Hudibras), and the verse in quatrains of a peculiar metre, a8 b6 a8 b8. This was written by Harry Coningsby, a Royalist. The copy in the British Museum has a dedication, in the translator’s handwriting, to Sir Thomas Hyde.

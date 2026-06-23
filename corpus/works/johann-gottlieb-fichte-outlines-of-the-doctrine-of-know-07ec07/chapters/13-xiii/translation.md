@@ -1,0 +1,41 @@
+---
+work_id: "07ec0723-283b-5e05-a30d-32601db94b5c"
+work_slug: "johann-gottlieb-fichte-outlines-of-the-doctrine-of-know-07ec07"
+work_title: Outlines of the Doctrine of Knowledge
+author_name: Johann Gottlieb Fichte
+chapter_number: 13
+chapter_title: XIII.
+chapter_slug: "13-xiii"
+variant_id: "9e21cd2b-a033-5daf-a6a4-4067d7bb6bcf"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 846
+source_url: "https://www.marxists.org/reference/subject/philosophy/works/ge/fichte.htm"
+translator: William Smith
+---
+
+In the thought thus described I merely conceive of Knowledge as that which may be the Schema of divine Life, and, - since this possibility if the expression of God and is thus founded in Being, - as that which shall be the Schema of the Divine Life; - but I myself by no means am this. To be this actually no outward power can compel me; as before no outward power could compel me even to realise the Intuition of the true Material World, or to elevate myself to Pure Thought, and therefore to an actual although empty insight into the absolutely formal Imperative. This remains in my own power; nut now, since all the practical conditions are fulfilled, it stands immediately in power.
+
+If, setting aside on the one hand mere void Intuition, and on the other empty Intelligising, I should now, with absolute freedom and independence of these, realise my Power, what would ensue? A Schema; - a Knowledge therefore which, through Intelligising, I already know as the Schema of God; but which, in the knowledge thus realised, immediately appears to me as that which I absolutely shall; - a Knowledge, the substance of which proceeds neither from the World of Sense, for this is abolished, - nor from contemplation of the mere empty Form of Knowledge, for this too I have cast aside; - but which exists through absolutely as it is, just as the Divine Life, whose Schema it is, is through itself absolutely as it is.
+
+I know now that I shall. But all Actual Knowledge brings with it, by its formal nature, its schematised apposition; - although I now know of the Schema of God, yet I am not yet immediately this Schema, but I am only a Schema of the Schema. The required Being is not yet realised.
+
+I shall be. Who is this I? Evidently that which is, - the Ego gives in Intuition, the Individual. This shall be.
+
+What does its Being signify? It is given as a Principle in the World of Sense. Blind Instinct is indeed annihilated, and in its place there now stands the clearly perceived Shall. But the Power that at first set this Instinct in motion remains, in order that the Shall my now set it (the Power) in motion, and become its higher determining Principle. By means of this Power, I shall therefore, within its sphere, - the World of Sense, - produce and make manifest that which I recognise as my true Being in the Supersensuous World.
+
+The Power is given as an Infinite; - hence that which in the World of Thought is absolutely One - that which I shall - becomes in the World of Intuition an infinite problem for my Power, which I have to solve in all Eternity.
+
+This Infinitude, which is properly a mere indefiniteness, can have place only in Intuition, but by means in my true Essential Being, which, as the Schema of God, is as simple and unchangeable as himself. How then can this simplicity and unchangeableness be produced within the yet continuing Infinitude, which is expressly consecrated by the absolute Shall addressed to me as an Individual?
+
+If, in the onflow of Time, the Ego, in every successive moment, had to determine itself by a particular act, through the conception of what it shall, - then in its original Unity, it was assuredly indeterminate, and only continuously determinable in an Infinite Time. But such an act of determination could only become possible in Time, in opposition to some resisting power. This resisting power, which was thus to be conquered by the act of determination, could be nothing else than the Sensuous Instinct; and hence the necessity of such a continuous self-determination in Time would be the sure proof that the Instinct was not yet thoroughly abolished; which abolition we have made a condition of entering upon the Life in God.
+
+Through the actual and complete annihilation of the Instinct, that infinite determinability is itself annihilated and absorbed in a single, absolute determination. This determination is the absolute and simple Will which makes the likewise simple Imperative the impulsive Principle of the Power. Even if this Power should still flow forth into Infinitude, as it must do, the variety is only in its products, not in itself: - it is simple, and its purpose is simple, and this purpose is at once and for ever completed.
+
+And thus then the Will is that point in which Intelligising, and Intuition or Reality, thoroughly interpenetrate each other. It is a real principle, - for it is absolute, irresistibly determining the Power, while it also maintains and supports itself, - it is an intelligising principle, - for it penetrates itself, and recognises the Imperative. In it the Power is completely exhausted, and the Schema of the Divine Life elevated to Actuality.
+
+The infinite activity of the Power itself is not for its own sake, and as an ultimate end; but it is only for the sake of evidencing, in Intuition, the Being of the Will.

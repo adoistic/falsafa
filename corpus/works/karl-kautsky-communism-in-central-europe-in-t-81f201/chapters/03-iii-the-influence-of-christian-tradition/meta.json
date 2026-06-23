@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 3,
+  "chapter_title": "III. The Influence of Christian Tradition",
+  "chapter_slug": "03-iii-the-influence-of-christian-tradition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f52da708-3f27-5d6d-abeb-13f53059e2c1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1436,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch01.htm"
+    }
+  ]
+}

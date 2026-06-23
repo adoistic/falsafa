@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 105,
+  "chapter_title": "That Among the European Nations of our Time the Sovereign Power is Increasing, Although the Sovereigns are Less Stable.",
+  "chapter_slug": "105-that-among-the-european-nations-of-our-time-the-so",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f56e63b-74d6-5222-aad3-6d5813dd6a6a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4453,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch42.htm"
+    }
+  ]
+}

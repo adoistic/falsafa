@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-ethics-and-the-materialist-conce-c26920",
+  "work_title": "Ethics and the Materialist Conception of History",
+  "chapter_number": 5,
+  "chapter_title": "II. The Moral Law",
+  "chapter_slug": "05-ii-the-moral-law",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "703cdf4b-bf7f-562e-be48-b401889b58e0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2766,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1906/ethics/ch03.htm"
+    }
+  ]
+}

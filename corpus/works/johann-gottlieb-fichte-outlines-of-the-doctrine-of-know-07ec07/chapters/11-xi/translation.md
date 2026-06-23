@@ -1,0 +1,25 @@
+---
+work_id: "07ec0723-283b-5e05-a30d-32601db94b5c"
+work_slug: "johann-gottlieb-fichte-outlines-of-the-doctrine-of-know-07ec07"
+work_title: Outlines of the Doctrine of Knowledge
+author_name: Johann Gottlieb Fichte
+chapter_number: 11
+chapter_title: XI.
+chapter_slug: "11-xi"
+variant_id: "c48486b1-5f3a-5de8-81ef-bf2ddfa299e7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 765
+source_url: "https://www.marxists.org/reference/subject/philosophy/works/ge/fichte.htm"
+translator: William Smith
+---
+
+Before proceeding further, we must from this central point indicate a distinction hitherto unnoticed in the sphere of Intuition. Only through blind Instinct, in which the only possible guidance of the Imperative is awanting, does the Power in Intuition remain undetermined; where it is schematised as absolute it becomes infinite; and where it is presented in a determinate form, as a principle, it becomes at least manifold. By the above-mentioned act of Intelligising, the Power liberates itself from Instinct, to direct itself towards Unity. But so surely as it requires a special act for the production of this Unity, - (in the first place indeed inwardly and immediately within the Power itself, because only under this condition could it be outwardly perceived in the Schema), - so surely was the Power not viewed as One in the sphere of Intuition, but as Manifold; - this Power, which now through perception and recognition of itself has become an Ego - an Individual, - was, in this sphere, not one Individual, but necessarily broken up into a world of Individuals.
+
+This indeed does not occur in the Form of Intuition itself. The original schematising principle, and the principle which recognises this Schema immediately and in the very act of its production as a Schema, are of necessity numerically one, not two; and thus also, in the domain of Intuition, that which immediately contemplates its Intuition is a single, self-inclosed, separate principle, in this respect inaccessible to any other: - the individuality of all men, who, on this account, can each have but one separate individuality. But this separation of Individuals must certainly take place in that Form in which alone unity also is produced, - namely, in that of Thought; - hence the individuality we have described, however isolated it may appear in the immediate Intuition of itself, yet, when it comprehends itself in Thought, perceives itself, in this Thought, as an Individual in a world of Individuals like itself; which latter, since it cannot behold them as free principles like itself in immediate Intuition, can only be recognised by it as such, by an inference from the mode of their activity in the World of Sense.
+
+From this farther definition of the sphere of Intuition - that in it the Principle, which through its Being in God is One, is broken up into Many - there follows yet another. This division, even in the One Thought, and the mutual recognition, which nevertheless is necessarily found in connection with it, would not be possible were not the Object of the Intuition and of the Activity of all, one and the same, - a like World to them all. The Intuition of a World of Sense existed only in order that through this World the Ego might become visible to itself as standing under the Law of an Absolute Imperative. For this nothing more was necessary than that the Intuition of such a World should simply be; - the manner of its being is absolutely of no importance, since for this purpose any form of it is sufficient. But the Ego must besides recognise itself as One in a given Multiplicity of Individuals; - and to this end it is necessary, besides the general determinations of the World of Sense already mentioned, that this World should be the same to each beholder: - the same Space, and the same filling up of it for all; - notwithstanding that it is still left to individual Freedom to apprehend this common filling up in its own particular order in Time - the same Time, and the same filling up of it by sensible events for all; - notwithstanding that it still remains free to every one, so far as his own thought and action are concerned, to fill it up after his own fashion. The necessity for the Imperative becoming visible (§ VIII.) as it proceeds from God, is assuredly contained in the One Principle, since there is but One Principle that proceeds from God; and thus, in consequence of the unity of the Power, it is possible for each Individual to schematise his World of Sense in accordance with the law of that original harmony; - and every Individual, under the condition of being found on the way towards the recognition of the Imperative, must so schematise it. I might say: - Every Individual can and must, under the given condition, construct the True World of Sense, - for this indeed has beyond the universal and formal laws above deduced, no other Truth and Reality than this universal harmony.

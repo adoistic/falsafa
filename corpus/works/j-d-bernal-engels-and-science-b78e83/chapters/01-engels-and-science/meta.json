@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-d-bernal-engels-and-science-b78e83",
+  "work_title": "Engels and Science",
+  "chapter_number": 1,
+  "chapter_title": "Engels and Science",
+  "chapter_slug": "01-engels-and-science",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec76d921-235b-53d3-9fcb-4893d90cd915",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7111,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bernal/works/1930s/engels.htm"
+    }
+  ]
+}

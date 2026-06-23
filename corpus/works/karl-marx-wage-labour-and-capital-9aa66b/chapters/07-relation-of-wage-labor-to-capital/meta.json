@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-wage-labour-and-capital-9aa66b",
+  "work_title": "Wage Labour and Capital",
+  "chapter_number": 7,
+  "chapter_title": "Relation of wage-labor to capital",
+  "chapter_slug": "07-relation-of-wage-labor-to-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3b6a34f2-041f-5d9b-a6b6-5e15a1d350b6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1532,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1847/wage-labour/ch06.htm"
+    }
+  ]
+}

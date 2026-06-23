@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 108
-chapter_title: CHAPTER LXVIII.
+chapter_title: Chapter LXXVII.
 chapter_slug: 108
 variant_id: "c6cfe7cb-b72a-5962-8dc8-3e5496cb34b6"
 content_type: translation
@@ -13,19 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 351
+word_count: 281
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-The rational creature was created in order that it might love this Being.
+What is living, and what dead faith.
 
-It seems to follow, then, that the rational creature ought to devote itself to nothing so earnestly as to the Edition: current; Page: [133] expression, through voluntary performance, of this image which is impressed on it through a natural potency. For, not only does it owe its very existence to its creator; but the fact that it is known to have no power so important as that of remembering, and conceiving of, and loving, the supreme good, proves that it ought to wish nothing else so especially.
+Hence, with however great confidence so important a truth is believed, the faith will be useless and, as it were, dead, unless it is strong and living through love. For, that the faith which is accompanied by sufficient love is by no means idle, if an opportunity of operation offers, but rather exercises itself in an abundance of works, as it could not do without love, may be proved from this fact alone, that, since it loves the supreme Justice, it can scorn nothing that is just, it can approve nothing that is unjust. Therefore, seeing that the fact of its operation shows that life, without which it could not operate, is inherent in it; it is not absurd to say that operative faith is alive, because it has the life of love without which it could not operate; and that idle faith is not living, because it lacks that life of love, with which it would not be idle.
 
-For who can deny that whatever within the scope of one’s power is better, ought to prevail with the will? For, to the rational nature rationality is the same with the ability to distinguish the just from the not-just, the true from the not-true, the good from the not-good, the greater good from the lesser; but this power is altogether useless to it, and superfluous, unless what it distinguishes it loves or condemns, in accordance with the judgment of true discernment.
-
-From this, then, it seems clear enough that every rational being exists for this purpose, that according as, on the grounds of discernment, it judges a thing to be more or less good, or not good, so it may love that thing in greater or less degree, or reject it.
-
-It is, therefore, most obvious that the rational creature was created for this purpose, that it might love the supreme Being above all other goods, as this Being is itself the supreme good; nay, that it might love nothing except it, unless because of it; since that Being is good through itself, and nothing else is good except through it.
-
-But the rational being cannot love this Being, unless it has devoted itself to remembering and conceiving of it. It is clear, then, that the rational creature ought to devote its whole ability and will to remembering, and conceiving of, and loving, the supreme Edition: current; Page: [134] good, for which end it recognises that it has its very existence.
+Hence, if not only he who has lost his sight is called blind, but also he who ought to have sight and has it not, why cannot, in like manner, faith without love be called dead; not because it has lost its life, that is, love; but because it has not the life which it ought always to have? As that faith, then, which operates through love is recognised as living, so that which is idle, through contempt, is proved to be dead. It may, therefore, be said with sufficient fitness that living faith believes in that in which we ought to believe; while dead faith merely believes that which ought to be believed.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 23,
+  "chapter_title": "XXII. The Bestowing Virtue.",
+  "chapter_slug": "23-xxii-the-bestowing-virtue",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2883dedf-f1a5-5ffa-8fe0-4e3d10bace8b",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 1378,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52a9ce43-a817-5a9a-afd6-d5ea51ca91d0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1475,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

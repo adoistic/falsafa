@@ -4,7 +4,7 @@ work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
 work_title: The Guide for the Perplexed
 author_name: Moses Maimonides
 chapter_number: 49
-chapter_title: CHAPTER XXXVII
+chapter_title: Chapter XXXVIII (1)
 chapter_slug: 49
 variant_id: "f71519c3-b78a-584c-9a3c-938f06320ea3"
 content_type: translation
@@ -13,19 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 726
+word_count: 188
 source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
 translator: Online Library of Liberty edition
 ---
 
-The Hebrew term panim (face) is homonymous; most of its various meanings have a figurative character. It denotes in the first place the face of a living being; comp. “And all faces are turned into paleness” (Jer. xxx. 6); “Wherefore are your faces so sad?” (Gen. xl. 7). In this sense the term occurs frequently.
+The Hebrew term aḥor is a homonym. It is a noun, signifying “back.” Comp. “Behind (aḥare) the tabernacle” (Exod. xxvi. 12); “The spear came out behind him (aḥarav)” (2 Sam. ii. 23).
 
-The next meaning of the word is “anger”; comp. “And her anger (paneha) was gone” (1 Sam. i. 18). Accordingly, the term is frequently used in reference to God in the sense of anger and wrath; comp. “The anger (pene) of the Lord hath divided them” (Lam. iv. 16); “The anger (pene) of the Lord is against them that do evil” (Ps. xxxiv. 17); “Mine anger (panai) shall go and I will give thee rest” (Exod. xxxiii. 14); “Then will I set mine anger” (panai) (Lev. xx. 3); there are many other instances.
+It is next used in reference to time, signifying “after”; “neither after him (aḥarav) arose there any like him” (2 Kings xxiii. 25); “After (aḥar) these things” (Gen. xv. 1). In this sense the word occurs frequently.
 
-Another meaning of the word is “the presence and existence of a person” Edition: current; Page: [53] comp. “He died in the presence (pene) [i.e., in the lifetime] of all his brethren” (Gen. xxv. 18); “And in the presence (pene) of all the people I will be glorified” (Lev. x. 3); “He will surely curse thee in thy very presence” (paneka) (Job i. 11). In the same sense the word is used in the following passage, “And the Lord spake unto Moses face to face,” i.e., both being present, without any intervening medium between them. Comp. “Come, let us look one another in the face” (2 Kings xiv. 8); and also “The Lord talked with you face to face” (Deut. v. 4); instead of which we read more plainly in another place, “Ye heard the voice of the words, but saw no similitude; only ye heard a voice” (ib. iv. 12). The hearing of the voice without seeing any similitude is termed “face to face.” Similarly do the words, “And the Lord spake unto Moses face to face” correspond to “There he heard the voice of one speaking unto him” (Num. vii. 89), in the description of God’s speaking to Moses. Thus it will be clear to you that the perception of the Divine voice without the intervention of an angel is expressed by “face to face.” In the same sense the word panim must be understood in “And my face (panai) shall not be seen” (Exod. xxxiii. 23); i.e., my true existence, as it is, cannot be comprehended.
-
-The word panim is also used in Hebrew as an adverb of place, in the sense of “before,” or “between the hands.” In this sense it is frequently employed in reference to God; so also in the passage, “And my face (panai) shall not be seen,” according to Onkelos, who renders it, “And those before me shall not be seen.” He finds here an allusion to the fact, that there are also higher created beings of such superiority that their true nature cannot be perceived by man; viz., the ideals, separate intellects, which in their relation to God are described as being constantly before Him, or between His hands, i.e., as enjoying uninterruptedly the closest attention of Divine Providence. He, i.e., Onkelos, considers that the things which are described as completely perceptible are those beings which, as regards existence, are inferior to the ideals, viz., substance and form; in reference to which we are told, “And thou shalt see that which is behind me” (ibid.), i.e., beings, from which, as it were, I turn away, and which I leave behind me. This figure is to represent the utter remoteness of such beings from the Deity. You shall later on (chap. liv.) hear my explanation of what Moses, our teacher, asked for.
-
-The word is also used as an adverb of time, meaning “before.” Comp. “In former time (le-phanim) in Israel” (Ruth iv. 7); “Of old (le-phanim) hast Thou laid the foundation of the earth” (Ps. cii. 25).
-
-Another signification of the word is “attention and regard.” Comp. “Thou shalt not have regard (pene) to the poor” (Lev. xx. 15); “And a person receiving attention (panim)” (Isa. iii. 3); “Who does not show regard (panim),” etc. (Deut. x. 17, etc.). The word panim (face) has a similar signification in the blessing, “The Lord turn his face to thee” (i.e., The Lord let his providence accompany thee), “and give thee peace.”
+The term includes also the idea of following a thing and of conforming with the moral principles of some other being. Comp. “Ye shall walk after (aḥare) the Lord, your God” (Deut. xiii. 5); “They shall walk after (aḥare) the Lord” (Hos. xi. 10), i.e., follow His will, walk in the way of His actions, and imitate His virtues; “He walked after (aḥare) the commandment” (ib. v. 11). In this sense the word occurs in Exodus xxxiii. 20, “And thou shalt see my back” (aḥorai); thou shalt perceive that which follows me, is similar to me, and is the result of my will, i.e., all things created by me, as will be explained in the course of this treatise.

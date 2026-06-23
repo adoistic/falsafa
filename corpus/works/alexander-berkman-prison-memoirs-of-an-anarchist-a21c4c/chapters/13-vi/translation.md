@@ -1,0 +1,33 @@
+---
+work_id: "a21c4c07-4c33-5a92-8dbc-99bdd6e55297"
+work_slug: "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c"
+work_title: Prison Memoirs of an Anarchist
+author_name: Alexander Berkman
+chapter_number: 13
+chapter_title: VI
+chapter_slug: "13-vi"
+variant_id: "c6441237-49f7-537a-9d3b-9352cc4b520d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1085
+source_url: "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-1-chapter-6.html"
+translator: Marxists Internet Archive edition
+---
+
+I pass a sleepless night. The events of the day have stirred me to the very depths. Bitterness and anger against the Homestead striker fill my heart. My hero of yesterday, the hero of the glorious struggle of the People,-how contemptible he has proved himself, how cravenly small! No consciousness of the great mission of his class, no proud realization of the part he himself had acted in the noble struggle. A cowardly, overgrown boy, terrified at to-morrow's punishment for the prank he has played! Meanly concerned only with his own safety, and willing to resort to lying, in order to escape responsibility.
+
+The very thought is appalling. It is a sacrilege, an insult to the holy Cause, to the People. To myself, too. Not that lying is to be condemned, provided it is in the interest of the Cause. All means are justified in the war of humanity against its enemies. Indeed, the more repugnant the means, the stronger the test of one's nobility and devotion. All great revolutionists have proved that. There is no more striking example in the annals of the Russian movement than that peerless Nihilist what was his name? Why, how peculiar that it should escape me just now! I knew it so well. He undermined the Winter Palace, beneath the very dining-room of the Czar. What debasement, what terrible indignities he had to endure in the role of the servile, simple-minded peasant carpenter. How his proud spirit must have suffered, for weeks and months,-all for the sake of his great purpose. Wonderful man! To be worthy of your comradeship.... But this Homestead worker, what a pygmy by comparison. He is absorbed in the single thought of saving himself, the traitor. A veritable Judas, preparing to forswear his people and their cause, willing to lie and deny his participation. How proud I should be in his place: to have fought on the barricades, as he did! And then to die for it,-ah, could there be a more glorious fate for a man, a real man? To serve even as the least stone in the foundation of a free society, or as a plank in the bridge across which the triumphant People shall finally pass into the land of promise?
+
+A plank in the bridge... In the most.' What a significant name! How it impressed me the first time I heard it! No, I saw it in print, I remember quite clearly. Mother had just died. I was dreaming of the New World, the Land of Freedom. Eagerly I read every line of "American news." One day, in the little Kovno library-how distinctly it all comes back to me-I can see myself sitting there, perusing the papers. Must get acquainted with the country. What is this? "Anarchists hanged in Chicago." There are many names-one is "Most." "What is an Anarchist?" I whisper to the student near by. He is from Peter,' he will know. "S-sh! Same as Nihilists." "In free America?" I wondered.
+
+How little I knew of America then! A free country, indeed, that hangs its noblest men. And the misery, the exploitation, it's terrible. I must mention all this in court, in my defense. No, not defense-some fitter word. Explanation! Yes, my explanation. I need no defense: I don't consider myself guilty. What did the Warden mean? Fool for a client, he said, when I told him that I would refuse legal aid. He thinks I am a fool. Well, he's a bourgeois, he can't understand. I'll tell him to leave me alone. He belongs to the enemy. The lawyers, too. They are all in the capitalist camp. I need no lawyers. They couldn't explain my case. I shall not talk to the reporters, either. They are a lying pack, those Journalistic hounds Of capitalism. They always misrepresent us. And they know better, too. They wrote columns Of interviews with Most when he went to prison. All lies. I saw him off myself; he didn't say a word to them. They are our worst enemies. The Warden said that they'll come to see me to-morrow. I'll have nothing to Say to them. They're Sure to twist MY Words, and thus impair the effect of my act. It is not complete without my explanation. I shall prepare it very carefully. Of course, the jury won't understand. They, too, belong to the capitalist class. But I must use the trial to talk to the People. To be sure, an Attentat on a Frick is in itself splendid propaganda. It combines the value of example with terroristic effect. But very much depends upon my explanation. It offers me a rare opportunity for a broader agitation of our ideas. The comrades outside will also use my act for propaganda. The People misunderstand us: they have been prejudiced by the capitalist press. They must be enlightened; that is out glorious task. Very difficult and Slow Work, it is true; but they will learn. Their patience will break, and then-the good People, they have always been too kind to their enemies. And brave, even in their suffering. Yes, very brave. Not like that fellow, the steel-worker. He is a disgrace to Homestead, the traitor....
+
+I pace the cell in agitation. The Judas-striker is not fit to live. Perhaps it would be best they should hang him. His death would help to open the eyes of the People to the real character of legal justice. Legal justice-what a travesty! They ale mutually exclusive terms. Yes, indeed, it would be best he should be hanged. The Pinkerton will testify against him. He saw lack throw dynamite. Very good. Perhaps others will also swear to it. The judge will believe the Pinkertons. Yes, they will hang him.
+
+The thought somewhat soothes my perturbation. At least the cause, of the People will benefit to some extent. The man himself is not to be considered. He has ceased to exist: his interests are exclusively personal; he can be of no further benefit to the People. Only his death can aid the Cause. It is best for him to end his career in the service of humanity. I hope he will act like a man on the scaffold. The enemy should not gloat over his fear, his craven terror. They'll see in him the spirit of the People. Of course, he is not worthy of it. But he must die like a rebel-worker, bravely, defiantly. I must speak to him about it.
+
+The deep bass of the gong dispels my reverie.

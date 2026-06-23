@@ -20,6 +20,7 @@ import { execFileSync } from "node:child_process";
 import { existsSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { resolve, join } from "node:path";
+import { unshout } from "../lib/titlecase.ts";
 
 const root = resolve(import.meta.dir, "..", "..");
 
@@ -76,32 +77,90 @@ function htmlToText(html: string): string {
   s = s.replace(/<a[^>]*class="[^"]*footnote-link[^"]*"[^>]*>[\s\S]*?<\/a>/g, ""); // footnote ref markers
   s = s.replace(/<sup[^>]*>[\s\S]*?<\/sup>/g, ""); // superscript note numbers
   s = decodeEntities(s.replace(/<[^>]+>/g, ""));
+  s = s.replace(/Edition:\s*\w+;\s*Page:\s*\[\d+\]/g, " "); // OLL edition/page markers fused into headings
   return s.replace(/\s+/g, " ").trim();
 }
 
 interface Chapter { title: string; content: string; words: number }
+
+/**
+ * A bare section/paragraph marker, NOT a chapter heading. OLL ePubs render
+ * every "§. 1." paragraph number as its own <h2> (id "..._label_..."), so the
+ * naive "split on every heading" produced hundreds of one-paragraph chapters
+ * (Two Treatises: 374). These markers carry no descriptive text — a real
+ * chapter heading always does ("Chap. I.", "I: The Renaissance", "Of War").
+ * We skip them as split points so their paragraphs fold into the chapter.
+ */
+function isSectionMarker(t: string): boolean {
+  const s = t.replace(/\s+/g, " ").trim();
+  return (
+    /^[§#]\s*\.?\s*\d+[a-z]?\s*\.?$/i.test(s) ||   // "§. 1."  "§ 12"  "#5"
+    /^\d+\s*\.?$/.test(s) ||                          // "12."  "7"
+    /^(p\.|pp\.|page)\s*\d+/i.test(s) ||              // page markers
+    /^\[\s*\d+\s*\]$/.test(s)                          // "[14]"
+  );
+}
+
+/** Editorial / front- / back-matter headings that shouldn't be chapters. */
+function isApparatus(t: string): boolean {
+  return /^(contents\b|table of contents|index(es)?\b|index of\b|the online library|liberty fund|copyright|advertisements?\b|bibliograph|errata|colophon|notes?\b|footnotes?|endnotes?|glossary\b|list of (illustrations|plates|maps|abbreviations)|works cited|references\.?$)/i.test(t)
+    // library bookplates / donor stamps fused into the spine
+    || /\b(college|library|brown-lindsay|ex libris|presented by|bequest)\b/i.test(t) && t.split(/\s+/).length <= 8;
+}
+
+function paragraphsOf(frag: string): string {
+  const ps = [...frag.matchAll(/<p\b([^>]*)>([\s\S]*?)<\/p>/gi)]
+    .filter((mm) => !/(footnote|note|margin|tocpage|figure|chapterhead)/i.test(mm[1]!))
+    .map((mm) => htmlToText(mm[2]!))
+    .filter((p) => p.length > 0 && /[A-Za-z]/.test(p));
+  return ps.join("\n\n");
+}
+
+/**
+ * A chapter-level heading ("anchor"), as opposed to an in-chapter sub-section.
+ * OLL ePubs render every <h2> at one tag level regardless of hierarchy (and
+ * the id-class _head_/_label_ is NOT a consistent depth marker — in Locke
+ * _head_ is the chapter, in Jevons it's the sub-section). The reliable signal
+ * is the heading text: real chapters carry a structural keyword, a Roman-
+ * numeral lead, or are short all-caps dividers; sub-sections are bare-numbered
+ * ("§2.", "1. ...") or plain descriptive phrases.
+ */
+function isAnchor(title: string): boolean {
+  const t = title.trim();
+  // structural keyword + numeral, optionally after a leading word glued by a
+  // dash ("APHORISMS—BOOK I"); standalone front/back-matter words; a Roman-
+  // numeral lead; or a short all-caps / book-part divider.
+  return /^(?:[a-zà-ÿ]+\s*[—–-]\s*)?(book|chap\.?|chapter|part|pt\.?|lecture|letter|essay|section|sect\.?|discourse|dialogue|canto|volume|vol\.?)\s+([ivxlcdm]+|\d+)\b/i.test(t)
+    || /^(appendix|introduction|intro\b|preface|prefatory|prologue|epilogue|conclusion|foreword|dedication|argument)\b/i.test(t)
+    || /^[IVXLCDM]{1,6}[.:)]/.test(t)        // "I:", "II.", "XIV)"
+    || dividerContext(title) !== null;        // short all-caps / book-part divider
+}
 
 function chapterize(xhtml: string, fallbackTitle: string): Chapter[] {
   // body only
   const bodyStart = xhtml.search(/<body[^>]*>/i);
   const body = bodyStart >= 0 ? xhtml.slice(xhtml.indexOf(">", bodyStart) + 1) : xhtml;
 
-  // heading marks
+  // heading marks; section/paragraph markers (§) are NOT split points — their
+  // text folds into the surrounding chapter.
   const re = /<h([1-6])[^>]*>([\s\S]*?)<\/h\1>/gi;
-  const marks: { index: number; end: number; title: string }[] = [];
+  const allMarks: { index: number; end: number; title: string }[] = [];
   let m: RegExpExecArray | null;
   while ((m = re.exec(body)) !== null) {
     const t = htmlToText(m[2]!);
-    if (t) marks.push({ index: m.index, end: re.lastIndex, title: t });
+    if (t && !isSectionMarker(t)) allMarks.push({ index: m.index, end: re.lastIndex, title: t });
   }
 
-  const paragraphsOf = (frag: string): string => {
-    const ps = [...frag.matchAll(/<p\b([^>]*)>([\s\S]*?)<\/p>/gi)]
-      .filter((mm) => !/(footnote|note|margin|tocpage|figure|chapterhead)/i.test(mm[1]!))
-      .map((mm) => htmlToText(mm[2]!))
-      .filter((p) => p.length > 0 && /[A-Za-z]/.test(p));
-    return ps.join("\n\n");
-  };
+  // Two-level book: when chapter anchors are a clear minority of the headings,
+  // the rest are in-chapter sub-sections — split on anchors only so their
+  // prose folds into the chapter (Jevons "Money & the Mechanism": 183 headings
+  // -> ~26 chapters; Fisher "Theory of Interest": 209 -> ~24). Flat books
+  // (acton's lectures, essay collections) split on every heading.
+  const anchors = allMarks.filter((mk) => isAnchor(mk.title));
+  // require a meaningful heading count before trusting the 2-level heuristic —
+  // a book with few headings (Novum Organum: 10) shouldn't be reduced to its
+  // handful of anchors.
+  const marks = allMarks.length >= 12 && anchors.length >= 2 && anchors.length < allMarks.length * 0.4 ? anchors : allMarks;
 
   if (marks.length < 2) {
     const content = paragraphsOf(body);
@@ -112,14 +171,98 @@ function chapterize(xhtml: string, fallbackTitle: string): Chapter[] {
   const chapters: Chapter[] = [];
   for (let i = 0; i < marks.length; i++) {
     const title = marks[i]!.title;
-    // skip apparatus headings
-    if (/^(contents|table of contents|index|the online library|liberty fund|copyright)/i.test(title)) continue;
+    // apparatus segments are dropped entirely (heading is a boundary so the
+    // previous chapter ends here, but this section's own text is discarded)
+    if (isApparatus(title)) continue;
     const frag = body.slice(marks[i]!.end, marks[i + 1]?.index ?? body.length);
     const content = paragraphsOf(frag);
     const words = content.split(/\s+/).filter(Boolean).length;
-    if (words >= 50) chapters.push({ title: title.replace(/\s+/g, " ").slice(0, 120), content, words });
+    // keep substantive sections AND content-less book/part dividers (their
+    // title pages carry the context that disambiguates repeated chapter
+    // titles); repairChapters folds the empty dividers into the next chapter
+    if (words >= 50 || dividerContext(title))
+      chapters.push({ title: title.replace(/\s+/g, " ").slice(0, 120), content, words });
   }
   return chapters;
+}
+
+/**
+ * Work-level chapter repair (2026-06 corpus-doctor):
+ *  1. ALL-CAPS titles -> title case
+ *  2. duplicate titles get their book/part context as a prefix
+ *     ("Book II, Chapter I. Of ..."), falling back to "(n)" suffixes
+ *  3. chapters under 100 words merge into the following chapter (or the
+ *     previous one when last); a "BOOK I"-style heading fragment donates
+ *     its title as the merged chapter's prefix
+ */
+/**
+ * A section/book divider: a short, (originally) all-caps title page like
+ * "OF GOVERNMENT", "BOOK I", "THE SOCIAL CONTRACT". Its title becomes the
+ * running context that disambiguates repeated chapter titles ("Chap. I."
+ * appearing once per book). Detected on the RAW title before unshouting,
+ * since the all-caps rendering is the signal.
+ */
+function dividerContext(rawTitle: string): string | null {
+  const letters = rawTitle.replace(/[^A-Za-z]/g, "");
+  const allCaps = letters.length > 0 && letters.replace(/[^A-Z]/g, "").length / letters.length >= 0.7;
+  const words = rawTitle.trim().split(/\s+/).length;
+  if (/^(book|part|volume|appendix|treatise|discourse)\b/i.test(rawTitle) || (allCaps && words <= 8)) {
+    return unshout(rawTitle).replace(/[.,;:\s]+$/, "").replace(/\s+/g, " ");
+  }
+  return null;
+}
+
+function repairChapters(chapters: Chapter[]): Chapter[] {
+  // capture divider context from the raw (pre-unshout) titles
+  const ctxOf = chapters.map((c) => dividerContext(c.title));
+  for (const c of chapters) c.title = unshout(c.title);
+
+  // 2. qualify duplicates with the running book/part/divider context
+  const counts = new Map<string, number>();
+  for (const c of chapters) counts.set(c.title, (counts.get(c.title) ?? 0) + 1);
+  let ctx = "";
+  const seen = new Map<string, number>();
+  chapters.forEach((c, i) => {
+    if (ctxOf[i]) ctx = ctxOf[i]!;
+    if ((counts.get(c.title) ?? 0) > 1) {
+      const n = (seen.get(c.title) ?? 0) + 1;
+      seen.set(c.title, n);
+      const qualified = ctx && !c.title.toLowerCase().startsWith(ctx.toLowerCase()) ? `${ctx}, ${c.title}` : `${c.title} (${n})`;
+      c.title = qualified.slice(0, 120);
+    }
+  });
+  // re-disambiguate any survivors
+  const counts2 = new Map<string, number>();
+  for (const c of chapters) {
+    const n = (counts2.get(c.title) ?? 0) + 1;
+    counts2.set(c.title, n);
+    if (n > 1) c.title = `${c.title} (${n})`.slice(0, 120);
+  }
+
+  // 3. merge tiny fragments forward; a short divider donates its title as the
+  // prefix of the chapter it precedes
+  const out: Chapter[] = [];
+  let pendingPrefix = "";
+  let pendingContent = "";
+  chapters.forEach((c, i) => {
+    if (c.words < 100) {
+      if (ctxOf[i]) pendingPrefix = ctxOf[i]!;
+      pendingContent = pendingContent ? `${pendingContent}\n\n${c.content}` : c.content;
+      return;
+    }
+    if (pendingPrefix && !c.title.toLowerCase().startsWith(pendingPrefix.toLowerCase()))
+      c.title = `${pendingPrefix}, ${c.title}`.slice(0, 120);
+    if (pendingContent) c.content = `${pendingContent}\n\n${c.content}`;
+    c.words = c.content.split(/\s+/).filter(Boolean).length;
+    pendingPrefix = ""; pendingContent = "";
+    out.push(c);
+  });
+  if (pendingContent && out.length) {
+    const last = out[out.length - 1]!;
+    last.content = `${last.content}\n\n${pendingContent}`;
+    last.words = last.content.split(/\s+/).filter(Boolean).length;
+  }
+  return out;
 }
 
 async function fetchText(url: string): Promise<string | null> {
@@ -172,6 +315,11 @@ function makeWork(w: WL, chapters: Chapter[]) {
 
 async function main() {
   const wl = JSON.parse(readFileSync(resolve(import.meta.dir, "oll-worklist.json"), "utf-8")) as { works: WL[] };
+  const argv = process.argv.slice(2);
+  if (argv.includes("--slug")) {
+    const want = new Set(argv[argv.indexOf("--slug") + 1]!.split(","));
+    wl.works = wl.works.filter((w) => want.has(w.slug));
+  }
   const rawWorks: unknown[] = [];
   const audits: unknown[] = [];
   const skipped: string[] = [];
@@ -193,7 +341,9 @@ async function main() {
         if (existsSync(p)) chapters.push(...chapterize(readFileSync(p, "utf-8"), w.title));
       }
       if (chapters.length === 0) { skipped.push(`${w.slug}: no chapters`); continue; }
-      const built = makeWork(w, chapters);
+      const repaired = repairChapters(chapters);
+      if (repaired.length === 0) { skipped.push(`${w.slug}: no chapters after repair`); continue; }
+      const built = makeWork(w, repaired);
       rawWorks.push(built.raw); audits.push(...built.audits);
       console.log(`  ${built.line}`);
     } catch (e) {

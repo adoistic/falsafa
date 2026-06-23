@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 75,
+  "chapter_title": "Appendix, A Note on the Scope and Method of the Theory of International Trade",
+  "chapter_slug": "75-appendix-a-note-on-the-scope-and-method-of-the-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aa5b72df-b7ac-55bc-83d9-30632209991c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2865,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

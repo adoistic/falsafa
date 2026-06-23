@@ -4,7 +4,7 @@ work_slug: "arthur-cecil-pigou-the-economics-of-welfare-61772e"
 work_title: The Economics of Welfare
 author_name: Arthur Cecil Pigou
 chapter_number: 1
-chapter_title: PREFACE TO THE THIRD EDITION (1928)
+chapter_title: Preface to the Third Edition (1928)
 chapter_slug: "01-preface-to-the-third-edition-1928"
 variant_id: "cd5ed3c4-be7c-5532-a724-50af58577300"
 content_type: translation

@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 43,
-  "chapter_title": "SECTION III.: Of Banks of Circulation or Discount, and of Bank-notes, or Convertible Paper.",
+  "chapter_title": "Book II: Of the Distribution of Wealth, Book II, Chapter I: Of the Basis of Value; And of Supply and Demand.",
   "chapter_slug": "43",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 4473,
-      "paragraph_count": 34,
+      "word_count": 4162,
+      "paragraph_count": 31,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

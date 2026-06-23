@@ -4,7 +4,7 @@ work_slug: "john-thelwall-the-rights-of-nature-against-the-1c74cc"
 work_title: The Rights of Nature against the Usurpations of Establishments
 author_name: John Thelwall
 chapter_number: 1
-chapter_title: "LETTER I.: INTRODUCTORY REMARKS; ON THE SPIRIT AND TEMPER OF BURKE’S LETTERS ON THE PROSPECT OF A REGICIDE PEACE."
+chapter_title: "Letter I.: Introductory Remarks; On the Spirit and Temper of Burke’s Letters on the Prospect of a Regicide Peace."
 chapter_slug: 01
 variant_id: "36e37524-4525-5ff6-9ea9-eab61db2341a"
 content_type: translation

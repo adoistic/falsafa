@@ -1,0 +1,26 @@
+{
+  "work_slug": "francois-guizot-general-history-of-civilization--9f5546",
+  "work_title": "General History of Civilization in Europe",
+  "chapter_number": 7,
+  "chapter_title": "Lecture IV.: The Feudal System.",
+  "chapter_slug": "07-lecture-iv-the-feudal-system",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "188ee527-e0e5-5c6c-ab97-f10afe015fd6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8550,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/knight-general-history-of-civilization-in-europe"
+    }
+  ]
+}

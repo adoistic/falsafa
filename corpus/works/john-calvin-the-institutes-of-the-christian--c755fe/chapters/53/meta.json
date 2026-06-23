@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 53,
+  "chapter_title": "Chapter IX.: Christ, Though Known to the Jews Under the Law, Yet Only Manifested Under the Gospel.",
+  "chapter_slug": "53",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb421779-7c72-5dce-b426-3989e3eb39a6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 111,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

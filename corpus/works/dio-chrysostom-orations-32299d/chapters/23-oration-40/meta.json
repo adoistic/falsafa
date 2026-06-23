@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 23,
+  "chapter_title": "Oration 40",
+  "chapter_slug": "23-oration-40",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "332d6fe7-970b-5194-8545-69f9e5303ac2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3310,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "89e6a984-e567-5261-8b20-2963f1ff3a5f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4678,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

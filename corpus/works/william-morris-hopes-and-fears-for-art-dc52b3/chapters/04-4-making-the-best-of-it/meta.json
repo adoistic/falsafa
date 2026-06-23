@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-hopes-and-fears-for-art-dc52b3",
+  "work_title": "Hopes and Fears for Art",
+  "chapter_number": 4,
+  "chapter_title": "4. Making the Best of It",
+  "chapter_slug": "04-4-making-the-best-of-it",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ae5045b-7598-5e5c-a7af-55c91b1da6d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14585,
+      "paragraph_count": 123,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1882/hopes/chapters/chapter4.htm"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 16,
+  "chapter_title": "Oration 33",
+  "chapter_slug": "16-oration-33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3ae7c501-fbc6-5e4f-a331-a5b4f348ba4a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5169,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc40e6c5-90bc-5013-923a-6bf9ad595180",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6765,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

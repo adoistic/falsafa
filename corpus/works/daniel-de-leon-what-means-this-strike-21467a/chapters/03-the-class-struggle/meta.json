@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-what-means-this-strike-21467a",
+  "work_title": "What Means This Strike?",
+  "chapter_number": 3,
+  "chapter_title": "The Class Struggle",
+  "chapter_slug": "03-the-class-struggle",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9781912e-c15c-5f92-8038-8c1161dfdf57",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 746,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1898/980211.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-results-and-prospects-459bad",
+  "work_title": "Results and Prospects",
+  "chapter_number": 1,
+  "chapter_title": "Preface to the Re-Issue of This Work Published in Moscow in 1919",
+  "chapter_slug": "01-preface-to-the-re-issue-of-this-work-published-in-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "821e631d-9c08-5049-ae7e-a0ee9e15c318",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2483,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1931/tpr/rppr.htm"
+    }
+  ]
+}

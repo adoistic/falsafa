@@ -4,7 +4,8 @@ slug: "aretaeus-of-cappadocia-de-causis-et-signis-acutorum-mor-3fd2ac"
 title: De causis et signis acutorum morborum libri duo
 author:
   name: Aretaeus of Cappadocia
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Greek physician of Cappadocia who wrote in the Ionic dialect in conscious imitation of Hippocrates. His four treatises on acute and chronic diseases gave clinical accounts of diabetes, tetanus, and pleurisy that physicians cited into the nineteenth century.
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

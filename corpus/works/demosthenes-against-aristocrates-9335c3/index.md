@@ -4,7 +4,10 @@ slug: "demosthenes-against-aristocrates-9335c3"
 title: Against Aristocrates
 author:
   name: Demosthenes
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Athenian statesman and the foremost orator of classical Greece, leader of the resistance to Philip of Macedon. His political and forensic speeches became the canonical standard of Attic prose and rhetorical art.
+  birth_year: -384
+  death_year: -322
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

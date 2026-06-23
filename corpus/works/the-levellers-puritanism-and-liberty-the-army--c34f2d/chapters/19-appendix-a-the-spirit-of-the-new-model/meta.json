@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 19,
+  "chapter_title": "Appendix, A.: The Spirit of the New Model",
+  "chapter_slug": "19-appendix-a-the-spirit-of-the-new-model",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a153a11-8836-5003-8d1a-67097b14df0e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4951,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

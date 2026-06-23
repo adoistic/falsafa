@@ -2,7 +2,7 @@
   "work_slug": "dante-alighieri-de-monarchia-a58c66",
   "work_title": "De Monarchia",
   "chapter_number": 6,
-  "chapter_title": "CHAPTER III: To actualize the whole capacity of the possible intellect in speculation and action.",
+  "chapter_title": "Chapter III: To actualize the whole capacity of the possible intellect in speculation and action.",
   "chapter_slug": "06",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 678,
+      "word_count": 650,
       "paragraph_count": 3,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"

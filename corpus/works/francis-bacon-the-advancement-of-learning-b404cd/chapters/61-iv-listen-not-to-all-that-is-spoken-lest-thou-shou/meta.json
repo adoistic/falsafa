@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 61,
+  "chapter_title": "Iv.—: Listen not to all that is spoken, lest thou shouldst hear thy servant curse thee",
+  "chapter_slug": "61-iv-listen-not-to-all-that-is-spoken-lest-thou-shou",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ddf7305-b059-58c8-8ee7-bb4529aba84b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 208,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

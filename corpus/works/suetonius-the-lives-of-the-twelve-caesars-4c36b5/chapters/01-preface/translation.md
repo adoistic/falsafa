@@ -4,7 +4,7 @@ work_slug: "suetonius-the-lives-of-the-twelve-caesars-4c36b5"
 work_title: The Lives of the Twelve Caesars
 author_name: Suetonius
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "3359fb43-f709-5479-9439-b32729e25ef8"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 60,
+  "chapter_title": "Chapter XI.: The Difference Between the Two Testaments, Sections. (4)",
+  "chapter_slug": "60",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ba7d1210-de28-5b33-8229-557a1a0e850c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4900,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

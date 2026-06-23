@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 72,
+  "chapter_title": "Chap. IX : How a grand Balance may be paid by Banks, without the assistance of Coin",
+  "chapter_slug": "72-chap-ix-how-a-grand-balance-may-be-paid-by-banks-w",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3c596629-673e-5f92-b8ed-f42de5ac0910",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 573,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+    }
+  ]
+}

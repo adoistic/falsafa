@@ -4,7 +4,7 @@ work_slug: "wordsworth-donisthorpe-law-in-a-free-state-75f0ef"
 work_title: Law in a Free State
 author_name: Wordsworth Donisthorpe
 chapter_number: 6
-chapter_title: THE ADULTERATION BILL
+chapter_title: The Adulteration Bill
 chapter_slug: "06-the-adulteration-bill"
 variant_id: "f1eeaa5d-b53c-5284-974d-afe44877d5b8"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 422
+word_count: 418
 source_url: "https://oll.libertyfund.org/titles/donisthorpe-law-in-a-free-state"
 translator: Online Library of Liberty edition
 ---
@@ -30,4 +30,4 @@ If any person knowingly, and without giving the information by this Act required
 
 The proof that any commodity sold is an adulterated commodity shall be Primâ facie evidence that it was an adulterated commodity to the knowledge of the vendor at the time he sold the same; and if sale and delivery were not at the same time, then also at the time he delivered the same.
 
-Nothing in this Act shall be deemed to protect any person from being proceeded against by way of indictment in Edition: current; Page: [158] respect of the sale of any adulterated commodity, or shall relieve any person in respect of any such sale from any penal consequence to which he would have been liable if this Act had not been passed, or shall prevent the purchaser of any adulterated commodity who by the use thereof sustains any injury to his health, whether temporary or permanent, from recovering from the vendor thereof damages for such injury, in addition to any moneys or commodity he may recover under the preceding provisions of this Act.
+Nothing in this Act shall be deemed to protect any person from being proceeded against by way of indictment in respect of the sale of any adulterated commodity, or shall relieve any person in respect of any such sale from any penal consequence to which he would have been liable if this Act had not been passed, or shall prevent the purchaser of any adulterated commodity who by the use thereof sustains any injury to his health, whether temporary or permanent, from recovering from the vendor thereof damages for such injury, in addition to any moneys or commodity he may recover under the preceding provisions of this Act.

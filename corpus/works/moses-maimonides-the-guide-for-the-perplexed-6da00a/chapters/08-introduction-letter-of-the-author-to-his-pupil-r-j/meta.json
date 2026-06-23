@@ -1,0 +1,26 @@
+{
+  "work_slug": "moses-maimonides-the-guide-for-the-perplexed-6da00a",
+  "work_title": "The Guide for the Perplexed",
+  "chapter_number": 8,
+  "chapter_title": "Introduction, [Letter of the Author to his Pupil, R. Joseph Ibn Aknin.]",
+  "chapter_slug": "08-introduction-letter-of-the-author-to-his-pupil-r-j",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "87c1c421-73fa-50c3-9d1d-50e427763f45",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 417,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
+    }
+  ]
+}

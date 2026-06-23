@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 114,
+  "chapter_title": "Chapter III: German Foreign Trade",
+  "chapter_slug": "114",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6fcd95b-904e-5aae-859b-aa7d2a4aa75e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 416,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

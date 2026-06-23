@@ -2,7 +2,7 @@
   "work_slug": "dante-alighieri-de-monarchia-a58c66",
   "work_title": "De Monarchia",
   "chapter_number": 33,
-  "chapter_title": "CHAPTER I: Introduction.",
+  "chapter_title": "Book III: Whether the Authority of the Roman Monarch Derives from God Immediately or from Some Vicar of God, Chapter I: ",
   "chapter_slug": "33",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 349,
+      "word_count": 341,
       "paragraph_count": 2,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"

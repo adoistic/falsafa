@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-earth-hunger-and-other-essays-78e0ba"
 work_title: "Earth-Hunger and Other Essays"
 author_name: William Graham Sumner
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "ec2ac226-206e-59c5-aa3e-01dc170c3004"
 content_type: translation

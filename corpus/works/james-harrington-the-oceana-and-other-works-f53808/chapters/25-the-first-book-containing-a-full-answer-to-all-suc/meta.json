@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 25,
+  "chapter_title": "The First Book, Containing, A full Answer to all such Objections as have hitherto bin made against Oceana.",
+  "chapter_slug": "25-the-first-book-containing-a-full-answer-to-all-suc",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ba3d97b-7d8d-5d10-a085-8479b9852a5b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 163,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

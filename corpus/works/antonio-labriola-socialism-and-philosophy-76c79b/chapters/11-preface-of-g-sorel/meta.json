@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-labriola-socialism-and-philosophy-76c79b",
+  "work_title": "Socialism and Philosophy",
+  "chapter_number": 11,
+  "chapter_title": "Preface of G. Sorel",
+  "chapter_slug": "11-preface-of-g-sorel",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e487e41a-18c3-53a2-80cb-da3cebac0d1e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3090,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/labriola/works/al06.htm"
+    }
+  ]
+}

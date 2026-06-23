@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-cromwell-and-communism-socialism-6028c4",
+  "work_title": "Cromwell and Communism: Socialism and Democracy in the Great English Revolution",
+  "chapter_number": 15,
+  "chapter_title": "XIII. Conspiracies and Religious Offshoots of the Popular Democratic Movement",
+  "chapter_slug": "15-xiii-conspiracies-and-religious-offshoots-of-the-p",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a239846d-42ac-5b76-accf-b8c53226f6bb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4738,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1895/cromwell/13-conspiracies.htm"
+    }
+  ]
+}

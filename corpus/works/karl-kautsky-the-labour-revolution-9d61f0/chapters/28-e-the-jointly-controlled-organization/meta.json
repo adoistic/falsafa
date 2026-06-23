@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-labour-revolution-9d61f0",
+  "work_title": "The Labour Revolution",
+  "chapter_number": 28,
+  "chapter_title": "(e) The Jointly-Controlled Organization",
+  "chapter_slug": "28-e-the-jointly-controlled-organization",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d2ca5f8-2dc0-5f4a-8551-8b1a1a448518",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3428,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1924/labour/ch03_h.htm"
+    }
+  ]
+}

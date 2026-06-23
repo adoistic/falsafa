@@ -1,0 +1,87 @@
+---
+work_id: "059d10f0-2073-5da2-90f6-cca340de985e"
+work_slug: "james-connolly-the-re-conquest-of-ireland-059d10"
+work_title: "The Re-Conquest of Ireland"
+author_name: James Connolly
+chapter_number: 9
+chapter_title: "VIII. Labour and Co-operation in Ireland"
+chapter_slug: "09-viii-labour-and-co-operation-in-ireland"
+variant_id: "5e980644-11bc-5836-a862-2bc5d5a6dc60"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2544
+source_url: "https://www.marxists.org/archive/connolly/1915/rcoi/chap08.htm"
+translator: Marxists Internet Archive edition
+---
+
+In an earlier work, Labour in Irish History, we dealt at some length with an experiment in co-operation at Ralahine, County Clare, in the first half of the Nineteenth Century, and quoted extensively from contemporary witnesses to show the very great success achieved by the participants in, and promoters of that historic venture.
+
+In the course of that description we were compelled to note the manner in which an attempt significant of so much, and revealing in the Irish nature so many untried possibilities of expansion and adaptability, had been ignored by successive generations of Irish historians and politicians.
+
+These latter seem, indeed, always to have floated along the surface of events and to have recoiled from any investigation involving a challenging of the orthodox basis of society, with more timidity than that with which his Satanic Majesty is popularly supposed to recoil from holy water. Their one governing idea has, at all times, been to represent the Irish cause as but a variant of a reform movement in English society; that Ireland was restive because she was not treated with the same equal justice as England, and that if she was only so treated it would be found that Ireland was essentially orthodox, and lacking in sympathy for any attacks upon accepted social institutions.
+
+Hence such historians and politicians have ever felt that the story of a co-operative experiment like that of Ralahine – an experiment initiated by believers in Utopian Socialism – required care in the telling lest its example became infectious, and was, in fact, better left untold.
+
+Following along the same lines of action, when the modern co-operative movement was preached to the Irish farmers by the lecturers of the Irish Agricultural Organisation Society, when the literature prepared by Mr. George Russell, Father Finlay, S.J., Sir Horace Plunkett, and their fellow-labourers, was being pushed throughout Ireland, it was early discovered that their attempts to regenerate Irish agricultural life had no more bitter enemies than the political representatives of the Irish people, irrespective of their political colour.
+
+The Unionist politicians opposed the co-operators because the movement tended to bring together Protestant and Catholic on a basis of friendly and fraternal helpfulness – a state of things that, if persisted in, would inevitably destroy that bigoted distrust and hatred upon which Unionism depended for its existence.
+
+The Home Rulers opposed the co-operators upon the alleged grounds that their success in increasing the finances of the farmers would only redound to the advantage of the landlord, but really because the practice of co-operation would necessarily interfere with the profits of those leeches who, as gombeen men, middlemen and dealers of one kind or another in the small country towns, sucked the life-blood of the agricultural population around them.
+
+Anyone acquainted with rural Ireland knows that, next to the merciless grinding by the landlord, the tenantry suffers most from the ruthless exploitation of the classes just mentioned, and that, indeed, the buying-out of the landlords in many cases served only to gorge still further the ever rapacious maw of those parasites upon rural life.
+
+But whereas the landlords were ever regarded in Ireland as alien to Irish life, the gombeen men and their kind, from their position in the country towns, their ostentatious parade of religion and their loud-mouthed assertions of patriotism, were usually the dominant influences in the councils of the local Home Rule or other constitutional national organisation.
+
+From all national organisations not constitutional, or ‘respectable’, they usually kept aloof, but this fact did not interfere with their power to dictate the attitude of the Irish Parliamentary representatives to every manifestation of Irish life. They were ever the local wirepullers, and, as such, posed as the representatives of the political thought of Ireland.
+
+Thus it was in no wise strange that the Irish politicians as a whole were averse to all propaganda upon co-operative lines, and that as a writer in The Irish Homestead, says:–
+
+Sir Horace Plunkett, Father Finlay and Mr. Anderson were assured that their ideas were quite unsuitable for Ireland, that the people wanted something else, that they were going contrary to Irish instincts, that their ideas might suit people like the Danes and Germans, but they must remember that Ireland had a unique character.
+
+But neither was it strange that the co-operative principle had in itself an appealing force, quite sufficient to surmount this factitious opposition, although fifty meetings were held before a single society was formed.
+
+Apart from the direct appeal founded upon self-interest, an appeal rooting itself in the necessities born of an ever-increasing difficulty in finding a profitable market for their commodities, the Irish farming population had long been accustomed to practical co-operation for given objects.
+
+The sight of a whole countryside agreeing to build a cabin for some one left shelterless, to save the crops of a neighbour too sick to bring in his own, to dig the field of a widow, to raise money enough to enable a promising boy to get the education necessary to become a priest or a doctor, or in the olden days to bring in and support a hedge-schoolmaster, was not unfamiliar to Irish eyes, nor were the practical value of such kindly lessons lost to Irish understanding. And, in the days immediately preceding the co-operative propaganda, the Irish Land League had found the peasantry willing co-operators in a score of ways when such co-operation formed part of the campaign against landlordism.
+
+Nor yet had all the insidious tendency of leaders, infatuated with capitalist doctrines, and too ignorant of their country's real history to understand its ancient institutions, ever been able to take from the peasantry the possession of traditions which kept alive in their midst the memory of the common ownership and common control of land by their ancestors – an ownership and control which were the very flower of co-operation.
+
+Scattered around amongst them also they found the Catholic Church in all its convents and monasteries, practising co-operation alike upon the consumers’ and producers’ model, and with the element of personal profit or aggrandisement entirely eliminated.
+
+When those considerations left the Irish agriculturalist still unconverted, there were still pressing upon him the forces born of economic development, urging him with an irresistible pressure toward a remodelling of his methods, and a reconsideration of his ideas. He found that he had no longer even a partial monopoly of the home market, but that, on the contrary, each development of the transport facilities of the world brought him a new danger, added a new menace to his anxiety. The inventor who enabled the steamship companies to shorten the time taken to convey agricultural products across the ocean; the engineer who laid down railroads which tapped new or backward lands and brought their crops to the ports of the world; the government which placed the resources of its scientists and its chemists at the disposal of its producers and merchants, all, all were new factors bringing new perils for him to face. In less than a generation New York, New Orleans, or the River Plate, the Black Sea and the Baltic have moved up, so to speak, to within easy commercial striking distance of the farmers of Ireland, and their merchandise confronts him in all his markets. From the Scandinavian countries the farmers, organised and taught with Government aid upon co-operative lines, were pouring in butter, cheese, and eggs, packed and forwarded in a manner infinitely superior to the old slipshod methods of the individual petty Irish farmer; from the South of France and the Channel Islands came all the varied output of highly-trained market gardeners working with all the advantages of climate and efficient transport service on their side, and all around the unfortunate Irish agriculturist was met with the competition of rivals much better trained, better educated, better led, better served, and by the demands of merchants and customers calling for greater nicety, greater cleanliness, greater despatch, and greater variety.
+
+Under such pressure, face to face with such increasing competition, it is little to be wondered at that the propaganda of the co-operators eventually reached the Irish peasantry, despite all the obstacles raised and imaginary dangers invoked by the interested enemies of the new doctrine. To-day up and down through Ireland a network of co-operative societies has spread and is spreading amongst the peasantry, whilst new and more fruitful fields of enterprise are continually being opened up by their resourceful leaders and members. Over 100,000 Irish farmers are now organised in co-operative societies. We have co-operative creameries, co-operative marketing, co-operative banks, and projects for co-operative fishing are already well on their way.
+
+In the towns co-operative societies of consumers have taken a firm foothold in the North and in the extreme South, whilst the result of the beneficent activities of the co-operative distributive societies during the great Dublin Labour Dispute left such an impression upon the minds of the workers in the Irish Labour movement, that a great crop of co-operative enterprises under the auspices of that movement may be confidently anticipated in the very near future.
+
+Up to the present the participants in the co-operative movement amongst the agricultural population have, as is usual in Ireland, troubled themselves little about fashioning in their minds any form of ideal to result from their labours, but have instead attended strictly to the immediate needs of the moment. Amongst the leaders in the town movements, on the contrary, it may be said that as a rule their activities would be much less were it not for the ideal that inspires them. That ideal is the one common now to the militant workers of the world – a Co-operative Commonwealth.
+
+The immediate difficulty if the two movements – i.e., of town and country, are not to remain strangers, with all the possibilities of developing from estrangement into hostility – will be to find a common basis of action in order that one may support and reinforce the other. Mr. George Russell, the gifted editor of The Irish Homestead, points out that the fact that the overwhelming proportion of Irish farmers employ no labour, but generally work their own farms, makes that problem not so difficult in Ireland as it would be in countries where the farmers were employers and therefore supposedly hostile to the claims of Labour. This idea, with all its implications, is worthy of careful examination.
+
+Stated briefly it may be thus summed up: Since the great development of transatlantic and cross-sea competition, and the supplanting or curbing of the landlord, the chief problem for the Irish farmer is to find a good market where the balance will not be weighted against him. He can only find this by creating a market amongst a sympathetic and prosperous Irish working class. His products are not fancy products, they only appeal to the needs of the human stomach, and not to the whims, passions or fantasies of the imagination. A millionaire, having only one stomach, can only consume what one stomach requires, he cannot consume more of the staple products of our Irish farms than a well-paid tradesman would require and demand.
+
+The dainties, delicacies, wines, &c., which go to make the dinner of the millionaire more costly than that of the tradesman are imported, and hence the greater cost of his dinner does not represent a greater demand for Irish agricultural products.
+
+Thus the Irish farmer cannot increase the demand for his products by any support of the well-to-do, the millionaire, or the budding millionaire. On the contrary, every upward move of Labour in Ireland which adds to the income of the working class, and transforms its members from semi-starved slaves into well-paid toilers able to purchase a sufficiency of food, creates thousands or tens of thousands of new customers. Every defeat of Labour, accompanied by a reduction of purchasing power, lessens the demand for the products of Irish farmers; every victory of Labour increases the purchasing power of the working class and thus sends fresh customers into the Irish market. And if that victory for the Irish working class was won by the support of the co-operative farmers of Ireland, then every constituent of the Irish Labour movement would be morally bound to give preference to the commodities produced by their agricultural allies.
+
+To that moral obligation the establishment and popularisation of co-operative stores under the aegis of the Labour movement would add another, that of self-interest.
+
+Stocking the products of the agricultural co-operative societies in time of industrial peace, the workers would enjoy their credit in time of war; then the trades union in time of peace could invest its funds in the co-operative societies; in time of lock-outs or strikes it would fight with food guaranteed to its members by such societies which, for the food required, would be able to pledge their credit to the organised co-operative farming community.
+
+Trade union funds, instead of being deposited in banks to be let out by those institutions to capitalist exploiters, could be placed to the credit of soundly conducted co-operative enterprises, developing the farmers and aiding the resources of the toilers in town and country. In so doing the urban workers would know that, in helping to make life in the rural districts less unbearable, they were also helping to stem the flow of labour into the towns, thus increasing the security of their own position.
+
+The idea is capable of almost infinite expansion, and not least amongst its attractions is the hope that the minds of Irish men and women, once set thus definitely in the direction of common work, common ownership, and democratically conducted industry, their thought would not cease from travelling that path until they had once more grasped the concept of an Ireland of whose powers, potentialities and gifts each should be an equal heir, in whose joys and cultures all should be sharers.
+
+The letter to the Dublin Employers (printed in the Appendix), though it excited the wrath of all the tyrants and reactionaries in Ireland, served to win for Mr. Russell that hearing for the Co-operative position we have just outlined, which may yet make it in a double sense a historic document.
+
+If, to that combination of agriculturalists and urban labourers we have just hinted at as a possibility of co-operation upon the economic field, we add the further possible development of an understanding upon the political field between these two groups of co-operators, we begin to realise the great and fundamental change now slowly maturing in our midst.
+
+Such a political development may not, indeed probably will not, come soon, but the necessity of seeking legislation to aid their activities, as well as the necessity of preventing legislation to obstruct their activities, will force forward that development in due time.
+
+Then, when to the easily organised labourers of the towns is added the immense staying power of the peasantry, and when representatives appear in the Halls of Legislature voicing their combined demands, the Party of Labour which will thus manifest itself will speak with a prophetic voice, when it proclaims its ideal for a regenerated Ireland – an Ireland re-conquered for its common people.
+
+For the only true prophets are they who carve out the future which they announce.

@@ -4,7 +4,10 @@ slug: "epictetus-the-handbook-ae73b2"
 title: The Handbook
 author:
   name: Epictetus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Greek Stoic philosopher, born a slave in Phrygia, who taught in Rome until Domitian's expulsion of the philosophers and then at Nicopolis. The Discourses and Handbook, taken down by his student Arrian, turned Stoicism into a practical discipline of distinguishing what is in our power from what is not."
+  birth_year: 50
+  death_year: 135
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

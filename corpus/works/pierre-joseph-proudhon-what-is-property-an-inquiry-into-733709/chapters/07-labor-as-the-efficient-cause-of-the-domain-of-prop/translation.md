@@ -1,0 +1,45 @@
+---
+work_id: "73370992-5f04-5c8c-a2bf-ed531993835d"
+work_slug: "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709"
+work_title: "What is Property? An Inquiry into the Principle of Right and of Government"
+author_name: "Pierre-Joseph Proudhon"
+chapter_number: 7
+chapter_title: Labor as the Efficient Cause of the Domain of Property.
+chapter_slug: "07-labor-as-the-efficient-cause-of-the-domain-of-prop"
+variant_id: "0b910dd0-8dad-5866-9af7-e788fd082448"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1276
+source_url: "https://www.marxists.org/reference/subject/economics/proudhon/property/ch03.htm"
+translator: Benjamin R. Tucker
+---
+
+Nearly all the modern writers on jurisprudence, taking their cue from the economists, have abandoned the theory of first occupancy as a too dangerous one, and have adopted that which regards property as born of labor. In this they are deluded; they reason in a circle. To labor it is necessary to occupy, says M. Cousin. Consequently, I have added in my turn, all having an equal right of occupancy, to labor it is necessary to submit to equality. “The rich,” exclaims Jean Jacques, “have the arrogance to say, ‘I built this wall; I earned this land by my labor.’ Who set you the tasks? we may reply, and by what right do you demand payment from us for labor which we did not impose upon you?” All sophistry falls to the ground in the presence of this argument.
+
+But the partisans of labor do not see that their system is an absolute contradiction of the Code, all the articles and provisions of which suppose property to be based upon the fact of first occupancy. If labor, through the appropriation which results from it, alone gives birth to property, the Civil Code lies, the charter is a falsehood, our whole social system is a violation of right. To this conclusion shall we come, at the end of the discussion which is to occupy our attention in this chapter and the following one, both as to the right of labor and the fact of property. We shall see, on the one hand, our legislation in opposition to itself; and, on the other hand, our new jurisprudence in opposition both to its own principle and to our legislation.
+
+I have asserted that the system which bases property upon labor implies, no less than that which bases it upon occupation, the equality of fortunes; and the reader must be impatient to learn how I propose to deduce this law of equality from the inequality of skill and faculties: directly his curiosity shall be satisfied. But it is proper that I should call his attention for a moment to this remarkable feature of the process; to wit, the substitution of labor for occupation as the principle of property; and that I should pass rapidly in review some of the prejudices to which proprietors are accustomed to appeal, which legislation has sanctioned, and which the system of labor completely overthrows.
+
+Reader, were you ever present at the examination of a criminal? Have you watched his tricks, his turns, his evasions, his distinctions, his equivocations? Beaten, all his assertions overthrown, pursued like a fallow deer by the in exorable judge, tracked from hypothesis to hypothesis, — he makes a statement, he corrects it, retracts it, contradicts it, he exhausts all the tricks of dialectics, more subtle, more ingenious a thousand times than he who invented the seventy-two forms of the syllogism. So acts the proprietor when called upon to defend his right. At first he refuses to reply, he exclaims, he threatens, he defies; then, forced to accept the discussion, he arms himself with chicanery, he surrounds himself with formidable artillery, — crossing his fire, opposing one by one and all together occupation, possession, limitation, covenants, immemorial custom, and universal consent. Conquered on this ground, the proprietor, like a wounded boar, turns on his pursuers. “I have done more than occupy,” he cries with terrible emotion; “I have labored, produced, improved, transformed, created. This house, these fields, these trees are the work of my hands; I changed these brambles into a vineyard, and this bush into a fig-tree; and to-day I reap the harvest of my labors. I have enriched the soil with my sweat; I have paid those men who, had they not had the work which I gave them, would have died of hunger. No one shared with me the trouble and expense; no one shall share with me the benefits.”
+
+You have labored, proprietor! why then do you speak of original occupancy? What, were you not sure of your right, or did you hope to deceive men, and make justice an illusion? Make haste, then, to acquaint us with your mode of defence, for the judgment will be final; and you know it to be a question of restitution.
+
+You have labored! but what is there in common between the labor which duty compels you to perform, and the appropriation of things in which there is a common interest? Do you not know that domain over the soil, like that over air and light, cannot be lost by prescription?
+
+You have labored! have you never made others labor? Why, then, have they lost in laboring for you what you have gained in not laboring for them?
+
+You have labored! very well; but let us see the results of your labor. We will count, weigh, and measure them. It will be the judgment of Balthasar; for I swear by balance, level, and square, that if you have appropriated another’s labor in any way whatsoever, you shall restore it every stroke.
+
+Thus, the principle of occupation is abandoned; no longer is it said, “The land belongs to him who first gets possession of it. Property, forced into its first intrenchment, repudiates its old adage; justice, ashamed, retracts her maxims, and sorrow lowers her bandage over her blushing cheeks. And it was but yesterday that this progress in social philosophy began: fifty centuries required for the extirpation of a lie! During this lamentable period, how many usurpations have been sanctioned, how many invasions glorified, how many conquests celebrated! The absent dispossessed, the poor banished, the hungry excluded by wealth, which is so ready and bold in action! Jealousies and wars, incendiarism and bloodshed, among the nations! But henceforth, thanks to the age and its spirit, it is to be admitted that the earth is not a prize to be won in a race; in the absence of any other obstacle, there is a place for everybody under the sun. Each one may harness his goat to the bearn, drive his cattle to pasture, sow a corner of a field, and bake his bread by his own fireside.
+
+But, no; each one cannot do these things. I hear it proclaimed on all sides, “Glory to labor and industry! to each according to his capacity; to each capacity according to its results!” And I see three-fourths of the human race again despoiled, the labor of a few being a scourge to the labor of the rest.
+
+“The problem is solved,” exclaims M. Hennequin. “Property, the daughter of labor, can be enjoyed at present and in the future only under the protection of the laws. It has its origin in natural law; it derives its power from civil law; and from the union of these two ideas, labor and protection, positive legislation results.” ...
+
+Ah! the problem is solved! property is the daughter of labor! What, then, is the right of accession, and the right of succession, and the right of donation, &c., if not the right to become a proprietor by simple occupancy? What are your laws concerning the age of majority, emancipation, guardianship, and interdiction, if not the various conditions by which he who is already a laborer gains or loses the right of occupancy; that is, property?
+
+Being unable, at this time, to enter upon a detailed discussion of the Code, I shall content myself with examining the three arguments oftenest resorted to in support of property. 1. Appropriation, or the formation of property by possession; 2. The consent of mankind; 3. Prescription. I shall then inquire into the effects of labor upon the relative condition of the laborers and upon property.

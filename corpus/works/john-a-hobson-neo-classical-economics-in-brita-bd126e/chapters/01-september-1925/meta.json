@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-neo-classical-economics-in-brita-bd126e",
+  "work_title": "Neo-Classical Economics in Britain",
+  "chapter_number": 1,
+  "chapter_title": "(September 1925)",
+  "chapter_slug": "01-september-1925",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5feae0cf-01fd-58b3-9e51-7cb2d1f9e54c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6269,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1925/09/neoclass.htm"
+    }
+  ]
+}

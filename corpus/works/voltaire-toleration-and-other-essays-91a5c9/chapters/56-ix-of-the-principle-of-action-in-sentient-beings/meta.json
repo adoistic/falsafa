@@ -1,0 +1,26 @@
+{
+  "work_slug": "voltaire-toleration-and-other-essays-91a5c9",
+  "work_title": "Toleration and Other Essays",
+  "chapter_number": 56,
+  "chapter_title": "IX: Of the Principle of Action in Sentient Beings",
+  "chapter_slug": "56-ix-of-the-principle-of-action-in-sentient-beings",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1d75610f-c727-5e81-9220-b8943155b521",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 697,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+    }
+  ]
+}

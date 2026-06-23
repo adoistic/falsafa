@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-consolation-to-polybius-5e8db9",
+  "work_title": "Consolation to Polybius",
+  "chapter_number": 1,
+  "chapter_title": "Consolation to Polybius",
+  "chapter_slug": "01-consolation-to-polybius",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b59e88c8-c24a-564c-a37f-eacf3cd7cf69",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5760,
+      "paragraph_count": 98,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0255.stoa008"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d33c016-5657-56f1-8755-1adefb040ae6",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8886,
+      "paragraph_count": 98,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

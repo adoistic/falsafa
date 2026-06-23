@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-locke-two-treatises-of-government-fcc06c",
+  "work_title": "Two Treatises of Government",
+  "chapter_number": 5,
+  "chapter_title": "Chap. IV. Of Adam’s Title to Sovereignty by Donation, Gen. i. 28.",
+  "chapter_slug": "05-chap-iv-of-adam-s-title-to-sovereignty-by-donation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10f83cbe-21e2-5a84-8b28-a98500b4573c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6393,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+    }
+  ]
+}

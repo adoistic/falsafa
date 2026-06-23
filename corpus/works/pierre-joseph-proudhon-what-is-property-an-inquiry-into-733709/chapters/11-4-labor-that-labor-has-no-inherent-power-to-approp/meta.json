@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 11,
+  "chapter_title": "§ 4. — Labor — That Labor has no Inherent Power to appropriate Natural Wealth.",
+  "chapter_slug": "11-4-labor-that-labor-has-no-inherent-power-to-approp",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6c28482f-f40b-5c7c-bda0-343fb77df0f1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1994,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch03.htm"
+    }
+  ]
+}

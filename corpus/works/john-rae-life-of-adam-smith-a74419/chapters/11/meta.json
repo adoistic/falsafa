@@ -2,7 +2,7 @@
   "work_slug": "john-rae-life-of-adam-smith-a74419",
   "work_title": "Life of Adam Smith",
   "chapter_number": 11,
-  "chapter_title": "CHAPTER X: FIRST VISIT TO LONDON 1761. Aet. 38",
+  "chapter_title": "Chapter XI: Last Year in Glasgow 1763. Aet. 40",
   "chapter_slug": "11",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2224,
-      "paragraph_count": 11,
+      "word_count": 4996,
+      "paragraph_count": 38,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
     }

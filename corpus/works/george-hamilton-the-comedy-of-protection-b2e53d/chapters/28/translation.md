@@ -4,7 +4,7 @@ work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
 work_title: The Comedy of Protection
 author_name: George Hamilton
 chapter_number: 28
-chapter_title: "CHAPTER XXI: TEMPORARY ADMISSIONS"
+chapter_title: "Chapter XXII: Foreign Trade Between 1860 and 1903—France and England"
 chapter_slug: 28
 variant_id: "3ff07300-4bab-5fbf-a066-6b508a74fde6"
 content_type: translation
@@ -13,15 +13,23 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 385
+word_count: 417
 source_url: "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
 translator: Online Library of Liberty edition
 ---
 
-Customs permits—Diminution of the 2s. 10d. duty—Corn-producing districts—Law of 1902—Mills of the north.
+Trade in 1855-1859 and 1861-1865—1876-1880 and 1882-1886—1882-1886 and 1899-1903—Stagnation—Comparison with the United Kingdom—Verification of Free Trade prophecies.
 
-The question of import bonds had been raised in connection with that of temporary admission. The landowners had begun by declaring that if the corn duties did not raise prices as much as their promoters had promised the suspension of silver coinage was to blame for it. In 1900 they blamed the temporary admission which allowed millers to re-export wheat imported by means of a Customs’ permit involving repayment of the 2s. 10d. duty. The corn-growing departments of the south produced less, those of the north more, than they could consume; the southern millers imported grain from Odessa without exporting flour; the northern millers exported flour without importing wheat. A certificate of temporary admission only benefited the southern miller in so far as he could sell it to a colleague in the north; and since 1873 it had been necessary for a northern miller who wanted to send flour to London to send first from Dunkirk to Marseilles Edition: current; Page: [69] for a Customs’ permit. A decree of 1897 allowed the sending of permits by post.
+I have already adduced facts which prove that the commercial treaties of 1860 had not ruined even those manufacturers who made the loudest outcry against them. Looking at our specifically foreign trade as a whole during the quinquennial period preceding and following them, we can state—
 
-The result was extraordinarily unhappy. A northern miller could not fight against foreign markets by buying corn at a price which included 2s. 10d. per cwt. of duty; by getting a Customs’ permit, which lessened the differentiation, he could try to export his flour. The Marseilles miller, on the other hand, selling him it for 2s. 6d. or 3s. 4d., reduced pro tanto the duty on foreign corn consumed in the south.
+These results were produced by the silent labour of two economists, who had gradually cancelled some tariffs and modified others, with the result that the annual average of French imports rose £28,600,000, or 41 per cent.; exports £26,800,000, or 35 per cent.—a total increase of £55,440,000, 38 per cent.; results which may well be compared with those noisy enterprises which pretend to find expansion for trade with muskets and cannons. Every advantage is on the side of those who free the natural outlets for trade from the barriers by which they have been shut off. It is hardly necessary to say that the disasters of 1870, the loss of Alsace and Lorraine, did not assist the development of French industry and wealth. During the last quinquennial period—1876-1880—following the treaty these are the figures—
 
-According to the Blue Book on Agriculture, the northern and north-western districts produced 268 cwt. of corn for every 100 cwt. produced in the south. The Act of February, 1902, forced the miller to pay duty immediately the wheat was brought in, and prevented his alienating the right of collection, the amount of which would be refunded to him on reexportation. The aim of the landowners was to force the south to buy the wheat it needed exclusively from the north, and thus pay the whole duty, i.e., 2s. 10d. From one point of view this was logical, but it was illogical to lower the price of wheat in the wheat-growing districts by making it impossible for the northern miller to export flour.
+which represents an increase of £106,200,000, or 52 per cent., over the period 1861-1865.
+
+In 1881 came reaction; the ad valorem were replaced by specific duties, and some duties were raised. England refused under these conditions to renew the commercial treaty. In the following period—1882-1886—the annual average was for—
+
+and taking the last quinquennial period for which exact figures can be given, we find—1899-1903—the annual average to be—
+
+These figures for our foreign trade ought to inspire serious reflection. They remained, during the last quinquennial period, within four millions of those for 1876-1880, and exactly equal to those for 1882-1886. While foreign trade was thus stagnant, the total trade of France had increased 52 per cent. between 1861-1865 and 1876-1880. Those who upheld the Balance of Trade theory said with enthusiasm: “All the better, for imports have diminished and exports increased.” But how much? Ten per cent. There is stagnation here also, for the increase in exports between 1861-1865 and 1876-1880 had been 24 per cent. I know some one will say, “Prices have fallen,’ and so they have, but relatively to the preceding period they had fallen in 1876-1880; and if they fell in France they also fell in England, while England remained true to Free Trade. Compare the results:—
+
+Then comparing the development per cent. in the two countries—

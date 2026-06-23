@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-mehring-absolutism-and-revolution-in-ger-6d03ed",
+  "work_title": "Absolutism and Revolution in Germany 1525-1848",
+  "chapter_number": 33,
+  "chapter_title": "The Revolutionary Proletariat",
+  "chapter_slug": "33-the-revolutionary-proletariat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a86975b-0875-5bba-a35b-98e11c82fd01",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4635,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/mehring/1910/absrev/ch05c.htm"
+    }
+  ]
+}

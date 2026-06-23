@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 6,
+  "chapter_title": "Chap. V In what Manner, and according to what Principles, and political Causes, does Agriculture augment Population?",
+  "chapter_slug": "06-chap-v-in-what-manner-and-according-to-what-princi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "877d70e7-2b92-5b02-8b26-930a36be6665",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1869,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book1_05.htm"
+    }
+  ]
+}

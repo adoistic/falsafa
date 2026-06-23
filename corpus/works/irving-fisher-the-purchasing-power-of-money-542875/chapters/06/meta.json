@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 6,
+  "chapter_title": "Chapter II: Purchasing Power of Money as Related to the Equation of Exchange",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49fe3a92-2cb0-5c03-b1ba-01e1c8b4fc36",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6274,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

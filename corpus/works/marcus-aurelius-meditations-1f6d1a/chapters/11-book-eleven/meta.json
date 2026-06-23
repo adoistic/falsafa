@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-aurelius-meditations-1f6d1a",
+  "work_title": "Meditations",
+  "chapter_number": 11,
+  "chapter_title": "Book Eleven",
+  "chapter_slug": "11-book-eleven",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1a5ddfdb-7dce-549a-8235-d6af9ac9188d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2401,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0562.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca90d314-5d09-5b1e-bbeb-700a5cf7d3af",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3412,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

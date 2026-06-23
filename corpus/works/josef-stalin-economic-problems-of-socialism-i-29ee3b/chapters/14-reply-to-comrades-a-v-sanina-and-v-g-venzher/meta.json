@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-economic-problems-of-socialism-i-29ee3b",
+  "work_title": "Economic Problems of Socialism in the USSR",
+  "chapter_number": 14,
+  "chapter_title": "Reply to Comrades A.V. Sanina and V.G. Venzher",
+  "chapter_slug": "14-reply-to-comrades-a-v-sanina-and-v-g-venzher",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "22dbf68c-318d-5043-9ce3-57dbf8e8befb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3293,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch14.htm"
+    }
+  ]
+}

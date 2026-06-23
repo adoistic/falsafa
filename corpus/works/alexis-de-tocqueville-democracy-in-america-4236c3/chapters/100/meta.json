@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 100,
+  "chapter_title": "Chapter XXVI: Some Considerations On War In Democratic Communities",
+  "chapter_slug": "100",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df7f5805-7e94-56e0-92f1-1c4e8c75d867",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1996,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch40.htm"
+    }
+  ]
+}

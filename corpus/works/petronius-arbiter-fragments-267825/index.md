@@ -4,7 +4,9 @@ slug: "petronius-arbiter-fragments-267825"
 title: Fragments
 author:
   name: Petronius Arbiter
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman courtier and satirist of Nero's reign, traditionally identified with the arbiter elegantiae Tacitus describes. The Satyricon survives in fragments as the foremost prose fiction of imperial Rome."
+  death_year: 66
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

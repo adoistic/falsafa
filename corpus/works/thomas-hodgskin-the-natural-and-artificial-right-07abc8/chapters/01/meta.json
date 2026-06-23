@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hodgskin-the-natural-and-artificial-right-07abc8",
+  "work_title": "The Natural and Artificial Right of Property Contrasted",
+  "chapter_number": 1,
+  "chapter_title": "Letter the First. Introductory, To H. Brougham, Esq. M.p. F.r.s. &c.",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "edf0aebc-d220-5cce-97ce-6e7450b8e124",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6156,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hodgskin-the-natural-and-artificial-right-of-property-contrasted"
+    }
+  ]
+}

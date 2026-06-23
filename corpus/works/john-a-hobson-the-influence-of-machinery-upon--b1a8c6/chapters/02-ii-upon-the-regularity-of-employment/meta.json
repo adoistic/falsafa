@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-the-influence-of-machinery-upon--b1a8c6",
+  "work_title": "The Influence of Machinery Upon Employment",
+  "chapter_number": 2,
+  "chapter_title": "II. Upon the Regularity of Employment",
+  "chapter_slug": "02-ii-upon-the-regularity-of-employment",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f024b531-8fe9-5c4f-b0f9-7143241f8eaa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1971,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1893/03/machines.htm"
+    }
+  ]
+}

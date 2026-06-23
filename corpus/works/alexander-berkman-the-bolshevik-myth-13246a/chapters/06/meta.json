@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 5 : The Guest House",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d2bf34e9-3298-51ee-9676-f830a95103eb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1198,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-5.html"
+    }
+  ]
+}

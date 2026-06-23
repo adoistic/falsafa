@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-war-and-other-essays-b3f818",
+  "work_title": "War and Other Essays",
+  "chapter_number": 19,
+  "chapter_title": "Our Colleges Before the Country, XVII: Our Colleges Before the Country [1884]",
+  "chapter_slug": "19-our-colleges-before-the-country-xvii-our-colleges-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "22e13756-6d37-5dff-a126-6fdf3fa157a5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5829,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-war-and-other-essays"
+    }
+  ]
+}

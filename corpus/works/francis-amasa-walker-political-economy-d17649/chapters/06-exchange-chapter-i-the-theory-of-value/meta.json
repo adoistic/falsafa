@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 6,
+  "chapter_title": "Exchange, Chapter I.: The Theory of Value.",
+  "chapter_slug": "06-exchange-chapter-i-the-theory-of-value",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e01068e-084d-5d87-88dd-e1353faf5948",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12407,
+      "paragraph_count": 126,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

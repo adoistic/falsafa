@@ -1,0 +1,26 @@
+{
+  "work_slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
+  "work_title": "The Thoughts (Pensées) of Blaise Pascal",
+  "chapter_number": 16,
+  "chapter_title": "The Authenticity of the Sacred Books.",
+  "chapter_slug": "16-the-authenticity-of-the-sacred-books",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7fa183b4-ca17-55e6-9167-fd9bda5abd03",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1413,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-the-thoughts-of-blaise-pascal"
+    }
+  ]
+}

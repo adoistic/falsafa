@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 101,
+  "chapter_title": "Xii.—: Position of London.",
+  "chapter_slug": "101-xii-position-of-london",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74a17113-17b6-5f9b-bc70-0f6aa6fcf6eb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 228,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 23,
+  "chapter_title": "Wolff",
+  "chapter_slug": "23-wolff",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "15e1307d-3351-5e82-bb5a-4902cb9488fc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3804,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hpwolff.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 15,
+  "chapter_title": "Joining the Museum of the Revolution",
+  "chapter_slug": "15-joining-the-museum-of-the-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2dd1fe8-da28-5749-a4c4-666eda442661",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1619,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch13.htm"
+    }
+  ]
+}

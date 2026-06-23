@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 73,
+  "chapter_title": "On Protection to Agriculture, section I.: On Remunerating Price.",
+  "chapter_slug": "73-on-protection-to-agriculture-section-i-on-remunera",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5eebcff6-0972-5678-b1c0-b179d7c0a070",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1053,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

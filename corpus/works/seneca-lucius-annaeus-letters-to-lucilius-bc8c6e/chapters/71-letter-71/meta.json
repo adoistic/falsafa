@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 71,
+  "chapter_title": "Letter 71",
+  "chapter_slug": "71-letter-71",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fb1f110c-4f3b-543c-8c72-cb827af70fe9",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8521abb9-9fc8-570a-b819-baedcf6733ac",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3245,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

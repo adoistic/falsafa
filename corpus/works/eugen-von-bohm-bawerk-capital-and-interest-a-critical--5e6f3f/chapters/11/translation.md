@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f"
 work_title: "Capital and Interest: A Critical History of Economical Theory"
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 11
-chapter_title: "Book III, Chapter I: The Use of Capital"
+chapter_title: "Book III: The Use Theories, Book III, Chapter I: The Use of Capital"
 chapter_slug: 11
 variant_id: "f02cebc9-d41a-5c6b-8623-5860acdbfc18"
 content_type: translation

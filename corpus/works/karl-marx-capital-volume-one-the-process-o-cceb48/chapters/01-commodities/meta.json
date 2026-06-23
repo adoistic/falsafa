@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 1,
+  "chapter_title": "Commodities",
+  "chapter_slug": "01-commodities",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d8796f4-7e6f-5b93-89ee-e039764d3e25",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 18118,
+      "paragraph_count": 155,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm"
+    }
+  ]
+}

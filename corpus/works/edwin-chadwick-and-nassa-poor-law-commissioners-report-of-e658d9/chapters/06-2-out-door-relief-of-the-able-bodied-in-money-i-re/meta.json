@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 6,
+  "chapter_title": "2. Out-door Relief of the Able-bodied in Money, I. Relief Without Labour.",
+  "chapter_slug": "06-2-out-door-relief-of-the-able-bodied-in-money-i-re",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e6cbeec4-de78-54e5-b747-8986c7c615ec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 650,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

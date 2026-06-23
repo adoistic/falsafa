@@ -1,0 +1,31 @@
+---
+work_id: "8b1922b3-f6f5-52dd-bfd5-6de263dffd70"
+work_slug: "georg-wilhelm-friedrich--objective-spirit-8b1922"
+work_title: Objective Spirit
+author_name: Georg Wilhelm Friedrich Hegel
+chapter_number: 4
+chapter_title: Ethics
+chapter_slug: "04-ethics"
+variant_id: "bb126d42-c81e-58c1-a579-9c7add0303ad"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 577
+source_url: "https://www.marxists.org/reference/archive/hegel/works/sp/osethica.htm"
+translator: William Wallace
+---
+
+Encyclopaedia of the Philosophical Sciences Part III: The Philosophy of Spirit SECTION TWO: OBJECTIVE SPIRIT
+
+The moral life is the perfection of spirit objective — the truth of the subjective and objective spirit itself. The failure of the latter consists — partly in having its freedom immediately in reality, in something external therefore, in a thing — partly in the abstract universality of its goodness. The failure of spirit subjective similarly consists in this, that it is, as against the universal, abstractly self-determinant in its inward individuality. When these two imperfections are suppressed, subjective freedom exists as the covertly and overtly universal rational will, which is sensible of itself and actively disposed in the consciousness of the individual subject, whilst its practical operation and immediate universal actuality at the same time exist as moral usage, manner and custom — where self-conscious liberty has become nature.
+
+The consciously free substance, in which the absolute 'ought' is no less an 'is', has actuality as the spirit of a nation. The abstract disruption of this spirit singles it out into persons, whose independence it, however, controls and entirely dominates from within. But the person, as an intelligent being, feels that underlying essence to be his own very being — ceases when so minded to be a mere accident of it — looks upon it as his absolute final aim. In its actuality he sees not less an achieved present, than somewhat he brings about by his action — yet somewhat which without all question is. Thus, without any selective reflection, the person performs his duty as his own and as something which is; and in this necessity he has himself and his actual freedom.
+
+Because the substance is the absolute unity of individuality and universality of freedom, it follows that the actuality and action of each individual to keep and to take care of his own being, while it is on one hand conditioned by the pre-supposed total in whose complex alone he exists, is on the other a transition into a universal product. — The social disposition of the individuals is their sense of the substance, and of the identity of all their interests with the total; and that the other individuals mutually know each other and are actual only in this identity, is confidence (trust) — the genuine ethical temper.
+
+The relations between individuals in the several situations to which the substance is particularised form their ethical duties. The ethical personality, i.e. the subjectivity which is permeated by the substantial life, is virtue. In relation to the bare facts of external being, to destiny, virtue does not treat them as a mere negation, and is thus a quiet repose in itself: in relation to substantial objectivity, to the total of ethical actuality, it exists as confidence, as deliberate work for the community, and the capacity of sacrificing self thereto; whilst in relation to the incidental relations of social circumstance, it is in the first instance justice and then benevolence. In the latter sphere, and in its attitude to its own visible being and corporeity, the individuality expresses its special character, temperament, etc. as personal virtues.
+
+The ethical substance is: (a) as 'immediate' or natural mind — the Family. (b) The 'relative' totality of the 'relative' relations of the individuals as independent persons to one another in a formal universality — Civil Society. (c) The self-conscious substance, as the mind developed to an organic actuality — the Political Constitution.

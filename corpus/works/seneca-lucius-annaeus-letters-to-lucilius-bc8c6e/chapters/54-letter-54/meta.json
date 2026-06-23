@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 54,
+  "chapter_title": "Letter 54",
+  "chapter_slug": "54-letter-54",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f4d21c2f-fac3-5fa6-ad24-2db9bf770314",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "acc6c483-b955-5963-aa1d-e1499e3a69c4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 651,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

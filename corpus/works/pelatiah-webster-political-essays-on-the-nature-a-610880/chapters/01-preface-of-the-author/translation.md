@@ -4,7 +4,7 @@ work_slug: "pelatiah-webster-political-essays-on-the-nature-a-610880"
 work_title: Political Essays on the Nature and Operation of Money
 author_name: Pelatiah Webster
 chapter_number: 1
-chapter_title: PREFACE Of the Author.
+chapter_title: Preface Of the Author.
 chapter_slug: "01-preface-of-the-author"
 variant_id: "d3280fc6-9f26-57db-a77d-577f8427ebc1"
 content_type: translation

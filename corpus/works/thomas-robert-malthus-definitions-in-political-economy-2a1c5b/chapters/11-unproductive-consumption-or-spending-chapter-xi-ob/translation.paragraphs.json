@@ -1,0 +1,872 @@
+[
+  {
+    "id": "p-4b3779",
+    "offset": 0,
+    "text": "1. The material objects necessary, useful or agreeable to man, which have required some portion of human exertion to appropriate or produce."
+  },
+  {
+    "id": "p-c16db4",
+    "offset": 142,
+    "text": "2. The quality of being serviceable or beneficial to mankind. The utility of an object has generally been considered as proportioned to the necessity and real importance of these services and benefits."
+  },
+  {
+    "id": "p-3ec521",
+    "offset": 345,
+    "text": "All wealth is necessarily useful; but all that is useful is not necessarily wealth."
+  },
+  {
+    "id": "p-1e7c01",
+    "offset": 430,
+    "text": "3. Has two meanings—value in use, and value in exchange."
+  },
+  {
+    "id": "p-2cf800",
+    "offset": 488,
+    "text": "4. Is synonimous with Utility. It rarely occurs in political economy, and is never implied by the word value when used alone."
+  },
+  {
+    "id": "p-68d991",
+    "offset": 615,
+    "text": "5. The relation of one object to some other, or others in exchange, resulting from the estimation in which each is held. When no second object is specified, the value of a commodity naturally refers to the causes which determine this estimation, and the object which measures it."
+  },
+  {
+    "id": "p-73599d",
+    "offset": 896,
+    "text": "Value is distinguished from wealth in that it is not confined to material objects, and is much more dependent upon scarcity and difficulty of production."
+  },
+  {
+    "id": "p-3f6aed",
+    "offset": 1051,
+    "text": "6. The creation of objects which constitute wealth."
+  },
+  {
+    "id": "p-fd6a95",
+    "offset": 1104,
+    "text": "7. The portion of wealth created by production."
+  },
+  {
+    "id": "p-2d5510",
+    "offset": 1153,
+    "text": "8. Land, labour, and capital. The two original sources are land and labour; but the aid which labour receives from capital is applied so very early, and is so very necessary in the production of wealth, that it may be considered as a third source."
+  },
+  {
+    "id": "p-4b7e21",
+    "offset": 1402,
+    "text": "9. The soil, mines, waters, and fisheries of the habitable globe. It is the main source of raw materials and food."
+  },
+  {
+    "id": "p-c18ac7",
+    "offset": 1518,
+    "text": "10. The exertions of human beings employed with a view to remuneration. If the term be applied to other exertions, they must be particularly specified."
+  },
+  {
+    "id": "p-2e7e94",
+    "offset": 1671,
+    "text": "11. The labour which is so directly productive of wealth as to be capable of estimation in the quantity or value of the products obtained."
+  },
+  {
+    "id": "p-7e6f67",
+    "offset": 1811,
+    "text": "12. All labour which is not directly productive of wealth. The terms productive and unproductive are always used by political economists in a restricted and technical sense exclusively applicable to the direct production or non-production of wealth."
+  },
+  {
+    "id": "p-76cad2",
+    "offset": 2062,
+    "text": "13. The exertion of the human faculties and powers to accomplish some desirable end. No very marked line is drawn in common language, or by political economists, between industry and labour; but the term industry generally implies more superintendance and less bodily exertion than labour."
+  },
+  {
+    "id": "p-5dcffb",
+    "offset": 2353,
+    "text": "14. Accumulated wealth, either reserved by the consumer for his consumption, or kept, or employed with a view to profit."
+  },
+  {
+    "id": "p-8c4b5b",
+    "offset": 2475,
+    "text": "15. That portion of the stock of a country which is kept or employed with a view to profit in the production and distribution of wealth."
+  },
+  {
+    "id": "p-7219c3",
+    "offset": 2613,
+    "text": "16. That portion of stock employed with a view to profit which yields such profit while it remains in the possession of the owner."
+  },
+  {
+    "id": "p-bfa8d2",
+    "offset": 2745,
+    "text": "17. That portion of stock employed with a view to profit which does not yield such profit till it is parted with."
+  },
+  {
+    "id": "p-a1583a",
+    "offset": 2860,
+    "text": "18. That portion of stock or wealth which the possessor may annually consume without injury to his permanent resources. It consists of the rents of land, the wages of labour, and the profits of stock."
+  },
+  {
+    "id": "p-1c27a8",
+    "offset": 3062,
+    "text": "19. The employment of a portion of revenue as capital. Capital may therefore increase without an increase of stock or wealth."
+  },
+  {
+    "id": "p-c6054f",
+    "offset": 3189,
+    "text": "20. In modern times, implies the accumulation of capital, as few people now lock up their money in a box."
+  },
+  {
+    "id": "p-cd0013",
+    "offset": 3296,
+    "text": "21. That portion of the produce of land which remains to the owner after all the outgoings belonging to its cultivation are paid, including the ordinary profits of the capital employed."
+  },
+  {
+    "id": "p-bcf923",
+    "offset": 3483,
+    "text": "22. The average rent of land as before defined, estimated in money."
+  },
+  {
+    "id": "p-01fde6",
+    "offset": 3552,
+    "text": "23. That portion of the produce of land which is not actually consumed by the cultivators."
+  },
+  {
+    "id": "p-0025ca",
+    "offset": 3644,
+    "text": "24. The remuneration paid to the labourer for his exertions."
+  },
+  {
+    "id": "p-b2239a",
+    "offset": 3706,
+    "text": "25. The wages which the labourer receives in the current money of the country."
+  },
+  {
+    "id": "p-7fc459",
+    "offset": 3786,
+    "text": "26. The necessaries, conveniencies, and luxuries of life which the wages of the labourer enable him to command."
+  },
+  {
+    "id": "p-9586b6",
+    "offset": 3899,
+    "text": "27. The ordinary wages paid to the labourer by the day, week, month, or year, according to the custom of the place where he is employed. They are generally estimated in money."
+  },
+  {
+    "id": "p-f90f6b",
+    "offset": 4076,
+    "text": "28. Has generally been understood to mean the average money-price of common day-labour, and is not therefore different from the rate of wages, except that it more specifically refers to money."
+  },
+  {
+    "id": "p-8bdb4a",
+    "offset": 4270,
+    "text": "29. The whole earnings of the labourer in a given time, which may be much more or much less than the average rate of wages, or the price of common day-labour."
+  },
+  {
+    "id": "p-b4c111",
+    "offset": 4430,
+    "text": "30. The price in money of a given quantity of human exertion of a given strength and character, which may be essentially different from the common price of day-labour, or the whole money-earnings of the labourer in a given time."
+  },
+  {
+    "id": "p-7534cf",
+    "offset": 4660,
+    "text": "31. The labour worked up in the raw materials and tools applied to the production of other commodities."
+  },
+  {
+    "id": "p-0d0db8",
+    "offset": 4765,
+    "text": "32. When stock is employed as capital in the production and distribution of wealth, its profits consist of the difference between the value of the capital advanced, and the value of the commodity when sold or used."
+  },
+  {
+    "id": "p-671c18",
+    "offset": 4981,
+    "text": "33. The per centage proportion which the value of the profits upon any capital bears to the value of such capital."
+  },
+  {
+    "id": "p-859c8f",
+    "offset": 5097,
+    "text": "34. The net profits of a capital in money separated from the risk and trouble of employing it."
+  },
+  {
+    "id": "p-665aed",
+    "offset": 5193,
+    "text": "35. That portion of the gross profits of capital, independent of monopoly, which remains after deducting the net profits, or the interest of money."
+  },
+  {
+    "id": "p-a6c65f",
+    "offset": 5342,
+    "text": "36. The profits which arise from the employment of capital where the competition is not free."
+  },
+  {
+    "id": "p-dd07bb",
+    "offset": 5437,
+    "text": "37. The advance of the quantity of accumulated and immediate labour necessary to their production, with such a per centage upon the whole of the advances for the time they have been employed as is equivalent to ordinary profits. If there be any other necessary conditions of the supply arising from monopolies of any description, or from taxes, they must be added."
+  },
+  {
+    "id": "p-b55153",
+    "offset": 5803,
+    "text": "38. An expression exactly equivalent to the conditions of the supply."
+  },
+  {
+    "id": "p-71be38",
+    "offset": 5874,
+    "text": "46. The quantity offered, or ready to be immediately offered, for sale."
+  },
+  {
+    "id": "p-f08437",
+    "offset": 5947,
+    "text": "47. Has two distinct meanings: one, in regard to its extent, or the quantity of commodities purchased; and the other, in regard to its intensity, or the sacrifice which the demanders are able and willing to make in order to satisfy their wants."
+  },
+  {
+    "id": "p-daa4c2",
+    "offset": 6193,
+    "text": "48. The quantity of the commodity purchased, which generally increases with the increase of the supply, and diminishes with the diminution of it. It is often the greatest when commodities are selling below the costs of production."
+  },
+  {
+    "id": "p-03a703",
+    "offset": 6425,
+    "text": "49. The sacrifice which the demanders are able and willing to make in order to satisfy their wants. It is this species of demand alone which, compared with the supply, determines prices and values."
+  },
+  {
+    "id": "p-1d7cea",
+    "offset": 6624,
+    "text": "50. The quantity of a commodity wanted by those who are able and willing to pay the costs of its production."
+  },
+  {
+    "id": "p-cde753",
+    "offset": 6734,
+    "text": "51. The sacrifice which the demanders must make, in order to effectuate the continued supply of a commodity."
+  },
+  {
+    "id": "p-1b237d",
+    "offset": 6844,
+    "text": "52. The quantity of labour for which the commodity will exchange, when in its natural and ordinary state."
+  },
+  {
+    "id": "p-a15041",
+    "offset": 6951,
+    "text": "53. The demand for a commodity is said to be in excess above the supply, when, either from the diminution of the supply, or the increase of the effectual demand, the quantity in the market is not sufficient to supply all the effectual demanders. In this case the intensity of the demand increases, and the commodity rises, in proportion to the competition of the demanders, and the sacrifice they are able and willing to make in order to satisfy their wants."
+  },
+  {
+    "id": "p-f02ad9",
+    "offset": 7411,
+    "text": "54. The supply of a commodity is said to be in excess above the demand, or there is a partial glut, when, either from the superabundance of supply, or the diminution of demand, the quantity in the market exceeds the quantity wanted by those who are able and willing to pay the elementary costs of production. It then falls below these costs in proportion to the eagerness of the sellers to sell; and the glut is trifling, or great, accordingly."
+  },
+  {
+    "id": "p-64dac6",
+    "offset": 7857,
+    "text": "55. A glut is said to be general, when, either from superabundance of supply or diminution of demand, a considerable mass of commodities falls below the elementary costs of production."
+  },
+  {
+    "id": "p-85b24e",
+    "offset": 8043,
+    "text": "56. A given demand, in regard to price, is a given quantity of money intended to be laid out in the purchase of certain commodities in a market; and a given demand, in regard to value, is the command of a given quantity of labour intended to be employed in the same way."
+  },
+  {
+    "id": "p-8d9d7f",
+    "offset": 8315,
+    "text": "57. Prices and values vary as the demand directly and the supply inversely. When the demand is given, prices and values vary inversely as the supply; when the supply is given, directly as the demand."
+  },
+  {
+    "id": "p-a895be",
+    "offset": 8516,
+    "text": "58. The destruction wholly or in part of any portions of wealth."
+  },
+  {
+    "id": "p-d343a2",
+    "offset": 8582,
+    "text": "59. The consumption or employment of wealth by the capitalist, with a view to future production."
+  },
+  {
+    "id": "p-85931b",
+    "offset": 8680,
+    "text": "60. The consumption of wealth, as revenue, with a view to the final purpose of all production—subsistence and enjoyment; but not with a view to profit."
+  },
+  {
+    "id": "p-1c51ef",
+    "offset": 8833,
+    "text": "It may seem strange to the reader, but it is nevertheless true, that the meanings of all these terms, which had been settled long ago, and in my opinion with a great approach towards correctness, by Adam Smith, have of late been called in question, and altered."
+  },
+  {
+    "id": "p-e0e2f6",
+    "offset": 9096,
+    "text": "Wealth of Nations, b. ii. c. iii. p. i. vol. ii. 6th ed."
+  },
+  {
+    "id": "p-7a3df9",
+    "offset": 9154,
+    "text": "Traité d’ Economie Politique, liv. i. c. i. pp. 2, 4, 4th ed."
+  },
+  {
+    "id": "p-2ab222",
+    "offset": 9217,
+    "text": "Wealth of Nations, b. i. c. v. p. 43. 6th edit."
+  },
+  {
+    "id": "p-4284dd",
+    "offset": 9266,
+    "text": "Polit. Econ. c. xx. p. 320. 3rd Edit."
+  },
+  {
+    "id": "p-2bee03",
+    "offset": 9305,
+    "text": "Polit. Econ. c. xx. p. 326. 3rd edit.—It may be remarked, by the way, that Mr. Ricardo here uses labour as a measure of value in the sense in which I think it ought always to be used, and not according to his own theory. He measures the exchangeable value of the plate and velvet, not by the quantity of labour worked up in them, but by the quantity they will command or employ."
+  },
+  {
+    "id": "p-84556e",
+    "offset": 9685,
+    "text": "Polit. Econ. c. i. sec. iii. pp. 16, 18, 3rd edit."
+  },
+  {
+    "id": "p-4acda2",
+    "offset": 9737,
+    "text": "Polit. Econ. c. vii. p. 137, 3rd edit."
+  },
+  {
+    "id": "p-7fa22d",
+    "offset": 9777,
+    "text": "Id. p. 152."
+  },
+  {
+    "id": "p-5c21af",
+    "offset": 9790,
+    "text": "Polit. Econ. c. v. p. 98, 3rd edit."
+  },
+  {
+    "id": "p-3848b0",
+    "offset": 9827,
+    "text": "Polit. Econ. c. i. sec. vi. p. 45, 3rd edit."
+  },
+  {
+    "id": "p-7f7ab1",
+    "offset": 9873,
+    "text": "Elements of Polit. Econ. c. ii. sec. iii. p. 75, 2nd edit."
+  },
+  {
+    "id": "p-71434f",
+    "offset": 9933,
+    "text": "Elements of Polit. Econ. c. iii. sec. ii. p. 92."
+  },
+  {
+    "id": "p-713ed1",
+    "offset": 9983,
+    "text": "Elements of Polit. Econ. c. iii. sec. ii. p. 94."
+  },
+  {
+    "id": "p-9d1e7f",
+    "offset": 10033,
+    "text": "Id. c. iii. sec. ii. p. 95."
+  },
+  {
+    "id": "p-79d94f",
+    "offset": 10062,
+    "text": "Sec. viii. p. 133."
+  },
+  {
+    "id": "p-048214",
+    "offset": 10082,
+    "text": "Elements of Polit. Econ. c. iv. s. iii. p. 225. If the demand of every indvidual were equal to his supply, in the correct sense of the expression, it would be a proof that he could always sell his commodity for the costs of production, including fair profits; and then even a partial glut would be impossible. The argument proves too much. It is very strange that Mr. Mill should not have seen what appears to be so very obvious,—that supply must always be proportioned to quantity, and demand to value."
+  },
+  {
+    "id": "p-178515",
+    "offset": 10587,
+    "text": "Elem. of Polit. Econ. c. iv. s. iii. p. 233."
+  },
+  {
+    "id": "p-199661",
+    "offset": 10633,
+    "text": "Elem. of Polit. Econ. c. iv. s. iii. p. 234."
+  },
+  {
+    "id": "p-acbdc8",
+    "offset": 10679,
+    "text": "Foreign trade is, no doubt, mainly a trade of barter; but the question whether British woollens find an adequate market in the United States, does not depend upon their purchasing the same quantity of tobacco as usual, but upon whether the tobacco, or whatever the returns may be, will purchase the British money or the British labour necessary to enable the woollen manufacturer to carry on his business successfully. If both woollen manufactures and tobacco are below the costs of production in money or labour, both parties may be carrying on a losing trade, at the time when the rate at which the two articles exchange with each other is the same as usual. This is the answer to the pamphlet, which M. Say addressed to me some years ago."
+  },
+  {
+    "id": "p-91265e",
+    "offset": 11422,
+    "text": "On the Production of Wealth, c. vi. s. vi. p. 349."
+  },
+  {
+    "id": "p-91265e",
+    "offset": 11474,
+    "text": "On the Production of Wealth, c. vi. s. vi. p. 349."
+  },
+  {
+    "id": "p-f11c68",
+    "offset": 11526,
+    "text": "On the Production of Wealth, c. vi. s. vi. p. 345."
+  },
+  {
+    "id": "p-8c27aa",
+    "offset": 11578,
+    "text": "Id. p. 348."
+  },
+  {
+    "id": "p-5ecb82",
+    "offset": 11591,
+    "text": "It is quite astonishing that political economists of reputation should be inclined to resort to any kind of illustration, however clumsy and inapplicable, rather than refer to money. I suppose they are afraid of the imputation of thinking that wealth consists in money. But though it is certainly true that wealth does not consist in money, it is equally true that money is a most powerful agent in the distribution of wealth; and those who, in a country where all exchanges are practically effected by money, continue the attempt to explain the principles of demand and supply, and the variations of wages and profits, by referring chiefly to hats, shoes, corn, suits of clothing, &c., must of necessity fail."
+  },
+  {
+    "id": "p-199661",
+    "offset": 12303,
+    "text": "Elem. of Polit. Econ. c. iv. s. iii. p. 234."
+  },
+  {
+    "id": "p-db77a5",
+    "offset": 12349,
+    "text": "Elements of Polit. Econ. c. ii. sec. ii. p. 41."
+  },
+  {
+    "id": "p-86f593",
+    "offset": 12398,
+    "text": "Principles of Political Economy, part i. p. 5."
+  },
+  {
+    "id": "p-301f9b",
+    "offset": 12446,
+    "text": "These remarks were principally directed against Lord Lauderdale’s definition of wealth—all that man desires as useful and delightful to him; but they apply with nearly equal force to Mr. Macculloch’s present definition, which is limited to those objects which possess exchangeable value. According to Mr. Macculloch’s own statement, health is purchased from the physician, and the gratification derived from acting from the actor; and it must be allowed that it is impossible to enjoy the benefits of civil and religious liberty without paying those who administer a good government. It has been said by Mr. Hallam, with some truth, that the liberties of England were chiefly obtained by successive pur chases from the crown."
+  },
+  {
+    "id": "p-fe9a43",
+    "offset": 13173,
+    "text": "Principles of Polit. Econ., part iv. p. 406."
+  },
+  {
+    "id": "p-6e2e1d",
+    "offset": 13219,
+    "text": "Principles of Polit. Econ., part iv. p. 410."
+  },
+  {
+    "id": "p-087a8c",
+    "offset": 13265,
+    "text": "Principles of Polit. Econ., part ii. p. 71. This language has absolutely no meaning, if all labour be equally productive in regard to national wealth."
+  },
+  {
+    "id": "p-3b9040",
+    "offset": 13417,
+    "text": "Mr. Macculloch dwells very much upon the extreme importance of accumulation to the increase of national wealth. But how are the gratifications afforded by menial servants to be accumulated?"
+  },
+  {
+    "id": "p-b3aead",
+    "offset": 13608,
+    "text": "Principles of Polit. Econ., part ii. p. 92."
+  },
+  {
+    "id": "p-7a3dac",
+    "offset": 13653,
+    "text": "Principles of Polit. Econ., part ii. p. 114."
+  },
+  {
+    "id": "p-c7a0e1",
+    "offset": 13699,
+    "text": "This is very justly stated in Mr. Mill’s “Elements of Political Economy,” ch. iv. sec. i. p. 219, 2d edit.: both Mr. Ricardo and Mr. Mill, indeed, fully allow the distinction between productive and unproductive labour. M. Say, though he calls the labour of the menial servant productive, makes a distinction between the labour which is productive of material products and the labour which is productive of immaterial products. Of the latter products he says, “En favorisant leur multiplication, on ne fait rien pour la richesse, on ne fait que pour la consommation.”—Table Analytique, liv. i. ch. 13. This is a most characteristic difference; and though I prefer the classification of Adam Smith, as more simple, I should allow that, on these principles, the causes of the wealth of nations may be clearly explained. But I own myself utterly at a loss to conceive how they can be explained, if all labour be considered as equally productive."
+  },
+  {
+    "id": "p-834508",
+    "offset": 14642,
+    "text": "Elem. of Polit. Econ. part ii. p. 93."
+  },
+  {
+    "id": "p-7074b0",
+    "offset": 14681,
+    "text": "Princip. of Polit. Econ., part iv. p. 409."
+  },
+  {
+    "id": "p-baf3bf",
+    "offset": 14725,
+    "text": "Princip. of Polit. Econ., part iv. p. 411."
+  },
+  {
+    "id": "p-63e97f",
+    "offset": 14769,
+    "text": "Principles of Polit. Econ., part iii., pp. 313, 317."
+  },
+  {
+    "id": "p-24dcd1",
+    "offset": 14823,
+    "text": "Principles of Polit. Econ., part iii. p. 313."
+  },
+  {
+    "id": "p-24dcd1",
+    "offset": 14870,
+    "text": "Principles of Polit. Econ., part iii. p. 313."
+  },
+  {
+    "id": "p-c72365",
+    "offset": 14917,
+    "text": "Principles of Polit. Econ., part ii. p. 69."
+  },
+  {
+    "id": "p-889677",
+    "offset": 14962,
+    "text": "Wealth of Nations, b. i. c. vi."
+  },
+  {
+    "id": "p-8a8b4f",
+    "offset": 14995,
+    "text": "It must always be recollected, that the advance of a certain number of days’ labour necessarily involves the wages paid for them, however these wages may vary in quantity. But the essential advance is the quantity of labour, not the quantity of money or corn."
+  },
+  {
+    "id": "p-04e481",
+    "offset": 15256,
+    "text": "Principles of Polit. Econ., part iii. p. 223. This is a most remarkable passage to come from Mr. Macculloch, who, though he agrees with Mr. Ricardo in words, has, in reality, deserted him, and agrees in substance with Adam Smith. According to the new meaning, which Mr. Macculloch has given to the term profits—the quantity of labour required to produce a commodity, is precisely equal to the quantity of labour for which it will ordinarily exchange, and certainly not equal to what Mr. Ricardo meant by the quantity of labour bestowed upon it."
+  },
+  {
+    "id": "p-ae9daf",
+    "offset": 15802,
+    "text": "Principles of Polit. Econ., part iii. s. 1. p. 221."
+  },
+  {
+    "id": "p-c3cd95",
+    "offset": 15855,
+    "text": "A person who uses a term in a particular sense practically defines it in that sense. Mr. Macculloch sometimes makes what have hitherto always been considered as profits mean labour; and sometimes makes labour, when used simply without any adjunct, mean fermentation, vegetation, or profits."
+  },
+  {
+    "id": "p-85201b",
+    "offset": 16147,
+    "text": "Macculloch’s Principles of Polit. Econ., part ii. p. 189."
+  },
+  {
+    "id": "p-cc0c4e",
+    "offset": 16206,
+    "text": "Id. p. 190."
+  },
+  {
+    "id": "p-ea5771",
+    "offset": 16219,
+    "text": "I own I want words to express the astonishment I feel at the proposal of such a remedy. A man, under the intoxication of what he conceives to be a new and important discovery, may be excused for occasionally making a rash statement; but that a proposal directly involving the discontinuance of the division of labour should, in a civilized country, be repeated over and over again by succeeding writers, and considered as an obvious resource in a sudden fall of profits, absolutely passes my comprehension. What a strange and most inapt illustration too, is it to talk about the possessors of broad cloths wanting to change them for silks! Who ever heard of a great producer of any commodity wishing to obtain an equivalent for it in some one other sort of completed commodity? If he is to produce what he wants, it must not be silks, but raw materials, tools, corn, meat, coats, hats, shoes and stockings, &c. &c.; and this is the obvious resource which is at hand in a glut!!!"
+  },
+  {
+    "id": "p-ba6017",
+    "offset": 17199,
+    "text": "Preface, p. 5."
+  },
+  {
+    "id": "p-f07615",
+    "offset": 17215,
+    "text": "Dissertation on Value, c. 1. p. 3."
+  },
+  {
+    "id": "p-0e7883",
+    "offset": 17251,
+    "text": "Dissertation on Value, c. 1. p. 4."
+  },
+  {
+    "id": "p-9626a4",
+    "offset": 17287,
+    "text": "Wealth of Nations, b. i. c. xi."
+  },
+  {
+    "id": "p-443de6",
+    "offset": 17320,
+    "text": "Production of Wealth, c. i. p. 49."
+  },
+  {
+    "id": "p-2a9134",
+    "offset": 17356,
+    "text": "p. 242."
+  },
+  {
+    "id": "p-388a5b",
+    "offset": 17365,
+    "text": "Dissertation on Value, c. i. p. 3."
+  },
+  {
+    "id": "p-7a5ab7",
+    "offset": 17401,
+    "text": "c. ii. p. 39."
+  },
+  {
+    "id": "p-4a70e1",
+    "offset": 17416,
+    "text": "Dissertation on Value, c. iii. p. 58."
+  },
+  {
+    "id": "p-54d37c",
+    "offset": 17455,
+    "text": "Dissertation on Value, c. xi. p. 194, 224. In the question between Colonel Torrens and Mr. Mill, “Whether the value of commodities depends upon capital as the final standard,” the author decides against Mr. Mill, but surely without reason. Mr. Mill cannot be wrong in thinking, that no progress whatever is made towards tracing the value of a commodity to its elements, by saying, that its value is determined by the value of the capital employed to produce it. The question still remains, how is the value of the capital determined? As to what the author says, p. 202, about the amount of capital, unless this amount be estimated in money, which quite alters the question, it is entirely inapplicable as a standard."
+  },
+  {
+    "id": "p-426ca4",
+    "offset": 18173,
+    "text": "c. viii. p. 160."
+  },
+  {
+    "id": "p-cd76ed",
+    "offset": 18191,
+    "text": "c. vi. p. 135."
+  },
+  {
+    "id": "p-ec5878",
+    "offset": 18207,
+    "text": "Dissertation on Value, c. ii. p. 58."
+  },
+  {
+    "id": "p-26365d",
+    "offset": 18245,
+    "text": "Id. p. 39."
+  },
+  {
+    "id": "p-2a95b1",
+    "offset": 18257,
+    "text": "p. 240."
+  },
+  {
+    "id": "p-3c1940",
+    "offset": 18266,
+    "text": "Dissertation on Value, c. ii. p. 40."
+  },
+  {
+    "id": "p-f4b87b",
+    "offset": 18304,
+    "text": "Dissertation on Value, c. vi. p. 117."
+  },
+  {
+    "id": "p-f4b87b",
+    "offset": 18343,
+    "text": "Dissertation on Value, c. vi. p. 117."
+  },
+  {
+    "id": "p-f4b87b",
+    "offset": 18382,
+    "text": "Dissertation on Value, c. vi. p. 117."
+  },
+  {
+    "id": "p-66a830",
+    "offset": 18421,
+    "text": "Dissertation on Value, c. vi. p. 113, et seq."
+  },
+  {
+    "id": "p-72b0f3",
+    "offset": 18468,
+    "text": "Dissertation on Value, c. vi. p. 110."
+  },
+  {
+    "id": "p-014cef",
+    "offset": 18507,
+    "text": "Dissertation on Value, c. vi. p. 102."
+  },
+  {
+    "id": "p-06dc77",
+    "offset": 18546,
+    "text": "Dissertation on Value, c. vi. p. 120."
+  },
+  {
+    "id": "p-a6d763",
+    "offset": 18585,
+    "text": "Dissertation on Value, c. vi. p. 122."
+  },
+  {
+    "id": "p-a4d99f",
+    "offset": 18624,
+    "text": "Dissertation on Value, c. vi. p. 121."
+  },
+  {
+    "id": "p-184be5",
+    "offset": 18663,
+    "text": "Wealth of Nations, b. i. c. xi. p. 291, 6th edit."
+  },
+  {
+    "id": "p-1c8c6e",
+    "offset": 18714,
+    "text": "Dissertation on Value, c. vii. p. 140."
+  },
+  {
+    "id": "p-2bb49c",
+    "offset": 18754,
+    "text": "Dissertation on Value, c. vi. p. 145."
+  },
+  {
+    "id": "p-218d18",
+    "offset": 18793,
+    "text": "It has always been a matter of great surprise to me that I should have been accused of arbitrarily adopting labour as the measure of value. If there be not a most marked and characteristic distinction between labour and any product of labour, I do not know where a characteristic distinction between two objects is to be found; and surely I have stated this distinction often enough, and brought forward the peculiar qualities of labour as my reasons for thinking that it may be taken as a measure of value. Opinions may differ as to the sufficiency of these reasons, or as to the degree of accuracy with which it will serve the purpose of a measure. But how it can be said that I have adopted it arbitrarily, is quite unintelligible to me. If I had merely stated, that I had adopted it because it was the main element in the natural costs of production, there could have been no ground for such a charge."
+  },
+  {
+    "id": "p-9c781d",
+    "offset": 19700,
+    "text": "Dissertation on Value, c. vii. p. 148."
+  },
+  {
+    "id": "p-8b23bb",
+    "offset": 19740,
+    "text": "Dissertation on Value, c. vii. p. 150."
+  },
+  {
+    "id": "p-f4eac6",
+    "offset": 19780,
+    "text": "On the Production of Wealth, c. i. p. 56."
+  },
+  {
+    "id": "p-a97fb7",
+    "offset": 19823,
+    "text": "I am very ready to include myself among those political economists who have not been sufficiently attentive to this subject."
+  },
+  {
+    "id": "p-800d3c",
+    "offset": 19949,
+    "text": "If in a foreign country, in which the relation of money to men and labour was unknown to us, we were told that a quarter of corn was selling for four ounces of silver, we should not know whether there was a famine, and corn was held in the highest estimation, or whether there was a glut of corn, and it was held in the lowest estimation. The very term estimation, as applied to commodities, must of necessity refer to man and labour."
+  },
+  {
+    "id": "p-7e84b4",
+    "offset": 20385,
+    "text": "It is a truth fruitful in important consequences, that the labour which commodities will command when in their natural state, by representing accurately the quantity of labour and profits necessary to produce them, must represent accurately the effectual demand for them. And this holds good at different places and times, referring of course to the labour of the same description at each place and time."
+  },
+  {
+    "id": "p-b2179a",
+    "offset": 20791,
+    "text": "What could give us any information respecting the scarcity of a commodity in China, or the state of its supply as compared with the demand, but a reference to Chinese labour?"
+  },
+  {
+    "id": "p-cdb3e5",
+    "offset": 20967,
+    "text": "Principles of Polit. Econ., c. i. s. i. p. 5. 3d edit."
+  },
+  {
+    "id": "p-dec2d4",
+    "offset": 21023,
+    "text": "M. Say’s comprehensive expression, “Services productifs,” includes profits and rents as well as labour; but it is certain that labour will measure accurately the value of the whole amount of these services."
+  },
+  {
+    "id": "p-7a899a",
+    "offset": 21231,
+    "text": "If this concession be once made, the whole question respecting labour as a measure of value is at once decided."
+  },
+  {
+    "id": "p-4f02e2",
+    "offset": 21344,
+    "text": "c. xi. p. 232."
+  },
+  {
+    "id": "p-a3be83",
+    "offset": 21360,
+    "text": "I own that I was myself for a very long time of this opinion; but I am now perfectly convinced that I was wrong, and that Adam Smith was quite right in the prevailing view which he took of value, though he did not always strictly adhere to it. I am also convinced that it would be a great improvement to the language of political economy, if, whenever the term value, or value in exchange, is mentioned without specific reference, it should always be understood to mean value in exchange for labour,—the great instrument of production, and primary object given in exchange for every thing that is wealth; in the same manner as, when the price of a commodity is mentioned without specific reference, it is always understood to mean price in money—the universal medium of exchange, and practical measure of relative value. I am further convinced that the view of value here taken throws considerable light on the nature of demand and the means of expressing and measuring it, and that just view of value is absolutely necessary to a correct explanation of rents, profits, and wages. These convictions on my mind, which have acquired increase of strength the longer I have considered the subject, must be my apology to the reader for dwelling on it longer than, in considering it cursorily, he may think it deserves."
+  },
+  {
+    "id": "p-cf1f3a",
+    "offset": 22675,
+    "text": "Wealth of Nations, b. i. c. v."
+  },
+  {
+    "id": "p-cf1f3a",
+    "offset": 22707,
+    "text": "Wealth of Nations, b. i. c. v."
+  },
+  {
+    "id": "p-a403cd",
+    "offset": 22739,
+    "text": "It is specifically on this ground that I think the meaning of the term Wealth should be confined to material objects; that productive labour should be confined to that labour alone which is directly productive of wealth; and that value, or value in exchange, when no specific object is referred to, should mean value in exchange for the means of production, of which labour, the great instrument of production, is alone the representative."
+  },
+  {
+    "id": "p-639daf",
+    "offset": 23180,
+    "text": "The reader will be aware that, in almost all definitions, the same meaning may be conveyed in different language, and that it is the meaning rather than the mode of expressing it that should be the main object of our consideration. The essential question in the definition of wealth is, whether or not it should be confined to material objects, and the reader is already apprised of my reasons for thinking that it should. Even M. Say, who admits “les produits immatériels,” allows, as I have before stated (p. 93), that the multiplication of them “ne fait rien pour la richesse;” and M. Storch, in his able “Cours d’Economie Politique,” though he justly lays great stress on what he calls les biens internes, with a view to civilization and the indirect production of wealth, confines the term richesses to biens externes, or material objects; and according to this meaning treats of the Théorie de la Richesse Nationale, in the first, and far the largest, part of his work. Altogether, I can feel no doubt that some classification of this kind, or some separation of material from immaterial objects is, in the highest degree, useful in a definition of wealth."
+  },
+  {
+    "id": "p-9c9744",
+    "offset": 24344,
+    "text": "The latter part of the definition is of minor importance. It is intended to exclude such material objects as air, light, rain, &c.—which, however necessary and useful to man, are seldom considered as wealth; and, perhaps, it is more objectionable to exclude them, by the introduction of the term exchangeable value into a definition of wealth, than in the mode which has been adopted. If the latter clause were not added, the only consequence would be, that, in comparing different countries together, such objects as air, light, &c., would be neglected as common quantities."
+  },
+  {
+    "id": "p-34fb36",
+    "offset": 24921,
+    "text": "I have already alluded to the manner in which M. Say has applied the term Utility. His language cannot be considered as consistent, when he says that the price of an article is the measure of its utility, although it might be, according to his own expression, la chose la plus inutile. It is much better for the science of political economy that the term should retain its natural and ordinary meaning. All wealth is no doubt useful, but there are so very many immaterial, and some material objects which are highly useful, and yet not wealth, that there can be no excuse for confounding them. M. Storch has not escaped the same kind of error."
+  },
+  {
+    "id": "p-b9ce2e",
+    "offset": 25566,
+    "text": "Traité d’Economic Politique, Epitome, vol. ii. p. 506, 4th edit."
+  },
+  {
+    "id": "p-a92e08",
+    "offset": 25632,
+    "text": "Two articles are never exchanged with each other without a previous estimation being formed of the value of each, by a reference to the wants of mankind and the means of production. This general and most important relation to the means of production, and the labour which represents these means, seems to be quite forgotten by those who imagine that there is no relation implied when the value of a commodity is mentioned without specific reference to some other commodity."
+  },
+  {
+    "id": "p-11fa36",
+    "offset": 26107,
+    "text": "M. Say, under the head Valeur des Choses, observes, “c’est la quantité d’autres choses évaluables qu’on peut obtenir en échange d’elle.” This is a most vague and uncertain definition, and much less satisfactory than the general power of purchasing."
+  },
+  {
+    "id": "p-319bb3",
+    "offset": 26357,
+    "text": "M. Storch says, that “la valeur des choses c’est leur utilité relative;” but this certainly cannot be said unless we completely change the natural and ordinary meaning either of utility or value."
+  },
+  {
+    "id": "p-59aeb8",
+    "offset": 26554,
+    "text": "Neither M. Say nor M. Storch has sufficiently distinguished utility, wealth, and value."
+  },
+  {
+    "id": "p-afe5a9",
+    "offset": 26643,
+    "text": "Epitome, vol. ii. p. 507."
+  },
+  {
+    "id": "p-8210c9",
+    "offset": 26670,
+    "text": "The term creation is not here meant to apply to the creation of matter, but to the creation and production of the objects which have been defined to be wealth."
+  },
+  {
+    "id": "p-44f293",
+    "offset": 26831,
+    "text": "and If wealth be confined to material objects, it must be allowed to be peculiarly convenient and useful, in explaining the causes of the wealth of nations, to have some appropriate term for that species of labour which directly produces wealth; and as the principal founder of the science of political economy has used the terms productive labour in the restricted sense necessary for this special purpose, perhaps few objections would have been made to it, if it had not involved all other kinds of labour, however useful and important, under the apparently disparaging designation of unproductive. This is a consequence, no doubt, to be regretted: yet, when it has been repeatedly stated that the term unproductive, as applied by Adam Smith, in no degree impeaches the utility and importance of such labour, but merely implies that it does not directly produce gross wealth, the mere name ought not to decide against a classification for which it appears from experience that it is very difficult to find a satisfactory substitute."
+  },
+  {
+    "id": "p-5ad6ef",
+    "offset": 27867,
+    "text": "In M. Storch’s “Considérations sur la Nature du Revenu National,” he does not appear to me to give a correct view of what Adam Smith means by productive labour. The difficulty of classification above alluded to appears strikingly in this treatise. There is some plausibility in the system, and it is explained with ingenuity and ability; but I think that the adoption of it would destroy all precision in the science of political economy."
+  },
+  {
+    "id": "p-3d6daa",
+    "offset": 28307,
+    "text": "c. iv. p. 83."
+  },
+  {
+    "id": "p-430a5b",
+    "offset": 28322,
+    "text": "and I have never been able to understand how the accumulation of capital and the difference between saving and spending can be distinctly explained, if we call all labour equally productive."
+  },
+  {
+    "id": "p-c1574d",
+    "offset": 28514,
+    "text": "It is this gross surplus of the land which furnishes the means of subsistence to the inhabitants of towns and cities. Besides the rents of land, which are powerfully effective in this respect, a large part of what, in the division of the produce of land, would fall to the shares of the farmers and labourers, is exchanged by them for other objects of convenience and gratification, thus giving the main necessaries of life to a great mass of persons not immediately connected with the soil. The proportion which this mass of persons may bear to the cultivators will depend upon the natural fertility of the soil, and the skill with which it has been improved, and continues to be worked."
+  },
+  {
+    "id": "p-bf9350",
+    "offset": 29204,
+    "text": "and In a valuable publication on the Price of Corn, and Wages of Labour, by Sir Edward West, which has just fallen into my hands, he proposes that the price of labour should mean the sum paid for a given quantity of labour of a given character. I quite agree with him in thinking that it would be useful to have some appropriate term to express this meaning; but, as the price of labour has certainly not hitherto been used in this sense, and as it would be, in almost all cases, extremely difficult to give an answer to a question respecting the price of labour so understood, it would certainly be proper to vary the expression in some degree, in order to prepare people for a new meaning. In Definition 30, therefore, I have given this meaning to The price of effective labour."
+  },
+  {
+    "id": "p-ed7a28",
+    "offset": 29986,
+    "text": "It would save time and circumlocution, which is one of the great objects of appropriate terms, if, in speaking of the labour worked up in commodities, the labour worked up in the capital necessary to their production were designated by the term accumulated labour, as contradistinguished from the immediate labour employed by the last capitalist. We must always recollect, however, that labour is not the only element worked up in capital."
+  },
+  {
+    "id": "p-382129",
+    "offset": 30427,
+    "text": "I have used the word elementary, in order to show that money-costs are not meant. On account of the doubt which may arise in this respect when the term costs of production is used alone, and the further doubt, whether ordinary profits are always included, I am decidedly of opinion that the conditions of the supply is a more expressive and less uncertain term for the same meaning. I do not find, however, that generally it is so well understood. I have defined, therefore, the costs of production with the addition of the word elementary, and including profits, as having precisely the same meaning as the conditions of the supply. I once thought it might be better not to include profits in costs of production; but as Adam Smith has included them, and more particularly as the profits worked up in the capital necessary to any production must form a part of the advances or costs in any sense in which the word costs can be used, I think it best, on the whole, to include necessary profits in the elementary costs of production. They are obviously included in the necessary conditions of the supply."
+  },
+  {
+    "id": "p-974a4e",
+    "offset": 31532,
+    "text": "and In speaking of the quantity of labour for which a commodity will exchange, as a measure either of the conditions of its supply or of its value, it must always be understood, that the different kinds of labour which may have been employed to produce it, must be reduced to labour of one description and of the lowest denomination, namely, common agricultural day-labour, estimated on an average throughout the year. This is the kind of labour which is always referred to when labour is spoken of as a measure."
+  },
+  {
+    "id": "p-3d6673",
+    "offset": 32046,
+    "text": "It is not true, as stated by M. Say, that prices rise in the direct ratio of the quantity demanded, and the inverse ratio of the quantity supplied. They only vary in this way, when the demand is understood to mean the sacrifice which the demanders are able and willing to make, in order to supply themselves with what they want; which may be represented in regard to price by the quantity of money ready to be employed in purchases in a market. When the demand for labour is spoken of, it can only relate to extent; and a greater demand can only signify a power of commanding a greater quantity of labour."
+  },
+  {
+    "id": "p-8b677d",
+    "offset": 32653,
+    "text": "Vol. ii. p. 17. 4th edition."
+  },
+  {
+    "id": "p-257593",
+    "offset": 32683,
+    "text": "The only productive consumption, properly so called, is the consumption or destruction of wealth by capitalists with a view to reproduction. This is the only marked line of distinction which can be drawn between productive and unproductive consumption. The workman whom the capitalist employs certainly consumes that part of his wages which he does not save, as revenue, with a view to subsistence and enjoyment; and not as capital, with a view to production. He is a productive consumer to the person who employs him, and to the state, but not, strictly speaking, to himself. Consumption is the great purpose and end of all production. The consumption of wealth, as revenue, with a view to support and enjoyment, is even more necessary and important than the consumption of wealth as capital; but their effects are essentially different in regard to the direct production of wealth, and they ought therefore to be distinguished."
+  },
+  {
+    "id": "p-a24e42",
+    "offset": 33614,
+    "text": "I am far from meaning to present the foregoing definitions to the notice of the reader as in any degree complete, either in regard to extent, or correctness. In extent, they have been purposely limited, and in regard to correctness, I am too well aware of the difficulty of the subject to think that I have succeeded in making my definitions embrace all I wish, and exclude all I wish. I am strongly, indeed, disposed to believe, that in the sciences of morals, politics, and political economy, which will not admit of a change in the principal terms already in use, the full attainment of this object is impossible; yet a nearer approach to it is always something gained. I should not indeed have been justified in offering these definitions to the public, if I had not thought that they were, on the whole, less objectionable, and would be more useful in explaining the causes of the wealth of nations than any which I had seen. But I am conscious of some anomalies, and probably there are some more of which I am not conscious. Knowing, however, that the attempt to remove them might destroy useful classifications, I shall not consider a few individual cases, of little importance, as valid objections."
+  },
+  {
+    "id": "p-8fa4f1",
+    "offset": 34822,
+    "text": "It is known that Adam Smith gave few regular definitions; but the meanings in which he used his terms may be collected from the context, and to these I have, in a considerable degree, adhered. For some I have been indebted to M. Say; others are my own; and in all, I have endeavoured to follow the rules for the definition and use of terms laid down at the beginning of this treatise. I shall consider my object as fully answered, if what I have done, should succeed in drawing that degree of attention to the subject which may lead to the production of something of the same kind, more correct and more useful, and so convincing as to be generally adopted."
+  }
+]

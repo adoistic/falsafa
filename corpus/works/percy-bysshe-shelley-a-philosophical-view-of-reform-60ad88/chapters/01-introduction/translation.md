@@ -4,7 +4,7 @@ work_slug: "percy-bysshe-shelley-a-philosophical-view-of-reform-60ad88"
 work_title: A Philosophical View of Reform
 author_name: Percy Bysshe Shelley
 chapter_number: 1
-chapter_title: INTRODUCTION
+chapter_title: Introduction
 chapter_slug: "01-introduction"
 variant_id: "4138e789-0601-5e9b-ad4d-7c019617e1ad"
 content_type: translation

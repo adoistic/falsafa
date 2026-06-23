@@ -4,7 +4,7 @@ work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
 work_title: An Essay on Crimes and Punishments
 author_name: Cesare Beccaria
 chapter_number: 45
-chapter_title: "CHAPTER XLIII.: OF MAGISTRATES."
+chapter_title: "Chapter XLIII.: Of Magistrates."
 chapter_slug: 45
 variant_id: "bc358ec2-70c8-5552-8dec-6ebfcc48630d"
 content_type: translation

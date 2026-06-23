@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
+  "work_title": "The Social Contract and Discourses",
+  "chapter_number": 55,
+  "chapter_title": "dedication to the REPUBLIC OF GENEVA",
+  "chapter_slug": "55-dedication-to-the-republic-of-geneva",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "807f4168-8d8c-51f0-b7e9-89da1be60c8d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4152,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
+    }
+  ]
+}

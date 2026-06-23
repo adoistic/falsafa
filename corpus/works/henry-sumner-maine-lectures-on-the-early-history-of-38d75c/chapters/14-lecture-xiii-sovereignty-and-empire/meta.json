@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-lectures-on-the-early-history-of-38d75c",
+  "work_title": "Lectures on the Early History of Institutions",
+  "chapter_number": 14,
+  "chapter_title": "Lecture XIII.: Sovereignty and Empire.",
+  "chapter_slug": "14-lecture-xiii-sovereignty-and-empire",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "04058b39-a236-5b6f-ba77-3e14b0472269",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7036,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/maine-lectures-on-the-early-history-of-institutions"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-thomas-more-and-his-utopia-bb36cd",
+  "work_title": "Thomas More and his Utopia",
+  "chapter_number": 4,
+  "chapter_title": "Chapter III. THE CHURCH",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b141b62-b29f-5cf1-84ca-ec7a1340a0ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7769,
+      "paragraph_count": 116,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1888/more/ch03.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 28
-chapter_title: "V. FEBRUARY, 1853.—An Act amendatory of Existing Laws relative to the Half-Dollar, Quarter-Dollar, Dime, and Half-Dime."
+chapter_title: "V. February, 1853.—An Act amendatory of Existing Laws relative to the Half-Dollar, Quarter-Dollar, Dime, and Half-Dime."
 chapter_slug: "28-v-february-1853-an-act-amendatory-of-existing-laws"
 variant_id: "ecff169b-c996-5c76-87d0-6892a5bdc0e9"
 content_type: translation

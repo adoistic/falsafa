@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-more-utopia-e4b41c",
+  "work_title": "Utopia",
+  "chapter_number": 14,
+  "chapter_title": "Of the Religions of the Utopians",
+  "chapter_slug": "14-of-the-religions-of-the-utopians",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1f3d764e-fb95-5e03-9b89-f7d7a76a1c1c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6715,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/more/works/utopia/ch10.html"
+    }
+  ]
+}

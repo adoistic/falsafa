@@ -4,15 +4,19 @@ slug: "james-mill-elements-of-political-economy-3e1c36"
 title: Elements of Political Economy
 author:
   name: James Mill
-  biography: James Mill (1773–1836).
+  biography: "Scottish historian, economist, and Utilitarian philosopher, associate of Bentham and Ricardo and father of John Stuart Mill. Commerce Defended rebutted the anti-trade economists and his Elements of Political Economy distilled Ricardian doctrine into a teaching text."
+  birth_year: 1773
+  death_year: 1836
+  nationality: Scottish
 era: 19th Century
 genre: Economics
 language: English
 language_direction: ltr
 description: "Elements of Political Economy, by James Mill (1773–1836), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
-total_logical_chapters: 49
-total_variant_entries: 49
+published_year: 1821
+total_logical_chapters: 48
+total_variant_entries: 48
 thothica_role: catalog
 ---
 
@@ -27,7 +31,7 @@ Elements of Political Economy, by James Mill (1773–1836), a public-domain text
 03. [Chapter I: PRODUCTION](./chapters/03/) — prose, 1 variant
 04. [Section I. Labour](./chapters/04/) — prose, 1 variant
 05. [Section II. Capital](./chapters/05/) — prose, 1 variant
-06. [Chapter II: DISTRIBUTION](./chapters/06/) — prose, 1 variant
+06. [Chapter II: Distribution](./chapters/06/) — prose, 1 variant
 07. [Section I. Rent](./chapters/07/) — prose, 1 variant
 08. [Section II. Wages](./chapters/08/) — prose, 1 variant
 09. [1. That the rate of wages depends on the proportion between Population, and Employment, in other words, Capital.](./chapters/09-1-that-the-rate-of-wages-depends-on-the-proportion/) — prose, 1 variant
@@ -35,7 +39,7 @@ Elements of Political Economy, by James Mill (1773–1836), a public-domain text
 11. [3. Proof that capital has a less tendency than Population to increase rapidly.](./chapters/11-3-proof-that-capital-has-a-less-tendency-than-popu/) — prose, 1 variant
 12. [4. That forcible means employed to make capital increase faster than its natural tendency would not produce desirable ef](./chapters/12-4-that-forcible-means-employed-to-make-capital-inc/) — prose, 1 variant
 13. [Section III. Profits](./chapters/13/) — prose, 1 variant
-14. [Section I. Nature of the Advantage Derived from the Interchange of Commodities, and the Principal Agents Employed in it.](./chapters/14/) — prose, 1 variant
+14. [Chapter III: Interchange, Section I. Nature of the Advantage Derived from the Interchange of Commodities, and the Princi](./chapters/14/) — prose, 1 variant
 15. [Section II. What Determines the Quantity in Which Commodities Exchange for One Another](./chapters/15/) — prose, 1 variant
 16. [Section III. Effect Upon Exchangeable Values of a Fluctuation in Wages and Profits.](./chapters/16/) — prose, 1 variant
 17. [Section IV. Occasions on Which it is the Interest of Nations to Exchange Commodities with One Another](./chapters/17/) — prose, 1 variant
@@ -53,21 +57,20 @@ Elements of Political Economy, by James Mill (1773–1836), a public-domain text
 29. [Section XVI. Money Transactions between Nations—Bills of Exchange](./chapters/29/) — prose, 1 variant
 30. [Section XVII. Bounties and Prohibitions](./chapters/30/) — prose, 1 variant
 31. [Section XVIII. Colonies](./chapters/31/) — prose, 1 variant
-32. [Chapter IV: CONSUMPTION](./chapters/32/) — prose, 1 variant
-33. [Section I. Of Productive and Unproductive Consumption](./chapters/33/) — prose, 1 variant
-34. [Section II. That Which Is Annually Produced Is Annually Consumed](./chapters/34/) — prose, 1 variant
-35. [Section III. That Consumption Is Co-extensive with Production](./chapters/35/) — prose, 1 variant
-36. [Section IV. In What Manner Government Consumes](./chapters/36/) — prose, 1 variant
-37. [Section V. Taxes on Rent](./chapters/37/) — prose, 1 variant
-38. [Section VI. A Tax on Profits](./chapters/38/) — prose, 1 variant
-39. [Section VII. A Tax on Wages](./chapters/39/) — prose, 1 variant
-40. [Section VIII. Direct Taxes Which Are Destined to Fall Equally Upon All Sources of Income](./chapters/40/) — prose, 1 variant
-41. [Section IX. Taxes on Commodities; either Some Particular Commodities; or All Commodities Equally](./chapters/41/) — prose, 1 variant
-42. [Section X. A Tax Upon the Produce of the Land](./chapters/42/) — prose, 1 variant
-43. [Section XI. A Tax Upon the Profits of the Farmer, and Upon Agricultural Instruments](./chapters/43/) — prose, 1 variant
-44. [Section XII. Tithes and Poor Rates](./chapters/44/) — prose, 1 variant
-45. [Section XIII. A Tax per Acre on the Land](./chapters/45/) — prose, 1 variant
-46. [Section XIV. Taxes Upon the Transfer of Property](./chapters/46/) — prose, 1 variant
-47. [Section XV. Law Taxes](./chapters/47/) — prose, 1 variant
-48. [Section XVI. Taxes on Money, and the Precious Metals](./chapters/48/) — prose, 1 variant
-49. [Section XVII. Effects of the Taxation of Commodities Upon the Value of Money, and the Employment of Capital](./chapters/49/) — prose, 1 variant
+32. [Chapter IV: Consumption, Section I. Of Productive and Unproductive Consumption](./chapters/32/) — prose, 1 variant
+33. [Section II. That Which Is Annually Produced Is Annually Consumed](./chapters/33/) — prose, 1 variant
+34. [Section III. That Consumption Is Co-extensive with Production](./chapters/34/) — prose, 1 variant
+35. [Section IV. In What Manner Government Consumes](./chapters/35/) — prose, 1 variant
+36. [Section V. Taxes on Rent](./chapters/36/) — prose, 1 variant
+37. [Section VI. A Tax on Profits](./chapters/37/) — prose, 1 variant
+38. [Section VII. A Tax on Wages](./chapters/38/) — prose, 1 variant
+39. [Section VIII. Direct Taxes Which Are Destined to Fall Equally Upon All Sources of Income](./chapters/39/) — prose, 1 variant
+40. [Section IX. Taxes on Commodities; either Some Particular Commodities; or All Commodities Equally](./chapters/40/) — prose, 1 variant
+41. [Section X. A Tax Upon the Produce of the Land](./chapters/41/) — prose, 1 variant
+42. [Section XI. A Tax Upon the Profits of the Farmer, and Upon Agricultural Instruments](./chapters/42/) — prose, 1 variant
+43. [Section XII. Tithes and Poor Rates](./chapters/43/) — prose, 1 variant
+44. [Section XIII. A Tax per Acre on the Land](./chapters/44/) — prose, 1 variant
+45. [Section XIV. Taxes Upon the Transfer of Property](./chapters/45/) — prose, 1 variant
+46. [Section XV. Law Taxes](./chapters/46/) — prose, 1 variant
+47. [Section XVI. Taxes on Money, and the Precious Metals](./chapters/47/) — prose, 1 variant
+48. [Section XVII. Effects of the Taxation of Commodities Upon the Value of Money, and the Employment of Capital](./chapters/48/) — prose, 1 variant

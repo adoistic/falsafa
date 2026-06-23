@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-a-treatise-on-metallic-and-paper-63bd3a",
+  "work_title": "A Treatise on Metallic and Paper Money and Banks",
+  "chapter_number": 14,
+  "chapter_title": "Sect. VII.—: Banks (Scotch).",
+  "chapter_slug": "14-sect-vii-banks-scotch",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "69ed4742-2f02-5f32-82a4-3862c27d3f03",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4439,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-a-treatise-on-metallic-and-paper-money-and-banks-1858"
+    }
+  ]
+}

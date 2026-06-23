@@ -4,7 +4,7 @@ work_slug: "sir-robert-filmer-patriarcha-or-the-natural-power--e60c8c"
 work_title: Patriarcha, or the Natural Power of Kings
 author_name: Sir Robert Filmer
 chapter_number: 2
-chapter_title: THE CONTENTS.
+chapter_title: The Contents.
 chapter_slug: "02-the-contents"
 variant_id: "c7aaa413-c390-5c72-9ec8-0b5f7cf7c567"
 content_type: translation

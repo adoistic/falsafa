@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 25,
+  "chapter_title": "Part 10, Chapter 1: John Galsworthy",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "55bfe52b-43de-5842-8822-46f1f76b3ce1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 335,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-10-chapter-1.html"
+    }
+  ]
+}

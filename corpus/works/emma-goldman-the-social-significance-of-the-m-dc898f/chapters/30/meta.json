@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 30,
+  "chapter_title": "Part 12, Chapter 1: Githa Sowerby, Rutherford and Son",
+  "chapter_slug": "30",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cb1eb85f-9830-5ef8-8d62-9e6178ed5427",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3598,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-12-chapter-1.html"
+    }
+  ]
+}

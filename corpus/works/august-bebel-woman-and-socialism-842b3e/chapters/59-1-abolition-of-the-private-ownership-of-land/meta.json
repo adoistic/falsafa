@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 59,
+  "chapter_title": "1. Abolition of the Private Ownership of Land.",
+  "chapter_slug": "59-1-abolition-of-the-private-ownership-of-land",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5390267f-3b89-581a-b5fc-3ae5fb46243d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 351,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch22.htm"
+    }
+  ]
+}

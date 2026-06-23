@@ -4,13 +4,17 @@ slug: "william-allan-chapple-the-fertility-of-the-unfit-7ec06d"
 title: The Fertility of the Unfit
 author:
   name: William Allan Chapple
-  biography: "William Allan Chapple (1864-1936)."
+  biography: New Zealand physician and politician who also sat in the British House of Commons, and an advocate of eugenic policy. The Fertility of the Unfit pressed the case for curbing reproduction among those it deemed degenerate, an early statement of antipodean eugenics.
+  birth_year: 1864
+  death_year: 1936
+  nationality: New Zealander
 era: 20th Century
 genre: Social Theory
 language: English
 language_direction: ltr
 description: "The Fertility of the Unfit, by William Allan Chapple (1864-1936), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1903
 total_logical_chapters: 12
 total_variant_entries: 12
 thothica_role: catalog

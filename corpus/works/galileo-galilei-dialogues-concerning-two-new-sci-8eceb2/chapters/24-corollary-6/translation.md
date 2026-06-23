@@ -1,0 +1,51 @@
+---
+work_id: "8eceb2a0-c345-5db3-9888-c97161efe653"
+work_slug: "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2"
+work_title: Dialogues Concerning Two New Sciences
+author_name: Galileo Galilei
+chapter_number: 24
+chapter_title: Corollary (6)
+chapter_slug: "24-corollary-6"
+variant_id: "19c8f71b-68cd-5818-b738-dabc0f286f6a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1443
+source_url: "https://oll.libertyfund.org/titles/galilei-dialogues-concerning-two-new-sciences"
+translator: Online Library of Liberty edition
+---
+
+Conversely it is evident that less momentum will be required to send a projectile from the terminal point d along the parabola bd than along any other parabola having an elevation greater or less than that of the parabola bd, for which the tangent at d makes an angle of 45° with the horizontal. From which it follows that if projectiles are fired from the terminal point d, all having the same speed, but each having a different elevation, the maximum range, i. e., amplitude of the semi-parabola or of the entire parabola, will be obtained when the elevation is 45°: the other shots, fired at angles greater or less will have a shorter range.
+
+The force of rigid demonstrations such as occur only in mathematics fills me with wonder and delight. From accounts given by gunners, I was already aware of the fact that in the use of cannon and mortars, the maximum range, that is the one in which the shot goes farthest, is obtained when the elevation is 45° or, as they say, at the sixth point of the quadrant; but to understand why this happens far outweighs the mere information obtained by the testimony of others or even by repeated experiment.
+
+What you say is very true. The knowledge of a single fact acquired through a discovery of its causes prepares the mind to understand and ascertain other facts without need of recourse to experiment, precisely as in the present case, where by argumentation alone the Author proves with certainty that the maximum range occurs when the elevation is 45°. He thus demonstrates what has perhaps never been observed in experience, namely, that of other shots those which exceed or fall short of 45° by equal amounts have equal ranges; so that if the balls have been fired one at an elevation of 7 points, the other at 5, they will strike the level at the same distance: the same is true if the shots are fired at 8 and at 4 points, at 9 and at 3, etc. Now let us hear the demonstration of this.
+
+The amplitudes of two parabolas described by projectiles fired with the same speed, but at angles of elevation which exceed and fall short of 45° by equal amounts, are equal to each other.
+
+In the triangle mcb let the horizontal side bc and the vertical cm, which form a right angle at c, be equal to each other; then the angle mbc will be a semi-right angle; let the line cm be prolonged to d, such a point that the two angles at b, namely mbe and mbd, one above and the other below the diagonal mb, shall be equal. It is now to be proved that in the case of two parabolas described by two projectiles fired from b with the same speed, one at the angle of ebc, the other at the angle of dbc, their amplitudes will be equal. Now since the external angle bmc is equal to the sum of the internal angles mdb and dbm we may also equate to them the angle mbc; but if we replace the angle dbm by mbe, then this same angle mbc is equal to the two mbe and bdc: and if we subtract from each side of this equation the angle mbe, we have the remainder bdc equal to the remainder ebc. Hence the two triangles dcb and bce are similar. Bisect the straight lines dc and ec in the points h and f: and draw the lines hi and fg parallel to the horizontal cb, and choose l such that dh:hi=ih:hl. Then the triangle ihl will be similar to ihd, and also to the triangle egf; and since ih and gf are equal, each being half of bc, it follows that hl is equal to fe and also to fc; and if we add to each of these the common part fh, it will be seen that ch is equal to fl.
+
+Let us now imagine a parabola described through the points h and b whose altitude is hc and sublimity hl. Its amplitude will be cb which is double the length hi since hi is a mean proportional between dh (or ch) and hl. The line db is tangent to the parabola at b, since ch is equal to hd. If again we imagine a parabola described through the points f and b, with a sublimity fl and altitude fc, of which the mean proportional is fg, or one-half of cb, then, as before, will cb be the amplitude and the line eb a tangent at b; for ef and fc are equal.
+
+But the two angles dbc and ebc, the angles of elevation, differ by equal amounts from a 45° angle. Hence follows the proposition.
+
+The amplitudes of two parabolas are equal when their altitudes and sublimities are inversely proportional.
+
+Let the altitude gf of the parabola fh bear to the altitude cb of the parabola bd the same ratio which the sublimity ba bears to the sublimity fe; then I say the amplitude hg is equal to the amplitude dc. For since the first of these quantities, gf, bears to the second cb the same ratio which the third, ba, bears to the fourth fe, it follows that the area of the rectangle gf.fe is equal to that of the rectangle cb.ba; therefore squares which are equal to these rectangles are equal to each other. But [by Proposition VI] the square of half of gh is equal to the rectangle gf.fe; and the square of half of cd is equal to the rectangle cb.ba. Therefore these squares and their sides and the doubles of their sides are equal. But these last are the amplitudes gh and cd. Hence follows the proposition.
+
+If a straight line be cut at any point whatever and mean proportionals between this line and each of its parts be taken, the sum of the squares of these mean proportionals is equal to the square of the entire line.
+
+Let the line ab be cut at c. Then I say that the square of the mean proportional between ab and ac plus the square of the mean proportional between ab and cb is equal to the square of the whole line ab. This is evident as soon as we describe a semicircle upon the entire line ab, erect a perpendicular cd at c, and draw da and db. For da is a mean proportional between ab and ac while db is a mean proportional between ab and bc: and since the angle adb, inscribed in a semicircle, is a right angle the sum of the squares of the lines da and db is equal to the square of the entire line ab. Hence follows the proposition.
+
+The momentum [impetus seu momentum] acquired by a particle at the terminal point of any semi-parabola is equal to that which it would acquire in falling through a vertical distance equal to the sum of the sublimity and the altitude of the semi-parabola.
+
+Let ab be a semi-parabola having a sublimity da and an altitude ac, the sum of which is the perpendicular dc. Now I say the momentum of the particle at b is the same as that which it would acquire in falling freely from d to c. Let us take the length of dc itself as a measure of time and momentum, and lay off cf equal to the mean proportional between cd and da; also lay off ce a mean proportional between cd and ca. Now cf is the measure of the time and of the momentum acquired by fall, from rest at d, through the distance da; while ce is the time and momentum of fall, from rest at a, through the distance ca; also the diagonal ef will represent a momentum which is the resultant of these two, and is therefore the momentum at the terminal point of the parabola, b.
+
+And since dc has been cut at some point a and since cf and ce are mean proportionals between the whole of cd and its parts, da and ac, it follows, from the preceding lemma, that the sum of the squares of these mean proportionals is equal to the square of the whole: but the square of ef is also equal to the sum of these same squares; whence it follows that the line ef is equal to dc.
+
+Accordingly the momentum acquired at c by a particle in falling from d is the same as that acquired at b by a particle traversing the parabola ab.
+
+q. e. d.

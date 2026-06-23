@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 63,
+  "chapter_title": "87. Money employed in cultivation, manufactures, or commerce, ought to produce more than the interest of money on loan.",
+  "chapter_slug": "63-87-money-employed-in-cultivation-manufactures-or-c",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b88bc241-070d-51e4-adcb-93fe3262ed7f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 326,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

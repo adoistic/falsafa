@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 35,
-  "chapter_title": "SECTION VII.: Of a Peculiarity that should be attended to, in estimating the Sums mentioned in History.",
+  "chapter_title": "Section IX.: Of Money as it ought to be.",
   "chapter_slug": "35",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2121,
-      "paragraph_count": 18,
+      "word_count": 2287,
+      "paragraph_count": 22,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

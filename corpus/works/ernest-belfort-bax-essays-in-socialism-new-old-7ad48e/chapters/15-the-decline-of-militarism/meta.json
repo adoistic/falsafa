@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
+  "work_title": "Essays in Socialism: New & Old",
+  "chapter_number": 15,
+  "chapter_title": "The Decline of Militarism",
+  "chapter_slug": "15-the-decline-of-militarism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe146f91-84eb-50e4-9d5b-ed6011172d4e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2790,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1897/05/militarism.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-system-of-economical-contradicti-358ea4",
+  "work_title": "System of Economical Contradictions: or, The Philosophy of Poverty",
+  "chapter_number": 15,
+  "chapter_title": "Chapter VI. Fourth Period. — Monopoly",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b30a6671-ec3f-5933-9c06-7056b017f22a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 366,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/philosophy/ch06.htm"
+    }
+  ]
+}

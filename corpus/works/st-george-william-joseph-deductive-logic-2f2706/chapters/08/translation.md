@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 8
-chapter_title: Chapter XVI
+chapter_title: Chapter XV
 chapter_slug: 08
 variant_id: "4dab5849-3b30-5ef8-9223-82777d021a6e"
 content_type: translation
@@ -13,53 +13,143 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 397
+word_count: 1296
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-*Of the Special Uses of the Four Figures.*
+*Of the Special Canons of the Four Figures.*
 
-§ 648. The first figure is useful for proving the properties of a thing.
+§ 633. So far we have given only a negative test of legitimacy, having shown what moods are not invalidated by running counter to any of the special rules of the four figures. We will now lay down special canons for the four figures, conformity to which will serve as a positive test of the validity of a given mood in a given figure. The special canon of the first figure--will of course be practically equivalent to the Dictum de Omni et Nullo. All of them will be expressed in terms of extension, for the sake of perspicuity.
 
-§ 649. The second figure is useful for proving distinctions between things.
-
-§ 650. The third figure is useful for proving instances or exceptions.
-
-§ 651. The fourth figure is useful for proving the species of a genus.
+*Special Canons of the Four Figures.*
 
 FIGURE 1.
 
-B is or is not A. C is B. .'. C is or is not A.
+§ 634. CANON. If one term wholly includes or excludes another, which wholly or partly includes a third, the first term wholly or partly includes or excludes the third.
 
-We prove that C has or has not the property A by predicating of it B, which we know to possess or not to possess that property.
+Here four cases arise--
 
-Luminous objects are material. Comets are luminous. .'. Comets are material.
+(1) Total inclusion (Barbara).
 
-No moths are butterflies. The Death's head is a moth. .'. The Death's head is not a butterfly.
+(2) Partial inclusion (Darii).
+
+All B is A. Some C is B. .'. Some C is A.
+
+(3) Total exclusion (Celarent).
+
+(4) Partial exclusion (Ferio).
+
+No B is A. Some C is B. .'. Some C is not A.
 
 FIGURE II.
 
-We establish the distinction between C and A by showing that A has an attribute which C is devoid of, or is devoid of an attribute which C has.
+§ 635. CANON. If one term is excluded from another, which wholly or partly includes a third, or is included in another from which a third is wholly or partly excluded, the first is excluded from the whole or part of the third.
 
-All fishes are cold-blooded. A whale is not cold-blooded. .'. A whale is not a fish.
+Here we have four cases, all of exclusion--
 
-No fishes give milk. A whale gives milk. .'. A whale is not a fish.
+(1) Total exclusion on the ground of inclusion in an excluded term (Cesare).
+
+(2) Partial exclusion on the ground of a similar partial inclusion (Festino).
+
+No A is B. Some C is B. .'. Some C is not A.
+
+(3) Total exclusion on the ground of exclusion from an including term (Camestres).
+
+(4) Partial exclusion on the ground of a similar partial exclusion (Baroko).
+
+All A is B. Some C is not B. .'. Some C is not A.
 
 FIGURE III.
 
-We produce instances of C being A by showing that C and A meet, at all events partially, in B. Thus if we wish to produce an instance of the compatibility of great learning with original powers of thought, we might say
+§ 636. CANON. If two terms include another term in common, or if the first includes the whole and the second a part of the same term, or vice versâ, the first of these two terms partly includes the second; and if the first is excluded from the whole of a term which is wholly or in part included in the second, or is excluded from part of a term which is wholly included in the second, the first is excluded from part of the second.
 
-Sir William Hamilton was an original thinker. Sir William Hamilton was a man of great learning. .'. Some men of great learning are original thinkers.
+Here it is evident from the statement that six cases arise--
 
-Or we might urge an exception to the supposed rule about Scotchmen being deficient in humour under the same figure, thus--
+(1) Total inclusion of the same term in two others (Darapti).
 
-Sir Walter Scott was not deficient in humour. Sir Walter Scott was a Scotchman. .'. Some Scotchmen are not deficient in humour.
+All B is A. All B is C. .'. some C is A.
+
+(2) Total inclusion in the first and partial inclusion in the second (Datisi).
+
+All B is A. Some B is C. .'. some C is A.
+
+(3) Partial inclusion in the first and total inclusion in the second (Disamis).
+
+Some B is A. All B is C. .'. some C is A.
+
+(4) Total exclusion of the first from a term which is wholly included in the second (Felapton).
+
+No B is A. All B is C. .'. some C is not A.
+
+(5) Total exclusion of the first from a term which is partly included in the second (Ferison).
+
+No B is A. Some B is C. .'. some C is not A.
+
+(6) Exclusion of the first from part of a term which is wholly included in the second (Bokardo).
+
+Some B is not A. All B is C. .'. Some C is not A.
 
 FIGURE IV.
 
-All A is B, No A is B. All B is C. All B is C. .'. Some C is A .'.Some C is not A.
+§ 637. CANON. If one term is wholly or partly included in another which is wholly included in or excluded from a third, the third term wholly or partly includes the first, or, in the case of total inclusion, is wholly excluded from it; and if a term is excluded from another which is wholly or partly included in a third, the third is partly excluded from the first.
 
-We show here that A is or is not a species of C by showing that A falls, or does not fall, under the class B, which itself falls under C. Thus--
+Here we have five cases--
 
-All whales are mammals. All mammals are warm-blooded. .'. Some warm-blooded animals are whales. No whales are fishes. All fishes are cold-blooded. .'. Some cold-blooded animals are not whales.
+(1) Of the inclusion of a whole term (Bramsntip).
+
+(2) Of the inclusion of part of a term (DIMARIS).
+
+Some A is B. All B is C. .'. Some C is (some) A,
+
+(3) Of the exclusion of a whole term (Camenes).
+
+(4) Partial exclusion on the ground of including the whole of an excluded term (Fesapo).
+
+No A is B. All B is C. .'. Some C is not A.
+
+(5) Partial exclusion on the ground of including part of an excluded term (Fresison).
+
+No A is B. Some B is C. .'. Some C is not A.
+
+§ 638. It is evident from the diagrams that in the subaltern moods the conclusion is not drawn directly from the premisses, but is an immediate inference from the natural conclusion. Take for instance AAI in the first figure. The natural conclusion from these premisses is that the minor term C is wholly contained in the major term A. But instead of drawing this conclusion we go on to infer that something which is contained in C, namely some C, is contained in A.
+
+Similarly in EAO in figure 1, instead of arguing that the whole of C is excluded from A, we draw a conclusion which really involves a further inference, namely that part of C is excluded from A.
+
+§ 639. The reason why the canons have been expressed in so cumbrous a form is to render the validity of all the moods in each figure at once apparent from the statement. For purposes of general convenience they admit of a much more compendious mode of expression.
+
+§ 640. The canon of the first figure is known as the Dictum de Omni et Nullo--
+
+What is true (distributively) of a whole term is true of all that it includes.
+
+§ 641. The canon of the second figure is known as the Dictum de Diverse--
+
+If one term is contained in, and another excluded from a third term, they are mutually excluded.
+
+§ 642. The canon of the third figure is known as the Dictum de Exemplo et de Excepto--
+
+Two terms which contain a common part partly agree, or, if one contains a part which the other does not, they partly differ.
+
+§ 643. The canon of the fourth figure has had no name assigned to it, and does not seem to admit of any simple expression. Another mode of formulating it is as follows:--
+
+Whatever is affirmed of a whole term may have partially affirmed of it whatever is included in that term (Bramantip, Dimaris), and partially denied of it whatever is excluded (Fesapo); whatever is affirmed of part of a term may have partially denied of it whatever is wholly excluded from that term (Fresison); and whatever is denied of a whole term may have wholly denied of it whatever is wholly included in that term (Camenes).
+
+§ 644. From the point of view of intension the canons of the first three figures may be expressed as follows.
+
+§ 645. Canon of the first figure. Dictum de Omni et Nullo--
+
+An attribute of an attribute of anything is an attribute of the thing itself.
+
+§ 646. Canon of the second figure. Dictum de Diverso--
+
+If a subject has an attribute which a class has not, or vice versa, the subject does not belong to the class.
+
+§ 647. Canon of the third figure.
+
+1. Dictum de Exemplo--
+
+If a certain attribute can be affirmed of any portion of the members of a class, it is not incompatible with the distinctive attributes of that class.
+
+2. Dictum de Excepto--
+
+If a certain attribute can be denied of any portion of the members of a class, it is not inseparable from the distinctive attributes of that class.

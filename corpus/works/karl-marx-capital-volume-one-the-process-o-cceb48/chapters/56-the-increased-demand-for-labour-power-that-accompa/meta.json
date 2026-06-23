@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 56,
+  "chapter_title": "The Increased Demand for labour power that Accompanies Accumulation, the Composition of Capital Remaining the Same",
+  "chapter_slug": "56-the-increased-demand-for-labour-power-that-accompa",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5834ea8a-9caa-56ae-9ad1-3a6f2a439a84",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2843,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch25.htm"
+    }
+  ]
+}

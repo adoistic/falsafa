@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 732
+word_count: 728
 source_url: "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
 translator: Online Library of Liberty edition
 ---
@@ -24,7 +24,7 @@ translator: Online Library of Liberty edition
 
 3d. That they diligently examine such propositions as are self-evident, which they will find within themselves, as the following: That the same thing cannot at once be and not be; that nothing cannot be the efficient cause of anything, and the like; and thus exercise that clearness of understanding that has been given them by nature, but which the perceptions of the senses are wont greatly to disturb and obscure — exercise it, I say, pure and delivered from the objects of sense; for in this way the truth of the following axioms will appear very evident to them.
 
-4th. That they examine the ideas of those natures which contain in them an assemblage of several attributes, such as the nature of the triangle, that of the square, or some other figure; as also the nature of mind, the nature of body, and above all that of God, or of a being supremely perfect. And I request them to observe that it may with truth be affirmed that all these things are in objects, which we clearly conceive to be contained in them: for example, because that, in the nature of the rectilineal triangle, this property is found contained — viz., that its three angles are equal to two right angles, and that in the nature of body or of an Edition: current; Page: [366] extended thing, divisibility is comprised (for we do not conceive any extended thing so small that we cannot divide it, at least in thought)—it is true that the three angles of a rectilineal triangle are equal to two right angles, and that all body is divisible.
+4th. That they examine the ideas of those natures which contain in them an assemblage of several attributes, such as the nature of the triangle, that of the square, or some other figure; as also the nature of mind, the nature of body, and above all that of God, or of a being supremely perfect. And I request them to observe that it may with truth be affirmed that all these things are in objects, which we clearly conceive to be contained in them: for example, because that, in the nature of the rectilineal triangle, this property is found contained — viz., that its three angles are equal to two right angles, and that in the nature of body or of an extended thing, divisibility is comprised (for we do not conceive any extended thing so small that we cannot divide it, at least in thought)—it is true that the three angles of a rectilineal triangle are equal to two right angles, and that all body is divisible.
 
 5th. That they dwell much and long on the contemplation of the supremely perfect Being, and, among other things, consider that in the ideas of all other natures, possible existence is indeed contained, but that in the idea of God is contained not only possible but absolutely necessary existence. For, from this alone, and without any reasoning, they will discover that God exists: and it will be no less evident in itself than that two is an equal and three an unequal number, with other truths of this sort. For there are certain truths that are thus manifest to some without proof, which are not comprehended by others without a process of reasoning.
 

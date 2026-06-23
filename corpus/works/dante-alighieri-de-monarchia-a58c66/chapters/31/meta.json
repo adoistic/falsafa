@@ -2,7 +2,7 @@
   "work_slug": "dante-alighieri-de-monarchia-a58c66",
   "work_title": "De Monarchia",
   "chapter_number": 31,
-  "chapter_title": "CHAPTER XII: Christ in being born proved that the authority of the Roman Empire was just.",
+  "chapter_title": "Chapter XII: Christ in being born proved that the authority of the Roman Empire was just.",
   "chapter_slug": "31",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 559,
+      "word_count": 543,
       "paragraph_count": 7,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"

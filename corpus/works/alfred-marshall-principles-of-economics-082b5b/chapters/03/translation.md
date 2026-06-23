@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 3
-chapter_title: "BOOK I, CHAPTER III: ECONOMIC GENERALIZATIONS OR LAWS."
+chapter_title: "Book I, Chapter III: Economic Generalizations or Laws."
 chapter_slug: 03
 variant_id: "eb05b392-90bf-59b2-8aaf-66165f15bb3a"
 content_type: translation

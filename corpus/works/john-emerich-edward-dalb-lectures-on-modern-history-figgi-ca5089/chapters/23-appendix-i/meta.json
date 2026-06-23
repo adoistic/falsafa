@@ -2,7 +2,7 @@
   "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
   "work_title": "Lectures on Modern History (Figgis ed.)",
   "chapter_number": 23,
-  "chapter_title": "APPENDIX I",
+  "chapter_title": "Appendix I",
   "chapter_slug": "23-appendix-i",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1024,
+      "word_count": 1016,
       "paragraph_count": 27,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-road-to-power-67108f",
+  "work_title": "The Road to Power",
+  "chapter_number": 7,
+  "chapter_title": "VII. The Softening of Class Antagonisms",
+  "chapter_slug": "07-vii-the-softening-of-class-antagonisms",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "306f1467-0c30-585b-8655-8d64f6cb87f6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3134,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1909/power/ch07.htm"
+    }
+  ]
+}

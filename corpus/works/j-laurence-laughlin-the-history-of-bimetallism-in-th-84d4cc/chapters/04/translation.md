@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 4
-chapter_title: "Part I, Chapter I: The Arguments of Bimetallists and Monometallists"
+chapter_title: "Part I: The United States, 1792-1873, Part I, Chapter I: The Arguments of Bimetallists and Monometallists"
 chapter_slug: 04
 variant_id: "7c93c2f2-7bfc-53dd-a54b-222c57f13c88"
 content_type: translation

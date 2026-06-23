@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-cromwell-and-communism-socialism-6028c4",
+  "work_title": "Cromwell and Communism: Socialism and Democracy in the Great English Revolution",
+  "chapter_number": 22,
+  "chapter_title": "2. Bellers’ Essays and Other Writings",
+  "chapter_slug": "22-2-bellers-essays-and-other-writings",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da93c582-51df-59f4-92f5-37a6263d3abf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4077,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1895/cromwell/17-bellers.htm"
+    }
+  ]
+}

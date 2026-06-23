@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-accumulation-of-capital-1f9ce9",
+  "work_title": "The Accumulation of Capital",
+  "chapter_number": 17,
+  "chapter_title": "Chapter 16: Rodbertus’ Criticism of the Classical School",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ff071844-7670-5614-a801-bbb86606b3ef",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4560,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch16.htm"
+    }
+  ]
+}

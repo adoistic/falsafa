@@ -4,7 +4,7 @@ work_slug: "john-a-hobson-imperialism-a-study-71797f"
 work_title: "Imperialism: A Study"
 author_name: John A. Hobson
 chapter_number: 39
-chapter_title: "APPENDIX THE LABOUR POLICY OF TRANSVAAL MINE-OWNERS"
+chapter_title: "Appendix the Labour Policy of Transvaal Mine-owners"
 chapter_slug: "39-appendix-the-labour-policy-of-transvaal-mine-owner"
 variant_id: "8dcc665d-2bc4-5e7e-942b-c49d233758c7"
 content_type: translation

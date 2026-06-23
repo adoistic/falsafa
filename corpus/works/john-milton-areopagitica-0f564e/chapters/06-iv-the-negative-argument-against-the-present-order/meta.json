@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-milton-areopagitica-0f564e",
+  "work_title": "Areopagitica",
+  "chapter_number": 6,
+  "chapter_title": "IV. The Negative Argument against the Present Order",
+  "chapter_slug": "06-iv-the-negative-argument-against-the-present-order",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1c102619-482e-5069-90bf-baf564569299",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 337,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jebb-areopagitica-1644-jebb-ed"
+    }
+  ]
+}

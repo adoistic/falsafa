@@ -1,252 +1,142 @@
 [
   {
-    "id": "p-2ff25a",
+    "id": "p-f19c3d",
     "offset": 0,
-    "text": "When we consider labour as a measure of value in the sense in which it is most frequently applied by Adam Smith, that is, when the value of an object is estimated by the quantity of labour of a given description which it can command, it will appear to be a measure essentially distinct from all others, and to approach as near to a standard measure, both of relative Edition: current; Page: [94] and of intrinsic value in exchange, as the nature of the subject will admit."
+    "text": "The practical application of the measure of value proposed, will not in general be difficult. In this respect it has a prodigious superiority over the general power of purchasing, a measure which it is impossible practically to apply with any approach towards precision. But when we confine our view to the power of purchasing arising from intrinsic causes, we are able to measure the variations in this power, by the varying quantity of a specific object for which it will exchange; and the practical application of this object is rendered easy, by referring to the money prices of commodities and labour."
   },
   {
-    "id": "p-503d75",
-    "offset": 474,
-    "text": "It is universally allowed that in the same place, and within moderately short periods of time, the precious metals are an unexceptionable measure of the relative values of commodities; but whatever is true of the precious metals with respect to the relative and nominal values of commodities is true of labour applied in the way proposed."
+    "id": "p-12cbf6",
+    "offset": 608,
+    "text": "Thus, if the relations of two or three commodities in exchange, such as cloth, silver, and corn, for instance, have altered in this country, since the time of Henry VII., and we wish to know, in which, and to what extent in each, a change of value has taken place, we must begin by inquiring what were the money prices of cloth, wheat, and of common labour in the time of Henry VII. compared with what they are now."
   },
   {
-    "id": "p-882708",
-    "offset": 814,
-    "text": "It is obvious, for instance, that in the same place, and at the same time, the different quantities of day labour which different commodities can command, will be exactly in proportion to their relative values in exchange; and if any two of them will purchase the same quantity of labour of the same description, they will invariably exchange with each other."
+    "id": "p-a09788",
+    "offset": 1025,
+    "text": "It appears from a statute passed in the fourth of Henry VII. that the ordinary price of a broad yard of the finest scarlet grained, or other grained cloth of the finest make, was 16 shillings, and 16 shillings at that time contained the same quantity of silver as 24 of our shillings, before the late new coinage. At present there is reason to believe that cloth of the same, or probably of superior quality, could be obtained for 20 shillings. But the proportion between 24 and 20 would express merely the relation between cloth and silver at these different periods, and would give us no sort of information as to the relative difficulty with which each of these objects was obtained, or the degree in which one or both had altered in value. For this purpose we must refer to the money prices of standard labour. The money price of common agricultural labour in the time of Henry VII. was 4 pence a day, containing as much silver as 6 pence of our present money. If we take the present money wages of common labour at 10 shillings a week, or 20 pence a day, and compare the price of cloth with this price of labour, it will appear that a yard of fine cloth in the time of Henry VII. would command 48 days labour, and a yard of fine cloth at the present time 12 days labour; from which we may safely infer, that supposing these prices to have been what Adam Smith calls natural prices, the difficulty of obtaining cloth of the same quality, or the ordinary supply of cloth compared with the demand, had increased four times."
   },
   {
-    "id": "p-586452",
-    "offset": 1175,
-    "text": "The merchant might safely regulate his dealings, and estimate his commercial profits by the excess of the quantity of labour which his imports would command, compared with his exports. Whether the value of the commodity had arisen principally from the limitation of its supply, occasioned by a strict or partial monopoly; whether it had arisen principally from the scarcity of the raw material, the peculiar sort of labour required in its construction, or from unusually high profits; whether its value had been increased by an increased cost of production, or diminished by the application of improved machinery; whether its value at the moment depended chiefly upon permanent or temporary causes—in all cases and under all circumstances, the quantity of labour which it will command, or what comes to the same thing, the quantity of labour’s worth which people will give to obtain it, will be a very exact measure of its relative value in exchange. In short, this measure will, in the same place and at the same time, exactly accord with the money prices of commodities."
+    "id": "p-7b5cb9",
+    "offset": 2552,
+    "text": "Comparing in the same manner silver with labour, it appears that as in the time of Henry VII. 6 pence would command the same quantity of labour of the same character, as 20 pence at the present time, silver will appear to have fallen in value 3⅓ times. And further, if we compare corn and labour at these two periods, it will appear that wheat instead of falling in value like cloth and money, had risen very considerably. In the time of Henry VII. the price of labour as before stated was 4 pence a day, and the average price of the quarter of wheat was 6s. 3¼d. from which it appears that a quarter of wheat would only purchase 18⅘ days labour, whereas taking labour at 20 pence a day, and the present price of wheat at 60 shillings a quarter, the quarter will command 36 days labour. The labourer in the time of Henry VII. could purchase a peck and 7/10 of a peck by a day’s labour; at present he can only purchase 8/9 of a peck; and altogether the value of wheat has risen in the proportion of 10 to above 19, or has nearly doubled."
   },
   {
-    "id": "p-7eccc7",
-    "offset": 2249,
-    "text": "It will probably be objected, that in the same place, and at the same time, every commodity may be considered as an accurate measure of the relative values Edition: current; Page: [95] of others, and that what has just been said of labour may be said of cloth, cotton, iron, hops, or any other article. Any two commodities, which at the same time and in the same place will purchase or command the same quantity of cloth, cotton, iron, or hops of a given quality, will have the same value, or will exchange even with each other. This is no doubt true, if we take the same time precisely, and if we wish merely to know the relation of one commodity to some other or others in exchange; but the comparison utterly fails if we take different periods, and more especially if we refer to the main characteristic of the value of a commodity, namely, the difficulty of obtaining it, or the limitation of its supply compared with the demand."
+    "id": "p-54ed2d",
+    "offset": 3590,
+    "text": "We must of course proceed in the same manner in estimating the values, and the changes in the values of commodities in different countries."
   },
   {
-    "id": "p-389144",
-    "offset": 3184,
-    "text": "One of the most important reasons why practically money makes a much better measure of value than any other commodity is, that its relation to common labour not only changes more slowly than cloth, cotton, iron, hops, &c. but that having been adopted as the almost universal medium of exchange, its relation to labour in any particular place must always be known to the inhabitants of that place; and while such relation is known and remains constant, the money prices of commodities will not only express their relations to each other, but also the difficulty of obtaining them, the conditions of their continued supply, if they are in an ordinary state, and the supply compared with the demand in whatever state they may be, which will include of course their power of purchasing arising from all the intrinsic causes of value which may have operated upon them."
+    "id": "p-479aec",
+    "offset": 3731,
+    "text": "It is proper, however, to mention, that in taking the average money price of labour in different countries, and at different times, a caution is necessary similar to that which is given by Adam Smith, in speaking of the general equality of wages. He very justly observes, that they must be in their natural and ordinary state, and the sole or principal support of the labourer; and particularly remarks, that the labour of cotters will often be cheaper in appearance than it is in reality. In the cotter system, the labourers receive a certain portion of land from a landlord or farmer, which is paid for in labour, at a very low additional remuneration when that labour is called for. During the greater part of the year, however, their labour is not wanted, and the cultivation of their own little portion of land not being sufficient to occupy the time which is left at their own disposal, they are generally willing to offer their labour for a very small recompense to any body who will employ them. But it is evident that the daily or weekly recompense which such labourers receive in money, either from their proper masters or others, is not the whole price of their labour, though, as Adam Smith observes, it has been considered as the whole of it by many writers; and in consequence the wages of labour have been in these cases represented as much below the truth. This was the state of things not long since in Scotland; and it still prevails very generally in Ireland."
   },
   {
-    "id": "p-8bb4d0",
-    "offset": 4049,
-    "text": "Consequently money, under these circumstances, that is, while its relation to labour is known and remains constant, is a measure both of relative and intrinsic value in exchange."
+    "id": "p-70d19f",
+    "offset": 5211,
+    "text": "A similar observation applies in those cases where the wages of labour are paid in part out of the Parish rates. The money which the labourer receives from his employer is not the whole of what goes to the maintenance of himself and his family. It would not fulfil the necessary conditions of the supply of such labour, and cannot therefore be considered as its natural remuneration in the district in which it is employed."
   },
   {
-    "id": "p-0f14a0",
-    "offset": 4229,
-    "text": "But if the only cause which prevents money from being such a measure is, that its relation to labour is not constant, it would appear, that as the labour which a commodity will command is necessarily a measure Edition: current; Page: [96] of relative value like money, the substitution of labour so applied instead of money will give the measure we want."
+    "id": "p-bbd301",
+    "offset": 5636,
+    "text": "A further caution to be noticed is, that in estimating the price of agricultural labour in any district, it must be the labour which is actually and with average constancy employed and paid, and not that the price of labour which in a temporary deficiency or excess in the demand for labour, may fall so low, or rise so high, that it cannot be maintained. It must not in short be the average yearly wages of those who are only half employed, or the daily wages of a time of harvest."
   },
   {
-    "id": "p-00f417",
-    "offset": 4585,
-    "text": "It remains, therefore, to be considered more particularly how far the labour which a commodity will command appears to be an adequate measure of value in exchange at different periods and in different countries, according to the most usual and correct sense in which the term is practically applied; and it will be recollected that I have endeavoured to show, and I trust with success, that this sense is not the general power of purchasing possessed by a particular commodity, but its power of purchasing arising from intrinsic causes, which includes all the causes, of whatever kind they may be, which have contributed to the limitation of its supply compared with the demand."
+    "id": "p-e887ae",
+    "offset": 6120,
+    "text": "When these circumstances, however, have been properly attended to, and the wages we take as the ordinary wages of any particular country or district are the whole of the natural and necessary conditions of the supply of labour, we may fairly presume, that whether the quantity of money, or of necessaries paid to the labourer be great or small, the value of this quantity will be the same."
   },
   {
-    "id": "p-4988cc",
-    "offset": 5265,
-    "text": "Keeping in mind, therefore, the meaning attached to the term value of a commodity at a particular time and place, let us compare the values of two commodities, one of which was produced in the time of Edward III. and the other in the time of William IV."
+    "id": "p-6bf0a3",
+    "offset": 6511,
+    "text": "In general where the facility of production is great, the labourer will obtain a large quantity of them, as in new colonies favourably circumstanced, and in the United States of America. On the other hand, where from the demand of a greatly increased population, cultivation is pushed upon poor land, and production is difficult, the labourer, though he may obtain a larger proportion of what he produces, will receive a smaller quantity of produce. But it is obvious that the smaller quantity in the latter case is obtained with just as much difficulty as the greater quantity in the former case."
   },
   {
-    "id": "p-fe8a12",
-    "offset": 5520,
-    "text": "And first let us suppose, for the sake of clearness, that the common agricultural labour of each period, which may be taken as the standard, is exactly of the same degree of strength, and is employed for the same number of hours, and further, that there are some commodities which, both at these periods and during the whole of the interval between them, are produced by this kind of labour alone, and brought to market immediately."
+    "id": "p-621c68",
+    "offset": 7110,
+    "text": "There are, however, instances where it may at first sight appear that what the labourer receives as wages is produced with facility, and yet the quantity he receives is very small; but it must always be recollected, that the labour actually employed in the production of wages, is never the sole element of their value. Profits are universally another element, and in some cases, taxes and unnatural rents may raise the value of produce in an unusual proportion beyond the labour employed in its production. In those countries where the sovereign is the proprietor of the soil, if he requires an exorbitant proportion of the produce from all the land that is cultivated, he may leave the poor cultivator only what is just sufficient to support him, although the last land taken into cultivation may be fertile. In this case many of the effects of natural exhaustion and barrenness are produced artificially. Much good land is left uncultivated, and the population presses hard against the limits of that quantity of necessaries which can alone be obtained by the labourer. To earn a very scanty support, he must make a great sacrifice; and a small quantity of produce thus becomes of great value, owing to the limitation of the supply compared with the demand, notwithstanding the real facility of production. Some parts of India have unquestionably at times exemplified this state of things; and such instances form no exception to the general rule, that the value of the wages given to the labourer in any country can only be measured by the quantity of the ordinary labour of that country which he gives in exchange for them."
   },
   {
-    "id": "p-5dc7d3",
-    "offset": 5954,
-    "text": "Perhaps these suppositions have not been very far from the truth in this country since the time of Edward III. I should suppose that the physical strength of the men of that period was nearly the same as at present, and that an ordinary day’s work of agricultural labour was nearly of the same length; and it is generally allowed that at all times there are a few commodities produced by labour alone."
+    "id": "p-84cff0",
+    "offset": 8740,
+    "text": "But the Indian labourer receives a smaller quantity of money as well as of necessaries for his day’s work; and this is because money also is very difficult of attainment in India, the manufactures sent abroad to purchase it, having cost a great mass of labour, profits, and rent."
   },
   {
-    "id": "p-3d8241",
-    "offset": 6357,
-    "text": "It is obvious that commodities so produced would, at any particular period, exchange with one another, Edition: current; Page: [97] on an average according to the quantity of labour employed to obtain them; and in comparing the values of commodities so produced at one period with the commodities so produced at the other period, it seems scarcely possible not to allow that those commodities which had been produced at each period with exactly the same quantity of labour of the same description, and brought to market immediately, would be supplied ordinarily in the same proportion to the demand at each period, and be considered as of the same value."
+    "id": "p-709db7",
+    "offset": 9021,
+    "text": "It follows that in measuring the value of money at any time and place, and the rise or fall of this value at different times and in different places, we have only to refer, with the cautions above mentioned, to the money price of common agricultural labour. In every country, this sort of labour, as I have said, may be considered as the standard into which every other kind of labour is resolvable, and no difficulty will arise from the acknowledged fact that a great part of the labour of every country is of a higher value than the standard. If the labour of a common journeyman watchmaker be paid at the rate of ten shillings a day, and that of a common agricultural labourer at twenty-pence, the only effect will be that each day’s labour employed on the watch, will communicate to that watch a value in exchange arising from intrinsic causes equivalent to that of six days of the standard labour; and the power of the standard labour to measure the difficulty of obtaining the watch will in no degree be impaired. This observation applies to all commodities by whatever kind of labour they are produced. In short, if we are entitled to assume, as I think we are, from what has been said in the preceding sections, that in the natural and ordinary state of things, a given quantity of standard labour applied to the production of any commodity, communicates to it a given value in exchange arising from intrinsic causes; and if by value in exchange, when nothing else is added to the term, we mean value in exchange arising from intrinsic causes, it follows, that, contrary to the usual impressions on the subject, there must be a measure of the values, of commodities however composed, and that measure can only be labour."
   },
   {
-    "id": "p-53d494",
-    "offset": 7013,
-    "text": "Now in regard to commodities produced by labour alone, and brought to market immediately, it is evident that the labour employed upon them must on an average be precisely the same as the labour which they will command. But it is allowed that the relations of all commodities to one another, however variously composed, are at the same time and place, exactly in proportion to the quantity of labour which they will severally command. Consequently if the values of the commodities produced by labour alone in the time of Edward III. be to the values of commodities produced by labour alone in the time of William IV. as the quantities of labour which at each period they will command, it follows necessarily, that the values of all and each of the commodities in the time of Edward III. however variously composed, must be to the values of all and each of the commodities in the time of William IV. however composed, in the proportion of the quantity of labour which all and each will severally command."
+    "id": "p-3ed372",
+    "offset": 10751,
+    "text": "The specific reason, as it appears to me, why it has been generally supposed that there cannot be anything like a standard measure of value, is, that the principal founder of the science of political economy, Adam Smith, has given a definition of value in exchange, not only different from that meaning in which it is practically, and most frequently, applied, but quite inconsistent with the specific measure of value which he has himself proposed. If by the value of an object in exchange, be meant, as Adam Smith has stated, the power of purchasing other goods which the possession of that object conveys, then, as it is quite certain that such power may increase from the facility of producing other goods as well as from the difficulty of producing the object in question, it is equally certain that there can be no measure of the value of such object; and that when in the same page he speaks of the real measure of this exchangeable value, and afterwards distinctly proposes the labour which a commodity will command at that measure, and enters upon an elaborate inquiry into the value of silver during the four last centuries, he proceeds upon a principle in the application of which he contradicts at every step his first definition. These contradictions were no doubt calculated to produce impressions unfavourable to the existence of a standard measure of value. Such at least were the impressions produced on myself. If, however, he had limited his definition of the exchangable value of a commodity to its power of purchasing arising from intrinsic causes, or the estimation in which it is held determined by the state of the supply compared with the demand, and, ordinarily, by the elementary costs of its production, which is unquestionably the sense in which he applies it himself, and in which it is most frequently applied by others, the measure he has proposed would have been consistent with his definition, and both would have been just."
   },
   {
-    "id": "p-6d010d",
-    "offset": 8017,
-    "text": "The value, therefore, of any commodity at either period, whether arising from the intrinsic cause of labour alone, or from labour combined in various proportions with profits, rent, and taxes, or affected by temporary scarcity or abundance, will be measured by the quantity of the labour of each period which it will command."
+    "id": "p-5ca22b",
+    "offset": 12711,
+    "text": "The question, therefore, of the existence of a measure of value depends upon the sense in which we understand the term value in exchange; and I have fully given my reasons for thinking, not only that the limited sense just adverted to is the sense in which the term is most frequently applied, but that it is the sense in which it is most useful and important to know the exchangeable value of an object, and the only sense in which we can arrive at any practical conclusions approaching towards distinctness and precision, when we speak of a rise or fall in the values of commodities."
   },
   {
-    "id": "p-4e667a",
-    "offset": 8344,
-    "text": "And that the correctness of so measuring the values of commodities, will not be in any degree disturbed by the varying quantity of produce, or the varying Edition: current; Page: [98] wages which the labourer may receive, will be obvious from the following considerations."
+    "id": "p-ce2f16",
+    "offset": 13298,
+    "text": "It is not a little discreditable to a branch of knowledge which claims to be called a science, that the meaning of a term which is constantly met with in every work on political economy, and constantly heard in every conversation on the subject, should not yet be settled. But while it is most frequently used in a sense different from that in which it has been most frequently defined, it must be allowed that the question relating to the most correct and useful definition of it, is still open for discussion; and though it is well known from experience that those who have once publicly supported particular opinions are not likely to change them; yet looking to the future when it is scarcely possible to suppose that the point should not be settled, every effort to contribute to what is conceived to be a just and useful decision on the very elements of the science must be fully warranted."
   },
   {
-    "id": "p-e1d250",
-    "offset": 8618,
-    "text": "Let us suppose, what is probably not far from the truth, that a man who employs himself in shrimping, earns about the same remuneration as the common agricultural labourer, and let us further suppose, that the shrimper in the time of Edward III. could on an average bring home 800 shrimps a day. Now if at a subsequent period of some extent, shrimps were to frequent the shores in greater abundance, so that 1600 might ordinarily be obtained by a day’s labour, and the supply of shrimps were doubled, it is quite certain that we should say, and correctly say, that shrimps had proportionably fallen in value, not that labour had proportionably risen. In the same manner, if from a diminished afflux of shrimps to our shores, only 400 could be obtained by a day’s labour, it is equally certain that we should say, and correctly say, that shrimps had risen in value, not that labour had fallen."
+    "id": "p-55b4d8",
+    "offset": 14196,
+    "text": "The language of political economy has been much facilitated, and much indistinctness and unnecessary circumlocution has been prevented by the definite meaning which has been given to the term price, or nominal value. Though it is allowable to say price in corn, price in cloth, or price in any other article named; yet, when the term price occurs, as it generally does, without any such adjunct, it is universally understood to mean money price."
   },
   {
-    "id": "p-66eea4",
-    "offset": 9512,
-    "text": "The value of the shrimps would be determined by the supply compared with the demand. The demand, in this case, for the produce of a day’s shrimping would be accurately represented by the power of commanding a day’s labour, whether the means of supporting the labourer were abundant or scanty; and the demand being given, the value of a given number of shrimps would be inversely as the supply."
+    "id": "p-f40103",
+    "offset": 14643,
+    "text": "A similar advantage would be gained, if, when the term value of a commodity, or its value in exchange, were made use of, as it generally is, without any adjunct, it were universally understood to mean value in exchange arising from intrinsic causes, which value it has been shown may be measured by labour."
   },
   {
-    "id": "p-078ffb",
-    "offset": 9907,
-    "text": "If it would take the same man the same quantity of labour to obtain 100 prawns, as it would to obtain 400 shrimps, and yet he found it advantageous to continue getting prawns, it would be a great absurdity to say that labour was altered in value on account of the difference in the returns; and it would be little less absurd in the case previously supposed, if when the labour advanced was exactly of the same character, and employed for the same time, to say that the difference in the produce obtained, arising from the plenty or scarcity of the article compared with the given demand of a day’s labour, would make any kind of difference in the value of the labour advanced."
+    "id": "p-2b8129",
+    "offset": 14951,
+    "text": "It cannot be too often repeated, that for short periods when the value of money is considered as nearly constant, we uniformly measure the variations of value, as well as the variations of price by money; and it is quite certain that money, under these circumstances, can only measure the variations in the value of a commodity arising from intrinsic causes, and has nothing to do with causes which are extrinsic."
   },
   {
-    "id": "p-866ce5",
-    "offset": 10586,
-    "text": "If the changes were in the quantity of labour employed, not in the quantity of fish obtained, the effects would not be different. Though the whole demand might be increased in the case of an increased population, or diminished in the case of a diminished population, yet the power of commanding a day’s labour would still represent a given and unchanged demand in regard to intensity; and if on account of a greater number of competitors in the one case, and a smaller number in the other, each man could obtain in a day a smaller or greater number of fish, the fish would become scanty or abundant as compared with a given demand; and their value would still vary inversely as their supply, and be measured in both cases by the quantity of labour which a certain quantity of them would command."
+    "id": "p-1c10ab",
+    "offset": 15366,
+    "text": "It may indeed sometimes be desirable to know how far a particular commodity, or a certain quantity of money may go in the purchase of other goods; but even in this case, if it were possible to conceive an article which would represent the mass of all others, it may be doubted whether the power of commanding such an article would give the information wanted. When such inquiries are made, it is generally with a view to the power of the incomes of particular classes to enable them to live in the way they wish."
   },
   {
-    "id": "p-b1de62",
-    "offset": 11383,
-    "text": "It appears then that the varying quantity of produce obtained by the same quantity of labour of a given character, where labour alone is concerned, while it implies great alterations in the value of a given portion of the produce, does not alter the value of a given quantity of labour."
+    "id": "p-174b4f",
+    "offset": 15880,
+    "text": "The most interesting and useful inquiry of this kind is to ascertain the amount of necessaries, and of ordinary conveniences and luxuries which can be obtained in different countries by the money wages of labour. But if the value of the money wages received by the labourer could be measured by some article which would represent the mass of all purchasable commodities, as such a measure would be affected by a large quantity of commodities unconnected with the wants of the poorer classes of purchasers, it would not give us the information required respecting the condition of the labourer."
   },
   {
-    "id": "p-b2021d",
-    "offset": 11671,
-    "text": "And it is equally true that the varying wages, whether in corn or money, paid to the labourer at different periods for labour of the same character, when this labour enters into the composition of commodities combined with profits, rent, taxes, or any other intrinsic causes of value, does not alter the value of the labour itself, or disqualify it from being used as a measure."
+    "id": "p-cc53cf",
+    "offset": 16475,
+    "text": "On the other hand, if the inquiry related to the power of an income of three thousand a year in different countries, the prices of many of those commodities which only tended to render the measure incorrect in the former case, would probably be the most important in the latter."
   },
   {
-    "id": "p-aed334",
-    "offset": 12051,
-    "text": "In our own country there was a period subsequent to the reign of Edward III. namely from 1444, to the end of the reign of Henry VII. when, as far as the documents on the subject can be trusted, the labourer earned nearly two pecks of wheat a day, while he earned less than a peck in the time of Edward III. and much less than a peck towards the end of the reign of Elizabeth. Now it is quite certain that the labourer could not for so long a time have had his corn wages nearly doubled, if from some cause or other, or probably from a union of different causes, the supply of corn had Edition: current; Page: [100] not become more abundant in relation to the consumers; and whether this was occasioned by the destruction of the population during the civil wars, or by the increased growth of corn on the breaking up of the feudal system, or by a union of both, the effect would be just the same on the supply as compared with the demand. Man, with his wants and powers, it must be always recollected, is the primary source of all demand; and in this respect the increase or decrease of population is distinct from the increase or decrease of any commodity. If the quantity of cotton goods were to be greatly diminished, this would probably create a greater, rather than a less demand for woollen goods, whereas if population be diminished, all the articles before consumed by it will for a time become comparatively redundant, and some perhaps may long continue to be produced with greater facility."
+    "id": "p-a0fb32",
+    "offset": 16755,
+    "text": "It is obvious, therefore, that a measure representing the mass of commodities, or the general power of purchasing, even if attainable, which, however, is impossible, would not only, as formerly stated, fail entirely in reference to the main characteristic of value, but would be very unsatisfactory in the inquiries above mentioned. And in such cases we ought never to use the term value, or value in exchange by itself, but add specifically the kind of articles, in the purchase of which the incomes would be chiefly spent."
   },
   {
-    "id": "p-9ecec3",
-    "offset": 13552,
-    "text": "The labourer, therefore, during the period alluded to, was able to command a greater quantity of corn, which was unquestionably an increase of wealth to him; but he obtained this increase of wealth because corn had fallen in value, not because labour had risen in value."
+    "id": "p-04d672",
+    "offset": 17281,
+    "text": "When, therefore, the value of a commodity at any place and time is spoken of, without expressing some object or objects with which it is intended to compare it, we may safely understand by it that value which arises from intrinsic causes; and if labour, applied in the mode proposed, be considered as the measure of such value, it follows necessarily that neither money, nor any other commodity, can ever correctly perform the functions of such a measure, except while it continues to bear the same relation to labour."
   },
   {
-    "id": "p-cb8daf",
-    "offset": 13824,
-    "text": "Any object which continues of the same value must necessarily purchase more of an object which has fallen in value."
+    "id": "p-423bcd",
+    "offset": 17801,
+    "text": "It has been justly stated by Adam Smith, that corn is a better measure of value from century to century, than money, and the specific reason which he gives for it is, that its relation to labour is more constant than that of any other commodity. But if this be the reason why corn at distant periods may be considered as a better measure of value than any other product of labour, it implies distinctly that it cannot be so good a measure of value as labour itself."
   },
   {
-    "id": "p-a2ae05",
-    "offset": 13941,
-    "text": "The same reasoning applies to the labourer’s varying money wages. In the time of Edward III. the wages of common labour were about three half-pence a day, which allowing for the difference in the quantity of metal contained in the same nominal sum would be equal to about four-pence of our money. Consequently, supposing, the present money wages of common labour to be twenty-pence or two shillings, the money price of labour since the time of Edward III. will appear to have risen five or six times. But no person, I conceive, imagines that the value of labour has so risen. We all know very well that the value of money has fallen, and if the labour has remained unchanged in its character, the conditions of the supply of a given quantity of silver, the elementary costs of its production, Edition: current; Page: [101] the average state of its supply as compared with the demand, or its power of purchasing at these different periods arising from intrinsic causes, will be exactly represented by the quantity of labour which the given quantity of silver will command at each period."
+    "id": "p-234cfe",
+    "offset": 18268,
+    "text": "It is not a little surprising that the Marquis de Garnier, M. Say, and some other writers, seeing the impossibility of applying the mass of commodities as a measure of value, and wishing, therefore, to refer to someone object which might make the nearest approach to it, should have preferred referring to corn instead of labour, when it is well known that corn not only varies greatly in the difficulty of obtaining it, from temporary abundance, or scarcity, but that very great alterations may take place for fifty or sixty years together in the same country, and in different countries, at different periods in the progress of cultivation, for a much longer period."
   },
   {
-    "id": "p-f552e5",
-    "offset": 15029,
-    "text": "If we now consider the values of commodities in different countries at the same period, and suppose the character of the agricultural labour to be of the same kind, the same conclusion will necessarily follow. Yet here an actual exchange is practicable; and it is quite certain that the products of the same quantities of labour of the same character, will, under different circumstances exchange for very different quantities of money, while we well know that money prices regulate the rate at which all actual exchanges are made."
+    "id": "p-a49c2c",
+    "offset": 18938,
+    "text": "Adam Smith himself, in his “Digression concerning the value of silver during the four last centuries,” by referring most unaccountably to the prices of corn, instead of to the measure which he had himself proposed, has fallen into the very gross error of making the value of silver rise in the proportion of from two to three in the interval between the middle of the fourteenth, and the end of the fifteenth century, instead of falling in the proportion of from three to two, which would have been the just conclusion, if he had applied labour as his measure instead of corn; and surely he was bound to do this, after saying “Labour, it must always be remembered, and not any commodity, or set of commodities, is the measure not only of silver, but of all other commodities.” In the instance of error to which I have referred, corn had so essentially altered in its relation to labour for fifty or sixty years together, and had fallen so much in value, that a day’s labour would purchase nearly two pecks of wheat instead of one. The same quantity of wheat, therefore, instead of representing nearly the same quantity of labour from century to century, as intimated by Adam Smith, represented very little more than the half of that quantity, and his inference respecting the rise in the value of silver was quite reversed."
   },
   {
-    "id": "p-684ae2",
-    "offset": 15562,
-    "text": "But in cases of this kind, and they are constantly occuring, it is obvious, that the difference in the money price of the products of the same quantity of labour in different countries, arises from the difference in the value of money, and not from the difference in the value of the labour. Metallic money in all countries which have no mines of the precious metals, is only to be obtained by exportable commodities; and the soil, situation, and habits of some countries may occasion a comparatively scanty production of exports, although their labourers work with as much energy, and sometimes in regard to domestic commodities with as much skill, as the great mass of the labourers of those countries, where exportable commodities abound."
-  },
-  {
-    "id": "p-f27f87",
-    "offset": 16305,
-    "text": "If two nations quite unconnected were to employ the same quantity of labour of the same character in working two silver mines, one of which had double the fertility of the other, there can be no doubt that the supply of silver compared with the demand, or its value in exchange arising from intrinsic causes, would be very much lower in the one country than in the other; and we should not hesitate in saying, that the difference in prices so occasioned, was owing to the difference in the value of money, not in the value of the labour."
-  },
-  {
-    "id": "p-7d1a33",
-    "offset": 16844,
-    "text": "Nor ought the conclusion, in my opinion, to be different, Edition: current; Page: [102] if the application of excellent machinery in the one case, and very indifferent machinery in the other mines of the same natural fertility, were to produce the same difference in the state of the supply of silver compared with the demand, and the same purchasing power arising from intrinsic causes as in the former case. In the country of machinery, not only the labour of the miner, but all labour would be high in money price; and in comparing the two countries together, the natural and useful language would be, that while the value of the labour was the same in both countries, the value of silver was most essentially different. The same sacrifice of physical force, supposing the profits and other circumstances in both countries to have been the same, had probably produced in one country double the quantity of silver which it had produced in the other."
-  },
-  {
-    "id": "p-73a238",
-    "offset": 17797,
-    "text": "From all the accounts we have of the Chinese settlers in different parts of the East, it appears that the labouring classes in China, are remarkable for their industry and energy, and even for their skill in making those domestic articles where superior machinery is not required. We cannot therefore justly say that Chinese labour, independent of machinery, or other particular advantages, is not as effective as our own. Yet we well know that the money price of labour is extremely low in China, and this is obviously owing to the small amount of exports compared with the population, and the prodigious extent of territory, including a large part of Tartary, over which the precious metals which are imported into China will be necessarily spread, so as to throw the greatest imaginable obstacles in the way of a fall in their value; the consequence of which naturally is, that they have fallen comparatively but little in value since the discovery of the American mines; and the elementary cost of producing a pound of silver, the quantity of Chinese labour, profits, rent, &c. which must be worked up in the commodities exported to purchase it, are very much greater than in Europe. Under these circumstances Edition: current; Page: [103] it would surely be most preposterous to measure the value of Chinese labour in China by money, instead of measuring the money by the labour."
-  },
-  {
-    "id": "p-7b9805",
-    "offset": 19183,
-    "text": "Yet, still it is perfectly true, that a Chinese commodity carried to Hamburgh would be sold at its China money price, with the addition of the freight, insurance, profits, &c. of the last voyage; and an English merchant purchasing Hamburgh and Chinese goods, would unquestionably estimate their relative values by their cost in money, without the least reference to the very different quantities of labour which had been employed in obtaining them; or if he chanced to hear something about the greater quantity of Chinese labour employed on the articles from China, for which he had paid the same price as for the Hamburgh goods, he would be inclined, and not very unnaturally, to estimate the value of Chinese labour very low. It is most justly observed by Adam Smith, that the merchant, in all his transactions, has only to consider money prices."
-  },
-  {
-    "id": "p-ef5b87",
-    "offset": 20033,
-    "text": "To a merchant, therefore, living in London and purchasing goods at Hamburgh, Chinese labour, if estimated at all, would necessarily be estimated at a low value. But he would fall into a gross error if he were to infer that it was therefore low in China. When the value of money, or of any other article in China is spoken of, it would imply a gross perversion of language to suppose that the person speaking meant the value of Chinese money, Chinese goods, or Chinese labour in Hamburgh or London. The expression in China, cannot mean in Hamburgh, or in London. What alone can be correctly meant by the value of money, or of any other commodity in China is, the estimation in which such money is held in China, determined at all times by the state of the supply compared with the demand, and ordinarily by the elementary costs of its production in China, or what comes to the same thing, the value of money in China, is its power of purchasing in China, arising from intrinsic causes. And as it is obvious, that the quantity of Chinese labour Edition: current; Page: [104] which a pound of silver will command, must measure its power of purchasing in China, arising from intrinsic causes; it follows, that the value of money or of any other commodity in China, is measured by the quantity of Chinese labour which a given portion of it will command."
-  },
-  {
-    "id": "p-619c03",
-    "offset": 21383,
-    "text": "It is thought by some persons, that the cheap food and small quantity of it which is supposed to be earned by the Chinese labourer, must imply a low value of labour; but if things are in their natural state, what it really implies, is, that this food, however low in value it may appear to us, is of high value in China. The great demanders of the commonest sort of food in all countries are the labouring classes; and if a labourer in ordinary employment, and working with ordinary energy and skill, can, on an average, only obtain a comparatively small quantity of such food, it is a proof that its permanent supply compared with the demand is very scanty, and on the common principle of supply and demand, it must be of high value there."
-  },
-  {
-    "id": "p-c9adb8",
-    "offset": 22125,
-    "text": "To come to an instance nearer home. There is reason to believe that the common labourer of the Netherlands is as strong, and works for as many hours in the day as the English labourer. In the great business of agriculture, in which so large a part of the population of every country is employed, he is supposed to be peculiarly skilful, and in many manufactures he has been generally considered as excelling the workmen of most of the countries of Europe. Yet his wages measured in money are decidedly lower than in England. Is this owing to the lower value of labour in the Netherlands, or the higher value of money? To the latter most assuredly; and the cause of it unquestionably is, that though the great mass of the labourers in the Netherlands may work with as much energy and skill as the great mass of English labourers; yet a certain proportion of the latter, assisted by superior machinery, more abundant capitals and cheaper fuel, are able to produce a large quantity of Edition: current; Page: [105] exportable manufactures at a lower money price than they can be produced in the Netherlands; which, together with some superiority in colonial products, enables England to maintain her exchanges, although she pays a higher money price for her labour, the difference in profits being inconsiderable."
-  },
-  {
-    "id": "p-1bd46d",
-    "offset": 23437,
-    "text": "It will be said, perhaps, that the higher money price of corn and labour in England is entirely owing to the corn laws, which prevent the money price of English corn from falling to the price of corn in the Netherlands. It is indeed nearly certain, that if the corn laws were repealed, English labour and the general scale of English prices would be lower. But it is still more certain, that no possible corn laws could prevent the prices of our corn and labour from falling to the level of the rest of Europe, if we possessed no natural or artificial advantages in regard to our exportable commodities. Supposing the price of English common labour to be twenty-pence or two shillings, and of continental labour fourteen or sixteen-pence, each bearing the same relation in each country to manufacturing labour, with no more difference of profits than at present prevails, it is quite obvious, that without some peculiar advantages to balance the price of our labour, we could not possibly maintain our exchanges, and could not, in fact, export a single yard of cloth or calico, till the exchanges had continued against us a sufficient time to raise the value of money and lower the money prices of labour and corn to the level of the principal countries with which we were connected in commerce."
-  },
-  {
-    "id": "p-c14cd8",
-    "offset": 24734,
-    "text": "An instance of somewhat a different kind will tend further to illustrate this subject."
-  },
-  {
-    "id": "p-fe2c7a",
-    "offset": 24822,
-    "text": "It is generally considered that labour is very scarce, and of very high value in the United States of America, and that in consequence the agricultural labourer is paid much higher both in wheat and money than in England. In wheat it is supposed that he earns 18 or 20 quarters in the year, while the English labourer only earns 9 or 10. But is it properly Edition: current; Page: [106] the American labour which is of so much higher value than the English labour; or the American wheat which is of so much lower value in America, than the English wheat in England? It is in the nature of things quite impossible, as we have said before, that the labourers of any country can continue to be paid an amount of products of so high a value as the value of what they are themselves able to produce for their employers; because if they were so paid, their employers would always be losing by so employing them. Consequently the American labourers, paid as above stated, must be able to produce considerably more than 18 or 20 quarters; because, we know that profits are high in the United States; while it may fairly be presumed that on lands in England which yield the least rent, the English labourer produces a less excess above the 9 or 10 quarters than the American labourer above the 18 or 20 quarters. Can any thing show more clearly that the difference is in the lower value of the corn, and not in the higher value of the labour. And this difference is obviously occasioned by the great abundance of fertile land in America, and the consequent facility with which corn is obtained."
-  },
-  {
-    "id": "p-aa4461",
-    "offset": 26409,
-    "text": "But the American labourer is also paid higher in bullion, in the currency of the commercial world; and how comes it that bullion should be obtained with more facility in the United States than in England, when it is well known that the English labourer works for as many hours in the day, with as much strength, and with at least as much skill as the American labourer?"
-  },
-  {
-    "id": "p-b0c58d",
-    "offset": 26780,
-    "text": "The lower value of money in England compared with the value of money in most of the states of Europe, has appeared to arise principally from the cheapness of our exportable manufactures, derived from our superior machinery, skill, and capital. The still lower value of money in the United States is occasioned by the cheapness and abundance of her raw products derived from the advantages of her soil, climate, and situation. Notwithstanding the scarcity of labour in the Edition: current; Page: [107] United States, it would be obviously impossible for the country to maintain the money price which she actually pays for her labour, if, in spite of such price, she were not able from her situation, and the state of her soil, to produce raw cotton, tobacco, corn, timber, &c. in large quantities at a lower money price than most of her competitors in the European markets. The state of the demand in these markets for corn, tends to raise the price of the American corn, which is exported towards the level of the money prices in Europe. The price of the American corn which is exported naturally raises the money price of American corn in general; and the very great demand for labour in America compared with corn, by awarding to the labourer a large quantity of it, necessarily makes the money wages of labour high; while the abundant exports of other raw products obtained with great facility, afford the means of maintaining the exchanges under so high a bullion price of labour."
-  },
-  {
-    "id": "p-2de3d1",
-    "offset": 28267,
-    "text": "As a matter of unquestionable fact, the elementary cost of obtaining a pound of silver in the United States is less than in any country of Europe. A much smaller quantity of labour, of a character and quality hardly equal to that of England, is employed, with other outgoings estimated in the same kind of labour, to produce the articles which purchase it; and neither the difference in profits, nor the difference in the price of labour, is such as to counterbalance this facility of production, and prevent the abundance of exports."
-  },
-  {
-    "id": "p-0411d0",
-    "offset": 28803,
-    "text": "Unquestionably the American labourer is richer, and much better off than the English labourer. He obtains the command of a quantity of food more than sufficient to maintain the largest family; and from the high bullion price of his labour, he can afford in general to purchase a fair quantity both of home and foreign manufactured goods. But he evidently does not purchase what he obtains by a greater sacrifice than the English labourer. He does not give more for what he receives, but receives more for what he gives; and unless we mean to make quantity of products the measure of Edition: current; Page: [108] value, which would lead us into the most absurd and inextricable difficulties, we must measure the value of what the labourer receives in the United States by the labour which he gives for it. We must make the proper distinction between value and riches, and say that he is rich, not because he possesses a greater value to give in exchange for what he wants, but because what he wants, or the main articles which constitute his riches, are obtained with much more facility, and are really more abundant and cheaper than they are in Europe."
-  },
-  {
-    "id": "p-d7803a",
-    "offset": 29958,
-    "text": "In those numerous cases, therefore, where the great mass of the day labour of different countries is of the same character in regard to physical strength and duration, such labour must be a measure of value exactly of the same kind as the labour of the same country at different periods. And while we avoid the gross error of confounding the value of money, or of any other commodity in one country with the value of the same quantity of money, or of any other commodity in another country, or in the general market of Europe, it will appear that the labour of each country for which any commodity will exchange, must measure its exchangeable value in that country, or its power of purchasing in that country arising from intrinsic causes."
-  },
-  {
-    "id": "p-ee951d",
-    "offset": 30699,
-    "text": "Hitherto we have assumed that the labour of the same description in different periods and countries, is of the same character as to strength, skill, and duration. It remains to be considered, whether in different countries at the same period, where it is known that the character of the labour is essentially different, and in the same country at different periods, when it may be supposed that the character of the labour has changed, the proposed measure may still be considered as correct."
-  },
-  {
-    "id": "p-3b7a0b",
-    "offset": 31193,
-    "text": "And here it is probable that the measure will not be considered so satisfactory as in those cases where the labour is exactly of the same character. Yet, while it is obvious that the relative values of all commodities in every country may be accurately measured by the Edition: current; Page: [109] labour which they will command in that country, it must be allowed that there is no other way of approximating towards the other great object of a measure of the values of commodities, namely, a knowledge of the desire to possess, and the difficulty of obtaining possession of them, or the limitation of their supply compared with the demand, than by comparing them with the labour of the country in which they are produced or exchanged, whatever may be its character. And it appears, that if we adhere to that definition of the value of a commodity, which on other grounds has been shown to be the most useful and correct, such labour will measure it: and as no other object or objects will approach to such a measure, it may with propriety be considered as the standard."
-  },
-  {
-    "id": "p-26e097",
-    "offset": 32266,
-    "text": "The definition of the value of a commodity at a particular place and time, is stated to be “the estimation in which it is held at that place and time, determined in all cases by the state of the supply compared with the demand, and, ordinarily, by the elementary costs of its production, which regulate that state;” or what comes to the same thing, its power of purchasing at that place and time, arising from intrinsic causes."
-  },
-  {
-    "id": "p-707638",
-    "offset": 32695,
-    "text": "Now supposing that in India the labourers do not work either with so much strength, or for so many hours in the day, as the English labourers, what will be the result? Will not every article produced by labour be more scantily supplied compared with the numbers and wants of the population? And to obtain such an article must not a greater number of days labour, with the necessary wages to support the labourer for the greater number of days, be unavoidably sacrificed? That is, every such article will be of higher value, as determined by the state of the supply compared with the demand, and ordinarily by the elementary costs of production. But it has been shown that in every place at any one time, the value of a commodity produced by labour alone is to the value of a commodity however complicated in its mode of Edition: current; Page: [110] production, as the quantity of labour which the simple commodity will command to the quantity of labour that the complicated commodity will command. Consequently, if a certain piece of muslin in England commands five days English labour, and a piece of muslin in India, the same in quantity and quality, will command thirty days Indian labour, the natural inference is that the piece of muslin in India is held there in six times greater estimation than in England, founded on the limitation of its supply compared with the demand, and the greater elementary costs of its production; or, in other words, that its purchasing power in India, arising from intrinsic causes, is six times greater, which, according to the definition, is the same as saying, that the values of two similar pieces of muslin in the two different places, is measured by the quantity of labour in each place which they will respectively command."
-  },
-  {
-    "id": "p-0b4b7d",
-    "offset": 34465,
-    "text": "But the value of money at any particular place and time can only be determined and measured exactly in the same way as the value of any other commodity. Consequently, the value of money at any particular place and time in India will be there and then determined by the state of its supply compared with the demand, and ordinarily by the elementary costs of its production, and will be measured by the quantity of the standard labour of the country which it will command."
-  },
-  {
-    "id": "p-84a02d",
-    "offset": 34937,
-    "text": "It follows, as a necessary consequence, that the money prices of all commodities produced in different countries, at the same elementary costs, and existing in the same state of the supply compared with the demand, will, when brought to a common market in Europe, be proportioned inversely to the value of money in the country where they are produced. And this, I believe, is the rate at which all foreign commodities practically sell for in any common mart of Europe, after the money expenses and profits of the last voyage are allowed for."
-  },
-  {
-    "id": "p-a33e88",
-    "offset": 35480,
-    "text": "Recollecting then always, that I have not been inquiring Edition: current; Page: [111] for some object which approximates to a standard measure of value in exchange, on the supposition that the proper definition of the value of a commodity is its power of purchasing generally, but upon the supposition that the most usual, the most useful, and therefore the most correct interpretation of the term, is its power of purchasing arising from intrinsic causes, we may safely consider labour as the object which will answer the purpose required; and say, that the value of a commodity at any time, and at any place, may be measured by the quantity of the standard labour of that time and place, which it will exchange for or command."
+    "id": "p-b28a41",
+    "offset": 20263,
+    "text": "Of the doctrine that the term value of a commodity ought never to be used without at the same time specifying distinctly the article with which it is intended to be compared, and that any one article measures this value as well as any other; it need only be observed that in this case the term value becomes perfectly superfluous and useless. It has exactly the same meaning as price, or nominal value, that is, the value of one commodity in any other commodity named; and if value admits of no other meaning than this, it would certainly be much better to discard it at once from the vocabulary of political economy, as only tending to create confusion. We ought in this case, however, to invent some other term to express what is so much wanted, namely, the relation which commodities bear to the difficulty of obtaining them, or the estimation in which they are held at different times, and in different countries. But as this is the most usual sense in which the term value is now practically applied, we cannot surely do better than retain it in this sense."
   }
 ]

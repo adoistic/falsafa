@@ -1,0 +1,55 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 76
+chapter_title: Letter 76
+chapter_slug: "76-letter-76"
+variant_id: "632a56e4-76a4-5c74-a0d8-6a01d42b14c7"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1623
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+curator: thothica
+---
+
+1. Inimicitias mihi denuntias, si quicquam ex iis, quae cotidie facio, ignoraveris. Vide, quam simpliciter tecum vivam: hoc quoque tibi committam. Philosophum audio et quidem quintum iam diem habeo, ex quo in scholam eo et ab octava disputantem audio. Bona, inquis, aetate. Quidni bona? Quid autem stultius est quam, quia diu non didiceris, non discere?
+2. Quid ergo? Idem faciam, quod trossuli et iuvenes? Bene mecum agitur, si hoc unum senectutem meam dedecct dedecet.In hoc senescamus, ut iuvenes sequamur? In theatrum senex ibo et in circum deferar et nullum par sine me depugnabit ad philosophum ire erubescam?
+3. Tamdiu discendum est, quamdiu nescias; si proverbio credimus, quamdiu vivas. Nec ulli hoc rei magis convenit quam huic: tamdiu discendum est, quemadmodum vivas, quamdiu vivas. Ego tamen illic aliquid et doceo. Quaeris, quid doceam? Etiam seni esse discendum.
+4. Pudet autem me generis humani, quotiens scholam intravi. Praeter ipsum theatrum Neapolitanorum, ut scis, transeundum est Metronactis petenti
+5. Perge, Lucili, et propera, tibi ne et ipsiQuantum, inquis, proficiam? Quantum temptaveris.
+6. Quid expectas? Nulli sapere casu obtigit. Pecunia veniet ultro, honor offeretur, gratia ac dignitas fortasse ingerentur tibi; virtus in te non incidet. Ne levi quidem opera aut parvo labore cognoscitur; sed est tanti laborare omnia bona semel occupaturo. Unum est enim bonum, quod honestum; in illis nihil invenies veri, nihil certi, quaecumque famae placent.
+7. Quare autem unum sit bonum, quod honestum, dicam, quoniam parum me exsecutum priore epistula iudicas magisque hanc rem tibi laudatam quam probatam putas, et in artum, quae dicta sunt, contraham.
+8. Omnia suo bono constant. Vitem fertilitas commendat et sapor vini, velocitas cervum. Quam fortia dorso iumenta sint quaeris, quorum hic unus est usus, sarcinam ferre. In cane sagacitas prima est, si investigare debet feras, cursus, si consequi, audacia, si mordere et invadere. Id in quoque optimum esse debet, cui nascitur, quo censetur.
+9. In homine optimum quid est? Ratio; hac antecedit animalia, deos sequitur. Ratio ergo perfecta proprium bonum est, cetera illi cum animalibus satisque communia sunt. Valet; et leones. Formosus est; et pavones. Velox est; et equi. Non dico, in his omnibus vincitur. Non quaero, quid in se maximum habeat, sed quid suum. Corpus habet; et arbores. Habet impetum ac motum voluntarium; et bestiae et vermes. Habet vocem; sed quanto clariorem canes, acutiorem aquilae, graviorem tauri, dulciorem mobilioremque luscinii?
+10. Quid in homine proprium? Ratio. Haec recta et consummata felicitatem hominis implevit.
+11. Id itaque unum bonum est in homine, quod unum hominis est. Nunc enim non quaerimus, quid sit bonum, sed quid sit hominis bonum. Si nullum aliud est hominis quam ratio, haec erit unum eius bonum, sed pensandum cum omnibus. Si sit aliquis malus, puto improbabitur; si bonus, puto probabitur. Id ergo in homine primum solumque est, quo et probatur et inprobatur.
+12. Non dubitas, an hoc sit bonum; dubitas an solum bonum sit. Si quis omnia alia habeat, valetudinem, divitias, imagines multas, frequens atrium, sed malus ex confesso sit, inprobabis illum. Item si quis nihil quidem eorum, quae rettuli, habeat, deficiatur pecunia, clientium turba, nobilitate et avorum proavorumque serie, sed ex confesso bonus sit, probabis illum. Ergo hoc unum est bonum hominis, quod qui habet, etiam si aliis destituitur laudandus est, quod qui non habet, in omnium aliorum copia damnatur ac reicitur.
+13. Quae condicio rerum, eadem hominum est. Navis bona dicitur non quae pretiosis coloribus picta est nec cui argenteum aut aureum rostrum est nec cuius tutela ebore caelata est nec quae fiscis atque opibus regiis pressa est, sed stabilis et firma et iuncturis aquam excludentibus spissa, ad ferendum incursum maris solida, gubernaculo parens, velox et non sentiens ventum.
+14. Gladium bonum dices non cui auratus est balteus nec cuius vagina gemmis distinguitur, sed cui et ad secandum subtilis acies est et mucro munimentum omne rupturus. Regula non quam formosa, sed quam recta sit quaeritur. Eo quidque laudatur, cui comparatur, quod illi proprium est.
+15. Ergo in homine quoque nihil ad rem pertinet, quantum aret, quantum faeneret, a quam multis salutetur, quam pretioso incumbat lecto, quam perlucido poculo bibat, sed quam bonus sit. Bonus autem est, si ratio eius explicita et recta est et ad naturae suae voluntatem accommodata.
+16. Haec vocatur virtus, hoc est honestum et unicum hominis bonum. Nam cum sola ratio perficiat hominem, sola ratio perfecta beatum facit; hoc autem unum bonum est, quo uno beatus edicitur. Dicimus et illa bona esse, quae a virtute profecta contractaque sunt, id est opera eius omnia; sed ideo unum ipsa bonum est, quia nullum sine illa est.
+17. Si omne in animo bonum est, quicquid illum confirmat, extollit, amplificat, bonum est; validiorem autem animum et excelsiorem et ampliorem facit virtus. Nam cetera, quae cupiditates nostras inritant, deprimunt quoque animum et labefaciunt et, cum videntur adtollere, inflant ac multa vanitate deludunt. Ergo unum id bonum est, quo melior animus efficietur.
+18. Omnes actiones totius vitae honesti ac turpis respectu temperantur; ad haec faciendi et non faciendi ratio derigitur. Quid sit hoc, dicam: vir bonus quod honeste se facturum putaverit, faciet, etiam si
+19. Ergo si honestum utique secuturus est, turpe utique vitaturus et in omni actu vitae spectaturus haec duo, nec aliud bonum quam honestum
+20. Dixi, si forte meministi, concupita volgo et formidata inconsulto impetu plerosque calcasse. Inventus est, qui flammis inponeret manum, cuius risum non interrumperet tortor, qui in funere liberorum lacrimam non mitteret, qui morti non trepidus occurreret. Amor enim, ira,
+21. Sequitur, ut quae ab inconsultis saepe contemnuntur, a sapientibus semper, ea nec bona sint nec mala. Unum ergo bonum ipsa virtus est, quae inter hanc fortunam et illam superba incedit cum magno utriusque contemptu.
+22. Si hanc opinionem receperis, aliquid bonum esse praeter honestum, nulla non virtus laborabit. Nulla enim optineri poterit, si quicquam extra se respexerit. Quod si est, rationi repugnat, ex qua virtutes sunt, et veritati, quae sine ratione non est. Quaecumque autem opinio veritati repugnat, falsa est.
+23. Virum bonum concedas necesse est summae pietatis erga deos esse. Itaque quicquid illi accidit, aequo animo sustinebit; sciet enim id accidisse lege divina, qua universa procedunt. Quod si est, unum illi bonum erit, quod honestum; in hoc enim positum est et parere dis nec excandescere ad subita nec deplorare sortem suam, sed patienter excipere fatum et facere imperata.
+24. Si ullum aliud est bonum quam honestum, sequetur nos aviditas vitae, aviditas rerum vitam instruentium, quod est intolerabile, infinitum, vagum. Solum ergo bonum est honestum, cui modus est.
+25. Diximus futuram hominum feliciorem vitam quam deorum, si ea bona sunt, quorum nullus
+26. Illud quoque dixeram, si bona sunt ea, quae tam homini contingunt quam mutis animalibus, et muta animalia beatam vitam actura; quod fieri nullo modo potest. Omnia pro honesto patienda sunt; quod non erat faciendum, si esset ullum aliud bonum quam honestum. Haec quamvis latius exsecutus essem priore epistula, constrinxi et breviter percucurri.
+27. Numquam autem vera tibi opinio talis videbitur, nisi animum adleves et te ipse interroges, si res exegerit, ut pro patria moriaris et salutem omnium civium tua redimas, an porrecturus sis cervicem non tantum patienter, sed etiam libenter. Si hoc facturus es, nullum aliud bonum est. Omnia enim relinquis, ut hoc habeas. Vide quanta vis honesti sit: pro re publica morieris, etiam si statim facturus hoc eris, cum scieris tibi esse faciendum.
+28. Interdum ex re pulcherrima magnum gaudium etiam exiguo tempore ac brevi capitur, et quamvis fructus operis peracti nullus ad defunctum exemptumque rebus humanis pertineat, ipsa tamen contemplatio futuri operis iuvat, et vir fortis ac iustus, cum mortis suae pretia ante se posuit, libertatem patriae, salutem omnium, pro quibus dependit animam, in summa voluptate est et periculo suo fruitur.
+29. Sed ille quoque, cui hoc gaudium eripitur, quod ultimifactum tuum matura sequetur oblivio et parum grata existimatio civium; respondebitista omnia extra opus meum sunt. Ego ipsum contemptor. Hoc esse honestum scio. Itaque quocumque ducit ac vocat, venio.
+30. Hoc ergo unum bonum est, quod non tantum perfectus animus, sed generosus quoque et indolis bonae sentit; cetera levia sunt, mutabilia. Itaque sollicite possidentis. Etiam si favente fortuna in unum congesta sunt, dominis suis incubant gravia et illos semper premunt, aliquando et inlidunt.
+31. Nemo ex istis, quos purpuratos vides, felix est, non magis quam ex illis, quibus sceptrum et chlamydem in scaena fabulae adsignant; cum praesente populo lati incesserunt et coturnati, simul exierunt, excalceantur et ad staturam suam redeunt. Nemo istorum, quos divitiae honoresque in altiore fastigio ponunt, magnus est. Quare ergo magnus videtur? Cum basi illum sua metiris. Non est magnus pumilio, licet in monte constiterit; colossus magnitudinem suam servabit, etiam si steterit in puteo.
+32. Hoc laboramus errore, sic nobis imponitur, quod neminem aestimamus eo, quod est, sed adicimus illi et ea, quibus adornatus est. Atqui cum voles veram hominis aestimationem inire et scire, qualis sit, nudum inspice; ponat patrimonium, ponat honores et alia fortunae mendacia, corpus ipsum exuat. Animum intuere, qualis quantusque sit, alieno an suo magnus.
+33. Si rectis oculis gladios micantes videt et si scit sua nihil interesse, utrum anima per os an per iugulum exeat, beatum voca; si cum illi denuntiata sunt corporis tormenta et quae casu veniunt et quae potentioris iniuria, si vincula et exilia et vanas humanarum formidines mentium securus audit et dicit: Non ulla laborum, O virgo, nova mi facies inopinave surgit; Omnia praecepi atque animo mecum ipse peregi. Tu hodie ista denuntias; ego semper denuntiavi mihi et hominem paravi ad humana.
+34. Praecogitati mali mollis ictus venit. At stultis et fortunae credentibus omnis videtur nova rerum et inopinata facies; magna autem pars est apud imperitos mali novitas. Hoc ut scias, ea quae putaverant aspera, fortius, cum adsuevere, patiuntur.
+35. Ideo sapiens adsuescit futuris malis et quae alii diu patiendo levia faciunt, hic levia facit diu cogitando. Audimus aliquando voces imperitorum dicentium: sciebam; sapiens scit sibi omnia restare. Quicquid factum est, dicit: sciebam. Vale.

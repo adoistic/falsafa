@@ -4,13 +4,17 @@ slug: "lysander-spooner-no-treason-no-vi-the-constitutio-538bde"
 title: "No Treason, No. VI: The Constitution of No Authority"
 author:
   name: Lysander Spooner
-  biography: Lysander Spooner (1808–1887).
+  biography: "American legal theorist, abolitionist, and individualist anarchist of the Massachusetts bar. His treatises argued that the Constitution authorized no slavery and ultimately bound no one, carrying natural-rights argument to anti-statist conclusions."
+  birth_year: 1808
+  death_year: 1887
+  nationality: American
 era: 19th Century
 genre: Political Theory
 language: English
 language_direction: ltr
 description: "No Treason, No. VI: The Constitution of No Authority, by Lysander Spooner (1808–1887), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1870
 total_logical_chapters: 20
 total_variant_entries: 20
 thothica_role: catalog
@@ -22,7 +26,7 @@ No Treason, No. VI: The Constitution of No Authority, by Lysander Spooner (1808�
 
 ## Chapters
 
-01. [I.](./chapters/01-i/) — prose, 1 variant
+01. [The Constitution of No Authority, I.](./chapters/01-the-constitution-of-no-authority-i/) — prose, 1 variant
 02. [II.](./chapters/02-ii/) — prose, 1 variant
 03. [III.](./chapters/03-iii/) — prose, 1 variant
 04. [IV](./chapters/04-iv/) — prose, 1 variant
@@ -41,4 +45,4 @@ No Treason, No. VI: The Constitution of No Authority, by Lysander Spooner (1808�
 17. [XVII.](./chapters/17-xvii/) — prose, 1 variant
 18. [XVIII.](./chapters/18-xviii/) — prose, 1 variant
 19. [XIX.](./chapters/19-xix/) — prose, 1 variant
-20. [APPENDIX.](./chapters/20-appendix/) — prose, 1 variant
+20. [Appendix.](./chapters/20-appendix/) — prose, 1 variant

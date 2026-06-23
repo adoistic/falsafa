@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-gramsci-the-conquest-of-the-state-cf5b85",
+  "work_title": "The Conquest of the State",
+  "chapter_number": 1,
+  "chapter_title": "The Conquest of the State",
+  "chapter_slug": "01-the-conquest-of-the-state",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e0fbe8bf-0e91-58ba-ad59-9536a0792629",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2204,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gramsci/1919/07/conquest-state.htm"
+    }
+  ]
+}

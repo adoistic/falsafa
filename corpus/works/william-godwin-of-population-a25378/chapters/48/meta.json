@@ -2,7 +2,7 @@
   "work_slug": "william-godwin-of-population-a25378",
   "work_title": "Of Population",
   "chapter_number": 48,
-  "chapter_title": "CHAPTER I.: of the present state of the globe as it relates to human subsistence.",
+  "chapter_title": "Chapter II.: of the number of human beings which the globe is capable of maintaining on our present systems of husbandry",
   "chapter_slug": "48",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 766,
-      "paragraph_count": 6,
+      "word_count": 1837,
+      "paragraph_count": 10,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
     }

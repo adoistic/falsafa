@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 97
-chapter_title: "CHAPTER VI: Destruction of Property and Plant and the General Strike"
+chapter_title: "Chapter VIII: The American “Labor Unions“"
 chapter_slug: 97
 variant_id: "1e156c83-b672-524a-8ac9-83426adb1f5e"
 content_type: translation
@@ -13,63 +13,37 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1260
+word_count: 1196
 source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
 translator: Online Library of Liberty edition
 ---
 
-Theory of “Sabotage”—The general strike—Common ownership of works—Direct action.
+The “Western Federation of Miners”—Murder of Mr. Steunenberg—The “Martyrs in the cause of Labour”—Attacks upon Mr. Roosevelt—The “Western Federation of Miners” dictates a verdict—The Haywood case—Fear of being summoned to serve on a jury—Intimidation of magistrates—The right to commit crimes.
 
-The leaders of the Confederation of Labour have openly confessed their intentions in interviews published by the “Matin” newspaper.
+I have spoken on several occasions of the American “Labor Unions,” whose policy may be summed up as—monopoly of labour for the trade unionists and right to boycott non-unionists and employers who oppose their commands. They do not improve with age.
 
-M. Pataud, general secretary of the trade union of employees in electrical works, says:—
+Mr. Steunenberg, Governor of Idaho, was killed by a bomb in the beginning of 1907. Moyer, the president of the “Western Federation of Miners,” Haywood, the treasurer, and Pettibone, a member of the executive committee, were prosecuted as accomplices in the murder, which was committed by one Orchard. The “Western Federation of Miners,” in conjunction with other “Labor Unions,” immediately organised demonstrations, in which the accused were represented as “martyrs in the cause of labour.”
 
-“If there is no right to strike without the right to destroy industrial property and plant (le sabotage) we are going to exercise it. And the Government alone will bear the responsibility, as it assumes the responsibility for our anti-militarism.”
+Mr. Roosevelt, in a letter to Mr. Sherman, a Member of Congress, stated that the accused were “undesirable citizens.” These words redoubled the zeal of their partisans, at whose head was V. Debs, who had attained to notoriety by his violence in 1893 during the Pullman strike, as president of the “Amalgamated Railway Union.” They reproached the President with venturing to influence the jury, as though the conferences and meetings held in favour of the accused were not directed to any such purpose. Still, they declared that “death cannot, will not and shall not claim our brothers.” Did their brothers kill Governor Steunenberg, or not? That was not the question. The only question was that which President Roosevelt in his letter to President Jackson put in the following words: “You and your associates are not asking for a fair trial, but are dictating a verdict, and this cannot be approved.” What they required was that a fresh crime be added to the preceding ones and, in order to obtain this result, they incurred the guilt of exciting to violence and assassination. Can men be considered as ordinary labourers who lend themselves to such culpable proceedings? And do they deserve any other epithet than that of undesirable citizens?
 
-M. Merrheim, a member of the General Confederation of Labour, says:—
+The first case, that of Haywood, was tried at Boise City, Idaho. Orchard, who was prosecuted independently, gave evidence. He deposed to the complicity of Haywood, Moyer and Pettibone in the murders of a detective at Denver and of two mine superintendents, in the blowing up of the Independence Railway Platform, Colorado, which caused the deaths of thirteen non-unionists, and in the assassination of Governor Steunenberg. He obtained sums of money from the leaders of the “Western Federation of Miners” for each of his crimes. He made unsuccessful attempts upon Mr. Peabody, Governor of Colorado, upon Judge Gabbert, of the Supreme Court of Colorado, and upon several other persons who had incurred the displeasure of the “Western Federation.” Orchard's evidence was supported by evidence of comings and goings, both before and after each criminal act, which proved his relations with the leaders of the Federation.
 
-“Yesterday's surprise is only the prelude to tomorrow's. We are going to work every day with greater fierceness to prepare that to-morrow, and neither a Clemenceau, a Briand, still less a Viviani will prevent that ‘to-morrow’ from being what we wish.
+The defence before the jury was in entire conformity with the proceedings at the meetings which had protested against the prosecutions. One counsel denounced the “vipers and vultures of Wall Street.” Another declared that the conviction of Haywood would be looked upon as “an injustice and as the consequence of a vile and murderous aggression on the part of unscrupulous capitalists.”
 
-“No more laughter, exploiters and capitalists; the surprise packet is open, and will only close in order the more completely to swallow you up!”
+The “Western Federation of Miners,” after Orchard had given his evidence, identified themselves with Moyer, their president, Haywood, their treasurer, and Pettibone, a member of their executive committee, by re-electing them to their offices.
 
-M. Yvetot, general secretary of the Confederation of Labour, says:—
+Senator E. Borah, an energetic supporter of the prosecution, put the matter in these words—“they have killed Steunenberg in order to show that they never forgive an enemy.” And he added that the defence was nothing but an apology for the murder of the representatives of the law.
 
-“If they had not obtained immediate satisfaction, the gasworkers would have joined them, by way of solidarity. Paris would then have been shrouded in darkness. Imagine a simultaneous traffic-strike, and everything is said. Yesterday's experience, in the light of these observations, supplies the supporters of a general strike with a formidable argument. A general strike without barricades or bloodshed, is the sure and all-powerful arm of the revolution.”
+On Saturday, July 27th, 1907, at eleven o'clock in the morning, the jury retired to consider their verdict. Their deliberations extended until the Sunday morning at eight o'clock. One knows that in the United States, as in England, the jury must be unanimous. Four jurors found Haywood guilty, while eight were in favour of an acquittal. Time was needed to convince the four jurors that Orchard's regular interviews at Denver, before and after the crimes, were merely coincidences, that Haywood had never known the character of the man with whom he had been on terms of intimacy for a number of years, and that the prosecution was entirely due to the machinations of capitalists.
 
-M. Bousquet, secretary of the trades union of persons employed in the provision trades, says:—
+The verdict of the jury was a surprise even to Haywood's friends and created a profound impression in the United States. No fair-minded man, whether friend or enemy, attributes it to concern for justice and truth; everyone looks upon it merely as a confirmation of the instructions given to the jury to acquit, given by the demonstrations against which Mr. Roosevelt protested.
 
-“Four or five bodies in France have the power by themselves of preparing a revolution, or at least an economic convulsion attended by enormous consequences. To take an example. Supposing that by an understanding among the proletariat, the possibility of which has just been demonstrated, the lights were to go out in the greater towns, as has just happened in Paris; the supply of gas were to fail; the water were to give out; and the telegraphs, the post and telephones were to cease to work, how would the central capitalist Government know what was going on in the provinces, and give its orders? Furthermore, if the food supply were also stopped, what would happen?
+The day after the acquittal, all the Labor Unions of Denver decided to give this “martyr in the cause of labour” a triumphal reception. On August 3rd a deputation appeared at the station. Haywood got into a car drawn by six white horses, from which he delivered an address to the 30,000 men who had met to do him honour. It was announced at the same time that the prosecutions of Moyer and Pettibone would be dropped. The members of the Labor Unions were confirmed in the conviction that they are inviolable because they are to be feared.
 
-“I conclude that the Government, such as it is, is obliged to reckon with the power of the workmen, for the very good reason that, while it is preoccupied with an economic object, there are people who see a different one—the object of demolishing capitalist society.”
+All jurors are not heroes. Mr. John Cummings, of Chicago, relates that in that city, seven hundred summonses were necessary in order to empanel a jury in a murder case in which trade union leaders were involved. In the same city men guilty of violence in the course of a strike of draymen were all acquitted.
 
-M. Griffuelhes, of the General Confederation of Labour, also sees a presage of more important events in the electricians' strike. Like M. Merrheim, he has put his views into writing:—
+The magistrates are intimidated by moral pressure as well as by material danger. Whosoever ventures to disapprove of the unlawful acts of a Labor Union is at once denounced as an instrument of capital, devoted to suspicion and contempt. The arrest is an “outrageous and impudent invention of a lawless plutocracy.” If a police officer arrest a member of a union who has committed a murder, he is denounced for having tried to distinguish himself “in order to earn blood money.”
 
-“The conscious act of the electricians enables one to deduce an identical act by the gas workers, finally disembarrassed of the preoccupations of politicians, of which certain individuals take advantage: it gives one a glimpse of the day when the post office employees shall perform a labour of wisdom of a preventive kind, when the unhappy slaves of the Metropolitan shall paralyse its traffic, and the railway employees shall have awakened and shall stop the engines from running. The day that sees these crises will come, whatever be the present conditions, just as the day came which saw Paris without light or electrical power.
+On the other hand, the judge who has grovelled before a Labor Union is pointed out as “an able and distinguished lawyer, a magistrate full of sympathy with honest men and a terror to all criminals.” Even Mark Twain has never carried audacity and irony to this extent.
 
-“On that day, our bourgeois will experience ‘emotions’ of a more intense and lively kind than those of the last few days.”
-
-Another, M. Passerieu, assistant secretary of the electrical trade union, says:—
-
-“But are we not joint proprietors in M. Sartiaux' works? Have we not incorporated our labour in them? Here is wealth which we have assisted in creating and developing; we want our share of it. If the soldiers make themselves the slaves of capital in order to keep our lawful portion from us, they become enemies in our eyes. So much the worse for them. We are going to use every means to prepare for the equitable distribution of wealth. And ‘every means’ is ‘direct action’ and the destruction of property. When the workman feels himself tortured by hunger, in sight of the wealth which he has himself produced, he meets the capitalists' crimes with just reprisals, or rather by the most legitimate of legitimate defences.”
-
-This is how the leaders of the Confederation of Labour believe that the destruction of property can be practised with impunity and that when it is practised, those who have carried it out will have leisure calmly to contemplate its effects.
-
-They declare that they are preparing “direct action” and a “general strike,” and they believe that “capitalist society” is bound to let them do so.
-
-A little later, M. Griffuelhes gave the following indication of the procedure of the General Confederation of Labour:—
-
-“What are statistics? What do they prove? Certainly numbers count in politics, and a vote is a factor not to be despised. In politics, it is possible to make calculations, to say that 1=1. But we are not politicians; we believe in a social transformation by means of workmen's combinations. Our weapon is not the ballot, but the strike. Therefore it cannot be said that a statistical calculation of the number of our adherents will yield any information whatever for the purpose of calculating the importance of a strike.
-
-“Here are 10,000 weavers who have been on strike for six weeks. They obtain no satisfaction because the shops which are supplied by their employers contain an inexhaustible supply of material. In Edition: current; Page: [295] revenge for this, 700 to 800 electricians stop work for two nights. They obtain entire satisfaction. Cannot we say, then, that 700 are more than 10,000.”
-
-What M. Griffuelhes calls politics is the power of the vote. The military assumption that victory is on the side of the big battalions has been transferred to the solution of political and legal questions. Units are counted on the supposition that they are all of the same order, and that the greatest number triumph.
-
-But M. Griffuelhes is not a supporter of these pacific means. He counts up his troops and selects them, and says that by concentrating his attack on some particular point, with particular combatants, he is able to interrupt the working of the social organism.
-
-This is quite correct. M. Griffuelhes is a conspirator of the same kind as Blanqui. But Blanqui still relied on guns and swords, whereas M. Griffuelhes means to employ other methods such as our penal codes has not foreseen, while the law of 1884 has placed the trade unions at his disposal as fighting organisations. This points to a gap which will have to be filled up and it is not so large as he imagines.
-
-In any case, he and his associates are candid enough to declare that the strike is a method of carrying on the social war, and that they are to be looked upon as belligerents.
-
-The government, which fails to justify its existence, if it does not guarantee the general security against enterprises of this character, must fortify itself with the laws necessary to resist them and must apply them. Since the law of 1884 contains no restrictions of this kind, trades unions give themselves up to their manœuvres with the accompaniment of violence, as though their acts become lawful when committed by their members.
-
-The law does not give the Government any Edition: current; Page: [296] means of ascertaining the number of persons of which a trades union is composed, or what such unions are doing, and has thereby legalised the existence of secret societies.
+Each Labor Union constitutes a separate group, regulated solely by passions and interests which are opposed to those of the rest of the nation and of the human race. If it has the hypocrisy to disavow some of its acts, it none the less indicates to the judges, the juries, and the President of the United States that it has the right to commit crimes, and those who have the audacity to advance such pretensions do not represent one-tenth of the workmen of the United States.

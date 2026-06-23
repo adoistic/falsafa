@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362",
+  "work_title": "A Treatise on Political Economy",
+  "chapter_number": 47,
+  "chapter_title": "Of Our Actions, Chapter XIII.: Conclusion.",
+  "chapter_slug": "47-of-our-actions-chapter-xiii-conclusion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1ca7fd04-85e2-5cb5-9889-4a135ee3978c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5266,
+      "paragraph_count": 88,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
+    }
+  ]
+}

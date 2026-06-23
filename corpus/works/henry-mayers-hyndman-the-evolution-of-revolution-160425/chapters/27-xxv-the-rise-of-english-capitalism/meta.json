@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 27,
+  "chapter_title": "XXV. The Rise of English Capitalism",
+  "chapter_slug": "27-xxv-the-rise-of-english-capitalism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "351c764b-8472-5b86-8beb-bfd29667e1e4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3675,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter25.htm"
+    }
+  ]
+}

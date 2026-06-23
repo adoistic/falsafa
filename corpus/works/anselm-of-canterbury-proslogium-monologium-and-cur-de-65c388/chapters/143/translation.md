@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 143
-chapter_title: CHAPTER XII.
+chapter_title: Chapter XXI. (3)
 chapter_slug: 143
 variant_id: "2a94a136-554a-5690-be19-30cac21dc4c2"
 content_type: translation
@@ -13,53 +13,61 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 859
+word_count: 580
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-Whether it were proper for God to put away sins by compassion alone, without any payment of debt.
+How great a burden sin is.
 
-Let us return and consider whether it were proper for God to put away sins by compassion alone, without any payment of the honor taken from him.
+Suppose that you did not owe any of those things which you have brought up as possible payment for your sin, let us inquire whether they can satisfy for a sin so small as one look contrary to the will of God.
 
-I do not see why it is not proper.
+Did I not hear you question the thing, I should suppose that a single repentant feeling on my part would blot out this sin.
 
-To remit sin in this manner is nothing else than not to punish; and since it is not right to cancel sin without compensation or punishment; if it be not punished, then is it passed by undischarged.
+You have not as yet estimated the great burden of sin.
 
-What you say is reasonable.
+Show it me then.
 
-It is not fitting for God to pass over anything in his kingdom undischarged.
+If you should find yourself in the sight of God, and one said to you: “Look thither;” and God, on the other hand, should say: “It is not my will that you should look;” ask your own heart what there is in all existing things which would make it right for you to give that look contrary to the will of God.
 
-If I wish to oppose this, I fear to sin.
+I can find no motive which would make it right; unless, indeed I am so situated as to make it necessary for me either to do this, or some greater sin.
 
-It is, therefore, not proper for God thus to pass over sin unpunished.
+Put away all such necessity, and ask with regard to this sin only whether you can do it even for your own salvation.
 
-Thus it follows.
+I see plainly that I cannot.
 
-There is also another thing which follows if sin be passed by unpunished, viz., that with God there will be no difference between the guilty and the not guilty; and this is unbecoming to God.
+Not to detain you too long; what if it were necessary either that the whole universe, except God himself, should perish and fall back into nothing, or else that you should do so small a thing against the will of God?
+
+When I consider the action itself, it appears very slight; but when I view it as contrary to the will of God, I know of nothing so grievous, and of no loss that will compare with it; but sometimes we oppose another’s will without blame in order to preserve his property, so that afterwards he is glad that we opposed him.
+
+This is in the case of man, who often does not know what is useful for him, or cannot make up his loss; but God is in want of nothing, and, should all things perish, can restore them as easily as he created them.
+
+I must confess that I ought not to oppose the will of God even to preserve the whole creation.
+
+What if there were more worlds as full of beings as this?
+
+Were they increased to an infinite extent, and held before me in like manner, my reply would be the same.
+
+You cannot answer more correctly, but consider, also, should it happen that you gave the look contrary to God—s will, what payment you can make for this sin?
+
+I can only repeat what I said before.
+
+So heinous is our sin whenever we knowingly oppose the will of God even in the slightest thing; since we are always in his sight, and he always enjoins it upon us not to sin.
 
 I cannot deny it.
 
-Observe this also. Every one knows that justice to man is regulated by law, so that, according to the requirements of law, the measure of award is bestowed by God.
+Therefore you make no satisfaction unless you restore something greater than the amount of that obligation, which should restrain you from committing the sin.
 
-This is our belief.
+Reason seems to demand this, and to make the contrary wholly impossible.
 
-But if sin is neither paid for nor punished, it is subject to no law.
+Even God cannot raise to happiness any being bound at all by the debt of sin, because He ought not to.
 
-I cannot conceive it to be otherwise.
+This decision is most weighty.
 
-Injustice, therefore, if it is cancelled by compassion alone, is more free than justice, which seems very inconsistent. And to these is also added a further incongruity, viz., that it makes injustice like God. For as God is subject to no law, so neither is injustice.
+Listen to an additional reason which makes it no less difficult for man to be reconciled to God.
 
-I cannot withstand your reasoning. But when God commands us in every case to forgive those who trespass against us, it seems inconsistent to enjoin a thing upon us which it is not proper for him to do himself.
+This alone would drive me to despair, were it not for the consolation of faith.
 
-There is no inconsistency in God’s commanding us not to take upon ourselves what belongs to Him alone. For to execute vengeance belongs to none but Him who is Lord of all; for when the powers of the world rightly accomplish this end, God himself does it who appointed them for the purpose.
+But listen.
 
-You have obviated the difficulty which I thought to exist; but there is another to which I would like to have your answer. For since God is so free as to be subject to no law, and to the judgment of no one, and is so merciful as that nothing more merciful can be conceived; and nothing is right or fit save as he wills; it seems a strange thing for us to say that he is wholly unwilling or unable to put away an injury done to himself, when we are wont to apply Edition: current; Page: [205] to him for indulgence with regard to those offences which we commit against others.
-
-What you say of God’s liberty and choice and compassion is true; but we ought so to interpret these things as that they may not seem to interfere with His dignity. For there is no liberty except as regards what is best or fitting; nor should that be called mercy which does anything improper for the Divine character. Moreover, when it is said that what God wishes is just, and that what He does not wish is unjust, we must not understand that if God wished anything improper it would be just, simply because he wished it. For if God wishes to lie, we must not conclude that it is right to lie, but rather that he is not God. For no will can ever wish to lie, unless truth in it is impaired, nay, unless the will itself be impaired by forsaking truth. When, then, it is said: “If God wishes to lie,” the meaning is simply this: “If the nature of God is such as that he wishes to lie;” and, therefore, it does not follow that falsehood is right, except it be understood in the same manner as when we speak of two impossible things: “If this be true, then that follows; because neither this nor that is true;” as if a man should say: “Supposing water to be dry, and fire to be moist;” for neither is the case. Therefore, with regard to these things, to speak the whole truth: If God desires a thing, it is right that he should desire that which involves no unfitness. For if God chooses that it should rain, it is right that it should rain; and if he desires that any man should die, then is it right that he should die. Wherefore, if it be not fitting for God to do anything unjustly, or out of course, it does not belong to his liberty or compassion or will to let the sinner go unpunished, Edition: current; Page: [206] who makes no return to God of what the sinner has defrauded him.
-
-You remove from me every possible objection which I had thought of bringing against you.
-
-Yet observe why it is not fitting for God to do this.
-
-I listen readily to whatever you say.
+Say on.

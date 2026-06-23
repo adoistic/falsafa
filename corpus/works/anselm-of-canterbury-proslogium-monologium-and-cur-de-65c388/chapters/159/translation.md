@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 159
-chapter_title: CHAPTER III.
+chapter_title: Chapter XIV. (4)
 chapter_slug: 159
 variant_id: "7f4e89c6-7424-5fc3-856b-63367071209e"
 content_type: translation
@@ -13,21 +13,49 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 182
+word_count: 546
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How man will rise with the same body which he has in this world.
+How his death outweighs the number and greatness of our sins.
 
-From this the future resurrection of the dead is clearly proved. For if man is to be perfectly restored, the restoration should make him such as he would have been had he never sinned.
+Now I ask you to tell me how his death can outweigh the number and magnitude of our sins, when the least sin we can think of you have shown to be so monstrous that, were there an infinite number of worlds as full of created existence as this, they could not stand, but would fall back into nothing, sooner than one look should be made contrary to the just will of God.
 
-It must be so.
+Were that man here before you, and you knew who he was, and it were told you that, if you did not kill him, the whole universe, except God, would perish, would you do it to preserve the rest of creation?
 
-Therefore, as man, had he not sinned, was to have been transferred with the same body to an immortal state, so when he shall be restored, it must properly be with his own body as he lived in this world.
+No! not even were an infinite number of worlds displayed before me.
 
-But what shall we say to one who tells us that this is right enough with regard to those in whom humanity shall be perfectly restored, but is not necessary as respects the reprobate?
+But suppose you were told: “If you do not kill him, all the sins of the world will be heaped upon you.”
 
-We know of nothing more just or proper than this, that as man, had he continued in holiness, would have been perfectly happy for eternity, both in Edition: current; Page: [242] body and in soul; so, if he persevere in wickedness, he shall be likewise completely miserable forever.
+I should answer, that I would far rather bear all other sins, not only those of this world, past and future, but also all others that can be conceived of, than this alone. And I think I ought to say this, not only with regard to killing him, but even as to the slightest injury which could be inflicted on him.
 
-You have promptly satisfied me in these matters.
+You judge correctly; but tell me why it is that your heart recoils from one injury inflicted upon him as more heinous than all other sins that can be thought of, inasmuch as all sins whatsoever are committed against him?
+
+A sin committed upon his person exceeds beyond comparison all the sins which can be thought of, that do not affect his person.
+
+What say you to this, that one often suffers freely certain evils in his person, in order not to suffer greater ones in his property?
+
+God has no need of such patience, for all things lie in subjection to his power, as you answered a certain question of mine above.
+
+You say well; and hence we see that no enormity or multitude of sins, apart from the Divine person, can for a moment be compared with a bodily injury inflicted upon that man.
+
+This is most plain
+
+How great does this good seem to you, if the destruction of it is such an evil?
+
+If its existence is as great a good as its destruction is an evil, then is it far more a good than those sins are evils which its destruction so far surpasses.
+
+Very true. Consider, also, that sins are as hateful as they are evil, and that life is only amiable in proportion as it is good. And, therefore, it follows that that life is more lovely than sins are odious.
+
+I cannot help seeing this.
+
+And do you not think that so great a good in itself so lovely, can avail to pay what is due for the sins of the whole world?
+
+Yes! it has even infinite value.
+
+Do you see, then, how this life conquers all sins, if it be given for them?
+
+Plainly.
+
+If, then, to lay down life is the same as to suffer death, as the gift of his life surpasses all the sins of men, so will also the suffering of death.

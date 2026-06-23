@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-accumulation-of-capital-1f9ce9",
+  "work_title": "The Accumulation of Capital",
+  "chapter_number": 25,
+  "chapter_title": "Chapter 24: The End of Russian ‘Legalist’ Marxism",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "16fa8d58-b00c-5a29-87ce-1cfb0aa43724",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 918,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch24.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-political-ideals-167b51",
+  "work_title": "Political Ideals",
+  "chapter_number": 4,
+  "chapter_title": "Chapter IV — Individual Liberty and Public Control",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e39f581c-0822-5d41-9568-f5f78aa344d3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5093,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4776"
+    }
+  ]
+}

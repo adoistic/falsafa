@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-engels-the-condition-of-the-working-cla-2d9e0a",
+  "work_title": "The Condition of the Working Class in England",
+  "chapter_number": 11,
+  "chapter_title": "Labour Movements",
+  "chapter_slug": "11-labour-movements",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ce033599-6ef9-5ecb-bc2a-11828842c83e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10495,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch10.htm"
+    }
+  ]
+}

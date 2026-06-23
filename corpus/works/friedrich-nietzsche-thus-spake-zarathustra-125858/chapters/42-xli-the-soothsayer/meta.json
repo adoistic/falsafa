@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 42,
+  "chapter_title": "XLI. The Soothsayer.",
+  "chapter_slug": "42-xli-the-soothsayer",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9f658a4a-6e00-5fec-bc0a-27db269ba1bb",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 1070,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0bb887a0-699d-531c-965e-6b9c86aa16eb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1151,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

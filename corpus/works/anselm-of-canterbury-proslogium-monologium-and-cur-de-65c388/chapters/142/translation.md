@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 142
-chapter_title: CHAPTER XI.
+chapter_title: Chapter XX. (2)
 chapter_slug: 142
 variant_id: "22b20559-a89b-5703-898b-84b40fbeddff"
 content_type: translation
@@ -13,29 +13,41 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 448
+word_count: 714
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-What it is to sin, and to make satisfaction for sin.
+That satisfaction ought to be proportionate to guilt; and that man is of himself unable to accomplish this
 
-We must needs inquire, therefore, in what manner God puts away men’s sins; and, in order to do this more plainly, let us first consider what it is to sin, and what it is to make satisfaction for sin.
+Neither, I think, will you doubt this, that satisfaction should be proportionate to guilt.
 
-It is yours to explain and mine to listen.
+Otherwise sin would remain in a manner exempt from control (inordinatum), which cannot be, for God leaves nothing uncontrolled in his kingdom. But this is determined, that even the smallest unfitness is impossible with God.
 
-If man or angel always rendered to God his due, he would never sin.
+Tell me, then, what payment you make God for your sin?
 
-I cannot deny that.
+Repentance, a broken and contrite heart, self-denial, various bodily sufferings, pity in giving and forgiving, and obedience.
 
-Therefore to sin is nothing else than not to render to God his due.
+What do you give to God in all these?
 
-What is the debt which we owe to God?
+Do I not honor God, when, for his love and fear, in heartfelt contrition I give up worldly joy, and despise, amid abstinence and toils, the delights and ease of this life, and submit obediently to him, freely bestowing my possessions in giving to and releasing others?
 
-Every wish of a rational creature should be subject to the will of God
+When you render anything to God which you owe him, irrespective of your past sin, you should not reckon this as the debt which you owe for sin. But you owe God every one of those things which you have mentioned. For, in this mortal state, there should be such love and such desire of attaining the true end of your being, which is the meaning of prayer, and such grief that you have not yet reached this object, and such fear lest you fail of it, that you should find joy in nothing which does not help you or give encouragement of your success. For you do not deserve to have a thing which you do not love and desire for its own sake, and the want of which at present, together with the great danger of never getting it, causes you no grief. This also requires one to avoid ease and worldly pleasures such as seduce the mind from real rest and pleasure, except so far as you think suffices for the accomplishment of that object. But you ought to view the gifts which you bestow as a part of your debt, since you know that what you give comes not from yourself, but from his whose servant both you are and he also to whom you give. And nature herself teaches you to do to your fellow servant, man to man, as you would be done by; and that he who will not bestow what he has ought not to receive what he has not. Of forgiveness, indeed, I speak briefly, for, as we said above, vengeance in no sense belongs to you, since you are not your own, nor is he who injures you yours or his, but you are both the servants of one Lord, made by him out of nothing. And if you avenge yourself upon your fellow servant, you proudly assume judgment over him when it is the peculiar right of God, the judge of all. But what do you give to God by your obedience, which is not owed him already, since he demands from you all that you are and have and can become?
 
-Nothing is more true
+Truly I dare not say that in all these things I pay any portion of my debt to God.
 
-This is the debt which man and angel owe to God, and no one who pays this debt commits sin; but every one who does not pay it sins. This is justice, or uprightness of will, which makes a being just or upright in heart, that is, in will; and this is the sole and complete debt of honor which we owe to God, and which God requires of us. For it is such a will only, when it can be exercised, that does works pleasing to God; and when this will cannot be exercised, it is pleasing of itself alone, since without it no work is acceptable. He who does not render this honor which is due to God, robs God of his own and dishonors him; and this is sin. Moreover, so long as he does not restore what he has taken away, he remains in fault; and it will not suffice merely to restore what has been taken away, but, considering the contempt offered, he ought to restore more than he took away. For as one who imperils another’s safety does not enough by merely restoring his safety, without making some compensation for the anguish incurred; so he who violates another’s honor does not enough by merely rendering honor again, but must, according to the extent of the injury done, make restoration in some way satisfactory to the person whom he has dishonored. We must also observe that when any one pays what he has unjustly taken away, he ought to give something which could not have been Edition: current; Page: [203] demanded of him, had he not stolen what belonged to another. So then, every one who sins ought to pay back the honor of which he has robbed God; and this is the satisfaction which every sinner owes to God.
+How then do you pay God for your transgression?
 
-Since we have determined to follow reason in all these things, I am unable to bring any objection against them, although you somewhat startle me.
+If in justice I owe God myself and all my powers, even when I do not sin, I have nothing left to render to him for my sin.
+
+What will become of you then? How will you be saved?
+
+Merely looking at your arguments, I see no way of escape. But, turning to my belief, I hope through Christian faith, “which works by love,” that I may be saved, and the more, since we read that if the sinner turns from his inquity and does what is right, all his transgressions shall be forgotten.
+
+This is only said of those who either looked for Christ before his coming, or who believe in him since he has appeared. But we set aside Christ and his religion as if they did not exist, when we proposed to inquire whether his coming were necessary to man—s salvation.
+
+We did so.
+
+Let us then proceed by reason simply.
+
+Though you bring me into straits, yet I very much wish you to proceed as you have begun.

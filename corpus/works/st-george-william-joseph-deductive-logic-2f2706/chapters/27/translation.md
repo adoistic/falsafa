@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 27
-chapter_title: Chapter XIX
+chapter_title: Chapter VIII
 chapter_slug: 27
 variant_id: "38ed351e-b392-57c5-9a07-3be9bf77fba6"
 content_type: translation
@@ -13,83 +13,149 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 609
+word_count: 1018
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-1. Convert the following propositions--
+Fill up the following enthymemes, mentioning to which order they belong, and state which of them are expressed in problematic form--
 
-(1) If a man is wise, he is humble.
+(1) I am fond of music: for I always like a comic song.
 
-(2) Where there is sincerity there is no affectation.
+(2) All men are born to suffering, and therefore you must expect your share.
 
-(3) When night-dogs run, all sorts of deer are chased.
+(3) Job must have committed some secret sins: for he fell into dreadful misfortunes.
 
-(4) The nearer the Church, the further from God.
+(4) Latin was the language of the Vestals, and therefore no lady need be ashamed of speaking it.
 
-(5) If there were no void, all would be solid.
+(5) None but physicians came to the meeting. There were therefore no nurses there.
 
-(6) Not to go on is sometimes to go back.
+(6) The human soul extends through the whole body, for it is found in every member.
 
-2. Express in a single proposition--
+(7) No traitor can be trusted, and you are a traitor.
 
-If he was divine, he was not covetous; and if he was covetous, he was not divine.
+(8) Whatever has no parts does not perish by the dissolution of its parts. Therefore the soul of man is imperishable.
 
-3. Exhibit the exact logical relation to one another of the following pairs of propositions--
+Is the suppressed premiss in any case disputable on material grounds?
 
-(1) If the conclusion be false, the premisses are false. If the conclusion be true, the premisses are not necessarily true.
+CHAPTERS IX-XVIII.
 
-(2) If one premiss be negative, the conclusion must be negative.
+Refer the following arguments to their proper mood and figure, or show what rules of syllogism they violate.
 
-If the conclusion be negative, one of the premisses must be negative.
+(1) No miser is a true friend, for he does not assist his friend with his purse.
 
-(3) The truth of the universal involves the truth of the particular.
+(2) Governments are good which promote prosperity. The government of Burmah does not promote prosperity. .'. It is not a good government.
 
-The falsity of the particular involves the falsity of the universal.
+(3) Land is not property. Land produces barley. .'. Beer is intoxicating.
 
-(4) From the truth of the particular no conclusion follows as to the universal.
+(4) Nothing is property but that which is the product of man's hand. The horse is not the product of man's hand. .'. The horse is not property.
 
-From the falsity of the universal no conclusion follows as to the particular.
+(5) Some Europeans at least are not Aryans, because the Finns are not.
 
-(5) If the conclusion in the fourth figure be negative, the major premiss must be universal.
+(6) Saturn is visible from the earth, and the moon is visible from the earth. Therefore the moon is visible from Saturn.
 
-If the major premiss in the fourth figure be particular, the conclusion must be affirmative.
+(7) Some men of self-command are poor, and therefore some noble characters are poor.
 
-(6) If both premisses be affirmative, the conclusion must be affirmative.
+(8) Sparing the rod spoils the child: so John will turn out very good, for his mother beats him every day.
 
-If the conclusion be negative, one of the premisses must be negative.
+(9) Some effects of labour are not painful, since every virtue is an effect of labour.
 
-4. 'The Method of Agreement stands on the ground that whatever circumstance can be eliminated is not connected with the phenomenon by any law; the Method of Difference stands on the ground that whatever circumstance cannot be eliminated is connected with the phenomenon by a law.' Do these two principles imply one another?
+(10) The courageous are confident and the experienced are confident. Therefore the experienced are courageous.
 
-CHAPTERS XX-XXVIII.
+(11) No tale-bearer is to be trusted, and therefore no great talker is to be trusted, for all tale-bearers are great talkers.
 
-1. Fill up the following enthymemes, and state the exact nature of the resulting syllogism--
+(12) Socrates was wise, and wise men alone are happy: therefore Socrates was happy.
 
-(1) If Livy is a faultless historian, we must believe all that he tells us; but that it is impossible to do.
+II.
 
-(2) If they stay abroad, the wife will die; while the husband's lungs will not stand the English climate. It is to be feared therefore that one must fall a victim.
+1. From the major 'No matter thinks' draw, by supplying the minor, the following conclusions--
 
-(3) He is either very good, very bad, or commonplace. But he is not very good.
+(1) Some part of man does not think.
 
-(4) Either a slave is capable of virtue or he is not. .'. Either he ought not to be a slave or he is not a man.
+(2) The soul of man is not matter.
 
-(5) Does not his feebleness of character indicate either a bad training or a natural imbecility?
+(3) Some part of man is not matter.
 
-(6) Those who ask shan't have; those who don't ask don't want.
+(4) Some substance does not think.
 
-(7) If a man be mad, he deviates from the common standard of intellect. .'. If all men be alike mad, no one is mad.
+Name the figured mood into which each syllogism falls.
 
-(8) 'I cannot dig; to beg I am ashamed.'
+2. Construct syllogisms in the following moods and figures, stating whether they are valid or invalid, and giving your reasons in each case--
 
-2. 'The infinite divisibility of space implies that of time. If the latter therefore be impossible, the former must be equally so.' Formulate this argument as an immediate inference.
+AEE in the first figure; EAO in the second; IAI in the third; AII in the fourth.
 
-3. Examine the following arguments--
+3. Prove that 'Brass is not a metal,' using as your middle term 'compound body.'
 
-(1) If we have a dusty spring, there is always a good wheat harvest. We shall therefore have a poor harvest this year, for the spring has not been dusty.
+4. Construct syllogisms to prove or disprove--
 
-(2) Virtues are either feelings, capacities, or states; and as they are neither feelings nor capacities, they must be states.
+(1) Some taxes are necessary.
 
-(3) Everything must be either just or unjust. Justice is a thing, and is not unjust. .'. Justice is just.
+(2) No men are free.
 
-Similarly justice is holy. But the virtues of knowledge, justice, courage, temperance, and holiness were declared to be different from one another. .'. Justice is unholy and holiness unjust.
+(3) Laws are salutary.
+
+5. Prove by a syllogism in Bokardo that 'Some Socialists are not unselfish,' and reduce your syllogism directly and indirectly.
+
+6. Prove the following propositions in the second figure, and reduce the syllogisms you use to the first--
+
+(1) All negroes are not averse to education.
+
+(2) Only murderers should be hanged.
+
+7. Prove in Baroko and also in Ferio that 'Some Irishmen are not Celts.'
+
+8. Construct in words the same syllogism in all the four figures.
+
+9. Invent instances to show that false premisses may give true conclusions.
+
+III.
+
+1. What moods are peculiar to the first, second, and third figures respectively?
+
+2. What moods are common to all the figures?
+
+3. Why can there be no subaltern moods in the third figure?
+
+4. What is the only kind of conclusion that can be drawn in all the figures?
+
+5. Show that IEO violates the special rules of all the figures.
+
+6. In what figures is AEE valid?
+
+7. Show that AEO is superfluous in any figure.
+
+8. Prove that O cannot be a premiss in the first figure, nor a minor premiss anywhere but in the second.
+
+9. Show that in the first figure the conclusion must have the quality of the major premiss and the quantity of the minor.
+
+10. Why do the premisses EA yield a universal conclusion in the first two figures and only a particular one in the last two?
+
+11. Show that AAI is the only mood in the fourth figure in which it is possible for the major term to be distributed in the premiss and undistributed in the conclusion.
+
+12. Why are the premisses of Fesapo and Fresison not transposed in reduction like those of the other moods of the fourth figure?
+
+IV.
+
+1. Why is it sufficient to distribute the middle term once only?
+
+2. Prove that from two affirmative premisses you cannot get a negative conclusion.
+
+3. Prove that there must be at least one more term distributed in the premisses than in the conclusion.
+
+4. Prove that the number of distributed terms in the premisses cannot exceed those in the conclusion by more than two.
+
+5. Prove that the number of undistributed terms in the premisses cannot exceed those in the conclusion by more than one.
+
+6. Prove that wherever the minor premiss is negative, the major must be universal.
+
+7. Prove that wherever the minor term is distributed, the major premiss must be universal.
+
+8. If the middle term be twice distributed, what mood and figure are possible?
+
+9. If the major term of a syllogism be the predicate of the major premiss, what do we know about the minor premiss?
+
+10. When the middle term is distributed in both premisses, what must be the quantity of the conclusion?
+
+11. Prove that if the conclusion be universal, the middle term can only be distributed once in the premisses.
+
+12. Show how it is sometimes possible to draw three different conclusions from the same premisses.

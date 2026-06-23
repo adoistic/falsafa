@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-law-of-accumulation-and-brea-4449c7",
+  "work_title": "The Law of Accumulation and Breakdown of the Capitalist System",
+  "chapter_number": 18,
+  "chapter_title": "The expansion of share capital",
+  "chapter_slug": "18-the-expansion-of-share-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60b62b16-db1c-5adf-a0c9-4f22c7cb32af",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 258,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/ch03.htm"
+    }
+  ]
+}

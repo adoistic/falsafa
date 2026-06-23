@@ -4,7 +4,7 @@ work_slug: "boethius-the-consolation-of-philosophy-88b715"
 work_title: The Consolation of Philosophy
 author_name: Boethius
 chapter_number: 12
-chapter_title: Book iv, prose 2.
+chapter_title: Book iv, prose 2. (1)
 chapter_slug: 12
 variant_id: "93ec739c-e2bf-589b-9fa1-b682785a2c89"
 content_type: translation

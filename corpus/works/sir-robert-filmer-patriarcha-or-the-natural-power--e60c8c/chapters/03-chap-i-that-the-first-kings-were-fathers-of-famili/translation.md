@@ -4,7 +4,7 @@ work_slug: "sir-robert-filmer-patriarcha-or-the-natural-power--e60c8c"
 work_title: Patriarcha, or the Natural Power of Kings
 author_name: Sir Robert Filmer
 chapter_number: 3
-chapter_title: "CHAP I.: That the first Kings were Fathers of Families."
+chapter_title: "Chap I.: That the first Kings were Fathers of Families."
 chapter_slug: "03-chap-i-that-the-first-kings-were-fathers-of-famili"
 variant_id: "0477c54b-1aca-526e-875d-f6bea868a0a4"
 content_type: translation

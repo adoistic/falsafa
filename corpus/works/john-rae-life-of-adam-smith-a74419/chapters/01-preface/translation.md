@@ -4,7 +4,7 @@ work_slug: "john-rae-life-of-adam-smith-a74419"
 work_title: Life of Adam Smith
 author_name: John Rae
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "8c217acc-7681-5c61-9a76-a5c17628aa94"
 content_type: translation

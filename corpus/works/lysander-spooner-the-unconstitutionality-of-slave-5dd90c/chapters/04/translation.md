@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-the-unconstitutionality-of-slave-5dd90c"
 work_title: The Unconstitutionality of Slavery
 author_name: Lysander Spooner
 chapter_number: 4
-chapter_title: "CHAPTER IV.: COLONIAL STATUTES."
+chapter_title: "Chapter IV.: Colonial Statutes."
 chapter_slug: 04
 variant_id: "3bb0a92d-77f6-50a3-bfa5-ab65d459e9bd"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1217
+word_count: 1213
 source_url: "https://oll.libertyfund.org/titles/spooner-the-unconstitutionality-of-slavery-1860"
 translator: Online Library of Liberty edition
 ---
@@ -26,7 +26,7 @@ Slavery, then, being the creature of positive legislation alone, can be created 
 
 In several of the colonies, including some of those where slaves were most numerous, there were either no laws at all defining the persons who might be made slaves, or the laws, which attempted to define them, were so loosely framed that it cannot now be known who are the descendants of those designated as slaves, and who of those held in slavery without any color of law. As the presumption must—under the United States constitution—and indeed under the state constitutions also—be always in favor of liberty, it would probably now be impossible for a slaveholder to prove, in one case in an hundred, that his slave was descended, (through the maternal line, according to the slave code,) from any one who was originally a slave within the description given by the statutes.
 
-When slavery was first introduced into the country, there were no laws at all on the subject. Men bought slaves of the slave traders, as they would have bought horses; and held them, and compelled them to labor, as they would have done horses, that is, by brute force. By common consent among the white race, this practice was tolerated without any law. At length slaves had in this way become so numerous, that some regulations became necessary, and the colonial governments began to pass statutes, which assumed the existence of slaves, although no laws defining the persons who might be made slaves, had ever been enacted. For instance, they passed statutes for the summary trial and punishment of slaves; statutes permitting the masters to chastise and baptize their slaves, and providing that baptism should not be considered, in law, an emancipation of them. Yet all the while no act had been passed declaring who might be slaves. Possession was apparently all the evidence that public sentiment Edition: current; Page: [34] demanded, of a master’s property in his slave. Under such a code, multitudes, who had either never been purchased as slaves, or who had once been emancipated, were doubtless seized and reduced to servitude by individual rapacity, without any more public cognizance of the act, than if the person so seized had been a stray sheep.
+When slavery was first introduced into the country, there were no laws at all on the subject. Men bought slaves of the slave traders, as they would have bought horses; and held them, and compelled them to labor, as they would have done horses, that is, by brute force. By common consent among the white race, this practice was tolerated without any law. At length slaves had in this way become so numerous, that some regulations became necessary, and the colonial governments began to pass statutes, which assumed the existence of slaves, although no laws defining the persons who might be made slaves, had ever been enacted. For instance, they passed statutes for the summary trial and punishment of slaves; statutes permitting the masters to chastise and baptize their slaves, and providing that baptism should not be considered, in law, an emancipation of them. Yet all the while no act had been passed declaring who might be slaves. Possession was apparently all the evidence that public sentiment demanded, of a master’s property in his slave. Under such a code, multitudes, who had either never been purchased as slaves, or who had once been emancipated, were doubtless seized and reduced to servitude by individual rapacity, without any more public cognizance of the act, than if the person so seized had been a stray sheep.
 
 Virginia. Incredible as it may seem, slavery had existed in Virginia fifty years before even a statute was passed for the purpose of declaring who might be slaves; and then the persons were so described as to make the designation of no legal effect, at least as against Africans generally. And it was not until seventy-eight years more, (an hundred and twenty-eight years in all,) that any act was passed that would cover the case of the Africans generally, and make them slaves. Slavery was introduced in 1620, but no act was passed even purporting to declare who might be slaves, until 1670. In that year a statute was passed in these words: “That all servants, not being Christians, imported into this country by shipping, shall be slaves for their lives.”
 

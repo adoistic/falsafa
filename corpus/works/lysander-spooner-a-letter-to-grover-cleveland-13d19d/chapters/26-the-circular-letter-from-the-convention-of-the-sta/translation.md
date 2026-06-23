@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1630
+word_count: 1626
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
@@ -78,7 +78,7 @@ Instead of recognizing it as an absolute guaranty of all the natural rights of t
 
 If, now, Marshall did not see, in this amendment, any legal force or authority, what becomes of his reputation as a constitutional lawyer? If he did see this force and authority, but chose to trample them under his feet, he was a perjured tyrant and traitor.
 
-What, also, are we to think of all the judges,—forty in all,—his associates and Edition: current; Page: [102] successors, who, for eighty years, have been telling the people that the government has all power, and the people no rights? Have they all been mere blockheads, who never read this amendment, or knew nothing of its meaning? Or have they, too, been perjured tyrants and traitors?
+What, also, are we to think of all the judges,—forty in all,—his associates and successors, who, for eighty years, have been telling the people that the government has all power, and the people no rights? Have they all been mere blockheads, who never read this amendment, or knew nothing of its meaning? Or have they, too, been perjured tyrants and traitors?
 
 What, too, becomes of those great constitutional lawyers, as we have called them, who have been supposed to have won such immortal honors, as “expounders of the constitution,” but who seem never to have discovered in it any security for men’s natural rights? Is their apparent ignorance, on this point, to be accounted for by the fact, that that portion of the people, who, by authority of the government, are systematically robbed of all their earnings, beyond a bare subsistence, are not able to pay such fees as are the robbers who are authorized to plunder them?
 

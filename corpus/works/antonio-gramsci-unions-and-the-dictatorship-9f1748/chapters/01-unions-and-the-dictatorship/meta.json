@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-gramsci-unions-and-the-dictatorship-9f1748",
+  "work_title": "Unions and the Dictatorship",
+  "chapter_number": 1,
+  "chapter_title": "Unions and the Dictatorship",
+  "chapter_slug": "01-unions-and-the-dictatorship",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6074f503-81d7-5fd3-a22e-96dbf6f4d621",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1633,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gramsci/1919/10/unions-dictatorship.htm"
+    }
+  ]
+}

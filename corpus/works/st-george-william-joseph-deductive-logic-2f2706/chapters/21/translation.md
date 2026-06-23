@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 21
-chapter_title: Chapter II
+chapter_title: Part I
 chapter_slug: 21
 variant_id: "a51d424f-bdd9-562a-a1da-5c4f822ef12b"
 content_type: translation
@@ -13,33 +13,47 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 89
+word_count: 251
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-Analyse the following propositions into subject, copula and predicate:--
+CHAPTER I.
 
-(1) He being dead yet speaketh.
+Classify the following words according as they are categorematic, syncategorematic or acategorematic;--
 
-(2) There are foolish politicians.
+come peradventure why through inordinately pshaw therefore circumspect puss grand inasmuch stop touch sameness back cage disconsolate candle.
 
-(3) Little does he care.
+CHAPTER II.
 
-(4) There is a land of pure delight.
+Classify the following things according as they are substances, qualities or relations;--
 
-(5) All's well that ends well.
+God likeness weight blueness grass imposition ocean introduction thinness man air spirit Socrates raillery heat mortality plum fire.
 
-(6) Sweet is the breath of morn.
+CHAPTER III.
 
-(7) Now it came to pass that the beggar died.
+1. Give six instances each of-attribute, abstract, singular, privative, equivocal and relative terms.
 
-(8) Who runs may read.
+2. Select from the following list of words such as are terms, and state whether they are (1) abstract or concrete, (2) singular or common, (3) univocal or equivocal:--
 
-(9) Great is Diana of the Ephesians.
+van table however enter decidedly tiresome very butt Solomon infection bluff Czar short although Caesarism distance elderly Nihilist.
 
-(10) Such things are.
+3. Which of the following words are abstract terms?--
 
-(11) Not more than others I deserve.
+quadruped event through hate desirability thorough fact expressly thoroughness faction wish light inconvenient will garden inconvenience volition grind.
 
-(12) The day will come when Ilium's towers shall perish.
+4. Refer the following terms to their proper place under each of the divisions in the scheme:--
+
+horse husband London free lump empty liberty rational capital impotent reason Capitol impetuosity irrationality grave impulsive double calf.
+
+5. Give six instances each of proper names and designations.
+
+6. Give six instances each of connotative and non-connotative terms.
+
+7. Give the extension and intension of--
+
+sermon animal sky clock square gold sport fish element bird student fluid art river line gas servant language
+
+CHAPTER IV.
+
+Arrange the following terms in order of extension--carnivorous, thing, matter, mammal, organism, vertebrate, cat, substance, animal.

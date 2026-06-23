@@ -1,0 +1,329 @@
+---
+work_id: "5956bf51-2603-57dc-919d-d5a8aff04d9a"
+work_slug: "herman-gorter-the-world-revolution-5956bf"
+work_title: The World Revolution
+author_name: Herman Gorter
+chapter_number: 3
+chapter_title: "Chapter 2: No Other Way out for the World's Proletariat"
+chapter_slug: 03
+variant_id: "b3a2bfa7-a601-5e78-831a-4447e6f95919"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 5544
+source_url: "https://www.marxists.org/archive/gorter/1918/world-revolution.htm"
+translator: Hugh McMillan
+---
+
+"The Imperialism of both groups is alike terrible for the proletariat.
+
+It can only be destroyed by a united world proletariat.
+
+The world revolution is therefore a necessity."
+
+This that we said in the first chapter should be sufficient. It should be sufficient that all Imperialisms, that the Imperialisms of both groups of all nations, are alike terrible for the proletariat, and that therefore the proletariat of all nations ought to unite to destroy Imperialism.
+
+We should go on to prove that the destruction of Imperialism, the world revolution, is possible for the proletariat if the governments, the bourgeoisie, the social-patriots, and the pseudo-Marxists of all countries, the Majority and Minority in France and Italy, the Majority and the Independents of Germany, the Labour Party and the pacifist Socialists in England, and all the great Socialist parties of the United States—in short, all Capitalists and all Socialists in the world, with the exception of the real revolutionaries, had not made it appear to the workers that between Socialism and Imperialism there was still another way out.
+
+They had told the workers that after the war Imperialism and Imperialistic Capitalism would bring about disarmament, compulsory arbitration, a League of Nations, and a general peace. The Capitalists, the social-patriots, the psuedo-Marxists [sic], the Labour Party and the pacifist Socialists in England, the Majority and the Independents in Germany, the Majority and the Minority in France and Italy, and the Socialists in the United States, said this in order to hold back the world proletariat from revolution.
+
+It was represented to them that if Capitalism was able to stop the war, it would be able to develop peacefully, and the world revolution would not then be necessary.
+
+Since these representations have a powerful counter-revolutionary significance, especially on account of the number and the power of those who make them, it is the duty of every revolutionary to prove again and again that they are false.
+
+Before going on to show the practicability of a revolution we shall state what will happen.
+
+In all Capitalistic States, in all Capitalistic nations, millions and millions of workers in their own countries and in the Colonies will produce quantities of new surplus wealth every year.
+
+This mass of wealth will grow continually greater year by year, and will be added to the old capital.
+
+There are still many countries in the world with great natural treasures and weak populations, from whom colossal profits can be extracted.
+
+New capital seeks these fields of exploitation.
+
+This is the cause of Imperialism.
+
+All the countries of the earth already have masters.
+
+The earth is already divided up.
+
+The nations must fight to get the best places.
+
+This is the cause of Imperialist wars.
+
+There are three particular Capitalistic States whose mass of capital has grown so large that they quarrel with each other in every corner of the earth for profit.
+
+These are England, Germany, and the United States.
+
+The millions of workers in England, Germany, and the United States of America, have worked so hard for so many years with such unceasing energy that the Capitalists in these countries aim at the monopoly of world power.
+
+These three gigantic nations now fight really for the domination of the world.
+
+Do not say that this picture is overdrawn, that no one nation or group of nations will ever be able to succeed in dominating the world. For the nature of capital is such that it creates ever more surplus wealth, that it can produce unlimited quantities of surplus wealth if it can only obtain ever more workers, raw materials, and machines. Every powerful Capitalist State, every powerful Capitalist nation, feels, therefore, that if it had only more countries subject to it, the existence of capital gives to it the possibility of at last being able to conquer the world.
+
+These three giants rise out of the struggle of all Capitalist nations.
+
+And two of them, England—and by this name we mean the British World Empire, England with her Colonies and dominions—and the United States have combined, perhaps for a long time, perhaps for a short time, perhaps for ever, in order to strive for the domination of the world.
+
+And as in the economic struggle, the most powerful syndicates ultimately absorb the smaller companies, so also these three great powers unite all the lesser ones in two groups in order to carry on the world struggle.
+
+The development of Capitalism has reached its highest point. Only a few gladiators remain in the arena.
+
+International Capitalism now approaches the struggle through which it will be brought to an end.
+
+And just as the struggles of the small cities in the Middle Ages resulted in the formation of the little Medieval States; and just as the struggle between these little States resulted in the formation of great national States—so now there is being formed, as a result of the struggle between the great; national States, the two groups, the great alliances, the two Leagues of Nations.
+
+In and through the struggles of the medieval cities arose the power of the small burgher or citizen.
+
+In and through the struggles of the national States arose the power of the great bourgeoisie. In and through the struggles of the groups of nations arose the power of the great Capitalists, of the monopolists of industry, of the banks and of the trusts.
+
+And just as the burghers and the bourgeoisie arose through the struggles of the princes, the nobles and the Church, so also will arise now, out of the struggle of all the Capitalist nations, out of the struggles of the monopolist who wish to dominate all countries, another, a third power—the proletariat of the world.
+
+And whilst the two greatest powers of the earth, the two groups of all the Capitalistic nations, and the monopolists of all lands struggle for the domination of the world, the world proletariat will rise up against them and become masters of the world.
+
+Capitalism, having attained its highest point, blossomed into monopoly, and in its struggle for the monopoly of the earth it shall be destroyed by the proletariat.
+
+In its perfect bloom, its last and greatest straining every muscle, developed to the highest pitch to struggle for the monopoly of world power, it is broken in the struggle for its existence, and out of the last blaze of its power a new world stands forth.
+
+Capitalism began with private ownership.
+
+The few Capitalists have grown through the possession of capital into a numerous and powerful class. This has developed into, the possession of all capital and its direction by a few.
+
+And it dies in full bloom. The blossoms fall and the new world steps forth.
+
+The workers at the end of the eighteenth Century united to fight their employers. The Socialists in the middle of the nineteenth Century united in national parties to fight the national bourgeoisie. They now unite internationally to fight the international bourgeoisie.
+
+And in this unity they will conquer.
+
+Why do not the national Capitalists unite with each other? Why do not Germany, England and the United States unite? Why do they not work together for the exploitation of all the workers—and of all the world? For then their power would be much greater; they would not need to fight with one another, and they would be able to prevent the proletariat from fighting, perhaps, for the revolution.
+
+The answer is, firstly: Their capitals are national and not international. The international capitals in comparison with the national capitals are only a very small part of capital.
+
+And secondly: The national Capitalists have different interests and different aims.
+
+What are their aims? What are the aims of the three great nations? As we have already said, Germany wants to subjugate Belgium, Poland, France, Russia, Austria-Hungary, the Balkans, Turkey, Asia Minor, Armenia, Mesopotamia, Syria, Persia, perhaps Siberia, and other parts of Asia, thus making the first step towards world domination. Established on the coasts of the Indian Ocean she is then ready for the second world war to capture India, the Pacific Ocean, and all the countries bordering it; then Africa, and the domination of the world.
+
+England wants to spread her World Empire over Africa, through Asia to India.
+
+The United States want to rule on the Pacific Ocean, in China, in the Indian Archipelago, in Polynesia, in Central and South America, and perhaps in the northern part of Asia. Then England and the United States will rule almost the whole world.
+
+And by what means can the three reach their goal, world domination?
+
+As we have already said, Germany through the union of Europe under her leadership: the United States and the English World Empire through the breaking up of Europe.
+
+And how will they obtain these means?
+
+By fighting, by war.
+
+Just imagine to yourselves, workers of Europe and America, workers of the world, whom they want to deceive and keep under Capitalism, and hold back from revolution with the hope that world peace, disarmament, and a League of Nations are possible—just imagine to yourselves that the war is ended. Imagine that the slaughter of humanity is over. Imagine in the first place that England and America have won. Then are Africa and Asia, Central and South America, and all the world markets, practically in their power; and the Continent of Europe is helpless.
+
+Then imagine to yourselves that Germany has won. Then Germany has a part of Africa and stands before the gates of India, and probably also before those of China.
+
+Then imagine to yourselves that neither of them has won. Then the situation is the same as before the war.
+
+Place these three cases—the only three possibilities—clearly before your eyes, and ask yourself then: Will there be no more, wars after this one?
+
+If England and the United States win, will a weakened and broken-up Europe suffer that? Will Germany not place herself at the head of Europe and try to rise again?
+
+And now put the second case clearly before your eyes. Germany at the end of the war, after "peace has been signed, stands at the gates of India and China, and within the gates stand the English and American powers.
+
+What will happen? Think upon it, workers. Will England and the United States not try to drive Germany back?
+
+Now place the third case before your eyes. The war ends without a decision. There is no victor and no vanquished. Then all remain as they were before the war—Germany encircled by England and her Allies, and continuing to arm and prepare for the world war. Will Germany now disarm, and will England and America refrain from pressing her?
+
+Consider how these great powers jostle each other now. They stand on one another's borders. Remember that on the other side of their boundaries lie countries that offer splendid opportunities for Capitalist Exploitation at the highest possible profit. Remember that the two groups want the same lands—Africa and Asia, and now Russia. Remember that these countries are abundantly rich, and yet almost unexploited. Millions, nay, billions, there await the exploiter. Worker, remember the nature of capital. Its substance is spreading in ever greater quantities. Consider that through your labour and through that of all the peoples subject to, or allied with, the two groups, the power of capital continually increases. The two groups stand facing each other on the frontiers. Within their boundaries is the ever-growing mass of capital. And without lies the booty—Profit.
+
+What do you think, then? Will there be another war?
+
+You can give no other answer but yes.
+
+So long as the Capitalists of Germany, England, and the United States have different aims and want to possess the same countries and to dominate the world; so long as they remain national and not international, there will be war.
+
+The possibility of disarmament, of the League of Nations, of general peace, has been refuted. Enough has been said for any discerning worker.
+
+But since the blood-dripping Governments, the Capitalists, the Social Patriots, and the pseudo-Marxists, still seek by many arguments to betray and deceive the workers, we are obliged to attack and expose them.
+
+The Governments and bourgeois parties of all countries, the Social Patriots and false radicals, the Majority and the Independent Socialists in Germany, the Majority and Minority in France, the Labour Party and the Pacifist Socialists in England, and all the great Socialist Parties in the United States who propagate the ideas of peace, disarmament, or the reduction of armaments, all those who made the war, or permitted it, all must show how these are possible and in what way they can be accomplished. They ought to show, not by hollow phrases, but by facts, what they think about the Peace arrangements.
+
+Which parts of the earth ought England, Germany, or the United States, to receive?
+
+Which parts should go to the little nations, or to France, Italy, Japan, Austria, Hungary, Turkey, etc.? They ought to show this on the map so that everybody can see that it is right and just, and that no new wars shall come out of the Treaty. They should show in what manner the territories should be divided, and how confidence can be established among the various nations, so that they may discontinue military preparations.
+
+Workers, they are unable to do this. When asked to deal with concrete facts they refuse. Up to the present time nobody has been able to define boundaries on the map which would give satisfaction to every Power. Their talk is specious—empty words—hollow catch-phrases without significance. President Wilson, the sanguinary humanitarian of the United States, and all the Capitalist Governments, never cease to mouth the phrases, Justice! Freedom! Right!
+
+The Governments of the bourgeoisie, the reformists dripping with blood, say: "Establish a political Trust of Nations similar to the economic trusts formed by the Capitalists. This would obviate competition, and the nations would work together, but in different spheres. In this way England, Germany, and the United States, of America, would divide up the world and establish a Trust for their profit."
+
+This comparison with Trusts is misleading. There is a most decided difference. One which has prevented States in ancient times from forming a Trust for the exploitation of the world.
+
+The difference is this: The economic trust deals with dead things; with gold and merchandise. These it can easily rule nationally and internationally.
+
+But States are living forms comprised of human beings, and everything that lives develops. Thus it would happen, even were a satisfactory division and regulation arrived at, that after a short time conditions would alter. The economic and capital power would change so that one of the masters would be more powerful than the others; or the subject nation would become strong enough to shake off the yoke and become masters themselves. Then we should have another war.
+
+Human beings cannot be united in such a Trust or League. The nations of old, who aimed at world power, tried it and failed. It cannot be done now.
+
+The hypocritical bourgeoisie and the German Government, who have murdered thousands, yes, tens of thousands, of sailors, give out the cry: "The Freedom of the Seas. Give us that and war will end." But in peace time the seas were free. The war has made no difference in that respect.
+
+The gory Capitalists and Governments, who began the war on account of profit and trade competition, say: "Free Trade—give us Free Trade, no preferential tariffs or taxes—then shall we have peace."
+
+But how do they establish trade in primitive countries—in Central Africa? By Force, by Murder and War!
+
+This war only decides who shall carry the weapons; who shall perpetrate the murders—Germany or England.
+
+Business prospers best where the business people have political power. If these primitive countries are free to all alike, a struggle for political power must ensue sooner or later.
+
+Trade, however, is no longer the principal object. This is now Capital Export; the making of new capital. It expresses itself in roads, harbours, factories and railways.
+
+How does this Imperialism realise itself in Asia and Africa; how are the arrangements for Capitalist production brought about, with its consequent expropriation and proletarising of the natives? By force! And war alone will decide which particular nation shall be the expropriator.
+
+The tender pacifists and those Socialists who, by their pacifism hypnotised the workers and helped to cause the war, they also are dripping with blood. They say: "The costs of another world-war would be too great in money and men." But the millions for the conquest of Africa and Asia will bring their fruit in the shape of billions of interest.
+
+Italy, Roumania, and the United States of America did not enter the war before they knew what it would cost.
+
+Is not this demand for unity laughable so long as the interests and strength of the nations are so decidedly different; when so many weak nations can be quite easily destroyed? Is it not ridiculous?
+
+If England and the United States of America believe they are able to seize everything, why should they ally themselves with Germany? If Germany wins, why should she not trust in the improvement of weapons of war to obtain more? If the British Empire and the United States of America possess within themselves almost inexhaustible sources of wealth, why should they unite with others and divide with them their profits, which may expand enormously?
+
+So long as Germany believes she can shatter opposition by her military power, why should she share her power with others?
+
+So long as there remain such extensive territories for Capitalism to conquer—as China, the Near East, Lower India, parts of Central Asia, and of Africa—so long as there remain so many weak nations to subject, just so long will States trust in their own power and worship the idol of their own Imperialism.
+
+Should Germany conquer England or the United States of America, those States would inevitably revolt again. And if either of the former beat Germany, she, too, would never endure it, but would rise again.
+
+It is obvious that the opposing national interests will prevent a League of Nations being anything but a sham. There will, indeed, be established "Leagues of Nations," but they will be but alliances of special groups, and will have as their object the more vigorous exploitation of weaker nations and to carry on war against rivals.
+
+The phrase-mongers, the Capitalist Governments, the false Socialists in all lands, all those who for the sake of their country betrayed the cause of peace—they say: "Establish an International Police Force from amongst the nations, which shall punish all aggressors; and a High Court of Arbitration which shall decide who is guilty."
+
+This is the most absurd proposal of all, for there is no surer method of advancing competition in armaments than this.
+
+The Capitalist State, like man, is sinful. It was born of ambition, and gain and lust. These are the original sins of Capitalism, to which it is predestined through the "fall" of private property.
+
+Every State will be afraid to sin for fear of a united attack by the others. Because of this it must prepare a defence against all the others in order to attain its ambitions. It must develop an army and navy capable of combatting them all. They all know that "interests" will dominate their judgment, and they know also that it is possible for the decision to be in favour of an offender. They know that their interests may be on the side of an offender, and they would then defend him and oppose the League. With this eventuality before them they would prepare huge armies and navies. They will arm and fight as before, only including the "International Police" in their armoury of cant-phrases.
+
+"Self-Determination for Nations" is another cry of these complacent humbugs. "If only every nation were independent or voluntarily united, then the prime cause of war will disappear."
+
+But the Great War shows that the opposite is the case. Existing small nations like Belgium, Serbia, Montenegro, Greece, etc., or possible nations like Poland, Esthonia, Courland, and Finland—all would still be bones of contention amongst the great Powers.
+
+The Russian Revolution has surely made the right of Self-Determination one of the bases of the Revolution; they have made it one of their principles: but with this vital difference—they introduce Socialism at the same time. Without Self-Determination they could not have effected the Revolution. But they showed also that Self-Determination under Imperialism was impossible.
+
+And if it be said that the Self-Determination promised by Germany is only an appearance, even so can it be said of England and America. It will separate the nations from one another and perpetuate their weakness. This sort of Independence can be even worse for a nation than subjection.
+
+It will be shown in a most terrible way that Self-Determination can only follow and not precede Socialism.
+
+Capitalism, and especially Imperialism, cannot settle the question of nationality. Either they must grant the small nations independence, in which case they become the envy of the large nations, or subject and annex them.
+
+Germany follows the latter method in Europe. She wants the whole of Europe under her domination in order to light England.
+
+England and the United States of America follow the first method. They want Europe to remain weak, with no great Power on the Continent, and whilst small nations are quarrelling amongst themselves, to build up a colonial system and world domination without hindrance.
+
+Capitalism is here in a cleft-stick. It cannot grant independence to small nations without making them objects of war; it cannot unite them without subjecting them; and in either case it plants the seed of another world-war.
+
+The Capitalist Governments and their underlings all say: "Disarmament by degrees." But how can they disarm whilst they continue to threaten one another?
+
+How can Germany disarm when her enemies dominate the world and have made Europe powerless? It would be suicide—it would ruin Europe.
+
+As we are of a different opinion to some of our comrades who belong to the Extreme Left, and as this question is closely related to the whole problem of the liberation of the workers from Imperialism and war, we would like to go a little deeper into it.
+
+Many Socialists propose as a means of bringing the war to an end the formula: "No Annexations and no indemnities." But these conditions cannot be put forward by the proletariat of the world; for their fulfilment would leave Capitalism exactly where it is, and could be followed only by new arming and new wars.
+
+But even revolutionary demands, as demands, which the working class may put forward to upset the Government and simplify the revolution; even these are of no avail, for as soon as a Government gets into a tight corner it will adopt these demands itself (as Germany did in 1917), announce them as its own aims, and retort to the workers: "See, our demands are yours," and thereby break the revolution.
+
+"No annexations and no indemnities" does not provide a way out.
+
+That is the horror of the situation, and nothing shows more clearly the catastrophic nature of the crisis to which Imperialism has brought society.
+
+Capitalist nations cannot arrive at any peace between themselves, neither during the war nor after.
+
+They are compelled at all times to wade deeper in the blood-bath. The proletariat under Imperialism can only have Imperialistic peace or Imperialistic war; and every Imperialist war means a new and more dreadful Imperialism; and every Imperialistic peace means a new and more dreadful war.
+
+There is only one way out of Imperialism, and war: the Revolution.
+
+The Capitalist Governments, of England, France, and the United States of America, together with those pretended Socialists who threw away their power and gave themselves completely to the Military General Staffs; who made no real attempt to secure peace—they are entirely responsible for the war; they are the servants of the General Staffs, and, like them, reek with blood. They talk "Democracy." If only we had democracy established in Germany and Austria-Hungary, the democracies of the world would make peace. But the plutocratic Republic of France is a "democracy," and world-dominating Britain is a "democracy," and America, land of trusts and monopolies, armed strike-breakers who organise legal murders of the workers' leaders, is also a "democracy." Have they done anything to prevent war? No! England, through her policy under Edward VII of encircling Germany, helped to bring it on. America joined in as soon as she discovered that it was a fight for world-domination. And will these democracies make peace if they win? If Germany and a stricken Europe threaten them with war, or if the Allies are beaten and Germany at the head of all the nations of Europe threatens them still further, will they make peace? No!
+
+In the making of capital abroad, absolute Monarchies and democratic Republics are alike. In the greed of power, the lust of profit, all nations are alike.
+
+Monarchies and democracies under Imperialism are hells, full of the same damnation: expansion over the world, the fight for world domination.
+
+Monarchies, principalities, and democratic Parliaments, all are equally obedient servants of Imperialist Capitalism and financial interests. Both of these want war, and the institutions are tools in their hands. These two interests, through their representatives on the Governments and General Staffs, dictate to the Parliaments what must be done. The Parliaments and other institutions only possess power so long as they are obedient to the Capitalist forces.
+
+This power will only be overthrown by the triumph of the peoples, and until the workers themselves obtain control, world peace is impossible.
+
+The best example of the truth of this assertion is to be seen in President Wilson, the servant of the American trusts and monopolies, which, in order to secure world-power for themselves, are building armies and fleets powerful enough to secure victory in all future wars.
+
+These are the principal solutions which the Governments, Social Patriots, and pseudo-Socialists propose to lead Capitalism out of Imperialism.
+
+We have shown them to be false, that none of them stand a moment's investigation by a clear and searching eye. Theoretically, the investigation shows no way out of Imperialism for Capitalism. But the proletariat should not depend upon theory alone, but also on realities.
+
+Already the earth trembles under new wars. Germany has Poland and Belgium and part of France in her power. She has broken up Russia, taken possession of the Ukraine, the Caucasus and Finland; annexed Livonia, Esthonia and Courland, and reduced Greater Russia to helplessness. She will do the same with the rest of Europe. This has been approved not only by the Monarchists of Germany, but by the Democrats and Social Democrats as well—at least by the Majority.
+
+England and America will not suffer this. Is this world peace? Is this disarmament? This is an assurance, an absolute assurance, of a new war.
+
+If America and England are victorious they will make all the nations of Europe independent. They have openly stated their intention to do so.
+
+This means they will break Europe up into small pieces and allow internal jealousies full play; that they will create internal hells in Germany, Austria-Hungary, Poland, the Balkans, and Russia; and thus become undisputed masters of the world. That is the aim of their hypocritical Lloyd George and President Wilson. All the Parties agree with them, not only the Conservatives, but also the Democrats and the Socialist Majorities. Europe will never suffer that. It will rise under the leadership of Germany and fight. Is this world peace? World arbitration and disarmament? No! It is an absolute assurance of a new world war—of a succession of world wars.
+
+Proletarians take heed! Notice only the realities about you. Look at the war volcanoes blazing around you in Europe, Alsace-Lorraine, Poland, Russia, the Balkans, Asia, and also in Africa.
+
+Imperialism remains, competition in armaments remains, war remains.
+
+Workers! Remember that: the Governments and the Social Patriots said all these things before the war.
+
+Remember, proletariat of the world, that they want to deceive you again, and that after this war they will make a new compromise, a new alliance with the bourgeoisie. Remember, workers, that the great social democratic Parties at their Congress in Copenhagen and Basle spoke about world peace and general disarmament. What good has it done? None; war has broken out again.
+
+Remember, workers, proletariat of the world, that by these watchwords, world peace, disarmament, etc., have the bourgeoisie kept their power over you. Through these watchwords they held you back from revolution.
+
+The bourgeoisie knew when you accepted these watch-words that you agreed to try peaceful means, and that you had given up the only real means—revolution against war. They also knew that they could make war without any danger of your rising in revolt, and, therefore, they have made this war. These watchwords enabled them to do so.
+
+Workers, will you continue to be befooled by such catch-phrases? Will you be deceived again by the Capitalists and their Governments, and their henchmen, the false Socialists?
+
+The Czar of Russia and all the Governments held a Conference at the Hague, and said they wanted to found a Court of Arbitration. That was only to deceive you.
+
+By these devices they have led you and kept you in the grip of war.
+
+The Social Patriots have urged you to "fight for world peace and disarmament."
+
+By this means they brought you into the war, and in July-August, 1914, held you back from revolution, because you we re not prepared for revolution; you had placed your hopes in disarmament and world peace.
+
+They have trapped you into the war by their watch-words. Will you accept them again and go to war?
+
+That is impossible, for by so doing you will be causing a third war, and perhaps further wars.
+
+It is the use of these watchwords which help to continue the war and increase the slaughter. They restrain you from revolution by promising disarmament, world peace, and a League of Nations when once peace is established, and they vote the war credits without opposition.
+
+Trusting their promises you say: "Let us see it through, for surely the better thing will come." But your hopes are false, and, through these very hopes is the slaughter maintained and intensified.
+
+During and after the war these watchwords will be more deceptive than formerly, for war has bred hat red deep into the hearts of the nations, drawn them further apart, made their interests more opposing and conflicting, and, as we have already shown, created fresh causes of war.
+
+The mass of capital grows; need for expansion increases; the interest in new wars becomes more powerful in all parts of the world. New world-wars are much more certain than before this one commenced.
+
+Will you allow yourselves again to be deluded by their catch-phrases?
+
+They have given you a false picture of the world peace. Just because of that came the world war, and what is worse, the war of the workers against one another. They gave a false picture of the League of Nations, and as a consequence have split the proletariat into national parties.
+
+Will you allow yourselves to be deceived again? If you do, another war will come, more frightful than was this, with a fresh Splitting of the proletariat.
+
+There was but one way out of this war, and there is but one way of saving us from it—the working class Revolution.
+
+Workers, the Capitalists of the world have organised themselves into gigantic groups. In these groups they have concentrated their whole strength for the conquest of the world for the purpose of fighting each other for domination. In this struggle between the Powers, you, the workers, will be oppressed and scattered, killed and maimed, for many years to come. There is no way out for Capitalism from Imperialism.
+
+The Capitalists, who can only survive by war, now organise in two groups to fight for the mastery of the world—they can find no way out, but stick fast in the mire.
+
+Workers of the world, the way out of war and Imperialism does not lie through "Justice," "Freedom of the Seas," "Free Trade," "Peace without Annexations or Indemnities," "League of Nations," "Compulsory Arbitration," or "The Right of Self-Determination." These are all lies and deceitful frauds used to bind you tighter to Imperialism and to strengthen it.
+
+There is no Justice for you or yours in Capitalism.
+
+There is only one Justice for you.
+
+There is only one Freedom—the freedom of the proletariat.
+
+There is only one Peace—that is Communism.
+
+There is no Capitalist path from Imperialism, but there is a proletarian way; that is to overthrow Capitalism. You can do this if you, the workers, are united in one great World League; then you can destroy the Imperialisms of the entire world.
+
+The Revolution—the World Revolution—that, and that only is the way out.
+
+Imperialism cannot be overthrown except by the destruction of Capitalism.
+
+This is no prophecy—it is only the plain, unvarnished truth—a truth verified in actuality by the Russian Revolution.

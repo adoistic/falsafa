@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 51,
+  "chapter_title": "Chapter XII: Why The Americans Raise Some Monuments So Insignificant, And Others So Important",
+  "chapter_slug": "51",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfb33036-2198-59d2-9a30-d36ac2b3e049",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 564,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch23.htm"
+    }
+  ]
+}

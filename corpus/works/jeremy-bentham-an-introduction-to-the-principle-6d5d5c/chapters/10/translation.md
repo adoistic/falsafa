@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 10
-chapter_title: "Chapter IX: OF CONSCIOUSNESS"
+chapter_title: "Chapter IX: Of Consciousness"
 chapter_slug: 10
 variant_id: "8d7a346a-6c53-5e2b-966b-603f329ab4ad"
 content_type: translation

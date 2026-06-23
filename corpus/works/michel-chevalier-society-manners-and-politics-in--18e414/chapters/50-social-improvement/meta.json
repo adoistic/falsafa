@@ -1,0 +1,26 @@
+{
+  "work_slug": "michel-chevalier-society-manners-and-politics-in--18e414",
+  "work_title": "Society, Manners, and Politics in the United States",
+  "chapter_number": 50,
+  "chapter_title": "Social Improvement.",
+  "chapter_slug": "50-social-improvement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9803dd5f-5e57-53f0-8fcd-0ceeee58df9d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5712,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chevalier-society-manners-and-politics-in-the-united-states"
+    }
+  ]
+}

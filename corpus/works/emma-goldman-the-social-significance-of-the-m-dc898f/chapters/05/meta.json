@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 5,
+  "chapter_title": "Part 1, Chapter 4: Ghosts",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c26833ae-6983-5d46-b041-d03d5b680a2f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2231,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-1-chapter-4.html"
+    }
+  ]
+}

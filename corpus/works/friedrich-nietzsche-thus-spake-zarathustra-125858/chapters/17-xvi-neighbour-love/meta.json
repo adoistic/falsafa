@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 17,
+  "chapter_title": "XVI. Neighbour-love.",
+  "chapter_slug": "17-xvi-neighbour-love",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d8622019-afb9-5950-8231-dc21faab8e4e",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 488,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0c60a855-f064-57ed-9381-f47c5ea30794",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 512,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

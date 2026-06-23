@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-on-leisure-c2b4a0",
+  "work_title": "On Leisure",
+  "chapter_number": 1,
+  "chapter_title": "On Leisure",
+  "chapter_slug": "01-on-leisure",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b0b70543-ce8f-568c-a394-99bdb86e4972",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2051,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0255.stoa011"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "51460694-760d-501f-88ea-14d42459b473",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3131,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-social-revolution-and-on-the-4a4d88",
+  "work_title": "The Social Revolution (and On the Day After the Social Revolution)",
+  "chapter_number": 8,
+  "chapter_title": "Democracy",
+  "chapter_slug": "08-democracy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ecf91cb-d732-5fcf-8eb3-c585098a45e7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4354,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1902/socrev/pt1-3.htm"
+    }
+  ]
+}

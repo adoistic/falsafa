@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-wage-labour-and-capital-9aa66b",
+  "work_title": "Wage Labour and Capital",
+  "chapter_number": 1,
+  "chapter_title": "Introduction",
+  "chapter_slug": "01-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e01afe7-2e22-5dfd-901a-8f16e6b7052b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3461,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1847/wage-labour/intro.htm"
+    }
+  ]
+}

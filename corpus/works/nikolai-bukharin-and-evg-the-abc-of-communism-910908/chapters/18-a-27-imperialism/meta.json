@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 18,
+  "chapter_title": "Â§ 27 Imperialism",
+  "chapter_slug": "18-a-27-imperialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cad09a89-48b7-575f-841c-cb6b4e7c8839",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3660,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/04.htm"
+    }
+  ]
+}

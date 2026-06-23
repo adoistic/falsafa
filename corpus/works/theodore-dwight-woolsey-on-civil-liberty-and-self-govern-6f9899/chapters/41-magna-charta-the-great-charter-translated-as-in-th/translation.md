@@ -4,7 +4,7 @@ work_slug: "theodore-dwight-woolsey-on-civil-liberty-and-self-govern-6f9899"
 work_title: "On Civil Liberty and Self-Government"
 author_name: Theodore Dwight Woolsey
 chapter_number: 41
-chapter_title: MAGNA CHARTA, THE GREAT CHARTER, (translated as in the statutes at large,) made in the ninth year of king henry the thir
+chapter_title: Magna Charta, the Great Charter, (translated as in the statutes at large,) made in the ninth year of king henry the thir
 chapter_slug: "41-magna-charta-the-great-charter-translated-as-in-th"
 variant_id: "b9439a40-eda3-59e1-84e8-848774f962fc"
 content_type: translation

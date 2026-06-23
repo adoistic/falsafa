@@ -4,7 +4,8 @@ slug: "pausanias-description-of-greece-ff35dc"
 title: Description of Greece
 author:
   name: Pausanias
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Greek geographer and traveler of the Roman imperial period, active in the second century AD under the Antonines. His Description of Greece guided readers through the monuments, cults, and topography of the Greek mainland and remains a primary source for ancient art and religion.
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

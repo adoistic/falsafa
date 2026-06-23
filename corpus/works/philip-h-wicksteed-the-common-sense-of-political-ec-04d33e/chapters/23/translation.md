@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 23
-chapter_title: "CHAPTER II: SOME FURTHER ANALYSES"
+chapter_title: "Chapter II: Some Further Analyses"
 chapter_slug: 23
 variant_id: "434e94c4-8bf1-54fc-974c-2e1f31f74346"
 content_type: translation

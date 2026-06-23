@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 17,
+  "chapter_title": "XV. China",
+  "chapter_slug": "17-xv-china",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "535cf2a3-c481-52c7-b8bc-d8980f2a65b1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5381,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter15.htm"
+    }
+  ]
+}

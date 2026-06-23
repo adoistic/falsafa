@@ -1,0 +1,29 @@
+---
+work_id: "91090895-15d4-5b6e-910b-6000eba69791"
+work_slug: "nikolai-bukharin-and-evg-the-abc-of-communism-910908"
+work_title: The ABC of Communism
+author_name: Nikolai Bukharin and Evgeni Preobrazhensky
+chapter_number: 35
+chapter_title: Â§ 56. The unity of the proletariat
+chapter_slug: "35-a-56-the-unity-of-the-proletariat"
+variant_id: "54d7b12a-67a0-51b0-8234-399641dbf64f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 691
+source_url: "https://www.marxists.org/archive/bukharin/works/1920/abc/07.htm"
+translator: Marxists Internet Archive edition
+---
+
+First of all, however, we must propound and decide an extremely important and fundamental problem. Should the Russian worker and the Russian peasant look upon the Germans, the French, the British, the Jews, the Chinese, or the Tartars, as enemies, irrespective of the class to which these belong? Are the Russian workers and peasants entitled to hate or to regard with suspicion those who belong to another nation, for the sole reason that these latter speak a different tongue, that their skins are black or yellow, that they have different customs and laws? Obviously, this would be quite wrong. The German workers, the French workers, the Negro workers, are just as much proletarians as the Russians are. No matter what tongue the workers of other lands may speak, the essential feature of their condition lies in this, that they are all exploited by capital, that they are all comrades, that they all alike suffer from poverty, oppression, and injustice.
+
+Is the Russian worker to love the Russian capitalist because his fellow- countryman abuses him in the familiar Russian terms, because his employer cuffs him with a Russian fist, or lashes him with a Russian whip? Of course not. Nor is the German workman likely to love the German capitalist any better because the latter taunts him in the German language and after the German fashion. The workers of all lands are brothers of one class, and they are the enemies of the capitalists of all lands.
+
+The same considerations apply in the case of the poor peasants of every nation. To the Russian peasant (the poor peasant or the middle peasant), the semi-proletarian peasant of Hungary, or the poor peasant of Sicily or Belgium, is nearer and dearer than can possibly be the rich peasant of his own land who exploits him, or the skinflint landlord who happens to be born on Russian soil and to speak the Russian tongue.
+
+But the workers of the whole world must not merely recognize themselves to be brothers by class, to be brothers in oppression and slavery. It would do no good if they were to rest content with railing against their capitalist compatriots in their respective tongues; if in each land the sufferers were to wipe one another's tears, and only within their own State were to carry on the struggle against the enemy. Brothers in oppression and slavery must be brothers in one world-wide league for the struggle with the capitalists. Forgetting all the national differences that tend to hinder union, they must unite in one great army to carry on a joint war against capitalism. Only by closing their ranks in such an international alliance, can they hope to conquer world capitalism. This is why, more than seventy years ago, the founders of communism, Marx and Engels, in their famous Communist Manifesto, fulminated the splendid slogan: 'Proletarians of all lands, unite!'
+
+It is essential that the working class should overcome all national prejudices and national enmities. This is requisite, not only for the world-wide attack upon capital and for the complete overthrow of the capitalist system, but also for the organization of a single world-wide economic system. Soviet Russia cannot exist without Donetz coal, Baku mineral oil, Turkestan cotton; but it is just as true that Central and Western Europe cannot do without Russian wood, hemp, flax, and platinum, or without American wheat; it is just as true that Italy finds British coal a vital necessity, and that Britain urgently needs Egyptian cotton, etc., etc. The bourgeoisie has found itself unable to organize a world economy, and the bourgeois system has been shipwrecked upon this difficulty. The proletariat is alone competent to organize such a system with success. To this end, however, it must proclaim the watchword, 'All the world and all the wealth that it contains belong to the whole world of labour.' This watchword implies that the German workers must completely renounce their national wealth, the British theirs, and so on. If national prejudice and national greed oppose the internationalization of industry and agriculture, away with them, wherever they may show themselves and under whatever colours they may sail!

@@ -4,7 +4,7 @@ work_slug: "francis-bacon-the-advancement-of-learning-b404cd"
 work_title: The Advancement of Learning
 author_name: Francis Bacon
 chapter_number: 18
-chapter_title: CHAPTER XI
+chapter_title: Chapter XII
 chapter_slug: 18
 variant_id: "e32cc4a6-b6ef-53fd-8594-8eb59a273e78"
 content_type: translation
@@ -13,15 +13,17 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 465
+word_count: 281
 source_url: "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
 translator: Online Library of Liberty edition
 ---
 
-Ecclesiastical History divided into the General History of the Church, History of Prophecy, and History of Providence
+The Appendix of History embraces the Words of Men, as the Body of History includes their Exploits. Its Division into Speeches, Letters, and Apothegms
 
-ECCLESIASTICAL history in general has nearly the same divisions with civil history: thus there are ecclesiastical chronicles, lives of the fathers, accounts of synods, and other ecclesiastical matters; but in propriety it may be further divided—1. Into the general history of the Church; 2. The history of prophecy; and, 3. The history of providence. The first describes the times of the Church militant, whether fluctuating, as the ark of Noah; movable, as the ark in the wilderness; or at rest, as the ark in the temple; that is, in the states of persecution, migration, and peace. And in this part there is a redundancy rather than a deficiency, but it were to be wished the goodness and sincerity of it were equal to the bulk.
+AND not only the actions of mankind, but also their sayings, ought to be preserved, and may doubtless be sometimes inserted in history, so far as they decently serve to illustrate the narration of facts; but books of orations, epistles, and apothegms, are the proper repositories of human discourse. The speeches of wise men upon matter of business, weighty causes, or difficult points, are of great use, not only for eloquence, but for the knowledge of things themselves. But the letters of wise men upon serious affairs are yet more serviceable in points of civil prudence, as of all human speech nothing is more solid or excellent than such epistles, for they contain more of natural sense than orations, and more ripeness than occasional discourses: so letters of state affairs, written in the order of time by those that manage them, with their answers, afford the best materials for civil history.
 
-The second part, viz., the history of prophecy, consists of two relatives—the prophecy and the accomplishment; whence the nature of it requires, that every Scripture prophecy be compared with the event, through all the ages of the world, for the better confirmation of the faith and the better information of the Church with regard to the interpretation of prophecies not yet fulfilled. But here we must allow that latitude which is peculiar and familiar to divine prophecies, which have their completion not only at stated times, but in succession, as participating of the nature of their author, “with whom a thousand years are but as one day,” and therefore are not fulfilled punctually at once, but have a growing accomplishment through many ages, though the height or fulness of them may refer to a Edition: current; Page: [113] single age or moment. And this is a work which I find deficient; but it should either be undertaken with wisdom, sobriety, and reverence, or not at all.
+Nor do apothegms only serve for ornament and delight, but also for action and civil use, as being the edge-tools of speech—
 
-The third part—the history of providence—has been touched by some pious pens, but not without a mixture of party. This history is employed in observing that Divine agreement which there sometimes is between the revealed and secret will of God. For although the counsels and judgments of God are so secret as to be absolutely unsearchable to man, yet the Divine goodness has sometimes thought fit, for the confirmation of his own people, and the confutation of those who are as without God in the world, to write them in such capital letters, as they who run may read them. Such are the remarkable events and examples of God’s judgments, though late and unexpected, sudden and unhoped for deliverances and blessings, Divine counsels dark and doubtful at length opening and explaining themselves, etc. All which have not only a power to confirm the minds of the faithful, but to awaken and convince the consciences of the wicked.
+“Secures aut mucrones verborum,”
+
+which cut and penetrate the knots of business and affairs; for occasions have their revolutions, and what has once been advantageously used may be so again, either as an old thing or a new one. Nor can the usefulness of these sayings in civil affairs be questioned, when Cæsar himself wrote a book upon the subject, which we wish were extant; for all those we have yet seen of the kind appear to be collected with little choice and judgment.

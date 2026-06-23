@@ -1,0 +1,26 @@
+{
+  "work_slug": "samuel-rawson-gardiner-e-the-constitutional-documents-of--29b93e",
+  "work_title": "The Constitutional Documents of the Puritan Revolution, 1625–1660",
+  "chapter_number": 10,
+  "chapter_title": "D.: The remonstrance and petition of the Peers on the restraint of the Earl of Arundel.",
+  "chapter_slug": "10-d-the-remonstrance-and-petition-of-the-peers-on-th",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f312a91d-0710-5dc0-b5b1-ab31d00a8278",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5362,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gardiner-the-constitutional-documents-of-the-puritan-revolution-1625-1660"
+    }
+  ]
+}

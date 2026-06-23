@@ -4,7 +4,7 @@ work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4"
 work_title: A Select Collection of Scarce and Valuable Tracts on Money
 author_name: John Ramsay McCulloch (ed.)
 chapter_number: 21
-chapter_title: "CHAP. XIX.: Of equalizing the Exchange."
+chapter_title: "Chap. XIX.: Of equalizing the Exchange."
 chapter_slug: "21-chap-xix-of-equalizing-the-exchange"
 variant_id: "ff0d3ff5-8205-57e8-81a1-a25f5b32d4ef"
 content_type: translation
@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 831
+word_count: 823
 source_url: "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
 translator: Online Library of Liberty edition
 ---
 
-THE Author of Lex Mercatoriæ doth hold, That in those Countries where great Banks are kept, the Bankers do by their Arts and Subtilties by the inequalitie of the Exchange, draw away the Gold and Silver out of other Countries: as for Example; In Holland, suppose a man were by Exchange to make over 100 pound sterling thither out of England, The Exchange, saith he, is such Edition: current; Page: [95] when it is at most advantage for England, by the practise and subtilties of the Banker, as you shall receive for your hundred pound there, less in intrinsical value than you gave; and if you make over a hundred pound out of Holland into England by Exchange you shall receive more in Intrinsical value than you gave. And if this Position absolutely be true, as that the contrary doth rarely or seldom happen, it necessarily follows, That it is more advantage to carry over your Money thither in specie, than to make it over by exchange, and it is more advantage to make over your Money thence by exchange than to bring it over in specie.
+THE Author of Lex Mercatoriæ doth hold, That in those Countries where great Banks are kept, the Bankers do by their Arts and Subtilties by the inequalitie of the Exchange, draw away the Gold and Silver out of other Countries: as for Example; In Holland, suppose a man were by Exchange to make over 100 pound sterling thither out of England, The Exchange, saith he, is such when it is at most advantage for England, by the practise and subtilties of the Banker, as you shall receive for your hundred pound there, less in intrinsical value than you gave; and if you make over a hundred pound out of Holland into England by Exchange you shall receive more in Intrinsical value than you gave. And if this Position absolutely be true, as that the contrary doth rarely or seldom happen, it necessarily follows, That it is more advantage to carry over your Money thither in specie, than to make it over by exchange, and it is more advantage to make over your Money thence by exchange than to bring it over in specie.
 
 But (saith he) if it be effectually ordained, That no man shall give his Money here, to receive less in intrinsical value there by Exchange; and that no man shall give his Money there, to receive more in intrinsical value here by Exchange: it is plain, That no man shall have his Advantage to carry his Money thither in specie, nor no man shall have his Disadvantage to bring his Money thence in specie: and if the same course be observed in all places and at all times, let other Nations use what they please to raise or abase the values of their Money, they shall never prejudice the Kingdom by it.
 
@@ -30,4 +30,4 @@ And first, The Difficulty, I may say almost, the Impossibility of putting it in 
 
 But suppose this Difficulty could be overcome, yet would it not suffice to hinder Exportation; for, if in other Countries, they should value your Money higher than their own, as in this Discourse there are formerly Instances set down, of English Money higher valued than their own, in France, in the Low-Countries, and at Francford Mart: he then which at these times would have made over Money by Exchange into those Parts, by this Proposition, should have had but the intrinsical value in Money of these Countries; but he that had carried his Money over in specie, would have had more than the intrinsical value.
 
-Lastly, It is to be considered, That all Countries that do raise little or no Materials within themselves, (which is our Case in England) must not be so careful to hinder Exportation of the Materials, as to provide for Importation for them; What Fruit then shall we receive by this Equality of Exchange, (admitting that it might be made, and that it would hinder the Exportation) if it should be Edition: current; Page: [97] recompenced by the same Degree of Impediment, which it would give to the Importation, which would necessarily follow upon it; as for Instance, If the Equality of Exchange will give impediment to transport Silver out of England into Holland, will not the same equality of Exchange give the same degree of Impediment to import Silver out of Spain into England? Certainly in all appearance it must.
+Lastly, It is to be considered, That all Countries that do raise little or no Materials within themselves, (which is our Case in England) must not be so careful to hinder Exportation of the Materials, as to provide for Importation for them; What Fruit then shall we receive by this Equality of Exchange, (admitting that it might be made, and that it would hinder the Exportation) if it should be recompenced by the same Degree of Impediment, which it would give to the Importation, which would necessarily follow upon it; as for Instance, If the Equality of Exchange will give impediment to transport Silver out of England into Holland, will not the same equality of Exchange give the same degree of Impediment to import Silver out of Spain into England? Certainly in all appearance it must.

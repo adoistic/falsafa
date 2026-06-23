@@ -1,0 +1,26 @@
+{
+  "work_slug": "otto-bauer-the-high-cost-of-living-37e1e9",
+  "work_title": "The High Cost of Living",
+  "chapter_number": 2,
+  "chapter_title": "The Capitalist Development of the Last Twenty Years",
+  "chapter_slug": "02-the-capitalist-development-of-the-last-twenty-year",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b9d90a10-4d0d-5500-acf2-3c93f855cf77",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1407,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bauer/1914/08/costliving.html"
+    }
+  ]
+}

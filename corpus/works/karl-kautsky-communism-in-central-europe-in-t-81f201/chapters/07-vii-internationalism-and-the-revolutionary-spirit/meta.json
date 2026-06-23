@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 7,
+  "chapter_title": "VII. Internationalism and the Revolutionary Spirit",
+  "chapter_slug": "07-vii-internationalism-and-the-revolutionary-spirit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0709af0f-e609-5ef5-8144-e3eeea5f936c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1714,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch01.htm"
+    }
+  ]
+}

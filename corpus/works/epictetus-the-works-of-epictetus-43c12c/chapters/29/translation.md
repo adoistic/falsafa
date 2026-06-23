@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 29
-chapter_title: "CHAPTER XXV.: ON THE SAME SUBJECT."
+chapter_title: "Chapter XXV.: On the Same Subject."
 chapter_slug: 29
 variant_id: "ba74ab50-f9f2-5df3-95cd-7a22ad63cb97"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1100
+word_count: 1092
 source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
 translator: Online Library of Liberty edition
 ---
@@ -22,7 +22,7 @@ IF these things are true; and if we are not stupid, or insincere, when we say, t
 
 “But you must direct me.”
 
-Why should I direct you? Has not Zeus directed you? Has he not given you what is your own, incapable of restraint or hindrance; and what is not your own, liable to both? What directions, then, what orders, have you brought from him? “By all means guard what is your own: what belongs to others do not covet. Honesty is your own: a sense of virtuous shame is your own. Who, then, can deprive you of these? Who can restrain you from making use of them, but yourself? And how do you do it? When you make that your concern which is not truly your own, you lose that which is.” Having such precepts and directions from Zeus, what sort do you still want from me? Am I better than He, or more worthy of credit? If you observe these precepts, what others do you need? Are not these His? Apply the recognized principles; apply the demonstrations Edition: current; Page: [71] of philosophers; apply what you have often heard, and what you have said yourself; what you have read, and what you have carefully studied.
+Why should I direct you? Has not Zeus directed you? Has he not given you what is your own, incapable of restraint or hindrance; and what is not your own, liable to both? What directions, then, what orders, have you brought from him? “By all means guard what is your own: what belongs to others do not covet. Honesty is your own: a sense of virtuous shame is your own. Who, then, can deprive you of these? Who can restrain you from making use of them, but yourself? And how do you do it? When you make that your concern which is not truly your own, you lose that which is.” Having such precepts and directions from Zeus, what sort do you still want from me? Am I better than He, or more worthy of credit? If you observe these precepts, what others do you need? Are not these His? Apply the recognized principles; apply the demonstrations of philosophers; apply what you have often heard, and what you have said yourself; what you have read, and what you have carefully studied.
 
 How long is it right to devote one’s self to these things and not break up the game?
 
@@ -40,7 +40,7 @@ Moreover, some are peevish and fastidious, and say, I cannot dine with such a fe
 
 Do you decide between these opinions; but do not let it be with depression and anxiety, and the assumption that you are miserable; for no one compels you to that. Is there smoke in my house? If it be moderate, I will stay; if very great, I will go out. For you must always remember, and hold to this, that the door is open. “You are forbidden to live at Nicopolis.” I will not live there. “Nor at Athens.” Well, nor at Athens. “Nor at Rome.” Nor at Rome. “But you shall live at Gyaros.” I will live there. But suppose that living at Gyaros seems to me like living in a great smoke. I can then retire where no one can forbid me to live, for it is an abode open to all; and put off my last garment, this poor body of mine; beyond this, no one has any power over me.
 
-Thus Demetrius said to Nero: “You sentence me to death; and Nature you.” If I prize my body first, I have surrendered myself as a slave; if my estate, the same; for I at once betray where I am vulnerable. Just as when a reptile pulls in his head, I bid you strike that part of him which he guards; and be you assured, that wherever you show a desire to guard yourself, there your master will attack you. Edition: current; Page: [73] Remember but this, and whom will you any longer flatter or fear?
+Thus Demetrius said to Nero: “You sentence me to death; and Nature you.” If I prize my body first, I have surrendered myself as a slave; if my estate, the same; for I at once betray where I am vulnerable. Just as when a reptile pulls in his head, I bid you strike that part of him which he guards; and be you assured, that wherever you show a desire to guard yourself, there your master will attack you. Remember but this, and whom will you any longer flatter or fear?
 
 “But I want to sit where the senators do.”
 

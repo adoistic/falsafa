@@ -4,7 +4,7 @@ work_slug: "voltaire-toleration-and-other-essays-91a5c9"
 work_title: Toleration and Other Essays
 author_name: Voltaire
 chapter_number: 19
-chapter_title: VIRTUE BETTER THAN SCIENCE
+chapter_title: Virtue Better Than Science
 chapter_slug: "19-virtue-better-than-science"
 variant_id: "e3467f7d-3fe4-5325-bdfc-5d6755b14d8b"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 599
+word_count: 591
 source_url: "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
 translator: Online Library of Liberty edition
 ---
@@ -24,7 +24,7 @@ Religion was instituted to make us happy in this world and the next. What must w
 
 It would be the height of folly to pretend to bring all men to have the same thoughts in metaphysics. It would be easier to subdue the whole universe by arms than to subdue all the minds in a single city.
 
-Euclid easily persuaded all men of the truths of Edition: current; Page: [82] geometry. How? Because every single one of them is a corollary of the axiom, “Two and two make four.” It is not exactly the same in the mixture of metaphysics and theology.
+Euclid easily persuaded all men of the truths of geometry. How? Because every single one of them is a corollary of the axiom, “Two and two make four.” It is not exactly the same in the mixture of metaphysics and theology.
 
 When Bishop Alexander and the priest Arius began [in the fourth century] to dispute as to the way in which the Logos emanated from the Father, the Emperor Constantine at first wrote to them as follows (as we find in Eusebius and Socrates): “You are great fools to dispute about things you do not understand.”
 
@@ -34,6 +34,6 @@ What, indeed, can be more stupid and more horrible than to say to men: “My fri
 
 Had such a proposition been made to Archimedes, or Poseidonius, or Varro, or Cato, or Cicero, what would he have said?
 
-Constantine did not persevere in his resolution to impose silence on the contending parties. He might have invited the leaders of the pious frenzy to his palace and asked them what authority they had to disturb the world: “Have you the title-deeds Edition: current; Page: [83] of the divine family? What does it matter to you whether the Logos was made or engendered, provided men are loyal to him, preach a sound morality, and practise it as far as they can? I have done many wrong things in my time, and so have you. You are ambitious, so am I. The empire has cost me much knavery and cruelty; I have murdered nearly all my relatives. I repent, and would expiate my crimes by restoring peace to the Roman Empire. Do not prevent me from doing the only good that can efface my earlier barbarity. Help me to end my days in peace.” Possibly he would have had no influence on the disputants; possibly he would have been flattered to find himself, in long red robe, his head covered with jewels, presiding at a council.
+Constantine did not persevere in his resolution to impose silence on the contending parties. He might have invited the leaders of the pious frenzy to his palace and asked them what authority they had to disturb the world: “Have you the title-deeds of the divine family? What does it matter to you whether the Logos was made or engendered, provided men are loyal to him, preach a sound morality, and practise it as far as they can? I have done many wrong things in my time, and so have you. You are ambitious, so am I. The empire has cost me much knavery and cruelty; I have murdered nearly all my relatives. I repent, and would expiate my crimes by restoring peace to the Roman Empire. Do not prevent me from doing the only good that can efface my earlier barbarity. Help me to end my days in peace.” Possibly he would have had no influence on the disputants; possibly he would have been flattered to find himself, in long red robe, his head covered with jewels, presiding at a council.
 
 Yet this it was that opened the gate to all the plagues that came from Asia upon the West. From every disputed verse of Scripture there issued a fury, armed with a sophism and a sword, that goaded men to madness and cruelty. The marauding Huns and Goths and Vandals did infinitely less harm; and the greatest harm they did was to join themselves in these fatal disputes.

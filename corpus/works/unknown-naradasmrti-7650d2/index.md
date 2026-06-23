@@ -2,10 +2,10 @@
 id: "7650d2fa-c4d5-471a-808e-858e56b91802"
 slug: "unknown-naradasmrti-7650d2"
 title: Nāradasmṛti
-author: Nārada
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Nārada
+  biography: A sage of the Hindu Dharmaśāstra tradition, to whom the Nāradasmṛti is ascribed. The text is a compilation in verse on law and right conduct, redacted over generations by unknown hands.
+  nationality: Indian
 era: Ancient
 genre: Indic
 language: Sanskrit

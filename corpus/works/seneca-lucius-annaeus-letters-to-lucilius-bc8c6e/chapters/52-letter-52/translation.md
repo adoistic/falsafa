@@ -1,0 +1,48 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 52
+chapter_title: Letter 52
+chapter_slug: "52-letter-52"
+variant_id: "b30e78f5-c1e3-57c8-be70-c642a0851d63"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1250
+translator: thothica
+---
+
+1. What is this, Lucilius, that drags us one way while we are striving another, and drives us toward the very place from which we long to retreat? What is it that wrestles with our mind and does not let us will anything once and for all? We are tossed about among shifting resolutions. We will nothing freely, nothing absolutely, nothing for good.
+
+2. "It is folly," you say, "that has nothing fixed, that is long pleased with nothing." But how, or when, shall we tear ourselves away from it? No one is strong enough by himself to rise out of it; someone must hold out a hand, someone must lead him forth.
+
+3. Epicurus says that some men have reached the truth without anyone's help, having made the road for themselves. These he praises most highly — those whose impulse came from within, who brought themselves forward. Others, he says, need help from outside: they will not go forward if no one leads the way, but they will follow well. Of these he says Metrodorus was one — a fine nature too, but of the second rank. We are not of that first stamp; it is well with us if we are received into the second. Do not despise even the man who can be saved by another's good office; even to wish to be saved is much.
+
+4. Besides these, you will further find yet another kind of men — not itself to be scorned — those who can be compelled and driven to the right, who need not only a guide but a helper and, so to speak, a constrainer. This is the third type. If you ask for an example of this too, Epicurus says Hermarchus was such. And so, of the two, he congratulates the one more, but admires the other more; for although both arrived at the same goal, yet there is greater praise in having achieved the same result in the harder material.
+
+5. Suppose two buildings have been raised, unlike at the foundation, equally lofty and magnificent. One received clean ground; there the work rose straightway. The foundations of the other wearied the builders, sent down into soft and oozing soil, and much labor was spent before the solid was reached. To one who looks on, all that the first builder did lies in the open; of the other's work the greater and harder part is hidden.
+
+6. Some natures are easy and ready; others must be worked, as the saying goes, by hand, and are engrossed with their own foundations. And so I would call the former man the more fortunate, who had no trouble with himself; but the latter, I should say, has deserved better of himself, who overcame the meanness of his own nature and did not so much lead himself to wisdom as drag himself there.
+
+7. You may take it that this hard and laborious nature has been given to us. We go on through obstacles. Therefore let us fight, and let us call upon the help of some. "Whom," you say, "shall I call upon? This man or that?" Why, turn back even to those who are free — to the men of old; for not only those who are alive can help us, but those who have been.
+
+8. But of those who are alive, let us choose not the men who pour out words at great speed, who roll out commonplaces and play the lecturer in private circles, but those who teach by their life, who, when they have said what must be done, prove it by doing, who teach what must be shunned and are never caught in the very thing they said must be fled. Choose for your helper the man you will admire more when you see him than when you hear him.
+
+9. Nor would I on that account forbid you to listen to these too — those whose custom it is to admit the public and discourse — provided they come forth into the crowd with this aim, to become better and to make others better, and provided they do not practice it for ambition's sake. For what is baser than philosophy fishing for applause? Does a sick man praise the surgeon while he cuts?
+
+10. Be silent, be favorable, and submit yourselves to the cure. Even if you do cry out, I shall hear it only as I would the groan you give when your vices are touched. Do you wish to bear witness that you are attentive and stirred by the greatness of the matter? By all means let it be so. But that you should pass judgment and cast your vote on the better man — why should I not refuse you that? Among the followers of Pythagoras the disciples had to keep silence for five years; do you suppose, then, that they were straightway allowed both to speak and to praise?
+
+11. And how great is the madness of the man whom the shouts of the ignorant send away from the lecture-hall in high spirits! Why do you rejoice that you have been praised by men whom you yourself cannot praise? Fabianus used to discourse before the people, but he was listened to with restraint. Now and then a great shout of applause would break out, but it was one called forth by the greatness of the subject, not by speech that slipped along smoothly and softly without offense.
+
+12. Let there be some difference between the shouting of the theater and that of the school; there is even a propriety in praising. All things, if observed, are signs of all things, and you may gather the proof of character from the smallest particulars: a man's walk betrays him as unchaste, and the movement of his hand, and sometimes a single answer, a finger raised to the head, a glance of the eyes turned aside. Laughter shows the rascal; the face and bearing show the madman. For these things come out into the open through their marks; what each man is, you will know if you observe how he praises, how he is praised.
+
+13. From this side and from that the listener stretches out his hands toward the philosopher, and over his very head the crowd of admirers stands thronging; the man is not now being praised, if you understand it, but shouted at. Let such cries be left to those arts whose aim is to please the people; let philosophy be revered in worship.
+
+14. The young will sometimes have to be permitted to follow the impulse of their spirit — but only then, when they will do it from impulse, when they cannot command silence upon themselves. Such applause brings some encouragement to the very listeners and goads the spirits of the young. But let them be stirred to the matter, not to the well-turned words; otherwise eloquence harms them, if it produces a passion not for the substance but for itself.
+
+15. I will put this off for the present; for it requires a treatment of its own and a long one — how one should discourse before the people, what one should allow oneself before the people, what the people before oneself. It will be beyond doubt that philosophy has suffered loss, now that she has been prostituted. But she can be displayed in her own inner shrine, if only she has found not a huckster but a priest. Farewell.

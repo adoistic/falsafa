@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-exchange-on-historical-materiali-4fcb09",
+  "work_title": "Exchange on Historical Materialism (Debate with E. Belfort Bax)",
+  "chapter_number": 3,
+  "chapter_title": "Part II. The Historical Theory",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d41a9f52-c88e-53f8-850d-32e5685ef60d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5083,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1896/histmat/hm2.htm"
+    }
+  ]
+}

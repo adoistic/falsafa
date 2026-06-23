@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-imperialism-the-highest-stage-of-c6d840",
+  "work_title": "Imperialism, the Highest Stage of Capitalism",
+  "chapter_number": 4,
+  "chapter_title": "II. Banks and Their New Role",
+  "chapter_slug": "04-ii-banks-and-their-new-role",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "689e974f-8993-5ae6-b56f-4502c3b82e00",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4884,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch02.htm"
+    }
+  ]
+}

@@ -4,7 +4,10 @@ slug: "plato-phaedrus-bf287e"
 title: Phaedrus
 author:
   name: Plato
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Athenian philosopher, student of Socrates and teacher of Aristotle. His dialogues made philosophy a written art and set its agenda for the next two thousand years.
+  birth_year: -428
+  death_year: -348
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

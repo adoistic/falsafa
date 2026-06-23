@@ -4,7 +4,7 @@ work_slug: "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f"
 work_title: The Ruins, or a Survey of the Revolutions of Empires
 author_name: "Constantin-François Volney"
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "17e8e922-e466-578d-a055-922ad3794164"
 content_type: translation

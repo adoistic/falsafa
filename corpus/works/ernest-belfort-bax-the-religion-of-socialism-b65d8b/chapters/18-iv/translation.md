@@ -1,0 +1,31 @@
+---
+work_id: "b65d8bb4-5aa3-5d2f-91d9-9ea7eb02a867"
+work_slug: "ernest-belfort-bax-the-religion-of-socialism-b65d8b"
+work_title: The Religion of Socialism
+author_name: Ernest Belfort Bax
+chapter_number: 18
+chapter_title: IV
+chapter_slug: "18-iv"
+variant_id: "d58fde15-8227-5733-b185-1bb9d0485797"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 960
+source_url: "https://www.marxists.org/archive/bax/1886/religion/15-appendix.htm"
+translator: Marxists Internet Archive edition
+---
+
+The “city” was a system of families, gentes, and tribes, each with a special organisation of its own united together primarily for objects of production and defence, though descent from a common ancestor was always assumed for religious purposes. Every house had its domestic altar for its family divinities, every division of the city its temple or altar for the special clan or tribe dwelling within it, while the city itself possessed a central fanes, the largest and most, richly appointed of all for the worship of the city divinity. The city then was a system of separate governments as it was a system of separate religions, united together under one central government and religion. But it was not in its earlier stages a state in the full sense of the word. The political had not as yet become completely differentiated from the religious and social. At first the whole society was the state as the whole society was the church. The governing body was not external to the governed as it is to-day. The head of every family was an integral part of the governing power, as he was of the religious worship.
+
+“Cité et ville n’étaient pas des mots anonymes chez les anciens. La cité était l’association religieuse et politique des familles et des tribus; la ville était le lieu de reunion, le domicile et surtout le sanctuaire de cette association.” (La Cité Antique, p.155).
+
+“Ainsi, la cité n’est pas un assemblage d’individus; c’est une confederation de plusieurs groupes qui étaient constitués avant elle, et qu’elle laisse subsister. On voit dans les orateurs attiques que chaque Athenien fait partie à la fois de quatre societés distinctes; il est membre d’une famille, d’une phratrie, al’une tribu et d’une cité.” (ibid., p.142)
+
+The city, at first a simple burg, or fortified place, gradually developed its architecture, etc. As types of the ancient city may be taken Troy the focus of the great Homeric epic; Jerusalem, the focus of the Hebrew epic embodied in the Old Testament: and Thebes, the focus of one of the most important cycles of Greek legend. Curiously enough, according to the usual supposition, these clusters of stories (or certainly the first two) arose about the same time (the ninth century BC), and received their final form about the same time (the fifth century BC).
+
+Ancient religion did not concern itself with the supernatural in the sense of a spiritual sphere above, and essentially distinct from nature. Its prayers were usually invocations by magical formulae, designed to compel the will of the occult or invisible agent to that of the invocator. That religion in the ancient, world connected itself with the belief in such occult, or in the common acceptation of the word, supernatural agents and powers goes without saying, seeing that the whole of nature was conceived as a system of animated beings. But its concern with this larger system of nature was always more or less indirect. It was primarily occupied with human relations – the relation of the individual with the society into which he entered, of the family with its gens, of the gens with its tribe, of the tribe with the people or city. The gods or supernatural agents when they failed in their protection of the society which practised their cult were commonly insulted, and their images and altars thrown down. Religious sentiment did not centre in them, but in the community whose good or ill was supposed to lay in their power. The functions of the priesthood of course involved the knowledge of nature according to current conceptions – i.e., as a complex of occult agencies, in fact, as the more powerful counterpart of human society. A good picture of the ancient theocratic priest is given by Flaubert in Salaambo, in the person of Schahabarim.
+
+The ancient religious cults might perhaps be classified as follows: first, probably both in order of time and importance, as attaching themselves directly to the society, the ancestral cults; and, secondly, the nature cults proper from amongst the indefinite number of which two stand out in respect both of the wideness, amounting almost to universality, of their diffusion, and of their significance – the Solar and the Phallic cult. The worship of the traditional founder of the clan, the tribe, the people, etc., respectively as divine, is the basis of the ancestral cults; the naive primitive personification of nature is the basis of the nature cults. Two of the most striking of natural phenomena to the early mind, are (1) the sun, the giver of light, heat, fruitfulness, the cause of the seasons, the bringer also of death, corruption, and devastation; and (2) the generative organs, the material symbol of social continuity. In the one early man saw the great principle of external or economic life and progress, upon which society so vitally depended – the fecundating power in nature; in the other the great internal principle of life and progress in society itself. Hence the apparently endless changes the mythologies and religions of antiquity ring upon these two themes; hence the variety of Solar gods and heroes – i.e., of personifications of different aspects of the sun’s influence, noxious and beneficent, and the numberless Phallic divinities and symbols with which ancient religion abounds. Memories of older family and social forms doubtless also lingered on, and were perpetuated in religious, rites and ceremonies, – a fact which no doubt enters largely into the explanation of the “sacred prostitution” of many ancient peoples. The custom or practice dictated by the social necessities of one age becomes the religious rite hallowed by tradition of another age, when its necessity has passed away and its meaning is forgotten, such meaning having become embodied in other customs and practices.

@@ -1,0 +1,23 @@
+---
+work_id: "fcea5dd4-0a6c-5ef9-bd8f-ec8b612df03d"
+work_slug: "immanuel-kant-critique-of-practical-reason-and-fcea5d"
+work_title: Critique of Practical Reason and Other Works on the Theory of Ethics
+author_name: Immanuel Kant
+chapter_number: 23
+chapter_title: "Book I.: The Analytic of Pure Practical Reason, remark. (2)"
+chapter_slug: 23
+variant_id: "8e940b40-92a8-5995-bd54-1e6a492ef309"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 531
+source_url: "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+translator: Online Library of Liberty edition
+---
+
+The commonest understanding can distinguish without instruction what form of maxim is adapted for universal legislation, and what is not. Suppose, for example, that I have made it my maxim to increase my fortune by every safe means. Now, I have a deposit in my hands, the owner of which is dead and has left no writing about it. This is just the case for my maxim. I desire then to know whether that maxim can also hold good as a universal practical law. I apply it, therefore, to the present case, and ask whether it could take the form of a law, and consequently whether I can by my maxim at the same time give such a law as this, that everyone may deny a deposit of which no one can produce a proof. I at once become aware that such a principle, viewed as a law, would annihilate itself, because the result would be that there would be no deposits. A practical law which I recognize as such must be qualified for universal legislation; this is an identical proposition, and therefore self-evident. Now, if I say that my will is subject to a practical law, I cannot adduce my inclination (e. g. in the present case my avarice) as a principle of determination fitted to be a universal practical law; for this is so far from being fitted for a universal legislation that, if put in the form of a universal law, it would destroy itself.
+
+It is, therefore, surprising that intelligent men could have thought of calling the desire of happiness a universal practical law on the ground that the desire is universal, and, therefore, also the maxim by which everyone makes this desire determine his will. For whereas in other cases a universal law of nature makes everything harmonious; here, on the contrary, if we attribute to the maxim the universality of a law, the extreme opposite of harmony will follow, the greatest opposition, and the complete destruction of the maxim itself, and its purpose. For, in that case, the will of all has not one and the same object, but everyone has his own (his private welfare), which may accidentally accord with the purposes of others which are equally selfish, but it is far from sufficing for a law; because the occasional exceptions which one is permitted to make are endless, and cannot be definitely embraced in one universal rule. In this manner, then, results a harmony like that which a certain satirical poem depicts as existing between a married couple bent on going to ruin, “O, marvellous harmony, what he wishes, she wishes also;” or like what is said of the pledge of Francis I. to the emperor Charles V., “What my brother Charles wishes that I wish also” (viz. Milan). Empirical principles of determination are not fit for any universal external legislation, but just as little for internal; for each man makes his own subject the foundation of his inclination, and in the same subject sometimes one inclination, sometimes another, has the preponderance. To discover a law which would govern them all under this condition, namely, bringing them all into harmony, is quite impossible.

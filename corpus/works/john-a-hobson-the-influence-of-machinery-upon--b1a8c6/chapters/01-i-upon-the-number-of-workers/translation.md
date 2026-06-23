@@ -1,0 +1,89 @@
+---
+work_id: "b1a8c69a-e56e-5786-aea2-817167556fa1"
+work_slug: "john-a-hobson-the-influence-of-machinery-upon--b1a8c6"
+work_title: The Influence of Machinery Upon Employment
+author_name: John A. Hobson
+chapter_number: 1
+chapter_title: I. Upon the Number of Workers
+chapter_slug: "01-i-upon-the-number-of-workers"
+variant_id: "6038b099-8e8d-5759-a7de-11a1e0aff4f7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2158
+source_url: "https://www.marxists.org/archive/hobson/1893/03/machines.htm"
+translator: Marxists Internet Archive edition
+---
+
+The motive which induces capitalist employers to introduce into an industry machinery which shall either save labor by doing work which labor did before, or assist labor by making it more efficient, is a desire to reduce the expenses of production. Looked at from the standpoint of a given quantity of production, a new machine always displaces and throws out of employment a certain amount of labor, assuming that the labor of producing the new machines and of working them is paid at no lower rate of remuneration than the labor which is displaced. What is meant, then, by the statement so frequently made, that machinery gives more employment than it takes away – that its wider and ultimate effect is not to diminish the demand for labor? If we set against the displaced labor in a given business the labor of producing, maintaining and working the new machines, there must be still a net diminution in employment of labor; for otherwise no economy would be effected. This is of course beyond dispute. But, it is maintained, the economy afforded by labor-saving machinery in the expenses of production will, through competition of producers, be reflected in a lower scale of prices, and the fall of prices will stimulate consumption. When we add together the labor spent in producing the machinery to assist the enlarged production, the labor spent in maintenance and working of the same, and the labor of conveying and distributing the enlarged production, it will be found that more labor is required under the new than under the old conditions of industry. So runs the argument.
+
+If for convenience we omit all consideration of the probability that the economy in production will swell profits instead of reducing prices, the value of the argument evidently turns upon the effect of a fall of price in stimulating increased consumption. Now the problem how far a given fall in price will stimulate increased. consumption is shown by Professor Marshall, in his interesting treatment of “flexibility of demand,” to involve extremely intricate knowledge of the circumstances of each case and refined calculations of human motives. If we apply a similarly graduated fall of prices to two different classes of goods, we shall observe a widely different effect in the stimulation of consumption. A reduction of fifty per cent in the price of one class of manufactured goods may treble or quadruple the consumption, while the same reduction in another class may increase the consumption by only twenty per cent. In the former case it is probable that the ultimate effect of the machinery which has produced the fall in expenses of production and in prices will be a considerable increase in the aggregate demand for labor, while in the latter case there will be a net displacement. It is therefore impossible to argue a priori that the ultimate effect of machinery must be an increased demand for labor, and that the labor displaced by machinery will be directly or indirectly absorbed in forwarding the increased production caused by machinery.
+
+Moreover the industrial history of a country like England can furnish no valuable data for a wider judgment of the case. The enormous expansion of production induced by the application of machinery in certain branches of textile industry during the first half of this century indisputably led to an increased demand for English labor in industries directly or indirectly connected with textile production. But in the first place this cannot be regarded as a normal result of a fall of prices due to textile machinery, but is largely attributable to an expansion in the area of consumption – the establishment of vast new markets – in which greater efficiency and cheapness of means of transport played the most considerable part. Secondly, assuming that the more pressing needs of the vast body of consumers are already reached and satisfied by machine-produced textile goods, we are not at liberty to conjecture that any further cheapening of goods owing to improved machinery will have a correspondent effect upon consumption and the demand for labor. If England had been a self-contained country, manufacturing only for her own market, the result of machinery applied to textile industries would undoubtedly have been a considerable net displacement of textile labor, making all allowance for growth of population and increased domestic consumption of textile fabrics. The expansion of English production under the rapid development of machinery in the nineteenth century cannot be taken as a measure of the normal effects of the application of machinery. What direct evidence we have of the effect of machinery upon demand for labor is very significant. Mr. Booth, in his Occupations of the People, presents an analysis of the census returns showing the percentages of the population engaged in various employments at decennial points from 1841 to 1881. If we turn to manufactures, upon which, together with transport, machinery exercises the most direct influence, we find that the aggregate of manufactures shows a considerable increase in demand for labor up to 1861, that is to say, in the time when English wares still kept the lead they had obtained in the world-market, but that since 1861 there is a considerable decline in the percentage of the population employed in manufactures. The percentages run as follows:
+
+If we take the staple manufactures, employing the largest number of workers, we shall find that for the most part they show a rising demand for labor up to 1861, a stationary or falling demand after that date. The foundational industries – machinery and tools, ship-building, metal-working – whose demand for labor during the period 1841 to 1861 increased by leaps and bounds, still show a slightly increased proportion of employment, partly due to the rise since 1861 of a large export trade in machinery. Fuel, gas, chemicals and other general subsidiary trades offer a steady rise in proportionate employment. The textile and dyeing industries, on the other hand, showing an increased proportionate employment up to 1851, by which time the weaving industry was taken over by machinery, present a continuous and startling decrease in the proportion of employment since that year. A considerably smaller proportion of workers are employed in these trades than were employed in 1841. The dress-making industries show the same result, a continuous rapid decline of employment since 1851. The following are the percentages :
+
+Textile and Dyeing
+
+Dress
+
+This failure of demand for labor to keep pace in its growth with the growth of production in the main branches of the spinning and weaving industries is emphasized by Mr. Ellison. Comparing 1850 with 1878, he says:
+
+In spinning mills there is an increase of about 189 per cent in spindles, but only 63 per cent in hands employed; and in weaving mills an increase of 360 per cent in looms, but only 253 per cent in operatives. This, of course, shows that the machinery has become more and more automatic or self-regulating, thus requiring the attendance of a relatively smaller number of workers.
+
+When all the subsidiary branches of textile industry are added, the results point still more conclusively in the same direction.
+
+No. of Spindles
+
+No. of Looms
+
+No. of Operatives
+
+The more recent statistics of Mr. Booth show that the relative diminution of employment in the textile industries has passed into an absolute diminution. The total number of operatives in textile and dyeing industries was:
+
+The significance of these figures in relation to the demand for labor receives further emphasis when the large and rapid displacement of male by female labor is taken into account. To this I refer later.
+
+The branches of manufacture which show a large increase in the proportionate employment they gave in 1881, as compared with 1861, are printing and bookbinding, wood furniture and carriages, fuel, gas, chemicals and unspecified trades (chiefly connected with machinery). Machinery and tools, metals and ship-building, among the larger industries, show a small proportionate increase of employment.
+
+From these facts two deductions may be made bearing upon the effects of machinery. First, so far as the aggregate of manufactures is concerned, the net result of the increased use of machinery has not been to offer an increased demand for labor keeping pace with the growth of the working population. Second, an increasing proportion of the manufacturing population is employed in the smaller industries, which are either subsidiary to the large industries or are engaged in providing miscellaneous comforts and luxuries.
+
+When we turn from manufactures to other employments, we perceive that while manufactures, together with mining and building, employ about the same proportion of the working population as in 1851, agriculture offers a rapidly diminishing employment, descending from 20.9 per cent in 1851 to 11.5 per cent in 1881. On the other hand, the proportion of the workers engaged in transport trades, in dealing and in industrial service has risen very largely.
+
+Transport
+
+Dealing
+
+Industrial Service
+
+To this we may add a large increase in the proportionate supply of public and professional service, rising from 3.6 per cent in 1841 to 5.6 in 1881.
+
+When we look at these figures there can be no question that an indirect result of the increased production due to the application of machinery has been increased employment in distributing industries. It should, however, be clearly recognized that the direct effect of machinery upon these industries also is to diminish the proportionate employment of labor. A comparison of the two chief branches of the transport trade yields the same results. Machinery occupies a very different place in the railway from that which it holds in the steamship. The engine only indirectly determines and regulates the work of the majority of railway workers. Most of them are not tenders of machinery. Engineer, stoker and guard are alone in close, direct association with the machine. To them must be added those engaged in the workshops in construction and repair. Pointsmen and certain station officials come next in proximity to the machine; shunters and porters are also “tending machinery,” though their work is more directly dominated by general business considerations. But are we to say that the army of plate-layers, navvies, etc., engaged along the track are serving machinery instead of using tools? The work of ticket clerks and collectors is only governed by the locomotive in a very indirect way. Though the steam locomotive is the central factor in railway work, the bulk of the labor is skilled or unskilled work in remote relation to the machine. This .explains why the growth of railway industry is not attended by a diminishing proportion of employment. On the contrary, we find that railway employment increases faster than mileage and railway capital. The following figures illustrate the movement between 1860 and 1890 in railways of the United Kingdom:
+
+Year
+
+Mileage
+
+Capital (paid up) £
+
+Operatives
+
+But when we turn to the shipping trade, where a much larger proportion of workers are directly engaged with machinery, and trace the effect upon employment of the application of steam, the result is very different:
+
+Sailing Vessels (tonnage)
+
+Steamers (tonnage)
+
+Men on Sailing Ships
+
+Men on Steamships
+
+If we take the period 1870-1890, during which there is an absolute shrinkage of sailing tonnage, we find that this shrinkage is accompanied by a less than corresponding diminution in employment. On the other hand, the tonnage of steamships has increased nearly fourfold, but has brought an increase of employment which is not quite threefold. This comparison of railway and shipping illustrates the degree of dominion exercised by machinery in the respective branches of transport industry.
+
+These facts and figures seem to support the following conclusions:
+
+In the rough estimate of the effect of machinery upon employment, its influence upon English agriculture has been left untouched by reason of the inherent complexity of the forces which are operative. But it must not be forgotten that by far the most important factor in the decline of English agricultural employment is the transport machinery which has brought the produce of distant countries into direct competition with English agricultural produce.
+
+So far, therefore, as the statistics of employments present a just register of the influence of machinery upon demand for labor, we are driven to conclude that the net influence of machinery is to diminish employment so far as those industries are concerned into which machinery directly enters, and to increase the demand in those industries which machinery affects but slightly or indirectly. If this is true of England, which, having the start in the development of the factory system, has to a larger extent than any other country specialized in the arts of manufacture, it is probable that the net effect of machinery upon the demand for labor throughout the industrial world has been to throw a larger proportion of the population into industries where machinery does not directly enter. This general conclusion, however, for want of exact statistical enquiries conducted upon a single basis, can only be accepted as probable.

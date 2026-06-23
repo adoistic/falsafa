@@ -4,7 +4,7 @@ work_slug: "francois-guizot-general-history-of-civilization--9f5546"
 work_title: General History of Civilization in Europe
 author_name: François Guizot
 chapter_number: 2
-chapter_title: BIOGRAPHICAL SKETCH.
+chapter_title: Biographical Sketch.
 chapter_slug: "02-biographical-sketch"
 variant_id: "b5d9f47e-75a7-573d-82a7-9b2a3ea1550b"
 content_type: translation

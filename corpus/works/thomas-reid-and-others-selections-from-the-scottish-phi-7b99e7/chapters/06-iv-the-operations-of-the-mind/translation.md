@@ -1,0 +1,343 @@
+---
+work_id: "7b99e762-8075-51de-afc9-f490fd458472"
+work_slug: "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7"
+work_title: Selections from the Scottish Philosophy of Common Sense
+author_name: Thomas Reid and others
+chapter_number: 6
+chapter_title: "Iv.—: The Operations of the Mind"
+chapter_slug: "06-iv-the-operations-of-the-mind"
+variant_id: "87d35e04-ab6b-5116-91de-aab68e8fa449"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 11831
+source_url: "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+translator: Online Library of Liberty edition
+---
+
+As there are words common to philosophers and to the vulgar, which need no explication, so there are principles common to both, which need no proof, and which do not admit of direct proof.
+
+1. First, then, I shall take it for granted, that I think, that I remember, that I reason, and, in general, that I really perform all those operations of mind of which I am conscious.
+
+The operations of our minds are attended with consciousness; and this consciousness is the evidence, the only evidence, which we have or can have of their existence. If a man should take it into his head to think or to say that his consciousness may deceive him, and to require proof that it cannot, I know of no proof that can be given him; he must be left to himself, as a man that denies first principles, without which there can be no reasoning. Every man finds himself under a necessity of believing what consciousness testifies, and everything that hath this testimony is to be taken as a first principle.
+
+2. As by consciousness we know certainly the existence of our present thoughts and passions; so we know the past by remembrance. And, when they are recent, and the remembrance of them fresh, the knowledge of them, from such distinct remembrance, is, in its certainty and evidence, next to that of consciousness.
+
+3. But it is to be observed that we are conscious of many things to which we give little or no attention. We can hardly attend to several things at the same time; and our attention is commonly employed about that which is the object of our thought, and rarely about the thought itself. Thus, when a man is angry, his attention is turned to the injury done him, or the injurious person; and he gives very little attention to the passion of anger, although he is conscious of it. It is in our power, however, when we come to the years of understanding, to give attention to our own thoughts and passions, and the various operations of our minds. And, when we make these the objects of our attention, either while they are present or when they are recent and fresh in our memory, this act of the mind is called reflection.
+
+We take it for granted, therefore, that, by attentive reflection, a man may have a clear and certain knowledge of the operations of his own mind; a knowledge no less clear and certain than that which he has of an external object when it is set before his eyes.
+
+This reflection is a kind of intuition, it gives a like conviction with regard to internal objects, or things in the mind, as the faculty of seeing gives with regard to objects of sight. A man must, therefore, be convinced beyond possibility of doubt, of everything with regard to the operations of his own mind, which he clearly and distinctly discerns by attentive reflection.
+
+4. I take it for granted that all the thoughts I am conscious of, or remember, are the thoughts of one and the same thinking principle, which I call myself, or my mind. Every man has an immediate and irresistible conviction, not only of his present existence, but of his continued existence and identity, as far back as he can remember. If any man should think fit to demand a proof that the thoughts he is successively conscious of, belong to one and the same thinking principle—if he should demand a proof that he is the same person to-day as he was yesterday, or a year ago—I know no proof that can be given him: he must be left to himself, either as a man that is lunatic, or as one who denies first principles, and is not to be reasoned with.
+
+Every man of a sound mind, finds himself under a necessity of believing his own identity, and continued existence. The conviction of this is immediate and irresistible; and, if he should lose this conviction, it would be a certain proof of insanity, which is not to be remedied by reasoning.
+
+5. I take it for granted, that there are some things which cannot exist by themselves, but must be in something else to which they belong, as qualities, or attributes.
+
+Thus, motion cannot exist, but in something that is moved. And to suppose that there can be motion while everything is at rest, is a gross and palpable absurdity. In like manner, hardness and softness, sweetness and bitterness, are things which cannot exist by themselves; they are qualities of something which is hard or soft, sweet or bitter. That thing, whatever it be, of which they are qualities, is called their subject; and such qualities necessarily suppose a subject.
+
+Things which may exist by themselves, and do not necessarily suppose the existence of anything else, are called substances; and, with relation to the qualities or attributes that belong to them, they are called the subjects of such qualities or attributes.
+
+All the things which we immediately perceive by our senses, and all the things we are conscious of, are things which must be in something else, as their subject. Thus, by my senses, I perceive figure, colour, hardness, softness, motion, resistance, and such like things. But these are qualities, and must necessarily be in something that is figured, coloured, hard or soft, that moves, or resists. It is not to these qualities, but to that which is the subject of them, that we give the name of body. If any man should think fit to deny that these things are qualities, or that they require any subject, I leave him to enjoy his opinion as a man who denies first principles, and is not fit to be reasoned with. If he has common understanding, he will find that he cannot converse half an hour without saying things which imply the contrary of what he professes to believe.
+
+In like manner, the things I am conscious of, such as thought, reasoning, desire, necessarily suppose something that thinks, that reasons, that desires. We do not give the name of mind to thought, reason, or desire; but to that being which thinks, which reasons, and which desires.
+
+That every act or operation, therefore, supposes an agent, that every quality supposes a subject, are things which I do not attempt to prove, but take for granted.
+
+6. I take it for granted, that, in most operations of the mind, there must be an object distinct from the operation itself. I cannot see, without seeing something. To see without having any object of sight is absurd. I cannot remember, without remembering something. The thing remembered is past, while the remembrance of it is present; and, therefore, the operation and the object of it must be distinct things.
+
+7. We ought likewise to take for granted, as first principles, things wherein we find an universal agreement, among the learned and unlearned, in the different nations and ages of the world.
+
+8. I need hardly say that I shall also take for granted such facts as are attested to the conviction of all sober and reasonable men, either by our senses, by memory, or by human testimony.
+
+Upon the whole, I acknowledge that we ought to be cautious that we do not adopt opinions as first principles which are not entitled to that character. But there is surely the least danger of men’s being imposed upon in this way, when such principles openly lay claim to the character, and are thereby fairly exposed to the examination of those who may dispute their authority. We do not pretend that those things that are laid down as first principles may not be examined, and that we ought not to have our ears open to what may be pleaded against their being admitted as such. Let us deal with them as an upright judge does with a witness who has a fair character. He pays a regard to the testimony of such a witness while his character is unimpeached; but, if it can be shown that he is suborned, or that he is influenced by malice or partial favour, his testimony loses all its credit, and is justly rejected.
+
+Let us lay down this as a fundamental principle in our inquiries into the structure of the mind and its operation—that no regard is due to the conjectures or hypotheses of philosophers, however ancient, however generally received. Let us accustom ourselves to try every opinion by the touchstone of fact and experience. What can fairly be deduced from facts duly observed or sufficiently attested, is genuine and pure; it is the voice of God, and no fiction of human imagination.
+
+If a philosopher, therefore, pretends to shew us the cause of any natural effect, whether relating to matter or to mind, let us first consider whether there is sufficient evidence that the cause he assigns does really exist. If there is not, reject it with disdain, as a fiction which ought to have no place in genuine philosophy. If the cause assigned really exists, consider, in the next place, whether the effect it is brought to explain necessarily follows from it. Unless it has these two conditions, it is good for nothing.
+
+The conclusion I would draw from all that has been said on analogy, is, that, in our inquiries concerning the mind and its operations, we ought never to trust to reasonings drawn from some supposed similitude of body to mind; and that we ought to be very much upon our guard that we be not imposed upon by those analogical terms and phrases, by which the operations of the mind are expressed in all languages.
+
+If we attend to that act of our mind which we call the perception of an external object of sense, we shall find in it these three things:—First, Some conception or notion of the object perceived; Secondly, A strong and irresistible conviction and belief of its present existence; and, Thirdly, That this conviction and belief are immediate, and not the effect of reasoning.
+
+First, It is impossible to perceive an object without having some notion or conception of that which we perceive. We may, indeed, conceive an object which we do not perceive; but, when we perceive the object, we must have some perception of it at the same time; and we have commonly a more clear and steady notion of the object while we perceive it, than we have from memory or imagination when it is not perceived. Yet, even in perception, the notion which our senses give of the object may be more or less clear, more or less distinct, in all possible degrees.
+
+Thus we see more distinctly an object at a small than at a great distance. An object at a great distance is seen more distinctly in a clear than in a foggy day. An object seen indistinctly with the naked eye, on account of its smallness, may be seen distinctly with a microscope. The objects in this room will be seen by a person in the room less and less distinctly as the light of the day fails; they pass through all the various degrees of distinctness according to the degrees of the light, and, at last, in total darkness they are not seen at all. What has been said of the objects of sight is so easily applied to the objects of the other senses, that the application may be left to the reader.
+
+In a matter so obvious to every person capable of reflection, it is necessary only farther to observe, that the notion which we get of an object, merely by our external sense, ought not to be confounded with that more scientific notion which a man, come to the years of understanding, may have of the same object, by attending to its various attributes, or to its various parts, and their relation to each other, and to the whole. Thus, the notion which a child has of a jack for roasting meat, will be acknowledged to be very different from that of a man who understands its construction, and perceives the relation of the parts to one another, and to the whole. The child sees the jack and every part of it as well as the man. The child, therefore, has all the notion of it which sight gives; whatever there is more in the notion which the man forms of it, must be derived from other powers of the mind, which may afterwards be explained. This observation is made here only that we may not confound the operations of different powers of the mind, which by being always conjoined after we grow up to understanding, are apt to pass for one and the same.
+
+Secondly, In perception we not only have a notion more or less distinct of the object perceived, but also an irresistible conviction and belief of its existence. This is always the case when we are certain that we perceive it. There may be a perception so faint and indistinct as to leave us in doubt whether we perceive the object or not. Thus, when a star begins to twinkle as the light of the sun withdraws, one may, for a short time, think he sees it without being certain, until the perception acquire some strength and steadiness. When a ship just begins to appear in the utmost verge of the horizon, we may at first be dubious whether we perceive it or not; but when the perception is in any degree clear and steady, there remains no doubt of its reality; and when the reality of the perception is ascertained, the existence of the object perceived can no longer be doubted.
+
+I observed, Thirdly, That this conviction is not only irresistible, but it is immediate; that is, it is not by a train of reasoning and argumentation that we come to be convinced of the existence of what we perceive; we ask no argument for the existence of the object, but that we perceive it; perception commands our belief upon its own authority, and disdains to rest its authority upon any reasoning whatsoever.
+
+The conviction of a truth may be irresistible, and yet not immediate. Thus, my conviction that the three angles of every plain triangle are equal to two right angles, is irresistible, but it is not immediate; I am convinced of it by demonstrative reasoning. There are other truths in mathematics of which we have not only an irresistible but an immediate conviction. Such are the axioms. Our belief of the axioms in mathematics is not grounded upon argument—arguments are grounded upon them; but their evidence is discerned immediately by the human understanding.
+
+It is, no doubt, one thing to have an immediate conviction of a self-evident axiom; it is another thing to have an immediate conviction of the existence of what we see; but the conviction is equally immediate and equally irresistible in both cases.
+
+Almost all our perceptions have corresponding sensations which constantly accompany them, and, on that account, are very apt to be confounded with them. Neither ought we to expect that the sensation, and its corresponding perception, should be distinguished in common language, because the purposes of common life do not require it. Language is made to serve the purposes of ordinary conversation; and we have no reason to expect that it should make distinctions that are not of common use. Hence it happens, that a quality perceived, and the sensation corresponding to that perception, often go under the same name.
+
+This makes the names of most of our sensations ambiguous, and this ambiguity hath very much perplexed philosophers. It will be necessary to give some instances, to illustrate the distinction between our sensations and the objects of perception.
+
+When I smell a rose, there is in this operation both sensation and perception. The agreeable odour I feel, considered by itself, without relation to any external object, is merely a sensation. It affects the mind in a certain way; and this affection of the mind may be conceived, without a thought of the rose, or any other object. This sensation can be nothing else than it is felt to be. Its very essence consists in being felt; and, when it is not felt, it is not. There is no difference between the sensation and the feeling of it—they are one and the same thing. It is for this reason that we before observed that, in sensation, there is no object distinct from that act of the mind by which it is felt—and this holds true with regard to all sensations.
+
+Let us next attend to the perception which we have in smelling a rose. Perception has always an external object; and the object of my perception, in this case, is that quality in the rose which I discern by the sense of smell. Observing that the agreeable sensation is raised when the rose is near, and ceases when it is removed, I am led, by my nature, to conclude some quality to be in the rose, which is the cause of this sensation. This quality in the rose is the object perceived; and that act of my mind by which I have the conviction and belief of this quality, is what in this case I call perception.
+
+But it is here to be observed, that the sensation I feel, and the quality in the rose which I perceive, are both called by the same name. The smell of a rose is the name given to both: so that this name hath two meanings; and the distinguishing its different meaning removes all perplexity, and enables us to give clear and distinct answers to questions about which philosophers have held much dispute.
+
+Thus, if it is asked, whether the smell be in the rose, or in the mind that feels it, the answer is obvious: That there are two different things signified by the smell of a rose; one of which is in the mind, and can be in nothing but in a sentient being; the other is truly and properly in the rose. The sensation which I feel is in my mind. The mind is the sentient being; and, as the rose is insentient, there can be no sensation, nor anything resembling sensation in it. But this sensation in my mind is occasioned by a certain quality in the rose, which is called by the same name with the sensation, not on account of any similitude, but because of their constant concomitancy.
+
+All the names we have for smells, tastes, sounds, and for the various degrees of heat and cold, have a like ambiguity; and what has been said of the smell of a rose may be applied to them. They signify both a sensation, and a quality perceived by means of that sensation. The first is the sign, the last the thing signified. As both are conjoined by nature, and as the purposes of common life do not require them to be disjoined in our thoughts, they are both expressed by the same name: and this ambiguity is to be found in all languages, because the reason of it extends to all.
+
+Sensation, taken by itself, implies neither the conception nor belief of any external object. It supposes a sentient being, and a certain manner in which that being is affected; but it supposes no more. Perception implies an immediate conviction and belief of something external — something different both from the mind that perceives, and from the act of perception. Things so different in their nature ought to be distinguished; but, by our constitution, they are always united. Every different perception is conjoined with a sensation that is proper to it. The one is the sign, the other the thing signified. They coalesce in our imagination. They are signified by one name, and are considered as one simple operation. The purposes of life do not require them to be distinguished.
+
+It is the philosopher alone who has occasion to distinguish them, when he would analyse the operation compounded of them. But he has no suspicion that there is any composition in it; and to discover this requires a degree of reflection which has been too little practised even by philosophers.
+
+Every one knows that extension, divisibility, figure, motion, solidity, hardness, softness, and fluidity, were by Mr Locke called primary qualities of body; and that sound, colour, taste, smell, and heat or cold, were called secondary qualities. Is there a just foundation for this distinction? Is there anything common to the primary which belongs not to the secondary? And what is it?
+
+I answer, That there appears to me to be a real foundation for the distinction; and it is this—that our senses give us a direct and a distinct notion of the primary qualities, and inform us what they are in themselves. But of the secondary qualities, our senses give us only a relative and obscure notion. They inform us only, that they are qualities that affect us in a certain manner—that is, produce in us a certain sensation; but as to what they are in themselves, our senses leave us in the dark.
+
+Every man capable of reflection may easily satisfy himself that he has a perfectly clear and distinct notion of extension, divisibility, figure, and motion. The solidity of a body means no more but that it excludes other bodies from occupying the same place at the same time. Hardness, softness, and fluidity are different degrees of cohesion in the parts of a body. It is fluid when it has no sensible cohesion; soft, when the cohesion is weak; and hard, when it is strong. Of the cause of this cohesion we are ignorant, but the thing itself we understand perfectly, being immediately informed of it by the sense of touch. It is evident, therefore, that of the primary qualities we have a clear and distinct notion; we know what they are, though we may be ignorant of their causes.
+
+I observed, farther, that the notion we have of primary qualities is direct, and not relative only. A relative notion of a thing, is, strictly speaking, no notion of the thing at all, but only of some relation which it bears to something else.
+
+Thus, gravity sometimes signifies the tendency of bodies towards the earth; sometimes it signifies the cause of that tendency. When it means the first, I have a direct and distinct notion of gravity; I see it, and feel it, and know perfectly what it is; but this tendency must have a cause. We give the same name to the cause; and that cause has been an object of thought and of speculation. Now, what notion have we of this cause when we think and reason about it? It is evident we think of it as an unknown cause, of a known effect. This is a relative notion; and it must be obscure, because it gives us no conception of what the thing is, but of what relation it bears to something else. Every relation which a thing unknown bears to something that is known, may give a relative notion of it; and there are many objects of thought and of discourse of which our faculties can give no better than a relative notion.
+
+Having premised these things to explain what is meant by a relative notion, it is evident that our notion of primary qualities is not of this kind; we know what they are, and not barely what relation they bear to something else.
+
+It is otherwise with secondary qualities. If you ask me, what is that quality or modification in a rose which I call its smell, I am at a loss to answer directly. Upon reflection, I find, that I have a distinct notion of the sensation which it produces in my mind. But there can be nothing like to this sensation in the rose, because it is insentient. The quality in the rose is something which occasions the sensation in me; but what that something is, I know not. My senses give me no information upon this point. The only notion, therefore, my senses give is this—that smell in the rose is an unknown quality or modification, which is the cause or occasion of a sensation which I know well. The relation which this unknown quality bears to the sensation with which nature hath connected it, is all I learn from the sense of smelling; but this is evidently a relative notion. The same reasoning will apply to every secondary quality.
+
+Without attempting a definition of this operation of the mind, I shall endeavour to explain some of its properties; consider the theories about it; and take notice of some mistakes of philosophers concerning it.
+
+It may be observed that conception enters as an ingredient in every operation of the mind. Our senses cannot give us the belief of any object, without giving some conception of it at the same time. No man can either remember or reason about things of which he hath no conception. When we will to exert any of our active powers, there must be some conception of what we will to do. There can be no desire nor aversion, love nor hatred, without some conception of the object. We cannot feel pain without conceiving it, though we can conceive it without feeling it. These things are self-evident.
+
+In every operation of the mind, therefore, in everything we call thought, there must be conception. When we analyse the various operations either of the understanding or of the will, we shall always find this at the bottom, like the caput mortuum of the chemists, or the materia prima of the Peripatetics; but, though there is no operation of mind without conception, yet it may be found naked, detached from all others, and then it is called simple apprehension, or the bare conception of a thing.
+
+As all the operations of our mind are expressed by language, every one knows that it is one thing to understand what is said, to conceive or apprehend its meaning, whether it be a word, a sentence, or a discourse; it is another thing to judge of it, to assent or dissent, to be persuaded or moved. The first is simple apprehension and may be without the last; but the last cannot be without the first.
+
+In bare conception there can neither be truth nor falsehood, because it neither affirms nor denies. Every judgment, and every proposition by which judgment is expressed, must be true or false; and the qualities of true and false, in their proper sense, can belong to nothing but to judgments, or to propositions which express judgment. In the bare conception of a thing there is no judgment, opinion, or belief included, and therefore it cannot be either true or false.
+
+If one should ask, What is meant by conceiving a thing? we should very naturally answer, that it is having an image of it in the mind—and perhaps we could not explain the word better. This shews that conception, and the image of a thing in the mind, are synonymous expressions. The image in the mind, therefore, is not the object of conception, nor is it any effect produced by conception as a cause. It is conception itself. That very mode of thinking which we call conception, is by another name called an image in the mind.
+
+Nothing more readily gives the conception of a thing than the seeing an image of it. Hence, by a figure common in language, conception is called an image of the thing conceived. But to shew that it is not a real but a metaphorical image, it is called an image in the mind. We know nothing that is properly in the mind but thought; and, when anything else is said to be in the mind, the expression must be figurative, and signify some kind of thought.
+
+Imagination, when it is distinguished from conception, seems to me to signify one species of conception—to wit, the conception of visible objects. Thus, in a mathematical proposition, I imagine the figure, and I conceive the demonstration; it would not, I think, be improper to say, I conceive both; but it would not be so proper to say, I imagine the demonstration.
+
+The last property I shall mention of this faculty, is that which essentially distinguishes it from every other power of the mind; and it is, that it is not employed solely about things which have existence. I can conceive a winged horse or a centaur, as easily and as distinctly as I can conceive a man whom I have seen. Nor does this distinct conception incline my judgment in the least to the belief that a winged horse or a centaur ever existed.
+
+It is not so with the other operations of our minds. They are employed about real existences, and carry with them the belief of their objects. When I feel pain, I am compelled to believe that the pain that I feel has a real existence. When I perceive any external object, my belief of the real existence of the object is irresistible. When I distinctly remember any event, though that event may not now exist, I can have no doubt but it did exist. That consciousness which we have of the operations of our own minds, implies a belief of the real existence of those operations.
+
+Thus we see, that the powers of sensation, of perception, of memory, and of consciousness, are all employed solely about objects that do exist, or have existed. But conception is often employed about objects that neither do, nor did, nor will exist. This is the very nature of this faculty, that its object, though distinctly conceived, may have no existence. Such an object we call a creature of imagination; but this creature never was created.
+
+First, Judgment is an act of the mind, specifically different from simple apprehension, or the bare conception of a thing. It would be unnecessary to observe this, if some philosophers had not been led by their theories to a contrary opinion.
+
+Although there can be no judgment without a conception of the things about which we judge, yet conception may be without any judgment. Judgment can be expressed by a proposition only, and a proposition is a complete sentence; but simple apprehension may be expressed by a word or words, which make no complete sentence. When simple apprehension is employed about a proposition, every man knows that it is one thing to apprehend a proposition—that is, to conceive what it means—but it is quite another thing to judge it to be true or false.
+
+It is self-evident that every judgment must be either true or false; but simple apprehension, or conception, can neither be true nor false, as was shewn before.
+
+One judgment may be contradictory to another; and it is impossible for a man to have two judgments at the same time, which he perceives to be contradictory. But contradictory propositions may be conceived at the same time without any difficulty. That the sun is greater than the earth, and that the sun is not greater than the earth, are contradictory propositions. He that apprehends the meaning of one, apprehends the meaning of both. But it is impossible for him to judge both to be true at the same time. He knows that, if the one is true, the other must be false. For these reasons, I hold it to be certain that judgment and simple apprehension are acts of the mind specifically different.
+
+Secondly, There are notions or ideas that ought to be referred to the faculty of judgment as their source; because, if we had not that faculty, they could not enter into our minds; and to those that have that faculty, and are capable of reflecting upon its operations, they are obvious and familiar.
+
+Among these we may reckon the notion of judgment itself; the notions of a proposition—of its subject, predicate, and copula; of affirmation and negation, of true and false; of knowledge, belief, disbelief, opinion, assent, evidence. From no source could we acquire these notions, but from reflecting upon our judgments. Relations of things make one great class of our notions or ideas; and we cannot have the idea of any relation without some exercise of judgment, as will appear afterwards.
+
+Thirdly, In persons come to years of understanding, judgment necessarily accompanies all sensation, perception by the senses, consciousness, and memory, but not conception.
+
+I restrict this to persons come to the years of understanding, because it may be a question, whether infants, in the first period of life, have any judgment or belief at all. The same question may be put with regard to brutes and some idiots. This question is foreign to the present subject; and I say nothing here about it, but speak only of persons who have the exercise of judgment.
+
+In them it is evident that a man who feels pain, judges and believes that he is really pained. The man who perceives an object, believes that it exists, and is what he distinctly perceives it to be; nor is it in his power to avoid such judgment. And the like may be said of memory, and of consciousness. Whether judgment ought to be called a necessary concomitant of these operations, or rather a part or ingredient of them, I do not dispute; but it is certain that all of them are accompanied with a determination that something is true or false, and a consequent belief. If this determination be not judgment, it is an operation that has got no name; for it is not simple apprehension, neither is it reasoning; it is a mental affirmation or negation; it may be expressed by a proposition affirmative or negative, and it is accompanied with the firmest belief. These are the characteristics of judgment; and I must call it judgment, till I can find another name to it.
+
+The judgments we form are either of things necessary, or of things contingent. That three times three is nine, that the whole is greater than a part, are judgments about things necessary. Our assent to such necessary propositions is not grounded upon any operation of sense, of memory, or of consciousness, nor does it require their concurrence; it is unaccompanied by any other operation but that of conception, which must accompany all judgment; we may therefore call this judgment of things necessary pure judgment. Our judgment of things contingent must always rest upon some other operation of the mind, such as sense, or memory, or consciousness, or credit in testimony, which is itself grounded upon sense.
+
+That I now write upon a table covered with green cloth, is a contingent event, which I judge to be most undoubtedly true. My judgment is grounded upon my perception, and is a necessary concomitant or ingredient of my perception. That I dined with such a company yesterday, I judge to be true, because I remember it; and my judgment necessarily goes along with this remembrance, or makes a part of it.
+
+There are many forms of speech in common language which shew that the senses, memory and consciousness, are considered as judging faculties. We say that a man judges of colours by his eye, of sounds by his ear. We speak of the evidence of sense, the evidence of memory, the evidence of consciousness. Evidence is the ground of judgment; and when we see evidence, it is impossible not to judge.
+
+When we speak of seeing or remembering anything, we, indeed, hardly ever add that we judge it to be true. But the reason of this appears to be, that such an addition would be mere superfluity of speech, because every one knows that what I see or remember, I must judge to be true, and cannot do otherwise.
+
+And, for the same reason, in speaking of anything that is self-evident or strictly demonstrated, we do not say that we judge it to be true. This would be superfluity of speech, because every man knows that we must judge that to be true which we hold self-evident or demonstrated.
+
+When you say you saw such a thing, or that you distinctly remember it, or when you say of any proposition that it is self-evident, or strictly demonstrated, it would be ridiculous after this to ask whether you judge it to be true; nor would it be less ridiculous in you to inform us that you do. It would be a superfluity of speech of the same kind as if, not content with saying that you saw such an object, you should add that you saw it with your eyes.
+
+There is, therefore, good reason why, in speaking or writing, judgment should not be expressly mentioned, when all men know it to be necessarily implied; that is, when there can be no doubt. In such cases, we barely mention the evidence. But when the evidence mentioned leaves room for doubt, then, without any superfluity or tautology, we say we judge the thing to be so, because this is not implied in what was said before. A woman with child never says, that, going such a journey, she carried her child along with her. We know that, while it is in her womb, she must carry it along with her. There are some operations of mind that may be said to carry judgment in their womb, and can no more leave it behind than the pregnant woman can leave her child. Therefore, in speaking of such operations, it is not expressed.
+
+A fourth observation is, that some exercise of judgment is necessary in the formation of all abstract and general conceptions, whether more simple or more complex; in dividing, in defining, and, in general, in forming all clear and distinct conceptions of things, which are the only fit materials of reasoning.
+
+These operations are allied to each other, and therefore I bring them under one observation. They are more allied to our rational nature than those mentioned in the last observation, and therefore are considered by themselves.
+
+That I may not be mistaken, it may be observed that I do not say that abstract notions, or other accurate notions of things, after they have been formed, cannot be barely conceived without any exercise of judgment about them. I doubt not that they may: but what I say is, that, in their formation in the mind at first, there must be some exercise of judgment.
+
+It is impossible to distinguish the different attributes belonging to the same subject, without judging that they are really different and distinguishable, and that they have that relation to the subject which logicians express, by saying that they may be predicated of it. We cannot generalise, without judging that the same attribute does or may belong to many individuals. It has been shewn that our simplest general notions are formed by these two operations of distinguishing and generalising; judgment therefore is exercised in forming the simplest general notions.
+
+In those that are more complex, and which have been shewn to be formed by combining the more simple, there is another act of the judgment required; for such combinations are not made at random, but for an end; and judgment is employed in fitting them to that end. We form complex general notions for conveniency of arranging our thoughts in discourse and reasoning; and, therefore, of an infinite number of combinations that might be formed, we choose only those that are useful and necessary.
+
+I add in general, that, without some degree of judgment, we can form no accurate and distinct notions of things; so that one province of judgment is, to aid us in forming clear and distinct conceptions of things, which are the only fit materials for reasoning.
+
+This will probably appear to be a paradox to philosophers, who have always considered the formation of ideas of every kind as belonging to simple apprehension; and that the sole province of judgment is to put them together in affirmative or negative propositions; and therefore it requires some confirmation.
+
+First, I think it necessarily follows, from what has been already said in this observation. For if, without some degree of judgment, a man can neither distinguish, nor divide, nor define, nor form any general notion, simple or complex, he surely, without some degree of judgment, cannot have in his mind the materials necessary to reasoning.
+
+There cannot be any proposition in language which does not involve some general conception. The proposition, that I exist, which Des Cartes thought the first of all truths, and the foundation of all knowledge, cannot be conceived without the conception of existence, one of the most abstract general conceptions. A man cannot believe his own existence, or the existence of anything he sees or remembers, until he has so much judgment as to distinguish things that really exist from things which are only conceived. He sees a man six feet high; he conceives a man sixty feet high: he judges the first object to exist, because he sees it; the second he does not judge to exist, because he only conceives it. Now, I would ask, Whether he can attribute existence to the first object, and not to the second, without knowing what existence means? It is impossible.
+
+How early the notion of existence enters into the mind, I cannot determine; but it must certainly be in the mind as soon as we can affirm of anything, with understanding, that it exists.
+
+In every other proposition, the predicate, at least, must be a general notion—a predicable and an universal being one and the same. Besides this, every proposition either affirms or denies. And no man can have a distinct conception of a proposition, who does not understand distinctly the meaning of affirming or denying. But these are very general conceptions, and, as was before observed, are derived from judgment, as their source and origin.
+
+The necessity of some degree of judgment in forming accurate and distinct notions of things will farther appear, if we consider attentively what notions we can form, without any aid of judgment, of the objects of sense, of the operations of our own minds, or of the relations of things.
+
+To begin with the objects of sense. It is acknowledged, on all hands, that the first notions we have of sensible objects are got by the external senses only, and probably before judgment is brought forth; but these first notions are neither simple, nor are they accurate and distinct: they are gross and indistinct, and, like the chaos, a rudis indigestaque moles. Before we can have any distinct notion of this mass, it must be analysed; the heterogeneous parts must be separated in our conception, and the simple elements, which before lay hid in the common mass, must first be distinguished, and then put together into one whole.
+
+In this way it is that we form distinct notions even of the objects of sense; but this process of analysis and composition, by habit, becomes so easy, and is performed so readily, that we are apt to overlook it, and to impute the distinct notion we have formed of the object to the senses alone; and this we are the more prone to do because, when once we have distinguished the sensible qualities of the object from one another, the sense gives testimony to each of them.
+
+If we should apply this reasoning to more complex objects of sense, the conclusion would be still more evident. A dog may be taught to turn a jack, but he can never be taught to have a distinct notion of a jack. He sees every part as well as a man; but the relation of the parts to one another and to the whole, he has not judgment to comprehend.
+
+A distinct notion of an object, even of sense, is never got in an instant; but the sense performs its office in an instant. Time is not required to see it better, but to analyse it, to distinguish the different parts, and their relation to one another and to the whole.
+
+Hence it is that, when any vehement passion or emotion hinders the cool application of judgment, we get no distinct notion of an object, even though the sense be long directed to it. A man who is put into a panic, by thinking he sees a ghost, may stare at it long without having any distinct notion of it; it is his understanding, and not his sense, that is disturbed by his horror. If he can lay that aside, judgment immediately enters upon its office, and examines the length and breadth, the colour, and figure, and distance of the object. Of these, while his panic lasted, he had no distinct notion, though his eyes were open all the time.
+
+When the eye of sense is open, but that of judgment shut by a panic, or any violent emotion that engrosses the mind, we see things confusedly, and probably much in the same manner that brutes and perfect idiots do, and infants before the use of judgment.
+
+Having said so much of the notions we get from the senses alone of the objects of sense, let us next consider what notions we can have from consciousness alone of the operations of our minds.
+
+Mr Locke very properly calls consciousness an internal sense. It gives the like immediate knowledge of things in the mind—that is, of our own thoughts and feelings—as the senses give us of things external. There is this difference, however, that an external object may be at rest, and the sense may be employed about it for some time. But the objects of consciousness are never at rest: the stream of thought flows like a river, without stopping a moment; the whole train of thought passes in succession under the eye of consciousness, which is always employed about the present. But is it consciousness that analyses complex operations, distinguishes their different ingredients, and combines them in distinct parcels under general names? This surely is not the work of consciousness, nor can it be performed without reflection, recollecting and judging of what we were conscious of, and distinctly remember. This reflection does not appear in children. Of all the powers of the mind, it seems to be of the latest growth, whereas consciousness is coeval with the earliest.
+
+Consciousness, being a kind of internal sense, can no more give us distinct and accurate notions of the operations of our minds, than the external senses can give of external objects. Reflection upon the operations of our minds is the same kind of operation with that by which we form distinct notions of external objects. They differ not in their nature, but in this only, that one is employed about external, and the other about internal objects; and both may, with equal propriety, be called reflection.
+
+Mr Locke has restricted the word reflection to that which is employed about the operations of our minds, without any authority, as I think, from custom, the arbiter of language. For, surely, I may reflect upon what I have seen or heard, as well as upon what I have thought. The word, in its proper and common meaning, is equally applicable to objects of sense, and to objects of consciousness. He has likewise confounded reflection with consciousness, and seems not to have been aware that they are different powers, and appear at very different periods of life.
+
+If that eminent philosopher had been aware of these mistakes about the meaning of the word reflection, he would, I think, have seen that, as it is by reflection upon the operations of our own minds that we can form any distinct and accurate notions of them, and not by consciousness without reflection, so it is by reflection upon the objects of sense, and not by the senses without reflection, that we can form distinct notions of them. Reflection upon anything, whether external or internal, makes it an object of our intellectual powers, by which we survey it on all sides, and form such judgments about it as appear to be just and true.
+
+I proposed, in the third place, to consider our notions of the relations of things: and here I think, that, without judgment, we cannot have any notion of relations.
+
+There are two ways in which we get the notion of relations. The first is, by comparing the related objects, when we have before had the conception of both. By this comparison, we perceive the relation, either immediately, or by a process of reasoning. That my foot is longer than my finger. I perceive immediately; and that three is the half of six. This immediate perception is immediate and intuitive judgment. That the angles at the base of an isosceles triangle are equal, I perceive by a process of reasoning, in which it will be acknowledged there is judgment.
+
+Another way in which we get the notion of relations (which seems not to have occurred to Mr Locke) is, when, by attention to one of the related objects, we perceive or judge that it must, from its nature, have a certain relation to something else, which before, perhaps, we never thought of; and thus our attention to one of the related objects produces the notion of a correlate, and of a certain relation between them.
+
+Thus, when I attend to colour, figure, weight, I cannot help judging these to be qualities which cannot exist without a subject; that is, something which is coloured, figured, heavy. If I had not perceived such things to be qualities, I should never have had any notion of their subject, or of their relation to it.
+
+By attending to the operations of thinking, memory, reasoning, we perceive or judge that there must be something which thinks, remembers, and reasons, which we call the mind. When we attend to any change that happens in Nature, judgment informs us that there must be a cause of this change, which had power to produce it; and thus we get the notions of cause and effect, and of the relation between them. When we attend to body, we perceive that it cannot exist without space; hence we get the notion of space (which is neither an object of sense nor of consciousness), and of the relation which bodies have to a certain portion of unlimited space, as their place.
+
+I apprehend, therefore, that all our notions of relations may more properly be ascribed to judgment as their source and origin, than to any other power of the mind. We must first perceive relations by our judgment, before we can conceive them without judging of them; as we must first perceive colours by sight, before we can conceive them without seeing them. I think Mr Locke, when he comes to speak of the ideas of relations, does not say that they are ideas of sensation or reflection, but only that they terminate in, and are concerned about, ideas of sensation or reflection.
+
+The notions of unity and number are so abstract, that it is impossible they should enter into the mind until it has some degree of judgment. We see with what difficulty, and how slowly, children learn to use, with understanding, the names even of small numbers, and how they exult in this acquisition when they have attained it. Every number is conceived by the relation which it bears to unity, or to known combinations of units; and upon that account, as well as on account of its abstract nature, all distinct notions of it require some degree of judgment.
+
+In its proper place, I shall have occasion to shew that judgment is an ingredient in all determinations of taste, in all moral determinations, and in many of our passions and affections. So that this operation, after we come to have any exercise of judgment, mixes with most of the operations of our minds, and, in analysing them, cannot be overlooked without confusion and error.
+
+All that is intended in this chapter is to explain the meaning of common sense, that it may not be treated, as it has been by some, as a new principle, or as a word without any meaning. I have endeavoured to shew that sense, in its most common, and therefore its most proper meaning, signifies judgment, though philosophers often use it in another meaning. From this it is natural to think that common sense should mean common judgment, and so it really does.
+
+What the precise limits are which divide common judgment from what is beyond it on the one hand, and from what falls short of it on the other, may be difficult to determine; and men may agree in the meaning of the word who have different opinions about those limits, or who even never thought of fixing them. This is as intelligible as, that all Englishmen should mean the same thing by the county of York, though perhaps not a hundredth part of them can point out its precise limits.
+
+Indeed, it seems to me, that common sense is as unambiguous a word and as well understood as the county of York. We find it in innumerable places in good writers; we hear it on innumerable occasions in conversation; and, as far as I am able to judge, always in the same meaning. And this is probably the reason why it is so seldom defined or explained.
+
+Dr Johnson, in the authorities he gives, to shew that the word sense signifies understanding, soundness of faculties, strength of natural reason, quotes Dr Bentley for what may be called a definition of common sense, though probably not intended for that purpose, but mentioned accidentally: “God hath endowed mankind with power and abilities, which we call natural light and reason, and common sense.”
+
+It is absurd to conceive that there can be any opposition between reason and common sense. It is indeed the first-born of Reason; and, as they are commonly joined together in speech and in writing, they are inseparable in their nature.
+
+We ascribe to reason two offices, or two degrees. The first is to judge of things self-evident; the second to draw conclusions that are not self-evident from those that are. The first of these is the province, and the sole province, of common sense; and, therefore, it coincides with reason in its whole extent, and is only another name for one branch or one degree of reason. Perhaps it may be said, Why then should you give it a particular name, since it is acknowledged to be only a degree of reason? It would be a sufficient answer to this, Why do you abolish a name which is to be found in the language of all civilized nations, and has acquired a right by prescription? Such an attempt is equally foolish and ineffectual. Every wise man will be apt to think that a name which is found in all languages as far back as we can trace them, is not without some use.
+
+But there is an obvious reason why this degree of reason should have a name appropriated to it; and that is, that, in the greatest part of mankind, no other degree of reason is to be found. It is this degree that entitles them to the denomination of reasonable creatures. It is this degree of reason, and this only, that makes a man capable of managing his own affairs, and answerable for his conduct towards others. There is therefore the best reason why it should have a name appropriated to it.
+
+These two degrees of reason differ in other respects, which would be sufficient to entitle them to distinct names.
+
+The first is purely the gift of Heaven. And where Heaven has not given it, no education can supply the want. The second is learned by practice and rules, when the first is not wanting. A man who has common sense may be taught to reason. But, if he has not that gift, no teaching will make him able either to judge of first principles or to reason from them.
+
+I have only this farther to observe, that the province of common sense is more extensive in refutation than in confirmation. A conclusion drawn by a train of just reasoning from true principles cannot possibly contradict any decision of common sense, because truth will always be consistent with itself. Neither can such a conclusion receive any confirmation from common sense, because it is not within its jurisdiction.
+
+But it is possible that, by setting out from false principles, or by an error in reasoning, a man may be led to a conclusion that contradicts the decisions of common sense. In this case, the conclusion is within the jurisdiction of common sense, though the reasoning on which it was grounded be not; and a man of common sense may fairly reject the conclusion without being able to shew the error of the reasoning that led to it.
+
+Thus, if a mathematician, by a process of intricate demonstration, in which some false step was made, should be brought to this conclusion, that two quantities, which are both equal to a third, are not equal to each other, a man of common sense, without pretending to be a judge of the demonstration, is well entitled to reject the conclusion, and to pronounce it absurd.
+
+It is necessary that the first principles of knowledge be distinguished from other truths, and presented to view, that they may be sifted and examined on all sides. In order to this end, I shall attempt a detail of those I take to be such, and of the reasons why I think them entitled to that character.
+
+If the enumeration should appear to some redundant, to others deficient, and to others both—if things which I conceive to be first principles, should to others appear to be vulgar errors, or to be truths which derive their evidence from other truths, and therefore not first principles—in these things every man must judge for himself. I shall rejoice to see an enumeration more perfect in any or in all of those respects; being persuaded that the agreement of men of judgment and candour in first principles would be of no less consequence to the advancement of knowledge in general, than the agreement of mathematicians in the axioms of geometry has been to the advancement of that science.
+
+The truths that fall within the compass of human knowledge, whether they be self-evident, or deduced from those that are self-evident, may be reduced to two classes. They are either necessary and immutable truths, whose contrary is impossible; or they are contingent and mutable, depending upon some effect of will and power, which had a beginning, and may have an end.
+
+That a cone is the third part of a cylinder of the same base and the same altitude, is a necessary truth. It depends not upon the will and power of any being. It is immutably true, and the contrary impossible. That the sun is the centre about which the earth, and the other planets of our system, perform their revolutions, is a truth; but it is not a necessary truth. It depends upon the power and will of that Being who made the sun and all the planets, and who gave them those motions that seemed best to him.
+
+As the minds of men are occupied much more about truths that are contingent than about those that are necessary, I shall first endeavour to point out the principles of the former kind.
+
+1. First, then, I hold, as a first principle, the existence of everything of which I am conscious.
+
+This, I think, is the only principle of common sense that has never directly been called in question. It seems to be so firmly rooted in the minds of men, as to retain its authority with the greatest sceptics. Mr Hume, after annihilating body and mind, time and space, action and causation, and even his own mind, acknowledges the reality of the thoughts, sensations, and passions of which he is conscious.
+
+2. Another first principle, I think, is, That the thoughts of which I am conscious, are the thoughts of a being which I call myself, my mind, my person.
+
+The thoughts and feelings of which we are conscious are continually changing, and the thought of this moment is not the thought of the last; but something which I call myself, remains under this change of thought. This self has the same relation to all the successive thoughts I am conscious of—they are all my thoughts; and every thought which is not my thought, must be the thought of some other person.
+
+If any man asks a proof of this, I confess I can give none; there is an evidence in the proposition itself which I am unable to resist. Shall I think that thought can stand by itself without a thinking being? or that ideas can feel pleasure or pain? My nature dictates to me that it is impossible.
+
+3. Another first principle I take to be—That those things did really happen which I distinctly remember.
+
+This has one of the surest marks of a first principle; for no man ever pretended to prove it, and yet no man in his wits calls it in question: the testimony of memory, like that of consciousness, is immediate; it claims our assent upon its own authority.
+
+4. Another first principle is, Our own personal identity and continued existence, as far back as we remember anything distinctly.
+
+This we know immediately, and not by reasoning. It seems, indeed, to be a part of the testimony of memory. Everything we remember has such a relation to ourselves as to imply necessarily our existence at the time remembered.
+
+5. Another first principle is, That those things do really exist which we distinctly perceive by our senses, and are what we perceive them to be.
+
+It is too evident to need proof, that all men are by nature led to give implicit faith to the distinct testimony of their senses, long before they are capable of any bias from prejudices of education or of philosophy.
+
+6. Another first principle, I think, is, That we have some degree of power over our actions, and the determinations of our will.
+
+All power must be derived from the fountain of power, and of every good gift. Upon His good pleasure its continuance depends, and it is always subject to His control.
+
+Beings to whom God has given any degree of power, and understanding to direct them to the proper use of it, must be accountable to their Maker. But those who are intrusted with no power can have no account to make; for all good conduct consists in the right use of power; all bad conduct in the abuse of it.
+
+7. Another first principle is—That the natural faculties, by which we distinguish truth from error, are not fallacious. If any man should demand a proof of this, it is impossible to satisfy him. For, suppose it should be mathematically demonstrated, this would signify nothing in this case; because, to judge of a demonstration, a man must trust his faculties, and take for granted the very thing in question.
+
+8. Another first principle relating to existence, is, That there is life and intelligence in our fellow-men with whom we converse.
+
+9. Another first principle I take to be, that certain features of the countenance, sounds of the voice, and gestures of the body, indicate certain thoughts and dispositions of mind.
+
+10. Another first principle appears to me to be—That there is a certain regard due to human testimony in matters of fact, and even to human authority in matters of opinion.
+
+11. There are many events depending upon the will of man, in which there is a self-evident probability, greater or less, according to circumstances.
+
+12. The last principle of contingent truths I mention is, That, in the phænomena of nature, what is to be will probably be like to what has been in similar circumstances.
+
+We must have this conviction as soon as we are capable of learning anything from experience; for all experience is grounded upon a belief that the future will be like the past. Take away this principle, and the experience of an hundred years makes us no wiser with regard to what is to come.
+
+This is one of those principles which, when we grow up and observe the course of nature, we can confirm by reasoning. We perceive that Nature is governed by fixed laws, and that, if it were not so, there could be no such thing as prudence in human conduct; there would be no fitness in any means to promote an end; and what, on one occasion, promoted it, might as probably, on another occasion, obstruct it.
+
+But the principle is necessary for us before we are able to discover it by reasoning, and therefore is made a part of our constitution, and produces its effects before the use of reason.
+
+I do not at all affirm, that those I have mentioned are all the first principles from which we may reason concerning contingent truths. Such enumerations, even when made after much reflection, are seldom perfect.
+
+About most of the first principles of necessary truths there has been no dispute, and therefore it is the less necessary to dwell upon them. It will be sufficient to divide them into different classes; to mention some, by way of specimen, in each class; and to make some remarks on those of which the truth has been called in question.
+
+They may, I think, most properly be divided according to the sciences to which they belong.
+
+1. There are some first principles that may be called grammatical: such as, That every adjective in a sentence must belong to some substantive expressed or understood; that every complete sentence must have a verb.
+
+2. There are logical axioms: such as, That any contexture of words, which does not make a proposition, is neither true nor false; That every proposition is either true or false; That no proposition can be both true and false at the same time; That reasoning in a circle proves nothing; That whatever may be truly affirmed of a genus, may be truly affirmed of all the species, and all the individuals belonging to that genus.
+
+3. Every one knows there are mathematical axioms. Mathematicians have, from the days of Euclid, very wisely laid down the axioms or first principles on which they reason. And the effect which this appears to have had upon the stability and happy progress of this science, gives no small encouragement to attempt to lay the foundation of other sciences in a similar manner, as far as we are able.
+
+4. I think there are axioms, even in matters of taste. Notwithstanding the variety found among men in taste, there are, I apprehend, some common principles, even in matters of this kind. I never heard of any man who thought it a beauty in a human face to want a nose, or an eye, or to have the mouth on one side.
+
+That an unjust action has more demerit than an ungenerous one: That a generous action has more merit than a merely just one: That no man ought to be blamed for what it was not in his power to hinder: That we ought not to do to others what we would think unjust or unfair to be done to us in like circumstances. These are moral axioms, and many others might be named which appear to me to have no less evidence than those of mathematics.
+
+Some perhaps may think that our determinations, either in matters of taste or in morals, ought not to be accounted necessary truths: That they are grounded upon the constitution of that faculty which we call taste, and of that which we call the moral sense or conscience; which faculties might have been so constituted as to have given determinations different, or even contrary to those they now give: That, as there is nothing sweet or bitter in itself, but according as it agrees or disagrees with the external sense called taste; so there is nothing beautiful or ugly in itself, but according as it agrees or disagrees with the internal sense, which we also call taste; and nothing morally good or ill in itself, but according as it agrees or disagrees with our moral sense.
+
+This indeed is a system, with regard to morals and taste, which hath been supported in modern times by great authorities. And if this system be true, the consequence must be, that there can be no principles, either of taste or of morals, that are necessary truths. For, according to this system, all our determinations, both with regard to matters of taste, and with regard to morals, are reduced to matters of fact—I mean to such as these, that by our constitution we have on such occasions certain agreeable feelings, and on other occasions certain disagreeable feelings.
+
+But I cannot help being of a contrary opinion, being persuaded that a man who determined that polite behaviour has great deformity, and that there is great beauty in rudeness and ill-breeding, would judge wrong, whatever his feelings were.
+
+In like manner, I cannot help thinking that a man who determined that there is more moral worth in cruelty, perfidy, and injustice, than in generosity, justice, prudence, and temperance, would judge wrong, whatever his constitution was.
+
+And, if it be true that there is judgment in our determinations of taste and of morals, it must be granted that what is true or false in morals, or in matters of taste, is necessarily so. For this reason, I have ranked the first principles of morals and of taste under the class of necessary truths.
+
+6. The last class of first principles I shall mention, we may call metaphysical.
+
+I shall particularly consider three of these, because they have been called in question by Mr Hume.
+
+The first is, That the qualities which we perceive by our senses must have a subject, which we call body, and that the thoughts we are conscious of must have a subject, which we call mind.
+
+The second metaphysical principle I mention is—That whatever begins to exist, must have a cause which produced it.
+
+The last metaphysical principle I mention, which is opposed by the same author, is, That design and intelligence in the cause may be inferred, with certainty, from marks or signs of it in the effect.

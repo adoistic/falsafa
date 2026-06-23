@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 78,
+  "chapter_title": "Thoughts on a New Bank of England.",
+  "chapter_slug": "78-thoughts-on-a-new-bank-of-england",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2c2de89a-280f-591a-9702-a3acccdf4e59",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1241,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

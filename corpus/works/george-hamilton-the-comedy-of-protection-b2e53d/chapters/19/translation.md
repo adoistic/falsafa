@@ -4,7 +4,7 @@ work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
 work_title: The Comedy of Protection
 author_name: George Hamilton
 chapter_number: 19
-chapter_title: "CHAPTER XII: BREACH IN THE MINIMUM TARIFF"
+chapter_title: "Chapter XII: Breach in the Minimum Tariff"
 chapter_slug: 19
 variant_id: "228d7aee-b958-5c55-92b1-c047abd7dc29"
 content_type: translation

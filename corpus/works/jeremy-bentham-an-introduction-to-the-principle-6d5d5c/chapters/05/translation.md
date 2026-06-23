@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 5
-chapter_title: "Chapter IV: VALUE OF A LOT OF PLEASURE OR PAIN, HOW TO BE MEASURED"
+chapter_title: "Chapter IV: Value of a Lot of Pleasure or Pain, How to Be Measured"
 chapter_slug: 05
 variant_id: "8d02fdb0-4a3d-5b18-914b-5df8753b80f7"
 content_type: translation

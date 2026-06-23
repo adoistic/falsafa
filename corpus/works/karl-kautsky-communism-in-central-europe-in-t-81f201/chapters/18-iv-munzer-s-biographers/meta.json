@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 18,
+  "chapter_title": "IV. Münzer’s Biographers",
+  "chapter_slug": "18-iv-munzer-s-biographers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec8a3d9b-0d69-5ea7-8bd8-e546e2d907d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1255,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch04.htm"
+    }
+  ]
+}

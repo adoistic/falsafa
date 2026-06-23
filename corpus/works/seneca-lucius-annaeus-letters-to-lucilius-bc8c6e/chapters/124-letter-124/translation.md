@@ -1,0 +1,66 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 124
+chapter_title: Letter 124
+chapter_slug: "124-letter-124"
+variant_id: "6b69f669-4e2a-5a6b-9d85-00158becdcc9"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1969
+translator: thothica
+---
+
+1. "Many precepts of the ancients I could relate to you, unless you shrink back and are loth to learn these slight cares." But you do not shrink back, nor does any subtlety drive you off. It is not the mark of your refinement to pursue only the great and the easy. I approve this, that you reduce all things to some progress, and are offended only then, when by the utmost subtlety nothing is accomplished. That this shall not happen even now, I will take pains. The question is, whether the good is grasped by sense or by intellect. To this is joined the point that it is not present in dumb animals and in infants.
+
+2. Whoever set pleasure as the highest thing judge the good to be perceptible by sense; we, on the contrary, judge it intelligible, who assign it to the mind. If the senses judged of the good, we should reject no pleasure, for there is none that does not invite, none that does not delight; and, on the contrary, we should undergo no pain willingly, for there is none that does not offend the sense.
+
+3. Besides, those would not deserve reproach to whom pleasure is too pleasing and in whom the fear of pain is greatest. And yet we condemn men addicted to the gullet and to lust, and we despise those who will dare nothing manfully through fear of pain. But how do they sin, if they obey the senses, that is, the judges of good and evil? For to these you have handed over the arbitration of seeking and avoiding.
+
+4. But of course reason has been set over this matter; just as it decides about the happy life, about virtue, about the honourable, so it decides also about good and evil. For with them the judgement about the better is given to the basest part, that sense should pronounce upon the good, a thing dull and blunt and slower in man than in other animals.
+
+5. What if a man should wish to distinguish minute things not with his eyes, but by touch? No keener edge of sight than that of the eyes, and one more intent, would give him to discern good and evil. You see in how great an ignorance of the truth he is involved, and how he has flung down to the ground the sublime and divine, with whom touch judges concerning the highest, the good and the evil.
+
+6. "As," he says, "every science and art ought to have something manifest and grasped by sense, from which it arises and grows, so the happy life draws its foundation and beginning from things manifest and from that which falls under the sense. Surely you say that the happy life takes its beginning from things manifest."
+
+7. We call those things happy which are according to Nature. But what is according to Nature is plainly and at once apparent, just as what is whole. What is according to Nature, what falls to the new-born at once, I do not call good, but the beginning of good. You bestow the highest good, pleasure, upon infancy, so that the new-born begins there where the finished man arrives.
+
+8. You put the top in the place of the root. If anyone should say that the child lurking in the mother's womb, of sex too uncertain, tender and unfinished and unformed, is already in some good, he would plainly seem to err. And yet how little is the difference between him who at this very moment is receiving life, and him who is the lurking burden of his mother's womb? Each, as regards the understanding of good and evil, is equally mature, and the infant is no more yet capable of good than a tree or some dumb animal. But why is there no good in a tree and a dumb animal? Because there is no reason either. For this cause there is none in the infant either, for this too lacks it; he will come to good then, when he has come to reason. There is some animal irrational, some not yet rational, some rational but unfinished; in none of these is the good, reason brings it with it.
+
+9. What then is the difference among those things which I have mentioned? In that which is irrational, the good will never be. In that which is not yet rational, the good cannot be then. In that which is rational but unfinished, the good can now be, but is not.
+
+10. So I say, Lucilius: the good is not found in any body whatsoever, not at any age whatsoever, and it is as far from infancy as the last is from the first, as the finished from the beginning. Therefore neither is it in the tender little body just coalescing. Why should it not be? No more than in the seed.
+
+11. If you say this: we know some good of the tree and of the planted crop; this is not in the first leaf, which, just put forth, splits the soil. There is some good of the wheat; this is not yet in the milky blade, nor when the soft ear puts itself out of its husk, but when the summer and due ripeness have baked the grain. As every nature does not bring forth its own good unless it is consummated, so the good of man is not in man, except when his reason is perfected.
+
+12. But what is this good? I will tell you: a free mind, upright, subjecting other things to itself, itself to nothing. This good infancy is so far from receiving, that boyhood does not hope for it, and youth hopes for it wrongly; it goes well with old age, if it has reached it by long and intent study. If this is the good, it is also intelligible.
+
+13. "You said," he objects, "that there is some good of the tree, some of the grass; there can, then, be some good of the infant too." The true good is neither in trees nor in dumb animals; that which is good in them is called good on sufferance. "What is it?" you ask. That which is according to each thing's nature. The good indeed can in no way fall to a dumb animal; it is of a happier and better nature. Except where there is a place for reason, there is no good.
+
+14. These are four natures: of the tree, of the animal, of man, of God; these two, which are rational, have the same nature, and differ in this, that the one is immortal, the other mortal. Of these, then, Nature perfects the good of the one, that is, of God; care perfects that of the other, of man. The rest are perfect only in their own nature, not truly perfect, since reason is absent from them. For that at last is perfect which is perfect according to universal Nature, and universal Nature is rational. The rest can be perfect in their own kind.
+
+15. In that in which the happy life cannot be, neither can that be by which the happy life is produced; but the happy life is produced by goods. In a dumb animal there is not the happy life, nor that by which the happy life is produced; in a dumb animal there is no good.
+
+16. A dumb animal grasps the present by sense. It remembers the past, when there occurs that by which the sense is reminded; just as a horse remembers the road, when it has been brought to the beginning of it. But in the stable it has no memory of the road, however often trodden. The third time, that is, the future, does not concern the dumb.
+
+17. How then can their nature seem perfect, which have not the use of perfect time? For time consists of three parts, past, present, and to come. To animals only that which is the most fleeting has been given, within its course: the present. The memory of the past is rare, and is never recalled save by the occurrence of present things.
+
+18. The good of a perfect nature cannot, then, be in an imperfect nature; or, if such a nature has it, then the crops have it too. Nor do I deny that toward the things which seem to be according to Nature there are in dumb animals great and excited impulses, but disordered and confused. But the good is never disordered or confused.
+
+19. "What then?" you say. "Do dumb animals move in a disturbed and undisposed manner?" I should say they move in a disturbed and undisposed manner, if their nature admitted of order; as it is, they move according to their own nature. For that is disturbed which can at some time be also not disturbed; that is anxious which can be free from care. There is a vice in none save him who can have virtue; to dumb animals such motion belongs from their own nature.
+
+20. But, not to keep you long, there will be some good in a dumb animal, there will be some virtue, there will be something perfect, but neither good absolutely, nor virtue, nor perfect. For these fall to rational beings alone, to whom it is given to know why, to what extent, in what manner. So the good is in nothing save in that which has reason.
+
+21. You ask to what end this disputation now tends, and what profit it will be to your mind. I tell you: it both exercises and sharpens it, and at any rate, since it is going to do something, keeps it occupied in an honourable employment. It is of profit, moreover, even because it delays those who are hastening to wicked things. But this too I say: in no way can I be of more profit to you than if I show you your own good, if I separate you from the dumb animals, if I set you with God.
+
+22. Why, I ask, do you nourish and train the strength of the body? Nature has granted greater strength than that to beasts and wild creatures. Why do you cultivate your beauty? When you have done all things, you will be surpassed in comeliness by the dumb animals. Why do you comb your hair with vast diligence? Though you let it flow loose after the manner of the Parthians, or bind it as the Germans do, or scatter it as the Scythians are wont, on any horse a thicker mane will toss, on the neck of lions it will bristle more handsomely. When you have prepared yourself for swiftness, you will not be the equal of a little hare.
+
+23. Will you not, leaving aside the things in which you must needs be surpassed while you strive after what is another's, return to your own good? What is this? The mind, of course, amended and pure, an emulator of God, lifting itself above human things, placing nothing of its own outside itself. You are a rational animal. What then is the good in you? Perfect reason. Will you not call this forth to its own end, that it may grow as great as it possibly can?
+
+24. Then judge yourself happy when from it all joy shall be born for you, when, having seen the things which men snatch away, long for, guard, you find nothing—I do not say which you prefer, but which you wish for. I will give you a brief rule by which to measure yourself, by which to feel that you are already perfect: you will possess your own good when you understand that the fortunate are the most unfortunate of men. Farewell.

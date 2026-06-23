@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 13,
+  "chapter_title": "XII. The Flies in the Market-place.",
+  "chapter_slug": "13-xii-the-flies-in-the-market-place",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c60d9745-3183-5376-8d3e-1d877f5e2f87",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 870,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc795aa7-c2b6-5994-9b90-61238c658efa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 941,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

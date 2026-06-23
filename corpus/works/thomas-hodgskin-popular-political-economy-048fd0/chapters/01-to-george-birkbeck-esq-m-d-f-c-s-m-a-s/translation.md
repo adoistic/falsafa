@@ -4,7 +4,7 @@ work_slug: "thomas-hodgskin-popular-political-economy-048fd0"
 work_title: Popular Political Economy
 author_name: Thomas Hodgskin
 chapter_number: 1
-chapter_title: TO GEORGE BIRKBECK, ESQ. M.D., F.C.S., M.A.S.
+chapter_title: To George Birkbeck, Esq. M.d., F.c.s., M.a.s.
 chapter_slug: "01-to-george-birkbeck-esq-m-d-f-c-s-m-a-s"
 variant_id: "96c978f8-6a78-589a-946b-177224eb2386"
 content_type: translation

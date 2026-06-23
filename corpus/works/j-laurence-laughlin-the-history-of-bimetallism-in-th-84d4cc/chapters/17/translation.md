@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 17
-chapter_title: "Part III, Chapter XIV: Silver Legislation in 1878"
+chapter_title: "Part III: The United States Since 1873, Part III, Chapter XIV: Silver Legislation in 1878"
 chapter_slug: 17
 variant_id: "f8c50825-f910-56af-b5af-7473e832caf8"
 content_type: translation

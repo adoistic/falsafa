@@ -4,7 +4,7 @@ work_slug: "augustin-thierry-historical-essays-and-narratives-832778"
 work_title: Historical Essays and Narratives of the Merovingian Era
 author_name: Augustin Thierry
 chapter_number: 1
-chapter_title: TRANSLATOR’S PREFACE.
+chapter_title: Translator’s Preface.
 chapter_slug: "01-translator-s-preface"
 variant_id: "2cb5ed45-642e-58a5-aa1b-623faa5e6bc5"
 content_type: translation

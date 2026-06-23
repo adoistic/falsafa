@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-problems-of-mind-and-morals-97554e",
+  "work_title": "Problems of Mind and Morals",
+  "chapter_number": 8,
+  "chapter_title": "VI. The Problem of Socialist Fundamentals",
+  "chapter_slug": "08-vi-the-problem-of-socialist-fundamentals",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "436ec7a5-ba52-5841-be3a-47da8612014c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2632,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1912/probs/06-fundament.htm"
+    }
+  ]
+}

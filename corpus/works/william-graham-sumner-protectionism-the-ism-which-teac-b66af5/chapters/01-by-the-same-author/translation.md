@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-protectionism-the-ism-which-teac-b66af5"
 work_title: "Protectionism: The -ism Which Teaches That Waste Makes Wealth"
 author_name: William Graham Sumner
 chapter_number: 1
-chapter_title: BY THE SAME AUTHOR
+chapter_title: By the Same Author
 chapter_slug: "01-by-the-same-author"
 variant_id: "0d34ae3c-057f-534e-a498-1044d83e0b58"
 content_type: translation

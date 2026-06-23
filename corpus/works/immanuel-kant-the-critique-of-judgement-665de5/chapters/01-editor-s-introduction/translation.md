@@ -4,7 +4,7 @@ work_slug: "immanuel-kant-the-critique-of-judgement-665de5"
 work_title: The Critique of Judgement
 author_name: Immanuel Kant
 chapter_number: 1
-chapter_title: EDITOR’S INTRODUCTION
+chapter_title: Editor’s Introduction
 chapter_slug: "01-editor-s-introduction"
 variant_id: "e5195a1a-9e11-52b4-943e-c649fc7d7816"
 content_type: translation

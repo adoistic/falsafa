@@ -4,13 +4,17 @@ slug: "rene-descartes-selections-from-the-principles-o-d4ee5f"
 title: Selections from the Principles of Philosophy
 author:
   name: René Descartes
-  biography: "René Descartes (1596-1650)."
+  biography: "French philosopher and mathematician, founder of modern rationalism and inventor of analytic geometry. His Discourse and Meditations made systematic doubt the starting point of philosophy and set the mind-body problem at the center of modern thought."
+  birth_year: 1596
+  death_year: 1650
+  nationality: French
 era: Enlightenment
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "Selections from the Principles of Philosophy, by René Descartes (1596-1650), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1644
 total_logical_chapters: 4
 total_variant_entries: 4
 thothica_role: catalog

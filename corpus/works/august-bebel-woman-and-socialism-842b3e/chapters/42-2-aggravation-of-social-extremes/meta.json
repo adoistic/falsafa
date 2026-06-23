@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 42,
+  "chapter_title": "2. Aggravation of Social Extremes.",
+  "chapter_slug": "42-2-aggravation-of-social-extremes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "723670a4-163d-5f8c-b5a5-464bb8affac5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1135,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch16.htm"
+    }
+  ]
+}

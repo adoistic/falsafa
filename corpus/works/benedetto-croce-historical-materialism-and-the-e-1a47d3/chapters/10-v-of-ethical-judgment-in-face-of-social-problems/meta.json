@@ -1,0 +1,26 @@
+{
+  "work_slug": "benedetto-croce-historical-materialism-and-the-e-1a47d3",
+  "work_title": "Historical Materialism and the Economics of Karl Marx",
+  "chapter_number": 10,
+  "chapter_title": "V of Ethical Judgment in Face of Social Problems",
+  "chapter_slug": "10-v-of-ethical-judgment-in-face-of-social-problems",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5de3d8c0-d5ad-5e21-ac56-1cf731052fe0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1630,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/croce/works/marx/ch03.htm"
+    }
+  ]
+}

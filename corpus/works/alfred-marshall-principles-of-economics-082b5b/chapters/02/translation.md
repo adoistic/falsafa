@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 2
-chapter_title: "BOOK I, CHAPTER II: THE SUBSTANCE OF ECONOMICS."
+chapter_title: "Book I, Chapter II: The Substance of Economics."
 chapter_slug: 02
 variant_id: "fdc57810-1704-5856-973b-f34cf89a6a90"
 content_type: translation

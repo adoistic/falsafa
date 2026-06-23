@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 86
-chapter_title: CHAPTER XLVI.
+chapter_title: Chapter LIV
 chapter_slug: 86
 variant_id: "229d37f4-1cfd-5a5e-b887-0fcbcefc40f3"
 content_type: translation
@@ -13,15 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 232
+word_count: 234
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How some of these truths which are thus expounded may also be conceived of in another way
+It proceeds as a whole from the Father, and as a whole from the Son, and yet does not exist except as one love.
 
-Yet, some of these truths, which may be thus expounded and conceived of, are apparently capable of another interpretation as well, not inconsistent with this same assertion. For it is proved that the Son is the true Word, that is, the perfect intelligence, conceiving of the whole substance of the Father, or perfect cognition of that substance, and knowledge of it, and wisdom regarding it; that is, it understands, and conceives of, the very essence of the Father, and cognises it, and knows it, and is wise (sapit) regarding it.
+It should be carefully considered whether there are two loves, one proceeding from the Father, the other from the Son; or one, not proceeding as a whole from one, but in part from the Father, in part from the Son; or neither more than one, nor one proceeding in part from each separately, but one proceeding as a whole from each separately, and likewise as a whole from the two at once.
 
-If, then, in this sense, the Son is called the intelligence of the Father, and wisdom concerning him, and knowledge and cognition of him, and acquaintance with him; since the Son understands and conceives of the Father, is wise concerning him, knows and is acquainted with him, there is no departure from truth.
+But the solution of such a question can, without doubt, be apprehended from the fact that this love proceeds not from that in which Father and Son are more than one, but from that in which they are one. For, not from their relations, which are more than one, but from their essence itself, which does not admit of plurality, do Father and Son equally produce so great a good.
 
-Most properly, too, may the Son be called the truth of the Father, not only in the sense that the truth of the Son is the same with that of the Father, as we have already seen; but in this sense, also, that in him no imperfect imitation shall be conceived of, but the complete truth of the substance of the Father since he is no other than what the Father is.
+Therefore, as the Father separately is the supreme Spirit, and the Son separately is the supreme Spirit, and Father and Son at once are not two, but one Spirit; so from the Father separately the love of the supreme Spirit emanates as a whole, and from the Son as a whole, and at once from Father and Son, not as two, but as one and the same whole.

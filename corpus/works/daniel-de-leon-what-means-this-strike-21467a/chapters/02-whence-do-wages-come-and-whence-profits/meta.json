@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-what-means-this-strike-21467a",
+  "work_title": "What Means This Strike?",
+  "chapter_number": 2,
+  "chapter_title": "Whence Do Wages Come, and Whence Profits?",
+  "chapter_slug": "02-whence-do-wages-come-and-whence-profits",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f2c846d-736d-5fec-8de9-8a6a488b9d93",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2715,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1898/980211.htm"
+    }
+  ]
+}

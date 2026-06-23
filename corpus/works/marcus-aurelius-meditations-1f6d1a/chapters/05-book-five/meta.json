@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-aurelius-meditations-1f6d1a",
+  "work_title": "Meditations",
+  "chapter_number": 5,
+  "chapter_title": "Book Five",
+  "chapter_slug": "05-book-five",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "527a0b8a-81b3-54d7-bfc1-85692bf663e6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2869,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0562.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f8b74191-5e22-57fa-9bea-a5e2ca1fd7b9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4025,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

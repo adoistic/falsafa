@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-considerations-on-representative-ccd97d",
+  "work_title": "Considerations on Representative Government",
+  "chapter_number": 6,
+  "chapter_title": "Chapter VI — Of the Infirmities and Dangers to which Representative Government is Liable",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e100b9f2-1db3-5113-9988-4431e01d1707",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6168,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5669"
+    }
+  ]
+}

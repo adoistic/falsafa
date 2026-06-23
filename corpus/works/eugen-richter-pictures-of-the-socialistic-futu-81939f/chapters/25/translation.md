@@ -4,7 +4,7 @@ work_slug: "eugen-richter-pictures-of-the-socialistic-futu-81939f"
 work_title: Pictures of the Socialistic Future
 author_name: Eugen Richter
 chapter_number: 25
-chapter_title: "Chapter XXII: ANOTHER NEW CHANCELLOR."
+chapter_title: "Chapter XXII: Another New Chancellor."
 chapter_slug: 25
 variant_id: "514dd002-38a9-5d40-afd8-705b7a59f369"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 639
+word_count: 635
 source_url: "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
 translator: Online Library of Liberty edition
 ---
@@ -28,7 +28,7 @@ Thus they grumbled in letters to the paper.
 
 It was pointed out to them that it had never been any different. They admitted the truth of this, but then went on to say that formerly everyone who did not care to stay in the country was at liberty to remove into a town. Now, however, it was very different, and the countryman was tied to his clod of earth until it pleased the authorities to dispose otherwise of him. And under these circumstances they must look to the State to provide them with just the same amusements as the large towns had. They merely asked for equal rights for all, and no more.
 
-The Chancellor did not at all know what to do. The wise government of a people has unquestionably more knotty points about it than the cleaning of boots and the brushing of clothes. This scheme of planning recreations for the people has been about the only thing he has carried through. But with the best will in the world he could not possibly have a band of music, a circus, and a company of specialists at every street-crossing. Pondering upon this business, the happy thought occurred to him to have a few hundred thousand Berliners transferred to the enjoyments of the country Edition: current; Page: [78] every Sunday, and a corresponding number of country people brought up to the attractions of the town. But unfortunately for this social equality the weather proved very unequal. In rainy weather the Berlin people showed no great liking for damp excursions into the country. But the country people, who had arrived in great numbers, naturally expected those seats at the various places of amusement which the Berliners did not care to relinquish.
+The Chancellor did not at all know what to do. The wise government of a people has unquestionably more knotty points about it than the cleaning of boots and the brushing of clothes. This scheme of planning recreations for the people has been about the only thing he has carried through. But with the best will in the world he could not possibly have a band of music, a circus, and a company of specialists at every street-crossing. Pondering upon this business, the happy thought occurred to him to have a few hundred thousand Berliners transferred to the enjoyments of the country every Sunday, and a corresponding number of country people brought up to the attractions of the town. But unfortunately for this social equality the weather proved very unequal. In rainy weather the Berlin people showed no great liking for damp excursions into the country. But the country people, who had arrived in great numbers, naturally expected those seats at the various places of amusement which the Berliners did not care to relinquish.
 
 After the Chancellor had succeeded in thus setting the townspeople and the country people thoroughly at loggerheads with each other, his retirement was deemed expedient, in order that the feeling against him might not unduly prejudice the coming general elections. In Berlin, as might be expected, the disgust at the stoppage of all further free recreations is universal. Henceforth places at the theatres and similar entertainments can only be had against payment in the coupons of the money-certificates.
 

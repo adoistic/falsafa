@@ -2,10 +2,10 @@
 id: "27f0d89c-260b-4d5c-85b5-d509ab1822b9"
 slug: "unknown-visnu-smrti-27f0d8"
 title: Viṣṇu Smṛti
-author: Viṣṇu
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Viṣṇu
+  biography: A sage of the Hindu Dharmaśāstra tradition, to whom the Viṣṇu Smṛti is ascribed. The text is a compilation in verse on law and right conduct, redacted over generations by unknown hands.
+  nationality: Indian
 era: Ancient
 genre: Indic
 language: Sanskrit

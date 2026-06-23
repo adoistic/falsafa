@@ -4,7 +4,7 @@ work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
 work_title: An Essay on Crimes and Punishments
 author_name: Cesare Beccaria
 chapter_number: 53
-chapter_title: "CHAPTER IV.: ON THE EXTIRPATION OF HERESY."
+chapter_title: "Chapter V.: Of Profanation."
 chapter_slug: 53
 variant_id: "cbeef6c6-1331-5742-9f09-cca566523e30"
 content_type: translation
@@ -13,19 +13,35 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 635
+word_count: 936
 source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
 translator: Online Library of Liberty edition
 ---
 
-It seems necessary to distinguish an heresy of opinion from faction. From the first ages of Christianity opinions have been different. The Christians of Alexandria were, in many points, of a different opinion from those of Antioch. The Achaians differed from the Asiatics. This diversity of opinion existed from the beginning, and probably will continue for ever. Jesus Christ, who could have united all the faithful in the same sentiments, did it not; and therefore we may conclude that it was not his design; but that he chose rather to exercise all his churches in acts of indulgence and charity, by permitting different systems, yet all agreeing to acknowledge him their lord and master. These several sects, so long as they were tolerated by the emperors, or concealed from their sight, had it not in their power to prosecute each other, being equally subject to the Roman magistrates; they could only dispute. If they were persecuted, they equally Edition: current; Page: [173] claimed the privilege of nature: “Suffer us,” they said, “to adore our God in peace, and do not refuse us the liberty you grant to the Jews:” Every sect may now urge the same argument to their oppressors. They may say to those who want privileges to the Jews; “Treat us as you treat the sons of Jacob; let us, like them, pray to God according to our conscience. Our opinion will no more injure your state, than Judaism. You tolerate the enemies of Jesus Christ, tolerate us who adore him, and who differ from you only in theological subtleties. Do not deprive yourselves of useful subjects; useful in your manufactures, your marine, and the cultivation of your lands. Of what importance is it, that their creed be somewhat different from yours? You want their labour, and not their catechism?”
+Lewis IX. king of France, who for his virtues was numbered among the saints, made a law against blasphemers. He condemned them to a new punishment; their tongues were pierced with a hot iron. It was a kind of retaliation; the sinning member suffering the punishment. But it was somewhat difficult to determine what was blasphemy. Expressions frequently escape from a man in a passion, from joy, or even in conversation, which are merely expletives, such as the sela and the vab of the Hebrews, the pol and the ædepol of the Latins, as also per Deos immortales, an expression frequently used, without the least intention of swearing by the immortal gods.
 
-Faction is quite a different thing. It always happens, that a persecuted sect degenerates into faction. The oppressed naturally unite and animate each other; and are generally more industrious in strengthening their party, than their persecutors in their extermination. They must either destroy or be destroyed. So it happened after the persecution excited in 304, by Galerius, in the two last years of Dioclesian. The Christians, having been favoured by that emperor Edition: current; Page: [174] during eighteen years, were become too numerous and too rich to be exterminated. They joined Chlorus; they fought for his son Constantine, and a total revolution of the empire was the consequence.
+The words which are called oaths and blasphemy, are commonly vague terms that may be variously interpreted. The law by which they are punished, seems to be founded on that of the Jews, which says: Thou shalt not take the name of the Lord thy God in vain. The best commentators are of opinion, that this commandment relates to perjury; and there is the more reason to believe them right, as the word shave, which is translated in vain, properly signifies perjury. Now, what analogy can there be between perjury and Cabo de Dios, Cadedis, Sangbleu, Ventrebleu, Corpo de Dio, etc.?
 
-Small events may be compared with great, when they are produced by the same spirit. Revolutions of a similar kind happened in Holland, in Scotland, and in Switzerland. When Ferdinand and Isabella drove the Jews out of Spain, where they were established not only before the reigning family, but before the Moors, the Goths, or even the Carthaginians; if the Jews had been as warlike as they were rich, they might easily, in conjunction with the Arabs, have effected a revolution.
+It was customary with the Jews to swear by the life of God, as the Lord liveth: the phrase was common; so that it was lying in the name of God that was forbidden.
 
-In short, no sect ever changed the government, unless excited by despair. Mahomed himself succeeded only because he was driven from Mecca, and a reward offered for his head.
+Philip Augustus, in 1181, condemned the nobility who should pronounce the words which are softened in the terms Tetebleu, Ventrebleu, Corbleu, Sangbleu, to pay a fine, and the plebeians to be drowned. The first part of this law seems puerile, the latter abominable. It was an outrage to nature, to drown one man for a crime for which another paid a few pence of the money of those times. So that this law, like many other, remained unexecuted, especially when the king was excommunicated, and his kingdom interdicted by Pope Celestine III.
 
-Would you prevent a sect from overturning the state, imitate the present wise conduct of England, of Germany, of Holland; use toleration. The only methods, in policy, to be taken with a new sect, are, to put to death the chief and all his adherents, men, women, and children, without sparing one individual; or to tolerate them, when Edition: current; Page: [175] numerous. The first method is that of a monster; the second of a wise man.
+Saint Lewis, transported with zeal, ordered indiscriminately, that whosoever should pronounce these indecent words, should have his tongue bored, or his upper lip cut off. A citizen of Paris, having suffered this punishment, complained to Pope Innocent IV. This pontiff remonstrated to the king that the punishment was too great for the crime, which however had no effect upon his majesty. Happy had it been for mankind, if the popes had never affected any other superiority over kings.
 
-Chain your subjects to the state by their interest. Let the Quaker and the Turk find their advantage in living under your laws. Religion is of God to man; the civil law is of you to your people.
+The ordinance of Lewis XIV. says, “Those who shall be convicted of having sworn by, or blasphemed the holy name of God, of his most holy mother, or of his saints, shall, for the first offence, pay a fine; for the second, third, and fourth, a double, triple, and quadruple fine; for the fifth, shall be put in the stocks; for the sixth, shall stand in the pillory, and lose his upper lip; for the seventh, shall have his tongue cut out.”
+
+This law appears to be humane and just, as it inflicts a cruel punishment only on a seven-fold repetition, which can hardly be presumed.
+
+But with regard to more atrocious profanations, which are called Sacrilege, the criminal ordinance mentions only robbing of churches; it takes no notice of public impieties, perhaps because they were not supposed to happen, or were too difficult to specify. They are left therefore to the discretion of the judge; and yet nothing ought to be left to discretion.
+
+In such extraordinary cases, how is the judge to act? He should consider the age of the offender, the nature and degree of his offence, and particularly the necessity of a public example. Pro qualitate personæ, quoque rei conditione et temporis et ætatis et sexus, vel clementius statuendum. If the law does not expressly say that such a crime shall be punished with death, what judge shall think himself authorised to pronounce that sentence? If the law be silent; if nevertheless a punishment be required, the judge ought certainly, without hesitation, to decree the least severe, because he is a man.
+
+Sacrilegious profanations are never committed except by young debauchees. Would you punish them as severely as if they had murdered a brother? Their youth pleads in their favour. They are not suffered to dispose of their possessions, because they are supposed to want maturity of judgment, sufficient to foresee the consequences of an imprudent transaction. Is it not therefore natural to suppose, that they are incapable of foreseeing the consequences of their impiety?
+
+Would you treat a wild young man, who, in his phrenzy, had profaned a sacred image, without stealing it, with the same rigour that you punished a Brinvilliers, who poisoned his father and his whole family?
+
+There is no law against the unhappy youth, and you are determined to make one that shall condemn him to the severest punishment! He deserved chastisement, but did he deserve such excruciating torture, and the most horrible death?
+
+But he had offended God! True, most grievously. Imitate God in your proceedings against him. If he be penitent, God forgives him. Impose a penance, and let him be pardoned.
+
+Your illustrious Montesquieu hath said: It is our duty to honour the Deity, and not to revenge him. Let us weigh these words. They do not mean, that we should neglect the maintenance of public decorum; but, as the judicious author of the preceding Essay observes, that it is absurd for an insect to pretend to revenge the Supreme Being. A village magistrate, or the magistrate of a city, is neither a Moses nor a Joshua.

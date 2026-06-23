@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-definitions-in-political-economy-2a1c5b",
+  "work_title": "Definitions in Political Economy",
+  "chapter_number": 2,
+  "chapter_title": "Definitions in Political Economy, Chapter I.: Rules for the Definition and Application of Terms in Political Economy.",
+  "chapter_slug": "02-definitions-in-political-economy-chapter-i-rules-f",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d1d545e0-f694-554c-97ec-057c6cc08b16",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1137,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-definitions-in-political-economy"
+    }
+  ]
+}

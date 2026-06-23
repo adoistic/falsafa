@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 103,
+  "chapter_title": "Chapter XLVI — The Vision and the Enigma",
+  "chapter_slug": "103",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0122e6df-6cce-59d0-ad35-680a221ae92d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 489,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

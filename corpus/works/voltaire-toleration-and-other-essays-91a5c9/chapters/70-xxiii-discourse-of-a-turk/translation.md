@@ -1,0 +1,31 @@
+---
+work_id: "91a5c993-a93f-5eda-a64d-e315561c8d03"
+work_slug: "voltaire-toleration-and-other-essays-91a5c9"
+work_title: Toleration and Other Essays
+author_name: Voltaire
+chapter_number: 70
+chapter_title: "XXIII: Discourse of a Turk"
+chapter_slug: "70-xxiii-discourse-of-a-turk"
+variant_id: "3ab8f2ff-b2d4-542c-a6f5-22ed82f04425"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 435
+source_url: "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+translator: Online Library of Liberty edition
+---
+
+When the Jew had finished, a Turk, who had smoked throughout the meeting, washed his mouth, recited the formula “Allah Illah,” and said to me:
+
+I have listened to all these dreamers. I have gathered that thou art a dog of a Christian, but thou pleasest me because thou seemest liberal, and art in favour of gratuitous predestination. I believe thou art a sensible man, assuming that thou dost agree with me.
+
+Most of thy dogs of Christians have spoken only folly about our Mohammed. A certain Baron de Tott, a man of much ability and geniality, who did us great service in the last war, induced me some time ago to read a book of one of your most learned men, named Grotius, entitled The Truth of the Christian Religion. This Grotius accuses our great Mohammed of forcing men to believe that a pigeon spoke in his ear, that a camel conversed with him during the night, and that he had put half the moon in his sleeve. If the most learned of your Christ-worshippers can write such asinine stuff, what must I think of the others?
+
+No, Mohammed did none of these village-miracles, of which people speak only a hundred years after the supposed event. He wrought none of those miracles which Baron de Tott read to me in the Golden Legend, written at Geneva. He wrought none of your miracles in the manner of St. Médard, which have been so much derided in Europe, and at which a French ambassador has laughed so much in our presence. The miracles of Mohammed were victories. God has shown that he was a favourite by subjecting half our hemisphere to him. He was not unknown for two whole centuries. He triumphed as soon as he was persecuted.
+
+His religion is wise, severe, chaste, and humane. Wise, because it knows not the folly of giving God associates, and it has no mysteries; severe, because it prohibits games of chance, and wine, and strong drinks, and orders prayer five times a day; chaste, because it reduces to four the prodigious number of spouses who shared the bed of all oriental princes; humane, because it imposes on us almsgiving more rigorously than the journey to Mecca.
+
+Add tolerance to all these marks of truth. Reflect that we have in the city of Stamboul alone more than a hundred thousand Christians of all sects, who carry out all the ceremonies of their cults in peace, and live so happily under the shelter of our laws that they never deign to visit you, while you crowd to our imperial gate.

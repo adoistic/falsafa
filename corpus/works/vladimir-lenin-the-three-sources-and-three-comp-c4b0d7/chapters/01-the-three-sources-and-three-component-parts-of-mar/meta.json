@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-three-sources-and-three-comp-c4b0d7",
+  "work_title": "The Three Sources and Three Component Parts of Marxism",
+  "chapter_number": 1,
+  "chapter_title": "The Three Sources and Three Component Parts of Marxism",
+  "chapter_slug": "01-the-three-sources-and-three-component-parts-of-mar",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9827f0e0-f7a7-5610-9e1c-89763670b49b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1915,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm"
+    }
+  ]
+}

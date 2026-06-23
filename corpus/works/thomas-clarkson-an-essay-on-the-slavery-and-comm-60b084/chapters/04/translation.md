@@ -1,0 +1,33 @@
+---
+work_id: "60b084cf-f2e8-507a-a2bb-59f03fcdc9c8"
+work_slug: "thomas-clarkson-an-essay-on-the-slavery-and-comm-60b084"
+work_title: An Essay on the Slavery and Commerce of the Human Species
+author_name: Thomas Clarkson
+chapter_number: 4
+chapter_title: "Part I.: The History of Slavery, Chap. I. (1)"
+chapter_slug: 04
+variant_id: "ecbc28af-e006-5a7a-887f-fb9330315010"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 840
+source_url: "https://oll.libertyfund.org/titles/clarkson-an-essay-on-the-slavery-and-commerce-of-the-human-species"
+translator: Online Library of Liberty edition
+---
+
+WHEN civilized, as well as barbarous nations, have been found, through a long succession of ages, uniformly to concur in the same customs, there seems to arise a presumption, that such customs are not only eminently useful, but are founded also on the principles of justice. Such is the case with respect to Slavery: it has had the concurrence of all the nations, which history has recorded, and the repeated practice of ages from the remotest antiquity, in its favour. Here then is an argument, deduced from the general consent and argreement of mankind, in favour of the proposed subject: but alas! when we reflect that the people, thus reduced to a state of servitude, have had the same feelings with ourselves; when we reflect that they have had the same propensities to pleasure, and the same aversions from pain; another argument seems immediately to arise in opposition to the former, deduced from our own feelings and that divine sympathy, which nature has implanted in our breasts, for the most useful and generous of purposes. To ascertain the truth therefore, where two such opposite sources of argument occur; where the force of custom pleads strongly on the one hand, and the feelings of humanity on the other; is a matter of much importance, as the dignity of human nature is concerned, and the rights and liberties of mankind will be involved in its discussion.
+
+It will be necessary, before this point can be determined, to consult the History of Slavery, and to lay before the reader, in as concise a manner as possible, a general view of it from its earliest appearance to the present day.
+
+The first, whom we shall mention here to have been reduced to a state of servitude, may be comprehended in that class, which is usually denominated the Mercenary. It consisted of free-born citizens, who, from the various contingencies of fortune, had become so poor, as to have recourse for their support to the service of the rich. Of this kind were those, both among the Egyptians and the Jews, who are recorded in the sacred writings. The Grecian Thetes also were of this description, as well as those among the Romans, from whom the class receives its appellation, the Mercenarii.
+
+We may observe of the above-mentioned, that their situation was in many instances similar to that of our own servants. There was an express contract between the parties: they could, most of them, demand their discharge, if they were ill used by their respective masters; and they were treated therefore with more humanity than those, whom we usually distinguish in our language by the appellation of Slaves.
+
+As this class of servants was composed of men, who had been reduced to such a situation by the contingencies of fortune, and not by their own misconduct; so there was another among the ancients, composed entirely of those, who had suffered the loss of liberty from their own imprudence. To this class may be reduced the Grecian Prodigals, who were detained in the service of their creditors, till the fruits of their labour were equivalent to their debts; the delinquents, who were sentenced to the oar; and the German enthusiasts, as mentioned by Tacitus, who were so immoderately charmed with gaming, as, when every thing else was gone, to have staked their liberty and their very selves. “The loser,” says he, “goes into a voluntary servitude, and though younger and stronger than the person with whom he played, patiently suffers himself to be bound and sold. Their perseverance in so bad a custom is stiled honour. The slaves, thus obtained, are immediately exchanged away in commerce, that the winner may get rid of the scandal of his victory.”
+
+To enumerate other instances, would be unnecessary: it will be sufficient to observe, that the servants of this class were in a far more wretched situation, than those of the former; their drudgery was more intense; their treatment more severe; and there was no retreat at pleasure, from the frowns and lashes of their despotick masters.
+
+Having premised this, we may now proceed to a general division of slavery, into voluntary and involuntary. The voluntary will comprehend the two classes, which we have already mentioned; for, in the first instance, there was a contract, founded on consent; and, in the second, there was a choice of engaging or not in those practices, the known consequences of which were servitude. The involuntary, on the other hand, will comprehend those, who were forced, without any such condition or choice, into a situation, which as it tended to degrade a part of the human species, and to class it with the brutal, must have been, of all human situations, the most wretched and insupportable. These are they, whom we shall consider solely in the present work. We shall therefore take our leave of the former, as they were mentioned only, that we might state the question with greater accuracy, and be the better enabled to reduce it to its proper limits.

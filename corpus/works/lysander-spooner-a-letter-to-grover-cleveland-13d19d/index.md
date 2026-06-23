@@ -4,13 +4,17 @@ slug: "lysander-spooner-a-letter-to-grover-cleveland-13d19d"
 title: A Letter to Grover Cleveland
 author:
   name: Lysander Spooner
-  biography: Lysander Spooner (1808–1887).
+  biography: "American legal theorist, abolitionist, and individualist anarchist of the Massachusetts bar. His treatises argued that the Constitution authorized no slavery and ultimately bound no one, carrying natural-rights argument to anti-statist conclusions."
+  birth_year: 1808
+  death_year: 1887
+  nationality: American
 era: 19th Century
 genre: Political Theory
 language: English
 language_direction: ltr
 description: "A Letter to Grover Cleveland, by Lysander Spooner (1808–1887), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1886
 total_logical_chapters: 28
 total_variant_entries: 28
 thothica_role: catalog
@@ -22,7 +26,7 @@ A Letter to Grover Cleveland, by Lysander Spooner (1808–1887), a public-domain
 
 ## Chapters
 
-01. [Section I.](./chapters/01/) — prose, 1 variant
+01. [A Letter to Grover Cleveland, Section I.](./chapters/01-a-letter-to-grover-cleveland-section-i/) — prose, 1 variant
 02. [Section II.](./chapters/02/) — prose, 1 variant
 03. [Section III.](./chapters/03/) — prose, 1 variant
 04. [Section IV.](./chapters/04/) — prose, 1 variant

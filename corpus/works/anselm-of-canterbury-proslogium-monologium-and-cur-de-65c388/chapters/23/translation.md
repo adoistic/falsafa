@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 23
-chapter_title: CHAPTER X
+chapter_title: Chapter XI. (1)
 chapter_slug: 23
 variant_id: "78a48037-42e4-5564-8ec5-6c3012975bf0"
 content_type: translation
@@ -13,13 +13,17 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 252
+word_count: 359
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How he justly punishes and justly spares the wicked.—God, in sparing the wicked, is just, according to his own nature, because he does what is consistent with his goodness; but he is not just, according to our nature, because he does not inflict the punishment deserved.
+How all the ways of God are compassion and truth; and yet God is just in all his ways —We cannot comprehend why, of the wicked, he saves these rather than those, through his supreme goodness; and condemns those rather than these, through his supreme justice.
 
-But it is also just that thou shouldst punish the wicked. For what is more just than that the good should receive goods, and the evil, evils? How, then, is it just that thou shouldst punish the wicked, and, at the same time, spare the wicked? Or, in one way, dost thou justly punish, and, in another, justly spare them? For, when thou punishest the wicked, it is just, because it is consistent with their deserts; and when, on the other hand, thou sparest the wicked, it is just, not because it is compatible with their deserts, but because it is compatible with thy goodness.
+But, is there any reason why it is not also just, according to thy nature, O Lord, that thou shouldst punish the wicked? Surely it is just that thou shouldst be so just that thou canst not be conceived more just; and this thou wouldst in no wise be if thou didst only render goods to the good, and not evils to the evil For, he who requiteth both good and evil according to their deserts is more just than he who so requites the good alone. It is, therefore, just, according to thy nature, O just and gracious God, both when thou dost punish and when thou sparest.
 
-For, in sparing the wicked, thou art as just, according to thy nature, but not according to ours, as thou art compassionate, according to our nature, and not according to thine; seeing that, as in saving us, whom it would be just for thee to destroy, thou art compassionate, not because thou feelest an affection (affectum), but because we feel the effect (effectum); so thou art just, not because thou requitest us as we deserve, but because thou dost that which becomes thee as the supremely good Being. In this way, therefore, without contradiction thou dost justly punish and justly spare.
+Truly, then, all the paths of the Lord are mercy and truth (Psalms xxv. 10); and yet the Lord is righteous in all his ways (Psalms cxlv. 17). And assuredly without inconsistency: For, it is not just that those whom thou dost will to punish should be saved, and that those whom thou dost will to spare should be condemned. For that alone is just which thou dost will; and that alone unjust which thou dost not will. So, then, thy compassion is born of thy justice.
+
+For it is just that thou shouldst be so good that thou art good in sparing also; and this may be the reason why the supremely Just can will goods for the veil. But if it can be comprehended in any way why thou canst will to save the wicked, yet by no consideration can we comprehend why, of those who are alike wicked, thou savest some rather than others, through supreme goodness; and why thou dost condemn the latter rather than the former, through supreme justice.
+
+So, then, thou art truly sensible (sensibilis), omnipotent, compassionate, and passionless, as thou art living, wise, good, blessed, eternal: and whatever it is better to be than not to be.

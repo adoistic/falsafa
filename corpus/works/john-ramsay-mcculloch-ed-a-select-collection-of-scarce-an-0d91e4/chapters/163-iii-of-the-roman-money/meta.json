@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 163,
+  "chapter_title": "§ III.: Of the Roman Money.",
+  "chapter_slug": "163-iii-of-the-roman-money",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "61c78c51-96f7-56f2-bde7-77e5b37dfe69",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6673,
+      "paragraph_count": 95,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

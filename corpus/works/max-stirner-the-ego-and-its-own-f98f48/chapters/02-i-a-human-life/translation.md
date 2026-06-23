@@ -1,0 +1,85 @@
+---
+work_id: "f98f483f-b43f-5e3a-b4ea-e20c7ff50829"
+work_slug: "max-stirner-the-ego-and-its-own-f98f48"
+work_title: The Ego and Its Own
+author_name: Max Stirner
+chapter_number: 2
+chapter_title: I. A Human Life
+chapter_slug: "02-i-a-human-life"
+variant_id: "cc9a4477-def2-57d4-9c94-fe115e919e4c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2069
+source_url: "https://www.marxists.org/reference/archive/stirner/ego-and-its-own.htm"
+translator: Steven T. Byington
+---
+
+From the moment when he catches sight of the light of the world a man seeks to find out himself and get hold of himself out of its confusion, in which he, with everything else, is tossed about in motley mixture.
+
+But everything that comes in contact with the child defends itself in turn against his attacks, and asserts its own persistence.
+
+Accordingly, because each thing cares for itself and at the same time comes into constant collision with other things, the combat of self-assertion is unavoidable.
+
+Victory or defeat – between the two alternatives the fate of the combat wavers. The victor becomes the lord, the vanquished one the subject: the former exercises supremacy and “rights of supremacy,” the latter fulfils in awe and deference the “duties of a subject.”
+
+But both remain enemies, and always lie in wait: they watch for each other’s weaknesses – children for those of their parents and parents for those of their children (their fear, for example); either the stick conquers the man, or the man conquers the stick.
+
+In childhood liberation takes the direction of trying to get to the bottom of things, to get at what is “back of” things; therefore we spy out the weak points of everybody, for which, it is well known, children have a sure instinct; therefore we like to smash things, like to rummage through hidden corners, pry after what is covered up or out of the way, and try what we can do with everything. When we once get at what is back of the things, we know we are safe; when we have got at the fact that the rod is too weak against our obduracy, then we no longer fear it, “have outgrown it.”
+
+Behind the rod, mightier than it, stands our – obduracy, our obdurate courage. By degrees we get at what is back of everything that was mysterious and uncanny to us, the mysteriousIy-dreaded might of the rod, the father’s stern look, etc., and back of all we find our ataraxia – our imperturbability, intrepidity, our counter forces, our odds of strength, our invincibility. Before that which formerly inspired in us fear and deference we no longer retreat shyly, but take courage. Back of everything we find our courage, our superiority; back of the sharp command of parents and authorities stands, after all, our courageous choice or our outwitting shrewdness. And the more we feel ourselves, the smaller appears that which before seemed invincible. And what is our trickery, shrewdness, courage, obduracy? What else but – mind ! [Geist]
+
+Through a considerable time we are spared a fight that is so exhausting later – the fight against reason. The fairest part of childhood passes without the necessity of coming to blows with reason. We care nothing at all about it, do not meddle with it, admit no reason. We are not to be persuaded to anything by conviction, and are deaf to good arguments and principles; on the other hand, coaxing, punishment, and the like are hard for us to resist.
+
+This stem life-and-death combat with reason enters later, and begins a new phase; in childhood we scamper about without racking our brains much.
+
+Mind is the name of the first self-discovery, the first undeification of the divine; that is, of the uncanny, the spooks, the “powers above.” Our fresh feeling of youth, this feeling of self, now defers to nothing; the world is discredited, for we are above it, we are mind. Now for the first time we see that hitherto we have not looked at the world intelligently [mit Geist] at all, but only stared at it.
+
+We exercise the beginnings of our strength on natural powers. We defer to parents as a natural power; later we say: Father and mother are to be forsaken, all natural power to be counted as riven. They are vanquished. For the rational, the “intellectual [geistigen] man,” there is no family as a natural power; a renunciation of parents, brothers, etc., makes its appearance. If these are “born again” as intellectual, rational powers, they are no longer at all what they were before.
+
+And not only parents, but men in general, are conquered by the young man; they are no hindrance to him, and are no longer regarded; for now he says: One must obey God rather than men.
+
+From this high stand-point everything “earthly” recedes into contemptible remoteness; for the stand-point is – the heavenly.
+
+The attitude is now altogether reversed; the youth takes up an intellectual position, while the boy, who did not yet feel himself as mind, grew up on mindless learning. The former does not try to get hold of things (for instance, to get into his head the data of history), but of the thoughts that lie hidden in things, and so, therefore, of the spirit of history. On the other hand, the boy understands connections no doubt, but not ideas, the spirit; therefore he strings together whatever can be learned, without proceeding a priori and theoretically, without looking for ideas.
+
+As in childhood one had to overcome the resistance of the laws of the world, so now in everything that he proposes he is met by an objection of the mind, of reason, of his own conscience. “That is unreasonable, unchristian, unpatriotic,” and the like, cries conscience to us, and – frightens us away from it. Not the might of the avenging Eumenides, not Poseidon’s wrath, not God, far as he sees the hidden, not the father’s rod of punishment, do we fear, but – conscience.
+
+We “run after our thoughts” now, and follow their commands just as before we followed parental, human ones. Our course of action is determined by our thoughts (ideas, conceptions, faith) as it is in childhood by the commands of our parents.
+
+For all that, we were already thinking when we were children, only our thoughts were not fleshless, abstract, absolute, that is, NOTHING BUT THOUGHTS, a heaven in themselves, a pure world of thought, logical thoughts.
+
+On the contrary, they had been only thoughts that we had about a thing; we thought of the thing so or so. Thus we may have thought “God made the world that we see there,” but we did not think of (“search”) the “depths of the Godhead itself”; we may have thought “that is the truth about the matter,” but we do not think of Truth itself, nor unite into one sentence “God is truth.” The “depths of the Godhead, who is truth,” we did not touch. Over such purely logical (theological) questions, “What is truth?” Pilate does not stop, though he does not therefore hesitate to ascertain in an individual case “what truth there is in the thing,” whether the thing is true.
+
+Any thought bound to a thing is not yet nothing but a thought, absolute thought.
+
+To bring to light the pure thought, or to be of its party, is the delight of youth; and all the shapes of light in the world of thought, like truth, freedom, humanity, Man, illumine and inspire the youthful soul.
+
+But, when the spirit is recognized as the essential thing, it still makes a difference whether the spirit is poor or rich, and therefore one seeks to become rich in spirit; the spirit wants to spread out so as to found its empire – an empire that is not of this world, the world just conquered. Thus, then, it longs to become all in all to itself; for, although I am spirit, I am not yet perfected spirit, and must first seek the complete spirit.
+
+But with that I, who had just now found myself as spirit, lose myself again at once, bowing before the complete spirit as one not my own but supernal [jenseitig], and feeling my emptiness.
+
+Spirit is the essential point for everything, to be sure; but then is every spirit the “right” spirit? The right and true spirit is the ideal of spirit, the “Holy Spirit.” It is not my or your spirit, but just – an ideal, supernal one, it is “God.” “God is spirit.” And this supernal “Father in heaven gives it to those that pray to him.” [Luke 11:13]
+
+The man is distinguished from the youth by the fact that he takes the world as it is, instead of everywhere fancying it amiss and wanting to improve it, model it after his ideal; in him the view that one must deal with the world according to his interest, not according to his ideals, becomes confirmed.
+
+So long as one knows himself only as spirit, and feels that all the value of his existence consists in being spirit (it becomes easy for the youth to give his life, the “bodily life,” for a nothing, for the silliest point of honour), so long it is only thoughts that one has, ideas that he hopes to be able to realize some day when he has found a sphere of action; thus one has meanwhile only ideals, unexecuted ideas or thoughts.
+
+Not until one has fallen in love with his corporeal self, and takes a pleasure in himself as a living flesh-and-blood person – but it is in mature years, in the man, that we find it so – not until then has one a personal or egoistic [egoistisches] interest, an interest not only of our spirit, for instance, but of total satisfaction, satisfaction of the whole chap, a selfish [eigenn�tziges] interest. Just compare a man with a youth, and see if he will not appear to you harder, less magnanimous, more selfish. Is he therefore worse? No, you say; he has only become more definite, or, as you also call it, more “practical.” But the main point is this, that he makes himself more the centre than does the youth, who is infatuated about other things, for example, God, fatherland, and so on.
+
+Therefore the man shows a second self-discovery. The youth found himself as spirit and lost himself again in the general spirit, the complete, holy spirit, Man, mankind – in short, all ideals; the man finds himself as embodied spirit.
+
+Boys had only unintellectual interests (those interests devoid of thoughts and ideas), youths only intellectual ones; the man has bodily, personal, egoistic interests.
+
+If the child has not an object that it can occupy itself with, it feels ennui; for it does not yet know how to occupy itself with itself. The youth, on the contrary, throws the object aside, because for him thoughts arose out of the object; he occupies himself with his thoughts, his dreams, occupies himself intellectually, or “his mind is occupied.”
+
+The young man includes everything not intellectual under the contemptuous name of “externalities.” If he nevertheless sticks to the most trivial externalities (such as the customs of students’ clubs and other formalities), it is because, and when, he discovers mind in them, when they are symbols to him.
+
+As I find myself back of things, and that as mind, so I must later find myself also back of thoughts – namely, as their creator and owner [Eigner]. In the time of spirits thoughts grew until they overtopped my head, whose offspring they yet were; they hovered about me and convulsed me like fever-phantasies – an awful power. The thoughts had become corporeal on their own account, were ghosts, such as God, Emperor, Pope, Fatherland, etc. If I destroy their corporeity, then I take them back into mine, and say: “I alone am corporeal.” And now I take the world as what it is to me, as mine, as my property [Eigentum]; I refer all to myself.
+
+If as spirit I had thrust away the world in the deepest contempt, so as owner I thrust spirits or ideas away into their “vanity.” They have no longer any power over me, as no “earthly might” has power over the spirit.
+
+The child was realistic, taken up with the things of this world, until little by little he succeeded in getting at what was back of these very things; the youth was idealistic, inspired by thoughts, until he worked his way up to where he became the man, the egoistic man, who deals with things and thoughts according to his heart’s pleasure, and sets his personal interest above everything. Finally, the old man? When I become one, there will still be time enough to speak of that.

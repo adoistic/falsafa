@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 35,
-  "chapter_title": "CHAPTER XXV.: ON COLONIAL TRADE.",
+  "chapter_title": "Chapter XXVI.: On Gross and Net Revenue",
   "chapter_slug": "35",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2670,
-      "paragraph_count": 20,
+      "word_count": 1141,
+      "paragraph_count": 8,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

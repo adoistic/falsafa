@@ -1,0 +1,25 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 18
+chapter_title: Chapter XIII, the right of exchange.
+chapter_slug: 18
+variant_id: "0f2ba611-59ef-593a-be17-d76db7a981b5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 485
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+Freedom to exchange his property for the property of others, is manifestly included in a man’s general freedom. In claiming this as his right, he in no way transgresses the proper limit put to his sphere of action by the like spheres of action of others. The two parties in a trade transaction, whilst doing all that they will to do, are not assuming more liberty than they leave to others. Indeed their act ends with themselves—does not affect the condition of the bystanders at all—leaves these as much power to pursue the objects of their desires as before. Hence, exchanges may be made in complete conformity with the law of equal freedom.
+
+Possibly it will be said, that in cases where several men are wishing to deal with the same man, and a bargain is ultimately made between him and one of them, the rest are by this event excluded from a certain prospective field for the fulfilment of their wants, which was previously open to them; and that consequently they have had the liberty to exercise their faculties diminished by the success of their competitor. This, however, is a distorted view of the matter. Let us for a moment turn back to first principles. What is it that we have to do? We have to divide out equally amongst all men, the whole of that freedom which the conditions of social existence afford. Observe, then, in respect of trade relationships, how much falls to the share of each. Evidently each is free to offer; each is free to accept; each is free to refuse; for each may do these to any extent without preventing his neighbours from doing the like to the same extent, and at the same time. But no one may do more; no one may force another to part with his goods; no one may force another to take a specified price; for no one can do so without assuming more liberty of action than the man whom he thus treats. If, therefore, every one is entitled to offer, to accept, and to refuse, but to do nothing more, it is clear that, under the circumstances above put, the closing of an agreement between two of the parties implies no infringement of the claims of the disappointed ones; seeing that each of them remains as free as ever, to offer, accept, and refuse.
+
+To say that, as a corollary from this, all interference between those who would traffic with each other amounts to a breach of equity, is hardly needful. Nor is there any occasion here to assign reasons why the recognition of liberty of trade is expedient. Harmonizing as it does with the settled convictions of thinking people, the foregoing conclusion may safely be left to stand unsupported. Some remarks upon the limits it puts to legislation are indeed called for. But these will come in more appropriately elsewhere.

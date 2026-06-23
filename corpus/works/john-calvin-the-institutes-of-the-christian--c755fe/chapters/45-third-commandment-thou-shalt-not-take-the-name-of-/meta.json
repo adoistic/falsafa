@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 45,
+  "chapter_title": "Third Commandment.: Thou Shalt Not Take the Name of the Lord Thy God in Vain.",
+  "chapter_slug": "45-third-commandment-thou-shalt-not-take-the-name-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f0132c1-ae14-5ba0-9327-51921fee2c5b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2803,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

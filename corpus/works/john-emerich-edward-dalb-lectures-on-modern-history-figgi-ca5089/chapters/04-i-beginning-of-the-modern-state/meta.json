@@ -2,7 +2,7 @@
   "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
   "work_title": "Lectures on Modern History (Figgis ed.)",
   "chapter_number": 4,
-  "chapter_title": "I: BEGINNING OF THE MODERN STATE",
+  "chapter_title": "I: Beginning of the Modern State",
   "chapter_slug": "04-i-beginning-of-the-modern-state",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 7231,
+      "word_count": 7151,
       "paragraph_count": 33,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"

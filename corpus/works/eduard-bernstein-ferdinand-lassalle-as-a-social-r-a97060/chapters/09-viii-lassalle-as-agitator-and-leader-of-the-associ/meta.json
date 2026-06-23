@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-ferdinand-lassalle-as-a-social-r-a97060",
+  "work_title": "Ferdinand Lassalle as a Social Reformer",
+  "chapter_number": 9,
+  "chapter_title": "VIII. Lassalle as agitator and leader of the Association",
+  "chapter_slug": "09-viii-lassalle-as-agitator-and-leader-of-the-associ",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ded389a8-950d-5e03-8444-91c0bf352635",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6293,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1893/lassalle/chap08.htm"
+    }
+  ]
+}

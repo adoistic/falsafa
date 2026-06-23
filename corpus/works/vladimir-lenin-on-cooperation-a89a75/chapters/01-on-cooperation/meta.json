@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-on-cooperation-a89a75",
+  "work_title": "On Cooperation",
+  "chapter_number": 1,
+  "chapter_title": "On Cooperation",
+  "chapter_slug": "01-on-cooperation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2198d119-af79-5448-91e4-2b7f7b4a2882",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2567,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1923/jan/06.htm"
+    }
+  ]
+}

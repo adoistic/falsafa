@@ -1,0 +1,95 @@
+---
+work_id: "8e809496-b42a-5b9d-9265-66c020e69bf0"
+work_slug: "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094"
+work_title: "My Life: An Attempt at an Autobiography"
+author_name: Leon Trotsky
+chapter_number: 12
+chapter_title: X. My First Escpape
+chapter_slug: "12-x-my-first-escpape"
+variant_id: "a875b2c6-196b-5365-b6c5-2e9667b8c082"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2973
+source_url: "https://www.marxists.org/archive/trotsky/1930/mylife/ch10.htm"
+translator: Marxists Internet Archive edition
+---
+
+Autumn was drawing near, with its threat of impassable roads. To speed my escape, we decided to kill two birds with one stone. A peasant friend agreed to drive me out of Verkholensk, together with E.G., a woman translator of Marx. At night, in the fields, he hid us under hay and matting in his cart, as if we were mere cargo. At the same time, to ward off the suspicions of the police, they kept a dummy of a supposedly sick man in the bed in my house for a few days. The driver sped on in the Siberian fashion, making as much as twenty versts an hour. I counted all the bumps with my back, to the accompaniment of the groans of my companion. During the trip the horses were changed twice. Before we reached the railway, my companion and I went our separate ways, so that each of us would not have to suffer the mishaps and risks incurred by the other. I got into the railway-carriage in safety. There my friends from Irkutsk provided me with a travelling-case filled with starched shirts, neckties and other attributes of civilization. In my hands, I had a copy of the Iliad in the Russian hexameter of Gnyeditch; in my pocket, a passport made out in the name of Trotsky, which I wrote in it at random, without even imagining that it would become my name for the rest of my life. I was following the Siberian line toward the West. The station police let me pass with indifference.
+
+At the stations along the way the tall Siberian women sold roast chickens and suckling pigs, bottled milk and great heaps of bread. Every one of the stations was like an exhibition of Siberian produce. Throughout the journey, the entire car full of passengers drank tea and ate cheap Siberian buns. I read the hexameter and dreamed of the life abroad. The escape proved to be quite without romantic glamour; it dissolved into nothing but an endless drinking of tea.
+
+I made a halt at Samara, where the interior general staff of the Iskra, as distinct from the foreign-émigré staff, was concentrated. At the head of it was a certain Kler, the name which the engineer Krzhizhanovsky, who is the present chairman of the State Planning Committee, had assumed as a disguise. He and his wife were friends of Lenin, and had been associated with him in the Social Democratic work in St. Petersburg in the years of 1894-5, and in the exile in Siberia. After the defeat of the revolution in 1905, Kler, together with many other thousands of revolutionists, withdrew from the party, and as an engineer achieved an important place in the industrial world. The revolutionaries, who continued to work in secret, complained that he refused to give such help as even the liberals had given earlier. After an interval of from ten to twelve years, Krzhizhanovsky rejoined the party, after it had already come into power. This was the course of many of the intelligentsia who are the backbone of Stalin’s regime to-day.
+
+In Samara, I joined – officially, as it were – the Iskra organization under the name of Pero (pen), assigned to me by Kler as a tribute to my successes as a journalist in Siberia. The organization was building up the party all over again. The first party congress, held in Minsk in 1898, had failed to establish a centralized party. Wholesale arrests destroyed an incipient organization which was not rooted firmly enough throughout the country. After this, the revolutionary movement continued to grow in scattered centres, maintaining its provincial character. Simultaneously, its intellectual level showed signs of lowering. The Social Democrats, in their effort to win the masses, let their political slogans recede into the background. And thus the so-called “Economic” school of Social Democratic policy was evolved. It drew its strength from the industrial boom and the preponderance of strikes. Toward the end of the century, a crisis developed that accentuated the antagonisms all over the country, and gave the political movement a strong impetus. The Iskra launched a militant campaign against the provincial “Economists,” and advocated a centralized revolutionary party. The general staff of the Iskra was established abroad, so that the organization, which was being carefully recruited from among the so-called “professional” revolutionaries, would be assured of an ideological stability, and would be bound together by unity in theory and in practical method. At the same time, most of the adherents of the Iskra still belonged to the intelligentsia. They fought for the control over local Social Democratic committees, and for a party congress which would insure a victory for the ideas and methods of the Iskra. This was really a draft outline of the revolutionary organization, which, as it developed and hardened, advanced and retreated, became more and more closely bound to the masses of workers, set before them ever more far-reaching tasks, and fifteen years later overthrew the bourgeoisie and assumed power.
+
+At the request of the Samara organization, I visited Kharkoff, Poltava and Kiev, to meet a number of revolutionaries who had already joined the Iskra or who had still to be won over. I returned to Samara with little accomplished; the connections with the South were still very ineffectual; in Kharkoff the address given me proved false, and in Poltava I ran into a sort of local patriotism. It was obvious that a single trip to the provinces could achieve nothing; it was persistent work that was needed. Meanwhile Lenin, with whom the Samara bureau kept up a lively correspondence, urged me to hasten my departure for abroad. Kler supplied me with the money for the trip, and the necessary information for crossing the Austrian frontier near Kamenetz-Podolsk.
+
+A whole train of adventures more amusing than tragic began at the station at Samara. To avoid meeting the station-police a second time, I decided to board the train at the last possible moment. My seat was to be held for me and my travelling-bag brought to the railway-carriage by a student named Solovyov, who is today one of the heads of the Oil Syndicate. I was walking peacefully back and forth in the field far away from the station, keeping my eye on the clock, when I suddenly heard the second bell. I realized that I had been given the wrong time for the departure of the train, and dashed to the station for all I was worth. Solovyov, who had been waiting for me in the car, as he had promised, and had to jump off the train after it had begun to move, was standing surrounded by the station-police and officials. The sight of a breathless man arriving post-haste after the train had started attracted general attention. The police threatened to take action against Solovyov, but it only ended in sarcastic jokes at our expense.
+
+I reached the frontier zone without any trouble. At the last station the policeman asked for my passport. I was genuinely surprised when he found the paper that I had fabricated myself perfectly in order. A boy who was studying at the gymnasium had charge of smuggling me across the frontier. He is now a prominent chemist at the head of one of the science institutes of the Soviet Republic. In his political views he favored the Socialist-Revolutionists. When he heard that I belonged to the Iskra organization, he said: “Do you know that Iskra, in its last issues, has been engaging in shameful polemics against terrorism?”
+
+I was about to begin a theoretical discussion when the young fellow added with a great show of temper: “I won’t conduct you across the frontier.” This argument amazed me because it was so unexpected. And yet it was perfectly legitimate. Fifteen years later we had to fight the power of the Socialist-Revolutionists with arms in hand. At that moment, however, I was not interested in historical prospects. I argued that it was not fair to punish me for an article in the Iskra, and finally declared that I would not budge until I had obtained a guide. The boy relented. “Well,” he said, “I will help you. But tell them over there that this is the last time.”
+
+The fellow put me up for the night in the empty house of a commercial traveller who was to return the next day. I remember vaguely that I had to make my way into the locked house through a window. At night I was awakened suddenly by a flash of light. A strange little man in a bowler hat was bending over me with a candle in one hand and a stick in the other. From the ceiling, a huge shadow of a man was crawling toward me. “Who are you?” I asked indignantly. “I like that!” answered the stranger. “He is lying in my bed and asks me who I am!” Obviously, this was the owner of the house. My attempt to explain to him that he wasn’t supposed to return until the next day made not the slightest impression on him. “I know when I am supposed to return,” he rejoined, not unreasonably. The situation was getting complicated. “I understand,” exclaimed the host. “This is one of Alexander’s little jokes. But I shall talk it over with him to-morrow.” I readily chimed in with his happy thought that the cause of all the trouble was the absent Alexander. I spent the rest of the night with the commercial traveller, who even graciously treated me to tea.
+
+Next morning, the student at the gymnasium, after a stormy time of explaining everything to my host, handed me over to the smugglers of the village of Brody. I whiled away the day in a barn, while its owner, a Ukrainian peasant, fed me liberally on watermelons. At night, in a rainstorm, he led me across the frontier. For a long time we had to wade in the dark, stumbling every now and then. “Now, get on my back,” said my guide, “there is water farther on.” I protested. “You can’t possibly appear on the other side all wet,” he insisted. So I had to continue the journey on the man’s back, which didn’t save me, however, from getting water in my shoes.
+
+About a quarter of an hour later we were drying ourselves out in a Jewish hut in the Austrian section of Brody. The people there informed me that the guide had purposely led me into deep water to get more money from me. For his part, the Ukrainian, as he was taking his leave, warned me in a friendly way against the Jews, who always like to make one pay three times more than one owes them. And, indeed, my resources were swiftly melting away. I still had another eight kilometres to make before I could reach the railway-station. For one or two kilometres along the frontier, on a road whipped into mud by the rain, until we reached the main road, the going was not only difficult, but dangerous as well. I was riding in a little two-wheeled cart with an old Jewish workman for a driver.
+
+“One day I shall lose my life in this business,” he muttered.
+
+“Why?”
+
+“Because soldiers keep calling out and if you don’t answer them, they shoot. You can see their light over there. Fortunately, this is a fine night.”
+
+The night was fine indeed! A cutting and impenetrable autumn darkness, an interminable rain hitting one in the face, and mud sloshing under the horse’s hoofs. We were going up hill; the wheels kept slipping; the old man was cajoling the horse in a gruff half-whisper; the wheels sank, the light cart tilted more and more, and suddenly went right over. The October mud was cold and deep. I fell down flat, sinking half into it. And to top it all, I lost my glasses. But the most awful thing was that just after we had fallen, there was a terrible piercing cry, right where we were, at our very side, a cry of despair, imploring help – a mystic appeal to heaven. It was beyond the power of reason to say, in that dark, wet night, to whom that mysterious voice belonged – a voice so expressive and yet not human.
+
+“I tell you, he will ruin us,” muttered the old man in despair. “He will ruin us
+
+“Who is it?” I asked, almost afraid to breathe.
+
+“It’s the rooster, curse him, the rooster that my mistress gave me to take to the rabbi to have killed for Saturday.” The penetrating shrieks continued at regular intervals. “He will ruin us. It’s only two hundred steps to the post; the soldiers will rush out in a moment.”
+
+“Strangle him,” I hissed in a rage.
+
+“Who? The rooster? Where am I to find him? He must have got pinned under something!”
+
+We both crawled around in the dark and grubbed in the mud with our hands, while the rain lashed us from above. We cursed the rooster and our fate. Finally, the old man freed the miserable sufferer from under my blanket, and the grateful bird immediately stopped crying. We lifted the cart together, and continued our journey. At the station, I spent three hours drying out and cleaning myself up before the train arrived.
+
+After I had changed my money, I found that I shouldn’t have enough to reach my destination, which was Zurich, where I was to present myself to Axelrod. I bought a ticket to Vienna, and decided that there I would arrange for the next lap.
+
+Vienna surprised me most of all by the fact that I could understand no one, despite my study of German at school. Most of the passers-by found me equally difficult. Nevertheless, I managed finally to tell an old man in a red cap that I wanted to get to the offices of the Arbeiter-Zeitung. I had made up my mind that I would explain to no one less than Victor Adler, the leader of the Austrian Social Democracy, that the interests of the Russian revolution demanded my immediate presence in Zurich. The guide agreed to take me there. We walked for an hour. Then we found out that two years earlier the paper had moved its offices to a new address. We walked for another half-hour. Then the doorman informed us that visiting hours were over. I had no money to pay the guide, I was hungry, and what was most important of all, I had to get to Zurich. A gentleman who didn’t look too amiable was coming down the steps. I addressed myself to him with a query about Adler.
+
+“Do you know what day it is?” he asked me sternly.
+
+I did not know; in the train, in the cart, in the house of the commercial traveller, in the Ukrainian’s barn, in the midnight struggle with the rooster, I had lost track of time.
+
+“To-day is Sunday,” the old gentleman announced, and tried to pass by me.
+
+“No matter – I want to see Adler.”
+
+At this, my interrogator answered me in the voice of one giving orders to a battalion of troops in a storm: “I am telling you, Dr. Adler cannot be seen on Sundays.”
+
+“But I have important business with him,” I persisted. “Even if your business were ten times as important – do you understand?” It was Fritz Austerlitz himself speaking, the terror of his office, a man whose conversation, as Hugo would have said, consisted only of lightning. “Even if you had brought the news – you hear me? – that your Czar had been assassinated, that a revolution had broken out in your country – do you hear? – even this would not give you the right to disturb the Doctor’s Sunday rest.”
+
+I was beginning to be impressed by the thunders of the gentleman’s voice. All the same I thought he was talking nonsense. It was inconceivable that a Sunday’s rest should be rated above the demands of revolution. I decided not to give in. I had to get to Zurich. The editors of the Iskra were waiting for me. Besides, I had escaped from Siberia – surely that was of some importance. Finally, by standing at the bottom of the staircase and barring the stern gentleman’s way, I got what I wanted. Austerlitz gave me the address. Accompanied by the same guide, I went to Adler’s house.
+
+A short man, with a pronounced stoop, almost a hunch, and with swollen eyes in a tired face, came out to see me. At the time there was a Landtag election in Vienna. Adler had made speeches at several meetings the day before, and during the night had written his articles and exhortations. I learned all this a quarter of an hour later from his daughter-in-law.
+
+“Pardon me for disturbing your Sunday rest, Doctor.”
+
+“Go on, go on,” he said with seeming sternness, but in a tone that did not frighten but encouraged me instead. One could see intelligence emanating from each wrinkle of the man.
+
+“I am Russian.”
+
+“You need not tell me that, I have had enough time to guess it.”
+
+I told the Doctor, while he studied me with swift glances, about my conversation at the entrance to his office.
+
+“Is that so? Did they tell you that? Who could it have been? A tall man? Shouts? Oh, that was Austerlitz. You said he shouted? Oh, yes, it was Austerlitz. Don’t take it too seriously. If you ever bring news of a revolution in Russia, you may ring my bell, even at night. Katya, Katya,” he called out suddenly. His Russian daughter-in-law came out. “Now we shall get along better,” he said, leaving us.
+
+My further travel was assured.

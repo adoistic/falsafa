@@ -1,0 +1,26 @@
+{
+  "work_slug": "max-stirner-the-ego-and-its-own-f98f48",
+  "work_title": "The Ego and Its Own",
+  "chapter_number": 4,
+  "chapter_title": "1. The Ancients",
+  "chapter_slug": "04-1-the-ancients",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0865fddf-513f-5b56-8594-7d9b5e1a9b65",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3369,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stirner/ego-and-its-own.htm"
+    }
+  ]
+}

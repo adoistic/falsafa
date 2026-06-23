@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 107,
+  "chapter_title": "Chapter VII: Continuation Of The Preceding Chapters",
+  "chapter_slug": "107",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54e89d56-e956-51cc-ae36-41bbde715c6a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3421,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch43.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 10,
+  "chapter_title": "The Production of Surplus-value",
+  "chapter_slug": "10-the-production-of-surplus-value",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d4cfed5-cd9c-5ab0-92a3-90fd30b44191",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5010,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch07.htm"
+    }
+  ]
+}

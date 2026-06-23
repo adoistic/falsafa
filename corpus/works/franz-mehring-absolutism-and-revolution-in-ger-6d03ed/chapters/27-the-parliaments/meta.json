@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-mehring-absolutism-and-revolution-in-ger-6d03ed",
+  "work_title": "Absolutism and Revolution in Germany 1525-1848",
+  "chapter_number": 27,
+  "chapter_title": "The Parliaments",
+  "chapter_slug": "27-the-parliaments",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7aa23e46-3418-5caf-a877-20d01c1788e9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3374,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/mehring/1910/absrev/ch05.htm"
+    }
+  ]
+}

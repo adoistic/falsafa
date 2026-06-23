@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 6,
+  "chapter_title": "Nothing to Offer Peasants.",
+  "chapter_slug": "06-nothing-to-offer-peasants",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "622ab951-27d0-5206-9ed2-0b7503676533",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 282,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

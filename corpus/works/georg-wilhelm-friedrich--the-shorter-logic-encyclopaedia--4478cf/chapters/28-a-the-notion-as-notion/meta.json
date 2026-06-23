@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 28,
+  "chapter_title": "(a) The Notion as Notion",
+  "chapter_slug": "28-a-the-notion-as-notion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ffcc1414-4ed2-51ef-90b6-d626fdf378a0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1835,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slsubjec.htm"
+    }
+  ]
+}

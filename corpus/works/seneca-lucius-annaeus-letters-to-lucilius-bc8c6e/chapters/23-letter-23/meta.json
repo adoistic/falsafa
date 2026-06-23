@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 23,
+  "chapter_title": "Letter 23",
+  "chapter_slug": "23-letter-23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "798ae877-b06e-5195-98ad-72376d97bc58",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 600,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a8c5c99-02ee-5978-b154-c3166630a6f1",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 900,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 26,
-  "chapter_title": "CHAPTER XVI.: TAXES ON WAGES.",
+  "chapter_title": "Chapter XVII.: Taxes on Other Commodities Than Raw Produce.",
   "chapter_slug": "26",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 8749,
-      "paragraph_count": 45,
+      "word_count": 4232,
+      "paragraph_count": 20,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

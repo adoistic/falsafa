@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-aurelius-meditations-1f6d1a",
+  "work_title": "Meditations",
+  "chapter_number": 9,
+  "chapter_title": "Book Nine",
+  "chapter_slug": "09-book-nine",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "348c54e6-05c4-5cbd-ac6e-47954b62b883",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2759,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0562.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b97d16a5-4cfd-5cf8-96bd-ced54ac33f73",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3839,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

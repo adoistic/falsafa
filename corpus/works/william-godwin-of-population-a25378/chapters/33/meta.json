@@ -2,7 +2,7 @@
   "work_slug": "william-godwin-of-population-a25378",
   "work_title": "Of Population",
   "chapter_number": 33,
-  "chapter_title": "CHAPTER I.: FUTILITY OF MR. MALTHUS's DOCTRINE RESPECTING THE CHECKS ON POPULATION.",
+  "chapter_title": "Chapter II.: of deaths and the Rate of human mortality.",
   "chapter_slug": "33",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3790,
-      "paragraph_count": 31,
+      "word_count": 2797,
+      "paragraph_count": 21,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
     }

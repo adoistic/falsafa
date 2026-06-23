@@ -1,0 +1,40 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 31
+chapter_title: Letter 31
+chapter_slug: "31-letter-31"
+variant_id: "8ae71f26-4644-5855-acec-1a6021bcfd5f"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1022
+translator: thothica
+---
+
+1. I recognize my Lucilius; he is beginning to show the man he promised to be. Follow that impulse of the mind by which you were making for all that is best, trampling on the goods that the crowd prizes. I do not wish you to become greater and better than you were striving to be. Your foundations have taken up much ground; only accomplish as much as you set out to do, and work over those things you carried with you in your mind.
+
+2. In short, you will be wise if you stop your ears, over which it is not enough to spread wax: you need a stouter stopping than that with which Ulysses is said to have used among his comrades. The voice that was feared was a beguiling one, yet not universal; but this voice that is to be feared sounds round about you, not from one rock, but from every quarter of the earth. Sail past, then, not one place suspected of treacherous pleasure, but all cities. Show yourself deaf to those who love you most; with good intent they pray for evil things on your behalf. And if you wish to be happy, beg the gods that none of the things they wish for you may come to pass.
+
+3. They are not goods, these things which men wish to be heaped upon you. There is one good, which is the cause and the support of the happy life: to trust in oneself. But this cannot fall to one unless toil has been despised and reckoned among those things which are neither good nor evil. For it cannot be that any one thing should be now evil, now good, now light and to be endured, now to be dreaded.
+
+4. Toil is not a good. What then is good? The despising of toil. Therefore I would blame those who are busy to no purpose. But on the other hand, those who strain toward what is honourable, the more they bend to it and the less they let themselves be conquered or grow weary, the more I will approve them and cry: "So much the better! Rise, and draw breath, and surmount that slope at a single breath, if you can."
+
+5. Toil nourishes noble spirits. There is no reason, then, why you should choose out of that old prayer of your parents what you would have befall you, what you should pray for; and altogether it is shameful for a man already advanced through the greatest affairs still to weary the gods. What need is there of prayers? Make yourself happy. And you will, if you understand that those things are good in which virtue is mingled, and base those with which wickedness is joined. Just as nothing is bright without an admixture of light, nor anything black except what has darkness or has drawn some obscurity into itself, just as nothing is hot without the aid of fire and nothing cold without air, so the fellowship of virtue and of wickedness makes things honourable and base.
+
+6. What then is good? The knowledge of things. What is evil? The ignorance of things. The man who is prudent and a craftsman will reject or choose each thing according to the occasion. But neither does he fear what he rejects nor admire what he chooses, if only his mind is great and unconquered. I forbid you to be cast down and abased. To not refuse toil is too little; ask for it.
+
+7. "What then?" you say, "is not toil that is frivolous and superfluous, and called forth by lowly causes, an evil?" No more than that which is spent on noble things, since it is the very endurance of the mind that exhorts itself to hard and harsh tasks and says: "Why do you hold back? It is not a man's part to fear sweat."
+
+8. Add this too, that virtue may be perfect: an evenness and tenor of life consonant with itself throughout, which cannot be unless the knowledge of things is attained, and the art by which things human and divine are known. This is the highest good. If you seize it, you begin to be the companion of the gods, not their suppliant.
+
+9. "How," you say, "is that reached?" Not over the Pennine or the Graian mountain, nor through the wastes of Candavia; no Syrtes, no Scylla or Charybdis must be braved, all which you have crossed at the price of a paltry stewardship. The road is safe, it is pleasant, the road for which Nature has equipped you. She has given you gifts which, if you do not forsake them, will let you rise the equal of a god.
+
+10. But money will not make you the equal of a god; god has nothing. The bordered robe will not make you so; god is naked. Fame will not make you so, nor the parade of yourself, nor the knowledge of your name spread abroad among the peoples; no one knows god, many think ill of him, and go unpunished. Not a throng of slaves carrying your litter through journeys at home and abroad; that god, greatest and most powerful, himself carries all things. Not even beauty and strength can make you happy; none of these endures with age.
+
+11. We must seek that which does not daily become less, which cannot be withstood. What is this? The mind, but the mind upright, good, great. What else might you call this than a god dwelling as a guest in a human body? This mind can fall as readily to a Roman knight as to a freedman, as to a slave. For what is a Roman knight, or a freedman, or a slave? Names born of ambition or of injury. One may leap up to heaven from a corner. Only rise, and "shape yourself too worthy of a god." But you will shape yourself not from gold or silver; no likeness like to a god can be expressed from such material: remember that, when the gods were propitious, they were of clay. Farewell.

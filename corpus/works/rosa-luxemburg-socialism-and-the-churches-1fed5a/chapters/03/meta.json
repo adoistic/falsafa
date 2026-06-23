@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-socialism-and-the-churches-1fed5a",
+  "work_title": "Socialism and the Churches",
+  "chapter_number": 3,
+  "chapter_title": "Part Three",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e66b27e-6e64-54f6-99f0-8ed10d7c0b33",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2180,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1905/misc/socialism-churches.htm"
+    }
+  ]
+}

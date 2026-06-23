@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-programme-of-the-world-revolutio-953692",
+  "work_title": "Programme of the World Revolution",
+  "chapter_number": 19,
+  "chapter_title": "XVIII. The People Armed to Defend Their Gains",
+  "chapter_slug": "19-xviii-the-people-armed-to-defend-their-gains",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8262c5c5-2e42-5b25-99c8-c8255a80d165",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2818,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1918/worldrev/ch18.html"
+    }
+  ]
+}

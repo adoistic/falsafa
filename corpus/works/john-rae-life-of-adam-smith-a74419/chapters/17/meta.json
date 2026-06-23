@@ -2,7 +2,7 @@
   "work_slug": "john-rae-life-of-adam-smith-a74419",
   "work_title": "Life of Adam Smith",
   "chapter_number": 17,
-  "chapter_title": "CHAPTER XVI: KIRKCALDY 1767-1773. Aet. 44-50",
+  "chapter_title": "Chapter XVII: London 1773-1776. Aet. 50-53",
   "chapter_slug": "17",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 7868,
-      "paragraph_count": 53,
+      "word_count": 7979,
+      "paragraph_count": 45,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
     }

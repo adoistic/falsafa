@@ -1,0 +1,31 @@
+---
+work_id: "842b3e93-fd9c-5651-b926-05aaa3f7671f"
+work_slug: "august-bebel-woman-and-socialism-842b3e"
+work_title: Woman and Socialism
+author_name: August Bebel
+chapter_number: 56
+chapter_title: 6. Increase of Consumption.
+chapter_slug: "56-6-increase-of-consumption"
+variant_id: "b0926627-0704-561f-9248-7efd36adb51a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 749
+source_url: "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch21.htm"
+translator: Meta L. Stern (Hebe)
+---
+
+The above enumerated facts prove that panics, crises, and unemployment will be impossible in future society. Crises arise because capitalistic production, incited by the desire for profit, and without any reliable means of estimating the true demand, leads to over-production and to over-stocking of the market. Under capitalism the products assume the character of goods that their owners endeavor to exchange, and the consumption of goods depends upon the consumer’s purchasing ability. But this purchasing ability is very limited among a vast majority of the population who are not paid the full value of their labor and whose services are not wanted if their employers cannot squeeze profits out of them. Purchasing ability and the ability to consume are two entirely different matters in bourgeois society. Many millions are in need of new clothes, shoes, furniture, linens and articles of food, but they have no money, and so their needs, their ability to consume, remains unsatisfied. The market is over-stocked, but the masses are hungry; they wish to work, but cannot find anyone willing to purchase their labor-power, because the employers can derive no profits from employing them. Perish, become a vagabond, a criminal, I, the capitalist, cannot help it, because I cannot use goods that I cannot sell at a profit. In his position the capitalist is entirely justified in taking this attitude.
+
+In the new society this contradiction will be removed. The new society will not produce “goods” to be “bought” and “sold,” it will produce commodities for consumption, not for any other purpose. The ability to consume will not be limited by the purchasing ability of each individual, but by the common ability to produce. If there is sufficient labor-power and sufficient means of production, every want can be satisfied. The social ability to consume knows no bounds except the satisfaction of the consumers.
+
+If there will be no “goods” in the new society there will ultimately be no money, either. Money appears to be the counterpart of goods, but is goods itself. Yet, at the same time, money is the social equivalent, the standard of value for all other goods. But the new society will not produce goods, if will produce commodities whose manufacture will require a certain measure of social working-time. The average time required to produce a given commodity is the only standard by which it will be measured for social consumption. Ten minutes of social working-time at one commodity equal ten minutes of social working-time at another commodity, no more and no less. Society will not wish to “earn,” it will merely wish to bring about the exchange of commodities of the same quality and of the same value among its members, and eventually it will not even be necessary to determine the value. Society will simply produce what it needs. If it should become evident, for instance, that three hours of work daily are necessary to produce all the required products, three hours will be the fixed time. If the means of production should be improved to such extent that the supply can be furnished by two hours of work, it will be two hours. If, on the other hand, the demands should grow and the increased productivity of the process of work would not suffice to satisfy these demands, the working-time would be lengthened.
+
+It can easily be calculated how much social labor will be necessary for the manufacture of each product.
+
+Thereby the relation of this portion of work to the entire working-time can be calculated.
+
+Any kind of certificate, a printed piece of paper, gold or tin, enables the holder to exchange same for various kinds of commodities. If he finds that his wants are less than what he receives for his services, he can work less, accordingly. If he wishes to give away what he does not use, nobody will prevent him from so doing. If he voluntarily chooses to work for another, so that the other one may idle, or if he wishes to divide his share of the social products, no one will restrain him. But no one can compel him to work for another person’s advantage, no one can deprive him of a part of the share he is entitled to for his services. Everyone will be able to satisfy all desires and requirements possible of fulfillment, but not at the expense of others. He receives from society the equivalent of what he produces, no more and no less, and remains free from exploitation.

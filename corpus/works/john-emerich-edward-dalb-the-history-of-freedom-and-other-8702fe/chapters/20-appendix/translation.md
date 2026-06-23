@@ -4,7 +4,7 @@ work_slug: "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe"
 work_title: The History of Freedom and Other Essays
 author_name: "John Emerich Edward Dalberg-Acton (Lord Acton)"
 chapter_number: 20
-chapter_title: APPENDIX
+chapter_title: Appendix
 chapter_slug: "20-appendix"
 variant_id: "2c373837-6a5c-5400-9dae-bb9a9b574667"
 content_type: translation

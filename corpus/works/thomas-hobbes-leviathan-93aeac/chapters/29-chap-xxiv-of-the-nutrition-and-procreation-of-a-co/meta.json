@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 29,
+  "chapter_title": "Chap. XXIV.: Of the Nutrition, and Procreation of a Common-wealth.",
+  "chapter_slug": "29-chap-xxiv-of-the-nutrition-and-procreation-of-a-co",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "297d3732-7e85-5b3c-8237-03439f2dcb33",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2287,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

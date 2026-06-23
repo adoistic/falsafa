@@ -1,0 +1,29 @@
+---
+work_id: "7cffc718-3bcb-59e5-9a8f-221624d15fd5"
+work_slug: "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7"
+work_title: Memoirs of a Revolutionist
+author_name: Peter Kropotkin
+chapter_number: 47
+chapter_title: "Part 5: The Fortress; The Escape, Section 2"
+chapter_slug: 47
+variant_id: "02eab89f-89b1-5171-aa50-1c997240a0b7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 584
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1899/memoirs-of-a-revolutionist/part-5-section-2.html"
+translator: Marxists Internet Archive edition
+---
+
+So I could work!
+
+I could hardly express now the immensity of relief I then felt at being enabled to resume writing. I would have consented to live on nothing but bread and water, in the dampest of cellars, if only permitted to work.
+
+I was, however, the only prisoner to whom writing materials were allowed. Several of my comrades spent three years and more in confinement before the famous trial of "the hundred and ninety-three " took place, and all they had was a slate. Of course, even the slate was welcome in that dreary loneliness, and they used it to write exercises in the languages they were learning, or to work out mathematical problems; but what was jotted down on the slate could last only a few hours.
+
+My prison life now took on a more regular character. There was something immediate to live for. At nine in the morning I had already made the first three hundred pacings across my cell, and was waiting for my pencils and pens to be delivered to me. The work which I had prepared for the Geographical Society contained, beside a report of my explorations in Finland, a discussion of the bases upon which the glacial hypothesis ought to rest. Now, knowing that I had plenty of time before me, I decided to rewrite and enlarge that part of my work. The Academy of Sciences put its admirable library at my service, and a corner of my cell soon filled up with books and maps, including the whole of the Swedish Geological Survey publications, a nearly complete collection of reports of all arctic travels, and whole sets of the Quarterly Journal of the London Geological Society. My book grew in the fortress to the size of two large volumes. The first of them was printed by my brother and Polakóff (in the Geographical Society's Memoirs); while the second, not quite finished, remained in the hands of the Third Section when I ran away. The manuscript was found only in 1895, and given to the Russian Geographical Society, by whom it was forwarded to me in London.
+
+At five in the afternoon, --- at three in the winter, --- as soon as the tiny lamp was brought in, my pencils and pens were taken away, and I had to stop work. Then I used to read, mostly books of history. Quite a library had been formed in the fortress by the generations of political prisoners who had been confined there. I was allowed to add to the library a number of staple works on Russian history, and with the books which were brought to me by my relatives I was enabled to read almost every work and collection of acts and documents bearing on the Moscow period of the history of Russia. I relished, in reading, not only the Russian annals, especially the admirable annals of the democratic mediæval republic of Pskov, --- the best, perhaps, in Europe for the history of that type of mediæval cities, --- but all sorts of dry documents, and even the Lives of the Saints, which occasionally contain facts of the real life of the masses which cannot be found elsewhere. I also read during this time a great number of novels, and even arranged for myself a treat on Christmas Eve. My relatives managed to send me then the Christmas stories of Dickens, and I spent the festival laughing and crying over those beautiful creations of the great novelist.

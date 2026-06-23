@@ -4,8 +4,7 @@ slug: "unknown-old-english-elegies-d5fe9e"
 title: Old English Elegies
 author:
   name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+  biography: Anonymous or collectively transmitted authorship spanning the Sanskrit Dharmaśāstra (smṛti) tradition, Old Javanese tutur and kakawin literature, and Old English elegiac verse. These texts carry inherited law, ritual, cosmology, and lament shaped over generations rather than by a single named author.
 era: Medieval
 genre: Literature
 language: old_english

@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 19
-chapter_title: CHAPTER VI
+chapter_title: Chapter VII. (1)
 chapter_slug: 19
 variant_id: "44f03ab4-d237-5ef8-97ac-e270014b308b"
 content_type: translation
@@ -13,13 +13,17 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 212
+word_count: 393
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How God is sensible (sensibilis) although he is not a body —God is sensible, omnipotent, compassionate, passionless; for it is better to be these than not be He who in any way knows, is not improperly said in some sort to feel
+How he is omnipotent, although there are many things of which he is not capable.—To be capable of being corrupted, or of lying, is not power, but impotence. God can do nothing by virtue of impotence, and nothing has power against him.
 
-But, although it is better for thee to be sensible, omnipotent, compassionate, passionless, than not to be these things; how art thou sensible, if thou art not a body; or omnipotent, if thou hast not all powers; or at once compassionate and passionless? For, if only corporeal things are sensible, since the senses encompass a body and are in a body, how art thou sensible, although thou art not a body, but a supreme Spirit, who is superior to body? But, if feeling is only cognition, or for the sake of cognition,—for he who feels obtains knowledge in accordance with the proper functions of his senses; as through sight, of colors; through taste, of flavors,—whatever in any way cognises is not inappropriately said, in some sort, to feel.
+But how art thou omnipotent, if thou art not capable of all things? Or, if thou canst not be corrupted, and canst not lie, nor make what is true, false—as, for example, if thou shouldst make what has been done not to have been done, and the like—how art thou capable of all things? Or else to be capable of these things is not power, but impotence. For, he who is capable of these things is capable of what is not for his good, and of what he ought not to do; and the more capable of them he is, the more power have adversity and perversity against him; and the less has he himself against these.
 
-Therefore, O Lord, although thou art not a body, yet thou art truly sensible in the highest degree in respect of this, that thou dost cognise all things in the highest degree; and not as an animal cognises, through a corporeal sense.
+He, then, who is thus capable is so not by power, but by impotence. For, he is not said to be able because he is able of himself, but because his impotence gives something else power over him. Or, by a figure of speech, just as many words are improperly applied, as when we use “to be” for “not to be,” and “to do” for what is really “not to do,” or “to do nothing.” For, often we say to a man who denies the existence of something: “It is as you say it to be,” though it might seem more proper to say, “It is not, as you say it is not.” In the same way, we say: “This man sits just as that man does,” or, “This man rests just as that man does”; although to sit is not to do anything, and to rest is to do nothing.
+
+So, then, when one is said to have the power of doing or experiencing what is not for his good, or what he ought not to do, impotence is understood in the word power. For, the more he possesses this power, the more powerful are adversity and perversity against him, and the more powerless is he against them.
+
+Therefore, O Lord, our God, the more truly art thou omnipotent, since thou art capable of nothing through impotence, and nothing has power against thee.

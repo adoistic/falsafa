@@ -4,7 +4,7 @@ work_slug: "augustin-thierry-historical-essays-and-narratives-832778"
 work_title: Historical Essays and Narratives of the Merovingian Era
 author_name: Augustin Thierry
 chapter_number: 31
-chapter_title: "ESSAY XXIV.: ON THE CHARACTER AND POLICY OF THE FRANKS."
+chapter_title: "Essay XXIV.: On the Character and Policy of the Franks."
 chapter_slug: "31-essay-xxiv-on-the-character-and-policy-of-the-fran"
 variant_id: "f0abbf68-efd2-5054-acbb-6efe25f722bf"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1512
+word_count: 1508
 source_url: "https://oll.libertyfund.org/titles/thierry-the-historical-essays-and-narratives-of-the-merovingian-era"
 translator: Online Library of Liberty edition
 ---
@@ -24,7 +24,7 @@ When the Frankish tribes were only known in the land we inhabit by their incursi
 
 It was then that Chlodowig, chief of the Franks, appeared on the banks of the Loire. Terror preceded his army; it was known that at their emigration from Germany into Gaul, the Franks had shown themselves cruel and vindictive towards the Gallo-Roman population; fear was so great at their approach, that in many places fearful prodigies were supposed to foretell their invasion and victory. The ancient inhabitants of the two Aquitanias joined the troops of the Goths for the defence of the invaded territory. Those of the mountainous country, called in Latin Arvernia, and which we call Auvergne, engaged in the same cause. But the courage and efforts of these men of various races did not prevail against the axes of the Franks, nor the fanaticism of the northern Gauls incited by their bishops, the enemies of the Goths who were Arians. An avid and ferocious multitude spread itself as far as the Pyrenees, destroying and depopulating the cities. It divided the treasures of the country, one of the richest in the world, and crossed the Loire again, leaving garrisons on the conquered territory.
 
-In the year 532, Theoderik, one of the sons and successors of Chlodowig, said to those Frankish warriors whom he commanded: “Follow me as far Auvergne, and I will make you enter a country where you will take as much gold and silver as you possibly can desire; where you can carry away in abundance flocks, Edition: current; Page: [100] slaves, and garments.” The Franks took up arms, and once more crossing the Loire, they advanced on the territory of the Bituriges and Avernes. These paid with interest for the resistance they had dared to the first invasion. Every thing amongst them was devastated; the churches and monasteries were razed to their foundations. The young men and women were dragged, their hands bound, after the luggage to be sold as slaves. The inhabitants of this unfortunate country perished in large numbers or were ruined by the pillage. Nothing was left them of what they had possessed, says an ancient chronicle, except the land, which the barbarians could not carry away.
+In the year 532, Theoderik, one of the sons and successors of Chlodowig, said to those Frankish warriors whom he commanded: “Follow me as far Auvergne, and I will make you enter a country where you will take as much gold and silver as you possibly can desire; where you can carry away in abundance flocks, slaves, and garments.” The Franks took up arms, and once more crossing the Loire, they advanced on the territory of the Bituriges and Avernes. These paid with interest for the resistance they had dared to the first invasion. Every thing amongst them was devastated; the churches and monasteries were razed to their foundations. The young men and women were dragged, their hands bound, after the luggage to be sold as slaves. The inhabitants of this unfortunate country perished in large numbers or were ruined by the pillage. Nothing was left them of what they had possessed, says an ancient chronicle, except the land, which the barbarians could not carry away.
 
 Such were the neighbourly relations kept up by the Franks with the Gallic populations which had remained beyond their limits. Their conduct with respect to the natives of the northern provinces was hardly less hostile. When Hilperik, the son of Chlother, wished, in the year 584, to send his daughter in marriage to the king of the West Goths, or Visigoths, settled in Spain, he came to Paris and carried away from the houses belonging to the fisc a great number of men and women, who were heaped up in chariots to accompany and serve the bride elect. Those who refused to depart, and wept, were put in prison: several strangled themselves in despair. Many people of the best families enlisted by force into this procession, made their will and gave their property to the churches. “The son,” says a cotemporary, “was separated from his father, the mother from her daughter; they departed sobbing, and pronouncing deep curses; so many persons in Paris were in tears that it might be compared to the desolation of Egypt.”
 

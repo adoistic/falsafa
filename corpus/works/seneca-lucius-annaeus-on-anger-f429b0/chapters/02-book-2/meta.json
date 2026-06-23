@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-on-anger-f429b0",
+  "work_title": "On Anger",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02-book-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4d6c72b6-0122-5967-ada0-71c4cf4794ce",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 17,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0255.stoa010"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f59175f2-dadf-5808-bab5-7af9ceb26edd",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12119,
+      "paragraph_count": 168,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

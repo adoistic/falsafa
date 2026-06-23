@@ -4,15 +4,19 @@ slug: "arthur-young-travels-in-france-during-the-yea-1ea677"
 title: Travels in France during the Years 1787, 1788, 1789
 author:
   name: Arthur Young
-  biography: Arthur Young (1741–1820).
+  biography: English agricultural writer and surveyor of farming practice at home and abroad. His Travels in France described the countryside on the eve of the Revolution and became a standard source for its historians.
+  birth_year: 1741
+  death_year: 1820
+  nationality: English
 era: Enlightenment
 genre: History
 language: English
 language_direction: ltr
 description: "Travels in France during the Years 1787, 1788, 1789, by Arthur Young (1741–1820), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
-total_logical_chapters: 13
-total_variant_entries: 13
+published_year: 1792
+total_logical_chapters: 8
+total_variant_entries: 8
 thothica_role: catalog
 ---
 
@@ -23,15 +27,10 @@ Travels in France during the Years 1787, 1788, 1789, by Arthur Young (1741–182
 ## Chapters
 
 01. [Editorial Remarks by Dr. David M. Hart](./chapters/01-editorial-remarks-by-dr-david-m-hart/) — prose, 1 variant
-02. [Bibliography](./chapters/02-bibliography/) — prose, 1 variant
-03. [EDITOR'S INTRODUCTION by Matilda Betham-Edwards](./chapters/03-editors-introduction-by-matilda-betham-edwards/) — prose, 1 variant
-04. [BIOGRAPHICAL SKETCH by Matilda Betham-Edwards](./chapters/04-biographical-sketch-by-matilda-betham-edwards/) — prose, 1 variant
-05. [BIBLIOGRAPHY by Matilda Betham-Edwards](./chapters/05-bibliography-by-matilda-betham-edwards/) — prose, 1 variant
-06. [PREFACE](./chapters/06-preface/) — prose, 1 variant
-07. [TRAVELS DURING THE YEARS 1787, 1788, AND 1789.](./chapters/07-travels-during-the-years-1787-1788-and-1789/) — prose, 1 variant
-08. [JOURNAL. MAY 15, 1787.](./chapters/08-journal-may-15-1787/) — prose, 1 variant
-09. [1788.](./chapters/09-1788/) — prose, 1 variant
-10. [1789.](./chapters/10-1789/) — prose, 1 variant
-11. [ON THE REVOLUTION OF FRANCE.](./chapters/11-on-the-revolution-of-france/) — prose, 1 variant
-12. [FUTURE EFFECTS.](./chapters/12-future-effects/) — prose, 1 variant
-13. [1792.](./chapters/13-1792/) — prose, 1 variant
+02. [Editor's Introduction by Matilda Betham-Edwards](./chapters/02-editors-introduction-by-matilda-betham-edwards/) — prose, 1 variant
+03. [Biographical Sketch by Matilda Betham-Edwards](./chapters/03-biographical-sketch-by-matilda-betham-edwards/) — prose, 1 variant
+04. [Preface](./chapters/04-preface/) — prose, 1 variant
+05. [Travels During the Years 1787, 1788, and 1789.](./chapters/05-travels-during-the-years-1787-1788-and-1789/) — prose, 1 variant
+06. [Journal. May 15, 1787.](./chapters/06-journal-may-15-1787/) — prose, 1 variant
+07. [On the Revolution of France.](./chapters/07-on-the-revolution-of-france/) — prose, 1 variant
+08. [Future Effects.](./chapters/08-future-effects/) — prose, 1 variant

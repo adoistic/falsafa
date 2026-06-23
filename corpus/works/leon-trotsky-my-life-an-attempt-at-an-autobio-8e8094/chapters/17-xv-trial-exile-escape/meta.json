@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 17,
+  "chapter_title": "XV. Trial, Exile, Escape",
+  "chapter_slug": "17-xv-trial-exile-escape",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e473577-25ef-591d-81a6-451c75112fd7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5897,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch15.htm"
+    }
+  ]
+}

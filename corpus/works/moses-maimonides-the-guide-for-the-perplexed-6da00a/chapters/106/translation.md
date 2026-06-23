@@ -4,7 +4,7 @@ work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
 work_title: The Guide for the Perplexed
 author_name: Moses Maimonides
 chapter_number: 106
-chapter_title: CHAPTER LXXV
+chapter_title: Chapter LXXV, Second Argument.
 chapter_slug: 106
 variant_id: "b0a5d189-f1cd-5caf-b20a-24f351051673"
 content_type: translation
@@ -13,9 +13,9 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 78
+word_count: 153
 source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
 translator: Online Library of Liberty edition
 ---
 
-In this chapter I shall explain to you how the Mutakallemim prove the Unity of God. They contend that the Maker and Creator of the Universe, the existence of whom is testified by all nature, is One. Two propositions are employed by them in demonstrating the Unity of God, viz., two deities or Edition: current; Page: [139] more would neutralize each other, and if several deities existed they would be distinguished from each other by a specific difference.
+If there were two Gods, there would necessarily be some element common to both, whilst some element present in the one would be absent in the other, and constitute the specific difference between them. This is a philosophic and sound argument for those who are able to examine it, and to obtain a clear insight into its premises, which will be further explained, in our exposition of the view of the philosophers on this point. But it cannot be accepted by those who admit the existence of divine attributes. For according to their opinion, the Primal Cause includes many different elements. They represent its wisdom and its omnipotence as two different things, and again the omnipotence as different from the will. Consequently it would not be impossible that either of the two divine beings possessed several properties, some of which would be common to both, and some peculiar to only one of them.

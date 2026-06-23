@@ -4,7 +4,7 @@ work_slug: "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362"
 work_title: A Treatise on Political Economy
 author_name: Antoine Louis Claude Destutt de Tracy
 chapter_number: 9
-chapter_title: "section 4.: From the faculty of will arise also the ideas of riches and deprivation."
+chapter_title: "section 6.: Finally, from the faculty of will arise our ideas of rights and duties."
 chapter_slug: 09
 variant_id: "8c35199a-26f0-5f4c-95ac-49cd9d33de87"
 content_type: translation
@@ -13,25 +13,29 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 204
+word_count: 325
 source_url: "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
 translator: Online Library of Liberty edition
 ---
 
-Whatsoever contributes, mediately or immediately, to the satisfaction of our wants is for us a good; that is to say, a thing the possession of which is a good.
+Rights arise from wants, and duties from means.
 
-To be rich is to possess these goods; to be poor is to be without them.
+Weakness in all its kinds is the source of all rights, and power the source of all duties; or in other words of the general duty to employ it well, which comprehends all the others.
 
-They arise all from the employment of our faculties, of which they are the effect and representation.
+These ideas of rights and duties are not so essentially correlative as is commonly said. That of rights is anterior and absolute.
 
-These goods have all two values amongst us; the one is that of the sacrifices they cost to him who produces them, the other that of the advantages which they procure for him who has acquired them.
+An animated being by the laws of his nature has always the right to satisfy his wants, and he has no duties but according to circumstances.
 
-The labour from which they emanate has then these two values.
+A sentient and willing being, but incapable of action, would have all rights and no duties.
 
-Yes labour has these two values. The one is the sum of the objects necessary to the satisfaction of the wants that arise inevitably in an animated being during the operation of his labour. The other is the mass of utility resulting from this labour.
+This being supposed capable of action, and insulated from every other sensible being, has still the same plenitude of rights, with the sole duty of properly directing his actions and well employing his means for the most complete satisfaction of his wants.
 
-The latter value is eventual and variable.
+Place this same being in contact with other beings who develope to him their sensibility too imperfectly to enable him to form conventions with them; he has still the same rights, and his duties or rather his sole duty is only changed, so far Edition: current; Page: [xv] as he must act on the will of these beings, and is under a necessity to sympathise more or less with them. Such are our relations with the brutes.
 
-The first is natural and necessary. It has not however an absolute fixity; and it is this which renders very delicate all economical and moral calculations.
+Suppose this same sensible being in relation with beings with whom he can completely communicate and form conventions, he has still the same rights unlimited in themselves, and the same sole duty.
 
-We can scarcely employ in these matters but the considerations drawn from the theory of limits.
+These rights are not bounded, this duty is not modified by the conventions established; but because these conventions are so many means of exercising these rights, of fulfilling this duty better and more fully than before.
+
+The possibility of explaining ourselves and not agriculture, grammar and not Ceres, is our first legislator.
+
+It is at the establishment of conventions that the just and unjust, properly speaking, commence.

@@ -1,0 +1,27 @@
+---
+work_id: "2a5eb9af-35ff-5fa6-90dd-8301f6dbd5cc"
+work_slug: "rosa-luxemburg-the-socialist-crisis-in-france-2a5eb9"
+work_title: The Socialist Crisis in France
+author_name: Rosa Luxemburg
+chapter_number: 3
+chapter_title: "Coup d’état : 1799 and 1851"
+chapter_slug: "03-coup-d-etat-1799-and-1851"
+variant_id: "5cf4a72c-effd-51fc-9604-6c0da681a41d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 581
+source_url: "https://www.marxists.org/archive/luxemburg/1901/socialist-crisis-france/ch01.htm"
+translator: Ernest Erber
+---
+
+Although the two Napoleonic coups d’état – the Eighteenth Brumaire of 1799 and December 2nd of 1851 – were produced by specific and immediate political situations, their roots went far below this surface. The First and the Second Empires alike were the direct products of preceding revolutions. They marked the extreme point of rest of the receding revolutionary wave and were supported in both cases by two powerful classes of bourgeois society, the big bourgeoisie and the peasantry.
+
+In the Eighteenth Brumaire, we have a bourgeoisie in the period of the revolution’s ascent, seeking to check it and lead it back to its starting point in order to strangle it, because it had been carried beyond the point they fixed for it – the creation of a constitutional bourgeois state – and was threatening the very foundations of this state. Hand in hand with this bourgeoisie went a peasantry, liberated and in possession of the land, fearing every new change as much as the return of the old regime, and anxious to consolidate its conquests through a government that was hostile to both the revolution and the legitimate monarchy. Facing these two classes across the barricades was a working class which during its short rule had frightened the petty bourgeoisie and driven it into the arms of reaction, but at the same time had shown that it did not yet possess an independent, practical program of action and had, therefore, been grinding itself to pieces in the revolutionary struggles. Finally, the threat offered by the anti-Jacobin coalition of feudal-reactionary Europe caused the internal contradictions and struggles to be pushed into the background and concentrated everything upon the necessity for a strong, external front.
+
+In the coup d’état of December 2, 1851, we have a bourgeoisie in power, which, like the big landowners, is frightened by the revolutionary uprising of the proletariat and the petty bourgeoisie. It secures the help of the petty bourgeoisie to trample the proletariat underfoot in the June massacre, and then, in order to finish with the petty bourgeoisie, strengthens the state power more and more at the expense of popular representation. In doing this, it finally places its own neck in the noose, with the greater resignation since it, from the beginning, is monarchically minded, and only finds fault with the monarchy of Bonaparte because it would have preferred that of the house of Orleans or the Bourbons. Next to this bourgeoisie, we have a peasantry, which has been devoted to the Napoleon tradition since the First Empire. In the Second it sees a means of establishing order with the bayonets of the army, and of controlling the turbulent city population it hates and fears.
+
+The pattern of the coup d’état is, therefore, the same in both cases: on the one hand, the positive economic and political interests of the dominant classes in society tied to the monarchy; on the other, the working class, by now rendered incapable of action, as the only real republican force. Finally, in both cases, the monarchy finds its foundation prepared in advance by the march of the counter-revolution, which has already created posts combining the supreme civil and military powers: the life-long consulships and the plebiscite-elected President. Whatever the coup d’état conquered, therefore, had already dropped into the lap of the Republic as a ripe fruit of the counter-revolution. The coup d’état did not establish a new state of affairs. It merely recognized the new situation and gave it its name.

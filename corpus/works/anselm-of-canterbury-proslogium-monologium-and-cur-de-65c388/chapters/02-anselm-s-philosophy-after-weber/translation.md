@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 2
-chapter_title: ANSELM’S PHILOSOPHY. (AFTER WEBER.)
+chapter_title: Anselm’s Philosophy. (After Weber.)
 chapter_slug: "02-anselm-s-philosophy-after-weber"
 variant_id: "1de05f87-63fd-58c2-91d2-150781d4427e"
 content_type: translation

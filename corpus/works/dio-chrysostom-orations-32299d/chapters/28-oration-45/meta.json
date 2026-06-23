@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 28,
+  "chapter_title": "Oration 45",
+  "chapter_slug": "28-oration-45",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c32bf3d7-f2e5-5a2f-b190-d1cd31f54858",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1501,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "799d103b-070b-5256-b133-b93bbf95f3ca",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2125,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-social-revolution-and-on-the-4a4d88",
+  "work_title": "The Social Revolution (and On the Day After the Social Revolution)",
+  "chapter_number": 17,
+  "chapter_title": "Intellectual Production",
+  "chapter_slug": "17-intellectual-production",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b109f021-867d-5337-a8db-19d9b4c5ec4a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3795,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1902/socrev/pt2-2.htm"
+    }
+  ]
+}

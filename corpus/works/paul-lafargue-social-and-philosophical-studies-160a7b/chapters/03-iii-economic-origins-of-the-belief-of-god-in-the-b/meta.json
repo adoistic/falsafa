@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-social-and-philosophical-studies-160a7b",
+  "work_title": "Social and Philosophical Studies",
+  "chapter_number": 3,
+  "chapter_title": "III. Economic Origins of the Belief of God in the Bourgeois",
+  "chapter_slug": "03-iii-economic-origins-of-the-belief-of-god-in-the-b",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a04b82a-8214-5c54-96f7-01ece5f524d2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4624,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1906/socphil/ch1.html"
+    }
+  ]
+}

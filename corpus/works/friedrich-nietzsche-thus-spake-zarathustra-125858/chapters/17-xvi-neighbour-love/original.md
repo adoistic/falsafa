@@ -1,0 +1,61 @@
+---
+work_id: "125858cf-fea7-5292-b00d-5f4f6d6e46e4"
+work_slug: "friedrich-nietzsche-thus-spake-zarathustra-125858"
+work_title: Thus Spake Zarathustra
+author_name: Friedrich Nietzsche
+chapter_number: 17
+chapter_title: "XVI. Neighbour-love."
+chapter_slug: "17-xvi-neighbour-love"
+variant_id: "d8622019-afb9-5950-8231-dc21faab8e4e"
+content_type: original
+layout: prose
+language: German
+source_language: German
+language_direction: ltr
+script: latin
+word_count: 488
+source_url: "https://www.gutenberg.org/ebooks/7205"
+curator: thothica
+---
+
+Ihr drängt euch um den Nächsten und habt schöne Worte dafür. Aber ich sage euch: eure Nächstenliebe ist eure schlechte Liebe zu euch selber.
+
+Ihr flüchtet zum Nächsten vor euch selber und möchtet euch daraus eine Tugend machen: aber ich durchschaue euer „Selbstloses“.
+
+Das Du ist älter als das Ich; das Du ist heilig gesprochen, aber noch nicht das Ich: so drängt sich der Mensch hin zum Nächsten.
+
+Rathe ich euch zur Nächstenliebe? Lieber noch rathe ich euch zur Nächsten-Flucht und zur Fernsten-Liebe!
+
+Höher als die Liebe zum Nächsten ist die Liebe zum Fernsten und Künftigen; höher noch als die Liebe zu Menschen ist die Liebe zu Sachen und Gespenstern.
+
+Diess Gespenst, das vor dir herläuft, mein Bruder, ist schöner als du; warum giebst du ihm nicht dein Fleisch und deine Knochen? Aber du fürchtest dich und läufst zu deinem Nächsten.
+
+Ihr haltet es mit euch selber nicht aus und liebt euch nicht genug: nun wollt ihr den Nächsten zur Liebe verführen und euch mit seinem Irrthum vergolden.
+
+Ich wollte, ihr hieltet es nicht aus mit allerlei Nächsten und deren Nachbarn; so müsstet ihr aus euch selber euren Freund und sein überwallendes Herz schaffen.
+
+Ihr ladet euch einen Zeugen ein, wenn ihr von euch gut reden wollt; und wenn ihr ihn verführt habt, gut von euch zu denken, denkt ihr selber gut von euch.
+
+Nicht nur Der lügt, welcher wider sein Wissen redet, sondern erst recht Der, welcher wider sein Nichtwissen redet. Und so redet ihr von euch im Verkehre und belügt mit euch den Nachbar.
+
+Also spricht der Narr: „der Umgang mit Menschen verdirbt den Charakter, sonderlich wenn man keinen hat.“
+
+Der Eine geht zum Nächsten, weil er sich sucht, und der Andre, weil er sich verlieren möchte. Eure schlechte Liebe zu euch selber macht euch aus der Einsamkeit ein Gefängniss.
+
+Die Ferneren sind es, welche eure Liebe zum Nächsten bezahlen; und schon wenn ihr zu fünfen mit einander seid, muss immer ein sechster sterben.
+
+Ich liebe auch eure Feste nicht: zu viel Schauspieler fand ich dabei, und auch die Zuschauer gebärdeten sich oft gleich Schauspielern.
+
+Nicht den Nächsten lehre ich euch, sondern den Freund. Der Freund sei euch das Fest der Erde und ein Vorgefühl des Übermenschen.
+
+Ich lehre euch den Freund und sein übervolles Herz. Aber man muss verstehn, ein Schwamm zu sein, wenn man von übervollen Herzen geliebt sein will.
+
+Ich lehre euch den Freund, in dem die Welt fertig dasteht, eine Schale des Guten,—den schaffenden Freund, der immer eine fertige Welt zu verschenken hat.
+
+Und wie ihm die Welt auseinander rollte, so rollt sie ihm wieder in Ringen zusammen, als das Werden des Guten durch das Böse, als das Werden der Zwecke aus dem Zufalle.
+
+Die Zukunft und das Fernste sei dir die Ursache deines Heute: in deinem Freunde sollst du den Übermenschen als deine Ursache lieben.
+
+Meine Brüder, zur Nächstenliebe rathe ich euch nicht: ich rathe euch zur Fernsten-Liebe.
+
+Also sprach Zarathustra.

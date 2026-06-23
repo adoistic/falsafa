@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 54,
+  "chapter_title": "4. The Growth of the Productivity of Labor.",
+  "chapter_slug": "54-4-the-growth-of-the-productivity-of-labor",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "68e157d3-5743-5e15-82dd-4cea51bf7fb1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3054,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch21.htm"
+    }
+  ]
+}

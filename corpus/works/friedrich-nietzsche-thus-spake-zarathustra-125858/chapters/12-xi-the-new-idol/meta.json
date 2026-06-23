@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 12,
+  "chapter_title": "XI. The New Idol.",
+  "chapter_slug": "12-xi-the-new-idol",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f2013abe-9d0b-5aa1-9f20-1661d4d66de3",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 759,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34026103-064c-5d53-bd92-47dd40b4ac80",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 820,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

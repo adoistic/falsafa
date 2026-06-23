@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-the-re-conquest-of-ireland-059d10",
+  "work_title": "The Re-Conquest of Ireland",
+  "chapter_number": 7,
+  "chapter_title": "VI. Woman",
+  "chapter_slug": "07-vi-woman",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c9eb31a7-f608-5048-9bb8-36c8edbcb73c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2431,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1915/rcoi/chap06.htm"
+    }
+  ]
+}

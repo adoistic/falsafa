@@ -1,0 +1,77 @@
+[
+  {
+    "id": "p-6d07d1",
+    "offset": 0,
+    "text": "Hence it is inferred that if the time of fall from rest through any given distance is represented by that distance itself, then the time of fall, after the given distance has been increased by a certain amount, will be represented by the excess of the mean proportional between the increased distance and the original distance over the mean proportional between the original distance and the increment. Thus, for instance, if we agree that AB represents the time of fall, from rest at A, through the distance AB, and that AS is the increment, the time required to traverse AB, after fall through SA, will be the excess of the mean proportional between SB and BA over the mean proportional between BA and AS."
+  },
+  {
+    "id": "p-3c043f",
+    "offset": 709,
+    "text": "Given any distance whatever and a portion of it laid off from the point at which motion begins, it is required to find another portion which lies at the other end of the distance and which is traversed in the same time as the first given portion."
+  },
+  {
+    "id": "p-d45fde",
+    "offset": 957,
+    "text": "Let the given distance be CB and let CD be that part of it which is laid off from the beginning of motion. It is required to find another part, at the end B, which is traversed in the same time as the assigned portion CD. Let BA be a mean proportional between BC and CD; also let CE be a third proportional to BC and CA. Then, I say, EB will be the distance which, after fall from C, will be traversed in the same time as CD itself. For if we agree that CB shall represent the time through the entire distance CB, then BA (which, of course, is a mean proportional between BC and CD) will represent the time along CD; and since CA is a mean proportional between BC and CE, it follows that CA will be the time through CE; but the total length CB represents the time through the total distance CB. Therefore the difference BA will be the time along the difference of distances, EB, after falling from C; but this same BA was the time of fall through CD. Consequently the distances CD and EB are traversed, from rest at A, in equal times."
+  },
+  {
+    "id": "p-a6faee",
+    "offset": 1993,
+    "text": "q. e. f."
+  },
+  {
+    "id": "p-71b359",
+    "offset": 2003,
+    "text": "If, on the path of a body falling vertically from rest, one lays off a portion which is traversed in any time you please and whose upper terminus coincides with the point where the motion begins, and if this fall is followed by a motion deflected along any inclined plane, then the space traversed along the inclined plane, during a time-interval equal to that occupied in the previous vertical fall, will be greater than twice, and less than three times, the length of the vertical fall."
+  },
+  {
+    "id": "p-a0d06f",
+    "offset": 2493,
+    "text": "Let AB be a vertical line drawn downwards from the horizontal line AE, and let it represent the path of a body falling from rest at A; choose any portion AC of this path. Through C draw any inclined plane, CG, along which the motion is continued after fall through AC. Then, I say, that the distance traversed along this plane CG, during the time-interval equal to that of the fall through AC, is more than twice, but less than three times, this same distance AC. Let us lay off CF equal to AC, and extend the plane GC until it meets the horizontal in E; choose G such that CE:EF=EF:EG. If now we assume that the time of fall along AC is represented by the length AC, then CE will represent the time of descent along CE, while CF, or CA, will represent the time of descent along CG. It now remains to be shown that the distance CG is more than twice, and less than three times, the distance CA itself. Since CE:EF=EF:EG, it follows that CE:EF=CF:FG; but EC<EF; therefore CF will be less than FG and GC will be more than twice FC, or AC. Again since FE<2EC (for EC is greater than CA, or CF), we have GF less than twice FC, and also GC less than three times CF, or CA."
+  },
+  {
+    "id": "p-070003",
+    "offset": 3662,
+    "text": "q. e. d."
+  },
+  {
+    "id": "p-635761",
+    "offset": 3672,
+    "text": "This proposition may be stated in a more general form; since what has been proven for the case of a vertical and inclined plane holds equally well in the case of motion along a plane of any inclination followed by motion along any plane of less steepness, as can be seen from the adjoining figure. The method of proof is the same."
+  },
+  {
+    "id": "p-ddb681",
+    "offset": 4004,
+    "text": "Given two unequal time-intervals, also the distance through which a body will fall along a vertical line, from rest, during the shorter of these intervals, it is required to pass through the highest point of this vertical line a plane so inclined that the time of descent along it will be equal to the longer of the given intervals."
+  },
+  {
+    "id": "p-0c27d5",
+    "offset": 4338,
+    "text": "Let A represent the longer and B the shorter of the two unequal time-intervals, also let CD represent the length of the vertical fall, from rest, during the time B. It is required to pass through the point C a plane of such a slope that it will be traversed in the time A."
+  },
+  {
+    "id": "p-c62c58",
+    "offset": 4612,
+    "text": "Draw from the point C to the horizontal a line CX of such a length that B:A=CD:CX. It is clear that CX is the plane along which a body will descend in the given time A. For it has been shown that the time of descent along an inclined plane bears to the time of fall through its vertical height the same ratio which the length of the plane bears to its vertical height. Therefore the time along CX is to the time along CD as the length CX is to the length CD, that is, as the time-interval A is to the time-interval B: but B is the time required to traverse the vertical distance, CD, starting from rest; therefore A is the time required for descent along the plane CX."
+  },
+  {
+    "id": "p-1479dd",
+    "offset": 5282,
+    "text": "Given the time employed by a body in falling through a certain distance along a vertical line, it is required to pass through the lower terminus of this vertical fall, a plane so inclined that this body will, after its vertical fall, traverse on this plane, during a time-interval equal to that of the vertical fall, a distance equal to any assigned distance, provided this assigned distance is more than twice and less than three times, the vertical fall."
+  },
+  {
+    "id": "p-5a993d",
+    "offset": 5740,
+    "text": "Let AS be any vertical line, and let AC denote both the length of the vertical fall, from rest at A, and also the time required for this fall. Let IR be a distance more than twice and less than three times, AC. It is required to pass a plane through the point C so inclined that a body, after fall through AC, will, during the time AC, traverse a distance equal to IR. Lay off RN and NM each equal to AC. Through the point C, draw a plane CE meeting the horizontal, AE, at such a point that IM:MN=AC:CE. Extend the plane to O, and lay off CF, FG and GO equal to RN, NM, and MI respectively. Then, I say, the time along the inclined plane CO, after fall through AC, is equal to the time of fall, from rest at A, through AC. For since OG:GF=FC:CE, it follows, componendo, that OF:FG=OF:FC=FE:EC, and since an antecedent is to its consequent as the sum of the antecedents is to the sum of the consequents, we have OE:EF=EF:EC. Thus EF is a mean proportional between OE and EC. Having agreed to represent the time of fall through AC by the length AC it follows that EC will represent the time along EC, and EF the time along the entire distance EO, while the difference CF will represent the time along the difference CO; but CF=CA; therefore the problem is solved. For the time CA is the time of fall, from rest at A, through CA while CF (which is equal to CA) is the time required to traverse CO after descent along EC or after fall through AC."
+  },
+  {
+    "id": "p-a6faee",
+    "offset": 7184,
+    "text": "q. e. f."
+  },
+  {
+    "id": "p-58994a",
+    "offset": 7194,
+    "text": "It is to be remarked also that the same solution holds if the antecedent motion takes place, not along a vertical, but along an inclined plane. This case is illustrated in the following figure where the antecedent motion is along the inclined plane AS underneath the horizontal AE. The proof is identical with the preceding."
+  }
+]

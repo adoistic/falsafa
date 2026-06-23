@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 38,
+  "chapter_title": "Specific Effects of the Application of the Principles in the Case of Able-Bodied Paupers",
+  "chapter_slug": "38-specific-effects-of-the-application-of-the-princip",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "59dda795-cfe3-5b65-a6cf-99e1afa48eed",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4651,
+      "paragraph_count": 70,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

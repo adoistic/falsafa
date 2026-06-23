@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-darwin-the-origin-of-species-75e1de",
+  "work_title": "The Origin of Species",
+  "chapter_number": 5,
+  "chapter_title": "Chapter III. Struggle for Existence.",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "59504426-b1a0-58ca-9e4c-dd54e1126792",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6256,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/darwin/works/origins/ch03.htm"
+    }
+  ]
+}

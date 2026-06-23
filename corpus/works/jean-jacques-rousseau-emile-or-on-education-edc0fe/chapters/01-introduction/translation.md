@@ -4,7 +4,7 @@ work_slug: "jean-jacques-rousseau-emile-or-on-education-edc0fe"
 work_title: Emile, or On Education
 author_name: "Jean-Jacques Rousseau"
 chapter_number: 1
-chapter_title: INTRODUCTION
+chapter_title: Introduction
 chapter_slug: "01-introduction"
 variant_id: "169b147d-fe69-5d0b-b057-d11cab7ad8c0"
 content_type: translation

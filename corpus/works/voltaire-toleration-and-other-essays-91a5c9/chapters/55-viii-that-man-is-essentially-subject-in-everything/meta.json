@@ -1,0 +1,26 @@
+{
+  "work_slug": "voltaire-toleration-and-other-essays-91a5c9",
+  "work_title": "Toleration and Other Essays",
+  "chapter_number": 55,
+  "chapter_title": "VIII: That Man Is Essentially Subject in Everything to the Eternal Laws of the First Principle",
+  "chapter_slug": "55-viii-that-man-is-essentially-subject-in-everything",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f02c41b-b371-537e-8c92-7bc7802efb89",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 333,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+    }
+  ]
+}

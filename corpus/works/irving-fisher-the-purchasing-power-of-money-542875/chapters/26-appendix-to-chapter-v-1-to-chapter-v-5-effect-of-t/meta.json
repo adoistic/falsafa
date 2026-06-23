@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 26,
+  "chapter_title": "Appendix to Chapter V, § 1 (to Chapter V, § 5) Effect of Time Credit on Equation of Exchange",
+  "chapter_slug": "26-appendix-to-chapter-v-1-to-chapter-v-5-effect-of-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ac41b2a-edb5-5663-8df2-89ef590c3e30",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 638,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

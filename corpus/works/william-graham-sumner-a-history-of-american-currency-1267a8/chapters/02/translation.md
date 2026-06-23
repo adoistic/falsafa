@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 295
+word_count: 291
 source_url: "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
 translator: Online Library of Liberty edition
 ---
@@ -32,6 +32,6 @@ Magistrates had 3s. 6d. and deputies 2s. 6d. per day.
 
 Ed. Palmer, being found guilty of extortion in charging 13s. 4d. for the wood-work of the Boston stocks, was fined £5, and condemned to sit in the stocks one hour.
 
-In January, 1631, the crops having failed in England, and no crop having yet been raised in Massachusetts Bay, grain was at famine prices. Including freight, wheat was 14s. per bushel, peas ids. Indian corn from Virginia Edition: current; Page: [3] 10s. Many cattle died. A cow was worth £25 or £30.
+In January, 1631, the crops having failed in England, and no crop having yet been raised in Massachusetts Bay, grain was at famine prices. Including freight, wheat was 14s. per bushel, peas ids. Indian corn from Virginia 10s. Many cattle died. A cow was worth £25 or £30.
 
 The President of Harvard College was condemned to pay an usher £20 for flogging him.

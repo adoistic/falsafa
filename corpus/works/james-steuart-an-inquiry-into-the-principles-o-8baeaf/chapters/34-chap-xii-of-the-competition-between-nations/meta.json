@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 34,
+  "chapter_title": "Chap. XII: Of the Competition between Nations",
+  "chapter_slug": "34-chap-xii-of-the-competition-between-nations",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "43cc41f6-1278-565a-b97c-7972399d3823",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1484,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_10.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "sir-robert-filmer-patriarcha-or-the-natural-power--e60c8c"
 work_title: Patriarcha, or the Natural Power of Kings
 author_name: Sir Robert Filmer
 chapter_number: 4
-chapter_title: "CHAP. II.: It is unnatural for the People to Govern, or Chose Governours."
+chapter_title: "Chap. II.: It is unnatural for the People to Govern, or Chose Governours."
 chapter_slug: "04-chap-ii-it-is-unnatural-for-the-people-to-govern-o"
 variant_id: "233c2bc9-7579-5a10-afe8-e0b9482fa8c8"
 content_type: translation

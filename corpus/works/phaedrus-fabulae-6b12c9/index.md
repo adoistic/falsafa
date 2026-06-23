@@ -4,7 +4,8 @@ slug: "phaedrus-fabulae-6b12c9"
 title: Fabulae
 author:
   name: Phaedrus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman fabulist of the first century AD, a Thracian-born freedman of the household of Augustus. His verse Fabulae rendered the Aesopic tradition into Latin and transmitted it to medieval and modern Europe."
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-bernard-shaw-the-perfect-wagnerite-a-commenta-7cd750",
+  "work_title": "The Perfect Wagnerite: A Commentary on the Niblung's Ring",
+  "chapter_number": 35,
+  "chapter_title": "The Pessimist as Amorist",
+  "chapter_slug": "35-the-pessimist-as-amorist",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "35c9aaea-3afe-53fb-8c08-ed8886a42e63",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 966,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/shaw/works/wagner.htm"
+    }
+  ]
+}

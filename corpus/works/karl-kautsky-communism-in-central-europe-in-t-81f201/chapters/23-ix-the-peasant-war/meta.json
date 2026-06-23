@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 23,
+  "chapter_title": "IX. The Peasant War",
+  "chapter_slug": "23-ix-the-peasant-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9aa2d03-65da-5cea-86f7-5c4deebdee84",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5930,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch04b.htm"
+    }
+  ]
+}

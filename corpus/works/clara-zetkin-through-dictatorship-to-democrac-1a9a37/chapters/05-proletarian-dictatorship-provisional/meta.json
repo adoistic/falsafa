@@ -1,0 +1,26 @@
+{
+  "work_slug": "clara-zetkin-through-dictatorship-to-democrac-1a9a37",
+  "work_title": "Through Dictatorship to Democracy",
+  "chapter_number": 5,
+  "chapter_title": "Proletarian Dictatorship Provisional",
+  "chapter_slug": "05-proletarian-dictatorship-provisional",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "72eb34ea-1566-57a9-a9b5-7ef8e5775c83",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 342,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/zetkin/1919/xx/dictdem.htm"
+    }
+  ]
+}

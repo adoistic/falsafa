@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 17,
-  "chapter_title": "CHAPTER VII.: ON FOREIGN TRADE.",
+  "chapter_title": "Chapter VIII.: On Taxes.",
   "chapter_slug": "17",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 7227,
-      "paragraph_count": 57,
+      "word_count": 1466,
+      "paragraph_count": 14,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

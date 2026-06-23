@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69",
+  "work_title": "Political Economy and the Philosophy of Government",
+  "chapter_number": 30,
+  "chapter_title": "on the Condition of the Work People in Manufactories",
+  "chapter_slug": "30-on-the-condition-of-the-work-people-in-manufactori",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "13407edd-5b1e-5316-a317-42d6db2f678e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9851,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+    }
+  ]
+}

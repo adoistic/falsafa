@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-what-is-to-be-done-burning-quest-15a6fd",
+  "work_title": "What Is To Be Done? Burning Questions of Our Movement",
+  "chapter_number": 7,
+  "chapter_title": "Conclusion",
+  "chapter_slug": "07-conclusion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23cc526f-1687-503c-a259-473cc32427da",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1003,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1901/witbd/concl.htm"
+    }
+  ]
+}

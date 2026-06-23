@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-social-and-philosophical-studies-160a7b",
+  "work_title": "Social and Philosophical Studies",
+  "chapter_number": 9,
+  "chapter_title": "II. Distributive Justice",
+  "chapter_slug": "09-ii-distributive-justice",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "efcd8d25-c5ab-5f4f-83bd-6b83982dd223",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3835,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1906/socphil/ch3.html"
+    }
+  ]
+}

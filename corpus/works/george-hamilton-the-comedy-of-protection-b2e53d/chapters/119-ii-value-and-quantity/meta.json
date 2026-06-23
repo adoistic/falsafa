@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 119,
+  "chapter_title": "Ii.—: Value and Quantity.",
+  "chapter_slug": "119-ii-value-and-quantity",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca1ac7b4-d4eb-5c1d-845b-3bee9bc98e30",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 187,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

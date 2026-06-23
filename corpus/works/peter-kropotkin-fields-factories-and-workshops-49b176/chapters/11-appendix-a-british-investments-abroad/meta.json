@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-fields-factories-and-workshops-49b176",
+  "work_title": "Fields, Factories, and Workshops",
+  "chapter_number": 11,
+  "chapter_title": "Appendix A : British Investments Abroad",
+  "chapter_slug": "11-appendix-a-british-investments-abroad",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4ca3529-f850-5114-b708-b20a103ba85d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 159,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/appendix-a.html"
+    }
+  ]
+}

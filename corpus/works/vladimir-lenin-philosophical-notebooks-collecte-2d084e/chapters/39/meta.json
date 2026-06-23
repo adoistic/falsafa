@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 39,
+  "chapter_title": "Part Two (pp. 440-474)",
+  "chapter_slug": "39",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "22e808c5-c702-5946-86d7-20ebf1e7b496",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11055,
+      "paragraph_count": 257,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1908/remarks/ch02a.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-programme-of-the-world-revolutio-953692",
+  "work_title": "Programme of the World Revolution",
+  "chapter_number": 2,
+  "chapter_title": "I. The Reign of Capital, the Working Class, and the Poorer Elements of the Village Population",
+  "chapter_slug": "02-i-the-reign-of-capital-the-working-class-and-the-p",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a9574bf3-8a9b-5efb-b25d-cfd639da821e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1564,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1918/worldrev/ch01.html"
+    }
+  ]
+}

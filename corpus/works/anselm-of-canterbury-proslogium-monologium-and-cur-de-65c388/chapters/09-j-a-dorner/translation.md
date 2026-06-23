@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 9
-chapter_title: J. A. DORNER.
+chapter_title: J. A. Dorner.
 chapter_slug: "09-j-a-dorner"
 variant_id: "dc05c567-3467-55d2-90fd-dc946dd68129"
 content_type: translation

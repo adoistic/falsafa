@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 40,
+  "chapter_title": "Â§ 61. Our old programme, and the question of war in a socialist state",
+  "chapter_slug": "40-a-61-our-old-programme-and-the-question-of-war-in-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a6991fd-5c29-5b89-bec1-7bbeaf8ab75c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1069,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/08.htm"
+    }
+  ]
+}

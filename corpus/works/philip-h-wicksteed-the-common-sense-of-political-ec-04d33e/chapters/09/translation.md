@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 9
-chapter_title: "CHAPTER VI: MARKETS"
+chapter_title: "Chapter VI: Markets"
 chapter_slug: 09
 variant_id: "96ac95fd-3bb7-52ae-9bbc-07fbe9073de5"
 content_type: translation

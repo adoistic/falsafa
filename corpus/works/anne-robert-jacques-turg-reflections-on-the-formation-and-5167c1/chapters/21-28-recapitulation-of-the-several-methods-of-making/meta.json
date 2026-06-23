@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 21,
+  "chapter_title": "28. Recapitulation of the several methods of making lands productive.",
+  "chapter_slug": "21-28-recapitulation-of-the-several-methods-of-making",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c9f2031e-bd8b-5dc6-8c4e-8fa0655609e8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 116,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

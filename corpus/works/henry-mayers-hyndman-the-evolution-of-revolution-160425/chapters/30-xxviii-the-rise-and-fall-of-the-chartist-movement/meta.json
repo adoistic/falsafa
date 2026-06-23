@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 30,
+  "chapter_title": "XXVIII. The Rise and Fall of the Chartist Movement",
+  "chapter_slug": "30-xxviii-the-rise-and-fall-of-the-chartist-movement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52700e63-7226-5810-b301-7b9acad23385",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5156,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter28.htm"
+    }
+  ]
+}

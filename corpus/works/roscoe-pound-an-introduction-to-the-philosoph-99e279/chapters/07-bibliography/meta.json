@@ -1,0 +1,26 @@
+{
+  "work_slug": "roscoe-pound-an-introduction-to-the-philosoph-99e279",
+  "work_title": "An Introduction to the Philosophy of Law",
+  "chapter_number": 7,
+  "chapter_title": "Bibliography",
+  "chapter_slug": "07-bibliography",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "933e6bfd-c81b-514f-9b7b-ed441aebfa60",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5735,
+      "paragraph_count": 503,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/32168"
+    }
+  ]
+}

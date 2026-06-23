@@ -1,0 +1,35 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 80
+chapter_title: VI. (2)
+chapter_slug: "80-vi-2"
+variant_id: "83b2ad6d-3a67-5b7d-a8c1-c1d67d80cb8d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 887
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+There are to be no more exchanges, no more markets, and no more prices. How then is the State to estimate the net cost of its products? Although Germany may have the honour of being the first collectivist country, it will not be able to grow cotton and coffee on the banks of the Spree. Its government will, therefore, be obliged to make purchases abroad, to pay for them in cash, and to circulate in the capitalist groove. France has reached the stage of producing refined articles such as her wines and her brandies. Where will be the customers, in a collectivist society, to pay the prices necessary to cover the cost of their production? Ideal equality will remain far to seek. I have heard a socialist ask, “Will collectivism change the soil and the sunshine of Médoc?” No, but wine does not come into existence of its own accord, the vine-stocks and the conditions of soil and of climate do not produce fine harvests spontaneously, but need to be properly utilised, and require an annual expenditure upon the cost of cultivation; and subordinate officials without a direct interest are not the men to apply the required attention to this kind of production. The export of these products is indispensable to France, but a home market is necessary if they are to attain to the perfection which distinguishes them, and inasmuch as there is no place for it in the organisation of collectivist society on a basis of equality, they will disappear. The inventive genius of the dressmakers of the Rue de la Paix and of the large milliners' establishments is stimulated by French ladies of fashion. In a collectivist society, these must disappear, and all this portion of the economic activity of the nation must vanish. Puritan collectivists may say, in agreement with those who profess a more or less defined ideal of religious asecticism, “So much the better; we see no necessity for those occupations which are an element of waste and speculate upon feminine vanity.”
+
+The future is not for the monks of the Thebaid or the Scotch Puritans, and the French, of all nations, are undoubtedly the least disposed to be seduced by such prospects, for they have always had a horror of a morose and wearisome existence. The wildest of collectivist ladies would protest if their husbands were to condemn them to wear the uniform of the Salvation Army.
+
+But collectivists would succeed no better than protectionists in making France self-sufficing. She is obliged to buy raw material and articles of food abroad and to pay for them with the produce of her own industries. In 1906 and 1907 we imported thirteen classes of articles to an amount of more than 100 million of francs each, viz.:—
+
+These thirteen articles represent 3,420 millions or 55 per cent. of the total of our imports in 1907. In 1907 we imported 251,900 tons of wool, while the French flocks only produced 40,000. Would a collectivist society be able to decline to import wool from Australia and La Plata? Would it have cotton grown in La Beauce? “Grow it in the colonies,” some collectivist will say. But England, which possesses India, has not been able to grow cotton of long fibre there, and continues to supply herself principally from the United States, which in their turn import cotton from Egypt. Collectivist society involves the abolition of the silk trade, an industry for the supply of a luxury. Would it ensure that the ores gotten in France should be sufficient for home consumption? Would it discover a sufficient production of skins and of raw hides? Would it forbid the importation of common timber and of copper? Would it allow France to import no machinery? Bold as we may be, no collectivist would venture to reply that he wished to make France a country more completely closed to foreign trade than Japan before the revolution of 1868. But how do we pay for these imports? Here is a list of the fourteen articles whose export in 1906 and 1907 exceeded 100 millions:—
+
+The export of these fourteen articles in 1907, yields a total of 2,786 millions, or 50 per cent. of the total exports. Of these fourteen, ten are manufactured articles, while woollens, worsteds and chemicals are also to a great extent manufactured. They include one article of food, wine, which is an article of luxury to the great majority of the human race.
+
+Collectivist society must needs renounce all industry connected with dressmaking and millinery for ladies, for who would manage establishments of this kind under a collectivist dispensation, and where would be their customers when the level of equality for all had been reached?
+
+The disappearance of the customers in the home markets would involve the disappearance of foreign customers, and this would entail the elimination of one of the elements in the national activity. Would a collectivist society undertake the manufacture and sale of silk stuffs, fancy goods, and Parisian novelties, linen-drapery, millinery and artificial flowers? And if we had been under a collectivist regime, would the motor car industry have been developed in France?
+
+The problem that suggests itself, then, is this. How will a collectivist society pay for such of the raw materials and foodstuffs as it requires as are produced abroad?

@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 31,
+  "chapter_title": "Â§ 40 The Third International",
+  "chapter_slug": "31-a-40-the-third-international",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5a4a8cb1-81ac-57f0-ad9a-973013ed34d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1135,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/05.htm"
+    }
+  ]
+}

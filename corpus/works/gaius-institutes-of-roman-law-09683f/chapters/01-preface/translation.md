@@ -4,7 +4,7 @@ work_slug: "gaius-institutes-of-roman-law-09683f"
 work_title: Institutes of Roman Law
 author_name: Gaius
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "dbf95f4f-f70a-556a-b6ac-91a317d13d14"
 content_type: translation

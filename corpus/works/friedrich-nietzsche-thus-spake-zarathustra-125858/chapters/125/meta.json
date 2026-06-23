@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 125,
+  "chapter_title": "Chapter LXXIII — The Higher Man. Par. 1",
+  "chapter_slug": "125",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d55bdc16-77cc-51c9-b028-2bc71d23ca3d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 670,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

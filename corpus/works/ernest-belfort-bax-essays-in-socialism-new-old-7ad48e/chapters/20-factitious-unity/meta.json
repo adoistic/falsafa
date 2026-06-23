@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
+  "work_title": "Essays in Socialism: New & Old",
+  "chapter_number": 20,
+  "chapter_title": "Factitious Unity",
+  "chapter_slug": "20-factitious-unity",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a43fe1b1-ebe4-5a03-af06-efdf4cb69659",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1559,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1902/02/unity.htm"
+    }
+  ]
+}

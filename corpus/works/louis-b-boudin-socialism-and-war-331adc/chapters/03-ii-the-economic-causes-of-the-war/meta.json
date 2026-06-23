@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-b-boudin-socialism-and-war-331adc",
+  "work_title": "Socialism and War",
+  "chapter_number": 3,
+  "chapter_title": "II. The Economic Causes of the War",
+  "chapter_slug": "03-ii-the-economic-causes-of-the-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "298bf954-474b-56f1-95db-ddae8f582535",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7417,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/boudin/1914/12/war/2-economic-causes.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 18,
+  "chapter_title": "Failure of Second International.",
+  "chapter_slug": "18-failure-of-second-international",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4405327a-f454-5685-99c4-bea0a5fc2ff5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 347,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

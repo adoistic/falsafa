@@ -1,0 +1,25 @@
+---
+work_id: "23f473cc-89f1-56d1-9b04-85236b1f30bc"
+work_slug: "john-morley-the-life-of-richard-cobden-23f473"
+work_title: The Life of Richard Cobden
+author_name: John Morley
+chapter_number: 62
+chapter_title: Commercial Blockades
+chapter_slug: "62-commercial-blockades"
+variant_id: "a834cbbe-0274-599b-95a9-d0d658b169c4"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 425
+source_url: "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+translator: Online Library of Liberty edition
+---
+
+“August 7, 1862. (To M. Chevalier.)—Our Government, as you know, is constantly declaring that we have the greatest interest in maintaining the old system of belligerent rights. Lord Russell considers that we must preserve the right of blockade as a most valuable privilege for ourselves on some future occasion, and you will see that almost the very last words uttered by Lord Palmerston at the close of the Session were to assert the great interest England had in maintaining these old belligerent rights. In fact we are governed by men whose ideas have made no progress since 1808—nay, they cling to the ideas of the middle ages!”
+
+“Manchester, Oct. 1862. (To M. Chevalier.)—England cannot take a step with decency or consistency, to put an end to the blockade, until our Government is prepared to give in their adhesion to the principle of the abolition of commercial blockades for the future. This our antiquated Palmerstons and Russells are not willing to do. They have a sincere faith in the efficacy of commercial blockades as a belligerent weapon against our enemies. They are ignorant that it is a two-edged sword, which cuts the hand that wields it—when that hand is England—more than the object which it strikes. Lords Palmerston and Russell feel bound to acquiesce in the blockade, and even to find excuses for it, because they wish to preserve the right for us of blockading some other power.
+
+“I am against any act of violence to put an end to the war. We should not thereby obtain cotton, nor should we coerce the North. We should only intensify the animosity between the two sections. But I should be glad to see an appeal made by all Europe to the North to put an end to the blockade of the South against legitimate commerce, on the ground of humanity, accompanied with the offer of making the abolition of commercial blockades the principle of international law for the future. But this, I repeat, our own Government will not agree to at present. We have a battle to fight against our own ruling class in England to accomplish this reform. I am by no means so sure as Gladstone that the South will ever be a nation. It depends on the “Great West.” If Ohio, Michigan, Illinois, Indiana, Iowa, Wisconsin, and Minnesota sustain the President’s anti-slavery proclamation, there will be no peace which will leave the mouth of the Mississippi in the hands of an inde pendent power. A few days will tell us how these elections will go.”

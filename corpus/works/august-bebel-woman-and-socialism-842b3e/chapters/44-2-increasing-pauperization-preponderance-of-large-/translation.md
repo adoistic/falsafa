@@ -1,0 +1,153 @@
+---
+work_id: "842b3e93-fd9c-5651-b926-05aaa3f7671f"
+work_slug: "august-bebel-woman-and-socialism-842b3e"
+work_title: Woman and Socialism
+author_name: August Bebel
+chapter_number: 44
+chapter_title: 2. Increasing Pauperization. Preponderance of Large Industrial Establishments.
+chapter_slug: "44-2-increasing-pauperization-preponderance-of-large-"
+variant_id: "42f21ef3-4f47-58b0-b4e3-6ada77f74c3d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2844
+source_url: "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch17.htm"
+translator: Meta L. Stern (Hebe)
+---
+
+It is also important to state how the population employed in gainful occupations is divided among independent workers, employes and laborers, and what proportion of each of these is furnished by either sex. This information may be gathered from the table on the following page.
+
+This table shows that the number of persons independently engaged in agriculture increased by 280,692 from 1882 to 1895, an increase of 12.5 per cent.; but that from 1895 to 1907 it decreased by 67,751, so that from 1882 to 1907 the number of independent persons in agriculture has increased by only 212,941 = 9.2 per cent. On the other hand the number of workingmen that had decreased by 254,025 = 4.3 per cent., from 1882 to 1895, has, since 1895, increased by 1,655,677 = 29.4 per cent. Upon examining this increase more closely we find that it is mainly due to female members helping to support the families. (Among the total increase of 1,990,930 are 170,532 male and 1,820,938 female.) When we take only the rural day-laborers and help into consideration, we find that the male workers have decreased by 38,195 persons, while the female workers have increased by 45,942 persons. Altogether this shows the considerable decrease of 335,253 persons among agricultural laborers. In agriculture, then, not only the number of independent persons, but also the number of help and day laborers has decreased. The increase in the agricultural occupation, compared to the previous census, is due to the greatly increased assistance from members of the families, especially the female members.
+
+Independent Persons Employees Wage-workers
+
+Agriculture:
+
+Male 2,010,865 2,221,826 2,172,740 60,763 78,066 82,549 3,629,959 3,239,646 3,028,983
+
+Female 277,168 346,899 328,234 5,881 18,107 16,264 2,251,860 2,388,148 4,254,488
+
+Total 2,288,022 2,568,725 2,500,974 66,644 96,173 98,8 12 5,881,819 5,627,794 7,283,471
+
+Industry:
+
+Male 1,621,668 1,542,272 1,499 832 96,807 254,421 622,071 3,551,014 4,963,409 7,030,427
+
+Female 579,478 519,492 477,290 2,269 9,324 63,936 545,2 1,562,698
+
+Total 2,201,146 2,061,764 1,978,122 99,076 263,745 686,007 4,096,243 5,955,711 8,593,125
+
+Commerce:
+
+Male 550,936 640,94, 765,551 138,387 249,920 426,220 582,885 836,042 1.354,482
+
+Female 150,572 202 616 246,641 3,161 11,987 79,689 144,377 365,005 605,043
+
+Total 701,508 843,557 1,012,192 141,548 261,907 505,900 727,262 1,201,047 1,959,525
+
+Altogether:
+
+Male 4,183,469 4.405,039 4,338,123 295,957 582,407 1,130,839 7,763,8589,071,097 13,694,160
+
+Female 1,007,218 1,069,007 1,052,165 11,311 39,418 159,889 2,941,455 3,715,455 4,161,961
+
+Total 5,190,685 7,474,046 5,390,288 307,268 621,825 1,290,728 10,705,324 12,816,5521 17,856,121
+
+The industrial occupation presents a different picture. In a term of 25 years the persons independently employed decreased by 234,024=10.6 per cent., while the population increased by 36.48 per cent. Mechanics, working alone or working with two assistants, have mainly disappeared. The number of wage-workers has increased by 1,859,468 from 1882 to 1895, and by 2,637,414 from 1895 to 1907. When we count only the wageworkers proper, not including the members of their families who assist at their work, we find that their number has increased from 5,899,708 in 1895 to 8,460,338 in 1907. Three-quarters of all persons employed in industrial occupations are wage-workers (75.16 per cent).
+
+In commerce and trade we find the opposite ratio. Here the number of persons independently engaged has greatly increased, but the number of employes and workers has increased likewise. The number of women independently engaged in commerce has increased especially; they chiefly are either widows who seek to make their living as small dealers, or married women who endeavour to increase their husbands’ income. The number of persons independently engaged in commerce increased by 310,584 = 44.3 per cent, from 1882 to 1907. But the number of employees and wage-workers has increased still more (by 364,361 = 258.8, and by 1,232,263 = 169.4 per cent). This shows how tremendously commerce and trade have developed, particularly from 1895 to 1907. There are almost twice as many employees as prior to that period, and among these almost six times as many female employees.
+
+During the period from 1882 to 1907 the entire number of persons independently engaged in the three occupations increased by 5.7 per cent.; it did not keep pace then with the increase in population (36.48 per cent). The number of employes increased by 325.4 per cent., and the number of wage-workers by 39.1 per cent. We must furthermore take into consideration that among 5,490,588 independent persons, many lead an entirely proletarian existence. Among the 2,086,368 manufactories enumerated there were no less than 994,743 small producers who worked alone and 875,518 who did not employ over five assistants. In commerce there were, in 1907 among 709,231 establishments, no less than 232,780 maintained by the owners without assistance. There were, besides, 5240 porters, errand-boys, etc., and thousands of insurance agents, book agents, etc.
+
+Another point to be considered is that the number of independent persons in the three occupations does not coincide with the number of establishments. If a firm, for instance, has dozens of branch establishments, as is frequently the case in the tobacco trade, or if a concern runs a number of stores, each branch is enumerated as an individual establishment. The same is true of industrial enterprises, when, for instance, a machine factory also runs an iron foundry, a carpenter shop, etc. The figures then do not convey sufficient information regarding the concentration of capital on the one hand and the standard of living on the other. And yet, in spite of all these deficiencies, the results of the latest census of June, 12, 1907, present a picture of the most powerful concentration of capital in industry, commerce and traffic. They show that, hand in hand with the industrialization of our entire economic system, a concentration of all the means of production into a few hands is rapidly progressing.
+
+The independent small manufacturers and traders working alone, of whom there still were 1,877,872 in 1882, have become fewer again since 1895. In 1895, 1,714,351 were enumerated, and in 1907 only 1,446,286; a decrease of 431,586 = 22.9 per cent. The number of small producers and dealers has rapidly decreased from census to census. In 1882 it was 59.1 per cent.; 1895, 46.5, and, 1907, only 37.3 per cent. of all persons gainfully employed. At the same time the number of large manufacturing and commercial enterprises has grown from 22.0 to 29.6, and (1907) to 37.3 per cent. From 1895 to 1907 the number of persons employed by small concerns increased by 12.2 per cent.; the number of those employed by concerns of medium size, by 48.5 per cent.. and the number of those employed by large concerns, by 75.7 per cent. Among 5,350,025 persons industrially employed in 1907, the by far largest group is employed by large concerns, while, in 1882, a greater number of persons were small, individual producers. In the seven following branches of industry the large concerns predominate, employing more than half of all persons engaged in these industries. Of each 100 persons the following percentage were employed by large concerns:
+
+Mining 96.6 per cent.
+
+Machine manufacture 70.4
+
+Chemical trades 69.8
+
+Textile trades 67.5
+
+Paper trades 58.4
+
+Industry of pottery and earthenware 52.5
+
+Industry of soaps, fats and oils 52.3
+
+In the other groups industry on a large scale already predominated in 1895, and everywhere its predominance has been still further increased. In the malleation of metals, 47.0; in the polygraphic trades, 43.8; in traffic, 41.6, and in the building trades, 40.5 per cent. of all persons were employed by large concerns.) We see, then, that in almost every branch development has favored industry on a large scale.
+
+The concentration of manufacture and the concentration of capital, which are one and the same thing, take. place particularly rapidly wherever capitalistic production obtains full control. Let us, for instance, consider the brewing industry. In the German brewery-tax district, excluding Bavaria, Wurtemburg, Baden and Alsace-Lorraine, there were:
+
+Number of breweries. Producing 1000 hectolitres of beer.
+
+So the number of breweries decreased, from 1873 to 1907, by 8,033 = 59.3 per cent.; that of breweries decreased by 5,676 = 51.9 per cent., but the production of beer increased by 26,700,000 hectolitres = 135.7 per cent. This signifies a downfall of the small concerns and a tremendous growth of the large concerns, whose productivity has been multiplied. In 1873, 1,450 hectolitres and in 1907 8,385 hectolitres were produced by each brewery. It is the same wherever capitalism rules.
+
+Similar results are shown by the German coal-mining industry and other mining industries of the German Empire. In coal mining the number of concerns that amounted to an average of 623, from 1871 to 1875, dwindled down to 406, in 1889. But at the same time the production of coal rose from 34,485,400 tons to 67,342,200 tons, and the average number of persons employed increased from 127,074 to 239,954. The following table illustrates this process of concentration in the mining of mineral coal and brown coal, until 1907:
+
+Year Number of Concerns Mineral Coal Average No. Employed Quantity 1000 tons Number of Concerns Brown Coal Average No Employed Quantity 1000 tons
+
+We see, then, that, in the production of mineral coal since the seventies, the number of concerns has de creased by 49.8 per cent., while the number of wageworkers employed has increased by 216.9 per cent., and the output even by 420.6 per cent. The following table shows the development in the entire mining industry:
+
+Year Number of concerns Average number employed Quantity 1000 tons
+
+Here the number of concerns has decreased by 35.5 per cent., while the number of wage-workers employed increased by 164.4 per cent., and the output, 374.5 per cent. The number of employers had grown smaller but wealthier, and the number of proletarians had greatly increased.
+
+In the industrial districts of the Rhine and Westphalia there still were 156 mines in 1907, but 34 of these con trolled more than 50 per cent. of the output. Although the census enumerates 156 mines, the coal trust, which controls the mines with but a few exceptions, had only 76 members. To such extent the process of concentration has developed. According to the reports of February, 1908, the output of the coal trust amounted to 77.9 million tons of coal.
+
+In 1871 there were 306 blast-furnaces, employing 23,191 laborers and producing 1,563,682 tons of crude iron. In 1907, 303 blast furnaces, employing 45,201 laborers, produced 12,875,200 tons. In 1871 crude iron was produced at the rate of 5,110 tons for every blast-furnace; in 1907 at the rate of 42,491 tons for every blast-furnace.
+
+According to a list published in “Steel and Iron,” in March, 1896, only one blast-furnace in Germany was able to produce crude iron at the rate of 820 tons in 24 hours. But in 1907 there were 12 blast-furnaces that could, within 24 hours, produce 1000 tons, and more.
+
+In 1871-1872, 311 factories in the beet sugar industry consumed 2,250,918 tons of beets. In 1907-1908, 365 factories consumed 13,482,750 tons. The average consumption of beets per factory was 7,237 tons during 1871-1872, and 36,939 tons during 1907-1909. This mechanical revolution does not take place in industry alone, but also in commerce and traffic. The following table shows the development of German maritime trade:
+
+Year Sailing vessels Regist’d tonnage Number of crew
+
+Less than in 1871 2,011 less 483,817 less 21,895
+
+Sailing vessels, then, are considerably diminishing, and among those still existing the registered tonnage and the number of the crew is decreasing. In 1871 there were, for each sailing vessel, 205.9 registered tonnage and 7.9 members of the crew. In 1909 each sailing vessel had an average of but 1764 registered tonnage, and only 5.4 members of the crew German maritime trade by steam navigation presents a different aspect, as the following table shows:
+
+Year Ocean-going steamships Regist’d tonnage Number of crew
+
+More than in 187, 1,806 2,221,005 53,715
+
+Not only had the number of steamships greatly increased, their tonnage had increased more still, but, ill proportion to this increase the number of the crew had decreased. In 1871 a steamship had an average tonnage of 558 tons and a crew of 32.1 men. In 1909 it had an average freight capacity of 1230 tons and a crew of only 29 men.
+
+The rapid increase of motor power employed is another symptom of capitalistic development. In the territory of the German “Zollverein,” according to Viebahn, 99,761, horse-power were used in 1861. In 1875, in Germany, factories employing more than five persons, used, 1,055,750 horse-power, and in 1895, 2,933,526 horsepower, almost three times the number used in 1875. Railroads, street cars and steamboats are not contained in this list.
+
+The following list shows the amount of horse-power used in Prussia:
+
+Stationary steam engines Movable boilers and traction engines
+
+So the amount of horse-power employed in Prussia in 1907 is six times greater than in 1879. How tremendously industry has developed since the census of 1895 can be seen by the fact that the number of stationary engines in Prussia has increased by 35 per cent. from 1896 to 1907. The productiveness of the machines has increased by 105 per cent. during this period. While, in 1898, 3,305 steam engines of 258,726 horse-power served to run dynamos, there are 6,191 of 954,945 horse-power in 1907. That is an increase of 87 and 269 per cent. The following figures show the increased application of steampower in the most important industries (expressed in horsepower) :
+
+Industry 1879 1897 1907
+
+Mining and foundries 516,000 1,430,000 2,284,000
+
+Masonry and bricks 29,000 132,000 255,000
+
+Metallurgy 23,000 57,000 113,000
+
+Machines 22,000 61,000 329,000
+
+Textile 88,000 243,000 323,000
+
+Notwithstanding this fabulous development of the productive powers and the immense concentration of capital, attempts are still being made to deny these truths. Such an attempt was made at the eleventh session of the International Institute of Statistics in Copenhagen in August, 1907, by the French economist, Ives Guyot. On the basis of careless statistics, he moved to abolish the word “concentration” from statistics. Among others, Carl Buecher answered him as follows: “An absolute increase in the number of manufactories may easily coincide with a concentration of same. Wherever the census enumerates individual establishments, it is unavoidable that many should be counted twice. A bank with 100 trust-funds is counted as 101 ; a brewery that has opened and fitted out 50 saloons, is counted as 51 establishments. The results of such statistics prove nothing in regard to the phenomenon in question. Investigation so far shows that agriculture alone does not seem to be subjected to the process of concentration. It is evident in mining, commerce, transportation, building trades and insurance. In industry it is difficult to recognize, because every civilized nation in a healthy state of development must present an extension of industrial production, for the following four reasons: 1. Because occupations that were formerly domestic in character have been taken over by industry :2. Because natural products have been replaced by industrial products (wood by iron; woad, madder and indigo by tar-colors, etc.). 3. Because of new inventions (automobiles). 4. Because of the possibility of exportation. For these reasons concentration on a large scale takes place in industry without any diminution in the number of establishments, even with an in. crease in same. Wherever industry creates commodities ready for use of a typical character, the destruction of the independent small concerns is inevitable. The capitalistic forms of production are accordingly rapidly developing in the most important lines of industry. It is not wise to oppose the Socialists where they are right, and they are undoubtedly right in their assertions in regard to increasing concentration.”
+
+The same aspect presented by the economic develop merit of Germany is presented by all the industrial states of the world. All the civilized states endeavour to become industrial states more and more. They not only seek to manufacture articles of industry to supply their own demand, but also to export them. Therefore we not only speak of a national market, but also of the world market. The world market regulates the prices of countless articles of industry and agriculture and controls the social status of the nations. That industrial realm which has attained the greatest importance in regard to the relations of the world market, is the North American Union. Here the main impetus is giver. whereby the world market and bourgeois society are revolutionized. The census of the last three decades showed the following figures:
+
+Amount of capital invested in industry.
+
+1880 2,790,000,000 dollars
+
+Value of Industry.
+
+1880 5,369,000,000 dollars
+
+The United States, accordingly, is the leading industrial country of the world. Its exportation of products of industry and agriculture increase with each year, and the tremendous accumulations of capital that are a natural result of this development seek investment beyond the boundaries of the country, and influence the industry and trade of Europe to a marked degree. It is no longer the individual capitalist who is the motive power underlying this development. It is the group of captains of industry, the trust, that is bound to crush the most powerful individual enterprise, wherever it chooses to turn its activities. What can the small man amount to in the face of such development, to which even the great must yield?

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-the-re-conquest-of-ireland-059d10",
+  "work_title": "The Re-Conquest of Ireland",
+  "chapter_number": 6,
+  "chapter_title": "V. Belfast and Its Problems",
+  "chapter_slug": "06-v-belfast-and-its-problems",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b43a1af-6124-55dd-8282-bfbfbd2f9b28",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3368,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1915/rcoi/chap05.htm"
+    }
+  ]
+}

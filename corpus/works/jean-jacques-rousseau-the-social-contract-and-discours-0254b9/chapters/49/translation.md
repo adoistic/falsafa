@@ -4,7 +4,7 @@ work_slug: "jean-jacques-rousseau-the-social-contract-and-discours-0254b9"
 work_title: The Social Contract and Discourses
 author_name: "Jean-Jacques Rousseau"
 chapter_number: 49
-chapter_title: "CHAPTER V: the tribunate"
+chapter_title: "Chapter VII: the censorship"
 chapter_slug: 49
 variant_id: "7f8adf77-1a47-52e8-861f-361fc35c4331"
 content_type: translation
@@ -13,23 +13,23 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 682
+word_count: 571
 source_url: "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
 translator: Online Library of Liberty edition
 ---
 
-When an exact proportion cannot be established between the constituent parts of the State, or when causes that cannot be removed continually alter the relation of one part to another, recourse is had to the institution of a peculiar magistracy that enters into no corporate unity with the rest. This restores to each term its right relation to the others, and provides a link or middle term between either prince and people, or prince and Sovereign, or, if necessary, both at once.
+As the law is the declaration of the general will, the censorship is the declaration of the public judgment: public opinion is the form of law which the censor administers, and, like the prince, only applies to particular cases.
 
-This body, which I shall call the tribunate, is the preserver of the laws and of the legislative power. It serves sometimes to protect the Sovereign against the government, as the tribunes of the people did at Rome; sometimes to uphold the government against the people, as the Council of Ten now does at Venice; and sometimes to maintain the balance between the two, as the Ephors did at Sparta.
+The censorial tribunal, so far from being the arbiter of the people’s opinion, only declares it, and, as soon as the two part company, its decisions are null and void.
 
-The tribunate is not a constituent part of the city, and should have no share in either legislative or executive power; but this very fact makes its own power the greater: for, while it can do nothing, it can prevent Edition: current; Page: [107] anything from being done. It is more sacred and more revered, as the defender of the laws, than the prince who executes them, or than the Sovereign which ordains them. This was seen very clearly at Rome, when the proud patricians, for all their scorn of the people, were forced to bow before one of its officers, who had neither auspices nor jurisdiction.
+It is useless to distinguish the morality of a nation from the objects of its esteem; both depend on the same principle and are necessarily indistinguishable. There is no people on earth the choice of whose pleasures is not decided by opinion rather than nature. Right men’s opinions, and their morality will purge itself. Men always love what is good or what they find good; it is in judging what is good that they go wrong. This judgment, therefore, is what must be regulated. He who judges of morality judges of honour; and he who judges of honour finds his law in opinion.
 
-The tribunate, wisely tempered, is the strongest support a good constitution can have; but if its strength is ever so little excessive, it upsets the whole State. Weakness, on the other hand, is not natural to it: provided it is something, it is never less than it should be.
+The opinions of a people are derived from its constitution; although the law does not regulate morality, it is legislation that gives it birth. When legislation grows weak, morality degenerates; but in such cases the judgment of the censors will not do what the force of the laws has failed to effect.
 
-It degenerates into tyranny when it usurps the executive power, which it should confine itself to restraining, and when it tries to dispense with the laws, which it should confine itself to protecting. The immense power of the Ephors, harmless as long as Sparta preserved its morality, hastened corruption when once it had begun. The blood of Agis, slaughtered by these tyrants, was avenged by his successor; the crime and the punishment of the Ephors alike hastened the destruction of the republic, and after Cleomenes Sparta ceased to be of any account. Rome perished in the same way: the excessive power of the tribunes, which they had usurped by degrees, finally served, with the help of laws made to secure liberty, as a safeguard for the emperors who destroyed it. As for the Venetian Council of Ten, it is a tribunal of blood, an object of horror to patricians and people alike; and, so far from giving a lofty protection to the laws, it does nothing, now they have become degraded, but strike in the darkness blows of which no one dare take note.
+From this it follows that the censorship may be useful for the preservation of morality, but can never be so for its restoration. Set up censors while the laws are vigorous; as soon as they have lost their vigour, all hope is gone; no legitimate power can retain force when the laws have lost it.
 
-The tribunate, like the government, grows weak as the number of its members increases. When the tribunes of the Roman people, who first numbered only two, and then five, wished to double that number, the senate let them do so, in the confidence that it could use one to check another, as indeed it afterwards freely did.
+The censorship upholds morality by preventing opinion from growing corrupt, by preserving its rectitude by means of wise applications, and sometimes even by fixing it when it is still uncertain. The employment of seconds in duels, which had been carried to wild extremes in the kingdom of France, was done away with merely by these words in a royal edict: “As for those who are cowards enough to call upon seconds.” This judgment, in anticipating that of the public, suddenly decided it. But when edicts from the same source tried to pronounce duelling itself an act of cowardice, as indeed it is, then, since common opinion does not regard it as such, the public took no notice of a decision on a point on which its mind was already made up.
 
-The best method of preventing usurpations by so formidable a body, though no government has yet made use of it, would be not to make it permanent, but to regulate the periods during which it should remain in abeyance. These intervals, which should not be long enough to give Edition: current; Page: [108] abuses time to grow strong, may be so fixed by law that they can easily be shortened at need by extraordinary commissions.
+I have stated elsewhere that as public opinion is not subject to any constraint, there need be no trace of it in the tribunal set up to represent it. It is impossible to admire too much the art with which this resource, which we moderns have wholly lost, was employed by the Romans, and still more by the Lacedæmonians.
 
-This method seems to me to have no disadvantages, because, as I have said, the tribunate, which forms no part of the constitution, can be removed without the constitution being affected. It seems to be also efficacious, because a newly restored magistrate starts not with the power his predecessor exercised, but with that which the law allows him.
+A man of bad morals having made a good proposal in the Spartan Council, the Ephors neglected it, and caused the same proposal to be made by a virtuous citizen. What an honour for the one, and what a disgrace for the other, without praise or blame of either! Certain drunkards from Samos polluted the tribunal of the Ephors: the next day, a public edict gave Samians permission to be filthy. An actual punishment would not have been so severe as such an impunity. When Sparta has pronounced on what is or is not right, Greece makes no appeal from her judgments.

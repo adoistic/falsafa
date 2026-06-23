@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 40
-chapter_title: "CHAPTER VII: PROGRAMS OF ORGANIZATION AND REGULATION"
+chapter_title: "Chapter II: Bluff"
 chapter_slug: 40
 variant_id: "5b0537b9-fa1e-5c65-921a-bb06a49f9f58"
 content_type: translation
@@ -13,93 +13,35 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2738
+word_count: 847
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-The American Investigation.—Economy and Efficiency in Government Service.—Labor.—Three Methods of Recruiting and Promoting.—Regulation of Government Railways.—“Industrial Efficiency.”—Giolitti and the Hopes of Italy.—Elimination of the Politician.—Modesty of the Partisans of Public Operation.—The Department Substituted for the Minister.—The English Admiralty and Winston Churchill.—M. Chardon and the Fourth Power.—Impossible to Give Government Service Industrial Efficiency.—Either Stagnation or Disorder.
+Declarations of Edgard Milhaud.—Enumeration.—Government and Municipal Undertakings Are Traditions, Not Innovations.—Far from Being Proofs of Evolution, They Are Proofs of Retrogression.—Example: Germany.—Postoffice.—Forests.—Gobelin Tapestry and Sèvres China.—The Legitimate Share of Government and Municipality in General Economic Activity.
 
-Plans to make the wheels of government run smoothly are numberless. Parliaments have been discussing such plans for years, and publications suggesting all sorts of methods to that end form an enormous library in themselves.
+In November, 1911, Edgard Milhaud, editor of the Annales de la Règie Directe, declared in that publication:
 
-Under the acts of June 23, 1910, and March 3, 1911, the President of the United States, Mr. Taft, appointed a commission charged with the duty of investigating the manner in which various Federal departments and public enterprises were being managed. Among other things the Commission was to make a report indicating methods by which greater efficiency and economy might be brought into the public service. Edition: current; Page: [370] Four volumes of this report, entitled Efficiency and Economy in Government Service, have already appeared. Two contain the report to the President on the organization of the government of the United States on July 1, 1911, and his message of January 17, 1912. A third contains another presidential message, dated April 4, 1912, together with the reports of suggested modifications to be introduced into the various departments and the remarks of the heads of the departments thereon. A fourth small volume contains a third message of the President, transmitting the conclusions of the commission regarding the centralization and the distribution of government publications.
+“Operation by public groups—that is to say, government ownership—is being substituted more and more for operation by individuals or by private corporations. In the field of municipal operation we might mention water supply, gas, electricity, tramways, highways, sewage disposal, sanitation, undertaking, crematories, markets, department stores, savings banks, pawnshops, weights and measures, employment offices, real estate offices, cheap lodgings, slaughter houses, public baths, grain elevators, fish ponds, etc. To-day municipal operation of water, gas, electricity and tramways forms a total of 338 undertakings in Switzerland, 569 in Italy, and 1805 in the United Kingdom. Water and gas enterprises alone reach a total of 3,210 in Germany.
 
-The fact that such an investigating committee was appointed at all is, of course, a sufficient proof that Congress and the President had found that all was not going well in the Federal administration of the United States. But where is the country whose administration is perfect? Do we Frenchmen not hear every year, apropos of the budget, and especially this year in regard to the organization of the budget of 1907, the most violent attacks against the French administrative system and its methods? To increase the activities of the government is not the way to improve its habits or to bring about economy. Such is, nevertheless, the homeopathic remedy which a number of those who are indulging in the most violent criticisms are now proposing.
+“In the field of state undertakings we would mention the postal, telegraph and telephone systems, railways, canals, insurance, title guaranty and trust companies, banks of issue, mines, salt works and salt marshes, hydro-electric power, forests, various manufactures (powder, munitions of war, matches, tobacco, tapestries, fine porcelain, etc.), monopolies of several imports and exports (the camphor trade with Japan, Colombian emeralds, etc.). Moreover, one international federation of national undertakings was established 37 years ago, in 1874. This is the Universal Postal Union.”
 
-The authority of the Federal government of the United States extends over a territory equal to that of eight-tenths of Europe and over a population of 92,000,000 people.
+M. Milhaud is an exponent of that particular rhetorical method which consists in producing effects by piling up words one on top of the other in such a manner as to give an impression of large quantities in face of really small ones. If we are to credit his statement, people far advanced along the path of evolution are finding themselves carried away by an irresistible impulse to substitute public for private undertakings. Then he enumerates these undertakings for us.
 
-“The operations of the Government affect the interest of every person living within the jurisdiction of the United States. Its gross expenditures amount to nearly $1,000,000,000 annually. Including the personnel of the Military and Naval establishments, more than 400,000 persons are required to do the work imposed by law upon the executive branch of the Government.
+Now municipal undertakings are by no means novelties; they are traditions, at least in the case of public roads, sewage disposal, cemeteries, common sewers, markets, public weights and measures, etc. The aqueducts of the Romans prove to us that their water supply was a municipal affair. Therefore, as novelties, we have the distribution of gas, electricity and the tramways.
 
-“This vast organization has never been studied in detail as one piece of administrative mechanism. At no time has the attempt been made to study all these activities and agencies with a view to the assignment of each activity to the agency best fitted to its performance, to the avoidance of duplication of plant and work, to the integration of all administrative agencies of the Government, so far as may be practicable, into a unified organization for the most effective and economical dispatch of public business.”
+He quotes Germany as having the greatest number of municipal undertakings. These also are traditions and not innovations. The case is the same in Switzerland, where the paternal policy of the cantons has never established a definite limit between what belongs to the individual and what to the public domain. The number of local governments in the United Kingdom which have taken over such enterprises is astonishing; but experience is decidedly against any further extension of similar activities on the part of municipalities. In France, up to the present, and despite all the allurements of the Socialists, the municipalities have shown themselves distrustful.
 
-Mr. Taft makes the same complaint in regard to American official documents that has been made against similar French documents, and which can be brought against the official documents of every country:
+As for national undertakings, Edgard Milhaud points to the postal, telegraph and telephone services.
 
-“Notwithstanding voluminous reports, presented annually to the Congress, no satisfactory statement has ever been published of the financial transactions of the Government as a whole. Provision is made for due accountability for all moneys coming into the hands of officers. . . . But no general system has ever been devised for reporting information as to the actual costs entailed in the operation of individual services nor to make possible the exercise of intelligent judgment concerning the value of the results obtained when contrasted with the sacrifices required. I am convinced that the time has come when Edition: current; Page: [372] the Government should take stock of all the activities and agencies and formulate a comprehensive plan with reference to which future changes may be made. The report of the commission is being prepared with this idea in mind.”
+The two last mentioned undertakings, except in the United States, are integral parts of the postal system. The Assyrians also had a government postal system, not for the use of the people, but for the service of the king. A similar institution was established and for the same purpose by the kings of France and other sovereigns. It is a government tradition. The majority of the railway lines still belong to private companies. As for insurance, there is scarcely one system under public management outside of the municipal fire insurance in Germany. Because Prussia is a great mine owner, it does not follow that that country is pointing out the future economic course of other peoples. The public forests are a remnant of the feudal régime.
 
-One great difficulty in all countries is the recruiting of employees: how to enlist the ablest men and put them into the positions to which they are best suited.
+Tobacco and match monopolies are limited to one or two countries. The Gobélin tapestry and the Sèvres porcelain are monarchical heirlooms.
 
-The message of Mr. Taft of April 4, 1911, declares that legislation must establish “a merit system which will guarantee to the people in the conduct of the public business the advantage of officials chosen for their capacity and devoting their time and their talent exclusively to their duties.” This is a desire more easily expressed than realized. An unhampered selection of employees is only too apt to result in favoritism and injustice.
+In Austria, toward the close of 1911, a bill for the nationalization of coal mines was presented. But Superintendent Holmann, representing the government, gave it as his opinion that the nationalization of Austrian coal mines would require an amount of capital so extravagant that it would be impossible to procure it. Moreover, he considered that it would be a mistake to hope for large results from such nationalization, as it would have all the economic defects and inconveniences of similar monopolies everywhere. The project was, therefore, abandoned.
 
-Competitive examination is a Chinese method which by no means insures capability. In the competitive examinations of British India, the Hindoos succeed where the Musselmen fail, and the Musselmen protest in the name of all humanity that competitive examinations too often bring out nothing but the qualifications of a parrot.
+And yet M. Milhaud can say: “The unceasing march toward nationalization and municipalization is supported, stimulated and commanded by economic evolution.”
 
-Promotion based merely on length of service puts a premium on inertia and incapacity.
+Neither government nor municipal monopolies are novelties; they are antiques. To represent them in the light of consequences of modern economic changes is to commit a solecism. They are not indicative of evolution, but of retrogression.
 
-Whatever may be the disadvantages of promotion based on arbitrary selection, it is the only method which will place the really capable man in higher positions. Private industry proves this.
-
-Promotion by selection is a system that is not adopted and that cannot be adopted by a state. Selection, Edition: current; Page: [373] instead of falling upon the more serviceable man, will inevitably fall upon the man who has the greatest amount of pull. The Navy has its “sons of the Archbishop,” while all departments have “the sons of their fathers.”
-
-Every trading operation demands regulation, but the regulation of a state department tends to become so minute that very often it becomes an end in itself and impedes action.
-
-The state railway of France, for example, is subject to the administrative control of the department of Public Works; to the department of Finance, which regulates its expenditures; to the judicial control of the Court of Accounts; and finally to parliamentary control, which, aside from all the others, appears in three separate and distinct phases in the budget of the state railway system.
-
-Under the title Industrial Efficiency of the State Railways M. Baudin demands the abolition of these indispensable censorships. In other words, he is asking that the management of the state railways be permitted to issue bonds in such quantity, at such time, and at such rate as it may deem wise. However, no sane minister of Finance will ever permit a government department to use government credit at its pleasure.
-
-State undertakings have no “industrial efficiency,” because they are subordinate to the general interests of the state and they must be rigorously controlled.
-
-In 1905 a grand centralization of the Italian railways was begun. There was a general desire to have important government undertakings concentrated in Edition: current; Page: [374] Rome, and therefore the entire organization of the railway lines was broken up. In 1911 Minister Sacchi made an attempt to model the government railway service upon the system being operated with success by the Adriatic Railway Company. Theorists and experts in government and municipal operation took care to announce: “Our system will be an excellent one because it is to be managed like a private enterprise.” Giolitti also emphasized this policy in his explanation of the reasons for taking over life insurance:
-
-“We have no intention of creating a new organization of bureaucrats, but a truly independent undertaking which will differ from private business of the same kind only in the fact that it will be the property of the government. The fact that this enterprise belongs to the state does not imply that it has a character different from that of private enterprises. In so far as we are concerned, the sole difference is to be found in this fact that the proprietor is not an individual.”
-
-January 17, 1911, M. Globinski, Austrian minister of railways, insisted in an ordinance “on the essentially commercial character of the railways, of which the bureaus ought to take due account.”
-
-In the end all efforts to repudiate the essentially administrative character of public undertakings are a real condemnation of them. Why try to make a state enterprise do what it really cannot do? The private enterprises which it is replacing are presented to it as models to be imitated. Were they then so good? At Edition: current; Page: [375] any rate they were better adapted to their purpose than the public undertaking substituted for them.
-
-There is only one legitimate motive for substituting public ownership for private enterprise; that is, the absorption of the profits of private companies for the benefit either of consumers or taxpayers, on condition, of course, that such profits are to be made.
-
-The Italian National Insurance Fund is a legal entity, and its management is autonomous. Nevertheless, the insurance policies which it issues are guaranteed by the state.
-
-Its management consists of: (a) An administrative council; (b) a standing committee; (c) a general manager; (d) trustees; (e) a technical and soliciting staff.
-
-The administrative council is composed of nine members, and is appointed by royal edict on the motion of the minister of Agriculture, Industry and Commerce. The same edict appoints the president and the vice-president of the council. Four of its members are public officials, and four others private individuals.
-
-M. Jèze is enthusiastic because the management is out of reach of the influence of senators and deputies and, in a general way, of all persons holding elective offices. “Therefore, all political interference is removed from the operation of the enterprise.”
-
-Now the men who propose and vote for government monopolies are politicians, ministers, deputies, senators. Yet, at the very moment that they are increasing the functions of the state, they are branding the men who direct the state with dishonor. For in order to heap up the measure of irony, they declare that they Edition: current; Page: [376] are incapable of managing the very institutions with which they themselves have so generously dowered the state. Modesty can surely be pushed no further than to say: “We will vote for state monopolies, but we declare ourselves unfit to administer them, because if the politicians who vote for them, and among whom we count ourselves, should manage such enterprises, disorder, injustice and corruption would ensue. Therefore we decline for ourselves, and we refuse to anyone who has been a senator, deputy or minister the privilege of managing the National Insurance Fund.”
-
-That ministers, senators and deputies have adopted this inconsistent attitude may be a proof of their lofty sense of public duty, but can they really believe that they are enhancing the prestige of deliberative assemblies by declaring themselves unworthy to direct monopolies that they themselves have created? Are there not men in public life “who have demonstrated their technical and administrative capacity”? No matter! The title “member of parliament” appears to be reason enough to disqualify them.
-
-But the members of the administrative council above referred to are appointed by ministers who are, of course, public men. Ministers also appoint the general manager. Are we then to believe that all political considerations are eliminated in these selections?
-
-Finally, the trustees must present annual reports, which it is the duty of the minister of Agriculture, Industry and Commerce to communicate to Parliament, together with the report of the managing council (Conseil d'Administration de la Caisse). Moreover, Edition: current; Page: [377] the technical and analytical balance sheet containing all the data, admitting of estimate as to the profits realized by the Fund from each contract and each form of insurance, according to the nature of the insurance operations, must be communicated to Parliament every three years.
-
-Consequently the interference of politicians, to use the scornful title of Professor Jèze, is not completely eliminated from the management of the National Insurance Fund. Moreover, it cannot be eliminated from any government monopoly, except by constituting such monopoly a power apart and placing it above all other institutions of the country. The ministers appoint the important officials. The government has always the right of control, and every three years a detailed account of the business of the monopoly must be submitted to Parliament.
-
-In a report of M. Gaudin, of July, 1912, I read the following regarding supplementary appropriations to the state railway of France:
-
-“The administrative organization of the state system tends to eliminate all political interference with the employees. The form of the statute as actually prepared, by the execution of articles 58 and 68 of the law of July 13, 1911, serves to keep the department free from all external influence.”
-
-This looks well in print, although everyone knows that it will not amount to anything. The statute appeared April 31.
-
-In October the director of the state railway system Edition: current; Page: [378] addressed a letter to the deputies, declaring that in future no further attention would be paid to their recommendations. A single incident, however, is helping to prove that attention will at least be paid to whatever the subprefect shall ask of the official spy called the municipal delegate.
-
-In 1912 Winston Churchill presented as his own naval program the demands of the Board of Admiralty. “The Board of Admiralty settles everything; the cabinet only registers its decisions,” said the Economist. If each service were to settle its own affairs in complete independence, what but anarchy and ruin could result? It is the duty of the government to determine, according to general political, financial and economic conditions, the part that each service ought to play in the general scheme of things, as well as in regard to the manner in which such service is being carried on. Coördination of effort and responsibility is the condition of the existence of a nation. The men at the head of public affairs are alone able to bring about such coördination, and they ought to assume not only the task, but likewise its responsibility.
-
-Every extension of governmental functions involves new duties and the creation of new officials, while, at the same time, it increases the importance of those already in office. The preponderant rôle which politicians themselves yield to bureaucracy is easily seen. They declare themselves incapable, and abdicate in favor of the bureaus.
-
-All this appears so natural that a recording secretary to the Council of State, M. Chardon, favors the organization of a fourth division of government to be called “the administrative power.” He declares that the director of any state department should be able to appeal through his writings and speeches, and also by his position, as a commissioner of government no doubt, against the decisions of his ministerial superior. But surely the heads of departments would have a logical right to the same attitude toward their directors; the managers of bureaus toward the head of their department; and the assistant managers in regard to the managers of the bureaus; the head clerks and the clerical staff with respect to their superiors, and so on. The moment any such power comes to be recognized anarchy will have been proclaimed.
-
-Administration is not a power comparable to the executive, legislative or judicial power. It is an essential part of the executive power. It can neither be separated from it nor exist apart from it. An executive power which has for its prime duty the security of the people of the nation at home and abroad can be only a political power.
-
-It is precisely because of the essential nature of the executive power that duties foreign to it, and which must inevitably corrupt, disintegrate and prevent it from fulfilling its real functions, ought not to be forced upon it.
-
-All attempts to give “a business organization” to government enterprises are condemned to failure in advance. Either such undertakings will languish under an abuse of control which would impede action, or, Edition: current; Page: [380] while operating in full liberty, they will fall into moral and financial disorder. And let it not be forgotten that stagnation and disorder far from nullifying frequently reinforce each other.
+As a matter of fact, if throughout the world we compare the economic activity of private undertakings with those of governments, either local or state, the latter appear almost insignificant. The 338 Swiss municipalities may be each in itself most interesting in its public economic activities. But Switzerland has only 3,763,000 inhabitants, and the importance of their activities is therefore limited.

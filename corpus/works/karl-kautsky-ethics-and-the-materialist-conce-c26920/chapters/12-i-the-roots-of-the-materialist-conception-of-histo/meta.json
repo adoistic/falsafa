@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-ethics-and-the-materialist-conce-c26920",
+  "work_title": "Ethics and the Materialist Conception of History",
+  "chapter_number": 12,
+  "chapter_title": "I. The Roots of the Materialist Conception of History",
+  "chapter_slug": "12-i-the-roots-of-the-materialist-conception-of-histo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe2e48fa-2f3c-5e8d-a26a-41c603874ae7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3056,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1906/ethics/ch05.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-treatises-and-essays-on-subjects-4cfbd6",
+  "work_title": "Treatises and Essays on Subjects Connected with Economic Policy",
+  "chapter_number": 1,
+  "chapter_title": "A Treatise on Money, Sect. I.—: Circumstances which led to the use of Money. Principal properties which every Commodity ",
+  "chapter_slug": "01-a-treatise-on-money-sect-i-circumstances-which-led",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7acc453-fe1a-5304-8bf7-7e32004c9d38",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4114,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853"
+    }
+  ]
+}

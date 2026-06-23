@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-mehring-absolutism-and-revolution-in-ger-6d03ed",
+  "work_title": "Absolutism and Revolution in Germany 1525-1848",
+  "chapter_number": 20,
+  "chapter_title": "The Beginnings of Capitalism",
+  "chapter_slug": "20-the-beginnings-of-capitalism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "85f95e93-ba69-5719-979f-f094c7b9d743",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 816,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/mehring/1910/absrev/ch04.htm"
+    }
+  ]
+}

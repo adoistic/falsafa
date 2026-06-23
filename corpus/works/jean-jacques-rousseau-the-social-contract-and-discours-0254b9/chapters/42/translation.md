@@ -4,7 +4,7 @@ work_slug: "jean-jacques-rousseau-the-social-contract-and-discours-0254b9"
 work_title: The Social Contract and Discourses
 author_name: "Jean-Jacques Rousseau"
 chapter_number: 42
-chapter_title: "CHAPTER XVI: that the institution of government is not a contract"
+chapter_title: "Chapter XVIII: how to check the usurpations of government"
 chapter_slug: 42
 variant_id: "d6cd6180-e586-5ecf-bb53-b294ffae6e41"
 content_type: translation
@@ -13,21 +13,25 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 453
+word_count: 667
 source_url: "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
 translator: Online Library of Liberty edition
 ---
 
-The legislative power once well established, the next thing is to establish similarly the executive power; for this latter, which operates only by particular acts, not being of the essence of the former, is naturally separate from it. Were it possible for the Sovereign, as such, to possess the executive power, right and fact would be so confounded that no one could tell what was law and what was not; and the body politic, thus disfigured, would soon fall a prey to the violence it was instituted to prevent.
+What we have just said confirms Chapter XVI, and makes it clear that the institution of government is not a contract, but a law; that the depositaries of the executive power are not the people’s masters, but its officers; that it can set them up and pull them down when it likes; that for them there is no question of contract, but of obedience; and that in taking charge of the functions the State imposes on them they are doing no more than fulfilling their duty as citizens, without having the remotest right to argue about the conditions.
 
-As the citizens, by the social contract, are all equal, all can prescribe what all should do, but no one has a right to demand that another shall do what he does not do himself. It is strictly this right, which is indispensable for giving the body politic life and movement, that the Sovereign, in instituting the government, confers upon the prince.
+When therefore the people sets up an hereditary government, whether it be monarchical and confined to one family, or aristocratic and confined to a class, what it enters into is not an undertaking; the administration is given a provisional form, until the people chooses to order it otherwise.
 
-It has been held that this act of establishment was a contract between the people and the rulers it sets over itself,—a contract in which conditions were laid down between the two parties binding the one to command and the other to obey. It will be admitted, I am sure, that this is an odd kind of contract to enter into. But let us see if this view can be upheld.
+It is true that such changes are always dangerous, and that the established government should never be touched except when it comes to be incompatible with the public good; but the circumspection this involves is a maxim of policy and not a rule of right, and the State is no more bound to leave civil authority in the hands of its rulers than military authority in the hands of its generals.
 
-First, the supreme authority can no more be modified than it can be alienated; to limit it is to destroy it. It is absurd and contradictory for the Sovereign to set a superior over itself; to bind itself to obey a master would be to return to absolute liberty.
+It is also true that it is impossible to be too careful to observe, in such cases, all the formalities necessary to distinguish a regular and legitimate act from a seditious tumult, and the will of a whole people from the clamour of a faction. Here above all no further concession should be made to the untoward possibility than cannot, in the strictest logic, be refused it. From this obligation the prince derives a great advantage in preserving his power despite the people, without it being possible to say he has usurped it; for, seeming to avail himself only of his rights, he finds it very easy to extend them, and to prevent, under the pretext of keeping the peace, assemblies that are destined to the re-establishment of order; with the result that he takes advantage of a silence he does not allow to be broken, or of irregularities he causes to be committed, to assume that he has the support of those whom fear prevents from speaking, and to punish those who dare to speak. Thus it was that the decemvirs, first elected for one year and then kept on in office for a second, tried to perpetuate their power by forbidding the comitia to assemble; and by this easy method every government in the world, once clothed with the public power, sooner or later usurps the sovereign authority.
 
-Moreover, it is clear that this contract between the people and such and such persons would be a particular act; and from this it follows that it can be neither a law nor an act of Sovereignty, and that consequently it would be illegitimate.
+The periodical assemblies of which I have already spoken are designed to prevent or postpone this calamity, above all when they need no formal summoning; for in that case, the prince cannot stop them without openly declaring himself a law-breaker and an enemy of the State.
 
-It is plain too that the contracting parties in relation to each other would be under the law of nature alone and wholly without guarantees of their mutual undertakings, a position wholly at variance with the civil state. He who has force at his command being always in a position to control execution, it would come to the same thing if the name “contract” were given to the act of one man who said to another; “I give you all my goods, on condition that you give me back as much of them as you please.”
+The opening of these assemblies, whose sole object is the maintenance of the social treaty, should always take the form of putting two propositions that may not be suppressed, which should be voted on separately.
 
-There is only one contract in the State, and that is the act of association, which in itself excludes the existence of a second. It is impossible to conceive of any public contract that would not be a violation of the first.
+The first is: “Does it please the Sovereign to preserve the present form of government?”
+
+The second is: “Does it please the people to leave its administration in the hands of those who are actually in charge of it?”
+
+I am here assuming what I think I have shown; that there is in the State no fundamental law that cannot be revoked, not excluding the social compact itself; for if all the citizens assembled of one accord to break the compact, it is impossible to doubt that it would be very legitimately broken. Grotius even thinks that each man can renounce his membership of his own State, and recover his natural liberty and his goods on leaving the country. It would be indeed absurd if all the citizens in assembly could not do what each can do by himself.

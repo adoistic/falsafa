@@ -4,7 +4,7 @@ slug: "euclid-elements-d711e4"
 title: Elements
 author:
   name: Euclid
-  biography: Compiler of the Elements, the most copied mathematical text in history. Almost nothing is known of his life beyond his city and his book.
+  biography: Greek mathematician of Alexandria, compiler of the Elements under the early Ptolemies. The Elements arranged the geometry of his predecessors into a single deductive system and remained the standard textbook of the subject for over two thousand years.
   nationality: Greek
 era: Hellenistic
 genre: Philosophy

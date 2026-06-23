@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 14,
+  "chapter_title": "IV. Qualifications Conceded by the Bullionists",
+  "chapter_slug": "14-iv-qualifications-conceded-by-the-bullionists",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd3b1026-60e2-5b24-a7a6-46395d9edce7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 823,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

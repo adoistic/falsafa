@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-ethics-of-socialism-e57e6f",
+  "work_title": "The Ethics of Socialism",
+  "chapter_number": 8,
+  "chapter_title": "On Some Forms of Modern Cant",
+  "chapter_slug": "08-on-some-forms-of-modern-cant",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "145f0c06-3724-5612-831d-3b422deeb91c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2339,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1887/05/modcant.htm"
+    }
+  ]
+}

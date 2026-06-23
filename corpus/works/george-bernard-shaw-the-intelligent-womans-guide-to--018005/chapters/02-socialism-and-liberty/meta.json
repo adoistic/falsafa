@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-bernard-shaw-the-intelligent-womans-guide-to--018005",
+  "work_title": "The Intelligent Woman's Guide to Socialism, Capitalism, Sovietism and Fascism (excerpts)",
+  "chapter_number": 2,
+  "chapter_title": "Socialism and Liberty",
+  "chapter_slug": "02-socialism-and-liberty",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "72902c30-ed69-5c2a-85e5-580c5350b77b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5304,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/shaw/works/guide2.htm"
+    }
+  ]
+}

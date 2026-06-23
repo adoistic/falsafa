@@ -4,7 +4,7 @@ work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
 work_title: The Guide for the Perplexed
 author_name: Moses Maimonides
 chapter_number: 56
-chapter_title: CHAPTER XLIV
+chapter_title: Chapter XLV (1)
 chapter_slug: 56
 variant_id: "05be30a2-36b7-5b7a-996e-81186232db82"
 content_type: translation
@@ -13,9 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 224
+word_count: 338
 source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
 translator: Online Library of Liberty edition
 ---
 
-The Hebrew ‘ayin is a homonym, signifying “fountain”; e.g., “By a fountain (‘en) of water” (Gen. xvi. 7). It next denotes “eye”; comp. (‘ayin) “Eye for eye” (Exod. xxi. 24). Another meaning of the word is “providence,” as it is said concerning Jeremiah, “Take him and direct thine attention (eneka) to him” (Jer. xxxix. 12). In this figurative sense it is to be understood when used in reference to God; e.g., “And my providence and my pleasure shall be there perpetually” (1 Kings ix. 3), as we have already explained (page 140); “The eyes (‘ene), i.e., the Providence of the Lord thy God, are always upon it” (Deut. xi. 12); “They are the eyes (‘ene) of the Lord, which run to and fro through the whole earth” (Zech. iv. 10), i.e., His providence is extended over everything that is on earth, as will be explained in the chapters in which we shall treat of Providence. When, however, the word “eye” is connected with the verb “to see,” (raah or ḥazah) as in “Open thine eyes, and see” (1 Kings xix. 16); “His eyes behold” (Ps. xi. 4), the phrase denotes perception of the mind, not that of the senses; for every sensation is a passive state, as is well known to you, and God is active, never passive, as will be explained by me.
+Shama‘ is used homonymously. It signifies “to hear,” and also “to obey.” As regards the first signification, comp. “Neither let it be heard out of thy mouth” (Exod. xxiii. 13); “And the fame thereof was heard in Pharaoh’s house” (Gen. xlv. 16). Instances of this kind are numerous.
+
+Equally frequent are the instances of this verb being used in the sense of “to obey”: “And they hearkened (shame‘ü) not unto Moses” (Exod. vi. 9). “If they obey (yishme‘ü) and serve him (Job xxxvi. 11); “Shall we then hearken (nishma‘) unto you” (Neh. xiii. 27); “Whosoever will not hearken (yishma‘) unto thy words” (Josh. i. 18).
+
+The verb also signifies “to know” (“to understand”), comp. “A nation whose tongue, i.e., its language, thou shalt not understand” (tishma‘) (Deut. xxviii. 49). The verb shama‘, used in reference to God, must be taken in the sense of perceiving, which is part of the third signification, whenever, according to the literal interpretation of the passage, it appears to have the first meaning: comp. “And the Lord heard it” (Num. xi. 1); “For that He heareth your murmurings” (Exod. xvi. 7). In all such passages mental perception is meant. When, however, according to the literal interpretation the verb appears to have the second signification, it implies that God responded to the prayer of man and fulfilled his wish, or did not respond and did not fulfil his wish: “I will surely hear his cry” (Exod. xxii. 23); “I will hear, for I am gracious” (ib. 27); “Bow down thine ear, and hear” (2 Kings xix. 16); “But the Lord would not hearken to your voice, nor give ear unto you” (Deut. i. 45); “Yea, when ye make many prayers, I will not hear” (Isa. i. 15); “For I will not hear thee” (Jer. vii. 16). There are many instances in which shama‘ has this sense.
+
+Remarks will now be presented to you on these metaphors and similes, which will quench your thirst, and explain to you all their meanings without leaving a doubt.

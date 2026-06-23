@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 141
-chapter_title: CHAPTER X.
+chapter_title: Chapter XIX. (2)
 chapter_slug: 141
 variant_id: "41d6aea6-986f-53f4-888b-de3bbe9bb6ba"
 content_type: translation
@@ -13,33 +13,53 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1345
+word_count: 825
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-Likewise on the same topics; and how otherwise they can be correctly explained.
+How man cannot be saved without satisfaction for sin.
 
-It is also a fair interpretation that it was by that same holy will by which the son wished to die for the salvation of the world, that the Father gave him commandment (yet not by compulsion), and the cup of suffering, and spared him not, but gave him up for us and desired his death; and that the Son himself was obedient even unto death, and learned obedience from the things which he suffered. For as with regard to that will which led him to a holy life, he did not have it as a human being of himself, but of the Father; so also that will by which he desired to die for the accomplishment of so great good, he could not have had but from the Father of lights, from Edition: current; Page: [198] whom is every good and perfect gift. And as the Father is said to draw by imparting an inclination, so there is nothing improper in asserting that he moves man. For as the Son says of the Father: “No man cometh to me except the Father draw him,” he might as well have said, except he move him. In like manner, also, could he have declared: “No man layeth down his life for my sake, except the Father move or draw him.” For since a man is drawn or moved by his will to that which he invariably chooses, it is not improper to say that God draws or moves him when he gives him this will. And in this drawing or impelling it is not to be understood that there is any constraint, but a free and grateful clinging to the holy will which has been given. If then it cannot be denied that the Father drew or moved the Son to death by giving him that will; who does not see that, in the same manner, he gave him commandment to endure death of his own accord and to take the cup, which he freely drank. And if it is right to say that the Son spared not himself, but gave himself for us of his own will, who will deny that it is right to say that the Father, of whom he had this will, did not spare him but gave him up for us, and desired his death? In this way, also, by following the will received from the Father invariably, and of his own accord, the Son became obedient to Him, even unto death; and learned obedience from the things which he suffered; that is, he learned how great was the work to be accomplished by obedience. For this is real and sincere obedience when a rational being, not of compulsion, but freely, follows the will received from God. In other ways, also, we can properly explain the Father’s desire that the Son should die, though these would appear sufficient. Edition: current; Page: [199] For as we say that he desires a thing who causes another to desire it; so, also, we say that he desires a thing who approves of the desire of another, though he does not cause that desire. Thus when we see a man who desires to endure pain with fortitude for the accomplishment of some good design; though we acknowledge that we wish to have him endure that pain, yet we do not choose, nor take pleasure in, his suffering, but in his choice. We are, also, accustomed to say that he who can prevent a thing but does not, desires the thing which he does not prevent. Since, therefore, the will of the Son pleased the Father, and he did not prevent him from choosing, or from fulfilling his choice, it is proper to say that he wished the Son to endure death so piously and for so great an object, though he was not pleased with his suffering. Moreover, he said that the cup must not pass from him, except he drank it, not because he could not have escaped death had he chosen to; but because, as has been said, the world could not otherwise be saved; and it was his fixed choice to suffer death, rather than that the world should not be saved. It was for this reason, also, that he used those words, viz., to teach the human race that there was no other salvation for them but by his death; and not to show that he had no power at all to avoid death. For whatsoever things are said of him, similar to these which have been mentioned, they are all to be explained in accordance with the belief that he died, not by compulsion, but of free choice. For he was omnipotent, and it is said of him, when he was offered up, that he desired it. And he says himself: “I lay down my life that I may take it again; no man taketh it from me, but I lay it down of myself; I have power Edition: current; Page: [200] to lay it down, and I have power to take it again.” A man cannot, therefore, be properly said to have been driven to a thing which he does of his own power and will.
+It was fitting for God to fill the places of the fallen angels from among men.
 
-But this simple fact, that God allows him to be so treated, even if he were willing, does not seem becoming for such a Father in respect to such a Son.
+That is certain.
 
-Yes, it is of all things most proper that such a Father should acquiesce with such a Son in his desire, if it be praiseworthy as relates to the honor of God, and useful for man’s salvation, which would not otherwise be effected.
+Therefore there ought to be in the heavenly empire as many men taken as substitutes for the angels as would correspond with the number whose place they shall take, that is, as many as there are good angels now; otherwise they who fell will not be restored, and it will follow that God either could not accomplish the good which he begun, or he will repent of having undertaken it; either of which is absurd.
 
-The question which still troubles us is, how the death of the Son can be proved reasonable and necessary. For otherwise, it does not seem that the Son ought to desire it, or the Father compel or permit it. For the question is, why God could not save man in some other way, and if so, why he wished to do it in this way? For it both seems unbecoming for God to have saved man in this way; and it is not clear how the death of the Son avails for the salvation of man. For it is a strange thing if God so delights in, or requires, the blood of the innocent, that he neither chooses, nor is able, to spare the guilty without the sacrifice of the innocent.
+Truly it is fitting that men should be equal with good angels.
 
-Since, in this inquiry, you take the place of those who are unwilling to believe anything not previously proved by reason, I wish to have it understood between us that we do not admit anything in the least unbecoming to be ascribed to the Deity, and that we do not reject the smallest reason if it be not opposed by a greater. For as it is impossible to attribute anything in the least unbecoming to God; so Edition: current; Page: [201] any reason, however small, if not overbalanced by a greater, has the force of necessity.
+Have good angels ever sinned?
 
-In this matter, I accept nothing more willingly than that this agreement should be preserved between us in common.
+No.
 
-The question concerns only the incarnation of God, and those things which we believe with regard to his taking human nature.
+Can you think that man, who has sinned, and never made satisfaction to God for his sin, but only been suffered to go unpunished, may become the equal of an angel who has never sinned?
 
-It is so.
+These words I can both think of and utter, but can no more perceive their meaning than I can make truth out of falsehood.
 
-Let us suppose, then, that the incarnation of God, and the things that we affirm of him as man, had never taken place; and be it agreed between us that man was made for happiness, which cannot be attained in this life, and that no being can ever arrive at happiness, save by freedom from sin, and that no man passes this life without sin. Let us take for granted, also, the other things, the belief of which is necessary for eternal salvation.
+Therefore it is not fitting that God should take sinful man without an atonement, in substitution for lost angels; for truth will not suffer man thus to be raised to an equality with holy beings.
 
-I grant it; for in these there is nothing which seems unbecoming or impossible for God.
+Reason shows this.
 
-Therefore, in order that man may attain happiness, remission of sin is necessary.
+Consider, also, leaving out the question of equality with the angels, whether God ought, under such circumstances, to raise man to the same or a similar kind of happiness as that which he had before he sinned.
 
-We all hold this.
+Tell your opinion, and I will attend to it as well as I can.
+
+Suppose a rich man possessed a choice pearl which had never been defiled, and which could not be taken from his hands without his permission; and that he determined to commit it to the treasury of his dearest and most valuable possessions.
+
+I accept your supposition.
+
+What if he should allow it to be struck from his hand and cast in the mire, though he might have prevented it; and afterwards taking it all soiled by the mire and unwashed, should commit it again to his beautiful and loved casket; will you consider him a wise man?
+
+How can I? for would it not be far better to keep and preserve his pearl pure, than to have it polluted?
+
+Would not God be acting like this, who held man in paradise, as it were in his own hand, without sin, and destined to the society of angels, and allowed the devil, inflamed with envy, to cast him into the mire of sin, though truly with man’s consent? For, had God chosen to restrain the devil, the devil could not have tempted man. Now I say, would not God be acting like this, should he restore man, stained with the defilement of sin, unwashed, that is, without any satisfaction, and always to remain so; should He restore him at once to paradise, from which he had been thrust out?
+
+I dare not deny the aptness of your comparison, were God to do this, and therefore do not admit that he can do this. For it should seem either that he could not accomplish what he designed, or else that he repented of his good intent, neither of which things is possible with God.
+
+Therefore, consider it settled that, without satisfaction, that is, without voluntary payment of the debt, God can neither pass by the sin unpunished, nor can the sinner attain that happiness, or happiness like that, which he had before he sinned; for man cannot in this way be restored, or become such as he was before he sinned.
+
+I am wholly unable to refute your reasoning. But what say you to this: that we pray God, “put away our sins from us,” and every nation prays the God of its faith to put away its sins. For, if we pay our debt, why do we pray God to put it away? Is not God unjust to demand what has already been paid? But if we do not make payment, why do we supplicate in vain that he will do what he cannot do, because it is unbecoming?
+
+He who does not pay says in vain: “Pardon”; but he who pays makes supplication, because prayer is properly connected with the payment; for God owes no man anything, but every creature owes God; and, therefore, it does not become man to treat with God as with an equal. But of this it is not now needful for me to answer you. For when you think why Christ died, I think you will see yourself the answer to your question.
+
+Your reply with regard to this matter suffices me for the present. And, moreover, you have so clearly shown that no man can attain happiness in sin, or be freed from sin without satisfaction for the trespass, that, even were I so disposed, I could not doubt it.

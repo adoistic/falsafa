@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 54,
+  "chapter_title": "Oration 71",
+  "chapter_slug": "54-oration-71",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dd99e60e-a4fa-5f6e-9dbd-f4c3f527ebc5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 863,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "91ceaa8e-6114-5a9e-ad1d-4cf3234de97a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1150,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

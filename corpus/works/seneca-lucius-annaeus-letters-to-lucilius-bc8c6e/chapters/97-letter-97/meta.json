@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 97,
+  "chapter_title": "Letter 97",
+  "chapter_slug": "97-letter-97",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d1882bc9-c583-5930-b782-b120858f2ebb",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 649,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "80cf0782-307b-5c03-99e9-6b51404e64d4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1279,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-religion-of-socialism-b65d8b",
+  "work_title": "The Religion of Socialism",
+  "chapter_number": 8,
+  "chapter_title": "Unscientific Socialism",
+  "chapter_slug": "08-unscientific-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bc7aa5f3-7c08-5b9f-9909-bdddc833cac8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4198,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1884/01/unscisoc.htm"
+    }
+  ]
+}

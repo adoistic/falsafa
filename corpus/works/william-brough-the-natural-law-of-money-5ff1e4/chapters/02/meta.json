@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-brough-the-natural-law-of-money-5ff1e4",
+  "work_title": "The Natural Law of Money",
+  "chapter_number": 2,
+  "chapter_title": "Chapter I.: The Beginning of Money.",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6edef229-e655-5f3e-a97b-d9fd74a929f2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4285,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brough-the-natural-law-of-money"
+    }
+  ]
+}

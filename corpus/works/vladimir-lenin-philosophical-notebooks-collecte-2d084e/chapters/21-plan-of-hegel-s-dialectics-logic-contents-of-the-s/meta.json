@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 21,
+  "chapter_title": "Plan of Hegel’s Dialectics (Logic). (Contents of the Small Logic (Encyclopaedia))",
+  "chapter_slug": "21-plan-of-hegel-s-dialectics-logic-contents-of-the-s",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "614be296-a749-53e4-9b17-840e84304feb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 506,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/misc/x01.htm"
+    }
+  ]
+}

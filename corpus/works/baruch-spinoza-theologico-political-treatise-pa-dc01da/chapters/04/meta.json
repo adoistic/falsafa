@@ -1,0 +1,26 @@
+{
+  "work_slug": "baruch-spinoza-theologico-political-treatise-pa-dc01da",
+  "work_title": "Theologico-Political Treatise, Part 2",
+  "chapter_number": 4,
+  "chapter_title": "Chapter VI",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cbe742c6-7f0d-5df8-ad1c-cddb376b4705",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 187,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/990"
+    }
+  ]
+}

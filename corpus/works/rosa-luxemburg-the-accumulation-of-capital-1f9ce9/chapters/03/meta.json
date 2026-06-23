@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-accumulation-of-capital-1f9ce9",
+  "work_title": "The Accumulation of Capital",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 2: Quesnay's and Adam Smith’s Analyses of the Process of Reproduction",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "25405ca4-7f10-5bc3-a991-c8e9de64947a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5414,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch02.htm"
+    }
+  ]
+}

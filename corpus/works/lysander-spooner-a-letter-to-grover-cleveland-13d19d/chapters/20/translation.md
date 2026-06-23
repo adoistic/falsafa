@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2316
+word_count: 2308
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
@@ -56,7 +56,7 @@ Congress has evidently just as much right to increase the value of the dollar, a
 
 All this talk of the court is equivalent to asserting that congress has the right to alter men’s contracts at pleasure, after they are made, and make them over into something, or anything, wholly different from what the parties themselves had made them.
 
-And this is equivalent to denying all men’s right to make their own contracts, Edition: current; Page: [68] or to acquire any contract rights, which congress may not afterward, at pleasure, alter, or abolish.
+And this is equivalent to denying all men’s right to make their own contracts, or to acquire any contract rights, which congress may not afterward, at pleasure, alter, or abolish.
 
 It is equivalent to saying that the words of contracts are not to be taken in the sense in which they are used, by the parties themselves, at the time when the contracts are entered into, but only in such different senses as congress may choose to put upon them at any future time.
 
@@ -74,7 +74,7 @@ The court means here to say that “every contract for the payment of money, sim
 
 And this is equivalent to saying that all such contracts are made, by the parties, with the implied understanding that the contracts, as written and signed by themselves, do not bind either of the parties to anything; but that they simply suggest, or initiate, some non-descript or other, which congress may afterward convert into a binding contract, of such a sort, and only such a sort, as they (congress) may see fit to convert it into.
 
-Every one of these judges knew that no two men, having common honesty and common sense,—unless first deprived of all power to make their own contracts,—would ever enter into a contract to pay money, with any understanding that the government had any such arbitrary power as the court here ascribes to it, to alter Edition: current; Page: [69] their contract after it should be made. Such an absurd contract would, in reality, be no legal contract at all. It would be a mere gambling agreement, having, naturally and really, no legal “obligation” at all.
+Every one of these judges knew that no two men, having common honesty and common sense,—unless first deprived of all power to make their own contracts,—would ever enter into a contract to pay money, with any understanding that the government had any such arbitrary power as the court here ascribes to it, to alter their contract after it should be made. Such an absurd contract would, in reality, be no legal contract at all. It would be a mere gambling agreement, having, naturally and really, no legal “obligation” at all.
 
 But further. A solvent contract to pay money is in reality—in law, and in equity—a bona fide mortgage upon the debtor’s property. And this mortgage right is as veritable a right of property, as is any right of property, that is conveyed by a warranty deed. And congress has no more right to invalidate this mortgage, by a single iota, than it has to invalidate a warranty deed of land. And these judges will sometime find out that such is “the obligation of contracts,” if they ever find out what “the obligation of contracts” is.
 

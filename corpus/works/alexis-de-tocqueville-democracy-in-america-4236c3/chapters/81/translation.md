@@ -1,0 +1,23 @@
+---
+work_id: "4236c39f-c0d0-5a54-8dc7-6901642e8c28"
+work_slug: "alexis-de-tocqueville-democracy-in-america-4236c3"
+work_title: Democracy in America
+author_name: Alexis de Tocqueville
+chapter_number: 81
+chapter_title: "Chapter IV: Consequences Of The Three Preceding Chapters"
+chapter_slug: 81
+variant_id: "3e2c44c3-3ccb-55b0-a7a4-062aa035a7c6"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 526
+source_url: "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch32.htm"
+translator: Henry Reeve
+---
+
+When men feel a natural compassion for their mutual sufferings – when they are brought together by easy and frequent intercourse, and no sensitive feelings keep them asunder – it may readily be supposed that they will lend assistance to one another whenever it is needed. When an American asks for the co-operation of his fellow-citizens it is seldom refused, and I have often seen it afforded spontaneously and with great goodwill. If an accident happens on the highway, everybody hastens to help the sufferer; if some great and sudden calamity befalls a family, the purses of a thousand strangers are at once willingly opened, and small but numerous donations pour in to relieve their distress. It often happens amongst the most civilized nations of the globe, that a poor wretch is as friendless in the midst of a crowd as the savage in his wilds: this is hardly ever the case in the United States. The Americans, who are always cold and often coarse in their manners, seldom show insensibility; and if they do not proffer services eagerly, yet they do not refuse to render them.
+
+All this is not in contradiction to what I have said before on the subject of individualism. The two things are so far from combating each other, that I can see how they agree. Equality of conditions, whilst it makes men feel their independence, shows them their own weakness: they are free, but exposed to a thousand accidents; and experience soon teaches them that, although they do not habitually require the assistance of others, a time almost always comes when they cannot do without it. We constantly see in Europe that men of the same profession are ever ready to assist each other; they are all exposed to the same ills, and that is enough to teach them to seek mutual preservatives, however hard- hearted and selfish they may otherwise be. When one of them falls into danger, from which the others may save him by a slight transient sacrifice or a sudden effort, they do not fail to make the attempt. Not that they are deeply interested in his fate; for if, by chance, their exertions are unavailing, they immediately forget the object of them, and return to their own business; but a sort of tacit and almost involuntary agreement has been passed between them, by which each one owes to the others a temporary support which he may claim for himself in turn. Extend to a people the remark here applied to a class, and you will understand my meaning. A similar covenant exists in fact between all the citizens of a democracy: they all feel themselves subject to the same weakness and the same dangers; and their interest, as well as their sympathy, makes it a rule with them to lend each other mutual assistance when required. The more equal social conditions become, the more do men display this reciprocal disposition to oblige each other. In democracies no great benefits are conferred, but good offices are constantly rendered: a man seldom displays self- devotion, but all men are ready to be of service to one another.

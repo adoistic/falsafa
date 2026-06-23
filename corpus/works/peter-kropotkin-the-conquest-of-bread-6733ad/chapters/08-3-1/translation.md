@@ -1,0 +1,71 @@
+---
+work_id: "6733adbb-7791-5c58-b040-6b5bbf1c5c7e"
+work_slug: "peter-kropotkin-the-conquest-of-bread-6733ad"
+work_title: The Conquest of Bread
+author_name: Peter Kropotkin
+chapter_number: 8
+chapter_title: 3.1
+chapter_slug: "08-3-1"
+variant_id: "f3c27463-dbc2-5d7e-a283-091026818b9a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1916
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1892/bread.htm"
+translator: Marxists Internet Archive edition
+---
+
+Every society, on abolishing private property will be forced, we maintain, to organize itself on the lines of Communistic Anarchy. Anarchy leads to Communism, and Communism to Anarchy, both alike being expressions of the predominant tendency in modern societies, the pursuit of equality.
+
+Time was when a peasant family could consider the corn it sowed and reaped, or the woolen garments woven in the cottage, as the products of its own soil. But even then this way of looking at things was not quite correct. There were the roads and the bridges made in common, the swamps drained by common toil, the communal pastures enclosed by hedges which were kept in repair by each and all. If the looms for weaving or the dyes for colouring fabrics were improved by somebody, all profited; and even in those days a peasant family could not live alone, but was dependent in a thousand ways on the village or the commune.
+
+But nowadays, in the present state of industry, when everything is interdependent, when each branch of production is knit up with all the rest, the attempt to claim an Individualist origin for the products of industry is absolutely untenable. The astonishing perfection attained by the textile or mining industries in civilized countries is due to the simultaneous development of a thousand other industries, great and small, to the extension of the railroad system, to inter-oceanic navigation, to the manual skill of thousands of workers, to a certain standard of culture reached by the working class as a whole – to the labours, in short, of men in every corner of the globe.
+
+The Italians who died of cholera while making the Suez Canal, or of anchylosis in the St. Gothard Tunnel, and the Americans mowed down by shot and shell while fighting for the abolition of slavery, have helped to develop the cotton industry of France and England, as well as the work-girls who languish in the factories of Manchester and Rouen, and the inventor who (following the suggestion of some worker) succeeds in improving the looms.
+
+How then, shall we estimate the share of each in the riches which ALL contribute to amass?
+
+Looking at production from this general, synthetic point of view, we cannot hold with the Collectivists that payment proportionate to the hours of labour rendered by each would be an ideal arrangement, or even a step in the right direction.
+
+Without discussing whether exchange value of goods is really measured in existing societies by the amount of work necessary to produce it – according to the teaching of Adam Smith and Ricardo, in whose footsteps Marx has followed – suffice it to say here, leaving ourselves free to return to the subject later, that the Collectivist ideal appears to us untenable in a society which considers the instruments of labour as a common inheritance. Starting from this principle, such a society would find itself forced from the very outset to abandon all forms of wages.
+
+The migrated individualism of the Collectivist system certainly could not maintain itself alongside a partial communism – the socialization of land and the instruments of production. A new form of property requires a new form of remuneration. A new method of production cannot exist side by side with the old forms of consumption, any more than it can adapt itself to the old forms of political organization.
+
+The wage system arises out of the individual ownership of the land and the instruments of labour. It was the necessary condition for the development of capitalist production, and will perish with it, in spite of the attempt to disguise it as “profit-sharing.” The common possession of the instruments of labour must necessarily bring with it the enjoyment in common of the fruits of common labour.
+
+We hold further that Communism is not only desirable, but that existing societies, founded on Individualism, are inevitably impelled in the direction of Communism. The development of Individualism during the last three centuries is explained by the efforts of the individual to protect himself from the tyranny of Capital and of the State. For a time he imagined, and those who expressed his thought for him declared, that he could free himself entirely from the State and from society. “By means of money,” he said, “I can buy all that I need.” But the individual was on a wrong track, and modern history has taught him to recognize that, without the help of all, he can do nothing, although his strong-boxes are full of gold.
+
+In fact, along this current of Individualism, we find in all modern history a tendency, on the one hand to retain all that remains of the partial Communism of antiquity, and, on the other, to establish the Communist principle in the thousand developments of modern life.
+
+As soon as the communes of the tenth, eleventh, and twelfth centuries had succeeded in emancipating themselves from their lords, ecclesiastical or lay, their communal labour and communal consumption began to extend and develop rapidly. The township – and not private persons – freighted ships and equipped expeditions, for the export of their manufacture, and the benefit arising from the foreign trade did not accrue to individuals, but was shared by all. At the outset, the townships also bought provisions for all their citizens. Traces of these institutions have lingered on into the nineteenth century, and the people piously cherish the memory of them in their legends.
+
+All that has disappeared. But the rural township still struggles to preserve the last traces of this Communism, and it succeeds – except when the State throws its heavy sword into the balance.
+
+Meanwhile new organizations, based on the same principle – to every man according to his needs – spring up under a thousand different forms; for without a certain leaven of Communism the present societies could not exist. In spite of the narrowly egoistic turn given to men’s minds by the commercial system, the tendency towards Communism is constantly appearing, and it influences our activities in a variety of ways.
+
+The bridges, for the use of which a toll was levied in the old days, have become public property and are free to all; so are the high roads, except in the East, where a toll is still exacted from the traveller for every mile of his journey. Museums, free libraries, free schools, free meals for children; parks and gardens open to all; streets paved and lighted, free to all; water supplied to every house without measure or stint – all such arrangements are founded on the principle: “Take what you need.”
+
+The tramways and railways have already introduced monthly and annual season tickets, without limiting the number of journeys taken; and two nations, Hungary and Russia, have introduced on their railways the zone system, which permits the holder to travel five hundred or eight hundred miles for the same price. It is but a short step from that to a uniform charge, such as already prevails in the postal service. In all these innovations, and in a thousand others, the tendency is not to measure the individual consumption. One man wants to travel eight hundred miles, another five hundred. These are personal requirements. There is no sufficient reason why one should pay twice as much as the other because his need is twice as great. Such are the signs which appear even now in our individualist societies.
+
+Moreover, there is a tendency, though still a feeble one, to consider the needs of the individual, irrespective of his past or possible services to the community. We are beginning to think of society as a whole, each part of which is so intimately bound up with the others that a service rendered to one is a service rendered to all.
+
+When you go to a public library – not indeed the National Library of Paris, but, say, into the British Museum or the Berlin Library – the librarian does not ask what services you have rendered to society before giving you the book, or the fifty books, which you require; he even comes to your assistance if you do not know how to manage the catalogue. By means of uniform credentials – and very often a contribution of work is preferred – the scientific society opens its museums, its gardens, its library, its laboratories, and its annual conversaziones to each of its members, whether he be a Darwin, or a simple amateur.
+
+At St. Petersburg, if you are elaborating an invention, you go into a special laboratory, where you are given a place, a carpenter’s bench, a turning lathe, all the necessary tools and scientific instruments, provided only you know how to use them; and you are allowed to work there as long as you please. There are the tools; interest others in your idea; join with fellow workers skilled in various crafts, or work alone if you prefer it. Invent a flying machine, or invent nothing – that is your own affair. You are pursuing an idea – that is enough.
+
+In the same way, those who man the lifeboat do not ask credentials from the crew of a sinking ship; they launch their boat, risk their lives in the raging waves, and sometimes perish, all to save men whom they do not even know. And what need to know them? “They are human beings, and they need our aid – that is enough, that establishes their right – To the rescue!”
+
+Thus we find a tendency, eminently communistic, springing up on all sides, and in various guises, in the very heart of theoretically individualist societies.
+
+Suppose that one of our great cities, so egotistic in ordinary times, were visited to-morrow by some calamity – a siege, for instance – that same selfish city would decide that the first needs to satisfy were those of the children and the aged. Without asking what services they had rendered, or were likely to render to society, it would first of all feed them. Then the combatants would be cared for, irrespective of the courage or the intelligence which each had displayed, and thousands of men and women would outvie each other in unselfish devotion to the wounded.
+
+This tendency exists, and is felt as soon as the most pressing needs of each are satisfied, and in proportion as the productive power of the race increases. It becomes an active force every time a great idea comes to oust the mean preoccupations of everyday life.
+
+How can we doubt, then, that when the instruments of production are placed at the service of all, when business is conducted on Communist principles, when labour, having recovered its place of honour in society, produces much more than is necessary to all – how can we doubt that this force (already so powerful), will enlarge its sphere of action till it becomes the ruling principle of social life?
+
+Following these indications, and considering further the practical side of expropriation, of which we shall speak in the following chapters, we are convinced that our first obligation, when the revolution shall have broken the power upholding the present system, will be to realize Communism without delay.
+
+But ours is neither the Communism of Fourier and the Phalansteriens, nor of the German State Socialists. It is Anarchist Communism, Communism without government – the Communism of the Free. It is the synthesis of the two ideals pursued by humanity throughout the ages – Economic and Political Liberty.

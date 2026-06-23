@@ -4,7 +4,7 @@ work_slug: "james-tyrrell-patriarcha-non-monarcha-2d1ee5"
 work_title: Patriarcha non Monarcha
 author_name: James Tyrrell
 chapter_number: 5
-chapter_title: CHAP. IV.
+chapter_title: Chap. IV.
 chapter_slug: "05-chap-iv"
 variant_id: "3505ec14-6be3-5fca-8126-c4ced15ce06e"
 content_type: translation

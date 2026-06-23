@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-road-to-power-67108f",
+  "work_title": "The Road to Power",
+  "chapter_number": 9,
+  "chapter_title": "IX. A New Period of Revolution",
+  "chapter_slug": "09-ix-a-new-period-of-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "76c7cec3-b605-5478-95aa-b205fb0f0c16",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6340,
+      "paragraph_count": 102,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1909/power/ch09.htm"
+    }
+  ]
+}

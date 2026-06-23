@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 14,
-  "chapter_title": "BOOK I, CHAPTER XI: OF THE FORMATION AND MULTIPLICATION OF CAPITAL.",
+  "chapter_title": "Book I, Chapter XIII: Of Immaterial Products, or Values Consumed at the Moment of Production.",
   "chapter_slug": "14",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3653,
-      "paragraph_count": 27,
+      "word_count": 3419,
+      "paragraph_count": 34,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

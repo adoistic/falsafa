@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 13,
+  "chapter_title": "Chap. XII Of the great Advantage of combining a well digested Theory and a perfect Knowledge of Facts with the practical",
+  "chapter_slug": "13-chap-xii-of-the-great-advantage-of-combining-a-wel",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bbb308e2-c025-562c-b63a-5d3002e482a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2999,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book1_09.htm"
+    }
+  ]
+}

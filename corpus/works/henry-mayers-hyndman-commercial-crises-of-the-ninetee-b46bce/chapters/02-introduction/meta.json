@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-commercial-crises-of-the-ninetee-b46bce",
+  "work_title": "Commercial Crises of the Nineteenth Century",
+  "chapter_number": 2,
+  "chapter_title": "Introduction",
+  "chapter_slug": "02-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1f971463-3e14-5af8-93e8-7aac265215ae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3593,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1892/crises/intro.html"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 12
-chapter_title: "SECT. IV.: Of the Honour of the Nation as affected by the War with America."
+chapter_title: "Sect. IV.: Of the Honour of the Nation as affected by the War with America."
 chapter_slug: "12-sect-iv-of-the-honour-of-the-nation-as-affected-by"
 variant_id: "16dc5ef5-dac9-5024-a2f2-cd31c83078e6"
 content_type: translation

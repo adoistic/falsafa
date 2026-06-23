@@ -2,7 +2,7 @@
   "work_slug": "henry-sumner-maine-ancient-law-78eea2",
   "work_title": "Ancient Law",
   "chapter_number": 6,
-  "chapter_title": "CHAPTER I.: ANCIENT CODES.",
+  "chapter_title": "Chapter II.: Legal Fictions.",
   "chapter_slug": "06",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 4681,
-      "paragraph_count": 13,
+      "word_count": 5323,
+      "paragraph_count": 15,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
     }

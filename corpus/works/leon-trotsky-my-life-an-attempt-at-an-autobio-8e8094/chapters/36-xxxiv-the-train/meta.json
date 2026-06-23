@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 36,
+  "chapter_title": "XXXIV. The Train",
+  "chapter_slug": "36-xxxiv-the-train",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "40bf1862-207c-51db-9bbe-9aaa57552d9e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4754,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch34.htm"
+    }
+  ]
+}

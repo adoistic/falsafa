@@ -4,7 +4,7 @@ work_slug: "friedrich-von-wieser-natural-value-f25830"
 work_title: Natural Value
 author_name: Friedrich von Wieser
 chapter_number: 2
-chapter_title: "AUTHOR'S PREFACE"
+chapter_title: "Author's Preface"
 chapter_slug: "02-authors-preface"
 variant_id: "5919ee1c-d115-589f-b9d1-2f8a2221ab28"
 content_type: translation

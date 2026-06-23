@@ -1,0 +1,26 @@
+{
+  "work_slug": "otto-bauer-the-high-cost-of-living-37e1e9",
+  "work_title": "The High Cost of Living",
+  "chapter_number": 4,
+  "chapter_title": "The Urbanisation of Population",
+  "chapter_slug": "04-the-urbanisation-of-population",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e32e25c-ef95-53e1-bb7b-bbc5d5cfe96b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 757,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bauer/1914/08/costliving.html"
+    }
+  ]
+}

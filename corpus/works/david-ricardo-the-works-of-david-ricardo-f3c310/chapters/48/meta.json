@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 48,
-  "chapter_title": "SECTION III.: Supposed Fact of a Premium on English Currency in America—Favourable Exchange with Sweden.",
+  "chapter_title": "Section IV.: A Statement concerning the Par of Exchange, by the Bullion Committee, examined.",
   "chapter_slug": "48",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 600,
-      "paragraph_count": 4,
+      "word_count": 793,
+      "paragraph_count": 9,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

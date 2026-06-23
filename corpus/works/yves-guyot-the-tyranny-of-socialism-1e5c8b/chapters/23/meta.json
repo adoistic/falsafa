@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-the-tyranny-of-socialism-1e5c8b",
+  "work_title": "The Tyranny of Socialism",
+  "chapter_number": 23,
+  "chapter_title": "Chapter XII, The Game of the Gullible.",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cf1d5af7-c0e4-50a9-bcd0-3c53e24cc184",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 582,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-the-tyranny-of-socialism"
+    }
+  ]
+}

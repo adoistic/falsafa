@@ -4,7 +4,7 @@ work_slug: "george-grote-essentials-of-parliamentary-refo-57d7e4"
 work_title: Essentials of Parliamentary Reform
 author_name: George Grote
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "5dc6d695-75c4-57b1-825a-42d25caa541f"
 content_type: translation

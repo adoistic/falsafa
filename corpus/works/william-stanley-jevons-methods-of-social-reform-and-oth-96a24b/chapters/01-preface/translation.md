@@ -4,7 +4,7 @@ work_slug: "william-stanley-jevons-methods-of-social-reform-and-oth-96a24b"
 work_title: Methods of Social Reform and Other Papers
 author_name: William Stanley Jevons
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "9d9bf21b-e3bf-5d1a-8f12-d8a0be8beb5d"
 content_type: translation

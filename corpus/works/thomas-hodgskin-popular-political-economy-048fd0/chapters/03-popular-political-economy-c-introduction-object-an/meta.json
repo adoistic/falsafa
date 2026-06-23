@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hodgskin-popular-political-economy-048fd0",
+  "work_title": "Popular Political Economy",
+  "chapter_number": 3,
+  "chapter_title": "Popular Political Economy, &c, Introduction. Object and Scope of Political Economy.",
+  "chapter_slug": "03-popular-political-economy-c-introduction-object-an",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e47beb84-dc8e-59a3-8afa-c83f83bad5d1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12081,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hodgskin-popular-political-economy-four-lectures-delivered-at-the-london-mechanics-institution"
+    }
+  ]
+}

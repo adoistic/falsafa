@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-mass-strike-the-political-pa-0ea472",
+  "work_title": "The Mass Strike, the Political Party and the Trade Unions",
+  "chapter_number": 5,
+  "chapter_title": "Lessons of the Working-Class Movement in Russia Applicable to Germany",
+  "chapter_slug": "05-lessons-of-the-working-class-movement-in-russia-ap",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "632d2888-6135-50f2-969b-0267e4d72973",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2547,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1906/mass-strike/ch05.htm"
+    }
+  ]
+}

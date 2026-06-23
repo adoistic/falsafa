@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-terrorism-and-communism-a-contri-a2ee74",
+  "work_title": "Terrorism and Communism: A Contribution to the Natural History of Revolution",
+  "chapter_number": 23,
+  "chapter_title": "Corruption",
+  "chapter_slug": "23-corruption",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "32a7b3e6-26d9-5a24-a27f-3f3411bea120",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3477,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1919/terrcomm/ch08.htm"
+    }
+  ]
+}

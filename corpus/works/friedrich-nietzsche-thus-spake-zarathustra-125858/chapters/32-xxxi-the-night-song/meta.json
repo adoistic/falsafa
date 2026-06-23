@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 32,
+  "chapter_title": "XXXI. The Night-song.",
+  "chapter_slug": "32-xxxi-the-night-song",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8188e8ff-416a-536c-90f4-623ed2d3a880",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 539,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1f7a6c1a-b860-5c0d-a280-fd6d602ae6ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 597,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

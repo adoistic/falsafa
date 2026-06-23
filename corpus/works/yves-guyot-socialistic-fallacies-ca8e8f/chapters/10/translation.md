@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 10
-chapter_title: "CHAPTER VI: Morelly and the “Code de la Nature“"
+chapter_title: "Chapter VI: Morelly and the “Code de la Nature“"
 chapter_slug: 10
 variant_id: "b8dfbef5-3088-5208-aeab-12bfe29a6ade"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 533
+word_count: 529
 source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
 translator: Online Library of Liberty edition
 ---
@@ -24,7 +24,7 @@ In 1753 Morelly, an author of whom few details are known, published two volumes 
 
 The “Code de la Nature” appeared in 1754, a year after Rousseau's essay, “L'Origine de l'inegalité parmi les hommes.” The author starts with the same idea, “The earth belongs to no man.” He sets up a model of legislation “in conformity with the designs of nature.” His inspiration is derived from Moore and Campanella and he is entitled to be considered as having inspired all the communists and collectivists who have succeeded him, including our contemporaries. The essential conditions of his system are as follows:—
 
-Essential unity of property and of living in common: establishing the common use of instruments of labour and of products: rendering education equally Edition: current; Page: [47] accessible to all: distribution of work according to capacity and of its produce according to needs: preservation round the city of land sufficient for those who dwell in it.
+Essential unity of property and of living in common: establishing the common use of instruments of labour and of products: rendering education equally accessible to all: distribution of work according to capacity and of its produce according to needs: preservation round the city of land sufficient for those who dwell in it.
 
 Association of at least one thousand persons in order that, while every one works in accordance with his power and capacity, and consumes according to his needs and his tastes, there may be set up for a sufficient number of individuals an average of consumption which does not exceed the common resources, and a total resultant of work which supplies them in sufficient abundance.
 

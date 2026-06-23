@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 12,
+  "chapter_title": "Chapter 11 : Bolshevik Activities",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2946bfcc-660c-5660-b67e-ecc88cb68960",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1557,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-11.html"
+    }
+  ]
+}

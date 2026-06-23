@@ -4,7 +4,10 @@ slug: "sallust-bellum-iugurthinum-42bb8f"
 title: Bellum Iugurthinum
 author:
   name: Sallust
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman politician and historian of the late Republic, a partisan of Caesar who retired to write after his political career. His monographs on the Catilinarian conspiracy and the war against Jugurtha turned the moralizing analysis of Rome's decline into a model of Latin prose historiography."
+  birth_year: -86
+  death_year: -35
+  nationality: Roman
 era: Hellenistic
 genre: Classics
 language: Latin

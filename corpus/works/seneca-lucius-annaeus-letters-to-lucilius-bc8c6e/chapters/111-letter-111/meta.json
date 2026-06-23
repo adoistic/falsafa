@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 111,
+  "chapter_title": "Letter 111",
+  "chapter_slug": "111-letter-111",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a2433cd9-1ee5-5c15-a0e0-b06ef128f74e",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 265,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "daf53524-3306-5c10-afba-b4702cfcf27d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 400,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

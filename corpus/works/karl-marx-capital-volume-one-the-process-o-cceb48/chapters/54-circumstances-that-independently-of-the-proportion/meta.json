@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 54,
+  "chapter_title": "Circumstances That, Independently of the Proportional Division of Surplus-value into Capital and Revenue, Determine the ",
+  "chapter_slug": "54-circumstances-that-independently-of-the-proportion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d6e6d7d8-bf1d-5499-83fb-59df625f9990",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3161,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch24.htm"
+    }
+  ]
+}

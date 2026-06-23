@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7",
+  "work_title": "Memoirs of a Revolutionist",
+  "chapter_number": 44,
+  "chapter_title": "Part 4: St. Petersburg; First Journey to Western Europe, Section 15",
+  "chapter_slug": "44",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd6fd3b0-3195-5848-ae24-bdebae6904fa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4057,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1899/memoirs-of-a-revolutionist/part-4-section-15.html"
+    }
+  ]
+}

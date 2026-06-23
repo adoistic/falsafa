@@ -1,0 +1,26 @@
+{
+  "work_slug": "walter-bagehot-lombard-street-a-description-of--8cb363",
+  "work_title": "Lombard Street: A Description of the Money Market",
+  "chapter_number": 1,
+  "chapter_title": "The Money Market, Econlib Editor's Notes",
+  "chapter_slug": "01-the-money-market-econlib-editors-notes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "511e236e-9ba0-52de-b052-1f850e6ba1ae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 471,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bagehot-lombard-street-a-description-of-the-money-market"
+    }
+  ]
+}

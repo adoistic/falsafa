@@ -1,0 +1,47 @@
+---
+work_id: "7cffc718-3bcb-59e5-9a8f-221624d15fd5"
+work_slug: "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7"
+work_title: Memoirs of a Revolutionist
+author_name: Peter Kropotkin
+chapter_number: 19
+chapter_title: "Part 2: The Corps of Pages, Section 7"
+chapter_slug: 19
+variant_id: "de771eeb-0495-5283-9f36-bcb62f8f54f8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1499
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1899/memoirs-of-a-revolutionist/part-2-section-7.html"
+translator: Marxists Internet Archive edition
+---
+
+Every summer we went out camping at Peterhof, with the other military schools of the St Petersburg district. On the whole, our life there was very pleasant, and certainly it was excellent for our health: we slept in spacious tents, bathed in the sea, and spent a great deal of time during the six weeks in open-air exercise.
+
+In military schools the main purpose of camp life was evidently military drill, which we all disliked very much, but the dullness of which was occasionally relieved by making us take part in maneuvers. One night, as we were going to bed, Alexander II aroused the whole camp by having the alert sounded. In a few minutes all the camp was alive, -- several thousand boys gathering round their colors, and the guns of the artillery school booming in the stillness of the night. All military Peterhof came galloping to the camp, but owing to some misunderstanding the Emperor remained on foot. Orderlies hurried in all directions to get a horse for him, but there was none, and not being a good rider, he would not ride any horse but one of his own. He was very angry, and freely gave vent to his anger. "Imbecile (durák), have I only one horse?" I heard him shout to an orderly who reported that his horse was in another camp.
+
+With the coming darkness, the booming of the guns, and the rattling of the cavalry, we boys grew very excited, and when Alexander ordered a charge, our column charged straight upon him. Tightly packed in the ranks, with lowered bayonets, we must have had a menacing aspect; and I saw the Emperor, who was still on foot, clearing the way for the column in three formidable jumps. I understood then the meaning of a column which marches in serried ranks under the excitement of the music and the march itself. There stood before us the Emperor, our commander, whom we all venerated; but I felt that in this moving mass not one page or cadet would have moved an inch aside or stopped to make room for him. We were the marching column, he was but an obstacle, and the column would have marched over him. "Why should he be in our way?" the pages said afterwards. Boys, rifle in hand, are even more terrible in such cases than old soldiers."
+
+Next year, when we took part in the great maneuvers of the St Petersburg garrison, I saw some of the sidelights of warfare. For two days in succession we did nothing but march up and down in a space of about twenty miles, without having the slightest idea of what was going on round us, or for what purpose we were marched. Cannon boomed now in our neighborhood and now far away; sharp musketry fire was heard somewhere in the hills and the woods; orderlies galloped up and down, bringing an order to advance and next an order to retreat; and we marched, marched, and marched, seeing no sense in all the movements and counter movements. Masses of cavalry had passed along the same road, making it a deep bed of movable sand, and we had to advance and retreat several times over the same ground, till at last our column broke all discipline and became an incoherent mass of pilgrims rather than a military unit. The color guard alone remained in the road; the remainder slowly paced along the sides of the road in the wood. The orders and the supplications of the officers were of no avail.
+
+Suddenly a shout came from behind: "The Emperor is coming! The Emperor!" The officers ran about, begging us to form ranks: nobody listened to them.
+
+The Emperor came, and ordered a retreat once more. "About!" the word of command rang out. "The Emperor is behind us; please turn round," the officers whispered; but the battalion took hardly any notice of the command, and none whatever of the presence of the Emperor. Happily, Alexander II was no fanatic of militarism, and after having said a few words to cheer us, with a promise of rest, he galloped off.
+
+I understood then how much depends in warfare upon the state of mind of the troops, and how little can be done by mere discipline when more than an average effort is required from the soldiers. What can discipline do when tired troops have to make a supreme effort to reach the field of battle at a given hour! It is absolutely powerless; only enthusiasm and confidence can at such moments induce the soldiers to do "the impossible," and it is the impossible that continually must be accomplished to secure success. How often I recalled to memory that object lesson later on, in Siberia, when we also had to do "the impossible" during our scientific expeditions!
+
+Comparatively little of our time, however, during our stay in camp was given to military drill and maneuvers. A good deal of it was employed in practical work in surveying and fortification. After a few preliminary exercises we were given a reflecting compass and told, "Go and make a plan of, say , this lake, or those roads, or that park, measuring the angles with the compass and the distances by pacing." Early in the morning, after a hurriedly swallowed breakfast, a boy would fill his capacious military pockets with slices of rye bread, and would go out for four or five hours in the parks, miles away, mapping with his compass and paces the beautiful shady roads, the rivulets, and the lakes. His work was afterwards compared with accurate maps, and prizes in optical and drawing instruments, at the boy's choice, were awarded. For me, these surveys were a deep source of enjoyment. The independent work, the isolation under the centuries-old trees, the life of the forest which I could enjoy undisturbed, while there was at the same time the interest in the work, -- all these left deep traces on my mind; and when I became an explorer of Siberia, and several of my comrades became explorers of central Asia, these surveys were found to have been an excellent preparation.
+
+Finally, in the last form, parties of four boys were taken every second day to some villages at a considerable distance from the camp, and there they had to make a detailed survey of several square miles, with the aid of the surveyor's table and a telescopic ruler. Officers of the general staff came from time to time to verify their work and to advise them. This life amid the peasants in the villages had the best effect upon the intellectual and moral development of the boys.
+
+At the same time there were exercises in the construction of natural size cross-sections of fortifications. We were taken out by an officer into the open field, and there we had to make the profile of the bastion, or of a complicated bridge head, nailing battens and poles together in exactly the same way as railway engineers do in tracing a railway. When it came to embrasures and barbettes, we had to calculate a great deal in order to obtain the inclinations of the different planes, and after that geometry ceased to be difficult to understand.
+
+We delighted in such work, and once, in town, finding in our garden a heap of clay and gravel, we began to build a real fortification on a reduced scale, with well calculated straight and oblique embrasures and barbettes. All was done very neatly, and our ambition now was to obtain some planks for making the platforms for the guns, and to place upon them the model guns which we had in our classrooms. But, alas! Our trousers wore an alarming aspect. "What are you doing there?" our captain exclaimed. "Look at yourselves! You look like navvies" (that was exactly what we were proud of). "What if the grand duke comes and fins you in such a state!"
+
+"We will show him our fortification and ask him to get us tools and boards for the platforms."
+
+All protests were vain. A dozen workmen were sent next day to cart away our beautiful structure as if it were a mere heap of mud!
+
+I mention this to show how children and youths long for the application of what they learn at school in the abstract, and how stupid are the educators who are unable to see what a powerful aid they could find in this direction for helping their pupils to grasp the real sense of the things they learn. In our school, all was directed towards training us for warfare; we should have worked with the same enthusiasm, however, at laying out a railway, at building a log house, or at cultivating a garden or a field. But all this longing of children and youths for real work is wasted simply because our idea of the school is still the mediæval scholasticism, the mediæval monastery.

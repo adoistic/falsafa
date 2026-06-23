@@ -4,7 +4,7 @@ work_slug: "joseph-priestley-letters-to-the-right-honourable--7226ba"
 work_title: Letters to the Right Honourable Edmund Burke
 author_name: Joseph Priestley
 chapter_number: 1
-chapter_title: THE PREFACE.
+chapter_title: The Preface.
 chapter_slug: "01-the-preface"
 variant_id: "d4f0d437-f80d-54c9-81e3-312830156c48"
 content_type: translation

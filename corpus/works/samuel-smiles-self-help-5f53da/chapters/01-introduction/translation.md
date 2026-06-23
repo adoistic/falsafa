@@ -4,7 +4,7 @@ work_slug: "samuel-smiles-self-help-5f53da"
 work_title: "Self-Help"
 author_name: Samuel Smiles
 chapter_number: 1
-chapter_title: INTRODUCTION.
+chapter_title: Introduction.
 chapter_slug: "01-introduction"
 variant_id: "2da38132-6924-5027-9f45-b8b73c8fc563"
 content_type: translation

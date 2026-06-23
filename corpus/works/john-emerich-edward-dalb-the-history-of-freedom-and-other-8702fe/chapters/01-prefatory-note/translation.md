@@ -4,7 +4,7 @@ work_slug: "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe"
 work_title: The History of Freedom and Other Essays
 author_name: "John Emerich Edward Dalberg-Acton (Lord Acton)"
 chapter_number: 1
-chapter_title: PREFATORY NOTE
+chapter_title: Prefatory Note
 chapter_slug: "01-prefatory-note"
 variant_id: "b16d53b6-7e81-5fa2-a623-109862303b0a"
 content_type: translation

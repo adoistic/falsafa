@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 45,
+  "chapter_title": "Cap. 21.: Officium Militis Argentarii & Fusoris.",
+  "chapter_slug": "45-cap-21-officium-militis-argentarii-fusoris",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "13b2e225-493c-53ef-a69c-578630d11140",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 502,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

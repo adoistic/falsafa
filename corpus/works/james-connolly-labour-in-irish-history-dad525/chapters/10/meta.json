@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-labour-in-irish-history-dad525",
+  "work_title": "Labour in Irish History",
+  "chapter_number": 10,
+  "chapter_title": "Chapter VIII United Irishmen as democrats and internationalists",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ed81d68-dc7b-5ec9-b798-b8d7974e49fd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3486,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1910/lih/chap08.htm"
+    }
+  ]
+}

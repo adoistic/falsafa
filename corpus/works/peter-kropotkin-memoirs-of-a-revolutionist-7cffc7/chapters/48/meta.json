@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7",
+  "work_title": "Memoirs of a Revolutionist",
+  "chapter_number": 48,
+  "chapter_title": "Part 5: The Fortress; The Escape, Section 3",
+  "chapter_slug": "48",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "051b9d0b-5386-5e09-8e9f-13604e5af2b1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1865,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1899/memoirs-of-a-revolutionist/part-5-section-3.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-dewey-democracy-and-education-df209d",
+  "work_title": "Democracy and Education",
+  "chapter_number": 7,
+  "chapter_title": "Chapter Seven — The Democratic Conception in Education",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "01c0d86f-a9ac-5ccf-a231-df02d3708bfd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7272,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/852"
+    }
+  ]
+}

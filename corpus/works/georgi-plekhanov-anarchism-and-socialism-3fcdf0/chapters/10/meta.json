@@ -1,0 +1,26 @@
+{
+  "work_slug": "georgi-plekhanov-anarchism-and-socialism-3fcdf0",
+  "work_title": "Anarchism and Socialism",
+  "chapter_number": 10,
+  "chapter_title": "Chapter IX. Conclusion",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c4e437ba-529e-50bd-9707-b73f4b089e3e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1220,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/plekhanov/1895/anarch/ch09.htm"
+    }
+  ]
+}

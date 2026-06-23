@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2684
+word_count: 2672
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
 
-Assuming it now to be proved that the “obligation of contracts,” which the States are forbidden to “impair,” is the natural “obligation”; and that, constitutionally Edition: current; Page: [61] speaking, this provision secures, to all the people of the United States, the right to enter into, and have the benefit of, all contracts whatsoever, that have that one natural “obligation,” let us look at some of the more important of those State laws that have either impaired that obligation, or prohibited the exercise of that right.
+Assuming it now to be proved that the “obligation of contracts,” which the States are forbidden to “impair,” is the natural “obligation”; and that, constitutionally speaking, this provision secures, to all the people of the United States, the right to enter into, and have the benefit of, all contracts whatsoever, that have that one natural “obligation,” let us look at some of the more important of those State laws that have either impaired that obligation, or prohibited the exercise of that right.
 
 1. That law, in all the States, by which any, or all, the contracts of persons, under twenty-one years of age, are either invalidated, or forbidden to be entered into.
 
@@ -34,7 +34,7 @@ A married woman has the same natural right to acquire and hold property, and to 
 
 3. All those State laws, commonly called acts of incorporation, by which a certain number of persons are licensed to contract debts, without having their individual properties held liable to pay them, are laws impairing the natural obligation of their contracts.
 
-On natural principles of law and reason, these persons are simply partners; and their private properties, like those of any other partners, should be held liable for Edition: current; Page: [62] their partnership debts. Like any other partners, they take the profits of their business, if there be any profits. And they are naturally bound to take all the risks of their business, as in the case of any other business. For a law to say that, if they make any profits, they may put them all into their own pockets, but that, if they make a loss, they may throw it upon their creditors, is an absurdity and an outrage. Such a law is plainly a law impairing the natural obligation of their contracts.
+On natural principles of law and reason, these persons are simply partners; and their private properties, like those of any other partners, should be held liable for their partnership debts. Like any other partners, they take the profits of their business, if there be any profits. And they are naturally bound to take all the risks of their business, as in the case of any other business. For a law to say that, if they make any profits, they may put them all into their own pockets, but that, if they make a loss, they may throw it upon their creditors, is an absurdity and an outrage. Such a law is plainly a law impairing the natural obligation of their contracts.
 
 4. All State insolvent laws, so-called, that distribute a debtor’s property equally among his creditors, are laws impairing the natural obligation of his contracts.
 
@@ -72,7 +72,7 @@ The answer to such an argument as this, would be, that it is a natural truth tha
 
 Or the courts might as well have said that, if the constitution had declared that “no State shall pass any law impairing the obligation of contracts made for the purchase of food,” that provision could have been evaded by a State law forbidding any contract to be made for the purchase of food; and then saying that such contract, being illegal, could have no “obligation,” that could be impaired.
 
-The answer to this argument would be that, by forbidding any State law impairing the obligation of contracts made for the purchase of food, the constitution presupposes, implies, assumes, and asserts that such contracts have, and always Edition: current; Page: [64] will have, a natural “obligation”; and that this natural “obligation” is the very “obligation,” which the constitution forbids any State law to impair.
+The answer to this argument would be that, by forbidding any State law impairing the obligation of contracts made for the purchase of food, the constitution presupposes, implies, assumes, and asserts that such contracts have, and always will have, a natural “obligation”; and that this natural “obligation” is the very “obligation,” which the constitution forbids any State law to impair.
 
 So in regard to all other contracts. The constitution presupposes, implies, assumes, and asserts the natural truth, that certain contracts have, and always necessarily will have, a natural “obligation.” And this natural “obligation”—which is the only real obligation that any contract can have—is the very one that the constitution forbids any State law to impair, in the case of any contract whatever that has such obligation.
 

@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-system-of-economical-contradicti-358ea4",
+  "work_title": "System of Economical Contradictions: or, The Philosophy of Poverty",
+  "chapter_number": 22,
+  "chapter_title": "Chapter VIII. Of the Responsibility of Man and Of God, Under the Law of Contradiction, Or a Solution of the Problem of P",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b476aab5-b937-5de1-a9a7-2f834d9680f5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1745,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/philosophy/ch08.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-anarchism-encyclopaedia-britanni-010980",
+  "work_title": "Anarchism (Encyclopaedia Britannica article)",
+  "chapter_number": 2,
+  "chapter_title": "The historical development of anarchism",
+  "chapter_slug": "02-the-historical-development-of-anarchism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f6182d25-714e-51a1-907f-95ded7f69bbb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2084,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1910/britannica.htm"
+    }
+  ]
+}

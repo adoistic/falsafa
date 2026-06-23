@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-letters-on-logic-especially-demo-eae59e",
+  "work_title": "Letters on Logic. Especially Democratic-Proletarian Logic",
+  "chapter_number": 8,
+  "chapter_title": "Eighth Letter",
+  "chapter_slug": "08-eighth-letter",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5cc31f80-aeac-5f8c-92aa-7d02591d0f86",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2143,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1870s/letters-on-logic.htm"
+    }
+  ]
+}

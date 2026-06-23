@@ -1,0 +1,26 @@
+{
+  "work_slug": "ferdinand-lassalle-the-french-national-workshops-of-0f91d8",
+  "work_title": "The French National Workshops of 1848",
+  "chapter_number": 1,
+  "chapter_title": "The French National Workshops of 1848",
+  "chapter_slug": "01-the-french-national-workshops-of-1848",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ed164f75-161d-5dab-ac27-d06efdf81b2a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2984,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lassalle/1906/04/workshops-1848.htm"
+    }
+  ]
+}

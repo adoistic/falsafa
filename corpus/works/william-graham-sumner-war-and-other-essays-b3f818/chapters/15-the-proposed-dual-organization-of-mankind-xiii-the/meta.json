@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-war-and-other-essays-b3f818",
+  "work_title": "War and Other Essays",
+  "chapter_number": 15,
+  "chapter_title": "The Proposed Dual Organization of Mankind, XIII: The Proposed Dual Organization of Mankind [1896]",
+  "chapter_slug": "15-the-proposed-dual-organization-of-mankind-xiii-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3948b40e-8d47-58fd-ae15-ef0f2409a029",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3169,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-war-and-other-essays"
+    }
+  ]
+}

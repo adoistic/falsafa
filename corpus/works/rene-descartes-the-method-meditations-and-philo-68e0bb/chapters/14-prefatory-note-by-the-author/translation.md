@@ -4,7 +4,7 @@ work_slug: "rene-descartes-the-method-meditations-and-philo-68e0bb"
 work_title: The Method, Meditations, and Philosophy of Descartes
 author_name: René Descartes
 chapter_number: 14
-chapter_title: PREFATORY NOTE BY THE AUTHOR.
+chapter_title: Prefatory Note by the Author.
 chapter_slug: "14-prefatory-note-by-the-author"
 variant_id: "469fd525-1010-5b33-b70c-1658a4c20858"
 content_type: translation

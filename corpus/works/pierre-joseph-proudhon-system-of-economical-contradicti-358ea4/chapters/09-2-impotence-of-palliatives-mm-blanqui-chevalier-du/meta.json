@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-system-of-economical-contradicti-358ea4",
+  "work_title": "System of Economical Contradictions: or, The Philosophy of Poverty",
+  "chapter_number": 9,
+  "chapter_title": "2. Impotence of palliatives. — MM. Blanqui, Chevalier, Dunoyer, Rossi, and Passy.",
+  "chapter_slug": "09-2-impotence-of-palliatives-mm-blanqui-chevalier-du",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8995c189-41f5-574b-be1c-215971bf9aaf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7040,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/philosophy/ch03.htm"
+    }
+  ]
+}

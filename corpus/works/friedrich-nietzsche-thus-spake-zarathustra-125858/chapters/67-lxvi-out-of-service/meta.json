@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 67,
+  "chapter_title": "LXVI. Out of Service.",
+  "chapter_slug": "67-lxvi-out-of-service",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "38271c4a-4536-5265-90f1-3753a628a5f6",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 1321,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "00fbe80d-fb0d-5c04-80b4-a1f55a07a59b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1434,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

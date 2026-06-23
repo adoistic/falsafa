@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 83,
+  "chapter_title": "Chap. IX.: Of Form in the judicial Part.",
+  "chapter_slug": "83-chap-ix-of-form-in-the-judicial-part",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9bc54486-5048-5773-b28a-e1a4a001ea71",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 838,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

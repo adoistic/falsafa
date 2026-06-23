@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-why-the-war-came-as-a-surprise-00b80c",
+  "work_title": "Why the War Came as a Surprise",
+  "chapter_number": 1,
+  "chapter_title": "Why the War Came as a Surprise",
+  "chapter_slug": "01-why-the-war-came-as-a-surprise",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "48b8ba09-662e-5934-a1b1-d77b590d1ff1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8096,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1920/09/war.htm"
+    }
+  ]
+}

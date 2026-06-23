@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-england-for-all-528b1d",
+  "work_title": "England For All",
+  "chapter_number": 11,
+  "chapter_title": "Conclusion",
+  "chapter_slug": "11-conclusion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52ddfb06-ea1e-5d0e-95ad-fac48d4025f5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 516,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1881/england/conclusion.html"
+    }
+  ]
+}

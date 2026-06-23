@@ -4,7 +4,10 @@ slug: "andrew-fletcher-of-salto-selected-political-writings-and--3dd8a8"
 title: Selected Political Writings and Speeches
 author:
   name: Andrew Fletcher of Saltoun
-  biography: Andrew Fletcher of Saltoun (1653–1716).
+  biography: "Scottish laird, soldier, and member of the last Scottish Parliament, the leading opponent of the parliamentary Union with England. His discourses on militias, trade, and government argued for a self-governing Scotland within a confederated Britain."
+  birth_year: 1653
+  death_year: 1716
+  nationality: Scottish
 era: Enlightenment
 genre: Political Theory
 language: English
@@ -22,8 +25,8 @@ Selected Political Writings and Speeches, by Andrew Fletcher of Saltoun (1653–
 
 ## Chapters
 
-01. [THE ASSOCIATION FOR SCOTTISH LITERARY STUDIES annual volumes published by scottish academic press](./chapters/01-the-association-for-scottish-literary-studies-annu/) — prose, 1 variant
-02. [A DISCOURSE OF GOVERNMENT with relation to MILITIAS](./chapters/02-a-discourse-of-government-with-relation-to-militia/) — prose, 1 variant
+01. [The Association for Scottish Literary Studies annual volumes published by scottish academic press](./chapters/01-the-association-for-scottish-literary-studies-annu/) — prose, 1 variant
+02. [Acknowledgement, A Discourse of Government with relation to MILITIAS](./chapters/02-acknowledgement-a-discourse-of-government-with-rel/) — prose, 1 variant
 03. [the first DISCOURSE](./chapters/03-the-first-discourse/) — prose, 1 variant
 04. [the second DISCOURSE concerning the AFFAIRS OF SCOTLAND; written in the year 1698](./chapters/04-the-second-discourse-concerning-the-affairs-of-sco/) — prose, 1 variant
 05. [I](./chapters/05-i/) — prose, 1 variant

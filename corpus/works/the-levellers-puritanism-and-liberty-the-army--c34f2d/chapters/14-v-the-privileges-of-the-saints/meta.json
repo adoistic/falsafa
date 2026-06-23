@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 14,
+  "chapter_title": "V.: The Privileges of the Saints",
+  "chapter_slug": "14-v-the-privileges-of-the-saints",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6221f87c-6293-5303-8e89-0e195b168523",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6592,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

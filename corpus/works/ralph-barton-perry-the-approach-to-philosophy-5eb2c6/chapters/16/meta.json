@@ -1,0 +1,26 @@
+{
+  "work_slug": "ralph-barton-perry-the-approach-to-philosophy-5eb2c6",
+  "work_title": "The Approach to Philosophy",
+  "chapter_number": 16,
+  "chapter_title": "Chapter X — , Absolute Realism",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "740ed3d4-7d3e-511e-a8f5-79ca162d6cc3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 99,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/25110"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-law-of-accumulation-and-brea-4449c7",
+  "work_title": "The Law of Accumulation and Breakdown of the Capitalist System",
+  "chapter_number": 1,
+  "chapter_title": "Introduction",
+  "chapter_slug": "01-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4eeb0f5b-9810-5dff-9cd5-0cace1622bf8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1875,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/introduction.htm"
+    }
+  ]
+}

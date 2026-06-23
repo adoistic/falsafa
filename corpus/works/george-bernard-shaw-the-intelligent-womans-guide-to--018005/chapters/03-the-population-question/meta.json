@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-bernard-shaw-the-intelligent-womans-guide-to--018005",
+  "work_title": "The Intelligent Woman's Guide to Socialism, Capitalism, Sovietism and Fascism (excerpts)",
+  "chapter_number": 3,
+  "chapter_title": "The Population Question",
+  "chapter_slug": "03-the-population-question",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "50e93a4a-bcce-5b6b-ab89-b14a3121b827",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3944,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/shaw/works/pop.htm"
+    }
+  ]
+}

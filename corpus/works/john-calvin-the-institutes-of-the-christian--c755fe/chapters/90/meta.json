@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 90,
+  "chapter_title": "Chapter XX.: Of Prayer—a Perpetual Exercise of Faith. The Daily Benefits Derived from It.",
+  "chapter_slug": "90",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe34ce7d-fb71-560a-9301-646e862a2530",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 156,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+---
+work_id: "9854ed81-f7ef-52b6-99c9-8ce949767ef2"
+work_slug: "nikolai-bukharin-the-abc-of-communism-9854ed"
+work_title: The ABC of Communism
+author_name: Nikolai Bukharin
+chapter_number: 15
+chapter_title: â§ 18 The concentration and centralization of capital as causal factors of communism
+chapter_slug: "15-a-18-the-concentration-and-centralization-of-capit"
+variant_id: "ed0ffdf9-1c1f-5bdd-a88a-879fd6b79361"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 649
+source_url: "https://www.marxists.org/archive/bukharin/works/1920/abc/02.htm"
+translator: Marxists Internet Archive edition
+---
+
+Capitalism, as we have seen, digs its own grave. For it creates its own grave-diggers, the proletarians. The more it develops, the more does it multiply those who are its mortal enemies, and the more does it unite them against itself. But it does not merely breed its enemies. It likewise prepares the ground for a new organization of social production, for a new economic order which will be comradely and communistic. How does it do this? We shall speedily give the answer.
+
+We have previously seen (glance at or reread Â§11 'Capital') that capital is continually increasing in amount. The capitalist adds to his capital, part of the surplus value which he extracts from the working class. By such means, capital grows larger. But if capital increases in amount, this implies that production must extend. The increase in capital, the growth of the amount held by one pair of hands, is termed the accumulation or concentration of capital.
+
+We have likewise seen (refer to Â§14. The struggle between large-scale and small-scale production') that the development of capitalism involves the decay of small-scale and mediumscale production; that the small and medium producers and traders are ruined, not to speak of the independent artisans; we have seen that the great capitalist gobbles them all up. The capital which was previously owned by the small and medium capitalists slips from their grasp, and by various routes finds its way into the maw of the big sharks. The capital owned by the great capitalists is consequently increased by the amount which they have wrested from the lesser capitalists. There is now an accumulation of capital in the hands of one individual, an accumulation of what had previously been distributed among various hands. Now, after the ruin of the lesser capitalists, their capital has become the spoil of the victors. This accumulation of capital which had previously been dispersed is spoken of as the centralization of capital.
+
+The concentration and centralization of capital, the accumulation of capital in a few hands, does not as yet imply the concentration and centralization of production. Let us suppose that a capitalist has used the accumulation of surplus value to buy a small factory from a neighbour, and that he keeps this factory running on the old lines. Here accumulation has taken place, but there is no change in production. Usually, however, things take a different course. In actual fact it much more frequently happens that the capitalist (because it is profitable to him) remodels and extends production, that he enlarges his factories. This results, not merely in the expansion of capital, but in the expansion of production itself. Production is conducted on an enormous scale, utilizing vast quantities of machinery, and assembling many thousands of workers. It may happen that a dozen or so of huge factories will supply the demand of a whole country for a particular commodity. Essentially what happens is that the workers are producing for the whole of society, that labour, as the phrase goes, has been socialized. But control and profit are still in the hands of the capitalist.
+
+Such a centralization and concentrationof production actually paves the way for cooperative production after the proletarian revolution.
+
+Had this concentration of production not taken place, if the proletariat were to seize power at a time when the work of production was carried on in a hundred thousand tiny workshops each employing no more than two or three workers, it would be impossible to organize these workshops satisfactorily, to inaugurate social production. The further capitalism has developed and the more highly centralized production has become, the easier will it be for the proletariat to manage production after the victory.
+
+THUS CAPITALISM DOES NOT MERELY CREATE ITS OWN ENEMIES AND DOES NOT ONLY LEAD TO THE COMMUNIST REVOLUTION, BUT IT BRINGS INTO BEING THE ECONOMIC BASIS FOR THE REALIZATION OF THE COMMUNIST SOCIAL ORDER.

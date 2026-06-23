@@ -4,7 +4,7 @@ work_slug: "frank-h-knight-risk-uncertainty-and-profit-4c5363"
 work_title: Risk, Uncertainty and Profit
 author_name: Frank H. Knight
 chapter_number: 10
-chapter_title: "Part III, Chapter VII: The Meaning of Risk and Uncertainty"
+chapter_title: "Part III: Imperfect Competition Through Risk and Uncertainty, Part III, Chapter VII: The Meaning of Risk and Uncertainty"
 chapter_slug: 10
 variant_id: "a280b99f-c85c-581a-ae22-b5b308eb7671"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 52,
+  "chapter_title": "2. Harmony of Interests.",
+  "chapter_slug": "52-2-harmony-of-interests",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2c6a79d0-b041-5038-ab05-eb05ce93b8b3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1419,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch21.htm"
+    }
+  ]
+}

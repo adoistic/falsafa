@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-the-positive-outcome-of-philosop-df7f2d",
+  "work_title": "The Positive Outcome of Philosophy",
+  "chapter_number": 6,
+  "chapter_title": "The Understanding as a Part of the Human Soul",
+  "chapter_slug": "06-the-understanding-as-a-part-of-the-human-soul",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "40e2a72d-a19d-5f3a-aae4-b7e62b47624f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2493,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1887/positive-outcome/ch05.htm"
+    }
+  ]
+}

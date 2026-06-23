@@ -2,7 +2,7 @@
   "work_slug": "epictetus-the-works-of-epictetus-43c12c",
   "work_title": "The Works of Epictetus",
   "chapter_number": 93,
-  "chapter_title": "CHAPTER VII.: OF FEARLESSNESS.",
+  "chapter_title": "Chapter VIII.: Concerning Such as Hastily Assume the Philosophic Dress.",
   "chapter_slug": "93",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2017,
-      "paragraph_count": 8,
+      "word_count": 1912,
+      "paragraph_count": 10,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-exchange-on-historical-materiali-4fcb09",
+  "work_title": "Exchange on Historical Materialism (Debate with E. Belfort Bax)",
+  "chapter_number": 2,
+  "chapter_title": "Part I. The Critics of the Theory",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6c22d163-b68d-5861-9d87-f6173746e509",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2455,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1896/histmat/hm1.htm"
+    }
+  ]
+}

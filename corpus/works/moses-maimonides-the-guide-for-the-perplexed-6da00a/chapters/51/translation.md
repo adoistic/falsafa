@@ -4,7 +4,7 @@ work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
 work_title: The Guide for the Perplexed
 author_name: Moses Maimonides
 chapter_number: 51
-chapter_title: CHAPTER XXXIX
+chapter_title: Chapter XL (1)
 chapter_slug: 51
 variant_id: "5e218c91-0530-5b18-9e6c-c07adea8b938"
 content_type: translation
@@ -13,21 +13,21 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 629
+word_count: 372
 source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
 translator: Online Library of Liberty edition
 ---
 
-The Hebrew leb (heart) is a homonymous noun, signifying that organ which is the source of life to all beings possessing a heart. Comp. “And thrust them through the heart of Absalom” (1 Sam. xviii. 14).
+Ruaḥ is a homonym, signifying “air,” that is, one of the four elements. Comp. “And the air of God moved” (Gen. i. 2).
 
-This organ being in the middle of the body, the word has been figuratively applied to express “the middle part of a thing.” Comp. “unto the midst (leb) of heaven” (Deut. iv. 11); “the midst (labbath) of fire” (Exod. iii. 2).
+It denotes also, “wind.” Comp. “And the east wind (ruaḥ) brought the locusts” (Exod. x. 13); “west wind” (ruaḥ) (ib. 19). In this sense the word occurs frequently.
 
-It further denotes “thought.” Comp. “Went not mine heart with thee?” (2 Kings v. 26), i.e., I was with thee in my thought when a certain event happened. Similarly must be explained, “And that ye seek not after your own heart” (Num. xv. 39), i.e., after your own thoughts; “Whose heart (i.e., whose thought), turneth away this day” (Deut. xxix. 18).
+Next, it signifies “breath.” Comp. “A breath (ruah) that passeth away, and does not come again” (Ps. lxxviii. 39); “wherein is the breath (ruaḥ) of life” (Gen. vii. 15).
 
-The word further signifies “counsel.” Comp. “All the rest of Israel were of one heart (i.e., had one plan) to make David king” (1 Chron. xii. 38); “but fools die for want of heart,” i.e., of counsel; “My heart (i.e., my counsel) shall not turn away from this so long as I live” (Job xxvii. 6); for this sentence is preceded by the words, “My righteousness I hold fast, and will not let it go”; and then follows, “my heart shall never turn away from this.”—As regards the expression yeḥeraf, I think that it may be compared with the same verb in the form neḥrefet, “a handmaid betrothed (neḥrefet) to a man” (Lev. xix. 20), where neḥrefetḥ is similar in meaning to the Arabic munḥarifat, “turning away,” and signifies “turning from the state of slavery to that of marriage.”
+It signifies also that which remains of man after his death, and is not subject to destruction. Comp. “And the spirit (ruaḥ) shall return unto God who gave it” (Eccles. xii. 7).
 
-Leb (heart) denotes also “will”; comp. “And I shall give you pastors according to my will (libbi)” (Jer. iii. 15), “Is thine heart right as my heart is?” (2 Kings x. 15), i.e., is thy will right as my will is? In this sense the word has been figuratively applied to God. Comp. “That shall do according to that which is in mine heart and in my soul” (1 Sam. ii. 35), i.e., according to My will; “And mine eyes and mine heart (i.e., My providence and My will) shall be there perpetually” (1 Kings ix. 3).
+Another signification of this word is “the divine inspiration of the prophets whereby they prophesy”—as we shall explain, when speaking on prophecy, as far as it is opportune to discuss this subject in a treatise like this.—Comp. “And I will take of the spirit (ruaḥ) which is upon thee, and will put it upon them” (Num. xi. 17); “And it came to pass, when the spirit (ruah) rested upon them” (ib. 25); “The spirit (ruaḥ) of the Lord spake by me” (2 Sam. xxiii. 2). The term is frequently used in this sense.
 
-The word is also used in the sense of “understanding.” Comp. “For vain man will be endowed with a heart” (Job xi. 12), i.e., will be wise; “A wise man’s heart is at his right hand” (Eccles. x. 2), i.e., his understanding is engaged in perfect thoughts, the highest problems. Instances of this kind are numerous. It is in this sense, namely, that of understanding, that the Edition: current; Page: [55] word is used whenever figuratively applied to God; but exceptionally it is also used in the sense of “will.” It must, in each passage, be explained in accordance with the context. Also, in the following and similar passages, it signifies “understanding”; “Consider it in thine heart” (Deut. iv. 39); “And none considereth in his heart” (Isa. xliv. 19). Thus, also, “Yet the Lord hath not given you an heart to perceive,” is identical in its meaning with “Unto thee it was shown that thou mightest know” (Deut. iv. 35).
+The meaning of “intention,” “will,” is likewise contained in the word ruaḥ. Comp. “A fool uttereth all his spirit” (ruaḥ) (Prov. xxix. 11), i.e., his intention and will; “And the spirit (ruaḥ) of Egypt shall fail in the midst thereof, and I will destroy the counsel thereof” (Isa. xix. 3), i.e., her intentions will be frustrated, and her plans will be obscured; “Who has comprehended the spirit (ruaḥ) of the Lord, or who is familiar with his counsel that he may tell us?” (Isa. xl. 13), i.e., Who knows the order fixed by His will, or perceives the system of His Providence in the existing world, that he may tell us? as we shall explain in the chapters in which we shall speak on Providence.
 
-As to the passage, “And thou shalt love the Lord thy God with all thine heart” (Ib. vi. 5), I explain “with all thine heart” to mean “with all the powers of thine heart,” that is, with all the powers of the body, for they all have their origin in the heart; and the sense of the entire passage is: make the knowledge of God the aim of all thy actions, as we have stated in our Commentary on the Mishnah (Aboth, Eight Chapters, v.), and in our Mishneh Torah, yesode hatorah, chap. ii. 2.
+Thus the Hebrew ruaḥ, when used in reference to God, has generally the fifth signification; sometimes, however, as explained above, the last signification, viz., “will.” The meaning of the word in each individual case is therefore to be determined by the context.

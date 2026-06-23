@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 27,
+  "chapter_title": "Chapter XVI.: The World, Created by God, Still Cherished and Protected by Him. Each and All of Its Parts Governed by His",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac22176a-ca06-53c4-a263-4f85bba79c30",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 107,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

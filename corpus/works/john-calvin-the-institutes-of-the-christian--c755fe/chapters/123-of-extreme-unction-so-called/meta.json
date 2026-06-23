@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 123,
+  "chapter_title": "Of Extreme Unction, So Called.",
+  "chapter_slug": "123-of-extreme-unction-so-called",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8bc72fbd-78a3-57ea-8b7b-fe6cad803631",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1502,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

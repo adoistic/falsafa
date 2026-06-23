@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 29,
+  "chapter_title": "Action Speaks Louder than Words.",
+  "chapter_slug": "29-action-speaks-louder-than-words",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5c828bc-c0c0-5085-9dbe-c5bf6f9d841a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 351,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

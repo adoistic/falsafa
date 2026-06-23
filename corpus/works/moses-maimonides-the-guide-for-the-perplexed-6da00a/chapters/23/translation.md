@@ -4,7 +4,7 @@ work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
 work_title: The Guide for the Perplexed
 author_name: Moses Maimonides
 chapter_number: 23
-chapter_title: CHAPTER XI
+chapter_title: Chapter XII (1)
 chapter_slug: 23
 variant_id: "44448c34-4163-5a12-b107-625ee17e1e76"
 content_type: translation
@@ -13,17 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 469
+word_count: 359
 source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
 translator: Online Library of Liberty edition
 ---
 
-The primary meaning of the Hebrew yashab is “he was seated,” as “Now Eli the priest sat (yashab) upon a seat” (1 Sam. i. 9); but, since a person can best remain motionless and at rest when sitting, the term was applied to everything that is permanent and unchanging; thus, in the promise that Jerusalem should remain constantly and permanently in an exalted condition, it is stated, “She will rise and sit in her place” (Zech. xiv. 10); further, “He maketh the woman who was childless to sit as a joyful mother of children” (Ps. cxiii. 9); i.e., He makes her happy condition to be permanent and enduring.
+The term kam (he rose) is a homonym. In one of its significations it is the opposite of “to sit,” as “He did not rise (kam) nor move for him” (Esth. v. 9). It further denotes the confirmation and verification of a thing, e.g.: “The Lord will verify (yakem) His promise” (1 Sam. i. 23); “The field of Ephron was made sure (va-yakom) as the property of Abraham” (Gen. xxiii. 17). “The house that is in the walled city shall be established (ve-kam)” (Lev. xxv. 30); “And the kingdom of Israel shall be firmly established (ve-kamah) in thy hand” (1 Sam. xxiv. 20). It is always in this sense that the verb is employed with reference to the Almighty; as “Now shall I rise (akum), saith the Lord” (Ps. xii. 7), which is the same as saying, “Now shall I verify my word and my dispensation for good or evil.” “Thou shalt arise (takum) and have mercy upon Zion” (Ps. cii. 13), which means: Thou wilt establish what thou hast promised, viz., that thou wouldst pity Zion.
 
-When applied to God, the verb is to be taken in that latter sense: “Thou O Lord, remainest (tesheb) for ever” (Lam. v. 19); “O thou who sittest (ha-yoshebi) in the heavens” (Ps. cxxiii. 1); “He who sitteth in the heavens” (ii. 4), i.e., He who is everlasting, constant, and in no way subject to change; immutable in His Essence, and as He consists of nought but His Essence, He is mutable in no way whatever; not mutable in His relation to other things; for there is no relation whatever existing between Him and any other being, as will be explained below, and therefore no change as regards such relations can take place in Him. Hence He is immutable in every respect, as He expressly declares, “I, the Lord, do not change” (Mal. iii. 6); i.e., in Me there is not any change whatever. This idea is expressed by the term yashab when referring to God.
+Generally a person who resolves to set about a matter, accompanies his resolve by rising, hence the verb is employed to express “to resolve” to do a certain thing; as, “That my son hath stirred up my servant against me” (1 Sam. xxii. 8). The word is figuratively used to signify the execution of a divine decree against a people sentenced to extermination, as “And I will rise against the house of Jeroboam” (Amos vii. 9); “but he will arise against the house of the evildoers” (Isa. xxxi. 2). Possibly in Psalm xii. 7 the verb has this latter sense, as also in Psalm cii. 13, namely: Thou wilt rise up against her enemies.
 
-The verb, when employed of God, is frequently complemented by “the Heavens,” inasmuch as the heavens are without change or mutation, that is to say, they do not individually change, as the individual beings on earth, by transition from existence into non-existence.
-
-The verb is also employed in descriptions of God’s relation (the term “relation” is here used as a homonym) to existing species of evanescent things; for those species are as constant, well organized, and unvarying as the individuals of the heavenly hosts. Thus we find, “Who sitteth over the circle of the earth” (Isa. xl. 22), Who remains constantly and unremittingly over the sphere of the earth; that is to say, over the things that come into existence within that sphere.
-
-Again, “The Lord sitteth upon the flood” (Ps. xxix. 10), i.e., despite the change and variation of earthly objects, no change takes place with respect to God’s relation (to the earth): His relation to each of the things which come into existence and perish again is stable and constant, for it concerns only the existing species and not the individuals. It should therefore be borne in mind, that whenever the term “sitting” is applied to God, it is used in this sense.
+There are many passages to be interpreted in this manner, but in no way should it be understood that He rises or sits—far be such a notion! Our Sages expressed this idea in the formula, “In the world above there is neither sitting nor standing (‘amidah)”; for the two verbs ‘amad and kam are synonyms [and what is said about the former is also applicable to the latter].

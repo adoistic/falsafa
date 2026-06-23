@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 7
-chapter_title: "SECT. III.: Of the Authority of one Country over another."
+chapter_title: "Sect. III.: Of the Authority of one Country over another."
 chapter_slug: "07-sect-iii-of-the-authority-of-one-country-over-anot"
 variant_id: "3db1909d-715d-5254-9ab3-f3858a9556c9"
 content_type: translation

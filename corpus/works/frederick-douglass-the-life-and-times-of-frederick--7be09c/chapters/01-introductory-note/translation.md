@@ -4,7 +4,7 @@ work_slug: "frederick-douglass-the-life-and-times-of-frederick--7be09c"
 work_title: The Life and Times of Frederick Douglass
 author_name: Frederick Douglass
 chapter_number: 1
-chapter_title: INTRODUCTORY NOTE
+chapter_title: Introductory Note
 chapter_slug: "01-introductory-note"
 variant_id: "9dee0e87-542b-527d-9198-54baf8e972a7"
 content_type: translation

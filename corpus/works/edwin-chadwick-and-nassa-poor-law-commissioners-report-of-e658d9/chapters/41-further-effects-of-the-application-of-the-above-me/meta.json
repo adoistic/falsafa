@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 41,
+  "chapter_title": "Further Effects of the Application of the Above-Mentioned Principle of Administering Relief",
+  "chapter_slug": "41-further-effects-of-the-application-of-the-above-me",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7438b628-e7f5-5d42-9ab5-413f3e33758f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8168,
+      "paragraph_count": 80,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

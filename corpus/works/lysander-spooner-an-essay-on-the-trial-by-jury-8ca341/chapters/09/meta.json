@@ -2,7 +2,7 @@
   "work_slug": "lysander-spooner-an-essay-on-the-trial-by-jury-8ca341",
   "work_title": "An Essay on the Trial by Jury",
   "chapter_number": 9,
-  "chapter_title": "SECTION II.: The Language of Magna Carta.↩",
+  "chapter_title": "Section III.: The Oaths of Jurors.↩",
   "chapter_slug": "09",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 7107,
-      "paragraph_count": 103,
+      "word_count": 1779,
+      "paragraph_count": 31,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/spooner-an-essay-on-the-trial-by-jury-1852"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-one-step-forward-two-steps-back--9a5c6a",
+  "work_title": "One Step Forward, Two Steps Back (The Crisis in Our Party)",
+  "chapter_number": 20,
+  "chapter_title": "Appendix. The Incident of Comrade Gusev and Comrade Deutsch",
+  "chapter_slug": "20-appendix-the-incident-of-comrade-gusev-and-comrade",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "baa01d29-c658-5015-a8d5-7d90368422ec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3471,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1904/onestep/appendix.htm"
+    }
+  ]
+}

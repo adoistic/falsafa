@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-paine-the-rights-of-man-e48f8e",
+  "work_title": "The Rights of Man",
+  "chapter_number": 5,
+  "chapter_title": "Miscellaneous Chapter.",
+  "chapter_slug": "05-miscellaneous-chapter",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a99c4a07-c516-5116-9847-b6a98dfc52b6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8864,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paine-the-rights-of-man-part-i-1791-ed"
+    }
+  ]
+}

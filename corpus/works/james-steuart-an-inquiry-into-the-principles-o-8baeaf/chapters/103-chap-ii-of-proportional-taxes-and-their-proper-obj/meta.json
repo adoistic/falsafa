@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 103,
+  "chapter_title": "Chap. II: Of proportional Taxes, and their proper Object",
+  "chapter_slug": "103-chap-ii-of-proportional-taxes-and-their-proper-obj",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2dae68b0-bf9e-558e-a469-ce24d174b2e9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1398,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book5.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 86,
+  "chapter_title": "Chapter IX: Education Of Young Women In The United States",
+  "chapter_slug": "86",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "586217f3-dffd-5e5e-abd9-8b0b91e3b38c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 941,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch34.htm"
+    }
+  ]
+}

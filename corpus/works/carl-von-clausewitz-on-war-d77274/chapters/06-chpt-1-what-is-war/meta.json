@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 6,
+  "chapter_title": "Chpt. 1 What is War?",
+  "chapter_slug": "06-chpt-1-what-is-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "04f5cfce-8796-5aab-a6c4-245715c85ddb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7584,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book1/ch01.htm"
+    }
+  ]
+}

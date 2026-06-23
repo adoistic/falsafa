@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 30,
+  "chapter_title": "Letter to M. Blanqui",
+  "chapter_slug": "30",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2765f36d-8b62-5dc0-b4dd-1aa6e463bb5f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 50188,
+      "paragraph_count": 473,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/blanqui-letter.htm"
+    }
+  ]
+}

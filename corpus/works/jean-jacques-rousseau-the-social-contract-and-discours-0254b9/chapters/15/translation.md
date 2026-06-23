@@ -4,7 +4,7 @@ work_slug: "jean-jacques-rousseau-the-social-contract-and-discours-0254b9"
 work_title: The Social Contract and Discourses
 author_name: "Jean-Jacques Rousseau"
 chapter_number: 15
-chapter_title: "CHAPTER I: that sovereignty is inalienable"
+chapter_title: "Chapter III: whether the general will is fallible"
 chapter_slug: 15
 variant_id: "b9b73d21-54f5-5f2c-bac6-047434bc2105"
 content_type: translation
@@ -13,15 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 397
+word_count: 411
 source_url: "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
 translator: Online Library of Liberty edition
 ---
 
-The first and most important deduction from the principles we have so far laid down is that the general will alone can direct the State according to the object for which it was instituted, i. e. the common good: for if the clashing of particular interests made the establishment of societies necessary, the agreement of these very interests made it possible. The common element in these different interests is what forms the social tie; and, were there no point of agreement between them all, no society could exist. It is solely on the basis of this common interest that every society should be governed.
+It follows from what has gone before that the general will is always right and tends to the public advantage; but it does not follow that the deliberations of the people are always equally correct. Our will is always for our own good, but we do not always see what that is; the people is never corrupted, but it is often deceived, and on such occasions only does it seem to will what is bad.
 
-I hold then that Sovereignty, being nothing less than the exercise of the general will, can never be alienated, and that the Sovereign, who is no less than a collective being, cannot be represented except by himself: the power indeed may be transmitted, but not the will.
+There is often a great deal of difference between the will of all and the general will; the latter considers only the common interest, while the former takes private interest into account, and is no more than a sum of particular wills: but take away from these same wills the pluses and minuses that cancel one another, and the general will remains as the sum of the differences.
 
-In reality, if it is not impossible for a particular will to agree on some point with the general will, it is at least impossible for the agreement to be lasting and constant; Edition: current; Page: [23] for the particular will tends, by its very nature, to partiality, while the general will tends to equality. It is even more impossible to have any guarantee of this agreement; for even if it should always exist, it would be the effect not of art, but of chance. The Sovereign may indeed say: “I now will actually what this man wills, or at least what he says he wills”; but it cannot say: “What he wills tomorrow, I too shall will” because it is absurd for the will to bind itself for the future, nor is it incumbent on any will to consent to anything that is not for the good of the being who wills. If then the people promises simply to obey, by that very act it dissolves itself and loses what makes it a people; the moment a master exists, there is no longer a Sovereign, and from that moment the body politic has ceased to exist.
+If, when the people, being furnished with adequate information, held its deliberations, the citizens had no communication one with another, the grand total of the small differences would always give the general will, and the decision would always be good. But when factions arise, and partial associations are formed at the expense of the great association, the will of each of these associations becomes general in relation to its members, while it remains particular in relation to the State: it may then be said that there are no longer as many votes as there are men, but only as many as there are associations. The differences become less numerous and give a less general result. Lastly, when one of these associations is so great as to prevail over all the rest, the result is no longer a sum of small differences, but a single difference; in this case there is no longer a general will, and the opinion which prevails is purely particular.
 
-This does not mean that the commands of the rulers cannot pass for general wills, so long as the Sovereign, being free to oppose them, offers no opposition. In such a case, universal silence is taken to imply the consent of the people. This will be explained later on.
+It is therefore essential, if the general will is to be able to express itself, that there should be no partial society within the State, and that each citizen should think only his own thoughts: which was indeed the sublime and unique system established by the great Lycurgus. But if there are partial societies, it is best to have as many as possible and to prevent them from being unequal, as was done by Solon, Numa and Servius. These precautions are the only ones that can guarantee that the general will shall be always enlightened, and that the people shall in no way deceive itself.

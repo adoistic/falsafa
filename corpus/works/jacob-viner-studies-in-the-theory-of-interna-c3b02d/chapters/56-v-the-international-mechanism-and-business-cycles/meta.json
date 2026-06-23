@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 56,
+  "chapter_title": "V. The International Mechanism and Business Cycles",
+  "chapter_slug": "56-v-the-international-mechanism-and-business-cycles",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aac32287-c21f-5dc2-99aa-e456729bec2f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1376,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

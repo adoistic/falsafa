@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 13,
+  "chapter_title": "The Limits of the Working-day",
+  "chapter_slug": "13-the-limits-of-the-working-day",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "85783b38-52cb-57f5-8dca-5784122c96f9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1493,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm"
+    }
+  ]
+}

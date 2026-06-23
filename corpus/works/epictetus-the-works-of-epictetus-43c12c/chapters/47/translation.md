@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 47
-chapter_title: "CHAPTER XIII.: OF ANXIETY."
+chapter_title: "Chapter XIII.: Of Anxiety."
 chapter_slug: 47
 variant_id: "d10686b1-cc28-5a3a-addd-79c321a8583f"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1142
+word_count: 1130
 source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
 translator: Online Library of Liberty edition
 ---
@@ -22,7 +22,7 @@ WHEN I see any one anxious, I say, what does this man mean? Unless he wanted som
 
 “What point is that?”
 
-He does not understand what a multitude is, nor what the applause of a multitude. He has learnt, indeed, how to sound bass and treble; but what the applause of the many is, and what force it has in life, he neither understands, nor has studied. Hence he must necessarily tremble, and turn pale. I cannot indeed say, that a man is no musician, when I see him afraid; but I can say something else, and Edition: current; Page: [131] indeed many things. And, first of all, I call him a stranger, and say, this man does not know in what country he is; and though he has lived here so long, he is ignorant of the laws and customs of the state, and what is permitted, and what not; nor hath he ever consulted any legal adviser, who might tell and explain to him the laws. But no man writes a will, without knowing how it ought to be written, or consulting some one who knows; nor does he rashly sign a bond, or give security. Yet he indulges his desires and aversions, exerts his pursuits, intentions, and resolutions, without consulting any legal adviser about the matter.
+He does not understand what a multitude is, nor what the applause of a multitude. He has learnt, indeed, how to sound bass and treble; but what the applause of the many is, and what force it has in life, he neither understands, nor has studied. Hence he must necessarily tremble, and turn pale. I cannot indeed say, that a man is no musician, when I see him afraid; but I can say something else, and indeed many things. And, first of all, I call him a stranger, and say, this man does not know in what country he is; and though he has lived here so long, he is ignorant of the laws and customs of the state, and what is permitted, and what not; nor hath he ever consulted any legal adviser, who might tell and explain to him the laws. But no man writes a will, without knowing how it ought to be written, or consulting some one who knows; nor does he rashly sign a bond, or give security. Yet he indulges his desires and aversions, exerts his pursuits, intentions, and resolutions, without consulting any legal adviser about the matter.
 
 “How do you mean, without a legal adviser?”
 
@@ -38,7 +38,7 @@ Does any one fear things, that seem evils indeed, but which it is in his own pow
 
 “No, surely.”
 
-If, then, the things independent of our will are neither good nor evil; and all things that do depend on will, are in our own power, and can neither be taken away from us, nor given to us, unless we please; what room is there left for anxiety? But we are anxious about this paltry body or estate of ours, or about what Cæsar thinks; and not at all about anything internal. Are we ever anxious not to take up a false opinion? No; for this is within Edition: current; Page: [132] our own power. Or not to follow any pursuit contrary to nature? No; nor this. When, therefore, you see any one pale with anxiety, just as the physician pronounces from the complexion, that such a patient is disordered in the spleen, and another in the liver; so do you likewise say, this man is disordered in his desires and aversions; he cannot walk steadily; he is in a fever. For nothing else changes the complexion, or causes trembling, or sets the teeth chattering.
+If, then, the things independent of our will are neither good nor evil; and all things that do depend on will, are in our own power, and can neither be taken away from us, nor given to us, unless we please; what room is there left for anxiety? But we are anxious about this paltry body or estate of ours, or about what Cæsar thinks; and not at all about anything internal. Are we ever anxious not to take up a false opinion? No; for this is within our own power. Or not to follow any pursuit contrary to nature? No; nor this. When, therefore, you see any one pale with anxiety, just as the physician pronounces from the complexion, that such a patient is disordered in the spleen, and another in the liver; so do you likewise say, this man is disordered in his desires and aversions; he cannot walk steadily; he is in a fever. For nothing else changes the complexion, or causes trembling, or sets the teeth chattering.
 
 “He crouching walks, or squats upon his heels.”
 
@@ -86,7 +86,7 @@ Have you not learned, then, how to speak? And what else did you study at school?
 
 “Syllogisms, and convertible propositions.”
 
-For what purpose? Was it not in order to talk properly? And what is that, but to talk seasonably, and discreetly, and intelligently, and without flutter Edition: current; Page: [134] or hesitation; and by means of all this, with courage?
+For what purpose? Was it not in order to talk properly? And what is that, but to talk seasonably, and discreetly, and intelligently, and without flutter or hesitation; and by means of all this, with courage?
 
 “Very true.”
 

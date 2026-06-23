@@ -1,0 +1,26 @@
+{
+  "work_slug": "denis-diderot-thoughts-on-religion-101dae",
+  "work_title": "Thoughts on Religion",
+  "chapter_number": 1,
+  "chapter_title": "Thoughts on Religion",
+  "chapter_slug": "01-thoughts-on-religion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9cd974a5-b42b-5b4e-81d4-884073f6f97c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2689,
+      "paragraph_count": 73,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/diderot/1770/religion.htm"
+    }
+  ]
+}

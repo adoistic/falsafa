@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 4 : Moscow",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ae847fd-e6eb-5ee5-abc1-abb280a15cdc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1083,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-4.html"
+    }
+  ]
+}

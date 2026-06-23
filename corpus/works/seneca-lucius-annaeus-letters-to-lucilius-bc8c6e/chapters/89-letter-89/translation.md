@@ -1,0 +1,64 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 89
+chapter_title: Letter 89
+chapter_slug: "89-letter-89"
+variant_id: "b011af6a-2102-5f76-bf57-e4f11c38e080"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 2056
+translator: thothica
+---
+
+1. You desire a useful thing, and one necessary for a man hastening toward wisdom, that philosophy be divided and its vast body distributed into its members. For we more easily come to know the whole through its parts. Would that philosophy itself, like the whole face of the universe, came into our view all at once! It would furnish us a sight very like that of the world. Surely it would then hold all mortals in admiration of itself, and we should lay aside those things which now, ignorant of the great, we think great.
+
+2. The wise man's mind indeed embraces its whole mass and ranges over it no less swiftly than our gaze over the sky; but for us, who must break through a fog and whose sight fails in what is nearest, it is easier to be shown each single thing, since we are not yet capable of the whole. I shall do, then, what you ask, and divide philosophy into parts, not into fragments. For it is useful to divide it, but not to chop it small. For it is as hard to grasp the very greatest things as the very least.
+
+3. The people is distributed into tribes, the army into centuries. Whatever has grown to a larger size is more easily recognized if it has been parted into divisions, which, as I said, ought not to be countless and tiny. For too much division has the same fault as none; whatever is cut down to dust is like the confused mass.
+
+4. First of all, then, if it seems good to you, I will tell what difference there is between wisdom and philosophy. Wisdom is the perfect good of the human mind; philosophy is the love of wisdom and the striving after it. Philosophy tends toward the goal which wisdom has already reached. It is clear whence philosophy is named; for by its very name it confesses what it loves.
+
+5. Some have so defined wisdom as to say it is the knowledge of things divine and human. Some thus: wisdom is to know things divine and human and their causes. This addition seems to me superfluous, because the causes of things divine and human are a part of things divine. There have also been those who defined philosophy now one way, now another. Some have said it is the study of virtue, others the study of correcting the mind; by some it has been called the seeking after right reason.
+
+6. This, as it were, has been settled, that there is some difference between philosophy and wisdom. For it cannot be that the thing sought and the thing that seeks are the same. As there is much difference between avarice and money, since the one desires, the other is desired, so between philosophy and wisdom. For the latter is the effect and reward of the former; the former comes, the latter is that to which one comes.
+
+7. Wisdom is what the Greeks call sophia. This word the Romans too used to use, as they use philosophia even now. Both the old plays in Roman dress will prove this to you, and the inscription set upon the tomb of Dossennus: "Stranger, halt and read the wisdom of Dossennus."
+
+8. Some of our school, although philosophy was the study of virtue and the one was sought, the other did the seeking, yet thought that they could not be torn apart. For neither is philosophy without virtue, nor virtue without philosophy. Philosophy is the study of virtue, but through virtue itself; nor can virtue be without the study of itself, nor the study of virtue without virtue. For it is not as with those who try to strike something from a distant place, where the one who aims is in one place, and what is aimed at in another. Nor are the ways to virtue like the roads that lead to cities, set outside the cities; one comes to virtue through virtue itself; philosophy and virtue cohere with each other.
+
+9. The greatest and most numerous authorities have said that there are three parts of philosophy: the moral, the natural, the rational. The first orders the mind. The second scrutinizes the nature of things. The third examines the properties of words and their structure and the modes of argument, lest falsehoods creep in for truths. For the rest, there have been found those who would divide philosophy both into fewer parts and into more.
+
+10. Some of the Peripatetics added a fourth part, the civil, because it requires a special exercise and is occupied with another matter. Some have added to these a part which they call oikonomike, the science of managing a household. Some have also set apart a topic concerning the kinds of life. But there is none of these things that is not found in that part which deals with the moral.
+
+11. The Epicureans thought there were two parts of philosophy, the natural and the moral; they removed the rational. Then, when by the very facts they were forced to separate ambiguities and to refute falsehoods lurking under the appearance of truth, they too brought in, under another name, the topic which they call "of judgment and the rule," which is the rational, but they think it an appendage of the natural part.
+
+12. The Cyrenaics did away with both the natural and the rational and were content with the moral, but these too, what they remove, they bring in otherwise. For they divide the moral into five parts, so that one is about things to be shunned and sought, a second about the passions, a third about actions, a fourth about causes, a fifth about proofs. The causes of things belong to the natural part, the proofs to the rational.
+
+13. Ariston of Chios said that the natural and the rational were not only superfluous but contrary; and he cut down even the moral part, which alone he had left; for he removed the topic that contains admonitions and said it belonged to a pedagogue, not a philosopher, as though the wise man were anything other than the pedagogue of the human race.
+
+14. Therefore, since philosophy is threefold, let us begin first to arrange its moral part. This, it has been agreed, is again divided into three, so that the first should be the inspection that assigns to each its own and estimates how much each thing is worth, a most useful part. For what is so necessary as to set prices on things? The second concerns impulse, the third concerns actions.
+
+15. Whatever of the three is lacking throws the rest also into confusion. For what does it profit to have things valued among themselves, if you are unrestrained in your impulse; what does it profit to have curbed your impulses and to have your passions in your power, if you are ignorant of the right occasion of acting, if you do not know when, where, how, how far each thing should be done? For it is one thing to know the worth and prices of things, another to know the proper moments, another to restrain impulses and to go to action at a walk, not headlong. And so life is consonant with itself only when action has not betrayed the impulse, and the impulse is, accordingly, slacker or keener as the thing is worth more or less.
+
+16. The natural part of philosophy is split into two: the corporeal and the incorporeal. Each is divided into its own grades, so to say. The topic of bodies is divided first into these, into the things that make and the things that are produced from these; and the things produced are the elements. This very topic of the elements, as some think, is simple; as others think, it is divided into the matter, and the cause that moves all things, and the elements.
+
+17. It remains for me to divide the rational part of philosophy. All speech is either continuous or broken between one who answers and one who questions. The latter it has pleased to call dialectic, the former rhetoric. Rhetoric cares for words and meanings and order; dialectic is divided into two parts, into words and significations, that is, into the things which are said and the terms by which they are said. Then a vast division of each follows. And so here I shall make an end and "shall follow the topmost summits of things"; otherwise, if I should wish to make parts of parts, it will become a book of questions.
+
+18. I do not deter you, Lucilius, best of men, from reading these things, provided that whatever you have read you straightway refer to manners. Restrain your manners; rouse what is languid in you, bind fast what is loose, tame what is stubborn, harass your own and the public's desires as much as you can; and to those who say, "How long the same things?" answer:
+
+19. I ought rather to say, "How long will you go on sinning in the same ways? You want the remedies to cease before the vices?" Nay, I shall say them all the more, and, because you refuse, I shall persist. Then does medicine begin to do good, when the touch has forced out the pain in a numbed body. I shall say even to the unwilling things that will profit them. Sometimes let some voice come to you that is not flattering, and, because you are unwilling, each of you, to hear the truth, hear it in public.
+
+20. How far will you extend the bounds of your estates? A field that held a whole people is too narrow for one master. How far will you push out your ploughlands, not content to enclose within the limits of provinces the measure of your farms? Famous rivers flow through private property; vast streams, the boundaries of great nations, are yours from source to mouth. And this too is too little for you, unless you encircle whole seas with your estates, unless your steward holds sway beyond the Adriatic and the Ionian and the Aegean, unless islands, the dwellings of mighty captains, are reckoned among your meanest possessions. Possess as widely as you will; let your estate be what a province once was; call your own what you will, so long as it is another's.
+
+21. Now I speak with you, whose luxury spreads itself as broadly as the avarice of those others. I say to you: how long will there be no lake over which the gables of your villas do not hang? No river whose banks your buildings do not fringe? Wherever veins of hot water gush, there new resorts of luxury will be raised. Wherever the shore curves into some bay, you will straightway lay foundations, and, not content with any ground but what you have made, you will push the sea inland. Though everywhere your roofs flash forth, set now on mountains commanding a wide view of seas and lands, set now lifted from the plain to the height of mountains, when you have built much and raised it high, you are each but a single body, and that a tiny one. Of what use are many bedrooms? You lie in one.
+
+22. Then I pass to you, whose deep and insatiable gullet ransacks now the seas, now the lands, pursues some prey with hooks, some with snares, some with various kinds of nets, at great labour; no animals have peace except those we are tired of. How small a part of those feasts of yours do those wearied bodies, worn out with their pleasures, taste! How small a part of that game caught at such peril does the bilious stomach take in! How small a part of all those shellfish, brought from so far away, slips down that insatiable belly! Wretched men, do you not know that your hunger is greater than your belly?
+
+23. Say these things to others, that, while you say them, you may hear them yourself; write them, that, while you write, you may read them, referring everything to manners and to the quieting of the madness of the passions. Study, not that you may know something more, but that you may know better. Farewell.

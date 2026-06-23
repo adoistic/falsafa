@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 81,
-  "chapter_title": "SECTION IV.: Of the Territorial or Land-Tax of England.",
+  "chapter_title": "Section II.: Of public Credit, its Basis, and the Circumstances that endanger its Solidity.",
   "chapter_slug": "81",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 591,
-      "paragraph_count": 5,
+      "word_count": 2324,
+      "paragraph_count": 23,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

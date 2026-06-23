@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 31
-chapter_title: "CHAPTER XXIII: DELUSIONS OF PROFIT AND THE LIFE INSURANCE MONOPOLY IN ITALY"
+chapter_title: "Chapter XXV: Public versus Private Enterprise"
 chapter_slug: 31
 variant_id: "f3832e2f-a787-51dd-9280-faf675c9aa70"
 content_type: translation
@@ -13,71 +13,109 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1910
+word_count: 2523
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-1. In order to be assured that no deceptions would be practiced on it, in buying out the insurance companies, the Italian government put itself quite simply in their place. The resulting monopoly, confirmed by the law of April 4, 1912, had for its principal object the establishment of so-called labor pensions. “The profits drawn from this monopoly will be paid into the National Insurance Fund, upon the books of which any workman engaged in either industry or agriculture may be entered, provided he is not paying an annual government tax exceeding 30 francs.”
+1. The partisans of socializing and of municipalizing all sorts of public services never tire of the old refrain that state and municipalities manage enterprises for the good of the service, and not for profit, and that, therefore, we ought to get them at a lower cost. We ought to. Here we have a priori reasoning. The trouble is that such reasoning is constantly contradicted by the facts.
 
-The real excuse for the bill was the activity of the French and English governments in passing insurance laws. The Italian government decided that it ought Edition: current; Page: [244] to bestir itself along the same lines. Therefore, instead of taking the sums necessary for its pension scheme from general budget funds, it created a special fund by establishing an insurance monopoly. Moreover, by the destruction of institutions which have been the most powerful agents in stimulating the spirit of individual thrift, the government hoped to promote a system of social thrift. The irreconcilable contradiction existing between free and compulsory insurance could not have been revealed in a more striking fashion, and it is only necessary to couple adjectives and noun in order to show the deceptive character of all enterprises of this nature.
+2. Some years ago the net profit on the National Printing Office of France apparently represented nearly normal interest on the capital invested. However, an investigation gave M. Colson an opportunity of declaring that this result was only obtained by an “exorbitant” increase in the prices demanded. In proof of his statement M. Colson gave the following significant example:
 
-But, it is strange enough that financiers as shrewd as the Italians should allow themselves to be deluded by the hope that the insurance monopoly would yield large resources. They have undoubtedly been seduced by the sight of the profits of insurance companies. But are such profits possible under government administration?
+The Paul Dupont Company had arranged to furnish the Navy with forms and designs at the same cost as the National Printing Office, less the expenses of composition, correction and holding of forms. The National Printing Office maintained that the Dupont Company was working at a loss in order to ruin the credit of the government establishment. An inspector of finances (inspecteur des finances) declared, officially, that this assertion was false, and that the Dupont Company both could and did make a profit on the business, despite the reduction granted to the Navy.
 
-In the first place, in order to recruit policyholders, an active propaganda is indispensable. The policyholders of life insurance companies do not apply in the first instance to the companies. They must be sought for diligently and persuaded to take out a policy by an insurance broker, who demands a good and sufficient reward for his efforts in bringing about such investment. What measures has the Italian government taken to attract policyholders?
+3. On December 13, 1911, the Assistant Secretary of the United States Navy, Mr. Watt, told a committee of the House of Representatives that the battleship Florida, constructed by the government, cost per ton (hull and engines only), 1,374 francs 50 ($265.28); while the Utah, constructed by a private company, cost 904 francs ($174.47). In 1910 Congress authorized the construction of two battleships, the cost of which it limited to 30,000,000 francs ($5,700,000). The private company did its work according to contract, at a cost of 500,000 francs less than the original estimates; the navy yard required additional appropriations until the actual cost reached over 35,000,000 francs ($6,650,000).
 
-In presenting his bill to the Chamber of Deputies, the minister responsible for it declared that the National Insurance Fund “ought to undertake a Edition: current; Page: [245] campaign of education which should penetrate into the farthest and quietest corners of Italy, even where the ordinary business man does not go on account of the improbability of any success attending his efforts. Therefore, the National Insurance department will accept as agents notaries, registrars, tax collectors, municipal officials, postmasters, men who are in constant touch with the people, and who can render valuable services to insurance by awakening the desire to look out for the future needs to a degree never before aroused.” In a word, all public officials are to be ultimately transformed into insurance agents.
+I read in the Army and Navy Journal, January 28, 1911:
 
-But, despite all the enthusiasm that these amateur brokers may be able to arouse, such coöperation will not be effective unless commissions are paid. And then what becomes of the all-important excuse for the substitution of a government monopoly for private enterprise, viz.—service rendered for the sake of the cause and not for gain?
+“The Committee on Naval Affairs recommends, also, that Congress give to Secretary Meyer the power to construct in a private shipyard the battleship New York, the building of which was authorized during the last session; the secretary having shown that it will cost the government at least eight millions and a half more to construct the New York in the Brooklyn Navy Yard by reason of the eight-hour law.”
 
-Now the average agent works for the sake of gain; and the biggest cost item of insurance companies is the commissions of these same agents; even the government monopoly itself has preserved them. In the case of sixteen French companies, maintaining fixed premiums, these expenses amounted, in 1911, to 20,912,800 francs, to which sum must be added 16,172,000 francs of general expenses and 1,202,746 francs in gratuities and bonuses.
+It is only in France that the Navy constructs more ships than it hands over to private companies for construction, as the following table shows (1911):
 
-What will be the insurance rates under public operation? If the state wishes to use persuasion, instead Edition: current; Page: [246] of force, it ought to make its rates as easy as possible for the policyholders, but the profit to the state will, of course, be just so much less.
+4. In the cities of Portsmouth and Southsea there are two piers: The one is private property, the other the property of the city. The first is a success; the second a “white elephant.”
 
-I have not at hand the profits of the life insurance companies in Italy, for 1911, but in that year the dividends of the sixteen French companies just mentioned reached the sum of 15,161,331 francs. Great as has been the economic development of Italy no one will pretend that its economic prosperity equals that of France. However, if the Italian monopoly is as efficiently administered as are the French insurance companies, and, if it has as capable agents, it might perhaps be able to realize half or two-thirds of the industrial profits of the French companies, in which case it would yield to the Italian government from 3,000,000 to 6,000,000 lire annually.
+Faithful Begg, one of the best-known authorities on business conditions in England, declared before the London Chamber of Commerce, on the 18th day of May, 1911: “The National Telephone Company operates on 58 per cent. of its gross revenue, while the Postoffice operates on 74 per cent. The Postoffice earns 3.5 per cent. on the capital invested, and the National Telephone Company is earning 8.9 per cent.”
 
-Very striking in this connection is the status of the old age pension system in France—a national undertaking. From 1851 to 1889 the amount of first payments was 816,323 francs, or, in 39 years, 20,931 francs a year. The laws of July 20, 1886, and April 9, 1898, increased the activity of the fund, but, even so, its usefulness has been mainly restricted to associations. In 1910 the number of their payments approximated 5,305,447, amounting to 79,982,892 francs, while the number of individual payments was only 82,780, aggregating 9,900,365 francs. In 1909 the private accident insurance companies had 4,856,000,000 francs on insurance policies, while the National Insurance Fund had insured for only 77,494,000 francs, a proportion of less than 2 per cent.
+5. On the Western (state) railway of France, from 1904 to 1908, claims for loss, damage, and delay amounted to 1,566 francs per 100,000 francs of gross receipts. From 1909 to 1911 this proportion reached 3,043 francs. On the old state system the proportion was 1,426. Since 1909 this sum has increased to 2,055 francs, which proves that the Department of State Railways, while extending its lines, has not improved them. On the Est, Midi, Nord, and Paris-Lyon-Mediterranée—all privately owned lines—the average is 1,175 francs. Thus the claims on the Western are 157 per cent. higher, and on the two other state systems 75 per cent. higher than on the private lines.
 
-The mathematical reserves and the other funds available are to be employed as follows by the Italian National Insurance Fund:
+I might add that the Western has fallen back on the plea of “circumstances over which we have no control,” floods, strikes, etc., a subterfuge to which the private companies have not found it necessary to have recourse.
 
-Where is the state which can guarantee that its income will constitute a perfectly sound investment when English consols are at 74 shillings? The Italian revenue is susceptible to sudden changes which make predictions difficult for both the monopoly and its policyholders. The government will have to Edition: current; Page: [248] assume all responsibilities and the investments directed by clause No. 8 will be very difficult of execution.
+6. A German engineer, Wilhelm Majerczik, has published a comparative study of the results accomplished respectively by municipal and private electrical enterprises in Germany.
 
-The Fund enjoys privileges which assure it of certain resources, but only to the detriment of other government undertakings. For example, it has free use of the postal and telegraph services. Both these services thus lose revenues which private insurance companies would have yielded them.
+We borrow the following facts from the analysis of his study published in the Revue Économique Internationale, of July 15, 1912. The figures were taken from the latest available statistics.
 
-Finally, the profits of the monopoly are exempt from the income tax, which private companies would have to pay.
+In his survey Herr Majerczik has passed over the Berlin and Hamburg plants, operated by private companies, as their prosperity so far exceeds the average that his comparisons would have been unduly affected by them. Moreover, his study bears only upon electrical plants supplying localities with a population of at least 100,000 inhabitants. These installations number fifty-six, and are subdivided as follows:
 
-The officials who are to act as insurance agents have their own duties to fulfill. Unable to devote more than their idle moments to the new task, they will always be working at a disadvantage. Nor is every man fitted by nature for the rôle of insurance agent. Not only is the taste for it lacking, but skill, tact, and technical ability will be wanting.
+(The information given relates only to fourteen of the private plants in question, data as to the fifteenth not being attainable.)
 
-Possibly the officials will gather some personal benefit by reason of the added authority which their new position gives them. They may, perhaps, be able to obtain by main force policies which ordinary agents are not able to get. But, successful insurance is not only a question of affixing a signature, nor even of the first payment on a policy. A policyholder must persevere. What if he slips back after the agent has received his commission?
+The situation of the private plants is actually less favorable to development than that of the public plants. Yet, out of thirty-eight municipal undertakings, twenty supply only a single locality. The extent of territory supplied by private enterprises is double that of municipal enterprises.
 
-This is a risk which all insurance companies know. The state will also discover it, but it will find itself placed in a still more difficult position by the necessity of refusing contracts brought in by its officials and employees. It will be forced to choose its Edition: current; Page: [249] policyholders, to accept some and refuse others, and insurance exiles, branded with a sort of discredit, if not infamy, will thus be created.
+The municipal enterprises are the older; for, in the beginning, such undertakings were considered the special prerogative of local governments.
 
-Italy and Uruguay are the only countries which have experimented with national life insurance. The independence of the National Insurance Fund of Uruguay is greater than that of Italy. It was established by a law of December 26, 1911, and is, therefore, too recent to furnish any authoritative data.
+The superiority of the equipment of private enterprises is demonstrated by the fact that the average productive capacity of municipal plants is scarcely three-fourths that of private plants.
 
-Systems of state fire insurance are found in other countries. In Germany public fire insurance associations “have always been energetically supported by the government.” Landed proprietors are compelled to insure their property with public offices in Bavaria, Württemburg, and the grand duchies Baden and Hesse. Private insurance enterprises are limited to personal property and to risks on real property not insured by the state.
+The fewer boilers of the private plants are of a more economical type than those of public plants, and the prime movers are more powerful (Nos. 5 to 10).
 
-Nevertheless, it has not been found either possible or advisable to oust the private companies, as is proved by the following table, giving the insurance situation in Germany in 1906:
+In comparing light and power circuits we have 55.3 kw. per 1,000 inhabitants for 33 public plants, and 79 kw. for 11 private plants. If traction be added we have 65.9 kw. for the first, 80.9 kw. for the second. Municipal plants furnish power for traction to a greater extent than private plants, because the great municipal undertakings control all the important tramway systems.
 
-The Municipal Fire Insurance Fund of Rostock has reinsured with a private company the total capital insured by itself. It is, therefore, nothing more than an agency for the collection of premiums and the distribution of indemnities.
+Private enterprises are operated more economically than municipal undertakings.
 
-The canton of Waad has insured both real and personal property since 1849; insurance is compulsory. Personal property insurance is unknown in any other canton, but national insurance of personal property is about to be established in Switzerland.
+They can produce greater power per heat unit because they employ boilers and engines of greater unit capacity and the agent of supply is better; that is to say, with a given apparatus, they are called upon to produce more. Their losses are greater, because they operate as central stations at long distances. Private central stations furnish 30 per cent. more energy for private lighting, and 60 per cent. more for public lighting per inhabitant. They also sell much more energy for power.
 
-In the insurance system in operation in the canton of Waad the cost of administration was 13 francs 48 in 1907; in Glarus, from 1895 to 1905, 9 francs 34 per 100, and in 1907, 13 francs 48.
+The financial results are as follows:
 
-The state must accept all risks, the bad with the good.
+The installation costs, on the average, are 1,160 marks per kw., for municipal plants, and 1,240 marks for private plants. The private plants operating at long distances have a more expensive system of high tension lines and transforming stations. Nevertheless, they can furnish 1 kwh. 28 per mark of cost of installation, while municipal plants can only furnish 1 kwh. 12. They also content themselves with lower rates.
 
-December 20, 1907, the French minister of the Interior announced that he would not oppose the creation of a departmental fire insurance fund in the district of the Côte-d'Or. The fund was therefore established, January 1, with an annual subsidy of 15,000 francs from the General Council, and with a central bureau installed in the prefecture.
+The following table gives the difference in rates between municipal and private plants:
 
-A clause limited the insurance premium to 10 francs; but this clause, considered “as a slight anti-collectivist barrier,” has disappeared. The advantages extolled are: The annual policy; the opportunity of insuring one's self at the town hall of one's own town; “following a disaster an appraisal of Edition: current; Page: [251] damages devoid of any spirit of quibbling or barter.” The policyholder is always free to withdraw or to modify his policy.
+For light the average rate charged by private companies is 14 per cent. less than that of municipal plants; for power, 20 per cent. Even for traction there is a difference of about 8.3 per cent. in favor of private plants.
 
-No bargaining; ample satisfaction! Under certain circumstances insurance may well become an opportunity for profit in a sense never intended.
+The superiority of private plants is shown above all in the matter of expenditures.
 
-Here are evidently advantages beyond those offered by private companies—at the expense of the taxpayers in the first place. Ten years hence the actual results may be known.
+The expenses for fuel, oil and maintenance are less for private plants, because these plants are better equipped and better managed. Yet the labor expenses are higher. The miscellaneous expenses are also higher, because private plants are subject to local taxation from which municipal plants are exempt. If taxes were taken into consideration the gross difference between expenditures and receipts, which is 13.2 per cent. for municipal and 9.5 per cent. for private plants, would be materially modified. The differences would be reversed if private plants did not have lower rates.
 
-Two French deputies, MM. Cartier and Coudère, have each introduced a bill, establishing a state monopoly on every species of insurance. Both have been reported favorably by Brisson.
+H. Marchand, in a summary of the work of Herr Majerczik, concludes that, from every point of view, public ownership and operation of the generating forces of electricity can only be carried on at a disadvantage.
 
-In the case of the fifty-four most important French insurance companies, with fixed premiums, life, fire, etc., the profits are estimated at 31,000,000 francs. After deducting reserve and sinking funds, a net profit of 25,000,000 or 26,000,000 francs remains. Let us suppose that, with the help of first-class investments, the state can obtain a net amount greater than this profit and equal to the total dividends distributed by the companies, or, in other words, 35,000,000 francs.
+7. In the Journal des Débats and in the Économiste Français Arthur Raffalovich has asserted that public ownership and operation in Germany has been by no means so successful as enthusiastic partisans of government ownership in France and elsewhere have tried to make us believe. Several municipal enterprises have recently been liquidated and a number of electrical plants and tramways sold outright.
 
-Unless the state confiscates it will have to pay the companies between 1,000,000,000 and 1,500,000,000 francs, in order to buy them out, which sum, at 3 per cent., represents an annual interest of from 30,000,000 to 45,000,000 francs. Then add to this amount a sinking fund of about 10,000,000 francs. We have thus an asset of 35,000,000 francs, with liabilities of 40,000,000 to 55,000,000 francs. The Edition: current; Page: [252] balance of this operation is a deficit of 5,000,000 to 20,000,000 francs.
+Recent reports of the Burgomasters of Strassburg and Rheydt affirm that the operation of great industries by municipal authority is encountering numerous difficulties; that it is lacking in flexibility; that it is exceedingly hard to find competent managers; that the influences brought to bear are frequently far from disinterested, and often conflicting; that the majority of the municipal councillors have no comprehension of industrial or commercial business; that real profits are rare. In 1908, out of 36 municipal tramways, only 9 were operating without loss, while 11 were requiring rather heavy appropriations.
 
-But how will it be if the state system operate with less favorable results than private companies—an almost certain contingency? The losses might well reach 30,000,000 or even 40,000,000 francs.
+The burgomasters charge that cities which are supplying directly their own gas, electricity, and tramways are being delivered over without let or hindrance to the ringleaders of the various labor associations.
+
+In Germany to-day there is a very marked evolution in the direction of private management, the city retaining the ownership of the enterprise, but leasing the operation to a corporation. Cologne has contracted with a private company to supply the extra electricity needed, and the city has also promised not to enlarge its electrical plants.
+
+8. In his report on the municipal budget of Paris, for 1912, M. Dausset acknowledges the superiority of private enterprise over public administration in the following terms:
+
+“It may as well be confessed that a special mechanical equipment or a skilled staff is only to be obtained by applying to a private company.”
+
+The business man keeps in touch with the latest developments and spares no efforts to select his markets under the best possible conditions. Public management, “even in those rare cases where it ventures to take the initiative and point out to the council the necessary improvements and repairs, is obliged to wait several months, if not several years, to obtain the money or the indispensable authority.”
+
+The same conditions prevail in the case of street cleaning. The City of Paris is unable, with its limited annual resources, scarcely sufficient for current expenses, to bring about a rapid renewal of out-of-date equipment. The contractor, on the contrary, has at his disposal for such a purpose capital that he can pay off at his leisure, and which permits him, moreover, to offer attractive terms. Finally, being careful to reduce the cost of maintenance to a minimum, the contractor enters only after careful consideration into initial expenditures. His chief reliance is in a firstclass equipment.
+
+M. Dausset continues:
+
+“The contract system is equally well suited to the paving and asphalting of the streets, and their maintenance.
+
+“Here again everything depends upon the quality of the material employed and on the process and the care in manufacture, as well as on the way the work is performed. Taking into account the importance of the streets and the traffic they will be called upon to bear, the contractor would know how to make the necessary distinctions and would not hesitate, for example, to increase by a centimeter the thickness of the asphalt bed demanded by the specifications, if the street were much frequented, in order to escape expensive repairs in the near future, and to lessen thus the annual cost of maintenance.
+
+“In the same way, in the case of construction and maintenance of cobbled roads, the government, ill equipped and lacking the flexibility indispensable for performing such work rapidly and economically by profiting by the experience of each day, has every interest in leaving such work to private industry, while reserving for itself the equally important and delicate task of control.”
+
+In his investigation of the efficiency of municipal work Benjamin Welton also shows the superiority of the business man over the public official.
+
+“The problem that he has to solve is simple, and he considers it as a whole. He is not hampered by all sorts of restrictions. He seeks the most competent men, discharges the incapable, and is able to give bonuses for increase of production. His rule is to compare expenditures and results. He does not hesitate to make necessary expenses which will be economy in the long run. He organizes his units in such a manner that they give the maximum income. Above all, it is impossible to falsify his reports because they are verified by the party with whom he is under contract.”
+
+9. The Socialists would have us believe that from the moment a government or a municipality engages in the nationalization or the municipalization of public utilities it perseveres in the undertaking.
+
+Yet we have seen that such undertakings have been abandoned in Great Britain and Germany, while, as for New Zealand, Mr. Scholefield, in 1909, and Messrs. Le Rossignol and Stewart, in 1912, are united in the conviction that:
+
+“Of late years the whole tendency has been to leave more and more to private enterprise. It is a swing of the pendulum. Ten years ago the government would not have dared to suggest allowing private companies to develop the great assets latent in the energy of the rivers of New Zealand. To-day it is the avowed policy of the state to encourage private enterprise in this direction. It is highly improbable now that New Zealand will make any further pronounced advance toward State Socialism until a new temper succeeds to the present mood of conservative Liberalism.”
+
+The New Zealanders are not theorists, but a certain number are sufficiently shrewd to perceive that, when a loss is resulting from a state enterprise, it affects the whole nation. In other words, that the government in pursuing such a policy is forcing some individuals to help to bear the financial burdens of others.
+
+10. J. C. B. Perry, in a letter to the Manchester City News, of March 4, 1911, said:
+
+“If gas were being furnished by a private company it would have to have a high illuminating power. We cannot force the gas committee to give it, and it does not give it. If the tramways belonged to a company they would not be permitted to monopolize the streets in the center of the city to the detriment of all other species of transportation. Our market committee is losing on its refrigerating plants, while a competing company is a commercial success and is giving ‘cheap food’.”
+
+When political or administrative bodies, whether states or municipalities, operate, they are regulating themselves. This is a sufficient reason in itself for the suppression of all public trading operations, because it is necessary that there be a distinct separation between the forces of operation and regulation.
+
+Industrial operation is inherently adapted to private enterprise. Industrial control is the corresponding function of states and municipalities.

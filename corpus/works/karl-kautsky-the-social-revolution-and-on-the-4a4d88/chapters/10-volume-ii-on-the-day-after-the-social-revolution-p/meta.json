@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-social-revolution-and-on-the-4a4d88",
+  "work_title": "The Social Revolution (and On the Day After the Social Revolution)",
+  "chapter_number": 10,
+  "chapter_title": "Volume II On the Day after the Social Revolution (Part 1)",
+  "chapter_slug": "10-volume-ii-on-the-day-after-the-social-revolution-p",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5badc7e-6232-55db-8eaf-7115c921274d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1005,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1902/socrev/pt2-1.htm"
+    }
+  ]
+}

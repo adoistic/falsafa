@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-labour-in-irish-history-dad525",
+  "work_title": "Labour in Irish History",
+  "chapter_number": 17,
+  "chapter_title": "Chapter XIII Our Irish Girondins sacrifice the Irish peasantry upon the altar of private property",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c70c7d4-d881-55ac-92a8-c6831d5b066c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3605,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1910/lih/chap13.htm"
+    }
+  ]
+}

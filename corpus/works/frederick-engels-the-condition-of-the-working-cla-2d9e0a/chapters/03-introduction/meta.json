@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-engels-the-condition-of-the-working-cla-2d9e0a",
+  "work_title": "The Condition of the Working Class in England",
+  "chapter_number": 3,
+  "chapter_title": "Introduction",
+  "chapter_slug": "03-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3d1870ed-6577-5c1f-adc6-1dbb9256916c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6307,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch02.htm"
+    }
+  ]
+}

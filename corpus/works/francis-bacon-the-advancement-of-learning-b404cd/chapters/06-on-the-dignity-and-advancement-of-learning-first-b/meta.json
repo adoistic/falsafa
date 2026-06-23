@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 6,
+  "chapter_title": "On the Dignity and Advancement of Learning, First Book",
+  "chapter_slug": "06-on-the-dignity-and-advancement-of-learning-first-b",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "41ba9500-0507-5fb7-925f-8365f3764d16",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 15545,
+      "paragraph_count": 80,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

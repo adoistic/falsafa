@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 15,
+  "chapter_title": "â§ 18 The concentration and centralization of capital as causal factors of communism",
+  "chapter_slug": "15-a-18-the-concentration-and-centralization-of-capit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ed0ffdf9-1c1f-5bdd-a88a-879fd6b79361",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 649,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/02.htm"
+    }
+  ]
+}

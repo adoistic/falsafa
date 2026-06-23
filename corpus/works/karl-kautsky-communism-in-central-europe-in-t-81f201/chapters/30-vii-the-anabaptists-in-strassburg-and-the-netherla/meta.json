@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 30,
+  "chapter_title": "VII. The Anabaptists in Strassburg and the Netherlands",
+  "chapter_slug": "30-vii-the-anabaptists-in-strassburg-and-the-netherla",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cb19e63c-20a4-502a-b625-a28dd9a4b41c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2473,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch05c.htm"
+    }
+  ]
+}

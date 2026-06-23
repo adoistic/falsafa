@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-labour-revolution-9d61f0",
+  "work_title": "The Labour Revolution",
+  "chapter_number": 34,
+  "chapter_title": "(d) The Socialization of Small Holdings",
+  "chapter_slug": "34-d-the-socialization-of-small-holdings",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b1c4726-d51a-5f80-9d05-1e3551cbab52",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1076,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1924/labour/ch03_i.htm"
+    }
+  ]
+}

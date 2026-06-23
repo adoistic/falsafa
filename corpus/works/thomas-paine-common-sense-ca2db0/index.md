@@ -4,7 +4,7 @@ slug: "thomas-paine-common-sense-ca2db0"
 title: Common Sense
 author:
   name: Thomas Paine
-  biography: "English corset-maker turned American revolutionary pamphleteer. Common Sense, published anonymously in January 1776, made the case for independence in language a dockworker could quote, and sold in numbers no American publication had approached."
+  biography: "English-born corset-maker turned American and French revolutionary pamphleteer. Common Sense argued for American independence in plain language and sold in unprecedented numbers, and Rights of Man defended the French Revolution against Burke."
   birth_year: 1737
   death_year: 1809
   nationality: English

@@ -1,0 +1,73 @@
+---
+work_id: "a2ee7401-3b76-54d9-afc4-43e9bc7d3e6b"
+work_slug: "karl-kautsky-terrorism-and-communism-a-contri-a2ee74"
+work_title: "Terrorism and Communism: A Contribution to the Natural History of Revolution"
+author_name: Karl Kautsky
+chapter_number: 4
+chapter_title: III. The Great Revolution
+chapter_slug: "04-iii-the-great-revolution"
+variant_id: "e0920121-bb22-5ff5-bba9-1317ed21613a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2118
+source_url: "https://www.marxists.org/archive/kautsky/1919/terrcomm/ch03.htm"
+translator: W.H. Kerridge
+---
+
+Louis XIV, the same who, out of fear, had fled from Paris to Versailles, which he chose as his residence, succeeded in breaking down the last attempts of the nobility to acquire their independence. He was also strong enough in the struggles with his neighbours to extend his kingdom, and make it one of the greatest and most powerful States in Europe. But he attained this only after a series of bitter struggles, which left France thoroughly exhausted and brought her to the very brink of ruin.
+
+His last war, the Spanish War of Succession, which lasted from 1701 till 1714; and ended unsuccessfully for France, would itself have been sufficient to cause a revolution, if a strong revolutionary class had already been in existence. The bitter feeling against the monarch was enormous. That is shown by his death in 1715.
+
+His burial was carried out in the simplest manner possible, in order “to save time and money.” The people of Paris, who now believed itself freed from an intolerable yoke, followed the hearse of the great king during its passage through the streets, not only shouting out angry curses and maledictions, but actually hurling mud and stones. Round about the provinces there arose a shout of joy, mingled with curses on the deceased. Everywhere thanksgivings were held. The good fortune to be delivered from such a despot betrayed itself openly and without shame. Peace, liberty of action, lowered taxes were the benefits that the people hoped to derive from the Regent. (M. Phillippson, The Period of Louis XIV, p.518.)
+
+The people of France were doomed to bitter experiences with the followers of the “King’s Son” before they were able, through the great Revolution, to take their own fortunes in their own hands.
+
+Scarcely had the country begun to recover, to some extent, when it was plunged into new wars. From 1733 to 173 it was at war with Austria, for the sake of Poland and Lorraine; 1740 to 1748 it took part in the Austrian War of Succession on the side of Prussia against Maria Theresa and England; 1778 to 1783 they were able, through the great Revolution, to take their own fortunes iota their own hands.
+
+These wars not only ruined the country; they were so miserably conducted, that they brought the French no military glory whatever. (Rossbach)
+
+Absolutism, with the help of the rising bourgeoisie, had overthrown the feudal nobility – not, however, in order to abolish it, but rather to exercise unlimited power over it. The monarch felt that the nobility were indispensable to him. He chose as leaders of the State policy, and of the army, members of the nobility who still showed devotion to him; but at the same time he deprived this same nobility of all independence. He degraded them until they led a parasitic life of pleasure thus allowing them to become morally and spiritually decadent, and leading them on to economic ruin.
+
+The more apparent the moral, intellectual and economic bankruptcy of the nobility became, the greater were the claims of that nobility on the peasantry, the more excessive their oppression and subjection, and the more did their agricultural pursuits lose in economic certainty. At the same time, the claims of the. nobles on the unhappy peasants, whom they regarded as the chief contributors to the taxes, increased enormously. For the nobility, not content with having ruined the State through their diplomacy and military ventures, sought to compensate themselves for their economic decline by resorting to plunder. In this they had the Church as well as the monarchy to aid them, for they represented the great landed proprietors of the State.
+
+Over against these desperate conditions in Paris was to be found a strong and rapidly rising bourgeoisie, with a numerous body of intellectuals, who quickly realised the evils affecting the State and social order, and who branded them more unsparingly and denounced them more destructively than any intellectuals in other large cities in Europe could have done. And below them was a small bourgeoisie, the most powerful and with the greatest amount of self-assurance in Europe, as well as a proletariat than which none was more numerous, more concentrated, more desperate and determined.
+
+A fearful conflict was inevitable as soon as these opposing forces should become arraigned against one another. It broke out when finally the monarchy could do no more, and at a time when financial ruin was threatening, since no financier would advance more credit.
+
+The feudal councils, which had not met since 1614, and which embodied a permanent representation of the nobility, the clericals, the ordinary citizens, were called upon to help, to sanction new taxes and loans, and so help to raise the credit of bankrupt absolutism, and infuse it with fresh life. The elections for the individual councils were proclaimed in 1789, and the elected were summoned to the King’s palace at Versailles.
+
+However, with the exception of the courtiers, all classes were too embittered against the reigning system. These councils, after their convention on May 6, 1789, set about reforming the taxes and loans, instead of creating new ones. But on this matter the nobles and the clericals had somewhat different views from the bourgeoisie. These were victorious through their hostile attitude towards these councils. The general councils were formed into a constituent National Assembly, which gave France an entirely new constitution.
+
+The power of the National Assembly was at first only a moral power. It reposed in the consciousness that by far the great majority of the nation was behind it. But that by no means sheltered it against a coup d’état of a physical order. The monarchy still had at its command such power – the army, for instance – and it was quite prepared to make use of it if necessary.
+
+But they had to bear in mind the physical strength which still lay at the disposal of Paris. It was only when Paris had been overcame that they dared to hope to dismember the National Assembly, and to bend it to its will. Hence numerous troops were marshalled together in Paris; and when it was thought that all was safe the coup d’état followed, and the dismissal of the Minister, Necker, whom the National Assembly had endeavoured to force the King to accept (July 12, 1789).
+
+Whether Paris had taken this event quite calmly or whether it had come into conflict with the troops, the fate of the Revolution would have been sealed. But Paris rose up; the King’s troops failed; the proletariat and the small bourgeois masses broke into the ‘Invalides,’ captured some 30,000 pieces of arms, and stormed the fortress that lay before the revolutionary suburb, viz., the Bastille (July 14, 1789).
+
+But now the King and his courtiers combined, and the peasants rose in revolt throughout the length and breadth of the land. Already before there had been instances of single peasant risings, which had been easily quelled. But now no power could withstand the storm that arose. Paris at that time saved the Revolution and made it general.
+
+Gradually it seemed as if the storm was abating. The King and his feudal courtiers regained courage; he began to oppose certain decisions of the National. Assembly and to muster new troops. So the Parisians came to the conclusion that they could never be safe as long as the heads of the State, the King and the National Assembly, remained in Versailles. They wished to bring these under their supervision and direct influence. On October 5, 1789, large bands of people tramped to Versailles and fetched the King back to Paris. The people now hoped to have peace, and to be able to devote their energies to the building up of the constitution and to practical work, from which they expected, as a consequence of improved conditions, to derive advantage and benefit. On July 14, 1790, Louis XVI swore fidelity to the constitution, although much against his will. He felt himself a prisoner in the Tuileries, and all the acts of his Government were repugnant to him.
+
+Not a year had passed, since his taking of the oath to the constitution, when he secretly fled (June 21, 1791), and was misguided enough, before he had reached safety, to explain himself to the masses of the people. He left behind a document in which he declared that all his orderings and decrees since October, 1789, had been wrung from him against his will, and that he pronounced them null and void. This was a very premature move on his part; for while in flight he was recognised, taken prisoner, and brought back to Paris.
+
+Even at that time a large section of the embittered masses demanded the dethronement of the King; but the monarchical instincts of the masses of the people were too deep-seated to make such a step successful. But it saved Louis, for at that moment it was only dethronement with which he was threatened.
+
+He had worse fate when France, under his monarchy, became involved in war with the allied monarchies of Europe (April, 1792). This was not a war, like the preceding, for more or less land. It was a war of the feudal nobility and of European Absolutism against a people that had gained its freedom, and which was now in danger of coming under the yoke once more. It was a real civil war’, with all the attendant cruelties that characterise civil wars. The country’s enemy threatened the revolutionary people with total destruction, and their own King was an ally of the country’s enemy.
+
+In this situation the monarchical idea lost all its power; nevertheless the National Assembly could not yet decide to discard it. It was the Parisians who again insisted that Louis should be taken captive and a new National Assembly convened, called the Convention, which should give France a new republican constitution (August 10, 1792). In the first sitting this new Convention unanimously decided on the abolition of the monarchy (September 21, 1792). But the Parisians believed that the safety of the Republic would not be ensured so long as Louis XVI still lived. They demanded that he should be put on trial for treason. The majority of the Convention recoiled before this measure. But the rage of the Parisian wag irresistible when they heard that a secret cupboard in the Tuileries had been discovered containing a series of documents. These documents proved that the King had bought aver a number of Parliamentarians, among them Mirabeau; and that a number of his guards, who had fought in the ranks of the Austrians against France, had even during that war drawn payment from him.
+
+In spite of all, a section of the Convent endeavoured to save the King. They wanted to appeal to the people of France. Through a general election Louis’s fate was to be determined.
+
+This attempt to play off the Provinces against Paris met with most determined opposition on the park the Parisians. Fear of them over-ruled the Convention. The appeal to the people was rejected by 423 votes against 276. Thus was Louis’ fate settled, and he mounted the scaffold on January 21, 1793.
+
+The Republican Party that pleaded most for the King at the time were the so-called Girondins, who had derived their name from the fact that the candidates who first formed the nucleus of the party had been elected in the Province of the Gironde. They were the most furious haters of Paris, whose power they wished to break. They wanted France to become a. Federal State.
+
+Four days after the opening of the Convention, the Girondin, Lasource, amid the applause of his confederates, reiterated the words: – “And I will not have Paris led by a band of intriguers, nor let her become for France what Rome at one time was for the Roman Empire. The influence of Paris must be reduced to the 83rd part, to that share which every other province has equally.” (Kumow. The Parties in the Great French Revolution, p.349).
+
+The opposition between the Girondins and Paris assumed the wildest forms. In the revolts of May 31 to June 2, 1793, the Parisians succeeded in carrying out their demand for the expulsion and arrest of thirty-four Girondins. The answer to this was the murder of Marat by the Girondine, Charlotte Corday, of Normandy (July 13) and soon after the attempt by the Girondins to instigate Normandy, Brittany and the South of France against the Convention – all this during the war. Whereupon the Parisians retaliated, and they carried out (on October 31) the execution of all the Girondins who could be found in Paris.
+
+Chapter 4 |

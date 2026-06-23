@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 54,
+  "chapter_title": "III. Short-Term Loans in the International Mechanism",
+  "chapter_slug": "54-iii-short-term-loans-in-the-international-mechanis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3fd90532-6c6d-5853-97ea-53ed4d44017f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2865,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

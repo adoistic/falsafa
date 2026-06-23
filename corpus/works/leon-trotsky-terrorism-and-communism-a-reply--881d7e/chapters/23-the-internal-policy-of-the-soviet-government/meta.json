@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-terrorism-and-communism-a-reply--881d7e",
+  "work_title": "Terrorism and Communism: A Reply to Karl Kautsky",
+  "chapter_number": 23,
+  "chapter_title": "The Internal Policy of the Soviet Government",
+  "chapter_slug": "23-the-internal-policy-of-the-soviet-government",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f223d507-3ab9-54be-abee-c7cf3fbd853a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2357,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1920/terrcomm/ch07.htm"
+    }
+  ]
+}

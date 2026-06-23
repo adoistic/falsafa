@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 47,
+  "chapter_title": "Vii.—: What keeps a matter safe and entire, is good; but what leaves no retreat, is bad: for inability to retire is a ki",
+  "chapter_slug": "47-vii-what-keeps-a-matter-safe-and-entire-is-good-bu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ae36535-f0f6-558e-b40c-6184b7d8a1b1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 237,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

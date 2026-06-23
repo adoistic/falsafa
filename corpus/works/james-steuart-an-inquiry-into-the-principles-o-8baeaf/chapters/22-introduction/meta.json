@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 22,
+  "chapter_title": "Introduction",
+  "chapter_slug": "22-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0c532a35-5d36-5246-85fd-32dbd34f673a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1586,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2.htm"
+    }
+  ]
+}

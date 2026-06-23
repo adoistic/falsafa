@@ -2,7 +2,7 @@
   "work_slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
   "work_title": "Letters of Marcus Tullius Cicero",
   "chapter_number": 2,
-  "chapter_title": "ON FRIENDSHIP",
+  "chapter_title": "On Friendship",
   "chapter_slug": "02-on-friendship",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 15137,
+      "word_count": 14997,
       "paragraph_count": 75,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"

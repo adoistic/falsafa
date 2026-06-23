@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 56,
+  "chapter_title": "LV. The Spirit of Gravity.",
+  "chapter_slug": "56-lv-the-spirit-of-gravity",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fa2f0179-cf66-5d7f-8a6a-ea5cafe07e08",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 1137,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "757c0777-42e5-51bf-ac5a-24eb639b2b09",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1212,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

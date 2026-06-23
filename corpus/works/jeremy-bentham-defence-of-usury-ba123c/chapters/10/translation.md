@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 10
-chapter_title: "LETTER X.: Grounds of the Prejudices against Usury."
+chapter_title: "Letter X.: Grounds of the Prejudices against Usury."
 chapter_slug: 10
 variant_id: "de46f009-8655-538e-856f-98cfa5c50609"
 content_type: translation

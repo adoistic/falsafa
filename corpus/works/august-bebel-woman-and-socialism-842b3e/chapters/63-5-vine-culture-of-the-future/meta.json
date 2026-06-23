@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 63,
+  "chapter_title": "5. Vine-Culture of the Future.",
+  "chapter_slug": "63-5-vine-culture-of-the-future",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a62ce760-9055-5277-906a-d9910c475e66",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1242,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch22.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 1
-chapter_title: "LETTER I.: Introduction."
+chapter_title: "Letter I.: Introduction."
 chapter_slug: 01
 variant_id: "f067d604-24e6-5447-8ae3-ac78e6bee983"
 content_type: translation

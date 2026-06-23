@@ -4,7 +4,7 @@ work_slug: "desiderius-erasmus-in-praise-of-folly-6833be"
 work_title: In Praise of Folly
 author_name: Desiderius Erasmus
 chapter_number: 2
-chapter_title: ERASMUS’S EPISTLE to Sir THOMAS MORE.
+chapter_title: Erasmus’s Epistle to Sir Thomas More.
 chapter_slug: "02-erasmus-s-epistle-to-sir-thomas-more"
 variant_id: "3e85de23-4d2b-5c0a-ac4f-db3646d935a3"
 content_type: translation

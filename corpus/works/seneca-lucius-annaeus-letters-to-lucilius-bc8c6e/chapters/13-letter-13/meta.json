@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 13,
+  "chapter_title": "Letter 13",
+  "chapter_slug": "13-letter-13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bd35d62d-350c-54d9-b0d9-4d2ca0625f74",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 903,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d2a246cc-e8c7-5e32-a8e5-ce9e7a819098",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1458,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

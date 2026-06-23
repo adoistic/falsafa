@@ -4,7 +4,7 @@ work_slug: "pieter-de-la-court-the-true-interest-and-political--9b87f2"
 work_title: The True Interest and Political Maxims of the Republic of Holland
 author_name: Pieter de la Court
 chapter_number: 1
-chapter_title: THE PREFACE.
+chapter_title: The Preface.
 chapter_slug: "01-the-preface"
 variant_id: "a7897f49-9f07-5297-b523-99d58994f79e"
 content_type: translation

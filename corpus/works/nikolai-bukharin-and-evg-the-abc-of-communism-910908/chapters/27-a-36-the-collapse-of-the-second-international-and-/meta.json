@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 27,
+  "chapter_title": "Â§ 36 The collapse of the Second International and its causes",
+  "chapter_slug": "27-a-36-the-collapse-of-the-second-international-and-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "335c2d26-cc56-5227-9172-643ff73d2dd7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1373,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/05.htm"
+    }
+  ]
+}

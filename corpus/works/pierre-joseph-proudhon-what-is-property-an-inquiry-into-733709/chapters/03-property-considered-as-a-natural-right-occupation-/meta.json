@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 3,
+  "chapter_title": "Property considered as a Natural Right. — Occupation and Civil Law as Efficient Bases of Property. Definitions.",
+  "chapter_slug": "03-property-considered-as-a-natural-right-occupation-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a1ac742f-a27c-5fa1-9710-b0b1f7ee2674",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 820,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch02.htm"
+    }
+  ]
+}

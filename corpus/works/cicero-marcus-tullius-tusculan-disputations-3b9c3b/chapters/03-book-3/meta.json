@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-tusculan-disputations-3b9c3b",
+  "work_title": "Tusculan Disputations",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2ed9f1e0-786b-50df-80b1-640268e5e9f3",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8744,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi049"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4bcbfeaa-5a16-5050-affe-73834c494236",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 13040,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

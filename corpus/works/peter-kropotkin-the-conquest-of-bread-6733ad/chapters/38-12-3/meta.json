@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-the-conquest-of-bread-6733ad",
+  "work_title": "The Conquest of Bread",
+  "chapter_number": 38,
+  "chapter_title": "12.3",
+  "chapter_slug": "38-12-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e2825bf9-fe5d-52e3-b5ae-36b20161b939",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1518,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1892/bread.htm"
+    }
+  ]
+}

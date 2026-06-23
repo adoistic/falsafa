@@ -4,7 +4,7 @@ work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
 work_title: The Ecclesiastical History of the English Nation
 author_name: The Venerable Bede
 chapter_number: 37
-chapter_title: CHAPTER XXXII
+chapter_title: Chapter XXXII (1)
 chapter_slug: 37
 variant_id: "bd98ff4e-a109-57a0-b469-b18a22840695"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 893
+word_count: 889
 source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
 translator: Online Library of Liberty edition
 ---
@@ -28,7 +28,7 @@ The same holy Pope Gregory, at the same time, sent a letter to King Ethelbert, w
 
 “Willingly hear, devoutly perform, and studiously retain in your memory, whatsoever you shall be advised by our most reverend brother, Bishop Augustine, who is instructed in the monastical rule, full of the knowledge of the holy Scripture, and, by the help of God, endued with good works; for if you give ear to him in what he speaks for Almighty God, the same Almighty God will the sooner hear him praying for you. But if (which God avert!) you slight his words, how shall Almighty God hear him in your behalf, when you neglect to hear him for God? Unite yourself, therefore, to him with all your mind, in the fervour of faith, and further his endeavours, through the assistance of that virtue which the Divinity affords you, that He may make you partaker of his kingdom, whose faith you cause to be received and maintained in your own.
 
-“Besides, we would have your glory know, we find in the holy Scripture, from the words of the Almighty Lord, that the end of this present world, and the kingdom of the saints, is about to come, which will never terminate. But as the same end of the world approaches, many things are at hand which were not before, viz. changes of air, and terrors from heaven, and tempests out of the order of the seasons, wars, famines, plagues, earthquakes in several places; which things will not, nevertheless, happen in our days, but will all follow after our days. If you, therefore, find any of these things to happen in your country, let not your mind be in any way disturbed; for these signs of the Edition: current; Page: [57] end of the world are sent before, for this reason, that we may be solicitous for our souls, suspicious of the hour of death, and may be found prepared with good works to meet our Judge. Thus much, my illustrious son, I have said in few words, to the end that when the Christian faith shall increase in your kingdom, our discourse to you may also be more copious, and we may be pleased to say the more, in proportion as joy for the conversion of your nation is multiplied in our mind.
+“Besides, we would have your glory know, we find in the holy Scripture, from the words of the Almighty Lord, that the end of this present world, and the kingdom of the saints, is about to come, which will never terminate. But as the same end of the world approaches, many things are at hand which were not before, viz. changes of air, and terrors from heaven, and tempests out of the order of the seasons, wars, famines, plagues, earthquakes in several places; which things will not, nevertheless, happen in our days, but will all follow after our days. If you, therefore, find any of these things to happen in your country, let not your mind be in any way disturbed; for these signs of the end of the world are sent before, for this reason, that we may be solicitous for our souls, suspicious of the hour of death, and may be found prepared with good works to meet our Judge. Thus much, my illustrious son, I have said in few words, to the end that when the Christian faith shall increase in your kingdom, our discourse to you may also be more copious, and we may be pleased to say the more, in proportion as joy for the conversion of your nation is multiplied in our mind.
 
 “I have sent you some small presents, which will not appear small, when received by you with the blessing of the holy apostle, Peter. May Almighty God, therefore, perfect in you his grace which He has begun, and prolong your life here through a course of many years, and after a time receive you into the congregation of the heavenly country. May heavenly grace preserve your excellency in safety.
 

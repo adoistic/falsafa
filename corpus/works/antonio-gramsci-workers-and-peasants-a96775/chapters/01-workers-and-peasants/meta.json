@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-gramsci-workers-and-peasants-a96775",
+  "work_title": "Workers and Peasants",
+  "chapter_number": 1,
+  "chapter_title": "Workers and Peasants",
+  "chapter_slug": "01-workers-and-peasants",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ac256b7-1437-5791-97e0-1b77a5118e26",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1818,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gramsci/1919/08/workers-peasants.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 25,
+  "chapter_title": "â§ 34 Chaos or communism",
+  "chapter_slug": "25-a-34-chaos-or-communism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "17996844-2db3-5c6d-b346-f08bcf4caf94",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 561,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/04.htm"
+    }
+  ]
+}

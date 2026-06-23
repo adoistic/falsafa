@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-one-step-forward-two-steps-back--9a5c6a",
+  "work_title": "One Step Forward, Two Steps Back (The Crisis in Our Party)",
+  "chapter_number": 1,
+  "chapter_title": "Preface",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a842eb8-b9b5-540f-9b50-22a855619685",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1217,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1904/onestep/preface.htm"
+    }
+  ]
+}

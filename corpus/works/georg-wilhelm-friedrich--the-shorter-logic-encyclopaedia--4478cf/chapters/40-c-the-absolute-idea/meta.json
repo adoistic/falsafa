@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 40,
+  "chapter_title": "(c) The Absolute Idea",
+  "chapter_slug": "40-c-the-absolute-idea",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e013d5ae-510d-51bc-b952-995b1daee6e6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1970,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slidea.htm"
+    }
+  ]
+}

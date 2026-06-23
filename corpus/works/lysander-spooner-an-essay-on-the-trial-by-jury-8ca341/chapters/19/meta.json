@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-an-essay-on-the-trial-by-jury-8ca341",
+  "work_title": "An Essay on the Trial by Jury",
+  "chapter_number": 19,
+  "chapter_title": "Section Vi.↩, An Essay on the Trial by Jury (7)",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "83a0a6bd-e163-52c1-b3bd-13e3b391ad9c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 987,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-an-essay-on-the-trial-by-jury-1852"
+    }
+  ]
+}

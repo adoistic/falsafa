@@ -1,0 +1,39 @@
+---
+work_id: "2a5eb9af-35ff-5fa6-90dd-8301f6dbd5cc"
+work_slug: "rosa-luxemburg-the-socialist-crisis-in-france-2a5eb9"
+work_title: The Socialist Crisis in France
+author_name: Rosa Luxemburg
+chapter_number: 7
+chapter_title: Comedians – Monarchal and Socialist
+chapter_slug: "07-comedians-monarchal-and-socialist"
+variant_id: "d32a5357-b58f-5d51-ac2a-51459ed16336"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1138
+source_url: "https://www.marxists.org/archive/luxemburg/1901/socialist-crisis-france/ch01.htm"
+translator: Ernest Erber
+---
+
+Events in a word were considerably different than they appeared on the surface. Here, as ever, the security of the Republic did not depend on individual “saviors”, above all not on a minister’s seat, but upon the whole internal relationship of the economic and political conditions of the country. It is easy to understand how the danger of a coup d’etat in France could appear to be serious and great in the midst of the-tumult of the daily struggle, where an investigation of the social background of the phenomena is very difficult, virtually impossible for the participants, and where, as a matter of course, the events and facts assume exaggerated dimensions. An energetic action was natural on the part of the republicans to hold the nationalist mob and the General Staff in check – and an action outside of parliament was an even more crying need.
+
+But to adhere to such views born in the daily struggle today, after the crisis is over and when it can be seen from a distance, and to celebrate in all seriousness the cabinet of Millerand as the true “saviors” of the French Republic, is nothing else but an example of that vulgar historical method, which, as a counterpart of vulgar economics, presents the events merely as they present themselves on the surface of political life and understands history to be the work of ministers and other “important” people, instead of understanding its true internal relationships. Millerand’s salvation of the Republic is to be taken just as seriously as the monarchist threat presented by Deroulede.
+
+With the coup d’état of the Eighteenth Brumaire (November 9), 1799, Napoleon Bonaparte assumed supreme power. Returning from Egypt a national hero, he had no trouble in putting an end to the Directorate, dissolving the Council of Five Hundred at bayonet point, and forcing the Council of Elders to appoint him First Consul, the other two consuls being mere figureheads. The stream of the Great French Revolution, lost for years in the stagnant marshes of the Directorate, was dammed up for good by the Eighteenth Brumaire. – D.M.
+
+Louis Napoleon – “Napoleon the Little”, the nephew of Napoleon I – was elected president of the newborn Second Republic in 1848, a few months after the insurgent workers of Paris had been crushed in the “June Days”. After three years of parliamentary rule, on December 2, 1851, the anniversary of Austerlitz, he dissolved the Chamber illegally, had the party leaders arrested, and, a few weeks later, had himself re-elected president in a national plebiscite. “On December 3” writes Marx in The Eighteenth Brumaire of Louis Napoleon, “the February Revolution is conjured away by a card-sharper’s trio!” – D.M.
+
+Luxemburg seems to be thinking here of the final transition to a monarchal regime rather than the first seizure of power. The Eighteenth Brumaire led to the lifelong consulate, which was conferred on Napoleon in 1802, after a plebiscite in which 3,568,885 voters answered Yes and 8,374 answered No to the question: “Is Napoleon Bonaparte to be made consul for life?” The life consulate, in turn, prepared the way for the final crowning of Napoleon as Emperor of the French in 1804. So, too, Louis Napoleon was elected president by plebiscite on December 20, 1851, three weeks after his initial coup. This set the stage for another plebiscite, on December 2, 1852, which gave him supreme power and the title Emperor Napoleon III. – D.M.
+
+Two of the many governmental scandals of this period of the Third Republic. The Panama Canal affair was especially serious. Ferdinand de Lesseps, the engineer of the Suez Canal, in 1880 organized a company to cut a canal through the Isthmus of Panama. The French public invested $250,000,000 in the scheme, but no work was done of any importance, and the company went bankrupt. In 1892 the suicide of Baran Reinach, a banker closely connected with De Lesseps, precipitated a “Stavisky Crisis” in the government. Over one hundred members of the two national chambers were involved, including the president of the Chamber of Deputies, who admitted he had received $60,000 for his services. The affair caused the fall of two cabinets. – D.M.
+
+Cf. Encyclopaedia Britannica, 1lth Edition, on this situation: “The opposition to the government was heterogeneous. It included the few monarchists left in the Chamber, the nationalists ... and a number of ... republicans ... The ablest leaders of the opposition were all malcontent republicans. . . The most conspicuous opponents of the cabinet were three ex-prime ministers: MM. Méline, Charles Dupuy, and Ribot.” – D.M.
+
+It should be remembered that this paragraph was written forty years ago. It has long been clear and, no doubt, became clear enough Luxemburg herself during the war – that “democratization” of the army means little so long as it is used to defend the bourgeois state, and that the content of “national defense” has evaporated in the period of imperialism. As an example of how revolutionary thinking has changed on this point, it is interesting to compare with Luxemburg’s reasoning, section 43 of the war resolution adopted by the Sixth Congress of the Communist International in 1928: “In imperialist States the attitude of the proletariat towards armies is determined by the following: No matter what their form of organization may be, armies are a constituent part of the bourgeois State apparatus, which the proletariat, in the course of its revolution, must not democratize, but break up. This attitude must be maintained equally towards standing armies and democratic militia, for both these forms of military organization represent the armed forces of the bourgeoisie directed against the proletariat.
+
+Section 45 also has some sentences to the present point: “Bourgeois militia, universal military service, the military training of youth, etc. were all at one time advocated by revolutionary democracy. At the present time, however, they serve as ordinary reactionary instruments for oppressing the masses and for preparing for imperialist wars.” – D.M.
+
+This farcical attempt at a coup was connected with the Dreyfus Case. President Faure, who was violently anti-Dreyfus, died early in 1899. His successor was M. Loubet, who was known to be sympathetic to the Dreyfusards and who, in fact, a few months later granted a pardon to Dreyfus, at the suggestion of the new premier, Waldeck-Rousseau. The “attempt to beat up the president at the race track” was directed against Loubet at Auteuil in June, 1899. The “great hysterical moment” took place during the funeral of President Faure. Deroulede was a poet who dabbled in politics and who some years earlier, as president of “The League of Patriots”, had been involved in General Boulanger’s conspiracy against the Republic. Deroulede, naturally, was an anti-Dreyfusard, as was General Roget – but the latter, as Luxemburg remarks, was less of a fool and so refused to march. – D.M.

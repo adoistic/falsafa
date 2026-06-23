@@ -1,0 +1,26 @@
+{
+  "work_slug": "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2",
+  "work_title": "Dialogues Concerning Two New Sciences",
+  "chapter_number": 26,
+  "chapter_title": "Appendix",
+  "chapter_slug": "26-appendix",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c09163ab-7d4c-50a7-a328-cb6f42c28f68",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1262,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/galilei-dialogues-concerning-two-new-sciences"
+    }
+  ]
+}

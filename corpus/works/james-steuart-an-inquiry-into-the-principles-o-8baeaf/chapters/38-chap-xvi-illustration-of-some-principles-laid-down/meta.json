@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 38,
+  "chapter_title": "Chap. XVI: Illustration of some Principles laid down in the former Chapter, relative to the Advancement and Support of f",
+  "chapter_slug": "38-chap-xvi-illustration-of-some-principles-laid-down",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b07f1374-080b-55af-9e36-a4f93ee9ee79",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1695,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_16.htm"
+    }
+  ]
+}

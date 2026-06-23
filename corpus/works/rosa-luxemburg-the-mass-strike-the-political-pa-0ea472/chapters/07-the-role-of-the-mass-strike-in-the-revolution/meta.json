@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-mass-strike-the-political-pa-0ea472",
+  "work_title": "The Mass Strike, the Political Party and the Trade Unions",
+  "chapter_number": 7,
+  "chapter_title": "The Role of the Mass Strike in the Revolution",
+  "chapter_slug": "07-the-role-of-the-mass-strike-in-the-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2bdc5427-e34d-5570-b44d-bb9c9aef3430",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2906,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1906/mass-strike/ch07.htm"
+    }
+  ]
+}

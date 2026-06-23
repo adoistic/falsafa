@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 11,
+  "chapter_title": "IX. Slave Revolts",
+  "chapter_slug": "11-ix-slave-revolts",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cd59ce67-42af-5912-b24b-f00fea7dd22d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5221,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter09.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-the-marginal-theory-of-distribut-ec7cb1",
+  "work_title": "The Marginal Theory of Distribution",
+  "chapter_number": 1,
+  "chapter_title": "The Marginal Theory of Distribution",
+  "chapter_slug": "01-the-marginal-theory-of-distribution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a0f5739b-6f54-56db-9bcd-5e1fc3bef2eb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1614,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1905/09/margin.htm"
+    }
+  ]
+}

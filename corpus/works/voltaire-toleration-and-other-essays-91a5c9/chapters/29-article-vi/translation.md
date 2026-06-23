@@ -4,7 +4,7 @@ work_slug: "voltaire-toleration-and-other-essays-91a5c9"
 work_title: Toleration and Other Essays
 author_name: Voltaire
 chapter_number: 29
-chapter_title: ARTICLE VI.
+chapter_title: Article VI.
 chapter_slug: "29-article-vi"
 variant_id: "8054e927-b165-55d7-a0af-8cb2688fa58a"
 content_type: translation

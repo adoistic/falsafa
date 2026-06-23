@@ -1,0 +1,26 @@
+{
+  "work_slug": "martin-luther-first-principles-of-the-reformat-bf397c",
+  "work_title": "First Principles of the Reformation",
+  "chapter_number": 8,
+  "chapter_title": "VII.",
+  "chapter_slug": "08-vii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f93f7821-8f73-54a3-b865-d3320a4c9363",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 850,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/luther-first-principles-of-the-reformation-1883"
+    }
+  ]
+}

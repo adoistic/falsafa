@@ -4,7 +4,7 @@ work_slug: "francis-wrigley-hirst-free-trade-and-other-fundamental-46e79c"
 work_title: Free Trade and Other Fundamental Doctrines of the Manchester School
 author_name: Francis Wrigley Hirst
 chapter_number: 2
-chapter_title: INTRODUCTION
+chapter_title: Introduction
 chapter_slug: "02-introduction"
 variant_id: "4830c518-2a99-5a10-bfc3-9a7888853145"
 content_type: translation

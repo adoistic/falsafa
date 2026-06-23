@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-bernard-shaw-the-perfect-wagnerite-a-commenta-7cd750",
+  "work_title": "The Perfect Wagnerite: A Commentary on the Niblung's Ring",
+  "chapter_number": 8,
+  "chapter_title": "Third Scene",
+  "chapter_slug": "08-third-scene",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4cb92782-d841-5e92-bb48-dfad5ef2d7f2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 827,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/shaw/works/wagner.htm"
+    }
+  ]
+}

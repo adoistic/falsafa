@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 6,
+  "chapter_title": "V. Joys and Passions.",
+  "chapter_slug": "06-v-joys-and-passions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cf26ec7d-4e05-5bfd-9b48-09b8f0dd669e",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 521,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ffb52eaa-8311-55a7-8dc1-02c5d3cc914b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 549,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

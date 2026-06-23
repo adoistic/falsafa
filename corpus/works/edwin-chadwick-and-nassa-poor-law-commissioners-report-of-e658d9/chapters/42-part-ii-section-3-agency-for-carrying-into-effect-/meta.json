@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 42,
+  "chapter_title": "[Part II, Section 3] Agency for Carrying into Effect the Intentions of the Legislature—a Central Board of Control",
+  "chapter_slug": "42-part-ii-section-3-agency-for-carrying-into-effect-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "21791d16-ac0f-5ff8-95af-f79e6b1baf63",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 260,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

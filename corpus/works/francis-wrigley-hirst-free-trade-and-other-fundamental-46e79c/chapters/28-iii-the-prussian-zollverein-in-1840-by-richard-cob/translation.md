@@ -4,7 +4,7 @@ work_slug: "francis-wrigley-hirst-free-trade-and-other-fundamental-46e79c"
 work_title: Free Trade and Other Fundamental Doctrines of the Manchester School
 author_name: Francis Wrigley Hirst
 chapter_number: 28
-chapter_title: "III.—: THE PRUSSIAN ZOLLVEREIN IN 1840 By Richard Cobden"
+chapter_title: "Iii.—: The Prussian Zollverein in 1840 By Richard Cobden"
 chapter_slug: "28-iii-the-prussian-zollverein-in-1840-by-richard-cob"
 variant_id: "d4eef79f-f25c-5826-91e6-d8745b37c008"
 content_type: translation

@@ -1,0 +1,57 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 122
+chapter_title: Letter 122
+chapter_slug: "122-letter-122"
+variant_id: "efe8dc0d-db4b-5111-a34f-3d57ee729b97"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1110
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+curator: thothica
+---
+
+1. Detrimentum iam dies sensit. Resiluit aliquantum, ita tamen ut liberate adhuc spatium sit, si quis cum ipso, ut ita dicam, die surgat. Officiosior meliorque, si quis illum exspectat et lucem primam excipit; turpis, qui alto sole semisomnus iacet, cuius vigilia medio die incipit; et adhuc multis hoc antelucanum est.
+
+2. Sunt qui officia lucis noctisque perverterint nec ante diducant oculos hesterna graves crapula quam adpetere nox coepit. Qualis illorum condicio dicitur, quos natura, ut ait vergilius, sedibus nostris subditos e contrario posuit, Nosque ubi primus equis Oriens adflavit anhelis, Illis sera rubens accendit lumina Vesper; talis horum contraria omnibus non regio, sed vita est. Sunt quidam in eadem urbe antipodes, qui, ut M. Cato ait, nec orientem umquam solem viderunt nec occidentem.
+
+3. Hos tu existimas scire quemadmodum vivendum sit, qui nesciunt quando? Et hi mortem timent, in quam se vivi condiderunt? Tam infausti quam nocturnae aves sunt. Licet in vino unguentoque tenebras suas exigant, licet epulis et quidem in multa fericula discoctis totum perversae vigiliae tempus educant, non convivantur, sed iusta sibi faciunt. Mortuis certe interdiu parentatur. At mehercules nullus agenti dies longus est. Extendamus vitam; huius et officium et argumentum actus est. Circumscribatur nox, et aliquid ex illa in diem transferatur.
+
+4. Aves, quae conviviis conparantur, ut inmotae facile pinguescant, in obscuro continentur; ita sine ulla exercitatione iacentibus tumor pigrum corpus invadit, et superba umbra iners sagina subcrescit. At istorum corpora, qui se tenebris dicaverunt, foeda visuntur. Quippe suspectior illis quam morbo patientibus color est, languidi et evanidi albent, et in vivis caro morticina est. Hoc tamen minimum in illis malorum dixerim. Quanto plus tenebrarum in animo est! Ille in se stupet, ille caligat, invidet caecis. Quis umquam oculos tenebrarum causa habuit?
+
+5. Interrogas, quomodo haec animo pravitas fiat aversandi diem et totam vitam in noctem transferendi? Omnia vitia contra naturam pugnant, omnia debitum ordinem deserunt. Hoc est luxuriae propositum, gaudere perversis nec tantum discedere a recto, sed quam longissime abire, deinde etiam e contrario stare.
+
+6. Non videntur tibi contra naturam vivere qui ieiuni bibunt, qui vinum recipiunt inanibus venis et ad cibum ebrii transeunt? Atqui frequens hoc adulescentium vitium est, qui vires excolunt, ut in ipso paene balinei limine inter nudos bibant, immo potent et sudorem, quem moverunt potionibus crebris ac ferventibus, subinde destringant. Post prandium aut cenam bibere vulgare est; hoc patres familiae rustici faciunt et verae voluptatis ignari. Merum illud delectat, quod non innatat cibo, quod libere penetrat ad nervos; illa ebrietas iuvat, quae in vacuum venit.
+
+7. Non videntur tibi contra naturam vivere qui commutant cum feminis vestem? Non vivunt contra naturam qui spectant, ut pueritia splendeat tempore alieno? Quid fieri crudelius vel miserius potest? Numquam vir erit, ut diu virum pati possit? Et cum illum contumeliae sexus eripuisse debuerat, non ne aetas quidem eripiet?
+
+8. Non vivunt contra naturam qui hieme concupiscunt rosam fomentoque aquarum calentium et calorum apta mutatione bruma lilium, florem vernum, exprimunt? Non vivunt contra naturam qui pomaria in summis turribus serunt? Quorum silvae in tectis domuum ac fastigiis nutant, inde ortis radicibus quo inprobe cacumina egissent? Non vivunt contra naturam qui fundamenta thermarum in mari iaciunt et delicate natare ipsi sibi non videntur, nisi calentia stagna fluctu ac tempestate feriantur?
+
+9. Cum instituerunt omnia contra naturae consuetudinem velle, novissime in totum ab illa desuescunt. Lucet: somni tempus est. Quies est: nunc exerceamur, nunc gestemur, nunc prandeamus. Iam lux propius accedit; tempus est cenae. Non oportet id facere, quod populus. Res sordida est trita ac vulgari via vivere. Dies publicus relinquatur: proprium nobis ac peculiare mane fiat.
+
+10. Isti vero mihi defunctorum loco sunt. Quantulum enim a funere absunt et quidem acerbo, qui ad faces et ccreos cereos vivunt? Hanc vitam agere eodem tempore multos meminimus, inter quos et Acilium Butam, praetorium, cui post patrimonium ingens consumptum Tiberius paupertatem confitenti sero, inquit, experrectus es.
+
+11. Recitabat Montanus Iulius carmen, tolerabilis poeta et amicitia Tiberi notus et frigore. Ortus et occasus libentissime inserebat. Itaque cum indignaretur quidam illum toto die recitasse et negaret accedendum ad recitationes eius, Natta Pinarius ait: Numquam possum liberalius agere: paratus sum illum audire ab ortu ad occasum.
+
+12. Cum hos versus recitasset: Incipit ardentes Phoebus producere flammas, Spargere se rubicunda dies, iam tristis hirundo Argutis reditura cibos inmittere nidis Incipit et molli partitos ore ministrat, Varus eques Romanus, M. Vinicii comes, cenarum bonarum adsectator, quas improbitate linguae merebatur, exclamavit: incipit Buta dormire. Deinde cum subinde recitasset:
+
+13. Iam sua pastores stabulis armenta locarunt, Iam dare sopitis nox pigra silentia terris Incipit, idem Varus inquit: Quid dicis? Iam nox est? Ibo et Butam salutabo. Nihil erat notius hac eius vita in contrarium circumacta; quam, ut dixi, multi eodem tempore egerunt.
+
+14. Causa autem est ita vivendi quibusdam, non quia aliquid existiment noctem ipsam habere iucundius, sed quia nihil iuvat solitum, et gravis malae conscientiae lux est, et omnia concupiscenti aut contemnenti, prout magno aut parvo empta sunt, fastidio est lumen gratuitum. Praeterea luxuriosi vitam suam esse in sermonibus, dum vivunt, volunt; nam si tacetur, perdere se putant operam. Itaque male habent, quotiens faciunt quod excidat fama. Multi bona comedunt, multi amicas habent. Ut inter istos nomen invenias, opus est non tantum luxuriosam rem, sed notabilem facere; in tam occupata civitate fabulas vulgaris nequitia non invenit.
+
+15. Pcdonem Pedonem Albinovanum narrantem audieramus, erat autem fabulator elegantissimus, habitasse se supra domum S. Papini. Is erat ex hac turba lucifugarum. Audio, inquit, circa horam tertiam noctis flagellorum sonum. Quaero, quid faciat; dicitur rationes accipere. Audio circa horam sextam noctis clamorem concitatum; quaero, quid sit; dicitur vocem exercere. Quaero circa horam octavam noctis, quid sibi ille sonus rotarum velit; gestari dicitur.
+
+16. Circa lucem discurritur, pueri vocantur, cellarii, coqui tumultuantur. Quaero, quid sit; dicitur mulsum et habeam poposcisse, a balneo exisse. Excedebat. inquit, huius diem cena minime, valde enim frugaliter vivebat; nihil consumebat nisi noctem. Itaque credendo dicentibus illum quibusdam avarum et sordidum vos, inquit, illum et lychnobium dicetis.
+
+17. Non debes admirari, si tantas invenis vitiorum proprietates; varia sunt, innumerabiles habent facies, comprendi eorum genera non possunt. Simplex recti cura est, multiplex pravi, et quantumvis novas declinationes capit. Idem moribus evenit; naturam sequentium faciles sunt, soluti sunt, exiguas differentias habent; his distorti plurimum et omnibus et inter se dissident.
+
+18. Causa tamen praecipua mihi videtur huius morbi vitae communis fastidium. Quomodo cultu se a ceteris distinguunt, quomodo elegantia cenarum, munditiis vehiculorum, sic se volunt separare etiam temporum dispositione. Nolunt solita peccare, quibus peccandi praemium infamia est. Hanc petunt omnes isti, qui, ut ita dicam, retro vivunt.
+
+19. Ideo, Lucili, tenenda nobis via est, quam natura praescripsit, nec ab illa declinandum; illam sequentibus omnia facilia, expedita sunt, contra illam nitentibus non alia vita est quam contra aquam remigantibus. Vale.

@@ -4,7 +4,10 @@ slug: "pliny-the-elder-naturalis-historia-631445"
 title: Naturalis Historia
 author:
   name: Pliny, the Elder
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman equestrian official, naturalist, and naval commander who died observing the eruption of Vesuvius. His Naturalis Historia gathered the knowledge of the ancient world into the first comprehensive encyclopedia.
+  birth_year: 23
+  death_year: 79
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

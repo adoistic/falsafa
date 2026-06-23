@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 11,
+  "chapter_title": "â§ 14 The struggle between small-scale and large-scale production (between Working Ownership and Capitalistic Non-workin",
+  "chapter_slug": "11-a-14-the-struggle-between-small-scale-and-large-sc",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bec1dd32-0f28-5861-ab6e-f925c6d75456",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2821,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/02.htm"
+    }
+  ]
+}

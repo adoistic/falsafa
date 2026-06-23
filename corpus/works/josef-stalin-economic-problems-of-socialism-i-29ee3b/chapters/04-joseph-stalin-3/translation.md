@@ -1,0 +1,63 @@
+---
+work_id: "29ee3bcd-f208-565e-b296-e4f30cc25791"
+work_slug: "josef-stalin-economic-problems-of-socialism-i-29ee3b"
+work_title: Economic Problems of Socialism in the USSR
+author_name: Josef Stalin
+chapter_number: 4
+chapter_title: Joseph Stalin (3)
+chapter_slug: "04-joseph-stalin-3"
+variant_id: "ad5b0e2c-97d4-5971-add0-fe8e7fd78da9"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1829
+source_url: "https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch04.htm"
+translator: Marxists Internet Archive edition
+---
+
+It is sometimes asked whether the law of value exists and operates in our country, under the socialist system.
+
+Yes, it does exist and does operate. Wherever commodities and commodity production exist, there the law of value must also exist.
+
+In our country, the sphere of operation of the law of value extends, first of all, to commodity circulation, to the ex-change of commodities through purchase and sale, the ex-change, chiefly, of articles of personal consumption. Here, in this sphere, the law of value preserves, within certain limits, of course, the function of a regulator.
+
+But the operation of the law of value is not confined to the sphere of commodity circulation. It also extends to production. True, the law of value has no regulating function in our socialist production, but it nevertheless influences production, and this fact cannot be ignored when directing production. As a matter of fact, consumer goods, which arc needed to compensate the labour power expended in the process of production, are produced and realized in our country as commodities coming under the operation of the law of value. It is precisely here that the law of value exercises its influence on production. In this connection, such things as cost accounting and profitableness, production costs, prices, etc., are of actual importance in our enterprises. Consequently, our enterprises cannot, and must not, function without taking the law of value into account.
+
+Is this a good thing? It is not a bad thing. Under present conditions, it really is not a bad thing, since it trains our business executives to conduct production on rational lines and disciplines them. It is not a bad thing because it teaches our executives to count production magnitudes, to count them accurately, and also to calculate the real things in production precisely, and not to talk nonsense about "approximate figures," spun out of thin air. It is not a bad thing because it teaches our executives to look for, find and utilize hidden reserves latent in production, and not to trample them under-foot. It is not a bad thing because it teaches our executives systematically to improve methods of production, to lower production costs, to practise cost accounting, and to make their enterprises pay. It is a good practical school which accelerates the development of our executive personnel and their growth into genuine leaders of socialist production at the present stage of development.
+
+The trouble is not that production in our country is influenced by the law of value. The trouble is that our business executives and planners, with few exceptions, are poorly acquainted with the operations of the law of value, do not study them, and are unable to take account of them in their computations. This, in fact, explains the confusion that still reigns in the sphere of price-fixing policy. Here is one of many examples. Some time ago it was decided to adjust the prices of cotton and grain in the interest of cotton growing, to establish more accurate prices for grain sold to the cotton growers, and to raise the prices of cotton delivered to the state. Our business executives and planners submitted a proposal on this score which could not but astound the members of the Central Committee, since it suggested fixing the price of a ton of grain at practically the same level as a ton of cotton, and, moreover, the price of a ton of grain was taken as equivalent to that of a ton of baked bread. In reply to the remarks of members of the Central Committee that the price of a ton of bread must be higher than that of a ton of grain, because of the additional expense of milling and baking, and that cotton was generally much dearer than grain, as was also borne out by their prices in the world market, the authors of the proposal could find nothing coherent to say. The Central Committee was therefore obliged to take the matter into its own hands and to lower the prices of grain and raise the prices of cotton. What would have happened if the proposal of these comrades had received legal force? We should have ruined the cotton growers and would have found ourselves without cotton.
+
+But does this mean that the operation of the law of value has as much scope with us as it has under capitalism, and that it is the regulator of production in our country too? No, it does not. Actually, the sphere of operation of the law of value under our economic system is strictly limited and placed within definite bounds. It has already been said that the sphere of operation of commodity production is restricted and placed within definite bounds by our system. The same must be said of the sphere of operation of the law of value. Undoubtedly, the fact that private ownership of the means of production does not exist, and that the means of production both in town and country are socialized, cannot but restrict the sphere of operation of the law of value and the extent of its influence on production.
+
+In this same direction operates the law of balanced (proportionate) development of the national economy, which has superseded the law of competition and anarchy of production.
+
+In this same direction, too, operate our yearly and five-yearly plans and our economic policy generally, which are based on the requirements of the law of balanced development of the national economy.
+
+The effect of all this, taken together, is that the sphere of operation of the law of value in our country is strictly limited, and that the law of value cannot under our system function as the regulator of production.
+
+This, indeed, explains the "striking" fact that whereas in our country the law of value, in spite of the steady and rapid expansion of our socialist production, does not lead to crises of overproduction, in the capitalist countries this same law, whose sphere of operation is very wide under capitalism, does lead, in spite of the low rate of expansion of production, to periodical crises of overproduction.
+
+It is said that the law of value is a permanent law, binding upon all periods of historical development, and that if it does lose its function as a regulator of exchange relations in the second phase of communist society, it retains at this phase of development its function as a regulator of the relations between the various branches of production, as a regulator of the distribution of labour among them.
+
+That is quite untrue. Value, like the law of value, is a historical category connected with the existence of commodity production. With the disappearance of commodity production, value and its forms and the law of value also disappear.
+
+In the second phase of communist society, the amount of labour expended on the production of goods will be measured not in a roundabout way, not through value and its forms, as is the case under commodity production, but directly and immediately - by the amount of time, the number of hours, expended on the production of goods. As to the distribution of labour, its distribution among the branches of production will be regulated not by the law of value, which will have ceased to function by that time, but by the growth of society's demand for goods. It will be a society in which production will be regulated by the requirements of society, and computation of the requirements of society will acquire paramount importance for the planning bodies.
+
+Totally incorrect, too, is the assertion that under our present economic system, in the first phase of development of communist society, the law of value regulates the "proportions" of labour distributed among the various branches of production.
+
+If this were true, it would be incomprehensible why our light industries, which are the most profitable, are not being developed to the utmost, and why preference is given to our heavy industries, which are often less profitable, and some-times altogether unprofitable.
+
+If this were true, it would be incomprehensible why a number of our heavy industry plants which arc still unprofitable and where the labour of the worker does not yield the "proper returns," are not closed down, and why new light industry plants, which would certainly be profitable and where the labour of the workers might yield "big returns," are not opened.
+
+If this were true, it would be incomprehensible why workers are not transferred from plants that are less profitable, but very necessary to our national economy, to plants which are more profitable - in accordance with the law of value, which supposedly regulates the "proportions" of labour distributed among the branches of production.
+
+Obviously, if we were to follow the lead of these comrades, we should have to cease giving primacy to the production of means of production in favour of the production of articles of consumption. And what would be the effect of ceasing to give primacy to the production of the means of production? The effect would be to destroy the possibility of the continuous expansion of our national economy, because the national economy cannot be continuously expanded with-out giving primacy to the production of means of production.
+
+These comrades forget that the law of value can be a regulator of production only under capitalism, with private ownership of the means of production, and competition, anarchy of production, and crises of overproduction. They forget that in our country the sphere of operation of the law of value is limited by the social ownership of the means of production, and by the law of balanced development of the national economy, and is consequently also limited by our yearly and five-yearly plans, which are an approximate reflection of the requirements of this law.
+
+Some comrades draw the conclusion from this that the law of balanced development of the national economy and economic planning annul the principle of profitableness of production. That is quite untrue. It is just the other way round. If profitableness is considered not from the stand-point of individual plants or industries, and not over a period of one year, but from the standpoint of the entire national economy and over a period of, say, ten or fifteen years, which is the only correct approach to the question, then the temporary and unstable profitableness of some plants or industries is beneath all comparison with that higher form of stable and permanent profitableness which we get from the operation of the law of balanced development of the national economy and from economic planning, which save us from periodical economic crises disruptive to the national economy and causing tremendous material damage to society, and which ensure a continuous and high rate of expansion of our national economy.
+
+In brief, there can be no doubt that under our present socialist conditions of production, the law of value cannot be a "regulator of the proportions" of labour distributed among the various branches of production.

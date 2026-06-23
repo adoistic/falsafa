@@ -4,7 +4,7 @@ work_slug: "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089"
 work_title: Lectures on Modern History (Figgis ed.)
 author_name: "John Emerich Edward Dalberg-Acton (Lord Acton)"
 chapter_number: 2
-chapter_title: INTRODUCTION LORD ACTON AS PROFESSOR
+chapter_title: Introduction Lord Acton as Professor
 chapter_slug: "02-introduction-lord-acton-as-professor"
 variant_id: "78639393-3cdc-5183-a18f-85016da4771e"
 content_type: translation

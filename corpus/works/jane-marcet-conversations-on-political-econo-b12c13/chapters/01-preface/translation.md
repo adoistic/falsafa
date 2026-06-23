@@ -4,7 +4,7 @@ work_slug: "jane-marcet-conversations-on-political-econo-b12c13"
 work_title: Conversations on Political Economy
 author_name: Jane Marcet
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "0678ab1a-3a57-50b5-a8ac-c3dfa2d92c28"
 content_type: translation

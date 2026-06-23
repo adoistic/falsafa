@@ -1,0 +1,26 @@
+{
+  "work_slug": "m-n-roy-historical-role-of-islam-an-essa-ee1244",
+  "work_title": "Historical Role of Islam: An Essay on Islamic Culture",
+  "chapter_number": 1,
+  "chapter_title": "Chapter One: Introduction",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b93eebe9-1329-5751-b3fd-48534aa143e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1306,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/roy/1939/historical-role-islam/ch01.htm"
+    }
+  ]
+}

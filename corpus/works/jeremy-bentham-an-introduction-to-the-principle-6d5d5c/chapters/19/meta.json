@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-an-introduction-to-the-principle-6d5d5c",
+  "work_title": "An Introduction to the Principles of Morals and Legislation",
+  "chapter_number": 19,
+  "chapter_title": "Chapter XIII: Cases Unmeet for Punishment, 1. General view of cases unmeet for punishment.",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ca79562-cf65-5d41-9364-9016fe45024f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 109,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-an-introduction-to-the-principles-of-morals-and-legislation"
+    }
+  ]
+}

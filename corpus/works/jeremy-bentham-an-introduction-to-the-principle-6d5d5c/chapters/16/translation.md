@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 16
-chapter_title: "Chapter XI: OF HUMAN DISPOSITIONS IN GENERAL"
+chapter_title: "Chapter XI: Of Human Dispositions in General"
 chapter_slug: 16
 variant_id: "cbaeb440-944d-5add-9fda-72b55a03133a"
 content_type: translation

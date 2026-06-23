@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 84,
+  "chapter_title": "Chap. XXXI: Continuation of the Account of the Royal Bank of France, until the total Bankruptcy on the 21st of May 1720",
+  "chapter_slug": "84-chap-xxxi-continuation-of-the-account-of-the-royal",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ab12ae4-8d94-5299-863a-a50d0601e383",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1946,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+    }
+  ]
+}

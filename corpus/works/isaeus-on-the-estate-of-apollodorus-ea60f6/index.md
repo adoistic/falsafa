@@ -4,7 +4,10 @@ slug: "isaeus-on-the-estate-of-apollodorus-ea60f6"
 title: On The Estate of Apollodorus
 author:
   name: Isaeus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Attic orator and reputed teacher of Demosthenes, one of the ten canonical Attic orators. His surviving speeches, nearly all concerning disputed inheritances, are a major source for Athenian law of property and succession.
+  birth_year: -420
+  death_year: -340
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

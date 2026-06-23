@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-the-tyranny-of-socialism-1e5c8b",
+  "work_title": "The Tyranny of Socialism",
+  "chapter_number": 6,
+  "chapter_title": "Chapter III, Character of Political and Intellectual Progress.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97bf7968-5843-51d3-b910-7ae6297d1b44",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1140,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-the-tyranny-of-socialism"
+    }
+  ]
+}

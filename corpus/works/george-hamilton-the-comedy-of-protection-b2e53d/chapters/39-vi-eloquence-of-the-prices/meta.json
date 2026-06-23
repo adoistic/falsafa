@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 39,
+  "chapter_title": "Vi.—: Eloquence of the Prices.",
+  "chapter_slug": "39-vi-eloquence-of-the-prices",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "75b593d3-f963-5796-8d7f-b9c488a1c4d7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 142,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

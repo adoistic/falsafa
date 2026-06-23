@@ -1,0 +1,21 @@
+---
+work_id: "1a2df832-a1f3-5b6d-ba8d-903973bb4aff"
+work_slug: "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8"
+work_title: The Forgotten Man and Other Essays
+author_name: William Graham Sumner
+chapter_number: 64
+chapter_title: Financial Institutions as Debtors.
+chapter_slug: "64-financial-institutions-as-debtors"
+variant_id: "b56c4b97-463a-5ab3-af0b-53c289677e41"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 450
+source_url: "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+translator: Online Library of Liberty edition
+---
+
+The great financial institutions are intermediaries between debtors and creditors. They have received capital from some people and lent it to others. They have to recover it and pay it back. If they only recover it at fifty cents on the dollar, they can only repay it in the same way. What this would mean is that the creditors of those institutions would be paid “dollars,” but that when they tried to re-invest them they would find that prices had risen to a greater or less degree in those dollars for the things which they wanted to buy. To this the Populists answer, triumphantly, that now the debtors find that the prices of their products have fallen, so that when they try to sell them they cannot get enough to pay their debts; but the debtors are those who made contracts and undertook enterprises five, ten, fifteen, or twenty years ago, expecting to make gains which they certainly would have kept. As things have turned out they have not made the gains, and their plan is to escape the loss by throwing it on some one else. The institutions in question, however, are bound to protect the interests of either body of their clients, borrowers or depositors, when either is unjustly threatened, and they are by no means destitute of means to do it. A law to forbid specific coin contracts is but one step in the desperate policy of prostituting law and corrupting the administration of justice, which would be necessary in the attempt to force through the plan under discussion. It would fail at last, because the advocates of it would find that, as the popular saying is, it would “fly up and hit them in the face.” It is not possible to throw society and all its most important institutions into confusion without ruining all the interests of everybody, and at last everybody but the tramp or pauper has to ask himself whether it will pay. As for the institutions, many of them would be ruined in the operation. It is not possible for them simply to collect and repay in the debased dollars. The operation would produce snarls and knots at every turn. Lawsuits would multiply on all sides, and would so entangle the affairs of the institution as to ruin it. The proof of this is presented by the difficulties of liquidation in any case, even when there is no question of currency revolution, and when general affairs are in a normal condition, unless there is time and security for all the operations. In this case the demands on the institution would be precipitated at once, so far as the form of contract would allow.

@@ -4,7 +4,7 @@ work_slug: "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69"
 work_title: Political Economy and the Philosophy of Government
 author_name: J. C. L. Simonde de Sismondi
 chapter_number: 1
-chapter_title: PREFATORY NOTICE.
+chapter_title: Prefatory Notice.
 chapter_slug: "01-prefatory-notice"
 variant_id: "902d0c52-ff37-5148-90ad-f32f31b55e3e"
 content_type: translation

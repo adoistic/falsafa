@@ -4,7 +4,10 @@ slug: "columella-lucius-junius--res-rustica-2dc1aa"
 title: Res Rustica
 author:
   name: Columella, Lucius Junius Moderatus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman writer on agriculture from Gades in Spain, an army tribune turned farmer of Italian estates. The twelve books of his Res Rustica are the fullest account of farming to survive from the ancient world.
+  birth_year: 4
+  death_year: 70
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

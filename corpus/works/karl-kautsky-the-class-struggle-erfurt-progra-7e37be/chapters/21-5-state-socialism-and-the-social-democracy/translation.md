@@ -1,0 +1,37 @@
+---
+work_id: "7e37be8d-c488-5b58-af81-18f80f17d042"
+work_slug: "karl-kautsky-the-class-struggle-erfurt-progra-7e37be"
+work_title: The Class Struggle (Erfurt Program)
+author_name: Karl Kautsky
+chapter_number: 21
+chapter_title: 5. State Socialism and the Social Democracy
+chapter_slug: "21-5-state-socialism-and-the-social-democracy"
+variant_id: "701e7955-2fae-5723-b7cd-a9ea4afcde4a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 771
+source_url: "https://www.marxists.org/archive/kautsky/1892/erfurt/ch04.htm"
+translator: William E. Bohn
+---
+
+The economic activity of the modern state is the natural starting point of the development that leads to the Co-operative Commonwealth. It does not, however, follow that every nationalization of an economic function or of an industry is a step towards the Co-operative Commonwealth, and that the latter could be the result of a general nationalization of all industries without any change in the character of the state.
+
+The theory that this could be the case is that of the state Socialists. It arises from a misunderstanding of the state itself. Like all previous systems of government, the modern state is preeminently an instrument intended to guard the interests of the ruling class. This feature is in no wise changed by its assumption of features of general utility which affect the interests not of the ruling class alone, but of the whole body politic. The modern state assumes these functions often simply because otherwise the interests of the ruling class would be endangered with those of society as a whole, but under no circumstances has it assumed, or could it ever assume, these functions in such a manner as to endanger the overlordship of the capitalist class.
+
+If the modern state nationalizes certain industries, it does not do so for the purpose of restricting capitalist exploitation, but for the purpose of protecting the capitalist system and establishing it upon a firmer basis, or for the purpose of itself taking a hand in the exploitation of labor, increasing its own revenues, and thereby reducing the contributions for its own support which it would otherwise have to impose upon the capitalist class. As an exploiter of label, the state is superior to any private capitalist. Besides the economic power of the capitalists, ii can also bring to bear upon the exploited classes the political power which it already wields.
+
+The state has never carried on the nationalizing of industries further than the interests of the ruling classes demanded, nor will it ever go further than that. So long as the property-holding classes are the ruling ones, the nationalization of industries and capitalist functions will never be carried so far as to injure the capitalists and landlords or to restrict their opportunities for exploiting the proletariat.
+
+The state will not cease to be a capitalist institution until the proletariat, the working-class, has become the ruling class; not until then will it become possible to turn it into a co-operative commonwealth.
+
+From the recognition of this fact is born the aim which the Socialist Party has set before it: to call the working-class to conquer the political power to the end that, with its aid, they may change the state into a self-sufficing co-operative commonwealth.
+
+Socialists are frequently reproached with having no fixed aims, with being able to do nothing but criticize and with not knowing what to put in place of that which they would overthrow. Nevertheless, the fact remains that none of the existing parties has so well-marked and clear an aim as the Socialist Party. It may, indeed, be questioned whether the other political parties have any aims at all. They all hold to the existing order, although they all see that it is untenable and unendurable. Their programs contain nothing except a few little patches by which they hope and promise to make the untenable, tenable and the unendurable, endurable.
+
+The Socialist Party, on the contrary, does not build on hopes and promises, but upon the unalterable necessity of economic development. Whoever declares these aims to he false should show in what respect the teachings of Socialist political economy are false. He should show that the theory of development from small to large production is false, that production is carried on today as it was a hundred years ago, that things are today as they have always been. Only he who could prove this is justified in the belief that things will continue as they are. But whoever is not feather-brained enough to believe that social conditions remain always the same, cannot reasonably suppose that the present conditions will continue forever. Can any other party than the Socialist Party point out to him what will and must take their place?
+
+All other political parties live only in the present, from hand to mouth; the Socialist party is the only one which has a definite aim in the future, the only one whose present policy is dictated by a general, consistent purpose. Because they neither can nor will see, because they stubbornly persist in star-gazing they declare offhand that the Socialists know not what they want except to destroy the existing order.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 26,
+  "chapter_title": "(c) Reciprocity, or Action & Reaction",
+  "chapter_slug": "26-c-reciprocity-or-action-reaction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a94672d9-5037-5210-83fb-b7c2e0ef497f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2032,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slactual.htm"
+    }
+  ]
+}

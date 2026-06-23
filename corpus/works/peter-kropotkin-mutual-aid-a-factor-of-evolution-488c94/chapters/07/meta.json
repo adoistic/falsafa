@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-mutual-aid-a-factor-of-evolution-488c94",
+  "work_title": "Mutual Aid: A Factor of Evolution",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 6: Mutual Aid in the Mediaeval City (cont'd)",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "64e1f388-748a-5a4c-9372-46c6305ba7eb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8791,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch06.htm"
+    }
+  ]
+}

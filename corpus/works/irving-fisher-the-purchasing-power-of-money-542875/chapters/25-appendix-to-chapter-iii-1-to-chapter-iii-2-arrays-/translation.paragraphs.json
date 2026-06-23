@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p-cf120c",
+    "offset": 0,
+    "text": "Let k be the ratio of deposits to money in circulation M'/M which, on the average, the public prefers to keep; k will then be derivable from the like ratios for the different persons and business firms in the community in the successive moments of the year, and we may, therefore, form an array on the analogy of previous arrays, of the form:—"
+  },
+  {
+    "id": "p-26445b",
+    "offset": 345,
+    "text": "Each letter outside the array is a weighted arithmetical average either of the row to its left or of the column above it. k (in the lower right corner) also is both of these as well as the weighted arithmetical average of all the elements inside the lines (the weights being in all cases the amounts of money in circulation, which are the denominators of the ratios represented in the arrays). The same proportions hold true if \"harmonic\" be substituted for \"arithmetic\" (provided the weights be changed from the denominators to the numerators of the ratios, viz. the deposits). These theorems can be easily proved analogously to those in § 7 of the Appendix to Chapter II, remembering that k =M'/M."
+  },
+  {
+    "id": "p-6f70cc",
+    "offset": 1046,
+    "text": "Similarly, we may let r stand for the average ratio, for the year, of the reserves of all banks (m) to their deposits (M'). This ratio (r, or m/M') is resolvable into an array expressing the ratios for different banks at different moments, viz.:—"
+  },
+  {
+    "id": "p-9901ac",
+    "offset": 1294,
+    "text": "Here each element outside the lines is a weighted arithmetic (or harmonic) average of the terms in the row to its left or the column above it, while r is both of these as well as a weighted arithmetic (or harmonic) average of all the terms inside, the weights being (for the arithmetic average) the deposits in each case or (for the harmonic average) the money in each case. The total currency of the community is m + M + M', although only M + M' is actually in circulation."
+  }
+]

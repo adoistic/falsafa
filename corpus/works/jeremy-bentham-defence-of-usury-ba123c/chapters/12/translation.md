@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 12
-chapter_title: "LETTER XII.: Maintenance and Champerty."
+chapter_title: "Letter XII.: Maintenance and Champerty."
 chapter_slug: 12
 variant_id: "ac98447a-97d8-57e8-9075-bc0f03eec05c"
 content_type: translation

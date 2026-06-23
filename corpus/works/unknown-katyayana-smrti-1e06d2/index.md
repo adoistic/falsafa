@@ -2,10 +2,10 @@
 id: "1e06d241-3517-4d81-bbc9-91d312e1b8cc"
 slug: "unknown-katyayana-smrti-1e06d2"
 title: Kātyāyana Smṛti
-author: Kātyāyana
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Kātyāyana
+  biography: A sage of the Hindu Dharmaśāstra tradition, to whom the Kātyāyana Smṛti is ascribed. The text is a compilation in verse on law and right conduct, redacted over generations by unknown hands.
+  nationality: Indian
 era: Ancient
 genre: Indic
 language: Sanskrit

@@ -4,7 +4,10 @@ slug: "titus-livius-livy-history-of-rome-books-21-45-21-fa7a23"
 title: "History of Rome, books 21-45 - 21"
 author:
   name: Titus Livius (Livy)
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman historian from Patavium (Padua), author of the great Augustan-era history of Rome. Ab urbe condita narrated Rome from its founding through to his own day and became the canonical literary account of the Republic."
+  birth_year: -59
+  death_year: 17
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

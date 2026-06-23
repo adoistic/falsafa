@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 24,
+  "chapter_title": "XXII. The French Bourgeois Revolution",
+  "chapter_slug": "24-xxii-the-french-bourgeois-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae97b6de-2716-592c-9043-0e0af8708974",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6562,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter22.htm"
+    }
+  ]
+}

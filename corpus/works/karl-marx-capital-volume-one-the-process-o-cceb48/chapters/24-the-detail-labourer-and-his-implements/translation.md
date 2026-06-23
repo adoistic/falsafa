@@ -1,0 +1,33 @@
+---
+work_id: "cceb4809-0676-582f-b7d7-8bfd1fe8c656"
+work_slug: "karl-marx-capital-volume-one-the-process-o-cceb48"
+work_title: "Capital, Volume One: The Process of Production of Capital"
+author_name: Karl Marx
+chapter_number: 24
+chapter_title: The Detail Labourer and His Implements
+chapter_slug: "24-the-detail-labourer-and-his-implements"
+variant_id: "8e557ceb-8035-5d85-b1dc-8a00b309ace1"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 985
+source_url: "https://www.marxists.org/archive/marx/works/1867-c1/ch14.htm"
+translator: Samuel Moore and Edward Aveling
+---
+
+If we now go more into detail, it is, in the first place, clear that a labourer who all his life performs one and the same simple operation, converts his whole body into the automatic, specialised implement of that operation. Consequently, he takes less time in doing it, than the artificer who performs a whole series of operations in succession. But the collective labourer, who constitutes the living mechanism of manufacture, is made up solely of such specialised detail labourers. Hence, in comparison with the independent handicraft, more is produced in a given time, or the productive power of labour is increased. Moreover, when once this fractional work is established as the exclusive function of one person, the methods it employs become perfected. The workman’s continued repetition of the same simple act, and the concentration of his attention on it, teach him by experience how to attain the desired effect with the minimum of exertion. But since there are always several generations of labourers living at one time, and working together at the manufacture of a given article, the technical skill, the tricks of the trade thus acquired, become established, and are accumulated and handed down.
+
+Manufacture, in fact, produces the skill of the detail labourer, by reproducing, and systematically driving to an extreme within the workshop, the naturally developed differentiation of trades which it found ready to hand in society at large. On the other hand, the conversion of fractional work into the life-calling of one man, corresponds to the tendency shown by earlier societies, to make trades hereditary; either to petrify them into castes, or whenever definite historical conditions beget in the individual a tendency to vary in a manner incompatible with the nature of castes, to ossify them into guilds. Castes and guilds arise from the action of the same natural law, that regulates the differentiation of plants and animals into species and varieties, except that, when a certain degree of development has been reached, the heredity of castes and the exclusiveness of guilds are ordained as a law of society.
+
+“The muslins of Dakka in fineness, the calicoes and other piece goods of Coromandel in brilliant and durable colours, have never been surpassed. Yet they are produced without capital, machinery, division of labour, or any of those means which give such facilities to the manufacturing interest of Europe. The weaver is merely a detached individual, working a web when ordered of a customer, and with a loom of the rudest construction, consisting sometimes of a few branches or bars of wood, put roughly together. There is even no expedient for rolling up the warp; the loom must therefore be kept stretched to its full length, and becomes so inconveniently large, that it cannot be contained within the hut of the manufacturer, who is therefore compelled to ply his trade in the open air, where it is interrupted by every vicissitude of the weather.”
+
+It is only the special skill accumulated from generation to generation, and transmitted from father to son, that gives to the Hindu, as it does to the spider, this proficiency. And yet the work of such a Hindu weaver is very complicated, compared with that of a manufacturing labourer.
+
+An artificer, who performs one after another the various fractional operations in the production of a finished article, must at one time change his place, at another his tools. The transition from one operation to another interrupts the flow of his labour, and creates, so to say, gaps in his working-day. These gaps close up so soon as he is tied to one and the same operation all day long; they vanish in proportion as the changes in his work diminish. The resulting increased productive power is owing either to an increased expenditure of labour-power in a given time i.e., to increased intensity of labour or to a decrease in the amount of labour-power unproductively consumed. The extra expenditure of power, demanded by every transition from rest to motion, is made up for by prolonging the duration of the normal velocity when once acquired. On the other hand, constant labour of one uniform kind disturbs the intensity and flow of a man’s animal spirits, which find recreation and delight in mere change of activity.
+
+The productiveness of labour depends not only on the proficiency of the workman, but on the perfection of his tools. Tools of the same kind, such as knives, drills, gimlets, hammers, &c., may be employed in different processes; and the same tool may serve various purposes in a single process. But so soon as the different operations of a labour-process are disconnected the one from the other, and each fractional operation acquires in the hands of the detail labourer a suitable and peculiar form, alterations become necessary in the implements that previously served more than one purpose. The direction taken by this change is determined by the difficulties experienced in consequence of the unchanged form of the implement. Manufacture is characterised by the differentiation of the instruments of labour – a differentiation whereby implements of a given sort acquire fixed shapes, adapted to each particular application, and by the specialisation of those instruments, giving to each special implement its full play only in the hands of a specific detail labourer. In Birmingham alone 500 varieties of hammers are produced, and not only is each adapted to one particular process, but several varieties often serve exclusively for the different operations in one and the same process. The manufacturing period simplifies, improves, and multiplies the implements of labour, by adapting them to the exclusively special functions of each detail labourer. It thus creates at the same time one of the material conditions for the existence of machinery, which consists of a combination of simple instruments.
+
+The detail labourer and his implements are the simplest elements of manufacture. Let us now turn to its aspect as a whole.

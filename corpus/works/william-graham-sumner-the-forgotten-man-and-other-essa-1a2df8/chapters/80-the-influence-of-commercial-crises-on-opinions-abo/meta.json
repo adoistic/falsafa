@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 80,
+  "chapter_title": "The Influence of Commercial Crises on Opinions About Economic Doctrines [1879]",
+  "chapter_slug": "80-the-influence-of-commercial-crises-on-opinions-abo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "45b68169-236a-55a7-828b-28f2ecc0b927",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7617,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

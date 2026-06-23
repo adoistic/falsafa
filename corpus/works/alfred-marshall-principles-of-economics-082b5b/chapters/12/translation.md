@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 12
-chapter_title: "BOOK III, CHAPTER IV: THE ELASTICITY OF WANTS."
+chapter_title: "Book III, Chapter IV: The Elasticity of Wants."
 chapter_slug: 12
 variant_id: "fa37d207-24ed-50d5-ae5a-ada2e549baa2"
 content_type: translation

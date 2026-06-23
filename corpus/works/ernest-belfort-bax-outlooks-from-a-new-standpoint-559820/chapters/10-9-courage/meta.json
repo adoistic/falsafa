@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-outlooks-from-a-new-standpoint-559820",
+  "work_title": "Outlooks From a New Standpoint",
+  "chapter_number": 10,
+  "chapter_title": "9. Courage",
+  "chapter_slug": "10-9-courage",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c650a115-51a2-5cb8-8da2-9a1d28afe649",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5280,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1890/05/courage.htm"
+    }
+  ]
+}

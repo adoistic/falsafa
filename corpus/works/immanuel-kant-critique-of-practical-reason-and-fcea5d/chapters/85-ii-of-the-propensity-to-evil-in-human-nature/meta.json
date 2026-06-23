@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 85,
+  "chapter_title": "II.: of the propensity to evil in human nature.",
+  "chapter_slug": "85-ii-of-the-propensity-to-evil-in-human-nature",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08fb827b-2999-5c73-a3ca-6b25eea5b185",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1262,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

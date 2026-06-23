@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-system-of-economical-contradicti-358ea4",
+  "work_title": "System of Economical Contradictions: or, The Philosophy of Poverty",
+  "chapter_number": 5,
+  "chapter_title": "2. Constitution of value; definition of wealth.",
+  "chapter_slug": "05-2-constitution-of-value-definition-of-wealth",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "77553ecd-4c42-5428-ad59-9e3a4b9cfbe9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5057,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/philosophy/ch02.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "errico-malatesta-between-peasants-fra-contadini-819f67",
+  "work_title": "Between Peasants (Fra Contadini)",
+  "chapter_number": 1,
+  "chapter_title": "Between Peasants (Fra Contadini)",
+  "chapter_slug": "01-between-peasants-fra-contadini",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b988c83b-c796-5eb2-b5a8-310db0e14868",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 17286,
+      "paragraph_count": 235,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/malatesta/1884/between-peasants.htm"
+    }
+  ]
+}

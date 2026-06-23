@@ -1,0 +1,39 @@
+---
+work_id: "8baeaf4f-4cf0-5545-9c0f-6e805b178b42"
+work_slug: "james-steuart-an-inquiry-into-the-principles-o-8baeaf"
+work_title: An Inquiry into the Principles of Political Economy
+author_name: James Steuart
+chapter_number: 30
+chapter_title: "Chap. VIII: Of what is called Expence, Profit, and Loss"
+chapter_slug: "30-chap-viii-of-what-is-called-expence-profit-and-los"
+variant_id: "ca37b56d-0515-51a3-a887-270df1f8a9eb"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 486
+source_url: "https://www.marxists.org/reference/subject/economics/steuart/book2_07.htm"
+translator: Marxists Internet Archive edition
+---
+
+As we have been employed in explaining of terms, it will not be amiss to say a word concerning those which stand in the title of this chapter.
+
+The term expence, when simply expressed, without any particular relation, is always understood to be relative to money. This kind I distinguish under the three heads, of private, public, and national.
+
+1. Private expence is, what a private person, or private society, lays out, either to provide articles of consumption, or something more permanent, which may be conducive to their ease, convenience, or advantage. Thus we say, a large domestic expence, relatively to one who spends a great income. We say, a merchant has been at great expence for magazines, for living, for clerks, &c. but never that he has been at any in buying goods. In the same way a manufacturer may expend for building, machines, horses, and carriages, but never for the matter he manufactures. When a thing is bought, in order to be sold again, the sum employed is called money advanced; when it is bought not to be sold, it may be said to be expended.
+
+2. Public expence is, the employment of that money, which has been contributed by individuals, for the current service of the state. The contribution, or gathering it together, represents the effects of many articles of private expence; the laying it out when collected, is public expence.
+
+3. National expence, is what is expended out of the country: this is what diminishes national wealth. The principal distinction to be here attended to, is between public expence, or the laying out of public money, and national expence, which is the alienating the nation's wealth in favour of strangers. Thus the greatest public expence imaginable, may be no national expence; because the money may remain at home. On the other hand, the smallest public, or even private expence, may be a national expence, because the money may go abroad.
+
+Profit, and loss, I divide into positive, relative, and compound. Positive profit, implies no loss to any body; it results from an augmentation of labour, industry, or ingenuity, and has the effect of swelling or augmenting the public good.
+
+Positive loss, implies no profit to any body; it is what results from the cessation of the former, or of the effects resulting from it, and may be said to diminish the public good.
+
+Relative profit, is what implies a loss to somebody, it marks a vibration of the balance of wealth between parties, but implies no addition to the general stock.
+
+Relative loss, is what, on the contrary, implies a profit to somebody; it also marks a vibration of the balance, but takes nothing from the general stock.
+
+The compound is easily understood; it is that species of profit and loss which is partly relative, and partly positive. I call it compound, because both kinds may subsist inseparably in the same transaction.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 48,
+  "chapter_title": "Chap. XXVI: Of the Vibration of the Balance of Wealth between the Subjects of a modern State",
+  "chapter_slug": "48-chap-xxvi-of-the-vibration-of-the-balance-of-wealt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f19d7bf4-030b-5ebf-a791-34ba594caa7a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5360,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_25.htm"
+    }
+  ]
+}

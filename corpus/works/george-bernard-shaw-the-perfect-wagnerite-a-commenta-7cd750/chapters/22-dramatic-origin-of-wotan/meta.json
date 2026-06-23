@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-bernard-shaw-the-perfect-wagnerite-a-commenta-7cd750",
+  "work_title": "The Perfect Wagnerite: A Commentary on the Niblung's Ring",
+  "chapter_number": 22,
+  "chapter_title": "Dramatic Origin of Wotan",
+  "chapter_slug": "22-dramatic-origin-of-wotan",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f726f71c-6a24-5d6b-a39a-6d84ccf24bc9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 386,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/shaw/works/wagner.htm"
+    }
+  ]
+}

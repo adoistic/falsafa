@@ -2,7 +2,7 @@
   "work_slug": "friedrich-von-wieser-natural-value-f25830",
   "work_title": "Natural Value",
   "chapter_number": 45,
-  "chapter_title": "CHAPTER V: the value of capital and the interest on capital (continued.) iv.—change in the rate of interest",
+  "chapter_title": "Chapter VI: the value of capital and the interest on capital (continued). v.—the valuation of fixed capital",
   "chapter_slug": "45",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 727,
-      "paragraph_count": 5,
+      "word_count": 528,
+      "paragraph_count": 4,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
     }

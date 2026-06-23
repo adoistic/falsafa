@@ -1,0 +1,26 @@
+{
+  "work_slug": "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2",
+  "work_title": "Dialogues Concerning Two New Sciences",
+  "chapter_number": 22,
+  "chapter_title": "Fourth Day, The Motion of Projectiles",
+  "chapter_slug": "22-fourth-day-the-motion-of-projectiles",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4a1b87a3-dfcf-5696-af89-bbbd54067c55",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10741,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/galilei-dialogues-concerning-two-new-sciences"
+    }
+  ]
+}

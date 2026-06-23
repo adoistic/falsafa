@@ -4,13 +4,17 @@ slug: "albert-moll-the-sexual-life-of-the-child-20c689"
 title: The Sexual Life of the Child
 author:
   name: Albert Moll
-  biography: "Albert Moll (1862-1939)."
+  biography: Berlin psychiatrist and systematizer of the early science of sexuality, skeptical antagonist of Freud. The Sexual Life of the Child of 1908 placed childhood sexuality under clinical description on lines independent of psychoanalysis.
+  birth_year: 1862
+  death_year: 1939
+  nationality: German
 era: 20th Century
 genre: Social Theory
 language: English
 language_direction: ltr
 description: "The Sexual Life of the Child, by Albert Moll (1862-1939), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1908
 total_logical_chapters: 9
 total_variant_entries: 9
 thothica_role: catalog

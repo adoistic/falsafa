@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-literature-and-revolution-9b02a3",
+  "work_title": "Literature and Revolution",
+  "chapter_number": 14,
+  "chapter_title": "5. The Formalist School of Poetry and Marxism",
+  "chapter_slug": "14-5-the-formalist-school-of-poetry-and-marxism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37fe5f19-8363-51ac-bbee-764f4f2a3057",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6554,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1924/lit_revo/ch05.htm"
+    }
+  ]
+}

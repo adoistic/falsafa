@@ -4,13 +4,17 @@ slug: "thomas-hodgskin-popular-political-economy-048fd0"
 title: Popular Political Economy
 author:
   name: Thomas Hodgskin
-  biography: Thomas Hodgskin (1787–1869).
+  biography: "English naval officer turned political economist and journalist, lecturer at the London Mechanics' Institution. His writings argued that labor is the true source of value and that property rights rest on nature rather than legal privilege."
+  birth_year: 1787
+  death_year: 1869
+  nationality: English
 era: 19th Century
 genre: Economics
 language: English
 language_direction: ltr
 description: "Popular Political Economy, by Thomas Hodgskin (1787–1869), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1827
 total_logical_chapters: 14
 total_variant_entries: 14
 thothica_role: catalog
@@ -22,17 +26,17 @@ Popular Political Economy, by Thomas Hodgskin (1787–1869), a public-domain tex
 
 ## Chapters
 
-01. [TO GEORGE BIRKBECK, ESQ. M.D., F.C.S., M.A.S.](./chapters/01-to-george-birkbeck-esq-m-d-f-c-s-m-a-s/) — prose, 1 variant
-02. [PREFACE.](./chapters/02-preface/) — prose, 1 variant
-03. [INTRODUCTION. OBJECT AND SCOPE OF POLITICAL ECONOMY.](./chapters/03-introduction-object-and-scope-of-political-economy/) — prose, 1 variant
-04. [CHAPTER I: MENTAL AND BODILY LABOUR.—PRODUCTIVE LABOUR.](./chapters/04/) — prose, 1 variant
-05. [CHAPTER II: INFLUENCE OF OBSERVATION AND KNOWLEDGE.](./chapters/05/) — prose, 1 variant
-06. [CHAPTER III: NATURAL LAWS WHICH REGULATE THE PROGRESS OF SOCIETY IN KNOWLEDGE.](./chapters/06/) — prose, 1 variant
-07. [CHAPTER IV: INFLUENCE OF THE DIVISION OF LABOUR.](./chapters/07/) — prose, 1 variant
-08. [CHAPTER V: CAUSES WHICH GIVE RISE TO, AND LIMIT, DIVISION OF LABOUR.](./chapters/08/) — prose, 1 variant
-09. [CHAPTER VI: TERRITORIAL DIVISION OF LABOUR. LIMIT TO DIVISION OF LABOUR FROM THE NATURE OF EMPLOYMENTS.](./chapters/09/) — prose, 1 variant
-10. [CHAPTER VII: TRADE.](./chapters/10/) — prose, 1 variant
-11. [CHAPTER VIII: MONEY.](./chapters/11/) — prose, 1 variant
-12. [CHAPTER IX: PRICES.](./chapters/12/) — prose, 1 variant
-13. [CHAPTER X: EFFECTS OF THE ACCUMULATION OF CAPITAL.](./chapters/13/) — prose, 1 variant
-14. [CONCLUSION.](./chapters/14-conclusion/) — prose, 1 variant
+01. [To George Birkbeck, Esq. M.d., F.c.s., M.a.s.](./chapters/01-to-george-birkbeck-esq-m-d-f-c-s-m-a-s/) — prose, 1 variant
+02. [Preface.](./chapters/02-preface/) — prose, 1 variant
+03. [Popular Political Economy, &c, Introduction. Object and Scope of Political Economy.](./chapters/03-popular-political-economy-c-introduction-object-an/) — prose, 1 variant
+04. [Book I.: Natural Circumstances Which Influence the Productive Power of Labour, Chapter I: Mental and Bodily Labour.—prod](./chapters/04/) — prose, 1 variant
+05. [Chapter II: Influence of Observation and Knowledge.](./chapters/05/) — prose, 1 variant
+06. [Chapter III: Natural Laws Which Regulate the Progress of Society in Knowledge.](./chapters/06/) — prose, 1 variant
+07. [Chapter IV: Influence of the Division of Labour.](./chapters/07/) — prose, 1 variant
+08. [Chapter V: Causes Which Give Rise to, and Limit, Division of Labour.](./chapters/08/) — prose, 1 variant
+09. [Chapter VI: Territorial Division of Labour. Limit to Division of Labour from the Nature of Employments.](./chapters/09/) — prose, 1 variant
+10. [Chapter VII: Trade.](./chapters/10/) — prose, 1 variant
+11. [Chapter VIII: Money.](./chapters/11/) — prose, 1 variant
+12. [Chapter IX: Prices.](./chapters/12/) — prose, 1 variant
+13. [Chapter X: Effects of the Accumulation of Capital.](./chapters/13/) — prose, 1 variant
+14. [Conclusion.](./chapters/14-conclusion/) — prose, 1 variant

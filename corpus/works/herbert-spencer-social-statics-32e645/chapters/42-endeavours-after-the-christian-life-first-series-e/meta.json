@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-social-statics-32e645",
+  "work_title": "Social Statics",
+  "chapter_number": 42,
+  "chapter_title": "Endeavours After the Christian Life. first series, Endeavours After the Christian Life. second series.",
+  "chapter_slug": "42-endeavours-after-the-christian-life-first-series-e",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "679d508c-2f68-54ed-9928-76900f6fe412",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 271,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+    }
+  ]
+}

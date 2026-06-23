@@ -1,0 +1,75 @@
+---
+work_id: "f25830ec-af58-5aa2-bca1-8f4eca049ec8"
+work_slug: "friedrich-von-wieser-natural-value-f25830"
+work_title: Natural Value
+author_name: Friedrich von Wieser
+chapter_number: 3
+chapter_title: "Book I: The Elementary Theory of Value, Chapter I: The Origin of Value"
+chapter_slug: 03
+variant_id: "cd0f1a97-665d-5541-89fe-630233df11b2"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1367
+source_url: "https://oll.libertyfund.org/titles/smart-natural-value"
+translator: Online Library of Liberty edition
+---
+
+BOOK I
+
+THE ELEMENTARY THEORY OF VALUE
+
+BOOK II
+
+EXCHANGE VALUE AND NATURAL VALUE
+
+BOOK III
+
+THE NATURAL IMPUTATION OF THE RETURN FROM PRODUCTION
+
+PART I
+
+THE GENERAL PRINCIPLES OF IMPUTATION
+
+PART II
+
+NATURAL LAND RENT
+
+PART III
+
+THE NATURAL RETURN TO CAPITAL
+
+Edition: current; Page: [xlii]BOOK IV
+
+THE NATURAL VALUE OF LAND, CAPITAL, AND LABOUR
+
+BOOK V
+
+THE NATURAL COST VALUE OF PRODUCTS
+
+BOOK VI
+
+VALUE IN THE ECONOMY OF THE STATE
+
+Whence do things get their value? If we put the question to any intelligent and trained man of business, who had no knowledge of the various attempts of theorists towards an explanation of value, whose mind was unbiassed by the forms of speech which echo learned theories and have passed into ordinary business use, and who was, therefore, capable of judging only through the medium of his own personal experience, he would undoubtedly answer, as the first theorists did,—“from their Utility.” He would be very much surprised to learn that several considerations made the truth of this answer improbable, and that many facts—some of them to a certain extent generally known, and familiar even to himself—seemed to prove, with almost absolute certainty, that utility could not be the source of value. These facts we may state as follows.
+
+First: goods which are to be had in superfluity, and which any one may appropriate at will, no one will pay anything for, be they ever so useful. In many places water, although indispensable to man, is entirely without value. Of course this observation refers immediately only to value in money, the so-called” exchange value,” and it might be thought that it was not true of value in the using of goods, the so-called “value-in-use.” Closer examination shows, however, that it is true also of value-in-use. In the household, as in the market, the superfluous is regarded as the valueless, and is clearly separated from those things of which there is no superfluity. However frugally we may act with regard to other things, we should never think of economising in things which we are always sure of having in over-abundance No one will ever try to secure possession of them: there is no property in them; no interest is taken in them. They are used, but we think no more about them.
+
+Second: things which have a great deal of use have often a smaller value than those which have little use. Iron, for instance, has less value than gold. This is true equally of its money value, and of its value-in-use, in the market and in the household. Even in the socialist state—supposing its citizens still to possess the sense—it will be considered of less moment to lose an ounce of iron than an ounce of gold.
+
+Third: a large quantity has, under certain circumstances, less value than a smaller quantity of the same thing. It is well known that the Dutch East India Company destroyed a considerable part of their produce and of their plantations, in order to create a more lively demand, and so secure for the remainder a greater value than the whole property had originally possessed. The same thing is observed as regards the returns derived from good and from bad harvests,—the bad harvests showing better than the good. This also, as I hope to show later, applies to value-in-use as well as to exchange value.
+
+Fourth: while the measure of use is in such frequent and striking contradiction with that of value, it happens, as often and as strikingly, that value is in agreement with the exact antithesis of use—namely, with costs I say “antithesis” because, if goods, by their use, prove themselves the friends of man, they prove his enemy by the costs which they necessarily involve.
+
+A great many of the writers who have occupied themselves in the investigation of value—and, we may add, for a long time many of the best of them—have for this reason refused to consider at all the idea that value may arise from utility; they assert that the value of goods comes from the difficulty of their attainment, and is proportionate to it, Those again who have based their theory upon utility, have, for the most part, done so in a manifestly unsatisfactory fashion. They have either placed themselves in contradiction to the facts already mentioned without explaining away the contradiction, or laid so much stress on these facts that, in the end, they can scarcely be distinguished from those writers who have rejected the principle of utility, except by their express avowal of that principle. Only a few authors, the more important of whom are mentioned in the preface, have struck the right road These have conceived the idea of Use Value in such a way that it is neither confuted nor disturbed by the foregoing considerations, but on the contrary is entirely confirmed by them.
+
+It is as these last-mentioned writers understand it that I mean to state the theory of value Before beginning, I may be allowed to make a single introductory remark as to the manner in which I intend to carry out my task, and, particularly, as to the nature of the proofs which will be used.
+
+The economist who undertakes to explain value has to explain the procedure of those who value. He describes in plain language the meaning of transactions carried on, times without number, by all of us. He does, on a large scale and with a difficult subject, the same thing as one who accurately describes some trade or some mechanical operation, which every one can do, but which it is not easy, without the assistance of concrete instances, to present and follow up in all its complexity of conditions. As the poet gives expression to the thought which every one feels but cannot express, or the actor's genius shows the passion which perhaps he may not even feel, so does the man of science describe in words, and apart from their concrete realisation, the actions which every one is accustomed to perform. He does not require to have any actual case before him, or to accompany his description with any practical working out.
+
+Any layman in economics knows the whole substance of the theory of value from his own experience, and is a layman only in so far as he does not grasp the matter theoretically,— i.e. independently, and for and by itself,—but only practically, —that is to say, in some given situation, and in connection with its working out in that situation. If this be true, how else shall we better prove our scientific statements than by appealing to the recollection which every one must have of his own economic actions and behaviour? For this reason, every expression which may be taken as confirming this recollection, is welcome as an aid to our investigation. For instance, when we find that the unbiassed answer of the layman indicates that he considers usefulness to be the source of value, this judgment is a finger-post which we dare not neglect, unless the most searching and careful examination has proved that it points in a wrong direction. And who else is the final judge of the theory but the public? The only true theory of the estimate we call “value,” will be that to which practical life gives its entire assent, Only, of course, the judge must First himself be educated. He has to judge whether he recognises himself in a description which informs him about his own life and being, and which he himself is incapable of giving.
+
+I trust that what follows may meet the approval of those who not only act economically, but reflect on their actions. I have no other wish than to gain this approval, but I cannot allow the right of judgment to those who protest without having reflected. It costs much trouble to give a clear description of even the simplest and most familiar trade or business, and certainly, in the theoretical study of a matter so many-sided and complicated as that of value—even though it is so familiar to all, perhaps because it is so familiar to all—we cannot do without the most earnest and ample reflection.

@@ -4,13 +4,17 @@ slug: "john-bates-clark-the-distribution-of-wealth-14c2fc"
 title: The Distribution of Wealth
 author:
   name: John Bates Clark
-  biography: John Bates Clark (1847–1938).
+  biography: American economist at Columbia and a founder of marginal productivity theory in the United States. The Distribution of Wealth argued that under competition each factor of production earns its marginal product, framing wages and profit as natural returns.
+  birth_year: 1847
+  death_year: 1938
+  nationality: American
 era: 19th Century
 genre: Economics
 language: English
 language_direction: ltr
 description: "The Distribution of Wealth, by John Bates Clark (1847–1938), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1899
 total_logical_chapters: 28
 total_variant_entries: 28
 thothica_role: catalog

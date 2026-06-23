@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 6
-chapter_title: LEIBNITZ.
+chapter_title: Leibnitz.
 chapter_slug: "06-leibnitz"
 variant_id: "e7481d6f-6d18-5209-9bb8-26dbbf5806e1"
 content_type: translation

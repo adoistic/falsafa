@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 1,
+  "chapter_title": "Orations, Francis Bacon",
+  "chapter_slug": "01-orations-francis-bacon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1b4fe0bd-9310-575c-beb9-ad912e76ed08",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 655,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

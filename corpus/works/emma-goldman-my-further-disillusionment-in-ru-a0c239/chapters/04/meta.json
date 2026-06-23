@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-further-disillusionment-in-ru-a0c239",
+  "work_title": "My Further Disillusionment in Russia",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 3 - Back in Petrograd",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a988ba97-4f3d-5505-81b4-41216d6bafde",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2670,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1924/disillusionment2/chapter3.html"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 144
-chapter_title: CHAPTER XIII.
+chapter_title: Chapter XXII. (3)
 chapter_slug: 144
 variant_id: "3012be49-5b30-5638-842f-c6a0df217c4a"
 content_type: translation
@@ -13,37 +13,25 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 282
+word_count: 332
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How nothing less was to be endured, in the order of things, than that the creature should take away the honor due the Creator and not restore what he takes away.
+What contempt man brought upon God, when he allowed himself to be conquered by the devil; for which he can make no satisfaction.
 
-In the order of things, there is nothing less to be endured than that the creature should take away the honor due the Creator, and not restore what he has taken away.
+Man being made holy was placed in paradise, as it were in the place of God, between God and the devil, to conquer the devil by not yielding to his temptation, and so to vindicate the honor of God and put the devil to shame, because that man, though weaker and dwelling upon earth, should not sin though tempted by the devil, while the devil, though stronger and in heaven, sinned without any to tempt him. And when man could have easily effected this, he, without compulsion and of his own accord, allowed himself to be brought over to the will of the devil, contrary to the will and honor of God.
 
-Nothing is more plain than this.
+To what would you bring me?
 
-But there is no greater injustice suffered than that by which so great an evil must be endured.
+Decide for yourself if it be not contrary to the honor of God for man to be reconciled to Him, with this calumnious reproach still heaped upon God; unless man first shall have honored God by overcoming the devil, as he dishonored him in yielding to the devil. Now the victory ought to be of this kind, that, as in strength and immortal vigor, he freely yielded to the devil to sin, and on this account justly incurred the penalty of death; so, in his weakness and mortality, which he had brought upon himself, he should conquer the devil by the pain of death, while wholly avoiding sin. But this cannot be done, so long as from the deadly effect of the first transgression, man is conceived and born in sin.
 
-This, also, is plain.
+Again I say that the thing is impossible, and reason approves what you say.
 
-I think, therefore, that you will not say that God ought to endure a thing than which no greater injustice is suffered, viz., that the creature should not restore to God what he has taken away.
+Let me mention one thing more, without which man’s reconciliation cannot be justly effected, and the impossibility is the same.
 
-No; I think it should be wholly denied.
+You have already presented so many obligations which we ought to fulfil, that nothing which you can add will alarm me more.
 
-Again, if there is nothing greater or better than God, there is nothing more just than supreme justice, which maintains God’s honor in the arrangement of things, and which is nothing else but God himself.
+Yet listen
 
-There is nothing clearer than this.
-
-Therefore God maintains nothing with more justice than the honor of his own dignity.
-
-I must agree with you.
-
-Does it seem to you that he wholly preserves it, if he allows himself to be so defrauded of it as that he should neither receive satisfaction nor punish the one defrauding him.
-
-I dare not say so.
-
-Therefore the honor taken away must be repaid, or punishment must follow; otherwise, either God will not be just to himself, or he will be weak in respect to both parties; and this it is impious even to think of.
-
-I think that nothing more reasonable can be said.
+I will.

@@ -4,7 +4,7 @@ work_slug: "alexis-de-tocqueville-the-old-regime-and-the-revolutio-ea8547"
 work_title: The Old Regime and the Revolution
 author_name: Alexis de Tocqueville
 chapter_number: 11
-chapter_title: "CHAPTER V.: HOW CENTRALIZATION CREPT IN AMONG THE OLD AUTHORITIES, AND SUPPLANTED WITHOUT DESTROYING THEM."
+chapter_title: "Chapter V.: How Centralization Crept in Among the Old Authorities, and Supplanted Without Destroying Them."
 chapter_slug: 11
 variant_id: "a75a0795-9b4f-54cc-b689-e7c1b2e8aa0c"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 988
+word_count: 980
 source_url: "https://oll.libertyfund.org/titles/tocqueville-the-old-regime-and-the-revolution-1856"
 translator: Online Library of Liberty edition
 ---
@@ -26,7 +26,7 @@ Frequent imitations of the institutions I have just described have since made th
 
 But how did these modern institutions find place among the ruins of the old feudal society?
 
-By patient, adroit, persevering labor, rather than by Edition: current; Page: [80] violent arbitrary effort. At the outbreak of the Revolution, the old administrative system of France was still standing, but a new system had been built up inside it.
+By patient, adroit, persevering labor, rather than by violent arbitrary effort. At the outbreak of the Revolution, the old administrative system of France was still standing, but a new system had been built up inside it.
 
 There is no reason for believing that this difficult exploit was the fruit of a deep scheme laid by the old government. On the contrary, it appears to have been accomplished almost unconsciously, instinct teaching the government and its various agents to acquire as much control as possible. The old officials were left in possession of their titles and their honors, but stripped of their power. They were led, not driven out of their domain. The idleness of one, the selfishness of another, the vices of all, were skillfully turned to account. No attempt was made to convert them, but one and all were quietly replaced by the intendant, whose name had never even been heard at the time they were born.
 
@@ -38,7 +38,7 @@ This becomes more apparent as we approach the revolutionary era. As the peopleâ€
 
 Day after day, the central government conquers new fields of action into which these bodies can not follow it. Novelties arise, pregnant with cases for which no precedents can be found in parliamentary routine: society, in a fever of activity, creates new demands, which the government alone can satisfy, and each of which swells its authority; for the sphere of all other administrative bodies is defined and fixed; that of the government alone is movable, and spreads with the extension of civilization.
 
-Impending revolution unsettles the mind of the French, and suggests a host of new ideas which the central government alone can realize: it is developed before it perishes. Like every thing else, it is brought to perfection, as is singularly proved by its archives. There is no resemblance between the comptroller-general and the intendant of 1780 and the like officials in Edition: current; Page: [82] 1740: the system has been transformed. The agents are the same, but their spirit is different. Time, while it extends and exercises the power of the government, imparts to it new skill and regularity. Its latest usurpations are marked by unusual forbearance; it rules more imperatively, but it is far less oppressive.
+Impending revolution unsettles the mind of the French, and suggests a host of new ideas which the central government alone can realize: it is developed before it perishes. Like every thing else, it is brought to perfection, as is singularly proved by its archives. There is no resemblance between the comptroller-general and the intendant of 1780 and the like officials in 1740: the system has been transformed. The agents are the same, but their spirit is different. Time, while it extends and exercises the power of the government, imparts to it new skill and regularity. Its latest usurpations are marked by unusual forbearance; it rules more imperatively, but it is far less oppressive.
 
 This great institution of the monarchy was thrown down by the first blow of the Revolution: it was raised anew in 1800. It is not true that the principles of government which were then adopted were those of 1789, as so many persons have asserted; they were those of the old monarchy, which were restored, and have remained in force ever since.
 

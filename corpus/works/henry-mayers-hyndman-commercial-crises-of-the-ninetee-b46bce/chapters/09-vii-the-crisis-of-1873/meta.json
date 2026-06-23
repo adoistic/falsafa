@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-commercial-crises-of-the-ninetee-b46bce",
+  "work_title": "Commercial Crises of the Nineteenth Century",
+  "chapter_number": 9,
+  "chapter_title": "VII. The Crisis of 1873",
+  "chapter_slug": "09-vii-the-crisis-of-1873",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1d43d1bb-bb03-589b-a07d-66a27b08abb6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7951,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1892/crises/ch07.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
+  "work_title": "The Thoughts (Pensées) of Blaise Pascal",
+  "chapter_number": 2,
+  "chapter_title": "General Introduction, Pascal’s Profession of Faith.",
+  "chapter_slug": "02-general-introduction-pascal-s-profession-of-faith",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cdd711af-a4d2-58e7-ba93-fb93a5f2d0c1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 211,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-the-thoughts-of-blaise-pascal"
+    }
+  ]
+}

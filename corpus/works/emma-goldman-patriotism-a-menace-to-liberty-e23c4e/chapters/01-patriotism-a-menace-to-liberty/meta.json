@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-patriotism-a-menace-to-liberty-e23c4e",
+  "work_title": "Patriotism, a Menace to Liberty",
+  "chapter_number": 1,
+  "chapter_title": "Patriotism, a Menace to Liberty",
+  "chapter_slug": "01-patriotism-a-menace-to-liberty",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c5ba50e9-3b3e-5776-9d84-59d739924689",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4800,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1911/patriotism.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 109,
+  "chapter_title": "Chapter IX.: Of Councils and Their Authority, Sections.",
+  "chapter_slug": "109",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4e4a3a8a-cd58-54a0-a1a2-e2f93e268a99",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5370,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

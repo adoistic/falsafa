@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 50,
+  "chapter_title": "Part 2, Chapter 25 : How Shall the Depths Cry?",
+  "chapter_slug": "50",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "425aaf43-a485-584a-944e-de37a804a2a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2016,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-25.html"
+    }
+  ]
+}

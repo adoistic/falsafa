@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-labour-in-irish-history-dad525",
+  "work_title": "Labour in Irish History",
+  "chapter_number": 8,
+  "chapter_title": "Wolfe Tone on Grattan’s Parliament",
+  "chapter_slug": "08-wolfe-tone-on-grattan-s-parliament",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cbb40dc9-4f6e-52ef-8f03-0644a612c57a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 598,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1910/lih/chap06.htm"
+    }
+  ]
+}

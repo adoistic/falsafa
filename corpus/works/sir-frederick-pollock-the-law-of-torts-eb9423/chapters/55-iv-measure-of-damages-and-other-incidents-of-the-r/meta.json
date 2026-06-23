@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-law-of-torts-eb9423",
+  "work_title": "The Law of Torts",
+  "chapter_number": 55,
+  "chapter_title": "Iv.—: Measure of Damages and other Incidents of the Remedy.",
+  "chapter_slug": "55-iv-measure-of-damages-and-other-incidents-of-the-r",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "98e06763-0401-51d0-8792-aa0cb6519181",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 916,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+    }
+  ]
+}

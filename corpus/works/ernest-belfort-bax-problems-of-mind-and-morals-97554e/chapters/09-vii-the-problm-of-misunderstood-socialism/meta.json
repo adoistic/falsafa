@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-problems-of-mind-and-morals-97554e",
+  "work_title": "Problems of Mind and Morals",
+  "chapter_number": 9,
+  "chapter_title": "VII. The Problm of Misunderstood Socialism",
+  "chapter_slug": "09-vii-the-problm-of-misunderstood-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "56bff4aa-8c77-5ff8-b37b-1f9a246735d3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6668,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1912/probs/07-misunderst.htm"
+    }
+  ]
+}

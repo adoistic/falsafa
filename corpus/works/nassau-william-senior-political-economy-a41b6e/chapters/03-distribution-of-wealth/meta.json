@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-political-economy-a41b6e",
+  "work_title": "Political Economy",
+  "chapter_number": 3,
+  "chapter_title": "Distribution of Wealth.",
+  "chapter_slug": "03-distribution-of-wealth",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "202206ec-f37a-5cb5-88dd-fa5a28bd59a6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 69984,
+      "paragraph_count": 425,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-political-economy-1850-ed"
+    }
+  ]
+}

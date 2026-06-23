@@ -1,0 +1,33 @@
+---
+work_id: "9aa66b54-5650-5701-9b70-9bab03aeed6e"
+work_slug: "karl-marx-wage-labour-and-capital-9aa66b"
+work_title: Wage Labour and Capital
+author_name: Karl Marx
+chapter_number: 5
+chapter_title: "By what are wages determined?"
+chapter_slug: "05-by-what-are-wages-determined"
+variant_id: "36d1ddf9-4e65-5eb3-a953-15d8f2ec3aad"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 511
+source_url: "https://www.marxists.org/archive/marx/works/1847/wage-labour/ch04.htm"
+translator: Frederick Engels
+---
+
+Now, the same general laws which regulate the price of commodities in general, naturally regulate wages, or the price of labour-power. Wages will now rise, now fall, according to the relation of supply and demand, according as competition shapes itself between the buyers of labour-power, the capitalists, and the sellers of labour-power, the workers. The fluctuations of wages correspond to the fluctuation in the price of commodities in general. But within the limits of these fluctuations the price of labour-power will be determined by the cost of production, by the labour-time necessary for production of this commodity: labour-power.
+
+What, then, is the cost of production of labour-power?
+
+It is the cost required for the maintenance of the labourer as a labourer, and for his education and training as a labourer.
+
+Therefore, the shorter the time required for training up to a particular sort of work, the smaller is the cost of production of the worker, the lower is the price of his labour-power, his wages. In those branches of industry in which hardly any period of apprenticeship is necessary and the mere bodily existence of the worker is sufficient, the cost of his production is limited almost exclusively to the commodities necessary for keeping him in working condition. The price of his work will therefore be determined by the price of the necessary means of subsistence.
+
+Here, however, there enters another consideration. The manufacturer who calculates his cost of production and, in accordance with it, the price of the product, takes into account the wear and tear of the instruments of labour. If a machine costs him, for example, 1,000 shillings, and this machine is used up in 10 years, he adds 100 shillings annually to the price of the commodities, in order to be able after 10 years to replace the worn-out machine with a new one. In the same manner, the cost of production of simple labour-power must include the cost of propagation, by means of which the race of workers is enabled to multiply itself, and to replace worn-out workers with new ones. The wear and tear of the worker, therefore, is calculated in the same manner as the wear and tear of the machine.
+
+Thus, the cost of production of simple labour-power amounts to the cost of the existence and propagation of the worker. The price of this cost of existence and propagation constitutes wages. The wages thus determined are called the minimum of wages. This minimum wage, like the determination of the price of commodities in general by cost of production, does not hold good for the single individual, but only for the race. Individual workers, indeed, millions of workers, do not receive enough to be able to exist and to propagate themselves; but the wages of the whole working class adjust themselves, within the limits of their fluctuations, to this minimum.
+
+Now that we have come to an understanding in regard to the most general laws which govern wages, as well as the price of every other commodity, we can examine our subject more particularly.

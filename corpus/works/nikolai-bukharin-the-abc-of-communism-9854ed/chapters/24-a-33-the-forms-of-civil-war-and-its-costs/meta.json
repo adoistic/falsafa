@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 24,
+  "chapter_title": "â§ 33 The forms of civil war and its costs",
+  "chapter_slug": "24-a-33-the-forms-of-civil-war-and-its-costs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fad389d5-88db-5a59-81fb-931d177759d3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2808,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/04.htm"
+    }
+  ]
+}

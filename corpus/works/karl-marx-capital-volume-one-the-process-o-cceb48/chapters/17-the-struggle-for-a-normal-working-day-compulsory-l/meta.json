@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 17,
+  "chapter_title": "The Struggle for a Normal Working-day. Compulsory Laws for the Extension of the Working-day from the Middle of the 14Th ",
+  "chapter_slug": "17-the-struggle-for-a-normal-working-day-compulsory-l",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "295c7ccc-ca91-5853-970d-2a90bc73b263",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3859,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm"
+    }
+  ]
+}

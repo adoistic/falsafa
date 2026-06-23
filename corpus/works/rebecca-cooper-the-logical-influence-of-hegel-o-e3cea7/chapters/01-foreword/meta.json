@@ -1,0 +1,26 @@
+{
+  "work_slug": "rebecca-cooper-the-logical-influence-of-hegel-o-e3cea7",
+  "work_title": "The Logical Influence of Hegel on Marx",
+  "chapter_number": 1,
+  "chapter_title": "Foreword",
+  "chapter_slug": "01-foreword",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74db9754-c0b5-5f70-83ac-ca64d68c3dc0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 271,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/cooper/hegel-marx/foreword.htm"
+    }
+  ]
+}

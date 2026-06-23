@@ -1,0 +1,25 @@
+---
+work_id: "125858cf-fea7-5292-b00d-5f4f6d6e46e4"
+work_slug: "friedrich-nietzsche-thus-spake-zarathustra-125858"
+work_title: Thus Spake Zarathustra
+author_name: Friedrich Nietzsche
+chapter_number: 86
+chapter_title: Chapter XVIII — Old and Young Women
+chapter_slug: 86
+variant_id: "aa98141a-4e5d-5772-a56a-83b144c8f2c4"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 484
+source_url: "https://www.gutenberg.org/ebooks/1998"
+translator: Project Gutenberg edition
+---
+
+Nietzsche’s views on women have either to be loved at first sight or they become perhaps the greatest obstacle in the way of those who otherwise would be inclined to accept his philosophy. Women especially, of course, have been taught to dislike them, because it has been rumoured that his views are unfriendly to themselves. Now, to my mind, all this is pure misunderstanding and error.
+
+German philosophers, thanks to Schopenhauer, have earned rather a bad name for their views on women. It is almost impossible for one of them to write a line on the subject, however kindly he may do so, without being suspected of wishing to open a crusade against the fair sex. Despite the fact, therefore, that all Nietzsche’s views in this respect were dictated to him by the profoundest love; despite Zarathustra’s reservation in this discourse, that “with women nothing (that can be said) is impossible,” and in the face of other overwhelming evidence to the contrary, Nietzsche is universally reported to have mis son pied dans le plat, where the female sex is concerned. And what is the fundamental doctrine which has given rise to so much bitterness and aversion?—Merely this: that the sexes are at bottom ANTAGONISTIC—that is to say, as different as blue is from yellow, and that the best possible means of rearing anything approaching a desirable race is to preserve and to foster this profound hostility. What Nietzsche strives to combat and to overthrow is the modern democratic tendency which is slowly labouring to level all things—even the sexes. His quarrel is not with women—what indeed could be more undignified?—it is with those who would destroy the natural relationship between the sexes, by modifying either the one or the other with a view to making them more alike. The human world is just as dependent upon women’s powers as upon men’s. It is women’s strongest and most valuable instincts which help to determine who are to be the fathers of the next generation. By destroying these particular instincts, that is to say by attempting to masculinise woman, and to feminise men, we jeopardise the future of our people. The general democratic movement of modern times, in its frantic struggle to mitigate all differences, is now invading even the world of sex. It is against this movement that Nietzsche raises his voice; he would have woman become ever more woman and man become ever more man. Only thus, and he is undoubtedly right, can their combined instincts lead to the excellence of humanity. Regarded in this light, all his views on woman appear not only necessary but just (see Note on Chapter LVI., par. 21.)
+
+It is interesting to observe that the last line of the discourse, which has so frequently been used by women as a weapon against Nietzsche’s views concerning them, was suggested to Nietzsche by a woman (see “Das Leben F. Nietzsche’s”).

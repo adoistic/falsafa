@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1760
+word_count: 1748
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
@@ -54,7 +54,7 @@ Every man has, by nature, certain judicial powers, or rights. That is to say, he
 
 Now, inasmuch as no man can delegate, or impart, his own judgment or conscience to another, it is naturally impossible that he can delegate to another his judicial rights or powers.
 
-So, too, every man has, by nature, a right to judge of, and enforce, the rights, Edition: current; Page: [104] and judge of, and redress the wrongs, of any and all other men. This right is included in his natural right to maintain justice between man and man, and to protect the injured party against the wrongdoer. But, in doing this, he must act only in accordance with his own judgment and conscience, and subject to his own personal responsibility for any error he may commit, either through ignorance or design.
+So, too, every man has, by nature, a right to judge of, and enforce, the rights, and judge of, and redress the wrongs, of any and all other men. This right is included in his natural right to maintain justice between man and man, and to protect the injured party against the wrongdoer. But, in doing this, he must act only in accordance with his own judgment and conscience, and subject to his own personal responsibility for any error he may commit, either through ignorance or design.
 
 But, inasmuch as, in this case, as in the preceding one, he can neither delegate nor impart his own judgment or conscience to another, he cannot delegate his judicial power or right to another.
 
@@ -74,7 +74,7 @@ For the reasons that have now been given, neither any legislative, judicial, nor
 
 And what is true, in this matter, in regard to the national government, is, for the same reasons, equally true in regard to all the State governments.
 
-But this principle of personal responsibility, each for his own judicial or executive acts, does not stand in the way of men’s associating, at pleasure, for the maintenance of justice; and selecting such persons as they think most suitable, for judicial and executive duties; and requesting them to perform those duties; and Edition: current; Page: [105] then paying them for their labor. But the persons, thus selected, must still perform their duties according to their own judgments and consciences alone, and subject to their own personal responsibility for any errors of either ignorance or design.
+But this principle of personal responsibility, each for his own judicial or executive acts, does not stand in the way of men’s associating, at pleasure, for the maintenance of justice; and selecting such persons as they think most suitable, for judicial and executive duties; and requesting them to perform those duties; and then paying them for their labor. But the persons, thus selected, must still perform their duties according to their own judgments and consciences alone, and subject to their own personal responsibility for any errors of either ignorance or design.
 
 To make it safe and proper for persons to perform judicial duties, subject to their personal responsibility for any errors of either ignorance or design, two things would seem to be important, if not indispensable, viz.:
 
@@ -90,7 +90,7 @@ An association for the maintenance of justice should be a purely voluntary one; 
 
 A single individual could not reasonably be expected to delay, or forego, the exercise of his natural right to enforce his own rights, and redress his own wrongs, except upon the condition that there is an association that will do it promptly, and without expense to him. But having paid his proper proportion of the expense necessary for the protection of all, he has then a right to demand prompt and complete protection for himself.
 
-Inasmuch as it cannot be known which party is in the wrong, until the trial has been had, the expense of both parties must, in the first instance, be paid by the association, or associations, to which they belong. But after the trial has been had, and it has been ascertained which party was in the wrong, and (if such should be Edition: current; Page: [106] the case) so clearly in the wrong as to have had no justification for putting the association to the expense of a trial, he then may properly be compelled to pay the cost of all the proceedings.
+Inasmuch as it cannot be known which party is in the wrong, until the trial has been had, the expense of both parties must, in the first instance, be paid by the association, or associations, to which they belong. But after the trial has been had, and it has been ascertained which party was in the wrong, and (if such should be the case) so clearly in the wrong as to have had no justification for putting the association to the expense of a trial, he then may properly be compelled to pay the cost of all the proceedings.
 
 If the parties to a suit should belong to different associations, it would be right that the judges should be taken from both associations; or from a third association, with which neither party was connected.
 

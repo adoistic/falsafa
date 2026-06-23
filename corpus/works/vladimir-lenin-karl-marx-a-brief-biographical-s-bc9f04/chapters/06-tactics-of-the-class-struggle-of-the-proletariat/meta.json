@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-karl-marx-a-brief-biographical-s-bc9f04",
+  "work_title": "Karl Marx: A Brief Biographical Sketch With an Exposition of Marxism",
+  "chapter_number": 6,
+  "chapter_title": "Tactics of the Class Struggle of the Proletariat",
+  "chapter_slug": "06-tactics-of-the-class-struggle-of-the-proletariat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f19dfb05-16d9-5120-8107-24e0a09efc2a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1615,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1914/granat/ch05.htm"
+    }
+  ]
+}

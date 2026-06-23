@@ -1,0 +1,41 @@
+---
+work_id: "160a7bc0-d296-56b6-9590-c7ab5a99c0a8"
+work_slug: "paul-lafargue-social-and-philosophical-studies-160a7b"
+work_title: Social and Philosophical Studies
+author_name: Paul Lafargue
+chapter_number: 1
+chapter_title: I. The Religious Bourgeoisie and the Irreligious Proletariat
+chapter_slug: "01-i-the-religious-bourgeoisie-and-the-irreligious-pr"
+variant_id: "2f2c3997-4999-5f6c-ba42-162d64130067"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1025
+source_url: "https://www.marxists.org/archive/lafargue/1906/socphil/ch1.html"
+translator: Charles H. Kerr
+---
+
+Bourgeois free-thought under the auspices of two illustrious scientists, Berthelot and Haeckel, has set up its platform at Rome, opposite the Vatican to hurl its oratorical thunder-bolts against Catholicism, which with its hierarchical clergy and its alleged immutable dogmas stands in the bourgeois mind for Religion.
+
+Do the free thinkers, because they are put ting Catholicism on trial, think they are emancipated from belief in God, the foundation of all religion? Do they think that the Bourgeoisie, the class to which they belong, can dispense with Christianity, of which Catholicism is a manifestation?
+
+Christianity, though it has succeeded in adapting itself to other social forms, is first and foremost the religion of societies founded on individual property and the exploitation of wage labor, and that is why it has been, is, and shall be, whatever is said, and whatever is done, the religion of the Bourgeoisie. For more than ten centuries all its movements, whether for organizing itself, emancipating itself, or spreading into new territory, have been accompanied and complicated by religious crises; it has always put the material interests whose triumph it sought under the cover of Christianity, which it claimed that it wished to re form and bring back to the pure doctrine of the Divine Master.
+
+The bourgeois revolutionists of 1789, imagining that France could be de-christianized, persecuted the clergy with unequaled vigor; the more logical of them, thinking that nothing would be accomplished as long as the be lief in God existed, abolished God by decree, like a functionary of the old regime, and re placed him by the Goddess of Reason. But when the revolutionary fever had run its course, Robespierre re-established by a decree the supreme being, the name of God being still out of fashion, and a few months later the cu rates emerged from their cells and opened their churches, where the faithful held love feasts, and Bonaparte to satisfy the bourgeois mob signed the Concordat: then appeared a Christianity of a romantic, sentimental, picturesque and macaronic character, adapted by Chateaubriand to the tastes of the triumphant Bourgeoisie.
+
+The powerful intellects of free thought have affirmed and still affirm, in spite of evidence, that science would disencumber the human brain of the idea of God by making it useless for a comprehension of the mechanism of the universe. Nevertheless the men of science with but few exceptions are still under the charm of that belief; if in his own field a scientist, to use Laplace s phrase, has no need of the hypothesis of God to explain the phenomena that he studies, he does not venture to declare that it is useless in accounting for those which are not summed up in the list of his researches; and all scientists recognize that God is more or less necessary for the proper working of the social gearings and for the morals of the masses. Not only is the idea of God not completely banished from the brains of the scientists, but the grossest superstition flourishes, not in the backwoods and among the ignorant, but in the capitals of civilization and among the educated bourgeois; some enter into sessions with spirits to get news from beyond the tomb, others prostrate themselves before St. Anthony of Padua to find something lost, to guess the lucky number at the lottery, to pass an examination at the Polytechnic; they consult palmists, clairvoyants, card-readers, in order to learn the future, interpret dreams, etc. The scientific knowledge that they possess does not protect them against the most stupid credulity.
+
+But while in all the groups of the Bourgeoisie the religious sentiment retains its vitality and shows itself in a thousand fashions, the industrial proletariat is characterized by a religious indifference that is unreasoning, but unshakable.
+
+Mr. Charles Booth, the well-known sociologist, at the close of his vast inquiry into the religious state of London, which his army of assistants “have visited district by district, street by street, and often house by house,” states that
+
+“the mass of the people make no profession of faith and take no interest in religious observances ... The great section of the population which passes by the name of the working classes, lying socially between the lower middle class and the poor, remains, as a whole, outside of all the religious bodies ... The churches have come to be regarded as the resorts of the well-to-do, and of those who are willing to accept the charity and patronage of the people better off than themselves ... The average working man of to-day thinks more of his rights or of his wrongs than of his duties and his failure to perform them. Humility and the consciousness of sin, and the attitude of worship, are perhaps not natural to him.”
+
+These undeniable proofs of the instinctive irreligion of the London workingmen, usually thought so religious, can be matched by the most superficial observation of the industrialized cities of France: If laborers are found there who assume religious sentiments, or who really have them (these latter are rare) it is because religion strikes them as a form of charitable relief; if others are fanatical free thinkers, it is because they have suffered from the meddling of the priest in their families or in their relations with their employer.
+
+Indifference in religious matters, the most serious symptom of irreligion, to quote Lamennais, is inborn in the modern working class. While the political movements of the Bourgeoisie may have taken on a religious or anti-religious form, no inclination can be seen in the Proletariat of the great industries in Europe and America toward elaborating a new religion to replace Christianity, nor any desire to reform it. The economic and political organizations of the working class in both hemispheres are uninterested in any doctrinal discussion on religious dogmas and spiritual ideas; this however does not prevent their making war on priests of all cults, regarding them as the domestics of the capitalist class.
+
+How comes it that the bourgeois, who receive a scientific education of greater or less extent, are still trammeled by religious ideas, from which the workers, without the education, have freed themselves?

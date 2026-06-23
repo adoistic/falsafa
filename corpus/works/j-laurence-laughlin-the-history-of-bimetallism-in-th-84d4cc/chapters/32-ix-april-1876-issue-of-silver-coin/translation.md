@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 32
-chapter_title: IX. APRIL, 1876.—Issue of Silver Coin.
+chapter_title: IX. April, 1876.—Issue of Silver Coin.
 chapter_slug: "32-ix-april-1876-issue-of-silver-coin"
 variant_id: "93b8fd93-b87a-5fa8-a5f1-d9ff1b57cdad"
 content_type: translation

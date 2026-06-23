@@ -4,7 +4,7 @@ work_slug: "immanuel-kant-kants-principles-of-politics-inc-aadb1b"
 work_title: "Kant's Principles of Politics, including his Essay on Perpetual Peace"
 author_name: Immanuel Kant
 chapter_number: 1
-chapter_title: TRANSLATOR’S INTRODUCTION
+chapter_title: Translator’s Introduction
 chapter_slug: "01-translator-s-introduction"
 variant_id: "5037bbf6-d349-53ce-bbd3-179558fe923d"
 content_type: translation

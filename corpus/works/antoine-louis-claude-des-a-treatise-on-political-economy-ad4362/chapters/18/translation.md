@@ -4,7 +4,7 @@ work_slug: "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362"
 work_title: A Treatise on Political Economy
 author_name: Antoine Louis Claude Destutt de Tracy
 chapter_number: 18
-chapter_title: "CHAPTER VI.: Of Money."
+chapter_title: "Chapter X.: Consequences and developement of the two preceding Chapters."
 chapter_slug: 18
 variant_id: "caed3ed5-df6a-540a-bdc9-073c0a2182df"
 content_type: translation
@@ -13,45 +13,51 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 420
+word_count: 454
 source_url: "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
 translator: Online Library of Liberty edition
 ---
 
-Commerce can and does exist to a certain degree without money.
+Let us recollect first, that we all have separate interests, and unequal means.
 
-The values of all those things, which have any, serve as a reciprocal measure.
+Secondly. That nevertheless we are all united by the common interests of proprietors and consumers.
 
-The precious metals, which are one of those things, become soon their common measure, because they have many advantages for this purpose.
+Thirdly. That, consequently, there are not in society classes which are constantly enemies to one another.
 
-However they are not yet money. It is the impression of the sovereign which gives this quality to a piece of metal, in establishing its weight and its fineness.
+Society divides itself into two great classes, hirelings and employers.
 
-Silver money is the only true common measure.
+This second class contains two species of men. namely the idle who live on their revenue.
 
-The proportion of gold and silver vary according to times and places.
+Their means do not augment.
 
-Copper money is a false money, useful only for small change.
+And the active who join their industry to the capitals they may possess. Having reached a certain term their means augment but little.
 
-It is to be desired that coins had never borne other names than those of their weight; and that the arbitrary denominations, called monies of account, such as livres, sous, deniers, &c. &c. had never been used.
+The funds on which the stipendiaries live become therefore with time nearly a constant quantity.
 
-But when these denominations are admitted and employed in transactions, to diminish the quantity of metal to which they answer, by an alteration of the real coins, is to steal.
+Moreover the class of hirelings receives the surplus of all the others.
 
-And it is a theft which injures even him who commits it.
+Thus the extent which that surplus can attain determines that of the total population of which it explains all the variations.
 
-A theft of greater magnitude, and still more ruinous, is the making of paper money.
+It follows thence that whatever is really useful to the poor, is always really useful to society at large.
 
-It is greater, because in this money there is absolutely no real value.
+As proprietors the poor have an interest, first that property be respected. The preservation even of that which does not belong to them, but from which they are remunerated is important to them. It is just and useful also to leave them masters of their labour, and of their abode.
 
-It is more ruinous, because by its gradual depreciation, during all the time of its existence, it produces the effect which would be produced by an infinity of successive deteriorations of the coins.
+Secondly. That wages be sufficient. It is of importance also to society that the poor should not be too wretched.
 
-All these iniquities are founded on the false idea that money is but a sign, while it is value and a true equivalent of that for which it is given.
+Thirdly. That these wages be steady. Variations in the different branches of industry are an evil. Those in the price of grain are a still greater one. Agricultural people are greatly exposed to the latter. Commercial people are rarely exposed to the former, except through their own fault.
 
-Silver being a value, as every other useful thing, we should be allowed to hire it as freely as any other thing.
+As consumers the poor have an interest that fabrication should be economical, the means of communication easy, and commercial relations numerous. The simplification of process in the arts, the perfection of method are to them a benefit and not an evil. In this their interest is also that of society in general.
 
-Exchange, properly so called, is a simple barter of one money for another. Banking, or the proper office of a banker, consists in enabling you to receive in another city the money which you deliver him in that in which he is.
+After the opposition of our interests let us examine the inequality of our means.
 
-Bankers render also other services, such as discounting, lending, &c. &c.
+All inequality is an evil, because it is a mean of injustice.
 
-All these bankers, exchangers, lenders, discounters, &c. &c. have a great tendency to form themselves into large companies under the pretext of rendering their services on more reasonable terms, but in fact to be paid more dearly for them.
+Let us distinguish the inequality of power from inequality of riches.
 
-All these privileged companies, after the emission of a great number of notes, end in obtaining authority to refuse payment at sight; and thus forcibly introduce a paper money.
+Inequality of power is the most grievous. It is that which exists among savages.
+
+Society diminishes the inequality of power; but it augments that of riches, which carried to an extreme reproduces that of power.
+
+This inconvenience is more or less difficult to avoid, according to different circumstances. Thence the difference in the destinies of nations.
+
+It is this vicious circle which explains the connexion of many events which have been always spoken of in a manner very vague and very unexact.

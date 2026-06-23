@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1247
+word_count: 1243
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
@@ -48,7 +48,7 @@ You have not so much as the honest signature of a single human being, granting t
 
 You hold your place only by a title, which, on no just principle of law or reason, is worth a straw. And all who are associated with you in the government—whether they be called senators, representatives, judges, executive officers, or what not—all hold their places, directly or indirectly, only by the same worthless title. That title is nothing more nor less than votes given in secret (by secret ballot), by not more than one-fifth of the whole population. These votes were given in secret solely because those who gave them did not dare to make themselves personally responsible, either for their own acts, or the acts of their agents, the lawmakers, judges, etc.
 
-These voters, having given their votes in secret (by secret ballot), have put it out of your power—and out of the power of all others associated with you in the government—to designate your principals individually. That is to say, you have no legal knowledge as to who voted for you, or who voted against you. And being unable to designate your principals individually, you have no right to say that you Edition: current; Page: [11] have any principals. And having no right to say that you have any principals, you are bound, on every just principle of law or reason, to confess that you are mere usurpers, making laws, and enforcing them, upon your own authority alone.
+These voters, having given their votes in secret (by secret ballot), have put it out of your power—and out of the power of all others associated with you in the government—to designate your principals individually. That is to say, you have no legal knowledge as to who voted for you, or who voted against you. And being unable to designate your principals individually, you have no right to say that you have any principals. And having no right to say that you have any principals, you are bound, on every just principle of law or reason, to confess that you are mere usurpers, making laws, and enforcing them, upon your own authority alone.
 
 A secret ballot makes a secret government; and a secret government is nothing else than a government by conspiracy. And a government by conspiracy is the only government we now have.
 

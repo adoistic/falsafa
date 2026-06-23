@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 35,
+  "chapter_title": "Chap. XIII: How far the Form of Government of a particular Country may be favourable or unfavourable to a Competition wi",
+  "chapter_slug": "35-chap-xiii-how-far-the-form-of-government-of-a-part",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b9994444-6d41-50eb-918e-da07cd2d2a96",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4388,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_13.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 23,
+  "chapter_title": "Workers Win Rights for Possessing Class.",
+  "chapter_slug": "23-workers-win-rights-for-possessing-class",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31c24aa0-538c-5ebb-836d-2714d6d8a967",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1225,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

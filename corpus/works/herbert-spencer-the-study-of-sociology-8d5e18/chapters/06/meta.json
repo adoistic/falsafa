@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-study-of-sociology-8d5e18",
+  "work_title": "The Study of Sociology",
+  "chapter_number": 6,
+  "chapter_title": "Chapter V, objective difficulties.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bcd4e809-3f01-595a-8845-3b696c7b9c13",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13021,
+      "paragraph_count": 96,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-study-of-sociology-1873"
+    }
+  ]
+}

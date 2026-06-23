@@ -1,0 +1,26 @@
+{
+  "work_slug": "m-n-roy-new-economic-policy-of-british-i-5aac9f",
+  "work_title": "New Economic Policy of British Imperialism",
+  "chapter_number": 1,
+  "chapter_title": "New Economic Policy of British Imperialism",
+  "chapter_slug": "01-new-economic-policy-of-british-imperialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d847580-7254-5a80-bb3b-61232c4770be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7342,
+      "paragraph_count": 102,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/roy/1925/x01/x02.htm"
+    }
+  ]
+}

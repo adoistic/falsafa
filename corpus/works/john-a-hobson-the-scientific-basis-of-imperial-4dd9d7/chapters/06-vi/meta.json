@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-the-scientific-basis-of-imperial-4dd9d7",
+  "work_title": "The Scientific Basis of Imperialism",
+  "chapter_number": 6,
+  "chapter_title": "VI.",
+  "chapter_slug": "06-vi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10cf557a-b1e2-56f1-8cd5-3718e5db617c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 541,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1902/09/sciimp.htm"
+    }
+  ]
+}

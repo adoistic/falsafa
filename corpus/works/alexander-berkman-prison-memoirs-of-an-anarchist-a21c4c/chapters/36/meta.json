@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 36,
+  "chapter_title": "Part 2, Chapter 14 : The Dip",
+  "chapter_slug": "36",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6138f163-5141-568b-ae07-1cec1e0d078a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1374,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-14.html"
+    }
+  ]
+}

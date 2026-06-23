@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 17,
+  "chapter_title": "Property Is Physically and Mathematically Impossible.",
+  "chapter_slug": "17-property-is-physically-and-mathematically-impossib",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "80804cd1-936a-5b89-b593-7b609286d39f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1799,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch04.htm"
+    }
+  ]
+}

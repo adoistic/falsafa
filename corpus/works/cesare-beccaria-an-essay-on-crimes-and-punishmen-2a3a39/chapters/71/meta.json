@@ -2,7 +2,7 @@
   "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
   "work_title": "An Essay on Crimes and Punishments",
   "chapter_number": 71,
-  "chapter_title": "CHAPTER XXII.: ON CRIMINAL PROCEDURE, AND OTHER FORMS.",
+  "chapter_title": "Chapter XXIII.: The Idea of Reformation.",
   "chapter_slug": "71",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 817,
-      "paragraph_count": 9,
+      "word_count": 481,
+      "paragraph_count": 11,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
     }

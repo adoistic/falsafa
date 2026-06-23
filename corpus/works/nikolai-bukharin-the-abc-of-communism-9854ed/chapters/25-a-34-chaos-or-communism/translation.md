@@ -1,0 +1,29 @@
+---
+work_id: "9854ed81-f7ef-52b6-99c9-8ce949767ef2"
+work_slug: "nikolai-bukharin-the-abc-of-communism-9854ed"
+work_title: The ABC of Communism
+author_name: Nikolai Bukharin
+chapter_number: 25
+chapter_title: â§ 34 Chaos or communism
+chapter_slug: "25-a-34-chaos-or-communism"
+variant_id: "17996844-2db3-5c6d-b346-f08bcf4caf94"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 561
+source_url: "https://www.marxists.org/archive/bukharin/works/1920/abc/04.htm"
+translator: Marxists Internet Archive edition
+---
+
+The revolution as it develops becomes a world revolution for the same reason that the imperialist war became a world war. All important countries are interconnected, they are all parts of the world economy, nearly all of them were involved in the war, and were united by the war in a common understanding. In all countries alike, the war produced terrible devastation, led to famine, and to the enslavement of the proletariat. Everywhere it promoted the gradual decomposition and decay of capitalism, and ultimately caused a revolt against the savage discipline in the army, the factory, and the workshop. With the like inevitability it led to the communist revolution of the proletariat.
+
+Once they had begun, the disintegration of capitalism and the growth of the communist revolution could no longer be stayed. The ruin of capitalism was imminent. Every attempt to establish a truly human society upon the old capitalist foundations is foredoomed to absolute failure. The class consciousness of the proletarian masses is now so fully developed, that they neither can nor will work for capital. They refuse to slay one another in the interests of capital, of colonial policy, etc. The army of William I I cannot possibly be re-established in Germany today. And just as it is impossible to re-establish an imperialist discipline in the army, just as it has become impossible to compel proletarian soldiers to subject themselves to the yoke of junker generals, so is it impossible to re-establish the capitalist discipline of labour, and to compel the workers to toil for a master or the peasants to toil for a landlord. The new army can only be created by the proletariat; the new labour discipline can only be created by the working class.
+
+We are thus confronted by two alternatives, and two only. There must either be complete disintegration, hell broth, further brutalization and disorder, absolute chaos, or else communism. All attempts that have been made to re-establish capitalism in a country where for a time the masses have had power in their own hands, confirm this statement of alternatives. Neither the Finnish bourgeoisie nor the Hungarian bourgeoisie, neither Kolchak nor Denikin nor Skoropadsky, was in a position to restore economic life. They were unable to establish even their own bloody system upon a firm footing.
+
+THE ONLY ISSUE FOR HUMANITY IS COMMUNISM. AND SINCE COMMUNISM CAN BE REALIZED ONLY BY THE PROLETARIAT, THE PROLETARIAT IS TODAY THE TRUE SAVIOUR OF MANKIND FROM THE HORRORS OF CAPITALISM, FROM THE BARBARITIES OF EXPLOITATION, FROM COLONIAL POLICY, INCESSANT WARS, FAMINE, A LAPSE .INTO SAVAGERY AND BRUTALIZATION, FROM ALL THE ABOMINATIONS THAT ARE ENTAILED BY FINANCIAL CAPITAL AND IMPERIALISM. HEREIN LIES THE SPLENDID HISTORIC SIGNIFICANCE OF THE PROLETARIAT. THE WORKERS MAY SUFFER DEFEAT IN INDIVIDUAL BATTLES, AND EVEN IN INDIVIDUAL COUNTRIES. BUT THE VICTORY OF THE PROLETARIAT IS NO LESS CERTAIN THAN THE RUIN OF THE BOURGEOISIE IS INEVITABLE.
+
+From the foregoing it is plain that all groups, classes, and parties which believe the re-establishment of capitalism to be possible, which imagine that the time is not yet ripe for the coming of socialism, are in fact, whether they wish it or not and whether they know it or not, playing the part of counter-revolutionaries and reactionaries. Of this character are all the parties that preach class collaboration. We shall return to the matter in the next chapter.

@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 1
-chapter_title: PREFACE TO THE ENGLISH EDITION
+chapter_title: Preface to the English Edition
 chapter_slug: "01-preface-to-the-english-edition"
 variant_id: "5c7cd6ea-2868-5a67-aaa6-d3c72209da95"
 content_type: translation

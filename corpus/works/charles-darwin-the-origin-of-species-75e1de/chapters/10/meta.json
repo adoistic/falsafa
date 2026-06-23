@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-darwin-the-origin-of-species-75e1de",
+  "work_title": "The Origin of Species",
+  "chapter_number": 10,
+  "chapter_title": "Chapter VIII. Instinct.",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "06a28e51-46af-52fd-86f2-b8dbbea90c18",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13941,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/darwin/works/origins/ch08.htm"
+    }
+  ]
+}

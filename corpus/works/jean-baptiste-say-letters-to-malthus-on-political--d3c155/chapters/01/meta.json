@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-letters-to-malthus-on-political--d3c155",
+  "work_title": "Letters to Malthus on Political Economy and Stagnation of Commerce",
+  "chapter_number": 1,
+  "chapter_title": "Letter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "84bdd31d-ee27-5d7f-bb7f-017e3da221bc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7029,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/say/letter1.htm"
+    }
+  ]
+}

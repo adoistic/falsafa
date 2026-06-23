@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-law-of-accumulation-and-brea-4449c7",
+  "work_title": "The Law of Accumulation and Breakdown of the Capitalist System",
+  "chapter_number": 11,
+  "chapter_title": "The conflict between use value and exchange value",
+  "chapter_slug": "11-the-conflict-between-use-value-and-exchange-value",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44b6557b-253c-5b9e-9161-d8897e3adca7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1244,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/ch03.htm"
+    }
+  ]
+}

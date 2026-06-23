@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-the-decline-of-capitalism-bfcb39",
+  "work_title": "The Decline of Capitalism",
+  "chapter_number": 4,
+  "chapter_title": "III. World Production and Accumulation",
+  "chapter_slug": "04-iii-world-production-and-accumulation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5ae9178-a3cd-5072-8cc8-a2ca41db411a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1757,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1924/x01/x01.htm"
+    }
+  ]
+}

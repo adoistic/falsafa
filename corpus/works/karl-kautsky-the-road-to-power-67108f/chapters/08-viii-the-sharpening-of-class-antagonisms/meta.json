@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-road-to-power-67108f",
+  "work_title": "The Road to Power",
+  "chapter_number": 8,
+  "chapter_title": "VIII. The Sharpening of Class Antagonisms",
+  "chapter_slug": "08-viii-the-sharpening-of-class-antagonisms",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ee2ea5e-1887-5d79-8ffb-789bb3f891c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6154,
+      "paragraph_count": 103,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1909/power/ch08.htm"
+    }
+  ]
+}

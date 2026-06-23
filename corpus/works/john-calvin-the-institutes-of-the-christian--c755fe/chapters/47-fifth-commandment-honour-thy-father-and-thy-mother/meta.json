@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 47,
+  "chapter_title": "Fifth Commandment.: Honour Thy Father and Thy Mother, That Thy Days May Be Long upon the Land Which the Lord Thy God Giv",
+  "chapter_slug": "47-fifth-commandment-honour-thy-father-and-thy-mother",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d841f63d-9280-5948-a2e8-5c38ea91bb34",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1274,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

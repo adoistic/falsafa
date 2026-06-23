@@ -4,7 +4,7 @@ slug: "didache-didache-911275"
 title: Didache
 author:
   name: Didache
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Anonymous early Christian church manual of the late first or early second century, also titled The Teaching of the Twelve Apostles. The text sets out instruction on the Two Ways, baptism, the Eucharist, and church order for early congregations.
 era: Imperial
 genre: Classics
 language: Greek

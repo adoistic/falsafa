@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 17,
+  "chapter_title": "[a] Identity",
+  "chapter_slug": "17-a-identity",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f8fd9d5c-9c12-5071-a6d3-37934630fb76",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 874,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slessenc.htm"
+    }
+  ]
+}

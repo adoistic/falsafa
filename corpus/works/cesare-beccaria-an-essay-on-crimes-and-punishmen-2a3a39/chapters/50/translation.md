@@ -4,7 +4,7 @@ work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
 work_title: An Essay on Crimes and Punishments
 author_name: Cesare Beccaria
 chapter_number: 50
-chapter_title: "CHAPTER I.: THE OCCASION OF THIS COMMENTARY."
+chapter_title: "Chapter II.: Of Punishments."
 chapter_slug: 50
 variant_id: "8795c883-0012-5e68-869b-cd00afeb1dcc"
 content_type: translation
@@ -13,21 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 509
+word_count: 218
 source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
 translator: Online Library of Liberty edition
 ---
 
-Having read, with infinite satisfaction, the little book on Crimes and Punishments, which in morality, as in medicine, may be compared to one of those few remedies, capable of alleviating our sufferings; I flattered myself that it would be a means of softening the remains of barbarism in the laws of many nations; I hoped for some reformation in mankind, when I was Edition: current; Page: [164] informed, that, within a few miles of my abode, they had just hanged a girl of eighteen, beautiful, well made, accomplished, and of a very reputable family.
+This misfortune, and this very hard law, with which I was so sensibly affected, prompted me to cast my eyes on the criminal code of nations. The humane author of the Essay on Crimes and Punishments, had but too much cause to complain, that the latter frequently exceed the former, and are sometimes detrimental to the state they were intended to serve.
 
-She was culpable of having suffered herself to be got with child, and also, of having abandoned her infant. This unfortunate girl, flying from her father’s house, is taken in labour, and, without assistance, is delivered of her burden by the side of a wood. Shame, which in the sex is a powerful passion, gave her strength to return home, and to conceal her situation. She left her child exposed; it is found the next morning; the mother is discovered, condemned and executed.
+Those ingenious punishments, the ne plus ultra of the human mind, endeavouring to render death horrible, seem rather the inventions of tyranny than of justice.
 
-The first fault of this unhappy victim ought to have been concealed by the family, or rather claims the protection of the laws, because it was incumbent on her seducer to repair the injury he had done; because weakness hath a right to indulgence; because concealing her pregnancy may endanger her life; because declaring her condition destroys her reputation, and because the difficulty of providing for her infant is a great additional misfortune.
-
-Her second fault is more criminal. She abandons the fruit of her weakness, and exposes it to perish.
-
-But because a child is dead, is it absolutely necessary to kill the mother? She did not kill the child. She flattered herself, that some passenger would have compassion on the innocent babe. It is even possible that she might intend to return and provide for it; a sentiment so natural in the breast of a mother, that it ought to be presumed. The law in the country of which I am speaking is, indeed, positively against her. But is it not an unjust, inhuman, and pernicious law? Unjust, because it makes no distinction between her who murders, and her who abandons her infant; inhuman, because it punishes with death a too great desire of concealing a weakness; pernicious, because it deprives the state of a fruitful subject, in a country that wants inhabitants.
-
-Charity hath not yet established, in that nation, houses of reception for exposed infants. Where charity is wanting, the law is always cruel. It were much better to prevent, than to think only of punishing these frequent misfortunes. The proper object of jurisprudence is, to hinder the commission of crimes, rather than condemn to death a weak woman, when it is evident that her transgression was unattended with malice, and that she hath already been severely punished by the pangs of her own heart.
-
-Insure, as far as possible, a resource to those who shall be tempted to do evil, and you will have less to punish.
+The punishment of the wheel was first introduced in Germany in the times of anarchy, when those who usurped the regal power resolved to terrify, with unheard-of torments, those who should dispute their authority. In England they ripped open the belly of a man guilty of high-treason, tore out his heart, dashed it in his face, and then threw it into the fire. And wherein did this high-treason frequently consist? In having been, during a civil war, faithful to an unfortunate king; or, in having spoken freely on the doubtful right of the conqueror. At length, their manners were softened; they continued to tear out the heart, but not till after the death of the offender. The apparatus is dreadful, but the death is mild, if death can ever be mild.

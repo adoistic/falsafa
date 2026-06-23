@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-economic-doctrines-of-karl-m-8309a8",
+  "work_title": "The Economic Doctrines of Karl Marx",
+  "chapter_number": 17,
+  "chapter_title": "III. Simple Reproduction",
+  "chapter_slug": "17-iii-simple-reproduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5e937bb-4264-581c-b8cd-4f748abdf38a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1271,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1903/economic/ch16.htm"
+    }
+  ]
+}

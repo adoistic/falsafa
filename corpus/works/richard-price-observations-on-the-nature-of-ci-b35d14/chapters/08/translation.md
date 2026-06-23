@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 8
-chapter_title: PART II.
+chapter_title: Part II.
 chapter_slug: 08
 variant_id: "0c01a32b-6e6f-5349-8a30-5414e245559a"
 content_type: translation

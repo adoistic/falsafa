@@ -1,0 +1,302 @@
+[
+  {
+    "id": "p-538f18",
+    "offset": 0,
+    "text": "THE object of this chapter is to express in algebraic formulas the six principles comprising the second approximation. In Chapter XII we assumed that all income streams were unalterable, except as they could be modified by borrowing and lending, or buying and selling rights to specified portions of these income streams. In the second approximation now to be put into formulas, we substitute for this hypothesis of fixity of the income streams the hypothesis of a range of choice between different income streams."
+  },
+  {
+    "id": "p-a11290",
+    "offset": 516,
+    "text": "The income stream of Individual 1 no longer consists of known and fixed elements, c1', c1'', c1''', etc., in successive periods but of unknown and variable elements which we shall designate by y1', y1'', y1''', etc. (y1' and y1'' are the coördinates of the Opportunity line)."
+  },
+  {
+    "id": "p-ee6c77",
+    "offset": 793,
+    "text": "This elastic income stream may now be modified in two ways: by the variations in these y's, as well as by the method which we found applicable for rigid income streams, namely, the method of exchange, borrowing and lending, or buying and selling. The alterations effected by the latter means we shall designate as before by the algebraic addition of x1', x1'', x1''',..., x1m, for successive years. These are to be applied to the original income items (the y's), deductions being included by assigning negative numerical values. The income stream, as finally determined, will therefore be expressed by the successive items,"
+  },
+  {
+    "id": "p-4e12d5",
+    "offset": 1418,
+    "text": "y1' + x1', y1'' + x1'', y1''' + x1''',..., y1(m) + x1(m)."
+  },
+  {
+    "id": "p-8c2fb9",
+    "offset": 1477,
+    "text": "Impatience Principle A states that the individual rates of preference are functions of the income streams, and gives the following equations:"
+  },
+  {
+    "id": "p-f4e594",
+    "offset": 1620,
+    "text": "f1' = F1' (y1' + x1', y1'' + x1'',..., y1(m) + x1(m)), f2' = F2' (y2' + x2', y2'' + x2'',..., y2(m) + x2(m)), ............. ............. fn' = Fn' (yn' + xn', yn'' + xn'',..., yn(m) + xn(m))."
+  },
+  {
+    "id": "p-d83386",
+    "offset": 1814,
+    "text": "But these equations express the various individuals' rates of impatience only for the first year's income compared with the next. (They are the slopes of the Willingness lines.) To express their impatience for the second year's income compared with the third, there will be another set of equations, namely:"
+  },
+  {
+    "id": "p-df905a",
+    "offset": 2123,
+    "text": "f1'' = F1'' (y1'' + x1'', y1''' + x1''',..., y1(m) + x1(m)), f2'' = F2'' (y2'' + x2'', y2''' + x2''',..., y2(m) + x2 (m)), ............. ............. fn'' = Fn'' (yn'' + xn'', yn''' + xn''',..., yn(m) + xn(m))."
+  },
+  {
+    "id": "p-339100",
+    "offset": 2336,
+    "text": "For the third year, as compared with its successor, there would be another similar set, with ''' in place of '', and so on to the (m - 1) year as compared with the last, or m year. Since each of these (m - 1) groups of equations contains n separate equations, there are in all n (m - 1) equations in the entire set expressing Impatience Principle A."
+  },
+  {
+    "id": "p-a8dd08",
+    "offset": 2687,
+    "text": "Impatience Principle B requires that the rates of time preference and of interest shall be equal. This relationship is represented by the same equations as given in Chapter XII, namely:"
+  },
+  {
+    "id": "p-40e2ca",
+    "offset": 2874,
+    "text": "i' = f1' = f2' =... = fn', i'' = f1'' = f2'' =... = fn'', ............. ............. i(m -1) = f1(m-1) = f2(m-1) =... = fn(m-1)."
+  },
+  {
+    "id": "p-e2a981",
+    "offset": 3005,
+    "text": "Here are n(m - 1) equations expressing Impatience Principle B."
+  },
+  {
+    "id": "p-6f8191",
+    "offset": 3069,
+    "text": "The sets of equations which express Market Principle A, the clearing of the market, are also the same as before, namely:"
+  },
+  {
+    "id": "p-969b50",
+    "offset": 3191,
+    "text": "x1' + x2' +... + xn' = 0, x1'' + x2'' +... + xn'' = 0, ............. ............. x1(m) + x2(m) +... + xn(m) = 0."
+  },
+  {
+    "id": "p-843926",
+    "offset": 3307,
+    "text": "Here are m equations expressing Market Principle A."
+  },
+  {
+    "id": "p-8b4480",
+    "offset": 3360,
+    "text": "Market Principle B, the equivalence of loans and discounted repayments, is also represented algebraically as before, namely:"
+  },
+  {
+    "id": "p-5d9614",
+    "offset": 3486,
+    "text": "These are n equations expressing Market Principle B."
+  },
+  {
+    "id": "p-9668a0",
+    "offset": 3540,
+    "text": "The equations in the four sets just reviewed differ from the equations of Chapter XII only in the first set, which contain y's in place of c's. The c's were supposed to be given or known, but the y's are new unknown quantities. Consequently, the number of unknowns is greater than the number in the first approximation, whereas the number of equations thus far expressed is the same."
+  },
+  {
+    "id": "p-ac6e66",
+    "offset": 3925,
+    "text": "The additional equations needed are supplied by the two Investment Opportunity Principles, namely, Investment Opportunity Principle A, that the range of choice is a specified list of optional income streams, and Investment Opportunity Principle B, that the choice among the optional income streams shall fall upon that one which possesses the maximum present value."
+  },
+  {
+    "id": "p-6cef81",
+    "offset": 4292,
+    "text": "The range of choice, i.e., the complete list of optional income streams, will include many which are ineligible—those which would not be selected whatever might be the rate of interest—whether that rate be zero or one million per cent. Excluding all ineligibles the remaining options constitute the effective range of choice which in Chapter XI is pictured as the Opportunity line."
+  },
+  {
+    "id": "p-35cc8c",
+    "offset": 4675,
+    "text": "If this list of options be assumed for convenience of analysis to consist of an infinite number of options varying from one to another, not by sudden jumps, but continuously, the complete list can be expressed by those possible values of y1', y1'',... y1(m) which will satisfy an empirical equation. There will be one such equation for each individual, thus:"
+  },
+  {
+    "id": "p-b66906",
+    "offset": 5035,
+    "text": "f1 (y1', y1''... y1(m)) = 0, f2 (y2', y2'',... y2(m)) = 0, ............. ............. fn (yn', yn'',... yn(m)) = 0."
+  },
+  {
+    "id": "p-247c1f",
+    "offset": 5153,
+    "text": "Here are n equations, expressing the Investment Opportunity Principle A. The form of each of these equations depends on the particular technical conditions to which the capital of the Individual concerned is subjected. It corresponds to the O line of Chapter XI except that only two years were there represented whereas here all m years are represented. Any one equation sets the limitations to which the variation of the income stream of a particular individual must conform. Each set of values of y1', y1'',... y1(m) which will satisfy this equation represents an optional income stream."
+  },
+  {
+    "id": "p-3b5b08",
+    "offset": 5744,
+    "text": "Out of this infinite number of options the individual has opportunity to choose any one rather than any other. That particular one will be chosen for which the present value is greater than for any other, in other words, is the maximum."
+  },
+  {
+    "id": "p-f473aa",
+    "offset": 5982,
+    "text": "If the options differ by continuous gradations this principle that the maximum present market value is chosen is the same as the principle that r1, the marginal rate of return over cost, shall be equal to i, the market rate of interest."
+  },
+  {
+    "id": "p-ea4bd7",
+    "offset": 6220,
+    "text": "This is true for each year-to-year relation, so that we have, for Individual 1, the following continuous equations:"
+  },
+  {
+    "id": "p-1c4faf",
+    "offset": 6337,
+    "text": "i' = r1' = r2' =... = rn', i'' = r1'' = r2'' =... = rn'' ... ... i(m-1) = r1(m-1) = r2(m-1) =... = rn(m-1)."
+  },
+  {
+    "id": "p-01b82c",
+    "offset": 6446,
+    "text": "Here are n(m - 1) equations expressing Investment Opportunity Principle B."
+  },
+  {
+    "id": "p-84f85c",
+    "offset": 6522,
+    "text": "Collecting our various counts of the numbers of equations, we have:"
+  },
+  {
+    "id": "p-33c822",
+    "offset": 6591,
+    "text": "The sum total of these is 3n(m - 1) + 2n + m, or 3mn + m - n."
+  },
+  {
+    "id": "p-1422ee",
+    "offset": 6654,
+    "text": "To compare this number with the number of unknowns, we note that all the unknowns in the first approximation are repeated;"
+  },
+  {
+    "id": "p-794766",
+    "offset": 6778,
+    "text": "making a total of 2mn + m - n - 1 carried forward from the first approximation."
+  },
+  {
+    "id": "p-31b1f2",
+    "offset": 6859,
+    "text": "In addition, the new unknowns, the y's and the r's, are introduced. There is one y for each individual for each year, the total array of y's being"
+  },
+  {
+    "id": "p-f584d6",
+    "offset": 7007,
+    "text": "y1', y1'',...,y1(m), y2', y2'',...,y2(m), ............. ............. yn', yn'',..., yn(m)."
+  },
+  {
+    "id": "p-5e734d",
+    "offset": 7100,
+    "text": "The number of these y's is evidently mn."
+  },
+  {
+    "id": "p-7f1b4d",
+    "offset": 7142,
+    "text": "There is one r for each individual for each pair of successive years, i.e., first-and-second, second-and-third, etc., and next-to-last-and-last years, the total array of r's being"
+  },
+  {
+    "id": "p-fa490c",
+    "offset": 7323,
+    "text": "r1', r1'',..., r1(m-1), r2', r2'',..., r2(m-1), ............. ............. rn', rn'',..., rn(m-1)."
+  },
+  {
+    "id": "p-2db2de",
+    "offset": 7424,
+    "text": "The number of these r's is evidently n(m - 1)."
+  },
+  {
+    "id": "p-9dbc91",
+    "offset": 7472,
+    "text": "In all, then, the number of new unknowns, additional to the number of old unknowns carried forward from the first approximation, is mn + n(m - 1), or 2mn - n."
+  },
+  {
+    "id": "p-0b6436",
+    "offset": 7632,
+    "text": "Hence we have:"
+  },
+  {
+    "id": "p-18fc66",
+    "offset": 7648,
+    "text": "as compared with 3mn + m - n equations."
+  },
+  {
+    "id": "p-b9bb19",
+    "offset": 7689,
+    "text": "The reconciliation of these two discordant results is effected by two considerations. One reduces the number of equations. Just as under the first approximation, we have one less independent equation in the two sets expressing the Market Principles than the apparent number, thus making the final net number of equations"
+  },
+  {
+    "id": "p-6b0676",
+    "offset": 8011,
+    "text": "3mn + m - n - 1."
+  },
+  {
+    "id": "p-70a772",
+    "offset": 8029,
+    "text": "The other consideration is quite different. It subtracts from the number of unknowns. This can be done because each r, of which there are n(m - 1), is a derivative from the y's. By definition r is the excess above unity of the ratio between a small increment in the y of next year to the corresponding decrement in the y of this year. The same applies to any pair of successive years. This derivative is, more explicitly expressed, a differential quotient."
+  },
+  {
+    "id": "p-436277",
+    "offset": 8487,
+    "text": "The reader not familiar with the notation of the differential calculus will get a clearer picture of the inherent derivability of the r's from the y's by recurring to the geometric method in Chapter XI. There y' and y'' are shown as the coördinates (\"latitude\" and \"longitude\") of the Opportunity line, while r is shown as the tangential slope of that line. It is evident that, given the Opportunity line, its tangential slope at any point is derived from it. It is not a new variable but is included in the variation of y' and y'' as the position on the curve changes."
+  },
+  {
+    "id": "p-8ac703",
+    "offset": 9058,
+    "text": "If, now, we subtract n(m - 1), the number of the r's, from 4mn + m - 2n - 1, we have, as the final net number of unknowns,"
+  },
+  {
+    "id": "p-33bd50",
+    "offset": 9182,
+    "text": "3mn + m - n - 1"
+  },
+  {
+    "id": "p-72909c",
+    "offset": 9199,
+    "text": "which is the same as the total net number of independent equations. Thus the problem is fully determinate under the assumptions made."
+  },
+  {
+    "id": "p-c52dca",
+    "offset": 9334,
+    "text": "We have already seen (Chapter XI, §9), that zero or negative rates of interest are theoretically possible. In terms of formulas all that is needed to make the rate of interest zero is that the forms of the F and f functions shall be such as to produce this result. This implies that these functions shall have solution values equal to zero."
+  },
+  {
+    "id": "p-53debf",
+    "offset": 9676,
+    "text": "Of course it would be possible that interest, impatience, and return over cost for one particular year might be zero or negative without this being true for other years. If they were zero for all the years, we should have the interesting result that the value of a finite perpetual annuity (greater than zero per year) would be infinity. No one could buy a piece of land for instance, expected to yield a net income forever, for less than an infinite sum. A perpetual government bond from which an income forever was assured would have an infinite value. Since this is quite impracticable, we thereby reduce to an absurdity the idea that it is possible to have at one and the same time:"
+  },
+  {
+    "id": "p-2e69b1",
+    "offset": 10364,
+    "text": "But the absurdity is lessened or disappears altogether if either:"
+  },
+  {
+    "id": "p-f94581",
+    "offset": 10431,
+    "text": "Unusual conditions may easily reduce the rate of interest for one year to zero. As to an unproductive or barren world, like the hard-tack island, only a finite totality of income would be possible; a perpetual annuity even of one crumb of hard-tack a year would be impossible."
+  },
+  {
+    "id": "p-c33a98",
+    "offset": 10709,
+    "text": "While this and the previous chapter are largely restatements in terms of formulas of Chapters X and XI in terms of diagrams, which, in turn were largely restatements of Chapters V and VI in terms of words, nevertheless, these formula chapters have a value of their own, just as did the geometric chapters."
+  },
+  {
+    "id": "p-cff73f",
+    "offset": 11016,
+    "text": "In particular, the formula method has value in showing definitely the equality between the number of equations and the number of unknowns, without which no problem of determining variables is ever completely solved."
+  },
+  {
+    "id": "p-c233b9",
+    "offset": 11233,
+    "text": "It is for this reason that these restatements are included in this book. In fact, if I were writing primarily for mathematically trained readers, I would have reversed the order, giving the first place to the formulas, following these with the charts for visualization purposes, and ending with verbal discussion. Each method contributes its distinctive help toward a complete understanding of what is, at best, a difficult problem to encompass by any method at all. I have, therefore, included in these formula chapters, as in the geometric ones, several points not well adapted to the more purely verbal presentations of Chapters V and VI."
+  },
+  {
+    "id": "p-1e617a",
+    "offset": 11876,
+    "text": "Two corollaries follow. One is that any attempt to solve the problem of the rate of interest exclusively as one of productivity or exclusively as one of psychology is necessarily futile. The fact that there are still two schools, the productivity school and the psychological school, constantly crossing swords on this subject is a scandal in economic science and a reflection on the inadequate methods employed by these would-be destroyers of each other. Each sees half of the truth and wrongly infers that it disproves the existence of the other half. The illusion of their apparent incompatibility is solely due to the failure to formulate the problem literally and to count the formulas thus formulated."
+  },
+  {
+    "id": "p-6a6c90",
+    "offset": 12585,
+    "text": "The other corollary is that such a formulation reveals the necessity of positing a theoretically separate rate of interest for each separate period of time, or to put the same thing in more practical terms, to recognize the divergence between the rate for short terms and long terms. This divergence is not merely due to an imperfect market and therefore theoretically subject to annihilation by arbitrage transactions, as Böhm-Bawerk, for instance, seemed to think. They are definitely and normally distinct and due to the endless variety in the conformations of income streams. No amount of mere price arbitrage could erase these differences."
+  },
+  {
+    "id": "p-b9047b",
+    "offset": 13231,
+    "text": "Thus, there should always be, theoretically, a separate market rate of interest for each successive year. Since, in practice, no loan contracts are made in advance so that there are no market quotations for a rate of interest connecting, for example, one year in the future with two years in the future, we never encounter such separate year to year rates. We do, however, have such rates implicitly in long term loans. The rate of interest on a long term loan is virtually an average of the separate rates for the separate years constituting that long term. The proposition affirming the existence of separate rates for separate years amounts to this: that normally there should be a difference between the rates for short term and long term loans, sometimes one being the larger and sometimes the other, according to the whole income situation."
+  },
+  {
+    "id": "p-242f99",
+    "offset": 14079,
+    "text": "The contention often met with that the mathematical formulation of economic problems gives a picture of theoretical exactitude untrue to actual life is absolutely correct. But, to my mind, this is not an objection but a very definite advantage, for it brings out the principles in such sharp relief that it enables us to put our finger definitely on the points where the picture is untrue to life."
+  },
+  {
+    "id": "p-e75403",
+    "offset": 14478,
+    "text": "The object of any theory is not to reproduce concrete facts but to show the chief underlying principles as tendencies. There is, for instance, the very real tendency for all marginal rates of time preference and all marginal rates of return over cost to equal the market rates of interest. Yet this is only a tendency, an ideal never attained."
+  }
+]

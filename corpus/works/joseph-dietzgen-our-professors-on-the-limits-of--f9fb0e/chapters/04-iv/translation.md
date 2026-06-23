@@ -1,0 +1,39 @@
+---
+work_id: "f9fb0eb2-7fe7-56e7-ba59-7d56e861d8db"
+work_slug: "joseph-dietzgen-our-professors-on-the-limits-of--f9fb0e"
+work_title: Our Professors on the Limits of Cognition
+author_name: Joseph Dietzgen
+chapter_number: 4
+chapter_title: IV.
+chapter_slug: "04-iv"
+variant_id: "a2619758-f66d-5529-ac37-30f231a786e2"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1036
+source_url: "https://www.marxists.org/archive/dietzgen/1878/professors.htm"
+translator: "Theodore Rothstein & Max Beer"
+---
+
+Nothing more is meant by these deductions than this: the world is a unity, that is, there is only one world. And whoever wants to pass over to another world – from that of experience to that of presentiment or divinity, – nay, whoever merely speaks of it, is either a ‘crank’ or a scamp or a deceiver of the people. To have the right to stigmatise an opponent with one of these bad names no further proof is required than that he contradicts the “wants of Reason for unity.”
+
+When N�geli tries to impose upon his colleagues at the meeting of scientists the belief that our intellect has, or, perhaps, has outside of the bounds of its own nature yet other, supernatural or unnatural limits, he performs thereby a scandalous trick, the more scandalous, in fact, the further he has progressed in the conception that Nature represents an organic whole where no gulf could be found.
+
+“Our knowledge of Nature is thus always a mathematical one and is based either on simple measurement, such as in morphological and descriptive sciences, or on a measurement of causation as in physical and physiological sciences. But with the assistance of mathematics, of measure, weight and number only relative or quantitative differences can be understood ... Real qualitative differences we cannot determine since qualities can not be compared. This is an important fact for the knowledge of Nature. It follows from this fact that if there are in Nature qualitatively or absolutely different domains, scientific knowledge is only possible in an isolated way within the bounds of each of them, and no connecting bridge leads from one domain into another. But from the same fact also follows that in so far as we can investigate Nature connectedly, in so far as our measuring knowledge proceeds in a consistent, uninterrupted way, and as we come to an understanding of one phenomenon by means of another ... absolute differences, impassable gulfs do not exist in Nature at all.”
+
+This passage shows how very near our Munich professor came to a right and complete conception of the nature of knowledge. It is only wanted to dot the i’s and to cross the t’s. This little thing however, is of infinite importance, since without it one always slides back into the intolerable error of wishing to formulate absolute or qualitative differences, to separate by an impassible gulf the finite and infinite or the human and divine knowledge, and to describe two domains without a connecting bridge.
+
+This dualistic scandal must once for all be put an end to by going one little step further than N�geli. The faculty of cognition must be recognised as the faculty which embraces all differences, all qualities as a unity, as one solitary quantity. It is rational means: reason makes of all existence one order. To enroll under this order all the phenomena of the world as different species, is to know Nature. Because the intellect can do this, because it divides everything into orders and species, into subjects and predicates so that finally only one order remains, only one subject, Being or the Given Premises of which mind and body, reason, fancy, matter, force, etc., are predicates or species, – because of that there cannot possibly remain in the world any impassable gulf. Everything must reduce itself to a theoretical harmony, to one system.
+
+As soon as this i is dotted, it becomes no longer possible to talk grandiloquently that there can be an absolute difference or impassable gulf between the inorganic and organic, between plant, animal, ape, man, mental and manual work, etc. One must know that two drops of water are just as infinitely different as animal and man, as body and soul, and that separation and differentiation are just as little limited as “striving after unity.”
+
+I should like to make the reader understand what the professors, so far as I know them, have not yet understood, viz., that our intellect is a dialectical instrument, an instrument which reconciles all opposites. The intellect creates unity by means of the variety and comprehends the difference in the equality. Hegel has made it clear long ago that in science there is no either – or, but as well as. The faculty of knowledge in the ape, the rustic and the scientist is just of the same category as that in the philosopher, and also the most divine knowledge belongs to the same category, and are all forms of one variety, varieties of one order, predicates of one subject. It is certainly admissible to distinguish between the human and the animal intellect, to raise the former to the skies and give it a different name. But it is just as inadmissible to create an impassable gulf between reason and instinct. If we reason soberly and do not indulge in extravagant exclamations we are bound to recognise that the faculty of discrimination separates infinitely but also connects endlessly.
+
+N�geli says:
+
+“It is a logical necessity for the scientist to allow in the finite Nature only gradual distinctions.” Our reply to this is: it is a logical necessity to throw the infinite and the finite into the same heap, that is to conceive of Nature as a unity which is both finite and infinite.
+
+“But what is the world which is dominated by the human mind? Not even a grain of sand in the eternity of space, not even a second in the eternity of time, but is an outwork of the true essence of the All.” That’s exactly the language of the parson. And it is quite true, if it is only meant as an emphatic expression of sentiment in view of the greatness of existence; but is also very insipid, if the professor takes it to mean that our space and our time were not part and parcel of the infinite and eternal, – very insipid, if it is meant to express that the ‘true essence of the All’ is hidden beyond the phenomena in the infathomable region of metaphysics or religion. The All is to be found in its moments, and to seek it elsewhere is a task which Social-Democrats willingly leave to the ruling classes.

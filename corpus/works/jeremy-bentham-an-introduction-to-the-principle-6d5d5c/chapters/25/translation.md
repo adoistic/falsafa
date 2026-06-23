@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 25
-chapter_title: "Chapter XV: OF THE PROPERTIES TO BE GIVEN TO A LOT OF PUNISHMENT"
+chapter_title: "Chapter XV: Of the Properties to Be Given to a Lot of Punishment"
 chapter_slug: 25
 variant_id: "a2ae48bf-bee4-550e-90c7-9dd29f0b0404"
 content_type: translation

@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 20
-chapter_title: "CHAPTER VII: BANKING. BILLS. CURRENCY"
+chapter_title: "Chapter VII: Banking. Bills. Currency"
 chapter_slug: 20
 variant_id: "8c52a162-4661-552b-909d-eb32f3f1adc4"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 50,
+  "chapter_title": "Observations on Coin in General, WITH Some Proposals for Regulating the Value of Coin in IRELAND.",
+  "chapter_slug": "50-observations-on-coin-in-general-with-some-proposal",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f57fd945-54c2-5d0b-ba19-6f2a446dc84a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 911,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

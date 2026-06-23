@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 78,
+  "chapter_title": "Letter 78",
+  "chapter_slug": "78-letter-78",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3af6729f-63ab-5678-99c1-6b20d3744d84",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1318,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "01d07f63-90dd-52f4-ba11-d816c13accfc",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2650,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-b-boudin-socialism-and-war-331adc",
+  "work_title": "Socialism and War",
+  "chapter_number": 7,
+  "chapter_title": "VI. Socialist vs. Bourgeois Theories",
+  "chapter_slug": "07-vi-socialist-vs-bourgeois-theories",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9494d81c-af41-585e-9067-2b168a5e180a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11552,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/boudin/1914/12/war/6-socialist-vs-bourgeois.html"
+    }
+  ]
+}

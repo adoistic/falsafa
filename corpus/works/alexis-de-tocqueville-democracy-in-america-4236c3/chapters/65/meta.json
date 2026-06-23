@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 65,
+  "chapter_title": "Chapter VII: Connection Of Civil And Political Associations",
+  "chapter_slug": "65",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "50025ff9-2f63-579c-8982-e5a397c58923",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1946,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch28.htm"
+    }
+  ]
+}

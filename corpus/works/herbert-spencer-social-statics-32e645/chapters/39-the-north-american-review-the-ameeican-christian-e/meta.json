@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-social-statics-32e645",
+  "work_title": "Social Statics",
+  "chapter_number": 39,
+  "chapter_title": "The North American Review, The Ameeican Christian Examiner and Religious Miscellany.",
+  "chapter_slug": "39-the-north-american-review-the-ameeican-christian-e",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "019758b7-2436-5446-a2e3-ad79def906e8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2183,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+    }
+  ]
+}

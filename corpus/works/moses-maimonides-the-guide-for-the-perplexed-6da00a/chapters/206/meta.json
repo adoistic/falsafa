@@ -2,7 +2,7 @@
   "work_slug": "moses-maimonides-the-guide-for-the-perplexed-6da00a",
   "work_title": "The Guide for the Perplexed",
   "chapter_number": 206,
-  "chapter_title": "CHAPTER XXVIII",
+  "chapter_title": "Chapter XXXVIII (3)",
   "chapter_slug": "206",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 839,
-      "paragraph_count": 2,
+      "word_count": 109,
+      "paragraph_count": 1,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
     }

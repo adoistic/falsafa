@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-labour-in-irish-history-dad525",
+  "work_title": "Labour in Irish History",
+  "chapter_number": 7,
+  "chapter_title": "Chapter VI Capitalist betrayal of the Irish Volunteers",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "932229c4-1eaa-522a-927c-14c3914d08a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4522,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1910/lih/chap06.htm"
+    }
+  ]
+}

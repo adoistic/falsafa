@@ -20,6 +20,7 @@
 import { createHash } from "node:crypto";
 import { readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
+import { unshout } from "../lib/titlecase.ts";
 
 const root = resolve(import.meta.dir, "..", "..");
 
@@ -80,12 +81,20 @@ function stripBoilerplate(raw: string): string {
 // A chapter heading: a keyword + a numeral, optionally followed by a title on
 // the same line. Covers English plus German/French editions of originals.
 const HEADING =
-  /^[ \t]*(BOOK|CHAPTER|PART|LETTER|ESSAY|SECTION|LECTURE|DIALOGUE|KAPITEL|HAUPTSTÜCK|ABSCHNITT|PARTIE|CHAPITRE|LIVRE)\s+([IVXLCDM]+|\d+|[A-ZÀ-Þ]+)\b[.: ]*(.*)$/i;
+  /^[ \t]*(BOOK|CHAPTER|CHAP|PART|LETTER|ESSAY|SECTION|LECTURE|DIALOGUE|KAPITEL|HAUPTSTÜCK|ABSCHNITT|PARTIE|CHAPITRE|LIVRE)\.?\s+([IVXLCDM]+|\d+|[A-ZÀ-Þ][a-zà-ÿ]+|[A-ZÀ-Þ]+)\b[.: ]*(.*)$/i;
 const ROMAN_ONLY = /^[ \t]*([IVXLCDM]{1,7})\.[ \t]*$/;
+// a Roman numeral leading an ALL-CAPS title on its own line, e.g. an essay
+// collection's "I. REASON AND INTUITION" (no CHAPTER keyword). The all-caps
+// requirement avoids matching mid-prose "I. Let us now consider ...".
+const ROMAN_TITLE = /^[ \t]*([IVXLCDM]{1,7})[.):]\s+([A-Z0-9][A-Z0-9 “”"’'.,;:()&\-]{3,})[ \t]*$/;
 
 const ORDINALS: Record<string, number> = {
   first: 1, second: 2, third: 3, fourth: 4, fifth: 5, sixth: 6, seventh: 7, eighth: 8,
   ninth: 9, tenth: 10, eleventh: 11, twelfth: 12,
+  // spelled-out cardinals ("Chapter One", "Chapter Twenty-Three")
+  one: 1, two: 2, three: 3, four: 4, five: 5, six: 6, seven: 7, eight: 8, nine: 9,
+  ten: 10, eleven: 11, twelve: 12, thirteen: 13, fourteen: 14, fifteen: 15, sixteen: 16,
+  seventeen: 17, eighteen: 18, nineteen: 19, twenty: 20,
   première: 1, premiere: 1, deuxième: 2, seconde: 2, troisième: 3, quatrième: 4,
   cinquième: 5, sixième: 6, septième: 7, huitième: 8, neuvième: 9, dixième: 10,
   erstes: 1, zweites: 2, drittes: 3, viertes: 4, fünftes: 5, sechstes: 6, siebentes: 7,
@@ -177,11 +186,81 @@ function stripTOC(body: string): string {
   return body;
 }
 
+const CARD = "first|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth|eleventh|twelfth|thirteenth|fourteenth|fifteenth";
+// "THE FIRST DIALOGUE", "Second Meditation" — an ordinal word BEFORE the
+// structural noun (Berkeley, Descartes), the reverse of "CHAPTER I".
+const ORDINAL_HEADING = new RegExp(`^[ \\t]*(?:the\\s+)?(${CARD})\\s+(dialogue|part|book|meditation|lecture|letter|essay|section|chapter|discourse)\\b[. ]*(.*)$`, "i");
+const ORDINAL_NUM: Record<string, number> = {
+  first: 1, second: 2, third: 3, fourth: 4, fifth: 5, sixth: 6, seventh: 7, eighth: 8,
+  ninth: 9, tenth: 10, eleventh: 11, twelfth: 12, thirteenth: 13, fourteenth: 14, fifteenth: 15,
+};
+
+const normLine = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+
+/**
+ * Fallback splitter for essay collections / dialogues whose section headings
+ * don't fit the keyword grammar: use the book's OWN table of contents. Parse
+ * the CONTENTS entries, then locate each title as a heading line in the body
+ * and split there. Self-validating — if the declared titles aren't found as
+ * body headings, it splits nothing (returns []), so it never invents structure.
+ */
+function tocSplit(rawBody: string, fallbackTitle: string): Chapter[] {
+  const cm = rawBody.match(/^[ \t]*(?:CONTENTS|TABLE OF CONTENTS)[.: ]*$/im);
+  if (!cm || cm.index === undefined) return [];
+  const tocStart = cm.index + cm[0].length;
+  const titles: string[] = [];
+  for (const raw of rawBody.slice(tocStart).split("\n").slice(0, 200)) {
+    let t = raw.trim();
+    if (/^\*\*\*|^(the\s+)?end\b/i.test(t)) break;
+    if (!t) continue;
+    t = t.replace(/_/g, "").replace(/[.\s]{2,}\d+\s*$/, "").replace(/\s{2,}\d+\s*$/, "").trim();
+    t = t.replace(/^(essay|chapter|chap\.?|book|part|letter|lecture|dialogue|section|discourse)\s+[ivxlcdm\d]+[.:]?\s*/i, "");
+    t = t.replace(/^[ivxlcdm]+[.:]\s+/i, "").replace(/^\d+[.:]\s+/, "").trim();
+    const n = normLine(t);
+    // skip TOC column headers ("Chapter Page") and bare structural words
+    if (/^(chapter|page|section|part|book|essay|title|contents|chapter page)$/.test(n)) continue;
+    if (n.length >= 6 && /[a-z]/.test(n)) titles.push(n);
+  }
+  if (titles.length < 2) return [];
+  // locate each title as a SHORT heading line in the body, after the TOC block
+  const lines = rawBody.split("\n");
+  let charsBeforeLine = 0;
+  let firstBodyLine = 0;
+  for (let i = 0; i < lines.length; i++) {
+    if (charsBeforeLine > tocStart) { firstBodyLine = i; break; }
+    charsBeforeLine += lines[i]!.length + 1;
+  }
+  const cuts: { line: number; title: string }[] = [];
+  let search = firstBodyLine;
+  for (const title of titles) {
+    for (let i = search; i < lines.length; i++) {
+      const nl = normLine(lines[i]!);
+      if (!nl || lines[i]!.length > 95) continue;
+      if (nl === title || (title.length >= 8 && (nl.startsWith(title) || nl.length >= 8 && title.startsWith(nl)))) {
+        cuts.push({ line: i, title }); search = i + 1; break;
+      }
+    }
+  }
+  if (cuts.length < 2) return [];
+  const out: Chapter[] = [];
+  for (let i = 0; i < cuts.length; i++) {
+    const to = cuts[i + 1]?.line ?? lines.length;
+    const content = cleanBody(lines.slice(cuts[i]!.line + 1, to).join("\n"));
+    const words = content.split(/\s+/).filter(Boolean).length;
+    // title-case the heading from the original line, stripping footnote markers
+    const disp = lines[cuts[i]!.line]!.trim().replace(/_/g, "").replace(/\[\d+\]\s*$/, "").replace(/\s{2,}\d+\s*$/, "").slice(0, 120);
+    if (words >= 60) out.push({ title: unshout(disp) || fallbackTitle, content, words });
+  }
+  return out.length >= 2 ? out : [];
+}
+
 /** split the body into chapters on the book's own headings, skipping the TOC */
 function chapterize(rawBody: string, fallbackTitle: string): Chapter[] {
   const body = stripTOC(rawBody);
   const lines = body.split("\n");
   const single = (): Chapter[] => {
+    const toc = tocSplit(rawBody, fallbackTitle);
+    if (toc.length >= 2) return toc;
     const content = cleanBody(body);
     const w = content.split(/\s+/).filter(Boolean).length;
     return w < 50 ? [] : [{ title: fallbackTitle, content, words: w }];
@@ -191,25 +270,45 @@ function chapterize(rawBody: string, fallbackTitle: string): Chapter[] {
   type Mark = { line: number; num: number; title: string; key: string };
   let marks: Mark[] = [];
   for (let i = 0; i < lines.length; i++) {
-    const l = lines[i]!;
+    // strip a trailing footnote marker ("[3]") or a right-aligned TOC page
+    // number (">= 2 spaces then digits") so they don't defeat heading matching
+    const l = lines[i]!.replace(/\[\d+\]\s*$/, "").replace(/\s{2,}\d+\s*$/, "").trimEnd();
     const hm = l.match(HEADING);
+    const om = l.match(ORDINAL_HEADING);
+    const rt = l.match(ROMAN_TITLE);
     const rm = l.match(ROMAN_ONLY);
-    if (hm) {
+    if (om) {
+      // "THE FIRST DIALOGUE" / "Second Meditation"
+      const num = ORDINAL_NUM[om[1]!.toLowerCase()]!;
+      const noun = cap(om[2]!);
+      const tail = (om[3] ?? "").trim();
+      const title = `${cap(om[1]!)} ${noun}${tail && /^[A-Z0-9"“'(]/.test(tail) ? " — " + unshout(tail.replace(/[.:]\s*$/, "")) : ""}`;
+      marks.push({ line: i, num, title, key: `${noun.toLowerCase()}:${num}` });
+    } else if (hm) {
       const num = headingNum(hm[2]!);
       if (Number.isNaN(num)) continue;
       const inlineTail = (hm[3] ?? "").trim();
-      // reject prose cross-references ("as I showed in Part I, that all things
-      // ..."): a real heading's trailing text is a title (mostly uppercase),
-      // not a lowercase sentence.
+      // reject prose cross-references ("...in Part I, that all things follow"):
+      // a real heading's trailing text is a TITLE — it starts with a capital
+      // (Title Case "To What Extent..." or ALL CAPS), after any leading
+      // separator. A mid-sentence clause starts with a comma or a lowercase
+      // word, so reject when the stripped tail doesn't open on a capital.
       if (inlineTail) {
-        const letters = inlineTail.match(/[A-Za-z]/g) ?? [];
-        const upper = inlineTail.match(/[A-Z]/g) ?? [];
-        if (letters.length > 2 && upper.length / letters.length < 0.6) continue;
+        const core = inlineTail.replace(/^[\s.:;,\-–—)]+/, "");
+        if (core && !/^[A-Z0-9"“'(]/.test(core)) continue;
       }
-      let title = `${cap(hm[1]!)} ${hm[2]!.toUpperCase()}`;
-      const tail = inlineTail || sameLineTitle(lines, i);
-      if (tail) title += " — " + tail.replace(/[.:]\s*$/, "");
+      // display the numeral as written for Roman/Arabic; title-case a spelled
+      // word ("One", not "ONE")
+      const numeral = hm[2]!;
+      const numDisp = /^[ivxlcdm]+$/i.test(numeral) || /^\d+$/.test(numeral) ? numeral.toUpperCase() : cap(numeral);
+      let title = `${cap(hm[1]!)} ${numDisp}`;
+      const tail = (inlineTail || sameLineTitle(lines, i)).replace(/^[-–—:.\s]+/, "");
+      if (tail) title += " — " + unshout(tail.replace(/[.:]\s*$/, ""));
       marks.push({ line: i, num, title, key: `${hm[1]!.toLowerCase()}:${num}` });
+    } else if (rt) {
+      // "I. REASON AND INTUITION" -> "I. Reason and Intuition"
+      const num = romanToInt(rt[1]!);
+      marks.push({ line: i, num, title: `${rt[1]!.toUpperCase()}. ${unshout(rt[2]!.trim())}`, key: `kw:${num}` });
     } else if (rm) {
       marks.push({ line: i, num: romanToInt(rm[1]!), title: rm[1]!.toUpperCase(), key: `r:${romanToInt(rm[1]!)}` });
     }
@@ -222,11 +321,18 @@ function chapterize(rawBody: string, fallbackTitle: string): Chapter[] {
 
   if (marks.length < 2) return single();
 
+  // content before the first heading — a preface, or a first chapter whose
+  // heading the TOC-strip removed (e.g. Mill's Essay I). Capture it so it
+  // isn't lost and so a large preamble isn't mistaken for clustered headings.
+  const preContent = cleanBody(lines.slice(0, marks[0]!.line).join("\n"));
+  const preWords = preContent.split(/\s+/).filter(Boolean).length;
+
   // cluster guard: if every heading sits in a contiguous patch of the text
   // (last mark - first mark spans < 45% of the lines), they are an index or
-  // a translator's note listing, not the body's chapters. Ignore them.
+  // a translator's note listing, not the body's chapters. Ignore them — unless
+  // a large preamble (a dropped first chapter) explains the offset.
   const span = (marks[marks.length - 1]!.line - marks[0]!.line) / lines.length;
-  if (span < 0.45) return single();
+  if (span < 0.45 && preWords < 1500) return single();
 
   // collapse a table of contents: when a heading key repeats, the LAST
   // occurrence is the body (the first is the TOC listing). Keep last per key,
@@ -254,6 +360,13 @@ function chapterize(rawBody: string, fallbackTitle: string): Chapter[] {
   const bodyWords = body.split(/\s+/).filter(Boolean).length;
   const got = real.reduce((s, c) => s + c.words, 0);
   if (got < bodyWords * 0.4) return single();
+  // prepend a large preamble (a recovered first chapter) as its own chapter,
+  // titled from its first short line
+  if (preWords >= 800) {
+    // a recovered first chapter / front matter — title it with the work title
+    // (the first body line is unreliable: often a prose sentence, not a title)
+    real.unshift({ title: fallbackTitle.slice(0, 120), content: preContent, words: preWords });
+  }
   return real;
 }
 

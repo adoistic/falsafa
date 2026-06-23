@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-system-of-economical-contradicti-358ea4",
+  "work_title": "System of Economical Contradictions: or, The Philosophy of Poverty",
+  "chapter_number": 4,
+  "chapter_title": "1. Opposition of value in USE and value in EXCHANGE.",
+  "chapter_slug": "04-1-opposition-of-value-in-use-and-value-in-exchange",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7f459470-ff53-5c30-8a5e-5e90bfe8f2cd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5635,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/philosophy/ch02.htm"
+    }
+  ]
+}

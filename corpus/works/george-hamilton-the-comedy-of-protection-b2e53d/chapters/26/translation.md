@@ -4,7 +4,7 @@ work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
 work_title: The Comedy of Protection
 author_name: George Hamilton
 chapter_number: 26
-chapter_title: "CHAPTER XIX: SUGAR BOUNTIES"
+chapter_title: "Chapter XX: Import Bonds"
 chapter_slug: 26
 variant_id: "3450da7b-2c79-56ff-8475-ec0e68f7fc2a"
 content_type: translation
@@ -13,27 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 608
+word_count: 542
 source_url: "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
 translator: Online Library of Liberty edition
 ---
 
-A political industry—In the workmen’s interest—Results—Profits to the sugar-refiners—Cost to the consumer—Production not for sale but for bounties—Results of the Brussels Conference.
+An ingenious system—Its effects—Cost to the State—Law adding to the deficit—The permanent deficit.
 
-Without going back so far as the ancien régime since 1819, the sugar industry had been a political one, owing its very existence to the Legislature. The law of 1884 was of the same character as all those passed during the nineteenth century, its objects being (1) to extend the consumption of sugar, (2) to limit internal consumption, (3) to encourage foreign consumption at the expense of French consumers. The tax was levied on account, but assessed at less than the real amount, the sugar produced over and above being exempt in whole or part; the difference between the amount taxed and the total output constituting a bonus on manufacture. Almost immediately on the passing of the Bill the excess was 21 to 31 per cent. of the output. The bounty ate up the tax. In bringing forward the Bill of 1884 giving bounties to the sugar industry, M. Méline declared that he was acting in the workmen’s interests; but the results for the workmen are shown in the Blue Books:—
+The years 1899-1901 were marked by a series of attempts in Senate and Chamber at the creation of import, or rather export, bonds. For every cwt. of wheat brought from abroad the exporter might claim a bond for 2s. 10d., limited in every case to a depreciation of three months’ interest and a deduction of 4 per cent., payable on demand by the Treasury. The Higher Board of Agriculture threw out the scheme as extravagant, but on July 7th it was passed in the Chamber in spite of the opposition of Méline, who was frightened by the boldness of his disciples, one of whom, M. Viger, introduced the project in the Senate. Thus, at the very time when the failure of the sugar bounties was most glaring, an attempt was made to apply the same system to wheat: the 2s. 10d. duty was to encourage the landowners to produce and to restrict home consumption, while the high bounty in the Budget was to induce foreigners, and especially England, to consume French wheat. The effects of such a system would have been as follows: In 1897 the harvest failed; on May 4, 1898, on the eve of the election, Méline, as President of the Chamber of Commerce, followed exactly the opposite policy to that of 1885: then a duty of 1s. 3d. had been imposed, now the 2s. 10d. duty was suspended until July. Some 38 to 40 million cwt. of wheat came in, an excess of about 8 millions over what was needed:—
 
-proving that the number employed diminished instead of increasing; and the fall in numbers was not balanced by a rise in wages.
+Estimating the annual consumption at 9,620,000 tons, that is for the two years 17,240,000 tons, there was a surplus in 1900 of 1,116,260. Had the law voted in the Chamber of July 7th come into operation, these 1,166,260 tons would have been exported and the State would have had to pay 1,116,260 × 55s. = £3,070,000. Two months later it was found that the harvest was 1,000,000 tons below the normal. The State would then have received £2,750,000, and the loss, if it had not been necessary to suspend the duties, would have been reduced to £1,640,000. And the wonderful effect of the law would have been to add a failure in the harvest equivalent to 1,000,000 tons to the 1,116,260 tons whose exportation it had encouraged, and £4,520,000 would have gone into the pockets of skilful traders for having sent corn out of the country and paid nothing to bring it back.
 
-while the total expenditure on wages was:—
-
-showing a diminution of £96,880. For the workmen the results were purely negative. In 1902-3 there were only 332 sugar manufacturers, and these in the eighteen years after 1884 obtained in bonuses on excess of output £41,360,000, to which must be added, since 1897, £3,000,000 in export bounties and £6,720,000 to the Colonial sugar trade. In all £51,080,000 went to the sugar manufacturers. Thus in France a few hundred sugar manufacturers—only 322 in 1902—received £41,360,000 for a plant not worth £14,000,000, while the number of workmen employed diminished.
-
-The result of such a defence of national labour was that the consumer had to bear the burden of 52s. 9d. in duties, bonuses, and bounties on a hundred-weight of sugar, from which the Treasury only got 35s. The consumer thus paid 45 per cent. more Edition: current; Page: [64] than the Treasury received, and it went into the pockets of private individuals, a small group of manufacturers, instead of going to assist expenditure for public benefit. It was a private due like the old feudal due.
-
-In 1901 the French consumer paid for sugar, native and colonial, more than £4,400,000 of bonuses, bounties, and rebates for export on £6,080,000 worth of sugar.
-
-I took an active part in the negotiations which resulted in the Brussels Sugar Convention of March 5, 1902. Had England, however, not threatened the sugar-refining nations who should retain their bounties with countervailing duties, the Conference would have ended in nothing, and a fearful sugar crisis would have followed in France, Austria-Hungary, Belgium, and Holland. A manufacture cannot be carried on with impunity which aims at realising bounties rather than sales.
-
-The Brussels Convention was a complete success. It was put in operation September, 1903, and down to the end of August, 1904, the results were: Consumption in France rose from 365,634 tons in 1902-3 to 688,700 tons in refined sugar, i.e., an increase of 83 per cent.; and in Germany raw sugar rose from 366,538 to 729,255 tons, and in Austria-Hungary from 501,977 to 1,109,470 tons.
-
-Such a success proves the utility of reducing duties. In future the Convention is unassailable. French manufacturers who accused me of plotting their ruin admit that it has saved them. No one dared to propose the rejection of the Bill of Ratification when introduced into the House.
+The chapter of Budget history dedicated to what were paradoxically called import bonds would have been one of permanent deficit, its statistics would have depended on the excess of the selling price in foreign markets increased by 2s. 10d. per cwt. over the buying price in France, including cost of transport, &c. To satisfy the fears of men more far-seeing than themselves the authors of the scheme limited the experiment to 1901-1904. This fine system was supported by M. Viger, former Minister of Agriculture, and opposed by M. Durand Savoyat, of the Bounties Commission, M. Couteaux, an intelligent farmer, and M. Caillaux, Minister of Finance. It was rejected, but I have dealt with it here to show the aberrations to which Protection leads.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-class-struggle-erfurt-progra-7e37be",
+  "work_title": "The Class Struggle (Erfurt Program)",
+  "chapter_number": 9,
+  "chapter_title": "2. Division of Labor and Competition",
+  "chapter_slug": "09-2-division-of-labor-and-competition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2652cfe6-2ead-55c3-b29a-b01ada1ee61a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 881,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1892/erfurt/ch03.htm"
+    }
+  ]
+}

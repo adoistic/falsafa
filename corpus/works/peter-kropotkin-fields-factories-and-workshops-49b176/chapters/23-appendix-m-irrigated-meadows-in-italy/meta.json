@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-fields-factories-and-workshops-49b176",
+  "work_title": "Fields, Factories, and Workshops",
+  "chapter_number": 23,
+  "chapter_title": "Appendix M : Irrigated Meadows in Italy",
+  "chapter_slug": "23-appendix-m-irrigated-meadows-in-italy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cbe48f45-ce41-5521-94fb-feedcfc36fcc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 184,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/appendix-m.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 24,
+  "chapter_title": "I. The Anabaptists before the Peasant War",
+  "chapter_slug": "24-i-the-anabaptists-before-the-peasant-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "63555f4b-bf8a-543f-85ae-5e19c0f0d18a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2541,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch05.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 61,
+  "chapter_title": "80. The price of interest depends immediately on the proportion of the demand of the borrowers, with the offer of the le",
+  "chapter_slug": "61-80-the-price-of-interest-depends-immediately-on-th",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa76ce21-6a61-5a80-8492-92745cebd6c0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 290,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 316
+word_count: 312
 source_url: "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
 translator: Online Library of Liberty edition
 ---
@@ -24,6 +24,6 @@ translator: Online Library of Liberty edition
 
 “I will endeavour to obtain permission to draw, for it would be a great resource. Adieu, beloved mother, love me, but do not grieve for me; my gloomiest moments are those in which I am thinking, consequently when I am writing; but when I am reading, or talking with my friends, I feel as if I were out of prison.”
 
-“How impatient I am! I have no feeling but impatience! I languish to get out, I languish for all I anticipate; nevertheless I Edition: current; Page: [30] am well, and as we had obliging guards, I had company, and I am gay to-day; be gay also, dear mother, it is impossible but that I should be soon liberated. I am accused of no fact, the witnesses have only their opinions to allege.”
+“How impatient I am! I have no feeling but impatience! I languish to get out, I languish for all I anticipate; nevertheless I am well, and as we had obliging guards, I had company, and I am gay to-day; be gay also, dear mother, it is impossible but that I should be soon liberated. I am accused of no fact, the witnesses have only their opinions to allege.”
 
 “As to politics, I would say little. My opinions on liberty are too steady ever to change: as to the French, what they make me suffer will not make me think worse of them, nor will it ever make me think better of kings and their satellites.”

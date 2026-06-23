@@ -1,0 +1,26 @@
+{
+  "work_slug": "denis-diderot-regrets-for-my-old-dressing-gown-03078d",
+  "work_title": "Regrets for my Old Dressing Gown",
+  "chapter_number": 1,
+  "chapter_title": "Regrets for my Old Dressing Gown",
+  "chapter_slug": "01-regrets-for-my-old-dressing-gown",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7a5beb70-36ce-524b-a38d-db9aa2058dda",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2351,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/diderot/1769/regrets.htm"
+    }
+  ]
+}

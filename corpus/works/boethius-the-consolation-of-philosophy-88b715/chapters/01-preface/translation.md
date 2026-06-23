@@ -4,7 +4,7 @@ work_slug: "boethius-the-consolation-of-philosophy-88b715"
 work_title: The Consolation of Philosophy
 author_name: Boethius
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "f76a89e1-ebba-502a-8d41-b342f78f5bb1"
 content_type: translation

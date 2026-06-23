@@ -1,0 +1,29 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 34
+chapter_title: Appendix to Chapter XIX
+chapter_slug: "34-appendix-to-chapter-xix"
+variant_id: "335a9331-721d-5202-bd48-8b440a6969bb"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 413
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+In Chapter XIV of The Rate of Interest "virtual," or "real," rates of interest were computed from "nominal," or "money," rates of interest by making adjustments for appreciation in the value of money calculated from index numbers of prices. In this book, the money rates of interest are adjusted directly to the rates of change in the general price level. These two methods, of course, yield identical results, since the one is the obverse of the other.
+
+The average annual percentage changes in the general price level, given in the Tables VII to XI inclusive, are computed from the wholesale price indexes of the several countries. The index numbers for two dates, as 1825 and 1834, give us a measure of the price level at those two dates, and from these it is easy to calculate the average annual percentage change. The method is the same as that employed for finding the rate of interest by which $1, by compounding, will amount to a given sum in a given time. Theoretically, since the loans here included run usually perhaps thirty to ninety days, the quotations of rates of interest averaged should begin at the first of the two dates, and cease, say, sixty days before the second. But the index numbers are not always for definite points of time, nor can the interest quotations be subjected to such minute corrections without an immense expenditure of labor. Hence, the method adopted has been to average the rates for all the years of a period, e.g., for the ten years, 1824-1834. The annual percentage change in the price level is reckoned between those dates. If the index numbers present the price levels at the middle of 1825 and 1834, then the average interest rates ought in theory to include only the last six months of 1825 and the first four months of 1834. But it seems better to include too much at both ends than to omit the averages for 1825 and 1834 altogether, for the reason that an average is the more valuable the greater the number of terms included.
+
+The real interest rates are obtained by subtracting from the money rate for any period the rate of annual change in the price level for the same period.
+
+SOURCE: The Statistical Bulletin of The Standard Statistics Company, Inc., 1929-1930, page 58.
+
+The Wholesale Price Indexes used in making correlations are the indexes of the United States Bureau of Labor Statistics given in Table II.

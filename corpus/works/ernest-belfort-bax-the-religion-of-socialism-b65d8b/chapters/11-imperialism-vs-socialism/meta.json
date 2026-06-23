@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-religion-of-socialism-b65d8b",
+  "work_title": "The Religion of Socialism",
+  "chapter_number": 11,
+  "chapter_title": "Imperialism vs. Socialism",
+  "chapter_slug": "11-imperialism-vs-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8138bf2-b265-50e7-8b5e-f895d5a0960d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1257,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1885/02/imperialism.htm"
+    }
+  ]
+}

@@ -13,14 +13,14 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 482
+word_count: 478
 source_url: "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
 translator: Online Library of Liberty edition
 ---
 
 The idea of peaceful equity among nations, now accepted as a human ideal, though still far from realization, was for ages a difficult, if not an impossible, conception. All experience spoke against it, for war was the most familiar phenomenon of history.
 
-Among the Greek city-states, a few temporary leagues and federations were attempted, but so feeble were the bonds of peace, so explosive were the passions which led to war, that even among the highly civilized Hellenic peoples, community of race, language, and religion was powerless to create a Greek nation. It was reserved for Edition: current; Page: [2] the military genius of Alexander the Great, at last, by irresistible conquest, to bring the Greek Empire into being, to be destroyed in turn by superior force.
+Among the Greek city-states, a few temporary leagues and federations were attempted, but so feeble were the bonds of peace, so explosive were the passions which led to war, that even among the highly civilized Hellenic peoples, community of race, language, and religion was powerless to create a Greek nation. It was reserved for the military genius of Alexander the Great, at last, by irresistible conquest, to bring the Greek Empire into being, to be destroyed in turn by superior force.
 
 The Roman Empire almost achieved the complete political unity of Europe, and bound parts of three continents under one rule, but the corruption of the military power which held it together led to its inevitable dismemberment.
 

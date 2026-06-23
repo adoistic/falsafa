@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 30,
+  "chapter_title": "Transition to the Object",
+  "chapter_slug": "30-transition-to-the-object",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ec48ea7-bbb5-5aa4-91f0-dc68803fa944",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1425,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slsubjec.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 5
-chapter_title: LOCKE.
+chapter_title: Locke.
 chapter_slug: "05-locke"
 variant_id: "ba608899-2df5-5475-b43f-28b81c66e959"
 content_type: translation

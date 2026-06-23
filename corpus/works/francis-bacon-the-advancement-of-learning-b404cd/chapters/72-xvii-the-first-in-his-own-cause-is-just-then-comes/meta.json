@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 72,
+  "chapter_title": "Xvii.—: The first in his own cause is just; then comes the other party, and inquires into him",
+  "chapter_slug": "72-xvii-the-first-in-his-own-cause-is-just-then-comes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d36ac106-8c4c-51fe-87bb-bb378a75cfcc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 139,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

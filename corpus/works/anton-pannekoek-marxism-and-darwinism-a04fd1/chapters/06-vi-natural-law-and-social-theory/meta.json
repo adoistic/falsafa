@@ -1,0 +1,26 @@
+{
+  "work_slug": "anton-pannekoek-marxism-and-darwinism-a04fd1",
+  "work_title": "Marxism and Darwinism",
+  "chapter_number": 6,
+  "chapter_title": "VI. Natural Law and Social Theory",
+  "chapter_slug": "06-vi-natural-law-and-social-theory",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52162bc9-1c35-5fab-bdaf-190cb39533a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 934,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/pannekoe/1912/marxism-darwinism.htm"
+    }
+  ]
+}

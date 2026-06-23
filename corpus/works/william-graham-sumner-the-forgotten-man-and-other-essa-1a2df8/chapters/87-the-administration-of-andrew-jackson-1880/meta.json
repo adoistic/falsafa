@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 87,
+  "chapter_title": "The Administration of Andrew Jackson [1880]",
+  "chapter_slug": "87-the-administration-of-andrew-jackson-1880",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9ab6816-f62b-5188-b4cd-3c40dbaad6fb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10231,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

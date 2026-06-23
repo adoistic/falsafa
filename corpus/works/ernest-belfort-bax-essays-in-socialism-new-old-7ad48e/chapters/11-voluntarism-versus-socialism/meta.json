@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
+  "work_title": "Essays in Socialism: New & Old",
+  "chapter_number": 11,
+  "chapter_title": "“Voluntarism” versus “Socialism”",
+  "chapter_slug": "11-voluntarism-versus-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "96b3c18b-3ecf-5ccd-ad54-84134b3173fe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4464,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1895/06/herbert.htm"
+    }
+  ]
+}

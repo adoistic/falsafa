@@ -2,7 +2,7 @@
   "work_slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
   "work_title": "The Lives of the Twelve Caesars",
   "chapter_number": 10,
-  "chapter_title": "AULUS VITELLIUS.",
+  "chapter_title": "Aulus Vitellius.",
   "chapter_slug": "10-aulus-vitellius",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 4930,
+      "word_count": 4890,
       "paragraph_count": 19,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"

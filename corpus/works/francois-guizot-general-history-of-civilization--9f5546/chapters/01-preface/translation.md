@@ -4,7 +4,7 @@ work_slug: "francois-guizot-general-history-of-civilization--9f5546"
 work_title: General History of Civilization in Europe
 author_name: François Guizot
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "6f8c3f4c-0088-5bee-a1ac-9a56e764ed6d"
 content_type: translation

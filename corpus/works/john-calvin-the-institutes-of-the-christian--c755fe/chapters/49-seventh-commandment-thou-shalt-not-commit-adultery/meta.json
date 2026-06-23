@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 49,
+  "chapter_title": "Seventh Commandment.: THOU SHALT NOT COMMIT ADULTERY.",
+  "chapter_slug": "49-seventh-commandment-thou-shalt-not-commit-adultery",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0f4c5f20-0e44-5132-b730-147e6e044cc3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1351,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 69,
-  "chapter_title": "BOOK III, CHAPTER V: OF INDIVIDUAL CONSUMPTION—ITS MOTIVES AND ITS EFFECTS.",
+  "chapter_title": "Section II.: Of the principal Objects of National Expenditure.",
   "chapter_slug": "69",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 4435,
-      "paragraph_count": 37,
+      "word_count": 330,
+      "paragraph_count": 5,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-marginal-units-in-the-theory-of--41fd7e",
+  "work_title": "Marginal Units in the Theory of Distribution",
+  "chapter_number": 1,
+  "chapter_title": "I.",
+  "chapter_slug": "01-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8769892e-0171-5213-8b47-fdb8f8cb105c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3963,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1904/09/distribution.htm"
+    }
+  ]
+}

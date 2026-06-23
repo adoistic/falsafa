@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+  "work_title": "Two Tactics of Social-Democracy in the Democratic Revolution",
+  "chapter_number": 15,
+  "chapter_title": "Once Again Osvobozhdeniye Trend, Once Again New Iskra trend",
+  "chapter_slug": "15-once-again-osvobozhdeniye-trend-once-again-new-isk",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b0035f45-897c-5d4a-8ab7-65b28171a168",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 84,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1905/tactics/epilogue.htm"
+    }
+  ]
+}

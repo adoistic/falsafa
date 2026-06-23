@@ -1,0 +1,26 @@
+{
+  "work_slug": "max-stirner-the-ego-and-its-own-f98f48",
+  "work_title": "The Ego and Its Own",
+  "chapter_number": 9,
+  "chapter_title": "2. My Intercourse",
+  "chapter_slug": "09-2-my-intercourse",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6fbd37de-17ae-54dc-a94d-2e4cef84a9bf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 42525,
+      "paragraph_count": 376,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stirner/ego-and-its-own.htm"
+    }
+  ]
+}

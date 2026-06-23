@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 18
-chapter_title: "CHAPTER V: THE THEORY OF \"INCREASING AND DIMINISHING RETURNS\""
+chapter_title: "Chapter V: The Theory of \"Increasing and Diminishing Returns\""
 chapter_slug: 18
 variant_id: "8d935ca7-03f8-595b-bade-68373fc88274"
 content_type: translation

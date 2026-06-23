@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 52,
+  "chapter_title": "Part 2, Chapter 27 : Love's Dungeon Flower",
+  "chapter_slug": "52",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3f265e7a-3682-54d0-97f1-a267939bf864",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3292,
+      "paragraph_count": 81,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-27.html"
+    }
+  ]
+}

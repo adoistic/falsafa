@@ -4,7 +4,10 @@ slug: "polybius-histories-672821"
 title: Histories
 author:
   name: Polybius
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Greek statesman of the Achaean League taken as a hostage to Rome, where he turned historian. His Histories explained Rome's rise to Mediterranean dominance and advanced a pragmatic, cause-seeking method of historiography."
+  birth_year: -200
+  death_year: -118
+  nationality: Greek
 era: Hellenistic
 genre: Classics
 language: Greek

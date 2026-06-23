@@ -1,0 +1,31 @@
+---
+work_id: "fcea5dd4-0a6c-5ef9-bd8f-ec8b612df03d"
+work_slug: "immanuel-kant-critique-of-practical-reason-and-fcea5d"
+work_title: Critique of Practical Reason and Other Works on the Theory of Ethics
+author_name: Immanuel Kant
+chapter_number: 58
+chapter_title: "II.: —Exposition of the Notion of an End which is also a Duty."
+chapter_slug: "58-ii-exposition-of-the-notion-of-an-end-which-is-als"
+variant_id: "019da035-7b23-50ec-a537-9148024ec992"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 673
+source_url: "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+translator: Online Library of Liberty edition
+---
+
+We can conceive the relation of end to duty in two ways; either starting from the end to find the maxim of the dutiful actions; or conversely, setting out from this to find the end which is also duty. Jurisprudence proceeds in the former way. It is left to every one’s free elective will what end he will choose for his action. But its maxim is determined à priori; namely, that the freedom of the agent must be consistent with the freedom of every other according to a universal law.
+
+Ethics, however, proceeds in the opposite way. It cannot start from the ends which the man may propose to himself, and hence give directions as to the maxims he should adopt, that is, as to his duty; for that would be to take empirical principles of maxims, and these could not give any notion of duty; since this, the categorical “ought,” has its root in pure reason alone. Indeed, if the maxims were to be adopted in accordance with those ends (which are all selfish) we could not properly speak of the notion of duty at all. Hence in Ethics the notion of duty must lead to ends, and must on moral principles give the foundation of maxims with respect to the ends which we ought to propose to ourselves.
+
+Setting aside the question what sort of end that is which is in itself a duty, and how such an end is possible , it is here only necessary to show that a duty of this kind is called a duty of virtue, and why it is so called.
+
+To every duty corresponds a right of action (facultas moralis generatim), but all duties do not imply a corresponding right (facultas juridica) of another to compel any one, but only the duties called legal duties. Similarly to all ethical obligation corresponds the notion of virtue, but it does not follow that all ethical duties are duties of virtue. Those, in fact, are not so which do not concern so much a certain end (matter, object of the elective will), but merely that which is formal in the moral determination of the will (ex. gr. that the dutiful action must also be done from duty). It is only an end which is also duty that can be called a duty of virtue. Hence there are several of the latter kind (and thus there are distinct virtues); on the contrary, there is only one duty of the former kind, but it is one which is valid for all actions (only one virtuous disposition).
+
+The duty of virtue is essentially distinguished from the duty of justice in this respect; that it is morally possible to be externally compelled to the latter, whereas the former rests on free self-constraint only. For finite holy beings (which cannot even be tempted to the violation of duty) there is no doctrine of virtue, but only moral philosophy, the latter being an autonomy of practical reason, whereas the former is also an autocracy of it. That is, it includes a consciousness—not indeed immediately perceived, but rightly concluded from the moral categorical imperative—of the power to become master of one’s inclinations which resist the law; so that human morality in its highest stage can yet be nothing more than virtue; even if it were quite pure (perfectly free from the influence of a spring foreign to duty), a state which is poetically personified under the name of the wise man (as an ideal to which one should continually approximate).
+
+Virtue, however, is not to be defined and esteemed merely as habit, and (as it is expressed in the prize essay of Cochius) as a long custom acquired by practice of morally good actions. For, if this is not an effect of well resolved and firm principles ever more and more purified, then, like any other mechanical arrangement brought about by technical practical reason, it is neither armed for all circumstances, nor adequately secured against the change that may be wrought by new allurements.

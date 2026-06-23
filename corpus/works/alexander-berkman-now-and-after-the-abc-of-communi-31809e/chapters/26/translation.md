@@ -1,0 +1,65 @@
+---
+work_id: "31809eec-4323-5d1e-955f-3eb72607dc11"
+work_slug: "alexander-berkman-now-and-after-the-abc-of-communi-31809e"
+work_title: "Now and After: The ABC of Communist Anarchism (What is Communist Anarchism?)"
+author_name: Alexander Berkman
+chapter_number: 26
+chapter_title: "Chapter 24 : Why Revolution?"
+chapter_slug: 26
+variant_id: "17cd2f26-07a6-52d0-b32e-89e41fd2799d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1837
+source_url: "https://www.marxists.org/reference/archive/berkman/1929/what-is-communist-anarchism/chapter-24.html"
+translator: Marxists Internet Archive edition
+---
+
+Let us return to your question, "How will Anarchy come? Can we help bring it about?"
+
+This is a most important point, because in every problem there are two vital things: first, to know clearly just what you want; second, how to attain it.
+
+We already know what we want. We want social conditions wherein all will be free and where each shall have the fullest opportunity to satisfy his needs and aspirations, on the basis of equal liberty for all. In other words, we are striving for the free cooperative commonwealth of Communist Anarchism.
+
+How will it come about?
+
+We are not prophets, and no one can tell just how a thing will happen. But the world does not exist since yesterday; and man, as a reasonable being, must benefit by the experience of the past.
+
+Now, what is that experience? If you glance over history you will see that the whole life of man has been a struggle for existence. In his primitive state man fought single-handed the wild beasts of the forest, and helplessly he faced hunger, cold, darkness, and storm. Because of his ignorance all the forces of nature were his enemies: they worked evil and destruction to him, and he, alone, was powerless to combat them. But little by little man learned to come together with others of his kind; together they sought safety and security. By joint effort they presently began to turn the energies of nature to their service. Mutual help and cooperation gradually multiplied man's strength and ability till he has succeeded in conquering nature, in applying her forces to his use, in chaining the lightning, bridging oceans, and mastering even the air.
+
+Similarly the primitive man's ignorance and fear made life a continuous struggle of man against man, of family against family, of tribe against tribe, until men realized that by getting together, by joint effort and mutual aid, they could accomplish more than by strife and enmity. Modern science shows that even animals had learned that much in the struggle for existence. Certain kinds survived because they quit fighting each other and lived in herds, and in that way were better able to protect themselves against other beasts. In proportion as men substituted joint effort and cooperation in place of mutual struggle, they advanced, grew out of barbarism, and became civilized. Families which had formerly fought each other to the death combined and formed one common group; groups joined and became tribes, and tribes federated into nations. The nations still stupidly keep on fighting each other, but gradually they are also learning the same lesson, and now they are beginning to look for a way to stop the international slaughter known as war.
+
+Unfortunately in our social life we are yet in a condition of barbarism, destructive and fratricidal: group still combats group, class fights against class. But here also men are beginning to see that it is a senseless and ruinous warfare, that the world is big and rich enough to be enjoyed by all, like the sunshine, and that a united mankind would accomplish more than one divided against itself.
+
+What is called progress is just the realization of this, a step in that direction.
+
+The whole advance of man consists in the striving for greater safety and peace, for more security and welfare. Man's natural impulse is toward mutual help and joint effort, his most instinctive longing is for liberty and joy. These tendencies seek to express and assert themselves in spite of all obstacles and difficulties. The lesson of the entire history of man is that neither hostile natural forces nor human opposition can hold back his onward march. If I were asked to define civilization in a single phrase I should say that it is the triumph of man over the powers of darkness, natural and human. The inimical forces of nature we have conquered, but we still have to fight the dark powers of men.
+
+History fails to show a single important social improvement made without meeting the opposition of the dominant powers -- the church, government, and capital. Not a step forward but was achieved by breaking down the resistance of the masters. Every advance has cost a bitter struggle. It took many long fights to destroy slavery; it required revolts and uprisings to secure the most fundamental rights for the people; it necessitated rebellions and revolutions to abolish feudalism and serfdom. It needed civil warfare to do away with the absolute power of kings and establish democracies, to conquer more freedom and well-being for the masses. There is not a country on earth, not an epoch in history, where any great social evil was eliminated without a bitter struggle with the powers that be. In recent days it again took revolutions to get rid of Czardom in Russia, of the Kaiser in Germany, the Sultan in Turkey, the monarchy in China, and so on, in various lands.
+
+There is no record of any government or authority, of any group or class in power having given up its mastery voluntarily. In every instance it required the use of force, or at least the threat of it.
+
+Is it reasonable to assume that authority and wealth will experience a sudden change of heart, and that they will behave differently in the future than they had in the past?
+
+Your common sense will tell you that it is a vain and foolish hope. Government and capital will fight to retain power. They do it even to-day at the least menace to their privileges. They will fight to the death for their existence.
+
+That is why it is no prophecy to foresee that some day it must come to a decisive struggle between the masters of life and the dispossessed classes.
+
+As a matter of fact, that struggle is going on all the time.
+
+There is a continuous warfare between capital and labor. That warfare generally proceeds within so-called legal form. But even these erupt now and then in violence, as during strikes and lockouts, because the armed fist of government is always at the service of the masters, and that fist gets into action the moment capital feels its profits threatened: then it drops the mask of "mutual interests" and "partnership" with labor and resorts to the final argument of every master, to coercion and force.
+
+It is therefore certain that government and capital will not allow themselves to be quietly abolished if they can help it; nor will they miraculously "disappear" of themselves, as some people pretend to believe. It will require a revolution to get rid of them.
+
+There are those who smile incredulously at the mention of revolution. "Impossible!" they say confidently. So did Louis XVI and Marie Antoinette of France think only a few weeks before they lost their throne together with their heads. So did the nobility at the court of Czar Nicholas II believe on the very eve of the upheaval that swept them away. "It doesn't look like revolution," the superficial observer argues. But revolutions have a way of breaking out when it "doesn't look like it." The more far-seeing modern capitalists, however, do not seem willing to take any chances. They know that uprisings and revolutions are possible at any time. That is why the great corporations and big employers of labor, particularly in America, are beginning to introduce new methods calculated to serve as lightning rods against popular disaffection and revolt. They initiate bonuses for their employes, profit sharing, and similar methods designed to make the worker more satisfied and financially interested in the prosperity of his industry. These means may temporarily blind the proletarian to his true interests, but do not believe that the worker will forever remain content with his wage slavery even if his cage be slightly gilded from time to time. Improving material conditions is no insurance against revolution. On the contrary, the satisfaction of our wants creates new needs, gives birth to new desires and aspirations. That is human nature, and that's what makes improvement and progress possible. Labor's discontent is not to be choked down with an extra piece of bread, even if it be buttered. That is why there is more conscious and active revolt in the industrial centers of better-situated Europe than in backward Asia and Africa. The spirit of man forever yearns for greater comfort and freedom, and it is the masses who are the truest bearers of this incentive to further advancement. The hope of modern plutocracy to forestall revolution by throwing a fatter bone to the toiler now and then is illusory and baseless. The new policies of capital may seem to appease labor for a while, but its onward march cannot be stopped by such makeshifts. The abolition of capitalism is inevitable, in spite of all schemes and resistance, and it will be accomplished only by revolution.
+
+A revolution is similar to the struggle of man against nature. Single-handed he is powerless and cannot succeed; by the aid of his fellow-men he triumphs over all obstacles.
+
+Can the individual worker accomplish anything against the big corporation? Can a small labor union compel the large employer to grant its demands? The capitalist class is organized in its fight against labor. It stands to reason that a revolution can be fought successfully only when the workers are united, when they are organized throughout the land; when the proletariat of all countries will make a joint effort, for capital is international and the masters always combine against labor in every big issue. That is why, for instance, the plutocracy of the whole world turned against the Russian Revolution. As long as the people of Russia meant only to abolish the Czar, international capital did not interfere: it did not care what political form Russia would have, as long as the government would be bourgeois and capitalistic. But as soon as the Revolution attempted to do away with the system of capitalism, the governments and the bourgeoisie of every land combined to crush it. They saw in it a menace to the continuance of their own mastery.
+
+Keep that well in mind, my friend. Because there are revolutions and revolutions. Some revolutions change only the governmental form by putting in a new set of rulers in place of the old. These are political revolutions, and as such they often meet with little resistance. But a revolution that aims to abolish the entire system of wage slavery must also do away with the power of one class to oppress another. That is, it is not any more a mere change of rulers, of government, not a political revolution, but one that seeks to alter the whole character of society. That would be a social revolution. As such it would have to fight not only government and capitalism, but it would also meet with the opposition of popular ignorance and prejudice, of those who believe in government and capitalism. .
+
+How is it then to come about?

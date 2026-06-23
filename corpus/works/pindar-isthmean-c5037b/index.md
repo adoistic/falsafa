@@ -4,7 +4,10 @@ slug: "pindar-isthmean-c5037b"
 title: Isthmean
 author:
   name: Pindar
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Theban lyric poet of the Greek archaic age, the foremost composer of choral victory odes. His epinicia for athletes at the Olympic, Pythian, Nemean, and Isthmian games survive as the fullest body of Greek choral lyric.
+  birth_year: -518
+  death_year: -438
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

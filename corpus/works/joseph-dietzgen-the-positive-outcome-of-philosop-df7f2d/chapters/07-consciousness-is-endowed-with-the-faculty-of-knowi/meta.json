@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-the-positive-outcome-of-philosop-df7f2d",
+  "work_title": "The Positive Outcome of Philosophy",
+  "chapter_number": 7,
+  "chapter_title": "Consciousness Is Endowed With the Faculty of Knowing as Well as With the Feeling of the Universality of All Nature",
+  "chapter_slug": "07-consciousness-is-endowed-with-the-faculty-of-knowi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a26644f-9916-5d85-b0ec-ec46c42624fe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1819,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1887/positive-outcome/ch06.htm"
+    }
+  ]
+}

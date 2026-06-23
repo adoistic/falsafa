@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 19,
+  "chapter_title": "Chap. IX.: A Toleration for Forraign Coins to pass currant here at higher rates then their value with our Standard, will",
+  "chapter_slug": "19-chap-ix-a-toleration-for-forraign-coins-to-pass-cu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2db108c-5ee9-5bd9-9064-61269a63f2ee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 397,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

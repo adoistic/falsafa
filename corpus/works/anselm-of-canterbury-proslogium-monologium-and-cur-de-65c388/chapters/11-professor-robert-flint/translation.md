@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 11
-chapter_title: PROFESSOR ROBERT FLINT.
+chapter_title: Professor Robert Flint.
 chapter_slug: "11-professor-robert-flint"
 variant_id: "ea7c8db6-8781-54eb-94e9-f64338701ad7"
 content_type: translation

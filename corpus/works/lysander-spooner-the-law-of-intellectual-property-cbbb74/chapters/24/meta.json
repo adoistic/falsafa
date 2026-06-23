@@ -2,7 +2,7 @@
   "work_slug": "lysander-spooner-the-law-of-intellectual-property-cbbb74",
   "work_title": "The Law of Intellectual Property",
   "chapter_number": 24,
-  "chapter_title": "SECTION XIV.: Objection Fourteenth.",
+  "chapter_title": "Chapter III.: Perpetuity and Descent of Intellectual Property, Section I.: Perpetuity of Intellectual Property.",
   "chapter_slug": "24",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1024,
-      "paragraph_count": 12,
+      "word_count": 144,
+      "paragraph_count": 1,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/spooner-the-law-of-intellectual-property-1855"
     }

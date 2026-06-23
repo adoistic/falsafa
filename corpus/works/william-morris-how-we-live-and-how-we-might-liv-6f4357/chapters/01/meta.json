@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-how-we-live-and-how-we-might-liv-6f4357",
+  "work_title": "How We Live and How We Might Live",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2a77951b-603d-599b-8c96-4735b7bc92b1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9358,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1884/hwl/hwl.htm"
+    }
+  ]
+}

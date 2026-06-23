@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 18,
+  "chapter_title": "First Division: Analytic of the Teleological Judgement",
+  "chapter_slug": "18-first-division-analytic-of-the-teleological-judgem",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f77f0288-23e2-51bb-9fbb-abc441e63e92",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8317,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+---
+work_id: "1267a8af-7d34-52a2-82a4-4f5aa4ee92c5"
+work_slug: "william-graham-sumner-a-history-of-american-currency-1267a8"
+work_title: A History of American Currency
+author_name: William Graham Sumner
+chapter_number: 76
+chapter_title: Commercial Affairs.
+chapter_slug: "76-commercial-affairs"
+variant_id: "fe664972-33a9-59b3-8f48-bd694b955fca"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 498
+source_url: "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+translator: Online Library of Liberty edition
+---
+
+In 1806, Napoleon declared, by his Berlin decree, the coast of England under blockade, and forbade all trade with her. England retaliated by the Orders in Council blockading all ports of France and her allies. The Americans, who, as the chief neutral carriers, were the greatest sufferers, retaliated in the following year by the embargo, forbidding their ships to trade with either belligerent.
+
+In 1806, the French invaded Spain. In 1807, Russia entered into an alliance with France. In the same year the English made an attack on Buenos Ayres and effected a lodgment there.
+
+These political and military events had important effects on trade.
+
+As the Baltic and Spain were closed, active speculations in timber and wool, of which the supplies were thus cut off, sprang up. The new opening in South America was also eagerly seized upon for speculative trade. At the same time great public works (bridges over the Thames, etc.,) were in progress, and a joint stock company mania broke out. The years 1808, 1809, and 1810 were marked by the progress of these speculative movements.
+
+The Bank in the meantime was extending its issues. Following the February quotations still, we find that the note circulation in 1806 was 17 millions; in 1807, 16.9 millions; in 1808, 18. 1 millions; in 1809, 18.5 millions; in 1810, 21 millions.
+
+This increase, however, is, in itself, a matter of very small moment. It is upon other incidental political and financial circumstances, which acted and reacted upon one another in the most complicated manner, and in regard to which our information is very meagre and unsatisfactory, that the results to be noticed depended. No one has ever made a thorough and comprehensive analysis of all the forces which were here in action, and divergent opinions have naturally arisen where men looked at the facts only in a certain point of view, or took account of only a certain limited range of facts. The present object is only to trace the broadest features of the situation, and deduce incontroverted inferences.
+
+The country bank circulation is of the first importance amongst the factors which we have here to take into account, but unfortunately it is impossible to ascertain what it was. Its expansion, however, is certain, from the fact that the number of these banks, which had been 270 in 1797, was 600 in 1808, and 721 in 1810. Their circulation was estimated at 25 or 30 millions. That these issues were feeding the speculation is evident. It appears also that some very small notes were in circulation. Cobbett gives a representation of a seven-shilling note issued at Tunbridge Wells. (Vol. xviii. 172.)
+
+The premium on gold was also steadily advancing during these years. In 1810, McCulloch puts the price of bullion at £4 10s. per oz., or 15 per cent, depreciation of the notes. The Bullion Committee put the depreciation at 15½ per cent. It makes a difference, as stated above, whether exportable or non-exportable gold is quoted.

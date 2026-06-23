@@ -4,7 +4,7 @@ work_slug: "david-hume-the-natural-history-of-religion-5e0aa3"
 work_title: The Natural History of Religion
 author_name: David Hume
 chapter_number: 1
-chapter_title: INTRODUCTION.
+chapter_title: Introduction.
 chapter_slug: "01-introduction"
 variant_id: "cf01185c-6cc6-54eb-8a53-b773132a60b7"
 content_type: translation

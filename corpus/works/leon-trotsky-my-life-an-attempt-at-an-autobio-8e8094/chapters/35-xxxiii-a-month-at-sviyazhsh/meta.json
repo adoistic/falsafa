@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 35,
+  "chapter_title": "XXXIII. A Month at Sviyazhsh",
+  "chapter_slug": "35-xxxiii-a-month-at-sviyazhsh",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bb0d43e5-1714-5202-a961-b1662c5a795d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6195,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch33.htm"
+    }
+  ]
+}

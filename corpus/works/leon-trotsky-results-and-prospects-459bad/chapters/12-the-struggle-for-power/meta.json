@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-results-and-prospects-459bad",
+  "work_title": "Results and Prospects",
+  "chapter_number": 12,
+  "chapter_title": "The Struggle for Power",
+  "chapter_slug": "12-the-struggle-for-power",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1bc33d4b-164a-5bb0-879d-2b6689158814",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2332,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1931/tpr/rp10.htm"
+    }
+  ]
+}

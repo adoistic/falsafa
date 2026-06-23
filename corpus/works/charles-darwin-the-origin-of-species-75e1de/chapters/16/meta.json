@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-darwin-the-origin-of-species-75e1de",
+  "work_title": "The Origin of Species",
+  "chapter_number": 16,
+  "chapter_title": "Chapter XIV. Mutual Affinities of Organic Beings: Morphology — Embryology  Rudimentary Organs.",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a4491007-9fac-5fd6-8483-ca5ca639ca2f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 18440,
+      "paragraph_count": 85,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/darwin/works/origins/ch14.htm"
+    }
+  ]
+}

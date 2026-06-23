@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 57
-chapter_title: CHAPTER XVII.
+chapter_title: Chapter XX. (1)
 chapter_slug: 57
 variant_id: "714c1c96-bf79-5ffd-8bca-ba9cc9b7cd20"
 content_type: translation
@@ -13,15 +13,19 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 430
+word_count: 393
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-It is simple in such a way that all things that can be said of its essence are one and the same in it: and nothing can be said of its substance except in terms of what it is.
+It exists in every place and at every time.
 
-Is it to be inferred, then, that if the supreme Nature is so many goods, it will therefore be compounded of more goods than one? Or is it true, rather, that there are not more goods than one, but a single good Edition: current; Page: [67] described by many names? For, everything which is composite requires for its subsistence the things of which it is compounded, and, indeed, owes to them the fact of its existence, because, whatever it is, it is through these things; and they are not what they are through it, and therefore it is not at all supreme. If, then, that Nature is compounded of more goods than one, all these facts that are true of every composite must be applicable to it. But this impious falsehood the whole cogency of the truth that was shown above refutes and overthrows, through a clear argument.
+But, although it has been concluded above that this creative Nature exists everywhere, and in all things, and through all; and from the fact that it neither began, nor will cease to be, it follows that it always has been, and is, and will be; yet, I perceive a certain secret murmur of contradiction which compels me to inquire more carefully where and when that Nature exists.
 
-Since, then, that Nature is by no means composite, and yet is by all means those so many goods, necessarily all these are not more than one, but are one. Any one of them is, therefore, the same as all, whether taken all at once or separately. Therefore, just as whatever is attributed to the essence of the supreme Substance is one; so this substance is whatever it is essentially in one way, and by virtue of one consideration. For, when a man is said to be a material body, and rational, and human, these three things are not said in one way, or in virtue of one consideration. For, in accordance with one fact, he is a material body; and in accordance with another, rational; and no one of these, taken by itself, is the whole of what man is.
+The supreme Being, then, exists either everywhere and always, or merely at some place and time, or nowhere and never: or, as I express it, either in every place and at every time, or finitely, in some place and at some time, or in no place and at no time.
 
-That supreme Being, however, is by no means anything in such a way that it is not this same thing, according to another way, or another consideration; because, whatever it is essentially in any way, this is all of what it is. Therefore, nothing that is truly said of the supreme Being is accepted in terms of quality or quantity, but only in terms of what it is. For, whatever it is in terms of either quality or quantity Edition: current; Page: [68] would constitute still another element, in terms of what it is; hence, it would not be simple, but composite.
+But what can be more obviously contradictory, than that what exists most really and supremely exists nowhere and never? It is, therefore, false that it exists nowhere and never Again, since there is no good, nor anything at all without it; if this Being itself exists nowhere or never, then nowhere or never is there any good, and nowhere and never is there anything at all. But there is no need to state that this is false. Hence, the former proposition is also false, that that Being exists nowhere and never.
+
+It therefore exists finitely, at some time and place, or everywhere and always. But, if it exists finitely, at some place or time, there and then only, where and when it exists, can anything exist. Where and when it does not exist, moreover, there is no existence at all, because, without it, nothing exists. Whence it will follow, that there is some place and time where and when nothing at all exists. But seeing that this is false—for place and time themselves are existing things—the supreme Nature cannot exist finitely, at some place or time. But, if it is said that it of itself exists finitely, at some place and time, but that, through its power, it is wherever and whenever anything is, this is not true. For, since it is manifest that its power is nothing else than itself, by no means does its power exist without it.
+
+Since, then, it does not exist finitely, at some place or time, it must exist everywhere and always, that is, in every place and at every time.

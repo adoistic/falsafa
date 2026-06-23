@@ -1,0 +1,61 @@
+---
+work_id: "8baeaf4f-4cf0-5545-9c0f-6e805b178b42"
+work_slug: "james-steuart-an-inquiry-into-the-principles-o-8baeaf"
+work_title: An Inquiry into the Principles of Political Economy
+author_name: James Steuart
+chapter_number: 41
+chapter_title: "Chap. XIX: Of infant, foreign, and inland Trade, with respect to the several Principles which influence them"
+chapter_slug: "41-chap-xix-of-infant-foreign-and-inland-trade-with-r"
+variant_id: "d33828f8-4a04-5968-bbec-9bd57cd1e205"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1954
+source_url: "https://www.marxists.org/reference/subject/economics/steuart/book2_19.htm"
+translator: Marxists Internet Archive edition
+---
+
+I have always found it easier to retain the geography of a country, from the inspection of maps, after travelling over the regions there represented, than before; as most prefaces are best understood, after reading the book which they are calculated to introduce. Let this serve as an apology for presenting to my readers a chapter of distribution, in the middle of my subject.
+
+I intend at present to take a view of the whole region of trade, divided into its different districts, in order to point out a ruling principle in each, from which every other must naturally flow, or may be deduced by an easy reasoning. These I shall lay before my reader, that from them he may distribute his ideas in the same order I have done. Hence the terms I shall be obliged to use will be rendered more adequate, in expressing the ideas I may have occasion to convey by them.
+
+I divide trade into infant, foreign, and inland.
+
+First. Infant trade, taken in a general acceptation, may be understood to be that species, which has for its object the supplying the necessities of the inhabitants of a country; because it is commonly antecedent to the supplying the wants of strangers. This species has been known in all ages, and in all countries, in a less or a greater degree, in proportion to the multiplication of the wants of mankind, and in proportion to the number of those who depend on their ingenuity for procuring subsistence.
+
+The general principles which direct a statesman in the proper encouragement of this commerce, relate to two objects.
+
+First, To promote the ease and happiness of the higher classes, in making their wealth subservient to their wants and inclinations.
+
+Secondly, To promote the ease and happiness of the lower classes, by turning their natural faculties to an infallible means of relieving their necessities.
+
+This communicates the idea of a free society; because it implies the circulation of a real equivalent for every thing transferred, and for every service performed; to acquire which, mankind submit with pleasure to the hardest labour.
+
+In the first book, I had little occasion to consider trade under different denominations; or as influenced by any other principle than that of promoting the multiplication of mankind, and the extension of agriculture, by drawing the wealth of the rich into the hands of the industrious. This operation, when carried no farther, is a true representation of infant trade.
+
+But now I must set this matter in a new light: and consider this infant trade as a basis for establishing a foreign commerce. In itself it is a mean only of gratifying the desires of those who have the equivalent to give; and of providing it for those who have it not. We are next to examine how a statesman may, by proper care, convert it into the means of procuring to his people a great superiority over all the neighbouring nations; by diminishing, on one hand, the quantity they have of this general equivalent (wealth); and by increasing, on the other, the absolute quantity of it at home; in such a manner as not only to promote the circulation of that part of it which is necessary to supply the wants of all the citizens, but by a surplus of it, to render other nations dependent upon them, in most operations of their political oeconomy.
+
+The statesman who resolves to improve this infant trade into foreign commerce, must examine the wants of other nations, and consider the productions of his own country. He must then determine, what kinds of manufactures are best adapted for supplying the first, and for consuming the latter. He must introduce the use of such manufactures among his subjects; and endeavour to extend his population and his agriculture, by encouragements given to these new branches of consumption. He must provide his people with the best masters; he must supply them with every useful machine; and above all, he must relieve them of their work, when home-demand is not sufficient for the consumption of it.
+
+A considerable time must of necessity be required to bring a people to a dexterity in manufactures. The branches of these are many; and every one requires a particular slight of hand, which cannot be acquired but under the eye of a skilful master, able to point out the rudiments of the art. People do not perceive this inconvenience, in countries where the arts are already introduced; and many a projector has been ruined for want of attention to it.
+
+In the more simple operations of manufacturing, where apprenticeships are not in use, every one teaches another. The new beginners are put among a number who are already perfect: all the instructions they get is, do as you see others do before you. This is an advantage which an established industry has over another newly set on foot; and this I apprehend to be the reason why we see certain manufactures, after remaining long in a state of infancy, make in a few years a most astonishing progress. What loss must be at first incurred! what numbers of aspiring geniuses overpowered by unsuccessful beginnings, when a statesman does not concern himself in the operation! If he assist his subjects, by laying a prohibition upon foreign work, this expedient will become the means of encouraging the most extravagant profits, unless, at the same time, he extend the manufacture, by multiplying the hands employed in it. I allow, indeed, that as long as the gates of a kingdom are kept shut, and that no foreign communication is permitted, large profits do little harm, and tend to promote dexterity and refinement. This is a very good method for laying a foundation for manufactures: but so soon as dexterity has been thus sufficiently encouraged, and that abundance of excellent masters have been provided; then the statesman, in order to carry the plan into execution, ought to multiply the number of scholars; and a new generation must be brought up in frugality, and in the enjoyment of the most moderate profits.
+
+The ruling principle, therefore, which ought to direct a statesman in promoting and improving the infant trade of his people, is to encourage the manufacturing of every branch of natural productions, by extending the home-consumption of them; by excluding all competition with strangers; by permitting the rise of profits, so far as to promote dexterity and emulation in invention and improvement; by relieving the industrious of their work, as often as demand for it falls short; and, until it can be exported to advantage, it may be exported with loss, at the expence of the public. He must likewise spare no expence in procuring the ablest masters in every branch of industry, nor any cost in making the first establishments, in providing machines, and every other thing necessary or useful to make the undertaking succeed. He must keep constantly an eye upon the profits made in every branch of industry, and so soon as he finds that the real value of the manufacture comes so low as to render it exportable, he must employ the hands, as above, and put an end to these profits he had permitted as the means only of bringing the manufacture to its perfection. In proportion as the prices of every species of industry are brought down to the standard of exportation, in such proportion will this species of trade lose its original character, and adopt the second.
+
+Secondly, Foreign trade has been explained sufficiently: the ruling principles of which are to banish luxury; to encourage frugality; to fix the lowest standard of prices possible; and to watch, with the greatest attention, over the vibrations of the balance between work and demand. While this is preserved, no internal vice can affect the prosperity of it. And when the natural advantages of other nations constitute a rivalship, not otherwise to be overcome, the statesman must counterbalance these advantages by the weight and influence of public money; and when this expedient becomes also ineffectual, foreign trade is at an end; and out of its ashes arises the third species, which I call inland commerce.
+
+Thirdly, The more general principles of in land commerce have been occasionally considered in the first book, and more particularly hinted at in the 15th chapter of this; but there are still many new relations to be examined, from which new principles will arise: these shall be illustrated in the subsequent chapters of this book. I shall here point out the general heads only, which will serve to particularize and distinguish this third species of trade, from the two preceding.
+
+Inland commerce, in the present acceptation of the term, is supposed to take place upon the total extinction of foreign trade. The statesman must, in such a case, as in the other two species, attend to supplying the wants of the rich, in relieving the necessities of the poor, by the circulation of the equivalent as above; but as formerly he had it in his eye to watch over the balance of work and demand, so now he must principally attend to the balance of wealth, as it vibrates between consumers and manufacturers; that is, between the rich and the industrious. The effects of this vibration have been shortly pointed out, Chap. xv.
+
+In conducting a foreign trade, his business was to establish the lowest standard possible as to prices; and to confine profits within the narrowest bounds: but as now there is no question of exportation, this object of his care in a great measure disappears; and high profits made by the industrious will have then no other effect than to draw the balance of wealth more speedily to their side. The higher profits rise, the more quickly will the industrious be enriched, the more quickly will the consumers become poor, and the more necessary will it be to cut off every foreign communication in the way of trade.
+
+From this political situation of any state, arises the fundamental principle of taxation; which is, that, at the time of the vibration of the balance between the consumer and the manufacturer, the state should, by the imposition of a tax, advance the dissipation of the first, and share in the profits of the latter. This branch of our subject I shall not here anticipate; but I shall, in the remaining chapters of this book, make it sufficiently evident, that so soon as the wealth of a state becomes considerable enough to introduce luxury, and put an end to foreign trade; and when, from the excessive rise of prices, all hopes of restoring it are lost, then taxes become necessary, both for the support of government on the one hand, and, on the other, to serve as an expedient for recalling foreign trade in spite of all the pernicious effects of luxury to extinguish it.
+
+I hope from this short recapitulation and exposition of principles, I have sufficiently communicated to my reader the distinctions I want to establish, between what I have called infant, foreign, and inland trade. Such distinctions are very necessary to be retained, because it is proper they should be applied in many places of this treatise, in order to qualify general propositions: these cannot be avoided, without a perpetual repetition of such restrictions, which would tire the reader, appear frivolous to him, and divert his attention.
+
+I shall only add, that we are not to suppose the commerce of any nation confined to any one of the three species. I have considered them separately, according to custom, in order to point out their different principles. It is the business of statesmen to compound them according to circumstances.

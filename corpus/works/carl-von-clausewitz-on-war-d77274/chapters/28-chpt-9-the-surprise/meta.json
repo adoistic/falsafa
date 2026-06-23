@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 28,
+  "chapter_title": "Chpt. 9 The Surprise",
+  "chapter_slug": "28-chpt-9-the-surprise",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8f923815-abd0-5707-943a-974c8233a705",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1934,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch09.htm"
+    }
+  ]
+}

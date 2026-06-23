@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 15,
+  "chapter_title": "Chapter 14 : On the Latvian Border",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ae1df8a-2a28-5167-abf0-0dba1180a0f1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6248,
+      "paragraph_count": 139,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-14.html"
+    }
+  ]
+}

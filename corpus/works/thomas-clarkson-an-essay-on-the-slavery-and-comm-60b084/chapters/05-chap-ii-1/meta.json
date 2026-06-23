@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-clarkson-an-essay-on-the-slavery-and-comm-60b084",
+  "work_title": "An Essay on the Slavery and Commerce of the Human Species",
+  "chapter_number": 5,
+  "chapter_title": "Chap. II. (1)",
+  "chapter_slug": "05-chap-ii-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d2bc1e0-b3b2-5936-8f9e-f3d3c322eafa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 361,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/clarkson-an-essay-on-the-slavery-and-commerce-of-the-human-species"
+    }
+  ]
+}

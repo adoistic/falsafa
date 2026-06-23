@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 13,
+  "chapter_title": "Part 3, Chapter 3: The Fires of St. John",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "db17dc3e-34ac-55eb-9f60-72b216c38ef4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1597,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-3-chapter-3.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 96,
+  "chapter_title": "Excessive accumulation of laws",
+  "chapter_slug": "96-excessive-accumulation-of-laws",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa659a49-3a7d-5c85-9006-71ddc817cfba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 593,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

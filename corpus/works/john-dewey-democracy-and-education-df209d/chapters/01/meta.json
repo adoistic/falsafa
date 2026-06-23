@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-dewey-democracy-and-education-df209d",
+  "work_title": "Democracy and Education",
+  "chapter_number": 1,
+  "chapter_title": "Chapter One — Education as a Necessity of Life",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b55c12a-fe2c-52f3-a503-3da5bf3023fc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3468,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/852"
+    }
+  ]
+}

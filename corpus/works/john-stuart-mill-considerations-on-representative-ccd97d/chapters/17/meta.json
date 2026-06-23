@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-considerations-on-representative-ccd97d",
+  "work_title": "Considerations on Representative Government",
+  "chapter_number": 17,
+  "chapter_title": "Chapter XVII — Of Federal Representative Governments",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "67c6fc93-0c30-5856-a3c3-de681acd9ab9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4130,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5669"
+    }
+  ]
+}

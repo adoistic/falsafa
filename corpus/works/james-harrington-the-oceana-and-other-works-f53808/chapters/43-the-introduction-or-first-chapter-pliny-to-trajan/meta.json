@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 43,
+  "chapter_title": "The Introduction, or First Chapter, Pliny to Trajan.",
+  "chapter_slug": "43-the-introduction-or-first-chapter-pliny-to-trajan",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cfb52802-25f1-57b1-b216-6ee31a65fb70",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 267,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

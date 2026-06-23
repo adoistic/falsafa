@@ -4,7 +4,7 @@ work_slug: "wordsworth-donisthorpe-individualism-a-system-of-politi-ce6e15"
 work_title: "Individualism: A System of Politics"
 author_name: Wordsworth Donisthorpe
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "f8c9ec35-6a99-5cdf-ae5d-ac25cac7983e"
 content_type: translation

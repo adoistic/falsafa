@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 74,
+  "chapter_title": "Chap. XI : Of the Hurt resulting to Banks, when they leave the Payment of a wrong Balance to Exchangers",
+  "chapter_slug": "74-chap-xi-of-the-hurt-resulting-to-banks-when-they-l",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "837c2fb0-013d-5873-a9af-438378a26ad5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1199,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+    }
+  ]
+}

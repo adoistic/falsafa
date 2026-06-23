@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-evolutionary-socialism-3ea1cc",
+  "work_title": "Evolutionary Socialism",
+  "chapter_number": 4,
+  "chapter_title": "(b) The Materialist Interpretation of History and Historic Necessity",
+  "chapter_slug": "04-b-the-materialist-interpretation-of-history-and-hi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b7c48d58-7414-5a02-9a7d-f23dc8e59927",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2911,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1899/evsoc/ch01.htm"
+    }
+  ]
+}

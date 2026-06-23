@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-evolutionary-socialism-3ea1cc",
+  "work_title": "Evolutionary Socialism",
+  "chapter_number": 12,
+  "chapter_title": "Chapter III The Tasks and Possibilities of Social Democracy",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "12aeeba6-907f-5e11-a4f7-9f7da4b66bb5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6774,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1899/evsoc/ch03-2.htm"
+    }
+  ]
+}

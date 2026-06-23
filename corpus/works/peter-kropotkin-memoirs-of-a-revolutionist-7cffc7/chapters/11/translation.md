@@ -1,0 +1,35 @@
+---
+work_id: "7cffc718-3bcb-59e5-9a8f-221624d15fd5"
+work_slug: "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7"
+work_title: Memoirs of a Revolutionist
+author_name: Peter Kropotkin
+chapter_number: 11
+chapter_title: "Part 1: Childhood, Section 9"
+chapter_slug: 11
+variant_id: "18ad20a3-fb09-5753-8b16-17cd79dc0d04"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 917
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1899/memoirs-of-a-revolutionist/part-1-section-9.html"
+translator: Marxists Internet Archive edition
+---
+
+I well remember the Crimean war. At Moscow it affected people but little. Of course, in every house lint and bandages for the wounded were made at evening parties: not much of it, however, reached the Russian armies, immense quantities being stolen and sold to the armies of the enemy. My sister Hèléne and other young ladies sang patriotic songs, but the general tone of life in society was hardly influenced by the great struggle that was going on. In the country, on the contrary, the war caused terrible gloominess. The levies of recruits followed one another rapidly, and we continually heard the peasant women singing their funereal songs. The Russian people look upon war as a calamity which is being sent upon them by Providence, and they accepted this war with a solemnity that contrasted strangely with the levity I saw elsewhere under similar circumstances. Young though I was, I realized that feeling of solemn resignation which pervaded our villages.
+
+My brother Nicholas was smitten like many others by the war fever, and before he had ended his course at the corps he joined the army in the Caucasus. I never saw him again.
+
+In the autumn of 1854 our family was increased by the arrival of two sisters of our stepmother. They had their own house and some vineyards at Sebastopol, but now they were homeless, and came to stay with us. When the allies landed in the Crimea, the inhabitants of Sebastopol were told that they need not be afraid, and had only to stay where they were; but after the defeat at the Alma, they were ordered to leave with all haste, as the city would be invested within a few days. There were few conveyances, and there was no way of moving along the roads in face of the troops which were marching southward. To hire a cart was almost impossible, and the ladies, having abandoned all they had on the road, had a very hard time of it before they reached Moscow.
+
+I soon made friends with the younger of the two sisters, a lady of about thirty, who used to smoke one cigarette after another, and to tell me of all the horrors of their journey. She spoke with tears in her eyes of the beautiful battle-ships which had to be sunk at the entrance of the harbor of Sebastopol, and she could not understand how the Russians would be able to defend Sebastopol from the land; there was no wall even worth speaking of.
+
+I was in my thirteenth year when Nicholas I died. It was late in the afternoon, the 18th of February (2d of March), that the policemen distributed in all the houses of Moscow a bulletin announcing the illness of the Czar, and inviting the inhabitants to pray in the churches for his recovery. At that time, he was already dead, and the authorities knew it, as there was a telegraphic communication between Moscow and St Petersburg; but not a word having been previously uttered about his illness, they thought that the people must be gradually prepared for the announcement of his death. We all went to church and prayed most piously.
+
+Next day, Saturday, the same thing was done, and even on Sunday morning bulletins about the Czar's health were distributed. The news of the death of Nicholas reached us only about midday, through some servants who had been to the market. A real terror reigned in our house and in the houses of our relatives, as the information spread. It was said that the people in the market behaved in a strange way, showing no regret, but indulging in dangerous talk. Full-grown people spoke in whispers, and our stepmother kept repeating, "Don't talk before the men;" while the servants whispered among themselves, probably about the coming "freedom." The nobles expected at every moment a revolt of the serfs, -- a new uprising in Pugachóff.
+
+At St Petersburg, in the meantime, men of the educated classes, as they communicated to one another the news, embraced in the streets. Every one felt that the end of the war and the end of terrible conditions which prevailed under the "iron despot" were near at hand. Poisoning was talked about, the more so as the Czar's body decomposed very rapidly, but the true reason only gradually leaked out: a too strong dose of an invigorating medicine that Nicholas had taken.
+
+In the country, during the summer of 1855, the heroic struggle which was going on in Sebastopol for every yard of ground and every bit of its dismantled bastions was followed with a solemn interest. A messenger was sent regularly twice a week from our house to the district town to get the papers; and on his return, even before he had dismounted, the papers were taken from his hands and opened. Hèléne or I read them aloud to the family, and the news was at once transmitted to the servants' room, and thence to the kitchen, the office, the priest's house, and the houses of the peasants. The reports which came of the last days of Sebastopol, of the awful bombardment, and finally of the evacuation of the town by our troops were received with tears. In every country-house round about, the loss of Sebastopol was mourned over with as much grief as the loss of a near relative would have been, although every one understood that now the terrible war would soon come to an end.

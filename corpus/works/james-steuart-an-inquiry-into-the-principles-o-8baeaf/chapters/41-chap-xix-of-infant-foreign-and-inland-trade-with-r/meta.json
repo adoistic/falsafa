@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 41,
+  "chapter_title": "Chap. XIX: Of infant, foreign, and inland Trade, with respect to the several Principles which influence them",
+  "chapter_slug": "41-chap-xix-of-infant-foreign-and-inland-trade-with-r",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d33828f8-4a04-5968-bbec-9bd57cd1e205",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1954,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_19.htm"
+    }
+  ]
+}

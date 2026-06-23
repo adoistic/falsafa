@@ -1,0 +1,33 @@
+---
+work_id: "f96c8c22-ad6b-5e62-b861-8e062068fbfe"
+work_slug: "karl-marx-value-price-and-profit-f96c8c"
+work_title: Value, Price and Profit
+author_name: Karl Marx
+chapter_number: 6
+chapter_title: V. Wages and Prices
+chapter_slug: "06-v-wages-and-prices"
+variant_id: "7e2f9627-301a-5ff3-bb04-7ee936502e8d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 956
+source_url: "https://www.marxists.org/archive/marx/works/1865/value-price-profit/ch01.htm"
+translator: Marxists Internet Archive edition
+---
+
+Reduced to their simplest theoretical expression, all our friend's arguments resolve themselves into this one dogma: “The prices of commodities are determined or regulated by wages."
+
+I might appeal to practical observation to bear witness against this antiquated and exploded fallacy. I might tell you that the English factory operatives, miners, shipbuilders, and so forth, whose labour is relatively high-priced, undersell by the cheapness of their produce all other nations; while the English agricultural labourer, for example, whose labour is relatively low-priced, is undersold by almost every other nation because of the dearness of his produce. By comparing article with article in the same country, and the commodities of different countries, I might show, apart from some exceptions more apparent than real, that on an average the high-priced labour produces the low-priced, and low priced labour produces the high-priced commodities. This, of course, would not prove that the high price of labour in the one, and its low price in the other instance, are the respective causes of those diametrically opposed effects, but at all events it would prove that the prices of commodities are not ruled by the prices of labour. However, it is quite superfluous for us to employ this empirical method.
+
+It might, perhaps, be denied that Citizen Weston has put forward the dogma: “The prices of commodities are determined or regulated by wages.” In point of fact, he has never formulated it. He said, on the contrary, that profit and rent also form constituent parts of the prices of commodities, because it is out of the prices of commodities that not only the working man's wages, but also the capitalist's profits and the landlord's rents must be paid. But how in his idea are prices formed? First by wages. Then an additional percentage is joined to the price on behalf of the capitalist, and another additional percentage on behalf of the landlord. Suppose the wages of the labour employed in the production of a commodity to be ten. If the rate of profit was 100 per cent, to the wages advanced the capitalist would add ten, and if the rate of rent was also 100 per cent upon the wages, there would be added ten more, and the aggregate price of the commodity would amount to thirty. But such a determination of prices would be simply their determination by wages. If wages in the above case rose to twenty, the price of the commodity would rise to sixty, and so forth. Consequently all the superannuated writers on political economy who propounded the dogma that wages regulate prices, have tried to prove it by treating profit and rent as mere additional percentages upon wages. None of them were, of course, able to reduce the limits of those percentages to any economic law. They seem, on the contrary, to think profits settled by tradition, custom, the will of the capitalist, or by some other equally arbitrary and inexplicable method. If they assert that they are settled by the competition between the capitalists, they say nothing. That competition is sure to equalize the different rates of profit in different trades, or reduce them to one average level, but it can never determine the level itself, or the general rate of profit.
+
+What do we mean by saying that the prices of the commodities are determined by wages? Wages being but a name for the price of labour, we mean that the prices of commodities are regulated by the price of labour. As “price” is exchangeable value — and in speaking of value I speak always of exchangeable value — is exchangeable value expressed in money, the proposition comes to this, that “the value of commodities is determined by the value of labour,” or that “the value of labour is the general measure of value."
+
+But how, then, is the “value of labour” itself determined? Here we come to a standstill. Of course, we come to a standstill if we try reasoning logically, yet the propounders of that doctrine make short work of logical scruples. Take our friend Weston, for example. First he told us that wages regulate the price of commodities and that consequently when wages rise prices must rise. Then he turned round to show us that a rise of wages will be no good because the prices of commodities had risen, and because wages were indeed measured by the prices of the commodities upon which they are spent. Thus we begin by saying that the value of labour determines the value of commodities, and we wind up by saying that the value of commodities determines the value of labour. Thus we move to and fro in the most vicious circle, and arrive at no conclusion at all.
+
+On the whole, it is evident that by making the value of one commodity, say labour, corn, or any other commodity, the general measure and regulator of value, we only shift the difficulty, since we determine one value by another, which on its side wants to be determined.
+
+The dogma that “wages determine the price of commodities,” expressed in its most abstract terms, comes to this, that “value is determined by value,” and this tautology means that, in fact, we know nothing at all about value. Accepting this premise, all reasoning about the general laws of political economy turns into mere twaddle. It was, therefore, the great merit of Ricardo that in his work on the principles of political economy, published in 1817, he fundamentally destroyed the old popular, and worn-out fallacy that “wages determine prices,” a fallacy which Adam Smith and his French predecessors had spurned in the really scientific parts of their researches, but which they reproduced in their more exoterical and vulgarizing chapters.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 1,
+  "chapter_title": "Part 1, Chapter 1 : The Call of the Homestead",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9cabf100-1415-5305-a065-4fb9a2aa1c32",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 275,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-1-chapter-1.html"
+    }
+  ]
+}

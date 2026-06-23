@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a",
+  "work_title": "Magna Carta: A Commentary on the Great Charter of King John",
+  "chapter_number": 154,
+  "chapter_title": "(1): Capiatur vel imprisonetur.",
+  "chapter_slug": "154-1-capiatur-vel-imprisonetur",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d98299ab-f97e-5242-8a99-bba17baf77be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 107,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+    }
+  ]
+}

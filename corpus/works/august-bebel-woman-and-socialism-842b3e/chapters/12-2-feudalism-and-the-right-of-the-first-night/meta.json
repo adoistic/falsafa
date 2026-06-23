@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 12,
+  "chapter_title": "2. Feudalism and the Right of the First Night.",
+  "chapter_slug": "12-2-feudalism-and-the-right-of-the-first-night",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f26599bc-8c1d-51ec-a053-f103f1e2cab9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1224,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch04.htm"
+    }
+  ]
+}

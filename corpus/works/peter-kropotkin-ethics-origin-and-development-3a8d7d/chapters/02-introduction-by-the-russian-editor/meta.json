@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-ethics-origin-and-development-3a8d7d",
+  "work_title": "Ethics: Origin and Development",
+  "chapter_number": 2,
+  "chapter_title": "Introduction by the Russian Editor",
+  "chapter_slug": "02-introduction-by-the-russian-editor",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2cb0dd6b-7f7b-5afe-ae02-c85ca4ec1873",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2585,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1924/ethics-origin-and-development/introduction.html"
+    }
+  ]
+}

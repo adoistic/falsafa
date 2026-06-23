@@ -1,0 +1,26 @@
+{
+  "work_slug": "theodore-dwight-woolsey-on-civil-liberty-and-self-govern-6f9899",
+  "work_title": "On Civil Liberty and Self-Government",
+  "chapter_number": 53,
+  "chapter_title": "article ix.",
+  "chapter_slug": "53-article-ix",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa7f268a-c00e-5e02-933a-ac450ddc4497",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1602,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/woolsey-on-civil-liberty-and-self-government"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
   "work_title": "The Lives of the Twelve Caesars",
   "chapter_number": 5,
-  "chapter_title": "CAIUS CÆSAR CALIGULA.",
+  "chapter_title": "Caius Cæsar Caligula.",
   "chapter_slug": "05-caius-caesar-caligula",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 15454,
+      "word_count": 15302,
       "paragraph_count": 71,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"

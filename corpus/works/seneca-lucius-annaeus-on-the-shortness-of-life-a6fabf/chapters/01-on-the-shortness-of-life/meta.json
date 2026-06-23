@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-on-the-shortness-of-life-a6fabf",
+  "work_title": "On the Shortness of Life",
+  "chapter_number": 1,
+  "chapter_title": "On the Shortness of Life",
+  "chapter_slug": "01-on-the-shortness-of-life",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "91f715e5-2c84-57bc-b1cf-a3d4b5508e6b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6483,
+      "paragraph_count": 104,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0255.stoa004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "498cfe84-9ead-5bf1-b398-2863a331356b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10040,
+      "paragraph_count": 104,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

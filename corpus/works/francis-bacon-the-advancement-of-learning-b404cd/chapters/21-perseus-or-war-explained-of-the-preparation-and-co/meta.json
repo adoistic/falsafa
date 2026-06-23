@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 21,
+  "chapter_title": "Perseus or War Explained of the Preparation and Conduct necessary to War",
+  "chapter_slug": "21-perseus-or-war-explained-of-the-preparation-and-co",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74228bec-b699-50ba-b0ad-f3accc03f4ef",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1600,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

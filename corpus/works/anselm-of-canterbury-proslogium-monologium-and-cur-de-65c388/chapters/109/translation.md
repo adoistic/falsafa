@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 109
-chapter_title: CHAPTER LXIX.
+chapter_title: Chapter LXXVIII
 chapter_slug: 109
 variant_id: "5114b745-403c-51c5-81f3-417c83d1f766"
 content_type: translation
@@ -13,17 +13,17 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 419
+word_count: 406
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-The soul that ever loves this Essence lives at some time in true blessedness.
+The supreme Being may in some sort be called Three
 
-But there is no doubt that the human soul is a rational creature. Hence, it must have been created for this end, that it might love the supreme Being. It must, therefore, have been created either for this end, that it might love that Being eternally; or for this, that at some time it might either voluntarily, or by violence, lose this love.
+And so it is evidently expedient for every man to believe in a certain ineffable trinal unity, and in one Trinity; one and a unity because of its one essence, but trinal and a trinity because of its three—what? For, although I can speak of a Trinity because of Father and Son and the Spirit of both, who are three; yet I cannot, in one word, show why they are three; as if I should call this Being a Trinity because of its three persons, just as I would call it a unity because of its one substance.
 
-But it is impious to suppose that the supreme Wisdom created it for this end, that at some time, either it should despise so great a good, or, though wishing to keep it, should lose it by some violence. We infer, then, that it was created for this end, that it might love the supreme Being eternally. But this it cannot do unless it lives forever. It was so created, then, that it lives forever, if it forever wills to do that for which it was created.
+For three persons are not to be supposed, because all persons which are more than one so subsist separately from one another, that there must be as many substances as there are persons, a fact that is recognised in the case of more men than one, when there are as many persons as there are individual substances. Hence, in the supreme Being, just as there are not more substances than one, so there are not more persons than one.
 
-Hence, it is most incompatible with the nature of the supremely good, supremely wise, and omnipotent Creator, that what he has made to exist that it might love him, he should make not to exist, so long as it truly loves him; and that what he voluntarily gave to a non-loving being that it might ever love, he should take away; or permit to be taken away, from the loving being, so that necessarily it should not love; especially since it should by no means be doubted that he himself loves every nature that loves him. Hence, it is manifest that the human soul is never deprived Edition: current; Page: [135] of its life, if it forever devotes itself to loving the supreme life.
+So, if one wishes to express to any why they are three, he will say that they are Father and Son and the Spirit of both, unless perchance, compelled by the lack of a precisely appropriate term, he shall choose some one of those terms which cannot be applied in a plural sense to the supreme Being, in order to indicate what cannot be expressed in any fitting language; as if he should say, for instance, that this wonderful Trinity is one essence or nature, and three persons or substances.
 
-How, then, shall it live? For is long life so important a matter, if it is not secure from the invasion of troubles? For whoever, while he lives, is either through fear or through actual suffering subject to troubles, or is deceived by a false security, does he not live in misery? But, if any one lives in freedom from these troubles, he lives in blessedness. But it is most absurd to suppose that any nature that forever loves him, who is supremely good and omnipotent, forever lives in misery. So, it is plain, that the human soul is of such a character that, if it diligently observes that end for which it exists, it at some time lives in blessedness, truly secure from death itself and from every other trouble.
+For, these two terms are more appropriately chosen to describe plurality in the supreme Being, because the word person is applied only to an individual, rational nature; and the word substance is ordinarily applied to individual beings, which especially subsist in plurality. For individual beings are especially exposed to, that is, are subject to, accidents, and for this reason they more properly receive the name sub-stance. Now, it is already manifest that the supreme Being, which is subject to no accidents, cannot properly be called a substance, except as the word substance is used in the same sense with the word Essence. Hence, on this ground, namely, of necessity, that supreme and one Trinity or trinal unity may justly be called one Essence and three Persons or three Substances.

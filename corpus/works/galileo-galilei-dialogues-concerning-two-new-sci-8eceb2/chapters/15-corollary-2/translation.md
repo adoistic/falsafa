@@ -1,0 +1,41 @@
+---
+work_id: "8eceb2a0-c345-5db3-9888-c97161efe653"
+work_slug: "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2"
+work_title: Dialogues Concerning Two New Sciences
+author_name: Galileo Galilei
+chapter_number: 15
+chapter_title: Corollary (2)
+chapter_slug: "15-corollary-2"
+variant_id: "69697583-d354-5ffc-b69a-dae7ffb0324f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1081
+source_url: "https://oll.libertyfund.org/titles/galilei-dialogues-concerning-two-new-sciences"
+translator: Online Library of Liberty edition
+---
+
+From this and the preceding proposition, it is clear that the vertical distance covered by a freely falling body, after a preliminary fall, and during the time-interval required to traverse an inclined plane, is greater than the length of the inclined plane, but less than the distance traversed on the inclined plane during an equal time, without any preliminary fall. For since we have just shown that bodies falling from an elevated point A will traverse the plane EC in Fig. 71 in a shorter time than the vertical EB, it is evident that the distance along EB which will be traversed during a time equal to that of descent along EC will be less than the whole of EB. But now in order to show that this vertical distance is greater than the length of the inclined plane EC, we reproduce Fig. 70 of the preceding theorem in which the vertical length BG is traversed in the same time as BC after a preliminary fall through AB. That BG is greater than BC is shown as follows: since BE and FB are equal while BA is less than BD, it follows that FB will bear to BA a greater ratio than EB bears to BD; and, componendo, FA will bear to BA a greater ratio than ED to DB; but FA:AB=GF:FB (since AF is a mean proportional between BA and AG) and in like manner ED:BD=CE:EB. Hence GB bears to BF a greater ratio than CB bears to BE; therefore GB is greater than BC.
+
+Given a vertical line and an inclined plane, it is required to lay off a distance along the given plane which will be traversed by a body, after fall along the perpendicular, in the same time-interval which is needed for this body to fall from rest through the given perpendicular.
+
+Let AB be the vertical line and BE the inclined plane. The problem is to determine on BE a distance such that a body, after falling through AB, will traverse it in a time equal to that required to traverse the perpendicular AB itself, starting from rest.
+
+Draw the horizontal AD and extend the plane until it meets this line in D. Lay off FB equal to BA; and choose the point E such that BD:FD=DF:DE. Then, I say, the time of descent along BE, after fall through AB, is equal to the time of fall, from rest at A, through AB. For, if we assume that the length AB represents the time of fall through AB, then the time of fall through DB will be represented by the time DB; and since BD:FD=DF:DE, it follows that DF will represent the time of descent along the entire plane DE while BF represents the time through the portion BE starting from rest at D; but the time of descent along BE after the preliminary descent along DB is the same as that after a preliminary fall through AB. Hence the time of descent along BE after AB will be BF which of course is equal to the time of fall through AB from rest at A.
+
+q. e. f.
+
+Given the distance through which a body will fall vertically from rest during a given time-interval, and given also a smaller time-interval, it is required to locate another [equal] vertical distance which the body will traverse during this given smaller time-interval.
+
+Let the vertical line be drawn through A, and on this line lay off the distance AB which is traversed by a body falling from rest at A, during a time which may also be represented by AB. Draw the horizontal line CBE, and on it lay off BC to represent the given interval of time which is shorter than AB. It is required to locate, in the perpendicular above mentioned, a distance which is equal to AB and which will be described in a time equal to BC. Join the points A and C; then, since BC<BA, it follows that the angle BAC<angle BCA. Construct the angle CAE equal to BCA and let E be the point where AE intersects the horizontal line; draw ED at right angles to AE, cutting the vertical at D; lay off DF equal to BA. Then, I say, that FD is that portion of the vertical which a body starting from rest at A will traverse during the assigned time-interval BC. For, if in the right-angled triangle AED a perpendicular be drawn from the right-angle at E to the opposite side AD, then AE will be a mean proportional between DA and AB while BE will be a mean proportional between BD and BA, or between FA and AB (seeing that FA is equal to DB); and since it has been agreed to represent the time of fall through AB by the distance AB, it follows that AE, or EC, will represent the time of fall through the entire distance AD, while EB will represent the time through AF. Consequently the remainder BC will represent the time of fall through the remaining distance FD.
+
+q. e. f.
+
+Given the distance through which a body falls in a vertical line from rest and given also the time of fall, it is required to find the time in which the same body will, later, traverse an equal distance chosen anywhere in the same vertical line.
+
+On the vertical line AB, lay off AC equal to the distance fallen from rest at A, also locate at random an equal distance DB. Let the time of fall through AC be represented by the length AC. It is required to find the time necessary to traverse DB after fall from rest at A. About the entire length AB describe the semicircle AEB; from C draw CE perpendicular to AB; join the points A and E; the line AE will be longer than EC; lay off EF equal to EC. Then, I say, the difference FA will represent the time required for fall through DB. For since AE is a mean proportional between BA and AC and since AC represents the time of fall through AC, it follows that AE will represent the time through the entire distance AB. And since CE is a mean proportional between DA and AC (seeing that DA=BC) it follows that CE, that is, EF, will represent the time of fall through AD. Hence the difference AF will represent the time of fall through the difference DB.
+
+q. e. d.

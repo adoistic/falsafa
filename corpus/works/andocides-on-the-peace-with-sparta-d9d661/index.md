@@ -4,7 +4,10 @@ slug: "andocides-on-the-peace-with-sparta-d9d661"
 title: On the Peace with Sparta
 author:
   name: Andocides
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Athenian orator of the Peloponnesian War generation, implicated in the mutilation of the Herms. His surviving speeches, above all On the Mysteries, are firsthand pleadings from the religious and political scandals of late fifth-century Athens."
+  birth_year: -440
+  death_year: -390
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

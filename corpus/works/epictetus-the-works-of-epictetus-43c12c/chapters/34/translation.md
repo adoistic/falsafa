@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 34
-chapter_title: "CHAPTER XXX.: WEAPONS READY FOR DIFFICULT OCCASIONS."
+chapter_title: "Chapter XXX.: Weapons Ready for Difficult Occasions."
 chapter_slug: 34
 variant_id: "1549a715-7835-59c0-9a9c-58647f7b1f0f"
 content_type: translation

@@ -1,0 +1,265 @@
+---
+work_id: "29ee3bcd-f208-565e-b296-e4f30cc25791"
+work_slug: "josef-stalin-economic-problems-of-socialism-i-29ee3b"
+work_title: Economic Problems of Socialism in the USSR
+author_name: Josef Stalin
+chapter_number: 13
+chapter_title: Concerning the Errors of Comrade L.D. Yaroshenko
+chapter_slug: "13-concerning-the-errors-of-comrade-l-d-yaroshenko"
+variant_id: "6644dc1f-6ab5-50fc-b519-4b9f74cb5a67"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 7311
+source_url: "https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch13.htm"
+translator: Marxists Internet Archive edition
+---
+
+Some time ago the members of the Political Bureau of the C.C., C.P.S.U.(B.) received a letter from Comrade Yaroshenko, dated March 20, 1952, on a number of economic questions which were debated at the November discussion. The author of the letter complains that the basic documents summing up the discussion, and Comrade Stalin's "Remarks," "contain no reflection whatever of the opinion" of Comrade Yaroshenko. Comrade Yaroshenko also suggests in his note that he should be allowed to write a "Political Economy of Socialism," to be completed in a year or a year and a half, and that he should be given two assistants to help him in the work.
+
+I think that both Comrade Yaroshenko's complaint and his proposal need to be examined on their merits.
+
+Let us begin with the complaint.
+
+Well, then, what is the "opinion" of Comrade Yaroshenko which has received no reflection whatever in the above-mentioned documents?
+
+To describe Comrade Yaroshenko's opinion in a couple of words, it should be said that it is un-Marxist - and, hence, profoundly erroneous.
+
+Comrade Yaroshenko's chief error is that he forsakes the Marxist position on the question of the role of the productive forces and of the relations of production in the development of society, that he inordinately overrates the role of the productive forces, and just as inordinately underrates the role of the relations of production, and ends up by declaring that under socialism the relations of production are a component part of the productive forces.
+
+Comrade Yaroshenko is prepared to grant the relations of production a certain role under the conditions of "antagonistic class contradictions," inasmuch as there the relations of production "run counter to the development of the productive forces." But he confines it to a purely negative role, the role of a factor which retards the development of the productive forces, which fetters their development. Any other functions, positive functions, of the relations of production, Comrade Yaroshenko fails to see.
+
+As to the socialist system, where "antagonistic class contradictions" no longer exist, and where the relations of production "no longer run counter to the development of the productive forces," here, according to Comrade Yaroshenko, the relations of production lose every vestige of an independent role, they cease to be a serious factor of development, and are absorbed by the productive forces, becoming a component part of them. Under socialism, Comrade Yaroshenkosays, "men's production relations become part of the organization of the productive forces, as a means, an clement of their organization."
+
+If that is so, what is the chief task of the "Political Economy of Socialism"? Comrade Yaroshenko replies: "The chief problem of the Political Economy of Socialism, therefore, is not to investigate the relations of production of the members of socialist society; it is to elaborate and develop a scientific theory of the organization of the productive forces in social production, a theory of the planning of economic development."
+
+That, in fact, explains why Comrade Yaroshenko is not interested in such economic questions of the socialist system as the existence of different forms of property in our economy, commodity circulation, the law of value, etc., which he believes to be minor questions that only give rise to scholastic disputes. He plainly declares that in his Political Economy of Socialism "disputes as to the role of any particular category of socialist political economy - value, commodity, money, credit, etc., - which very often with us are of a scholastic character, are replaced by a healthy discussion of the rational organization of the productive forces in social production, by a scientific demonstration of the validity of such organization."
+
+In short, political economy without economic problems.
+
+Comrade Yaroshenko thinks that it is enough to arrange a "rational organization of the productive forces," and the transition from socialism to communism will take place with-out any particular difficulty. He considers that this is quite sufficient for the transition to communism. He plainly de-dares that "under socialism, the basic struggle for the building of a communist society reduces itself to a struggle for the proper organization of the productive forces and their rational utilization in social production." Comrade Yaroshenko solemnly proclaims that "Communism is the highest scientific organization of the productive forces in social production."
+
+It appears, then, that the essence of the communist system begins and ends with the "rational organization of the productive forces."
+
+From all this, Comrade Yaroshenko concludes that there cannot be a single political economy for all social formations, that there must be two political economies: one for pre-socialist social formations, the subject of investigation of which is men's relations of production, and the other for the socialist system, the subject of investigation of which should be not the production, i.e., the economic, relations, but the rational organization of the productive forces.
+
+Such is the opinion of Comrade Yaroshenko.
+
+What can be said of this opinion?
+
+It is not true, in the first place, that the role of the relations of production in the history of society has been confined to that of a brake, a fetter on the development of the productive forces. When Marxists speak of the retarding role of the relations of production, it is not all relations of production they have in mind, but only the old relations of production, which no longer conform to the growth of the productive forces and, consequently, retard their development. But, as we know, besides the old, there are also new relations of production, which supersede the old. Can it be said that the role of the new relations of production is that of a brake on the productive forces? No, it cannot. On the contrary, the new relations of production are the chief and decisive force, the one which in fact determines the further,and, moreover, powerful, development of the productive forces, and without which the latter would be doomed to stagnation, as is the case today in the capitalist countries.
+
+Nobody can deny that the development of the productive forces of our Soviet industry has made tremendous strides in the period of the five-year plans. But this development would not have occurred if we had not, in October 1917, re-placed the old, capitalist relations of production by new, socialist relations of production. Without this revolution in the production, the economic, relations of our country, our productive forces would have stagnated, just as they are stagnating today in the capitalist countries.
+
+Nobody can deny that the development of the productive forces of our agriculture has made tremendous strides in the past twenty or twenty-five years. But this development would not have occurred if we had not in the 'thirties re-placed the old, capitalist production relations in the country-side by new, collectivist production relations. Without this revolution in production, the productive forces of our agriculture would have stagnated, just as they are stagnating today in the capitalist countries.
+
+Of course, new relations of production cannot, and do not, remain new forever; they begin to grow old and to run counter to the further development of the productive forces; they begin to lose their role of principal mainspring of the productive forces, and become a brake on them. At this point, in place of these production relations which have become antiquated, new production relations appear whose role it is to be the principal mainspring spurring the further development of the productive forces.
+
+This peculiar development of the relations of production from the role of a brake on the productive forces to that of the principal mainspring impelling them forward, and from the role of principal mainspring to that of a brake on the productive forces, constitutes one of the chief elements of the Marxist materialist dialectics. Every novice in Marxism knows that nowadays. But Comrade Yaroshenko, it appears, does not know it.
+
+It is not true, in the second place, that the production, i.e., the economic, relations lose their independent role under socialism, that they are absorbed by the productive forces, that social production under socialism is reduced to the organization of the productive forces. Marxism regards social production as an integral whole which has two inseparable sides: the productive forces of society (the relation of society to the forces of nature, in contest with which it se-cures the material values it needs), and the relations of production (the relations of men to one another in the process of production). These are two different sides of social production, although they are inseparably connected with one another. And just because they constitute different sides of social production, they are able to influence one another. To assert that one of these sides may be absorbed by the other and be converted into its component part, is to commit a very grave sin against Marxism.
+
+Marx said:
+
+In production, men not only act on nature but also on one another. They produce only by cooperating in a certain way and mutually exchanging their activities. In order to produce, they enter into definite connections and relations with one another and only within these social connections and relations does their action on nature, does production, take place."
+
+Consequently, social production consists of two sides, which, although they are inseparably connected, reflect two different categories of relations: the relations of men to nature (productive forces), and the relations of men to one another in the process of production (production relations). Only when both sides of production are present do we have social production, whether it be under the socialist system or under any other social formation.
+
+Comrade Yaroshenko, evidently, is not quite in agreement with Marx. He considers that this postulate of Marx is not applicable to the socialist system. Precisely for this reason he reduces the problem of the Political Economy of Socialism to the rational organization of the productive forces, discarding the production, the economic, relations and severing the productive forces from them.
+
+If we followed Comrade Yaroshenko, therefore, what we would get is, instead of a Marxist political economy, some-thing in the nature of Bogdanov's "Universal Organizing Science."
+
+Hence, starting from the right idea that the productive forces are the most mobile and revolutionary forces of production, Comrade Yaroshenko reduces the idea to an absurdity, to the point of denying the role of the production, the economic, relations under socialism; and instead of a full-blooded social production, what he gets is a lopsided and scraggy technology of production - something in the nature of Bukharin's "technique of social organization."
+
+Marx says:
+
+In the social production of their life [that is, in the production of the material values necessary to the life of men - J. St.], men enter into definite relations that are indispensable and independent of their will, relations of production which correspond to a definite stage of development of their material productive forces. The sum total of these relations of production constitutes the economic structure of society, the real foundation, on which rises a legal and political super-structure and to which correspond definite forms of social consciousness.
+
+This means that every social formation, socialist society not excluded, has its economic foundation, consisting of the sum total of men's relations of production. What, one asks, happens to the economic foundation of the socialist system with Comrade Yaroshenko? As we know, Comrade Yaroshenko has already done away with relations of production under socialism as a more or less independent sphere, and has included the little that remains of them in the organization of the productive forces. Has the socialist system, one asks, its own economic foundation? Obviously, seeing that the relations of production have disappeared as a more or less independent factor under socialism, the socialist system is left without an economic foundation.
+
+In short, a socialist system without an economic foundation. A rather funny situation. . . .
+
+Is a social system without an economic foundation possible at all? Comrade Yaroshenko evidently believes that it is. Marxism, however, believes that such social systems do not occur in nature.
+
+It is not true, lastly, that communism means the rational organization of the productive forces, that the rational organization of the productive forces is the beginning and end of the communist system, that it is only necessary to organize the productive forces rationally, and the transition to communism will take place without particular difficulty. There is in our literature another definition, another formula of communism - Lenin's formula: "Communism is Soviet rule plus the electrification of the whole country." Lenin's formula is evidently not to Comrade Yaroshenko's liking, and he replaces it with his own homemade formula: "Communism is the highest scientific organization of the productive forces in social production."
+
+In the first place, nobody knows what this "higher scientific" or "rational" organization of the productive forces which Comrade Yaroshenko advertises represents, what its concrete import is. In his speeches at the Plenum and in the working panels of the discussion, and in his letter to the members of the Political Bureau, Comrade Yaroshenko reiterates this mythical formula dozens of times, but nowhere does he say a single word to explain how the "rational organization" of the productive forces, which supposedly constitutes the beginning and end of the essence of the communist system, should be understood.
+
+In the second place, if a choice must be made between the two formulas, then it is not Lenin's formula, which is the only correct one, that should be discarded, but Comrade Yaroshenko's pseudo formula, which is so obviously chimerical and un-Marxist, and is borrowed from the arsenal of Bogdanov, from his "Universal Organizing Science."
+
+Comrade Yaroshenko thinks that we have only to ensure a rational organization of the productive forces, and we shall be able to obtain an abundance of products and to pass to communism, to pass from the formula, "to each according to his work," to the formula, "to each according to his needs." That is a profound error, and reveals a complete lack of understanding of the laws of economic development of socialism. Comrade Yaroshenko's conception of the conditions for the transition from socialism to communism is far too rudimentary and puerile. He does not understand that neither an abundance of products, capable of covering all the requirements of society, nor the transition to the formula, "to each according to his needs," can be brought about if such economic factors as collective farm, group, property, commodity circulation, etc., remain in force. Comrade Yaroshenko does not understand that before we can pass to the formula, "to each according to his needs," we shall have to pass through a number of stages of economic and cultural re-education of society, in the course of which work will be transformed in the eyes of society from only a means of supporting life into life's prime want, and social property into the sacred and inviolable basis of the existence of society.
+
+In order to pave the way for a real, and not declaratory transition to communism, at least three main preliminary conditions have to be satisfied.
+
+1. It is necessary, in the first place, to ensure, not a mythical "rational organization" of the productive forces, but a continuous expansion of all social production, with a relatively higher rate of expansion of the production of means of production. The relatively higher rate of expansion of production of means of production is necessary not only because it has to provide the equipment both for its own plants and for all the other branches of the national economy, but also because reproduction on an extended scale becomes altogether impossible without it.
+
+2. . It is necessary, in the second place, by means of gradual transitions carried out to the advantage of the collective farms, and, hence, of all society, to raise collective-farm property to the level of public property, and, also by means of gradual transitions, to replace commodity circulation by asystem of products-exchange, under which the central government, or some other social-economic centre, might control the whole product of social production in the interests of society.
+
+Comrade Yaroshenko is mistaken when he asserts that there is no contradiction between the relations of production and the productive forces of society under socialism. Of course, our present relations of production are in a period when they fully conform to the growth of the productive forces and help to advance them at seven-league strides. But it would be wrong to rest easy at that and to think that there are no contradictions between our productive forces and the relations of production. There certainly are, and will be, contradictions, seeing that the development of the relations of production lags, and will lag, behind the development of the productive forces. Given a correct policy on the part of the directing bodies, these contradictions cannot grow into antagonisms, and there is no chance of matters coming to a conflict between the relations of production and the productive forces of society. It would be a different matter if we were to conduct a wrong policy, such as that which Comrade Yaroshenko recommends. In that case conflict would be inevitable, and our relations of production might become a serious brake on the further development of the productive forces.
+
+The task of the directing bodies is therefore promptly to discern incipient contradictions, and to take timely measures to resolve them by adapting the relations of production to the growth of the productive forces. This, above all, concerns such economic factors as group, or collective-farm, property and commodity circulation. At present, of course, these factors are being successfully utilized by us for the promotion of the socialist economy, and they are of undeniable benefit to our society. It is undeniable, too, that they will be of benefit also in the near future. But it would be unpardonable blindness not to see at the same time that these factors are already beginning to hamper the powerful development of our productive forces, since they create obstacles to the full extension of government planning to the whole of the national economy, especially agriculture. There is no doubt that these factors will hamper the continued growth of the productive forces of our country more and more as time goes on. The task, therefore, is to eliminate these contradictions by gradually converting collective-farm property into public property, and by introducing - also gradually - products-exchange in place of commodity circulation.
+
+3. It is necessary, in the third place, to ensure such a cultural advancement of society as will secure for all members of society the all-round development of their physical and mental abilities, so that the members of society may be in a position to receive an education sufficient to enable them to be active agents of social development, and in a position freely to choose their occupations and not be tied all their lives, owing to the existing division of labour, to some one occupation.
+
+What is required for this?
+
+It would be wrong to think that such a substantial advance in the cultural standard of the members of society can be brought about without substantial changes in the present status of labour. For this, it is necessary, first of all, to shorten the working day at least to six, and subsequently to five hours. This is needed in order that the members of society might have the necessary free time to receive an all-round education. It is necessary, further, to introduce universal compulsory polytechnical education, which is requiredin order that the members of society might be able freely to choose their occupations and not be tied to some one occupation all their lives. It is likewise necessary that housing conditions should be radically improved, and that real wages of workers and employees should be at least doubled, if not more, both by means of direct increases of wages and salaries, and, more especially, by further systematic reductions of prices for consumer goods.
+
+These are the basic conditions required to pave the way for the transition to communism.
+
+Only after all these preliminary conditions are satisfied in their entirety may it be hoped that work will be converted in the eyes of the members of society from a nuisance into "life's prime want" (Marx), that "labour will become a pleasure instead of being a burden" (Engels), and that social property will be regarded by all members of society as the sacred and inviolable basis of the existence of society.
+
+Only after all these preliminary conditions have been satisfied in their entirety will it be possible to pass from the socialist formula, "from each according to his ability, to each according to his work," to the communist formula, "from each according to his ability, to each according to his needs."
+
+This will be a radical transition from one form of economy, the economy of socialism, to another, higher form of economy, the economy of communism.
+
+As we see, the transition from socialism to communism is not such a simple matter as Comrade Yaroshenko imagines.
+
+To attempt to reduce this complex and multiform process, which demands deep-going economic changes, to the "rational organization of the productive forces," as Comrade Yaroshenko does, is to substitute Bogdanovism for Marxism.
+
+1. From his incorrect opinion, Comrade Yaroshenko draws incorrect conclusions relative to the character and province of political economy.
+
+Comrade Yaroshenko denies the necessity for a single political economy for all social formations, on the grounds that every social formation has its specific economic laws. But he is absolutely wrong there, and is at variance with such Marxists as Engels and Lenin.
+
+Engels says that political economy is "the science of the conditions and forms under which the various human societies have produced and exchanged and on this basis have distributed their products. Hence, political economy investigates the laws of economic development not of any one social formation, but of the various social formations.
+
+With this, as we know, Lenin was in full agreement. In his critical comments on Bukharin's Economics of the Transition Period, he said that Bukharin was wrong in restricting the province of political economy to commodity production, and above all to capitalist production, observing that in doing so Bukharin was taking "a step backward from Engels.'
+
+Fully in conformity with this is the definition of political economy given in the draft textbook, when it says that political economy is the science which studies "the laws of the social production and distribution of material values at the various stages of development of human society."
+
+That is understandable. The various social formations are governed in their economic development not only by their own specific economic laws, but also by the economic laws that are common to all formations, such as, for instance, the law that the productive forces and the relations of production are united in one integral social production, and the law governing the relations between the productive forces and the relations of production in the process of development of all social formations. Hence, social formations are not only divided from one another by their own specific laws, but also connected with one another by the economic laws common to all formations.
+
+Engels was quite right when he said:
+
+In order to carry out this critique of bourgeois economy completely, an acquaintance with the capitalist form of production, exchange and distribution did not suffice. The forms which had preceded it or those which still exist alongside it in less developed countries had also, at least in their main features, to be examined and compared."
+
+It is obvious that here, on this question, Comrade Yaroshenko is in tune with Bukharin.
+
+Further, Comrade Yaroshenko declares that in his "Political Economy of Socialism," "the categories of political economy - value, commodity, money, credit, etc., - are replaced by a healthy discussion of the rational organization of the productive forces in social production," that, consequently, the subject of investigation of this political economy will not be the production relations of socialism, but "the elaboration and development of a scientific theory of the organization of the productive forces, theory of economic planning, etc.," and that, under socialism, the relations of production lose their independent significance and are absorbed by the productive forces as a component part of them.
+
+It must be said that never before has any retrograde "Marxist" delivered himself of such unholy twaddle. Just imagine a political economy of socialism without economic, production problems! Does such a political economy exist anywhere in creation? What is the effect, in a political economy of socialism, of replacing economic problems by problems of organization of the productive forces? The effect is to abolish the political economy of socialism. And that is just what Comrade Yaroshenko does - he abolishes the political economy of socialism. In this, his position fully gibes with that of Bukharin. Bukharin said that with the elimination of capitalism, political economy would also be eliminated. Comrade Yaroshenko does not say this, but he does it; he does abolish the political economy of socialism. True, he pretends that he is not in full agreement with Bukharin; but that is only a trick, and a cheap trick at that. In actual fact he is doing what Bukharin preached and what Lenin rose up in arms against. Comrade Yaroshenko is following in the footsteps of Bukharin.
+
+Further, Comrade Yaroshenko reduces the problems of the political economy of socialism to problems of the rational organization of the productive forces, to problems of economic planning, etc. But he is profoundly in error. The rational organization of the productive forces, economic planning, etc., are not problems of political economy, but problems of the economic policy of the directing bodies. They are two different provinces, which must not be confused. Comrade Yaroshenko has confused these two different things, and has made a terrible mess of it. Political economy investigates the laws of development of men's relations of production. Economic policy draws practical conclusions from this, gives them concrete shape, and builds its day-to-day work on them. To foist upon political economy problems of economic policy is to kill it as a science.
+
+The province of political economy is the production, the economic, relations of men. It includes: a) the forms of ownership of the means of production; b) the status of the various social groups in production and their inter-relations that follow from these forms, or what Marx calls: "they exchange their activities"; the forms of distribution of products, which are entirely determined by them. All these together constitute the province of political economy.
+
+This definition does not contain the word "exchange," which figures in Engels' definition. It is omitted because "exchange" is usually understood by many to mean exchange of commodities, which is characteristic not of all, but only of some social formations, and this sometimes gives rise to misunderstanding, even though the word "exchange" with Engels did not mean only commodity exchange. As will be seen, however, that which Engels meant by the word "ex-change" has been included, as a component part, in the above definition. Hence, this definition of the province of political economy fully coincides in content with Engels' definition.
+
+2. When speaking of the basic economic law of some particular social formation, the presumption usually is that the latter cannot have several basic economic laws, that it can have only some one basic economic law, which precisely for that reason is the basic law. Otherwise we should have several basic economic laws for each social formation, which would be contrary to the very concept of a basic law. But Comrade Yaroshenko does not agree with this. He thinks that it is possible to have not one, but several basic economic laws of socialism. It is incredible, but a fact. At the Plenary Discussion, he said:
+
+The magnitudes and correlations of the material funds of social production and reproduction are determined by the available labour power engaged in social production and its prospective increase. This is the basic economic law of socialist society, and it determines the structure of socialist social production and reproduction."
+
+That is one basic economic law of socialism.
+
+In this same speech Comrade Yaroshenko declared:
+
+In socialist society, the correlations between Departments I and II are determined by the fact that production must have means of production in quantities sufficient to enlist all the able-bodied members of the population in social production. This is the basic economic law of socialism, and it is at the same time a demand of our Constitution, following from the right to work enjoyed by Soviet citizens."
+
+That, so to speak, is a second basic economic law of socialism.
+
+Lastly, in his letter to the members of the Political Bureau, Comrade Yaroshenko declares:
+
+Accordingly, the essential features and requirements of the basic economic law of socialism may, it seems to me, be roughly formulated as follows: the continuous expansion and perfection of the production of the material and cultural conditions of life of society."
+
+Here we have a third basic economic law of socialism.
+
+Whether all these laws are basic economic laws of socialism, or only one of them, and if only one of them, which exactly - to these questions Comrade Yaroshenko gives no answer in his last letter addressed to the members of the Political Bureau. When formulating the basic economic lawof socialism in his letter to the members of the Political Bureau he "forgot," it is to be presumed, that in his speech at the Plenary Discussion three months earlier he had already formulated two other basic economic laws of socialism, evidently believing that nobody would notice this dubious manoeuvre, to say the least of it. But, as we see, he miscalculated.
+
+Let us assume that the first two basic economic laws of socialism formulated by Comrade Yaroshenko no longer exist, and that from now on he regards as the basic economic law of socialism the third one, which he formulated in his letter to the members of the Political Bureau. Let us turn to this letter.
+
+Comrade Yaroshenko says in this letter that he does not agree with the definition of the basic economic law of socialism which Comrade Stalin gave in his "Remarks." He says:
+
+The chief thing in this definition is `the securing of the maximum satisfaction of . . . the requirements of the whole of society.' Production is presented here as the means of attaining this principal aim - satisfaction of requirements. Such a definition furnishes grounds for assuming that the basic economic law of socialism formulated by you is based not on the primacy of production, but on the primacy of consumption."
+
+It is evident that Comrade Yaroshenko has completely failed to understand the essence of the problem, and does not see that talk about the primacy of consumption or of production has absolutely nothing to do with the case. When speaking of the primacy of any social process over another, it is usually assumed that the two processes are more or less homogeneous in character. One may, and should, speak of the primacy of the production of means of production over the production of means of consumption, because production is involved in both cases, and they are therefore more or less homogeneous. But one cannot speak, and it would be wrong to speak, of the primacy of consumption over production, or of production over consumption, because production and consumption are two entirely different spheres, which, it is true, are connected with one another, but which are different spheres all the same. Comrade Yaroshenko obviously fails to realize that what we are speaking of here is not the primacy of consumption or of production, but of what aim society sets social production, to what purpose it subordinates social production, say under socialism. So that when Comrade Yaroshenko says that "the basis of the life of socialist society, as of all other society, is production," it is entirely beside the point. Comrade Yaroshenko forgets that men produce not for production's sake, but in order to satisfy their needs. He forgets that production divorced from the satisfaction of the needs of society withers and dies.
+
+Can we speak in general of the aims of capitalist or socialist production, of the purposes to which capitalist or socialist production are subordinated? I think that we can and should.
+
+Marx says:
+
+The direct aim of capitalist production is not the production of goods, but the production of surplus value, or of profit in its developed form; not the product, but the surplus product. From this standpoint, labour itself is productive only in so far as it creates profit or surplus product for capital. In so far as the worker does not create it, his labour is unproductive. Consequently, the sum-total of applied productive labour is of interest to capital only to the extentthat through it - or in relation to it - the sum-total of surplus labour increases. Only to that extent is what is called necessary labour time necessary. To the extent that it does not produce this result, it is superfluous and has to be discontinued.
+
+It is the constant aim of capitalist production to produce the maximum surplus value or surplus product with the minimum of capital advanced; in so far as this result is not attained by overworking the labourer, it is a tendency of capital to seek to produce a given product with the least expenditure - economizing labour power and costs. .. .
+
+The labourers themselves figure in this conception as what they actually are in capitalist production - only means of production; not an aim in themselves and not the aim of production."
+
+These words of Marx are remarkable not only because they define the aim of capitalist production concisely and precisely, but also because they indicate the basic aim, the principal purpose, which should be set for socialist production.
+
+Hence, the aim of capitalist production is profit-making. As to consumption, capitalism needs it only in so far as it ensures the making of profit. Outside of this, consumption means nothing to capitalism. Man and his needs disappear from its field of vision.
+
+What is the aim of socialist production? What is that main purpose to which social production should be subordinated under socialism?
+
+The aim of socialist production is not profit, but man and his needs, that is, the satisfaction of his material and cultural requirements. As is stated in Comrade Stalin's "Re-marks," the aim of socialist production is "the securing of the maximum satisfaction of the constantly rising material and cultural requirements of the whole of society."
+
+Comrade Yaroshenko thinks that what he is confronted with here is the "primacy" of consumption over production. That, of course, is a misapprehension. Actually, what we have here is not the primacy of consumption, but the subordination of socialist production to its principal aim of securing the maximum satisfaction of the constantly rising material and cultural requirements of the whole of society.
+
+Consequently, maximum satisfaction of the constantly rising material and cultural requirements of the whole of society is the aim of socialist production; continuous expansion and perfection of socialist production on the basis of higher techniques is the means for the achievement of the aim.
+
+Such is the basic economic law of socialism.
+
+Desiring to preserve what he calls the "primacy" of production over consumption, Comrade Yaroshenko claims that the "basic economic law of socialism" consists in "the continuous expansion and perfection of the production of the material and cultural conditions of society." That is absolutely wrong. Comrade Yaroshenko grossly distorts and vitiates the formula given in Comrade Stalin's "Remarks." With him, production is converted from a means into an end, and the maximum satisfaction of the constantly rising material and cultural requirements of society is thrown out. What we get is expansion of production for the sake of expansion of production, production as an aim in itself; man and his requirements disappear from Comrade Yaroshenko's field of vision.
+
+It is therefore not surprising that, with the disappearance of man as the aim of socialist production, every vestige of Marxism disappears from Comrade Yaroshenko's "conception."
+
+And so, what Comrade Yaroshenko arrives at is not the "primacy" of production over consumption, but something like the "primacy" of bourgeois ideology over Marxist ideology.
+
+3. A question by itself is Marx's theory of reproduction.
+
+Comrade Yaroshenko asserts that the Marxist theory of re-production is a theory of capitalist reproduction only, that it contains nothing that might have validity for other social formations, the socialist social formation in particular. He says:
+
+The extension of Marx's scheme of reproduction, which he elaborated for the capitalist economy, to socialist social production is the fruit of a dogmatic understanding of Marx's theory and runs counter to the essence of his theory.
+
+He further asserts:
+
+Marx's scheme of reproduction does not correspond to the economic laws of socialist society and cannot serve as a basis in the investigation of socialist reproduction."
+
+Concerning Marx's theory of simple reproduction, which establishes a definite correlation between the production of means of production (Department I) and the production of means of consumption (Department II), Comrade Yaroshenko? says:
+
+In socialist society, the correlation between Departments I and II is not determined by Marx's formula v+m of Department I and c of Department II. There should be no such interconnection in development between Departments I and H under socialist conditions."
+
+He asserts:
+
+The theory of the correlation between Departments I and II worked out by Marx is not applicable in our socialist conditions, since Marx's theory is based on capitalist economy and its laws."
+
+That is how Comrade Yaroshenko makes mincemeat of Marx's theory of reproduction.
+
+Of course, Marx's theory of reproduction, which was the fruit of an investigation of the laws of the capitalist mode of production, reflects the specific character of the latter, and, naturally, is clothed in the form of capitalist-commodity value relations. It could not have been otherwise. But he who sees in Marx's theory of reproduction only its form, and does not observe its fundamentals, its essential substance, which holds good not only for the capitalist social formation alone, has no understanding whatever of this theory. If Comrade Yaroshenko had any understanding at all of the matter, he would have realized the self-evident truth that Marx's scheme of reproduction does not begin and end with a reflection of the specific character of the capitalist mode of production, that it at the same time contains a whole number of fundamental tenets on the subject of reproduction which hold good for all social formations, particularly and especially for the socialist social formation. Such fundamental tenets of the Marxist theory of reproduction as the division of social production into the production of means of production and the production of means of consumption; the relatively greater increase of production of means of production in reproduction on an extended scale; the correlation between Departments I and II; surplus product as the sole source of accumulation; the formation and designation of the social funds; accumulation as the sole source of reproduction on an extended scale - all these fundamental tenets of the Marxist theory of reproduction are at the same time tenets which hold good not only for the capitalist formation, and which no socialist society can dispense with in the planning of its national economy. It is significant that Comrade Yaroshenko himself, who snorts so haughtily at Marx's "schemes of reproduction," is obliged every now and again to call in the help of these "schemes" when discussing problems of socialist reproduction.
+
+And how did Lenin and Marx view the matter?
+
+Everyone is familiar with Lenin's critical comments on Bukharin's Economics of the Transition Period. In these remarks, as we know, Lenin recognized that Marx's formula of the correlation between Departments I and II, against which Comrade Yaroshenko rises in arms, holds true both for socialism and for "pure communism," that is, for the second phase of communism.
+
+As to Marx, he, as we know, did not like to digress from his investigation of the laws of capitalist production, and did not, in his Capital, discuss the applicability of his schemes of reproduction to socialism. However, in Chapter XX, Vol. II of Capital, in the section, "The Constant Capital of Department I," where he examines the exchange of Department I products within this department, Marx, as though in passing, observes that under socialism the exchange of products within this department would proceed with the same regularity as under the capitalist mode of production. He says:
+
+If production were socialized, instead of capitalistic, it is evident that these products of Department I would just as regularly be redistributed as means of production to the various lines of production of this department, for purposes of reproduction, one portion remaining directly in that sphere of production which created it, another passing over to other lines of production of the same department, thereby entertaining a constant mutual exchange between the various lines of production of this department."
+
+Consequently, Marx by no means considered that his theory of reproduction was valid only for the capitalist mode of production, although it was the laws of the capitalist mode of production he was investigating. We see, on the contrary, that he held that his theory of reproduction might be valid also for the socialist mode of production.
+
+It should be remarked that, when analyzing the economics of socialism and of the transitional period to communism in his Critique of the Gotha Program, Marx proceeds from the fundamental tenets of his theory of reproduction, evidently regarding them as obligatory for the communist system.
+
+It should also be remarked that when Engels, in his Anti-Duhring, criticizes Duhring's "socialitarian system" and discusses the economics of the socialist system, he likewise proceeds from the fundamental tenets of Marx's theory of reproduction, regarding them as obligatory for the communist system.
+
+Such are the facts.
+
+It appears, then, that here too, in the question of reproduction, Comrade Yaroshenko, despite his sneering attitude towards Marx's "schemes," has again landed on the shoals.
+
+4. Comrade Yaroshenko concludes his letter to the members of the Political Bureau with the proposal that the compilation of the "Political Economy of Socialism" be en-trusted to him. He writes: "On the basis of the definition of the province of die political-economic science of socialism outlined by me at the plenary meeting, in the working panel, and in the present letter, and utilizing the Marxist dialectical method, I could, with the help of two assistants, work out in the space of one year, or a year and a half at most, the theoretical solution of the basic problems of the political economy of social-ism, that is, expound the Marxist, Leninist-Stalinist theory of the political economy of socialism, a theory which would convert this science into an effective weapon of the struggle of the people for communism."
+
+It must be confessed that modesty is not one of Comrade Yaroshenko's failings - "even the other way round," it might be said, borrowing the style of some of our writers.
+
+It has already been pointed out above that Comrade Yaroshenko confuses the political economy of socialism with the economic policy of the directing bodies. That which he considers the province of the political economy of socialism - rational organization of the productive forces, economic planning, formation of social funds, etc. - is the province of the economic policy of the directing bodies, and not of the political economy of socialism.
+
+I say nothing of the fact that the serious blunders committed by Comrade Yaroshenko, and his un-Marxist "opinion" do not incline one to entrust him with such a task.
+
+Conclusions:
+
+i) The complaint Comrade Yaroshenko levels at the managers of the discussion is untenable, since they, being Marxists, could not in their summarizing documents reflect his un-Marxist "opinion";
+
+2) Comrade Yaroshenko's request to be entrusted with the writing of the political economy of socialism cannot be taken seriously, if only because it reeks of Khlestakovism.
+
+J. Stalin
+
+May 22, 1952

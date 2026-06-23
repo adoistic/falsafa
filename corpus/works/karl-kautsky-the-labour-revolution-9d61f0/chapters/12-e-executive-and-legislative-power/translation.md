@@ -1,0 +1,95 @@
+---
+work_id: "9d61f098-ee75-5bb8-b3cd-95dbf1085eb9"
+work_slug: "karl-kautsky-the-labour-revolution-9d61f0"
+work_title: The Labour Revolution
+author_name: Karl Kautsky
+chapter_number: 12
+chapter_title: (e) Executive and Legislative Power
+chapter_slug: "12-e-executive-and-legislative-power"
+variant_id: "7abc5a7c-749e-58f0-a52f-77c8d1290a20"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2797
+source_url: "https://www.marxists.org/archive/kautsky/1924/labour/ch02_c.htm"
+translator: H.J. Stenning
+---
+
+More thoroughly than the first two of its features, we must discuss the third characteristic of Lenin’s (that is the Lenin of 1917) proletarian democracy, viz.: the union of legislative and executive power in the same body, as in the Paris Commune during the rising of 1871.
+
+Unfortunately Marx describes this requirement without elucidating it. He merely says that in this way the Commune would be transformed from a parliamentary into a working body. In his introduction to the new edition of the Civil War, in 1891, Engels does indeed deal with the first two of the three requirements we are discussing, but he ignores the third, which most needed his elucidation.
+
+It is more than likely that, as regards the demand for the union of executive and legislative power, both Marx and the Communards had in mind the example of the French Convention from 1792 onwards.
+
+This combination arose out of the conditions which characterized the French Revolution at the time of the Convention, the third national assembly since 1789.
+
+At that time France was at war with almost the whole of Europe: Austria, Prussia, Italy, Spain, the Netherlands, England. Only Russia was left out, being busy devouring the rest of Poland. The old French Army was dissolved, and the new Army was in course of formation. The generals were unreliable, and some of them rank traitors. The position of the ministers was shaky in the extreme. The old bureaucratic machinery had been shattered, while new machinery had not yet been constructed. The individual departments did what they liked.
+
+In this situation there were only three factors which held the tottering State together: there was Paris, which was dominated by an extremely energetic working class and formed a gigantic compact force; then there were the highly organized Jacobin Clubs, whose centre was in Paris, and whose ramifications extended in all parts of the State. Thirdly, there was the Convention, the popular representative body of the whole of France, towards which all revolutionary Frenchmen looked in their need, but which was only imbued with strength and determination by the Parisian workers and the Jacobin Clubs.
+
+When the executive power, composed of the ministers, the generals, and the provincial officials, broke down, the Jacobins and the Parisians impelled the Convention to take upon itself the executive, and even the highest legal functions. Deputies from the Convention were posted by the side of the generals, in order to supervise them; and by the side of the ministers, in order to spur them on. Deputies were sent to the provinces, in order to accelerate the execution of the decree for general military service.
+
+In this way the Convention actually accomplished great things, and in conjunction with Paris and the Jacobin Clubs, saved the Revolution. But it must not be forgotten that this union of the executive and the legislative power was effected under entirely abnormal conditions, conditions which no one would like to be repeated: resistance to the invasion of superior forces conducted at a time when the country’s own executive officials had abdicated their functions.
+
+Every war has the tendency to promote the concentration of the power of the State into few hands. As a rule it is the executive and the judicial powers which assimilate or subordinate the other powers. The war of the Great Revolution found the executive power of the Republic in complete dissolution. The Convention, or the legislative power, remained the only State power which was full of energy. And this was for the most part the transmitted energy of the Parisian working class.
+
+Foreign war or civil war is the worst condition under which a new mode of production can be organized. War or civil war, under certain social conditions, may be very propitious, even indispensable, for the conquest of political power. It may also assist to remove the obstacles to reconstruction. But it is not adapted to promote systematic social reorganization. Generally it renders this task quite impossible, as it subordinates the whole of life to its own ends, which are merely those of destruction.
+
+For the period of transition from capitalism to socialism we most urgently require peace both at home and abroad. Not in the sense of a reconciliation of classes, but in the sense that they will fight out their differences with the agencies of democracy, and not of force. Under these conditions, however, there would not be the slightest reason for combining the executive with the legislative power, and there would be many cogent reasons against it.
+
+Division of labour is the great law of progress. The greater the division of labour that has been effected amongst its organs, the higher an organism stands in the scale of development. It is not every system of division of labour that spells progress, but only that which preserves the harmony of the parts and makes their co-operation subservient to the whole. A division of labour in which a part is perfected at the expense of the whole cannot be regarded as progressive. But where a division of labour is successfully functioning, it would be a retrograde step to abolish it by transferring the functions of various organs to a single organ.
+
+The division of labour that has been effected in the course of a thousand years of social development among the executive, the legislative, and the juridical organs in the State is not an arbitrary growth. It has been increasingly improved because each of these functions require different conditions for their most efficient performance.
+
+The executive power has to act. It has to make rapid decisions for special occasions, and execute them immediately. For this purpose a large body is unsuitable. The most rapid and drastic decisions can be best taken by one person. Consequently war, which renders such decisions most urgently necessary, favours the widest possible supremacy of one person.
+
+The executive power, therefore, constantly results in the supremacy of one or few persons, of a monarch, president, ministry, etc. Even the Convention could not escape from this necessity. In March 1793 it appointed the Committee of Public Safety, comprising nine, and later twelve, members. The latter was above the ministers; it appointed officials and generals, as well as commissaries, with unlimited authority; in short, it, and not the Convention, was the real sovereign power. But even this committee was too large to secure rapid and decisive results. It divided itself into three groups, each consisting of three men, of which one carried on the war administration, the second conducted the political police work, while the third maintained contact with the provinces.
+
+Of these groups two were specially important, that relating to the war and that relating to the political police, and in each of the two one man was in control, Carnot in the first case and Robespierre in the second. Eventually, the latter gained the greatest power of all. In fact, the Convention was not free from the fear of Robespierre’s dictatorship until his fall on the Ninth Thermidor (July 27th).
+
+The actual separation of the executive from the legislative power and its concentration within a few hands were effected at that time by the force of circumstances.
+
+If the nature of things determines that the executive power may only be entrusted to a small committee, the converse is the case with the legislative assembly. This forms the substitute for the assembly of the people, which was the depository of supreme power among primitive communities. It chose executive and juridical officials for definite purposes, and reserved to itself the supervision of these officials as well as of legislation. When the primitive communities were united into large States through the rise of the State power, their population was too numerous and scattered over too wide an area to permit the whole of the members to meet and discuss at a single gathering. This was one of the reasons why, since the rise of the State, the executive powers have been able to achieve increasing independence of the popular will, progressively to assimilate both the legislative and juridical powers, and to replace the primitive democracy by an aristocratic constitution or an absolute monarchy. The new democracy, which commenced to assert itself with the rise and consolidation of the towns, could not revert to the people’s assembly as the supreme power in the State. It had to fashion a type of popular assembly in which all the districts of the State and all the interests which were strong enough to be important could secure adequate representation.
+
+This body is therefore provided with the largest possible membership. Of course, certain limits must be assigned to a body which is to be a debating, and not a demonstrative, assembly. The expansion of a legislative assembly generally approaches these limits. The membership of the parliaments of our time averages 400 to 500. It is true that the membership of the French Estates General of 1789 amounted to 1,200, but it was anticipated that the 600 members of the Third Estate, the 300 of the First, and likewise many of the Second Estates would deliberate separately. The later Parliaments of the Revolution comprised 745 members, all of whom were almost never present at once. Yet 721 deputies took part in the vote upon the condemnation of Louis XVI.
+
+A corporation of several hundred members is in the nature of the case too cumbrous an apparatus for the functions of an executive power.
+
+For the functioning of the latter unanimity and determination are required. We have already referred to the fact that we have entered upon an era of coalition Governments. We do not regard this fact with satisfaction, but as an evil, which is only tolerable because the alternative, an anti-Labour government, would be a greater evil. But a Government that is to do great things must be homogeneous. We may not, therefore, expect any substantial progress until we have passed out of the phase of coalition Governments and entered that of purely socialist governments. To shorten the first phase as far as possible is our most urgent task. But how would it be possible to have a purely socialist executive, if the functions of the executive were combined with those of the legislature in one assembly, which contained a strong anti-socialist opposition?
+
+History also shows us that an assembly which possesses executive as well as legislative powers cannot tolerate opposition. Scarcely had the Convention assumed the functions of the executive than it expelled and imprisoned thirty-four of its members on account of their political opinions (Girondistes), and shortly afterwards seventy-three more were expelled. Those who could not escape were guillotined. Later Danton and his friends among the members of the Convention were sent to the scaffold, where they were eventually followed by Robespierre and his supporters.
+
+An opposition within an executive body is an extremely obstructive and sometimes a noxious thing. On the other hand, it is absolutely necessary for an assembly which is to enact laws, laws which should be able to stand all criticism. A governing party easily overlooks the defects in a Bill which it puts forth, being interested in the rights which the Bill confers rather than in the duties which it imposes on the population. Without an opposition which is not interested in, or is even hostile to, the governing party of the moment, a rigorous scrutiny of all the implications of a law would hardly be possible. The governing party itself needs the services of the opposition if it wants to remove all defects from the laws enacted by the Assembly.
+
+In order to provide for the most careful examination of Bills, the procedure of Parliaments provides that they should pass through three readings and committee stages. An executive power, on the other hand, must always be in a position to be able to take decisions without discussion.
+
+The frequently tedious procedure and the many speeches which are delivered in the Parliaments sometimes cause the latter to be held up to ridicule as mere “talking shops” which never do any good. Unfortunately, this reproach does not apply to Parliaments alone. The tendency to waste time through empty chatter is shared by them with every deliberative body. Will anyone assert that no superfluous speeches are delivered at popular meetings, conferences, or other gatherings? How many of those who pour scorn on Parliament as a talking shop are not inveterate gossips themselves?
+
+In the summer of 1917, when Lenin had not yet been able to mould the Soviets according to his desires, he wrote about them as follows:
+
+“Such heroes of putrid philistinism as the Skobeleffs and the Tseretellis, the Tchernoffs and the Avksentieffs, have managed to pollute even the Soviets, after the model of the most despicable middle class parliamentarism, by turning them into hollow talking shops.”(The State and Revolution, p.49)
+
+Parliaments are distinguished from most other deliberative assemblies by the fact that they provide a platform for all the great classes and parties in society, especially when universal suffrage prevails. This renders parliamentary proceedings important, but it also makes them protracted.
+
+There is no doubt that Parliaments often thresh straw, and do not thereby advance the cause of progress, but the institution is wrongly blamed for a fault which is due to the distribution of class power in society. The character of Parliament reflects the character of the classes and parties which dominate it. If the latter are reactionary or timid, Parliament will be the same. Those, revolutionaries who require Parliament to make the revolution for them, irrespective of whether the workers outside Parliament have become strong enough to assert their position in the State, will always be disappointed by parliamentarism.
+
+If Parliament has hitherto given little satisfaction to the workers, this is not due to the institution as such, but to the weakness of the workers in society. The middle class has become conservative, and this explains why Parliament is moribund. This fact would not be altered in the least if Parliament were differently organized, by combining the legislative with the executive power.
+
+The form of an institution is certainly not a matter of indifference. It must be adapted as far as possible to its purposes. But it is preposterous to imagine that a change in structure will bring about an alteration in function.
+
+If we alter the relative strength of parties, and create a compact and determined socialist majority among the people, Parliament will become a “working” body, and the parliamentary mill will supply rich grain, even if it merely exercises legislative functions.
+
+Besides which, it has yet another function. It has not merely to elaborate laws, but also to ensure that they are observed. Thus it has to control the executive power and the employment of the resources of the State.
+
+Where the executive and legislative powers are united in one hand, such control is absent, and the danger arises that the executive power will become all-powerful relative to the population. We have seen that the Convention, from the time when it combined the legislative and the executive powers, was constantly haunted by the fear that the result would be the dictatorship of a single person. In fact, it paved the way for Napoleon, “Robespierre on horseback.”
+
+This absolutely contradicts the object which Marx defined in his Civil War, where he demanded that the State should cease to be “independent of, and superior to the nation,” and that the “legitimate functions of the old Government” should be wrested “from an authority which claims to be above society, and handed over to the responsible servants of society.”
+
+In place of the State, Marx foresaw “a national delegation in Paris,” confronting “a central government with few but very important functions.” This, however, implied the same separation of legislative and executive powers which Marx desired to see abolished so far as the Commune was concerned.
+
+Consequently, it may well be doubted whether Marx desired the same institution for the State as for the Commune. But even if Marx wished to see all the powers of the State combined in a single body, this would signify nothing more than the persistence of memories of the great Middle Class Revolution, whose forms it was the custom to regard as those of revolutions in general, inasmuch as the peculiar conditions for the Labour Revolution had not yet developed with sufficient clearness. This did not take place until the last generation.
+
+If Bolshevism to-day persists in clinging to the forms of the Middle Class Revolution, this is an indication of the backwardness of Russian conditions. A peculiar irony of history lurks in the fact that Lenin seeks the special attributes of proletarian democracy in institutions which either characterize the Middle Class Revolution or arise from a condition of undeveloped middle class democracy.

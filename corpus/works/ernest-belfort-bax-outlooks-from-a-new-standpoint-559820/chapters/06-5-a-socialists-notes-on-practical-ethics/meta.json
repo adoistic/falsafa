@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-outlooks-from-a-new-standpoint-559820",
+  "work_title": "Outlooks From a New Standpoint",
+  "chapter_number": 6,
+  "chapter_title": "5. A Socialists’ Notes on Practical Ethics",
+  "chapter_slug": "06-5-a-socialists-notes-on-practical-ethics",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "77fa03dd-c434-5f71-9958-0f1722827b02",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5030,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1891/02/ethics.htm"
+    }
+  ]
+}

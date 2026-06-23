@@ -1,0 +1,26 @@
+{
+  "work_slug": "huldrych-zwingli-selected-works-of-huldrich-zwing-7053d2",
+  "work_title": "Selected Works of Huldrich Zwingli",
+  "chapter_number": 31,
+  "chapter_title": "Zwingli. (18)",
+  "chapter_slug": "31-zwingli-18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "22ed0918-0ce0-5ecd-b54e-429b3a2bdf51",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 132,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/zwingli-selected-works-of-huldrich-zwingli"
+    }
+  ]
+}

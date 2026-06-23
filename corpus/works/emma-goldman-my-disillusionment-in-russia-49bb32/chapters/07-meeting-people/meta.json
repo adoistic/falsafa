@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 7,
+  "chapter_title": "Meeting People",
+  "chapter_slug": "07-meeting-people",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37c5b128-fd41-502c-aabf-dc9765a7c82d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2126,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch05.htm"
+    }
+  ]
+}

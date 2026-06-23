@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 25,
+  "chapter_title": "Seventh Proposition. Property is impossible, because, in consuming its Receipts, it loses them; in hoarding them, it nul",
+  "chapter_slug": "25-seventh-proposition-property-is-impossible-because",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5547612-7706-5c7c-b69b-017c2664f29e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1722,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch04.htm"
+    }
+  ]
+}

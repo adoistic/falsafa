@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-more-utopia-e4b41c",
+  "work_title": "Utopia",
+  "chapter_number": 10,
+  "chapter_title": "Of Their Traffic",
+  "chapter_slug": "10-of-their-traffic",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f062b536-d7d2-59f3-b64c-d3f1f7e5de73",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2063,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/more/works/utopia/ch6.html"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 79,
-  "chapter_title": "SECTION II.: Of the different Modes of Assessment, and the Classes they press upon respectively.",
+  "chapter_title": "Section IV.: Of the Territorial or Land-Tax of England.",
   "chapter_slug": "79",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 6064,
-      "paragraph_count": 57,
+      "word_count": 591,
+      "paragraph_count": 5,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

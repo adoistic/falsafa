@@ -2,7 +2,7 @@
   "work_slug": "mary-wollstonecraft-a-vindication-of-the-rights-of-w-7ebb3a",
   "work_title": "A Vindication of the Rights of Woman",
   "chapter_number": 5,
-  "chapter_title": "CHAPTER II: the prevailing opinion of a sexual character discussed",
+  "chapter_title": "Chapter III: the same subject continued",
   "chapter_slug": "05",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 8286,
-      "paragraph_count": 72,
+      "word_count": 5453,
+      "paragraph_count": 51,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/wollstonecraft-a-vindication-of-the-rights-of-woman"
     }

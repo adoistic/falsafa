@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-labour-revolution-9d61f0",
+  "work_title": "The Labour Revolution",
+  "chapter_number": 33,
+  "chapter_title": "(c) The Socialization of Large Estates",
+  "chapter_slug": "33-c-the-socialization-of-large-estates",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0318ddf1-9353-5227-ab44-da831d0a64cb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3347,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1924/labour/ch03_i.htm"
+    }
+  ]
+}

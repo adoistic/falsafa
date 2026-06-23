@@ -1,177 +1,62 @@
 [
   {
-    "id": "p-aacdf0",
+    "id": "p-8f4bb1",
     "offset": 0,
-    "text": "1. Give the converse by negation of--"
+    "text": "1. Give, as far as possible, the logical converse of each of the following propositions--"
   },
   {
-    "id": "p-46989c",
-    "offset": 39,
-    "text": "(1) All women are lovely."
+    "id": "p-603d8b",
+    "offset": 91,
+    "text": "(1) Energy commands success."
   },
   {
-    "id": "p-b92541",
-    "offset": 66,
-    "text": "(2) Some statesmen are not practical."
+    "id": "p-0638ee",
+    "offset": 121,
+    "text": "(2) Mortals cannot be happy."
   },
   {
-    "id": "p-61ac02",
-    "offset": 105,
-    "text": "(3) All lawyers are honest."
+    "id": "p-64a715",
+    "offset": 151,
+    "text": "(3) There are mistakes which are criminal."
   },
   {
-    "id": "p-3f2299",
-    "offset": 134,
-    "text": "(4) All doctors are skilful."
+    "id": "p-0ce0ce",
+    "offset": 195,
+    "text": "(4) All's well that ends well."
   },
   {
-    "id": "p-9c41df",
-    "offset": 164,
-    "text": "(5) Some men are not rational."
+    "id": "p-f48ca2",
+    "offset": 227,
+    "text": "(5) Envious men are disliked."
   },
   {
-    "id": "p-9aa253",
-    "offset": 196,
-    "text": "2. Give the contrapositive of--"
+    "id": "p-d10c63",
+    "offset": 258,
+    "text": "(6) A term is a kind of word or collection of words."
   },
   {
-    "id": "p-d2bc4a",
-    "offset": 229,
-    "text": "(1) All solid substances are material."
+    "id": "p-1dedbc",
+    "offset": 312,
+    "text": "(7) Some Frenchmen are not vivacious."
   },
   {
-    "id": "p-0197e7",
-    "offset": 269,
-    "text": "(2) All the men who do not row play cricket."
+    "id": "p-8a0189",
+    "offset": 351,
+    "text": "(8) All things in heaven and earth were hateful to him."
   },
   {
-    "id": "p-a2dc1d",
-    "offset": 315,
-    "text": "(3) All impeccable beings are other than human,"
+    "id": "p-e5ed18",
+    "offset": 408,
+    "text": "(9) The square of three is nine."
   },
   {
-    "id": "p-ebf8d2",
-    "offset": 364,
-    "text": "(4) Some prejudiced persons are not dishonest."
+    "id": "p-51c17e",
+    "offset": 442,
+    "text": "(10) All cannot receive this saying."
   },
   {
-    "id": "p-f9262e",
-    "offset": 412,
-    "text": "3. Prove indirectly the truth of the contrapositive of 'All A is B.'"
-  },
-  {
-    "id": "p-5d6a23",
-    "offset": 482,
-    "text": "4. Criticise the following as immediate inferences--"
-  },
-  {
-    "id": "p-507474",
-    "offset": 536,
-    "text": "(1) All wise men are modest. .'. No immodest men are wise."
-  },
-  {
-    "id": "p-7ba65f",
-    "offset": 596,
-    "text": "(2) Some German students are not industrious. .'. Some industrious students are not Germans."
-  },
-  {
-    "id": "p-19e864",
-    "offset": 690,
-    "text": "(3) Absolute difference excludes all likeness. .'. Any likeness is a proof of sameness."
-  },
-  {
-    "id": "p-0ee64b",
-    "offset": 779,
-    "text": "(4) None but the brave deserve the fair. .'. All brave men deserve the fair."
-  },
-  {
-    "id": "p-ffd506",
-    "offset": 857,
-    "text": "(5) All discontented men are unhappy. .'. No contented men are unhappy."
-  },
-  {
-    "id": "p-693be0",
-    "offset": 930,
-    "text": "(6) Books being a source of instruction, our knowledge must come from our libraries."
-  },
-  {
-    "id": "p-a947ae",
-    "offset": 1016,
-    "text": "(7) All Jews are Semitic. .'. Some non-Semitic people are not Jews."
-  },
-  {
-    "id": "p-78f37a",
-    "offset": 1085,
-    "text": "5. Show by what kind of inference each of the subjoined propositions follows from"
-  },
-  {
-    "id": "p-ef08dd",
-    "offset": 1168,
-    "text": "All discontented men are unhappy."
-  },
-  {
-    "id": "p-16a14e",
-    "offset": 1203,
-    "text": "(1) All happy men are contented."
-  },
-  {
-    "id": "p-97c769",
-    "offset": 1237,
-    "text": "(2) Some discontented men are unhappy."
-  },
-  {
-    "id": "p-be5511",
-    "offset": 1277,
-    "text": "(3) Some contented men are happy."
-  },
-  {
-    "id": "p-66aaf7",
-    "offset": 1312,
-    "text": "(4) Some unhappy men are not contented."
-  },
-  {
-    "id": "p-b7e019",
-    "offset": 1353,
-    "text": "(5) No discontented men are happy."
-  },
-  {
-    "id": "p-a152c4",
-    "offset": 1389,
-    "text": "(6) Some happy men are contented."
-  },
-  {
-    "id": "p-c4fc71",
-    "offset": 1424,
-    "text": "(7) Some contented men are not unhappy."
-  },
-  {
-    "id": "p-1ac53a",
-    "offset": 1465,
-    "text": "(8) Some unhappy men are discontented."
-  },
-  {
-    "id": "p-0f4129",
-    "offset": 1505,
-    "text": "(9) No happy men are discontented."
-  },
-  {
-    "id": "p-1fb79c",
-    "offset": 1541,
-    "text": "(10) Some discontented men are not happy."
-  },
-  {
-    "id": "p-386df0",
-    "offset": 1584,
-    "text": "(11) Some happy men are not discontented."
-  },
-  {
-    "id": "p-27dd32",
-    "offset": 1627,
-    "text": "(12) None but unhappy men are discontented."
-  },
-  {
-    "id": "p-fe941d",
-    "offset": 1672,
-    "text": "From how many of these propositions can the original one be derived? And why not from all?"
+    "id": "p-59b031",
+    "offset": 480,
+    "text": "2. 'More things may be contained in my philosophy than exist in heaven or earth: but the converse proposition is by no means true.' Is the term converse here used in its logical meaning?"
   }
 ]

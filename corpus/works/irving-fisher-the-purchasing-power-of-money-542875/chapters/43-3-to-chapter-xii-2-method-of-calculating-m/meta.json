@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 43,
+  "chapter_title": "§ 3 (to Chapter XII, § 2) Method of Calculating M'",
+  "chapter_slug": "43-3-to-chapter-xii-2-method-of-calculating-m",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "436544a5-fcf2-58a3-a3d3-dbae7dcbf61c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2064,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

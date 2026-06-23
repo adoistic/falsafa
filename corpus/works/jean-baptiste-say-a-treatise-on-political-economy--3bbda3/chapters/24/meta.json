@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 24,
-  "chapter_title": "SECTION III.: Of Privileged Trading Companies.",
+  "chapter_title": "Book I, Chapter XVIII: Of the Effect upon National Wealth, Resulting from the Productive Efforts of Public Authority.",
   "chapter_slug": "24",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2287,
-      "paragraph_count": 17,
+      "word_count": 1525,
+      "paragraph_count": 12,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

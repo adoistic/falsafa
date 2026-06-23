@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-development-of-capitalism-in-4f48ed",
+  "work_title": "The Development of Capitalism in Russia",
+  "chapter_number": 1,
+  "chapter_title": "Preface To the First Edition",
+  "chapter_slug": "01-preface-to-the-first-edition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "83e08edc-d8ed-51bb-a45d-a1596f702435",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1346,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1899/devel/preface1.htm"
+    }
+  ]
+}

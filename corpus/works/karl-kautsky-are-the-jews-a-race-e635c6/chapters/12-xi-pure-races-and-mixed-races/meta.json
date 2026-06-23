@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-are-the-jews-a-race-e635c6",
+  "work_title": "Are the Jews a Race?",
+  "chapter_number": 12,
+  "chapter_title": "XI. Pure Races and Mixed Races",
+  "chapter_slug": "12-xi-pure-races-and-mixed-races",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bc1a7b37-1866-554d-8895-9a0c96ef5953",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5633,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1914/jewsrace/ch11.htm"
+    }
+  ]
+}

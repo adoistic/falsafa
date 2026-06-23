@@ -1,0 +1,26 @@
+{
+  "work_slug": "michel-de-montaigne-literary-and-philosophical-essay-6e6fc6",
+  "work_title": "Literary and Philosophical Essays: French, German and Italian",
+  "chapter_number": 18,
+  "chapter_title": "Letter XVII",
+  "chapter_slug": "18-letter-xvii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "62a45fcf-99e7-5dcb-96d5-877072df62a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 842,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5637"
+    }
+  ]
+}

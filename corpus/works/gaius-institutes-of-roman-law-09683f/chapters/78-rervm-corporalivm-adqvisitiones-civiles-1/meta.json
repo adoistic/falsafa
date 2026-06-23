@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 78,
+  "chapter_title": "Rervm Corporalivm Adqvisitiones Civiles. (1)",
+  "chapter_slug": "78-rervm-corporalivm-adqvisitiones-civiles-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "47d2c915-914f-57ba-ab14-b8dfc279b3d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 502,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

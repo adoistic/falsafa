@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 9
-chapter_title: "LETTER IX.: Blackstone considered."
+chapter_title: "Letter IX.: Blackstone considered."
 chapter_slug: 09
 variant_id: "603155e9-159b-5412-a055-198a2459bba2"
 content_type: translation

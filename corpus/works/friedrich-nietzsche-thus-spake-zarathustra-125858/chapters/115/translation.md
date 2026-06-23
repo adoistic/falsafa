@@ -1,0 +1,21 @@
+---
+work_id: "125858cf-fea7-5292-b00d-5f4f6d6e46e4"
+work_slug: "friedrich-nietzsche-thus-spake-zarathustra-125858"
+work_title: Thus Spake Zarathustra
+author_name: Friedrich Nietzsche
+chapter_number: 115
+chapter_title: Chapter LXII — The Cry of Distress
+chapter_slug: 115
+variant_id: "32fd2877-e275-5a5e-b2f3-605d9cca9238"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 167
+source_url: "https://www.gutenberg.org/ebooks/1998"
+translator: Project Gutenberg edition
+---
+
+We now meet with Zarathustra in extraordinary circumstances. He is confronted with Schopenhauer and tempted by the old Soothsayer to commit the sin of pity. “I have come that I may seduce thee to thy last sin!” says the Soothsayer to Zarathustra. It will be remembered that in Schopenhauer’s ethics, pity is elevated to the highest place among the virtues, and very consistently too, seeing that the Weltanschauung is a pessimistic one. Schopenhauer appeals to Nietzsche’s deepest and strongest sentiment—his sympathy for higher men. “Why dost thou conceal thyself?” he cries. “It is THE HIGHER MAN that calleth for thee!” Zarathustra is almost overcome by the Soothsayer’s pleading, as he had been once already in the past, but he resists him step by step. At length he can withstand him no longer, and, on the plea that the higher man is on his ground and therefore under his protection, Zarathustra departs in search of him, leaving Schopenhauer—a higher man in Nietzsche’s opinion—in the cave as a guest.

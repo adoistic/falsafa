@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 9
-chapter_title: "Chapter VIII: OF INTENTIONALITY"
+chapter_title: "Chapter VIII: Of Intentionality"
 chapter_slug: 09
 variant_id: "a6fb850e-060c-575e-8d0b-b0a645aa02f2"
 content_type: translation

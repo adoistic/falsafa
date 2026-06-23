@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-one-step-forward-two-steps-back--9a5c6a",
+  "work_title": "One Step Forward, Two Steps Back (The Crisis in Our Party)",
+  "chapter_number": 12,
+  "chapter_title": "K. Continuation of the Debate on the Rules. Composition of the Council.",
+  "chapter_slug": "12-k-continuation-of-the-debate-on-the-rules-composit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5162eb7e-ef35-5ee7-ad58-fbc4db6d50ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2234,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1904/onestep/k.htm"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
   "work_title": "The Miscellaneous Works of Sir James Mackintosh",
   "chapter_number": 69,
-  "chapter_title": "SECTION V.: English admirers vindicated.",
+  "chapter_title": "Section VI.: Speculations on the probable consequences of the French Revolution in Europe.",
   "chapter_slug": "69",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 8742,
-      "paragraph_count": 41,
+      "word_count": 2648,
+      "paragraph_count": 11,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
+  "work_title": "The Thoughts (Pensées) of Blaise Pascal",
+  "chapter_number": 32,
+  "chapter_title": "Thoughts on Style.",
+  "chapter_slug": "32-thoughts-on-style",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ff535032-f612-501e-84d3-b4baa9e9d01c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1407,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-the-thoughts-of-blaise-pascal"
+    }
+  ]
+}

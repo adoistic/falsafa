@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 40,
+  "chapter_title": "Letter 40",
+  "chapter_slug": "40-letter-40",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "71332bf4-9d44-55dc-b0b3-636c957349c7",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2806ae3d-501a-5e4b-9537-a06183979d11",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1149,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

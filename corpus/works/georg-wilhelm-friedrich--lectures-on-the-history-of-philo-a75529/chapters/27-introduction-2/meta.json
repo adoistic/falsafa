@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 27,
+  "chapter_title": "Introduction (2)",
+  "chapter_slug": "27-introduction-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e22721c6-bf08-5e28-9260-4529bbfbc79d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7708,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hpfrench.htm"
+    }
+  ]
+}

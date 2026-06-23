@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 16,
+  "chapter_title": "[Part I, Section 3] Objections to Amendment, 1. On the part of labourers",
+  "chapter_slug": "16-part-i-section-3-objections-to-amendment-1-on-the-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "defa89da-c1c6-586e-914f-ceb4b4338bba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1363,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 45,
+  "chapter_title": "Chapter III: Why The Americans Display More Readiness And More Taste For General Ideas Than Their Forefathers, The Engli",
+  "chapter_slug": "45",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "efd4224f-2306-50fb-a850-37efc853cd3e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1879,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch21.htm"
+    }
+  ]
+}

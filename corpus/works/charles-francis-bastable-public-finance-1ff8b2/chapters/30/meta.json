@@ -2,7 +2,7 @@
   "work_slug": "charles-francis-bastable-public-finance-1ff8b2",
   "work_title": "Public Finance",
   "chapter_number": 30,
-  "chapter_title": "CHAPTER I: taxes on land",
+  "chapter_title": "Chapter IV: taxes on property and income",
   "chapter_slug": "30",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 5296,
-      "paragraph_count": 27,
+      "word_count": 7263,
+      "paragraph_count": 39,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/bastable-public-finance"
     }

@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 74
-chapter_title: CHAPTER XXXIV.
+chapter_title: Chapter XXXVIII.
 chapter_slug: 74
 variant_id: "c1a7b457-2996-5fd3-9c7c-6e872e415c15"
 content_type: translation
@@ -13,13 +13,17 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 238
+word_count: 451
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How he can express the created world by his Word.
+It cannot be explained why they are two, although they must be so.
 
-But how can objects so different as the creative and the created being be expressed by one Word, especially since that Word itself is coeternal with him who expresses them, while the created world is not coeternal with him? Perhaps, because he himself is supreme Wisdom and supreme Reason, in which are all things that have been created; just as a work which is made after one of the arts, not only when it is made, but before it is made, and after it is destroyed, is always in respect of the art itself nothing else than what that art is.
+Our careful attention is therefore demanded by a peculiarity which, though most unusual in other beings, seems to belong to the supreme Spirit and his Word. For, it is certain that in each of these separately and in both simultaneously, whatever they are so exists that it is separately perfected in both, and yet does not admit plurality in the two. For although, taken separately, he is perfectly supreme Truth and Creator, and his Word is supreme Truth and Creator; yet both at once are not two truths or two creators.
 
-Hence, when the supreme Spirit expresses himself, he expresses all created beings. For, both before they were created, and now that they have been created, and after they are decayed or changed in any way, they are ever in him not what they are in themselves, but what this Spirit himself is. For, in themselves they are mutable beings, created according to immutable reason; while in him is the true first being, and the first reality of existence, the more like unto which those beings are in any way, the more really and excellently do they exist. Thus, it may reasonably be declared that, when the supreme Spirit expresses Edition: current; Page: [99] himself, he also expresses whatever has been created by one and the same Word.
+But although this is true, yet it is most remarkably clear that neither he, whose is the Word, can be his own Word, nor can the Word be he, whose Word it is, although in so far as regards either what they are substantially, or what relation they bear to the created world, they ever preserve an indivisible unity. But in respect of the fact that he does not derive existence from that Word, but that Word from him, they admit an ineffable plurality, ineffable, certainly, for although necessity requires that they be two, it can in no wise be explained why they are two.
+
+For although they may perhaps be called two equals, or some other mutual relation may in like manner be attributed to them, yet if it were to be asked what it is in these very relative expressions with reference to which they are used, it cannot be expressed plurally, as one speaks of two equal lines, or two like men. For, neither are there two equal spirits nor two equal creators, nor is there any dual expression which indicates either their essence or their relation to the created world; and there is no dual expression which designates the peculiar relation of the one to the other, since there are neither two words nor two images.
+
+For the Word, by virtue of the fact that it is a word or image, bears a relation to the other, because it is Word and image only as it is the Word and image of something; and so peculiar are these attributes to the one that they are by no means predicable of the other. For he, whose is the Word and image, is neither image nor Word. It is, therefore, evident that it cannot be explained why they are two, the supreme Spirit and the Word, although by certain properties of each they are required to be two. For it is the property of the one to derive existence from the other, and the property of that other that the first derives existence from him.

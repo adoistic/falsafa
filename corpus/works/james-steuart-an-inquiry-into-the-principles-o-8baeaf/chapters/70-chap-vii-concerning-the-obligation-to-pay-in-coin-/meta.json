@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 70,
+  "chapter_title": "Chap. VII : Concerning the Obligation to pay in Coin, and the Consequences thereof",
+  "chapter_slug": "70-chap-vii-concerning-the-obligation-to-pay-in-coin-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7e21adfe-1d0a-593f-9639-08e31ccd8761",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1352,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+    }
+  ]
+}

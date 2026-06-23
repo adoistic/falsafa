@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-james-essays-in-radical-empiricism-8cbaba",
+  "work_title": "Essays in Radical Empiricism",
+  "chapter_number": 8,
+  "chapter_title": "VII. Conclusion",
+  "chapter_slug": "08-vii-conclusion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e739ccd3-e754-5443-aeb4-2cfaca4937ab",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 36045,
+      "paragraph_count": 388,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/32547"
+    }
+  ]
+}

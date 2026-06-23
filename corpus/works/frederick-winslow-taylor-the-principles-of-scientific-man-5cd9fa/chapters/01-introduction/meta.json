@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-winslow-taylor-the-principles-of-scientific-man-5cd9fa",
+  "work_title": "The Principles of Scientific Management",
+  "chapter_number": 1,
+  "chapter_title": "Introduction",
+  "chapter_slug": "01-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b7df6e4-2aa2-5fa6-b450-5c0a7b3105d1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 795,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/taylor/principles/introduction.htm"
+    }
+  ]
+}

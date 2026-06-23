@@ -1,0 +1,26 @@
+{
+  "work_slug": "robert-owen-a-new-view-of-society-or-essays--86b618",
+  "work_title": "A New View of Society, Or, Essays on the Principle of the Formation of the Human Character",
+  "chapter_number": 3,
+  "chapter_title": "Essay Two",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "709551d4-5120-58dc-ab98-0a5bdac60022",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6978,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/owen/society/ch02.htm"
+    }
+  ]
+}

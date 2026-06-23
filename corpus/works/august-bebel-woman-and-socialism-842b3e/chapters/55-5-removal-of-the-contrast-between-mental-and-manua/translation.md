@@ -1,0 +1,33 @@
+---
+work_id: "842b3e93-fd9c-5651-b926-05aaa3f7671f"
+work_slug: "august-bebel-woman-and-socialism-842b3e"
+work_title: Woman and Socialism
+author_name: August Bebel
+chapter_number: 55
+chapter_title: 5. Removal of the Contrast between Mental and Manual Work.
+chapter_slug: "55-5-removal-of-the-contrast-between-mental-and-manua"
+variant_id: "6092e53a-7ec7-5fdf-8eef-a30a6d1cb9b4"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 940
+source_url: "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch21.htm"
+translator: Meta L. Stern (Hebe)
+---
+
+A need, deeply rooted in human nature, is the desire for freedom of choice and for the opportunity of a variation of occupations. just as the best food becomes disgusting if the same thing is constantly placed before us, so an occupation repeated daily in treadmill fashion weakens and dulls. Man performs his task mechanically and does what he must do, but without enthusiasm or joy. A number of talents and abilities are innate in every human being that need but to be awakened in order to find expression and produce favorable results. Only thereby man becomes a perfect human being. Socialistic society will offer ample opportunity for the satisfaction of this desire for variation. The immense increase in productive forces, combined with a simplified process of work, will not only make it possible to limit the hours of work considerably, it will also make it easy to master a number of varied accomplishments.
+
+The old system of apprenticeship has already been abandoned. It still exists, and is possible only among undeveloped and antiquated forms of production, as represented by small manufactures. But as these will completely disappear in the new society, all forms and institutions peculiar to them will disappear also. New ones will take their place. Even at present it can be seen in any factory how few workingmen have learned and practice a definite trade. The workingmen employed in some line of production or other may have learned the most varied trades. Usually a short time is sufficient for them to gain experience in one detail of the process of production, and to this one detail they are tied down then, according to the prevailing system of exploitation, for long hours, without the slightest variation, and without any regard for their personal tastes and inclinations. At the machine they become machines. This state of affairs, too, will be removed by the new social order. There will be ample time to practice manual skill and to develop the mechanical arts. Large, splendidly equipped polytechnical schools will make it easy for both young and old to learn an occupation. Chemical and physical laboratories, in keeping with the standards of these sciences, will be erected, and capable teachers will be on band. Only then will people fully recognize what a wealth of talent and ability has been suppressed or wrongly developed by the capitalistic system of production.
+
+Not only will it be possible to satisfy the desire for variation, it must be regarded as the purpose of society to satisfy this desire, since the harmonious development of man depends upon it.
+
+The professional types that we meet with in present-day society – be these types the product of a definite, one-sided occupation or of laziness – will gradually disappear. There are exceedingly few persons to-day who possess the possibility of a variety of occupations. Rarely one finds persons so favored by special circumstances, that they can escape the monotony of their daily task and can, after the performance of physical work, recuperate by mental work. On the other hand, we sometimes find mental workers who devote part of their time to some manual work, gardening and the like. The beneficial effects of an occupation founded on a variation of mental and physical work are obvious. Such occupation is the only one adapted to natural needs. It is taken for granted, of course, that every occupation must be practiced with moderation and according to individual strength.
+
+In his book on “The Significance of Science and Art,” Count Leo Tolstoi condemns the hypercritical and unnatural character that art and science have assumed as a result of our unnatural social conditions. He roundly condemns the fact that present-day society holds physical labor in contempt and advises a return to natural conditions. He asserts that every human being who wishes to live naturally and to enjoy life should spend his day – firstly, at physical work in agriculture; secondly, at some manual trade; thirdly, at some mental occupation, and fourthly, in intellectual social intercourse. No human being should perform more than eight hours of physical work. Tolstoi himself lived up to this ideal and claimed that he has only become truly human since he adopted this mode of life. But Tolstoi overlooks that what is possible for him, the man of independent means, is not possible for the vast, majority of people under present-day conditions. A man or woman who must work ten or twelve hours daily, and sometimes longer, to make a bare living, and who has grown tip in ignorance, cannot adopt Tolstoi’s mode of life. Neither can all those adopt it who are in the midst of the struggle for existence and must conform with its requirements; and of the few who might live in this manner, many would not wish to. It is one of the illusions in which Tolstoi indulges, to believe that exhortations and examples might transform societies. The experience made by Tolstoi, in regard to his mode of life, proves it to be a rational one. But to make this mode of life general, different social conditions, a new society, will be needed.
+
+The coming society will establish such conditions. It will produce countless scientists and artists, but all of these will devote a part of the day to physical labor, and the remainder of the day they will devote to their studies, their arts and to social intercourse, according to their tastes and wishes.
+
+The present contrast between mental and manual work, a contrast that is intensified by the ruling classes, who are anxious to secure their mental superiority also, will, accordingly, have to be removed.

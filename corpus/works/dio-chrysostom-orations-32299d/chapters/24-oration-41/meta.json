@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 24,
+  "chapter_title": "Oration 41",
+  "chapter_slug": "24-oration-41",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6b0c6752-f2de-58f2-9e45-cbeaf599c73d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1157,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ee87a7f-9e6e-5d7f-b10e-9e979f942c57",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1662,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

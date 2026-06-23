@@ -4,7 +4,7 @@ work_slug: "james-mill-elements-of-political-economy-3e1c36"
 work_title: Elements of Political Economy
 author_name: James Mill
 chapter_number: 6
-chapter_title: "Chapter II: DISTRIBUTION"
+chapter_title: "Chapter II: Distribution"
 chapter_slug: 06
 variant_id: "b059e350-c1a4-5932-9079-fba84ad7402a"
 content_type: translation

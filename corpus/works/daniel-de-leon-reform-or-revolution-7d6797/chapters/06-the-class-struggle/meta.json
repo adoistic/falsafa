@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-reform-or-revolution-7d6797",
+  "work_title": "Reform or Revolution?",
+  "chapter_number": 6,
+  "chapter_title": "The Class Struggle",
+  "chapter_slug": "06-the-class-struggle",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b6fe8371-3af2-5173-b12e-6e7c1517512a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 238,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1896/960126.htm"
+    }
+  ]
+}

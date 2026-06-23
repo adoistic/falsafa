@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 45,
+  "chapter_title": "The Transformation of the Value (and Respective Price) of Labour-Power into Wages",
+  "chapter_slug": "45-the-transformation-of-the-value-and-respective-pri",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "57881953-b83b-5a6a-80bb-3492fc895dae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2517,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch19.htm"
+    }
+  ]
+}

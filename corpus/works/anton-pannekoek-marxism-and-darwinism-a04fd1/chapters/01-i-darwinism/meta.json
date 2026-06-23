@@ -1,0 +1,26 @@
+{
+  "work_slug": "anton-pannekoek-marxism-and-darwinism-a04fd1",
+  "work_title": "Marxism and Darwinism",
+  "chapter_number": 1,
+  "chapter_title": "I. Darwinism",
+  "chapter_slug": "01-i-darwinism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "82708b6a-f8ea-5c1b-932a-b14d9244deea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2692,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/pannekoe/1912/marxism-darwinism.htm"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 39,
+  "chapter_title": "Oration 56",
+  "chapter_slug": "39-oration-56",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "025ed9a1-72b2-533d-acef-ab19c2253c2b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1161,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bb3d1e60-362d-5065-93b9-14fdce4ca5fe",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1558,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

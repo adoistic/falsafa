@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 54,
+  "chapter_title": "Chapter VIII.: Exposition of the Moral Law, Sections. (2)",
+  "chapter_slug": "54",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d712d540-fd20-5678-866d-d4cbc0f2177b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2449,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

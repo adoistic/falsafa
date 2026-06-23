@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 102,
+  "chapter_title": "Chapter II: That The Notions Of Democratic Nations On Government Are Naturally Favorable To The Concentration Of Power",
+  "chapter_slug": "102",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "914c7a96-269e-5781-acc8-520c42410ee8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1217,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch41.htm"
+    }
+  ]
+}

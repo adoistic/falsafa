@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 86,
+  "chapter_title": "Essay on the Funding System, (2)",
+  "chapter_slug": "86-essay-on-the-funding-system-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b3bd54bc-023e-52e3-bb41-c4eb901ac1a1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 17316,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

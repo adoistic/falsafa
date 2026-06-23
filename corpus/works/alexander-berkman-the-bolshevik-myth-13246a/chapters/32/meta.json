@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 32,
+  "chapter_title": "Chapter 31 : The Tcheka",
+  "chapter_slug": "32",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b3aef5fb-6bb4-5df1-bbce-bb23e33ae5d1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1262,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-31.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 70,
+  "chapter_title": "The Conclusion: Shewing how the Model propos’d may be prov’d or examin’d; and giving a brief Answer to Mr. Wren’s last B",
+  "chapter_slug": "70-the-conclusion-shewing-how-the-model-propos-d-may-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a55d943e-0ab4-5b68-b760-d1aa62f5ad39",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4076,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 24,
+  "chapter_title": "Sixth Proposition. Property is impossible, because it is the Mother of Tyranny.",
+  "chapter_slug": "24-sixth-proposition-property-is-impossible-because-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b1f1a1c1-23a1-586b-8063-aa67ae903f3b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 707,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch04.htm"
+    }
+  ]
+}

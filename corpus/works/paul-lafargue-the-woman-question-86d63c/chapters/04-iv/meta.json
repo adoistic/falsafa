@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-the-woman-question-86d63c",
+  "work_title": "The Woman Question",
+  "chapter_number": 4,
+  "chapter_title": "IV",
+  "chapter_slug": "04-iv",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3b0c4347-ee2e-5560-8123-bd2b6bb544bf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 930,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1904/xx/woman.htm"
+    }
+  ]
+}

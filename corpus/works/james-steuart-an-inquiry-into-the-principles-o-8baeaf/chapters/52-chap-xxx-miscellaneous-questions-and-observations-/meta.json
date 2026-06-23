@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 52,
+  "chapter_title": "Chap. XXX: Miscellaneous Questions and Observations relative to Trade and Industry",
+  "chapter_slug": "52-chap-xxx-miscellaneous-questions-and-observations-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd593abf-8500-596e-b8db-f72a63364d9d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 16147,
+      "paragraph_count": 145,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_28.htm"
+    }
+  ]
+}

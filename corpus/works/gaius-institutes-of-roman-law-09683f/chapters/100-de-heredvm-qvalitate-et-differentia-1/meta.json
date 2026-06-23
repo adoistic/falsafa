@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 100,
+  "chapter_title": "De Heredvm Qvalitate Et Differentia. (1)",
+  "chapter_slug": "100-de-heredvm-qvalitate-et-differentia-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cccd84ee-96cc-535e-9f74-e7fdf0735ade",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1015,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

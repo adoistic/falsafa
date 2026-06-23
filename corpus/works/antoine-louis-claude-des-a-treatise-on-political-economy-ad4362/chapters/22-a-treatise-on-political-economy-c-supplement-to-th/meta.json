@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362",
+  "work_title": "A Treatise on Political Economy",
+  "chapter_number": 22,
+  "chapter_title": "A Treatise on Political Economy, &c, Supplement to the First Section of the Elements of Ideology.",
+  "chapter_slug": "22-a-treatise-on-political-economy-c-supplement-to-th",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cc7f0518-5fdc-5ce3-b912-015745c899f8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 880,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 36,
+  "chapter_title": "A United Proletariat Necessary.",
+  "chapter_slug": "36-a-united-proletariat-necessary",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7345b6ca-dabb-5872-a375-01efa35ff041",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 578,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

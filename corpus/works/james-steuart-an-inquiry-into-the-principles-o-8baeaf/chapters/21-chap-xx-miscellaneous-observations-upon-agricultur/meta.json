@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 21,
+  "chapter_title": "Chap. XX Miscellaneous Observations upon Agriculture and Population",
+  "chapter_slug": "21-chap-xx-miscellaneous-observations-upon-agricultur",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49e2e898-703e-5144-8b56-60e3b7a573ed",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5822,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book1_17.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-the-international-situation-a-st-60a333",
+  "work_title": "The International Situation: A Study of Capitalism in Collapse",
+  "chapter_number": 6,
+  "chapter_title": "VI. The Working Class and the Post-Bellum Period",
+  "chapter_slug": "06-vi-the-working-class-and-the-post-bellum-period",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7dea108a-500f-5f9f-93f2-32f2bdb54809",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1229,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1921/x01/x02.htm"
+    }
+  ]
+}

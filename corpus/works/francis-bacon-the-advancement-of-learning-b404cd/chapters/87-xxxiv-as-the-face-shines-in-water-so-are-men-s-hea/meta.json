@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 87,
+  "chapter_title": "Xxxiv.—: As the face shines in water, so are men’s hearts manifest to the wise",
+  "chapter_slug": "87-xxxiv-as-the-face-shines-in-water-so-are-men-s-hea",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b499f289-f98f-52e4-9af3-5f62576a7f81",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8178,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

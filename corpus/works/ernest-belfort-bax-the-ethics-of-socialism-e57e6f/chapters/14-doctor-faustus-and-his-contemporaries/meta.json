@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-ethics-of-socialism-e57e6f",
+  "work_title": "The Ethics of Socialism",
+  "chapter_number": 14,
+  "chapter_title": "Doctor Faustus and his Contemporaries",
+  "chapter_slug": "14-doctor-faustus-and-his-contemporaries",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "56999b0b-49fb-5f66-bc33-4dc324c04920",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9249,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1887/11/faustus.htm"
+    }
+  ]
+}

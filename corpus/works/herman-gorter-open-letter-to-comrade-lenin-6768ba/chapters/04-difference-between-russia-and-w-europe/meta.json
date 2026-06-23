@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 4,
+  "chapter_title": "Difference Between Russia and W. Europe.",
+  "chapter_slug": "04-difference-between-russia-and-w-europe",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "09e18307-4631-568f-bc55-344337628c78",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 409,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

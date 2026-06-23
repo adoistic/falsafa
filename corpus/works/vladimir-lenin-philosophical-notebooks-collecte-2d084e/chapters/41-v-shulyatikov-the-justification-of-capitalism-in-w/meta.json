@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 41,
+  "chapter_title": "V. Shulyatikov. The Justification of Capitalism in West-European Philosophy. (From Descartes to E. Mach). Moscow, 1908",
+  "chapter_slug": "41-v-shulyatikov-the-justification-of-capitalism-in-w",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9e9ae510-1887-5069-9d2f-d78eac3fd51f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4199,
+      "paragraph_count": 188,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1908/remarks/ch04.htm"
+    }
+  ]
+}

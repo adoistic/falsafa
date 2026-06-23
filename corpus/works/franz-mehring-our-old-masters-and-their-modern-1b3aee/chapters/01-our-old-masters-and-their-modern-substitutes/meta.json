@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-mehring-our-old-masters-and-their-modern-1b3aee",
+  "work_title": "Our Old Masters and Their Modern Substitutes",
+  "chapter_number": 1,
+  "chapter_title": "Our Old Masters and Their Modern Substitutes",
+  "chapter_slug": "01-our-old-masters-and-their-modern-substitutes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14bf50c9-1d92-5105-b49e-4bb9f187db4e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2995,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/mehring/1917/09/masters.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-ferdinand-lassalle-as-a-social-r-a97060",
+  "work_title": "Ferdinand Lassalle as a Social Reformer",
+  "chapter_number": 8,
+  "chapter_title": "VII. The Open Reply Letter; its economic portion – The iron law of wages, and productive co-operative societies with sta",
+  "chapter_slug": "08-vii-the-open-reply-letter-its-economic-portion-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da3fb602-5315-52c9-b251-cbfbf3f5f2ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4744,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1893/lassalle/chap07.htm"
+    }
+  ]
+}

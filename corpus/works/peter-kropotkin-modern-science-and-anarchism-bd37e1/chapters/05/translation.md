@@ -1,0 +1,41 @@
+---
+work_id: "bd37e11b-2fb3-5fe0-bfb5-28b931789ef5"
+work_slug: "peter-kropotkin-modern-science-and-anarchism-bd37e1"
+work_title: Modern Science and Anarchism
+author_name: Peter Kropotkin
+chapter_number: 5
+chapter_title: Chapter 5
+chapter_slug: 05
+variant_id: "a996de84-bf60-5f2c-91ca-1bb131d13179"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1243
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1903/modern-science-and-anarchism/chapter-5.html"
+translator: David A. Modell
+---
+
+Since Anthropology--the history of man's physiological development and of his religious, political ideals, and economic institutions--came to be studied exactly as all other natural sciences are studied, it was found possible, not only to shed a new light upon this history, but to divest it for ever of the metaphysics which had hindered this study in exactly the same way as the Biblical teachings had hindered the study of Geology.
+
+It would seem, therefore, that when the construction of a synthetic philosophy was undertaken by Herbert Spencer, he should have been able, armed as he was with all the latest conquests of science, to build it without falling into the errors made by Comte in his "Positive Politics." And yet Spencer's synthetic philosophy, though it undoubtedly represents an enormous step in advance (complete as it is without religion and religious rites), still contains in its sociological part mistakes as gross as are found in the former work.
+
+The fact is that, having reached in his analysis the psychology of societies, Spencer did not remain true to his rigorously scientific method, and failed to accept all the conclusions to which it had led him. Thus, for example, Spencer admits that the land ought not to become the property of individuals, who, in consequence of their right to raise rents, would hinder others from extracting from the soil all that could be extracted from it under improved methods of cultivation; or would even simply keep it out of use in the expectation that its market price will be raised by the labor of others. An arrangement such as this he considers inexpedient and full of dangers for society. But, while admitting this in the case of land, he did not venture to extend this conclusion to all other forms of accumulated wealth--for example, to mines, harbors, and factories.
+
+Or, again, while protesting against the interference of government in the life of society, and giving to one of his books a title which is equivalent to a revolutionary program, "The Individual vs. The State," he, little by little, under the pretext of the defensive activity of the State in its entirety,--such as it is to-day, only slightly limiting its attributes.
+
+These and other inconsistencies are probably accounted for by the fact that the sociological part of Spencer's philosophy was formulated in his mind (under the influence of the English radical movement) much earlier than its natural-scientific part--namely, before 1851, when the anthropological investigation of human institutions was still in its rudimentary stage. In consequence of this, Spencer, like Comte, did not take up the investigation of these institutions by themselves, without preconceived conclusions. Moreover, as soon as he came in his work to social philosophy--to Sociology--he began to make use of a new method, a most unreliable one--the method of analogies--which he, of course, never resorted to in the study of physical phenomena. This new method permitted him to justify a whole series of preconceived theories. Consequently, we do not possess as yet a philosophy constructed in both its parts--natural sciences and sociology--with the aid of the same scientific method.
+
+Then, Spencer, it must also be added, is the man least suited for the study of primitive institutions. In this respect he is distinguished even among the English, who generally do not enter readily into foreign modes of life and thought. "We are a people of Roman law, and the Irish are common-law people: therefore we do not understand each other," a very intelligent Englishman once remarked to me. The history of the Englishmen's relations with the "lower races" is full of like misunderstandings. And we see them in Spencer's writings at every step. He is quite incapable of understanding the customs and ways of thinking of the savage, the "bloody revenge" of the Icelandic saga, or the stormy life, filled with struggles, of the mediæval cities. The moral ideas of these stages of civilization are absolutely strange to him; and he sees in them only "savagery," "despotism," and "cruelty."
+
+Finally--what is still more important--Spencer, like Huxley and many others, utterly misunderstood the meaning of "the struggle for existence." He saw in it, not only a struggle between different species of animals (wolves devouring rabbits, birds feeding on insects, etc.), but also a desperate struggle for food, for living-room, among the different members within every species--a struggle which, in reality, does not assume anything like the proportions he imagined.
+
+How far Darwin himself was to blame for this misunderstanding of the real meaning of the struggle for existence, we cannot discuss here. But certain it is that when, twelve years after "The Origin of Species," Darwin published his "Descent of Man" he already understood struggle for life in a different sense. "Those communities," he wrote in the latter work, "which included the greatest number of the most sympathetic members would flourish best and rear the greatest number of offspring." The chapter devoted by Darwin to this subject could have formed the basis of an entirely different and most wholesome view of nature and of the development of human societies (the significance of which Goethe had already foreseen). But it passed unnoticed. Only in 1879 do we find, in a lecture by the Russian zoologist Kessler, a clear understanding of mutual aid and the struggle for life. "For the progressive development of a species," Kessler pointed out, citing several examples, "the law of mutual aid is of far greater importance than the law of mutual struggle." Soon after this Louis Buchner published his book "Love," in which he showed the importance of sympathy among animals for the development of moral concepts; but in introducing the idea of love and sympathy instead of simple sociability, he needlessly limited the sphere of his investigations.
+
+To prove and further to develop Kessler's excellent idea, extending it to man, was an easy step. If we turn our minds to a close observation of nature and to an unprejudiced history of human institutions, we soon discover that Mutual Aid really appears, not only as the most powerful weapon in the struggle for existence against the hostile forces of nature and all other enemies, but also as the chief factor of progressive evolution. To the weakest animals it assures longevity (and hence an accumulation of mental experience), the possibility of rearing its progeny, and intellectual progress. And those animal species among which Mutual Aid is practiced most, not only succeed best in getting their livelihood, but also stand at the head of their respective class (of insects, birds, mammals) as regards the superiority of their physical and mental development.
+
+This fundamental fact of nature Spencer did not perceive. The struggle for existence within every species, the "free fight" for every morsel of food, Tennyson's "Nature, red in tooth and claw with ravine"--he accepted as a fact requiring no proof, as an axiom. Only in recent years did he begin in some degree to understand the meaning of mutual aid in the animal world, and to collect notes and make experiments in this direction. But even then he still thought of primitive man as of a beast who lived only by snatching, with tooth and claw, the last morsel of food from the mouth of his fellowmen.
+
+Of course, having based the sociological part of his philosophy on so false a premise, Spencer was no longer able to build up the sociological part of his synthetic philosophy without falling into a series of errors.

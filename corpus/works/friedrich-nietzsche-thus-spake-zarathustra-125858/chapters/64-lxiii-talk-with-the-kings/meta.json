@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 64,
+  "chapter_title": "LXIII. Talk with the Kings.",
+  "chapter_slug": "64-lxiii-talk-with-the-kings",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "efab38d9-3bb5-5d46-9939-e18436baf05e",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 1126,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8b93ca49-e2a1-5334-8eac-26aa1b0103a6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1232,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

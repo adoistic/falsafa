@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 106
-chapter_title: CHAPTER LXVI.
+chapter_title: Chapter LXXIV, Chapter LXXV.
 chapter_slug: 106
 variant_id: "7f72db0a-b732-558b-b2d9-174f22bdfd02"
 content_type: translation
@@ -13,13 +13,19 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 294
+word_count: 313
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-Through the rational mind is the nearest approach to the supreme Being
+The supreme Being is to be hoped for
 
-Since it is clear, then, that nothing can be ascertained concerning this Nature in terms of its own peculiar character, but only in terms of something else, it is certain that a nearer approach toward knowledge of it is made through that which approaches it more nearly through likeness. For the more like to it anything among created beings is proved to be, the more excellent must that created being be by nature. Hence, this being, through its greater likeness, assists the investigating mind in the approach to supreme Truth; and through its more excellent created essence, teaches the more correctly what opinion the mind itself ought to form regarding the Creator. So, undoubtedly, a greater knowledge of the creative Being is attained, the more nearly the creature through which the investigation is made approaches that Being. For that every being, in so far as it exists, is like the supreme Being, reasons already considered do not permit us to doubt.
+But the human soul will by no means be able to train itself in this purpose, if it despairs of being able to reach what it aims at. Hence, devotion to effort is not more profitable to it than hope of attainment is necessary.
 
-It is evident, then, that as the rational mind alone, among all created beings, is capable of rising to the investigation of this Being, so it is not the less this same rational mind alone, through which the mind itself can most successfully achieve the discovery of this same Being. For it has already been acknowledged that this approaches it most nearly, through likeness of natural essence. What is more obvious, then, than that the more earnestly the rational mind devotes itself Edition: current; Page: [132] to learning its own nature, the more effectively does it rise to the knowledge of that Being; and the more carelessly it contemplates itself, the farther does it descend from the contemplation of that Being?
+We must believe in this Being, that is, by believing we must reach out for it.
+
+But what does not believe cannot love or hope. It is, therefore, profitable to this human soul to believe the supreme Being and those things without which that Being cannot be loved, that, by believing, the soul may reach out for it. And this truth can be more briefly and fitly indicated, I think, if instead of saying, “strive for” the supreme Being, we say, “believe in” the supreme Being.
+
+For, if one says that he believes in it, he apparently shows clearly enough both that, through the faith which he professes, he strives for the supreme Being, and that he believes those things which are proper to this aim. For it seems that either he who does not believe what is proper to striving for that Being, or he who does not strive for that Being, through what he believes, does not believe in it. And, perhaps, it is indifferent whether we say, “believe in it,” or “direct belief to it,” just as by believing to strive for it and toward it are the same, except that whoever shall have come to it by striving for (tendendo in) it, will not remain without, but within it. And this is indicated more distinctly and familiarly if we say, “striving for” (in) it, than if we say, “toward” (ad) it.
+
+On this ground, therefore, I think it may more fitly be said that we should believe in it, than that we should direct belief to it.

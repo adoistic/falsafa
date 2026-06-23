@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 44,
+  "chapter_title": "Letter 44",
+  "chapter_slug": "44-letter-44",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a7923eb9-d03a-5053-ab40-751c1302b754",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99e24cce-5f2f-5371-a8b6-5f55383e167b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 559,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

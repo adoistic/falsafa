@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-law-of-torts-eb9423",
+  "work_title": "The Law of Torts",
+  "chapter_number": 57,
+  "chapter_title": "Appendix B. Employers’ Liability Act, 1880.",
+  "chapter_slug": "57-appendix-b-employers-liability-act-1880",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0af89ae0-f179-5466-993a-a61e2bf7e80f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1310,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+    }
+  ]
+}

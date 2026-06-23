@@ -1,0 +1,185 @@
+---
+work_id: "7e4a3418-870f-5d62-b3b6-4c8116bde801"
+work_slug: "karl-kautsky-high-cost-of-living-changes-in-g-7e4a34"
+work_title: "High Cost of Living: Changes in Gold Production and the Rise in Prices"
+author_name: Karl Kautsky
+chapter_number: 3
+chapter_title: II. Capitalistic Method of Production
+chapter_slug: "03-ii-capitalistic-method-of-production"
+variant_id: "2e515559-c8ce-565d-8830-44c3ee9119f1"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 4661
+source_url: "https://www.marxists.org/archive/kautsky/1913/inflation/ch02.htm"
+translator: Austin Lewis
+---
+
+To get at scientific results we must set out the material facts as simply as possible and investigate them. When the interrelations of things are learned by pursuing this method, we can grasp the more complicated and superficial facts with greater ease. If we begin by investigating the latter we become lost in a labyrinth and the issues are obscured.
+
+Let us, therefore, put the case as simply as possible. So far, we have considered gold as the only money metal, and have ignored silver. We have also considered all the gold produced as being made into money. Finally, is the last chapter, we considered gold as produced under the universal conditions of simple production of commodities. Let us now examine the effect which changes in its production make upon prices, under the conditions of universal capitalistic production. In reality, however, there are numerous intermediate stages. For example, in the mines in the Alps gold was produced capitalistically by entrepreneurs who employed laborers, in the midst of a society in which simple production of commodities was the dominant form, and which went hand in hand with an extension of production for use. In Spanish America, on the other hand, the workers in the gold and silver mines were Indian slaves. In California and Australia, again, for half a century gold mining was carried on under the conditions of the simple production of commodities by free producers, who owned their own tools and land. This latter system of producing gold was, however, a substantial portion of a very highly developed capitalistic method of production.
+
+We shall have to ignore these intermediate stages. Let us now look at the capitalistic method of producing gold in a capitalistic society. How does a change in the method of producing gold operate – a lessening of the amount of social labor necessary to the production of a given quantity of gold? Since we are concerned with the question of the rise in prices we shall merely keep in view the results of a diminution in the quantity of labor, and shall here leave out of consideration any increase in the amount of labor necessary to produce gold owing to a decline in the productivity of the mines.
+
+The gold mines are possessed by the capitalists. So also is the equipment and machinery necessary to work them and get the gold. The workers are wage workers. They are paid like other hired workers. The question of the productivity of labor is therefore immaterial to them. If the production of a pound of gold formerly took two weeks’ work of one man, but now only takes one, it does not mean that his weekly pay will be doubled. That remains the same, as long as the increased gold production does not change the price of the necessaries of life. The extra pound of gold which the two weeks’ work produces does not imply any increased cost of production. It is pure profit to the capitalist who owns and works the mine.
+
+This condition, however, cannot long continue. It must result that if the annual gold supply is doubled, there will be an increased demand for commodities at the current prices.
+
+The results on the market are, at the beginning at least, identical with those in the case of the simple production of commodities. The gold is not any longer delivered by the diggers, but by the exploiter of diggers. The increased amount of gold may be used by him in two different ways. He can buy articles of consumption or means of production to increase his business. He can loan it directly or indirectly in the form of interest-bearing government securities or obligations, or take shares in other businesses.
+
+The more capitalism develops the more will these last forms of expenditure of newly acquired gold be employed. And thus, by those means, the gold leaves the possession of the gold producers to spread itself over the world.
+
+In this way a remarkable phenomenon is explained to which the Director of the United States Mint, in his report for the year 1911, alludes, a report which contains a wealth of material on the gold question. The phenomenon is the fact that the majority of mines in the world belong to England, and yet only a minimum of the gold taken from them goes to England. From December, 1899, to December, 1910, there went to the English banks less than ten millions, against fifty-three and one half millions to Austria, one hundred and sixty-two millions to Italy, one hundred and ninety-five millions to Russia and over forty-eight millions to the Balkan states, etc. Of course the wealth of these States did not increase so much more than that of England. It was chiefly a movement of gold coins which caused such a quantity of gold to go to Eastern and Southern Europe. This movement, however, chiefly appeared in the form of loans.
+
+In whatever way the owners of the gold may use the additional gold, it serves like other gold to buy goods, means of consumption, means of production, means of destruction. Demand for goods is increased thereby and prices rise.
+
+If this increased demand showed no rise at all, or no corresponding rise in prices, the greater productivity of the mines in proportion to the capital invested in them would raise the profits of capital invested in gold mining above the average rate of profits in the world of capital, and there would be a tendency to invest in them similar to that which occurred, under like circumstances in the system of simple production of goods. Only, formerly, the higher productivity in gold-production directly stimulated increased labor to that industry. This occurs now, but the increased profit does not go to the worker. Still, this increased profit causes an increased stream of capital to flow into gold mining, which under these conditions yields a greater profit than the average. The increased capital then attracts increased labor power, without which, indeed, it cannot be applied.
+
+Therefore new capital and new labor power go to the gold fields. If, in spite of the increased demand, the prices of commodities do not rise sufficiently high to equalize the difference in the rates of profit, the additional capital and labor power produce new additional quantities of gold which on their part again create a greater demand for commodities and drive prices higher.
+
+The stream of new capital to the gold fields will last until the use in the price of commodities has reached such a point that the extra profits of gold-producing cease and the rate of profit is the same as in other branches of production. Indeed, it can go so far as to reduce the average rate of profit in gold-mining below the general rate of profit upon the same grounds according to which the selling-price of gold is beneath its exchange value. The lottery character which belongs to gold mining, even under the capitalistic method, impels numerous capitalists to it, who invest in mines whose rentability is very low. Varga in his argument has given some strong examples of this. Just compare the dividends in the two following samples of South African gold mining:
+
+Ferreira
+
+General mining
+
+Results vary in one year from 0 to 600 per cent.
+
+As you see, it is quite a lottery.
+
+In the special report on mining from the American Census Bureau of 1900 (Special Report on Mines and Quarries, 100, Washington, 1905) Dr. J. Hourwich discussed Gold and Silver (pp.500-580).
+
+Dr. Hourwich gives the following figures for 1,079 companies engaged in gold and silver mining in the United States:
+
+Paying Dividends
+
+Not paying dividends
+
+In full work
+
+Developing
+
+No. of companies
+
+Output for labor in dollars
+
+Other cost of working in dollars
+
+Value o£ product in dollars
+
+Therefore only a small number of companies paid dividends. They were indeed the largest. They produced more than one-half of the whole. Those not paying, however, employed more labor than those paying. Similar conditions could be found in no other industry.
+
+Just as in lotteries, it is the small people who are robbed of their money by promoters. Shares may be valued and offered at the smallest possible sums. According to this report, the dividends o£ the paying companies have no less than 94,700,000 shares at an average of two dollars a share. There is democratization of capital for you! Every workingman can become a capitalist, the owner of gold mines.
+
+The sums paid out in dividends on these shares amounted to ten and a half million dollars, or a little more than five per cent on the amount invested.
+
+There is, however, the enormous number of 516,000,000 shares of those companies which paid no dividends. The democratization of capital was still further advanced. The average nominal value of a share was one dollar and sixty cents. The glittering gleam of gold which is so universally attractive emptied the pockets of its pursuers to the extent of $834,000,000, leaving them merely paper which paid no dividends, and the mines produced riches only for the promoters and agents.
+
+On the whole in 1902 four billions of marks were invested in American gold and silver mines and fifty million marks were distributed as dividends, about one per cent.
+
+Altogether the capital in mining in the United Mates consists of shares representing 2900 millions of dollars on which dividends to the amount of 72 million dollars were paid in 1892.
+
+Therefore we find:
+
+Gold and silver mines
+
+Other mines
+
+Share capital in dollars
+
+1,017 million
+
+1,886 million
+
+Amount of dividends in dollars
+
+10 million
+
+62 million
+
+Average per cent in dividend
+
+1 per cent
+
+3½ per cent
+
+That shows that the profit rate in the production of gold and silver is far below the average.
+
+So far we have been considering the effect of changes in the method of producing gold under the capitalistic system of production. They are analogous to those under the simple production of commodities. But the effects of an increased production of gold upon industrial production are quite different under capitalistic conditions.
+
+Stability is one of the marks of the simple production of commodities. It proceeds year by year in the same course undisturbed by surplus goods which come from general over-production or too rash extension. Each handicraft develops its different classes of work differentiated by long training and which cannot invade each other. Besides under this method, while there is a considerable out-of-work proletariat, it is an inferior proletariat, which, under the given technical conditions cannot be involved in the production process. This is prevented not only by the requirements of educated craftsmanship but owing also to the lack of the extra means of production for extra skilled labor.
+
+The capitalist system is different. . Marx explains in Capital the methods by which on the one hand an industrial reserve army is formed, and, on the other, enormous speed is added to the accumulation of capital and through both of them together the most rapid extension of production is rendered possible and this extension, owing to the accumulation of products, becomes a necessity for the entire capitalistic method of production.
+
+I have predicated the method of arriving at these conclusions as well known.
+
+Under these circumstances the extension of gold-production operates differently than under the simple method of producing commodities. A rise in production under the latter brings with it an increase of prices on the market without stimulating the production of commodities and often indeed with the effect of stopping and limiting it.
+
+Under the capitalistic method of production, on the other hand, every increase in the demand for goods acts as a spur to extend production, a spur which the process of production immediately and readily obeys.
+
+The increased amount of gold which appears upon the market and causes an increased demand for commodities, raises their price and hence the profit to be had from their production. So, not only the production of gold but all the other branches of industry, incited by it, require new capital and additional labor power. The capitalist method of production is well equipped and the extension of the production of gold does not by any means drain the reserve industrial army.
+
+One might imagine that the increased demand of gold would soon be met by an increased supply of commodities and that the earlier standard of prices would be restored. That would imply nothing less than a restoration of the extraordinary profit-rate of gold mining.
+
+As a result increased capital would again flow to it, gold production would be extended afresh, demand for commodities would be again in creased, and prices would again rise which would give a new impetus to the production of commodities and so forth. If the addition to the production of gold is not transitional, but continuous, it must have the greatest possible influence on the process of production.
+
+Suppose that the increased quantities of gold only increased the demand for machinery (for the new mines), for palaces for the gold upstarts, for wine and beer and loom-products for men and women servants, and the wage workers in the gold mines. This means again an increased demand for iron and coal and wool and cotton, for brick and stone, for machinery for spinning and weaving, for malt and hops and corn and butchers’ meat, etc. The profit and the sums expended in wages in all of these industries must consequently rise. Besides, they make new demands for means of consumption and production of all kinds. If this process lasts for some time and there is steadily, as we have said, more gold put on the market, we have a thoroughgoing era of prosperity steadily marked by a general rise in prices.
+
+This rise in prices now appears, if it is universal, to operate against the increase of the profit rate in industry in that it increases the cost of raw material and wages, and thereby to restore the superior profit rate which existed at the beginning of the improvement in the conditions of production before the rise of prices. As long as profit depends upon prices it is shown by the difference between buying and selling price.
+
+If accordingly the price of a manufactured commodity rises and simultaneously with it the price of raw material, of machinery and of labor power, profits do not increase, they may even diminish if the price of the latter factors increase more rapidly than that of the completed product.
+
+So the rate of profit depends not alone on the difference in prices. It is reckoned by the year according to the total amount of profit which comes from a given amount of capital in the course of the year. This total amount depends not only upon the amount of the profit which the capitalist gets from any single piece of business but upon all the pieces of business which he transacts in the course of the year. If the capitalist does not let his goods lie long but sells them quickly and gets his money for them, he turns over his capital quickly and thereby increases the annual amount of his rate of profit, even if the profit realized on each turn over remains the same. It may even increase where the profit on each separate transaction decreases.
+
+Let us suppose that the capitalist makes ten per cent on each turn-over of his capital, and that he turns over his capital twice a year, that means a yearly profit of twenty per cent. Let us suppose too that increase in the cost of raw materials and the price of labor reduce his profit on each turn-over of his capital to five per cent, but the speedy movement of business lets him turn over his capital six times a year, his yearly profit will be thirty per cent.
+
+An increased demand for commodities brings with it this rapid movement in business and quick turn-over of capital and thus increases profits in spite of the general increase in prices.
+
+In the production of gold it is impossible to increase the rate of profits by a quick turn-over of capital since the turn-over depends upon the condition of the market and not on technique. The transformation of money into commodities and of commodities into money upon the market does not exist for gold, as long as it functions as gold. The rate of profit in gold mining depends exclusively upon the conditions of production and not on the speed of the circulation of commodities. Gold is money as soon as it is produced, that is to say, placed on the market. It does not have to wait for any buyer to transform it into money.
+
+The rise in the rate of profit through the speed in the circulation of commodities pertains therefore exclusively to capital invested in the production of commodities. Therefore the flow of capital to gold mining is kept within certain limits. As soon as the production of a new amount of gold begins, a brisk demand for goods appears and awakens the production as well as the sale of goods. This awakening, this speed in the production of goods, goes hand in hand with a rise in prices as each period of prosperity shows. The occurrence of such an epoch of prosperity and with it an increase in the price of goods, is the method by which, under capitalistic conditions, the law of value establishes itself in gold mining, by lessening the amount of labor time socially necessary to the production of a certain quantity of gold. If this method is not sufficient then the movement of capital in gold production towards the equalization of the profit rate completes it.
+
+It does not therefore militate against the contention that changes in the method of producing gold have contributed to the present rise in prices, when Varga shows that the production of commodities throughout the world has been enormously increased in the last decade. For example, that iron has been increased fifty per cent, coal thirty-five per cent, and on the other hand that the products of gold-mining have only risen thirty-two per cent in the same period. This is a good argument against the quantity theory which seeks to explain the rise in prices by a mere comparison between the price of commodities and the amount of gold, but it does not attack my contention that in the capitalistic method of production which makes prosperity dependent upon an increase in demand, prices and profit rates correspond with the conditions of production and establish the law of value for gold.
+
+Varga would explain that the periods of prosperity which we enjoyed for nearly twenty years lave nothing to do with the changes in the production of gold but are dependent upon entirely different factors.
+
+If he wants to show that the law of value does not apply to the money-commodity, he must prove that an increase in the demand which arises from increased gold-production has no influence on commodity prices, commodity exchange, or commodity production. He would find this hard to prove.
+
+I believe that I have shown, theoretically, how increased gold production must operate in these connections. The actual statistics support my theoretical conclusions. From 1800 to 1850, we give the figures for decades, not for single years. So we do not show the yearly variations, but only the general tendency of the decade. Besides gold-getting, silver-getting had its share in the operation of the production of the precious metals on economic life. We ignore this so as not to complicate the exposition but we shall deal with it later.
+
+Till the middle of the seventies there was no change in the relative value of gold and silver during the nineteenth century, not even in the fifties at the time of the rising production of gold. Gold steadily remained fifteen times as valuable as silver. There was a speedy change in the seventies following upon a rapid change in the method of producing silver. In 1870 the ratio was 15.57 to 1, 1879 about 18.89 to 1, 1889 about 22.10, 1889 35.03, 1909 19.74, 1910 38.82, finally 1911 38.33 to 1.
+
+Under these circumstances it was impossible to retain both silver and gold as standards of value. All states which were involved in world commerce and up to that time had a silver of a double standard have found themselves practically, if not admittedly, obliged during the last quarter of the last century to adopt the gold standard.
+
+Silver money was not thereby abolished. It was merely reduced to the role of inferior money. Silver money no longer functioned as the representative of its value in silver but of a certain gold value established by law. Like paper-money silver can only fulfil this function as long as its output is confined within certain limits. But these are very broad. The demonetization of silver, the discontinuance of its role as money proper, has not ended the coining of silver money. It has merely brought it about that silver money realizes the actual value of its metal and therefore implies a given amount of gold. The value of a single piece of silver, its ability to demand, has therefore not by any means diminished in proportion to the reduction in the value of silver but only in proportion to the reduction in the value of gold.
+
+The demand for small money grows with the development of capitalism, partly through the development of the wage system, by which the number of those in receipt of wages increased and at the same time money payment takes the place of payment in kind. Both cause the sum of money payments to grow enormously and these are for the most part made in inferior money.
+
+Thus for example in the United States from 1880 to 1910 the number of industrial wage workers alone increased from 2,700,000 to 6,600,000 and the annual amount of their wages from 950 millions to 3400 million dollars.
+
+The increase in the sum of the wages paid alone causes an increase instead of a decrease in the amount of silver money in spite of its demonetization.
+
+We can learn the amounts of silver money which have been newly coined since its demonetization from a review by the Director of the United States Mint in his recently published report. In the last thirty-eight years 877 millions of dollars gold have been minted in the entire capitalistic world, and silver coins, as well, of a mint value of 540 millions of dollars. Herein is included a great deal of reminting of old coins or minting of old metal. The amount of existing supply of money-metal must be valued at much less. The report gives the amount of money lying in the banks for the most important countries in the world at, in round numbers, five billions of dollars.
+
+Through the demonetization of silver the mass of metal which it represented has not lost its purchasing power, its economic existence. It cannot, therefore, be declared that this phenomenon has worked against and retarded the economic influence of increased gold production.
+
+If we examine the chart we shall find a rapid movement soon after 1850, as a result of the discovery of gold in California and Australia. These discoveries began to operate on the English labor world immediately after the disillusionment of 1848. They quickly attracted the energetic and irreconcilable elements, who went off to the gold fields, and by this Chartism was conspicuously weakened, just as the Reformation lost its most important positions in Germany, owing to the gold and silver discoveries in Spanish America. On both occasions gold strengthened the counter-revolution. Contemporaneously, changes in the production of gold had their economic influence in the production of commodities.
+
+Marx and Engels were the first to point out the significance of the California gold discoveries. About 1850 they declared the discovery of these mines to be “more important than the February Revolution.” It brought to England “that amazing increase in wealth and power” of which Gladstone spoke in his speech on the Budget; and which Marx one year later quoted in his inaugural address to the International. This was the brilliant period of the French Empire. A rain of gold seemed to pour on “good society.” We find simultaneously a glittering movement in business and a fever of promotion and speculation. Finally, that period laid the foundation stone for the development of the great industry of Germany which from that time developed rapidly.
+
+From 1860 the rise in the production of gold came to a stop, but began again some time after. From 1870 to 1874 we find a marked falling off in gold production, a fall in prices notably followed and, then, with, the stagnation in gold output to the beginning of the nineties a period of lower prices and continued dullness in trade that caused many of us, I admit that I was one, to think that the capitalistic system had already fallen into a condition of chronic overproduction.
+
+But suddenly arose a new development of gold production such as was never seen in the world before. In the year 1886 the first mine in the South African Rand was opened. In 1890 the cyanide process was introduced, in 1891 the gold fields of the Yukon in Alaska were discovered. In proportion as this advance in the production of gold made itself felt, stagnation waned, prices began to rise, and capitalism entered with full force upon a brilliant phase of its development. The mutual connection of these phenomena is obvious to-day.
+
+Sauerbeck has calculated the prices of a series of staples on the London market since 1818. If we fix the price between 1891 and 1900 at 100, we get the following series :
+
+The High Cost of Living
+
+We see here how, up to 1849, under a static condition of gold production, prices sink universally, with interruptions in times of prosperity. From 1849 prices rise, at first not remarkably, and then rapidly from 1853 to 1861.
+
+Then they remain about the same to 1873, falling in times of crisis, rising during the period of economic movement from 1871 to 1873. Again we have a fall in prices coincident with the stagnant and occasionally falling gold production to 1896. Since that time a rise in prices occurred which exists to the present day.
+
+One cannot escape noticing, with the change in the production of gold, a corresponding change of prosperity and depression involved with the change in these phenomena, which stands out during the cycle of the industrial years. This latter series of changes is the necessary form of the working out of the capitalistic process of production; the individual phases of this series must repeat themselves at regular periods of time, The first change on the other hand depends on a series of accidents and makes no series, its different phases are not bound up in a given recurrence. Both movements are in their origin independent of each other, but they cross, intermingle and influence each other in a most complicated fashion. The progress of gold production is of great significance for shaping the industrial crisis cycle. If the development of gold production stands still or becomes less, the periods of trade activity become shorter and continually less energetic. On the other hand, the periods of crisis grow longer. This acquires a tendency to take on a chronic character. This happened in the two decades after 1878. It is quite otherwise in the older period of developing gold production. The prosperity that it produces does not abolish the crisis, but it lengthens the periods of trade activity, makes them more energetic, while it shortens the periods of crisis and depression and makes the termination of them easier. This is the picture of the industrial cycle of the last two decades.

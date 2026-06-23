@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 55,
+  "chapter_title": "Oration 72",
+  "chapter_slug": "55-oration-72",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "49f9333c-4ab1-5e06-a058-4e8802dfc428",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1339,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "913014f7-e80f-5ffc-88e4-b7d6d6e0d074",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1784,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

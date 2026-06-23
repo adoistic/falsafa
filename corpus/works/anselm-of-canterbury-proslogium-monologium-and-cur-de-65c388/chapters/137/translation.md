@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 137
-chapter_title: CHAPTER VI.
+chapter_title: Chapter XV. (2)
 chapter_slug: 137
 variant_id: "797bfd19-b2ad-57a3-8ee0-88071ff3829e"
 content_type: translation
@@ -13,11 +13,23 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 586
+word_count: 609
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How infidels find fault with us for saying that God has redeemed us by his death, and thus has shown his love towards us, and that he came to overcome the devil for us.
+Whether God suffers his honor to be violated even in the least degree.
 
-This they greatly wonder at, because we call this redemption a release. For, say they, in what custody or imprisonment, or under whose power were you held, that God could not free you from it, without purchasing your redemption by so many sufferings, and finally by his own blood? And when we tell them that he freed us from our sins, and from his own wrath, and from hell, and from the power of the devil, whom he came to vanquish for us, because we were unable to do it, and that he purchased for us the kingdom of heaven; and that, by doing all these things, he manifested the greatness of his love towards us; they answer: If you say that God, who, as you believe, created the universe by a word, could not do all these things by a simple command, you contradict yourselves, for you make him powerless. Or, if you grant that he could have done these things in some other way, but did not wish to, how can you vindicate his wisdom, when you assert that he desired, without any reason, to suffer things so unbecoming? For these things which you bring up are all regulated by his will; for the wrath of God is nothing but his desire to punish. If, then, he does not desire to punish Edition: current; Page: [186] the sins of men, man is free from his sins, and from the wrath of God, and from hell, and from the power of the devil, all which things are the sufferings of sin; and, what he had lost by reason of these sins, he now regains. For, in whose power is hell, or the devil? Or, whose is the kingdom of heaven, if it be not his who created all things? Whatever things, therefore, you dread or hope for, all lie subject to his will, whom nothing can oppose. If, then, God were unwilling to save the human race in any other way than that you mention, when he could have done it by his simple will, observe, to say the least, how you disparage his wisdom. For, if a man without motive should do, by severe toil, a thing which he could have done in some easy way, no one would consider him a wise man. As to your statement that God has shown in this way how much he loved you, there is no argument to support this, unless it be proved that he could not otherwise have saved man. For, if he could not have done it otherwise, then it was, indeed, necessary for him to manifest his love in this way. But now, when he could have saved man differently, why is it that, for the sake of displaying his love, he does and suffers the things which you enumerate? For does he not show good angels how much he loves them, though he suffer no such things as these for them? As to what you say of his coming to vanquish the devil for you, with what meaning dare you allege this? Is not the omnipotence of God everywhere enthroned? How is it, then, that God must needs come down from heaven to vanquish the devil? These are the objections with which infidels think they can withstand us
+What you say satisfies me. But there is still another point which I should like to have you answer. For if, as you make out, God ought to sustain his own honor, why does he allow it to be violated even in the least degree? For what is in any way made liable to injury is not entirely and perfectly preserved.
+
+Nothing can be added to or taken from the honor of God. For this honor which belongs to him is in no way subject to injury or change. But as the individual creature preserves, naturally or by reason, the condition belonging, and, as it were, allotted to him, he is said to obey and honor God; and to this, rational nature, which possesses intelligence, is especially bound. And when the being chooses what he ought, he honors God; not by bestowing anything upon him, but because he brings himself freely under God’s will and disposal, and maintains his own condition in the universe, and the beauty of the universe itself, as far as in him lies. But when he does not choose what he ought, he dishonors God, as far as the being himself is concerned, because he does not submit himself freely to God’s disposal. And he disturbs the order and beauty of the universe, as relates to himself, although he cannot injure nor tarnish the power and majesty of God. For if those things which are held together in the circuit of the heavens desire to be elsewhere than under the heavens, or to be further removed from the heavens, there is no place where they can be but under the heavens, nor can they fly from the heavens without also approaching them. For both whence and whither and in what way they go, they are still under the heavens; and if they are at a greater distance from one part of them, they are only so much nearer to the opposite part. And so, though man or evil angel refuse to submit to the Divine will and appointment, yet he cannot escape it; for if he wishes to fly from a will that commands, he falls into the power of a will that punishes. And if you ask whither he goes, it is only under the permission of that will; and even this wayward choice or action of his becomes subservient, under infinite wisdom, to the order and beauty of the universe before spoken of. For when it is understood that God brings good out of many forms of evil, then the satisfaction for sin freely given, or if this be not given, the exaction of punishment, hold their own place and orderly beauty in the same universe. For if Divine wisdom were not to insist upon these things, when wickedness tries to disturb the right appointment, there would be, in the very universe which God ought to control, an unseemliness springing from the violation of the beauty of arrangement, and God would appear to be deficient in his management. And these two things are not only unfitting, but consequently impossible; so that satisfaction or punishment must needs follow every sin.
+
+You have relieved my objection.
+
+It is then plain that no one can honor or dishonor God, as he is in himself; but the creature, as far as he is concerned, appears to do this when he submits or opposes his will to the will of God.
+
+I know of nothing which can be said against this.
+
+Let me add something to it.
+
+Go on, until I am weary of listening.

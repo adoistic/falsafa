@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 13
-chapter_title: "CHAPTER I: MARGINS AND THEIR DIAGRAMMATIC REPRESENTATION"
+chapter_title: "Book II: Excursive and Critical, Chapter I: Margins and Their Diagrammatic Representation"
 chapter_slug: 13
 variant_id: "c38719fc-9201-5447-9847-2200c079de83"
 content_type: translation
@@ -13,10 +13,14 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 14000
+word_count: 14025
 source_url: "https://oll.libertyfund.org/titles/wicksteed-the-commonsense-of-political-economy"
 translator: Online Library of Liberty edition
 ---
+
+Cum rerum natura nusquam magis quam in minimis tota sit.
+
+Nowhere is the nature of things more intimately revealed than in the calculus of infinitesimals.
 
 Summary.—This chapter is devoted to a fuller examination of the principle of declining marginal significances. It is always the provocatives, opportunities, or supports of desired experiences or vents of impulse, and never those experiences themselves, that this law illustrates; but within that area it seems to be universal. It may appear, at first sight, that the claims of duty, of faith, or of humanity are not (or at least should not be) subject to any declining urgency as they are more fully met; and also that some satisfactions are habitually indulged in down to the point of satiety, whereas, according to our theory, the last and least significant increments of the things that minister to them should be less valued than increments of other things that would minister to still unsatisfied wants. But a careful examination will shew that these objections either rest on some misapprehension or are due to the fact that, under any given set of conditions, there is always a "minimum sensibile" below which conscious estimates cannot be carried. Another set of difficulties arises from a confusion between the positive and negative sign of increments of satisfaction and a positive or negative state of satisfaction. The attempt to dispel this confusion, in connection with the diagrammatic method, leads us to an examination of the reactions of various kinds of indulgence upon the organism itself and its future capacities for enjoyment. This again leads to the discovery of interesting relations between a hedonistic calculus and current moral judgments. Our method, however, does not imply a hedonistic theory of conduct. The chapter closes with some notes on the dangers and limitations of the diagrammatic method it has introduced.
 

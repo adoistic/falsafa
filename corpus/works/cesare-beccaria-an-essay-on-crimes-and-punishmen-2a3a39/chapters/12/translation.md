@@ -4,7 +4,7 @@ work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
 work_title: An Essay on Crimes and Punishments
 author_name: Cesare Beccaria
 chapter_number: 12
-chapter_title: "CHAPTER X.: OF DUELLING."
+chapter_title: "Chapter X.: Of Duelling."
 chapter_slug: 12
 variant_id: "28e46e6b-b85a-5d58-9727-a6c4ecbd0c65"
 content_type: translation

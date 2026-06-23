@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 68
-chapter_title: CHAPTER XXVIII.
+chapter_title: Chapter XXXII
 chapter_slug: 68
 variant_id: "bbea11da-3a62-594e-98e7-638e5479978a"
 content_type: translation
@@ -13,23 +13,19 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 554
+word_count: 483
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-This Spirit exists simply, and created beings are not comparable with him.
+The supreme Spirit expresses himself by a coeternal Word.
 
-It seems to follow, then, from the preceding considerations, that the Spirit which exists in so wonderfully singular and so singularly wonderful a way of its own is in some sort unique; while other beings which seem to be comparable with it are not so.
+But since this is true, how can what is simple Truth be the Word corresponding to those objects, of which it is not the likeness? Since every word by which an object is thus mentally expressed is the likeness of that object, if this is not the word corresponding to the objects that have been created through it, how shall we be sure that it is the Word? For every word is a word corresponding to some object. Therefore, if there were no creature, there would be no word.
 
-For, by diligent attention it will be seen that that Spirit alone exists simply, and perfectly, and absolutely; while all other beings are almost non-existent, and hardly exist at all. For, seeing that of this Spirit, because of its immutable eternity, it can in no wise be said, in terms of any alteration, that it was or will be, but simply that it is; it is not now, by mutation, anything which it either was not at any time, or Edition: current; Page: [88] will not be in the future. Nor does it fail to be now what it was, or will be, at any time; but, whatever it is, it is, once for all, and simultaneously, and interminably. Seeing, I say, that its existence is of this character, it is rightly said itself to exist simply, and absolutely, and perfectly.
+Are we to conclude, then, that if there were no creature, that Word would not exist at all, which is the supreme self-sufficient Essence? Or, would the supreme Being itself, perhaps, which is the Word, still be the eternal Being, but not the Word, if nothing were ever created through that Being? For, to what has not been, and is not, and will not be, there can be no word corresponding.
 
-But since, on the other hand, all other beings, in accordance with some cause, have at some time been, or will be, by mutation, what they are not now; or are what they were not, or will not be, at some time; and, since this former existence of theirs is no longer a fact; and that future existence is not yet a fact; and their existence in a transient, and most brief, and scarcely existing, present is hardly a fact—since, then, they exist in such mutability, it is not unreasonably denied that they exist simply, and perfectly, and absolutely; and it is asserted that they are almost non-existent, that they scarcely exist at all.
+But, according to this reasoning, if there were never any being but the supreme Spirit, there would be no word at all in him. If there were no word in him, he would express nothing to himself; if he expressed nothing to himself, since, for him, expressing anything is the same with understanding or conceiving of it (intelligere), he would not understand or conceive of anything; if he understood or conceived of nothing, then the supreme Wisdom, which is nothing else than this Spirit, would understand or conceive of nothing; which is most absurd.
 
-Again, since all beings, which are other than this Spirit himself, have come from non-existence to existence, not through themselves, but through another; and, since they return from existence to non-existence, so far as their own power is concerned, unless they are sustained through another being, is it consistent with their nature to exist simply, or perfectly, or absolutely, and not rather to be almost non-existent
+What is to be inferred? For, if it conceived of nothing, how would it be the supreme Wisdom? Or, if there were in no wise anything but it, of what would it conceive? Would it not conceive of itself? But how can it be even imagined that the supreme Wisdom, at any time does not conceive of itself; since a rational mind can remember not only itself, but that supreme Wisdom, and conceive of that Wisdom and of itself? For, if the human mind could have no memory or concept of that Wisdom or of itself, it would not distinguish itself at all from irrational creatures, and that Wisdom from the whole created world, in silent meditation by itself, as my mind does now.
 
-And since the existence of this ineffable Spirit alone can in no way be conceived to have taken inception from non-existence, or to be capable of sustaining any deficiency rising from what is in non-existence; and since, whatever he is himself, he is not through another than himself, that is, than what he is himself, ought not his existence alone to be conceived of as simple, and perfect, and absolute?
-
-But what is thus simply, and on every ground, solely perfect, simple, and absolute, this may very certainly be justly said to be in some sort unique. And, on the other hand, whatever is known to exist through a higher cause, and neither simply, nor perfectly, nor absolutely, but scarcely to exist, or to be almost non-existent—this assuredly may be rightly said to be in some sort non-existent.
-
-According to this course of reasoning, then, the creative Spirit alone exists, and all creatures are non-existent; yet, they are not wholly non-existent, because, through that Spirit which alone exists absolutely, they have been made something from nothing.
+Hence, that Spirit, supreme as he is eternal, is thus eternally mindful of himself, and conceives of himself after the likeness of a rational mind; nay, not after the likeness of anything; but in the first place that Spirit, and the rational mind after its likeness. But, if he conceives of himself eternally, he expresses himself eternally. If he expresses himself eternally, his Word is eternally with him. Whether, therefore, it be thought of in connection with no other existing being, or with other existing beings, the Word of that Spirit must be coeternal with him.

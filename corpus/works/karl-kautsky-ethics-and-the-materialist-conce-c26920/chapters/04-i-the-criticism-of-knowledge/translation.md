@@ -1,0 +1,55 @@
+---
+work_id: "c2692037-bbf5-58cb-8b58-7b04598a3f81"
+work_slug: "karl-kautsky-ethics-and-the-materialist-conce-c26920"
+work_title: Ethics and the Materialist Conception of History
+author_name: Karl Kautsky
+chapter_number: 4
+chapter_title: I. The Criticism of Knowledge
+chapter_slug: "04-i-the-criticism-of-knowledge"
+variant_id: "63090890-d8f9-5eba-9b38-4ae7d664370f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1719
+source_url: "https://www.marxists.org/archive/kautsky/1906/ethics/ch03.htm"
+translator: John B. Askew
+---
+
+Kant took the same ground as the materialists. He recognized that the world outside of us is real and that the starting point of all knowledge is the experience of the senses. But the knowledge which we acquire from experience is partly composed of that which we acquire through the sense impressions and partly from that which our own intellectual powers supply from themselves; in other words, our knowledge of the world is conditioned not simply by the nature of the external world, but also by that of our organs of knowledge. For a knowledge of the world therefore the investigation of our own intellectual powers is equally as necessary as that of the external world. The investigation of the first is, however, the duty of philosophy – this is the science of science.
+
+In this there is nothing contained that every materialist could not subscribe to, or that, perhaps with the exception of the last sentence had not also been previously said by materialists. But certainly only in the way in which certain sentences from the materialist conception of history had already been uttered before Marx, as conceptions which had not borne fruit. It was Kant who first made them the foundation of his entire theory. Through him did philosophy first become the science of science, whose duty it is not to teach a distinct philosophy, but how to philosophize, the process of knowing, methodical thinking, and that by way of a critique of knowledge.
+
+But Kant went farther than this, and his great philosophical achievement, the investigation of the faculties of knowledge, became itself his philosophical stumbling block.
+
+Since our sensual experience does not reveal to us the world as it is in itself, but only as it is for us, as it appears to us, thanks to the peculiar constitution of our faculties of knowledge, so the world as it is in itself must be different to that which appears to us. Consequently Kant distinguishes between the world of phenomena, of appearances, and the world of things in themselves, the “noumena”, or the intelligible world. Certainly this latter is for us unknowable, it lies outside of our experience, so that there is no need to deal with it; one might simply take it as a method of designating the fact that our knowledge of the world is always limited by the nature of our intellectual faculties, is always relative, that for us there can only be relative and no absolute truths, not a final and complete knowledge, but an endless process of knowing.
+
+But Kant was not content with that. He felt an unquenchable longing to get a glimpse into that unknown and inexplorable world of things in themselves, in order to acquire at least a notion of it.
+
+And indeed he got so far as to say quite distinct things about it. The way to this he saw in the critique of our powers of thought.
+
+These latter by separating from experience that which comes from the senses must arrive at the point of describing the forms of knowledge and perception as they originally and a priori, previous to all experience, are contained in our “feelings”. In this manner he discovered the ideality of time and space. According to him these are not conceptions which are won from experience, but simply the forms of our conception of the world, which are embedded in our faculties of knowledge. Only under the form of conceptions in time and space can we recognize the world. But outside of our faculties of knowledge there is no space and no time. Thus Kant got so far as to say about the world of things in themselves, that completely unknowable world, something very distinct, namely, that it is timeless and spaceless.
+
+Without doubt this logical development is one of the most daring achievements of the human mind. That does not say by any means that it is not open to criticism. On the contrary there is a great deal to be said against it, and in fact there are very very weighty objections which have been brought against it. The assumption of the ideality of space and time in the Kantian sense led to inextricable contradictions.
+
+There can certainly be no doubt that our conceptions of time and space are conditioned by the constitution of our faculties of knowledge, but I should have thought that that would only necessarily amount to saying, that only those connections of events in the universe can be recognized which are of such a nature as to call forth in our intellectual faculties the concepts of space and time. The ideality of time and space would then imply just as the thing in itself, no more and no less than a limit to our powers of knowing.
+
+Relations of a kind which cannot take the form of space or time concepts – even if such really exist, that we do not know – are for us inconceivable, just as much as the ultra-violet and ultra-red rays are imperceptible for our powers of vision.
+
+But Kant did not mean the matter in this sense at all. Because space and time provide the forms in which alone my faculties of knowledge can recognize the world, he takes for granted that time and space are forms which are only to be found in my faculty of knowledge, and correspond to no sort of connection in the real world. In his Prolegomena to every future Metaphysic Kant compares in one place the concept of space with the concept of color. This comparison appears to us very apt, it by no means, however, proves what Kant wants to prove. If cinnabar appears red to me, that fact is certainly conditioned by the peculiarity of my visual organs. Out of that there is no color. What appears to me as color is called forth by waves of aether of a distinct length which affect my eye. Should any one wish to consider these waves in relation to the color as the thing in itself, which in reality they are not, then our power of vision would not be a power to see the things as they are, but power to see them as they are not; not a capacity of knowledge, but of illusion.
+
+But it is quite another matter when we look not at one color alone, but take several colors together and distinguish them from one another. Each of them is called forth by distinct ether waves of different lengths. To the distinctions in the colors there correspond differences in the lengths of the ether waves. These distinctions do not lie in my organ of vision but have their ground in the external world. My organs of vision have only the function of making me conscious of this difference in a certain form, that of color. As a means to a recognition of this distinction it is a power of real knowledge and not of illusion. These distinctions are no mere appearances. That I see green, red and white, that has its ground in my organ of sight. But that the green is different to the red, that testifies to something that lies outside of me, to a real difference between the things.
+
+Besides that the peculiarity of my organ has the effect that by its means I can only recognize the motions of the ether. No other communication from the outer world can reach me through that medium.
+
+Just as with the power of vision in particular so is it with the organs of knowledge in general. They can only convey to me Space and Time conceptions, that is, they can only show me those relations of the things which can call forth Time and Space conceptions in my head. To impressions of another kind, if there are any, they cannot react. And my faculty of knowledge renders it possible for me to obtain these impressions in a particular way. So far are the categories of space and time founded in the construction of my faculty of knowledge.
+
+But the relations and distinctions of the things themselves, which are shown to me by means of the individual space and time concepts, so that the different things appear to me as big and small, near and far, sooner or later, are real relations and distinctions of the external world, which are not conditioned through the nature of my faculty of knowledge.
+
+Even if we therefore are not in a position to recognize a single thing by itself, if our faculty of knowledge is in respect to that a faculty of ignorance, we can yet recognize the real differences between things. These distinctions are no mere appearances, even if our conception of them is conveyed to us by means of appearances; they exist outside of us, and can be recognized by us, certainly only in certain forms.
+
+Kant, on the other hand, was of the opinion that not simply are space and time forms of conception for us, but that even the temporal and spacial differences of phenomena spring solely from our heads, and indicate nothing real. If that were really so, then would all phenomena spring simply from our heads, since they all take the form of temporal and spacial differences. Thus we could know absolutely nothing about the world outside of us, not even that it existed. Should there exist a world outside of us, then, thanks to the ideality of space and time, our faculty of knowledge would be not an imperfect, one-sided mechanism, which communicated to us only a one-sided knowledge of the world, but a complete mechanism of its kind, and one which served to completely cut us off from all knowledge of the world. Certainly a mechanism to which the name “Faculty of Knowledge” is just about as suitable as the fist to the eye.
+
+Kant could attack ever so energetically the “mystical” idealism of Berkeley, which he hoped to replace with his critical idealism. His criticism took a turn, which nullifies his own assumption that the world is real and only to be known through experience, and thus mysticism cast out from the one side finds on the other a wide triumphal doorway open, through which it can enter with a flourish of trumpets.

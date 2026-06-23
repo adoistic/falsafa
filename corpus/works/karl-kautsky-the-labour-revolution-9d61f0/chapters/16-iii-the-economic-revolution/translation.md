@@ -1,0 +1,125 @@
+---
+work_id: "9d61f098-ee75-5bb8-b3cd-95dbf1085eb9"
+work_slug: "karl-kautsky-the-labour-revolution-9d61f0"
+work_title: The Labour Revolution
+author_name: Karl Kautsky
+chapter_number: 16
+chapter_title: III. The Economic Revolution
+chapter_slug: "16-iii-the-economic-revolution"
+variant_id: "ea0fb65a-242f-5aaa-9148-fee03603baa6"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 3014
+source_url: "https://www.marxists.org/archive/kautsky/1924/labour/ch03_b.htm"
+translator: H.J. Stenning
+---
+
+As soon as the workers, organized as a socialist party, have captured political power, they will proceed, to use it in their own interests. Already they will have employed in this direction the measure of political influence they have gradually acquired, and, according to the strength of classes and the wisdom of Labour tactics, they will have scored considerable successes over a period of some decades. But political predominance must be achieved before the workers can express their policy through the medium of new institutions.
+
+What are the economic problems which will then face the workers?
+
+What first strikes the observer of capitalist society is the enormous difference between incomes, between the rich and the poor, which has never been so great as in recent decades, and which continually grows. The direst poverty continues to exist on a large scale, but the size of the large fortunes increases every year.
+
+The abolition of inequality would seem to be the most important task of a socialist regime. Yet this task will not be a feature of that regime.
+
+The distinction between rich and poor is older than recorded history.
+
+We find it existing in developed state at the dawn of history, although not so sharply defined as under modern capitalism.
+
+The struggle to abolish inequality may therefore be traced back to the very earliest times, not only on the part of the poor and wretched themselves, but also on the part of members of the possessing classes, who sympathize with the straits of the propertyless. This sympathy springs from the social nature of man, and is a part of his moral nature. And if every endeavour to remove social inequality is to be described as Socialism, then Socialism is as old as human civilization.
+
+When, however, we pass from ethical generalities to economic facts, we find that the struggle for the abolition of inequality assumes various forms under different conditions of production.
+
+The free, propertyless class plays no part in production when industry is chiefly conducted upon a small scale. This class is of a semi-vagabond type, and lives by robbing, wheedling, or begging from the rich a portion of the fruits of alien labour which the latter has accumulated.
+
+When these elements manage to shape a social ideal at all, they demand that the rich should hand overall they have to the poor, who would live upon it without working, like the lilies of the field who neither toil nor spin. This was the social teaching of primitive Christianity. Had it been generally applied, production and social life of any kind would have been made impossible. It could only arise in conjunction with a mystical philosophy, which predicated a miracle in the shape of the speedy coming of the Kingdom of Heaven on earth.
+
+Under the pressure of economic realities, this teaching could only survive at the cost of abandoning its substance, as is the case with Bolshevism to-day, and reducing to mere almsgiving the demand for the voluntary surrender of the possessions of the rich.
+
+There is another way in which the propertyless class, under a system of small-scale industry, may strive for the removal of inequality: instead of converting all their property into means of consumption to be given to the poor, the rich should place the poor in a position to gain their livelihood by their own efforts, by placing the means of production, especially in the shape of land, at their disposal.
+
+From the economic standpoint this was a much more rational demand. It suited the case of those workers who had recently migrated from agriculture and had not yet forgotten their habits of labour. We find the movement for a division of the land in times which were less superstitious and mystically inclined than those of early Christianity, from ancient Athens and Rome until the great French Revolution.
+
+Equality does not result from the partition of the land, to effect which requires an extensive fertile area, which is not yet cultivated by other workers, either free peasants, tenants, or colonists. Where such an area exists, the demand is superfluous. There the landlords are only too glad to secure the services of workers. Where the land is occupied, and even cut up into small holdings, the partition of the soil would signify the expulsion of other workers, and this was what generally happened in Athens and Rome. In an old settled country it was simply impossible to superimpose large numbers of fresh peasant holdings upon the technical foundation of peasant agriculture without injury to the latter.
+
+With all these endeavours to realize equality, modern Socialism, which is based on modern, rational, large-scale industry, has nothing to do.
+
+The privations of the propertyless masses arise from the fact that they do not control the means of production. As they no longer believe in miracles, they do not advocate the dissolution of the means of production into means of consumption, and the distribution of the latter. As they have no wish to renounce the advantages of large-scale industry, they do not advocate its splitting-up into small-scale industry. Instead of the private property of the capitalist in the means of production, they demand that the workers themselves should commonly own and utilize the latter. The aim is not the division of the property of the rich, either as means of production or of consumption, among the poor, but the transformation of the property of the rich into the common property of society, which includes those who have hitherto been the poor.
+
+The question of the adjustment of social inequalities will still be a question of property. The question is no longer one of the distribution of property to individuals, but of its unity in common ownership.
+
+This does not, however, settle the question of distribution, which merely assumes a new form. The workers will produce in common in the socialist society, in order to exercise common control over their product. How much ought each person to receive?
+
+For a long time this has been considered by the majority of Socialists to be one of the most important questions to be solved before Socialism can be established. Some advocate that the individual worker should receive the full product of his labour, that is all that he produces; others perceive in this an injustice and advocate that to each should be given according to his needs.
+
+As far back as 1886 Anton Menger devoted a whole book to this question, The Right to the Full Product of Labour, in which he made a vigorous onslaught on Marx and Engels, who had underestimated the importance of the problem he dealt with.
+
+In 1917 Lenin discussed in his book The State and Revolution the formula according to which the social product would be divided among the workers.
+
+It is noteworthy that he appeals to the authority of Marx, the same Marx whom Menger had reproached with ignoring the distribution of the product in the future State. Of course, at that time Menger could not have known what we did not ourselves know until 1891, that Marx had dealt with this question shortly, but clearly and decisively, in his famous letter upon the Gotha party programme, written in 1875.
+
+He criticizes the following sentences of the proposed programme:
+
+“All members of society have equal rights to the whole product of labour.”
+
+And later:
+
+“For the liberation of labour it is essential that the means of labour should be the common property of society, that associated labour should be co-operatively regulated, and that the product of labour should be justly distributed.”
+
+First of all Marx finds fault with the words “the product of labour,” which might mean both the product of labour and of the value which it creates, and likewise the total product and the increment of value which the labour of a year adds to the product already in existence. Then he points out how indefinite and ambiguous the idea of “just distribution” is.
+
+According to Lassalle, justice requires that every worker should receive the undiminished product of his labour. Marx points out that before the total social product can be distributed among the workers, deductions must be made to replace the used-up means of production, to provide means for the extension of production, reserves for adjusting disturbances and mishaps, such as bad harvests, etc., and then to meet the cost of administering the community and the expenditure upon the maintenance of the unfit and upon common services, such as roads, schools, etc.
+
+Only what remains can be divided. Thus there can be no question of allotting to the worker the “undiminished” product of labour.
+
+Upon what principle should the remainder be divided?
+
+“Upon the basis of equal rights,” said the draft programme.
+
+But every right, says Marx, is an unequal right, because it applies the same measure to unequal individuals. Is each to be rewarded according to his share in the social “product of labour,” that is, according to his performance? This would be a most unequal right, because one may be weaker than another, one may have many children, while another may be childless. In spite of this inequality and injustice, the socialist, or as Marx says the communist society, at the outset, would be obliged to continue the traditions of capitalist society and reward the worker according to his performance. Marx continues :
+
+“In a higher phase of communist society, when the slavish subordination of the individual to the yoke of the division of labour has disappeared, and when concomitantly the distinction between mental and physical work has ceased to exist; when labour is no longer the means to live, but is in itself the first of vital needs; when the productive forces of society have expanded proportionally with the multiform development of the individuals of whom society is made up – then will the narrow bourgeois outlook be utterly transcended, and then will society inscribe upon its banners, ‘From everyone according to his capacities; to everyone according to his needs!’”
+
+This “higher phase of communist society” is what Lenin calls Communism proper.
+
+The first phase is what is usually described as “Socialism” (The State and Revolution). This second phase Lenin already sees in the most brilliant colours. The principle: “From each according to his ability; to each according to his needs,” he interprets to mean that “men will voluntarily work according to their abilities. There will then be no need for any exact calculation by society of the quantity of products to be distributed to each of its members; each will take freely ‘according to his needs.’”
+
+What a blessed state of affairs, in which each may work at what and for how long he likes; and each will find to hand such an abundance of articles of consumption that he may take freely whatever he likes.
+
+At that time Lenin had no presentiment that the second phase of his Communism would assume quite a different character: that of compulsory labour and starvation.
+
+Apart from this, has not Marx himself here embarked upon the search for an ideal standard of distribution?
+
+By no means. This is clear from the next paragraphs.
+
+Marx continues:
+
+“I have dealt so fully with these matters, with ‘the whole product of labour’ on the one hand, and with ‘equal rights’ and with ‘just distribution’ on the other, in order to show how monstrous it is to endeavour: first of all to force upon our party as dogmas, conceptions which at one time had a certain meaning, but which have now become obsolete verbiage; and secondly, to endeavour to uproot the realistic conceptions which (after long labour) have been firmly implanted in the minds of our members, and to replace them by ideological fustian about rights and all the rest of it, concerning which the democrats and the French Socialists are so fond of prating.
+
+“Apart from the considerations hitherto adduced, I may point out that it is a great mistake to make so much of this matter of distribution, and to stress that question above all others.
+
+“The distribution of the means of consumption at any time is no more than a consequence of the extant distribution of the means of production. But this latter is characteristic of the prevailing mode of production. Capitalist production, for example, rests upon the fact that the material pre-requisites of production are in the hands of non-workers, the owners of capitalist property and landed property, whereas all that the masses possess is the personal pre-requisite of production, labour-power to wit. The elements of production being thus distributed, the extant distribution of the means of consumption follows spontaneously. But if the material pre-requisites of production be the co-operative property of the workers themselves, a method of distribution of the means of consumption differing from that now extant will ensue as a matter of course. Vulgar Socialism has accepted as gospel from the bourgeois economists (and a part even of the democracy has taken over the doctrine from the unreflecting Socialists) that the problem of distribution can be considered and treated independently of the mode of production, from which it is inferred that Socialism turns mainly upon the question of distribution. But the real nature of these relationships has long been made perfectly clear. Why should we retrace our steps?”
+
+Marx deals with the same subject in more detail in the posthumous fragment of his Contribution to the Criticism of Political Economy, in the section devoted to Production and Distribution.
+
+“The subdivisions and organization of distribution are determined by the subdivisions and organization of production. Distribution is itself the product of production, not only in so far as the material goods are concerned, since only the results of production can be distributed; but also as regards its form since the different manner of participation in production determines the particular form of distribution, the form under which participation takes place” (Contribution to the Criticism of Political Economy, Karl Marx, section Production and Distribution).
+
+This is clearly the case with capitalist production, which is a specific relationship of production between the worker and the owner of the means of production, the capitalist. It follows from this relationship that the product belongs to the owner of the means of production. But he is not able to keep intact the value which he receives in exchange, for the process of production must be kept going. Not from a single operation, but from its constant act of renewal, as a process of reproduction, does it derive its legitimacy, to which the capitalist also is subject. The latter must expend a part of the proceeds to buy new raw and auxiliary materials, coal, oil, etc., to maintain machines, buildings, etc. The laws of competition themselves compel him constantly to maintain his undertaking in a state of efficiency and to extend it, which involves new installations and new buildings. He must have in hand a sum of money as a wage fund for the workers he employs and to pay rates and taxes. The whole method of the distribution of the value of the product is prescribed for him by the conditions of production and of society; he cannot dispose of the product as he likes. He can only do this with what remains to him as his consumption fund.
+
+Similarly, the Socialist society will find in existence conditions of production which will determine the specific ways of distribution, quite independent of the dictates of justice, to which it might desire to give effect.
+
+By virtue of the transformation of property in the means of production into common property, society will become the master of the whole of the products that are created. But in actuality it will only have the right of disposing of the consumption fund of the former masters of the means of production, the capitalists and landlords. Even this fund will not remain completely intact, as the socialist society will employ the former masters and pay them for their work. The remainder of the consumption fund of the capitalists will then be added to the wage fund and serve to increase wages. But under a socialist, as under a capitalist mode of production, the remuneration of the worker will remain in closest connection with the process of production.
+
+Of course, labour-power will now cease to be a commodity. Its price will no longer be determined by the supply and demand in the labour market. Nevertheless, the worker’s wage, as heretofore, will have to be settled so as to form an incentive to further production.
+
+The wages of labour will remain in closest connection with the technique and psychology of the labour process.
+
+To-day the capitalist fixes the most varied forms of wages, in accordance with the peculiarities of the various kinds of activity. Some workers are engaged on piecework, and others paid weekly. To some he supplies raw material, and pays them for the finished product they bring to him. His officials are paid by monthly or yearly salary.
+
+Similarly, a socialist undertaking will be obliged to fix the most varied kinds of remuneration, according to the type of work that has to be rewarded. And although labour-power will cease to be a commodity, the effects of supply and demand will not be banished entirely. In any case, there will be an end of trade slumps and booms, with the corresponding fluctuations in wages. There will, however, still be pleasant and unpleasant, light and heavy work. If we exclude compulsory labour, equal payment will attract men to the first kinds of labour, leaving a shortage of labour in the other kinds. If all kinds of work are to be executed in a proper and necessary relation to each other, there will be no alternative but to increase the wages for the unpleasant types of work, or to reduce the length of the working-day.
+
+Thus the distribution of the social product among the individual workers will not be determined according to the principles of justice, however they may be formulated, but by the conditions and requirements of production.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-social-revolution-and-on-the-4a4d88",
+  "work_title": "The Social Revolution (and On the Day After the Social Revolution)",
+  "chapter_number": 15,
+  "chapter_title": "The Organization of the Productive Process",
+  "chapter_slug": "15-the-organization-of-the-productive-process",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e60838cb-9de9-58e2-a34a-30862d4ecbd7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2366,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1902/socrev/pt2-2.htm"
+    }
+  ]
+}

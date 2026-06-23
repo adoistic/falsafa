@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 13
-chapter_title: Chapter XXII
+chapter_title: Chapter XXI
 chapter_slug: 13
 variant_id: "930aa4b4-78a8-5fa3-8da0-fbf8ffddaf92"
 content_type: translation
@@ -13,61 +13,57 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 545
+word_count: 1154
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-_Of the Partly Conjunctive Syllogism regarded as an Immediate Inference_.
+*Of the Reduction of the Partly Conjunctive Syllogism.*
 
-§ 753. It is the assertion of fact in the minor premiss, where we have the application of an abstract principle to a concrete instance, which alone entitles the partly conjunctive syllogism to be regarded as a syllogism at all. Apart from this the forms of semi-conjunctive reasoning run at once into the moulds of immediate inference.
+§ 744. Such syllogisms as those just treated of, if syllogisms they are to be called, have a major and a middle term visible to the eye, but appear to be destitute of a minor. The missing minor term is however supposed to be latent in the transition from the conjunctive to the simple form of proposition. When we say 'A is B,' we are taken to mean, 'As a matter of fact, A is B' or 'The actual state of the case is that A is B.' The insertion therefore of some such expression as 'The case in hand,' or 'This case,' is, on this view, all that is wanted to complete the form of the syllogism. When reduced in this manner to the simple type of argument, it will be found that the constructive conjunctive conforms to the first figure and the destructive conjunctive to the second.
 
-§ 754. The constructive mood will then be read in this way--
+*Constructive Mood*. *Barbara*.
 
-reducing itself to an instance of immediate inference by subaltern opposition--
+If A is B, C is D. \ / All cases of A being B are cases of \ = / C being D. A is B. / \ This is a case of A being B. .'. C is D. / \ .'. This is a case of C being D.
 
-Every case of A being B, is a case of C being D. .'. Some particular case of A being B is a case of C being D.
+*Destructive Mood.* Camestres.
 
-§ 755. Again, the destructive conjunctive will read as follows--
+If A is B, C is D. \ / All cases of A being B are cases of \ = / C being D. C is not D. / \ This is not a case of C being D. .'. A is not B. / \ .'. This is not a case of A being B.
 
-If A is B, C is D, .'. C not being D, A is not B.
+§ 745. It is apparent from the position of the middle term that the constructive conjunctive must fall into the first figure and the destructive conjunctive into the second. There is no reason, however, why they should be confined to the two moods, Barbara and Carnestres. If the inference is universal, whether as general or singular, the mood is Barbara or Carnestres; if it is particular, the mood is Darii or Baroko.
 
-which is equivalent to
+Barbara. Camestres. If A is B, C is always D. \ If A is B, C is always D. \ A is always B. \ C is never D. \ .'. C is always D. \ .'. A is never B. \ | | If A is B, C is always D. / If A is B, C is always D. / A is in this case B. / C is not in this case D. / .'. C is in this case D. / .'. A is not in this case B. /
 
-All cases of A being B are cases of C being D. .'. Whatever is not a case of C being D is not a case of A being B. .'. Some particular case of C not being D is not a case of A being B.
+Darii. Baroko.
 
-But what is this but an immediate inference by contraposition, coming under the formula
+If A is B, C is always D. If A is B, C is never D. A is sometimes B. C is sometimes not D. .'. C is sometimes D. .'. A is sometimes not B.
 
-All A is B, .'. All not-B is not-A,
+§ 746. The remaining moods of the first and second figure are obtained by taking a negative proposition as the consequent in the major premiss.
 
-and followed by Subalternation?
+Celarent. Ferio. If A is B, C is never D. If A is B, C is never D. A is always B. A is sometimes B. .'. C is never D. .'. C is sometimes not D.
 
-§ 756. The fallacy of affirming the consequent becomes by this mode of treatment an instance of the vice of immediate inference known as the simple conversion of an A proposition. 'If A is B, C is D' is not convertible with 'If C is D, A is B' any more than 'All A is B' is convertible with 'All B is A.'
+*Cesare*. Festino. If A is B, C is never D. If A is B, C is never D. C is always D. C is sometimes D. .'. A is never B. .'. A is sometimes not B.
 
-§ 757. We may however argue in this way
+§ 747. As the partly conjunctive syllogism is thus reducible to the simple form, it follows that violations of its laws must correspond with violations of the laws of simple syllogism. By our throwing the illicit moods into the simple form it will become apparent what fallacies are involved in them.
 
-which is equivalent to saying,
+*Denial of Anteceded*.
 
-When A is B, C is always D, .'. When C is D, A is sometimes B,
+If A is B, C is D. \ / All cases of A being B are cases of C \ = / being D. A is not B. / \ This is not a case of A being B. .'. C is not D. / \ .'. This is not a case of C being D.
 
-and falls under the legitimate form of conversion of A per accidens--
+Here we see that the denial of the antecedent amounts to illicit process of the major term.
 
-All cases of A being B are cases of C being D. .'. Some cases of C being D are cases of A being B.
+§ 7481 *Affirmation of Consequent*.
 
-§ 758. The fallacy of denying the antecedent assumes the following form--
+If A is B, C is D. \ / All Cases of A being B are cases of C | = | being D. C is D. / \ This is a case of C being D.
 
-equivalent to--
+Here we see that the affirmation of the consequent amounts to undistributed middle.
 
-All cases of A being B are cases of C being D. .'. Whatever is not a case of A being B is not a case of C being D.
+§ 749. If we confine ourselves to the special rules of the four figures, we see that denial of the antecedent involves a negative minor in the first figure, and affirmation of the consequent two affirmative premisses in the second. Or, if the consequent in the major premiss were itself negative, the affirmation of it would amount to the fallacy of two negative premisses. Thus--
 
-This is the same as to argue--
+If A is B, C is not D. \ / No cases of A being B are cases of C | = | being D. C is not D. / \ This is not a case of C being D.
 
-All A is B, .'. All not-A is not-B,
+§ 750. The positive side of the canon of the conjunctive syllogism--'To affirm the antecedent is to affirm the consequent,' corresponds with the Dictum de Omni. For whereas something (viz. C being D) is affirmed in the major of all conceivable cases of A being B, the same is affirmed in the conclusion of something which is included therein, namely, 'this case,' or 'some cases,' or even 'all actual cases.'
 
-an erroneous form of immediate inference for which there is no special name, but which involves the vice of simple conversion of A, since 'All not-A is not-B' is the contrapositive, not of 'All A is B,' but of its simple converse 'All B is A.'
+§ 751. The negative side--'to deny the consequent is to deny the antecedent'--corresponds with the Dictum de Diverse (§ 643). For whereas in the major all conceivable cases of A being B are included in C being D, in the minor 'this case,' or 'some cases,' or even 'all actual cases' of C being D, are excluded from the same notion.
 
-§ 759. The above-mentioned form of immediate inference, however (namely, the employment of contraposition without conversion), is valid in the case of the U proposition; and so also is simple conversion. Accordingly we are able, as we have seen, in dealing with a proposition of that form, both to deny the antecedent and to assert the consequent with impunity--
-
-If A is B, then only C is D, .'. A not being B, C is not D;
-
-and again, C being D, A must be B.
+§ 752. The special characteristic of the partly conjunctive syllogism lies in the transition from hypothesis to fact. We might lay down as the appropriate axiom of this form of argument, that 'What is true in the abstract is true--in the concrete,' or 'What is true in theory is also true in fact,' a proposition which is apt to be neglected or denied. But this does not vitally distinguish it from the ordinary syllogism. For though in the latter we think rather of the transition from a general truth to a particular application of it, yet at bottom a general truth is nothing but a hypothesis resting upon a slender basis of observed fact. The proposition 'A is B' may be expressed in the form 'If A is, B is.' To say that 'All men are mortal' may be interpreted to mean that 'If we find in any subject the attributes of humanity, the attributes of mortality are sure to accompany them.'

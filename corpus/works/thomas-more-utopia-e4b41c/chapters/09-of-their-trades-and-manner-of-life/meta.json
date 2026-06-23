@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-more-utopia-e4b41c",
+  "work_title": "Utopia",
+  "chapter_number": 9,
+  "chapter_title": "Of Their Trades, and Manner of Life",
+  "chapter_slug": "09-of-their-trades-and-manner-of-life",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a90d45d-4ab0-57f4-a210-8f332af9ab62",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1883,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/more/works/utopia/ch5.html"
+    }
+  ]
+}

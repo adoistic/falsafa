@@ -4,7 +4,7 @@ work_slug: "alexis-de-tocqueville-the-old-regime-and-the-revolutio-ea8547"
 work_title: The Old Regime and the Revolution
 author_name: Alexis de Tocqueville
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "2e6f7288-2403-5b43-a530-484e0c71abd1"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-law-of-accumulation-and-brea-4449c7",
+  "work_title": "The Law of Accumulation and Breakdown of the Capitalist System",
+  "chapter_number": 20,
+  "chapter_title": "Introduction: The economic function of imperialism",
+  "chapter_slug": "20-introduction-the-economic-function-of-imperialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a4139bbe-5878-597a-9ca3-ca8ae0226556",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 848,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/ch03.htm"
+    }
+  ]
+}

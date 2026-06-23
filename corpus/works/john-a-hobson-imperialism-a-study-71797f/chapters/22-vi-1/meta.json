@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-imperialism-a-study-71797f",
+  "work_title": "Imperialism: A Study",
+  "chapter_number": 22,
+  "chapter_title": "VI (1)",
+  "chapter_slug": "22-vi-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8236c54f-9e28-502c-b1f1-18cbe3c53c73",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1523,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hobson-imperialism-a-study"
+    }
+  ]
+}

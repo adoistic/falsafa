@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-paine-the-rights-of-man-e48f8e",
+  "work_title": "The Rights of Man",
+  "chapter_number": 6,
+  "chapter_title": "Conclusion.",
+  "chapter_slug": "06-conclusion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eae714d5-d0aa-506f-8b10-3de7c5be5f59",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4341,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paine-the-rights-of-man-part-i-1791-ed"
+    }
+  ]
+}

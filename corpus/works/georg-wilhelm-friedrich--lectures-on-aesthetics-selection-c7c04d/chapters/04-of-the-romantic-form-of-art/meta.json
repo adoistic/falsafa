@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-aesthetics-selection-c7c04d",
+  "work_title": "Lectures on Aesthetics (Selections)",
+  "chapter_number": 4,
+  "chapter_title": "Of the Romantic Form of Art",
+  "chapter_slug": "04-of-the-romantic-form-of-art",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec878259-e13d-52a6-853c-903128dece99",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14399,
+      "paragraph_count": 73,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/ae/ch03.htm"
+    }
+  ]
+}

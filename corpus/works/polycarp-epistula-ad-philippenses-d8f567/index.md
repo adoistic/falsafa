@@ -4,7 +4,10 @@ slug: "polycarp-epistula-ad-philippenses-d8f567"
 title: Epistula ad Philippenses
 author:
   name: Polycarp
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Bishop of Smyrna and one of the Apostolic Fathers, traditionally a disciple of John the Evangelist, who died a martyr. His Epistle to the Philippians is a key witness to early Christian doctrine and to the formation of the New Testament canon.
+  birth_year: 69
+  death_year: 155
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

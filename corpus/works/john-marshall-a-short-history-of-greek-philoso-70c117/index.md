@@ -4,13 +4,17 @@ slug: "john-marshall-a-short-history-of-greek-philoso-70c117"
 title: A Short History of Greek Philosophy
 author:
   name: John Marshall
-  biography: "John Marshall (1845-1915)."
+  biography: "Scottish classicist and rector of the Royal High School, Edinburgh, translator of Greek and Latin texts. A Short History of Greek Philosophy gave general readers a compact survey from the Presocratics to the post-Aristotelian schools."
+  birth_year: 1845
+  death_year: 1915
+  nationality: British
 era: 19th Century
 genre: History of Philosophy
 language: English
 language_direction: ltr
 description: "A Short History of Greek Philosophy, by John Marshall (1845-1915), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1891
 total_logical_chapters: 21
 total_variant_entries: 21
 thothica_role: catalog

@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 33,
+  "chapter_title": "XXXII. The Dance-song.",
+  "chapter_slug": "33-xxxii-the-dance-song",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e0f4f7ea-3b8d-5c52-8a05-d137937461aa",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 742,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31a710cc-19b6-5e3d-a918-198f8298c7b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 770,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

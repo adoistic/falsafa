@@ -1,0 +1,44 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 84
+chapter_title: Letter 84
+chapter_slug: "84-letter-84"
+variant_id: "8d3d6b85-0f07-5f02-8684-913ea4fb9d4e"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1158
+translator: thothica
+---
+
+1. These travels of mine, which shake my sluggishness out of me, I judge to be good both for my health and for my studies. Why they help my health you see: since my love of letters makes me lazy and careless of my body, I take exercise by another's labour. Why they should be good for studies I will show you: I have not withdrawn from my reading. Reading, in my opinion, is necessary, first that I may not be content with myself alone, then that, when I have learned what others have inquired into, I may both pass judgment on what has been discovered and think out what is still to be discovered. Reading nourishes the mind and refreshes it when it is wearied with study, though not without study itself.
+
+2. We ought neither to write only nor to read only; the one will sadden and exhaust our powers, the writing I mean, the other will loosen and dilute them. We must go back and forth between this and that, and temper the one with the other, so that whatever has been gathered by reading the pen may reduce into a body.
+
+3. We ought, as men say, to imitate the bees, which wander about and cull the flowers suitable for making honey, then arrange and distribute among the combs whatever they have brought in, and, as our Virgil says, "pack the liquid honey and stretch the cells with sweet nectar."
+
+4. Of the bees it is not sufficiently agreed whether they draw from the flowers a juice which is at once honey, or whether they change what they have gathered into this flavour by a certain blending and property of their own breath. For some hold that they have not the science of making honey, but of gathering it. They say that among the Indians honey is found in the leaves of reeds, which either the dew of that climate or the moisture of the reed itself, sweet and somewhat thick, produces. In our own herbs too, they say, there is set the same power, but less manifest and notable, which an animal born for this purpose pursues and draws together. Some think that the things they have plucked from the most tender of the green and flowering plants are turned into this quality by a kind of preserving and arrangement, not without a sort of fermentation, so to speak, by which diverse things coalesce into one.
+
+5. But, that I may not be led off to something other than the matter in hand, we too ought to imitate these bees, and to keep separate whatever we have gathered from various reading, for things kept apart are better preserved; then, by applying the care and skill of our talent, to blend into one flavour all those samplings, so that, even if it be apparent from what source it was taken, it may yet appear something other than that from which it was taken.
+
+6. This we see nature do in our own bodies without any labour of ours: the foods we have taken in, so long as they remain in their own quality and float solid in the stomach, are burdens; but when they have been changed from what they were, then at last they pass into strength and into blood. Let us render the same service to these things by which the mind is nourished, that whatever we have drunk in we do not allow to remain whole, lest it be another's.
+
+7. Let us digest them; otherwise they will go into the memory, not into the mind. Let us assent to them faithfully and make them our own, so that some one thing may be made out of many, just as one number is made out of single units, when one reckoning embraces lesser and differing sums. Let our mind do this: let it hide all the things by which it has been helped, and show only what it has itself made.
+
+8. Even if in you there shall appear some likeness of one whom admiration has fixed more deeply within you, I wish you to be like him as a son, not as a portrait; a portrait is a dead thing. "What then? Will it not be perceived whose oratory you imitate, whose argumentation, whose maxims?" I think that sometimes it cannot even be perceived, if a great mind has stamped its own form upon everything it has gathered from any model, so that they are brought into unity. Do you not observe how a chorus is made up of many voices? Yet one is rendered out of them all.
+
+9. In a chorus some voice is high, some deep, some middle. Women are added to men, flutes are interposed. There the voices of the single singers are hidden, those of all appear.
+
+10. I speak of the chorus which the old philosophers knew; in our entertainments there are more singers than there once were spectators in the theatres. When the line of singers has filled all the aisles, and the auditorium is ringed round with trumpeters, and from the stage flutes and organs of every kind have sounded in concert, there is made out of discordant sounds a harmony. Such I would have our mind to be: let there be in it many arts, many precepts, examples of many ages, but blended into one.
+
+11. "How," you say, "can this be brought about?" By unremitting attention; if we do nothing except at reason's bidding. If you are willing to hear her, she will say to you: "Leave at once those things after which men run. Leave riches, either a danger to be possessed or a burden. Leave the pleasures of the body and of the mind; they soften and unman. Leave ambition; it is a swollen thing, empty, windy, it has no limit, it is as anxious lest it see anyone before it as lest it see anyone behind."
+
+12. Do you behold those houses of the powerful, those thresholds with their tumultuous brawling of callers? They have many insults for you to enter, more when you have entered. Pass by those steps of the rich and the porches raised high on great mounds of earth; there you will stand not only on a precipice but on slippery ground. Direct yourself rather hither, toward wisdom, and seek her most tranquil things and at the same time her most ample.
+
+13. Whatever things seem to stand out in human affairs, however petty they be and prominent only by comparison with the lowest, are yet approached by difficult and steep paths. The way to the summit of high station is rough; but if you wish to mount this peak, to which fortune has submitted herself, you will indeed look down upon all those things which are held to be most lofty, yet you will come to the summit over level ground. Farewell.

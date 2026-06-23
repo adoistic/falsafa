@@ -13,14 +13,14 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1619
+word_count: 1607
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
 
 But perhaps the most brilliant idea in your whole address, is this:
 
-Every citizen owes the country a vigilant watch and close scrutiny of its public servants, and a fair and reasonable estimate of their fidelity and usefulness. Thus is the people’s will Edition: current; Page: [26] impressed upon the whole framework of our civil policy, municipal, State, and federal; and this is the price of our liberty, and the inspiration of our faith in the republic.
+Every citizen owes the country a vigilant watch and close scrutiny of its public servants, and a fair and reasonable estimate of their fidelity and usefulness. Thus is the people’s will impressed upon the whole framework of our civil policy, municipal, State, and federal; and this is the price of our liberty, and the inspiration of our faith in the republic.
 
 The essential parts of this declaration are these:
 
@@ -40,7 +40,7 @@ The law of justice is the one only law that does not violate “our liberty.” 
 
 The law of justice is the precise measure, and the only precise measure, of the rightful “liberty” of each and every human being. Any law—made by lawmakers—that should give to any man more liberty than is given him by the law of justice, would be a license to commit an injustice upon one or more other persons. On the other hand, any law—made by lawmakers—that should take from any human being any “liberty” that is given him by the law of justice, would be taking from him a part of his own rightful “liberty.”
 
-Inasmuch, then, as every possible law, that can be made by lawmakers, must either give to some one or more persons more “liberty” than the law of nature—or the law of justice—gives them, and more “liberty” than is consistent with the natural and equal “liberty” of all other persons; or else must take from some one Edition: current; Page: [27] or more persons some portion of that “liberty” which the law of nature—or the law of justice—gives to every human being, it is inevitable that every law, that can be made by lawmakers, must be a violation of the natural and rightful “liberty” of some one or more persons.
+Inasmuch, then, as every possible law, that can be made by lawmakers, must either give to some one or more persons more “liberty” than the law of nature—or the law of justice—gives them, and more “liberty” than is consistent with the natural and equal “liberty” of all other persons; or else must take from some one or more persons some portion of that “liberty” which the law of nature—or the law of justice—gives to every human being, it is inevitable that every law, that can be made by lawmakers, must be a violation of the natural and rightful “liberty” of some one or more persons.
 
 Therefore the very idea of a lawmaking government—a government that is to make laws of its own invention—is necessarily in direct and inevitable conflict with “our liberty.” In fact, the whole, sole, and only real purpose of any lawmaking government whatever is to take from some one or more persons their “liberty.” Consequently the only way in which all men can preserve their “liberty,” is not to have any lawmaking government at all.
 
@@ -56,7 +56,7 @@ We have been told, time out of mind, that “Eternal vigilance is the price of l
 
 5. It does not tell us that this right of individual liberty is a natural, inherent, inalienable right; that therefore no man can part with it, or delegate it to another, if he would; and that, consequently, all the claims that have ever been made, by governments, priests, or any other powers, that individuals have voluntarily surrendered, or “delegated,” their liberty to others, are all impostures and frauds.
 
-6. It does not tell us that all human laws, so called, and all human lawmaking,—all commands, either by one man, or any number of men, calling themselves a Edition: current; Page: [28] government, or by any other name—requiring any individual to do this, or forbidding him to do that—so long as he “lives honestly, hurts no one, and gives to every one his due”—are all false and tyrannical assumptions of a right of authority and dominion over him; are all violations of his natural, inherent, inalienable, rightful, individual liberty; and, as such, are to be resented and resisted to the utmost, by every one who does not choose to be a slave.
+6. It does not tell us that all human laws, so called, and all human lawmaking,—all commands, either by one man, or any number of men, calling themselves a government, or by any other name—requiring any individual to do this, or forbidding him to do that—so long as he “lives honestly, hurts no one, and gives to every one his due”—are all false and tyrannical assumptions of a right of authority and dominion over him; are all violations of his natural, inherent, inalienable, rightful, individual liberty; and, as such, are to be resented and resisted to the utmost, by every one who does not choose to be a slave.
 
 7. And, finally, it does not tell us that all lawmaking governments whatsoever—whether called monarchies, aristocracies, republics, democracies, or by any other name—are all alike violations of men’s natural and rightful liberty.
 

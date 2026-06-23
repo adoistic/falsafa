@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-on-the-nature-of-the-gods-3ef991",
+  "work_title": "On the Nature of the Gods",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "93d42159-e614-5449-8552-8d5c750445fb",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9209,
+      "paragraph_count": 95,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi050"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cc89bf1d-d834-50a6-a8b8-871d9a8d7290",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 13779,
+      "paragraph_count": 95,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

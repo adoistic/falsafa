@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-england-for-all-528b1d",
+  "work_title": "England For All",
+  "chapter_number": 10,
+  "chapter_title": "Chap.VIII – Foreign Affairs",
+  "chapter_slug": "10-chap-viii-foreign-affairs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1603c29-b05c-53d8-833b-7bbe3fc234a9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6270,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1881/england/chap08.html"
+    }
+  ]
+}

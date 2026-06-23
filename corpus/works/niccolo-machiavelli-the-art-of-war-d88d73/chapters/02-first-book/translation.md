@@ -4,7 +4,7 @@ work_slug: "niccolo-machiavelli-the-art-of-war-d88d73"
 work_title: The Art of War
 author_name: Niccolò Machiavelli
 chapter_number: 2
-chapter_title: FIRST BOOK
+chapter_title: First Book
 chapter_slug: "02-first-book"
 variant_id: "3805812d-de4e-5380-9e8f-e215a9ffd0f2"
 content_type: translation

@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 15
-chapter_title: Chapter XXIV
+chapter_title: Chapter XXIII
 chapter_slug: 15
 variant_id: "652dfb4b-a187-5a58-a8a2-26ed056336a8"
 content_type: translation
@@ -13,61 +13,35 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 511
+word_count: 549
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-*Of the Reduction of the Disjunctive Syllogism.*
+*Of the Disjunctive Syllogism*.
 
-§ 766. We have seen that in the disjunctive syllogism the two constructive moods alone are formally valid. The first of these, namely, the denial of the antecedent, will in all cases give a simple syllogism in the first figure; the second of them, namely, the denial of the consequent, will in all cases give a simple syllogism in the second figure.
+§ 760. Roughly speaking, a Disjunctive Syllogism results from the combination of a disjunctive with a simple premiss. As in the preceding form, the complex proposition is regarded as the major premiss, since it lays down a hypothesis, which is applied to fact in the minor.
 
-*Denial of Antecedent* = Barbara.
+§ 761. The Disjunctive Syllogism may be exactly defined as follows--
 
-Either A is B or C is D. A is not B. .'.C is D
+A complex syllogism, which has for its major premiss a disjunctive proposition, either the antecedent or consequent of which is in the minor premiss simply affirmed or denied.
 
-is equal to
+§ 762. Thus there are four types of disjunctive syllogism possible.
 
-is equal to
+*Constructive Moods.*
 
-All cases of A not being B are cases of C being D. This is a case of A not being B. .'. This is a case of C being D.
+Either death is annihilation or we are immortal. Death is not annihilation. .'. We are immortal.
 
-*Denial of Consequent* = Camestres.
+Either the water is shallow or the boys will be drowned. The boys are not drowned. .'. The water is shallow.
 
-Either A is E or C is D. C is not D. .'. A is B.
+*Destructive Moods*.
 
-is equal to
+§ 763. Of these four, however, it is only the constructive moods that are formally conclusive. The validity of the two destructive moods is contingent upon the kind of alternatives selected. If these are such as necessarily to exclude one another, the conclusion will hold, but not otherwise. They are of course mutually exclusive whenever they embody the result of a correct logical division, as 'Triangles are either equilateral, isosceles or scalene.' Here, if we affirm one of the members, we are justified in denying the rest. When the major thus contains the dividing members of a genus, it may more fitly be symbolized under the formula, 'A is either B or C.' But as this admits of being read in the shape, 'Either A is B or A is C,' we retain the wider expression which includes it. Any knowledge, however, which we may have of the fact that the alternatives selected in the major are incompatible must come to us from material sources; unless indeed we have confined ourselves to a pair of contradictory terms (A is either B or not-B). There can be nothing in the form of the expression to indicate the incompatibility of the alternatives, since the same form is employed when the alternatives are palpably compatible. When, for instance, we say, 'A successful student must be either talented or industrious,' we do not at all mean to assert the positive incompatibility of talent and industry in a successful student, but only the incompatibility of their negatives--in other words, that, if both are absent, no student can be successful. Similarly, when it is said, 'Either your play is bad or your luck is abominable,' there is nothing in the form of the expression to preclude our conceiving that both may be the case.
 
-is equal to
+§ 764. There is no limit to the number of members in the disjunctive major. But if there are only two alternatives, the conclusion will be a simple proposition; if there are more than two, the conclusion will itself be a disjunctive. Thus--
 
-All cases of A not being B are cases of C being D. This is not a case of C being D. .'. This is not a case of A being B.
+Either A is B or C is D or E is F or G is H. E is not F. .'. Either A is B or C is D or G is H.
 
-§ 767. The other moods of the first and second figures can be obtained by varying the quality of the antecedent and consequent in the major premiss and reducing the quantity of the minor.
+§ 765. The Canon of the Disjunctive Syllogism may be laid down as follows--
 
-§ 768. The invalid destructive moods correspond with the two invalid types of the partly conjunctive syllogism, and have the same fallacies of simple syllogism underlying them. Affirmation of the antecedent of a disjunctive is equivalent to the semi-conjunctive fallacy of denying the antecedent, and therefore involves the ordinary syllogistic fallacy of illicit process of the major.
-
-Affirmation of the consequent of a disjunctive is equivalent to the same fallacy in the semi-conjunctive form, and therefore involves the ordinary syllogistic fallacy of undistributed middle.
-
-*Affirmation of Antecedent* = *Illicit Major*.
-
-Either A is B or C is D. A is B. .'. C is not D.
-
-is equal to
-
-is equal to
-
-All cases of A not being B are cases of C being D. This is not a case of A not being B. .'. This is not a case of C not being D.
-
-*Affirmation of Consequent* = *Undistributed Middle*.
-
-Either A is B or C is D. C is D.
-
-is equal to
-
-If A is not B, C is D. C is D.
-
-is equal to
-
-All cases of A not being B are cases of C being D. This is a case of C being D.
-
-§ 769. So far as regards the consequent, the two species of complex reasoning hitherto discussed are identical both in appearance and reality. The apparent difference of procedure in the case of the antecedent, namely, that it is affirmed in the partly conjunctive, but denied in the disjunctive syllogism, is due merely to the fact that in the disjunctive proposition the truth of the consequent is involved in the falsity of the antecedent, so that the antecedent being necessarily negative, to deny it in appearance is in reality to assert it.
+To deny one member is to affirm the rest, either simply or disjunctively; but from affirming any member nothing follows.

@@ -4,7 +4,10 @@ slug: "lucian-of-samosata-pro-imaginibus-8cc1f8"
 title: Pro imaginibus
 author:
   name: Lucian of Samosata
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Greek-language satirist of Syrian origin, a rhetorician of the Second Sophistic who turned his training toward comic dialogue. His prose works mocked philosophers, gods, and credulity, inventing the satirical dialogue and the fantastic voyage of the True History."
+  birth_year: 125
+  death_year: 180
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

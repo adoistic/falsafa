@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 20,
+  "chapter_title": "Conspectus of Hegel’s Book Lectures on the Philosophy Of History",
+  "chapter_slug": "20-conspectus-of-hegel-s-book-lectures-on-the-philoso",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4370bc2d-a361-5898-a96e-be96910d19aa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 543,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/misc/x03.htm"
+    }
+  ]
+}

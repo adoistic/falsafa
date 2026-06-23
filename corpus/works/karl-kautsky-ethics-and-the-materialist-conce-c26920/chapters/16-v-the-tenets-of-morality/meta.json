@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-ethics-and-the-materialist-conce-c26920",
+  "work_title": "Ethics and the Materialist Conception of History",
+  "chapter_number": 16,
+  "chapter_title": "V. The Tenets of Morality",
+  "chapter_slug": "16-v-the-tenets-of-morality",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "024f3648-827c-5f3e-ac73-5206aa1328e4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7393,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1906/ethics/ch05b.htm"
+    }
+  ]
+}

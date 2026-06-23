@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-dewey-democracy-and-education-df209d",
+  "work_title": "Democracy and Education",
+  "chapter_number": 18,
+  "chapter_title": "Chapter Eighteen — Educational Values",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9e50b2da-b78a-59f1-92bd-d95ac50d5dd5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7351,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/852"
+    }
+  ]
+}

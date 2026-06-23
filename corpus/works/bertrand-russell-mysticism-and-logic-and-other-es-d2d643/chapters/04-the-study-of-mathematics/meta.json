@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-mysticism-and-logic-and-other-es-d2d643",
+  "work_title": "Mysticism and Logic and Other Essays",
+  "chapter_number": 4,
+  "chapter_title": "The Study of Mathematics",
+  "chapter_slug": "04-the-study-of-mathematics",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11a72677-e732-53f8-bffb-3402c768877c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4660,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/25447"
+    }
+  ]
+}

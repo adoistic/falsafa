@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-right-of-nations-to-self-det-5fba7c",
+  "work_title": "The Right of Nations to Self-Determination",
+  "chapter_number": 7,
+  "chapter_title": "7. The Resolution of the London International Congress, 1896",
+  "chapter_slug": "07-7-the-resolution-of-the-london-international-congr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b6a2e134-4927-5751-a534-697620bc2968",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1399,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1914/self-det/ch07.htm"
+    }
+  ]
+}

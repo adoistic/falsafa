@@ -1,0 +1,27 @@
+---
+work_id: "b2e53d8f-9a78-5b15-9c53-4db14ec44da5"
+work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
+work_title: The Comedy of Protection
+author_name: George Hamilton
+chapter_number: 49
+chapter_title: "Ii.—: Ration of the French Soldier."
+chapter_slug: "49-ii-ration-of-the-french-soldier"
+variant_id: "62d19d77-6caf-5866-8cbe-12c2f51f535d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 342
+source_url: "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+translator: Online Library of Liberty edition
+---
+
+In time of peace the actual rations of the French soldier are 26 oz. of bread and 101/2 oz. of meat, without counting vegetables, sugar, and coffee; and over and above the ordinary bread ration pieces of 41/2 oz. are given out with the soup twice a day, thus increasing the ration to 35 ozs. There are certain substitutes, however, for the bread given out with soup. The meat ration of 101/2 oz. is uncooked and includes bones; from the weight one-fifth, or 20 per cent., must be deducted for bones. The account puts the meat, when cooked with the bones, at 46 per cent. The meat book of the Military Academy at Saint Cyr for February, 1905, runs: Paris meat of the best quality (i.e., the lower portions, neck, loin, ribs, and some portions of the cheek without bones, and flank portions), net weight 99 lbs., 75 per cent. being meat and 25 per cent. bones when uncooked. The cooked meat was 57 lb., bone 151/2 lb., 55 per cent. being the average for the high-class fare from which the above example is taken. Thus the average of cooked meat may be taken as 50 per cent.
+
+On an average raw fresh meat contains 15 per cent. of proteids; multiplied by 101/2 oz. this gives us 11/2 oz. of proteids for the meat, and 2 lbs. of bread contain 31/3 oz. of proteids. This is a little above Atwater’s figure, but allowing one-fifth for bones, below it.
+
+Even adding sugar and vegetables and allowing nothing for waste, the total can only be brought up to 3,400, i.e., the French soldier is on minimum ration. Vegetarians, of course, say that the place of meat can be taken by vegetable substitutes, but they forget the old dictum that nourishment does not depend upon what one eats, but on what one digests. Atwater’s final experiments give the coefficients of the different sorts of food as follows:—
+
+These figures prove that vegetable foods consume without supplying fuel. They have the same defects as alcoholic foods.

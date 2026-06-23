@@ -4,7 +4,10 @@ slug: "lysias-against-philocrates-a42769"
 title: Against Philocrates
 author:
   name: Lysias
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Athenian metic orator and speechwriter, counted among the ten Attic canon of rhetoricians. His surviving forensic speeches set the standard for plain, character-driven prose in the Athenian courts."
+  birth_year: -445
+  death_year: -380
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

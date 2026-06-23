@@ -1,0 +1,26 @@
+{
+  "work_slug": "jane-marcet-conversations-on-political-econo-b12c13",
+  "work_title": "Conversations on Political Economy",
+  "chapter_number": 23,
+  "chapter_title": "Conversation XXII, On Expenditure.",
+  "chapter_slug": "23-conversation-xxii-on-expenditure",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cff4d7f9-9c2f-5250-95ef-9e367d8809b3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5895,
+      "paragraph_count": 98,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marcet-conversations-on-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 25,
+  "chapter_title": "The Two Fundamental Forms of Manufacture: Heterogeneous Manufacture, Serial Manufacture",
+  "chapter_slug": "25-the-two-fundamental-forms-of-manufacture-heterogen",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0f0f2884-f001-5e49-910c-1f467b83fd80",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2868,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch14.htm"
+    }
+  ]
+}

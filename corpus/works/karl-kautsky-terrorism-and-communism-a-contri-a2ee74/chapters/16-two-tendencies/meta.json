@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-terrorism-and-communism-a-contri-a2ee74",
+  "work_title": "Terrorism and Communism: A Contribution to the Natural History of Revolution",
+  "chapter_number": 16,
+  "chapter_title": "Two Tendencies",
+  "chapter_slug": "16-two-tendencies",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "01520d6c-efdb-59a4-a712-d423d5bd3d1f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1881,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1919/terrcomm/ch07.htm"
+    }
+  ]
+}

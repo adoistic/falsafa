@@ -1,0 +1,26 @@
+{
+  "work_slug": "g-watts-cunningham-thought-and-reality-in-hegels-sy-ea5bab",
+  "work_title": "Thought and Reality in Hegel's System",
+  "chapter_number": 4,
+  "chapter_title": "Chapter III",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8318e44a-434d-52d9-9eed-afc55ac0d88f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11785,
+      "paragraph_count": 70,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/cunningham/thought-reality/ch03.htm"
+    }
+  ]
+}

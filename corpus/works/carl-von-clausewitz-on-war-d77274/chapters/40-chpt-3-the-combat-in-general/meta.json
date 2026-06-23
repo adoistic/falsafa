@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 40,
+  "chapter_title": "Chpt. 3 The Combat in General",
+  "chapter_slug": "40-chpt-3-the-combat-in-general",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cd7d6718-9bca-5f43-8a23-c3c02d074c88",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1673,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book4/ch03.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-economic-doctrines-of-karl-m-8309a8",
+  "work_title": "The Economic Doctrines of Karl Marx",
+  "chapter_number": 3,
+  "chapter_title": "II. Money",
+  "chapter_slug": "03-ii-money",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "83d03553-5b13-58b7-b60b-0c2d9bcf076f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5994,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1903/economic/ch02.htm"
+    }
+  ]
+}

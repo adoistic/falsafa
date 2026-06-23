@@ -1,0 +1,25 @@
+---
+work_id: "33d0564f-ecd5-5d33-bacc-8752f392ca15"
+work_slug: "alexander-bogdanov-socially-organised-society-socia-33d056"
+work_title: "Socially Organised Society: Socialist Society"
+author_name: Alexander Bogdanov
+chapter_number: 4
+chapter_title: 3. Distribution
+chapter_slug: "04-3-distribution"
+variant_id: "b8a70328-f10d-51cb-a8e3-de26aa0c885d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 525
+source_url: "https://www.marxists.org/archive/bogdanov/1919/socialism.htm"
+translator: J. Fineberg
+---
+
+Distribution generally represents an essential part of production, and in its organisation is wholly dependent upon it. The systematic organisation of production presupposes a systematic organisation of distribution. The supreme organiser in both these spheres will be society as a whole. Society will distribute labour and also the product of that labour. This is the very opposite of the anarchic unorganised distribution which is expressed in exchange and private property conducted on the basis of competition and the crude conflict of interests. The social organisation of production and distribution presupposes also the social ownership of the means of production and the articles of consumption created by social labour, until society hands them over to the individual for his personal use. “Individual property” commences in the sphere of consumption which essentially is individualistic. This, of course, has nothing in common with capitalist private property, which is primarily the private ownership of means of production; but does not represent the right of the worker to the necessary means of existence.
+
+The principle of distribution arises directly out of the basis of co-operation. As the system of production is organised on the basis that it secures to every member of society the possibility of the complete and universal development of his labour power and the possibility of applying it for the use of all, so the system of distribution should give him the articles of consumption necessary for the development and application of labour power. With regard to the method by which this is to be achieved, two phases may also be foreseen. At first, when the scale of production is not particularly great, and collectivism has not yet penetrated the spirit of every member of society, so that the elements of compulsion must yet be preserved, distribution will serve as a means of discipline: each one will receive a quantity of products in proportion to the amount of labour he has given to society. Later on, when the increase of production and the development of labour co-operation renders such careful economy and compulsion unnecessary, complete freedom of consumption will be established for the worker. Giving society all that he is able in strength and ability, society will give him all that he needs.
+
+The complexity of the new method of organising distribution must obviously be enormous and demand such developed statistical and informative apparatus as our epoch is far from having achieved. But even in our time the elements exist in various spheres of economic life which should serve as the material for such apparatus. In the sphere of banking and credit, for instance, there are the agencies and committees of experts for studying the state of the market, stock exchange organisation, &c.; in the labour movement, there are mutual aid societies, co-operative societies; and organised by the State are schemes of insurance, &c. All these will have to be radically reformed before they can serve for the future system of distribution, because at present they are wholly adapted to the anarchical system of capitalism and therefore subordinated to its forms. They may be described as the scattered rudimentary prototypes of the future harmonious system of distribution.

@@ -4,7 +4,7 @@ work_slug: "immanuel-kant-critique-of-practical-reason-and-fcea5d"
 work_title: Critique of Practical Reason and Other Works on the Theory of Ethics
 author_name: Immanuel Kant
 chapter_number: 1
-chapter_title: TRANSLATOR’S PREFACE to THIRD EDITION.
+chapter_title: Translator’s Preface to Third Edition.
 chapter_slug: "01-translator-s-preface-to-third-edition"
 variant_id: "270ad5d6-e9f2-5dd1-90f4-3f85bf75b332"
 content_type: translation

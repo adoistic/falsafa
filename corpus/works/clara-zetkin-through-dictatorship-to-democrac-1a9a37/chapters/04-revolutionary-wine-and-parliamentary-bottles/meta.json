@@ -1,0 +1,26 @@
+{
+  "work_slug": "clara-zetkin-through-dictatorship-to-democrac-1a9a37",
+  "work_title": "Through Dictatorship to Democracy",
+  "chapter_number": 4,
+  "chapter_title": "Revolutionary Wine and Parliamentary Bottles",
+  "chapter_slug": "04-revolutionary-wine-and-parliamentary-bottles",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2431f375-e2b6-59fa-a6dc-7159ba64499e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 202,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/zetkin/1919/xx/dictdem.htm"
+    }
+  ]
+}

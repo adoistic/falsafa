@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-bernard-shaw-the-perfect-wagnerite-a-commenta-7cd750",
+  "work_title": "The Perfect Wagnerite: A Commentary on the Niblung's Ring",
+  "chapter_number": 1,
+  "chapter_title": "Preface to the First German Edition",
+  "chapter_slug": "01-preface-to-the-first-german-edition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dbeb8199-40bb-5417-9383-89bfc56ec474",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1741,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/shaw/works/wagner.htm"
+    }
+  ]
+}

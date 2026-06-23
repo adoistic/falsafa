@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 34
-chapter_title: "XI. FEBRUARY, 1873.—An Act to authorize the coinage of the standard Silver Dollar, and to restore its legal-tender chara"
+chapter_title: "XI. February, 1873.—An Act to authorize the coinage of the standard Silver Dollar, and to restore its legal-tender chara"
 chapter_slug: "34-xi-february-1873-an-act-to-authorize-the-coinage-o"
 variant_id: "9f4659e7-6168-5a59-bfa8-8950f1a32270"
 content_type: translation

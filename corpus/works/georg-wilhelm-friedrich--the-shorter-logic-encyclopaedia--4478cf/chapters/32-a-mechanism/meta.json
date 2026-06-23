@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 32,
+  "chapter_title": "(a) Mechanism",
+  "chapter_slug": "32-a-mechanism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a6165b07-195d-5515-a865-5cb6f0b158d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1526,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slobject.htm"
+    }
+  ]
+}

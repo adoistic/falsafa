@@ -1,0 +1,31 @@
+---
+work_id: "9854ed81-f7ef-52b6-99c9-8ce949767ef2"
+work_slug: "nikolai-bukharin-the-abc-of-communism-9854ed"
+work_title: The ABC of Communism
+author_name: Nikolai Bukharin
+chapter_number: 10
+chapter_title: § 13 Fundamental contradictions of the capitalist system
+chapter_slug: "10-13-fundamental-contradictions-of-the-capitalist-sy"
+variant_id: "a4f19916-c576-5268-bc79-d461a7602159"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 548
+source_url: "https://www.marxists.org/archive/bukharin/works/1920/abc/01.htm"
+translator: Marxists Internet Archive edition
+---
+
+We must now examine whether capitalist or bourgeois society is well or ill constructed. Anything is sound and good when the mutual adaptation of its parts is entirely satisfactory. Let us consider the mechanism of a clock. It works accurately and freely if all the cog-wheels are properly adjusted one to another.
+
+Let us now look at capitalist society. We can perceive without difficulty that capitalist society is far less soundly constructed than it appears to be at the first glance. On the contrary, it exhibits grave contradictions and disastrous flaws. In the first place, under capitalism the production and distribution of goods is quite unorganized; 'anarchy of production' prevails. What does this mean? It means that all the capitalist entrepreneurs (or capitalist companies) produce commodities independently of one another. Instead of society undertaking to reckon up what it needs and how much of each article, the factory owners simply produce upon the calculation of what will bring them most profit and will best enable them to defeat their rivals in the market. The consequence often is that commodities are produced in excessive quantities - we are talking, of course, of pre-war days. There is then no sale for them. The workers cannot buy them, for they have not enough money. Thereupon a crisis ensues. The factories are shut down, and the workers are turned out into the street. Furthermore, the anarchy of production entails a struggle for the market; each producer wants to entice away the others' customers, to corner the market. This struggle assumes various forms: it begins with the competition between two factory owners; it ends in the world war, wherein the capitalist States wrestle with one another for the world market. This signifies, not merely that the parts of capitalist society interfere with one another's working, but that there is a direct conflict between the constituent parts.
+
+THE FIRST REASON, THEREFORE, FOR THE DISHARMONY OF CAPITALIST SOCIETY IS THE ANARCHY OF PRODUCTION, WHICH LEADS TO CRISES, INTERNECINE COMPETITION, AND WARS.
+
+THE SECOND REASON FOR THE DISHARMONY OF CAPITALIST SOCIETY IS TO BE FOUND IN THE CLASS STRUCTURE OF THAT SOCIETY. Considered in its essence, capitalist society is not one society but two societies; it consists of capitalists, on the one hand, and of workers and poor peasants, on the other. Between these two classes there is continuous and irreconcilable enmity; this is what we speak of as the class war. Here, also, we see that the various parts of capitalist society are not merely ill-adapted to one another, but are actually in unceasing conflict.
+
+Is capitalism going to collapse, or is it not? The answer to the question depends upon the following considerations. If we study the evolution of capitalism, if we examine the changes it has undergone in the course of time, and if we perceive that its disharmonies are diminishing, then we can confidently wish it a long life. If, on the other hand, we discover that in the course of time the various parts of the capitalist machine have come to clash with one another more and more violently, if we discern that the flaws in the structure are becoming positive chasms, then it is time to say, 'Rest in peace'.
+
+We have now, therefore, to study the evolution of capitalism.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 29,
+  "chapter_title": "Chap. VII: Of double Competition",
+  "chapter_slug": "29-chap-vii-of-double-competition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44a45c29-d5cd-5966-8acd-094cae7ab400",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2857,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_07.htm"
+    }
+  ]
+}

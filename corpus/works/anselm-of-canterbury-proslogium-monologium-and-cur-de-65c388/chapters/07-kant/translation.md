@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 7
-chapter_title: KANT.
+chapter_title: Kant.
 chapter_slug: "07-kant"
 variant_id: "0ed0f6a0-dd75-54c8-a0b7-062ae0ddaaf6"
 content_type: translation

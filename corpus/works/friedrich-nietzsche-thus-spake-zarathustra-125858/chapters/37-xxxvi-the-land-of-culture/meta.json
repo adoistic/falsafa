@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 37,
+  "chapter_title": "XXXVI. The Land of Culture.",
+  "chapter_slug": "37-xxxvi-the-land-of-culture",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "074ea0c8-92ee-54f5-8427-fae78ace2008",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 694,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "578149b2-035f-5289-867a-bea97096c157",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 754,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

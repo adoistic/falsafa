@@ -1,0 +1,42 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 29
+chapter_title: Letter 29
+chapter_slug: "29-letter-29"
+variant_id: "6cee759f-9098-5078-96f2-a936c8a99555"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1062
+translator: thothica
+---
+
+1. You ask about our friend Marcellinus and wish to know how he fares. He comes to us seldom, for no other reason than that he is afraid to hear the truth, a danger from which he is now far removed. For one must speak only to him who will listen. Hence about Diogenes, and no less about the other Cynics, who made indiscriminate use of their freedom and admonished all they met, it is usually doubted whether they ought to have done so.
+
+2. For what if a man should rebuke the deaf, or those dumb by nature or disease? "Why," you ask, "should I be sparing of words? They cost nothing." I cannot know whether I shall do good to the man I admonish; this I do know, that I shall do good to someone if I admonish many. One must scatter with full hand. It cannot be that, by trying much, one should not now and then succeed.
+
+3. This, my Lucilius, I do not think a great man ought to do; his authority is diluted and carries too little weight among those whom it might correct if it were less worn down. An archer ought not sometimes to hit and sometimes to miss; that is no art which reaches its effect by chance. Wisdom is an art; let it aim at the certain mark, let it choose those who will make progress, and withdraw from those it has given up as hopeless, yet not abandon them quickly, but in their very hopelessness try the last remedies.
+
+4. As for our Marcellinus, I do not yet despair of him. He can still be saved, but only if a hand is held out to him quickly. There is indeed a danger that he may drag down the one who holds it out; for there is great force of intellect in him, but it is already inclining toward what is depraved. None the less I shall face this danger and dare to show him his evils.
+
+5. He will do as he is wont; he will summon up those witticisms of his that can call out laughter even from mourners, and will joke first at himself, then at us. He will forestall everything I am about to say. He will rummage through our schools and cast the philosophers' largesses, their mistresses, their gluttony in their teeth. He will show me one in adultery, another in the cookshop, another at court.
+
+6. He will show me the philosopher Ariston, who used to lecture from his litter, for he had taken that time to publish his works. When someone asked to what sect he belonged, Scaurus said, "At any rate he is not a Peripatetic"; and when Julius Graecinus, an excellent man, was consulted about the same fellow, what he thought, he said, "I cannot tell you; for I do not know what he does on foot"—as though he were being asked about a chariot-fighter.
+
+7. These mountebanks, who would more honourably have neglected philosophy than peddle it, he will fling in my face. Yet I have resolved to put up with the insults; let him stir laughter in me, perhaps I shall stir tears in him; or if he persists in laughing, I shall rejoice, as one may amid evils, that he has been granted a cheerful kind of madness. But that cheerfulness does not last. Watch, and within a short space you will see the same men laugh most fiercely and rave most fiercely.
+
+8. My purpose is to approach him and show him how much greater his worth was when he seemed to many of less account. His faults, even if I do not cut them out, I shall hold in check; they will not cease, but they will be interrupted. And perhaps they will even cease, if they form the habit of being interrupted. This very thing is not to be despised, since indeed for the gravely afflicted a good remission stands in the place of health.
+
+9. While I prepare myself for him, do you in the meantime, who are able, who understand from where and to where you have escaped, and from that may surmise how far you will yet escape, order your character, lift up your mind, and stand fast against the things you have feared. Do not count those who cause you fear. Would not a man seem a fool who feared a crowd in a place through which there is passage only one at a time? Just so, there is no approach for many to your death, though many threaten it. Thus has Nature arranged it: one man alone will snatch away your breath, as one man alone gave it.
+
+10. If you had any shame, you would have remitted me the last instalment. But I for my part will not behave meanly at the close of my debt, and will pay you in full what I owe. "I have never wished to please the people. For what I know, the people do not approve; what the people approve, I do not know."
+
+11. "Who said this?" you ask, as though you did not know whom I am commanding. Epicurus. But this same thing all will shout to you from every household—Peripatetics, Academics, Stoics, Cynics. For who can please the people, if virtue pleases him? Popular favour is won by base arts. You must make yourself like them. They will not approve you unless they recognize you. But it matters far more to the point what you seem to yourself than what you seem to others. The love of the base cannot be won except by base means.
+
+12. What then will that philosophy bestow, praised and to be preferred above all arts and pursuits? Surely this: that you should choose to please yourself rather than the people, that you should weigh men's judgements, not count them, that you should live without fear of gods and men, that you should either overcome evils or end them. For the rest, if I see you celebrated by the favouring voices of the crowd, if at your entrance shouting and applause and the trappings of the pantomime ring out, if throughout the whole city the women and the children praise you, why should I not pity you, since I know what road leads to that favour? Farewell.

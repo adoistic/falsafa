@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 77,
+  "chapter_title": "LXXVI. Among Daughters of the Desert.",
+  "chapter_slug": "77-lxxvi-among-daughters-of-the-desert",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7a13034f-ddc4-52e0-a7c6-8a6e492797ad",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 937,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "030362a8-20c2-5165-897b-fff1b2fe8835",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1090,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

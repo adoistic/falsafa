@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 53,
+  "chapter_title": "A Prepossession Against an Inveterate Opinion, Chapter IV (4)",
+  "chapter_slug": "53-a-prepossession-against-an-inveterate-opinion-chap",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c0cd4032-65dc-50fb-9ddf-1d2146c42f12",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1718,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-useful-work-versus-useless-toil-6eb20f",
+  "work_title": "Useful Work versus Useless Toil",
+  "chapter_number": 1,
+  "chapter_title": "Useful Work versus Useless Toil",
+  "chapter_slug": "01-useful-work-versus-useless-toil",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3d404123-7a86-5ba7-9e36-20dafba28599",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8592,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1884/useful.htm"
+    }
+  ]
+}

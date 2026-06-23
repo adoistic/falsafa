@@ -1,0 +1,29 @@
+---
+work_id: "842b3e93-fd9c-5651-b926-05aaa3f7671f"
+work_slug: "august-bebel-woman-and-socialism-842b3e"
+work_title: Woman and Socialism
+author_name: August Bebel
+chapter_number: 67
+chapter_title: Chapter XXIV.
+chapter_slug: 67
+variant_id: "aae7d777-2ea2-5c62-bfec-46d0af748407"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 737
+source_url: "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch24.htm"
+translator: Meta L. Stern (Hebe)
+---
+
+As with the state, so it will be with religion. It will not be “abolished,” God will not be “dethroned,” people will not be “robbed of their faith,” as all the foolish arguments are worded that are directed against atheistic Socialists. Such follies Socialists leave to bourgeois idealists who attempted such measures during the French Revolution and, of course, failed utterly. Without any forcible attack or expression of opinions, of whatever nature they may be, the religious organizations will gradually disappear and the churches with them.
+
+Religion is the transcendental reflection of the social condition of every age. In the measure in which human development progresses and society is transformed, religion is transformed likewise. “Religion,” says Marx, “is the striving of the people for an imaginary happiness; it springs from a state of society that requires an illusion, but disappears when the recognition of true happiness and the possibility of its realization penetrates the masses.” It is to the interest of the ruling classes to prevent this recognition, and so they seek to uphold religion as a means for preserving their rule. This is clearly expressed in the well-known saying: “Religion must be preserved for the people.” This business of preserving religion for the people becomes an important official function in a society founded on class-rule. A caste is formed that assumes this function and concentrates all its ingenuity upon maintaining and expanding the structure, for this means the maintenance and expansion of their own power and authority. At the lowest stages of civilization, among primitive social conditions, religion is mere fetishism. With a higher development religion becomes polytheism, and at a still higher stage, it becomes monotheism. It is not the gods who have created man, but man who has created the gods, or God. “In the image of himself (man) he created him (God) ; not vice-versa. Even now monotheism has dissolved itself into an all-comprising, all-penetrating pantheism that is constantly becoming more volatile. Science has reduced the doctrine of creation of the earth in six days to a myth. Astronomy, mathematics and physics make heaven a phantom. They make of the stars in heaven on which angels are enthroned, suns and planets that preclude angelic existence.
+
+The ruling class, seeing its existence threatened, clings to religion, the support of all authority, as every ruling class has done. The bourgeoisie itself does not believe, and by its entire development and by modern science that sprang from its lap, it has destroyed the faith in religion and in all authority. Their belief is hypocrisy, but the Church accepts the support of this false friend, because it is sorely in need of aid itself. “Religion must be preserved for the people.”
+
+For the new society no considerations will exist. Uninterrupted human progress and unadulterated science will be its device. If some one should have religious needs, he may satisfy them with those who share his belief. Society will pay no attention to them. Even the priest must work to live, and as he will improve his mind by work, the time will come when even he will recognize that it is our highest destiny to be human.
+
+Ethics and morality exist even without religion. Only fools or hypocrites would assert the contrary. Ethics and morality are the expression of conceptions that regulate the actions and mutual relations of men, while religion comprises the relations of men to supernatural beings. But, like religion, our moral conceptions, too, arise from prevailing social conditions. The cannibal considers it moral to eat human flesh. Greeks and Romans regarded slavery as a moral institution. Serfdom seemed moral to the feudal lords of the middle ages, and the modern capitalist deems wage-slavery, the exploitation of women and the demoralization of children by industrial labor, a highly moral condition. These four stages of social evolution present four different conceptions of morality, but in none of them does the highest moral conception prevail. The highest moral condition is one in which all human beings will be free and equal; it is one in which the principle, “do unto others as you would have others do unto you,” will dominate all human relations. In the middle ages a man’s pedigree was the decisive factor; at the present time his social status is determined by his wealth; in the future every human being will be valued for his own true worth, and the future lies with Socialism.

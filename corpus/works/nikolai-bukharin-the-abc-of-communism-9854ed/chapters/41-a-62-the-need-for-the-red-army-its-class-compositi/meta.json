@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 41,
+  "chapter_title": "â§ 62. The need for the Red Army; its class composition",
+  "chapter_slug": "41-a-62-the-need-for-the-red-army-its-class-compositi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0737eede-1eb9-5df2-a9d3-6116725208fb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 607,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/08.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-riazanov-lassalle-and-bismarck-540064",
+  "work_title": "Lassalle and Bismarck",
+  "chapter_number": 1,
+  "chapter_title": "Lassalle and Bismarck",
+  "chapter_slug": "01-lassalle-and-bismarck",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b725b522-24d7-520f-a394-db9b334451f2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3957,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/riazanov/1928/07/lassalle.htm"
+    }
+  ]
+}

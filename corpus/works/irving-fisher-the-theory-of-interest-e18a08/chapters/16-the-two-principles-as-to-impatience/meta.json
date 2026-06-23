@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 16,
+  "chapter_title": "The Two Principles as to Impatience",
+  "chapter_slug": "16-the-two-principles-as-to-impatience",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a8504ff9-1cf2-5c11-98df-cd9748b2f30b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 277,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

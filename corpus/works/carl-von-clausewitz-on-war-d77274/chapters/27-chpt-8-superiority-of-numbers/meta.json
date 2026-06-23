@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 27,
+  "chapter_title": "Chpt. 8 Superiority of Numbers",
+  "chapter_slug": "27-chpt-8-superiority-of-numbers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f8fdc42-2414-595c-81da-5d6333003816",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2069,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch08.htm"
+    }
+  ]
+}

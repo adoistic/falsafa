@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 76,
+  "chapter_title": "Speech on Moving for a Committee to Inquire into the State of the Criminal Law, Delivered in the House of Commons, on Th",
+  "chapter_slug": "76-speech-on-moving-for-a-committee-to-inquire-into-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d4e11975-e062-52da-b45a-5e2b8da9c7c7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8497,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

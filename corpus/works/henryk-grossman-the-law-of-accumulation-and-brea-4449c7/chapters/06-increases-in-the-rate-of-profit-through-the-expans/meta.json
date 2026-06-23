@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-law-of-accumulation-and-brea-4449c7",
+  "work_title": "The Law of Accumulation and Breakdown of the Capitalist System",
+  "chapter_number": 6,
+  "chapter_title": "Increases in the rate of profit through the expansion of productivity",
+  "chapter_slug": "06-increases-in-the-rate-of-profit-through-the-expans",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c74566fa-9fa7-5ad9-bb01-8f507d914cd8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 825,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/ch03.htm"
+    }
+  ]
+}

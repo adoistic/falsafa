@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--objective-spirit-8b1922",
+  "work_title": "Objective Spirit",
+  "chapter_number": 6,
+  "chapter_title": "(b) CIVIL Society",
+  "chapter_slug": "06-b-civil-society",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c90a6974-65fb-56c7-bef9-5bc189cccec9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2601,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sp/osethica.htm"
+    }
+  ]
+}

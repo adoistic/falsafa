@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 93,
+  "chapter_title": "Our Father Which Art in Heaven, Sections.",
+  "chapter_slug": "93-our-father-which-art-in-heaven-sections",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "166cf7e5-3c9c-5155-b834-0f2fbf3b05ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5032,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

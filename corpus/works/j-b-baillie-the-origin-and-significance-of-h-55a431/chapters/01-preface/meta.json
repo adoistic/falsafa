@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-b-baillie-the-origin-and-significance-of-h-55a431",
+  "work_title": "The Origin and Significance of Hegel's Logic: A General Introduction to Hegel's System",
+  "chapter_number": 1,
+  "chapter_title": "Preface",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bf20dac3-b1ea-5607-87b0-46c98c7bb27a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1581,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/baillie/origin/preface.htm"
+    }
+  ]
+}

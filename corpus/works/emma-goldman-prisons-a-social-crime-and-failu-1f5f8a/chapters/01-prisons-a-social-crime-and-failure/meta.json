@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-prisons-a-social-crime-and-failu-1f5f8a",
+  "work_title": "Prisons: A Social Crime and Failure",
+  "chapter_number": 1,
+  "chapter_title": "Prisons: A Social Crime and Failure",
+  "chapter_slug": "01-prisons-a-social-crime-and-failure",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0165c33a-7657-565a-94bc-5b3394cd4ac0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4482,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1917/prisons.htm"
+    }
+  ]
+}

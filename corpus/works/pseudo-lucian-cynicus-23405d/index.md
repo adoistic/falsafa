@@ -4,7 +4,8 @@ slug: "pseudo-lucian-cynicus-23405d"
 title: Cynicus
 author:
   name: "Pseudo-Lucian"
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Conventional label for the anonymous authors of works transmitted in the Lucianic corpus but judged not to be by Lucian of Samosata. These pieces imitate his satirical and rhetorical manner and circulated under his name in antiquity.
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

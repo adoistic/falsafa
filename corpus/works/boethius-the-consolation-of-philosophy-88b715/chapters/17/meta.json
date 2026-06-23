@@ -2,7 +2,7 @@
   "work_slug": "boethius-the-consolation-of-philosophy-88b715",
   "work_title": "The Consolation of Philosophy",
   "chapter_number": 17,
-  "chapter_title": "Book iv, prose 2.",
+  "chapter_title": "Book iii, metr. 2, Book iv, prose 2. (5)",
   "chapter_slug": "17",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 201,
+      "word_count": 230,
       "paragraph_count": 2,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"

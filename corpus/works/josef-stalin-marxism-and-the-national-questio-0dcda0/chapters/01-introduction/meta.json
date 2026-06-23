@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-marxism-and-the-national-questio-0dcda0",
+  "work_title": "Marxism and the National Question",
+  "chapter_number": 1,
+  "chapter_title": "Introduction",
+  "chapter_slug": "01-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd2656c0-63ca-552a-b787-cafd019c0d65",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 677,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1913/03a.htm"
+    }
+  ]
+}

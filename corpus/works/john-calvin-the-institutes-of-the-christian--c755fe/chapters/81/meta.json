@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 81,
+  "chapter_title": "Chapter IX.: Of Meditating on the Future Life, Sections. (4)",
+  "chapter_slug": "81",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1970c19-6726-5982-bd89-302b38070c36",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3835,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

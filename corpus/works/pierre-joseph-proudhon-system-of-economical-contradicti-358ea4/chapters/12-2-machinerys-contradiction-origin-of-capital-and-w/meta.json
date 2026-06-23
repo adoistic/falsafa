@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-system-of-economical-contradicti-358ea4",
+  "work_title": "System of Economical Contradictions: or, The Philosophy of Poverty",
+  "chapter_number": 12,
+  "chapter_title": "2. Machinery's contradiction. — Origin of capital and wages.",
+  "chapter_slug": "12-2-machinerys-contradiction-origin-of-capital-and-w",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b3f85ae9-bfe3-5747-997e-da4e9da72484",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6032,
+      "paragraph_count": 80,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/philosophy/ch04.htm"
+    }
+  ]
+}

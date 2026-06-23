@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 43,
+  "chapter_title": "Introduction to the Second Volume.",
+  "chapter_slug": "43-introduction-to-the-second-volume",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6899f4c7-737c-5365-8b16-157f6735c477",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 764,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch19.htm"
+    }
+  ]
+}

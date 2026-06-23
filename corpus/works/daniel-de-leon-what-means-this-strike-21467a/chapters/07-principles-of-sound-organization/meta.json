@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-what-means-this-strike-21467a",
+  "work_title": "What Means This Strike?",
+  "chapter_number": 7,
+  "chapter_title": "Principles of Sound Organization",
+  "chapter_slug": "07-principles-of-sound-organization",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "00a27148-6e08-5619-8964-0ee748543963",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2598,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1898/980211.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-capitalist-class-0f5376",
+  "work_title": "The Capitalist Class",
+  "chapter_number": 7,
+  "chapter_title": "VI. The Lowering of the Rate of Profit",
+  "chapter_slug": "07-vi-the-lowering-of-the-rate-of-profit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "47c2d0b4-b1a7-59f4-b935-f44fbc8b5ad8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1215,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1911/cap-class/ch06.htm"
+    }
+  ]
+}

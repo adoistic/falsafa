@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-road-to-power-67108f",
+  "work_title": "The Road to Power",
+  "chapter_number": 1,
+  "chapter_title": "I. The Conquest of Political Power",
+  "chapter_slug": "01-i-the-conquest-of-political-power",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d048e751-0026-5fe4-9ebe-b9c2b482b8b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2478,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1909/power/ch01.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 29
-chapter_title: "VI. FEBRUARY, 1873.—An Act revising and amending the Laws relative to the Mints, Assay-offices, and Coinage of the Unite"
+chapter_title: "VI. February, 1873.—An Act revising and amending the Laws relative to the Mints, Assay-offices, and Coinage of the Unite"
 chapter_slug: "29-vi-february-1873-an-act-revising-and-amending-the-"
 variant_id: "7910fcf4-df56-51a5-bb37-b3f7bb529edc"
 content_type: translation

@@ -4,7 +4,7 @@ work_slug: "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221"
 work_title: The Recollections of Alexis de Tocqueville
 author_name: Alexis de Tocqueville
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "a1bec722-aef3-5e99-b937-bd367ea18cb1"
 content_type: translation

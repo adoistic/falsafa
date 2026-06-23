@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 377
+word_count: 373
 source_url: "https://oll.libertyfund.org/titles/spooner-no-treason-no-vi-the-constitution-of-no-authority-1870"
 translator: Online Library of Liberty edition
 ---
@@ -24,4 +24,4 @@ On general principles of law and reason, it is of no importance whatever that th
 
 It is obvious, too, that if these alleged principals ever did appoint these pretended agents, or representatives, they appointed them secretly (by secret ballot), and in a way to avoid all personal responsibility for their acts; that, at most, these alleged principals put these pretended agents forward for the most criminal purposes, viz.: to plunder the people of their property, and restrain them of their liberty; and that the only authority that these alleged principals have for so doing, is simply a tacit understanding among themselves that they will imprison, shoot, or hang every man who resists the exactions and restraints which their agents or representatives may impose upon them.
 
-Thus it is obvious that the only visible, tangible government we Edition: current; Page: [32] have is made up of these professed agents or representatives of a secret band of robbers and murderers, who, to cover up, or gloss over, their robberies and murders, have taken to themselves the title of “the people of the United States;” and who, on the pretence of being “the people of the United States,” assert their right to subject to their dominion, and to control and dispose of at their pleasure, all property and persons found in the United States.
+Thus it is obvious that the only visible, tangible government we have is made up of these professed agents or representatives of a secret band of robbers and murderers, who, to cover up, or gloss over, their robberies and murders, have taken to themselves the title of “the people of the United States;” and who, on the pretence of being “the people of the United States,” assert their right to subject to their dominion, and to control and dispose of at their pleasure, all property and persons found in the United States.

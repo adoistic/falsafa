@@ -1,0 +1,21 @@
+---
+work_id: "49b1767d-52c0-5270-b264-ddc4b6622a1a"
+work_slug: "peter-kropotkin-fields-factories-and-workshops-49b176"
+work_title: Fields, Factories, and Workshops
+author_name: Peter Kropotkin
+chapter_number: 13
+chapter_title: "Appendix C : Growth of Industry in Russia"
+chapter_slug: "13-appendix-c-growth-of-industry-in-russia"
+variant_id: "5753c95b-b435-5c76-94aa-fcb1639d291a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 291
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/appendix-c.html"
+translator: Marxists Internet Archive edition
+---
+
+The growth of industry in Russia will be best seen from the following:- 1880-81. 1893-94. 1910. Cwts. Cwts. Cwts. Cast iron . . . . . 8,810,000 25,450,000 61,867,000 Iron . . . . . . . 5,770,000 9,700,000 (iron and steel) 61,540,700 Steel . . . . . . . 6,030,000 9,610,000 Railway rail . . . 3,960,000 4,400,000 10,408,300 Coal . . . . . . . 64,770,000 160,000,000 530,570,000 (imports of coal) from 80,000,000 to 100,000,000 Naptha . . . . . . 6,900,000 108,700,000 189,267,000 Sugar . . . . . . . 5,030,000 11,470,000 28,732,000 Raw cotton, home grown 293,000 1,225,000 3,736,000 (cont.) Cottons, gray, and yarn 23,640,000 42,045,000 86,950,000 Cottons, printed . 6,160,000 7,720,000 37,680,000 1900. 1908. All cottons . . . . . £56,156,000 £94,233,000 All woolens . . . . . 19,064,000 25,388,000 Linen . . . . . . . . 7,076,600 9,969,000 Silk . . . . . . . . . 3,335,000 3,969,000 The recent growth of the coal and iron industries in South Russia (with the aid of Belgian capital) was very will illustrated at the Turin Exhibition of 1911. From less than 100,000 tons in 1860, the extraction of coal and anthracite rose to 16,840,460 metric tons in 1910. The extraction of iron ore rose from 377,000 tons in 1890 to 3,760,000 tons in 1909. The production of cast iron, which was only 29,270 tons in 1882, reached 2,067,000 tons in 1910, and the amount of refined iron and steel and their produce rose from 27,830 tons in 1882 to 1,641,960 tons in 1910. In short, South Russia is becoming an exporting center for the iron industry. (P. Palcinsky, in Russian Mining Journal, 1911, Nos. 8 and 12.)

@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 39,
+  "chapter_title": "XXXVII. Disagreements Over War Strategy",
+  "chapter_slug": "39-xxxvii-disagreements-over-war-strategy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7acff20-5de7-5d75-a864-ba8792a7e835",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3845,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch37.htm"
+    }
+  ]
+}

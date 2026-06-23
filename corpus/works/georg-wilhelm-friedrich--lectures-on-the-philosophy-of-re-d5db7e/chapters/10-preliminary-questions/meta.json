@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-philosophy-of-re-d5db7e",
+  "work_title": "Lectures on the Philosophy of Religion (Introduction and Absolute Religion, final section)",
+  "chapter_number": 10,
+  "chapter_title": "Preliminary Questions",
+  "chapter_slug": "10-preliminary-questions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "642c5105-5f51-5eab-81dd-048721153da2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3710,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/re/partb.htm"
+    }
+  ]
+}

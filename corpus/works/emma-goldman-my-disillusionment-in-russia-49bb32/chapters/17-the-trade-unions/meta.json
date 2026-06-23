@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 17,
+  "chapter_title": "The Trade Unions",
+  "chapter_slug": "17-the-trade-unions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0a70acae-5f0f-5220-909c-9fe8e7873ad9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1787,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch15.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-england-for-all-528b1d",
+  "work_title": "England For All",
+  "chapter_number": 1,
+  "chapter_title": "Preface",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dfd220b2-da27-550c-a6f0-7c64fc373b22",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 249,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1881/england/preface.html"
+    }
+  ]
+}

@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 663
+word_count: 655
 source_url: "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
 translator: Online Library of Liberty edition
 ---
@@ -24,12 +24,12 @@ And to-day, too, is her birthday. My wife had gone in the morning to the Childre
 
 My wife sank down on a chair perfectly stupefied. But the mother's love for her child soon brought her strength back again. She refused to credit such a thing, to believe that her Annie, her child, could be dead; there must be a strange mistake somewhere. She hastily followed the attendant to the death-room. Ah! there had been no mistake. There lay Annie, our dear little Annie, in that still long sleep from which no calling, and no kissing, and no bitter agony of the poor mother will ever awaken her.
 
-What avails it to enter into a long account of the Edition: current; Page: [89] suddenness with which this malignant disease had attacked her? It began with a cold which she had probably caught at night. At home the child always had a way of kicking off the bed-clothes in her sleep. But yonder there is no mother's eye to watch tenderly at the bedside of each little one amongst so many hundreds. Then again, the prescribed ventilation always causes more or less draught in the bedrooms. Or possibly the child had not been properly dried after a bath. In all these great establishments a good part of the work must unavoidably be done in a summary manner. It is likely enough, too, that the different style of living had made the child a little weaker, and therefore more susceptible than she had been at home. But what avails now inquiry or speculation? All that will never bring our Annie back to life again.
+What avails it to enter into a long account of the suddenness with which this malignant disease had attacked her? It began with a cold which she had probably caught at night. At home the child always had a way of kicking off the bed-clothes in her sleep. But yonder there is no mother's eye to watch tenderly at the bedside of each little one amongst so many hundreds. Then again, the prescribed ventilation always causes more or less draught in the bedrooms. Or possibly the child had not been properly dried after a bath. In all these great establishments a good part of the work must unavoidably be done in a summary manner. It is likely enough, too, that the different style of living had made the child a little weaker, and therefore more susceptible than she had been at home. But what avails now inquiry or speculation? All that will never bring our Annie back to life again.
 
 How will my poor wife be able to stand all this sorrow upon sorrow? The shock had such a serious effect upon her that she had to be taken in a cab straight from the Children's Home to the hospital. Later on they fetched me. Annie had been the pet of the family, the only girl, born some time after the lads. How many had been our hopes, our dreams, for her welfare, when she should be once grown up?
 
 I must break the news to-morrow to Ernst as best I can. It will not do for grandfather to get to hear it at all. He can never more tell her stories as she sits on his lap, as she so often used to, and ask again and again to be told about "Little Red Riding Hood and the Wolf."
 
-Franz and Agnes in America have as yet no suspicion of our sorrow, and they won't get my letter before nine or ten days. Franz loved his little sister Edition: current; Page: [90] tenderly, and it was rarely that he omitted to bring her some trifle when coming home from work. The little rogue knew this well enough, and used to run to meet him on the stairs as soon as there was any sign of his coming.
+Franz and Agnes in America have as yet no suspicion of our sorrow, and they won't get my letter before nine or ten days. Franz loved his little sister tenderly, and it was rarely that he omitted to bring her some trifle when coming home from work. The little rogue knew this well enough, and used to run to meet him on the stairs as soon as there was any sign of his coming.
 
 And now there is an end to all these things; an end to these and to so many other things in a few short months.

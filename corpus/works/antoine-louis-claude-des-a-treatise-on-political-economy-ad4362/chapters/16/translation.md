@@ -4,7 +4,7 @@ work_slug: "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362"
 work_title: A Treatise on Political Economy
 author_name: Antoine Louis Claude Destutt de Tracy
 chapter_number: 16
-chapter_title: "CHAPTER IV.: Of the change of form, or of fabricating Industry, comprising Agriculture."
+chapter_title: "Chapter VIII.: Of the distribution of our Riches amongst Individuals."
 chapter_slug: 16
 variant_id: "61d972c2-ba6d-5ca0-be89-d0f70aecb469"
 content_type: translation
@@ -13,35 +13,35 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 269
+word_count: 212
 source_url: "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
 translator: Online Library of Liberty edition
 ---
 
-In every species of industry there are three things: theory, application and execution. Hence three kinds of labourers; the man of science, the undertaker, and the workman,
+Thus far I believe myself to have followed the best course for the attainment of the object which I propose.
 
-All are obliged to expend more or less before they can receive, and especially the undertaker.
+This not being a treatise expressly of political economy, but a treatise on the will, the sequel of one on the understanding, we are not here to expect numerous details, but a rigorous chain of principal propositions.
 
-These advances are furnished by anterior economies, and are called capitals.
+What we have seen already overturns many important errors.
 
-The man of science and the workman are regularly compensated by the undertaker; but he has no benefit but in proportion to the success of his fabrication.
+We have a clear idea of the formation of our riches.
 
-It is indispensable that the labors most necessary should be the most moderately recompensed.
+It remains for us to speak of their distribution amongst the members of society, and of their consumption.
 
-This is true most especially of those relative to agricultural industry. This has moreover the inconvenience that the agricultural undertaker cannot make up for the mediocrity of his profits by the great extension of his business.
+We must now consider man under the relation of the interests of individuals.
 
-Accordingly this profession has no attractions for the rich.
+The species is strong and powerful, the individual is essentially miserable.
 
-The proprietors of land who do not cultivate it are strangers to agricultural industry. They are merely lenders of funds.
+Property and inequality are insuperable conditions of our nature.
 
-They dispose of them according to the convenience of those whom they can engage to labor them.
+Labour, even the least skilful, is a considerable property as long as there are lands not occupied.
 
-There are four sorts of undertakers; two with greater or smaller means, the lessees of great and small farms; and two almost without means, those who farm on shares and labourers.
+It is an error in some writers to have pretended there were non-proprietors.
 
-Hence four species of cultivation essentially different.
+Divided by many particular interests, we are all re-united by those of proprietors and of consumers.
 
-The division into great and small culture is insufficient and subject to ambiguity.
+After agriculture the other arts develope themselves.
 
-Agriculture then is the first of arts in relation to necessity, but not in regard to riches.
+Misery commences when they can no longer satisfy the calls for labour, which augment.
 
-It is because our means of subsistence and our means of existence are two very different things, and we are wrong to confound them.
+The state of great ease is necessarily transitory; the fecundity of the human species is the cause.

@@ -4,7 +4,7 @@ work_slug: "james-bryce-the-holy-roman-empire-ea9074"
 work_title: The Holy Roman Empire
 author_name: James Bryce
 chapter_number: 2
-chapter_title: PREFACE TO THE FOURTH EDITION
+chapter_title: Preface to the Fourth Edition
 chapter_slug: "02-preface-to-the-fourth-edition"
 variant_id: "f7713d45-dd6e-5fd3-8142-03e58577df07"
 content_type: translation

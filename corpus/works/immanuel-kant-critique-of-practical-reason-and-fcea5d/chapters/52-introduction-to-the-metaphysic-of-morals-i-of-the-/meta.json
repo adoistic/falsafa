@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 52,
+  "chapter_title": "Introduction to the Metaphysic of Morals, I.: of the relation of the faculties of the human mind to the moral laws.",
+  "chapter_slug": "52-introduction-to-the-metaphysic-of-morals-i-of-the-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3c176d97-7586-5198-bfb8-100a354a94aa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1310,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

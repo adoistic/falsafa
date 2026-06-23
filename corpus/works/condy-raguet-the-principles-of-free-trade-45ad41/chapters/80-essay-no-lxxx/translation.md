@@ -1,0 +1,47 @@
+---
+work_id: "45ad41cc-7379-5c6a-b587-3aa73a883f31"
+work_slug: "condy-raguet-the-principles-of-free-trade-45ad41"
+work_title: The Principles of Free Trade
+author_name: Condy Raguet
+chapter_number: 80
+chapter_title: Essay No. LXXX.
+chapter_slug: "80-essay-no-lxxx"
+variant_id: "df48c998-7d71-5a24-af64-27638f5aa360"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1269
+source_url: "https://oll.libertyfund.org/titles/raguet-the-principles-of-free-trade"
+translator: Online Library of Liberty edition
+---
+
+Reports of the Majority and Minority of the Committee on Manufactures. Doctrines of, examined.
+
+IN our last paper we published the report of the Committee on Manufactures, presented by Mr. Mallary, on the 13th of January. The principles of political economy are so well understood by nine-tenths of those who read this paper, that the fallacies and heretical doctrines with which it abounds will be detected by them, without any specific pointing out. To enter into a detailed criticism, embracing all its errors, would require more space than we can devote to it, and would, in fact, be a mere repetition of arguments which have been over and over again advanced. To any one who has a mind capable of comprehending scientific truths, it will be manifest, that a single paragraph may contain as much fallacy as it would require pages to refute. It will also be manifest, that, if it be allowed in a document, intended to prove the soundness of a policy, to assume, as admitted, the very points in dispute, and upon the establishment or rejection of which the whole matter turns, it would be necessary, in order to overthrow its positions, that a course of elementary reasoning should be resorted to. For instance: Mr. Mallary asserts, “Congress has, for years, and on repeated occasions, exercised its wisdom on the tariff.” Now, we wholly deny that any wisdom whatever has been displayed on this subject—but, on the contrary, the most consummate folly. But, to establish our position, it would be necessary to show, as we have repeatedly done in this journal:
+
+That the object of all legislation should be the greatest good of the greatest number;
+
+That restrictions upon industry create a faulty distribution of capital and labour, by driving both into channels different from the natural ones which they would pursue if left in a state of freedom;
+
+That this faulty distribution of capital and labour, of necessity diminishes the total joint product of the capital and labour of the country;
+
+That no diminution of the products of capital and labour can take place without diminishing the prosperity and comforts of the community;
+
+That not only is there a diminution of the aggregate mass of products, but there is, besides, an unequal distribution of what remains, inasmuch as some people get more than their fair proportion of it, whilst others get less;
+
+That high duties are taxes upon consumers, and taxes which ought never to be imposed, but for the necessary exigences of government;
+
+That high duties upon imported goods operate as obstructions to the exportation of domestic products, and weigh most heavily upon the producers of those commodities, which would be exported more abundantly if foreign goods were not excluded;
+
+That all protective duties are prohibitory duties to a greater or less extent—for, if some foreign goods were not excluded by them, there would not be a demand for the home product to the same extent:
+
+That the Restrictive System of the United States is founded upon the most iniquitous and unjust principles, because it falls most heavily upon the poor and labouring classes, and taxes people high in proportion to their inability to bear the burden.
+
+Fifty other propositions, of equal weight, could be brought forward—but, as they would not appear self-evident to those who had convinced themselves that cutting off a man’s fingers, or tying his hands behind his back, would increase his power to work, it would be necessary to enter into an argument to prove each separate one, which could not be done in a single essay. Many philosophical truths require a volume of explanation, and any one may see how difficult it would be, for example, for an astronomer to prove, to the satisfaction of an Indian, that the sun does not move. If Dr. Herschell should say to an untutored savage, that that body stands still, and that the earth moves, the latter would most certainly deny it, and would support his denial, most probably, by the well-known argument of the American System philosophers—“Seeing is believing; one fact is worth a thousand theories.”
+
+Mr. Mallary is evidently alarmed for the fate of his favourite system, and with good reason too. Such a compound of folly, selfishness, and injustice, cannot stand before the weapons of truth, which are now assailing it from all quarters of the country. Our particular position, perhaps, gives us as good an opportunity of judging upon this matter, as is enjoyed by any other individual, and we unhesitatingly say, that the indications of a giving way of the restrictive policy, are abundant. How far Mr. Mallary has helped his cause by availing himself of his official station to connect with personal politics a measure which should be decided wholly without reference to men, remains to be seen. We think we express the opinions of many of the tariff party, when we say, that this has been a bad move, for them, on the political chess-board, for it has given an opportunity to the friends of the administration to draw a line between the advocates of prohibition, and the advocates of a moderate tariff, which cannot fail to pave the way for more enlightened views.
+
+To-day we publish the report of the Minority of the Committee, presented by Mr. Monell. Although it contains unsound doctrines enough, yet there are some principles advocated in it, which, if carried out, would accomplish all that the friends of Free Trade could desire. Amongst these, are, the position laid down, that it is wrong to protect a combination of interests, each of which, taken separately, it would be injurious to protect—that, to lay duties for the sole purpose of protecting domestic industry, would be an anomaly in government—that it is impolitic to extend protection to any article, unless there be a reasonable probability, that, by temporary aid, it could sustain itself against foreign competition—and, that the duty on coarse cottons ought to be reduced, and upon the ground assumed by the tariff party, viz., that we can undersell the British in foreign markets, and of course in our own markets. It is very natural for those who are in a minority to consider that which is not against them, as for them. In this light do we regard the report of Mr. Monell. If it does not contain such orthodoxy as is required to entitle it to the rank of a sound production in political economy, it is not half as far from the standard as Mr. Mallary’s paper—and, in these dark times, there is a satisfaction in beholding, if it be but a single ray of light, shooting forth from the dark expanse. The two reports, as they now stand, seem to cut the American System into two, one part to be called Mr. Clay’s System, and the other General Jackson’s System. The former advocates prohibition and restriction, as the permanent and settled policy of the country: the latter advocates moderate duties and temporary protection. The public is to take its choice of the two halves of the System, and we can hardly doubt that a large majority will prefer the moderate side. What is principally wanted, is, to strip the American System of the sanctity with which it has been invested by false and silly notions of patriotism. This we think will be done during the ensuing recess of Congress, by the party press, and we are very much mistaken, if, in one year from this time, Diana of the Ephesians, once thought so great, will not be held in low estimation by thousands of her former worshippers.

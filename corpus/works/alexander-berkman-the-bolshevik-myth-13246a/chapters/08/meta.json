@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 8,
+  "chapter_title": "Chapter 7 : The Market",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "30e06319-2cd8-5bc3-a0dd-899f626dad42",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1596,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-7.html"
+    }
+  ]
+}

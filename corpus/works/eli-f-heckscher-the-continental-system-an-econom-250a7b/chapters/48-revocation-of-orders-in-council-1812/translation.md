@@ -1,0 +1,23 @@
+---
+work_id: "250a7b43-ec95-5f8a-be6f-a40fd2b3d743"
+work_slug: "eli-f-heckscher-the-continental-system-an-econom-250a7b"
+work_title: "The Continental System: An Economic Interpretation"
+author_name: Eli F. Heckscher
+chapter_number: 48
+chapter_title: Revocation of Orders in Council (1812)
+chapter_slug: "48-revocation-of-orders-in-council-1812"
+variant_id: "44506659-67a2-5b36-ad3c-33a94752d334"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 571
+source_url: "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+translator: Online Library of Liberty edition
+---
+
+Meanwhile, the British government remained undecided and awaited developments. But after Napoleon had caused to be published a report by Maret, Champagny's successor as foreign minister, on March 10, 1812, in which the blessings of the Continental decrees were once more asserted, the British Prince Regent replied by a proclamation, dated April 21, to the effect that, as soon as the Berlin and Milan decrees had been expressly and unreservedly revoked, the Orders in Council should also be regarded, without further ado, as having lapsed. This at last placed in the hands of the American diplomats a weapon against France which bore fruit. Maret allowed himself to be induced by it to bring forward the last of this series of strange documents, namely, a decree of April 28, 1811, which, according to its date, was more than a year old, but which was never published and was quite unknown until that time. This decree declared that the Berlin and Milan decrees had ceased to hold good for American vessels from November 1, 1810, more than six months earlier, in accordance with the original declaration. When this document was laid before the British government, the British statesmen were not a little confounded, for which one can hardly blame them; but after some delay they considered that they ought to declare that, though the decree did not contain the general revocation that had been stipulated in the Prince Regent's proclamation of April 21, nevertheless the Orders in Council should be rescinded as regards American vessels. Accordingly, with the enthusiastic approval of the British opposition, the Orders in Council were revoked on June 23, 1812, so far as American vessels with American cargoes were concerned. This revocation was to take effect as from August 1, though only under the condition that the American government revoked its prohibition of commercial intercourse with Great Britain. It is evident that many factors contributed to this result: dearth and disturbances in England itself, for which the opposition laid all the blame on the Orders in Council; the desire to disarm the war party, which had grown stronger and stronger in the United States; and the need of American supplies of grain for the greatly impoverished Iberian peninsula.
+
+When the British government had at last made its decision, however, Napoleon had already attained his object, although neither he nor anybody else had been able to foresee the order in which the events were to take place. On June 19, in fact, that is, four days before the rescinding of the Orders in Council, the United States had declared war on Great Britain, partly because of the disputes which have here been described and partly because of the impressment of seamen and various other things. In Great Britain it was generally expected, especially by the opposition, that the declaration of war would be recalled when the conciliatory decision of Great Britain became known. But this was not the case; and the war went on for two and a half years, until Christmas Eve 1814. It came too late, however, to exert any noteworthy influence on the course of events in Europe, which was now entirely determined by Napoleon's Russian campaign; and so far one may say that Great Britain's great adversary, owing to the delay in the outbreak of the conflict, failed to attain his object. In any case, American events now disappear from the horizon of the Continental System.

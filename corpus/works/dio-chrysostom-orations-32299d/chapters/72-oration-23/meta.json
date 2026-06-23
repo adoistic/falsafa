@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 72,
+  "chapter_title": "Oration 23",
+  "chapter_slug": "72-oration-23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "26ed051e-9be0-53bc-a14c-d247d6735921",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 977,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "86616455-81ca-59d2-8e80-d15caae11c6e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1244,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

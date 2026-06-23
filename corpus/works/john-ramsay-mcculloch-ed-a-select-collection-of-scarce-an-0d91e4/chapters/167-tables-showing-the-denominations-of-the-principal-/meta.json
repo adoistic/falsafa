@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 167,
+  "chapter_title": "Tables Showing the Denominations of the Principal Greek and Roman Coins, and Their Values in Sterling Money,",
+  "chapter_slug": "167-tables-showing-the-denominations-of-the-principal-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "15cf6706-966d-5051-86fb-c023c4587a52",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8462,
+      "paragraph_count": 272,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

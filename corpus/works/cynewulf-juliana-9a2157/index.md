@@ -4,7 +4,7 @@ slug: "cynewulf-juliana-9a2157"
 title: Juliana
 author:
   name: Cynewulf
-  biography: "Anglo-Saxon poet of the 9th century, credited with authoring several Old English religious poems including Juliana, Elene, and Andreas. Known for his Christian devotional poetry and vivid narrative style."
+  biography: "Old English poet known only from the runic signatures woven into four religious poems. Elene and Juliana recast saints' legends in alliterative verse and stand among the few Old English poems with a named author."
   nationality: English
 era: Medieval
 genre: Literature

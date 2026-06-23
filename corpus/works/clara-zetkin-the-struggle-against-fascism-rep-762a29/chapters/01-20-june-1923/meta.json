@@ -1,0 +1,26 @@
+{
+  "work_slug": "clara-zetkin-the-struggle-against-fascism-rep-762a29",
+  "work_title": "The Struggle Against Fascism (Report to the Third Enlarged Plenum of the ECCI)",
+  "chapter_number": 1,
+  "chapter_title": "(20 June 1923)",
+  "chapter_slug": "01-20-june-1923",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa2cf735-b610-5232-b555-0515c3e37c2f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3599,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/zetkin/1923/06/ecci-fascism.htm"
+    }
+  ]
+}

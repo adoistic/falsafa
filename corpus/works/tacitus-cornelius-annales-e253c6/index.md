@@ -4,7 +4,10 @@ slug: "tacitus-cornelius-annales-e253c6"
 title: Annales
 author:
   name: Tacitus, Cornelius
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman senator, orator, and historian of the early Empire under Trajan. The Annals and Histories traced the Julio-Claudian and Flavian principate with a compressed, moralizing prose that shaped the Western idea of historical writing."
+  birth_year: 56
+  death_year: 120
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

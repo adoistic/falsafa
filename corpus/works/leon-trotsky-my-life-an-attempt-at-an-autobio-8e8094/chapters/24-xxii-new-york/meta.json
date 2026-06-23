@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 24,
+  "chapter_title": "XXII. New York",
+  "chapter_slug": "24-xxii-new-york",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6407e959-2544-5a57-8489-e79aaece28ee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3619,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch22.htm"
+    }
+  ]
+}

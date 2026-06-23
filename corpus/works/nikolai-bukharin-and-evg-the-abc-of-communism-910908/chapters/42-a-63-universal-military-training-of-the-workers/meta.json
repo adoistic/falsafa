@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 42,
+  "chapter_title": "Â§ 63. Universal military training of the workers",
+  "chapter_slug": "42-a-63-universal-military-training-of-the-workers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "58151956-bc3d-5367-a61f-1d3ada272bbb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 220,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/08.htm"
+    }
+  ]
+}

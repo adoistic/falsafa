@@ -1,47 +1,77 @@
 [
   {
-    "id": "p-ede38d",
+    "id": "p-6beeac",
     "offset": 0,
-    "text": "The constant intercourse between a small state and its neighbours occasions a perpetual influx of foreign coin. For, although the small state may have a national coinage of its own, yet, the frequent necessity of taking the foreign instead of the national coin in payment, requires the fixation of the ratio of their relative value, in the current transactions of business."
+    "text": "The distinctive appellation of paper-money, I have reserved exclusively for those obligations, to which the ruling power may give a compulsory circulation in payment for all purchases, and discharge all debts and contracts, stipulating a delivery of money. I call them obligations, because, though the authority that issues, is not bound to redeem them, at least not immediately, yet they commonly express a promise of redemption at sight, which is absolutely nugatory; or of redemption at a date expressed, for which there is no sort of security; or of territorial indemnity, the value of which we shall presently inquire into."
   },
   {
-    "id": "p-423a0b",
-    "offset": 375,
-    "text": "There are many mischiefs attending the use of foreign coin, arising chiefly from the great variation of weight and quality. It is often extremely old, worn, and defaced; not having participated in the general re-coinage of the nation that issued it, where, perhaps, it is no longer current; all which circumstances, though considered in settling its current relative value to the local coin, yet, do not quite reduce it to the natural level of depreciation."
+    "id": "p-b62be4",
+    "offset": 630,
+    "text": "Such obligations, whether subscribed by the government or by individuals, can be converted into paper-money by the public authority only, which alone can authorise the owners of money to pay in paper. The act is, indeed, an exertion, not of legitimate, but of arbitrary authority; being a deterioration of the national money in the extreme degree."
   },
   {
-    "id": "p-602009",
-    "offset": 834,
-    "text": "Bills drawn from abroad upon such a state, being payable in the coin thus rendered current, are, in consequence, negotiated abroad at some loss; and those drawn upon foreign countries, and, consequently, payable in coin of a more steady and intelligible value, are negotiated in a smaller state at a premium, because the holder of them must have purchased them in a depreciated currency. In short, the foreign coin is always exchanged for the local currency to a loss."
+    "id": "p-7bb709",
+    "offset": 979,
+    "text": "Upon the principles above established, it should seem, that a money destitute of all value as a commodity, ought to pass for none in all free dealing subsequent to its issue; and this is always the case in practice sooner or later. The notes of what was improperly called Law's Bank, and the assignats issued during the French revolution, were never regularly called in or cancelled; yet those of the highest denomination would not pass at present for a single sol. How then, came they ever to pass for more than their real value? Because there are many expedients of fraud and violence, which will always have a temporary efficacy."
   },
   {
-    "id": "p-a623a1",
-    "offset": 1304,
-    "text": "The remedy devised by states of this inferior class is the subject of the present section. They established banks, where private merchants could lodge any amount of local national coin, of bullion, or of foreign coin, reckoned by the bank as bullion; and the amount, so lodged, was entered as so much money of the legal national standard of weight and quality. At the same time, the bank opened an account with each merchant making such deposit, giving him credit for the amount of the deposit. Whenever a merchant wanted to make a payment, there was no occasion to touch the deposit at all; it was sufficient to transfer the sum required, from the credit of the party paying, to that of the party receiving. Thus values could be transferred continually by a mere transfer in the books of the bank. The whole operation was conducted without any actual transfer of specie; the original deposit, which was entered at the real intrinsic value at the time of making it, remained as security for the credit transferred from one person to another; and the specie, so lodged with the bank, was exempt from any reduction of value by wear, fraud, or even legislative enactment."
+    "id": "p-d706d8",
+    "offset": 1613,
+    "text": "In the first place, a paper, wherewith debts can be legally, though fraudulently, discharged, derives a kind of value from that single circumstance. Moreover, the paper-money may be made efficient to discharge the perpetually recurring claims of public taxation. Sometimes a tariff or maximum of price is established; which, indeed, soon extinguishes the production of the commodities affected by it, but gives to the paper-money a portion of the value of those actually in existence. Besides, the very creation of a paper-money with forced circulation occasions the disappearance of metallic money; for, as it is made to pass at par with paper, it naturally seeks a market, where it can find its true level of value. The paper-money is thus left in the exclusive possession of the business of circulation; and the absolute necessity of some agent of transfer, in every civilized community, will then operate to maintain its value. So urgent is this necessity, that the paper-money of England, consisting of the notes of the bank, has been kept at par with specie, simply by the limitation of the issues to the demands of circulation."
   },
   {
-    "id": "p-c8bc48",
-    "offset": 2474,
-    "text": "The money still remaining in circulation, wherever it was exchanged for the bank deposits, that is to say, for entries in the bank books, necessarily lost in proportion to the reduction of its intrinsic value. And this loss occasioned the difference of value, or agio at Amsterdam, between bank money and circulating money, which was on the average from 3 to 4 per cent. in favour of the former."
+    "id": "p-d2bcb7",
+    "offset": 2749,
+    "text": "Nations precipitated into foreign wars, before they have had time previously to accumulate the requisite capital for carrying them on, and destitute of sufficient credit to borrow of their neighbours, have almost always had recourse to paper-money, or some similar expedient. The Dutch, in their struggle with the Spanish crown for independence, issued money of paper, of leather, and of many other materials. The United States of America, under similar circumstances, likewise had recourse to paper-money; and the expedient that enabled the French republic to foil the formidable attack of the first coalition, has immortalized the name of assignats."
   },
   {
-    "id": "p-7ee262",
-    "offset": 2871,
-    "text": "It will easily be imagined, that the bills of exchange, payable in a currency so little liable to injury or fluctuation, must be negotiable on better than ordinary terms. In fact, it was observable, that on the whole, the course of exchange was rather in favour of the countries that paid in bank, and unfavourable to those that paid in circulating money only."
+    "id": "p-d11635",
+    "offset": 3402,
+    "text": "Law has been unjustly charged with the whole blame of the calamities resulting from the scheme that bears his name. That he entertained just ideas respecting money, may be gathered from the perusal of a tract he published in his native country, Scotland, to induce the Scotch government to establish a bank of circulation. The bank established in France, in 1716, was founded on the principles there set forth. Its notes were expressed in these words:"
   },
   {
-    "id": "p-2c4097",
-    "offset": 3233,
-    "text": "The bank retained the deposities in perpetuity; for the re-issue would have been attended with serious loss; inasmuch as it would have been the same thing, as producing good money of the full original value, to be taken at par with the deteriorated circulating coin, which passes current for—not its intrinsic, but its average weight. The coin withdrawn from the bank would have been mixed up with the mass of circulation, and passed current at par with the rest. So that the withdrawing such deposits would have been a gratuitous sacrifice of the excess of value of bank above circulating money."
+    "id": "p-319ebc",
+    "offset": 3855,
+    "text": "\"The bank promises to pay the bearer at sight ******* livres in money of the same weight and standard as the money of this day. Value received at Paris,\" &c."
   },
   {
-    "id": "p-3c93c1",
-    "offset": 3831,
-    "text": "This is the nature of banks of deposit; most of which combined other operations with the primary object of their institution; but of them I shall speak elsewhere. They derived their profits, partly from a duty levied upon every transfer, and partly from operations incident to, and compatible with, their institution; as, for example, advances made upon a deposit of bullion."
+    "id": "p-5245f7",
+    "offset": 4014,
+    "text": "The bank, which was then but a private association, paid its notes regularly on demand: they were not yet metamorphosed into paper-money. Matters remained on this footing, and went on very well, till the year 1719; at which period the king, or rather the regent, repaid the shareholders, and took the management into his own hands, calling it the Royal Bank. The notes were then altered to this form:"
   },
   {
-    "id": "p-152920",
-    "offset": 4208,
-    "text": "It is evident, that the inviolability of the deposit, confided to them, is essential to the success of such establishments. At Amsterdam, the four burgomasters, or municipal magistrates, were trustees for the creditors. Annually, on leaving office, they handed over the trust to their successors, who, after inspecting the account, and verifying it by the registers of the bank, bound themselves by oath, to surrender their charge inviolate to their successors in office. This trust was scrupulously executed from the first establishment of the bank in 1609 until 1672, when the forces of Louis XIV. penetrated as far as Utrecht. The deposits were then faithfully restored to the individuals. It would seem to have been afterwards less scrupulously managed; for, when the French took possession of that capital, in 1794, and called for a statement of the concern, it was found to be in advance of no less a sum than 10,624,793 florins to the India company, and to the provinces of Holland and West-Friezeland, which were wholly unable to repay it. In a country governed by a power without control or responsibility, it may be expected, that such a deposit would have been still more exposed to violation."
+    "id": "p-d786be",
+    "offset": 4416,
+    "text": "\"The bank promises to pay the bearer at sight ******* livres in silver coin. Value received at Paris,\" &c."
+  },
+  {
+    "id": "p-fa23fa",
+    "offset": 4524,
+    "text": "This alteration, slight as it was in appearance, was a radical one in substance. The first note stipulated to pay a fixed quantity of silver, viz. the quantity contained in the livres current at the date of issuing the notes. The second merely engaged to pay livres, and so opened a door for whatever alterations an arbitrary power might think proper to make in the real value expressed by the word livre. And this was called fixing the rate of the paper-money; whereas, on the contrary, it was unfixing, and making it a fluctuating value; and the fluctuations were truly deplorable. Law strenuously opposed the innovation; but principle was compelled to give way to power; and the crimes of power, when the consequences began to be felt, were confidently attributed to the fallacy of the principle."
+  },
+  {
+    "id": "p-b9879b",
+    "offset": 5325,
+    "text": "The assignats issued by the revolutionary government were worth even less than the paper-money of the regency. The latter gave a promise, at least, of paying in silver: and, though the payment might be greatly curtailed by a deterioration of the silver coin, yet sooner or later the paper might have been redeemed, if the government had but been more moderate in its issues, and more scrupulous in fulfilling its engagements. But the assignats conveyed no right to call for silver; nothing but a right to purchase or obtain the national domains. Let us see what this right was really worth."
+  },
+  {
+    "id": "p-7fc4cd",
+    "offset": 5917,
+    "text": "The original assignats purported to be payable at sight, at the Caisse de l'Extraordinaire, where they were, in fact, never paid at all. It is true, they were received in payment for the national domains bought by individuals at a competition-price; but the value of these domains could never give any determinate value to the assignats, because their nominal value increased exactly in proportion as that of the assignats declined. The government was not sorry to find the price of national domains advance, because it was thereby enabled to withdraw a greater amount of assignats, and consequently, to re-issue new ones, without enlarging the quantity afloat. It was not aware, that, instead of the national domains advancing in price, the assignats were undergoing a rapid depreciation, and that the further that depreciation was pushed, the more assignats must be issued in payment of an equal quantity of supplies."
+  },
+  {
+    "id": "p-59b1ba",
+    "offset": 6838,
+    "text": "The last assignats no longer purported to be payable at sight. The alteration was little attended to, because neither first nor last were, in fact, ever paid at all. But their vicious origin was made more apparent. The paper contained these words:"
+  },
+  {
+    "id": "p-0acb3e",
+    "offset": 7087,
+    "text": "\"National domains—Assignat of one hundred francs,\" &c. Now, what was the meaning of the term one hundred francs? What value did they convey the notion of? Was it the value of the quantity of silver, heretofore known under the designation of one hundred francs? No; for 100 fr. could not possibly be obtained with an assignat to that amount. Did it convey the idea of as much land, as might be purchased for 100 fr. in silver? Certainly not; for that quantity of land could no more be obtained, even from the government, by an assignat of 100 fr. than 100 fr. in specie. The domains were disposed of at public auction for as many assignats as they would fetch; and the value of this paper had latterly so far declined, that one of 100 fr. would not buy an inch square of land."
+  },
+  {
+    "id": "p-d61567",
+    "offset": 7864,
+    "text": "In short, setting aside all consideration of the discredit attached to that government, the sum expressed in an assignat presented the idea of no definite value whatever; and those securities could not but have fallen to nothing, even had the government inspired all the confidence, of which it was so eminently destitute. The error was discovered in the end, when it was impossible any longer to purchase the most trifling article with any sum of assignats, whatever might be its amount. The next measure was to issue mandats, that is to say, papers purporting to be an order for the absolute transfer of the specific portion of the national domains expressed in the mandat: but, besides that it was then too late, the operation was infamously executed."
   }
 ]

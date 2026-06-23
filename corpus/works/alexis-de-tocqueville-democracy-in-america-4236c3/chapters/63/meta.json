@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 63,
+  "chapter_title": "Chapter V: Of The Use Which The Americans Make Of Public Associations In Civil Life",
+  "chapter_slug": "63",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c7358135-ec92-549e-b5c0-35df54d1f472",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1774,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch28.htm"
+    }
+  ]
+}

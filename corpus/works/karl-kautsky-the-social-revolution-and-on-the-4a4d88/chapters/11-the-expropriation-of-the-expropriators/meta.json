@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-social-revolution-and-on-the-4a4d88",
+  "work_title": "The Social Revolution (and On the Day After the Social Revolution)",
+  "chapter_number": 11,
+  "chapter_title": "The Expropriation of the Expropriators",
+  "chapter_slug": "11-the-expropriation-of-the-expropriators",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fdfb622a-5e05-536a-bd29-1c4d80e05256",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2540,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1902/socrev/pt2-1.htm"
+    }
+  ]
+}

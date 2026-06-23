@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-schiller-aesthetical-essays-8efa06",
+  "work_title": "Aesthetical Essays",
+  "chapter_number": 25,
+  "chapter_title": "Letter XXIV",
+  "chapter_slug": "25-letter-xxiv",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0806c664-7668-5072-99c2-c36daaf89652",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2096,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6798"
+    }
+  ]
+}

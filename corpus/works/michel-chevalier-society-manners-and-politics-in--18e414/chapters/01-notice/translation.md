@@ -4,7 +4,7 @@ work_slug: "michel-chevalier-society-manners-and-politics-in--18e414"
 work_title: Society, Manners, and Politics in the United States
 author_name: Michel Chevalier
 chapter_number: 1
-chapter_title: NOTICE.
+chapter_title: Notice.
 chapter_slug: "01-notice"
 variant_id: "90a2332a-0c85-59a2-9ff0-d709e95d0864"
 content_type: translation

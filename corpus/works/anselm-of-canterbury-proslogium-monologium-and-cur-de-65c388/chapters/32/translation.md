@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 32
-chapter_title: CHAPTER XIX.
+chapter_title: Chapter XXII. (1)
 chapter_slug: 32
 variant_id: "835280e1-14a6-561c-b4c7-b4cb9a2bf541"
 content_type: translation
@@ -13,13 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 169
+word_count: 213
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-He does not exist in place or time, but all things exist in him.
+He alone is what he is and who he is —All things need God for their being and their well-being
 
-But if through thine eternity thou hast been, and art, and wilt be; and to have been is not to be destined to be; and to be is not to have been, or to be destined to be; how does thine eternity exist as a whole forever? Or is it true that nothing of thy eternity passes away, so that it is not now; and that nothing of it is destined to be, as if it were not yet?
+Therefore, thou alone, O Lord, art what thou art.; and thou art he who thou art. For, what is one thing in the whole and another in the parts, and in which there is any mutable element, is not altogether what it is. And what begins from non-existence, and can be conceived not to exist, and unless it subsists through something else, returns to non-existence; and what has a past existence, which is no longer, or a future existence, which is not yet,—this does not properly and absolutely exist.
 
-Thou wast not, then, yesterday, nor wilt thou be to-morrow; but yesterday and to-day and to-morrow thou art; or, rather, neither yesterday nor to-day nor to-morrow thou art; but simply, thou art, outside all time. For yesterday and to-day and to-morrow have no existence, except in time; but thou, although nothing exists without thee, nevertheless dost not exist in space or time, but all things exist in thee. For nothing contains thee, but thou containest all.
+But thou art what thou art, because, whatever thou art at any time, or in any way, thou art as a whole and forever. And thou art he who thou art, properly and simply; for thou hast neither a past existence nor a future, but only a present existence; nor canst thou be conceived as at any time non-existent. But thou art life, and light, and wisdom, and blessedness, and many goods of this nature. And yet thou art only one supreme good; thou art all-sufficient to thyself, and needest none; and thou art he whom all things need for their existence and well-being.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 20,
+  "chapter_title": "Digression, upon What Is Called the Balance of Trade.",
+  "chapter_slug": "20-digression-upon-what-is-called-the-balance-of-trad",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4548410-aa2c-504d-9577-e4ff58f84173",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10742,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

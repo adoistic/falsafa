@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 43,
+  "chapter_title": "Chap. XXI: Of Physical and Political Necessaries",
+  "chapter_slug": "43-chap-xxi-of-physical-and-political-necessaries",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2af1730f-bf71-5304-8f7b-5ec5c9f07249",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2683,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_19.htm"
+    }
+  ]
+}

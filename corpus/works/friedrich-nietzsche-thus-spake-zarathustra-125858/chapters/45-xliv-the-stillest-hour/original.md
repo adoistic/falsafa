@@ -1,0 +1,111 @@
+---
+work_id: "125858cf-fea7-5292-b00d-5f4f6d6e46e4"
+work_slug: "friedrich-nietzsche-thus-spake-zarathustra-125858"
+work_title: Thus Spake Zarathustra
+author_name: Friedrich Nietzsche
+chapter_number: 45
+chapter_title: XLIV. The Stillest Hour.
+chapter_slug: "45-xliv-the-stillest-hour"
+variant_id: "f6efbda9-c4df-5074-bfd2-89b3d61950c4"
+content_type: original
+layout: prose
+language: German
+source_language: German
+language_direction: ltr
+script: latin
+word_count: 893
+source_url: "https://www.gutenberg.org/ebooks/7205"
+curator: thothica
+---
+
+„Was geschah mir, meine Freunde? Ihr seht mich verstört, fortgetrieben, unwillig-folgsam, bereit zu gehen—ach, von *euch* fortzugehen!
+
+Ja, noch Ein Mal muss Zarathustra in seine Einsamkeit: aber unlustig geht diessmal der Bär zurück in seine Höhle!
+
+Was geschah mir? Wer gebeut diess?—Ach, meine zornige Herrin will es so, sie sprach zu mir: nannte ich je euch schon ihren Namen?
+
+Gestern gen Abend sprach zu mir *meine stillste Stunde*: das ist der Name meiner furchtbaren Herrin.
+
+Und so geschah’s,—denn Alles muss ich euch sagen, dass euer Herz sich nicht verhärte gegen den plötzlich Scheidenden!
+
+Kennt ihr den Schrecken des Einschlafenden?—
+
+Bis in die Zehen hinein erschrickt er, darob, dass ihm der Boden weicht und der Traum beginnt.
+
+Dieses sage ich euch zum Gleichniss. Gestern, zur stillsten Stunde, wich mir der Boden: der Traum begann.
+
+Der Zeiger rückte, die Uhr meines Lebens holte Athem—nie hörte ich solche Stille um mich: also dass mein Herz erschrak.
+
+Dann sprach es ohne Stimme zu mir: „Du weisst es, Zarathustra?“—
+
+Und ich schrie vor Schrecken bei diesem Flüstern, und das Blut wich aus meinem Gesichte: aber ich schwieg.
+
+Da sprach es abermals ohne Stimme zu mir: „Du weisst es, Zarathustra, aber du redest es nicht!“—
+
+Und ich antwortete endlich gleich einem Trotzigen: „Ja, ich weiss es, aber ich will es nicht reden!“
+
+Da sprach es wieder ohne Stimme zu mir: „Du *willst* nicht, Zarathustra? Ist diess auch wahr? Verstecke dich nicht in deinen Trotz!“—
+
+Und ich weinte und zitterte wie ein Kind und sprach: „Ach, ich wollte schon, aber wie kann ich es! Erlass mir diess nur! Es ist über meine Kraft!“
+
+Da sprach es wieder ohne Stimme zu mir: „Was liegt an dir, Zarathustra! Sprich dein Wort und zerbrich!“—
+
+Und ich antwortete: „Ach, ist es *mein* Wort? Wer bin ich? Ich warte des Würdigeren; ich bin nicht werth, an ihm auch nur zu zerbrechen.“
+
+Da sprach es wieder ohne Stimme zu mir: „Was liegt an dir? Du bist mir noch nicht demüthig genug. Die Demuth hat das härteste Fell.“—
+
+Und ich antwortete: „Was trug nicht schon das Fell meiner Demuth! Am Fusse wohne ich meiner Höhe: wie hoch meine Gipfel sind? Niemand sagte es mir noch. Aber gut kenne ich meine Thäler.“
+
+Da sprach es wieder ohne Stimme zu mir: „Oh Zarathustra, wer Berge zu versetzen hat, der versetzt auch Thäler und Niederungen.“—
+
+Und ich antwortete: „Noch versetzte mein Wort keine Berge, und was ich redete, erreichte die Menschen nicht. Ich gieng wohl zu den Menschen, aber noch langte ich nicht bei ihnen an.“
+
+Da sprach es wieder ohne Stimme zu mir: „Was weisst du *davon*! Der Thau fällt auf das Gras, wenn die Nacht am verschwiegensten ist.“—
+
+Und ich antwortete: „sie verspotteten mich, als ich meinen eigenen Weg fand und gieng; und in Wahrheit zitterten damals meine Füsse.“
+
+Und so sprachen sie zu mir: „du verlerntest den Weg, nun verlernst du auch das Gehen!“
+
+Da sprach es wieder ohne Stimme zu mir: „Was liegt an ihrem Spotte! Du bist Einer, der das Gehorchen verlernt hat: nun sollst du befehlen!
+
+Weisst du nicht, *wer* Allen am nöthigsten thut? Der Grosses befiehlt.
+
+Grosses vollführen ist schwer: aber das Schwerere ist, Grosses befehlen.
+
+Das ist dein Unverzeihlichstes: du hast die Macht, und du willst nicht herrschen.“—
+
+Und ich antwortete: „Mir fehlt des Löwen Stimme zu allem Befehlen.“
+
+Da sprach es wieder wie ein Flüstern zu mir: „Die stillsten Worte sind es, welche den Sturm bringen. Gedanken, die mit Taubenfüssen kommen, lenken die Welt.
+
+Oh Zarathustra, du sollst gehen als ein Schatten dessen, was kommen muss: so wirst du befehlen und befehlend vorangehen.“—
+
+Und ich antwortete: „Ich schäme mich.“
+
+Da sprach es wieder ohne Stimme zu mir: „Du musst noch Kind werden und ohne Scham.
+
+Der Stolz der Jugend ist noch auf dir, spät bist du jung geworden: aber wer zum Kinde werden will, muss auch noch seine Jugend überwinden.“—
+
+Und ich besann mich lange und zitterte. Endlich aber sagte ich, was ich zuerst sagte: „Ich will nicht.“
+
+Da geschah ein Lachen um mich. Wehe, wie diess Lachen mir die Eingeweide zerriss und das Herz aufschlitzte!
+
+Und es sprach zum letzten Male zu mir: „Oh Zarathustra, deine Früchte sind reif, aber du bist nicht reif für deine Früchte!
+
+So musst du wieder in die Einsamkeit: denn du sollst noch mürbe werden.“—
+
+Und wieder lachte es und floh: dann wurde es stille um mich wie mit einer zwiefachen Stille. Ich aber lag am Boden, und der Schweiss floss mir von den Gliedern.
+
+—Nun hörtet ihr Alles, und warum ich in meine Einsamkeit zurück muss. Nichts verschwieg ich euch, meine Freunde.
+
+Aber auch diess hörtet ihr von mir, *wer* immer noch aller Menschen Verschwiegenster ist—und es sein will!
+
+Ach meine Freunde! Ich hätte euch noch Etwas zu sagen, ich hätte euch noch Etwas zu geben! Warum gebe ich es nicht? Bin ich denn geizig?“—
+
+Als Zarathustra aber diese Worte gesprochen hatte, überfiel ihn die Gewalt des Schmerzes und die Nähe des Abschieds von seinen Freunden, also dass er laut weinte; und Niemand wusste ihn zu trösten. Des Nachts aber gieng er allein fort und verliess seine Freunde.
+
+Dritter Theil
+
+„Ihr seht nach Oben, wenn ihr nach Erhebung verlangt. Und ich sehe hinab, weil ich erhoben bin. Wer von euch kann zugleich lachen und erhoben sein? Wer auf den höchsten Bergen steigt, der lacht über alle Trauer-Spiele und Trauer-Ernste.“
+
+Zarathustra, vom Lesen und Schreiben.

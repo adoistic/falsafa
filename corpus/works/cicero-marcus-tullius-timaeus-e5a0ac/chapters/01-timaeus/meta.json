@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-timaeus-e5a0ac",
+  "work_title": "Timaeus",
+  "chapter_number": 1,
+  "chapter_title": "Timaeus",
+  "chapter_slug": "01-timaeus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f4fd9fc5-c315-5b7c-947b-dddb44dcb50a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4281,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi072"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7a33e1bd-bc17-5acf-b250-bfbdecbc95c4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6716,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-terrorism-and-communism-a-reply--881d7e",
+  "work_title": "Terrorism and Communism: A Reply to Karl Kautsky",
+  "chapter_number": 19,
+  "chapter_title": "The Russian Proletariat",
+  "chapter_slug": "19-the-russian-proletariat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7481bde0-33c2-5905-8162-ab7b43ecf725",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2152,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1920/terrcomm/ch07.htm"
+    }
+  ]
+}

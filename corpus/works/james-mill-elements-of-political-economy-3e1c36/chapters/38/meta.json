@@ -2,7 +2,7 @@
   "work_slug": "james-mill-elements-of-political-economy-3e1c36",
   "work_title": "Elements of Political Economy",
   "chapter_number": 38,
-  "chapter_title": "Section VI. A Tax on Profits",
+  "chapter_title": "Section VII. A Tax on Wages",
   "chapter_slug": "38",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 246,
-      "paragraph_count": 3,
+      "word_count": 2115,
+      "paragraph_count": 20,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/mill-elements-of-political-economy-3rd-ed-1844"
     }

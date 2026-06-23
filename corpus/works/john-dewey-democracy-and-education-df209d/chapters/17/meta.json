@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-dewey-democracy-and-education-df209d",
+  "work_title": "Democracy and Education",
+  "chapter_number": 17,
+  "chapter_title": "Chapter Seventeen — Science in the Course of Study",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5309dc45-2cf1-5dbd-9e2e-425f4df4abbc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4585,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/852"
+    }
+  ]
+}

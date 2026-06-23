@@ -1,0 +1,26 @@
+{
+  "work_slug": "roscoe-pound-an-introduction-to-the-philosoph-99e279",
+  "work_title": "An Introduction to the Philosophy of Law",
+  "chapter_number": 2,
+  "chapter_title": "the end of law. In the beginnings of law men had no more ambitious",
+  "chapter_slug": "02-the-end-of-law-in-the-beginnings-of-law-men-had-no",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9c767a30-48bc-592d-ba06-1438aa993426",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11540,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/32168"
+    }
+  ]
+}

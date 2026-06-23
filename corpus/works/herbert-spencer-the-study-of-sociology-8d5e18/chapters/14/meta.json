@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-study-of-sociology-8d5e18",
+  "work_title": "The Study of Sociology",
+  "chapter_number": 14,
+  "chapter_title": "Chapter XIII, discipline.",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "428cea7d-ce88-5de3-a17a-1ea629beafb3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4288,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-study-of-sociology-1873"
+    }
+  ]
+}

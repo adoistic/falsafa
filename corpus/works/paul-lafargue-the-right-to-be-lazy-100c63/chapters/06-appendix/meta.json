@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-the-right-to-be-lazy-100c63",
+  "work_title": "The Right To Be Lazy",
+  "chapter_number": 6,
+  "chapter_title": "Appendix",
+  "chapter_slug": "06-appendix",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1fb07a83-8c74-5d29-8a3d-77189461b314",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1093,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1883/lazy/appendix.htm"
+    }
+  ]
+}

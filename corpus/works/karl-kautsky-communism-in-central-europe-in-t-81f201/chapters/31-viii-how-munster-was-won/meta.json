@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 31,
+  "chapter_title": "VIII. How Münster was won",
+  "chapter_slug": "31-viii-how-munster-was-won",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6790fbd6-7433-543a-868c-fc6e11badd38",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2110,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch05c.htm"
+    }
+  ]
+}

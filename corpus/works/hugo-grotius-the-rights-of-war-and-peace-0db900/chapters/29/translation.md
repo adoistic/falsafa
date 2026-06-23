@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-rights-of-war-and-peace-0db900"
 work_title: The Rights of War and Peace
 author_name: Hugo Grotius
 chapter_number: 29
-chapter_title: "CHAPTER XXIV.: Precautions Against Rashly Engaging in War, Even Upon Just Grounds."
+chapter_title: "Chapter XXIV.: Precautions Against Rashly Engaging in War, Even Upon Just Grounds."
 chapter_slug: 29
 variant_id: "69514063-f249-5d2f-81da-77ac5431528f"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1762
+word_count: 1754
 source_url: "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
 translator: Online Library of Liberty edition
 ---
@@ -32,7 +32,7 @@ III. With respect to the pardon of offences committed against ourselves, little 
 
 IV. It is often a duty, which we own to our country and ourselves, to forbear having recourse to arms. After the college of heralds had pronounced a war to be just we are informed by Plutarch in the life of Numa, that the Senate further deliberated, whether it was expedient to undertake it. According to our Saviour’s beautiful and instructive parable, a king, when he is obliged to go to war with another king, should first sit down, an expression implying an act of deliberation, and consider within himself, whether, with ten thousand men he is able to encounter one who is coming against him with twenty times that number: and if he finds himself unequal to the contest, before the enemy has entered his territories he will send an embassy to him offering terms of peace.
 
-V. In all cases of deliberation, not only the ultimate but the intermediate objects leading to the principal ends are to be considered. The final object is always some good, or at least the evasion of some evil, which Edition: current; Page: [282] amounts to the same. The means are never to be considered by themselves, but only as they have a tendency to the proposed end. Wherefore in all cases of deliberation, the proportion, which the means and the end bear to each other, is to be duly weighed, by comparing them together: a mode of comparison, in which there are three rules necessary to be observed.
+V. In all cases of deliberation, not only the ultimate but the intermediate objects leading to the principal ends are to be considered. The final object is always some good, or at least the evasion of some evil, which amounts to the same. The means are never to be considered by themselves, but only as they have a tendency to the proposed end. Wherefore in all cases of deliberation, the proportion, which the means and the end bear to each other, is to be duly weighed, by comparing them together: a mode of comparison, in which there are three rules necessary to be observed.
 
 The first thing, in a moral point of view, to be considered is, what tendency the desired object has to produce good or evil; and, if the former has the preponderancy, we are then at liberty to chuse it.—In the second place, if it appears difficult to decide, whether the good or the evil predominates, we may chuse the object, if, in the choice and use of our means, we can give a turn to affairs, that may throw the preponderance into the scale of advantage—or lastly if the good and the evil bear no proportion to each other, nor the means, at the first view, appear adequate to the end, if, in pursuing an object, the tendency to good, compared with the tendency to evil be greater than the evil itself when compared with the good; or if the good, in comparison of the evil, be greater than the tendency to evil, in comparison of the tendency to good, we may decide in favour of it.
 
@@ -44,7 +44,7 @@ In such cases reason itself dictates the choice of peace, as the only means of p
 
 What has been said of submitting to disadvantages, and some calamities for the preservation of life or liberty, may be applied to every object of dear value. As Aristides says, it is a moral duty in a storm, to save the ship by casting overboard the goods, but not the crew.
 
-VII. In exacting punishment it is necessary to use the precaution of avoiding hostilities with a power of equal strength. For to avenge a wrong, or to assert a right by force of arms requires a superiority of strength. So that not only prudence, but a regard for their subjects will at all times deter rulers from involving their people in the calamities of war. A principle of justice too, the sole directress of human affairs, binding sovereigns and Edition: current; Page: [284] subjects to each other by their mutual interests, will teach this lesson of precaution. For reparation must be looked for at the hands of those, who bring on the calamities of wanton and unnecessary war. Livy calls that a just, which is a necessary war, and it is a pious cause, when no hope is left, but in recourse to arms.
+VII. In exacting punishment it is necessary to use the precaution of avoiding hostilities with a power of equal strength. For to avenge a wrong, or to assert a right by force of arms requires a superiority of strength. So that not only prudence, but a regard for their subjects will at all times deter rulers from involving their people in the calamities of war. A principle of justice too, the sole directress of human affairs, binding sovereigns and subjects to each other by their mutual interests, will teach this lesson of precaution. For reparation must be looked for at the hands of those, who bring on the calamities of wanton and unnecessary war. Livy calls that a just, which is a necessary war, and it is a pious cause, when no hope is left, but in recourse to arms.
 
 VIII. It is but now and then a cause of such imperious necessity occurs, as to demand the decision of the sword, and that is, when, as Florus says, the desertion of a right will be followed by calamities far more cruel, than the fiercest wars. Seneca says, “that it is right to meet danger, when equal harm would result from acquiescing in an injury,” and in this, he is supported by Tacitus, who calls “war a happy exchange for a miserable and insecure peace,” and the same animated writer in another place observes, that “an oppressed people may recover their liberty by daring enterprize, and, if defeated they cannot be reduced to greater subjection than before;” a sentiment, with which Livy accords, in naming “peace, when coupled with servitude, a far more grievous calamity, than all the horrors of war.” But it is not so, as Cicero says, where defeat will be attended with proscription, and victory with bondage.
 

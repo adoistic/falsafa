@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362",
+  "work_title": "A Treatise on Political Economy",
+  "chapter_number": 17,
+  "chapter_title": "Introduction, Chapter IX.: Of the multiplication of Individuals, or of Population.",
+  "chapter_slug": "17-introduction-chapter-ix-of-the-multiplication-of-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c3fb2356-774d-5611-b09e-51c47a483a71",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 121,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
+    }
+  ]
+}

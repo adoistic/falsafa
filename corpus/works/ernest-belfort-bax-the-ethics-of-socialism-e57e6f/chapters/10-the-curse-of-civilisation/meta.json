@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-ethics-of-socialism-e57e6f",
+  "work_title": "The Ethics of Socialism",
+  "chapter_number": 10,
+  "chapter_title": "The Curse of Civilisation",
+  "chapter_slug": "10-the-curse-of-civilisation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5e58f714-7e1c-5b27-83f5-20117134c007",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3933,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1887/09/curse.htm"
+    }
+  ]
+}

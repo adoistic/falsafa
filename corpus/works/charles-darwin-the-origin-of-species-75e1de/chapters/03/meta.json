@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-darwin-the-origin-of-species-75e1de",
+  "work_title": "The Origin of Species",
+  "chapter_number": 3,
+  "chapter_title": "Chapter I. Variation Under Domestication.",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "249cdd1b-1a35-5617-8efa-b58a8ca25da1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12337,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/darwin/works/origins/ch01.htm"
+    }
+  ]
+}

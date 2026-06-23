@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 11
-chapter_title: "CHAPTER VIII: MARKETS (Continued). EARNINGS"
+chapter_title: "Chapter VIII: Markets (Continued). Earnings"
 chapter_slug: 11
 variant_id: "f97ad0d9-0786-59ef-a3af-5ad49e4920fd"
 content_type: translation

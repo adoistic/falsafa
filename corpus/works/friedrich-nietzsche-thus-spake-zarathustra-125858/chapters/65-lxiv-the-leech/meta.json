@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 65,
+  "chapter_title": "LXIV. The Leech.",
+  "chapter_slug": "65-lxiv-the-leech",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7a97267b-f871-57d4-8420-c92c9e1103d8",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 966,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4cac8bf0-ba45-57e8-9eb0-39cd9b4f62da",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1070,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

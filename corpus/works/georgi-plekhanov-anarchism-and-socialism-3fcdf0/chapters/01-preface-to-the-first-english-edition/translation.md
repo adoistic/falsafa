@@ -1,0 +1,29 @@
+---
+work_id: "3fcdf0e5-056b-5ffe-b34e-bf38e4e5a345"
+work_slug: "georgi-plekhanov-anarchism-and-socialism-3fcdf0"
+work_title: Anarchism and Socialism
+author_name: Georgi Plekhanov
+chapter_number: 1
+chapter_title: Preface to the First English Edition
+chapter_slug: "01-preface-to-the-first-english-edition"
+variant_id: "7fc1e767-9ece-558b-98cd-c51a7354a6aa"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 577
+source_url: "https://www.marxists.org/archive/plekhanov/1895/anarch/preface.htm"
+translator: Eleanor Marx Aveling
+---
+
+The work of my friend George Plechanoff, Anarchism and Socialism, was written originally in French. It was then translated into German by Mrs. Bernstein, and issued in pamphlet form by the German Social-Democratic Publishing Office Vorwaerts. It was next translated by myself into English, and so much of the translation as exigencies of space would permit, published in the Weekly Times and Echo.
+
+As to the book itself. There are those who think that the precious time of so remarkable a writer, and profound a thinker as George Plechanoff is simply wasted in pricking Anarchist wind-bags. But, unfortunately, there are many of the younger, or of the more ignorant sort, who are inclined to take words for deeds, high-sounding phrases for acts, mere sound and fury for revolutionary activity, and who are too young or too ignorant to know that such sound and fury signify nothing. It is for the sake of these younger, or for the sake of the more ignorant, folk, that men like Plechanoff deal seriously with this matter of Anarchism, and do not feel their time lost if they can, as this work must, help readers to see the true meaning of what is called “Anarchism.”
+
+And a work like this one of Plechanoff’s is doubly necessary in England, where the Socialist movement is still largely disorganized, where there is still such ignorance and confusion on all economic and political subjects; where, with the exception, among the larger Socialist organizations, of the Social-Democratic Federation (and even among the younger S.D.F. members there is a vague sort of idea that Anarchism is something fine and revolutionary), there has been no little coquetting with Anarchism under an impression that it was very “advanced,” and where the Old Unionist cry of “No politics!” has unconsciously played the reactionary Anarchist game. We cannot afford to overlook the fact that the Socialist League became in time – when some of us had left it – an Anarchist organization, and that since then its leaders have been, or still are, more or less avowed Anarchists. While quite recently the leader of a new party” – and that a would-be political one! – did not hesitate to declare his Anarchist sympathies or to state that “The methods of the Anarchists might differ from those of the Socialists, but that might only prove that the former were more zealous than the latter.” It is also necessary to point out once again that Anarchism and Nihilism have no more in common than Anarchism and Socialism. As Plechanoff said at the Zurich International Congress: “We (i.e., the Russians) have had to endure every form of persecution, every thinkable misery; but we have been spared one disgrace, one humiliation; we, at least, have no Anarchists.” A statement endorsed and emphasized by other Russian revolutionists, and notably by the American delegate, Abraham Cahan – himself a Russian refugee. The men and women who are waging their heroic war in Russia and in Poland against Czarism have no more in common with Anarchism than had the founders of the modern Socialist movement – Karl Marx and Frederick Engels.
+
+This little book of Plechanoff will assuredly convince the youngest even that under any circumstances Anarchism is but another word for reaction; and the more honest the men and women who play this reactionist game, the more tragic and dangerous it becomes for the whole working class movement.
+
+ELEANOR MARX AVELING Green Street Green, Orpington, Kent. August, 1895.

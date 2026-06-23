@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 110,
+  "chapter_title": "A Letter unto Mr. Stubs, in Answer to his Oceana weighed, &c.",
+  "chapter_slug": "110-a-letter-unto-mr-stubs-in-answer-to-his-oceana-wei",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "585f2ade-f978-5263-9f05-43dd9ac04e90",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 156,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 17,
+  "chapter_title": "24. Vassalage succeeds to slavery, annexed to the land, and the slave becomes a proprietor. Third method; alienation of ",
+  "chapter_slug": "17-24-vassalage-succeeds-to-slavery-annexed-to-the-la",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2056ac68-dcee-58f2-97fc-6ba43c0a4e39",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 164,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-where-and-why-public-ownership-h-c6bd7f",
+  "work_title": "Where and Why Public Ownership Has Failed",
+  "chapter_number": 53,
+  "chapter_title": "Failure of Government Control",
+  "chapter_slug": "53-failure-of-government-control",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11da35ba-1c6c-57b3-902f-f52dc4ef6a6b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1697,
+      "paragraph_count": 138,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
+    }
+  ]
+}

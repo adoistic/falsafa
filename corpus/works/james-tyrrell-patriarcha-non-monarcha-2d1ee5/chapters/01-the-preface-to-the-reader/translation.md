@@ -4,7 +4,7 @@ work_slug: "james-tyrrell-patriarcha-non-monarcha-2d1ee5"
 work_title: Patriarcha non Monarcha
 author_name: James Tyrrell
 chapter_number: 1
-chapter_title: THE PREFACE To the Reader.
+chapter_title: The Preface To the Reader.
 chapter_slug: "01-the-preface-to-the-reader"
 variant_id: "48df4a07-e141-56f2-9e86-5305d63e797b"
 content_type: translation

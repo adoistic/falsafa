@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexandra-kollontai-the-workers-opposition-884417",
+  "work_title": "The Workers' Opposition",
+  "chapter_number": 3,
+  "chapter_title": "The Trade Unions: Their Role & Problems",
+  "chapter_slug": "03-the-trade-unions-their-role-problems",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c5936061-8008-57a8-8f4e-d7edba80ec52",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7187,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kollonta/1921/workers-opposition/ch02.htm"
+    }
+  ]
+}

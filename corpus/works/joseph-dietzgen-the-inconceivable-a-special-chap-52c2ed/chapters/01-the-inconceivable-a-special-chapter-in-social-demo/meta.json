@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-the-inconceivable-a-special-chap-52c2ed",
+  "work_title": "The Inconceivable: A Special Chapter in Social-Democratic Philosophy",
+  "chapter_number": 1,
+  "chapter_title": "The Inconceivable: A Special Chapter in Social-Democratic Philosophy",
+  "chapter_slug": "01-the-inconceivable-a-special-chapter-in-social-demo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d23d54ce-583f-5981-a520-d65fa5c86b3d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2367,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1877/inconceivable.htm"
+    }
+  ]
+}

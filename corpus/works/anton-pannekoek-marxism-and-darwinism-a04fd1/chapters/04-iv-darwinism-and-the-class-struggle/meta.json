@@ -1,0 +1,26 @@
+{
+  "work_slug": "anton-pannekoek-marxism-and-darwinism-a04fd1",
+  "work_title": "Marxism and Darwinism",
+  "chapter_number": 4,
+  "chapter_title": "IV. Darwinism and the Class Struggle",
+  "chapter_slug": "04-iv-darwinism-and-the-class-struggle",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "16c0c214-c20b-5091-bc34-9b8345d21f4e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1362,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/pannekoe/1912/marxism-darwinism.htm"
+    }
+  ]
+}

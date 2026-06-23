@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-freedom-of-the-seas-mare-lib-244ad7",
+  "work_title": "The Freedom of the Seas (Mare Liberum)",
+  "chapter_number": 15,
+  "chapter_title": "Capvt XII: Nulla aequitate niti Lusitanos in prohibendo commercio",
+  "chapter_slug": "15-capvt-xii-nulla-aequitate-niti-lusitanos-in-prohib",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c76eb3fd-60bd-529c-ad13-a83643896a60",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 504,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/scott-the-freedom-of-the-seas-latin-and-english-version-magoffin-trans"
+    }
+  ]
+}

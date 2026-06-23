@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 5
-chapter_title: "CHAPTER II: MARGINS. DIMINISHING PSYCHIC RETURNS"
+chapter_title: "Chapter II: Margins. Diminishing Psychic Returns"
 chapter_slug: 05
 variant_id: "10f882f2-bd7f-590a-854c-b52d99dd5d9d"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-treatises-and-essays-on-subjects-4cfbd6",
+  "work_title": "Treatises and Essays on Subjects Connected with Economic Policy",
+  "chapter_number": 27,
+  "chapter_title": "An Essay on the Rise, Progress, and Decline of Commerce in Holland.",
+  "chapter_slug": "27-an-essay-on-the-rise-progress-and-decline-of-comme",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e8f0e0cb-65cd-561a-bb81-233b38c83009",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10570,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853"
+    }
+  ]
+}

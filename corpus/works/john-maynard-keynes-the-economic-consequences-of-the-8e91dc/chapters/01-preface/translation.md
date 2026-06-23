@@ -4,7 +4,7 @@ work_slug: "john-maynard-keynes-the-economic-consequences-of-the-8e91dc"
 work_title: The Economic Consequences of the Peace
 author_name: John Maynard Keynes
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "714541ff-3c32-5979-b61b-92b7ec582669"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 19,
+  "chapter_title": "1. Increase of Divorce.",
+  "chapter_slug": "19-1-increase-of-divorce",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d7676c5d-55dd-56df-8dc4-6135053fbe77",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2179,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch09.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "william-stanley-jevons-the-theory-of-political-economy-20a14c"
 work_title: The Theory of Political Economy
 author_name: William Stanley Jevons
 chapter_number: 1
-chapter_title: PREFACE TO THE FIRST EDITION (1871)
+chapter_title: Preface to the First Edition (1871)
 chapter_slug: "01-preface-to-the-first-edition-1871"
 variant_id: "f780a143-c8b1-5786-a365-29384354fbd1"
 content_type: translation

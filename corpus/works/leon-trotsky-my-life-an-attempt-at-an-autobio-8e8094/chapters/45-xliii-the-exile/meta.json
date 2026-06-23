@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 45,
+  "chapter_title": "XLIII. The Exile",
+  "chapter_slug": "45-xliii-the-exile",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "894476bc-dadd-56c4-8be1-787606f7420a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7829,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch43.htm"
+    }
+  ]
+}

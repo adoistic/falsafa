@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 6,
+  "chapter_title": "The General Formula for Capital",
+  "chapter_slug": "06-the-general-formula-for-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "793be059-fbb6-5d9c-afed-8f586a9158db",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3170,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch04.htm"
+    }
+  ]
+}

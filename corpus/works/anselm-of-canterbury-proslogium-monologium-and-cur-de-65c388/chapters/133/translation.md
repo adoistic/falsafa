@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 133
-chapter_title: CHAPTER II
+chapter_title: Chapter XI. (3)
 chapter_slug: 133
 variant_id: "610a567f-4281-5a3a-9675-061efbba0c4f"
 content_type: translation
@@ -13,29 +13,29 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 873
+word_count: 444
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How those things which are to be said should be received.
+What it is to sin, and to make satisfaction for sin.
 
-As the right order requires us to believe the deep things of Christian faith before we undertake to discuss them by reason; so to my mind it appears a neglect if, after we are established in the faith, we do not seek to understand what we believe. Therefore, since I thus consider myself to hold the faith of our redemption, by the prevenient grace of God, so that, even were I unable in any way to understand what I believe, still nothing could shake my constancy; I desire that you should discover to me, what, as you know, many besides myself ask, for what necessity Edition: current; Page: [180] and cause God, who is omnipotent, should have assumed the littleness and weakness of human nature for the sake of its renewal?
+We must needs inquire, therefore, in what manner God puts away men’s sins; and, in order to do this more plainly, let us first consider what it is to sin, and what it is to make satisfaction for sin.
 
-You ask of me a thing which is above me, and therefore I tremble to take in hand subjects too lofty for me, lest, when some one may have thought or even seen that I do not satisfy him, he will rather believe that I am in error with regard to the substance of the truth, than that my intellect is not able to grasp it.
+It is yours to explain and mine to listen.
 
-You ought not so much to fear this, because you should call to mind, on the other hand, that it often happens in the discussion of some question that God opens what before lay concealed; and that you should hope for the grace of God, because if you liberally impart those things which you have freely received, you will be worthy to receive higher things to which you have not yet attained.
+If man or angel always rendered to God his due, he would never sin.
 
-There is also another thing on account of which I think this subject can hardly, or not at all, be discussed between us comprehensively; since, for this purpose, there is required a knowledge of Power and Necessity and Will and certain other subjects which are so related to one another that none of them can be fully examined without the rest; and so the discussion of these topics requires a separate labor, which, though not very easy, in my opinion, is by no means useless; for ignorance of these subjects makes certain things difficult, which by acquaintance with them become easy.
+I cannot deny that.
 
-You can speak so briefly with regard to these things, each in its place, that we may both have all that is requisite for the present object, and what remains to be said we can put off to another time.
+Therefore to sin is nothing else than not to render to God his due.
 
-This also much disinclines me from your request, not only that the subject is important, but as it is of a form fair above the sons of men, so is it of a wisdom fair above the intellect of men. On this account, I fear, lest, as I am wont to be incensed against sorry artists, when I see our Lord himself painted in an unseemly figure; so also it may fall out with me if I should undertake to exhibit so rich a theme in rough and vulgar diction.
+What is the debt which we owe to God?
 
-Even this ought not to deter you, because, as you allow any one to talk better if he can, so you preclude none from writing more elegantly if your language does not please him. But, to cut you off from all excuses, you are not to fulfil this request of mine for the learned but for me, and those asking the same thing with me.
+Every wish of a rational creature should be subject to the will of God
 
-Since I observe your earnestness and that of those who desire this thing with you, out of love and pious zeal, I will try to the best of my ability (with the assistance of God and your prayers, which, when making this request, you have often promised me), not so much to make plain what you inquire about, as to inquire with you. But I wish all that I say to be received with this understanding, that, if I shall have said anything which higher authority does not corroborate, though I appear to demonstrate it by argument, yet it is not to be received with any further confidence, than as so appearing to me for the time, until God in some way make a clearer revelation to me. But if I am in any measure able to set your inquiry at rest, it should be concluded that a wiser than I will be able to do this more fully; nay, we must understand that for all that a man can say or Edition: current; Page: [182] know still deeper grounds of so great a truth lie concealed.
+Nothing is more true
 
-Suffer me, therefore, to make use of the words of infidels; for it is proper for us when we seek to investigate the reasonableness of our faith to propose the objections of those who are wholly unwilling to submit to the same faith, without the support of reason. For although they appeal to reason because they do not believe, but we, on the other hand, because we do believe; nevertheless, the thing sought is one and the same. And if you bring up anything in reply which sacred authority seems to oppose, let it be mine to urge this inconsistency until you disprove it.
+This is the debt which man and angel owe to God, and no one who pays this debt commits sin; but every one who does not pay it sins. This is justice, or uprightness of will, which makes a being just or upright in heart, that is, in will; and this is the sole and complete debt of honor which we owe to God, and which God requires of us. For it is such a will only, when it can be exercised, that does works pleasing to God; and when this will cannot be exercised, it is pleasing of itself alone, since without it no work is acceptable. He who does not render this honor which is due to God, robs God of his own and dishonors him; and this is sin. Moreover, so long as he does not restore what he has taken away, he remains in fault; and it will not suffice merely to restore what has been taken away, but, considering the contempt offered, he ought to restore more than he took away. For as one who imperils another’s safety does not enough by merely restoring his safety, without making some compensation for the anguish incurred; so he who violates another’s honor does not enough by merely rendering honor again, but must, according to the extent of the injury done, make restoration in some way satisfactory to the person whom he has dishonored. We must also observe that when any one pays what he has unjustly taken away, he ought to give something which could not have been demanded of him, had he not stolen what belonged to another. So then, every one who sins ought to pay back the honor of which he has robbed God; and this is the satisfaction which every sinner owes to God.
 
-Speak on according to your pleasure.
+Since we have determined to follow reason in all these things, I am unable to bring any objection against them, although you somewhat startle me.

@@ -4,7 +4,7 @@ work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
 work_title: The Guide for the Perplexed
 author_name: Moses Maimonides
 chapter_number: 15
-chapter_title: CHAPTER III
+chapter_title: Chapter IV (1)
 chapter_slug: 15
 variant_id: "7edd8a51-b1ed-5f9b-aedb-6336f37eb84d"
 content_type: translation
@@ -13,11 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 331
+word_count: 489
 source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
 translator: Online Library of Liberty edition
 ---
 
-It might be thought that the Hebrew words temunah and tabnit have one and the same meaning, but this is not the case. Tabnit, derived from the verb banah (he built), signifies the build and construction of a thing—that is to say, its figure, whether square, round, triangular, or of any other shape. Comp. “the pattern (tabnit) of the Tabernacle and the pattern (tabnit) of all its vessels” (Exod. xxv. 9); “according to the pattern (tabnit) which thou wast shown upon the mount” (Exod. xxv. 40); “the form of any bird” (Deut. iv. 17); “the form (tabnit) of a hand” (Ezek. viii. 3); “the pattern Edition: current; Page: [17] (tabnit) of the porch” (1 Chron. xxviii. 11). In all these quotations it is the shape which is referred to. Therefore the Hebrew language never employs the word tabnit in speaking of the qualities of God Almighty.
+The three verbs raah, hibbit, and ḥazah, which denote “he perceived with the eye,” are also used figuratively in the sense of intellectual perception. As regards the first of these verbs this is well known, e.g., “And he looked (va-yar) and behold a well in the field” (Gen. xxix. 2): here it signifies ocular perception; “yea, my heart has seen (raah) much of wisdom and of knowledge” (Eccles. i. 16); in this passage it refers to the intellectual perception.
 
-The term temunah, on the other hand, is used in the Bible in three different senses. It signifies, first, the outlines of things which are perceived by our bodily senses, i.e., their shape and form; as, e.g., “And ye make an image the form (temunat) of some likeness” (Deut. iv. 16); “for ye saw no likeness” (temunah) (Deut. iv. 15). Secondly, the forms of our imagination, i.e., the impressions retained in imagination when the objects have ceased to affect our senses. In this sense it is used in the passage which begins “In thoughts from the visions of the night” (Job iv. 13), and which concludes “it remained but I could not recognize its sight, only an image—temunah—was before my eyes,” i.e., an image which presented itself to my sight during sleep. Thirdly, the true form of an object, which is perceived only by the intellect: and it is in this third signification that the term is applied to God. The words “And the similitude of the Lord shall he behold” (Num. xii. 8) therefore mean “he shall comprehend the true essence of the Lord.”
+In this figurative sense the verb is to be understood, when applied to God; e.g., “I saw (raïti) the Lord” (1 Kings xxii. 19); “And the Lord appeared (va-yera) unto him” (Gen. xviii. 1); “And God saw (va-yar) that it was good” (Gen. i. 10); “I beseech thee, show me (hareni) thy glory” (Exod. xxxiii. 18); “And they saw (va-yirü) the God of Israel” (Exod. xxiv. 10). All these instances refer to intellectual perception, and by no means to perception with the eye as in its literal meaning: for, on the one hand, the eye can only perceive a corporeal object, and in connection with it certain accidents, as colour, shape, etc.; and, on the other hand, God does not perceive by means of a corporeal organ, as will be explained.
+
+In the same manner the Hebrew hibbit signifies “he viewed” with the eye; comp. “Look (tabbit) not behind thee” (Gen. xix. 17); “But his wife looked (va-tabbet) back from him” (Gen. xix. 26); “And if one look (ve-nibbat) unto the land” (Isa. v. 30); and figuratively, “to view and observe” with the intellect, “to contemplate” a thing till it be understood. In this sense the verb is used in passages like the following: “He hath not beheld (hibbit) iniquity in Jacob” (Num. xxiii. 21); for “iniquity” cannot be seen with the eye. The words, “And they looked (ve-hibbitu) after Moses” (Exod. xxxiii. 8)—in addition to the literal understanding of the phrase—were explained by our Sages in a figurative sense. According to them, these words mean that the Israelites examined and criticised the actions and sayings of Moses. Compare also “Contemplate (habbet), I pray thee, the heaven” (Gen. xv. 5); for this took place in a prophetic vision. This verb, when applied to God, is employed in this figurative sense; e.g., “to look (me-habbit) upon God” (Exod. iii. 6); “And the similitude of the Lord shall he behold” (yabbit) (Num. xii. 8); “And thou canst not look (habbet) on iniquity” (Hab. i. 13).
+
+The same explanation applies to ḥazah. It denotes to view with the eye, as: “And let our eye look (ve-taḥaz) upon Zion” (Mic. iv. 11); and also figuratively, to perceive mentally: “which he saw (ḥazah) concerning Judah and Jerusalem” (Isa. i. 1); “The word of the Lord came unto Abraham in a vision” (maḥazeh) (Gen. xv. 1): in this sense ḥazah is used in the phrase, “Also they saw (va-yeḥezu) God” (Exod. xxiv. 11). Note this well.

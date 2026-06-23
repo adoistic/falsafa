@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-anarchism-encyclopaedia-britanni-010980",
+  "work_title": "Anarchism (Encyclopaedia Britannica article)",
+  "chapter_number": 3,
+  "chapter_title": "Anarchism in the International Working Men’s Association",
+  "chapter_slug": "03-anarchism-in-the-international-working-men-s-assoc",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b96e39a1-fc12-5a05-93b4-798d55f4c63a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2199,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1910/britannica.htm"
+    }
+  ]
+}

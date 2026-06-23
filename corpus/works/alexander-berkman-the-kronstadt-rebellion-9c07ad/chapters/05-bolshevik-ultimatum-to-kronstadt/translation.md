@@ -1,0 +1,79 @@
+---
+work_id: "9c07adc7-b52d-5693-9585-4540c52702f7"
+work_slug: "alexander-berkman-the-kronstadt-rebellion-9c07ad"
+work_title: The Kronstadt Rebellion
+author_name: Alexander Berkman
+chapter_number: 5
+chapter_title: Bolshevik Ultimatum to Kronstadt
+chapter_slug: "05-bolshevik-ultimatum-to-kronstadt"
+variant_id: "e53decf7-19f4-504b-9e40-38d77f7a9ca9"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1653
+source_url: "https://www.marxists.org/reference/archive/berkman/1922/kronstadt-rebellion/ch5.htm"
+translator: Marxists Internet Archive edition
+---
+
+Kronstadt was generous. Not a drop of Communist blood did it shed, in spite of all the provocation, the blockade of the city and repressive measures on the part of the Bolshevik Government. It scorned to imitate the Communist example of vengeance, even going to the extent of warning the Kronstadt population not to be guilty of excesses against members of the Communist party. The Provisional Revolutionary Committee issued a call to the people of Kronstadt to that effect, even after the Bolshevik Government had ignored the demand of the sailors for the liberation of hostages taken in Petrograd. The Kronstadt demand sent by radio to the Petrograd Soviet and the Manifesto of the Revolutionary Committee were published on the same day, March 7, and are hereby reproduced:
+
+In the name of the Kronstadt garrison the Provisional Revolutionary Committee of Kronstadt demands that the families of the sailors, workers and Red Army men held by the Petro-Soviet as hostages be liberated within 24 hours.
+
+The Kronstadt garrison declares that the Communists enjoy full liberty in Kronstadt and their families are absolutely safe. The example of the Petro-Soviet will not be followed here, because we consider such methods (the taking of hostages) most shameful and vicious even if prompted by desperate fury. History knows no such infamy.
+
+SAILOR PETRICHENKO, Chairman of Provisional Revolutionary Committee
+
+KILGAST, Secretary
+
+The Manifesto to the people of Kronstadt read in part:
+
+The long continued oppression of the laboring masses by the Communist dictatorship has produced very natural indignation and resentment on the part of the people. As a result of it relatives of Communists have in some instances been discharged from their positions and boycotted. That must not be. We do not seek vengeance--we are defending our labour interests.
+
+Kronstadt lived in the spirit of its holy crusade. It had abiding faith in the justice of its cause and felt itself the true defender of the Revolution. In this state of mind the sailors did not believe that the Government would attack them by force of arms. In the subconsciousness of these simple children of the soil and sea there perhaps germinated the feeling that not only through violence may victory be gained. The Slavic psychology seemed to believe that the justice of the cause and the strength of the revolutionary spirit must win. At any rate, Kronstadt refuses to take the offensive. The Revolutionary Committee would not accept the insistent advice of the military experts to make an immediate landing in Oranienbaum, a fort of great strategic value. The Kronstadt sailors and soldiers aimed to establish free Soviets and were willing to defend their rights against attack; but they would not be the aggressors.
+
+In Petrograd there were persistent rumors that the Government was preparing military operations against Kronstadt, but the people did not credit such stories: the thing seem so outrageous as to be absurd. As already mentioned, the Committee of Defense (officially known as the Soviet of Labour and Defense) had declared the capital to be in an "extraordinary state of siege". No assemblies were permitted, no gathering on the streets. The Petrograd workers knew little of what was transpiring in Kronstadt, the only information accessible being the Communist press and the frequent bulletins to the fact that the "Tsarist General Kozlovsky organized a counter-revolutionary uprising in Kronstadt". Anxiously the people looked forward to the announced session of the Petrograd Soviet which was to take action in the Kronstadt matter.
+
+The Petro-Soviet met on March 4, admission being by cards which, as a rule, only Communists could procure. The writer, then on friendly terms with the Bolsheviki and particularly with Zinoviev, was present. As chairman of the Petrograd Soviet Zinoviev opened the session and in a long speech set forth the Kronstadt situation. I confess that I came to the meeting disposed rather in favor of the Zinoviev viewpoint: I was on my guard against the vaguest possibility of counter-revolutionary influence in Kronstadt. But Zinoviev's speech itself convinced me that the Communist accusations against the sailors were pure fabrication, without scintilla of truth. I had heard Zinoviev on several previous occasions. I found him a convincing Speaker, once his premises were admitted. But now his whole attitude, his argumentation, his tone and manner -- all gave the lie to his words. I could sense his own conscience protesting. The only "evidence" presented against Kronstadt was the famous resolution on March 1, the demands of which were just and even moderate. It was on the sole basis of that document, supported by the vehement, almost hysterical denunciations of the sailors by Kalinin, that the fatal step was taken. Prepared beforehand and presented by the stentorian-voiced Yevdokimov, the right-hand man of Zinoviev, the resolution against Kronstadt was passed by the delegates wrought up to a high pitch of intolerance and blood thirst -- passed amid a tumult of protest from several delegates of Petrograd factories and the spokesmen of the sailors. The resolution declared Kronstadt guilty of a counter-revolutionary uprising against the Soviet power and demanded its immediate surrender.
+
+It was a declaration of war. Even many Communists refused to believe that the resolution would be carried out: it were a monstrous thing to attack by force of arms the "pride and glory of the Russian Revolution", as Trotsky had christened the Kronstadt sailors. In the circle of their friends many sober-minded Communists threatened to resign from the Party should such a bloody deed come to pass.
+
+Trotsky had been expected to address the Petro-Soviet, and his failure to appear was interpreted by some as indicating that the seriousness of the situation was exaggerated. But during the night he arrived in Petrograd and the following morning, March 5, he issued his ultimatum to Kronstadt:
+
+The Workers and Peasants Government has decreed that the Kronstadt and the rebellious ships must immediately submit to the authority of the Soviet Republic. Therefore I command all who have raised their hand against the Socialist fatherland to lay down their arms at once. The obdurate are to be disarmed and turned over to the Soviet authorities. The arrested Commissars and other representatives of the Government are to be liberated at once. Only those surrendering unconditionally may count on the mercy of the Soviet Republic.
+
+Simultaneously I am issuing orders to prepare to quell the mutiny and subdue the mutineers by force of arms. Responsibility for the harm that may be suffered by the peaceful population will fall entirely upon the heads of the counter-revolutionary mutineers. This warning is final.
+
+TROTSKY, Chairman of Revolutionary Military Soviet of the Republic;
+
+KAMENEV, Commander-in-Chief
+
+The situation looked ominous. Great military forces continuously flowed into Petrograd and its environs. Trotsky's ultimatum was followed by a prikaz which contained the historic threat, "I'll shoot you like pheasants". A group of Anarchists then in Petrograd made a last attempt to induce the Bolsheviki to reconsider their decision of attacking Kronstadt. They felt it their duty to the Revolution to make an effort, even if hopeless, to prevent the imminent massacre of the revolutionary flower of Russia, the Kronstadt sailors and workers. On March 5 they sent a protest to the Committee of Defense, pointing out the peaceful intentions and just demands of Kronstadt, reminding the Communists of the heroic revolutionary history of the sailors, and suggesting a method of settling the dispute in a manner befitting comrades and revolutionists. The document read:
+
+To the Petrograd Soviet of Labour and Defense
+
+Chairman Zinoviev:
+
+To remain silent now is impossible, even criminal. Recent events impel us Anarchists to speak out and to declare our attitude in the present situation. The spirit of ferment and dissatisfaction manifest among the workers and sailors is the result of causes that demand our serious attention. Cold and hunger have produced disaffection, and the absence of any opportunity for discussion and criticism is forcing the workers and sailors to air their grievances in the open.
+
+White-guardist bands wish and may try to exploit this dissatisfaction in their own class interests. Hiding behind the workers and sailors they throw out slogans of the Constituent Assembly, of free trade, and similar demands.
+
+We Anarchists have long since exposed the fiction of these slogans, and we declare to the whole world that we will fight with arms against any counter-revolutionary attempt, in coöperation with all friends of the Soviet Revolution and hand in hand with the Bolsheviki.
+
+Concerning the conflict between the Soviet Government and the workers and sailors, our opinion is that it must be settled not by force of arms but by means of comradely, fraternal revolutionary agreement. Resorting to bloodshed, on the part of the Soviet Government, will not -- in the given situation -- intimidate or quieten the workers. On the contrary, it will serve only to aggravate matters and will strengthen the hands of the Entente and of internal counter-revolution. More important still, the use of force by the Workers and Peasants Government against workers and sailors will have a reactionary effect upon the international revolutionary movement and will everywhere result in incalculable harm to the Social Revolution. Comrades Bolsheviki, bethink yourselves before it too late! Do not play with fire: you are about to make a most serious and decisive step. We hereby submit to you the following proposition: Let a Commission be selected to consist of five persons, inclusive of two Anarchists. The Commission is to go to Kronstadt to settle the dispute by peaceful means. In the given situation this is the most radical method. It will be of international revolutionary significance.
+
+Petrograd
+
+March 5, 1921
+
+ALEXANDER BERKMAN
+
+EMMA GOLDMAN
+
+PERKUS
+
+PETROVSKY
+
+Zinoviev informed that a document in connection with the Kronstadt problem was to be submitted to the Soviet of Defense, sent his personal representative for it. Whether the letter was discussed by that body is not known to the writer. At any rate, no action was taken in the matter.

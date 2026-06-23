@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-the-international-situation-a-st-60a333",
+  "work_title": "The International Situation: A Study of Capitalism in Collapse",
+  "chapter_number": 3,
+  "chapter_title": "III. The United States, Japan, Colonial Countries and Soviet Russia",
+  "chapter_slug": "03-iii-the-united-states-japan-colonial-countries-and",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "614feca5-83fc-5370-8b92-911dec2c854a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1130,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1921/x01/x02.htm"
+    }
+  ]
+}

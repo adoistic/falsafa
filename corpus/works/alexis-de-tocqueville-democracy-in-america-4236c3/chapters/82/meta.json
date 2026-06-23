@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 82,
+  "chapter_title": "Chapter V: How Democracy Affects the Relation Of Masters And Servants",
+  "chapter_slug": "82",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd6efa22-82ab-5661-b651-43ebf939a5a6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3445,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch33.htm"
+    }
+  ]
+}

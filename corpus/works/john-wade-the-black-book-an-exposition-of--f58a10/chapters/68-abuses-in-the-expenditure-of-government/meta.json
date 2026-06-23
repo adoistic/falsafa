@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 68,
+  "chapter_title": "Abuses in the Expenditure of Government.",
+  "chapter_slug": "68-abuses-in-the-expenditure-of-government",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "617f64a9-0d4f-5131-9ad8-ceb16c05a0f4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5954,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

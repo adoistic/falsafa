@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 14,
+  "chapter_title": "§ 7. — That Inequality of Powers is the Necessary Condition of Equality of Fortunes.",
+  "chapter_slug": "14-7-that-inequality-of-powers-is-the-necessary-condi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "488e8e59-d63d-5e01-a42c-b027c0e3227c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6214,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch03.htm"
+    }
+  ]
+}

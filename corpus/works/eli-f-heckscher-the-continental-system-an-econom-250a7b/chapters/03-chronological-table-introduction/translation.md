@@ -1,0 +1,33 @@
+---
+work_id: "250a7b43-ec95-5f8a-be6f-a40fd2b3d743"
+work_slug: "eli-f-heckscher-the-continental-system-an-econom-250a7b"
+work_title: "The Continental System: An Economic Interpretation"
+author_name: Eli F. Heckscher
+chapter_number: 3
+chapter_title: Chronological Table, Introduction
+chapter_slug: "03-chronological-table-introduction"
+variant_id: "5ff404c4-b129-5048-b628-b23191808365"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 803
+source_url: "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+translator: Online Library of Liberty edition
+---
+
+HISTORY has rightly been called of old magistra vitae, which function is incompatible with that of ancilla fidei or even ancilla pietatis. The fact is that historical research can offer us knowledge only by bringing forward its conclusions quite irrespective of their value as a support for any practical aims, howsoever lofty. The endeavours which have been going on all over the world in recent years to transform scientific work into a species of propaganda with a great show of learning, are related not only to the conditions of the moment, but also to the deeper spiritual influences which themselves have done much to bring those conditions about. They are in this way easy to explain; but their tendency to endanger and to create indifference for true research is not lessened thereby.
+
+In the present inquiry I have pursued, to the best of my humble ability, a purely scientific aim, in the meaning of the term that has just been indicated. I have not sought to take sides in the struggles that are barely finished, but only to make use of the experiences of former times, in combination with the experiences of to-day, in order thereby to make room for a better understanding of the entire course of developments. As a matter of fact, it is difficult to imagine a task within the sphere of economic history which is more worth while taking up just now than a consideration of the last great commercial blockade. As will appear from the following account, both the resemblances and the differences of the Napoleonic wars with respect to the recent World War are instructive in the highest degree. But it can scarcely be expected that the matter will be treated in a purely objective manner, that is to say, exclusively on the basis of its own inherent conditions, by those who, metaphorically speaking, have been in the midst of the conflict; for the possibilities of utilizing the lessons of the past as a spear to cast at the joints of the enemy with the laudable purpose of the warrior to wound and kill—to adapt the words of Victor Rydberg—are here, quite naturally, legion.
+
+An even approximately exhaustive treatment of the Continental System, however, lies beyond what has here been attempted. Neither time nor strength was available for so much. It was intended that the following survey should be, first and foremost, economic in character; and the aim of objective treatment was thereby considerably simplified. For economy, as is well known, simply means housekeeping—the directing of outward means to a given end. The moral content of the means in themselves, and still more the expediency of the end in itself, fall outside the confines of economic research. All examination of the one or of the other will therefore be avoided. Instead of this, we will have before us two objects: first, the purely historical one of determining how the means and the end came into being; secondly, the economic one of inquiring into the suitability of the means for their task and the effects of the policy in general.
+
+More clearly stated, there are three principal questions to be examined:
+
+The first of these three questions is very richly illustrated, from a purely external point of view, in the literature already existing on the Continental System; for the third there is likewise abundant, though not completely worked-up, material; the second, however, seems to have suffered from the fact that no economist, so far as is known, has yet subjected it to scientific treatment. On all three questions, and especially on the last two, a clearer light is thrown by comparison with the recent blockade.
+
+A French student of Napoleonic times, M. Marcel Dunan, has declared in an engrossing and very subjectively written bibliography of the Continental System (1913), that the time has not yet come for general surveys of this gigantic undertaking, because, according to his view, we do not yet know either its causes, its roots, its applications, or its effects. Absolute certainty, however, is not given to man; and even though it is undoubtedly true that many years of research must elapse before positive judgment can be passed on certain important points—as will, indeed, appear from what follows—the agreement in the results of the different investigations is so surprisingly great that even now it seems possible to say a great deal without much danger of error. Otherwise, one may wait in vain for investigations on all the necessary points, if no efforts have been made beforehand to summarize the conclusions already reached.
+
+In a supplement to this exposition the most important materials for a more detailed study of the Continental System have been brought together for the benefit of those who may feel impelled to push deeper into this fertile and interesting field of inquiry.

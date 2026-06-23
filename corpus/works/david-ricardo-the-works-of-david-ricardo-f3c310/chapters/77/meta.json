@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 77,
-  "chapter_title": "section IV.: On the Effect of Abundant Crops on the Price of Corn.",
+  "chapter_title": "section V.: On the Effect produced on the Price of Corn by Mr Peel's Bill for restoring the Ancient Standard.",
   "chapter_slug": "77",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 944,
-      "paragraph_count": 3,
+      "word_count": 4090,
+      "paragraph_count": 26,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

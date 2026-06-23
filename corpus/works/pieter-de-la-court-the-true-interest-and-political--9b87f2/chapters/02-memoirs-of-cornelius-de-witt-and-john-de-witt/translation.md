@@ -4,7 +4,7 @@ work_slug: "pieter-de-la-court-the-true-interest-and-political--9b87f2"
 work_title: The True Interest and Political Maxims of the Republic of Holland
 author_name: Pieter de la Court
 chapter_number: 2
-chapter_title: MEMOIRS OF Cornelius de Witt and John de Witt,
+chapter_title: Memoirs of Cornelius de Witt and John de Witt,
 chapter_slug: "02-memoirs-of-cornelius-de-witt-and-john-de-witt"
 variant_id: "06cf5ed6-4371-5dea-ba8e-528a224395ef"
 content_type: translation

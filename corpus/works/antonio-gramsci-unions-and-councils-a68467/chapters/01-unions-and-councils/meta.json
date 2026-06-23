@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-gramsci-unions-and-councils-a68467",
+  "work_title": "Unions and Councils",
+  "chapter_number": 1,
+  "chapter_title": "Unions and Councils",
+  "chapter_slug": "01-unions-and-councils",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b88f440-dc3d-5c4c-95ff-1feb749f5b6f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1860,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gramsci/1919/10/unions-councils.htm"
+    }
+  ]
+}

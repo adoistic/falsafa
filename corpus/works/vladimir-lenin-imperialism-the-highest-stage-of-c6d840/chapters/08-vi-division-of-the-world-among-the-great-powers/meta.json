@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-imperialism-the-highest-stage-of-c6d840",
+  "work_title": "Imperialism, the Highest Stage of Capitalism",
+  "chapter_number": 8,
+  "chapter_title": "VI. Division of the World Among the Great Powers",
+  "chapter_slug": "08-vi-division-of-the-world-among-the-great-powers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60eb0624-5e2a-5c1d-91fe-a65d16345fee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3467,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch06.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-the-law-of-the-three-rents-5a8b94",
+  "work_title": "The Law of the Three Rents",
+  "chapter_number": 1,
+  "chapter_title": "(April 1891)",
+  "chapter_slug": "01-april-1891",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8b80525e-580f-5b45-b45e-18211cd0da61",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7682,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1891/04/rents.htm"
+    }
+  ]
+}

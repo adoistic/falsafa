@@ -4,7 +4,7 @@ work_slug: "charles-francis-bastable-public-finance-1ff8b2"
 work_title: Public Finance
 author_name: Charles Francis Bastable
 chapter_number: 1
-chapter_title: PREFACE TO THE THIRD EDITION
+chapter_title: Preface to the Third Edition
 chapter_slug: "01-preface-to-the-third-edition"
 variant_id: "59e5ae44-60e5-566b-a725-150e917e4cd1"
 content_type: translation

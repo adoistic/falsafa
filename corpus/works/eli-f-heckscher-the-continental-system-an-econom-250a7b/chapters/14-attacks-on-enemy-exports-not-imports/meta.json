@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 14,
+  "chapter_title": "Attacks on Enemy Exports, Not Imports",
+  "chapter_slug": "14-attacks-on-enemy-exports-not-imports",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0c4667ea-3d98-59d8-9f0b-3e63a5e90195",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1257,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

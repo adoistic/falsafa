@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 44,
+  "chapter_title": "Chpt. 7 Decision of the Combat",
+  "chapter_slug": "44-chpt-7-decision-of-the-combat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1803d26-76e3-5d4f-8d5d-f7e93767a80e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2990,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book4/ch07.htm"
+    }
+  ]
+}

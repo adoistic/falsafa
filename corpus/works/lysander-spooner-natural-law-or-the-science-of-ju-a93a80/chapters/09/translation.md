@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-natural-law-or-the-science-of-ju-a93a80"
 work_title: Natural Law, or the Science of Justice
 author_name: Lysander Spooner
 chapter_number: 9
-chapter_title: Section V.
+chapter_title: "Chapter III.: Natural Law Contrasted with Legislation, Section I."
 chapter_slug: 09
 variant_id: "c4d7d92e-632c-5ab6-a182-964aa781cc97"
 content_type: translation
@@ -13,11 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 261
+word_count: 399
 source_url: "https://oll.libertyfund.org/titles/spooner-natural-law-or-the-science-of-justice-1882"
 translator: Online Library of Liberty edition
 ---
 
-If there be such a natural principle as justice, it is necessarily the highest, and consequently the only and universal, law for all those matters to which it is naturally applicable. And, consequently, all human legislation is simply and always an assumption of authority and dominion, where no right of authority or dominion exists. It is, therefore, simply and always an intrusion, an absurdity, an usurpation, and a crime.
+If there be no such science as justice, there can be no science of government; and all the rapacity and violence, by which, in all ages and nations, a few confederated villains have obtained the mastery over the rest of mankind, reduced them to poverty and slavery, and established what they called governments to keep them in subjection, have been as legitimate examples of government as any that the world is ever to see.
 
-On the other hand, if there be no such natural principle as justice, there can be no such thing as injustice. If there be no such natural principle as honesty, there can be no such thing as dishonesty; and no possible act of either force or fraud, committed by one man against the person or property of another, can be said to be unjust or dishonest; or be complained of, or prohibited, or punished as such. In short, if there be no such principle as justice, there can be no such acts as crimes; and all the professions of governments, so called, that they exist, either in whole or in part, for the punishment or prevention of crimes, are professions that they exist for the punishment or prevention of what never existed, nor ever can exist. Such professions are therefore confessions that, so far as crimes are concerned, governments have no occasion to exist; that there is nothing for them to do, and that there is nothing that they can do. They are confessions that the governments exist for the punishment and prevention of acts that are, in their nature, simple impossibilities.
+If there be in nature such a principle as justice, it is necessarily the only political principle there ever was, or ever will be. All the other so-called political principles, which men are in the habit of inventing, are not principles at all. They are either the mere conceits of simpletons, who imagine they have discovered something better than truth, and justice, and universal law; or they are mere devices and pretences, to which selfish and knavish men resort as means to get fame, and power, and money.
+
+Natural law, natural justice, being a principle that is naturally applicable and adequate to the rightful settlement of every possible controversy that can arise among men; being, too, the only standard by which any controversy whatever, between man and man, can be rightfully settled; being a principle whose protection every man demands for himself, whether he is willing to accord it to others, or not; being also an immutable principle, one that is always and everywhere the same, in all ages and nations; being self-evidently necessary in all times and places; being so entirely impartial and equitable towards all; so indispensable to the peace of mankind everywhere; so vital to the safety and welfare of every human being; being, too, so easily learned, so generally known, and so easily maintained by such voluntary associations as all honest men can readily and rightfully form for that purpose—being such a principle as this, these questions arise, viz.: Why is it that it does not universally, or well nigh universally, prevail? Why is it that it has not, ages ago, been established throughout the world as the one only law that any man, or all men, could rightfully be compelled to obey? Why is it that any human being ever conceived that anything so self-evidently superfluous, false, absurd, and atrocious as all legislation necessarily must be, could be of any use to mankind, or have any place in human affairs?

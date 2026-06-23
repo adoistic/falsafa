@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 42,
-  "chapter_title": "SECTION II.: Of Banks of Deposit.",
+  "chapter_title": "Section IV.: Of Paper-Money.",
   "chapter_slug": "42",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 911,
-      "paragraph_count": 9,
+      "word_count": 1443,
+      "paragraph_count": 15,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

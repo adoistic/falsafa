@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2872
+word_count: 2860
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
 
-If anything could add to the disgust and detestation which the monstrous falsifications of the constitution, already described, should excite towards the court that resorts to them, it would be the fact that the court, not content with falsifying to the utmost the constitution itself, goes outside of the constitution, to the tyrannical Edition: current; Page: [81] practices of what it calls the “sovereign” governments of “other civilized nations,” to justify the same practices by our own.
+If anything could add to the disgust and detestation which the monstrous falsifications of the constitution, already described, should excite towards the court that resorts to them, it would be the fact that the court, not content with falsifying to the utmost the constitution itself, goes outside of the constitution, to the tyrannical practices of what it calls the “sovereign” governments of “other civilized nations,” to justify the same practices by our own.
 
 It asserts, over and over again, the idea that our government is a “sovereign” government; that it has the same rights of “sovereignty,” as the governments of “other civilized nations”; especially those in Europe.
 
@@ -60,7 +60,7 @@ Such being the character of the General Government, it seems to be a self-eviden
 
 Also he said:
 
-Another proposition equally clear is, that at the time the constitution was adopted, it was, Edition: current; Page: [83] and for a long time had been, the practice of most, if not all, civilized governments, to employ the public credit as a means of anticipating the national revenues for the purpose of enabling them to exercise their governmental functions.—p. 556.
+Another proposition equally clear is, that at the time the constitution was adopted, it was, and for a long time had been, the practice of most, if not all, civilized governments, to employ the public credit as a means of anticipating the national revenues for the purpose of enabling them to exercise their governmental functions.—p. 556.
 
 Also he said:
 
@@ -88,7 +88,7 @@ As a sovereign government.—p. 446.
 
 Also it said:
 
-It appears to us to follow, as a logical and necessary consequence, that congress has the power to issue the obligations of the United States in such form, and to impress upon them such qualities as currency, for the purchase of merchandise and the payment of debts, as accord with the usage of other sovereign governments. The power, as incident to the power of borrowing money, and issuing bills or notes of the government for money borrowed, of impressing upon those bills or notes the quality of being a legal tender for the payment of private debts, was a power universally understood to belong to sovereignty, in Europe and America, at the time of the framing and adoption of the constitution of the United States. The governments of Europe, acting through the monarch, or the legislature, according to the distribution of powers under their respective constitutions, had, and have, as sovereign a power of issuing paper money as of stamping coin. This power has been distinctly recognized in an important modern case, ably argued and fully considered, in which the Emperor of Austria, as King of Hungary, obtained from the English Court of Chancery an injunction Edition: current; Page: [84] against the issue, in England, without his license, of notes purporting to be public paper money of Hungary.—p. 447.
+It appears to us to follow, as a logical and necessary consequence, that congress has the power to issue the obligations of the United States in such form, and to impress upon them such qualities as currency, for the purchase of merchandise and the payment of debts, as accord with the usage of other sovereign governments. The power, as incident to the power of borrowing money, and issuing bills or notes of the government for money borrowed, of impressing upon those bills or notes the quality of being a legal tender for the payment of private debts, was a power universally understood to belong to sovereignty, in Europe and America, at the time of the framing and adoption of the constitution of the United States. The governments of Europe, acting through the monarch, or the legislature, according to the distribution of powers under their respective constitutions, had, and have, as sovereign a power of issuing paper money as of stamping coin. This power has been distinctly recognized in an important modern case, ably argued and fully considered, in which the Emperor of Austria, as King of Hungary, obtained from the English Court of Chancery an injunction against the issue, in England, without his license, of notes purporting to be public paper money of Hungary.—p. 447.
 
 Also it speaks of:
 

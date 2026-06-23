@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 2,
+  "chapter_title": "II. The Antagonism between Rich and Poor in the Middle Ages",
+  "chapter_slug": "02-ii-the-antagonism-between-rich-and-poor-in-the-mid",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fafb60ed-2aae-5287-a667-65617225eb3a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1024,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch01.htm"
+    }
+  ]
+}

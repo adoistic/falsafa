@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-mutual-aid-a-factor-of-evolution-488c94",
+  "work_title": "Mutual Aid: A Factor of Evolution",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 4: Mutual Aid Among the Barbarians",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2df1a40e-07a5-5599-91e7-a69926a7dbbd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9741,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch04.htm"
+    }
+  ]
+}

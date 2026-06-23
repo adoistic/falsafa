@@ -4,7 +4,7 @@ work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
 work_title: The Comedy of Protection
 author_name: George Hamilton
 chapter_number: 20
-chapter_title: "CHAPTER XIII: SOCIALISM AND DEAR BREAD"
+chapter_title: "Chapter XIII: Socialism and Dear Bread"
 chapter_slug: 20
 variant_id: "ffa178e6-dd65-59d7-a450-f4c2fe1df066"
 content_type: translation

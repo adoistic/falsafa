@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-social-and-philosophical-studies-160a7b",
+  "work_title": "Social and Philosophical Studies",
+  "chapter_number": 11,
+  "chapter_title": "II. The Decomposition of the Heroic Ideal",
+  "chapter_slug": "11-ii-the-decomposition-of-the-heroic-ideal",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "be796fad-cee4-5ff5-a63d-42ea2bd22b4e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2581,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1906/socphil/ch4.html"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+---
+work_id: "8baeaf4f-4cf0-5545-9c0f-6e805b178b42"
+work_slug: "james-steuart-an-inquiry-into-the-principles-o-8baeaf"
+work_title: An Inquiry into the Principles of Political Economy
+author_name: James Steuart
+chapter_number: 83
+chapter_title: "Chap. XXX: Inquiry into the Motives of the Duke of Orleans in concerting the Plan of the Missisippi"
+chapter_slug: "83-chap-xxx-inquiry-into-the-motives-of-the-duke-of-o"
+variant_id: "912e9002-dac2-5dc6-958e-2bf134337fe1"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2807
+source_url: "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+translator: Marxists Internet Archive edition
+---
+
+Now if we examine the motives of the Regent, with regard to this plan, and suppose that he forsaw all that was to happen in consequence of it; and if we also suppose that he really believed that the company never could be in a situation to make good the dividend of 200 livres, which they had promised upon their actions; in a word, if we put the worst interpretation upon all his actions, we must conclude that the whole was a most consummate piece of knavery.
+
+But as this does not appear evidently, either by the succeeding operations, or ultimate consequences of this scheme, I am loth to ascribe, to that great man, a sentiment so opposite to that which animated him, on his entrance upon the regency, when he nobly rejected the plan proposed to him for expunging the debts altogether.
+
+I may therefore suppose, that he might believe that the company to whom he had given the mint, the tobacco, the farms, and the trade of France, and to whom he soon after gave the general receipt of all the revenue, might by these means be enabled to make good their engagements to the public. I say, this may be supposed; in which case justice was to be done to everyone; and the King's debts were to be reduced to 48 millions a year, instead of 80 millions.
+
+That this is a supposeable case, I gather from Dutot, who gives us an enumeration of the revenue of the company, Vol. I, p. 162, as follows:
+
+Now if we suppose the interest of money at 3 per cent this sum would answer to the capital of 2664 millions, which was more than all the debts of the kingdom, for which they were to become answerable.
+
+Upon this view of the matter, I say, it was possible, that the Regent might form this plan, without any intention to defraud the creditors; and more I do not pretend to affirm.
+
+I have said that he purposely made the company raise the price of their actions, in order to draw more notes into circulation.
+
+To this it may be objected, that he might as well have paid off the creditors with bank notes, without going this round-about way to work; and have left them to purchase the actions directly from the company.
+
+I answer, that such an operation would have appeared too barefaced and might have endangered the credit of the bank. Whereas in buying the actions, which were sought after by everybody, the state appeared desirous only of acquiring a share of the vast profits to be made by the company. Farther:
+
+As the company appeared willing to accept of bank notes from the state, in payment of their actions, this manoeuvre gave an additional credit both to the actions, and to the notes; a thing very necessary to be attended to, in a scheme which was calculated to bring about a total transformation of the security for the King's debts.
+
+I must however observe, that at the period concerning which we are now speaking (viz. at the time the company promised the dividend of 200 livres per action) the plan we have been describing could not have been carried into execution.
+
+There were at that time no more than 400,000 actions created, rated at 777 millions: of these were already disposed of at least 250,000, to wit, the original 200,000; and the second creation of 50,000, sold for coin. Besides, there were then only coined in bank notes for 520 millions. So there was not a possibility of executing the plan I have mentioned, as matters then stood.
+
+It is from the subsequent operations of the system, that it appears evident that this and this only could be the intention.
+
+We shall see how the number of actions were multiplied, without any other view than to make the public imagine, that the funds necessary for carrying on the trade of the company were immense.
+
+The number of the actions sold to the public was very inconsiderable, compared with those sold to the Regent, and found in his hands at the blowing up of the system.
+
+Besides, at the period when the number of actions was carried to the utmost, viz. to 624,000, the bank notes bore no proportion to their value; for, on the 4th of October 1719, when the last creation of actions was made, the bank notes did not exceed the sum above specified, to wit, 520 millions.
+
+But in tracing the progress of the system upon the preceeding table, we perceive, that after the actions were once carried to their full number (October 4th 1719), the coining of bank notes went on at a most prodigious rate: so much that by the month of May 1720, they were increased from 520 millions, to above 2696 millions; and on the 21st of that month, all this sum, except 461 millions, were found in circulation.
+
+Farther: We shall see, that when the Regent and the company made out their accompts, there were found in the Regent's hands no less than 400,000 actions, which were burnt; and in consequence of this 25 millions of interest upon the sum of money due by the King to the company, were extinguished.
+
+These facts prove beyond a doubt, that these 400,000 actions had been bought with the notes coined posterior to the 4th of October 1719; otherwise the actions could not have become the property of the state.
+
+Besides, it was acknowledged publicly, that the notes were coined for this purpose. (See Dutot, Vol. I, p. 144.) In the next place, it is evident, that the notes which had been given by the state in payment for these actions, must have been paid back to the state, by the company, in order to fill up the loan of 1600 millions of livres; which the company never could have otherwise lent to the King. And in the last place, it is certain that the public debts were paid off with these notes, so borrowed back from the company: because we shall find the notes in circulation at the blowing up of the system, on the 21st of May 1720; and we shall see how they were paid and withdrawn in October following.
+
+This detail is, I confess, a little long, and perhaps too minute: but I thought it necessary to prove the solidity of my conjectures concerning the Regent's motives in concerting this plan; which no French author, that ever I saw, has pretended to unfold, except by hints too dark to be easily comprehended.
+
+What is now to follow, will still set my conjectures in a fairer light. We have seen already from the table, with what rapidity the creation of actions went on from the 13th of September to the 4th of October 1719. No less than 324,000 were created in this interval.
+
+Yet Dutot, vol. ii, p. 169, et seq. positively says, that on the 4th of October, the company had not sold for more than 182,500,000 livres of their actions. Now the total value, as they were rated when created, extended to 1,797,500,000; so there was little more than one tenth part of the value sold off.
+
+Why therefore create such immense quantities of actions, and so far beyond the demand for them, but to throw dust in the eyes of the public; to keep up the spirit of infatuation; and to pave the way for the final execution of the plan?
+
+The actions being brought, by four successive creations, of the 13th and 28th of September, the 2nd and 4th of October, to their full number, the company, during this interval, obtained the general receipt of the whole revenue. Thus, says Dutot, vol. ii, p. 197, the company was intrusted with the whole revenue, debts and expenses of the state, and all unnecessary charge was avoided in collecting and administering it.
+
+In the month of November 1719, the credit of the bank, and of the company, was so great, that the actions rose to 10,000 livres. Notwithstanding, says Dutot, vol. ii, p. 198, that the company did what they could to keep down the price, by throwing into the market, in one week, for no less than 30 millions. He assigns seven different reasons for this, which, all put together, are not worth one; to wit, that the Regent was ready to buy up every one that lay upon hand, in concert with the company.
+
+If the company had been inclined to keep down the price of the actions, they had nothing more to do than to deliver part of the vast number they still had unsold, at the standard value of 5000 livres, at which they were rated when created; and this would have effectually prevented their rising to 10,000 livres.
+
+But it was the interest of the Regent, who was at that time well provided with actions, to stock-job, and to buy with one hand, while he was selling with the other: these operations were then as well known in the street called Quinquempoix, as now in Change-alley.
+
+As a proof of the justness of my allegation, that the Regent was doing all he could to raise the price of the actions, Dutot informs us, in the place above cited, that the bank, at this very time, was lending money, upon the security of actions, at 2 per cent. Since this was the case, how was it possible that an action, with 200 livres dividend, should sell for less than 10,000 livres, which is the capital corresponding to 200 livres, at 2 per cent?
+
+This is evident; and were it necessary, it may be proved to demonstration, that the rise of the actions was merely the consequence of a political contrivance.
+
+But if money, at that time, came to bear no more than 2 per cent and if the company were able to afford 200 livres upon the action; where was the iniquity of raising the actions to 10,000 livres? I confess I can see none, nor do I perceive either the impossibility or improbability of the two postulata, had matters been rightly conducted.
+
+As to money's falling to 2 per cent any man of 20 years old may expect to see it, without a Missisippi: and as for the payment of the dividends, there never were in the hands of the public, nor ever could be, had all the creditors of the 2000 millions of public debts invested in actions at 10,000 a-piece, one half of 624,000 actions disposed of: consequently, the 200 livres dividend would not have amounted, upon 312,000 actions, to more than 62,400,000 livres; and the revenue of the company, as we have seen, exceeded 80 millions a year.
+
+This still tends to justify the Regent from the gross imputation of fraud, in the conduct of the Missisippi.
+
+But what should still more exculpate this Prince, in the eyes of every impartial man who examines the whole conduct of the affair, is the uniform sentiments of the most intelligent men in France concerning the doctrine of money and credit.
+
+When we find Dutot, who wrote against the arbitrary change of the coin; and De Melon, the Regent's man of confidence and secretary, who wrote in favour of it, two persons considered in France as most able financiers, both agreeing, that during the operations of the system, money never was to be considered but according to denominations; that there was nothing against good policy in changing the value of these denominations; and that paper-money, whether issued for value, or for no value, or for the payment of debts, was always good, provided there was coin enough in France for the changing of it; and this, although the coin itself did not belong to the debtors in the paper: when these principles, I say, were adopted by the men of penetration in France; when we find them published in their writings, many years after the Regent's death, as maxims of what they call their credit public; I think it would be the highest injustice to load the Duke of Orleans with the gross imputation of knavery, in the Missisippi scheme.
+
+Law no doubt saw its tendency. But Law saw also, that credit supported itself on those occasions, where it stood on the most ticklish bottom; he saw bank notes to the amount of more than two thousand millions, issued in payment of the King's debts, without occasioning any run upon the bank, or without suggesting an idea to the public that the bank should naturally have had some fund, to make them good: he saw people, who were in possession of a value in paper exceeding 6000 millions of livres, 60 to the marc, (Dutot, vol. i, p. 144.) look calm and unconcerned, when, in one day, the coin was raised in its denomination to 80 livres in the marc; by which operation, the 6000 millions of the date before lost 25 per cent of their real value. He saw that this operation did not in the least affect the credit of the bank paper; because people minded nothing but denominations.
+
+He saw farther, that by the operation proposed, the whole debt of the King would be transferred upon the company. He saw that these debts, being turned into bank notes, would not be sufficient to buy above 200,000 actions, at the value they then sold for. He knew that the Regent, who had bought 400,000 of these actions at 5000 livres apiece, that is, at half price, would remain in possession of 200,000 actions, after selling enough to draw back the whole of the bank notes issued for the payment of the debts; and he saw that the company of the Indies had a yearly income of above 80 millions to enable them to make good their engagements: besides, he saw a power in the King to raise the denominations of the coin at will, without shocking the ideas of his people; by which means he might have paid the 2000 millions with one louis d'or. Put all these circumstances together, and I can imagine that Law's brain was turned; that he had lost sight of all his principles; and that he might believe that his former common sense was, at that time, become absolute nonsense in France.
+
+That common sense may become nonsense, is a thing by no means peculiar to France, but quite peculiar to man.
+
+I shall offer but one argument more, to prove that the Duke of Orleans, and Law, could have no premeditated design of defrauding the public, by these wonderful operations; which is, that to suppose the contrary, would be to allow them an finite superiority of understanding over all the rest of Europe.
+
+Until the bubble bursted nobody could know where it was to end: everything appeared very extraordinary indeed; and the fatal catastrophe might have been expected from the greatness of the undertaking, merely. But had there been any roguery in the plan itself, it must have appeared palpable long before; because the whole of the operations in which only it could consist, were public.
+
+All the notes were created by public act of council; so were the actions: the loan of 1600 millions to the King, by the company, was a public deed; so was the alienation in their favour, of 48 millions for the interest of this sum. Notes were avowedly coined in order to purchase actions, (Dutot, Vol I, p. 144.) the creditors were avowedly paid with bank notes, at a time when it was forbidden to have 500 livres in coin in any person's custody; consequently, it was also forbidden to demand coin for bank notes.
+
+Now all this was going on in the months of February, March, April and the beginning of May 1720; without any suspicion of any failure of credit. The coin also was sometimes raised, sometimes diminished in its value, and still the fabric stood firm.
+
+Under these circumstances, to say there was knavery, is to say that all the world were absolutely blockheads, except the Regent and John Law: and to this opinion I never can subscribe.
+
+It may seem surprising that I should take so much pains to justify the two principal conductors of this scheme. My intention is not so much to do justice to their reputation, which has been grossly calumniated by many, who have written the history of those times, as to prove, that an ill-concerted system of credit may bring ruin on a nation, although fraud be out of the question: and if a nation be plunged into all the calamities which a public bankruptcy can occasion, it is but a small consolation to be assured of the good intentions of those who were the cause of it.

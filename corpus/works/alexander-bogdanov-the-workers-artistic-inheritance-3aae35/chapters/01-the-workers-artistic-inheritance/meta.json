@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-bogdanov-the-workers-artistic-inheritance-3aae35",
+  "work_title": "The Workers' Artistic Inheritance",
+  "chapter_number": 1,
+  "chapter_title": "The Workers' Artistic Inheritance",
+  "chapter_slug": "01-the-workers-artistic-inheritance",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d61fe5ab-862a-5c3e-9e45-b0afda4b986b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3099,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bogdanov/1924/artistic-inheritance.htm"
+    }
+  ]
+}

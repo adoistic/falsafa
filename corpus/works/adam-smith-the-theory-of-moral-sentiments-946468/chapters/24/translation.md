@@ -4,7 +4,7 @@ work_slug: "adam-smith-the-theory-of-moral-sentiments-946468"
 work_title: The Theory of Moral Sentiments
 author_name: Adam Smith
 chapter_number: 24
-chapter_title: "CHAPTER IV.: Recapitulation of the foregoing Chapters."
+chapter_title: "Chapter IV.: Recapitulation of the foregoing Chapters."
 chapter_slug: 24
 variant_id: "2192a42a-6043-5d2f-a65e-56a34f48ef8a"
 content_type: translation

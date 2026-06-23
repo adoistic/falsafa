@@ -1,67 +1,142 @@
 [
   {
-    "id": "p-c7c172",
+    "id": "p-38dc6d",
     "offset": 0,
-    "text": "§ 1. The primitive housewife finding that she has a limited number of hanks of yarn from the year's shearing, considers all the domestic wants for clothing and tries to distribute the yarn between them in such a way as to contribute as much as possible to the family wellbeing. She will think she has failed if, when it is done, she has reason to regret that she did not apply more to making, say, socks, and less to vests. That would mean that she had miscalculated the points at which to suspend the making of socks and vests respectively; that she had gone too far in the case of vests, and not far enough in that of socks; and that therefore at the points at which she actually did stop, the utility of yarn turned into socks was greater than that of yarn turned into vests. But if, on the other hand, she hit on the right points to stop at, then she made just so many socks and vests that she got an equal amount of good out of the last bundle of yarn that she applied to socks, and the last she applied to vests. This illustrates a general principle, which may be expressed thus:—"
+    "text": "§ 1. We may now turn to consider how far the price which is actually paid for a thing represents the benefit that arises from its possession. This is a wide subject on which economic science has very little to say, but that little is of some importance."
   },
   {
-    "id": "p-3e9cf8",
-    "offset": 1088,
-    "text": "If a person has a thing which he can put to several uses, he will distribute it among these uses in such a way that it has the same marginal utility in all. For if it had a greater marginal utility in one use than another, he would gain by taking away some of it from the second use and applying it to the first."
+    "id": "p-98eb65",
+    "offset": 255,
+    "text": "We have already seen that the price which a person pays for a thing can never exceed, and seldom comes up to that which he would be willing to pay rather than go without it: so that the satisfaction which he gets from its purchase generally exceeds that which he gives up in paying away its price; and he thus derives from the purchase a surplus of satisfaction. The excess of the price which he would be willing to pay rather than go without the thing, over that which he actually does pay, is the economic measure of this surplus satisfaction. It may be called consumer's surplus."
   },
   {
-    "id": "p-84c568",
-    "offset": 1402,
-    "text": "One great disadvantage of a primitive economy, in which there is but little free exchange, is that a person may easily have so much of one thing, say wool, that when he has applied it to every possible use, its marginal utility in each use is low: and at the same time he may have so little of some other thing, say wood, that its marginal utility for him is very high. Meanwhile some of his neighbours may be in great need of wool, and have more wood than they can turn to good account. If each gives up that which has for him the lower utility and receives that which has the higher, each will gain by the exchange. But to make such an adjustment by barter, would be tedious and difficult."
+    "id": "p-415e6b",
+    "offset": 839,
+    "text": "It is obvious that the consumer's surpluses derived from some commodities are much greater than from others. There are many comforts and luxuries of which the prices are very much below those which many people would pay rather than go entirely without them; and which therefore afford a very great consumer's surplus. Good instances are matches, salt, a penny newspaper, or a postage-stamp."
   },
   {
-    "id": "p-fb91f1",
-    "offset": 2095,
-    "text": "The difficulty of barter is indeed not so very great where there are but a few simple commodities each capable of being adapted by domestic work to several uses; the weaving wife and the spinster daughters adjusting rightly the marginal utilities of the different uses of the wool, while the husband and the sons do the same for the wood."
+    "id": "p-1e777c",
+    "offset": 1231,
+    "text": "This benefit, which he gets from purchasing at a low price things for which he would rather pay a high price than go without them, may be called the benefit which he derives from his opportunities, or from his environment; or, to recur to a word that was in common use a few generations ago, from his conjuncture. Our aim in the present chapter is to apply the notion of consumer's surplus as an aid in estimating roughly some of the benefits which a person derives from his environment or his conjuncture."
   },
   {
-    "id": "p-b37257",
-    "offset": 2435,
-    "text": "§ 2. But when commodities have become very numerous and highly specialized, there is an urgent need for the free use of money, or general purchasing power; for that alone can be applied easily in an unlimited variety of purchases. And in a money-economy, good management is shown by so adjusting the margins of suspense on each line of expenditure that the marginal utility of a shilling's worth of goods on each line shall be the same. And this result each one will attain by constantly watching to see whether there is anything on which he is spending so much that he would gain by taking a little away from that line of expenditure and putting it on some other line."
+    "id": "p-14587f",
+    "offset": 1739,
+    "text": "§ 2. In order to give definiteness to our notions, let us consider the case of tea purchased for domestic consumption. Let us take the case of a man, who, if the price of tea were 20s. a pound, would just be induced to buy one pound annually; who would just be induced to buy two pounds if the price were 14s., three pounds if the price were 10s., four pounds if the price were 6s., five pounds if the price were 4s., six pounds if the price were 3s., and who, the price being actually 2s., does purchase seven pounds. We have to investigate the consumer's surplus which he derives from his power of purchasing tea at 2s. a pound."
   },
   {
-    "id": "p-45e6e5",
-    "offset": 3106,
-    "text": "Thus, for instance, the clerk who is in doubt whether to ride to town, or to walk and have some little extra indulgence at his lunch, is weighing against one another the (marginal) utilities of two different modes of spending his money. And when an experienced housekeeper urges on a young couple the importance of keeping accounts carefully; a chief motive of the advice is that they may avoid spending impulsively a great deal of money on furniture and other things; for, though some quantity of these is really needful, yet when bought lavishly they do not give high (marginal) utilities in proportion to their cost. And when the young pair look over their year's budget at the end of the year, and find perhaps that it is necessary to curtail their expenditure somewhere, they compare the (marginal) utilities of different items, weighing the loss of utility that would result from taking away a pound's expenditure here, with that which they would lose by taking it away there: they strive to adjust their parings down so that the aggregate loss of utility may be a minimum, and the aggregate of utility that remains to them may be a maximum."
+    "id": "p-37c2c3",
+    "offset": 2371,
+    "text": "The fact that he would just be induced to purchase one pound if the price were 20s., proves that the total enjoyment or satisfaction which he derives from that pound is as great as that which he could obtain by spending 20s. on other things. When the price falls to 14s., he could, if he chose, continue to buy only one pound. He would then get for 14s. what was worth to him at least 20s.; and he will obtain a surplus satisfaction worth to him at least 6s., or in other words a consumer's surplus of at least 6s. But in fact he buys a second pound of his own free choice, thus showing that he regards it as worth to him at least 14s., and that this represents the additional utility of the second pound to him. He obtains for 28s. what is worth to him at least 20s. + 14s.; i.e. 34s. His surplus satisfaction is at all events not diminished by buying it, but remains worth at least 6s. to him. The total utility of the two pounds is worth at least 34s., his consumer's surplus is at least 6s. The fact that each additional purchase reacts upon the utility of the purchases which he had previously decided to make has already been allowed for in making out the schedule and must not be counted a second time."
   },
   {
-    "id": "p-d6e92b",
-    "offset": 4255,
-    "text": "§ 3. The different uses between which a commodity is distributed need not all be present uses; some may be present and some future. A prudent person will endeavour to distribute his means between all their several uses, present and future, in such a way that they will have in each the same marginal utility. But in estimating the present marginal utility of a distant source of pleasure a twofold allowance must be made; firstly, for its uncertainty (this is an objective property which all well-informed persons would estimate in the same way); and secondly, for the difference in the value to them of a distant as compared with a present pleasure (this is a subjective property which different people would estimate in different ways according to their individual characters, and their circumstances at the time)."
+    "id": "p-348253",
+    "offset": 3582,
+    "text": "When the price falls to 10s., he might, if he chose, continue to buy only two pounds; and obtain for 20s. what was worth to him at least 34s., and derive a surplus satisfaction worth at least 14s. But in fact he prefers to buy a third pound: and as he does this freely, we know that he does not diminish his surplus satisfaction by doing it. He now gets for 30s. three pounds; of which the first is worth to him at least 20s., the second at least 14s., and the third at least 10s. The total utility of the three is worth at least 44s., his consumer's surplus is at least 14s., and so on."
   },
   {
-    "id": "p-e85434",
-    "offset": 5073,
-    "text": "If people regarded future benefits as equally desirable with similar benefits at the present time, they would probably endeavour to distribute their pleasures and other satisfactions evenly throughout their lives. They would therefore generally be willing to give up a present pleasure for the sake of an equal pleasure in the future, provided they could be certain of having it. But in fact human nature is so constituted that in estimating the \"present value\" of a future benefit most people generally make a second deduction from its future value, in the form of what we may call a \"discount,\" that increases with the period for which the benefit is deferred. One will reckon a distant benefit at nearly the same value which it would have for him if it were present; while another who has less power of realizing the future, less patience and self-control, will care comparatively little for any benefit that is not near at hand. And the same person will vary in his mood, being at one time impatient, and greedy for present enjoyment; while at another his mind dwells on the future, and he is willing to postpone all enjoyments that can conveniently be made to wait. Sometimes he is in a mood to care little for anything else: sometimes he is like the children who pick the plums out of their pudding to eat them at once, sometimes like those who put them aside to be eaten last. And, in any case, when calculating the rate at which a future benefit is discounted, we must be careful to make allowance for the pleasures of expectation."
+    "id": "p-26b699",
+    "offset": 4171,
+    "text": "When at last the price has fallen to 2s. he buys seven pounds, which are severally worth to him not less than 20, 14, 10, 6, 4, 3, and 2s. or 59s. in all. This sum measures their total utility to him, and his consumer's surplus is (at least) the excess of this sum over the 14s. he actually does pay for them, i.e. 45s. This is the excess value of the satisfaction he gets from buying the tea over that which he could have got by spending the 14s. in extending a little his purchase of other commodities, of which he had just not thought it worth while to buy more at their current prices; and any further purchases of which at those prices would not yield him any consumer's surplus. In other words, he derives this 45s. worth of surplus enjoyment from his conjuncture, from the adaptation of the environment to his wants in the particular matter of tea. If that adaptation ceased, and tea could not be had at any price, he would have incurred a loss of satisfaction at least equal to that which he could have got by spending 45s. more on extra supplies of things that were worth to him only just what he paid for them."
   },
   {
-    "id": "p-a7fe0f",
-    "offset": 6614,
-    "text": "The rates at which different people discount the future affect not only their tendency to save, as the term is ordinarily understood, but also their tendency to buy things which will be a lasting source of pleasure rather than those which give a stronger but more transient enjoyment; to buy a new coat rather than to indulge in a drinking bout, or to choose simple furniture that will wear well, rather than showy furniture that will soon fall to pieces."
+    "id": "p-718861",
+    "offset": 5293,
+    "text": "§ 3. In the same way if we were to neglect for the moment the fact that the same sum of money represents different amounts of pleasure to different people, we might measure the surplus satisfaction which the sale of tea affords, say, in the London market, by the aggregate of the sums by which the prices shown in a complete list of demand prices for tea exceeds its selling price."
   },
   {
-    "id": "p-09d629",
-    "offset": 7071,
-    "text": "It is in regard to these things especially that the pleasure of possession makes itself felt. Many people derive from the mere feeling of ownership a stronger satisfaction than they derive from ordinary pleasures in the narrower sense of the term: for example, the delight in the possession of land will often induce people to pay for it so high a price that it yields them but a very poor return on their investment. There is a delight in ownership for its own sake; and there is a delight in ownership on account of the distinction it yields. Sometimes the latter is stronger than the former, sometimes weaker; and perhaps no one knows himself or other people well enough to be able to draw the line quite certainly between the two."
+    "id": "p-6f82cf",
+    "offset": 5676,
+    "text": "This analysis, with its new names and elaborate machinery, appears at first sight laboured and unreal. On closer study it will be found to introduce no new difficulties and to make no new assumptions; but only to bring to light difficulties and assumptions that are latent in the common language of the market-place. For in this, as in other cases, the apparent simplicity of popular phrases veils a real complexity, and it is the duty of science to bring out that latent complexity; to face it; and to reduce it as far as possible: so that in later stages we may handle firmly difficulties that could not be grasped with a good grip by the vague thought and language of ordinary life."
   },
   {
-    "id": "p-be9653",
-    "offset": 7807,
-    "text": "§ 4. As has already been urged, we cannot compare the quantities of two benefits, which are enjoyed at different times even by the same person. When a person postpones a pleasure-giving event he does not postpone the pleasure; but he gives up a present pleasure and takes in its place another, or an expectation of getting another at a future date: and we cannot tell whether he expects the future pleasure to be greater than the one which he is giving up, unless we know all the circumstances of the case. And therefore, even though we know the rate at which he discounts future pleasurable events, such as spending £1 on immediate gratifications, we yet do not know the rate at which he discounts future pleasures."
+    "id": "p-4d71c1",
+    "offset": 6363,
+    "text": "It is a common saying in ordinary life that the real worth of things to a man is not gauged by the price he pays for them: that, though he spends for instance much more on tea than on salt, yet salt is of greater real worth to him; and that this would be clearly seen if he were entirely deprived of it. This line of argument is but thrown into precise technical form when it is said that we cannot trust the marginal utility of a commodity to indicate its total utility. If some ship-wrecked men, expecting to wait a year before they were rescued, had a few pounds of tea and the same number of pounds of salt to divide between them, the salt would be the more highly prized; because the marginal utility of an ounce of salt, when a person expects to get only a few of them in the year is greater than that of tea under like circumstances. But, under ordinary circumstances, the price of salt being low, every one buys so much of it that an additional pound would bring him little additional satisfaction: the total utility of salt to him is very great indeed, and yet its marginal utility is low. On the other hand, since tea is costly, most people use less of it and let the water stay on it rather longer than they would, if it could be got at nearly as low a price as salt can. Their desire for it is far from being satiated: its marginal utility remains high, and they may be willing to pay as much for an additional ounce of it as they would for an additional pound of salt. The common saying of ordinary life with which we began suggests all this: but not in an exact and definite form, such as is needed for a statement which will often be applied in later work. The use of technical terms at starting adds nothing to knowledge: but it puts familiar knowledge in a firm compact shape, ready to serve as the basis for further study."
   },
   {
-    "id": "p-a5455b",
-    "offset": 8525,
-    "text": "We can however get an artificial measure of the rate at which he discounts future benefits by making two assumptions. These are, firstly, that he expects to be about as rich at the future date as he is now; and secondly, that his capacity for deriving benefit from the things which money will buy will on the whole remain unchanged, though it may have increased in some directions and diminished in others. On these assumptions, if he is willing, but only just willing, to spare a pound from his expenditure now with the certainty of having (for the disposal of himself or his heirs) a guinea one year hence, we may fairly say that he discounts future benefits that are perfectly secure (subject only to the conditions of human mortality) at the rate of five per cent. per annum. And on these assumptions the rate at which he discounts future (certain) benefits, will be the rate at which he can discount money in the money market."
+    "id": "p-da7f64",
+    "offset": 8205,
+    "text": "Or the real worth of a thing might be discussed with reference not to a single person but to people in general; and thus it would naturally be assumed that a shilling's worth of gratification to one Englishman might be taken as equivalent with a shilling's worth to another, \"to start with,\" and \"until cause to the contrary were shown.\" But everyone would know that this was a reasonable course only on the supposition that the consumers of tea and those of salt belonged to the same classes of people; and included people of every variety of temperament."
   },
   {
-    "id": "p-71c279",
-    "offset": 9458,
-    "text": "So far we have considered each pleasure singly; but a great many of the things which people buy are durable, i.e. are not consumed in a single use; a durable good, such as a piano, is the probable source of many pleasures, more or less remote; and its value to a purchaser is the aggregate of the usance, or worth to him of all these pleasures, allowance being made for their uncertainty and for their distance."
+    "id": "p-ad94f9",
+    "offset": 8763,
+    "text": "This involves the consideration that a pound's worth of satisfaction to an ordinary poor man is a much greater thing than a pound's worth of satisfaction to an ordinary rich man: and if instead of comparing tea and salt, which are both used largely by all classes, we compared either of them with champagne or pineapples, the correction to be made on this account would be more than important: it would change the whole character of the estimate. In earlier generations many statesmen, and even some economists, neglected to make adequate allowance for considerations of this class, especially when constructing schemes of taxation; and their words or deeds seemed to imply a want of sympathy with the sufferings of the poor; though more often they were due simply to want of thought."
+  },
+  {
+    "id": "p-800929",
+    "offset": 9549,
+    "text": "On the whole however it happens that by far the greater number of the events with which economics deals, affect in about equal proportions all the different classes of society; so that if the money measures of the happiness caused by two events are equal, there is not in general any very great difference between the amounts of the happiness in the two cases. And it is on account of this fact that the exact measurement of the consumers' surplus in a market has already much theoretical interest, and may become of high practical importance."
+  },
+  {
+    "id": "p-43e73d",
+    "offset": 10094,
+    "text": "It will be noted however that the demand prices of each commodity, on which our estimates of its total utility and consumers' surplus are based, assume that other things remain equal, while its price rises to scarcity value: and when the total utilities of two commodities which contribute to the same purpose are calculated on this plan, we cannot say that the total utility of the two together is equal to the sum of the total utilities of each separately."
+  },
+  {
+    "id": "p-1a1868",
+    "offset": 10554,
+    "text": "§ 4. The substance of our argument would not be affected if we took account of the fact that, the more a person spends on anything the less power he retains of purchasing more of it or of other things, and the greater is the value of money to him (in technical language every fresh expenditure increases the marginal value of money to him). But though its substance would not be altered, its form would be made more intricate without any corresponding gain; for there are very few practical problems, in which the corrections to be made under this head would be of any importance."
+  },
+  {
+    "id": "p-966114",
+    "offset": 11136,
+    "text": "There are however some exceptions. For instance, as Sir R. Giffen has pointed out, a rise in the price of bread makes so large a drain on the resources of the poorer labouring families and raises so much the marginal utility of money to them, that they are forced to curtail their consumption of meat and the more expensive farinaceous foods: and, bread being still the cheapest food which they can get and will take, they consume more, and not less of it. But such cases are rare; when they are met with, each must be treated on its own merits."
+  },
+  {
+    "id": "p-3ad7eb",
+    "offset": 11683,
+    "text": "It has already been remarked that we cannot guess at all accurately how much of anything people would buy at prices very different from those which they are accustomed to pay for it: or in other words, what the demand prices for it would be for amounts very different from those which are commonly sold. Our list of demand prices is therefore highly conjectural except in the neighbourhood of the customary price; and the best estimates we can form of the whole amount of the utility of anything are liable to large error. But this difficulty is not important practically. For the chief applications of the doctrine of consumers' surplus are concerned with such changes in it as would accompany changes in the price of the commodity in question in the neighbourhood of the customary price: that is, they require us to use only that information with which we are fairly well supplied. These remarks apply with special force to necessaries."
+  },
+  {
+    "id": "p-1c6aff",
+    "offset": 12623,
+    "text": "§ 5. There remains another class of considerations which are apt to be overlooked in estimating the dependence of wellbeing upon material wealth. Not only does a person's happiness often depend more on his own physical, mental and moral health than on his external conditions: but even among these conditions many that are of chief importance for his real happiness are apt to be omitted from an inventory of his wealth. Some are free gifts of nature; and these might indeed be neglected without great harm if they were always the same for everybody; but in fact they vary much from place to place. More of them however are elements of collective wealth which are often omitted from the reckoning of individual wealth; but which become important when we compare different parts of the modern civilized world, and even more important when we compare our own age with earlier times."
+  },
+  {
+    "id": "p-663217",
+    "offset": 13505,
+    "text": "Collective action for the purposes of securing common wellbeing, as for instance in lighting and watering the streets, will occupy us much towards the end of our inquiries. Co-operative associations for the purchase of things for personal consumption have made more progress in England than elsewhere: but those for purchasing the things wanted for trade purposes by farmers and others, have until lately been backward in England. Both kinds are sometimes described as Consumers' associations; but they are really associations for economizing effort in certain branches of business, and belong to the subject of Production rather than Consumption."
+  },
+  {
+    "id": "p-564e56",
+    "offset": 14154,
+    "text": "§ 6. When we speak of the dependence of wellbeing on material wealth, we refer to the flow or stream of wellbeing as measured by the flow or stream of incoming wealth and the consequent power of using and consuming it. A person's stock of wealth yields by its usance and in other ways an income of happiness, among which of course are to be counted the pleasures of possession: but there is little direct connection between the aggregate amount of that stock and his aggregate happiness. And it is for that reason that we have throughout this and preceding chapters spoken of the rich, the middle classes and the poor as having respectively large, medium and small incomes—not possessions."
+  },
+  {
+    "id": "p-637c46",
+    "offset": 14845,
+    "text": "In accordance with a suggestion made by Daniel Bernoulli, we may regard the satisfaction which a person derives from his income as commencing when he has enough to support life, and afterwards as increasing by equal amounts with every equal successive percentage that is added to his income; and vice versâ for loss of income."
+  },
+  {
+    "id": "p-957e94",
+    "offset": 15173,
+    "text": "But after a time new riches often lose a great part of their charms. Partly this is the result of familiarity; which makes people cease to derive much pleasure from accustomed comforts and luxuries, though they suffer greater pain from their loss. Partly it is due to the fact that with increased riches there often comes either the weariness of age, or at least an increase of nervous strain; and perhaps even habits of living that lower physical vitality, and diminish the capacity for pleasure."
+  },
+  {
+    "id": "p-77571e",
+    "offset": 15672,
+    "text": "In every civilized country there have been some followers of the Buddhist doctrine that a placid serenity is the highest ideal of life; that it is the part of the wise man to root out of his nature as many wants and desires as he can; that real riches consist not in the abundance of goods but in the paucity of wants. At the other extreme are those who maintain that the growth of new wants and desires is always beneficial because it stimulates people to increased exertions. They seem to have made the mistake, as Herbert Spencer says, of supposing that life is for working, instead of working for life"
+  },
+  {
+    "id": "p-d5db47",
+    "offset": 16279,
+    "text": "The truth seems to be that as human nature is constituted, man rapidly degenerates unless he has some hard work to do, some difficulties to overcome; and that some strenuous exertion is necessary for physical and moral health. The fulness of life lies in the development and activity of as many and as high faculties as possible. There is intense pleasure in the ardent pursuit of any aim, whether it be success in business, the advancement of art and science, or the improvement of the condition of one's fellow-beings. The highest constructive work of all kinds must often alternate between periods of over-strain and periods of lassitude and stagnation; but for ordinary people, for those who have no strong ambitions, whether of a lower or a higher kind, a moderate income earned by moderate and fairly steady work offers the best opportunity for the growth of those habits of body, mind, and spirit in which alone there is true happiness."
+  },
+  {
+    "id": "p-a2c30b",
+    "offset": 17224,
+    "text": "There is some misuse of wealth in all ranks of society. And though, speaking generally, we may say that every increase in the wealth of the working classes adds to the fulness and nobility of human life, because it is used chiefly in the satisfaction of real wants; yet even among the artisans in England, and perhaps still more in new countries, there are signs of the growth of that unwholesome desire for wealth as a means of display which has been the chief bane of the well-to-do classes in every civilized country. Laws against luxury have been futile; but it would be a gain if the moral sentiment of the community could induce people to avoid all sorts of display of individual wealth. There are indeed true and worthy pleasures to be got from wisely ordered magnificence: but they are at their best when free from any taint of personal vanity on the one side and envy on the other; as they are when they centre round public buildings, public parks, public collections of the fine arts, and public games and amusements. So long as wealth is applied to provide for every family the necessaries of life and culture, and an abundance of the higher forms of enjoyment for collective use, so long the pursuit of wealth is a noble aim; and the pleasures which it brings are likely to increase with the growth of those higher activities which it is used to promote."
+  },
+  {
+    "id": "p-0b1577",
+    "offset": 18592,
+    "text": "When the necessaries of life are once provided, everyone should seek to increase the beauty of things in his possession rather than their number or their magnificence. An improvement in the artistic character of furniture and clothing trains the higher faculties of those who make them, and is a source of growing happiness to those who use them. But if instead of seeking for a higher standard of beauty, we spend our growing resources on increasing the complexity and intricacy of our domestic goods, we gain thereby no true benefit, no lasting happiness. The world would go much better if everyone would buy fewer and simpler things, and would take trouble in selecting them for their real beauty; being careful of course to get good value in return for his outlay, but preferring to buy a few things made well by highly paid labour rather than many made badly by low paid labour."
+  },
+  {
+    "id": "p-82239b",
+    "offset": 19477,
+    "text": "But we are exceeding the proper scope of the present Book; the discussion of the influence on general wellbeing which is exerted by the mode in which each individual spends his income is one of the more important of those applications of economic science to the art of living."
   }
 ]

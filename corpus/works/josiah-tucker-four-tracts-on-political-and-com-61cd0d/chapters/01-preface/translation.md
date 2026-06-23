@@ -4,7 +4,7 @@ work_slug: "josiah-tucker-four-tracts-on-political-and-com-61cd0d"
 work_title: Four Tracts on Political and Commercial Subjects
 author_name: Josiah Tucker
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "4279ad2f-2129-55ac-a328-7cb4f07b2891"
 content_type: translation

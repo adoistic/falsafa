@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f"
 work_title: "Capital and Interest: A Critical History of Economical Theory"
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 3
-chapter_title: "Book I, Chapter I: The Opposition to Interest in Classical and Mediæval Times"
+chapter_title: "Book I: The Development of the Problem, Book I, Chapter I: The Opposition to Interest in Classical and Mediæval Times"
 chapter_slug: 03
 variant_id: "27cd4752-9bfd-5b09-bced-6341c9cf3ace"
 content_type: translation

@@ -4,7 +4,7 @@ work_slug: "herbert-spencer-the-principles-of-psychology-794dba"
 work_title: The Principles of Psychology
 author_name: Herbert Spencer
 chapter_number: 27
-chapter_title: "CHAPTER XXII.: THE RELATIONS OF CONNATURE AND NON-CONNATURE."
+chapter_title: "Chapter XXII.: The Relations of Connature and Non-connature."
 chapter_slug: 27
 variant_id: "c43f9a51-8d92-5b8e-ac6a-535b673a9a17"
 content_type: translation

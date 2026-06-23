@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 5
-chapter_title: "SECT. I.: Of the Nature of Liberty in General."
+chapter_title: "Sect. I.: Of the Nature of Liberty in General."
 chapter_slug: "05-sect-i-of-the-nature-of-liberty-in-general"
 variant_id: "c794c0f4-b345-5b49-8dab-b5317bb90736"
 content_type: translation

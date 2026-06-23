@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-aurelius-meditations-1f6d1a",
+  "work_title": "Meditations",
+  "chapter_number": 8,
+  "chapter_title": "Book Eight",
+  "chapter_slug": "08-book-eight",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9fa1ede8-6a8b-5a05-ab94-946572ff8cd2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2928,
+      "paragraph_count": 61,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0562.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f0d8263-337f-50bb-9a3f-728ecd3b400c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4181,
+      "paragraph_count": 61,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

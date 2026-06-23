@@ -1,0 +1,26 @@
+{
+  "work_slug": "rudolf-hilferding-state-capitalism-or-totalitarian-3a0c69",
+  "work_title": "State Capitalism or Totalitarian State Economy",
+  "chapter_number": 1,
+  "chapter_title": "State Capitalism or Totalitarian State Economy",
+  "chapter_slug": "01-state-capitalism-or-totalitarian-state-economy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a1155f5a-d293-5430-9e77-8af07d67805c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2136,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hilferding/1940/statecapitalism.htm"
+    }
+  ]
+}

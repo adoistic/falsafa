@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-the-dictatorship-of-the-proletar-a9af99",
+  "work_title": "The Dictatorship of the Proletariat and the Social-Democratic Socialization-Fraud",
+  "chapter_number": 1,
+  "chapter_title": "The Dictatorship of the Proletariat and the Social-Democratic Socialization-Fraud",
+  "chapter_slug": "01-the-dictatorship-of-the-proletariat-and-the-social",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ebea3a0-df6f-5032-bdba-a46df55cfff1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1394,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1921/10/sd-fraud.html"
+    }
+  ]
+}

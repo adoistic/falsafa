@@ -1,0 +1,53 @@
+---
+work_id: "6733adbb-7791-5c58-b040-6b5bbf1c5c7e"
+work_slug: "peter-kropotkin-the-conquest-of-bread-6733ad"
+work_title: The Conquest of Bread
+author_name: Peter Kropotkin
+chapter_number: 39
+chapter_title: 12.4
+chapter_slug: "39-12-4"
+variant_id: "66bed066-e898-515e-9bdd-e2ff6d0d429d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1645
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1892/bread.htm"
+translator: Marxists Internet Archive edition
+---
+
+We very much doubt that we need fear this contingency in a society really based on the entire freedom of the individual.
+
+In fact, in spite of the premium on idleness offered by the private ownership of capital, the really lazy man is comparatively rare, unless his laziness be due to illness.
+
+Among workmen it is often said that the bourgeois are idlers. There are certainly enough of them, but they, too, are the exception. On the contrary, in every industrial enterprise, you are sure to find one or more bourgeois who work very hard. It is true that the majority of bourgeois profit by their privileged position to award themselves the least unpleasant tasks, and that they work under hygienic conditions of air, food, etc., which permits them to do their business without too much fatigue. But these are precisely the conditions which we claim for all workers, without exception.
+
+It must also be said that if, thanks to their privileged position, rich people often perform absolutely useless or even harmful work in society, nevertheless the Ministers, Heads of Departments, factory owners, traders, bankers, etc., subject themselves for a number of hours every day to work which they find more or less tiresome, all preferring their hours of leisure to this obligatory work. And if in nine cases out of ten this work is a harmful work, they find it none the less tiring for that. But it is precisely because the middle class put forth a great energy, even in doing harm (knowingly or not) and defending their privileged position, that they have succeeded in defeating the landed nobility, and that they continue to rule the masses. If they were idlers, they would long since have ceased to exist, and would have disappeared like the aristocracy. In a society that would expect only four or five hours a day of useful, pleasant, and hygienic work, these same middle-class people would perform their task perfectly well, and they certainly would not put up with the horrible conditions in which men toil nowadays without reforming them. If a Huxley spent only five hours in the sewers of London, rest assured that he would have found the means of making them as sanitary as his physiological laboratory.
+
+As to the laziness of the great majority of workers, only philistine economists and philanthropists can utter such nonsense.
+
+If you ask an intelligent manufacturer, he will tell you that if workmen only put it into their heads to be lazy, all factories would have to be closed, for no measure of severity, no system of spying would be of any use. You should have seen the terror caused in 1887 among British employers when a few agitators started preaching the “go-canny” theory – “Bad pay, bad work”; “Take it easy, do not overwork yourselves, and waste all you can.” – “They demoralize the worker, they want to kill our industry!” cried those same people who the day before inveighed against the immorality of the worker and the bad quality of his work. But if the workers were what they are represented to be – namely, the idler whom the employer is supposed continually to threaten with dismissal from the workshop – what would the word “demoralization” signify?
+
+So when we speak of possible idlers, we must well understand that it is a question of a small minority in society; and before legislating for that minority, would it not be wise to study the origin of that idleness? Whoever observes with an intelligent eye, sees well enough that the child reputed lazy at school is often the one which simply does not understand, because he is being badly taught. Very often, too, it is suffering from cerebral anæmia, caused by poverty and an anti-hygienic education. A boy who is lazy at Greek or Latin would work admirably were he taught science, especially if he were taught with the aid of manual labour. A girl who is stupid at mathematics becomes the first mathematician of her class if she by chance meets somebody who can explain to her the elements of arithmetic which she did not understand. And a workman, lazy in the workshop, cultivates his garden at dawn, while gazing at the rising sun, and will be at work again at nightfall, when all nature goes to its rest.
+
+Somebody has said that dust is matter in the wrong place. The same definition applies to nine-tenths of those called lazy. They are people gone astray in a direction that does not answer to their temperament nor to their capacities. In reading the biography of great men, we are struck with the number of “idlers” among them. They were lazy so long as they had not found the right path; afterwards they became laborious to excess. Darwin, Stephenson, and many others belonged to this category of idlers.
+
+Very often the idler is but a man to whom it is repugnant to spend all his life making the eighteenth part of a pin, or the hundredth part of a watch, while he feels he has exuberant energy which he would like to expend elsewhere. Often, too, he is a rebel who cannot submit to being fixed all his life to a work-bench in order to procure a thousand pleasures for his employer, while knowing himself to be far the less stupid of the two, and knowing his only fault to be that of having been born in a hovel instead of coming into the world in a castle.
+
+Lastly, an immense number of “idlers” are idlers because they do not know well enough the trade by which they are compelled to earn their living. Seeing the imperfect thing they make with their own hands, striving vainly to do better, and perceiving that they never will succeed on account of the bad habits of work already acquired, they begin to hate their trade, and, not knowing any other, hate work in general. Thousands of workmen and artists who are failures suffer from this cause.
+
+On the other hand, he who since his youth has learned to play the piano well, to handle the plane well, the chisel, the brush, or the file, so that he feels that what he does is beautiful, will never give up the piano, the chisel, or the file. He will find pleasure in his work which does not tire him, so long as he is not overdriven.
+
+Under the one name, idleness, a series of results due to different causes have been grouped, of which each one could be a source of good, instead of being a source of evil to society. Like all questions concerning criminality and related to human faculties, facts have been collected having nothing in common with one another. People speak of laziness or crime, without giving themselves the trouble to analyze the cause. They are in a hurry to punish these faults without inquiring if the punishment itself does not contain a premium on “laziness” or “crime.”
+
+This is why a free society, if it saw the number of idlers increasing in its midst, would no doubt think of looking first for the cause of laziness, in order to suppress it, before having recourse to punishment. When it is a case, as we have already mentioned, of simple bloodlessness, then before stuffing the brain of a child with science, nourish his system so as to produce blood, strengthen him, and, that he shall not waste his time, take him to the country or to the seaside; there, teach him in the open air, not in books – geometry, by measuring the distance to a spire, or the height of a tree; natural sciences, while picking flowers and fishing in the sea; physical science, while building the boat he will go to fish in. But for mercy’s sake do not fill his brain with classical sentences and dead languages. Do not make an idler of him!…
+
+Or, here is a child which has neither order nor regular habits. Let the children first inculcate order among themselves, and later on, the laboratory, the workshop, the work that will have to be done in a limited space, with many tools about, under the guidance of an intelligent teacher, will teach them method. But do not make disorderly beings out of them by your school, whose only order is the symmetry of its benches, and which – true image of the chaos in its teachings – will never inspire anybody with the love of harmony, of consistency, and method in work.
+
+Do not you see that by your methods of teaching, framed by a Ministry for eight million scholars, who represent eight million different capacities, you only impose a system good for mediocrities, conceived by an average of mediocrities? Your school becomes a University of laziness, as your prison is a University of crime. Make the school free, abolish your University grades, appeal to the volunteers of teaching; begin that way, instead of making laws against laziness which only serve to increase it.
+
+Give the workman who cannot condemn himself to make all his life a minute particle of some object, who is stifled at his little tapping machine, which he ends by loathing, give him the chance of tilling the soil, of felling trees in the forest, sailing the seas in the teeth of a storm, dashing through space on an engine, but do not make an idler of him by forcing him all his life to attend to a small machine, to plough the head of a screw, or to drill the eye of a needle.
+
+Suppress the cause of idleness, and you may take it for granted that few individuals will really hate work, especially voluntary work, and that there will be no need to manufacture a code of laws on their account.

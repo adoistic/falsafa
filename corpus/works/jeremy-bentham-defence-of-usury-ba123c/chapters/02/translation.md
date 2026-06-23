@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 2
-chapter_title: "LETTER II.: Reasons for Restraint.—Prevention of Usury."
+chapter_title: "Letter II.: Reasons for Restraint.—Prevention of Usury."
 chapter_slug: 02
 variant_id: "6ffc8a5d-c445-5fcf-b90a-030dad969182"
 content_type: translation

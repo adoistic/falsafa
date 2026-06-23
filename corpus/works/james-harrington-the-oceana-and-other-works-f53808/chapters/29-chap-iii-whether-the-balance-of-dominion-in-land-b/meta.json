@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 29,
+  "chapter_title": "Chap. III.: Whether the balance of dominion in land be the natural cause of empire?",
+  "chapter_slug": "29-chap-iii-whether-the-balance-of-dominion-in-land-b",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1daa5602-8b4d-5834-b14e-6320fa697f23",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4161,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-clericalism-and-socialism-756cc1",
+  "work_title": "Clericalism and Socialism",
+  "chapter_number": 1,
+  "chapter_title": "Clericalism and Socialism",
+  "chapter_slug": "01-clericalism-and-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "342c4ce0-c635-5c8e-84bc-5ec298d8e385",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1266,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1902/xx/clericalism.htm"
+    }
+  ]
+}

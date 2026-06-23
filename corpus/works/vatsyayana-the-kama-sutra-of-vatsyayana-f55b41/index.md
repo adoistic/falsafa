@@ -4,7 +4,8 @@ slug: "vatsyayana-the-kama-sutra-of-vatsyayana-f55b41"
 title: The Kama Sutra of Vatsyayana
 author:
   name: Vatsyayana
-  biography: Vatsyayana (fl. c. 3rd century CE).
+  biography: Indian author traditionally credited with compiling the foundational Sanskrit treatise on erotics, working from earlier kama literature. The Kama Sutra systematized the science of desire, courtship, and household life within the framework of the classical aims of human life.
+  nationality: Indian
 era: Ancient
 genre: Indic
 language: English

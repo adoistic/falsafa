@@ -4,7 +4,7 @@ work_slug: "samuel-rawson-gardiner-e-the-constitutional-documents-of--29b93e"
 work_title: The Constitutional Documents of the Puritan Revolution, 1625–1660
 author_name: Samuel Rawson Gardiner (ed.)
 chapter_number: 1
-chapter_title: PREFACE TO THE SECOND EDITION
+chapter_title: Preface to the Second Edition
 chapter_slug: "01-preface-to-the-second-edition"
 variant_id: "371c513c-e3fe-55ff-8f7c-933e5ad0594c"
 content_type: translation

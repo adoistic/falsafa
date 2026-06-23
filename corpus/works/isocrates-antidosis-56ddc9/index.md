@@ -4,7 +4,10 @@ slug: "isocrates-antidosis-56ddc9"
 title: Antidosis
 author:
   name: Isocrates
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Athenian rhetorician and head of an influential school of rhetoric, one of the ten canonical Attic orators. His written discourses promoted a panhellenic politics and a model of rhetorical education that shaped Greek and Roman teaching.
+  birth_year: -436
+  death_year: -338
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

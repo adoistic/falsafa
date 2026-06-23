@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 348
+word_count: 344
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
 
-It is self-evident that no number of men, by conspiring, and calling themselves a government, can acquire any rights whatever over other men, or other men’s property, which they had not before, as individuals. And whenever any number Edition: current; Page: [7] of men, calling themselves a government, do anything to another man, or to his property, which they had no right to do as individuals, they thereby declare themselves trespassers, robbers, or murderers, according to the nature of their acts.
+It is self-evident that no number of men, by conspiring, and calling themselves a government, can acquire any rights whatever over other men, or other men’s property, which they had not before, as individuals. And whenever any number of men, calling themselves a government, do anything to another man, or to his property, which they had no right to do as individuals, they thereby declare themselves trespassers, robbers, or murderers, according to the nature of their acts.
 
 Men, as individuals, may rightfully compel each other to obey this one law of justice. And it is the only law which any man can rightfully be compelled, by his fellow men, to obey. All other laws, it is optional with each man to obey, or not, as he may choose. But this one law of justice he may rightfully be compelled to obey; and all the force that is reasonably necessary to compel him, may rightfully be used against him.
 

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 1,
+  "chapter_title": "I. The Papacy the Centre of the Attacks of Heretical Communism",
+  "chapter_slug": "01-i-the-papacy-the-centre-of-the-attacks-of-heretica",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e656de74-6a42-53b9-9961-828b7754c2e2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1375,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch01.htm"
+    }
+  ]
+}

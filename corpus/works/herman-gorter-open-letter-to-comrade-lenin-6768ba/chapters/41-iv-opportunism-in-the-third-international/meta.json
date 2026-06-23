@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 41,
+  "chapter_title": "IV. Opportunism in the Third International",
+  "chapter_slug": "41-iv-opportunism-in-the-third-international",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a0869697-c411-5ccd-936c-ec71756adcc6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 442,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

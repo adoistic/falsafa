@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 8,
+  "chapter_title": "§ 1. — The Land cannot be Appropriated.",
+  "chapter_slug": "08-1-the-land-cannot-be-appropriated",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "221f393f-7569-51cb-add6-05fc2195872d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1714,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch03.htm"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 54,
-  "chapter_title": "SECTION IV.: Of the Profits of the Operative Labourer.",
+  "chapter_title": "Book II, Chapter VIII: Of the Revenue of Capital.",
   "chapter_slug": "54",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3567,
-      "paragraph_count": 26,
+      "word_count": 172,
+      "paragraph_count": 3,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

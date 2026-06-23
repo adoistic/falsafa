@@ -1,0 +1,53 @@
+---
+work_id: "d77274fa-3610-5f16-9c9f-12e84c9fe82d"
+work_slug: "carl-von-clausewitz-on-war-d77274"
+work_title: On War
+author_name: Carl von Clausewitz
+chapter_number: 45
+chapter_title: Chpt. 8 Mutual Understanding as to a Battle
+chapter_slug: "45-chpt-8-mutual-understanding-as-to-a-battle"
+variant_id: "47e53743-7610-5fa0-8414-fa24a6b2d999"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1140
+source_url: "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book4/ch08.htm"
+translator: Colonel J.J. Graham
+---
+
+No battle can take place unless by mutual consent; and in this idea, which constitutes the whole basis of a duel, is the root of a certain phraseology used by historical writers, which leads to many indefinite and false conceptions.
+
+According to the view of the writers to whom we refer, it has frequently happened that one Commander has offered battle to the other, and the latter has not accepted it.
+
+But the battle is a very modified duel, and its foundation is not merely in the mutual wish to fight, that is in consent, but in the objects which are bound up with the battle: these belong always to a greater whole, and that so much the more, as even the whole war considered as a combat-unit has political objects and conditions which belong to a higher standpoint. The mere desire to conquer each other therefore falls into quite a subordinate relation, or rather it ceases completely to be anything of itself, and only becomes the nerve which conveys the impulse of action from the higher will.
+
+Amongst the ancients, and then again during the early period of standing Armies, the expression that we had offered battle to the enemy in vain, had more sense in it than it has now. By the ancients everything was constituted with a view to measuring each others strength in the open field free from anything in the nature of a hindrance, [Note the custom of sending formal challenges, fix time and place for action, and enhazelug the battlefield in Anglo-Saxon times.--ed] and the whole Art of War consisted in the organisation, and formation of the Army, that is in the order of battle.
+
+Now as their Armies regularly entrenched themselves in their camps, therefore the position in a camp was regarded as something unassailable, and a battle did not become possible until the enemy left his camp, and placed himself in a practicable country, as it were entered the lists.
+
+If therefore we hear about Hannibal having offered battle to Fabius in vain, that tells us nothing more as regards the latter than that a battle was not part of his plan, and in itself neither proves the physical nor moral superiority of Hannibal; but with respect to him the expression is still correct enough in the sense that Hannibal really wished a battle.
+
+In the early period of modern Armies, the relations were similar in great combats and battles. That is to say, great masses were brought into action, and managed throughout it by means of an order of battle, which like a great helpless whole required a more or less level plain and was neither suited to attack, nor yet to defence in a broken, close or even mountainous country. The defender therefore had here also to some extent the means of avoiding battle. These relations although gradually becoming modified, continued until the first Silesian War, and it was not until the Seven Years War that attacksan enemy posted in a difficult country gradually became feasible, and of ordinary occurrence: ground did not certainly cease to be a principle of strength to those making use of its aid, but it was no longer a charmed circle, which shut out the natural forces of War.
+
+During the past thirty years War has perfected itself much more in this respect, and there is no longer anything which stands in the way of a General who is in earnest about a decision by means of battle; he can seek out his enemy, and attack him: if he does not do so he cannot take credit for having wished to fight, and the expression he offered a battle which his opponent did not accept, therefore now means nothing more than that he did not find circumstances advantageous enough for a battle, an admission which the above expression does not suit, but which it only strives to throw a veil over.
+
+It is true the defensive side can no longer refuse a battle, yet he may still avoid it by giving up his position, and the role with which that position was connected: this is however half a victory for the offensive side, and an acknowledgment of his superiority for the present.
+
+This idea in connection with the cartel of defiance can therefore no longer be made use of in order by such rhodomontade to qualify the inaction of him whose part it is to advance, that is, the offensive. The defender who as long as he does not give way, must have the credit of willing the battle, may certainly say, he has offered it if he is not attacked, if that is not understood of itself.
+
+But on the other hand, he who now wishes to, and can retreat cannot easily be forced to give battle. Now as the advantages to the aggressor from this retreat are often not sufficient, and a substantial victory is a matter of urgent necessity for him, in that way the few means which there are to compel such an opponent also to give battle are often sought for and applied with particular skill.
+
+The principal means for this are--first surrounding the enemy so as to make his retreat impossible, or at least so difficult that it is better for him to accept battle; and, secondly, surprising him. This last way, for which there was a motive formerly in the extreme difficulty of all movements, has become in modern times very inefficacious.
+
+From the pliability and manoeuvring capabilities of troops in the present day, one does not hesitate to commence a retreat even in sight of the enemy, and only some special obstacles in the nature of the country can cause serious difficulties in the operation.
+
+As an example of this kind the battle of Neresheim may be given, fought by the Archduke Charles with Moreau in the Rauhe Alp, August 11, 1796, merely with a view to facilitate his retreat, although we freely confess we have never been able quite to understand the argument of the renowned general and author himself in this case.
+
+The battle of Rosbach [November 5, 1757] is another example, if we suppose the commander of the allied army had not really the intention of attacking Frederick the Great.
+
+Of the battle of Soor, [Or Sohr, September 30, 1745] the King himself says that it was only fought because a retreat in the presence of the enemy appeared to him a critical operation; at the same time the King has also given other reasons for the battle.
+
+On the whole, regular night surprises excepted, such cases will always be of rare occurrence, and those in which an enemy is compelled to fight by being practically surrounded, will happen mostly to single corps only, like Mortiers at Durrenstein 1809, and Vandamme at Kulm, 1813.

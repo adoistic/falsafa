@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 11,
+  "chapter_title": "X. War and Warriors.",
+  "chapter_slug": "11-x-war-and-warriors",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7d59d015-40e1-54e9-9e24-8b68c9299bf0",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 553,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae375202-e901-5b0c-9ef2-ee4b5c0cf901",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 585,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

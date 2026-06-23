@@ -3,8 +3,11 @@ id: "73fa2439-e829-540d-92c6-edd7df56e49c"
 slug: "unknown-select-letters-73fa24"
 title: Select Letters
 author:
-  name: "Augustine of Hippo"
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  name: Augustine of Hippo
+  biography: Bishop of Hippo in Roman North Africa, a convert to Christianity under Ambrose of Milan. The Confessions and the City of God fixed the Western Christian understanding of sin, grace, and history for a thousand years.
+  birth_year: 354
+  death_year: 430
+  nationality: Roman
 era: Late Antiquity
 genre: Classics
 language: Latin

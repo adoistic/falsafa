@@ -2,7 +2,7 @@
   "work_slug": "john-rae-life-of-adam-smith-a74419",
   "work_title": "Life of Adam Smith",
   "chapter_number": 6,
-  "chapter_title": "CHAPTER V: PROFESSOR AT GLASGOW 1751-1764. Aet. 27-40",
+  "chapter_title": "Chapter V: Professor at Glasgow 1751-1764. Aet. 27-40",
   "chapter_slug": "06",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 7977,
+      "word_count": 7889,
       "paragraph_count": 38,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"

@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 10
-chapter_title: "SECT. II.: Whether the War with America is justified by the Principles of the Constitution."
+chapter_title: "Sect. II.: Whether the War with America is justified by the Principles of the Constitution."
 chapter_slug: "10-sect-ii-whether-the-war-with-america-is-justified-"
 variant_id: "6014f488-6f66-5050-9427-12de5e09a0fe"
 content_type: translation

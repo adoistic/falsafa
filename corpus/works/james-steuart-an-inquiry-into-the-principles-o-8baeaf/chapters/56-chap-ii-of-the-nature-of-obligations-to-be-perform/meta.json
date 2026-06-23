@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 56,
+  "chapter_title": "Chap. II: Of the Nature of Obligations to be performed, in consequence of Credit given; and of what is meant by the term",
+  "chapter_slug": "56-chap-ii-of-the-nature-of-obligations-to-be-perform",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "be91d37e-b2d1-5166-91e7-da83fe502789",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1490,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4.htm"
+    }
+  ]
+}

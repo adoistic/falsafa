@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 41,
-  "chapter_title": "SECTION I.: Of Bills of Exchange and Letters of Credit.",
+  "chapter_title": "Section III.: Of Banks of Circulation or Discount, and of Bank-notes, or Convertible Paper.",
   "chapter_slug": "41",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1160,
-      "paragraph_count": 10,
+      "word_count": 4473,
+      "paragraph_count": 34,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

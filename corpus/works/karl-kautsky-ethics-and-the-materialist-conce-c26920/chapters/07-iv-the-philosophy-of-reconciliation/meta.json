@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-ethics-and-the-materialist-conce-c26920",
+  "work_title": "Ethics and the Materialist Conception of History",
+  "chapter_number": 7,
+  "chapter_title": "IV. The Philosophy of Reconciliation",
+  "chapter_slug": "07-iv-the-philosophy-of-reconciliation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2440c02-9ed2-56b4-9d34-18a1b78ba2b1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 967,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1906/ethics/ch03.htm"
+    }
+  ]
+}

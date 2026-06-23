@@ -1,0 +1,50 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 67
+chapter_title: Letter 67
+chapter_slug: "67-letter-67"
+variant_id: "dbc1510d-dc91-53ad-817f-544b3ec4260c"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1341
+translator: thothica
+---
+
+1. To begin from things commonplace: spring has begun to open, but, now about to incline toward summer, when it ought to be warm it has only grown mild, and there is as yet no trusting it. For it often rolls back into winter. Do you wish to know how doubtful it still is? I do not yet trust myself to truly cold water; even now I break the chill of it. "This," you say, "is to endure neither hot nor cold." So it is, my dear Lucilius; my age is now content with its own coldness. Scarcely in midsummer does it thaw.
+
+2. And so the greater part of my time is passed in wraps. I give thanks to old age for fastening me to my couch. Why should I not give it thanks on this score? Whatever I ought not to wish, I cannot do. My conversation is mostly with my books. Whenever your letters have come in, I seem to myself to be with you, and I am so affected in mind as though I were not writing back to you, but answering. And so concerning this too, which you ask, what its nature is, I will, as it were, talk it over with you, and we will examine it together.
+
+3. You ask whether every good is to be wished for. "If it is a good," you say, "to be bravely tortured and burned with a great spirit and to be sick with patience, it follows that these things are to be wished for. But I see nothing among them worthy of a prayer. At least I know of no one yet who has paid a vow because he had been cut with the lash, or twisted with gout, or stretched out longer on the rack."
+
+4. Distinguish these things, my dear Lucilius, and you will understand that there is something in them to be wished for. I should wish torments to be far from me; but if they must be borne, I shall wish to bear myself in them bravely, honorably, courageously. Why should I not prefer that war should not come upon me? But if it does come, I shall wish to bear nobly the wounds, the hunger, and all that the necessity of war brings. I am not so mad as to long to be ill; but if I must be ill, I shall wish to do nothing intemperately, nothing effeminately. So it is not the discomforts that are to be wished for, but the virtue by which the discomforts are endured.
+
+5. Some of our school think that the brave endurance of all these things is not to be wished for, but is not to be abhorred either, because a pure good ought to be sought by prayer — one that is tranquil and set beyond trouble. I disagree. Why? First, because it cannot be that a thing should be good and yet not to be wished for. Then, if virtue is to be wished for, and no good is without virtue, every good is to be wished for. Then, even the brave endurance of torments is to be wished for.
+
+6. And now I ask: surely courage is to be wished for? And yet it despises dangers and challenges them. Its most beautiful part, and most to be wondered at, is this: not to give way to fire, to go to meet wounds, sometimes not even to dodge the weapons, but to receive them in the breast. If courage is to be wished for, then to bear torments with patience is to be wished for; for this is a part of courage. But separate these things, as I said; there will be nothing to make you err. For it is not to suffer torments that is to be wished for, but to suffer them bravely. That "bravely" I wish for, which is virtue.
+
+7. "Yet who ever wished this for himself?" Some prayers are open and avowed, when they are made piecemeal; some lie hidden, when many things are comprehended in one prayer. As when I pray for myself an honorable life. But an honorable life consists of various actions; in it is the chest of Regulus, the wound Cato opened with his own hand, the exile of Rutilius, the poisoned cup that carried Socrates from the prison to heaven. So when I prayed for myself an honorable life, I prayed also for these things, without which sometimes life cannot be honorable.
+
+8. "O thrice and four times blessed, who chanced to meet death before their fathers' eyes beneath the high walls of Troy!" What does it matter whether you wish this for someone or confess that it was to be wished for?
+
+9. Decius devoted himself for the republic; spurring on his horse he rushed into the midst of the enemy, seeking death. After him another, the rival of his father's valor, with the solemn and now familiar words conceived, charged into the thickest of the battle-line, anxious only that the offering should be accepted, thinking a good death a thing to be wished for. Do you doubt, then, whether it is best to die memorably and in some work of virtue?
+
+10. When a man bravely endures torments, he uses all the virtues. Perhaps one is at hand and most apparent — patience. But there is courage, of which patience and endurance and toleration are branches. There is prudence, without which no plan is entered upon, which advises you to bear as bravely as possible what you cannot escape. There is constancy, which cannot be driven from its place and lets go its purpose under no force that would wrest it away. There is that inseparable company of the virtues: whatever is done honorably, one virtue does, but by the decision of the whole council. And what is approved by all the virtues, even if it seems to be done by one, is to be wished for.
+
+11. What? Do you think those things only are to be wished for which come through pleasure and ease, which are received at doors decked with garlands? There are certain goods of a sad countenance. There are certain prayers which are celebrated not by a throng of congratulators, but by men who adore and venerate.
+
+12. Do you, then, not think that Regulus wished to reach the Carthaginians? Put on the spirit of a great man and withdraw a little while from the opinions of the crowd. Take up, as you ought, the image of virtue most beautiful and most magnificent, which is to be worshipped by us not with incense or garlands, but with sweat and blood.
+
+13. Look upon Marcus Cato laying his purest hands upon that sacred breast and tearing open the wounds driven in too shallow. Will you, after all, say to him: "I could wish what you wish, and I am grieved"? or "Good fortune to what you are doing"?
+
+14. Here our Demetrius comes to my mind, who calls a life that is untroubled and without any assaults of fortune a dead sea. To have nothing to rouse you, nothing to stir you up, by whose threat and onset you may try the firmness of your mind, but to lie in unshaken ease — this is not tranquility; it is a calm of stagnation.
+
+15. Attalus the Stoic used to say: "I would rather fortune kept me in her camp than amid delights. I am tortured, but bravely; it is well. I am slain, but bravely; it is well." Hear Epicurus; he will say also: "It is sweet." I will never put a soft name upon a thing so honorable and severe.
+
+16. I am burned, but unconquered. Why should I not think this to be wished for — not that the fire burns me, but that it does not conquer me? Nothing is more excellent than virtue, nothing more beautiful. And whatever is done at her command is both good and to be wished for. Farewell.

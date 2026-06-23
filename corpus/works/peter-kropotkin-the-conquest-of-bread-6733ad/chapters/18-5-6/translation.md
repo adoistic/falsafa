@@ -1,0 +1,49 @@
+---
+work_id: "6733adbb-7791-5c58-b040-6b5bbf1c5c7e"
+work_slug: "peter-kropotkin-the-conquest-of-bread-6733ad"
+work_title: The Conquest of Bread
+author_name: Peter Kropotkin
+chapter_number: 18
+chapter_title: 5.6
+chapter_slug: "18-5-6"
+variant_id: "78ab5c3c-3b4c-5c85-a601-d15074cbe2b7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1278
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1892/bread.htm"
+translator: Marxists Internet Archive edition
+---
+
+Let us now return to our city in revolt, and consider how its citizens can provide foodstuffs for themselves. How are the necessary provisions to be obtained if the nation as a whole has not accepted Communism? This is the question to be solved. Take, for example, one of the large French towns – take the capital itself, for that matter. Paris consumes every year thousands of tons of grain, 400,000 head of oxen, 300,000 calves, 400,000 swine, and more than two millions of sheep, besides great quantities of game. This huge city devours, besides, more than 20 million pounds of butter, 200 million eggs, and other produce in like proportion.
+
+It imports flour and grain from the United States and from Russia, Hungary, Italy, Egypt, and the Indies; live stock from Germany, Italy, Spain – even Roumania and Russia; and as for groceries, there is not a country in the world that it does not lay under contribution.
+
+Now, let us see how Paris or any other great town could be revictualled by home-grown produce, supplies of which could be readily and willingly sent in from the provinces.
+
+To those who put their trust in “authority” the question will appear quite simple. They would begin by establishing a strongly centralized Government, furnished with all the machinery of coercion – the police, the army, the guillotine. This Government would draw up a statement of all the produce contained in France. It would divide the country into districts of supply, and then command that a prescribed quantity of some particular foodstuff be sent to such a place on such a day, and delivered at such a station, to be there received on a given day by a specified official and stored in particular warehouses.
+
+Now, we declare with the fullest conviction, not merely that such a solution is undesirable, but that it never could by any possibility be put into practice. It is wildly Utopian!
+
+Pen in hand, one may dream such a dream in the study, but in contact with reality it comes to nothing, – this was proved in 1793; for, like all such theories, it leaves out of account the spirit of independence that is in man. The attempt would lead to a universal uprising, to three or four Vendées, to the villages rising against the towns, all the country up in arms defying the city for its arrogance in attempting to impose such a system upon the country.
+
+We have already had too much of Jacobin Utopias! Let us see if some other form of organization will meet the case.
+
+During the great French Revolution, the provinces starved the large towns, and killed the Revolution. And yet it is a known fact that the production of grain in France during 1792-3 had not diminished; indeed, the evidence goes to show that it had increased. But after having taken possession of the manorial lands, after having reaped a harvest from them, the peasants would not part with their grain for paper-money. They withheld their produce, waiting for a rise in the price, or the introduction of gold. The most rigorous measures of the National Convention were without avail, and her executions failed to break up the ring, or force the farmers to sell their corn. For it is a matter of history that the commissaries of the Convention did not scruple to guillotine those who withheld their grain from the market, and pitilessly executed those who speculated in foodstuffs. All the same, the corn was not forthcoming, and the townsfolk suffered from famine.
+
+But what was offered to the husbandman in exchange for his hard toil? Assignats, scraps of paper decreasing in value every day, promises of payment, which could not be kept. A forty-pound note would not purchase a pair of boots, and the peasant, very naturally, was not anxious to barter a year’s toil for a piece of paper with which he could not even buy a shirt.
+
+As long as worthless paper-money – whether called assignats or labour notes – is offered to the peasant-producer it will always be the same. The country will withhold its produce, and the towns will suffer want, even if the recalcitrant peasants are guillotined as before.
+
+We must offer to the peasant in exchange for his toil not worthless paper-money, but the manufactured articles of which he stands in immediate need. He lacks the proper implements to till the land, clothes to protect him from the inclemencies of the weather, lamps and oil to replace his miserable rushlight or tallow dip, spades, rakes, ploughs. All these things, under present conditions, the peasant is forced to do without, not because he does not feel the need of them, but because, in his life of struggle and privation, a thousand useful things are beyond his reach; because he has not money to buy them.
+
+Let the town apply itself, without loss of time, to manufacturing all that the peasant needs, instead of fashioning geegaws for the wives of rich citizens. Let the sewing machines of Paris be set to work on clothes for the country folk workaday clothes and clothes for Sunday too, instead of costly evening dresses for the English and Russian landlords and the African gold-magnates’ wives. Let the factories and foundries turn out agricultural implements, spades, rakes, and such-like, instead of waiting till the English send them to France, in exchange for French wines!
+
+Let the towns send no more inspectors to the villages, wearing red, blue, or rainbow-coloured scarves, to convey to the peasant orders to take his produce to this place or that, but let them send friendly embassies to the countryfolk and bid them in brotherly fashion: “Bring us your produce, and take from our stores and shops all the manufactured articles you please.” – Then provisions would pour in on every side. The peasant would only withhold what he needed for his own use, and would send the rest into the cities, feeling for the first time in the course of history that these toiling townsfolk were his comrades – his brethren, and not his exploiters.
+
+We shall be told, perhaps, that this would necessitate a complete transformation of industry. Well, yes, that is true of certain departments; but there are other branches which could be rapidly modified in such a way as to furnish the peasant with clothes, watches, furniture, and the simple implements for which the towns make him pay such exorbitant prices at the present time. Weavers, tailors, shoemakers, tinsmiths, cabinet-makers, and many other trades and crafts could easily direct their energies to the manufacture of useful and necessary articles, and abstain from producing mere luxuries. All that is needed is that the public mind should be thoroughly convinced of the necessity of this transformation, and should come to look upon it as an act of justice and of progress, and that it should no longer allow itself to be cheated by that dream, so dear to the theorists – the dream of a revolution which confines itself to taking possession of the profits of industry, and leaves production and commerce just as they are now.
+
+This, then, is our view of the whole question. Cheat the peasant no longer with scraps of paper – be the sums inscribed upon them ever so large; but offer him in exchange for his produce the very things of which he, the tiller of the soil, stands in need. Then the fruits of the land will be poured into the towns. If this is not done there will be famine in our cities, and reaction and despair will follow in its train.

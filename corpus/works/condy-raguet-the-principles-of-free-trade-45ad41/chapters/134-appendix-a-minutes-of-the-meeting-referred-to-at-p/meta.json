@@ -1,0 +1,26 @@
+{
+  "work_slug": "condy-raguet-the-principles-of-free-trade-45ad41",
+  "work_title": "The Principles of Free Trade",
+  "chapter_number": 134,
+  "chapter_title": "Appendix, a.: Minutes of the Meeting referred to, at page 866, which called the Free Trade Convention.",
+  "chapter_slug": "134-appendix-a-minutes-of-the-meeting-referred-to-at-p",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a41ef74-20f2-5dca-870a-ccc1c1a901d7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 341,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raguet-the-principles-of-free-trade"
+    }
+  ]
+}

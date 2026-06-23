@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-now-and-after-the-abc-of-communi-31809e",
+  "work_title": "Now and After: The ABC of Communist Anarchism (What is Communist Anarchism?)",
+  "chapter_number": 17,
+  "chapter_title": "Chapter 15 : Between February and October",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ac359e4-2870-54a4-8f0e-2c17cde2274f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2318,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1929/what-is-communist-anarchism/chapter-15.html"
+    }
+  ]
+}

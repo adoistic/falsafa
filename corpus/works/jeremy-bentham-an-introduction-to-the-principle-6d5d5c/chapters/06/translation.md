@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 6
-chapter_title: "Chapter V: PLEASURES AND PAINS, THEIR KINDS"
+chapter_title: "Chapter V: Pleasures and Pains, Their Kinds"
 chapter_slug: 06
 variant_id: "1777f8d0-c6ee-50f6-b78c-afc5f1b47f73"
 content_type: translation

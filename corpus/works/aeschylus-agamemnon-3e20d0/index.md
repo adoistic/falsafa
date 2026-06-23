@@ -4,7 +4,10 @@ slug: "aeschylus-agamemnon-3e20d0"
 title: Agamemnon
 author:
   name: Aeschylus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Athenian tragedian and veteran of Marathon. His seven surviving plays added a second actor to the choral stage and made tragedy an art of dramatic conflict.
+  birth_year: -525
+  death_year: -456
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

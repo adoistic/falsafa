@@ -4,13 +4,17 @@ slug: "rene-descartes-discourse-on-the-method-e1eae3"
 title: Discourse on the Method
 author:
   name: René Descartes
-  biography: "René Descartes (1596-1650)."
+  biography: "French philosopher and mathematician, founder of modern rationalism and inventor of analytic geometry. His Discourse and Meditations made systematic doubt the starting point of philosophy and set the mind-body problem at the center of modern thought."
+  birth_year: 1596
+  death_year: 1650
+  nationality: French
 era: Enlightenment
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "Discourse on the Method, by René Descartes (1596-1650), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1637
 total_logical_chapters: 6
 total_variant_entries: 6
 thothica_role: catalog

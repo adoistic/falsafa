@@ -1,0 +1,26 @@
+{
+  "work_slug": "georgi-plekhanov-anarchism-and-socialism-3fcdf0",
+  "work_title": "Anarchism and Socialism",
+  "chapter_number": 9,
+  "chapter_title": "Chapter VIII. The So-called Anarchist Tactics Their Morality",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9bfae2ac-3875-5884-a114-c5d65976c1f8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3229,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/plekhanov/1895/anarch/ch08.htm"
+    }
+  ]
+}

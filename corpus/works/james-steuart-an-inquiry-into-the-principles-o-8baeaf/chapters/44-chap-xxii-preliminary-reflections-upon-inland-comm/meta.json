@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 44,
+  "chapter_title": "Chap. XXII: Preliminary Reflections upon inland Commerce",
+  "chapter_slug": "44-chap-xxii-preliminary-reflections-upon-inland-comm",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ad209b82-cc98-5492-9e62-be6744338729",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3000,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_22.htm"
+    }
+  ]
+}

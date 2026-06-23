@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 92,
+  "chapter_title": "Of the Gravity of the Americans and why it does not Prevent them from often doing Inconsiderate Things.",
+  "chapter_slug": "92-of-the-gravity-of-the-americans-and-why-it-does-no",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df82f86a-fabf-52f3-ae39-10c4dc32f328",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2858,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch36.htm"
+    }
+  ]
+}

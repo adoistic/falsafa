@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-what-the-friends-of-the-people-a-df3f3e",
+  "work_title": "What the \"Friends of the People\" Are and How They Fight the Social-Democrats",
+  "chapter_number": 2,
+  "chapter_title": "V. I. Lenin (2)",
+  "chapter_slug": "02-v-i-lenin-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "71979006-0380-515a-8f8c-88492a91e750",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1753,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1894/friends/02.htm"
+    }
+  ]
+}

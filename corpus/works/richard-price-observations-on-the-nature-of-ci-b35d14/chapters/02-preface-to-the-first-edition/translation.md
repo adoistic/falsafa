@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 2
-chapter_title: PREFACE to the First Edition.
+chapter_title: Preface to the First Edition.
 chapter_slug: "02-preface-to-the-first-edition"
 variant_id: "ba1fe92c-5dca-589f-9f1d-e88b2f622ab2"
 content_type: translation

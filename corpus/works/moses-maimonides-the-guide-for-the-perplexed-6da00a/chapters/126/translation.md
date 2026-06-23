@@ -1,0 +1,21 @@
+---
+work_id: "6da00a83-f993-57d9-ba7d-256248f7a5ee"
+work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
+work_title: The Guide for the Perplexed
+author_name: Moses Maimonides
+chapter_number: 126
+chapter_title: Chapter VII (2)
+chapter_slug: 126
+variant_id: "f21b0a47-e6c1-5989-8a43-7d8701fd6174"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 273
+source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
+translator: Online Library of Liberty edition
+---
+
+We have already explained that the term “angel” is a homonym, and is used of the intellectual beings, the spheres, and the elements; for all these are engaged in performing a divine command. But do not imagine that the Intelligences and the spheres are like other forces which reside in bodies and act by the laws of nature without being conscious of what they do. The spheres and the Intelligences are conscious of their actions, and select by their own free will the objects of their influence, although not in the same manner as we exercise free will and rule over other things, which only concern temporary beings. I have been led to adopt this theory by certain passages in Scripture; e.g., an angel says to Lot: “For I cannot do anything,” etc. (Gen. xix. 21); and telling him to deliver himself, the angel says: “Behold I have accepted thee concerning this thing” (ver. 21). Again: “Take heed before him, and listen to his voice,” etc. (Exod. xxiii. 21). These passages show that angels are conscious of what they do, and have free will in the sphere of action intrusted to them, just as we have free will within our province, and in accordance with the power given to us with our very existence. The difference is that what we do is the lowest stage of excellence, and that our influence and actions are preceded by nonaction; whilst the Intelligences and the spheres always perform that which is good, they contain nothing except what is good and perfect, as will be shown further on, and they have continually been active from the beginning.

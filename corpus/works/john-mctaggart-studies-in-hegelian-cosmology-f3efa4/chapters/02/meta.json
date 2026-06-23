@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-mctaggart-studies-in-hegelian-cosmology-f3efa4",
+  "work_title": "Studies in Hegelian Cosmology",
+  "chapter_number": 2,
+  "chapter_title": "Chapter I",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "90fd5f57-da27-5d7d-95b3-fb46d9a37b48",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1000,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/mctaggart/cosmology/ch01.htm"
+    }
+  ]
+}

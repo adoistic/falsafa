@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-socialist-crisis-in-france-2a5eb9",
+  "work_title": "The Socialist Crisis in France",
+  "chapter_number": 6,
+  "chapter_title": "The Independent role of the Army",
+  "chapter_slug": "06-the-independent-role-of-the-army",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b212be6-f12c-5283-90d3-5c7cc82e1718",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 592,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1901/socialist-crisis-france/ch01.htm"
+    }
+  ]
+}

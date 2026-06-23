@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 63,
+  "chapter_title": "Oration 84",
+  "chapter_slug": "63-oration-84",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "81a19b0f-79e4-589e-bab8-6bcc4fb59823",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1634,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "20891136-9b9a-50ec-80ef-b8040fd8841e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2191,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

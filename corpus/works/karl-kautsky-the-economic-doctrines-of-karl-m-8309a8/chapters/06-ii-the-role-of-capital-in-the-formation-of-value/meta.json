@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-economic-doctrines-of-karl-m-8309a8",
+  "work_title": "The Economic Doctrines of Karl Marx",
+  "chapter_number": 6,
+  "chapter_title": "II. The Role of Capital in the Formation of Value",
+  "chapter_slug": "06-ii-the-role-of-capital-in-the-formation-of-value",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "671924ca-248f-5b24-9ed0-584835e2e7c8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1461,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1903/economic/ch05.htm"
+    }
+  ]
+}

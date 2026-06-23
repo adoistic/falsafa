@@ -4,7 +4,7 @@ work_slug: "rene-descartes-the-method-meditations-and-philo-68e0bb"
 work_title: The Method, Meditations, and Philosophy of Descartes
 author_name: René Descartes
 chapter_number: 22
-chapter_title: PREFACE TO THE READER.
+chapter_title: Preface to the Reader.
 chapter_slug: "22-preface-to-the-reader"
 variant_id: "cfd2fd17-4ffe-5720-9958-c5bcab712222"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1190
+word_count: 1178
 source_url: "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
 translator: Online Library of Liberty edition
 ---
@@ -24,7 +24,7 @@ But, as in the “Discourse on Method,” I had requested all who might find aug
 
 The first objection is that though, while the human mind reflects on itself, it does not perceive that it is any other than a thinking thing, it does not follow that its nature or essence consists only in its being a thing which thinks; so that the word only shall exclude all other things which might also perhaps be said to pertain to the nature of the mind.
 
-To this objection I reply, that it was not my intention in that place to exclude these according to the order of Edition: current; Page: [212] truth in the matter (of which I did not then treat), but only according to the order of thought (perception); so that my meaning was, that I clearly apprehended nothing, so far as I was conscious, as belonging to my essence, except that I was a thinking thing, or a thing possessing in itself the faculty of thinking. But I will show hereafter how, from the consciousness that nothing besides thinking belongs to the essence of the mind, it follows that nothing else does in truth belong to it.
+To this objection I reply, that it was not my intention in that place to exclude these according to the order of truth in the matter (of which I did not then treat), but only according to the order of thought (perception); so that my meaning was, that I clearly apprehended nothing, so far as I was conscious, as belonging to my essence, except that I was a thinking thing, or a thing possessing in itself the faculty of thinking. But I will show hereafter how, from the consciousness that nothing besides thinking belongs to the essence of the mind, it follows that nothing else does in truth belong to it.
 
 The second objection is that it does not follow, from my possessing the idea of a thing more perfect than I am, that the idea itself is more perfect than myself, and much less that what is represented by the idea exists.
 
@@ -32,10 +32,10 @@ But I reply that in the term idea there is here something equivocal; for it may 
 
 Besides these two objections, I have seen, indeed, two treatises of sufficient length relating to the present matter. In these, however, my conclusions, much more than my premises, were impugned, and that by arguments borrowed from the common places of the atheists. But, as arguments of this sort can make no impression on the minds of those who shall rightly understand my reasonings, and as the judgments of many are so irrational and weak that they are persuaded rather by the opinions on a subject that are first presented to them, however false and opposed to reason they may be, than by a true and solid, but subsequently received, refutation of them, I am unwilling here to reply to these strictures from a dread of being, in the first instance, obliged to state them.
 
-I will only say, in general, that all which the atheists commonly allege in favor of the non-existence of God, arises continually from one or other of these two things, namely, either the ascription of human affections to Deity, Edition: current; Page: [213] or the undue attribution to our minds of so much vigor and wisdom that we may essay to determine and comprehend both what God can and ought to do; hence all that is alleged by them will occasion us no difficulty, provided only we keep in remembrance that our minds must be considered finite, while Deity is incomprehensible and infinite.
+I will only say, in general, that all which the atheists commonly allege in favor of the non-existence of God, arises continually from one or other of these two things, namely, either the ascription of human affections to Deity, or the undue attribution to our minds of so much vigor and wisdom that we may essay to determine and comprehend both what God can and ought to do; hence all that is alleged by them will occasion us no difficulty, provided only we keep in remembrance that our minds must be considered finite, while Deity is incomprehensible and infinite.
 
 Now that I have once, in some measure, made proof of the opinions of men regarding my work, I again undertake to treat of God and the human soul, and at the same time to discuss the principles of the entire First Philosophy, without, however, expecting any commendation from the crowd for my endeavors, or a wide circle of readers. On the contrary, I would advise none to read this work, unless such as are able and willing to meditate with me in earnest, to detach their minds from commerce with the senses, and likewise to deliver themselves from all prejudice; and individuals of this character are, I well know, remarkably rare. But with regard to those who, without caring to comprehend the order and connection of the reasonings, shall study only detached clauses for the purpose of small but noisy criticism, as is the custom with many, I may say that such persons will not profit greatly by the reading of this treatise; and although perhaps they may find opportunity for cavilling in several places, they will yet hardly start any pressing objections, or such as shall be deserving of reply.
 
-But since, indeed, I do not promise to satisfy others on all these subjects at first sight, nor arrogate so much to myself as to believe that I have been able to forsee all that may be the source of difficulty to each one, I shall expound, first of all, in the meditations, those considerations by which I feel persuaded that I have arrived at a certain and evident knowledge of truth, in order that I may ascertain whether the reasonings which have prevailed with myself will also be effectual in convincing others. I will then reply to the objections of some men, illustrious for their genius and learning, to whom these Meditations were sent for criticism before they were committed to the press; for these objections are so numerous and varied that I venture to anticipate Edition: current; Page: [214] that nothing, at least nothing of any moment, will readily occur to any mind which has not been touched upon in them.
+But since, indeed, I do not promise to satisfy others on all these subjects at first sight, nor arrogate so much to myself as to believe that I have been able to forsee all that may be the source of difficulty to each one, I shall expound, first of all, in the meditations, those considerations by which I feel persuaded that I have arrived at a certain and evident knowledge of truth, in order that I may ascertain whether the reasonings which have prevailed with myself will also be effectual in convincing others. I will then reply to the objections of some men, illustrious for their genius and learning, to whom these Meditations were sent for criticism before they were committed to the press; for these objections are so numerous and varied that I venture to anticipate that nothing, at least nothing of any moment, will readily occur to any mind which has not been touched upon in them.
 
 Hence it is that I earnestly entreat my readers not to come to any judgment on the questions raised in the Meditations until they have taken care to read the whole of the Objections, with the relative Replies.

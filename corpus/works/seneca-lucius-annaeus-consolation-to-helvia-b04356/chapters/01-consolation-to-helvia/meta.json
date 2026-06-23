@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-consolation-to-helvia-b04356",
+  "work_title": "Consolation to Helvia",
+  "chapter_number": 1,
+  "chapter_title": "Consolation to Helvia",
+  "chapter_slug": "01-consolation-to-helvia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f4fc0131-f5aa-58d5-8ffa-27c538cc1490",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6878,
+      "paragraph_count": 121,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0255.stoa006"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8df53f98-577b-50f1-b71d-1aa1ebb6bfe9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10565,
+      "paragraph_count": 121,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

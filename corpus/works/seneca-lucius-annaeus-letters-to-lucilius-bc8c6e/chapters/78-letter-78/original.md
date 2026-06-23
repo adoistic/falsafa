@@ -1,0 +1,49 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 78
+chapter_title: Letter 78
+chapter_slug: "78-letter-78"
+variant_id: "3af6729f-63ab-5678-99c1-6b20d3744d84"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1318
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+curator: thothica
+---
+
+1. Vexari te destillationibus crebris ac febriculis, quae longas destillationes et in consuetudinem adductas secuntur, eo molestius mihi est, quia expertus sum hoc genus valetudinis, quod inter initia contempsi; poterat adhuc adulescentia iniurias ferre et se adversus morbos contumaciter gerere. Deinde succubui et eo perductus sum, ut ipse destillarem ad summam maciem deductus.
+2. Saepe impetum cepi abrumpendae vitae; patris me indulgentissimi senectus retinuit. Cogitavi enim non quam fortiter ego mori possem, sed quam ille fortiter desiderare non posset. Itaque imperavi mihi, ut viverem. Aliquando enim et vivere fortiter facere est.
+3. Quae mihi tunc fuerint solacio dicam, si prius hoc dixero,
+4. Multum mihi contulerunt ad bonam valetudinem amici, quorum adhortationibus, vigiliis, sermonibus adlevabar. Nihil aeque, Lucili, virorum optime, aegrum reficit atque adiuvat quam amicorum adfectus; nihil aeque expectationem mortis ac metum subripit. Non iudicabam me, cum illos superstites relinquerent Haec mihi dederunt voluntatem adiuvandi me et patiendi omne tormentum; alioqui miserrimum est, cum animum moriendi proieceris, non habere vivendi.
+5. Ad haec ergo remedia te confer. Medicus tibi quantum ambules, quantum exercearis, monstrabit; ne indulgeas otio, ad quod vergit iners valetudo; ut legas clarius et spiritum, cuius iter ac receptaculum laborat, exerceas; ut naviges et viscera molli iactatione concutias; quibus cibis utaris, vinum quando virium causa advoces, quando intermittas, ne inritet et exasperet tussim. Ego tibi illud praecipio, quod non tantum huius morbi, sed totius vitae remedium est: contemne mortem. Nihil triste est, cum huius metum effugimus.
+6. Tria haec in omni morbo gravia sunt: metus mortis, dolor corporis, intermissio voluptatum. De morte satis dictum est; hoc unum dicam, non morbi hunc esse sed naturae metum Multorum mortem distulit morbus et saluti illis fuit videri perire. Morieris, non quia aegrotas, sed quia vivis. Ista te res et sanatum manet; cum convalueris, non mortem, sed valetudinem effugies.
+7. Ad illud nunc proprium incommodum revertamur: magnos cruciatus habet morbus. Sed hos tolerabiles intervalla faciunt. Nam summi doloris intentio invenit finem. Nemo potest valde dolere et diu; sic nos amantissima nostri natura disposuit, ut dolorem aut tolerabilem aut brevem faceret.
+8. Maximi dolores consistunt in macerrimis corporis partibus; nervi articulique et quicquid aliud exile est, acerrime saevit, eum in arto vitia concepit. Sed cito hae partes obstupescunt et ipso dolore sensum doloris amittunt, sive quia spiritus naturali prohibitus cursu et mutatus in peius vim suam, qua viget admonetque nos, perdit, sive quia corruptus umor, cum desiit habere, quo confluat, ipse se elidit et iis, quae nimis implevit, excutit sensum.
+9. Sic podagra et cheragra et omnis vertebrarum dolor nervorumque
+10. Hoc itaque solacium vasti doloris est, quod necesse est desinas illum sentire, si nimis senseris. Illud autem est, quod imperitos in vexatione corporis male habet: non adsueverunt animo esse contenti. Multum illis cum corpore fuit. Ideo vir magnus ac prudens animum diducit a corpore et multum cum meliore ac divina parte versatur, cum hac querula et fragili quantum necesse est.
+11. Sed molestum est, inquit, carere adsuetis voluptatibus, abstinere cibo, sitire, esurire. Haec prima abstinentia gravia sunt. Deinde cupiditas relanguescit ipsis per quae deficientibus; inde morosus est stomachus, inde cuius
+12. Adice, quod nullus non intermittitur dolor aut certe remittitur. Adice, quod licet cavere venturum et obsistere inminenti remediis. Nullus enim non signa praemittit, utique qui ex solito revertitur. Tolerabilis est morbi patientia, si contempseris id quod extremum minatur.
+13. Noli mala tua facere tibi ipseNihil est aut certe exiguum est. Duremus; iam desinet; levem illum, dum putas, facies. Omnia ex opinione suspensa sunt; non ambitio tantum ad illam respicit et luxuria et avaritia. Ad opinionem dolemus. Tam miser est quisque quam credidit.
+14. Detrahendas praeteritorum dolorum conquestiones puto et illa verba: Nulli umquam fuit peius. Quos cruciatus, quanta mala pertuli! Nemo me surrecturum putavit. Quotiens deploratus sum a meis, quotiens a medicis relictus! In eculeum inpositi non sic distrahuntur. Etiam si sunt vera ista, transierunt. Quid iuvat praeteritos dolores retractare et miserum esse, quia fueris? Quid, quod nemo non multum malis suis adicit et sibi ipse mentitur? Deinde quod acerbum fuit ferre, Circumcidenda ergo duo sunt, et futuri timor et veteris incommodi memoria; hoc ad me iam non pertinet, illud nondum.
+15. In ipsis positus difficultatibus dicat: Forsan et haec olim meminisse iuvabit. Toto contra ille
+16. Athletae quantum plagarum ore, quantum toto corpore excipiunt? Ferunt tamen omne tormentum gloriae cupiditate nec tantum quia pugnant, ista patiuntur, sed ut pugnent. Exercitatio ipsa tormentum est. Nos quoque evincamus omnia, quorum praemium non corona nec palma est nec tubicen praedicationi nominis nostri silentium faciens, sed virtus et firmitas animi et pax in ceterum parta, si semel in aliquo certamine debellata fortuna est.
+17. Dolorem gravem sentio. Quid ergo? Non sentis, si illum muliebriter tuleris? Quemadmodum perniciosior est hostis fugientibus, sic omne fortuitum incommodum magis instat cedenti et averso. Sed grave est. Quid? Nos ad hoc fortes sumus, ut levia portemus? Utrum vis longum esse morbum an concitatum
+18. Illud quoque proderit, ad alias cogitationes avertere animum et a dolore discedere. Cogita quid honeste, quid fortiter feceris; bonas partes tecum ipse tracta. Memoriam in ea, quae maxime miratus es, sparge. Tunc tibi fortissimus quisque et victor doloris occurrat: ille, qui cum
+19. Quicquid vis nunc licet dicas, destillationes et vim continuae tussis egerentem viscerum partes et febrem praecordia ipsa torrentem et sitim et artus in diversum articulis exeuntibus tortos; plus est flamma et eculeus et lammina et vulneribus ipsis intumescentibus quod illa renovaret et altius urgeret inpressum. Inter haec tamen aliquis non gemuit. Parum est; non rogavit. Parum est; non respondit. Parum est; risit et quidem ex animo. Vis tu post hoc dolorem deridere?
+20. Sed nihil, inquit, agere sinit morbus, qui me omnibus abduxit officiis. Corpus tuum valetudo tenet, non et animum. Itaque cursoris moratur pedes, sutoris aut fabri manus inpediet; si animus tibi esse in usu solet, suadebis docebis, audies disces,
+21. Est, mihi crede, virtuti etiam in lectulo locus. Non tantum arma et acies dant argumenta alacris animi indomitique terroribus; et in vestimentis vir fortis apparet. Habes, quod agas: bene luctare cum morbo. Si nihil te coegerit, si nihil exoraverit, insigne prodis exemplum. O quam magna erat gloriae materia, si spectaremur aegri! Ipse te specta,
+22. Praeterea duo genera sunt voluptatum. Corporales morbus inhibet, non tamen tollit. Immo, si verum aestimes, incitat; magis iuvat bibere sitientem; gratior est esurienti cibus. Quicquid ex abstinentia contigit, avidius exciditur. Illas vero animi voluptates, quae maiores certioresque sunt, nemo medicus aegro negat. Has quisquis sequitur et bene intellegit, omnia sensuum blandimenta contemnit.
+23. O infelicem aegrum. Quare? Quia non vino nivem diluit? Quia non rigorem potionis suae, quam capaci scypho miscuit, renovat fracta insuper glacie? Quia non ostrea illi Lucrina in ipsa mensa aperiuntur? Quia non circa cenationem eius tumultus cocorum est ipsos cum opsoniis focos transferentium? Hoc enim iam luxuria commenta est: ne quis intepescat cibus, ne quid palato iam calloso parum ferveat, cenam culina prosequitur.
+24. O infelicem aegrum! edet, quantum concoquat. Non iacebit in conspectu aper ut vilis caro a mensa relegatus, nec in repositorio eius pectora avium, totas enim videre fastidium est, congesta ponentur. Quid tibi mali factum est? Cenabis tamquam aeger, immo aliquando tamquam sanus.
+25. Sed omnia ista facile perferemus, sorbitionem, aquam calidam et quicquid aliud intolerabile videtur debeatis et luxu fluentibus magisque animo quam corpore morbidis; tantum mortem desinamus horrere. Desinemus autem, si fines bonorum ac malorum cognoverimus; ita demum nec vita taedio erit nec mors timori.
+26. Vitam enim occupare satietas sui non potest tot res varias, magnas, divinas percensentem; in odium illam sui adducere solet iners otium. Rerum naturam peragranti numquam in fastidium veritas veniet; falsa satiabunt.
+27. Rursus si mors accedit et vocat, licet inmatura sit, licet mediam praecidat aetatem, perceptus longissimae
+28. His te cogitationibus recrea et interim epistulis nostris vaca. Veniet aliquandounus dies hominum eruditorum plus patet quam inperitis longissima aetas.
+29. Interim hoc tene, hoc morde: adversis non succumbere, laetis non credere, omnem fortunae licentiam in oculis habere, tamquam quicquid potest facere, factura sit. Quicquid expectatum est diu, leniusVale.

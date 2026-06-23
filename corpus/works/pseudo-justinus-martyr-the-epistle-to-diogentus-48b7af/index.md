@@ -4,7 +4,7 @@ slug: "pseudo-justinus-martyr-the-epistle-to-diogentus-48b7af"
 title: The Epistle to Diogentus
 author:
   name: "Pseudo-Justinus Martyr"
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Conventional label for the anonymous author of works transmitted under the name of Justin Martyr but not his. The Epistle to Diognetus is an early Christian apologetic letter of uncertain date and authorship defending the faith to a pagan inquirer.
 era: Late Antiquity
 genre: Classics
 language: Greek

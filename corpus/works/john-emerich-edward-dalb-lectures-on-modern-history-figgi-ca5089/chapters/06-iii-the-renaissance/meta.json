@@ -2,7 +2,7 @@
   "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
   "work_title": "Lectures on Modern History (Figgis ed.)",
   "chapter_number": 6,
-  "chapter_title": "III: THE RENAISSANCE",
+  "chapter_title": "III: The Renaissance",
   "chapter_slug": "06-iii-the-renaissance",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 6414,
+      "word_count": 6350,
       "paragraph_count": 29,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"

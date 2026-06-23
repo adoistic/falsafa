@@ -4,13 +4,17 @@ slug: "francis-amasa-walker-political-economy-d17649"
 title: Political Economy
 author:
   name: Francis Amasa Walker
-  biography: Francis Amasa Walker (1840–1897).
+  biography: "American economist and statistician, Union general, superintendent of two federal censuses, and president of MIT. The Wages Question broke the wages-fund doctrine's hold on American economics, and his Political Economy carried the argument into a standard classroom text."
+  birth_year: 1840
+  death_year: 1897
+  nationality: American
 era: 19th Century
 genre: Economics
 language: English
 language_direction: ltr
 description: "Political Economy, by Francis Amasa Walker (1840–1897), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1883
 total_logical_chapters: 43
 total_variant_entries: 43
 thothica_role: catalog
@@ -22,30 +26,30 @@ Political Economy, by Francis Amasa Walker (1840–1897), a public-domain text f
 
 ## Chapters
 
-01. [PART I.: CHARACTER AND LOGICAL METHOD OF POLITICAL ECONOMY.](./chapters/01/) — prose, 1 variant
-02. [CHAPTER I.: LAND AND NATURAL AGENTS.](./chapters/02/) — prose, 1 variant
-03. [CHAPTER II.: LABOR.](./chapters/03/) — prose, 1 variant
-04. [CHAPTER III.: CAPITAL: ITS ORIGIN AND OFFICE.](./chapters/04/) — prose, 1 variant
-05. [CHAPTER IV.: THE PRODUCTIVE CAPABILITY OF A COMMUNITY.](./chapters/05/) — prose, 1 variant
-06. [CHAPTER I.: THE THEORY OF VALUE.](./chapters/06/) — prose, 1 variant
-07. [CHAPTER II.: THE THEORY OF INTERNATIONAL EXCHANGES.](./chapters/07/) — prose, 1 variant
-08. [CHAPTER III.: MONEY AND ITS VALUE.](./chapters/08/) — prose, 1 variant
-09. [CHAPTER IV.: MONEY AND ITS VALUE—CONTINUED—DEBASED COIN: SEIGNIORAGE.](./chapters/09/) — prose, 1 variant
-10. [CHAPTER V.: INCONVERTIBLE PAPER MONEY.](./chapters/10/) — prose, 1 variant
-11. [CHAPTER VI.: BANK MONEY.](./chapters/11/) — prose, 1 variant
-12. [CHAPTER VII.: THE REACTION OF EXCHANGE UPON PRODUCTION.](./chapters/12/) — prose, 1 variant
-13. [CHAPTER I.: THE PARTIES TO THE DISTRIBUTION OF WEALTH.](./chapters/13/) — prose, 1 variant
-14. [CHAPTER II.: RENT.](./chapters/14/) — prose, 1 variant
-15. [CHAPTER III.: INTEREST.](./chapters/15/) — prose, 1 variant
-16. [CHAPTER IV.: PROFITS.](./chapters/16/) — prose, 1 variant
-17. [CHAPTER V.: WAGES.](./chapters/17/) — prose, 1 variant
-18. [THE CONDITIONS OF THE LABORING CLASS AS AFFECTED BY IMPERFECT COMPETITION.](./chapters/18-the-conditions-of-the-laboring-class-as-affected-b/) — prose, 1 variant
-19. [CHAPTER VII.: TWO OTHER SHARES IN DISTRIBUTION.](./chapters/19/) — prose, 1 variant
-20. [CHAPTER VIII.: THE REACTION OF DISTRIBUTION UPON PRODUCTION.](./chapters/20/) — prose, 1 variant
-21. [CHAPTER I.: SUBSISTENCE: POPULATION.](./chapters/21/) — prose, 1 variant
-22. [CHAPTER II.: THE APPEARANCE OF NEW ECONOMIC WANTS.](./chapters/22/) — prose, 1 variant
-23. [CHAPTER III.: CONSUMPTION: THE DYNAMICS OF WEALTH.](./chapters/23/) — prose, 1 variant
-24. [PART VI.: SOME APPLICATIONS OF ECONOMIC PRINCIPLES.](./chapters/24/) — prose, 1 variant
+01. [Political Economy, Part I.: Character and Logical Method of Political Economy.](./chapters/01-political-economy-part-i-character-and-logical-met/) — prose, 1 variant
+02. [Part II.: Production, Chapter I.: Land and Natural Agents.](./chapters/02/) — prose, 1 variant
+03. [Chapter II.: Labor.](./chapters/03/) — prose, 1 variant
+04. [Chapter III.: Capital: Its Origin and Office.](./chapters/04/) — prose, 1 variant
+05. [Chapter IV.: The Productive Capability of a Community.](./chapters/05/) — prose, 1 variant
+06. [Exchange, Chapter I.: The Theory of Value.](./chapters/06-exchange-chapter-i-the-theory-of-value/) — prose, 1 variant
+07. [Chapter II.: The Theory of International Exchanges.](./chapters/07/) — prose, 1 variant
+08. [Chapter III.: Money and Its Value.](./chapters/08/) — prose, 1 variant
+09. [Chapter IV.: Money and Its Value—continued—debased Coin: Seigniorage.](./chapters/09/) — prose, 1 variant
+10. [Chapter V.: Inconvertible Paper Money.](./chapters/10/) — prose, 1 variant
+11. [Chapter VI.: Bank Money.](./chapters/11/) — prose, 1 variant
+12. [Chapter VII.: The Reaction of Exchange upon Production.](./chapters/12/) — prose, 1 variant
+13. [Part IV.: Distribution, Chapter I.: The Parties to the Distribution of Wealth.](./chapters/13/) — prose, 1 variant
+14. [Chapter II.: Rent.](./chapters/14/) — prose, 1 variant
+15. [Chapter III.: Interest.](./chapters/15/) — prose, 1 variant
+16. [Chapter IV.: Profits.](./chapters/16/) — prose, 1 variant
+17. [Chapter V.: Wages.](./chapters/17/) — prose, 1 variant
+18. [Chapter VI.: Wages.—continued, The Conditions of the Laboring Class as Affected by Imperfect Competition.](./chapters/18/) — prose, 1 variant
+19. [Chapter VII.: Two Other Shares in Distribution.](./chapters/19/) — prose, 1 variant
+20. [Chapter VIII.: The Reaction of Distribution upon Production.](./chapters/20/) — prose, 1 variant
+21. [Part V.: Consumption, Chapter I.: Subsistence: Population.](./chapters/21/) — prose, 1 variant
+22. [Chapter II.: The Appearance of New Economic Wants.](./chapters/22/) — prose, 1 variant
+23. [Chapter III.: Consumption: The Dynamics of Wealth.](./chapters/23/) — prose, 1 variant
+24. [Part VI.: Some Applications of Economic Principles.](./chapters/24/) — prose, 1 variant
 25. [I.: usury laws.](./chapters/25-i-usury-laws/) — prose, 1 variant
 26. [II.: industrial co-operation.](./chapters/26-ii-industrial-co-operation/) — prose, 1 variant
 27. [III.: political money.](./chapters/27-iii-political-money/) — prose, 1 variant

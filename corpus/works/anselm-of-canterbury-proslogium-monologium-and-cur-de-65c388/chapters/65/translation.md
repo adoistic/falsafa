@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 65
-chapter_title: CHAPTER XXV
+chapter_title: Chapter XXVIII.
 chapter_slug: 65
 variant_id: "9be6f852-6310-5d6f-9d15-9e79df93e2e8"
 content_type: translation
@@ -13,17 +13,23 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 451
+word_count: 550
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-It cannot suffer change by any accidents.
+This Spirit exists simply, and created beings are not comparable with him.
 
-But does not this Being, which has been shown to exist as in every way substantially identical with itself, sometimes exist as different from itself, at any rate, accidentally? But how is it supremely immutable, if it can, I will not say, be, but, be conceived of, as variable by virtue of accidents? And, on the other hand, does it not partake of accident, since even this very fact that it is greater than all other natures and that it is unlike them seems to be an accident in its case (illi accidere)? But what is the inconsistency between susceptibility to certain facts, called accidents, and natural immutability, if from the undergoing of these accidents the substance undergoes no change?
+It seems to follow, then, from the preceding considerations, that the Spirit which exists in so wonderfully singular and so singularly wonderful a way of its own is in some sort unique; while other beings which seem to be comparable with it are not so.
 
-For, of all the facts, called accidents, some are understood not to be present or absent without some variation in the subject of the accident—all colors, for instance—while others are known not to effect any change in a thing either by occurring or not occurring—certain relations, for instance. For it is certain that I am neither older nor younger than a man who is not yet born, nor equal to him, nor like him. But I shall be able to sustain and to lose all these relations toward him, as soon as he shall have been born, according as he shall grow, or undergo change through divers qualities.
+For, by diligent attention it will be seen that that Spirit alone exists simply, and perfectly, and absolutely; while all other beings are almost non-existent, and hardly exist at all. For, seeing that of this Spirit, because of its immutable eternity, it can in no wise be said, in terms of any alteration, that it was or will be, but simply that it is; it is not now, by mutation, anything which it either was not at any time, or will not be in the future. Nor does it fail to be now what it was, or will be, at any time; but, whatever it is, it is, once for all, and simultaneously, and interminably. Seeing, I say, that its existence is of this character, it is rightly said itself to exist simply, and absolutely, and perfectly.
 
-It is made clear, then, that of all those facts, called accidents, a part bring some degree of mutability in their train, while a part do not impair at all the immutability Edition: current; Page: [85] of that in whose case they occur. Hence, although the supreme Nature in its simplicity has never undergone such accidents as cause mutation, yet it does not disdain occasional expression in terms of those accidents which are in no wise inconsistent with supreme immutability; and yet there is no accident respecting its essence, whence it would be conceived of, as itself variable.
+But since, on the other hand, all other beings, in accordance with some cause, have at some time been, or will be, by mutation, what they are not now; or are what they were not, or will not be, at some time; and, since this former existence of theirs is no longer a fact; and that future existence is not yet a fact; and their existence in a transient, and most brief, and scarcely existing, present is hardly a fact—since, then, they exist in such mutability, it is not unreasonably denied that they exist simply, and perfectly, and absolutely; and it is asserted that they are almost non-existent, that they scarcely exist at all.
 
-Whence this conclusion, also, may be reached, that it is susceptible of no accident; since, just as those accidents, which effect some change by their occurrence or non-occurrence, are by virtue of this very effect of theirs regarded as being true accidents, so those facts, which lack a like effect, are found to be improperly called accidents. Therefore, this Essence is always, in every way, substantially identical with itself; and it is never in any way different from itself, even accidentally. But, however it may be as to the proper signification of the term accident, this is undoubtedly true, that of the supremely immutable Nature no statement can be made, whence it shall be conceived of as mutable.
+Again, since all beings, which are other than this Spirit himself, have come from non-existence to existence, not through themselves, but through another; and, since they return from existence to non-existence, so far as their own power is concerned, unless they are sustained through another being, is it consistent with their nature to exist simply, or perfectly, or absolutely, and not rather to be almost non-existent
+
+And since the existence of this ineffable Spirit alone can in no way be conceived to have taken inception from non-existence, or to be capable of sustaining any deficiency rising from what is in non-existence; and since, whatever he is himself, he is not through another than himself, that is, than what he is himself, ought not his existence alone to be conceived of as simple, and perfect, and absolute?
+
+But what is thus simply, and on every ground, solely perfect, simple, and absolute, this may very certainly be justly said to be in some sort unique. And, on the other hand, whatever is known to exist through a higher cause, and neither simply, nor perfectly, nor absolutely, but scarcely to exist, or to be almost non-existent—this assuredly may be rightly said to be in some sort non-existent.
+
+According to this course of reasoning, then, the creative Spirit alone exists, and all creatures are non-existent; yet, they are not wholly non-existent, because, through that Spirit which alone exists absolutely, they have been made something from nothing.

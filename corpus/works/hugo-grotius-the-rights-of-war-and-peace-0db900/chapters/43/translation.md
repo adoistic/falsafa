@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-rights-of-war-and-peace-0db900"
 work_title: The Rights of War and Peace
 author_name: Hugo Grotius
 chapter_number: 43
-chapter_title: "CHAPTER XV.: On Moderation in Acquiring Dominion."
+chapter_title: "Chapter XV.: On Moderation in Acquiring Dominion."
 chapter_slug: 43
 variant_id: "4dbaa404-808f-5bcb-b9c7-bfa7a6e7a3d7"
 content_type: translation

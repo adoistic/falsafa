@@ -4,7 +4,7 @@ work_slug: "voltaire-toleration-and-other-essays-91a5c9"
 work_title: Toleration and Other Essays
 author_name: Voltaire
 chapter_number: 7
-chapter_title: WHETHER INTOLERANCE IS OF NATURAL AND HUMAN LAW
+chapter_title: Whether Intolerance Is of Natural and Human Law
 chapter_slug: "07-whether-intolerance-is-of-natural-and-human-law"
 variant_id: "acf8fb1c-46c0-5121-bf5c-fd49aea7c03f"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 294
+word_count: 290
 source_url: "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
 translator: Online Library of Liberty edition
 ---
@@ -24,4 +24,4 @@ Human law must in every case be based on natural law. All over the earth the gre
 
 If it were a point of human law to behave thus, the Japanese should detest the Chinese, who should abhor the Siamese; the Siamese, in turn, should persecute the Thibetans, who should fall upon the Hindoos. A Mogul should tear out the heart of the first Malabarian he met; the Malabarian should slay the Persian, who might massacre the Turk; and all of them should fling themselves against the Christians, who have so long devoured each other.
 
-The supposed right of intolerance is absurd and barbaric. It is the right of the tiger; nay, it is far Edition: current; Page: [31] worse, for tigers do but tear in order to have food, while we rend each other for paragraphs.
+The supposed right of intolerance is absurd and barbaric. It is the right of the tiger; nay, it is far worse, for tigers do but tear in order to have food, while we rend each other for paragraphs.

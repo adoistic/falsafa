@@ -4,7 +4,7 @@ work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad"
 work_title: A Select Collection of Early English Tracts on Commerce
 author_name: John Ramsay McCulloch (ed.)
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "71a4c276-dbf1-5aef-9b56-ac5ef52d10bb"
 content_type: translation

@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 60,
+  "chapter_title": "LIX. The Second Dance-song.",
+  "chapter_slug": "60-lix-the-second-dance-song",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a5e6b0a3-4746-5735-b08d-4b5546eb0f26",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 828,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "58dc871a-d769-55b3-89a9-579f547b8289",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 872,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

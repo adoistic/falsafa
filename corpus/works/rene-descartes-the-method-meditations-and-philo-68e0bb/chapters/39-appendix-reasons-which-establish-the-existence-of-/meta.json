@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 39,
+  "chapter_title": "Appendix: Reasons Which Establish the Existence of God, and the Distinction Between the Mind and Body of Man, Disposed I",
+  "chapter_slug": "39-appendix-reasons-which-establish-the-existence-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "773627b0-e9e3-50e4-84d0-dc4b79fa07c9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 148,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-terrorism-and-communism-a-contri-a2ee74",
+  "work_title": "Terrorism and Communism: A Contribution to the Natural History of Revolution",
+  "chapter_number": 13,
+  "chapter_title": "Centralisation and Federalism.",
+  "chapter_slug": "13-centralisation-and-federalism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c3b17b5-6758-52ee-aa78-7bf08d7fec6d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3396,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1919/terrcomm/ch06b.htm"
+    }
+  ]
+}

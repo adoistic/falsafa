@@ -2,7 +2,7 @@
   "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
   "work_title": "The Miscellaneous Works of Sir James Mackintosh",
   "chapter_number": 60,
-  "chapter_title": "CHAPTER VIII.",
+  "chapter_title": "Chapter IX.",
   "chapter_slug": "60",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 16938,
-      "paragraph_count": 41,
+      "word_count": 3721,
+      "paragraph_count": 13,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f",
+  "work_title": "The Ruins, or a Survey of the Revolutions of Empires",
+  "chapter_number": 37,
+  "chapter_title": "Chap. XXIII.: End of All Religions the Same.",
+  "chapter_slug": "37-chap-xxiii-end-of-all-religions-the-same",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11a9026d-d081-55fd-9d24-77839098553b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3028,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/volney-the-ruins-or-a-survery-of-the-revolutions-of-empires"
+    }
+  ]
+}

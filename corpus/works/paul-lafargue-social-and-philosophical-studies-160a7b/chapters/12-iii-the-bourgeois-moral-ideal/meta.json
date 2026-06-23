@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-social-and-philosophical-studies-160a7b",
+  "work_title": "Social and Philosophical Studies",
+  "chapter_number": 12,
+  "chapter_title": "III. The Bourgeois Moral Ideal",
+  "chapter_slug": "12-iii-the-bourgeois-moral-ideal",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ea931fa-a780-519d-a7cc-ed53f83c90d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1428,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1906/socphil/ch4.html"
+    }
+  ]
+}

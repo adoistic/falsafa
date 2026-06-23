@@ -4,7 +4,7 @@ work_slug: "jean-jacques-rousseau-the-social-contract-and-discours-0254b9"
 work_title: The Social Contract and Discourses
 author_name: "Jean-Jacques Rousseau"
 chapter_number: 1
-chapter_title: INTRODUCTION
+chapter_title: Introduction
 chapter_slug: "01-introduction"
 variant_id: "bbcb95e8-5721-5558-8727-01014666d092"
 content_type: translation

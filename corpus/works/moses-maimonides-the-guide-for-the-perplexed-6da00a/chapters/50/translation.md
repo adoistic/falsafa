@@ -4,7 +4,7 @@ work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
 work_title: The Guide for the Perplexed
 author_name: Moses Maimonides
 chapter_number: 50
-chapter_title: CHAPTER XXXVIII
+chapter_title: Chapter XXXIX (1)
 chapter_slug: 50
 variant_id: "c99dc906-8ad8-5fc6-9a31-bb75ae9c6541"
 content_type: translation
@@ -13,13 +13,21 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 188
+word_count: 625
 source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
 translator: Online Library of Liberty edition
 ---
 
-The Hebrew term aḥor is a homonym. It is a noun, signifying “back.” Comp. “Behind (aḥare) the tabernacle” (Exod. xxvi. 12); “The spear came out behind him (aḥarav)” (2 Sam. ii. 23).
+The Hebrew leb (heart) is a homonymous noun, signifying that organ which is the source of life to all beings possessing a heart. Comp. “And thrust them through the heart of Absalom” (1 Sam. xviii. 14).
 
-It is next used in reference to time, signifying “after”; “neither after him (aḥarav) arose there any like him” (2 Kings xxiii. 25); “After (aḥar) these things” (Gen. xv. 1). In this sense the word occurs frequently.
+This organ being in the middle of the body, the word has been figuratively applied to express “the middle part of a thing.” Comp. “unto the midst (leb) of heaven” (Deut. iv. 11); “the midst (labbath) of fire” (Exod. iii. 2).
 
-The term includes also the idea of following a thing and of conforming with the moral principles of some other being. Comp. “Ye shall walk after (aḥare) the Lord, your God” (Deut. xiii. 5); “They shall walk after (aḥare) the Lord” (Hos. xi. 10), i.e., follow His will, walk in the way of His actions, and imitate His virtues; “He walked after (aḥare) the commandment” (ib. v. 11). In this sense the word occurs in Exodus xxxiii. 20, “And thou shalt see my back” (aḥorai); thou shalt perceive that which follows me, is similar to me, and is the result of my will, i.e., all things created by me, as will be explained in the course of this treatise.
+It further denotes “thought.” Comp. “Went not mine heart with thee?” (2 Kings v. 26), i.e., I was with thee in my thought when a certain event happened. Similarly must be explained, “And that ye seek not after your own heart” (Num. xv. 39), i.e., after your own thoughts; “Whose heart (i.e., whose thought), turneth away this day” (Deut. xxix. 18).
+
+The word further signifies “counsel.” Comp. “All the rest of Israel were of one heart (i.e., had one plan) to make David king” (1 Chron. xii. 38); “but fools die for want of heart,” i.e., of counsel; “My heart (i.e., my counsel) shall not turn away from this so long as I live” (Job xxvii. 6); for this sentence is preceded by the words, “My righteousness I hold fast, and will not let it go”; and then follows, “my heart shall never turn away from this.”—As regards the expression yeḥeraf, I think that it may be compared with the same verb in the form neḥrefet, “a handmaid betrothed (neḥrefet) to a man” (Lev. xix. 20), where neḥrefetḥ is similar in meaning to the Arabic munḥarifat, “turning away,” and signifies “turning from the state of slavery to that of marriage.”
+
+Leb (heart) denotes also “will”; comp. “And I shall give you pastors according to my will (libbi)” (Jer. iii. 15), “Is thine heart right as my heart is?” (2 Kings x. 15), i.e., is thy will right as my will is? In this sense the word has been figuratively applied to God. Comp. “That shall do according to that which is in mine heart and in my soul” (1 Sam. ii. 35), i.e., according to My will; “And mine eyes and mine heart (i.e., My providence and My will) shall be there perpetually” (1 Kings ix. 3).
+
+The word is also used in the sense of “understanding.” Comp. “For vain man will be endowed with a heart” (Job xi. 12), i.e., will be wise; “A wise man’s heart is at his right hand” (Eccles. x. 2), i.e., his understanding is engaged in perfect thoughts, the highest problems. Instances of this kind are numerous. It is in this sense, namely, that of understanding, that the word is used whenever figuratively applied to God; but exceptionally it is also used in the sense of “will.” It must, in each passage, be explained in accordance with the context. Also, in the following and similar passages, it signifies “understanding”; “Consider it in thine heart” (Deut. iv. 39); “And none considereth in his heart” (Isa. xliv. 19). Thus, also, “Yet the Lord hath not given you an heart to perceive,” is identical in its meaning with “Unto thee it was shown that thou mightest know” (Deut. iv. 35).
+
+As to the passage, “And thou shalt love the Lord thy God with all thine heart” (Ib. vi. 5), I explain “with all thine heart” to mean “with all the powers of thine heart,” that is, with all the powers of the body, for they all have their origin in the heart; and the sense of the entire passage is: make the knowledge of God the aim of all thy actions, as we have stated in our Commentary on the Mishnah (Aboth, Eight Chapters, v.), and in our Mishneh Torah, yesode hatorah, chap. ii. 2.

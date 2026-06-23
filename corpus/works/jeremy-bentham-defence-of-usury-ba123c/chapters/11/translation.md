@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 11
-chapter_title: "LETTER XI.: Compound Interest."
+chapter_title: "Letter XI.: Compound Interest."
 chapter_slug: 11
 variant_id: "98da5637-0ab1-5bb4-8540-fb8c9a9a60bd"
 content_type: translation

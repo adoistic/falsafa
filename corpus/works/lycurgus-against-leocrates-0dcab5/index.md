@@ -4,7 +4,10 @@ slug: "lycurgus-against-leocrates-0dcab5"
 title: Against Leocrates
 author:
   name: Lycurgus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Athenian orator and statesman, one of the ten Attic orators and manager of Athens' finances in the age of Demosthenes. His sole surviving speech, the prosecution of Leocrates for desertion after Chaeronea, is a patriotic indictment laced with poetic and historical quotation."
+  birth_year: -390
+  death_year: -324
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 12,
+  "chapter_title": "Chpt. 7 Friction in War",
+  "chapter_slug": "12-chpt-7-friction-in-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8dce924d-bba4-5293-997f-0afe5384bf0b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1255,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book1/ch07.htm"
+    }
+  ]
+}

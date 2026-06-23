@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 30
-chapter_title: "CHAPTER XXII: THE PURCHASE PRICE"
+chapter_title: "Chapter XXIV: The Fiscal Mines of the Saar District"
 chapter_slug: 30
 variant_id: "49f19832-4fd5-5dd8-a3d5-b965def8cfb7"
 content_type: translation
@@ -13,21 +13,23 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 313
+word_count: 302
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-Telephones.—The Southern Canal.—Swiss Railways.—The Western Railroad.—The “Opération Blanche.”
+The Prussian Government Mines.—Decrease of Profits.
 
-When there is some undertaking to be purchased the partisans of nationalization and municipalization always start the ball rolling by saying: “Oh, it will cost practically nothing,” and then they proceed to reveal their economic limitations by making estimates which are invariably lower than the facts warrant.
+Not only railways, but all other state undertakings are exposed to commercial risks. Their profits do not always increase, as is proved by the fiscal mines belonging to the Prussian government. The following tables show the decease in the aggregate in the accounted profits of Prussian mining undertakings:
 
-When the French government decided to take over the telephone, it estimated the cost at 5,000,000 francs. The company demanded 18,800,000 francs. The state was finally forced to compromise at 9,313,000 francs, a figure which, with interest and costs added, ultimately increased to 11,334,000 francs, or 126 per cent. more than the first estimate.
+The enormous falling off after 1905 is readily seen; the decrease per workman is 48 per cent., compared with the previous period.
 
-Again, when the government determined to purchase the Southern canal, an outlay generally regarded as wholly unnecessary, advocates of the enterprise were unanimous in their enthusiasm over the manifest bargain. “It will cost the state nothing.” But the arbitration commission ordered the state to pay to the Southern company an annual indemnity of 750,000 francs, based on a capital of 25,000,000 francs.
+A similar decrease is to be noticed in all the mining enterprises except that of salt.
 
-Nor is France the only country furnishing examples of such frauds. Switzerland had similar experiences when she decided to purchase the railways. The Federal government appropriated a sum of 54,300,000 francs for the Central. The line actually cost her 75,000,000 francs, or 20,700,000 francs (36 per cent.) more.
+The decrease in the profits in government mining ventures is due, above all, to the coal mines of the Saar district.
 
-Fifty-four million francs was afterward appropriated for the Northeastern line; 82,000,000 francs, or 28,000,000 francs (51.8 per cent.) more, was the actual price. The original appropriation for the Swiss Union was 31,700,000 francs; 40,000,000 francs, or 26.2 per cent. more, was the final figure.
+The following triennial tables show the changes which have taken place since 1900 in the cost and the selling price per ton of the coal from these mines:
 
-An account of the government's underestimate of the cost of the Western line—the so-called “operation blanche” of M. Barthou—has already been described. The state had appropriated in all 220,000,000 francs to cover the cost of purchase. It actually paid 321,000,000 francs or more than 101,000,000 francs over the original estimate.
+The net cost has increased 48 per cent. and the profits have decreased 59 per cent. The budget established by the Prussian Department of Mines, Foundries, and Salt Works, has been worked out on new principles, such as a distinction between the costs of administration and the expenses of operation, reserves for new installations, current expenses, etc. Miscellaneous expenses, figuring heretofore in the general budget of the Prussian government, although really concerning financial operations, have been carried over to the budget of the Department of Mines, Foundries, and Salt Works. Hence, there is a decrease of 8,859,177 marks in the preliminary estimate of the net profit as compared with the budget of 1911.
+
+The gross profit upon Prussian fiscal mining enterprises was estimated for 1912 at 18,215,000 francs; the net profit at 5,938,000 francs. It should be explained, however, that a certain amount had been previously deducted for the Academy of Mines at Berlin, as well as for the Geological Institute.

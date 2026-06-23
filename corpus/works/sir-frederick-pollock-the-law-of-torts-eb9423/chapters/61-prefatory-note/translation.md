@@ -1,0 +1,23 @@
+---
+work_id: "eb9423e0-ba11-50e8-a797-dd4d5059432a"
+work_slug: "sir-frederick-pollock-the-law-of-torts-eb9423"
+work_title: The Law of Torts
+author_name: Sir Frederick Pollock
+chapter_number: 61
+chapter_title: Prefatory Note.
+chapter_slug: "61-prefatory-note"
+variant_id: "44b6c5f9-f361-5559-a026-235334e96dda"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 485
+source_url: "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+translator: Online Library of Liberty edition
+---
+
+Towards the end of 1882 I was instructed by the Government of India to prepare a draft Bill to codify the law of Civil Wrongs, or so much of it as might appear to be of general practical importance in British India. The draft was constructed pari passu with the writing of the present book, or very nearly so, and it was provisionally completed in 1886; it is now published with the consent of the Secretary of State for India. The text is given as it then stood, but the notes which accompanied it are considerably abridged. I have inserted in square brackets a few additional references and remarks, chiefly made necessary by important decisions given since the draft was completed. The Government of India has not finally decided whether it is desirable to codify the law on the subject at present. Sir Henry Maine thought many years ago that the time was ripe for it; but I understand that a considerable majority of the opinions which have lately been collected from judicial and other officers in India are unfavourable to action.
+
+It may be proper to explain that the draft as it stands is not the mere production of an English lawyer unacquainted with India, but represents a certain amount of consideration and discussion by specially competent critics. In the preparation of the Bill I had, in particular, the advantage of constant criticism from Sir A. Macpherson and Sir William Markby, who (I need hardly say) were excellently qualified both by their English learning and by their Indian judicial experience; and, without assuming to make either of those learned persons at all answerable for my work, I ought to say that their criticism was the direct cause of material improvement in several points. A careful memorandum on the earlier parts of the draft was prepared by Mr. (since Justice) Syed Mahmud, and to this also I am indebted for good suggestions. Further, I endeavoured, so far as I had opportunity in England, to procure criticism and suggestions from Indian judicial and executive officers, with reference to the possible working of a code of Civil Wrongs in rural districts and in the non-regulation Provinces. Although such opportunities were limited, I thus had the benefit of acute and valuable remarks of which the substance was embodied in the draft or in the notes to it. The letter of my instructions would have justified me in merely stating in the form of a declaratory Act what I conceived to be the English law, and leaving all questions of Indian law and usage to be dealt with separately by the Government of India; but such a course did not appear to be reasonably practicable. The reader will therefore bear in mind that in certain places the draft Bill deliberately departs from existing English law. Special attention is called to all such departures, and the reasons for them indicated.

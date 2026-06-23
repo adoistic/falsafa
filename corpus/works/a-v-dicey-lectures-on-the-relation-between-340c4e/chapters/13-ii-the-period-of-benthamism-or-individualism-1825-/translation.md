@@ -13,9 +13,9 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 117
+word_count: 113
 source_url: "https://oll.libertyfund.org/titles/dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919"
 translator: Online Library of Liberty edition
 ---
 
-This was the era of utilitarian reform. Legislation was governed by the body of opinion, popularly, and on the whole rightly, connected with the name of Bentham. The movement of which he, if not the creator, was certainly the prophet, was above all Edition: current; Page: [64] things a movement for the reform of the law. Hence it has affected, though in very different degrees, every part of the law of England. It has stimulated the constant activity of Parliament, it has swept away restraints on individual energy, and has exhibited a deliberate hostility to every historical anomaly or survival, which appeared to involve practical inconvenience, or in any way to place a check on individual freedom.
+This was the era of utilitarian reform. Legislation was governed by the body of opinion, popularly, and on the whole rightly, connected with the name of Bentham. The movement of which he, if not the creator, was certainly the prophet, was above all things a movement for the reform of the law. Hence it has affected, though in very different degrees, every part of the law of England. It has stimulated the constant activity of Parliament, it has swept away restraints on individual energy, and has exhibited a deliberate hostility to every historical anomaly or survival, which appeared to involve practical inconvenience, or in any way to place a check on individual freedom.

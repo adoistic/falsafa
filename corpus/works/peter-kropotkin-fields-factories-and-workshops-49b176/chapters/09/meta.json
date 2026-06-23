@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-fields-factories-and-workshops-49b176",
+  "work_title": "Fields, Factories, and Workshops",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 8 : Brain Work and Manual Work",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cba47a22-2658-50cd-99ca-8de8ee9c7e2c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9313,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/chapter-8.html"
+    }
+  ]
+}

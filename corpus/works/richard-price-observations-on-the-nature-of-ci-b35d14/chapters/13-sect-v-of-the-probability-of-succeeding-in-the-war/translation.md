@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 13
-chapter_title: "SECT. V.: Of the Probability of Succeeding in the War with America."
+chapter_title: "Sect. V.: Of the Probability of Succeeding in the War with America."
 chapter_slug: "13-sect-v-of-the-probability-of-succeeding-in-the-war"
 variant_id: "e82c5561-e747-578b-a256-5b2a7d95500d"
 content_type: translation

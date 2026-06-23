@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c"
 work_title: The Positive Theory of Capital
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 26
-chapter_title: "Book IV, Chapter I: The Fundamental Law"
+chapter_title: "Book IV: Price, Book IV, Chapter I: The Fundamental Law"
 chapter_slug: 26
 variant_id: "d8899bf1-05fa-56a1-b1f7-c9e1d944620c"
 content_type: translation

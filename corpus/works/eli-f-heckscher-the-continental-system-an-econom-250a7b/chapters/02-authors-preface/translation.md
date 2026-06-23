@@ -4,7 +4,7 @@ work_slug: "eli-f-heckscher-the-continental-system-an-econom-250a7b"
 work_title: "The Continental System: An Economic Interpretation"
 author_name: Eli F. Heckscher
 chapter_number: 2
-chapter_title: "AUTHOR'S PREFACE"
+chapter_title: "Author's Preface"
 chapter_slug: "02-authors-preface"
 variant_id: "87b842bf-7700-57a1-8419-b8161c2bbd1a"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 14,
+  "chapter_title": "Part 4, Chapter 1: Gerhart Hauptmann, Lonely Lives",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a7a7da6-cfa3-5c27-bae3-24c694a8965d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2640,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-4-chapter-1.html"
+    }
+  ]
+}

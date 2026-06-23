@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-literature-and-revolution-9b02a3",
+  "work_title": "Literature and Revolution",
+  "chapter_number": 11,
+  "chapter_title": "Marietta Shaginyan",
+  "chapter_slug": "11-marietta-shaginyan",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f9efe91e-de25-5652-8910-00c48d5211c5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 720,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1924/lit_revo/ch02.htm"
+    }
+  ]
+}

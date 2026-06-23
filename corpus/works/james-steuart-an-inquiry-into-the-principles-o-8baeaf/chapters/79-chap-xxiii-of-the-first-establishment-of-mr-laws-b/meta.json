@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 79,
+  "chapter_title": "Chap. XXIII: Of the first Establishment of Mr Law's Bank in France, in the year 1716",
+  "chapter_slug": "79-chap-xxiii-of-the-first-establishment-of-mr-laws-b",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3de0f804-4343-5a48-ac67-91d6b0b16574",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 464,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+    }
+  ]
+}

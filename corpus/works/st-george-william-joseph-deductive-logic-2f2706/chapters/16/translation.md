@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 16
-chapter_title: Chapter XXV
+chapter_title: Chapter XXIV
 chapter_slug: 16
 variant_id: "bba970cd-f65f-5c1e-9c08-e2a3d7c83760"
 content_type: translation
@@ -13,43 +13,61 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 410
+word_count: 511
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-*The Disjunctive Syllogism regarded as an Immediate Inference*.
+*Of the Reduction of the Disjunctive Syllogism.*
 
-§ 770. If no stress be laid on the transition from disjunctive hypothesis to fact, the disjunctive syllogism will run with the same facility as its predecessor into the moulds of immediate inference.
+§ 766. We have seen that in the disjunctive syllogism the two constructive moods alone are formally valid. The first of these, namely, the denial of the antecedent, will in all cases give a simple syllogism in the first figure; the second of them, namely, the denial of the consequent, will in all cases give a simple syllogism in the second figure.
 
-*Denial of Antecedent*. Subalternation.
+*Denial of Antecedent* = Barbara.
 
-Either A is B or C is D, Every case of A not being B is a case of C being D. .'. A not being B, C is D. .'. Some case of A not being B is a case of C being D.
+Either A is B or C is D. A is not B. .'.C is D
 
-*Denial of Consequent*. Conversion by Contraposition + Subalternation.
+is equal to
 
-Either A is B or C is D. All cases of A not being B are cases of C being D. .'. C not being D, A is B .'. All cases of C not being D are cases of A being B. .'. Some case of C not being D is a case of A being B.
+is equal to
 
-§ 773. Similarly the two invalid types of disjunctive syllogism will be found to coincide with fallacies of immediate inference.
+All cases of A not being B are cases of C being D. This is a case of A not being B. .'. This is a case of C being D.
 
-*Affirmation of Antecedent*. Contraposition without Conversion.
+*Denial of Consequent* = Camestres.
 
-Either A is B or C is D. All cases of A not being B are cases of C being D. .'. A being B, C is not D .'. All cases of A being B are cases of C not being D.
+Either A is E or C is D. C is not D. .'. A is B.
 
-§ 775. The affirmation of the antecedent thus comes under the formula--
+is equal to
 
-All not-A is B, .'. All A is not-B,
+is equal to
 
-a form of inference which cannot hold except where A and B are known to be incompatible. Who, for instance, would assent to this?--
+All cases of A not being B are cases of C being D. This is not a case of C being D. .'. This is not a case of A being B.
 
-All non-boating men play cricket. .'. All boating men are non-cricketers.
+§ 767. The other moods of the first and second figures can be obtained by varying the quality of the antecedent and consequent in the major premiss and reducing the quantity of the minor.
 
-*Affirmation of Consequent*. Simple Conversion of A.
+§ 768. The invalid destructive moods correspond with the two invalid types of the partly conjunctive syllogism, and have the same fallacies of simple syllogism underlying them. Affirmation of the antecedent of a disjunctive is equivalent to the semi-conjunctive fallacy of denying the antecedent, and therefore involves the ordinary syllogistic fallacy of illicit process of the major.
 
-Either A is B or C is D. All cases of A not being B are cases of C being D. .'.C being D, A is not B. .'. All cases of C being D are cases of A not being B.
+Affirmation of the consequent of a disjunctive is equivalent to the same fallacy in the semi-conjunctive form, and therefore involves the ordinary syllogistic fallacy of undistributed middle.
 
-§ 777. We may however argue in this way--
+*Affirmation of Antecedent* = *Illicit Major*.
 
-Conversion of A per accidens. Either A is B or C is D. All cases of A not being B are cases of C being D. .'. C being D, A is sometimes B. .'. Some cases of C being D are cases of A not being B.
+Either A is B or C is D. A is B. .'. C is not D.
 
-The men who pass this examination must have either talent or industry. .'. Granting that they are industrious, they may be without talent.
+is equal to
+
+is equal to
+
+All cases of A not being B are cases of C being D. This is not a case of A not being B. .'. This is not a case of C not being D.
+
+*Affirmation of Consequent* = *Undistributed Middle*.
+
+Either A is B or C is D. C is D.
+
+is equal to
+
+If A is not B, C is D. C is D.
+
+is equal to
+
+All cases of A not being B are cases of C being D. This is a case of C being D.
+
+§ 769. So far as regards the consequent, the two species of complex reasoning hitherto discussed are identical both in appearance and reality. The apparent difference of procedure in the case of the antecedent, namely, that it is affirmed in the partly conjunctive, but denied in the disjunctive syllogism, is due merely to the fact that in the disjunctive proposition the truth of the consequent is involved in the falsity of the antecedent, so that the antecedent being necessarily negative, to deny it in appearance is in reality to assert it.

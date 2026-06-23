@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 85,
+  "chapter_title": "The Debate of 1819.",
+  "chapter_slug": "85-the-debate-of-1819",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d1ab3205-b943-53c6-b6f9-b988f10a84e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1395,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 66,
+  "chapter_title": "Chap. III : Of Banks",
+  "chapter_slug": "66-chap-iii-of-banks",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f8511991-bf89-5583-97c1-10565607b56c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1312,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+    }
+  ]
+}

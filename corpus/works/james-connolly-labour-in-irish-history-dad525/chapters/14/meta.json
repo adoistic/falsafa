@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-labour-in-irish-history-dad525",
+  "work_title": "Labour in Irish History",
+  "chapter_number": 14,
+  "chapter_title": "Chapter XI An Irish Utopia",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "93c9c5b8-e7e9-5740-98d4-349a69272c45",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2170,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1910/lih/chap11.htm"
+    }
+  ]
+}

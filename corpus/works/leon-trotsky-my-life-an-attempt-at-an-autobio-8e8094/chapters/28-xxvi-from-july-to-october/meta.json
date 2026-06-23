@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 28,
+  "chapter_title": "XXVI. From July to October",
+  "chapter_slug": "28-xxvi-from-july-to-october",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8315ebe-af7f-546b-ad6d-3f68587523b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3686,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch26.htm"
+    }
+  ]
+}

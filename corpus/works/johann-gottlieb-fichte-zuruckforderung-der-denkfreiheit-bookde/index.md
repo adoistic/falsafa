@@ -5,6 +5,8 @@ title: Zurückforderung der Denkfreiheit von den Fürsten Europens
 author:
   name: Johann Gottlieb Fichte
   biography: "German philosopher (1762-1814), one of the founding figures of German idealism. His works on self-consciousness, freedom, and political philosophy significantly influenced subsequent philosophical thought."
+  birth_year: 1762
+  death_year: 1814
   nationality: Germany
 era: Enlightenment
 genre: "Political & Social Theory"

@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-the-decline-of-capitalism-bfcb39",
+  "work_title": "The Decline of Capitalism",
+  "chapter_number": 6,
+  "chapter_title": "V. The Decline in the World-economic Division of Labour and the Crisis of the European Industrial Countries",
+  "chapter_slug": "06-v-the-decline-in-the-world-economic-division-of-la",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "21ada8de-4068-5514-b1ff-6c181a94ad4b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1059,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1924/x01/x01.htm"
+    }
+  ]
+}

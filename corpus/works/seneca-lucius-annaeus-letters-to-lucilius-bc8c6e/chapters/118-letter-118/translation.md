@@ -1,0 +1,52 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 118
+chapter_title: Letter 118
+chapter_slug: "118-letter-118"
+variant_id: "ac1d570a-24e2-5123-b6ba-cc20ae53c65f"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1483
+translator: thothica
+---
+
+1. You demand of me more frequent letters. Let us compare accounts; you will not be able to pay. It had indeed been agreed that yours should come first, that you should write, and I should answer. But I will not be difficult; I know you can be trusted on credit. And so I will give in advance, and will not do what Cicero, that most eloquent man, bids Atticus do, that even if he has no matter to write of, he should write whatever comes to his lips.
+
+2. There can never be lacking something for me to write, even if I pass over all those things which fill Cicero's letters: which candidate is in trouble; who fights with another's forces, who with his own; who seeks the consulship trusting in Caesar, who in Pompey, who in his money-chest; how harsh a usurer is Caecilius, from whom his kinsmen cannot move a coin at less than twelve per cent. It is better to deal with one's own ills than another's, to sift oneself and see for how many things one is a candidate, and not to canvass for them.
+
+3. This, my dear Lucilius, is the excellent thing, this the secure and free thing, to seek nothing and to pass by all the elections of fortune. How pleasant do you think it is, when the tribes have been called, while the candidates hang in suspense in their temples, and one promises money, another acts through an agent, another wears out with kisses the hands of those whose hand, once elected, he will refuse to let be touched, while all in suspense await the voice of the herald, to stand idle and look upon that market without buying anything or selling?
+
+4. With how much greater joy does he take his fill who looks on, free from care, not at the praetorian or consular elections, but at those great ones, in which some seek yearly honours, others perpetual powers, others prosperous outcomes of wars and triumphs, others riches, others marriages and children, others the safety of themselves and of their own! How great a thing of the spirit it is to be the only one who seeks nothing, who supplicates no one, and to say: "I have nothing to do with you, fortune. I do not give you a hold on me. I know that with you the Catos are rejected, the Vatiniuses made. I ask nothing." This is to make fortune a private citizen.
+
+5. We may, then, write these things to one another in turn, and always draw upon this material, ever fresh, as we look round at so many thousands of restless men, who, that they may attain something pestilent, strive through evils toward evil, and seek things soon to be fled from or even disdained.
+
+6. For to whom, when he had attained it, was that enough which, while he longed for it, seemed too much? Happiness is not, as men suppose, greedy, but petty; and so it satisfies no one. You think those things lofty because you lie far from them; but to him who has reached them they are low. I lie, if he does not still seek to climb higher; that which you think the summit is a step.
+
+7. But ignorance of the truth keeps all men in evil case; deceived by rumours, they are borne along as toward goods, then, having attained them and suffered much, they see that they are evils, or empty, or less than they had hoped. And the greater part marvel at things that deceive from a distance, and to the crowd good things pass for great.
+
+8. That this may not befall us too, let us inquire what the good is. Its interpretation has been various; one man has expressed it one way, another another. Some define it thus: the good is that which invites our minds, which calls us to itself. Against this it is at once objected: what if it invites indeed, but to our ruin? You know how many evils are alluring. The true and the like-the-true differ from each other; thus what is good is joined to the true; for it is not good unless it is true. But that which invites to itself and entices is like-the-true; it steals upon us, it solicits, it draws us on.
+
+9. Some have defined it thus: the good is that which moves a seeking after itself, or that which moves the impulse of a mind tending toward it. And to this the same objection is made; for many things move the impulse of the mind which are sought to the harm of those who seek them. Better did those who defined it thus: the good is that which moves toward itself the impulse of the mind according to Nature, and is then at last to be sought, when it has begun to be worth seeking. Now it is also honourable; for this is what is perfectly to be sought.
+
+10. The subject itself reminds me to say what the difference is between the good and the honourable. They have something mingled and inseparable between them: there cannot be a good unless there is something honourable in it, and the honourable is certainly good. What, then, is the difference between the two? The honourable is the perfect good, by which the happy life is completed, and by whose contact other things also become goods.
+
+11. What I say is this: there are certain things neither good nor evil, such as military service, an embassy, the administration of justice. When these are honourably administered, they begin to be goods, and pass over from the doubtful into the good. The good is made by partnership with the honourable; the honourable is good of itself. The good flows from the honourable, the honourable is of itself. What is good could have been evil; what is honourable could not have been anything but good.
+
+12. Some have rendered this definition: the good is that which is according to Nature. Attend to what I say: what is good is according to Nature; but not at once is what is according to Nature also good. Many things indeed agree with Nature, but are so petty that the name of good does not befit them. For they are slight, to be despised. There is no smallest good to be despised; for so long as it is slight, it is not good; when it has begun to be good, it is not slight. Whence is the good recognised? If it is perfectly according to Nature.
+
+13. "You admit," you say, "that what is good is according to Nature; this is its property. You admit that other things too are according to Nature indeed, but are not good. How then is the one good, when these are not? How does it come to a different property, when to both that chief thing is common, to be according to Nature?"
+
+14. By its very greatness, of course. Nor is this anything new, that certain things are changed by growing. It was an infant; it became a youth, its property becomes different. For the one is irrational, the other rational. Certain things by increase pass out not only into something greater, but into something else.
+
+15. "That which becomes greater," he says, "does not become something else. Whether you fill a flagon or a cask with wine, it makes no difference; in either the property of wine is present. Both a small weight of honey and a great one do not differ in taste." You set down examples that are different; for in those the quality is the same; however much they are increased, it remains.
+
+16. Certain things, when amplified, endure in their own kind and in their own property. Certain things, after many increases, the last addition at length transforms, and stamps upon them a new condition, other than that in which they were. One stone makes the arch, that one which has wedged the leaning sides and bound them by its interposition. Why does the last addition, though slight, do the most? Because it does not increase, but completes.
+
+17. Certain things by their advance put off their former form and pass into a new one. When the mind has long extended something, and, wearied by following its greatness, has begun to call it infinite, this has become far other than it was when it seemed great, but finite. In the same way we have conceived of a thing as cut with difficulty; at last, as this difficulty grows, it is found to be uncuttable. So from that which was moved with toil and pain we have advanced to the immovable. By the same reasoning a thing was according to Nature; its greatness has carried it over into another property and made it a good. Farewell.

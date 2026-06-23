@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 23,
+  "chapter_title": "Chapter 22 : First Days In Kharkov",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3200545a-12f2-528d-a7ed-eb3355e2573a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3123,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-22.html"
+    }
+  ]
+}

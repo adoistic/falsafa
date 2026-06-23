@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "c6136ddc-2c41-54ee-aa79-28c4f94f821d"
 content_type: translation

@@ -1,197 +1,117 @@
 [
   {
-    "id": "p-08a3b0",
+    "id": "p-715a41",
     "offset": 0,
-    "text": "*Of the Syllogism with three figures.*"
+    "text": "*Of the Special Uses of the Four Figures.*"
   },
   {
-    "id": "p-dd4597",
-    "offset": 40,
-    "text": "§ 656. It will be remembered that in beginning to treat of figure (§ 565) we pointed out that there were either four or three ligures possible according as the conclusion was assumed to be known or not. For, if the conclusion be not known, we cannot distinguish between the major and the minor term, nor, consequently, between one premiss and another. On this view the first and the fourth figures are the same, being that arrangement of the syllogism in which the middle term occupies a different position in one premiss from what it does in the other. We will now proceed to constitute the legitimate moods and figures of the syllogism irrespective of the conclusion."
+    "id": "p-9c4e0b",
+    "offset": 44,
+    "text": "§ 648. The first figure is useful for proving the properties of a thing."
   },
   {
-    "id": "p-910916",
-    "offset": 711,
-    "text": "§ 657. When the conclusion is set out of sight, the number of possible moods is the same as the number of combinations that can be made of the four things, A, E, I, O, taken two together, without restriction as to repetition. These are the following 16:--"
+    "id": "p-19e960",
+    "offset": 118,
+    "text": "§ 649. The second figure is useful for proving distinctions between things."
   },
   {
-    "id": "p-9f3f78",
-    "offset": 968,
-    "text": "of which seven may be neglected as violating the general rules of the syllogism, thus leaving us with nine valid moods--"
+    "id": "p-45efd9",
+    "offset": 195,
+    "text": "§ 650. The third figure is useful for proving instances or exceptions."
   },
   {
-    "id": "p-e9f13b",
-    "offset": 1090,
-    "text": "§ 658. We will now put these nine moods successively into the three figures. By so doing it will become apparent how far they are valid in each."
+    "id": "p-b84a59",
+    "offset": 267,
+    "text": "§ 651. The fourth figure is useful for proving the species of a genus."
   },
   {
-    "id": "p-d721db",
-    "offset": 1236,
-    "text": "§ 659. Let it be premised that"
+    "id": "p-8ec9a0",
+    "offset": 339,
+    "text": "FIGURE 1."
   },
   {
-    "id": "p-58611c",
-    "offset": 1268,
-    "text": "when the extreme in the premiss that stands first is predicate in the conclusion, we are said to have a Direct Mood;"
+    "id": "p-569c93",
+    "offset": 350,
+    "text": "B is or is not A. C is B. .'. C is or is not A."
   },
   {
-    "id": "p-bf8b76",
-    "offset": 1386,
-    "text": "when the extreme in the premiss that stands second is predicate in the conclusion, we are said to have an Indirect Mood."
+    "id": "p-306220",
+    "offset": 399,
+    "text": "We prove that C has or has not the property A by predicating of it B, which we know to possess or not to possess that property."
   },
   {
-    "id": "p-e2dcb9",
-    "offset": 1508,
-    "text": "*Mood AA.* All B is A. All C is B. .'. All C is A, or Some A is C, (Barbara & Bramantip)."
+    "id": "p-6ef6ab",
+    "offset": 528,
+    "text": "Luminous objects are material. Comets are luminous. .'. Comets are material."
   },
   {
-    "id": "p-efa369",
-    "offset": 1599,
-    "text": "*Mood AE.* All B is A. No C is B. .'. Illicit Process, or Some A is not C, (Fesapo)."
+    "id": "p-8b3e88",
+    "offset": 606,
+    "text": "No moths are butterflies. The Death's head is a moth. .'. The Death's head is not a butterfly."
   },
   {
-    "id": "p-441d4d",
-    "offset": 1685,
-    "text": "*Mood AI.* All B is A. Some C is B. .'. Some C is A, or Some A is C. (Darii & Disamis)."
+    "id": "p-abcb76",
+    "offset": 702,
+    "text": "FIGURE II."
   },
   {
-    "id": "p-2a672c",
-    "offset": 1774,
-    "text": "*Mood AO.* All B is A. Some C is not B. .'. Illicit Process, (Ferio)."
+    "id": "p-64e048",
+    "offset": 714,
+    "text": "We establish the distinction between C and A by showing that A has an attribute which C is devoid of, or is devoid of an attribute which C has."
   },
   {
-    "id": "p-bb17e1",
-    "offset": 1845,
-    "text": "*Mood EA.* No B is A. All C is B. .'. No C is A, or No A is C, (Celarent & Camenes)."
+    "id": "p-792991",
+    "offset": 859,
+    "text": "All fishes are cold-blooded. A whale is not cold-blooded. .'. A whale is not a fish."
   },
   {
-    "id": "p-f7341a",
-    "offset": 1931,
-    "text": "*Mood EI.* No B is A. Some C is B. .'. Some C is not A, or Illicit Process."
+    "id": "p-f9aa65",
+    "offset": 945,
+    "text": "No fishes give milk. A whale gives milk. .'. A whale is not a fish."
   },
   {
-    "id": "p-42c0ec",
-    "offset": 2008,
-    "text": "*Mood IA.* Some B is A. All C is B. .'. Undistributed Middle."
+    "id": "p-573beb",
+    "offset": 1014,
+    "text": "FIGURE III."
   },
   {
-    "id": "p-d5fa08",
-    "offset": 2071,
-    "text": "*Mood IE.* Some B is C. Some B is not A. No A is B. All C is B. .'. Illicit Process, or Some C is not A, (Fresison)."
+    "id": "p-9ebcfd",
+    "offset": 1027,
+    "text": "We produce instances of C being A by showing that C and A meet, at all events partially, in B. Thus if we wish to produce an instance of the compatibility of great learning with original powers of thought, we might say"
   },
   {
-    "id": "p-79dad4",
-    "offset": 2189,
-    "text": "*Mood OA.* Some B is not A. All C is B. .'. Undistributed Middle."
+    "id": "p-52a347",
+    "offset": 1247,
+    "text": "Sir William Hamilton was an original thinker. Sir William Hamilton was a man of great learning. .'. Some men of great learning are original thinkers."
   },
   {
-    "id": "p-4a81d6",
-    "offset": 2256,
-    "text": "§ 661. Thus we are left with six valid moods, which yield four direct conclusions and five indirect ones, corresponding to the four moods of the original first figure and the five moods of the original fourth, which appear now as indirect moods of the first figure."
+    "id": "p-4ea053",
+    "offset": 1398,
+    "text": "Or we might urge an exception to the supposed rule about Scotchmen being deficient in humour under the same figure, thus--"
   },
   {
-    "id": "p-88492c",
-    "offset": 2523,
-    "text": "§ 662. But why, it maybe asked, should not the moods of the first figure equally well be regarded as indirect moods of the fourth? For this reason-that all the moods of the fourth figure can be elicited out of premisses in which the terms stand in the order of the first, whereas the converse is not the case. If, while retaining the quantity and quality of the above premisses, i. e. the mood, we were in each case to transpose the terms, we should find that we were left with five valid moods instead of six, since AI in the reverse order of the terms involves undistributed middle; and, though we should have Celarent indirect to Camenes, and Darii to Dimaris, we should never arrive at the conclusion of Barbara or have anything exactly equivalent to Ferio. In place of Barbara, Bramantip would yield as an indirect mood only the subaltern AAI in the first figure. Both Fesapo and Fresison would result in an illicit process, if we attempted to extract the conclusion of Ferio from them as an indirect mood. The nearest approach we could make to Ferio would be the mood EAO in the first figure, which may be elicited indirectly from the premisses of CAMENES, being subaltern to CELARENT. For these reasons the moods of the fourth figure are rightly to be regarded as indirect moods of the first, and not vice versâ."
+    "id": "p-f4a070",
+    "offset": 1522,
+    "text": "Sir Walter Scott was not deficient in humour. Sir Walter Scott was a Scotchman. .'. Some Scotchmen are not deficient in humour."
   },
   {
-    "id": "p-f16b85",
-    "offset": 3844,
-    "text": "*Mood AA.* All A is B. All C is B. .'. Undistributed Middle."
+    "id": "p-29ce7b",
+    "offset": 1651,
+    "text": "FIGURE IV."
   },
   {
-    "id": "p-a69bfb",
-    "offset": 3906,
-    "text": "*Mood AE.* All A is B. No C is B. .'. No C is A, or No A is C, (Camestres & Cesare)."
+    "id": "p-b023e2",
+    "offset": 1663,
+    "text": "All A is B, No A is B. All B is C. All B is C. .'. Some C is A .'.Some C is not A."
   },
   {
-    "id": "p-17912f",
-    "offset": 3992,
-    "text": "*Mood AI.* All A is B. Some C is B. .'. Undistributed Middle."
+    "id": "p-4fbe4d",
+    "offset": 1747,
+    "text": "We show here that A is or is not a species of C by showing that A falls, or does not fall, under the class B, which itself falls under C. Thus--"
   },
   {
-    "id": "p-2e84b9",
-    "offset": 4055,
-    "text": "*Mood AO.* All A is B. Some C is not B. .'. Some C is not A, (Baroko), or Illicit Process."
-  },
-  {
-    "id": "p-543779",
-    "offset": 4147,
-    "text": "*Mood EA.* No A is B. All C is B. .'. No C is A, or No A is C, (Cesare & Carnestres)."
-  },
-  {
-    "id": "p-35ad46",
-    "offset": 4234,
-    "text": "*Mood EI* No A is B. Some C is B. .'. Some C is not A, (Festino), or Illicit Process."
-  },
-  {
-    "id": "p-67f312",
-    "offset": 4321,
-    "text": "*Mood IA.* Some A is B. All C is B. .'. Undistributed Middle."
-  },
-  {
-    "id": "p-3a40f8",
-    "offset": 4384,
-    "text": "*Mood IE.* Some A is B. No C is B. .'. Illicit Process, or Some A is not C, (Festino)."
-  },
-  {
-    "id": "p-e1669e",
-    "offset": 4472,
-    "text": "*Mood OA.* Some A is not B. All C is B. .'. Illicit Process, or Some A is not C, (Baroko)."
-  },
-  {
-    "id": "p-a1d418",
-    "offset": 4564,
-    "text": "§ 664. Here again we have six valid moods, which yield four direct conclusions corresponding to Cesare, CARNESTRES, FESTINO and BAROKO. The same four are repeated in the indirect moods."
-  },
-  {
-    "id": "p-e6b65b",
-    "offset": 4751,
-    "text": "*Mood AA.* All B is A. All B is C. .'. Some C is A, or Some A is C, (Darapti)."
-  },
-  {
-    "id": "p-44a86f",
-    "offset": 4831,
-    "text": "*Mood AE.* All B is A. No B is C. .'. Illicit Process, or Some A is not C, (Felapton)."
-  },
-  {
-    "id": "p-760a9c",
-    "offset": 4919,
-    "text": "*Mood AI.* All B is A, Some B is C. .'. Some C is A, or Some A is C, (Datisi & Disamis)."
-  },
-  {
-    "id": "p-0da21c",
-    "offset": 5009,
-    "text": "*Mood AO.* All B is A. Some B is not C. .'. Illicit Process, Or Some A is not C, (Bokardo)."
-  },
-  {
-    "id": "p-649388",
-    "offset": 5102,
-    "text": "*Mood EA.* No B is A. All B is C. .'. Some C is not A, (Felapton), or Illicit Process."
-  },
-  {
-    "id": "p-276ca6",
-    "offset": 5190,
-    "text": "*Mood EI.* No B is A. Some B is C. .'. Some C is not A, (Ferison), or Illicit Process."
-  },
-  {
-    "id": "p-a47d87",
-    "offset": 5278,
-    "text": "*Mood IA.* Some B is A. All B is C. .'. Some C is A, Or Some A is C, (Disamis & Datisi)."
-  },
-  {
-    "id": "p-68d3f8",
-    "offset": 5368,
-    "text": "*Mood IE.* Some B is A. No B is C. .'. Illicit Process, or Some A is not C, (Ferison)."
-  },
-  {
-    "id": "p-1c2605",
-    "offset": 5456,
-    "text": "*Mood QA.* Some B is not A. All B is C. .'. Some C is not A, (Bokardo), or Illicit Process."
-  },
-  {
-    "id": "p-5344c9",
-    "offset": 5549,
-    "text": "§ 666. In this figure every mood is valid, either directly or indirectly. We have six direct moods, answering to Darapti, Disamis, Datisi, Felapton, Bokardo and Ferison, which are simply repeated by the indirect moods, except in the case of Darapti, which yields a conclusion not provided for in the mnemonic lines. Darapti, though going under one name, has as much right to be considered two moods as Disamis and Datisi."
+    "id": "p-4e2e0e",
+    "offset": 1893,
+    "text": "All whales are mammals. All mammals are warm-blooded. .'. Some warm-blooded animals are whales. No whales are fishes. All fishes are cold-blooded. .'. Some cold-blooded animals are not whales."
   }
 ]

@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 40,
-  "chapter_title": "CHAPTER XXX.: ON THE INFLUENCE OF DEMAND AND SUPPLY ON PRICES.",
+  "chapter_title": "Chapter XXXI.: On Machinery",
   "chapter_slug": "40",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1023,
-      "paragraph_count": 14,
+      "word_count": 3639,
+      "paragraph_count": 30,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

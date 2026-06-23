@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1950
+word_count: 1938
 source_url: "https://oll.libertyfund.org/titles/walker-political-economy"
 translator: Online Library of Liberty edition
 ---
@@ -24,7 +24,7 @@ translator: Online Library of Liberty edition
 
 “Financiering,” then, may be regarded as the first banking function developed, in modern times. In the reign of William and Mary certain capitalists made a loan of £1,200,000 to the English government, receiving, in consideration therefor, a charter constituting them the Governor and Company of the Bank of England. Robert Morris's Bank of North America had a very similar origin. Under the present National Banking system of the United States, the bank begins by lending all, or nearly all, its capital to the government. The great war loans of the United States, 1861-5, were, in the main, “floated” by the banks.
 
-523. 2d. Book Credits of the Bank of Amsterdam.—The next banking function historically developed was that of giving the people good money in place of a medley of worn and clipped coins, of a great diversity of coinages, belonging Edition: current; Page: [434] to many nations. It was to serve this office that the banks of Northern Europe were created.
+523. 2d. Book Credits of the Bank of Amsterdam.—The next banking function historically developed was that of giving the people good money in place of a medley of worn and clipped coins, of a great diversity of coinages, belonging to many nations. It was to serve this office that the banks of Northern Europe were created.
 
 “Before 1609,” says Adam Smith, “the great quantity of clipped and worn foreign coin which the extensive trade of Amsterdam brought from all parts of Europe, reduced the value of its currency about 9 per cent. below that of good money, fresn from the mint. Such money no sooner appeared than it was melted down or carried away, as it always is in such circumstances. The merchants, with plenty of currency, could not always find a sufficient quantity of good money to pay their bills of exchange; and the value of those bills, in spite of several regulations which were made to prevent it, became in a great measure uncertain.
 
@@ -44,7 +44,7 @@ The transactions of such an institution in New York or London may amount to thir
 
 What is termed “Exchange,” is merely the principle of the cancellation of indebtedness between individuals of the same city, carried out to trading communities and nations. We shall speak, under a subsequent title, of the principles regulating Foreign Exchanges.
 
-This function, again, the bank to a great extent performs, and in so doing renders the trading community an immense service. If every merchant who had to pay money in another city or country were obliged to find out, for himself, some Edition: current; Page: [436] person who had the right to receive money at that place, at that time, and perhaps in the same sum, an inconceivable amount of inconvenience and delay, of vexation and disappointment, often resulting in commercial discredit, would be experienced.
+This function, again, the bank to a great extent performs, and in so doing renders the trading community an immense service. If every merchant who had to pay money in another city or country were obliged to find out, for himself, some person who had the right to receive money at that place, at that time, and perhaps in the same sum, an inconceivable amount of inconvenience and delay, of vexation and disappointment, often resulting in commercial discredit, would be experienced.
 
 If we may accept Mr. Henry Thornton's account of the rise of the country banks of England, it was through the gradual growth of exchange-operations between country shopkeepers and those of the cities, that these institutions came, almost unnoticed, into existence.
 
@@ -62,7 +62,7 @@ So important is this function that most European writers, when they speak of ban
 
 528.—7th. Issue of Paper Money.—To an American, however, the word, banking, is more likely to bring up the notion of paper money. The issue of such money is the seventh and the last of the banking functions which we have occasion to consider.
 
-That the making of money is not necessarily connected with deposit and discount, is abundantly established by the consent of all writers of authority in this field, as well as by Edition: current; Page: [438] the example of many of the greatest deposit banks of the world. “Issuing,” says Mr. Nicholson, “is creating money; banking is managing money after it has been issued.”
+That the making of money is not necessarily connected with deposit and discount, is abundantly established by the consent of all writers of authority in this field, as well as by the example of many of the greatest deposit banks of the world. “Issuing,” says Mr. Nicholson, “is creating money; banking is managing money after it has been issued.”
 
 “A bank of issue,” says Lord Overstone, “is intrusted with the creation of the circulating medium; a bank of deposit and discount is concerned only with the use, distribution or application of that circulating medium. The principles upon which these two branches of business ought to be conducted are perfectly distinct, and never can be reduced to one and the same rule.”
 

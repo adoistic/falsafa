@@ -4,7 +4,10 @@ slug: "tibullus-sulpicia-elegiae-2a0654"
 title: Sulpicia Elegiae
 author:
   name: Tibullus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman elegiac poet of the circle of Messalla, ranked with Propertius among the major Augustan love elegists. His two books of elegies, transmitted with the Corpus Tibullianum, gave Latin love poetry its smooth, idealized rural manner.
+  birth_year: -55
+  death_year: -19
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

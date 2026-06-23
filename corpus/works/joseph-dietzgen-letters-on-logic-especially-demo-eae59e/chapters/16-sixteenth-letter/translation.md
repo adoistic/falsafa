@@ -1,0 +1,65 @@
+---
+work_id: "eae59ecc-f6f9-5be4-838f-bd04dabd86e8"
+work_slug: "joseph-dietzgen-letters-on-logic-especially-demo-eae59e"
+work_title: "Letters on Logic. Especially Democratic-Proletarian Logic"
+author_name: Joseph Dietzgen
+chapter_number: 16
+chapter_title: Sixteenth Letter
+chapter_slug: "16-sixteenth-letter"
+variant_id: "0fb61ea5-71fd-5df4-918c-b57171a2d739"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1894
+source_url: "https://www.marxists.org/archive/dietzgen/1870s/letters-on-logic.htm"
+translator: Ernest Untermann
+---
+
+Now let me illustrate the interconnection of all things, or the world-unit, by discussing the question of causality. We know that everything has its cause. We know that this is also true on the Moon or on Uranus, although we have not acquired this knowledge by experience on those world bodies. Thus it seemed that the intellect was a mysterious receptacle containing innate wisdom. The same receptacle also contains, for instance, the truth that all white horses are white and all black horses black. We do not know anything about the color of other horses in other countries, but the color of black and white horses we know even if we have never seen them in other countries. It is thus apparent that our intellect is an instrument which reaches beyond experience. For this reason there would seem to be no telling where the supply of such miraculous revelations would stop and into what mysterious worlds the intellect passing beyond the limits of experience would lead us.
+
+In order that the human intellect may not appear transcendental, in order to give it its place in the general classification of natural forces, we must investigate the nature of causality and so-called a priori knowledge.
+
+Kindly observe in the first place that a thing is just as wonderful after it is explained as it was before its explanation. A scientific explanation of a thing ought not to do away with our admiration, but only to reduce it to reasonable bounds. The intellect may very well be regarded as something wonderful, but its wondrous quality should be reduced to the measure of all things which are none of them any less wonderful. After you have explained what water is, after you have learned that it is composed of two chemical elements, after you have realized all its qualities thoroughly, it still remains a wonderful, divine, fluid.
+
+“All things have their causes.” What are all things? They are attributes, qualities of the universe. It is innate in the intellect to know that the world is one thing, that all things belong, not to any different thing, but to one and the same subject. The intellect is by nature the absolute feeling of unity. It knows of itself that everything is interrelated and that the consciousness of causality is nothing else but the consciousness of cosmic interrelation. And I maintain that the innateness of the consciousness of cosmic interrelation in our brain is explained when we realize that it is an actual thing like all others, a phenomenon which has the same general nature as every other phenomenon.
+
+The fact is undeniable that a certain knowledge is innate in our consciousness. The only difficulty has been to explain this fact. At this point I call your attention to the exaggerated notion entertained in regard to explaining, and understanding, things. By explanations, a thing is not dissolved, but only classified.
+
+The hatching of an egg is explained when you perceive that this process is part and parcel of a whole class of similar processes. If you modify the exalted idea of the effect of explanations in this sense, you must realize that the innate consciousness of the general interrelation of things is natural and intelligible and requires no other explanation than the humidity of the water, the gravity of bodies, or the color of black horses.
+
+Even after it has been explained and understood, the intellect with its logic remains a wonderful thing. Just as clay is by its nature untransparent and pliable, or glass transparent and brittle, so consciousness has its peculiar innate qualities. In this way knowledge comes to the intellect not only by experience, but it is also a sort of receptacle full of wisdom. Still this receptacle would no more contain wisdom without experience than the eye would have impressions without light.
+
+In order to straighten out the intricate windings of our subject, I recapitulate them. We wish to learn the proper use of our intellect, the conscious application of consciousness. To this end we analyze its hitherto hidden mystical nature. So long as we exalt this nature transcendentally to the clouds, we do not acquire its proper use. Therefore the first paragraph of our lesson reads: The intellect belongs in the same category with all things of the universe. And the second paragraph says: If we distinguish two classes of thought radiated by the human intellect, viz., innate thoughts, such as causality, and on the other hand thoughts which come through experience, we must remember that such a distinction is correct only when we realize that in spite of this classification in two kinds they really belong to the same kind. Innate and acquired wisdom, though served on two different plates, still are taken from the same general world dish.
+
+From this it follows that the science of causality, though applicable to all the phenomena of the world, does not apply to the universe. If it is a fact that all wisdom is worldly, then one must not fly outside of the world with the concept of causality.
+
+This is the salient point at issue.
+
+All things are one thing, are interdependent, stand in the relation of cause and effect toward one another, or of genus and species. To say that all things have a cause means that they have a mother. The fact that every mother has a mother finds its final ending in the world mother or mother world, which is absolute and motherless and contains all mothers in its womb.
+
+Causes are mothers, effects are daughters. Every daughter has not only a mother, grand-mother, and great-grand-mother, but also a father, grand-father, and great-grand-father. The origin, or the family relationship, of a daughter is not one-sided, but all-sided. In the same way all things have not one, but many causes which flow together in the general cause.
+
+The intellect which has the innate knowledge that everything has its cause will accept the teaching that all causes in the world are founded in the absolute world cause and must return to it. It is the quintessence of logic not only to ascertain the true nature of the intellect, but also to elucidate the nature of the universe by the help of the intellect.
+
+All things have a mother, but to expect that the world mother should logically have a mother is to carry logic to extremities and to misunderstand the intellect and its art of reasoning.
+
+If you have recognized the faculty of understanding as a part of existence, you will not wonder at its miraculousness. Existence is wonderful. Its parts arise one out of the other, out of the universal interrelations of the one world. They all have their predecessors and causes. But what is true of the relative parts, is not true of the absolute whole.
+
+I am the son of my father and the father of my son. I am at the same time father and son. In the same way all things are simultaneously cause and effect. Although father and son are two different persons, still the capacity of being father and son rest in the same person, and although cause and effect are to be distinguished as two things, still they are two relations of the same thing. Persons and things, causes and effects, are not independent entities, but relative entities, are interconnections or relations of the absolute.
+
+The intellect is innate in us, and with it and through it also the consciousness of being, although it is innate in us only as the teeth of the child which grow after birth. Everything that we become aware of is known only as a part of the universe. In so far as this is wonderful, the consciousness of causality is miraculous. But, in fact, the knowledge of the causality of all things is innate wisdom the same as that of the color of all white and black horses. At the same time it must be observed that every innate knowledge is in part acquired, and every acquired knowledge in part innate, so that both kinds intermingle and form one category.
+
+My whole argument aims to convince you that all things are worldly things, and their causality is only another name for the same thing, just as the German brot is called pain in French and bread in English. Thus we derive the firm conviction that if there is pain in heaven there will be bread, and if there are things, there will be causes and effects, or interrelation with the unit of existence.
+
+The mystery of causality is sometimes expressed by the statement that we possess the indubitable knowledge which extends beyond all experience that wherever a change takes place there must have preceded another change. Indeed, we have the faculty of recognizing the unity in the infinite multiplicity, and infinite multiplicity in the unity. Multiplicity, change, motion – who is to split hairs about them, who will make fine distinctions? The intellect is the photographic organ of the infinite motion and transformations called the “world.” It is and possesses the consciousness of cosmic changes. Is it a wonder that it knows that there is interrelation in its things, that no part of the world, not a particle of its motion and transformations, stands alone by itself, that everything is connected and mutually dependent in and with the universe? Because this understanding is in a way innate in the intellect, therefore it understands that there is nothing but change, infinitely proceeding transformations. And if it detaches any single thing from this process, it knows that changes preceded it and changes will follow.
+
+In short, we must not marvel at any single part of nature, not even at the intellect, but admire the whole universe. Then fetishism will at last end and a true cult, the cult of world truth, can begin.
+
+The art of thinking, my dear Eugene, is not so easy. For this reason I keep on warning you against misunderstanding. I do not mean to advise you with the foregoing against admiring any single part of nature, or of art, a landscape or a statue. My teaching merely tends to moderate admiration by the reflection that the whole world is wonderful, that everything is beautiful, so that nothing ugly remains. The distinction between beautiful and ugly is only relative. Even when I say that the true worship of God, the cult of truth, cannot begin until idol worship ceases, you will appreciate the phrase and will not insinuate that I do not value the cultivation of science in the past, or that I hate idol worship to the extent of forgetting what I have emphasized repeatedly, viz., that idol worship is also worship of God, and error a paving stone on the way toward truth. The most minute thing is a magnitude. Everything is true, good, and beautiful, for the universe is absolute truth, beauty and goodness. I conclude with the words of Fr. von Sallet:
+
+A sunny view of world and life Is balm for brain and heart, It is with health and beauty rife, With noblest works of art. But do not for a moment think That it is captured in a wink.
+
+The golden harvest does not grow, Unless the early tempests blow. And only bitter woe and strain Will bright and lofty wisdom gain.

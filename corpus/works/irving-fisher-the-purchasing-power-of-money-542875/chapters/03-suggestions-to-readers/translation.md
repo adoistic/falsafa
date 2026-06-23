@@ -4,7 +4,7 @@ work_slug: "irving-fisher-the-purchasing-power-of-money-542875"
 work_title: The Purchasing Power of Money
 author_name: Irving Fisher
 chapter_number: 3
-chapter_title: SUGGESTIONS TO READERS
+chapter_title: Suggestions to Readers
 chapter_slug: "03-suggestions-to-readers"
 variant_id: "b2f3633b-4396-5730-83ca-4e73899aca14"
 content_type: translation

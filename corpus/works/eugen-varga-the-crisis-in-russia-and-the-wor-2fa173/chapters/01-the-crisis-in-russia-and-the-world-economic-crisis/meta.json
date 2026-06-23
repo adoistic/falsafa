@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-the-crisis-in-russia-and-the-wor-2fa173",
+  "work_title": "The Crisis in Russia and the World Economic Crisis",
+  "chapter_number": 1,
+  "chapter_title": "The Crisis in Russia and the World Economic Crisis",
+  "chapter_slug": "01-the-crisis-in-russia-and-the-world-economic-crisis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e64eaeb5-c90b-5644-8b60-f3ba3061ea48",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1367,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1922/06/crisis.html"
+    }
+  ]
+}

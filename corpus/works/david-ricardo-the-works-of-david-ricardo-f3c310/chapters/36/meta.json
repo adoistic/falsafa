@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 36,
-  "chapter_title": "CHAPTER XXVI.: ON GROSS AND NET REVENUE",
+  "chapter_title": "Chapter XXVII.: On Currency and Banks",
   "chapter_slug": "36",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1149,
-      "paragraph_count": 8,
+      "word_count": 6424,
+      "paragraph_count": 50,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-woman-suffrage-4f1702",
+  "work_title": "Woman Suffrage",
+  "chapter_number": 1,
+  "chapter_title": "Woman Suffrage",
+  "chapter_slug": "01-woman-suffrage",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a503de01-1312-5f6f-a74c-d9ed6ee2f30a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4318,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1911/woman-suffrage.htm"
+    }
+  ]
+}

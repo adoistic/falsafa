@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-schiller-aesthetical-essays-8efa06",
+  "work_title": "Aesthetical Essays",
+  "chapter_number": 17,
+  "chapter_title": "Letter XVI",
+  "chapter_slug": "17-letter-xvi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "16d3d4ae-fea7-542c-99fe-1d0927ac206c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1139,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6798"
+    }
+  ]
+}

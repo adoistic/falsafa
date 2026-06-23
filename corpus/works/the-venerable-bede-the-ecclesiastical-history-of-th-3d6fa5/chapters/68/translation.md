@@ -4,7 +4,7 @@ work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
 work_title: The Ecclesiastical History of the English Nation
 author_name: The Venerable Bede
 chapter_number: 68
-chapter_title: CHAPTER IX
+chapter_title: Chapter IX (3)
 chapter_slug: 68
 variant_id: "7e14dccc-0b3c-5e8d-a41f-2341d884aaa0"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 629
+word_count: 625
 source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
 translator: Online Library of Liberty edition
 ---
@@ -22,6 +22,6 @@ how miraculous cures have been frequently done in the place where king oswald wa
 
 Oswald, the most Christian king of the Northumbrians, reigned nine years, including that year which is to be held accursed for the brutal impiety of the king of the Britons, and the apostasy of the English kings; for, as was said above, it is agreed by the unanimous consent of all, that the names of the apostates should be erased from the catalogue of the Christian kings, and no date ascribed to their reign. After which period, Oswald was killed in a great battle, by the same pagan nation and pagan king of the Mercians, who had slain his predecessor Edwin, at a place called in the English tongue Maserfield, in the thirty-eighth year of his age, on the fifth day of the month of August.
 
-How great his faith was towards God, and how remarkable his devotion, has been made evident by miracles since his death; for, in the place where he was killed by the pagans, fighting for his country, infirm men and cattle are healed to this day. Whereupon many took up the very dust of the place where his body fell, and putting it into water, did much good with it to their friends who were sick. This custom came so much into use, that the earth being carried away by degrees, there remained a hole as deep as the height of a man. Nor is it to be wondered that the sick should be healed in the place where he died; for, whilst he lived, he never ceased to provide for the poor and infirm, and to bestow alms on them, and Edition: current; Page: [118] assist them. Many miracles are said to have been wrought in that place, or with the earth carried from thence; but we have thought it sufficient to mention two, which we heard from our ancestors.
+How great his faith was towards God, and how remarkable his devotion, has been made evident by miracles since his death; for, in the place where he was killed by the pagans, fighting for his country, infirm men and cattle are healed to this day. Whereupon many took up the very dust of the place where his body fell, and putting it into water, did much good with it to their friends who were sick. This custom came so much into use, that the earth being carried away by degrees, there remained a hole as deep as the height of a man. Nor is it to be wondered that the sick should be healed in the place where he died; for, whilst he lived, he never ceased to provide for the poor and infirm, and to bestow alms on them, and assist them. Many miracles are said to have been wrought in that place, or with the earth carried from thence; but we have thought it sufficient to mention two, which we heard from our ancestors.
 
 It happened, not long after his death, that a man was travelling near that place, when his horse on a sudden began to tire, to stand stock still, hang down his head, and foam at the mouth, and, at length, as his pain increased, he fell to the ground; the rider dismounted, and throwing some straw under him, waited to see whether the beast would recover or die. At length, after much rolling about in extreme anguish, the horse happened to come to the very place where the aforesaid king died. Immediately the pain ceased, the beast gave over his struggles, and, as is usual with tired cattle, turned gently from side to side, and then starting up, perfectly recovered, began to graze on the green herbage; which the man observing, being an ingenious person, he concluded there must be some wonderful sanctity in the place where the horse had been healed, and left a mark there, that he might know the spot again. After which he again mounted his horse, and repaired to the inn where he intended to stop. On his arrival he found a girl, niece to the landlord, who had long languished under the palsy; and when the friends of the family, in his presence, lamented the girl’s calamity, he gave them an account of the place where his horse had been cured. In short, she was put into a cart and carried and laid down at the place. At first she slept awhile, and when she awaked found herself healed of her infirmity. Upon which she called for water, washed her face, put up her hair, and dressed her head, and returned home on foot, in good health, with those who had brought her.

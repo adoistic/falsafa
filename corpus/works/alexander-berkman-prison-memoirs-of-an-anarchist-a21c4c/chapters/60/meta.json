@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 60,
+  "chapter_title": "Part 2, Chapter 35 : An Alliance with the Birds",
+  "chapter_slug": "60",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c18a6c0-029a-5772-979e-903878a28c26",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2787,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-35.html"
+    }
+  ]
+}

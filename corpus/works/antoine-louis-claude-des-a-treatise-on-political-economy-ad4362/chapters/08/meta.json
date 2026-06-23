@@ -2,7 +2,7 @@
   "work_slug": "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362",
   "work_title": "A Treatise on Political Economy",
   "chapter_number": 8,
-  "chapter_title": "section 3.: From the faculty of will arise all our wants and all our means.",
+  "chapter_title": "section 5.: From the faculty of will arise also the ideas of liberty and constraint.",
   "chapter_slug": "08",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 149,
-      "paragraph_count": 6,
+      "word_count": 116,
+      "paragraph_count": 5,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
     }

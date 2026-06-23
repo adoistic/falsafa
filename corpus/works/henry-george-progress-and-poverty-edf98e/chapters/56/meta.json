@@ -2,7 +2,7 @@
   "work_slug": "henry-george-progress-and-poverty-edf98e",
   "work_title": "Progress and Poverty",
   "chapter_number": 56,
-  "chapter_title": "Chapter IV Of the Changes That Would Be Wrought in Social Organization and Social Life",
+  "chapter_title": "Chapter IV How Modern Civilization May Decline",
   "chapter_slug": "56",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 5928,
-      "paragraph_count": 39,
+      "word_count": 5240,
+      "paragraph_count": 36,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
     }

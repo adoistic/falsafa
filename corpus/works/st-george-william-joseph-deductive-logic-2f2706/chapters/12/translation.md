@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 12
-chapter_title: Chapter XXI
+chapter_title: Chapter XX
 chapter_slug: 12
 variant_id: "679194bc-c945-5e3d-82c6-877482e9f0c6"
 content_type: translation
@@ -13,57 +13,73 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1154
+word_count: 881
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-*Of the Reduction of the Partly Conjunctive Syllogism.*
+*Of Complex Syllogisms*.
 
-§ 744. Such syllogisms as those just treated of, if syllogisms they are to be called, have a major and a middle term visible to the eye, but appear to be destitute of a minor. The missing minor term is however supposed to be latent in the transition from the conjunctive to the simple form of proposition. When we say 'A is B,' we are taken to mean, 'As a matter of fact, A is B' or 'The actual state of the case is that A is B.' The insertion therefore of some such expression as 'The case in hand,' or 'This case,' is, on this view, all that is wanted to complete the form of the syllogism. When reduced in this manner to the simple type of argument, it will be found that the constructive conjunctive conforms to the first figure and the destructive conjunctive to the second.
+§ 731. A Complex Syllogism is one which is composed, in whole or part, of complex propositions.
 
-*Constructive Mood*. *Barbara*.
+§ 732. Though there are only two kinds of complex proposition, there are three varieties of complex syllogism. For we may have
 
-If A is B, C is D. \ / All cases of A being B are cases of \ = / C being D. A is B. / \ This is a case of A being B. .'. C is D. / \ .'. This is a case of C being D.
+(1) a syllogism in which the only kind of complex proposition employed is the conjunctive;
 
-*Destructive Mood.* Camestres.
+(2) a syllogism in which the only kind of complex proposition employed is the disjunctive;
 
-If A is B, C is D. \ / All cases of A being B are cases of \ = / C being D. C is not D. / \ This is not a case of C being D. .'. A is not B. / \ .'. This is not a case of A being B.
+(3) a syllogism which has one premiss conjunctive and the other disjunctive.
 
-§ 745. It is apparent from the position of the middle term that the constructive conjunctive must fall into the first figure and the destructive conjunctive into the second. There is no reason, however, why they should be confined to the two moods, Barbara and Carnestres. If the inference is universal, whether as general or singular, the mood is Barbara or Carnestres; if it is particular, the mood is Darii or Baroko.
+The chief instance of the third kind is that known as the Dilemma.
 
-Barbara. Camestres. If A is B, C is always D. \ If A is B, C is always D. \ A is always B. \ C is never D. \ .'. C is always D. \ .'. A is never B. \ | | If A is B, C is always D. / If A is B, C is always D. / A is in this case B. / C is not in this case D. / .'. C is in this case D. / .'. A is not in this case B. /
+Syllogism *|* | | Simple Complex (Categorical) (Conditional) *|* | | | Conjunctive Disjunctive Dilemma (Hypothetical)
 
-Darii. Baroko.
+*The Conjunctive Syllogism*.
 
-If A is B, C is always D. If A is B, C is never D. A is sometimes B. C is sometimes not D. .'. C is sometimes D. .'. A is sometimes not B.
+§ 733. The Conjunctive Syllogism has one or both premisses conjunctive propositions: but if only one is conjunctive, the other must be a simple one.
 
-§ 746. The remaining moods of the first and second figure are obtained by taking a negative proposition as the consequent in the major premiss.
+§ 734. Where both premisses are conjunctive, the conclusion will be of the same character; where only one is conjunctive, the conclusion will be a simple proposition.
 
-Celarent. Ferio. If A is B, C is never D. If A is B, C is never D. A is always B. A is sometimes B. .'. C is never D. .'. C is sometimes not D.
+§ 735. Of these two kinds of conjunctive syllogisms we will first take that which consists throughout of conjunctive propositions.
 
-*Cesare*. Festino. If A is B, C is never D. If A is B, C is never D. C is always D. C is sometimes D. .'. A is never B. .'. A is sometimes not B.
+*The Wholly Conjunctive Syllogism*.
 
-§ 747. As the partly conjunctive syllogism is thus reducible to the simple form, it follows that violations of its laws must correspond with violations of the laws of simple syllogism. By our throwing the illicit moods into the simple form it will become apparent what fallacies are involved in them.
+§ 736. Wholly conjunctive syllogisms do not differ essentially from simple ones, to which they are immediately reducible. They admit of being constructed in every mood and figure, and the moods of the imperfect figures may be brought into the first by following the ordinary rules of reduction. For instance--
 
-*Denial of Anteceded*.
+Cesare. Celarent.
 
-If A is B, C is D. \ / All cases of A being B are cases of C \ = / being D. A is not B. / \ This is not a case of A being B. .'. C is not D. / \ .'. This is not a case of C being D.
+If it is day, the stars never shine.\ /If the stars shine, it is never day. If it is night, the stars always \=/ If it is night, the stars always shine. / \ shine. .'. If it is night, it is never day / \.'. If it is night, it is never day.
 
-Here we see that the denial of the antecedent amounts to illicit process of the major term.
+Disamis. Darii. If C is D, A is sometimes B. \ / If C is D, E is always F. If C is D, E is always F. | = | If A is B, C is sometimes D. If E is F, A is sometimes B. / \ .'. If A is B, E is sometimes F. .'. If E is F, A is sometimes B.
 
-§ 7481 *Affirmation of Consequent*.
+If she goes, I sometimes go. \ / If she goes, he always goes, If she goes, he always goes. | = | If I go, she sometimes goes. .'. If he goes, I sometimes go. / \ .'. If I go, he sometimes goes. .'. If he goes, I sometimes go.
 
-If A is B, C is D. \ / All Cases of A being B are cases of C | = | being D. C is D. / \ This is a case of C being D.
+*The Partly Conjunctive Syllogism.*
 
-Here we see that the affirmation of the consequent amounts to undistributed middle.
+§ 737. It is this kind which is usually meant when the Conjunctive or Hypothetical Syllogism is spoken of.
 
-§ 749. If we confine ourselves to the special rules of the four figures, we see that denial of the antecedent involves a negative minor in the first figure, and affirmation of the consequent two affirmative premisses in the second. Or, if the consequent in the major premiss were itself negative, the affirmation of it would amount to the fallacy of two negative premisses. Thus--
+§ 738. Of the two premisses, one conjunctive and one simple, the conjunctive is considered to be the major, and the simple premiss the minor. For the conjunctive premiss lays down a certain relation to hold between two propositions as a matter of theory, which is applied in the minor to a matter of fact.
 
-If A is B, C is not D. \ / No cases of A being B are cases of C | = | being D. C is not D. / \ This is not a case of C being D.
+§ 739. Taking a conjunctive proposition as a major premiss, there are four simple minors possible. For we may either assert or deny the antecedent or the consequent of the conjunctive.
 
-§ 750. The positive side of the canon of the conjunctive syllogism--'To affirm the antecedent is to affirm the consequent,' corresponds with the Dictum de Omni. For whereas something (viz. C being D) is affirmed in the major of all conceivable cases of A being B, the same is affirmed in the conclusion of something which is included therein, namely, 'this case,' or 'some cases,' or even 'all actual cases.'
+Constructive Mood. Destructive Mood. (1) If A is B, C is D. (2) If A is B, C is D. A is B. C is not D. .'. C is D. .'. A is not B.
 
-§ 751. The negative side--'to deny the consequent is to deny the antecedent'--corresponds with the Dictum de Diverse (§ 643). For whereas in the major all conceivable cases of A being B are included in C being D, in the minor 'this case,' or 'some cases,' or even 'all actual cases' of C being D, are excluded from the same notion.
+(3) If A is B, C is D. (4) If A is B, C is D. A is not B. C is D. No conclusion. No conclusion.
 
-§ 752. The special characteristic of the partly conjunctive syllogism lies in the transition from hypothesis to fact. We might lay down as the appropriate axiom of this form of argument, that 'What is true in the abstract is true--in the concrete,' or 'What is true in theory is also true in fact,' a proposition which is apt to be neglected or denied. But this does not vitally distinguish it from the ordinary syllogism. For though in the latter we think rather of the transition from a general truth to a particular application of it, yet at bottom a general truth is nothing but a hypothesis resting upon a slender basis of observed fact. The proposition 'A is B' may be expressed in the form 'If A is, B is.' To say that 'All men are mortal' may be interpreted to mean that 'If we find in any subject the attributes of humanity, the attributes of mortality are sure to accompany them.'
+§ 740. When we take as a minor 'A is not B ' (3), it is clear that we can get no conclusion. For to say that C is D whenever A is B gives us no right to deny that C can be D in the absence of that condition. What we have predicated has been merely inclusion of the case AB in the case CD.
+
+§ 741. Again, when we take as a minor, 'C is D' (4), we can get no universal conclusion. For though A being B is declared to involve as a consequence C being D, yet it is possible for C to be D under other circumstances, or from other causes. Granting the truth of the proposition 'If the sky falls, we shall catch larks,' it by no means follows that there are no other conditions under which this result can be attained.
+
+§ 742. From a consideration of the above four cases we elicit the following
+
+*Canon of the Conjunctive Syllogism.*
+
+To affirm the antecedent is to affirm the consequent, and to deny the consequent is to deny the antecedent: but from denying the antecedent or affirming the consequent no conclusion follows.
+
+§ 743. There is a case, however, in which we can legitimately deny the antecedent and affirm the consequent of a conjunctive proposition, namely, when the relation predicated between the antecedent and the consequent is not that of inclusion but of coincidence--where in fact the conjunctive proposition conforms to the type u.
+
+For example--
+
+*Denial of the Antecedent*. If you repent, then only are you forgiven. You do not repent. .'. You are not forgiven.
+
+*Affirmation of the Consequent*. If you repent, then only are you forgiven. You are forgiven. .'. You repent.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-socialistic-imperialism-75ef30",
+  "work_title": "Socialistic Imperialism",
+  "chapter_number": 1,
+  "chapter_title": "I.",
+  "chapter_slug": "01-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5444bd5f-5d56-5b1a-b80b-5d9c647eb9c6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2223,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1901/10/socimp.htm"
+    }
+  ]
+}

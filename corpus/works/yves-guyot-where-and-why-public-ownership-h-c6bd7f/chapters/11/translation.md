@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 11
-chapter_title: "CHAPTER IV: STATE RAILWAYS OF AUSTRIA AND HUNGARY"
+chapter_title: "Chapter VI: The Railways of the Swiss Federation."
 chapter_slug: 11
 variant_id: "759fc87c-a977-5f89-9a76-a907cb4c7972"
 content_type: translation
@@ -13,41 +13,49 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1033
+word_count: 1138
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-1. The policy of Austria in regard to the railways has undergone many variations. In 1850 the government owned 61.38 per cent. of the railway lines. In 1855, however, imitating the example of France, which came to terms with the important companies, and, having need of resources, it sold its railways. Hence in 1860 it owned not more than 0.44 per cent., and in 1870 only 0.21 per cent. The economic development of Austria was slow; the railroads not very prosperous. The crisis of 1873 drove the government to constructing railroads. In 1880 it owned 17.23 per cent. of the lines; in 1890, 43.51 per cent.; and, in 1906, 67.95 per cent., or 21,600 kilometers (13,500 miles).
+Purchase Price Exceeded Expectation.—Profit and Loss Account.—Debt of the Confederation.—Receipts and Expenses.—Operating Ratio.—Labor.—Economy at the Expense of Passengers and Shippers.—Prophecy of Numa Droz.
 
-The operation of railways has been a serious drain on the state. In 1906 they yielded 2.85 per cent., and, in 1907, 3.01 per cent. But this sum includes neither interest nor sinking fund charges. In fact, operation Edition: current; Page: [73] of the state railways has not paid expenses, and has been a burden upon the Treasury. The lack of receipts is chiefly due to low freight rates.
+The promoters of the existing Swiss railroad monopoly declared most emphatically that the new régime was not expected, primarily at least, to yield financial results, but rather advantages for passengers and shippers. The actual purchase, however, was limited to the four great systems, the government passing over the lines of secondary importance, which were less productive. Thus two classes of railway service were established: a first class, consisting of patrons of the more important roads and a second class, composed of users of the small roads, which could be safely neglected. The purchase price of the four great systems was estimated at 964,000,000 francs ($183,160,000). The Confederation has actually paid 1,195,000,000 francs, or 231,000,000 francs more than the figure first quoted.
 
-Charles Lee Raper says:
+On December 31, 1912, the general construction account amounted to 1,472,000,000 francs, to which must be added 45,824,000 francs representing divers expenses, reduced by sinking funds to 28,177,000 francs. The total amount of capital sunk is therefore 1,500,469,000 francs ($285,089,000). This does not include, however, the cost of the St. Gothard line.
 
-“They (the freight rates) have been much higher than in the United States, though the character of the traffic of the two countries has had much in common. Both have had a large volume of the low grade commodities. It would, therefore, seem to be fair to say that the Austrian state service has not been notably successful in its cheapness.”
+Excluding the St. Gothard line, the profit and loss accounts are shown in the following table:
 
-The superiority of private enterprises in Austria has been established by an investigation conducted by the British Board of Trade. Four private companies have never had to resort to a guaranteed reserve fund. During the period 1902–1906 one of them did not earn dividends on its capital; the second earned from 4 per cent. to 5.25 per cent., the third from 5.4 per cent. to 6.6 per cent, while the fourth earned from 11 per cent. to 12 per cent. And all these companies pay taxes to the state.
+The cost of the St. Gothard line has exceeded by 34,000,000 francs ($6,460,000) the provisions of the estimate of 1897. The expenses for completed works and new acquisitions, which on December 31, 1909, already amounted to 218,000,000 francs, had jumped in 1912 to 292,000,000 francs, or 74,000,000 francs more, and at that time there still remained unfinished works to the extent of 69,000,000 francs, while expenses in the near future for other lines are in sight, amounting to almost 100,000,000 francs. In their report to the budget of 1912 the board of managers of the Federal railroads stated that they were anxious to reduce the yearly expenses by 24,000,000 francs, but such a reduction is out of the question.
 
-2. In 1889 Minister Baross established the zone system in Hungary. Bitter adversaries of the mileage (paliers) system were enthusiastic over the idea of introducing the zone system. The zones are only more extended units of distance than the 10 kilometer (6 miles) section of the Paris-Lyons-Mediterranean railway line of France—a privately owned line. The introduction of the system was simply a political move, for the real object was to attract to Edition: current; Page: [74] Budapest those Hungarians who lived in the far corners of the land, in order to make them admire the capital, and thus give them an exalted idea of the greatness of their country. In 1896, at the time of the Millennial Exposition, the railroads carried for nothing, and, I understand, lodged and fed entire families at Budapest. However, as a species of compensation for its complaisance in thus accommodating the country-folk, the railroad had increased the price of tickets for short distance traffic during the preceding year.
+The capital stock of the four old companies was 280,000,000 francs ($53,000,000). The dividends paid to stockholders had been reduced, or altogether discontinued, during the losing years, in order that the interest upon the outstanding debt might be paid.
 
-In 1903 other changes took place. As it has failed to yield the anticipated results, Hungary recently, in large measure at least, has abandoned the system introduced by Baross.
+In the case of the state railways there is only one stockholder, the state; and, if its railways lose, it is the state, that is to say, the taxpayers as a whole, who must make up the deficit.
 
-The average receipts per passenger per kilometer in six European states have been: (One heller equals $0.002.)
+In 1903 the consolidated debt was 1,075,152,000 francs. In 1909 it had risen to 1,344,221,000 francs. On December 31, 1912, it had again increased 399,000,000 francs, or 37 per cent. The interest on the debt, which was 36,000,000 francs in 1903, amounted to 54,000,000 francs in 1912. Sinking fund charges on the capital invested in the enterprise rose from 4,300,000 francs in 1903 to 7,840,000 francs in 1912.
 
-Financial returns upon the Hungarian state railroads were as follows (in 1,000 crowns; 1 crown equals 20 cents):
+The surplus should have been transferred, at least in part, to a surplus fund. But the department, considering the unreliability of future operations, has refused to put in force the provisions of the law governing the purchase, and has simply carried it over. Some special expenses, represented by no actual value, such as abandoned installations, etc., were still carried on December 31,1912, to the amount of 28,000,000 francs ($5,320,000). As long as this balance is not disposed of, it is out of the question to talk about surplus of receipts.
 
-The service upon the state lines of Hungary during late years has given rise to numberless complaints: lack of comfort, insufficient rolling stock, too frequent delays, and numerous accidents.
+The annual appropriation of special funds, to defray the expenses of maintenance and renewals not already covered by operation in 1906, was 7,084,000 francs. In 1912 it was 9,325,000 francs.
 
-The former secretary of the ministry of Commerce, Joseph Szterenyi, in an address delivered before the Chamber of Deputies in 1912, stated that from 1890 to 1909 the number of passengers on the railways had increased about 300 per cent. During this period there have been years in which the increase of traffic has corresponded to the increase in the number of cars in the following ratios: 9.5 per cent., as against 2.5 per cent.; 8 per cent., as against 4 per cent.; 10.6 per cent., against 0.5 per cent.; 9 per cent., against 0.5 per cent., and even 11 per cent. against 0.1 per cent.
+There has been no miscalculation in regard to receipts. They were estimated on the basis of an average annual increase of 3 per cent. The increase has been 4.8 per cent. for passengers and 4.5 per cent. for freight.
 
-The available number of locomotives is even less satisfying. While the volume of traffic has increased about 51 per cent. the number of locomotives has increased only about 21 per cent. In 1909 it was estimated that 606 more locomotives would be necessary, in order to take care of the normal traffic. A number of locomotives then in use were over 35 years old. Although passenger traffic has increased in Budapest, at the eastern terminal about 550 per cent. and at the western terminal about 900 per cent., and although freight traffic has grown approximately 100 per cent., it is only recently that any particular effort has been made to improve the conditions mentioned.
+During the last three years the gross earnings have jumped from 174,000,000 francs, in 1909, to 206,000,000 francs, in 1912, or 18 per cent. But these earnings will be reduced after the opening of the Loetschberg line, and as a result of the St. Gothard agreement, which has just been accepted.
 
-From 1865 to 1907 the operating ratio increased Edition: current; Page: [76] from 55 to 77 per cent., and amounted to 80.6 per cent. in 1908.
+Moreover, the expenses of operation have increased on an average of 6.2 per cent., consequently at a proportion greater than the receipts, up to 1908. Since 1909 this proportion has decreased. The operating ratio appears as follows:
 
-Beginning with 1893 the cost of labor has increased by leaps and bounds. In 1904 the employees went on strike and stopped the trains, asserting that the increase of salary voted by the Chamber of Deputies was too small. Two separate awards of an increase in salary, the one in 1904 the other in 1908, have brought the total amount to 22,000,000 crowns.
+During the same period the highest operating ratio of the Paris-Lyon-Mediterranean line of France (operated by a private company) was 53.5 per cent.
 
-Following changes in the locomotive service in 1906 there has been an increase in the consumption of coal of about 13 per cent., representing 4,000,000 crowns, and equaling a work increase of 30 per cent.
+In 1909 the secretary of the department observed that, taking into account the increase of interest, extensions, and all those charges which, at the beginning of 1912, bore so heavily upon the railway, the annual increase in expenditures would ultimately reach 20,000,000 francs. This year (1913) it has been 11,270,000 francs.
 
-Maintenance expenses of locomotives and cars give the following figures: per locomotive, in 1905, 3,003 crowns, and, in 1909, 4,530 crowns; per passenger coach, from 640 to 820 crowns; per freight car, from 96 to 134 crowns. The working efficiency of the average car has fallen from 48 per cent. to 37 per cent.
+After 1906, following an average rise in wages, together with an increase in the number of employees, the ordinary labor expenses of the railroad exceeded by 4,280,000 francs the figure of the preceding year.
 
-In 1909 the excess of receipts over expenditures was less by 43,000,000 crowns than the sum necessary for interest and sinking fund charges. The zone system has recently been altered, in the hope of realizing more than 15,260,000 crowns.
+Beginning with April 1, 1912, a new law concerning salaries went into effect, which has brought about an annual increase of 8,200,000 francs in the expenses, without counting supplementary payments to be made in the way of pensions and sick and other benefits established on the basis of full pay. Nor does it include the increase in the salaries of laborers paid by the day. The total increase is estimated at 10,000,000 francs.
+
+From 1904 to 1910 the increase in labor expenses was 14,370,000 francs, or 51 per cent. For all other expenses the increase was only 36 per cent. In 1902 there were 23,030 employees; in 1907 the number had risen to 31,300. On the 1st of April the tri-yearly rise in salary took effect, as provided for by a law fixing higher maximums. This law has increased the annual expenses by 10,000,000 francs.
+
+With the object of balancing the expenses in favor of the employees, certain economies were effected at the expense of passengers and shippers, such as withdrawal of reduced fares on holidays, decreased inspection of the road, fewer trains, speed of freight trains lessened, a certain number of improvements postponed, and resistance to demands for improvements which were not too urgent. Finally the department determined to increase the rates when the industry and commerce of Switzerland are already paying internal transportation taxes double those in force in neighboring countries.
+
+The nationalizing of the Swiss railways has certainly proved of advantage to the employees. But, are state operations carried on for the benefit of employees or for the public? Present conditions justify the following prophecy of Numa Droz:
+
+“Through this purchase our railroad policy is in course of stiffening into a set of rigid regulations prescribed by a poverty stricken department incapable of solving the great problems of the future for lack of resources.”

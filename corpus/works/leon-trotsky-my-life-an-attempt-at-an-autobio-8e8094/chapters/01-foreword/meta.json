@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 1,
+  "chapter_title": "Foreword",
+  "chapter_slug": "01-foreword",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "048bd8f9-b660-5701-bd53-94b20556e23c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2889,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/foreword.htm"
+    }
+  ]
+}

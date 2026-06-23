@@ -1,0 +1,26 @@
+{
+  "work_slug": "otto-ruhle-karl-marx-his-life-and-works-79645e",
+  "work_title": "Karl Marx: His Life and Works",
+  "chapter_number": 2,
+  "chapter_title": "Clarification Part I",
+  "chapter_slug": "02-clarification-part-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb290da3-7f63-5c5d-94cb-0d5945a7b7f4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 15054,
+      "paragraph_count": 158,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/ruhle/1928/marx/ch02.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "thomas-gordon-a-discourse-of-standing-armies-71f0e3"
 work_title: A Discourse of Standing Armies
 author_name: Thomas Gordon
 chapter_number: 1
-chapter_title: "A DISCOURSE OF Standing Armies, &c."
+chapter_title: "A Discourse of Standing Armies, &c."
 chapter_slug: "01-a-discourse-of-standing-armies-c"
 variant_id: "3e4622dd-787a-562a-8f22-044fd834bc5c"
 content_type: translation

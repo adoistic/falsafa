@@ -4,7 +4,7 @@ work_slug: "sir-dudley-north-discourses-upon-trade-ba9ac5"
 work_title: Discourses upon Trade
 author_name: Sir Dudley North
 chapter_number: 3
-chapter_title: A DISCOURSE Concerning the Abatement of INTEREST.
+chapter_title: A Discourse Concerning the Abatement of INTEREST.
 chapter_slug: "03-a-discourse-concerning-the-abatement-of-interest"
 variant_id: "9964039f-240e-508c-a845-68d8e06cb75c"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2606
+word_count: 2586
 source_url: "https://oll.libertyfund.org/titles/hollander-discourses-upon-trade"
 translator: Online Library of Liberty edition
 ---
@@ -32,7 +32,7 @@ I shall not formally apply myself to answer all the Arguments and Discourses, th
 
 The Question to be considered is, Whether the Government have reason by a Law, to prohibit the taking more than 4 l. per Cent. Interest for Money lent, or to leave the Borrower and Lender to make their own Bargains.
 
-In the Disquisition of this, many things are to be considered, and particularly such as relate to Trade, of which a Edition: current; Page: [16] true Notion will set right a World of Mistakes, wherefore that now shall be chiefly treated of.
+In the Disquisition of this, many things are to be considered, and particularly such as relate to Trade, of which a true Notion will set right a World of Mistakes, wherefore that now shall be chiefly treated of.
 
 Trade is nothing else but a Commutation of Superfluities; for instance: I give of mine, what I can spare, for somewhat of yours, which I want, and you can spare.
 
@@ -44,7 +44,7 @@ Mettals are very necessary for many Uses, and are to be reckon'd among the Fruit
 
 Now it is to be consider'd, that Mankind being fallen into a way of commuting in this manner, to serve their occasions, some are more provident, others more profuse; some by their Industry and Judgment raise more Fruits from the Earth, than they consume in supplying their own occasions; and then the surplus remains with them, and is Property or Riches.
 
-And Wealth thus contracted, is either commuted for other Mens Land (supposing all Men to have had some) or massed up in heaps of Goods; be the same of Mettals, or anything Edition: current; Page: [17] valuable. And those are the Rich, who transmit what they have to their Posterity; whereby particular Families become rich; and of such are compounded Cities, Countries, Nations, &c.
+And Wealth thus contracted, is either commuted for other Mens Land (supposing all Men to have had some) or massed up in heaps of Goods; be the same of Mettals, or anything valuable. And those are the Rich, who transmit what they have to their Posterity; whereby particular Families become rich; and of such are compounded Cities, Countries, Nations, &c.
 
 And it will be found, that as some particular Men in a Town grow richer, and thrive better than others; so also do Nations, who by Trade serving the occasions of their Neighbours, supply themselves with what they have occasion for from abroad; which done, the rest is laid up, and is Silver, Gold, &c. for as I said, these being commutable for everything, and of small bulk, are still preferr'd to be laid up, till occasion shall call them out to supply other Necessaries wanted.
 
@@ -56,7 +56,7 @@ Now as there are more Men to Till the Ground than have Land to Till, so also the
 
 But as the Landed Man letts his Land, so these still lett their Stock; this latter is call'd Interest, but is only Rent for Stock, as the other is for Land. And in several Languages, hiring of Money, and Lands, are Terms of common use; and it is so also in some Countries in England.
 
-Thus to be a Landlord, or a Stock-lord is the same thing; the Landlord hath the advantage only in this: That his Tenant cannot carry away the Land, as the Tenant of the other Edition: current; Page: [18] may the Stock; and therefore Land ought to yield less profit than Stock, which is let out at the greater hazard.
+Thus to be a Landlord, or a Stock-lord is the same thing; the Landlord hath the advantage only in this: That his Tenant cannot carry away the Land, as the Tenant of the other may the Stock; and therefore Land ought to yield less profit than Stock, which is let out at the greater hazard.
 
 These things consider'd, it will be found, that as plenty makes cheapness in other things, as Corn, Wool, &c. when they come to Market in greater Quantities than there are Buyers to deal for, the Price will fall; so if there be more Lenders than Borrowers, Interest will also fall; wherefore it is not low Interest makes Trade, but Trade increasing, the Stock of the Nation makes Interest low.
 
@@ -88,7 +88,7 @@ The Trade of setting out Ships, runs very much upon this course, wherein it is u
 
 Thus when all things are considered, it will be found best for the Nation to leave the Borrowers and the Lender to make their own Bargains, according to the Circumstances they lie under; and in so doing you will follow the course of the wise Hollanders, so often quoted on this account: and the consequences will be, that when the Nation thrives, and grows rich, Money will be to be had upon good terms, but the clean contrary will fall out, when the Nation grows poorer and poorer.
 
-Let any one Answer me, why do not the Legislators in those poor Countries, where Interest is at 10, & 12 per Cent, make such Laws to restrain Interest, and reduce |8| it for the good of the People? If they should attempt it, it wou'd soon appear, Edition: current; Page: [21] that such Laws would not be effectual to do it. For when there are more Borrowers than Lenders, as in poor Countries, where if a rich Man hath 100 l. to dispose, and there are four, five or more Men striving for it; the Law would be evaded by underhand Bargains, making Loans in Goods, drawing Bills, and a thousand Ways beside; which cannot be prevented.
+Let any one Answer me, why do not the Legislators in those poor Countries, where Interest is at 10, & 12 per Cent, make such Laws to restrain Interest, and reduce |8| it for the good of the People? If they should attempt it, it wou'd soon appear, that such Laws would not be effectual to do it. For when there are more Borrowers than Lenders, as in poor Countries, where if a rich Man hath 100 l. to dispose, and there are four, five or more Men striving for it; the Law would be evaded by underhand Bargains, making Loans in Goods, drawing Bills, and a thousand Ways beside; which cannot be prevented.
 
 It is probable that when Laws restrain Interest of Money, below the Price, which the Reason of Trade settles, and Traders cannot (as we will suppose) evade the Law, or not without great difficulty, or hazard, and have not Credit to borrow at Legal Interest, to make, or increase their Stock; so much of Trade is lopt off; and there cannot be well a greater obstruction to diminish Trade then that would be. The consideration of all these Matters, makes out an universal Maxime, That as more Buyers than Sellers raiseth the price of a Commodity, so more Borrowers than Lenders, will raise Interest.
 
@@ -96,6 +96,6 @@ And the State may with as much Justice make a Law that Lands which heretofore ha
 
 I will not say any thing to the Theological Arguments against Interest of Moneys; by those 3 per Cent is no more lawful, than 4, or 12. But this I shall maintain Politically, that if you take away Interest, you take away Borrowing and Lending. And in consequence the Gentry, who are behind hand, be it for what cause soever, must sell, and cannot Mortgage; which will bring down the Price of Land. And the Trader whatever his |9| skill is, if he hath no Stock, must either sit still, or buy at Time, which is Interest under another Name. And they who are poor, will always be so, and we should soon relapse into the state of One Thousand Years ago.
 
-And whereas the Stock of the Nation is now reckon'd great, let it be fairly valued, and it will be found much less than it Edition: current; Page: [22] seems to be; for all the Monies that are owing upon Land Securities, must be struck off, and not estimated; or else you will have a wrong Account; for if a Gentleman of 500 l. per Annum, owes 8000 l. and you value his Land, and the Lender's Stock both, you make an account of the same thing twice.
+And whereas the Stock of the Nation is now reckon'd great, let it be fairly valued, and it will be found much less than it seems to be; for all the Monies that are owing upon Land Securities, must be struck off, and not estimated; or else you will have a wrong Account; for if a Gentleman of 500 l. per Annum, owes 8000 l. and you value his Land, and the Lender's Stock both, you make an account of the same thing twice.
 
 And whereas we make great Accounts of Money'd Men in the Nation, in truth there are but few; for suppose all that have lent upon Mortgage, had Land for their Moneys, as indeed in strictness of Law they have, there wou'd be but few Money'd Men in the Nation left. The borrowing of Money of one, to pay another, call'd, Robbing of Peter to pay Paul, so much practis'd now-a-days, makes us think the Nation far richer than it is.

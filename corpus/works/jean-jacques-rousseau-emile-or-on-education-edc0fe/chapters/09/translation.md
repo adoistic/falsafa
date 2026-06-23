@@ -4,7 +4,7 @@ work_slug: "jean-jacques-rousseau-emile-or-on-education-edc0fe"
 work_title: Emile, or On Education
 author_name: "Jean-Jacques Rousseau"
 chapter_number: 9
-chapter_title: BOOK V
+chapter_title: Book V
 chapter_slug: 09
 variant_id: "3bce5954-9797-53c5-ac15-bea5acfebbc9"
 content_type: translation

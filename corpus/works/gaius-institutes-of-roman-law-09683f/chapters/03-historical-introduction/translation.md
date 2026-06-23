@@ -4,7 +4,7 @@ work_slug: "gaius-institutes-of-roman-law-09683f"
 work_title: Institutes of Roman Law
 author_name: Gaius
 chapter_number: 3
-chapter_title: HISTORICAL INTRODUCTION
+chapter_title: Historical Introduction
 chapter_slug: "03-historical-introduction"
 variant_id: "1b645e6d-dd3f-5307-bf1e-b13c55ed1f6b"
 content_type: translation

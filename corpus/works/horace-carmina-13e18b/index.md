@@ -4,7 +4,10 @@ slug: "horace-carmina-13e18b"
 title: Carmina
 author:
   name: Horace
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman lyric poet and satirist of the Augustan age, patronized by Maecenas and the emperor's circle. His Odes, Satires, and Ars Poetica set the standards of Latin verse and gave later criticism its vocabulary of decorum."
+  birth_year: -65
+  death_year: -8
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

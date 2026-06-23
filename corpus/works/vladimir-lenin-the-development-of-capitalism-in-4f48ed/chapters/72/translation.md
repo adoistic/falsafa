@@ -1,0 +1,23 @@
+---
+work_id: "4f48ed4e-e9b7-554c-99fd-2e203e44e971"
+work_slug: "vladimir-lenin-the-development-of-capitalism-in-4f48ed"
+work_title: The Development of Capitalism in Russia
+author_name: Vladimir Lenin
+chapter_number: 72
+chapter_title: "Chapter VII. The Development of Large-Scale Machine Industry (10)"
+chapter_slug: 72
+variant_id: "d6c1f824-f2fc-535e-bf58-94bc387ec69c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 626
+source_url: "https://www.marxists.org/archive/lenin/works/1899/dcr8vii/vii8x.htm"
+translator: Marxists Internet Archive edition
+---
+
+By the appendage to the factory we mean those forms of wage-labour and small industry whose existence is directly connected with the factory. These include, first of all (in part), the lumber and building workers, of whom we have spoken and who in some cases directly form part of the industrial population of factory centres, and in others belong to the population of surrounding villages. Further, they include workers employed on peat bogs—which are sometimes worked by factory owners themselves; carters, loaders, packers, and so-called labourers generally, who always constitute a fairly considerable part of the population of industrial centres. In St. Petersburg, for instance, the census of December 15, 1890, registered 44,814 persons (of both sexes) in the group of “day labourers and labourers”; then 51,000 persons (of both sexes) in the carting industry, of whom 9,500 are specially engaged in carting heavy and miscellaneous loads. Further, certain auxiliary work is done for factories by small “independent” industrialists; in factory centres or their environs such industries spring up as barrel-making for oil-mills and distilleries, basket-making for packing glassware, packing-case making for hardware, the making of wooden handles for joiners’ and fitters’ tools, the making of brads for footwear factories, and of “tanning” for leather works, etc., the weaving of bast-matting for the packing of factory wares (in the Kostroma and other gubernias), the making of “sticks” for matches (in the Ryazan, Kaluga and other gubernias), cardboard-box making for tobacco factories (in the environs of St. Petersburg), the making of wood-dust for vinegar factories, the spinning of waste yarn in small spinning sheds (in Lodz), which has developed owing to the demand created by the big mills, etc., etc. All these small industrialists, like the wage-workers referred to above, belong either to the industrial population of factory centres, or to the semi-agricultural population of the surrounding villages. Furthermore, when a factory’s work is limited to the production of a semi-manufactured article, small industries are sometimes called into existence which engage in treating it further; for example, machine spinning has given an impetus to handicraft weaving, and “handicraft” producers of metal goods cluster around ironworks, etc. Finally, capitalist domestic industry is often an appendage to the factory. The epoch of large-scale machine industry is marked in all countries by the extensive development of capitalist domestic industry in such branches as, for example, ready-made clothing. We have spoken above of the wide extent of such industry in Russia, of the conditions peculiar to it and of the reason for considering it more correct to describe it in the chapter on manufacture.
+
+In order to give anything like a full description of the appendage to the factory one needs complete statistics on the occupations of the population, or monographic descriptions of the entire economic life of factory centres and their environs. But even the fragmentary data with which we have had to content ourselves show the incorrectness of the opinion widespread here that factory industry is isolated from other forms of industry, that the factory population is isolated from the population not employed in factories. The development of forms of industry, like that of all social relationships in general, cannot but proceed very gradually, among a mass of interlocking, transitional forms and seeming reversions to the past. Thus, the growth of small industries may express (as we have seen) the progress of capitalist manufacture; now we see that the factory, too, may sometimes develop small industries. Work for the “buyer-up,” is also an appendage to both the manufactory and the factory. To give a proper assessment of the significance of such phenomena, we must consider them in conjunction with the whole structure of industry at the given stage of its development and with the main trends of this development.

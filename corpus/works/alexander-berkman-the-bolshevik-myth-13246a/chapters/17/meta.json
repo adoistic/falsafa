@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 17,
+  "chapter_title": "Chapter 16 : Rest Homes For Workers",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5518ee3a-1bc0-58f3-9b56-c1953b25542d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1022,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-16.html"
+    }
+  ]
+}

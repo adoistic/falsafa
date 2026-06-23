@@ -1,42 +1,192 @@
 [
   {
-    "id": "p-1561d3",
+    "id": "p-681dc3",
     "offset": 0,
-    "text": "Formulate the following trains of reasoning, resolve them into their component parts, and point out any violations of the rules of syllogism which they may contain--"
+    "text": "1. Convert the following propositions--"
   },
   {
-    "id": "p-9c8c24",
-    "offset": 167,
-    "text": "(1) No Church Institutions are useful; for they teach religious matters, not business matters, which latter are useful, being profitable."
+    "id": "p-1c30b0",
+    "offset": 41,
+    "text": "(1) If a man is wise, he is humble."
   },
   {
-    "id": "p-bbb0d3",
-    "offset": 306,
-    "text": "(2) Mr. Darwin long ago taught us that the clover crop is dependent on the number of maiden ladies in the district. For the ladies keep cats, and the cats destroy the field-mice, which prey on the bees, which, in their turn, are all-important agents in the fertilisation of the clover flowers."
+    "id": "p-b9a16d",
+    "offset": 78,
+    "text": "(2) Where there is sincerity there is no affectation."
   },
   {
-    "id": "p-ebe61b",
-    "offset": 601,
-    "text": "(3) Athletic games are duties; for whatever is necessary to health is a duty, and exercise is necessary to health, and these games are exercise."
+    "id": "p-b2af8d",
+    "offset": 133,
+    "text": "(3) When night-dogs run, all sorts of deer are chased."
   },
   {
-    "id": "p-477fdc",
-    "offset": 747,
-    "text": "(4) The iron-trade leads to the improvement of a new country; for furnaces require to be fed with fuel, which causes land to be cleared."
+    "id": "p-ae7cb7",
+    "offset": 189,
+    "text": "(4) The nearer the Church, the further from God."
   },
   {
-    "id": "p-29d42e",
-    "offset": 885,
-    "text": "(5) 'Is stone a body?' 'Yes.' 'Well, is not an animal a body?' 'Yes,' 'And are you an animal?' 'It seems so.' 'Then you are a stone, being an animal.'"
+    "id": "p-9e05ef",
+    "offset": 239,
+    "text": "(5) If there were no void, all would be solid."
   },
   {
-    "id": "p-c3b688",
-    "offset": 1037,
-    "text": "(7) The soul is not matter. My arm is not myself."
+    "id": "p-518e3a",
+    "offset": 287,
+    "text": "(6) Not to go on is sometimes to go back."
   },
   {
-    "id": "p-d1b1c5",
-    "offset": 1088,
-    "text": "(8) Honesty deserves reward and a negro is a fellow-creature. Therefore an honest negro is a fellow-creature deserving of reward."
+    "id": "p-c0a49f",
+    "offset": 330,
+    "text": "2. Express in a single proposition--"
+  },
+  {
+    "id": "p-8a5572",
+    "offset": 368,
+    "text": "If he was divine, he was not covetous; and if he was covetous, he was not divine."
+  },
+  {
+    "id": "p-6f5cb5",
+    "offset": 451,
+    "text": "3. Exhibit the exact logical relation to one another of the following pairs of propositions--"
+  },
+  {
+    "id": "p-00c7af",
+    "offset": 546,
+    "text": "(1) If the conclusion be false, the premisses are false. If the conclusion be true, the premisses are not necessarily true."
+  },
+  {
+    "id": "p-21e5ed",
+    "offset": 671,
+    "text": "(2) If one premiss be negative, the conclusion must be negative."
+  },
+  {
+    "id": "p-b5c8c2",
+    "offset": 737,
+    "text": "If the conclusion be negative, one of the premisses must be negative."
+  },
+  {
+    "id": "p-3b3312",
+    "offset": 808,
+    "text": "(3) The truth of the universal involves the truth of the particular."
+  },
+  {
+    "id": "p-50284c",
+    "offset": 878,
+    "text": "The falsity of the particular involves the falsity of the universal."
+  },
+  {
+    "id": "p-c17b7a",
+    "offset": 948,
+    "text": "(4) From the truth of the particular no conclusion follows as to the universal."
+  },
+  {
+    "id": "p-689c32",
+    "offset": 1029,
+    "text": "From the falsity of the universal no conclusion follows as to the particular."
+  },
+  {
+    "id": "p-5040d0",
+    "offset": 1108,
+    "text": "(5) If the conclusion in the fourth figure be negative, the major premiss must be universal."
+  },
+  {
+    "id": "p-7d2542",
+    "offset": 1202,
+    "text": "If the major premiss in the fourth figure be particular, the conclusion must be affirmative."
+  },
+  {
+    "id": "p-fe507d",
+    "offset": 1296,
+    "text": "(6) If both premisses be affirmative, the conclusion must be affirmative."
+  },
+  {
+    "id": "p-b5c8c2",
+    "offset": 1371,
+    "text": "If the conclusion be negative, one of the premisses must be negative."
+  },
+  {
+    "id": "p-7cd626",
+    "offset": 1442,
+    "text": "4. 'The Method of Agreement stands on the ground that whatever circumstance can be eliminated is not connected with the phenomenon by any law; the Method of Difference stands on the ground that whatever circumstance cannot be eliminated is connected with the phenomenon by a law.' Do these two principles imply one another?"
+  },
+  {
+    "id": "p-708bca",
+    "offset": 1767,
+    "text": "CHAPTERS XX-XXVIII."
+  },
+  {
+    "id": "p-ea12ad",
+    "offset": 1788,
+    "text": "1. Fill up the following enthymemes, and state the exact nature of the resulting syllogism--"
+  },
+  {
+    "id": "p-aeb43b",
+    "offset": 1882,
+    "text": "(1) If Livy is a faultless historian, we must believe all that he tells us; but that it is impossible to do."
+  },
+  {
+    "id": "p-c125a7",
+    "offset": 1992,
+    "text": "(2) If they stay abroad, the wife will die; while the husband's lungs will not stand the English climate. It is to be feared therefore that one must fall a victim."
+  },
+  {
+    "id": "p-6ce2cc",
+    "offset": 2157,
+    "text": "(3) He is either very good, very bad, or commonplace. But he is not very good."
+  },
+  {
+    "id": "p-0ad61c",
+    "offset": 2237,
+    "text": "(4) Either a slave is capable of virtue or he is not. .'. Either he ought not to be a slave or he is not a man."
+  },
+  {
+    "id": "p-b10416",
+    "offset": 2350,
+    "text": "(5) Does not his feebleness of character indicate either a bad training or a natural imbecility?"
+  },
+  {
+    "id": "p-478a1e",
+    "offset": 2448,
+    "text": "(6) Those who ask shan't have; those who don't ask don't want."
+  },
+  {
+    "id": "p-826684",
+    "offset": 2512,
+    "text": "(7) If a man be mad, he deviates from the common standard of intellect. .'. If all men be alike mad, no one is mad."
+  },
+  {
+    "id": "p-a3d8e0",
+    "offset": 2629,
+    "text": "(8) 'I cannot dig; to beg I am ashamed.'"
+  },
+  {
+    "id": "p-64ddc1",
+    "offset": 2671,
+    "text": "2. 'The infinite divisibility of space implies that of time. If the latter therefore be impossible, the former must be equally so.' Formulate this argument as an immediate inference."
+  },
+  {
+    "id": "p-cfc4f2",
+    "offset": 2855,
+    "text": "3. Examine the following arguments--"
+  },
+  {
+    "id": "p-bd2d36",
+    "offset": 2893,
+    "text": "(1) If we have a dusty spring, there is always a good wheat harvest. We shall therefore have a poor harvest this year, for the spring has not been dusty."
+  },
+  {
+    "id": "p-8ba786",
+    "offset": 3048,
+    "text": "(2) Virtues are either feelings, capacities, or states; and as they are neither feelings nor capacities, they must be states."
+  },
+  {
+    "id": "p-5488e9",
+    "offset": 3175,
+    "text": "(3) Everything must be either just or unjust. Justice is a thing, and is not unjust. .'. Justice is just."
+  },
+  {
+    "id": "p-7a6822",
+    "offset": 3282,
+    "text": "Similarly justice is holy. But the virtues of knowledge, justice, courage, temperance, and holiness were declared to be different from one another. .'. Justice is unholy and holiness unjust."
   }
 ]

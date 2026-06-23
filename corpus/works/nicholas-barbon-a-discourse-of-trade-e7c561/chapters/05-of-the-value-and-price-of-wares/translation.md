@@ -13,14 +13,14 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 984
+word_count: 976
 source_url: "https://oll.libertyfund.org/titles/barbon-a-discourse-of-trade"
 translator: Online Library of Liberty edition
 ---
 
 THE Value of all Wares arise from their Use; Things of no Use, have no Value, as the English Phrase is, They are good for nothing.
 
-The Use of Things, are to supply the Wants and Necessities of Man: There are Two General Wants that Mankind is born Edition: current; Page: [14] with; |14| the Wants of the Body, and the Wants of the Mind; To supply these two Necessities, all things under the Sun become useful, and therefore have a Value.
+The Use of Things, are to supply the Wants and Necessities of Man: There are Two General Wants that Mankind is born with; |14| the Wants of the Body, and the Wants of the Mind; To supply these two Necessities, all things under the Sun become useful, and therefore have a Value.
 
 Wares, useful to supply the Wants of the Body, are all things necessary to support Life, such are in Common Estimation; all those Goods which are useful to supply the Three General Necessities of Man, Food, Clothes and Lodging; But if strictly Examined, nothing is absolutely necessary to support Life, but Food; for a great Part of Mankind go Naked, and lye in Huts and Caves; so that there are but few things that are absolutely necessary to supply the Wants of the Body.
 
@@ -34,7 +34,7 @@ The first Effects that the Fruit of the Tree of Knowledge wrought upon the Paren
 
 There was never any part of Mankind so wild and barbarous, but they had Difference and Degree of Men amongst them, and invented some things to shew that Distinction.
 
-Those that Cloathed with Skins, wore the Skins of those Edition: current; Page: [15] Beasts that are most difficultly taken; thus Hercules wore a Lyons Skin; and the Ermins and Sable, are still Badges of Honour. The Degree of Quality amongst the Affricans, is known by the waste Cloth, and amongst those that go naked, by adorning their Bodies with Co|17|lours, most rare amongst them, as the Red was the Colour most in Esteem amongst the Ancient Britains.
+Those that Cloathed with Skins, wore the Skins of those Beasts that are most difficultly taken; thus Hercules wore a Lyons Skin; and the Ermins and Sable, are still Badges of Honour. The Degree of Quality amongst the Affricans, is known by the waste Cloth, and amongst those that go naked, by adorning their Bodies with Co|17|lours, most rare amongst them, as the Red was the Colour most in Esteem amongst the Ancient Britains.
 
 And the most Ancient and best of Histories, the Bible, shews, That amongst the Civilized People of the World, Ear-Rings, Bracelets, Hoods and Vails, with Changeable Suits of Apparel, were then worn: And the same Ornaments for the Body are still, and ever since have been Worn, only differing in Shapes and Fashions, according to the Custom of the Country.
 

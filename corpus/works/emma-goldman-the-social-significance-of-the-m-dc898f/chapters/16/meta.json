@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 16,
+  "chapter_title": "Part 4, Chapter 3: The Sunken Bell",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e681b4a-0b45-55fe-a20e-18a8a0389a9d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2091,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-4-chapter-3.html"
+    }
+  ]
+}

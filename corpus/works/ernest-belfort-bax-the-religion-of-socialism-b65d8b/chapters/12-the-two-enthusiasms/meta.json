@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-religion-of-socialism-b65d8b",
+  "work_title": "The Religion of Socialism",
+  "chapter_number": 12,
+  "chapter_title": "The Two Enthusiasms",
+  "chapter_slug": "12-the-two-enthusiasms",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "87859762-9539-5083-92e8-4126cebba219",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2306,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1886/02/enthus.htm"
+    }
+  ]
+}

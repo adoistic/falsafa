@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 55,
+  "chapter_title": "Part 2, Chapter 30 : Whitewashed Again",
+  "chapter_slug": "55",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c3e8728a-9564-5bff-8c57-459dc637c731",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1763,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-30.html"
+    }
+  ]
+}

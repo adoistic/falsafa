@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 10
-chapter_title: LOTZE.
+chapter_title: Lotze.
 chapter_slug: "10-lotze"
 variant_id: "37c11b55-3a87-5d05-b56b-d37e0e02bcc6"
 content_type: translation

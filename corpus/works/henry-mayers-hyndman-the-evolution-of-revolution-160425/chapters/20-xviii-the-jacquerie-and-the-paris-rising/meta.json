@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 20,
+  "chapter_title": "XVIII. The Jacquerie and the Paris Rising",
+  "chapter_slug": "20-xviii-the-jacquerie-and-the-paris-rising",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f4c4c6e0-92a6-5c1e-ad4f-351f9f4c2954",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3119,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter18.htm"
+    }
+  ]
+}

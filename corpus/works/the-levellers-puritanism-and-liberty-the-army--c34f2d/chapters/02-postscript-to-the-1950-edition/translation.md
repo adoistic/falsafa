@@ -4,7 +4,7 @@ work_slug: "the-levellers-puritanism-and-liberty-the-army--c34f2d"
 work_title: "Puritanism and Liberty: The Army Debates (1647–9)"
 author_name: The Levellers
 chapter_number: 2
-chapter_title: POSTSCRIPT TO THE 1950 EDITION
+chapter_title: Postscript to the 1950 Edition
 chapter_slug: "02-postscript-to-the-1950-edition"
 variant_id: "fad1b542-5fd4-552a-ad25-a48840103212"
 content_type: translation

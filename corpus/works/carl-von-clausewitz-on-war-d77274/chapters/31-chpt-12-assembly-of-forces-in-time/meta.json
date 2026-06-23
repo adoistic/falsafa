@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 31,
+  "chapter_title": "Chpt. 12 Assembly of Forces in Time",
+  "chapter_slug": "31-chpt-12-assembly-of-forces-in-time",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "77275a64-5848-582a-90d6-92df2c05c1d2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2776,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch12.htm"
+    }
+  ]
+}

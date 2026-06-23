@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-gramsci-the-two-fascisms-1d2dee",
+  "work_title": "The Two Fascisms",
+  "chapter_number": 1,
+  "chapter_title": "The Two Fascisms",
+  "chapter_slug": "01-the-two-fascisms",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10e9394d-b70b-5fab-a62c-34319a38fd1f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 880,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gramsci/1921/08/two_fascisms.htm"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "alfred-marshall-principles-of-economics-082b5b",
   "work_title": "Principles of Economics",
   "chapter_number": 33,
-  "chapter_title": "BOOK V, CHAPTER III: EQUILIBRIUM OF NORMAL DEMAND AND SUPPLY.",
+  "chapter_title": "Book V, Chapter VI: Joint and Composite Demand. Joint and Composite Supply.",
   "chapter_slug": "33",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 4531,
-      "paragraph_count": 32,
+      "word_count": 3268,
+      "paragraph_count": 29,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
     }

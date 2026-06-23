@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 115,
+  "chapter_title": "The Prologue, In Answer to Mr. Wren’s PREFACE.",
+  "chapter_slug": "115-the-prologue-in-answer-to-mr-wren-s-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "999ed7d7-678a-52d7-bee1-733b3fec068c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1235,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

@@ -4,7 +4,10 @@ slug: "p-vergilius-maro-virgil-eclogues-87e240"
 title: Eclogues
 author:
   name: P. Vergilius Maro (Virgil)
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman poet of the Augustan age, patronized by Maecenas and read at the court of Augustus. The Eclogues and Georgics shaped Latin pastoral and didactic verse before the Aeneid became the national epic of Rome.
+  birth_year: -70
+  death_year: -19
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

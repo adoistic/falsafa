@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 96,
+  "chapter_title": "Chapter XXII: Why Democratic Nations Are Naturally Desirous Of Peace, And Democratic Armies Of War",
+  "chapter_slug": "96",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b5558299-1aa6-5e62-a5c2-53efdae79363",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2641,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch39.htm"
+    }
+  ]
+}

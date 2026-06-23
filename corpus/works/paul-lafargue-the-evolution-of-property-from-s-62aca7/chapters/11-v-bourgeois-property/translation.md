@@ -1,0 +1,27 @@
+---
+work_id: "62aca711-2b63-5cd0-8682-ccfb40e4682a"
+work_slug: "paul-lafargue-the-evolution-of-property-from-s-62aca7"
+work_title: The Evolution of Property from Savagery to Civilization
+author_name: Paul Lafargue
+chapter_number: 11
+chapter_title: V. Bourgeois Property
+chapter_slug: "11-v-bourgeois-property"
+variant_id: "fadb206d-f39e-5610-bccb-6f5f4dbfb16d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 355
+source_url: "https://www.marxists.org/archive/lafargue/1890/property/5-bourgeois.html"
+translator: Marxists Internet Archive edition
+---
+
+WE have seen that landed property was originally common to the entire tribe in the shape of woodland, pasture, and even arable land; that it was converted into collective property when the clan broke up into the matriarchal or patriarchal families, and, lastly, into private property, on the disintegration of the patriarchal family and the constitution of the modern family, including the parents with their children, and a few supernumeraries, say the grandparents or an odd uncle or aunt who has failed in securing an establishment of his or her own, and whose inheritance is greedily coveted after.
+
+The march of movable property has been a different one; though, starting from the communist form, it far more rapidly arrived at the private form; even among savages, living in community, the arms and ornaments are considered as attached to the individual, and are frequently interred with the corpses.
+
+The instruments of labour have at all times been considered as the personal property of him who wielded them; during the periods of slavery and serfdom, the tools and the soil were surrendered to the slave or serf who used them and for whom they constituted a sort of property. Individual appropriation of the instrument of labour results from its personal character, and it owes this character to the fact that it is small, of little value, and capable of being manipulated by a single individual; from this point of view the implement of the artificer may be assimilated to the field of the peasant cultivator, which is small, of little value, and usable by a single individual, that is to say, cultivable by himself and the members of his family.
+
+Landed property, as it evolved, prior to the bourgeois property, on the one hand ran into small peasant property and on the other into feudal property. Agriculture was the prime motor of this evolution. Commerce was the motor of the evolution of the property of the instruments of labour and industrial products, which, once it has attained a certain degree of development reacts, as Marx has demonstrated, on landed property, and accelerates its transformation into bourgeois property.

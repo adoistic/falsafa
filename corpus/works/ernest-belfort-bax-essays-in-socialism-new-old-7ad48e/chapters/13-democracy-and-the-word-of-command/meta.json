@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
+  "work_title": "Essays in Socialism: New & Old",
+  "chapter_number": 13,
+  "chapter_title": "Democracy and the Word of Command",
+  "chapter_slug": "13-democracy-and-the-word-of-command",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b82ea1e0-fc90-58d3-89b6-37e990b5605f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2331,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1898/05/command.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-oppenheimer-the-state-a06f2f",
+  "work_title": "The State",
+  "chapter_number": 7,
+  "chapter_title": "Chapter VI.",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "20e91e9b-932d-5b9f-8854-ab08796ad663",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7583,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/oppenheimer-the-state"
+    }
+  ]
+}

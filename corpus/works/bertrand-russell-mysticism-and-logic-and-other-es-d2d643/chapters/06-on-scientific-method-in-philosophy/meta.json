@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-mysticism-and-logic-and-other-es-d2d643",
+  "work_title": "Mysticism and Logic and Other Essays",
+  "chapter_number": 6,
+  "chapter_title": "On Scientific Method in Philosophy",
+  "chapter_slug": "06-on-scientific-method-in-philosophy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "81827a55-8074-5e9f-9d92-46d8163e77e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8327,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/25447"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-considerations-on-representative-ccd97d",
+  "work_title": "Considerations on Representative Government",
+  "chapter_number": 16,
+  "chapter_title": "Chapter XVI — Of Nationality, as connected with Representative Government",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fcac1965-3b6f-5ea7-8a10-b01926999cbc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2925,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5669"
+    }
+  ]
+}

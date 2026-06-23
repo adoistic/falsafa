@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-are-the-jews-a-race-e635c6",
+  "work_title": "Are the Jews a Race?",
+  "chapter_number": 4,
+  "chapter_title": "III. The Races of Man",
+  "chapter_slug": "04-iii-the-races-of-man",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a0e99c4e-8312-56b2-babf-f00008b64244",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4758,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1914/jewsrace/ch03.htm"
+    }
+  ]
+}

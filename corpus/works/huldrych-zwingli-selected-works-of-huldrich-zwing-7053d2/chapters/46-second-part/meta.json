@@ -1,0 +1,26 @@
+{
+  "work_slug": "huldrych-zwingli-selected-works-of-huldrich-zwing-7053d2",
+  "work_title": "Selected Works of Huldrich Zwingli",
+  "chapter_number": 46,
+  "chapter_title": "Second Part.",
+  "chapter_slug": "46-second-part",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "706f18a5-be4c-5edd-a38d-55d75db2307d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 109,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/zwingli-selected-works-of-huldrich-zwingli"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "james-tyrrell-patriarcha-non-monarcha-2d1ee5"
 work_title: Patriarcha non Monarcha
 author_name: James Tyrrell
 chapter_number: 3
-chapter_title: "CHAP. II.: Observations on the Directions for Obedience in doubtful times, and other places of his Patriarcha, and other"
+chapter_title: "Chap. II.: Observations on the Directions for Obedience in doubtful times, and other places of his Patriarcha, and other"
 chapter_slug: "03-chap-ii-observations-on-the-directions-for-obedien"
 variant_id: "be02638d-4abc-5b09-ad4e-e17db3b10f99"
 content_type: translation

@@ -4,7 +4,7 @@ work_slug: "eugen-richter-pictures-of-the-socialistic-futu-81939f"
 work_title: Pictures of the Socialistic Future
 author_name: Eugen Richter
 chapter_number: 7
-chapter_title: "Chapter IV: THE CHOICE OF TRADES."
+chapter_title: "Chapter IV: The Choice of Trades."
 chapter_slug: 07
 variant_id: "41888d29-70eb-5b52-a6aa-f201c044b2d0"
 content_type: translation
@@ -13,16 +13,16 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 633
+word_count: 625
 source_url: "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
 translator: Online Library of Liberty edition
 ---
 
-Big red placards on all the hoardings remind people that in accordance with the regulations of the new Labour Law, all persons of both sexes between the ages of twenty-one and sixty-five years, are required within three days to register themselves with a view to being told off to some trade. The old police stations and various other public offices come in Edition: current; Page: [9] nicely for this purpose. The attention of women and girls is especially called to the fact that on their entering upon work in one of the numerous State workshops, they are forthwith relieved from all household toil, such as taking care of children, the preparation of meals, nursing the sick, washing, etc., etc. All children and young people are to be brought up in State maintenance houses and in public schools. The chief meal of each day will be taken at the State cookshop of the district. Sick people must all be sent to the hospitals. Washing can be done solely at the great central washhouses of the State. The hours of work, for both sexes, both in trades and in State or public departments, are fixed at eight hours for the present.
+Big red placards on all the hoardings remind people that in accordance with the regulations of the new Labour Law, all persons of both sexes between the ages of twenty-one and sixty-five years, are required within three days to register themselves with a view to being told off to some trade. The old police stations and various other public offices come in nicely for this purpose. The attention of women and girls is especially called to the fact that on their entering upon work in one of the numerous State workshops, they are forthwith relieved from all household toil, such as taking care of children, the preparation of meals, nursing the sick, washing, etc., etc. All children and young people are to be brought up in State maintenance houses and in public schools. The chief meal of each day will be taken at the State cookshop of the district. Sick people must all be sent to the hospitals. Washing can be done solely at the great central washhouses of the State. The hours of work, for both sexes, both in trades and in State or public departments, are fixed at eight hours for the present.
 
 Documentary evidence is in all cases required as a proof of the capabilities of persons to perform the duties they enter themselves for; and in each case the business hitherto followed has to be stated as well. Entries as clergymen cannot for a moment be entertained, seeing that by a resolution come to at the Erfurt Conference of 1891, and which is now accepted as a fundamental law of the State, it is strictly prohibited to devote any national funds to religious or ecclesiastical purposes. Such persons, however, who, nevertheless, wish to follow this profession, have full liberty to qualify themselves for it in their leisure hours, after having worked the normal number of eight hours in some branch which is recognised by the State as a trade.
 
-After the publication of this intelligence, the life in the streets resembled that on a mustering day in a garrison town. Persons of the same trade formed themselves into knots and groups, and having decorated Edition: current; Page: [10] themselves with some sign of the trade chosen, marched through the streets singing and shouting. There were numerous groups of women and girls, who painted in the liveliest colours the delights they anticipate from the trades chosen, now that they have once got rid of all housework. One hears that a great many persons have chosen an entirely different line from the one hitherto followed. Many seem to fancy that the mere choice of a trade is identical with being already installed in it, but such is, of course, by no means the case.
+After the publication of this intelligence, the life in the streets resembled that on a mustering day in a garrison town. Persons of the same trade formed themselves into knots and groups, and having decorated themselves with some sign of the trade chosen, marched through the streets singing and shouting. There were numerous groups of women and girls, who painted in the liveliest colours the delights they anticipate from the trades chosen, now that they have once got rid of all housework. One hears that a great many persons have chosen an entirely different line from the one hitherto followed. Many seem to fancy that the mere choice of a trade is identical with being already installed in it, but such is, of course, by no means the case.
 
 So far as we as a family are concerned we mean to make no change, but to remain faithful to those old trades we have got to like; so my son Franz, my future daughter-in-law Agnes, and I myself have entered our names accordingly. My wife has registered herself as an attendant at one of the children's homes. By this means she proposes still to exercise her maternal care over our youngest child Annie, four years of age, whom we shall now, of course, have to yield up.
 

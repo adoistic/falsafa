@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-evolutionary-socialism-3ea1cc",
+  "work_title": "Evolutionary Socialism",
+  "chapter_number": 5,
+  "chapter_title": "(c) The Marxist Doctrine of Class War and of the Evolution of Capital",
+  "chapter_slug": "05-c-the-marxist-doctrine-of-class-war-and-of-the-evo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4d81af16-6945-55f8-bafa-0dd2fa87eb8e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2219,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1899/evsoc/ch01.htm"
+    }
+  ]
+}

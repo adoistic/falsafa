@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 66,
+  "chapter_title": "Chap. I.: Containing the Civil Part of the Model, propos’d practicably.",
+  "chapter_slug": "66-chap-i-containing-the-civil-part-of-the-model-prop",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8d20d05f-ef6c-53f5-96bf-6b39278946cc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8100,
+      "paragraph_count": 87,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

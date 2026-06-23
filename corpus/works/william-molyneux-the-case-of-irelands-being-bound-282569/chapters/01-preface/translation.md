@@ -4,7 +4,7 @@ work_slug: "william-molyneux-the-case-of-irelands-being-bound-282569"
 work_title: "The Case of Ireland's Being Bound by Acts of Parliament in England, Stated"
 author_name: William Molyneux
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "80392723-81ca-5290-8c68-9dfe4b0216f0"
 content_type: translation

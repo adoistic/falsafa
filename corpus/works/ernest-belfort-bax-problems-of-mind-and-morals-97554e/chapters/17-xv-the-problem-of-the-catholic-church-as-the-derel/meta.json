@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-problems-of-mind-and-morals-97554e",
+  "work_title": "Problems of Mind and Morals",
+  "chapter_number": 17,
+  "chapter_title": "XV. The Problem of the Catholic Church as the Derelict of the Ages",
+  "chapter_slug": "17-xv-the-problem-of-the-catholic-church-as-the-derel",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e8f0ad9b-81c3-5bb3-b46d-d9d5836a0fa6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3120,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1912/probs/15-catholic.htm"
+    }
+  ]
+}

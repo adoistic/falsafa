@@ -4,7 +4,7 @@ work_slug: "henry-sumner-maine-dissertations-on-early-law-and-c-a70410"
 work_title: Dissertations on Early Law and Custom
 author_name: Henry Sumner Maine
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "4d396446-aff7-54e7-ae9c-9882ec4b13e9"
 content_type: translation

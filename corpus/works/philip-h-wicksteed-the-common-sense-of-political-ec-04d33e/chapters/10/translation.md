@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 10
-chapter_title: "CHAPTER VII: MARKETS (Continued). INTEREST. TOOLS. LAND"
+chapter_title: "Chapter VII: Markets (Continued). Interest. Tools. Land"
 chapter_slug: 10
 variant_id: "1855b920-0e2e-5129-9bf5-626942bd1f9e"
 content_type: translation

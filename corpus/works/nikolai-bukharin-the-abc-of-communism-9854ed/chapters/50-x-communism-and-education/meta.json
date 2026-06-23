@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 50,
+  "chapter_title": "X. Communism and Education",
+  "chapter_slug": "50-x-communism-and-education",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "78fd1d5c-a6fa-5cbd-8369-333f632ce940",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6367,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/10.htm"
+    }
+  ]
+}

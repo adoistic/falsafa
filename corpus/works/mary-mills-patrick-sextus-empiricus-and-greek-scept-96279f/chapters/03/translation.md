@@ -4,7 +4,7 @@ work_slug: "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f"
 work_title: Sextus Empiricus and Greek Scepticism
 author_name: Mary Mills Patrick
 chapter_number: 3
-chapter_title: Chapter III
+chapter_title: Chapter II
 chapter_slug: 03
 variant_id: "629ecee4-d272-570e-b845-4c8cdaa52dfa"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 105
+word_count: 126
 source_url: "https://www.gutenberg.org/ebooks/17556"
 translator: Project Gutenberg edition
 ---
 
-*The Nomenclature of Scepticism.*
+*Ways of Treating Scepticism.*
 
-The Sceptical School is also called the "Seeking School," from 7 its spirit of research and examination; the "Suspending School," from the condition of mind in which one is left after the search, in regard to the things that he has examined; and the "Doubting School," either because, as some say, the Sceptics doubt and are seeking in regard to everything, or because they never know whether to deny or affirm. It is also called the Pyrrhonean School, because Pyrrho appears to us the best representative of Scepticism, and is more prominent than all who before him occupied themselves with it.
+One way of treating the Sceptical philosophy is called 5 general, and the other special. The general method is that by which we set forth the character of Scepticism, declaring what its idea is, what its principles are, its mode of reasoning, its criterion, and its aim. It presents also, the aspects of doubt, [Greek: hoi tropoi tes epoches], and the way in which we should understand the Sceptical formulae, and the distinction between Scepticism and the related Schools of philosophy. The special method, on the contrary, is that by which we 6 speak against 6 each part of so-called philosophy. Let us then treat Scepticism at first in the general way, beginning our delineation with the nomenclature of the Sceptical School.

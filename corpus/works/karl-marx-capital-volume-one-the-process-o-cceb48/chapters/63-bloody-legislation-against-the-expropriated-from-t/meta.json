@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 63,
+  "chapter_title": "Bloody Legislation against the Expropriated, from the End of the 15th Century. Forcing down of Wages by Acts of Parliame",
+  "chapter_slug": "63-bloody-legislation-against-the-expropriated-from-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "be89efb0-8982-5e78-8c34-6a08a7a56e49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2786,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch28.htm"
+    }
+  ]
+}

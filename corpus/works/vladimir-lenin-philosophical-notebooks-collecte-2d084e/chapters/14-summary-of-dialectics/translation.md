@@ -1,0 +1,75 @@
+---
+work_id: "2d084eee-d430-5d63-bc92-d1ca2dbf9aac"
+work_slug: "vladimir-lenin-philosophical-notebooks-collecte-2d084e"
+work_title: Philosophical Notebooks (Collected Works, Volume 38)
+author_name: Vladimir Lenin
+chapter_number: 14
+chapter_title: Summary of Dialectics
+chapter_slug: "14-summary-of-dialectics"
+variant_id: "1f803608-a2b1-5a31-8c40-b54a44495725"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1543
+source_url: "https://www.marxists.org/archive/lenin/works/1914/cons-logic/summary.htm"
+translator: Clemence Dutt
+---
+
+Note that this document has undergone special formating to ensure that Lenin’s sidenotes fit on the page, marking as best as possible where they were located in the original manuscript.
+
+[... Back to Book 3, Section 3 of Lenin’s Conspectus]
+
+A determination which is not a clear one!!
+
+1) The determination of the concept out of itself [the thing itself must be consid- ered in its relations and in its develop- ment];
+
+2) the contradictory nature of the thing itself (das Andere seiner), the contra- dictory forces and tendencies in each phe- nomenon;
+
+3) the union of analysis and synthesis.
+
+Such apparently are the elements of dialectics.
+
+One could perhaps present these ele- ments in greater detail as follows:
+
+In brief, dialectics can be defined as the doctrine of the unity of opposites. This embodies the essence of dialectics, but it requires explanations and develop- ment.
+
+[... Back to Book 3, Section 3 of Lenin’s Conspectus]
+
+the other of itself—Ed.
+
+The fragment On the Question of Dialectics is contained in a notebook between the conspectus of Lassalle’s book on Heraclitus and the conspectus of Aristotle’s Metaphysics. Written in 1915 in Bern. Note that this document has undergone special formating to ensure that Lenin’s sidenotes fit on the page, marking as best as possible where they were located in the original manuscript.
+
+The splitting of a single whole and the cognition of its contradictory parts (see the quotation from Philo on Heraclitus at the beginning of Section III, “On Cognition,” in Lasalle’s book on Heraclitus) is the essence (one of the “essentials,” one of the principal, if not the principal, characteristics or features) of dialectics. That is precisely how Hegel, too, puts the matter (Aristotle in his Metaphysics continually grapples with it and combats Heraclitus and Heraclitean ideas).
+
+The correctness of this aspect of the content of dialectics must be tested by the history of science. This aspect of dialectics (e.g. in Plekhanov) usually receives inadequate attention: the identity of opposites is taken as the sum-total of examples [“for example, a seed,” “for example, primitive communism.” The same is true of Engels. But it is “in the interests of popularisation...”] and not as a law of cognition (and as a law of the objective world).
+
+The identity of opposites (it would be more correct, perhaps, to say their “unity,”—although the difference between the terms identity and unity is not particularly important here. In a certain sense both are correct) is the recognition (discovery) of the contradictory, mutually exclusive, opposite tendencies in all phenomena and processes of nature (including mind and society). The condition for the knowledge of all processes of the world in their “self-movement,” in their spontaneous development, in their real life, is the knowledge of them as a unity of opposites. Development is the “struggle” of opposites. The two basic (or two possible? Or two historically observable?) conceptions of development (evolution) are: development as decrease and increase, as repetition, and development as a unity of opposites (the division of a unity into mutually exclusive opposites and their reciprocal relation).
+
+In the first conception of motion, self - movement, its driving force, its source, its motive, remains in the shade (or this source is made external—God, subject, etc.). In the second conception the chief attention is directed precisely to knowledge of the source of “self” - movement.
+
+The first conception is lifeless, pale and dry. The second is living. The second alone furnishes the key to the “self-movement” of everything existing; it alone furnishes the key to “leaps,” to the “break in continuity,” to the “transformation into the opposite,” to the destruction of the old and the emergence of the new.
+
+The unity (coincidence, identity, equal action) of opposites is conditional, temporary, transitory, relative. The struggle of mutually exclusive opposites is absolute, just as development and motion are absolute.
+
+NB: The distinction between subjectivism (scepticism, sophistry, etc.) and dialectics, incidentally, is that in (objective) dialectics the difference between the relative and the absolute is itself relative. For objective dialectics there is an absolute within the relative. For subjectivism and sophistry the relative is only relative and excludes the absolute.
+
+In his Capital, Marx first analyses the simplest, most ordinary and fundamental, most common and everyday relation of bourgeois (commodity) society, a relation encountered billions of times, viz., the exchange of commodities. In this very simple phenomenon (in this “cell” of bourgeois society) analysis reveals all the contradictions (or the germs of all contradictions) of modern society. The subsequent exposition shows us the development (both growth and movement) of these contradictions and of this society in the Σ of its individual parts. From its beginning to its end.
+
+Such must also be the method of exposition (i.e., study) of dialectics in general (for with Marx the dialectics of bourgeois society is only a particular case of dialectics). To begin with what is the simplest, most ordinary, common, etc., with any proposition: the leaves of a tree are green; John is a man: Fido is a dog, etc. Here already we have dialectics (as Hegel’s genius recognised): the individual is the universal. (cf. Aristoteles, Metaphisik, translation by Schegler, Bd. II, S. 40, 3. Buch, 4. Kapitel, 8-9: “denn natürlich kann man nicht der Meinung sin, daß es ein Haus (a house in general) gebe außer den sichtbaren Häusern,” “ού γρ άν ΰείημεν είναί τινα οίχίαν παρα τχς τινάς οίχίας”). Consequently, the opposites (the individual is opposed to the universal) are identical: the individual exists only in the connection that leads to the universal. The universal exists only in the individual and through the individual. Every individual is (in one way or another) a universal. Every universal is (a fragment, or an aspect, or the essence of) an individual. Every universal only approximately embraces all the individual objects. Every individual enters incompletely into the universal, etc., etc. Every individual is connected by thousands of transitions with other kinds of individuals (things, phenomena, processes) etc. Here already we have the elements, the germs, the concepts of necessity, of objective connection in nature, etc. Here already we have the contingent and the necessary, the phenomenon and the essence; for when we say: John is a man, Fido is a dog, this is a leaf of a tree, etc., we disregard a number of attributes as contingent; we separate the essence from the appearance, and counterpose the one to the other.
+
+Thus in any proposition we can (and must) disclose as in a “nucleus” (“cell”) the germs of all the elements of dialectics, and thereby show that dialectics is a property of all human knowledge in general. And natural science shows us (and here again it must be demonstrated in any simple instance) objective nature with the same qualities, the transformation of the individual into the universal, of the contingent into the necessary, transitions, modulations, and the reciprocal connection of opposites. Dialectics is the theory of knowledge of (Hegel and) Marxism. This is the “aspect” of the matter (it is not “an aspect” but the essence of the matter) to which Plekhanov, not to speak of other Marxists, paid no attention.
+
+Knowledge is represented in the form of a series of circles both by Hegel (see Logic) and by the modern “epistemologist” of natural science, the eclectic and foe of Hegelianism (which he did not understand!), Paul Volkmann (see his Erkenntnistheorische Grundzüge, S.)
+
+“Circles” in philosophy: [is a chronology of persons essential? No!] Ancient: from Democritus to Plato and the dialectics of Heraclitus. Renaissance: Descartes versus Gassendi (Spinoza?) Modern: Holbach—Hegel (via Berkeley, Hume, Kant). Hegel—Feuerbach—Marx
+
+Dialectics as living, many-sided knowledge (with the number of sides eternally increasing), with an infinite number of shades of every approach and approximation to reality (with a philosophical system growing into a whole out of each shade)—here we have an immeasurably rich content as compared with “metaphysical” materialism, the fundamental misfortune of which is its inability to apply dialectics to the Bildertheorie, to the process and development of knowledge.
+
+Philosophical idealism is only nonsense from the stand- point of crude, simple, metaphysical materialism. From the standpoint of dialectical materialism, on the other hand, philosophical idealism is a one-sided, exaggerated, überschwengliches (Dietzgen) development (inflation, distension) of one of the features, aspects, facets of knowl- edge, into an absolute, divorced from matter, from nature,
+
+apotheosised. Idealism is clerical obscurantism. True. But philosophical idealism is (“more correctly” and “in addition”) a road to clerical obscurantism through one of the shades of the infinitely com- plex knowledge (dialectical) of man.
+
+Human knowledge is not (or does not follow) a straight line, but a curve, which endlessly approximates a series of circles, a spiral. Any fragment, segment, section of this curve can be transformed (transformed one-sidedly) into an independent, complete, straight line, which then (if one does not see the wood for the trees) leads into the quagmire, into clerical obscurantism (where it is anchored by the class interests of the ruling classes). Rectilinearity and one-sidedness, woodenness and petrification, subjectivism and subjective blindness—voilà the epistemological roots of idealism. And clerical obscrutantism (= philosophical idealism), of course, has epistemological roots, it is not groundless; it is a sterile flower undoubtedly, but a sterile flower that grows on the living tree of living, fertile, genuine, powerful, omnipotent, objective, absolute human knowledge.

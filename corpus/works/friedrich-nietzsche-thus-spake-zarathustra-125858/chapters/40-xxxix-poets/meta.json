@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 40,
+  "chapter_title": "XXXIX. Poets.",
+  "chapter_slug": "40-xxxix-poets",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "44cdc9d2-29fb-5d1b-bbea-b39de88799fe",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 840,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97063a8b-652b-519e-914e-bbd50e2b455e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 945,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

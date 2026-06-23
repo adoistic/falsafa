@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 13
-chapter_title: "LETTER XIII.: To Dr. Smith, on Projects in Arts, &c."
+chapter_title: "Letter XIII.: To Dr. Smith, on Projects in Arts, &c."
 chapter_slug: 13
 variant_id: "918963da-ce0c-5ae9-8f09-5db3283e2c14"
 content_type: translation

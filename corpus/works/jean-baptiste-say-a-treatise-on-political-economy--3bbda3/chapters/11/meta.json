@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 11,
-  "chapter_title": "BOOK I, CHAPTER VIII: OF THE ADVANTAGES AND DISADVANTAGES RESULTING FROM DIVISION OF LABOUR, AND OF THE EXTENT TO WHICH ",
+  "chapter_title": "Book I, Chapter X: Of the Transformations Undergone by Capital in the Progress of Production",
   "chapter_slug": "11",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3061,
-      "paragraph_count": 26,
+      "word_count": 1607,
+      "paragraph_count": 17,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

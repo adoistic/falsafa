@@ -1,0 +1,35 @@
+---
+work_id: "45ad41cc-7379-5c6a-b587-3aa73a883f31"
+work_slug: "condy-raguet-the-principles-of-free-trade-45ad41"
+work_title: The Principles of Free Trade
+author_name: Condy Raguet
+chapter_number: 25
+chapter_title: Essay No. XXV.
+chapter_slug: "25-essay-no-xxv"
+variant_id: "8ff4d2ae-573d-5cef-b8f8-2a6616b747df"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1164
+source_url: "https://oll.libertyfund.org/titles/raguet-the-principles-of-free-trade"
+translator: Online Library of Liberty edition
+---
+
+The doctrine, that countervailing duties against the restrictive laws of other nations are beneficial, shewn to be unsound, by reference to the trade between Buenos Ayres and the United States.
+
+ONE of the most usual arguments with the advocates of high duties, and even with some who strongly incline to the doctrine of free trade, is, that if nations adopt the restrictive system, as relates to our productions, it is wise policy in us to adopt it in relation to their productions. A very simple illustration will shew the fallacy of this position, and we shall draw one, from a species of trade which can very easily be comprehended.
+
+The commerce between the United States and Buenos Ayres consists, for the most part, in an exchange of agricultural products. We send to her, flour; she gives us in exchange for it, hides. Now, why should the people of the United States, who have such an abundance of grazing lands, send all the way to Buenos Ayres, a distance of seven thousand miles, to procure what they can raise at home? And why should the people of Buenos Ayres, who have very fine wheat lands, send all the way to North America to procure what they can raise at home? The answer is plain; because each, by appropriating its lands to the raising of the particular species of agricultural productions for which they are best adapted, and then bartering the one for the other, can procure a greater quantity of the article desired, than if it were raised at home. In other words, the American farmer, by raising wheat, can purchase with it, by sending it abroad, more hides than he could obtain if he were to raise cattle on his farm; and the Buenos Ayrean Gaucho, by grazing cattle, can purchase more flour, by sending his hides abroad, than he could raise, with the same capital and labour, if he were to till his lands. This is the principle upon which commerce is founded. Every nation has some particular advantage over others, or else an interchange of commodities could not exist, and whether this advantage be natural, as in climate or soil—or, artificial, as in skill, industry, intelligence, enterprize, low wages, or, abundance of capital, it is of no sort of consequence; the benefits of mutual exchanges are the same.
+
+Let us now suppose that at Buenos Ayres there is no duty on American flour, as in the United States there is no duty on Buenos Ayrean hides. Let us also suppose, that a Pennsylvania farmer upon one hundred acres of land can raise 2000 bushels of wheat, which can be manufactured into 400 barrels of flour, and that this flour can be bartered at Buenos Ayres for hides, so as to bring back, we will suppose, after paying freight outwards and homewards, and paying insurance, commissions, and all other charges, 400 hides, that is, one hide for every barrel of flour. We will also suppose that the Pennsylvania farmer, by grazing instead of tillage, can only get off of his hundred acres of land, 200 hides, that is half the quantity. The proposition we are to combat asserts, that if the Buenos Ayrean government should lay a duty on flour, it would be good policy in our government to lay a corresponding duty on hides, that is, that we should be benefited by such countervailing duty. Let us examine this matter minutely.
+
+Buenos Ayres imposes a duty of fifty per cent on American flour. The effect of this would be to diminish its consumption; for, at a higher price, it is not possible that the same quantity of any commodity can be consumed. The Pennsylvania farmer finds a diminished demand for flour at Buenos Ayres, and he will not, consequently, raise so much wheat. He experiences a positive loss from this diminution of his trade, arising from the act of the Buenos Ayrean government, and the Buenos Ayrean people also experience a corresponding loss, from a diminution in the demand for hides. Each nation, from necessity, will be obliged to turn a portion of its capital and industry to a less productive branch of agriculture. But the Pennsylvania farmer can still find a market at Buenos Ayres for the produce of 75 acres of his land, that is, for 300 barrels of flour, and can receive in exchange for it 300 hides. It is therefore better for him, to go on with his trade, because, notwithstanding this high duty, he can get more hides from Buenos Ayres for the produce of his 75 acres, than he could get from turning his land to grazing.
+
+Buenos Ayres, we will suppose, goes still further. She increases the duty on American flour, and by that means diminishes the consumption of it to 200 barrels. Still the Pennsylvania farmer can find a market for the product of half his land, and so long as the market is left open to him for any portion of it, it is not for his interest that he should restrict it, further than the Buenos Ayrean government itself has done. A half a loaf is better than no bread. If a man refuses to buy two hats, that is no reason why a hatter should refuse to sell him one, or, if he refuses to buy of a butcher a quarter of mutton, that is no reason why the butcher should refuse to sell him a leg. That a countervailing duty would only make matters worse, can easily be shewn by following up the illustration.
+
+The United States government, by way of retaliation, lays a duty upon Buenos Ayrean hides. This diminishes the sale of hides in Buenos Ayres, and as those who cannot sell, are deprived to an equal extent of the power of buying, the demand for American flour is, to that amount, diminished, and thus the Pennsylvania farmer would find that the act of his own government, instead of benefiting him, had aggravated the original evil, and that the effect of such a measure would be precisely like that of a man, who, by way of retaliation upon another for a supposed wrong, should fall to work and pull his hair out of his own head, as some foolish children do.
+
+A countervailing duty is only justifiable upon economical principles, where there is a reasonable probability that the original aggressor upon the laws of free trade can be coerced into an abandonment of his error. If it should fail of success, it cannot but be productive of mischief, and as a permanent system it is always to be avoided. Unless this reasoning can be shewn to be unsound, it must follow that, if nine nations out of ten adopt the restrictive system, it is the true policy of the tenth one to stick to free trade, and if the nine are silly enough to refuse to buy two barrels of flour, to sell them one, rather than none.

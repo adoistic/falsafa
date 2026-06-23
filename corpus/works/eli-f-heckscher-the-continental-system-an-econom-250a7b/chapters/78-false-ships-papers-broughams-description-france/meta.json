@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 78,
+  "chapter_title": "False Ships' Papers (Brougham's Description), France",
+  "chapter_slug": "78-false-ships-papers-broughams-description-france",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ba6a4070-37fe-5410-a2bd-65eafdeb10e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 457,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

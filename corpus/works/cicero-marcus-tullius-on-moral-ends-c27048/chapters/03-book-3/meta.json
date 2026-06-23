@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-on-moral-ends-c27048",
+  "work_title": "On Moral Ends",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6ff77e90-d9d9-522a-8453-9d07ab86b9d7",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7926,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi048"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "20c5f28f-8aba-5946-8f2b-b674f789e98a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11563,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

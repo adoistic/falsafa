@@ -1,0 +1,26 @@
+{
+  "work_slug": "benedetto-croce-historical-materialism-and-the-e-1a47d3",
+  "work_title": "Historical Materialism and the Economics of Karl Marx",
+  "chapter_number": 9,
+  "chapter_title": "IV of Scientific Knowledge in Face of Social Problems",
+  "chapter_slug": "09-iv-of-scientific-knowledge-in-face-of-social-probl",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5513c4e8-a7cd-5dce-a9ec-10962dc2025c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2895,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/croce/works/marx/ch03.htm"
+    }
+  ]
+}

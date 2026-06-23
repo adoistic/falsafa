@@ -1,0 +1,39 @@
+---
+work_id: "6733adbb-7791-5c58-b040-6b5bbf1c5c7e"
+work_slug: "peter-kropotkin-the-conquest-of-bread-6733ad"
+work_title: The Conquest of Bread
+author_name: Peter Kropotkin
+chapter_number: 29
+chapter_title: 9.4
+chapter_slug: "29-9-4"
+variant_id: "54b4d24f-040a-5ecf-bc54-8e5c3ce2e10a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1008
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1892/bread.htm"
+translator: Marxists Internet Archive edition
+---
+
+Literature, science, and art must be cultivated by free men. Only on this condition will they succeed in emancipating themselves from the yoke of the State, of Capital, and of the bourgeois mediocrity which stifles them.
+
+What means has the scientist of to-day to make researches that interest him? Should he ask help of the State, which can only be given to one candidate in a hundred, and which only he may obtain who promises ostensibly to keep to the beaten track? Let us remember how the Academy of Sciences of France repudiated Darwin, how the Academy of St. Petersburg treated Mendeléeff with contempt, and how the Royal Society of London refused to publish Joule’s paper, in which he determined the mechanical equivalent of heat, finding it “unscientific.”
+
+It was why all great researches, all discoveries revolutionizing science, have been made outside academies and universities, either by men rich enough to remain independent, like Darwin and Lyell, or by men who undermined their health by working in poverty, and often in great straits, losing endless time for want of a laboratory, and unable to procure the instruments or books necessary to continue their researches, but persevering against hope, and often dying before they had reached the end in view. Their name is legion.
+
+Altogether, the system of help granted by the State is so bad that science has always endeavoured to emancipate itself from it. For this very reason there are thousands of learned societies organized and maintained by volunteers in Europe and America, – some having developed to such a degree that all the resources of subventioned societies, and all the wealth of millionaires, would not buy their treasures. No governmental institution is as rich as the Zoological Society of London, which is supported by voluntary contributions.
+
+It does not buy the animals which in thousands people its gardens: they are sent by other societies and by collectors of the entire world. The Zoological Society of Bombay will send an elephant as a gift; another time a hippopotamus or a rhinoceros is offered by Egyptian naturalists. And these magnificent presents are pouring in every day, arriving from all quarters of the globe – birds, reptiles, collections of insects, etc. Such consignments often comprise animals that could not be bought for all the gold in the world; thus a traveller who has captured an animal at life’s peril, and now loves it as he would love a child, will give it to the Society because he is sure it will be cared for. The entrance fee paid by visitors, and they are numberless, suffices for the maintenance of that immense institution.
+
+What is defective in the Zoological Society of London, and in other kindred societies, is that the member’s fee cannot be paid in work; that the keepers and numerous employes of this large institution are not recognized as members of the Society, while many have no other incentive to joining the society than to put the cabalistic letters F.Z.S (Fellow of the Zoological Society) on their cards. In a word, what is needed is a more perfect co-operation.
+
+We may say the same about inventors, that we have said of scientists. Who does not know what sufferings nearly all great inventions have cost? Sleepless nights, families deprived of bread, want of tools and materials for experiments, this is the history of nearly all those who have enriched industry with inventions which are the truly legitimate pride of our civilization.
+
+But what are we to do to alter the conditions that everybody is convinced are bad? Patents have been tried, and we know with what results. The inventor sells his patent for a few pounds, and the man who has only lent the capital pockets the enormous profits often resulting from the invention. Besides, patents isolate the inventor. They compel him to keep secret his researches which therefore end in failure; whereas the simplest suggestion, coming from a brain less absorbed in the fundamental idea, sometimes suffices to fertilize the invention and make it practical. Like all State control, patents hamper the progress of industry. Thought being incapable of being patented, patents are a crying injustice in theory, and in practice they result in one of the great obstacles to the rapid development of invention.
+
+What is needed to promote the spirit of invention is, first of all, the awakening of thought, the boldness of conception, which our entire education causes to languish; it is the spreading of a scientific education, which would increase the number of inquirers a hundredfold; it is faith that humanity is going to take a step forward, because it is enthusiasm, the hope of doing good, that has inspired all the great inventors. The Social Revolution alone can give this impulse to thought, this boldness, this knowledge, this conviction of working for all.
+
+Then we shall have vast institutes supplied with motor-power and tools of all sorts, immense industrial laboratories open to all inquirers, where men will be able to work out their dreams, after having acquitted themselves of their duty towards society; machinery palaces where they will spend their five or six hours of leisure; where they will make their experiments; where they will find other comrades, experts in other branches of industry, likewise coming to study some difficult problem, and therefore able to help and enlighten each other, – the encounter of their ideas and experience causing the longed-for solution to be found. And yet again, this is no dream. Solanóy Gorodók, in Petersburg, has already partially realized it as regards technical matters. It is a factory well furnished with tools and free to all; tools and motor-power are supplied gratis, only metals and wood are charged for at cost price. Unfortunately workmen only go there at night when worn out by ten hours’ labour in the workshop. Moreover, they carefully hide their inventions from each other, as they are hampered by patents and Capitalism – that bane of present society, that stumbling-block in the path of intellectual and moral progress.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 32,
+  "chapter_title": "On the Question of Dialectics",
+  "chapter_slug": "32-on-the-question-of-dialectics",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31c7b382-b97a-5daf-9984-490cb5ae73cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1383,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/misc/x02.htm"
+    }
+  ]
+}

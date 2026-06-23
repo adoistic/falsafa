@@ -1,0 +1,44 @@
+---
+work_id: "32299d14-2ed9-5fdb-b91c-549a6a447dd1"
+work_slug: "dio-chrysostom-orations-32299d"
+work_title: Orations
+author_name: Dio Chrysostom
+chapter_number: 78
+chapter_title: Oration 28
+chapter_slug: "78-oration-28"
+variant_id: "6afc983e-273c-5daa-937d-6122d7a473cc"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 1239
+translator: thothica
+---
+
+1. Having come up from the harbour, we walked straight on to see the athletes, as men who had made our whole sojourn for the sake of the spectacle of the contest. And when we were near the gymnasium, we saw some men running outside on the course, and there was a shouting of those who cheered them on, and others training in other ways. To these, then, it did not seem worth while to pay attention; but wherever we saw the greatest crowd, thither we walked.
+
+2. We see, then, very many standing by the colonnade of Heracles, and others ever coming up, and some going away too, because they could not see. At first, then, we tried to see by peering over, and with difficulty we saw the head of the man training and his hands stretched upward. Then little by little we got further within. There was, then, a youth very tall and handsome, and besides, as was natural, his body appeared greater and fairer through the training. And he trained very brilliantly and with spirit, so that he seemed rather to be competing.
+
+3. And when he ceased training and the crowd withdrew, we observed him more carefully. He was like the statues accurately wrought; and he had a colour like bronze well alloyed.
+
+4. And when he had departed, we asked one of those present, an old man, who he might be. And he, with a frown: "This, mind you, is Iatrocles, the antagonist of Melancomas, and the only one who thought not fit to yield to that man—so far at least as in him lay. Yet he did nothing more by it; for he was always beaten, sometimes after contending the whole day through; and now indeed Melancomas had grown weary, so that in this last contest at Neapolis he conquered no one more quickly than this man. But now you see how proud he is and in how great a crowd he trains. And I, for my part, think that he even rejoices over that man's death. And reasonably too; for he knows that not only this crown, but all the others as well, are now his own."
+
+5. "What," said I, "is Melancomas dead?"—for the name even we knew, though we had never seen him. "Not long ago," said he, "but it is some three days from the burial." "And in what," said I, "did he surpass this man, and the rest besides—in stature, or in courage?" "That man," said he, "my good sir, was born the most courageous and the greatest of all men, not of the athletes only, and besides the most handsome. And had he remained a private man and done nothing at all, for his beauty alone he would have been famous; since even now he turned all heads, whenever he went anywhere, even those who did not know who he was.
+
+6. "And yet he neither adorned himself with dress nor took pains to be recognized rather than to pass unnoticed by anything else; but when he stripped, there was no one whom any beheld instead of him, though many boys and many men were training. And whereas beauty is wont to lead even those who have moderately partaken of it into wantonness, he, being such in form, was yet the more self-controlled; and despising his beauty, he none the less guarded it in so harsh a pursuit.
+
+7. "Contending in boxing, at any rate, he was as sound as one of the runners; and he had trained so hard and so far surpassed in toils, that he was able to remain even two days in succession with his hands stretched out, and no one could see him let them fall or take rest, as men are wont. And he forced his antagonists to give up, not only before he himself was struck, but even before he struck them; for he reckoned that to strike and to be wounded was not courage, but rather the part of men unable to endure toil and wishing to be quit of it;
+
+8. "but to hold out for the time, and neither to be overcome by the weight of the hands nor to fall short in breath nor to be distressed by the heat—this, he held, was the noble thing." "Rightly indeed," said I, "did he conceive it. For in war too the basest throw away their arms, knowing well that they would the more be wounded unarmed; so much more are they overcome by weariness than by their wounds."
+
+9. "And so," said he, "from the time he began to contend at Pytho, he was, of those we know, the first to remain unbeaten throughout, taking up the most and greatest crowns, and using antagonists neither base nor few. And his father, who was very famous—that Melancomas from Caria, who won other contests and at Olympia—him, though not yet a man, he surpassed; for that man was not unbeaten.
+
+10. "Yet, being such, he died wretchedly, having come to the utmost of the toils of the contest, but having tasted none of the delights of life. And he was so exceedingly ambitious that, even when Athenodorus the pancratiast was dying, who had been his friend from boyhood, he asked how many days were left of the contest." And as he said this the old man wept.
+
+11. "But for you," said I, "there is pardon, in grieving overmuch, because something of his belongs surely to you." "By the gods," said he, "nothing of mine; for he was neither of my family nor did I train him, but one of the boys, the pancratiasts. But the man was such that all who knew him grieve over him."
+
+12. "Then," said I, "we must not call him wretched; on the contrary, he would be the most fortunate and most blessed, if indeed he was such as you say—who had it to obtain a brilliant birth and beauty, and besides courage and strength and self-control, which are indeed the greatest of goods; and, what is most marvellous in a man, to become unconquered, not only by his antagonists, but also by toil and heat and the belly and the pleasures of love. For one must first be unconquered by these who is to be left behind by none of his antagonists.
+
+13. "And what greater pleasures did anyone enjoy than he, who, being most ambitious, always conquered and perceived himself admired? And the gods seem to me to have loved him exceedingly and most of all to have honoured him by his death, that he might have no trial of grievous things. For it was inevitable that, as he advanced, he should become, instead of most handsome, more unsightly, and instead of strongest, weaker, and perhaps even be left behind by someone. But whoever departs together with the greatest goods, having done the best things, this man dies most happily. And one might find that of the men of old too the dear to the gods were short-lived." "Whom," said he, "do you mean by these?" "Achilles," said I, "and Patroclus and Hector and Memnon and Sarpedon." And as I was still naming others: "These things," said he, "you have said well, for the consolation of men, and I, for my part, wished to hear still more of you; but it is time to train the boy, and I am off.

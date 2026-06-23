@@ -1,57 +1,312 @@
 [
   {
-    "id": "p-93204f",
+    "id": "p-f324a7",
     "offset": 0,
-    "text": "*Of the Reduction of the Dilemma.*"
+    "text": "*Of the Mixed Form of Complex Syllogism*."
   },
   {
-    "id": "p-e99fc7",
-    "offset": 36,
-    "text": "§ 796. As the dilemma is only a peculiar variety of the partly conjunctive syllogism, we should naturally expect to find it reducible in the same way to the form of a simple syllogism. And such is in fact the case. The constructive dilemma conforms to the first figure and the destructive to the second."
+    "id": "p-26c2ec",
+    "offset": 43,
+    "text": "§ 778. Under this head are included all syllogisms in which a conjunctive is combined with a disjunctive premiss. The best known form is"
   },
   {
-    "id": "p-5449c0",
-    "offset": 341,
-    "text": "1) *Simple Constructive Dilemma*."
+    "id": "p-77397f",
+    "offset": 181,
+    "text": "*The Dilemma*."
   },
   {
-    "id": "p-78985d",
-    "offset": 376,
-    "text": "Barbara. If A is B or if E is F, C is D. All cases of either A being B or E being F are cases of C being D. Either A is B or E is F. All actual cases are cases of either A being B OP E being F. .'. C is D. .'. All actual cases are cases of C being D."
+    "id": "p-f973ae",
+    "offset": 197,
+    "text": "§ 779. The Dilemma may be defined as--"
   },
   {
-    "id": "p-e9389c",
-    "offset": 628,
-    "text": "(2) *Simple Destructive*."
+    "id": "p-87e041",
+    "offset": 237,
+    "text": "A complex syllogism, having for its major premiss a conjunctive proposition with more than one antecedent, or more than one consequent, or both, which (antecedent or consequent) the minor premiss disjunctively affirms or denies."
   },
   {
-    "id": "p-59d428",
-    "offset": 655,
-    "text": "Camstres. If A is B, C is D and E is F. All cases of A being B are cases of C being D and E being F. Either C is not D or E is not F. No actual cases are cases of C being D and E being F. .'. A is not B. .'. No actual cases are cases of A being B."
+    "id": "p-3356e7",
+    "offset": 467,
+    "text": "§ 780. It will facilitate the comprehension of the dilemma, if the following three points are borne in mind--"
   },
   {
-    "id": "p-e48f97",
-    "offset": 904,
-    "text": "(3) *Complex Constructive*. Barbara. If A is B, C is D; and if E is F, All cases of either A being B or G is H. being F are cases of either C being D or G being H. Either A is B or E is F. All actual cases are cases of either A being B or E being F. .'. Either C is D or G is H. .'. All actual cases are cases of either C being D or G being H."
+    "id": "p-ab428a",
+    "offset": 578,
+    "text": "(1) that the dilemma conforms to the canon of the partly conjunctive syllogism, and therefore a valid conclusion can be obtained only by affirming the antecedent or denying the consequent;"
   },
   {
-    "id": "p-3f3016",
-    "offset": 1249,
-    "text": "(4) *Complex Destructive*."
+    "id": "p-116efc",
+    "offset": 768,
+    "text": "(2) that the minor premiss must be disjunctive;"
   },
   {
-    "id": "p-83284c",
-    "offset": 1277,
-    "text": "If A is B, C is D; and if E is F, All cases of A being B and E being F G is H. are cases of C being D and G being H. Either C is not D Or G is No actual cases are cases of C being not H D and G being H. Either A is not B or E is No actual cases are cases of A being not F. B and E being F."
+    "id": "p-0c34a4",
+    "offset": 817,
+    "text": "(3) that if only the antecedent be more than one, the conclusion will be a simple proposition; but if both antecedent and consequent be more than one, the conclusion will itself be disjunctive."
   },
   {
-    "id": "p-1ed345",
-    "offset": 1568,
-    "text": "§ 797. There is nothing to prevent our having Darii, instead of Barbara, in the constructive form, and Baroko, instead of Camestres, in the destructive. As in the case of the partly conjunctive syllogism the remaining moods of the first and second figure are obtained by taking a negative proposition as the consequent of the major premiss, e.g.--"
+    "id": "p-804c1e",
+    "offset": 1012,
+    "text": "§ 781. The dilemma, it will be seen, differs from the partly conjunctive syllogism chiefly in the fact of having a disjunctive affirmation of the antecedent or denial of the consequent in the minor, instead of a simple one. It is this which constitutes the essence of the dilemma, and which determines its possible varieties. For if only the antecedent or only the consequent be more than one, we must, in order to obtain a disjunctive minor, affirm the antecedent or deny the consequent respectively; whereas, if there be more than one of both, it is open to us to take either course. This gives us four types of dilemma."
   },
   {
-    "id": "p-1c0ade",
-    "offset": 1917,
-    "text": "*Simple Constructive*. Celarent or Ferio. If A is B or if E is F, C is not D No cases of either A being B or E being F are cases of C being D. Either A is B or E is F. All (or some) actual cases are cases of either A being B or E being F .'. C is not D. .'. All (or some) actual cases are not cases of C being D."
+    "id": "p-ece1d9",
+    "offset": 1636,
+    "text": "(1). *Simple Constructive.*"
+  },
+  {
+    "id": "p-4fe5b2",
+    "offset": 1665,
+    "text": "If A is B or C is D, E is F. Either A is B or C is D. .'. E is F."
+  },
+  {
+    "id": "p-fa9f46",
+    "offset": 1732,
+    "text": "(2). *Simple Destructive.*"
+  },
+  {
+    "id": "p-b83c85",
+    "offset": 1760,
+    "text": "If A is B, C is D and E is F. Either C is not D or E is not F. .'. A is not B."
+  },
+  {
+    "id": "p-48c396",
+    "offset": 1840,
+    "text": "(3). *Complex Constructive.*"
+  },
+  {
+    "id": "p-a36dac",
+    "offset": 1870,
+    "text": "If A is B, C is D; and if E is F, G is H. Either A is B or E is F. .'. Either C is D or G is H."
+  },
+  {
+    "id": "p-42177c",
+    "offset": 1967,
+    "text": "(4). *Complex Destructive*."
+  },
+  {
+    "id": "p-1f4330",
+    "offset": 1996,
+    "text": "If A is B, C is D; and if E is F, G is H. Either C is not D or G is not H. .'. Either A is not B or E is not F."
+  },
+  {
+    "id": "p-d0ec3a",
+    "offset": 2109,
+    "text": "(1). *Simple Constructive*."
+  },
+  {
+    "id": "p-983111",
+    "offset": 2138,
+    "text": "If she sinks or if she swims, there will be an end of her. She must either sink or swim. .'. There will be an end of her."
+  },
+  {
+    "id": "p-5e9557",
+    "offset": 2261,
+    "text": "(2). *Simple Destructive*."
+  },
+  {
+    "id": "p-c75ab5",
+    "offset": 2289,
+    "text": "If I go to Town, I must pay for my ticket and pay my hotel bill. Either I cannot pay for my ticket or I cannot pay my hotel bill. .'. I cannot go to Town."
+  },
+  {
+    "id": "p-e4cd86",
+    "offset": 2445,
+    "text": "(3). *Complex Constructive*."
+  },
+  {
+    "id": "p-1da665",
+    "offset": 2475,
+    "text": "If I stay in this room, I shall be burnt to death, and if I jump out of the window, I shall break my neck. I must either stay in the room or jump out of the window. .'. I must either be burnt to death or break my neck."
+  },
+  {
+    "id": "p-42177c",
+    "offset": 2695,
+    "text": "(4). *Complex Destructive*."
+  },
+  {
+    "id": "p-873b83",
+    "offset": 2724,
+    "text": "If he were clever, he would see his mistake; and if he were candid, he would acknowledge it. Either he does not see his mistake or he will not acknowledge it. .'. Either he is not clever or he is not candid."
+  },
+  {
+    "id": "p-ce78fa",
+    "offset": 2933,
+    "text": "§ 784. It must be noticed that the simple destructive dilemma would not admit of a disjunctive consequent. If we said,"
+  },
+  {
+    "id": "p-05aefe",
+    "offset": 3053,
+    "text": "If A is B, either C is D or E is F, Either C is not D or E is not F,"
+  },
+  {
+    "id": "p-a37507",
+    "offset": 3123,
+    "text": "we should not be denying the consequent. For 'E is not F' would make it true that C is D, and 'C is not D' would make it true that E is F; so that in either case we should have one of the alternatives true, which is just what the disjunctive form 'Either C is D or E is F' insists upon."
+  },
+  {
+    "id": "p-f8fe60",
+    "offset": 3411,
+    "text": "§ 785. In the case of the complex constructive dilemma the several members, instead of being distributively assigned to one another, may be connected together as a whole--thus--"
+  },
+  {
+    "id": "p-b3967a",
+    "offset": 3590,
+    "text": "If either A is B or E is F, either C is D or G is H. Either A is B or E is F. .'. Either C is D or G is H."
+  },
+  {
+    "id": "p-ff46a2",
+    "offset": 3698,
+    "text": "In this shape the likeness of the dilemma to the partly conjunctive syllogism is more immediately recognisable. The major premiss in this shape is vaguer than in the former. For each antecedent has now a disjunctive choice of consequents, instead of being limited to one. This vagueness, however, does not affect the conclusion. For, so long as the conclusion is established, it does not matter from which members of the major its own members flow."
+  },
+  {
+    "id": "p-761a01",
+    "offset": 4148,
+    "text": "§ 786. It must be carefully noticed that we cannot treat the complex destructive dilemma in the same way."
+  },
+  {
+    "id": "p-84dacd",
+    "offset": 4255,
+    "text": "If either A is B or E is F, either C is D or G is H. Either C is not D or G is not H."
+  },
+  {
+    "id": "p-5949cc",
+    "offset": 4342,
+    "text": "Since the consequents are no longer connected individually with the antecedents, a disjunctive denial of them leaves it still possible for the antecedent as a whole to be true. For 'C is not D' makes it true that G is H, and 'G is not H' makes it true that C is D. In either case then one is true, which is all that was demanded by the consequent of the major. Hence the consequent has not really been denied."
+  },
+  {
+    "id": "p-043d91",
+    "offset": 4753,
+    "text": "§ 787. For the sake of simplicity we have limited the examples to the case of two antecedents or consequents. But we may have as many of either as we please, so as to have a Trilemma, a Tetralemma, and so on."
+  },
+  {
+    "id": "p-58df6d",
+    "offset": 4963,
+    "text": "TRILEMMA."
+  },
+  {
+    "id": "p-cf9678",
+    "offset": 4974,
+    "text": "If A is B, C is D; and if E is F, G is H; and if K is L, M is N. Either A is B or E is F or K is L. .'. Either C is D or G is H or K is L."
+  },
+  {
+    "id": "p-3c4416",
+    "offset": 5114,
+    "text": "§ 788. Having seen what the true dilemma is, we shall now examine some forms of reasoning which resemble dilemmas without being so."
+  },
+  {
+    "id": "p-19137e",
+    "offset": 5247,
+    "text": "§ 789. This, for instance, is not a dilemma--"
+  },
+  {
+    "id": "p-ecca3c",
+    "offset": 5294,
+    "text": "If he observes the sabbath or if he refuses to eat pork, he is a Jew. But he both observes the sabbath and refuses to eat pork. .'. He is a Jew."
+  },
+  {
+    "id": "p-b2f2a3",
+    "offset": 5440,
+    "text": "What we have here is a combination of two partly conjunctive syllogisms with the same conclusion, which would have been established by either of them singly. The proof is redundant."
+  },
+  {
+    "id": "p-b22f0a",
+    "offset": 5623,
+    "text": "§ 790. Neither is the following a dilemma--"
+  },
+  {
+    "id": "p-855e9b",
+    "offset": 5668,
+    "text": "If A is B, C is D and E is F. Neither C is D nor E is F. .'. A is not B."
+  },
+  {
+    "id": "p-dd5c00",
+    "offset": 5742,
+    "text": "If this triangle is equilateral, its sides and its angles will be equal. But neither its sides nor its angles are equal. .'. It is not equilateral."
+  },
+  {
+    "id": "p-042076",
+    "offset": 5891,
+    "text": "This is another combination of two conjunctive syllogisms, both pointing to the same conclusion. The proof is again redundant. In this case we have the consequent denied in both, whereas in the former we had the antecedent affirmed. It is only for convenience that such arguments as these are thrown into the form of a single syllogism. Their real distinctness may be seen from the fact that we here deny each proposition separately, thus making two independent statements--C is not D and E is not F. But in the true instance of the simple destructive dilemma, what we deny is not the truth of the two propositions contained in the consequent, but their compatibility; in other words we make a disjunctive denial."
+  },
+  {
+    "id": "p-2141d1",
+    "offset": 6606,
+    "text": "§ 791. Nor yet is the following a dilemma--"
+  },
+  {
+    "id": "p-11733e",
+    "offset": 6651,
+    "text": "If A is B, either C is D or E is F. Neither C is D nor E is F. .'. A is not B."
+  },
+  {
+    "id": "p-0f19fb",
+    "offset": 6731,
+    "text": "If the barometer falls there will be either wind or rain. There is neither wind nor rain. .'. The barometer has not fallen."
+  },
+  {
+    "id": "p-56d9a6",
+    "offset": 6856,
+    "text": "What we have here is simply a conjunctive major with the consequent denied in the minor. In the consequent of the major it is asserted that the two propositions, 'C is D' and 'E is F' cannot both be false; and in the minor this is denied by the assertion that they are both false."
+  },
+  {
+    "id": "p-44e4ff",
+    "offset": 7138,
+    "text": "§ 792. A dilemma is said to be rebutted or retorted, when another dilemma is made out proving an opposite conclusion. If the dilemma be a sound one, and its premisses true, this is of course impossible, and any appearance of contradiction that may present itself on first sight must vanish on inspection. The most usual mode of rebutting a dilemma is by transposing and denying the consequents in the major--"
+  },
+  {
+    "id": "p-a36dac",
+    "offset": 7548,
+    "text": "If A is B, C is D; and if E is F, G is H. Either A is B or E is F. .'. Either C is D or G is H."
+  },
+  {
+    "id": "p-61d60e",
+    "offset": 7645,
+    "text": "The same rebutted--"
+  },
+  {
+    "id": "p-2ce9f6",
+    "offset": 7666,
+    "text": "If A is B, G is not H; and if E is F, C is not D. Either A is B or E is F. .'. Either G is not H or C is not D. = Either C is not D or G is not H."
+  },
+  {
+    "id": "p-dbab74",
+    "offset": 7814,
+    "text": "§ 793. Under this form comes the dilemma addressed by the Athenian mother to her son--'Do not enter public life: for, if you say what is just, men will hate you; and, if you say what is unjust, the gods will hate you' to which the following retort was made--'I ought to enter public life: for, if 1 say what is just, the gods will love me; and, if 1 say what is unjust, men will love me.' But the two conclusions here are quite compatible. A man must, on the given premisses, be both hated and loved, whatever course he takes. So far indeed are two propositions of the form"
+  },
+  {
+    "id": "p-fd6d6f",
+    "offset": 8389,
+    "text": "Either C is D or G is H, and Either C is not D or G is not H,"
+  },
+  {
+    "id": "p-249769",
+    "offset": 8452,
+    "text": "from being incompatible, that they express precisely the same thing when contradictory alternatives have been selected, e.g.--"
+  },
+  {
+    "id": "p-dd941d",
+    "offset": 8580,
+    "text": "Either a triangle is equilateral or non-equilateral. Either a triangle is non-equilateral or equilateral."
+  },
+  {
+    "id": "p-b4b668",
+    "offset": 8687,
+    "text": "§ 794. Equally illusory is the famous instance of rebutting a dilemma contained in the story of Protagoras and Euathlus (Aul. Gell. Noct. Alt. v. 10), Euathlus was a pupil of Protagoras in rhetoric. He paid half the fee demanded by his preceptor before receiving lessons, and agreed to pay the remainder when he won his first case. But as he never proceeded to practise at the bar, it became evident that he meant to bilk his tutor. Accordingly Protagoras himself instituted a law-suit against him, and in the preliminary proceedings before the jurors propounded to him the following dilemma--'Most foolish young man, whatever be the issue of this suit, you must pay me what I claim: for, if the verdict be given in your favour, you are bound by our bargain; and if it be given against you, you are bound by the decision of the jurors.' The pupil, however, was equal to the occasion, and rebutted the dilemma as follows. 'Most sapient master, whatever be the issue of this suit, I shall not pay you what you claim: for, if the verdict be given in my favour, I am absolved by the decision of the jurors; and, if it be given against me, I am absolved by our bargain.' The jurors are said to have been so puzzled by the conflicting plausibility of the arguments that they adjourned the case till the Greek Kalends. It is evident, however, that a grave injustice was thus done to Protagoras. His dilemma was really invincible. In the counter-dilemma of Euathlus we are meant to infer that Protagoras would actually lose his fee, instead of merely getting it in one way rather than another. In either case he would both get and lose his fee, in the sense of getting it on one plea, and not getting it on another: but in neither case would he actually lose it."
+  },
+  {
+    "id": "p-807f9b",
+    "offset": 10443,
+    "text": "§ 795. If a dilemma is correct in form, the conclusion of course rigorously follows: but a material fallacy often underlies this form of argument in the tacit assumption that the alternatives offered in the minor constitute an exhaustive division. Thus the dilemma 'If pain is severe, it will be brief; and if it last long it will be slight,' &c., leaves out of sight the unfortunate fact that pain may both be severe and of long continuance. Again the following dilemma--"
+  },
+  {
+    "id": "p-5ecc7b",
+    "offset": 10917,
+    "text": "If students are idle, examinations are unavailing; and, if they are industrious, examinations are superfluous, Students are either idle or industrious, .'. Examinations are either unavailing or superfluous,"
+  },
+  {
+    "id": "p-bcb20f",
+    "offset": 11125,
+    "text": "is valid enough, so far as the form is concerned. But the person who used it would doubtless mean to imply that students could be exhaustively divided into the idle and the industrious. No deductive conclusion can go further than its premisses; so that all that the above conclusion can in strictness be taken to mean is that examinations are unavailing, when students are idle, and superfluous, when they are industrious--which is simply a reassertion as a matter of fact of what was previously given as a pure hypothesis."
   }
 ]

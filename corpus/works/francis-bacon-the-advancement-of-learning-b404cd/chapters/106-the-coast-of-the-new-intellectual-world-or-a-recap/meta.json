@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 106,
+  "chapter_title": "The Coast of the New Intellectual World or a Recapitulation of the Deficiencies of Knowledge, Pointed Out in the Precedi",
+  "chapter_slug": "106-the-coast-of-the-new-intellectual-world-or-a-recap",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f5ba5aa2-8da4-5756-bcc5-31c88f1200df",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13898,
+      "paragraph_count": 682,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

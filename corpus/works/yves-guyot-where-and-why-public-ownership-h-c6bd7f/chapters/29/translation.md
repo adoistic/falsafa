@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 29
-chapter_title: "CHAPTER XXI: FINANCIAL DISORDER"
+chapter_title: "Chapter XXIII: Delusions of Profit and the Life Insurance Monopoly in Italy"
 chapter_slug: 29
 variant_id: "9a0b75f3-49c1-536d-aad6-a99a1a1a8ff0"
 content_type: translation
@@ -13,221 +13,71 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 5908
+word_count: 1882
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-1. Jules Roche, contemplating the consequences of the purchase of the Western Railway of France, remarked of the whole transaction:
+1. In order to be assured that no deceptions would be practiced on it, in buying out the insurance companies, the Italian government put itself quite simply in their place. The resulting monopoly, confirmed by the law of April 4, 1912, had for its principal object the establishment of so-called labor pensions. “The profits drawn from this monopoly will be paid into the National Insurance Fund, upon the books of which any workman engaged in either industry or agriculture may be entered, provided he is not paying an annual government tax exceeding 30 francs.”
 
-“I am considering only one detail of the plan, namely, the creation of a special budget of the future system, with its special debt, its loans, and its special titles.
+The real excuse for the bill was the activity of the French and English governments in passing insurance laws. The Italian government decided that it ought to bestir itself along the same lines. Therefore, instead of taking the sums necessary for its pension scheme from general budget funds, it created a special fund by establishing an insurance monopoly. Moreover, by the destruction of institutions which have been the most powerful agents in stimulating the spirit of individual thrift, the government hoped to promote a system of social thrift. The irreconcilable contradiction existing between free and compulsory insurance could not have been revealed in a more striking fashion, and it is only necessary to couple adjectives and noun in order to show the deceptive character of all enterprises of this nature.
 
-“Are we to have two public debts in France? A public debt pure and simple, such as already exists, secured by the general resources of the nation, and another debt, a new debt, contracted by the state railway, and consequently a state debt, secured by the same resources as the present debt, and secured besides, in a supplemental fashion, by the railroad system itself? If not, the term 'special loans' is without meaning.
+But, it is strange enough that financiers as shrewd as the Italians should allow themselves to be deluded by the hope that the insurance monopoly would yield large resources. They have undoubtedly been seduced by the sight of the profits of insurance companies. But are such profits possible under government administration?
 
-“What sort of financial, legal or political idea is this? Is such a conception financial, legal or political at all? Is this bookkeeping? Here is surely something that the decree of 1862 did not foresee! And what would be the future of such a plan if it were ever adopted by the great state railways?
+In the first place, in order to recruit policyholders, an active propaganda is indispensable. The policyholders of life insurance companies do not apply in the first instance to the companies. They must be sought for diligently and persuaded to take out a policy by an insurance broker, who demands a good and sufficient reward for his efforts in bringing about such investment. What measures has the Italian government taken to attract policyholders?
 
-“We should shortly have postal loans, telegraph and telephone loans, match loans, tobacco loans, loans on coming monopolies, such as alcohol, sugar, insurance, and petroleum.”
+In presenting his bill to the Chamber of Deputies, the minister responsible for it declared that the National Insurance Fund “ought to undertake a campaign of education which should penetrate into the farthest and quietest corners of Italy, even where the ordinary business man does not go on account of the improbability of any success attending his efforts. Therefore, the National Insurance department will accept as agents notaries, registrars, tax collectors, municipal officials, postmasters, men who are in constant touch with the people, and who can render valuable services to insurance by awakening the desire to look out for the future needs to a degree never before aroused.” In a word, all public officials are to be ultimately transformed into insurance agents.
 
-At present Socialists are abandoning the Marxian theory, as they dropped the theories of Fourier, Cabet, Louis Blanc, Prudhomme, etc. The more progressive are seeking new theories. They assume that, if private enterprise is suppressed, states and municipalities will produce all things necessary to man much more abundantly, and in a much more regular and economic fashion than private enterprise has succeeded in doing. They have made up their minds that all economic activity ought to be transformed into public services. This is their postulate.
+But, despite all the enthusiasm that these amateur brokers may be able to arouse, such coöperation will not be effective unless commissions are paid. And then what becomes of the all-important excuse for the substitution of a government monopoly for private enterprise, viz.—service rendered for the sake of the cause and not for gain?
 
-But they have neglected to fortify their theories with facts. Universal experience has proved that, whatever a state does, it does at a higher cost than private individuals or groups, and that, far from concentrating its attention upon the true objective point, it always drags in foreign considerations, which ruin the enterprises of which it has assumed the direction. Accounts are confused in such a way as to make it next to impossible to discover either net cost or the true income. Although sheltered from competition, instead of being agents of progress, such undertakings foster Edition: current; Page: [218] nothing but lethargy; and, while accomplishing so little themselves they block the way of the more productive enterprises of others.
+Now the average agent works for the sake of gain; and the biggest cost item of insurance companies is the commissions of these same agents; even the government monopoly itself has preserved them. In the case of sixteen French companies, maintaining fixed premiums, these expenses amounted, in 1911, to 20,912,800 francs, to which sum must be added 16,172,000 francs of general expenses and 1,202,746 francs in gratuities and bonuses.
 
-Municipalities move along a straighter path, but the same defects are apparent in municipal trading operations that we find in state undertakings. Whence we may conclude that Municipal Socialism is only another condemnation of State Socialism.
+What will be the insurance rates under public operation? If the state wishes to use persuasion, instead of force, it ought to make its rates as easy as possible for the policyholders, but the profit to the state will, of course, be just so much less.
 
-Yet has Municipal Socialism, down to the present, at least, abated its energy in the establishment of public tramways, gas, electric lighting, telephones, water works and cheap housing? And, since it has failed in these enterprises, what would be the result of similar experiments with food supplies, dressing, heating and otherwise occupying and amusing the people?
+I have not at hand the profits of the life insurance companies in Italy, for 1911, but in that year the dividends of the sixteen French companies just mentioned reached the sum of 15,161,331 francs. Great as has been the economic development of Italy no one will pretend that its economic prosperity equals that of France. However, if the Italian monopoly is as efficiently administered as are the French insurance companies, and, if it has as capable agents, it might perhaps be able to realize half or two-thirds of the industrial profits of the French companies, in which case it would yield to the Italian government from 3,000,000 to 6,000,000 lire annually.
 
-The Chamber of Deputies approved article 70 of the Finance Law of 1912, which created a species of financial autonomy out of the manufactures of Sèvres porcelain in spite of the sound arguments against the measure presented by Jules Roche. The result of such a proceeding would have been a tenth special budget appended to the general budget. If the manufacture of Sèvres is a government enterprise its accounts should not be separated from the state budget; and, furthermore, why separate them from the general budget while the manufacture of Gobelin tapestry remains attached? The article has since disappeared from the Finance Law.
+Very striking in this connection is the status of the old age pension system in France—a national undertaking. From 1851 to 1889 the amount of first payments was 816,323 francs, or, in 39 years, 20,931 francs a year. The laws of July 20, 1886, and April 9, 1898, increased the activity of the fund, but, even so, its usefulness has been mainly restricted to associations. In 1910 the number of their payments approximated 5,305,447, amounting to 79,982,892 francs, while the number of individual payments was only 82,780, aggregating 9,900,365 francs. In 1909 the private accident insurance companies had 4,856,000,000 francs on insurance policies, while the National Insurance Fund had insured for only 77,494,000 francs, a proportion of less than 2 per cent.
 
-In our studies of the administration of French finances we have frequently had occasion to demonstrate the incapacity of the state to conduct a trading enterprise, despite the undoubted intelligence of its Edition: current; Page: [219] officials. Examples abound in the administration of the principal monopolies. We have shown that they manufacture bad matches at high cost, and that those which come from abroad to eke out our supply are better and cheaper. Officials in charge of these enterprises have neither initiative nor responsibility. They are hemmed in by regulations which do not allow of the coöperation characteristic of private industry. Responsibility for failure or success does not devolve upon these officials. It is distributed among a swarm of agents of the hierarchy, and vanishes finally in some central bureau. Any private business which had to struggle under similar conditions would end in bankruptcy. Nor is this state of affairs the fault of man. It is inherent in the very nature of the institution itself.
+The mathematical reserves and the other funds available are to be employed as follows by the Italian National Insurance Fund:
 
-We find another opportunity of demonstrating the truth of the foregoing statement in a building enterprise, the history of which deserves to be preserved. Such utter lack of foresight and such an accumulation of mistakes are rarely found in one and the same business undertaking.
+Where is the state which can guarantee that its income will constitute a perfectly sound investment when English consols are at 74 shillings? The Italian revenue is susceptible to sudden changes which make predictions difficult for both the monopoly and its policyholders. The government will have to assume all responsibilities and the investments directed by clause No. 8 will be very difficult of execution.
 
-The enterprise referred to is the rebuilding of the National Printing Office. If any enterprise could have been conducted by government agents it would seem to have been this particular one; for it was confined to construction work based on rigid specifications. We have, it would seem, enough state architects to bring such a work to a successful conclusion. Yet the failure was complete, and the budget suffered grievously in consequence.
+The Fund enjoys privileges which assure it of certain resources, but only to the detriment of other government undertakings. For example, it has free use of the postal and telegraph services. Both these services thus lose revenues which private insurance companies would have yielded them.
 
-In the beginning the job was as follows: To rebuild the National Printing Office upon a newly acquired site, and to sell the buildings and ground in the Rue Vieille-du-Temple previously occupied by the office. The officials in charge presented the following preliminary report to the Chamber of Deputies:
+Finally, the profits of the monopoly are exempt from the income tax, which private companies would have to pay.
 
-Unfortunately the managers of the undertaking had forgotten to look at their problem from all sides, and Parliament made a great mistake in not perceiving this in time.
+The officials who are to act as insurance agents have their own duties to fulfill. Unable to devote more than their idle moments to the new task, they will always be working at a disadvantage. Nor is every man fitted by nature for the rôle of insurance agent. Not only is the taste for it lacking, but skill, tact, and technical ability will be wanting.
 
-In the first place, it was an act of presumption on the part of the officials in charge to think of selling the old palace of the Rohans, then occupied by the National Printing Office. Naturally, protests arose from all sides against the sale of this landmark of the past, which kept alive the memory of the famous Cardinal, Edition: current; Page: [221] and to which were attached so many other historical recollections. Its possession was a hypothetical and contingent asset, it is true, but the attempt to make it balance the expenditure ought never to have been seriously considered. This, however, is not the point of view from which the proceeding is most open to criticism. Where the mistake becomes inexcusable is in the estimate of the probable expense of rebuilding.
+Possibly the officials will gather some personal benefit by reason of the added authority which their new position gives them. They may, perhaps, be able to obtain by main force policies which ordinary agents are not able to get. But, successful insurance is not only a question of affixing a signature, nor even of the first payment on a policy. A policyholder must persevere. What if he slips back after the agent has received his commission?
 
-The committee declared to the Chamber, when presenting it with the estimate of its architects, that the rebuilding would cost in all, including ordinary miscalculations, a sum of 2,900,000 francs, and that, with this credit, all the work could be carried on upon a generous scale. But in order to reduce his original estimate, which had been 3,734,000 francs, to the figure just quoted, the architect, with the approval of the committee, had had to leave out one story in most of the wings, thus reducing the floor space in the shops by 7,000 square meters (7,708 square yards). Yet, despite this effort, in 1904 the committee had to report a deficiency of 1,500,000 francs in the preliminary estimate for the construction of the new building.
+This is a risk which all insurance companies know. The state will also discover it, but it will find itself placed in a still more difficult position by the necessity of refusing contracts brought in by its officials and employees. It will be forced to choose its policyholders, to accept some and refuse others, and insurance exiles, branded with a sort of discredit, if not infamy, will thus be created.
 
-In the following year it was discovered that the estimate contained no provision for the installation of either heat, light, or motive power for the mechanical equipment. Consequently a new item of 750,000 francs had to be added to the previous amount. Then there had been no provision in any of the plans for housing the directorate and the subordinate functionaries. According to the documents submitted by the Budget Committee the expense of rebuilding the property on the Rue de la Convention must ultimately Edition: current; Page: [222] amount to 6,210,000 francs. The Chamber had been told that it would only be 2,900,000 francs. The aggregate difference between estimate and expenditure amounted to 3,310,000 francs.
+Italy and Uruguay are the only countries which have experimented with national life insurance. The independence of the National Insurance Fund of Uruguay is greater than that of Italy. It was established by a law of December 26, 1911, and is, therefore, too recent to furnish any authoritative data.
 
-Finally to this difference of 3,310,000 francs should be added the loss that the budget will suffer by reason of the failure to sell the de Rohan palace. Later several more mistakes were discovered.
+Systems of state fire insurance are found in other countries. In Germany public fire insurance associations “have always been energetically supported by the government.” Landed proprietors are compelled to insure their property with public offices in Bavaria, Württemburg, and the grand duchies Baden and Hesse. Private insurance enterprises are limited to personal property and to risks on real property not insured by the state.
 
-At the end of December, 1912, when the expenditure already incurred amounted to 10,445,000 francs, the committee made application for a further credit of 4,336,000 francs to finish the work.
+Nevertheless, it has not been found either possible or advisable to oust the private companies, as is proved by the following table, giving the insurance situation in Germany in 1906:
 
-It is understood that no one can be held directly accountable for this state of affairs. The responsibility rests with the committee in charge of the work, which managed the affair badly, and with the other committees, which helped to cover up official blunders. This example is typical of the arrant folly only too common in the conduct of state enterprises, and proves once more that a government is far less skillful than are individuals in the direction of such enterprises.
+The Municipal Fire Insurance Fund of Rostock has reinsured with a private company the total capital insured by itself. It is, therefore, nothing more than an agency for the collection of premiums and the distribution of indemnities.
 
-3. Each year the reports of the postoffice, telegraph and telephone systems, and even of the Navy, show the disorder to which all state operations are liable. Yet, although complaints of maladministration of these systems are incessant, do we not also know that Parliament continues to tolerate insubordination in the arsenals, increases in salaries, decreases in the number of hours of labor, and all those generosities which, instead of being an inspiration to production, amount to so many premiums on laziness? Edition: current; Page: [223] Investigating committees are appointed. Of whom are they composed? Deputies from the ports are placed on Navy investigating boards when they should be disqualified by the very fact alone that the employees of the Navy will be counted among their constituents.
+The canton of Waad has insured both real and personal property since 1849; insurance is compulsory. Personal property insurance is unknown in any other canton, but national insurance of personal property is about to be established in Switzerland.
 
-But let the following facts speak for themselves. A commission appointed to investigate conditions in the Navy met at Guerigny in 1908. It had as its president, M. Massé, deputy from La Nièvre, on whose motion a steel plant had been founded at Guerigny in 1900. The commission passed exactly one day in the town, after which exhaustive investigation of conditions there it submitted to the Navy department a report calling for new expenses.
+In the insurance system in operation in the canton of Waad the cost of administration was 13 francs 48 in 1907; in Glarus, from 1895 to 1905, 9 francs 34 per 100, and in 1907, 13 francs 48.
 
-The said steel plant of Guerigny, begun in 1900, has been in operation since 1905. Its prime object is the manufacture of Martin steel, and, according to the authors of the amendment which provided for its establishment, it should produce armor plate at a price considerably less than that paid to private companies. Now M. Rousseau has discovered, and not without difficulty, in view of the complication of the accounts of the Navy, that the equipment for the manufacture of Martin steel must have already cost more than 5,000,000 francs, while the expense of the amortization of this outlay during ten years, according to the custom in the industry at large, is 500,000 francs.
+The state must accept all risks, the bad with the good.
 
-Unfortunately, the investigating committee which visited Guerigny declared (in 1909) that immediately after the establishment of the steel plant the use of Edition: current; Page: [224] Martin steel plate had fallen off considerably. I quote from their report:
+December 20, 1907, the French minister of the Interior announced that he would not oppose the creation of a departmental fire insurance fund in the district of the Côte-d'Or. The fund was therefore established, January 1, with an annual subsidy of 15,000 francs from the General Council, and with a central bureau installed in the prefecture.
 
-“As a matter of fact, the production is 300 tons of armor plate a year. Assuming that this rate could be maintained, the aggregate cost of amortizing the equipment would amount to 1,666 francs a ton. Moreover, it is to be feared that the use of Martin steel is continuing to decline. On the Waldeck-Rousseau there was 37½ per cent. of Martin steel; on the Patrie type there was only 24 per cent.; on the Danton, 17 per cent,; upon the Jean Bart, 14 per cent. (figures disclosed by the official reports).
+A clause limited the insurance premium to 10 francs; but this clause, considered “as a slight anti-collectivist barrier,” has disappeared. The advantages extolled are: The annual policy; the opportunity of insuring one's self at the town hall of one's own town; “following a disaster an appraisal of damages devoid of any spirit of quibbling or barter.” The policyholder is always free to withdraw or to modify his policy.
 
-“This fact is highly disturbing. The capital sunk in the equipment for the manufacture of Martin steel will, therefore, never be recovered. The department unquestionably made a mistake when, on the motion of M. Massé, approved by the Chamber of Deputies, it saddled itself with this equipment.
+No bargaining; ample satisfaction! Under certain circumstances insurance may well become an opportunity for profit in a sense never intended.
 
-“But the commission feels that the plant at Guerigny ought to be provided with equipment and machines which will permit the manufacture of hardened steel, or any other kind of steel destined to supplant Martin steel.
+Here are evidently advantages beyond those offered by private companies—at the expense of the taxpayers in the first place. Ten years hence the actual results may be known.
 
-“It will probably be necessary to abandon the use of hardened steel in its turn. But if the cementing furnaces were used during only two campaigns, it would be sufficient to pay off the expense involved in installing them.”
+Two French deputies, MM. Cartier and Coudère, have each introduced a bill, establishing a state monopoly on every species of insurance. Both have been reported favorably by Brisson.
 
-The Commission, consistent to itself in its own inconsistency, then reiterates its demand for cementing furnaces, and says:
+In the case of the fifty-four most important French insurance companies, with fixed premiums, life, fire, etc., the profits are estimated at 31,000,000 francs. After deducting reserve and sinking funds, a net profit of 25,000,000 or 26,000,000 francs remains. Let us suppose that, with the help of first-class investments, the state can obtain a net amount greater than this profit and equal to the total dividends distributed by the companies, or, in other words, 35,000,000 francs.
 
-“Out of a total expenditure of 5,500,000 francs the cementing furnaces only represent a very small sum, since the plan provides for five at the cost of 70,000 francs apiece. Moreover, it is not necessary to begin work Edition: current; Page: [225] with the installation of these furnaces. The construction of the new workshop will take approximately three years. A year is amply sufficient for the installation of cementing furnaces. Assuming that the work will be begun during the next year, or 1910, it will not be until two years after, or 1912, that the value of the new steel manufactured at Saint Chamond and at Creusot will be determined; it will then be known whether hardened steel will continue to be used in the Navy, and whether it will be practicable to provide for its manufacture at Guerigny.”
+Unless the state confiscates it will have to pay the companies between 1,000,000,000 and 1,500,000,000 francs, in order to buy them out, which sum, at 3 per cent., represents an annual interest of from 30,000,000 to 45,000,000 francs. Then add to this amount a sinking fund of about 10,000,000 francs. We have thus an asset of 35,000,000 francs, with liabilities of 40,000,000 to 55,000,000 francs. The balance of this operation is a deficit of 5,000,000 to 20,000,000 francs.
 
-Thus, and as a result of the report of the Commission, it appears that the government ought to be prepared to manufacture hardened steel at Guerigny, and also to await a definite decision as to the value of a certain steel, before commencing work on the furnaces.
-
-The committee declares that it will take a year to install the cementing furnaces; yet the expenditures are already estimated at 5,500,000 francs.
-
-Following the recommendations contained in the committee's report, the Navy department demanded 400,000 francs credit on the budget of 1911, and the Budget Committee was subsequently urged to raise this figure to 900,000 francs. But, even with this latter credit, six years would be required for the installation of the cementing furnaces. In asking for 400,000 francs, then, the Navy was demonstrating its skepticism, and, in granting such a sum, the Budget Committee was once more displaying its lack of foresight. In any case both were wasting funds in order to appear to be doing something, and not from the point of view of the needs of the Navy, but from local considerations.
-
-Up to 1911 the general expenses at Guerigny were 118 per cent. of the estimated expenses.
-
-The excuse for constructing the plant in the first instance was that such an establishment would “regulate prices.” But, in order to regulate the price of private industry, the government ought to commence by regulating its own.
-
-The Director of the Guerigny works told the Investigating Committee that:
-
-“The saving of at least one franc per kilogram on the cost price of armor plate at Guerigny is also obtained in the manufacture of special steel, and this saving would certainly be continued if we should manufacture hardened steel. In this fact we have a serious argument in favor of the extension of the manufacture of armor plate. By doubling the expense incurred up to the present on account of this manufacture, we can more than triple the production; and each ton of armor plate made at Guerigny would represent an economy of 1,000 francs, taking into consideration the market price. Five thousand tons of armor plate would suffice to warrant the expense of such an enlargement.”
-
-Five million francs have already been expended at Guerigny. Now the management suggests a further expenditure of ten millions. The average annual production of 300 tons is to be increased—allowing a wide margin—to 1,000 tons a year, with amortization at 1 franc per kilogram; or, in other words, 1,000,000 francs a year, or 1,000 francs a ton. “How, upon 5,000 tons alone,” demands M. Rousseau, “can such an extraordinary feat be accomplished as to put aside Edition: current; Page: [227] 1 franc per kilogram upon the cost of the industry, that is to say, 1,000 francs a ton, while at the same time the equipment is amortized at 2 francs per kilogram, especially when there is to be an expenditure of 10,000,000 francs?”
-
-The Investigating Committee declared the net cost per kilogram of armor plate produced at Guerigny to be 1 franc 27 to 1 franc 74, although the charge for amortization alone was 1 franc 66 per kilogram.
-
-The report of this same committee inspired still more caustic comments on the part of M. Rousseau.
-
-“At the present time it is supererogation to state that the documents emanating from the French Parliament lack accuracy. It is an accepted fact, and is apparent above all in whatever pertains to the Navy. That the information contained in these documents is accepted without sufficient scrutiny has been proven again and again. It has been proven also that investigations are not made with all the care desirable. For example, we read in the report of the Committee appointed to investigate conditions in the Navy that ‘the cost of turbines appears particularly exaggerated.’ In the first place, what is this word ‘appears’ doing in the conclusions of an investigating committee? Why didn't the Committee get to the bottom of the matter? What basis of judgment did it have? The premises were as follows: we quote the report:
-
-“‘Justice, reciprocating engine, 18,500 h.p., 2,614,000 francs.
-
-“‘Voltaire, turbine, 22,500 h.p., 4,800,000 francs.
-
-“‘At the same rate of cost as the engine on the Justice, a reciprocating engine of 22,500 h.p. would cost:
-
-“‘the turbines have thus cost, per man-of-war, 1,532,500 francs more than reciprocating engines, or about 10,000,000 francs for the six men-of-war. In reality, the turbines are less expensive to construct than reciprocating engines. As a result, there is a colossal profit for the contractors after deduction of all their expenses. It appears beyond doubt that the Navy has paid much too high a price for the turbines.’
-
-“It is a universally admitted principle that like objects alone are comparable. It is well that it did not occur to the author of the little calculation quoted above to compare turbines with automobile motors, because, with the same serenity, he would have declared the contractors absolutely ruined, rendering the stock of their dock yards valueless, while, on the contrary, he has given them an enhanced value.”
-
-4. In any estimate of cost price there are two factors, direct expenses and general expenses.
-
-In the navy yards general expenses are undivided expenses, uniformly computed at 28 per cent. of labor costs. In the case of the Jean-Bart they were computed at 24 per cent. The proportion is a purely arbitrary one.
-
-M. Klotz, then General Secretary (Rapporteur Général), has said in this connection:
-
-“In the cost of work done by arsenals the following expenses appear:
-
-a. Expenses of operating the workshops of the arsenal, etc.—labor expenses and cost of supplies (coal, dynamos of workshop motors, etc.), called undivided expenses.
-
-b. Expenses of equipment, applied especially to new construction: the small equipment used in building (tools, borers, electric apparatus, stationary, construction stocks, and a certain number of machine implements).
-
-Among general expenses are not included:
-
-c. Wrongly, we think, the salaries of technical employees, engineers, and their assistants engaged solely in construction work. These are paid according to regulations contained in special chapters of the budget. The cost of a ship constructed in the arsenal would be increased so much more.
-
-d. Rightly, the expenses of large equipment: An arsenal is necessary in time of war. From this viewpoint workshops, dry docks, derricks, etc., are prime necessities. In time of peace the state must choose between two problems: to leave this equipment unused, or to employ it in new construction. The state has an evident interest in adopting the second solution. As the equipment would exist even if there were no new construction, it is legitimate not to include expenses of this character in the cost of such construction.”
-
-Whatever else he may say M. Klotz at any rate acknowledges that general expenses are not accounted for in the Navy. The distinction which he makes between the material to be accounted for and the material not to be accounted for, in the cost of a ship, Edition: current; Page: [230] is a demonstration in itself of the arbitrary character of construction estimates: As equipment is used and replaced during times of peace, it is only just to add to the original cost of the products manufactured the cost of the equipment used in such manufacture.
-
-The Navy department had fixed the net cost per ton of the three steel cruisers, Jules Ferry, Léon Gambetta and Victor Hugo at 2,211 francs, 2,230 francs, and 2,286 francs, respectively.
-
-The Committee of Accounts on the work raised the general expenses from 12 to 23 per cent., so that the cost per ton came to 2,512 francs for the Léon Gambetta, 2,605 francs for the Victor Hugo, and 2,717 francs for the Jules Ferry, a cost higher than that of similar ships constructed by private companies. We quote in full the two estimates:
-
-In the case of the Jules Ferry a covered stocks was erected, which was used only once, because the Jules Ferry was the last large boat constructed at Cherbourg.
-
-5. In the report of M. Dalimier, on the postal, telegraph and telephone services, for the budget of 1912, repetitions of the usual complaints are to be found: Absence of preliminary estimates, apparent impossibility for the department to furnish any indication as to the total expenditures to be covered, etc.
-
-M. Dalimier says:
-
-“As presented, the budget of the postal, telegraph and telephone services is indefinite. It contains certain minute details which make the total absence or the insufficiency of information regarding really important expenses appear the more regrettable.
-
-“The utter lack of coördination results in the juxtaposition of partial accounts, prepared and presented with a disingenuousness which justifies all criticism:—general lack of method; too little attention to financial rules and true bookkeeping principles; no limit to the expenses when the sources of loans are abundant; accounts which are not sufficiently definite; frequent disorder in the preparation and execution of the work as well as in the management of the loans!”
-
-In Émil Dupont's report to the Senate, regarding this same budget, I read:
-
-“Many of these plans were not thoroughly developed when appropriations were asked for. In putting down 200,000 francs as the cost of inaugurating the work of enlarging the administrative offices of the service and rebuilding the Postoffice itself, the department was simply taking a figure at random. It acted in ignorance as to what part of the work the sum was to be applied, nor is the department yet aware, probably, how the money is to be divided between the two buildings which are to be rebuilt.
-
-“The same statement holds good in the case of the baggage department of the Eastern railway station of Paris. The department demanded 100,000 francs and found out afterward that 70,000 francs would suffice for 1912.
-
-“These overestimates in the case of important loans have been going on for some years, and are a direct result of the carelessness of those in charge of building loans. As further examples, we might cite the substations of Martignac, 120,000 francs; Rue Bertrand, 115,000 francs; and, in the city of Lyon, 316,000 francs.”
-
-The report of M. Dalimier shows up an ingenious administrative trick, characteristic of a particular psychological state.
-
-But let us take another very similar example of the same tendency. In 1911 the Postoffice department demanded a loan of 522,135 francs for work on various postoffices. In 1912 it asked again for an absolutely identical amount. The first loan was applied to work then going on; the second had for its object the depreciation of work concerning which there has never been any discussion, and which will require an expenditure of 585,000 francs.
-
-A “passion for spending” is characteristic of all public departments. The Dalimier report states that the work of reconstruction going on at the central telegraph office was started only by the aid of a loan of 100,000 francs obtained in 1908; and that each of the following years saw this figure grow, little by little, until it stopped finally at 979,000 francs, not including the 100,000 francs demanded in 1912 for the installation of a low-pressure heating system.
-
-The report of M. Dalimier also furnishes a certain number of characteristic figures concerning the Postoffice expenditures:
-
-In the case of the telephone office in the Rue des Archives the preliminary estimate of expenditures covering purchases of land and construction reached 1,900,000 francs, while the entire building will cost 2,692,202 francs. Assuming that half the building of the Bureau of Archives is to be devoted to a multiple switchboard, designed for 500 subscribers, each subscriber will cost the state 269 francs. It is true that “immense hallways and superb galleries, offices, rest rooms, and rooms open to 20,000 subscribers” are to be found there.
-
-6. The celebrated manufacturer, H. Laws Webb, at a meeting of the London Chamber of Commerce, on February 17, 1911, and the Spectator, as well, have made public the serious embarrassment which the operation of telegraph lines has entailed upon the English government.
-
-Forty-five years ago, in 1866, the government first proposed the purchase of the British telegraph lines, then valued at 57,500,000 francs ($10,925,000). Negotiations lasted about three years, or until 1869, when Parliament appropriated 175,000,000 francs Edition: current; Page: [234] ($33,250,000) for the carrying out of the purchase, or more than three times the original estimate. Moreover, the government was forced to pay a further sum of 100,000,000 francs ($19,000,000) to the railway companies for their rights over the telegraph lines established along the railroad tracks. Therefore, the complete acquisition of the undertaking cost the British government 275,000,000 francs ($52,250,000).
-
-It had been predicted that, during the course of some twenty years, the net returns from the operation of the telegraph would contribute toward a very sensible reduction of taxation. But this delusion quickly vanished. There was, it is true, a small net profit in the first two years of state operation, but afterward the receipts were never sufficient to meet the interest on the capital invested; and, during thirty-nine years, this enormous deficit has been borne by the Treasury, that is to say, by the people.
-
-Finally, under the pressure of public opinion, which had anticipated, as a consequence of such a measure, an increase in business and consequently of receipts, telegraph rates had to be reduced. The result, however, was exactly the opposite of what had been prophesied. On the one hand, the expenditures for maintenance and operation increased enormously under government administration, while the necessary keeping up to date of the installation rendered the receipts more and more insufficient and the demands on the Treasury more and more insistent.
-
-When one takes into account all the elements, and, more especially, the amount of the original capital, which has never been paid off, the advances made by Edition: current; Page: [235] Parliament, which have never drawn any interest, and the annual deficits on operation, the total commercial loss caused to the country by the purchase of the telegraph amounts at least to £35,000,000 ($170,450,000). The English taxpayer has not even the consolation of thinking that the government possesses an appreciable asset to offset this loss, because, in the case of this particular enterprise, each year of its operation entails a supplementary loss of more than 25,000,000 francs ($4,750,000). From a commercial point of view the purchase has been a complete failure.
-
-The English press makes the following comments: The partisans of government ownership invariably reply to the charge that the British telegraph lines have been a heavy financial burden to the taxpayers with the statement that the public has received compensation in the form of a better and cheaper service. This assertion is plausible, but not convincing. Even if it were sound, one would be forced to ask by what right the whole body of taxpayers is made to subsidize people making regular use of the telegraph but constituting a minority of the population? The expense of operation per million telegraphic words is actually more than it was thirty years ago in Great Britain.
-
-7. At a conference of postal employees, held at Leslie, April 18, 1911, Mr. Crossley declared that the Postal Savings Bank suffered an annual loss of 100,000 pounds sterling ($487,000), due to bad administration and bad investments.
-
-8. When I was a member of the Municipal Council of Paris, of the Chamber of Deputies, and the Budget Committee, I watched with the greatest interest the infinite pains taken by my colleagues to set down on paper (by decreasing the preliminary estimates of expenses and increasing the provisional receipts), a balance in which the receipts would present a more or less insignificant surplus. As General Secretary of the budget I was accustomed to place at the head of my report the estimated figures of the budgets, as voted, together with figures of the supplementary appropriations which usually had to be added during the year.
-
-In a long financial discourse before the Chamber of Deputies Fernand Faure defined the theory of two budgets: the estimated budget voted and the real budget spent.
-
-At the present time the Chamber of Deputies spends weeks in examining the plan of the budget. On October 23, 1884, in one single sitting the accounts of 1871, 1872, 1873, and 1874 were approved. In one single sitting, also, the accounts of 1876, 1877, 1878, 1879, were accepted and this 11, 10, 9, and 8 years, respectively, after the close of the years concerned.
-
-In 1912 the Committee on Final Accounts of the budget decided to examine in detail the accounts submitted to it. The first report, published in July of the same year, and the work of Louis Marin, relates to the accounts of the minister of Foreign Affairs for 1907. It lays bare the following facts:
-
-1. That the various expenditures are often set down in such fashion as to conceal the real object of the expenditure.
-
-2. That inaccuracy in deduction and confusion of matter are the rule.
-
-3. That violations of the regulations in force are chronic.
-
-4. That a great number of sales made in the name of the department are irregular or fictitious.
-
-5. That waste abounds, and that, whereas many employees are paid too little, others benefit by unjustifiable generosity.
-
-Now the department of Foreign Affairs has nothing to produce, nothing to sell. It does not need any special equipment for the carrying on of its work. It does not have to watch the market price of supplies and to buy them under the best possible conditions. In a word, it does not have to do any of the things required of a trading enterprise, in seeking openings, etc. Its staff is easy to manage, and has the reputation of being devoted. What would happen, then, if the department were called upon to manage a commercial undertaking?
-
-9. All extravagant departments try to negotiate appropriations in a more or less round-about manner.
-
-We have worked out a grand naval program, which is to extend over a period from 1912 to January 1, 1920. Its object is to add units to our fleet and to increase the facilities of the ports which are to receive them.
-
-The outline of the plan includes a certain Article 9 which authorizes the government to construct ships enumerated in a certain schedule “A” in such manner as will insure the completion of sixteen Edition: current; Page: [238] men-of-war on January 1, 1920. The two paragraphs read as follows:
-
-“The expenses of carrying on the new construction will be provided for by entering the annual appropriations mentioned in schedule ‘B’ upon the budget for the fiscal years 1912–1919.
-
-“In case the expenditures of one fiscal year should be greater than the provisions of the said schedule warrant, the excess shall be carried over by anticipation to the appropriations for the following year within a maximum limit fixed each year by the Finance Law.”
-
-The construction work to be carried out between January 1, 1912, and January 1, 1920, will involve, according to the original plan of 1910, an expenditure of 1,326,000 francs. The recent loss of the Liberté has increased the amount in round figures to 1,400,000,000 francs ($266,000,000).
-
-The government was anxious, and rightly so, to charge these loans to ordinary expenditures. Yet it resorted to eating its corn before it was ripe, like Panurge. And this roundabout method was finally adopted by the Chamber of Deputies.
-
-Two estimates were made, one indicating the actual amount to be expended per year for new construction; the other showing the distribution of the annual appropriations over the entire period.
-
-The appropriations for 1912, 1913, and 1914 were the smallest for the period, while the proposed expenses were at their maximum in 1913 and 1914. The two estimates in detail were as follows:
-
-Up to 1916 the expenditures exceed the appropriations by 139,295,000 francs ($26,466,050), but the Navy is empowered to carry over the excess by anticipation upon the appropriations of the following years. The sole check to such mortgaging of the future is a provision permitting Parliament to fix a maximum each year in the Finance Law.
-
-Thus the custom of advances from the Treasury, which are to grow from year to year, has been firmly established. The Chamber of Deputies has specified, in the hope of decreasing the figure, “that the excess shall be regulated with the help of supplemental credits'—a practical application of the method of balancing budgets by means of supplementary appropriations.
-
-Senator Gauthier, for the Finance Committee, brought forward strong objections to this system, which he justly described as a “disguised loan, or a loan by annual installments.” He pointed out all the frauds which would result.
-
-“The system of anticipations and that of supplementary credits superimposed upon it, has the advantage of Edition: current; Page: [240] authorizing and legalizing expenditures not covered by the original appropriations; but it does not create any new revenue. The deficit still exists.”
-
-Each man-of-war had been estimated at a uniform cost of 62,525,000 francs, when made in the arsenals, and 64,000,000 francs in private shipyards. As a matter of fact, they have all cost exactly the same, except the new Liberté, constructed by the government, which cost 72,000,000 francs. England and Germany are providing battleships of 26,000 tons. Will we be long content with only thirteen battleships in the dockyards?
-
-The minister of Finance “agreed to insert into the Finance Law of 1913 clauses purporting to cover by corresponding available resources the entire amount of expenditures incurred, which expenses will thus appear, at the end of the period of construction, as arranged for by the law providing for the naval program.” In so doing he acknowledged the soundness of the criticisms of Article 9, made by the finance committee of the Senate. But he had already accepted for himself, and he has made the Chamber of Deputies accept his system.
-
-I cite this case to show by what processes a department may attempt to secure resources by the help of disguised loans. It tries to escape from a unified budget by all sorts of devious methods.
-
-We can judge to what plundering the general budget would be handed over if each department had its own autonomous industrial budget.
+But how will it be if the state system operate with less favorable results than private companies—an almost certain contingency? The losses might well reach 30,000,000 or even 40,000,000 francs.

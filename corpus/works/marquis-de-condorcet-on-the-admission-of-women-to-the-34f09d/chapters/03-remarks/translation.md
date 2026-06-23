@@ -4,7 +4,7 @@ work_slug: "marquis-de-condorcet-on-the-admission-of-women-to-the-34f09d"
 work_title: On the Admission of Women to the Rights of Citizenship
 author_name: Marquis de Condorcet
 chapter_number: 3
-chapter_title: REMARKS.
+chapter_title: Remarks.
 chapter_slug: "03-remarks"
 variant_id: "c92e9c13-5f07-5428-8082-e611ff09d8c7"
 content_type: translation

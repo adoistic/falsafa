@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 104
-chapter_title: CHAPTER LXIV.
+chapter_title: Chapter LXXII.
 chapter_slug: 104
 variant_id: "513f7939-dc32-5250-af9d-acb661125d64"
 content_type: translation
@@ -13,13 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 269
+word_count: 155
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-Though this truth is inexplicable, it demands belief.
+Every human soul is immortal. And it is either forever miserable, or at some time truly blessed.
 
-It seems to me that the mystery of so sublime a subject transcends all the vision of the human intellect. Edition: current; Page: [128] And for that reason I think it best to refrain from the attempt to explain how this thing is. For it is my opinion that one who is investigating an incomprehensible object ought to be satisfied if his reasoning shall have brought him far enough to recognise that this object most certainly exists; nor ought assured belief to be the less readily given to these truths which are declared to be such by cogent proofs, and without the contradiction of any other reason, if, because of the incomprehensibility of their own natural sublimity, they do not admit of explanation.
-
-But what is so incomprehensible, so ineffable, as that which is above all things? Hence, if these truths, which have thus far been debated in connection with the supreme Being, have been declared on cogent grounds, even though they cannot be so examined by the human intellect as to be capable of explanation in words, their assured certainty is not therefore shaken. For, if a consideration, such as that above, rationally comprehends that it is incomprehensible in what way supreme Wisdom knows its creatures, of which we necessarily know so many; who shall explain how it knows and expresses itself, of which nothing or scarcely anything can be known by man? Hence, if it is not by virtue of the self-expression of this Wisdom that the Father begets and the Son is begotten, who shall tell his generation?
+But if the soul is mortal, of course the loving soul is not eternally blessed, nor the soul that scorns this Being eternally miserable. Whether, therefore, it loves or scorns that for the love of which it was created, it must be immortal. But if there are some rational souls which are to be judged as neither loving nor scorning, such as the souls of infants seem to be, what opinion shall be held regarding these? Are they mortal or immortal? But undoubtedly all human souls are of the same nature. Hence, since it is established that some are immortal, every human soul must be immortal. But since every living being is either never, or at some time, truly secure from all trouble; necessarily, also, every human soul is either ever miserable, or at some time truly blessed.

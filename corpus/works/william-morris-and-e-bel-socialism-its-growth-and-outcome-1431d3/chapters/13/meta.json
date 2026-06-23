@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-and-e-bel-socialism-its-growth-and-outcome-1431d3",
+  "work_title": "Socialism: Its Growth and Outcome",
+  "chapter_number": 13,
+  "chapter_title": "Chapter 11",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec51be4e-ecce-5c6a-9d8d-0c5e44cf065f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1913,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1893/sgo/ch11.htm"
+    }
+  ]
+}

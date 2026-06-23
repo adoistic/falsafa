@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-locke-two-treatises-of-government-fcc06c",
+  "work_title": "Two Treatises of Government",
+  "chapter_number": 6,
+  "chapter_title": "Chap. V. Of Adam’s Title to Sovereignty by the Subjection of Eve.",
+  "chapter_slug": "06-chap-v-of-adam-s-title-to-sovereignty-by-the-subje",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5fdfd7b6-26a6-5c13-a31e-ea2619358c5b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1968,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+    }
+  ]
+}

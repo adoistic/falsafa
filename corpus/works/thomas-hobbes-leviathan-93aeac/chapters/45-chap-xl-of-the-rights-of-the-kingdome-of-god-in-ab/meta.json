@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 45,
+  "chapter_title": "Chap. XL.: Of the Rights of the Kingdome of God, in Abraham, Moses, the High Priests, and the Kings of Judah.",
+  "chapter_slug": "45-chap-xl-of-the-rights-of-the-kingdome-of-god-in-ab",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d4cef7b-baa3-557e-bdf2-45ba246ebda9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4188,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

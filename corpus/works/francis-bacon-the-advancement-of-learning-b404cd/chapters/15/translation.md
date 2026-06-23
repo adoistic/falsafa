@@ -4,7 +4,7 @@ work_slug: "francis-bacon-the-advancement-of-learning-b404cd"
 work_title: The Advancement of Learning
 author_name: Francis Bacon
 chapter_number: 15
-chapter_title: CHAPTER VIII
+chapter_title: Chapter IX
 chapter_slug: 15
 variant_id: "40ee6db7-6991-56b2-991b-1cf2d55ecb66"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 326
+word_count: 228
 source_url: "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
 translator: Online Library of Liberty edition
 ---
 
-Division of the History of Times into Universal and Particular. The Advantages and Disadvantages of both
+Second Division of the History of Times into Annals and Journals
 
-HISTORY of times is either general or particular, as it relates the transactions of the whole world, or of a certain kingdom or nation. And there have been those who would seem to give us the history of the world from its origin; but, in reality, offer only a rude collection of things, and certain short narratives instead of a history; while others have nobly, and to good advantage, endeavored to describe, as in a just history, the memorable things, which in their time happened over all the globe. For human affairs are not so far divided by empires and countries, but that in many cases they still preserve a connection: whence it is proper enough to view, as in one picture, the fates of an age. And such a general history as this may frequently contain particular relations, which, though of value, might otherwise either be Edition: current; Page: [109] lost, or never again reprinted: at least, the heads of such accounts may be thus preserved. But upon mature consideration, the laws of just history appear so severe as scarcely to be observed in so large a field of matter, whence the bulkiness of history should rather be retrenched than enlarged; otherwise, he who has such variety of matter everywhere to collect, if he preserve not constantly the strictest watch upon his informations, will be apt to take up with rumors and popular reports, and work such kind of superficial matter into his history. And, then, to retrench the whole, he will be obliged to pass over many things otherwise worthy of relation, and often to contract and shorten his style; wherein there lies no small danger of frequently cutting off useful narrations, in order to oblige mankind in their favorite way of compendium; whence such accounts, which might otherwise live of themselves, may come to be utterly lost.
+HISTORY of times is likewise divisible into annals and journals, according to the observation of Tacitus, where, mentioning the magnificence of certain structures, he adds, “It was found suitable to the Roman dignity that illustrious things should be committed to annals, but such as these to the public journals of the city”; thus referring what related to the state of the commonwealth to annals, and smaller matters to journals. And so there should be a kind of heraldry in regulating the dignities of books as well as persons: for as nothing takes more from the dignity of a state than confusion of orders and degrees, so it greatly takes from the authority of history to intermix matters of triumph, ceremony, and novelty, with matters of state. And it were to be wished that this distinction prevailed; but in our times journals are only used at sea and in military expeditions, whereas among the ancients it was a regal honor to have the daily acts of the palace recorded, as we see in the case of Ahasuerus, king of Persia. And the journals of Alexander the Great contained even trivial matters; yet journals are not destined for trivial things alone, as annals are for serious ones, but contain all things promiscuously, whether of greater or of less concern.

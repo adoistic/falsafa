@@ -1,0 +1,26 @@
+{
+  "work_slug": "max-weber-the-protestant-ethic-and-the-spi-3cade1",
+  "work_title": "The Protestant Ethic and the Spirit of Capitalism",
+  "chapter_number": 6,
+  "chapter_title": "C. Methodism",
+  "chapter_slug": "06-c-methodism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ca23d73-5ee5-561f-b86f-84bd8c68997e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1185,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/weber/protestant-ethic/ch04a.htm"
+    }
+  ]
+}

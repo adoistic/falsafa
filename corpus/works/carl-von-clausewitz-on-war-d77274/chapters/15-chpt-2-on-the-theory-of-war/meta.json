@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 15,
+  "chapter_title": "Chpt. 2 On the Theory of War",
+  "chapter_slug": "15-chpt-2-on-the-theory-of-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "86f91409-9387-538a-b16d-58e552e5da0c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6662,
+      "paragraph_count": 73,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book2/ch02.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-religion-of-socialism-b65d8b",
+  "work_title": "The Religion of Socialism",
+  "chapter_number": 5,
+  "chapter_title": "Socialism and the Sunday Question",
+  "chapter_slug": "05-socialism-and-the-sunday-question",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "02894a5b-99d8-507e-ba50-56bd3ebd7fd0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1676,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1884/08/sunday.htm"
+    }
+  ]
+}

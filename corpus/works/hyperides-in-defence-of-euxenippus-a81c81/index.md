@@ -4,7 +4,10 @@ slug: "hyperides-in-defence-of-euxenippus-a81c81"
 title: In Defence of Euxenippus
 author:
   name: Hyperides
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Athenian orator and politician of the anti-Macedonian party, one of the ten canonical Attic orators. His speeches, partly recovered from papyri, survive as specimens of late classical forensic and political eloquence."
+  birth_year: -390
+  death_year: -322
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

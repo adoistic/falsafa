@@ -2,7 +2,7 @@
   "work_slug": "john-rae-life-of-adam-smith-a74419",
   "work_title": "Life of Adam Smith",
   "chapter_number": 25,
-  "chapter_title": "CHAPTER XXIV: THE \"WEALTH OF NATIONS\" ABROAD AND AT HOME",
+  "chapter_title": "Chapter XXV: Smith Interviewed",
   "chapter_slug": "25",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2381,
-      "paragraph_count": 14,
+      "word_count": 4311,
+      "paragraph_count": 26,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
     }

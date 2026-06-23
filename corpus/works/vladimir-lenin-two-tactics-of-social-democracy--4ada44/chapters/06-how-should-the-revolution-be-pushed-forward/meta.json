@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+  "work_title": "Two Tactics of Social-Democracy in the Democratic Revolution",
+  "chapter_number": 6,
+  "chapter_title": "How Should “The Revolution Be Pushed Forward”?",
+  "chapter_slug": "06-how-should-the-revolution-be-pushed-forward",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2b7784ea-b758-58ef-a33a-0b61eb6ec7a1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1244,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ch05.htm"
+    }
+  ]
+}

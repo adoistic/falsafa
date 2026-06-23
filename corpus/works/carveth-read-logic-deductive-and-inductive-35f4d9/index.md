@@ -4,13 +4,17 @@ slug: "carveth-read-logic-deductive-and-inductive-35f4d9"
 title: "Logic: Deductive and Inductive"
 author:
   name: Carveth Read
-  biography: "Carveth Read (1848-1931)."
+  biography: "English philosopher and logician, professor of philosophy of mind and logic at University College London. Logic: Deductive and Inductive of 1898 supplied a plain-language textbook that ran through four editions and decades of classroom use."
+  birth_year: 1848
+  death_year: 1931
+  nationality: English
 era: 20th Century
 genre: Logic
 language: English
 language_direction: ltr
 description: "Logic: Deductive and Inductive, by Carveth Read (1848-1931), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1898
 total_logical_chapters: 24
 total_variant_entries: 24
 thothica_role: catalog

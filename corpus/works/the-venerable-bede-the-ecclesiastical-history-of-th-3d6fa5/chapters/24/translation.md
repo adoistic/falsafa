@@ -4,7 +4,7 @@ work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
 work_title: The Ecclesiastical History of the English Nation
 author_name: The Venerable Bede
 chapter_number: 24
-chapter_title: CHAPTER XIX
+chapter_title: Chapter XIX (1)
 chapter_slug: 24
 variant_id: "aa20c8bd-b076-50a4-916c-4b4d6217077a"
 content_type: translation

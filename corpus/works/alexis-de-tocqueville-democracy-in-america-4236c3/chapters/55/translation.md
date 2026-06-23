@@ -1,0 +1,25 @@
+---
+work_id: "4236c39f-c0d0-5a54-8dc7-6901642e8c28"
+work_slug: "alexis-de-tocqueville-democracy-in-america-4236c3"
+work_title: Democracy in America
+author_name: Alexis de Tocqueville
+chapter_number: 55
+chapter_title: "Chapter XVIII: Of The Inflated Style Of American Writers And Orators"
+chapter_slug: 55
+variant_id: "1526688d-f781-5ba2-9bb8-2d95acba5462"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 502
+source_url: "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch25.htm"
+translator: Henry Reeve
+---
+
+I have frequently remarked that the Americans, who generally treat of business in clear, plain language, devoid of all ornament, and so extremely simple as to be often coarse, are apt to become inflated as soon as they attempt a more poetical diction. They then vent their pomposity from one end of a harangue to the other; and to hear them lavish imagery on every occasion, one might fancy that they never spoke of anything with simplicity. The English are more rarely given to a similar failing. The cause of this may be pointed out without much difficulty. In democratic communities each citizen is habitually engaged in the contemplation of a very puny object, namely himself. If he ever raises his looks higher, he then perceives nothing but the immense form of society at large, or the still more imposing aspect of mankind. His ideas are all either extremely minute and clear, or extremely general and vague: what lies between is an open void. When he has been drawn out of his own sphere, therefore, he always expects that some amazing object will be offered to his attention; and it is on these terms alone that he consents to tear himself for an instant from the petty complicated cares which form the charm and the excitement of his life. This appears to me sufficiently to explain why men in democracies, whose concerns are in general so paltry, call upon their poets for conceptions so vast and descriptions so unlimited.
+
+The authors, on their part, do not fail to obey a propensity of which they themselves partake; they perpetually inflate their imaginations, and expanding them beyond all bounds, they not unfrequently abandon the great in order to reach the gigantic. By these means they hope to attract the observation of the multitude, and to fix it easily upon themselves: nor are their hopes disappointed; for as the multitude seeks for nothing in poetry but subjects of very vast dimensions, it has neither the time to measure with accuracy the proportions of all the subjects set before it, nor a taste sufficiently correct to perceive at once in what respect they are out of proportion. The author and the public at once vitiate one another.
+
+We have just seen that amongst democratic nations, the sources of poetry are grand, but not abundant. They are soon exhausted: and poets, not finding the elements of the ideal in what is real and true, abandon them entirely and create monsters. I do not fear that the poetry of democratic nations will prove too insipid, or that it will fly too near the ground; I rather apprehend that it will be forever losing itself in the clouds, and that it will range at last to purely imaginary regions. I fear that the productions of democratic poets may often be surcharged with immense and incoherent imagery, with exaggerated descriptions and strange creations; and that the fantastic beings of their brain may sometimes make us regret the world of reality.

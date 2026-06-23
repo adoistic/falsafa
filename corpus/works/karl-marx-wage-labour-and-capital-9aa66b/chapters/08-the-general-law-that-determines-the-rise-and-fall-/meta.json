@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-wage-labour-and-capital-9aa66b",
+  "work_title": "Wage Labour and Capital",
+  "chapter_number": 8,
+  "chapter_title": "The general law that determines the rise and fall of wages and profit",
+  "chapter_slug": "08-the-general-law-that-determines-the-rise-and-fall-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e087b362-9b58-53cd-ab9d-bbfad95dd78e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 968,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1847/wage-labour/ch07.htm"
+    }
+  ]
+}

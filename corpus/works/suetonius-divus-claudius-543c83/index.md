@@ -4,7 +4,10 @@ slug: "suetonius-divus-claudius-543c83"
 title: Divus Claudius
 author:
   name: Suetonius
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman biographer and imperial secretary under Hadrian, drawing on archival access to the emperors' lives. The Lives of the Twelve Caesars set the template for political biography, ordering each reign by anecdote, character, and administrative record."
+  birth_year: 69
+  death_year: 122
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

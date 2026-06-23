@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 33,
+  "chapter_title": "Chap. XI: Why in Time this Balance is destroyed",
+  "chapter_slug": "33-chap-xi-why-in-time-this-balance-is-destroyed",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "32d866ce-78fc-5c61-b0c4-b4ec88465ab4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2198,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_10.htm"
+    }
+  ]
+}

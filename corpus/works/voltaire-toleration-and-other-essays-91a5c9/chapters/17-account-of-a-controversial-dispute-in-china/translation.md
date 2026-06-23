@@ -4,7 +4,7 @@ work_slug: "voltaire-toleration-and-other-essays-91a5c9"
 work_title: Toleration and Other Essays
 author_name: Voltaire
 chapter_number: 17
-chapter_title: ACCOUNT OF A CONTROVERSIAL DISPUTE IN CHINA
+chapter_title: Account of a Controversial Dispute in China
 chapter_slug: "17-account-of-a-controversial-dispute-in-china"
 variant_id: "36f2da07-56d1-51f2-82ab-ab458c70aeda"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 688
+word_count: 684
 source_url: "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
 translator: Online Library of Liberty edition
 ---
@@ -26,7 +26,7 @@ The mandarin, with the utmost discretion, reminded them that politeness was need
 
 The Jesuit answered: “My lord, I leave it to you to decide. These two gentlemen refuse to submit to the decrees of the Council of Trent.”
 
-“I am astonished,” said the mandarin. Then, Edition: current; Page: [76] turning to the refractory pair, he said: “Gentlemen, you ought to respect the opinions of a large gathering. I do not know what the Council of Trent is, but a number of men are always better informed than a single one. No one ought to imagine that he is better than others, and has a monopoly of reason. So our great Confucius teaches; and, believe me, you will do well to submit to the Council of Trent.”
+“I am astonished,” said the mandarin. Then, turning to the refractory pair, he said: “Gentlemen, you ought to respect the opinions of a large gathering. I do not know what the Council of Trent is, but a number of men are always better informed than a single one. No one ought to imagine that he is better than others, and has a monopoly of reason. So our great Confucius teaches; and, believe me, you will do well to submit to the Council of Trent.”
 
 The Dane then spoke. “My lord speaks with the greatest wisdom,” he said; “we respect great councils, as is proper, and therefore we are in entire agreement with several that were held before the Council of Trent.”
 

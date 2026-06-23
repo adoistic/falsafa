@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-theory-of-permanent-revoluti-a2fcb1",
+  "work_title": "The Theory of Permanent Revolution",
+  "chapter_number": 3,
+  "chapter_title": "General Estimate of Classes in the Progress of Our Revolution.",
+  "chapter_slug": "03-general-estimate-of-classes-in-the-progress-of-our",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab03bc0a-ddbb-5839-9803-39ac3750a66f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2769,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1924/permanent-revolution/index.htm"
+    }
+  ]
+}

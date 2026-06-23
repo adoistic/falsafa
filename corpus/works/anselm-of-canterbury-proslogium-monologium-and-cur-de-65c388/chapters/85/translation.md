@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 85
-chapter_title: CHAPTER XLV
+chapter_title: Chapter LIII.
 chapter_slug: 85
 variant_id: "c4739dfe-0f4b-5ec0-87be-03f32baa3e91"
 content_type: translation
@@ -13,15 +13,21 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 277
+word_count: 321
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-The Son may more appropriately be called the essence of the Father, than the Father the essence of the Son: and in like manner the Son is the virtue, wisdom, etc, of the Father.
+Each loves himself and the other with equal love.
 
-And although, for reasons we have noted, this is true, it is much more proper to call the Son the essence of the Father than the Father the essence of the Son. For, since the Father has his being from none other than himself, it is not wholly appropriate to say that he has the being of another than himself; while, since the Son has his being from the Father, and has the same essence with his Father, he may most appropriately be said to have the essence of his Father.
+But if the supreme Spirit loves himself, no doubt the Father loves himself, the Son loves himself, and the one the other; since the Father separately is the supreme Spirit, and the Son separately is the supreme Spirit, and both at once one Spirit. And, since each equally remembers himself and the other, and conceives equally of himself and the other; and since what is loved, or loves in the Father, or in the Son, is altogether the same, necessarily each loves himself and the other with an equal love.
 
-Hence, seeing that neither has an essence, except by being an essence; as the Son is more appropriately conceived to have the essence of the Father than the Father to have the essence of the Son, so the Son may more fitly be called the essence of the Father than the Father the essence of the son. For this single explanation proves, with sufficiently emphatic brevity, that the Son not only has the same essence with the Father, but has this very essence from the Father; so that, to assert that the Son is the essence of the Father is the same as to assert that the Son is not a different essence from the essence of the Father nay, from the Father-essence.
+This love is as great as the supreme Spirit himself.
 
-In like manner, therefore, the Son is the virtue of the Father, and his wisdom, and justice, and whatever is consistently attributed to the essence of the supreme Spirit.
+How great, then, is this love of the supreme Spirit, common as it is to Father and Son! But, if he loves himself as much as he remembers and conceives of himself; and, moreover, remembers and conceives of himself in as great a degree as that in which his essence exists, since otherwise it cannot exist; undoubtedly his love is as great as he himself is.
+
+This love is identical with the supreme Spirit, and yet it is itself with the Father and the Son one spirit
+
+But what can be equal to the supreme Spirit, except the supreme Spirit? That love is, then, the supreme Spirit. Hence, if no creature, that is, if nothing other than the supreme Spirit, the Father and the Son, ever existed; nevertheless, Father and Son would love themselves and one another.
+
+It therefore follows that this love is nothing else than what the Father and the Son are, which is the supreme Being. But, since there cannot be more than one supreme Being, what inference can be more necessary than that Father and Son and the love of both are one supreme Being? Therefore, this love is supreme Wisdom, supreme Truth, the supreme Good, and whatsoever can be attributed to the substance of the supreme Spirit.

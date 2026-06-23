@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-rights-of-war-and-peace-0db900"
 work_title: The Rights of War and Peace
 author_name: Hugo Grotius
 chapter_number: 44
-chapter_title: "CHAPTER XVI.: On Moderation with Respect to Things Excluded from the Right of Postliminium by the Law of Nations."
+chapter_title: "Chapter XVI.: On Moderation with Respect to Things Excluded from the Right of Postliminium by the Law of Nations."
 chapter_slug: 44
 variant_id: "5186301e-15ac-5b88-a073-adebc89c6986"
 content_type: translation

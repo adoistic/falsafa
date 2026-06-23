@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 90,
+  "chapter_title": "Letter 90",
+  "chapter_slug": "90-letter-90",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "30372948-8f15-5525-b64f-5f0b1622a303",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2001,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "43dda8cc-e546-58a4-ae46-80d14ff81b0a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4432,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

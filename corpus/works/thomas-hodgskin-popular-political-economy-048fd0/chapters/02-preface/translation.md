@@ -4,7 +4,7 @@ work_slug: "thomas-hodgskin-popular-political-economy-048fd0"
 work_title: Popular Political Economy
 author_name: Thomas Hodgskin
 chapter_number: 2
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "02-preface"
 variant_id: "adaed389-4632-5310-9ec4-b32ce5f6b06d"
 content_type: translation

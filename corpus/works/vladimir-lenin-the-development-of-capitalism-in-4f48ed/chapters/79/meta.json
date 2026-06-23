@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-development-of-capitalism-in-4f48ed",
+  "work_title": "The Development of Capitalism in Russia",
+  "chapter_number": 79,
+  "chapter_title": "Chapter VIII. The Formation of the Home Market (5)",
+  "chapter_slug": "79",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "646be579-3009-5f83-8fd7-7366c5e8330d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1434,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1899/dcr8viii/viii8v.htm"
+    }
+  ]
+}

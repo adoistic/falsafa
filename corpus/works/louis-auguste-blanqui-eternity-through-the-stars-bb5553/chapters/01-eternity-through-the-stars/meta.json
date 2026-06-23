@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-auguste-blanqui-eternity-through-the-stars-bb5553",
+  "work_title": "Eternity Through the Stars",
+  "chapter_number": 1,
+  "chapter_title": "Eternity Through the Stars",
+  "chapter_slug": "01-eternity-through-the-stars",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2652083-fa0c-52b2-8e6f-e9ef1697305d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 964,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/blanqui/1872/astres.htm"
+    }
+  ]
+}

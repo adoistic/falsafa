@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-imperialism-the-highest-stage-of-c6d840",
+  "work_title": "Imperialism, the Highest Stage of Capitalism",
+  "chapter_number": 6,
+  "chapter_title": "IV. Export of Capital",
+  "chapter_slug": "06-iv-export-of-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6aba1bcc-5caa-547e-adfb-3571519c2e36",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1480,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch04.htm"
+    }
+  ]
+}

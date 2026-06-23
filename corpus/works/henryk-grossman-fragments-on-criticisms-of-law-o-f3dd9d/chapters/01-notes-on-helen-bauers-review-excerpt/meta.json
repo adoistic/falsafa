@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-fragments-on-criticisms-of-law-o-f3dd9d",
+  "work_title": "Fragments on criticisms of 'Law of Accumulation'",
+  "chapter_number": 1,
+  "chapter_title": "Notes on Helen Bauer's review (Excerpt)",
+  "chapter_slug": "01-notes-on-helen-bauers-review-excerpt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c24a7614-cc0f-53d2-a37a-2bebe63d2422",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 944,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/hbauer.htm"
+    }
+  ]
+}

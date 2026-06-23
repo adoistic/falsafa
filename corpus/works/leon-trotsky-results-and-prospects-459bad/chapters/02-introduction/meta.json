@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-results-and-prospects-459bad",
+  "work_title": "Results and Prospects",
+  "chapter_number": 2,
+  "chapter_title": "[Introduction]",
+  "chapter_slug": "02-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5aa5fde-2a39-519c-aa1d-3a9a1e81ed9f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 201,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1931/tpr/rp-intro.htm"
+    }
+  ]
+}

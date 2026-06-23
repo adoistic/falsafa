@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 145
+word_count: 141
 source_url: "https://oll.libertyfund.org/titles/keynes-the-economic-consequences-of-the-peace"
 translator: Online Library of Liberty edition
 ---
@@ -26,4 +26,4 @@ The value of property in ceded territory, or surrendered under the Armistice;
 
 Annual payments spread over a term of years, partly in cash and partly in materials such as coal products, potash, and dyes.
 
-There is excluded from the above the actual Edition: current; Page: [169] restitution of property removed from territory occupied by the enemy, as, for example, Russian gold, Belgian and French securities, cattle, machinery, and works of art. In so far as the actual goods taken can be identified and restored, they must clearly be returned to their rightful owners, and cannot be brought into the general reparation pool. This is expressly provided for in Article 238 of the Treaty.
+There is excluded from the above the actual restitution of property removed from territory occupied by the enemy, as, for example, Russian gold, Belgian and French securities, cattle, machinery, and works of art. In so far as the actual goods taken can be identified and restored, they must clearly be returned to their rightful owners, and cannot be brought into the general reparation pool. This is expressly provided for in Article 238 of the Treaty.

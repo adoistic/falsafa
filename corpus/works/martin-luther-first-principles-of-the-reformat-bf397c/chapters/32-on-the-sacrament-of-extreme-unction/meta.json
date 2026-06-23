@@ -1,0 +1,26 @@
+{
+  "work_slug": "martin-luther-first-principles-of-the-reformat-bf397c",
+  "work_title": "First Principles of the Reformation",
+  "chapter_number": 32,
+  "chapter_title": "On the Sacrament of Extreme Unction.",
+  "chapter_slug": "32-on-the-sacrament-of-extreme-unction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "21e643a3-51c5-52ef-a6e1-5765b634ad81",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4705,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/luther-first-principles-of-the-reformation-1883"
+    }
+  ]
+}

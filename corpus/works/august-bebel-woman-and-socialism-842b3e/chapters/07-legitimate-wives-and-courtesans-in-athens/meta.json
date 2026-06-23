@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 7,
+  "chapter_title": "Legitimate Wives and Courtesans in Athens.",
+  "chapter_slug": "07-legitimate-wives-and-courtesans-in-athens",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "380663f0-f57d-5df4-a77b-b164a33aab49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2621,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch02.htm"
+    }
+  ]
+}

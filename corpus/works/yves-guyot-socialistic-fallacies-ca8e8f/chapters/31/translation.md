@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 31
-chapter_title: "CHAPTER II: The Claims of Marx and Engels"
+chapter_title: "Chapter IV: Formula B and the “Iron Law of Wages“"
 chapter_slug: 31
 variant_id: "9d2ab558-b2c0-50bc-9449-2b01cec191e5"
 content_type: translation
@@ -13,15 +13,27 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 394
+word_count: 627
 source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
 translator: Online Library of Liberty edition
 ---
 
-For Germany—Against Rodbertus—Against Lassalle.
+Turgot and wages—The actual price of labour and the price of the means of subsistence—Ricardo—Lassalle and the “iron law of wages”—Graduation of wages in the city of Paris—Rise of wages and diminution of the price of the means of subsistence—Share of capital and of labour in production in the United States—Bastiat and Rodbertus.
 
-Karl Marx and Engels, while declaring themselves to be internationalists and communists, begin by themselves failing in their pretensions. Far from admitting that the French communists and socialists were their precursors, they never cease to load them with scorn and contempt. They refuse to be under any obligation to those Frenchmen whose powers of persuasion they detest and who expect clearness in others although they lack it themselves, and they are unable to submit to a “discipline of pedants.” Karl Marx and Engels want to convert socialism into a German monopoly, and when Marx says “Proletariat of all nations, unite,” what he means is “Pan-Germanise.”
+Turgot said: “The price at which the poor workman sells his labour does not depend upon himself.” But does the price at which the merchant vends his goods depend upon himself? If no one wants them, no one will take them.
 
-At the same time they bitterly contend with their own compatriots for the private proprietorship of their formulæ, refusing to share them with anyone. Rodbertus claimed that Karl Marx had borrowed his ideas. Engels asserts that Marx had never beheld any of Rodbertus' publications before 1858 and 1859. Inasmuch as Rodbertus' first publication was issued in 1837, he in his turn expresses astonishment that Marx, who claimed to know everything, should pretend to such profound and long-continued ignorance with respect to him. In revenge, Engels freely admits that Proudhon owes his conception of value to Rodbertus—another instance of Pan-Germanism. But Engels is constrained to admit that Rodbertus and Marx both drew from the same English source, Ricardo, and says, “It does not occur to Rodbertus' mind that Karl Marx may have been able to draw his conclusions unaided from Ricardo as well as Rodbertus did himself.” At all events Rodbertus has the advantage of priority in Edition: current; Page: [106] date, and despite their violent denials, Marx and Engels are the disciples of that great Pomeranian landed proprietor, the representative of the great landowners in the provincial assemblies and in the Prussian Parliament, and, therefore, actually a champion of class distinctions. In his dislike of the French Revolution, Karl Marx, himself the son-in-law of a Prussian “Junker,” transfers to it the hatred entertained for it by his wife's family, and Paul Lafargue inherited it from him.
+Ricardo having based his theory of value entirely upon labour, attempted to find a mean or standard for it. He says, somewhat vaguely, “The natural price of labour is that price which is necessary to enable the labourers, one with another, to subsist and to perpetuate their race, without either increase or diminution… The natural price of labour, therefore, depends on the price of the food, necessaries, and conveniences required for the support of the labourer and his family. Nevertheless, he recognised that “the natural price of labour, estimated even in food and necessaries, is not absolutely fixed and constant.” He added that, “an English workman would consider his wages under their natural rate and too scanty to support a family if they enabled him to purchase no other food than potatoes, and to live in no better habitation than a mud cabin.”
 
-As for Lassalle, Karl Marx treated him with contempt. In his preface to “Capital,” written in 1867, he says of him (he died in 1864), “While abstaining from indicating their origin, he has borrowed from my writings, almost word for word, all the theoretical propositions of his economic writings.”
+Lassalle's sonorous metaphor of “the iron law of wages” is derived from Ricardo's formula. It implies the equality of wages, and in 1848 the workmen were so fully aware that it was fallacious that Louis Blanc was obliged at the Luxembourg to refuse his support to the principle of equality of wages which he had preached. The graduated scale of wages in the city of Paris was set up by the workmen themselves in 1880. The scale of wages of the several classes of workmen in the building trade is as follows, according to the “Bordereaux des Salaires” published by the Labour Bureau in 1902:
+
+The navvy does not buy his bread cheaper than the rough-caster. If the “iron law” applies to the former, it does not apply to the latter.
+
+Mr. Bowley in his “Progress of the Nation” compares wages with M. Sauerbeck's “Index Numbers,” in which the means of subsistence play an important part.
+
+Wages have doubled between 1840 and 1900, rising from 50 to 100, or rather from 100 to 200, while prices have fallen from 100 to 61. Therefore, in 1840, £100 in wages would pay for £100 in commodities. In 1900, £200 in wages would pay for more than three times (3.2) £61 in commodities. Consequently the value of wages has risen in the proportion of 1 to 3.2, or, say, 220 per cent.
+
+Rodbertus enunciated a formula which Socialists who claim to be scientific attempt to substitute for the “iron law of wages.” This is “that the increase in the productivity of labour involves the reduction in the wages of the working classes to a constantly decreasing fraction of the social product.”
+
+I take the figures contained in the census of the whole of the industries of the United States:—
+
+Improvements in plant have not taken away work from the workmen, seeing that their numbers increased by 44 per cent. between 1890 and 1905. The rate of return on capital has decreased by 24 per cent., while wages have risen 11 per cent. This is a condemnation of Rodbertus' formula and a confirmation of Bastiat's, which he expresses as follows:—“In proportion as capital increases, the absolute share of capitalists in the total amount of production increases, and their relative share decreases. The workmen, on the other hand, see their share increasing in both respects.”

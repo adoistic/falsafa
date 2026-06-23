@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-programme-of-the-world-revolutio-953692",
+  "work_title": "Programme of the World Revolution",
+  "chapter_number": 13,
+  "chapter_title": "XII. Bread – Only for the Workers. Compulsory Labour Service for the Rich",
+  "chapter_slug": "13-xii-bread-only-for-the-workers-compulsory-labour-s",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0d6a6bca-1fad-5c53-9df7-c2def0b71284",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1480,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1918/worldrev/ch12.html"
+    }
+  ]
+}

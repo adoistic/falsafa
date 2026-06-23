@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f"
 work_title: "Capital and Interest: A Critical History of Economical Theory"
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 22
-chapter_title: "Book IV, Chapter I: Senior's Statement of the Theory"
+chapter_title: "Book IV: The Abstinence Theory, Book IV, Chapter I: Senior's Statement of the Theory"
 chapter_slug: 22
 variant_id: "3f6c2f58-f52f-5d95-9146-7acce5b8f051"
 content_type: translation

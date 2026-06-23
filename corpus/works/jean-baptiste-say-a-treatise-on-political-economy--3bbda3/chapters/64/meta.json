@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 64,
-  "chapter_title": "SECTION II.: Of the influence of the Quality of a national product upon the local distribution of the Population.",
+  "chapter_title": "Book III, Chapter II: Of the Effect of Consumption in General.",
   "chapter_slug": "64",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1642,
-      "paragraph_count": 13,
+      "word_count": 881,
+      "paragraph_count": 8,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

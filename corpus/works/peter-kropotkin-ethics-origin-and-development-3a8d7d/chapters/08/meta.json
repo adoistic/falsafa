@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-ethics-origin-and-development-3a8d7d",
+  "work_title": "Ethics: Origin and Development",
+  "chapter_number": 8,
+  "chapter_title": "Chapter 6 : Christianity-The Middle Ages -- The Renaissance",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "abb08a40-6672-5118-98f1-b5e26a5a1415",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10267,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1924/ethics-origin-and-development/chapter-6.html"
+    }
+  ]
+}

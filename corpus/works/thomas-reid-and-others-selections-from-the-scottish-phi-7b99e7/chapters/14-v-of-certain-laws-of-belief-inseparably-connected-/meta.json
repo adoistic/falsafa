@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 14,
+  "chapter_title": "V.—: Of Certain Laws of Belief, Inseparably Connected with the Exercise of Consciousness, Memory, Perception, and Reason",
+  "chapter_slug": "14-v-of-certain-laws-of-belief-inseparably-connected-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f979ce4c-f015-5fd9-ad51-f032b7295e10",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4825,
+      "paragraph_count": 92,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

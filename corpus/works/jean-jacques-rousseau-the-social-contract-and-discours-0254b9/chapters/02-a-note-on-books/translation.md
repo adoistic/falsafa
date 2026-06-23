@@ -4,7 +4,7 @@ work_slug: "jean-jacques-rousseau-the-social-contract-and-discours-0254b9"
 work_title: The Social Contract and Discourses
 author_name: "Jean-Jacques Rousseau"
 chapter_number: 2
-chapter_title: A NOTE ON BOOKS
+chapter_title: A Note on Books
 chapter_slug: "02-a-note-on-books"
 variant_id: "abf4323e-c962-5552-8b11-ffb01b85ed18"
 content_type: translation

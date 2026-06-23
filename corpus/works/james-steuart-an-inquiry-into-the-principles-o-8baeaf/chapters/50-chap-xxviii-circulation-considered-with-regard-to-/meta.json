@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 50,
+  "chapter_title": "Chap. XXVIII: Circulation considered with regard to the Rise and Fall of the Price of Subsistence and Manufactures",
+  "chapter_slug": "50-chap-xxviii-circulation-considered-with-regard-to-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9c5dad47-f2d0-50e0-a3d0-44959b09a061",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7180,
+      "paragraph_count": 75,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_28.htm"
+    }
+  ]
+}

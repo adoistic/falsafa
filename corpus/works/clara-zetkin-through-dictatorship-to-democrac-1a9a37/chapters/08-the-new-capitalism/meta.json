@@ -1,0 +1,26 @@
+{
+  "work_slug": "clara-zetkin-through-dictatorship-to-democrac-1a9a37",
+  "work_title": "Through Dictatorship to Democracy",
+  "chapter_number": 8,
+  "chapter_title": "The New Capitalism",
+  "chapter_slug": "08-the-new-capitalism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9aab54e3-e98a-5035-b21c-cc8d6122862c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 240,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/zetkin/1919/xx/dictdem.htm"
+    }
+  ]
+}

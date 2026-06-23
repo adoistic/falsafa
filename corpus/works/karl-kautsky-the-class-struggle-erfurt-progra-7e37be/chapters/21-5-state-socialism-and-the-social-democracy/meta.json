@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-class-struggle-erfurt-progra-7e37be",
+  "work_title": "The Class Struggle (Erfurt Program)",
+  "chapter_number": 21,
+  "chapter_title": "5. State Socialism and the Social Democracy",
+  "chapter_slug": "21-5-state-socialism-and-the-social-democracy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "701e7955-2fae-5723-b7cd-a9ea4afcde4a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 771,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1892/erfurt/ch04.htm"
+    }
+  ]
+}

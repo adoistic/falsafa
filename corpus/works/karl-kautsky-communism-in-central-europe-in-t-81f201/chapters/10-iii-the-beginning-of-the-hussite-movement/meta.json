@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 10,
+  "chapter_title": "III. The Beginning of the Hussite Movement",
+  "chapter_slug": "10-iii-the-beginning-of-the-hussite-movement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3dcc2be3-bdc0-5c10-a0a6-97f223340829",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1740,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch02.htm"
+    }
+  ]
+}

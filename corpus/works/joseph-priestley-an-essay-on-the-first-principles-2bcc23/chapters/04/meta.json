@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-priestley-an-essay-on-the-first-principles-2bcc23",
+  "work_title": "An Essay on the First Principles of Government",
+  "chapter_number": 4,
+  "chapter_title": "Section III.: Of CIVIL Liberty, Sect. I.: Of the nature of Civil Liberty in general.",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74201ccd-580d-515f-b69d-52c2ca4e8936",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4584,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/priestley-an-essay-on-the-first-principles-of-government"
+    }
+  ]
+}

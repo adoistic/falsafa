@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 14,
+  "chapter_title": "Part II, Chapter IX: Third Approximation to the Theory of Interest Assuming Income Uncertain",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a81ce25e-d5c4-5973-ba15-1f8810c08348",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4961,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

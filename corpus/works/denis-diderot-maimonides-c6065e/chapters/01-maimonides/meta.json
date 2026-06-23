@@ -1,0 +1,26 @@
+{
+  "work_slug": "denis-diderot-maimonides-c6065e",
+  "work_title": "Maimonides",
+  "chapter_number": 1,
+  "chapter_title": "Maimonides",
+  "chapter_slug": "01-maimonides",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f93e746-636a-5bbf-9223-3de51b8825bc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1823,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/diderot/1765/maimonides.htm"
+    }
+  ]
+}

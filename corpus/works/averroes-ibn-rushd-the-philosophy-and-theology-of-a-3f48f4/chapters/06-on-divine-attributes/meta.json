@@ -1,0 +1,26 @@
+{
+  "work_slug": "averroes-ibn-rushd-the-philosophy-and-theology-of-a-3f48f4",
+  "work_title": "The Philosophy and Theology of Averroes",
+  "chapter_number": 6,
+  "chapter_title": "On Divine Attributes",
+  "chapter_slug": "06-on-divine-attributes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a69205d-8363-54c7-ab14-a732969e5c51",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2817,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rushd-the-philosophy-and-theology-of-averroes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-ethics-and-the-materialist-conce-c26920",
+  "work_title": "Ethics and the Materialist Conception of History",
+  "chapter_number": 1,
+  "chapter_title": "Author’s Preface",
+  "chapter_slug": "01-author-s-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8325d3d1-0497-55bc-bee7-12ef3022eacb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1095,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1906/ethics/preface.htm"
+    }
+  ]
+}

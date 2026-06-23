@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 68,
+  "chapter_title": "Chapter X: Of The Taste For Physical Well-Being In America",
+  "chapter_slug": "68",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc27c50e-6b57-52f4-99e5-dfefb82925d1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 874,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch29.htm"
+    }
+  ]
+}

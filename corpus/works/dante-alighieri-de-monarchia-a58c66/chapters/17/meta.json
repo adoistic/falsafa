@@ -2,7 +2,7 @@
   "work_slug": "dante-alighieri-de-monarchia-a58c66",
   "work_title": "De Monarchia",
   "chapter_number": 17,
-  "chapter_title": "CHAPTER XIV: What one agent can do is better done by one than by many.",
+  "chapter_title": "Chapter XIV: What one agent can do is better done by one than by many.",
   "chapter_slug": "17",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 697,
+      "word_count": 681,
       "paragraph_count": 3,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"

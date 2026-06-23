@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 4,
+  "chapter_title": "II. Equality within the Gens",
+  "chapter_slug": "04-ii-equality-within-the-gens",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ad8947a2-b8b1-5b62-8a97-9c3060f2d6cb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3089,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter02.htm"
+    }
+  ]
+}

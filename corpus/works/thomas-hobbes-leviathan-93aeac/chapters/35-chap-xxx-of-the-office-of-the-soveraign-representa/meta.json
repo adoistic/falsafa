@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 35,
+  "chapter_title": "Chap. XXX.: Of the Office of the Soveraign Representative.",
+  "chapter_slug": "35-chap-xxx-of-the-office-of-the-soveraign-representa",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bf54ad45-db35-5bb3-89c7-94b815ca578a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6065,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

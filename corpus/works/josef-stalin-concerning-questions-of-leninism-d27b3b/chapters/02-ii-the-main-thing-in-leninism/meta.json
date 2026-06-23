@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-concerning-questions-of-leninism-d27b3b",
+  "work_title": "Concerning Questions of Leninism",
+  "chapter_number": 2,
+  "chapter_title": "II the Main Thing in Leninism",
+  "chapter_slug": "02-ii-the-main-thing-in-leninism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "09c0d9dd-7a6f-50b7-999e-f193d78bdc00",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 723,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1926/01/25.htm"
+    }
+  ]
+}

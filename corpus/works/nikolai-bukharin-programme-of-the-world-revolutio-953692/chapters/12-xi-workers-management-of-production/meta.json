@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-programme-of-the-world-revolutio-953692",
+  "work_title": "Programme of the World Revolution",
+  "chapter_number": 12,
+  "chapter_title": "XI. Workers’ Management of Production",
+  "chapter_slug": "12-xi-workers-management-of-production",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3d909da1-961e-5367-b77e-9e49b276172f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1628,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1918/worldrev/ch11.html"
+    }
+  ]
+}

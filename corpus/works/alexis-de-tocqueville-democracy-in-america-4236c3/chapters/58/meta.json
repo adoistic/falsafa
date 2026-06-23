@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 58,
+  "chapter_title": "Chapter XXI: Of Parliamentary Eloquence In The United States",
+  "chapter_slug": "58",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d55dd96a-804c-53e9-8edb-bef22df1b749",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1836,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch26.htm"
+    }
+  ]
+}

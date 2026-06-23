@@ -4,13 +4,17 @@ slug: "john-alexander-gunn-bergson-and-his-philosophy-6671b6"
 title: Bergson and His Philosophy
 author:
   name: John Alexander Gunn
-  biography: "John Alexander Gunn (1896-1975)."
+  biography: "Scottish-born philosopher trained at Liverpool who held the chair of philosophy at the University of Melbourne. His studies of Bergson and of post-Comtean French thought served English readers as introductions to contemporary continental philosophy."
+  birth_year: 1896
+  death_year: 1975
+  nationality: Scottish
 era: 20th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "Bergson and His Philosophy, by John Alexander Gunn (1896-1975), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1920
 total_logical_chapters: 12
 total_variant_entries: 12
 thothica_role: catalog

@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 32,
+  "chapter_title": "Appendix to Chapter XII",
+  "chapter_slug": "32-appendix-to-chapter-xii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "57f75dfd-f151-561c-9e8b-0926de79e8d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 754,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

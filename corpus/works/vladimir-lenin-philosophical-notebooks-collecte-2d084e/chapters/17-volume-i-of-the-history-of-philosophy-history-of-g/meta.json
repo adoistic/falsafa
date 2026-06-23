@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 17,
+  "chapter_title": "Volume I of The History of Philosophy. History of Greek Philosophy",
+  "chapter_slug": "17-volume-i-of-the-history-of-philosophy-history-of-g",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97df6911-7f27-51c1-bb94-67d4c02c78cd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4433,
+      "paragraph_count": 135,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/cons-lect/ch02.htm"
+    }
+  ]
+}

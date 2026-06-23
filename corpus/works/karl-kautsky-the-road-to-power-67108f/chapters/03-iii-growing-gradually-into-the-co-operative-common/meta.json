@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-road-to-power-67108f",
+  "work_title": "The Road to Power",
+  "chapter_number": 3,
+  "chapter_title": "III. Growing Gradually into the Co-operative Commonwealth",
+  "chapter_slug": "03-iii-growing-gradually-into-the-co-operative-common",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8701a69d-7826-5303-9d79-c09b6fbf2432",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2516,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1909/power/ch03.htm"
+    }
+  ]
+}

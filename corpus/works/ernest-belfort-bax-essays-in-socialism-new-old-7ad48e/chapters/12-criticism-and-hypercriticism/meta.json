@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
+  "work_title": "Essays in Socialism: New & Old",
+  "chapter_number": 12,
+  "chapter_title": "Criticism and Hypercriticism",
+  "chapter_slug": "12-criticism-and-hypercriticism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "62026da1-4bfa-5e23-b37a-ca05f4087b59",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4060,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1907/essays/11-criticism.htm"
+    }
+  ]
+}

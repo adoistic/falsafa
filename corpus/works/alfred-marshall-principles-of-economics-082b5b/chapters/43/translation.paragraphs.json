@@ -1,137 +1,247 @@
 [
   {
-    "id": "p-049815",
+    "id": "p-c62def",
     "offset": 0,
-    "text": "§ 1. In earlier chapters of this Book, and especially in chapter XII., we have considered gradual changes in the adjustment of demand and supply. But any great and lasting change in fashion; any substantive new invention; any diminution of population by war or pestilence; or the development or dwindling away of a source of supply of the commodity in question, or of a raw material used in it, or of another commodity which is a rival and possible substitute for it:—such a change as any of these may cause the prices set against any given annual (or daily) consumption and production of the commodity to cease to be its normal demand and supply prices for that volume of consumption and production; or, in other words, they may render it necessary to make out a new demand schedule or a new supply schedule, or both of them. We proceed to study the problems thus suggested."
+    "text": "§ 1. The keynote of this Book is in the fact that free human beings are not brought up to their work on the same principles as a machine, a horse, or a slave. If they were, there would be very little difference between the distribution and the exchange side of value; for every agent of production would reap a return adequate to cover its own expenses of production with wear-and-tear, etc.; at all events after allowance had been made for casual failures to adjust supply to demand. But as it is, our growing power over nature makes her yield an ever larger surplus above necessaries; and this is not absorbed by an unlimited increase of the population. There remain therefore the questions:—What are the general causes which govern the distribution of this surplus among the people? What part is played by conventional necessaries, i.e. the Standard of Comfort? What by the influence which methods of consumption and of living generally exert on efficiency; by wants and activities, i.e. by the Standard of Life? What by the many-sided action of the principle of substitution, and by the struggle for survival between hand-workers and brain-workers of different classes and grades? What by the power which the use of capital gives to those in whose hands it is? What share of the general flow is turned to remunerate those who work (including here the undertaking of ventures) and \"wait,\" as contrasted with those who work and consume at once the fruits of their endeavours? An attempt is made to give a broad answer to those and some similar questions."
   },
   {
-    "id": "p-86a13a",
-    "offset": 877,
-    "text": "An increase of normal demand for a commodity involves an increase in the price at which each several amount can find purchasers; or, which is the same thing, an increase of the quantity which can find purchasers at any price. This increase of demand may be caused by the commodity's coming more into fashion, by the opening out of a new use for it or of new markets for it, by the permanent falling off in the supply of some commodity for which it can be used as a substitute, by a permanent increase in the wealth and general purchasing power of the community, and so on. Changes in the opposite direction will cause a falling off in demand and a sinking of the demand prices. Similarly an increase of normal supply means an increase of the amounts that can be supplied at each several price, and a diminution of the price at which each separate amount can be supplied. This change may be caused by the opening up of a new source of supply, whether by improved means of transport or in any other way, by an advance in the arts of production, such as the invention of a new process or of new machinery, or again, by the granting of a bounty on production. Conversely, a diminution of normal supply (or a raising of the supply schedule) may be caused by the closing up of a new source of supply or by the imposition of a tax."
+    "id": "p-e48e22",
+    "offset": 1558,
+    "text": "We shall begin a preliminary survey of the subject by noting how French and English writers a century ago represented value as governed almost wholly by cost of production, demand taking a subordinate place. Next we shall observe how near to the truth these results would be in a stationary state; and what corrections need to be introduced in order to bring these results into harmony with the actual conditions of life and work: and thus the remainder of Chapter I. will be given mainly to the demand for labour."
   },
   {
-    "id": "p-d89880",
-    "offset": 2203,
-    "text": "§ 2. We have, then, to regard the effects of an increase of normal demand from three points of view, according as the commodity in question obeys the law of constant or of diminishing or of increasing return: that is, its supply price is practically constant for all amounts, or increases or diminishes with an increase in the amount produced."
+    "id": "p-0a5405",
+    "offset": 2074,
+    "text": "In Chapter II. we shall first consider its supply under modern conditions; and thence we shall turn to a general view of the causes which fix the broad lines of distribution of the national income between labour, and the owners of capital and land. In this rapid survey we shall pass by unnoticed many details: to fill in some of these is the task of the remainder of the Book; but others must stand over for a later Volume."
   },
   {
-    "id": "p-9ae3e8",
-    "offset": 2548,
-    "text": "In the first case an increase of demand simply increases the amount produced without altering its price; for the normal price of a commodity which obeys the law of constant return is determined absolutely by its expenses of production: demand has no influence in the matter beyond this, that the thing will not be produced at all unless there is some demand for it at this fixed price."
+    "id": "p-6aae2d",
+    "offset": 2500,
+    "text": "§ 2. The simplest account of the causes which determine the distribution of the national income is that given by the French economists who just preceded Adam Smith; and it is based upon the peculiar circumstances of France in the latter half of last century. The taxes, and other exactions levied from the French peasant, were then limited only by his ability to pay; and few of the labouring classes were far from starvation. So the Economists or Physiocrats, as they were called, assumed for the sake of simplicity, that there was a natural law of population according to which the wages of labour were kept at starvation limit. They did not suppose that this was true of the whole working population, but the exceptions were so few, that they thought that the general impression given by their assumption was true: somewhat in the same way as it is well to begin an account of the shape of the earth, by saying that it is an oblate spheroid, although a few mountains do project as much as a thousandth part of its radius beyond the general level."
   },
   {
-    "id": "p-0fc92b",
-    "offset": 2935,
-    "text": "If the commodity obeys the law of diminishing return an increase of demand for it raises its price and causes more of it to be produced; but not so much more as if it obeyed the law of constant return."
+    "id": "p-4d020d",
+    "offset": 3551,
+    "text": "Again, they knew that the rate of interest in Europe had fallen during the five preceding centuries, in consequence of the fact that \"economy had in general prevailed over luxury.\" But they were impressed very much by the sensitiveness of capital, and the quickness with which it evaded the oppressions of the tax-gatherer by retiring from his grasp; and they therefore concluded that there was no great violence in the supposition that if its profits were reduced below what they then were, capital would speedily be consumed or migrate. Accordingly they assumed, again for the sake of simplicity, that there was something like a natural, or necessary rate of profit, corresponding in some measure to the natural rate of wages; that if the current rate exceeded this necessary level, capital would grow rapidly, till it forced down the rate of profit to that level; and that, if the current rate went below that level, capital would shrink quickly, and the rate would be forced upwards again. They thought that, wages and profits being thus fixed by natural laws, the natural value of everything was governed simply as the sum of wages and profits required to remunerate the producers."
   },
   {
-    "id": "p-caf97e",
-    "offset": 3138,
-    "text": "On the other hand, if the commodity obeys the law of increasing return, an increase of demand causes much more of it to be produced,—more than if the commodity obeyed the law of constant return,—and at the same time lowers its price. If, for instance, a thousand things of a certain kind have been produced and sold weekly at a price of 10s., while the supply price for two thousand weekly would be only 9s., a small rate of increase in normal demand may gradually cause this to become the normal price; since we are considering periods long enough for the full normal action of the causes that determine supply to work itself out. The converse holds in each case should normal demand fall off instead of increasing."
+    "id": "p-25905d",
+    "offset": 4739,
+    "text": "Adam Smith worked out this conclusion more fully than the Physiocrats did; though it was left for Ricardo to make clear that the labour and capital needed for production must be estimated at the margin of cultivation, so as to avoid the element of rent. But Adam Smith saw also that labour and capital were not at the verge of starvation in England, as they were in France. In England the wages of a great part of the working classes were sufficient to allow much more than the mere necessaries of existence; and capital had too rich and safe a field of employment there to be likely to go out of existence, or to emigrate. So when he is carefully weighing his words, his use of the terms \"the natural rate of wages,\" and \"the natural rate of profit,\" has not that sharp definition and fixedness which it had in the mouths of the Physiocrats; and he goes a good way towards explaining how they are determined by the ever-fluctuating conditions of demand and supply. He even insists that the liberal reward of labour \"increases the industry of the common people\"; that \"a plentiful subsistence increases the bodily strength of the labourer; and the comfortable hope of bettering his condition, and of ending his days perhaps in ease and plenty, animates him to exert that strength to the utmost. Where wages are high, accordingly, we shall always find the workman more active, diligent and expeditious, than where they are low; in England, for example, than in Scotland; in the neighbourhood of great towns than in remote country places.\" And yet he sometimes falls back into the old way of speaking, and thus makes careless readers suppose that he believes the mean level of the wages of labour to be fixed by an iron law at the bare necessaries of life."
   },
   {
-    "id": "p-bbe20b",
-    "offset": 3856,
-    "text": "The argument of this section has been thought by some writers to lend support to the claim that a Protective duty on manufactured imports in general increases the home market for those imports; and, by calling into play the Law of Increasing Return, ultimately lowers their price to the home consumer. Such a result may indeed ultimately be reached by a wisely chosen system of \"Protection to nascent industries\" in a new country; where manufactures, like young children, have a power of rapid growth. But even there the policy is apt to be wrenched from its proper uses, to the enrichment of particular interests: for those industries which can send the greatest number of votes to the poll, are those which are already on so large a scale, that a further increase would bring very few new economies. And of course the industries in a country so long familiar with machinery as England is, have generally passed the stage at which they can derive much real help from such Protection: while Protection to any one industry nearly always tends to narrow the markets, especially the foreign markets, for other industries. These few remarks show that the question is complex: they do not pretend to reach further than that."
+    "id": "p-cfcca2",
+    "offset": 6495,
+    "text": "Malthus again, in his admirable survey of the course of wages in England from the thirteenth to the eighteenth centuries, shows how their mean level oscillated from century to century, falling sometimes down to about half a peck of corn a day, and rising sometimes up to a peck and a half or even, in the fifteenth century, to about two pecks. But although he observes that \"an inferior mode of living may be a cause as well as a consequence of poverty,\" he traces this effect almost exclusively to the consequent increase of numbers; he does not anticipate the stress which economists of our own generation lay on the influence which habits of living exercise on the efficiency, and therefore on the earning power of the labourer."
   },
   {
-    "id": "p-896b98",
-    "offset": 5077,
-    "text": "§ 3. We have seen that an increase in normal demand, while leading in every case to an increased production, will in some cases raise and in others lower prices. But now we are to see that increased facilities for supply (causing the supply schedule to be lowered) will always lower the normal price at the same time that it leads to an increase in the amount produced. For so long as the normal demand remains unchanged an increased supply can be sold only at a diminished price; but the fall of price consequent on a given increase of supply will be much greater in some cases than in others. It will be small if the commodity obeys the law of diminishing return; because then the difficulties attendant on an increased production will tend to counteract the new facilities of supply. On the other hand, if the commodity obeys the law of increasing return, the increased production will bring with it increased facilities, which will co-operate with those arising from the change in the general conditions of supply; and the two together will enable a great increase in production and consequent fall in price to be attained before the fall of the supply price is overtaken by the fall of the demand price. If it happens that the demand is very elastic, then a small increase in the facilities of normal supply, such as a new invention, a new application of machinery, the opening up of new and cheaper sources of supply, the taking off a tax or granting a bounty, may cause an enormous increase of production and fall of price."
+    "id": "p-a57e2d",
+    "offset": 7228,
+    "text": "Ricardo's language is even more unguarded than that of Adam Smith and Malthus. It is true, indeed, that he says distinctly :—\"It is not to be understood that the natural price of labour estimated in food and necessaries is absolutely fixed and constant ... It essentially depends on the habits and customs of the people.\" But, having said this once, he does not take the trouble to repeat it constantly; and most of his readers forget that he says it. In the course of his argument he frequently adopts a mode of speaking similar to that of Turgot and the Physiocrats; and seems to imply that the tendency of population to increase rapidly as soon as wages rise above the bare necessaries of life, causes wages to be fixed by \"a natural law\" to the level of these bare necessaries. This law has been called, especially in Germany, Ricardo's \"iron\" or \"brazen\" law: many German socialists believe that this law is in operation now even in the western world; and that it will continue to be so, as long as the plan on which production is organized remains \"capitalistic\" or \"individualistic\"; and they claim Ricardo as an authority on their side."
   },
   {
-    "id": "p-506f6b",
-    "offset": 6609,
-    "text": "If we take account of the circumstances of composite and joint supply and demand discussed in chapter VI., we have suggested to us an almost endless variety of problems which can be worked out by the methods adopted in these two chapters."
+    "id": "p-3ea0f4",
+    "offset": 8374,
+    "text": "In fact, however, Ricardo was not only aware that the necessary or natural limit of wages was fixed by no iron law, but is determined by the local conditions and habits of each place and time: he was further keenly sensitive to the importance of a higher \"standard of living,\" and called on the friends of humanity to exert themselves to encourage the growth of a resolve among the working classes not to allow their wages to fall anywhere near the bare necessaries of life."
   },
   {
-    "id": "p-ff986b",
-    "offset": 6849,
-    "text": "§ 4. We may now consider the effects which a change in the conditions of supply may exert on consumers' surplus or rent. For brevity of language a tax may be taken as representative of those changes which may cause a general increase, and a bounty as representative of those which may cause a general diminution in the normal supply price for each several amount of the commodity."
+    "id": "p-3ee670",
+    "offset": 8850,
+    "text": "The persistency with which many writers continue to attribute to him a belief in the \"iron law\" can be accounted for only by his delight \"in imagining strong cases,\" and his habit of not repeating a hint, which he had once given, that he was omitting for the sake of simplicity the conditions and limitations that were needed to make his results applicable to real life."
   },
   {
-    "id": "p-a80d5e",
-    "offset": 7231,
-    "text": "Firstly, if the commodity is one, the production of which obeys the law of constant return, so that the supply price is the same for all amounts of the commodity, consumers' surplus will be diminished by more than the increased payments to the producer; and therefore, in the special case of a tax, by more than the gross receipts of the State. For on that part of the consumption of the commodity, which is maintained, the consumer loses what the State receives: and on that part of the consumption which is destroyed by the rise in price, the consumers' surplus is destroyed; and of course there is no payment for it to the producer or to the State. Conversely, the gain of consumers' surplus caused by a bounty on a commodity that obeys the law of constant return, is less than the bounty itself. For on that part of the consumption which existed before the bounty, consumers' surplus is increased by just the amount of the bounty; while on the new consumption that is caused by the bounty, the gain of the consumers' surplus is less than the bounty."
+    "id": "p-914987",
+    "offset": 9222,
+    "text": "Mill did not make any great advance in the theory of wages beyond his predecessors, in spite of the care with which he set himself to emphasize the distinctly human element in economics. He, however, followed Malthus in dwelling on those lessons of history which show that, if a fall of wages caused the labouring classes to lower their standard of comfort \"the injury done to them will be permanent, and their deteriorated condition will become a new minimum tending to perpetuate itself as the more ample minimum did before."
   },
   {
-    "id": "p-000c21",
-    "offset": 8286,
-    "text": "If however the commodity obeys the law of diminishing return; a tax by raising its price, and diminishing its consumption, will lower its expenses of production other than the tax: and the result will be to raise the supply price by something less than the full amount of the tax. In this case the gross receipts from the tax may be greater than the resulting loss of consumers' surplus, and they will be greater if the law of diminishing return acts so sharply that a small diminution of consumption causes a great falling-off in the expenses of production other than the tax."
+    "id": "p-cb8edd",
+    "offset": 9750,
+    "text": "But it was only in the last generation that a careful study was begun to be made of the effects that high wages have in increasing the efficiency not only of those who receive them, but also of their children and grandchildren. In this matter the lead has been taken by Walker and other American economists; and the application of the comparative method of study to the industrial problems of different countries of the old and new worlds is forcing constantly more and more attention to the fact that highly paid labour is generally efficient and therefore not dear labour; a fact which, though it is more full of hope for the future of the human race than any other that is known to us, will be found to exercise a very complicating influence on the theory of distribution."
   },
   {
-    "id": "p-396b93",
-    "offset": 8865,
-    "text": "On the other hand, a bounty on a commodity which obeys the law of diminishing return will lead to increased production, and will extend the margin of cultivation to places and conditions in which the expenses of production, exclusive of the bounty, are greater than before. Thus it will lower the price to the consumer and increase consumers' surplus less than if it were given for the production of a commodity which obeyed the law of constant return. In that case the increase of consumers' surplus was seen to be less than the direct cost of the bounty to the State; and therefore in this case it is much less."
+    "id": "p-5d1f7a",
+    "offset": 10527,
+    "text": "It has now become certain that the problem of distribution is much more difficult than it was thought to be by earlier economists, and that no solution of it which claims to be simple can be true. Most of the old attempts to give an easy answer to it, were really answers to imaginary questions that might have arisen in other worlds than ours, in which the conditions of life were very simple. The work done in answering these questions was not wasted. For a very difficult problem can best be solved by being broken up into pieces: and each of these simple questions contained a part of the great and difficult problem which we have to solve. Let us profit by this experience and work our way by successive steps in the remainder of this chapter towards understanding the general causes which govern the demand for labour and capital in real life."
   },
   {
-    "id": "p-50ce2c",
-    "offset": 9480,
-    "text": "By similar reasoning it may be shown that a tax on a commodity which obeys the law of increasing return is more injurious to the consumer than if levied on one which obeys the law of constant return. For it lessens the demand and therefore the output. It thus probably increases the expenses of manufacture somewhat: sends up the price by more than the amount of the tax; and finally diminishes consumers' surplus by much more than the total payments which it brings in to the exchequer. On the other hand, a bounty on such a commodity causes so great a fall in its price to the consumer, that the consequent increase of consumers' surplus may exceed the total payments made by the State to the producers; and certainly will do so in case the law of increasing return acts at all sharply."
+    "id": "p-878876",
+    "offset": 11378,
+    "text": "§ 3. Let us begin by studying the influence of demand on the earnings of labour, drawn from an imaginary world in which everyone owns the capital that aids him in his labour; so that the problem of the relations of capital and labour do not arise in it. That is, let us suppose but little capital to be used; while everyone owns whatever capital he does use, and the gifts of nature are so abundant that they are free and unappropriated. Let us suppose, further, that everyone is not only of equal capacity, but of equal willingness to work, and does in fact work equally hard: also that all work is unskilled,—or rather unspecialized in this sense, that if any two people were to change occupations, each would do as much and as good work as the other had done. Lastly, let us suppose that everyone produces things ready for sale without the aid of others, and that he himself disposes of them to their ultimate consumers: so that the demand for everything is direct."
   },
   {
-    "id": "p-5cbae5",
-    "offset": 10270,
-    "text": "These results are suggestive of some principles of taxation which require careful attention in any study of financial policy; when it will be necessary to take account of the expenses of collecting a tax and of administering a bounty, and of the many indirect effects, some economic and some moral, which a tax or a bounty is likely to produce. But these partial results are well adapted for our immediate purpose of examining a little more closely than we have done hitherto the general doctrine that a position of (stable) equilibrium of demand and supply is a position also of maximum satisfaction: and there is one abstract and trenchant form of that doctrine which has had much vogue, especially since the time of Bastiat's Economic Harmonics, and which falls within the narrow range of the present discussion."
+    "id": "p-45e239",
+    "offset": 12348,
+    "text": "In this case the problem of value is very simple. Things exchange for one another in proportion to the labour spent in producing them. If the supply of any one thing runs short, it may for a little time sell for more than its normal price: it may exchange for things the production of which had required more labour than it had: but, if so, people will at once leave other work to produce it, and in a very short time its value will fall to the normal level. There may be slight temporary disturbances, but as a rule anyone's earnings will be equal to those of anyone else. In other words, each will have an equal share in the net sum total of things and services produced; or, as we may say, the national income or dividend; which will constitute the demand for labour."
   },
   {
-    "id": "p-4eebe5",
-    "offset": 11087,
-    "text": "§ 5. There is indeed one interpretation of the doctrine according to which every position of equilibrium of demand and supply may fairly be regarded as a position of maximum satisfaction. For it is true that so long as the demand price is in excess of the supply price, exchanges can be effected at prices which give a surplus of satisfaction to buyer or to seller or to both. The marginal utility of what he receives is greater than that of what he gives up, to at least one of the two parties; while the other, if he does not gain by the exchange, yet does not lose by it. So far then every step in the exchange increases the aggregate satisfaction of the two parties. But when equilibrium has been reached, demand price being now equal to supply price, there is no room for any such surplus: the marginal utility of what each receives no longer exceeds that of what he gives up in exchange: and when the production increases beyond the equilibrium amount, the demand price being now less than the supply price, no terms can be arranged which will be acceptable to the buyer, and will not involve a loss to the seller."
+    "id": "p-62dabf",
+    "offset": 13120,
+    "text": "If now a new invention doubles the efficiency of work in any trade, so that a man can make twice as many things of a certain kind in a year without requiring additional appliances, then those things will fall to half their old exchange value. The effective demand for everyone's labour will be a little increased, and the share which each can draw from the common earnings-stream will be a little larger than before. He may if he chooses take twice as many things of this particular kind, together with his old allowance of other things: or he may take somewhat more than before of everything. If there be an increase in the efficiency of production in many trades the common earnings-stream or dividend will be considerably larger; the commodities produced by those trades will constitute a considerably larger demand for those produced by others, and increase the purchasing power of everyone's earnings."
   },
   {
-    "id": "p-f4cd5b",
-    "offset": 12209,
-    "text": "It is true then that a position of equilibrium of demand and supply is a position of maximum satisfaction in this limited sense, that the aggregate satisfaction of the two parties concerned increases until that position is reached; and that any production beyond the equilibrium amount could not be permanently maintained so long as buyers and sellers acted freely as individuals, each in his own interest."
+    "id": "p-038b59",
+    "offset": 14028,
+    "text": "§ 4. Nor will the position be greatly changed if we suppose that some specialized skill is required in each trade, provided other things remain as before: that is, provided the workers are still supposed to be all of equal capacity and industry; and all trades to be equally agreeable and equally easy to be learnt. The normal rate of earnings will still be the same in all trades; for if a day's labour in one trade produces things that sell for more than a day's labour in others, and this inequality shows any signs of lasting, people will bring up their children by preference to the favoured trade. It is true that there may be some slight irregularities. The drifting from one trade to another must occupy time; and some trades may for a while get more than their normal share of the earnings-stream, while others get less, or even lack work. But in spite of these disturbances, the current value of everything will fluctuate about its normal value; which will in this case, as in the preceding, depend simply on the amount of labour spent on the thing: for the normal value of all kinds of labour will still be equal. The productive power of the community will have been increased by the division of labour; the common national dividend or earnings-stream will be larger; and as all will, putting aside passing disturbances, share alike in it, each will be able to buy with the fruits of his own labour things more serviceable to him than he could have produced for himself."
   },
   {
-    "id": "p-172a18",
-    "offset": 12617,
-    "text": "But occasionally it is stated, and very often it is implied, that a position of equilibrium of demand and supply is one of maximum aggregate satisfaction in the full sense of the term: that is, that an increase of production beyond the equilibrium level would directly (i.e. independently of the difficulties of arranging for it, and of any indirect evils it might cause) diminish the aggregate satisfaction of both parties. The doctrine so interpreted is not universally true."
+    "id": "p-d0b563",
+    "offset": 15511,
+    "text": "In this stage, as in those considered before, it is still true that the value of each thing corresponds closely to the amount of labour spent upon it; and that the earnings of everyone are governed simply by the bounty of nature and by the progress of the arts of production."
   },
   {
-    "id": "p-ac4108",
-    "offset": 13096,
-    "text": "In the first place it assumes that all differences in wealth between the different parties concerned may be neglected, and that the satisfaction which is rated at a shilling by any one of them, may be taken as equal to one that is rated at a shilling by any other. Now it is obvious that, if the producers were as a class very much poorer than the consumers, the aggregate satisfaction might be increased by a stinting of supply when it would cause a great rise in demand price (i.e. when the demand is inelastic); and that if the consumers were as a class much poorer than the producers, the aggregate satisfaction might be increased by extending the production beyond the equilibrium amount and selling the commodity at a loss."
+    "id": "p-cb63b8",
+    "offset": 15788,
+    "text": "§ 5. Next, let us still neglect the influence which the liberality of the expenditure on rearing and training workers exerts on their efficiency, leaving that matter to be discussed with other aspects of the supply side of distribution in the next chapter: and let us look at the influence that changes in the numbers of the population exert on the incomes which nature will yield. We suppose then that the growth of population proceeds at a rate, which is either fixed; or, at all events, not affected by the rate of wages: it may be influenced by changes in custom, in moral opinion and in medical knowledge. And we still suppose all labour to be of the same grade, and the national dividend to be divided out equally to each family, save for some slight passing inequalities. In this case every improvement in the arts of production or transport, every new discovery, every new victory over nature will increase equally the comforts and luxuries at the command of each family."
   },
   {
-    "id": "p-2990f6",
-    "offset": 13827,
-    "text": "This point however may well be left for future consideration. It is in fact only a special case of the broad proposition that the aggregate satisfaction can primâ facie be increased by the distribution, whether voluntarily or compulsorily, of some of the property of the rich among the poor; and it is reasonable that the bearings of this proposition should be set aside during the first stages of an inquiry into existing economic conditions. This assumption therefore may be properly made, provided only it is not allowed to slip out of sight."
+    "id": "p-fb7496",
+    "offset": 16769,
+    "text": "But this case differs from the last; because in this case, the increase of population, if maintained long enough, must ultimately outgrow the improvements in the arts of production, and cause the law of diminishing return to assert itself in agriculture. That is to say, those who work on the land will get less wheat and other produce in return for their labour and capital. An hour's labour will represent a less quantity of wheat than before throughout the agricultural trades, and therefore throughout all other trades; since all labour is supposed to be of the same grade, and earnings are therefore as a rule equal in all trades."
   },
   {
-    "id": "p-756a95",
-    "offset": 14374,
-    "text": "But in the second place the doctrine of maximum satisfaction assumes that every fall in the price which producers receive for the commodity, involves a corresponding loss to them; and this is not true of a fall in price which results from improvements in industrial organization. When a commodity obeys the law of increasing return, an increase in its production beyond equilibrium point may cause the supply price to fall much; and though the demand price for the increased amount may be reduced even more, so that the production would result in some loss to the producers, yet this loss may be very much less than that money value of the gain to purchasers which is represented by the increase of consumers' surplus."
+    "id": "p-73b1be",
+    "offset": 17406,
+    "text": "Further we must note that the surplus or rental value of land will tend to rise. For the value of any kind of produce must equal that of the labour, aided on our supposition by a uniform quantity of capital throughout, which is required to produce it, whether on good land or bad, under barely remunerative, or marginal conditions. More labour and capital than before will be needed to raise a quarter of wheat, etc., on the margin; and therefore the wheat, etc., which is returned by nature to the labour applied under advantageous circumstances, will have a higher value relatively to that labour and capital than before: or, in other words, it will yield a larger surplus value over that of the labour and capital used in raising it."
   },
   {
-    "id": "p-da9adb",
-    "offset": 15094,
-    "text": "In the case then of commodities with regard to which the law of increasing return acts at all sharply, or in other words, for which the normal supply price diminishes rapidly as the amount produced increases, the direct expense of a bounty sufficient to call forth a greatly increased supply at a much lower price, would be much less than the consequent increase of consumers' surplus. And if a general agreement could be obtained among consumers, terms might be arranged which would make such action amply remunerative to the producers, at the same time that they left a large balance of advantage to the consumers."
+    "id": "p-5b10ff",
+    "offset": 18144,
+    "text": "§ 6. Let us now drop the supposition that labour is so mobile as to ensure equal remuneration for equal efforts, throughout the whole of society, and let us approach much nearer to the actual condition of life by supposing that labour is not all of one industrial grade, but of several. Let us suppose that parents always bring up their children to an occupation in their own grade; that they have a free choice within that grade, but not outside it. Lastly, let us suppose that the increase of numbers in each grade is governed by other than economic causes: as before it may be fixed, or it may be influenced by changes in custom, in moral opinion, etc. In this case also the aggregate national dividend will be governed by the abundance of nature's return to man's work in the existing state of the arts of production; but the distribution of that dividend between the different grades will be unequal. It will be governed by the demand of the people themselves. The share of those in any industrial compartment will be the higher, the more extensive and urgent the needs which they are able to satisfy on the part of those who are themselves drawing large shares of the national income."
   },
   {
-    "id": "p-ac339c",
-    "offset": 15712,
-    "text": "§ 6. One simple plan would be the levying of a tax by the community on their own incomes, or on the production of goods which obey the law of diminishing return, and devoting the tax to a bounty on the production of those goods with regard to which the law of increasing return acts sharply. But before deciding on such a course they would have to take account of considerations, which are not within the scope of the general theory now before us, but are yet of great practical importance. They would have to reckon up the direct and indirect costs of collecting a tax and administering a bounty; the difficulty of securing that the burdens of the tax and the benefits of the bounty were equitably distributed; the openings for fraud and corruption; and the danger that in the trade which had got a bounty and in other trades which hoped to get one, people would divert their energies from managing their own businesses to managing those persons who control the bounties."
+    "id": "p-e63946",
+    "offset": 19336,
+    "text": "Suppose, for instance, artists to form a grade or caste or industrial compartment by themselves; then, their number being fixed, or at least controlled by causes independent of their earnings, their earnings will be governed by the resources and the eagerness of those classes of the population who care for such gratifications as artists can furnish."
   },
   {
-    "id": "p-c7b054",
-    "offset": 16686,
-    "text": "Besides these semi-ethical questions there will arise others of a strictly economic nature, relating to the effects which any particular tax or bounty may exert on the interests of landlords, urban or agricultural, who own land adapted for the production of the commodity in question. These are questions which must not be overlooked; but they differ so much in their detail that they cannot fitly be discussed here."
+    "id": "p-350d62",
+    "offset": 19689,
+    "text": "§ 7. We may now leave the imaginary world, in which everyone owns the capital that aids him in his work; and return to our own, where the relations of labour and capital play a great part in the problem of distribution. But let us still confine our attention to the distribution of the national dividend among the various agents of production, in accordance with the quantity of each agent, and the services which it renders; and leave the reflex influence which the remuneration of each agent exerts on the supply of that agent, to be considered in the next chapter."
   },
   {
-    "id": "p-c2baa6",
-    "offset": 17104,
-    "text": "§ 7. Enough has been said to indicate the character of the second great limitation which has to be introduced into the doctrine that the maximum satisfaction is generally to be attained by encouraging each individual to spend his own resources in that way which suits him best. It is clear that if he spends his income in such a way as to increase the demand for the services of the poor and to increase their incomes, he adds something more to the total happiness than if he adds an equal amount to the incomes of the rich, because the happiness which an additional shilling brings to a poor man is much greater than that which it brings to a rich one; and that he does good by buying things the production of which raises, in preference to things the production of which lowers the character of those who make them. But further, even if we assume that a shilling's worth of happiness is of equal importance to whomsoever it comes, and that every shilling's worth of consumers' surplus is of equal importance from whatever commodity it is derived, we have to admit that the manner in which a person spends his income is a matter of direct economic concern to the community. For in so far as he spends it on things which obey the law of diminishing return, he makes those things more difficult to be obtained by his neighbours, and thus lowers the real purchasing power of their incomes; while in so far as he spends it on things which obey the law of increasing return, he makes those things more easy of attainment to others, and thus increases the real purchasing power of their incomes."
+    "id": "p-5a3a83",
+    "offset": 20258,
+    "text": "We have seen how the alert business man is ever seeking for the most profitable application of his resources, and endeavouring to make use of each several agent of production up to that margin, or limit, at which he would gain by transferring a small part of his expenditure to some other agent; and how he is thus, so far as his influence goes, the medium through which the principle of substitution so adjusts the employment of each agent that, in its marginal application, its cost is proportionate to the additional net product resulting from its use. We have to apply this general reasoning to the case of the hire of labour."
   },
   {
-    "id": "p-cac3b5",
-    "offset": 18696,
-    "text": "Again, it is commonly argued that an equal ad valorem tax levied on all economic commodities (material and immaterial), or which is the same thing a tax on expenditure, is primâ facie the best tax; because it does not divert the expenditure of individuals out of its natural channels: we have now seen that this argument is invalid. But ignoring for the time the fact that the direct economic effect of a tax or a bounty never constitutes the whole, and very often not even the chief part of the considerations which have to be weighed before deciding to adopt it, we have found:—firstly, that a tax on expenditure generally causes a greater destruction of consumers' surplus than one levied exclusively on commodities as to which there is but little room for the economies of production on a large scale, and which obey the law of diminishing return; and secondly, that it might even be for the advantage of the community that the government should levy taxes on commodities which obey the law of diminishing return, and devote part of the proceeds to bounties on commodities which obey the law of increasing return."
+    "id": "p-f188a5",
+    "offset": 20890,
+    "text": "A question constantly in the mind of the careful business man is whether he has the right number of men for his work. In some cases that is settled for him by his plant: there must be one and only one engine driver on each express locomotive. But some express trains have only one guard; and when the traffic is heavy they may lose a few minutes which could be saved by a second guard: therefore an alert manager is constantly weighing the net product in saving of time and of annoyance to passengers, that will accrue from the aid of a second guard on an important train, and considering whether it will be worth its cost. This question is similar in kind to, but simpler in form than, the question whether \"it would pay\" to put an additional train on the time-table, which would call for more expenditure on plant as well as on labour."
   },
   {
-    "id": "p-d243fc",
-    "offset": 19815,
-    "text": "These conclusions, it will be observed, do not by themselves afford a valid ground for government interference. But they show that much remains to be done, by a careful collection of the statistics of demand and supply, and a scientific interpretation of their results, in order to discover what are the limits of the work that society can with advantage do towards turning the economic actions of individuals into those channels in which they will add the most to the sum total of happiness."
+    "id": "p-6303ac",
+    "offset": 21729,
+    "text": "Again one sometimes hears it said that a certain farmer starves his land for labour. Perhaps he has enough horses and plant; but \"if he took on another man, he would get his money back, and a good deal more\": that is, the net product of an additional man would more than cover his wages. Let us suppose that a farmer is raising such a question as to the number of his shepherds. For simplicity, we may suppose that an additional man would not require any further expenditure on plant or stock: that he would save the farmer himself just as much trouble in some ways as he gives in others; so that nothing has to be allowed for earnings of management (even when these are interpreted broadly so as to include insurance against risk, etc.): and lastly that the farmer reckons that he would do just so much in preventing the wastage of lambs, and in other ways as will increase by twenty his annual output of sheep in good condition. That is to say, he reckons that the net product of an additional man will be twenty sheep. If he can be got for much less than the equivalent of their price, the alert farmer will certainly hire him; but, if only for about that price, the farmer will be on the margin of doubt; and the man may then be called a marginal shepherd, because his employment is marginal."
+  },
+  {
+    "id": "p-fbf53f",
+    "offset": 23027,
+    "text": "It is best to assume throughout that the man is of normal efficiency. He would indeed be the marginal shepherd even if he were of exceptional efficiency, provided only that his net produce were equal to his wages: the farmer might have reckoned that a shepherd of normal efficiency would have added only sixteen sheep to output; and therefore have been willing to hire this man at a quarter more than the ordinary wages. But to assume him to be thus exceptional would be most inexpedient. He should be representative: that is, of normal efficiency."
+  },
+  {
+    "id": "p-dfd876",
+    "offset": 23577,
+    "text": "If he is representative, and his employer is representative, the twenty sheep will represent the net product and therefore the earning power of a shepherd. But if the employer is a bad manager, if for instance he lets his men run short of necessaries for the sheep, the man may save only fifteen sheep instead of twenty. Net product tends to represent normal wages only if the worker and his conditions of employment are both normal."
+  },
+  {
+    "id": "p-555fab",
+    "offset": 24012,
+    "text": "The additional product to be got by this shepherd's labour is largely influenced by the number of shepherds whom the farmer already employs. And this again is governed by general conditions of demand and supply, and especially by the number of those from whom the ranks of shepherds could have been recruited during the current generation; by the demand for mutton and wool and by the area from which supplies of them can be obtained; by the effectiveness of the shepherds on all other farms; and so on. And the amount of the marginal product is further largely influenced by the competition of other uses for land: the space available for sheep-farming is curtailed by the demand for land for growing timber or oats, preserving deer, etc."
+  },
+  {
+    "id": "p-86fdcb",
+    "offset": 24753,
+    "text": "This illustration has been chosen from a simple industry; but, though the form may be different, the substance of the problem is the same in every industry. Subject to conditions which are indicated in the footnote, but are not important for our main purpose, the wages of every class of labour tend to be equal to the net product due to the additional labour of the marginal labourer of that class."
+  },
+  {
+    "id": "p-a5982d",
+    "offset": 25154,
+    "text": "This doctrine has sometimes been put forward as a theory of wages. But there is no valid ground for any such pretension. The doctrine that the earnings of a worker tend to be equal to the net product of his work, has by itself no real meaning; since in order to estimate net product, we have to take for granted all the expenses of production of the commodity on which he works, other than his own wages."
+  },
+  {
+    "id": "p-9f7bcf",
+    "offset": 25560,
+    "text": "But though this objection is valid against a claim that it contains a theory of wages; it is not valid against a claim that the doctrine throws into clear light the action of one of the causes that govern wages."
+  },
+  {
+    "id": "p-926d74",
+    "offset": 25773,
+    "text": "§ 8. In later chapters we shall need to take other illustrations for special purposes of the principle illustrated in the last section from the case of manual labour; and in particular to show how the value of some parts of the work of business management can be measured, when it is found that the effective output of a business is increased as much by some additional superintendence, as it would be by the hire of an additional ordinary worker. Again, the earnings of a machine can sometimes be estimated by the addition to the output of a factory which it might effect in certain cases without involving any incidental extra expense."
+  },
+  {
+    "id": "p-42e2a3",
+    "offset": 26412,
+    "text": "Generalizing from the work of a particular machine to that of machinery of a given aggregate value, we may suppose that in a certain factory an extra £100 worth of machinery can be applied so as not to involve any other extra expense, and so as to add annually £4 worth to the net output of the factory, after allowing for its own wear-and-tear. If the investors of capital push it into every occupation in which it seems likely to gain a high reward; and if, after this has been done and equilibrium has been found, it still pays and only just pays to employ this machinery, we can infer from this fact that the yearly rate of interest is 4 per cent. But illustrations of this kind merely indicate part of the action of the great causes which govern value. They cannot be made into a theory of interest, any more than into a theory of wages, without reasoning in a circle."
+  },
+  {
+    "id": "p-c82017",
+    "offset": 27287,
+    "text": "It may however be well to carry a little further our illustration of the nature of the demand for capital for any use; and to observe the way in which the aggregate demand for it is made up of the demands for many different uses."
+  },
+  {
+    "id": "p-7dd689",
+    "offset": 27518,
+    "text": "To fix the ideas, let us take some particular trade, say that of hat-making, and inquire what determines the amount of capital which it absorbs. Suppose that the rate of interest is 4 per cent. per annum on perfectly good security; and that the hat-making trade absorbs a capital of one million pounds. This implies that the hat-making trade can turn the whole million pounds' worth of capital to so good account that they would pay 4 per cent. per annum net for the use of it rather than go without any of it."
+  },
+  {
+    "id": "p-b2192a",
+    "offset": 28030,
+    "text": "Some things are necessary to them; they must have not only some food, clothing, and house room, but also some circulating capital, such as raw material, and some fixed capital, such as tools and perhaps a little machinery. And though competition prevents anything more than the ordinary trade profit being got by the use of this necessary capital; yet the loss of it would be so injurious that those in the trade would have been willing to pay 50 per cent. on it, if they could not have got the use of it on easier terms. There may be other machinery which the trade would have refused to dispense with if the rate of interest had been 20 per cent. per annum, but not if it had been higher. If the rate had been 10 per cent., still more would have been used; if it had been 6 per cent., still more; if 5 per cent., still more; and finally the rate being 4 per cent. they use more still. When they have this amount, the marginal utility of the machinery, i.e. the utility of that machinery which it is only just worth their while to employ, is measured by 4 per cent."
+  },
+  {
+    "id": "p-acf887",
+    "offset": 29098,
+    "text": "A rise in the rate of interest would diminish their use of machinery; for they would avoid the use of all that did not give a net annual surplus of more than 4 per cent. on its value. And a fall in the rate of interest would lead them to demand the aid of more capital, and to introduce machinery which gave a net annual surplus of something less than 4 per cent. on its value. Again, the lower the rate of interest, the more substantial will be the style of building used for the hat-making factories and the homes of the hat-makers; and a fall in the rate of interest will lead to the employment of more capital in the hat-making trade in the form of larger stocks of raw material, and of the finished commodity in the hands of retail dealers."
+  },
+  {
+    "id": "p-1bb53a",
+    "offset": 29845,
+    "text": "The methods in which capital will be applied may vary much even within the same trade. Each undertaker having regard to his own means, will push the investment of capital in his business in each several direction until what appears in his judgment to be the margin of profitableness is reached; and that margin is, as we have said, a boundary line cutting one after another every possible line of investment, and moving irregularly outwards in all directions whenever there is a fall in the rate of interest at which extra capital can be obtained. Thus the demand for the loan of capital is the aggregate of the demands of all individuals in all trades; and it obeys a law similar to that which holds for the sale of commodities: just as there is a certain amount of a commodity which can find purchasers at any given price. When the price rises the amount that can be sold diminishes, and so it is with regard to the use of capital."
+  },
+  {
+    "id": "p-a22799",
+    "offset": 30780,
+    "text": "And as with borrowings for productive purposes, so with those of spendthrifts or governments who mortgage their future resources in order to obtain the means of immediate expenditure. It is true that their actions are often but little governed by cool calculation, and that they frequently decide how much they want to borrow with but little reference to the price they will have to pay for the loan; but still the rate of interest exercises a perceptible influence on borrowings even of this kind."
+  },
+  {
+    "id": "p-dfaebc",
+    "offset": 31280,
+    "text": "§ 9. To sum up the whole in a comprehensive, if difficult, statement:—Every agent of production, land, machinery, skilled labour, unskilled labour, etc., tends to be applied in production as far as it profitably can be. If employers, and other business men, think that they can get a better result by using a little more of any one agent they will do so. They estimate the net product (that is the net increase of the money value of their total output after allowing for incidental expenses) that will be got by a little more outlay in this direction, or a little more outlay in that; and if they can gain by shifting a little of their outlay from one direction to another, they will do so."
+  },
+  {
+    "id": "p-56251c",
+    "offset": 31972,
+    "text": "Thus then the uses of each agent of production are governed by the general conditions of demand in relation to supply: that is, on the one hand, by the urgency of all the uses to which the agent can be put, taken together with the means at the command of those who need it; and, on the other hand, by the available stocks of it. And equality is maintained between its values for each use by the constant tendency to shift it from uses, in which its services are of less value to others in which they are of greater value, in accordance with the principle of substitution."
+  },
+  {
+    "id": "p-0b4c0d",
+    "offset": 32545,
+    "text": "If less use is made of unskilled labour or any agent, the reason will be that at some point at which people were on the margin of doubt whether it was worth while to use that agent, they have decided that it is not worth their while. That is what is meant by saying that we must watch the marginal uses, and the marginal efficiency of each agent. We must do so, simply because it is only at the margin that any of those shiftings can occur by which changed relations of supply and demand manifest themselves."
+  },
+  {
+    "id": "p-bf86cf",
+    "offset": 33055,
+    "text": "If we neglected differences between the grades of labour, and regarded all labour as of one kind, or at least as all expressed in terms of a certain kind of labour of standard efficiency, we might look for the margin of indifference between the direct application of labour and that of material capital; and we might say shortly, to quote von Thünen's words, that \"the efficiency of capital must be the measure of its earnings, since if the labour of capital were cheaper than that of men, the undertaker would dismiss some of his workmen, and in the opposite case he would increase their number.\""
+  },
+  {
+    "id": "p-448f57",
+    "offset": 33654,
+    "text": "But, of course, the increased competition of capital in general for employment is of a different character from the competition of machinery for employment in any single trade. The latter may push a particular kind of labour out of employment altogether; the former cannot displace labour in general, for it must cause an increased employment of the makers of those things which are used as capital. And in fact, the substitution of capital for labour is really the substitution of labour, combined with much waiting, in the place of other forms of labour combined with little waiting."
+  },
+  {
+    "id": "p-f70082",
+    "offset": 34241,
+    "text": "§ 10. When we speak of the national dividend, or distributable net income of the whole nation, as divided into the shares of land, labour and capital, we must be clear as to what things we are including, and what things we are excluding. It will seldom make very much difference to our argument whether we use all the terms broadly, or all the terms narrowly. But it is essential that our usage should be consistent throughout any one argument; and that, whatever is included on one side of the account of the demand for, and supply of, land, labour, and capital, should be included also on the other."
+  },
+  {
+    "id": "p-21975b",
+    "offset": 34844,
+    "text": "The labour and capital of the country, acting on its natural resources, produce annually a certain net aggregate of commodities, material and immaterial, including services of all kinds. The limiting word \"net\" is needed to provide for the using up of raw and half-finished commodities, and for the wearing out and depreciation of plant which is involved in production: all such waste must of course be deducted from the gross produce before the true or net income can be found. And net income due on account of foreign investments must be added in. (See above II. IV. 6.) This is the true net annual income, or revenue, of the country; or, the national dividend: we may, of course, estimate it for a year or for any other period. The terms National Income and National Dividend are convertible; only the latter is the more significant when we are looking at the national income in the character of the sum of the new sources of enjoyments that are available for distribution. But it is best here to follow the common practice, and not count as part of the national income or dividend anything that is not commonly counted as part of the income of the individual. Thus, unless anything is said to the contrary, the services which a person renders to himself, and those which he renders gratuitously to members of his family or friends; the benefits which he derives from using his own personal goods, or public property such as toll-free bridges, are not reckoned as parts of the national dividend, but are left to be accounted for separately."
+  },
+  {
+    "id": "p-9d3813",
+    "offset": 36389,
+    "text": "Some part of production goes to increase the stock of raw material, machinery, etc., and does not merely replace material that has been used up, or machinery that has been worn out: and this part of the national income or dividend does not pass direct into personal consumption. But it does pass into consumption in the broad sense of the term which is commonly used by, say, a manufacturer of printing machines, when some of his stock is sold to printers. And in this broad sense it is true that all production is for consumption; that the national dividend is convertible with the aggregate of net production, and also with the aggregate of consumption. Under ordinary conditions of industry, production and consumption move together: there is no consumption except that for which the way has been prepared by appropriate production: and all production is followed by the consumption for which it was designed. There may indeed be some miscalculation in particular branches of production; and a collapse of commercial credit may fill nearly all warehouses for a time with unsold goods. But such conditions are exceptional and are not within our present view. (See below V. XIII. 10; and Appendix J, 3.)"
   }
 ]

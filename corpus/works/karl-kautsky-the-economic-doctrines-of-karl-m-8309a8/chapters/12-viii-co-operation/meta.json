@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-economic-doctrines-of-karl-m-8309a8",
+  "work_title": "The Economic Doctrines of Karl Marx",
+  "chapter_number": 12,
+  "chapter_title": "VIII. Co-operation",
+  "chapter_slug": "12-viii-co-operation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5ee369b8-de2c-542a-b14f-e42cf402623f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2156,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1903/economic/ch11.htm"
+    }
+  ]
+}

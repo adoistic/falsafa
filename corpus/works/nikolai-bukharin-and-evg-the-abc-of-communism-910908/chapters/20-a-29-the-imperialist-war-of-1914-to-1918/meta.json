@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 20,
+  "chapter_title": "Â§ 29 The imperialist war of 1914 to 1918",
+  "chapter_slug": "20-a-29-the-imperialist-war-of-1914-to-1918",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a7547d74-80cb-5d1d-8ea2-0b1d681cd67b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1343,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/04.htm"
+    }
+  ]
+}

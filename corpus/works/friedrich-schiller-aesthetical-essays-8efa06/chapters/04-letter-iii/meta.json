@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-schiller-aesthetical-essays-8efa06",
+  "work_title": "Aesthetical Essays",
+  "chapter_number": 4,
+  "chapter_title": "Letter III",
+  "chapter_slug": "04-letter-iii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5831a92f-ea79-5163-b5ca-343ac1115a78",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 971,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6798"
+    }
+  ]
+}

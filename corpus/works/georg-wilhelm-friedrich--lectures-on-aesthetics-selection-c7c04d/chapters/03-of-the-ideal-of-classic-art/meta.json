@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-aesthetics-selection-c7c04d",
+  "work_title": "Lectures on Aesthetics (Selections)",
+  "chapter_number": 3,
+  "chapter_title": "Of the Ideal of Classic Art",
+  "chapter_slug": "03-of-the-ideal-of-classic-art",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "48c337bd-d60c-5261-91d6-e0886b8edf29",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2808,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/ae/ch02.htm"
+    }
+  ]
+}

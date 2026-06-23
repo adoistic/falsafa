@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 39,
+  "chapter_title": "â§ 60. Antisemitism and the proletariat",
+  "chapter_slug": "39-a-60-antisemitism-and-the-proletariat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2f084072-0f30-57ee-96c7-b9c4f703789c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 429,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/07.htm"
+    }
+  ]
+}

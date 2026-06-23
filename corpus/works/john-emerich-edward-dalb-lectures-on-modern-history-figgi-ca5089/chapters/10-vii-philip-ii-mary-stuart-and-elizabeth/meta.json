@@ -2,7 +2,7 @@
   "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
   "work_title": "Lectures on Modern History (Figgis ed.)",
   "chapter_number": 10,
-  "chapter_title": "VII: PHILIP II., MARY STUART, AND ELIZABETH",
+  "chapter_title": "VII: Philip II., Mary Stuart, and Elizabeth",
   "chapter_slug": "10-vii-philip-ii-mary-stuart-and-elizabeth",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3857,
+      "word_count": 3821,
       "paragraph_count": 24,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-more-utopia-e4b41c",
+  "work_title": "Utopia",
+  "chapter_number": 5,
+  "chapter_title": "Discourses of Raphael Hythloday, of the Best State of a Commonwealth",
+  "chapter_slug": "05-discourses-of-raphael-hythloday-of-the-best-state-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "314eabaa-eb15-59ab-8a34-fd7c0caabca8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8049,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/more/works/utopia/ch2a.html"
+    }
+  ]
+}

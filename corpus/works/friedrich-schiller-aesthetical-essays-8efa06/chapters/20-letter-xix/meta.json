@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-schiller-aesthetical-essays-8efa06",
+  "work_title": "Aesthetical Essays",
+  "chapter_number": 20,
+  "chapter_title": "Letter XIX",
+  "chapter_slug": "20-letter-xix",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "53ccd6c0-88ba-5bc5-a60d-56364489fa0f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1761,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6798"
+    }
+  ]
+}

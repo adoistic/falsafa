@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hodgskin-labour-defended-against-the-clai-3f3203",
+  "work_title": "Labour Defended against the Claims of Capital",
+  "chapter_number": 1,
+  "chapter_title": "Labour Defended against the Claims of Capital",
+  "chapter_slug": "01-labour-defended-against-the-claims-of-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "753e6d76-173b-5102-8016-b985b0ed0e93",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 16702,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/hodgskin/labour-defended.htm"
+    }
+  ]
+}

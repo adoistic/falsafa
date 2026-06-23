@@ -1,0 +1,20 @@
+---
+work_id: "32299d14-2ed9-5fdb-b91c-549a6a447dd1"
+work_slug: "dio-chrysostom-orations-32299d"
+work_title: Orations
+author_name: Dio Chrysostom
+chapter_number: 59
+chapter_title: Oration 76
+chapter_slug: "59-oration-76"
+variant_id: "ebe5055b-a4a1-525a-ab9f-5d5d824ba80c"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 602
+translator: thothica
+---
+
+1. Custom is the common judgment of those who practise it, an unwritten law of a nation or a city, a justice that is voluntary, pleasing all alike, the discovery of no man, but of life and of time. Of the other laws, then, each, once approved, received its strength; but custom is forever being approved. And no law will easily be accepted by all, for it is ratified by the opinions of the majority; but a custom could not have come into being unless accepted by all. And the law, by threatening and using force, remains master; but the customs we obey, judging them both honourable and advantageous. 2. Wherefore one might, it seems to me, liken the written law to the power of tyranny; for it accomplishes each thing by fear and with a command; but custom rather to the humanity of kingship; for all follow it willingly and apart from compulsion. And we know that many laws have been abolished by those who laid them down, as being base; but no one could easily point to a custom dissolved. And indeed it is altogether easier to do away with whichever of the written laws you please than of the customs. For the former, once you erase them, are dissolved in a single day; 3. but the established usage of a city it is not possible to dissolve in even a very long time. And the laws are kept on tablets or pillars, but each of the customs in our own souls; and such keeping is the safer and the better. And further, the written law is austere and harsh, but nothing is sweeter than custom. Then, we inquire about the laws from others, but the customs we all know. 4. And of the laws some are not written clearly, and they are often distorted by the power of the orators; but of the customs nothing is ambiguous nor crooked, nor could any argument get the better of them. And the laws we must ever remember, if we are to abide by them; but custom it is not possible, even should we wish it, to forget; for it has such a nature as forever to remind us of itself. And, on the whole, one might say that the laws make a polity of slaves, but the customs, on the contrary, of free men. For the former impose punishments upon the body; but when a custom is transgressed, it has come about that the penalty is shame. So that the one is a law of the base, the other of the good. For if all men were good, it is plain that we should have no need of the written laws. And further, the kings are above the laws and do many things contrary to them, but the customs even they follow. 5. And of the written laws none has force in wars, but the customs are kept among all, even should they come to the extreme of enmity. The custom, at any rate, of not preventing the burial of the dead is nowhere written; for how could the victors obey the commands of the vanquished? But it is custom that makes the departed obtain this humanity. Likewise, the keeping of hands off heralds, and that to these alone there is great safety as they go. Now of those who transgress the laws no one could, I think, point to anyone manifestly punished by the gods; but the Lacedaemonians, when they transgressed the custom of heralds, having killed those who came from the king, were punished by the divine power itself.

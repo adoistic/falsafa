@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 118,
+  "chapter_title": "Chapter XV.: Of Baptism, Sections. (3)",
+  "chapter_slug": "118",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a750861-ea03-5ae7-ad3a-3890ab0e9c97",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 28296,
+      "paragraph_count": 100,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

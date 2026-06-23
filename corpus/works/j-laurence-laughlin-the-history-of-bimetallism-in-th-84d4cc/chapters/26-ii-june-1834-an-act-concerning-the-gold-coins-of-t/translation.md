@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 26
-chapter_title: II. JUNE, 1834.—An Act concerning the gold coins of the United States, and for other purposes.
+chapter_title: II. June, 1834.—An Act concerning the gold coins of the United States, and for other purposes.
 chapter_slug: "26-ii-june-1834-an-act-concerning-the-gold-coins-of-t"
 variant_id: "0bcd17f9-26cf-586e-abf0-b62eca1a18d4"
 content_type: translation

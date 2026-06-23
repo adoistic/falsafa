@@ -2,7 +2,7 @@
   "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
   "work_title": "An Essay on Crimes and Punishments",
   "chapter_number": 56,
-  "chapter_title": "CHAPTER VII.: ON THE CRIME OF PREACHING; AND OF ANTHONY.",
+  "chapter_title": "Chapter VIII.: The History of Simon Morin.",
   "chapter_slug": "56",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 724,
-      "paragraph_count": 8,
+      "word_count": 515,
+      "paragraph_count": 7,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
     }

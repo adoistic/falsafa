@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-bernard-shaw-the-perfect-wagnerite-a-commenta-7cd750",
+  "work_title": "The Perfect Wagnerite: A Commentary on the Niblung's Ring",
+  "chapter_number": 37,
+  "chapter_title": "The Characterization",
+  "chapter_slug": "37-the-characterization",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "034e91f1-8b6f-570a-aa68-dd921d6f186e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1257,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/shaw/works/wagner.htm"
+    }
+  ]
+}

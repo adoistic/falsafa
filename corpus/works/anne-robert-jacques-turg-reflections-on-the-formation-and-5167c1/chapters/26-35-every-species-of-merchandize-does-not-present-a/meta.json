@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 26,
+  "chapter_title": "35. Every species of merchandize does not present a scale equally commodious. It is proper to prefer the use of such as ",
+  "chapter_slug": "26-35-every-species-of-merchandize-does-not-present-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "45664b5c-72d2-5eff-99c1-3e5034e806f7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 204,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "henry-george-progress-and-poverty-edf98e"
 work_title: Progress and Poverty
 author_name: Henry George
 chapter_number: 5
-chapter_title: Chapter I The Current Doctrine of Wages—Its Insufficiency
+chapter_title: Book I Wages and Capital, Chapter I The Current Doctrine of Wages—Its Insufficiency
 chapter_slug: 05
 variant_id: "b0e17f5d-6f9c-5953-b0b5-0e8693cd0c14"
 content_type: translation
@@ -13,10 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3889
+word_count: 3901
 source_url: "https://oll.libertyfund.org/titles/george-progress-and-poverty"
 translator: Online Library of Liberty edition
 ---
+
+He that is to follow philosophy must be a freeman in mind.
 
 Reducing to its most compact form the problem we have set out to investigate, let us examine, step by step, the explanation which political economy, as now accepted by the best authority, gives of it.
 

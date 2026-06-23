@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-considerations-on-representative-ccd97d",
+  "work_title": "Considerations on Representative Government",
+  "chapter_number": 14,
+  "chapter_title": "Chapter XIV — Of the Executive in a Representative Government",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52df7c88-15e7-584e-9d1b-7cdc7a9ebff3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6500,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5669"
+    }
+  ]
+}

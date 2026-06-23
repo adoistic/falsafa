@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 11,
+  "chapter_title": "1. The Sanc'hya Philosophy of Capila",
+  "chapter_slug": "11-1-the-sanchya-philosophy-of-capila",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "895d71e9-0b71-5c3e-a69c-e093f03a8077",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4436,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hporiental.htm"
+    }
+  ]
+}

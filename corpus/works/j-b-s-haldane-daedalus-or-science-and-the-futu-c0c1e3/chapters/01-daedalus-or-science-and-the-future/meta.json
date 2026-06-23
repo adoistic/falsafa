@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-b-s-haldane-daedalus-or-science-and-the-futu-c0c1e3",
+  "work_title": "Daedalus, or, Science and the Future",
+  "chapter_number": 1,
+  "chapter_title": "Daedalus, or, Science and the Future",
+  "chapter_slug": "01-daedalus-or-science-and-the-future",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "567ed731-349b-5a33-a39a-1a38cbc1054f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11606,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/haldane/works/1920s/daedalus.htm"
+    }
+  ]
+}

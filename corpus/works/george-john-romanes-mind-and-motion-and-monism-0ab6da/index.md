@@ -4,13 +4,17 @@ slug: "george-john-romanes-mind-and-motion-and-monism-0ab6da"
 title: Mind and Motion and Monism
 author:
   name: George John Romanes
-  biography: "George John Romanes (1848-1894)."
+  biography: "Canadian-born British biologist and psychologist, Darwin's friend and intellectual heir who founded comparative psychology. Mind and Motion and Monism set out his view that mind and matter are aspects of a single underlying reality."
+  birth_year: 1848
+  death_year: 1894
+  nationality: "Canadian-British"
 era: 19th Century
 genre: Philosophy of Mind
 language: English
 language_direction: ltr
 description: "Mind and Motion and Monism, by George John Romanes (1848-1894), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1895
 total_logical_chapters: 6
 total_variant_entries: 6
 thothica_role: catalog

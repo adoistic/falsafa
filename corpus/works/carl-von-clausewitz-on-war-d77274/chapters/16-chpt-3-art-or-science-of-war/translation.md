@@ -1,0 +1,35 @@
+---
+work_id: "d77274fa-3610-5f16-9c9f-12e84c9fe82d"
+work_slug: "carl-von-clausewitz-on-war-d77274"
+work_title: On War
+author_name: Carl von Clausewitz
+chapter_number: 16
+chapter_title: Chpt. 3 Art or Science of War
+chapter_slug: "16-chpt-3-art-or-science-of-war"
+variant_id: "a86293f6-500e-5f9b-8c4d-ff2e6e02ed7a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1035
+source_url: "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book2/ch03.htm"
+translator: Colonel J.J. Graham
+---
+
+The choice between these terms seems to be still unsettled, and no one seems to know rightly on what grounds it should be decided, and yet the thing is simple. We have already said elsewhere that knowing is something different from doing. The two are so different that they should not easily be mistaken the one for the other. The doing cannot properly stand in any book, and therefore also Art should never be the title of a book. But because we have once accustomed ourselves to combine in conception, under the name of theory of Art, or simply Art, the branches of knowledge (which may be separately pure sciences) necessary for the practice of an Art, therefore it is consistent to continue this ground of distinction, and to call everything Art when the object is to carry out the doing (being able), as for example, Art of building; Science, when merely knowledge is the object; as Science of mathematics, of astronomy. That in every Art certain complete sciences may be included is intelligible of itself, and should not perplex us. But still it is worth observing that there is also no science without a mixture of Art. In mathematics, for instance, the use of figures and of algebra is an Art, but that is only one amongst many instances. The reason is, that however plain and palpable the difference is between knowledge and power in the composite results of human knowledge, yet it is difficult to trace out their line of separation in man himself.
+
+All thinking is indeed Art. Where the logician draws the line, where the premises stop which are the result of cognition — where judgment begins, there Art begins. But more than this even the perception of the mind is judgment again, and consequently Art; and at last, even the perception by the senses as well. In a word, if it is impossible to imagine a human being possessing merely the faculty of cognition, devoid of judgment or the reverse, so also Art and Science can never be completely separated from each other. The more these subtle elements of light embody themselves in the outward forms of the world, so much the more separate appear their domains; and now once more, where the object is creation and production, there is the province of Art; where the object is investigation and knowledge Science holds sway.  After all this it results of itself that it is more fitting to say Art of War than Science of War.
+
+So much for this, because we cannot do without these conceptions. But now we come forward with the assertion that War is neither an Art nor a Science in the real signification, and that it is just the setting out from that starting-point of ideas which has led to a wrong direction being taken, which has caused War to be put on a par with other arts and sciences, and has led to a number of erroneous analogies.
+
+This has indeed been felt before now, and on that it was maintained that War is a handicraft; but there was more lost than gained by that, for a handicraft is only an inferior art, and as such is also subject to definite and rigid laws. In reality the Art of War did go on for some time in the spirit of a handicraft — we allude to the times of the Condottieri  but then it received that direction, not from intrinsic but from external causes; and military history shows how little it was at that time in accordance with the nature of the thing.
+
+We say therefore War belongs not to the province of Arts and Sciences, but to the province of social life. It is a conflict of great interests which is settled by bloodshed, and only in that is it different from others. It would be better, instead of comparing it with any Art, to liken it to business competition, which is also a conflict of human interests and activities; and it is still more like State policy, which again, on its part, may be looked upon as a kind of business competition on a great scale. Besides, State policy is the womb in which War is developed, in which its outlines lie hidden in a rudimentary state, like the qualities of living creatures in their germs.
+
+[The analogy has become much closer since Clausewitzs time. Now that the first business of the State is regarded as the development of facilities for trade, War between great nations is only a question of time. No Hague Conferences can avert it — editor.]
+
+The essential difference consists in this, that War is no activity of the will, which exerts itself upon inanimate matter like the mechanical Arts; or upon a living but still passive and yielding subject, like the human mind and the human feelings in the ideal Arts, but against a living and reacting force. How little the categories of Arts and Sciences are applicable to such an activity strikes us at once; and we can understand at the same time how that constant seeking and striving after laws like those which may be developed out of the dead material world could not but lead to constant errors. And yet it is just the mechanical Arts that some people would imitate in the Art of War. The imitation of the ideal Arts was quite out of the question, because these themselves dispense too much with laws and rules, and those hitherto tried, always acknowledged as insufficient and one-sided, are perpetually undermined and washed away by the current of opinions, feelings, and customs.
+
+Whether such a conflict of the living, as takes place and is settled in War, is subject to general laws, and whether these are capable of indicating a useful line of action, will be partly investigated in this book; but so much is evident in itself, that this, like every other subject which does not surpass our powers of understanding, may be lighted up, and be made more or less plain in its inner relations by an inquiring mind, and that alone is sufficient to realise the idea of a theory.

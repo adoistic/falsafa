@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+  "work_title": "Two Tactics of Social-Democracy in the Democratic Revolution",
+  "chapter_number": 17,
+  "chapter_title": "Comrade Martynov Again Renders the Question “More Profound”",
+  "chapter_slug": "17-comrade-martynov-again-renders-the-question-more-p",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e042eabb-3190-5190-96dd-793bc9371118",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3039,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ep-s2.htm"
+    }
+  ]
+}

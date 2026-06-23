@@ -1,0 +1,26 @@
+{
+  "work_slug": "edward-bellamy-looking-backward-from-2000-to-18-26268e",
+  "work_title": "Looking Backward From 2000 to 1887",
+  "chapter_number": 14,
+  "chapter_title": "Chapter 13",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e0effda-b978-568c-8d5a-182745cb9fae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3186,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bellamy-ed/works/backward/ch13.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-in-defense-of-nationality-a4ea93",
+  "work_title": "In Defense of Nationality",
+  "chapter_number": 1,
+  "chapter_title": "1. The system of denationalization",
+  "chapter_slug": "01-1-the-system-of-denationalization",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "61a386f9-06e4-5fe8-8fd0-1aecde2a78e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 506,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1900/nationality/chap1.html"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+---
+work_id: "6733adbb-7791-5c58-b040-6b5bbf1c5c7e"
+work_slug: "peter-kropotkin-the-conquest-of-bread-6733ad"
+work_title: The Conquest of Bread
+author_name: Peter Kropotkin
+chapter_number: 21
+chapter_title: 6.2
+chapter_slug: "21-6-2"
+variant_id: "cbb47111-aac6-5c6b-98a4-2b5d6ed2d475"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1102
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1892/bread.htm"
+translator: Marxists Internet Archive edition
+---
+
+If the idea of expropriation be adopted by the people it will be carried into effect in spite of all the “insurmountable” obstacles with which we are menaced.
+
+Of course, the good folk in new uniforms, seated in the official arm-chairs of the Hôtel de Ville, will be sure to busy themselves in heaping up obstacles. They will talk of giving compensation to the landlords, of preparing statistics, and drawing up long reports. Yes, they would be capable of drawing up reports long enough to outlast the hopes of the people, who, after waiting and starving in enforced idleness, and seeing nothing come of all these official researches, would lose heart and faith in the Revolution and abandon the field to the reactionaries. The new bureaucracy would end by making expropriation hateful in the eyes of all.
+
+Here, indeed, is a rock which might shipwreck our hopes. But if the people turn a deaf ear to the specious arguments used to dazzle them, and realize that new life needs new conditions, and if they undertake the task themselves, then expropriation can be effected without any great difficulty.
+
+“But how? How can it be done?” you ask us. We shall try to reply to this question, but with a reservation. We have no intention of tracing out the plans of expropriation in their smallest details. We know beforehand that all that any man, or group of men, could suggest to-day would be far surpassed by the reality when it comes. Man will accomplish greater things, and accomplish them better and by simpler methods than those dictated to him beforehand. Thus we shall merely indicate the manner by which expropriation might be accomplished without the intervention of Government. We do not propose to go out of our way to answer those who declare that the thing is impossible. We confine ourselves to replying that we are not the upholders of any particular method of organization. We are only concerned to demonstrate that expropriation could be effected by popular initiative, and could not be effected by any other means whatever.
+
+It seems very likely that, as soon as expropriation is fairly started, groups of volunteers will spring up in every district, street, and block of houses, and undertake to inquire into the number of flats and houses which are empty and of those which are overcrowded, the unwholesome slums, and the houses which are too spacious for their occupants and might well be used to house those who are stifled in swarming tenements. In a few days these volunteers would have drawn up complete lists for the street and the district of all the flats, tenements, family mansions and villa residences, all the rooms and suites of rooms, healthy and unhealthy, small and large, foetid dens and homes of luxury.
+
+Freely communicating with each other, these volunteers would soon have their statistics complete. False statistics can be manufactured in board rooms and offices, but true and exact statistics must begin with the individual and mount up from the simple to the complex.
+
+Then, without waiting for anyone’s leave, those citizens will probably go and find their comrades who were living in miserable garrets and hovels and will say to them simply: “It is a real Revolution this time, comrades, and no mistake about it. Come to such a place this evening; all the neighbourhood will be there; we are going to redistribute the dwelling-houses. If you are tired of your slum-garret, come and choose one of the flats of five rooms that are to be disposed of, and when you have once moved in you shall stay, never fear. The people are up in arms, and he who would venture to evict you will have to answer to them.”
+
+“But every one will want a fine house or a spacious flat!” we are told. – No, you are quite mistaken. It is not the people’s way to clamour for the moon. On the contrary, every time we have seen them set about repairing a wrong we have been struck by the good sense and instinct for justice which animates the masses. Have we ever known them demand the impossible? Have we ever seen the people of Paris fighting among themselves while waiting for their rations of bread or firewood during the two sieges or during the terrible years of 1792-1794? The patience and resignation which prevailed among them in 1871 was constantly presented for admiration by the foreign Press correspondents; and yet these patient waiters knew full well that the last comers would have to pass the day without food or fire.
+
+We do not deny that there are plenty of egotistic instincts in isolated individuals. We are quite aware of it. But we contend that the very way to revive and nourish these instincts would be to confine such questions as the housing of the people to any board or committee, in fact, to the tender mercies of officialism in any shape or form. Then indeed all the evil passions spring up, and it becomes a case of who is the most influential person on the board. The least inequality causes wranglings and recriminations. If the smallest advantage is given to any one, a tremendous hue and cry is raised – and not without reason.
+
+But if the people themselves, organized by streets, districts, and parishes, undertake to move the inhabitants of the slums into the half-empty dwellings of the middle classes, the trifling inconveniences, the little inequalities will be easily tided over. Rarely has appeal been made to the good instincts of the masses – only as a last resort, to save the sinking ship in times of revolution – but never has such an appeal been made in vain; the heroism, the self-devotion of the toiler has never failed to respond to it. And thus it will be in the coming Revolution.
+
+But, when all is said and done, some inequalities, some inevitable injustices, undoubtedly will remain. There are individuals in our societies whom no great crisis can lift out of the deep mire of egoism in which they are sunk. The question, however, is not whether there will be injustices or no, but rather how to limit the number of them.
+
+Now all history, all the experience of the human race, and all social psychology, unite in showing that the best and fairest way is to trust the decision to those whom it concerns most nearly. It is they alone who can consider and allow for the hundred and one details which must necessarily be overlooked in any merely official redistribution.

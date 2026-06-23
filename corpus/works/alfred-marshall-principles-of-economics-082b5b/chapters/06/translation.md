@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 6
-chapter_title: "BOOK II, CHAPTER II: WEALTH."
+chapter_title: "Book II, Chapter II: Wealth."
 chapter_slug: 06
 variant_id: "2e7091b1-19ac-55c1-995e-5d3765f39dc3"
 content_type: translation

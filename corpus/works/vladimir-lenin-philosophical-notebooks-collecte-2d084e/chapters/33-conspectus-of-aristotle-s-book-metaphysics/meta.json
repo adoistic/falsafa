@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 33,
+  "chapter_title": "Conspectus of Aristotle’s Book Metaphysics",
+  "chapter_slug": "33-conspectus-of-aristotle-s-book-metaphysics",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b66917d-475e-591f-a6b9-2bfb2654a2a1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1842,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/misc/x12.htm"
+    }
+  ]
+}

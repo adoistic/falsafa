@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 14
-chapter_title: "CHAPTER II: ON THE DIAGRAMMATIC METHOD OF REPRESENTING AREAS OF SATISFACTION AND MARGINAL SIGNIFICANCES"
+chapter_title: "Chapter II: On the Diagrammatic Method of Representing Areas of Satisfaction and Marginal Significances"
 chapter_slug: 14
 variant_id: "5921fa0c-9ac7-5f29-b715-1b92b7f79688"
 content_type: translation

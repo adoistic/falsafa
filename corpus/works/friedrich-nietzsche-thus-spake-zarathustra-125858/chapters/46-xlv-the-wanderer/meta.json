@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 46,
+  "chapter_title": "XLV. The Wanderer.",
+  "chapter_slug": "46-xlv-the-wanderer",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a4d5c7af-3378-534f-9acc-3b2a8e2f35a9",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 945,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7123d61d-af54-5ee7-907c-10c3d05a993a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 988,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

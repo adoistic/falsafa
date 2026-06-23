@@ -1,0 +1,65 @@
+---
+work_id: "8baeaf4f-4cf0-5545-9c0f-6e805b178b42"
+work_slug: "james-steuart-an-inquiry-into-the-principles-o-8baeaf"
+work_title: An Inquiry into the Principles of Political Economy
+author_name: James Steuart
+chapter_number: 107
+chapter_title: "Chap. VI: Cumulative and proportional Taxes compared with one another, and farther examined"
+chapter_slug: "107-chap-vi-cumulative-and-proportional-taxes-compared"
+variant_id: "0026aa71-07f6-5e9d-99fa-c629df1b8d37"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1778
+source_url: "https://www.marxists.org/reference/subject/economics/steuart/book5.htm"
+translator: Marxists Internet Archive edition
+---
+
+After examining separately the nature and effects of cumulative and proportional taxes, it remains, for the more full understanding of this subject, to compare them together; the better to find out wherein they really differ, and how far the difference is apparent only.
+
+It has been observed, that as the payment of taxes is made in money, this payment can diminish no part of the produce of either land, or industry; the whole amount of these remains entire to the subjects of the state.
+
+Taxes then are paid either out of the money which circulates in the purchase of produce and manufactures; or out of the income arising from solid property: from which we have concluded that those of the proportional kind must constantly be confined within a certain proportion to alienation. We have also observed, that the imposition of taxes augments the mass of circulation, and makes it requisite for a statesman to contrive some method for increasing money in proportion to their increase. I hope these propositions have acquired an additional confirmation, from what has been already said in the preceding chapters.
+
+We have also seen how the amount of proportional taxes is ultimately taken from the superfluity of the rich, whom we have called the idle consumers: and how they are advanced by one set of the industrious, and refunded by another, until at last they fall upon those who cannot draw them back from any body. These last have been said to pay the taxes, the others to advance them only.
+
+Were we therefore to suppose all desire of defrauding out of the way, we should find the whole burden of proportional taxes confined to the inconvenience of advancing their amount by the industrious, and to the payment of them by the rich, which proportionally diminishes their income. Where credit therefore is well established, where payments are regularly made by buyers to sellers, and where people proportion their expence to their free income, the weight of proportional taxes will be very small. I appeal to experience for the truth of this.
+
+Let us next examine the nature of cumulative taxes, as we have called them, in order to distinguish them from the others.
+
+In these, alienation is not necessary at the time they are paid; from which it follows, that, in many cases, they cannot be drawn back. When a man pays his land-tax out of his rent, what remains to him will not buy more of any thing than if he had paid nothing. Nay, were the state to indulge him and take his tax in corn, the corn which remains to him would not bear an advanced price, unless the state should export the quantity he had given; and then indeed, by diminishing the supply, it might raise the price of grain in general; but every one having grain to sell would profit of the rise upon the price, as well as the landlord, whose share does not commonly amount to one third of the crop.
+
+But were a cumulative tax so levied as to prevent the proprietor from spending what the state intends to make him pay out of his income, he who pays it would thereby acquire one great alleviation of his burden.
+
+I have said that when a brewer pays the excise, the tax, as to him, is of the cumulative nature. It is so in a certain degree, no doubt, as may be seen without farther explanation; but it still so far retains its own nature as to be easily drawn back from the consumer. But how can a soldier draw back the tax he pays to Chelsea?
+
+From this material distinction between the two impositions, I conclude, that no objection can lie against proportional taxes, so far as they affect the industrious; because they draw them completely back: and that great objections lie against cumulative taxes, when they affect the industrious, because they cannot draw them back at all; and consequently, they may affect the physical-necessary of the contributor, in case no profit should remain to him upon his labour. On the other hand, I think little objection can be made to cumulative taxes, when they are imposed upon possessions, which produce a visible annual revenue, clear to the proprietor. This is the nature of the dixiemes and vingtiemes in France; where the whole amount of the person's income is taken upon proper proof, and taxed in proportion to it, without any subsidiary or second levy's taking place, to make up a determinate sum.
+
+Cumulative taxes would also be far less burdensome to the lower class, could they be levied, so as, first, to preserve the proportion of them to the actual profits on industry: secondly, to make that proportion sensible to the people: and in the last place, to retain the tax, instead of allowing them first to receive it, and afterwards obliging them to refund it.
+
+In proportion as these three requisites do not take place, such taxes become grievous to all who have no fixed income.
+
+To put a tax upon a man's dwelling house, in proportion to its windows, or hearths, when the house produces no fixed income to him, and when he has none independent of it, may take away a part of his physical-necessary. To put a tax upon his head, is more grievous than to put a tax upon his hands, in proportion to what they daily gain.
+
+If cumulative and proportional taxes be compared, with respect to the influence which they severally have upon our opinions as to taxes in general, we find that both of them deceive the contributors, but in different ways.
+
+In the cumulative taxes, the person who pays does not always perceive the reason of his paying. He imagines that he is taxed merely because it is known that he is able to pay a certain sum.
+
+In the proportional, the deceit is of another nature. When a person buys a consumable commodity, which has paid an excise, he does not perceive that the price he pays for it comprehends a tax upon his past gains, in favour of the public; but he concludes the whole to be necessary, in order to procure what he has an inclination to consume. An example will make this plain.
+
+Suppose a tax laid upon wheel carriages, and that every person in the state were liable to pay a certain sum in proportion to the number of carriages he has for his convenience. The tax-gatherer comes at the end of the year and demands the sum. The person complains that he is not at liberty to have a coach or a chaise without paying duty for it; and that while he has occasion for one carriage only, and has but one pair of horses, he is obliged to pay for several sets of wheels.
+
+Now suppose this cumulative tax were turned into a proportional one, and that wheels were to pay a stamp-duty, or the like, in the hands of the wheelwright. The price of them would immediately rise. but this rise would soon become familiar to the man who has the carriage; and he would then be no more hurt by this additional expence, than if it had proceeded from some new and expensive fashion of wheels; in short, wheels would generally begin to bear an advanced price, and very soon nobody would enquire how it came about, nor once complain of the tax.
+
+To set this in another light, the difference between the two impositions resembles that between long and short accounts, which to poor people is very great. When the expence of living is insensibly and universally augmented, by the effect of proportional taxes, then the industrious man, who enjoys neither superfluity or idleness, may and can augment the price of his work in proportion. This augmentation forms then a part of what has been called his (A), which he draws fully back when he comes to market. But if the same, or even a less sum be raised upon him by a cumulative tax, it comes upon him at the end of the year, or at the end of the quarter, and let him be ever so provident, he cannot draw it back, or raise the price of his work, because of the unequal competition of other people of his own class, who from a variety of circumstances, cannot all be so equally loaded by the cumulative as by the proportional taxes. Besides, they may not be so provident as himself and may work for subsistence, without making any allowance for what they are to pay the state at the end of the year. Thus a double inconvenience ensues. The industrious poor are oppressed by the tax-gatherers, and the tax is ill levied. In the other case, the first never see a tax-gatherer, and the money is paid. Besides these advantages in favour of proportional taxes, there is still another, that if this tax be improperly laid on, the defect will manifest itself by checking consumption only; whereas in the other case, it will be known by the distress also of the individuals.
+
+If the liberty not to consume be taken away, as in the gabelle in some provinces in France, then the imposition changes its nature and becomes a cumulative tax, as may be easily perceived. (8)
+
+It has been said, that so far as the three inconveniences of the cumulative taxes can be prevented, they cease to be oppressive. From which we see the reason why excises are so easily paid when those who manufacture the commodities charged with them, are contented to compound for them. This changes the tax into one of the cumulative kind; but gives it every requisite to make it easy. Let me take an example.
+
+A brewer who pays excise for all he brews, is exposed to the daily visit of the excise-man, to whom he pays the duty. Here the brewer's imposition participates of several of the inconveniences attending cumulative taxes. But let me suppose that after a certain time he finds that 100 l. is the annual amount of his excise. If he make a composition for it at this rate, he comes under a regular cumulative composition, with every advantage. He thinks no more of frauds; he no more grudges what he pays; and becomes in a manner collector of that imperceptible duty advanced by him, and paid by all his customers.
+
+The easy method of transforming those taxes into one another, shews their resemblance sufficiently, and the differences which we have pointed out, shew the principles which regulate the proper manner of imposing them.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362",
+  "work_title": "A Treatise on Political Economy",
+  "chapter_number": 33,
+  "chapter_title": "Section Sixth.: Finally, from the faculty of willing arise the ideas of rights and of duties.",
+  "chapter_slug": "33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa070a84-8724-537e-855b-afecb1b0d7b0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3291,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
+    }
+  ]
+}

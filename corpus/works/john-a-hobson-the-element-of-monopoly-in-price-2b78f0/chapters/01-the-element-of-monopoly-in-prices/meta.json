@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-the-element-of-monopoly-in-price-2b78f0",
+  "work_title": "The Element of Monopoly in Prices",
+  "chapter_number": 1,
+  "chapter_title": "The Element of Monopoly in Prices",
+  "chapter_slug": "01-the-element-of-monopoly-in-prices",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "173b14fc-d005-57ea-b2ac-295173dbf39e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7955,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1891/10/prices.htm"
+    }
+  ]
+}

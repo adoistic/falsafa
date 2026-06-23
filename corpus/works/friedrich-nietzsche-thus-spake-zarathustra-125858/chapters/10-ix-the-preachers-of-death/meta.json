@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 10,
+  "chapter_title": "IX. The Preachers of Death.",
+  "chapter_slug": "10-ix-the-preachers-of-death",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c6f1ff77-82fa-56af-94a4-67ab83a6d1d0",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 531,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f3cb12d-f300-5bb3-80d6-8c9cc131f684",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 543,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

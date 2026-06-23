@@ -4,7 +4,10 @@ slug: "ovid-metamorphoses-b0cbc2"
 title: Metamorphoses
 author:
   name: Ovid
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman poet of the Augustan age, exiled by Augustus to the Black Sea coast. His verse on love, myth, and transformation, above all the Metamorphoses, became a primary channel of classical mythology to later European literature.
+  birth_year: -43
+  death_year: 17
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

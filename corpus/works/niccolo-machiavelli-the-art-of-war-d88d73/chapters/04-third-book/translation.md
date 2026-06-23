@@ -4,7 +4,7 @@ work_slug: "niccolo-machiavelli-the-art-of-war-d88d73"
 work_title: The Art of War
 author_name: Niccolò Machiavelli
 chapter_number: 4
-chapter_title: THIRD BOOK
+chapter_title: Third Book
 chapter_slug: "04-third-book"
 variant_id: "90c47e12-5900-5ba3-9d61-f906ff19a82f"
 content_type: translation

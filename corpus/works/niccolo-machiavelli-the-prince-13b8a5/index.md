@@ -4,13 +4,17 @@ slug: "niccolo-machiavelli-the-prince-13b8a5"
 title: The Prince
 author:
   name: Niccolò Machiavelli
-  biography: "Niccolò Machiavelli (1469-1527)."
+  biography: Florentine diplomat, political theorist, and secretary of the Republic, sidelined after the Medici restoration. His writings founded a realist tradition of political analysis that examined power as it operates rather than as it ought to be.
+  birth_year: 1469
+  death_year: 1527
+  nationality: Italian
 era: Renaissance
 genre: Political Theory
 language: English
 language_direction: ltr
 description: "The Prince, by Niccolò Machiavelli (1469-1527), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1532
 total_logical_chapters: 26
 total_variant_entries: 26
 thothica_role: catalog

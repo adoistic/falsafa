@@ -4,7 +4,8 @@ slug: "homer-epigrams-4a5bfa"
 title: Epigrams
 author:
   name: Homer
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: The name the Greek tradition gave to the poet of the Iliad and Odyssey, the two epics at the foundation of Greek literature. Whether one poet or a tradition of singers stands behind the name is an old and open question.
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

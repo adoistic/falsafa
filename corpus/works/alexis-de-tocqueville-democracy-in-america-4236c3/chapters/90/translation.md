@@ -1,0 +1,27 @@
+---
+work_id: "4236c39f-c0d0-5a54-8dc7-6901642e8c28"
+work_slug: "alexis-de-tocqueville-democracy-in-america-4236c3"
+work_title: Democracy in America
+author_name: Alexis de Tocqueville
+chapter_number: 90
+chapter_title: "Chapter XIII: That The Principle Of Equality Naturally Divides The Americans Into A Number Of Small Private Circles"
+chapter_slug: 90
+variant_id: "d2b162fe-c2ce-5b4f-9c7a-a032de3af9b7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 663
+source_url: "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch35.htm"
+translator: Henry Reeve
+---
+
+It may probably be supposed that the final consequence and necessary effect of democratic institutions is to confound together all the members of the community in private as well as in public life, and to compel them all to live in common; but this would be to ascribe a very coarse and oppressive form to the equality which originates in democracy. No state of society or laws can render men so much alike, but that education, fortune, and tastes will interpose some differences between them; and, though different men may sometimes find it their interest to combine for the same purposes, they will never make it their pleasure. They will therefore always tend to evade the provisions of legislation, whatever they may be; and departing in some one respect from the circle within which they were to be bounded, they will set up, close by the great political community, small private circles, united together by the similitude of their conditions, habits, and manners.
+
+In the United States the citizens have no sort of pre-eminence over each other; they owe each other no mutual obedience or respect; they all meet for the administration of justice, for the government of the State, and in general to treat of the affairs which concern their common welfare; but I never heard that attempts have been made to bring them all to follow the same diversions, or to amuse themselves promiscuously in the same places of recreation. The Americans, who mingle so readily in their political assemblies and courts of justice, are wont on the contrary carefully to separate into small distinct circles, in order to indulge by themselves in the enjoyments of private life. Each of them is willing to acknowledge all his fellow-citizens as his equals, but he will only receive a very limited number of them amongst his friends or his guests. This appears to me to be very natural. In proportion as the circle of public society is extended, it may be anticipated that the sphere of private intercourse will be contracted; far from supposing that the members of modern society will ultimately live in common, I am afraid that they may end by forming nothing but small coteries.
+
+Amongst aristocratic nations the different classes are like vast chambers, out of which it is impossible to get, into which it is impossible to enter. These classes have no communication with each other, but within their pale men necessarily live in daily contact; even though they would not naturally suit, the general conformity of a similar condition brings them nearer together. But when neither law nor custom professes to establish frequent and habitual relations between certain men, their intercourse originates in the accidental analogy of opinions and tastes; hence private society is infinitely varied. In democracies, where the members of the community never differ much from each other, and naturally stand in such propinquity that they may all at any time be confounded in one general mass, numerous artificial and arbitrary distinctions spring up, by means of which every man hopes to keep himself aloof, lest he should be carried away in the crowd against his will. This can never fail to be the case; for human institutions may be changed, but not man: whatever may be the general endeavor of a community to render its members equal and alike, the personal pride of individuals will always seek to rise above the line, and to form somewhere an inequality to their own advantage.
+
+In aristocracies men are separated from each other by lofty stationary barriers; in democracies they are divided by a number of small and almost invisible threads, which are constantly broken or moved from place to place. Thus, whatever may be the progress of equality, in democratic nations a great number of small private communities will always be formed within the general pale of political society; but none of them will bear any resemblance in its manners to the highest class in aristocracies.

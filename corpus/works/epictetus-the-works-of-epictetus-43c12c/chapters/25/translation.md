@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 25
-chapter_title: "CHAPTER XXI.: OF THE DESIRE OF ADMIRATION."
+chapter_title: "Chapter XXI.: Of the Desire of Admiration."
 chapter_slug: 25
 variant_id: "fd435cef-5f2e-5c11-b242-7dc03a6116b0"
 content_type: translation

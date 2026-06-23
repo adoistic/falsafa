@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 7
-chapter_title: "Chapter VI: OF CIRCUMSTANCES INFLUENCING SENSIBILITY"
+chapter_title: "Chapter VI: Of Circumstances Influencing Sensibility"
 chapter_slug: 07
 variant_id: "f0e09cdf-6352-5c9b-9c1d-53e7ec525f88"
 content_type: translation

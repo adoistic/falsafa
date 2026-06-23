@@ -4,7 +4,7 @@ work_slug: "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a"
 work_title: "Magna Carta: A Commentary on the Great Charter of King John"
 author_name: William Sharp McKechnie
 chapter_number: 191
-chapter_title: CHAPTER FORTY–FOUR.
+chapter_title: Chapter Forty–eight.
 chapter_slug: 191
 variant_id: "b2c9774e-d742-5666-9d5f-48f6788bb151"
 content_type: translation
@@ -13,13 +13,21 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 86
+word_count: 717
 source_url: "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
 translator: Online Library of Liberty edition
 ---
 
-Homines qui manent extra forestam non veniant de cetero coram justiciariis nostris de foresta per communes summoniciones, nisi sint in placito, vel plegii alicujus vel aliquorum, qui attachiati sint pro foresta.
+Omnes male consuetudines de forestis et warennis, et de forestariis et warennariis, vicecomitibus et eorum ministris, ripariis et earum custodibus, statim inquirantur in quolibet comitatu per duodecim milites juratos de eodem comitatu, qui debent eligi per probos homines ejusdem comitatus, et infra quadraginta dies post inquisicionem factam, penitus, ita quod numquam revocentur, deleantur per eosdem, ita quod nos hoc sciamus prius, vel justiciarius noster, si in Anglia non fuerimus.
 
-Men who dwell without the forest need not henceforth come before our justiciars of the forest upon a general summons, except those who are impleaded, or who have become sureties for any person or persons attached for forest offences.
+All evil customs connected with forests and warrens, foresters and warreners, sheriffs and their officers, river–banks and their wardens, shall immediately be inquired into in each county by twelve sworn knights of the same county chosen by the honest men of the same county, and shall, within forty days of the said inquest, be utterly abolished, so as never to be restored, provided always that we previously have intimation thereof, or our justiciar, if we should not be in England.
 
-These provisions were intended to redress one of many abuses connected with the oppressive forest laws.
+This chapter is mainly, though not exclusively, a forest one. It provides in a sweeping and drastic manner for the abolition of “evil customs,” three groups of which are specially emphasized: (a) those connected with forests and warrens (presumably royal warrens only), or with their officials; (b) those connected with sheriffs and their subordinates; and (c) those connected with river–banks and their guardians. The word “customs” is obviously here used in its wider sense, embracing all usages and procedure, whether specially connected with pecuniary exactions or not. The word “evil” is not defined, but machinery is provided for arriving at a definition. In each county a local jury of twelve knights was to be immediately chosen by “the good people” of that county, and these twelve received a mandate to hold a comprehensive inquest into “evil customs”: practices condemned by them were to be abolished within forty days of the inquiry, “so that they shall never be restored.”
+
+At the end of the chapter appears a proviso that, before actual abolition, notice must be sent to the King, or, in his absence, to his justiciar. Although such intimation was necessary, both on grounds of policy and of ordinary courtesy, this clause is written (apparently as an afterthought) at the foot of two of the copies of the Great Charter.
+
+John lost no time in instituting machinery for effecting this part of the reforms. On the very day on which terms of peace were concluded at Runnymede, namely, on 19th June, 1215, he began the issue of writs to sheriffs, warreners, and river bailiffs. Within a few days every one of these had been certified of the settlement arrived at, and had received commands to have twelve knights chosen in the first county court to make sworn inquest into evil customs.
+
+The knights appointed seem to have taken a liberal view of their functions, claiming to share with the sheriffs the exercise of the whole executive authority of the county. Some warrant for these pretensions may be found in the terms of a second series of writs issued in the King’s name on 27th June and following days. These were addressed to the sheriff and the twelve knights jointly, commanding them to make instant seizure of all who refused to take, as required in the previous writs, the oath of obedience to the twenty–five executors of the Charter. The revolutionary committee of the central government had thus, in each county, local agents in the twelve knights whose original duties had been to see evil customs abolished.
+
+The hatred to the forest laws is well illustrated by the iconoclastic spirit in which these knights set about the remedy of abuses. Moderate–minded men began to fear that sweeping changes would abolish the royal forests. Accordingly, the leading prelates issued a written protest that this chapter must be understood by both parties “as limited,” and “that all those customs shall remain, without which the forests cannot be preserved.” What effect, if any, this protest had, is not known. The country was soon plunged in civil war, during the continuance of which neither side had leisure for the reform of abuses. In 1216 the subject was “respited” for future consideration, and in 1217 an attempt was made to specify in detail the evil customs to be abolished. The dangerous experiment of leaving the definition to local juries in each district was not repeated.

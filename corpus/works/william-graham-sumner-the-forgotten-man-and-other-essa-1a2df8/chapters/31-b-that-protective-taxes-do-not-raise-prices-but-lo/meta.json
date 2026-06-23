@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 31,
+  "chapter_title": "(B): That Protective Taxes do not Raise Prices but Lower Prices.",
+  "chapter_slug": "31-b-that-protective-taxes-do-not-raise-prices-but-lo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "edbb8260-35ce-56db-af6e-235dc1f7f77c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 399,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

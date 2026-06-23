@@ -1,0 +1,33 @@
+---
+work_id: "6768ba50-6e19-5ece-82f3-5db3a1b75cc7"
+work_slug: "herman-gorter-open-letter-to-comrade-lenin-6768ba"
+work_title: Open Letter to Comrade Lenin
+author_name: Herman Gorter
+chapter_number: 11
+chapter_title: The Harder Task of Europe.
+chapter_slug: "11-the-harder-task-of-europe"
+variant_id: "b2b13817-75f2-5e5d-8998-5310269e1042"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 880
+source_url: "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+translator: Marxists Internet Archive edition
+---
+
+The Trade Unions are too weak in the contest against the most highly-organised capital in Western-European States. These latter are powerful: the unions are not. To a great extent the Trade Unions are Professional Unions as yet, which cannot make a revolution, if it were for that fact alone. And in so far as they are industrial unions, they are not founded on the factories, on the workshops themselves, and are consequently weak. Also they are more unions for mutual aid than for struggle, dating as they do from the days of the small bourgeoisie. Even before the revolution, their organisation was already inadequate for the struggle; for the Revolution itself it cannot serve at all – in Western Europe. For the factories, the workers in the factories, make the revolution, not in the industries and professions, but in the workshops. Moreover, these unions are far too slow-working, complicated instruments, good only for the evolutionary period. Even if the revolution should not succeed right away, and we had once more to revert to peaceful action for a while, the Trade Unions would have to be destroyed and replaced by industrial unions, on a basis of industrial or workshop organisation. And with these miserable Trade Unions, that must be done away with in any case, they want to make the revolution! The workers in Western Europe need WEAPONS for the revolution. The only weapons for the revolution in Western Europe are Industrial Organisations. And these united into ONE big whole!
+
+The workers in Western Europe need the very best weapons. They stand alone: they have no help. And therefore they need these industrial organisations. In Germany and England they need them at once, because there the revolution is nearest at hand. The other countries must have them as soon as possible, as soon as we can build them.
+
+It is no good at all, Comrade Lenin, your saying: in Russia we did it in such and such a way, for in the first place you had no organisations that were so inadequate for the struggle as many of the Trade Unions are here. You had industrial unions. Secondly, your workers were more revolutionary in spirit. Thirdly, the organisation of the capitalists was weak: and the State also. And in the fourth place, and this is the main point: you had help. You did not need the very best of weapons. We stand alone, we must have them. We will not win unless we have them. We will be defeated over and over again, unless we have them.
+
+Other grounds than material ones also demonstrate this.
+
+Recall in your mind, Comrade, how things were in Germany, before and during the war. The Trade Unions, the far too weak but only means, were entirely in the hands of the leaders, who used them as dead machines on behalf of capitalism. Then the revolution broke out. The Trade Unions were used by the leaders and the masses of members as a weapon against the revolution. It was through their help, through their cooperation, through their leaders, nay, partly even through their members that the revolution was murdered. The Communists saw their own brothers being shot with the cooperation of the Trade Unions. Strikes in favour of the revolution were prevented, rendered impossible. Do you hold it possible, Comrade, that under such conditions revolutionary workers should remain in these unions? Especially when these latter are utterly inadequate instruments for the revolution! In my opinion this is a physical impossibility. What would you yourself have done, as a member of a political party, that of the Menshevists for instance, if these had acted thus in the revolution? You would have split the Party (if you had not already done so)! You will reply:
+
+this was a political party, it is different in the case of a Trade Union. I believe you are mistaken. In the revolution, during the revolution, every Trade Union, every workers’ union even, is a political party – either pro- or counterrevolutionary.
+
+In your article, however, you say, and you will do so now: these emotional impulses must be conquered, for the sake of unity and Communist propaganda. I will show you, by means of concrete examples, that during the revolution this was impossible in Germany. For these questions must also be considered quite concretely. Let us suppose that Germany had 100,000 really revolutionary dock labourers, 100,000 revolutionary metal workers, and 100,000 revolutionary miners; that these were willing to strike, to fight, to die for the revolution, and that the other millions were not. What are these 300,000 to do? They must in the first place unite, and form a fighting league. This you acknowledge. Without organisation workers can do nothing. Now a new league against old unions, even if the workers remain in the old ones, is a split already; if not formally, at any rate actually, in reality. Next, however, the members of the new league need a press, meetings, localities, a salaried staff. This requires heaps of money. And the German workers possess next to nothing. In order to keep the new league going, they must needs, whether they like it or not, leave the old one. Thus we see that, concretely considered, that which you, Comrade, propose, is impossible.

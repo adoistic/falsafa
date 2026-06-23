@@ -2,7 +2,7 @@
   "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
   "work_title": "An Essay on Crimes and Punishments",
   "chapter_number": 63,
-  "chapter_title": "CHAPTER XIV.: ON THE DIFFERENCE BETWEEN POLITICAL AND NATURAL LAWS.",
+  "chapter_title": "Chapter XV.: On the Crime of High-treason. On Titus Oates, and on the Death of Augustin De Thou.",
   "chapter_slug": "63",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 454,
-      "paragraph_count": 7,
+      "word_count": 1000,
+      "paragraph_count": 11,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
     }

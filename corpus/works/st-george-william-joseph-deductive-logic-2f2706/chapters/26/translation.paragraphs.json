@@ -1,357 +1,177 @@
 [
   {
-    "id": "p-0f12ac",
+    "id": "p-aacdf0",
     "offset": 0,
-    "text": "Fill up the following enthymemes, mentioning to which order they belong, and state which of them are expressed in problematic form--"
+    "text": "1. Give the converse by negation of--"
   },
   {
-    "id": "p-e2682b",
+    "id": "p-46989c",
+    "offset": 39,
+    "text": "(1) All women are lovely."
+  },
+  {
+    "id": "p-b92541",
+    "offset": 66,
+    "text": "(2) Some statesmen are not practical."
+  },
+  {
+    "id": "p-61ac02",
+    "offset": 105,
+    "text": "(3) All lawyers are honest."
+  },
+  {
+    "id": "p-3f2299",
     "offset": 134,
-    "text": "(1) I am fond of music: for I always like a comic song."
+    "text": "(4) All doctors are skilful."
   },
   {
-    "id": "p-71d2ea",
-    "offset": 191,
-    "text": "(2) All men are born to suffering, and therefore you must expect your share."
+    "id": "p-9c41df",
+    "offset": 164,
+    "text": "(5) Some men are not rational."
   },
   {
-    "id": "p-881ab1",
+    "id": "p-9aa253",
+    "offset": 196,
+    "text": "2. Give the contrapositive of--"
+  },
+  {
+    "id": "p-d2bc4a",
+    "offset": 229,
+    "text": "(1) All solid substances are material."
+  },
+  {
+    "id": "p-0197e7",
     "offset": 269,
-    "text": "(3) Job must have committed some secret sins: for he fell into dreadful misfortunes."
+    "text": "(2) All the men who do not row play cricket."
   },
   {
-    "id": "p-c5b6df",
-    "offset": 355,
-    "text": "(4) Latin was the language of the Vestals, and therefore no lady need be ashamed of speaking it."
+    "id": "p-a2dc1d",
+    "offset": 315,
+    "text": "(3) All impeccable beings are other than human,"
   },
   {
-    "id": "p-d96388",
-    "offset": 453,
-    "text": "(5) None but physicians came to the meeting. There were therefore no nurses there."
+    "id": "p-ebf8d2",
+    "offset": 364,
+    "text": "(4) Some prejudiced persons are not dishonest."
   },
   {
-    "id": "p-487fc7",
-    "offset": 537,
-    "text": "(6) The human soul extends through the whole body, for it is found in every member."
+    "id": "p-f9262e",
+    "offset": 412,
+    "text": "3. Prove indirectly the truth of the contrapositive of 'All A is B.'"
   },
   {
-    "id": "p-3e8e1c",
-    "offset": 622,
-    "text": "(7) No traitor can be trusted, and you are a traitor."
+    "id": "p-5d6a23",
+    "offset": 482,
+    "text": "4. Criticise the following as immediate inferences--"
   },
   {
-    "id": "p-970a49",
-    "offset": 677,
-    "text": "(8) Whatever has no parts does not perish by the dissolution of its parts. Therefore the soul of man is imperishable."
+    "id": "p-507474",
+    "offset": 536,
+    "text": "(1) All wise men are modest. .'. No immodest men are wise."
   },
   {
-    "id": "p-ccd53c",
-    "offset": 796,
-    "text": "Is the suppressed premiss in any case disputable on material grounds?"
+    "id": "p-7ba65f",
+    "offset": 596,
+    "text": "(2) Some German students are not industrious. .'. Some industrious students are not Germans."
   },
   {
-    "id": "p-eaefb1",
-    "offset": 867,
-    "text": "CHAPTERS IX-XVIII."
+    "id": "p-19e864",
+    "offset": 690,
+    "text": "(3) Absolute difference excludes all likeness. .'. Any likeness is a proof of sameness."
   },
   {
-    "id": "p-ac258b",
-    "offset": 887,
-    "text": "Refer the following arguments to their proper mood and figure, or show what rules of syllogism they violate."
+    "id": "p-0ee64b",
+    "offset": 779,
+    "text": "(4) None but the brave deserve the fair. .'. All brave men deserve the fair."
   },
   {
-    "id": "p-baface",
-    "offset": 997,
-    "text": "(1) No miser is a true friend, for he does not assist his friend with his purse."
+    "id": "p-ffd506",
+    "offset": 857,
+    "text": "(5) All discontented men are unhappy. .'. No contented men are unhappy."
   },
   {
-    "id": "p-acfd76",
-    "offset": 1079,
-    "text": "(2) Governments are good which promote prosperity. The government of Burmah does not promote prosperity. .'. It is not a good government."
+    "id": "p-693be0",
+    "offset": 930,
+    "text": "(6) Books being a source of instruction, our knowledge must come from our libraries."
   },
   {
-    "id": "p-b250a7",
-    "offset": 1218,
-    "text": "(3) Land is not property. Land produces barley. .'. Beer is intoxicating."
+    "id": "p-a947ae",
+    "offset": 1016,
+    "text": "(7) All Jews are Semitic. .'. Some non-Semitic people are not Jews."
   },
   {
-    "id": "p-3cf511",
-    "offset": 1293,
-    "text": "(4) Nothing is property but that which is the product of man's hand. The horse is not the product of man's hand. .'. The horse is not property."
+    "id": "p-78f37a",
+    "offset": 1085,
+    "text": "5. Show by what kind of inference each of the subjoined propositions follows from"
   },
   {
-    "id": "p-c43e45",
-    "offset": 1438,
-    "text": "(5) Some Europeans at least are not Aryans, because the Finns are not."
+    "id": "p-ef08dd",
+    "offset": 1168,
+    "text": "All discontented men are unhappy."
   },
   {
-    "id": "p-473643",
-    "offset": 1510,
-    "text": "(6) Saturn is visible from the earth, and the moon is visible from the earth. Therefore the moon is visible from Saturn."
+    "id": "p-16a14e",
+    "offset": 1203,
+    "text": "(1) All happy men are contented."
   },
   {
-    "id": "p-a8b4ca",
-    "offset": 1632,
-    "text": "(7) Some men of self-command are poor, and therefore some noble characters are poor."
+    "id": "p-97c769",
+    "offset": 1237,
+    "text": "(2) Some discontented men are unhappy."
   },
   {
-    "id": "p-6fea8a",
-    "offset": 1718,
-    "text": "(8) Sparing the rod spoils the child: so John will turn out very good, for his mother beats him every day."
+    "id": "p-be5511",
+    "offset": 1277,
+    "text": "(3) Some contented men are happy."
   },
   {
-    "id": "p-d2641a",
-    "offset": 1826,
-    "text": "(9) Some effects of labour are not painful, since every virtue is an effect of labour."
+    "id": "p-66aaf7",
+    "offset": 1312,
+    "text": "(4) Some unhappy men are not contented."
   },
   {
-    "id": "p-04e986",
-    "offset": 1914,
-    "text": "(10) The courageous are confident and the experienced are confident. Therefore the experienced are courageous."
+    "id": "p-b7e019",
+    "offset": 1353,
+    "text": "(5) No discontented men are happy."
   },
   {
-    "id": "p-e71537",
-    "offset": 2026,
-    "text": "(11) No tale-bearer is to be trusted, and therefore no great talker is to be trusted, for all tale-bearers are great talkers."
+    "id": "p-a152c4",
+    "offset": 1389,
+    "text": "(6) Some happy men are contented."
   },
   {
-    "id": "p-bf28bc",
-    "offset": 2153,
-    "text": "(12) Socrates was wise, and wise men alone are happy: therefore Socrates was happy."
+    "id": "p-c4fc71",
+    "offset": 1424,
+    "text": "(7) Some contented men are not unhappy."
   },
   {
-    "id": "p-40caf4",
-    "offset": 2238,
-    "text": "II."
+    "id": "p-1ac53a",
+    "offset": 1465,
+    "text": "(8) Some unhappy men are discontented."
   },
   {
-    "id": "p-aafd70",
-    "offset": 2243,
-    "text": "1. From the major 'No matter thinks' draw, by supplying the minor, the following conclusions--"
+    "id": "p-0f4129",
+    "offset": 1505,
+    "text": "(9) No happy men are discontented."
   },
   {
-    "id": "p-3d1ea8",
-    "offset": 2339,
-    "text": "(1) Some part of man does not think."
+    "id": "p-1fb79c",
+    "offset": 1541,
+    "text": "(10) Some discontented men are not happy."
   },
   {
-    "id": "p-545cae",
-    "offset": 2377,
-    "text": "(2) The soul of man is not matter."
+    "id": "p-386df0",
+    "offset": 1584,
+    "text": "(11) Some happy men are not discontented."
   },
   {
-    "id": "p-67c8eb",
-    "offset": 2413,
-    "text": "(3) Some part of man is not matter."
+    "id": "p-27dd32",
+    "offset": 1627,
+    "text": "(12) None but unhappy men are discontented."
   },
   {
-    "id": "p-2f3fb6",
-    "offset": 2450,
-    "text": "(4) Some substance does not think."
-  },
-  {
-    "id": "p-71c270",
-    "offset": 2486,
-    "text": "Name the figured mood into which each syllogism falls."
-  },
-  {
-    "id": "p-dd1ee0",
-    "offset": 2542,
-    "text": "2. Construct syllogisms in the following moods and figures, stating whether they are valid or invalid, and giving your reasons in each case--"
-  },
-  {
-    "id": "p-e4dc9c",
-    "offset": 2685,
-    "text": "AEE in the first figure; EAO in the second; IAI in the third; AII in the fourth."
-  },
-  {
-    "id": "p-fc83f7",
-    "offset": 2767,
-    "text": "3. Prove that 'Brass is not a metal,' using as your middle term 'compound body.'"
-  },
-  {
-    "id": "p-cba3ce",
-    "offset": 2849,
-    "text": "4. Construct syllogisms to prove or disprove--"
-  },
-  {
-    "id": "p-9b96c6",
-    "offset": 2897,
-    "text": "(1) Some taxes are necessary."
-  },
-  {
-    "id": "p-db9dc8",
-    "offset": 2928,
-    "text": "(2) No men are free."
-  },
-  {
-    "id": "p-a8c245",
-    "offset": 2950,
-    "text": "(3) Laws are salutary."
-  },
-  {
-    "id": "p-f17b6f",
-    "offset": 2974,
-    "text": "5. Prove by a syllogism in Bokardo that 'Some Socialists are not unselfish,' and reduce your syllogism directly and indirectly."
-  },
-  {
-    "id": "p-3db7e8",
-    "offset": 3103,
-    "text": "6. Prove the following propositions in the second figure, and reduce the syllogisms you use to the first--"
-  },
-  {
-    "id": "p-d780e5",
-    "offset": 3211,
-    "text": "(1) All negroes are not averse to education."
-  },
-  {
-    "id": "p-c7151c",
-    "offset": 3257,
-    "text": "(2) Only murderers should be hanged."
-  },
-  {
-    "id": "p-669965",
-    "offset": 3295,
-    "text": "7. Prove in Baroko and also in Ferio that 'Some Irishmen are not Celts.'"
-  },
-  {
-    "id": "p-e53e22",
-    "offset": 3369,
-    "text": "8. Construct in words the same syllogism in all the four figures."
-  },
-  {
-    "id": "p-e5472b",
-    "offset": 3436,
-    "text": "9. Invent instances to show that false premisses may give true conclusions."
-  },
-  {
-    "id": "p-519de7",
-    "offset": 3513,
-    "text": "III."
-  },
-  {
-    "id": "p-d95ebd",
-    "offset": 3519,
-    "text": "1. What moods are peculiar to the first, second, and third figures respectively?"
-  },
-  {
-    "id": "p-00536e",
-    "offset": 3601,
-    "text": "2. What moods are common to all the figures?"
-  },
-  {
-    "id": "p-85b6d3",
-    "offset": 3647,
-    "text": "3. Why can there be no subaltern moods in the third figure?"
-  },
-  {
-    "id": "p-1ab0ec",
-    "offset": 3708,
-    "text": "4. What is the only kind of conclusion that can be drawn in all the figures?"
-  },
-  {
-    "id": "p-d5608e",
-    "offset": 3786,
-    "text": "5. Show that IEO violates the special rules of all the figures."
-  },
-  {
-    "id": "p-f16688",
-    "offset": 3851,
-    "text": "6. In what figures is AEE valid?"
-  },
-  {
-    "id": "p-330979",
-    "offset": 3885,
-    "text": "7. Show that AEO is superfluous in any figure."
-  },
-  {
-    "id": "p-ab1ff7",
-    "offset": 3933,
-    "text": "8. Prove that O cannot be a premiss in the first figure, nor a minor premiss anywhere but in the second."
-  },
-  {
-    "id": "p-978668",
-    "offset": 4039,
-    "text": "9. Show that in the first figure the conclusion must have the quality of the major premiss and the quantity of the minor."
-  },
-  {
-    "id": "p-be2c78",
-    "offset": 4162,
-    "text": "10. Why do the premisses EA yield a universal conclusion in the first two figures and only a particular one in the last two?"
-  },
-  {
-    "id": "p-f30779",
-    "offset": 4288,
-    "text": "11. Show that AAI is the only mood in the fourth figure in which it is possible for the major term to be distributed in the premiss and undistributed in the conclusion."
-  },
-  {
-    "id": "p-4c48a6",
-    "offset": 4458,
-    "text": "12. Why are the premisses of Fesapo and Fresison not transposed in reduction like those of the other moods of the fourth figure?"
-  },
-  {
-    "id": "p-bed6f4",
-    "offset": 4588,
-    "text": "IV."
-  },
-  {
-    "id": "p-d6d18d",
-    "offset": 4593,
-    "text": "1. Why is it sufficient to distribute the middle term once only?"
-  },
-  {
-    "id": "p-a4ae72",
-    "offset": 4659,
-    "text": "2. Prove that from two affirmative premisses you cannot get a negative conclusion."
-  },
-  {
-    "id": "p-b8e025",
-    "offset": 4743,
-    "text": "3. Prove that there must be at least one more term distributed in the premisses than in the conclusion."
-  },
-  {
-    "id": "p-d3a377",
-    "offset": 4848,
-    "text": "4. Prove that the number of distributed terms in the premisses cannot exceed those in the conclusion by more than two."
-  },
-  {
-    "id": "p-a984d1",
-    "offset": 4968,
-    "text": "5. Prove that the number of undistributed terms in the premisses cannot exceed those in the conclusion by more than one."
-  },
-  {
-    "id": "p-acd99e",
-    "offset": 5090,
-    "text": "6. Prove that wherever the minor premiss is negative, the major must be universal."
-  },
-  {
-    "id": "p-d1e946",
-    "offset": 5174,
-    "text": "7. Prove that wherever the minor term is distributed, the major premiss must be universal."
-  },
-  {
-    "id": "p-0e0600",
-    "offset": 5266,
-    "text": "8. If the middle term be twice distributed, what mood and figure are possible?"
-  },
-  {
-    "id": "p-e077ad",
-    "offset": 5346,
-    "text": "9. If the major term of a syllogism be the predicate of the major premiss, what do we know about the minor premiss?"
-  },
-  {
-    "id": "p-80f40d",
-    "offset": 5463,
-    "text": "10. When the middle term is distributed in both premisses, what must be the quantity of the conclusion?"
-  },
-  {
-    "id": "p-df55a3",
-    "offset": 5568,
-    "text": "11. Prove that if the conclusion be universal, the middle term can only be distributed once in the premisses."
-  },
-  {
-    "id": "p-02a5f5",
-    "offset": 5679,
-    "text": "12. Show how it is sometimes possible to draw three different conclusions from the same premisses."
+    "id": "p-fe941d",
+    "offset": 1672,
+    "text": "From how many of these propositions can the original one be derived? And why not from all?"
   }
 ]

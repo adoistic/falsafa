@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-evolutionary-socialism-3ea1cc",
+  "work_title": "Evolutionary Socialism",
+  "chapter_number": 1,
+  "chapter_title": "Preface",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a6adcb07-2633-5e53-b4ed-7969e3a44d5f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2406,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1899/evsoc/preface.htm"
+    }
+  ]
+}

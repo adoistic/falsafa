@@ -4,7 +4,7 @@ work_slug: "james-bryce-the-holy-roman-empire-ea9074"
 work_title: The Holy Roman Empire
 author_name: James Bryce
 chapter_number: 1
-chapter_title: PREFACE TO THE EDITION OF 1904
+chapter_title: Preface to the Edition of 1904
 chapter_slug: "01-preface-to-the-edition-of-1904"
 variant_id: "29957964-2564-5757-a53c-eebe909f700e"
 content_type: translation

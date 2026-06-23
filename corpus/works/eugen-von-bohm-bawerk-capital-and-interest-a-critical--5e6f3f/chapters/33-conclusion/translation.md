@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 21279
+word_count: 21255
 source_url: "https://oll.libertyfund.org/titles/smart-capital-and-interest-a-critical-history-of-economic-theory"
 translator: Online Library of Liberty edition
 ---
@@ -112,7 +112,7 @@ Above all, the works of Endemann on the canon doctrine of economics, Die nationa
 
 E.g. the prohibition of interest by the Mosaic Code, which, however, only forbade lending at interest between Jews, not lending by Jews to strangers, Exodus xxii. 25;Leviticus xxv. 35-37;Deuteronomy xxiii. 19, 20. In Rome, after the Twelve Tables had permitted an Undarum Foenus, the taking of interest between Roman citizens was entirely forbidden by the Lex Genucia, B.C. 322. Later, by the Lex Sempronia and the Lex Gabinia, the prohibition was extended to Socii and to those doing business with provincials. See also Knies, Der Kredit, part i. p. 328, etc., and the writers quoted there.
 
-I may append some of the passages oftenest referred to. Plato in the Laws, p. 742, says: "No one shall deposit money with another whom he does not trust as a friend, nor shall he lend money upon interest." Aristotle, Nichomachean Ethics, iv. § 1: "Such are all they who ply illiberal trades; as those, for instance, who keep houses of ill-fame, and all persons of that class; and usurers who lend out small sums at exorbitant rates: for all these take from improper sources, and take more than they ought." Cicero, De Officiis, ii. at end: "Ex quo genere comparationis illud est Catonis senis:a quo cum quaereretur, quid maxime in re familiari expediret, respondit, bene pascere. Quid secundum?Satis bene pascere. Quid tertium?Male pascere. Quid quantum?Arare.... Et, cum ille, qui quaesierat, dixisset, quid foenerari?Tum Cato, quid hominem, inquit, occidere?"Cato, De Re Rustica:"Majores nostri sic habuerunt et ita in legibus posuerunt, furem dupli condemnare, foeneratorem quadrupli. Quanto pejorem civem existimarunt foeneratorem quam furem, hinc licet existimari." Plautus, Mostellaria, Act iii. scene 1:"Videturne obsecro hercle idoneus, Danista qui sit? genus quod improbissimum est.... Nullum edepol hodie genus est hominum tetrius, nec minus bono cum jure quam Danisticum." Seneca, De Beneficiis, vii. 10:"Quid enim ista sunt, quid foenus et calendarium et usura, nisi humanae cupiditatis extra naturam quaesita nomina?... quid sunt istae tabellae, quid computationes, et venale tempus et sanguinolentae centesimae?voluntaria mala ex constitutione nostra pendentia, in quibus nihil est, quod subici oculis, quod teneri manu possit, inanis avaritiae somnia."
+I may append some of the passages oftenest referred to. Plato in the Laws, p. 742, says: "No one shall deposit money with another whom he does not trust as a friend, nor shall he lend money upon interest." Aristotle, Nichomachean Ethics, iv. 1: "Such are all they who ply illiberal trades; as those, for instance, who keep houses of ill-fame, and all persons of that class; and usurers who lend out small sums at exorbitant rates: for all these take from improper sources, and take more than they ought." Cicero, De Officiis, ii. at end: "Ex quo genere comparationis illud est Catonis senis:a quo cum quaereretur, quid maxime in re familiari expediret, respondit, bene pascere. Quid secundum?Satis bene pascere. Quid tertium?Male pascere. Quid quantum?Arare.... Et, cum ille, qui quaesierat, dixisset, quid foenerari?Tum Cato, quid hominem, inquit, occidere?"Cato, De Re Rustica:"Majores nostri sic habuerunt et ita in legibus posuerunt, furem dupli condemnare, foeneratorem quadrupli. Quanto pejorem civem existimarunt foeneratorem quam furem, hinc licet existimari." Plautus, Mostellaria, Act iii. scene 1:"Videturne obsecro hercle idoneus, Danista qui sit? genus quod improbissimum est.... Nullum edepol hodie genus est hominum tetrius, nec minus bono cum jure quam Danisticum." Seneca, De Beneficiis, vii. 10:"Quid enim ista sunt, quid foenus et calendarium et usura, nisi humanae cupiditatis extra naturam quaesita nomina?... quid sunt istae tabellae, quid computationes, et venale tempus et sanguinolentae centesimae?voluntaria mala ex constitutione nostra pendentia, in quibus nihil est, quod subici oculis, quod teneri manu possit, inanis avaritiae somnia."
 
 See also Knies, Der Kredit, i. p. 330, etc.
 
@@ -256,7 +256,7 @@ I quote from the collected edition of Locke's works, London, 1777, vol. ii. p. 2
 
 In other places (e.g. p. 4) Locke calls interest a price for the "hire of money."
 
-Of Civil Government, vol. ii. chap. v. § 40. See also Roscher, p. 95, etc.
+Of Civil Government, vol. ii. chap. v. 40. See also Roscher, p. 95, etc.
 
 Inquiry into the Principles of Political Economy, 1767, vol ii. book iv. part i. chap. viii. p. 137.
 
@@ -290,7 +290,7 @@ Essai Politique sur le Commerce, ebenda p. 742.
 
 Esprit des Lois, xxii.
 
-The passage has been quoted by Rizy; by Turgot, Mémoire sur les Prêts d'Argent, § 26; and also by Knies, Kredit, part i. p. 347. It runs thus: "It is a fair claim that the values given in the case of a contract which is not gratuitous should be equal on either side, and that no party should give more than he has received, or receive more than he has given. Everything, therefore, that the lender may demand from the borrower over and above the principal sum, he demands over and above what he has given; for, if he get repayment of the principal sum, he receives the exact equivalent of what he gave. For things that can be used without being destroyed a hire may certainly be demanded, because, this use being separable at any moment (in thought at least) from the things themselves, it can be priced; it has a price distinct from the thing. So that, if I have given a thing of this sort to any one for his use, I am able to demand the hire, which is the price of the use that I have allowed him in it beyond the restitution of the thing itself, the thing having never ceased to be my property.
+The passage has been quoted by Rizy; by Turgot, Mémoire sur les Prêts d'Argent, 26; and also by Knies, Kredit, part i. p. 347. It runs thus: "It is a fair claim that the values given in the case of a contract which is not gratuitous should be equal on either side, and that no party should give more than he has received, or receive more than he has given. Everything, therefore, that the lender may demand from the borrower over and above the principal sum, he demands over and above what he has given; for, if he get repayment of the principal sum, he receives the exact equivalent of what he gave. For things that can be used without being destroyed a hire may certainly be demanded, because, this use being separable at any moment (in thought at least) from the things themselves, it can be priced; it has a price distinct from the thing. So that, if I have given a thing of this sort to any one for his use, I am able to demand the hire, which is the price of the use that I have allowed him in it beyond the restitution of the thing itself, the thing having never ceased to be my property.
 
 "It is not the same, however, with those objects that are known to lawyers as fungible goods—things that are consumed in the using. For since, in the using, these are necessarily destroyed, it is impossible in regard to them to imagine a use of the thing as distinct from the thing itself, and as having a price distinct from the thing itself. From this it follows that one cannot make over to another the using of a thing without making over to him wholly and entirely the thing itself, and transferring to him the property in it. If I lend you a sum of money for your use under the condition of paying me back as much again, then you receive from me simply that sum of money, and nothing more. The use that you will make of this sum of money is included in the right of property that you acquire in this sum. There is nothing that you have received outside of the sum of money. I have given you this sum, and nothing but this sum. I can therefore ask you to give me back nothing more than this amount lent, without being unjust; for justice would have it that only that should be claimed which was given."
 
@@ -328,9 +328,9 @@ The outward want of form in Turgot's explanation of interest has led a usually e
 
 See the chapter on Henry George's Later Fructification theory.
 
-Usually the rent of land is somewhat less than interest on the price paid. But this circumstance, fully explained by Turgot (Réflexions, § 84), has no influence at all on the principle, and may here be simply neglected.
+Usually the rent of land is somewhat less than interest on the price paid. But this circumstance, fully explained by Turgot (Réflexions, 84), has no influence at all on the principle, and may here be simply neglected.
 
-"If four bushels of wheat, the net product of an arpent of land, be worth six sheep, the arpent which produced them might have been given for a certain value—a greater value of course, but always easy to determine in the same manner as the price of all other commodities, i.e. first by discussion between the two contracting parties, and afterwards by the price current established by the competition of those who wish to exchange lands against cattle, and of those who wish to give cattle to get lands (§ 57). It is evident, again, that this price, or this number of years' purchase, ought to vary according as there are more or less people who wish to sell or buy land, just as the price of all other commodities varies by reason of the different proportion between supply and demand" (§ 58).
+"If four bushels of wheat, the net product of an arpent of land, be worth six sheep, the arpent which produced them might have been given for a certain value—a greater value of course, but always easy to determine in the same manner as the price of all other commodities, i.e. first by discussion between the two contracting parties, and afterwards by the price current established by the competition of those who wish to exchange lands against cattle, and of those who wish to give cattle to get lands ( 57). It is evident, again, that this price, or this number of years' purchase, ought to vary according as there are more or less people who wish to sell or buy land, just as the price of all other commodities varies by reason of the different proportion between supply and demand" ( 58).
 
 "In exchanging the complete manufacture either for money, for labour, or for other goods, over and above what may be sufficient to pay the price of the materials and the wages of the workmen, something must be given for the profits of the undertaker of the work, who hazards his stock in the adventure.... He could have no interest to employ them unless he expected from the sale of their work something more than what was sufficient to replace his stock to him; and he could have no interest to employ a great stock rather than a small one unless his profits were to bear some proportion to the extent of his stock" (M'Culloch's edition of 1863, p. 22). The second passage runs: "And who would have no interest to employ him unless he was to share in the produce of his labour, or unless his stock was to be replaced to him with a profit" (p. 30).
 
@@ -344,7 +344,7 @@ Book ii. chap. iii.
 
 Book i. chap. vi. The sentence was written primarily about landowners, but in the whole chapter interest on capital and rent of land are treated as parallel as against wages of labour.
 
-Handbuch der Staatswirthschaft, Berlin, 1796, particularly §§ 8 and 23. Even his later Abhandlungen die Elemente des Nationalreichthums und die Staatswirthschaft betreffend (Göttingen, 1806) does not take an independent view of our subject.
+Handbuch der Staatswirthschaft, Berlin, 1796, particularly 8 and 23. Even his later Abhandlungen die Elemente des Nationalreichthums und die Staatswirthschaft betreffend (Göttingen, 1806) does not take an independent view of our subject.
 
 Ueber Nationalindustrie und Staatswirthschaft, 1800-1804 particularly pp. 82, 142.
 
@@ -358,7 +358,7 @@ Staatswissenschaften im Lichte unserer Zeit, part ii. Leipzig, 1823, p. 90. Here
 
 Theorie des Handels, Göttingen, 1831.
 
-Handbuch der Staatswirthschaft, Berlin, 1808, §§ 110 and 120. See also § 129, where even contract "rents" are no better explained, but simply spoken of as facts. Schmalz's other writings are not more instructive.
+Handbuch der Staatswirthschaft, Berlin, 1808, 110 and 120. See also 129, where even contract "rents" are no better explained, but simply spoken of as facts. Schmalz's other writings are not more instructive.
 
 Die Oekonomie der menschlichen Gesellschaften und das Finanzwesen, Stuttgart, 1845, p. 19.
 
@@ -368,19 +368,19 @@ In Lotz's former work, the Revision der Grundbegriffe, 1811-14, there are some r
 
 Grundsätze der National-Oekonomie, Halle, 1805; third edition, Halle, 1825. I quote from the latter.
 
-§§ 211, 711, 765, particularly marked in sect; 769.
+211, 711, 765, particularly marked in sect; 769.
 
 Grundsätze der ökonomisch-politischen oder Kameralwissenschaften, second edition, Tübingen, 1820.
 
 Die Lehre von der Volkswirthschaft, Halle, 1843.
 
-Volkswirthschaftslehre, vol. i. § 222. Similarly, but more generally, vol. i. § 138.
+Volkswirthschaftslehre, vol. i. 222. Similarly, but more generally, vol. i. 138.
 
 London, 1817, third edition, 1821. I quote from M'Culloch's edition. John Murray, 1886.
 
 The most complete of these runs thus: "For no one accumulates but with a view to make his accumulation productive, and it is only when so employed that it operates on profits. Without a motive there could be no accumulation, and consequently such a state of prices" (as show no profit to the capitalist) "could never take place. The farmer and manufacturer can no more live without profit than the labourer without wages. Their motive for accumulation will diminish with every diminution of profit, and will cease altogether when their profits are so low as not to afford them an adequate compensation for their trouble, and the risk which they must necessarily encounter in employing their capital productively" (chap. vi. p. 68; similarly p. 67; chap. xxi. p. 175, and other places).
 
-Ricardo puts the same causal relation very strongly in chap. i. § 4, when he gives the height of the "value of labour" as a secondary cause of the value of goods, in addition to the quantity of labour expended in the production,—having in his eye the influence exerted on the value of goods by the capitalist's claims to profit. The height of profit is to him only a dependent, secondary cause, in place of which he prefers to put the final cause of the whole relation, and this final cause he finds in the varying height of wages.
+Ricardo puts the same causal relation very strongly in chap. i. 4, when he gives the height of the "value of labour" as a secondary cause of the value of goods, in addition to the quantity of labour expended in the production,—having in his eye the influence exerted on the value of goods by the capitalist's claims to profit. The height of profit is to him only a dependent, secondary cause, in place of which he prefers to put the final cause of the whole relation, and this final cause he finds in the varying height of wages.
 
 Chap. vi, p. 67 and passim.
 
@@ -388,9 +388,9 @@ Chap. vi, towards the end, p. 70.
 
 The careful reader will easily convince himself that the result remains the same, if we vary the form of the question, and look at the value instead of the amount of the product and wages. In that case, indeed, the value of the return remains fixed (see p. 90 [Book I, Chapter V. pars. I.V.29-31.—Econlib Ed.]), while wages are an elastic quantity, and the proposition expressed in the text, changed only in expression, not in reality, will run thus: cultivation must call a halt at that point where the wages of labour, increased by the increasing costs of cultivation, leaves over to the capitalist from the value of the product no more than enough to satisfy his claims on profit.
 
-Chap. i. § 1.
+Chap. i. 1.
 
-Chap. i. §§ 4, 5.
+Chap. i. 4, 5.
 
 So also Bernhardi, Kritik der Gründe, etc., 1849, p. 310, etc.
 
@@ -440,7 +440,7 @@ Principes d'Economie Politique, Paris, 1801.
 
 "The earth has only been cultivated because its product was able, not only to compensate the annual labour of cultivation, but also to recompense the advances of labour which its first and original cultivation cost. This superfluity it is which forms the rent of land" (p. 5).
 
-Grundlagen der National-Oekonomie, tenth edition, § 189.
+Grundlagen der National-Oekonomie, tenth edition, 189.
 
 It would be very easy to extend the above list. Thus physical productivity might be shown to contain two varieties. The first,—the only one considered in the text,—is where the capitalist process of production on the whole (that is, the preparatory production of the capital itself, and the production by the aid of the capital when made) has led to the production of more goods. But it may also happen that the first phase of the total process, the formation of capital, shows so large a deficit that the total capitalist production ends by showing no surplus; while, all the same, the second phase taken by itself, the production by aid of the capital, produces a surplus in goods. Suppose, e.g. that the boat and net which last 100 days had required 2000 days for their production, then the fisher would receive for the use of boat and net which have cost in all 2100 days of labour, only 100 × 30 = 3000 fish, while with the hand alone he could have caught in the same time 2100 × 30 = 6300 fish. On the other hand, if we look at the second phase by itself, then the capital, now in existence, of course shows itself "productive"; with its help in 300 days the fisher catches 3000 fish; without its help, only 300. If, on that account, we speak, even in this case, of a productive surplus result, and of a productive power of capital—as, in fact, we usually do—it is not without justification; only the expression has quite a different and a much weaker meaning. Further, with the recognition of the productive power of capital is often bound up the additional meaning, that capital is an independent productive power; not only the proximate cause of a productive effect, traceable in the last resort to the labour which produced the capital, but an element entirely independent of labour.... I have intentionally not gone into these varieties in the text, as I do not wish to burden the reader with distinctions of which, in the meantime at least, I do not intend to make any use.
 
@@ -466,7 +466,7 @@ Cours, iv. p. 64.
 
 In this illustration, besides the expenditure for labour and use of land, I do not introduce any separate expenditure for substance of capital consumed, because, according to Say, that entirely resolves itself into expenditure for elementary productive services.
 
-Book ii. chap. viii. § 2, p. 395, note 1.
+Book ii. chap. viii. 2, p. 395, note 1.
 
 Book i. chap. iv. at end.
 
@@ -506,7 +506,7 @@ Principles of Political Economy, London, 1820, third edition; Pickering, 1836.
 
 Principles, p. 84, and many other places; Definitions in Political Economy Nos. 40, 41.
 
-A note which may be found in Ricardo's Principles at the end of § 6, chap. i. (p. 30 of 1871 edition), has sometimes given the impression that Ricardo had by that time stated the above proposition explicitly. This, however, is not the case. He only suggested the idea to Malthus, who put it into words. See Wollenborg, Intorno al costo relativo di Produzione, Bologna, 1882, p. 26.
+A note which may be found in Ricardo's Principles at the end of 6, chap. i. (p. 30 of 1871 edition), has sometimes given the impression that Ricardo had by that time stated the above proposition explicitly. This, however, is not the case. He only suggested the idea to Malthus, who put it into words. See Wollenborg, Intorno al costo relativo di Produzione, Bologna, 1882, p. 26.
 
 Lehre vom Unternehmergewinn, p. 24.
 
@@ -592,7 +592,7 @@ See also p. 560: "The uses of capital are therefore a ground of the determinatio
 
 Under capital Hermann includes land.
 
-E.g. Roscher, § 183. Roesler, who accepts Hermann's results, although he ascribes them to somewhat different causes, is the only exception.
+E.g. Roscher, 183. Roesler, who accepts Hermann's results, although he ascribes them to somewhat different causes, is the only exception.
 
 A note which occurs here in the German edition is omitted by the author's instructions.—W. S.
 
@@ -694,7 +694,7 @@ Grundlagen, tenth edition, p. 401, etc.
 
 The common German word is vertretbar, which might be loosely translated here by "representative" or "replaceable." But the word "fungible" is perhaps worth adopting in English economics.—W. S.
 
-See L. 31, Dig. loc. 19, 2, and L. 25, § 1, Dig. dep. 16, 3.
+See L. 31, Dig. loc. 19, 2, and L. 25, 1, Dig. dep. 16, 3.
 
 Goldschmidt, Handbuch des Handelsrechtes, second edition, Stuttgart, 1883, vol. ii. part. i. p. 26 in the note.
 
@@ -792,7 +792,7 @@ It is much to be regretted that of Wagner's theoretical political economy the pa
 
 As appendix to this chapter I should like, shortly, to refer to J.G. Hoffmann. He also interprets interest as wage for certain labours. "Even those rents," he says, meaning rents from capital, "are only a wage for labour, and indeed for labour of great public benefit; for with the obtaining of this wage is bound up, essentially and peculiarly, the duty of free activity in the public welfare, in science and skill, in everything that lightens, ennobles, and adorns human life" (Ueber die wahre Natur und Bestimmung der Renten aus Boden—und Kapitaleigenthum, Sammlung der kleiner Schriften staatswirthschaftlichen Inhalts, Berlin, 1843, p. 566). As regards Hoffmann, even more than as regards the Katheder Socialists, we are justified in doubting whether the words quoted were meant as a theoretic explanation of interest. If they were so, his theory is unquestionably more inadequate than all the other Labour theories; if they were not, it lies outside my task to question their justification.
 
-Civil Government, book ii. chap. v. § 40: "Nor is it so strange, as perhaps before consideration it may appear, that the property of labour should be able to overbalance the community of land; for it is labour indeed that put the difference of value on everything; and let any one consider what the difference is between an acre of land planted with tobacco or sugar, sown with wheat or barley, and an acre of the same land lying in common without any husbandry upon it, and he will find that the improvement of labour makes the far greater part of the value. I think it will be but a very modest computation to say that of the products of the earth useful to the life of man nine-tenths are the effect of labour, nay, if we will rightly estimate things as they come to our use, and cast up the several expenses about them, what in them is purely owing to nature, and what to labour, we shall find that in most of them ninety-nine hundredths are wholly to be put on the account of labour."
+Civil Government, book ii. chap. v. 40: "Nor is it so strange, as perhaps before consideration it may appear, that the property of labour should be able to overbalance the community of land; for it is labour indeed that put the difference of value on everything; and let any one consider what the difference is between an acre of land planted with tobacco or sugar, sown with wheat or barley, and an acre of the same land lying in common without any husbandry upon it, and he will find that the improvement of labour makes the far greater part of the value. I think it will be but a very modest computation to say that of the products of the earth useful to the life of man nine-tenths are the effect of labour, nay, if we will rightly estimate things as they come to our use, and cast up the several expenses about them, what in them is purely owing to nature, and what to labour, we shall find that in most of them ninety-nine hundredths are wholly to be put on the account of labour."
 
 Considerations of the Consequences of the Lowering of Interest, 1691, p. 24. See above, p. 45. [Book I, Chapter II, par. I.II.57-59.—Econlib Ed.]
 
@@ -1008,13 +1008,13 @@ P. 522.
 
 Kleine Schriften staatswirthschaftlichen Inhalts, Berlin, 1843, p. 566. See above, p. 312. [Book V, Chapter I, note c41.—Econlib Ed.]
 
-Principles, book iii, chap. iv. §§ 1, 4, 6; chap. vi. § 1, No. 8, etc.
+Principles, book iii, chap. iv. 1, 4, 6; chap. vi. 1, No. 8, etc.
 
-Book i. chap. vii. § 1.
+Book i. chap. vii. 1.
 
-Book v. § 1.
+Book v. 1.
 
-Book iii. chap. iv. § 4.
+Book iii. chap. iv. 4.
 
 See above, p. 206. [Book III, Chapter II, par. III.II.57-58.—Econlib Ed.]
 

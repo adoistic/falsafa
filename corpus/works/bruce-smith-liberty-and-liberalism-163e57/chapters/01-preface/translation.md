@@ -4,7 +4,7 @@ work_slug: "bruce-smith-liberty-and-liberalism-163e57"
 work_title: Liberty and Liberalism
 author_name: Bruce Smith
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "7e376485-5c57-53f6-89f1-1cd8b595d3e0"
 content_type: translation

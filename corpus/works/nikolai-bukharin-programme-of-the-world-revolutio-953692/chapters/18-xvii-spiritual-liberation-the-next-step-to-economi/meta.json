@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-programme-of-the-world-revolutio-953692",
+  "work_title": "Programme of the World Revolution",
+  "chapter_number": 18,
+  "chapter_title": "XVII. Spiritual Liberation – The Next Step to Economic Liberation",
+  "chapter_slug": "18-xvii-spiritual-liberation-the-next-step-to-economi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "956616a8-851f-56a4-9c56-858c75bb3998",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3199,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1918/worldrev/ch17.html"
+    }
+  ]
+}

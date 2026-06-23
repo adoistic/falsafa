@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 6,
+  "chapter_title": "§ 9 Contradictions of production under capitalism",
+  "chapter_slug": "06-9-contradictions-of-production-under-capitalism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2308901-653e-53ad-a545-2243e784b4c6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 568,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/01.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 45,
+  "chapter_title": "IX. Some Elaborations on the Basis of Pigou's Analysis",
+  "chapter_slug": "45-ix-some-elaborations-on-the-basis-of-pigous-analys",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "06cd8137-ef09-514d-8329-9968452174b1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2966,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

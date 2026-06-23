@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 57,
+  "chapter_title": "LVI. Old and New Tables.",
+  "chapter_slug": "57-lvi-old-and-new-tables",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ed386a75-d5de-53cc-bfde-3a96d70bd7f7",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 4872,
+      "paragraph_count": 234,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d316afbb-0bfb-511a-9515-c6334c55714d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5279,
+      "paragraph_count": 234,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

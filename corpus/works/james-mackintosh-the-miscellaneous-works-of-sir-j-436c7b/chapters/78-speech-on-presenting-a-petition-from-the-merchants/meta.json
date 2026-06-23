@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 78,
+  "chapter_title": "Speech on Presenting a Petition from the Merchants of London for the Recognition of the Independent States Established I",
+  "chapter_slug": "78-speech-on-presenting-a-petition-from-the-merchants",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "86dbe605-8e07-5fcc-8df2-717a96ad4b26",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13597,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-right-of-nations-to-self-det-5fba7c",
+  "work_title": "The Right of Nations to Self-Determination",
+  "chapter_number": 6,
+  "chapter_title": "6. Norway’s Secession from Sweden",
+  "chapter_slug": "06-6-norway-s-secession-from-sweden",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37bd8107-d685-5ad6-a683-b7d5761bf489",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1976,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1914/self-det/ch06.htm"
+    }
+  ]
+}

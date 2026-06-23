@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-b-boudin-the-theoretical-system-of-karl-m-829bd6",
+  "work_title": "The Theoretical System of Karl Marx in the Light of Recent Criticism",
+  "chapter_number": 19,
+  "chapter_title": "Appendix II",
+  "chapter_slug": "19-appendix-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f07956d-8065-5041-bc14-b6fbd7de2e27",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2216,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/boudin/1907/02/system/appendix-2.html"
+    }
+  ]
+}

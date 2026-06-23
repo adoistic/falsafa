@@ -1,12 +1,32 @@
 [
   {
-    "id": "p-4d942c",
+    "id": "p-1f9bfc",
     "offset": 0,
-    "text": "The Dignity of Civil History and the Obstacles it has to encounter"
+    "text": "Division of Civil History into Memoirs, Antiquities, and Perfect History"
   },
   {
-    "id": "p-8e614c",
-    "offset": 68,
-    "text": "CIVIL history, particularly so called, is of prime dignity and authority among human writings; as the examples of antiquity, the revolutions of things, the foundations of civil prudence, with the names and reputations of men, are committed to its trust. But it is attended with no less difficulty than dignity; for it is a work of great labor and judgment, to throw the mind back upon things past, and store it with antiquity; diligently to search into, and with fidelity and freedom relate, 1, the commotions of times; 2, the characters of persons; 3, the instability of counsels; 4, the courses of actions; 5, the bottoms of pretences; 6, the secrets of state; and 7, to set all this to view in proper and suitable language: especially as ancient transactions are uncertain, and late ones exposed to danger. Whence such a civil history is attended with numerous defects; the greater part of historians writing little more than empty and vulgar narrations, and such as are really a disgrace to history; while some hastily draw up particular relations and trivial memoirs, some only run over the general heads of actions; and others descend to the minutest Edition: current; Page: [103] particular, which have no relation to the principal action. These, in compliance with their genius, boldly invent many of the things they write; while those stamp the image of their own affections upon what they deliver; thus preserving fidelity to their party, but not to things themselves. Some are constantly inculcating politics, in which they take most pleasure, and seek all occasions of exhibiting themselves, thus childishly interrupting the thread of their history; while others are too tedious, and show but little judgment in the prolixity of their speeches, harangues, and accounts of actions; so that, in short, nothing is so seldom found among the writings of men as true and perfect civil history."
+    "id": "p-086a05",
+    "offset": 74,
+    "text": "THIS civil history is of three kinds, and bears resemblance to three kinds of pictures; viz., the unfinished, the finished, and the defaced: thus civil history, which is the picture of times and things, appears in memoirs, just history, and antiquities; but memoirs are history begun, or the first strokes and materials of it; and antiquities are history defaced, or remnants that have escaped the shipwreck of time."
+  },
+  {
+    "id": "p-4a4232",
+    "offset": 492,
+    "text": "Memoirs, or memorials, are of two kinds; whereof the one may be termed commentaries, the other registers. In commentaries are set down naked events and actions in sequence, without the motives, designs, counsels, speeches, pretexts, occasions, etc.; for such is the true nature of a commentary, though Cæsar, in modesty mixed with greatness, called the best history in the world a commentary."
+  },
+  {
+    "id": "p-9e8f9b",
+    "offset": 886,
+    "text": "Registers are of two kinds; as either containing the titles of things and persons in order of time, by way of calendars and chronicles, or else after the manner of journals, preserving the edicts of princes, decrees of council, judicial proceedings, declarations, letters of state, and public orations, without continuing the thread of the narration."
+  },
+  {
+    "id": "p-e86d35",
+    "offset": 1238,
+    "text": "Antiquities are the wrecks of history, wherein the memory of things is almost lost; or such particulars as industrious persons, with exact and scrupulous diligence, can any way collect from genealogies, calendars, titles, inscriptions, monuments, coins, names, etymologies, proverbs, traditions, archives, instruments, fragments of public and private history, scattered passages of books no way historical, etc.; by which means something is recovered from the deluge of time. This is a laborious work; yet acceptable to mankind, as carrying with it a kind of reverential awe, and deserves to come in the place of those fabulous and fictitious origins of nations we abound with; though it has the less authority, as but few have examined and exercised a liberty of thought about it."
+  },
+  {
+    "id": "p-38ac0e",
+    "offset": 2021,
+    "text": "In these kinds of imperfect history, no deficiency need be noted, they being of their own nature imperfect: but epitomes of history are the corruption and moths that have fretted and corroded many sound and excellent bodies of history, and reduced them to base and unprofitable dregs; whence all men of sound judgment declare the use of them ought to be banished."
   }
 ]

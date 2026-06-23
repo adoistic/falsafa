@@ -4,7 +4,10 @@ slug: "ammianus-marcellinus-res-gestae-a447ef"
 title: Res Gestae
 author:
   name: Ammianus Marcellinus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Greek-born Roman soldier and historian from Antioch, an officer under the emperor Julian. The Res Gestae took up Roman history where Tacitus left off and is the last major surviving Latin narrative of the empire."
+  birth_year: 330
+  death_year: 391
+  nationality: Roman
 era: Late Antiquity
 genre: Classics
 language: Latin

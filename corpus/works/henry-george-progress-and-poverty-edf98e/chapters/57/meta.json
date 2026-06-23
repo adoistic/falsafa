@@ -2,7 +2,7 @@
   "work_slug": "henry-george-progress-and-poverty-edf98e",
   "work_title": "Progress and Poverty",
   "chapter_number": 57,
-  "chapter_title": "Chapter I The Current Theory of Human Progress—Its Insufficiency",
+  "chapter_title": "Chapter V The Central Truth",
   "chapter_slug": "57",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 4271,
-      "paragraph_count": 32,
+      "word_count": 2825,
+      "paragraph_count": 23,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
     }

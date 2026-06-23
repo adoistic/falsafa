@@ -4,7 +4,7 @@ slug: "new-testament-1-timothy-61120c"
 title: 1 Timothy
 author:
   name: New Testament
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Anonymous and pseudonymous Greek-language collection of gospels, letters, and apocalyptic writings produced by early Christian communities. The texts gathered into a single canon over the first centuries and became the scriptural foundation of Christianity."
 era: Imperial
 genre: Classics
 language: Greek

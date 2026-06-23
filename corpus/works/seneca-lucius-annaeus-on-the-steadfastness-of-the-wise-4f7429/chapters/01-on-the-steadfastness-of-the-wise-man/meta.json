@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-on-the-steadfastness-of-the-wise-4f7429",
+  "work_title": "On the Steadfastness of the Wise Man",
+  "chapter_number": 1,
+  "chapter_title": "On the Steadfastness of the Wise Man",
+  "chapter_slug": "01-on-the-steadfastness-of-the-wise-man",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "10b5dec1-0d8f-591e-abe8-d2f6994328d1",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5506,
+      "paragraph_count": 83,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0255.stoa009"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ce4f16de-9716-5e05-af0a-d13e2f301d2b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8539,
+      "paragraph_count": 83,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

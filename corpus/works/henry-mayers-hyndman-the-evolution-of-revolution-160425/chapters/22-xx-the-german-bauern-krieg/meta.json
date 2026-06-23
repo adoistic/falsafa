@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 22,
+  "chapter_title": "XX. The German Bauern Krieg",
+  "chapter_slug": "22-xx-the-german-bauern-krieg",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d938d701-60ac-5a0a-bf3e-fd04a6c91158",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3423,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter20.htm"
+    }
+  ]
+}

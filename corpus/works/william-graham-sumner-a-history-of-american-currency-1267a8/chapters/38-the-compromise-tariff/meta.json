@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 38,
+  "chapter_title": "The Compromise Tariff.",
+  "chapter_slug": "38-the-compromise-tariff",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1fc864ea-96cf-561e-9f2a-f6449f43ccd7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 341,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

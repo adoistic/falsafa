@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 18,
+  "chapter_title": "Preface to Volume I, Part 2.",
+  "chapter_slug": "18-preface-to-volume-i-part-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "81ef7aa9-7555-5ff5-887a-9e7d911cf73c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 290,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch09.htm"
+    }
+  ]
+}

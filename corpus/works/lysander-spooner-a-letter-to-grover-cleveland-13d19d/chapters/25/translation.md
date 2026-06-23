@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1734
+word_count: 1726
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
 
-But perhaps the most absolute proof that our national lawmakers and judges are as regardless of all constitutional, as they are of all natural, law, and that their Edition: current; Page: [96] statutes and decisions are as destitute of all constitutional, as they are of all natural, authority, is to be found in the fact that these lawmakers and judges have trampled upon, and utterly ignored, certain amendments to the constitution, which had been adopted, and (constitutionally speaking) become authoritative, as early as 1791; only two years after the government went into operation.
+But perhaps the most absolute proof that our national lawmakers and judges are as regardless of all constitutional, as they are of all natural, law, and that their statutes and decisions are as destitute of all constitutional, as they are of all natural, authority, is to be found in the fact that these lawmakers and judges have trampled upon, and utterly ignored, certain amendments to the constitution, which had been adopted, and (constitutionally speaking) become authoritative, as early as 1791; only two years after the government went into operation.
 
 If these amendments had been obeyed, they would have compelled all congresses and courts to understand that, if the government had any constitutional powers at all, they were simply powers to protect men’s natural rights, and not to destroy any of them.
 
@@ -54,7 +54,7 @@ This amendment, from the remarkable circumstances under which it was proposed an
 
 But whatever impression it may have made upon the public men of that time, its authority and power were wholly lost upon their successors; and probably, for at least eighty years, it has never been heard of, either in congress or the courts.
 
-John Marshall was perfectly familiar with all the circumstances, under which this, and the other nine amendments, were proposed and adopted. He was thirty-two years old (lacking seven days) when the constitution, as originally framed, was published (September 17, 1787); and he was a member of the Virginia convention that ratified it. He knew perfectly the objections that were raised to it, in that convention, on the ground of its inadequate guaranty of men’s natural rights. He knew with what force these objections were urged by some of the ablest members Edition: current; Page: [98] of the convention. And he knew that, to obviate these objections, the convention, as a body, without a dissenting voice, so far as appears, recommended that very stringent amendments, for securing men’s natural rights, be made to the constitution. And he knew further, that, but for these amendments being recommended, the constitution would not have been adopted by the convention.
+John Marshall was perfectly familiar with all the circumstances, under which this, and the other nine amendments, were proposed and adopted. He was thirty-two years old (lacking seven days) when the constitution, as originally framed, was published (September 17, 1787); and he was a member of the Virginia convention that ratified it. He knew perfectly the objections that were raised to it, in that convention, on the ground of its inadequate guaranty of men’s natural rights. He knew with what force these objections were urged by some of the ablest members of the convention. And he knew that, to obviate these objections, the convention, as a body, without a dissenting voice, so far as appears, recommended that very stringent amendments, for securing men’s natural rights, be made to the constitution. And he knew further, that, but for these amendments being recommended, the constitution would not have been adopted by the convention.
 
 The amendments proposed were too numerous to be repeated here, although they would be very instructive, as showing how jealous the people were, lest their natural rights should be invaded by laws made by congress. And that the convention might do everything in its power to secure the adoption of these amendments, it resolved as follows:
 

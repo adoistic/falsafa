@@ -1,0 +1,26 @@
+{
+  "work_slug": "georgi-plekhanov-anarchism-and-socialism-3fcdf0",
+  "work_title": "Anarchism and Socialism",
+  "chapter_number": 7,
+  "chapter_title": "Chapter VI. Bakounine – (Concluded)",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec9b2b29-0c83-542c-9744-6a6002e26b87",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3090,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/plekhanov/1895/anarch/ch06.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "a-v-dicey-lectures-on-the-relation-between-340c4e"
 work_title: Lectures on the Relation between Law and Public Opinion in England
 author_name: A. V. Dicey
 chapter_number: 1
-chapter_title: PREFACE TO THE FIRST EDITION
+chapter_title: Preface to the First Edition
 chapter_slug: "01-preface-to-the-first-edition"
 variant_id: "df177598-8fcf-50bd-a9c3-0e80d89ecb88"
 content_type: translation

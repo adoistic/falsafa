@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8"
 work_title: The Forgotten Man and Other Essays
 author_name: William Graham Sumner
 chapter_number: 9
-chapter_title: "CHAPTER II.: PROTECTIONISM EXAMINED ON ITS OWN GROUNDS"
+chapter_title: "Chapter II.: Protectionism Examined on Its Own Grounds"
 chapter_slug: 09
 variant_id: "d7143202-772d-5d42-8f9b-8456187ff079"
 content_type: translation

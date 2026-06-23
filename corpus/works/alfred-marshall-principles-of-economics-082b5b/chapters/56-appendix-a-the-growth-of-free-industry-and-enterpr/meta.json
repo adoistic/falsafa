@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 56,
+  "chapter_title": "Appendix a the Growth of Free Industry and Enterprise.",
+  "chapter_slug": "56-appendix-a-the-growth-of-free-industry-and-enterpr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f5154322-53ed-5385-bdef-5bc33f851e12",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12973,
+      "paragraph_count": 92,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "oscar-wilde-the-soul-of-man-under-socialism-d091e5",
+  "work_title": "The Soul of Man under Socialism",
+  "chapter_number": 1,
+  "chapter_title": "The Soul of Man under Socialism",
+  "chapter_slug": "01-the-soul-of-man-under-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8667d3c2-6dbe-5f24-a375-60a6e845699c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14396,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/wilde-oscar/soul-man/index.htm"
+    }
+  ]
+}

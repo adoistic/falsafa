@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7",
+  "work_title": "Memoirs of a Revolutionist",
+  "chapter_number": 13,
+  "chapter_title": "Part 2: The Corps of Pages, Section 1",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79200c05-eef6-5e1c-a4f7-8ca014fc0ab2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3896,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1899/memoirs-of-a-revolutionist/part-2-section-1.html"
+    }
+  ]
+}

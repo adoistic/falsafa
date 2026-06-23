@@ -4,7 +4,10 @@ slug: "hippocrates-de-alimento-7216f1"
 title: De alimento
 author:
   name: Hippocrates
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Physician of Cos and the name under which Greek medicine's founding texts travel. The Aphorisms attributed to him opened medical curricula from Alexandria to Salerno."
+  birth_year: -460
+  death_year: -370
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

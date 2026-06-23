@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-ethics-of-socialism-e57e6f",
+  "work_title": "The Ethics of Socialism",
+  "chapter_number": 13,
+  "chapter_title": "The Odd Trick",
+  "chapter_slug": "13-the-odd-trick",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e60912fd-9e68-5f5b-b6eb-1f842984f8a6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2603,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1893/ethics/12-trick.htm"
+    }
+  ]
+}

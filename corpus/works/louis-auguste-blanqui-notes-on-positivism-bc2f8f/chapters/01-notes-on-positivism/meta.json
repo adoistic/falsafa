@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-auguste-blanqui-notes-on-positivism-bc2f8f",
+  "work_title": "Notes on Positivism",
+  "chapter_number": 1,
+  "chapter_title": "Notes on Positivism",
+  "chapter_slug": "01-notes-on-positivism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "98e982ad-af2f-5e44-882d-c5c58dfc6009",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3869,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/blanqui/1869/positivism.htm"
+    }
+  ]
+}

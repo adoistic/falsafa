@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 130
-chapter_title: CHAPTER X.
+chapter_title: Chapter VIII. (3)
 chapter_slug: 130
 variant_id: "ebd2a19a-8ee6-5721-8bf4-c82e633e4a5e"
 content_type: translation
@@ -13,15 +13,25 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 262
+word_count: 747
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-The certainty of the foregoing argument.—The conclusion of the book.
+How, although the acts of Christ’s condescension which we speak of do not belong to his divinity, it yet seems improper to infidels that these things should be said of him even as a man, and why it appears to them that this man did not suffer death of his own will.
 
-I believe that I have shown by an argument which is not weak, but sufficiently cogent, that in my former Edition: current; Page: [170] book I proved the real existence of a being than which a greater cannot be conceived; and I believe that this argument cannot be invalidated by the validity of any objection. For so great force does the signification of this reasoning contain in itself, that this being which is the subject of discussion, is of necessity, from the very fact that it is understood or conceived, proved also to exist in reality, and to be whatever we should believe of the divine substance.
+The will of God ought to be a sufficient reason for us, when he does anything, though we cannot see why he does it. For the will of God is never irrational.
 
-For we attribute to the divine substance anything of which it can be conceived that it is better to be than not to be that thing. For example: it is better to be eternal than not eternal; good, than not good; nay, goodness itself, than not goodness itself. But it cannot be that anything of this nature is not a property of the being than which a greater is inconceivable. Hence, the being than which a greater is inconceivable must be whatever should be attributed to the divine essence.
+That is very true, if it be granted that God does wish the thing in question; but many will never allow that God does wish anything if it be inconsistent with reason.
 
-I thank you for your kindness both in your blame and in your praise for my book. For since you have commended so generously those parts of it which seem to you worthy of acceptance, it is quite evident that you have criticised in no unkind spirit those parts of it which seemed to you weak.
+What do you find inconsistent with reason, in our confessing that God desired those things which make up our belief with regard to his incarnation?
+
+This in brief: that the Most High should stoop to things so lowly, that the Almighty should do a thing with such toil.
+
+They who speak thus do not understand our belief. For we affirm that the Divine nature is beyond doubt impassible, and that God cannot at all be brought down from his exaltation, nor toil in anything which he wishes to effect. But we say that the Lord Jesus Christ is very God and very man, one person in two natures, and two natures in one person. When, therefore, we speak of God as enduring any humiliation or infirmity, we do not refer to the majesty of that nature, which cannot suffer; but to the feebleness of the human constitution which he assumed. And so there remains no ground of objection against our faith. For in this way we intend no debasement of the Divine nature, but we teach that one person is both Divine and human. In the incarnation of God there is no lowering of the Deity; but the nature of man we believe to be exalted.
+
+Be it so; let nothing be referred to the Divine nature, which is spoken of Christ after the manner of human weakness; but how will it ever be made out a just or reasonable thing that God should treat or suffer to be treated in such a manner, that man whom the Father called his beloved Son in whom he was well pleased, and whom the Son made himself? For what justice is there in his suffering death for the sinner, who was the most just of all men? What man, if he condemned the innocent to free the guilty, would not himself be judged worthy of condemnation? And so the matter seems to return to the same incongruity which is mentioned above. For if he could not save sinners in any other way than by condemning the just, where is his omnipotence? If, however, he could, but did not wish to, how shall we sustain his wisdom and justice?
+
+God the Father did not treat that man as you seem to suppose, nor put to death the innocent for the guilty. For the Father did not compel him to suffer death, or even allow him to be slain, against his will, but of his own accord he endured death for the salvation of men.
+
+Though it were not against his will, since he agreed to the will of the Father; yet the Father seems to have bound him, as it were, by his injunction. For it is said that Christ “humbled himself, being made obedient to the Father even unto death, and that the death of the cross. For which cause God also hath highly exalted him;” and that “he learned obedience from the things which he suffered;” and that God spared not his own Son, but gave him up for us all.” And likewise the Son says: “I came not to do my own will, but the will of him that sent me.” And when about to suffer, he says; “As the Father hath given me commandment, so I do.” Again: “The cup which the Father hath given me, shall I not drink it?” And, at another time: “Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as thou wilt.” And again: “Father, if this cup may not pass from me except I drink it, thy will be done.” In all these passages it would rather appear that Christ endured death by the constraint of obedience, than by the inclination of his own free will.

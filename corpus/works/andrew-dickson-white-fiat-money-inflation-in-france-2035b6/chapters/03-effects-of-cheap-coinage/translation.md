@@ -4,7 +4,7 @@ work_slug: "andrew-dickson-white-fiat-money-inflation-in-france-2035b6"
 work_title: Fiat Money Inflation in France
 author_name: Andrew Dickson White
 chapter_number: 3
-chapter_title: EFFECTS OF CHEAP COINAGE.
+chapter_title: Effects of Cheap Coinage.
 chapter_slug: "03-effects-of-cheap-coinage"
 variant_id: "c4f3db7c-d338-550a-a991-42a8fee243fb"
 content_type: translation
@@ -13,18 +13,18 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2267
+word_count: 2259
 source_url: "https://oll.libertyfund.org/titles/macaulay-fiat-money-inflation-in-france"
 translator: Online Library of Liberty edition
 ---
 
 From Macaulay’s History of England.
 
-Who suffer the most from the Debasement of the Currency?—The misgovernment of Charles and James, gross as it had been, had not prevented the common business of life from going steadily and prosperously on. While the honor and independence of the state were sold to a foreign power, while chartered rights were invaded, while fundamental laws were violated, hundreds of thousands of quiet, honest, and industrious families labored and traded, ate their meals, and lay down to rest in comfort and security. Whether Whigs or Tories, Protestants or Jesuits were uppermost, the grazier drove his beasts to market; the grocer weighed out his currants; the draper measured out his broadcloth; the hum of buyers and sellers was as loud as ever in the town; the harvest home was celebrated as joyously as ever in the hamlets; Edition: current; Page: [85] the cream overflowed the pails of Cheshire; the apple juice foamed in the presses of Herefordshire; the piles of crockery glowed in the furnaces of the Trent, and the barrows of coal rolled fast along the timber railways of the Tyne.
+Who suffer the most from the Debasement of the Currency?—The misgovernment of Charles and James, gross as it had been, had not prevented the common business of life from going steadily and prosperously on. While the honor and independence of the state were sold to a foreign power, while chartered rights were invaded, while fundamental laws were violated, hundreds of thousands of quiet, honest, and industrious families labored and traded, ate their meals, and lay down to rest in comfort and security. Whether Whigs or Tories, Protestants or Jesuits were uppermost, the grazier drove his beasts to market; the grocer weighed out his currants; the draper measured out his broadcloth; the hum of buyers and sellers was as loud as ever in the town; the harvest home was celebrated as joyously as ever in the hamlets; the cream overflowed the pails of Cheshire; the apple juice foamed in the presses of Herefordshire; the piles of crockery glowed in the furnaces of the Trent, and the barrows of coal rolled fast along the timber railways of the Tyne.
 
 But when the great instrument of exchange became thoroughly deranged, all trade, all industry, were smitten as with a palsy. The evil was felt daily and hourly in almost every place and by almost every class—in the dairy and on the thrashing floor, by the anvil and by the loom, on the billows of the ocean and in the depths of the mine. Nothing could be purchased without a dispute. Over every counter there was wrangling from morning to night. The workman and his employer had a quarrel as regularly as the Saturday came round. On a fair day or a market day the clamors, the reproaches, the taunts, the curses, were incessant; and it was well if no booth was overturned and no head broken.
 
-No merchant would contract to deliver goods without making some stipulation about the quality of the coin in which he was to be paid. Even men of business were often bewildered by the confusion into which all pecuniary transactions were thrown. The simple and the careless were pillaged without mercy by extortioners, whose demands grew even Edition: current; Page: [86] more rapidly than the money shrank. The price of the necessaries of life, of shoes, of ale, of oatmeal, rose fast. The laborer found that the bit of metal which, when he received it, was called a shilling would hardly, when he wanted to purchase a pot of beer or a loaf of rye bread, go as far as sixpence. Where artisans of more than usual intelligence were collected in great numbers, as in the dockyards at Chatham, they were able to make their complaints heard and to obtain some redress. But the ignorant and helpless peasant was cruelly ground between one class which would give money only by tale and another which would take it only by weight.
+No merchant would contract to deliver goods without making some stipulation about the quality of the coin in which he was to be paid. Even men of business were often bewildered by the confusion into which all pecuniary transactions were thrown. The simple and the careless were pillaged without mercy by extortioners, whose demands grew even more rapidly than the money shrank. The price of the necessaries of life, of shoes, of ale, of oatmeal, rose fast. The laborer found that the bit of metal which, when he received it, was called a shilling would hardly, when he wanted to purchase a pot of beer or a loaf of rye bread, go as far as sixpence. Where artisans of more than usual intelligence were collected in great numbers, as in the dockyards at Chatham, they were able to make their complaints heard and to obtain some redress. But the ignorant and helpless peasant was cruelly ground between one class which would give money only by tale and another which would take it only by weight.
 
 A paper read before a meeting of Senators and members of the House of Representatives of both political parties, at Washington, April 12th; and before the Union League Club, at New York, April 13, 1876.
 

@@ -4,7 +4,7 @@ work_slug: "immanuel-kant-critique-of-practical-reason-and-fcea5d"
 work_title: Critique of Practical Reason and Other Works on the Theory of Ethics
 author_name: Immanuel Kant
 chapter_number: 2
-chapter_title: MEMOIR OF KANT.
+chapter_title: Memoir of Kant.
 chapter_slug: "02-memoir-of-kant"
 variant_id: "1388ed51-bf6e-50c9-941a-e82853c979a4"
 content_type: translation

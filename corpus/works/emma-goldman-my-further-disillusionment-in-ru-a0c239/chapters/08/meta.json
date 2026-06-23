@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-further-disillusionment-in-ru-a0c239",
+  "work_title": "My Further Disillusionment in Russia",
+  "chapter_number": 8,
+  "chapter_title": "Chapter 7 - Persecution of Anarchists",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5edcb56c-fa35-5f3e-97a2-8aaac8b4668e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3517,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1924/disillusionment2/chapter7.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 23,
+  "chapter_title": "3. Education for Marriage.",
+  "chapter_slug": "23-3-education-for-marriage",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b72a0bd9-fe85-5e92-a64c-b8b5babb2da7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2543,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch10.htm"
+    }
+  ]
+}

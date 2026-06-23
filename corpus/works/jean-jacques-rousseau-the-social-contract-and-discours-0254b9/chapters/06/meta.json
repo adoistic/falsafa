@@ -2,7 +2,7 @@
   "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
   "work_title": "The Social Contract and Discourses",
   "chapter_number": 6,
-  "chapter_title": "CHAPTER I: subject of the first book",
+  "chapter_title": "Chapter III: the right of the strongest",
   "chapter_slug": "06",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 172,
-      "paragraph_count": 2,
+      "word_count": 353,
+      "paragraph_count": 4,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
     }

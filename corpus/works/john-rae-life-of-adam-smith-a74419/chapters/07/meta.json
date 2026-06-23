@@ -2,7 +2,7 @@
   "work_slug": "john-rae-life-of-adam-smith-a74419",
   "work_title": "Life of Adam Smith",
   "chapter_number": 7,
-  "chapter_title": "CHAPTER VI: THE COLLEGE ADMINISTRATOR",
+  "chapter_title": "Chapter VII: Among Glasgow Folk",
   "chapter_slug": "07",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 6923,
-      "paragraph_count": 21,
+      "word_count": 4274,
+      "paragraph_count": 22,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "max-stirner-the-ego-and-its-own-f98f48",
+  "work_title": "The Ego and Its Own",
+  "chapter_number": 5,
+  "chapter_title": "2. The Moderns [Die Neuen]",
+  "chapter_slug": "05-2-the-moderns-die-neuen",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d46f8aa2-7e83-5d8c-bc16-f3cb9b359c95",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 26859,
+      "paragraph_count": 216,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stirner/ego-and-its-own.htm"
+    }
+  ]
+}

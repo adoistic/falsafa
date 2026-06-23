@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-economic-problems-of-socialism-i-29ee3b",
+  "work_title": "Economic Problems of Socialism in the USSR",
+  "chapter_number": 13,
+  "chapter_title": "Concerning the Errors of Comrade L.D. Yaroshenko",
+  "chapter_slug": "13-concerning-the-errors-of-comrade-l-d-yaroshenko",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6644dc1f-6ab5-50fc-b519-4b9f74cb5a67",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7311,
+      "paragraph_count": 123,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch13.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-socialist-reconstruction-of-soci-3cb48c",
+  "work_title": "Socialist Reconstruction of Society",
+  "chapter_number": 2,
+  "chapter_title": "The First Clause",
+  "chapter_slug": "02-the-first-clause",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31c790c6-5d70-5751-a7f9-68448976324e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6668,
+      "paragraph_count": 88,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1905/050710.htm"
+    }
+  ]
+}

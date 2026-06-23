@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 109,
+  "chapter_title": "Appendixes",
+  "chapter_slug": "109-appendixes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "321b72a1-104c-5a55-86b7-ba6a125c25fc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12114,
+      "paragraph_count": 81,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/appendix.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "evgeni-preobrazhensky-foreign-exchange-problems-in-sov-109f4d",
+  "work_title": "Foreign Exchange Problems in Soviet Russia",
+  "chapter_number": 1,
+  "chapter_title": "Foreign Exchange Problems in Soviet Russia",
+  "chapter_slug": "01-foreign-exchange-problems-in-soviet-russia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "991744fc-991a-5b32-ab4b-88bd379a2ed8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1273,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/preobrazhensky/1921/11/forex.html"
+    }
+  ]
+}

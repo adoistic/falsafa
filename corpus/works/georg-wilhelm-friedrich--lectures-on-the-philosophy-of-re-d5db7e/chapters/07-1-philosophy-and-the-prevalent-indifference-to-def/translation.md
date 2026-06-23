@@ -1,0 +1,33 @@
+---
+work_id: "d5db7e6c-57b5-5a07-93cb-b4e84dd84065"
+work_slug: "georg-wilhelm-friedrich--lectures-on-the-philosophy-of-re-d5db7e"
+work_title: Lectures on the Philosophy of Religion (Introduction and Absolute Religion, final section)
+author_name: Georg Wilhelm Friedrich Hegel
+chapter_number: 7
+chapter_title: 1. Philosophy and the Prevalent Indifference to Definite Dogmas.
+chapter_slug: "07-1-philosophy-and-the-prevalent-indifference-to-def"
+variant_id: "64b20681-6a98-58ac-9f87-b4c6e91611b0"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 841
+source_url: "https://www.marxists.org/reference/archive/hegel/works/re/parta.htm"
+translator: E. B. Speirs and J. Burdon Sanderson
+---
+
+If, then, it be made a reproach to philosophy in its relation to religion that the content of the doctrine of revealed positive religion, and more expressly of the Christian religion, is depreciated by it, and that it subverts and destroys its dogmas, yet this hindrance is taken out of the way, and by the new theology itself, in fact. There are very few dogmas of the earlier system of Church confessions left which have any longer the importance formerly attributed to them, and in their place no other dogmas have been set up. It is easy to convince oneself, by considering what is the real value now attached to ecclesiastical dogmas, that into the religious world generally there has entered a widespread, almost universal, indifference towards what in earlier times were held to be essential doctrines of the faith. A few examples will prove this.
+
+Christ still indeed continues to be made the central point of faith, as Mediator, Reconciler, and Redeemer; but what was known as the work of redemption has received a very prosaic and merely psychological signification, so that although the edifying words have been retained, the very thing that was essential in the old doctrine of the Church has been expunged.
+
+“Great energy of character, steadfast adherence to conviction for the sake of which He regarded not His life” — these are the common categories through which Christ is brought down, not indeed to the plane of ordinary everyday life, but to that of human action in general and moral designs, and into a moral sphere into which even heathens like Socrates were capable of entering. Even though Christ be for many the central point of faith and devotion in the deeper sense, yet Christian life as a whole restricts itself to this devotional bent, and the weighty doctrines of the Trinity, of the resurrection of the body, as also the miracles in the Old and New Testaments, are neglected as matters of indifference, and have lost their importance. The divinity of Christ, dogma what is peculiar to the Christian religion is set aside, or else reduced to something of merely general nature. It is not only by “enlightenment” that Christianity has been thus treated, but even by pious theologians themselves. These latter join with the men of enlightenment in saying that the Trinity was brought into Christian doctrine by the Alexandrian school, by the neo-Platonists. But even if it must be conceded that the fathers of the Church studied Greek philosophy, it is in the first instance a matter of no importance whence that doctrine may have come; the only question is, whether it be essentially, inherently, true; but that is a point which is not examined into, and yet that doctrine is the key-note of the Christian religion.
+
+If an opportunity was given to a large number of these theologians to lay their hand on their heart, and say whether they consider faith in the Trinity to be indispensably necessary to salvation, and whether they believe that the absence of such faith leads to damnation, there can be no doubt what the answer would be.
+
+Even the words eternal happiness and eternal damnation are such as cannot be used in good society; such expressions are regarded as arrhta, as words which one shrinks from uttering. Even although a man should not wish to deny these doctrines, he would, in case of his being directly appealed to, find it very difficult to express himself in an affirmative way.
+
+In the doctrinal teaching of these theologians, it will be found that dogmas have become very thin and shrunken, although they are talked about a great deal. If any one were to take a number of religious books, or collections of sermons, in which the fundamental doctrines of the Christian religion are supposed to be set forth, and attempt to sift the greater part of those writings conscientiously in order to ascertain whether, in a large proportion of such literature, the fundamental doctrines of Christianity are to be found contained and stated in the orthodox sense, without ambiguity or evasion, the answer is again not a doubtful one.
+
+It would appear that the theologians themselves, in accordance with the general training which most of them have received, only attribute that importance which they formerly assigned to the principle and doctrines of positive Christianity — when these were still regarded as such — to these doctrines when they are veiled in a misty indefiniteness. Thus if philosophy has always been regarded as the opponent of the doctrines of the Church, it cannot any longer be such, since these doctrines, which it seemed to threaten with destruction, are no longer regarded by general conviction as of importance. A great part of the danger which threatens philosophy from this side when she considers these dogmas in order to comprehend them ought to be thus taken away, and so philosophy can take up a more untrammelled attitude with regard to dogmas which have so much sunk in interest with theologians themselves.

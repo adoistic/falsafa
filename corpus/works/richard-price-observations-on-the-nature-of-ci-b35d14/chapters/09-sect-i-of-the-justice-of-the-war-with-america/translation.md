@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 9
-chapter_title: "SECT. I.: Of the Justice of the War with America."
+chapter_title: "Sect. I.: Of the Justice of the War with America."
 chapter_slug: "09-sect-i-of-the-justice-of-the-war-with-america"
 variant_id: "712d12da-1a0b-5ad6-96c9-ae9c35d5c745"
 content_type: translation

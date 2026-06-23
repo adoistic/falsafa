@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-schiller-aesthetical-essays-8efa06",
+  "work_title": "Aesthetical Essays",
+  "chapter_number": 7,
+  "chapter_title": "Letter VI",
+  "chapter_slug": "07-letter-vi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe973033-429d-51ae-898f-e3f29e0c44ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2880,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6798"
+    }
+  ]
+}

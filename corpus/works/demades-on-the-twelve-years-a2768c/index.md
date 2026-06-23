@@ -4,7 +4,10 @@ slug: "demades-on-the-twelve-years-a2768c"
 title: On the Twelve Years
 author:
   name: Demades
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Athenian orator and politician of the generation of Demosthenes, known for his pro-Macedonian diplomacy after Chaeronea. The single surviving speech attributed to him survives largely as a fragmentary witness to Athenian oratory in the age of Philip and Alexander."
+  birth_year: -380
+  death_year: -319
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

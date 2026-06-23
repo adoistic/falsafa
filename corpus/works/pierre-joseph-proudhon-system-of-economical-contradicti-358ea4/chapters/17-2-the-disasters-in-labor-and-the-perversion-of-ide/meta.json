@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-system-of-economical-contradicti-358ea4",
+  "work_title": "System of Economical Contradictions: or, The Philosophy of Poverty",
+  "chapter_number": 17,
+  "chapter_title": "2. The disasters in labor and the perversion of ideas caused by monopoly.",
+  "chapter_slug": "17-2-the-disasters-in-labor-and-the-perversion-of-ide",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ee26e88f-6700-54f5-813d-21ddb5fa9abd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7721,
+      "paragraph_count": 80,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/philosophy/ch06.htm"
+    }
+  ]
+}

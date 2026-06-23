@@ -2,7 +2,7 @@
   "work_slug": "jean-jacques-rousseau-emile-or-on-education-edc0fe",
   "work_title": "Emile, or On Education",
   "chapter_number": 10,
-  "chapter_title": "SOPHY, OR WOMAN",
+  "chapter_title": "Sophy, or Woman",
   "chapter_slug": "10-sophy-or-woman",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 52181,
+      "word_count": 51869,
       "paragraph_count": 416,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rousseau-emile-or-education"

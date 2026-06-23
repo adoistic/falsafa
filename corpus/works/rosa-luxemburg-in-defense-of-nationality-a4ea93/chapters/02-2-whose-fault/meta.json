@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-in-defense-of-nationality-a4ea93",
+  "work_title": "In Defense of Nationality",
+  "chapter_number": 2,
+  "chapter_title": "2. Whose fault?",
+  "chapter_slug": "02-2-whose-fault",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5e0ff017-390f-5e70-9699-3baa3334613f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2410,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1900/nationality/chap2.html"
+    }
+  ]
+}

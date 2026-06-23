@@ -1,87 +1,112 @@
 [
   {
-    "id": "p-69c8d1",
+    "id": "p-7a4fb0",
     "offset": 0,
-    "text": "§ 1. We may now continue the study begun in chapters III. and V.; and examine some difficulties connected with the relations of demand and supply as regards commodities the production of which tends to increasing return."
+    "text": "§ 1. The present chapter contains no new matter: it is a mere summary of the results of Book V. The second half of it may be of service to anyone who has omitted the later chapters: for it may indicate, though it cannot explain, their general drift."
   },
   {
-    "id": "p-74c243",
-    "offset": 222,
-    "text": "We have noted that this tendency seldom shows itself immediately on an increase of demand. To take an example, the first effect of a sudden fashion for watch-shaped aneroids would be a temporary rise of price, in spite of the fact that they contain no material of which there is but a scanty stock. For highly paid labour, that had no special training for the work, would have to be drawn in from other trades; a good deal of effort would be wasted, and for a time the real and the money cost of production would be increased."
+    "id": "p-b7cb4e",
+    "offset": 251,
+    "text": "In Book V. we have studied the theory of the mutual relations of demand and supply in their most general form; taking as little account as possible of the special incidents of particular applications of the theory, and leaving over for the following Book the study of the bearings of the general theory on the special features of the several agents of production, Labour, Capital, and Land."
   },
   {
-    "id": "p-753f16",
-    "offset": 750,
-    "text": "But yet, if the fashion lasted a considerable time, then even independently of any new invention, the cost of making aneroids would fall gradually. For specialized skill in abundance would be trained, and properly graduated to the various work to be done. With a large use of the method of interchangeable parts, specialized machinery would do better and more cheaply much of the work that is now done by hand; and thus a continued increase in the annual output of watch-shaped aneroids would lower their price very much."
+    "id": "p-dc2d4b",
+    "offset": 643,
+    "text": "The difficulties of the problem depend chiefly on variations in the area of space, and the period of time over which the market in question extends; the influence of time being more fundamental than that of space."
   },
   {
-    "id": "p-ea351b",
-    "offset": 1273,
-    "text": "Here there is to be noted an important difference between demand and supply. A fall in the price, at which a commodity is offered, acts on demand always in one direction. The amount of the commodity demanded may increase much or little according as the demand is elastic or inelastic: and a long or short time may be required for developing the new and extended uses of the commodity, which are rendered possible by the fall in price. But—at all events if exceptional cases in which a thing is driven out of fashion by a fall in its price be neglected—the influence of price on demand is similar in character for all commodities: and, further, those demands which show high elasticity in the long run, show a high elasticity almost at once; so that, subject to a few exceptions, we may speak of the demand for a commodity as being of high or low elasticity without specifying how far we are looking ahead."
+    "id": "p-b234cb",
+    "offset": 858,
+    "text": "Even in a market of very short period, such as that of a provincial corn-exchange on market-day, the \"higgling and bargaining\" might probably oscillate about a mean position, which would have some sort of a right to be called the equilibrium price: but the action of dealers in offering one price or refusing another would depend little, if at all, on calculations with regard to cost of production. They would look chiefly at present demand on the one hand, and on the other at the stocks of the commodity already available. It is true that they would pay some attention to such movements of production in the near future as might throw their shadow before; but in the case of perishable goods they would look only a very little way beyond the immediate present. Cost of production has for instance no perceptible influence on the day's bargaining in a fish-market."
   },
   {
-    "id": "p-6d7476",
-    "offset": 2180,
-    "text": "But there are no such simple rules with regard to supply. An increase in the price offered by purchasers does indeed always increase supply: and thus it is true that, if we have regard to short periods only, and especially to the transactions of a dealer's market, there is an \"elasticity of supply\" which corresponds closely to elasticity of demand. That is to say, a given rise in price will cause a great or a small increase in the offers which sellers accept, according as they have large or small reserves in the background, and as they have formed low or high estimates of the level of prices at the next market: and this rule applies nearly in the same way to things which in the long run have a tendency to diminishing return as to those which have a tendency to increasing return. In fact if the large plant needed in a branch of manufacture is fully occupied, and cannot be rapidly increased, an increase in the price offered for its products may have no perceptible effect in increasing the output for some considerable time: while a similar increase in the demand for a hand-made commodity might call forth quickly a great increase in supply, though in the long run its supply conformed to that of constant return or even of diminishing return."
+    "id": "p-e66f12",
+    "offset": 1726,
+    "text": "In a rigidly stationary state in which supply could be perfectly adjusted to demand in every particular, the normal expenses of production, the marginal expenses, and the average expenses (rent being counted in) would be one and the same thing, for long periods and for short. But, as it is, the language both of professed writers on economics and of men of business shows much elasticity in the use of the term Normal when applied to the causes that determine value. And one fairly well marked division needs study."
   },
   {
-    "id": "p-6bdf4e",
-    "offset": 3438,
-    "text": "In the more fundamental questions which relate to long periods, the matter is even more complex. For the ultimate output corresponding to an unconditional demand at even current prices would be theoretically infinite; and therefore the elasticity of supply of a commodity which conforms to the law of Increasing Return, or even to that of Constant Return, is theoretically infinite for long periods."
+    "id": "p-f8ba37",
+    "offset": 2244,
+    "text": "On the one side of this division are long periods, in which the normal action of economic forces has time to work itself out more fully; in which therefore a temporary scarcity of skilled labour, or of any other of the agents of production, can be remedied; and in which those economies that normally result from an increase in the scale of production—normally, that is without the aid of any substantive new invention—have time to develop themselves. The expenses of a representative firm, managed with normal ability and having normal access to the internal and external economies of production on a large scale, may be taken as a standard for estimating normal expenses of production: and when the period under survey is long enough to enable the investment of capital in building up a new business to complete itself and to bear full fruits; then the marginal supply price is that, the expectation of which in the long run just suffices to induce capitalists to invest their material capital, and workers of all grades to invest their personal capital in the trade."
   },
   {
-    "id": "p-06765f",
-    "offset": 3839,
-    "text": "§ 2. The next point to be observed is that this tendency to a fall in the price of a commodity as a result of a gradual development of the industry by which it is made, is quite a different thing from the tendency to the rapid introduction of new economies by an individual firm that is increasing its business."
+    "id": "p-02caea",
+    "offset": 3315,
+    "text": "On the other side of the line of division are periods of time long enough to enable producers to adapt their production to changes in demand, in so far as that can be done with the existing provision of specialized skill, specialized capital, and industrial organization; but not long enough to enable them to make any important changes in the supplies of these factors of production. For such periods the stock of material and personal appliances of production has to be taken in a great measure for granted; and the marginal increment of supply is determined by estimates of producers as to the amount of production it is worth their while to get out of those appliances. If trade is brisk all energies are strained to their utmost, overtime is worked, and then the limit to production is given by want of power rather than by want of will to go further or faster. But if trade is slack every producer has to make up his mind how near to prime cost it is worth his while to take fresh orders. And here there is no definite law, the chief operative force is the fear of spoiling the market; and that acts in different ways and with different strengths on different individuals and different industrial groups. For the chief motive of all open combinations and of all informal silent and \"customary\" understandings whether among employers or employed is the need for preventing individuals from spoiling the common market by action that may bring them immediate gains, but at the cost of a greater aggregate loss to the trade."
   },
   {
-    "id": "p-aaaf82",
-    "offset": 4152,
-    "text": "We have seen how every step in the advance of an able and enterprising manufacturer makes the succeeding step easier and more rapid; so that his progress upwards is likely to continue so long as he has fairly good fortune, and retains his full energy and elasticity and his liking for hard work. But these cannot last for ever: and as soon as they decay, his business is likely to be destroyed through the action of some of those very causes which enabled it to rise; unless indeed he can pass it over into hands as strong as his used to be. Thus the rise and fall of individual firms may be frequent, while a great industry is going through one long oscillation, or even moving steadily forwards; as the leaves of a tree (to repeat an earlier illustration) grow to maturity, reach equilibrium, and decay many times, while the tree is steadily growing upwards year by year."
+    "id": "p-96c73a",
+    "offset": 4843,
+    "text": "§ 2. We next turned aside to consider the relations of demand and supply with reference to things that need to be combined together for the purposes of satisfying a joint demand; of which the most important instance is that of the specialized material capital, and the specialized personal skill that must work together in any trade. For there is no direct demand on the part of consumers for either alone, but only for the two conjointly; the demand for either separately is a derived demand, which rises, other things being equal, with every increase in the demand for the common products, and with every diminution in the supply price of the joint factors of production. In like manner commodities of which there is a joint supply, such as gas and coke, or beef and hides, can each of them have only a derived supply price, governed by the expenses of the whole process of production on the one hand, and on the other by the demand for the remaining joint products."
   },
   {
-    "id": "p-c9a7fa",
-    "offset": 5027,
-    "text": "The causes which govern the facilities for production at the command of a single firm, thus conform to quite different laws from those which control the whole output of an industry. And the contrast is perhaps heightened, when we take the difficulties of marketing into account. For instance, manufactures, which are adapted to special tastes, are likely to be on a small scale; and they are generally of such a character that the machinery and modes of organization already developed in other trades, could be easily adapted to them; so that a great increase in their scale of production would be sure to introduce vast economies at once. But these are the very industries in which each firm is likely to be confirmed more or less to its own particular market; and, if it is so confined, any hasty increase in its production is likely to lower the demand price in that market out of all proportion to the increased economies that it will gain; even though its production is but small relatively to the broad market for which in a more general sense it may be said to produce."
+    "id": "p-2ad1b2",
+    "offset": 5813,
+    "text": "The composite demand for a thing, resulting from its being used for several different purposes, and the composite supply of a thing, that has several sources of production, present no great difficulty; for the several amounts demanded for the different purposes, or supplied from different sources, can be added together, on the same plan as was adopted in Book III., for combining the demands of the rich, the middle classes and the poor for the same commodity."
   },
   {
-    "id": "p-f6c3f2",
-    "offset": 6105,
-    "text": "In fact, when trade is slack, a producer will often try to sell some of his surplus goods outside of his own particular market at prices that do little more than cover their prime costs: while within that market he still tries to sell at prices that nearly cover supplementary costs; and a great part of these are the returns expected on capital invested in building up the external organization of his business."
+    "id": "p-ea6c7a",
+    "offset": 6277,
+    "text": "Next we made some study of the division of the supplementary costs of a business,—and especially those connected with building up a trade connection, with marketing, and with insurance—among the various products of that business."
   },
   {
-    "id": "p-19a7ef",
-    "offset": 6519,
-    "text": "Again supplementary costs are, as a rule, larger relatively to prime costs for things that obey the law of increasing return than for other things; because their production needs the investment of a large capital in material appliances and in building up trade connections. This increases the intensity of those fears of spoiling his own peculiar market, or incurring odium from other producers for spoiling the common market; which we have already learnt to regard as controlling the short-period supply price of goods, when the appliances of production are not fully employed."
+    "id": "p-8f6861",
+    "offset": 6508,
+    "text": "§ 3. Returning to those central difficulties of the equilibrium of normal demand and supply which are connected with the element of time, we investigated more fully the relation between the value of an appliance for production and that of the things produced by it."
   },
   {
-    "id": "p-179bd6",
-    "offset": 7099,
-    "text": "We cannot then regard the conditions of supply by an individual producer as typical of those which govern the general supply in a market. We must take account of the fact that very few firms have a long-continued life of active progress, and of the fact that the relations between the individual producer and his special market differ in important respects from those between the whole body of producers and the general market."
+    "id": "p-1e2bb3",
+    "offset": 6775,
+    "text": "When different producers have different advantages for producing a thing, its price must be sufficient to cover the expenses of production of those producers who have no special and exceptional facilities; for if not they will withhold or diminish their production, and the scarcity of the amount supplied, relatively to the demand, will raise the price. When the market is in equilibrium, and the thing is being sold at a price which covers these expenses, there remains a surplus beyond their expenses for those who have the assistance of any exceptional advantages. If these advantages arise from the command over free gifts of nature, the surplus is called a producer's surplus or producer's rent: there is a surplus in any case, and if the owner of a free gift of nature lends it out to another, he can generally get for its use a money income equivalent to this surplus."
   },
   {
-    "id": "p-6b334c",
-    "offset": 7528,
-    "text": "§ 3. Thus the history of the individual firm cannot be made into the history of an industry any more than the history of an individual man can be made into the history of mankind. And yet the history of mankind is the outcome of the history of individuals; and the aggregate production for a general market is the outcome of the motives which induce individual producers to expand or contract their production. It is just here that our device of a representative firm comes to our aid. We imagine to ourselves at any time a firm that has its fair share of those internal and external economies, which appertain to the aggregate scale of production in the industry to which it belongs. We recognize that the size of such a firm, while partly dependent on changes in technique and in the costs of transport, is governed, other things being equal, by the general expansion of the industry. We regard the manager of it as reckoning up whether it would be worth his while to add a certain new line to his undertakings; whether he should introduce a certain new machine and so on. We regard him as treating the output which would result from that change more or less as a unit, and weighing in his mind the cost against the gain."
+    "id": "p-088cd5",
+    "offset": 7653,
+    "text": "The price of the produce is equal to the cost of production of that part of it, which is raised on the margin, that is under such unfavourable conditions as to yield no rent. The cost of this part can be reckoned up without reasoning in a circle; and the cost of other parts cannot."
   },
   {
-    "id": "p-327cd4",
-    "offset": 8753,
-    "text": "This then is the marginal cost on which we fix our eyes. We do not expect it to fall immediately in consequence of a sudden increase of demand. On the contrary we expect the short-period supply price to increase with increasing output. But we also expect a gradual increase in demand to increase gradually the size and the efficiency of this representative firm; and to increase the economies both internal and external which are at its disposal."
+    "id": "p-657e58",
+    "offset": 7937,
+    "text": "If land which had been used for growing hops, is found capable of yielding a higher rent as market-garden land, the area under hops will undoubtedly be diminished; and this will raise their marginal cost of production and therefore their price. The rent which land will yield for one kind of produce, calls attention to the fact that a demand for the land for that kind of produce increases the difficulties of supply of other kinds; though it does not directly enter into those expenses. And similar arguments apply to the relation between the site values of urban land and the costs of things made on it."
   },
   {
-    "id": "p-29fd69",
-    "offset": 9201,
-    "text": "That is to say, when making lists of supply prices (supply schedules) for long periods in these industries, we set down a diminished supply price against an increased amount of the flow of the goods; meaning thereby that a flow of that increased amount will in the course of time be supplied profitably at that lower price, to meet a fairly steady corresponding demand. We exclude from view any economies that may result from substantive new inventions; but we include those which may be expected to arise naturally out of adaptations of existing ideas; and we look towards a position of balance or equilibrium between the forces of progress and decay, which would be attained if the conditions under view were supposed to act uniformly for a long time. But such notions must be taken broadly. The attempt to make them precise over-reaches our strength. If we include in our account nearly all the conditions of real life, the problem is too heavy to be handled; if we select a few, then long-drawn-out and subtle reasonings with regard to them become scientific toys rather than engines for practical work."
+    "id": "p-75421d",
+    "offset": 8545,
+    "text": "Thus when we are taking a broad view of normal value, when we are investigating the causes which determine normal value \"in the long run,\" when we are tracing the \"ultimate\" effects of economic causes; then the income that is derived from capital in these forms enters into the payments by which the expenses of production of the commodity in question have to be covered; and estimates as to the probable amount of that income directly control the action of the producers, who are on the margin of doubt as to whether to increase the means of production or not. But, on the other hand, when we are considering the causes which determine normal prices for a period which is short relatively to that required for largely increasing the supply of those appliances for production; then their influence on value is chiefly indirect and more or less similar to that exerted by the free gifts of nature. The shorter the period which we are considering, and the slower the process of production of those appliances, the less part will variations in the income derived from them play in checking or increasing the supply of the commodity produced by them, and in raising or lowering its supply price."
   },
   {
-    "id": "p-133621",
-    "offset": 10310,
-    "text": "The theory of stable equilibrium of normal demand and supply helps indeed to give definiteness to our ideas; and in its elementary stages it does not diverge from the actual facts of life, so far as to prevent its giving a fairly trustworthy picture of the chief methods of action of the strongest and most persistent group of economic forces. But when pushed to its more remote and intricate logical consequences, it slips away from the conditions of real life. In fact we are here verging on the high theme of economic progress; and here therefore it is especially needful to remember that economic problems are imperfectly presented when they are treated as problems of statical equilibrium, and not of organic growth. For though the statical treatment alone can give us definiteness and precision of thought, and is therefore a necessary introduction to a more philosophic treatment of society as an organism; it is yet only an introduction."
+    "id": "p-ec6157",
+    "offset": 9738,
+    "text": "§ 4. This leads to the consideration of some difficulties of a technical character connected with the marginal expenses of production of a commodity that obeys the law of increasing return. The difficulties arise from the temptation to represent supply price as dependent on the amount produced, without allowing for the length of time that is necessarily occupied by each individual business in extending its internal, and still more its external organization; and in consequence they have been most conspicuous in mathematical and semi-mathematical discussions of the theory of value. For when changes of supply price and amount produced are regarded as dependent exclusively on one another without any reference to gradual growth, it appears reasonable to argue that the marginal supply price for each individual producer is the addition to his aggregate expenses of production made by producing his last element; that this marginal price is likely in many cases to be diminished by an increase in his output much more than the demand price in the general market would be by the same cause."
   },
   {
-    "id": "p-5bac51",
-    "offset": 11257,
-    "text": "The Statical theory of equilibrium is only an introduction to economic studies; and it is barely even an introduction to the study of the progress and development of industries which show a tendency to increasing return. Its limitations are so constantly overlooked, especially by those who approach it from an abstract point of view, that there is a danger in throwing it into definite form at all. But, with this caution, the risk may be taken; and a short study of the subject is given in Appendix H."
+    "id": "p-454720",
+    "offset": 10833,
+    "text": "The statical theory of equilibrium is therefore not wholly applicable to commodities which obey the law of increasing return. It should however be noted that in many industries each producer has a special market in which he is well known, and which he cannot extend quickly; and that therefore, though it might be physically possible for him to increase his output rapidly, he would run the risk of forcing down very much the demand price in his special market, or else of being driven to sell his surplus production outside on less favourable terms. And though there are industries in which each producer has access to the whole of a large market, yet in these there remain but few internal economies to be got by an increase of output, when the existing plant is already well occupied. No doubt there are industries as to which neither of these statements is true: they are in a transitional state, and it must be conceded that the statical theory of equilibrium of normal demand and supply cannot be profitably applied to them. But such cases are not numerous; and with regard to the great bulk of manufacturing industries, the connection between supply price and amount shows a fundamentally different character for short periods and for long."
+  },
+  {
+    "id": "p-5407f2",
+    "offset": 12082,
+    "text": "For short periods, the difficulties of adjusting the internal and external organization of a business to rapid changes in output are so great that the supply price must generally be taken to rise with an increase, and to fall with a diminution in the amount produced."
+  },
+  {
+    "id": "p-fa6aee",
+    "offset": 12351,
+    "text": "But in long periods both the internal and the external economies of production on a large scale have time to develop themselves. The marginal supply price is not the expenses of production of any particular bale of goods: but it is the whole expenses (including insurance, and gross earnings of management) of a marginal increment in the aggregate process of production and marketing."
+  },
+  {
+    "id": "p-2285ed",
+    "offset": 12737,
+    "text": "§ 5. Some study of the effects of a tax, regarded as a special case of a change in the general conditions of demand and supply suggests that, when proper allowance is made for the interests of consumers, there is on abstract grounds rather less primâ facie cause than the earlier economists supposed, for the general doctrine of so-called \"Maximum Satisfaction\"; i.e. for the doctrine that the free pursuit by each individual of his own immediate interest, will lead producers to turn their capital and labour, and consumers to turn their expenditure into such courses as are most conducive to the general interests. We have nothing to do at this stage of our inquiry, limited as it is to analysis of the most general character, with the important question how far, human nature being constituted as it is at present, collective action is likely to be inferior to individualistic action in energy and elasticity, in inventiveness and directness of purpose; and whether it is not therefore likely to waste through practical inefficiency more than it could save by taking account of all the interests affected by any course of action. But even without taking account of the evils arising from the unequal distribution of wealth, there is primâ facie reason for believing that the aggregate satisfaction, so far from being already a maximum, could be much increased by collective action in promoting the production and consumption of things in regard to which the law of increasing return acts with especial force."
+  },
+  {
+    "id": "p-05c6fe",
+    "offset": 14250,
+    "text": "This position is confirmed by the study of the theory of monopolies. It is the immediate interest of the monopolist so to adjust the production and sale of his wares as to obtain for himself the maximum net revenue, and the course which he thus adopts is unlikely to be that which affords the aggregate maximum satisfaction. The divergence between individual and collective interests is primâ facie less important with regard to those things which obey the law of diminishing return, than with regard to those which obey the law of increasing return: but, in the case of the latter, there is strong primâ facie reason for believing that it might often be to the interest of the community directly or indirectly to intervene, because a largely increased production would add much more to consumers' surplus than to the aggregate expenses of production of the goods. More exact notions on the relations of demand and supply, particularly when expressed in the form of diagrams, may help us to see what statistics should be collected, and how they should be applied in the attempt to estimate the relative magnitudes of various conflicting economic interests, public and private."
+  },
+  {
+    "id": "p-710caa",
+    "offset": 15428,
+    "text": "Ricardo's theory of cost of production in relation to value occupies so important a place in the history of economics that any misunderstanding as to its real character must necessarily be very mischievous; and unfortunately it is so expressed as almost to invite misunderstanding. In consequence there is a widely spread belief that it has needed to be reconstructed by the present generation of economists. Cause is shown in Appendix I for not accepting this opinion; and for holding on the contrary that the foundations of the theory as they were left by Ricardo remain intact; that much has been added to them, and that very much has been built upon them, but that little has been taken from them. It is there argued that he knew that demand played an essential part in governing value, but that he regarded its action as less obscure than that of cost of production, and therefore passed it lightly over in the notes which he made for the use of his friends, and himself; for he never essayed to write a formal treatise: also that he regarded cost of production as dependent—not as Marx asserted him to have done on the mere quantity of labour used up in production, but—on the quality as well as quantity of that labour; together with the amount of stored up capital needed to aid labour, and the length of time during which such aid was invoked."
   }
 ]

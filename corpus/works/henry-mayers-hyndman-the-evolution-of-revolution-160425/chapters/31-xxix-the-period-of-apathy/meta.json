@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 31,
+  "chapter_title": "XXIX. The Period of Apathy",
+  "chapter_slug": "31-xxix-the-period-of-apathy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bc3232f8-9d46-5c5e-8b57-ac1cc9c3250a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3607,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter29.htm"
+    }
+  ]
+}

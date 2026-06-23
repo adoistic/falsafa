@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-bogdanov-religion-art-and-marxism-193158",
+  "work_title": "Religion, Art and Marxism",
+  "chapter_number": 1,
+  "chapter_title": "Religion, Art and Marxism",
+  "chapter_slug": "01-religion-art-and-marxism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df33d957-fbe9-5c9b-aafc-f18b280b7b9b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3146,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bogdanov/1924/religion-art.htm"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "jean-jacques-rousseau-emile-or-on-education-edc0fe",
   "work_title": "Emile, or On Education",
   "chapter_number": 7,
-  "chapter_title": "BOOK IV",
+  "chapter_title": "Book IV",
   "chapter_slug": "07",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 31330,
+      "word_count": 31118,
       "paragraph_count": 206,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rousseau-emile-or-education"

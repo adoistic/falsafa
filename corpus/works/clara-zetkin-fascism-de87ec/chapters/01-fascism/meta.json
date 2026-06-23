@@ -1,0 +1,26 @@
+{
+  "work_slug": "clara-zetkin-fascism-de87ec",
+  "work_title": "Fascism",
+  "chapter_number": 1,
+  "chapter_title": "Fascism",
+  "chapter_slug": "01-fascism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "50f950e9-f765-5a71-92c3-3f4a50e79b72",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3705,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/zetkin/1923/08/fascism.htm"
+    }
+  ]
+}

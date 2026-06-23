@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 15,
+  "chapter_title": "Struggle in England Essential.",
+  "chapter_slug": "15-struggle-in-england-essential",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "af895c2e-8c08-5cc0-b727-a0964e0a9600",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 367,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

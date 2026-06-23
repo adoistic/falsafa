@@ -4,7 +4,7 @@ work_slug: "frank-william-taussig-the-tariff-history-of-the-united-8e2252"
 work_title: The Tariff History of the United States
 author_name: Frank William Taussig
 chapter_number: 2
-chapter_title: AUTHORITIES.—
+chapter_title: Authorities.—
 chapter_slug: "02-authorities"
 variant_id: "ec400e82-9b05-583f-b0c4-03764f682c7e"
 content_type: translation

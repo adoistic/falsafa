@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 50,
+  "chapter_title": "XLIX. The Bedwarfing Virtue.",
+  "chapter_slug": "50-xlix-the-bedwarfing-virtue",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "18ebb533-2473-5867-a3dd-b968f2b76967",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 1556,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "94e9431f-1a1b-5a3d-a737-4c4704a0cbb2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1659,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

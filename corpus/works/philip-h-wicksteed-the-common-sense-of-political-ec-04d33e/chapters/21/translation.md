@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 21
-chapter_title: "BOOK III: ANALYTICAL AND PRACTICAL"
+chapter_title: "Book III: Analytical and Practical"
 chapter_slug: 21
 variant_id: "185d0ca6-9fd4-5cb5-96c2-3326bda5a9b5"
 content_type: translation

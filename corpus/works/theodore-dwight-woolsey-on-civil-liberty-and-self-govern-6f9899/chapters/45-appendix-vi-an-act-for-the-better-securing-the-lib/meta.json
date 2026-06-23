@@ -1,0 +1,26 @@
+{
+  "work_slug": "theodore-dwight-woolsey-on-civil-liberty-and-self-govern-6f9899",
+  "work_title": "On Civil Liberty and Self-Government",
+  "chapter_number": 45,
+  "chapter_title": "Appendix VI.: an act for the better securing the liberty of the subject, and for prevention of imprisonments beyond the,",
+  "chapter_slug": "45-appendix-vi-an-act-for-the-better-securing-the-lib",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3242ad67-fdad-5a96-9e86-aace27e82266",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3865,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/woolsey-on-civil-liberty-and-self-government"
+    }
+  ]
+}

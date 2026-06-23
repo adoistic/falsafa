@@ -4,7 +4,7 @@ work_slug: "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a"
 work_title: "Magna Carta: A Commentary on the Great Charter of King John"
 author_name: William Sharp McKechnie
 chapter_number: 214
-chapter_title: CHAPTER FIFTY–THREE.
+chapter_title: Chapter Sixty–two.
 chapter_slug: 214
 variant_id: "4f06ebca-9158-536e-84aa-70d4c4afcaad"
 content_type: translation
@@ -13,13 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 285
+word_count: 271
 source_url: "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
 translator: Online Library of Liberty edition
 ---
 
-Eundem autem respectum habebimus, et eodem modo de justicia exhibenda de forestis deafforestandis vel remansuris forestis, quas Henricus pater noster vel Ricardus frater noster afforestaverunt, et de custodiis terrarum que sunt de alieno feodo, cujusmodi custodias hucusque habuimus occasione feodi quod aliquis de nobis tenuit per servicium militare, et de abbaciis que fundate fuerint in feodo alterius quam nostro, in quibus dominus feodi dixerit se jus habere; et cum redierimus, vel si remanserimus a peregrinacione nostra, super hiis conquerentibus plenam justiciam statim exhibebimus.
+Et omnes malas voluntates, indignaciones, et rancores ortos inter nos et homines nostros, clericos et laicos, a tempore discordie, plene omnibus remisimus et condonavimus. Preterea omnes transgressiones factas occasione ejusdem discordie, a Pascha anno regni nostri sextodecimo usque ad pacem reformatam, plene remisimus omnibus, clericis et laicis, et quantum ad nos pertinet plene condonavimus. Et insuper fecimus eis fieri litteras testimoniales patentes domini Stephani Cantuariensis archiepiscopi, domini Henrici Dublinensis archiepiscopi, et episcoporum predictorum, et magistri Pandulfi, super securitate ista et concessionibus prefatis.
 
-We shall have, moreover, the same respite and in the same manner in rendering justice concerning the disafforestation or retention of those forests which Henry our father and Richard our brother afforested, and concerning the wardship of lands which are of the fief of another (namely, such wardships as we have hitherto had by reason of a fief which anyone held of us by knight’s service), and concerning abbeys founded on other fiefs than our own, in which the lord of the fee claims to have Edition: current; Page: [451] right; and when we have returned, or if we desist from our expedition, we will immediately grant full justice to all who complain of such things.
+And all the ill–will, hatreds, and bitterness that have arisen between us and our men, clergy and lay, from the date of the quarrel, we have completely remitted and pardoned to everyone. Moreover, all trespasses occasioned by the said quarrel, from Easter in the sixteenth year of our reign till the restoration of peace, we have fully remitted to all, both clergy and laymen, and completely forgiven, as far as pertains to us. And, on this head, we have caused to be made for them letters testimonial patent of the lord Stephen, archbishop of Canterbury, of the lord Henry, archbishop of Dublin, of the bishops aforesaid, and of Master Pandulf as touching this security and the concessions aforesaid.
 
-This chapter makes an addition to the Articles of the Barons, extending to three additional kinds of abuses, the respite provided in chapter 52 for redressing acts of illegal disseisin. The “close time” secured to John in virtue of his crusader’s vow is to cover (a) inquiries into boundaries of forests alleged to have been extended by his father or his brother; (b) wardships over lands usurped by illegal extensions of prerogative wardship; and (c) abbeys founded by mesne lords but seized by John during vacancies.
+The clauses that follow the forma securitatis are of a formal nature. The present chapter, after making a well–meant declaration that bygones should be bygones, so that peace and goodwill should everywhere prevail—a pious aspiration doomed to speedy disillusion—proceeds to authorize the prelates to issue, under their seals, certified copies of the Great Charter. Such letters were actually issued, and their terms are preserved in the Red Book of the Exchequer.

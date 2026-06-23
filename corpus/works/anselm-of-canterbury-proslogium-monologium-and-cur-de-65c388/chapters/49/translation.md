@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 49
-chapter_title: CHAPTER IX.
+chapter_title: Chapter XII. (2)
 chapter_slug: 49
 variant_id: "cdd76984-ba7f-5279-97a5-e10dc20c1550"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 179
+word_count: 122
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-Those things which were created from nothing had an existence before their creation in the thought of the Creator.
+This expression of the supreme Being is the supreme Being.
 
-But I seem to see a truth that compels me to distinguish carefully in what sense those things which were created may be said to have been nothing before their creation. For, in no wise can anything conceivably be created by any, unless there is, in the mind of the creative agent, some example, as it were, or (as is more fittingly supposed) some model, or likeness, Edition: current; Page: [56] or rule. It is evident, then, that before the world was created, it was in the thought of the supreme Nature, what, and of what sort, and how, it should be. Hence, although it is clear that the beings that were created were nothing before their creation, to this extent, that they were not what they now are, nor was there anything whence they should be created, yet they were not nothing, so far as the creator’s thought is concerned, through which, and according to which, they were created.
+But since, as our reasoning shows, it is equally certain that whatever the supreme Substance created, it created through nothing other than itself; and whatever it created, it created through its own most intimate expression, whether separately, by the utterance of separate words, or all at once, by the utterance of one word; what conclusion can be more evidently necessary, than that this expression of the supreme Being is no other than the supreme Being? Therefore, the consideration of this expression should not, in my opinion, be carelessly passed over. But before it can be discussed, I think some of the properties of this supreme Substance should be diligently and earnestly investigated.

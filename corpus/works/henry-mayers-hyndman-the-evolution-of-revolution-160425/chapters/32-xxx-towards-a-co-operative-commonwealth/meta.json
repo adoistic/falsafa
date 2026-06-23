@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 32,
+  "chapter_title": "XXX. Towards a Co-operative Commonwealth",
+  "chapter_slug": "32-xxx-towards-a-co-operative-commonwealth",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a773ee4d-09c6-55f3-b447-df6d53553343",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8213,
+      "paragraph_count": 73,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter30.htm"
+    }
+  ]
+}

@@ -4,7 +4,10 @@ slug: "vitruvius-pollio-on-architecture-f22b40"
 title: On Architecture
 author:
   name: Vitruvius Pollio
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman architect and military engineer of the age of Augustus, to whom his treatise is dedicated. De architectura is the only surviving classical work on architecture and transmitted the principles of building, proportion, and engineering to the Renaissance and after.
+  birth_year: -80
+  death_year: -15
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

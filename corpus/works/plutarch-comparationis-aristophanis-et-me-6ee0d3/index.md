@@ -4,7 +4,10 @@ slug: "plutarch-comparationis-aristophanis-et-me-6ee0d3"
 title: Comparationis Aristophanis et Menandri compendium
 author:
   name: Plutarch
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Greek biographer, essayist, and priest at Delphi under the Roman Empire. His Parallel Lives paired Greek and Roman figures while the Moralia collected his essays on ethics, religion, and philosophy.
+  birth_year: 46
+  death_year: 120
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

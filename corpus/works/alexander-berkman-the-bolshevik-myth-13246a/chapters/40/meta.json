@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 40,
+  "chapter_title": "Chapter 39 : Last Links in the Chain",
+  "chapter_slug": "40",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34ff5bd8-82bf-5bbd-aeab-6e82e1244775",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4176,
+      "paragraph_count": 93,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-39.html"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "john-bright-selected-speeches-on-public-ques-1725cc"
 work_title: Selected Speeches on Public Questions
 author_name: John Bright
 chapter_number: 1
-chapter_title: INTRODUCTION
+chapter_title: Introduction
 chapter_slug: "01-introduction"
 variant_id: "1002c725-b127-5836-82c1-216e6899d76c"
 content_type: translation

@@ -4,7 +4,7 @@ work_slug: "franz-oppenheimer-the-state-a06f2f"
 work_title: The State
 author_name: Franz Oppenheimer
 chapter_number: 1
-chapter_title: AUTHOR’S PREFACE TO THE SECOND AMERICAN EDITION
+chapter_title: Author’s Preface to the Second American Edition
 chapter_slug: "01-author-s-preface-to-the-second-american-edition"
 variant_id: "fee516b6-9686-5466-ab2e-cc2e28b60c5b"
 content_type: translation

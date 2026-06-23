@@ -4,7 +4,7 @@ work_slug: "john-morley-the-life-of-richard-cobden-23f473"
 work_title: The Life of Richard Cobden
 author_name: John Morley
 chapter_number: 1
-chapter_title: FREE TRADE LITERATURE
+chapter_title: Free Trade Literature
 chapter_slug: "01-free-trade-literature"
 variant_id: "2c690e36-c7c9-5eac-bfef-35761d6006d9"
 content_type: translation

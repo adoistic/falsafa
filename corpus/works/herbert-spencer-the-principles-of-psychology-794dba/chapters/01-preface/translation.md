@@ -4,7 +4,7 @@ work_slug: "herbert-spencer-the-principles-of-psychology-794dba"
 work_title: The Principles of Psychology
 author_name: Herbert Spencer
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "8252f3ca-367d-5ae0-8348-a5cda45d21d4"
 content_type: translation

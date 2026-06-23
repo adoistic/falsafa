@@ -1,0 +1,153 @@
+---
+work_id: "a21c4c07-4c33-5a92-8dbc-99bdd6e55297"
+work_slug: "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c"
+work_title: Prison Memoirs of an Anarchist
+author_name: Alexander Berkman
+chapter_number: 56
+chapter_title: "Part 2, Chapter 31 : \"And By All Forgot, We Rot and Rot\""
+chapter_slug: 56
+variant_id: "fc91929f-b539-58b6-b250-ef0bcb1c462f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2446
+source_url: "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-31.html"
+translator: Marxists Internet Archive edition
+---
+
+A year of solitary has wasted my strength, and left me feeble and languid. My expectations of relief from complete isolation have been disappointed. Existence is grim with despair, as day by day I feel my vitality ebbing; the long nights are tortured with insomnia; my body is racked with constant pains. All my heart is dark.
+
+A glimmer of light breaks through the clouds, as the session of the Pardons Board approaches. I clutch desperately at the faint hope of a favorable decision. With feverish excitement I pore over the letters of the Girl, breathing cheer and encouraging news. My application is supported by numerous labor bodies, she writes. Comrade Harry Kelly has been tireless in my behalf; the success of his efforts to arouse public sympathy augurs well for the application. The United Labor League of Pennsylvania, representing over a hundred thousand toilers, has passed a resolution favoring my release. Together with other similar expressions, individual and collective, it will be laid before the Pardon Board, and it is confidently expected that the authorities will not ignore the voice of organized labor. In a ferment of anxiety and hope I count the days and hours, irritable with impatience and apprehension as I near the fateful moment. Visions of liberty flutter before me, glorified by the meeting with the Girl and my former companions, and I thrill with the return to the world, as I restlessly pace the cell in the silence of the night.
+
+The thought of my prison friends obtrudes upon my visions. With the tenderness born of common misery I think of their fate, resolving to brighten their lives with little comfort and letters, that mean so much to every prisoner. My first act in liberty shall be in memory of the men grown close to me with the kinship of suffering, the unfortunates endeared by awakened sympathy and understanding. For so many years I have shared with them the sorrows and the few joys of penitentiary life, I feel almost guilty to leave them. But henceforth their cause shall be mine, a vital part of the larger, social cause. It will be my constant endeavor to ameliorate their condition, and I shall strain every effort for my little friend Filipe; I must secure his release. How happy the boy will join me in liberty!...The flash of the dark lantern dispels my fantasies, and again I walk the cell in vehement misgiving and fervent hope of to-morrow's verdict.
+
+At noon I am called to the Warden. He must have received word from the Board, -- I reflect on the way. The Captain lounges in the armchair, his eyes glistening, his seamed face yellow and worried. With an effort I control my impatience as he offers me a seat. He bids the guard depart, and a wild hope trembles in me. He is not afraid, -- perhaps good news!
+
+"Sit down, Berkman," he speaks with unwonted affability. "I have just received a message from Harrisburg. Your attorney requests me to inform you that the Pardon Board has now reached your case. It is probably under consideration at this moment."
+
+I remain silent. The Warden scans me closely.
+
+"You would return to New York, if released?" he inquires.
+
+"Yes."
+
+"What are your plans?"
+
+"Well, I have not formed any yet."
+
+"You would go back to your anarchist friends?"
+
+"Certainly."
+
+"You have not changed your views?"
+
+"By no means."
+
+A turnkey enters. "Captain, on official business," he reports.
+
+"Wait here a moment, Berkman," the Warden remarks, withdrawing. The officer remains.
+
+In a few minutes the Warden returns, motioning to the guard to leave.
+
+"I have just been informed that the Board has refused you a hearing."
+
+I feel the cold perspiration running down my back. The prison rumors of the Wardens interference flash through my mind. The Board promised a rehearing at the previous application, -- why this refusal?
+
+"Warden," I exclaim, "you objected to my pardon!"
+
+"Such action lies with the Inspectors," he replies evasively. The peculiar intonation strengthens my suspicions.
+
+A feeling of hopelessness possesses me. I sense the Warden's gaze fastened on me, and I strive to control my emotion.
+
+"How much time have you yet?" he asks.
+
+"Over eleven years."
+
+"How long have you been locked up this time?"
+
+"Sixteen months."
+
+"There is a vacancy on your range. The assistant hallman is going home to-morrow. You would like the position?" he eyes me curiously.
+
+"Yes."
+
+"I'll consider it."
+
+I rise weakly, but he detains me: "By the way, Berkman, look at this."
+
+He holds up a small wooden box, disclosing several casts of plaster of paris. I wonder at the strange proceeding.
+
+"You know what they are?" he inquires.
+
+"Plaster casts, I think."
+
+"Of what? For what purpose? Look at them well, now."
+
+I glance indifferently at the molds bearing the clear impression of an eagle.
+
+"It's the case of the silver dollar, I believe."
+
+"I am glad you speak truthfully. I had no doubt you would know. I examined your library record and found that you have drawn books on metallurgy."
+
+"Oh, you suspect me of this?" I flare up.
+
+"No, not this time," he smiles in a suggestive manner. "You have drawn practically every book from the library. I had a talk with the Chaplain, and he is positive that you would no be guilty of counterfeiting, because it would be robbing poor people."
+
+"The reading of my letters must have familiarized the Chaplain with Anarchist ideas."
+
+"Yes, Mr. Milligan thinks highly of you. You might antagonize the management, but he assures me you would not abet such a crime."
+
+"I am glad to hear it."
+
+"You would protect the Federal Government, then?"
+
+"I don't understand you."
+
+"You would protect people from being cheated by counterfeit money?"
+
+"The government and the people are non synonymous."
+
+Flushing slightly, and frowning, he asks: "But you would protect the poor?"
+
+"Yes, certainly."
+
+His face brightens. "Oh, quite so, quite so," he smiles reassuringly. "These molds were found hidden in the North Block. No; not in a cell, but in the hall. We suspect a certain man. It's Ed Sloane; he is located two tiers above you. Now, Berkman, the management is very anxious to get to the bottom of this matter. It's a crime against the people. You may have heard Sloane speaking to his neighbors about this."
+
+"No. I am sure you suspect an innocent person."
+
+"How so?"
+
+"Sloane is a very sick man. It's the last thing he'd think of."
+
+"Well, we have certain reasons for suspecting him. If you should happen to hear anything, just rap on the door and inform the officers you are ill. The will be instructed to send for me at once."
+
+"I can't do it, Warden."
+
+"Why not?" he demands.
+
+"I am not a spy."
+
+"Why, certainly not, Berkman. I should not ask you to be. But you have friends on the range, you may learn something. Well, think the matter over," he adds, dismissing me.
+
+Bitter disappointment at the action of the Board, indignation at the Warden's suggestion, struggle within me as I reach my cell. The guard is about to lock me in, when the Deputy Warden struts into the block.
+
+"Officer, unlock him," he commands. "Berkman, the Captain says you are to be the assistant rangeman. Report to Mr. MIlvaine for a broom."
+
+II
+
+The unexpected relief strengthens the hope of liberty. Legal methods are of no avail, but now my opportunities for escape are more favorable. Considerable changes have taken place during my solitary, and the first necessity is to orient myself. Some of my confidants have been released; others were transferred during the investigation period to the South Wing, to disrupt my connections. New men are about the cell-house, and I miss many of my chums. The lower half of the bottom ranges A and K is now exclusively occupied by the insane, their numbers greatly augmented. Poor Wingie has disappeared. Grown violently insane, he was repeatedly lodged in the dungeon, and finally sent to an asylum. There my unfortunate friend had died after two months. His cell is now occupied by "Irish Mike," a good-natured boy, turned imbecile by solitary. He hops about on all fours bleating: "Baah, baah, see the goat." I'm the goat, baah, baah." I shudder at the fate I have escaped, as I look at the familiar faces that were so bright with intelligence and youth, now staring at me from the "crank row," wild-eyed and corpse-like, their minds shattered, their bodies wasted to a shadow. My heart bleeds as I realize that Sid and Nick fail to recognize me, their memory a total blank; and Patsy, the Pittsburg bootblack, stands at the door, motionless, his eyes glassy, lips frozen in an inane smile.
+
+From cell to cell I pass the graveyard of the living dead, the silence broken only by intermittent savage yells and the piteous bleating of Mike. The whole day these men are locked in, deprived of exercise and recreation, their rations reduced because of "delinquency." New "bughouse cases" are continually added from the ranks of the prisoners forced to remain idle and kept in solitary. The sight of the terrible misery almost gives a touch of consolation to my grief over Johnny Davis. My young friend had grown ill in the foul basket. He begged to be taken to the hospital; but his condition did not warrant it, the physician said. Moreover he was "in punishment." Poor boy, how he must have suffered! They found him dead on the floor of his cell.
+
+My body renews its strength with the exercise of greater liberty of the range. The subtle hope of the Warden to corrupt me has turned to my advantage. I smile with scorn at his miserable estimate of human nature, determined by a lifetime of corruption and hypocrisy. How saddening is the shallowness of popular opinion! Warden Wright is hailed as a progressive man, a deep student of criminology, who has introduced modern methods in the treatment of prisoners. As an expression of respect and appreciation, the National Prison Association ash selected Captain Wright as its delegate to the International Congress at Brussels, which is to take place in 1900. All the time the Warden is designing new forms of torture, denying the pleadings of the idle men for exercise, and exerting his utmost efforts to increase sickness and insanity, in the attempt to fore the repeal of the "convict labor" law. The puerility of his judgment fills me with contempt: public sentiment in regard to convict competition with outside labor has swept the State; the efforts of the Warden, disastrous though they be to inmates, are doomed to failure. No less fatuous is the conceit of his boasted experience of thirty years. The so confidently uttered suspicion of Ed Sloane in regard to the counterfeiting charge, had proved mere lip-wisdom. The real culprit is Bob Runyon, the trusty basking in the Warden's special graces. His intimate friend, John Smith, the witness and protégé of Torrence, has confided to me the whole story, in a final effort to "set himself straight." He even exhibited to me the coins made by Runyon, together with the original molds, cast in the trusty's cell. And poor Sloane, still under surveillance, is slowly dying of neglect, the doctor is charging him with eating soap to produce symptoms of illness.
+
+III
+
+The year passes in a variety of interests. The Girl and several newly-won correspondents hold the thread of outside life. He Twin has gradually withdrawn from our New York circles, and is now entirely obscure on my horizon. But the Girl is staunch and devoted, and I keenly anticipate her regular mail. She keeps me informed of events in the international labor movement, news of which is almost entirely lacking in the daily press. We discuss the revolutionary expressions of the times, and I learn more about Pallas and Luccheni, whose acts of the previous winter had thrown Europe into a ferment of agitation. I hunger for news of the agitation against torturers in Montjuich, the revival of the Inquisition rousing in me the spirit of retribution and deep compassion for my persecuted comrades in the Spanish bastille. Beneath the suppressed tone of her letters, I read the Girl's suffering and pain, and feel the heart pangs of her unuttered personal sorrows.
+
+Presently I am apprized that some prominent persons interested in my case are endeavoring to secure Carnegie's signature for a renewed application to the Board of Pardons. The Girl conveys the information guardedly; the absence of comment discovers to me the anguish of soul the step has caused her. What terrible despair had given birth to the suggestion, I wonder. If the project of the underground escape had been put in operation, we should not have to suffer such humiliation. Why have my friends ignored the detailed plan I had submitted to them through Carl? I am confident of its feasibility and success, if we can muster the necessary skill and outlay. The animosity of the prison authorities precludes the thought of legal release. The underground route, very difficult and expensive though it be, is the sole hope. It must be realized. My sub rosa communications suspended during the temporary absence of Mr. Schraube, I hint these thoughts in official mail to the Girl, but refrain from objecting to the Carnegie idea.
+
+Other matters of interest I learn from correspondence with friends in Philadelphia and Pittsburg. The frequent letters of Carl, still reminiscent of his sojourn at Riverside, thrill with joy of active propaganda and of his success as a public speaker. Voltairine de Cleyre and Sarah Patton lend color to my existence by discursive epistles of great charm and rebellious thought. Often I pause to wonder at the miracle of my mail passing the censorial eyes. But the Chaplain is a busy man; careful perusal of every letter would involve too great a demand upon his time. The correspondence with Mattie I turn over to my neighbor Pasquale, a young Italian serving sixteen years, who has developed a violent passion for the pretty face on the photograph. The roguish eyes and the sweet lips exert but a passing impression on me. My thoughts turn to Johnny, my young friend in the convict grave. Deep snow is on the ground; it must be cold beneath the sod. The white shroud is pressing, pressing heavily upon the lonely boy, like the suffocating night of the basket cell. But in the spring little blades of green will sprout, and perfume the air, and shed autumn tears upon the convict grave of Johnny.

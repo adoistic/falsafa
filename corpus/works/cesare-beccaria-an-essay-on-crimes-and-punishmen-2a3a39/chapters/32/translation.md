@@ -4,7 +4,7 @@ work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
 work_title: An Essay on Crimes and Punishments
 author_name: Cesare Beccaria
 chapter_number: 32
-chapter_title: "CHAPTER XXX.: OF PROSECUTION AND PRESCRIPTION."
+chapter_title: "Chapter XXX.: Of Prosecution and Prescription."
 chapter_slug: 32
 variant_id: "f1802aff-27d0-58ba-ad0a-48c6da2d7197"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 749
+word_count: 741
 source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
 translator: Online Library of Liberty edition
 ---
@@ -24,9 +24,9 @@ The time for inquiry and for justification should be fixed by the laws, and not 
 
 General principles will here be sufficient, it being impossible to fix precisely the limits of time for any given legislation, or for any society in any particular circumstance. I shall only add, that in a nation willing to prove the utility of moderate punishment, laws which, according to the nature of the crime increase or diminish the time of inquiry and justification, considering the imprisonment or the voluntary exile of the criminal as a part of the punishment, will form an easy division of a small number of mild punishments for a great number of crimes.
 
-But, it must be observed, the time for inquiry and justification, should not increase in direct Edition: current; Page: [113] proportion to the atrociousness of crimes; for the probability of such crimes having been committed, is inversely as their atrociousness. Therefore the time for inquiring ought, in some cases, to be diminished, and that for justification increased, and vice versa. This may appear to contradict what I have said above, namely, that equal punishments may be decreed for unequal crimes, by considering the time allowed the criminal, or the prison, as a punishment.
+But, it must be observed, the time for inquiry and justification, should not increase in direct proportion to the atrociousness of crimes; for the probability of such crimes having been committed, is inversely as their atrociousness. Therefore the time for inquiring ought, in some cases, to be diminished, and that for justification increased, and vice versa. This may appear to contradict what I have said above, namely, that equal punishments may be decreed for unequal crimes, by considering the time allowed the criminal, or the prison, as a punishment.
 
-In order to explain this idea, I shall divide crimes into two classes. The first comprehends homicide, and all greater crimes; the second, crimes of an inferior degree. This distinction is founded in human nature. The preservation of life is a natural right; the preservation of property is a right of society. The motives that induce men to shake off the natural sentiment of compassion, which must be destroyed before great crimes can be committed, are much less in number than those by which, from the natural desire of being happy, they are instigated to violate a right, which is not founded in the heart of man, but is the work of society. The different degrees of probability in these two classes, require that they should be regulated on different principles. In the greatest crimes, as they are less frequent, Edition: current; Page: [114] and the probability of the innocence of the accused being greater, the time allowed him for his justification should be greater, and the time of inquiry less. For by hastening the definitive sentence, the flattering hopes of impunity are destroyed, which are more dangerous, as the crime is more atrocious. On the contrary, in crimes of less importance, the probability of the innocence being less, the time of inquiry should be greater, and that of justification less, as impunity is not so dangerous.
+In order to explain this idea, I shall divide crimes into two classes. The first comprehends homicide, and all greater crimes; the second, crimes of an inferior degree. This distinction is founded in human nature. The preservation of life is a natural right; the preservation of property is a right of society. The motives that induce men to shake off the natural sentiment of compassion, which must be destroyed before great crimes can be committed, are much less in number than those by which, from the natural desire of being happy, they are instigated to violate a right, which is not founded in the heart of man, but is the work of society. The different degrees of probability in these two classes, require that they should be regulated on different principles. In the greatest crimes, as they are less frequent, and the probability of the innocence of the accused being greater, the time allowed him for his justification should be greater, and the time of inquiry less. For by hastening the definitive sentence, the flattering hopes of impunity are destroyed, which are more dangerous, as the crime is more atrocious. On the contrary, in crimes of less importance, the probability of the innocence being less, the time of inquiry should be greater, and that of justification less, as impunity is not so dangerous.
 
 But this division of crimes into two classes should not be admitted, if the consequences of impunity were in proportion to the probability of the crime. It should be considered, that a person accused, whose guilt or innocence is not determined for want of proofs, may be again imprisoned for the same crime, and be subject to a new trial, if fresh evidence arises within the time fixed.
 

@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-terrorism-and-communism-a-reply--881d7e",
+  "work_title": "Terrorism and Communism: A Reply to Karl Kautsky",
+  "chapter_number": 20,
+  "chapter_title": "Soviets, Trade Unions, and the Party",
+  "chapter_slug": "20-soviets-trade-unions-and-the-party",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b96f8b38-e2cf-576f-bfa9-e043199e4f53",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2478,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1920/terrcomm/ch07.htm"
+    }
+  ]
+}

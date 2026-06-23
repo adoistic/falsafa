@@ -4,7 +4,7 @@ work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
 work_title: An Essay on Crimes and Punishments
 author_name: Cesare Beccaria
 chapter_number: 57
-chapter_title: "CHAPTER VIII.: THE HISTORY OF SIMON MORIN."
+chapter_title: "Chapter IX.: Of Witches."
 chapter_slug: 57
 variant_id: "47ee8267-dd0b-5430-8a03-66cf884d4e21"
 content_type: translation
@@ -13,21 +13,19 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 519
+word_count: 549
 source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
 translator: Online Library of Liberty edition
 ---
 
-The tragical end of Simon Morin is not less horrible than that of poor Anthony. It was midst the feasting, pleasures, and gallantry of a brilliant court; it was even in the times of the greatest licentiousness, that this unfortunate madman was burnt at Paris, in the year 1663. Imagining that he had seen visions, he carried his folly so far, as to believe that he was sent from God, and that he was incorporated with Jesus Christ.
+In the year 1748, in the bishopric of Wurtsburg, an old woman was convicted of witchcraft and burnt. This was an extraordinary phenomenon in the present century. But how incredible it seems, that a people, who boasted of their reformation, and of having trampled superstition under their feet, and who flattered themselves that they had brought their reason to perfection; is it not wonderful, I say, that such a people should have believed in witchcraft; should have burnt old women accused of this crime, and that above a hundred years after the pretended reformation of their reason?.
 
-The Parliament very wisely condemned him to be confined in a mad-house. What was very remarkable, there happened to be confined in the same mad-house another fool, who called himself God the Father. Simon Morin was so struck with the folly of his companion, that he acknowledged his own, and appeared for a time to have recovered his senses. He declared his repentance, and, unfortunately for himself, obtained his liberty.
+In the year 1652, a country woman, named Michelle Chaudron, of the little territory of Geneva, met the devil in her way from the city. The devil gave her a kiss, received her homage, and imprinted on her upper lip and on her right breast, the mark which he is wont to bestow upon his favourites. This seal of the devil is a little sign upon the skin, which renders it insensible, as we are assured by all the demonographical civilians of those times.
 
-Some time after, he relapsed into his former nonsense, and began to dogmatize. His unhappy destiny brought him acquainted with St. Sorlin Desmarets, who, for some months, was his friend, but who afterwards, from jealousy, became his most cruel persecutor.
+The devil ordered Michelle Chaudron to bewitch two young girls. She obeyed her master punctually. The parents of the two girls accused her of dealing with the devil. The girls, being confronted with the criminal, declared, that they felt a continual prickling in some parts of their bodies, and that they were possessed. Physicians were called, at least men that passed for physicians in those days. They visited the girls. They sought for the seal of the devil on the body of Michelle, which seal is called, in the verbal process, the Satanical mark. Into one of these marks they plunged a long needle, which was already no small torture. Blood issued from the wound, and Michelle testified by her cries that the part was not insensible. The judges not finding sufficient proof that Michelle Chaudron was a witch, ordered her to be tortured, which infallibly produced the proof they wanted. The poor wretch, overcome by torment, confessed at last every thing they desired.
 
-This Desmarets was no less a visionary than Morin. His first follies indeed were innocent. He printed the Tragi-Comedies of Erigone and Mirame, with a translation of the Psalms; the Romance of Ariane, and the Poem of Clovis, with the office of the holy Virgin turned into verse. He likewise published dithyrambic poems, enriched with invectives against Homer and Virgil. From this kind of follies he proceeded to others of a more serious nature. He attacked Port-Royal, and after confessing that he had perverted some women to atheism, he commenced prophet. He pretended that God had given him, with his own hand, the key to the treasure of the Apocalypse, that with this key he would reform the whole world, and that he should command an army of an hundred and forty thousand men against the Jansenists.
+The physicians sought again for the Satanical mark, and found it in a little black spot on one of her thighs. Into this they plunged their needle. The poor creature, exhausted and almost expiring with the pain of the torture, was insensible to the needle, and did not cry out. She was instantly condemned to be burnt; but the world beginning at this time to be a little more civilized, she was previously strangled.
 
-Nothing could have been more reasonable and more just, than to have confined him in the same place with Simon Morin; but can it be Edition: current; Page: [189] believed, that he found credit with the Jesuit Annat, the king’s confessor? whom he persuaded, that this poor Simon Morin would establish a sect almost as dangerous as the Jansenists themselves. In short, carrying his infamy so far as to turn informer, he obtained an order to seize the person of his rival. Shall I tell it! Simon Morin was condemned to be burnt alive?
+At this period every tribunal in Europe resounded with such judgments, and fire and faggot were universally employed against witchcraft as well as heresy. The Turks were reproached with having amongst them neither sorcerers, witches, nor demoniacs; and the want of the latter was considered as an infallible proof of the falsity of their religion.
 
-In conducting him to the stake, there was found, in one of his stockings, a paper in which he begged forgiveness of God for all his errors. This ought to have saved him; but no: the sentence was confirmed, and he was executed without mercy.
-
-Such deeds are enough to make a man’s hair bristle with horror. Yet where is the country that hath not beheld such shocking spectacles? Mankind universally forget that they are brothers, and persecute each other even to death. Let us console ourselves with the hope, that such dreadful times are passed, never more to return.
+A zealous friend to the public welfare, to humanity, and to true religion, in one of his writings in favour of innocence, informs us, that there have been above a hundred thousand witches condemned to die by Christian tribunals. If, to these lawful massacres, we add the much superior number of heretics sacrificed, our part of the globe will appear one vast scaffold covered with executioners and victims, and surrounded by judges, guards, and spectators.

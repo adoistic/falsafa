@@ -2,7 +2,7 @@
   "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
   "work_title": "An Essay on Crimes and Punishments",
   "chapter_number": 65,
-  "chapter_title": "CHAPTER XVI.: OF RELIGIOUS CONFESSION.",
+  "chapter_title": "Chapter XVII.: Of False Money.",
   "chapter_slug": "65",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 772,
-      "paragraph_count": 14,
+      "word_count": 153,
+      "paragraph_count": 1,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
     }

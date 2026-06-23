@@ -1,0 +1,29 @@
+---
+work_id: "f58a10dd-5d81-5fcd-a344-bcad41192fb0"
+work_slug: "john-wade-the-black-book-an-exposition-of--f58a10"
+work_title: "The Black Book: An Exposition of Abuses in Church and State"
+author_name: John Wade
+chapter_number: 1
+chapter_title: Address to the New Edition.
+chapter_slug: "01-address-to-the-new-edition"
+variant_id: "bc59f2b8-b2c5-5c48-ae3c-abd3e056890a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 639
+source_url: "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+translator: Online Library of Liberty edition
+---
+
+In our Dedication, written about a twelvemonth since, we expressed a want of confidence in the Whig Ministry. In the interval they have gained on our esteem. They mean well, but the difficulties they have to surmount are great. Arrayed against them are all the interests identified with public abuses, and which have so long flourished by the ruin of the country; but they must be compelled to yield. The People are quiescent; it is the quiescence of hope: should doubt prevail, they will rise in their might and scatter the band—the factious band that would interpose its selfish ends between the weal of twenty-four millions of persons.
+
+The People have nobly done their duty, and Ministers must do Edition: current; Page: [viii] theirs. In the words of their chief, they are individually pledged to the Reform Bill; it is the tenure of administration. They know their power; and to have held office so long without the means and determination to accomplish the public wish, would have been basely perfidious,—it would have been treachery to the nation. Their honour is bound up in the Bill—our patriotic Monarch is faithful—the People are unanimous—and it must be carried in all its integrity. Every interest in the empire is abased, shaken, or powerless, except that of Reform, and it must triumph: it is essential to the harmony of the Constitution and the peace of the community.
+
+Hitherto, in their domestic policy, Ministers have claims on the confidence of the public. In Ireland they have endeavoured to substitute national interests and toleration, for the reign of factions and religious feuds. They have not fomented plots, nor sought by new laws to abridge popular liberties. They have entered on the Augean stable of judicial abuses. They have cut down a part of our enormous establishments; they have even touched their own salaries, and meditate further reductions. In the work of economy has consisted their greatest difficulty; it tends to generate opposition and discontent among those who ought to be their servants, and, by impairing future prospects, dilutes the zeal of mercenary supporters; but it has conciliated the esteem of the People.
+
+Abroad they have maintained peace and leaned to the side of constitutional governments. The battle of continental freedom is not yet won. A terrible phalanx is couched in the North and East, which waits only the acquiescence or neutrality of this country to open a new crusade against liberal institutions. While England and France are united, the hordes of Tyrants will not break from their ambush. Englishmen are awake! Feudal pretexts of national rivalry and hereditary hate will not excite hostile feelings towards a nation with which so many interests in common ought to unite them in amicable bonds. They rightly appreciate the Aberdeen school of foreign politics; they will not again suffer the produce of industry to be squandered and future calamities entailed in support of aristocratic wars,—in support of wars to defend Misrule at home and Despotism abroad!
+
+So long as Ministers pursue national objects, they will be supported. They have opposed to them only that delinquent Muster-roll with whose names are associated every lavish grant—every attack on public liberty—every insolence of authority for the last forty years. That they should be vanquished by a set like this, when supported by the People, is impossible. While, however, we seek for them popular aid, it is, we repeat, an aid accompanied with unceasing vigilance. Government is Edition: current; Page: [x] power, and its agents will luxuriate in the enjoyment without strict responsibility. Its inherent tendency is to abuse, not to improvement. Individuals are slow to reform without imperative motives; governments are still more reluctant: they are always prompt to bequeath the redemption of their follies to their successors; while posterity has cause to lament that justice has not been contemporary with guilt.

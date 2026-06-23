@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 15,
+  "chapter_title": "Letter 15",
+  "chapter_slug": "15-letter-15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a3ce922a-5d25-5e96-8043-8c5b6541ff1e",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 506,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8326cc61-4266-554d-926b-c2541be68ec4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 897,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

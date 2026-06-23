@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
+  "work_title": "Essays in Socialism: New & Old",
+  "chapter_number": 3,
+  "chapter_title": "The Materialistic Doctrine of History",
+  "chapter_slug": "03-the-materialistic-doctrine-of-history",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e1a47e0f-bea3-55f3-8b83-8b503406aa69",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4374,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1907/essays/02-material.htm"
+    }
+  ]
+}

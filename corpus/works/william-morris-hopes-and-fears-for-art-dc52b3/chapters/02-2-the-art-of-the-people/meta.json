@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-hopes-and-fears-for-art-dc52b3",
+  "work_title": "Hopes and Fears for Art",
+  "chapter_number": 2,
+  "chapter_title": "2. The Art of the People",
+  "chapter_slug": "02-2-the-art-of-the-people",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6b34e58b-7644-573c-8ded-8812fbe04be6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8649,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1882/hopes/chapters/chapter2.htm"
+    }
+  ]
+}

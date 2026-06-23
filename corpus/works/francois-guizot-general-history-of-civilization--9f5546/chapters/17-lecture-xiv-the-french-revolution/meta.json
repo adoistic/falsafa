@@ -1,0 +1,26 @@
+{
+  "work_slug": "francois-guizot-general-history-of-civilization--9f5546",
+  "work_title": "General History of Civilization in Europe",
+  "chapter_number": 17,
+  "chapter_title": "Lecture XIV.: The French Revolution.",
+  "chapter_slug": "17-lecture-xiv-the-french-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9f7994e-6eda-5786-9157-60f10c02c5a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 35519,
+      "paragraph_count": 423,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/knight-general-history-of-civilization-in-europe"
+    }
+  ]
+}

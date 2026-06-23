@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 21,
+  "chapter_title": "VII. The Origin of the Great Peasant War",
+  "chapter_slug": "21-vii-the-origin-of-the-great-peasant-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1d6459d7-4ea1-548f-9a87-011a7a4461e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2569,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch04b.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-signs-of-change-676fea",
+  "work_title": "Signs of Change",
+  "chapter_number": 6,
+  "chapter_title": "6. Useful Work versus Useless Toil",
+  "chapter_slug": "06-6-useful-work-versus-useless-toil",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9eb22028-c361-5f85-9a12-415d15cb6637",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8502,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1888/signs/chapters/chapter6.htm"
+    }
+  ]
+}

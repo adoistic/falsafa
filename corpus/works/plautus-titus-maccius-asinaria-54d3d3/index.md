@@ -4,7 +4,10 @@ slug: "plautus-titus-maccius-asinaria-54d3d3"
 title: Asinaria
 author:
   name: Plautus, Titus Maccius
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman comic playwright of the early Republic, adapting Greek New Comedy for the Latin stage. His twenty surviving fabulae palliatae are the earliest complete works of Latin literature and shaped later European comedy.
+  birth_year: -254
+  death_year: -184
+  nationality: Roman
 era: Hellenistic
 genre: Classics
 language: Latin

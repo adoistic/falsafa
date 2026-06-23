@@ -4,7 +4,7 @@ work_slug: "eugen-richter-pictures-of-the-socialistic-futu-81939f"
 work_title: Pictures of the Socialistic Future
 author_name: Eugen Richter
 chapter_number: 37
-chapter_title: "Chapter XXXIV: DISHEARTENING NEWS."
+chapter_title: "Chapter XXXIV: Disheartening News."
 chapter_slug: 37
 variant_id: "9495ac25-287f-5397-92ab-b2bf8415c230"
 content_type: translation

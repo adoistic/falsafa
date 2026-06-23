@@ -4,7 +4,7 @@ work_slug: "auberon-herbert-and-j-h--taxation-and-anarchism-341829"
 work_title: Taxation and Anarchism
 author_name: Auberon Herbert and J. H. Levy
 chapter_number: 1
-chapter_title: INTRODUCTION.
+chapter_title: Introduction.
 chapter_slug: "01-introduction"
 variant_id: "57d76599-b479-500a-9b82-a6d7e1bc1266"
 content_type: translation

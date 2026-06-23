@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 20,
+  "chapter_title": "En Route",
+  "chapter_slug": "20-en-route",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "682b5bc2-08c3-5700-a516-8c4ac7ba82d8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1141,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch18.htm"
+    }
+  ]
+}

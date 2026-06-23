@@ -4,13 +4,15 @@ slug: "paul-popenoe-and-roswell-applied-eugenics-d3c68e"
 title: Applied Eugenics
 author:
   name: Paul Popenoe and Roswell Hill Johnson
-  biography: Paul Popenoe and Roswell Hill Johnson (1918).
+  biography: American eugenicists writing jointly, Popenoe a popularizer of heredity and later marriage counseling and Johnson a biologist and petroleum geologist at the University of Pittsburgh. Their 1918 Applied Eugenics served for a generation as the standard American college textbook of the eugenics movement.
+  nationality: American
 era: 20th Century
 genre: Social Theory
 language: English
 language_direction: ltr
 description: "Applied Eugenics, by Paul Popenoe and Roswell Hill Johnson (1918), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1918
 total_logical_chapters: 20
 total_variant_entries: 20
 thothica_role: catalog

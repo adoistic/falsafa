@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f"
 work_title: "Capital and Interest: A Critical History of Economical Theory"
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 28
-chapter_title: "Book VI, Chapter I: Historical Survey"
+chapter_title: "Book VI: The Exploitation Theory, Book VI, Chapter I: Historical Survey"
 chapter_slug: 28
 variant_id: "a60b211c-78d0-5159-8101-a63d216a5876"
 content_type: translation

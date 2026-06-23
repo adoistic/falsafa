@@ -4,7 +4,7 @@ work_slug: "jean-jacques-rousseau-the-social-contract-and-discours-0254b9"
 work_title: The Social Contract and Discourses
 author_name: "Jean-Jacques Rousseau"
 chapter_number: 37
-chapter_title: "CHAPTER XI: the death of the body politic"
+chapter_title: "Chapter XIII: the same (continued)"
 chapter_slug: 37
 variant_id: "abc2a85b-faed-5d67-b0c2-51b05e0aed40"
 content_type: translation
@@ -13,17 +13,23 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 439
+word_count: 516
 source_url: "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
 translator: Online Library of Liberty edition
 ---
 
-Such is the natural and inevitable tendency of the best constituted governments. If Sparta and Rome perished, what State can hope to endure for ever? If we would set up a long-lived form of government, let us not even dream of making it eternal. If we are to succeed, we must not attempt the impossible, or flatter ourselves that we are endowing the work of man with a stability of which human conditions do not permit.
+It is not enough for the assembled people to have once fixed the constitution of the State by giving its sanction to a body of law; it is not enough for it to have set up a perpetual government, or provided once for all for the election of magistrates. Besides the extraordinary assemblies unforeseen circumstances may demand, there must be fixed periodical assemblies which cannot be abrogated or prorogued, so that on the proper day the people is legitimately called together by law, without need of any formal summoning.
 
-The body politic, as well as the human body, begins to die as soon as it is born, and carries in itself the causes of its destruction. But both may have a constitution that is more or less robust and suited to preserve them a longer or a shorter time. The constitution of man is the work of nature; that of the State the work of art. It is not in Edition: current; Page: [78] men’s power to prolong their own lives; but it is for them to prolong as much as possible the life of the State, by giving it the best possible constitution. The best constituted State will have an end; but it will end later than any other, unless some unforeseen accident brings about its untimely destruction.
+But, apart from these assemblies authorised by their date alone, every assembly of the people not summoned by the magistrates appointed for that purpose, and in accordance with the prescribed forms, should be regarded as unlawful, and all its acts as null and void, because the command to assemble should itself proceed from the law.
 
-The life-principle of the body politic lies in the sovereign authority. The legislative power is the heart of the State; the executive power is its brain, which causes the movement of all the parts. The brain may become paralysed and the individual still live. A man may remain an imbecile and live; but as soon as the heart ceases to perform its functions, the animal is dead.
+The greater or less frequency with which lawful assemblies should occur depends on so many considerations that no exact rules about them can be given. It can only be said generally that the stronger the government the more often should the Sovereign show itself.
 
-The State subsists by means not of the laws, but of the legislative power. Yesterday’s law is not binding to-day; but silence is taken for tacit consent, and the Sovereign is held to confirm incessantly the laws it does not abrogate as it might. All that it has once declared itself to will it wills always, unless it revokes its declaration.
+This, I shall be told, may do for a single town; but what is to be done when the State includes several? Is the sovereign authority to be divided? Or is it to be concentrated in a single town to which all the rest are made subject?
 
-Why then is so much respect paid to old laws? For this very reason. We must believe that nothing but the excellence of old acts of will can have preserved them so long: if the Sovereign had not recognised them as throughout salutary, it would have revoked them a thousand times. This is why, so far from growing weak, the laws continually gain new strength in any well constituted State; the precedent of antiquity makes them daily more venerable: while wherever the laws grow weak as they become old, this proves that there is no longer a legislative power, and that the State is dead.
+Neither the one nor the other, I reply. First, the sovereign authority is one and simple, and cannot be divided without being destroyed. In the second place, one town cannot, any more than one nation, legitimately be made subject to another, because the essence of the body politic lies in the reconciliation of obedience and liberty, and the words subject and Sovereign are identical correlatives the idea of which meets in the single word “citizen.”
+
+I answer further that the union of several towns in a single city is always bad, and that, if we wish to make such a union, we should not expect to avoid its natural disadvantages. It is useless to bring up abuses that belong to great States against one who desires to see only small ones; but how can small States be given the strength to resist great ones, as formerly the Greek towns resisted the Great King, and more recently Holland and Switzerland have resisted the House of Austria?
+
+Nevertheless, if the State cannot be reduced to the right limits, there remains still one resource; this is, to allow no capital, to make the seat of government move from town to town, and to assemble by turn in each the Provincial Estates of the country.
+
+People the territory evenly, extend everywhere the same rights, bear to every place in it abundance and life: by these means will the State become at once as strong and as well governed as possible. Remember that the walls of towns are built of the ruins of the houses of the countryside. For every palace I see raised in the capital, my mind’s eye sees a whole country made desolate.

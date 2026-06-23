@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-winslow-taylor-the-principles-of-scientific-man-5cd9fa",
+  "work_title": "The Principles of Scientific Management",
+  "chapter_number": 3,
+  "chapter_title": "The Finest Type of Ordinary Management",
+  "chapter_slug": "03-the-finest-type-of-ordinary-management",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "76ecba60-9112-5f2a-8a6b-349c8a22a549",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 29487,
+      "paragraph_count": 299,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/taylor/principles/ch02.htm"
+    }
+  ]
+}

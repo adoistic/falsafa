@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-system-of-economical-contradicti-358ea4",
+  "work_title": "System of Economical Contradictions: or, The Philosophy of Poverty",
+  "chapter_number": 18,
+  "chapter_title": "Chapter VII. Fifth Period. — Police, Or Taxation.",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e39d4821-13dd-51e4-b915-b5eedb10f1e7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 484,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/philosophy/ch07.htm"
+    }
+  ]
+}

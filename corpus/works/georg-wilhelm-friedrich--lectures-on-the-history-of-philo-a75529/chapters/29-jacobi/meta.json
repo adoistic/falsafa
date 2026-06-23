@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 29,
+  "chapter_title": "Jacobi",
+  "chapter_slug": "29-jacobi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a02394e1-6f3d-57fc-992b-5ef056ee723c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4552,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hpjacobi.htm"
+    }
+  ]
+}

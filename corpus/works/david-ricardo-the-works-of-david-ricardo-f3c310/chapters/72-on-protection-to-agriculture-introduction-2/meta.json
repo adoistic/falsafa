@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 72,
+  "chapter_title": "On Protection to Agriculture, Introduction. (2)",
+  "chapter_slug": "72-on-protection-to-agriculture-introduction-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f2d8e13-9266-5b73-8036-1d548a70c858",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 284,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

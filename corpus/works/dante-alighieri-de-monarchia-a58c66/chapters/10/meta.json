@@ -2,7 +2,7 @@
   "work_slug": "dante-alighieri-de-monarchia-a58c66",
   "work_title": "De Monarchia",
   "chapter_number": 10,
-  "chapter_title": "CHAPTER VII: The relation of kingdoms and nations to the monarch should be that of humanity to God.",
+  "chapter_title": "Chapter VII: The relation of kingdoms and nations to the monarch should be that of humanity to God.",
   "chapter_slug": "10",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 163,
+      "word_count": 159,
       "paragraph_count": 1,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"

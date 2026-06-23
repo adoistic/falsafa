@@ -4,7 +4,7 @@ work_slug: "nicholas-barbon-a-discourse-of-trade-e7c561"
 work_title: A Discourse of Trade
 author_name: Nicholas Barbon
 chapter_number: 1
-chapter_title: INTRODUCTION
+chapter_title: Introduction
 chapter_slug: "01-introduction"
 variant_id: "12865340-f510-5ef9-8a5c-4d6e07a81004"
 content_type: translation

@@ -1,222 +1,97 @@
 [
   {
-    "id": "p-ac06f3",
+    "id": "p-b4cf09",
     "offset": 0,
-    "text": "I proceed to the direct consideration of the present state of the population of the United States of North America. And that we may have the more accurate ideas on the subject, I will set it down in numbers, in two forms."
+    "text": "It has already appeared, I trust, to the satisfaction of every reader, that the only increase of the number of human beings in any community by procreation, must be by increasing the proportion of births to a marriage, or, more strictly speaking, to the amount of women capable of child-bearing in that community."
   },
   {
-    "id": "p-d29e58",
-    "offset": 223,
-    "text": "First, the different stages of the population, as given in Pitkin's Statistical View of the United States, and referred to by Mr. Malthus in his letter addressed to me, of the date of October 24, 1818. In this author there occurs:"
+    "id": "p-bba76f",
+    "offset": 315,
+    "text": "This is the essence of the question which the Essay on Population professes to treat. If Mr. Malthus, or any writer less presumptuous than Mr. Malthus, should hereafter undertake to deliver any thing sound and substantial on the subject, to this point it is necessary he should direct his investigation."
   },
   {
-    "id": "p-1108ab",
-    "offset": 455,
-    "text": "1. An Estimate for 1749—1,046,000."
+    "id": "p-8b8467",
+    "offset": 620,
+    "text": "It should seem therefore as if the United States afforded us no ground to stand on: I have taken considerable pains to obtain information in this point, but have been unable to procure any thing satisfactory."
   },
   {
-    "id": "p-ca46dc",
-    "offset": 491,
-    "text": "2. The Census of 1790—3,929,326."
+    "id": "p-42bbf9",
+    "offset": 830,
+    "text": "The only thing I have seen, that comes to the point in this essential question, is a paper in the third volume of the Transactions of the American Philosophical Society held at Philadelphia, entitled, Observations on the Probabilities of the Duration of Human Life, and the Progress of Population, in the United States of America, by William Barton, Esq, which paper was read in a meeting of the society, on the eighteenth of March, 1791."
   },
   {
-    "id": "p-4c5d20",
-    "offset": 525,
-    "text": "3. The Census of 1810 [omitting for the sake of perspicuity that of 1800]—7,239,903."
+    "id": "p-130d0f",
+    "offset": 1270,
+    "text": "These Observations are expressly written to support the principle first started by Dr. Franklin, Dr. Ezra Styles, and others, in laud and glory of the land of America."
   },
   {
-    "id": "p-9210ee",
-    "offset": 611,
-    "text": "Secondly, Another view, materially connected with a just conception of the subject, will be suggested by a consideration of the annual increase, to be inferred from these data. I will take my stand therefore upon the period of lord Delawar's first expedition in 1610, and proceed on the principle that nothing worthy the name of a settlement, or that laid the just foundation of a European population of the North American continent, had occurred before that time."
+    "id": "p-cfc5e0",
+    "offset": 1439,
+    "text": "The testimony of an adversary, if it should turn out to be in favour of the opinion I have delivered, is of double force; and on that account I value the testimony of Mr. Barton. In his paper he has the following remarkable passage."
   },
   {
-    "id": "p-f80b2c",
-    "offset": 1077,
-    "text": "The annual increase, upon that hypothesis,"
+    "id": "p-b5eef6",
+    "offset": 1673,
+    "text": "Having asserted, that “the United States of America possess in a superior degree an inherent, radical and lasting source of national vigour and greatness; since it will be found that in no other part of the world (at least in none of those parts with which we are best acquainted) is the progress of population so rapid as in these States:” he enters into certain calculations; and then proceeds thus:"
   },
   {
-    "id": "p-30e814",
-    "offset": 1121,
-    "text": "We should certainly proceed very idly in our examination of this question, if we did not admit that there is considerable difficulty. It was this difficulty that gave birth to the vain boasts of Dr. Franklin and Dr. Styles, and to the atrocious and heart-appalling theories of Mr. Malthus."
+    "id": "p-a19d1d",
+    "offset": 2076,
+    "text": "“From the foregoing statements it may be presumed, that four and a half persons to a house, and the same proportion of births to a marriage, are an allowance quite high enough for some of the healthiest parts of Europe. There is but one instance, in which I have been enabled to obtain the actual proportion of births to marriages in this country. At the first parish in Hingham, in the State of Massachuset, during the course of fifty-four years, there were two thousand two hundred and forty-seven. births, one thousand one hundred and thirteen deaths, and five hundred and twenty-one marriages; which gives the proportion of six and a quarter births to a marriage. Therefore, the proportion of births to marriages in that parish having been taken out of so considerable a number of persons, and for so long a time, inclines me to think it may serve as a pretty just standard for the country-parts of the northern, and perhaps of the middle states.”— It is to be observed that Mr. Barton comes down here from Dr. Franklin's vantage-ground of “eight being the average number of births to an American marriage.”"
   },
   {
-    "id": "p-cc5825",
-    "offset": 1412,
-    "text": "We have no choice in the solution of this question, but either to refer it to an inherent, rapid and incessant power in the human species to multiply its numbers, or to emigration. It has been the purpose of all that has gone before in this Treatise, and particularly of the Second and Third Books, to prove that the former of these is impossible."
+    "id": "p-9ae93a",
+    "offset": 3189,
+    "text": "Having Mr. Barton's numbers however before me, I thought it proper to try the justness of his conclusion by the Rule of Three. And, this being the very essence of the question, I shall here set down the steps of the process entire. Thus"
   },
   {
-    "id": "p-0e2094",
-    "offset": 1761,
-    "text": "The substantial part of the solution must therefore be from emigration. The present population of the North American continent, with one exception which will presently be mentioned, must have arisen from a direct transportation of the inhabitants of the Old World to the New."
+    "id": "p-701301",
+    "offset": 3427,
+    "text": "Divide 2247 births, by 521 marriages:"
   },
   {
-    "id": "p-e3639b",
-    "offset": 2038,
-    "text": "In one point of view there is nothing wonderful in this. Let us take the present population of the United States at ten millions. What are ten millions of human creatures to the population of Europe? According to the latest geographers Europe is computed to contain 153,000,000 souls. Ten millions of these therefore, one would naturally say, might be taken away, and never be missed. But in some parts of Europe, at least, they are missed."
+    "id": "p-5e5dee",
+    "offset": 3466,
+    "text": "And the result will be 4.312 births to a marriage.—How Mr. Barton came to imagine that six and a quarter was the quotient, instead of four and a fraction somewhat above a quarter, it is impossible for me to divine."
   },
   {
-    "id": "p-b9363b",
-    "offset": 2480,
-    "text": "The difficulty therefore is not in supposing that ten millions of human beings, born in Europe, should have spent the middle or concluding part of their lives in the tract of country which now constitutes the territory of the United States. It lies merely in the astounding Edition: current; Page: [404] conception of their passage over; and the wonderful in this is rather increased, than otherwise, by the putting it in the form of an annual supply: such being the constitution of the human mind, that we understand better, and reason more clearly, upon any subject connected with numbers, when those numbers have been so reduced that we can compass and wield them. As far as the population of the United States has grown from emigration merely, it is necessary, with one limitation which I shall presently mention, that 165,000 emigrants, upon an average, should have passed over annually from Europe, during the twenty years which elapsed between 1790 and 1810."
+    "id": "p-334b92",
+    "offset": 3682,
+    "text": "It is particularly to be observed that Mr. Barton's numbers for births, marriages, and deaths, are printed in words at length; so that we may be tolerably certain that no error of the press lurks in the statement."
   },
   {
-    "id": "p-c16196",
-    "offset": 3447,
-    "text": "The limitation I allude to lies in this. The majority of the emigrants that pass over from Europe to North America may be supposed to be in the flower of their life. Now every such emigrant is equal to two human beings, taken indiscriminately among the population, or rather among the rising generation, of an old established country. For example, we have found that, in four children born into the world, we have no right to count upon more than one female who, by child-bearing, can contribute to keep up or Edition: current; Page: [405] increase the numbers of mankind in the next generation. But, of emigrants withdrawing themselves to America, as we have been informed they usually withdraw themselves in families, we have a right, if they go in the flower of their lives, out of every four, to count upon two females who, by child-bearing, may contribute to the future population of the country. Those who pass over in the flower of their lives, have already surmounted the dangers of childhood and early life, and the females among them may immediately be counted in the roll of those effective members of the community for the purpose here treated of, who, and who alone, (exclusively of such a number of males as may be necessary to give effect to the procreative principle in them) are of value in keeping up the internal and proper population of a country. Perhaps, in consideration of this exception, we may reduce the number of emigrants necessary, upon the principles of this treatise, to account for the reported increase of population in the United States for twenty years, from 1790 to 1810, from one hundred and sixty-five thousand annually, to eighty or ninety thousand."
+    "id": "p-d4e671",
+    "offset": 3897,
+    "text": "Now this brings us down at once to something like the European standard. And it is sufficiently remarkable that four and a half births to a marriage, a proportion somewhat greater than what is here brought out for “the first parish in Hingham in the State of Massachusets,” is Mr. Barton's allowance for “the healthiest parts of Europe.”"
   },
   {
-    "id": "p-2f47eb",
-    "offset": 5138,
-    "text": "Emigrants for the most part pass away silently from their native shores, and make no noise, except perhaps among their own immediate neighbourhood. Even so much as this does not happen, in so far as they emigrate from among the settled inhabitants of great towns and cities."
+    "id": "p-367b16",
+    "offset": 4236,
+    "text": "Mr. Malthus was the first to detect the error in Mr. Barton's statement, though he lets himself down as softly as he can, by calling the true quotient 4½"
   },
   {
-    "id": "p-08be59",
-    "offset": 5414,
-    "text": "In this last case the process is something like what Dr. Donne describes of the death of the virtuous man,"
+    "id": "p-4043f8",
+    "offset": 4391,
+    "text": "Since writing the above, I have had transmitted to me by my valued friend, Mr. Joseph Valence Bevan of Georgia, reports of the marriages and births in Portsmouth, the capital of New Hampshire, for six years, from 1804 to 1809, drawn up and published on the spot by Dr. Lyman Spalding. These are the more important, as they relate to those Northern States of America, upon the increase of population in which by procreation only, Mr. Malthus has thought proper to lay his principal stress. They are as follow."
   },
   {
-    "id": "p-a466db",
-    "offset": 5522,
-    "text": "While some of his sad friends doe say,"
+    "id": "p-186998",
+    "offset": 4901,
+    "text": "Now in these reports, if I take the latest year, it will give me something less than 4 1/5 births to a marriage: and, if I add the whole six years together, the proportion will be found to be 441/100 to one."
   },
   {
-    "id": "p-28fb00",
-    "offset": 5562,
-    "text": "The breath goes now; and some say, No."
+    "id": "p-2e6ebd",
+    "offset": 5110,
+    "text": "My friend at the same time transmitted to me a paper of the Return under these heads for the city and suburbs of Philadelphia: but this is only for the one year 1818, and does not distinguish the sexes of the born: the result is, “Marriages (as far as obtained) 792; Baptisms 2221:” yielding a quotient of fewer than three births to a marriage. It is somewhat remarkable that this Return concludes with a memorandum, that “the baptisms of this year were decreased by 282, and the burials increased by 64.”"
   },
   {
-    "id": "p-d81154",
-    "offset": 5602,
-    "text": "It may be considered at this time as something like an admitted principle, that the population of great cities cannot be kept up without continual supplies from the rural parts of the state. These again may be supposed to pass off by emigration to foreign countries, and their places a second and a third time to be filled by supplies from the rural inhabitants, while the whole is no more adverted to, than the insensible transpiration in the human body, by means of which principally it has been supposed that perhaps not a particle of the frame remains the same after a lapse of twenty years."
+    "id": "p-e1daea",
+    "offset": 5617,
+    "text": "Thus, the further we enquire into the subject, the more we find the progress of the numbers of mankind by procreation in the United States, conforming itself to the model of Europe. In rural situations, such as Mr. Barton's parish in Hingham, and Dr. Spalding's Portsmouth in New Hampshire, the fruitfulness of marriages appears to be such as we might expect in rural and healthful situations in the Old World. But, when we come to large capitals, such as Philadelphia, the progress of population is reduced; and we are led to conclude of North America, as of Europe, that the number of inhabitants in great towns would not be kept up, without a perpetual influx of new citizens from distant quarters."
   },
   {
-    "id": "p-d46623",
-    "offset": 6199,
-    "text": "One way of considering the subject, so far as this island is concerned, is by comparing the gross estimate of our merchant-ships at different periods. We are told that, between the years 1630 and 1640, twenty-one thousand two hundred British subjects were computed to have passed over to New England only. I have not before me an account of the tonnage of the merchant-ships of Great Britain at that period. But the following is an extract from Anderson's History of Commerce, as to the annual amount of merchant-ships from the Restoration."
-  },
-  {
-    "id": "p-68a902",
-    "offset": 6741,
-    "text": "Anderson's account ends with the year 1780. But, as our concern is particularly with the shipping of a later period, I have obtained a supplement in relation to more recent years, which I have no doubt may be relied on as correct"
-  },
-  {
-    "id": "p-005eb8",
-    "offset": 6972,
-    "text": "The simple deduction by the rule of three from the two extremes of this statement is, that if 142,900 tons yielded an emigration to America to the annual amount of 2000 persons, 3,072,409 tons in the year 1818, computing at the same rate, will yield an annual emigration, from Great Britain only, of 43,000 persons. It may be doubted however, whether the amount of shipping in the merchant service was so great between the years 1630 and 1640, as an the years 1663 and 1669, which Anderson has Edition: current; Page: [408] chosen. The victories of the Commonwealth of England over the Dutch, and the Act of Navigation, had occurred between. In that case, as 2000 settlers were conveyed to North America by a state whose annual shipping was much under 142,000 tons, a greater number of emigrants in proportion than 43,000 may be conceived to have been conveyed from a state whose annual shipping exceeded three millions of tons. I doubt also whether the impulse to emigrate, or, as Dr. Johnson calls it, “the fever of emigration,” to the continent of North America, has not been twice as general in our days, as it was in the days of Charles the First. It must be remembered too that Ireland is wholly excluded from this statement. If then we allow only 43,000 annually for the emigration from Great Britain, that from Ireland, together with “the vast tide of emigration which is at present flowing from all parts of Europe to the United States of America,” as I find it expressed by a late writer, will soon mount up the whole to as great a number, as any hypothesis on the subject can require."
-  },
-  {
-    "id": "p-52d57a",
-    "offset": 8569,
-    "text": "In the investigation of this subject my attention was necessarily called to the encouragement held out by the government of Great Britain to induce the inhabitants of this island, or, what it has lately been fashionable to call, our “surplus Edition: current; Page: [409] population,” to transport themselves to North America. This has been one of the blessings immediately growing out of Mr. Malthus's theory, that, whereas the patriotic sovereigns and rulers of former times, sought to increase the number of their subjects, and deemed it their glory to preside over an industrious and numerous population, our governors have been taught that it is one of their first duties, to reduce the amount of their countrymen, and to render the thin population of this once happy island still thinner and more sparing than they found it."
-  },
-  {
-    "id": "p-d9ea13",
-    "offset": 9401,
-    "text": "The first circumstance of this kind that fixed my attention, was the publications of Mr. John Campbel, styling himself government-commissioner and general agent in Scotland for this business. His first manifesto or declaration on the subject is dated Edinburgh, 22 February 1815. I accordingly endeavoured to procure the most authentic information as to the plan and effects of his undertaking; and the account I have received is as follows."
-  },
-  {
-    "id": "p-7609f2",
-    "offset": 9844,
-    "text": "The encouragements held out in the first year were, a grant of land to the settler, a free passage, implements of husbandry, and provisions for the first six months. These were afterwards discontinued, with the exception of the grant of land, on account of the great expence which was found to accrue."
-  },
-  {
-    "id": "p-6de392",
-    "offset": 10147,
-    "text": "A further inducement to such as might be Edition: current; Page: [410] willing to transport themselves, is thus expressed: “Should any number of families, proceeding from the same part of the United Kingdom, be desirous of settling in the same neighbourhood in Canada, care will be taken to allot them lands as nearly as possible contiguous to each other; and a sufficient portion of land will be appropriated, in the midst of such settlers, for a church, and for the maintenance of a clergyman and a schoolmaster, and a salary of one hundred pounds per annum will be provided to the minister, and fifty pounds per annum to the schoolmaster, for such period as shall afterwards be specified.”"
-  },
-  {
-    "id": "p-171983",
-    "offset": 10841,
-    "text": "No accurate return could be furnished of the number of settlers, who have availed themselves of the encouragement thus held out to them; but it is supposed, that about five thousand persons went out as settlers to Canada upon this plan in 1815, that an equal or greater number emigrated in 1816, and that their numbers annually have not since diminished. Many also have undoubtedly gone out, without being furnished with letters from the secretary of state, the governors of the two provinces of Upper and Lower Canada having a discretionary power to make grants of land to persons applying for them, not exceeding twelve thousand acres to one person. It appears from a paper just put into my hands, published by the Emigrant Society of Quebec, and dated 11 October, 1819, that Edition: current; Page: [411] “the number of emigrants arriving at that port, since the opening of the navigation for the present season, amounts to upwards of twelve thousand, which probably exceeds two-thirds ot the population of the city itself,” and that the consequence has been a great accumulation of distress."
-  },
-  {
-    "id": "p-bedfd7",
-    "offset": 11938,
-    "text": "I have received an official account from Ireland of the number of persons who emigrated from that country to North America in three years, ending 5 January, 1819. The total stands thus:"
-  },
-  {
-    "id": "p-55e25d",
-    "offset": 12125,
-    "text": "Number of persons emigrating from Dublin 6645 ——from Ireland generally 35,633 Is there no chance that the persons actually emigrating, should even have exceeded the number officially reported under that head?"
-  },
-  {
-    "id": "p-4f1ec5",
-    "offset": 12335,
-    "text": "The following is an extract of notices, appearing in Niles's Baltimore Weekly Register, a journal of the highest character for authenticity in the United States."
-  },
-  {
-    "id": "p-6e8a1a",
-    "offset": 12498,
-    "text": "“Within the last two weeks, ending yesterday morning, we have received accounts of the arrival of twenty-six vessels, at the several ports of the United States, with two thousand five hundred and twelve passengers, viz."
-  },
-  {
-    "id": "p-89ea6c",
-    "offset": 12719,
-    "text": "“Emigration. The two weeks ending yesterday gave us accounts of the arrival of 21 vessels, with emigrants from Europe, viz."
-  },
-  {
-    "id": "p-31857d",
-    "offset": 12844,
-    "text": "“Of these one hundred and seventy-one reached the United States via Halifax, though great inducements are held out to settlers there. As for instance, a Dutch ship which arrived at Philadelphia, put into that port for provisions, when the government offered to the passengers 10,000 acres of land, gratis, in fee simple, and farming utensils, if they would stay there; but they refused it. Many settlers, as they are called, arrive in Canada, from whence hundreds of them pass up the river, &c. and cross into New York and Ohio. It seems to be discovered, that it is more convenient to reach our country through the British colonies, than to come on direct. Facilities are afforded for the former, which are denied to the latter.”"
-  },
-  {
-    "id": "p-580e41",
-    "offset": 13576,
-    "text": "“October 25, 1817."
-  },
-  {
-    "id": "p-8cf731",
-    "offset": 13596,
-    "text": "“Emigration. The British ship, Mary Ann, has arrived at Boston in 50 days from London, with two hundred and four passengers. The Mary Ann was bound to St. John (N. B.), but the passengers not wishing to go there rose upon the crew, and brought the vessel into Boston.”"
-  },
-  {
-    "id": "p-4ffdc1",
-    "offset": 13866,
-    "text": "“The current of emigration from the British dominions to the territory of the United States, never was so strong as it is now. For the week ending 31 August, 2150 passengers, nearly the whole of whom were emigrants from Europe, arrived at the single port of New York; and for the subsequent week we kept an account of the passengers reported in the newspapers (which is far short of the number that arrived) and found them to amount to nearly 3000, for five or six principal ports,—and the aggregate may be fairly estimated at 6000 for the two weeks preceding the sixth of September. Of the six thousand, about 4000 were from England, 1000 from Ireland, and the rest from Scotland, Holland and France; about 100 only from the latter.”"
-  },
-  {
-    "id": "p-70f3d6",
-    "offset": 14602,
-    "text": "The Numbers of Niles's Register from which the above extracts are taken, are by no means a regular series; and for the use of these detached Edition: current; Page: [414] sheets I am indebted to the liberality of an American gentleman of high character in this country."
-  },
-  {
-    "id": "p-a84178",
-    "offset": 14873,
-    "text": "In Cobbet's Weekly Register for August 14, 1819, I find, in a letter by that gentleman, dated Long Island, in the state of New York, the following assertion: “Within the last twelve months upwards of a hundred and fifty thousand have landed from England to settle here.” Now every one acquainted with Mr. Cobbet's writings must know, though he is an intemperate politician, and though his productions abound with the most violent and unqualified invectives, yet that he is a hard-headed man, entirely competent to observe bare facts and to report numbers, and that he has not perhaps been detected in misrepresentations of that sort."
-  },
-  {
-    "id": "p-8071a7",
-    "offset": 15508,
-    "text": "I am aware that many of the statements I have last given belong to a period subsequent to the American Census of 1810: but they will at least serve strikingly to illustrate the fact, of the vast number of emigrants from Europe that may be conveyed across the Atlantic, while at the same time a matter of such mighty importance, whether upon Mr. Malthus's hypothesis, or upon the ideas of national policy universally received till the year 1800, attracts a very inconsiderable share of public attention."
-  },
-  {
-    "id": "p-ae1577",
-    "offset": 16012,
-    "text": "A circumstance worthy to be mentioned in this place is the great number of voluntary associations, Edition: current; Page: [415] best known by the name of Emigrant Societies, which are found to exist in all the southern and middle states of the American Union. The object of these associations is two-fold, to assist the destitute emigrant when he arrives, and, by means of authorised agents, and certain fugitive publications of the most inticing and alluring contents, to induce him to leave his native home. In Philadelphia I find these associations under the following appellations; the Society for the Aid and Protection of Irish Emigrants, the St. Patrick's Society, the Hibernian Society, the St. Andrew's Society, the Scot's Thistle Society, the Welsh Society, the St. George's Society, the French Benevolent Society, and the German Society. In New York there is an association of this sort, instituted by Thomas Addis Emmet, called the Shamrock. This society, about two years ago, presented a petition to Congress, praying that a right of preemption in a certain portion of the Illinois territory might be granted to emigrants of the Irish nation, which petition was rejected, on the ground that it was not the policy of the United States to separate their new citizens by districts and boundaries, but rather to blend them into one common mass. This association is accustomed, on two solemn days of the year, the day of their tutelary saint, and the anniversary Edition: current; Page: [416] of the Declaration of American Independence, to parade the streets of New York, with colours flying, and to the sound of instrumental music, in commemoration of the happy period, when they left their native land, and resorted to the hospitable shores of the New World."
-  },
-  {
-    "id": "p-569dfe",
-    "offset": 17784,
-    "text": "The American Congress, about the same time that they refused the prayer of the Shamrock Society, voted a special privilege to emigrants of the French nation, permitting them to obtain property in a certain district at a very low price, upon condition of their cultivating the vine and the olive."
-  },
-  {
-    "id": "p-ef6c92",
-    "offset": 18081,
-    "text": "There is an extreme fallacy in Mr. Malthus's language, when he talks, in his letter to me of October 1818, speaking of the population of the United States, of “foreign immigration.” In the United States there is no idea, correspondent to the term, “a foreigner.” This republic is properly colluvies omnium gentium. No native of any part of Europe will fail in one respect to find himself at home, the moment he has set his foot on the shores of North America; particularly the inhabitants of the British isles, who, according to Mr. Niles's collections, land there at the rate of two or three thousand per week. The term “foreign” in this case conveys to the mind a fallacious idea; since we are accustomed to see what Mr. Malthus calls “foreign immigrants” constituting a Edition: current; Page: [417] very trivial portion of the population of an old country. The American Congress in reality has done wisely in refusing to separate their new citizens by districts and boundaries, in cases where particular countries have sent out to them a great number of settlers, and chusing rather to blend them into one common mass; since, if they were allowed by such separation fully to keep alive their original prejudices, we might expect to see them one day overpowering the Creoles, or proper descendants of the old settlers, just as in some countries we read of slaves, that have become so numerous as to be able to put down and subjugate their masters."
-  },
-  {
-    "id": "p-79502e",
-    "offset": 19533,
-    "text": "The phrase, with which Mr. Malthus introduces his subject, and in the force of which lies the whole foundation of his theories, in the ninth page of his first volume, that “the increase of population in the United States of North America has been repeatedly ascertained to be from procreation only,” is the most dark, cabalistical and unmeaning, that was ever inserted in any work pretending to reasoning. It may challenge any dogma in Jacob Behmen himself. Mr. Malthus tells us in one place that he expects his work to last many thousand years. [“As it is probable, if the world were to last for any number of thousand years, systems of equality would be among those errors, which will never cease to return at certain intervals, I really think there should be somewhere on record an Edition: current; Page: [418] answer to such systems founded on the Principle of Population”]. But Mr. Malthus should be told that his work is not constructed on the plan of a Κτημα ες αμι"
-  },
-  {
-    "id": "p-8179fc",
-    "offset": 20508,
-    "text": "The inference from what is stated in this chapter seems clearly to be, that the whole increase of the population of the United States may be accounted for, without supposing with Dr. Franklin, that, where there is one marriage in Europe, in America there are two, or crediting with him and Mr. Malthus, that, from the superior fruitfulness of the marriagebed in the United States, the human species doubles its numbers in twenty or five-and-twenty years, while the population of Europe is at stand."
-  },
-  {
-    "id": "p-41beb6",
-    "offset": 21008,
-    "text": "Was ever so stupendous and calamitous a fabric erected upon so slender foundations?"
+    "id": "p-650429",
+    "offset": 6320,
+    "text": "If therefore it is true, that the increase of population “by procreation only,” can arise in no other way than that of an increased number of births,, then it is as plain as the operations of arithmetic can make it, that in every instance where the evidence has come to our hands, the fruitfulness of the human species in the United States does in no way materially differ, from what occurs on the subject in many countries of Europe."
   }
 ]

@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-social-statics-32e645",
+  "work_title": "Social Statics",
+  "chapter_number": 34,
+  "chapter_title": "Chapter XXIX, currency, postal arrangements, etc.",
+  "chapter_slug": "34",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "15895384-d894-55e4-8744-b11d19ac69ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3406,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+    }
+  ]
+}

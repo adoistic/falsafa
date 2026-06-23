@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 122,
+  "chapter_title": "Letter 122",
+  "chapter_slug": "122-letter-122",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "efe8dc0d-db4b-5111-a34f-3d57ee729b97",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1110,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "885855fc-2bf9-5799-9db5-8e7ba69cec6e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1769,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

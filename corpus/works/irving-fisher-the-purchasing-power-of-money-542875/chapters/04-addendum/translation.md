@@ -4,7 +4,7 @@ work_slug: "irving-fisher-the-purchasing-power-of-money-542875"
 work_title: The Purchasing Power of Money
 author_name: Irving Fisher
 chapter_number: 4
-chapter_title: ADDENDUM
+chapter_title: Addendum
 chapter_slug: "04-addendum"
 variant_id: "469d793c-8443-5964-bcef-106fe12b1458"
 content_type: translation

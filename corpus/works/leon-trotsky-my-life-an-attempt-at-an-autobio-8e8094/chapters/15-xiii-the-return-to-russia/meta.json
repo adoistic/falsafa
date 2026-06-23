@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 15,
+  "chapter_title": "XIII. The Return to Russia",
+  "chapter_slug": "15-xiii-the-return-to-russia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "032043dd-a335-52da-82ea-93521b069fa1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3752,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch13.htm"
+    }
+  ]
+}

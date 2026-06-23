@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 68,
-  "chapter_title": "BOOK III, CHAPTER IV: OF THE EFFECT OF UNPRODUCTIVE CONSUMPTION IN GENERAL.",
+  "chapter_title": "Book III, Chapter VI: On Public Consumption, Section I.: Of the Nature and general Effect of Public Consumption.",
   "chapter_slug": "68",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2224,
-      "paragraph_count": 18,
+      "word_count": 3142,
+      "paragraph_count": 24,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

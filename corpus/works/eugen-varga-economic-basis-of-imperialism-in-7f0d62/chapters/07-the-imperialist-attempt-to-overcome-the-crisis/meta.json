@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-economic-basis-of-imperialism-in-7f0d62",
+  "work_title": "Economic Basis of Imperialism in the U.S. of North America",
+  "chapter_number": 7,
+  "chapter_title": "The Imperialist Attempt to Overcome the Crisis",
+  "chapter_slug": "07-the-imperialist-attempt-to-overcome-the-crisis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4cfe39f9-ee3c-5322-8005-fb646e21d2dc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2486,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1921/x01/x01.htm"
+    }
+  ]
+}

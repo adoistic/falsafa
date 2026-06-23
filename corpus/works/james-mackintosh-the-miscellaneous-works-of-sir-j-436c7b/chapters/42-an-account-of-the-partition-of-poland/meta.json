@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 42,
+  "chapter_title": "An Account of the Partition of Poland.",
+  "chapter_slug": "42-an-account-of-the-partition-of-poland",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a7c2434-bb2e-52fc-a6b3-545db36cd477",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 16400,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

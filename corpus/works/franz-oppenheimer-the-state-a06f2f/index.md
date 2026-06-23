@@ -4,15 +4,19 @@ slug: "franz-oppenheimer-the-state-a06f2f"
 title: The State
 author:
   name: Franz Oppenheimer
-  biography: Franz Oppenheimer (1864–1943).
+  biography: "German sociologist and political economist, teacher of Ludwig Erhard. The State distinguished the economic from the political means of acquiring wealth and traced the state's origin to conquest rather than contract."
+  birth_year: 1864
+  death_year: 1943
+  nationality: German
 era: 20th Century
 genre: Political Theory
 language: English
 language_direction: ltr
 description: "The State, by Franz Oppenheimer (1864–1943), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
-total_logical_chapters: 29
-total_variant_entries: 29
+published_year: 1908
+total_logical_chapters: 8
+total_variant_entries: 8
 thothica_role: catalog
 ---
 
@@ -22,32 +26,11 @@ The State, by Franz Oppenheimer (1864–1943), a public-domain text from Liberty
 
 ## Chapters
 
-01. [AUTHOR’S PREFACE TO THE SECOND AMERICAN EDITION](./chapters/01-author-s-preface-to-the-second-american-edition/) — prose, 1 variant
-02. [theories of the state](./chapters/02-theories-of-the-state/) — prose, 1 variant
-03. [the sociological idea of the state](./chapters/03-the-sociological-idea-of-the-state/) — prose, 1 variant
-04. [the genesis of the state](./chapters/04-the-genesis-of-the-state/) — prose, 1 variant
-05. [(a) political and economic means](./chapters/05-a-political-and-economic-means/) — prose, 1 variant
-06. [(b) peoples without a state: huntsmen and grubbers](./chapters/06-b-peoples-without-a-state-huntsmen-and-grubbers/) — prose, 1 variant
-07. [(c) peoples preceding the state: herdsmen and vikings](./chapters/07-c-peoples-preceding-the-state-herdsmen-and-vikings/) — prose, 1 variant
-08. [(d) the genesis of the state](./chapters/08-d-the-genesis-of-the-state/) — prose, 1 variant
-09. [(a) the form of dominion](./chapters/09-a-the-form-of-dominion/) — prose, 1 variant
-10. [(b) the integration](./chapters/10-b-the-integration/) — prose, 1 variant
-11. [(c) the differentiation: group theories and group psychology](./chapters/11-c-the-differentiation-group-theories-and-group-psy/) — prose, 1 variant
-12. [(d) the primitive feudal state of higher grade](./chapters/12-d-the-primitive-feudal-state-of-higher-grade/) — prose, 1 variant
-13. [the maritime state](./chapters/13-the-maritime-state/) — prose, 1 variant
-14. [(a) traffic in prehistoric times](./chapters/14-a-traffic-in-prehistoric-times/) — prose, 1 variant
-15. [(b) trade and the primitive state](./chapters/15-b-trade-and-the-primitive-state/) — prose, 1 variant
-16. [(c) the genesis of the maritime state](./chapters/16-c-the-genesis-of-the-maritime-state/) — prose, 1 variant
-17. [(d) essence and issue of the maritime states](./chapters/17-d-essence-and-issue-of-the-maritime-states/) — prose, 1 variant
-18. [(a) the genesis of landed property](./chapters/18-a-the-genesis-of-landed-property/) — prose, 1 variant
-19. [(b) the central power in the primitive feudal state](./chapters/19-b-the-central-power-in-the-primitive-feudal-state/) — prose, 1 variant
-20. [(c) the political and social disintegration of the primitive feudal state](./chapters/20-c-the-political-and-social-disintegration-of-the-p/) — prose, 1 variant
-21. [(d) the ethnic amalgamation](./chapters/21-d-the-ethnic-amalgamation/) — prose, 1 variant
-22. [(e) the developed feudal state](./chapters/22-e-the-developed-feudal-state/) — prose, 1 variant
-23. [concerning some old foes under new faces.](./chapters/23-concerning-some-old-foes-under-new-faces/) — prose, 1 variant
-24. [(a) the emancipation of the peasantry](./chapters/24-a-the-emancipation-of-the-peasantry/) — prose, 1 variant
-25. [(b) the genesis of the industrial state](./chapters/25-b-the-genesis-of-the-industrial-state/) — prose, 1 variant
-26. [(c) the influences of money economy](./chapters/26-c-the-influences-of-money-economy/) — prose, 1 variant
-27. [(d) the modern constitutional state](./chapters/27-d-the-modern-constitutional-state/) — prose, 1 variant
-28. [the tendency of the development of the state](./chapters/28-the-tendency-of-the-development-of-the-state/) — prose, 1 variant
-29. [NOTES](./chapters/29-notes/) — prose, 1 variant
+01. [Author’s Preface to the Second American Edition](./chapters/01-author-s-preface-to-the-second-american-edition/) — prose, 1 variant
+02. [The State, Chapter I](./chapters/02-the-state-chapter-i/) — prose, 1 variant
+03. [Chapter II](./chapters/03/) — prose, 1 variant
+04. [Chapter III.](./chapters/04/) — prose, 1 variant
+05. [Chapter IV](./chapters/05/) — prose, 1 variant
+06. [Chapter V](./chapters/06/) — prose, 1 variant
+07. [Chapter VI.](./chapters/07/) — prose, 1 variant
+08. [Chapter VII](./chapters/08/) — prose, 1 variant

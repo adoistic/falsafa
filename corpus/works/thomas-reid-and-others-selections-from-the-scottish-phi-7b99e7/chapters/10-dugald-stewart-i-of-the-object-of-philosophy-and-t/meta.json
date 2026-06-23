@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 10,
+  "chapter_title": "Dugald Stewart, I.—: Of the Object of Philosophy, and the Method of Prosecuting Philosophical Inquiries",
+  "chapter_slug": "10-dugald-stewart-i-of-the-object-of-philosophy-and-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4769a0a-7595-5b33-b66c-91da36443e37",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 892,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-dewey-democracy-and-education-df209d",
+  "work_title": "Democracy and Education",
+  "chapter_number": 19,
+  "chapter_title": "Chapter Nineteen — Labor and Leisure",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "96e03962-6a00-5cb3-a173-e9b36dd82e98",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 20708,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/852"
+    }
+  ]
+}

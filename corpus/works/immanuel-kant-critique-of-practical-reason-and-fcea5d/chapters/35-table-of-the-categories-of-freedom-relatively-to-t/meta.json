@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 35,
+  "chapter_title": "Table of the Categories of Freedom relatively to the Notions of Good and Evil.",
+  "chapter_slug": "35-table-of-the-categories-of-freedom-relatively-to-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7b384c89-d4b6-5166-aca5-ea96b4788aaf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 329,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

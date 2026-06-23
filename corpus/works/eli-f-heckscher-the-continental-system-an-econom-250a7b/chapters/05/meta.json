@@ -2,7 +2,7 @@
   "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
   "work_title": "The Continental System: An Economic Interpretation",
   "chapter_number": 5,
-  "chapter_title": "CHAPTER I.: COMMERCIAL POLICY",
+  "chapter_title": "Chapter I.: Commercial Policy, Beginning of Anglo-french Commercial War (1660-1786)",
   "chapter_slug": "05",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 55,
-      "paragraph_count": 1,
+      "word_count": 752,
+      "paragraph_count": 4,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
     }

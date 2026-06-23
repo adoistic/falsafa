@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-mr-kidds-social-evolution-b35d9f",
+  "work_title": "Mr. Kidd's Social Evolution",
+  "chapter_number": 1,
+  "chapter_title": "Mr. Kidd's Social Evolution",
+  "chapter_slug": "01-mr-kidds-social-evolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8894c390-e624-5663-b1e2-b2ec0917497d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5073,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1895/11/kidd.htm"
+    }
+  ]
+}

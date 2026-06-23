@@ -1,0 +1,2517 @@
+[
+  {
+    "id": "p-7649ad",
+    "offset": 0,
+    "text": "LECTURE I"
+  },
+  {
+    "id": "p-54176b",
+    "offset": 11,
+    "text": "Translations in Jowett's Plato. The translation of the Republic is published separately."
+  },
+  {
+    "id": "p-1cc18b",
+    "offset": 101,
+    "text": "Pseudo-Plato, Minos."
+  },
+  {
+    "id": "p-235ec0",
+    "offset": 123,
+    "text": "Now generally considered not to be a genuine work of Plato's and variously dated from as early as c. 337 B. C. to as late as c. 250 B. C. There is a convenient translation in Bohn's Libraries."
+  },
+  {
+    "id": "p-4bc213",
+    "offset": 317,
+    "text": "Aristotle (B. C. 384-322), Nicomachean Ethics."
+  },
+  {
+    "id": "p-5e8cb7",
+    "offset": 365,
+    "text": "Convenient translation by Browne in Bohn's Libraries."
+  },
+  {
+    "id": "p-da7d79",
+    "offset": 420,
+    "text": "Translation by Jowett should be used."
+  },
+  {
+    "id": "p-49a6d6",
+    "offset": 459,
+    "text": "Reference may be made to Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, II, §§ 13-16 (World's Legal Philosophies, 46-77); Hildenbrand, Geschichte und System der Rechts- und Staatsphilosophie, §§ 1-121."
+  },
+  {
+    "id": "p-1e1f6a",
+    "offset": 677,
+    "text": "Reference may be made to Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, II, §§ 17-20 (World's Legal Philosophies, 78-92); Hildenbrand, Geschichte und System der Rechts- und Staatsphilosophie, §§ 131-135, 143-147; Voigt, Das Ius Naturale, aequum et bonum und Ius Gentium der Römer, I, §§ 16, 35-41, 44-64, 89-96."
+  },
+  {
+    "id": "p-cbb4c6",
+    "offset": 1005,
+    "text": "Thomas Aquinas (1225 or 1227-1274), Summa Theologiae."
+  },
+  {
+    "id": "p-cdd77a",
+    "offset": 1060,
+    "text": "Convenient translation of the parts relating to law in Aquinas Ethicus."
+  },
+  {
+    "id": "p-a563e4",
+    "offset": 1133,
+    "text": "Reference may be made to Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, II, §§ 21-23 (World's Legal Philosophies, 93-111)."
+  },
+  {
+    "id": "p-c82127",
+    "offset": 1272,
+    "text": "Oldendorp, Iuris naturalis gentium et ciuilis [Greek: eisagôgê] (1539)."
+  },
+  {
+    "id": "p-f7a9c3",
+    "offset": 1345,
+    "text": "Hemmingius (Henemingsen) De Iure naturale apodictica methodus (1562)."
+  },
+  {
+    "id": "p-191c20",
+    "offset": 1416,
+    "text": "Winckler, Principiorum iuris libri V (1615)."
+  },
+  {
+    "id": "p-9b71c8",
+    "offset": 1462,
+    "text": "These are collected conveniently in Kaltenborn, Die Vorläufer des Hugo Grotius."
+  },
+  {
+    "id": "p-878e42",
+    "offset": 1543,
+    "text": "Reference may be made to Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, II, § 24 (World's Legal Philosophies, 112-114); Hinrichs, Geschichte der Rechts- und Staatsprincipien seit der Reformation, I, 1-60; Gierke, Johannes Althusius, 2 ed., 18-49, 142-162, 321."
+  },
+  {
+    "id": "p-dea3c6",
+    "offset": 1820,
+    "text": "Soto, De justitia et iure (1589)."
+  },
+  {
+    "id": "p-6576c4",
+    "offset": 1855,
+    "text": "Suarez, De legibus ac deo legislatore (1619)."
+  },
+  {
+    "id": "p-ca3afd",
+    "offset": 1902,
+    "text": "Reference may be made to Figgis, Studies of Political Thought from Gerson to Grotius, Lect. V."
+  },
+  {
+    "id": "p-be5c91",
+    "offset": 1998,
+    "text": "Grotius, De iure belli et pacis (1625)."
+  },
+  {
+    "id": "p-f7f05a",
+    "offset": 2039,
+    "text": "Whewell's edition with an abridged translation is convenient."
+  },
+  {
+    "id": "p-c597df",
+    "offset": 2102,
+    "text": "Pufendorf, De jure naturae et gentium (1672)."
+  },
+  {
+    "id": "p-6ad027",
+    "offset": 2149,
+    "text": "Kennet's translation (1703) may be found in several editions."
+  },
+  {
+    "id": "p-c91b32",
+    "offset": 2212,
+    "text": "Burlamaqui, Principes du droit naturel (1747)."
+  },
+  {
+    "id": "p-c0651b",
+    "offset": 2260,
+    "text": "Nugent's translation is convenient."
+  },
+  {
+    "id": "p-de6a37",
+    "offset": 2297,
+    "text": "Wolff, Institutiones juris naturae et gentium (1750)."
+  },
+  {
+    "id": "p-dff5fb",
+    "offset": 2352,
+    "text": "Rutherforth, Institutes of Natural Law (1754-1756)."
+  },
+  {
+    "id": "p-52bf48",
+    "offset": 2405,
+    "text": "Vattel, Le droit des gens, Préliminaires (1758)."
+  },
+  {
+    "id": "p-a34eeb",
+    "offset": 2455,
+    "text": "There are many translations of Vattel."
+  },
+  {
+    "id": "p-067764",
+    "offset": 2495,
+    "text": "Rousseau, Contrat social (1762)."
+  },
+  {
+    "id": "p-ed86ee",
+    "offset": 2529,
+    "text": "Tozer's translation is convenient."
+  },
+  {
+    "id": "p-fc2c83",
+    "offset": 2565,
+    "text": "Blackstone, Commentaries on the Laws of England, Introduction, sect. II (1765)."
+  },
+  {
+    "id": "p-58e220",
+    "offset": 2646,
+    "text": "Reference may be made to Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, II, §§ 25-27, 29 (World's Legal Philosophies, 115-134, 141-156); Hinrichs, Geschichte der Rechts- und Staatsprincipien seit der Reformation, I, 60-274, II, III, 1-318; Korkunov, General Theory of Law, transl. by Hastings, § 7; Charmont, La renaissance du droit naturel, 10-43."
+  },
+  {
+    "id": "p-c6fd11",
+    "offset": 3011,
+    "text": "Hobbes, Leviathan (1651)."
+  },
+  {
+    "id": "p-57689f",
+    "offset": 3038,
+    "text": "Spinoza, Ethica (1674)."
+  },
+  {
+    "id": "p-de9e12",
+    "offset": 3063,
+    "text": "----, Tractatus theologico-politicas (1670)."
+  },
+  {
+    "id": "p-f38d61",
+    "offset": 3109,
+    "text": "Elwes' translation of the two last in Bohn's Libraries must be used with caution."
+  },
+  {
+    "id": "p-80b5a1",
+    "offset": 3192,
+    "text": "Bentham, Principles of Morals and Legislation (1780)."
+  },
+  {
+    "id": "p-622c51",
+    "offset": 3247,
+    "text": "A convenient reprint is published by the Clarendon Press."
+  },
+  {
+    "id": "p-c9a95a",
+    "offset": 3306,
+    "text": "----, Theory of Legislation. (Originally published in French, 1820). Translated by Hildreth (1864), and in many editions."
+  },
+  {
+    "id": "p-86b7f5",
+    "offset": 3429,
+    "text": "Courtney's edition (1892) is convenient."
+  },
+  {
+    "id": "p-567bef",
+    "offset": 3471,
+    "text": "Reference may be made to Duff, Spinoza's Political and Ethical Philosophy; Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, II, § 28 (World's Legal Philosophies, 134-141); Dicey, Law and Public Opinion in England, Lect. 6; Albee, History of English Utilitarianism; Stephen, The English Utilitarians; Solari, L'idea individuale e l'idea sociale nel diritto privato, §§ 31-36."
+  },
+  {
+    "id": "p-30e3b3",
+    "offset": 3860,
+    "text": "Kant, Metaphysische Anfangsgründe der Rechtslehre (2 ed. 1798). Translated by Hastie as \"Kant's Philosophy of Law\" (1887)."
+  },
+  {
+    "id": "p-cba63f",
+    "offset": 3984,
+    "text": "Fichte, Grundlage des Naturrechts (1796, new ed. by Medicus, 1908). Translated by Kroeger as \"Fichte's Science of Rights\" (1889)."
+  },
+  {
+    "id": "p-812b0a",
+    "offset": 4115,
+    "text": "Hegel, Grundlinien der Philosophie des Rechts (1821), ed. by Gans (1840), new ed. by Lasson (1911). Translated by Dyde as \"Hegel's Philosophy of Right\" (1896). This translation must be used cautiously."
+  },
+  {
+    "id": "p-0130e8",
+    "offset": 4318,
+    "text": "Krause, Abriss des Systemes der Philosophie des Rechtes (1828)."
+  },
+  {
+    "id": "p-f3ab38",
+    "offset": 4383,
+    "text": "Ahrens, Cours de droit naturel (1837, 8 ed. 1892). Twenty-four editions in seven languages. The German 6th edition (Naturrecht, 1870-1871) contains important matter not in the French editions."
+  },
+  {
+    "id": "p-36a217",
+    "offset": 4577,
+    "text": "Green, Principles of Political Obligation. Lectures delivered in 1879-1880. Reprinted from his Complete Works (1911)."
+  },
+  {
+    "id": "p-8332dd",
+    "offset": 4696,
+    "text": "Lorimer, Institutes of Law (2 ed. 1880)."
+  },
+  {
+    "id": "p-074c95",
+    "offset": 4738,
+    "text": "Lasson, Lehrbuch der Rechtsphilosophie (1882)."
+  },
+  {
+    "id": "p-6a513b",
+    "offset": 4786,
+    "text": "Miller, Lectures on the Philosophy of Law (1884)."
+  },
+  {
+    "id": "p-167935",
+    "offset": 4837,
+    "text": "Boistel, Cours de philosophie du droit (1870, new ed. 1899)."
+  },
+  {
+    "id": "p-37dff3",
+    "offset": 4899,
+    "text": "Herkless, Lectures on Jurisprudence (1901)."
+  },
+  {
+    "id": "p-ac96cd",
+    "offset": 4944,
+    "text": "Brown, The Underlying Principles of Modern Legislation (1912)."
+  },
+  {
+    "id": "p-d50bb1",
+    "offset": 5008,
+    "text": "Mention may be made of Beaussire, Les principes du droit (1888); Beudant, Le droit individuel et l'état (1891); Carle, La vita del diritto (2 ed. 1890); Dahn, Rechtsphilosophische Studien (1883); Giner y Calderon, Filosofia del derecho (1898); Harms, Begriff, Formen und Grundlegung der Rechtsphilosophie (1889); Hennebicq, Philosophie de droit et droit naturel (1897); Herbart, Analytische Beleuchtung des Naturrechts und der Moral (1836); Jouffroy, Cours de droit naturel (5 ed. 1876); Kirchmann, Grundbegriffe des Rechts und der Moral (2 ed. 1873); Krause, Das System der Rechtsphilosophie (posthumous, ed. by Röder, 1874); Miraglia, Filosofia del diritto (3 ed. 1903, transl. in Modern Legal Philosophy Series, 1912); Röder, Grundzüge des Naturrechts oder der Rechtsphilosophie (2 ed. 1860); Rosmini, Filosofia del diritto (2 ed. 1865); Rothe, Traité de droit naturel, théorique et appliqué (1884); Schuppe, Grundzüge der Ethik und Rechtsphilosophie (1881); Stahl, Philosophie des Rechts (5 ed. 1878); Tissot, Introduction historique et philosophique à l'étude du droit (1875); Trendelenburg, Naturrecht auf dem Grunde der Ethik (1868); Vareilles-Sommières, Les principes fondamentaux du droit (1889); Wallaschek, Studien zur Rechtsphilosophie (1889)."
+  },
+  {
+    "id": "p-f5280e",
+    "offset": 6265,
+    "text": "Reference may be made to Gray, Nature and Sources of the Law, §§ 7-9; Bryce, Studies in History and Jurisprudence, Essay 12; Pollock, Essays in Jurisprudence and Ethics, 1-30; Korkunov, General Theory of Law, translated by Hastings, § 4; Bergbohm, Jurisprudenz und Rechtsphilosophie, §§ 6-15; Pound, The Scope and Purpose of Sociological Jurisprudence, 24 Harvard Law Rev., 501; Pound, the Philosophy of Law in America, Archiv für Rechts- und Wirthschaftsphilosophie, VII, 213, 285."
+  },
+  {
+    "id": "p-f2f9a5",
+    "offset": 6749,
+    "text": "Jhering, Der Zweck im Recht (1877-1883, 4 ed. 1904). The first volume is translated by Husik under the title \"Law as a Means to an End\" (1913)."
+  },
+  {
+    "id": "p-ad748a",
+    "offset": 6894,
+    "text": "Jhering, Scherz und Ernst in die Jurisprudenz (1884, 9 ed. 1904)."
+  },
+  {
+    "id": "p-0035f2",
+    "offset": 6961,
+    "text": "Reference may be made to the appendices to Jhering, Law as a Means to an End, transl. by Husik; Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, II, § 43 (World's Legal Philosophies, 327-351); Korkunov, General Theory of Law, translated by Hastings, §§ 13-14; Tanon, L'évolution du droit et la conscience sociale (3 ed. 1911), pt. I, ch. 3."
+  },
+  {
+    "id": "p-3f8c32",
+    "offset": 7316,
+    "text": "Stammler, Ueber die Methode der geschichtlichen Rechtstheorie (1888)."
+  },
+  {
+    "id": "p-fb7889",
+    "offset": 7387,
+    "text": "----, Die Gesetzmässigkeit in Rechtsordnung und Volkswirthschaft (1902)."
+  },
+  {
+    "id": "p-d2ec59",
+    "offset": 7461,
+    "text": "----, Lehre von dem rechtigen Rechte (1902)."
+  },
+  {
+    "id": "p-d5aac3",
+    "offset": 7507,
+    "text": "----, Systematische Theorie der Rechtswissenschaft (1911)."
+  },
+  {
+    "id": "p-8fbb1c",
+    "offset": 7567,
+    "text": "----, Rechts- und Staatstheorien der Neuzeit (1917)."
+  },
+  {
+    "id": "p-6b7b85",
+    "offset": 7621,
+    "text": "Del Vecchio, The Formal Bases of Law, translated by Lisle (1914). A translation of I presupposti filosofici della nozione del diritto (1905), Il concetto del diritto (1906, reprinted 1912), Il concetto della natura e il principio del diritto (1908)."
+  },
+  {
+    "id": "p-39c2ef",
+    "offset": 7872,
+    "text": "For critiques of Stammler, see Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, II, § 48 (World's Legal Philosophies, 398-422); Kantorowicz, Zur Lehre vom richtigen Recht; Croce, Historical Materialism and the Economics of Karl Marx, ch. 2; Geny, Science et technique en droit privé positif, II, 127-130; Binder, Rechtsbegriff und Rechtsidee (1915); Binder, Kritische und metaphysische Rechtsphilosophie, Archiv für Rechts- und Wirthschaftsphilosophie, IX, 142, 267; Vinogradoff, Common Sense in Law, ch. 9."
+  },
+  {
+    "id": "p-de903e",
+    "offset": 8394,
+    "text": "Kohler, Rechtsphilosophie und Universalrechtsgeschichte, in Holtzendorff, Enzyklopädie der Rechtswissenschaft, I (6 ed. 1904, 7 ed. 1913). (Not in prior editions.)"
+  },
+  {
+    "id": "p-b73a1b",
+    "offset": 8559,
+    "text": "Kohler, Lehrbuch der Rechtsphilosophie (1909, 2 ed. 1917). Translated by Albrecht as \"Philosophy of Law\" (1914)."
+  },
+  {
+    "id": "p-bf9770",
+    "offset": 8673,
+    "text": "Kohler, Moderne Rechtsprobleme (1907, 2 ed. 1913)."
+  },
+  {
+    "id": "p-64a68d",
+    "offset": 8725,
+    "text": "Berolzheimer, System der Rechts-und Wirthschaftsphilosophie (1904-1907). Vol. II, history of juristic thought, translated by Jastrow (somewhat abridged) under the title \"The World's Legal Philosophies\" (1912), Vol. III, general system of legal and economic philosophy, Vol. IV, philosophy of interests of substance, Vol. V, philosophy of criminal law, are important for our purposes."
+  },
+  {
+    "id": "p-4e12c4",
+    "offset": 9110,
+    "text": "See also Berolzheimer, Rechtsphilosophische Studien (1903); Barillari, Diritto e filosofia (1910-1912); Kohler, Das Recht (1909); Kohler, Recht und Persönlichkeit in die Kultur der Gegenwart (1914)."
+  },
+  {
+    "id": "p-294561",
+    "offset": 9310,
+    "text": "Radbruch, Grundzüge der Rechtsphilosophie (1914)."
+  },
+  {
+    "id": "p-85f8d4",
+    "offset": 9361,
+    "text": "Miceli, Principii di filosofia del diritto (1914)."
+  },
+  {
+    "id": "p-232845",
+    "offset": 9413,
+    "text": "Tourtoulon, Principes philosophiques de l'histoire du droit (1908-1920)."
+  },
+  {
+    "id": "p-0a140f",
+    "offset": 9487,
+    "text": "Demogue, Notions fondamentales du droit privé (1911)."
+  },
+  {
+    "id": "p-858ff0",
+    "offset": 9542,
+    "text": "Geny, Méthode d'interprétation et sources en droit privé positif (1899, 2 ed. 1919). A book of the first importance."
+  },
+  {
+    "id": "p-a40260",
+    "offset": 9660,
+    "text": "----, Science et technique en droit privé positif (1913)."
+  },
+  {
+    "id": "p-e71f29",
+    "offset": 9719,
+    "text": "Duguit, L'état, le droit objectif et la loi positive (1901)."
+  },
+  {
+    "id": "p-7afb0a",
+    "offset": 9781,
+    "text": "----, Le droit social, le droit individuel et la transformation de l'état (2 ed. 1911)."
+  },
+  {
+    "id": "p-06dc79",
+    "offset": 9870,
+    "text": "----, Les transformations générales du droit privé (1912). Translated in Continental Legal History Series, Vol. XI, ch. 3."
+  },
+  {
+    "id": "p-3190e8",
+    "offset": 9994,
+    "text": "Reference may be made to Modern French Legal Philosophy (1916) in the Modern Legal Philosophy Series; Jung, Das Problem des natürlichen Rechts (1912)."
+  },
+  {
+    "id": "p-a36984",
+    "offset": 10146,
+    "text": "See also Boucaud, Qu'est-ce que le droit naturel (1906); Charmont, La renaissance du droit naturel (1910); Charmont, Le droit et l'esprit democratique (1908); Djuvara, Le fondement du phénomène juridique (1913); Fabreguettes, La logique judiciaire et l'art de juger (1914); Leroy, La loi (1908)."
+  },
+  {
+    "id": "p-55234e",
+    "offset": 10443,
+    "text": "Compare Cathrein, Recht, Naturrecht und Positives Recht (1901)."
+  },
+  {
+    "id": "p-c89363",
+    "offset": 10508,
+    "text": "See also Cohen, Jus naturale redivivum, Philosophical Rev., XXV, 761 (1916)."
+  },
+  {
+    "id": "p-8c6fef",
+    "offset": 10586,
+    "text": "Spencer, Justice (1891)."
+  },
+  {
+    "id": "p-25663d",
+    "offset": 10612,
+    "text": "See also Anzilotti, La filosofia del diritto e la sociologia (1907); Brugi, Introduzione enciclopedica alle scienze giuridiche e sociale (4 ed. 1907, 1 ed. 1890); Cosentini, Filosofia del diritto e sociologia (1905); Cosentini, Criticismo e positivismo nella filosofia del diritto (1912); Daguanno, La genesi e l'evoluzione del diritto civile (1890); Eleutheropoulos, Rechtsphilosophie, Sociologie und Politik (1908); Fragapane, Obbietto e limiti della filosofia del diritto (1897); Levi, Il diritto naturale nella filosofia di R. Ardigo (1904); Nardi Greco, Sociologia giuridica (1906); Porchat, Sociologia e direito (1902); Ratto, Sociologia e filosofia del diritto (1894); Vadale Papale, La filosofia del diritto a base sociologica (1885); Vander Eycken, Méthode positive de l'interprétation juridique (1907)."
+  },
+  {
+    "id": "p-279da7",
+    "offset": 11426,
+    "text": "Post, Der Ursprung des Rechts (1876)."
+  },
+  {
+    "id": "p-3e7854",
+    "offset": 11465,
+    "text": "----, Bausteine für eine allgemeine Rechtswissenschaft (1880)."
+  },
+  {
+    "id": "p-14de59",
+    "offset": 11529,
+    "text": "----, Die Grundlagen des Rechts und die Grundzüge seiner Entwickelungsgeschichte (1884)."
+  },
+  {
+    "id": "p-fd888d",
+    "offset": 11619,
+    "text": "Kuhlenbeck, Natürliche Grundlagen des Rechts (1905)."
+  },
+  {
+    "id": "p-c7edf4",
+    "offset": 11673,
+    "text": "A discussion of fundamental problems of jurisprudence from the Darwinian standpoint."
+  },
+  {
+    "id": "p-ff2c29",
+    "offset": 11759,
+    "text": "Richard, Origine de l'idée de droit (1892)."
+  },
+  {
+    "id": "p-fb97ab",
+    "offset": 11804,
+    "text": "Vaccaro, Les bases sociologiques du droit et de l'état (1898). Translation of Le basi del diritto e dello stato (1893). A theory of law as the outcome of class struggles."
+  },
+  {
+    "id": "p-cb120b",
+    "offset": 11976,
+    "text": "For critiques of the foregoing, see Tanon, L'évolution du droit et la conscience sociale (3 ed. 1911); Tourtoulon, Principes philosophiques de l'histoire du droit (1908-1920); Charmont, La renaissance du droit naturel (1910)."
+  },
+  {
+    "id": "p-060c31",
+    "offset": 12203,
+    "text": "Tarde, Les transformations du droit (6 ed. 1909). First published in 1894."
+  },
+  {
+    "id": "p-3b7ad1",
+    "offset": 12279,
+    "text": "Vanni, Lezioni di filosofia del diritto (3 ed. 1908). First published in 1901-1902."
+  },
+  {
+    "id": "p-df428e",
+    "offset": 12364,
+    "text": "See also Bonucci, L'orientazione psicologica dell' etica e della filosofia del diritto (1907); Bozi, Die Weltanschauung der Jurisprudenz (1907, 2 ed. 1911); Bozi, Die Schule der Jurisprudenz (1910); Cruet, La vie du droit et l'impuissance des lois (1914); Grasserie, Principes sociologiques du droit civil (1906); Jellinek, Die sozialethische Bedeutung von Recht, Unrecht und Strafe (2 ed. 1908, 1st ed. 1878); Lagorgette, Le fondement du droit (1907); Miceli, Le fonti del diritto dal punto di vista psichico-sociale (1905); Miceli, Lezioni di filosofia del diritto (1908)."
+  },
+  {
+    "id": "p-a5fe01",
+    "offset": 12940,
+    "text": "Holmes, The Path of the Law, 10 Harvard Law Review, 467 (1897); Collected Papers, 167-202."
+  },
+  {
+    "id": "p-dab252",
+    "offset": 13032,
+    "text": "Ehrlich, Soziologie und Jurisprudenz (1903)."
+  },
+  {
+    "id": "p-ebefc9",
+    "offset": 13078,
+    "text": "Wurzel, Das juristische Denken, 98-102 (1904). Translated in The Science of Legal Method (Modern Legal Philosophy Series, Vol. 9, 421-428)."
+  },
+  {
+    "id": "p-c94c88",
+    "offset": 13219,
+    "text": "Gnaeus Flavius (Kantorowicz), Der Kampf um die Rechtswissenschaft (1906)."
+  },
+  {
+    "id": "p-95bea9",
+    "offset": 13294,
+    "text": "Kantorowicz, Rechtswissenschaft und Soziologie (1911)."
+  },
+  {
+    "id": "p-d64e1d",
+    "offset": 13350,
+    "text": "Kelsen, Ueber Grenzen zwischen juristischer und soziologischer Methode (1911)."
+  },
+  {
+    "id": "p-b2ccff",
+    "offset": 13430,
+    "text": "Brugeilles, Le droit et la sociologie (1910)."
+  },
+  {
+    "id": "p-76f5b9",
+    "offset": 13477,
+    "text": "Rolin, Prolégomènes à la science du droit (1911)."
+  },
+  {
+    "id": "p-6d0a2f",
+    "offset": 13528,
+    "text": "Ehrlich, Erforschung des lebenden Rechts, in Schmoller's Jahrbuch für Gesetzgebung, XXV, 190 (1911)."
+  },
+  {
+    "id": "p-910032",
+    "offset": 13630,
+    "text": "----, Grundlegung der Soziologie des Rechts (1913)."
+  },
+  {
+    "id": "p-4acab7",
+    "offset": 13683,
+    "text": "----, Das lebende Recht der Völker der Bukowina (1913)."
+  },
+  {
+    "id": "p-66d9db",
+    "offset": 13740,
+    "text": "Page, Professor Ehrlich's Czernowitz Seminar of Living Law, Proceedings of Fourteenth Annual Meeting of Association of American Law Schools, 46 (1914)."
+  },
+  {
+    "id": "p-cd64ca",
+    "offset": 13893,
+    "text": "Cosentini, Filosofia del diritto (1914)."
+  },
+  {
+    "id": "p-dc084d",
+    "offset": 13935,
+    "text": "Ehrlich, Die juristische Logik (1918)."
+  },
+  {
+    "id": "p-85a14b",
+    "offset": 13975,
+    "text": "Kornfeld, Allgemeine Rechtslehre und Jurisprudenz (1920)."
+  },
+  {
+    "id": "p-4ed3c8",
+    "offset": 14034,
+    "text": "See also Cosentini, La réforme de la législation civile (1913) (revised and augmented translation of La riforma della legislazione civile, 1911); Kornfeld, Soziale Machtverhältnisse, Grundzüge einer allgemeinen Lehre vom positiven Rechte auf soziologischer Grundlage (1911); Levi, La société et l'ordre juridique (1911); Levi, Contributi ad una teoria filosofica dell' ordine giuridico (1914)."
+  },
+  {
+    "id": "p-2cfcdb",
+    "offset": 14429,
+    "text": "LECTURE II"
+  },
+  {
+    "id": "p-fc60b8",
+    "offset": 14441,
+    "text": "Miller, The Data of Jurisprudence, ch. 6."
+  },
+  {
+    "id": "p-fb1159",
+    "offset": 14484,
+    "text": "Salmond, Jurisprudence, § 9."
+  },
+  {
+    "id": "p-0ada36",
+    "offset": 14514,
+    "text": "Pulszky, Theory of Law and Civil Society, § 173."
+  },
+  {
+    "id": "p-341460",
+    "offset": 14564,
+    "text": "Bentham, Theory of Legislation, Principles of the Civil Code, pt. I, ch. 1-7."
+  },
+  {
+    "id": "p-fd2b02",
+    "offset": 14643,
+    "text": "Holland, Jurisprudence, ch. 6."
+  },
+  {
+    "id": "p-2df6cf",
+    "offset": 14675,
+    "text": "Kant, Philosophy of Law (Hastie's translation) 45-46."
+  },
+  {
+    "id": "p-03dcb4",
+    "offset": 14730,
+    "text": "Spencer, Justice, ch. 5-6."
+  },
+  {
+    "id": "p-7da1df",
+    "offset": 14758,
+    "text": "Willoughby, Social Justice, ch. 2."
+  },
+  {
+    "id": "p-f789ae",
+    "offset": 14794,
+    "text": "Paulsen, Ethics (Thilly's translation), ch. 9."
+  },
+  {
+    "id": "p-74f67c",
+    "offset": 14842,
+    "text": "Gareis, Vom Begriff Gerechtigkeit."
+  },
+  {
+    "id": "p-61ac2d",
+    "offset": 14878,
+    "text": "Demogue, Notions fondamentales de droit privé, 119-135."
+  },
+  {
+    "id": "p-a74ec6",
+    "offset": 14935,
+    "text": "Picard, Le droit pur, liv. 9."
+  },
+  {
+    "id": "p-b3a326",
+    "offset": 14966,
+    "text": "Pound, The End of Law as Developed in Legal Rules and Doctrines, 27 Harvard Law Review, 195."
+  },
+  {
+    "id": "p-b06df6",
+    "offset": 15060,
+    "text": "Holmes, Common Law, Lect. 1."
+  },
+  {
+    "id": "p-41e5e0",
+    "offset": 15090,
+    "text": "Post, Ethnologische Jurisprudenz, II, §§ 58-59."
+  },
+  {
+    "id": "p-2abeeb",
+    "offset": 15139,
+    "text": "Fehr, Hammurapi und das Salische Recht, 135-138."
+  },
+  {
+    "id": "p-8cc43b",
+    "offset": 15189,
+    "text": "Ames, Law and Morals, 22 Harvard Law Review, 97."
+  },
+  {
+    "id": "p-3e573a",
+    "offset": 15239,
+    "text": "Voigt, Das Ius naturale, aequum et bonum und Ius Gentium der Römer, I, 321-323."
+  },
+  {
+    "id": "p-f01b97",
+    "offset": 15320,
+    "text": "Stephen, Liberty, Equality, Fraternity, 189-255."
+  },
+  {
+    "id": "p-fff9d1",
+    "offset": 15370,
+    "text": "Maine, Early History of Institutions (American ed.), 398-400."
+  },
+  {
+    "id": "p-30ac5b",
+    "offset": 15433,
+    "text": "Ritchie, Natural Rights, ch. 12."
+  },
+  {
+    "id": "p-e447c9",
+    "offset": 15467,
+    "text": "Demogue, Notions fondamentales de droit privé, 63-110, 136-142."
+  },
+  {
+    "id": "p-dd6679",
+    "offset": 15532,
+    "text": "Jhering, Scherz und Ernst in die Jurisprudenz (10 ed.), 408-425."
+  },
+  {
+    "id": "p-e33036",
+    "offset": 15598,
+    "text": "Pound, Liberty of Contract, 18 Yale Law Journal, 454."
+  },
+  {
+    "id": "p-d5d883",
+    "offset": 15653,
+    "text": "----, The End of Law as Developed in Juristic Thought, 27 Harvard Law Review, 605, 30 Harvard Law Review, 201."
+  },
+  {
+    "id": "p-07e8fb",
+    "offset": 15765,
+    "text": "Berolzheimer, The World's Legal Philosophies, §§ 17-24."
+  },
+  {
+    "id": "p-510a7e",
+    "offset": 15822,
+    "text": "Figgis, Studies of Political Thought from Gerson to Grotius, Lect. 6."
+  },
+  {
+    "id": "p-70fe8a",
+    "offset": 15893,
+    "text": "Berolzheimer, The World's Legal Philosophies, §§ 25-27."
+  },
+  {
+    "id": "p-9f9a9f",
+    "offset": 15950,
+    "text": "Hobbes, Leviathan, ch. 15."
+  },
+  {
+    "id": "p-483b0d",
+    "offset": 15978,
+    "text": "Berolzheimer, The World's Legal Philosophies, § 29."
+  },
+  {
+    "id": "p-b79062",
+    "offset": 16031,
+    "text": "Korkunov, General Theory of Law (translated by Hastings), § 7."
+  },
+  {
+    "id": "p-b2d5fb",
+    "offset": 16095,
+    "text": "Ritchie, Natural Rights, ch. 3."
+  },
+  {
+    "id": "p-ec259b",
+    "offset": 16128,
+    "text": "Charmont, La renaissance de droit naturel, 10-43."
+  },
+  {
+    "id": "p-d853e4",
+    "offset": 16179,
+    "text": "Berolzheimer, The World's Legal Philosophies, §§ 35-37."
+  },
+  {
+    "id": "p-59190f",
+    "offset": 16236,
+    "text": "Korkunov, General Theory of Law (translated by Hastings), 320-322."
+  },
+  {
+    "id": "p-2ac9ca",
+    "offset": 16304,
+    "text": "Gray, Nature and Sources of the Law, § 58."
+  },
+  {
+    "id": "p-4a3d4f",
+    "offset": 16348,
+    "text": "Berolzheimer, The World's Legal Philosophies, § 28."
+  },
+  {
+    "id": "p-19a9dc",
+    "offset": 16401,
+    "text": "Mill, On Liberty, ch. 4."
+  },
+  {
+    "id": "p-ee0f72",
+    "offset": 16427,
+    "text": "Dicey, Law and Public Opinion in England, Lect. 6."
+  },
+  {
+    "id": "p-b5ad7e",
+    "offset": 16479,
+    "text": "Berolzheimer, The World's Legal Philosophies, §§ 43-48, 52."
+  },
+  {
+    "id": "p-333d26",
+    "offset": 16540,
+    "text": "Stammler, Wesen des Rechts und der Rechtswissenschaft (in Systematische Rechtswissenschaft, i-lix)."
+  },
+  {
+    "id": "p-8634b9",
+    "offset": 16641,
+    "text": "Kohler, Rechtsphilosophie und Universalrechtsgeschichte, §§ 13-16, 33-34, 51."
+  },
+  {
+    "id": "p-6e0db6",
+    "offset": 16720,
+    "text": "LECTURE III"
+  },
+  {
+    "id": "p-ed4cd1",
+    "offset": 16733,
+    "text": "Geny, Méthode d'interprétation et sources en droit privé positif (2 ed. 1919)."
+  },
+  {
+    "id": "p-52a412",
+    "offset": 16813,
+    "text": "Vander Eycken, Méthode positive de l'interprétation juridique (1907)."
+  },
+  {
+    "id": "p-7382cf",
+    "offset": 16884,
+    "text": "Mallieux, L'Exégèse des codes (1908)."
+  },
+  {
+    "id": "p-7e0d37",
+    "offset": 16923,
+    "text": "Ransson, Essai sur l'art de juger (1912)."
+  },
+  {
+    "id": "p-bb74be",
+    "offset": 16966,
+    "text": "See Wigmore, Problems of Law, 65-101; Pound, The Enforcement of Law, 20 Green Bag, 401; Pound, Courts and Legislation, 7 American Political Science Review, 361-383."
+  },
+  {
+    "id": "p-881bd5",
+    "offset": 17132,
+    "text": "Science of Legal Method, Modern Legal Philosophy Series, Vol. 9 (1917)."
+  },
+  {
+    "id": "p-c94c88",
+    "offset": 17205,
+    "text": "Gnaeus Flavius (Kantorowicz), Der Kampf um die Rechtswissenschaft (1906)."
+  },
+  {
+    "id": "p-a6f050",
+    "offset": 17280,
+    "text": "Fuchs, Recht und Wahrheit in unserer heutigen Justiz (1908)."
+  },
+  {
+    "id": "p-133de3",
+    "offset": 17342,
+    "text": "----, Die gemeinschädlichkeit der konstruktiven Jurisprudenz (1909)."
+  },
+  {
+    "id": "p-cf7431",
+    "offset": 17412,
+    "text": "Oertmann, Gesetzeszwang und Richterfreiheit (1909)."
+  },
+  {
+    "id": "p-095343",
+    "offset": 17465,
+    "text": "Rumpf, Gesetz und Richter (1906)."
+  },
+  {
+    "id": "p-303cde",
+    "offset": 17500,
+    "text": "Brütt, Die Kunst der Rechtsanwendung (1907)."
+  },
+  {
+    "id": "p-9d8b34",
+    "offset": 17546,
+    "text": "Gmelin, Quousque? Beiträge zur soziologischen Rechtsfindung (1910)."
+  },
+  {
+    "id": "p-37e21f",
+    "offset": 17615,
+    "text": "Reichel, Gesetz und Richterspruch (1915)."
+  },
+  {
+    "id": "p-0c7120",
+    "offset": 17658,
+    "text": "Jellinek, Gesetz, Gesetzesanwendung und Zweckmässigkeitserwägung (1913)."
+  },
+  {
+    "id": "p-19dd9a",
+    "offset": 17732,
+    "text": "Kübl, Das Rechtsgefühl (1913)."
+  },
+  {
+    "id": "p-ef8be3",
+    "offset": 17764,
+    "text": "Heck, Gesetzesauslegung und Interessenjurisprudenz (1914)."
+  },
+  {
+    "id": "p-98a1b2",
+    "offset": 17824,
+    "text": "Stampe, Grundriss der Wertbewegungslehre (1912, 1919)."
+  },
+  {
+    "id": "p-4f28d1",
+    "offset": 17880,
+    "text": "See Kohler, Lehrbuch des bürgerlichen Rechts, I, §§ 38-40; Austin, Jurisprudence (3 ed.), 1023-1036; Pound, Spurious Interpretation, 7 Columbia Law Review, 379; Gray, Nature and Sources of the Law, §§ 370-399; Somlo, Juristische Grundlehre, §§ 110-122; Stammler, Rechts- und Staatstheorien der Neuzeit, § 18; Pound, Introduction to English Translation of Saleilles, Individualization of Punishment; Saleilles, Individualization of Punishment, translated by Jastrow, ch. 9; Pound, Administrative Applications of Legal Standards, 44 Rep. American Bar Assn., 445; Laun, Das freie Ermessen und seine Grenzen (1910)."
+  },
+  {
+    "id": "p-1dfcc4",
+    "offset": 18493,
+    "text": "LECTURE IV"
+  },
+  {
+    "id": "p-594c2b",
+    "offset": 18505,
+    "text": "Baty, Vicarious Liability (1916)."
+  },
+  {
+    "id": "p-b24f04",
+    "offset": 18540,
+    "text": "Hasse, Die Culpa des römischen Rechts (2 ed. 1838)."
+  },
+  {
+    "id": "p-da89f9",
+    "offset": 18593,
+    "text": "Jhering, Der Schuldmoment im römischen Privatrecht (1867)."
+  },
+  {
+    "id": "p-30815b",
+    "offset": 18653,
+    "text": "Rümelin, Schadensersatz ohne Verschulden (1910)."
+  },
+  {
+    "id": "p-2c61a9",
+    "offset": 18703,
+    "text": "Triandafil, L'Idée de faute et l'idée de risque comme fondement de la responsabilité (1914)."
+  },
+  {
+    "id": "p-372d17",
+    "offset": 18797,
+    "text": "See Binding, Die Normen und ihre Uebertretung, I, §§ 50-51; Meumann, Prolegomena zu einem System des Vermögensrechts, 80 ff. (1903); Duguit in Progress of Continental Law in the Nineteenth Century (Continental Legal History Series, Vol. XI), 124-128; Geny, Risque et responsabilité, Revue trimestrielle de droit civil, I, 812; Rolin, Responsabilité sans faute, Revue de droit international et legislation comparée, XXXVIII, 64; Demogue, Fault, Risk and Apportionment of Risk in Responsibility, 15 Illinois Law Review, 369; Thayer, Liability Without Fault, 29 Harvard Law Review, 801; Smith, Tort and Absolute Liability, 30 Harvard Law Review, 241, 319, 409; Bohlen, The Rule in Rylands v. Fletcher, 59 University of Pennsylvania Law Review, 298, 373, 423; Isaacs, Fault and Liability, 31 Harvard Law Review, 954."
+  },
+  {
+    "id": "p-8149bf",
+    "offset": 19611,
+    "text": "LECTURE V"
+  },
+  {
+    "id": "p-f3d2be",
+    "offset": 19622,
+    "text": "Ely, Property and Contract in Their Relation to the Distribution of Wealth, I, 51-93, 132-258, 295-443, II, 475-549."
+  },
+  {
+    "id": "p-717d6e",
+    "offset": 19740,
+    "text": "Hobson and Others, Property, Its Rights and Duties, Historically, Philosophically and Religiously Considered (2 ed.), essays 1-3, 5-8."
+  },
+  {
+    "id": "p-a8629e",
+    "offset": 19876,
+    "text": "Green, Principles of Political Obligation, §§ 211-231."
+  },
+  {
+    "id": "p-0a9054",
+    "offset": 19932,
+    "text": "Miller, Lectures on the Philosophy of Law, Lect. 5."
+  },
+  {
+    "id": "p-184ff6",
+    "offset": 19985,
+    "text": "Herkless, Jurisprudence, ch. 10."
+  },
+  {
+    "id": "p-d41c18",
+    "offset": 20019,
+    "text": "Russell, Social Reconstruction, ch. 4."
+  },
+  {
+    "id": "p-60de5e",
+    "offset": 20059,
+    "text": "Spencer, Justice, ch. 12."
+  },
+  {
+    "id": "p-688355",
+    "offset": 20086,
+    "text": "Kohler, Philosophy of Law, Albrecht's translation, 120-133."
+  },
+  {
+    "id": "p-e4d9d5",
+    "offset": 20147,
+    "text": "Maine, Ancient Law, ch. 8."
+  },
+  {
+    "id": "p-223960",
+    "offset": 20175,
+    "text": "----, Early History of Institutions (American ed.), 98-118."
+  },
+  {
+    "id": "p-266294",
+    "offset": 20236,
+    "text": "Duguit, in Progress of the Law in the Nineteenth Century (Continental Legal History Series, Vol. XI), 129-146."
+  },
+  {
+    "id": "p-53c1ee",
+    "offset": 20348,
+    "text": "Wagner, Volkswirthschaft und Recht, besonders Vermögensrecht (1894)."
+  },
+  {
+    "id": "p-2ace94",
+    "offset": 20418,
+    "text": "De la Grasserie, Les principes sociologiques du droit civil, ch. 3."
+  },
+  {
+    "id": "p-f5cf11",
+    "offset": 20487,
+    "text": "Cosentini, La réforme de la législation civile, 371-422 (1913)."
+  },
+  {
+    "id": "p-e17ff3",
+    "offset": 20552,
+    "text": "Fouillée, La propriété sociale et la democratie (1884)."
+  },
+  {
+    "id": "p-d2dc99",
+    "offset": 20609,
+    "text": "Landry, L'Utilité sociale de la propriété individuelle (1901)."
+  },
+  {
+    "id": "p-7dd786",
+    "offset": 20673,
+    "text": "Meyer, L'Utilité publique et la propriété privée (1893)."
+  },
+  {
+    "id": "p-d0a21e",
+    "offset": 20731,
+    "text": "Thézard, La propriété individuelle: Étude de philosophie historique du droit (1872)."
+  },
+  {
+    "id": "p-c13b37",
+    "offset": 20817,
+    "text": "Thomas, L'Utilité publique et la propriété privée (1904)."
+  },
+  {
+    "id": "p-10b35c",
+    "offset": 20876,
+    "text": "Berolzheimer, System der Rechts- und Wirthschaftsphilosophie, IV, §§ 1-13."
+  },
+  {
+    "id": "p-989bb9",
+    "offset": 20952,
+    "text": "Felix, Entwickelungsgeschichte des Eigenthums (1883-1899)."
+  },
+  {
+    "id": "p-05bc6e",
+    "offset": 21012,
+    "text": "Karner, Die sociale Funktion der Rechtsinstitute, besonders des Eigenthums (1904)."
+  },
+  {
+    "id": "p-b715ae",
+    "offset": 21096,
+    "text": "Conti, La proprietà fondiaria nel passato e nel presente (1905)."
+  },
+  {
+    "id": "p-499e6f",
+    "offset": 21162,
+    "text": "Cosentini, Filosofia del diritto, 250-279 (1914)."
+  },
+  {
+    "id": "p-7dcf4e",
+    "offset": 21213,
+    "text": "Fadda, Teoria della proprietà (1907)."
+  },
+  {
+    "id": "p-429778",
+    "offset": 21252,
+    "text": "Labriola, Sul fondamento della proprietà privata (1900)."
+  },
+  {
+    "id": "p-ff6a1a",
+    "offset": 21310,
+    "text": "Loria, La proprietà fondiaria e la questione sociale (1897)."
+  },
+  {
+    "id": "p-5e4939",
+    "offset": 21372,
+    "text": "Piccione, Concetto positivo del diritto di proprietà (1890)."
+  },
+  {
+    "id": "p-3573f5",
+    "offset": 21434,
+    "text": "Velardita, La proprietà secondo la sociologia (1898)."
+  },
+  {
+    "id": "p-a26627",
+    "offset": 21489,
+    "text": "Pufendorf, De jure naturae et gentium, IV, 4, §§ 2-6, 14."
+  },
+  {
+    "id": "p-3b3186",
+    "offset": 21548,
+    "text": "Locke, On Government, ch. 5."
+  },
+  {
+    "id": "p-039997",
+    "offset": 21578,
+    "text": "Blackstone, Commentaries, II, 3-10."
+  },
+  {
+    "id": "p-b5d3e3",
+    "offset": 21615,
+    "text": "Kant, Metaphysische Anfangsgründe der Rechtslehre (2 ed.), §§ 1, 6-7, 8, 10, 18-21."
+  },
+  {
+    "id": "p-302d74",
+    "offset": 21700,
+    "text": "Hegel, Grundlinien der Philosophie des Rechts, §§ 44, 46, 49."
+  },
+  {
+    "id": "p-e08e8e",
+    "offset": 21763,
+    "text": "Lorimer, Institutes of Law (2 ed.), 215 ff."
+  },
+  {
+    "id": "p-cd181b",
+    "offset": 21808,
+    "text": "LECTURE VI"
+  },
+  {
+    "id": "p-ae13d2",
+    "offset": 21820,
+    "text": "Ely, Property and Contract in Their Relation to the Distribution of Wealth, II, 576-751."
+  },
+  {
+    "id": "p-cdc179",
+    "offset": 21910,
+    "text": "Amos, Systematic View of the Science of Jurisprudence, ch. 11."
+  },
+  {
+    "id": "p-b84ae1",
+    "offset": 21974,
+    "text": "Herkless, Jurisprudence, ch. 12."
+  },
+  {
+    "id": "p-a087b6",
+    "offset": 22008,
+    "text": "Kohler, Philosophy of Law, Albrecht's translation, 134-191."
+  },
+  {
+    "id": "p-a8d616",
+    "offset": 22069,
+    "text": "De la Grasserie, Les principes sociologiques du droit civil, ch. 6."
+  },
+  {
+    "id": "p-6b8fe6",
+    "offset": 22138,
+    "text": "Duguit, in Progress of the Law in the Nineteenth Century (Continental Legal History Series, Vol. XI), 100-124."
+  },
+  {
+    "id": "p-45d219",
+    "offset": 22250,
+    "text": "Kant, Metaphysische Anfangsgründe der Rechtslehre (2 ed.), §§ 18-21."
+  },
+  {
+    "id": "p-65a370",
+    "offset": 22320,
+    "text": "Hegel, Grundlinien der Philosophie des Rechts, §§ 71-81."
+  },
+  {
+    "id": "p-85a502",
+    "offset": 22378,
+    "text": "Richte, Grundlage des Naturrechts, §§ 18-20."
+  },
+  {
+    "id": "p-810dea",
+    "offset": 22424,
+    "text": "Ames, The History of Assumpsit, 2 Harvard Law Review, 1, 53."
+  },
+  {
+    "id": "p-45c2b7",
+    "offset": 22486,
+    "text": "----, Two Theories of Consideration, 12 Harvard Law Review, 515; 13 Harvard Law Review, 29."
+  },
+  {
+    "id": "p-7fd49e",
+    "offset": 22579,
+    "text": "Beale, Notes on Consideration, 17 Harvard Law Review, 71."
+  },
+  {
+    "id": "p-471d78",
+    "offset": 22638,
+    "text": "Langdell, Mutual Promises as a Consideration for Each Other, 14 Harvard Law Review, 496."
+  },
+  {
+    "id": "p-2eeb93",
+    "offset": 22728,
+    "text": "Pollock, Afterthoughts on Consideration, 17 Law Quarterly Review, 415."
+  },
+  {
+    "id": "p-815540",
+    "offset": 22800,
+    "text": "Hershey, Letters of Credit, 32 Harvard Law Review, 1."
+  },
+  {
+    "id": "p-64e60f",
+    "offset": 22855,
+    "text": "Lorenzen, Causa and Consideration in the Law of Contracts, 28 Yale Law Journal, 621."
+  },
+  {
+    "id": "p-2ca5e8",
+    "offset": 22941,
+    "text": "Pound, Consideration in Equity, 13 Illinois Law Review, 667 (Wigmore Celebration Essays, 435)."
+  },
+  {
+    "id": "p-aec7ae",
+    "offset": 23037,
+    "text": "Index"
+  },
+  {
+    "id": "p-1eef8c",
+    "offset": 23044,
+    "text": "Abstract promise 262, 263"
+  },
+  {
+    "id": "p-633246",
+    "offset": 23071,
+    "text": "Acquisition by creation 195 by discovery 195, 201 by occupation 196, 211 civil 196-197 derivative 207 in Roman law 194-200 Kant's theory of 210-213 natural 195 things not subject to 197"
+  },
+  {
+    "id": "p-656d34",
+    "offset": 23258,
+    "text": "Act, as basis of liability 158"
+  },
+  {
+    "id": "p-c8363a",
+    "offset": 23290,
+    "text": "Acting at one's peril 167, 178"
+  },
+  {
+    "id": "p-b91d0e",
+    "offset": 23322,
+    "text": "Action *de deiectis et diffusis* 162 *de recepto* 162 *in factum* 160 *in personam* 151 *noxal* 162"
+  },
+  {
+    "id": "p-f5f8be",
+    "offset": 23423,
+    "text": "Adjudication administrative element in 122-123 steps in 100"
+  },
+  {
+    "id": "p-1b023f",
+    "offset": 23484,
+    "text": "Administration 108 adjustment with law 137"
+  },
+  {
+    "id": "p-42f0dd",
+    "offset": 23528,
+    "text": "Administrative tribunals 130, 136"
+  },
+  {
+    "id": "p-8f03ba",
+    "offset": 23563,
+    "text": "Ames, James Barr 178"
+  },
+  {
+    "id": "p-de1e36",
+    "offset": 23585,
+    "text": "Analogy, reasoning by 32"
+  },
+  {
+    "id": "p-a80f39",
+    "offset": 23611,
+    "text": "Analysis 53"
+  },
+  {
+    "id": "p-06257d",
+    "offset": 23624,
+    "text": "Analytical application 123-125 reasoning 105 theory 53-54"
+  },
+  {
+    "id": "p-a7f88b",
+    "offset": 23683,
+    "text": "Anglo-Saxon Law 148"
+  },
+  {
+    "id": "p-4e74c6",
+    "offset": 23704,
+    "text": "Application of Law 100 ff. agencies of individualizing 129-138 analytical 123-125 equitable 122, 126-129 historical 125-126 latitude of 120, 129 margin of 112 rules 142 theories of 123-129"
+  },
+  {
+    "id": "p-acb896",
+    "offset": 23894,
+    "text": "Aquinas, St. Thomas 25-26"
+  },
+  {
+    "id": "p-7391b2",
+    "offset": 23921,
+    "text": "Aristotle 25, 38, 76, 82, 138 on application of law 109-110 threefold classification of governmental powers 15"
+  },
+  {
+    "id": "p-721ab6",
+    "offset": 24033,
+    "text": "Bacon 258"
+  },
+  {
+    "id": "p-2940e6",
+    "offset": 24044,
+    "text": "Bartolus 37"
+  },
+  {
+    "id": "p-1b7871",
+    "offset": 24057,
+    "text": "Bergson 141"
+  },
+  {
+    "id": "p-9a1694",
+    "offset": 24070,
+    "text": "Binding 164"
+  },
+  {
+    "id": "p-3a7728",
+    "offset": 24083,
+    "text": "Callings, restrictions on engaging in 88"
+  },
+  {
+    "id": "p-a9c98a",
+    "offset": 24125,
+    "text": "Camden, Lord 119"
+  },
+  {
+    "id": "p-bab9b1",
+    "offset": 24143,
+    "text": "Carrier, liability of 186"
+  },
+  {
+    "id": "p-cbd6e6",
+    "offset": 24170,
+    "text": "Casuists 254"
+  },
+  {
+    "id": "p-b43124",
+    "offset": 24184,
+    "text": "Catholic jurist-theologians 39"
+  },
+  {
+    "id": "p-740d21",
+    "offset": 24216,
+    "text": "Change, reconciliation with stability 30, 38"
+  },
+  {
+    "id": "p-9ce02d",
+    "offset": 24262,
+    "text": "Civilization, as a measure of value 98 jural postulates of, 56, 169-179, 284"
+  },
+  {
+    "id": "p-1abcab",
+    "offset": 24340,
+    "text": "Classes, social, 91"
+  },
+  {
+    "id": "p-84b280",
+    "offset": 24361,
+    "text": "Coke, Sir Edward, 133"
+  },
+  {
+    "id": "p-8bd1cd",
+    "offset": 24384,
+    "text": "Commentators, the, 37"
+  },
+  {
+    "id": "p-dbfeec",
+    "offset": 24407,
+    "text": "Common Law, the, and legislation, 139-140 professional view as to, 278 types of delictal liability in, 168"
+  },
+  {
+    "id": "p-92b57c",
+    "offset": 24515,
+    "text": "Community property, 229"
+  },
+  {
+    "id": "p-326268",
+    "offset": 24540,
+    "text": "Compromises, 94-95"
+  },
+  {
+    "id": "p-a305ba",
+    "offset": 24560,
+    "text": "Conceptions, legal, 116"
+  },
+  {
+    "id": "p-8ff6c8",
+    "offset": 24585,
+    "text": "Conditions \"implied in law\", 259"
+  },
+  {
+    "id": "p-da74f2",
+    "offset": 24619,
+    "text": "Conduct, application of law to, 137-139 expectations arising from, 189"
+  },
+  {
+    "id": "p-109609",
+    "offset": 24691,
+    "text": "Consciousness, as starting point, 84"
+  },
+  {
+    "id": "p-5925dc",
+    "offset": 24729,
+    "text": "Contract analogy of real transactions, 242 Anglo-American law of, 257-259 anomalies in law of, 282 bargain theory of, 269, 271-273 by estoppel, 187 categories of, 248 civil-law enforcement of, 238-240 common-law categories of, 274-275 common-law enforcement of, 240 consensual, 249 equivalent theory of, 255-256, 257-259, 269, 273-277 Fichte's theory of, 261-262 formal, 245-271 Hegel's theory of, 263 historical background of law of, 241 ff. historical category of, 172 historical theory of, 266-269 injurious-reliance theory of, 261 innominate, 249, 261 Kant's theory of, 261 metaphysical theories of, 260-265 natural-law theory of, 260 \"natural principle of\", 45-46 objective theory of, 264-265 oral, 282 philosophy of, 253 philosophical theories of, 241 positive theory of, 265 real, 249, 275 religious origins of, 242-247, 252 Roman categories of, 45, 253, 260, 266 Romanist theory of, 263-265 simple, 275 specific enforcement of, 238-240 Spencer's theory of, 265 subjective theory of, 271 theory of basis in personality, 263-265 theory of inherent moral force, 259-260, 261 third-party beneficiaries of, 273 will theory of, 264-265, 269-271, 281-282"
+  },
+  {
+    "id": "p-465129",
+    "offset": 25886,
+    "text": "*Corpus Iuris Canonici*, 252"
+  },
+  {
+    "id": "p-3d74b3",
+    "offset": 25916,
+    "text": "Court and jury, 111"
+  },
+  {
+    "id": "p-e73a8e",
+    "offset": 25937,
+    "text": "Courts, contest with Crown, 53"
+  },
+  {
+    "id": "p-2a31f9",
+    "offset": 25969,
+    "text": "*Culpa*, 170, 175 abstract standard of, 177 concrete standard of, 178 contractual, 170 delictal, 170"
+  },
+  {
+    "id": "p-ce0dae",
+    "offset": 26071,
+    "text": "Culpability 158 as basis of liability 184 fiction of 158, 178"
+  },
+  {
+    "id": "p-e9310d",
+    "offset": 26134,
+    "text": "D'Aguesseau 254"
+  },
+  {
+    "id": "p-c41475",
+    "offset": 26151,
+    "text": "Delicts, equitable 159 historical category of 172 nominate 162, 169-170, 175"
+  },
+  {
+    "id": "p-eac7af",
+    "offset": 26229,
+    "text": "Demosthenes 22"
+  },
+  {
+    "id": "p-f23d02",
+    "offset": 26245,
+    "text": "*Depositum* 249"
+  },
+  {
+    "id": "p-163ddf",
+    "offset": 26262,
+    "text": "Derivative acquisition 207"
+  },
+  {
+    "id": "p-4d1347",
+    "offset": 26290,
+    "text": "Derry v. Peek 281"
+  },
+  {
+    "id": "p-16a3f2",
+    "offset": 26309,
+    "text": "Digest of Justinian 107"
+  },
+  {
+    "id": "p-ba3a74",
+    "offset": 26334,
+    "text": "Dispensing power 113"
+  },
+  {
+    "id": "p-e79a0b",
+    "offset": 26356,
+    "text": "Distributions, Statute of 142"
+  },
+  {
+    "id": "p-bc0ec3",
+    "offset": 26387,
+    "text": "Doctor and Student 252, 259"
+  },
+  {
+    "id": "p-2d0d04",
+    "offset": 26416,
+    "text": "Doe, Chief Justice 185"
+  },
+  {
+    "id": "p-3688af",
+    "offset": 26440,
+    "text": "Dumoulin 39"
+  },
+  {
+    "id": "p-39f8aa",
+    "offset": 26453,
+    "text": "Dunedin, Lord 276"
+  },
+  {
+    "id": "p-aaa14b",
+    "offset": 26472,
+    "text": "Duress 159"
+  },
+  {
+    "id": "p-562ac7",
+    "offset": 26484,
+    "text": "Duties 173 relational 85"
+  },
+  {
+    "id": "p-b97e03",
+    "offset": 26510,
+    "text": "Economic interpretation 66-67, 179-180"
+  },
+  {
+    "id": "p-ed1983",
+    "offset": 26550,
+    "text": "Eldon, Lord 47"
+  },
+  {
+    "id": "p-f2d6f4",
+    "offset": 26566,
+    "text": "Empiricism, judicial 34, 283 juristic 34"
+  },
+  {
+    "id": "p-d64ae5",
+    "offset": 26608,
+    "text": "End of law 54, 59-99 as a measure of value 96 Greek conception of 74-77 ideals of as basis of juristic theories 71-72 keeping the peace as 72-74 maximum individual self-assertion as 84-87 medieval conception of 78-80 nineteenth-century conception of 83-85 preserving social *status quo* as 74-81 rise of new ideas as to 87-99 Roman conception of 77-78 theories of 72-99"
+  },
+  {
+    "id": "p-6a7d0c",
+    "offset": 26979,
+    "text": "English juristic theory 64"
+  },
+  {
+    "id": "p-f09ad8",
+    "offset": 27007,
+    "text": "Englishmen, common-law rights of 43, 53"
+  },
+  {
+    "id": "p-f78466",
+    "offset": 27048,
+    "text": "Enterprises, conduct of 137-189"
+  },
+  {
+    "id": "p-479761",
+    "offset": 27081,
+    "text": "Equality 82-85"
+  },
+  {
+    "id": "p-ebfbd7",
+    "offset": 27097,
+    "text": "Equitable application of law 122, 126-129"
+  },
+  {
+    "id": "p-91bbd4",
+    "offset": 27140,
+    "text": "Equities 121"
+  },
+  {
+    "id": "p-d6d686",
+    "offset": 27154,
+    "text": "Ethical interpretation 266"
+  },
+  {
+    "id": "p-fa23b9",
+    "offset": 27182,
+    "text": "Fichte, theory of contract 261-262"
+  },
+  {
+    "id": "p-2609bf",
+    "offset": 27218,
+    "text": "*Fiducia cum amico* 249"
+  },
+  {
+    "id": "p-3c8c58",
+    "offset": 27243,
+    "text": "Fifth Amendment 51"
+  },
+  {
+    "id": "p-b3c09d",
+    "offset": 27263,
+    "text": "Form and intention 154-155"
+  },
+  {
+    "id": "p-7be78e",
+    "offset": 27291,
+    "text": "Formal undertaking, 155"
+  },
+  {
+    "id": "p-64b950",
+    "offset": 27316,
+    "text": "Forms in primitive thinking, 247-248"
+  },
+  {
+    "id": "p-9297a2",
+    "offset": 27354,
+    "text": "Formulas, elasticity of, 121"
+  },
+  {
+    "id": "p-6dc28f",
+    "offset": 27384,
+    "text": "Fortescue, 38"
+  },
+  {
+    "id": "p-a8d8ad",
+    "offset": 27399,
+    "text": "Fourteenth Amendment, 51"
+  },
+  {
+    "id": "p-44cc11",
+    "offset": 27425,
+    "text": "Freedom of industry, 191"
+  },
+  {
+    "id": "p-909516",
+    "offset": 27451,
+    "text": "French Civil Code, 48, 162, 163 law of delictal liability, 167-168 monarchy, legal theory under, 64"
+  },
+  {
+    "id": "p-0319b3",
+    "offset": 27552,
+    "text": "Functional attitude, 91"
+  },
+  {
+    "id": "p-309ae8",
+    "offset": 27577,
+    "text": "Generalizations, 145"
+  },
+  {
+    "id": "p-07985d",
+    "offset": 27599,
+    "text": "Gifts, reformation of, 273"
+  },
+  {
+    "id": "p-fcfad3",
+    "offset": 27627,
+    "text": "Gloss, The, 37"
+  },
+  {
+    "id": "p-54635e",
+    "offset": 27643,
+    "text": "Glossators, 40"
+  },
+  {
+    "id": "p-5752c8",
+    "offset": 27659,
+    "text": "Greek city, problem of order in, 75 security of social institutions in, 75"
+  },
+  {
+    "id": "p-aaf00e",
+    "offset": 27735,
+    "text": "Greek philosophers, conception of the end of law, 35, 74-77 conception of the nature of law, 81 conception of the general security, 74 on subjects of litigation, 97, 241"
+  },
+  {
+    "id": "p-9a842f",
+    "offset": 27906,
+    "text": "Hammurapi, 60"
+  },
+  {
+    "id": "p-d23cb6",
+    "offset": 27921,
+    "text": "Hard bargains, 132"
+  },
+  {
+    "id": "p-dcf4e7",
+    "offset": 27941,
+    "text": "Heraditus, 76"
+  },
+  {
+    "id": "p-f79290",
+    "offset": 27956,
+    "text": "Hippodamus, 241"
+  },
+  {
+    "id": "p-383e1e",
+    "offset": 27973,
+    "text": "Historical application of law, 125-126"
+  },
+  {
+    "id": "p-b344c9",
+    "offset": 28013,
+    "text": "Historical categories, 172"
+  },
+  {
+    "id": "p-46f65d",
+    "offset": 28041,
+    "text": "Historical school, 279"
+  },
+  {
+    "id": "p-86269c",
+    "offset": 28065,
+    "text": "Holmes, Mr. Justice, 166"
+  },
+  {
+    "id": "p-084fbb",
+    "offset": 28091,
+    "text": "Household, partition of, 226-227"
+  },
+  {
+    "id": "p-8bea29",
+    "offset": 28125,
+    "text": "Husband and wife, 188 matrimonial property regime, 229"
+  },
+  {
+    "id": "p-365822",
+    "offset": 28181,
+    "text": "Idealism, juridical, 41-42, 91"
+  },
+  {
+    "id": "p-cd5ec5",
+    "offset": 28213,
+    "text": "Idealistic interpretation, 266"
+  },
+  {
+    "id": "p-c48baf",
+    "offset": 28245,
+    "text": "\"Implied\" undertakings, 158, 171"
+  },
+  {
+    "id": "p-e33d0f",
+    "offset": 28279,
+    "text": "Individual free self-assertion, 54"
+  },
+  {
+    "id": "p-0523ad",
+    "offset": 28315,
+    "text": "Individualization, 111, 113-114 by juries, 133-134 in criminal procedure, 138 in punitive justice, 134-135 judicial, 120-121 moral element in, 137 of penal treatment, 129-130"
+  },
+  {
+    "id": "p-6d2034",
+    "offset": 28491,
+    "text": "Individual life, 96"
+  },
+  {
+    "id": "p-aaed99",
+    "offset": 28512,
+    "text": "Inheritance, 139"
+  },
+  {
+    "id": "p-888af0",
+    "offset": 28530,
+    "text": "Innkeeper, liability of, 186"
+  },
+  {
+    "id": "p-c49d76",
+    "offset": 28560,
+    "text": "Intention, 189 as source of liability, 157"
+  },
+  {
+    "id": "p-9b90b4",
+    "offset": 28604,
+    "text": "Interdependence, 56"
+  },
+  {
+    "id": "p-824560",
+    "offset": 28625,
+    "text": "Interdicts, 200"
+  },
+  {
+    "id": "p-da0a8e",
+    "offset": 28642,
+    "text": "Interests, 89-90 compromises of, 94-95 delimitation of, 192 giving effect to, 90 group, 225 harmony of, 96 individual, in promised advantages, 236 intrinsic importance of, 95 inventory of, 90 of substance, 139, 237 recognition of, 90, 192 securing of 96, 97 valuing of 89, 95-99 weighing of 89, 94"
+  },
+  {
+    "id": "p-9b591e",
+    "offset": 28941,
+    "text": "Interpretation 51-52, 100 fiction of 102-108 genuine 105, 124 relation to law making 105"
+  },
+  {
+    "id": "p-a36f70",
+    "offset": 29031,
+    "text": "Jessel, Sir George 268"
+  },
+  {
+    "id": "p-523f59",
+    "offset": 29055,
+    "text": "Judicial, contrasted with administrative 108"
+  },
+  {
+    "id": "p-985ecf",
+    "offset": 29101,
+    "text": "Juridical idealism 41-42, 91"
+  },
+  {
+    "id": "p-849d36",
+    "offset": 29131,
+    "text": "Jurisconsults 30, 43-44"
+  },
+  {
+    "id": "p-286ce8",
+    "offset": 29156,
+    "text": "Jurisprudence, problems of 111"
+  },
+  {
+    "id": "p-0f37e0",
+    "offset": 29188,
+    "text": "Juristic theories, nature of 69"
+  },
+  {
+    "id": "p-da87d1",
+    "offset": 29221,
+    "text": "Jurists, metaphysical 52, 68 search for the more inclusive order 145 seventeenth and eighteenth-century 43-44"
+  },
+  {
+    "id": "p-4a60e5",
+    "offset": 29332,
+    "text": "Jurist-theologians 39 Spanish 81-82, 83"
+  },
+  {
+    "id": "p-777504",
+    "offset": 29373,
+    "text": "*Jus disponendi* 221"
+  },
+  {
+    "id": "p-bd6603",
+    "offset": 29395,
+    "text": "Just, the, by nature or by convention 25, 27, 31, 55"
+  },
+  {
+    "id": "p-608679",
+    "offset": 29449,
+    "text": "Justice, Aristotle on 25, 77 definition of in the Institutes 77 executive 137 idea of 65 without law 102, 113"
+  },
+  {
+    "id": "p-5280c9",
+    "offset": 29560,
+    "text": "Justinian, Institutes of 77-78"
+  },
+  {
+    "id": "p-072ec3",
+    "offset": 29592,
+    "text": "Kenyon, Lord 47"
+  },
+  {
+    "id": "p-a01e9e",
+    "offset": 29609,
+    "text": "Kin organization 74"
+  },
+  {
+    "id": "p-4222fc",
+    "offset": 29630,
+    "text": "*Laesio enormis* 274"
+  },
+  {
+    "id": "p-71f68d",
+    "offset": 29652,
+    "text": "Law, adjustment with administration 137 and morals 27, 30, 41, 111, 112 application of 100 ff. as an aggregate of rules 110 as a body of agreements 63 as a body of commands 64 as a body of divinely ordained rules 60 as a keeping of the peace 72-74 as a reflection of divine reason 63 as a system of principles 62, 66 as custom 61, 62 as declaratory of economic or social laws 67-68 as precepts discovered by experience 65 as recorded traditional wisdom 61 as restraint on liberty 60 as rules imposed by dominant class 66 as standing between the individual and society 53 as unfolding an idea of right 65 basis of authority of 19, 23-24, 27, 28-29, 38, 69-72 Byzantine theory of 110 distinguished from rules of law 24 elements of 115-116 end of 35-36, 59 ff. effectiveness of 193 finding 100, 104-105 forms of 27-28 government of 136 historical theory of 65, 68 how far made 107-108 idea of self-sufficiency of 17, 67 judge made 35 jurist made 35 maturity of 48, 59, 102 merchant 155, 271, 275 nature of 59, 91, 111 nature of theories of 68-69 political theory of 68 restatement of the 282 science of 101 soft spots in the 282 theories of the nature of 60-68"
+  },
+  {
+    "id": "p-be3031",
+    "offset": 30811,
+    "text": "Law making, judicial 105 presuppositions of 59"
+  },
+  {
+    "id": "p-8ead1f",
+    "offset": 30859,
+    "text": "Legal transactions 153 *bonae fidei* 248 categories of 247 formal 249 *stricti iuris* 248"
+  },
+  {
+    "id": "p-96bfec",
+    "offset": 30950,
+    "text": "Lending 150"
+  },
+  {
+    "id": "p-3f6ef6",
+    "offset": 30963,
+    "text": "*Lex Aquilia* 159"
+  },
+  {
+    "id": "p-2d61eb",
+    "offset": 30982,
+    "text": "Liability, absolute 179 act as basis of 158, 182 analytical theory of 152-153 as corollary of fault 163-164, 166, 168, 181, 187, 283-284 basis of delictal 177 delictal 163, 167-169 elements of 162-163 employer's 163 fault as basis of 160, 163-164, 167 for cattle going on vacant lands 180-181 for injury by animal 163, 164, 180 for injury by child 159 for injury by minor 162 for injury by a *res ruinosa* 162 for injury by slave 159 for intentional harm 168 for negligence 175, 180 for non-restraint of agencies 176 for tort, basis of 167 for tort, common-law theory of 168-169 for trespassing cattle 180 for unintended non-culpable harm 168 for unintentional culpable harm 168 for vicious animals 182, 186 from culpability 184 from legal transactions 187 fundamentals of 174 historical anomalies in 166, 179, 186 in French law 161-164 intention as basis of 157, 160 justifiable reliance as basis of 189 meaning of 147 natural sources of 156 noxal 159 of carrier 186 of innkeeper 159, 160, 186 of master of ship 159, 160 of stable keeper 159, 160 on \"implied\" terms of transaction 170 philosophical theories of 193-194 primitive grounds of 149-151 quasi-contractual 156 quasi-delictal 156 relational 186-188 to make restitution 187 theories of 148 will-theory of 157, 177, 179, 189 without fault 156, 162, 166, 177, 179"
+  },
+  {
+    "id": "p-1519d4",
+    "offset": 32304,
+    "text": "Liberty 84-85 idea of 65, 267 idea of as source of liability 157 law and 60"
+  },
+  {
+    "id": "p-a87c48",
+    "offset": 32381,
+    "text": "Locke, John 208"
+  },
+  {
+    "id": "p-0d858b",
+    "offset": 32398,
+    "text": "Lorimer, James 218"
+  },
+  {
+    "id": "p-9f724e",
+    "offset": 32418,
+    "text": "Louis IX 128"
+  },
+  {
+    "id": "p-f412e2",
+    "offset": 32432,
+    "text": "Magistrate, power of 112"
+  },
+  {
+    "id": "p-d12fc5",
+    "offset": 32458,
+    "text": "Maine, Sir Henry 208"
+  },
+  {
+    "id": "p-f1fa63",
+    "offset": 32480,
+    "text": "*Mala prohibita* 26"
+  },
+  {
+    "id": "p-94285c",
+    "offset": 32501,
+    "text": "Mandate 272"
+  },
+  {
+    "id": "p-9ef1de",
+    "offset": 32514,
+    "text": "Manu 60"
+  },
+  {
+    "id": "p-710da4",
+    "offset": 32523,
+    "text": "Maxims 34"
+  },
+  {
+    "id": "p-39c086",
+    "offset": 32534,
+    "text": "Metaphysical jurists 92"
+  },
+  {
+    "id": "p-164358",
+    "offset": 32559,
+    "text": "Middle Ages, conception of end of law in 78-80 idea of law in 77-81 juristic need in 36"
+  },
+  {
+    "id": "p-ef368b",
+    "offset": 32648,
+    "text": "Minos (pseudo-Platonic dialogue) 24"
+  },
+  {
+    "id": "p-55eeac",
+    "offset": 32685,
+    "text": "Mosaic law 60"
+  },
+  {
+    "id": "p-525552",
+    "offset": 32700,
+    "text": "Narada 244"
+  },
+  {
+    "id": "p-ed0e0c",
+    "offset": 32712,
+    "text": "Nationalism in law 39"
+  },
+  {
+    "id": "p-0d1727",
+    "offset": 32735,
+    "text": "Natural, meaning of in philosophy of law 31-32"
+  },
+  {
+    "id": "p-a4919f",
+    "offset": 32783,
+    "text": "Natural obligation 250"
+  },
+  {
+    "id": "p-69be5e",
+    "offset": 32807,
+    "text": "Natural reason 202"
+  },
+  {
+    "id": "p-b4944e",
+    "offset": 32827,
+    "text": "Nature, meaning of in Greek philosophy 31-32 state of 45"
+  },
+  {
+    "id": "p-66e835",
+    "offset": 32885,
+    "text": "Necessary distinctions 172, 174"
+  },
+  {
+    "id": "p-1dd38a",
+    "offset": 32918,
+    "text": "Negative community 207"
+  },
+  {
+    "id": "p-97b9f6",
+    "offset": 32942,
+    "text": "Neo-Hegelians 94, 98"
+  },
+  {
+    "id": "p-92dc63",
+    "offset": 32964,
+    "text": "Neo-Kantians 93, 98"
+  },
+  {
+    "id": "p-b185ce",
+    "offset": 32985,
+    "text": "New York, Code of Civil Procedure 105"
+  },
+  {
+    "id": "p-7847a5",
+    "offset": 33024,
+    "text": "*Nomos*, meanings of 22"
+  },
+  {
+    "id": "p-6b6562",
+    "offset": 33049,
+    "text": "Noxal liability 159"
+  },
+  {
+    "id": "p-48f6df",
+    "offset": 33070,
+    "text": "Oaths and vows 251"
+  },
+  {
+    "id": "p-82209b",
+    "offset": 33090,
+    "text": "Obligation, civil 252 *ex contractu* 146, 172 *ex delicto* 146, 172, 174 *ex uariis causarum figuris* 16, 172 meaning of 147 moral basis of 250 natural 250, 252-253 nature of 145 oaths as basis of 251-252 *quasi ex contractu* 257 religious 244 will as basis of 250"
+  },
+  {
+    "id": "p-b9a965",
+    "offset": 33356,
+    "text": "Occupation 196, 211 as a legal transaction 213-214"
+  },
+  {
+    "id": "p-adc009",
+    "offset": 33408,
+    "text": "Office or calling, duties attached to 173"
+  },
+  {
+    "id": "p-da8e55",
+    "offset": 33451,
+    "text": "Ownership, analytical theory of 222-224 development of the idea of 221-231 dogma that everything must be owned 199 things excluded from 199"
+  },
+  {
+    "id": "p-f764e4",
+    "offset": 33592,
+    "text": "*Pacta donationis* 272"
+  },
+  {
+    "id": "p-5bc29f",
+    "offset": 33616,
+    "text": "Part performance 282"
+  },
+  {
+    "id": "p-1f8aaf",
+    "offset": 33638,
+    "text": "*Pecunia credita* 249"
+  },
+  {
+    "id": "p-20e3cc",
+    "offset": 33661,
+    "text": "*Pedis possessio* 222"
+  },
+  {
+    "id": "p-0744fd",
+    "offset": 33684,
+    "text": "Penal treatment, individualizing of 129-130"
+  },
+  {
+    "id": "p-0b2683",
+    "offset": 33729,
+    "text": "Penalty, for delict 149 of reparation 149"
+  },
+  {
+    "id": "p-09403c",
+    "offset": 33772,
+    "text": "Personal government 135-136"
+  },
+  {
+    "id": "p-5561dc",
+    "offset": 33801,
+    "text": "Personality 191"
+  },
+  {
+    "id": "p-d997bf",
+    "offset": 33818,
+    "text": "Pessimism, juristic 57"
+  },
+  {
+    "id": "p-192fad",
+    "offset": 33842,
+    "text": "Philosophers, attempt to unify law and law making 19 attempt to reconcile authority with need of change 19 quest for an ultimate solving idea 19"
+  },
+  {
+    "id": "p-8e9741",
+    "offset": 33988,
+    "text": "Philosophical thinking, achievements of in law 16-18 as a force in administration of justice 16 needs determining as to law 18 possibilities of in law of contracts 284"
+  },
+  {
+    "id": "p-e8454e",
+    "offset": 34157,
+    "text": "Pledge 251"
+  },
+  {
+    "id": "p-7a6b45",
+    "offset": 34169,
+    "text": "Political interpretation 266"
+  },
+  {
+    "id": "p-806cc9",
+    "offset": 34199,
+    "text": "Positivism 54-56"
+  },
+  {
+    "id": "p-76ffb5",
+    "offset": 34217,
+    "text": "Possession 233-234"
+  },
+  {
+    "id": "p-f7c71b",
+    "offset": 34237,
+    "text": "Post-Glossators 37"
+  },
+  {
+    "id": "p-03fd3d",
+    "offset": 34257,
+    "text": "Pothier 45"
+  },
+  {
+    "id": "p-ed1ab1",
+    "offset": 34269,
+    "text": "Primitive law 72-74 faith of in verbal formulas 154"
+  },
+  {
+    "id": "p-b4f3f2",
+    "offset": 34322,
+    "text": "Primogeniture 50"
+  },
+  {
+    "id": "p-6ae63c",
+    "offset": 34340,
+    "text": "Procedure 111"
+  },
+  {
+    "id": "p-5f6f23",
+    "offset": 34355,
+    "text": "Proculians 196"
+  },
+  {
+    "id": "p-b24c83",
+    "offset": 34371,
+    "text": "Promised advantages 191"
+  },
+  {
+    "id": "p-e2e994",
+    "offset": 34396,
+    "text": "Promises, abstract 255, 262, 263 an element in wealth 236 exchange of 254 \"from ostentation\" 256, 280, 281 moral duty to keep 262 philosophical theory of enforcing 283 simple 275 theories of enforcing 269-276 theory of inherent force of 259-260"
+  },
+  {
+    "id": "p-d7d07a",
+    "offset": 34642,
+    "text": "Property, acquisition of 194-200, 204 analytical theory of 221-224 basis in creation 209 basis in division by agreement 205 basis in economic nature of man 205, 209 community 229 effectiveness of law as to 193 Grotius' theory of 205-207 Hegel's theory of 214-216 historical development of law of 224-232 historical theory of 219, 221-232 household 226-227, 229 inequalities in 215, 221 in natural media of life 201-202 jural postulates of 193, 194 Kant's theory of 210-214 law of 141 Lorimer's theory of 218 medieval theory of 202 metaphysical theories of 210-218 modes of acquiring 194-202 \"natural\" acquisition of 195 natural-law theories of 204-210 natural limits of right of 195 negative community in 207 philosophical theories of 194 ff. positive theory of 219-221 psychological theory of 209, 23, 234 restrictions on appropriation of 88 restrictions on use and disposition of 87-88 self-acquired 227-228 seventeenth-century theory of 202 socialization of 233 social-utilitarian theory of 225 sociological theories of 232 Spencer's theory of 219 theories of 202-225 theory of in Anglo-American law 208 theory of in antiquity 202 things not subject to 197 titles to 195-197, 211 twentieth-century theories of 232"
+  },
+  {
+    "id": "p-934789",
+    "offset": 35860,
+    "text": "Protestant jurist-theologians 39"
+  },
+  {
+    "id": "p-c64ccc",
+    "offset": 35894,
+    "text": "Publicists, French 110"
+  },
+  {
+    "id": "p-301fa8",
+    "offset": 35918,
+    "text": "Public utilities 117, 136 exemption of from competition 88-89 power to contract 187"
+  },
+  {
+    "id": "p-834701",
+    "offset": 36003,
+    "text": "Punitive justice 111 individualization of 134-135"
+  },
+  {
+    "id": "p-eafd40",
+    "offset": 36054,
+    "text": "*Ratio legis*, doctrine of 32, 46"
+  },
+  {
+    "id": "p-1f29db",
+    "offset": 36089,
+    "text": "Reason, excessive faith in 39, 46-47"
+  },
+  {
+    "id": "p-665733",
+    "offset": 36127,
+    "text": "Reform movement, legislative 47, 85"
+  },
+  {
+    "id": "p-60e918",
+    "offset": 36164,
+    "text": "Relations 171 duties attached to 173 economic value of 192 interference with 192 legal protection of 193"
+  },
+  {
+    "id": "p-4ad37d",
+    "offset": 36270,
+    "text": "Religion 242 ff."
+  },
+  {
+    "id": "p-cf0cc1",
+    "offset": 36288,
+    "text": "Reparation 149"
+  },
+  {
+    "id": "p-0d631b",
+    "offset": 36304,
+    "text": "Representation 179"
+  },
+  {
+    "id": "p-71eb1c",
+    "offset": 36324,
+    "text": "Responsibility at one's peril 167"
+  },
+  {
+    "id": "p-63c3e3",
+    "offset": 36359,
+    "text": "Right, idea of 65 natural and conventional 15, 25-26, 31"
+  },
+  {
+    "id": "p-d5ae5f",
+    "offset": 36417,
+    "text": "Rights, *in personam* 146 *in rem* 147"
+  },
+  {
+    "id": "p-10302e",
+    "offset": 36457,
+    "text": "Roman conception of end of law 77-78 jurisconsults 30, 43"
+  },
+  {
+    "id": "p-12c12f",
+    "offset": 36516,
+    "text": "Rousseau 214"
+  },
+  {
+    "id": "p-8c9573",
+    "offset": 36530,
+    "text": "Rules 115-116 adapted to commercial transactions 141 adapted to property 141 and discretion 141-143 application of 142 as guides 121 mechanical application of 142-143"
+  },
+  {
+    "id": "p-824c92",
+    "offset": 36698,
+    "text": "Sabinians 196"
+  },
+  {
+    "id": "p-c97439",
+    "offset": 36713,
+    "text": "Satisfaction of wants, as an ideal 98-99"
+  },
+  {
+    "id": "p-51573f",
+    "offset": 36755,
+    "text": "Scholastic philosophy 36 permanent contribution of 38"
+  },
+  {
+    "id": "p-0b6f94",
+    "offset": 36810,
+    "text": "Security of transactions 193, 237"
+  },
+  {
+    "id": "p-2c407b",
+    "offset": 36845,
+    "text": "Seisin 225"
+  },
+  {
+    "id": "p-ab26e6",
+    "offset": 36857,
+    "text": "Self help 73"
+  },
+  {
+    "id": "p-67e6d6",
+    "offset": 36871,
+    "text": "Seller's talk 280"
+  },
+  {
+    "id": "p-babe83",
+    "offset": 36890,
+    "text": "Social contract 204"
+  },
+  {
+    "id": "p-e9165e",
+    "offset": 36911,
+    "text": "Social control 99, 225"
+  },
+  {
+    "id": "p-85cd69",
+    "offset": 36935,
+    "text": "Social engineering 99"
+  },
+  {
+    "id": "p-70c0b3",
+    "offset": 36958,
+    "text": "Social ideal 56 as a measure of values 98"
+  },
+  {
+    "id": "p-6187ba",
+    "offset": 37001,
+    "text": "Social interdependence 232 as a measure of values 98"
+  },
+  {
+    "id": "p-ceeb9c",
+    "offset": 37055,
+    "text": "Social interests 99 in peace and order 148 in security of transactions 237"
+  },
+  {
+    "id": "p-feef63",
+    "offset": 37131,
+    "text": "Social laws 54-55"
+  },
+  {
+    "id": "p-b02a4e",
+    "offset": 37150,
+    "text": "Social order, feudal 79-80 idealized form of the 35 static 85"
+  },
+  {
+    "id": "p-4c5c15",
+    "offset": 37213,
+    "text": "Social sciences, unification of 91"
+  },
+  {
+    "id": "p-d72ab9",
+    "offset": 37249,
+    "text": "Social status quo, as end of law 35-36"
+  },
+  {
+    "id": "p-9d30e0",
+    "offset": 37289,
+    "text": "Social utilitarianism 92-98"
+  },
+  {
+    "id": "p-fb5a39",
+    "offset": 37318,
+    "text": "Socialists 209"
+  },
+  {
+    "id": "p-c92847",
+    "offset": 37334,
+    "text": "Society, Greek conception of 79 jural postulates of civilized 169-179 kin-organized 73-74 medieval conception of 79"
+  },
+  {
+    "id": "p-128986",
+    "offset": 37451,
+    "text": "Sociology 94"
+  },
+  {
+    "id": "p-7ae7db",
+    "offset": 37465,
+    "text": "*Sophrosyne* 77"
+  },
+  {
+    "id": "p-aab5e7",
+    "offset": 37482,
+    "text": "Sovereignty, Byzantine theory of 40"
+  },
+  {
+    "id": "p-cb937e",
+    "offset": 37519,
+    "text": "Specification 195"
+  },
+  {
+    "id": "p-fecd06",
+    "offset": 37538,
+    "text": "Spencer, Herbert 84, 97, 201, 265 his law of equal freedom 219 his theory of property 219-221"
+  },
+  {
+    "id": "p-b847f8",
+    "offset": 37633,
+    "text": "Spirit and letter 154"
+  },
+  {
+    "id": "p-6bafe4",
+    "offset": 37656,
+    "text": "*Stare decisis* 140"
+  },
+  {
+    "id": "p-a9e5a2",
+    "offset": 37677,
+    "text": "Status to contract 266"
+  },
+  {
+    "id": "p-450022",
+    "offset": 37701,
+    "text": "Statute of Frauds 282"
+  },
+  {
+    "id": "p-b3ef06",
+    "offset": 37724,
+    "text": "Statute of Uses 277"
+  },
+  {
+    "id": "p-4968b9",
+    "offset": 37745,
+    "text": "Stipulation 246 of counsel 273, 274"
+  },
+  {
+    "id": "p-d6f19b",
+    "offset": 37782,
+    "text": "Stoics 197"
+  },
+  {
+    "id": "p-59427a",
+    "offset": 37794,
+    "text": "Substance, interests of 139, 225"
+  },
+  {
+    "id": "p-73e329",
+    "offset": 37828,
+    "text": "Super constitution 15, 51"
+  },
+  {
+    "id": "p-69660e",
+    "offset": 37855,
+    "text": "Symbols 248"
+  },
+  {
+    "id": "p-ce1551",
+    "offset": 37868,
+    "text": "Teleology, legal 92"
+  },
+  {
+    "id": "p-f71c41",
+    "offset": 37889,
+    "text": "Theories of law, elements in 70-71"
+  },
+  {
+    "id": "p-5a5c37",
+    "offset": 37925,
+    "text": "Third-party beneficiaries 273"
+  },
+  {
+    "id": "p-9e2470",
+    "offset": 37956,
+    "text": "Title, by creation 195 by discovery 195 by occupation 196, 211 \"natural\" 195"
+  },
+  {
+    "id": "p-8caf21",
+    "offset": 38034,
+    "text": "\"Tort of negligence\" 105"
+  },
+  {
+    "id": "p-09be8f",
+    "offset": 38060,
+    "text": "*Traditio* 249"
+  },
+  {
+    "id": "p-0e67cc",
+    "offset": 38076,
+    "text": "Trust, constructive 173 gratuitous declaration of 272, 274"
+  },
+  {
+    "id": "p-c8484b",
+    "offset": 38136,
+    "text": "Twelve Tables 249"
+  },
+  {
+    "id": "p-8a3a53",
+    "offset": 38155,
+    "text": "Unjust enrichment 173, 187"
+  },
+  {
+    "id": "p-7c111c",
+    "offset": 38183,
+    "text": "Utilitarians 267, 268"
+  },
+  {
+    "id": "p-c272fa",
+    "offset": 38206,
+    "text": "Utility 53"
+  },
+  {
+    "id": "p-baf2fe",
+    "offset": 38218,
+    "text": "Vrihaspati 243"
+  },
+  {
+    "id": "p-0f43f5",
+    "offset": 38234,
+    "text": "Wants, as juristic starting point 89-90 limitations on satisfaction of 97-98 satisfaction of 89-90"
+  },
+  {
+    "id": "p-0f8e2e",
+    "offset": 38334,
+    "text": "Whale fishing 195"
+  },
+  {
+    "id": "p-c480f8",
+    "offset": 38353,
+    "text": "Will, as basis of liability 157, 169 as basis of obligation 250 as juristic starting point 84, 89"
+  },
+  {
+    "id": "p-36a899",
+    "offset": 38452,
+    "text": "Will theory 189 of contract 264-265"
+  },
+  {
+    "id": "p-3c50d9",
+    "offset": 38489,
+    "text": "Williston, S. 282"
+  },
+  {
+    "id": "p-dd0356",
+    "offset": 38508,
+    "text": "Workman's compensation 167"
+  },
+  {
+    "id": "p-715f4c",
+    "offset": 38536,
+    "text": "STORRS LECTURES"
+  },
+  {
+    "id": "p-f2c833",
+    "offset": 38553,
+    "text": "PUBLISHED BY YALE UNIVERSITY PRESS"
+  },
+  {
+    "id": "p-253cbe",
+    "offset": 38589,
+    "text": "THE REFORM OF LEGAL PROCEDURE. By Moorfield Storey. THE JUDICIARY AND THE PEOPLE. By Frederick N. Judson. CONCERNING JUSTICE. By Lucilius A. Emery. WOMAN'S SUFFRAGE BY CONSTITUTIONAL AMENDMENT. By Henry St. George Tucker. THE NATURE OF THE JUDICIAL PROCESS. By Benjamin N. Cardozo."
+  },
+  {
+    "id": "p-4b0766",
+    "offset": 38872,
+    "text": "1. Passages in italics are surrounded by *underscores*."
+  },
+  {
+    "id": "p-590a27",
+    "offset": 38929,
+    "text": "2. The original text includes Greek characters. For this text version these letters have been replaced with transliterations."
+  },
+  {
+    "id": "p-5bc0ce",
+    "offset": 39056,
+    "text": "3. The following misprints have been corrected: \"predicability\" corrected to \"predictability\" (page 33) \"Aristole\" corrected to \"Aristotle\" (page 313)"
+  },
+  {
+    "id": "p-c7446d",
+    "offset": 39208,
+    "text": "4. Other than the corrections listed above, printer's inconsistencies in spelling, punctuation, and hyphenation have been retained."
+  }
+]

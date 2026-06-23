@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 38,
+  "chapter_title": "[a] Cognition proper",
+  "chapter_slug": "38-a-cognition-proper",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f1a51d0-f2e1-5aca-a44a-7871a1919b03",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2410,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slidea.htm"
+    }
+  ]
+}

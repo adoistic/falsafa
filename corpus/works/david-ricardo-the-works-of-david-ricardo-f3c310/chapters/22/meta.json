@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 22,
-  "chapter_title": "CHAPTER XII.: LAND-TAX.",
+  "chapter_title": "Chapter XIII.: Taxes on Gold.",
   "chapter_slug": "22",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3010,
-      "paragraph_count": 18,
+      "word_count": 2814,
+      "paragraph_count": 13,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

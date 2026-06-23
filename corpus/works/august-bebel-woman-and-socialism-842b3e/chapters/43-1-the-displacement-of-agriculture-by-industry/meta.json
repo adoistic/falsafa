@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 43,
+  "chapter_title": "1. The Displacement of Agriculture by Industry.",
+  "chapter_slug": "43-1-the-displacement-of-agriculture-by-industry",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97389970-63ed-5f65-ae8a-5a960c4cd6bd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1198,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch17.htm"
+    }
+  ]
+}

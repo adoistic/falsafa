@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-accumulation-of-capital-1f9ce9",
+  "work_title": "The Accumulation of Capital",
+  "chapter_number": 23,
+  "chapter_title": "Chapter 22: Bulgakov and His Completion of Marx’s Analysis",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc5d6d67-acf8-5985-bca1-bda9f2a051e4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4143,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch22.htm"
+    }
+  ]
+}

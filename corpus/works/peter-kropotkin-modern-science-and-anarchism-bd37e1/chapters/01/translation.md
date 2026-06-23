@@ -1,0 +1,45 @@
+---
+work_id: "bd37e11b-2fb3-5fe0-bfb5-28b931789ef5"
+work_slug: "peter-kropotkin-modern-science-and-anarchism-bd37e1"
+work_title: Modern Science and Anarchism
+author_name: Peter Kropotkin
+chapter_number: 1
+chapter_title: Chapter 1
+chapter_slug: 01
+variant_id: "3b14e9a0-5503-5c1c-95bf-3138cef69bda"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1346
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1903/modern-science-and-anarchism/chapter-1.html"
+translator: David A. Modell
+---
+
+Anarchism, like Socialism in general, and like every other social movement, has not, of course, developed out of science or out of some philosophical school. The social sciences are still very far removed from the time when they shall be as exact as are physics and chemistry. Even in meteorology we cannot yet predict the weather a month, or even one week, in advance. It would be unreasonable, therefore, to expect of the young social sciences, which are concerned with phenomena much more complex than winds and rain, that they should foretell social events with any approach to certainty. Besides, it must not be forgotten that men of science, too, are but human, and that most of them either belong by descent to the possessing classes, and are steeped in the prejudices of their class, or else are in the actual service of the government. Not out of the universities, therefore, does Anarchism come.
+
+As Socialism in general, Anarchism was born among the people; and it will continue to be full of life and creative power only as long as it remains a thing of the people.
+
+At all times two tendencies were continually at war in human society. On the one hand, the masses were developing, in the form of customs, a number of institutions which were necessary to make social life at all possible--to insure peace among men, to settle any disputes that might arise, and to help one another in everything requiring cooperative effort. The savage clan at its earliest stage, the village community, the hunters', and, later on, the industrial guilds, the free town-republics of the middle ages, the beginnings of international law which were worked out in those early periods, and many other institutions,--were elaborated, not by legislators, but by the creative power of the people.
+
+And at all times, too, there appeared sorcerers, prophets, priests, and heads of military organizations, who endeavored to establish and to strengthen their authority over the people. They supported one another, concluded alliances, in order that they might reign over the people, hold them in subjection, and compel them to work for the masters.
+
+Anarchism is obviously the representative of the first tendency--that is, of the creative, constructive power of the people themselves, which aimed at developing institutions of common law in order to protect them from the power-seeking minority. By means of the same popular creative power and constructive activity, based upon modern science and technics, Anarchism tries now as well to develop institutions which would insure a free evolution of society. In this sense, therefore, Anarchists and Governmentalists have existed through all historic times.
+
+Then, again, it always happened also that institutions--even the most excellent so far as their original purpose was concerned, and established originally with the object of securing equality, peace and mutual aid--in the course of time became petrified, lost their original meaning, came under the control of the ruling minority, and became in the end a constraint upon the individual in his endeavors for further development. Then men would rise against these institutions. But, while some of these discontented endeavored to throw off the yoke of the old institutions--of caste, commune or guild--only in order that they themselves might rise over the rest and enrich themselves at their expense; others aimed at a modification of the institutions in the interest of all, and especially in order to shake off the authority which had fixed its hold upon society. All reformers--political, religious, and economic--have belonged to this class. And among them there always appeared persons who, without abiding the time when all their fellow-countrymen, or even a majority of them, shall have become imbued with the same views, moved onward in the struggle against oppression, in mass where it was possible, and single-handed where it could not be done otherwise. These were the revolutionists, and them, too, we meet at all times.
+
+But the revolutionists themselves generally appeared under two different aspects. Some of them, in rising against the established authority, endeavored, not to abolish it, but to take it in their own hands. In place of the authority which had become oppressive, these reformers sought to create a new one, promising that if they exercised it they would have the interests of the people dearly at heart, and would ever represent the people themselves. In this way, however, the authority of the Cæsars was established in Imperial Rome, the power of the Church rose in the first centuries after the fall of the Roman Empire, and the tyranny of dictators grew up in the medieval communes at the time of their decay. Of the same tendency, too, the kings and the czars availed themselves to constitute their power at the end of the feudal period. The belief in a popular emperor, that is, Cæsarism, has not died out even yet.
+
+But all the while another tendency was ever manifest. At all times beginning with Ancient Greece, there were persons and popular movements that aimed, not at the substitution of one government for another, but at the abolition of authority altogether. They proclaimed the supreme rights of the individual and the people, and endeavored to free popular institutions from forces which were foreign and harmful to them, in order that the unhampered creative genius of the people might remold these institutions in accordance with the new requirements. In the history of the ancient Greek republics, and especially in that of the mediæval commonwealths, we find numerous examples of this struggle (Florence and Pskov are especially interesting in this connection). In this sense, therefore, Jacobinists and Anarchists have existed at all times among reformers and revolutionists.
+
+In past ages there were even great popular movements of this latter (Anarchist) character. Many thousands of people then rose against authority--its tools, its courts and its laws--and proclaimed the supreme rights of man. Discarding all written laws, the promoters of these movements endeavored to establish a new society based on equality and labor and on the government of each by his own conscience. In the Christian movement against Roman law, Roman government, and Roman morality (or, rather, Roman immorality), which began in Judea in the reign of Augustus, there undoubtedly existed much that was essentially Anarchistic. Only by degrees it degenerated into an ecclesiastical movement, modeled upon the ancient Hebrew church and upon Imperial Rome itself, which killed the Anarchistic germ, assumed Roman governmental forms, and became in time the chief bulwark of government authority, slavery, and oppression.
+
+Likewise, in the Anabaptist movement (which really laid the foundation for the Reformation) there was a considerable element of Anarchism. But, stifled as it was by those of the reformers who, under Luther's leadership, joined the princes against the revolting peasants, it died out after wholesale massacres of the peasants had been carried out in Holland and Germany. Thereupon the moderate reformers degenerated by degrees into those compromisers between conscience and government who exist to-day under the name of Protestants.
+
+Anarchism, consequently, owes its origin to the constructive, creative activity of the people, by which all institutions of communal life were developed in the past, and to a protest--a revolt against the external force which had thrust itself upon these institutions; the aim of this protest being to give new scope to the creative activity of the people, in order that it might work out the necessary institutions with fresh vigor.
+
+In our own time Anarchism arose from the same critical and revolutionary protest that called forth Socialism in general. Only that some of the socialists, having reached the negation of Capital and of our social organization based upon the exploitation of labor, went no further. They did not denounce what, in our opinion, constitutes the chief bulwark of Capital; namely, Government and its chief supports: centralization, law (always written by a minority in the interest of that minority), and Courts of justice (established mainly for the defense of Authority and Capital).
+
+Anarchism does not exclude these institutions from its criticism. It attacks not only Capital, but also the main sources of the power of Capitalism.

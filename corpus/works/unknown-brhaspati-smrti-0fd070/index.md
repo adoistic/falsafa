@@ -2,10 +2,10 @@
 id: "0fd070b6-7576-40df-80fc-09d746aba2b9"
 slug: "unknown-brhaspati-smrti-0fd070"
 title: Bṛhaspati Smṛti
-author: Bṛhaspati
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Bṛhaspati
+  biography: A sage of the Hindu Dharmaśāstra tradition, to whom the Bṛhaspati Smṛti is ascribed. The text is a compilation in verse on law and right conduct, redacted over generations by unknown hands.
+  nationality: Indian
 era: Ancient
 genre: Indic
 language: Sanskrit

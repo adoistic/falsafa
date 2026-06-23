@@ -4,13 +4,17 @@ slug: "thomas-robert-malthus-an-essay-on-the-principle-of-pop-b79da8"
 title: An Essay on the Principle of Population (1st ed., 1798)
 author:
   name: Thomas Robert Malthus
-  biography: Thomas Robert Malthus (1766–1834).
+  biography: English clergyman and political economist, the first professor of political economy in Britain, at the East India Company college at Haileybury. An Essay on the Principle of Population argued that population tends to outrun subsistence and reshaped debate over poverty, wages, and reform.
+  birth_year: 1766
+  death_year: 1834
+  nationality: English
 era: Enlightenment
 genre: Economics
 language: English
 language_direction: ltr
 description: "An Essay on the Principle of Population (1st ed., 1798), by Thomas Robert Malthus (1766–1834), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1798
 total_logical_chapters: 20
 total_variant_entries: 20
 thothica_role: catalog

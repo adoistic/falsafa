@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 81,
+  "chapter_title": "Chap. XXVI: Account of the Royal Missisippi Bank of France, established on Public Credit",
+  "chapter_slug": "81-chap-xxvi-account-of-the-royal-missisippi-bank-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "af6a3ac4-2d48-5f1d-8a59-707bb3522aec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1081,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+    }
+  ]
+}

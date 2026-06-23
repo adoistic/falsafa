@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-an-essay-on-the-trial-by-jury-8ca341"
 work_title: An Essay on the Trial by Jury
 author_name: Lysander Spooner
 chapter_number: 12
-chapter_title: "SECTION II.: The Ancient Common Law Juries were mere Courts of Conscience.↩"
+chapter_title: Section Vi.↩, The Coronation Oath.↩
 chapter_slug: 12
 variant_id: "f2ddec59-7f55-5b98-bf54-9bad1ef2cf1c"
 content_type: translation
@@ -13,199 +13,97 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 6393
+word_count: 2134
 source_url: "https://oll.libertyfund.org/titles/spooner-an-essay-on-the-trial-by-jury-1852"
 translator: Online Library of Liberty edition
 ---
 
-But it is in the administration of justice, or of law, that the freedom or subjection of a people is tested. If this administration be in accordance with the arbitrary will of the legislator—that is, if his will, as it appears in his statutes, be the highest rule of decision known to the judicial tribunals,—the government is a despotism, and the people are slaves. If, on the other hand, the rule of decision be those principles of natural equity and justice, which constitute, or at least are embodied in, the general conscience of mankind, the people are free in just so far as that conscience is enlightened.
+That the legislation of the king was of no authority over a jury, is further proved by the oath taken by the kings at their coronation. This oath seems to have been substantially the same, from the time of the Saxon kings, down to the seventeenth century, as will be seen from the authorities hereafter given.
 
-That the authority of the king was of little weight with the judicial tribunals, must necessarily be inferred from the fact already stated, that his authority over the people was but weak. If the authority of his laws had been paramount in the judicial tribunals, it would have been paramount with the people, of course; because they would have had no alternative [64] but submission. The fact, then, that his laws were not authoritative with the people, is proof that they were not authoritative with the tribunals—in other words, that they were not, as matter of course, enforced by the tribunals.
+The purport of the oath is, that the king swears to maintain the law of the land—that is, the common law. In other words, he swears “to concede and preserve to the English people the laws and customs conceded to them by the ancient, just, and pious English kings, * * and especially the laws, customs, and liberties conceded to the clergy and people by the illustrious king Edward;” * * and “the just laws and customs which the common people have chosen, (quas vulgus elegit).”
 
-But we have additional evidence that, up to the time of Magna Carta, the laws of the king were not binding upon the judicial tribunals; and if they were not binding before that time, they certainly were not afterwards, as has already been shown from Magna Carta itself. It is manifest from all the accounts we have of the courts in which juries sat, prior to Magna Carta, such as the court-baron, the hundred court, the court-leet, and the county court, that they were mere courts of conscience, and that the juries were the judges, deciding causes according to their own notions of equity, and not according to any laws of the king, unless they thought them just.
+These are the same laws and customs which were called by the general name of “the law of the land,” or “the common law,” and, with some slight additions, were embodied in Magna Carta.
 
-These courts, it must be considered, were very numerous, and held very frequent sessions. There were probably seven, eight, or nine hundred courts a month, in the kingdom; the object being, as Blackstone says, “to bring justice home to every man’s door.” (3 Blackstone, 30.) The number of the county courts, of course, corresponded to the number of counties, (36.) The court-leet was the criminal court for a district less than a county. The hundred court was the court for one of those districts anciently called a hundred, because, at the time of their first organization for judicial purposes, they comprised (as is supposed) but a hundred families.* The court-baron was the court for a single manor, and there was a court for every manor in the kingdom. All these courts were holden as often as once in three or five weeks; the county court once a month. The king’s judges were present at none of these courts; the only officers in attendance being sheriffs, bailiffs, and stewards, merely ministerial, and not judicial, officers; doubtless incompetent, and, if not incompetent, untrustworthy, for giving the juries any reliable information in matters of law, beyond what was already known to the jurors themselves. [65] And yet these were the courts, in which was done all the judicial business, both civil and criminal, of the nation, except appeals, and some of the more important and difficult cases.* It is plain that the juries, in these courts, must, of necessity, have been the sole judges of all matters of law whatsoever; because there was no one present, but sheriffs, bailiffs, and stewards, to give them any instructions; and surely it will not be pretended that the jurors were bound to take their law from such sources as these.
+This oath not only forbids the king to enact any statutes contrary to the common law, but it proves that his statutes could be of no authority over the consciences of a jury; since, as has already been sufficiently shown, it was one part of this very common law itself,—that is, of the ancient “laws, customs, and liberties,” mentioned in the oath,—that juries should judge of all questions that came before them, according to their own consciences, independently of the legislation of the king.
 
-In the second place, it is manifest that the principles of law, by which the juries determined causes, were, as a general rule, nothing else than their own ideas of natural equity, and not any laws of the king; because but few laws were enacted, and many of those were not written, but only agreed upon in council.† Of those that were written, few copies only were made, (printing being then unknown,) and not enough to supply all, or any considerable number, of these numerous courts. Beside and beyond all this, few or none of the jurors could have read the laws, if they had been written; because few or none of the common people could, at that time, read. Not only were the common people unable to read their own language, but, at the time of Magna Carta, the laws were written in Latin, a language that could be read by few persons except the priests, who were also the lawyers of the nation. Mackintosh says, “the first act of the House of Commons composed and recorded in the English tongue,” was in 1415, two centuries after Magna Carta.‡ Up to this time, and for some seventy years later, the laws were generally written [66] either in Latin or French; both languages incapable of being read by the common people, as well Normans as Saxons; and one of them, the Latin, not only incapable of being read by them, but of being even understood when it was heard by them.
+It was impossible that this right of the jury could subsist consistently with any right, on the part of the king, to impose any authoritative legislation upon them. His oath, therefore, [103] to maintain the law of the land, or the ancient “laws, customs, and liberties,” was equivalent to an oath that he would never assume to impose laws upon juries, as imperative rules of decision, or take from them the right to try all cases according to their own consciences. It is also an admission that he had no constitutional power to do so, if he should ever desire it. This oath, then, is conclusive proof that his legislation was of no authority with a jury, and that they were under no obligation whatever to enforce it, unless it coincided with their own ideas of justice.
 
-To suppose that the people were bound to obey, and juries to enforce, laws, many of which were unwritten, none of which they could read, and the larger part of which (those written in Latin) they could not translate, or understand when they heard them read, is equivalent to supposing the nation sunk in the most degrading slavery, instead of enjoying a liberty of their own choosing.
+The ancient coronation oath is printed with the Statutes of the Realm, vol. i., p. 168, and is as follows:*
 
-Their knowledge of the laws passed by the king was, of course, derived only from oral information; and “the good laws,” as some of them were called, in contradistinction to others—those which the people at large esteemed to be good laws—were doubtless enforced by the juries, and the others, as a general thing, disregarded.*
+translation.
 
-That such was the nature of judicial proceedings, and of the power of juries, up to the time of Magna Carta, is further shown by the following authorities.
+“Form of the Oath of the King of England, on his Coronation.
 
-“The sheriffs and bailiffs caused the free tenants of their bailiwics to meet at their counties and hundreds; at which justice was so done, that every one so judged his neighbor by such judgment as a man could not elsewhere receive in the like cases, until such times as the customs of the realm were put in writing, and certainly published.
+(The Archbishop of Canterbury, to whom, of right and custom of the Church of Canterbury, ancient and approved, it pertains to anoint and crown the kings of England, on the day of the coronation of the king, and before the king is crowned, shall propound the underwritten questions to the king.)
 
-“And although a freeman commonly was not to serve (as a juror or judge) without his assent, nevertheless it was assented unto that free tenants should meet together in the counties and hundreds, and lords courts, if they were not specially exempted to do such suits, and there judged their neighbors.”
+The laws and customs, conceded to the English people by the ancient, just, and pious English kings, will you concede and preserve to the same people, with the confirmation of an oath? and especially the laws, customs, and liberties conceded to the clergy and people by the illustrious king Edward?
 
-Gilbert, in his treatise on the Constitution of England, says:
+(And the king shall answer,) I do concede, and will preserve them, and confirm them by my oath.
 
-“In the county courts, if the debt was above forty shillings, there issued a justicies (a commission) to the sheriff, to enable him to hold such a plea, where the suitors (jurors) are judges of the law and fact.”
+Will you preserve to the church of God, the clergy, and the people, entire peace and harmony in God, according to your powers?
 
-All the ancient writs, given in Glanville, for summoning jurors, indicate that the jurors judged of everything, on their consciences only. The writs are in this form:
+(And the king shall answer,) I will.
 
-“Summon twelve free and legal men (or sometimes twelve knights) to be in court, prepared upon their oaths to declare whether A or B have the greater right to the land (or other thing) in question.” See Writs in Beames’ Glanville, p. 54 to 70, and 233-306 to 332.
+In all your judgments, will you cause equal and right justice and discretion to be done, in mercy and truth, according to your powers?
 
-Crabbe, speaking of the time of Henry I., (1100 to 1135,) recognizes the fact that the jurors were the judges. He says:
+(And the king shall answer,) I will.
 
-“By one law, every one was to be tried by his peers, who were of the same neighborhood as himself. * * By another law, the judges, for so the jury were called, were to be chosen by the party impleaded, after the manner of the Danish nembas; by which, probably, is to be understood that the defendant had the liberty of taking exceptions to, or challenging the jury, as it was afterwards called.”
+Do you concede that the just laws and customs, which the common people have chosen, shall be preserved; and do you promise that they shall be protected by you, and strengthened to the honor of God, according to your powers?
 
-Reeve says:
+(And the king shall answer,) I concede and promise.”
 
-“The great court for civil business was the county court; held once every four weeks. Here the sheriff presided; but the suitors of the court, as they were called, that is, the freemen or landholders of the county, were the judges; and the sheriff was to execute the judgment. * * *
+The language used in the last of these questions, “Do you concede that the just laws and customs, which the common people have chosen, (quas vulgus elegit,) shall be preserved?” &c., is worthy of especial notice, as showing that the laws, which were to be preserved, were not necessarily all the laws which the kings enacted, but only such of them as the common people had selected or approved.
 
-“The hundred court was held before some bailiff; the leet before the lord of the manor’s steward.† * *
+And how had the common people made known their approbation or selection of these laws? Plainly, in no other way than this—that the juries composed of the common people had voluntarily enforced them. The common people had no other legal form of making known their approbation of particular laws.
 
-“Out of the county court was derived an inferior court of civil jurisdiction, called the court-baron. This was held from three weeks to three weeks, and was in every respect like the county court;” (that is, the jurors were judges in it;) “only the lord to whom this franchise was granted, or his steward, [68] presided instead of the sheriff.”
+The word “concede,” too, is an important word. In the English statutes it is usually translated grant—as if with an intention to indicate that “the laws, customs, and liberties” of the English people were mere privileges, granted to them by the king; whereas it should be translated concede, to indicate simply an acknowledgment, on the part of the king, that such were the laws, customs, and liberties, which had been chosen and established by the people themselves, and of right belonged to them, and which he was bound to respect.
 
-Chief Baron Gilbert says:
+I will now give some authorities to show that the foregoing oath has, in substance, been the coronation oath from the times of William the Conqueror, (1066,) down to the time of James the First, and probably until 1688.
 
-“Besides the tenants of the king, which held per baroniam, (by the right of a baron,) and did suit and service (served as judges) at his own court; and the burghers and tenants in ancient demesne, that did suit and service (served as jurors or judges) in their own court in person, and in the king’s by proxy, there was also a set of freeholders, that did suit and service (served as jurors) at the county court. These were such as anciently held of the lord of the county, and by the escheats of earldoms had fallen to the king; or such as were granted out by service to hold of the king, but with particular reservation to do suit and service (serve as jurors) before the king’s bailiff; because it was necessary the sheriff, or bailiff of the king, should have suitors (jurors) at the county court, that the business might be despatched. These suitors are the pares (peers) of the county court, and indeed the judges of it; as the pares (peers) were the judges in every court-baron; and therefore the king’s bailiff having a court before him, there must be pares or judges, for the sheriff himself is not a judge; and though the style of the court is Curia prima Comitatus E. C. Milit.’ vicecom’ Comitat’ præd’ Tent’ apud B., &c. (First Court of the county, E. C. knight, sheriff of the aforesaid county, held at B., &c.); by which it appears that the court was the sheriff’s; yet, by the old feudal constitutions, the lord was not judge, but the pares (peers) only; so that, even in a justicies, which was a commission to the sheriff to hold plea of more than was allowed by the natural jurisdiction of a county court, the pares (peers, jurors) only were judges, and not the sheriff; because it was to hold plea in the same manner as they used to do in that (the lord’s) court.”
-
-“It is a distinguishing feature of the feudal system, to make civil jurisdiction necessarily, and criminal jurisdiction ordinarily, coëxtensive with tenure; and accordingly there is inseparably incident to every manor a court-baron (curia baronum), being a court in which the freeholders of the manor are the sole judges, but in which the lord, by himself, or more commonly by his steward, presides.”
-
-The same work, speaking of the county court, says: “The judges were the freeholders who did suit to the court.” See word Courts.
-
-“In the case of freeholders attending as suitors, the county [69] court or court-baron, (as in the case of the ancient tenants per baroniam attending Parliament,) the suitors are the judges of the court, both for law and for fact, and the sheriff or the under sheriff in the county court, and the lord or his steward in the court-baron, are only presiding officers, with no judicial authority.”
-
-“Court, (curtis, curia aula); the space enclosed by the walls of a feudal residence, in which the followers of a lord used to assemble in the middle ages, to administer justice, and decide respecting affairs of common interest, &c. It was next used for those who stood in immediate connexion with the lord and master, the pares curiæ, (peers of the court,) the limited portion of the general assembly, to which was entrusted the pronouncing of judgment,” &c.
-
-“In court-barons or county courts the steward was not judge, but the pares (peers, jurors); nor was the speaker in the House of Lords judge, but the barons only.”
-
-Crabbe, speaking of the Saxon times, says:
-
-“The sheriff presided at the hundred court, * * and sometimes sat in the place of the alderman (earl) in the county court.”
-
-The sheriff afterwards became the sole presiding officer of the county court.
-
-Sir Thomas Smith, Secretary of State to Queen Elizabeth, writing more than three hundred years after Magna Carta, in describing the difference between the Civil Law and the English Law, says:
-
-“Judex is of us called Judge, but our fashion is so divers, that they which give the deadly stroke, and either condemn or acquit the man for guilty or not guilty, are not called judges, but the twelve men. And the same order as well in civil matters and pecuniary, as in matters criminal.”
-
-Court-Leet. “That the leet is the most ancient court in the land for criminal matters, (the court-baron being of no less antiquity in civil,) has been pronounced by the highest legal authority. * * Lord Mansfield states that this court was coeval with the establishment of the Saxons here, and its activity marked very visibly both among the Saxons and Danes. * * The leet is a court of record for the cognizance of criminal matters, or pleas of the crown; and necessarily belongs to the king; though a subject, usually the lord [70] of the manor, may be, and is, entitled to the profits, consisting of the essoign pence, fines, and amerciaments.
-
-“It is held before the steward, or was, in ancient times, before the bailiff, of the lord.”
-
-Of course the jury were the judges in this court, where only a “steward” or “bailiff” of a manor presided.
-
-“No cause of consequence was determined without the king’s writ; for even in the county courts, of the debts, which were above forty shillings, there issued a Justicies (commission) to the sheriff, to enable him to hold such plea, where the suitors are judges of the law and fact.”
-
-“This position” (that “the matter of law was decided by the King’s Justices, but the matter of fact by the pares”) “is wholly incompatible with the common law, for the Jurata (jury) were the sole judges both of the law and the fact.”
-
-“We come now to the challenge; and of old the suitors in court, who were judges, could not be challenged; nor by the feudal law could the pares be even challenged, Pares qui ordinariam jurisdictionem habent recusari non possunt; (the peers who have ordinary jurisdiction cannot be rejected;) “but those suitors who are judges of the court, could not be challenged; and the reason is, that there are several qualifications required by the writ, viz., that they be liberos et legales homines de vincineto (free and legal men of the neighborhood) of the place laid in the declaration,” &c., &c.
-
-“Ad questionem juris non respondent Juratores.” (To the question of law the jurors do not answer.) “The Annotist says, that this is indeed a maxim in the Civil-Law Jurisprudence, but it does not bind an English jury, for by the common law of the land the jury are judges as well of the matter of law, as of the fact, with this difference only, that the (a Saxon word) or judge on the bench is to give them no assistance in determining the matter of fact, but if they have any doubt among themselves relating to matter of law, they may then request him to explain it to them, which when he hath done, and they are thus become well informed, they, and they only, become competent judges of the matter of law. And this is the province of the judge on the bench, namely, to show, or teach the law, but not to take upon him the trial of the delinquent, either in matter of fact or in matter of law.” (Here various Saxon laws are quoted.) “In neither of these fundamental [71] laws is there the least word, hint, or idea, that the earl or alderman (that is to say, the Prepositus (presiding officer) of the court, which is tantamount to the judge on the bench) is to take upon him to judge the delinquent in any sense whatever, the sole purport of his office is to teach the secular or worldly law.”
-
-“The administration of justice was carefully provided for; it was not the caprice of their lord, but the sentence of their peers, that they obeyed. Each was the judge of his equals, and each by his equals was judged.”
-
-Hallam says: “A respectable class of free socagers, having, in general, full rights of alienating their lands, and holding them probably at a small certain rent from the lord of the manor, frequently occur in Domes-day Book. * * They undoubtedly were suitors to the court-baron of the lord, to whose soc, or right of justice, they belonged. They were consequently judges in civil causes, determined before the manorial tribunal.”
-
-Stephens adopts as correct the following quotations from Blackstone:
-
-“The Court-Baron is a court incident to every manor in the kingdom, to be holden by the steward within the said manor.” * * It “is a court of common law, and it is the court before the freeholders who owe suit and service to the manor,” (are bound to serve as jurors in the courts of the manor,) “the steward being rather the registrar than the judge. * * The freeholders’ court was composed of the lord’s tanants, who were the pares (equals) of each other, and were bound by their feudal tenure to assist their lord in the dispensation of domestic justice. This was formerly held every three weeks; and its most important business was to determine, by writ of right, all controversies relating to the right of lands within the manor.”
-
-“A Hundred Court is only a larger court-baron, being held for all the inhabitants of a particular hundred, instead of a manor. The free suitors (jurors) are here also the judges, and the steward the register.”
-
-“The County Court is a court incident to the jurisdiction of the sheriff. * * The freeholders of the county are the real judges in this court, and the sheriff is the ministerial officer.”
-
-Blackstone describes these courts, as courts “wherein injuries were redressed in an easy and expeditious manner, by the suffrage of neighbors and friends.”
-
-“When we read of a certain number of freemen chosen by the parties to decide in a dispute—all bound by oath to vote in foro conscientia—and that their decision, not the will of the judge presiding, ended the suit, we at once perceive that a great improvement has been made in the old form of compurgation—an improvement which impartial observation can have no hesitation to pronounce as identical in its main features with the trial by jury.”
-
-“The bishop and the earl, or, in his absence, the gerefa, (sheriff,) and sometimes both the earl and the gerefa, presided at the schyre-mote (county court); the gerefa (sheriff) usually alone presided at the mote (meeting or court) of the hundred. In the cities and towns which were not within any peculiar jurisdiction, there was held, at regular stated intervals, a burgh mote, (borough court,) for the administration of justice, at which a gerefa, or a magistrate appointed by the king, presided.”
-
-“The right of the plaintiff and defendant, and of the prosecutor and criminal, to challenge the judices, (judges,) or assessors,* appointed to try the cause in civil matters, and to decide upon the guilt or innocence of the accused in criminal matters, is recognized in the treatise called the Laws of Henry the First; but I cannot discover, from the Anglo-Saxon laws or histories, that before the Conquest the parties had any general right of challenge; indeed, had such right existed, the injunctions to all persons standing in the situation of judges (jurors) to do right according to their conscience, would scarcely have been so frequently and anxiously repeated.”
+It will be noticed, in the quotation from Kelham, that he says this oath (or the oath of William the Conqueror) is “in sense and substance the very same with that which the Saxon kings used to take at their coronations.”
 
 Hale says:
 
-“The administration of the common justice of the kingdom seems to be wholly dispensed in the county courts, hundred courts, and courts-baron; except some of the greater crimes reformed by the laws of King Henry I., and that part thereof which was sometimes taken up by the Justitiarius Angliæ. [73] This doubtless bred great inconvenience, uncertainty, and variety in the laws, viz.:
+“Yet the English were very zealous for them,” (that is, for the laws of Edward the Confessor,) “no less or otherwise than they are at this time for the Great Charter; insomuch that they were never satisfied till the said laws were reënforced, and mingled, for the most part, with the coronation oath of king William I., and some of his successors.”
 
-“First, by the ignorance of the judges, which were the freeholders of the county. * *
+Also, “William, on his coronation, had sworn to govern by the laws of Edward the Confessor, some of which had been reduced into writing, but the greater part consisted of the immemorial customs of the realm.”
 
-“Thirdly, a third inconvenience was, that all the business of any moment was carried by parties and factions. For the freeholders being generally the judges, and conversing one among another, and being as it were the chief judges, not only of the fact, but of the law; every man that had a suit there, sped according as he could make parties.”
+Kelham says:
 
-“In all these tribunals,” (county court, hundred court, &c.,) “the judges were the free tenants, owing suit to the court, and afterwards called its peers.”
+“Thus stood the laws of England at the entry of William I., and it seems plain that the laws, commonly called the laws of Edward the Confessor, were at that time the standing laws of the kingdom, and considered the great rule of their rights and liberties; and that the English were so zealous for them, ‘that they were never satisfied till the said laws were reënforced, and mingled, for the most part, with the coronation oath.’ Accordingly, we find that this great conqueror, at his coronation on the Christmas day succeeding his victory, took an oath at the altar of St. Peter, Westminster, in sense and substance the very same with that which the Saxon kings used to take at their coronations. * * And at Barkhamstead, in the fourth year of his reign, in the presence of Lanfranc, Archbishop of Canterbury, for the quieting of the people, he swore that he would inviolably observe the good and approved ancient laws which had been made by the devout and pious kings of England, his ancestors, and chiefly by King Edward; and we are told that the people then departed in good humor.”
 
-Henry calls the twelve jurors “assessors,” and says:
+Crabbe says that William the Conqueror “solemnly swore that he would observe the good and approved laws of Edward the Confessor.”
 
-“These assessors, who were in reality judges, took a solemn oath, that they would faithfully discharge the duties of their office, and not suffer an innocent man to be condemned, nor any guilty person to be acquitted.”
+The successors of William, up to the time of Magna Carta, [106] probably all took the same oath, according to the custom of the kingdom; although there may be no historical accounts extant of the oath of each separate king. But history tells us specially that Henry I., Stephen, and Henry II., confirmed these ancient laws and customs. It appears, also, that the barons desired of John (what he afterwards granted by Magna Carta) “that the laws and liberties of King Edward, with other privileges granted to the kingdom and church of England, might be confirmed, as they were contained in the charters of Henry the First; further alleging, that at the time of his absolution, he promised by his oath to observe these very laws and liberties.”—Echard’s History of England, p. 105-6.
 
-Tyrrell says:
+It would appear, from the following authorities, that since Magna Carta the form of the coronation oath has been “to maintain the law of the land,”—meaning that law as embodied in Magna Carta. Or perhaps it is more probable that the ancient form has been still observed, but that, as its substance and purport were “to maintain the law of the land,” this latter form of expression has been used, in the instances here cited, from motives of brevity and convenience. This supposition is the more probable, from the fact that I find no statute prescribing a change in the form of the oath until 1688.
 
-“Alfred cantoned his kingdom, first into Trihings and Lathes, as they are still called in Kent and other places, consisting of three or four Hundreds; in which, the freeholders being judges, such causes were brought as could not be determined in the Hundred court.”
+That Magna Carta was considered as embodying “the law of the land,” or “common law,” is shown by a statute passed by Edward I., wherein he “grants,” or concedes,
 
-Of the Hundred Court he says:
+“That the Charter of Liberties and the Charter of the Forest * * shall be kept in every point, without breach, * * and that our justices, sheriffs, mayors, and other ministers, which, under us, have the laws of our land* to guide, shall allow the said charters pleaded before them in judgment, in all their points, that is, to wit, the Great Charter as the Common Law, and the Charter of the Forest for the wealth of the realm.
 
-“In this court anciently, one of the principal inhabitants, called the alderman, together with the barons of the Hundred*
+“And we will, that if any judgment be given from henceforth, contrary to the points of the charters aforesaid, by the justices, or by any other our ministers that hold plea before them against the points of the charters, it shall be undone, and holden for naught.”
 
-Also he says:
+Blackstone also says:
 
-“By a law of Edward the Elder, ‘Every sheriff shall convene [74] the people once a month, and do equal right to all, putting an end to controversies at times appointed.’ ”
+“It is agreed by all our historians that the Great Charter of King John was, for the most part, compiled from the ancient customs of the realm, or the laws of Edward the Confessor; by which they usually mean the old common law which was established under our Saxon princes.”
 
-“A statute, emphatically termed the ‘Grand Assize,’ enabled the defendant, if he thought proper, to abide by the testimony of the twelve good and lawful knights, chosen by four others of the vicinage, and whose oaths gave a final decision to the contested claim.”
+Crabbe says:
 
-“From the moment when the crown became accustomed to the ‘Inquest,’ a restraint was imposed upon every branch of the prerogative. The king could never be informed of his rights, but through the medium of the people. Every ‘extent’ by which he claimed the profits and advantages resulting from the casualties of tenure, every process by which he repressed the usurpations of the baronage, depended upon the ‘good men and true’ who were impanelled to ‘pass’ between the subject and the sovereign; and the thunder of the Exchequer at Westminster might be silenced by the honesty, the firmness, or the obstinacy, of one sturdy knight or yeoman in the distant shire.
+“It is admitted, on all hands, that it (Magna Carta) contains nothing but what was confirmatory of the common law, and the ancient usages of the realm, and is, properly speaking, only an enlargement of the charter of Henry I., and his successors.”
 
-Taxation was controlled in the same manner by the voice of those who were most liable to oppression. * * A jury was impanelled to adjudge the proportion due to the sovereign; and this course was not essentially varied, even after the right of granting aids to the crown was fully acknowledged to be vested in the parliament of the realm. The people taxed themselves; and the collection of the grants was checked and controlled, and, perhaps, in many instances evaded, by these virtual representatives of the community.
+That the coronation oath of the kings subsequent to Magna Carta was, in substance, if not in form, “to maintain this law of the land, or common law,” is shown by a statute of Edward Third, commencing as follows:
 
-The principle of the jury was, therefore, not confined to its mere application as a mode of trying contested facts, whether in civil or criminal cases; and, both in its form and in its consequences, it had a very material influence upon the general constitution of the realm. * * The main-spring of the machinery of remedial justice existed in the franchise of the lower and lowest orders of the political hierarchy. Without the suffrage of the yeoman, the burgess, and the churl, the sovereign could not exercise the most important and most essential function of royalty; from them he received the power of life and death; he could not wield the sword of justice until the humblest of his subjects placed the weapon in his hand.”
+“Edward, by the Grace of God, &c., &c., to the Sheriff of Stafford, Greeting: Because that by divers complaints made to us, we have perceived that the law of the land, which we by oath are bound to maintain,” &c.—St. 20 Edward III. (1346.)
 
-Coke says, “The court of the county is no court of record,* and the suitors are the judges thereof.”
+The following extract from Lord Somers’ tract on Grand Juries shows that the coronation oath continued the same as late as 1616, (four hundred years after Magna Carta.) He says:
 
-Also, “The court of the Hundred is no court of record, and the suitors be thereof judges.”
+“King James, in his speech to the judges, in the Star Chamber, Anno 1616, told them, ‘That he had, after many years, resolved to renew his oath, made at his coronation, concerning justice, and the promise therein contained for maintaining the law of the land.’ And, in the next page save one, says, ‘I was sworn to maintain the law of the land, and therefore had been perjured if I had broken it. God is my judge, I never intended it.’ ”
 
-Also, “The court-baron is a court incident to every manor, and is not of record, and the suitors be thereof judges.”
+In 1688, the coronation oath was changed by act of Parliament, and the king was made to swear:
 
-Also, “The court of ancient demesne is in the nature of a court-baron, wherein the suitors are judges, and is no court of record.”
+“To govern the people of this kingdom of England, and the dominions thereto belonging, according to the statutes in Parliament agreed on, and the laws and customs of the same.”
 
-Millar says, “Some authors have thought that jurymen were originally compurgators, called by a defendant to swear that they believed him innocent of the facts with which he was charged. . . But . . compurgators were merely witnesses; jurymen were, in reality, judges. The former were called to confirm the oath of the party by swearing, according to their belief, that he had told the truth, (in his oath of purgation;) the latter were appointed to try, by witnesses, and by all other means of proof, whether he was innocent or guilty. . . Juries were accustomed to ascertain the truth of facts, by the defendant’s oath of purgation, together with that of his compurgators. . . Both of them (jurymen and compurgators) were obliged to swear that they would tell the truth. . . According to the simple idea of our forefathers, guilt or innocence was regarded as a mere matter of fact; and it was thought that no man, who knew the real circumstances of a case, could be at a loss to determine whether the culprit ought to be condemned or acquitted.”
+The effect and legality of this oath will hereafter be considered. For the present it is sufficient to show, as has been already sufficiently done, that from the Saxon times until at least as lately as 1616, the coronation oath has been, in substance, to maintain the law of the land, or the common law, meaning thereby the ancient Saxon customs, as embodied in the laws of Alfred, of Edward the Confessor, and finally in Magna Carta.
 
-Also, “The same form of procedure, which took place in the administration of justice among the vassals of a barony, was gradually extended to the courts held in the trading towns.”
-
-Also, “The same regulations, concerning the distribution of justice by the intervention of juries, . . were introduced into the baron courts of the king, as into those of the nobility, or such of his subjects as retained their allodial property.”
-
-Also, “This tribunal” (the aula regis, or king’s court, afterwards divided into the courts of King’s Bench, Common [76] Pleas, and Exchequer) “was properly the ordinary baron-court of the king; and, being in the same circumstances with the baron courts of the nobility, it was under the same necessity of trying causes by the intervention of a jury.”
-
-Speaking of the times of Edward the First, (1272 to 1307,) Millar says:
-
-“What is called the petty jury was therefore introduced into these tribunals, (the King’s Bench, the Common Pleas, and the Exchequer,) as well as into their auxiliary courts employed to distribute justice in the circuits; and was thus rendered essentially necessary in determining causes of every sort, whether civil, criminal, or fiscal.”
-
-Also, “That this form of trial (by jury) obtained universally in all the feudal governments, as well as in that of England, there can be no reason to doubt. In France, in Germany, and in other European countries, where we have any accounts of the constitution and procedure of the feudal courts, it appears that lawsuits of every sort concerning the freemen or vassals of a barony, were determined by the pares curiæ (peers of the court;) and that the judge took little more upon him than to regulate the method of proceeding, or to declare the verdict of the jury.”
-
-Also, “Among the Gothic nations of modern Europe, the custom of deciding lawsuits by a jury seems to have prevailed universally; first in the allodial courts of the county, or of the hundred, and afterwards in the baron-courts of every feudal superior.”
-
-Palgrave says that in Germany “The Graff (gerefa, sheriff) placed himself in the seat of judgment, and gave the charge to the assembled free Echevins, warning them to pronounce judgment according to right and justice.”
-
-Also, that, in Germany, “The Echevins were composed of the villanage, somewhat obscured in their functions by the learning of the grave civilian who was associated to them, and somewhat limited by the encroachments of modern feudality; but they were still substantially the judges of the court.”
-
-Palgrave also says, “Scotland, in like manner, had the laws of Burlaw, or Birlaw, which were made and determined by the neighbors, elected by common consent, in the Burlaw or Birlaw courts, wherein knowledge was taken of complaints between neighbor and neighbor, which men, so chosen, were judges and arbitrators, and called Birlaw men.”
-
-But, in order to understand the common law trial by jury, as it existed prior to Magna Carta, and as it was guaranteed by that instrument, it is perhaps indispensable to understand more fully the nature of the courts in which juries sat, and the extent of the powers exercised by juries in those courts. I therefore give in a note extended extracts, on these points, from Stuart on the Constitution of England, and from Blackstone’s Commentaries.*
-
-That all these courts were mere courts of conscience, in which the juries were sole judges, administering justice according to their own ideas of it, is not only shown by the extracts [79] already given, but is explicitly acknowledged in the following one, in which the modern “courts of conscience” are compared with the ancient hundred and county courts, and the preference [80] given to the latter, on the ground that the duties of the jurors in the one case, and of the commissioners in the other, are the same, and that the consciences of a jury are a safer and purer [81] tribunal than the consciences of individuals specially appointed, and holding permanent offices.
-
-“But there is one species of courts constituted by act of Parliament, in the city of London, and other trading and populous districts, which, in their proceedings, so vary from the course of the common law, that they deserve a more particular consideration. I mean the court of requests, or courts of conscience, for the recovery of small debts. The first of these was established in London so early as the reign of Henry VIII., by an act of their common council; which, however, was certainly insufficient for that purpose, and illegal, till confirmed by statute 3 Jac. I., ch. 15, which has since been explained and amended by statute 14 Geo. II., ch. 10. The constitution is this: two aldermen and four commoners sit twice a week to hear all causes of debt not exceeding the value of forty shillings; which they examine in a summary way, by the oath of the parties or other witnesses, and make such order therein as is consonant to equity and good conscience. * * * Divers trading towns and other districts have obtained acts of Parliament, [82] for establishing in them courts of conscience upon nearly the same plan as that in the city of London.
-
-“The anxious desire that has been shown to obtain these several acts, proves clearly that the nation, in general, is truly sensible of the great inconvenience arising from the disuse of the ancient county and hundred courts, wherein causes of this small value were always formerly decided with very little trouble and expense to the parties. But it is to be feared that the general remedy, which of late hath been principally applied to this inconvenience, (the erecting these new jurisdictions,) may itself be attended in time with very ill consequences; as the method of proceeding therein is entirely in derogation of the common law; and their large discretionary powers create a petty tyranny in a set of standing commissioners; and as the disuse of the trial by jury may tend to estrange the minds of the people from that valuable prerogative of Englishmen, which has already been more than sufficiently excluded in many instances. How much rather is it to be wished that the proceedings in the county and hundred courts could be again [83] revived, without burdening the freeholders with too frequent and tedious attendances; and at the same time removing the delays that have insensibly crept into their proceedings, and the power that either party has of transferring at pleasure their suits to the courts at Westminster! And we may, with satisfaction, observe, that this experiment has been actually tried, and has succeeded in the populous county of Middlesex, which might serve as an example for others. For by statute 23 Geo. II., ch. 33, it is enacted:
-
-1. That a special county court shall be held at least once in a month, in every hundred of the county of Middlesex, by the county clerk.
-
-2. That twelve freeholders of that hundred, qualified to serve on juries, and struck by the sheriff, shall be summoned to appear at such court by rotation; so as none shall be summoned oftener than once a year.
-
-3. That in all causes not exceeding the value of forty shillings, the county clerk and twelve suitors (jurors) shall proceed in a summary way, examining the parties and witnesses on oath, without the formal process anciently used; and shall make such order therein as they shall judge agreeable to conscience.”
-
-What are these but courts of conscience? And yet Blackstone tells us they are a revival of the ancient hundred and county courts. And what does this fact prove, but that the ancient common law courts, in which juries sat, were mere courts of conscience?
-
-It is perfectly evident that in all these courts the jurors were the judges, and determined all questions of law for themselves; because the only alternative to that supposition is, that the jurors took their law from sheriffs, bailiffs, and stewards, of which there is not the least evidence in history, nor the least probability in reason. It is evident, also, that they judged independently of the laws of the king, for the reasons before given, viz., that the authority of the king was held in very little esteem; and, secondly, that the laws of the king (not being printed, and the people being unable to read them if they had been printed) must have been in a great measure unknown to them, and could have been received by them only on the authority of the sheriff, bailiff, or steward. If laws were to be received by them on the authority of these officers, [84] the latter would have imposed such laws upon the people as they pleased.
-
-These courts, that have now been described, were continued in full power long after Magna Carta, no alteration being made in them by that instrument, nor in the mode of administering justice in them.
-
-There is no evidence whatever, so far as I am aware, that the juries had any less power in the courts held by the king’s justices, than in those held by sheriffs, bailiffs, and stewards; and there is no probability whatever that they had. All the difference between the former courts and the latter undoubtedly was, that, in the former, the juries had the benefit of the advice and assistance of the justices, which would, of course, be considered valuable in difficult cases, on account of the justices being regarded as more learned, not only in the laws of the king, but also in the common law, or “law of the land.”
-
-The conclusion, therefore, I think, inevitably must be, that neither the laws of the king, nor the instructions of his justices, had any authority over jurors beyond what the latter saw fit to accord to them. And this view is confirmed by this remark of Hallam, the truth of which all will acknowledge:
-
-“The rules of legal decision, among a rude people, are always very simple; not serving much to guide, far less to control the feelings of natural equity.”
-
-It is evident that it was in this way, by the free and concurrent judgments of juries, approving and enforcing certain laws and rules of conduct, corresponding to their notions of right and justice, that the laws and customs, which, for the most part, made up the common law, and were called, at that day, “the good laws, and good customs,” and “the law of the land,” were established. How otherwise could they ever have become established, as Blackstone says they were, “by long and immemorial usage, and by their universal reception throughout the kingdom,”* when, as the Mirror says, “justice was so done, that every one so judged his neighbor, by such judgment as a man could not elsewhere receive in the like cases, until such [85] times as the customs of the realm were put in writing and certainly published?”
-
-The fact that, in that dark age, so many of the principles of natural equity, as those then embraced in the Common Law, should have been so uniformly recognized and enforced by juries, as to have become established by general consent as “the law of the land;” and the further fact that this “law of the land” was held so sacred that even the king could not lawfully infringe or alter it, but was required to swear to maintain it, are beautiful and impressive illustrations of the truth that men’s minds, even in the comparative infancy of other knowledge, have clear and coincident ideas of the elementary principles, and the paramount obligation, of justice. The same facts also prove that the common mind, and the general, or, perhaps, rather, the universal conscience, as developed in the untrammelled judgments of juries, may be safely relied upon for the preservation of individual rights in civil society; and that there is no necessity or excuse for that deluge of arbitrary legislation, with which the present age is overwhelmed, under the pretext that unless laws be made, the law will not be known; a pretext, by the way, almost universally used for overturning, instead of establishing, the principles of justice.
+It may here be repeated that this oath plainly proves that the statutes of the king were of no authority over juries, if inconsistent with their ideas of right; because it was one part of the common law that juries should try all causes according to their own consciences, any legislation of the king to the contrary notwithstanding.*

@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 54,
+  "chapter_title": "A Ride Through Kanzas, Nebraska City.",
+  "chapter_slug": "54-a-ride-through-kanzas-nebraska-city",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "64eaa334-f395-571e-9885-5c7ebe94962b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1785,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

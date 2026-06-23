@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-development-of-capitalism-in-4f48ed",
+  "work_title": "The Development of Capitalism in Russia",
+  "chapter_number": 47,
+  "chapter_title": "Chapter V. The First Stages of Capitalism in Industry (2)",
+  "chapter_slug": "47",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "62ff31de-93ab-5616-ad32-e2e1ecb2530a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 991,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1899/dcr8v/v8ii.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-lectures-on-the-early-history-of-38d75c",
+  "work_title": "Lectures on the Early History of Institutions",
+  "chapter_number": 3,
+  "chapter_title": "Lecture II.: The Ancient Irish Law.",
+  "chapter_slug": "03-lecture-ii-the-ancient-irish-law",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f14b1f55-e5eb-5f75-91db-c2f4c4bad48c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9429,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/maine-lectures-on-the-early-history-of-institutions"
+    }
+  ]
+}

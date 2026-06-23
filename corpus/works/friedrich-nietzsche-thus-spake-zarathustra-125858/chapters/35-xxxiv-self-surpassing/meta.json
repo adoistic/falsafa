@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 35,
+  "chapter_title": "XXXIV. Self-surpassing.",
+  "chapter_slug": "35-xxxiv-self-surpassing",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fefe6c4f-c5ba-5150-a702-3cc0addb4094",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 979,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "81392130-2045-5373-9e5d-1cbebf7cfc4a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1065,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

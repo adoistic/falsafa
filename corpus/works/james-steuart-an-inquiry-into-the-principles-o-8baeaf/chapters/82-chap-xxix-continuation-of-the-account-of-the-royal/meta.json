@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 82,
+  "chapter_title": "Chap. XXIX: Continuation of the Account of the Royal Bank of France, until the time that the Company of the Indies promi",
+  "chapter_slug": "82-chap-xxix-continuation-of-the-account-of-the-royal",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1eb20203-ab0e-5b08-8174-9253a26cf520",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1346,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+    }
+  ]
+}

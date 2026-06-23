@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 53,
+  "chapter_title": "“Ministers’ Meeting on the Sumner Outrage and Kansas Affairs.",
+  "chapter_slug": "53-ministers-meeting-on-the-sumner-outrage-and-kansas",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6c8e71d4-9504-50de-98c1-52ec8b884b8d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1878,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

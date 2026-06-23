@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-economic-doctrines-of-karl-m-8309a8",
+  "work_title": "The Economic Doctrines of Karl Marx",
+  "chapter_number": 2,
+  "chapter_title": "I. Commodities",
+  "chapter_slug": "02-i-commodities",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c183d786-8a1a-5917-8cb2-8427e3a5825c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9193,
+      "paragraph_count": 111,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1903/economic/ch01.htm"
+    }
+  ]
+}

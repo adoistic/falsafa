@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 47,
+  "chapter_title": "Preface to a Reprint of the Edindurgh Review of 1755.",
+  "chapter_slug": "47-preface-to-a-reprint-of-the-edindurgh-review-of-17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f2a8a1cc-d4a5-5de7-b7ab-c311403a4975",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2919,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

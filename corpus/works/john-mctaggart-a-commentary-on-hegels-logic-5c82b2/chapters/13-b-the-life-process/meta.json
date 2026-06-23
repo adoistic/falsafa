@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-mctaggart-a-commentary-on-hegels-logic-5c82b2",
+  "work_title": "A Commentary on Hegel's Logic",
+  "chapter_number": 13,
+  "chapter_title": "B. The Life-Process.",
+  "chapter_slug": "13-b-the-life-process",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "887e3d89-b3b1-5d42-8103-5542a4aa539d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 470,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/mctaggart/logic/ch10.htm"
+    }
+  ]
+}

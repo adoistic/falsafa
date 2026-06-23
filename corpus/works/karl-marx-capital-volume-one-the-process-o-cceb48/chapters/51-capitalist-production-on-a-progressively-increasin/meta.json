@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 51,
+  "chapter_title": "Capitalist Production on a Progressively Increasing Scale. Transition of the Laws of Property That Characterise Producti",
+  "chapter_slug": "51-capitalist-production-on-a-progressively-increasin",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2a380ae6-cc9e-5f3e-81fc-aa1e9cb42886",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3503,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch24.htm"
+    }
+  ]
+}

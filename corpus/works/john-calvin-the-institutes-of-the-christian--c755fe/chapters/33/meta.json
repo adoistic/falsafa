@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 33,
+  "chapter_title": "Book Second.: Of the Knowledge of God the Redeemer, in Christ, as First Manifested to the Fathers, Under the Law, and Th",
+  "chapter_slug": "33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a3826bcd-2fc8-5071-a924-9db9d22b9f54",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 335,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

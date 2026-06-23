@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c"
 work_title: The Positive Theory of Capital
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 48
-chapter_title: "Book VII, Chapter I: The Rate in Isolated Exchange"
+chapter_title: "Book VII: The Rate of Interest, Book VII, Chapter I: The Rate in Isolated Exchange"
 chapter_slug: 48
 variant_id: "038e338c-583f-5058-905d-f000f8184922"
 content_type: translation

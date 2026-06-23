@@ -1,0 +1,26 @@
+{
+  "work_slug": "robert-owen-observations-on-the-effect-of-th-b57ed8",
+  "work_title": "Observations on the Effect of the Manufacturing System",
+  "chapter_number": 1,
+  "chapter_title": "Observations on the Effect of the Manufacturing System",
+  "chapter_slug": "01-observations-on-the-effect-of-the-manufacturing-sy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "51963470-4855-5d29-8f90-ac308f749b83",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3846,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/owen/observations.htm"
+    }
+  ]
+}

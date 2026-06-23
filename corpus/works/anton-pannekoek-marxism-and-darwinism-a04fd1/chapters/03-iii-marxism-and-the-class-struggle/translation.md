@@ -1,0 +1,31 @@
+---
+work_id: "a04fd15f-b871-5608-b7de-92fccf1da768"
+work_slug: "anton-pannekoek-marxism-and-darwinism-a04fd1"
+work_title: Marxism and Darwinism
+author_name: Anton Pannekoek
+chapter_number: 3
+chapter_title: III. Marxism and the Class Struggle
+chapter_slug: "03-iii-marxism-and-the-class-struggle"
+variant_id: "e6b32356-28f7-5b30-88bb-ce28636a18bf"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 808
+source_url: "https://www.marxists.org/archive/pannekoe/1912/marxism-darwinism.htm"
+translator: Nathan Weiser
+---
+
+While it is true that for a certain theory to have a lasting influence on the human mind it must have a highly scientific value, yet this in itself is not enough. It quite often happened that a scientific theory was of utmost importance to science, nevertheless, with the probable exception of a few learned men, it evoked no interest whatsoever. Such, for instance, was Newton’s theory of gravitation. This theory is the foundation of astronomy, and it is owing to this theory that we have our knowledge of heavenly bodies, and can foretell the arrival of certain planets and eclipses. Yet, when Newton’s theory of gravitation made its appearance, a few English scientists were its only adherents. The broad mass paid no attention to this theory. It first became known to the mass by a popular book of Voltaire’s written a half century afterwards.
+
+There is nothing surprising about this. Science has become a specialty for a certain group of learned men, and its progress concerns these men only, just as smelting is the smith’s specialty, and an improvement in the smelting of iron concerns him only. Only that which all people can make use of and which is found by everyone to be a life necessity can gain adherents among the large mass. When, therefore, we see that a certain scientific theory stirs up zeal and passion in the large mass, this can be attributed to the fact that this theory serves them as a weapon in the class struggle. For it is the class struggle that engages almost all the people.
+
+This can be seen most clearly in Marxism. Were the Marxian economic teachings of no importance in the modern class struggle, then none but a few professional economists would spend their time on them. It is, however, owing to the fact that Marxism serves the proletarians as a weapon in the struggle against capitalism that the scientific struggles are centered on this theory. It is owing to this service that Marx’s name is honored by millions who know even very little of his teaching, and is despised by thousands that understand nothing of his theory. It is owing to the great role the Marxian theory plays in the class struggle that his theory is diligently studied by the large mass and that it dominates the human mind.
+
+The proletarian class struggle existed before Marx for it is the offspring of capitalist exploitation. It was nothing more than natural that the workers, being exploited, should think about and demand another system of society where exploitation would be abolished. But all they could do was to hope and dream about it. They were not sure of its coming to pass. Marx gave to the labor movement and Socialism a theoretical foundation. His social theory showed that social systems were in a continuous flow wherein capitalism was only a temporary form. His studies of capitalism showed that owing to the continuous development of perfection of technique, capitalism must necessarily develop to Socialism. This new system of production can only be established by the proletarians struggling against the capitalists, whose interest it is to maintain the old system of production. Socialism is therefore the fruit and aim of the proletarian class struggle.
+
+Thanks to Marx, the proletarian class struggle took on an entirely different form. Marxism became a weapon in the proletarian hands; in place of vague hopes he gave a positive aim, and in teaching a clear recognition of the social development he gave strength to the proletarian and at the same time he created the foundation for the correct tactics to be pursued. It is from Marxism that the workingmen can prove the transitoriness of capitalism and the necessity and certainty of their victory. At the same time Marxism has done away with the old utopian views that Socialism would be brought about by the intelligence and good will of some judicious men; as if Socialism were a demand for justice and morality; as if the object were to establish an infallible and perfect society. Justice and morality change with the productive system, and every class has different conceptions of them. Socialism can only be gained by the class whose interest lies in Socialism, and it is not a question about a perfect social system, but a change in the methods of production leading to a higher step, i. e., to social production.
+
+Because the Marxian theory of social development is indispensable to the proletarians in their struggle, they, the proletarians, try to make it a part of their inner self; it dominates their thoughts, their feelings, their entire conception of the world. Because Marxism is the theory of social development, in the midst of which we stand, therefore Marxism itself stands at the central point of the great mental struggles that accompany our economic revolution.

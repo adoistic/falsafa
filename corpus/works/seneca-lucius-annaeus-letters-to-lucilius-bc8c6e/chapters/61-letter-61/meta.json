@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 61,
+  "chapter_title": "Letter 61",
+  "chapter_slug": "61-letter-61",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eea6fd91-6039-5b81-954c-e9acccbf1822",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6fa862e0-4ef7-5bd8-afd7-5b219113d274",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 333,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

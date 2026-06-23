@@ -1,0 +1,26 @@
+{
+  "work_slug": "otto-bauer-buried-hopes-f41ec4",
+  "work_title": "Buried Hopes",
+  "chapter_number": 1,
+  "chapter_title": "Buried Hopes",
+  "chapter_slug": "01-buried-hopes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e200c6d-47f0-5f38-8def-c3eeda942470",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3000,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bauer/1912/04/buried-hopes.htm"
+    }
+  ]
+}

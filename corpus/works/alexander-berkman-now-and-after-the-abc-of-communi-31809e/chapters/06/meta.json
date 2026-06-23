@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-now-and-after-the-abc-of-communi-31809e",
+  "work_title": "Now and After: The ABC of Communist Anarchism (What is Communist Anarchism?)",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 4 : How the System Works",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b9f22724-acdd-5ed4-b007-499a502cb901",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2839,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1929/what-is-communist-anarchism/chapter-4.html"
+    }
+  ]
+}

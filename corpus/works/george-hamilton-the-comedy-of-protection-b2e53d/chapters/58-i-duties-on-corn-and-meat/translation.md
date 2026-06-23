@@ -1,0 +1,29 @@
+---
+work_id: "b2e53d8f-9a78-5b15-9c53-4db14ec44da5"
+work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
+work_title: The Comedy of Protection
+author_name: George Hamilton
+chapter_number: 58
+chapter_title: "I.—: Duties on Corn and Meat."
+chapter_slug: "58-i-duties-on-corn-and-meat"
+variant_id: "a5733ddb-a01c-54d7-b135-7f69e107a16b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 755
+source_url: "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+translator: Online Library of Liberty edition
+---
+
+Two conclusions can be drawn from these facts:
+
+I. Agriculture in France is absolutely incapable of supplying the minimum ration necessary for an adult engaged in moderately active work.
+
+II. The Board of Trade statistics on wages and the cost of food prove that the actual wages of the head of a family of four are not sufficient to support them, even on a budget much below the standard. Now add the solid weight of Protection, a tax on the bread and meat of the French people. The object of the wheat tax was to raise the price of every hundred-weight of wheat on the market by the full amount of the tax—2s. 10d. And 2s. 10d. added to the price of wheat is 2s. 10d. added to the price of bread. Estimating the market at 140,000,000 cwt. of wheat the consumers pay a surtax of £19,600,000. If the average surtax is 2s., according to M. des Essars’ estimate, the whole surtax, taking good years with bad, is £14,000,000, and it falls upon all those who have to buy bread in proportion to the quantity which they consume.
+
+In 1892 the duties on oxen, bullocks, and cows were 4s. the hundredweight on the live weight. There was no minimum tariff. There was a duty of 4s. 10d. on calves, 6s. 3d. on sheep, and 3s. on pigs. There was a duty of 12s. 4d. on mutton, 4s. 10d. on fresh pork, 10s. on salt pork, 12s. on salted beef and other meats. In 1892 MM. Méline and Viger found these duties high enough, as they certainly were, when, under pretence of sanitary regulations, neither foreign live stock nor meat was admitted at all. In 1903, when a good understanding with Italy had been arrived at, M. Debussy, a member of the House, declared with charming frankness that it would be a good thing to replace the sanitary regulation by a higher duty. “If Italian live stock came into France the price of native stock would fall to £4 a head, which would involve a loss to French breeders of not less than £28,000,000.” One of the members, M. Fayot, who voted for the duty, urged it upon grounds which ought to have ensured its rejection: “100 lbs. of live weight, in the case of an animal of average quality, give 50 lbs. of meat. Leaving out of account the fifth quarter, worth some £2 to £3 3s. 11d., the tax proposed on the minimum tariff amounts to some 21/2d. per net lb. of meat.” This calculation was confirmed by the tariff which raised the tax to 14s. per cwt. of fresh meat, including bones, and making no distinction for quality. At the time of the discussion on the Bill the breeders charged about £1 12s. per cwt. for live stock: the duty was thus 25 per cent. The tariff of July, 1903, was:—
+
+Thus the tariff taxed fresh meat at £14 5s. a ton: rating 1,300,000 tons it brought in £18,200,000—which is still £9,800,000 below the loss which M. Debussy aimed at compensating. Adding 14 millions for cereals and 18 millions for live stock, there is a total of 32 millions raised on bread and meat, by means of the Customs. These 32 millions go to join the 120 millions paid in taxes to the Treasury; but mysteriously incorporated in the price of things which the housekeeper buys every morning, and whose use no one can control, they do not go to assist expenditure on common purposes, but, as a private tax, to the safeguarding and increase of the income or profit of a small number of individuals who succeed, in a country governed under universal suffrage, a country where more than a century ago feudal rights were abolished by revolution, in maintaining for their own advantage the confusion between sovereignty and property. These duties made real wages something very different from nominal ones, the nominal wage being swollen by the private feudal taxes levied for the advantage of the landowners and the protected manufacturers. A number of great landowners calling themselves agriculturists, with as much reason as the house-owner who calls himself a grocer when he lets a shop to one, cried out that without duties on cereals and meat the land must lie fallow and agriculture be ruined, agricultural labourers out of work; and yet they were for ever complaining of the dearth of labour. These arguments were refuted by the state of agriculture at the time of the 3d. duty on wheat.

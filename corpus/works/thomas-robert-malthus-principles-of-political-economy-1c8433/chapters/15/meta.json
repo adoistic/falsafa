@@ -2,7 +2,7 @@
   "work_slug": "thomas-robert-malthus-principles-of-political-economy-1c8433",
   "work_title": "Principles of Political Economy",
   "chapter_number": 15,
-  "chapter_title": "Section III.—: Of the Causes which tend to raise Rents in the ordinary Progress of civilized and improved Societies.",
+  "chapter_title": "Section IV.—: Of the Causes which tend to lower Rents.",
   "chapter_slug": "15",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 4599,
-      "paragraph_count": 40,
+      "word_count": 1134,
+      "paragraph_count": 8,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/malthus-principles-of-political-economy"
     }

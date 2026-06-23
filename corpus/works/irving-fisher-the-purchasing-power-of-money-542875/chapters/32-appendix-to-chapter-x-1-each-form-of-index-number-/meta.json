@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 32,
+  "chapter_title": "Appendix to Chapter X, § 1. Each Form of Index Number for Prices implies a Correlative Form of Index Number for Quantiti",
+  "chapter_slug": "32-appendix-to-chapter-x-1-each-form-of-index-number-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0b0a69f-792a-539b-991a-af4a457fdd60",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1129,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

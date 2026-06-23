@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-the-positive-outcome-of-philosop-df7f2d",
+  "work_title": "The Positive Outcome of Philosophy",
+  "chapter_number": 14,
+  "chapter_title": "The Extent to Which the Doubts of the Possibility of Clear and Accurate Understanding Have Been Overcome",
+  "chapter_slug": "14-the-extent-to-which-the-doubts-of-the-possibility-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "158c1f90-10f9-559e-b494-a6d434cedf4b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2903,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1887/positive-outcome/ch13.htm"
+    }
+  ]
+}

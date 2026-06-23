@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-the-evolution-of-property-from-s-62aca7",
+  "work_title": "The Evolution of Property from Savagery to Civilization",
+  "chapter_number": 13,
+  "chapter_title": "III (3)",
+  "chapter_slug": "13-iii-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "43c0ff20-c32f-5daf-8e23-04b103087dd9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 831,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1890/property/5-bourgeois.html"
+    }
+  ]
+}

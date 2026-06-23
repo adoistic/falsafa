@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 102,
+  "chapter_title": "Letter 102",
+  "chapter_slug": "102-letter-102",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "05b2f510-2af7-5e54-867c-ef9c81bbac18",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1711,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c00e2a15-4faa-5724-bc7d-17efc9ebdeb7",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2754,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

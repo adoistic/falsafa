@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-b-s-haldane-dialectical-materialism-and-mode-30a12d",
+  "work_title": "Dialectical Materialism and Modern Science, Part I – The Negation of the Negation",
+  "chapter_number": 1,
+  "chapter_title": "Dialectical Materialism and Modern Science, Part I – The Negation of the Negation",
+  "chapter_slug": "01-dialectical-materialism-and-modern-science-part-i-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1014bdcf-76fa-55ee-a665-39861845d5b9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1586,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/haldane/works/1940s/dialectics01.htm"
+    }
+  ]
+}

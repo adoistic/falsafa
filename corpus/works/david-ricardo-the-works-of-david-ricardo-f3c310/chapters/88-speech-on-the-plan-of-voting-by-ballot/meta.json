@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 88,
+  "chapter_title": "Speech on the Plan of Voting by Ballot",
+  "chapter_slug": "88-speech-on-the-plan-of-voting-by-ballot",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "77fa8b2f-7b53-566e-9ab2-a6196e7ab922",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 175,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 56,
+  "chapter_title": "Progress of the Public Debt and Taxes.",
+  "chapter_slug": "56-progress-of-the-public-debt-and-taxes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "82a4d2d5-efbc-5b4b-b94e-c316aa7f7c36",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 824,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

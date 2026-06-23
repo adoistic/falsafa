@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 45,
+  "chapter_title": "V.—: As all parties challenge the first place, that to which the rest unanimously give the second seems the best; each t",
+  "chapter_slug": "45-v-as-all-parties-challenge-the-first-place-that-to",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dbab4796-dea1-5db1-b6e5-e0c987f4dfcc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 144,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

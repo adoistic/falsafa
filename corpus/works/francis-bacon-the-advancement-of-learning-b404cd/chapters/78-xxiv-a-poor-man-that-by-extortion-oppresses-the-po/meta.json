@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 78,
+  "chapter_title": "Xxiv.—: A poor man, that by extortion oppresses the poor, is like a land-flood that causes famine",
+  "chapter_slug": "78-xxiv-a-poor-man-that-by-extortion-oppresses-the-po",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e8df78d3-8595-5301-9ddf-7b7e90ec7a52",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 211,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

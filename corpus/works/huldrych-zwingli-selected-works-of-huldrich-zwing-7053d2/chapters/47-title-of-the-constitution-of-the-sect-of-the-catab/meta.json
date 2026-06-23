@@ -1,0 +1,26 @@
+{
+  "work_slug": "huldrych-zwingli-selected-works-of-huldrich-zwing-7053d2",
+  "work_title": "Selected Works of Huldrich Zwingli",
+  "chapter_number": 47,
+  "chapter_title": "Title of the Constitution of the Sect of the Catabaptists.",
+  "chapter_slug": "47-title-of-the-constitution-of-the-sect-of-the-catab",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da926bd1-3754-5284-80ea-c5b42dc6e68d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 16158,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/zwingli-selected-works-of-huldrich-zwingli"
+    }
+  ]
+}

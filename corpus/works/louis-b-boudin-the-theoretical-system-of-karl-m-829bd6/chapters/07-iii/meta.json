@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-b-boudin-the-theoretical-system-of-karl-m-829bd6",
+  "work_title": "The Theoretical System of Karl Marx in the Light of Recent Criticism",
+  "chapter_number": 7,
+  "chapter_title": "III.",
+  "chapter_slug": "07-iii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b242cc24-5e61-531d-b4fb-ebc68b30cffb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3676,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/boudin/1907/02/system/4-value-and-surplus-value.html"
+    }
+  ]
+}

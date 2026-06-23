@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-pure-reason-dbaa24",
+  "work_title": "The Critique of Pure Reason",
+  "chapter_number": 18,
+  "chapter_title": "Chapter III — The Architectonic of Pure Reason",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f7840b15-4aee-50d0-9224-ab987e72d2c8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4606,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4280"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 34,
+  "chapter_title": "Repulsion and Attraction of Workpeople by the Factory System. Crises in the Cotton Trade",
+  "chapter_slug": "34-repulsion-and-attraction-of-workpeople-by-the-fact",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "546cfde5-4cdb-519f-b0ca-1426ad46c126",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3694,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm"
+    }
+  ]
+}

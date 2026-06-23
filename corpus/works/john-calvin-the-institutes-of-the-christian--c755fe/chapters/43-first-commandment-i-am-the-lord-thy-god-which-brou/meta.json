@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 43,
+  "chapter_title": "First Commandment.: I Am the Lord Thy God, Which Brought Thee Out of the Land of Egypt, Out of the House of Bondage. Tho",
+  "chapter_slug": "43-first-commandment-i-am-the-lord-thy-god-which-brou",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e8241ff3-f0e3-5e64-aad1-3d011a67b1c2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1754,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

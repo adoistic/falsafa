@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 8,
+  "chapter_title": "Letter 8",
+  "chapter_slug": "08-letter-8",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "df953f63-9e18-5002-9443-4dc0086e38f0",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 513,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d83831f-5402-595b-8e09-704fd6c85712",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 850,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

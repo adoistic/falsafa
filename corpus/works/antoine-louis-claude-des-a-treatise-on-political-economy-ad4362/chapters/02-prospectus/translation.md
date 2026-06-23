@@ -4,7 +4,7 @@ work_slug: "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362"
 work_title: A Treatise on Political Economy
 author_name: Antoine Louis Claude Destutt de Tracy
 chapter_number: 2
-chapter_title: PROSPECTUS.
+chapter_title: Prospectus.
 chapter_slug: "02-prospectus"
 variant_id: "440c6d62-f1ac-5545-976a-4f57a36fccd8"
 content_type: translation

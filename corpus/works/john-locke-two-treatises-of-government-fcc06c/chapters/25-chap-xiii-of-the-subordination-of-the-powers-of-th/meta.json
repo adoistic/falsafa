@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-locke-two-treatises-of-government-fcc06c",
+  "work_title": "Two Treatises of Government",
+  "chapter_number": 25,
+  "chapter_title": "Chap. XIII. Of the Subordination of the Powers of the Common-wealth.",
+  "chapter_slug": "25-chap-xiii-of-the-subordination-of-the-powers-of-th",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0bf39b7e-4ddf-52e0-a5e2-8b290d2c2164",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2710,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+    }
+  ]
+}

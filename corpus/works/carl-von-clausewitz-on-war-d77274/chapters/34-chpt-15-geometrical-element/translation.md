@@ -1,0 +1,29 @@
+---
+work_id: "d77274fa-3610-5f16-9c9f-12e84c9fe82d"
+work_slug: "carl-von-clausewitz-on-war-d77274"
+work_title: On War
+author_name: Carl von Clausewitz
+chapter_number: 34
+chapter_title: Chpt. 15 Geometrical Element
+chapter_slug: "34-chpt-15-geometrical-element"
+variant_id: "c70e067b-02eb-5559-abb2-fd0af8e1c788"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 655
+source_url: "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch15.htm"
+translator: Colonel J.J. Graham
+---
+
+The length to which the geometrical element or form in the disposition of military force in War can become a predominant principle, we see in the art of fortification, where geometry looks after the great and the little. Also in tactics it plays a great part. It is the basis of elementary tactics, or of the theory of moving troops; but in field fortification, as well as in the theory of positions, and of their attack, its angles and lines rule like law givers who have to decide the contest. Many things here were at one time misapplied, and others were mere fribbles; still, however, in the tactics of the present day, in which in every combat the aim is to surround the enemy, the geometrical element has attained anew a great importance in a very simple, but constantly recurring application. Nevertheless, in tactics, where all is more movable, where the moral forces, individual traits, and chance are more influential than in a war of sieges, the geometrical element can never attain to the same degree of supremacy as in the latter. But less still is its influence in Strategy; certainly here, also, form in the disposition of troops, the shape of countries and states is of great importance; but the geometrical element is not decisive, as in fortification, and not nearly so important as in tactics.--The manner in which this influence exhibits itself, can only be shown by degrees at those places where it makes its appearance, and deserves notice. Here we wish more to direct attention to the difference which there is between tactics and Strategy in relation to it.
+
+In tactics time and space quickly dwindle to their absolute minimum. If a body of troops is attacked in flank and rear by the enemy, it soon gets to a point where retreat no longer remains; such a position is very close to an absolute impossibility of continuing the fight; it must therefore extricate itself from it, or avoid getting into it. This gives to all combinations aiming at this from the first commencement a great efficiency, which chiefly consists in the disquietude which it causes the enemy as to consequences. This is why the geometrical disposition of the forces is such an important factor in the tactical product.
+
+In Strategy this is only faintly reflected, on account of the greater space and time. We do not fire from one theatre of war upon another; and often weeks and months must pass before a strategic movement designed to surround the enemy can be executed. Further, the distances are so great that the probability of hitting the right point at last, even with the best arrangements, is but small.
+
+In Strategy therefore the scope for such combinations, that is for those resting on the geometrical element, is much smaller, and for the same reason the effect of an advantage once actually gained at any point is much greater. Such advantage has time to bring all its effects to maturity before it is disturbed, or quite neutralised therein, by any counteracting apprehensions. We therefore do not hesitate to regard as an established truth, that in Strategy more depends on the number and the magnitude of the victorious combats, than on the form of the great lines by which they are connected.
+
+A view just the reverse has been a favourite theme of modern theory, because a greater importance was supposed to be thus given to Strategy, and, as the higher functions of the mind were seen in Strategy, it was thought by that means to ennoble War, and, as it was said--through a new substitution of ideas--to make it more scientific. We hold it to be one of the principal uses of a complete theory openly to expose such vagaries, and as the geometrical element is the fundamental idea from which theory usually proceeds, therefore we have expressly brought out this point in strong relief.

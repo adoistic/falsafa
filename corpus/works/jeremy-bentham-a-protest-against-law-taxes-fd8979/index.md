@@ -4,15 +4,19 @@ slug: "jeremy-bentham-a-protest-against-law-taxes-fd8979"
 title: "A Protest Against Law-Taxes"
 author:
   name: Jeremy Bentham
-  biography: Jeremy Bentham (1748–1832).
+  biography: "English philosopher and legal reformer, founder of modern Utilitarianism and the greatest-happiness principle. An Introduction to the Principles of Morals and Legislation laid out the felicific calculus, while his shorter tracts pressed for free credit and against punitive taxation."
+  birth_year: 1748
+  death_year: 1832
+  nationality: English
 era: Enlightenment
 genre: Law
 language: English
 language_direction: ltr
 description: "A Protest Against Law-Taxes, by Jeremy Bentham (1748–1832), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
-total_logical_chapters: 3
-total_variant_entries: 3
+published_year: 1795
+total_logical_chapters: 2
+total_variant_entries: 2
 thothica_role: catalog
 ---
 
@@ -22,6 +26,5 @@ A Protest Against Law-Taxes, by Jeremy Bentham (1748–1832), a public-domain te
 
 ## Chapters
 
-01. [A PROTEST against LAW - TAXES.](./chapters/01-a-protest-against-law-taxes/) — prose, 1 variant
-02. [NOTES to the SECOND EDITION.](./chapters/02-notes-to-the-second-edition/) — prose, 1 variant
-03. [ADDITION BY A LEARNED FRIEND.](./chapters/03-addition-by-a-learned-friend/) — prose, 1 variant
+01. [A Protest against LAW - TAXES.](./chapters/01-a-protest-against-law-taxes/) — prose, 1 variant
+02. [Addition by a Learned Friend.](./chapters/02-addition-by-a-learned-friend/) — prose, 1 variant

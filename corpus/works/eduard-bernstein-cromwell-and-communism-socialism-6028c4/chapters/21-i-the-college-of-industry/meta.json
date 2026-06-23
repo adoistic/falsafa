@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-cromwell-and-communism-socialism-6028c4",
+  "work_title": "Cromwell and Communism: Socialism and Democracy in the Great English Revolution",
+  "chapter_number": 21,
+  "chapter_title": "I. The College of Industry",
+  "chapter_slug": "21-i-the-college-of-industry",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a94da7a3-be27-5979-b902-93235bb27d55",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5016,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1895/cromwell/17-bellers.htm"
+    }
+  ]
+}

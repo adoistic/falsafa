@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 118,
+  "chapter_title": "Food Policy of Napoleon and His Opponent",
+  "chapter_slug": "118-food-policy-of-napoleon-and-his-opponent",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7349524-79cf-567a-9d4a-1ff12e833fe7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2351,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

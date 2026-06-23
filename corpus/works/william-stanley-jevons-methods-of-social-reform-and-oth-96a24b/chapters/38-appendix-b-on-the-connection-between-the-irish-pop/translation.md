@@ -4,7 +4,7 @@ work_slug: "william-stanley-jevons-methods-of-social-reform-and-oth-96a24b"
 work_title: Methods of Social Reform and Other Papers
 author_name: William Stanley Jevons
 chapter_number: 38
-chapter_title: "APPENDIX B.: ON THE CONNECTION BETWEEN THE IRISH POPULATION AND THE RATE OF MORTALITY IN TOWNS."
+chapter_title: "Appendix B.: On the Connection Between the Irish Population and the Rate of Mortality in Towns."
 chapter_slug: "38-appendix-b-on-the-connection-between-the-irish-pop"
 variant_id: "42e5731b-4faf-5dcb-9d88-fd3bc5b3da05"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 611
+word_count: 607
 source_url: "https://oll.libertyfund.org/titles/jevons-methods-of-social-reform-and-other-papers"
 translator: Online Library of Liberty edition
 ---
@@ -46,7 +46,7 @@ These facts appeared to me to be almost of a conclusive character by themselves,
 
 Forming averages of the above numbers, we have:
 
-It may not be unworthy of remark that in the most unhealthy towns—Liverpool, Manchester, Salford, etc.—the Irish women are in excess of the men; whereas in the most healthy towns—such as Hull, Leith, and Aberdeen—the women are even fewer than the men. The following is the proportion of Edition: current; Page: [216] Irish women to the whole number of women in the healthy places:
+It may not be unworthy of remark that in the most unhealthy towns—Liverpool, Manchester, Salford, etc.—the Irish women are in excess of the men; whereas in the most healthy towns—such as Hull, Leith, and Aberdeen—the women are even fewer than the men. The following is the proportion of Irish women to the whole number of women in the healthy places:
 
 We should naturally turn to ascertain whether the mortality in Ireland at all bears out the apparent effect of Irish immigration in England. Taking the average of a few years of the returns of births and deaths in Dublin, I find that the rates are in both cases almost exactly the same, namely, 26·1 per 1,000. In one return the deaths were 33·6, while the births were only 24·7. As the birth-rate much exceeds the death-rate in England and other progressive countries, we must either regard the population of Ireland as being in a very abnormal state, or we must reject the returns as wholly unworthy of confidence.
 

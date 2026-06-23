@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-one-step-forward-two-steps-back--9a5c6a",
+  "work_title": "One Step Forward, Two Steps Back (The Crisis in Our Party)",
+  "chapter_number": 11,
+  "chapter_title": "J. Innocent Victims of a False Accusation of Opportunism",
+  "chapter_slug": "11-j-innocent-victims-of-a-false-accusation-of-opport",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ad58f28-7130-558c-9a4e-998cba382d54",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4029,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1904/onestep/j.htm"
+    }
+  ]
+}

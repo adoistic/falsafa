@@ -4,7 +4,7 @@ slug: "mirza-ghalib-diwan-e-ghalib-74ed4c"
 title: "Diwan-E-Ghalib"
 author:
   name: Mirza Ghalib
-  biography: One of the most prominent Urdu and Persian poets of the 19th century. Known for his profound ghazals exploring themes of love, loss, and the complexities of human emotion. His works remain influential in South Asian literary traditions.
+  biography: Urdu and Persian poet of the late Mughal court at Delhi, writing through the collapse of the Mughal order. His Urdu ghazals reshaped the form toward metaphysical doubt and irony and became central to the South Asian poetic canon.
   birth_year: 1797
   death_year: 1869
   nationality: Indian
@@ -14,6 +14,7 @@ language: Urdu
 language_direction: rtl
 description: The complete collection of ghazals by Mirza Ghalib, one of the greatest Urdu poets. His verses express profound emotions, philosophical reflections, and masterful use of metaphor and imagery in classical Urdu tradition.
 difficulty: Intermediate
+published_year: 1841
 total_logical_chapters: 239
 total_variant_entries: 717
 cover_image_url: "/objects/uploads/2832e787-6d9d-4096-8ab8-2641e517c5ba"

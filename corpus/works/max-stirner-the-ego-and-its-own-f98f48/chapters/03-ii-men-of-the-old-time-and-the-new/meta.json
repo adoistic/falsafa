@@ -1,0 +1,26 @@
+{
+  "work_slug": "max-stirner-the-ego-and-its-own-f98f48",
+  "work_title": "The Ego and Its Own",
+  "chapter_number": 3,
+  "chapter_title": "II. Men of The Old Time and The New",
+  "chapter_slug": "03-ii-men-of-the-old-time-and-the-new",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "55e983a5-a708-502b-a337-f91fcda70b75",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 105,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stirner/ego-and-its-own.htm"
+    }
+  ]
+}

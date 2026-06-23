@@ -4,7 +4,10 @@ slug: "ausonius-decimus-magnus-epigrammaton-liber-edc4fe"
 title: Epigrammaton Liber
 author:
   name: Ausonius, Decimus Magnus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Gallo-Roman poet and professor of rhetoric at Bordeaux, tutor to the future emperor Gratian and consul in 379. His epigrams, verse letters, and formal thanksgiving for the consulship recorded the literary culture of fourth-century Gaul."
+  birth_year: 310
+  death_year: 395
+  nationality: Roman
 era: Late Antiquity
 genre: Classics
 language: Latin

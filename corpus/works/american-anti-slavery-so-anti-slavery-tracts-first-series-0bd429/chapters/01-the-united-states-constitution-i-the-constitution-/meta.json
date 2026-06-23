@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 1,
+  "chapter_title": "The United States Constitution, I.: The Constitution Is a Pro-slavery Instrument, According to the Necessary Meaning of ",
+  "chapter_slug": "01-the-united-states-constitution-i-the-constitution-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "954deb25-0033-5a40-9ab3-5d89d1e9d2c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1470,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

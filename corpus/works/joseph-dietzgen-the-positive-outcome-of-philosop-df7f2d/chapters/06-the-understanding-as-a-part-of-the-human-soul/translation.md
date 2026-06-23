@@ -1,0 +1,85 @@
+---
+work_id: "df7f2d8e-0e8e-5545-98df-b8cde170aa02"
+work_slug: "joseph-dietzgen-the-positive-outcome-of-philosop-df7f2d"
+work_title: The Positive Outcome of Philosophy
+author_name: Joseph Dietzgen
+chapter_number: 6
+chapter_title: The Understanding as a Part of the Human Soul
+chapter_slug: "06-the-understanding-as-a-part-of-the-human-soul"
+variant_id: "40e2a72d-a19d-5f3a-aae4-b7e62b47624f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2493
+source_url: "https://www.marxists.org/archive/dietzgen/1887/positive-outcome/ch05.htm"
+translator: Ernest Untermann
+---
+
+The human intellect or understanding, the special object of all philosophy, is a part, and in our case the most prominent part, of the human soul. Gustav Theodore Fechner, a forgotten star on the literary firmament, posed the question of the soul in his time and attempted to answer it. In so doing he clothed the result of past philosophies in a peculiar garb which looked fantastic enough at first sight. He regards the outcome of philosophy merely as an individual product and he is so full of veneration for the ancient terms, such as immortal souls, God, Christianity, that he does not care to dismiss them, no matter how roughly he handles their essence.
+
+Fechner extends the possession of a soul to human beings, animals, plants, stones, planets; in short, to the whole world.
+
+This is simply saying that the human soul is of the same nature as all the rest of the world, or vice versa, that all natural things have the same nature as the human soul. Not only animals, but also stones and planets have something analogous to our human soul.
+
+Fechner is not fantastic at bottom, and yet how fantastical it sounds to hear him say: “I went out walking on a spring morning. The fields were green, the birds were singing, the dew sparkled, the smoke rose toward the clouds. Here and there a human being stirred. A glory of light was diffused over it all. It was only a small piece of the Earth. It was only a short moment of its existence. And yet, as I took all this in with an ever-widening understanding, I felt not alone the beauty, but also the truth that it is an angel who is thus passing through the sky with his rich, fresh and blooming nature, his living face upturned to the heavens. And I asked myself how it is that man can ever become so stunted that he sees nothing but a dry clod in the Earth and looks for angels above and beyond it, never finding them anywhere. But people call this sentimental dreaming.”
+
+“The Earth is a globe, and what it is besides may be found in the museums of natural history.” Thus writes Fechner.
+
+Now there can be no objection to comparing the beautiful Earth and the stars around it with angels, any more than there can be to the lover calling his sweetheart an angel of God. The Earth, the Moon, and the stars are according to Fechner’s terminology angelic beings with souls; mediators between man and God. He knows very well that this is nothing but a matter of analogy and terminology, he is as atheistic as the most atheistic, but his fondness and reverence for the traditional terms lead him to attribute a soul to the material world and to give to this great and infinite soul a divine name.
+
+If we waive this religious hobby of Fechner’s, there still remains his peculiarity of using words and names in a symbolical sense. It is nothing but the old poetic way of calling a sweetheart’s eyes heavenly stars and the stars of the blue heavens lovely eyes, which makes a snowy hill of a woman’s breast, a zephyr of the wind, a nymph of a spring of water, and an erlking of an old willow tree. This poetic license has filled the whole world with good and evil spirits, mermaids, fairies, elfs, and goblins.
+
+This is not a bad way of speaking, so long as we keep in mind, like a poet, what we are doing and that we are consciously using symbolical terms. Fechner does this only to a certain extent. A little spleen remains in his brain. It is this spleen which I intend to deal with in the proper light, in order to thus demonstrate the outcome of philosophy.
+
+Fechner is not aware that his universal soul reflects only one half of our present outcome of philosophical study. The other half, which renders an understanding of the whole possible, consists in the perception that not only are all material things endowed with a soul, but that all souls, including the human ones, are ordinary things.
+
+Philosophy has not only deified the world and inspired it with a soul, but has also secularized God and the souls. This is the whole truth, and each by itself is only a part.
+
+Apart from psychology, which treats of the individual human soul, there has lately arisen a “psychology of nations” which regards the individual souls as parts of the universal human soul, as individual pieces constituting an aggregate soul which, decidedly, is more than a simple aggregation of numbers. The soul of the psychology of nations has the same relation to the individual souls that modern political economy has to private economy. Prosperity in general is a different question and deals with different matters than the amassing of wealth for your individual pocket. Granted that the national soul is essentially different from the individual soul, what would be the nature of the universal animal soul, including the souls of lions, tigers, flies, elephants, mice, etc.? If we now extend the generalization farther and include in our psychology the vegetable and the mineral kingdom, the various world bodies, our solar system, and finally the whole universe, what else could that signify than a mere rhetorical climax?
+
+Mere generalization is one-sided and leads to fantastical dreams. By this method one can transform anything into everything. It is necessary to supplement generalization by specialization. We wish to have the elephants separated from the fleas, the mice from the lice, at the same time never forgetting the unity of the special and the general. This sin of omission has often been committed by the zoologists in the museums and the botanists in their plant collections, and philosophical investigators of the soul like Fechner have drifted into the other extreme of generalization without specialization.
+
+The positive outcome of philosophy, then, in its abstract outline, is at present the doctrine that the general must be conceived in its relation to its special forms, and these forms in their universal interconnection, in their qualities as parts of nature in general. True, such an abstract outline reveals very little. In order to grasp its concrete significance, we must penetrate into its details, into the special aspects of this doctrine.
+
+The title of “Critique of Reason,” which Kant gave to his special study, is at the same time a fitting term for all philosophical research. Reason, the essential part of the human soul, raises the critique of reason, the science of philosophy, to the position of the most essential part of psychology.
+
+But why do we call this the most essential part? Is not the material world and its understanding as essential as reason, as intellect, which bends to the task of exploring this world? Surely, it is, and I do not use the word essential in this sense. I call the intellect the most essential part of the soul, and the soul the most essential part of the world, only in so far as these parts are the special condition of all scientific study and because the investigation of the general nature of scientific study is my special object and purpose. Whether I endeavor to explain the general nature of scientific study, whether I investigate the intellect or the theory of understanding, it all amounts to the same thing.
+
+Let us approach our task once more from the side of Fechner’s universal soul. With his extravagant animation of all things, with his plant, stone, and star souls, he can help us to prove that the general nature of that particle of soul which is called reason, intellect, spirit, or understanding, is not so extraordinarily different from the general nature of stones or trees as the old time idealists and materialists were wont to think.
+
+As I said before, Fechner is a poet, and a poet sees similarities which a matter-of-fact brain cannot perceive. But at the same time we must admit that the matter of fact brain which cannot see anything but mere distinctions is a very poor brain. The philosophers before me have taught me that a good brain sees the similarities and the differences at the same time and knows how to discriminate between them. A sober poetry and the combination of poetic qualities with a comprehensive and universal levelheadedness and discrimination, these are the marks of a good head. Still the poorest as well as the most talented brains partake of the general brain nature, which consists in the understanding that like and unlike, general and special, are interrelated. The one is never without the other, but both are always together.
+
+If the distinction between men and stones is so trifling that a talented brain like Fechner’s can justly speak of them both as being animated, surely the difference between the body and soul cannot be so great that there is not the least similarity and community between them. However, this escaped Fechner’s notice. Is not the air or the scent of flowers an ethereal body?
+
+Reason is also called understanding, and it is a positive achievement of philosophy to have arrived at the knowledge that this understanding does not admit of any exaggerated distinctions. In other words, all things are so closely related that a good poet may transform anything into everything. Can natural science do as much? Ah, the gentlemen of that science are also progressing well. They transform dry substance into liquid, and liquid into gas; they change gravity into heat and heat into mechanical power. And they are doing this without forgetting to discriminate, as happened to our Fechner.
+
+It is not enough to know that the body has a soul and the soul a body, not enough to know that everything has a soul. It is also necessary to discriminate between the peculiarities and details of the human, animal, plant, and other souls, taking care not to exaggerate their differences to the extreme of making them senseless.
+
+We do not intend to follow this theory of a universal soul any further. Fechner declares himself that “it must be admitted at the outset that the whole question of a soul is a question of faith..”.. “Analogy is not a convincing proof..”.. “We can no more prove the existence of a soul than we can disprove it.”
+
+However, from the time of Cartesius it has been an accepted fact in the world of philosophers that the consciousness of the human soul is the best proof of its existence. The most positive science in the world is the empirical self-observation of the thinking soul. This subject is the most conspicuous object imaginable, and it is the positive outcome of philosophy to have given an excellent description of the life and actions of this soul particle called consciousness or understanding.
+
+If the understanding is a part of the human soul and this soul an evident and positive part of the universal life, then, clearly, everything partaking of this life, such as pieces of wood and stones scattered around, is related to this soul. Individual human souls, national souls, animal souls, pieces of wood, lumps of stone, world bodies, are all children of the same common universal nature. But there are so many children that they must be classified into orders, classes, families, etc., in order to know them apart. On account of their likeness, the souls belong together in one class and the bodies in another, and each requires more detailed classification. Thus we finally arrive at the class of human souls forming a department by themselves, because they all have a common general character.
+
+The manufacturers know that the work of ten laborers produces more and is of a different quality than the work of a single laborer multiplied by ten. Likewise the general human soul, or any national soul, expresses itself differently from the sum of the various individual souls composing it. More even, the very individual soul differs at various times and places, so that the individual soul is as manifold as any national soul.
+
+“Has the plant a soul? Has the earth a soul? Have they a soul analogous to that of man? That is the question.” Thus asks Fechner.
+
+Just as my soul of today has something analogous to my soul of yesterday, so it has also with the soul of my brother, and finally with the souls of animals, plants, stones, etc., proving that everything is more or less analogous. A herd of sheep is analogous to yonder flock of small, white clouds in the sky, and a poet has the license to call those small clouds little sheep. In the same way Fechner is justified in propounding his theory of a universal soul.
+
+Is it not necessary, however, to make a distinction between poetry and truth? My brother’s soul and my own are souls in the true sense of the word, but the souls of stones – they are only so figuratively speaking.
+
+At this point I want to call the reader’s attention to the fact that we must not pass lightly over the valuation of the difference between the true and the figurative sense of a word.
+
+Words are names which do not, and cannot, have any other function than that of symbolic illustration. My soul, yours, or any other, are only in conception the same souls.
+
+When I say that John Flathead has the same soul as you and I, my intention is simply to indicate that he has something which is common to you and me and to all men. His soul is made in the image of our souls. But where shall we draw the line in this comparison of images? What is not an image in the abstract, and what is more than an image in the concrete?
+
+Truth and fiction are not totally different. The poet speaks the truth and true understanding partakes largely of the nature of poetry.
+
+Philosophy has truly perceived the nature of the soul, and especially that part of it with which we are dealing, that is, reason or understanding. This instrument has the function of furnishing to our head a picture of the processes of the world outside of it, to describe everything that is around us and to analyze the universe, itself a phenomenon, with all its phenomena as a process of infinite variety in time and space.
+
+If this could be accomplished with the theory of a universal soul, then Fechner would be the greatest philosopher that ever was. But he lacks the understanding that the intellect which has to combine all things within a general wrapper, must also consider the other side of the question, that of specification. That, of course, cannot be achieved by any philosopher. It must be the work of all science, and philosophy as a doctrine of science must acknowledge that.

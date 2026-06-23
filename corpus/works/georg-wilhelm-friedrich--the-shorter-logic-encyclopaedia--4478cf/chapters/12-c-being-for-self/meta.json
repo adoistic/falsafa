@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 12,
+  "chapter_title": "(c) Being-for-self",
+  "chapter_slug": "12-c-being-for-self",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2af529e4-3674-5671-928d-08b2e3828d67",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4141,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slbeing.htm"
+    }
+  ]
+}

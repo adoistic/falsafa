@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-mehring-frederick-engels-ad50bd",
+  "work_title": "Frederick Engels",
+  "chapter_number": 1,
+  "chapter_title": "Frederick Engels",
+  "chapter_slug": "01-frederick-engels",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f73d660c-868f-5c5f-93a8-ef9313fbc0c0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1299,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/mehring/1905/10/engels.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362"
 work_title: A Treatise on Political Economy
 author_name: Antoine Louis Claude Destutt de Tracy
 chapter_number: 13
-chapter_title: "CHAPTER I.: Of Society."
+chapter_title: "Chapter IV.: Of the change of form, or of fabricating Industry, comprising Agriculture."
 chapter_slug: 13
 variant_id: "2c7853ed-844d-514f-b073-e25a884cc8ec"
 content_type: translation
@@ -13,35 +13,35 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 290
+word_count: 269
 source_url: "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
 translator: Online Library of Liberty edition
 ---
 
-In the introduction to a treatise on the will it was proper to indicate the generation of some general ideas which are the necessary consequences of this faculty.
+In every species of industry there are three things: theory, application and execution. Hence three kinds of labourers; the man of science, the undertaker, and the workman,
 
-It was even incumbent on us to examine summarily,
+All are obliged to expend more or less before they can receive, and especially the undertaker.
 
-1st. What are inanimate beings, that is to say beings neitheir sentient nor willing.
+These advances are furnished by anterior economies, and are called capitals.
 
-2d. What sentient beings would be with indifference without will.
+The man of science and the workman are regularly compensated by the undertaker; but he has no benefit but in proportion to the success of his fabrication.
 
-3d. What are sentient and willing beings but insulated.
+It is indispensable that the labors most necessary should be the most moderately recompensed.
 
-4th. Finally, what are sentient and willing beings like ourselves, but placed in contact with similar beings.
+This is true most especially of those relative to agricultural industry. This has moreover the inconvenience that the agricultural undertaker cannot make up for the mediocrity of his profits by the great extension of his business.
 
-It is with the latter we are now exclusively to occupy ourselves, for man can exist only in society.
+Accordingly this profession has no attractions for the rich.
 
-The necessity of reproduction and the propensity to sympathy necessarily lead him to this state, and his judgment makes him perceive its advantages.
+The proprietors of land who do not cultivate it are strangers to agricultural industry. They are merely lenders of funds.
 
-I proceed then to speak of society.
+They dispose of them according to the convenience of those whom they can engage to labor them.
 
-I shall consider it only with respect to economy, because this first part concerns our actions only and not as yet our sentiments.
+There are four sorts of undertakers; two with greater or smaller means, the lessees of great and small farms; and two almost without means, those who farm on shares and labourers.
 
-Under this relation society consists only in a continual succession of EXCHANGES, and exchange is a transaction of such a nature that both contracting parties always gain by Edition: current; Page: [xvii] it. (This observation will hereafter throw great light on the nature and effects of commerce.)
+Hence four species of cultivation essentially different.
 
-We cannot cast our eyes on a civilized country without seeing with astonishment how much this continual succession of small advantages, unperceived but incessantly repeated, adds to the primitive power of man.
+The division into great and small culture is insufficient and subject to ambiguity.
 
-It is because this succession of changes, which constitutes society, has three remarkable properties. It produces concurrence of force, increase and preservation of intelligence and division of labour.
+Agriculture then is the first of arts in relation to necessity, but not in regard to riches.
 
-The utility of these three effects is continually augmenting. It will be better perceived when we shall have seen how our riches are formed.
+It is because our means of subsistence and our means of existence are two very different things, and we are wrong to confound them.

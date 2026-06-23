@@ -1,112 +1,112 @@
 [
   {
-    "id": "p-d60bf4",
+    "id": "p-f35ba0",
     "offset": 0,
-    "text": "§ 3. Marshall's discussion of internal and external economies has made familiar in a general way the idea that the long-period production costs of an individual firm in a many-firm industry sometimes depend, not on the size of its own output only, but also on that of the industry as a whole. This idea needs, however, to be set out in precise form. Three stages may be distinguished. In the simplest stage the individual firm's costs depend solely upon its own output. There are no external economies or diseconomies, and such internal economies or diseconomies as there are are wholly unaffected by variations in the scale of the industry as a whole. If we write y for the output of the industry as a whole Edition: current; Page: [792] and xr for the output of the equilibrium firm, the money costs of the equilibrium firm are measured by Fr(xr). In the next stage the individual firm's money costs consist of two parts, one depending on the size of its own output, the other on that of the output of the whole industry. We may call the former, if we will, internal costs, the latter external costs. The latter will consist of the firm's expenditure on the materials, machinery and so on which it buys, and the price of which will vary with variations in the demand for them on the part of the industry as a whole. Here the money costs of the equilibrium firm are measured by . In the third stage the relation between costs and the individual and collective outputs are more complex. It is no longer proper to regard the individual firm's money costs as consisting of two separate and independent parts. These costs will undergo different variations in consequence of a given change in its output according to the level at which the output of the industry as a whole stands; and they will undergo different variations in consequence of a given change in the output of the industry as a whole according to the level at which the individual firm's own output stands. The costs of the equilibrium firm are measured by Fr(xr,y). This last formula, which is a general one, of course includes the two simpler formulae as special cases. It will, therefore, be convenient in the first instance to conduct our analysis by means of it."
+    "text": "§ 3. Marshall's discussion of internal and external economies has made familiar in a general way the idea that the long-period production costs of an individual firm in a many-firm industry sometimes depend, not on the size of its own output only, but also on that of the industry as a whole. This idea needs, however, to be set out in precise form. Three stages may be distinguished. In the simplest stage the individual firm's costs depend solely upon its own output. There are no external economies or diseconomies, and such internal economies or diseconomies as there are are wholly unaffected by variations in the scale of the industry as a whole. If we write y for the output of the industry as a whole and xr for the output of the equilibrium firm, the money costs of the equilibrium firm are measured by Fr(xr). In the next stage the individual firm's money costs consist of two parts, one depending on the size of its own output, the other on that of the output of the whole industry. We may call the former, if we will, internal costs, the latter external costs. The latter will consist of the firm's expenditure on the materials, machinery and so on which it buys, and the price of which will vary with variations in the demand for them on the part of the industry as a whole. Here the money costs of the equilibrium firm are measured by . In the third stage the relation between costs and the individual and collective outputs are more complex. It is no longer proper to regard the individual firm's money costs as consisting of two separate and independent parts. These costs will undergo different variations in consequence of a given change in its output according to the level at which the output of the industry as a whole stands; and they will undergo different variations in consequence of a given change in the output of the industry as a whole according to the level at which the individual firm's own output stands. The costs of the equilibrium firm are measured by Fr(xr,y). This last formula, which is a general one, of course includes the two simpler formulae as special cases. It will, therefore, be convenient in the first instance to conduct our analysis by means of it."
   },
   {
     "id": "p-a13096",
-    "offset": 2230,
+    "offset": 2200,
     "text": "§ 4. Let y be the output of an industry as a whole; xr the output of the equilibrium firm; Fr(xr,y) the total costs of the equilibrium firm; and p the supply price of the industry's product. The following quantities have then to be distinguished."
   },
   {
-    "id": "p-ef325c",
-    "offset": 2478,
-    "text": "First, the marginal additive cost to the equilibrium firm, i.e. the difference made to the total cost of that firm by increasing its output from xr to (xr +  xr), the output of the other firms remaining unchanged, = ."
+    "id": "p-032611",
+    "offset": 2448,
+    "text": "First, the marginal additive cost to the equilibrium firm, i.e. the difference made to the total cost of that firm by increasing its output from xr to (xr + xr), the output of the other firms remaining unchanged, = ."
   },
   {
-    "id": "p-9571e6",
-    "offset": 2697,
-    "text": "Secondly, the marginal substitute cost to the equilibrium firm, i.e. the difference made to the total cost of that firm by increasing its output from xr to (xr +  xr), the output of the industry as a whole remaining unchanged (i.e. that firm's increase being balanced by an equal decrease elsewhere),"
+    "id": "p-0acaf9",
+    "offset": 2666,
+    "text": "Secondly, the marginal substitute cost to the equilibrium firm, i.e. the difference made to the total cost of that firm by increasing its output from xr to (xr + xr), the output of the industry as a whole remaining unchanged (i.e. that firm's increase being balanced by an equal decrease elsewhere),"
   },
   {
     "id": "p-f9da03",
-    "offset": 2999,
+    "offset": 2967,
     "text": "Thirdly, the average cost to the equilibrium firm"
   },
   {
     "id": "p-3ea668",
-    "offset": 3050,
+    "offset": 3018,
     "text": "§ 5. When a firm is considering what difference will be made to its total costs by adding to or substracting from its output a small increment, it will measure the difference by marginal additive cost if it reckons that the output of other firms will not be altered in consequence of its action, and by marginal substitute cost if it reckons that other firms will be driven by its expansion to contract their output correspondingly, so that the output of the whole industry, including itself, will be unaltered. It may reckon that something intermediate between these two things will happen, in which case it will look to something intermediate between marginal additive cost and marginal substitute cost. If the total cost to any one firm producing a given output is the same, whatever quantity other firms are producing, these two sorts of marginal cost coincide. In any event, so long as the output of the industry as a whole is large relatively to the output of any one firm, they are not likely to differ very much. The technique of the discussion will be slightly different according as we suppose that the equilibrium firm reckons that a small increase in its output would involve an equal, nil or intermediate addition to the output of the industry as a whole, but no difference will be made to the broad result. Since, therefore, the analysis is simplest if the equilibrium firm thinks of small changes in its output as involving equal and opposite changes in the output of its competitors, I shall proceed on the assumption that it in fact does this. Hence, so long as we are considering many-firm industries, no further reference will be made to marginal additive cost; and the term marginal cost will be used without adjective to signify marginal substitute cost, namely,"
   },
   {
-    "id": "p-80ef9c",
-    "offset": 4835,
-    "text": "§ 6. It is then easy to see that, if the supply price of the industry were less than the marginal cost of the equilibrium firm, sales at the supply price would involve a loss to it and it would tend to contract. If the supply price were greater than the marginal cost to the equilibrium firm, that firm would gain by expanding at the expense of other firms, because, while the cost of its old output would still be covered by the selling price—which would be unchanged, since aggregate output is unchanged—the cost of its new output would be more than covered. Hence in neither case would the equilibrium firm be in equilibrium. Since then, ex hypothesi, it must be in equilibrium, the supply price of the Edition: current; Page: [794] industry must be equal to the marginal cost of the equilibrium firm. That is,"
+    "id": "p-0be362",
+    "offset": 4803,
+    "text": "§ 6. It is then easy to see that, if the supply price of the industry were less than the marginal cost of the equilibrium firm, sales at the supply price would involve a loss to it and it would tend to contract. If the supply price were greater than the marginal cost to the equilibrium firm, that firm would gain by expanding at the expense of other firms, because, while the cost of its old output would still be covered by the selling price—which would be unchanged, since aggregate output is unchanged—the cost of its new output would be more than covered. Hence in neither case would the equilibrium firm be in equilibrium. Since then, ex hypothesi, it must be in equilibrium, the supply price of the industry must be equal to the marginal cost of the equilibrium firm. That is,"
   },
   {
     "id": "p-d5b41c",
-    "offset": 5650,
+    "offset": 5588,
     "text": "§ 7. If the supply price were less than the average cost of the equilibrium firm, it is obvious that that firm would be making a loss and, therefore, would tend to contract, thus belying its nature as an equilibrium firm. Therefore, the supply price cannot be less than the average cost of the equilibrium firm. Again, if the supply price is greater than the average cost of the equilibrium firm, outsiders will be tempted to come into the industry, forming themselves into similar firms and thus increasing the producing capacity of the industry, until the supply price of an output y is no longer in excess of the average costs of the equilibrium firm. Therefore the supply price cannot be greater than the average costs of the equilibrium firm. Hence the supply price is equal to the average costs of the equilibrium firm, i.e."
   },
   {
     "id": "p-fdf2cf",
-    "offset": 6482,
+    "offset": 6420,
     "text": "§ 8. Expressed in words, this condition and the preceding condition together state that the normal supply price of the product of a many-firm industry is, in respect of all quantities of output, equal both to the marginal cost and to the average cost of the equilibrium firm; cost being understood, of course, in the sense of money cost. These two conditions are fundamental and of general application. The resultant equality can also be derived directly from the proposition that, when y is given, xr must be such as to make a minimum. To obviate a possible misunderstanding, it may be added that, since xr is an implicit function of y, the supply function of the industry as a whole can, if desired, be expressed as a function of one variable, and is, therefore, capable of being represented by a plane diagram."
   },
   {
-    "id": "p-cd1b39",
-    "offset": 7297,
-    "text": "§ 9. There are three sorts of equilibrium—unstable equilibrium, neutral equilibrium, and stable equilibrium. A system is in stable equilibrium if, when any small disturbance takes place, forces come into play to re-establish the initial position; it is in neutral equilibrium if, when such a disturbance takes place, no re-establishing forces, but also no further disturbing forces, are Edition: current; Page: [795] evoked, so that the system remains at rest in the position to which it has been moved; it is in unstable equilibrium if the small disturbance calls out further disturbing forces which act in a cumulative manner to drive the system away from its initial position. A ship with a heavy keel is in stable equilibrium; an egg lying on its side in neutral equilibrium; an egg poised on one of its ends in unstable equilibrium. Obviously for practical purposes unstable equilibrium is no equilibrium at all: its presence would involve the system running down to one in which the industry consists of a single firm. In order that the equilibrium may be neutral, we require the further condition that is constant over a certain range: in order that it may be stable, the further condition that"
+    "id": "p-b8a1bf",
+    "offset": 7235,
+    "text": "§ 9. There are three sorts of equilibrium—unstable equilibrium, neutral equilibrium, and stable equilibrium. A system is in stable equilibrium if, when any small disturbance takes place, forces come into play to re-establish the initial position; it is in neutral equilibrium if, when such a disturbance takes place, no re-establishing forces, but also no further disturbing forces, are evoked, so that the system remains at rest in the position to which it has been moved; it is in unstable equilibrium if the small disturbance calls out further disturbing forces which act in a cumulative manner to drive the system away from its initial position. A ship with a heavy keel is in stable equilibrium; an egg lying on its side in neutral equilibrium; an egg poised on one of its ends in unstable equilibrium. Obviously for practical purposes unstable equilibrium is no equilibrium at all: its presence would involve the system running down to one in which the industry consists of a single firm. In order that the equilibrium may be neutral, we require the further condition that is constant over a certain range: in order that it may be stable, the further condition that"
   },
   {
     "id": "p-532519",
-    "offset": 8500,
+    "offset": 8408,
     "text": "§ 10. Let us now consider in turn the three cases distinguished in § 3. In the simplest of these, where the costs of the equilibrium firm are dependent only on its own output and not at all on the output of the industry as a whole, the expression Fr(xr,y) degrades to Fr(xr). The two conditions of equilibrium become and the condition that the equilibrium shall be neutral or stable becomes In a many-firm industry condition (3) in conjunction with condition (1) rules out the law of decreasing supply price in respect of outputs equal to or greater than what is being actually sold. For, if that law holds for the industry as a whole, it must hold for some individual firm belonging to it, and such a firm, once getting an accidental start, would cumulatively undersell and oust all the others. Condition (3) is not, however, really necessary to exclude the law of decreasing supply price. For conditions (1) and (2) in conjunction exclude both this law and also the law of increasing supply price. This is easily proved. The two conditions together yield This implies that xr, and consequently Fr'(xr), are determined independently of the output of the industry as a whole; and this implies in turn that the supply price of the industry is the same whatever the magnitude of its output. In other words, the industry is necessarily conducted in accordance with the law of constant supply price."
   },
   {
     "id": "p-48b0f1",
-    "offset": 9897,
+    "offset": 9805,
     "text": "§ 11. In this simple case, since the cost function of the equilibrium firm can be—as of course it cannot in the more complex cases—represented by a plane diagram which is valid and"
   },
   {
     "id": "p-b7fcfe",
-    "offset": 10079,
+    "offset": 9987,
     "text": "the same whatever the output of the industry as a whole, it may be of service to persons who prefer diagrams to algebra to set out the implications of the foregoing analysis by these means."
   },
   {
-    "id": "p-264675",
-    "offset": 10270,
-    "text": "In the annexed figures the curve SSm represents the marginal costs that various amounts of output involve to the equilibrium firm, and the curve SSa the average costs. These two curves are, of course, bound together by a rigid relation; such that, if M be any Edition: current; Page: [797] point on Ox and a perpendicular be drawn through M cutting SSm in Q and SSa in P, the area SQMO is equal to the rectangle RPMO, whatever be the shapes of the two curves. It is easy to"
+    "id": "p-4bb3cd",
+    "offset": 10178,
+    "text": "In the annexed figures the curve SSm represents the marginal costs that various amounts of output involve to the equilibrium firm, and the curve SSa the average costs. These two curves are, of course, bound together by a rigid relation; such that, if M be any point on Ox and a perpendicular be drawn through M cutting SSm in Q and SSa in P, the area SQMO is equal to the rectangle RPMO, whatever be the shapes of the two curves. It is easy to"
   },
   {
     "id": "p-a1df93",
-    "offset": 10745,
+    "offset": 10623,
     "text": "see that, if either curve slopes downward throughout (as in Fig. 1), the other must also do this; and, if either slopes upward throughout (as in Fig. 2), so also must the other. If SSm slopes downward"
   },
   {
-    "id": "p-563230",
-    "offset": 10947,
-    "text": "at first, then turns upward and thereafter continues to rise, the curve SSa will continue to slope downward until the point at which the now upward moving SSm intersects it, and will then Edition: current; Page: [798] itself turn upward. This case is represented by Fig. 3. If SSm slopes upward at first, then turns downward and thereafter continues to fall, SSa will, in like manner, slope upward until SSm"
+    "id": "p-3adb5c",
+    "offset": 10825,
+    "text": "at first, then turns upward and thereafter continues to rise, the curve SSa will continue to slope downward until the point at which the now upward moving SSm intersects it, and will then itself turn upward. This case is represented by Fig. 3. If SSm slopes upward at first, then turns downward and thereafter continues to fall, SSa will, in like manner, slope upward until SSm"
   },
   {
     "id": "p-b3aa6b",
-    "offset": 11356,
+    "offset": 11204,
     "text": "intersects it, and will then itself turn downward. This case is represented in Fig 4."
   },
   {
     "id": "p-c3ad3d",
-    "offset": 11443,
+    "offset": 11291,
     "text": "Finally, if, either initially or after a point of intersection between the two curves, either of them henceforward"
   },
   {
-    "id": "p-d59e19",
-    "offset": 11559,
-    "text": "moves horizontally, the other must coincide with it and do the same. This case is represented in Figs. 5, 6 and 7. The Edition: current; Page: [799] conditions of equilibrium for the equilibrium firm, set out in the preceding section, imply that it is producing such a quantity of output OM that an ordinate drawn perpendicular to OM cuts the curves SSm and SSa at the same point. Hence in the conditions represented in Figs. 1 and 2 no equilibrium of any sort is possible. In those represented by Fig. 4 there is a single point of unstable equilibrium: in those represented by Figs. 5 to 7 there are ranges of neutral equilibria: and in those represented by Fig. 3 there is a single point of stable equilibrium; the point, namely, at which internal economies have reached their limit, in such wise that the average cost of production is at a minimum. Unstable equilibrium is, as we have seen, for practical purposes impossible. If neutral"
+    "id": "p-443b95",
+    "offset": 11407,
+    "text": "moves horizontally, the other must coincide with it and do the same. This case is represented in Figs. 5, 6 and 7. The conditions of equilibrium for the equilibrium firm, set out in the preceding section, imply that it is producing such a quantity of output OM that an ordinate drawn perpendicular to OM cuts the curves SSm and SSa at the same point. Hence in the conditions represented in Figs. 1 and 2 no equilibrium of any sort is possible. In those represented by Fig. 4 there is a single point of unstable equilibrium: in those represented by Figs. 5 to 7 there are ranges of neutral equilibria: and in those represented by Fig. 3 there is a single point of stable equilibrium; the point, namely, at which internal economies have reached their limit, in such wise that the average cost of production is at a minimum. Unstable equilibrium is, as we have seen, for practical purposes impossible. If neutral"
   },
   {
     "id": "p-a6b846",
-    "offset": 12500,
+    "offset": 12318,
     "text": "equilibrium prevails, changes in the output of the equilibrium firm may take place, but cannot be caused by associated changes in the output of the industry as a whole. If stable equilibrium prevails, the output of the equilibrium firm cannot change. It is fixed rigidly, and changes in the output of the industry as a whole can only come about through an alteration either in the number of firms employed or in the magnitude of the non-equilibrium firms. In any event, whether neutral or stable equilibrium prevails, the average (and marginal) cost of the equilibrium firm, and so the supply price of the industry, is the same for all outputs of the industry: i.e. the industry conforms to conditions of constant supply price."
   },
   {
-    "id": "p-44190d",
-    "offset": 13229,
-    "text": "§ 12. In the second class of case distinguished in § 3 the formula for the costs incurred by the equilibrium firm degrades to Edition: current; Page: [800] The two conditions of equilibrium become and the condition that the equilibrium shall be neutral or stable becomes, as before, As in the previous case, conditions (1) and (2) yield So far, therefore, as the internal position and what we may term the internal costs of the equilibrium firm are concerned, everything is exactly the same as it was in that case. Internal costs per unit of product are determined at a fixed level independent of the output of the industry as a whole, and the size of the equilibrium firm is also independent of that output. In this case, however, these results do not imply that the industry as a whole must conform to the law of constant supply price. For, though is fixed independently of y, the element , and, therefore, are, so far as the present argument goes, free to vary up or down as y varies. Thus, if a growth in the output of the cotton industry led to a rise in the price of its material, raw cotton, the cotton industry as a whole would conform to the law of increasing supply price; if its expansion led to a fall in the price of raw cotton, to the law of decreasing supply price. To determine whether in fact the price of materials, machinery and so on supplied to an industry by others will rise, fall or remain constant when the output of that industry increases, we should need to step outside the industry primarily under review and investigate the conditions of production in the others."
+    "id": "p-97c7e6",
+    "offset": 13047,
+    "text": "§ 12. In the second class of case distinguished in § 3 the formula for the costs incurred by the equilibrium firm degrades to The two conditions of equilibrium become and the condition that the equilibrium shall be neutral or stable becomes, as before, As in the previous case, conditions (1) and (2) yield So far, therefore, as the internal position and what we may term the internal costs of the equilibrium firm are concerned, everything is exactly the same as it was in that case. Internal costs per unit of product are determined at a fixed level independent of the output of the industry as a whole, and the size of the equilibrium firm is also independent of that output. In this case, however, these results do not imply that the industry as a whole must conform to the law of constant supply price. For, though is fixed independently of y, the element , and, therefore, are, so far as the present argument goes, free to vary up or down as y varies. Thus, if a growth in the output of the cotton industry led to a rise in the price of its material, raw cotton, the cotton industry as a whole would conform to the law of increasing supply price; if its expansion led to a fall in the price of raw cotton, to the law of decreasing supply price. To determine whether in fact the price of materials, machinery and so on supplied to an industry by others will rise, fall or remain constant when the output of that industry increases, we should need to step outside the industry primarily under review and investigate the conditions of production in the others."
   },
   {
-    "id": "p-34dff3",
-    "offset": 14824,
-    "text": "§ 13. In the third and most general case distinguished in § 3 it is obvious that the three governing conditions impose no restrictions on the relations that may subsist between variations in the supply price and in output. It is still true that, for any given output of the industry as a whole, the output of the equilibrium firm must be such as to make its marginal costs and its average costs equal. But, as the output of the industry as a whole varies, both the output of the equilibrium firm which will make these two things equal and also their magnitude when they are equal may vary indefinitely in either direction. Even, Edition: current; Page: [801] therefore, if the prices of the materials and machinery bought from outside do not vary with variations in the scale of our industry, its own supply price may vary. Many-firm industries of the generalised type are thus perfectly free to conform to the law of increasing supply price, constant supply price, or decreasing supply price, or to any combination of these laws in respect of different quantities of output. Fig. 3 on p. 797 still correctly represents the conditions of supply in the equilibrium firm when the aggregate demand is such that OM units are being purchased from that firm at a price PM per unit. But now, when the aggregate demand alters, the curves SSm and SSa alter also. They move upwards or downwards, or they change their shape, or they do both these things. After the change, as before, equilibrium is only attained when the selling price is equal to both the average cost and the marginal cost of the equilibrium firm. The output of that firm is still measured by OM, where M is the base of a perpendicular drawn from the point of intersection of SSm and SSa; but, nevertheless, both the selling price and the output of the equilibrium firm may be different from what they were before the change."
+    "id": "p-873994",
+    "offset": 14612,
+    "text": "§ 13. In the third and most general case distinguished in § 3 it is obvious that the three governing conditions impose no restrictions on the relations that may subsist between variations in the supply price and in output. It is still true that, for any given output of the industry as a whole, the output of the equilibrium firm must be such as to make its marginal costs and its average costs equal. But, as the output of the industry as a whole varies, both the output of the equilibrium firm which will make these two things equal and also their magnitude when they are equal may vary indefinitely in either direction. Even, therefore, if the prices of the materials and machinery bought from outside do not vary with variations in the scale of our industry, its own supply price may vary. Many-firm industries of the generalised type are thus perfectly free to conform to the law of increasing supply price, constant supply price, or decreasing supply price, or to any combination of these laws in respect of different quantities of output. Fig. 3 on p. 797 still correctly represents the conditions of supply in the equilibrium firm when the aggregate demand is such that OM units are being purchased from that firm at a price PM per unit. But now, when the aggregate demand alters, the curves SSm and SSa alter also. They move upwards or downwards, or they change their shape, or they do both these things. After the change, as before, equilibrium is only attained when the selling price is equal to both the average cost and the marginal cost of the equilibrium firm. The output of that firm is still measured by OM, where M is the base of a perpendicular drawn from the point of intersection of SSm and SSa; but, nevertheless, both the selling price and the output of the equilibrium firm may be different from what they were before the change."
   }
 ]

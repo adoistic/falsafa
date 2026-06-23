@@ -4,7 +4,7 @@ work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
 work_title: The Ecclesiastical History of the English Nation
 author_name: The Venerable Bede
 chapter_number: 189
-chapter_title: CHAPTER XLIII
+chapter_title: Chapter XLIV
 chapter_slug: 189
 variant_id: "8503ff14-9937-5f3c-8733-00cb963ffbd4"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 148
+word_count: 239
 source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
 translator: Online Library of Liberty edition
 ---
 
-how the body of bishop eadbert was laid in the grave of the man of god, and the coffin of that saint placed upon it
+how a sick man was cured at his tomb by prayer
 
-Meanwhile, God’s chosen servant, Bishop Eadbert, was seized by an illness, which daily grew more and more violent, so that not long after, that is, on the sixth of May, he also departed to the Lord. It was an especial mercy granted to his earnest prayers, that he left this life by a gradual, and not a sudden death. His body was placed in the grave of the blessed father Cuthbert, and upon it they placed the coffin in which the body of that saint lay. And to this day miracles are there wrought, if the faith of those who seek them admit of it. Even the clothes which had covered his blessed body, whether dead or alive, still possess a healing power.
+Lastly, there came from foreign parts a certain priest of the reverend and holy Wilbrord Clement, bishop of the Fresons, who, whilst he was stopping at the monastery, fell into a severe illness, which lasted so long, that his life was despaired of. Overcome with pain, he seemed unable either to live or die, until, thinking on a happy plan, he said to his attendant, “Lead me, I beg of you, to-day after mass,” (for it was Sunday,) “to the body of the holy man of God, to pray: I hope his intercession may save me from these torments, so that I may either return whole to this life, or die, and go to that which is everlasting.” His attendant did as he had asked him, and with much trouble led him, leaning on a staff, into the church. He there bent his knees at the tomb of the holy father, and, with his head stooping towards the ground, prayed for his recovery; when, suddenly, he felt in all his limbs such an accession of strength from the incorruptible body of the saint, that he rose up from prayer without trouble, and returned to the guests’ chamber without the assistance of the conductor who had led him, or the staff on which he had leaned. A few days afterwards he proceeded in perfect health upon his intended journey.

@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 30
-chapter_title: VII. JUNE, 1874.—Revised Statutes of the United States; Title XXXIX, Legal Tender.
+chapter_title: VII. June, 1874.—Revised Statutes of the United States; Title XXXIX, Legal Tender.
 chapter_slug: "30-vii-june-1874-revised-statutes-of-the-united-state"
 variant_id: "914007d5-0704-57bf-b7c8-3e38029c7124"
 content_type: translation

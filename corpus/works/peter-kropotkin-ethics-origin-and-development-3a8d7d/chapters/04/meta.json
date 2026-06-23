@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-ethics-origin-and-development-3a8d7d",
+  "work_title": "Ethics: Origin and Development",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 2 : The Gradually Evolving Bases of the New Ethics",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e612100-43c2-5381-8caf-7e138d74bf3e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4209,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1924/ethics-origin-and-development/chapter-2.html"
+    }
+  ]
+}

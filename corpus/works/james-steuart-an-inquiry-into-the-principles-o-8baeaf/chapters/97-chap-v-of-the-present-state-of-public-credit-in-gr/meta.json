@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 97,
+  "chapter_title": "Chap. V: Of the Present State of Public Credit in Great Britain",
+  "chapter_slug": "97-chap-v-of-the-present-state-of-public-credit-in-gr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9955d1fc-2d44-5bd9-9ca1-a7052466ac69",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6243,
+      "paragraph_count": 83,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_4.htm"
+    }
+  ]
+}

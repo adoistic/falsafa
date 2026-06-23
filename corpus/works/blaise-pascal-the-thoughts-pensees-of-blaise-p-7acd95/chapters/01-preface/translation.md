@@ -4,7 +4,7 @@ work_slug: "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95"
 work_title: The Thoughts (Pensées) of Blaise Pascal
 author_name: Blaise Pascal
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "a04b7fb6-2d01-5a40-94e4-d5c62e8fa7e3"
 content_type: translation

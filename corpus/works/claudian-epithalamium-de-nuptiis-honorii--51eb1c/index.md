@@ -4,7 +4,10 @@ slug: "claudian-epithalamium-de-nuptiis-honorii--51eb1c"
 title: Epithalamium de nuptiis Honorii Augusti
 author:
   name: Claudian
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Alexandrian-born Latin poet at the court of the emperor Honorius and his general Stilicho. His panegyrics and invectives turned the politics of the divided empire into epic verse, the last sustained poetry in the classical Latin manner."
+  birth_year: 370
+  death_year: 404
+  nationality: Roman
 era: Late Antiquity
 genre: Classics
 language: Latin

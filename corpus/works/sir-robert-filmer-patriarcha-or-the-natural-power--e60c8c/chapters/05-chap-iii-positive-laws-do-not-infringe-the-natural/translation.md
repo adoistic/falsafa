@@ -4,7 +4,7 @@ work_slug: "sir-robert-filmer-patriarcha-or-the-natural-power--e60c8c"
 work_title: Patriarcha, or the Natural Power of Kings
 author_name: Sir Robert Filmer
 chapter_number: 5
-chapter_title: "CHAP. III.: Positive Laws do not infringe the Natural and Fatherly Power of Kings."
+chapter_title: "Chap. III.: Positive Laws do not infringe the Natural and Fatherly Power of Kings."
 chapter_slug: "05-chap-iii-positive-laws-do-not-infringe-the-natural"
 variant_id: "d886699a-b8ef-5b7b-8667-a3a480e89f64"
 content_type: translation

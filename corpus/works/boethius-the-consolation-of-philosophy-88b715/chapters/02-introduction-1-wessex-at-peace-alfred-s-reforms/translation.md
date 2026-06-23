@@ -1,0 +1,21 @@
+---
+work_id: "88b7154d-8ae8-5c6e-a1cb-5ca9ab169cd0"
+work_slug: "boethius-the-consolation-of-philosophy-88b715"
+work_title: The Consolation of Philosophy
+author_name: Boethius
+chapter_number: 2
+chapter_title: Introduction, § 1. Wessex at Peace. Alfred’s Reforms.
+chapter_slug: "02-introduction-1-wessex-at-peace-alfred-s-reforms"
+variant_id: "ca8a22e3-062d-58e1-8d65-98066ac4160e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 444
+source_url: "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
+translator: Online Library of Liberty edition
+---
+
+In the year 878 a.d., on the conclusion of the negotiations begun with Guthrum at Wedmore, Wessex emerged unbeaten but sorely shaken from a life-struggle that had lasted many years without intermission. Inch by inch the Scandinavian pirates had been driven back, and now the West-Saxon king could boast of a broader realm than ever before had been his, and better still, a more united people. The first seven or eight years of his reign had been spent in camp or on the march, fighting, pursuing, retreating, in the varying fortunes of the struggle; a busy time, with small leisure for thoughts or deeds unconnected with immediate and constant peril. Alfred’s early ambitions had perforce to sleep, while his people had enough to do to hold their ground against the invader, standing still or going back on the path of culture. Still, it is probable that the harsh training king and subjects had gone through together in their dark days was after all a real though disguised benefit to both. They shared the memory of perils and hardships borne together, and must have come to understand and sympathize with each other as only those can do that have side by side faced Edition: current; Page: [xii]a common danger for many months. And so Alfred would, when brighter days came, find ready to his hand ‘fitting instruments of rule,’ as he himself calls them. He entered upon the herculean labour of building up and consolidating the shattered fabric of society and government with a deep sense of the responsibility involved, and a clear perception of the difficulties to be faced. But his keen enthusiasm for the work made it seem easy, and carried him through it all with admirable success. Everything had to be done, as a veritable chasm gaped between the present and the past. First of all, the laws of the West-Saxon kings had to be copied afresh, amended, and published, and their honest administration enforced, so that equal justice done between man and man might smooth the way for the arts of peace. The citizen army had to be organized against a possible recrudescence of the piratical raids, a fleet of ships had to be built, and London resettled and fortified. Agriculture could now be carried on in security, and the simple arts and manufactures of that day needed careful fostering. The Church, sorely weakened and humiliated after repeated outrage on the part of the heathen and by neglect of her own distracted people, must be raised to her former high estate. Her bishops and priests must be put back in their cures, her monasteries endowed, and piety and learning again cherished.

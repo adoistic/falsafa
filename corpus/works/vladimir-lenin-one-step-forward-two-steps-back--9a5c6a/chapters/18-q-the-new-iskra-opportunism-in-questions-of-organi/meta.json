@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-one-step-forward-two-steps-back--9a5c6a",
+  "work_title": "One Step Forward, Two Steps Back (The Crisis in Our Party)",
+  "chapter_number": 18,
+  "chapter_title": "Q. The New Iskra. Opportunism In Questions Of Organisation",
+  "chapter_slug": "18-q-the-new-iskra-opportunism-in-questions-of-organi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3851195b-c0c7-5602-9309-2b5d40eb46f2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11527,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1904/onestep/q.htm"
+    }
+  ]
+}

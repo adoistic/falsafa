@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-locke-two-treatises-of-government-fcc06c",
+  "work_title": "Two Treatises of Government",
+  "chapter_number": 23,
+  "chapter_title": "Chap. XI. Of the Extent of the Legislative Power.",
+  "chapter_slug": "23-chap-xi-of-the-extent-of-the-legislative-power",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d8f51fb6-f6b6-5534-b2d4-1843489ed5d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2552,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+    }
+  ]
+}

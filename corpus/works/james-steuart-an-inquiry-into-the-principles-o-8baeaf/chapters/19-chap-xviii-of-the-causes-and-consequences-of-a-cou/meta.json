@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 19,
+  "chapter_title": "Chap. XVIII Of the Causes and Consequences of a Country's being fully peopled",
+  "chapter_slug": "19-chap-xviii-of-the-causes-and-consequences-of-a-cou",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cf0b4f83-7e32-5d1b-9b6f-e2ec7facf8c3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1944,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book1_17.htm"
+    }
+  ]
+}

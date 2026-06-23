@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 3
-chapter_title: Chapter XI
+chapter_title: Chapter X
 chapter_slug: 03
 variant_id: "bdb471c3-3c70-5ce7-af3d-46353e82ba1b"
 content_type: translation
@@ -13,115 +13,69 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1570
+word_count: 775
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-*Of the Generad Rules of Syllogism.*
+*Of the Canon of Reasoning.*
 
-§ 582. We now proceed to lay down certain general rules to which all valid syllogisms must conform. These are divided into primary and derivative.
+& 569. The first figure was regarded by logicians as the only perfect type of syllogism, because the validity of moods in this figure may be tested directly by their complying, or failing to comply, with a certain axiom, the truth of which is self-evident. This axiom is known as the Dictum de Omni et Nullo. It may be expressed as follows--
 
-I. *Primary*.
+Whatever may be affirmed or denied of a whole class may be affirmed or denied of everything contained in that class.
 
-(1) A syllogism must consist of three propositions only.
+§ 570. This mode of stating the axiom contemplates predication as being made in extension, whereas it is more naturally to be regarded as being made in intension.
 
-(2) A syllogism must consist of three terms only.
+§ 571. The same principle may be expressed intensively as follows--
 
-(3) The middle term must be distributed at least once in the premisses.
+Whatever has certain attributes has also the attributes which invariably accompany them .
 
-(4) No term must be distributed in the conclusion which was not distributed in the premisses.
+§ 572. By Aristotle himself the principle was expressed in a neutral form thus--
 
-(5) Two negative premisses prove nothing.
+'Whatever is stated of the predicate will be stated also of the subject . Cat. 3, § I].'
 
-(6) If one premiss be negative, the conclusion must be negative.
+This way of putting it, however, is too loose.
 
-(7) If the conclusion be negative, one of the premisses must be negative: but if the conclusion be affirmative, both premisses must be affirmative.
+§ 573. The principle precisely stated is as follows--
 
-II. *Derivative*.
+Whatever may be affirmed or denied universally of the predicate of an affirmative proposition, may be affirmed or denied also of the subject.
 
-(8) Two particular premisses prove nothing.
+§ 574. Thus, given an affirmative proposition 'Whales are mammals,' if we can affirm anything universally of the predicate 'mammals,' as, for instance, that 'All mammals are warm-blooded,' we shall be able to affirm the same of the subject 'whales'; and, if we can deny anything universally of the predicate, as that 'No mammals are oviparous,' we shall be able to deny the same of the subject.
 
-(9) If one premiss be particular, the conclusion must be particular.
+§ 575. In whatever way the supposed canon of reasoning may be stated, it has the defect of applying only to a single figure, namely, the first. The characteristic of the reasoning in that figure is that some general rule is maintained to hold good in a particular case. The major premiss lays down some general principle, whether affirmative or negative; the minor premiss asserts that a particular case falls under this principle; and the conclusion applies the general principle to the particular case. But though all syllogistic reasoning may be tortured into conformity with this type, some of it finds expression more naturally in other ways.
 
-§ 583. The first two of these rules are involved in the definition of the syllogism with which we started. We said it might be regarded either as the comparison of two propositions by means of a third or as the comparison of two terms by means of a third. To violate either of these rules therefore would be inconsistent with the fundamental conception of the syllogism. The first of our two definitions indeed (§ 552) applies directly only to the syllogisms in the first figure; but since all syllogisms may be expressed, as we shall presently see, in the first figure, it applies indirectly to all. When any process of mediate inference appears to have more than two premisses, it will always be found that there is more than one syllogism. If there are less than three propositions, as in the fallacy of 'begging the question,' in which the conclusion simply reiterates one of the premisses, there is no syllogism at all.
+§ 576. Modern logicians therefore prefer to abandon the Dictum de Omni et Nullo in any shape, and to substitute for it the following three axioms, which apply to all figures alike.
 
-With regard to the second rule, it is plain that any attempted syllogism which has more than three terms cannot conform to the conditions of any of the axioms of mediate inference.
+*Three Axioms of Mediale Inference.*
 
-§ 584. The next two rules guard against the two fallacies which are fatal to most syllogisms whose constitution is unsound.
+(1) If two terms agree with the same third term, they agree with one another.
 
-§ 585. The violation of Rule 3 is known as the Fallacy of Undistributed Middle. The reason for this rule is not far to seek. For if the middle term is not used in either premiss in its whole extent, we may be referring to one part of it in one premiss and to quite another part of it in another, so that there will be really no middle term at all. From such premisses as these--
+(2) If one term agrees, and another disagrees, with the same third term, they disagree with one another.
 
-All pigs are omnivorous, All men are omnivorous,
+(3) If two terms disagree with the same third term, they may or may not agree with one another.
 
-it is plain that nothing follows. Or again, take these premisses--
+§ 577. The first of these axioms is the principle of all affirmative, the second of all negative, syllogisms; the third points out the conditions under which no conclusion can be drawn. If there is any agreement at all between the two terms and the third, as in the cases contemplated in the first and second axioms, then we have a conclusion of some kind: if it is otherwise, we have none.
 
-Some men are fallible, All Popes are men.
+§ 578. It must be understood with regard to these axioms that, when we speak of terms agreeing or disagreeing with the same third term, we mean that they agree or disagree with the same part of it.
 
-Here it is possible that 'All Popes' may agree with precisely that part of the term 'man,' of which it is not known whether it agrees with 'fallible' or not.
+§ 579. Hence in applying these axioms it is necessary to bear in mind the rules for the distinction of terms. Thus from
 
-§ 586. The violation of Rule 4 is known as the Fallacy of Illicit Process. If the major term is distributed in the conclusion, not having been distributed in the premiss, we have what is called Illicit Process of the Major; if the same is the case with the minor term, we have Illicit Process of the Minor.
+All B is A, No C is B,
 
-§ 587. The reason for this rule is that if a term be used in its whole extent in the conclusion, which was not so used in the premiss in which it occurred, we would be arguing from the part to the whole. It is the same sort of fallacy which we found to underlie the simple conversion of an A proposition.
+the only inference which can be drawn is that Some A is not C (which alters the figure from the first to the fourth). For it was only part of A which was known to agree with B. On the theory of the quantified predicate we could draw the inference No C is some A.
 
-§ 588. Take for instance the following--
+§ 580. It is of course possible for terms to agree with different parts of the same third term, and yet to have no connection with one another. Thus
 
-All learned men go mad. John is not a learned man. .'. John will not go mad.
+All birds fly. All bats fly.
 
-In the conclusion 'John' is excluded from the whole class of persons who go mad, whereas in the premisses, granting that all learned men go mad, it has not been said that they are all the men who do so. We have here an illicit process of the major term.
+But we do not infer therefrom that bats are birds or vice versâ.
 
-§ 589. Or again take the following--
+§ 581. On the other hand, had we said,--
 
-All Radicals are covetous. All Radicals are poor. .'. All poor men are covetous.
+All birds lay eggs, No bats lay eggs,
 
-The conclusion here is certainly not warranted by our premisses. For in them we spoke only of some poor men, since the predicate of an affirmative proposition is undistributed.
+we might confidently have drawn the conclusion
 
-§ 590. Rule 5 is simply another way of stating the third axiom of mediate inference. To know that two terms disagree with the same third term gives us no ground for any inference as to whether they agree or disagree with one another, e.g.
+No bats are birds
 
-Ruminants are not oviparous. Sheep are not oviparous.
-
-For ought that can be inferred from the premisses, sheep may or may not be ruminants.
-
-§ 591. This rule may sometimes be violated in appearance, though not in reality. For instance, the following is perfectly legitimate reasoning.
-
-No remedy for corruption is effectual that does not render it useless. Nothing but the ballot renders corruption useless. .'. Nothing but the ballot is an effectual remedy for corruption.
-
-But on looking into this we find that there are four terms--
-
-No not-A is B. No not-C is A. .'. No not-C is B.
-
-The violation of Rule 5 is here rendered possible by the additional violation of Rule 2. In order to have the middle term the same in both premisses we are obliged to make the minor affirmative, thus
-
-No not-A is B. All not-C is not-A. .'. No not-C is B.
-
-No remedy that fails to render corruption useless is effectual. All but the ballot fails to render corruption useless. .'. Nothing but the ballot is effectual.
-
-§ 592. Rule 6 declares that, if one premiss be negative, the conclusion must be negative. Now in compliance with Rule 5, if one premiss be negative, the other must be affirmative. We have therefore the case contemplated in the second axiom, namely, of one term agreeing and the other disagreeing with the same third term; and we know that this can only give ground for a judgement of disagreement between the two terms themselves--in other words, to a negative conclusion.
-
-§ 593. Rule 7 declares that, if the conclusion be negative, one of the premisses must be negative; but, if the conclusion be affirmative, both premisses must be affirmative. It is plain from the axioms that a judgement of disagreement can only be elicited from a judgement of agreement combined with a judgement of disagreement, and that a judgement of agreement can result only from two prior judgements of agreement.
-
-§ 594. The seven rules already treated of are evident by their own light, being of the nature of definitions and axioms: but the two remaining rules, which deal with particular premisses, admit of being proved from their predecessors.
-
-§ 595. Proof of Rule 8.--_That two particular premisses prove nothing_.
-
-We know by Rule 5 that both premisses cannot be negative. Hence they must be either both affirmative, II, or one affirmative and one negative, IO or OI.
-
-Now II premisses do not distribute any term at all, and therefore the middle term cannot be distributed, which would violate Rule 3.
-
-Again in IO or OI premisses there is only one term distributed, namely, the predicate of the O proposition. But Rule 3 requires that this one term should be the middle term. Therefore the major term must be undistributed in the major premiss. But since one of the premisses is negative, the conclusion must be negative, by Rule 6. And every negative proposition distributes its predicate. Therefore the major term must be distributed where it occurs as predicate of the conclusion. But it was not distributed in the major premiss. Therefore in drawing any conclusion we violate Rule 4 by an illicit process of the major term.
-
-§ 596. Proof of Rule 9.--*That*, *if* one _premiss be particular*, *the conclusion must be particular_.
-
-Two negative premisses being excluded by Rule 5, and two particular by Rule 8, the only pairs of premisses we can have are--
-
-Of course the particular premiss may precede the universal, but the order of the premisses will not affect the reasoning.
-
-AI premisses between them distribute one term only. This must be the middle term by Rule 3. Therefore the conclusion must be particular, as its subject cannot be distributed,
-
-AO and EI premisses each distribute two terms, one of which must be the middle term by Rule 3: so that there is only one term left which may be distributed in the conclusion. But the conclusion must be negative by Rule 4. Therefore its predicate must be distributed. Hence its subject cannot be so. Therefore the conclusion must be particular.
-
-§ 597. Rules 6 and 9 are often lumped together in a single expression--'The conclusion must follow the weaker part,' negative being considered weaker than affirmative, and particular than universal.
-
-§ 598. The most important rules of syllogism are summed up in the following mnemonic lines, which appear to have been perfected, though not invented, by a mediæval logician known as Petrus Hispanus, who was afterwards raised to the Papal Chair under the title of Pope John XXI, and who died in 1277--
-
-Distribuas medium, nec quartus terminus adsit; Utraque nec praemissa negans, nec particularis; Sectetur partem conclusio deteriorem, Et non distribuat, nisi cum praemissa, negetve.
+For the term 'bats,' being excluded from the whole of the term 'lay eggs,' is thereby necessarily excluded from that part of it which coincides with 'birds.'

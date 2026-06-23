@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 151,
+  "chapter_title": "XVII.: Gold being made the standard by merchants, doth not make gold to be the national standard.",
+  "chapter_slug": "151-xvii-gold-being-made-the-standard-by-merchants-dot",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ddbc20c-ff6d-5d2a-a903-9fa3ede1ce32",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1014,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

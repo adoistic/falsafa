@@ -1,0 +1,35 @@
+---
+work_id: "bd37e11b-2fb3-5fe0-bfb5-28b931789ef5"
+work_slug: "peter-kropotkin-modern-science-and-anarchism-bd37e1"
+work_title: Modern Science and Anarchism
+author_name: Peter Kropotkin
+chapter_number: 8
+chapter_title: Chapter 8
+chapter_slug: 08
+variant_id: "e4241b2f-7f40-526c-ac46-ed3d568d6cf5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 907
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1903/modern-science-and-anarchism/chapter-8.html"
+translator: David A. Modell
+---
+
+Anarchism originated, as has already been said, from the demands of practical life.
+
+At the time of the great French Revolution of 1789-1793, Godwin had the opportunity of himself seeing how the governmental authority created during the revolution itself acted as a retarding force upon the revolutionary movement. And he knew, too, what was then taking place in England, under the cover of Parliament (the confiscation of public lands, the kidnapping of poor workhouse children by factory agents and their deportation to weavers' mills, where they perished wholesale, and so on). He understood that the government of the "One and Undivided" Jacobinist Republic would not bring about the necessary revolution; that the revolutionary government itself, from the very fact of its being a guardian of the State, was an obstacle to emancipation; that to insure the success of the revolution, people ought to part, first of all, with their belief in Law, Authority, Uniformity, Order, Property, and other superstitions inherited by us from our servile past. And with this purpose in view he wrote "Political Justice."
+
+The theorist of Anarchism who followed Godwin, Proudhon, had himself lived through the Revolution of 1848 and had seen with his own eyes the crime perpetrated by the revolutionary republican government, and the inapplicability of the state socialism of Louis Blanc. Fresh from the impressions of what he had witnessed, Proudhon penned his admirable works, "A General Idea of the Social Revolution" and "Confessions of a Revolutionist," in which he boldly advocated the abolition of the State and proclaimed Anarchy.
+
+And finally, the idea of Anarchism reappeared again in the International Working Men's Association, after the revolution that was attempted in the Paris Commune of 1871. The complete failure of the Council of the Commune and its capacity to act as a revolutionary body--although it consisted, in due proportion, of representatives of every revolutionary faction of the time (Jacobinists, the followers of Louis Blanc, and members of the International Working Men's Association), and, on the other hand, the incapacity of the London General Council of the International and its ludicrous and even harmful pretension to direct the Paris insurrection by orders sent from England,--opened the eyes of many. They forced many members of the International, including Bakunin, to reflect upon the harmfulness of all sorts of government--even such as had been freely elected in the Commune and in the International Working Men's Association. A few months later, the resolution passed by the same general Council of the Association, at a secret conference held in London in 1871 instead of an annual congress, proved still more the inconvenience of having a government in the International. By this dire resolution they decided to turn the entire labor movement into another channel and convert it from an economic revolutionary movement--into an elective parliamentary and political movement. This decision led to open revolt on the part of the Italian, Spanish, Swiss, and partly also of the Belgian, Federations against the London General Council, out of which movement modern Anarchism subsequently developed.
+
+Every time, then, the anarchist movement sprang up in response to the lessons of actual life and originated from the practical tendencies of events. And, under the impulse thus given it, Anarchism set to work out its theoretic, scientific basis.
+
+No struggle can be successful if it is an unconscious one, and if it does not render itself a clear and concise account of its aim. No destruction of the existing order is possible, if at the time of the overthrow, or of the struggle leading to the overthrow, the idea of what is to take place of what is to be destroyed is not always present in the mind. Even the theoretical criticism of the existing conditions is impossible, unless the critic has in his mind a more or less distinct picture of what he would have in place of the existing state. Consciously or unconsciously, the ideal of something better is forming in the mind of every one who criticizes social institutions.
+
+This is even more the case with a man of action. To tell people, "First let us abolish autocracy or capitalism, and then we will discuss what to put in its place," means simply to deceive oneself and others. And power is never created by deception. The very man who speaks thus surely has some idea of what will take the place of the institutions destroyed. Among those who work for the abolition--let us say, of autocracy--some inevitably think of a constitution like that of England or Germany, while others think of a republic, either placed under the powerful dictatorship of their own party or modeled after the French empire-republic, or, again, of a federal republic like that of the United States or Switzerland; while others again strive to achieve a still greater limitation of government authority; a still greater independence of the towns, the communes, the working men's associations, and all other groups united among themselves by free agreements.
+
+Every party thus has its ideal of the future, which serves it as a criterion in all events of political and economic life, as well as a basis for determining its proper modes of action. Anarchism, too, has conceived its own ideal; and this very ideal has led it to find its own immediate aims and its own methods of action different from those of the socialist parties, which have retained the old Roman and ecclesiastic ideals of governmental organization.

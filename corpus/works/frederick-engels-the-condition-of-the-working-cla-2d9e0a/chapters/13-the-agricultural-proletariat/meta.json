@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-engels-the-condition-of-the-working-cla-2d9e0a",
+  "work_title": "The Condition of the Working Class in England",
+  "chapter_number": 13,
+  "chapter_title": "The Agricultural Proletariat",
+  "chapter_slug": "13-the-agricultural-proletariat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f9411e5c-ca5b-5f67-ab5d-2affe16389da",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5366,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch12.htm"
+    }
+  ]
+}

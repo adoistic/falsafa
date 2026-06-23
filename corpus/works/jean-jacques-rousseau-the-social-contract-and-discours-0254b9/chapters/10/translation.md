@@ -4,7 +4,7 @@ work_slug: "jean-jacques-rousseau-the-social-contract-and-discours-0254b9"
 work_title: The Social Contract and Discourses
 author_name: "Jean-Jacques Rousseau"
 chapter_number: 10
-chapter_title: "CHAPTER V: that we must always go back to a first convention"
+chapter_title: "Chapter VII: the sovereign"
 chapter_slug: 10
 variant_id: "56aef470-bc81-59c8-a8ac-7af1fa199cf0"
 content_type: translation
@@ -13,13 +13,23 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 301
+word_count: 760
 source_url: "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
 translator: Online Library of Liberty edition
 ---
 
-Even if I granted all that I have been refuting, the friends of despotism would be no better off. There will always be a great difference between subduing a multitude and ruling a society. Even if scattered individuals were successively enslaved by one man, however numerous they might be, I still see no more than a master and his slaves, and certainly not a people and its ruler; I see what may be termed an aggregation, but not an association; there is as yet neither public good nor body politic. The man in question, even if he has enslaved half the world, is still only an individual; his interest, apart from that of others, is still a purely private interest. If this same man comes to die, his empire, after him, remains scattered and without unity, as an oak falls and dissolves into a heap of ashes when the fire has consumed it.
+This formula shows us that the act of association comprises a mutual undertaking between the public and the individuals, and that each individual, in making a contract, as we may say, with himself, is bound in a double capacity; as a member of the Sovereign he is bound to the individuals, and as a member of the State to the Sovereign. But the maxim of civil right, that no one is bound by undertakings made to himself, does not apply in this case; for there is a great difference between incurring an obligation to yourself and incurring one to a whole of which you form a part.
 
-A people, says Grotius, can give itself to a king. Then, according to Grotius, a people is a people before it gives itself. The gift is itself a civil act, and implies public deliberation. It would be better, before examining the act by which a people gives itself to a king, to examine that by which it has become a people; for this act, being necessarily prior to the other, is the true foundation of society.
+Attention must further be called to the fact that public deliberation, while competent to bind all the subjects to the Sovereign, because of the two different capacities in which each of them may be regarded, cannot, for the opposite reason, bind the Sovereign to itself; and that it is consequently against the nature of the body politic for the Sovereign to impose on itself a law which it cannot infringe. Being able to regard itself in only one capacity, it is in the position of an individual who makes a contract with himself; and this makes it clear that there neither is nor can be any kind of fundamental law binding on the body of the people—not even the social contract itself. This does not mean that the body politic cannot enter into undertakings with others, provided the contract is not infringed by them; for in relation to what is external to it, it becomes a simple being, an individual.
 
-Indeed, if there were no prior convention, where, unless the election were unanimous, would be the obligation on Edition: current; Page: [14] the minority to submit to the choice of the majority? How have a hundred men who wish for a master the right to vote on behalf of ten who do not? The law of majority voting is itself something established by convention, and presupposes unanimity, on one occasion at least.
+But the body politic or the Sovereign, drawing its being wholly from the sanctity of the contract, can never bind itself, even to an outsider, to do anything derogatory to the original act, for instance, to alienate any part of itself, or to submit to another Sovereign. Violation of the act by which it exists would be self-annihilation; and that which is itself nothing can create nothing.
+
+As soon as this multitude is so united in one body, it is impossible to offend against one of the members without attacking the body, and still more to offend against the body without the members resenting it. Duty and interest therefore equally oblige the two contracting parties to give each other help; and the same men should seek to combine, in their double capacity, all the advantages dependent upon that capacity.
+
+Again, the Sovereign, being formed wholly of the individuals who compose it, neither has nor can have any interest contrary to theirs; and consequently the sovereign power need give no guarantee to its subjects, because it is impossible for the body to wish to hurt all its members. We shall also see later on that it cannot hurt any in particular. The Sovereign, merely by virtue of what it is, is always what it should be.
+
+This, however, is not the case with the relation of the subjects to the Sovereign, which, despite the common interest, would have no security that they would fulfil their undertakings, unless it found means to assure itself of their fidelity.
+
+In fact, each individual, as a man, may have a particular will contrary or dissimilar to the general will which he has as a citizen. His particular interest may speak to him quite differently from the common interest: his absolute and naturally independent existence may make him look upon what he owes to the common cause as a gratuitous contribution, the loss of which will do less harm to others than the payment of it is burdensome to himself; and, regarding the moral person which constitutes the State as a persona ficta, because not a man, he may wish to enjoy the rights of citizenship without being ready to fulfil the duties of a subject. The continuance of such an injustice could not but prove the undoing of the body politic.
+
+In order then that the social compact may not be an empty formula, it tacitly includes the undertaking, which alone can give force to the rest, that whoever refuses to obey the general will shall be compelled to do so by the whole body. This means nothing less than that he will be forced to be free; for this is the condition which, by giving each citizen to his country, secures him against all personal dependence. In this lies the key to the working of the political machine; this alone legitimises civil undertakings, which, without it, would be absurd, tyrannical, and liable to the most frightful abuses.

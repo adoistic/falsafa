@@ -4,13 +4,17 @@ slug: "john-morley-burke-cfb4a4"
 title: Burke
 author:
   name: John Morley
-  biography: "John Morley (1838-1923)."
+  biography: English Liberal statesman, biographer, and editor of the Fortnightly Review, disciple of John Stuart Mill. His essays and lives of Burke, Cobden, and Gladstone joined literary criticism to a secular liberal politics.
+  birth_year: 1838
+  death_year: 1923
+  nationality: English
 era: 19th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "Burke, by John Morley (1838-1923), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1879
 total_logical_chapters: 10
 total_variant_entries: 10
 thothica_role: catalog

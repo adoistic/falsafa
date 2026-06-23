@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 3
-chapter_title: PREFACE to the Fifth Edition.
+chapter_title: Preface to the Fifth Edition.
 chapter_slug: "03-preface-to-the-fifth-edition"
 variant_id: "92d37436-9bc9-56f1-aac3-3c57a4ad385b"
 content_type: translation

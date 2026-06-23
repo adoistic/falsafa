@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-wage-labour-and-capital-9aa66b",
+  "work_title": "Wage Labour and Capital",
+  "chapter_number": 6,
+  "chapter_title": "The nature and growth of capital",
+  "chapter_slug": "06-the-nature-and-growth-of-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f7b64a28-0491-5cfe-bbc1-a3d7d87c265a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 908,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1847/wage-labour/ch05.htm"
+    }
+  ]
+}

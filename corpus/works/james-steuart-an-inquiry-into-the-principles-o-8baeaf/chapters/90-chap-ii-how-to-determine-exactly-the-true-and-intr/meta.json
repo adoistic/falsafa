@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 90,
+  "chapter_title": "Chap. II: How to determine exactly the true and intrinsic value of the Metals, Coin, or Money, in which a Balance to for",
+  "chapter_slug": "90-chap-ii-how-to-determine-exactly-the-true-and-intr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8aec4438-2528-5046-96d4-2e4db511544d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2515,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_3.htm"
+    }
+  ]
+}

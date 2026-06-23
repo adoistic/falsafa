@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 18,
+  "chapter_title": "Chap. XVII In what Manner and according to what Proportion do Plenty and Scarcity affect a People",
+  "chapter_slug": "18-chap-xvii-in-what-manner-and-according-to-what-pro",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab6417dc-1f6e-5975-81b9-1f737f10a3b1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1831,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book1_17.htm"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
   "work_title": "The Miscellaneous Works of Sir James Mackintosh",
   "chapter_number": 11,
-  "chapter_title": "SECTION II.: RETROSPECT OF ANCIENT ETHICS.",
+  "chapter_title": "Section III.: Retrospect of Scholastic Ethics.",
   "chapter_slug": "11",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 4735,
-      "paragraph_count": 17,
+      "word_count": 5006,
+      "paragraph_count": 13,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
     }

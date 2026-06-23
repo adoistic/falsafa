@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-darwin-the-origin-of-species-75e1de",
+  "work_title": "The Origin of Species",
+  "chapter_number": 6,
+  "chapter_title": "Chapter IV. Natural Selection; Or the Survival of the Fittest.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6339bb11-4a8a-535f-b6c6-eda62d8dc538",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 19823,
+      "paragraph_count": 88,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/darwin/works/origins/ch04.htm"
+    }
+  ]
+}

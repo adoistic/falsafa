@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 1,
+  "chapter_title": "Oration 1",
+  "chapter_slug": "01-oration-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "578efe76-4e27-5467-9878-ae4a7236bc3b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4403,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "651e386c-a828-55e8-b09e-1c3a74fbee80",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5861,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

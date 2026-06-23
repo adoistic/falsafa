@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-economic-basis-of-imperialism-in-7f0d62",
+  "work_title": "Economic Basis of Imperialism in the U.S. of North America",
+  "chapter_number": 1,
+  "chapter_title": "Economic Basis of Imperialism in the U.S. of North America",
+  "chapter_slug": "01-economic-basis-of-imperialism-in-the-u-s-of-north-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5b122e2-d841-5b26-b22f-79db62ad0ca1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 367,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1921/x01/x01.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-ferdinand-lassalle-as-a-social-r-a97060",
+  "work_title": "Ferdinand Lassalle as a Social Reformer",
+  "chapter_number": 6,
+  "chapter_title": "V. The struggle for a constitution in Prussia – Lassalle and the “Progressist Party” – The Worker’s Programme",
+  "chapter_slug": "06-v-the-struggle-for-a-constitution-in-prussia-lassa",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "27d5819d-1dd9-59d6-927e-fc3ba16c38ba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8977,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1893/lassalle/chap05.htm"
+    }
+  ]
+}

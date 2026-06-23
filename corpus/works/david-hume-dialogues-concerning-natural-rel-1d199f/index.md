@@ -4,13 +4,17 @@ slug: "david-hume-dialogues-concerning-natural-rel-1d199f"
 title: Dialogues Concerning Natural Religion
 author:
   name: David Hume
-  biography: "David Hume (1711-1776)."
+  biography: Scottish philosopher and historian of the Edinburgh Enlightenment, friend and correspondent of Adam Smith. The Treatise and the Enquiries that recast it pressed empiricism to skeptical conclusions about causation and induction that philosophy has been answering ever since.
+  birth_year: 1711
+  death_year: 1776
+  nationality: Scottish
 era: Enlightenment
 genre: Philosophy of Religion
 language: English
 language_direction: ltr
 description: "Dialogues Concerning Natural Religion, by David Hume (1711-1776), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1779
 total_logical_chapters: 12
 total_variant_entries: 12
 thothica_role: catalog

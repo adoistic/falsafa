@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 4750
+word_count: 4726
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
@@ -88,7 +88,7 @@ If the positive law [that is, the statute law] of the State declares the contrac
 
 Yes; and why has this power been exercised by “all States and nations,” and “all independent sovereigns”? Solely because these governments have all—or at least so many of them as Trimble had in his mind—been despotic and tyrannical; and have claimed for themselves all power, and denied to the people all rights.
 
-Thus it seems that Trimble, like all the rest of them, got his constitutional law, not from any natural principles of justice, not from men’s natural rights, not from the constitution of the United States, nor even from any constitution affirming Edition: current; Page: [90] men’s natural rights, but from “the doctrine [that] has been held and maintained by all [those] States and nations,” and “all [those] independent sovereigns,” who have usurped all power, and denied all the natural rights of mankind.
+Thus it seems that Trimble, like all the rest of them, got his constitutional law, not from any natural principles of justice, not from men’s natural rights, not from the constitution of the United States, nor even from any constitution affirming men’s natural rights, but from “the doctrine [that] has been held and maintained by all [those] States and nations,” and “all [those] independent sovereigns,” who have usurped all power, and denied all the natural rights of mankind.
 
 Marshall gives another of his false definitions, when, speaking for the whole court, in regard to the power of congress “to regulate commerce with foreign nations, and among the several States,” he asserts the right of congress to an arbitrary, absolute dominion over all men’s natural rights to carry on such commerce. Thus he says:
 
@@ -100,7 +100,7 @@ According to this opinion of the court, congress has—subject to the exceptions
 
 It will be noticed that the court say that “all the other powers, vested in congress, are complete in themselves, and may be exercised to their utmost extent, and acknowledge no limitations, other than those prescribed by the constitution.”
 
-They say that among “all the other [practically unlimited] powers, vested in Edition: current; Page: [91] congress,” is the power “of declaring war”; and, of course, of carrying on war; that congress has power to carry on war, for any reason, to any extent, and against any people, it pleases.
+They say that among “all the other [practically unlimited] powers, vested in congress,” is the power “of declaring war”; and, of course, of carrying on war; that congress has power to carry on war, for any reason, to any extent, and against any people, it pleases.
 
 Thus they say, virtually, that the natural rights of mankind impose no constitutional restraints whatever upon congress, in the exercise of their lawmaking powers.
 
@@ -122,7 +122,7 @@ A locomotive is not “regulated,” when it is made to go, to stop, to go forwa
 
 The pre-existing rule, by which alone commerce can be “regulated,” is a matter of science; and is already known, so far as the natural principle of justice, in relation to contracts, is known. The natural right of all men to make all contracts whatsoever, that are naturally and intrinsically just and lawful, furnishes the pre-existing rule, by which alone commerce can be regulated. And it is the only rule, to which congress have any constitutional power to make commerce conform.
 
-When all commerce, that is intrinsically just and lawful, is secured and protected, and all Edition: current; Page: [92] commerce that is intrinsically unjust and unlawful, is prohibited, then commerce is regulated, and not before.
+When all commerce, that is intrinsically just and lawful, is secured and protected, and all commerce that is intrinsically unjust and unlawful, is prohibited, then commerce is regulated, and not before.
 
 This false definition of the verb “to regulate” has been used, time out of mind, by knavish lawmakers and their courts, to hide their violations of men’s natural right to do their own businesses in all such ways—that are naturally and intrinsically just and lawful—as they may choose to do them in. These lawmakers and courts dare not always deny, utterly and plainly, men’s right to do their own businesses in their own ways; but they will assume “to regulate” them; and in pretending simply “to regulate” them, they contrive “to regulate” men out of all their natural rights to do their own businesses in their own ways.
 
@@ -130,7 +130,7 @@ How much have we all heard (we who are old enough), within the last fifty years,
 
 Marshall’s false assumptions are numerous and tyrannical. They all have the same end in view as his false definitions; that is, to establish the principle that governments have all power, and the people no rights. They are so numerous that it would be tedious, if not impossible, to describe them all separately. Many, or most, of them are embraced in the following, viz.:
 
-1. The assumption that, by a certain paper, called the constitution of the United States—a paper (I repeat and reiterate) which nobody ever signed, which but few persons ever read, and which the great body of the people never saw—and also by some forty subsidiary papers, called State constitutions, which also nobody ever signed, which but few persons ever read, and which the great body of the people never saw—all making a perfect system of the merest nothingness—the assumption, I say, that, by these papers, the people have all consented to the abolition of justice itself, the highest moral law of the Universe; and that all their own natural, inherent, inalienable rights to the benefits of that law, shall be annulled; and that they themselves, and everything that is theirs, shall be given over into the irresponsible custody of some forty little cabals of blockheads and villains called lawmakers—blockheads, who imagine themselves wiser than justice itself, and villains, who care nothing for either wisdom or justice, but only for the Edition: current; Page: [93] gratification of their own avarice and ambitions; and that these cabals shall be invested with the right to dispose of the property, liberty, and lives of all the rest of the people, at their pleasure or discretion; or, as Marshall says, “their wisdom and discretion!”
+1. The assumption that, by a certain paper, called the constitution of the United States—a paper (I repeat and reiterate) which nobody ever signed, which but few persons ever read, and which the great body of the people never saw—and also by some forty subsidiary papers, called State constitutions, which also nobody ever signed, which but few persons ever read, and which the great body of the people never saw—all making a perfect system of the merest nothingness—the assumption, I say, that, by these papers, the people have all consented to the abolition of justice itself, the highest moral law of the Universe; and that all their own natural, inherent, inalienable rights to the benefits of that law, shall be annulled; and that they themselves, and everything that is theirs, shall be given over into the irresponsible custody of some forty little cabals of blockheads and villains called lawmakers—blockheads, who imagine themselves wiser than justice itself, and villains, who care nothing for either wisdom or justice, but only for the gratification of their own avarice and ambitions; and that these cabals shall be invested with the right to dispose of the property, liberty, and lives of all the rest of the people, at their pleasure or discretion; or, as Marshall says, “their wisdom and discretion!”
 
 If such an assumption as that does not embrace nearly, or quite, all the other false assumptions that usurpers and tyrants can ever need, to justify themselves in robbing, enslaving, and murdering all the rest of mankind, it is less comprehensive than it appears to me to be.
 
@@ -146,7 +146,7 @@ And yet, in the same opinion—only two and three pages preceding this extract�
 
 And as an illustration of the exercise of this right of “society” to prohibit such contracts “as may be deemed mischievous,” he cites the usury laws, thus:
 
-The acts against usury declare the contract to be void in the beginning. They deny that Edition: current; Page: [94] the instrument ever became a contract. They deny it all original obligation; and cannot impair that which never came into existence.—p. 348.
+The acts against usury declare the contract to be void in the beginning. They deny that the instrument ever became a contract. They deny it all original obligation; and cannot impair that which never came into existence.—p. 348.
 
 All this is as much as to say that, when a man has voluntarily “come into society,” and has “surrendered” to society “his original and natural right of coercing” the fulfilment of his contracts, and when he has done this in the confidence that society will fulfil its pledge to “give him a more safe and more certain coercion” than he was capable of himself, “society” may then turn around to him, and say:
 
@@ -156,7 +156,7 @@ Such is Marshall’s theory of the way in which “society” got possession of 
 
 A man’s “original and natural right” to make all contracts that are “intrinsically obligatory,” and to coerce the fulfilment of them, is one of the most valuable and indispensable of all human possessions. But Marshall assumes that a man may “surrender” this right to “society,” under a pledge from “society,” that it will secure to him “a more safe and certain” fulfilment of his contracts, than he is capable of himself; and that “society,” having thus obtained from him this “surrender,” may then turn around to him, and not only refuse to fulfil its pledge to him, but may also prohibit his own exercise of his own “original and natural right,” which he has “surrendered” to “society!”
 
-This is as much as to say that, if A can but induce B to intrust his (B’s) property Edition: current; Page: [95] with him (A), for safekeeping, under a pledge that he (A) will keep it more safely and certainly than B can do it himself, A thereby acquires an “unquestionable right” to keep the property forever, and let B whistle for it!
+This is as much as to say that, if A can but induce B to intrust his (B’s) property with him (A), for safekeeping, under a pledge that he (A) will keep it more safely and certainly than B can do it himself, A thereby acquires an “unquestionable right” to keep the property forever, and let B whistle for it!
 
 This is the kind of assumption on which Marshall based all his ideas of the constitutional law of this country; that constitutional law, which he was so famous for expounding. It is the kind of assumption, by which he expounded the people out of all their “original and natural rights.”
 

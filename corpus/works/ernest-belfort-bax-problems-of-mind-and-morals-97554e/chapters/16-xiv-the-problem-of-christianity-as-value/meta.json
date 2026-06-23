@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-problems-of-mind-and-morals-97554e",
+  "work_title": "Problems of Mind and Morals",
+  "chapter_number": 16,
+  "chapter_title": "XIV. The Problem of Christianity as “Value”",
+  "chapter_slug": "16-xiv-the-problem-of-christianity-as-value",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a41b3762-e811-5ccc-9091-5de19f4c1980",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3242,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1912/probs/14-christian.htm"
+    }
+  ]
+}

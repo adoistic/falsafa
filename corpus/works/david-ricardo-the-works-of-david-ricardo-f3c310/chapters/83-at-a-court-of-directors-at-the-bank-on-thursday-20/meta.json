@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 83,
+  "chapter_title": "At a Court of Directors at the Bank, on Thursday, 20th May 1819.",
+  "chapter_slug": "83-at-a-court-of-directors-at-the-bank-on-thursday-20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b0cbb8c2-dc56-528a-bda1-732a0a83b24f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1797,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

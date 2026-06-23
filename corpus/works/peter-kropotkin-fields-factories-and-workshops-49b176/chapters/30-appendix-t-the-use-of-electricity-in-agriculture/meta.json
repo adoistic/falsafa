@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-fields-factories-and-workshops-49b176",
+  "work_title": "Fields, Factories, and Workshops",
+  "chapter_number": 30,
+  "chapter_title": "Appendix T : The Use of Electricity in Agriculture",
+  "chapter_slug": "30-appendix-t-the-use-of-electricity-in-agriculture",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0d20f198-6f7c-5e0e-9e5d-defd8956fa4b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 543,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/appendix-t.html"
+    }
+  ]
+}

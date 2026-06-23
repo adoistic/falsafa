@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 54,
+  "chapter_title": "Seventh Book, Chapter I (6)",
+  "chapter_slug": "54-seventh-book-chapter-i-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd841091-9d48-5dc3-b688-a456712bf51e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2445,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

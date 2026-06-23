@@ -4,7 +4,7 @@ work_slug: "sir-dudley-north-discourses-upon-trade-ba9ac5"
 work_title: Discourses upon Trade
 author_name: Sir Dudley North
 chapter_number: 4
-chapter_title: "10| A Discourse of COYNED MONEY."
+chapter_title: "10| a Discourse of COYNED MONEY."
 chapter_slug: "04-10-a-discourse-of-coyned-money"
 variant_id: "6fb5132b-a58f-59c3-afbf-47f36640802e"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 4021
+word_count: 3981
 source_url: "https://oll.libertyfund.org/titles/hollander-discourses-upon-trade"
 translator: Online Library of Liberty edition
 ---
@@ -24,13 +24,13 @@ For the greater Improvement of this Convenience, and to remove some Difficulties
 
 By this means the Trade of the World is made easie, and all the numerous species of several Commodities have a common Measure. Besides the Gold and Silver being thus coyned into Money, and so become more useful for Commerce than in the Log or Block, hath in all places, except in England since the free Coynage, reasonably obtained a greater value than it had before: And that not only above the real charge of making it so, but is become a State-Revenue (ex|11|cept as before) tho' not very great. Whereas if Silver coyned and uncoyned bore the same rate, as it doth with us in England, where it is coyned at the Charge of the Publick, it will be lyable frequently to be melted down, as I shall shew anon.
 
-Money being thus the Common Measure of Buying and Edition: current; Page: [24] Selling, every body who hath any thing to sell, and cannot procure Chapmen for it, is presently apt to think, that want of Money in the Kingdom, or Country is the cause why his Goods do not go off; and so, want of Money, is the common Cry; which is a great mistake, as shall be shewn. I grant all stop in Trade proceeds from some cause; but it is not from the want of specifick Money, there being other Reasons for it; as will appear by the following Discourse.
+Money being thus the Common Measure of Buying and Selling, every body who hath any thing to sell, and cannot procure Chapmen for it, is presently apt to think, that want of Money in the Kingdom, or Country is the cause why his Goods do not go off; and so, want of Money, is the common Cry; which is a great mistake, as shall be shewn. I grant all stop in Trade proceeds from some cause; but it is not from the want of specifick Money, there being other Reasons for it; as will appear by the following Discourse.
 
 No Man is richer for having his Estate all in Money, Plate, &c. lying by him, but on the contrary, he is for that reason the poorer. That man is richest, whose Estate is in a growing condition, either in Land at Farm, Money at Interest, or Goods in Trade: If any man, out of an humour, should turn all his Estate into Money, and keep it dead, he would soon be sensible of Poverty growing upon him, whilst he is eating out of the quick stock.
 
 But to examine the matter closer, what do these People want, who cry out for Money? I will begin with the Beggar; he wants, and importunes for Money: What would he do with it if he had it? buy Bread, &c. Then in truth it is not Money, but Bread, and other Necessaries for Life that he wants. Well then, the Farmer complains, for the want of Money; surely it is not for the Beggar's Reason, to sustain Life, or pay Debts; but he thinks that were more Money in the Country, he should have a Price for his Goods. |12| Then it seems Money is not his want, but a Price for his Corn, and Cattel, which he would sell, but cannot. If it be askt, if the want of Money be not, what then is the reason, why he cannot get a price? I answer, it must proceed from one of these three Causes.
 
-1. Either there is too much Corn and Cattel in the Country, so that most who come to Market have need of selling, as he hath, and few of buying: Or, 2. There wants the usual vent abroad, by Transportation, as in time of War, when Trade is unsafe, or not permitted. Or, 3. The Consumption fails, as when men by reason of Poverty, do not spend so Edition: current; Page: [25] much in their Houses as formerly they did; wherefore it is not the increase of specifick Money, which would at all advance the Farmers Goods, but the removal of any of these three Causes, which do truly keep down the Market.
+1. Either there is too much Corn and Cattel in the Country, so that most who come to Market have need of selling, as he hath, and few of buying: Or, 2. There wants the usual vent abroad, by Transportation, as in time of War, when Trade is unsafe, or not permitted. Or, 3. The Consumption fails, as when men by reason of Poverty, do not spend so much in their Houses as formerly they did; wherefore it is not the increase of specifick Money, which would at all advance the Farmers Goods, but the removal of any of these three Causes, which do truly keep down the Market.
 
 The Merchant and Shop-keeper want Money in the same manner, that is, they want a Vent for the Goods they deal in, by reason that the Markets fail, as they will always upon any cause, like what I have hinted. Now to consider what is the true source of Riches, or in the common Phrase, plenty of Money, we must look a little back, into the nature and steps of Trade.
 
@@ -38,7 +38,7 @@ Commerce and Trade, as hath been said, first springs from the Labour of Man, but
 
 In process of time, if the People apply themselves industriously, they will not only be supplied, but advance to a great overplus of Forreign Goods, which improv'd, will enlarge their Trade. Thus the English Nation will sell unto the French, Spaniards, Turk, &c. not only the product of their own Country, as Cloath, Tin, Lead, &c. but also what they purchase of others, as Sugar, Pepper, Callicoes, &c. still buying where Goods are produc'd, and cheap, and transporting them to Places where they are wanted, making great advantage thereby.
 
-In this course of Trade, Gold and Silver are in no sort different from other Commodities, but are taken from them who have Plenty, and carried to them who want, or desire them, with as good profit as other Merchandizes. So that an active prudent Nation groweth rich, and the sluggish Drones grow poor; and there cannot be any Policy other than this, Edition: current; Page: [26] which being introduc'd and practis'd, shall avail to increase Trade and Riches.
+In this course of Trade, Gold and Silver are in no sort different from other Commodities, but are taken from them who have Plenty, and carried to them who want, or desire them, with as good profit as other Merchandizes. So that an active prudent Nation groweth rich, and the sluggish Drones grow poor; and there cannot be any Policy other than this, which being introduc'd and practis'd, shall avail to increase Trade and Riches.
 
 But this Proposition, as single and plain as it is, is seldom so well understood, as to pass with the generality of Mankind; but they think by force of Laws, to retain in their Country all the Gold and Silver which Trade brings in; and thereby expect to grow rich immediately: All which is a profound Fallacy, and hath been a Remora, whereby the growing Wealth of many Countries have been obstructed.
 
@@ -48,7 +48,7 @@ Let a Law be made, and what is more, be observ'd, that no Man whatsoever shall c
 
 The consequence of this would be, that such Town, or County were cut off from the rest of the Nation; and no Man would dare to come to Market with his Money there; because he must buy, whether he likes, or not: and on the other side, the People of that place could not go to other Markets as Buyers, but only as Sellers, being not permitted to carry any Money out with them.
 
-Now would not such a Constitution as this, soon bring a Town or County to a miserable Condition, with respect to their Neighbours, who have free Commerce, whereby the Industrious gain from the slothful and luxurious part of Mankind? The Case is the same, if you extend your thought from a particular Nation, and the several Divisions, and Cities, with the Inhabitants in them, to the whole World, and the several Nations, and Governments in it. And a Nation restrained in its Trade, of which Gold and Silver is a principal, if not an essential Branch, would suffer, and grow poor, as a particular place within a Country, as I have discoursed. A Nation in Edition: current; Page: [27] the World, as to Trade, is in all respects like a City in a Kingdom, or Family in a City.
+Now would not such a Constitution as this, soon bring a Town or County to a miserable Condition, with respect to their Neighbours, who have free Commerce, whereby the Industrious gain from the slothful and luxurious part of Mankind? The Case is the same, if you extend your thought from a particular Nation, and the several Divisions, and Cities, with the Inhabitants in them, to the whole World, and the several Nations, and Governments in it. And a Nation restrained in its Trade, of which Gold and Silver is a principal, if not an essential Branch, would suffer, and grow poor, as a particular place within a Country, as I have discoursed. A Nation in the World, as to Trade, is in all respects like a City in a Kingdom, or Family in a City.
 
 Now since the Increase of Trade is to be esteem'd the only cause that Wealth and Money increase, I will add some farther Considerations upon that subject.
 
@@ -60,7 +60,7 @@ Countries which have sumptuary Laws, are generally poor; for when Men by those L
 
 It is possible Families may be supported by such means, but then the growth of Wealth in the Nation is hindered; for that never thrives better, then when Riches are tost from hand to hand.
 
-The meaner sort seeing their Fellows become rich, and great, are spurr'd up to imitate their Industry. A Tradesman sees his Neighbour keep a Coach, presently all his Endeavors is at work to do the like, and many times is beggered Edition: current; Page: [28] by it; however the extraordinary Application he made, to support his Vanity, was beneficial to the Publick, tho' not enough to answer his false Measures as to himself.
+The meaner sort seeing their Fellows become rich, and great, are spurr'd up to imitate their Industry. A Tradesman sees his Neighbour keep a Coach, presently all his Endeavors is at work to do the like, and many times is beggered by it; however the extraordinary Application he made, to support his Vanity, was beneficial to the Publick, tho' not enough to answer his false Measures as to himself.
 
 It will be objected, That the Home Trade signifies nothing to the enriching a Nation, and that the increase of Wealth comes out of Forreign Trade.
 
@@ -70,7 +70,7 @@ I have toucht upon these matters concerning Trade, and Riches in general, becaus
 
 In confirmation of this, we may take Notice, That Nations which are very poor, have scarce any Money, and in the beginnings of Trade have often made use of something else; as Sueden hath used Copper, and the Plantations, Sugar and Tobacco, but not without great Inconveniences; and still as Wealth hath increas'd, Gold and Silver hath been introduc'd, and drove out the others, as now almost in the Plantations it hath done.
 
-It is not necessary absolutely to have a Mint for the making Money plenty, tho' it be very expedient; and a just benefit is lost by the want of it, where there is none; for it hath been observed, that where no Mints were, Trade hath not wanted a full supply of Money; because if it be wanted, the Coyn of other Princes will become currant, as in Ireland, and the Plantations; so also in Turky, where the Money of the Country is so minute, that it is inconvenient for great Payments; and therefore the Turkish Dominions are supplied by Edition: current; Page: [29] almost all the Coyns of Christendom, the same being currant there.
+It is not necessary absolutely to have a Mint for the making Money plenty, tho' it be very expedient; and a just benefit is lost by the want of it, where there is none; for it hath been observed, that where no Mints were, Trade hath not wanted a full supply of Money; because if it be wanted, the Coyn of other Princes will become currant, as in Ireland, and the Plantations; so also in Turky, where the Money of the Country is so minute, that it is inconvenient for great Payments; and therefore the Turkish Dominions are supplied by almost all the Coyns of Christendom, the same being currant there.
 
 But a Country which useth Forreign Coyns, hath great disadvantage from it; because they pay strangers, |17| for what, had they a Mint of their own, they might make themselves. For Coyned Money, as was said, is more worth than Uncoyned Silver of the same weight and allay; that is, you may buy more Uncoyned Silver, of the same fineness with the Money, than the Money weighs; which advantage the Stranger hath for the Coynage.
 
@@ -84,7 +84,7 @@ For when Money grows up to a greater quantity than Commerce requires, it comes t
 
 Then let not the care of Specifick Money torment us so much; for a People that are rich cannot want it, and if they make none, they will be supplied with the Coyn of other Nations; and if never so much be brought from abroad, or never so much coyned at home, all that is more than what the Commerce of the Nation requires, is but Bullion, and will be treated as |18| such; and coyned Money, like wrought Plate at Second hand, shall sell but for the Intrinsick.
 
-I call to witness the vast Sums that have been coyned in Edition: current; Page: [30] England, since the free Coynage was set up; What is become of it all? no body believes it to be in the Nation, and it cannot well be all transported, the Penalties for so doing being so great. The case is plain, it being exported, as I verily believe little of it is, the Melting-Pot devours all.
+I call to witness the vast Sums that have been coyned in England, since the free Coynage was set up; What is become of it all? no body believes it to be in the Nation, and it cannot well be all transported, the Penalties for so doing being so great. The case is plain, it being exported, as I verily believe little of it is, the Melting-Pot devours all.
 
 The rather, because that Practice is so easie, profitable, and safe from all possibility of being detected, as every one knows it is. And I know no intelligent Man who doubts, but the New Money goes this way.
 
@@ -94,7 +94,7 @@ Thus the Nation hath been abused, and made to pay for the twisting of straw, for
 
 This Nation, for many Years last past, hath groaned, and still groans under the abuse of clipt Money, which with respect to their Wisdom, is a great mistake; and the Irish whom we ridicule so much, when in Peace, would not be so gulled, but weighed their (Pieces of Eight) Cobbs, as they call them, Piece by Piece; this Errour springs from the same Source with the rest, and needs no other Cure then will soon result from Non-currency. Whereof I shall set down my thoughts.
 
-There is great fear, that if clipt Money be not taken, there Edition: current; Page: [31] will be no Money at all. I am certain, that so long as clipt Money is taken, there will be little other: And is it not strange, that scarce any Nation, or People in the whole World, take diminisht Money by Tale, but the English?
+There is great fear, that if clipt Money be not taken, there will be no Money at all. I am certain, that so long as clipt Money is taken, there will be little other: And is it not strange, that scarce any Nation, or People in the whole World, take diminisht Money by Tale, but the English?
 
 What is the reason that a New Half-crown-piece, if it hath the least snip taken from the edge, will not pass; whereas an Old Half-crown clipt to the very quick, and not intrinsically worth Eighteen Pence, shall be currant?
 
@@ -108,7 +108,7 @@ The general Opinion is, That it cannot be done otherwise, then by calling in of 
 
 For it will be a matter of great trouble, and will require many hands to execute, who will expect, and deserve good pay; which will add to the Evil, and increase the Charge of the Work; and the Trust of it, is also very great, and may be vastly abused.
 
-Now before I give any Opinion for the doing this thing, let some estimate be made of the loss, wherein I will not undertake Edition: current; Page: [32] to compute the Total, but only how the same may fall out in One Hundred Pound: There may be found in it Ten Pound of good New Money, then rests Ninety Pound; and of that I will suppose half to be clipt Money, and half good; so there will be but Five and Forty, in One Hundred Pounds, whereupon there will be any loss; and that will not surely be above a Third part: so I allow 15 l. per Cent. for the loss by clipt Money, which is with the most, and in such Computes, it is safest to err on that side.
+Now before I give any Opinion for the doing this thing, let some estimate be made of the loss, wherein I will not undertake to compute the Total, but only how the same may fall out in One Hundred Pound: There may be found in it Ten Pound of good New Money, then rests Ninety Pound; and of that I will suppose half to be clipt Money, and half good; so there will be but Five and Forty, in One Hundred Pounds, whereupon there will be any loss; and that will not surely be above a Third part: so I allow 15 l. per Cent. for the loss by clipt Money, which is with the most, and in such Computes, it is safest to err on that side.
 
 Now in case it should be thought fit, that the King should in all the Receipts of the Publick Revenue, forbid the taking of clipt Coyn, unless the Subject were content to pay it by weight at 5 s. 2 d. per Ounce, every Piece being cut in Two, (which must |21| be especially and effectually secured to be done) I grant it would be a great surprize, but no great cause of Complaint when nothing is required, but that the Publick Revenue may be paid in lawful English Money.
 
@@ -118,7 +118,7 @@ Now let us consider, where the loss would light, which I have estimated to be ab
 
 We are apt to make Over-estimates of the Quantities of current Money; for we see it often, and know it not again; and are not willing to consider how very a little time it stays in a place; and altho' every one desires to have it, yet none, or very few care for keeping it, but they are forthwith contriving to dispose it; knowing that from all the Money that lies dead, no benefit is to be expected, but it is a certain loss.
 
-The Merchant and Gentleman keep their Money for the most part, with Goldsmiths, and Scriveners; and they, instead of having Ten Thousand Pounds in Cash by them, as their Accounts shew they should have, of other Mens ready Money, to be paid at sight, have seldom One Thousand in Specie; but Edition: current; Page: [33] depend upon a course of Trade, whereby Money comes in as fast as it is taken out: Wherefore I conclude, that the Specifick Money of this Nation is far less than the common Opinion makes. |22|
+The Merchant and Gentleman keep their Money for the most part, with Goldsmiths, and Scriveners; and they, instead of having Ten Thousand Pounds in Cash by them, as their Accounts shew they should have, of other Mens ready Money, to be paid at sight, have seldom One Thousand in Specie; but depend upon a course of Trade, whereby Money comes in as fast as it is taken out: Wherefore I conclude, that the Specifick Money of this Nation is far less than the common Opinion makes. |22|
 
 Now suppose all the loss by clipt Money should happen and fall where the Cash is, it would be severe in very few Places. It could do no great harm to Hoards of Money; because those who intend to keep Money, will be sure to lay up that which is good. It would not signifie much to the poor Man, for he many times hath none; and for the most part, if he hath any, it is very little, seldome Five Shillings at a time. The Farmer is supposed to pay his Landlord, as fast as he gets Money; so it is not likely he should be catcht with much: Wherefore it will light chiefly upon Trading Men, who may sometimes be found with Hundreds by them; and frequently not with many Pounds. Those who happen to have such great Cashes at such time would sustain loss.
 

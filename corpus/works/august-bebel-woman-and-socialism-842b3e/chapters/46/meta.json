@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 46,
+  "chapter_title": "Chapter XVIII",
+  "chapter_slug": "46",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e844663-e40d-585b-a396-8515ddc84308",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2817,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch18.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+  "work_title": "Two Tactics of Social-Democracy in the Democratic Revolution",
+  "chapter_number": 13,
+  "chapter_title": "Will the Sweep of the Democratic Revolution be Diminished if the Bourgeoisie Recoils from it?",
+  "chapter_slug": "13-will-the-sweep-of-the-democratic-revolution-be-dim",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a72cac6f-ead5-540d-be26-e0eea0de7018",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3412,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ch12.htm"
+    }
+  ]
+}

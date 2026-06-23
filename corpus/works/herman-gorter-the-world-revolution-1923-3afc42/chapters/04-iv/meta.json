@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-the-world-revolution-1923-3afc42",
+  "work_title": "The World Revolution (1923)",
+  "chapter_number": 4,
+  "chapter_title": "IV",
+  "chapter_slug": "04-iv",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1b70b370-f4bd-5c5f-b478-72fcabba89a6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1993,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1923/world-revolution.htm"
+    }
+  ]
+}

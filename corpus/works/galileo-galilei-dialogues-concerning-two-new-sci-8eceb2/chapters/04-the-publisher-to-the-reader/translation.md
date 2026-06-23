@@ -4,7 +4,7 @@ work_slug: "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2"
 work_title: Dialogues Concerning Two New Sciences
 author_name: Galileo Galilei
 chapter_number: 4
-chapter_title: THE PUBLISHER TO THE READER
+chapter_title: The Publisher to the Reader
 chapter_slug: "04-the-publisher-to-the-reader"
 variant_id: "7ba5cd64-2536-5bd9-956c-457bd226aa23"
 content_type: translation

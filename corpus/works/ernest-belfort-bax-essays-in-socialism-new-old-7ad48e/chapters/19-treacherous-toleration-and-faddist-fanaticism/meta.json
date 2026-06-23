@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
+  "work_title": "Essays in Socialism: New & Old",
+  "chapter_number": 19,
+  "chapter_title": "Treacherous Toleration and Faddist Fanaticism",
+  "chapter_slug": "19-treacherous-toleration-and-faddist-fanaticism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ab1f2df-c815-519b-9110-28bcf0f834e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1582,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1900/01/toleration.htm"
+    }
+  ]
+}

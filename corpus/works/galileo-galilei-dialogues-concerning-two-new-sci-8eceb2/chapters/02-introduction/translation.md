@@ -4,7 +4,7 @@ work_slug: "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2"
 work_title: Dialogues Concerning Two New Sciences
 author_name: Galileo Galilei
 chapter_number: 2
-chapter_title: INTRODUCTION
+chapter_title: Introduction
 chapter_slug: "02-introduction"
 variant_id: "3dc7cd99-b579-5b0e-a530-d2a9e0021698"
 content_type: translation

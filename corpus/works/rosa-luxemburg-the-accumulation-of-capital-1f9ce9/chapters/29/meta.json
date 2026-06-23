@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-accumulation-of-capital-1f9ce9",
+  "work_title": "The Accumulation of Capital",
+  "chapter_number": 29,
+  "chapter_title": "Chapter 28: The Introduction of Commodity Economy",
+  "chapter_slug": "29",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b875c90a-ecab-55bc-bcd2-6a0abe4deb20",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2870,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch28.htm"
+    }
+  ]
+}

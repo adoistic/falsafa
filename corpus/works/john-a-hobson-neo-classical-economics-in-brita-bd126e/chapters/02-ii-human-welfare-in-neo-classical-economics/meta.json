@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-neo-classical-economics-in-brita-bd126e",
+  "work_title": "Neo-Classical Economics in Britain",
+  "chapter_number": 2,
+  "chapter_title": "II. Human Welfare in Neo-Classical Economics",
+  "chapter_slug": "02-ii-human-welfare-in-neo-classical-economics",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "91d74b48-8812-5279-bb4d-f586f521854f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10229,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1925/09/neoclass.htm"
+    }
+  ]
+}

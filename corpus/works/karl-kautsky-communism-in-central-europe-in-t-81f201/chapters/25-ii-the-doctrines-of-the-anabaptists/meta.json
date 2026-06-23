@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 25,
+  "chapter_title": "II. The Doctrines of the Anabaptists",
+  "chapter_slug": "25-ii-the-doctrines-of-the-anabaptists",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ea838e40-5edf-5340-a9d2-ff141f34e31a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3423,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch05.htm"
+    }
+  ]
+}

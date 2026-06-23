@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 37,
+  "chapter_title": "Chap. XV: A general View of the Principles to be attended to by a Statesman, who resolves to establish Trade and Industr",
+  "chapter_slug": "37-chap-xv-a-general-view-of-the-principles-to-be-att",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "16574d0a-1f8d-5448-adf1-1ceb5db156c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3929,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_13.htm"
+    }
+  ]
+}

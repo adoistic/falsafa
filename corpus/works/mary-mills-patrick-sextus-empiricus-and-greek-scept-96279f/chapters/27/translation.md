@@ -4,7 +4,7 @@ work_slug: "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f"
 work_title: Sextus Empiricus and Greek Scepticism
 author_name: Mary Mills Patrick
 chapter_number: 27
-chapter_title: Chapter XXVIII
+chapter_title: Chapter XXVII
 chapter_slug: 27
 variant_id: "ac794e7e-e83b-599d-9a2b-b90ec2a1c1fa"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 304
+word_count: 312
 source_url: "https://www.gutenberg.org/ebooks/17556"
 translator: Project Gutenberg edition
 ---
 
-*General Observations on the Formulae of the Sceptics.*
+_The Formula "To place an equal Statement in opposition to every Statement."_
 
-We have treated of a sufficient number of these formulae for 206 an outline, especially since what we have said about those mentioned applies also to others that we have omitted. In regard to all the Sceptical formulae, it must be understood in advance that we do not affirm them to be absolutely true, because we say that they can even refute themselves, since they are themselves included in those things to which they refer, just as cathartic medicines not only purge the body of humors, but carry off themselves with the humors. We say then that we use these 207 formulae, not as literally making known the things for which they are used, but loosely, and if one wishes, inaccurately. It is not fitting for the Sceptic to dispute about words, especially as it contributes to our purpose to say that these formulae have no absolute meaning; their meaning is a relative one, that is, relative to the Sceptics. Besides, it is to be 208 remembered that we do not say them about all things in general, but about the unknown, and things that are dogmatically investigated, and that we say what appears to us, and that we do not express ourselves decidedly about the nature of external objects. By this means I think that every sophism brought against the Sceptical formulae can be overturned. We have now 209 shown the character of Scepticism by examining its idea, its parts, its criterion and aim, and also the Tropes of [Greek: epoche], and by treating of the Sceptical formulae. We think it therefore appropriate to enter briefly into the distinction between Scepticism and the nearly related schools of philosophy in order to more clearly understand the Sceptical School. We will begin with the philosophy of Heraclitus.
+Furthermore, when we say "Every statement may have an equal 202 statement placed in opposition to it," by "every," we mean all the statements that we have examined; we do not use the word "statement" simply, but for a statement which seeks to prove something dogmatically about things that are unknown, and not at all one that shows a process of reasoning from premises and conclusions, but something which is put together in any sort of way. We use the word "equal" in reference to trustworthiness or untrustworthiness. "Is placed in opposition" we use instead of the common expression "to conflict with," and we supply "as it appears to me." When therefore one says, "It seems to me 203 that every statement which I have examined, which proves something dogmatically, may have another statement placed in opposition to it which also proves something dogmatically, and which is equal to it in trustworthiness and untrustworthiness," this is not asserted dogmatically, but is an expression of human feeling as it appears to the one who feels it. Some Sceptics 204 express the formula as follows: "Every statement should have an equal one placed in opposition to it," demanding it authoritatively thus: "Let us place in opposition to every statement that proves something dogmatically another conflicting statement which also seeks to prove something dogmatically, and is equal to it in trustworthiness and untrustworthiness." Naturally this is directed to the Sceptics, but the infinitive should be used instead of the imperative, that is, "to oppose" instead of "let us oppose." This formula is recommended to the 205 Sceptic, lest he should be deceived by the Dogmatists and give up his investigations, and rashly fail of the [Greek: ataraxia] which is thought to accompany [Greek: epoche] in regard to everything, as we have explained above.

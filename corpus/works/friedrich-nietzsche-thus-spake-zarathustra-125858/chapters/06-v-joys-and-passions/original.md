@@ -1,0 +1,71 @@
+---
+work_id: "125858cf-fea7-5292-b00d-5f4f6d6e46e4"
+work_slug: "friedrich-nietzsche-thus-spake-zarathustra-125858"
+work_title: Thus Spake Zarathustra
+author_name: Friedrich Nietzsche
+chapter_number: 6
+chapter_title: V. Joys and Passions.
+chapter_slug: "06-v-joys-and-passions"
+variant_id: "cf26ec7d-4e05-5bfd-9b48-09b8f0dd669e"
+content_type: original
+layout: prose
+language: German
+source_language: German
+language_direction: ltr
+script: latin
+word_count: 521
+source_url: "https://www.gutenberg.org/ebooks/7205"
+curator: thothica
+---
+
+Mein Bruder, wenn du eine Tugend hast, und es deine Tugend ist, so hast du sie mit Niemandem gemeinsam.
+
+Freilich, du willst sie bei Namen nennen und liebkosen; du willst sie am Ohre zupfen und Kurzweil mit ihr treiben.
+
+Und siehe! Nun hast du ihren Namen mit dem Volke gemeinsam und bist Volk und Heerde geworden mit deiner Tugend!
+
+Besser thätest du, zu sagen: „unaussprechbar ist und namenlos, was meiner Seele Qual und Süsse macht und auch noch der Hunger meiner Eingeweide ist.“
+
+Deine Tugend sei zu hoch für die Vertraulichkeit der Namen: und musst du von ihr reden, so schäme dich nicht, von ihr zu stammeln.
+
+So sprich und stammle: „Das ist *mein* Gutes, das liebe ich, so gefällt es mir ganz, so allein will ich das Gute.
+
+Nicht will ich es als eines Gottes Gesetz, nicht will ich es als eine Menschen-Satzung und -Nothdurft: kein Wegweiser sei es mir für Über-Erden und Paradiese.
+
+Eine irdische Tugend ist es, die ich liebe: wenig Klugheit ist darin und am wenigsten die Vernunft Aller.
+
+Aber dieser Vogel baute bei mir sich das Nest: darum liebe und herze ich ihn,—nun sitze er bei mir auf seinen goldnen Eiern.“
+
+So sollst du stammeln und deine Tugend loben.
+
+Einst hattest du Leidenschaften und nanntest sie böse. Aber jetzt hast du nur noch deine Tugenden: die wuchsen aus deinen Leidenschaften.
+
+Du legtest dein höchstes Ziel diesen Leidenschaften an’s Herz: da wurden sie deine Tugenden und Freudenschaften.
+
+Und ob du aus dem Geschlechte der Jähzornigen wärest oder aus dem der Wollüstigen oder der Glaubens-Wüthigen oder der Rachsüchtigen:
+
+Am Ende wurden alle deine Leidenschaften zu Tugenden und alle deine Teufel zu Engeln.
+
+Einst hattest du wilde Hunde in deinem Keller: aber am Ende verwandelten sie sich zu Vögeln und lieblichen Sängerinnen.
+
+Aus deinen Giften brautest du dir deinen Balsam; deine Kuh Trübsal melktest du, —nun trinkst du die süsse Milch ihres Euters.
+
+Und nichts Böses wächst mehr fürderhin aus dir, es sei denn das Böse, das aus dem Kampfe deiner Tugenden wächst.
+
+Mein Bruder, wenn du Glück hast, so hast du Eine Tugend und nicht mehr: so gehst du leichter über die Brücke.
+
+Auszeichnend ist es, viele Tugenden zu haben, aber ein schweres Loos; und Mancher gieng in die Wüste und tödtete sich, weil er müde war, Schlacht und Schlachtfeld von Tugenden zu sein.
+
+Mein Bruder, ist Krieg und Schlacht böse? Aber nothwendig ist diess Böse, nothwendig ist der Neid und das Misstrauen und die Verleumdung unter deinen Tugenden.
+
+Siehe, wie jede deiner Tugenden begehrlich ist nach dem Höchsten: sie will deinen ganzen Geist, dass er *ihr* Herold sei, sie will deine ganze Kraft in Zorn, Hass und Liebe.
+
+Eifersüchtig ist jede Tugend auf die andre, und ein furchtbares Ding ist Eifersucht. Auch Tugenden können an der Eifersucht zu Grunde gehn.
+
+Wen die Flamme der Eifersucht umringt, der wendet zuletzt, gleich dem Scorpione, gegen sich selber den vergifteten Stachel.
+
+Ach, mein Bruder, sahst du noch nie eine Tugend sich selber verleumden und erstechen?
+
+Der Mensch ist Etwas, das überwunden werden muss: und darum sollst du deine Tugenden lieben,—denn du wirst an ihnen zu Grunde gehn.—
+
+Also sprach Zarathustra.

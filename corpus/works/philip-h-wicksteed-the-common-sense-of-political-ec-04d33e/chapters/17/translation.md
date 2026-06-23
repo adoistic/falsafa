@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 17
-chapter_title: "CHAPTER IV: BUYER AND SELLER. DEMAND AND SUPPLY"
+chapter_title: "Chapter IV: Buyer and Seller. Demand and Supply"
 chapter_slug: 17
 variant_id: "e108023e-baee-5ef0-8ce8-4366f8be9714"
 content_type: translation

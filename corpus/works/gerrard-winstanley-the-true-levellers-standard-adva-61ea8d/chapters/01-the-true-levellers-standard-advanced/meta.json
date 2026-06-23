@@ -1,0 +1,26 @@
+{
+  "work_slug": "gerrard-winstanley-the-true-levellers-standard-adva-61ea8d",
+  "work_title": "The True Levellers Standard Advanced",
+  "chapter_number": 1,
+  "chapter_title": "The True Levellers Standard Advanced",
+  "chapter_slug": "01-the-true-levellers-standard-advanced",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a55b3753-1614-58b0-967a-8e0cda7bc4eb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6664,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/winstanley/1649/levellers-standard.htm"
+    }
+  ]
+}

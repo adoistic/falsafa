@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 39,
+  "chapter_title": "General Effects Displayed in the Case of Non-Settled Parishioners",
+  "chapter_slug": "39-general-effects-displayed-in-the-case-of-non-settl",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "567c6170-054c-539e-842a-fe24c9052549",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9615,
+      "paragraph_count": 80,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

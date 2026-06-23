@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 10,
+  "chapter_title": "The Two Investment Opportunity Principles, The Two Impatience Principles (2)",
+  "chapter_slug": "10-the-two-investment-opportunity-principles-the-two-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "694df3f4-05f6-5122-bc16-de973710d1db",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 176,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

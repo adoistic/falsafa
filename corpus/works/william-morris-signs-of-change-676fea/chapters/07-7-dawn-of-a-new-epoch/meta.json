@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-signs-of-change-676fea",
+  "work_title": "Signs of Change",
+  "chapter_number": 7,
+  "chapter_title": "7. Dawn of a New Epoch",
+  "chapter_slug": "07-7-dawn-of-a-new-epoch",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0f1e3afb-0cda-55e6-87ae-c192dd0203fa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7517,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1888/signs/chapters/chapter7.htm"
+    }
+  ]
+}

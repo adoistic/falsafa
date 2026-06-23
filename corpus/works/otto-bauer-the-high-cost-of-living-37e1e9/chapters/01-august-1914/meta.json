@@ -1,0 +1,26 @@
+{
+  "work_slug": "otto-bauer-the-high-cost-of-living-37e1e9",
+  "work_title": "The High Cost of Living",
+  "chapter_number": 1,
+  "chapter_title": "(August 1914)",
+  "chapter_slug": "01-august-1914",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "46a04390-5a2c-52e0-a441-880c0aef5ee4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 168,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bauer/1914/08/costliving.html"
+    }
+  ]
+}

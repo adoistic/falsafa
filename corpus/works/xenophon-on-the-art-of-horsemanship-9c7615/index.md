@@ -4,7 +4,10 @@ slug: "xenophon-on-the-art-of-horsemanship-9c7615"
 title: On the Art of Horsemanship
 author:
   name: Xenophon
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Athenian soldier, historian, and follower of Socrates who led the Greek mercenaries of the Anabasis out of Persia. His Hellenica, Socratic writings, and treatises on practical life preserve much of fourth-century Greek history and the memory of Socrates."
+  birth_year: -430
+  death_year: -354
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

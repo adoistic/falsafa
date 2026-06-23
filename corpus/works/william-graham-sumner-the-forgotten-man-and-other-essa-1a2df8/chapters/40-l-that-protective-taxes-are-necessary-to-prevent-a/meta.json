@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 40,
+  "chapter_title": "(L): That Protective Taxes are Necessary to Prevent a Foreign Monopoly from Getting Control op our Market.",
+  "chapter_slug": "40-l-that-protective-taxes-are-necessary-to-prevent-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7066690f-d239-52b8-90b0-7aaa292c96b0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 280,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-religion-of-socialism-b65d8b",
+  "work_title": "The Religion of Socialism",
+  "chapter_number": 13,
+  "chapter_title": "The Capitalist “Hearth”",
+  "chapter_slug": "13-the-capitalist-hearth",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d4f465d5-3ff4-5d72-ae1e-cae3df9c8d4c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3273,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1886/05/hearth.htm"
+    }
+  ]
+}

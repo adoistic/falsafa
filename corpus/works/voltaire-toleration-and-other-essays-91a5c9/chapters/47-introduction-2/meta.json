@@ -1,0 +1,26 @@
+{
+  "work_slug": "voltaire-toleration-and-other-essays-91a5c9",
+  "work_title": "Toleration and Other Essays",
+  "chapter_number": 47,
+  "chapter_title": "Introduction (2)",
+  "chapter_slug": "47-introduction-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7976ff93-2011-51dc-9034-f933081779b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 284,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+    }
+  ]
+}

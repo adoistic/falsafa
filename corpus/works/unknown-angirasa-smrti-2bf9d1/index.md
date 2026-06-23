@@ -2,10 +2,10 @@
 id: "2bf9d185-fab9-4e14-8c4f-84c42941a581"
 slug: "unknown-angirasa-smrti-2bf9d1"
 title: Āṅgirasa Smṛti
-author: Aṅgirasa
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Aṅgirasa
+  biography: A sage of the Hindu Dharmaśāstra tradition, to whom the Āṅgirasa Smṛti is ascribed. The text is a compilation in verse on law and right conduct, redacted over generations by unknown hands.
+  nationality: Indian
 era: Ancient
 genre: Indic
 language: Sanskrit

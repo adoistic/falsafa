@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-engels-the-condition-of-the-working-cla-2d9e0a",
+  "work_title": "The Condition of the Working Class in England",
+  "chapter_number": 12,
+  "chapter_title": "The Mining Proletariat",
+  "chapter_slug": "12-the-mining-proletariat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "765aaf18-a94e-516d-bbf4-2ff83cf97096",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7055,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch11.htm"
+    }
+  ]
+}

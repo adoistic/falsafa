@@ -4,7 +4,7 @@ work_slug: "adam-smith-lectures-on-justice-police-reven-aac5d2"
 work_title: Lectures on Justice, Police, Revenue, and Arms
 author_name: Adam Smith
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "a831daea-e7db-56e2-8ba7-003b60f8277b"
 content_type: translation

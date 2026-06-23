@@ -4,7 +4,7 @@ work_slug: "yves-guyot-the-tyranny-of-socialism-1e5c8b"
 work_title: The Tyranny of Socialism
 author_name: Yves Guyot
 chapter_number: 2
-chapter_title: AUTHOR’S PREFACE TO THE FIRST FRENCH EDITION.
+chapter_title: Author’s Preface to the First French Edition.
 chapter_slug: "02-author-s-preface-to-the-first-french-edition"
 variant_id: "0b8d1fb5-bc90-5f46-b3ea-c5e45beafbac"
 content_type: translation

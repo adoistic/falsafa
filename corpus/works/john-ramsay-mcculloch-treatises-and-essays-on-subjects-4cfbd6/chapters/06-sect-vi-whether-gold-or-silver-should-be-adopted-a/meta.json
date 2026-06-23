@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-treatises-and-essays-on-subjects-4cfbd6",
+  "work_title": "Treatises and Essays on Subjects Connected with Economic Policy",
+  "chapter_number": 6,
+  "chapter_title": "Sect. VI.—: Whether Gold or Silver should be adopted as the Standard of the Currency, or whether it should consist of bo",
+  "chapter_slug": "06-sect-vi-whether-gold-or-silver-should-be-adopted-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2de6fa41-2eb7-5158-8212-71f4c94a181a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1825,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853"
+    }
+  ]
+}

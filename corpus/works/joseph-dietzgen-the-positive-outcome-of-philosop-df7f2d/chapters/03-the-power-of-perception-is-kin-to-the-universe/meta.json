@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-the-positive-outcome-of-philosop-df7f2d",
+  "work_title": "The Positive Outcome of Philosophy",
+  "chapter_number": 3,
+  "chapter_title": "The Power of Perception Is Kin to the Universe",
+  "chapter_slug": "03-the-power-of-perception-is-kin-to-the-universe",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d24ad456-7068-5943-bffe-3d6eb6c3e416",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1512,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1887/positive-outcome/ch02.htm"
+    }
+  ]
+}

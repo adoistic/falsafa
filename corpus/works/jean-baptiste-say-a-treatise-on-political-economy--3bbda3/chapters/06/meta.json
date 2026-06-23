@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 6,
-  "chapter_title": "BOOK I, CHAPTER III: OF THE NATURE OF CAPITAL, AND THE MODE IN WHICH IT CONCURS IN THE BUSINESS OF PRODUCTION.",
+  "chapter_title": "Book I, Chapter V: On the Mode in Which Industry, Capital, and Natural Agents Unite in Production.",
   "chapter_slug": "06",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 703,
-      "paragraph_count": 9,
+      "word_count": 968,
+      "paragraph_count": 17,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

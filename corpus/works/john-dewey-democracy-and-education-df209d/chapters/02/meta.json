@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-dewey-democracy-and-education-df209d",
+  "work_title": "Democracy and Education",
+  "chapter_number": 2,
+  "chapter_title": "Chapter Two — Education as a Social Function",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5f62bc31-b3bc-555d-ab05-ae1001ce79b8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5124,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/852"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 37,
+  "chapter_title": "Part III.: Of Achristian Common-wealth, Chap. XXXII.: Of the Principles of Christian Politiques.",
+  "chapter_slug": "37",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "de601f66-5d73-5af0-8917-7e8f11f3cf49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1930,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

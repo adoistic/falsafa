@@ -1,0 +1,381 @@
+---
+work_id: "8baeaf4f-4cf0-5545-9c0f-6e805b178b42"
+work_slug: "james-steuart-an-inquiry-into-the-principles-o-8baeaf"
+work_title: An Inquiry into the Principles of Political Economy
+author_name: James Steuart
+chapter_number: 53
+chapter_title: Introduction (2)
+chapter_slug: "53-introduction-2"
+variant_id: "d9b438ff-cff7-5c89-9e7e-5ca1d806124a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 11571
+source_url: "https://www.marxists.org/reference/subject/economics/steuart/book3.htm"
+translator: Marxists Internet Archive edition
+---
+
+This book, which treats of money, contains such variety of matter, that I have found an advantage in dividing it into two parts. In the first, the principles are deduced and applied principally to the domestic circumstances of Great Britain in the year 1760, when this book was written. In the second, the interests of foreign trade, and state of coin in the two great commercial nations with whom we are in correspondence are taken in.
+
+In an inquiry like this, where, at almost every step, we find it branching out into new relations, which lead to different chains of consequences, it is of use to have recourse to every expedient for connecting the whole together.
+
+For this purpose, an introductory chapter at the beginning of a new subject seems necessary.
+
+The reader will have observed that the last chapters of the preceding book (those I mean which treat of the vibration of the balance of wealth and of circulation) have been written with a view to introduce the subject of money.
+
+I thought it better to anticipate some principles by connecting them directly with those of trade, than to introduce this part of my subject as a new treatise.
+
+The assistance our memory receives from such a distribution must compensate the inconvenience of a few repetitions.
+
+I have, in the last chapters of the second book here referred to, had occasion to mention, and slightly to point out some essential differences between coin and paper money. I have shewn the great usefulness of the latter in supporting circulation.
+
+Although, in giving the definition of paper money in the twenty-sixth chapter of the second book, I mentioned credit as being a term synonimous with it; yet this was done merely for the sake of simplifying our ideas: one of the best expedients for casting light upon an intricate subject. It is now requisite to point out the difference between them.
+
+Symbolical or paper money is but a species of credit: it is no more than the measure by which credit is reckoned. Credit is the basis of all contracts between men: few contracts can operate so instantaneously as not to leave some performance, or prestation, as the civilians call it, on one side or other, at least for a short time, in suspence. He therefore who fulfils his part, gives credit to the party who promises only to fulfil, and according to the variety of contracts, the nature of the prestations or performances, therein stipulated, and the security given for fulfilling what is not performed, credit assumes different forms, and communicates to us different ideas. Paper credit or symbolical money, on the other hand, is more simple. It is an obligation to pay the intrinsic value of certain denominations of money contained in the paper. Here then lies the difference between a payment made in coin, and another made in paper. He who pays in coin, puts the person to whom he pays in the real possession of what he owed; and this done, there is no more place for credit. He who pays in paper puts his creditor in possession only of another person's obligation to make that value good to him: here credit is necessary even after the payment is made.
+
+Some intrinsic value or other, therefore, must be found out to form the basis of paper money: for without this it is impossible to fix any determinate standard-worth for the denominations contained in the paper.
+
+I have found no branch of my subject so difficult to reduce to principles, as the doctrine of money: this difficulty, however, has not deterred me from undertaking it. It is of great consequence to a statesman to understand it thoroughly; and it is of the last importance to trade and credit, that the money of a nation be kept stable and invariable.
+
+To keep my ideas as distinct as the nature of this subject will admit, I have in the first part adhered to a deduction of general principles, taking by way of illustration, as I go along, the present state of the British currency.
+
+In the second part, I shall examine the effects of turning coin into a manufacture, by superadding the price of fabrication to its value; and point out the consequences of this additional combination upon exchange, and the interest of trading nations.
+
+The metals have so long performed the use of money, that money and coin are become almost synonimous, although in their principles they be quite different.
+
+The first thing therefore to be done in treating of money, is, to separate two ideas, which, by being blended together, have very greatly contributed to throw a cloud upon the whole subject. Money, which I call of account, is no more than an arbitrary scale of equal parts, invented for measuring the respective value of things vendible.
+
+Money of account therefore, is quite a different thing from money-coin, and might exist, although there was no such thing in the world as any substance, which could become an adequate and proportional equivalent for every commodity.
+
+The subject therefore of the first chapter shall be,
+
+1. To point out the principles which determine the value of things;
+
+2. The use of an invariable scale to measure their value;
+
+3. How the invention of money of account is exactly adapted for measuring the value on the one hand, and measuring the price on the other; and
+
+4. How it preserves itself invariable amidst all the fluctuations, not only of the value of things themselves, but of the metals which are commonly considered as the measures of their value.
+
+First, Money of account, which I shall here call money, performs the same office with regard to the value of things, that degrees, minutes, seconds, &c. do with regard to angles, or as scales do to geographical maps, or to plans of any kind.
+
+In all these inventions, there is constantly some denomination taken for the unit.
+
+In angles, it is the degree; in geography, it is the mile, or league; in plans, the foot, yard, or toise; in money, it is the pound, livre, florin, &c.
+
+The degree has no determinate length, so neither has that part of the scale upon plans which marks the unit: the usefulness of all those inventions being solely confined to the marking of proportion.
+
+Just so the unit in money can have no invariable determinate proportion to any part of value, that is to say, it cannot be fixed to perpetuity to any particular quantity of gold, silver, or any other commodity whatsoever.
+
+But it may be ascertained for a time, and then we can, by multiplying it, ascend to the greatest value; and when we descend below the subaltern divisions of this unit, we have the assistance of measures and weights, which render the operation easy. Thus in England, where a farthing is the lowest denomination of money, the grains of wheat are bought by measure, and cherries by the pound.
+
+II. The value of things depends upon many circumstances, which however may be reduced to four principal heads:
+
+First, The abundance of the things to be valued.
+
+Secondly, The demand which mankind make for them.
+
+Thirdly, The competition between the demanders; and
+
+Fourthly, The extent of the faculties of the demanders.
+
+The function therefore of money is to publish and make known the value of things, as it is regulated by the combination of all these circumstances.
+
+This proposition I think is self-evident, and it is susceptible of a thousand proofs; I shall mention only one.
+
+Were there a determinate proportion between certain quantities of gold and silver, and certain quantities of other things vendible, I do not see how prices could vary while the proportion of quantity to quantity between metals and things remained the same.
+
+But if the desires of men to possess any particular commodity and the competition between them to acquire it be capable to raise a thing, formerly of the lowest value, to any height, and if the absence of these circumstances can debase a thing formerly of great value, to the lowest rate, is it not evident, that the price, that is, the gold and silver people possess (even allowing that it may upon many occasions promote a competition among them) can never be the measure of their fancies or caprices, which are what constitutes the value of things.
+
+Substances are valued either according to their weight, their superficial measure, the measure of their bulk, or by the piece. These may be considered as the four classes of vendible corporeal commodities.
+
+All the species of each class according to their different qualities of goodness, may be reduced to a proportion of value. A pound of gold, of lead, of different grains, of different butters, or of what you will, valued by the pound, may at any precise time, be reduced to a scale of proportional values, which the wants, demands, competition and faculties of buyers and sellers, keep in a perpetual fluctuation.
+
+As far therefore, as an increase of the metals and coin shall produce an increase of demand, and a greater competition than before, so far will this circumstance influence the rise of prices, and no farther.
+
+The value of commodities therefore, depending upon circumstances relative to themselves and to the fancies of men, their value ought to be considered as changing with respect to one another only: consequently, any thing which troubles or perplexes the ascertaining these changes of proportion by the means of a general, determinate and invariable scale, must be hurtful to trade, and a clog upon alienation. This trouble and perplexity is the infallible consequence of every vice in the policy of money or of coin.
+
+III. It may here be demanded what necessity there is to have recourse to such a metaphysical deduction upon so familiar a subject. Do we not see every where that things are valued by silver and gold coin, and that there is no occasion to reject them at this time, in order to introduce an imaginary scale.
+
+I answer, that nothing but necessity obliges me to introduce this imaginary scale, and that not with any intention to reject the service of the metals in performing the office of a measure, but as an assistance to our understanding for comprehending the doctrine of money, and for rightly distinguishing the ideas which are daily proposed to us by those who write and speak concerning its theory.
+
+Could gold and silver coin exactly perform the office of money, it would be absurd to introduce any other measure of value; but there are moral and physical incapacities in the metals, which prevent their performing the function of a scale: and the common opinion being, that there are no such incapacities, makes it necessary to expose them in the clearest light, by shewing the exact difference between price (that is coin) considered as a measure, and price considered as an equivalent for value.
+
+The inconsistencies which follow, when we depend blindly upon the infallibility of the metal's discharging this double office, tend to confound the whole system of our ideas concerning those matters.
+
+The moral as well as physical incapacities inherent in the metals, which prevent their performing exactly the office of money, shall be afterwards pointed out. I must at present explain a little farther the nature of ideal money.
+
+IV. Money, strictly and philosophically speaking, is, as has been said, an ideal scale of equal parts. If it be demanded what ought to be the standard value of one part? I answer, by putting another question; What is the standard length of a degree, a minute, a second?
+
+It has none, and there is no necessity of its having any other than what by convention mankind think fit to give it. But so soon as one part becomes determined, by the nature of a scale, all the rest must follow in proportion.
+
+The first step being perfectly arbitrary, people may adjust one or more of those parts to a precise quantity of the precious metals; and so soon as this is done, and that money becomes realized, as it were, in gold and silver, then it acquires a new definition: it then becomes the price, as well as the measure of value.
+
+It does not follow from this adjusting of the metals to the scale of value, that they themselves should therefore become the scale, as any one must readily perceive.
+
+But in former times, before the introduction of commerce, when mankind had less occasion to measure value with a scrupulous exactness, the permanent nature of the metals rendered them sufficiently correct, both to serve as the scale, and as the price in every alienation. Since the introduction of commerce, nations have learned the importance of reducing their respective interests and debts, to the nicest equations of value; and this has pointed out the inconvenience of admitting the metals, as formerly, to serve both as the measure and the price in such operations.
+
+Just so geographers and astronomers were long of opinion, that a degree of the equator was a determinate length to measure every degree of latitude upon the globe.
+
+They then considered the earth as a sphere, and no great inconveniency was found to result from this supposition. But as accuracy made a progress, this measure was found to be incorrect. Degrees of latitude are now found to be of different lengths in different climates; and perhaps in time it will be found that no two degrees of any great circle described upon the globe, are in a geometrical equality.
+
+That money, therefore, which constantly preserves an equal value, which poises itself, as it were, in a just equilibrium between the fluctuating proportion of the value of things, is the only permanent and equal scale, by which value can be measured.
+
+Of this kind of money, and of the possibility of establishing it, we have two examples: the first, among one of the most knowing; the second, among the most ignorant nations of the world. The Bank of Amsterdam presents us with the one, the coast of Angola with the other.
+
+A florin banco has a more determinate value than a pound of fine gold, or silver; it is an unit which the invention of men, instructed in the arts of commerce, have found out.
+
+This bank money stands invariable like a rock in the sea. According to this ideal standard are the prices of all things regulated; and very few people can tell exactly what it depends upon. The precious metals with their intrinsic value, vary with regard to this common measure, like every other thing. A pound of gold, a pound of silver, a thousand guineas, a thousand crowns, a thousand piastres, or a thousand ducats, are sometimes worth more, sometimes worth less of this invariable standard; according as the proportion of the metals of which they are made vary between themselves.
+
+No adulterations in the weight, fineness, or denominations of coin have any effect upon bank money. These currencies which the bank looks upon as merchandise, like every other thing, are either worth more or less bank money, according to the actual value of the metals they are made of. All is merchandise with respect to this standard; consequently, it stands unrivalled in the exercise of its function of a common measure.
+
+The second example is found among the savages upon the African coast of Angola, where there is no real money known. The inhabitants there reckon by macoutes; and in some places this denomination is subdivided into decimals, called pieces. One macoute is equal to ten pieces. This is just a scale of equal parts for estimating the trucks they make. If a sheep, e.g. be worth 10 macoutes, an ox may be worth 40, and a handful of gold dust 1000.
+
+Money of account, therefore, cannot be fixed to any material substance, the value of which may vary with respect to other things. The operations of trade, and the effects of an universal circulation of value, over the commercial world, can alone adjust the fluctuating value of all kinds of merchandise, to this invariable standard. This is a representation of the bank money of Amsterdam, which may at all times be most accurately specified in a determinate weight of silver and gold; but which can never be tied down to that precise weight for twenty-four hours, any more than to a barrel of herrings.
+
+From the infancy of the world, at least as far back as our accounts of the transactions of mankind reach, we find they had adopted the precious metals, that is silver and gold, as the common measure of value, and as the adequate equivalent for every thing alienable.
+
+The metals are admirably adapted for this purpose; they are perfectly homogeneous: When pure, their masses, or bulks, are exactly in proportion to their weights: No physical difference can be found between two pounds of gold, or silver, let them be the production of the nines of Europe, Asia, Africa, or America: they are perfectly malleable, fusible, and suffer the most exact division which human art is capable to give them: They are capable of being mixed with one another, as well as with metals of a baser, that is, of a less homogeneous nature, such as copper. By this mixture they spread themselves uniformly it be through the whole of the compound mass, so that every atom of comes proportionally possessed of a share of this noble mixture; by which means the subdivision of the precious metals is rendered very extensive.
+
+Their physical qualities are invariable; they lose nothing by keeping; they are solid and durable; and though their parts are separated by friction, like every other thing, yet still they are of the number of those which suffer least by it.
+
+If money, therefore, can be made of any thing, that is, if the proportional value of things vendible can be measured by any thing material, it may be measured by the metals.
+
+II. The two metals being pitched upon as the most proper substances for realizing the ideal scale of money, those who undertake the operation of adjusting a standard must constantly keep in their eye the nature and qualities of a scale, as well as the principles upon which it is formed.
+
+The unit of the scale must constantly be the same, although realized in the metals, or the whole operation fails in the most essential part. This realizing the unit is like adjusting a pair of compasses to a geometrical scale, where the smallest deviation from the exact opening once given must occasion an incorrect measure. The metals, therefore, are to money what a pair of compasses is to a geometrical scale.
+
+This operation of adjusting the metals to the money of account, implies an exact and determinate proportion of both metals to the money-unit, realized in all the species and denominations of coin, adjusted to this standard.
+
+The smallest particle of either metal added to, or taken away from any coin, which represents certain determinate parts of the scale, overturns the whole system of material money. And if, notwithstanding such variation, these coins continue to bear the same denominations as before, this will as effectually destroy their usefulness in measuring the value of things, as it would overturn the usefulness of a pair of compasses, to suffer the opening to vary, after it is adjusted to the scale representing feet, toises, miles, or leagues, by which the distances upon the plan are to be measured.
+
+III. Debasing the standard is a good term; because it conveys a clear and distinct idea. It is diminishing the weight of the pure metal contained in that denomination by which a nation reckons, and which we have called the money-unit. Raising the standard requires no farther definition, being the direct contrary.
+
+IV. Altering the standard (that is raising or debasing the value of the money-unit) is like altering the national measures or weights. This is best discovered by comparing the thing altered with things of the same nature which have suffered no alteration. Thus if the foot of measure was altered at once over all England, by adding to it, or taking from it, any proportional part of its standard length, the alteration would be best discovered, by comparing the new foot with that of Paris, or of any other country, which had suffered no alteration. Just so, if the pound sterling which is the English unit, shall be found any how changed, and if the variation it has met with be difficult to ascertain, because of a complication of circumstances, the best way to discover it will be to compare the former and the present value of it with the money of other nations which has suffered no variation. This the course of exchange will perform with the greatest exactness.
+
+V. Artists pretend, that the precious metals, when absolutely pure from any mixture, are not of sufficient hardness to constitute a solid and lasting coin. They are found also in the mines mixed with other metals of a baser nature, and the bringing them to a state of perfect purity occasions an unnecessary expence. To avoid, therefore, the inconvenience of employing them in all their purity, people have adopted the expedient of mixing them with a determinate proportion of other metals, which hurts neither their fusibility, malleability, beauty, or lustre. This metal is called alloy, and being considered merely as a support to the principal metal, is accounted of no value in itself. So that eleven ounces of gold, when mixed with one ounce of silver, acquires, by that addition, no augmentation of value whatever.
+
+This being the case, we shall, in speaking of money, overlook, as much as possible, the existence of alloy, in order to render language less subject to ambiguity. I must except such cases, where the considering the mass of the compound metal, according to its weight, can be accompanied with no inconvenience.
+
+Were there but one species of such a substance as we have represented gold and silver to be: were there but one metal possessing the qualities of purity, divisibility, and durability: the inconveniences in the use of it for money would be fewer by far than they are found to be as matters stand.
+
+Such a metal might then, by an unlimited division into parts exactly equal, be made to serve as a tolerably steady and universal measure. But the rivalship between the metals, and the perfect equality which is found between all their physical qualities, so far as regards purity, and divisibility, render them so equally well adapted to serve as the common measure of value, that they are universally admitted to pass current as money.
+
+What is the consequence of this? That the one measures the value of the other, as well as that of every other thing. Now the moment any measure begins to be measured by another, the proportion of which to it is not physically, perpetually, and invariably the same, all the usefulness of such a measure is lost. An example will make this plain.
+
+A foot of measure is a determinate length. An English foot may be compared with the Paris foot, or with that of the Rhine; that is to say, it may be measured by them; and the proportion between their lengths may be expressed in numbers; which proportion will be the same perpetually. The measuring the one by the other will occasion no uncertainty; and we may speak of lengths by Paris feet, and be perfectly well understood by others who are used to measure by the English foot, or by the foot of the Rhine.
+
+But suppose that a youth of twelve years old should take it into his head to measure from time to time, as he advances in age, by the length of his own foot, and that he should divide this growing foot into inches and decimals: what could be learned from his account of measures? As he increases in years, his foot, its inches, and subdivisions, will lengthen gradually; and were every man to follow his example, and measure by his own foot, then the foot of measure now established would totally cease to be of any utility.
+
+This is just the case with the two metals. There is no determinate invariable proportion between their value; and the consequence of this is, that when they are both taken for measuring the value of other things, the things to be measured, like the lengths to be measured by the young man's foot, without changing their relative proportion between themselves, change however with respect to the denominations of both their measures. An example will make this plain.
+
+Let us suppose an ox to be worth three thousand pounds weight of wheat, and the one and the other to be worth an ounce of gold, and the ounce of gold to be worth exactly fifteen ounces of silver: if the case should happen, that the proportional value between gold and silver should come to be as 14 is to 1, would not the ox, and consequently the wheat, be estimated at less in silver, and more in gold, than formerly? I ask farther, if it would be in the power of any state to prevent this variation in the measure of the value of oxen and wheat, without putting into the unit of their money less silver and more gold than formerly?
+
+If therefore any particular state should fix the standard of the unit of their money to one species of the metals, while in fact both the one and the other are actually employed in measuring value; would not such a state resemble the young man, who measures all by his growing foot? For, if silver, for example, be retained as the standard, while it is gaining upon gold one fifteenth additional value; and if gold continue all the while to determine the value of things as well as silver, it is plain that, to all intents and purposes, this silver measure is lengthening daily, like the young man's foot, since the same weight of it must become every day equivalent to more and more of the same commodity; notwithstanding we suppose the same proportion to subsist, without the least variation between this commodity and every other species of things alienable.
+
+After having exposed the matter in this light, I think it can hardly, with reason, be urged, that notwithstanding it be admitted that gold and silver may change their proportion of value with regard to one another, yet still this does not prevent silver from remaining the standard, without any inconvenience; for the following reasons.
+
+First, Because, when it is considered as a standard, it never ought to be looked upon as changing its value with regard to gold; but that gold ought to be considered as changing its value with regard to silver.
+
+Secondly, Because being the measure itself, it is absurd to consider it as the thing measured; that therefore it retains all the requisites of an invariable scale; since it measures all things according to the proportion they bear to itself, which physically can never vary. And,
+
+Thirdly, That a person who has borrowed a certain weight of silver from another, is obliged to repay the same weight of silver he had borrowed; although at that time silver should be of greater value than when he borrowed it.
+
+I answer to the first argument: That if in fact silver should become of more or less value with respect to merchandize, with respect to gold, and with respect to bank money, by there being a greater or less demand for it than there was before; I cannot see how calling it a standard, can remove this inconvenience, which is inseparable from the nature of the thing; nor how we can change a matter of fact, by changing our language, and by saying, that merchandize, gold, and bank money, become of more value, or of less value, with respect to silver, in proportion as the demand for them is greater or less. This language we must use, although we know for certain that these things remain in the exact relative proportion of quantity and demand as before: And although it should evidently appear, that a demand for silver has raised the price of it, with respect to every thing it measured the day before.
+
+If the yard in a mercer's shop should be subject to such revolutions, in consequence of the wood it was made of; and if in measuring a piece of stuff to a customer, which the mercer had bought by this yard the day before for 50 yards, he should find the piece measure but 40, it would not be easy to persuade him, I believe, that his piece was become shorter; but suppose he should have the curiosity to measure over again all the pieces in his shop, and that he should find exactly one fifth diminution upon the length of every one, would he not very rationally conclude that his yard was grown longer, and would he not run immediately to his neighbour's shop and compare it?
+
+As to the second argument, I agree that silver may at all times very exactly measure the value of things with respect to itself; but this gives us no idea of an universal measure.
+
+I can measure the proportion of the length of things, with any rod or with any line, the length of which I know nothing about; but no body calls this measuring, because I cannot compare the things measured, with any other thing which I have not measured with the same rod or line, as I might easily do, had I measured with a foot, yard, or toise; consequently the intention of measuring in such a case is almost entirely lost.
+
+To the third argument, I answer, that I subscribe very willingly to the truth of that proposition; provided that by silver is understood the bare measure, without attending to its additional quality of the universal standard measure of value. But if I borrow the silver not as bullion, but as coin (the common measure of value), then I say, that I overpay in giving back the same weight I had received. Is there any thing more familiar than such examples? I borrow 100 l. from my neighbour, he proposes to give so much of the value in grain; I accept. The price of grain rises about the term of payment; can I be obliged to repay an equal quantity of grain in payment of a proportional part of what I owe? By no means; because I did not receive the grain as any thing but as a species of money. But if I borrow some quarters of grain to be repaid in harvest, then I am obliged to restore grain for grain, because in this case I did not receive the grain as money, but as a commodity.
+
+Buying and selling are purely conventional, and no man is obliged to give his merchandize at what may be supposed to be the proportion of its worth. The use, therefore, of an universal measure, is, to mark, not only the relative value of the things to which it is applied as a measure, but to discover in an instant the proportion between the value of these, and of every other commodity valued by a determinate measure in all the countries of the world.
+
+Were pounds sterling, livres, florins, piastres, &c. which are all money of account, invariable in their values, what a facility would it produce in all conversions, what an assistance to trade! But as they are all limited or fixed to coins, and consequently vary from time to time, this example shews the utility of the invariable measure which we have described.
+
+There is another circumstance which incapacitates the metals from performing the office of money. the substance of which the coin is made, is a commodity, which rises and sinks in its value with respect to other commodities, according to the wants, competition, and caprices of mankind. The advantage, therefore, found in putting intrinsic value into that substance which performs the function of money of account, is compensated by the instability of that intrinsic value; and the advantage obtained by the stability of paper, or symbolical money, is compensated by the defect it commonly has of not being at all times susceptible of realization into solid property, or intrinsic value.
+
+In order, therefore, to render material money more perfect, this quality of metal, that is of a commodity, should be taken from it; and in order to render paper money more perfect, it ought to be made to circulate upon metallic or land security. The expedient with regard to the metals shall find a place in this inquiry (in the chapter of miscellaneous questions at the end of this book, article 4th). What regards the paper is foreign to our purpose, and belongs to the doctrine of credit.
+
+II. There are several smaller inconveniences accompanying the use of the metals, which we shall here shortly enumerate, reserving the discussion of all the consequences they draw along with them, until we come to consider the operations of trade and money, upon the complicated interests of mankind.
+
+First, No money made of gold or silver can circulate long, without losing its weight, although it all along preserves the same denomination. This represents the contracting a pair of compasses which had been rightly adjusted to the scale. Such a defect must appear striking, when we reflect upon the principles (already laid down) which necessarily influence the fixing of a standard.
+
+Secondly, Another inconvenience proceeds from the fabrication of money. Supposing the faith of Princes who coin money to be inviolable, and the probity, as well as capacity, of those to whom they commit the inspection of the fineness of the metals to be sufficient, it is hardly possible for workmen to render every piece exactly of a proper weight, or to preserve the due proportion between pieces of different denominations; that is to say, to make every ten six-pences exactly of the same weight with every crown piece and with every five shillings struck in a coinage. In proportion to such inaccuracies, the parts of the scale become unequal.
+
+Thirdly, Another inconvenience, and far from being inconsiderable, flows from the expence requisite for the coining of money. This expence adds to its value as a manufacture, without adding any thing to its weight. I shall take notice, in the proper place, of the consequences which attend this inconvenience, even to nations where coinage is free.
+
+Fourthly, The last inconvenience I shall mention, is, that by fixing the money of account entirely to the coin, without having any independent common measure (to mark and control these deviations from mathematical exactness, which are either inseparable from the metals themselves, or from the fabrication of them) the whole measure of value, and all the relative interests of debtors and creditors, become at the disposal not only of workmen in the mint, of Jews who deal in money, of clippers and washers of coin, but they are also entirely at the mercy of Princes, who have the right of coinage, and who have frequently also the right of raising or debasing the standard of the coin, according as they find it most for their present and temporary interest.
+
+Several of the inconveniences we have here enumerated, may appear trifling, and so they are found to be in countries where commerce is little known; but the operations of trade surpass in nicety the conceptions of any man but a merchant; and as a proof of this, it may be affirmed with truth, that one shilling can hardly lose a grain of its weight, either by fraud or circulation, without contributing, by that circumstance, towards the diminution of the standard value of the money-unit, or pound sterling, over all England, as I hope to be able to shew both by reason and facts.
+
+All and every one of these inconveniences to which coin is exposed, disappear in counties where the use of pure ideal money of account is properly established.
+
+In this chapter, I shall point out the methods which may be proposed for lessening the inconveniences to which all coin is liable, in order thereby to make it resemble as much as possible the invariable scale of ideal money of accompt.
+
+To propose the throwing out of coin altogether, because it is liable to inconveniences, and the reducing all to an ideal standard, is acting like the tyrant who adjusted every man's length to that of his own bed, cutting from the length of those who were taller than himself, and racking and stretching the limbs of such as he found to be of a lower stature. The use of theory in political matters is not merely to discover the methods of removing all abuses, it must also lend its aid towards palliating inconveniences which are not easily cured.
+
+The inconveniences from the variation in the relative value of the metals to one another, may in some measure be obviated by the following expedients.
+
+First, By considering one only as the standard and leaving the other to seek its own value, like any other commodity.
+
+Secondly, By considering one only as the standard, and fixing the value of the other from time to time by authority, according as the market price of the metals shall vary.
+
+Thirdly, By fixing the standard of the unit according to the mean proportion of the metals, attaching it to neither; regulating the coin accordingly; and upon every considerable variation in the proportion between them, either to make a new coinage, or to raise the denomination of one of the species, and lower it in the other, in order to preserve the unit exactly in the mean proportion between the gold and silver.
+
+In order to explain this thought, let me observe, that the consequence of every variation in the proportion between the value of gold and silver, has this effect; namely, that the same weight of silver acquires upon every change a different value in gold, from what it had before; and the same weight of gold acquires, upon the change, a different value in silver from what it had before. Let me illustrate this by an example.
+
+Suppose, then, the value of gold to be to the value of silver, as 1 to 14. Then 100 grains of gold will be worth 1400 grains of silver.
+
+Suppose, that next year, the proportion shall change, and that it shall come to be as 1 to 15; then 100 grains of gold will be worth 1500 grains of silver.
+
+Here then, are two different values in silver for the same quantity of gold, namely at one time 100 grains gold = 1400 grains silver; at another time 100 ditto = 1500 ditto. Add these two quantities of silver together, they make 2900 grains. Take one half of the sum, or 1450. This I call the mean proportion of the silver. On the other hand, as to the gold;
+
+1400 grs silver at one time are worth.... 100 grs of gold 1400 grs ditto at another time are worth... 93 1/3 1400 or....
+
+together 193 1/3, one half of which is 96 2/3 grs. or the mean proportion of gold.
+
+Supposing, therefore, the unit to have been determined at 100 grs of gold, and at 1400 grains of silver, as soon as the proportion comes to 15 it must be changed to 93 5/6 grs of gold, and to 1450 grs of silver.
+
+This shall be fully explained and the usefulness of it pointed out in the XIIIth and XVth Chapters.
+
+Fourthly, To have two units, and two standards, one of gold, and one of silver, and to allow every body to stipulate in either.
+
+Fifthly, Or last of all, to oblige all debtors to pay, when required, one half in gold and one half in the silver standard.
+
+I have here proposed the attaching the standard to one of the species, as a remedy against the effects of variation between the metals, because when this is done, the consequences are not so hurtful as when the unit is affixed to both, as I shall prove in its proper place.
+
+The regulating the proportion of that metal, which is considered as merchandize, to the other which is considered as the standard, upon every variation in the market price of bullion, as well as the other expedient, of establishing two units, the one of gold, and the other of silver, does not render the unit of money any more invariable than before; all that can be said for this expedient, is, that money becomes thereby more determinate, and that people who enter into permanent contracts are, at least, apprised of the consequences of the varying of the proportion of the metals, and may regulate their interests accordingly.
+
+Fixing the standard to the mean proportion of the metals, is a certain method of preserving the value of the unit invariably in time to come; but upon subsequent variations in the proportion, it implies either the necessity of a recoinage, or of changing the denominations of the coin, by which fractions of farthings, deniers and other such small denominations will be incurred, unless such a duty upon coinage be imposed, as may raise the value of the coins above that of common bullion, beyond the value of such fractions of farthings, &c., which then may be thrown out. Example upon changing the denomination of a shilling; supposing the exact proportion of its new denomination should be 12 28d.; the legal denomination may be made 12 1/4 which is 12 25d. and the three additional hundredth parts of a penny may be neglected; because the duty on coinage will give an advanced value to the shilling price, beyond the three hundredth part of one penny; which, as a metal, it will have more than in proportion to its denomination.
+
+The last expedient of making debtors pay half in gold and half in silver, would remove every inconvenience, provided that a similar regulation were made at the mint and at the Bank of England, appointing all bullion to be delivered in both species at the Mint; and all payments to be made in both species at the Bank: and also provided that the same regulation should be observed in all bargains of sale, as often only as required. This would so blend the value of the two metals together, as to make them virtually but one.
+
+II. The other imperfections of coin have been already enumerated. They relate either to its wear, to the want of exactness in the fabrication, to the price of coinage, or to the opportunity thereby afforded to princes to adulterate and change the standard.
+
+First, As to the first the best expedients are, to strike the greatest part of the coin in large solid pieces, having as little surface as possible, consistently with beauty and ease of fabrication.
+
+To order large sums (of silver at least) to circulate in bags of determinate sums, and determinate weights, all in pieces of the larger denominations.
+
+And to make all light coin whatsoever go by weight, upon the requisition of the person who is to receive it.
+
+Secondly, As to the inaccuracy of the fabrication, there is no other remedy than a strict attention in government to a matter of so great consequence.
+
+Thirdly, The price of coinage principally affects the interest of nations with regard to foreign trade; consequently, trading states should endeavour, as nearly as possible, to observe the same regulations with their neighbours, in every thing which regards the coin. The consequence of this inconvenience to those within the society is unavoidable, and therefore no remedy can be proposed.
+
+Fourthly, The establishment of public credit is the best security against all adulterations of the standard. No fundamental law can bind up a prince's hands so effectually as his own interest. While a Prince lives within his income, he will have no occasion to adulterate the coin; when he exceeds it, he will (in a trading nation) have recourse to credit, and if once he establish this, he must give over meddling with the standard of his coin, or he will get no body to lend him any more. The only Prince who can gain by adulterating the standard, is he who seeks for extraordinary supplies out of a treasure already formed.
+
+These are, briefly, the expedients to be put in practice by those governments which have the prosperity of their subjects at heart. The infinite variety of circumstances relating to every state can alone decide as to those which are respectively proper to be adopted by each. Our business at present is to point out the variations to which the value of the money-unit is exposed, from every disorder in the coin; and to shew that as far as the value of the unit shall be affected by them, so far must material money in such a case be defective.
+
+Let us suppose, at present, the only disorder to consist in a want of the due proportion between the gold and silver in the coin.
+
+This proportion can be established by the market price of the metals only. because an augmentation and rise in the demand for gold or silver has the effect of augmenting the value of the metal demanded. Let us suppose that to-day one pound of gold may buy fifteen pounds of silver; if to-morrow there be a high demand for silver, a competition among merchants, to have silver for gold, will ensue, they will contend who shall get the silver at the rate of fifteen pounds for one of gold: this will rise the price of it, and in proportion to their views of profit, some will accept of less than the fifteen pounds. This is plainly a rise in the silver, more properly than a fall in the gold; because it is the competition for the silver which has occasioned the variation in the former proportion between the metals. Had the competition for gold carried the proportion above 1 to 15, I should then have said that the gold had risen.
+
+As it is, therefore, the active demand for either gold or silver, which makes the price of the metals to vary, I think language would be more correct (in speaking concerning the metals only) never to mention the sinking of the price of either gold or silver. As to every other merchandize, the expression is very proper; because the diminishing of the price of one commodity, does not so essentially imply the rise of any other, as the sinking of one of the metals must imply the rising of the other, since they are the only measures of one another's worth. I would not be here understood to mean that the term sinking of the price of gold or silver is improper; all I say is, that the other being equally proper, and conveying with it the cause of the variation (to wit, the competition to acquire one metal preferably to the other), may be preferred, and this the rather, that from using these terms promiscuously (gold has fallen, instead of silver has risen) we are apt to believe, that the falling of the price of the metal, must proceed from some augmentation of the quantity of it; whereas it commonly proceeds from no other cause than a higher demand than formerly for the other.
+
+Let us now suppose that a state having, with great exactness, examined the proportion of the metals in the market, and having determined the precise quantity of each for realizing or representing the money-unit, should execute a most exact coinage of gold and silver coin. As long as this proportion continues unvaried in the market, no inconvenience can result from that quarter, in making use of the metals for money of account.
+
+But let us suppose the proportion to change; that the silver, for example, should rise in its value with regard to gold; will it not follow, from that moment, that the unit realized in the silver, will become of more value than the unit realized in the gold coin.
+
+But as the law has ordered them to pass as equivalents for one another and as debtors have always the option of paying in what legal coin they think fit, will they not all choose to pay in gold, and will not then the silver coin be melted down or exported, in order to be sold as bullion, above the value it bears when it circulates in coin? Will not this paying in gold also really diminish the value of the money-unit, since upon this variation every thing must sell for more gold than before, as we have already observed?
+
+Consequently, merchandize which has not varied in its relative value to any other thing but to gold and silver, must be measured by the mean proportion of the metals, and the application of any other measure to it is altering the standard. If it is measured by the gold, the standard is debased; if by silver, it is raised, as shall presently be proved.
+
+If, to prevent the inconvenience of melting down the silver, the state should give up affixing the value of their unit to both species at once, and should fix it to one, leaving the other to seek its price as any other commodity, in this case no doubt the melting down of the coin will be prevented; but will this ever restore the value of the money-unit to its former standard? Would it, for example, in the foregoing supposition, raise the debased value of the money-unit in the gold coin, if this species were declared to be the standard? It would indeed render silver coin purely a merchandise, and by allowing it to seek its value, would certainly prevent it from being melted down as before; because the pieces would rise conventionally in their denomination; or an agio, as it is called, would be taken in payments made in silver; but the gold would not, on that account, rise in its value, or begin to purchase any more merchandise than before. Were therefore the standard fixed to the gold, would not this be an arbitrary and a violent change in the value of the money-unit, and a debasement of the standard?
+
+If, on the other hand, the state should fix the standard to the silver, which we suppose to have risen in its value, would this ever sink the advanced value which the silver coin had gained above the worth of the former standard unit, and would not this be a violent and an arbitrary change in the value of the money-unit, and a raising of the standard?
+
+The only expedient, therefore, as has been said, is in such a case to fix the numerary unit to neither of the metals, but to contrive a way to make it fluctuate in a mean proportion between them; which is in effect the introduction of a pure ideal money of account. This shall be farther explained as we go along.
+
+I have one observation only to make in this place, to wit, that the regulation of fixing the unit by the mean proportion, ought to take place at the instant the standard unit is affixed with exactness both to the gold and silver. If it be introduced long after the market proportion between the metals has deviated from the proportion established in the coin, and if the new regulation is made to have a retrospect, with regard to the acquitting of permanent contracts entered into, while the value of the money unit had attached itself to the lower currency, in consequence of the principle above laid down, then the restoring the money-unit to that standard where it ought to have remained (to wit, to the mean proportion) is an injury to all debtors who have contracted since the time the proportion of the metals began to vary.
+
+This is clear from the former reasoning. The moment the market price of the metals differs from that in the coin, every one who has payments to make, will pay in that species which is rated highest in the coin; consequently, he who lends, lends in that species. If, after the contract, therefore, the unit be carried up to the mean proportion, this must be a loss to him who had borrowed.
+
+From this we may perceive why, in the first article of the preceding chapter, it was said, that there was less inconvenience from the varying of the proportion of the metals, where the standard is fixed to one of them, than when it is fixed to both. In the first case, it is at least uncertain whether the standard or the merchandize-species be to rise; consequently it is uncertain whether the debtors or the creditors be to gain by a variation. If the standard species should rise, the creditors will gain; if the merchandize-species should rise, the debtors will gain; but when the unit is attached to both species, then the creditors never can gain, let the metals vary as they will: if silver rise, then debtors will pay in gold; if gold rise, debtors will pay in silver. But whether the unit be attached to one or to both species, the infallible consequence of a variation is, that one half of the difference is either gained or lost by debtors and creditors. The invariable unit is constantly the mean proportional between the two measures.
+
+I intended to have postponed the entering upon what concerns the interests of debtors and creditors in all variations of the coin, until I came to treat particularly of that matter; but as it is a thing of the greatest consequence to be attended to, in every proposal for altering or regulating the coin of a nation, it will, perhaps, upon this account, bear a repetition in another place.
+
+II. To render our ideas as distinct as possible, we must keep them simple. Let us now suppose that the metals are perfectly well proportioned in the coin, but that the coin is worn by use.
+
+If this be the case, we must either suppose it to be all equally worn, or unequally worn.
+
+If all be equally worn, I think it needs no demonstration to prove, that the money-unit which was attached to the coin, when weighty, (drawing its value from the metals contained in it,) must naturally diminish in its value in proportion as the metals are rubbed away.
+
+If the coin be unequally worn, the money-unit will be variously realised, or represented; that is to say, it will be of different values, according to the weight of the pieces.
+
+The consequence of this is the same as in the disorder of the proportion of the metals: debtors will choose to pay in the light pieces, and the heavy will be melted down. In proportion, therefore, to this disorder, will the value of the unit gradually descend. This was the great disorder in England in 1695; while the standard of the pound sterling was affixed to the silver only, the gold being left to seek its own value.
+
+III. Since the invention of the money wheel, the inaccuracy in the fabrication is greatly prevented. Formerly, when money was coined with the hammer, the mint-masters weighed the coin delivered by the workmen, in cumulo, by the pound troy weight, without attending very exactly to the proportion of the pieces. At present exactness is more necessary, and every piece must be weighed by itself.
+
+It is of very great consequence that the weight and denominations of coin be in exact proportion to that of their current value, which is always relative to the money-unit of account. When any inequality happens there, it is easy to perceive how all the pieces which are above the proportion of their just weight, will be immediately picked up, and melted down, and none but the light ones will remain in circulation.
+
+This, from the principles already laid down, must proportionally diminish the value of the money-unit.
+
+From what has been observed concerning the deviations in the coin from the proportion in the market price of the metals, and from the legal weight, we may lay down this undoubted principle, That the value of the money-unit of account is not to be sought for in the statutes and regulations of the mint, but in the actual intrinsic value of that currency in which all obligations are acquitted, and all accompts are kept.
+
+IV. As I have at present principally in view to lay down certain principles with regard to money, which I intend afterwards to apply to the state of the British coin; and as these principles are here restrained to the effects which every variation in the coin has upon the value of the unit of money in account, I shall in this place observe only, as to the imposition of coinage.
+
+That coin being necessary in every country where the money-unit is attached to the metals, it must be procured by those who are obliged to acquit their obligations in material money.
+
+If, therefore, the state shall oblige every one who carries the metals to the mint to pay the coinage, the coin they receive must be valued, not only at the price the metals bear in the market, when they are sold as bullion, (or mere metal, of no farther value than as a physical substance,) but also at the additional value these metals receive in being rendered useful for purchasing commodities, and acquitting obligations. This additional value is the price of coinage.
+
+If, therefore, in a country where coinage is free, as in England, this coinage shall come to be imposed, the money-unit continuing to be affixed as before to the same quantity of the metals, ought to rise in its value; that is, ought to become equal to a greater quantity of every sort of merchandize than before; consequently, as the rough metals of which the coin is made are merchandize, like every other thing, the same number of money-units realized, or represented in the coin, ought to purchase more of the rough metals than before: That is to say, that every country where coinage is imposed, bullion must be cheaper than coin.
+
+This proposition would be liable to no exception, were it true that no debt could be exacted but in the nation's coin; because in this case, the creditor would be constantly obliged to receive it at its full value.
+
+But when nations owe to one another, the party debtor must pay the party creditor in his coin: the debtor, therefore, is obliged to sell his own coin for what he can get for it, and with this he must buy of the coin of his creditor's country, in order to pay him with it.
+
+Let us, to avoid abstract reasoning, take an example: and we cannot choose a better than that of England and France. In England, coinage is free, in France it costs 8 2/10 per cent as shall be made out in its proper place.
+
+France owes England 1000 l. sterling. In paying in the market of London, the bullion contained in this sum, either in gold or silver, the debt is paid; because the coining of it costs nothing. Here France acquits her debt cheaper than by sending her own coin as bullion; because the bullion she sends is not worth an equal weight of her coin.
+
+England owes France 20,000 livres. In paying the bullion contained in this sum, England is not quit; she must also pay France 8 2/10 per cent in order to put it into coin.
+
+V. The operation of raising, and debasing the coin is performed in three ways.
+
+First, By augmenting or diminishing the weight of the coin.
+
+Secondly, By augmenting or diminishing the proportion of alloy in the coin.
+
+Thirdly, By augmenting or diminishing the proportion between the money (coin) and the money of account, as if every sixpence were called a shilling, and every twenty six-pences a pound sterling.
+
+The French call this increasing or diminishing the numerary value: and as I think it is a better term than that of raising or sinking the denomination, I shall take the liberty now and then to employ it.
+
+These three operations may be reduced to one, and expressed by one term: they all imply the augmenting or diminishing of the weight of the pure metals in the money-unit of account.
+
+It would require a separate treatise, to investigate all the artifices which have been contrived, to make mankind lose sight of the principles of money, in order to palliate and make this power in the sovereign to change the value of the coin, appear reasonable. But these artifices seem to be at an end, and Princes now perceive that the only scheme to get money, when occasion requires, is to preserve their credit, and to allow the coin, by which this credit is reckoned, to remain in a stable condition. There are still, however, examples of such operations to be met with; for which reason I shall subjoin, towards the end of this book, a particular inquiry into the interest of Princes with regard to altering the value of their coin, which is a synonimous term with that of altering the value of the unit of money.
+
+We have briefly pointed out the effects of the imperfections of the metals in producing a variation in the value of the unit of account, we must now point out the consequences of this variation.
+
+If the changing the content of the bushel by which grain is measured, would affect the interest of those who are obliged to pay, or who are entitled to receive, a certain number of bushels of grain for the rent of lands; in the same manner must every variation in the value of the unit of account affect all persons who, in permanent contracts, are obliged to make payments, or who are entitled to receive sums of money stipulated in multiples or in fractions of this money-unit.
+
+Every variation, therefore, upon the intrinsic value of the money-unit has the effect of benefiting the class of creditors, at the expence of debtors, or vice versa.
+
+This consequence is deduced from an obvious principle. Money is more or less valuable in proportion as it can purchase more or less of every kind of merchandize. Now, without entering anew into the causes of the rise and fall of prices, it is agreed upon all hands, I suppose, that whether an augmentation of the general mass of money in circulation has the effect of raising prices in general, or not, any augmentation of the quantity of the metals appointed to be put into the money-unit, must at least augment the value of that money-unit, and make it purchase more of any commodity than before; that is to say, if 113 grains of fine gold, the present weight of a pound sterling in gold, can buy 113 pounds of flour; were the pound sterling raised to 114 grains of the same metal, it would buy 114 pounds of flour; consequently, were the pound sterling augmented by one grain of gold, every miller who paid a rent of ten pounds a year would be obliged to sell 1140 pounds of his flour, in order to procure 10 pounds to pay his rent, instead of 1130 pounds of flour which he sold formerly to procure the same sum; consequently by this innovation, the miller must lose yearly ten pounds of flour, which his landlord consequently must gain. From this example, I think it is plain, that every augmentation of the metals put into the pound sterling, either of silver or gold, must imply an advantage to the whole class of creditors, who by contract are paid in pounds sterling, and consequently must be a proportional loss to all debtors in such contracts, who must pay by the same denomination.
+
+I should not have been so particular in giving a proof of so plain a proposition, had it not escaped the penetration of the great Mr Locke.
+
+In 1695 a proposal was made to the government of England, to diminish the value of the pound sterling by 20 per cent by making a new coinage of all the silver, and by making every shilling 1/5 lighter than before. The author of this project (Mr Lowndes) having given his scheme to the public, was answered by Mr Locke, that this debasing of the value of the money-unit was effectually defrauding all the landed interest of 20 per cent of their rents. Lowndes replied, that silver was augmented 20 per cent in its value, and that therefore the pound sterling, though reduced 20 per cent in its weight of pure silver, was still as valuable as before. This proposition Mr Locke exploded with the most solid reasoning, and indeed nothing could be more absurd, than to affirm, that silver had risen in value with respect to itself. But though Mr Locke felt that all the landed interest, and all those who were creditors in permanent contracts, must lose 20 per cent by Mr Lowndes's scheme, yet he did not perceive (which is very wonderful) that the debtors in these contracts must gain. This led him to advance a very extraordinary proposition, which abundantly proves that the interests of debtors and creditors, which are now become of the utmost consequence to be considered attentively by modern statesmen, were then but little attended to, and still less understood.
+
+We find in the 46th page of Mr Locke's Farther Considerations concerning raising the value of Money, that Mr Lowndes had affirmed in support of his scheme, that this new money would pay as much debt, and buy as many commodities as the then money which was one fifth heavier. Then, adds Mr Locke, 'What he says of debts is true; but yet I would have it well considered by our English gentlemen, that though creditors will lose 1/5 of their principal and use, and landlords will lose 1/5 of their income, yet the debtors and tenants will not get it. It may be asked, who will get it? Those, I say, and those only, who have great sums of weighty money (whereof one sees not a piece now in payments) hoarded up by them, will get it. To these, by the proposed change of our money, will be an increase of 1/5 added to their riches, 'paid out of the pockets of the rest of the nation.'
+
+If the authority of any man could prevail, where reason is dark, it would be that of Mr Locke; and had any other than such a person as Locke advanced such a doctrine, I should have taken no notice of it.
+
+Here this great man, through inadvertency, at once gives up the argument in favour of his antagonist, after having refuted him in the most solid manner: for if a man, who at that time had hoarded heavy 1/5 upon its being coined into pieces 1/5 lighter, Mr money, were to gain Locke must agree with Mr Lowndes, that a light piece was as much worth as a heavy one.
+
+Those who had heavy money at that time locked up in their coffers, would gain no doubt, provided they were debtors; because having, I shall suppose, borrowed 4000 l. sterling in heavy money, and having a like sum borrowed from their coffers, augmented to 5000 l. by Mr Lowndes's plan, they might pay their debt of 4000 l. and retain one thousand clear profit for themselves. But supposing them to have no debts, which way could they possibly gain by having heavy money, since the 5000 l. after the coinage, would have bought no more land, nor more of any commodities, than 4000 l. would have done before the coinage.
+
+We may therefore safely conclude, that every diminution of the metals contained in the money-unit, must imply a loss to all creditors; and that in proportion to this loss, those who are debtors must gain.
+
+That on the contrary, whatever augmentation is made of the money-unit, such augmentation must be hurtful to debtors, and proportionally advantageous to creditors.
+
+In the preceding chapters, I have laid down, with as much distinctness as I am capable of, the most general principles which influence the doctrine of money, and to these I think every other may be applied.
+
+The combination, however, of these principles with one another, occasions a surprising variety of problems, relating to money, coin, and bullion, which are hard to solve, by the difficulty, merely, of applying them to the rule.
+
+In order therefore to render this inquiry more useful, I shall now apply the principles I have laid down, to the present state of the British coin, and to the resolution of every question which shall occur during the examination of the disorder into which it has fallen.

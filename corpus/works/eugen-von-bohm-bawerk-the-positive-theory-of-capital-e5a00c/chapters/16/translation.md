@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c"
 work_title: The Positive Theory of Capital
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 16
-chapter_title: "Book III, Chapter I: The Two Conceptions of Value"
+chapter_title: "Book III: Value, Book III, Chapter I: The Two Conceptions of Value"
 chapter_slug: 16
 variant_id: "f5677beb-259e-5664-be81-2f86d965ab3d"
 content_type: translation

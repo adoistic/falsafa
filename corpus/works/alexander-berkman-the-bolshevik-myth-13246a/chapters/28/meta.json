@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 28,
+  "chapter_title": "Chapter 27 : Further South",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c7512fe4-586b-54d4-a8df-e24dec09b517",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 755,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-27.html"
+    }
+  ]
+}

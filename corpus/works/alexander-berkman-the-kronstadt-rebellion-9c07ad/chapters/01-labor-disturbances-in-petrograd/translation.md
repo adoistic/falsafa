@@ -1,0 +1,57 @@
+---
+work_id: "9c07adc7-b52d-5693-9585-4540c52702f7"
+work_slug: "alexander-berkman-the-kronstadt-rebellion-9c07ad"
+work_title: The Kronstadt Rebellion
+author_name: Alexander Berkman
+chapter_number: 1
+chapter_title: Labor Disturbances in Petrograd
+chapter_slug: "01-labor-disturbances-in-petrograd"
+variant_id: "b4f11f78-bb49-5eab-9f8d-b2607a74423e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 965
+source_url: "https://www.marxists.org/reference/archive/berkman/1922/kronstadt-rebellion/ch1.htm"
+translator: Marxists Internet Archive edition
+---
+
+It was early in 1921. Long years of war, revolution, and civil struggle had bled Russia to exhaustion and brought her people to the brink of despair. But at last civil war was at an end: the numerous fronts were liquidated, and Wrangel -- the last hope of Entente intervention and Russian counter-revolution -- was defeated and his military activities within Russia terminated. The people now confidently looked forward to the mitigation of the severe Bolshevik régime. It was expected that with the end of civil war the Communists would lighten the burdens, abolish war-time restrictions, introduce some fundamental liberties, and begin the organisation of a more normal life. Though far from being popular the Bolshevik Government had the support of the workers in its oft announced plan of taking up the economic reconstruction of the country as soon as military operations should cease. The people were eager to coöperate, to put their initiative and creative efforts to the reconstruction of the ruined land.
+
+Most unfortunately, these expectations were doomed to disappointment. The Communist State showed no intention of loosening the yoke. The same policies continued, with labor militarisation still further enslaving the people, embittering them with added oppression and tyranny, and in consequence paralising every possibility of industrial revival. The last hope of the proletariat was perishing: the conviction grew that the Communist Party was more interested in retaining political power than in saving the Revolution.
+
+The most revolutionary elements of Russia, the workers of Petrograd, were the first to speak out. They charged that, aside from other causes, Bolshevik centralisation, bureaucracy, and autocratic attitude toward the peasants and workers were directly responsible for much of the misery and suffering of the people. Many factories and mills of Petrograd had been closed, and the workers were literally starving. They called meetings to consider the situation. The meetings were suppressed by the Government. The Petrograd proletariat, who had borne the brunt of the revolutionary struggles and whose great sacrifices and heroism alone had saved the city from Yudenitch, resented the action of the Government. Feeling against the methods employed by the Bolsheviki continued to grow. More meetings were called, with the same result. The Communists would make no concessions to the proletariat, while at the same time they were offering to compromise with the capitalists of Europe and America. The workers were indignant-- they became aroused. To compel the Government to consider their demands, strikes were called in the Patronny munition works, the Trubotchny and Baltiyski mills, and in the Laferm factory. Instead of talking matters over with the dissatisfied workers, the "Workers' and Peasants' Government" created a war-time Komitet Oborony (Committee of Defense) with Zinoviev, the most hated man in Petrograd, as Chairman. The avowed purpose of that Committee was to suppress the strike movement.
+
+It was on February 24 that the strikes were declared. The same day the Bolsheviki sent the kursanti, the Communist students of the military academy (training officers for the Army and Navy), to disperse the workers who had gathered on Vassilevsky Ostrov, the labor district of Petrograd. The next day, February 25, the indignant strikers of Vassilevsky Ostrov visited the Admiralty shops and the Galernaya docks, and induced the workers there to join their protest against the autocratic attitude of the Government. The attempted street demonstration of the strikers was dispersed by armed soldiery.
+
+On February 26 the Petrograd Soviet held a session at which the prominent Communist Lashevitch, member of the Committee of Defense and of the Revolutionary Military Soviet of the Republic, denounced the strike movement in sharpest terms. He charged the workers of the Trubotchny factory with inciting dissatisfaction, accused them of being "self-seeking labor skinners (shkurniki) and counterrevolutionists", and proposed that the Trubotchny factory be closed. The Executive Committee of the Petrograd Soviet (Zinoviev, Chairman) accepted the suggestion. The Trubotchny strikers were locked out and thus automatically deprived of their rations.
+
+These methods of the Bolshevik Government served still further to embitter and antagonise the workers.
+
+Strikers' proclamations now began to appear on the streets of Petrograd. Some of them assumed a distinctly political character, the most significant of them, posted on the walls of the city February 27, reading:
+
+A complete change is necessary in the policies of the government. First of all, the workers and peasants need freedom. They don't want to live by the decrees of the Bolshevik: they want to control their own destinies.
+
+Comrades, preserve a revolutionary order! Determinedly and in an organized manner demand:
+
+Liberation of all arrested socialist and non-partisan workingmen;
+
+Abolition of martial law; freedom of speech, press and assembly for all who labor;
+
+Free election of shop and factory committees (zahvkomi), of labor union and soviet representatives.
+
+Call meetings, pass resolutions, send your delegates to the authorities and work for the realisation of your demands.
+
+The government replied to the demands of the strikers by making numerous arrests and suppressing several labor organizations. The action resulted in popular temper growing more anti-Bolshevik; reactionary slogans began to be heard. Thus on February 28 there appeared a proclamation of the "Socialist Workers of the Nevsky District", which concluded with a call for the Constituent Assembly:
+
+We know who is afraid of the Constituent Assembly. It is they who will no longer be able to rob the people. Instead they will have to answer before the representatives of the people for their deceit, their robberies, and their crimes.
+
+Down with the hated Communists!
+
+Down with the Soviet Government!
+
+Long live the Constituent Assembly!
+
+Meanwhile the Bolsheviki concentrated in Petrograd large military forces from the provinces and also ordered to the city its most trusted Communist regiments from the front. Petrograd was put under "extraordinary martial law". The strikers were overawed, and the labor unrest crushed with an iron hand.

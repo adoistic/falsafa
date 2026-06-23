@@ -1,0 +1,33 @@
+---
+work_id: "6d5d5cb5-aa85-5f1b-a604-0c5924771df5"
+work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
+work_title: An Introduction to the Principles of Morals and Legislation
+author_name: Jeremy Bentham
+chapter_number: 15
+chapter_title: 5. Conflict among motives.
+chapter_slug: "15-5-conflict-among-motives"
+variant_id: "621161c2-e2a6-558f-8586-6c625de1c64a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1053
+source_url: "https://oll.libertyfund.org/titles/bentham-an-introduction-to-the-principles-of-morals-and-legislation"
+translator: Online Library of Liberty edition
+---
+
+XLIII. When a man has it in contemplation to engage in any action, he is frequently acted upon at the same time by the force of divers motives: one motive, or set of motives, acting in one direction; another motive, or set of motives, acting as it were in an opposite direction. The motives on one side disposing him to engage in the action: those on the other, disposing him not to engage in it. Now, any motive, the influence of which tends to dispose him to engage in the action in question, may be termed an impelling motive: any motive, the influence of which tends to dispose him not to engage in it, a restraining motive. But these appellations may of course be interchanged, according as the act is of the positive kind, or the negative.
+
+XLIV. It has been shown, that there is no sort of motive but may give birth to any sort of action. It follows, therefore, that there are no two motives but may come to be opposed to one another. Where the tendency of the act is bad, the most common case is for it to have been dictated by a motive either of the self-regarding, or of the dissocial class. In such case the motive of benevolence has commonly been acting, though ineffectually, in the character of a restraining motive.
+
+XLV. An example may be of use, to show the variety of contending motives, by which a man may be acted upon at the same time. Crillon, a Catholic (at a time when it was generally thought meritorious among Catholics to extirpate Protestants), was ordered by his king, Charles IX. of France, to fall privately upon Coligny, a Protestant, and assassinate him: his answer was, 'Excuse me, Sire; but I'll fight him with all my heart.' Here, then, were all the three forces above mentioned, including that of the political sanction, acting upon him at once. By the political sanction, or at least so much of the force of it as such a mandate, from such a sovereign, issued on such an occasion, might be supposed to carry with it, he was enjoined to put Coligny to death in the way of assassination: by the religious sanction, that is, by the dictates of religious zeal, he was enjoined to put him to death in any way: by the moral sanction, or in other words, by the dictates of honour, that is, of the love of reputation, he was permitted (which permission, when coupled with the mandates of his sovereign, operated, he conceived, as an injunction) to fight the adversary upon equal terms: by the dictates of enlarged benevolence (supposing the mandate to be unjustifiable) he was enjoined not to attempt his life in any way, but to remain at peace with him: supposing the mandate to be unjustifiable, by the dictates of private benevolence he was enjoined not to meddle with him at any rate. Among this confusion of repugnant dictates, Crillon, it seems, gave the preference, in the first place, to those of honour: in the next place, to those of benevolence. He would have fought, had his offer been accepted; as it was not, he remained at peace.
+
+Here a multitude of questions might arise. Supposing the dictates of the political sanction to follow the mandate of the sovereign, of what kind were the motives which they afforded him for compliance? The answer is, of the self-regarding kind at any rate: inasmuch as, by the supposition, it was in the power of the sovereign to punish him for non-compliance, or reward him for compliance. Did they afford him the motive of religion (I mean independently of the circumstance of heresy above mentioned) the answer is, Yes, if his notion was, that it was God's pleasure he should comply with them; No, if it was not. Did they afford him the motive of the love of reputation? Yes, if it was his notion that the world would expect and require that he should comply with them: No, if it was not. Did they afford him that of benevolence? Yes, if it was his notion that the community would upon the whole be the better for his complying with them: No, if it was not. But did the dictates of the political sanction, in the case in question, actually follow the mandates of the sovereign: in other words, was such a mandate legal? This we see is a mere question of local jurisprudence, altogether foreign to the present purpose.
+
+XLVI. What is here said about the goodness and badness of motives, is far from being a mere matter of words. There will be occasion to make use of it hereafter for various important purposes. I shall have need of it for the sake of dissipating various prejudices, which are of disservice to the community, sometimes by cherishing the flame of civil dissensions, at other times, by obstructing the course of justice. It will be shown, that in the case of many offences, the consideration of the motive is a most material one: for that in the first place it makes a very material difference in the magnitude of the mischief: in the next place, that it is easy to be ascertained; and thence may be made a ground for a difference in the demand for punishment: but that in other cases it is altogether incapable of being ascertained; and that, were it capable of being ever so well ascertained, good or bad, it could make no difference in the demand for punishment: that in all cases, the motive that may happen to govern a prosecutor, is a consideration totally immaterial: whence may be seen the mischievousness of the prejudice that is so apt to be entertained against informers; and the consequence it is of that the judge, in particular, should be proof against the influence of such delusions.
+
+Lastly, The subject of motives is one with which it is necessary to be acquainted, in order to pass a judgment on any means that may be proposed for combating offenses in their source.
+
+But before the theoretical foundation for these practical observations can be completely laid, it is necessary we should say something on the subject of disposition: which, accordingly, will furnish matter for the ensuing chapter.

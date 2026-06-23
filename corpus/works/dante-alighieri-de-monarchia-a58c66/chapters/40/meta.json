@@ -2,7 +2,7 @@
   "work_slug": "dante-alighieri-de-monarchia-a58c66",
   "work_title": "De Monarchia",
   "chapter_number": 40,
-  "chapter_title": "CHAPTER VIII: Argument from the prerogative of the keys consigned to Peter.",
+  "chapter_title": "Chapter VIII: Argument from the prerogative of the keys consigned to Peter.",
   "chapter_slug": "40",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 585,
+      "word_count": 581,
       "paragraph_count": 5,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"

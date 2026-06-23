@@ -4,13 +4,17 @@ slug: "yves-guyot-the-tyranny-of-socialism-1e5c8b"
 title: The Tyranny of Socialism
 author:
   name: Yves Guyot
-  biography: Yves Guyot (1843–1928).
+  biography: "French economist, journalist, and politician of the classical-liberal school, a deputy and minister of public works. His polemics against collectivism argued that state ownership and socialist schemes fail on both economic and moral grounds."
+  birth_year: 1843
+  death_year: 1928
+  nationality: French
 era: 19th Century
 genre: Political Theory
 language: English
 language_direction: ltr
 description: "The Tyranny of Socialism, by Yves Guyot (1843–1928), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1894
 total_logical_chapters: 50
 total_variant_entries: 50
 thothica_role: catalog
@@ -22,53 +26,53 @@ The Tyranny of Socialism, by Yves Guyot (1843–1928), a public-domain text from
 
 ## Chapters
 
-01. [BIOGRAPHICAL AND CRITICAL.](./chapters/01-biographical-and-critical/) — prose, 1 variant
-02. [AUTHOR’S PREFACE TO THE FIRST FRENCH EDITION.](./chapters/02-author-s-preface-to-the-first-french-edition/) — prose, 1 variant
-03. [AUTHOR’S PREFACE TO THE ENGLISH EDITION.](./chapters/03-author-s-preface-to-the-english-edition/) — prose, 1 variant
-04. [SOCIAL RETROGRESSION.](./chapters/04-social-retrogression/) — prose, 1 variant
-05. [SOCIALIST PROGRAMMES.](./chapters/05-socialist-programmes/) — prose, 1 variant
-06. [CHARACTER OF POLITICAL AND INTELLECTUAL PROGRESS.](./chapters/06-character-of-political-and-intellectual-progress/) — prose, 1 variant
-07. [CHARACTER OF SOCIAL PROGRESS.](./chapters/07-character-of-social-progress/) — prose, 1 variant
-08. [THE EVOLUTION OF PROPERTY.](./chapters/08-the-evolution-of-property/) — prose, 1 variant
-09. [DOCTRINAL CONTRADICTIONS OF THE SOCIALISTS.](./chapters/09-doctrinal-contradictions-of-the-socialists/) — prose, 1 variant
-10. [PRACTICAL SELF-CONTRADICTION OF THE SOCIALISTS.](./chapters/10-practical-self-contradiction-of-the-socialists/) — prose, 1 variant
-11. [BOOK II.: SOCIALISTIC SOPHISMS.](./chapters/11/) — prose, 1 variant
-12. [LABOUR AND WEALTH.](./chapters/12-labour-and-wealth/) — prose, 1 variant
-13. [ON THE LIMITS OF COLLECTIVIST SOCIETY.](./chapters/13-on-the-limits-of-collectivist-society/) — prose, 1 variant
-14. [THE LAW OF SUPPLY AND DEMAND.](./chapters/14-the-law-of-supply-and-demand/) — prose, 1 variant
-15. [THE “IRON LAW” OF WAGES.](./chapters/15-the-iron-law-of-wages/) — prose, 1 variant
-16. [INTEGRAL WAGES.](./chapters/16-integral-wages/) — prose, 1 variant
-17. [TO EACH ACCORDING TO HIS NEEDS.](./chapters/17-to-each-according-to-his-needs/) — prose, 1 variant
-18. [THE ABOLITION OF WAGES.](./chapters/18-the-abolition-of-wages/) — prose, 1 variant
-19. [MACHINERY.](./chapters/19-machinery/) — prose, 1 variant
-20. [EXCESSIVE PRODUCTION.](./chapters/20-excessive-production/) — prose, 1 variant
-21. [ECONOMIC CRISES.](./chapters/21-economic-crises/) — prose, 1 variant
-22. [CHEAPNESS.](./chapters/22-cheapness/) — prose, 1 variant
-23. [THE GAME OF THE GULLIBLE.](./chapters/23-the-game-of-the-gullible/) — prose, 1 variant
-24. [SOCIALISTIC METHODS.](./chapters/24-socialistic-methods/) — prose, 1 variant
-25. [FACTS COMPARED WITH SOCIALIST STATEMENTS.](./chapters/25-facts-compared-with-socialist-statements/) — prose, 1 variant
+01. [Introduction, Biographical and Critical.](./chapters/01-introduction-biographical-and-critical/) — prose, 1 variant
+02. [Author’s Preface to the First French Edition.](./chapters/02-author-s-preface-to-the-first-french-edition/) — prose, 1 variant
+03. [Author’s Preface to the English Edition.](./chapters/03-author-s-preface-to-the-english-edition/) — prose, 1 variant
+04. [Chapter I, Social Retrogression.](./chapters/04/) — prose, 1 variant
+05. [Chapter II, Socialist Programmes.](./chapters/05/) — prose, 1 variant
+06. [Chapter III, Character of Political and Intellectual Progress.](./chapters/06/) — prose, 1 variant
+07. [Chapter IV, Character of Social Progress.](./chapters/07/) — prose, 1 variant
+08. [Chapter V, The Evolution of Property.](./chapters/08/) — prose, 1 variant
+09. [Chapter VI, Doctrinal Contradictions of the Socialists.](./chapters/09/) — prose, 1 variant
+10. [Chapter VII, Practical Self-contradiction of the Socialists.](./chapters/10/) — prose, 1 variant
+11. [Book II.: Socialistic Sophisms.](./chapters/11/) — prose, 1 variant
+12. [Chapter I, Labour and Wealth.](./chapters/12/) — prose, 1 variant
+13. [Chapter II, On the Limits of Collectivist Society.](./chapters/13/) — prose, 1 variant
+14. [Chapter III, The Law of Supply and Demand.](./chapters/14/) — prose, 1 variant
+15. [Chapter IV, The “Iron Law” of Wages.](./chapters/15/) — prose, 1 variant
+16. [Chapter V, Integral Wages.](./chapters/16/) — prose, 1 variant
+17. [Chapter VI, To Each According to His Needs.](./chapters/17/) — prose, 1 variant
+18. [Chapter VII, The Abolition of Wages.](./chapters/18/) — prose, 1 variant
+19. [Chapter VIII, Machinery.](./chapters/19/) — prose, 1 variant
+20. [Chapter IX, Excessive Production.](./chapters/20/) — prose, 1 variant
+21. [Chapter X, Economic Crises.](./chapters/21/) — prose, 1 variant
+22. [Chapter XI, Cheapness.](./chapters/22/) — prose, 1 variant
+23. [Chapter XII, The Game of the Gullible.](./chapters/23/) — prose, 1 variant
+24. [Chapter XIII, Socialistic Methods.](./chapters/24/) — prose, 1 variant
+25. [Chapter XIV, Facts Compared with Socialist Statements.](./chapters/25/) — prose, 1 variant
 26. [Wholesale Price of Merchandise in England.](./chapters/26-wholesale-price-of-merchandise-in-england/) — prose, 1 variant
 27. [Increase of Wages per cent. relatively to 1850.](./chapters/27-increase-of-wages-per-cent-relatively-to-1850/) — prose, 1 variant
 28. [The Graduated Scale of the City of Paris.](./chapters/28-the-graduated-scale-of-the-city-of-paris/) — prose, 1 variant
-29. [REDISTRIBUTION OF WEALTH.](./chapters/29-redistribution-of-wealth/) — prose, 1 variant
-30. [PUTTING SOCIALISTIC SOPHISMS IN FORCE.](./chapters/30-putting-socialistic-sophisms-in-force/) — prose, 1 variant
-31. [THE REGULATION OF CHILD LABOUR.](./chapters/31-the-regulation-of-child-labour/) — prose, 1 variant
-32. [FEMALE LABOUR AND THE LAW.](./chapters/32-female-labour-and-the-law/) — prose, 1 variant
-33. [COMPULSORY IDLENESS OF LYING-IN WOMEN.](./chapters/33-compulsory-idleness-of-lying-in-women/) — prose, 1 variant
-34. [NATIONAL LABOUR AND FOREIGN WORKMEN.](./chapters/34-national-labour-and-foreign-workmen/) — prose, 1 variant
-35. [TRADE SYNDICATES.](./chapters/35-trade-syndicates/) — prose, 1 variant
-36. [REGISTRY OFFICES.](./chapters/36-registry-offices/) — prose, 1 variant
-37. [NATURE OF “LABOUR LAWS.”](./chapters/37-nature-of-labour-laws/) — prose, 1 variant
-38. [CONTEMPT FOR THE LAW.](./chapters/38-contempt-for-the-law/) — prose, 1 variant
-39. [SERVILE LABOUR AND FREE LABOUR.](./chapters/39-servile-labour-and-free-labour/) — prose, 1 variant
-40. [COST AND CONSEQUENCES OF STRIKES.](./chapters/40-cost-and-consequences-of-strikes/) — prose, 1 variant
-41. [THE CAUSES OF STRIKES.](./chapters/41-the-causes-of-strikes/) — prose, 1 variant
-42. [DURING THE STRIKE.](./chapters/42-during-the-strike/) — prose, 1 variant
-43. [SOCIAL WAR.](./chapters/43-social-war/) — prose, 1 variant
-44. [PARLIAMENT AND STRIKES.](./chapters/44-parliament-and-strikes/) — prose, 1 variant
-45. [SUBSIDIES TO STRIKERS.](./chapters/45-subsidies-to-strikers/) — prose, 1 variant
-46. [THE EXECUTIVE, THE JUDICATURE, AND STRIKES.](./chapters/46-the-executive-the-judicature-and-strikes/) — prose, 1 variant
-47. [LIBERTY AND ANARCHY.](./chapters/47-liberty-and-anarchy/) — prose, 1 variant
-48. [THE SOCIALISM OF EMPLOYERS.](./chapters/48-the-socialism-of-employers/) — prose, 1 variant
-49. [MILITARISM, PROTECTION, AND SOCIALISM.](./chapters/49-militarism-protection-and-socialism/) — prose, 1 variant
-50. [CONCLUSION.](./chapters/50-conclusion/) — prose, 1 variant
+29. [Chapter XV, Redistribution of Wealth.](./chapters/29/) — prose, 1 variant
+30. [Chapter I, Putting Socialistic Sophisms in Force.](./chapters/30/) — prose, 1 variant
+31. [Chapter II, The Regulation of Child Labour.](./chapters/31/) — prose, 1 variant
+32. [Chapter III, Female Labour and the Law.](./chapters/32/) — prose, 1 variant
+33. [Chapter IV, Compulsory Idleness of Lying-in Women.](./chapters/33/) — prose, 1 variant
+34. [Chapter V, National Labour and Foreign Workmen.](./chapters/34/) — prose, 1 variant
+35. [Chapter VI, Trade Syndicates.](./chapters/35/) — prose, 1 variant
+36. [Chapter VII, Registry Offices.](./chapters/36/) — prose, 1 variant
+37. [Chapter VIII, Nature of “Labour Laws.”](./chapters/37/) — prose, 1 variant
+38. [Chapter I, Contempt for the Law.](./chapters/38/) — prose, 1 variant
+39. [Chapter II, Servile Labour and Free Labour.](./chapters/39/) — prose, 1 variant
+40. [Chapter I, Cost and Consequences of Strikes.](./chapters/40/) — prose, 1 variant
+41. [Chapter II, The Causes of Strikes.](./chapters/41/) — prose, 1 variant
+42. [Chapter III, During the Strike.](./chapters/42/) — prose, 1 variant
+43. [Chapter IV, Social War.](./chapters/43/) — prose, 1 variant
+44. [Chapter I, Parliament and Strikes.](./chapters/44/) — prose, 1 variant
+45. [Chapter II, Subsidies to Strikers.](./chapters/45/) — prose, 1 variant
+46. [Chapter III, The Executive, the Judicature, and Strikes.](./chapters/46/) — prose, 1 variant
+47. [Chapter IV, Liberty and Anarchy.](./chapters/47/) — prose, 1 variant
+48. [Chapter V, The Socialism of Employers.](./chapters/48/) — prose, 1 variant
+49. [Chapter VI, Militarism, Protection, and Socialism.](./chapters/49/) — prose, 1 variant
+50. [Conclusion.](./chapters/50-conclusion/) — prose, 1 variant

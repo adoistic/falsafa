@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-terrorism-and-communism-a-contri-a2ee74",
+  "work_title": "Terrorism and Communism: A Contribution to the Natural History of Revolution",
+  "chapter_number": 26,
+  "chapter_title": "The Outlook for the Soviet Republic",
+  "chapter_slug": "26-the-outlook-for-the-soviet-republic",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "91e1f167-1dcf-5a09-8a33-825ba66bbbd4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2315,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1919/terrcomm/ch08b.htm"
+    }
+  ]
+}

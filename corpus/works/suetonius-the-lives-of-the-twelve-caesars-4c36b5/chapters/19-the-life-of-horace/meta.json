@@ -2,7 +2,7 @@
   "work_slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
   "work_title": "The Lives of the Twelve Caesars",
   "chapter_number": 19,
-  "chapter_title": "THE LIFE OF HORACE.",
+  "chapter_title": "The Life of Horace.",
   "chapter_slug": "19-the-life-of-horace",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 887,
+      "word_count": 875,
       "paragraph_count": 4,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"

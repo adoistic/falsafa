@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 12,
+  "chapter_title": "Oration 13",
+  "chapter_slug": "12-oration-13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5aa50128-6106-5a7f-8120-260ec2ff425c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2773,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "929b9b40-ca29-5c48-ac79-3ad9780db713",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3736,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

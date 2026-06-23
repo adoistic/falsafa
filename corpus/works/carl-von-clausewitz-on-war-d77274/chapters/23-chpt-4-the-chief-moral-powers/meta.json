@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 23,
+  "chapter_title": "Chpt. 4 The Chief Moral Powers",
+  "chapter_slug": "23-chpt-4-the-chief-moral-powers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d12a3989-54b7-5ee5-9cdf-e3aeb8082f0d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 365,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch04.htm"
+    }
+  ]
+}

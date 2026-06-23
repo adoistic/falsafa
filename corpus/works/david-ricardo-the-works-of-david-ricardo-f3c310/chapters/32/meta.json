@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 32,
-  "chapter_title": "CHAPTER XXII.: BOUNTIES ON EXPORTATION, AND PROHIBITIONS OF IMPORTATION.",
+  "chapter_title": "Chapter XXIII.: On Bounties on Productions.",
   "chapter_slug": "32",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 5743,
-      "paragraph_count": 33,
+      "word_count": 1739,
+      "paragraph_count": 7,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

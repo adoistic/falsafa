@@ -4,7 +4,7 @@ work_slug: "eugen-richter-pictures-of-the-socialistic-futu-81939f"
 work_title: Pictures of the Socialistic Future
 author_name: Eugen Richter
 chapter_number: 20
-chapter_title: "Chapter XVII: IN AND ABOUT THE WORKSHOPS."
+chapter_title: "Chapter XVII: In and About the Workshops."
 chapter_slug: 20
 variant_id: "c4dd46ac-a1a4-555c-81ea-143e0ddcf41a"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1206
+word_count: 1190
 source_url: "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
 translator: Online Library of Liberty edition
 ---
@@ -22,7 +22,7 @@ I am very glad that I have now received the appointment as checker which my frie
 
 Unfortunately, our mates in the workshops nowadays are not conscious of any such feeling. So far is this from being the case that anybody would think workshops are simply places to kill time in, and nothing more. The universal watchword is:
 
-Piece-work and working in gangs have ceased Edition: current; Page: [57] This is only natural, as such styles of working could never be brought into harmony with the ideas of equality of wages and of working hours. But what Franz does not quite like, as he writes me, is the way they have now of spinning the work out so. In spite of sure and regular wages, they say:
+Piece-work and working in gangs have ceased This is only natural, as such styles of working could never be brought into harmony with the ideas of equality of wages and of working hours. But what Franz does not quite like, as he writes me, is the way they have now of spinning the work out so. In spite of sure and regular wages, they say:
 
 "If the job is not finished to-day it will be finished to-morrow."
 
@@ -32,7 +32,7 @@ This is the strain in which Franz writes, and this time he is not so much in the
 
 There is no describing the amount of damage done to material and tools through inattention and carelessness. It would have driven me crazy if, when I was a master, I had been plagued with such a crew of workmen as I now have to work with. The other day it got rather too much for me, and, my patience being exhausted, I made a little appeal to them in these words:
 
-"Colleagues, the Community expects every man to do his duty. We have only eight hours' work. You are all old Socialists, and you will remember the hope Bebel used to have that, when the new order of things came, the pure moral atmosphere would stimulate every man to excel his neighbour. Only just reflect, comrades, that we no longer toil for capitalists and plunderers, but for the Community. And everyone of us gets back Edition: current; Page: [58] a part of whatever benefit the Community reaps as a whole."
+"Colleagues, the Community expects every man to do his duty. We have only eight hours' work. You are all old Socialists, and you will remember the hope Bebel used to have that, when the new order of things came, the pure moral atmosphere would stimulate every man to excel his neighbour. Only just reflect, comrades, that we no longer toil for capitalists and plunderers, but for the Community. And everyone of us gets back a part of whatever benefit the Community reaps as a whole."
 
 "Fine preaching!" they said mockingly. "It is a pity we have no longer occasion for parsons. Bebel promised us a four hours' day, and not an eight hours' one. The Community is a large affair. Shall I work and slave for the 50 millions whilst the other 49,999,999 take it easy? What could I buy myself with this one fifty-millionth part of the fruit of my additional industry, supposing I were really to get it back?"
 
@@ -42,13 +42,13 @@ Since that, I have, of course, not said another word. Franz has had experiences 
 
 Lately the foreman was unwell, and Franz had to take his place for a day or two. Franz on one occasion respectfully asked the others to make a little less noise, and upon this the whole body struck up the "Marseillaise," taking care to especially emphasize the words, "Down with despotism."
 
-There are still masters and foremen in the workshops just as there were formerly, only with this difference, that they are now chosen by the workmen. When no longer acceptable to the workmen they are Edition: current; Page: [59] deposed. Hence they have to take care to keep in with the leaders in a shop, and with the majority. Those persons who, like Franz and myself, do not altogether go with the masses, are in rather a bad fix. At one time they get badly treated by the masters, and at another by the mates. And the worst of it is, you can no more get away from such a workshop than a soldier can escape from the company in which his drill-sergeant ill-treats him.
+There are still masters and foremen in the workshops just as there were formerly, only with this difference, that they are now chosen by the workmen. When no longer acceptable to the workmen they are deposed. Hence they have to take care to keep in with the leaders in a shop, and with the majority. Those persons who, like Franz and myself, do not altogether go with the masses, are in rather a bad fix. At one time they get badly treated by the masters, and at another by the mates. And the worst of it is, you can no more get away from such a workshop than a soldier can escape from the company in which his drill-sergeant ill-treats him.
 
 The late Chancellor foresaw all this well enough, but he was unable to alter it. The list of penalties enacted under his leadership against all infractions of the duty of labour is to be seen in all workshops where it has not yet been torn down. In this list penalties are threatened against idleness, inattention, disobedience, carelessness, impertinence to superiors, and a host of offences. These penalties consist of the withdrawal of the money-certificate, the reduction of the meat rations, the deprivation of the entire midday meal, and even of incarceration. But where there is none to bring a charge there is no need of a judge.
 
 Directors and managers are chosen just in the same way as masters and foremen, and they have to look to it that they do not ruffle those who elect them.
 
-In those rare cases where denunciations do take place, the judicial proceedings are tedious, and full of detail. Recently, however, a number of builders got denounced by passers-by, who had their patience tired out by the lengthy intervals of rest taken, and by the careful scrutiny applied to every individual brick. On another occasion, the inmates of an entire establishment were transferred to another part of the country. But, as a rule, this transference to other parts only arises from political reasons. It is on Edition: current; Page: [60] this account that the Younkers are now agitating to obtain for all working-men the same permanence which judges enjoy in their office.
+In those rare cases where denunciations do take place, the judicial proceedings are tedious, and full of detail. Recently, however, a number of builders got denounced by passers-by, who had their patience tired out by the lengthy intervals of rest taken, and by the careful scrutiny applied to every individual brick. On another occasion, the inmates of an entire establishment were transferred to another part of the country. But, as a rule, this transference to other parts only arises from political reasons. It is on this account that the Younkers are now agitating to obtain for all working-men the same permanence which judges enjoy in their office.
 
 This matter of removal to other places has its odd side. The principle of social equality requires that every man, no matter where he be, finds everything precisely as it was in the old place. He finds exactly the same wages, the same food, the same dwelling, and so on, as those he left behind him.
 

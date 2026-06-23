@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-terrorism-and-communism-a-contri-a2ee74",
+  "work_title": "Terrorism and Communism: A Contribution to the Natural History of Revolution",
+  "chapter_number": 18,
+  "chapter_title": "The Humanising of Conduct in the Nineteenth Century",
+  "chapter_slug": "18-the-humanising-of-conduct-in-the-nineteenth-centur",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "73dfff71-c0df-5216-8e5e-b5ceb23f6874",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2496,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1919/terrcomm/ch07.htm"
+    }
+  ]
+}

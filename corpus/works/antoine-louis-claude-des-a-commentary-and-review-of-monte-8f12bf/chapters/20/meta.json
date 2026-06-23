@@ -2,7 +2,7 @@
   "work_slug": "antoine-louis-claude-des-a-commentary-and-review-of-monte-8f12bf",
   "work_title": "A Commentary and Review of Montesquieu's Spirit of Laws",
   "chapter_number": 20,
-  "chapter_title": "Book XVIII: Of Laws in Relation to the Nature of the Soil.",
+  "chapter_title": "Book XIX: Of Laws in Relation to the Principles which Form the General Dispositions, Morals, and Manners of a Nation.",
   "chapter_slug": "20",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1204,
-      "paragraph_count": 13,
+      "word_count": 809,
+      "paragraph_count": 9,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws"
     }

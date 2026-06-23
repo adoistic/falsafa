@@ -4,13 +4,17 @@ slug: "john-elliott-cairnes-the-character-and-logical-method-cd9121"
 title: The Character and Logical Method of Political Economy
 author:
   name: John Elliott Cairnes
-  biography: John Elliott Cairnes (1823–1875).
+  biography: "Irish economist of the classical school, holder of chairs at Galway and University College London. The Character and Logical Method of Political Economy defended deductive method in economics, and his later work refined the wage-fund and value doctrines of Mill."
+  birth_year: 1823
+  death_year: 1875
+  nationality: Irish
 era: 19th Century
 genre: Economics
 language: English
 language_direction: ltr
 description: "The Character and Logical Method of Political Economy, by John Elliott Cairnes (1823–1875), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1857
 total_logical_chapters: 13
 total_variant_entries: 13
 thothica_role: catalog

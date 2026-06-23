@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 64,
+  "chapter_title": "Ix.—: He who troubles his own house, shall inherit the wind",
+  "chapter_slug": "64-ix-he-who-troubles-his-own-house-shall-inherit-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f14b670-33d3-5a24-804a-2a2ca7ffe037",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 225,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

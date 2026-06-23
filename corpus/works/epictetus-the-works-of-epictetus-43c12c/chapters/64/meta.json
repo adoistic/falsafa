@@ -2,7 +2,7 @@
   "work_slug": "epictetus-the-works-of-epictetus-43c12c",
   "work_title": "The Works of Epictetus",
   "chapter_number": 64,
-  "chapter_title": "CHAPTER IV.: CONCERNING ONE WHO MADE HIMSELF IMPROPERLY CONSPICUOUS IN THE THEATRE.",
+  "chapter_title": "Chapter V.: Concerning Those Who Plead Sickness.",
   "chapter_slug": "64",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 541,
-      "paragraph_count": 5,
+      "word_count": 685,
+      "paragraph_count": 10,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
     }

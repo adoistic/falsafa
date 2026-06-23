@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 48,
+  "chapter_title": "Sixth Commandment.: THOU SHALT NOT KILL.",
+  "chapter_slug": "48-sixth-commandment-thou-shalt-not-kill",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ed5cec0-ef24-52ca-92b4-a6439b3adab8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 538,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "james-mill-elements-of-political-economy-3e1c36"
 work_title: Elements of Political Economy
 author_name: James Mill
 chapter_number: 46
-chapter_title: Section XIV. Taxes Upon the Transfer of Property
+chapter_title: Section XV. Law Taxes
 chapter_slug: 46
 variant_id: "6f29d130-7c8d-5553-81b3-6c20fac980ba"
 content_type: translation
@@ -13,15 +13,17 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 151
+word_count: 189
 source_url: "https://oll.libertyfund.org/titles/mill-elements-of-political-economy-3rd-ed-1844"
 translator: Online Library of Liberty edition
 ---
 
-Taxes upon the transfer of property are of several kinds; such as stamp duties upon purchase and sale, legacy duties, duties upon the writings required in the conveying of property, and others of the same nature.
+Taxes upon proceedings at law are levied chiefly in the form of stamps, on the different writings employed in the business of judicature; and in that of fees on the several steps and incidents of the judicial procedure.
 
-In the case of all that property, which is the produce of labour and capital, the tax upon purchase and sale falls upon the purchaser, because the cost of production, including the profits of stock, must be afforded along with the tax.
+It is evident enough that they fall upon the suitors. It is equally evident that they are a tax upon the demand for justice.
 
-Taxes upon the transfer of land, which is a source of production, and not the effect of labour and capital, fall upon the seller; because the purchaser considers what benefit he could derive from his capital employed in another way; and if the land will not afford him an equivalent, he will refuse to exchange it for the land.
+Justice is demanded in two cases; either that, in which it is a matter of doubt to which of two persons a certain right belongs; or that, in which the right of some person has been violated, and a remedy is required.
 
-Legacy duties, and duties upon free gifts, fall, it is evident, upon the receivers.
+There is no peculiar propriety in taxing a man, because he has a right, which, unfortunately for him, is disputed. But there is the greatest of all improprieties in taxing a man, because he has sustained an act of injustice.
+
+It is very evident that all such taxes are a bar in the way of obtaining redress of injury; and just in so far as any thing obstructs the redress of injury, injustice is promoted. A tax upon justice, therefore, is a premium upon injustice.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 84,
+  "chapter_title": "From Dr. Cullen to Dr. Hunter.",
+  "chapter_slug": "84-from-dr-cullen-to-dr-hunter",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ebde841-c5e0-5fee-a655-7fed294c2d8d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 36120,
+      "paragraph_count": 1146,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

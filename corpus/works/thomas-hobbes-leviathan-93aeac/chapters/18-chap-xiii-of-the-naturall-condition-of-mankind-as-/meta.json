@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 18,
+  "chapter_title": "Chap. XIII.: Of the Naturall Condition of Mankind, as concerning their Felicity, and Misery.",
+  "chapter_slug": "18-chap-xiii-of-the-naturall-condition-of-mankind-as-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2b5d05d-6adb-5ff2-9cd2-0c1acb299aa9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1782,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

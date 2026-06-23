@@ -1,72 +1,72 @@
 [
   {
-    "id": "p-b0f79e",
+    "id": "p-63b881",
     "offset": 0,
-    "text": "§ 15. I call the output in any industry which maximises the national dividend, and, apart from the differences in the marginal utility of money to different people, also maximises satisfaction, the ideal output. As was shown in Chapter XI. of Part II. this output is attained—the possibility of multiple maximum positions Edition: current; Page: [803] being ignored—when the value of the marginal social net product of each sort of resource invested in the industry under review is equal to the value of the marginal social net product of resources in industries in general, or, more strictly, in the central archetypal industry of Part II. Chapter XI. § 1. In this central archetypal industry each sort of productive resource will have a value in money per unit equal to the value of the net product of a marginal unit of it. Hence the ideal output in our particular industry will be that output which makes the demand price of the output equal to the money value of the resources engaged in producing a marginal unit of output; in other words, it will be Edition: current; Page: [804] the output that makes demand price and marginal supply price to the community equal."
+    "text": "§ 15. I call the output in any industry which maximises the national dividend, and, apart from the differences in the marginal utility of money to different people, also maximises satisfaction, the ideal output. As was shown in Chapter XI. of Part II. this output is attained—the possibility of multiple maximum positions being ignored—when the value of the marginal social net product of each sort of resource invested in the industry under review is equal to the value of the marginal social net product of resources in industries in general, or, more strictly, in the central archetypal industry of Part II. Chapter XI. § 1. In this central archetypal industry each sort of productive resource will have a value in money per unit equal to the value of the net product of a marginal unit of it. Hence the ideal output in our particular industry will be that output which makes the demand price of the output equal to the money value of the resources engaged in producing a marginal unit of output; in other words, it will be the output that makes demand price and marginal supply price to the community equal."
   },
   {
     "id": "p-8d6fad",
-    "offset": 1173,
+    "offset": 1113,
     "text": "§ 16. Let the quantities of the several domestically owned ingredients (including, of course, factors of production), which are required, directly or through things made by them, to produce an output xr in the equilibrium firm of an industry, whose total output is y, be respectively a, b, c, and the prices p1, p2, p3. Let the quantity of foreign owned ingredient (e.g. imported machinery or raw material) be q and its price pq. We may then, in a many-firm industry, distinguish the following quantities:"
   },
   {
     "id": "p-58e234",
-    "offset": 1680,
+    "offset": 1620,
     "text": "First, the supply price equals (1) Secondly, the marginal supply price to the industry, i.e. the difference made to the total money expenses of the industry by adding a small increment of output, (2) Thirdly, the marginal supply price to the community, i.e. the difference made to the total money expenses of the community by adding a small increment of output, (3) Fourthly, the rate of change from the standpoint of the industry in the supply price as output increases (4) Fifthly, the rate of change from the standpoint of the community in the supply price as output increases"
   },
   {
     "id": "p-6c0b00",
-    "offset": 2261,
+    "offset": 2201,
     "text": "This last expression is derived from the preceding one by eliminating the elements that represent increments of transfer between the equilibrium firm in our industry and domestic owners of the ingredients it employs."
   },
   {
     "id": "p-a78257",
-    "offset": 2479,
+    "offset": 2419,
     "text": "§ 17. The foregoing expression (4) multiplied by y measures the excess of expression (2) over expression (1); and the expression (5) multiplied by y measures the excess of expression (3) over expression (1). Hence:"
   },
   {
     "id": "p-673e15",
-    "offset": 2695,
+    "offset": 2635,
     "text": "(1) In all industries where the rate of change from the standpoint of the industry in the supply price, as output increases, is positive (i.e. where conditions of increasing supply price simpliciter prevail), the supply price is less than the marginal supply price to the industry: in the converse case it is greater."
   },
   {
     "id": "p-5e90b8",
-    "offset": 3014,
+    "offset": 2954,
     "text": "(2) In all industries where the rate of change from the standpoint of the community of the supply price is positive (i.e. where conditions of increasing supply price from the standpoint of the community prevail) the supply price is less than the marginal supply price to the community: in the converse case it is greater."
   },
   {
     "id": "p-a269f9",
-    "offset": 3337,
+    "offset": 3277,
     "text": "§ 18. It was shown in § 10 of Part II. Chapter XI. that the expression is unlikely to be negative: and in § 7 of the same chapter that the expression is extremely unlikely to be positive. We may take it that, though exceptions are possible, both these inequalities hold good in general. On the other hand, the expression may be positive if is positive: and, of course, the expression for the rate of change from the standpoint of the industry in the supply price may be either positive or negative."
   },
   {
     "id": "p-5dfa7e",
-    "offset": 3837,
+    "offset": 3777,
     "text": "Hence:"
   },
   {
     "id": "p-c03acd",
-    "offset": 3845,
+    "offset": 3785,
     "text": "§ 19. The ideal output is attained, as was stated above, when the marginal supply price to the community is equal to the demand price."
   },
   {
     "id": "p-f0cc36",
-    "offset": 3981,
+    "offset": 3921,
     "text": "The output proper to simple competition is attained when the supply price is equal to the demand price."
   },
   {
     "id": "p-e3e6e3",
-    "offset": 4086,
+    "offset": 4026,
     "text": "The output proper to discriminating monopoly of the first degree is attained when the marginal supply price to the industry is equal to the demand price."
   },
   {
     "id": "p-4ead23",
-    "offset": 4241,
+    "offset": 4181,
     "text": "The following inferences hold good in general (i.e. when the inequalities set out in § 18 are valid):"
   },
   {
     "id": "p-ce49de",
-    "offset": 4344,
+    "offset": 4284,
     "text": "§ 20. The analysis of head (4) in the preceding paragraph may be illustrated thus. Suppose that wheat-growing conforms to the law of constant supply price from the standpoint of the community, but to that of increasing supply price from that of the industry (i.e. simpliciter), because, and only because, the price of land is raised when more of it is wanted for wheat-growing. In this case the supply price is equal to the marginal supply price to the community, and the output proper to simple competition is identical with the ideal output. But, if wheat farmers, who are supposed to hire their land from landlords, combine and exercise discriminating monopoly of the first degree, they will cut down their wheat-growing, because, by so doing, they will cause the rent per acre that they have to pay to fall. Their output will then be less than the ideal output, instead of being, as it was before, equal to it. If wheat farmers own their land, and do not hire it, the distinction between the interests of the industry and of the community disappears; and the output of wheat will be the same under discriminating monopoly of the first degree as under simple competition, i.e. equal to the ideal output."
   }
 ]

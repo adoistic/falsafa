@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 4
-chapter_title: "LETTER IV.: Reasons for Restraint.—Protection of Indigence."
+chapter_title: "Letter IV.: Reasons for Restraint.—Protection of Indigence."
 chapter_slug: 04
 variant_id: "78993767-4e3d-5a2a-8c4b-4255d0f3ddc5"
 content_type: translation

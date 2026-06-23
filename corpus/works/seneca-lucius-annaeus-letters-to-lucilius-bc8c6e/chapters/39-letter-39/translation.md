@@ -1,0 +1,30 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 39
+chapter_title: Letter 39
+chapter_slug: "39-letter-39"
+variant_id: "7cbb14b3-fe45-51dd-b97d-66dc5007c4c8"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 565
+translator: thothica
+---
+
+1. The notebooks you ask for, carefully arranged and compressed into small compass, I will indeed put together. But consider whether the method in due order may not be more profitable than this thing which is now commonly called a breviary, and was once, when men spoke Latin, called a summary. The former is more necessary to one who is learning, the latter to one who already knows. For the one teaches, the other reminds. But I shall furnish you abundance of both. From me there is no reason for you to demand this or that authority: he who gives a sponsor is himself unknown.
+
+2. I shall write therefore what you wish, but in my own manner; meanwhile you have many whose writings I do not know whether they are well enough ordered. Take in your hands a list of the philosophers; this very thing will compel you to wake up, when you see how many have toiled for you. You will desire to be yourself one of them. For the noble mind has this best quality in it, that it is roused toward what is honourable. No man of lofty genius is delighted by what is lowly and sordid; the appearance of great things calls him to itself and lifts him up.
+
+3. Just as the flame rises straight upward and cannot lie down or be pressed down, no more than it can be still, so our mind is in motion, the more mobile and active the more vehement it is. But happy is he who has given this impulse toward better things! He will set himself beyond the law and dominion of fortune. He will temper prosperity, will lessen adversity, and will look down on what others admire.
+
+4. It is the mark of a great mind to despise great things and to prefer the moderate to the excessive. For the former are useful and life-giving; but these latter do harm by their very superfluity. So an excess of richness lays the crop flat, so branches are broken by too great a load, so over-abundant fruitfulness does not reach ripeness. The same befalls minds too, which immoderate prosperity bursts, and which men use not only to the injury of others, but even to their own.
+
+5. What enemy was ever so insolent to any man as some men's pleasures are to them? Their wantonness and mad lust you could forgive on this one ground, that they suffer what they have done. Nor is it without cause that this frenzy harasses them; for desire must needs go out into the boundless when it has leaped over the natural measure. For that has its own limit, but vain desires born of lust are without end.
+
+6. Usefulness measures what is necessary; but to what do you reduce the superfluous? And so men plunge themselves into pleasures which, once brought into habit, they cannot do without, and they are most wretched on this account, that they have come to the point where the things that had been superfluous have become necessary. And so they are slaves to their pleasures, not enjoyers of them, and—what is the last of evils—they even love their own evils. But then is unhappiness complete, when base things not only delight but even please, and there ceases to be room for remedy where what had been faults have become character. Farewell.

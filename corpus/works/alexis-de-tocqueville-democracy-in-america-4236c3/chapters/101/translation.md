@@ -1,0 +1,25 @@
+---
+work_id: "4236c39f-c0d0-5a54-8dc7-6901642e8c28"
+work_slug: "alexis-de-tocqueville-democracy-in-america-4236c3"
+work_title: Democracy in America
+author_name: Alexis de Tocqueville
+chapter_number: 101
+chapter_title: "Chapter I: That Equality Naturally Gives Men A Taste For Free Institutions"
+chapter_slug: 101
+variant_id: "b203b5ce-ad66-5f3f-b984-e327363757c1"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 489
+source_url: "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch41.htm"
+translator: Henry Reeve
+---
+
+I should imperfectly fulfil the purpose of this book, if, after having shown what opinions and sentiments are suggested by the principle of equality, I did not point out, ere I conclude, the general influence which these same opinions and sentiments may exercise upon the government of human societies. To succeed in this object I shall frequently have to retrace my steps; but I trust the reader will not refuse to follow me through paths already known to him, which may lead to some new truth.
+
+The principle of equality, which makes men independent of each other, gives them a habit and a taste for following, in their private actions, no other guide but their own will. This complete independence, which they constantly enjoy towards their equals and in the intercourse of private life, tends to make them look upon all authority with a jealous eye, and speedily suggests to them the notion and the love of political freedom. Men living at such times have a natural bias to free institutions. Take any one of them at a venture, and search if you can his most deep-seated instincts; you will find that of all governments he will soonest conceive and most highly value that government, whose head he has himself elected, and whose administration he may control. Of all the political effects produced by the equality of conditions, this love of independence is the first to strike the observing, and to alarm the timid; nor can it be said that their alarm is wholly misplaced, for anarchy has a more formidable aspect in democratic countries than elsewhere. As the citizens have no direct influence on each other, as soon as the supreme power of the nation fails, which kept them all in their several stations, it would seem that disorder must instantly reach its utmost pitch, and that, every man drawing aside in a different direction, the fabric of society must at once crumble away.
+
+I am, however, persuaded that anarchy is not the principal evil which democratic ages have to fear, but the least. For the principle of equality begets two tendencies; the one leads men straight to independence, and may suddenly drive them into anarchy; the other conducts them by a longer, more secret, but more certain road, to servitude. Nations readily discern the former tendency, and are prepared to resist it; they are led away by the latter, without perceiving its drift; hence it is peculiarly important to point it out. For myself, I am so far from urging as a reproach to the principle of equality that it renders men untractable, that this very circumstance principally calls forth my approbation. I admire to see how it deposits in the mind and heart of man the dim conception and instinctive love of political independence, thus preparing the remedy for the evil which it engenders; it is on this very account that I am attached to it.

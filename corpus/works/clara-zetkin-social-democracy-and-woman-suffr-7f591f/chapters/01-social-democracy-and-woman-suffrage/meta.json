@@ -1,0 +1,26 @@
+{
+  "work_slug": "clara-zetkin-social-democracy-and-woman-suffr-7f591f",
+  "work_title": "Social-Democracy and Woman Suffrage",
+  "chapter_number": 1,
+  "chapter_title": "Social-Democracy and Woman Suffrage",
+  "chapter_slug": "01-social-democracy-and-woman-suffrage",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "96c9685f-42c7-526b-98da-898bf8eda603",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10304,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/zetkin/1906/xx/womansuffrage.htm"
+    }
+  ]
+}

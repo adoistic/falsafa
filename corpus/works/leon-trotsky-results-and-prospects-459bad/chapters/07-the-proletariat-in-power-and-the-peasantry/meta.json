@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-results-and-prospects-459bad",
+  "work_title": "Results and Prospects",
+  "chapter_number": 7,
+  "chapter_title": "The Proletariat in Power and the Peasantry",
+  "chapter_slug": "07-the-proletariat-in-power-and-the-peasantry",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79b28871-a03d-58dc-9383-007ce982440c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1515,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1931/tpr/rp05.htm"
+    }
+  ]
+}

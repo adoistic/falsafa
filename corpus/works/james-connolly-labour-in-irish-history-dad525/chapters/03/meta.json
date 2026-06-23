@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-labour-in-irish-history-dad525",
+  "work_title": "Labour in Irish History",
+  "chapter_number": 3,
+  "chapter_title": "Chapter II The Jacobites and the Irish people",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0cfdc1ab-6f45-5071-9635-04e607a31caf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2134,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1910/lih/chap02.htm"
+    }
+  ]
+}

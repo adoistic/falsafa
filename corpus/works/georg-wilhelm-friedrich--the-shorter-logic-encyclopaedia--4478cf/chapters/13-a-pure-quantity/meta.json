@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 13,
+  "chapter_title": "(a) Pure Quantity",
+  "chapter_slug": "13-a-pure-quantity",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31d92cec-78a2-51cd-b49d-3fe1d6c69035",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1710,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slquant.htm"
+    }
+  ]
+}

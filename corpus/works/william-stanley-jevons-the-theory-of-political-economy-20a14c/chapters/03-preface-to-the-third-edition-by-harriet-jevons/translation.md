@@ -4,7 +4,7 @@ work_slug: "william-stanley-jevons-the-theory-of-political-economy-20a14c"
 work_title: The Theory of Political Economy
 author_name: William Stanley Jevons
 chapter_number: 3
-chapter_title: PREFACE TO THE THIRD EDITION by Harriet Jevons
+chapter_title: Preface to the Third Edition by Harriet Jevons
 chapter_slug: "03-preface-to-the-third-edition-by-harriet-jevons"
 variant_id: "92f0898f-a53a-5d4c-9611-098a48bbcb1c"
 content_type: translation

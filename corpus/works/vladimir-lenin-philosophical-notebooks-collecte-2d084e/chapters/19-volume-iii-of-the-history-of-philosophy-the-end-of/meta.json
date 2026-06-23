@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 19,
+  "chapter_title": "Volume III of The History of Philosophy. (The End of Greek Philosophy, Medieval and Modern Philosophy up to Schelling, p",
+  "chapter_slug": "19-volume-iii-of-the-history-of-philosophy-the-end-of",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "63cc4e28-ce8c-5cac-a44d-6d2b166cbaf9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 217,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/cons-lect/ch04.htm"
+    }
+  ]
+}

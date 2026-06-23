@@ -4,7 +4,7 @@ work_slug: "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a"
 work_title: "Magna Carta: A Commentary on the Great Charter of King John"
 author_name: William Sharp McKechnie
 chapter_number: 144
-chapter_title: CHAPTER THIRTY–FOUR.
+chapter_title: Chapter Thirty–eight.
 chapter_slug: 144
 variant_id: "24b1644f-fe6f-5202-9464-992557754dba"
 content_type: translation
@@ -13,13 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 187
+word_count: 172
 source_url: "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
 translator: Online Library of Liberty edition
 ---
 
-Breve quod vocatur Precipe de cetero non fiat alicui de aliquo tenemento unde liber homo amittere possit curiam suam.
+Nullus ballivus ponat de cetero aliquem ad legem simplici loquela sua, sine testibus fidelibus ad hoc inductis.
 
-The writ which is called praecipe shall not for the future be issued to anyone, regarding any tenement whereby a freeman may lose his court.
+No bailiff for the future shall, upon his own unsupported complaint, put anyone to his “law,” without credible witnesses brought for this purpose.
 
-The grievance here dealt with lay at the heart of the quarrel of 1215, and the remedy adopted proved a vital factor in the history of royal jurisdiction in England. In extorting from John a solemn promise to restrict the use of this particular writ, the barons gained something of infinitely greater value than a petty reform of court procedure; they committed their enemy to a reversal of a line of policy vigorously pursued for half a century. The process by which the jurisdiction of the King’s courts was undermining that of the feudal courts was now to be arrested. Magna Carta, by this apparently inoffensive clause, was grappling in reality with an urgent problem of the day, fraught with tremendous practical issues alike for King and barons. This can only be understood in connection with the technical details on which it hinges.
+The exact nature of the abuse here condemned has been much discussed by commentators. Bailiffs (the word is probably used here in its widest sense) were wont to abuse their authority: henceforth they shall put no man to his “lex” on their own initiative. The word lex, in its technical sense, applied to any form of judicial test, such as compurgation, ordeal, or combat, the precise meaning required in each particular case being determined by the context. In the present chapter it seems to have this technical meaning of a judicial “proof” or “trial” of any sort: henceforward no bailiff should have power “simplici loquela sua” to put anyone to a “lex” of any kind. Authorities differ as to the exact nature of the irregularities which this clause was meant to suppress.

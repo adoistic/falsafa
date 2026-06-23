@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 35,
+  "chapter_title": "Occupation of Land by Labourers.",
+  "chapter_slug": "35-occupation-of-land-by-labourers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "483692a2-e7f1-5dfd-ae54-271ba701f445",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6576,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

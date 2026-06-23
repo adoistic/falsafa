@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-results-and-prospects-459bad",
+  "work_title": "Results and Prospects",
+  "chapter_number": 11,
+  "chapter_title": "Europe and Revolution",
+  "chapter_slug": "11-europe-and-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "754def30-2ca2-504c-bf4c-c282fc838699",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3041,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1931/tpr/rp09.htm"
+    }
+  ]
+}

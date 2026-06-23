@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-now-and-after-the-abc-of-communi-31809e",
+  "work_title": "Now and After: The ABC of Communist Anarchism (What is Communist Anarchism?)",
+  "chapter_number": 27,
+  "chapter_title": "Chapter 25 : The Idea is the Thing",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e0ba560-2c9f-57f6-be98-5f2d65b7c405",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2157,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1929/what-is-communist-anarchism/chapter-25.html"
+    }
+  ]
+}

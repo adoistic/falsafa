@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-natural-law-or-the-science-of-ju-a93a80"
 work_title: Natural Law, or the Science of Justice
 author_name: Lysander Spooner
 chapter_number: 8
-chapter_title: Section IV.
+chapter_title: Section VI.
 chapter_slug: 08
 variant_id: "167ee248-e5ba-5f24-850b-6e0871e18f95"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 193
+word_count: 370
 source_url: "https://oll.libertyfund.org/titles/spooner-natural-law-or-the-science-of-justice-1882"
 translator: Online Library of Liberty edition
 ---
 
-If there be such a principle as justice, or natural law, it is the principle, or law, that tells us what rights were given to every human being at his birth; what rights are, therefore, inherent in him as a human being, necessarily remain with him during life; and, however capable of being trampled upon, are incapable of being blotted out, extinguished, annihilated, or separated or eliminated from his nature as a human being, or deprived of their inherent authority or obligation.
+If there be in nature such a principle as justice, such a principle as honesty, such principles as we describe by the words mine and thine, such principles as men’s natural rights of person and property, then we have an immutable and universal law; a law that we can learn, as we learn any other science; a law that is paramount to, and excludes, every thing that conflicts with it; a law that tells us what is just and what is unjust, what is honest and what is dishonest, what things are mine and what things are thine, what are my rights of person and property and what are your rights of person and property, and where is the boundary between each and all of my rights of person and property and each and all of your rights of person and property. And this law is the paramount law, and the same law, over all the world, at all times, and for all peoples; and will be the same paramount and only law, at all times, and for all peoples, so long as man shall live upon the earth.
 
-On the other hand, if there be no such principle as justice, or natural law, then every human being came into the world utterly destitute of rights; and coming into the world destitute of rights, he must necessarily forever remain so. For if no one brings any rights with him into the world, clearly no one can ever have any rights of his own, or give any to another. And the consequence would be that mankind could never have any rights; and for them to talk of any such things as their rights, would be to talk of things that never had, never will have, and never can have an existence.
+But if, on the other hand, there be in nature no such principle as justice, no such principle as honesty, no such principle as men’s natural rights of person or property, then all such words as justice and injustice, honesty and dishonesty, all such words as mine and thine, all words that signify that one thing is one man’s property and that another thing is another man’s property, all words that are used to describe men’s natural rights of person or property, all such words as are used to describe injuries and crimes, should be struck out of all human languages as having no meanings; and it should be declared, at once and forever, that the greatest force and the greatest frauds, for the time being, are the supreme and only laws for governing the relations of men with each other; and that, from henceforth, all persons and combinations of persons—those that call themselves governments, as well as all others—are to be left free to practice upon each other all the force, and all the fraud, of which they are capable.

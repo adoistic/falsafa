@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 6,
+  "chapter_title": "Oration 6",
+  "chapter_slug": "06-oration-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8d1f06a3-8764-5e9b-8584-46fbb90ae994",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3276,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1184cfed-5abd-54d5-b98c-db29a46ea890",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4228,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 20,
+  "chapter_title": "Chpt. 1 Strategy",
+  "chapter_slug": "20-chpt-1-strategy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "05f3aafc-a16f-5376-963d-44e8eab99ade",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3338,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch01.htm"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+---
+work_id: "125858cf-fea7-5292-b00d-5f4f6d6e46e4"
+work_slug: "friedrich-nietzsche-thus-spake-zarathustra-125858"
+work_title: Thus Spake Zarathustra
+author_name: Friedrich Nietzsche
+chapter_number: 81
+chapter_title: LXXX. The Sign.
+chapter_slug: "81-lxxx-the-sign"
+variant_id: "82527133-d6ff-5735-b46b-482e0320f2f1"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 3040
+source_url: "https://www.gutenberg.org/ebooks/1998"
+translator: Project Gutenberg edition
+---
+
+In the morning, however, after this night, Zarathustra jumped up from his couch, and, having girded his loins, he came out of his cave glowing and strong, like a morning sun coming out of gloomy mountains.
+
+“Thou great star,” spake he, as he had spoken once before, “thou deep eye of happiness, what would be all thy happiness if thou hadst not THOSE for whom thou shinest!
+
+And if they remained in their chambers whilst thou art already awake, and comest and bestowest and distributest, how would thy proud modesty upbraid for it!
+
+Well! they still sleep, these higher men, whilst *I* am awake: THEY are not my proper companions! Not for them do I wait here in my mountains.
+
+At my work I want to be, at my day: but they understand not what are the signs of my morning, my step—is not for them the awakening-call.
+
+They still sleep in my cave; their dream still drinketh at my drunken songs. The audient ear for ME—the OBEDIENT ear, is yet lacking in their limbs.”
+
+—This had Zarathustra spoken to his heart when the sun arose: then looked he inquiringly aloft, for he heard above him the sharp call of his eagle. “Well!” called he upwards, “thus is it pleasing and proper to me. Mine animals are awake, for I am awake.
+
+Mine eagle is awake, and like me honoureth the sun. With eagle-talons doth it grasp at the new light. Ye are my proper animals; I love you.
+
+But still do I lack my proper men!”—
+
+Thus spake Zarathustra; then, however, it happened that all on a sudden he became aware that he was flocked around and fluttered around, as if by innumerable birds,—the whizzing of so many wings, however, and the crowding around his head was so great that he shut his eyes. And verily, there came down upon him as it were a cloud, like a cloud of arrows which poureth upon a new enemy. But behold, here it was a cloud of love, and showered upon a new friend.
+
+“What happeneth unto me?” thought Zarathustra in his astonished heart, and slowly seated himself on the big stone which lay close to the exit from his cave. But while he grasped about with his hands, around him, above him and below him, and repelled the tender birds, behold, there then happened to him something still stranger: for he grasped thereby unawares into a mass of thick, warm, shaggy hair; at the same time, however, there sounded before him a roar,—a long, soft lion-roar.
+
+“THE SIGN COMETH,” said Zarathustra, and a change came over his heart. And in truth, when it turned clear before him, there lay a yellow, powerful animal at his feet, resting its head on his knee,—unwilling to leave him out of love, and doing like a dog which again findeth its old master. The doves, however, were no less eager with their love than the lion; and whenever a dove whisked over its nose, the lion shook its head and wondered and laughed.
+
+When all this went on Zarathustra spake only a word: “MY CHILDREN ARE NIGH, MY CHILDREN”—, then he became quite mute. His heart, however, was loosed, and from his eyes there dropped down tears and fell upon his hands. And he took no further notice of anything, but sat there motionless, without repelling the animals further. Then flew the doves to and fro, and perched on his shoulder, and caressed his white hair, and did not tire of their tenderness and joyousness. The strong lion, however, licked always the tears that fell on Zarathustra’s hands, and roared and growled shyly. Thus did these animals do.—
+
+All this went on for a long time, or a short time: for properly speaking, there is NO time on earth for such things—. Meanwhile, however, the higher men had awakened in Zarathustra’s cave, and marshalled themselves for a procession to go to meet Zarathustra, and give him their morning greeting: for they had found when they awakened that he no longer tarried with them. When, however, they reached the door of the cave and the noise of their steps had preceded them, the lion started violently; it turned away all at once from Zarathustra, and roaring wildly, sprang towards the cave. The higher men, however, when they heard the lion roaring, cried all aloud as with one voice, fled back and vanished in an instant.
+
+Zarathustra himself, however, stunned and strange, rose from his seat, looked around him, stood there astonished, inquired of his heart, bethought himself, and remained alone. “What did I hear?” said he at last, slowly, “what happened unto me just now?”
+
+But soon there came to him his recollection, and he took in at a glance all that had taken place between yesterday and to-day. “Here is indeed the stone,” said he, and stroked his beard, “on IT sat I yester-morn; and here came the soothsayer unto me, and here heard I first the cry which I heard just now, the great cry of distress.
+
+O ye higher men, YOUR distress was it that the old soothsayer foretold to me yester-morn,—
+
+—Unto your distress did he want to seduce and tempt me: ‘O Zarathustra,’ said he to me, ‘I come to seduce thee to thy last sin.’
+
+To my last sin?” cried Zarathustra, and laughed angrily at his own words: “WHAT hath been reserved for me as my last sin?”
+
+—And once more Zarathustra became absorbed in himself, and sat down again on the big stone and meditated. Suddenly he sprang up,—
+
+“FELLOW-SUFFERING! FELLOW-SUFFERING WITH THE HIGHER MEN!” he cried out, and his countenance changed into brass. “Well! THAT—hath had its time!
+
+My suffering and my fellow-suffering—what matter about them! Do I then strive after HAPPINESS? I strive after my WORK!
+
+Well! The lion hath come, my children are nigh, Zarathustra hath grown ripe, mine hour hath come:—
+
+This is MY morning, MY day beginneth: ARISE NOW, ARISE, THOU GREAT NOONTIDE!”—
+
+Thus spake Zarathustra and left his cave, glowing and strong, like a morning sun coming out of gloomy mountains.
+
+APPENDIX.
+
+NOTES ON “THUS SPAKE ZARATHUSTRA” BY ANTHONY M. LUDOVICI.
+
+I have had some opportunities of studying the conditions under which Nietzsche is read in Germany, France, and England, and I have found that, in each of these countries, students of his philosophy, as if actuated by precisely similar motives and desires, and misled by the same mistaken tactics on the part of most publishers, all proceed in the same happy-go-lucky style when “taking him up.” They have had it said to them that he wrote without any system, and they very naturally conclude that it does not matter in the least whether they begin with his first, third, or last book, provided they can obtain a few vague ideas as to what his leading and most sensational principles were.
+
+Now, it is clear that the book with the most mysterious, startling, or suggestive title, will always stand the best chance of being purchased by those who have no other criteria to guide them in their choice than the aspect of a title-page; and this explains why “Thus Spake Zarathustra” is almost always the first and often the only one of Nietzsche’s books that falls into the hands of the uninitiated.
+
+The title suggests all kinds of mysteries; a glance at the chapter-headings quickly confirms the suspicions already aroused, and the sub-title: “A Book for All and None”, generally succeeds in dissipating the last doubts the prospective purchaser may entertain concerning his fitness for the book or its fitness for him. And what happens?
+
+“Thus Spake Zarathustra” is taken home; the reader, who perchance may know no more concerning Nietzsche than a magazine article has told him, tries to read it and, understanding less than half he reads, probably never gets further than the second or third part,—and then only to feel convinced that Nietzsche himself was “rather hazy” as to what he was talking about. Such chapters as “The Child with the Mirror”, “In the Happy Isles”, “The Grave-Song,” “Immaculate Perception,” “The Stillest Hour”, “The Seven Seals”, and many others, are almost utterly devoid of meaning to all those who do not know something of Nietzsche’s life, his aims and his friendships.
+
+As a matter of fact, “Thus Spake Zarathustra”, though it is unquestionably Nietzsche’s opus magnum, is by no means the first of Nietzsche’s works that the beginner ought to undertake to read. The author himself refers to it as the deepest work ever offered to the German public, and elsewhere speaks of his other writings as being necessary for the understanding of it. But when it is remembered that in Zarathustra we not only have the history of his most intimate experiences, friendships, feuds, disappointments, triumphs and the like, but that the very form in which they are narrated is one which tends rather to obscure than to throw light upon them, the difficulties which meet the reader who starts quite unprepared will be seen to be really formidable.
+
+Zarathustra, then,—this shadowy, allegorical personality, speaking in allegories and parables, and at times not even refraining from relating his own dreams—is a figure we can understand but very imperfectly if we have no knowledge of his creator and counterpart, Friedrich Nietzsche; and it were therefore well, previous to our study of the more abstruse parts of this book, if we were to turn to some authoritative book on Nietzsche’s life and works and to read all that is there said on the subject. Those who can read German will find an excellent guide, in this respect, in Frau Foerster-Nietzsche’s exhaustive and highly interesting biography of her brother: “Das Leben Friedrich Nietzsche’s” (published by Naumann); while the works of Deussen, Raoul Richter, and Baroness Isabelle von Unger-Sternberg, will be found to throw useful and necessary light upon many questions which it would be difficult for a sister to touch upon.
+
+In regard to the actual philosophical views expounded in this work, there is an excellent way of clearing up any difficulties they may present, and that is by an appeal to Nietzsche’s other works. Again and again, of course, he will be found to express himself so clearly that all reference to his other writings may be dispensed with; but where this is not the case, the advice he himself gives is after all the best to be followed here, viz.:—to regard such works as: “Joyful Science”, “Beyond Good and Evil”, “The Genealogy of Morals”, “The Twilight of the Idols”, “The Antichrist”, “The Will to Power”, etc., etc., as the necessary preparation for “Thus Spake Zarathustra”.
+
+These directions, though they are by no means simple to carry out, seem at least to possess the quality of definiteness and straightforwardness. “Follow them and all will be clear,” I seem to imply. But I regret to say that this is not really the case. For my experience tells me that even after the above directions have been followed with the greatest possible zeal, the student will still halt in perplexity before certain passages in the book before us, and wonder what they mean. Now, it is with the view of giving a little additional help to all those who find themselves in this position that I proceed to put forth my own personal interpretation of the more abstruse passages in this work.
+
+In offering this little commentary to the Nietzsche student, I should like it to be understood that I make no claim as to its infallibility or indispensability. It represents but an attempt on my part—a very feeble one perhaps—to give the reader what little help I can in surmounting difficulties which a long study of Nietzsche’s life and works has enabled me, partially I hope, to overcome.
+
+Perhaps it would be as well to start out with a broad and rapid sketch of Nietzsche as a writer on Morals, Evolution, and Sociology, so that the reader may be prepared to pick out for himself, so to speak, all passages in this work bearing in any way upon Nietzsche’s views in those three important branches of knowledge.
+
+(A.) Nietzsche and Morality.
+
+In morality, Nietzsche starts out by adopting the position of the relativist. He says there are no absolute values “good” and “evil”; these are mere means adopted by all in order to acquire power to maintain their place in the world, or to become supreme. It is the lion’s good to devour an antelope. It is the dead-leaf butterfly’s good to tell a foe a falsehood. For when the dead-leaf butterfly is in danger, it clings to the side of a twig, and what it says to its foe is practically this: “I am not a butterfly, I am a dead leaf, and can be of no use to thee.” This is a lie which is good to the butterfly, for it preserves it. In nature every species of organic being instinctively adopts and practises those acts which most conduce to the prevalence or supremacy of its kind. Once the most favourable order of conduct is found, proved efficient and established, it becomes the ruling morality of the species that adopts it and bears them along to victory. All species must not and cannot value alike, for what is the lion’s good is the antelope’s evil and vice versa.
+
+Concepts of good and evil are therefore, in their origin, merely a means to an end, they are expedients for acquiring power.
+
+Applying this principle to mankind, Nietzsche attacked Christian moral values. He declared them to be, like all other morals, merely an expedient for protecting a certain type of man. In the case of Christianity this type was, according to Nietzsche, a low one.
+
+Conflicting moral codes have been no more than the conflicting weapons of different classes of men; for in mankind there is a continual war between the powerful, the noble, the strong, and the well-constituted on the one side, and the impotent, the mean, the weak, and the ill-constituted on the other. The war is a war of moral principles. The morality of the powerful class, Nietzsche calls NOBLE- or MASTER-MORALITY; that of the weak and subordinate class he calls SLAVE-MORALITY. In the first morality it is the eagle which, looking down upon a browsing lamb, contends that “eating lamb is good.” In the second, the slave-morality, it is the lamb which, looking up from the sward, bleats dissentingly: “Eating lamb is evil.”
+
+(B.) The Master- and Slave-Morality Compared.
+
+The first morality is active, creative, Dionysian. The second is passive, defensive,—to it belongs the “struggle for existence.”
+
+Where attempts have not been made to reconcile the two moralities, they may be described as follows:—All is GOOD in the noble morality which proceeds from strength, power, health, well-constitutedness, happiness, and awfulness; for, the motive force behind the people practising it is “the struggle for power.” The antithesis “good and bad” to this first class means the same as “noble” and “despicable.” “Bad” in the master-morality must be applied to the coward, to all acts that spring from weakness, to the man with “an eye to the main chance,” who would forsake everything in order to live.
+
+With the second, the slave-morality, the case is different. There, inasmuch as the community is an oppressed, suffering, unemancipated, and weary one, all THAT will be held to be good which alleviates the state of suffering. Pity, the obliging hand, the warm heart, patience, industry, and humility—these are unquestionably the qualities we shall here find flooded with the light of approval and admiration; because they are the most USEFUL qualities—; they make life endurable, they are of assistance in the “struggle for existence” which is the motive force behind the people practising this morality. To this class, all that is AWFUL is bad, in fact it is THE evil par excellence. Strength, health, superabundance of animal spirits and power, are regarded with hate, suspicion, and fear by the subordinate class.
+
+Now Nietzsche believed that the first or the noble-morality conduced to an ascent in the line of life; because it was creative and active. On the other hand, he believed that the second or slave-morality, where it became paramount, led to degeneration, because it was passive and defensive, wanting merely to keep those who practised it alive. Hence his earnest advocacy of noble-morality.
+
+(C.) Nietzsche and Evolution.
+
+Nietzsche as an evolutionist I shall have occasion to define and discuss in the course of these notes (see Notes on Chapter LVI., par. 10, and on Chapter LVII.). For the present let it suffice for us to know that he accepted the “Development Hypothesis” as an explanation of the origin of species: but he did not halt where most naturalists have halted. He by no means regarded man as the highest possible being which evolution could arrive at; for though his physical development may have reached its limit, this is not the case with his mental or spiritual attributes. If the process be a fact; if things have BECOME what they are, then, he contends, we may describe no limit to man’s aspirations. If he struggled up from barbarism, and still more remotely from the lower Primates, his ideal should be to surpass man himself and reach Superman (see especially the Prologue).
+
+(D.) Nietzsche and Sociology.
+
+Nietzsche as a sociologist aims at an aristocratic arrangement of society. He would have us rear an ideal race. Honest and truthful in intellectual matters, he could not even think that men are equal. “With these preachers of equality will I not be mixed up and confounded. For thus speaketh justice unto ME: ‘Men are not equal.’” He sees precisely in this inequality a purpose to be served, a condition to be exploited. “Every elevation of the type ‘man,’” he writes in “Beyond Good and Evil”, “has hitherto been the work of an aristocratic society—and so will it always be—a society believing in a long scale of gradations of rank and differences of worth among human beings.”
+
+Those who are sufficiently interested to desire to read his own detailed account of the society he would fain establish, will find an excellent passage in Aphorism 57 of “The Antichrist”.

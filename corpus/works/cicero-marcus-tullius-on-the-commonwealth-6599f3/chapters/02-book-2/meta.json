@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-on-the-commonwealth-6599f3",
+  "work_title": "On the Commonwealth",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02-book-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "15e63fb6-5a43-59e2-95c6-22273bf2a3da",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6120,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi043"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "46763814-a2d8-5265-bec1-232123dafa86",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8962,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

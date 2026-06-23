@@ -4,7 +4,7 @@ work_slug: "thomas-hobbes-leviathan-93aeac"
 work_title: Leviathan
 author_name: Thomas Hobbes
 chapter_number: 2
-chapter_title: THE PHILOSOPHY OF HOBBES AN ESSAY
+chapter_title: The Philosophy of Hobbes an Essay
 chapter_slug: "02-the-philosophy-of-hobbes-an-essay"
 variant_id: "096d6a17-be05-5e4c-a85f-a00bc1cfab00"
 content_type: translation

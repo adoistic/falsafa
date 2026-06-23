@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-thomas-more-and-his-utopia-bb36cd",
+  "work_title": "Thomas More and his Utopia",
+  "chapter_number": 12,
+  "chapter_title": "Chapter III. The Families of the Utopians",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d6352222-0fb2-5235-bf99-d8b473877f87",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4398,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1888/more/ch11.htm"
+    }
+  ]
+}

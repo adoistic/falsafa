@@ -4,7 +4,10 @@ slug: "aeschines-against-timarchus-105a70"
 title: Against Timarchus
 author:
   name: Aeschines
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Athenian orator, rival of Demosthenes through the long crisis over Philip of Macedon. His three surviving speeches argue the case for peace with Macedon and end in the failed prosecution of the trial of the Crown.
+  birth_year: -389
+  death_year: -314
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

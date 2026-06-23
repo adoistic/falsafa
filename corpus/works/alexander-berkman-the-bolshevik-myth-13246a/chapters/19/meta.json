@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 19,
+  "chapter_title": "Chapter 18 : The British Labor Mission",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2aa34729-066c-5ee5-bf79-bab5af076672",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2475,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-18.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 20,
+  "chapter_title": "(b) Existence",
+  "chapter_slug": "20-b-existence",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5a979fbb-d303-56b3-9275-9532bc1c76fc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 903,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slessenc.htm"
+    }
+  ]
+}

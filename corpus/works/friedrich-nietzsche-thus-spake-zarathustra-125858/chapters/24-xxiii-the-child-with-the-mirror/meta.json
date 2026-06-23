@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 24,
+  "chapter_title": "XXIII. The Child with the Mirror.",
+  "chapter_slug": "24-xxiii-the-child-with-the-mirror",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "00361442-816c-572c-97d0-d986e6dc12d9",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 742,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5b60e2e1-6982-5ed6-922e-bb0e21430f69",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 803,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

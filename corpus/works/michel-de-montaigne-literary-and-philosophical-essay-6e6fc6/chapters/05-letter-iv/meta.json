@@ -1,0 +1,26 @@
+{
+  "work_slug": "michel-de-montaigne-literary-and-philosophical-essay-6e6fc6",
+  "work_title": "Literary and Philosophical Essays: French, German and Italian",
+  "chapter_number": 5,
+  "chapter_title": "Letter IV",
+  "chapter_slug": "05-letter-iv",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3159fa55-e206-5b07-9902-7bce53698f33",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1201,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5637"
+    }
+  ]
+}

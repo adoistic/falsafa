@@ -4,7 +4,7 @@ work_slug: "dante-alighieri-de-monarchia-a58c66"
 work_title: De Monarchia
 author_name: Dante Alighieri
 chapter_number: 2
-chapter_title: INTRODUCTION
+chapter_title: Introduction
 chapter_slug: "02-introduction"
 variant_id: "838526b1-b551-5e4e-937a-92faaa6ced65"
 content_type: translation

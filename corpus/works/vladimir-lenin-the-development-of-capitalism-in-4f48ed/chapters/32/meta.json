@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-development-of-capitalism-in-4f48ed",
+  "work_title": "The Development of Capitalism in Russia",
+  "chapter_number": 32,
+  "chapter_title": "Chapter III. The Landowners’ Transition from Corvée to Capitalist Economy (8)",
+  "chapter_slug": "32",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70f2d4e9-96d0-5b40-bfab-c8922e28a853",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2836,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1899/dcr8iii/iii8viii.htm"
+    }
+  ]
+}

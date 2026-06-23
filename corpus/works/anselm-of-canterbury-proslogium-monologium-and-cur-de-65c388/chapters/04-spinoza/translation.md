@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 4
-chapter_title: SPINOZA.
+chapter_title: Spinoza.
 chapter_slug: "04-spinoza"
 variant_id: "15631509-06df-58a9-a64b-3241928fdbe9"
 content_type: translation

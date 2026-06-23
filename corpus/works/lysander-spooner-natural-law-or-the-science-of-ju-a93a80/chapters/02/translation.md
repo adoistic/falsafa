@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-natural-law-or-the-science-of-ju-a93a80"
 work_title: Natural Law, or the Science of Justice
 author_name: Lysander Spooner
 chapter_number: 2
-chapter_title: Section II.
+chapter_title: "Chapter I.: The Science of Justice, Section II."
 chapter_slug: 02
 variant_id: "991fb918-e499-547d-bfd3-b7b8eb114104"
 content_type: translation

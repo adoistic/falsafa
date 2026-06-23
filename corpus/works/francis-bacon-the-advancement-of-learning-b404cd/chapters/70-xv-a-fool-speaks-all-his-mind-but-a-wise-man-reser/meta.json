@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 70,
+  "chapter_title": "Xv.—: A fool speaks all his mind, but a wise man reserves something for hereafter",
+  "chapter_slug": "70-xv-a-fool-speaks-all-his-mind-but-a-wise-man-reser",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a5350d7a-6fd3-581e-b12f-a6fbd739a874",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 271,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "herbert-spencer-political-institutions-principle-ea9248"
 work_title: Political Institutions (Principles of Sociology, Part V)
 author_name: Herbert Spencer
 chapter_number: 1
-chapter_title: PREFACE TO PART V.
+chapter_title: Preface to Part V.
 chapter_slug: "01-preface-to-part-v"
 variant_id: "f5428f76-960a-5374-a508-c430adfcc7c5"
 content_type: translation

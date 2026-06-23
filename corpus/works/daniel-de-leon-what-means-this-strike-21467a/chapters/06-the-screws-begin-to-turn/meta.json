@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-what-means-this-strike-21467a",
+  "work_title": "What Means This Strike?",
+  "chapter_number": 6,
+  "chapter_title": "The Screws Begin to Turn",
+  "chapter_slug": "06-the-screws-begin-to-turn",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe8f30ef-e372-5cfe-8ef2-0a225640fccd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1548,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1898/980211.htm"
+    }
+  ]
+}

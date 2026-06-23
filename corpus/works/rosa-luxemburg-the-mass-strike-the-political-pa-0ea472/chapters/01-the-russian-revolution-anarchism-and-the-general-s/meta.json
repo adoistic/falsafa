@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-mass-strike-the-political-pa-0ea472",
+  "work_title": "The Mass Strike, the Political Party and the Trade Unions",
+  "chapter_number": 1,
+  "chapter_title": "The Russian Revolution, Anarchism and the General Strike",
+  "chapter_slug": "01-the-russian-revolution-anarchism-and-the-general-s",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cb3b4a6b-da09-5fa0-a488-301272427a80",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1585,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1906/mass-strike/ch01.htm"
+    }
+  ]
+}

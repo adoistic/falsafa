@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 22,
+  "chapter_title": "Subjects of Bourgeois Democracy.",
+  "chapter_slug": "22-subjects-of-bourgeois-democracy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "19175bac-582d-52d6-b9ae-0cd56cecb546",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 565,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

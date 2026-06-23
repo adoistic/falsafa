@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-economic-determinism-and-the-nat-630f66",
+  "work_title": "Economic Determinism and the Natural and Mathematical Sciences",
+  "chapter_number": 1,
+  "chapter_title": "Economic Determinism and the Natural and Mathematical Sciences",
+  "chapter_slug": "01-economic-determinism-and-the-natural-and-mathemati",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a919e5e4-99af-5571-8476-b99c94fe5869",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2533,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1906/03/economic-determinism.htm"
+    }
+  ]
+}

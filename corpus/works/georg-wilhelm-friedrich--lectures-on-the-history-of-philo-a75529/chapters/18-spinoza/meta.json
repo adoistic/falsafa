@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 18,
+  "chapter_title": "Spinoza",
+  "chapter_slug": "18-spinoza",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0be49d2c-6473-55d4-ac6b-589c5bcd4298",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13210,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hpspinoz.htm"
+    }
+  ]
+}

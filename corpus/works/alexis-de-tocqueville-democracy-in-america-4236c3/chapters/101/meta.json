@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 101,
+  "chapter_title": "Chapter I: That Equality Naturally Gives Men A Taste For Free Institutions",
+  "chapter_slug": "101",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b203b5ce-ad66-5f3f-b984-e327363757c1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 489,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch41.htm"
+    }
+  ]
+}

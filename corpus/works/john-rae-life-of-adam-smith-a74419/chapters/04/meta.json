@@ -2,7 +2,7 @@
   "work_slug": "john-rae-life-of-adam-smith-a74419",
   "work_title": "Life of Adam Smith",
   "chapter_number": 4,
-  "chapter_title": "CHAPTER III: AT OXFORD 1740-1746. Aet. 17-23",
+  "chapter_title": "Chapter III: At Oxford 1740-1746. Aet. 17-23",
   "chapter_slug": "04",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3828,
+      "word_count": 3788,
       "paragraph_count": 15,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"

@@ -2,10 +2,10 @@
 id: "2259be0c-3492-4281-a86e-070c4e4b70da"
 slug: "unknown-parasara-smrti-2259be"
 title: Parāśara Smṛti
-author: Parāśara
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Parāśara
+  biography: A sage of the Hindu Dharmaśāstra tradition, to whom the Parāśara Smṛti is ascribed. The text is a compilation in verse on law and right conduct, redacted over generations by unknown hands.
+  nationality: Indian
 era: Ancient
 genre: Indic
 language: Sanskrit

@@ -4,7 +4,7 @@ work_slug: "francis-amasa-walker-political-economy-d17649"
 work_title: Political Economy
 author_name: Francis Amasa Walker
 chapter_number: 24
-chapter_title: "PART VI.: SOME APPLICATIONS OF ECONOMIC PRINCIPLES."
+chapter_title: "Part VI.: Some Applications of Economic Principles."
 chapter_slug: 24
 variant_id: "04b754fc-2a5a-5bdb-9e1b-3d14bac3cc0a"
 content_type: translation

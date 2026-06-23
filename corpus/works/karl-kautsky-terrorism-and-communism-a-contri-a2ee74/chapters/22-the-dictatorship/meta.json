@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-terrorism-and-communism-a-contri-a2ee74",
+  "work_title": "Terrorism and Communism: A Contribution to the Natural History of Revolution",
+  "chapter_number": 22,
+  "chapter_title": "The Dictatorship",
+  "chapter_slug": "22-the-dictatorship",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "00f65005-518b-50e1-9584-edd0a18b9fb8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1565,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1919/terrcomm/ch08.htm"
+    }
+  ]
+}

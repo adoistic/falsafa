@@ -4,7 +4,8 @@ slug: "pseudo-plutarch-placita-philosophorum-2a1067"
 title: Placita Philosophorum
 author:
   name: "Pseudo-Plutarch"
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Conventional label for the anonymous authors of works transmitted in the Plutarchan corpus but not written by Plutarch. The pieces include doxographical and antiquarian compilations that circulated under his name within the Moralia.
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

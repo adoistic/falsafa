@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-ferdinand-lassalle-as-a-social-r-a97060",
+  "work_title": "Ferdinand Lassalle as a Social Reformer",
+  "chapter_number": 10,
+  "chapter_title": "IX. Vain attempts to compel immediate political success – Approaching the reactionary government of Prince Bismarck – La",
+  "chapter_slug": "10-ix-vain-attempts-to-compel-immediate-political-suc",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "29f24a93-ec9c-56ea-ae53-567b5046544c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6405,
+      "paragraph_count": 61,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1893/lassalle/chap09.htm"
+    }
+  ]
+}

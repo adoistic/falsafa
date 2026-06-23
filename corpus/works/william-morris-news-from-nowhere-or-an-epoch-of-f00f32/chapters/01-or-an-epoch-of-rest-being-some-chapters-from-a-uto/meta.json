@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-news-from-nowhere-or-an-epoch-of-f00f32",
+  "work_title": "News from Nowhere (or An Epoch of Rest)",
+  "chapter_number": 1,
+  "chapter_title": "or An Epoch of Rest Being Some Chapters From a Utopian Romance",
+  "chapter_slug": "01-or-an-epoch-of-rest-being-some-chapters-from-a-uto",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "048d51e6-61d3-527d-8d18-c12c226ff016",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 36705,
+      "paragraph_count": 609,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1890/nowhere/nowhere.htm"
+    }
+  ]
+}

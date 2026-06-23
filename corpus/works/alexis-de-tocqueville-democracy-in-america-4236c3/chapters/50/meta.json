@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 50,
+  "chapter_title": "Chapter XI: Of The Spirit In Which The Americans Cultivate The Arts",
+  "chapter_slug": "50",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b61176f7-ab87-55b4-a6f7-e5c11bba4e5b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2031,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch23.htm"
+    }
+  ]
+}

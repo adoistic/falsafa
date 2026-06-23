@@ -2,7 +2,7 @@
   "work_slug": "john-rae-life-of-adam-smith-a74419",
   "work_title": "Life of Adam Smith",
   "chapter_number": 22,
-  "chapter_title": "CHAPTER XXI: IN EDINBURGH 1778-1790. Aet. 55-67",
+  "chapter_title": "Chapter XXII: Various Correspondence in 1778",
   "chapter_slug": "22",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 4605,
-      "paragraph_count": 26,
+      "word_count": 1987,
+      "paragraph_count": 19,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
     }

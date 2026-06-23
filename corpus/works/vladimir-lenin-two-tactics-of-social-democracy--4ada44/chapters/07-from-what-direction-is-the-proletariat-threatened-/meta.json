@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+  "work_title": "Two Tactics of Social-Democracy in the Democratic Revolution",
+  "chapter_number": 7,
+  "chapter_title": "From what Direction is the Proletariat Threatened with the Danger of Having its Hands Tied in the Struggle Against the I",
+  "chapter_slug": "07-from-what-direction-is-the-proletariat-threatened-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cec16e90-e586-5767-8bf2-35e3d771e809",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5035,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ch06.htm"
+    }
+  ]
+}

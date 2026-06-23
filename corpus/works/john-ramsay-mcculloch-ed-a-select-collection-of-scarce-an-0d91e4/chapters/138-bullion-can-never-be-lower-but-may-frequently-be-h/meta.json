@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 138,
+  "chapter_title": "Bullion can never be lower, but may frequently be higher, than mint price.",
+  "chapter_slug": "138-bullion-can-never-be-lower-but-may-frequently-be-h",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e0c223fd-34d8-555e-9721-172d6f20b947",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 671,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

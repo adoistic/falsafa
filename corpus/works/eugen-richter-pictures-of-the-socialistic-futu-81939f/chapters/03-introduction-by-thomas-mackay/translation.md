@@ -4,7 +4,7 @@ work_slug: "eugen-richter-pictures-of-the-socialistic-futu-81939f"
 work_title: Pictures of the Socialistic Future
 author_name: Eugen Richter
 chapter_number: 3
-chapter_title: INTRODUCTION by Thomas Mackay
+chapter_title: Introduction by Thomas Mackay
 chapter_slug: "03-introduction-by-thomas-mackay"
 variant_id: "331244b0-7594-50b3-af0e-ec552b95638b"
 content_type: translation

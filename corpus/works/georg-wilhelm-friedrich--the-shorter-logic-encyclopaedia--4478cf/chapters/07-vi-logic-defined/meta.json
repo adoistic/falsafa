@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 7,
+  "chapter_title": "VI Logic Defined",
+  "chapter_slug": "07-vi-logic-defined",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd25ba62-2346-52a1-8415-722394732af1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1661,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/sl_vi.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "richard-t-ely-a-history-of-political-economy-142de1"
 work_title: A History of Political Economy
 author_name: Richard T. Ely
 chapter_number: 1
-chapter_title: INTRODUCTION
+chapter_title: Introduction
 chapter_slug: "01-introduction"
 variant_id: "9aed7607-8e9e-5c7b-a224-ab9ffd200be3"
 content_type: translation

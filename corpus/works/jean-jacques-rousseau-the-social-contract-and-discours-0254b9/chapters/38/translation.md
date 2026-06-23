@@ -4,7 +4,7 @@ work_slug: "jean-jacques-rousseau-the-social-contract-and-discours-0254b9"
 work_title: The Social Contract and Discourses
 author_name: "Jean-Jacques Rousseau"
 chapter_number: 38
-chapter_title: "CHAPTER XII: how the sovereign authority maintains itself"
+chapter_title: "Chapter XIV: the same (continued)"
 chapter_slug: 38
 variant_id: "ea8d0dbf-1fda-52d2-b91a-cf0d0587db9e"
 content_type: translation
@@ -13,17 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 341
+word_count: 234
 source_url: "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
 translator: Online Library of Liberty edition
 ---
 
-The Sovereign, having no force other than the legislative power, acts only by means of the laws; and the laws being solely the authentic acts of the general will, the Sovereign cannot act save when the people is assembled. The people in assembly, I shall be told, is Edition: current; Page: [79] a mere chimera. It is so to-day, but two thousand years ago it was not so. Has man’s nature changed?
+The moment the people is legitimately assembled as a sovereign body, the jurisdiction of the government wholly lapses, the executive power is suspended, and the person of the meanest citizen is as sacred and inviolable as that of the first magistrate; for in the presence of the person represented, representatives no longer exist. Most of the tumults that arose in the comitia at Rome were due to ignorance or neglect of this rule. The consuls were in them merely the presidents of the people; the tribunes were mere speakers; the senate was nothing at all.
 
-The bounds of possibility, in moral matters, are less narrow than we imagine: it is our weaknesses, our vices and our prejudices that confine them. Base souls have no belief in great men; vile slaves smile in mockery at the name of liberty.
+These intervals of suspension, during which the prince recognises or ought to recognise an actual superior, have always been viewed by him with alarm; and these assemblies of the people, which are the aegis of the body politic and the curb on the government, have at all times been the horror of rulers: who therefore never spare pains, objections, difficulties, and promises, to stop the citizens from having them. When the citizens are greedy, cowardly, and pusillanimous, and love ease more than liberty, they do not long hold out against the redoubled efforts of the government; and thus, as the resisting force incessantly grows, the sovereign authority ends by disappearing, and most cities fall and perish before their time.
 
-Let us judge of what can be done by what has been done. I shall say nothing of the Republics of ancient Greece; but the Roman Republic was, to my mind, a great State, and the town of Rome a great town. The last census showed that there were in Rome four hundred thousand citizens capable of bearing arms, and the last computation of the population of the Empire showed over four million citizens, excluding subjects, foreigners, women, children and slaves.
-
-What difficulties might not be supposed to stand in the way of the frequent assemblage of the vast population of this capital and its neighbourhood. Yet few weeks passed without the Roman people being in assembly, and even being so several times. It exercised not only the rights of Sovereignty, but also a part of those of government. It dealt with certain matters, and judged certain cases, and this whole people was found in the public meeting-place hardly less often as magistrates than as citizens.
-
-If we went back to the earliest history of nations, we should find that most ancient governments, even those of monarchical form, such as the Macedonian and the Frankish, had similar councils. In any case, the one incontestable fact I have given is an answer to all difficulties; it is good logic to reason from the actual to the possible.
+But between the sovereign authority and arbitrary government there sometimes intervenes a mean power of which something must be said.

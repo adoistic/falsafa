@@ -1,0 +1,26 @@
+{
+  "work_slug": "a-v-dicey-lectures-on-the-relation-between-340c4e",
+  "work_title": "Lectures on the Relation between Law and Public Opinion in England",
+  "chapter_number": 25,
+  "chapter_title": "Lecture VII: The Growth of Collectivism",
+  "chapter_slug": "25-lecture-vii-the-growth-of-collectivism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79cff20f-b9c7-55e2-98c2-0f5cefb030fd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1872,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919"
+    }
+  ]
+}

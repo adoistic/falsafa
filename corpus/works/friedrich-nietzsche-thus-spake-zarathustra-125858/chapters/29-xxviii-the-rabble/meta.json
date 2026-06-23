@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 29,
+  "chapter_title": "XXVIII. The Rabble.",
+  "chapter_slug": "29-xxviii-the-rabble",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "25ebc7d7-fa47-595f-b2e9-342744550a9a",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 734,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "25d62bf5-1fbc-52c5-ba6f-16b00d239474",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 832,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

@@ -1,0 +1,775 @@
+---
+work_id: "e92145c1-898d-5492-9369-d1418694d92f"
+work_slug: "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145"
+work_title: Letters of Marcus Tullius Cicero
+author_name: Cicero (Marcus Tullius Cicero)
+chapter_number: 11
+chapter_title: Correspondence with the Emperor Trajan, To the Emperor Trajan
+chapter_slug: "11-correspondence-with-the-emperor-trajan-to-the-empe"
+variant_id: "b64cfd27-cc42-5379-8d88-39fa8c4141db"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 25004
+source_url: "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+translator: Online Library of Liberty edition
+---
+
+The pious affection you bore, most sacred Emperor, to your august father induced you to wish it might be late ere you succeeded him. But the immortal gods thought proper to hasten the advancement of those virtues to the helm of the commonwealth which had already shared in the steerage. May you then, and the world through your means, enjoy every prosperity worthy of your reign: to which let me add my wishes, most excellent Emperor, upon a private as well as public account, that your health and spirits may be preserved firm and unbroken.
+
+You have occasioned me, Sir, an inexpressible pleasure in deeming me worthy of enjoying the privilege which the laws confer on those who have three children. For although it was from an indulgence to the request of the excellent Julius Servianus, your own most devoted servant, that you granted this favour, yet I have the satisfaction to find by the words of your rescript that you complied the more willingly as his application was in my behalf. I cannot but look upon myself as in possession of my utmost wish, after having thus received, at the beginning of your most auspicious reign, so distinguishing a mark of your peculiar favour; at the same time that it considerably heightens my desire of leaving a family behind me. I was not entirely without this desire even in the late most unhappy times: as my two marriages will induce you to believe. But the gods decreed it better, by reserving every valuable privilege to the bounty of your generous dispensations. And indeed the pleasure of being a father will be so much more acceptable to me now, that I can enjoy it in full security and happiness.
+
+The experience, most excellent Emperor, I have had of your unbounded generosity to me, in my own person, encourages me to hope I may be yet farther obliged to it, in that of my friends. Voconius Romanus (who was my schoolfellow and companion from our earliest years) claims the first rank in that number; in consequence of which I petitioned your sacred father to promote him to the dignity of the senatorial order. But the completion of my request is reserved to your goodness; for his mother had not then advanced, in the manner the law directs, the liberal gift of four hundred thousand sesterces, which she engaged to give him, in her letter to the late emperor, your father. This, however, by my advice she has since done, having made over certain estates to him, as well as completed every other act necessary to make the conveyance valid. The difficulties therefore being removed which deferred the gratification of our wishes, it is with full confidence I venture to assure you of the worth of my friend Romanus, heightened and adorned as it is not only by liberal culture, but by his extraordinary tenderness to his parents as well. It is to that virtue he owes the present liberality of his mother; as well as his immediate succession to his late father’s estate, and his adoption by his father-in-law. To these personal qualifications, the wealth and rank of his family give additional lustre; and I persuade myself it will be some further recommendation that I solicit in his behalf. Let me, then, entreat you, Sir, to enable me to congratulate Romanus on so desirable an occasion, and at the same time to indulge an eager and, I hope, laudable ambition, of having it in my power to boast that your favourable regards are extended not only to myself, but also to my friend.
+
+When by your gracious indulgence, Sir, I was appointed to preside at the treasury of Saturn, I immediately renounced all engagements of the bar (as indeed I never blended business of that kind with the functions of the state), that no avocations might call off my attention from the post to which I was appointed. For this reason, when the province of Africa petitioned the senate that I might undertake their cause against Marius Priscus, I excused myself from that office; and my excuse was allowed. But when afterwards the consul elect proposed that the senate should apply to us again, and endeavour to prevail with us to yield to its inclinations, and suffer our names to be thrown into the urn, I thought it most agreeable to that tranquillity and good order which so happily distinguishes your times not to oppose (especially in so reasonable an instance) the will of that august assembly. And, as I am desirous that all my words and actions may receive the sanction of your exemplary virtue, I hope you approve of my compliance.
+
+You acted as became a good citizen and a worthy senator, by paying obedience to the just requisition of that august assembly: and I have full confidence you will faithfully discharge the business you have undertaken.
+
+Having been attacked last year by a very severe and dangerous illness, I employed a physician, whose care and diligence, Sir, I cannot sufficiently reward, but by your gracious assistance. I entreat you therefore to make him a denizen of Rome; for as he is the freedman of a foreign lady, he is, consequently, himself also a foreigner. His name is Harpocras; his patroness (who has been dead a considerable time) was Thermuthis, the daughter of Theon. I further entreat you to bestow the full privileges of a Roman citizen upon Hedia and Antonia Harmeris, the freedwomen of Antonia Maximilla, a lady of great merit. It is at her desire I make this request.
+
+I return you thanks, Sir, for your ready compliance with my desire, in granting the complete privileges of a Roman to the freedwomen of a lady to whom I am allied and also for making Harpocras, my physician, a denizen of Rome. But when, agreeably to your directions, I gave in an account of his age, and estate, I was informed by those who are better skilled in the affairs than I pretend to be that, as he is an Egyptian, I ought first to have obtained for him the freedom of Alexandria before he was made free of Rome. I confess, indeed, as I was ignorant of any difference in this case between those of Egypt and other countries, I contented myself with only acquainting you that he had been manumitted by a foreign lady long since deceased. However, it is an ignorance I cannot regret, since it affords me an opportunity of receiving from you a double obligation in favour of the same person. That I may legally therefore enjoy the benefit of your goodness, I beg you would be pleased to grant him the freedom of the city of Alexandria, as well as that of Rome. And that your gracious intentions may not meet with any further obstacles, I have taken care, as you directed, to send an account to your freedman of his age and possessions.
+
+It is my resolution, in pursuance of the maxim observed by the princes my predecessors, to be extremely cautious in granting the freedom of the city of Alexandria: however, since you have obtained of me the freedom of Rome for you physician Harpocras, I cannot refuse you this other request. You must let me know to what district he belongs, that I may give you a letter to my friend Pompeius Planta, governor of Egypt.
+
+I cannot express, Sir, the pleasure your letter gave me, by which I am informed that you have made my physician Harpocras a denizen of Alexandria; notwithstanding your resolution to follow the maxim of your predecessors in this point, by being extremely cautious in granting that privilege. Agreeably to your directions, I acquaint you that Harpocras belongs to the district of Memphis. I entreat you then, most gracious Emperor, to send me, as you promised, a letter to your friend Pompeius Planta, governor of Egypt.
+
+As I purpose (in order to have the earliest enjoyment of your presence, so ardently wished for here) to come to meet you, I beg, Sir, you would permit me to extend my journey as far as possible.
+
+I was greatly obliged, Sir, in my late illness, to Posthumius Marinus, my physician; and I cannot make him a suitable return, but by the assistance of your wonted gracious indulgence. I entreat you then to make Chrysippus Mithridates and his wife Stratonica (who are related to Marinus) denizens of Rome. I entreat likewise the same privilege in favour of Epigonus and Mithridates, the two sons of Chrysippus; but with this restriction that they may remain under the dominion of their father, and yet reserve their right of patronage over their own freedmen. I further entreat you to grant the full privileges of a Roman to L. Satrius Abascantius, P. Caesius Phosphorus, and Pancharia Soteris. This request I make with the consent of their patrons.
+
+After your late sacred father, Sir, had, in a noble speech, as well as by his own generous example, exhorted and encouraged the public to acts of munificence, I implored his permission to remove the several statues which I had of the former emperors to my corporation, and at the same time requested permission to add his own to the number. For as I had hitherto let them remain in the respective places in which they stood when they were left to me by several different inheritances, they were dispersed in distant parts of my estate. He was pleased to grant my request, and at the same time to give me a very ample testimony of his approbation. I immediately, therefore, wrote to the decurii, to desire they would allot a piece of ground, upon which I might build a temple at my own expense; and they, as a mark of honour to my design, offered me the choice of any site I might think proper. However, my own ill-health in the first place, and later that of your father, together with the duties of that employment which you were both pleased to entrust me, prevented my proceeding with that design. But I have now, I think, a convenient opportunity of making an excursion for the purpose, as my monthly attendance ends on the 1st of September, and there are several festivals in the month following. My first request, then, is that you would permit me to adorn the temple I am going to erect with your statue, and next (in order to the execution of my design with all the expedition possible) that you would indulge me with leave of absence. It would ill become the sincerity I profess, were I to dissemble that your goodness in complying with this desire will at the same time be extremely serviceable to me in my own private affairs. It is absolutely necessary I should not defer any longer the letting of my lands in that province; for, besides that they amount to above four hundred thousand sesterces, the time for dressing the vineyards is approaching, and that business must fall upon my new tenants. The unfruitfulness of the seasons besides, for several years past, obliges me to think of making some abatements in my rents; which I cannot possibly settle unless I am present. I shall be indebted then to your indulgence, Sir, for the expedition of my work of piety, and the settlement of my own private affairs, if you will be pleased to grant me leave of absence for thirty days. I cannot give myself a shorter time, as the town and the estate of which I am speaking lie above a hundred and fifty miles from Rome.
+
+You have given me many private reasons, and every public one, why you desire leave of absence; but I need no other than that it is your desire: and I doubt not of your returning as soon as possible to the duty of an office which so much requires your attendance. As I would not seem to check any instance of your affection towards me, I shall not oppose your erecting my statue in the place you desire; though in general I am extremely cautious in giving any encouragement to honours of that kind.
+
+As I am sensible, Sir, that the highest applause my actions can receive is to be distinguished by so excellent a prince, I beg you would be graciously pleased to add either the office of augur or septemvir (both which are now vacant) to the dignity I already enjoy by your indulgence; that I may have the satisfaction of publicly offering up those vows for your prosperity, from the duty of my office, which I daily prefer to the gods in private, from the affection of my heart.
+
+Having safely passed the promontory of Malea, I am arrived at Ephesus with all my retinue, notwithstanding I was detained for some time by contrary winds: a piece of information, Sir, in which, I trust, you will feel yourself concerned. I propose pursuing the remainder of my journey to the province partly in light vessels, and partly in post-chaises: for as the excessive heats will prevent my travelling altogether by land, so the Etesian winds, which are now set in, will not permit me to proceed entirely by sea.
+
+Your information, my dear Pliny, was extremely agreeable to me, as it does concern me to know in what manner you arrive at your province. It is a wise intention of yours to travel either by sea or land, as you shall find most convenient.
+
+As I had a very favourable voyage to Ephesus, so in travelling by post-chaise from thence I was extremely troubled by the heats, and also by some slight feverish attacks, which kept me some time at Pergamus. From there, Sir, I got on board a coasting vessel, but, being again detained by contrary winds, did not arrive at Bithynia so soon as I had hoped. However, I have no reason to complain of this delay, since (which indeed was the most auspicious circumstance that could attend me) I reached the province in time to celebrate your birthday. I am at present engaged in examining the finances of the Prusenses, their expenses, revenues, and credits; and the farther I proceed in this work, the more I am convinced of the necessity of my enquiry. Several large sums of money are owing to the city from private persons, which they neglect to pay upon various pretences; as, on the other hand, I find the public funds are, in some instances, very unwarrantably applied. This, Sir, I write to you immediately on my arrival. I entered this province on the 17th of September, and found in it that obedience and loyalty towards yourself which you justly merit from all mankind. You will consider, Sir, whether it would not be proper to send a surveyor here; for I am inclined to think much might be deducted from what is charged by those who have the conduct of the public works if a faithful admeasurement were to be taken: at least I am of that opinion from what I have already seen of the accounts of this city, which I am now going into as fully as is possible.
+
+I should have rejoiced to have heard that you arrived at Bithynia without the smallest inconvenience to yourself or any of your retinue, and that your journey from Ephesus had been as easy as your voyage to that place was favourable. For the rest, your letter informs me, my dearest Secundus, on what day you reached Bithynia. The people of that province will be convinced, I persuade myself, that I am attentive to their interest; as your conduct towards them will make it manifest that I could have chosen no more proper person to supply my place. The examination of the public accounts ought certainly to be your first employment, as they are evidently in great disorder. I have scarcely surveyors sufficient to inspect those works which I am carrying on at Rome, and in the neighbourhood; but persons of integrity and skill in this art may be found, most certainly, in every province, so that they will not fail you if only you will make due enquiry.
+
+Though I am well assured, Sir, that you, who never omit any opportunity of exerting your generosity, are not unmindful of the request I lately made to you, yet, as you have often indulged me in this manner, give me leave to remind and earnestly entreat you to bestow the praetorship now vacant upon Attius Sura. Though his ambition is extremely moderate, yet the quality of his birth, the inflexible integrity he has preserved in a very narrow fortune, and, more than all, the felicity of your times, which encourages conscious virtue to claim your favour, induce him to hope he may experience it in the present instance.
+
+I congratulate both you and the public, most excellent Emperor, upon the great and glorious victory you have obtained; so agreeable to the heroism of ancient Rome. May the immortal gods grant the same happy success to all your designs, that, under the administration of so many princely virtues, the splendour of the empire may shine out, not only in its former, but with additional lustre.
+
+My lieutenant, Servilius Pudens, came to Nicomedia, Sir, on the 24th of November, and by his arrival freed me, at length, from the anxiety of a very uneasy expectation.
+
+Your generosity to me, Sir, was the occasion of uniting me to Rosianus Geminus, by the strongest ties; for he was my quaestor when I was consul. His behaviour to me during the continuance of our offices was highly respectful, and he has treated me ever since with so peculiar a regard that, besides the many obligations I owe him upon a public account, I am indebted to him for the strongest pledges of private friendship. I entreat you, then, to comply with my request for the advancement of one whom (if my recommendation has any weight) you will even distinguish with your particular favour; and whatever trust you shall repose in him, he will endeavour to show himself still deserving of an higher. But I am the more sparing in my praises of him, being persuaded his integrity, his probity, and his vigilance are well known to you, not only from those high posts which he has exercised in Rome within your immediate inspection, but from his behaviour when he served under you in the army. One thing, however, my affection for him inclines me to think, I have not yet sufficiently done; and therefore, Sir, I repeat my entreaties that you will give me the pleasure, as early as possible, of rejoicing in the advancement of my quaestor, or, in other words, of receiving an addition to my own honours, in the person of my friend.
+
+It is not easy, Sir, to express the joy I received when I heard you had, in compliance with the request of my mother-in-law and myself, granted Coelius Clemens the proconsulship of this province after the expiration of his consular office; as it is from thence I learn the full extent of your goodness towards me, which thus graciously extends itself through my whole family. As I dare not pretend to make an equal return to those obligations I so justly owe you, I can only have recourse to vows, and ardently implore the gods that I may not be found unworthy of those favours which you are the repeatedly conferring upon me.
+
+I received, Sir, a dispatch from your freedman, Lycormas, desiring me, if any embassy from Bosporus should come here on the way to Rome, that I would detain it till his arrival. None has yet arrived, at least in the city where I now am. But a courier passing through this place from the king of Sarmatia, I embrace the opportunity which accidentally offers itself, of sending with him the messenger which Lycormas despatched hither, that you might be informed by both their letters of what, perhaps, it may be expedient you should be acquainted with at one and the same time.
+
+I am informed by a letter from the king of Sarmatia that there are certain affairs of which you ought to be informed as soon as possible. In order, therefore, to hasten the despatches which his courier was charged with to you, I granted him an order to make use of the public post.
+
+The ambassador from the king of Sarmatia having remained two days, by his own choice, at Nicea, I did not think it reasonable, Sir, to detain him any longer: because, in the first place, it was still uncertain when your freedman, Lycormas, would arrive, and then again some indispensable affairs require my presence in a different part of the province. Of this I thought it necessary that you should be informed, because I lately acquainted you in a letter that Lycormas had desired, if any embassy should come this way from Bosporus, that I would detain it till his arrival. But I saw no plausible pretext for keeping him back any longer, especially as the despatches from Lycormas, which (as I mentioned before) I was not willing to detain, would probably reach you some days sooner than this ambassador.
+
+I received a letter, Sir, from Apuleius, a military man, belonging to the garrison at Nicomedia, informing me that one Callidromus, being arrested by Maximus and Dionysius (two bakers, to whom he had hired himself), fled for refuge to your statue; that, being brought before a magistrate, he declared he was formerly slave to Laberius Maximus, but being taken prisoner by Susagus in Moesia, he was sent as a present from Decebalus to Pacorus, king of Parthia, in whose service he continued several years, from whence he made his escape, and came to Nicomedia. When he was examined before me, he confirmed this account, for which reason I thought it necessary to send him to you. This I should have done sooner, but I delayed his journey in order to make an inquiry concerning a seal ring which he said was taken from him, upon which was engraven the figure of Pacorus in his royal robes; I was desirous (if it could have been found) of transmitting this curiosity to you, with a small gold nugget which he says he brought from out of the Parthian mines. I have affixed my seal to it, the impression of which is a chariot drawn by four horses.
+
+Your freedman and procurator, Maximus, behaved, Sir, during all the time we were together, with great probity, attention, and diligence; as one strongly attached to your interest, and strictly observant of discipline. This testimony I willingly give him; and I give it with all the fidelity I owe you.
+
+After having experienced, Sir, in Gabius Bassus, who commands on the Pontic coast, the greatest integrity, honour, and diligence, as well as the most particular respect to myself, I cannot refuse him my best wishes and suffrage; and I give them to him with all that fidelity which is due to you. I have found him abundantly qualified by having served in the army under you; and it is owing to the advantages of your discipline that he has learned to merit your favour. The soldiery and the people here, who have had full experience of his justice and humanity, rival each other in that glorious testimony they give of his conduct, both in public and in private; and I certify this with all the sincerity you have a right to expect from me.
+
+Nymphidius Lupus, Sir, and myself, served in the army together; he commanded a body of the auxiliary forces at the same time that I was military tribune; and it was from thence my affection for him began. A long acquaintance has since mutually endeared and strengthened our friendship. For this reason I did violence to his repose, and insisted upon his attending me into Bithynia, as my assessor in council. He most readily granted me this proof of his friendship; and without any regard to the plea of age, or the ease of retirement, he shared, and continues to share, with me, the fatigue of public business. I consider his relations, therefore, as my own; in which number Nymphidius Lupus, his son, claims my particular regard. He is a youth of great merit and indefatigable application, and in every respect well worthy of so excellent a father. The early proof he gave of his merit, when he commanded a regiment of foot, shows him to be equal to any honour you may think proper to confer upon him; and it gained him the strongest testimony of approbation from those most illustrious personages, Julius Ferox and Fuscus Salinator. And I will add, Sir, that I shall rejoice in any accession of dignity which he shall receive as an occasion of particular satisfaction to myself.
+
+I beg your determination, Sir, on a point I am exceedingly doubtful about: it is whether I should place the public slaves as sentries round the prisons of the several cities in this province (as has been hitherto the practice) or employ a party of soldiers for that purpose? On the one hand, I am afraid the public slaves will not attend this duty with the fidelity they ought; and on the other, that it will engage too large a body of the soldiery. In the meanwhile I have joined a few of the latter with the former. I am apprehensive, however, there may be some danger that this method will occasion a general neglect of duty, as it will afford them a mutual opportunity of throwing the blame upon each other.
+
+There is no occasion, my dearest Secundus, to draw off any soldiers in order to guard the prisons. Let us rather persevere in the ancient customs observed in this province, of employing the public slaves for that purpose; and the fidelity with which they shall execute their duty will depend much upon your care and strict discipline. It is greatly to be feared, as you observe, if the soldiers should be mixed with the public slaves, they will mutually trust to each other, and by that means grow so much the more negligent. But my principal objection is that as few soldiers as possible should be withdrawn from their standard.
+
+Gabius Bassus, who commands upon the frontiers of Pontica, in a manner suitable to the respect and duty which he owes you, came to me, and has been with me, Sir, for several days. As far as I could observe, he is a person of great merit and worthy of your favour. I acquainted him it was your order that he should retain only ten beneficiary soldiers, two horse-guards, and one centurion out of the troops which you were pleased to assign to my command. He assured me those would not be sufficient, and that he would write to you accordingly; for which reason I thought it proper not immediately to recall his supernumeraries.
+
+I have received from Gabius Bassus the letter you mention, acquainting me that the number of soldiers I had ordered him was not sufficient; and for your information I have directed my answer to be hereunto annexed. It is very material to distinguish between what the exigency of affairs requires and what an ambitious desire of extending power may think necessary. As for ourselves, the public welfare must be our only guide: accordingly it is incumbent upon us to take all possible care that the soldiers shall not be absent from their standard.
+
+The Prusenses, Sir, having an ancient bath which lies in a ruinous state, desire your leave to repair it; but, upon examination, I am of opinion it ought to be rebuilt. I think, therefore, you may indulge them in this request, as there will be a sufficient fund for that purpose, partly from those debts which are due from private persons to the public which I am now collecting in; and partly from what they raise among themselves towards furnishing the bath with oil, which they are willing to apply to the carrying on of this building; a work which the dignity of the city and the splendour of your times seem to demand.
+
+If the erecting a public bath will not be too great a charge upon the Prusenses, we may comply with their request; provided, however, that no new tax be levied for this purpose, nor any of those taken off which are appropriated to necessary services.
+
+I am assured, Sir, by your freedman and receiver-general Maximus, that it is necessary he should have a party of soldiers assigned to him, over and besides the beneficiarii, which by your orders I allotted to the very worthy Gemellinus. Those therefore which I found in his service, I thought proper he should retain, especially as he was going into Paphlagonia, in order to procure corn. For his better protection likewise, and because it was his request, I added two of the cavalry. But I beg you would inform me, in your next despatches, what method you would have me observe for the future in points of this nature.
+
+As my freedman Maximus was going upon an extraordinary commission to procure corn, I approve of your having supplied him with a file of soldiers. But when he shall return to the duties of his former post, I think two from you and as many from his coadjutor, my receiver-general Virdius Gemellinus, will be sufficient.
+
+The very excellent young man Sempronius Caelianus, having discovered two slaves among the recruits, has sent them to me. But I deferred passing sentence till I had consulted you, the restorer and upholder of military discipline, concerning the punishment proper to be inflicted upon them. My principal doubt is that, whether, although they have taken the military oath, they are yet entered into any particular legion. I request you therefore, Sir, to inform me what course I should pursue in this affair, especially as it concerns example.
+
+Sempronius Caelinus has acted agreeably to my orders, in sending such persons to be tried before you as appear to deserve capital punishment. It is material however, in the case in question, to inquire whether these slaves inlisted themselves voluntarily, or were chosen by the officers, or presented as substitutes for others. If they were chosen, the officer is guilty; if they are substitutes, the blame rests with those who deputed them; but if, conscious of the legal inabilities of their station, they presented themselves voluntarily, the punishment must fall upon their own heads. That they are not yet entered into any legion, makes no great difference in their case; for they ought to have given a true account of themselves immediately, upon their being approved as fit for the service.
+
+As I have your permission, Sir, to address myself to you in all my doubts, you will not consider it beneath your dignity to descend to those humbler affairs which concern my administration of this province. I find there are in several cities, particularly those of Nicomedia and Nicea, certain persons who take upon themselves to act as public slaves, and receive an annual stipend accordingly; notwithstanding they have been condemned either to the mines, the public games, or other punishments of the like nature. Having received information of this abuse I have been long debating with myself what I ought to do. On the one hand, to send them back again to their respective punishments (many of them being now grown old, and behaving, as I am assured, with sobriety and modesty) would, I thought, be proceeding against them too severely; on the other, to retain convicted criminals in the public service, seemed not altogether decent. I considered at the same time to support these people in idleness would be an useless expense to the public; and to leave them to starve would be dangerous. I was obliged therefore to suspend the determination of this matter till I could consult with you. You will be desirous, perhaps, to be informed how it happened that these persons escaped the punishments to which they were condemned. This enquiry I have also made, but cannot return you any satisfactory answer. The decrees against them were indeed produced; but no record appears of their having ever been reversed. It was asserted, however, that these people were pardoned upon their petition to the proconsuls, or their lieutenants; which seems likely to be the truth, as it is improbable any person would have dared to set them at liberty without authority.
+
+You will remember you were sent into Bithynia for the particular purpose of correcting those many abuses which appeared in need of reform. Now none stands more so than that of criminals who have been sentenced to punishment should not only be set at liberty (as your letter informs me) without authority, but even appointed to employments which ought only to be exercised by persons whose characters are irreproachable. Those therefore among them who have been convicted within these ten years, and whose sentence has not been reversed by proper authority, must be sent back again to their respective punishments: but where more than ten years have elapsed since their conviction, and they are grown old and infirm, let them be disposed of in such employments as are but few degrees removed from the punishments to which they were sentenced; that is, either to attend upon the public baths, cleanse the common sewers, or repair the streets and highways, the usual offices assigned to such persons.
+
+While I was making a progress in a different part of the province, a most extensive fire broke out at Nicomedia, which not only consumed several private houses, but also two public buildings; the town-house and the temple of Isis, though they stood on contrary sides of the street. The occasion of its spreading thus far was partly owing to the violence of the wind, and partly to the indolence of the people, who, manifestly, stood idle and motionless spectators of this terrible calamity. The truth is the city was not furnished with either engines, buckets, or any single instrument suitable for extinguishing fires; which I have now however given directions to have prepared. You will consider, Sir, whether it may not be advisable to institute a company of fire-men, consisting only of one hundred and fifty members. I will take care none but those of that business shall be admitted into it, and that the privileges granted them shall not be applied to any other purpose. As this corporate body will be restricted to so small a number of members, it will be easy to keep them under proper regulation.
+
+You are of opinion it would be proper to establish a company of fire-men in Nicomedia, agreeably to what has been practised in several other cities. But it is to be remembered that societies of this sort have greatly disturbed the peace of the province in general, and of those cities in particular. Whatever name we give them, and for whatever purposes they may be founded, they will not fail to form themselves into factious assemblies, however short their meetings may be. It will therefore be safer to provide such machines as are of service in extinguishing fires, enjoining the owners of houses to assist in preventing the mischief from spreading, and, if it should be necessary, to call in the aid of the populace.
+
+We have acquitted, Sir, and renewed our annual vows for your prosperity, in which that of the empire is essentially involved, imploring the gods to grant us ever thus to pay and thus to repeat them.
+
+I received the satisfaction, my dearest Secundus, of being informed by your letter that you, together with the people under your government, have both discharged and renewed your vows to the immortal gods for my health and happiness.
+
+The citizens of Nicomedia, Sir, have expended three millions three hundred and twenty-nine sesterces in building an aqueduct; but, not being able to finish it, the works are entirely falling to ruin. They made a second attempt in another place, where they laid out two millions. But this likewise is discontinued; so that, after having been at an immense charge to no purpose, they must still be at a further expense, in order to be accommodated with water. I have examined a fine spring from whence the water may be conveyed over arches (as was attempted in their first design) in such a manner that the higher as well as level and low parts of the city may be supplied. There are still remaining a very few of the old arches; and the square stones, however, employed in the former building, may be used in turning the new arches. I am of opinion part should be raised with brick, as that will be the easier and cheaper material. But that this work may not meet with the same ill-success as the former, it will be necessary to send here an architect, or some one skilled in the construction of this kind of waterworks. And I will venture to say, from the beauty and usefulness of the design, it will be an erection well worthy the splendour of your times.
+
+Care must be taken to supply the city of Nicomedia with water; and that business, I am well persuaded, you will perform with all the diligence you ought. But really it is no less incumbent upon you to examine by whose misconduct it has happened that such large sums have been thrown away upon this, lest they apply the money to private purposes, and the aqueduct in question, like the preceding, should be begun, and afterwards left unfinished. You will let me know the result of your inquiry.
+
+The citizens of Nicea, Sir, are building a theatre, which, though it is not yet finished, has already exhausted, as I am informed (for I have not examined the account myself), above ten millions of sesterces; and, what is worse, I fear to no purpose. For either from the foundation being laid in soft, marshy ground, or that the stone itself is light and crumbling, the walls are sinking, and cracked from top to bottom. It deserves your consideration, therefore, whether it would be best to carry on this work, or entirely discontinue it, or rather, perhaps, whether it would not be most prudent absolutely to destroy it: for the buttresses and foundations by means of which it is from time to time kept up appear to me more expensive than solid. Several private persons have undertaken to build the compartment of this theatre at their own expense, some engaging to erect the portico, others the galleries over the pit: but this design cannot be executed, as the principal building which ought first to be completed is now at a stand. This city is also rebuilding, upon a far more enlarged plan, the gymnasium, which was burnt down before my arrival in the province. They have already been at some (and, I rather fear, a fruitless) expense. The structure is not only irregular and ill-proportioned, but the present architect (who, it must be owned, is a rival to the person who was first employed) asserts that the walls, although twenty-two feet in thickness, are not strong enough to support the superstructure, as the interstices are filled up with quarrystones, and the walls are not overlaid with brickwork. Also the inhabitants of Claudiopolis are sinking (I cannot call it erecting) a large public bath, upon a low spot of ground which lies at the foot of a mountain. The fund appropriated for the carrying on of this work arises from the money which those honorary members you were pleased to add to the senate paid (or, at least, are ready to pay whenever I call upon them) for their admission. As I am afraid, therefore, the public money in the city of Nicea, and (what is infinitely more valuable than any pecuniary consideration) your bounty in that of Nicopolis, should be ill applied, I must desire you to send hither an architect to inspect, not only the theatre, but the bath; in order to consider whether, after all the expense which has already been laid out, it will be better to finish them upon the present plan, or alter the one, and remove the other, in as far as may seem necessary: for otherwise we may perhaps throw away our future cost in endeavouring not to lose what we have already expended.
+
+You, who are upon the spot, will best be able to consider and determine what is proper to be done concerning the theatre which the inhabitants of Nicea are building; as for myself, it will be sufficient if you let me know your determination. With respect to the particular parts of this theatre which are to be raised at a private charge, you will see those engagements fulfilled when the body of the building to which they are to be annexed shall be finished.—These paltry Greeks are, I know, immoderately fond of gymnastic diversions, and therefore, perhaps, the citizens of Nicea have planned a more magnificent building for this purpose than is necessary; however, they must be content with such as will be sufficient to answer the purpose for which it is intended. I leave it entirely to you to persuade the Claudiopolitani as you shall think proper with regard to their bath, which they have placed, it seems, in a very improper situation. As there is no province that is not furnished with men of skill and ingenuity, you cannot possibly want architects; unless you think it the shortest way to procure them from Rome, when it is generally from Greece that they come to us.
+
+When I reflect upon the splendour of your exalted station, and the magnanimity of your spirit, nothing, I am persuaded, can be more suitable to both than to point out to you such works as are worthy of your glorious and immortal name, as being no less useful than magnificent. Bordering upon the territories of the city of Nicomedia is a most extensive lake; over which marbles, fruits, woods, and all kinds of materials, the commodities of the country, are brought over in boats up to the high-road, at little trouble and expense, but from thence are conveyed in carriages to the sea-side, at a much greater charge and with great labour. To remedy this inconvenience, many hands will be in request; but upon such an occasion they cannot be wanting: for the country, and particularly the city, is exceedingly populous; and one may assuredly hope that every person will readily engage in a work which will be of universal benefit. It only remains then to send hither, if you shall think proper, a surveyor or an architect, in order to examine whether the lake lies above the level of the sea; the engineers of this province being of opinion that the former is higher by forty cubits. I find there is in the neighbourhood of this place a large canal, which was cut by a king of this country; but as it is left unfinished, it is uncertain whether it was for the purpose of draining the adjacent fields, or making a communication between the lake and the river. It is equally doubtful too whether the death of the king, or the despair of being able to accomplish the design, prevented the completion of it. If this was the reason, I am so much the more eager and warmly desirous, for the sake of your illustrious character (and I hope you will pardon me the ambition), that you may have the glory of executing what kings could only attempt.
+
+There is something in the scheme you propose of opening a communication between the lake and the sea, which may, perhaps, tempt me to consent. But you must first carefully examine the situation of this body of water, what quantity it contains, and from whence it is supplied; lest, by giving it an opening into the sea, it should be totally drained. You may apply to Calpurnius Macer for an engineer, and I will also send you from hence some one skilled in works of this nature.
+
+Upon examining into the public expenses of the city of Byzantium, which, I find, are extremely great, I was informed, Sir, that the appointments of the ambassador whom they send yearly to you with their homage, and the decree which passes in the senate upon that occasion, amount to twelve thousand sesterces. But knowing the generous maxims of your government, I thought proper to send the decree without the ambassador, that, at the same time they discharged their public duty to you, their expense incurred in the manner of paying it might be lightened. This city is likewise taxed with the sum of three thousand sesterces towards defraying the expense of an envoy, whom they annually send to compliment the governor of Moesia: this expense I have also directed to be spared. I beg, Sir, you would deign either to confirm my judgment or correct my error in these points, by acquainting me with your sentiments.
+
+I entirely approve, my dearest Secundus, of your having excused the Byzantines that expense of twelve thousand sesterces in sending an ambassador to me. I shall esteem their duty as sufficiently paid, though I only receive the act of their senate through your hands. The governor of Moesia must likewise excuse them if they compliment him at a less expense.
+
+I beg, Sir, you would settle a doubt I have concerning your diplomas; whether you think proper that those diplomas the dates of which are expired shall continue in force, and for how long? For I am apprehensive I may, through ignorance, either confirm such of these instruments as are illegal or prevent the effect of those which are necessary.
+
+The diplomas whose dates are expired must by no means be made use of. For which reason it is an inviolable rule with me to send new instruments of this kind into all the provinces before they are immediately wanted.
+
+Upon intimating, Sir, my intention to the city of Apamea, of examining into the state of their public dues, their revenue and expenses, they told me they were all extremely willing I should inspect their accounts, but that no proconsul had ever yet looked them over, as they had a privilege (and that of a very ancient date) of administering the affairs of their corporation in the manner they thought proper. I required them to draw up a memorial of what they then asserted, which I transmit to you precisely as I received it; though I am sensible it contains several things foreign to the question. I beg you will deign to instruct me as to how I am to act in this affair, for I should be extremely sorry either to exceed or fall short of the duties of my commission.
+
+The memorial of the Apameans annexed to your letter has saved me the necessity of considering the reasons they suggest why the former proconsuls forbore to inspect their accounts, since they are willing to submit them to your examination. Their honest compliance deserves to be rewarded; and they may be assured the enquiry you are to make in pursuance of my orders shall be with a full reserve to their privileges.
+
+The Nicomedians, Sir, before my arrival in this province, had begun to build a new forum adjoining their former, in a corner of which stands an ancient temple dedicated to the mother of the gods. This fabric must either be repaired or removed, and for this reason chiefly, because it is a much lower building than that very lofty one which is now in process of erection. Upon enquiry whether this temple had been consecrated, I was informed that their ceremonies of dedication differ from ours. You will be pleased therefore, Sir, to consider whether a temple which has not been consecrated according to our rites may be removed, consistently with the reverence due to religion: for, if there should be no objection from that quarter, the removal in every other respect would be extremely convenient.
+
+You may without scruple, my dearest Secundus, if the situation requires it, remove the temple of the mother of the gods, from the place where it now stands, to any other spot more convenient. You need be under no difficulty with respect to the act of dedication; for the ground of a foreign city is not capable of receiving that kind of consecration which is sanctified by our laws.
+
+We have celebrated, Sir (with those sentiments of joy your virtues so justly merit), the day of your accession to the empire, which was also its preservation, imploring the gods to preserve you in health and prosperity; for upon your welfare the security and repose of the world depends. I renewed at the same time the oath of allegiance at the head of the army, which repeated it after me in the usual form, the people of the province zealously concurring in the same oath.
+
+Your letter, my dearest Secundus, was extremely acceptable, as it informed me of the zeal and affection with which you, together with the army and the provincials, solemnised the day of my accession to the empire.
+
+The debts which we are owing to the public are, by the prudence, Sir, of your counsels, and the care of my administration, either actually paid in or now being collected: but I am afraid the money must lie unemployed. For as on one side there are few or no opportunities of purchasing land, so, on the other, one cannot meet with any person who is willing to borrow of the public (especially at 12 per cent. interest) when they can raise money upon the same terms from private sources. You will consider then, Sir, whether it may not be advisable, in order to invite responsible persons to take this money, to lower the interest; or if that scheme should not succeed, to place it in the hands of the decurii, upon their giving sufficient security to the public. And though they should not be willing to receive it, yet as the rate of interest will be diminished, the hardship will be so much the less.
+
+I agree with you, my dear Pliny, that there seems to be no other method of facilitating the placing out of the public money than by lowering the interest; the measure of which you will determine according to the number of the borrowers. But to compel persons to receive it who are not disposed to do so, when possibly they themselves may have no opportunity of employing it, is by no means consistent with the justice of my government.
+
+I return you my warmest acknowledgments, Sir, that, among the many important occupations in which you are engaged you have condescended to be my guide on those points on which I have consulted you: a favour which I must now again beseech you to grant me. A certain person presented himself with a complaint that his adversaries, who had been banished for three years by the illustrious Servilius Calvus, still remained in the province: they, on the contrary, affirmed that Calvus had revoked their sentence, and produced his edict to that effect. I thought it necessary therefore to refer the whole affair to you. For as I have your express orders not to restore any person who has been sentenced to banishment either by myself or others so I have no directions with respect to those who, having been banished by some of my predecessors in this government, have by them also been restored. It is necessary for me, therefore, to beg you would inform me, Sir, how I am to act with regard to the above-mentioned persons, as well as others, who, after having been condemned to perpetual banishment, have been found in the province without permission to return; for cases of that nature have likewise fallen under my cognisance. A person was brought before me who had been sentenced to perpetual exile by the proconsul Julius Bassus, but knowing that the acts of Bassus, during his administration, had been rescinded, and that the senate had granted leave to all those who had fallen under his condemnation of appealing from his decision at any time within the space of two years, I enquired of this man whether he had, accordingly, stated his case to the proconsul. He replied he had not. I beg then you would inform me whether you would have him sent back into exile or whether you think some more severe and what kind of punishment should be inflicted upon him, and such others who may hereafter be found under the same circumstances. I have annexed to my letter the decree of Calvus, and the edict by which the persons above-mentioned were restored, as also the decree of Bassus.
+
+I will let you know my determination concerning those exiles which were banished for three years by the proconsul P. Servilius Calvus, and soon afterwards restored to the province by his edict, when I shall have informed myself from him of the reasons of this proceeding. With respect to that person who was sentenced to perpetual banishment by Julius Bassus, yet continued to remain in the province, without making his appeal if he thought himself aggrieved (though he had two years given him for that purpose), I would have sent in chains to my praetorian prefects: for, only to remand him back to a punishment which he has contumaciously eluded will by no means be a sufficient punishment.
+
+When I cited the judges, Sir, to attend me at a sessions which I was going to hold, Flavius Archippus claimed the privilege of being excused as exercising the profession of a philosopher. It was alleged by some who were present that he ought not only to be excused from that office, but even struck out of the rolls of judges, and remanded back to the punishment from which he had escaped, by breaking his chains. At the same time a sentence of the proconsul Velius Paullus was read, by which it appeared that Archippus had been condemned to the mines for forgery. He had nothing to produce in proof of this sentence having ever been reversed. He alleged, however, in favour of his restitution, a petition which he presented to Domitian, together with a letter from that prince, and a decree of the Prusensians in his honour. To these he subjoined a letter which he had received from you; as also an edict and a letter of your august father confirming the grants which had been made to him by Domitian. For these reasons, notwithstanding crimes of so atrocious a nature were laid to his charge, I did not think proper to determine anything concerning him, without first consulting with you, as it is an affair which seems to merit your particular decision. I have transmitted to you, with this letter, the several allegations on both sides.
+
+“Flavius Archippus the philosopher has prevailed with me to give an order that six hundred thousand sesterces be laid out in the purchase of an estate for the support of him and his family, in the neighbourhood of Prusias, his native country. Let this be accordingly done; and place that sum to the account of my benefactions.”
+
+“I recommend, my dear Maximus, to your protection that worthy philosopher Archippus; a person whose moral conduct is agreeable to the principles of the philosophy he professes; and I would have you pay entire regard to whatever he shall reasonably request.”
+
+“There are some points no doubt, Quirites, concerning which the happy tenour of my government is a sufficient indication of my sentiments; and a good prince need not give an express declaration in matters wherein his intention cannot but be clearly understood. Every citizen in the empire will bear me witness that I gave up my private repose to the security of the public, and in order that I might have the pleasure of dispensing new bounties of my own, as also of confirming those which had been granted by predecessors. But lest the memory of him who conferred these grants, or the diffidence of those who received them, should occasion any interruption to the public joy, I thought it as necessary as it is agreeable to me to obviate these suspicions by assuring them of my indulgence. I do not wish any man who has obtained a private or a public privilege from one of the former emperors to imagine he is to be deprived of such a privilege, merely that he may owe the restoration of it to me; nor need any who have received the gratifications of imperial favour petition me to have them confirmed. Rather let them leave me at leisure for conferring new grants, under the assurance that I am only to be solicited for those bounties which have not already been obtained, and which the happier fortune of the empire has put it in my power to bestow.”
+
+“Since I have publicly decreed that all acts begun and accomplished in former reigns should be confirmed, the letters of Domitian must remain valid.”
+
+Flavius Archippus has conjured me, by all my vows for your prosperity, and by your immortal glory, that I would transmit to you the memorial which he presented to me. I could not refuse a request couched in such terms; however, I acquainted the prosecutrix with this my intention, from whom I have also received a memorial on her part. I have annexed them both to this letter; that by hearing, as it were, each party, you may the better be enabled to decide.
+
+It is possible that Domitian might have been ignorant of the circumstances in which Archippus was when he wrote the letter so much to that philosopher’s credit. However, it is more agreeable to my disposition to suppose that prince designed he should be restored to his former situation; especially since he so often had the honour of a statue decreed to him by those who could not be ignorant of the sentence pronounced against him by the proconsul Paullus. But I do not mean to intimate, my dear Pliny, that if any new charge should be brought against him, you should be the less disposed to hear his accusers. I have examined the memorial of his prosecutrix, Furia Prima, as well as that of Archippus himself, which you sent with your last letter.
+
+The apprehensions you express, Sir, that the lake will be in danger of being entirely drained if a communication should be opened between that and the sea, by means of the river, are agreeable to that prudence and forethought you so eminently possess; but I think I have found a method to obviate that inconvenience. A channel may be cut from the lake up to the river so as not quite to join them, leaving just a narrow strip of land between, preserving the lake; by this means it will not only be kept quite separate from the river, but all the same purposes will be answered as if they were united: for it will be extremely easy to convey over that little intervening ridge whatever goods shall be brought down by the canal. This is a scheme which may be pursued, if it should be found necessary; but I hope there will be no occasion to have recourse to it. For, in the first place, the lake itself is pretty deep; and in the next, by damming up the river which runs from it on the opposite side and turning its course as we shall find expedient, the same quantity of water may be retained. Besides, there are several brooks near the place where it is proposed the channel shall be cut which, if skilfully collected, will supply the lake with water in proportion to what it shall discharge. But if you should rather approve of the channel’s being extended farther and cut narrower, and so conveyed directly into the sea, without running into the river, the reflux of the tide will return whatever it receives from the lake. After all, if the nature of the place should not admit of any of these schemes, the course of the water may be checked by sluices. These, however, and many other particulars, will be more skilfully examined into by the engineer, whom, indeed, Sir, you ought to send, according to your promise, for it is an enterprise well worthy of your attention and magnificence. In the meanwhile, I have written to the illustrious Calpurnius Macer, in pursuance of your orders, to send me the most skilful engineer to be had.
+
+It is evident, my dearest Secundus, that neither your prudence nor your care has been wanting in this affair of the lake, since, in order to render it of more general benefit, you have provided so many expedients against the danger of its being drained. I leave it to your own choice to pursue whichever of the schemes shall be thought most proper. Calpurnius Macer will furnish you, no doubt, with an engineer, as artificers of that kind are not wanting in his province.
+
+A very considerable question, Sir, in which the whole province is interested, has been lately started, concerning the state and maintenance of deserted children. I have examined the constitutions of former princes upon this head, but not finding anything in them relating, either in general or particular, to the Bithynians, I thought it necessary to apply to you for your directions: for in a point which seems to require the special interposition of your authority, I could not content myself with following precedents. An edict of the emperor Augustus (as pretended) was read to me, concerning one Annia; as also a letter from Vespasian to the Lacedaemonians, and another from Titus to the same, with one likewise from him to the Achaeans, also some letters from Domitian, directed to the proconsuls Avidius Nigrinus and Armenius Brocchus, together with one from that prince to the Lacedaemonians: but I have not transmitted them to you, as they were not correct (and some of them too of doubtful authenticity), and also because I imagine the true copies are preserved in your archives.
+
+The question concerning children who were exposed by their parents, and afterwards preserved by others, and educated in a state of servitude, though born free, has been frequently discussed; but I do not find in the constitutions of the princes my predecessors any general regulation upon this head, extending to all the provinces. There are, indeed, some rescripts of Domitian to Avidius Nigrinus and Armenius Brocchus, which ought to be observed; but Bithynia is not comprehended in the provinces therein mentioned. I am of opinion therefore that the claims of those who assert their right of freedom upon this footing should be allowed; without obliging them to purchase their liberty by repaying the money advanced for their maintenance.
+
+Having been petitioned by some persons to grant them the liberty (agreeably to the practice of former proconsuls) of removing the relics of their deceased relations, upon the suggestion that either their monuments were decayed by age or ruined by the inundations of the river, or for other reasons of the same kind, I thought proper, Sir, knowing that in cases of this nature it is usual at Rome to apply to the college of priests, to consult you, who are the sovereign of that sacred order, as to how you would have me act in this case.
+
+It will be a hardship upon the provincials to oblige them to address themselves to the college of priests whenever they may have just reasons for removing the ashes of their ancestors. In this case, therefore, it will be better you should follow the example of the governors your predecessors, and grant or deny them this liberty as you shall see reasonable.
+
+I have enquired, Sir, at Prusa, for a proper place on which to erect the bath you were pleased to allow that city to build, and I have found one to my satisfaction. It is upon the site where formerly, I am told, stood a very beautiful mansion, but which is now entirely fallen into ruins. By fixing upon that spot, we shall gain the advantage of ornamenting the city in a part which at present is exceedingly deformed, and enlarging it at the same time without removing any of the buildings; only restoring one which is fallen to decay. There are some circumstances attending this structure of which it is proper I should inform you. Claudius Polyaenus bequeathed it to the emperor Claudius Caesar, with directions that a temple should be erected to that prince in a colonnade-court, and that the remainder of the house should be let in apartments. The city received the rents for a considerable time; but partly by its having been plundered, and partly by its being neglected, the whole house, colonnade-court, and all, is entirely gone to ruin, and there is now scarcely anything remaining of it but the ground upon which it stood. If you shall think proper, Sir, either to give or sell this spot of ground to the city, as it lies so conveniently for their purpose, they will receive it as a most particular favour. I intend, with your permission, to place the bath in the vacant area, and to extend a range of porticoes with seats in that part where the former edifice stood. This new erection I purpose dedicating to you, by whose bounty it will rise with all the elegance and magnificence worthy of your glorious name. I have sent you a copy of the will, by which, though it is inaccurate, you will see that Polyaenus left several articles of ornament for the embellishment of this house; but these also are lost with all the rest: I will, however, make the strictest enquiry after them that I am able.
+
+I have no objection to the Prusenses making use of the ruined court and house, which you say are untenanted, for the erection of their bath. But it is not sufficiently clear by your letter whether the temple in the centre of the colonnade-court was actually dedicated to Claudius or not; for if it were, it is still consecrated ground.
+
+I have been pressed by some persons to take upon myself the enquiry of causes relating to claims of freedom by birth-right, agreeably to a rescript of Domitian’s to Minucius Rufus, and the practice of former proconsuls. But upon casting my eye on the decree of the senate concerning cases of this nature, I find it only mentions the proconsular provinces. I have therefore, Sir, deferred interfering in this affair, till I shall receive your instructions as to how you would have me proceed.
+
+If you will send me the decree of the senate, which occasioned your doubt, I shall be able to judge whether it is proper you should take upon yourself the enquiry of causes relating to claims of freedom by birth-right.
+
+Julius Largus, of Ponus (a person whom I never saw nor indeed ever heard his name till lately), in confidence, Sir, of your distinguishing judgment in my favour, has entrusted me with the execution of the last instance of his loyalty towards you. He has left me, by his will, his estate upon trust, in the first place to receive out of it fifty thousand sesterces for my own use, and to apply the remainder for the benefit of the cities of Heraclea and Tios, either by erecting some public edifice dedicated to your honour or instituting athletic games, according as I shall judge proper. These games are to be celebrated every five years, and to be called Trajan’s games. My principal reason for acquainting you with this bequest is that I may receive your directions which of the respective alternatives to choose.
+
+By the prudent choice Julius Largus has made of a trustee, one would imagine he had known you perfectly well. You will consider then what will most tend to perpetuate his memory, under the circumstances of the respective cities, and make your option accordingly.
+
+You acted agreeably, Sir, to your usual prudence and foresight in ordering the illustrious Calpurnius Macer to send a legionary centurion to Byzantium: you will consider whether the city of Juliopolis does not deserve the same regard, which, though it is extremely small, sustains very great burthens, and is so much the more exposed to injuries as it is less capable of resisting them. Whatever benefits you shall confer upon that city will in effect be advantageous to the whole country; for it is situated at the entrance of Bithynia, and is the town through which all who travel into this province generally pass.
+
+The circumstances of the city of Byzantium are such, by the great confluence of strangers to it, that I held it incumbent upon me, and consistent with the customs of former reigns, to send thither a legionary centurion’s guard to preserve the privileges of that state. But if we should distinguish the city of Juliopolis in the same way, it will be introducing a precedent for many others, whose claim to that favour will rise in proportion to their want of strength. I have so much confidence, however, in your administration as to believe you will omit no method of protecting them from injuries. If any persons shall act contrary to the discipline I have enjoined, let them be instantly corrected; or if they happen to be soldiers, and their crimes should be too enormous for immediate chastisement, I would have them sent to their officers, with an account of the particular misdemeanour you shall find they have been guilty of; but if the delinquents should be on their way to Rome, inform me by letter.
+
+By a law of Pompey’s concerning the Bithynians, it is enacted, Sir, that no person shall be a magistrate, or be chosen into the senate, under the age of thirty. By the same law it is declared that those who have exercised the office of magistrate are qualified to be members of the senate. Subsequent to this law, the emperor Augustus published an edict, by which it was ordained that persons of the age of twenty-two should be capable of being magistrates. The question therefore is whether those who have exercised the functions of a magistrate before the age of thirty may be legally chosen into the senate by the censors? And if so, whether, by the same kind of construction, they may be elected senators, at the age which entitles them to be magistrates, though they should not actually have borne any office? A custom which, it seems, has hitherto been observed, and is said to be expedient, as it is rather better that persons of noble birth should be admitted into the senate than those of plebeian rank. The censors elect having desired my sentiments upon this point, I was of opinion that both by the law of Pompey and the edict of Augustus those who had exercised the magistracy before the age of thirty might be chosen into the senate; and for this reason, because the edict allows the office of magistrate to be undertaken before thirty; and the law declares that whoever has been a magistrate should be eligible for the senate. But with respect to those who never discharged any office in the state, though they were of the age required for that purpose, I had some doubt: and therefore, Sir, I apply to you for your directions. I have subjoined to this letter the heads of the law, together with the edict of Augustus.
+
+I agree with you, my dearest Secundus, in your construction, and am of opinion that the law of Pompey is so far repealed by the edict of the emperor Augustus that those persons who are not less than twenty-two years of age may execute the office of magistrates, and, when they have, may be received into the senate of their respective cities. But I think that they who are under thirty years of age, and have not discharged the function of a magistrate, cannot, upon pretence that in point of years they were competent to the office, legally be elected into the senate of their several communities.
+
+Whilst I was despatching some public affairs, Sir, at my apartments in Prusa, at the foot of Olympus, with the intention of leaving that city the same day, the magistrate Asclepiades informed me that Eumolpus had appealed to me from a motion which Cocceianus Dion made in their senate. Dion, it seems, having been appointed supervisor of a public building, desired that it might be assigned to the city in form. Eumolpus, who was counsel for Flavius Archippus, insisted that Dion should first be required to deliver in his accounts relating to this work, before it was assigned to the corporation; suggesting that he had not acted in the manner he ought. He added, at the same time, that in this building, in which your statue is erected, the bodies of Dion’s wife and son are entombed, and urged me to hear this cause in the public court of judicature. Upon my at once assenting to his request, and deferring my journey for that purpose, he desired a longer day in order to prepare matters for hearing, and that I would try this cause in some other city. I appointed the city of Nicea; where, when I had taken my seat, the same Eumolpus, pretending not to be yet sufficiently instructed, moved that the trial might be again put off: Dion, on the contrary, insisted it should be heard. They debated this point very fully on both sides, and entered a little into the merits of the cause; when being of opinion that it was reasonable it should be adjourned, and thinking it proper to consult with you in an affair which was of consequence in point of precedent, I directed them to exhibit the articles of their respective allegations in writing; for I was desirous you should judge from their own representations of the state of the question between them. Dion promised to comply with this direction and Eumolpus also assured me he would draw up a memorial of what he had to allege on the part of the community. But he added that, being only concerned as advocate on behalf of Archippus, whose instructions he had laid before me, he had no charge to bring with respect to the sepulchres. Archippus, however, for whom Eumolpus was counsel here, as at Prusa, assured me he would himself present a charge in form upon this head. But neither Eumolpus nor Archippus (though I have waited several days for that purpose) have yet performed their engagement: Dion indeed has; and I have annexed his memorial to this letter. I have inspected the buildings in question, where I find your statue is placed in a library, and as to the edifice in which the bodies of Dion’s wife and son are said to be deposited, it stands in the middle of a court, which is enclosed with a colonnade. Deign, therefore, I entreat you, Sir, to direct my judgment in the determination of this cause above all others as it is a point to which the public is greatly attentive, and necessarily so, since the fact is not only acknowledged, but countenanced by many precedents.
+
+You well know, my dearest Secundus, that it is my standing maxim not to create an awe of my person by severe and rigorous measures, and by construing every slight offence into an act of treason; you had no reason, therefore, to hesitate a moment upon the point concerning which you thought proper to consult me. Without entering therefore into the merits of that question (to which I would by no means give any attention, though there were ever so many instances of the same kind), I recommend to your care the examination of Dion’s accounts relating to the public works which he has finished; as it is a case in which the interest of the city is concerned, and as Dion neither ought nor, it seems, does refuse to submit to the examination.
+
+The Niceans having, in the name of their community, conjured me, Sir, by all my hopes and wishes for your prosperity and immortal glory (an adjuration which is and ought to be most sacred to me), to present to you their petition, I did not think myself at liberty to refuse them: I have therefore annexed it to this letter.
+
+The Niceans I find, claim a right, by an edict of Augustus, to the estate of every citizen who dies intestate. You will therefore summon the several parties interested in this question, and, examining these pretensions, with the assistance of the procurators Virdius Gemellinus, and Epimachus, my freedman (having duly weighed every argument that shall be alleged against the claim), determine as shall appear most equitable.
+
+May this and many succeeding birthdays be attended, Sir, with the highest felicity to you; and may you, in the midst of an uninterrupted course of health and prosperity, be still adding to the increase of that immortal glory which your virtues justly merit!
+
+Your wishes, my dearest Secundus, for my enjoyment of many happy birthdays amidst the glory and prosperity of the republic were extremely agreeable to me.
+
+The inhabitants of Sinope are ill supplied, Sir, with water, which however may be brought thither from about sixteen miles’ distance in great plenty and perfection. The ground, indeed, near the source of this spring is, for rather over a mile, of a very suspicious and marshy nature; but I have directed an examination to be made (which will be effected at a small expense) whether it is sufficiently firm to support any superstructure. I have taken care to provide a sufficient fund for this purpose, if you should approve, Sir, of a work so conducive to the health and enjoyment of this colony, greatly distressed by a scarcity of water.
+
+I would have you proceed, my dearest Secundus, in carefully examining whether the ground you suspect is firm enough to support an aqueduct. For I have no manner of doubt that the Sinopian colony ought to be supplied with water; provided their finances will bear the expense of a work so conducive to their health and pleasure.
+
+The free and confederate city of the Amiseni enjoys, by your indulgence, the privilege of its own laws. A memorial being presented to me there, concerning a charitable institution, I have subjoined it to this letter, that you may consider, Sir, whether, and how far, this society ought to be licensed or prohibited.
+
+If the petition of the Amiseni which you have transmitted to me, concerning the establishment of a charitable society, be agreeable to their own laws, which by the articles of alliance it is stipulated they shall enjoy, I shall not oppose it; especially if these contributions are employed, not for the purpose of riot and faction, but for the support of the indigent. In other cities, however, which are subject to our laws, I would have all assemblies of this nature prohibited.
+
+Suetonius Tranquillus, Sir, is a most excellent, honourable, and learned man. I was so much pleased with his tastes and disposition that I have long since invited him into my family, as my constant guest and domestic friend; and my affection for him increased the more I knew of him. Two reasons concur to render the privilege which the law grants to those who have three children particularly necessary to him; I mean the bounty of his friends, and the ill-success of his marriage. Those advantages, therefore, which nature has denied to him, he hopes to obtain from your goodness, by my intercession. I am thoroughly sensible, Sir, of the value of the privilege I am asking; but I know, too, I am asking it from one whose gracious compliance with all my desires I have amply experienced. How passionately I wish to do so in the present instance, you will judge by my thus requesting it in my absence; which I would not, had it not been a favour which I am more than ordinarily anxious to obtain.
+
+You cannot but be sensible, my dearest Secundus, how reserved I am in granting favours of the kind you desire; having frequently declared in the senate that I had not exceeded the number of which I assured that illustrious order I would be contented with. I have yielded, however, to your request, and have directed an article to be inserted in my register, that I have conferred upon Tranquillus, on my usual conditions, the privilege which the law grants to these who have three children.
+
+It is my invariable rule, Sir, to refer to you in all matters where I feel doubtful; for who is more capable of removing my scruples, or informing my ignorance? Having never been present at any trials concerning those who profess Christianity, I am unacquainted not only with the nature of their crimes, or the measure of their punishment, but how far it is proper to enter into an examination concerning them. Whether, therefore, any difference is usually made with respect to ages, or no distinction is to be observed between the young and the adult; whether repentance entitles them to a pardon; or if a man has been once a Christian, it avails nothing to desist from his error; whether the very profession of Christianity, unattended with any criminal act, or only the crimes themselves inherent in the profession are punishable; on all these points I am in great doubt. In the meanwhile, the method I have observed towards those who have been brought before me as Christians is this: I asked them whether they were Christians; if they admitted it, I repeated the question twice, and threatened them with punishment; if they persisted, I ordered them to be at once punished: for I was persuaded, whatever the nature of their opinions might be, a contumacious and inflexible obstinacy certainly deserved correction. There were others also brought before me possessed with the same infatuation, but being Roman citizens, I directed them to be sent to Rome. But this crime spreading (as is usually the case) while it was actually under prosecution, several instances of the same nature occurred. An anonymous information was laid before me containing a charge against several persons, who upon examination denied they were Christians, or had ever been so. They repeated after me an invocation to the gods, and offered religious rites with wine and incense before your statue (which for that purpose I had ordered to be brought, together with those of the gods), and even reviled the name of Christ: whereas there is no forcing, it is said, those who are really Christians into any of these compliances: I thought it proper, therefore, to discharge them. Some among those who were accused by a witness in person at first confessed themselves Christians, but immediately after denied it; the rest owned indeed that they had been of that number formerly, but had now (some above three, others more, and a few above twenty years ago) renounced that error. They all worshipped your statue and the images of the gods, uttering imprecations at the same time against the name of Christ. They affirmed the whole of their guilt, or their error, was, that they met on a stated day before it was light, and addressed a form of prayer to Christ, as to a divinity, binding themselves by a solemn oath, not for the purposes of any wicked design, but never to commit any fraud, theft, or adultery, never to falsify their word, nor deny a trust when they should be called upon to deliver it up; after which it was their custom to separate, and then reassemble, to eat in common a harmless meal. From this custom, however, they desisted after the publication of my edict, by which, according to your commands, I forbade the meeting of any assemblies. After receiving this account, I judged it so much the more necessary to endeavor to extort the real truth, by putting two female slaves to the torture, who were said to officiate in their religious rites: but all I could discover was evidence of an absurd and extravagant superstition. I deemed it expedient, therefore, to adjourn all further proceedings, in order to consult you. For it appears to be a matter highly deserving your consideration, more especially as great numbers must be involved in the danger of these prosecutions, which have already extended, and are still likely to extend, to persons of all ranks and ages, and even of both sexes. In fact, this contagious superstition is not confined to the cities only, but has spread its infection among the neighbouring villages and country. Nevertheless, it still seems possible to restrain its progress. The temples, at least, which were once almost deserted, begin now to be frequented; and the sacred rites, after a long intermission, are again revived; while there is a general demand for the victims, which till lately found very few purchasers. From all this it is easy to conjecture what numbers might be reclaimed if a general pardon were granted to those who shall repent of their error.
+
+You have adopted the right course, my dearest Secundus, in investigating the charges against the Christians who were brought before you. It is not possible to lay down any general rule for all such cases. Do not go out of your way to look for them. If indeed they should be brought before you, and the crime is proved, they must be punished; with the restriction, however, that where the party denies he is a Christian, and shall make it evident that he is not, by invoking our gods, let him (notwithstanding any former suspicion) be pardoned upon his repentance. Anonymous informations ought not to be received in any sort of prosecution. It is introducing a very dangerous precedent, and is quite foreign to the spirit of our age.
+
+The elegant and beautiful city of Amastris, Sir, has, among other principal constructions, a very fine street and of considerable length, on one entire side of which runs what is called indeed a river, but in fact is no other than a vile common sewer, extremely offensive to the eye, and at the same time very pestilential on account of its noxious smell. It will be advantageous, therefore, in point of health, as well as decency, to have it covered; which shall be done with your permission: as I will take care, on my part, that money be not wanting for executing so noble and necessary a work.
+
+It is highly reasonable, my dearest Secundus, if the water which runs through the city of Amastris is prejudicial, while uncovered, to the health of the inhabitants, that it should be covered up. I am well assured you will, with your usual application, take care that the money necessary for this work shall not be wanting.
+
+We have celebrated, Sir, with great joy and festivity, those votive solemnities which were publicly proclaimed as formerly, and renewed them the present year, accompanied by the soldiers and provincials, who zealously joined with us in imploring the gods that they would be graciously pleased to preserve you and the republic in that state of prosperity which your many and great virtues, particularly your piety and reverence towards them, so justly merit.
+
+It was agreeable to me to learn by your letter that the army and the provincials seconded you, with the most joyful unanimity, in those vows which you paid and renewed to the immortal gods for my preservation and prosperity.
+
+We have celebrated, with all the warmth of that pious zeal we justly ought, the day on which, by a most happy succession, the protection of mankind was committed over into your hands; recommending to the gods, from whom you received the empire, the object of your public vows and congratulations.
+
+I was extremely well pleased to be informed by your letter that you had, at the head of the soldiers and the provincials, solemnised my accession to the empire with all due joy and zeal.
+
+Valerius Paulinus, Sir, having bequeathed to me the right of patronage over all his freedmen, except one, I intreat you to grant the freedom of Rome to three of them. To desire you to extend this favour to all of them would, I fear, be too unreasonable a trespass upon your indulgence; which, in proportion as I have amply experienced, I ought to be so much the more cautious in troubling. The persons for whom I make this request are C. Valerius Astraeus, C. Valerius Dionysius, and C. Valerius Aper.
+
+You act most generously in so early soliciting in favour of those whom Valerius Paulinus has confided to your trust. I have accordingly granted the freedom of the city to such of his freedmen for whom you requested it, and have directed the patent to be registered: I am ready to confer the same on the rest, whenever you shall desire me.
+
+P. Attius Aquila, a centurion of the sixth equestrian cohort, requested me, Sir, to transmit his petition to you, in favour of his daughter. I thought it would be unkind to refuse him this service, knowing, as I do, with what patience and kindness you attend to the petitions of the soldiers.
+
+I have read the petition of P. Attius Aquila, centurion of the sixth equestrian cohort, which you sent to me; and in compliance with his request, I have conferred upon his daughter the freedom of the city of Rome. I send you at the same time the patent, which you will deliver to him.
+
+I request, Sir, your directions with respect to the recovering those debts which are due to the cities of Bithynia and Pontus, either for rent, or goods sold, or upon any other consideration. I find they have a privilege conceded to them by several proconsuls, of being preferred to other creditors; and this custom has prevailed as if it had been established by law. Your prudence, I imagine, will think it necessary to enact some settled rule, by which their rights may always be secured. For the edicts of others, how wisely soever founded, are but feeble and temporary ordinances, unless confirmed and sanctioned by your authority.
+
+The right which the cities either of Pontus or Bithynia claim relating to the recovery of debts of whatever kind, due to their several communities, must be determined agreeably to their respective laws. Where any of these communities enjoy the privilege of being preferred to other creditors, it must be maintained; but, where no such privilege prevails, it is not just I should establish one, in prejudice of private property.
+
+The solicitor to the treasury of the city of Amisis instituted a claim, Sir, before me against Julius Piso of about forty thousand denarii, presented to him by the public above twenty years ago, with the consent of the general council and assembly of the city: and he founded his demand upon certain of your edicts, by which donations of this kind are prohibited. Piso, on the other hand, asserted that he had conferred large sums of money upon the community, and, indeed, had thereby expended almost the whole of his estate. He insisted upon the length of time which had intervened since this donation, and hoped that he should not be compelled, to the ruin of the remainder of his fortunes, to refund a present which had been granted him long since, in return for many good offices he had done the city. For this reason, Sir, I thought it necessary to suspend giving any judgment in this cause till I shall receive your directions.
+
+Though by my edicts I have ordained that no largesses shall be given out of the public money, yet, that numberless private persons may not be disturbed in the secure possession of their fortunes, those donations which have been made long since ought not to be called in question or revoked. We will not therefore enquire into anything that has been transacted in this affair so long ago as twenty years; for I would be no less attentive to secure the repose of every private man than to preserve the treasure of every public community.
+
+The Pompeian law, Sir, which is observed in Pontus and Bithynia, does not direct that any money for their admission shall be paid in by those who are elected into the senate by the censors. It has, however, been usual for such members as have been admitted into those assemblies, in pursuance of the privilege which you were pleased to grant to some particular cities, of receiving above their legal number, to pay one or two thousand denarii on their election. Subsequent to this, the proconsul Anicius Maximus ordained (though indeed his edict related to some few cities only) that those who were elected by the censors should also pay into the treasury a certain sum, which varied in different places. It remains, therefore, for your consideration whether it would not be proper to settle a certain sum for each member who is elected into the councils to pay upon his entrance; for it well becomes you, whose every word and action deserves to be immortalized, to establish laws that shall endure for ever.
+
+I can give no general directions applicable to all the cities of Bithynia, in relation to those who are elected members of their respective councils, whether they shall pay an honorary fee upon their admittance or not. I think that the safest method which can be pursued is to follow the particular laws of each city; and I also think that the censors ought to make the sum less for those who are chosen into the senate contrary to their inclinations than for the rest.
+
+The Pompeian law, Sir, allows the Bithynians to give the freedom of their respective cities to any person they think proper, provided he is not a foreigner, but native of some of the cities of this province. The same law specifies the particular causes for which the censors may expel any member the senate, but makes no mention of foreigners. Certain of the censors therefore have desired my opinion whether they ought to expel a member if he should happen to be a foreigner. But I thought it necessary to receive your instructions in this case; not only because the law, though it forbids foreigners to be admitted citizens, does not direct that a senator shall be expelled for the same reason, but because I am informed that in every city in the province a great number of the senators are foreigners. If, therefore, this clause of the law, which seems to be antiquated by a long custom to the contrary, should be enforced, many cities, as well as private persons, must be injured by it. I have annexed the heads of this law to my letter.
+
+You might well be doubtful, my dearest Secundus, what reply to give to the censors, who consulted you concerning their right to elect into the senate foreign citizens, though of the same province. The authority of the law on one side, and long custom prevailing against it on the other, might justly occasion you to hesitate. The proper mean to observe in this case will be to make no change in what is past, but to allow those senators who are already elected, though contrary to law, to keep their seats, to whatever city they may belong; in all future elections, however, to pursue the directions of the Pompeian law: for to give it a retrospective operation would necessarily introduce great confusion.
+
+It is customary here upon any person taking the manly robe, solemnising his marriage, entering upon the office of a magistrate, or dedicating any public work, to invite the whole senate, together with a considerable part of the commonalty, and distribute to each of the company one or two denarii. I request you to inform me whether you think proper this ceremony should be observed, or how far you approve of it. For myself, though I am of opinion that upon some occasions, especially those of public festivals, this kind of invitation may be permitted, yet, when carried so far as to draw together a thousand persons, and sometimes more, it seems to be going beyond a reasonable number, and has somewhat the appearance of ambitious largesses.
+
+You very justly apprehended that those public invitations which extend to an immoderate number of people, and where the dole is distributed, not singly to a few acquaintances, but, as it were, to whole collective bodies, may be turned to the factious purposes of ambition. But I appointed you to your present government, fully relying upon your prudence, and in the persuasion that you would take proper measures for regulating the manners and settling the peace of the province.
+
+The athletic victors, Sir, in the Iselastic games, conceive that the stipend you have established for the conquerors becomes due from the day they are crowned: for it is not at all material, they say, what time they were triumphantly conducted into their country, but when they merited that honour. On the contrary, when I consider the meaning of the term Iselastic, I am strongly inclined to think that it is intended the stipend should commence from the time of their public entry. They likewise petition to be allowed the treat you give at those combats which you have converted into Iselastic, though they were conquerors before the appointment of that institution: for it is but reasonable, they assert, that they should receive the reward in this instance, as they are deprived of it at those games which have been divested of the honour of being Iselastic, since their victory. But I am very doubtful, whether a retrospect should be admitted in the case in question, and a reward given, to which the claimants had no right at the time they obtained the victory. I beg, therefore, you would be pleased to direct my judgment in these points, by explaining the intention of your own benefactions.
+
+The stipend appointed for the conqueror in the Iselastic games ought not, I think, to commence till he makes his triumphant entry into his city. Nor are the prizes, at those combats which I thought proper to make Iselastic, to be extended backwards to those who were victors before that alteration took place. With regard to the plea which these athletic combatants urge, that they ought to receive the Iselastic prize at those combats which have been made Iselastic subsequent to their conquests, as they are denied it in the same case where the games have ceased to be so, it proves nothing in their favour; for notwithstanding any new arrangements which has been made relating to these games, they are not called upon to return the recompense which they received prior to such alteration.
+
+I have hitherto never, Sir, granted an order for postchaises to any person, or upon any occasion, but in affairs that relate to your administration. I find myself, however, at present under a sort of necessity of breaking through this fixed rule. My wife having received an account of her grandfather’s death, and being desirous to wait upon her aunt with all possible expedition, I thought it would be unkind to deny her the use of this privilege; as the grace of so tender an office consists in the early discharge of it, and as I well knew a journey which was founded in filial piety could not fail of your approbation. I should think myself highly ungrateful therefore, were I not to acknowledge that, among other great obligations which I owe to your indulgence, I have this in particular, that, in confidence of your favour, I have ventured to do, without consulting you, what would have been too late had I waited for your consent.
+
+You did me justice, my dearest Secundus, in confiding in my affection towards you. Without doubt, if you had waited for my consent to forward your wife in her journey by means of those warrants which I have entrusted to your care, the use of them would not have answered your purpose; since it was proper this visit to her aunt should have the additional recommendation of being paid with all possible expedition.
+
+THE PUBLISHERS OF THE HARVARD CLASSICS · DR. ELIOT’S FIVE-FOOT SHELF OF BOOKS · ARE PLEASED TO ANNOUNCE THE PUBLICATION OF
+
+THE JUNIOR CLASSICS
+
+a library for boys and girls
+
+“The Junior Classics constitute a set of books whose contents will delight children and at the same time satisfy the legitimate ethical requirements of those who have the children’s best interests at heart.”
+
+THE COLLIER PRESS · NEW YORK
+
+P · F · COLLIER & SON
+
+A pupil and intimate friend of Paetus Thrasea, the distinguished Stoic philosopher. Arulenus was put to death by Domitian for writing a panegyric upon Thrasea.
+
+The impropriety of this expression, in the original, seems to lie in the word stigmosum, which Regulus, probably either coined through affectation or used through ignorance. It is a word, at least, which does not occur in any author of authority: the translator has endeavoured, therefore, to preserve the same sort of impropriety, by using an expression of like unwarranted stamp in his own tongue. M.
+
+An allusion to a wound he had received in the war between Vitellius and Vespasian.
+
+A brother of Piso Galba’s adopted son. He was put to death by Nero.
+
+Sulpicius Camerinus, put to death by the same emperor, upon some frivolous charge.
+
+A select body of men who formed a court of judicature, called the centumviral court. Their jurisdiction extended chiefly, if not entirely, to questions of wills and intestate estates. Their number, it would seem, amounted to 105. M.
+
+Junius Mauricus, the brother of Rusticus Arulenus. Both brothers were sentenced on the same day, Arulenus to execution and Mauricus to banishment.
+
+There seems to have been a cast of uncommon blackness in the character of this Regulus; otherwise the benevolent Pliny would scarcely have singled him out, as he has in this and some following letters, for the subject of his warmest contempt and indignation. Yet, infamous as he was, he had his flatterers and admirers; and a contemporary poet frequently represents him as one of the most finished characters of the age, both in eloquence and virtue. M.
+
+The Decurii were a sort of senators in the municipal or corporate cities of Italy. M.
+
+“Euphrates was a native of Tyre, or, according to others, of Byzantium. He belonged to the Stoic school of philosophy. In his old age he became tired of life, and asked and obtained from Hadrian permission to put an end to himself by poison.” Smith’s Dict. of Greek and Roman Biog.
+
+A pleader and historian of some distinction, mentioned by Tacitus, Ann. xiv. 19, and by Quintilian, x. 1, 102.
+
+Padua.
+
+Domitian.
+
+Iliad, xii. 243. Pope.
+
+Equal to about $4,000 of our money. After the reign of Augustus the value of the sestertius.
+
+“The equestrian dignity, or that order of the Roman people which we commonly call knights, had nothing in it analogous to any order of modern knighthood, but depended entirely upon a valuation of their estates; and every citizen, whose entire fortune amounted to 400,000 sesterces, that is, to about $16,000 of our money, was enrolled, of course, in the list of knights, who were considered as a middle order between the senators and common people, yet, without any other distinction than the privilege of wearing a gold ring, which was the peculiar badge of their order.” Life of Cicero, vol. i. iii. in note. M.
+
+An elegant Attic orator, remarkable for the grace and lucidity of his style, also for his vivid and accurate delineations of character.
+
+A graceful and powerful orator, and friend of Demosthenes.
+
+A Roman orator of the Augustan age. He was a poet and historian as well, but gained most distinction as an orator.
+
+A man of considerable taste, talent, and eloquence, but profligate and extravagant. He was on terms of some intimacy with Cicero.
+
+The praetor was assisted by ten assessors, five of whom were senators, and the rest knights. With these he was obliged to consult before he pronounced sentence. M.
+
+A contemporary and rival of Aristophanes.
+
+Aristophanes, Ach. 531.
+
+Thersites. Iliad, ii. v. 212.
+
+Ulysses. Iliad, iii. v. 222.
+
+Menelaus. Iliad, iii. v. 214.
+
+Great-grandfather of the Emperor M. Aurelius.
+
+An eminent lawyer of Trajan’s reign.
+
+The philosophers used to hold their disputations in the gymnasia and porticoes, being places of the most public resort for walking, &c. M.
+
+“Verginius Rufus was governor of Upper Germany at the time of the revolt of Julius Vindex in Gaul, ad 68. The soldiers of Verginius wished to raise him to the empire, but he refused the honour, and marched against Vindex, who perished before Vesontio. After the death of Nero, Verginius supported the claims of Galba, and accompanied him to Rome. Upon Otho’s death, the soldiers again attempted to proclaim Verginius emperor, and in consequence of his refusal of the honour, he narrowly escaped with his life.” (See Smith’s Dict. of Greek and Rom. Biog., &c.)
+
+Nerva.
+
+The historian.
+
+Namely, of augurs. “This college, as regulated by Sylla, consisted of fifteen, who were all persons of the first distinction in Rome; it was a priesthood for life, of a character indelible, which no crime or forfeiture could efface; it was necessary that every candidate should be nominated to the people by two augurs, who gave a solemn testimony upon oath of his dignity and fitness for that office.” Middleton’s Life of Cicero, p. 147. M.
+
+The ancient Greeks and Romans did not sit up at the table as we do, but reclined round it on couches, three and sometimes even four occupying one couch, at least this latter was the custom among the Romans. Each guest lay flat upon his chest while eating, reaching out his hand from time to time to the table, for what he might require. As soon as he had made a sufficient meal, he turned over upon his left side, leaning on the elbow.
+
+A people of Germany.
+
+“Any Roman priest devoted to the service of one particular god was designated Flamen, receiving a distinguishing epithet from the deity to whom he ministered. The office was understood to last for life; but a flamen might be compelled to resign for a breach of duty, or even on account of the occurrence of an ill-omened accident while discharging his functions.” Smith’s Dictionary of Antiquities.
+
+Trajan.
+
+By a law passed a. u. 762, it was enacted that every citizen of Rome who had three children should be excused from all troublesome offices where he lived. This privilege the emperors sometimes extended to those who were not legally entitled to it.
+
+About 54 cents.
+
+Avenue.
+
+“Windows made of a transparent stone called lapis specularis (mica), which was first found in Hispania Citerior, and afterwards in Cyprus, Cappadocia, Sicily, and Africa; but the best came from Spain and Cappadocia. It was easily split into the thinnest sheets. Windows made of this stone were called specularia.” Smith’s Dictionary of Antiquities.
+
+A feast held in honour of the god Saturn, which began on the 19th of December, and continued, as some say, for seven days. It was a time of general rejoicing, particularly among the slaves, who had at this season the privilege of taking great liberties with their masters. M.
+
+Cicero and Quintilian have laid down rules how far, and in what instances, this liberty was allowable, and both agree it ought to be used with great sagacity and judgment. The latter of these excellent critics mentions a witticism of Flavius Virginius, who asked one of these orators, “Quot millia passuum declamasset?” How many miles he had declaimed. M.
+
+This was an act of great ceremony; and if Aurelia’s dress was of the kind which some of the Roman ladies used, the legacy must have been considerable which Regulus had the impudence to ask. M.
+
+A poet to whom Quintilian assigns the highest rank, as a writer of tragedies, among his contemporaries (book x. c. i. 98). Tacitus also speaks of him in terms of high appreciation (Annals, v. 8).
+
+Stepson of Augustus and brother to Tiberius. An amiable and popular prince. He died at the close of his third campaign, from a fracture received by falling from his horse.
+
+A historian under Augustus and Tiberius. He wrote part of a history of Rome, which was continued by the elder Pliny; also an account of the German war, to which Quintilian makes allusion (Inst. x. 103), pronouncing him, as a historian, “estimable in all respects, yet in some things failing to do himself justice.”
+
+The distribution of time among the Romans was very different from ours. They divided the night into four equal parts, which they called watches, each three hours in length; and part of these they devoted either to the pleasures of the table or to study. The natural day they divided into twelve hours, the first beginning with sunrise, and the last ending with sunset; by which means their hours were of unequal length, varying according to the different seasons of the year. The time for business began with sunrise, and continued to the fifth hour, being that of dinner, which with them was only a slight repast. From thence to the seventh hour was a time of repose; a custom which still prevails in Italy. The eighth hour was employed in bodily exercises; after which they constantly bathed, and from thence went to supper. M.
+
+Born about ad 25. He acquired some distinction as an advocate. The only poem of his which has come down to us is a heavy prosaic performance in seventeen books, entitled “Tunica,” and containing an account of the events of the Second Punic War, from the capture of Saguntum to the triumph of Scipio Africanus. See Smith’s Dict. of Gr. and Rom. Biog.
+
+Trajan.
+
+Spurinna’s wife.
+
+Domitian banished the philosophers not only from Rome, but Italy, as Suetonius (Dom. c. x.) and Aulus Gellius (Noct. Att. b. xv. cxi. 3, 4, 5) inform us; among these was the celebrated Epictetus. M.
+
+The following is the story, as related by several of the ancient historians. Paetus, having joined Scribonianus, who was in arms, in Illyria, against Claudius, was taken after the death of Scribonianus, and condemned to death. Arria having, in vain, solicited his life, persuaded him to destroy himself, rather than suffer the ignominy of falling by the executioner’s hands; and, in order to encourage him to an act, to which, it seems, he was not particularly inclined, she set him the example in the manner Pliny relates. M.
+
+Trajan.
+
+The Romans used to employ their criminals in the lower offices of husbandry, such as ploughing, &c. Plin. H. N. l. 18, 3. M.
+
+About $100,000.
+
+About $200,000.
+
+One of the famous seven hills upon which Rome was situated. M.
+
+Mart. lx. 19.
+
+Calpurnia, Pliny’s wife.
+
+Now Citta di Castello.
+
+The Romans had an absolute power over their children, of which no age or station of the latter deprived them.
+
+Their business was to interpret dreams, oracles, prodigies, &c., and to foretell whether any action should be fortunate or prejudicial, to particular persons, or to the whole commonwealth. Upon this account, they very often occasioned the displacing of magistrates, the deferring of public assemblies, &c. Kennet’s Rom. Antiq. M.
+
+Trajan.
+
+A slave was incapable of property; and, therefore, whatever he acquired became the right of his master. M.
+
+“Their office was to attend upon the rites of Vesta, the chief part of which was the preservation of the holy fire. If this fire happened to go out, it was considered impiety to light it at any common flame, but they made use of the pure and unpolluted rays of the sun for that purpose. There were various other duties besides connected with their office. The chief rules prescribed them were, to vow the strictest chastity for the space of thirty years. After this term was completed, they had liberty to leave the order. If they broke their vow of virginity, they were buried alive in a place allotted to that peculiar use.” Kennet’s Antiq. Their reputation for sanctity was so high that Livy mentions the fact of two of those virgins having violated their vows, as a prodigy that threatened destruction to the Roman state. Lib. xxii. c. 57. And Suetonius informs us that Augustus had so high an opinion of this religious order that he consigned the care of his will to the Vestal Virgins. Suet. in vit. Aug. c. 101. M.
+
+It was usual with Domitian to triumph, not only without a victory, but even after a defeat. M.
+
+Euripides’ Hecuba.
+
+The punishment inflicted upon the violators of Vestal chastity was to be scourged to death. M.
+
+Calpurnia, Pliny’s wife.
+
+Gratilla was the wife of Rusticus: Rusticus was put to death by Domitian, and Gratilla banished. It was sufficient crime in the reign of that execrable prince to be even a friend of those who were obnoxious to him. M.
+
+In the original, scrinium, a box for holding MSS.
+
+The hippodromus, in its proper signification, was a place, among the Grecians, set apart for horse-racing and other exercises of that kind. But it seems here to be nothing more than a particular walk, to which Pliny perhaps gave that name, from its bearing some resemblance in its form to the public places so called. M.
+
+Now called Frascati, Tivoli, and Palestrina, all of them situated in the Campagna di Roma, and at no great distance from Rome. M.
+
+“This is said in allusion to the idea of Nemesis supposed to threaten excessive prosperity.” (Church and Brodribb.)
+
+About $15,000.
+
+About $42,000.
+
+None had the right of using family pictures or statues but those whose ancestors or themselves had borne some of the highest dignities. So that the jus imaginis was much the same thing among the Romans as the right of bearing a coat of arms among us. Ken. Antiq. M.
+
+The Roman physicians used to send their patients in consumptive cases into Egypt, particularly to Alexandria. M.
+
+Frejus, in Provence, the southern part of France. M.
+
+A court of justice erected by Julius Caesar in the forum, and opposite to the basilica Aemilia.
+
+The decemviri seem to have been magistrates for the administration of justice, subordinate to the praetors, who (to give the English reader a general notion of their office) may be termed lords chief justices, as the judges here mentioned were something in the nature of our juries. M.
+
+About $400.
+
+This silly piece of superstition seems to have been peculiar to Regulus, and not of any general practice; at least it is a custom of which we find no other mention in antiquity. M.
+
+“We gather from Martial that the wearing of these was not an unusual practice with fops and dandies. See Epig. ii. 29, in which he ridicules a certain Rufus, and hints that if you were to strip off the ‘splenia’ ” (plasters) “from his face, you would find out that he was a branded runaway slave.” (Church and Brodribb.)
+
+His wife.
+
+Hom. Il. lib. i. v. 88.
+
+Now Alzia, not far from Como.
+
+Nevertheless, Javolenus Priscus was one of the most eminent lawyers of his time, and is frequently quoted in the Digesta of Justinian.
+
+In the Bay of Naples.
+
+The Romans used to lie or walk naked in the sun, after anointing their bodies with oil, which was esteemed as greatly contributing to health, and therefore daily practised by them. This custom, however, of anointing themselves, is inveighed against by the satirists as in the number of their luxurious indulgences: but since we find the elder Pliny here, and the amiable Spurinna in a former letter, practising this method, we can not suppose the thing itself was esteemed unmanly, but only when it was attended with some particular circumstances of an over-refined delicacy. M.
+
+Now called Castelamare, in the Bay of Naples. M.
+
+The Stoic and Epicurean philosophers held that the world was to be destroyed by fire, and all things fall again into original chaos; not excepting even the national gods themselves from the destruction of this general conflagration. M.
+
+The lake Larius.
+
+Those families were styled patrician whose ancestors had been members of the senate in the earliest times of the regal or consular government. M.
+
+Trajan.
+
+The consuls, though they were chosen in August, did not enter upon their office till the first of January, during which interval they were styled consules designati, consuls elect. It was usual for them upon that occasion to compliment the emperor, by whose appointment, after the dissolution of the republican government, they were chosen. M.
+
+So called, because it formerly belonged to Camillus. M.
+
+Civita Vecchia.
+
+Trajan.
+
+An officer in the Roman legions, answering in some sort to a captain in our companies. M.
+
+This law was made by Augustus Caesar; but it nowhere clearly appears what was the peculiar punishment it inflicted. M.
+
+An officer employed by the emperor to receive and regulate the public revenue in the provinces. M.
+
+Comprehending Transylvania, Moldavia, and Walachia. M.
+
+Polycletus was a freedman, and great favourite of Nero. M.
+
+Memmius, or Rhemmius (the critics are not agreed which), was author of a law by which it was enacted that whosoever was convicted of calumny and false accusation should be stigmatised with a mark in his forehead; and by the law of the twelve tables, false accusers were to suffer the same punishment as would have been inflicted upon the person unjustly accused if the crime had been proved. M.
+
+Trajan.
+
+Unction was much esteemed and prescribed by the ancients. Celsus expressly recommends it in the remission of acute distempers: “ungi leniterque pertractari corpus, etiam in acutis et recentibus morbis oportet; in remissione tamen,” &c. Celsi Med. ed. Almeloveen, p. 88. M.
+
+His wife.
+
+See book v. letter xx.
+
+Trajan.
+
+One of the Bithynians employed to manage the trial. M.
+
+About $28,000.
+
+About $36,000.
+
+There is a kind of witticism in this expression, which will be lost to the mere English reader, unless he be informed that the Romans had a privilege, confirmed to them by several laws which passed in the earlier ages of the republic, of appealing from the decisions of the magistrates to the general assembly of the people: and they did so in the form of words which Pomponius here applies to a different purpose. M.
+
+The priests, as well as other magistrates, exhibited public games to the people when they entered upon their office. M.
+
+A famous lawyer who flourished in the reign of the emperor Claudius: those who followed his opinions were said to be Cassians, or of the school of Cassius. M.
+
+A Stoic philosopher and native of Tarsus. He was tutor for some time to Octavius, afterwards Augustus, Caesar.
+
+Balzac very prettily observes: “Il y a des rivières qui ne font jamais tant de bien que quand elles se débordent; de même, l’amitié n’a rien meilleur que l’excès.” M.
+
+Persons of rank and literature among the Romans retained in their families a domestic whose sole business was to read to them. M.
+
+It was a doctrine maintained by the Stoics that all crimes are equal. M.
+
+About $400.
+
+About $600.
+
+About $93.
+
+Hom. Il. lib. ix. v. 319.
+
+Those of Nero and Domitian. M.
+
+When Nerva and Trajan received the empire. M.
+
+A slave could acquire no property, and consequently was incapable by law of making a will. M.
+
+Now called Amelia, a town in Ombria. M.
+
+Now Laghetto di Bassano. M.
+
+A province in Anatolia, or Asia Minor. M.
+
+The performers at these games were divided into companies, distinguished by the particular colour of their habits; the principal of which were the white, the red, the blue, and the green. Accordingly the spectators favoured one or the other colour, as humour and caprice inclined them. In the reign of Justinian a tumult arose in Constantinople, occasioned merely by a contention among the partisans of these several colours, wherein no less than 30,000 men lost their lives. M.
+
+Now called Castello di Baia, in Terra di Lavoro. It was the place the Romans chose for their winter retreat; and which they frequented upon account of its warm baths. Some few ruins of the beautiful villas that once covered this delightful coast still remain; and nothing can give one a higher idea of the prodigious expense and magnificence of the Romans in their private buildings than the manner in which some of these were situated. It appears from this letter, as well as from several other passages in the classic writers, that they actually projected into the sea, being erected upon vast piles sunk for that purpose.
+
+The buskin was a kind of high shoe worn upon the stage by the actors of tragedy, in order to give them a more heroical elevation of stature; as the sock was something between a shoe and stocking, it was appropriated to the comic players. M.
+
+Lyons.
+
+He was accused of treason, under pretence that in a dramatic piece which he composed he had, in the characters of Paris and Oenone, reflected upon Domitian for divorcing his wife Domitia. Suet. in Vit. Domit. c. 10. M.
+
+Helvidius.
+
+Upon the accession of Nerva to the empire, after the death of Domitian. M.
+
+Our author’s first wife; of whom we have no particular account. After her death, he married his favourite Calpurnia. M.
+
+It is very remarkable that, when any senator was asked his opinion in the house, he had the privilege of speaking as long as he pleased upon any other affair before he came to the point in question. Aul. Gell. lib. iv. c. 10. M.
+
+Aeneid, lib. vi. v. 105.
+
+Arria and Fannia.
+
+The appellation by which the senate was addressed. M.
+
+The tribunes were magistrates chosen at first out of the body of the commons, for the defence of their liberties, and to interpose in all grievances offered by their superiors. Their authority extended even to the deliberations of the senate. M.
+
+Diomed’s speech to Nestor, advising him to retire from the field of battle. Iliad, viii. 102. Pope. M.
+
+Nerva.
+
+Domitian; by whom he had been appointed consul elect, though he had not yet entered upon that office. M.
+
+These persons were introduced at most of the tables of the great, for the purposes of mirth and gaiety, and constituted an essential part in all polite entertainments among the Romans. It is surprising how soon this great people fell off from their original severity of manners, and were tainted with the stale refinements of foreign luxury. Livy dates the rise of this and other unmanly delicacies from the conquest of Scipio Asiaticus over Antiochus; that is, when the Roman name had scarce subsisted above a hundred and threescore years. “Luxuriae peregrinae origio,” says he, “exercitu Asiatico in urbem invecta est.” This triumphant army caught, it seems, the contagious softness of the people it subdued; and, on its return to Rome, spread an infection among their countrymen, which worked by slow degrees, till it effected their total destruction. Thus did Eastern luxury revenge itself on Roman arms. It may be wondered that Pliny should keep his own temper, and check the indignation of his friends at a scene which was fit only for the dissolute revels of the infamous Trimalchio. But it will not, perhaps, be doing justice to our author to take an estimate of his real sentiments upon this point from the letter before us. Genitor, it seems, was a man of strict, but rather of too austere morals for the free turn of the age: “emendatus et gravis: paulo etiam horridior et durior ut in hac licentia temporum” (Ep. iii. l. 3). But as there is a certain seasonable accommodation to the manners of the times, not only extremely consistent with, but highly conducive to, the interests of virtue, Pliny, probably, may affect a greater latitude than he in general approved, in order to draw off his friend from that stiffness and unyielding disposition which might prejudice those of a gayer turn against him, and consequently lessen the beneficial influence of his virtues upon the world. M.
+
+See letter CIII.
+
+Iliad, xxi. 387. Pope. M.
+
+Iliad, v. 356, speaking of Mars. M.
+
+Iliad, iv. 452. Pope.
+
+The design of Pliny in this letter is to justify the figurative expressions he had employed, probably, in some oration, by instances of the same warmth of colouring from those great masters of eloquence, Demosthenes and his rival Aeschines. But the force of the passages which he produces from these orators must necessarily be greatly weakened to a mere modern reader, some of them being only hinted at, as generally well known; and the metaphors in several of the others have either lost much of their original spirit and boldness, by being introduced and received in common language, or cannot, perhaps, be preserved in an English translation. M.
+
+See 1st Philippic.
+
+See Demosthenes’ speech in defence of Cteisphon.
+
+See 2nd Olynthiac.
+
+See Aeschines’ speech against Ctesiphon.
+
+It was a religious ceremony practised by the ancients to pour precious ointments upon the statues of their gods: Avitus, it is probable, imagined this dolphin was some sea-divinity, and therefore expressed his veneration of him by the solemnity of a sacred unction. M.
+
+The overflowing humanity of Pliny’s temper breaks out upon all occasions, but he discovers it in nothing more strongly than by the impression which this little story appears to have made upon him. True benevolence, indeed, extends itself through the whole compass of existence, and sympathises with the distress of every creature of sensation. Little minds may be apt to consider a compassion of this inferior kind as an instance of weakness; but it is undoubtedly the evidence of a noble nature. Homer thought it not unbecoming the character even of a hero to melt into tears at a distress of this sort, and has given us a most amiable and affecting picture of Ulysses weeping over his faithful dog Argus, when he expires at his feet:
+
+By the regimen which Pliny here follows, one would imagine, if he had not told us who were his physicians, that the celebrated Celsus was in the number. That author expressly recommends reading aloud, and afterwards walking, as beneficial in disorders of the stomach: “Si quis stomacho laborat, legere clare debet; post lectionem ambulare,” &c. Celsi Medic. l. i. c. 8. M.
+
+The greater part of the following letters were written by Pliny during his administration in the province of Bithynia. They are of a style and character extremely different from those in the preceding collection; whence some critics have injudiciously inferred that they are the production of another hand: not considering that the occasion necessarily required a different manner. In letters of business, as these chiefly are, turn and sentiment would be foreign and impertinent; politeness and elegance of expression being the essentials that constitute perfection in this kind: and in that view, though they may be less entertaining, they have not less merit than the former. But besides their particular excellence as letters, they have a farther recommendation as so many valuable pieces of history, by throwing a strong light upon the character of one of the most amiable and glorious princes in the Roman annals. Trajan appears throughout in the most striking attitude that majesty can be placed in; in the exertion of power to the godlike purposes of justice and benevolence: and what one of the ancient historians has said of him is here clearly verified, that “he rather chose to be loved than flattered by his people.” To have been distinguished by the favour and friendship of a monarch of so exalted a character is an honour that reflects the brightest lustre upon our author; as to have been served and celebrated by a courtier of Pliny’s genius and virtues is the noblest monument of glory that could have been raised to Trajan. M.
+
+Nerva, who succeeded Domitian, reigned but sixteen months and a few days. Before his death he not only adopted Trajan, and named him for his successor, but actually admitted him into a share of the government; giving him the titles of Caesar, Germanicus, and Imperator. Vid. Plin. Paneg. M.
+
+One of the four governments of Lower Egypt. M.
+
+The extensive power of paternal authority was (as has been observed in the notes above) peculiar to the Romans. But after Chrysippus was made a denizen of Rome, he was not, it would seem, consequentially entitled to that privilege over those children which were born before his denization. On the other hand, if it was expressly granted him, his children could not preserve their right of patronage over their own freedmen, because that right would of course devolve to their father, by means of this acquired dominion over them. The denization therefore of his children is as expressly solicited as his own. But both parties becoming quirites, the children by this creation, and not pleading in right of their father, would be patres fam. To prevent which the clause is added, “ita ut sint in patris potestate:” as there is another to save to them their rights of patronage over their freedmen, though they were reduced in patriam potestatem. M.
+
+Pliny enjoyed the office of treasurer in conjunction with Cornutus Tertullus. It was the custom at Rome for those who had colleagues to administer the duties of their posts by monthly turns. Buchner. M.
+
+About $16,000; the annual income of Pliny’s estate in Tuscany. He mentions another near Comum in Milan, the yearly value of which does not appear. We find him likewise meditating the purchase of an estate, for which he was to give about $117,000 of our money; but whether he ever completed that purchase is uncertain. This, however, we are sure of, that his fortunes were but moderate, considering his high station and necessary expenses: and yet, by the advantage of a judicious economy, we have seen him, in the course of these letters, exercising a liberality of which afterages have furnished no parallel. M.
+
+The senators were not allowed to go from Rome into the provinces without having first obtained leave of the emperor. Sicily, however, had the privilege to be excepted out of that law; as Gallia Narbonensis afterwards was, by Claudius Caesar. Tacit. Ann. xii. c. 23. M.
+
+One of the seven priests who presided over the feasts appointed in honour of Jupiter and the other gods, an office, as appears, of high dignity, since Pliny ranks it with the augurship.
+
+Bithynia, a province in Anatolia, or Asia Minor, of which Pliny was appointed governor by Trajan, in the sixth year of his reign, ad 103, not as an ordinary proconsul, but as that emperor’s own lieutenant, with powers extraordinary. (See Dio.) The following letters were written during his administration of that province. M.
+
+A north wind in the Grecian seas, which rises yearly some time in July, and continues to the end of August; though others extend it to the middle of September. They blow only in the day-time. Varenius’s Geogr. v. i. p. 513. M.
+
+The inhabitants of Prusa (Brusa), a principal city of Bithynia.
+
+In the sixth year of Trajan’s reign, ad 103, and the 41st of our author’s age: he continued in this province about eighteen months. Vid. Mass. in Vit. Plin. 129. M.
+
+Among other noble works which this glorious emperor executed, the forum or square which went by his name seems to have been the most magnificent. It was built with the foreign spoils he had taken in war. The covering of this edifice was all brass, the porticoes exceedingly beautiful and magnificent, with pillars of more than ordinary height and dimensions. In the centre of this forum was erected the famous pillar which has been already described.
+
+It is probable the victory here alluded to was that famous one which Trajan gained over the Dacians; some account of which has been given in the notes above. It is certain, at least, Pliny lived to see his wish accomplished, this emperor having carried the Roman splendour to its highest pitch, and extended the dominions of the empire farther than any of his predecessors; as after his death it began to decline. M.
+
+The capital of Bithynia; its modern name is Izmid.
+
+The town of Panticapoeum, also called Bosporus, standing on the European side of the Cimmerian Bosporus (Straits of Kaffa), in the modern Crimea.
+
+Nicea (as appears by the 15th letter of this book), a city in Bithynia, now called Isnik. M.
+
+Sarmatia was divided into European, Asiatic, and German Sarmatia. It is not exactly known what bounds the ancients gave to this extensive region; however, in general, it comprehended the northern part of Russia, and the greater part of Poland, &c. M.
+
+The first invention of public couriers is ascribed to Cyrus, who, in order to receive the earliest intelligence from the governors of the several provinces, erected post-houses throughout the kingdom of Persia, at equal distances, which supplied men and horses to forward the public despatches. Augustus was the first who introduced this most useful institution among the Romans, by employing post-chaises, disposed at convenient distances, for the purpose of political intelligence. The magistrates of every city were obliged to furnish horses for these messengers, upon producing a diploma, or a kind of warrant, either from the emperor himself or from those who had that authority under him. Sometimes, though upon very extraordinary occasions, persons who travelled upon their private affairs, were allowed the use of these post-chaises. It is surprising they were not sooner used for the purposes of commerce and private communication. Louis XI. first established them in France, in the year 1474; but it was not till the 12th of Car. II. that the post-office was settled in England by Act of Parliament. M.
+
+Particular temples, altars, and statues were allowed among the Romans as places of privilege and sanctuary to slaves, debtors, and malefactors. This custom was introduced by Romulus, who borrowed it probably from the Greeks; but during the free state of Rome, few of these asylums were permitted. This custom prevailed most under the emperors, till it grew so scandalous that the Emperor Pius found it necessary to restrain those privileged places by an edict. See Lipsii Excurs. ad Taciti Ann. iii. c. 36. M.
+
+General under Decebalus, king of the Dacians. M.
+
+A province in Dacia, comprehending the southern parts of Servia and part of Bulgaria. M.
+
+The second expedition of Trajan against Decebalus was undertaken the same year that Pliny went governor into this province; the reason therefore why Pliny sent this Callidromus to the emperor seems to be that some use might possibly be made of him in favour of that design. M.
+
+Receiver of the finances. M.
+
+The coast round the Black Sea.
+
+The text calls him primipilarem, that is, one who had been primipilus, an officer in the army, whose post was both highly honourable and profitable; among other parts of his office he had the care of the eagle, or chief standard of the legion. M.
+
+Slaves who were purchased by the public. M.
+
+The most probable conjecture (for it is a point of a good deal of obscurity) concerning the beneficiarii seems to be that they were a certain number of soldiers exempted from the usual duty of their office, in order to be employed as a sort of body-guards to the general. These were probably foot; as the equites here mentioned were perhaps of the same nature, only that they served on horseback. Equites singulares Caesaris Augusti, &c., are frequently met with upon ancient inscriptions, and are generally supposed to mean the body-guards of the emperor. M.
+
+A province in Asia Minor, bounded by the Black Sea on the north. Bithynia on the west, Pontus on the east, and Phrygia on the south.
+
+The Roman policy excluded slaves from entering into military service, and it was death if they did so. However, upon cases of great necessity, this maxim was dispensed with; but then they were first made free before they were received into the army, excepting only (as Servius in his notes upon Virgil) observes after the fatal battle of Cannae; when the public distress was so great that the Romans recruited their army with their slaves, though they had not time to give them their freedom. One reason, perhaps, of this policy might be that they did not think it safe to arm so considerable a body of men, whose numbers, in the times when the Roman luxury was at its highest, we may have some idea of by the instance which Pliny the naturalist mentions of Claudius Isodorus, who at the time of his death was possessed of no less than 4,116 slaves, notwithstanding he had lost great numbers in the civil wars. Plin. Hist. Nat. xxxiii. 10. M.
+
+A punishment among the Romans, usually inflicted upon slaves, by which they were to engage with wild beasts, or perform the part of gladiators, in the public shows. M.
+
+It has been generally imagined that the ancients had not the art of raising water by engines; but this passage seems to favour the contrary opinion. The word in the original is sipho, which Hesychius explains (as one of the commentators observes) “instrumentum ad jaculandas aquas adversus incendia;” “an instrument to throw up water against fires.” But there is a passage in Seneca which seems to put this matter beyond conjecture, though none of the critics upon this place have taken notice of it: “Solemus,” says he, “duabus manibus inter se junctis aquam concipere, et compressa utrinque palma in modum siphonis exprimere” (Q. N. 1. ii. 16); where we plainly see the use of this sipho was to throw up water, and consequently the Romans were acquainted with that art. The account which Pliny gives of his fountains at Tuscum is likewise another evident proof. M.
+
+This was an anniversary custom observed throughout the empire on the 30th of December. M.
+
+About $132,000.
+
+About $80,000.
+
+About $400,000. To those who are not acquainted with the immense riches of the ancients, it may seem incredible that a city, and not the capital one either, of a conquered province should expend so large a sum of money upon only the shell (as it appears to be) of a theatre: but Asia was esteemed the most considerable part of the world for wealth; its fertility and exportations (as Tully observes) exceeding that of all other countries. M.
+
+The word cavea, in the original, comprehends more than what we call the pit in our theatres, as it means the whole space in which the spectators sat. These theatres being open at the top, the galleries here mentioned were for the convenience of retiring in bad weather. M.
+
+A place in which the athletic exercises were performed, and where the philosophers also used to read their lectures. M.
+
+The Roman foot consisted of 11.7 inches of our standard. M.
+
+A colony in the district of Cataonia, in Cappadocia.
+
+The honorary senators, that is, such who were not received into the council of the city by election, but by the appointment of the emperor, paid a certain sum of money upon their admission into the senate. M.
+
+“Graeculi. Even under the empire, with its relaxed morality and luxurious tone, the Romans continued to apply this contemptuous designation to a people to whom they owed what taste for art and culture they possessed.” Church and Brodribb.
+
+A Roman cubit is equal to 1 foot 5.406 inches of our measure. Arbuthnot’s Tab. M.
+
+About $480.
+
+About $120.
+
+A diploma is properly a grant of certain privileges either to particular places or persons. It signifies also grants of other kinds; and it sometimes means post-warrants, as, perhaps, it does in this place. M.
+
+A city in Bithynia. M.
+
+Cybele, Rhea, or Ops, as she is otherwise called; from whom, according to the pagan creed, the rest of the gods are supposed to have descended. M.
+
+Whatever was legally consecrated was ever afterwards unapplicable to profane uses. M.
+
+That is, a city not admitted to enjoy the laws and privileges of Rome. M.
+
+The reason why they did not choose to borrow of the public at the same rate of interest which they paid to private persons was (as one of the commentators observes) because in the former instance they were obliged to give security, whereas in the latter they could raise money upon their personal credit. M.
+
+These, in the original institution as settled by Augustus, were only commanders of his body-guards; but in the later times of the Roman empire they were next in authority under the emperor, to whom they seem to have acted as a sort of prime ministers. M.
+
+The provinces were divided into a kind of circuits called conventus, whither the proconsuls used to go in order to administer justice. The judges here mentioned must not be understood to mean the same sort of judicial officers as with us; they rather answered to our juries. M.
+
+By the imperial constitutions the philosophers were exempted from all public functions. Catanaeus. M.
+
+About $24,000.
+
+Geographers are not agreed where to place this city; Cellarius conjectures it may possibly be the same with Prusa ad Olympum, Prusa at the foot of Mount Olympus in Mysia.
+
+Domitian.
+
+That is, whether they should be considered in a state of freedom or slavery. M.
+
+“Parents throughout the entire ancient world had the right to expose their children and leave them to their fate. Hence would sometimes arise the question whether such a child, if found and brought up by another, was entitled to his freedom, whether also the person thus adopting him must grant him his freedom without repayment for the cost of maintenance.” Church and Brodribb.
+
+“This decision of Trajan, the effect of which would be that persons would be slow to adopt an abandoned child which, when brought up, its unnatural parents could claim back without any compensation for its nurture, seems harsh, and we find that it was disregarded by the later emperors in their legal decisions on the subject.” Church and Brodribb.
+
+And consequently by the Roman laws unapplicable to any other purpose. M.
+
+The Roman provinces in the times of the emperors were of two sorts: those which were distinguished by the name of the provinciae Caesaris and the provinciae senatus. The provinciae Caesaris, or imperial provinces, were such as the emperor, for reasons of policy, reserved to his own immediate administration, or of those whom he thought proper to appoint: the provinciae senatus, or proconsular provinces, were such as he left to the government of proconsuls or praetors, chosen in the ordinary method of election. (Vid. Suet. in Aug. c. 47.) Of the former kind was Bithynia, at the time when our author presided there. (Vid. Masson. Vit. Plin. p. 133.) M.
+
+A province in Asia, bordering upon the Black Sea, and by some ancient geographers considered as one province with Bithynia. M.
+
+About $2,000. M.
+
+Cities of Pontus near the Euxine or Black Sea. M.
+
+Gordium, the old capital of Phrygia. It afterwards, in the reign of the Emperor Augustus, received the name of Juliopolis. (See Smith’s Classical Dict.)
+
+Pompey the Great having subdued Mithridates, and by that means greatly enlarged the Roman empire, passed several laws relating to the newly conquered provinces, and, among others, that which is here mentioned. M.
+
+The right of electing senators did not originally belong to the censors, who were only, as Cicero somewhere calls them, guardians of the discipline and manners of the city; but in process of time they engrossed the whole privilege of conferring that honour. M.
+
+This, probably, was some act whereby the city was to ratify and confirm the proceedings of Dion under the commission assigned to him.
+
+It was a notion which generally prevailed with the ancients, in the Jewish as well as heathen world, that there was a pollution in the contact of dead bodies, and this they extended to the very house in which the corpse lay, and even to the uncovered vessels that stood in the same room. (Vid. Pot. Antiq. v. ii. 181.) From some such opinion as this it is probable that the circumstance here mentioned, of placing Trajan’s statue where these bodies were deposited, was esteemed as a mark of disrespect to his person.
+
+A thriving Greek colony in the territory of Sinopis, on the Euxine.
+
+A colony of Athenians in the province of Pontus. Their town, Amisus, on the coast, was one of the residences of Mithridates.
+
+Casaubon, in his observations upon Theophrastus (as cited by one of the commentators) informs us that there were at Athens and other cities of Greece certain fraternities which paid into a common chest a monthly contribution towards the support of such of their members who had fallen into misfortunes; upon condition that, if ever they arrived to more prosperous circumstances, they should repay into the general fund the money so advanced. M.
+
+By the law for encouragement of matrimony (some account of which has already been given in the notes above), as a penalty upon those who lived bachelors, they were declared incapable of inheriting any legacy by will; so likewise, if being married, they had no children, they could not claim the full advantage of benefactions of that kind.
+
+This letter is esteemed as almost the only genuine monument of ecclesiastical antiquity relating to the times immediately succeeding the Apostles, it being written at most not above forty years after the death of St. Paul. It was preserved by the Christians themselves as a clear and unsuspicious evidence of the purity of their doctrines, and is frequently appealed to by the early writers of the Church against the calumnies of their adversaries. M.
+
+It was one of the privileges of a Roman citizen, secured by the Sempronian law, that he could not be capitally convicted but by the suffrage of the people; which seems to have been still so far in force as to make it necessary to send the persons here mentioned to Rome. M.
+
+These women, it is supposed, exercised the same office as Phoebe mentioned by St. Paul, whom he styles deaconess of the church of Cenchrea. Their business was to tend the poor and sick, and other charitable offices; as also to assist at the ceremony of female baptism, for the more decent performance of that rite: as Vossius observes upon this passage. M.
+
+If we impartially examine this prosecution of the Christians, we shall find it to have been grounded on the ancient constitution of the state, and not to have proceeded from a cruel or arbitrary temper in Trajan. The Roman legislature appears to have been early jealous of any innovation in point of public worship; and we find the magistrates, during the old republic, frequently interposing in cases of that nature. Valerius Maximus has collected some instances to that purpose (L. i. c. 3), and Livy mentions it as an established principle of the earlier ages of the commonwealth, to guard against the introduction of foreign ceremonies of religion. It was an old and fixed maxim likewise of the Roman government not to suffer any unlicensed assemblies of the people. From hence it seems evident that the Christians had rendered themselves obnoxious not so much to Trajan as to the ancient and settled laws of the state, by introducing a foreign worship, and assembling themselves without authority. M.
+
+On the coast of Paphlagonia.
+
+By the Papian law, which passed in the consulship of M. Papius Mutilus and Q. Poppeas Secundus, u. c. 761, if a freedman died worth a hundred thousand sesterces (or about $4,000 of our money), leaving only one child, his patron (that is, the master from whom he received his liberty) was entitled to half his estate; if he left two children, to one-third; but if more than two, then the patron was absolutely excluded. This was afterwards altered by Justinian, Inst. l. iii. tit. 8. M.
+
+About $7,000.
+
+About $175.
+
+About $350.
+
+The denarius=17 cents. The sum total, then, distributed among one thousand persons at the rate of, say, two denarii a piece would amount to about $350.
+
+These games are called Iselastic from the Greek word εἰσελαυνω, invehor, because the victors, drawn by white horses, and wearing crowns on their heads, were conducted with great pomp into their respective cities, which they entered through a breach in the walls made for that purpose; intimating, as Plutarch observes, that a city which produced such able and victorious citizens, had little occasion for the defence of walls (Catanaeus). They received also annually a certain honourable stipend from the public. M.

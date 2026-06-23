@@ -1,0 +1,35 @@
+---
+work_id: "7e37be8d-c488-5b58-af81-18f80f17d042"
+work_slug: "karl-kautsky-the-class-struggle-erfurt-progra-7e37be"
+work_title: The Class Struggle (Erfurt Program)
+author_name: Karl Kautsky
+chapter_number: 9
+chapter_title: 2. Division of Labor and Competition
+chapter_slug: "09-2-division-of-labor-and-competition"
+variant_id: "2652cfe6-2ead-55c3-b29a-b01ada1ee61a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 881
+source_url: "https://www.marxists.org/archive/kautsky/1892/erfurt/ch03.htm"
+translator: William E. Bohn
+---
+
+While, on the one hand, the industrial development draws commerce and credit in ever close, relation with industry, it brings about, on the other hand, an increased division of labor; the various functions which the capitalist has to fulfill in the industrial life, divide more and more and fall to the part of separate undertakings ana institutions. Formerly, it was the merchant’s function not only to buy and sell goods, but to store them, and often to carry them to far distant markets. He had to assort his goods, display them, and render them accessible to the individual purchaser. Today there is a division of labor not between wholesale and retail trade only; we find also large undertakings for the transportation and the storing of goods. In those large central markets called exchanges, buying and selling have to such an extent become separate pursuits and freed themselves from the other functions commonly pertaining to the merchant, that not only are goods located in distant regions, or even not yet produced, bought and sold there, but that goods are bought without the purchaser intending to take possession of them, and others are sold without the seller ever having had them in his possession.
+
+In former days a capitalist could not be conceived without the thought of a large safe into which money was collected and out of which he took the funds which he needed to make payments. Today the treasury of the capitalist has become the subject of a separate occupation in all industrially advanced countries, especially England and America. The bank has sprung up. Payments are no longer made to a capitalist, but to his bank, and from his bank, not from him, are his debts collected. And so it happens that a few central concerns perform today the functions of treasury for the whole capitalist class of the country.
+
+But although the several functions of the capitalist thus become the functions of separate undertakings, they do not become independent of each other except in appearance and legal form; economically, they remain as closely bound to and dependent upon each other as ever. The functions of any of these undertakings could not continue if those of any of the others with which they are connected were to be interrupted.
+
+The more commerce, credit and industry become interdependent and the more the separate functions of the capitalist class are assumed by separate undertakings, the greater is the dependence of one capitalist upon another. Capitalist production becomes, accordingly, more and more a gigantic body, whose various limbs are in the closest relation to each other. Thus, while the masses of the people become ever more dependent upon the capitalists, the capitalists themselves become ever more dependent upon one another.
+
+The economic machinery of the modern system of production constitutes a more and more delicate and complicated mechanism; its uninterrupted operation depends constantly more upon whether each of its wheels fits in with the others and does the work expected of it. Never yet did any system of production stand in such need of careful direction as does the present one. But the institution of private property makes it impossible to introduce plan and order into this system.
+
+While the several industries become, in point of fact, more and more dependent upon one another, in point of law, they remain wholly independent. The means of production in every single industry are private property; their owner can do with them as he pleases.
+
+The farther large production develops, the larger every single industry becomes, the better is the order to which the economic activity of each is reduced, and the more accurate and well considered is the plan upon which each is carried on, down to the smallest details. The joint operation of the various industries is, however, left to the blind force of free competition. It is at the expense of a prodigious waste of power and of materials and under stress of constantly increasing economic crises that free competition keeps the industrial mechanism in motion. The process goes on, not by putting every one in his place, but by crushing everyone who stands in the way. This is what is called “the survival of the fittest in the struggle for existence.” The fact is, however, that competition crushes, not so much the truly unfit, as those who happen to stand in the wrong place, and who lack either the special qualifications or, what is more important, the capital to survive. But competition is no longer satisfied with crushing those who are unequal to the “struggle for existence.” The destruction of every one of these draws in its wake the ruin of numberless others who were economically connected with the bankrupt concern – wage-earners, creditors, etc.
+
+“Every man is the architect of his own fortune.” So runs a favorite proverb. This proverb is an heirloom from the days of small production, when the fate of every single bread-winner, at most that of his family also, depended upon his own personal qualities. Today the fate of every member of a capitalist community depends less and less upon his own individuality, and more and more upon a thousand circumstances that are wholly beyond his control. Competition no longer brings about the survival of the fittest.

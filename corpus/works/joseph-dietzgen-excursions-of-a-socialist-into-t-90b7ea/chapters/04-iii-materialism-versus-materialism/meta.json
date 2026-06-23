@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-excursions-of-a-socialist-into-t-90b7ea",
+  "work_title": "Excursions of a Socialist into the Domain of Epistemology",
+  "chapter_number": 4,
+  "chapter_title": "III. Materialism versus Materialism",
+  "chapter_slug": "04-iii-materialism-versus-materialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "36ca95ee-5d8a-5681-8829-aff273395fa7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6632,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1887/epistemology.htm"
+    }
+  ]
+}

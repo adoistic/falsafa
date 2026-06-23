@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 20,
+  "chapter_title": "Epitome of the whole Commonwealth.",
+  "chapter_slug": "20-epitome-of-the-whole-commonwealth",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "91c4a939-6f60-59ea-b3e7-2b73119ef1ba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3023,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

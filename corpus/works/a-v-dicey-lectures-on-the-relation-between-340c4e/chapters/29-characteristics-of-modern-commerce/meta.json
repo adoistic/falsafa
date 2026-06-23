@@ -1,0 +1,26 @@
+{
+  "work_slug": "a-v-dicey-lectures-on-the-relation-between-340c4e",
+  "work_title": "Lectures on the Relation between Law and Public Opinion in England",
+  "chapter_number": 29,
+  "chapter_title": "Characteristics of Modern Commerce",
+  "chapter_slug": "29-characteristics-of-modern-commerce",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ec0e7eb-4716-5dcc-9d2a-c2005dcb8741",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 751,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919"
+    }
+  ]
+}

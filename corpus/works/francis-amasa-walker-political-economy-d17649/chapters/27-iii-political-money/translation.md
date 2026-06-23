@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2189
+word_count: 2181
 source_url: "https://oll.libertyfund.org/titles/walker-political-economy"
 translator: Online Library of Liberty edition
 ---
@@ -38,7 +38,7 @@ We have already (par. 220) shown that the smallest degree of depreciation, even,
 
 442. Two Motives Operating to Produce Expansion.—This liability arises from the fact that, where the principle of inconvertible paper has once been adopted, two powerful motives tend to produce expansion, with no adequate restraining force in operation. When once the traditional fear of paper money is worn off, the only safeguard against over-issue is found in far-reaching, conscientious, disinterested and courageous statesmanship. All the selfish interests that make themselves felt, all the passions of the hour and the appetites that clamor for indulgence, favor expansion. There is an unremitting pressure on that side, which now and then rises to furious impulses against the frail barrier that withstands inflation.
 
-How far is it wise for any moderate advantage to call into being forces which are only to be kept from becoming in the Edition: current; Page: [354] highest degree destructive by being constantly watched and unremittingly opposed? Is it good policy—is it consistent with ordinary common sense—to invoke, for the accomplishment of a definite and at the best not considerable good, agencies respecting which it is confessed that the least relaxation of vigilance, a momentary indulgence of human weakness, one false motion, will lead to serious, perhaps irreparable disaster?
+How far is it wise for any moderate advantage to call into being forces which are only to be kept from becoming in the highest degree destructive by being constantly watched and unremittingly opposed? Is it good policy—is it consistent with ordinary common sense—to invoke, for the accomplishment of a definite and at the best not considerable good, agencies respecting which it is confessed that the least relaxation of vigilance, a momentary indulgence of human weakness, one false motion, will lead to serious, perhaps irreparable disaster?
 
 443. Time no Safeguard.—Nor does the liability to over-issue diminish with the lapse of time. Moderation in the issue of government paper money does not form a political habit which becomes a security against abuse. On the contrary, the longer the régime of inconvertible paper money lasts, the greater the danger. The popular mind becomes accustomed to the sight and the thought of it; the fear of it is worn off; a generation comes upon the stage that has not known metallic money, or bank money convertible into coin on demand.
 
@@ -64,7 +64,7 @@ The same feature appeared early in the history of the French Revolutionary paper
 
 Paying debts is always a disagreeable necessity. For one man who would steal to acquire property, in the first instance, a score will do that which is no better than stealing, in order to retain property which has passed into their hands and which they have come to look upon as theirs, though not paid for.
 
-It is the view of not a few sound economists that a gradually Edition: current; Page: [357] progressive depreciation of metallic money, from age to age, might be advantageous to society as a whole, both relieving industry in some measure from the weight of burdens derived from the past, and giving a certain fillip to industrial enterprise.
+It is the view of not a few sound economists that a gradually progressive depreciation of metallic money, from age to age, might be advantageous to society as a whole, both relieving industry in some measure from the weight of burdens derived from the past, and giving a certain fillip to industrial enterprise.
 
 But here the injury to the creditor class is not the work of man, but of God; like the death of a miserly bad man which brings his wealth into the hands of a generous, philanthropic, public-spirited heir, at which change of ownership men may properly rejoice. But had the heir procured the death of the miser, the aspect of the case would have been entirely different. No plea of public spirit or benevolence in the disposition of the wealth could compensate society for that deep and damning wrong.
 

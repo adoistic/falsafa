@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-commentary-and-review-of-monte-8f12bf",
+  "work_title": "A Commentary and Review of Montesquieu's Spirit of Laws",
+  "chapter_number": 40,
+  "chapter_title": "Chap. XVI.... Matters to be observed in composing laws.",
+  "chapter_slug": "40-chap-xvi-matters-to-be-observed-in-composing-laws",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "553d502d-71bd-5a41-b8eb-a770d9a724ac",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 400,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws"
+    }
+  ]
+}

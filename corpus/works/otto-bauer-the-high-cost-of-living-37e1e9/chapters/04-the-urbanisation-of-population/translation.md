@@ -1,0 +1,39 @@
+---
+work_id: "37e1e9ae-a083-5830-bfb6-a725cb7da808"
+work_slug: "otto-bauer-the-high-cost-of-living-37e1e9"
+work_title: The High Cost of Living
+author_name: Otto Bauer
+chapter_number: 4
+chapter_title: The Urbanisation of Population
+chapter_slug: "04-the-urbanisation-of-population"
+variant_id: "6e32e25c-ef95-53e1-bb7b-bbc5d5cfe96b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 757
+source_url: "https://www.marxists.org/archive/bauer/1914/08/costliving.html"
+translator: Marxists Internet Archive edition
+---
+
+The rapid growth of industry in the last two decades has accelerated the concentration of population in the big cities and industrial centres.
+
+Germany had in 1895, 28 cities with more than 100,000 inhabitants and with a total population of 7,261,000 people; in 1910 it already had 48 big cities with 13,823,348 inhabitants. Still more rapid has been the growth of the American cities. The United States has already 50 cities with more than 100,000 inhabitants. The ‘urbanisation’ of the masses of people in these last twenty years, has taken place very rapidly. Never were the complaints about the lack of labour forces in the country or of flats in the cities, louder than during the last two decades.
+
+The concentrations of population and the rapid growth of cities, cause an increase in house, store and workshop rents and growth in the price of real-estate.
+
+The increase of rents for accommodation is part of cost of living, which affects the workers most deeply. The increase in the rent of retail sites and workshops increases also the cost to craftsman and retailers in the cities. This cost increase causes a further increase in the price of goods. So private property in city land is not only the main reason for the high cost of house rents but also of goods in general.
+
+Every city receives a certain quantity of perishable goods, such as milk, vegetables, etc., arriving in first place from its immediate neighbourhood. However, the more the population of a city grows, the larger also must be the territory which supplies the city with such products. In small towns the needs of the people are easily supplied by a small circle of producers living in the immediate neighbourhood. These rural producers can in this case deliver their goods directly to the consumers, or at the most, through small retailers. But if this circle grows, then the trader slips himself between the rural producer and the urban consumer. The middleman buys the produces in the country and sells them on the municipal markets to the retailers. With the growth of the cities a middleman is no longer enough, and products go through the hands of a whole row of intermediaries, before the farm’s output reaches the consumer. With the enlargement of the area round the city, which supplies it with its perishable goods, the increase in both transport and distribution costs increases the prices of good. Moreover, commercial capital becomes lord of the city’s supply of necessities of life.
+
+Sometimes a small group of capitalists succeeds in becoming dominant and monopolising the livestock market and the supply of milk of a whole city. Nor is it a rare to see commercial capital achieving a predominant position in providing credit to the producer on the one hand, the middleman who buys the produces from the farmer, and lastly the small city retailer, thus making all of them dependent.
+
+Such things are especially noticeable in the city markets for livestock. In such cases agricultural products as well as cattle are resold in the city by the commercial capital at prices well above those the producers get.
+
+In the meantime the rapid development of agricultural cooperatives has brought about the elimination of middlemen. The retail associations of landowners replace commercial capital. The direct relation between agricultural producer and city consumer is reestablished through cooperatives. But the elimination of commercial capital through the cooperative of rural producers seldom brings a reduction in existing prices. As a rule the change resulting from the creation of agricultural cooperatives has the same aim as the industrial trusts: as soon as the agricultural cooperatives have conquered a monopolistic position in the city market, they impose their monopoly prices on the consumers.
+
+Such associations of agricultural producers have often increased the price of milk particularly in the big cities in the last twenty years.
+
+This crude differentiation between the city and the country is a result of capitalist development. The capitalist mode of production leaves it to the capitalists to locate production where they please, and to determine where workers shall gather. In this way it causes crowding in cities and depopulation of the land. The rapid growth of cities and of industrial areas causes the increases of price which appear to be inherent in development, and which in last instance originate from the same roots as the disproportion between industrial and agricultural production, that is to say, from the anarchy of the capitalist mode of production, the consequence of private property of the means of production.

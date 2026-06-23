@@ -1,0 +1,26 @@
+{
+  "work_slug": "theodore-dwight-woolsey-on-civil-liberty-and-self-govern-6f9899",
+  "work_title": "On Civil Liberty and Self-Government",
+  "chapter_number": 99,
+  "chapter_title": "chapter iii.: messages and proclamations addressed to the legislative body by the president of the republic.",
+  "chapter_slug": "99",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f17a2b01-1946-54be-8d96-79c646e5cab1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 773,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/woolsey-on-civil-liberty-and-self-government"
+    }
+  ]
+}

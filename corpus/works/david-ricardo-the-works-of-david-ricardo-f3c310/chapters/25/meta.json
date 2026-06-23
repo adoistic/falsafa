@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 25,
-  "chapter_title": "CHAPTER XV.: TAXES ON PROFITS.",
+  "chapter_title": "Chapter XVI.: Taxes on Wages.",
   "chapter_slug": "25",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3192,
-      "paragraph_count": 17,
+      "word_count": 8689,
+      "paragraph_count": 45,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

@@ -4,7 +4,7 @@ work_slug: "thomas-clarkson-an-essay-on-the-slavery-and-comm-60b084"
 work_title: An Essay on the Slavery and Commerce of the Human Species
 author_name: Thomas Clarkson
 chapter_number: 3
-chapter_title: THE PREFACE.
+chapter_title: The Preface.
 chapter_slug: "03-the-preface"
 variant_id: "ec18e073-4499-531e-b3e5-dc10d1a7a076"
 content_type: translation

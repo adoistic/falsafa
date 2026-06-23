@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-ethics-and-the-materialist-conce-c26920",
+  "work_title": "Ethics and the Materialist Conception of History",
+  "chapter_number": 10,
+  "chapter_title": "III. The Motives of Self Maintenance and Propagation",
+  "chapter_slug": "10-iii-the-motives-of-self-maintenance-and-propagatio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ca1fc2b-bfd5-52f0-8833-eed7054422ae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1045,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1906/ethics/ch04.htm"
+    }
+  ]
+}

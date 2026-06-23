@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 8
-chapter_title: "CHAPTER V: BUSINESS AND THE ECONOMIC NEXUS"
+chapter_title: "Chapter V: Business and the Economic Nexus"
 chapter_slug: 08
 variant_id: "65ebcd0a-ccca-5429-a384-2d44714a1f0c"
 content_type: translation

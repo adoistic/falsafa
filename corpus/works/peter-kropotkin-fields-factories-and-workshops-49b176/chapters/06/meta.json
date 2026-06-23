@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-fields-factories-and-workshops-49b176",
+  "work_title": "Fields, Factories, and Workshops",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 5 : The Possibilities of Agriculture (Continued)",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "753bd6ad-1ffd-5930-9be0-80387c798964",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9886,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/chapter-5.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-further-disillusionment-in-ru-a0c239",
+  "work_title": "My Further Disillusionment in Russia",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 8 - Traveling Salesmen of the Revolution",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb73cd6f-3222-57e6-9c66-b205d46afa54",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2739,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1924/disillusionment2/chapter8.html"
+    }
+  ]
+}

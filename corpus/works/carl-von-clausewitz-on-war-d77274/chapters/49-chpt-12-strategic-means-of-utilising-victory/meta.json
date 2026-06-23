@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 49,
+  "chapter_title": "Chpt. 12 Strategic Means of Utilising Victory",
+  "chapter_slug": "49-chpt-12-strategic-means-of-utilising-victory",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52e6b6a8-b801-5be9-a5da-e138dba0129b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4515,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book4/ch12.htm"
+    }
+  ]
+}

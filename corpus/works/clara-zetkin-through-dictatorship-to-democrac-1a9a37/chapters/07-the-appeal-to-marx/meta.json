@@ -1,0 +1,26 @@
+{
+  "work_slug": "clara-zetkin-through-dictatorship-to-democrac-1a9a37",
+  "work_title": "Through Dictatorship to Democracy",
+  "chapter_number": 7,
+  "chapter_title": "The Appeal to Marx",
+  "chapter_slug": "07-the-appeal-to-marx",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f087922b-46f8-5422-9e07-b80d5644973a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 402,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/zetkin/1919/xx/dictdem.htm"
+    }
+  ]
+}

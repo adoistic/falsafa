@@ -1,0 +1,67 @@
+---
+work_id: "3fcdf0e5-056b-5ffe-b34e-bf38e4e5a345"
+work_slug: "georgi-plekhanov-anarchism-and-socialism-3fcdf0"
+work_title: Anarchism and Socialism
+author_name: Georgi Plekhanov
+chapter_number: 6
+chapter_title: Chapter V. Bakounine
+chapter_slug: 06
+variant_id: "1c50c212-a00a-5398-934b-3240d30a89c1"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2117
+source_url: "https://www.marxists.org/archive/plekhanov/1895/anarch/ch05.htm"
+translator: Eleanor Marx Aveling
+---
+
+We have seen that in their criticism of the “political constitution,” the “fathers” of anarchy always based themselves on the Utopian point of view. Each one of them based his theories upon an abstract principle. Stirner upon that of the “Ego,” Proudhon upon that of the “Contract.” The reader has also seen that these two “fathers” were individualists of the first water.
+
+The influence of Proudhonian individualism was, for a time, very strong in the Romance countries (France, Belgium, Italy, Spain) and in the Slaav countries, especially Russia. The internal history of the International Working Men’s Association is the history of this struggle between Proudhonism and the modern Socialism of Marx. Not only men like Tolain, Chemalé or Murat, but men very superior to them, such as De Paepe, e.g., were nothing but more or less opinionated, more or less consistent “Mutualists.” But the more the working class movement developed, the more evident it became that “Mutualism” could not be its theoretical expression. At the International Congresses the Mutualists were forced by the logic of facts to vote for the Communist resolutions. This was the case, e.g., at Brussels in the discussion on landed property. Little by little the left wing of the Proudhonian army left the domain of Individualism to intrench itself upon that of “Collectivism.”
+
+The word “Collectivism” was used at this period in a sense altogether opposed to that which it now has in the mouths of the French Marxists, like Jules Guesde and his friends. The most prominent champion of “Collectivism” was at this time Michel Bakounine.
+
+In speaking of this we shall pass over in silence his propaganda in favor of the Hegelian philosophy, as far as he understood it, the part he played in the revolutionary movement of 1848, his Panslavist writings in the beginning of the sixties, and his pamphlet, Roumanow, Pougatchew or Pestel (London 1862), in which he proposed to go over to Alexander II., if the latter would become the “Tzar of the Moujiks.” Here we are exclusively concerned with his theory of Anarchist Collectivism.
+
+A member of the “League of Peace and Liberty,” Bakounine, at the Congress of this Association at Berne in 1869, called upon the League – an entirely bourgeois body – to declare in favor of “the economical and social equalization of classes and of individuals.” Other delegates, among whom was Chaudey, reproached him with advocating Communism. He indignantly protested against the accusation.
+
+“Because I demand the economic and social equalization of classes and individuals, because, with the Workers’ Congress of Brussels, I have declared myself in favor of collective property, I have been reproached with being a Communist. What difference, I have been asked, is there between Communism and Collectivism. I am really astounded that M. Chaudey does not understand this difference, he who is the testamentary executor of Proudhon! I detest Communism, because it is the negation of liberty, and I cannot conceive anything human without liberty. I am not a Communist, because Communism concentrates and causes all the forces of society to be absorbed by the State, because it necessarily ends in the centralization of property in the hands of the State, while I desire the abolition of the State – the radical extirpation of this principle of the authority and the tutelage of the State, which, under the pretext of moralizing and civilizing men, has until now enslaved, oppressed, exploited, and depraved them. I desire the organization of society and of collective or social property from below upwards, by means of free association and not from above downwards by means of some authority of some sort. Desiring the abolition of the State, I desire the abolition of property individually hereditary, which is nothing but an institution of the State. This is the sense, gentlemen, in which I am a Collectivist, and not at all a Communist.”
+
+In another speech at the same Congress Bakounine reiterates what he had already said of “Statist” Communism. “It is not we, gentlemen,” he said, “who systematically deny all authority and all tutelary powers, and who in the name of Liberty demand the very abolition of the ‘authoritarian’ principle of the State; it is not we who will recognize any sort of political and social organization whatever, that is not founded upon the most complete liberty of every one. ... But I am in favor of collective property, because I am convinced that so long as property, individually hereditary, exists, the equality of the first start, the realization of equality, economical and social, will be impossible.” This is not particularly lucid as a statement of principles. But it is sufficiently significant from the “biographical” point of view.
+
+We do not insist upon the ineptitude of the expression “the economic and social equalization of classes;” the General Council of the International dealt with that long ago. We would only remark that the above quotations show that Bakounine –
+
+1. Combats the State and “Communism” in the name of “the most complete liberty of everybody;”
+
+2. Combats property, “individually hereditary,” in the name of economic equality;
+
+3. Regards this property as “an institution of the State,” as a “consequence of the very principles of the State”;
+
+4. Has no objection to individual property, if it is not hereditary; has no objection to the right of inheritance, if it is not individual. In other words:
+
+1. Bakounine is quite at one with Proudhon so far as concerns the negation of the State and Communism;
+
+2. To this negation he adds another, that of property, individually hereditary;
+
+3. His programme is nothing but a total arrived at by the adding up of the two abstract principles – that of “liberty,” and that of “equality;” he applies these two principles, one after the other, and independently one of the other, in his criticism of the existing order of things, never asking himself whether the results of these two negations are reconcilable with one another.
+
+4. He understands, just as little as Proudhon, the origin of private property and the causal connection between its evolution and the development of political forms.
+
+5. He has no clear conception of the meaning of the words “individually hereditary.”
+
+If Proudhon was a Utopian, Bakounine was doubly so, for his programme was nothing but a Utopia of “Liberty,” reinforced by a Utopia of “Equality.” If Proudhon, at least to a very large extent, remained faithful to his principle of the contract, Bakounine, divided between liberty and equality, is obliged from the very outset of his argument constantly to throw over the former for the benefit of the latter, and the latter for the benefit of the former. If Proudhon is a Proudhonian “sans reproche,” Bakounine is a Proudhonian adulterated with “detestable” Communism, nay even by “Marxism.”
+
+In fact, Bakounine has no longer that immutable faith in the genius of the “master” Proudhon, which Tolain seems to have preserved intact. According to Bakounine “Proudhon, in spite of all his efforts to get a foothold upon the firm ground of reality, remained an idealist and metaphysician. His starting point is the abstract side of law; it is from this that he starts in order to arrive at economic facts, while Marx, on the contrary, has enunciated and proved the truth, demonstrated by the whole of the ancient and modern history of human societies, of peoples and of states, that economic facts preceded and precede the facts of political and civil law. The discovery and demonstration of this truth is one of the greatest merits of M. Marx.” In another of his writings he says, with entire conviction, “All the religions, and all the systems of morals that govern a given society are always the ideal expression of its real, material condition, that is, especially of its economic organization, but also of its political organization, the latter, indeed, being never anything but the juridical and violent consecration of the former.” And he again mentions Marx as the man to whom belongs the merit of having discovered and demonstrated this truth. One asks one’s self with astonishment how this same Bakounine could declare that private property was only a consequence of the principle of authority. The solution of the riddle lies in the fact that he did not understand the materialist conception of history; he was only “adulterated” by it.
+
+And here is a striking proof of this. In the Russian work, already quoted, Statism and Anarchy, he says that in the situation of the Russian people there are two elements which constitute the conditions necessary for the social (he means Socialist) revolution. “The Russian people can boast of excessive poverty, and unparalleled slavery. Their sufferings are innumerable, and they bear these, not with patience, but with a profound and passionate despair, that twice already in our history has manifested itself in terrible outbursts: in the revolt of Stephan Razine, and in that of Pougatschew.” And that is what Bakounine understood by the material conditions of a Socialist revolution! Is it necessary to point out that this “Marxism” is a little too “sui generis”?
+
+While combatting Mazzini from the standpoint of the materialist conception of history, Bakounine himself is so far from understanding the true import of this conception, that in the same work in which he refutes the Mazzinian theology, he speaks, like the thorough-faced Proudhonian that he is, of “absolute” human morality, and he bolsters up the idea of this morality – the morality of “solidarity,” – with such arguments as these:
+
+“Every actual being, so long as he exists, exists only by virtue of a principle which is inherent in himself, and which determines his particular nature; a principle that is not imposed upon him by a divine law-giver of any sort” (this is the “materialism” of our author!), “but is the protracted and constant result of combinations of natural causes and effects;that is not, according to the ludicrous idea of the idealists, shut up in him like a soul within its body, but is, in fact, only the inevitable and constant form of his real existence. The human, like all other species, has inherent principles quite special to itself, and all these principles are summed up in, or are reducible to, a single principle, which we call solidarity. This principle may be formulated thus: No human individual can recognize his own humanity, nor, therefore, realize it in his life except by recognizing it in others, and by helping to realize it for others. No mall can emancipate himself, except by emancipating with him all the men around him. My liberty is the liberty of everyone, for I am not truly free, free not only in thought but in deed, except when my liberty and my rights find their confirmation, their sanction, in the liberty and the rights of all men, my equals.”
+
+As a moral precept, solidarity, as interpreted by Bakounine, is a very excellent thing. But to set up this morality, which by the way is not at all “absolute,” as a principle “inherent” in humanity and determining human nature, is playing with words, and completely ignoring what materialism is. Humanity only exists “by virtue” of the principle of solidarity. This is coming it a little too strong. How about the “class war, and the cursed State, and property, “individually hereditary” – are these only manifestations of “solidarity,” inherent in humanity, determining its special nature, etc., etc.? If this is so, everything is all right, and Bakounine was wasting his time in dreaming of a “social” revolution. If this is not so, this proves that humanity may have existed “by virtue” of other principles than that of solidarity, and that this latter principle is by no means “inherent” in it. Indeed, Bakounine only enunciated his “absolute” principle in order to arrive at the conclusion that “no people could be completely free, free with solidarity, in the human sense of the word, if the whole of humanity is not free also.”
+
+This is an allusion to the tactics of the modern proletariat, and it is true in the sense that – as the rules of the International Workingmen’s Association put it – the emancipation of the workers is not a merely local or national problem, but, on the contrary, a problem concerning every civilized nation, its solution being necessarily dependent upon their theoretical and practical co-operation. It is easy enough to prove this truth by reference to the actual economic situation of civilized humanity. But nothing is less conclusive, here as elsewhere, than a “demonstration” founded upon a Utopian conception of “human nature.” The “solidarity” of Bakounine only proves that he remained an incorrigible Utopian, although he became acquainted with the historical theory of Marx.

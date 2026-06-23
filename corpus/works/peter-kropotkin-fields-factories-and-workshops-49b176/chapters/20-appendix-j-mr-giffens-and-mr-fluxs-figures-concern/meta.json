@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-fields-factories-and-workshops-49b176",
+  "work_title": "Fields, Factories, and Workshops",
+  "chapter_number": 20,
+  "chapter_title": "Appendix J : Mr. Giffen's And Mr. Flux's Figures Concerning The Position Of The United Kingdom In International Trade",
+  "chapter_slug": "20-appendix-j-mr-giffens-and-mr-fluxs-figures-concern",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bf44525b-cd4d-56c9-b57e-75847d1ea367",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 546,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/appendix-j.html"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "desiderius-erasmus-in-praise-of-folly-6833be"
 work_title: In Praise of Folly
 author_name: Desiderius Erasmus
 chapter_number: 1
-chapter_title: THE LIFE of ERASMUS.
+chapter_title: The Life of Erasmus.
 chapter_slug: "01-the-life-of-erasmus"
 variant_id: "61ce0a70-6350-59e9-b4e1-3c36f87223b1"
 content_type: translation

@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 61
-chapter_title: CHAPTER XXI.
+chapter_title: Chapter XXIV
 chapter_slug: 61
 variant_id: "6ffaa7d8-bd17-5d2f-bf08-eaaaafb7527e"
 content_type: translation
@@ -13,45 +13,17 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1361
+word_count: 304
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-It exists in no place or time.
+How it is better understood to exist always than at every time.
 
-But, if this is true, either it exists in every place and at every time, or else only a part of it so exists, the other part transcending every place and time.
+It is also evident that this supreme Substance is without beginning and without end; that it has neither past, nor future, nor the temporal, that is, transient present in which we live; since its age, or eternity, which is nothing else than itself, is immutable and without parts. Is not, therefore, the term which seems to mean all time more properly understood, when applied to this Substance, to signify eternity, which is never unlike itself, rather than a changing succession of times, which is ever in some sort unlike itself?
 
-But, if in part it exists, and in part does not exist, Edition: current; Page: [74] in every place and at every time, it has parts; which is false. It does not, therefore, exist everywhere and always in part.
+Hence, if this Being is said to exist always; since, for it, it is the same to exist and to live, no better sense can be attached to this statement, than that it exists or lives eternally, that is, it possesses interminable life, as a perfect whole at once. For its eternity apparently is an interminable life, existing at once as a perfect whole.
 
-But how does it exist as a whole, everywhere and always? For, either it is to be understood that it exists as a whole at once, in all places or at all times, and by parts in individual places and times; or, that it exists as a whole, in individual places and times as well.
+For, since it has already been shown that this Substance is nothing else than its own life and its own eternity, is in no wise terminable, and does not exist, except as at once and perfectly whole, what else is true eternity, which is consistent with the nature of that Substance alone, than an interminable life, existing as at once and perfectly whole?
 
-But, if it exists by parts in individual places or times, it is not exempt from composition and division of parts; which has been found to be in a high degree alien to the supreme Nature. Hence, it does not so exist, as a whole, in all places and at all times that it exists by parts in individual places and times.
-
-We are confronted, then, by the former alternative, that is, how the supreme Nature can exist, as a whole, in every individual place and time. This is doubtless impossible, unless it either exists at once or at different times in individual places or times. But, since the law of place and the law of time, the investigation of which it has hitherto been possible to prosecute in a single discussion, because they advanced on exactly the same lines, here separate one from another and seem to avoid debate, as if by evasion in diverse directions, let each be investigated independently in discussion directed on itself alone.
-
-First, then, let us see whether the supreme Nature can exist, as a whole, in individual places, either at once in all, or at different times, in different places. Then, let us make the same inquiry regarding the times at which it can exist.
-
-If, then, it exists as a whole in each individual place, then, for each individual place there is an individual Edition: current; Page: [75] whole. For, just as place is so distinguished from place that there are individual places, so that which exists as a whole, in one place, is so distinct from that which exists as a whole at the same time, in another place, that there are individual wholes. For, of what exists as a whole, in any place, there is no part that does not exist in that place. And that of which there is no part that does not exist in a given place, is no part of what exists at the same time outside this place.
-
-What exists as a whole, then, in any place, is no part of what exists at the same time outside that place. But, of that of which no part exists outside any given place, no part exists, at the same time, in another place. How, then, can what exists as a whole, in any place, exist simultaneously, as a whole, in another place, if no part of it can at that time exist in another place?
-
-Since, then, one whole cannot exist as a whole in different places at the same time, it follows that, for individual places, there are individual wholes, if anything is to exist as a whole in different individual places at once. Hence, if the supreme Nature exists as a whole, at one time, in every individual place, there are as many supreme Natures as there can be individual places; which it would be irrational to believe. Therefore, it does not exist, as a whole, at one time in individual places.
-
-If, however, at different times it exists, as a whole, in individual places, then, when it is in one place, there is in the meantime no good and no existence in other places, since without it absolutely nothing exists. But the absurdity of this supposition is proved by the existence of places themselves, which are not Edition: current; Page: [76] nothing, but something. Therefore, the supreme Nature does not exist, as a whole, in individual places at different times.
-
-But, if neither at the same time nor at different times does it exist, as a whole, in individual places, it is evident that it does not at all exist, as a whole, in each individual place. We must now examine, then, whether this supreme Nature exists, as a whole, at individual times, either simultaneously or at distinct times for individual times.
-
-But, how can anything exist, as a whole, simultaneously, at individual times, if these times are not themselves simultaneous? But, if this Being exists, as a whole, separately and at distinct times for individual times, just as a man exists as a whole yesterday, to-day, and to-morrow; it is properly said that it was and is and will be. Its age, then, which is no other than its eternity, does not exist, as a whole, simultaneously, but it is distributed in parts according to the parts of time.
-
-But its eternity is nothing else than itself. The supreme Being, then, will be divided into parts, according to the divisions of time. For, if its age is prolonged through periods of time, it has with this time present, past, and future. But what else is its age than its duration of existence, than its eternity? Since, then, its eternity is nothing else than its essence, as considerations set forth above irrefutably prove; if its eternity has past, present, and future, its essence also has, in consequence, past, present, and future.
-
-But what is past is not present or future; and what is present is not past or future; and what is future is not past or present. How, then, shall that Edition: current; Page: [77] proposition be valid, which was proved with clear and logical cogency above, namely, that that supreme Nature is in no wise composite, but is supremely simple, supremely immutable?—how shall this be so, if that Nature is one thing, at one time, and another, at another, and has parts distributed according to times? Or rather, if these earlier propositions are true, how can these latter be possible? By no means, then, is past or future attributable to the creative Being, either its age or its eternity. For why has it not a present, if it truly is? But was means past, and will be future. Therefore that Being never was, nor will be. Hence, it does not exist at distinct times, just as it does not exist, as a whole, simultaneously in different individual times.
-
-If, then, as our discussion has proved, it neither so exists, as a whole, in all places or times that it exists, as a whole, at one time in all, or by parts in individual places and times; nor so that it exists, as a whole, in individual times and places, it is manifest that it does not in any way exist, as a whole, in every time or place.
-
-And, since, in like manner, it has been demonstrated that it neither so exists in every time or place, that a part exists in every, and a part transcends every, place and time, it is impossible that it exists everywhere and always.
-
-For, in no way can it be conceived to exist everywhere and always, except either as a whole or in part. But if it does not at all exist everywhere and always, it will exist either finitely in some place or time, or in none. But it has already been proved, that it cannot exist finitely, in any place or time. In no place or time, that is, nowhere and never does it exist. For Edition: current; Page: [78] it cannot exist, except in every or in some place or time.
-
-But, on the other hand, since it is irrefutably established, not only that it exists through itself, and without beginning and without end, but that without it nothing anywhere or ever exists, it must exist everywhere and always.
+For this truth is, at any rate, clearly perceived from the single fact that true eternity belongs only to that substance which alone, as we have proved, was not created, but is the creator, since true eternity is conceived to be free from the limitations of beginning and end; and this is proved to be consistent with the nature of no created being, from the very fact that all such have been created from nothing.

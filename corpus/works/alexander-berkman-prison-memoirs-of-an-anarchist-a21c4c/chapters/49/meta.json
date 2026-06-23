@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 49,
+  "chapter_title": "Part 2, Chapter 24 : Thoughts That Stole Out of Prison",
+  "chapter_slug": "49",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e67bcdb-59a1-5c7b-8809-5a8146bb17c2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 972,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-24.html"
+    }
+  ]
+}

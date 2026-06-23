@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f"
 work_title: "Capital and Interest: A Critical History of Economical Theory"
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 31
-chapter_title: "Book VII, Chapter I: The Eclectics"
+chapter_title: "Book VII: Minor Systems, Book VII, Chapter I: The Eclectics"
 chapter_slug: 31
 variant_id: "014bec9a-eb00-581e-ab0f-a40f1b72c562"
 content_type: translation

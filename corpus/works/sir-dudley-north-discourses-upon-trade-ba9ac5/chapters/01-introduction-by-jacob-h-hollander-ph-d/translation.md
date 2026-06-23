@@ -4,7 +4,7 @@ work_slug: "sir-dudley-north-discourses-upon-trade-ba9ac5"
 work_title: Discourses upon Trade
 author_name: Sir Dudley North
 chapter_number: 1
-chapter_title: INTRODUCTION by Jacob H. Hollander, Ph. D.
+chapter_title: Introduction by Jacob H. Hollander, Ph. D.
 chapter_slug: "01-introduction-by-jacob-h-hollander-ph-d"
 variant_id: "db34ae09-ccad-5665-bf4a-c3c564206847"
 content_type: translation

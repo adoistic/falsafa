@@ -1,0 +1,26 @@
+{
+  "work_slug": "martin-luther-first-principles-of-the-reformat-bf397c",
+  "work_title": "First Principles of the Reformation",
+  "chapter_number": 21,
+  "chapter_title": "II.: Of the Matters to be Considered in the Councils.",
+  "chapter_slug": "21-ii-of-the-matters-to-be-considered-in-the-councils",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ccec11f5-b958-5ffc-bf2d-df6d40dac2cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5187,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/luther-first-principles-of-the-reformation-1883"
+    }
+  ]
+}

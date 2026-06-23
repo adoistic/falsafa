@@ -1,0 +1,26 @@
+{
+  "work_slug": "johann-karl-rodbertus-overproduction-and-crises-eb7dda",
+  "work_title": "Overproduction and Crises",
+  "chapter_number": 1,
+  "chapter_title": "Overproduction and Crises",
+  "chapter_slug": "01-overproduction-and-crises",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44503bae-9ae7-5481-a1ae-4e7d9200f572",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 24803,
+      "paragraph_count": 161,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/rodbertus/overprod.htm"
+    }
+  ]
+}

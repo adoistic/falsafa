@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 101
-chapter_title: CHAPTER LXI.
+chapter_title: Chapter LXIX.
 chapter_slug: 101
 variant_id: "1fc62a5a-84ce-59c8-a8a9-e2595887b04e"
 content_type: translation
@@ -13,19 +13,17 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 318
+word_count: 415
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-Yet there are not three, but one Father and one Son and one Spirit.
+The soul that ever loves this Essence lives at some time in true blessedness.
 
-And here I see a question arises. For, if the Father is intelligence and love as well as memory, and the Son is memory and love as well as intelligence, and the Spirit is no less memory and intelligence than love; how is it that the Father is not a Son and a Spirit of some being? and why is not the Son the Father and the Spirit of some being? and why is not this Spirit the Father of some being, and the Son of Edition: current; Page: [123] some being? For it was understood, that the Father was memory, the Son intelligence, and the Spirit love.
+But there is no doubt that the human soul is a rational creature. Hence, it must have been created for this end, that it might love the supreme Being. It must, therefore, have been created either for this end, that it might love that Being eternally; or for this, that at some time it might either voluntarily, or by violence, lose this love.
 
-But this question is easily answered, if we consider the truths already disclosed in our discussion. For the Father, even though he is intelligence and love, is not for that reason the Son or the Spirit of any being; since he is not intelligence, begotten of any, or love, proceeding from any, but whatever he is, he is only the begetter, and is he from whom the other proceeds.
+But it is impious to suppose that the supreme Wisdom created it for this end, that at some time, either it should despise so great a good, or, though wishing to keep it, should lose it by some violence. We infer, then, that it was created for this end, that it might love the supreme Being eternally. But this it cannot do unless it lives forever. It was so created, then, that it lives forever, if it forever wills to do that for which it was created.
 
-The Son also, even though by his own power he remembers and loves, is not, for that reason, the Father or the Spirit of any; since he is not memory as begetter, or love as proceeding from another after the likeness of his Spirit, but whatever being he has he is only begotten and is he from whom the Spirit proceeds.
+Hence, it is most incompatible with the nature of the supremely good, supremely wise, and omnipotent Creator, that what he has made to exist that it might love him, he should make not to exist, so long as it truly loves him; and that what he voluntarily gave to a non-loving being that it might ever love, he should take away; or permit to be taken away, from the loving being, so that necessarily it should not love; especially since it should by no means be doubted that he himself loves every nature that loves him. Hence, it is manifest that the human soul is never deprived of its life, if it forever devotes itself to loving the supreme life.
 
-The Spirit, too, is not necessarily Father or Son, because his own memory and intelligence are sufficient to him; since he is not memory as begetter, or intelligence as begotten, but he alone, whatever he is, proceeds or emanates.
-
-What, then, forbids the conclusion that in the supreme Being there is only one Father, one Son, one Spirit, and not three Fathers or Sons or Spirits?
+How, then, shall it live? For is long life so important a matter, if it is not secure from the invasion of troubles? For whoever, while he lives, is either through fear or through actual suffering subject to troubles, or is deceived by a false security, does he not live in misery? But, if any one lives in freedom from these troubles, he lives in blessedness. But it is most absurd to suppose that any nature that forever loves him, who is supremely good and omnipotent, forever lives in misery. So, it is plain, that the human soul is of such a character that, if it diligently observes that end for which it exists, it at some time lives in blessedness, truly secure from death itself and from every other trouble.

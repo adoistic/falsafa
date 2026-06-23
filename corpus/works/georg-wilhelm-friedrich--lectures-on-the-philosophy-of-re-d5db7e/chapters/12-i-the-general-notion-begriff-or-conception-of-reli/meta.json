@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-philosophy-of-re-d5db7e",
+  "work_title": "Lectures on the Philosophy of Religion (Introduction and Absolute Religion, final section)",
+  "chapter_number": 12,
+  "chapter_title": "I. The General Notion [Begriff] Or Conception of Religion.",
+  "chapter_slug": "12-i-the-general-notion-begriff-or-conception-of-reli",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "425f2bd3-2844-5657-8823-3cb7343662a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 373,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/re/partc.htm"
+    }
+  ]
+}

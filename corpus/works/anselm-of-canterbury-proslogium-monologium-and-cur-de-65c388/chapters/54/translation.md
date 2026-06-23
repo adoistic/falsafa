@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 54
-chapter_title: CHAPTER XIV.
+chapter_title: Chapter XVII. (2)
 chapter_slug: 54
 variant_id: "368513b6-f821-5b96-bc2f-d5e53620140c"
 content_type: translation
@@ -13,11 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 153
+word_count: 422
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-This Being is in all things, and throughout all; and all derive existence from it and exist through and in it.
+It is simple in such a way that all things that can be said of its essence are one and the same in it: and nothing can be said of its substance except in terms of what it is.
 
-But if this is true—rather, since this must be true, it follows that, where this Being is not, nothing is. It is, then, everywhere, and throughout all things, and Edition: current; Page: [61] in all. But seeing that it is manifestly absurd that as any created being can in no wise exceed the immeasurableness of what creates and cherishes it, so the creative and cherishing Being cannot, in any way, exceed the sum of the things it has created; it is clear that this Being itself, is what supports and surpasses, includes and permeates all other things. If we unite this truth with the truths already discovered, we find it is this same Being which is in all and through all, and from which, and through which, and in which, all exist.
+Is it to be inferred, then, that if the supreme Nature is so many goods, it will therefore be compounded of more goods than one? Or is it true, rather, that there are not more goods than one, but a single good described by many names? For, everything which is composite requires for its subsistence the things of which it is compounded, and, indeed, owes to them the fact of its existence, because, whatever it is, it is through these things; and they are not what they are through it, and therefore it is not at all supreme. If, then, that Nature is compounded of more goods than one, all these facts that are true of every composite must be applicable to it. But this impious falsehood the whole cogency of the truth that was shown above refutes and overthrows, through a clear argument.
+
+Since, then, that Nature is by no means composite, and yet is by all means those so many goods, necessarily all these are not more than one, but are one. Any one of them is, therefore, the same as all, whether taken all at once or separately. Therefore, just as whatever is attributed to the essence of the supreme Substance is one; so this substance is whatever it is essentially in one way, and by virtue of one consideration. For, when a man is said to be a material body, and rational, and human, these three things are not said in one way, or in virtue of one consideration. For, in accordance with one fact, he is a material body; and in accordance with another, rational; and no one of these, taken by itself, is the whole of what man is.
+
+That supreme Being, however, is by no means anything in such a way that it is not this same thing, according to another way, or another consideration; because, whatever it is essentially in any way, this is all of what it is. Therefore, nothing that is truly said of the supreme Being is accepted in terms of quality or quantity, but only in terms of what it is. For, whatever it is in terms of either quality or quantity would constitute still another element, in terms of what it is; hence, it would not be simple, but composite.

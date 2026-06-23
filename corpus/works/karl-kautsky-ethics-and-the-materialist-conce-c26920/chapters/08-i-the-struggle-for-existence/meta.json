@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-ethics-and-the-materialist-conce-c26920",
+  "work_title": "Ethics and the Materialist Conception of History",
+  "chapter_number": 8,
+  "chapter_title": "I. The Struggle for Existence",
+  "chapter_slug": "08-i-the-struggle-for-existence",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd72656e-2084-5cd1-bdce-a7fc997f7dc9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1305,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1906/ethics/ch04.htm"
+    }
+  ]
+}

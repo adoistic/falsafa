@@ -4,7 +4,7 @@ work_slug: "suetonius-the-lives-of-the-twelve-caesars-4c36b5"
 work_title: The Lives of the Twelve Caesars
 author_name: Suetonius
 chapter_number: 21
-chapter_title: THE LIFE OF PLINY.
+chapter_title: The Life of Pliny.
 chapter_slug: "21-the-life-of-pliny"
 variant_id: "b75234f6-bbb4-5ec8-98a2-298c0c5c8595"
 content_type: translation
@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 33777
+word_count: 33773
 source_url: "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"
 translator: Online Library of Liberty edition
 ---
 
-Plinius Secundus, a native of New Como, having served in Edition: current; Page: [546] the wars with strict attention to his duties, in the rank of a knight, distinguished himself, also, by the great integrity with which he administered the high functions of procurator for a long period in the several provinces intrusted to his charge. But still he devoted so much attention to literary pursuits, that it would not have been an easy matter for a person who enjoyed entire leisure to have written more than he did. He comprised, in twenty volumes, an account of all the various wars carried on in successive periods with the German tribes. Besides this, he wrote a Natural History, which extended to seven books. He fell a victim to the calamitous event which occurred in Campania. For, having the command of the fleet at Misenum, when Vesuvius was throwing up a fiery eruption, he put to sea with his gallies for the purpose of exploring the causes of the phenomenon close on the spot. But being prevented by contrary winds from sailing back, he was suffocated in the dense cloud of dust and ashes. Some, however, think that he was killed by his slave, having implored him to put an end to his sufferings, when he was reduced to the last extremity by the fervent heat.
+Plinius Secundus, a native of New Como, having served in the wars with strict attention to his duties, in the rank of a knight, distinguished himself, also, by the great integrity with which he administered the high functions of procurator for a long period in the several provinces intrusted to his charge. But still he devoted so much attention to literary pursuits, that it would not have been an easy matter for a person who enjoyed entire leisure to have written more than he did. He comprised, in twenty volumes, an account of all the various wars carried on in successive periods with the German tribes. Besides this, he wrote a Natural History, which extended to seven books. He fell a victim to the calamitous event which occurred in Campania. For, having the command of the fleet at Misenum, when Vesuvius was throwing up a fiery eruption, he put to sea with his gallies for the purpose of exploring the causes of the phenomenon close on the spot. But being prevented by contrary winds from sailing back, he was suffocated in the dense cloud of dust and ashes. Some, however, think that he was killed by his slave, having implored him to put an end to his sufferings, when he was reduced to the last extremity by the fervent heat.
 
 LONDON
 

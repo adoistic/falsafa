@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 27
-chapter_title: "CHAPTER XIX: FISCAL MONOPOLIES"
+chapter_title: "Chapter XXI: Financial Disorder"
 chapter_slug: 27
 variant_id: "56546075-abe3-5f8f-b917-06f1f4a8fc7f"
 content_type: translation
@@ -13,83 +13,221 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1987
+word_count: 5856
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-1. It is customary to speak of the results of the tobacco monopoly in France, in force since 1811, as marvelous.
+1. Jules Roche, contemplating the consequences of the purchase of the Western Railway of France, remarked of the whole transaction:
 
-The income appears truly enormous. In 1815 it was 32,123,000 francs; in 1830, 46,782,000 francs; in 1850, 88,915,000 francs; in 1869, 197,210,000 francs; in 1890, 305,918,000 francs; in 1900, 338,872,000 francs; in 1910, 407,330,000 francs.
+“I am considering only one detail of the plan, namely, the creation of a special budget of the future system, with its special debt, its loans, and its special titles.
 
-Without doubt this is a dazzling result from the fiscal point of view, and it also proves that the number of Frenchmen who use tobacco has increased more rapidly than the population.
+“Are we to have two public debts in France? A public debt pure and simple, such as already exists, secured by the general resources of the nation, and another debt, a new debt, contracted by the state railway, and consequently a state debt, secured by the same resources as the present debt, and secured besides, in a supplemental fashion, by the railroad system itself? If not, the term 'special loans' is without meaning.
 
-But there are other ways for a government to make money out of tobacco than by monopolizing the sale of it. In 1908–1909 the United Kingdom realized £13,328,000 upon tobacco, that is to say, 333,450,000 francs, or only 74,000,000 francs ($14,060,000) less than our monopoly has yielded us.
+“What sort of financial, legal or political idea is this? Is such a conception financial, legal or political at all? Is this bookkeeping? Here is surely something that the decree of 1862 did not foresee! And what would be the future of such a plan if it were ever adopted by the great state railways?
 
-We see what this monopoly has contributed to the Treasury; but we do not see the losses occasioned by it to French agriculture and industry. It is a privilege to be allowed to cultivate tobacco. I have heard a deputy say: “I will guarantee that not a single one of my political adversaries will cultivate one acre of tobacco.” Possibly he was boasting; but that a deputy could use such language is sufficient to prove just how far official authority is capable of being abused.
+“We should shortly have postal loans, telegraph and telephone loans, match loans, tobacco loans, loans on coming monopolies, such as alcohol, sugar, insurance, and petroleum.”
 
-In any case there are only 27 districts permitted to cultivate tobacco, and these districts are situated in all parts of France, from the North to Landes, from Ile-et-Vilaine to the Var. Therefore, climatic reasons have not determined these concessions, which, as a matter of fact, are wholly dependent upon politics. The number of hectares authorized was 17,955 (44,880 acres) in 1909, and 18,005 hectares (45,000 acres) in 1910. In the first year mentioned 15,037 hectares (37,593 acres) out of a possible 17,955 hectares (44,880 acres), and in the second year, 14,683 hectares (36,708 acres) out of a possible 18,005 hectares (45,000 acres) were cultivated. The number of licenses was, respectively, 48,395 and 47,283.
+At present Socialists are abandoning the Marxian theory, as they dropped the theories of Fourier, Cabet, Louis Blanc, Prudhomme, etc. The more progressive are seeking new theories. They assume that, if private enterprise is suppressed, states and municipalities will produce all things necessary to man much more abundantly, and in a much more regular and economic fashion than private enterprise has succeeded in doing. They have made up their minds that all economic activity ought to be transformed into public services. This is their postulate.
 
-The quantity of tobacco bought was 23,134,000 kg. (50,894,800 lbs.) in 1909, averaging 23,122,000 francs, and, in 1910, 21,034,000 kg. (46,274,800 lbs.), averaging 22,085,000 francs.
+But they have neglected to fortify their theories with facts. Universal experience has proved that, whatever a state does, it does at a higher cost than private individuals or groups, and that, far from concentrating its attention upon the true objective point, it always drags in foreign considerations, which ruin the enterprises of which it has assumed the direction. Accounts are confused in such a way as to make it next to impossible to discover either net cost or the true income. Although sheltered from competition, instead of being agents of progress, such undertakings foster nothing but lethargy; and, while accomplishing so little themselves they block the way of the more productive enterprises of others.
 
-But let us look at the monopoly from a somewhat different standpoint. To-day we may buy scaferlati. Scaferlati is a raw product. Consequently you may imagine that you have the right to use it to manufacture cigarettes. In fact the Court of Cassation has made a ruling to that effect. Nothing of the kind. The department of Indirect Taxes (Administration des Contributions Indirectes) intervenes, and says to you: “You, a simple individual, cannot manufacture cigarettes, because I have reserved for myself a monopoly of this article.”
+Municipalities move along a straighter path, but the same defects are apparent in municipal trading operations that we find in state undertakings. Whence we may conclude that Municipal Socialism is only another condemnation of State Socialism.
 
-The rival claims of the various parties interested in the sale of tobacco became the subject of a lively discussion between the tobacco monopoly and the Court of Cassation. The Finance Law of 1895 finally put an end to the altercation by justifying the exorbitant pretensions of the monopoly. It decided that, although you can make cigarettes for your own personal use with the tobacco that you buy from the government, you have not the right to sell these cigarettes to your neighbor.
+Yet has Municipal Socialism, down to the present, at least, abated its energy in the establishment of public tramways, gas, electric lighting, telephones, water works and cheap housing? And, since it has failed in these enterprises, what would be the result of similar experiments with food supplies, dressing, heating and otherwise occupying and amusing the people?
 
-On September 17 and 18, 1903, there was another altogether edifying discussion—this time in the Senate—upon the manner in which the state treats the consumer. Certain senators were anxious to prevent the French smoker from smoking anything but the national tobacco. The Minister of Finance, M. Rouvier, opposed this restriction, but at the same time he proceeded to demonstrate how cavalierly the state may treat the consumer who has no other source of appeal:
+The Chamber of Deputies approved article 70 of the Finance Law of 1912, which created a species of financial autonomy out of the manufactures of Sèvres porcelain in spite of the sound arguments against the measure presented by Jules Roche. The result of such a proceeding would have been a tenth special budget appended to the general budget. If the manufacture of Sèvres is a government enterprise its accounts should not be separated from the state budget; and, furthermore, why separate them from the general budget while the manufacture of Gobelin tapestry remains attached? The article has since disappeared from the Finance Law.
 
-In 1900, he declared, ordinary scafeerlati had Edition: current; Page: [197] been composed of 52 per cent. native tobacco and 48 per cent. foreign tobacco. In 1901 the proportion was changed to 54 per cent. native tobacco and 46 per cent. foreign tobacco. The consumption decreased 40,000 kg. (88,000 lbs.).
+In our studies of the administration of French finances we have frequently had occasion to demonstrate the incapacity of the state to conduct a trading enterprise, despite the undoubted intelligence of its officials. Examples abound in the administration of the principal monopolies. We have shown that they manufacture bad matches at high cost, and that those which come from abroad to eke out our supply are better and cheaper. Officials in charge of these enterprises have neither initiative nor responsibility. They are hemmed in by regulations which do not allow of the coöperation characteristic of private industry. Responsibility for failure or success does not devolve upon these officials. It is distributed among a swarm of agents of the hierarchy, and vanishes finally in some central bureau. Any private business which had to struggle under similar conditions would end in bankruptcy. Nor is this state of affairs the fault of man. It is inherent in the very nature of the institution itself.
 
-What would a private company have done under similar circumstances? It would have restored the former proportion, as a matter of course.
+We find another opportunity of demonstrating the truth of the foregoing statement in a building enterprise, the history of which deserves to be preserved. Such utter lack of foresight and such an accumulation of mistakes are rarely found in one and the same business undertaking.
 
-What did the government do? It increased the proportion of native tobacco.
+The enterprise referred to is the rebuilding of the National Printing Office. If any enterprise could have been conducted by government agents it would seem to have been this particular one; for it was confined to construction work based on rigid specifications. We have, it would seem, enough state architects to bring such a work to a successful conclusion. Yet the failure was complete, and the budget suffered grievously in consequence.
 
-In 1902 scaferlati was composed of 63 per cent. native tobacco and 37 per cent. foreign tobacco.
+In the beginning the job was as follows: To rebuild the National Printing Office upon a newly acquired site, and to sell the buildings and ground in the Rue Vieille-du-Temple previously occupied by the office. The officials in charge presented the following preliminary report to the Chamber of Deputies:
 
-“The number of complaints increased,” added the minister placidly.
+Unfortunately the managers of the undertaking had forgotten to look at their problem from all sides, and Parliament made a great mistake in not perceiving this in time.
 
-But what did the minister do about it? Was any attempt made to satisfy the consumer? Did the department restore the previous proportions? Not at all. The consumer was induced to see the error of his complaints in another way. Smokers had gradually abandoned the degenerate scaferlati for Maryland tobacco. Therefore, the government conceived the happy idea of increasing the price of Maryland tobacco. That would teach the smoker to be content with the government tobacco. Strange that MM. Gomot and Ournac should discover that this proportion of native tobacco was still unsatisfactory!
+In the first place, it was an act of presumption on the part of the officials in charge to think of selling the old palace of the Rohans, then occupied by the National Printing Office. Naturally, protests arose from all sides against the sale of this landmark of the past, which kept alive the memory of the famous Cardinal, and to which were attached so many other historical recollections. Its possession was a hypothetical and contingent asset, it is true, but the attempt to make it balance the expenditure ought never to have been seriously considered. This, however, is not the point of view from which the proceeding is most open to criticism. Where the mistake becomes inexcusable is in the estimate of the probable expense of rebuilding.
 
-The example quoted above only serves to prove once more the truth of the following general law:
+The committee declared to the Chamber, when presenting it with the estimate of its architects, that the rebuilding would cost in all, including ordinary miscalculations, a sum of 2,900,000 francs, and that, with this credit, all the work could be carried on upon a generous scale. But in order to reduce his original estimate, which had been 3,734,000 francs, to the figure just quoted, the architect, with the approval of the committee, had had to leave out one story in most of the wings, thus reducing the floor space in the shops by 7,000 square meters (7,708 square yards). Yet, despite this effort, in 1904 the committee had to report a deficiency of 1,500,000 francs in the preliminary estimate for the construction of the new building.
 
-Under conditions of free competition the producer has more need of the consumer than the consumer of the producer, and it is necessary that the latter give Edition: current; Page: [198] the former the maximum of service at a minimum cost. Under monopolistic conditions the consumer is obliged to submit to the exigencies of the producer.
+In the following year it was discovered that the estimate contained no provision for the installation of either heat, light, or motive power for the mechanical equipment. Consequently a new item of 750,000 francs had to be added to the previous amount. Then there had been no provision in any of the plans for housing the directorate and the subordinate functionaries. According to the documents submitted by the Budget Committee the expense of rebuilding the property on the Rue de la Convention must ultimately amount to 6,210,000 francs. The Chamber had been told that it would only be 2,900,000 francs. The aggregate difference between estimate and expenditure amounted to 3,310,000 francs.
 
-If the consumer wishes to retaliate he has no other recourse than that species of strike called abstention, which for him spells privation. As the case of the Maryland tobacco proves, the smoker cannot even resort to substituting one product for another. If he makes the attempt he is penalized.
+Finally to this difference of 3,310,000 francs should be added the loss that the budget will suffer by reason of the failure to sell the de Rohan palace. Later several more mistakes were discovered.
 
-Beginning with May 14, 1910, M. Cochery raised the rates on high-grade tobacco and certain tobaccos especially popular at the time. As a result of this measure an increase in the annual receipts of 18,000,000 francs was anticipated, and for 1910, 13,500,000 francs. The increase was but 10,044,000 francs, or only 998,000 francs more than the average increase for the previous four years. The detailed report of the sales shows that the public had abandoned the use of the high-grade tobaccos, and was contenting itself with scaferlati, the price of which remained the same. Probably it was not without discreet murmurs that the public resigned itself to this change of habit; but at least the passive and silent strife had some effect. The decree of June 26, 1911, reëstablished the former rates on brands the abandonment of which would make serious inroads upon the profits of the monopoly—that is to say, the more expensive scaferlati and the more popular cigarettes made from it.
+At the end of December, 1912, when the expenditure already incurred amounted to 10,445,000 francs, the committee made application for a further credit of 4,336,000 francs to finish the work.
 
-But now let us suppose that this monopoly on to bacco in France did not exist. We French are extremely Edition: current; Page: [199] skilful in raising products of a refined savor, and we know how to prepare them in the most attractive manner. Let us imagine, then, that the cultivation and sale of tobacco were free. There would be tens of thousands of hectares under cultivation in those districts where the soil is best adapted for it. We would see manufacturers experimenting with skilful blends of native and foreign tobaccos suitable for exportation. We would see in the great cities large and imposing shops for the sale of tobacco like those seen abroad.
+It is understood that no one can be held directly accountable for this state of affairs. The responsibility rests with the committee in charge of the work, which managed the affair badly, and with the other committees, which helped to cover up official blunders. This example is typical of the arrant folly only too common in the conduct of state enterprises, and proves once more that a government is far less skillful than are individuals in the direction of such enterprises.
 
-The department boasts of the excellence of its products. The foreigner does not share this opinion, because exportation is almost nil—3,547,000 francs ($673,930) in 1910. Yet attempts are made to export the home product, because included in the above figure is the sum of 83,718 francs ($15,906) for commissions paid to special export agents.
+3. Each year the reports of the postoffice, telegraph and telephone systems, and even of the Navy, show the disorder to which all state operations are liable. Yet, although complaints of maladministration of these systems are incessant, do we not also know that Parliament continues to tolerate insubordination in the arsenals, increases in salaries, decreases in the number of hours of labor, and all those generosities which, instead of being an inspiration to production, amount to so many premiums on laziness? Investigating committees are appointed. Of whom are they composed? Deputies from the ports are placed on Navy investigating boards when they should be disqualified by the very fact alone that the employees of the Navy will be counted among their constituents.
 
-If the monopoly contributes 405,000,000 francs ($76,950,000) to the government on the one hand, it is certainly causing a loss of many hundreds of millions annually to French agriculture, industry and commerce on the other hand.
+But let the following facts speak for themselves. A commission appointed to investigate conditions in the Navy met at Guerigny in 1908. It had as its president, M. Massé, deputy from La Nièvre, on whose motion a steel plant had been founded at Guerigny in 1900. The commission passed exactly one day in the town, after which exhaustive investigation of conditions there it submitted to the Navy department a report calling for new expenses.
 
-Moreover, but little regard is paid to the net cost of manufacture and sale. As a monopoly the state has, of course, a wide margin.
+The said steel plant of Guerigny, begun in 1900, has been in operation since 1905. Its prime object is the manufacture of Martin steel, and, according to the authors of the amendment which provided for its establishment, it should produce armor plate at a price considerably less than that paid to private companies. Now M. Rousseau has discovered, and not without difficulty, in view of the complication of the accounts of the Navy, that the equipment for the manufacture of Martin steel must have already cost more than 5,000,000 francs, while the expense of the amortization of this outlay during ten years, according to the custom in the industry at large, is 500,000 francs.
 
-The books of the monopoly carry a kind of industrial account, entitled Capital de la Régie. On December 31, 1910, the amount was figured at 153,841,482 francs 07 ($29,229,881). Nothing more definite was given. The sum was distributed thus:
+Unfortunately, the investigating committee which visited Guerigny declared (in 1909) that immediately after the establishment of the steel plant the use of Martin steel plate had fallen off considerably. I quote from their report:
 
-This table is supplemented by the following:
+“As a matter of fact, the production is 300 tons of armor plate a year. Assuming that this rate could be maintained, the aggregate cost of amortizing the equipment would amount to 1,666 francs a ton. Moreover, it is to be feared that the use of Martin steel is continuing to decline. On the Waldeck-Rousseau there was 37½ per cent. of Martin steel; on the Patrie type there was only 24 per cent.; on the Danton, 17 per cent,; upon the Jean Bart, 14 per cent. (figures disclosed by the official reports).
 
-But what can the Treasury do with 42,000,000 francs in buildings and 6,000,000 francs in machinery, etc.? Surely there is no indication here of an industrial budget.
+“This fact is highly disturbing. The capital sunk in the equipment for the manufacture of Martin steel will, therefore, never be recovered. The department unquestionably made a mistake when, on the motion of M. Massé, approved by the Chamber of Deputies, it saddled itself with this equipment.
 
-The tobacco monopoly bought nearly 32,000,000 francs ($6,080,000) of tobacco abroad in 1910. Tobacco experts visit the places of production, meet at Bremen, and buy tobacco. They are prepared for the business by the Polytechnic Institute. It is the easier for me to say what I am about to say since the probity of these agents has never been brought into question. But what control can be exercised by any legislative body over the millions of francs' worth of tobacco which thus passes from one hand to another? Edition: current; Page: [201] What possible chance is there of fixing individual responsibility?
+“But the commission feels that the plant at Guerigny ought to be provided with equipment and machines which will permit the manufacture of hardened steel, or any other kind of steel destined to supplant Martin steel.
 
-In fact it cannot be too strongly asserted that legislators have yet to discover how to interfere effectively in trading operations carried on by the state.
+“It will probably be necessary to abandon the use of hardened steel in its turn. But if the cementing furnaces were used during only two campaigns, it would be sufficient to pay off the expense involved in installing them.”
 
-2. The accounts devoted to the materials and money sunk in the operation of the chemical match monopoly for 1910 give us at least a certain amount of information. For example, the amount of capital controlled by the department on December 31, 1910, is figured at 10,633,635 francs 92, and is distributed as follows:
+The Commission, consistent to itself in its own inconsistency, then reiterates its demand for cementing furnaces, and says:
 
-Many other details are found in the pages which follow, but there is no trace anywhere of what the English call “depreciation,” that is to say, amortization, on either real estate or equipment.
+“Out of a total expenditure of 5,500,000 francs the cementing furnaces only represent a very small sum, since the plan provides for five at the cost of 70,000 francs apiece. Moreover, it is not necessary to begin work with the installation of these furnaces. The construction of the new workshop will take approximately three years. A year is amply sufficient for the installation of cementing furnaces. Assuming that the work will be begun during the next year, or 1910, it will not be until two years after, or 1912, that the value of the new steel manufactured at Saint Chamond and at Creusot will be determined; it will then be known whether hardened steel will continue to be used in the Navy, and whether it will be practicable to provide for its manufacture at Guerigny.”
 
-The monopoly buys matches abroad for 3,206,326 francs 04, upon which it pays 671,608 francs 07 customs Edition: current; Page: [203] duties, together with 3,008 francs 64 in the way of incidental expenses, forming a total of 3,880,942 francs 75.
+Thus, and as a result of the report of the Commission, it appears that the government ought to be prepared to manufacture hardened steel at Guerigny, and also to await a definite decision as to the value of a certain steel, before commencing work on the furnaces.
 
-The Minister of Finance collects theoretically 671,608 francs 07 from the customhouse upon this monopoly, and at least an equivalent sum as profit on the sale of the domestic product. Therefore, his accounts are just that much short at the end of the year. Here we have a bookkeeping artifice so much the more astonishing in that foreign matches are prohibited and cannot be brought into the country except by the government.
+The committee declares that it will take a year to install the cementing furnaces; yet the expenditures are already estimated at 5,500,000 francs.
 
-3. In the case of both tobacco and matches the term profit is applied to the difference existing between receipts and expenditures. But, from the standpoint of the consumer, this profit is neither more nor less than a reward of extortion, since consumers are unable to procure at the lowest price the goods which the monopoly forces upon them. The word profit is, therefore, altogether a misnomer.
+Following the recommendations contained in the committee's report, the Navy department demanded 400,000 francs credit on the budget of 1911, and the Budget Committee was subsequently urged to raise this figure to 900,000 francs. But, even with this latter credit, six years would be required for the installation of the cementing furnaces. In asking for 400,000 francs, then, the Navy was demonstrating its skepticism, and, in granting such a sum, the Budget Committee was once more displaying its lack of foresight. In any case both were wasting funds in order to appear to be doing something, and not from the point of view of the needs of the Navy, but from local considerations.
 
-In 1891 a committee of the Chamber of Deputies suggested to the various ministers that government employees be allowed to share in the profits of state operation.
+Up to 1911 the general expenses at Guerigny were 118 per cent. of the estimated expenses.
 
-At that time I had under my direction, as an industrial undertaking, the old government railway system. I answered that there were no profits and that consequently they could not be divided. But would it even have been possible to give to the employees and laborers connected with the prosperous tobacco and match industries a share in the “profits resulting from the Edition: current; Page: [204] sale of their products'? There are no real profits; there are fiscal advantages wrung from consumers.
+The excuse for constructing the plant in the first instance was that such an establishment would “regulate prices.” But, in order to regulate the price of private industry, the government ought to commence by regulating its own.
 
-Many of those who demand “industrial accounts” do it with the hidden hope that the departments of tobacco and matches are going to become the property of the employees concerned in their operation, who will thereupon enter into contracts with the government and thereby ensure for themselves “a share of the profits.” But such profits are, as has been already said, only the result of extortion, and, therefore, would inevitably disappear if unsupported by the laws at present in force.
+The Director of the Guerigny works told the Investigating Committee that:
 
-A fiscal profit should never be mistaken for an industrial profit.
+“The saving of at least one franc per kilogram on the cost price of armor plate at Guerigny is also obtained in the manufacture of special steel, and this saving would certainly be continued if we should manufacture hardened steel. In this fact we have a serious argument in favor of the extension of the manufacture of armor plate. By doubling the expense incurred up to the present on account of this manufacture, we can more than triple the production; and each ton of armor plate made at Guerigny would represent an economy of 1,000 francs, taking into consideration the market price. Five thousand tons of armor plate would suffice to warrant the expense of such an enlargement.”
+
+Five million francs have already been expended at Guerigny. Now the management suggests a further expenditure of ten millions. The average annual production of 300 tons is to be increased—allowing a wide margin—to 1,000 tons a year, with amortization at 1 franc per kilogram; or, in other words, 1,000,000 francs a year, or 1,000 francs a ton. “How, upon 5,000 tons alone,” demands M. Rousseau, “can such an extraordinary feat be accomplished as to put aside 1 franc per kilogram upon the cost of the industry, that is to say, 1,000 francs a ton, while at the same time the equipment is amortized at 2 francs per kilogram, especially when there is to be an expenditure of 10,000,000 francs?”
+
+The Investigating Committee declared the net cost per kilogram of armor plate produced at Guerigny to be 1 franc 27 to 1 franc 74, although the charge for amortization alone was 1 franc 66 per kilogram.
+
+The report of this same committee inspired still more caustic comments on the part of M. Rousseau.
+
+“At the present time it is supererogation to state that the documents emanating from the French Parliament lack accuracy. It is an accepted fact, and is apparent above all in whatever pertains to the Navy. That the information contained in these documents is accepted without sufficient scrutiny has been proven again and again. It has been proven also that investigations are not made with all the care desirable. For example, we read in the report of the Committee appointed to investigate conditions in the Navy that ‘the cost of turbines appears particularly exaggerated.’ In the first place, what is this word ‘appears’ doing in the conclusions of an investigating committee? Why didn't the Committee get to the bottom of the matter? What basis of judgment did it have? The premises were as follows: we quote the report:
+
+“‘Justice, reciprocating engine, 18,500 h.p., 2,614,000 francs.
+
+“‘Voltaire, turbine, 22,500 h.p., 4,800,000 francs.
+
+“‘At the same rate of cost as the engine on the Justice, a reciprocating engine of 22,500 h.p. would cost:
+
+“‘the turbines have thus cost, per man-of-war, 1,532,500 francs more than reciprocating engines, or about 10,000,000 francs for the six men-of-war. In reality, the turbines are less expensive to construct than reciprocating engines. As a result, there is a colossal profit for the contractors after deduction of all their expenses. It appears beyond doubt that the Navy has paid much too high a price for the turbines.’
+
+“It is a universally admitted principle that like objects alone are comparable. It is well that it did not occur to the author of the little calculation quoted above to compare turbines with automobile motors, because, with the same serenity, he would have declared the contractors absolutely ruined, rendering the stock of their dock yards valueless, while, on the contrary, he has given them an enhanced value.”
+
+4. In any estimate of cost price there are two factors, direct expenses and general expenses.
+
+In the navy yards general expenses are undivided expenses, uniformly computed at 28 per cent. of labor costs. In the case of the Jean-Bart they were computed at 24 per cent. The proportion is a purely arbitrary one.
+
+M. Klotz, then General Secretary (Rapporteur Général), has said in this connection:
+
+“In the cost of work done by arsenals the following expenses appear:
+
+a. Expenses of operating the workshops of the arsenal, etc.—labor expenses and cost of supplies (coal, dynamos of workshop motors, etc.), called undivided expenses.
+
+b. Expenses of equipment, applied especially to new construction: the small equipment used in building (tools, borers, electric apparatus, stationary, construction stocks, and a certain number of machine implements).
+
+Among general expenses are not included:
+
+c. Wrongly, we think, the salaries of technical employees, engineers, and their assistants engaged solely in construction work. These are paid according to regulations contained in special chapters of the budget. The cost of a ship constructed in the arsenal would be increased so much more.
+
+d. Rightly, the expenses of large equipment: An arsenal is necessary in time of war. From this viewpoint workshops, dry docks, derricks, etc., are prime necessities. In time of peace the state must choose between two problems: to leave this equipment unused, or to employ it in new construction. The state has an evident interest in adopting the second solution. As the equipment would exist even if there were no new construction, it is legitimate not to include expenses of this character in the cost of such construction.”
+
+Whatever else he may say M. Klotz at any rate acknowledges that general expenses are not accounted for in the Navy. The distinction which he makes between the material to be accounted for and the material not to be accounted for, in the cost of a ship, is a demonstration in itself of the arbitrary character of construction estimates: As equipment is used and replaced during times of peace, it is only just to add to the original cost of the products manufactured the cost of the equipment used in such manufacture.
+
+The Navy department had fixed the net cost per ton of the three steel cruisers, Jules Ferry, Léon Gambetta and Victor Hugo at 2,211 francs, 2,230 francs, and 2,286 francs, respectively.
+
+The Committee of Accounts on the work raised the general expenses from 12 to 23 per cent., so that the cost per ton came to 2,512 francs for the Léon Gambetta, 2,605 francs for the Victor Hugo, and 2,717 francs for the Jules Ferry, a cost higher than that of similar ships constructed by private companies. We quote in full the two estimates:
+
+In the case of the Jules Ferry a covered stocks was erected, which was used only once, because the Jules Ferry was the last large boat constructed at Cherbourg.
+
+5. In the report of M. Dalimier, on the postal, telegraph and telephone services, for the budget of 1912, repetitions of the usual complaints are to be found: Absence of preliminary estimates, apparent impossibility for the department to furnish any indication as to the total expenditures to be covered, etc.
+
+M. Dalimier says:
+
+“As presented, the budget of the postal, telegraph and telephone services is indefinite. It contains certain minute details which make the total absence or the insufficiency of information regarding really important expenses appear the more regrettable.
+
+“The utter lack of coördination results in the juxtaposition of partial accounts, prepared and presented with a disingenuousness which justifies all criticism:—general lack of method; too little attention to financial rules and true bookkeeping principles; no limit to the expenses when the sources of loans are abundant; accounts which are not sufficiently definite; frequent disorder in the preparation and execution of the work as well as in the management of the loans!”
+
+In Émil Dupont's report to the Senate, regarding this same budget, I read:
+
+“Many of these plans were not thoroughly developed when appropriations were asked for. In putting down 200,000 francs as the cost of inaugurating the work of enlarging the administrative offices of the service and rebuilding the Postoffice itself, the department was simply taking a figure at random. It acted in ignorance as to what part of the work the sum was to be applied, nor is the department yet aware, probably, how the money is to be divided between the two buildings which are to be rebuilt.
+
+“The same statement holds good in the case of the baggage department of the Eastern railway station of Paris. The department demanded 100,000 francs and found out afterward that 70,000 francs would suffice for 1912.
+
+“These overestimates in the case of important loans have been going on for some years, and are a direct result of the carelessness of those in charge of building loans. As further examples, we might cite the substations of Martignac, 120,000 francs; Rue Bertrand, 115,000 francs; and, in the city of Lyon, 316,000 francs.”
+
+The report of M. Dalimier shows up an ingenious administrative trick, characteristic of a particular psychological state.
+
+But let us take another very similar example of the same tendency. In 1911 the Postoffice department demanded a loan of 522,135 francs for work on various postoffices. In 1912 it asked again for an absolutely identical amount. The first loan was applied to work then going on; the second had for its object the depreciation of work concerning which there has never been any discussion, and which will require an expenditure of 585,000 francs.
+
+A “passion for spending” is characteristic of all public departments. The Dalimier report states that the work of reconstruction going on at the central telegraph office was started only by the aid of a loan of 100,000 francs obtained in 1908; and that each of the following years saw this figure grow, little by little, until it stopped finally at 979,000 francs, not including the 100,000 francs demanded in 1912 for the installation of a low-pressure heating system.
+
+The report of M. Dalimier also furnishes a certain number of characteristic figures concerning the Postoffice expenditures:
+
+In the case of the telephone office in the Rue des Archives the preliminary estimate of expenditures covering purchases of land and construction reached 1,900,000 francs, while the entire building will cost 2,692,202 francs. Assuming that half the building of the Bureau of Archives is to be devoted to a multiple switchboard, designed for 500 subscribers, each subscriber will cost the state 269 francs. It is true that “immense hallways and superb galleries, offices, rest rooms, and rooms open to 20,000 subscribers” are to be found there.
+
+6. The celebrated manufacturer, H. Laws Webb, at a meeting of the London Chamber of Commerce, on February 17, 1911, and the Spectator, as well, have made public the serious embarrassment which the operation of telegraph lines has entailed upon the English government.
+
+Forty-five years ago, in 1866, the government first proposed the purchase of the British telegraph lines, then valued at 57,500,000 francs ($10,925,000). Negotiations lasted about three years, or until 1869, when Parliament appropriated 175,000,000 francs ($33,250,000) for the carrying out of the purchase, or more than three times the original estimate. Moreover, the government was forced to pay a further sum of 100,000,000 francs ($19,000,000) to the railway companies for their rights over the telegraph lines established along the railroad tracks. Therefore, the complete acquisition of the undertaking cost the British government 275,000,000 francs ($52,250,000).
+
+It had been predicted that, during the course of some twenty years, the net returns from the operation of the telegraph would contribute toward a very sensible reduction of taxation. But this delusion quickly vanished. There was, it is true, a small net profit in the first two years of state operation, but afterward the receipts were never sufficient to meet the interest on the capital invested; and, during thirty-nine years, this enormous deficit has been borne by the Treasury, that is to say, by the people.
+
+Finally, under the pressure of public opinion, which had anticipated, as a consequence of such a measure, an increase in business and consequently of receipts, telegraph rates had to be reduced. The result, however, was exactly the opposite of what had been prophesied. On the one hand, the expenditures for maintenance and operation increased enormously under government administration, while the necessary keeping up to date of the installation rendered the receipts more and more insufficient and the demands on the Treasury more and more insistent.
+
+When one takes into account all the elements, and, more especially, the amount of the original capital, which has never been paid off, the advances made by Parliament, which have never drawn any interest, and the annual deficits on operation, the total commercial loss caused to the country by the purchase of the telegraph amounts at least to £35,000,000 ($170,450,000). The English taxpayer has not even the consolation of thinking that the government possesses an appreciable asset to offset this loss, because, in the case of this particular enterprise, each year of its operation entails a supplementary loss of more than 25,000,000 francs ($4,750,000). From a commercial point of view the purchase has been a complete failure.
+
+The English press makes the following comments: The partisans of government ownership invariably reply to the charge that the British telegraph lines have been a heavy financial burden to the taxpayers with the statement that the public has received compensation in the form of a better and cheaper service. This assertion is plausible, but not convincing. Even if it were sound, one would be forced to ask by what right the whole body of taxpayers is made to subsidize people making regular use of the telegraph but constituting a minority of the population? The expense of operation per million telegraphic words is actually more than it was thirty years ago in Great Britain.
+
+7. At a conference of postal employees, held at Leslie, April 18, 1911, Mr. Crossley declared that the Postal Savings Bank suffered an annual loss of 100,000 pounds sterling ($487,000), due to bad administration and bad investments.
+
+8. When I was a member of the Municipal Council of Paris, of the Chamber of Deputies, and the Budget Committee, I watched with the greatest interest the infinite pains taken by my colleagues to set down on paper (by decreasing the preliminary estimates of expenses and increasing the provisional receipts), a balance in which the receipts would present a more or less insignificant surplus. As General Secretary of the budget I was accustomed to place at the head of my report the estimated figures of the budgets, as voted, together with figures of the supplementary appropriations which usually had to be added during the year.
+
+In a long financial discourse before the Chamber of Deputies Fernand Faure defined the theory of two budgets: the estimated budget voted and the real budget spent.
+
+At the present time the Chamber of Deputies spends weeks in examining the plan of the budget. On October 23, 1884, in one single sitting the accounts of 1871, 1872, 1873, and 1874 were approved. In one single sitting, also, the accounts of 1876, 1877, 1878, 1879, were accepted and this 11, 10, 9, and 8 years, respectively, after the close of the years concerned.
+
+In 1912 the Committee on Final Accounts of the budget decided to examine in detail the accounts submitted to it. The first report, published in July of the same year, and the work of Louis Marin, relates to the accounts of the minister of Foreign Affairs for 1907. It lays bare the following facts:
+
+1. That the various expenditures are often set down in such fashion as to conceal the real object of the expenditure.
+
+2. That inaccuracy in deduction and confusion of matter are the rule.
+
+3. That violations of the regulations in force are chronic.
+
+4. That a great number of sales made in the name of the department are irregular or fictitious.
+
+5. That waste abounds, and that, whereas many employees are paid too little, others benefit by unjustifiable generosity.
+
+Now the department of Foreign Affairs has nothing to produce, nothing to sell. It does not need any special equipment for the carrying on of its work. It does not have to watch the market price of supplies and to buy them under the best possible conditions. In a word, it does not have to do any of the things required of a trading enterprise, in seeking openings, etc. Its staff is easy to manage, and has the reputation of being devoted. What would happen, then, if the department were called upon to manage a commercial undertaking?
+
+9. All extravagant departments try to negotiate appropriations in a more or less round-about manner.
+
+We have worked out a grand naval program, which is to extend over a period from 1912 to January 1, 1920. Its object is to add units to our fleet and to increase the facilities of the ports which are to receive them.
+
+The outline of the plan includes a certain Article 9 which authorizes the government to construct ships enumerated in a certain schedule “A” in such manner as will insure the completion of sixteen men-of-war on January 1, 1920. The two paragraphs read as follows:
+
+“The expenses of carrying on the new construction will be provided for by entering the annual appropriations mentioned in schedule ‘B’ upon the budget for the fiscal years 1912–1919.
+
+“In case the expenditures of one fiscal year should be greater than the provisions of the said schedule warrant, the excess shall be carried over by anticipation to the appropriations for the following year within a maximum limit fixed each year by the Finance Law.”
+
+The construction work to be carried out between January 1, 1912, and January 1, 1920, will involve, according to the original plan of 1910, an expenditure of 1,326,000 francs. The recent loss of the Liberté has increased the amount in round figures to 1,400,000,000 francs ($266,000,000).
+
+The government was anxious, and rightly so, to charge these loans to ordinary expenditures. Yet it resorted to eating its corn before it was ripe, like Panurge. And this roundabout method was finally adopted by the Chamber of Deputies.
+
+Two estimates were made, one indicating the actual amount to be expended per year for new construction; the other showing the distribution of the annual appropriations over the entire period.
+
+The appropriations for 1912, 1913, and 1914 were the smallest for the period, while the proposed expenses were at their maximum in 1913 and 1914. The two estimates in detail were as follows:
+
+Up to 1916 the expenditures exceed the appropriations by 139,295,000 francs ($26,466,050), but the Navy is empowered to carry over the excess by anticipation upon the appropriations of the following years. The sole check to such mortgaging of the future is a provision permitting Parliament to fix a maximum each year in the Finance Law.
+
+Thus the custom of advances from the Treasury, which are to grow from year to year, has been firmly established. The Chamber of Deputies has specified, in the hope of decreasing the figure, “that the excess shall be regulated with the help of supplemental credits'—a practical application of the method of balancing budgets by means of supplementary appropriations.
+
+Senator Gauthier, for the Finance Committee, brought forward strong objections to this system, which he justly described as a “disguised loan, or a loan by annual installments.” He pointed out all the frauds which would result.
+
+“The system of anticipations and that of supplementary credits superimposed upon it, has the advantage of authorizing and legalizing expenditures not covered by the original appropriations; but it does not create any new revenue. The deficit still exists.”
+
+Each man-of-war had been estimated at a uniform cost of 62,525,000 francs, when made in the arsenals, and 64,000,000 francs in private shipyards. As a matter of fact, they have all cost exactly the same, except the new Liberté, constructed by the government, which cost 72,000,000 francs. England and Germany are providing battleships of 26,000 tons. Will we be long content with only thirteen battleships in the dockyards?
+
+The minister of Finance “agreed to insert into the Finance Law of 1913 clauses purporting to cover by corresponding available resources the entire amount of expenditures incurred, which expenses will thus appear, at the end of the period of construction, as arranged for by the law providing for the naval program.” In so doing he acknowledged the soundness of the criticisms of Article 9, made by the finance committee of the Senate. But he had already accepted for himself, and he has made the Chamber of Deputies accept his system.
+
+I cite this case to show by what processes a department may attempt to secure resources by the help of disguised loans. It tries to escape from a unified budget by all sorts of devious methods.
+
+We can judge to what plundering the general budget would be handed over if each department had its own autonomous industrial budget.

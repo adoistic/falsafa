@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 61,
+  "chapter_title": "Memoir of the Affairs of Holland. ad 1667—1686.",
+  "chapter_slug": "61-memoir-of-the-affairs-of-holland-ad-1667-1686",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "994a5fdf-b020-5185-b255-bcab9384f7a8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10226,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

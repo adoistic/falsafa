@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 4
-chapter_title: "Chapter III: OF THE FOUR SANCTIONS OR SOURCES OF PAIN AND PLEASURE"
+chapter_title: "Chapter III: Of the Four Sanctions or Sources of Pain and Pleasure"
 chapter_slug: 04
 variant_id: "9806205a-4554-5c7c-8b8e-027c531434e8"
 content_type: translation

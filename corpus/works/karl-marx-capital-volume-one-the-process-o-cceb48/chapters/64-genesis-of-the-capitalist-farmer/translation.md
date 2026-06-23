@@ -1,0 +1,25 @@
+---
+work_id: "cceb4809-0676-582f-b7d7-8bfd1fe8c656"
+work_slug: "karl-marx-capital-volume-one-the-process-o-cceb48"
+work_title: "Capital, Volume One: The Process of Production of Capital"
+author_name: Karl Marx
+chapter_number: 64
+chapter_title: Genesis of the Capitalist Farmer
+chapter_slug: "64-genesis-of-the-capitalist-farmer"
+variant_id: "a5f5bc6b-2b9a-52b6-ae53-5f50b8424499"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 591
+source_url: "https://www.marxists.org/archive/marx/works/1867-c1/ch29.htm"
+translator: Samuel Moore and Edward Aveling
+---
+
+Now that we have considered the forcible creation of a class of outlawed proletarians, the bloody discipline that turned them into wage labourers, the disgraceful action of the State which employed the police to accelerate the accumulation of capital by increasing the degree of exploitation of labour, the question remains: whence came the capitalists originally? For the expropriation of the agricultural population creates, directly, none but the greatest landed proprietors. As far, however, as concerns the genesis of the farmer, we can, so to say, put our hand on it, because it is a slow process evolving through many centuries. The serfs, as well as the free small proprietors, held land under very different tenures, and were therefore emancipated under very different economic conditions. In England the first form of the farmer is the bailiff, himself a serf. His position is similar to that of the old Roman villicus, only in a more limited sphere of action. During the second half of the 14th century he is replaced by a farmer, whom the landlord provided with seed, cattle and implements. His condition is not very different from that of the peasant. Only he exploits more wage labour. Soon he becomes a metayer, a half-farmer. He advances one part of the agricultural stock, the landlord the other. The two divide the total product in proportions determined by contract. This form quickly disappears in England, to give the place to the farmer proper, who makes his own capital breed by employing wage labourers, and pays a part of the surplus-product, in money or in kind, to the landlord as rent. So long, during the 15th century, as the independent peasant and the farm-labourer working for himself as well as for wages, enriched themselves by their own labour, the circumstances of the farmer, and his field of production, were equally mediocre. The agricultural revolution which commenced in the last third of the 15th century, and continued during almost the whole of the 16th (excepting, however, its last decade), enriched him just as speedily as it impoverished the mass of the agricultural people.
+
+The usurpation of the common lands allowed him to augment greatly his stock of cattle, almost without cost, whilst they yielded him a richer supply of manure for the tillage of the soil. To this was added in the 16th century a very important element. At that time the contracts for farms ran for a long time, often for 99 years. The progressive fall in the value of the precious metals, and therefore of money, brought the farmers golden fruit. Apart from all the other circumstances discussed above, it lowered wages. A portion of the latter was now added to the profits of the farm. The continuous rise in the price of corn, wool, meat, in a word of all agricultural produce, swelled the money capital of the farmer without any action on his part, whilst the rent he paid (being calculated on the old value of money) diminished in reality. Thus they grew rich at the expense both of their labourers and their landlords. No wonder, therefore, that England, at the end of the 16th century, had a class of capitalist farmers, rich, considering the circumstances of the time.
+
+Footnotes 1. Harrison in his “Description of England,” says “although peradventure foure pounds of old rent be improved to fortie, toward the end of his term, if he have not six or seven yeares rent lieng by him, fiftie or a hundred pounds, yet will the farmer thinke his gaines verie small.”

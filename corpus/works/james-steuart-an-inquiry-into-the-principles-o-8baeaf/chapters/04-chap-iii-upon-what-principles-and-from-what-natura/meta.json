@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 4,
+  "chapter_title": "Chap. III Upon what Principles, and from what natural Causes do Mankind multiply? And what are the Effects of Procreatio",
+  "chapter_slug": "04-chap-iii-upon-what-principles-and-from-what-natura",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3bd1b24f-7dcd-5908-b458-0cb37558834e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1315,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book1.htm"
+    }
+  ]
+}

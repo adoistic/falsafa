@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 51,
+  "chapter_title": "Chpt. 14 Night Fighting",
+  "chapter_slug": "51-chpt-14-night-fighting",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8388bec4-8ff6-5d9b-8e5d-93547aa97de7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1736,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book4/ch14.htm"
+    }
+  ]
+}

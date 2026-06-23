@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-the-tyranny-of-socialism-1e5c8b",
+  "work_title": "The Tyranny of Socialism",
+  "chapter_number": 41,
+  "chapter_title": "Chapter II, The Causes of Strikes.",
+  "chapter_slug": "41",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10c99410-1120-540b-9550-6b942e6e9d21",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 898,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-the-tyranny-of-socialism"
+    }
+  ]
+}

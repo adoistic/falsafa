@@ -1,0 +1,26 @@
+{
+  "work_slug": "evgeni-preobrazhensky-the-perspectives-of-the-new-econ-4057da",
+  "work_title": "The Perspectives of the New Economic Policy",
+  "chapter_number": 1,
+  "chapter_title": "The Perspectives of the New Economic Policy",
+  "chapter_slug": "01-the-perspectives-of-the-new-economic-policy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8de41847-dcf1-5094-a536-f1629cf3f919",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2349,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/preobrazhensky/1921/12/perspectives.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 6,
+  "chapter_title": "IV. Books and Early Conflicts",
+  "chapter_slug": "06-iv-books-and-early-conflicts",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "428d6c44-8988-5e00-8d15-dd214eca52c1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7595,
+      "paragraph_count": 68,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch04.htm"
+    }
+  ]
+}

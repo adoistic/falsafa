@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 31,
+  "chapter_title": "Letter 31",
+  "chapter_slug": "31-letter-31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "faaa2ad3-e59f-594f-9cf1-c61c206d4a5c",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ae71f26-4644-5855-acec-1a6021bcfd5f",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1022,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

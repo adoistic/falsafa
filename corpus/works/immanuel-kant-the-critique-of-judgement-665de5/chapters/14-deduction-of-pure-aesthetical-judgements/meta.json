@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 14,
+  "chapter_title": "Deduction of [Pure] Aesthetical Judgements",
+  "chapter_slug": "14-deduction-of-pure-aesthetical-judgements",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "59c7362e-c214-5032-9131-2e1dfb0af38c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 21261,
+      "paragraph_count": 128,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

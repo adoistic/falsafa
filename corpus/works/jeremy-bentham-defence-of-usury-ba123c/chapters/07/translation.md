@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 7
-chapter_title: "LETTER VII.: Efficacy of anti-usurious laws."
+chapter_title: "Letter VII.: Efficacy of anti-usurious laws."
 chapter_slug: 07
 variant_id: "90596d69-2865-5344-b7d7-ac9df41041fb"
 content_type: translation

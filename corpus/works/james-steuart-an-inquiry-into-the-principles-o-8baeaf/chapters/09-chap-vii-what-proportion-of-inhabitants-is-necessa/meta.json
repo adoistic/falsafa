@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 9,
+  "chapter_title": "Chap. VII What Proportion of Inhabitants is necessary for Agriculture, and what Proportion may be usefully employed in e",
+  "chapter_slug": "09-chap-vii-what-proportion-of-inhabitants-is-necessa",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a3bb5eb4-3c0f-54bc-8322-ba71fb5f5a31",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1575,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book1_05.htm"
+    }
+  ]
+}

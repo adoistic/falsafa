@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 28,
+  "chapter_title": "Lenin’s Three Arguments.",
+  "chapter_slug": "28-lenin-s-three-arguments",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c780b66-9755-58a5-be8c-af7f345d1f40",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 164,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

@@ -13,9 +13,9 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 145
+word_count: 141
 source_url: "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
 translator: Online Library of Liberty edition
 ---
 
-He repressed his high faculties to employ them in making himself an able arithmetician, an excellent book-keeper. More than once when, become a man, he had to weigh with deep thought the interests of the masses, to calculate the results of labour, to compare wages, to throw light on the entangled questions of capital and income, to hold the balance of exchange between nations; more than once must he have congratulated himself on the energy with which he applied to studies which were at first distasteful to him. All those who had any money transactions with him (he was soon at the head of the house) had reason, on their side, to bless that Edition: current; Page: [26] exactness, that punctuality, that spirit of order, so often unknown to artists and men of letters, and which Sismondi owed to the conscientious labours of his youth.
+He repressed his high faculties to employ them in making himself an able arithmetician, an excellent book-keeper. More than once when, become a man, he had to weigh with deep thought the interests of the masses, to calculate the results of labour, to compare wages, to throw light on the entangled questions of capital and income, to hold the balance of exchange between nations; more than once must he have congratulated himself on the energy with which he applied to studies which were at first distasteful to him. All those who had any money transactions with him (he was soon at the head of the house) had reason, on their side, to bless that exactness, that punctuality, that spirit of order, so often unknown to artists and men of letters, and which Sismondi owed to the conscientious labours of his youth.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 33,
+  "chapter_title": "XXXI. Negotiations at Brest-Litovsk",
+  "chapter_slug": "33-xxxi-negotiations-at-brest-litovsk",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b72ddaee-7d73-50eb-9888-6c08e06040c9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6522,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch31.htm"
+    }
+  ]
+}

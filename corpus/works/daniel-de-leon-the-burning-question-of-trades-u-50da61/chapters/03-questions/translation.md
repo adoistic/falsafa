@@ -1,0 +1,47 @@
+---
+work_id: "50da613e-ff86-5d72-a801-64934ea5dcd2"
+work_slug: "daniel-de-leon-the-burning-question-of-trades-u-50da61"
+work_title: The Burning Question of Trades Unionism
+author_name: Daniel De Leon
+chapter_number: 3
+chapter_title: Questions
+chapter_slug: "03-questions"
+variant_id: "1a808a11-adbb-5574-b598-39eab16e21ef"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1304
+source_url: "https://www.marxists.org/archive/deleon/works/1904/040421.htm"
+translator: Marxists Internet Archive edition
+---
+
+WILLIAM WALKER: I desire to ask the speaker whether he considers it wise for a political party to identify itself with a trades union organization if such identification causes the political party to be kept back?
+
+ANSWER: This question is a begging of the question. It proceeds from assuming as settled the very premises that are under discussion. It proceeds from the assumption which I denied, that a party of Socialism can ignore the trades union. I shall nevertheless answer it. It enables me to take up the question by entering through another gate.
+
+Some eight months ago, when I last delivered an address here in Newark, a gentleman who is now associated with the questioner in setting up here in Newark a so-called Essex County Independent Socialist Club, Mr. Harry Carless, spoke after me and said in substance”the gentleman who just asked the question was present, he will admit that I quote my critic of that day correctly. My critic said: “The Socialist Labor Party should have nothing to do with the trades unions. Affiliation with trades unions keeps the party back. A political party wants to take in as many people as possible. It wants to be as large as possible. A union does not. I am a member of a union, the Silver Polishers’, and I am also a Socialist. My union had a meeting this afternoon; all that they want is to get higher wages and to keep all others of the trade out. They adopted a resolution along this line, and I voted with them in the interest of the organization. Now, their position, like that of all unions, is purely selfish. What has the Socialist Labor Party to do with such things? It should keep its hands off. If it does not it will suffer.”
+
+My answer was this: “The gentleman furnishes me with the very facts that overthrow him. He is a member of a trades union that wishes to keep out applicants. What would be his fix in a Socialist party? Say his Socialist organization is in session in the evening, and the men whom he, along with the other members of his trades union, refused admission in the afternoon, knock at the door applying for membership. What will he do? He correctly stated that a political party needs numbers. He will have to admit them into his Socialist party organization. And what will happen when those men come in and hear him making a grandiloquent speech on the `solidarity of labor,’ on the `necessity of workingmen to unite,’ on the `brotherhood of the wage slave,’ and on all those things that a Socialist, a good Socialist, as the gentleman says he is, is bound to emphasize? What do you think will happen, when the men whom he has just voted to keep out of his union hear him thus glibly declaiming? Why, they’ll say he is a hypocrite; they’ll denounce him roundly for preaching one thing and practicing another. They will even bring charges against him. And, if his organization is really a Socialist organization, he will be expelled and justly so. But even if it does not come so far, he will have discovered that a Socialist party cannot play ostrich on the economic or trades union question. If it is a party of Socialism, it is a party of labor. In a party of Socialism the trades union is latent. It cannot be ignored. It will not ignore you.”
+
+“But suppose,” I went on to say, “that, feeling a presentiment of what is in store for him if he votes to admit them into his party organization, he votes to keep them out. What will he have done then? He will have impressed upon his political organization, which wants large numbers, the characteristics of the backward pure and simple union with which he blandly floats along”another evidence that the trades union question is bound to assert itself.”
+
+Was not that the answer I gave your friend? With what face can you, then, come here tonight and ask the question that you did?
+
+There is no such thing as a political party of labor “having nothing to do with the unions.” It must have. It must either inspire the union with the broad, political purpose, and thus dominate it by warring on the labor faker and on the old guild notions that hamstring the labor movement, or it is itself dragged down to the selfish trade interests of the economic movement, and finally drawn down into the latter’s subservience to the capitalist interests that ever fasten themselves to the selfish trade interests on which the labor faker, or labor lieutenant of the capitalist class, thrives.
+
+The notion implied in the words of our friend who asked the question, the notion that numbers is the important thing and not soundness, often leads to bizarre results. A recent instance is striking.
+
+At the late annual convention of Gompers’ A. F. of L., Max Hayes, of the said so-called Socialist party, introduced a Socialist resolution. The resolution was snowed under by a veritable avalanche of something like 11,000 votes. About a month later, the Socialist Trade and Labor Alliance held its annual convention. The S.T. and L.A. is a trades union built strictly upon the Socialist lines of the resolution which Max Hayes introduced in Boston. But the S.T. and L.A. is a very much smaller body. At its annual convention it numbered barely twenty delegates. Now, then, what do we find Mr. Max Hayes saying about the S.T. and L.A. convention? He ridiculed it on account of its numbers. He, who had just been flattened out like a pancake by a huge anti-Socialist convention, seemed proud of having been in a big crowd, and peeping from under the numerous heels that trampled upon him, had jeers only for the smallness of the body that nevertheless upheld the principles which, in his hand, lay flattened out beside him, flattened out by a numerous body.
+
+Such are the fruits, the mental somersaults, of a chase after numbers. It is nothing short of idiocy. The head of the lance that rushes forward shaftless, rushes forward uselessly. It should move no faster than its shaft.
+
+The “Socialist” party that dances to the fiddle of labor-dividing pure and simpledom, may for a while get more votes than the Socialist Labor Party; but it never will “get there"; a miss is as good as a mile on the “get there” run.
+
+Moreover, the slowlier going S.L.P., that is not a flypaper concern, and never sacrifices sense for votes, is a real educator. When the time for votes shall have ripened, that party will have them”will have the votes, plus the requisite knowledge”while the S. P. will have melted away, seeing it only had votes, and could not possibly, in view of its contradictory and flypaper conduct, have men back of its vote.
+
+JOHN J. KINNEALLY: We see what is going on in Colorado today. Pure and simple unionism is said to have over 2,000,000 members. I wish to ask the speaker if he thinks such outrages would be possible if those 2,000,000 were in the S.T. and L.A.?
+
+ANSWER: Two millions of S.T. and L. A. men would mean 2,000,000 men swayed by S.L.P. sense, vigor, manliness and determination. It would mean 2,000,000 men moving, because they felt as one man, and, consequently, feeling and moving right. Large masses cannot feel and move as one if they are in error. Error is manifold; it scatters. Truth only is onefold, it alone unites. Such a number as 2,000,000 S.L.P. men in the land would produce such a sentiment and resulting actions that capitalism would melt like wax. The thing, then, is to build up S.L.P. men. Let that be all serious men’s endeavor.

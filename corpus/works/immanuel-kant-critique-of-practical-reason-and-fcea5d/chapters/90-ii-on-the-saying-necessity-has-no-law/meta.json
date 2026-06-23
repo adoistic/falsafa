@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 90,
+  "chapter_title": "II.: —On the Saying “Necessity Has No Law”.",
+  "chapter_slug": "90-ii-on-the-saying-necessity-has-no-law",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "17d10418-97a6-5a40-b23c-0367426ff476",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 15186,
+      "paragraph_count": 187,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

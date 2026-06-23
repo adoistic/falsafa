@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 11
-chapter_title: "SECT. III.: Of the Policy of the War with America."
+chapter_title: "Sect. III.: Of the Policy of the War with America."
 chapter_slug: "11-sect-iii-of-the-policy-of-the-war-with-america"
 variant_id: "8533ccbd-4006-5f77-b5a5-0addc03d9fb4"
 content_type: translation

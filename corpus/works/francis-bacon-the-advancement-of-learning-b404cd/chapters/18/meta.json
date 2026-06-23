@@ -2,7 +2,7 @@
   "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
   "work_title": "The Advancement of Learning",
   "chapter_number": 18,
-  "chapter_title": "CHAPTER XI",
+  "chapter_title": "Chapter XII",
   "chapter_slug": "18",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 465,
-      "paragraph_count": 4,
+      "word_count": 281,
+      "paragraph_count": 5,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
     }

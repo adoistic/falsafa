@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 11
-chapter_title: "BOOK III, CHAPTER III: GRADATIONS OF CONSUMERS' DEMAND."
+chapter_title: "Book III, Chapter III: Gradations of Consumers' Demand."
 chapter_slug: 11
 variant_id: "f469420c-cd7a-58e4-a3a8-63485d2ec357"
 content_type: translation

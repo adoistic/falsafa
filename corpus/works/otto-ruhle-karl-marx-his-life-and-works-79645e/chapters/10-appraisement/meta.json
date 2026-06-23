@@ -1,0 +1,26 @@
+{
+  "work_slug": "otto-ruhle-karl-marx-his-life-and-works-79645e",
+  "work_title": "Karl Marx: His Life and Works",
+  "chapter_number": 10,
+  "chapter_title": "Appraisement",
+  "chapter_slug": "10-appraisement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "25a8f4ea-71e3-5c6c-99ce-3be08f7f594b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9304,
+      "paragraph_count": 81,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/ruhle/1928/marx/ch10.htm"
+    }
+  ]
+}

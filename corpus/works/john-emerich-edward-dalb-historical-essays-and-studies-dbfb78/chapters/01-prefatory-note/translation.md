@@ -4,7 +4,7 @@ work_slug: "john-emerich-edward-dalb-historical-essays-and-studies-dbfb78"
 work_title: Historical Essays and Studies
 author_name: "John Emerich Edward Dalberg-Acton (Lord Acton)"
 chapter_number: 1
-chapter_title: PREFATORY NOTE
+chapter_title: Prefatory Note
 chapter_slug: "01-prefatory-note"
 variant_id: "c72be877-d319-5f2f-b83a-93743b3c1d2b"
 content_type: translation

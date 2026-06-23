@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 126,
+  "chapter_title": "Chapter LXXV — Science",
+  "chapter_slug": "126",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d63aac5-b20d-56e1-b9a2-6837da4e7037",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 220,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

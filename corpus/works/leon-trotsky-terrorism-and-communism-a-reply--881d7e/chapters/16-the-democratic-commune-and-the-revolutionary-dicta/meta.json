@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-terrorism-and-communism-a-reply--881d7e",
+  "work_title": "Terrorism and Communism: A Reply to Karl Kautsky",
+  "chapter_number": 16,
+  "chapter_title": "The Democratic Commune and the Revolutionary Dictatorship",
+  "chapter_slug": "16-the-democratic-commune-and-the-revolutionary-dicta",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3a487c82-ab51-5953-bf4c-f21d6c723f15",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2350,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1920/terrcomm/ch05.htm"
+    }
+  ]
+}

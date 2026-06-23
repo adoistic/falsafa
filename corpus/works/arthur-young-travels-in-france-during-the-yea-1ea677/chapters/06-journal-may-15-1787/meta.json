@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-young-travels-in-france-during-the-yea-1ea677",
+  "work_title": "Travels in France during the Years 1787, 1788, 1789",
+  "chapter_number": 6,
+  "chapter_title": "Journal. May 15, 1787.",
+  "chapter_slug": "06-journal-may-15-1787",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3f1e4db9-1fb8-56b8-b89e-814d02fae2ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 112326,
+      "paragraph_count": 411,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/young-arthur-youngs-travels-in-france-during-the-years-1787-1788-1789"
+    }
+  ]
+}

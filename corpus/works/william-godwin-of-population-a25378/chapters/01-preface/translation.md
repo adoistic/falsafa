@@ -4,7 +4,7 @@ work_slug: "william-godwin-of-population-a25378"
 work_title: Of Population
 author_name: William Godwin
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "e2c4c9c8-98d5-5b1a-b7cf-1af476f3cef1"
 content_type: translation

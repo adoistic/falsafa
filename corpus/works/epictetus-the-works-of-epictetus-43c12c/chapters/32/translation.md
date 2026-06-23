@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 32
-chapter_title: "CHAPTER XXVIII.: THAT WE OUGHT NOT TO BE ANGRY WITH MANKIND. WHAT THINGS ARE LITTLE, WHAT GREAT, AMONG MEN."
+chapter_title: "Chapter XXVIII.: That We Ought Not to Be Angry with Mankind. What Things Are Little, What Great, Among Men."
 chapter_slug: 32
 variant_id: "de1b1b2a-fe0d-5852-bbb3-8d8ec0d76d20"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1101
+word_count: 1093
 source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
 translator: Online Library of Liberty edition
 ---
@@ -38,7 +38,7 @@ Why, then, are you angry with her, that the unhappy woman is deceived in the mos
 
 “So then, have all the great and dreadful deeds, that have been done in the world, no other origin than [true or false] appearances?”
 
-Absolutely, no other. The Iliad consists of nothing but such appearances and their results. It seemed to Paris that he should carry off the wife of Menelaus. It seemed to Helen, that she should follow Edition: current; Page: [81] him. If, then, it had seemed to Menelaus, that it was an advantage to be robbed of such a wife, what could have happened? Not only the Iliad had been lost, but the Odyssey too.
+Absolutely, no other. The Iliad consists of nothing but such appearances and their results. It seemed to Paris that he should carry off the wife of Menelaus. It seemed to Helen, that she should follow him. If, then, it had seemed to Menelaus, that it was an advantage to be robbed of such a wife, what could have happened? Not only the Iliad had been lost, but the Odyssey too.
 
 “Do such great events, then, depend on so small a cause?”
 
@@ -74,4 +74,4 @@ Whence do you conclude them such? Pray inform me, in my turn.
 
 “Nay; but whence do you affirm that they are not evils?”
 
-Recur to the rules. Apply your principles. One cannot sufficiently wonder at what happens among men. When we would judge of light and heavy, we do not judge by guess; nor when we judge of straight and crooked; and, in general, when it concerns us to know the truth on any special point, no one of us will do anything by guess. But where the first and principal source of right or wrong action is concerned, of being prosperous or unprosperous, Edition: current; Page: [83] happy or unhappy; there only do we act rashly, and by guess. Nowhere anything like a balance; nowhere anything like a rule; but something seems thus or so to me, and I at once act accordingly. For am I better than Agamemnon or Achilles; that they, by following what seemed best to them, should do and suffer so many things, and yet that seeming should not suffice me? And what tragedy hath any other origin? The Atreus of Euripides, what is it? Seeming. The Œdipus of Sophocles? Seeming. The Phœnix? The Hippolytus? All seeming. Who then, think you, can escape this influence? What are they called who follow every seeming? Madmen. Yet do we, then, behave otherwise?
+Recur to the rules. Apply your principles. One cannot sufficiently wonder at what happens among men. When we would judge of light and heavy, we do not judge by guess; nor when we judge of straight and crooked; and, in general, when it concerns us to know the truth on any special point, no one of us will do anything by guess. But where the first and principal source of right or wrong action is concerned, of being prosperous or unprosperous, happy or unhappy; there only do we act rashly, and by guess. Nowhere anything like a balance; nowhere anything like a rule; but something seems thus or so to me, and I at once act accordingly. For am I better than Agamemnon or Achilles; that they, by following what seemed best to them, should do and suffer so many things, and yet that seeming should not suffice me? And what tragedy hath any other origin? The Atreus of Euripides, what is it? Seeming. The Œdipus of Sophocles? Seeming. The Phœnix? The Hippolytus? All seeming. Who then, think you, can escape this influence? What are they called who follow every seeming? Madmen. Yet do we, then, behave otherwise?

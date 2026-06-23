@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-theory-of-permanent-revoluti-a2fcb1",
+  "work_title": "The Theory of Permanent Revolution",
+  "chapter_number": 2,
+  "chapter_title": "The General Estimation of our Revolution.",
+  "chapter_slug": "02-the-general-estimation-of-our-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e0310be2-0a82-5a30-b756-bfc38c255529",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2736,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1924/permanent-revolution/index.htm"
+    }
+  ]
+}

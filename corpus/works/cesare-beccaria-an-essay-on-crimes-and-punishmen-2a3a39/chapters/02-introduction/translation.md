@@ -4,7 +4,7 @@ work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
 work_title: An Essay on Crimes and Punishments
 author_name: Cesare Beccaria
 chapter_number: 2
-chapter_title: INTRODUCTION.
+chapter_title: Introduction.
 chapter_slug: "02-introduction"
 variant_id: "fa94b164-f714-5d90-8153-cd848d4035ff"
 content_type: translation
@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 625
+word_count: 621
 source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
 translator: Online Library of Liberty edition
 ---
 
-In every human society, there is an effort continually tending to confer on one part the height of power and happiness, and to reduce the other to the extreme of weakness and misery. The intent of good laws is to oppose this effort, and to diffuse their influence universally and equally. But men generally abandon the care of their most important concerns to the uncertain prudence and discretion of those, whose interest it is to reject the best and wisest institutions; and it is not till they have been led into a thousand mistakes, in matters the most essential to their lives and liberties, and are weary of suffering, that they can be induced to apply a remedy to the evils with which Edition: current; Page: [12] they are oppressed. It is then they begin to conceive, and acknowledge the most palpable truths, which, from their very simplicity, commonly escape vulgar minds, incapable of analysing objects, accustomed to receive impressions without distinction, and to be determined rather by the opinions of others, than by the result of their own examination.
+In every human society, there is an effort continually tending to confer on one part the height of power and happiness, and to reduce the other to the extreme of weakness and misery. The intent of good laws is to oppose this effort, and to diffuse their influence universally and equally. But men generally abandon the care of their most important concerns to the uncertain prudence and discretion of those, whose interest it is to reject the best and wisest institutions; and it is not till they have been led into a thousand mistakes, in matters the most essential to their lives and liberties, and are weary of suffering, that they can be induced to apply a remedy to the evils with which they are oppressed. It is then they begin to conceive, and acknowledge the most palpable truths, which, from their very simplicity, commonly escape vulgar minds, incapable of analysing objects, accustomed to receive impressions without distinction, and to be determined rather by the opinions of others, than by the result of their own examination.
 
 If we look into history we shall find that laws which are, or ought to be, conventions between men in a state of freedom, have been, for the most part, the work of the passions of a few, or the consequences of a fortuitous or temporary necessity; not dictated by a cool examiner of human nature, who knew how to collect in one point the actions of a multitude, and had this only end in view, the greatest happiness of the greatest number. Happy are those few nations who have not waited till the slow succession of human vicissitudes should, from the extremity of evil, produce a transition to good; but, by prudent laws, have facilitated the progress from one to the other! And how great are the obligations due from mankind to that philosopher, who, from the obscurity of his closet, had the courage to scatter among the multitude the seeds of useful truths, so long unfruitful!
 

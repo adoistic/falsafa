@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-karl-marx-a-brief-biographical-s-bc9f04",
+  "work_title": "Karl Marx: A Brief Biographical Sketch With an Exposition of Marxism",
+  "chapter_number": 5,
+  "chapter_title": "Socialism",
+  "chapter_slug": "05-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8785522f-1b00-5580-b684-3d0d98f125e4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1294,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1914/granat/ch04.htm"
+    }
+  ]
+}

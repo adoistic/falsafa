@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 29,
+  "chapter_title": "38. All merchandize is a representative pledge of every object of commerce, but more or less commodities for use, as it ",
+  "chapter_slug": "29-38-all-merchandize-is-a-representative-pledge-of-e",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a5d93f8b-d041-5a05-98a8-43d12c573b2c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 131,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 9,
+  "chapter_title": "Oration 10",
+  "chapter_slug": "09-oration-10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3534742e-6d60-53de-b91c-6fcd09788407",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2421,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f56e2165-034e-54e7-9bd1-590eb17a6581",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3166,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "bruce-smith-liberty-and-liberalism-163e57"
 work_title: Liberty and Liberalism
 author_name: Bruce Smith
 chapter_number: 2
-chapter_title: LIST OF AUTHORS QUOTED OR CONSULTED.
+chapter_title: List of Authors Quoted or Consulted.
 chapter_slug: "02-list-of-authors-quoted-or-consulted"
 variant_id: "010ee1e8-4377-5083-a055-3b853df0fbe1"
 content_type: translation

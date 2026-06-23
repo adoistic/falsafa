@@ -4,7 +4,10 @@ slug: "julius-caesar-gallic-war-83f999"
 title: Gallic War
 author:
   name: Julius Caesar
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman general and statesman whose campaigns and civil war ended the Republic. His two surviving commentaries narrated his Gallic campaigns and the war against Pompey in a spare third-person prose that became a model of Latin military narrative."
+  birth_year: -100
+  death_year: -44
+  nationality: Roman
 era: Hellenistic
 genre: Classics
 language: Latin

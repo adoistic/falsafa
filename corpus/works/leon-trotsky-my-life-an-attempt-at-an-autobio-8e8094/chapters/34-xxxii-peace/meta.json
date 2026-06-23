@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 34,
+  "chapter_title": "XXXII. Peace",
+  "chapter_slug": "34-xxxii-peace",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fbc422f0-ebe6-5db3-93ae-52c295cbb003",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6061,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch32.htm"
+    }
+  ]
+}

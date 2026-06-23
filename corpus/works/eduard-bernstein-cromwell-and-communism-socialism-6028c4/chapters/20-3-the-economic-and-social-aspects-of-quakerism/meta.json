@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-cromwell-and-communism-socialism-6028c4",
+  "work_title": "Cromwell and Communism: Socialism and Democracy in the Great English Revolution",
+  "chapter_number": 20,
+  "chapter_title": "3. The Economic and Social Aspects of Quakerism",
+  "chapter_slug": "20-3-the-economic-and-social-aspects-of-quakerism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "45f8b131-c64b-5a31-b05c-9bd41d792db3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1865,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1895/cromwell/16-quakers.htm"
+    }
+  ]
+}

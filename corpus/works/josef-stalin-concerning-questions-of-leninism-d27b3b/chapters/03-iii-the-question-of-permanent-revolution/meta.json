@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-concerning-questions-of-leninism-d27b3b",
+  "work_title": "Concerning Questions of Leninism",
+  "chapter_number": 3,
+  "chapter_title": "III the Question of “Permanent” Revolution",
+  "chapter_slug": "03-iii-the-question-of-permanent-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2df3ad24-ffb9-512a-a0b8-cbefe309c3c9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 700,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1926/01/25.htm"
+    }
+  ]
+}

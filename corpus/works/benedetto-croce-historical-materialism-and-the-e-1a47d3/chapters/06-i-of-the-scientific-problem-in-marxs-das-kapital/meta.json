@@ -1,0 +1,26 @@
+{
+  "work_slug": "benedetto-croce-historical-materialism-and-the-e-1a47d3",
+  "work_title": "Historical Materialism and the Economics of Karl Marx",
+  "chapter_number": 6,
+  "chapter_title": "I. Of the Scientific Problem in Marx's Das Kapital",
+  "chapter_slug": "06-i-of-the-scientific-problem-in-marxs-das-kapital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6afad9c0-4f54-5888-83b5-015aae0878d6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3897,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/croce/works/marx/ch03.htm"
+    }
+  ]
+}

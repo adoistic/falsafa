@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-the-right-to-be-lazy-100c63",
+  "work_title": "The Right To Be Lazy",
+  "chapter_number": 4,
+  "chapter_title": "Chapter III. The Consequences of Over-Production",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f15c0bb8-d91f-5a45-9db6-07478c1ad7e3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3400,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1883/lazy/ch03.htm"
+    }
+  ]
+}

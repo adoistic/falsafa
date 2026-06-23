@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 4,
+  "chapter_title": "Part 1, Chapter 3: A Doll's House",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5301d725-713c-5d45-8178-ab8c55152bc9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1777,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-1-chapter-3.html"
+    }
+  ]
+}

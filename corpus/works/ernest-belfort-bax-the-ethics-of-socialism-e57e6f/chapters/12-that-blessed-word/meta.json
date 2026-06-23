@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-ethics-of-socialism-e57e6f",
+  "work_title": "The Ethics of Socialism",
+  "chapter_number": 12,
+  "chapter_title": "“That Blessed Word”",
+  "chapter_slug": "12-that-blessed-word",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0100ac2a-09b0-5a07-9fbc-0918bd4d6dd1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2345,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1893/ethics/11-blessed.htm"
+    }
+  ]
+}

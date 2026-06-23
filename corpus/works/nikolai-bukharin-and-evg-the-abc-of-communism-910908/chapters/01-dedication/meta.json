@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 1,
+  "chapter_title": "Dedication",
+  "chapter_slug": "01-dedication",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "36d7accf-7bdc-51eb-b0b9-693b459c4271",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 683,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/preface.htm"
+    }
+  ]
+}

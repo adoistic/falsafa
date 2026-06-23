@@ -4,7 +4,7 @@ work_slug: "dante-alighieri-de-monarchia-a58c66"
 work_title: De Monarchia
 author_name: Dante Alighieri
 chapter_number: 40
-chapter_title: "CHAPTER VIII: Argument from the prerogative of the keys consigned to Peter."
+chapter_title: "Chapter VIII: Argument from the prerogative of the keys consigned to Peter."
 chapter_slug: 40
 variant_id: "0311b601-a7a6-53b1-87f6-c22bc5ba7735"
 content_type: translation
@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 585
+word_count: 581
 source_url: "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"
 translator: Online Library of Liberty edition
 ---
 
-1. From the same gospel they quote the saying of Christ to Peter, “Whatsoever thou shalt loose on earth shall be loosed in heaven,” and understand this saying to refer alike to all the Edition: current; Page: [165] Apostles, according to the text of Matthew and John. They reason from this that the successor of Peter has been granted of God power to bind and loose all things, and then infer that he has power to loose the laws and decrees of the Empire, and to bind the laws and decrees of the temporal kingdom. Were this true, their inference would be correct.
+1. From the same gospel they quote the saying of Christ to Peter, “Whatsoever thou shalt loose on earth shall be loosed in heaven,” and understand this saying to refer alike to all the Apostles, according to the text of Matthew and John. They reason from this that the successor of Peter has been granted of God power to bind and loose all things, and then infer that he has power to loose the laws and decrees of the Empire, and to bind the laws and decrees of the temporal kingdom. Were this true, their inference would be correct.
 
 2. But we must reply to it by making a distinction against the major premise of the syllogism which they employ. Their syllogism is this: Peter had power to bind and loose all things; the successor of Peter has like power with him; therefore the successor of Peter has power to loose and bind all things. From this they infer that he has power to loose and bind the laws and decrees of the Empire.
 

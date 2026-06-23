@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
+  "work_title": "Essays in Socialism: New & Old",
+  "chapter_number": 7,
+  "chapter_title": "The Rule of the Small Middle-Class",
+  "chapter_slug": "07-the-rule-of-the-small-middle-class",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9db0ce45-09b5-5eaa-ad3d-de252490b032",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2302,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1893/10/ruleofsmc.htm"
+    }
+  ]
+}

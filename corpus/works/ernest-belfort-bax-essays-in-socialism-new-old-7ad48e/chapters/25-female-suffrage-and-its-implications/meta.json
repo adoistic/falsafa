@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
+  "work_title": "Essays in Socialism: New & Old",
+  "chapter_number": 25,
+  "chapter_title": "Female Suffrage and Its Implications",
+  "chapter_slug": "25-female-suffrage-and-its-implications",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "36a78cbd-69b7-59dd-a92f-97c26a2560a9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4134,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1904/09/femsuff.htm"
+    }
+  ]
+}

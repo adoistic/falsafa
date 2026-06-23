@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 55,
+  "chapter_title": "Financial Measures from 1840 to 1850.",
+  "chapter_slug": "55-financial-measures-from-1840-to-1850",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "204efca7-65a5-50ec-8de1-affa31de7d35",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1242,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 12,
+  "chapter_title": "Essence",
+  "chapter_slug": "12-essence",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14cd4b69-4133-5b18-9d35-5b0b45dbdf45",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7587,
+      "paragraph_count": 231,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1914/cons-logic/ch02.htm"
+    }
+  ]
+}

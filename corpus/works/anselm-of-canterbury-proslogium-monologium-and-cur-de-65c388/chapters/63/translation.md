@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 63
-chapter_title: CHAPTER XXIII.
+chapter_title: Chapter XXVI.
 chapter_slug: 63
 variant_id: "70794a9e-32bc-543f-a91f-c80d7152ade6"
 content_type: translation
@@ -13,15 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 232
+word_count: 214
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How it is better conceived to exist everywhere than in every place
+How this Being is said to be substance: it transcends all substance and is individually whatever it is.
 
-But, since it is plain that this supreme Nature is not more truly in all places than in all existing things, not as if it were contained by them, but as containing all, by permeating all, why should it not be said to be everywhere, in this sense, that it may be understood rather to be in all existing things, than merely in all places, since this sense is supported by the truth of the fact, and is not forbidden by the proper signification of the word of place?
+But, if what we have ascertained concerning the simplicity of this Nature is established, how is it substance? For, though every substance is susceptible of admixture of difference, or, at any rate, susceptible of mutation by accidents, the immutable purity of this Being is inaccessible to admixture or mutation, in any form.
 
-For we often quite properly apply terms of place to objects which are not places; as, when I say that the understanding is there in the soul, where rationality is. For, though there and where are adverbs of place, yet, by no local limitation, does the mind contain anything, nor is either rationality or understanding contained.
+How, then, shall it be maintained that it is a substance of any kind, except as it is called substance for being, and so transcends, as it is above, every substance? For, as great as is the difference between that Being, which is through itself whatever it is, and which creates every other being from nothing, and a being, which is made whatever it is through another, from nothing; so much does the supreme Substance differ from these beings, which are not what it is. And, since it alone, of all natures, derives from itself, without the help of another nature, whatever existence it has, is it not whatever it is individually and apart from association with its creatures?
 
-Hence, as regards the truth of the matter, the supreme Nature is more appropriately said to be everywhere, in this sense, that it is in all existing things, than in this sense, namely that it is merely in all places. And since, as the reasons set forth above show, it cannot exist otherwise, it must so be in all existing things, that it is one and the same perfect whole in every individual thing simultaneously.
+Hence, if it ever shares any name with other beings, doubtless a very different signification of that name is to be understood in its case.

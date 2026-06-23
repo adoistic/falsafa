@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 74,
+  "chapter_title": "2. Production of Over-Population.",
+  "chapter_slug": "74-2-production-of-over-population",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0cce173c-a447-5741-9dde-0267d7379c05",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 808,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch30.htm"
+    }
+  ]
+}

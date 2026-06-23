@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-the-religion-of-social-democracy-104c92",
+  "work_title": "The Religion of Social-Democracy: Six Sermons",
+  "chapter_number": 1,
+  "chapter_title": "I.",
+  "chapter_slug": "01-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d6f52844-2fab-5626-b0b6-260885cb088c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3405,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1870s/religion.htm"
+    }
+  ]
+}

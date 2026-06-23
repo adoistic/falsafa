@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 78,
+  "chapter_title": "Chapter XI.: Of Justification by Faith. Both the Name and the Reality Defined.",
+  "chapter_slug": "78",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4d8ae532-7e61-53b8-a013-76d1b34101b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 213,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 27,
+  "chapter_title": "Chap. XXII.: Of Systemes Subject, Politicall, and Private.",
+  "chapter_slug": "27-chap-xxii-of-systemes-subject-politicall-and-priva",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da65aedb-984a-554d-8d3e-e11e8afbc7be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4569,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

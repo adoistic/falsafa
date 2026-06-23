@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 15,
+  "chapter_title": "Chap. XIV Of the Abuse of Agriculture and Population",
+  "chapter_slug": "15-chap-xiv-of-the-abuse-of-agriculture-and-populatio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bb3b3b8f-8439-50c0-a814-3c1e6efe20d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4785,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book1_13.htm"
+    }
+  ]
+}

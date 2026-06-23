@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-more-utopia-e4b41c",
+  "work_title": "Utopia",
+  "chapter_number": 8,
+  "chapter_title": "Of Their Magistrates",
+  "chapter_slug": "08-of-their-magistrates",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "780c0d97-d6dc-5794-ae2d-59de60752af3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 489,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/more/works/utopia/ch4.html"
+    }
+  ]
+}

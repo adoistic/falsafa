@@ -1,0 +1,23 @@
+---
+work_id: "9854ed81-f7ef-52b6-99c9-8ce949767ef2"
+work_slug: "nikolai-bukharin-the-abc-of-communism-9854ed"
+work_title: The ABC of Communism
+author_name: Nikolai Bukharin
+chapter_number: 41
+chapter_title: â§ 62. The need for the Red Army; its class composition
+chapter_slug: "41-a-62-the-need-for-the-red-army-its-class-compositi"
+variant_id: "0737eede-1eb9-5df2-a9d3-6116725208fb"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 607
+source_url: "https://www.marxists.org/archive/bukharin/works/1920/abc/08.htm"
+translator: Marxists Internet Archive edition
+---
+
+Most of the socialists who adhere to the Second International consider that socialism can be realized by securing a parliamentary majority. Since the socialists of this calibre were cradled in such ideas, since they were nurtured in the peaceful atmosphere of petty-bourgeois villadom, it was natural that they should give no heed to the possibility of or the need for organizing a proletarian army in the period of the fight for socialism. Other socialists, though they recognized the inevitability of a forcible transformation effected by the armed workers, failed nevertheless to foresee that this armed struggle would be long drawn out, that Europe would have to pass through a phase, not only of socialist revolutions, but also of socialist wars. Consequently not one of the socialist programmes voiced the need for the organization of the Red Army, that is to say, of an army consisting of the armed workers and peasants. First in all the world, the Russian working class was able to create such an army. We mean that, first in all the world, the Russian workers were able to get a firm grip of the State authority, and were able to defend what they had gained against the attacks of the Russian bourgeoisie and against the onslaughts of international capitalism. It is perfectly clear that without the Red Army the Russian workers and peasants would have found it impossible to maintain a single one of the achievements of their revolution. Without the Red Army they would have been crushed by the forces of reaction at home and abroad. A Red Army cannot be established upon the foundation of universal military service. While the struggle is still in progress, the proletariat, even though success is in sight, cannot venture to entrust rifles to members of the urban bourgeoisie or to the rich peasants. The proletarian army must be exclusively composed of persons belonging to the working class, of persons who do not exploit labour and who are directly interested in the victory of the workers' revolution. Only the industrial workers of the towns and the poor peasants from the villages should form the nucleus and the foundation of the Red Army, which will be converted into an army of all the working population by the adhesion of the middle peasants. As far as the members of the bourgeoisie and of the rich stratum of the peasantry are concerned, they must fulfil their military obligations to the proletarian State by militia duties at a distance from the fighting front. Of course this must not be considered to imply that a sufficiently powerful proletarian authority will refrain, in its turn, from compelling the exploiters to shoot at their White friends in the opposing trenches, just as the bourgeoisie, with the aid of its standing army, forced the proletarians to shoot their class brothers.
+
+The standing army of the bourgeoisie, although it is established upon the basis of universal military service, and although in appearance it is an army of the whole people, is in reality a class army. But the proletariat need not hide the class character of its army, any more than it hides the class character of its dictatorship. The Red Army is one of the organs of the Soviet State, and is, generally speaking, constructed upon the same type as the other State organs of the proletarian dictatorship. Just as in the Soviet elections the soviet constitution gives no vote to persons whose whole economic and political position that constitution aims at undermining, so in the Red Army there is no place for those for whose destruction in the civil war the Red Army exists.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-whately-introductory-lectures-on-politic-11d429",
+  "work_title": "Introductory Lectures on Political Economy",
+  "chapter_number": 3,
+  "chapter_title": "Lecture II",
+  "chapter_slug": "03-lecture-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f699d6b-46bd-5daf-b1bb-64bd88a3a959",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6920,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/whately-introductory-lectures-on-political-economy"
+    }
+  ]
+}

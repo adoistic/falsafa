@@ -1,17 +1,77 @@
 [
   {
-    "id": "p-3c31de",
+    "id": "p-0792bc",
     "offset": 0,
-    "text": "THE science of Political Economy rests upon a few notions of an apparently simple character. Utility, wealth, value, commodity, labour, land, capital, are the elements of the subject; and whoever has a thorough comprehension of their nature must possess or be soon able to acquire a knowledge of the whole science. As almost every economical writer has remarked, it is in treating the simple elements that we require the most care and precision, since the least error of conception must vitiate all our deductions. Accordingly, I have devoted the following pages to an investigation of the conditions and relations of the above-named notions."
+    "text": "PROCEEDING to consider how pleasure and pain can be estimated as magnitudes, we must undoubtedly accept what Bentham has laid down upon this subject. \"To a person,\" he says, \"considered by himself, the value of a pleasure or pain, considered by itself, will be greater or less according to the four following circumstances:—"
   },
   {
-    "id": "p-283588",
-    "offset": 644,
-    "text": "Repeated reflection and inquiry have led me to the somewhat novel opinion, that value depends entirely upon utility. Prevailing opinions make labour rather than utility the origin of value; and there are even those who distinctly assert that labour is the cause of value. I show, on the contrary, that we have only to trace out carefully the natural laws Edition: current; Page: [2] of the variation of utility, as depending upon the quantity of commodity in our possession, in order to arrive at a satisfactory theory of exchange, of which the ordinary laws of supply and demand are a necessary consequence. This theory is in harmony with facts; and, whenever there is any apparent reason for the belief that labour is the cause of value, we obtain an explanation of the reason. Labour is found often to determine value, but only in an indirect manner, by varying the degree of utility of the commodity through an increase or limitation of the supply."
+    "id": "p-2ace04",
+    "offset": 326,
+    "text": "These are the circumstances which are to be considered in estimating a pleasure or a pain considered each of them by itself.\""
   },
   {
-    "id": "p-10ddfe",
-    "offset": 1598,
-    "text": "These views are not put forward in a hasty or ill-considered manner. All the chief points of the theory were sketched out seventeen years ago; but they were then published only in the form of a brief paper communicated to the Statistical or Economic Section of the British Association at the Cambridge Meeting, which took place in the year 1862. A still briefer abstract of that paper was inserted in the Report of the Meeting, and the paper itself was not printed until June 1866. Since writing that paper, I have, over and over again, questioned the truth of my own notions, but without ever finding any reason to doubt their substantial correctness."
+    "id": "p-2f9b21",
+    "offset": 453,
+    "text": "Bentham goes on to consider three other circumstances which relate to the ultimate and complete result of any act or feeling; these are—"
+  },
+  {
+    "id": "p-5ef200",
+    "offset": 591,
+    "text": "These three last circumstances are of high importance as regards the theory of morals; but they will not enter into the more simple and restricted problem which we attempt to solve in Economics."
+  },
+  {
+    "id": "p-f0864d",
+    "offset": 787,
+    "text": "A feeling, whether of pleasure or of pain, must be regarded as having two dimensions, or modes of varying in regard to quantity. Every feeling must last some time, and it may last a longer or shorter time; while it lasts, it may be more or less acute and intense. If in two cases the duration of feeling is the same, that case will produce the greater quantity which is the more intense; or we may say that, with the same duration, the quantity will be proportional to the intensity. On the other hand, if the intensity of a feeling were to remain constant, the quantity of feeling would increase with its duration. Two days of the same degree of happiness are to be twice as much desired as one day; two days of suffering are to be twice as much feared. If the intensity ever continued fixed, the whole quantity would be found by multiplying the number of units of intensity into the number of units of duration. Pleasure and pain, then, are quantities possessing two dimensions, just as superficies possesses the two dimensions of length and breadth."
+  },
+  {
+    "id": "p-3ffe5b",
+    "offset": 1841,
+    "text": "In almost every case, however, the intensity of feeling will change from moment to moment. Incessant variation characterises our states of mind, and"
+  },
+  {
+    "id": "p-30a286",
+    "offset": 1991,
+    "text": "this is the source of the main difficulties of the subject. Nevertheless, if these variations can be traced out at all, or any approach to method and law can be detected, it will be possible to form a conception of the resulting quantity of feeling. We may imagine that the intensity changes at the end of every minute, but remains constant in the intervals. The quantity during each minute may be represented, as in Fig. I., by a rectangle whose base is supposed to correspond to the duration of a minute, and whose height is proportional to the intensity of the feeling during the minute in question. Along the line ox we measure time, and along parallels to the perpendicular line oy we measure intensity. Each of the rectangles between pm and qn represents the feeling of one minute. The aggregate quantity of feeling generated during the time mn will then be represented by the aggregate area of the rectangles between pm and qn. In this case the intensity of the feeling is supposed to be gradually declining."
+  },
+  {
+    "id": "p-07ab20",
+    "offset": 3008,
+    "text": "But it is an artificial assumption that the intensity would vary by sudden steps and at regular intervals. The error thus introduced will not be great if the intervals of time are very short, and will be less the shorter the intervals are made. To avoid all error, we must imagine the intervals of time to be infinitely short; that is, we must treat the intensity as varying continuously. Thus the proper representation of the variation of feeling is found in a curve of more or less complex character."
+  },
+  {
+    "id": "p-73431a",
+    "offset": 3512,
+    "text": "In Fig. II. The height of each point of the curve pq, above the horizontal line ox, indicates the intensity of feeling in a moment of time; and the whole quantity of feeling generated in the time mn is measured by the area bounded by the lines pm, qn, mn, and pq. The feeling belonging to any other time, ma, will be measured by the space mabp cut off by the perpendicular line ab."
+  },
+  {
+    "id": "p-20294f",
+    "offset": 3895,
+    "text": "It will be readily conceded that pain is the opposite of pleasure; so that to decrease pain is to increase pleasure; to add pain is to decrease pleasure. Thus we may treat pleasure and pain as positive and negative quantities are treated in algebra. The algebraic sum of a series of pleasures and pains will be obtained by adding the pleasures together and the pains together, and then striking the balance by subtracting the smaller amount from the greater. Our object will always be to maximise the resulting sum in the direction of pleasure, which we may fairly call the positive direction. This object we shall accomplish by accepting everything, and undertaking every action of which the resulting pleasure exceeds the pain which is undergone; we must avoid every object or action which leaves a balance in the other direction."
+  },
+  {
+    "id": "p-0d1608",
+    "offset": 4729,
+    "text": "The most important parts of the theory will turn upon the exact equality, without regard to sign, of the pleasure derived from the possession of an object, and the pain encountered in its acquisition. I am glad, therefore, to quote the following passage from Mr. Bain's treatise on The Emotions and the Will, in which he exactly expresses the opposition of pleasure and pain:—\"When pain is followed by pleasure, there is a tendency in the one, more or less, to neutralise the other. When the pleasure exactly assuages the pain, we say that the two are equivalent, or equal in amount, although of opposite nature, like hot and cold, positive and negative; and when two different kinds of pleasure have the power of satiating the same amount of pain, there is fair ground for pronouncing them of equal emotional power. Just as acids are pronounced equivalent when in amount sufficient to neutralise the same portion of alkali, and as heat is estimated by the quantity of snow melted by it, so pleasures are fairly compared as to their total efficacy on the mind, by the amount of pain that they are capable of submerging. In this sense there may be an effective estimate of degree.\""
+  },
+  {
+    "id": "p-f63865",
+    "offset": 5911,
+    "text": "Bentham has stated that one of the main elements in estimating the force of a pleasure or pain is its propinquity or remoteness. It is certain that a very large part of what we experience in life depends not on the actual circumstances of the moment so much as on the anticipation of future events. As Mr. Bain says, \"The foretaste of pleasure is pleasure begun: every actual delight casts before it a corresponding ideal.\" Every one must have felt that the enjoyment actually experienced at any moment is but limited in amount, and usually fails to answer to the anticipations which have been formed. \"Man never is but always to be blest\" is a correct description of our ordinary state of mind; and there is little doubt that, in minds of much intelligence and foresight, the greatest force of feeling and motive arises from the anticipation of a long-continued future."
+  },
+  {
+    "id": "p-4e7c58",
+    "offset": 6783,
+    "text": "Now, between the actual amount of feeling anticipated and that which is felt there must be some natural relation, very variable no doubt according to circumstances, the intellectual standing of the race, or the character of the individual; and yet subject to some general laws of variation. The intensity of present anticipated feeling must, to use a mathematical expression, be some function of the future actual feeling and of the intervening time, and it must increase as we approach the moment of realisation. The change, again, must be less rapid the farther we are from the moment, and more rapid as we come nearer to it. An event which is to happen a year hence affects us on the average about as much one day as another; but an event of importance, which is to take place three days hence, will probably affect us on each of the intervening days more acutely than the last."
+  },
+  {
+    "id": "p-3d67b7",
+    "offset": 7666,
+    "text": "This power of anticipation must have a large influence in Economics; for upon it is based all accumulation of stocks of commodity to be consumed at a future time. That class or race of men who have the most foresight will work most for the future. The untutored savage, like the child, is wholly occupied with the pleasures and the troubles of the moment; the morrow is dimly felt; the limit of his horizon is but a few days off. The wants of a future year, or of a lifetime, are wholly unforeseen. But, in a state of civilisation, a vague though powerful feeling of the future is the main incentive to industry and saving. The cares of the moment are but ripples on the tide of achievement and hope. We may safely call that man happy who, however lowly his position and limited his possessions, can always hope for more than he has, and can feel that every moment of exertion tends to realise his aspirations. He, on the contrary, who seizes the enjoyment of the passing moment without regard to coming times, must discover sooner or later that his stock of pleasure is on the wane, and that even hope begins to fail."
+  },
+  {
+    "id": "p-4a37e9",
+    "offset": 8786,
+    "text": "In admitting the force of anticipated feeling, we are compelled to take account of the uncertainty of all future events. We ought never to estimate the value of that which may or may not happen as if it would certainly happen. When it is as likely as not that I shall receive £100, the chance is worth but £50, because if, for a great many times in succession, I purchase the chance at this rate, I shall almost certainly neither lose nor gain. The test of correct estimation of probabilities is that the calculations agree with fact on the average. If we apply this rule to all future interests, we must reduce our estimate of any feeling in the ratio of the numbers expressing the probability of its occurrence. If the probability is only one in ten that I shall have a certain day of pleasure, I ought to anticipate the pleasure with one-tenth of the force which would belong to it if certain. In selecting a course of action which depends on uncertain events, as, in fact, does everything in life, I should multiply the quantity of feeling attaching to every future event by the fraction denoting its probability. A great casualty, which is very unlikely to happen, may not be so important as a slight casualty which is nearly sure to happen. Almost unconsciously we make calculations of this kind more or less accurately in all the ordinary affairs of life; and in systems of life, fire, marine, or other insurance, we carry out the calculations to great perfection. In all industry directed to future purposes, we must take similar account of our want of knowledge of what is to be."
   }
 ]

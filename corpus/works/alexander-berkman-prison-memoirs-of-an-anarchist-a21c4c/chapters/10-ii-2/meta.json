@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 10,
+  "chapter_title": "II (2)",
+  "chapter_slug": "10-ii-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2af5c5c5-46c8-522e-9384-a0b4d25efa6b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 311,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-1-chapter-6.html"
+    }
+  ]
+}

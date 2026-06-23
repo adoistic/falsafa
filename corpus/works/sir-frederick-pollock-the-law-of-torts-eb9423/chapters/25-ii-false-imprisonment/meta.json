@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-law-of-torts-eb9423",
+  "work_title": "The Law of Torts",
+  "chapter_number": 25,
+  "chapter_title": "Ii.—: False Imprisonment.",
+  "chapter_slug": "25-ii-false-imprisonment",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6fed53c2-8314-5c5e-b54d-721b7a4b676b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1377,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+    }
+  ]
+}

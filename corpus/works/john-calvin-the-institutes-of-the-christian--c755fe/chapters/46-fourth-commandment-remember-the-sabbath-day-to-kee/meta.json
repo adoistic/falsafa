@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 46,
+  "chapter_title": "Fourth Commandment.: Remember the Sabbath Day to Keep It Holy. Six Days Shalt Thou Labour and Do All Thy Work: But the S",
+  "chapter_slug": "46-fourth-commandment-remember-the-sabbath-day-to-kee",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3c50f2ed-f7aa-5646-ac43-a391ca192aec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2589,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

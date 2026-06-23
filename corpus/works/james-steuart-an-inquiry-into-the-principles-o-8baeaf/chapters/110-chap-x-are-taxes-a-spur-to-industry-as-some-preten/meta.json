@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 110,
+  "chapter_title": "Chap. X: Are Taxes a Spur to Industry, as some pretend?",
+  "chapter_slug": "110-chap-x-are-taxes-a-spur-to-industry-as-some-preten",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9c1506f-0f40-500a-a679-61a399155477",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 911,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book5.htm"
+    }
+  ]
+}

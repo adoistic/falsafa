@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-an-introduction-to-the-principle-6d5d5c",
+  "work_title": "An Introduction to the Principles of Morals and Legislation",
+  "chapter_number": 22,
+  "chapter_title": "3. Cases where punishment is unprofitable.",
+  "chapter_slug": "22-3-cases-where-punishment-is-unprofitable",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "75a29694-212d-5ee8-b6a0-9a67dacb555a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 611,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-an-introduction-to-the-principles-of-morals-and-legislation"
+    }
+  ]
+}

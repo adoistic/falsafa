@@ -4,7 +4,8 @@ slug: "hesiod-shield-of-heracles-722025"
 title: Shield of Heracles
 author:
   name: Hesiod
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Greek didactic poet of Boeotia, ranked with Homer at the head of the archaic tradition. Theogony and Works and Days gave Greek religion a systematic genealogy of the gods and the moral world its first poem of work and justice.
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

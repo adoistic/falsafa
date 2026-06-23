@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-ethics-origin-and-development-3a8d7d",
+  "work_title": "Ethics: Origin and Development",
+  "chapter_number": 11,
+  "chapter_title": "Chapter 9 : Development of Moral Teachings in the Modern Era (End of 18th century and beginning of 19th century)",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "404b6a9f-e2cb-588e-8faa-fef1f24b57ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5764,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1924/ethics-origin-and-development/chapter-9.html"
+    }
+  ]
+}

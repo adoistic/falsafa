@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-treatises-and-essays-on-subjects-4cfbd6",
+  "work_title": "Treatises and Essays on Subjects Connected with Economic Policy",
+  "chapter_number": 21,
+  "chapter_title": "An Essay Showing the Erroneousness of the Prevailing Opinions in Regard to Absenteeism.",
+  "chapter_slug": "21-an-essay-showing-the-erroneousness-of-the-prevaili",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6267b3ef-bd02-5687-a5a9-60c89902e2d8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9440,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853"
+    }
+  ]
+}

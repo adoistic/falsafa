@@ -4,7 +4,7 @@ work_slug: "marquis-de-condorcet-outlines-of-an-historical-view-o-d372d1"
 work_title: Outlines of an Historical View of the Progress of the Human Mind
 author_name: Marquis de Condorcet
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "55e61dd1-a90f-5c48-9356-73c2bb5b453e"
 content_type: translation

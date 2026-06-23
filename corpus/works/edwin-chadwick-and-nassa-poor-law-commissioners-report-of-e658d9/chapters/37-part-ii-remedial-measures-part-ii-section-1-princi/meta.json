@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 37,
+  "chapter_title": "[Part Ii] Remedial Measures, [Part II, Section 1] Principle of Administering Relief to the Indigent",
+  "chapter_slug": "37-part-ii-remedial-measures-part-ii-section-1-princi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cc878c91-f39c-57f9-9739-a42a6422590f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2688,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

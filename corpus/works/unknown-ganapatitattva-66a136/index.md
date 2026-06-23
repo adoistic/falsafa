@@ -2,10 +2,10 @@
 id: "66a1368f-8edf-4069-b086-0979f8b0678d"
 slug: "unknown-ganapatitattva-66a136"
 title: Gaṇapatitattva
-author: Gaṇapati
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Gaṇapati
+  biography: The teacher to whom this Old Javanese tattva text is ascribed. Gaṇapatitattva is a Kawi Śaiva catechism in dialogue form on cosmology and yoga.
+  nationality: Javanese
 era: Medieval
 genre: Indic
 language: Kawi

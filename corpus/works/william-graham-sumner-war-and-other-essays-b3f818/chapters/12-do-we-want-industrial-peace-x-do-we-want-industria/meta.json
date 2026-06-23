@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-war-and-other-essays-b3f818",
+  "work_title": "War and Other Essays",
+  "chapter_number": 12,
+  "chapter_title": "Do We Want Industrial Peace?, X: Do We Want Industrial Peace? [1889]",
+  "chapter_slug": "12-do-we-want-industrial-peace-x-do-we-want-industria",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "13febdb4-9a14-5364-9f98-b0399d4aeffb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4474,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-war-and-other-essays"
+    }
+  ]
+}

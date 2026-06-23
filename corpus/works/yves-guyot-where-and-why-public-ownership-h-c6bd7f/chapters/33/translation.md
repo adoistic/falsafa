@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 33
-chapter_title: "CHAPTER XXV: PUBLIC VERSUS PRIVATE ENTERPRISE"
+chapter_title: "Chapter II: The Safety of Travelers upon State and Private Railway Lines"
 chapter_slug: 33
 variant_id: "5935fac4-5bb8-5a80-8c55-cf72b864f14c"
 content_type: translation
@@ -13,109 +13,73 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2555
+word_count: 1453
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-1. The partisans of socializing and of municipalizing all sorts of public services never tire of the old refrain that state and municipalities manage enterprises for the good of the service, and not for profit, and that, therefore, we ought to get them at a lower cost. We ought to. Here we have a priori reasoning. The trouble is that such reasoning is constantly contradicted by the facts.
+The Safety of Travelers and the State System.—The Report of Albert Thomas.—Comparisons.—The Minutes of the French Senate.
 
-2. Some years ago the net profit on the National Printing Office of France apparently represented Edition: current; Page: [257] nearly normal interest on the capital invested. However, an investigation gave M. Colson an opportunity of declaring that this result was only obtained by an “exorbitant” increase in the prices demanded. In proof of his statement M. Colson gave the following significant example:
+In a number of articles, published in the Annales de la Régie Directe, Edgard Milhaud has tried to prove that safety is absolute upon government railway systems and precarious in the extreme upon privately managed systems.
 
-The Paul Dupont Company had arranged to furnish the Navy with forms and designs at the same cost as the National Printing Office, less the expenses of composition, correction and holding of forms. The National Printing Office maintained that the Dupont Company was working at a loss in order to ruin the credit of the government establishment. An inspector of finances (inspecteur des finances) declared, officially, that this assertion was false, and that the Dupont Company both could and did make a profit on the business, despite the reduction granted to the Navy.
+The budget commission of 1912 entrusted to Albert Thomas, a United Socialist, the compilation of a report on the budget of public utility franchises. He declares himself that “his report is completely permeated by Socialist thought”; and he winds up by recommending the purchase of those French railways still in private hands.
 
-3. On December 13, 1911, the Assistant Secretary of the United States Navy, Mr. Watt, told a committee of the House of Representatives that the battleship Florida, constructed by the government, cost per ton (hull and engines only), 1,374 francs 50 ($265.28); while the Utah, constructed by a private company, cost 904 francs ($174.47). In 1910 Congress authorized the construction of two battleships, the cost of which it limited to 30,000,000 francs ($5,700,000). The private company did its work according to contract, at a cost of 500,000 francs less than the original estimates; the navy yard required Edition: current; Page: [258] additional appropriations until the actual cost reached over 35,000,000 francs ($6,650,000).
+As he could not bolster up his argument with the results of the Western railway, since a number of accidents unfortunately interfered with such a possibility, he passes it over, and speaks only of the old state system. His argument is not lacking in courage, because the following facts, among others collected by Charles Macler and completely contradicting it, had already appeared in the Journal des Économistes:
 
-I read in the Army and Navy Journal, January 28, 1911:
+“Basing his arguments upon the statistical studies of Edgard Milhaud, M. Thomas maintains the bold theory that safety is assured only on railways operated by the state. The argument of MM. Milhaud and Thomas is rather naïve. There are more accidents upon the railways of the United States than upon those of the Belgian line; there are more upon the English company system than upon that of the Prussian government system; there were more accidents upon the Swiss railways before than after the purchase; consequently, there are more accidents in France upon the systems operated by private companies than upon the state system. ‘However surprising this declaration may appear to many,’ says M. Thomas, ‘the fact is scientifically established’. Surprising, in fact, especially just after the catastrophes of Villepreux, Courville, Bernay, Ponts-de-Cé, Saujon, Montreuil-Bellay. As to whether the theory is scientifically established, let us see:
 
-“The Committee on Naval Affairs recommends, also, that Congress give to Secretary Meyer the power to construct in a private shipyard the battleship New York, the building of which was authorized during the last session; the secretary having shown that it will cost the government at least eight millions and a half more to construct the New York in the Brooklyn Navy Yard by reason of the eight-hour law.”
+“In the first place, if we compare the railway accidents upon the systems operated by private companies with our old government system (we pass over the Western system, as M. Thomas has done), we declare that, according to the statistics of the ministry of Public Works, the total average number of passengers killed and injured from 1905 to 1909 was:
 
-It is only in France that the Navy constructs more ships than it hands over to private companies for construction, as the following table shows (1911):
+“In whatever manner we examine the statistics, the average number of victims of accidents resulting from traffic upon the old government system, the so-called model system, is noticeably higher than upon the private systems. The preceding period, that is to say, 1901–1905, gives precisely the same results. If we consider separately the number of the killed and injured, the results in the case of each of the above items are disadvantageous to the state.
 
-4. In the cities of Portsmouth and Southsea there are two piers: The one is private property, the other Edition: current; Page: [259] the property of the city. The first is a success; the second a “white elephant.”
+“When we pass on to a comparison of accidents between the French systems as privately operated and the principal foreign government systems, we discover that the victims of accidents have been much less numerous upon the first than upon the second. We borrow our figures from the latest statistics, those of the year 1909.
 
-Faithful Begg, one of the best-known authorities on business conditions in England, declared before the London Chamber of Commerce, on the 18th day of May, 1911: “The National Telephone Company operates on 58 per cent. of its gross revenue, while the Postoffice operates on 74 per cent. The Postoffice earns 3.5 per cent. on the capital invested, and the National Telephone Company is earning 8.9 per cent.”
+“First, let us take Belgium. Here are the figures presented by the report of Belgian railway operations compared with the statistics of the Ministry of Public Works in France:
 
-5. On the Western (state) railway of France, from 1904 to 1908, claims for loss, damage, and delay amounted to 1,566 francs per 100,000 francs of gross receipts. From 1909 to 1911 this proportion reached 3,043 francs. On the old state system the proportion was 1,426. Since 1909 this sum has increased to 2,055 francs, which proves that the Department of State Railways, while extending its lines, has not improved them. On the Est, Midi, Nord, and Paris-Lyon-Mediterranée—all privately owned lines—the average is 1,175 francs. Thus the claims on the Western are 157 per cent. higher, and on the two other state systems 75 per cent. higher than on the private lines.
+“The superiority of the French companies is incontestably shown.
 
-I might add that the Western has fallen back on the plea of “circumstances over which we have no control,” floods, strikes, etc., a subterfuge to which the private companies have not found it necessary to have recourse.
+“Let us take Germany. The following figures are taken from the Annuaire Statistique pour l'Empire Allemand, published by the Imperial Statistical Bureau:
 
-6. A German engineer, Wilhelm Majerczik, has published a comparative study of the results accomplished respectively by municipal and private electrical enterprises in Germany.
+“The advantage is again on the side of the French companies.
 
-We borrow the following facts from the analysis of his study published in the Revue Économique Internationale, of July 15, 1912. The figures were taken from the latest available statistics.
+“Let us take Austria. Here are the figures taken from the report of the operation of the Austrian government railways, published by the Ministry of Railways:
 
-In his survey Herr Majerczik has passed over the Berlin and Hamburg plants, operated by private companies, as their prosperity so far exceeds the average that his comparisons would have been unduly affected by them. Moreover, his study bears only upon electrical plants supplying localities with a population of at least 100,000 inhabitants. These installations number fifty-six, and are subdivided as follows:
+“Here, again, the advantage is altogether on the side of the French companies, in so far, at least, as the number of injured is concerned.
 
-(The information given relates only to fourteen of the private plants in question, data as to the fifteenth not being attainable.)
+“Now Hungary. Here are the figures drawn from the statistics of Hungarian railways, published by the ministry of Railroads:
 
-The situation of the private plants is actually less favorable to development than that of the public plants. Yet, out of thirty-eight municipal undertakings, twenty supply only a single locality. The extent of territory supplied by private enterprises is double that of municipal enterprises.
+“Once more the advantage is with the French companies.
 
-The municipal enterprises are the older; for, in the beginning, such undertakings were considered the special prerogative of local governments.
+“Let us take Switzerland. The figures are taken from the statistics of Swiss railways, published by the Federal Postoffice and Railway department:
 
-The superiority of the equipment of private enterprises is demonstrated by the fact that the average productive capacity of municipal plants is scarcely three-fourths that of private plants.
+“In all cases the advantage is with the French companies. It may be said positively that the safety of passengers is much greater upon the systems of the French companies than upon those of the French, Belgian, German, Austrian, Hungarian, or Swiss state lines. This conclusion is again borne out by the figures regarding accidents of all kinds per 100 km. operated. While the figure is 3.81 for the French private lines, it is 5.9 for Germany, 10.1 for Italy, 12.5 for Austria, and 50 for Switzerland.
 
-The fewer boilers of the private plants are of a more economical type than those of public plants, and the prime movers are more powerful (Nos. 5 to 10).
+“Nor is this all. If we compare the statistics of accidents in those foreign countries where public and private operation exist concurrently, we find that accidents are more numerous upon the state-owned systems.
 
-In comparing light and power circuits we have 55.3 kw. per 1,000 inhabitants for 33 public plants, and 79 kw. for 11 private plants. If traction be added we have 65.9 kw. for the first, 80.9 kw. for the second. Municipal plants furnish power for traction to a greater extent than private plants, because the great Edition: current; Page: [263] municipal undertakings control all the important tramway systems.
+“In Austria and in Switzerland the accident statistics of private lines are not given separately, but a comparison between the figure for accidents upon the government systems considered alone and upon the whole railway system of each country makes clear the measure in which this last figure is influenced by results on private lines. The number of accidents resulting from traffic on all the lines together is smaller than that of the accidents upon the state systems alone, which proves that accidents are much less numerous upon private systems than upon government lines. Here are the figures:
 
-Private enterprises are operated more economically than municipal undertakings.
+“Finally, let us take the statistics of the victims of accidents, including both passengers and employees. The question of the safety of operation is well worth examining from this point of view.
 
-They can produce greater power per heat unit because they employ boilers and engines of greater unit capacity and the agent of supply is better; that is to say, with a given apparatus, they are called upon to produce more. Their losses are greater, because they operate as central stations at long distances. Private central stations furnish 30 per cent. more energy for private lighting, and 60 per cent. more for public lighting per inhabitant. They also sell much more energy for power.
+“We find that the whole number of killed and injured per million train kilometers is 4.49 on the French privately operated systems, as against 15.3 on the Belgian government system; 7.6 upon the Austrian government system; 8.1 upon the Hungarian government system; 40.1 upon the Swiss railways (23 upon the Swiss companies); 5.10 upon the German railways; and 32.4 upon the Italian railways.
 
-The financial results are as follows:
+“After having seen these figures our readers will find the contention of Albert Thomas still more surprising. In all the European countries that we have passed in review, safety is greater upon the private lines than upon those of the government. It is a fact established by official statistics.”
 
-The installation costs, on the average, are 1,160 marks per kw., for municipal plants, and 1,240 marks for private plants. The private plants operating at long distances have a more expensive system of high tension lines and transforming stations. Nevertheless, they can furnish 1 kwh. 28 per mark of cost of installation, while municipal plants can only furnish 1 kwh. 12. They also content themselves with lower rates.
+On August 4, 1907, the accident on the Ponts-de-Cé took place, resulting from the disregard on the part of the government of my order of 1891 for the annual inspection of steel bridges. This accident caused the death of 30 passengers. In August, 1910, the accident at Saujon, near Bordeaux, occurred, causing the death of 40 passengers. On June 18, 1910, came the accident at Villepreux, upon the Western railway, when 18 deaths were reported; and, on September 10, 1910, the accident at Bernay, when there were also deaths. February 14, 1911, occurred the accident at Courville, which caused the destruction of an entire family and ten other deaths.
 
-The following table gives the difference in rates between municipal and private plants:
+The six greatest railway accidents that France has suffered during five years have thus all occurred on the government system: three on the Western, and three on the old government system, which the state has operated during nearly 35 years, and which has only 2,292 kilometers (1,433 miles), making the line about fifth in size of the important systems of France.
 
-For light the average rate charged by private companies is 14 per cent. less than that of municipal plants; for power, 20 per cent. Even for traction there is a difference of about 8.3 per cent. in favor of private plants.
+On November 24, 1911, the accident at Montreuil-Bellay inspired a discussion in the Senate, which resulted in the following resolution:
 
-The superiority of private plants is shown above all in the matter of expenditures.
+“The Senate proffers the assurance of its profound sympathy to the victims of the catastrophe at Montreuil-Bellay and its congratulations to the rescuers, and, after taking cognizance of the declarations of the minister of Public Works that efforts are being made to improve the deplorable condition of the Western line and expressing its confidence in the ability of the government to put an end to the insecurity and also to the irregularity of railway operation, lays the resolution on the table.”
 
-The expenses for fuel, oil and maintenance are less for private plants, because these plants are better equipped and better managed. Yet the labor expenses are higher. The miscellaneous expenses are also higher, because private plants are subject to local taxation from which municipal plants are exempt. If taxes were taken into consideration the gross difference between expenditures and receipts, which is 13.2 per cent. for municipal and 9.5 per cent. for private plants, would be materially modified. The differences would be reversed if private plants did not have lower rates.
+Thus the Senate, with the approbation of the ministry, solemnly affirmed “the deplorable situation, insecurity, and irregularity in the operation of the Western,” apropos of an accident which occurred on the old state system.
 
-H. Marchand, in a summary of the work of Herr Majerczik, concludes that, from every point of view, public ownership and operation of the generating Edition: current; Page: [265] forces of electricity can only be carried on at a disadvantage.
+The Journal Officiel, of July 12, contains the following question, put by M. Engerand, deputy, to Jean Dupuy, minister of Public Works:
 
-7. In the Journal des Débats and in the Économiste Français Arthur Raffalovich has asserted that public ownership and operation in Germany has been by no means so successful as enthusiastic partisans of government ownership in France and elsewhere have tried to make us believe. Several municipal enterprises have recently been liquidated and a number of electrical plants and tramways sold outright.
+“What is the number of engines, coaches and freight cars destroyed or damaged in accidents which have happened upon the Western railway from January 1, 1909, to March 1, 1912?”
 
-Recent reports of the Burgomasters of Strassburg and Rheydt affirm that the operation of great industries by municipal authority is encountering numerous difficulties; that it is lacking in flexibility; that it is exceedingly hard to find competent managers; that the influences brought to bear are frequently far from disinterested, and often conflicting; that the majority of the municipal councillors have no comprehension of industrial or commercial business; that real profits are rare. In 1908, out of 36 municipal tramways, only 9 were operating without loss, while 11 were requiring rather heavy appropriations.
+He received the following answer:
 
-The burgomasters charge that cities which are supplying directly their own gas, electricity, and tramways are being delivered over without let or hindrance to the ringleaders of the various labor associations.
+“68 engines; 30 tenders; 198 coaches; and 451 freight cars.”
 
-In Germany to-day there is a very marked evolution in the direction of private management, the city retaining the ownership of the enterprise, but leasing the operation to a corporation. Cologne has Edition: current; Page: [266] contracted with a private company to supply the extra electricity needed, and the city has also promised not to enlarge its electrical plants.
-
-8. In his report on the municipal budget of Paris, for 1912, M. Dausset acknowledges the superiority of private enterprise over public administration in the following terms:
-
-“It may as well be confessed that a special mechanical equipment or a skilled staff is only to be obtained by applying to a private company.”
-
-The business man keeps in touch with the latest developments and spares no efforts to select his markets under the best possible conditions. Public management, “even in those rare cases where it ventures to take the initiative and point out to the council the necessary improvements and repairs, is obliged to wait several months, if not several years, to obtain the money or the indispensable authority.”
-
-The same conditions prevail in the case of street cleaning. The City of Paris is unable, with its limited annual resources, scarcely sufficient for current expenses, to bring about a rapid renewal of out-of-date equipment. The contractor, on the contrary, has at his disposal for such a purpose capital that he can pay off at his leisure, and which permits him, moreover, to offer attractive terms. Finally, being careful to reduce the cost of maintenance to a minimum, the contractor enters only after careful consideration into initial expenditures. His chief reliance is in a firstclass equipment.
-
-M. Dausset continues:
-
-“The contract system is equally well suited to the paving and asphalting of the streets, and their maintenance.
-
-“Here again everything depends upon the quality of the material employed and on the process and the care in manufacture, as well as on the way the work is performed. Taking into account the importance of the streets and the traffic they will be called upon to bear, the contractor would know how to make the necessary distinctions and would not hesitate, for example, to increase by a centimeter the thickness of the asphalt bed demanded by the specifications, if the street were much frequented, in order to escape expensive repairs in the near future, and to lessen thus the annual cost of maintenance.
-
-“In the same way, in the case of construction and maintenance of cobbled roads, the government, ill equipped and lacking the flexibility indispensable for performing such work rapidly and economically by profiting by the experience of each day, has every interest in leaving such work to private industry, while reserving for itself the equally important and delicate task of control.”
-
-In his investigation of the efficiency of municipal work Benjamin Welton also shows the superiority of the business man over the public official.
-
-“The problem that he has to solve is simple, and he considers it as a whole. He is not hampered by all sorts of restrictions. He seeks the most competent men, discharges the incapable, and is able to give bonuses for Edition: current; Page: [268] increase of production. His rule is to compare expenditures and results. He does not hesitate to make necessary expenses which will be economy in the long run. He organizes his units in such a manner that they give the maximum income. Above all, it is impossible to falsify his reports because they are verified by the party with whom he is under contract.”
-
-9. The Socialists would have us believe that from the moment a government or a municipality engages in the nationalization or the municipalization of public utilities it perseveres in the undertaking.
-
-Yet we have seen that such undertakings have been abandoned in Great Britain and Germany, while, as for New Zealand, Mr. Scholefield, in 1909, and Messrs. Le Rossignol and Stewart, in 1912, are united in the conviction that:
-
-“Of late years the whole tendency has been to leave more and more to private enterprise. It is a swing of the pendulum. Ten years ago the government would not have dared to suggest allowing private companies to develop the great assets latent in the energy of the rivers of New Zealand. To-day it is the avowed policy of the state to encourage private enterprise in this direction. It is highly improbable now that New Zealand will make any further pronounced advance toward State Socialism until a new temper succeeds to the present mood of conservative Liberalism.”
-
-The New Zealanders are not theorists, but a certain number are sufficiently shrewd to perceive that, when a loss is resulting from a state enterprise, it affects the whole nation. In other words, that the Edition: current; Page: [269] government in pursuing such a policy is forcing some individuals to help to bear the financial burdens of others.
-
-10. J. C. B. Perry, in a letter to the Manchester City News, of March 4, 1911, said:
-
-“If gas were being furnished by a private company it would have to have a high illuminating power. We cannot force the gas committee to give it, and it does not give it. If the tramways belonged to a company they would not be permitted to monopolize the streets in the center of the city to the detriment of all other species of transportation. Our market committee is losing on its refrigerating plants, while a competing company is a commercial success and is giving ‘cheap food’.”
-
-When political or administrative bodies, whether states or municipalities, operate, they are regulating themselves. This is a sufficient reason in itself for the suppression of all public trading operations, because it is necessary that there be a distinct separation between the forces of operation and regulation.
-
-Industrial operation is inherently adapted to private enterprise. Industrial control is the corresponding function of states and municipalities.
+If the Socialists cannot cite the financial results of the state system as an argument in favor of the nationalization of the railways, the ill digested statements of Edgard Milhaud and Albert Thomas, regarding the security they offer, will certainly not convince anyone.

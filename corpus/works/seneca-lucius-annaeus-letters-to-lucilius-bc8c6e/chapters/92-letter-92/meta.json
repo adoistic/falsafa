@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 92,
+  "chapter_title": "Letter 92",
+  "chapter_slug": "92-letter-92",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cde7e34e-6c7b-5dfd-9928-3c1ec5afd978",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1553,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "562b156a-8f5e-52b0-a84e-d297a26e969a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3169,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

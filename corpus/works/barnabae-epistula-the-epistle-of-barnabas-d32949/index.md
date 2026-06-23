@@ -4,7 +4,7 @@ slug: "barnabae-epistula-the-epistle-of-barnabas-d32949"
 title: The Epistle of Barnabas
 author:
   name: Barnabae Epistula
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Anonymous Greek-writing Christian of the generation after the apostles, traditionally and mistakenly credited as Paul's companion Barnabas. The epistle reads the Jewish scriptures as allegory and claims their covenant for the church rather than the synagogue."
 era: Imperial
 genre: Classics
 language: Greek

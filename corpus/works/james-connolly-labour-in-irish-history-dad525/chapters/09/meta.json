@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-labour-in-irish-history-dad525",
+  "work_title": "Labour in Irish History",
+  "chapter_number": 9,
+  "chapter_title": "Chapter VII The United Irishmen",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4bd7c6b5-9296-55fd-85a3-c6c89585b4ea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2043,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1910/lih/chap07.htm"
+    }
+  ]
+}

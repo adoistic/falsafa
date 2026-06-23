@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 29,
+  "chapter_title": "Chapter XVII.: Use to Be Made of the Doctrine of Providence.",
+  "chapter_slug": "29",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "53d6f968-b858-5c99-8077-cefb50ad54e6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 129,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 6
-chapter_title: "LETTER VI.: Mischiefs of the anti-usurious Laws."
+chapter_title: "Letter VI.: Mischiefs of the anti-usurious Laws."
 chapter_slug: 06
 variant_id: "465d248a-41c9-53a0-859d-ca17b1c2e3a1"
 content_type: translation

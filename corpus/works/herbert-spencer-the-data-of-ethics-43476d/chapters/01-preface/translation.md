@@ -4,7 +4,7 @@ work_slug: "herbert-spencer-the-data-of-ethics-43476d"
 work_title: The Data of Ethics
 author_name: Herbert Spencer
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "6d77f4c1-8e88-5e7d-af9e-36e4bcc81ddd"
 content_type: translation

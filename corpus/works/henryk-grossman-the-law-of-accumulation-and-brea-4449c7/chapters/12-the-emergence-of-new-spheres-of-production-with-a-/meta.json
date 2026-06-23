@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-law-of-accumulation-and-brea-4449c7",
+  "work_title": "The Law of Accumulation and Breakdown of the Capitalist System",
+  "chapter_number": 12,
+  "chapter_title": "The emergence of new spheres of production with a lower organic composition of capital",
+  "chapter_slug": "12-the-emergence-of-new-spheres-of-production-with-a-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37a797e3-76df-56e1-9ee1-a3a8bd17811f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 806,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/ch03.htm"
+    }
+  ]
+}

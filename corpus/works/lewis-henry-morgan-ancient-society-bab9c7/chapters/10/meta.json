@@ -1,0 +1,26 @@
+{
+  "work_slug": "lewis-henry-morgan-ancient-society-bab9c7",
+  "work_title": "Ancient Society",
+  "chapter_number": 10,
+  "chapter_title": "Chapter V",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60b15bc2-2252-5bf6-abfd-eb1d7abc2ce2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9354,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/morgan-lewis/ancient-society/ch08.htm"
+    }
+  ]
+}

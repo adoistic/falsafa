@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2070
+word_count: 2058
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
@@ -22,7 +22,7 @@ In still another way, the government denies men’s natural right to life. And t
 
 Even the few savages, who contrive to live, mostly or wholly, by hunting, fishing, and gathering wild fruits, without cultivating the earth, and almost wholly without the use of tools or machinery, are yet, at times, necessitated to buy and sell, borrow and lend, give and receive, articles of food, if no others, as their only means of preserving their lives. But, in civilized life, where but a small portion of men’s labor is necessary for the production of food, and they employ themselves in an almost infinite variety of industries, and in the production of an almost infinite variety of commodities, it would be impossible for them to live, if they were wholly prohibited from buying and selling, borrowing and lending, giving and receiving, the products of each other’s labor.
 
-Yet the government of the United States—either acting separately, or jointly Edition: current; Page: [35] with the State governments—has heretofore constantly denied, and still constantly denies, the natural right of the people, as individuals, to make their own contracts, for such buying and selling, borrowing and lending, and giving and receiving, such commodities as they produce for each other’s uses.
+Yet the government of the United States—either acting separately, or jointly with the State governments—has heretofore constantly denied, and still constantly denies, the natural right of the people, as individuals, to make their own contracts, for such buying and selling, borrowing and lending, and giving and receiving, such commodities as they produce for each other’s uses.
 
 I repeat that both the national and State governments have constantly denied the natural right of individuals to make their own contracts. They have done this, sometimes by arbitrarily forbidding them to make particular contracts, and sometimes by arbitrarily qualifying the obligations of particular contracts, when the contracts themselves were naturally and intrinsically as just and lawful as any others that men ever enter into; and were, consequently, such as men have as perfect a natural right to make, as they have to make any of those contracts which they are permitted to make.
 
@@ -36,7 +36,7 @@ But the government of the United States—and also the governments of the States
 
 These governments (State and national) deny this natural right of buying and selling, etc., by arbitrarily prohibiting, or qualifying, all such, and so many, of these contracts, as they choose to prohibit, or qualify.
 
-The prohibition, or qualification, of any one of these contracts—that are intrinsically Edition: current; Page: [36] just and lawful—is a denial of all individual natural right to make any of them. For the right to make any and all of them stands on the same grounds of natural law, natural justice, and men’s natural rights. If a government has the right to prohibit, or qualify, any one of these contracts, it has the same right to prohibit, or qualify, all of them. Therefore the assertion, by the government, of a right to prohibit, or qualify, any one of them, is equivalent to a denial of all natural right, on the part of individuals, to make any of them.
+The prohibition, or qualification, of any one of these contracts—that are intrinsically just and lawful—is a denial of all individual natural right to make any of them. For the right to make any and all of them stands on the same grounds of natural law, natural justice, and men’s natural rights. If a government has the right to prohibit, or qualify, any one of these contracts, it has the same right to prohibit, or qualify, all of them. Therefore the assertion, by the government, of a right to prohibit, or qualify, any one of them, is equivalent to a denial of all natural right, on the part of individuals, to make any of them.
 
 The power that has been thus usurped by governments, to arbitrarily prohibit or qualify all contracts that are naturally and intrinsically just and lawful, has been the great, perhaps the greatest, of all the instrumentalities, by which, in this, as in other countries, nearly all the wealth, accumulated by the labor of the many, has been, and is now, transferred into the pockets of the few.
 
@@ -50,7 +50,7 @@ A three-cent piece, if it could be divided into a sufficient number of pieces, w
 
 He means here to say, that “a three-cent piece” contains as much real, true, and natural market value, as it would be necessary that all the money of the country should have, if the government would but prohibit all other money; that is, if the government, by its arbitrary legislative power, would but make all other and better money unavailable.
 
-And this is the theory, on which John Locke, David Hume, Adam Smith, David Ricardo, J. R. McCulloch, and John Stuart Mill, in England, and Amasa Walker, Charles H. Carroll, Hugh McCulloch, in this country, and all the other conspicuous advocates of the monopoly, both in this country and in England, have attempted to justify it. They have all held that it was not necessary that money should be Edition: current; Page: [37] a bona fide equivalent of the labor or property to be bought with it; but that, by the prohibition of all other money, the holders of a comparatively worthless amount of licensed money would be enabled to buy, at their own prices, the labor and property of all other men.
+And this is the theory, on which John Locke, David Hume, Adam Smith, David Ricardo, J. R. McCulloch, and John Stuart Mill, in England, and Amasa Walker, Charles H. Carroll, Hugh McCulloch, in this country, and all the other conspicuous advocates of the monopoly, both in this country and in England, have attempted to justify it. They have all held that it was not necessary that money should be a bona fide equivalent of the labor or property to be bought with it; but that, by the prohibition of all other money, the holders of a comparatively worthless amount of licensed money would be enabled to buy, at their own prices, the labor and property of all other men.
 
 And this is the theory on which the governments of England and the United States have always, with immaterial exceptions, acted, in prohibiting all but such small amounts of money as they (the governments) should specially license. And it is the theory upon which they act now. And it is so manifestly a theory of pure robbery, that scarce a word can be necessary to make it more evidently so than it now is.
 

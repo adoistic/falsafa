@@ -1,0 +1,26 @@
+{
+  "work_slug": "clara-zetkin-through-dictatorship-to-democrac-1a9a37",
+  "work_title": "Through Dictatorship to Democracy",
+  "chapter_number": 10,
+  "chapter_title": "The Perdurability of Bolshevism",
+  "chapter_slug": "10-the-perdurability-of-bolshevism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe150043-d032-568e-a5bb-5fed217dcdf4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 591,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/zetkin/1919/xx/dictdem.htm"
+    }
+  ]
+}

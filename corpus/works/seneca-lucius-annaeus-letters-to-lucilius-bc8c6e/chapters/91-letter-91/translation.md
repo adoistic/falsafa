@@ -1,0 +1,60 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 91
+chapter_title: Letter 91
+chapter_slug: "91-letter-91"
+variant_id: "98fc69c9-0a16-591b-90ac-1e52f13504c3"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 2103
+translator: thothica
+---
+
+1. Our friend Liberalis is now downcast at the news of the fire by which the colony of Lyons was burned up. This disaster might move anyone, much more a man most loving toward his native city. And it is this that has made him seek the firmness of his own mind, which, no doubt, he had trained for those things which he thought could be feared. But that this evil, so unlooked-for and almost unheard-of, should have caught him without fear, I do not wonder, since it was without precedent. For fire has plagued many cities, but destroyed none. For even where the buildings have been kindled by an enemy's hand, the fire dies out in many places, and, though often revived, rarely devours the whole, so that scarcely anything is so destroyed that the wreckage stands as a memorial. An earthquake has hardly overthrown so many and such great buildings; nowhere has a fire blazed so fiercely as to leave nothing for the next; in one night so beautiful a city has fallen that you might say it had never stood.
+
+2. So many most beautiful works, each of which alone could ennoble a single city, one night laid low, and in such deep peace there has happened what could not be feared even in war. Who would believe it? When everywhere arms are at rest, when security is spread over the whole world, Lyons, which was the show of Gaul, is sought for and is not found. Fortune has allowed all those whom she has stricken publicly to fear beforehand what they were going to suffer. There was no great thing but had some interval before its ruin; in this case one night came between the greatest city and none at all. In short, I take longer to tell you that it perished than it took to perish.
+
+3. All these things bow down the feeling of our friend Liberalis, who stands unbent and erect against his own misfortunes; but he is shaken at the public ones, not without reason. For a new thing strikes more sharply. The novelty adds weight to disasters, and there is no mortal whom that grief has not stung the more because there was wonder in it.
+
+4. Therefore nothing ought to be unforeseen by us. The mind must be sent ahead against all things, and we must reflect not on what is wont to happen, but on what can happen. For what is there that fortune, when she has willed it, does not drag down from the very flourishing of its strength? What, the more it shines and is seen, does she not the more strike and harry? What is laborious to her, what difficult? Not always by one road, nor even with her whole force, does she rush in.
+
+5. Now she summons our own hands against us, now, content with her own strength, she finds dangers without an author. No time is exempt; in the very midst of pleasures the causes of pain arise. War springs up in the midst of peace, and the supports of security pass over into terror; out of a friend comes an enemy, an enemy out of an ally. The summer's calm is driven into sudden storms, greater than those of winter. Without an enemy we suffer the things of enemies, and, if other causes fail, excessive prosperity finds for itself the causes of ruin. Disease invades the most temperate, consumption the strongest, punishment the most innocent, tumult the most retired. Chance chooses something new through which to hurl its force upon those who have, as it were, forgotten it.
+
+6. Whatever a long succession has built up with many labours, with much indulgence of the gods, one day scatters and disperses. Too long a delay he has given to hastening evils who has named a day; an hour, a moment of time, suffices to overthrow empires. It would be a comfort to our weakness and to our affairs if all things perished as slowly as they come into being; but as it is, increases come on slowly, the way to ruin is swift.
+
+7. Nothing is stable, neither private nor public; the fates of men, as of cities, roll on. Amid the calmest things terror arises, and, though no causes are at work from without, evils break out from the quarter whence they were least expected. Kingdoms that have stood firm against civil wars, that have stood against foreign wars, fall with no one pushing. How few cities have carried their good fortune through to the end? Everything, therefore, must be thought on, and the mind must be made firm against the things that can happen.
+
+8. Exiles, the torments of disease, wars, shipwrecks, turn them over in your mind. Chance may tear you from your country, or your country from you, may thrust you out into the wilds, and that very place in which the crowd is stifled may become a wilderness. Let the whole condition of human affairs be set before us, and let us foresee in our minds not as much as is wont to happen, but as much as can happen, that we be not overwhelmed and stunned by unusual things, as though new; let fortune be reckoned with in her full sweep.
+
+9. How often have the cities of Asia, how often of Achaia, fallen with a single shock! How many towns in Syria, how many in Macedonia, have been swallowed up! How often has this disaster laid Cyprus waste! How often has Paphos collapsed upon itself! Often have the destructions of whole cities been reported to us, and we, among whom such things are often reported, how small a part of all men are we? Let us rise up, then, against the gifts of chance, and let us know that whatever befalls is not so great as it is bruited by rumour.
+
+10. A wealthy city has burned, an ornament of the provinces, among which it was both set and excepted, yet set upon a single hill, and that not a very broad one; of all those cities which you now hear called magnificent and noble, time will erase even the traces. Do you not see how in Achaia the very foundations of the most famous cities are now consumed, and nothing stands by which it might be known that they ever even existed? Not only the things made by hand fail, not only what human art and industry has set up does the day overturn; the ridges of mountains melt away, whole regions have sunk, places that stood far from the sight of the sea are covered by the waves.
+
+11. The vast force of fires has eaten away the hills through which they shone, and has brought down peaks once high and a comfort to sailors. The works of nature herself are vexed; and therefore we ought to bear with even mind the destruction of cities. They stand only to fall. This end awaits them all, whether the inner force of subterranean blasts shall some day throw off this weight, or the violence of subterranean torrents shall break through obstacles, or the force of fires shall burst the crust of the earth, or old age, from which nothing is safe, shall slowly subdue them, or pestilence of climate shall drive out the peoples and the deserted places shall fall into decay. It would be long to recount all the ways of fate.
+
+12. This one thing I know: all the works of mortals are condemned to mortality; we live among things that will perish.
+
+13. These, then, and comforts of this kind I offer to our friend Liberalis, who burns with an incredible love of his country, which perhaps has been consumed only that it may be raised again to something better. Often a wrong has made room for a greater fortune. Many things have fallen that they might rise higher. Timagenes, an enemy to the prosperity of the city, used to say that the fires of Rome grieved him for this one reason, that he knew better buildings would rise than had burned.
+
+14. In this city too it is likely that all will strive to restore greater and surer things than they lost. May it stand long and, under better auspices, last to a more fortunate age! For this colony has now been founded one hundred years, an age not even granted to a man. Plancus founded it, and by the suitableness of the place it grew to that throng we now mourn. How many disasters has it borne in the space of so brief an old age!
+
+15. Therefore let the mind be shaped to the understanding and endurance of its lot, and let it know that there is nothing fortune does not dare, that she has the same right over empires as over emperors, the same over cities as over men. There is no reason for indignation at these things. We have entered a world in which men live by these laws. Does it please you? Obey. Does it not please you? Go out, by whatever way you will. Be indignant if anything has been unjustly ordained against you in particular; but if this necessity binds the highest and the lowest, return into favour with fate, by which all things are dissolved.
+
+16. There is no reason why you should measure us by our tombs and by those monuments of unequal size that line the road; ashes level all. We are born unequal, we die equal. The same I say of cities as of the dwellers in cities: Ardea was as much captured as Rome. That founder of human law decreed that we should be made eminent or humble not by our birth nor by the splendour of our names, except while we live; but when we have come to the end of mortals, "Away," he says, "ambition! Let one and the same law hold for all things that press upon the earth." For all things to be endured we are equals; no one is more fragile than another, no one more sure of himself for the morrow.
+
+17. Alexander, king of the Macedonians, had begun to learn geometry, unhappy man, that he might come to know how tiny was that earth of which he had seized the smallest part. So I say: unhappy for this, that he ought to have understood that he bore a false surname. For who can be great in what is small? Those things which were being taught were subtle and to be learned with diligent attention, not such as a madman could grasp, one sending his thoughts across the ocean. "Teach me easy things," he said. To whom his teacher: "These things," he said, "are the same for all, equally difficult."
+
+18. Think that the nature of things says this: "Those things of which you complain are the same for all. I can give easier ones to none; but whoever wishes may make them easier for himself." How? By evenness of mind. You must both feel pain and thirst and hunger and grow old, if a longer stay among men falls to you, and fall sick and lose something and perish.
+
+19. Yet there is no reason why you should believe those who din around you; none of these things is an evil, none unbearable or hard. It is by common agreement that there is fear of them. So you fear death as you fear ill repute. But what is more foolish than a man fearing words? Our friend Demetrius is wont to say neatly that the voices of the ignorant are to him in the same place as the noises let out by the belly. "For what does it matter to me," he says, "whether they sound from above or from below?"
+
+20. What madness it is to fear being defamed by the infamous! As you have dreaded ill repute without cause, so too those things which you would never fear had not ill repute bidden you. Would a good man suffer any loss if he were sprinkled with unjust rumours? Let us not allow this to harm even death in our esteem; death too has an ill repute. None of those who slander it have made trial of it. Meanwhile it is rashness to condemn what you do not know.
+
+21. But this you do know, to how many it is useful, how many it frees from torments, want, complaints, punishments, weariness. We are in no man's power, when death is in our own power. Farewell.

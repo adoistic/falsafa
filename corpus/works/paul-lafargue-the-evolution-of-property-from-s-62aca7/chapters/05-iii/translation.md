@@ -1,0 +1,39 @@
+---
+work_id: "62aca711-2b63-5cd0-8682-ccfb40e4682a"
+work_slug: "paul-lafargue-the-evolution-of-property-from-s-62aca7"
+work_title: The Evolution of Property from Savagery to Civilization
+author_name: Paul Lafargue
+chapter_number: 5
+chapter_title: III
+chapter_slug: "05-iii"
+variant_id: "1e3ce9ce-69e0-571c-8f32-3242d36abc10"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1075
+source_url: "https://www.marxists.org/archive/lafargue/1890/property/2-primcomm.html"
+translator: Marxists Internet Archive edition
+---
+
+So long as primitive communism subsists, the tribal lands are cultivated in common. “ In certain parts of India,” says Nearchus, one of Alexander’s generals, and eye-witness of events that took place in the 4th century, B.C., “ the lands were cultivated in common by tribes or groups of relatives, who at the end of the year shared among themselves the fruits and crops.”
+
+Stephen cites a settlement of Maya Indians composed of 100 labourers, “ in which the lands are held and wrought in common and products shared by all.”
+
+From Tao, an Indian village of New Mexico, Mr. Miller, in Dec. 1877, wrote to Morgan: “There is a cornfield at each pueblo, cultivated by all in common, and when the grain is scarce the poor take from this store after it is housed, and it is in the charge and at the disposal of the Cacique, called the Governor.” In Peru, prior to the Spanish Conquest, agricultural labour possessed the attraction of a feast. At break of day, from an eminence, or a tower, the whole of the population was convoked men women, and children, who all assembled in holiday attire and adorned with their most precious ornaments. The crowd set to work, and sang in chorus hymns celebrating the prowess of the Incas. The work was accomplished with the utmost spirit and enthusiasm. Cæsar relates that the Suevi, the most warlike and most powerful of the Germanic tribes, annually sent forth to combat a hundred men from a hundred cantons. The men that stayed at home were bound to maintain the men engaged in the expedition; the following year it was the combatants who remained at home and the others who took up arms; in this way, he adds, the fields were always cultivated and the men practised in war. (De Bello Gallico, IV, 1.) The Scandinavians who ravaged Europe had similar communistic practices, combined with warlike expeditions; the latter over, they returned home to assist their wives in gathering in the harvest. This cultivation in common long survived the status of primitive communism. In the Russian villages which are under the regime of collective or consanguine property, a certain tract of land is often cultivated in common and is called mirskia zapaschki (fields tilled by the mir); the produce of the harvest is distributed among the families of the village. In other places the arable lands are tilled jointly, and are afterwards allotted to the families. In several communities of the Don the meadows elsewhere portioned out remain undivided, the mowing is performed in common, and it is only after the hay is made that the partition takes place. Forests, also, are cleared in common. The co-operative ploughing and digging practised in the village communities ought probably to be referred to the period of communist agriculture. In Fiji, when preparing a piece of ground, a number of men are employed, divided into groups of three or four. Each man being furnished with a digging stick, they drive them into the ground so as to enclose a circle of about two feet in diameter. When by repeated strokes the sticks reach the depth of 18 inches, they are used as levers, and the mass of soil between them is then loosened and raised. Mr. Gomme cites, after Ure, an analogous practice of the Scotch highlanders.
+
+Cæsar shows us how the Germans set out annually on predatory expeditions; the booty was, probably, divided among all the warriors, including those who had remained at home to perform the agricultural labour of the community. The Greeks of prehistoric times, also, were audacious pirates, who scoured the Mediterranean and fled with their booty to their citadels, perched on the tops of promontories like eagles’ nests, and as inexpugnable as the round towers of the Scandinavians, built in the midst of the waters. A precious fragment of a Greek song, the Skolion of Hybrias, presents us with a picture of the heroic lives of the Greeks. The hero says:
+
+“I have for riches a great lance, and my sword, and my buckler, the rampart of my body; with these I till the ground and reap the harvest and vintage the sweet juice of the grape; thanks to these I am styled the master of the mnoia (the slaves of the community). Let those who dare not bear the lance and the buckler kneel to me as to a master and call me the great king.”
+
+Piracy is the favourite pursuit of prehistoric times. Nestor inquires of Telemachus, his guest, if he is a pirate (Odyssey III). Solon maintained a college of pirates at Athens (Institutes of Gaius), and Thucydides states that in ancient times piracy was honourable (I., sec. 5).
+
+Wherever the heroes landed, they carried off men, women, cattle, crops, and movables; the men became slaves and common property; they were placed under the supervision of the women, and cultivated the lands for the warriors of the clan. All of the cities of Crete, one of the first islands colonised by these bold pirates, possessed, down to the time of Aristotle, troops of slaves, called mnotie, who cultivated the public domains. The Greek cities maintained, besides a public domain, public slaves, and upheld common repasts similar to those described by Heraclides.
+
+Mr. Hodgson, in 1830, described a village, thirty miles north-west of Madras, the inhabitants of which were assisted in their agricultural operations by slaves who were common property; for they were transferred with the other privileges of the village occupants when those privileges were sold or mortgaged. The mediæval towns and even villages had serfs in common.
+
+Thus we see that everywhere property in land and its produce, in domestic animals, serfs and slaves, was primarily property common to all the members of the clan. Communism was the cradle of humanity; the work of civilisation has been to destroy this primitive communism, of which the last vestiges that remain, in defiance of the rapacity of the aristocrat and the bourgeois, are the communal lands. But the work of civilisation is twofold: while on the one hand it destroys, on the other hand it reconstructs; while it broke into pieces the communist mould of primitive humanity, it was building up the elements of a higher and more complex form of communism. I am here concerned to trace out civilisation in its double movement of destruction and reconstruction.
+
+<< 1. Contemporaneous Property | 3. Family Collectivism >>

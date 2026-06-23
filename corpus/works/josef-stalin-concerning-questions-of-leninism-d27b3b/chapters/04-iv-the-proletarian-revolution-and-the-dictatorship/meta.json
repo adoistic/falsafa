@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-concerning-questions-of-leninism-d27b3b",
+  "work_title": "Concerning Questions of Leninism",
+  "chapter_number": 4,
+  "chapter_title": "IV the Proletarian Revolution and the Dictatorship of the Proletariat",
+  "chapter_slug": "04-iv-the-proletarian-revolution-and-the-dictatorship",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4bd7c94d-10f5-5fbf-8911-23c5b5d0967f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3222,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1926/01/25.htm"
+    }
+  ]
+}

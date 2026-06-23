@@ -1,0 +1,3428 @@
+{
+ "count": 380,
+ "total_words": 5849193,
+ "generated_from": "PerseusDL canonical-greekLit + canonical-latinLit (blobless)",
+ "criterion": "work has a grc or lat original edition but NO -eng edition",
+ "works": [
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg001",
+   "author": "Dionysius of Halicarnassus",
+   "title": "Antiquitates Romanae",
+   "orig_lang": "grc",
+   "orig_words": 284750
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg4029",
+   "work": "tlg001",
+   "author": "Procopius",
+   "title": "De Bellis",
+   "orig_lang": "grc",
+   "orig_words": 224673
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0385",
+   "work": "tlg001",
+   "author": "Cassius Dio Cocceianus",
+   "title": "Historia Romana",
+   "orig_lang": "grc",
+   "orig_words": 207025
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0612",
+   "work": "tlg001",
+   "author": "Dio Chrysostom",
+   "title": "Orationes",
+   "orig_lang": "grc",
+   "orig_words": 179055
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0555",
+   "work": "tlg004",
+   "author": "Clement of Alexandria",
+   "title": "Stromata",
+   "orig_lang": "grc",
+   "orig_words": 163071
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2040",
+   "work": "tlg004",
+   "author": "Basil, Saint, Bishop of Caesarea",
+   "title": "Epistulae",
+   "orig_lang": "grc",
+   "orig_words": 145957
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2045",
+   "work": "tlg001",
+   "author": "Nonnus of Panopolis",
+   "title": "Dionysiaca",
+   "orig_lang": "grc",
+   "orig_words": 128459
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi015",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "Epistulae",
+   "orig_lang": "lat",
+   "orig_words": 128219
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0060",
+   "work": "tlg001",
+   "author": "Diodorus Siculus",
+   "title": "Historical Library",
+   "orig_lang": "grc",
+   "orig_words": 121652
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg3135",
+   "work": "tlg001",
+   "author": "Zonaras",
+   "title": "Epitome historiarum (Vol. 1)",
+   "orig_lang": "grc",
+   "orig_words": 104944
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2018",
+   "work": "tlg002",
+   "author": "Eusebius of Caesarea",
+   "title": "Ecclesiastical History",
+   "orig_lang": "grc",
+   "orig_words": 103729
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0545",
+   "work": "tlg001",
+   "author": "Aelian",
+   "title": "De Natura Animalium",
+   "orig_lang": "grc",
+   "orig_words": 103396
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi049",
+   "author": "Cicero, Marcus Tullius",
+   "title": "Tusculanae Disputationes",
+   "orig_lang": "lat",
+   "orig_words": 94665
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0638",
+   "work": "tlg001",
+   "author": "Philostratus the Athenian",
+   "title": "Life of Apollonius of Tyana",
+   "orig_lang": "grc",
+   "orig_words": 84166
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa006",
+   "author": "Tertullian",
+   "title": "Adversus Marcionem",
+   "orig_lang": "lat",
+   "orig_words": 82786
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1038",
+   "work": "phi001",
+   "author": "Valerius Maximus",
+   "title": "Facta et Dicta Memorabilia",
+   "orig_lang": "lat",
+   "orig_words": 80394
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0074",
+   "work": "tlg001",
+   "author": "Arrian",
+   "title": "Ἀλεξάνδρου Ἀνάβασις",
+   "orig_lang": "grc",
+   "orig_words": 78936
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1345",
+   "work": "phi001",
+   "author": "Silius Italicus, Tiberius Catius",
+   "title": "Punica",
+   "orig_lang": "lat",
+   "orig_words": 76768
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0860",
+   "work": "phi001",
+   "author": "Curtius Rufus, Quintus",
+   "title": "Historiarum Alexandri Magni",
+   "orig_lang": "lat",
+   "orig_words": 74633
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi048",
+   "author": "Cicero, Marcus Tullius",
+   "title": "de Finibus Bonorum et Malorum",
+   "orig_lang": "lat",
+   "orig_words": 68724
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1020",
+   "work": "phi001",
+   "author": "Statius, P. Papinius (Publius Papinius)",
+   "title": "Thebais",
+   "orig_lang": "lat",
+   "orig_words": 68371
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1318",
+   "work": "phi001",
+   "author": "Pliny, the Younger",
+   "title": "Epistulae",
+   "orig_lang": "lat",
+   "orig_words": 67662
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2934",
+   "work": "tlg066",
+   "author": "John of Damascus, Saint",
+   "title": "Vita Barlaam et Joasaph",
+   "orig_lang": "grc",
+   "orig_words": 67629
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1014",
+   "work": "phi001",
+   "author": "Seneca the Elder",
+   "title": "Controversiae",
+   "orig_lang": "lat",
+   "orig_words": 67144
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi037",
+   "author": "Cicero, Marcus Tullius",
+   "title": "On Oratory",
+   "orig_lang": "lat",
+   "orig_words": 62251
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2046",
+   "work": "tlg001",
+   "author": "Quintus Smyrnaeus",
+   "title": "Fall of Troy",
+   "orig_lang": "grc",
+   "orig_words": 60909
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1294",
+   "work": "phi002",
+   "author": "Martial",
+   "title": "Epigrammata",
+   "orig_lang": "lat",
+   "orig_words": 58344
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1035",
+   "work": "phi001",
+   "author": "Valerius Flaccus, Gaius",
+   "title": "Argonautica",
+   "orig_lang": "lat",
+   "orig_words": 52979
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg046",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 46",
+   "orig_lang": "grc",
+   "orig_words": 52268
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0261",
+   "work": "stoa0002",
+   "author": "stoa0261",
+   "title": "stoa0002",
+   "orig_lang": "lat",
+   "orig_words": 49274
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi013",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De Beneficiis",
+   "orig_lang": "lat",
+   "orig_words": 48359
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0162",
+   "work": "stoa004",
+   "author": "Jerome, Saint",
+   "title": "Epistolae",
+   "orig_lang": "lat",
+   "orig_words": 43790
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0532",
+   "work": "tlg001",
+   "author": "Achilles Tatius",
+   "title": "Leucippe and Clitophon",
+   "orig_lang": "grc",
+   "orig_words": 41786
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg1389",
+   "work": "tlg001",
+   "author": "Harpocration",
+   "title": "Lexicon in decem oratores Atticos",
+   "orig_lang": "grc",
+   "orig_words": 39297
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0001",
+   "work": "tlg001",
+   "author": "Apollonius Rhodius",
+   "title": "Argonautica",
+   "orig_lang": "grc",
+   "orig_words": 38992
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0545",
+   "work": "tlg002",
+   "author": "Aelian",
+   "title": "Varia Historia",
+   "orig_lang": "grc",
+   "orig_words": 38712
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0363",
+   "work": "tlg007",
+   "author": "Claudius Ptolemaeus",
+   "title": "Tetrabiblos",
+   "orig_lang": "grc",
+   "orig_words": 38156
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi050",
+   "author": "Cicero, Marcus Tullius",
+   "title": "de Natura Deorum",
+   "orig_lang": "lat",
+   "orig_words": 36292
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0554",
+   "work": "tlg001",
+   "author": "Chariton of Aphrodisias",
+   "title": "De Chaerea et Callirhoe",
+   "orig_lang": "grc",
+   "orig_words": 34929
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg7000",
+   "work": "tlg001",
+   "author": "Greek Anthology",
+   "title": "Greek Anthology",
+   "orig_lang": "grc",
+   "orig_words": 33594
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi036",
+   "author": "Cicero, Marcus Tullius",
+   "title": "De Inventione",
+   "orig_lang": "lat",
+   "orig_words": 33561
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi039",
+   "author": "Cicero, Marcus Tullius",
+   "title": "Brutus",
+   "orig_lang": "lat",
+   "orig_words": 33283
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg4029",
+   "work": "tlg002",
+   "author": "Procopius",
+   "title": "Historia Arcana",
+   "orig_lang": "grc",
+   "orig_words": 32373
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0959",
+   "work": "phi007",
+   "author": "Ovid",
+   "title": "Fasti",
+   "orig_lang": "lat",
+   "orig_words": 31938
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1242",
+   "work": "phi001",
+   "author": "Florus, Lucius Annaeus",
+   "title": "Epitome Rerum Romanorum",
+   "orig_lang": "lat",
+   "orig_words": 30302
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi045",
+   "author": "Cicero, Marcus Tullius",
+   "title": "Academica",
+   "orig_lang": "lat",
+   "orig_words": 30286
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg045",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 45",
+   "orig_lang": "grc",
+   "orig_words": 30116
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0562",
+   "work": "tlg001",
+   "author": "Marcus Aurelius",
+   "title": "Ad Se Ipsum",
+   "orig_lang": "grc",
+   "orig_words": 29383
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0638",
+   "work": "tlg003",
+   "author": "Philostratus the Athenian",
+   "title": "Lives of the Sophists",
+   "orig_lang": "grc",
+   "orig_words": 29257
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1020",
+   "work": "phi002",
+   "author": "Statius, P. Papinius (Publius Papinius)",
+   "title": "Silvae",
+   "orig_lang": "lat",
+   "orig_words": 29068
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg013",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 13",
+   "orig_lang": "grc",
+   "orig_words": 28716
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg013",
+   "author": "Julian, Emperor of Rome",
+   "title": "Epistolae",
+   "orig_lang": "grc",
+   "orig_words": 27481
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1276",
+   "work": "phi001",
+   "author": "Juvenal",
+   "title": "Saturae",
+   "orig_lang": "lat",
+   "orig_words": 27019
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0620",
+   "work": "phi001",
+   "author": "Propertius, Sextus",
+   "title": "Elegiae",
+   "orig_lang": "lat",
+   "orig_words": 25497
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0555",
+   "work": "tlg001",
+   "author": "Clement of Alexandria",
+   "title": "Protrepticus",
+   "orig_lang": "grc",
+   "orig_words": 25053
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi040",
+   "author": "Cicero, Marcus Tullius",
+   "title": "Orator",
+   "orig_lang": "lat",
+   "orig_words": 24206
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi046",
+   "author": "Cicero, Marcus Tullius",
+   "title": "Lucullus",
+   "orig_lang": "lat",
+   "orig_words": 23935
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0959",
+   "work": "phi008",
+   "author": "Ovid",
+   "title": "Tristia",
+   "orig_lang": "lat",
+   "orig_words": 23786
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0255",
+   "work": "stoa010",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De Ira",
+   "orig_lang": "lat",
+   "orig_words": 23665
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa010",
+   "author": "Tertullian",
+   "title": "De Anima",
+   "orig_lang": "lat",
+   "orig_words": 23665
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg056",
+   "author": "Aristides, Aelius",
+   "title": "Ars Rhetorica",
+   "orig_lang": "grc",
+   "orig_words": 23306
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg1600",
+   "work": "tlg001",
+   "author": "Philostratus Sophista",
+   "title": "Imagines",
+   "orig_lang": "grc",
+   "orig_words": 23260
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0023",
+   "work": "tlg001",
+   "author": "Oppian",
+   "title": "Halieutica",
+   "orig_lang": "grc",
+   "orig_words": 22898
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa026",
+   "author": "Tertullian",
+   "title": "De Carnis Resurrectione",
+   "orig_lang": "lat",
+   "orig_words": 22695
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0261",
+   "work": "stoa0001",
+   "author": "stoa0261",
+   "title": "stoa0001",
+   "orig_lang": "lat",
+   "orig_words": 22615
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi043",
+   "author": "Cicero, Marcus Tullius",
+   "title": "De Republica",
+   "orig_lang": "lat",
+   "orig_words": 22436
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1212",
+   "work": "phi001",
+   "author": "Apuleius",
+   "title": "Apologia",
+   "orig_lang": "lat",
+   "orig_words": 22227
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0638",
+   "work": "tlg004",
+   "author": "Philostratus the Athenian",
+   "title": "Heroicus",
+   "orig_lang": "grc",
+   "orig_words": 22200
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg006",
+   "author": "Dionysius of Halicarnassus",
+   "title": "De Demosthene",
+   "orig_lang": "grc",
+   "orig_words": 22115
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1014",
+   "work": "phi002",
+   "author": "Seneca the Elder",
+   "title": "Excerpta Controversiae",
+   "orig_lang": "lat",
+   "orig_words": 21873
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0959",
+   "work": "phi009",
+   "author": "Ovid",
+   "title": "Ex Ponto",
+   "orig_lang": "lat",
+   "orig_words": 21650
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg012",
+   "author": "Dionysius of Halicarnassus",
+   "title": "De Compositione Verborum",
+   "orig_lang": "grc",
+   "orig_words": 21022
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa009",
+   "author": "Tertullian",
+   "title": "Apologeticum",
+   "orig_lang": "lat",
+   "orig_words": 20046
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0005",
+   "work": "tlg001",
+   "author": "Theocritus",
+   "title": "Εἰδύλλια",
+   "orig_lang": "grc",
+   "orig_words": 19877
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0561",
+   "work": "tlg001",
+   "author": "Longus",
+   "title": "Daphnis and Chloe",
+   "orig_lang": "grc",
+   "orig_words": 19838
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0238",
+   "work": "stoa001",
+   "author": "Prudentius",
+   "title": "Liber Peristephanon",
+   "orig_lang": "lat",
+   "orig_words": 17786
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg010",
+   "author": "Dionysius of Halicarnassus",
+   "title": "De Thucydide",
+   "orig_lang": "grc",
+   "orig_words": 16977
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0086",
+   "work": "tlg003",
+   "author": "Aristotle",
+   "title": "Constitution of the Athenians",
+   "orig_lang": "grc",
+   "orig_words": 16934
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0641",
+   "work": "tlg001",
+   "author": "Xenophon of Ephesus",
+   "title": "Ephesiaca",
+   "orig_lang": "grc",
+   "orig_words": 16619
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0079",
+   "work": "stoa001",
+   "author": "stoa0079",
+   "title": "stoa001",
+   "orig_lang": "lat",
+   "orig_words": 16168
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2003",
+   "work": "phi001",
+   "author": "phi2003",
+   "title": "phi001",
+   "orig_lang": "lat",
+   "orig_words": 16030
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0613",
+   "work": "tlg001",
+   "author": "Demetrius of Phaleron",
+   "title": "Libro de Elocutione",
+   "orig_lang": "grc",
+   "orig_words": 15588
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa002",
+   "author": "Tertullian",
+   "title": "Ad Nationes Libri Duo",
+   "orig_lang": "lat",
+   "orig_words": 15029
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa007",
+   "author": "Tertullian",
+   "title": "Adversus Praxean",
+   "orig_lang": "lat",
+   "orig_words": 14686
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0058",
+   "work": "tlg001",
+   "author": "Aeneas Tacticus",
+   "title": "Poliorcetica",
+   "orig_lang": "grc",
+   "orig_words": 14170
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0024",
+   "work": "tlg001",
+   "author": "Oppian of Apamea",
+   "title": "Cynegetica",
+   "orig_lang": "grc",
+   "orig_words": 14012
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0074",
+   "work": "tlg002",
+   "author": "Arrian",
+   "title": "Indica",
+   "orig_lang": "grc",
+   "orig_words": 13876
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa025",
+   "author": "Tertullian",
+   "title": "De Pudicitia",
+   "orig_lang": "lat",
+   "orig_words": 13500
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg003",
+   "author": "Julian, Emperor of Rome",
+   "title": "The Heroic Deeds of the Emperor Constantius, or on Kingship",
+   "orig_lang": "grc",
+   "orig_words": 13159
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0560",
+   "work": "tlg001",
+   "author": "Longinus",
+   "title": "On the Sublime",
+   "orig_lang": "grc",
+   "orig_words": 12793
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0660",
+   "work": "phi001",
+   "author": "Tibullus",
+   "title": "Elegiae",
+   "orig_lang": "lat",
+   "orig_words": 12450
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0648",
+   "work": "tlg001",
+   "author": "Onasander",
+   "title": "Strategicus",
+   "orig_lang": "grc",
+   "orig_words": 12256
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0238",
+   "work": "stoa007",
+   "author": "Prudentius",
+   "title": "Contra Orationem Symmachia",
+   "orig_lang": "lat",
+   "orig_words": 12126
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi018",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Alexander Severus",
+   "orig_lang": "lat",
+   "orig_words": 12022
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi001fr",
+   "author": "Titus Livius (Livy)",
+   "title": "phi001fr",
+   "orig_lang": "lat",
+   "orig_words": 11776
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg001",
+   "author": "Julian, Emperor of Rome",
+   "title": "Panegyric in Honor of the Emperor Constantinus",
+   "orig_lang": "grc",
+   "orig_words": 11704
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0203",
+   "work": "stoa001",
+   "author": "Minucius Felix, Marcus",
+   "title": "Octavius",
+   "orig_lang": "lat",
+   "orig_words": 11699
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi009",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "Hercules Oetaeus",
+   "orig_lang": "lat",
+   "orig_words": 11425
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi038",
+   "author": "Cicero, Marcus Tullius",
+   "title": "Partitiones Oratoriae",
+   "orig_lang": "lat",
+   "orig_words": 11327
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg049",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 49",
+   "orig_lang": "grc",
+   "orig_words": 11263
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa005",
+   "author": "Tertullian",
+   "title": "Adversus Judaeos Liber",
+   "orig_lang": "lat",
+   "orig_words": 11235
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa004",
+   "author": "Tertullian",
+   "title": "Adversus Hermogenem",
+   "orig_lang": "lat",
+   "orig_words": 11153
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg054",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 54",
+   "orig_lang": "grc",
+   "orig_words": 10972
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg048",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 48",
+   "orig_lang": "grc",
+   "orig_words": 10820
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg017",
+   "author": "Julian, Emperor of Rome",
+   "title": "Κατὰ Γαλιλαίων",
+   "orig_lang": "grc",
+   "orig_words": 10781
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0019",
+   "work": "tlg004",
+   "author": "Aristophanes",
+   "title": "Wasps",
+   "orig_lang": "grc",
+   "orig_words": 10693
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1014",
+   "work": "phi003",
+   "author": "Seneca the Elder",
+   "title": "Suasoriae",
+   "orig_lang": "lat",
+   "orig_words": 10428
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0019",
+   "work": "tlg009",
+   "author": "Aristophanes",
+   "title": "Frogs",
+   "orig_lang": "grc",
+   "orig_words": 10225
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0893",
+   "work": "phi005",
+   "author": "Horace",
+   "title": "Epistulae",
+   "orig_lang": "lat",
+   "orig_words": 10008
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0555",
+   "work": "tlg006",
+   "author": "Clement of Alexandria",
+   "title": "Quis Dis Salvetur",
+   "orig_lang": "grc",
+   "orig_words": 9930
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0019",
+   "work": "tlg002",
+   "author": "Aristophanes",
+   "title": "Knights",
+   "orig_lang": "grc",
+   "orig_words": 9762
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa012",
+   "author": "Tertullian",
+   "title": "De Carne Christi",
+   "orig_lang": "lat",
+   "orig_words": 9553
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0255",
+   "work": "stoa007",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De consolatione ad Marciam",
+   "orig_lang": "lat",
+   "orig_words": 9385
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0019",
+   "work": "tlg007",
+   "author": "Aristophanes",
+   "title": "Lysistrata",
+   "orig_lang": "grc",
+   "orig_words": 9168
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0074",
+   "work": "tlg005",
+   "author": "Arrian",
+   "title": "Tactica",
+   "orig_lang": "grc",
+   "orig_words": 9095
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0019",
+   "work": "tlg011",
+   "author": "Aristophanes",
+   "title": "Wealth",
+   "orig_lang": "grc",
+   "orig_words": 9080
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi026",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Divus Aurelianus",
+   "orig_lang": "lat",
+   "orig_words": 9053
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg053",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 53",
+   "orig_lang": "grc",
+   "orig_words": 9032
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0019",
+   "work": "tlg005",
+   "author": "Aristophanes",
+   "title": "Peace",
+   "orig_lang": "grc",
+   "orig_words": 8989
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg007",
+   "author": "Julian, Emperor of Rome",
+   "title": "To the Cynic Heracleios",
+   "orig_lang": "grc",
+   "orig_words": 8967
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi014",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De Clementia",
+   "orig_lang": "lat",
+   "orig_words": 8864
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0019",
+   "work": "tlg010",
+   "author": "Aristophanes",
+   "title": "Ecclesiazusae",
+   "orig_lang": "grc",
+   "orig_words": 8745
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg014",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 14",
+   "orig_lang": "grc",
+   "orig_words": 8446
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg012",
+   "author": "Julian, Emperor of Rome",
+   "title": "Misopogon",
+   "orig_lang": "grc",
+   "orig_words": 8418
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa024",
+   "author": "Tertullian",
+   "title": "De Praescriptionibus Hereticorum",
+   "orig_lang": "lat",
+   "orig_words": 8354
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0255",
+   "work": "stoa013",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De Tranquilitate Animi",
+   "orig_lang": "lat",
+   "orig_words": 8232
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0019",
+   "work": "tlg008",
+   "author": "Aristophanes",
+   "title": "Thesmophoriazusae",
+   "orig_lang": "grc",
+   "orig_words": 8208
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1212",
+   "work": "phi003",
+   "author": "Apuleius",
+   "title": "Florida",
+   "orig_lang": "lat",
+   "orig_words": 8124
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0019",
+   "work": "tlg001",
+   "author": "Aristophanes",
+   "title": "Acharnians",
+   "orig_lang": "grc",
+   "orig_words": 8025
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa030",
+   "author": "Tertullian",
+   "title": "Scorpiace",
+   "orig_lang": "lat",
+   "orig_words": 8015
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg026",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 26",
+   "orig_lang": "grc",
+   "orig_words": 8012
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0653",
+   "work": "tlg001",
+   "author": "Aratus Solensis",
+   "title": "Phaenomena",
+   "orig_lang": "grc",
+   "orig_words": 7971
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0255",
+   "work": "stoa014",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De Vita Beata",
+   "orig_lang": "lat",
+   "orig_words": 7868
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg003",
+   "author": "Dionysius of Halicarnassus",
+   "title": "De Lysia",
+   "orig_lang": "grc",
+   "orig_words": 7851
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1020",
+   "work": "phi003",
+   "author": "Statius, P. Papinius (Publius Papinius)",
+   "title": "Achilleis",
+   "orig_lang": "lat",
+   "orig_words": 7827
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0638",
+   "work": "tlg007",
+   "author": "Philostratus the Athenian",
+   "title": "De Gymnastica",
+   "orig_lang": "grc",
+   "orig_words": 7799
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi042",
+   "author": "Cicero, Marcus Tullius",
+   "title": "Topica",
+   "orig_lang": "lat",
+   "orig_words": 7766
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi001",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "Hercules Furens",
+   "orig_lang": "lat",
+   "orig_words": 7745
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0638",
+   "work": "tlg006",
+   "author": "Philostratus the Athenian",
+   "title": "Epistulae et dialexeis",
+   "orig_lang": "grc",
+   "orig_words": 7705
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi024",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Tyranni Triginta",
+   "orig_lang": "lat",
+   "orig_words": 7677
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg011",
+   "author": "Julian, Emperor of Rome",
+   "title": "Hymn to King Helios Dedicated to Sallust",
+   "orig_lang": "grc",
+   "orig_words": 7571
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0341",
+   "work": "tlg002",
+   "author": "Lycophron",
+   "title": "Alexandra",
+   "orig_lang": "grc",
+   "orig_words": 7563
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0238",
+   "work": "stoa005",
+   "author": "Prudentius",
+   "title": "Apotheosis",
+   "orig_lang": "lat",
+   "orig_words": 7507
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0238",
+   "work": "stoa004",
+   "author": "Prudentius",
+   "title": "Cathemerina",
+   "orig_lang": "lat",
+   "orig_words": 7491
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0652",
+   "work": "tlg001",
+   "author": "Philostratus Minor",
+   "title": "Imagines",
+   "orig_lang": "grc",
+   "orig_words": 7322
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi005",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "Phaedra",
+   "orig_lang": "lat",
+   "orig_words": 7285
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0255",
+   "work": "stoa006",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De consolatione ad Helviam",
+   "orig_lang": "lat",
+   "orig_words": 7163
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa019",
+   "author": "Tertullian",
+   "title": "De Monogamia",
+   "orig_lang": "lat",
+   "orig_words": 7040
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg002",
+   "author": "Julian, Emperor of Rome",
+   "title": "Panegyric on the Empress Eusebia",
+   "orig_lang": "grc",
+   "orig_words": 6968
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa017",
+   "author": "Tertullian",
+   "title": "De idolatria",
+   "orig_lang": "lat",
+   "orig_words": 6955
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi002",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "Troades Furens",
+   "orig_lang": "lat",
+   "orig_words": 6933
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0093",
+   "work": "tlg009",
+   "author": "Theophrastus",
+   "title": "Characters",
+   "orig_lang": "grc",
+   "orig_words": 6866
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg010",
+   "author": "Julian, Emperor of Rome",
+   "title": "The Caesars",
+   "orig_lang": "grc",
+   "orig_words": 6823
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0556",
+   "work": "tlg001",
+   "author": "Asclepiodotus",
+   "title": "Tactica",
+   "orig_lang": "grc",
+   "orig_words": 6768
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0255",
+   "work": "stoa004",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De Brevitate Vitae",
+   "orig_lang": "lat",
+   "orig_words": 6746
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0655",
+   "work": "tlg001",
+   "author": "Parthenius of Nicaea",
+   "title": "Narrationes Amatoriae",
+   "orig_lang": "grc",
+   "orig_words": 6710
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi004",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Marcus Antoninus Philosophus",
+   "orig_lang": "lat",
+   "orig_words": 6532
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg042",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 42",
+   "orig_lang": "grc",
+   "orig_words": 6495
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg004",
+   "author": "Dionysius of Halicarnassus",
+   "title": "De Isocrate",
+   "orig_lang": "grc",
+   "orig_words": 6489
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0238",
+   "work": "stoa006",
+   "author": "Prudentius",
+   "title": "Hamartigenia",
+   "orig_lang": "lat",
+   "orig_words": 6479
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa027",
+   "author": "Tertullian",
+   "title": "De Spectaculis",
+   "orig_lang": "lat",
+   "orig_words": 6434
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi017",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Antoninus Heliogobalus",
+   "orig_lang": "lat",
+   "orig_words": 6403
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi008",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "Thyestes",
+   "orig_lang": "lat",
+   "orig_words": 6397
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa008",
+   "author": "Tertullian",
+   "title": "Adversus Valentinianos",
+   "orig_lang": "lat",
+   "orig_words": 6374
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi001",
+   "author": "Scriptores Historiae Augustae",
+   "title": "De Vita Hadriani",
+   "orig_lang": "lat",
+   "orig_words": 6348
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0430",
+   "work": "phi001",
+   "author": "Pseudo-Caesar",
+   "title": "De Bello Hispaniensi",
+   "orig_lang": "lat",
+   "orig_words": 6172
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi020",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Gordiani Tres",
+   "orig_lang": "lat",
+   "orig_words": 6135
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0238",
+   "work": "stoa002",
+   "author": "Prudentius",
+   "title": "Psychomachia",
+   "orig_lang": "lat",
+   "orig_words": 6088
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg034",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 34",
+   "orig_lang": "grc",
+   "orig_words": 6083
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0074",
+   "work": "tlg003",
+   "author": "Arrian",
+   "title": "Cynegeticus",
+   "orig_lang": "grc",
+   "orig_words": 6073
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi019",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Maximini Duo",
+   "orig_lang": "lat",
+   "orig_words": 6071
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0255",
+   "work": "stoa008",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De consolatione ad Polybium",
+   "orig_lang": "lat",
+   "orig_words": 6059
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi006",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "Oedipus",
+   "orig_lang": "lat",
+   "orig_words": 6029
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa018",
+   "author": "Tertullian",
+   "title": "De ieiunio adversus psychicos",
+   "orig_lang": "lat",
+   "orig_words": 5962
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg008",
+   "author": "Julian, Emperor of Rome",
+   "title": "Hymn to the Mother of the Gods",
+   "orig_lang": "grc",
+   "orig_words": 5872
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg024",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 24",
+   "orig_lang": "grc",
+   "orig_words": 5806
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi004",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "Medea",
+   "orig_lang": "lat",
+   "orig_words": 5777
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg009",
+   "author": "Julian, Emperor of Rome",
+   "title": "To the Uneducated Cynics",
+   "orig_lang": "grc",
+   "orig_words": 5771
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg033",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 33",
+   "orig_lang": "grc",
+   "orig_words": 5764
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi054",
+   "author": "Cicero, Marcus Tullius",
+   "title": "De Fato",
+   "orig_lang": "lat",
+   "orig_words": 5761
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi007",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "Agamemnon",
+   "orig_lang": "lat",
+   "orig_words": 5673
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa029",
+   "author": "Tertullian",
+   "title": "De Virginibus Velandis",
+   "orig_lang": "lat",
+   "orig_words": 5619
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0255",
+   "work": "stoa009",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De Constantia",
+   "orig_lang": "lat",
+   "orig_words": 5591
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg005",
+   "author": "Dionysius of Halicarnassus",
+   "title": "De Isaeo",
+   "orig_lang": "grc",
+   "orig_words": 5424
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa016",
+   "author": "Tertullian",
+   "title": "De Fuga in Persecutione",
+   "orig_lang": "lat",
+   "orig_words": 5366
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg005",
+   "author": "Hippocrates",
+   "title": "De diaeta acutorum",
+   "orig_lang": "grc",
+   "orig_words": 5358
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi010",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "Octavia",
+   "orig_lang": "lat",
+   "orig_words": 5343
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg043",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 43",
+   "orig_lang": "grc",
+   "orig_words": 5303
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg023",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 23",
+   "orig_lang": "grc",
+   "orig_words": 5239
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa014",
+   "author": "Tertullian",
+   "title": "De Cultu Feminarum",
+   "orig_lang": "lat",
+   "orig_words": 5176
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2040",
+   "work": "tlg002",
+   "author": "Basil, Saint, Bishop of Caesarea",
+   "title": "De legendis gentilium libris",
+   "orig_lang": "grc",
+   "orig_words": 5136
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0969",
+   "work": "phi001",
+   "author": "Persius",
+   "title": "Saturae",
+   "orig_lang": "lat",
+   "orig_words": 5063
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi047",
+   "author": "Cicero, Marcus Tullius",
+   "title": "Paradoxa Stoicorum",
+   "orig_lang": "lat",
+   "orig_words": 4947
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa013",
+   "author": "Tertullian",
+   "title": "De Corona",
+   "orig_lang": "lat",
+   "orig_words": 4915
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi028",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Probus",
+   "orig_lang": "lat",
+   "orig_words": 4881
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg005",
+   "author": "Julian, Emperor of Rome",
+   "title": "Letter to the Senate and the People of Athens",
+   "orig_lang": "grc",
+   "orig_words": 4773
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi010",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Severus",
+   "orig_lang": "lat",
+   "orig_words": 4770
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0959",
+   "work": "phi010",
+   "author": "Ovid",
+   "title": "Ibis",
+   "orig_lang": "lat",
+   "orig_words": 4682
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi023",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Gallieni Duo",
+   "orig_lang": "lat",
+   "orig_words": 4592
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa023",
+   "author": "Tertullian",
+   "title": "De Patientia",
+   "orig_lang": "lat",
+   "orig_words": 4572
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa020",
+   "author": "Tertullian",
+   "title": "De Oratione",
+   "orig_lang": "lat",
+   "orig_words": 4525
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg027",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 27",
+   "orig_lang": "grc",
+   "orig_words": 4506
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg030",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 30",
+   "orig_lang": "grc",
+   "orig_words": 4464
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0074",
+   "work": "tlg004",
+   "author": "Arrian",
+   "title": "Periplus Ponti Euxini",
+   "orig_lang": "grc",
+   "orig_words": 4445
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0255",
+   "work": "stoa012",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De Providentia",
+   "orig_lang": "lat",
+   "orig_words": 4439
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg015",
+   "author": "Dionysius of Halicarnassus",
+   "title": "Epistula ad Pompeium Geminum",
+   "orig_lang": "grc",
+   "orig_words": 4422
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg044",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 44",
+   "orig_lang": "grc",
+   "orig_words": 4392
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg047",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 47",
+   "orig_lang": "grc",
+   "orig_words": 4351
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0647",
+   "work": "tlg001",
+   "author": "Tryphiodorus",
+   "title": "The Taking of Ilios",
+   "orig_lang": "grc",
+   "orig_words": 4345
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa011",
+   "author": "Tertullian",
+   "title": "De Baptismo",
+   "orig_lang": "lat",
+   "orig_words": 4326
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg009",
+   "author": "Dionysius of Halicarnassus",
+   "title": "De Dinarcho",
+   "orig_lang": "grc",
+   "orig_words": 4301
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi072",
+   "author": "Cicero, Marcus Tullius",
+   "title": "Timaeus",
+   "orig_lang": "lat",
+   "orig_words": 4300
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg039",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 39",
+   "orig_lang": "grc",
+   "orig_words": 4231
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0276",
+   "work": "stoa002",
+   "author": "Pseudo-Tertullian",
+   "title": "Ad Uxorem",
+   "orig_lang": "lat",
+   "orig_words": 4214
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0631",
+   "work": "phi003",
+   "author": "Sallust",
+   "title": "Historiae",
+   "orig_lang": "lat",
+   "orig_words": 4197
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi003",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "Phoenissae",
+   "orig_lang": "lat",
+   "orig_words": 4191
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg050",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 50",
+   "orig_lang": "grc",
+   "orig_words": 4143
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa021",
+   "author": "Tertullian",
+   "title": "De Paenitentia",
+   "orig_lang": "lat",
+   "orig_words": 4122
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi007",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Commodus Antoninus",
+   "orig_lang": "lat",
+   "orig_words": 4106
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg4091",
+   "work": "tlg001",
+   "author": "Callistratus",
+   "title": "Descriptiones",
+   "orig_lang": "grc",
+   "orig_words": 4078
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg038",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 38",
+   "orig_lang": "grc",
+   "orig_words": 4022
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa015",
+   "author": "Tertullian",
+   "title": "De Exhortatione Castitatis Liber",
+   "orig_lang": "lat",
+   "orig_words": 3956
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg029",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 29",
+   "orig_lang": "grc",
+   "orig_words": 3863
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo025",
+   "author": "Nepos, Cornelius",
+   "title": "Atticus",
+   "orig_lang": "lat",
+   "orig_words": 3702
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi021",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Maximus et Balbinus",
+   "orig_lang": "lat",
+   "orig_words": 3676
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg025",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 25",
+   "orig_lang": "grc",
+   "orig_words": 3542
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0692",
+   "work": "phi007",
+   "author": "phi0692",
+   "title": "phi007",
+   "orig_lang": "lat",
+   "orig_words": 3530
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg052",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 52",
+   "orig_lang": "grc",
+   "orig_words": 3509
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg008",
+   "author": "Dionysius of Halicarnassus",
+   "title": "Ad Ammaeum",
+   "orig_lang": "grc",
+   "orig_words": 3504
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi025",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Divus Claudius",
+   "orig_lang": "lat",
+   "orig_words": 3482
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa022",
+   "author": "Tertullian",
+   "title": "De Pallio",
+   "orig_lang": "lat",
+   "orig_words": 3474
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg003",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 3",
+   "orig_lang": "grc",
+   "orig_words": 3470
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi027",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Tacitus",
+   "orig_lang": "lat",
+   "orig_words": 3448
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg006",
+   "author": "Julian, Emperor of Rome",
+   "title": "Letter to Themistius the Philosopher",
+   "orig_lang": "grc",
+   "orig_words": 3414
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa019",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Mosella",
+   "orig_lang": "lat",
+   "orig_words": 3354
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg016",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 16",
+   "orig_lang": "grc",
+   "orig_words": 3291
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg037",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 37",
+   "orig_lang": "grc",
+   "orig_words": 3253
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg2003",
+   "work": "tlg004",
+   "author": "Julian, Emperor of Rome",
+   "title": "A Consolation to Himself Upon the Departure of the Excellent Sallust",
+   "orig_lang": "grc",
+   "orig_words": 3153
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi030",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Carus et Carinus et Numerianus",
+   "orig_lang": "lat",
+   "orig_words": 3135
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi012",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Clodinus Albinus",
+   "orig_lang": "lat",
+   "orig_words": 3111
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0893",
+   "work": "phi003",
+   "author": "Horace",
+   "title": "Epodi",
+   "orig_lang": "lat",
+   "orig_words": 3081
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi006",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Avidius Casius",
+   "orig_lang": "lat",
+   "orig_words": 3042
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi008",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Pertinax",
+   "orig_lang": "lat",
+   "orig_words": 3006
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa007",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Eclogarum Liber",
+   "orig_lang": "lat",
+   "orig_words": 2990
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg009",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 9",
+   "orig_lang": "grc",
+   "orig_words": 2925
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi015",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Opilius Macrinus",
+   "orig_lang": "lat",
+   "orig_words": 2915
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa004",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Commemoratio Professorum Burdigalensium",
+   "orig_lang": "lat",
+   "orig_words": 2841
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa022",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Parentalia",
+   "orig_lang": "lat",
+   "orig_words": 2819
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi003",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Antoninus Pius",
+   "orig_lang": "lat",
+   "orig_words": 2814
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg012",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 12",
+   "orig_lang": "grc",
+   "orig_words": 2806
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi029",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Firmus Saturninus, Proculus et Bonosus",
+   "orig_lang": "lat",
+   "orig_words": 2794
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg011",
+   "author": "Dionysius of Halicarnassus",
+   "title": "De Thucydidis idiomatibus",
+   "orig_lang": "grc",
+   "orig_words": 2714
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg008",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 8",
+   "orig_lang": "grc",
+   "orig_words": 2680
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0692",
+   "work": "phi003",
+   "author": "phi0692",
+   "title": "phi003",
+   "orig_lang": "lat",
+   "orig_words": 2671
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg035",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 35",
+   "orig_lang": "grc",
+   "orig_words": 2668
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi011",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Pescennius Niger",
+   "orig_lang": "lat",
+   "orig_words": 2582
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0533",
+   "work": "tlg004",
+   "author": "Callimachus",
+   "title": "Epigrams and Fragments",
+   "orig_lang": "grc",
+   "orig_words": 2547
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg036",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 36",
+   "orig_lang": "grc",
+   "orig_words": 2514
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0533",
+   "work": "tlg018",
+   "author": "Callimachus",
+   "title": "Hymn to Delos",
+   "orig_lang": "grc",
+   "orig_words": 2512
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg4081",
+   "work": "tlg001",
+   "author": "Colluthus of Lycopolis",
+   "title": "The Rape of Helen",
+   "orig_lang": "grc",
+   "orig_words": 2455
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi013",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Antoninus Caracalla",
+   "orig_lang": "lat",
+   "orig_words": 2430
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg031",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 31",
+   "orig_lang": "grc",
+   "orig_words": 2418
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi005",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Verus",
+   "orig_lang": "lat",
+   "orig_words": 2386
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo018",
+   "author": "Nepos, Cornelius",
+   "title": "Eumenes",
+   "orig_lang": "lat",
+   "orig_words": 2367
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg002",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 2",
+   "orig_lang": "grc",
+   "orig_words": 2313
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg051",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 51",
+   "orig_lang": "grc",
+   "orig_words": 2305
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa028",
+   "author": "Tertullian",
+   "title": "De Testimionio Animae",
+   "orig_lang": "lat",
+   "orig_words": 2287
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0545",
+   "work": "tlg003",
+   "author": "Aelian",
+   "title": "Epistulae Rusticae",
+   "orig_lang": "grc",
+   "orig_words": 2270
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg040",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 40",
+   "orig_lang": "grc",
+   "orig_words": 2182
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo023",
+   "author": "Nepos, Cornelius",
+   "title": "Hannibal",
+   "orig_lang": "lat",
+   "orig_words": 2176
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg010",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 10",
+   "orig_lang": "grc",
+   "orig_words": 2148
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0255",
+   "work": "stoa011",
+   "author": "Seneca, Lucius Annaeus",
+   "title": "De Otio Sapientis",
+   "orig_lang": "lat",
+   "orig_words": 2143
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi041",
+   "author": "Cicero, Marcus Tullius",
+   "title": "De Optimo Genere Oratorum",
+   "orig_lang": "lat",
+   "orig_words": 2114
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0533",
+   "work": "tlg003",
+   "author": "Callimachus",
+   "title": "Epigrams",
+   "orig_lang": "grc",
+   "orig_words": 2103
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo007",
+   "author": "Nepos, Cornelius",
+   "title": "Alcibiades",
+   "orig_lang": "lat",
+   "orig_words": 2100
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0090",
+   "work": "tlg001",
+   "author": "Agathemerus",
+   "title": "Geographiae informatio",
+   "orig_lang": "grc",
+   "orig_words": 2093
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg001",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 1",
+   "orig_lang": "grc",
+   "orig_words": 2087
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg032",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 32",
+   "orig_lang": "grc",
+   "orig_words": 2078
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0557",
+   "work": "tlg003",
+   "author": "Epictetus",
+   "title": "Fragments",
+   "orig_lang": "grc",
+   "orig_words": 2021
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0533",
+   "work": "tlg017",
+   "author": "Callimachus",
+   "title": "Hymn to Artemis",
+   "orig_lang": "grc",
+   "orig_words": 1982
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0005",
+   "work": "tlg002",
+   "author": "Theocritus",
+   "title": "Ἐπιγράμματα",
+   "orig_lang": "grc",
+   "orig_words": 1943
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg015",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 15",
+   "orig_lang": "grc",
+   "orig_words": 1923
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0557",
+   "work": "tlg005",
+   "author": "Epictetus",
+   "title": "Gnomology (Books 3-4)",
+   "orig_lang": "grc",
+   "orig_words": 1922
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo014",
+   "author": "Nepos, Cornelius",
+   "title": "Datames",
+   "orig_lang": "lat",
+   "orig_words": 1902
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi016",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Diadumenus Antoninus",
+   "orig_lang": "lat",
+   "orig_words": 1897
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg071",
+   "author": "Lucian of Samosata",
+   "title": "Podagra",
+   "orig_lang": "grc",
+   "orig_words": 1881
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo002",
+   "author": "Nepos, Cornelius",
+   "title": "Themistocles",
+   "orig_lang": "lat",
+   "orig_words": 1788
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi009",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Didius Julianus",
+   "orig_lang": "lat",
+   "orig_words": 1777
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo015",
+   "author": "Nepos, Cornelius",
+   "title": "Epaminondas",
+   "orig_lang": "lat",
+   "orig_words": 1751
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi002",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Helius",
+   "orig_lang": "lat",
+   "orig_words": 1748
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg021",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 21",
+   "orig_lang": "grc",
+   "orig_words": 1737
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0086",
+   "work": "tlg045",
+   "author": "Aristotle",
+   "title": "On Virtues and Vices",
+   "orig_lang": "grc",
+   "orig_words": 1699
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa003",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Cento Nuptialis",
+   "orig_lang": "lat",
+   "orig_words": 1652
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa028",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Technopaegnion",
+   "orig_lang": "lat",
+   "orig_words": 1642
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg007",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 7",
+   "orig_lang": "grc",
+   "orig_words": 1576
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo010",
+   "author": "Nepos, Cornelius",
+   "title": "Dion",
+   "orig_lang": "lat",
+   "orig_words": 1562
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg005",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 5",
+   "orig_lang": "grc",
+   "orig_words": 1551
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa003",
+   "author": "Tertullian",
+   "title": "Ad Scapulam",
+   "orig_lang": "lat",
+   "orig_words": 1550
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0275",
+   "work": "stoa001",
+   "author": "Tertullian",
+   "title": "Ad Martyras",
+   "orig_lang": "lat",
+   "orig_words": 1535
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa018",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Ludus Septem Sapientum",
+   "orig_lang": "lat",
+   "orig_words": 1482
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo017",
+   "author": "Nepos, Cornelius",
+   "title": "Agesilaus",
+   "orig_lang": "lat",
+   "orig_words": 1469
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0238",
+   "work": "stoa008",
+   "author": "Prudentius",
+   "title": "Dittochaeon",
+   "orig_lang": "lat",
+   "orig_words": 1465
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo001",
+   "author": "Nepos, Cornelius",
+   "title": "Miltiades",
+   "orig_lang": "lat",
+   "orig_words": 1431
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa008",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Ephemeris",
+   "orig_lang": "lat",
+   "orig_words": 1395
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa012",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Epitaphia",
+   "orig_lang": "lat",
+   "orig_words": 1384
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi014",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Antoninus Geta",
+   "orig_lang": "lat",
+   "orig_words": 1382
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0692",
+   "work": "phi009",
+   "author": "phi0692",
+   "title": "phi009",
+   "orig_lang": "lat",
+   "orig_words": 1378
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg011",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 11",
+   "orig_lang": "grc",
+   "orig_words": 1355
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0074",
+   "work": "tlg006",
+   "author": "Arrian",
+   "title": "Acies Contra Alanos",
+   "orig_lang": "grc",
+   "orig_words": 1353
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg018",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 18",
+   "orig_lang": "grc",
+   "orig_words": 1335
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg135",
+   "author": "Plutarch",
+   "title": "Epitome libri de animae procreatione in Timaeo",
+   "orig_lang": "grc",
+   "orig_words": 1302
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg006",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 6",
+   "orig_lang": "grc",
+   "orig_words": 1274
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg041",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 41",
+   "orig_lang": "grc",
+   "orig_words": 1252
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0035",
+   "work": "tlg002",
+   "author": "Moschus",
+   "title": "Europa",
+   "orig_lang": "grc",
+   "orig_words": 1233
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg017",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 17",
+   "orig_lang": "grc",
+   "orig_words": 1231
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg022",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 22",
+   "orig_lang": "grc",
+   "orig_words": 1175
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi2331",
+   "work": "phi022",
+   "author": "Scriptores Historiae Augustae",
+   "title": "Valeriani Duo",
+   "orig_lang": "lat",
+   "orig_words": 1172
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0692",
+   "work": "phi006",
+   "author": "phi0692",
+   "title": "phi006",
+   "orig_lang": "lat",
+   "orig_words": 1164
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa015",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Griphus Ternarii Numeri",
+   "orig_lang": "lat",
+   "orig_words": 1158
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa021",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Ordo Urbium Nobilium",
+   "orig_lang": "lat",
+   "orig_words": 1155
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0533",
+   "work": "tlg019",
+   "author": "Callimachus",
+   "title": "Hymn to Athena",
+   "orig_lang": "grc",
+   "orig_words": 1153
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0638",
+   "work": "tlg005",
+   "author": "Philostratus the Athenian",
+   "title": "Nero",
+   "orig_lang": "grc",
+   "orig_words": 1105
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0533",
+   "work": "tlg020",
+   "author": "Callimachus",
+   "title": "Hymn to Demeter",
+   "orig_lang": "grc",
+   "orig_words": 1105
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg019",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 19",
+   "orig_lang": "grc",
+   "orig_words": 1082
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa002",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Caesares",
+   "orig_lang": "lat",
+   "orig_words": 1000
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0035",
+   "work": "tlg003",
+   "author": "Moschus",
+   "title": "Epitaphius Bios",
+   "orig_lang": "grc",
+   "orig_words": 988
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0035",
+   "work": "tlg004",
+   "author": "Moschus",
+   "title": "Megara",
+   "orig_lang": "grc",
+   "orig_words": 976
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0036",
+   "work": "tlg003",
+   "author": "Bion of Phlossa",
+   "title": "Fragmenta",
+   "orig_lang": "grc",
+   "orig_words": 970
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg002",
+   "author": "Dionysius of Halicarnassus",
+   "title": "De antiquis oratoribus",
+   "orig_lang": "grc",
+   "orig_words": 960
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo004",
+   "author": "Nepos, Cornelius",
+   "title": "Pausanias",
+   "orig_lang": "lat",
+   "orig_words": 958
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0533",
+   "work": "tlg016",
+   "author": "Callimachus",
+   "title": "Hymn to Apollo",
+   "orig_lang": "grc",
+   "orig_words": 912
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo020",
+   "author": "Nepos, Cornelius",
+   "title": "Timoleon",
+   "orig_lang": "lat",
+   "orig_words": 906
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa016",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Liber Protrepticus ad Nepotem",
+   "orig_lang": "lat",
+   "orig_words": 900
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0555",
+   "work": "tlg008",
+   "author": "Clement of Alexandria",
+   "title": "Exhortation to Endurance or To the Newly Baptized (Fragment 44)",
+   "orig_lang": "grc",
+   "orig_words": 878
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0692",
+   "work": "phi011",
+   "author": "phi0692",
+   "title": "phi011",
+   "orig_lang": "lat",
+   "orig_words": 833
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0533",
+   "work": "tlg015",
+   "author": "Callimachus",
+   "title": "Hymn to Zeus",
+   "orig_lang": "grc",
+   "orig_words": 831
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa005",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Cupido Cruciatus",
+   "orig_lang": "lat",
+   "orig_words": 822
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg004",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 4",
+   "orig_lang": "grc",
+   "orig_words": 820
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo009",
+   "author": "Nepos, Cornelius",
+   "title": "Conon",
+   "orig_lang": "lat",
+   "orig_words": 819
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0036",
+   "work": "tlg001",
+   "author": "Bion of Phlossa",
+   "title": "Epitaphius Adonis",
+   "orig_lang": "grc",
+   "orig_words": 812
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg020",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 20",
+   "orig_lang": "grc",
+   "orig_words": 795
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo016",
+   "author": "Nepos, Cornelius",
+   "title": "Pelopidas",
+   "orig_lang": "lat",
+   "orig_words": 795
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo013",
+   "author": "Nepos, Cornelius",
+   "title": "Timotheus",
+   "orig_lang": "lat",
+   "orig_words": 736
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0692",
+   "work": "phi001",
+   "author": "phi0692",
+   "title": "phi001",
+   "orig_lang": "lat",
+   "orig_words": 710
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg4036",
+   "work": "tlg023",
+   "author": "Proclus",
+   "title": "Chrestomathy",
+   "orig_lang": "grc",
+   "orig_words": 696
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo008",
+   "author": "Nepos, Cornelius",
+   "title": "Thrasybulus",
+   "orig_lang": "lat",
+   "orig_words": 681
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa025",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Praefatiunculae",
+   "orig_lang": "lat",
+   "orig_words": 644
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo019",
+   "author": "Nepos, Cornelius",
+   "title": "Phocion",
+   "orig_lang": "lat",
+   "orig_words": 620
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo006",
+   "author": "Nepos, Cornelius",
+   "title": "Lysander",
+   "orig_lang": "lat",
+   "orig_words": 618
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo005",
+   "author": "Nepos, Cornelius",
+   "title": "Cimon",
+   "orig_lang": "lat",
+   "orig_words": 613
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0692",
+   "work": "phi002",
+   "author": "phi0692",
+   "title": "phi002",
+   "orig_lang": "lat",
+   "orig_words": 595
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo022",
+   "author": "Nepos, Cornelius",
+   "title": "Hamilcar",
+   "orig_lang": "lat",
+   "orig_words": 590
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa009",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Epicedion in Patrem",
+   "orig_lang": "lat",
+   "orig_words": 567
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo012",
+   "author": "Nepos, Cornelius",
+   "title": "Chabrias",
+   "orig_lang": "lat",
+   "orig_words": 567
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa026",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Precationes",
+   "orig_lang": "lat",
+   "orig_words": 552
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo024",
+   "author": "Nepos, Cornelius",
+   "title": "Cato",
+   "orig_lang": "lat",
+   "orig_words": 528
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo021",
+   "author": "Nepos, Cornelius",
+   "title": "De Regibus",
+   "orig_lang": "lat",
+   "orig_words": 522
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo011",
+   "author": "Nepos, Cornelius",
+   "title": "Iphicrates",
+   "orig_lang": "lat",
+   "orig_words": 490
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa001",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "De Bissula",
+   "orig_lang": "lat",
+   "orig_words": 481
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg055",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 55",
+   "orig_lang": "grc",
+   "orig_words": 438
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0588",
+   "work": "abo003",
+   "author": "Nepos, Cornelius",
+   "title": "Aristides",
+   "orig_lang": "lat",
+   "orig_words": 419
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0893",
+   "work": "phi002",
+   "author": "Horace",
+   "title": "Carmen Saeculare",
+   "orig_lang": "lat",
+   "orig_words": 379
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0557",
+   "work": "tlg004",
+   "author": "Epictetus",
+   "title": "Gnomology (Books 1-2)",
+   "orig_lang": "grc",
+   "orig_words": 358
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0035",
+   "work": "tlg005",
+   "author": "Moschus",
+   "title": "Fragmenta",
+   "orig_lang": "grc",
+   "orig_words": 350
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0035",
+   "work": "tlg001",
+   "author": "Moschus",
+   "title": "Eros Drapeta",
+   "orig_lang": "grc",
+   "orig_words": 343
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0036",
+   "work": "tlg002",
+   "author": "Bion of Phlossa",
+   "title": "Epithalamium Achillis et Deidameiae",
+   "orig_lang": "grc",
+   "orig_words": 327
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0692",
+   "work": "phi008",
+   "author": "phi0692",
+   "title": "phi008",
+   "orig_lang": "lat",
+   "orig_words": 327
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa006",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "De Herediolo",
+   "orig_lang": "lat",
+   "orig_words": 323
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0081",
+   "work": "tlg007",
+   "author": "Dionysius of Halicarnassus",
+   "title": "Libri secundi de antiquis oratoribus reliquiae",
+   "orig_lang": "grc",
+   "orig_words": 317
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0238",
+   "work": "stoa003",
+   "author": "Prudentius",
+   "title": "Praefatio",
+   "orig_lang": "lat",
+   "orig_words": 302
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0692",
+   "work": "phi005",
+   "author": "phi0692",
+   "title": "phi005",
+   "orig_lang": "lat",
+   "orig_words": 296
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa020",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Oratio Versibus Rhopalicis",
+   "orig_lang": "lat",
+   "orig_words": 292
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa027",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Versus Paschales Prosodic",
+   "orig_lang": "lat",
+   "orig_words": 274
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa017",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "[Libri de Fastis] Conclusio",
+   "orig_lang": "lat",
+   "orig_words": 259
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0692",
+   "work": "phi012",
+   "author": "phi0692",
+   "title": "phi012",
+   "orig_lang": "lat",
+   "orig_words": 250
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa013",
+   "author": "Ausonius, Decimus Magnus",
+   "title": "Genethliacon ad Ausonium Nepotem",
+   "orig_lang": "lat",
+   "orig_words": 237
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0692",
+   "work": "phi013",
+   "author": "phi0692",
+   "title": "phi013",
+   "orig_lang": "lat",
+   "orig_words": 235
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1014",
+   "work": "phi004",
+   "author": "Seneca the Elder",
+   "title": "Fragmenta",
+   "orig_lang": "lat",
+   "orig_words": 234
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0238",
+   "work": "stoa009",
+   "author": "Prudentius",
+   "title": "Epilogus",
+   "orig_lang": "lat",
+   "orig_words": 204
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0284",
+   "work": "tlg028",
+   "author": "Aristides, Aelius",
+   "title": "Orationes 28",
+   "orig_lang": "grc",
+   "orig_words": 200
+  }
+ ]
+}

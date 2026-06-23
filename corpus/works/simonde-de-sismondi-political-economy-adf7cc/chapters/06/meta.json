@@ -1,0 +1,26 @@
+{
+  "work_slug": "simonde-de-sismondi-political-economy-adf7cc",
+  "work_title": "Political Economy",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6:",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "46d7135d-2596-5271-90e4-87e0b15cd4ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5639,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/sismondi/ch06.htm"
+    }
+  ]
+}

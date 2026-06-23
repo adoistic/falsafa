@@ -1,0 +1,26 @@
+{
+  "work_slug": "otto-bauer-the-dangers-of-reformism-47f627",
+  "work_title": "The Dangers of “Reformism”",
+  "chapter_number": 1,
+  "chapter_title": "The Dangers of “Reformism”",
+  "chapter_slug": "01-the-dangers-of-reformism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfd2752e-2959-5c32-8142-39b5f4997451",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3503,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bauer/1913/12/reformism.htm"
+    }
+  ]
+}

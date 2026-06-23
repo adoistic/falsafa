@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 29,
+  "chapter_title": "(b) The Judgment",
+  "chapter_slug": "29-b-the-judgment",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e553af0f-c06c-5923-8af3-ec9c539f567c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1702,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slsubjec.htm"
+    }
+  ]
+}

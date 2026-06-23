@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-thomas-more-and-his-utopia-bb36cd",
+  "work_title": "Thomas More and his Utopia",
+  "chapter_number": 6,
+  "chapter_title": "Chapter I. Thomas More’s Biographers",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec0eb785-495f-593a-8169-e20936c313b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4394,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1888/more/ch05.htm"
+    }
+  ]
+}

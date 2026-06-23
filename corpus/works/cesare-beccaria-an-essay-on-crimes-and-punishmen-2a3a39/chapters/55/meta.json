@@ -2,7 +2,7 @@
   "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
   "work_title": "An Essay on Crimes and Punishments",
   "chapter_number": 55,
-  "chapter_title": "CHAPTER VI.: OF THE INDULGENCE OF THE ROMANS IN MATTERS OF RELIGION.",
+  "chapter_title": "Chapter VII.: On the Crime of Preaching; And of Anthony.",
   "chapter_slug": "55",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 477,
-      "paragraph_count": 6,
+      "word_count": 712,
+      "paragraph_count": 8,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 48,
+  "chapter_title": "Part 2, Chapter 23 : The Scales of Justice",
+  "chapter_slug": "48",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f29de106-fbc8-5324-bcd9-10b04e002c40",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2624,
+      "paragraph_count": 82,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-23.html"
+    }
+  ]
+}

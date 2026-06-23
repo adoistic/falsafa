@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 8
-chapter_title: "LETTER VIII.: Virtual Usury allowed."
+chapter_title: "Letter VIII.: Virtual Usury allowed."
 chapter_slug: 08
 variant_id: "503e9305-c6c5-57a3-92f4-fb8b47c7a3c9"
 content_type: translation

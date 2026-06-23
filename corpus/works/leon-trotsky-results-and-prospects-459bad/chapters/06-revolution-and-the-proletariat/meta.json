@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-results-and-prospects-459bad",
+  "work_title": "Results and Prospects",
+  "chapter_number": 6,
+  "chapter_title": "Revolution and the Proletariat",
+  "chapter_slug": "06-revolution-and-the-proletariat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2393395c-ca2e-52c6-8f18-1a3117667dea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2074,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1931/tpr/rp04.htm"
+    }
+  ]
+}

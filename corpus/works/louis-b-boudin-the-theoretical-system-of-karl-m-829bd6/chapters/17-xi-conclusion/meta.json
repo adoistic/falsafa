@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-b-boudin-the-theoretical-system-of-karl-m-829bd6",
+  "work_title": "The Theoretical System of Karl Marx in the Light of Recent Criticism",
+  "chapter_number": 17,
+  "chapter_title": "XI. Conclusion",
+  "chapter_slug": "17-xi-conclusion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "94cae610-fe66-5986-942d-319e174029b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 538,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/boudin/1907/02/system/11-conclusion.html"
+    }
+  ]
+}

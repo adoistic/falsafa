@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 3121
+word_count: 3105
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
@@ -24,7 +24,7 @@ The so-called taxes or duties, which the government levies upon imports, are a p
 
 A man has the same natural right to traffic with another, who lives on the opposite side of the globe, as he has to traffic with his next-door neighbor. And any obstruction, price, or penalty, interposed by the government, to the exercise of that right, is a practical violation of the right itself.
 
-The ten, twenty, or fifty per cent. of a man’s property, which is taken from him, for the reason that he purchased it in a foreign country, must be considered either Edition: current; Page: [43] as the price he is required to pay for the privilege of buying property in that country, or else as a penalty for having exercised his natural right of buying it in that country. Whether it be considered as a price paid for a privilege, or a penalty for having exercised a natural right, it is a violation both of his natural right of property, and of his natural right to make a contract in that country.
+The ten, twenty, or fifty per cent. of a man’s property, which is taken from him, for the reason that he purchased it in a foreign country, must be considered either as the price he is required to pay for the privilege of buying property in that country, or else as a penalty for having exercised his natural right of buying it in that country. Whether it be considered as a price paid for a privilege, or a penalty for having exercised a natural right, it is a violation both of his natural right of property, and of his natural right to make a contract in that country.
 
 In short, it is nothing but downright robbery.
 
@@ -38,7 +38,7 @@ A man’s natural right of property, in a commodity he has bought in a foreign c
 
 Government assumes to exist for the impartial protection of all rights of property. If it really exists for that purpose, it is plainly bound to make each kind of property pay its proper proportion, and only its proper proportion, of the cost of protecting all kinds. To levy upon a few kinds the cost of protecting all, is a naked robbery of the holders of those few kinds, for the benefit of the holders of all other kinds.
 
-But the pretence that heavy taxes are levied upon imports, solely, or mainly, for the support of government, while light taxes, or no taxes at all, are levied upon property at home, is an utterly false pretence. They are levied upon the imported commodity, mainly, if not solely, for the purpose of enabling the producers of competing home commodities to extort from consumers a higher price than the home commodities would bring in free and open market. And this additional Edition: current; Page: [44] price is sheer robbery, and is known to be so. And the amount of this robbery—which goes into the pockets of the home producers—is five, ten, twenty, or fifty times greater than the amount that goes into the treasury, for the support of the government, according as the amount of the home commodities is five, ten, twenty, or fifty times greater than the amount of the imported competing commodities.
+But the pretence that heavy taxes are levied upon imports, solely, or mainly, for the support of government, while light taxes, or no taxes at all, are levied upon property at home, is an utterly false pretence. They are levied upon the imported commodity, mainly, if not solely, for the purpose of enabling the producers of competing home commodities to extort from consumers a higher price than the home commodities would bring in free and open market. And this additional price is sheer robbery, and is known to be so. And the amount of this robbery—which goes into the pockets of the home producers—is five, ten, twenty, or fifty times greater than the amount that goes into the treasury, for the support of the government, according as the amount of the home commodities is five, ten, twenty, or fifty times greater than the amount of the imported competing commodities.
 
 Thus the amounts that go to the support of the government, and also the amounts that go into the pockets of the home producers, in the higher prices they get for their goods, are all sheer robberies; and nothing else.
 
@@ -56,7 +56,7 @@ For these reasons it is plain that the argument originated with the employers of
 
 And why do the employers of home labor advocate this robbery? Certainly not because they have such an intense compassion for their own laborers, that they are willing to rob everybody else, rich and poor, for their benefit. Nobody will suspect them of being influenced by any such compassion as that. But they advocate it solely because they put into their own pockets a very large portion certainly—probably three-fourths, I should judge—of the increased prices their commodities are thus made to bring in the market. The home laborers themselves probably get not more than one-fourth of these increased prices.
 
-Thus the argument for “protection” is really an argument for robbing foreign Edition: current; Page: [45] laborers—as poor as our own—of their equal and rightful chances in our markets; and also for robbing all the home consumers of the protected article—the poor as well as the rich—in the prices they are made to pay for it. And all this is done at the instigation, and principally for the benefit, of the employers of home labor, and not for the benefit of the home laborers themselves.
+Thus the argument for “protection” is really an argument for robbing foreign laborers—as poor as our own—of their equal and rightful chances in our markets; and also for robbing all the home consumers of the protected article—the poor as well as the rich—in the prices they are made to pay for it. And all this is done at the instigation, and principally for the benefit, of the employers of home labor, and not for the benefit of the home laborers themselves.
 
 Having now seen that this argument—of “protecting our home laborers against the competition of the pauper labor of other countries”—is, of itself, an utterly dishonest argument; that it is dishonest towards foreign laborers and home consumers; that it must have originated with the employers of home labor, and not with the home laborers themselves; and that the employers of home labor, and not the home laborers themselves, are to receive the principal profits of the robbery, let us now see how utterly false is the argument itself.
 
@@ -84,7 +84,7 @@ What, then, is to be done? This policy of excluding foreign commodities from our
 
 This theory, then, is that, instead of permitting all mankind to supply each other’s wants, by freely exchanging their respective products with each other, the government of each nation should rob the people of every other, by imposing heavy duties upon all commodities imported from them.
 
-The natural effect of this scheme is to pit the so-called “pauper labor” of each Edition: current; Page: [47] country against the so-called “pauper labor” of every other country; and all for the benefit of their employers. And as it holds that so-called “pauper labor” is cheaper than free labor, it gives the employers in each country a constant motive for reducing their own laborers to the lowest condition of poverty, consistent with their ability to labor at all. In other words, the theory is, that the smaller the portion of the products of labor, that is given to the laborers, the larger will be the portion that will go into the pockets of the employers.
+The natural effect of this scheme is to pit the so-called “pauper labor” of each country against the so-called “pauper labor” of every other country; and all for the benefit of their employers. And as it holds that so-called “pauper labor” is cheaper than free labor, it gives the employers in each country a constant motive for reducing their own laborers to the lowest condition of poverty, consistent with their ability to labor at all. In other words, the theory is, that the smaller the portion of the products of labor, that is given to the laborers, the larger will be the portion that will go into the pockets of the employers.
 
 Now, it is not a very honorable proceeding for any government to pit its own so-called “pauper laborers”—or laborers that are on the verge of pauperism—against similar laborers in all other countries: and all for the sake of putting the principal proceeds of their labor into the pockets of a few employers.
 

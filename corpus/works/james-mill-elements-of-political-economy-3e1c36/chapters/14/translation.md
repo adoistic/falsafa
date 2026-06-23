@@ -4,7 +4,7 @@ work_slug: "james-mill-elements-of-political-economy-3e1c36"
 work_title: Elements of Political Economy
 author_name: James Mill
 chapter_number: 14
-chapter_title: Section I. Nature of the Advantage Derived from the Interchange of Commodities, and the Principal Agents Employed in it.
+chapter_title: "Chapter III: Interchange, Section I. Nature of the Advantage Derived from the Interchange of Commodities, and the Princi"
 chapter_slug: 14
 variant_id: "12bf5b36-fafc-50a5-afd1-13c270d2ec16"
 content_type: translation

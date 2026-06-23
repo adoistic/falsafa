@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-economic-doctrines-of-karl-m-8309a8",
+  "work_title": "The Economic Doctrines of Karl Marx",
+  "chapter_number": 16,
+  "chapter_title": "II. The Revenue of Capital",
+  "chapter_slug": "16-ii-the-revenue-of-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c1b4ca80-07ad-5a63-b72e-f379171e8083",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 757,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1903/economic/ch15.htm"
+    }
+  ]
+}

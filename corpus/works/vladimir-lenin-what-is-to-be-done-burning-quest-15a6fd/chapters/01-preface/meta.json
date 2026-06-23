@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-what-is-to-be-done-burning-quest-15a6fd",
+  "work_title": "What Is To Be Done? Burning Questions of Our Movement",
+  "chapter_number": 1,
+  "chapter_title": "Preface",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a4a1a805-5db6-5c61-96f9-8eeddfdd4ad1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 930,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1901/witbd/preface.htm"
+    }
+  ]
+}

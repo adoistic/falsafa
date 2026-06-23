@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 81,
+  "chapter_title": "The Parliamentary Committee on the Commercial Crisis.",
+  "chapter_slug": "81-the-parliamentary-committee-on-the-commercial-cris",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9790469-b886-5105-bb04-cd8a2d3c1907",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 181,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

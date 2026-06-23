@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 26,
+  "chapter_title": "Chap. XXI.: Of the Liberty of Subjects.",
+  "chapter_slug": "26-chap-xxi-of-the-liberty-of-subjects",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "895c9e30-ff2f-5980-ab82-54a6f415dc6a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4089,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

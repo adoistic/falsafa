@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 16
-chapter_title: CHAPTER III.
+chapter_title: Chapter IV (1)
 chapter_slug: 16
 variant_id: "2107a866-2e94-5317-98cf-703cf1ed9495"
 content_type: translation
@@ -13,13 +13,17 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 288
+word_count: 344
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-God cannot be conceived not to exist.—God is that, than which nothing greater can be conceived.—That which can be conceived not to exist is not God.
+How the fool has said in his heart what cannot be conceived.—A thing may be conceived in two ways: (1) when the word signifying it is conceived; (2) when the thing itself is understood As far as the word goes, God can be conceived not to exist; in reality he cannot.
 
-And it assuredly exists so truly, that it cannot be conceived not to exist. For, it is possible to conceive of a being which cannot be conceived not to exist; and this is greater than one which can be conceived not to exist. Hence, if that, than which nothing greater can be conceived, can be conceived not to exist, it is not that, than which nothing greater can be conceived. But this is an irreconcilable contradiction. There is, then, so truly a being than which nothing greater can be conceived to exist, that it cannot even Edition: current; Page: [9] be conceived not to exist; and this being thou art, O Lord, our God.
+But how has the fool said in his heart what he could not conceive; or how is it that he could not conceive what he said in his heart? since it is the same to say in the heart, and to conceive.
 
-So truly, therefore, dost thou exist, O Lord, my God, that thou canst not be conceived not to exist; and rightly. For, if a mind could conceive of a being better than thee, the creature would rise above the Creator; and this is most absurd. And, indeed, whatever else there is, except thee alone, can be conceived not to exist. To thee alone, therefore, it belongs to exist more truly than all other beings, and hence in a higher degree than all others. For, whatever else exists does not exist so truly, and hence in a less degree it belongs to it to exist. Why, then, has the fool said in his heart, there is no God (Psalms xiv. 1), since it is so evident, to a rational mind, that thou dost exist in the highest degree of all? Why, except that he is dull and a fool?
+But, if really, nay, since really, he both conceived, because he said in his heart; and did not say in his heart, because he could not conceive; there is more than one way in which a thing is said in the heart or conceived. For, in one sense, an object is conceived, when the word signifying it is conceived; and in another, when the very entity, which the object is, is understood.
+
+In the former sense, then, God can be conceived not to exist; but in the latter, not at all. For no one who understands what fire and water are can conceive fire to be water, in accordance with the nature of the facts themselves, although this is possible according to the words. So, then, no one who understands what God is can conceive that God does not exist; although he says these words in his heart, either without any. or with some foreign, signification. For, God is that than which a greater cannot be conceived. And he who thoroughly understands this, assuredly understands that this being so truly exists, that not even in concept can it be non-existent. Therefore, he who understands that God so exists, cannot conceive that he does not exist.
+
+I thank thee, gracious Lord, I thank thee; because what I formerly believed by thy bounty, I now so understand by thine illumination, that if I were unwilling to believe that thou dost exist, I should not be able not to understand this to be true.

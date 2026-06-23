@@ -4,7 +4,8 @@ slug: "athenaeus-of-naucratis-deipnosophistae-9c89b8"
 title: Deipnosophistae
 author:
   name: Athenaeus of Naucratis
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Greek grammarian from Naucratis in Egypt, writing under the Severan emperors. The Deipnosophistae, a learned banquet conversation in fifteen books, preserved quotations from hundreds of Greek authors otherwise lost.
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

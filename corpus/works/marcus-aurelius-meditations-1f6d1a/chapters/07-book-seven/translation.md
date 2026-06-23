@@ -1,0 +1,168 @@
+---
+work_id: "1f6d1a69-ece4-542b-81e0-a6abf703b201"
+work_slug: "marcus-aurelius-meditations-1f6d1a"
+work_title: Meditations
+author_name: Marcus Aurelius
+chapter_number: 7
+chapter_title: Book Seven
+chapter_slug: "07-book-seven"
+variant_id: "5760b289-d392-522e-9630-17cc30bb23ae"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 4072
+translator: thothica
+---
+
+1. What is vice? It is what you have often seen. And on every occasion that befalls, keep ready this thought: this is what you have often seen. Everywhere, up and down, you will find the same things, of which the histories are full — the ancient, the middle, the recent; and of which the cities and the households are full today. There is nothing new; all is familiar and short-lived.
+
+2. How else can your principles be deadened, except by the quenching of the impressions that answer to them — impressions which it is in your power continually to rekindle? I can hold the right opinion about this matter; and if I can, why am I troubled? The things outside my mind are nothing at all to my mind. Learn this, and you stand upright. You may come back to life; look once more on things as you used to see them; for in this lies the coming back to life.
+
+3. The empty pomp of a procession, plays upon a stage, flocks, herds, sham battles with the spear, a bone thrown to little dogs, a crumb into the fish-ponds, the toils and burden-bearings of ants, the scurrying of frightened mice, puppets pulled by strings. Amid these, then, one must stand kindly and without disdain, yet attending closely to the fact that each man is worth just so much as the things are worth about which he busies himself.
+
+4. One must attend closely, word by word, to what is said, and in every impulse to what is done; and in the latter case see at once toward what end the reference is made, and in the former observe what is the thing meant.
+
+5. Is my understanding equal to this matter or not? If it is equal, I use it for the work as an instrument given me by the Nature of the Whole. If it is not equal, then either I give up the work to one who can accomplish it better, unless for some reason it is my duty not to; or I do it as I can, taking to my aid one who, by the help of my ruling faculty, can do what is now timely and useful for the common good. For whatever I do, by myself or with another, must be directed to this one thing alone: what is useful to the common good and well-fitted to it.
+
+6. How many who were once much sung have already been given over to oblivion; and how many who sang their praises are long since gone.
+
+7. Be not ashamed to be helped; for the task before you is to do your duty, like a soldier in the storming of a wall. What then, if, being lame, you cannot mount the battlement by yourself, but with another's help it can be done?
+
+8. Let not the future trouble you; for you will come to it, if you must, bearing the same reason that you now use for the present.
+
+9. All things are interwoven with one another, and the bond is holy; and there is hardly anything alien one to another. For all have been ranged together, and together they make up one ordered universe. For there is one universe out of all, and one God pervading all, and one substance, and one law, one reason common to all intelligent beings, and one truth — if indeed there is also one perfection of beings that are of one kind and partake of the same reason.
+
+10. Everything material vanishes very swiftly into the substance of the Whole; every cause is very swiftly taken up into the reason of the Whole; and the memory of everything is very swiftly buried in eternity.
+
+11. To the rational being the same act is at once according to nature and according to reason.
+
+12. Upright, not held upright.
+
+13. As the members of the body are in a unity, such is the relation of rational beings, though separate, who have been framed for one common work. And the thought of this will come home to you the more if you often say to yourself: I am a member of the system made up of rational beings. But if you say you are a part — by changing one letter — you do not yet love men from the heart; doing them good does not yet gladden you as an end in itself; you still do it as a mere propriety, not yet as one doing good to himself.
+
+14. Let what will from without befall the things that can suffer by such befalling. For those things, if they will, may complain of what has befallen them; but I, if I do not suppose that what has befallen is an evil, am not yet harmed. And it is in my power not to suppose it.
+
+15. Whatever anyone may do or say, I must be good; just as if gold, or an emerald, or purple were forever saying, "Whatever anyone may do or say, I must be an emerald and keep my own colour."
+
+16. The ruling faculty does not disturb itself; I mean, it does not frighten itself into desire. If another can frighten it or grieve it, let him do so; for of itself, by its own opinions, it will not turn into such turnings. Let the poor body, if it can, take care that it suffer nothing, and let it say so, if it suffers anything. But the poor soul — that which fears, that which grieves, that which forms any opinion at all about these things — will suffer nothing; for you will not lead it to such a judgment. The ruling faculty, so far as in itself lies, has no needs, unless it make a need for itself; and in the same way it is untroubled and unhindered, unless it trouble and hinder itself.
+
+17. Happiness is a good guardian spirit, a good ruling faculty. What, then, are you doing here, O impression? Be off, by the gods, as you came; for I have no need of you. You have come according to your old custom. I am not angry with you; only go away.
+
+18. Does a man fear change? Why, what can come to be without change? And what is dearer or more familiar to the Nature of the Whole? Can you yourself take a hot bath unless the wood undergoes change? Can you be nourished unless your food undergoes change? Can anything else useful be accomplished without change? Do you not see, then, that for you yourself to undergo change is just the same, and just as necessary to the Nature of the Whole?
+
+19. Through the substance of the Whole, as through a winter torrent, all bodies pass; bound up with the Whole and working with it, as our limbs work with one another. How many a Chrysippus, how many a Socrates, how many an Epictetus has eternity already swallowed down! And let the same thought come home to you concerning every man whatever and every thing.
+
+20. One thing alone troubles me: that I may not do something which the constitution of man does not will, or as it does not will, or which it does not will now.
+
+21. Near is your forgetting of all things, and near the forgetting of you by all things.
+
+22. It is proper to a man to love even those who stumble. And this comes to pass if it occurs to you at the same time that they are kinsmen, and that they do wrong through ignorance and against their will, and that within a little while both you and they will be dead; and, above all, that the man has done you no harm, for he has not made your ruling faculty worse than it was before.
+
+23. The Nature of the Whole, out of the whole of substance as out of wax, now moulds a little horse; then, melting this down, uses its material for a little tree; then for a little man; then for something else. And each of these has subsisted for a very little while. It is no terrible thing for the box to be broken up, just as its being joined together was no good.
+
+24. A scowling look is greatly against nature; and when it is often assumed, all comeliness dies away, or is at last so quenched that it cannot be rekindled at all. Try, by this very thing, to perceive that it is contrary to reason. For if even the consciousness of doing wrong departs, what reason is left for living?
+
+25. All the things you see the Nature that governs the Whole will very soon change, and out of their substance make other things, and again others out of the substance of those, so that the universe may be ever new.
+
+26. When someone does wrong against you, consider at once with what notion of good or evil he did the wrong. For when you see this, you will pity him, and neither wonder nor be angry. For either you yourself still hold the same thing to be good as he does, or something of the same kind; and then you must forgive him. But if you no longer suppose such things to be good and evil, you will the more easily be kindly toward one who sees amiss.
+
+27. Do not think of what is absent as though it were already present, but of what you have pick out the most fortunate, and on their account remind yourself how they would be longed for if they were not present. Yet at the same time take care lest, by thus rejoicing in them, you accustom yourself to prize them so highly that, should they ever be absent, you will be disturbed.
+
+28. Gather yourself into yourself. It is the nature of the rational ruling faculty to be content with itself when it acts justly, and thereby to keep its calm.
+
+29. Blot out the impression. Stop the jerking of the strings. Mark off the present moment of time. Recognize what is happening, to you or to another. Divide and distinguish the object before you into the causal and the material. Reflect on your last hour. The wrong that another has done — leave it there where the wrong arose.
+
+30. Stretch your thought along with what is said. Let your mind enter into the things that come to pass and the things that act.
+
+31. Make yourself bright with simplicity, modesty, and indifference to all that lies between virtue and vice. Love the human race. Follow God. The poet says that "all things are by convention, and in reality only the elements"; but it is enough to remember that all things are by convention — and these already are very few.
+
+32. Concerning death: either a scattering, if there are atoms; or, if there is a unity, then extinction or a change of place.
+
+33. Concerning pain: what is unbearable carries us off, and what lasts is bearable. And the mind keeps its own calm by withdrawing into itself, and the ruling faculty is none the worse. But let the parts that are hurt by the pain declare themselves about it, if they can.
+
+34. Concerning fame: look at the minds of those whose praise you seek — what sort they are, and what they shun and what they pursue. And consider that, as one drift of sand heaped upon another hides the first, so in life the things of former times are very swiftly covered by those that come after.
+
+35. From Plato: "Do you suppose that to a mind possessed of greatness and the contemplation of all time and of all substance, human life can seem any great thing?" "It is impossible," said he. "Then such a man will not think death a thing to dread?" "By no means."
+
+36. From Antisthenes: "It is a kingly thing to do well and to be ill spoken of."
+
+37. It is shameful that, while the face is obedient and shapes and orders itself as the mind commands, the mind should not shape and order itself by itself.
+
+38. "Against things, indeed, there is no need to feel anger; for they care nothing for it."
+
+39. "May you grant joy to the immortal gods and to us."
+
+40. "Life is reaped like a ripe ear of corn; and one man is, another is not."
+
+41. "If I and my two children have been neglected by the gods, even this has its reason."
+
+42. "For the right and the good are with me."
+
+43. No joining in lamentation, no fluttering of the heart.
+
+44. From Plato: "But to him I would make this just reply: You speak ill, my friend, if you think that a man worth anything at all should weigh the risk of living or dying, and not rather look to this one thing alone, whenever he acts: whether what he does is just or unjust, the work of a good man or a bad."
+
+45. "For so it stands in truth, men of Athens: wherever a man has stationed himself, thinking it best, or has been stationed by his commander, there he must, as it seems to me, remain and face the danger, taking no account of death or of anything else before the shameful."
+
+46. "But, my good man, see whether nobility and goodness are not something other than saving and being saved. For surely the man who is truly a man must not cling to living for whatever length of time, nor be a lover of his life, but must leave these things to God, and believe the women when they say that no one can escape his destiny, and then consider, on this footing, in what way he may best live the time he has to live."
+
+47. To survey the courses of the stars as one running their course with them, and to reflect continually on the changes of the elements into one another; for the imaginings of these things cleanse away the filth of the life on the ground.
+
+48. A noble saying of Plato's. He who would discourse of men should also look upon earthly things as from some height above: herds, armies, husbandry, marriages, divorces, births, deaths, the uproar of law-courts, desert places, the manifold tribes of barbarians, festivals, lamentations, market-places — all the medley, and the order made out of contraries.
+
+49. Survey the things of the past, the so many changes of dominions. It is possible also to foresee the things that shall be; for they will be wholly of one kind, and it is not possible to step outside the rhythm of the things now coming to pass. Therefore it is all one whether you survey human life for forty years or for ten thousand; for what more will you see?
+
+50. "And the things that grew from earth go back to earth; but the things that sprang from heavenly seed return again to the vault of heaven." Or else this is a breaking-up of the interlacings of the atoms, and some such scattering of the impassive elements.
+
+51. "With meats and drinks and magic spells turning aside the channel, that they may not die." . . . . . . . . . . . . . "But the gale that blows from God we must endure, and toil on without lamenting."
+
+52. A man may be a better wrestler, but not therefore more fitted for fellowship, nor more modest, nor better ordered in the face of what befalls, nor kindlier toward the failings of his neighbours.
+
+53. Where a work can be accomplished according to the reason common to gods and men, there is nothing to dread; for where it is possible to gain benefit through an activity that prospers and advances in keeping with our constitution, there no harm need be suspected.
+
+54. Everywhere and continually it is in your power to be reverently content with your present lot, to deal justly with the men about you, and to work with art upon your present impression, so that nothing uncomprehended may slip in.
+
+55. Do not look round at the ruling faculties of others, but look straight ahead at this: to what nature is leading you — both the Nature of the Whole, through what befalls you, and your own nature, through what you have to do. And each must do what follows from his constitution; and the other creatures are constituted for the sake of the rational, as everywhere else the lower for the sake of the higher, but rational beings for one another's sake. Now the leading principle in the constitution of man is the social; the second is to be unyielding to the affections of the body; for it is proper to the rational and intelligent motion to mark itself off and never to be overcome by the motion of the senses or of impulse — for both these are animal — but the intelligent motion claims to be first and not to be mastered by them. And justly so; for it is by nature made to use them all. The third thing in the rational constitution is freedom from rashness and from being deceived. Let the ruling faculty, then, holding fast to these, drive straight ahead, and it has what is its own.
+
+56. As one already dead, and having lived only up to the present, you must live the rest of your life, from the surplus, according to nature.
+
+57. Love only that which befalls you and is woven with your destiny; for what could be more fitting?
+
+58. On each thing that befalls, keep before your eyes those to whom the same things happened, and who then were grieved, taken aback, and full of complaint. Where are they now? Nowhere. What then? Will you choose to be like them? Will you not rather leave the alien turnings to those who turn and are turned, and become wholly given over to the question of how to use them? For you will use them well, and they will be material for you; only attend, and will to be good to yourself in everything you do; and remember both these things together: that the act matters, and the matter on which it is done is indifferent.
+
+59. Dig within. Within is the spring of good, and it can always be welling up, if you always dig.
+
+60. The body too should be steady and not flung about, whether in motion or in posture. For just as the mind shows itself in the face, keeping it composed and seemly, so the like is to be required of the whole body. But all this is to be guarded without affectation.
+
+61. The art of living is more like the wrestler's than the dancer's, in that it stands ready and firm against what comes suddenly and unforeseen.
+
+62. Continually attend to who they are whose testimony you wish to win, and what ruling faculties they have; for then you will neither blame those who stumble unwillingly nor need their witness, when you look into the springs of their opinions and their impulses.
+
+63. "Every soul," he says, "is robbed of truth against its will." So too of justice, of self-control, of kindness, and of everything of the kind. It is most necessary to remember this continually; for so you will be gentler toward all men.
+
+64. On every pain let this be ready to hand: that it is no shame, and does not make the guiding mind worse; for it does not corrupt it, either in so far as it is rational or in so far as it is social. In most pains, indeed, let the saying of Epicurus come to your aid: that pain is neither unbearable nor everlasting, if you remember its limits and do not add to it by opinion. Remember this too: that many things which are really pain, though we do not perceive it, are felt as vexations — such as drowsiness, oppressive heat, and loss of appetite. When, then, you are discontented with any of these, say to yourself that you are giving in to pain.
+
+65. See that you never feel toward the inhuman what the inhuman feel toward men.
+
+66. How do we know that Telauges was not better in disposition than Socrates? For it is not enough that Socrates died a more famous death, disputed more cleverly with the sophists, kept watch more enduringly through the cold night, and, when bidden to bring the man of Salamis, seemed more nobly to refuse, and "swaggered in the streets" — about which one might most of all raise a question, if it were true. But this is what we must consider: what manner of soul Socrates had, and whether he could be content to be just toward men and holy toward the gods, neither chafing at vice in vain, nor making himself the slave of any man's ignorance, nor receiving anything allotted to him out of the Whole as something strange, nor enduring it as unbearable, nor lending his mind to share in the affections of the poor flesh.
+
+67. Nature has not so blended you with the compound as not to allow you to mark yourself off and to keep your own under your own control; for it is very possible to be a divine man and yet be recognized by no one. Remember this always, and this too: that very few things are needed for living a happy life; and do not, because you have given up the hope of being a logician and a natural philosopher, on that account despair of being free, modest, social, and obedient to God.
+
+68. To live out your life unconstrained, in the fullest cheerfulness of soul, though all men cry out against you what they will, though the wild beasts tear in pieces the poor limbs of this lump that has grown about you. For amid all this, what prevents the mind from keeping itself in calm, with a true judgment about the things around it and a readiness to use the things put before it — so that the judgment says to what befalls, "This is what you are in your essence, however by opinion you appear otherwise," and the use says to what comes before it, "You are the thing I was seeking"? For to me the present is always material for rational and social virtue, and, in a word, for the art of a man or a god. For everything that befalls is akin either to God or to man, and is neither new nor hard to handle, but familiar and easy to work upon.
+
+69. This is the perfection of character: to pass each day as though it were your last, neither fluttered nor numbed nor playing a part.
+
+70. The gods, being immortal, are not vexed that throughout so long an age they must always bear with men so many and so worthless; nay, more, they care for them in every way. But you, who are all but at the point of ceasing, do you give up — and that, when you are yourself one of the worthless?
+
+71. It is laughable not to flee one's own vice, which is possible, yet to flee the vice of others, which is impossible.
+
+72. Whatever the rational and social power finds neither intelligent nor social, it justly judges to be inferior to itself.
+
+73. When you have done a good deed and another has been well served by it, why do you, like the foolish, seek besides these a third thing — to be thought to have done a good deed, or to get a return for it?
+
+74. No one wearies of being benefited; and to benefit is an act in accordance with nature. Do not, then, weary of being benefited in the very act of benefiting others.
+
+75. The Nature of the Whole set out upon the making of the universe. Now either everything that comes to pass comes by consequence, or even the chief things, toward which the ruling power of the universe directs its own impulse, are without reason. Remembering this will make you calmer in many things.

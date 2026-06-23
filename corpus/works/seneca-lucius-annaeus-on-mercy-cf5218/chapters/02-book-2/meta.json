@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-on-mercy-cf5218",
+  "work_title": "On Mercy",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02-book-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7a385b44-37b2-5b87-973f-9a945fa01ee2",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 43,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi014"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c71b0697-1f0c-5834-b67a-d627ad0fa8ea",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2646,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

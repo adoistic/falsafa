@@ -4,13 +4,17 @@ slug: "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa"
 title: An Introduction to Philosophy
 author:
   name: George Stuart Fullerton
-  biography: "George Stuart Fullerton (1859-1925)."
+  biography: "American philosopher and psychologist, professor at Pennsylvania and Columbia and an early officer of the American Psychological Association. An Introduction to Philosophy served as a widely used survey of the field for English-speaking students."
+  birth_year: 1859
+  death_year: 1925
+  nationality: American
 era: 20th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "An Introduction to Philosophy, by George Stuart Fullerton (1859-1925), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1906
 total_logical_chapters: 25
 total_variant_entries: 25
 thothica_role: catalog

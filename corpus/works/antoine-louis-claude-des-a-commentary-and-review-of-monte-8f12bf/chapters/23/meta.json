@@ -2,7 +2,7 @@
   "work_slug": "antoine-louis-claude-des-a-commentary-and-review-of-monte-8f12bf",
   "work_title": "A Commentary and Review of Montesquieu's Spirit of Laws",
   "chapter_number": 23,
-  "chapter_title": "Book XXII: Of Laws in Relation to the Use of Money.",
+  "chapter_title": "Book XXIII: Of Laws in Relation to Population",
   "chapter_slug": "23",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3310,
-      "paragraph_count": 16,
+      "word_count": 2034,
+      "paragraph_count": 4,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws"
     }

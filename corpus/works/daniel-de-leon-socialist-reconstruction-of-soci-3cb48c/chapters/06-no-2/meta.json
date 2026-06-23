@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-socialist-reconstruction-of-soci-3cb48c",
+  "work_title": "Socialist Reconstruction of Society",
+  "chapter_number": 6,
+  "chapter_title": "No. 2.",
+  "chapter_slug": "06-no-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0cc69912-d64b-533d-a758-9c5db8e0887e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 94,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1905/050710.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "eugen-richter-pictures-of-the-socialistic-futu-81939f"
 work_title: Pictures of the Socialistic Future
 author_name: Eugen Richter
 chapter_number: 2
-chapter_title: SOME PRESS NOTICES
+chapter_title: Some Press Notices
 chapter_slug: "02-some-press-notices"
 variant_id: "9e4b404a-a801-5907-87a1-004b1a1936bc"
 content_type: translation

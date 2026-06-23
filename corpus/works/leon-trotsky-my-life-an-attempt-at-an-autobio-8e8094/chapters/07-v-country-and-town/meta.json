@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 7,
+  "chapter_title": "V. Country and Town",
+  "chapter_slug": "07-v-country-and-town",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6c18665-d602-5a1b-8edf-04e8f8e836be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5735,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch05.htm"
+    }
+  ]
+}

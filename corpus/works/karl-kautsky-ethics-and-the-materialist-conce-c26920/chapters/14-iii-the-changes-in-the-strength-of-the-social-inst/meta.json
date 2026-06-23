@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-ethics-and-the-materialist-conce-c26920",
+  "work_title": "Ethics and the Materialist Conception of History",
+  "chapter_number": 14,
+  "chapter_title": "III. The Changes in the Strength of The Social Instincts",
+  "chapter_slug": "14-iii-the-changes-in-the-strength-of-the-social-inst",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0fb1d8b-9aaf-5638-9602-5d204878367f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4748,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1906/ethics/ch05.htm"
+    }
+  ]
+}

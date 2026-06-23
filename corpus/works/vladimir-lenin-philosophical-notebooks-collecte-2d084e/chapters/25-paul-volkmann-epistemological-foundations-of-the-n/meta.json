@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 25,
+  "chapter_title": "Paul Volkmann. Epistemological Foundations of the Natural Sciences (“Sciences and Hypothesis,” IX). Second Edition. Leip",
+  "chapter_slug": "25-paul-volkmann-epistemological-foundations-of-the-n",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "907012db-4bb4-5c9a-8f36-48085168c444",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 209,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/misc/x05.htm"
+    }
+  ]
+}

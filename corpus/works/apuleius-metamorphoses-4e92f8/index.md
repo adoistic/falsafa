@@ -4,7 +4,10 @@ slug: "apuleius-metamorphoses-4e92f8"
 title: Metamorphoses
 author:
   name: Apuleius
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Latin prose writer from Madauros in Roman North Africa, trained in rhetoric at Carthage and Athens. The Metamorphoses, the only Latin novel to survive complete, set the tale of Cupid and Psyche inside the story of a man transformed into an ass.
+  birth_year: 124
+  death_year: 170
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

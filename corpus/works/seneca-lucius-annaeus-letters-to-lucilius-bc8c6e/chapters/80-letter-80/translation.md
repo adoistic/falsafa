@@ -1,0 +1,38 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 80
+chapter_title: Letter 80
+chapter_slug: "80-letter-80"
+variant_id: "fe1c6da5-1c44-5fca-8527-1dc0a79fe71e"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 937
+translator: thothica
+---
+
+1. Today I am free, and not only by my own good leave but by that of the show, which has called away all the troublesome to a boxing-match. No one will burst in, no one will hinder my thinking, which, on the strength of this very confidence, advances the more boldly. The door has not creaked from time to time, the curtain will not be raised; I may go safely, which is the more necessary for one who walks by his own path and follows his own way. Am I not, then, following those before me? Yes; but I allow myself to find something too, to change something, to throw something out. I am not their slave, though I am their approver.
+
+2. Yet I have made a great boast, in promising myself silence and a retreat without interrupter. See, a huge shout is borne to me from the stadium, and though it does not shake me out of myself, it turns me to reflect on this very thing. I think to myself how many men train their bodies, how few their minds; what a throng gathers for a show that is unreliable and given over to sport, and what a solitude there is around the good arts; how feeble in mind are those whose arms and shoulders we admire.
+
+3. This above all I turn over in my mind: if the body can be brought by training to such endurance that it can bear the fists and the heels of more than one man, that someone, bearing the most scorching sun in the most burning dust and dripping with his own blood, can hold out through the day, how much more easily can the mind be made strong, so that it may receive the blows of fortune unconquered, may rise again though flung down and trampled. For the body needs many things to be in health; the mind grows from itself, feeds itself, exercises itself. They need much food, much drink, much oil, and at last long toil; virtue will come to you without apparatus, without expense. Whatever can make you good is within you.
+
+4. What do you need in order to be good? To wish it. And what better can you wish than to snatch yourself from this slavery which weighs on all, which even slaves of the lowest condition, born in this filth, strive by every means to throw off? The savings which they have scraped together by cheating their own bellies they pay over for their freedom; will you, who think you were born free, not long to attain freedom at any cost whatever?
+
+5. Why do you look to your money-chest? Freedom cannot be bought. And so it is in vain that the name of liberty is entered upon the records, a liberty which neither those who bought it have nor those who sold it. You must give this good to yourself, ask it of yourself. First free yourself from the fear of death: that lays its yoke upon us; then from the fear of poverty.
+
+6. If you wish to know how little evil there is in poverty, compare the faces of the poor and the rich; more often, and more honestly, the poor man laughs; no anxiety lies deep within him; even if some care befalls him, it passes like a light cloud. But the cheerfulness of those who are called happy is feigned, or their sadness is heavy and festering, and the heavier because at times they are not allowed to be openly wretched, but must play the happy man among griefs that gnaw their very heart.
+
+7. I must use this illustration more often, for in no other way is this mime of human life so well expressed, which assigns to us the parts we play badly. That man who struts broadly across the stage and says, with head thrown back, "Behold, I rule over Argos; the realm has Pelops left to me, where the Isthmus is pressed by the sea of Helle and the Ionian wave," is a slave, gets his five pecks of grain and his five denarii.
+
+8. That man who, proud and ungovernable and swollen with confidence in his strength, says, "Unless you keep quiet, Menelaus, you shall die by this right hand," gets a daily wage and sleeps under a patchwork blanket. You may say the same of all those whom their litter holds aloft, in their daintiness, above the heads of men and above the crowd; the happiness of all of them is a stage-mask. You will despise them, if you strip them.
+
+9. When you are about to buy a horse, you order the blanket taken off; you strip the clothing from slaves on sale, lest some defect of body lie hidden; will you value a man muffled up? Slave-dealers hide whatever it is that might give offence under some embellishment, and so the very ornaments are suspect to those who buy. Whether you saw the leg bandaged or the arm, you would order it bared and the body itself shown to you.
+
+10. Do you see that king of Scythia or Sarmatia, adorned with the splendid emblem on his head? If you wish to value him and to know fully what sort of man he is, loosen the diadem; much evil lies hidden beneath it. Why do I speak of others? If you wish to weigh yourself, set aside your money, your house, your rank, and look within at yourself. As things now stand, you take the word of others for what sort of man you are. Farewell.

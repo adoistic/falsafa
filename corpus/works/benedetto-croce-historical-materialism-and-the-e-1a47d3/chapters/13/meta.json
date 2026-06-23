@@ -1,0 +1,26 @@
+{
+  "work_slug": "benedetto-croce-historical-materialism-and-the-e-1a47d3",
+  "work_title": "Historical Materialism and the Economics of Karl Marx",
+  "chapter_number": 13,
+  "chapter_title": "Chapter V.",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec4bbae9-7ce3-5e96-b8b4-c571183041bc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3969,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/croce/works/marx/ch05.htm"
+    }
+  ]
+}

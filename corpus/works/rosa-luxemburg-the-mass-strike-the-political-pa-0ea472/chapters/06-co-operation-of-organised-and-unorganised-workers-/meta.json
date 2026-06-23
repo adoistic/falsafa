@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-mass-strike-the-political-pa-0ea472",
+  "work_title": "The Mass Strike, the Political Party and the Trade Unions",
+  "chapter_number": 6,
+  "chapter_title": "Co-operation of Organised and Unorganised Workers Necessary for Victory",
+  "chapter_slug": "06-co-operation-of-organised-and-unorganised-workers-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ffb578c-dcc2-5ff6-ba21-49109bad7ccb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2327,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1906/mass-strike/ch06.htm"
+    }
+  ]
+}

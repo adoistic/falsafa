@@ -4,11 +4,11 @@ slug: "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
 title: "Traité de la propriété: VOL II"
 author:
   name: Charles Comte
-  biography: "Charles Comte was a French liberal economist, lawyer, and journalist known for his defense of individual liberty and opposition to authoritarian government. A close associate of Charles Dunoyer and an influence on Frédéric Bastiat, Comte co-founded Le Censeur and Le Censeur Européen, journals that criticized state power and championed freedom of the press and economic liberty. His major work, Traité de législation, argued that laws should protect individual rights rather than serve political interests. Comte’s thought contributed significantly to the development of early 19th-century French liberalism and the foundations of classical liberal economic theory."
+  biography: "French lawyer and journalist, co-founder with Charles Dunoyer of Le Censeur and son-in-law of Jean-Baptiste Say. The Traité de législation of 1827 explained the prosperity of peoples by their industrious habits rather than their laws, and armed a generation of French liberals."
   birth_year: 1782
   death_year: 1837
   nationality: French
-era: Enlightenment
+era: 19th Century
 genre: Philosophy
 language: French
 language_direction: ltr

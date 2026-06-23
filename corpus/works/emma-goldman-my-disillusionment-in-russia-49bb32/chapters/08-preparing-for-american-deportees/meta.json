@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 8,
+  "chapter_title": "Preparing for American Deportees",
+  "chapter_slug": "08-preparing-for-american-deportees",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f5db5af8-dd47-55dd-ac35-ff169d3d6474",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1991,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch06.htm"
+    }
+  ]
+}

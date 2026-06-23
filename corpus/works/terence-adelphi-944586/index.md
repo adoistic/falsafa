@@ -4,7 +4,10 @@ slug: "terence-adelphi-944586"
 title: Adelphi
 author:
   name: Terence
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman comic playwright of North African origin, freedman in the circle of Scipio Aemilianus. His six surviving comedies adapted Greek New Comedy into a refined Latin that became a schoolroom model of style for centuries.
+  birth_year: -195
+  death_year: -159
+  nationality: Roman
 era: Hellenistic
 genre: Classics
 language: Latin

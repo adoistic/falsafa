@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-mutual-aid-a-factor-of-evolution-488c94",
+  "work_title": "Mutual Aid: A Factor of Evolution",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 2: Mutual Aid Among Animals (cont'd)",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc09955c-6e49-5917-b0a5-7070a8e758c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11806,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch02.htm"
+    }
+  ]
+}

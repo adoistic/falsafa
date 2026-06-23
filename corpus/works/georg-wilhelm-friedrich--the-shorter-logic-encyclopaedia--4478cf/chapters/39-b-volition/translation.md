@@ -1,0 +1,27 @@
+---
+work_id: "4478cfcf-f385-52f5-93d5-d38bea1729b2"
+work_slug: "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf"
+work_title: The Shorter Logic (Encyclopaedia Logic)
+author_name: Georg Wilhelm Friedrich Hegel
+chapter_number: 39
+chapter_title: "[b] Volition"
+chapter_slug: "39-b-volition"
+variant_id: "2b4a1119-8817-53ee-afe4-9277faac8658"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 809
+source_url: "https://www.marxists.org/reference/archive/hegel/works/sl/slidea.htm"
+translator: William Wallace
+---
+
+The subjective idea as original and objective determinateness, and as a simple uniform content, is the Good. Its impulse towards self-realisation is in its behaviour the reverse of the idea of truth, and rather directed towards moulding the world it finds before it into a shape conformable to its purposed End. This Volition has, on the one hand, the certitude of the nothingness of the presupposed object; but, on the other, as finite, it at the same time presupposes the purposed End of the Good to be a mere subjective idea, and the object to be independent.
+
+This action of the Will is finite: and its finitude lies in the contradiction that in the inconsistent terms applied to the objective world the End of the Good is just as much not executed as executed, the end in question put as unessential as much as essential, as actual and at the same time as merely possible. This contradiction presents itself to imagination as an endless progress in the actualising of the Good; which is therefore set up and fixed as a mere ‘ought’, or goal of perfection. In point of form however this contradiction vanishes when the action supersedes the subjectivity of the purpose, and along with it the objectivity, with the contrast which makes both finite; abolishing subjectivity as a whole and not merely the one-sidedness of this form of it. (For another new subjectivity of the kind, that is, a new generation of the contrast, is not distinct from that which is supposed to be past and gone.) This return into itself is at the same time the content’s own ‘recollection’ that it is the Good and the implicit identity of the two sides — it is a ‘recollection’ of the presupposition of the theoretical attitude of mind (§ 224) that the objective world is its own truth and substantiality.
+
+While Intelligence merely proposes to take the world as it is, Will takes steps to make the world what it ought to be. Will looks upon the immediate and given present not as solid being, but as mere semblance without reality. It is here that we meet those contradictions which are so bewildering from the standpoint of abstract morality. This position in its ‘practical’ bearings is the one taken by the philosophy of Kant, and even by that of Fichte. The Good, say these writers, has to be realised: we have to work in order to produce it: and Will is only the Good actualising itself. If the world then were as it ought to be, the action of Will would be at an end. The Will itself therefore requires that its End should not be realised. In these words, a correct expression is given to the finitude of Will. But finitude was not meant to be the ultimate point: and it is the process of Will itself which abolishes finitude and the contradiction it involves. The reconciliation is achieved when Will in its result returns to the presupposition made by cognition. In other words, it consists in the unity of the theoretical and practical idea. Will knows the end to be its own, and Intelligence apprehends the world as the notion actual. This is the right attitude of rational cognition. Nullity and transitoriness constitute only the superficial features and not the real essence of the world. That essence is the notion in posse and in esse: and thus the world is itself the idea. All unsatisfied endeavour ceases, when we recognise that the final purpose of the world is accomplished no less than ever accomplishing itself. Generally speaking, this is the man’s way of looking; while the young imagine that the world is utterly sunk in wickedness, and that the first thing needful is a thorough transformation. The religious mind, on the contrary, views the world as ruled by Divine Providence, and therefore correspondent with what it ought to be. But this harmony between the ‘is’ and the ‘ought to be’ is not torpid and rigidly stationary. Good, the final end of the world, has being, only while it constantly produces itself. And the world of spirit and the world of nature continue to have this distinction, that the latter moves only in a recurring cycle, while the former certainly also makes progress.
+
+Thus the truth of the Good is laid down as the unity of the theoretical and practical idea in the doctrine that the Good is radically and really achieved, that the objective world is in itself and for itself the Idea, just as it at the same time eternally lays itself down as End, and by action brings about its actuality. This life which has returned to itself from the bias and finitude of cognition, and which by the activity of the notion has become identical with it, is the Speculative or Absolute Idea.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 3,
+  "chapter_title": "I. Yanovka",
+  "chapter_slug": "03-i-yanovka",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0e0099fa-f30c-52a8-8300-5c9f004c3344",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10323,
+      "paragraph_count": 112,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch01.htm"
+    }
+  ]
+}

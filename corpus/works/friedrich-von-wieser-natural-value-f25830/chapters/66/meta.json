@@ -2,7 +2,7 @@
   "work_slug": "friedrich-von-wieser-natural-value-f25830",
   "work_title": "Natural Value",
   "chapter_number": 66,
-  "chapter_title": "CHAPTER II: the province of a state economy",
+  "chapter_title": "Chapter III: value in the natural economy of the state",
   "chapter_slug": "66",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2452,
-      "paragraph_count": 11,
+      "word_count": 2145,
+      "paragraph_count": 8,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
     }

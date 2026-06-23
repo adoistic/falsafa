@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 37,
+  "chapter_title": "Modern Industry and Agriculture",
+  "chapter_slug": "37-modern-industry-and-agriculture",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ac0d430-03a2-5f59-bbb3-1fc2d054f0ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 687,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm"
+    }
+  ]
+}

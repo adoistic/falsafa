@@ -4,13 +4,17 @@ slug: "george-everett-partridge-the-psychology-of-nations-a-cont-f19467"
 title: "The Psychology of Nations: A Contribution to the Philosophy of History"
 author:
   name: George Everett Partridge
-  biography: "George Everett Partridge (1870-1953)."
+  biography: American psychologist trained under G. Stanley Hall at Clark University, a writer on genetic and social psychology. The Psychology of Nations applied psychological theory to nationalism and the causes of war in the aftermath of the First World War.
+  birth_year: 1870
+  death_year: 1953
+  nationality: American
 era: 20th Century
 genre: Philosophy of History
 language: English
 language_direction: ltr
 description: "The Psychology of Nations: A Contribution to the Philosophy of History, by George Everett Partridge (1870-1953), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1919
 total_logical_chapters: 14
 total_variant_entries: 14
 thothica_role: catalog

@@ -1,0 +1,21 @@
+---
+work_id: "b404cdcb-4b2b-5a04-aaa8-3c37097782ed"
+work_slug: "francis-bacon-the-advancement-of-learning-b404cd"
+work_title: The Advancement of Learning
+author_name: Francis Bacon
+chapter_number: 67
+chapter_title: "Xii.—: Scornful men insnare a city, but wise men prevent calamity"
+chapter_slug: "67-xii-scornful-men-insnare-a-city-but-wise-men-preve"
+variant_id: "9a3030d7-71cf-57de-8fb6-3110a528c6e6"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 284
+source_url: "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+translator: Online Library of Liberty edition
+---
+
+It may seem strange, that in the description of men, formed, as it were, by nature, for the destruction of states, Solomon should choose the character, not of a proud and haughty, not of a tyrannical and cruel, not of a rash and violent, not of a seditious and turbulent, not of a foolish or incapable man, but the character of a scorner. Yet this choice is becoming the wisdom of that king, who well knew how governments were subverted, and how preserved. For there is scarce such another destructive thing to kingdoms, and commonwealths, as that the counsellors, or senators, who sit at the helm, should be naturally scorners; who, to show themselves courageous advisers, are always extenuating the greatness of dangers, insulting, as fearful wretches, those who weigh them as they ought, and ridiculing the ripening delays of counsel and debate, as tedious matters of oratory, unserviceable to the general issue of business. They despise rumors as the breath of the rabble, and things that will soon pass over, though the counsels of princes are to be chiefly directed from hence. They account the power and authority of laws but nets unfit to hold great matters. They reject, as dreams and melancholy notions, those counsels and precautions that regard futurity at a distance. They satirize and banter such men as are really prudent and knowing in affairs, or such as bear noble minds, and are capable of advising. In short, they sap all the foundations of political government at once—a thing which deserves the greater attention, as it is not effected by open attack, but by secret undermining; nor is it, by any means, so much suspected among mankind as it deserves.

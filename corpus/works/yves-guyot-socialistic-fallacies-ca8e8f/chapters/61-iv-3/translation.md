@@ -1,0 +1,31 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 61
+chapter_title: IV (3)
+chapter_slug: "61-iv-3"
+variant_id: "4d385f0f-5482-5731-a11b-71a381826854"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 464
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+Report No. 57 of the American census, entitled “Census of Manufacturers, 1905,” was published in 1907. It deals in fact with the year 1904. Between 1899 and 1904 there was an astonishing explosion of activity in the United States. This is the period which witnessed the genesis of the great trusts. Was the new census of a nature calculated to invalidate the foregoing conclusions? I devoted myself with curiosity to an examination of this question.
+
+To begin with, I gather from Table No. 2 that the number of establishments rose from 512,000 in 1900 to 533,000 in 1905. The number, instead of decreasing, has increased. This first indication is not an indication of concentration. But Mr. S. N. D. North, the Director of the Census, explained in 1900 that the enumeration of small establishments presented considerable difficulties. In 1900 the agents had already been instructed not to include butchers, laundrymen, tailors, milliners, dressmakers, hairdressers, etc., while undertakings whose output was estimated as less than $500 were also excluded. I foresaw that all the small establishments whose inclusion occupied much time and was onerous and not easily controlled, would be omitted, and although the figure of 533,000 occurs in the census of 1905, it really concerns itself with only 216,000 undertakings. (Table I).
+
+Mr. North says that a comparison of these establishments with those of a similar nature included in the census of 1900, yields the result that the number of 207,500 in 1900 has increased to 216,200 in 1905, or an increase of 4.2 per cent.—a fact which is not in accordance with the alleged phenomenon of concentration. Table IX. gives us the position of 14 classes of industrial establishments in 1900 and in 1905. In eight classes the number has increased by 14,500.
+
+In six classes the number has decreased by 5,500.
+
+This shows a total increase of 9,000. We have included shipbuilding among the classes in which the number of establishments has declined; the decrease is only one of ten units, of whose size we are ignorant. The figures, therefore, show that the development of industry in the United States has not contracted them within a small number of establishments from 1900 to 1905 any more than in the preceding period. I may add that Table XVI., dealing with textiles, shows a larger figure for 1905 than for 1900, the manufactures included being cotton, wool, silk, hosiery, linen, hemp, and jute. The figures are 4,312 in 1900 and 4,563 in 1905. Blast furnaces suffered a slight decrease, from 668 to 605, but other metallurgical establishments increased from 215 to 443.
+
+The number of industrial establishments has not decreased, so that the phenomenon of the concentration of industries has not manifested itself in the United States in the period from 1900 to 1905.

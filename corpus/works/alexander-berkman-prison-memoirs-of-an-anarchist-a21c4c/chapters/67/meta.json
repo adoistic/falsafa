@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 67,
+  "chapter_title": "Part 2, Chapter 42 : Marred Lives",
+  "chapter_slug": "67",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "309c2e0c-6447-5dbf-986e-aa471a0a79bb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3336,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-42.html"
+    }
+  ]
+}

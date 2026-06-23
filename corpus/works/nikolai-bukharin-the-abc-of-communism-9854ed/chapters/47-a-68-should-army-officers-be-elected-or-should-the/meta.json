@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 47,
+  "chapter_title": "â§ 68. Should army officers be elected, or should they be appointed from above?",
+  "chapter_slug": "47-a-68-should-army-officers-be-elected-or-should-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2b35b67d-bdf6-5256-ba0e-f3534fb8c79a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 472,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/08.htm"
+    }
+  ]
+}

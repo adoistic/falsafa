@@ -4,7 +4,7 @@ work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4"
 work_title: A Select Collection of Scarce and Valuable Tracts on Money
 author_name: John Ramsay McCulloch (ed.)
 chapter_number: 18
-chapter_title: "CHAP. XVI.: Examinations of the Reasons for the not raising of Money."
+chapter_title: "Chap. XVI.: Examinations of the Reasons for the not raising of Money."
 chapter_slug: "18-chap-xvi-examinations-of-the-reasons-for-the-not-r"
 variant_id: "cd660e85-b1fb-5fe6-8287-e4c2a734d4a6"
 content_type: translation
@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 780
+word_count: 776
 source_url: "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
 translator: Online Library of Liberty edition
 ---
 
-THE first and main Reason against the raising of Money, is, The INJUSTICE and OPPRESSION done to all those, who are in place of Creditors to receive, all which are forced to receive less in Intrinsical value than is due unto them, and less in faculty and extent to supply their own uses. To which reason I never understood any Edition: current; Page: [86] answer made that could have examination but only this: That however the Creditors do receive less in intrinsical value, and less in faculty and extent, to supplie their use by reason that as the Extrinsical value of the Money is raised, the price of the things do likewise rise with it, yet that price doth not rise but by degrees and time, in which time all these Creditors by renewing their Contracts do repair themselves, some sooner, some later, according to the state of their Contracts. But then it is manifest that all those who have any Rents or other Rights which are defined to a certain sum in perpetuity, and the King for the best part of his Revenue are extreamly damnified by the raising of Moneys without Repair, except there should a Law be made that all those kind of payments should be payable according to the values of Money current when they were first created, which, though it were an innovation full of Danger and Confusion, and Impracticable in this State, yet it seemeth to have a foundation in Justice.
+THE first and main Reason against the raising of Money, is, The INJUSTICE and OPPRESSION done to all those, who are in place of Creditors to receive, all which are forced to receive less in Intrinsical value than is due unto them, and less in faculty and extent to supply their own uses. To which reason I never understood any answer made that could have examination but only this: That however the Creditors do receive less in intrinsical value, and less in faculty and extent, to supplie their use by reason that as the Extrinsical value of the Money is raised, the price of the things do likewise rise with it, yet that price doth not rise but by degrees and time, in which time all these Creditors by renewing their Contracts do repair themselves, some sooner, some later, according to the state of their Contracts. But then it is manifest that all those who have any Rents or other Rights which are defined to a certain sum in perpetuity, and the King for the best part of his Revenue are extreamly damnified by the raising of Moneys without Repair, except there should a Law be made that all those kind of payments should be payable according to the values of Money current when they were first created, which, though it were an innovation full of Danger and Confusion, and Impracticable in this State, yet it seemeth to have a foundation in Justice.
 
 A second Reason, made against the raising of Money, is this, If you do raise your Moneys out of the Misconceipt to draw you more Gold and Silver, the other Nations out of the same Misconceipt will raise the Money likewise; and so deprive you of your end: but to this reason it may be answered, That we ought not to raise our Moneys above our Neighbours, but only to a parity with them, and then if they be obstinate to out raise us, we must rather undergo the Prejudice of a continual raising to a parity, thereby to keep our own, than to suffer other Nations by imparity to rob us of what we have: so as this Argument in effect, doth resort to that, which was formerly disputed, whether truly and constantly more Gold and Silver be brought in by the raising of Money.
 

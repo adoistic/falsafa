@@ -4,7 +4,7 @@ work_slug: "john-morley-the-life-of-richard-cobden-23f473"
 work_title: The Life of Richard Cobden
 author_name: John Morley
 chapter_number: 2
-chapter_title: TWO VOLUMES OF ESSAYS Large crown 8vo, cloth, 6s. each. (Uniform with “The Heart of the Empire”)
+chapter_title: Two Volumes of Essays Large crown 8vo, cloth, 6s. each. (Uniform with “The Heart of the Empire”)
 chapter_slug: "02-two-volumes-of-essays-large-crown-8vo-cloth-6s-eac"
 variant_id: "76d82984-5017-572d-9afd-7c60593db91f"
 content_type: translation

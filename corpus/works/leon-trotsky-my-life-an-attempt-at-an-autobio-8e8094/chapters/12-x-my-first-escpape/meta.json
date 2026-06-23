@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 12,
+  "chapter_title": "X. My First Escpape",
+  "chapter_slug": "12-x-my-first-escpape",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a875b2c6-196b-5365-b6c5-2e9667b8c082",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2973,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch10.htm"
+    }
+  ]
+}

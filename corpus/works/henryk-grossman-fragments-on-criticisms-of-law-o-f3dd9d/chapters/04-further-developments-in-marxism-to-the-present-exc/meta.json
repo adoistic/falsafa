@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-fragments-on-criticisms-of-law-o-f3dd9d",
+  "work_title": "Fragments on criticisms of 'Law of Accumulation'",
+  "chapter_number": 4,
+  "chapter_title": "Further Developments in Marxism to the Present (Excerpt)",
+  "chapter_slug": "04-further-developments-in-marxism-to-the-present-exc",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "38e18896-fce4-5c12-87da-48cd9832bcee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 132,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1932/fatalism.htm"
+    }
+  ]
+}

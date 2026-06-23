@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 17,
+  "chapter_title": "Hail the Rank and File Movement.",
+  "chapter_slug": "17-hail-the-rank-and-file-movement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "62098be6-a8bc-50f3-92ee-990eaf93f952",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 676,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

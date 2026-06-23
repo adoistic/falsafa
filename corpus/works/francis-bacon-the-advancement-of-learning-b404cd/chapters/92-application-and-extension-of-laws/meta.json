@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 92,
+  "chapter_title": "Application and extension of laws",
+  "chapter_slug": "92-application-and-extension-of-laws",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bbb7c9b0-ba38-5a42-b022-ea5ff4595e1a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 548,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

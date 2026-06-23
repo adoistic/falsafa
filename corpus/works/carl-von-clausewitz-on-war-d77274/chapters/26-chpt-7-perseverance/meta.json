@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 26,
+  "chapter_title": "Chpt. 7 Perseverance",
+  "chapter_slug": "26-chpt-7-perseverance",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4433a668-c3a7-5e09-b3d8-495206db6576",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 360,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch07.htm"
+    }
+  ]
+}

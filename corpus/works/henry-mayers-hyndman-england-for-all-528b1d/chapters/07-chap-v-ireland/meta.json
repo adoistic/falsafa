@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-england-for-all-528b1d",
+  "work_title": "England For All",
+  "chapter_number": 7,
+  "chapter_title": "Chap.V – Ireland",
+  "chapter_slug": "07-chap-v-ireland",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "62e88660-d4d5-593c-89a9-0f7f4daac7b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4948,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1881/england/chap05.html"
+    }
+  ]
+}

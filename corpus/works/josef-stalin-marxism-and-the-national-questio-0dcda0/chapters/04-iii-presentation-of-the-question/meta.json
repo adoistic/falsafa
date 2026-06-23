@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-marxism-and-the-national-questio-0dcda0",
+  "work_title": "Marxism and the National Question",
+  "chapter_number": 4,
+  "chapter_title": "III. Presentation of the Question",
+  "chapter_slug": "04-iii-presentation-of-the-question",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "581cdf8d-a47b-5b80-b20e-cf51b94a0268",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2145,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1913/03a.htm"
+    }
+  ]
+}

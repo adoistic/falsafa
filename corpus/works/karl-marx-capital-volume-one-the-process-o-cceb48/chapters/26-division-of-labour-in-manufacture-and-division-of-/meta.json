@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 26,
+  "chapter_title": "Division of Labour in Manufacture, and Division of Labour in Society",
+  "chapter_slug": "26-division-of-labour-in-manufacture-and-division-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7d051645-ea9e-5066-9919-10513453c74a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2819,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch14.htm"
+    }
+  ]
+}

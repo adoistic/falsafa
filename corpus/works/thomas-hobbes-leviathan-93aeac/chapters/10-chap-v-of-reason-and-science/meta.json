@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 10,
+  "chapter_title": "Chap. V.: Of Reason, and Science.",
+  "chapter_slug": "10-chap-v-of-reason-and-science",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e0f5950-b78c-5be8-882d-6f6b1eb8bd20",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2564,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

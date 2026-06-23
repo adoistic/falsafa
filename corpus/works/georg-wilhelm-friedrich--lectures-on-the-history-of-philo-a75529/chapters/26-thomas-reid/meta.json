@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 26,
+  "chapter_title": "Thomas Reid",
+  "chapter_slug": "26-thomas-reid",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d685e4c7-f8ad-5284-8c24-4a6fcf0987cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 931,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hpscots.htm"
+    }
+  ]
+}

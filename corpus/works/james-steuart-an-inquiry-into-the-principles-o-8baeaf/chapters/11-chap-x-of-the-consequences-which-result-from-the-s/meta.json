@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 11,
+  "chapter_title": "Chap. X Of the Consequences which result from the Separation of the two principal Classes of a People, the Farmers and t",
+  "chapter_slug": "11-chap-x-of-the-consequences-which-result-from-the-s",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60d1fa87-4913-5f8f-bbdb-4bff026a2ab0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3049,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book1_09.htm"
+    }
+  ]
+}

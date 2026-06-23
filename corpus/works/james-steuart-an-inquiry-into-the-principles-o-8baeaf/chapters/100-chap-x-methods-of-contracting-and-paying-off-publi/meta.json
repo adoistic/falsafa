@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 100,
+  "chapter_title": "Chap. X: Methods of contracting and paying off public Debts",
+  "chapter_slug": "100-chap-x-methods-of-contracting-and-paying-off-publi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cec3946f-b036-5e09-902d-53a19917fef7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5772,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_4.htm"
+    }
+  ]
+}

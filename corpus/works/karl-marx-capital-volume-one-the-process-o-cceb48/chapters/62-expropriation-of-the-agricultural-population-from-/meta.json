@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 62,
+  "chapter_title": "Expropriation of the Agricultural Population from the Land",
+  "chapter_slug": "62-expropriation-of-the-agricultural-population-from-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6559847-0cb5-5983-8883-0f88b94fb188",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4631,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch27.htm"
+    }
+  ]
+}

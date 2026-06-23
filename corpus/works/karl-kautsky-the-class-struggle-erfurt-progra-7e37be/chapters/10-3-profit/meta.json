@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-class-struggle-erfurt-progra-7e37be",
+  "work_title": "The Class Struggle (Erfurt Program)",
+  "chapter_number": 10,
+  "chapter_title": "3. Profit",
+  "chapter_slug": "10-3-profit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f916c501-b8f2-54ff-9528-a12b1b85bc50",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 382,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1892/erfurt/ch03.htm"
+    }
+  ]
+}

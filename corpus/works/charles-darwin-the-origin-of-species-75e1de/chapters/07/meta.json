@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-darwin-the-origin-of-species-75e1de",
+  "work_title": "The Origin of Species",
+  "chapter_number": 7,
+  "chapter_title": "Chapter V. Laws of Variation.",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b6e27882-88bc-5fae-ae73-31c1cd39f57d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12132,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/darwin/works/origins/ch05.htm"
+    }
+  ]
+}

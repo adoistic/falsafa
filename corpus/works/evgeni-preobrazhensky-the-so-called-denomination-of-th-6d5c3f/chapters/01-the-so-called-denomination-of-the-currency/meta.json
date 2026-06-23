@@ -1,0 +1,26 @@
+{
+  "work_slug": "evgeni-preobrazhensky-the-so-called-denomination-of-th-6d5c3f",
+  "work_title": "The So-Called Denomination of the Currency",
+  "chapter_number": 1,
+  "chapter_title": "The So-Called Denomination of the Currency",
+  "chapter_slug": "01-the-so-called-denomination-of-the-currency",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "61be2994-01be-5320-a49c-0fba55e55a0d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 818,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/preobrazhensky/1922/01/denomination.html"
+    }
+  ]
+}

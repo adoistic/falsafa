@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 8,
+  "chapter_title": "Chpt. 3 The Genius for War",
+  "chapter_slug": "08-chpt-3-the-genius-for-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4ea624d-776a-556a-b839-68bd6cc67be7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8190,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book1/ch03.htm"
+    }
+  ]
+}

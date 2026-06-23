@@ -1,0 +1,33 @@
+---
+work_id: "eb9423e0-ba11-50e8-a797-dd4d5059432a"
+work_slug: "sir-frederick-pollock-the-law-of-torts-eb9423"
+work_title: The Law of Torts
+author_name: Sir Frederick Pollock
+chapter_number: 111
+chapter_title: Special Part, Illustrations. (17)
+chapter_slug: "111-special-part-illustrations-17"
+variant_id: "e54f78ee-fe20-5126-85d4-893060642412"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 586
+source_url: "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+translator: Online Library of Liberty edition
+---
+
+1. A. is a merchant in Bombay. His office is approached by a passage, forming part of the premises occupied by him, in which there is a trapdoor. At a time when the trapdoor is left open, and not properly guarded or lighted, B., a customer of A., comes to the office on business, and falls through the trapdoor and is injured. A. has wronged B..
+
+2. A. digs a pit on his own land close to a highway, and does not fence it off, light the place after dark, or take any other precaution for the safety of persons using the highway. B., lawfully walking on the highway after dark, falls into the pit and is injured. A. has wronged B..
+
+3. A., the owner of a road subject to rights of way, puts a heap of building materials on the road, and leaves them at night unwatched and unlighted. B., a person entitled to use the road, drives along the road after dark, his carriage runs against the heap, and his horse and carriage are damaged. A. has wronged B..
+
+4. The X. Company are possessed of a dock, in which for payment from shipowners they provide accommodation for ships, including gangways between ships in dock and the shore, and staging for the use of workmen employed about ships in the dock. A. is a person having lawful business on one of the ships in the dock; to reach the ship he walks on one of the gangways provided by the X. Company. The X. Company’s servants having placed the gangway in an unsafe position, it gives way under A., and he falls into the water and is injured. The X. Company has wronged A. B. is a workman employed to paint a ship in the dock. He stands for that purpose on a staging provided by the X. Company, which is in fact unfit for such use by the negligence of the X. Company’s servants in not fitting it with ropes of proper strength. One of the ropes breaks, and B. falls into the dock and is hurt. The X. Company has wronged B..
+
+5. A. is possessed of a bridge crossing a public road. As B. is passing along the road under the bridge, a brick falls upon him from the brickwork of the bridge and injures him. There is no specific proof of the amount of care used in making or maintaining the bridge. Unless A. proves that the fall of the brick was due to some cause consistent with due care having been used in the maintenance of the bridge, A. has wronged B..
+
+6. A. is possessed of a lamp which is affixed to the wall of his house and projects over a public street. The fastenings of the lamp, being out of repair, give way, and the lamp falls on B., a foot-passenger in the street, and injures him. A. must make compensation to B., even if A. has employed a person whom he reasonably believed to be competent to keep the lamp in repair.
+
+Position of licensees using premises.70. Where a person uses or comes on any property with the occupier’s permission, but not as of right, the occupier of that property is liable for harm suffered by the first-mentioned person from a defect in the condition or repair of that property only if the defect is such as to constitute to the knowledge of the occupier a danger not discoverable by a person using ordinary care.

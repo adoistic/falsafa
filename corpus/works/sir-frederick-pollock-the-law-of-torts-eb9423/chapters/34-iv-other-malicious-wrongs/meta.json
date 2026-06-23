@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-law-of-torts-eb9423",
+  "work_title": "The Law of Torts",
+  "chapter_number": 34,
+  "chapter_title": "Iv.—: Other Malicious Wrongs.",
+  "chapter_slug": "34-iv-other-malicious-wrongs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ea1bebf-251b-5040-b6db-42bc37543290",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1861,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "john-rae-life-of-adam-smith-a74419",
   "work_title": "Life of Adam Smith",
   "chapter_number": 31,
-  "chapter_title": "CHAPTER XXX: VISIT OF SAMUEL ROGERS 1789",
+  "chapter_title": "Chapter XXXI: Revision of the \"Theory\"",
   "chapter_slug": "31",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2729,
-      "paragraph_count": 10,
+      "word_count": 1759,
+      "paragraph_count": 9,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
     }

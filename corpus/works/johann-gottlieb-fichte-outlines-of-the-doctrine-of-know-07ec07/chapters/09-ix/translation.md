@@ -1,0 +1,33 @@
+---
+work_id: "07ec0723-283b-5e05-a30d-32601db94b5c"
+work_slug: "johann-gottlieb-fichte-outlines-of-the-doctrine-of-know-07ec07"
+work_title: Outlines of the Doctrine of Knowledge
+author_name: Johann Gottlieb Fichte
+chapter_number: 9
+chapter_title: IX.
+chapter_slug: "09-ix"
+variant_id: "354da3e7-e599-5727-bd93-b9fe400b9de1"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 811
+source_url: "https://www.marxists.org/reference/subject/philosophy/works/ge/fichte.htm"
+translator: William Smith
+---
+
+Since neither the Power itself as such, nor the Divine Life, is schematised in Intuition, by which indeed there is first introduced the practical possibility of such schematising, it is clear that there is nothing left remaining in Intuition but the mere Form of Power as given in its immediate expression. It is (§ V.) a Power of Contemplation, - and that indeed without direction towards the one Divine Life, which from this standpoint remains concealed; - an undefined, wholly indeterminate, and yet absolute Power, - and hence an Infinite. It therefore schematises itself as contemplating an infinity in one glance:- SPACE; it consequently thus also schematises itself as contracting and limiting itself, in the same undivided Intuition, to a point in that first infinity, a point which in itself is likewise infinitely divisible, a consolidated infinite Space within the other simple infinite Space, - or MATTER; - thus as an infinite Power of self-concentration, and consequently also as an unlimited Material World in Space: - all which, according to the fundamental law of Knowledge which we have already adduced (§ v.) must appear to it as actual, self-existent Being.
+
+Further: - by virtue of its merely formal power of Being, it is an absolutely primitive Principle. In order to schematise itself as such in Intuition, it must antecedent to its actual activity, perceive a possible form of activity which - thus it must seem to it - it either might or might not be able to realize. This possible form of activity cannot be perceived by it in the Absolute Imperative, which to this point of view is invisible; hence it can only be perceived in a likewise blindly schematised Causality, which indeed is not an immediate Causality but only appears to become so through the apparent realisation of the Power. But such a Causality is an Instinct. It was necessary that the Power should feel itself impelled to this or that form of activity, but without the source of the impulse being immediately perceived, since such an immediate recognition would deprive it of the appearance of Freedom, which is here an indispensable characteristic.
+
+This activity demanded by Instinct can only be an activity exercised on the Material World. Hence the Instinct to activity comes into view in immediate relation to material existences; these are consequently recognised in this immediate relation, and acquire, through this relation, not merely extension in Space, but, even more, their internal qualities: - and by this remark we have completed the definition of material existences, which was before left incomplete.
+
+Should the Power, by means of this Instinct and the consequent appearance of self-determination, perceive itself as in a state of real activity, then, in the perception of this activity, it would be associated with the Material World in the same undivided Form of Intuition; and hence in this Intuition, thus uniting it with the Material World, it would perceive itself as a material existence in a double relation to the Material World: - partly as Sense, that it might feel the relation of that world to its Instinct, - partly as Organism, that it might contemplate its own activity therein.
+
+In this activity it now beholds itself as the same identical Power in a state of self-determination; but as not exhausted in any form of its activity, and as thus remaining a Power ad infinitum. In this perception of its unlimited Power there arises before it an Infinity; not in one glance, like that first mentioned, but an Infinity in which it may behold its own infinite activity; - an infinite series of successive links:- TIME. Since this activity can be exercised ad infinitum only on the Material World, Time is likewise transferred to that world in the unity of Intuition, although that world already possesses its own peculiar expression of Infinitude in the infinite divisibility of SPACE and of all its parts.
+
+It is obvious that the position in which the Power gives itself up wholly to the contemplation of the Material World and is exhausted therein, is distinct from that in which it becomes cognisant of its Instinct towards activity in this previously recognised World, - that nevertheless there remains, even in the latter position, a Schema of present and necessary Existence, in order that it may be possible for the Instinct to enter into relations with such Existence: - and this forms the connection between these two separate and distinct positions of Intuition.
+
+This whole domain of Intuition is, as we said, the expression and Schema of mere Power. Since Power, without the Schema of the Divine Life, is nothing, while here it is nevertheless schematised in this its nothingness, - this whole domain is consequently nothing in itself, and only in its relation to Actual Being does it acquire significance, the practical possibility of the latter being dependent upon it.

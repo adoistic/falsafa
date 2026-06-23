@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-development-of-capitalism-in-4f48ed",
+  "work_title": "The Development of Capitalism in Russia",
+  "chapter_number": 42,
+  "chapter_title": "Chapter IV. The Growth of Commercial Agriculture (8)",
+  "chapter_slug": "42",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "231f6400-4c42-5e0f-a1f8-5d8dd9b22f81",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1821,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1899/dcr8iv/iv8viii.htm"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
   "work_title": "The Social Contract and Discourses",
   "chapter_number": 27,
-  "chapter_title": "CHAPTER I: government in general",
+  "chapter_title": "Chapter III: the division of governments",
   "chapter_slug": "27",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1910,
-      "paragraph_count": 22,
+      "word_count": 419,
+      "paragraph_count": 8,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
     }

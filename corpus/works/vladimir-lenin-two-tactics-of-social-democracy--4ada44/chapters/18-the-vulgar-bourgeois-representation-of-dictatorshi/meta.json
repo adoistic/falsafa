@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+  "work_title": "Two Tactics of Social-Democracy in the Democratic Revolution",
+  "chapter_number": 18,
+  "chapter_title": "The Vulgar Bourgeois Representation of Dictatorship and Marx’s View of It",
+  "chapter_slug": "18-the-vulgar-bourgeois-representation-of-dictatorshi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "02f7c265-e15e-579d-a5d4-27048e06014b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3305,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ep-s3.htm"
+    }
+  ]
+}

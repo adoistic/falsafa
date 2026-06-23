@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-santayana-some-turns-of-thought-in-modern--aa7ad8",
+  "work_title": "Some Turns of Thought in Modern Philosophy: Five Essays",
+  "chapter_number": 2,
+  "chapter_title": "Fifty Years of British Idealism",
+  "chapter_slug": "02-fifty-years-of-british-idealism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2562bab2-e9b0-58b4-9139-097699bdd801",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4305,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/16712"
+    }
+  ]
+}

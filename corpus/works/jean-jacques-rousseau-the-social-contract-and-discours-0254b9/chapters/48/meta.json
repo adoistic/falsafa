@@ -2,7 +2,7 @@
   "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
   "work_title": "The Social Contract and Discourses",
   "chapter_number": 48,
-  "chapter_title": "CHAPTER IV: the roman comitia",
+  "chapter_title": "Chapter VI: the dictatorship",
   "chapter_slug": "48",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3556,
-      "paragraph_count": 38,
+      "word_count": 1059,
+      "paragraph_count": 11,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
     }

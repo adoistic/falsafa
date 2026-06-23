@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+  "work_title": "Two Tactics of Social-Democracy in the Democratic Revolution",
+  "chapter_number": 4,
+  "chapter_title": "What Is A “Decisive Victory of the Revolution Over Tsarism”?",
+  "chapter_slug": "04-what-is-a-decisive-victory-of-the-revolution-over-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1eda79b1-501b-5702-8c69-7f5249c4b452",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1945,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ch03.htm"
+    }
+  ]
+}

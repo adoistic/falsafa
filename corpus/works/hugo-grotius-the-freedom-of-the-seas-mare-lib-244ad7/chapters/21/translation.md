@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-freedom-of-the-seas-mare-lib-244ad7"
 work_title: The Freedom of the Seas (Mare Liberum)
 author_name: Hugo Grotius
 chapter_number: 21
-chapter_title: "CHAPTER I: By the Law of Nations navigation is free to all persons whatsoever"
+chapter_title: "Chapter III: The Portuguese have no right of sovereignty over the East Indies by virtue of title based on the Papal Dona"
 chapter_slug: 21
 variant_id: "5a42ebce-c9af-5d5f-bce1-dd300373584c"
 content_type: translation
@@ -13,27 +13,21 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 811
+word_count: 574
 source_url: "https://oll.libertyfund.org/titles/scott-the-freedom-of-the-seas-latin-and-english-version-magoffin-trans"
 translator: Online Library of Liberty edition
 ---
 
-My intention is to demonstrate briefly and clearly that the Dutch—that is to say, the subjects of the United Netherlands—have the right to sail to the East Indies, as they are now doing, and to engage in trade with the people there. I shall base my argument on the following most specific and unimpeachable axiom of the Law of Nations, called a primary rule or first principle, the spirit of which is self-evident and immutable, to wit: Every nation is free to travel to every other nation, and to trade with it.
+Next, if the partition made by the Pope Alexander VI is to be used by the Portuguese as authority for jurisdiction in the East Indies, then before all things else two points must be taken into consideration.
 
-God Himself says this speaking through the voice of nature; and inasmuch as it is not His will to have Nature supply every place with all the necessaries of life, He ordains that some nations excel in one art and others in another. Why is this His will, except it be that He wished human friendships to be engendered by mutual needs and resources, lest individuals deeming themselves entirely sufficient unto themselves should for that very reason be rendered unsociable? So by the decree of divine justice it was brought about that one people should supply the needs of another, in order, as Pliny the Roman writer says, that in this way, whatever has been produced anywhere should seem to have been destined for all. Vergil also sings in this wise:
+First, did the Pope merely desire to settle the disputes between the Portuguese and the Spaniards?
 
-and in another place:
+This was clearly within his power, inasmuch as he had been chosen to arbitrate between them, and in fact the kings of both countries had previously concluded certain treaties with each other on this very matter. Now if this be the case, seeing that the question concerns only the Portuguese and Spaniards, the decision of the Pope will of course not affect the other peoples of the world.
 
-“Let others better mould the running mass Of metals,” etc.
+Second, did the Pope intend to give to two nations, each one third of the whole world?
 
-Those therefore who deny this law, destroy this most praiseworthy bond of human fellowship, remove the opportunities for doing mutual service, in a word do violence to Nature herself. For do not the ocean, navigable in every direction with which God has encompassed all the earth, and the regular and the occasional winds which blow now from one quarter and now from another, offer sufficient proof that Nature has given to all peoples a right of access to all other peoples? Seneca thinks this is Nature’s greatest service, that by the wind she united the widely scattered peoples, and yet did so distribute all her products over the earth that commercial intercourse was a necessity to mankind. Therefore this right belongs equally to all nations. Indeed the most famous jurists extend its application so far as to deny that any state or any ruler can debar foreigners from having access to their subjects and trading with them. Hence is derived that law of hospitality which is of the highest sanctity; hence the complaint of the poet Vergil:
+But even if the Pope had intended and had had the power to make such a gift, still it would not have made the Portuguese sovereigns of those places. For it is not a donation that makes a sovereign, it is the consequent delivery of a thing and the subsequent possession thereof.
 
-And:
+Now, if any one will scrutinize either divine or human law, not merely with a view to his own interests, he will easily apprehend that a donation of this kind, dealing with the property of others, is of no effect. I shall not enter here upon any discussion as to the power of the Pope, that is the Bishop of the Roman Church, nor shall I advance anything but a hypothesis which is accepted by men of the greatest erudition, who lay the greatest stress on the power of the Pope, especially the Spaniards, who with their perspicacity easily see that our Lord Jesus Christ when he said “My kingdom is not of this world” thereby renounced all earthly power, and that while He was on earth as a man, He certainly did not have dominion over the whole world, and if He had had such dominion, still by no arguments could such a right be transferred to Peter, or be transmitted to the Roman Church by authority of the ‘Vicar of Christ’; indeed, inasmuch as Christ had many things to which the Pope did not succeed, it has been boldly affirmed—and I shall use the very words of the writers—that the Pope is neither civil nor temporal Lord of the whole world. On the contrary, even if the Pope did have any such power on earth, still he would not be right in using it, because he ought to be satisfied with his own spiritual jurisdiction, and be utterly unable to grant that power to temporal princes. So then, if the Pope has any power at all, he has it, as they say, in the spiritual realm only. Therefore he has no authority over infidel nations, for they do not belong to the Church.
 
-We know that certain wars have arisen over this very matter; such for example as the war of the Megarians against the Edition: current; Page: [9] Athenians, and that of the Bolognese against the Venetians. Again, Victoria holds that the Spaniards could have shown just reasons for making war upon the Aztecs and the Indians in America, more plausible reasons certainly than were alleged, if they really were prevented from traveling or sojourning among those peoples, and were denied the right to share in those things which by the Law of Nations or by Custom are common to all, and finally if they were debarred from trade.
-
-We read of a similar case in the history of Moses, which we find mentioned also in the writings of Augustine, where the Israelites justly smote with the edge of the sword the Amorites because they had denied the Israelites an innocent passage through their territory, a right which according to the Law of Human Society ought in all justice to have been allowed. In defense of this principle Hercules attacked the king of Orchomenus in Boeotia; and the Greeks under their leader Agamemnon waged war against the king of Mysia on the ground that, as Baldus has said, high roads were free Edition: current; Page: [10] by nature. Again, as we read in Tacitus, the Germans accused the Romans of ‘preventing all intercourse between them and of closing up to them the rivers and roads, and almost the very air of heaven’. When in days gone by the Christians made crusades against the Saracens, no other pretext was so welcome or so plausible as that they were denied by the infidels free access to the Holy Land.
-
-It follows therefore that the Portuguese, even if they had been sovereigns in those parts to which the Dutch make voyages, would nevertheless be doing them an injury if they should forbid them access to those places and from trading there.
-
-Is it not then an incalculably greater injury for nations which desire reciprocal commercial relations to be debarred therefrom by the acts of those who are sovereigns neither of the nations interested, nor of the element over which their connecting high road runs? Is not that the very cause which for the most part prompts us to execrate robbers and pirates, namely, that they beset and infest our trade routes?
+It follows therefore according to the opinions of Cajetan and Victoria and the more authoritative of the Theologians and writers on Canon Law, that there is no clear title against the East Indians, based either on the ground that the Pope made an absolute grant of those provinces as if he were their sovereign, or on the pretext that the East Indians do not recognize his sovereignty. Indeed, and in truth, it may be affirmed that no such pretext as that was ever invoked to despoil even the Saracens.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-economic-problems-of-socialism-i-29ee3b",
+  "work_title": "Economic Problems of Socialism in the USSR",
+  "chapter_number": 9,
+  "chapter_title": "Joseph Stalin (8)",
+  "chapter_slug": "09-joseph-stalin-8",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "910464ed-785f-5276-9464-4acb164d9106",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 956,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch09.htm"
+    }
+  ]
+}

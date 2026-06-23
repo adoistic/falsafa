@@ -4,13 +4,17 @@ slug: "john-alexander-gunn-modern-french-philosophy-a-study-6b06ab"
 title: "Modern French Philosophy: A Study of the Development Since Comte"
 author:
   name: John Alexander Gunn
-  biography: "John Alexander Gunn (1896-1975)."
+  biography: "Scottish-born philosopher trained at Liverpool who held the chair of philosophy at the University of Melbourne. His studies of Bergson and of post-Comtean French thought served English readers as introductions to contemporary continental philosophy."
+  birth_year: 1896
+  death_year: 1975
+  nationality: Scottish
 era: 20th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "Modern French Philosophy: A Study of the Development Since Comte, by John Alexander Gunn (1896-1975), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1922
 total_logical_chapters: 7
 total_variant_entries: 7
 thothica_role: catalog

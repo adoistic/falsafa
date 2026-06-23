@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-labour-in-irish-history-dad525",
+  "work_title": "Labour in Irish History",
+  "chapter_number": 12,
+  "chapter_title": "Chapter IX The Emmet Conspiracy",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dac17c25-7044-55b1-834f-eb9a6dfb78a5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1653,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1910/lih/chap09.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-gramsci-the-agrarian-struggle-in-italy-4b1091",
+  "work_title": "The Agrarian Struggle in Italy",
+  "chapter_number": 1,
+  "chapter_title": "The Agrarian Struggle in Italy",
+  "chapter_slug": "01-the-agrarian-struggle-in-italy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "33ba94cb-3d9a-53ac-b257-a808df0fb788",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 847,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gramsci/1921/08/agrarian_struggle.htm"
+    }
+  ]
+}

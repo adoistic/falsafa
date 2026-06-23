@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 90,
+  "chapter_title": "Chapter XIII: That The Principle Of Equality Naturally Divides The Americans Into A Number Of Small Private Circles",
+  "chapter_slug": "90",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d2b162fe-c2ce-5b4f-9c7a-a032de3af9b7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 663,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch35.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-religion-of-socialism-b65d8b",
+  "work_title": "The Religion of Socialism",
+  "chapter_number": 10,
+  "chapter_title": "Some Bourgeois Idols; or Ideals, Reals and Shams",
+  "chapter_slug": "10-some-bourgeois-idols-or-ideals-reals-and-shams",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "afa869a4-bc01-5172-86b0-8f262cbac33c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3846,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1886/04/idols.htm"
+    }
+  ]
+}

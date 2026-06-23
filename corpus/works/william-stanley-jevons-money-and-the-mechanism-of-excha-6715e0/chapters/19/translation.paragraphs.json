@@ -1,12 +1,232 @@
 [
   {
-    "id": "p-618552",
+    "id": "p-6b4aee",
     "offset": 0,
-    "text": "Many recent writers, such as Huskisson, MacCulloch, James Mill, Garnier, Chevalier, and Walras, have satisfactorily described the qualities which should be possessed by the material of money. Earlier writers seem, however, to have understood the subject almost as well. Harris explained these qualities with remarkable clearness in his \"Essay upon Money and Coins,\" published in 1757, a work which appeared before the \"Wealth of Nations,\" yet gave an exposition of the principles of money which can hardly be improved at the present day. Eighty years before, however, Rice Vaughan, in his excellent little \"Treatise of Money,\" had written a brief but satisfactory statement of the qualities requisite in money. We even find that William Stafford, the author of that remarkable dialogue of the Elizabethan age (1581), called \"A Brief Conceipte of English Policy,\" showed perfect insight into the subject. Of all writers, M. Chevalier, however, probably gives the most accurate and full account of the properties which money should possess, and I shall in many points follow his views."
+    "text": "We may now proceed with advantage to consider the various methods on which the issue of paper money may be conducted. This question is perhaps the most vexed and debatable one in the whole sphere of political economy; but, by carefully adhering to the analysis of facts, we may perhaps get a view of the subject free from the great perplexities in which it is commonly involved. The elementary principles of the subject are not of a complex character; and if we hold tenaciously to those principles, we may perhaps be saved from that dangerous kind of intellectual vertigo which often attacks writers on the currency."
   },
   {
-    "id": "p-962236",
-    "offset": 1085,
-    "text": "The prevailing defect in the treatment of the subject is the failure to observe that money requires different properties as regards different functions. To decide upon the best material for money is thus a problem of great complexity, because we must take into account at once the relative importance of the several functions of money, the degree in which money is employed for each function, and the importance of each of the physical qualities of the substance with respect to each function. In a simple state of industry money is chiefly required to pass about between buyers and sellers. It should, then, be conveniently portable, divisible into pieces of various size, so that any sum may readily be made up, and easily distinguishable by its appearance, or by the design impressed upon it. When money, however, comes to serve, as it will at some future time, almost exclusively as a measure and standard of value, the system of exchange, being one of perfected barter, such properties become a matter of comparative indifference, and stability of value, joined perhaps to portability, is the most important quality. Before venturing, however, to discuss such complex questions, we must proceed to a preliminary discussion of the properties in question, which may thus perhaps be enumerated in the order of their importance:—"
+    "id": "p-b212de",
+    "offset": 619,
+    "text": "The state may either take the issue of representative money into its own hands, as it takes the coining of money, or it may allow private individuals, or semi-public companies and corporations, to undertake the work under more or less strict legislative control. We will afterwards briefly consider the relative advantages of government and private issues, but in either case we may lay down the following series of methods according to which the amount of issue may be regulated, and the performance of the promises guaranteed."
+  },
+  {
+    "id": "p-6d1d7b",
+    "offset": 1149,
+    "text": "1. The Simple Deposit Method. The issuer of promissory notes may be obliged to keep a stock of coin and bullion constantly on hand, equal in amount to the aggregate of the uncancelled notes, each of which, being instantly paid on presentation, will induce a corresponding decrease of the reserve."
+  },
+  {
+    "id": "p-67fb63",
+    "offset": 1447,
+    "text": "2. The Partial Deposit Method. Instead of being obliged to keep the whole of the precious metals deposited in his vaults, the issuer may be able to invest a fixed amount in government funds, or other safe profitable securities."
+  },
+  {
+    "id": "p-4ad5a7",
+    "offset": 1676,
+    "text": "3. The Minimum Reserve Method. The issuer may be bound to have on hand under all circumstances a fixed minimum amount of coin and bullion."
+  },
+  {
+    "id": "p-25e4c3",
+    "offset": 1816,
+    "text": "4. The Proportional Reserve Method. 2 The reserve may be made to vary with the amount of standing notes, being, say, at least one-third or one-fourth of the total."
+  },
+  {
+    "id": "p-1efc24",
+    "offset": 1981,
+    "text": "5. The Maximum Issue Method. Permission may be given to issue notes not exceeding in the aggregate a fixed amount, prohibitory penalties imposed upon any breach of this restriction."
+  },
+  {
+    "id": "p-7dfd73",
+    "offset": 2164,
+    "text": "6. The Elastic Limit Method. A limit may be assigned to the aggregate amount of notes, as in the last method, but the penalties on the excessive issue may be intentionally made so light, that the issuer will under some circumstances prefer to pay the penalty rather than restrict his issues."
+  },
+  {
+    "id": "p-a50bb1",
+    "offset": 2457,
+    "text": "7. The Documentary Reserve Method. The reserve of property which the issuer is required to keep may consist not of gold or silver coin or bullion, but of government funds, bonds, shares, or other documentary securities."
+  },
+  {
+    "id": "p-7b970c",
+    "offset": 2678,
+    "text": "8. The Real Property Reserve Method. Instead of merely documentary property, the issuer may be allowed to treat various property, such as land, houses, ships, railway shares, etc., as his reserve of wealth to meet engagements."
+  },
+  {
+    "id": "p-72b34b",
+    "offset": 2906,
+    "text": "9. The Foreign Exchanges Method. Some important bank may be allowed to issue convertible notes on the understanding that it will not increase the amount in circulation so long as the foreign exchanges are against the country, and render the export of specie profitable."
+  },
+  {
+    "id": "p-d7256f",
+    "offset": 3177,
+    "text": "10. The Free Issue Method. The business of issuing promissory notes may be left open to the free competition of all individuals, free from any restrictions or conditions, except such laws as apply to all commercial contracts and promises."
+  },
+  {
+    "id": "p-b6ba10",
+    "offset": 3417,
+    "text": "11. The Gold Par Method. Paper money may be issued, bearing the appearance of promissory notes, but inconvertible into coin. The issue being restricted as long as any premium on gold is apparent, the paper money may be thus maintained equal in value to the coin which it nominally represents."
+  },
+  {
+    "id": "p-2d47bd",
+    "offset": 3711,
+    "text": "12. The Revenue Payments Method. Inconvertible paper money may be freely issued, but an attempt may be made to keep up its value by receiving it in place of coin in the payment of taxes."
+  },
+  {
+    "id": "p-955580",
+    "offset": 3899,
+    "text": "13. The Deferred Convertibility Method. Notes may be issued promising to pay metallic money at some future day, either definitely fixed or dependent upon political or other contingent events."
+  },
+  {
+    "id": "p-5d47cc",
+    "offset": 4092,
+    "text": "14. The Paper Money Method. Lastly, those who coin apparent promissory notes may be entirely absolved from the performance of their promises, so that the notes circulate by force of habit, by the command of the sovereign, or in consequence of the absence of any other medium of exchange."
+  },
+  {
+    "id": "p-53431d",
+    "offset": 4381,
+    "text": "Although I have, in the above statement, enumerated no less than fourteen distinct methods of managing the issue of paper currency, it is by no means certain that other methods have not been employed from time to time. There may be, in fact, an almost unlimited number of devices for securing the performance of promises, or for rendering the performance unnecessary. Moreover, these methods may be combined together in almost unlimited variety. The reserve may be required to be partially in the form of specie, and partially in documentary securities, or real property. A banker may be allowed to issue a certain fixed amount of notes without any condition as to reserves, and to issue further notes on the Deposit Method."
+  },
+  {
+    "id": "p-7707db",
+    "offset": 5107,
+    "text": "It would obviously require a very large volume to enter at all in an adequate manner upon a description of these methods, their relative advantages or defects, and the ways in which they have been combined and carried into effect at different times and places. I must therefore confine myself in this small book to a very concise discussion of this most extensive subject."
+  },
+  {
+    "id": "p-c504ff",
+    "offset": 5481,
+    "text": "This method is perfectly represented by the ancient deposit banks in the Italian commercial republics, by the banks of Amsterdam and Hamburg, or by the London goldsmiths, so long as they only acted as safe keepers of the specie committed to their care. Notes issued on this system have a purely representative character, like dock warrants or pawn tickets, as I have already fully explained. The performance of promises is rendered certain so far as legislation can provide for it. The amount of such a currency will vary exactly like that of a metallic currency, and there can be no fear of paper replacing specie, and driving it out of the country, because the specie must be in the vaults of the issuing bank before the notes are issued."
+  },
+  {
+    "id": "p-e80963",
+    "offset": 6223,
+    "text": "At the same time the advantages of the method are comparatively slight, because the use of paper representatives merely saves the abrasion of coin, and the trouble and risk of carrying it about and counting it. The community loses the interest of the whole sum held in pledge, and this forms by far the largest part of the cost of the currency, as we have seen (p. 164). The coin, too, may be safer in the hands of the people. When lying apparently useless within the reach of an arbitrary government, it often proves an irresistible temptation. Charles I. seized the money in the Tower. When the French invaded Holland in 1795, a large part of the specie supposed to be deposited in the vaults of the bank of Amsterdam was not forthcoming, having been secretly lent to the Dutch East India Company, and the city authorities. The Russian government diligently collected a bank reserve in the citadel of St. Petersburg, which was under the cognizance of members of the Exchange, until the troubles of 1848 forced the emperor to assume the control himself. In innumerable instances governments, including the English government in 1797, have made use of bank deposits, under the form of suspending specie payments."
+  },
+  {
+    "id": "p-f050cc",
+    "offset": 7437,
+    "text": "The Bank of England, under the Bank Charter Act of 1844, perfectly represents this method. For each additional five-pound note which is put forth out of the issue department, gold to the weight of 616.37 grains must be deposited in that department. The whole amount of gold, however, retained in the vaults is less by £15,000,000 than the outstanding notes, this constant difference being covered by documentary securities, and by a sum of about eleven millions which the bank lends to the government without interest. Under this arrangement we secure all the advantages of the simple deposit system, while the community gains the interest amounting to about £445,000, of which the government receives £188,000 per annum. The character of the contract between the government and the bank is of too intricate a nature to be readily fathomed or described, but it substantially amounts to the government borrowing the larger part of the fifteen millions of deposits, and allowing the bank to use the rest to cover the cost of printing and managing the note circulation. I shall treat of this system again in Chapter XXIV. The Partial Deposit Method is the basis of the new law concerning the issue of notes in the German empire, in combination with the Elastic Limit method, which possibly constitutes an improvement."
+  },
+  {
+    "id": "p-fc00f3",
+    "offset": 8753,
+    "text": "One mode of guaranteeing the payment of notes, which might be suggested, would consist in obliging the issuers to keep on hand a stock of specie, which is never to be allowed to fall below a certain fixed amount. This would be like recommending a man to avoid impecuniosity by always keeping a shilling in his pocket. The fact that the minimum amount must be kept in the vaults renders it unavailable for meeting demands when they come. There can be no use in such a reserve unless there be a power exercised by the legislature or executive government, of arbitrarily suspending the operation of the law when there is a run upon the banks."
+  },
+  {
+    "id": "p-c53a1d",
+    "offset": 9394,
+    "text": "The issuer of promises to pay money on demand may be required to keep a reserve of coin never less than, say, one-fourth of the whole outstanding notes. This is analogous to the method on which the National Bank currency of the United States was lately regulated, and it is, perhaps, better to enforce the keeping of a certain amount of reserve than to leave the matter entirely to the discretion and good faith of the individual issuers. As the banker sees his reserve running down nearly to the legal limit, he will be compelled to use additional caution, in order to avoid a breach of the law. But if the untoward state of trade and credit causes any large portion of the outstanding notes to be presented, the legal tender reserve will be diminished in a greater proportion than the amount of notes, which is larger in absolute quantity. If there be 100,000 dollars of outstanding notes, and 40,000 dollars reserve, then it is obvious that the presentation of 20,000 dollars of notes will reduce these numbers respectively to 80,000 dollars of outstanding notes, and 20,000 dollars of reserve; and if the law required the reserve to be one-fourth part of the liabilities, no more notes could be paid. Thus, from the moment that the banker allow his reserve to touch the legal minimum, it become unavailable to him, except by a breach of law, and it may be said that the law is of little use except when broken. This system, in fact, reduces itself, when it comes into operation at all, to the Minimum Reserve method last described. The banker cannot touch his reserve just when he most wants it, and the deadlock thus occasioned was acutely felt in the United States during the panic of 1873."
+  },
+  {
+    "id": "p-dd906a",
+    "offset": 11092,
+    "text": "This method of regulation has, moreover, little or no effect in removing the motives for an extension of the circulation. The greater part of the value of every additional note kept in circulation is a gratuitous addition to the loanable capital of the bank, and bears interest as long as it can be kept afloat."
+  },
+  {
+    "id": "p-640425",
+    "offset": 11405,
+    "text": "To allow a bank or banks to issue in the aggregate a certain fixed amount of promissory notes, and no more, appears to me quite consistent with the principles of political economy. It saves interest upon a certain portion of the circulating medium, and supplies a convenient and economical currency. At the same time, the notes issued cannot drive gold out of the country beyond a fixed amount. It is strongly urged by Mr. R. Inglis Palgrave and others, that the limitation is arbitrary, and that the people want more money; but it is always open to them to use metallic money instead. The limitation imposed is not upon money itself, but upon the representative part, and though we thereby forego the increased saving of interest upon enlarged issues, this loss may be balanced by the freedom from any risk of producing a fictitious abundance of gold. This system is sufficiently illustrated in the 170 banks of England which are still allowed to issue notes. Sir Robert Peel provided, in the Act of 1844, that they might continue to issue, without any condition as to reserve, the same quantity of notes as they had issued on the average of twelve weeks preceding a day named. If any bank exceeded the amount thus determined it was to be fined a sum of money equal to the average excess of the month; and sworn returns of their circulations were required from all issuing banks."
+  },
+  {
+    "id": "p-1e9e2b",
+    "offset": 12787,
+    "text": "The above is the best name which I can find for a new method of regulation which has just been adopted in the Bank Act of the German empire. So far as regards the issue of bank-notes the banking organization of Germany will substantially resemble that of England. The new Imperial Bank, and such of the state or other banks which conform to the requirements of the law, will have the right of issuing notes not backed by gold to the aggregate sum of 385 millions of marks. They may apparently issue any further quantity of notes in exchange for a deposit of gold to an equal value. So far the method is precisely that of the partial deposit already described (p. 222). Observing, however, that the English Bank Charter Act has on several occasions been violated to prevent a panic, the German legislature has provided that more bank-notes may be issued, provided that a tax of 5 per cent. be paid thereon. It is intended in this way to make it unprofitable for any bank to exceed the normal limits. It seems likely that this provision will work well, and form an improvement on our method. The English government, indeed, has always deprived the Bank of England of the interest on any excess of notes which it issued during a suspension of the Bank Act, but the German law makes the limit of issue elastic in all cases, so as to avoid the danger of panic."
+  },
+  {
+    "id": "p-2d3122",
+    "offset": 14144,
+    "text": "It might seem enough in order to ensure the convertibility of notes, that the bankers issuing them should prove their possession of abundant funds, in the form of government stocks, bonds, exchequer bills, rentes, or even good mercantile bills, sufficient to establish the perfect solvency of the firm. If a considerable margin be left, it may seem impossible that the notes should not ultimately be paid. To argue in this way, however, is to forget that banknotes are promises to pay gold or legal tender metallic money on demand, and that to pay the notes ultimately is not to pay them on demand. With such a reserve, payment can only be made in any large quantity by selling the stocks and bonds for metallic money; but it is just when there is a scarcity of gold and silver, that notes are presented for payment. No doubt good government funds and good bills can always be sold at some price, so that a banking firm with a strong reserve of this kind might always maintain their solvency. But the remedy might be worse for the community than the disease, and the forced sale of the reserve might create such a disturbance in the money market as would do more harm than the suspension of payment of the notes. Payment of notes on demand implies the possession of adequate gold and silver, and if there be not sufficient bullion and coin in the country, no paper documents, or promises to pay at a future day, can take their place."
+  },
+  {
+    "id": "p-851801",
+    "offset": 15579,
+    "text": "Many currency theorists have held, that in securing the repayment of notes we need not restrict ourselves to a single commodity gold, but may mortgage for the purpose, land, houses, or any kind of fixed real property. The celebrated scheme of John Law was of this nature. In his remarkable tract on \"Money and Trade Considered, with a Proposal for Supplying the Nation with Money,\" published in 1705, he suggests that commissioners should be appointed to \"coin\" notes \"to be received in payment where offered,\" that is, I presume, as legal tender. He sets forth three alternative modes of issuing these notes on land security, the first and simplest being to lend them to landowners at the ordinary interest, to the extent of one-half or two-thirds of the value. He endeavours to provide against depreciation of the notes by taking care that the prices are always estimated in silver money."
+  },
+  {
+    "id": "p-57804f",
+    "offset": 16471,
+    "text": "The assignats of the French Revolutionary Government represented land assigned, namely, portions of the confiscated estates of the Church. They were to be received back and cancelled as the lands were bought by the public; but, as the price of the land was not fixed, no proportion was established between land and paper, and no amount of land could prevent the assignats from falling as they did to one two-hundredth part of their original value. In the subsequent issue of Mandats, an attempt was made to fix the price of land in mandats, but this scheme also failed. The inconvertible land mortgage notes, issued by Frederick the Great to recruit his treasury exhausted by wars, were of somewhat the same nature, but bore interest."
+  },
+  {
+    "id": "p-76d045",
+    "offset": 17207,
+    "text": "Land is doubtless one of the best kinds of security for the ultimate repayment of a debt, and is therefore very suitable when money is lent for a long time. But representative bank-notes purport to be equivalent to gold payable on demand, and nothing is less readily convertible into gold on an emergency than land. In this respect a reserve of real property is worse than a reserve of exchequer bills or consols."
+  },
+  {
+    "id": "p-9c363c",
+    "offset": 17622,
+    "text": "This method of providing paper money has generally been advocated on the ground that the quantity of money in circulation might thus be greatly increased, and the wealth of the nation augmented. It could readily be shown, however, that an increase of the money in circulation will lead to a reduction in its value. In any given state of industry only a certain quantity of circulating medium is needed, and were the notes really convertible into definite quantities of land or any other substantial commodity, the excess of notes would ultimately be presented for payment. To suppose that the currency could be made equal in aggregate value to any large part of the lands of the country is evidently absurd."
+  },
+  {
+    "id": "p-598285",
+    "offset": 18331,
+    "text": "A theory was very much in favour among bank directors at the beginning of this century that a paper currency could be regulated merely by watching the rates of the foreign exchanges, and restricting the issue when the lowness of the rates and the export of specie showed a depreciation of the paper. This was one of the methods proposed in opposition to the celebrated Bullion Report, and a summary of the interminable discussions on the subject will be found in Mr. Macleod's Treatise on Banking, Vol. II. Chapter IX."
+  },
+  {
+    "id": "p-c1c4cb",
+    "offset": 18851,
+    "text": "Regulation by the foreign exchanges is much better than no regulation at all, but if perfectly carried out it would give exactly the same results as the deposit method, and is only a loose and indirect way of reaching the same end."
+  },
+  {
+    "id": "p-2f70cb",
+    "offset": 19084,
+    "text": "There is a school of economists, both in this country and America, who uphold the expediency of allowing all persons to issue as many promissory notes payable on demand as they can get other persons to accept. They call this system the Free Banking system, but incorrectly, because it is no necessary function of a banker to issue promissory notes, and a great many banks exist in England without any power of issue. This subject will be further discussed in a subsequent chapter, and I will only add here that under the system of unrestricted issue, a banker is bound by law to pay a note issued by him, but is left entirely at his own discretion to keep such balance of specie for the purpose as he may think proper. As a general rule, no doubt, notes thus issued will be paid; but, having regard to the great fluctuations of commerce, which are becoming more, rather than less marked, there will occur periods when a pressure for payment of notes will be made. Experience abundantly shows that a certain number of individuals will calculate too confidently on their good fortune, and fail to carry out their promises and intention when the critical time arrives."
+  },
+  {
+    "id": "p-c5c3ce",
+    "offset": 20251,
+    "text": "Assuming an inconvertible paper currency to be issued, and to be entirely in the hands of government, many of the evils of such a system might be avoided if the issue were limited or reduced the moment that the price of gold in paper rose above par. As long as the notes and the gold coins which they pretend to represent circulate on a footing of equality, they are as good as if convertible. Since the beginning of the Franco-Prussian war, the Bank of France appears to have acted successfully on this principle, and the inconvertible notes were never depreciated more than about ½ or 1 per cent. in spite of the vast political and financial troubles of France. But this is one of the very few cases in which inconvertible paper currency has not been seriously depreciated. During the restriction of specie payments in England, gold was bought and sold at a premium varying up to 25 per cent., yet Fox, Vansittart, and other leading men of the time, declared it to be absurd to suppose that paper was depreciated. So unaccountable are the prejudices of men on the subject of currency that it is not well to leave anything to discretionary management."
+  },
+  {
+    "id": "p-504b74",
+    "offset": 21405,
+    "text": "In many instances governments have tried to maintain the value of a paper circulation by engaging to receive it as taxes, or even rendering its use for this purpose obligatory. The Russian government when issuing assignats received them at a fixed rate in place of copper coin, and required that at least one-twentieth part of every payment was to be thus paid. The French assignats of the Revolution were also received at the public treasuries. This would be a fair method of securing stability of value on two conditions:—(1) that the taxes or charges were themselves levied according to a fixed tariff; and (2) that the quantity of notes issued was kept within such moderate limits that any one wishing to realize the metallic value of the notes could find some one wanting to pay taxes, and therefore willing to give coin for notes. It is very unlikely, however, that these conditions could ever be fully and conveniently realized in practice."
+  },
+  {
+    "id": "p-c42167",
+    "offset": 22354,
+    "text": "The United States greenback currency was made receivable for all United States stamps, and was also to be received in payment of all taxes and dues in sums of certain assigned amounts, excepting Customs dues. But the fact that some notes are thus withdrawn will not prevent depreciation, if they be soon paid out again with additions required to meet the pressing expenditure of a government."
+  },
+  {
+    "id": "p-17d70d",
+    "offset": 22748,
+    "text": "In a small way postage stamps are becoming used as currency in several countries. They were extensively used in the earlier years of the American war as the well-known fractional currency. They are now a recognized medium of payment in England, being repurchased by most postmasters at a discount of 2½ per cent. if presented in a piece of two or more undivided stamps. Independently, however, of repurchase, stamps are so continually being cancelled by use in postage, that their value can hardly be lowered by excess of quantity. They form a convenient and costless form of remittance for very small sums, say from a halfpenny to five shillings, and little or no objection can be made to their occasional use as change, in place of pence. They would, however, form a very bad currency if circulated to any great extent."
+  },
+  {
+    "id": "p-53d443",
+    "offset": 23571,
+    "text": "It is a common resource for insurrectionary or belligerent governments in want of funds to issue documents promising to pay cash after their successful establishment. When interest proportional to the time is also promised, these notes must be regarded rather as bonds. Of such nature were those issued by Kossuth in New York to form a Hungarian fund, to be paid after the erection of an independent Hungarian government. Similar bonds were signed by the notorious Walker, as President of the provisional government of the republic of Nicaragua. By far the best instance of this kind of currency is furnished by the Confederate States treasury notes, the early issues of which were made payable six months after the ratification of a treaty of peace with the United States, and further issues were to be payable two years after such treaty."
+  },
+  {
+    "id": "p-038ada",
+    "offset": 24413,
+    "text": "All such documents may be considered as bills of very long date and of very uncertain value. The public spirit of a people in time of war often enables them to be put afloat, and the need of currency keeps them in circulation for a time, but their value undergoes violent variations, and there are few instances in which such bills have been eventually paid."
+  },
+  {
+    "id": "p-1d810c",
+    "offset": 24773,
+    "text": "Finally we come to the undisguised paper money issued by government and ordered to be received as legal tender. Such inconvertible paper notes have in all instances been put in circulation as convertible ones, or in the place of such, and they are always expressed in terms of money. The French mandats of 100 francs, for instance, bear the ambiguous phrase \"Bon pour cent francs.\" The wretched scraps of paper which circulate in Buenos Ayres, are marked \"Un Peso, Moneda Corriente,\" reminding one of the time when the peso was a heavy standard coin. After the promise of payment in coin is found to be illusory the notes still circulate, partly from habit, partly because the people must have some currency, and have no coin to use for the purpose, or if they have, carefully hoard it for profit or future use. There is plenty of evidence to prove that an inconvertible paper money, if carefully limited in quantity, can retain its full value. Such was the case with the Bank of England notes for several years after the suspension of specie payments in 1797, and such is the case with the present notes of the Bank of France."
+  },
+  {
+    "id": "p-b20c1a",
+    "offset": 25902,
+    "text": "The principal objections to an inconvertible paper currency are two in number."
+  },
+  {
+    "id": "p-1e4f19",
+    "offset": 25982,
+    "text": "It is hardly requisite to tell again the well-worn tale of the over issue of paper money which has almost always followed the removal of the legal necessity of convertibility. Hardly any civilized nation exists, excepting some of the newer British colonies, which has not suffered from the scourge of paper money at one time or other. Russia has had a depreciated paper currency for more than a hundred years, and the history of it may be read in M. Wolowski's work on the finances of Russia. Repeated limits were placed to its issue by imperial edict, but the next war always led to further issues. Italy, Austria, and the United States, countries where the highest economical intelligence might be expected to guide the governments, endure the evils of an inconvertible paper currency. Time after time in the earlier history of New England and some of the other states now forming parts of the American Union, paper money had been issued and had wrought ruin. Full particulars will be found in Professor Sumner's new and interesting \"History of American Currency.\" Some of the greatest statesmen pointed to these results; and Webster's opinion should never be forgotten. Of paper money he says, \"We have suffered more from this cause than from every other cause or calamity. It has killed more men, pervaded and corrupted the choicest interests of our country more, and done more injustice than even the arms and artifices of our enemy.\""
+  },
+  {
+    "id": "p-d5b239",
+    "offset": 27423,
+    "text": "The issue of an inconvertible money, as Professor Sumner remarks, has often been recommended as a convenient means of making a forced loan from the people, when the finances of the government are in a desperate condition. It is true that money may be thus easily abstracted from the people, and the government debts are effectually lessened. At the same time, however, every private debtor is enabled to take a forced contribution from his creditor. A government should, indeed, be in a desperate position, which ventures thus to break all social contracts and relation which it was created to preserve."
+  },
+  {
+    "id": "p-6f7fa2",
+    "offset": 28028,
+    "text": "A further objection to a paper money inconvertible into coin, is that it cannot be varied in quantity by the natural action of trade. No one can export it or import it like coin, and no one but the government or banks authorized by government can issue or cancel it. Hence, if trade becomes brisk, nothing but a decree of the government can supply the requisite increase of circulating medium, and if this be put afloat and trade relapse into dullness, the currency becomes redundant, and falls in value. Now, even the best-informed government department cannot be trusted to judge wisely and impartially when more money is wanted. Currency must be supplied, like all other commodities, according to the free action of the laws of supply and demand."
+  },
+  {
+    "id": "p-80bac5",
+    "offset": 28779,
+    "text": "Some persons have argued that it is well to have a paper money to form a home currency, which cannot be drained away, and will be free from the disturbing influences of foreign trade. But we cannot disconnect home and foreign trade, except by doing away with the latter altogether. If two nations are to trade, the precious metals must form the international medium of exchange by which a balance of indebtedness is paid. Hence each merchant in ordering, consigning, or selling goods must pay regard not to the paper price of such goods, but to the gold or silver price with which he really pays for them. Gold and silver, in short, continue to be the real measure of value, and the variable paper currency is only an additional term of comparison which adds confusion."
   }
 ]

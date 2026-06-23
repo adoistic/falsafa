@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 55,
+  "chapter_title": "Chapter XVIII: Of The Inflated Style Of American Writers And Orators",
+  "chapter_slug": "55",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1526688d-f781-5ba2-9bb8-2d95acba5462",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 502,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch25.htm"
+    }
+  ]
+}

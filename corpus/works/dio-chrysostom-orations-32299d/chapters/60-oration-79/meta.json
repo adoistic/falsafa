@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 60,
+  "chapter_title": "Oration 79",
+  "chapter_slug": "60-oration-79",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "513b010b-6d73-526d-bd43-4b15b220fb86",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 609,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d7b38f67-2df1-5046-90e1-d12371916b3a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 816,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

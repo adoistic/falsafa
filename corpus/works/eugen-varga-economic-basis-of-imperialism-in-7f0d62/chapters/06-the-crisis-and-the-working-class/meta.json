@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-economic-basis-of-imperialism-in-7f0d62",
+  "work_title": "Economic Basis of Imperialism in the U.S. of North America",
+  "chapter_number": 6,
+  "chapter_title": "The Crisis and the Working Class",
+  "chapter_slug": "06-the-crisis-and-the-working-class",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e63694f7-ed03-5c74-8368-871af8c47b7e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1501,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1921/x01/x01.htm"
+    }
+  ]
+}

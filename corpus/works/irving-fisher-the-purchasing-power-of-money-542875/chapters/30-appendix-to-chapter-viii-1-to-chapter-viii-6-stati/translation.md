@@ -1,0 +1,31 @@
+---
+work_id: "542875eb-ff23-56e6-8c35-7901b25dd56b"
+work_slug: "irving-fisher-the-purchasing-power-of-money-542875"
+work_title: The Purchasing Power of Money
+author_name: Irving Fisher
+chapter_number: 30
+chapter_title: Appendix to Chapter VIII, § 1 (to Chapter VIII, § 6) Statistics of Turnover at Yale University
+chapter_slug: "30-appendix-to-chapter-viii-1-to-chapter-viii-6-stati"
+variant_id: "0aa811b3-a557-5263-9383-d6801ba6f056"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 983
+source_url: "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+translator: Online Library of Liberty edition
+---
+
+The rate of turnover of money varies with the amount of money expended at a given level of prices. In other words, it varies with the volume of trade of the individual. The statistics of turnover among Yale students form two series, the first or earlier showing an average velocity or rate of turnover of 34 per year, the second or later, of 66. The difference is probably due in part to the higher expenditure of the second group of students, although it is probably chiefly accounted for by the fact that the first series were not accurate. Each student in the first series was simply asked to estimate roughly his annual cash expenditure and the average cash on hand. The quotient of the first divided by the second showed his rate of turnover. Estimates were received from 128 men. The average annual expenditure in cash was $514 and the average cash on hand, $15, yielding the quotient 34 times a year as the average rate of turnover. These estimates, being usually little more than guesses, may have been wide of the mark. In order to obtain a more exact estimate the second series was undertaken. The plan was adopted of asking volunteers to keep an exact account for one month of the daily cash expenditures and balances at the beginning and end of each day. It was found from these statistics that for the 113 individuals who contributed these new data, the average annual rate of expenditure was $660 and an average cash on hand was almost exactly $10, giving the quotient 66 times a year. The rougher estimates, the average of which was 34, have so little weight compared with the accurate records, the average of which was 66, that we may place the general average at 60, the nearest round number below 66. Besides the two student series, returns were received from five other persons. One was a stenographer who, during a month, spent at the rate of $435 a year and had an average cash balance of $7.86, making her turnover rate 55 times a year. Another was a young librarian whose cash expenditures, kept carefully for six months, showed a rate of $854 a year and whose average cash balance was $10.41, making a rate of 82 times a year. A third was a lawyer who made a practice of paying all bills in cash, and as these amounted to some $4000 a year, he carried in his pocket an average cash balance estimated at $175. This figure he regarded as correct within $15. His velocity of circulation, on the basis of 4000 divided by 175, shows 23 times a year. The other two cases were of professors. The first, from careful records, found that he turned over his cash 37 times a year and turned over his bank account 52 times a year. The second roughly estimated his rate of cash turnover at 175 and of bank deposits at 25.
+
+Of the total 246 persons whose records were collected, only 116 had kept careful accounts. Of these 116, all except three were students. The reason for believing that the lower velocity of the first series is not wholly accounted for by its being erroneously estimated, but is partly due to the smaller expenditures of that group, is based on the fact that we find a distinct relation between amount of expenditure and rate of turnover within each group. Thus, if we separate the 113 students who gave careful returns into two groups, one, those who spend less than $50 a month and the other those who spend $50 and over, we find the following figures:—
+
+Here we see that the richer men averaged about three times as great an expenditure as the poorer, but carried only 50 per cent more cash on hand. In consequence, the velocity of the richer was 93 as against 43 for the poorer, or more than double. The progressive relation between expenditure and rate of turnover may be seen by arranging the 113 cases into five groups according to expenditure.
+
+The number of cases is small, but the results are uniformly consistent. They show that velocity and expenditure are directly correlated. Even the other series (of rough estimates) show the same general relation. Taking the same classifications for expenditure, we find that the velocities are 22, 30, 44, 88, 32. Here the only exception is the last figure, which, as it is the average of only five individuals, is an exception of little importance. We conclude, therefore, with at least a moderate degree of confidence, that for a given price level, the greater the expenditure the higher the rate of turnover. In other words, persons who spend money faster absolutely than others also spend it faster relatively to the amount kept on hand. The amount kept on hand by the rich, though larger absolutely than that kept on hand by the poor, is smaller relatively to the expenditure.
+
+This law of increasing velocity with increasing expenditure agrees with the general fact that the larger the scale of any business operation, the greater the economy. Small stores have to keep a larger stock relatively to their business than larger stores. Likewise, small banks have to keep a larger reserve in proportion to business transacted. Professor Edgeworth has shown a mathematical basis for the fact that the larger the bank, the smaller relatively the reserve needed. Hence, we need not be surprised to find that the small purchaser finds it well to keep on hand a relatively larger stock of money than the large purchaser.
+
+The data are too meager to state any exact quantitative relation between velocity and expenditure. They show that velocity increases as expenditure increases. But beyond this we cannot safely go. The data seem to point to the conclusion, however, that the velocity increases in a smaller ratio than expenditure.

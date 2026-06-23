@@ -4,15 +4,19 @@ slug: "theodore-dwight-woolsey-on-civil-liberty-and-self-govern-6f9899"
 title: "On Civil Liberty and Self-Government"
 author:
   name: Theodore Dwight Woolsey
-  biography: Theodore Dwight Woolsey (1801–1889).
+  biography: "American classicist and political theorist, president of Yale College and writer on international law. He edited and enlarged Francis Lieber's On Civil Liberty and Self-Government, extending its argument on institutional liberty for a postbellum readership."
+  birth_year: 1801
+  death_year: 1889
+  nationality: American
 era: 19th Century
 genre: Political Theory
 language: English
 language_direction: ltr
 description: "On Civil Liberty and Self-Government, by Theodore Dwight Woolsey (1801–1889), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
-total_logical_chapters: 134
-total_variant_entries: 134
+published_year: 1877
+total_logical_chapters: 103
+total_variant_entries: 103
 thothica_role: catalog
 ---
 
@@ -22,8 +26,8 @@ On Civil Liberty and Self-Government, by Theodore Dwight Woolsey (1801–1889), 
 
 ## Chapters
 
-01. [INTRODUCTION to THE THIRD EDITION.](./chapters/01-introduction-to-the-third-edition/) — prose, 1 variant
-02. [chapter i.: introductory.](./chapters/02/) — prose, 1 variant
+01. [Introduction to the Third Edition.](./chapters/01-introduction-to-the-third-edition/) — prose, 1 variant
+02. [on CIVIL Liberty and Self-government, chapter i.: introductory.](./chapters/02-on-civil-liberty-and-self-government-chapter-i-int/) — prose, 1 variant
 03. [chapter ii.: definitions of liberty.](./chapters/03/) — prose, 1 variant
 04. [chapter iii.: the meaning of civil liberty.](./chapters/04/) — prose, 1 variant
 05. [chapter iv.: ancient and modern liberty.—ancient, medieval, and modern states.](./chapters/05/) — prose, 1 variant
@@ -58,101 +62,70 @@ On Civil Liberty and Self-Government, by Theodore Dwight Woolsey (1801–1889), 
 34. [chapter xxxiii.: imperatorial sovereignty, continued.—its origin and character examined.](./chapters/34/) — prose, 1 variant
 35. [chapter xxxiv.: centralization.—influence of capital cities.](./chapters/35/) — prose, 1 variant
 36. [chapter xxxv.: vox populi vox dei.](./chapters/36/) — prose, 1 variant
-37. [APPENDIX I.: a paper on elections, election statistics, and general votes of yes or no.](./chapters/37-appendix-i-a-paper-on-elections-election-statistic/) — prose, 1 variant
-38. [APPENDIX II.: a paper on the abuse of the pardoning power.](./chapters/38-appendix-ii-a-paper-on-the-abuse-of-the-pardoning-/) — prose, 1 variant
-39. [APPENDIX III.: a paper on subjects connected with the inquisitorial trial and the laws of evidence.](./chapters/39-appendix-iii-a-paper-on-subjects-connected-with-th/) — prose, 1 variant
-40. [APPENDIX IV.: MAGNA CHARTA OF KING JOHN, fifteenth day of june, in the seventeenth year of the king's reign, a.d. 1215.](./chapters/40-appendix-iv-magna-charta-of-king-john-fifteenth-da/) — prose, 1 variant
-41. [MAGNA CHARTA, THE GREAT CHARTER, (translated as in the statutes at large,) made in the ninth year of king henry the thir](./chapters/41-magna-charta-the-great-charter-translated-as-in-th/) — prose, 1 variant
-42. [chapter i.: A Confirmation of Liberties.](./chapters/42/) — prose, 1 variant
-43. [chapter xxix.: None shall be condemned without Trial. Justice shall not be sold or deferred.](./chapters/43/) — prose, 1 variant
-44. [chapter xxxvi.: No Land shall be given in Mortmain.](./chapters/44/) — prose, 1 variant
-45. [chapter xxxvi.: A Subsidy in respect of this Charter and the Charter of the Forest granted to the King.](./chapters/45/) — prose, 1 variant
-46. [cap. v.](./chapters/46-cap-v/) — prose, 1 variant
-47. [cap. vi.](./chapters/47-cap-vi/) — prose, 1 variant
-48. [APPENDIX V.: the petition of right.](./chapters/48-appendix-v-the-petition-of-right/) — prose, 1 variant
-49. [31 ch. ii., Ch. 2, may, 1679.](./chapters/49-31-ch-ii-ch-2-may-1679/) — prose, 1 variant
-50. [1 w. & m., 1689.](./chapters/50-1-w-m-1689/) — prose, 1 variant
-51. [APPENDIX VIII.: a declaration by the representatives of the united states of america in congress assembled.](./chapters/51-appendix-viii-a-declaration-by-the-representatives/) — prose, 1 variant
-52. [APPENDIX IX.: articles of confederation and perpetual union between the states.](./chapters/52-appendix-ix-articles-of-confederation-and-perpetua/) — prose, 1 variant
-53. [article iii.](./chapters/53-article-iii/) — prose, 1 variant
-54. [article iv.](./chapters/54-article-iv/) — prose, 1 variant
-55. [article v.](./chapters/55-article-v/) — prose, 1 variant
-56. [article vi.](./chapters/56-article-vi/) — prose, 1 variant
-57. [article vii.](./chapters/57-article-vii/) — prose, 1 variant
-58. [article viii.](./chapters/58-article-viii/) — prose, 1 variant
-59. [article ix.](./chapters/59-article-ix/) — prose, 1 variant
-60. [article x.](./chapters/60-article-x/) — prose, 1 variant
-61. [article xii.](./chapters/61-article-xii/) — prose, 1 variant
-62. [article xiii.](./chapters/62-article-xiii/) — prose, 1 variant
-63. [APPENDIX X.: constitution of the united states of america.](./chapters/63-appendix-x-constitution-of-the-united-states-of-am/) — prose, 1 variant
-64. [article i.](./chapters/64-article-i/) — prose, 1 variant
-65. [article ii.](./chapters/65-article-ii/) — prose, 1 variant
-66. [article iii.](./chapters/66-article-iii/) — prose, 1 variant
-67. [article iv.](./chapters/67-article-iv/) — prose, 1 variant
-68. [article v.](./chapters/68-article-v/) — prose, 1 variant
-69. [article vi.](./chapters/69-article-vi/) — prose, 1 variant
-70. [article vii.](./chapters/70-article-vii/) — prose, 1 variant
-71. [article iv.](./chapters/71-article-iv/) — prose, 1 variant
-72. [article v.](./chapters/72-article-v/) — prose, 1 variant
-73. [article vi.](./chapters/73-article-vi/) — prose, 1 variant
-74. [article vii.](./chapters/74-article-vii/) — prose, 1 variant
-75. [article xii.](./chapters/75-article-xii/) — prose, 1 variant
-76. [article xiv.](./chapters/76-article-xiv/) — prose, 1 variant
-77. [article xv.](./chapters/77-article-xv/) — prose, 1 variant
-78. [APPENDIX XI.: the french constitution, adopted and proclaimed on the twenty-fourth of june 1793. the first republican co](./chapters/78-appendix-xi-the-french-constitution-adopted-and-pr/) — prose, 1 variant
-79. [DECLARATIONS OF THE RIGHTS OF MAN AND OF CITIZENS.](./chapters/79-declarations-of-the-rights-of-man-and-of-citizens/) — prose, 1 variant
-80. [of the right of citizenship.](./chapters/80-of-the-right-of-citizenship/) — prose, 1 variant
-81. [of the primary assemblies.](./chapters/81-of-the-primary-assemblies/) — prose, 1 variant
-82. [of the national representation.](./chapters/82-of-the-national-representation/) — prose, 1 variant
-83. [of the electoral assemblies.](./chapters/83-of-the-electoral-assemblies/) — prose, 1 variant
-84. [of the legislative body.](./chapters/84-of-the-legislative-body/) — prose, 1 variant
-85. [mode of procedure of the legislative body.](./chapters/85-mode-of-procedure-of-the-legislative-body/) — prose, 1 variant
-86. [of the making of laws.](./chapters/86-of-the-making-of-laws/) — prose, 1 variant
-87. [of the executive power.](./chapters/87-of-the-executive-power/) — prose, 1 variant
-88. [of the mutual relations between the executive council, and the legislative body.](./chapters/88-of-the-mutual-relations-between-the-executive-coun/) — prose, 1 variant
-89. [of the administrative authorities and the municipalities.](./chapters/89-of-the-administrative-authorities-and-the-municipa/) — prose, 1 variant
-90. [of civil justice.](./chapters/90-of-civil-justice/) — prose, 1 variant
-91. [of criminal justice.](./chapters/91-of-criminal-justice/) — prose, 1 variant
-92. [of the court of cassation.](./chapters/92-of-the-court-of-cassation/) — prose, 1 variant
-93. [of the national treasury.](./chapters/93-of-the-national-treasury/) — prose, 1 variant
-94. [of the rendition of accounts.](./chapters/94-of-the-rendition-of-accounts/) — prose, 1 variant
-95. [of the military forces of the republic.](./chapters/95-of-the-military-forces-of-the-republic/) — prose, 1 variant
-96. [of the national convention.](./chapters/96-of-the-national-convention/) — prose, 1 variant
-97. [of the relations of the french republic towards foreign nations.](./chapters/97-of-the-relations-of-the-french-republic-towards-fo/) — prose, 1 variant
-98. [of the guaranty of rights.](./chapters/98-of-the-guaranty-of-rights/) — prose, 1 variant
-99. [APPENDIX XII.: french charter of louis xviii. and that adopted in the year 1830.](./chapters/99-appendix-xii-french-charter-of-louis-xviii-and-tha/) — prose, 1 variant
-100. [declaration of the chamber of deputies.](./chapters/100-declaration-of-the-chamber-of-deputies/) — prose, 1 variant
-101. [public law of the french.](./chapters/101-public-law-of-the-french/) — prose, 1 variant
-102. [forms of the king's government.](./chapters/102-forms-of-the-kings-government/) — prose, 1 variant
-103. [of the chamber of peers.](./chapters/103-of-the-chamber-of-peers/) — prose, 1 variant
-104. [of the chamber of deputies.](./chapters/104-of-the-chamber-of-deputies/) — prose, 1 variant
-105. [of the ministers.](./chapters/105-of-the-ministers/) — prose, 1 variant
-106. [judicial regulations.](./chapters/106-judicial-regulations/) — prose, 1 variant
-107. [particular rights guaranteed by the state.](./chapters/107-particular-rights-guaranteed-by-the-state/) — prose, 1 variant
-108. [APPENDIX XIII.: constitution of the french republic. adopted november, 1848.](./chapters/108-appendix-xiii-constitution-of-the-french-republic-/) — prose, 1 variant
-109. [chapter ii.: rights of citizens guaranteed by the constitution.](./chapters/109/) — prose, 1 variant
-110. [chapter iv.: of the legislative power.](./chapters/110/) — prose, 1 variant
-111. [chapter v.: of the executive power.](./chapters/111/) — prose, 1 variant
-112. [chapter vi.: of the council of state.](./chapters/112/) — prose, 1 variant
-113. [chapter vii.: of the interior administration.](./chapters/113/) — prose, 1 variant
-114. [chapter viii.: of the judiciary power.](./chapters/114/) — prose, 1 variant
-115. [chapter ix.: of the public forces.](./chapters/115/) — prose, 1 variant
-116. [chapter x.: special regulations.](./chapters/116/) — prose, 1 variant
-117. [chapter xi.: of the revision of the constitution.](./chapters/117/) — prose, 1 variant
-118. [chapter xii.: transitory arrangements.](./chapters/118/) — prose, 1 variant
-119. [APPENDIX XIV.: the present constitution of france.](./chapters/119-appendix-xiv-the-present-constitution-of-france/) — prose, 1 variant
-120. [LOUIS NAPOLEON, president of the republic. In the name of the French People.](./chapters/120-louis-napoleon-president-of-the-republic-in-the-na/) — prose, 1 variant
-121. [chapter ii.: forms of the government of the republic.](./chapters/121/) — prose, 1 variant
-122. [chapter iii.: of the president of the republic.](./chapters/122/) — prose, 1 variant
-123. [chapter iv.: of the senate.](./chapters/123/) — prose, 1 variant
-124. [chapter v.: of the legislative body.](./chapters/124/) — prose, 1 variant
-125. [chapter vi.: of the council of state.](./chapters/125/) — prose, 1 variant
-126. [chapter vii.: of the high court of justice.](./chapters/126/) — prose, 1 variant
-127. [chapter viii.: general and transitory clauses.](./chapters/127/) — prose, 1 variant
-128. [chapter i.: meeting of the legislative body, formation and organization of the bureaus, and verification of the powers.](./chapters/128/) — prose, 1 variant
-129. [chapter ii.: presentation, discussion, and vote of bills.](./chapters/129/) — prose, 1 variant
-130. [chapter iii.: messages and proclamations addressed to the legislative body by the president of the republic.](./chapters/130/) — prose, 1 variant
-131. [chapter iv.: minutes.](./chapters/131/) — prose, 1 variant
-132. [APPENDIX XV.: report of the french senatorial committee on the petitions to change the republic into an empire, in novem](./chapters/132-appendix-xv-report-of-the-french-senatorial-commit/) — prose, 1 variant
-133. [senatus-consultum. Proposition to modify the Constitution, in conformity with Articles 31 and 32.](./chapters/133-senatus-consultum-proposition-to-modify-the-consti/) — prose, 1 variant
-134. [APPENDIX XVI.: letter of the french minister of the interior, mr. de morny, addressed to the prefects of the deparments ](./chapters/134-appendix-xvi-letter-of-the-french-minister-of-the-/) — prose, 1 variant
+37. [Appendix I.: a paper on elections, election statistics, and general votes of yes or no.](./chapters/37-appendix-i-a-paper-on-elections-election-statistic/) — prose, 1 variant
+38. [Appendix II.: a paper on the abuse of the pardoning power.](./chapters/38-appendix-ii-a-paper-on-the-abuse-of-the-pardoning-/) — prose, 1 variant
+39. [Appendix III.: a paper on subjects connected with the inquisitorial trial and the laws of evidence.](./chapters/39-appendix-iii-a-paper-on-subjects-connected-with-th/) — prose, 1 variant
+40. [Appendix IV.: Magna Charta of King John, fifteenth day of june, in the seventeenth year of the king's reign, a.d. 1215.](./chapters/40-appendix-iv-magna-charta-of-king-john-fifteenth-da/) — prose, 1 variant
+41. [Magna Charta, the Great Charter, (translated as in the statutes at large,) made in the ninth year of king henry the thir](./chapters/41-magna-charta-the-great-charter-translated-as-in-th/) — prose, 1 variant
+42. [chapter xxxvi.: A Subsidy in respect of this Charter and the Charter of the Forest granted to the King.](./chapters/42/) — prose, 1 variant
+43. [cap. v.](./chapters/43-cap-v/) — prose, 1 variant
+44. [Appendix V.: the petition of right.](./chapters/44-appendix-v-the-petition-of-right/) — prose, 1 variant
+45. [Appendix VI.: an act for the better securing the liberty of the subject, and for prevention of imprisonments beyond the,](./chapters/45-appendix-vi-an-act-for-the-better-securing-the-lib/) — prose, 1 variant
+46. [Appendix VII.: bill of rights, passed 1 william and mary, sess. 2, ch. 2, 1689, 1 w. & m., 1689.](./chapters/46-appendix-vii-bill-of-rights-passed-1-william-and-m/) — prose, 1 variant
+47. [Appendix VIII.: a declaration by the representatives of the united states of america in congress assembled.](./chapters/47-appendix-viii-a-declaration-by-the-representatives/) — prose, 1 variant
+48. [Appendix IX.: articles of confederation and perpetual union between the states.](./chapters/48-appendix-ix-articles-of-confederation-and-perpetua/) — prose, 1 variant
+49. [Appendix IX.: articles of confederation and perpetual union between the states, article iv.](./chapters/49-appendix-ix-articles-of-confederation-and-perpetua/) — prose, 1 variant
+50. [Appendix IX.: articles of confederation and perpetual union between the states, article v.](./chapters/50-appendix-ix-articles-of-confederation-and-perpetua/) — prose, 1 variant
+51. [Appendix IX.: articles of confederation and perpetual union between the states, article vi.](./chapters/51-appendix-ix-articles-of-confederation-and-perpetua/) — prose, 1 variant
+52. [article viii.](./chapters/52-article-viii/) — prose, 1 variant
+53. [article ix.](./chapters/53-article-ix/) — prose, 1 variant
+54. [article xiii.](./chapters/54-article-xiii/) — prose, 1 variant
+55. [Appendix X.: constitution of the united states of america, article i.](./chapters/55-appendix-x-constitution-of-the-united-states-of-am/) — prose, 1 variant
+56. [article ii.](./chapters/56-article-ii/) — prose, 1 variant
+57. [Appendix X.: constitution of the united states of america, article iii.](./chapters/57-appendix-x-constitution-of-the-united-states-of-am/) — prose, 1 variant
+58. [Appendix X.: constitution of the united states of america, article iv.](./chapters/58-appendix-x-constitution-of-the-united-states-of-am/) — prose, 1 variant
+59. [Appendix X.: constitution of the united states of america, article v.](./chapters/59-appendix-x-constitution-of-the-united-states-of-am/) — prose, 1 variant
+60. [Appendix X.: constitution of the united states of america, article vi.](./chapters/60-appendix-x-constitution-of-the-united-states-of-am/) — prose, 1 variant
+61. [Appendix X.: constitution of the united states of america, article v. (2)](./chapters/61-appendix-x-constitution-of-the-united-states-of-am/) — prose, 1 variant
+62. [Appendix X.: constitution of the united states of america, article xii.](./chapters/62-appendix-x-constitution-of-the-united-states-of-am/) — prose, 1 variant
+63. [article xiv.](./chapters/63-article-xiv/) — prose, 1 variant
+64. [Appendix XI.: the french constitution, adopted and proclaimed on the twenty-fourth of june 1793. the first republican co](./chapters/64-appendix-xi-the-french-constitution-adopted-and-pr/) — prose, 1 variant
+65. [of the primary assemblies.](./chapters/65-of-the-primary-assemblies/) — prose, 1 variant
+66. [of the national representation.](./chapters/66-of-the-national-representation/) — prose, 1 variant
+67. [mode of procedure of the legislative body.](./chapters/67-mode-of-procedure-of-the-legislative-body/) — prose, 1 variant
+68. [of the making of laws.](./chapters/68-of-the-making-of-laws/) — prose, 1 variant
+69. [of the executive power.](./chapters/69-of-the-executive-power/) — prose, 1 variant
+70. [of the administrative authorities and the municipalities.](./chapters/70-of-the-administrative-authorities-and-the-municipa/) — prose, 1 variant
+71. [of civil justice.](./chapters/71-of-civil-justice/) — prose, 1 variant
+72. [of the military forces of the republic.](./chapters/72-of-the-military-forces-of-the-republic/) — prose, 1 variant
+73. [French Charter of 1830, declaration of the chamber of deputies.](./chapters/73-french-charter-of-1830-declaration-of-the-chamber-/) — prose, 1 variant
+74. [public law of the french.](./chapters/74-public-law-of-the-french/) — prose, 1 variant
+75. [forms of the king's government.](./chapters/75-forms-of-the-kings-government/) — prose, 1 variant
+76. [of the chamber of peers.](./chapters/76-of-the-chamber-of-peers/) — prose, 1 variant
+77. [of the chamber of deputies.](./chapters/77-of-the-chamber-of-deputies/) — prose, 1 variant
+78. [judicial regulations.](./chapters/78-judicial-regulations/) — prose, 1 variant
+79. [particular rights guaranteed by the state.](./chapters/79-particular-rights-guaranteed-by-the-state/) — prose, 1 variant
+80. [Appendix XIII.: constitution of the french republic. adopted november, 1848.](./chapters/80-appendix-xiii-constitution-of-the-french-republic-/) — prose, 1 variant
+81. [Constitution, chapter ii.: rights of citizens guaranteed by the constitution.](./chapters/81-constitution-chapter-ii-rights-of-citizens-guarant/) — prose, 1 variant
+82. [chapter iv.: of the legislative power.](./chapters/82/) — prose, 1 variant
+83. [chapter v.: of the executive power.](./chapters/83/) — prose, 1 variant
+84. [Constitution, chapter vi.: of the council of state.](./chapters/84-constitution-chapter-vi-of-the-council-of-state/) — prose, 1 variant
+85. [chapter vii.: of the interior administration.](./chapters/85/) — prose, 1 variant
+86. [chapter viii.: of the judiciary power.](./chapters/86/) — prose, 1 variant
+87. [chapter ix.: of the public forces.](./chapters/87/) — prose, 1 variant
+88. [chapter xi.: of the revision of the constitution.](./chapters/88/) — prose, 1 variant
+89. [chapter xii.: transitory arrangements.](./chapters/89/) — prose, 1 variant
+90. [Appendix XIV.: the present constitution of france.](./chapters/90-appendix-xiv-the-present-constitution-of-france/) — prose, 1 variant
+91. [Louis Napoleon, president of the republic. In the name of the French People.](./chapters/91-louis-napoleon-president-of-the-republic-in-the-na/) — prose, 1 variant
+92. [chapter iii.: of the president of the republic.](./chapters/92/) — prose, 1 variant
+93. [chapter iv.: of the senate.](./chapters/93/) — prose, 1 variant
+94. [chapter v.: of the legislative body.](./chapters/94/) — prose, 1 variant
+95. [Appendix XIV.: the present constitution of france, chapter vi.: of the council of state.](./chapters/95-appendix-xiv-the-present-constitution-of-france-ch/) — prose, 1 variant
+96. [chapter viii.: general and transitory clauses.](./chapters/96/) — prose, 1 variant
+97. [Third Division.—of the Legislative Body, chapter i.: meeting of the legislative body, formation and organization of the ](./chapters/97-third-division-of-the-legislative-body-chapter-i-m/) — prose, 1 variant
+98. [chapter ii.: presentation, discussion, and vote of bills.](./chapters/98/) — prose, 1 variant
+99. [chapter iii.: messages and proclamations addressed to the legislative body by the president of the republic.](./chapters/99/) — prose, 1 variant
+100. [chapter iv.: minutes.](./chapters/100/) — prose, 1 variant
+101. [Appendix XV.: report of the french senatorial committee on the petitions to change the republic into an empire, in novem](./chapters/101-appendix-xv-report-of-the-french-senatorial-commit/) — prose, 1 variant
+102. [senatus-consultum. Proposition to modify the Constitution, in conformity with Articles 31 and 32.](./chapters/102-senatus-consultum-proposition-to-modify-the-consti/) — prose, 1 variant
+103. [Appendix XVI.: letter of the french minister of the interior, mr. de morny, addressed to the prefects of the deparments ](./chapters/103-appendix-xvi-letter-of-the-french-minister-of-the-/) — prose, 1 variant

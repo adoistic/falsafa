@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-economics-of-socialism-b16237",
+  "work_title": "Economics of Socialism",
+  "chapter_number": 2,
+  "chapter_title": "7. The Final Futility of Final Utility",
+  "chapter_slug": "02-7-the-final-futility-of-final-utility",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f79deb22-1885-5126-9c0d-2bbb43a578cd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6053,
+      "paragraph_count": 66,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1896/economics/7-futility.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-war-and-other-essays-b3f818",
+  "work_title": "War and Other Essays",
+  "chapter_number": 8,
+  "chapter_title": "The Mores of the Present and the Future, VI: The Mores of the Present and the Future [1909]",
+  "chapter_slug": "08-the-mores-of-the-present-and-the-future-vi-the-mor",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a3efd76a-f681-56a0-83d8-4a9e7ad8e75f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4682,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-war-and-other-essays"
+    }
+  ]
+}

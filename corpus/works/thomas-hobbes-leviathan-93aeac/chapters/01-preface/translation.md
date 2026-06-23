@@ -4,7 +4,7 @@ work_slug: "thomas-hobbes-leviathan-93aeac"
 work_title: Leviathan
 author_name: Thomas Hobbes
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "e1512917-cd11-5821-a456-102eb9d5ae6a"
 content_type: translation

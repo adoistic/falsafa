@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 23,
+  "chapter_title": "Two-fold Origin of Manufacture",
+  "chapter_slug": "23-two-fold-origin-of-manufacture",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e672a029-8903-5d21-81ba-eda712d13a43",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1099,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch14.htm"
+    }
+  ]
+}

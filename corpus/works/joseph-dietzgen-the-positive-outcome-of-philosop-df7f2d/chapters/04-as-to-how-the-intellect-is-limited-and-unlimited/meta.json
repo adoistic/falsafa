@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-the-positive-outcome-of-philosop-df7f2d",
+  "work_title": "The Positive Outcome of Philosophy",
+  "chapter_number": 4,
+  "chapter_title": "As to How the Intellect Is Limited and Unlimited",
+  "chapter_slug": "04-as-to-how-the-intellect-is-limited-and-unlimited",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "25c95b5a-f76e-505f-832d-323a9b8cafdb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1754,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1887/positive-outcome/ch03.htm"
+    }
+  ]
+}

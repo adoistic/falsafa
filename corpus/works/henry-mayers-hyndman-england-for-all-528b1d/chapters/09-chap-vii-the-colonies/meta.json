@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-england-for-all-528b1d",
+  "work_title": "England For All",
+  "chapter_number": 9,
+  "chapter_title": "Chap.VII – The Colonies",
+  "chapter_slug": "09-chap-vii-the-colonies",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ce63017-d289-5637-b684-3bc23d30960c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4367,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1881/england/chap07.html"
+    }
+  ]
+}

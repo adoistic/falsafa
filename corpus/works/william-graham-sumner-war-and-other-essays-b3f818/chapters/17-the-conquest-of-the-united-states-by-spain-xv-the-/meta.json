@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-war-and-other-essays-b3f818",
+  "work_title": "War and Other Essays",
+  "chapter_number": 17,
+  "chapter_title": "The Conquest of the United States by Spain, XV: The Conquest of the United States by Spain [1898]",
+  "chapter_slug": "17-the-conquest-of-the-united-states-by-spain-xv-the-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e2b60a86-7480-519e-9008-8800649990cd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12136,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-war-and-other-essays"
+    }
+  ]
+}

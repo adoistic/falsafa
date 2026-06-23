@@ -4,7 +4,7 @@ work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
 work_title: The History of Bimetallism in the United States
 author_name: J. Laurence Laughlin
 chapter_number: 27
-chapter_title: "III. JANUARY, 1837.—An Act supplementary to the act entitled \"An Act establishing a Mint, and regulating the coins of th"
+chapter_title: "III. January, 1837.—An Act supplementary to the act entitled \"An Act establishing a Mint, and regulating the coins of th"
 chapter_slug: "27-iii-january-1837-an-act-supplementary-to-the-act-e"
 variant_id: "f0ce5de9-24f3-5b74-a79f-ae9c3833d98f"
 content_type: translation

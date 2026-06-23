@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 478
+word_count: 474
 source_url: "https://oll.libertyfund.org/titles/fletcher-selected-discourses-and-speeches"
 translator: Online Library of Liberty edition
 ---
@@ -22,4 +22,4 @@ I am not surprised to find an act for a supply brought into his house at the beg
 
 Act concerning offices, &c. brought in by the same member
 
-The estates of Parliament taking into their consideration, that to the great loss and detriment of this nation, great sums of money are yearly carried out of it, by those who wait and depend at court, for places and preferments in this kingdom: and that by Scotsmen, employing English interest at court, in order to obtain their several pretensions, this nation is in hazard of being brought Edition: current; Page: [70] to depend upon English ministers: and likewise considering, that by reason our princes do no more reside amongst us, they cannot be rightly informed of the merit of persons pretending to places, offices, and pensions; therefore our Sovereign Lady, with advice and consent of the estates of parliament, statutes and ordains, that after the decease of her Majesty (whom God long preserve) and heirs of her body failing, all places and offices, both civil and military, and all pensions, formerly conferred by our Kings, shall ever after be given by parliament, by way of ballot.
+The estates of Parliament taking into their consideration, that to the great loss and detriment of this nation, great sums of money are yearly carried out of it, by those who wait and depend at court, for places and preferments in this kingdom: and that by Scotsmen, employing English interest at court, in order to obtain their several pretensions, this nation is in hazard of being brought to depend upon English ministers: and likewise considering, that by reason our princes do no more reside amongst us, they cannot be rightly informed of the merit of persons pretending to places, offices, and pensions; therefore our Sovereign Lady, with advice and consent of the estates of parliament, statutes and ordains, that after the decease of her Majesty (whom God long preserve) and heirs of her body failing, all places and offices, both civil and military, and all pensions, formerly conferred by our Kings, shall ever after be given by parliament, by way of ballot.

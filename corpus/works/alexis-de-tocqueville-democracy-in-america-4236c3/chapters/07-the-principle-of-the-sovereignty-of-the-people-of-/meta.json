@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 7,
+  "chapter_title": "The Principle of the Sovereignty of the People of North America.",
+  "chapter_slug": "07-the-principle-of-the-sovereignty-of-the-people-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d0e6ca41-3de5-579d-a72e-8fedb5bfcb86",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1147,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch04.htm"
+    }
+  ]
+}

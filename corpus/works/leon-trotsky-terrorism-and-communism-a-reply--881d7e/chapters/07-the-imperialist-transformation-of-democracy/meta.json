@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-terrorism-and-communism-a-reply--881d7e",
+  "work_title": "Terrorism and Communism: A Reply to Karl Kautsky",
+  "chapter_number": 7,
+  "chapter_title": "The Imperialist Transformation of Democracy",
+  "chapter_slug": "07-the-imperialist-transformation-of-democracy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "630f136a-1565-54fe-a215-0a45e94e10f1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2144,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1920/terrcomm/ch03.htm"
+    }
+  ]
+}

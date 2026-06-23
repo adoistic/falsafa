@@ -4,7 +4,7 @@ work_slug: "john-a-hobson-imperialism-a-study-71797f"
 work_title: "Imperialism: A Study"
 author_name: John A. Hobson
 chapter_number: 3
-chapter_title: "Part I, Chapter I: The Measure of Imperialism"
+chapter_title: "Part I the Economics of Imperialism, Part I, Chapter I: The Measure of Imperialism"
 chapter_slug: 03
 variant_id: "13088167-1451-56e0-92f1-15f735c1ab5a"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 76,
+  "chapter_title": "Renewal of the Charter of the East-india Company.",
+  "chapter_slug": "76-renewal-of-the-charter-of-the-east-india-company",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0b853244-2cbc-58a8-98bb-03746815b017",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3502,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-the-law-of-intellectual-property-cbbb74"
 work_title: The Law of Intellectual Property
 author_name: Lysander Spooner
 chapter_number: 8
-chapter_title: "SECTION VII.: What is the Foundation of the Right of Property?"
+chapter_title: "Section VIII.: How is the Right of Property Transferred?"
 chapter_slug: 08
 variant_id: "aef13740-5ee1-5565-87f0-3a7bea8f764f"
 content_type: translation
@@ -13,13 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 349
+word_count: 221
 source_url: "https://oll.libertyfund.org/titles/spooner-the-law-of-intellectual-property-1855"
 translator: Online Library of Liberty edition
 ---
 
-The right of property has its foundation, first, in the natural right of each man to provide for his own subsistence; and, secondly, in his right to provide for his general happiness and well-being, in addition to a mere subsistence.
+From the very nature of the right of property, that right can be transferred, from the proprietor, only by his own consent. What is the right of property? It is, as has before been explained, a right of control, of dominion. If, then, a man’s property be taken from him without his consent, his right of control, or dominion over it, is necessarily infringed; in other words, his right of property is necessarily violated.
 
-The right to live, includes the right to accumulate the means of living; and the right to obtain happiness in general, includes the right to accumulate such commodities as minister to one’s happiness. These rights, then, to live, and to obtain happiness, are the foundations of the right of property. Such being the case, it is evident that no other human right has a deeper foundation in the nature and necessities of man, than the right of property. If, when one man has dipped a cup of water from the Edition: current; Page: [29] stream, to slake his own thirst, or gathered food, to satisfy his own hunger, or made a garment, to protect his own body, other men can rightfully tell him that these commodities are not his, but theirs, and can rightfully take them from him, without his consent, his right to provide for the preservation of his own life, and for the enjoyment of happiness, are extinct.
+Even to use another’s property, without his consent, is to violate his right of property; because it is for the time being, assuming a dominion over wealth, the rightful dominion over which belongs solely to the owner.
 
-The right of property in intellectual wealth, has manifestly the same foundation, as the right of property in material wealth. Without intellectual wealth—that is, without ideas—material wealth could neither be accumulated, nor fitted to contribute, nor made to contribute, to the sustenance or happiness of man. Intellectual wealth, therefore, is indispensable to the acquisition and use of other wealth. It is also, of itself, a direct source of happiness, in a great variety of ways. Furthermore, it is not only a thing of value, for the owner’s uses, but, as has before been said, like material wealth, it is a merchantable commodity; has a value in the market; and will purchase, for its proprietor, other wealth in exchange. On every ground, therefore, the right of property in ideas, has as deep a foundation in the nature and necessities of man, as has the right of property in material things.
+These are the principles of the law of nature, relative to all property. They are as applicable to intellectual, as to material, property. The consent, or will, of the owner alone, can transfer the right of property in either, or give to another the right to use either.
+
+If it be asked, how is the consent of a man to part with his intellectual property to be proved? The answer is, that it must be proved, like all other facts in courts of justice, by evidence that is naturally applicable to prove such a fact, and that is sufficient to satisfy the mind of the tribunal that tries that question.

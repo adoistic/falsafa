@@ -1,0 +1,223 @@
+---
+work_id: "b12c13d2-6c4d-5330-bc07-e38dd0e5c9c9"
+work_slug: "jane-marcet-conversations-on-political-econo-b12c13"
+work_title: Conversations on Political Economy
+author_name: Jane Marcet
+chapter_number: 13
+chapter_title: Conversation XII, On Revenue Derived from Property in Land.
+chapter_slug: "13-conversation-xii-on-revenue-derived-from-property-"
+variant_id: "70669a48-ac07-5aa6-9720-87496c6864a4"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 6960
+source_url: "https://oll.libertyfund.org/titles/marcet-conversations-on-political-economy"
+translator: Online Library of Liberty edition
+---
+
+rent the effect, not the cause, of the high price of agricultural produce. — causes of rent; 1. the fertility of the earth; 2. diversity of soil and situation requiring different degrees of expence to raise similar produce. — origin of rent. — rent increases positively in a progressive country, and diminishes relatively. — high price of raw produce necessary to proportion the demand to the supply.
+
+I have been reflecting much upon the subject of revenue, Mrs. B.; but I cannot comprehend how farmers can afford to pay their rent if they do not make more than the usual profits of capital. I had imagined that they began by raising greater produce from the same capital than merchants or manufacturers, but that the deduction of their rent eventually reduced their profits below those of other branches of industry.
+
+You were right in the first part of your conjecture; but how did you account for the folly of farmers in choosing a mode of employing their capital which, after payment of their rent, yielded them less than the usual rate of profit?
+
+I believe that I did not consider that point. I had some vague idea of the superior security of landed property; and then I thought they might be influenced by the pleasures of a country life.
+
+Vague ideas will not enable us to trace inferences with accuracy, and to guard against them we should avoid the use of vague and indeterminate expressions. For instance — when you speak of the security of landed property being advantageous to a farmer, you do not consider that, in the capacity of farmer, a man possesses no landed property; he rents his farm; if he purchases it, he is a landed proprietor as well as a farmer. It is not therefore the security of landed property which is beneficial to a farmer, but the security or small risk in the raising and disposing of his crops.
+
+A farmer, when he reckons his profits, takes his rent into consideration; he calculates upon making so much by the produce of his farm as will enable him to pay his rent besides the usual profits of his capital; he must expect therefore to sell his crops so as to afford that profit, otherwise he would not engage in the concern. Farmers then really produce more by the cultivation of land than the usual rate of profit; but they are not greater gainers by it, because the surplus is paid to the landlord in the form of rent.
+
+So then they are obliged to sell their produce at a higher price than they would otherwise do, in order to pay their rent; and every poor labourer who eats bread contributes towards the maintenance of an idle landlord?
+
+You may spare your censure, for rent does not increase the price of the produce of land. It is because agricultural produce sells for more than it cost to produce, that the farmer pays a rent. Rent is therefore the effect and not the cause of the high price of agricultural produce.
+
+That is very extraordinary! If landed proprietors exact a rent for their farms, how can farmers afford to pay it, unless they sell their crops at a higher price for that purpose?
+
+A landlord cannot exact what a tenant is not willing to give; the contract between them is voluntary on both sides. If the produce of the farm can be sold for such a price as will repay the farmer the usual rate of profit on the capital employed, and yet leave a surplus, farmers will be found who will willingly pay that surplus to the landlord for the use of his land.
+
+But if the profits of agriculture are not the effect of rent, why are they not reduced by competition, and brought down to the usual rate of profit? Why does not additional capital flow into that channel, and, by increasing the supply of agricultural produce, reduce its price?
+
+In the first place, agriculture is not, like manufactures, susceptible of an unlimited augmentation of supply. If hats and shoes are scarce, and sell at extraordinarily high prices, a greater number of men will set up in the hat and shoemaking business, and, by increasing the quantity of those commodities, reduce their price. But land being limited in extent, farmers cannot with equal facility increase the quantity of corn and cattle. It might however be done to a very considerable extent by improvements in husbandry, and bringing new lands into cultivation. But to whatever extent this were accomplished, it would not have the effect of permanently diminishing the price of those commodities which constitute the necessaries of life, because population would increase in the same proportion, and the additional quantity of subsistence would be required to maintain the additional number of people; so that there would remain (after allowing a short period for the increase of population) the same relative proportion between the supply and the demand of the necessaries of life, and, consequently, no permanent reduction of price would take place. The necessaries of life therefore differ in this respect from all other commodities; if hats or shoes increase in plenty, they fall in price; but the necessaries of life have the peculiar property of creating a demand in proportion to the augmentation of the supply.
+
+So that the country no sooner produces the bread than it produces the mouths to eat it.
+
+Such is the order of nature, when impatient man does not pervert her wise designs, and increase the population before an increased stock of provisions has been provided for its subsistence.
+
+But what is it that makes agricultural produce sell at so high a price as to afford a rent besides the usual rate of profit? If it is not rent that occasions this high price, there must be some other cause for it.
+
+There are several circumstances which concur to raise and maintain the price of agricultural produce above its cost of production, and enable the farmer to pay rent. Its first source is what upon a superficial view would seem to have the effect of diminishing price; it is that invaluable quality with which Providence has blessed the earth, of bringing forth food in abundance; an abundance more than sufficient to maintain the people who cultivate it. For if those who occupy the land and raise the crops consumed the whole of them, there would be no surplus to sell at any price to others; and under such circumstances it would be impossible that the cultivator of the soil should pay rent. But the natural fertility of the earth is such as to render almost all soils capable of yielding some surplus produce which remains after the farmer has defrayed all the expences of cultivation, including the profits of his capital. It is from this fund that he pays his rent. The quantity of this surplus produce varies extremely, according to the degree of fertility of the soil, and enables a farmer to pay a higher or a lower rent.
+
+But, Mrs. B., in countries newly settled, where the greatest choice of fertile land is to be had, and where we are told that the harvests are so productive, as in many parts of America, no rent is paid.
+
+Wherever land is so plentiful that it may be cultivated by any one who takes possession of it, no man will pay a rent. But the cultivator, nevertheless, makes such a surplus produce as would enable him to pay rent. The only difference is, that, instead of transferring it to a landlord, he keeps the whole himself. This is the reason that such rapid fortunes are made by new settlers, in a fine climate and a fertile soil.
+
+It is the fertility of the soil, then, which enables the cultivator to pay a rent; but we must look for another cause which induces him to do so.
+
+You speak as if it were left to his option, Mrs. B.; and if that were the case, I do not think that rent would ever be paid.
+
+We shall see presently how far you are right. — When a newly-settled country, such as the island in which we established a colony, augments its capital and population, the demand for food will increase, its price will rise, and more land will be taken into cultivation; and when all the most fertile neighbouring districts are occupied, soil of an inferior quality, or less advantageously situated, will be brought under tillage. Now, corn, or any agricultural produce, raised upon less fertile soils, will stand the farmer in a greater expence; more labour, more manure, and more attention will be required to raise a less abundant crop, and the cost of its production will, upon the whole, be greater.
+
+The original settlers, who had the first choice of the land, have, then, an advantage over the others; they will make the greatest profits, and accumulate fortunes soonest. For the several crops, when brought to market, if of the same quality, will sell for the same price, whatever difference there may have been in the cost of their production. Nay, it is even likely that the crops which cost the least to the farmer, may fetch the highest price; for the most fertile soil will, in all probability, yield the finest produce.
+
+The first settlers have also another advantage; they will have selected the most favourable situations as well as the most fruitful soil; their fields will flourish on the borders of a navigable river, or surround the town which they have built; affording them a resource both for a home and a foreign market: whilst those who cultivate land in more remote parts must add all the charges of conveyance to the market where the produce is sold, or the port from whence it is exported. Let us suppose that the first settlers make 30 per cent., whilst the latter make only 25 per cent. of their capital. With the double advantage of the most fertile soil, and free from rent, it is no wonder if the first settlers should rapidly amass large capitals; and it is not improbable that towards the decline of life they may be desirous of retiring from the fatigues of an active life, yet without wishing to sell their property. Under these circumstances, do you not think that they would readily find new settlers, who, rather than undertake to cultivate remote districts, of perhaps a still inferior soil, would pay an annual sum for the use of their land, and become their tenants?
+
+That is very true: it would answer to the newcomers to give the 5 per cent. which the first settlers make above the others, in consequence of having the most eligible land.
+
+This, then, is the origin of Rent. If the tenant pay a rent of 5 per cent., which is equal to one sixth of what the proprietor made by cultivation, his profits will be reduced to 25 per cent., and will consequently be upon a level with those of the second settlers, who remain both proprietors and farmers; and thus the profits of agriculture are reduced from 30 to 25 per cent.
+
+And those of other branches of industry will, I suppose, be reduced to the same rate, in order to maintain the level of equality of profits?
+
+No doubt. In what manner this is effected, I shall explain presently. When the profits of agriculture are 25 per cent., accumulation will still proceed with rapidity; and as the country grows rich and populous, the demand for corn will increase, and fresh land will be required to be brought into cultivation. The new land being either more remote, or of an inferior quality, will be cultivated under still greater disadvantages, and will not yield, let us suppose, above 20 per cent. profits. As soon as this happens, the second settlers will be able to obtain a rent for their land. For it will be as advantageous to a farmer to pay a rent of 5 per cent. for land, by the cultivation of which he makes 25 per cent., as to give nothing for the use of the land when he makes only 20 per cent. of his capital.
+
+The general profits of capital are thus again reduced from 25 to 20 per cent.
+
+But do not those who first rented land continue making 25 per cent. by cultivating it?
+
+Only as long as their leases last; for as soon as their landlords find that the profits of capital are reduced to 20 per cent. they will not allow their tenants to make more, but require all the surplus profits above that sum to be paid them in the form of rent. Thus every fresh portion of land that is taken into cultivation, either of inferior quality or less favourably situated, produces the double effect of creating additional rents on the land before cultivated, and of reducing the profits of capital.
+
+That I perfectly understand; but how does it affect the price of agricultural produce — the high price of which, you say, is not owing to rent?
+
+In proportion as recourse is had to land of an inferior quality, to provide food for an increasing population, the difficulty and consequently the expence of producing it is increased, and no produce will be cultivated which will not sell for so much as its cost of production. Every new tract of inferior soil, therefore, brought under tillage, which raises rents and diminishes profits, will also raise the price of raw produce; for every quartern of corn, and loaf of bread, whether grown on the finest soils at the least cost of production, or yielded by land the most unfavourably circumstanced, will fetch the same price in the market.
+
+That is undoubtedly true; we had already observed it: but it is curious enough to think that of two similar loaves of bread brought on table, the cost of production of one of them may perhaps have been nearly twice as much as that of the other; and that one may have paid three-pence, whilst the other has only paid a halfpenny towards the rent of the land on which it was raised.
+
+The price of raw produce in general is then regulated by the expence of producing it on soils of the worst quality, or the most disadvantageously situated, which are incapable of paying a rent?
+
+Yes; provided you include in the cost of production the profits of the farmer; for though the worst soils cultivated may not afford a rent, they must bring the cultivator a profit; and if the produce of such land ceased to afford him profits, it would be thrown out of cultivation.
+
+The high price of agricultural produce results, then, from the necessity of raising some portion of it at an additional expence on inferior soils?
+
+Yes; and as this has at the same time the effect of producing a rent on land of superior quality, we may define rent to be that part of the surplus produce of the land which remains after all the expences of cultivation are deducted.
+
+I think I understand it now perfectly: when population increases, the new people will eat as heartily and consume as much as the others, but the new land will not yield so much as that before cultivated; therefore, a greater quantity of land must be turned up to feed a given number of men, more labourers will be required to work it, and, the cost of production being dearer, the price of its crops must rise. Under such disadvantages, I only wonder that the price of corn, and of raw produce, should not be higher than it is.
+
+The natural rise in the price of raw produce, owing to the cultivation of inferior soils, is in a great measure counterbalanced by other circumstances. If the productive powers of nature diminish as we proceed in the cultivation of inferior soils, those of art increase, with the progress of wealth. Every year improvements are made in agriculture, which augment the produce without proportionally increasing the expences of cultivation, and enable corn to be brought cheaper to market. Besides, though land of an inferior quality is at first cultivated at an additional expence, it improves by tillage, so that the cost of production gradually diminishes; and by draining, manuring, and other ameliorating processes of agriculture, an ungrateful soil is in the course of time not unfrequently rendered fertile. Disadvantages of situation are also remedied with the progress of society, the neighbourhood increases in population, new towns are built, and new markets opened; if therefore it were not indispensably necessary to continue bringing fresh land into cultivation to provide for an evergrowing population, corn would be produced at less expence, and would fall instead of rising in price.
+
+But if all the surplus produce which remains after the expences of production are deducted, go to the landlord in the form of rent, improvements in agriculture will not lower the price of raw produce, but will increase the rent.
+
+I beg your pardon: you have just observed that the price of raw produce, in general, is regulated by the expence of producing it on soils of the poorest quality, and the most disadvantageously situated; therefore, the more we diminish the expence of raising it on such soils, and the more we can remedy the disadvantages of situation, the lower we shall fix the standard price of raw produce. The cost of production of a loaf of bread raised on land of the lowest description is now one shilling; if by improvements in agricultural labour we could reduce it to ten-pence, bread in general would sell at that price.
+
+But, Mrs. B., if the profits of the farmer are gradually diminished by the natural increase of rent as inferior land is brought into cultivation, are they not, on the other hand, augmented by the enhanced price of agricultural produce? If the landlord require more rent, it is because the farmer sells his crops for more money. One of these effects, of increasing cultivation, appears exactly to counterbalance the other, and therefore one does not see why the farmer’s profits should not remain stationary.
+
+It is perfectly true that the enhanced price of the farmer’s crops remunerates him for the rise of rent. But it is not rent, it is the increased expense of production on poorer soils, which diminishes his profits. You may recollect my explaining to you how this occasioned a diminution of profits previous to the introduction of rent.
+
+But this circumstance affects only the cultivator of new and inferior land. What is it that diminishes the profits of the cultivator of superior soils, if it is not the increase of rent?
+
+The bringing inferior soils into cultivation produces a general diminution of profits in all employments of capital, by producing a general rise of wages.
+
+The wages of labour, we have observed, are always kept by the capitalist as low as the circumstances of the country will admit. If then agricultural produce, which constitutes the chief necessaries of life, rises in price, from an increased cost of production, how are the labouring classes to subsist unless their wages rise also?
+
+If the price of corn were enhanced in consequence of a bad harvest, the poor must necessarily submit to the evil of scarcity. — We have already observed, that in this case there is no resource; but such a calamity would be only of a temporary nature; whilst a rise in the price of corn, occasioned by increased cost of production, would be permanent. The capitalist who intends keeping up the same stock of labourers, must therefore consent to raise the general rate of wages: and not only farmers, but all persons employing labourers, will be under the same necessity; since labourers, of whatever description, are affected by the enhanced price of the necessaries of life.
+
+Is not this rise of wages analogous to that occasioned by accumulation of capital?
+
+Oh no; it is far from being attended with the same happy consequences; for it neither increases the demand for labour, nor does it improve the condition of the labouring classes. If the labourer receive more wages from his employer, it is not because capital abounds, but because his maintenance is dearer — dearer on account of the increased expense of producing it.
+
+In order to impress this on your memory, and avoid confusion, I will enumerate the several causes which occasion a rise of wages.
+
+1st. Wages rise in consequence of accumulation of capital; labour is then well rewarded, the profits of capital are low, population increases, and the country is in a state of prosperity.
+
+2dly. Wages rise in consequence of the increased cost of production of agricultural produce; then, though profits are diminished, labour is not better paid; it is the produce of the soil which is deficient, and there is less to divide between the labourer and his employer.
+
+3dly. Wages sometimes rise in consequence of dearness of provisions occasioned by scarcity, the effect of which is merely to increase the price of the necessaries of life, so that the labourer suffers equally from the scarcity whether his wages rise or not.
+
+I understand that perfectly well; but as I advance in the subject, fresh difficulties occur to me. So in ascending a mountain path, we expect on reaching the first eminence that all our difficulties will be over; but, as we proceed, we find new summits rise in succession, till we almost despair of attaining the highest.
+
+If your metaphor alludes to perfect knowledge, it is an eminence we can never expect to attain; yet we are well rewarded for the difficulty of the ascent by the enlarged horizon, which, in proportion as we rise, expands before our view.
+
+But what are the difficulties which just now impede your progress?
+
+Should not the rise of price of agricultural produce precede, instead of follow, the cultivation of inferior soils; for when an increasing population augments the demand for food, their wants would not prove a sufficient inducement to the farmer to turn up new land, if the price of corn did not rise to tempt him to do so?
+
+That is actually the case: but this rise of corn is the effect of a deficiency of supply, and would be temporary; for corn would fall again as soon as the additional crops were brought to market, if the expense of producing these crops were not greater than that of corn raised on land previously cultivated; but if more labour has been bestowed upon them, if they cost the farmer more, they must continue to sell higher. This, then, is the cause of the permanent continuation of high price of raw produce after the demand has been supplied. It proceeds from no deficiency of supply, but from an increase in the cost of production. The new corn will, however, fall in price, if its cost of production does not greatly exceed that of land previously cultivated; but the price can never fall so low as it was before the deficiency of supply, if the land on which it is raised be in any respect inferior to that which was previously cultivated.
+
+Then do not wages as well as corn rise previously to the cultivation of inferior soils?
+
+They do; but this rise is in consequence of accumulation of capital, and takes place some time previous to the cultivation of inferior soils.
+
+But since capital consists of food, of clothing, in a word, of all that can supply the wants of man, if it is increased before new land is brought into cultivation, it seems to supersede the necessity of that measure. Is it not rather inconsistent to say, that because the augmenting population is supplied by an increased capital, it requires a still further addition to it?
+
+Capital does not consist solely of the necessaries of life, but includes also conveniences, comforts, and luxuries; capital may increase, therefore, without an augmentation of food. Mr. Ricardo has so clearly explained this, in his recent treatise on Political Economy, that I cannot do better than to read you the passage: —
+
+“When a high price of corn is the effect of an increasing demand, it is always preceded by an increase of wages; for demand cannot increase without an increase of means in the people to pay for that which they desire. An accumulation of capital naturally produces an increased competition among the employers of labour, and a consequent rise in its price.”
+
+Yes, I recollect that was the case in our colony.
+
+“The increased wages are not immediately expended on food, but are first made to contribute to the other enjoyments of the labourer. His improved condition, however, induces and enables him to marry, and then the demand for food for the support of his family naturally supersedes that of those other enjoyments on which his wages were temporarily expended. Corn rises, then, because the demand for it increases, because there are those in the society who have improved means of paying for it; and the profits of the farmer will be raised above the general level of profits, till the requisite quantity of capital has been employed on its production. Whether, after the supply has taken place, corn shall again fall to its former price, or shall continue permanently higher, will depend on the quality of the land from which the increased quantity of corn has been supplied. If it be obtained from land of the same fertility as that which was last in cultivation, and with no greater cost of labour, the price will fall to its former state; if from poorer land, it will continue permanently higher.”
+
+Your observation, therefore, that the rise of raw produce should precede the cultivation of inferior soils, is perfectly just. But you must remember that the cause of the original rise of price, and that which subsequently produces its permanent continuation, are quite distinct; the first ceases, and the second commences as soon as the new crops are brought to market. Every time that inferior land is brought into culture, the price of raw produce, and consequently the profits of farming, must have previously risen. This occurs more or less at every progressive step made in agriculture. No new land can be cultivated till capital has accumulated to maintain and employ a great number of labourers. And no new land will be cultivated till population has so far increased as to raise the price of corn, and make it answer to the agriculturist to break up new land for tillage.
+
+Since my last observation has proved just, I will venture to make another. The rise of wages in consequence of accumulation of capital should be followed by a diminution of profits; this, therefore, would also precede the cultivation of inferior soils.
+
+And it does so. But the diminution of profits arising from abundance of capital and consequent increase of wages, is, like its cause, but temporary. It is soon followed by an increasing population and demand for food. The enhanced price of raw produce then repays the farmer the expense of high wages, and his profits are for a time even higher than those of other employments of capital.
+
+Then, will not also the landlord come upon him for rent, previously to the cultivation of inferior soils?
+
+No, not any more than he would for having had a remarkably productive crop, his extraordinary profits being only temporary. If, as we have already observed, the increased demand for corn is supplied by land of as good quality as that previously cultivated, corn will fall to its former price, just as cloth or linen would first rise in price by an increasing demand, and fall again when that demand was supplied. But if the additional supply of cloth or linen could only be produced at a greater expense than before, those commodities could not then fall to their former price. An additional supply of corn is almost always produced under this disadvantage, being raised on land of inferior quality: corn therefore will remain permanently higher priced; and it is not till then that the landlord comes upon the cultivator of the better soil for rent.
+
+Increase of capital could never produce a permanent fall of profits; for as soon as population increased to correspond with the capital, labour would fall, and profits be restored to their former rate. It is only when the cost of production of food is increased, that the rise of wages and diminution of profits is permanent.
+
+But, Mrs. B., is there any cultivated land in this country which can afford no rent? I know that gentlemen frequently farm their own estates, but it is with a view either to amusement or advantage, not because they could not obtain a rent for them.
+
+England is so far advanced in wealth and population, and has brought such numerous gradations of soil successively into cultivation, that I do not suppose there are now any considerable tracts of land under tillage which afford no rent; but in countries that have made less progress, such as Poland, Russia, and America, we know this to be the case; and in this country, as there is yet land which is suffered to lie waste, because at the present price of corn it is not worth cultivating independently of rent, it is not natural to suppose that from such very poor land we should suddenly rise to that of so good a quality that it will yield both rent and profit; there must undoubtedly be some of an intermediate nature, which will afford the usual rate of profit to the cultivator, but will produce no rent.
+
+The inclosure of commons may afford us an example of land of this quality; they are, I believe, usually granted in lots to the parishioners, free of cost, who cultivate it on their own account; but I do not think they could obtain a rent for it, unless they previously laid out capital upon it in fencing, ditching, draining, manuring, &c., which are part of the necessary expenses of cultivation, and which, if the proprietor undergoes for the tenant, he naturally requires to be repaid. For it must be understood, that by the rent of land I do not mean the total rent of a farm, comprehending a dwelling-house, barns, stables, and farming-stock of various descriptions, but simply the use of the re-productive powers of the land.
+
+Commons newly cultivated, in the course of time, will in their turn, I suppose, afford a rent?
+
+No doubt they will, when their soil is improved, or that an increase of population shall have forced soils of still inferior quality into cultivation. But I conceive that a considerable quantity of land, for which rent is actually paid, may be incapable of affording it. A farm generally consists of a variety of soils; one field may yield double or quadruple the produce that another will. On farms of poor land there are probably some fields that yield no rent at all; that is to say, if taken separately, their produce would not more than repay the expenses of cultivation, and give the usual rate of profit, whilst other fields may be of so superior a quality, as to afford a greater proportion of rent than is paid per acre for the farm; an average is therefore taken, and the farmer pays more rent for the worst, and less for the best, than they would afford. The total rent of the farm includes also the rent of the various buildings and improvements made on the premises.
+
+All this is perfectly clear; but I am not at all pleased to learn that as a country advances in the accumulation of wealth, rent, the portion of the idle landlord, augments, while profits, the portion of the industrious farmer, diminishes.
+
+These idle landlords, of whom you complain, neither lower the profits of capital nor raise the price of agricultural produce. Both these effects result from the diversity of soils successively brought into cultivation. Were rents, therefore, to be abolished, the only effect produced would be to enable farmers to live like gentlemen, as they would be enriched by that share of the produce of their farms which before fell to the lot of the landlord.
+
+And would not that be a very desirable change? Is it not better that those who labour should grow rich, rather than those who live upon the fruits of the labours of others?
+
+The yeomanry are a class of men who cultivate their own property; and if you wish to encourage their industry, you must allow them to reap the full reward of their labours, — to accumulate wealth, and, when wealthy, to indulge in ease and repose, and to let their land to others, if they prefer this plan to that of cultivating it themselves. Were landed proprietors prohibited from letting their land when rich, they would nevertheless become idle, and would neglect the farming business; which being left to the care of servants, the cultivation would suffer, and the country, as well as the proprietor, be injured by the diminution of produce. In civilised countries, landed property has been obtained by industry, or by wealth, the fruits of industry, and should be secured in its full value, not only to the individual who has earned it, but to his heirs for ever.
+
+But these wealthy men, who indulge in ease and repose, are no better members of society than the indolent savage.
+
+The love of ease, so commonly found among the rich and great, so far from being adverse to production or consumption, is quite the reverse; they are indolent, not from a want of taste for enjoyment, but because their wealth enables them to obtain these enjoyments through the agency of others.
+
+Besides, though it is true that rents rise as a country advances in prosperity, this rise is not in proportion to the increasing produce of the soil, owing to the additional capital laid upon it. Rent formerly used to bring in to the landlord one-third of the produce of his land; it has since fallen to one-fourth, and has lately been estimated as low as one-fifth; so that the landlord, whilst he receives a higher rent, has a smaller share of the whole produce.
+
+That is some consolation. But could no means be devised to abolish rents, and compel farmers to reduce in consequence the price of their produce, so that neither the landlord nor the farmer, but the public, should enjoy the benefit of the surplus produce which constitutes rent? Surely this would reduce the price of provisions, and of all agricultural produce.
+
+Since the price of raw produce is regulated by the expense of producing it on the poorest soils under cultivation, which can afford no rent, it could not fall in consequence of the abolition of rents. But supposing that it did so, what advantages would you expect to result from the reduction of prices so produced?
+
+If food were cheaper, people would be able to consume more, and the poor would have plenty.
+
+How so? would the land be more productive in consequence of the abolition of rent? and if more should not be produced, how could the people consume more? An increased consumption without an increased supply will, as we have remarked on a former occasion, lead to a famine. The price of a quartern loaf is now one shilling; I conclude, therefore, that at that price the consumption of bread will be so proportioned to the quantity wanted, that the stock of wheat will last till the next harvest. The adoption of your compulsory measures might reduce the price of a quartern loaf to nine-pence; and every poor family being thus enabled to increase their consumption of bread, the stock of wheat would not last out till the ensuing harvest. Then the following year, instead of raising more corn to make up the deficiency, the poorest land, which yields no rent, and but just affords the profits of capital at the present price of raw produce, would, by such a diminution of price, be thrown out of cultivation; and the produce of the country would thus be considerably diminished.
+
+Very true. I did not foresee that consequence. And a scarcity would perhaps raise the price of bread higher than it was before.
+
+How much would it be necessary for bread to rise in price in order to make the corn last till the next crops came in?
+
+To the price at which it now sells, one shilling.
+
+We return then to the rent-price, though no rent is paid: you see, therefore, the fallacy of your proposed measures. The high price, of which you so bitterly complain, is the price necessary to proportion the consumption to the supply, so as to make it last till the ensuing harvest.
+
+So far from being mortified, Mrs. B., I am delighted with my disappointment, as it has been the means of convincing me that if the poor are obliged to pay a high price for the necessaries of life, it is for their own benefit, as well as that of the mighty lords of the land; since it ensures them a uniform supply throughout the year.
+
+The labouring classes are besides in a great measure relieved from the burthen of high prices, as their wages rise in proportion; but observe, that this is the case only when high prices are occasioned by increased cost of production, not by scarcity. “A high price” (Mr. Ricardo observes), “is by no means incompatible with an abundant supply; the price is permanently high, not because the quantity is deficient, but because there has been an increased cost in producing it.”
+
+I the more willingly acquit rent of the accusation of creating high prices, since I see that there are two other sources from whence that evil may flow; the diversity of soil, and the necessity of proportioning the consumption to the supply.
+
+Since you acknowledge that high prices are necessary to prevent scarcity, you should, I think, no longer consider them as an evil.
+
+An enquiry into the effects of human laws and institutions often discovers error; but whatever flows in the course of nature springs from a pure source, and the more accurately we examine it, the more admiration we feel for its Author.
+
+Thus though rent cannot in itself be considered as an evil, since we have traced its cause to the natural fertility of the earth, and the diversity of soil, and have ascertained its effect to be to regulate the consumption of food to the supply; yet every artificial measure which tends to raise the price of agricultural produce, so as to enable the farmer to pay a higher rent, is certainly injurious. Therefore restrictions on the free importation of corn, or any other species of raw produce, which raises the price of those articles at home, is taking an additional sum out of the pockets of the consumer to put into that of the landlord. For rent may be considered as a necessary tax which the consumer pays to the landlord; the farmer is merely the vehicle of conveyance from the one to the other.
+
+And has such a measure immediately the effect of raising rents?
+
+Not until the leases are expired; during their existence the farmer enjoys all the adventitious gains, or suffers all the losses that may occur; but when his lease is renewed, it must correspond with the rate of profit, and rise or fall in proportion to the gains which the farmer expects to make, so as to give the whole of the surplus produce to the landlord, and leave only the usual profits of capital to the farmer. It may happen, indeed, either from ignorance or carelessness, and sometimes from motives of humanity, that the landlord does not exact all that the farmer can afford to pay; but these are accidental circumstances, and the whole of the surplus produce is considered as the fair and usual rent.
+
+This theory of the origin and progress of rent, which I hope I have now explained to your satisfaction, was first developed by Mr. Malthus, and its consequences have since been more fully traced, and some important inferences deduced from it, in a late publication by Mr. Ricardo, some passages of which I have read to you.
+
+I hope I have understood all you have said on the subject; but I beg that you will allow me to recapitulate the principal heads, in order to see if I am not mistaken. In proportion as capital accumulates, the demand for labour increases, which raises wages, improves the condition of the poor, and enables them to rear a greater number of children — this increases the demand for subsistence, raises the price of corn temporarily, and induces the farmer to take more land into cultivation — if the new land be of inferior quality, the crops are produced at an increased expense, which raises the price of raw produce generally, and creates rent on superior soils. Corn, now become permanently dearer, causes a permanent rise of wages, and a corresponding fall of profits.
+
+Your recapitulation is very correct, and I am glad to find you have understood me so well; for the subject of rent having been but recently investigated with accuracy, it is neither so thoroughly developed, nor so well understood, as most other branches of political economy.

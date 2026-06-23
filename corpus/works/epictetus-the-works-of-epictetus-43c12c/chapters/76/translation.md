@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 76
-chapter_title: "CHAPTER XVI.: THAT CAUTION SHOULD BE USED, AS TO PERSONAL FAMILIARITY."
+chapter_title: "Chapter XVII.: Of Providence."
 chapter_slug: 76
 variant_id: "1f1ca93d-6d2f-5bc7-8b59-ff86f26a716e"
 content_type: translation
@@ -13,11 +13,29 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 530
+word_count: 328
 source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
 translator: Online Library of Liberty edition
 ---
 
-HE who frequently mingles with others, either in conversation or at entertainments, or in any familiar way of living, must necessarily either become like his companions, or bring them over to his own way. For, if a dead coal be applied to a live one, either the first will quench the last, or the last kindle the first. Since, then, the danger is so great, caution must be used in entering into these familiarities with the crowd; remembering that it is impossible to touch a chimney-sweeper without being partaker of his soot. For what will you do, if you have to discuss gladiators, horses, wrestlers, and, what is worse, men? “Such a one is good, another bad; this was well, that ill done.” Besides, what if any one should sneer, or ridicule, or be ill-natured? Are any of you prepared, like a harper, who, when he takes his harp, and tries the strings, finds out which notes are discordant, and knows how to put the instrument in tune? Have any of you such a faculty as Socrates had; who in every conversation, could bring his companions to his own purpose? Whence should you have it? You must therefore be carried along by the crowd. And why are they more powerful than you? Because they utter their corrupt discourses from sincere opinion, and you your good ones only from your lips. Hence they are without strength or life; and it is disgusting to hear your exhortations and your poor miserable virtue proclaimed up hill and Edition: current; Page: [233] down. Thus it is that the crowd gets the better of you; for sincere opinion is always strong, always invincible. Therefore before wise sentiments are fixed in you, and you have acquired some power of self-defence, I advise you to be cautious in popular intercourse, otherwise, if you have any impressions made on you in the schools, they will melt away daily like wax before the sun. Get away then, far from the sun, while you have these waxen opinions.
+WHENEVER you lay anything to the charge of Providence, do but reflect, and you will find that it has happened agreeably to Reason.
 
-It is for this reason that the philosophers advise us to leave our country; because habitual practices draw the mind aside, and prevent the formation of new habits. We cannot bear that those who meet us should say, “Hey-day! such a one is turned philosopher, who was formerly thus and so.” Thus physicians send patients with lingering distempers to another place and another air; and they do right. Do you too import other manners instead of those you carry out. Fix your opinions, and exercise yourself in them. No; but you go hence to the theatre, to the gladiators, to the walks, to the circus; then hither again, then back again; — just the same persons all the while! No good habit, no criticism, no animadversion upon ourselves. No observation what use we make of the appearances presented to our minds; whether it be conformable, or contrary to Nature; whether we interpret them rightly or wrongly. Can I say to the inevitable that it is nothing to me? If this be not yet your case, fly from your former habits: fly from the crowd if you would ever begin to be anything.
+“Well; but a dishonest man has the advantage.”
+
+In what?
+
+“In money.”
+
+Here he ought to surpass you; because he flatters, he is shameless, he keeps awake. Where is the wonder? But look whether he has the advantage of you in fidelity or in honor. You will find he has not; but that wherever it is best for you to have the advantage of him, there you have it. I once said to one who was full of indignation at the good fortune of Philostrogus, “Why, would you be willing to sleep with Sura?” Heaven forbid, said he, that day should ever come! Why then are you angry that he is paid for what he sells; or how can you call him happy in possessions acquired by means which you detest? Or what harm does Providence do in giving the best things to the best men? Is it not better to have a sense of honor than to be rich? “Granted.” Why then are you angry, man, if you have what is best? Always remember, then, and have it in mind that a better man has the advantage of a worse in that direction in which he is better; and you will never have any indignation.
+
+“But my wife treats me ill.”
+
+Well; if you are asked what is the matter, answer, “My wife treats me ill.”
+
+“Nothing more?”
+
+Nothing.
+
+“My father gives me nothing.” But to denominate this an evil, some external and false addition must be made. We are not therefore to get rid of poverty, but of our impressions concerning it; and we shall do well.
+
+When Galba was killed, somebody said to Rufus, “Now, indeed, the world is governed by Providence.” I had never thought, answered Rufus, of extracting through Galba the slightest proof that the world was governed by Providence.

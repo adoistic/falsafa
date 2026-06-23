@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+  "work_title": "Two Tactics of Social-Democracy in the Democratic Revolution",
+  "chapter_number": 14,
+  "chapter_title": "Conclusion. Dare We Win?",
+  "chapter_slug": "14-conclusion-dare-we-win",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e271d8ad-1234-5518-ab95-698f4f53492c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3967,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ch13.htm"
+    }
+  ]
+}

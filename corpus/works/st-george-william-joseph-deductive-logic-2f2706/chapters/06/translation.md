@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 6
-chapter_title: Chapter XIV
+chapter_title: Chapter XIII
 chapter_slug: 06
 variant_id: "c47cf1f4-c772-5813-bcb8-9b14a6b8eba3"
 content_type: translation
@@ -13,89 +13,113 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 847
+word_count: 872
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-_Of the Determination of the Moods that are valid in the Four Figures._
+*Of the Special Rules of the Four Figures*.
 
-§ 621. By applying the special rules just given we shall be able to determine how many of the eleven legitimate moods are valid in the four figures.
+§ 606. Our next task must be to determine how far the 11 moods which we arrived at in the last chapter are valid in the four figures. But before this can be done, we must lay down the
 
-$622. These eleven legitimate moods were found to be
-
-AAA. AAI. AEE. AEO. AII. AOO. EAE. EAO. EIO. IAI. OAO.
+*Special Rules of the Four Figures*.
 
 FIGURE 1.
 
-§ 623. The rule that the major premiss must be universal excludes the last two moods, IAI, OAO. The rule that the minor premiss must be affirmative excludes three more, namely, AEE, AEO, AOO.
+Rule 1, The minor premiss must be affirmative.
 
-Thus we are left with six moods which are valid in the first figure, namely,
-
-AAA. EAE. AII. EIO. AAI. EAO.
+Rule 2. The major premiss must be universal.
 
 FIGURE II.
 
-§ 624. The rule that one premiss must be negative excludes four moods, namely, AAA, AAI, AII, IAI. The rule that the major must be universal excludes OAO. Thus we are left with six moods which are valid in the second figure, namely,
+Rule 1. One or other premiss must be negative.
 
-EAE. AEE. EIO. AOO. EAO. AEO.
+Rule 2. The conclusion must be negative.
+
+Rule 3. The major premiss must be universal.
 
 FIGURE III.
 
-§ 625. The rule that the conclusion must be particular confines us to eight moods, two of which, namely AEE and AOO, are excluded by the rule that the minor premiss must be affirmative.
+Rule 1. The minor premiss must be affirmative.
 
-Thus we are left with six moods which are valid in the third figure, namely,
-
-AAI. IAI. AII. EAO. OAO. EIO.
+Rule 2. The conclusion must be particular.
 
 FIGURE IV.
 
-§ 626. The first of the eleven moods, AAA, is excluded by the rule that the conclusion cannot be a universal affirmative.
+Rule 1. When the major premiss is affirmative, the minor must be universal.
 
-Two more moods, namely AOO and OAO, are excluded by the rule that neither of the premisses can be a particular negative.
+Rule 2. When the minor premiss is particular, the major must be negative.
 
-AII violates the rule that when the major premiss is affirmative, the minor must be universal.
+Rule 3, When the minor premiss is affirmative, the conclusion must be particular.
 
-EAE violates the rule that, when the minor premiss is affirmative, the conclusion must be particular. Thus we are left with six moods which are valid in the fourth figure, namely,
+Rule 4. When the conclusion is negative, the major premiss must be universal.
 
-AAI. AEE. IAI. EAO. EIO. AEO.
+Rule 5. The conclusion cannot be a universal affirmative.
 
-§ 627. Thus the 256 possible forms of syllogism have been reduced to two dozen legitimate combinations of mood and figure, six moods being valid in each of the four figures.
+Rule 6. Neither of the premisses can be a particular negative.
 
-FIGURE I. AAA. EAE. AII. EIO. (AAI. EAO.)
+§ 607. The special rules of the first figure are merely a reassertion in another form of the Dictum de Omni et Nullo. For if the major premiss were particular, we should not have anything affirmed or denied of a whole class; and if the minor premiss were negative, we should not have anything declared to be contained in that class. Nevertheless these rules, like the rest, admit of being proved from the position of the terms in the figure, combined with the rules for the distribution of terms (§ 293).
 
-FIGURE II. EAE. AEE. EIO. AGO. (EAO. AEO.)
+*Proof of the Special Rules of the Four Figures.*
 
-FIGURE III. AAI. IAI. AII. EAO. OAO. EIO.
+FIGURE 1.
 
-FIGURE IV. AAI. AEE. IAI. EAO. EIO. (AEO.)
+§ 608. Proof of Rule 1.--*The minor premiss must be affirmative*.
 
-§ 628. The five moods enclosed in brackets, though valid, are useless. For the conclusion drawn is less than is warranted by the premisses. These are called Subaltern Moods, because their conclusions might be inferred by subalternation from the universal conclusions which can justly be drawn from the same premisses. Thus AAI is subaltern to AAA, EAO to EAE, and so on with the rest.
+If possible, let the minor premiss be negative. Then the major must be affirmative (by Rule 5), and the conclusion must be negative (by Rule 6). But the major being affirmative, its predicate is undistributed; and the conclusion being negative, its predicate is distributed. Now the major term is in this figure predicate both in the major premiss and in the conclusion. Hence there results illicit process of the major term. Therefore the minor premiss must be affirmative.
 
-§ 629. The remaining 19 combinations of mood and figure, which are loosely called 'moods,' though in strictness they should be called 'figured moods,' are generally spoken of under the names supplied by the following mnemonics--
+§ 609. Proof of Rule 2.--*The major premiss must be universal.*
 
-Barbara, Celarent, Darii, Ferioque prioris; Cesare, Camestres, Festino, Baroko secundæ; Tertia Darapti, Disamis, Datisi, Felapton, Bokardo, Ferison habet; Quarta insuper addit Bramantip, Camenes, Dimaris, Fesapo, Fresison: Quinque Subalterni, totidem Generalibus orti, Nomen habent nullum, nee, si bene colligis, usum.
+Since the minor premiss is affirmative, the middle term, which is its predicate, is undistributed there. Therefore it must be distributed in the major premiss, where it is subject. Therefore the major premiss must be universal.
 
-§ 630. The vowels in these lines indicate the letters of the mood. All the special rules of the four figures can be gathered from an inspection of them. The following points should be specially noted.
+FIGURE II.
 
-The first figure proves any kind of conclusion, and is the only one which can prove A.
+§ 610. Proof of Rule 1,--*One or other premiss must be negative*.
 
-The second figure proves only negatives.
+The middle term being predicate in both premisses, one or other must be negative; else there would be undistributed middle.
 
-The third figure proves only particulars.
+§ 611. Proof of Rule 2.--*The conclusion must be negative.*
 
-The fourth figure proves any conclusion except A.
+Since one of the premisses is negative, it follows that the conclusion also must be so (by Rule 6).
 
-§ 631. The first figure is called the Perfect, and the rest the Imperfect figures. The claim of the first to be regarded as the perfect figure may be rested on these grounds--
+§ 612. Proof of Rule 3.--*The major premiss must be universal.*
 
-1. It alone conforms directly to the Dictum de Omni et Nullo.
+The conclusion being negative, the major term will there be distributed. But the major term is subject in the major premiss. Therefore the major premiss must be universal (by Rule 4).
 
-2. It suffices to prove every kind of conclusion, and is the only figure in which a universal affirmative proposition can be established.
+FIGURE III.
 
-3. It is only in a mood of this figure that the major, middle and minor terms are to be found standing in their relative order of extension.
+§ 613. Proof of Rule 1.--*The minor premiss must be affirmative.*
 
-§ 632. The reason why a universal affirmative, which is of course infinitely the most important form of proposition, can only be proved in the first figure may be seen as follows.
+The proof of this rule is the same as in the first figure, the two figures being alike so far as the major term is concerned.
 
-*Proof that A can only be established in figure I.*
+§ 614. Proof of Rule 2.--*The conclusion must be particular*.
 
-An A conclusion necessitates both premisses being A propositions (by Rule 7). But the minor term is distributed in the conclusion, as being the subject of an A proposition, and must therefore be distributed in the minor premiss, in order to which it must be the subject. Therefore the middle term must be the predicate and is consequently undistributed. In order therefore that the middle term may be distributed, it must be subject in the major premiss, since that also is an A proposition. But when the middle term is subject in the major and predicate in the minor premiss, we have what is called the first figure.
+The minor premiss being affirmative, the minor term, which is its predicate, will be undistributed there. Hence it must be undistributed in the conclusion (by Rule 4). Therefore the conclusion must be particular.
+
+FIGURE IV.
+
+§ 615. Proof of Rule I.--_When the major premiss is affirmative, the minor must be universal_.
+
+If the minor were particular, there would be undistributed middle.
+
+§ 616. Proof of Rule 2.--_When the minor premiss is particular, the major must be negative._
+
+This rule is the converse of the preceding, and depends upon the same principle.
+
+§ 617. Proof of Rule 3.--_When the minor premiss is affirmative, the conclusion must be particular._
+
+If the conclusion were universal, there would be illicit process of the minor.
+
+§ 618. Proof of Rule 4.--_When the conclusion is negative, the major premiss must_ be universal.
+
+If the major premiss were particular, there would be illicit process of the major.
+
+§ 619. Proof of Rule 5.--_The conclusion CANNOT be A UNIVERSAL affirmative_.
+
+The conclusion being affirmative, the premisses must be so too (by Rule 7). Therefore the minor term is undistributed in the minor premiss, where it is predicate. Hence it cannot be distributed in the conclusion (by Rule 4). Therefore the affirmative conclusion must be particular.
+
+§ 620. Proof of Rule 6.--_Neither of the premisses can lie a, PARTICULAR NEGATIVE_.
+
+If the major premiss were a particular negative, the conclusion would be negative. Therefore the major term would be distributed in the conclusion. But the major premiss being particular, the major term could not be distributed there. Therefore we should have an illicit process of the major term.
+
+If the minor premiss were a particular negative, then, since the major must be affirmative (by Rule 5), we should have undistributed middle.

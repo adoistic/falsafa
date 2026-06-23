@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-problems-of-mind-and-morals-97554e",
+  "work_title": "Problems of Mind and Morals",
+  "chapter_number": 6,
+  "chapter_title": "IV. The Problem of Socialist Definition",
+  "chapter_slug": "06-iv-the-problem-of-socialist-definition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "80469bc5-8be0-5ebd-833c-ef271864b1b6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3442,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1912/probs/04-defsoc.htm"
+    }
+  ]
+}

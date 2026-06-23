@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 29,
+  "chapter_title": "Death and Funeral of Peter Kropotkin",
+  "chapter_slug": "29-death-and-funeral-of-peter-kropotkin",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d227185-0380-5305-b26c-66fc2715114a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2031,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch26.htm"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 43,
+  "chapter_title": "XLII. Redemption.",
+  "chapter_slug": "43-xlii-redemption",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8929f1d6-cc5d-509b-a074-72f306d7e9e8",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 1441,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "94236d6b-e39d-5855-a532-e0b8cda848fa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1542,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

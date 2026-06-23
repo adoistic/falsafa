@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 9,
+  "chapter_title": "Chpt. 4 Of Danger in War",
+  "chapter_slug": "09-chpt-4-of-danger-in-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3d49f151-98b4-5622-aa82-956cf92d8a8d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 666,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book1/ch04.htm"
+    }
+  ]
+}

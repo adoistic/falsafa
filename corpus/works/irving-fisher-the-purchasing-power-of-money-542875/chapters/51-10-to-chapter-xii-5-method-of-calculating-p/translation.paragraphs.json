@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p-f71172",
+    "offset": 0,
+    "text": "The table in the text for index numbers of prices is taken from the last column of the table on page 487."
+  },
+  {
+    "id": "p-61a972",
+    "offset": 107,
+    "text": "Column (2) gives the index numbers of the United States Labor Bureau (No. 81, March, 1909, p. 204)."
+  },
+  {
+    "id": "p-7aca83",
+    "offset": 208,
+    "text": "I am under obligations to the Commissioner of Labor, Mr. Neill, for his courtesy in supplying me with the figure for 1909 in advance of publication."
+  },
+  {
+    "id": "p-e30018",
+    "offset": 358,
+    "text": "Column (3) is taken from the Bulletin of the Bureau of Labor, July, 1908, p. 7."
+  },
+  {
+    "id": "p-9edf70",
+    "offset": 439,
+    "text": "Column (4) is from \"The Prices of American Stocks, 1890-1909,\" by Wesley C. Mitchell, Journal of Political Economy, May, 1910. These figures are doubtless the best yet available in this difficult subject."
+  },
+  {
+    "id": "p-e2a794",
+    "offset": 645,
+    "text": "The general index number in column (5) is a weighted average of the figures in the three preceding columns, the weights being essentially the same as those used by Professor Kemmerer and for the same reasons.For ease in computation the weights are taken in integers, viz. 30 for column (2), 1 for column (3) and 3 for column (4). This calculation brings the table down through 1907. As column (3) is defective for 1908-1909, these years and 1907 are worked out as averages of columns (2) and (4), the weights being the same as already mentioned. The result is two series of figures, one for all three columns ending in 1907, and the other for two columns beginning in 1907. As in this case it happens that both series have the same figure (137) for 1907, no corrections need be made in 1908 and 1909. The probable errors in the figures for P may be placed as about 5 to 10 per cent."
+  }
+]

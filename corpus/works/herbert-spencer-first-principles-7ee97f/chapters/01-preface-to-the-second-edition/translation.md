@@ -4,7 +4,7 @@ work_slug: "herbert-spencer-first-principles-7ee97f"
 work_title: First Principles
 author_name: Herbert Spencer
 chapter_number: 1
-chapter_title: PREFACE TO THE SECOND EDITION.
+chapter_title: Preface to the Second Edition.
 chapter_slug: "01-preface-to-the-second-edition"
 variant_id: "75f1e918-b636-5d8d-8d37-0fb27fb9108a"
 content_type: translation

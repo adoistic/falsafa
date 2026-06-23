@@ -4,7 +4,7 @@ work_slug: "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089"
 work_title: Lectures on Modern History (Figgis ed.)
 author_name: "John Emerich Edward Dalberg-Acton (Lord Acton)"
 chapter_number: 1
-chapter_title: PREFATORY NOTE
+chapter_title: Prefatory Note
 chapter_slug: "01-prefatory-note"
 variant_id: "9de98733-ca6d-583a-9270-dc713336669c"
 content_type: translation

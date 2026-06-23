@@ -4,13 +4,17 @@ slug: "dewitt-h-parker-the-principles-of-aesthetics-d4e238"
 title: The Principles of Aesthetics
 author:
   name: DeWitt H. Parker
-  biography: "DeWitt H. Parker (1885-1949)."
+  biography: American philosopher and longtime chair of the philosophy department at the University of Michigan. The Principles of Aesthetics offered a systematic account of aesthetic value drawing on psychology and the history of the arts.
+  birth_year: 1885
+  death_year: 1949
+  nationality: American
 era: 20th Century
 genre: Aesthetics
 language: English
 language_direction: ltr
 description: "The Principles of Aesthetics, by DeWitt H. Parker (1885-1949), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1920
 total_logical_chapters: 16
 total_variant_entries: 16
 thothica_role: catalog

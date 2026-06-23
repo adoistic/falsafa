@@ -2,7 +2,7 @@
   "work_slug": "st-george-william-joseph-deductive-logic-2f2706",
   "work_title": "Deductive Logic",
   "chapter_number": 25,
-  "chapter_title": "Chapter VI",
+  "chapter_title": "Chapter IV",
   "chapter_slug": "25",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 296,
-      "paragraph_count": 35,
+      "word_count": 118,
+      "paragraph_count": 12,
       "has_image": false,
       "source_url": "https://www.gutenberg.org/ebooks/6560"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 52,
+  "chapter_title": "Erroneous Conception, by Political Economy, of Reproduction on a Progressively Increasing Scale",
+  "chapter_slug": "52-erroneous-conception-by-political-economy-of-repro",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0f08b167-4636-580f-953b-b4e0c0672cfe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1039,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch24.htm"
+    }
+  ]
+}

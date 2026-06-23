@@ -1,0 +1,25 @@
+---
+work_id: "b2e53d8f-9a78-5b15-9c53-4db14ec44da5"
+work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
+work_title: The Comedy of Protection
+author_name: George Hamilton
+chapter_number: 37
+chapter_title: "Iii.—: Protection and Linen Goods."
+chapter_slug: "37-iii-protection-and-linen-goods"
+variant_id: "356489e0-8889-5fde-a53c-9ce694a6fddf"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 315
+source_url: "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+translator: Online Library of Liberty edition
+---
+
+Looking at the exports in detail, we find the following figures for made-up linen goods:—
+
+And this fall in our exports is not solely due to their exclusion by foreign Customs tariffs, but in part to our own tariff. In the article on Linens in the “Dictionary of Commerce,” M. Julien Hayem, a great wholesale linen manufacturer, says, “The duties which burden cotton textiles are practically prohibitive in the case of linen-drapery and shirt-making. The price of material, which is 41/4 or 51/2 or less in England or Switzerland, is doubled or trebled by the effect of the duty.” The Customs Controller, whose fate it is to put into operation a Protectionist tariff of a great number of items, has to make it arbitrary and irritating for fear of being accused of Free Trade leanings. “And the result?” asks M. Hayem. “It is practically impossible for any French manufacturer to introduce any of the really new materials which are fashionable in foreign markets. Should he do in spite of the exorbitant duties, he is faced with two almost equally irritating consequences: the home consumer has to pay a much higher price than is paid for the same goods abroad; abroad the manufacturer is at a great disadvantage compared to his foreign competitors. Unable to do anything, he sees orders escape him while for lack of raw material he has to keep his workmen in idleness.”
+
+And the yarn industry was in just the same position. The French weavers of Little Armentières and Cholet declared that they could not produce linens equal to the Irish; even enormous duties on Irish linen did not encourage French manufacturers, but, as M. Julien Hayem asserts, “they extinguished the linen-drapery manufacturer for which linen was the raw material.” These quotations sufficiently demonstrate that protection to cotton and linen did not raise wages in the linen-drapery business; they suffered from it.

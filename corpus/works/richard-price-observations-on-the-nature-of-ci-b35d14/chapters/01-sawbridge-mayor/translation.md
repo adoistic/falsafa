@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 1
-chapter_title: SAWBRIDGE, Mayor.
+chapter_title: Sawbridge, Mayor.
 chapter_slug: "01-sawbridge-mayor"
 variant_id: "98d88a1a-b3cb-5aa4-9202-b11ea1d947ae"
 content_type: translation

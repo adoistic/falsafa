@@ -1,0 +1,26 @@
+{
+  "work_slug": "a-v-dicey-lectures-on-the-relation-between-340c4e",
+  "work_title": "Lectures on the Relation between Law and Public Opinion in England",
+  "chapter_number": 19,
+  "chapter_title": "Lecture VI: The Period of Benthamism or Individualism",
+  "chapter_slug": "19-lecture-vi-the-period-of-benthamism-or-individuali",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "01b81668-c681-5b2c-91db-a023e422ce18",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1934,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919"
+    }
+  ]
+}

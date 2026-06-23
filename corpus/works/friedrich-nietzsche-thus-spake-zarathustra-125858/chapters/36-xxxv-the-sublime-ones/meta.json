@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 36,
+  "chapter_title": "XXXV. The Sublime Ones.",
+  "chapter_slug": "36-xxxv-the-sublime-ones",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1cac4787-537f-5bcb-be0a-05a14b7320c3",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 686,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8b56d3b2-8844-52aa-be0f-6e32dd1560d3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 758,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

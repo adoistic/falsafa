@@ -1,0 +1,47 @@
+---
+work_id: "a4ea93cd-4902-5781-b63a-cd506adec333"
+work_slug: "rosa-luxemburg-in-defense-of-nationality-a4ea93"
+work_title: In Defense of Nationality
+author_name: Rosa Luxemburg
+chapter_number: 3
+chapter_title: 3. Our allies
+chapter_slug: "03-3-our-allies"
+variant_id: "f9b54f95-6c2b-5332-a083-af646695f0db"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1250
+source_url: "https://www.marxists.org/archive/luxemburg/1900/nationality/chap3.html"
+translator: Emal Ghamsharick
+---
+
+Among the German people there is just one party, which honestly supports us and raises not just its voice against Germanization and any injustice, but also the clenched fist. This party is Social Democracy, the party of the German workers.
+
+They draw no benefit from the persecution of Poles, as those higher classes of German society, who hunt for profits and good positions among us. The German worker, just as our Polish worker or tradesman, in general never lives off injustice he inflicts on others, but from his own hard, but honest labor. He is not the oppressor of others, but indeed oppressed himself, and therefore he feels and understands our oppression, because he is oppressed by the same ones who torment us Poles – by the German government and the parties we listed earlier.
+
+So, just as one ordinance after the other has been decreed against Poland for the last twenty years, the German government has been on a witch hunt against the German workers for decades, ever since the German people began to lift their heads, to educate themselves and fight against injustice and exploitation. Yes, they fight us mostly using administrative ordinances, but the working people in Germany were directly outlawed 22 years ago, in 1878, by the so-called Emergency Law against Socialists. Although the German Constitution guarantees all German citizens equality before the law, freedom of press, speech, conscience and association, socialist workers were neither allowed to print newspapers for their own education, nor to speak about their issues at assemblies, nor to found associations – all these acts were punished with imprisonment. For eleven full years, the German workers were without rights, and during this time, thousands of them languished behind prison walls, hundreds had to leave their country, their own fatherland, to escape persecution, had to abandon their wives and children to hunger and misery, while they sought a hospitable roof, civil freedom and equality before the law in other countries.
+
+And who was the main culprit of this persecution? The same Bismarck, who began the extermination of Polish identity by starting the Colonization Fund and by Germanizing the schools in the Poznan province, the same German aristocrats and factory owners, who actively or passively supported Hakatism. And who now finally betrayed the German working people? The same “Catholic” party, Zentrum, which also left the Polish question to oblivion, which has turned from a fighter for civil equality into a pillar of the government and its oppression.
+
+The German working people therefore have the same enemies in their own country, suffer from the same oppression, so they are our natural allies, our friends. The Social Democratic Party recognizes no distinction of language or of faith; every oppressed and disadvantaged person is its brother, it condemns and seeks to eradicate all injustice. It is the only party which protects the common people against aristocrats and capitalists and oppressed nations against their persecutors.
+
+The Polish newspapers in the Poznan province occasionally write muddle about Social Democracy: That it is the greatest danger, greater than the Hakatists, because Socialists want to introduce anarchy, i.e. stand the world upside down, abolish religion, introduce widespread fornication of women, divide up the wealth of the rich, etc. This is silly talk, and those who spread it are either fools or wicked liars, who want to throw sand into the eyes of the common people.
+
+The Socialists would never dream of turning the world upside down, because it is already standing on its head. Is it not a twisted order that millions of common people sweat from daybreak to night – in workshops, factories, on fields or in coal mines – and in return hardly have a bite of bread and miserable nook to call their home? The lords and ladies, the factory owners, who don’t lift a finger all their lives, pocket the profits, ride in carriages, drink champagne and live in palaces! It is exactly the Socialists who want to put the world back on its feet and introduce an order, where those who work honestly have plenty for themselves and their families, but the idlers, who feed off others’ work, get nothing.
+
+Equally amusing are those who say, that the Socialists want to abolish family life and introduce widespread immorality. Is not the family life of millions of working families already destroyed, because the wife and mother must earn money, has no time to watch the children, and often does not know wherewith to clothe and feed them? Are not already hundreds of poor seamstresses in Poznan forced by need into commercial fornication? And who is to blame? Not the Socialists, but the gentlemen factory owners and clothing manufacturers, who do not even pay the poor girls enough to live off for sitting all day over the needle. Yes, the Socialists want to abolish exactly this exploitation and secure an ample livelihood for every honest woman, so she need not become a prostitute!
+
+Finally, the Socialists allegedly want to abolish religion! Whoever believes this sassy fairy-tale must be really stupid, because Bismarck and those who declared war on the Catholics with him are the ones who are abolishing religion. The Socialists, however, were the mortal enemies of Bismarck and his cronies, for precisely this reason and for other crimes, and declared always and everywhere: Each hold on to the belief and convictions he considers right, no one is entitled to rape the human conscience! The best evidence, however, for the Socialists’ defense of freedom of religion and conviction is that the Social Democrats in parliament vote for the return of the Jesuit priests to Germany every time.
+
+Likewise, Social Democracy is the first and so far only party to take the side of our persecuted nationality. Immediately after the assault by Minister Studt, the Social Democrats were the first to call a large popular assembly in Lambertstaal (Poznan) on 15 August 1900, to protest against this method of Germanization. The Polish bourgeoisie, embarrassed by this power of the Socialists, only under great effort managed to call an assembly on 8 September.
+
+On its convention in Mainz in September 1900, the Social Democrats dealt with the Polish question right on the first day, expressed their utmost indignation about the government’s actions and unanimously accepted the following proposal by deputies from Poznan:
+
+The party convention calls the parliamentary group to address in the Reichstag the newest measures against the use of the Polish language in the schools of the Poznan province by the Prussian government and to emphatically combat the treatment of Poles as second-class citizens.
+
+Of all political parties, Social Democracy was the first and so far only to denounce in parliament the system of government Hakatism and to demand punishment for the originators of this system.
+
+This party therefore is the only in German society we rely on and on whose help and friendship we can count. And that is no small help, because the Social Democrats already have 56 members in parliament and are the strongest party in the state. At the recent elections they won 2¼ million votes. This party has been growing for a year like an avalanche, all the exploited, oppressed and disadvantaged people flock to its banner, while the government, the nobility and the capitalists look with horror at the growing power of the working people. This party is also where the Polish workers must seek refuge, only here can they expect fraternal support and protection against the violence of the German government.

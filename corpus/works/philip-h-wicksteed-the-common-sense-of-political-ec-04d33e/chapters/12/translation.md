@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 12
-chapter_title: "CHAPTER IX: DISTRIBUTION. COST OF PRODUCTION"
+chapter_title: "Chapter IX: Distribution. Cost of Production"
 chapter_slug: 12
 variant_id: "9738f3a0-e5b1-5dac-9513-a60ea74e5e3b"
 content_type: translation

@@ -4,7 +4,7 @@ work_slug: "niccolo-machiavelli-the-art-of-war-d88d73"
 work_title: The Art of War
 author_name: Niccolò Machiavelli
 chapter_number: 8
-chapter_title: SEVENTH BOOK
+chapter_title: Seventh Book
 chapter_slug: "08-seventh-book"
 variant_id: "7c623519-11bf-5c83-8794-3ba683599683"
 content_type: translation

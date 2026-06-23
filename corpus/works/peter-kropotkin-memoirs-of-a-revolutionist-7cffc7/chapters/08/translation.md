@@ -1,0 +1,97 @@
+---
+work_id: "7cffc718-3bcb-59e5-9a8f-221624d15fd5"
+work_slug: "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7"
+work_title: Memoirs of a Revolutionist
+author_name: Peter Kropotkin
+chapter_number: 8
+chapter_title: "Part 1: Childhood, Section 6"
+chapter_slug: 08
+variant_id: "17de36cc-9673-56bb-a020-afb16dbc4a6d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2615
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1899/memoirs-of-a-revolutionist/part-1-section-6.html"
+translator: Marxists Internet Archive edition
+---
+
+Wealth was measured in those times by the number of "souls " that a landed proprietor owned. So many "souls" meant so many male serfs: women did not count. My father, who owned nearly twelve hundred souls, in three different provinces, and who had, in addition to his peasants' holdings, large tracts of land which were cultivated by these peasants, was accounted a rich man. He lived up to his reputation, which meant that his house was open to any number of visitors, and that he kept a very large household.
+
+We were a family of eight, occasionally of ten or twelve; but fifty servants at Moscow, and half as many more in the country, were considered not one too many. Four coachmen to attend a dozen horses, three cooks for the masters and two more for the servants, a dozen men to wait upon us at dinner-time (one man, plate in hand, standing behind each person seated at the table), and girls innumerable in the maid-servants' room, how could any one do with less than this?
+
+Besides, the ambition of every landed proprietor was that everything required for his household should be made at home, by his own men.
+
+"How nicely your piano is always tuned! I suppose Herr Schimmel must be your tuner?" perhaps a visitor would remark.
+
+To be able to answer, "I have my own piano-tuner" was in those times the correct thing.
+
+"What beautiful pastry!" the guests would exclaim, when a work of art, composed of ices and pastry, appeared toward the end of the dinner. "Confess, prince, that it comes from Tremblé " (the fashionable pastry-cook).
+
+"It is made by my own confectioner, a pupil of Tremblé, whom I have allowed to show what he can do," was a reply which elicited general admiration.
+
+To have embroideries, harnesses, furniture,- in fact, everything,- made by one's own men was the ideal of the rich and respected landed proprietor. As soon as the children of the servants attained the age of ten, they were sent as apprentices to the fashionable shops, where they were obliged to spend five or seven years chiefly in sweeping, in receiving an incredible number of thrashings, and in running about town on errands of all sorts. I must own that few of them became masters of their respective arts. The tailors and the shoemakers were found only skillful enough to make clothes or shoes for the servants, and when a really good pastry was required for a dinner-party it was ordered at Tremblé's, while our own confectioner was beating the drum in the band.
+
+That band was another of my father's ambitions, and almost every one of his male servants, in addition to other accomplishments, was a bass-viol or a clarinet in the band. Makár, the piano-tuner, alias under-butler, was also a flutist; Andréi, the tailor, played the French horn; the confectioner was first put to beat the drum, but he misused his instrument to such a deafening degree that a tremendous trumpet was bought for him, in the hope that his lungs would not have the power to make the same noise as his hands; when, however, this last hope had to be abandoned, he was sent to be a soldier. As to "spotted Tíkhon," in addition to his numerous functions in the household as lamp-cleaner, floor-polisher, and footman, he rendered himself useful in the band, to-day as a trombone, tomorrow as a bassoon, and occasionally as second violin.
+
+The two first violins were the only exceptions to the rule: they were "violins," and nothing else. My father had bought them, with their large families' for a handsome sum of money, from his sisters (he never bought serfs from nor sold them to strangers). In the evenings when he was not at his club, or when there was a dinner or an evening party at our house, the band of twelve to fifteen musicians was summoned. They played very nicely, and were in great demand for dancing-parties in the neighborhood; still more when we were in the country. This was, of course, a constant source of gratification to my father, whose permission had to be asked to get the assistance of his band.
+
+Nothing, indeed, gave him more pleasure than to be asked for help, either in the way mentioned or in any other: for instance, to obtain free education for a boy, or to save somebody from a punishment inflicted upon him by a law court. Although he was liable to fall into fits of rage, he was undoubtedly possessed of a natural instinct toward leniency, and when his patronage was requested he would write scores of letters in all possible directions, to all sorts of persons of high standing, in favor of his protégé. At such times, his mail, which was always heavy, would be swollen by half a dozen special letters, written in a most original, semiofficial, and semi-humorous style; each of them sealed, of course, with his arms, in a big square envelope, which rattled like a baby-rattle on account of the quantity of sand it contained, --- the use of blotting-paper being then unknown. The more difficult the case, the more energy he would display, until he secured the favor he asked for his protégé, whom in many cases he never saw.
+
+My father liked to have plenty of guests in his house. Our dinner-hour was four, and at seven the family gathered round the samovar (tea-urn) for tea. Every one belonging to our circle could drop in at that hour, and from the time my sister Hélène was again with us there was no lack of visitors, old and young' who took advantage of the privilege. When the windows facing the street showed bright light inside, that was enough to let people know that the family was at home and friends would be welcome.
+
+Nearly every night we had visitors. The green tables were opened in the hall for the card-players, while the ladies and the young people stayed in the reception-room or around Hélène's piano. When the ladies had gone, card playing continued sometimes till the small hours of the morning, and considerable sums of money changed hands among the players. Father invariably lost. But the real danger for him was not at home: it was at the English Club, where the stakes were much higher than in private houses, and especially when he was induced to join a party of "very respectable" gentlemen, in one of the "most respectable" houses of the Old Equerries' Quarter, where gambling went on all night. On an occasion of this kind his losses were sure to be heavy.
+
+Dancing-parties were not infrequent, to say nothing of a couple of obligatory balls every winter. Father's way, in such cases, was to have everything done in a good style, whatever the expense. But at the same time such niggardliness was practiced in our house in daily life that if I were to recount it, I should be accused of exaggeration. It is said of a family of pretenders to the throne of France, renowned for their truly regal hunting-parties, that in their every-day life even the tallow candles are minutely counted. The same sort of miserly economy ruled in our house with regard to everything; so much so that when we, the children of the house, grew up, we detested all saving and counting. However, in the Old Equerries' Quarter such a mode of life only raised my father in public esteem. "The old prince," it was said, "seems to be sharp over money at home; but he knows how a nobleman ought to live."
+
+In our quiet and clean lanes that was the kind of life which was most in respect. One of our neighbors' General D~, kept his house up in very grand style; and yet the most comical scenes took place every morning between him and his cook. Breakfast over, the old general, smoking his pipe, would himself order the dinner.
+
+"Well, my boy," he would say to the cook, who appeared in snow-white attire, "to-day we shall not be many; only a couple of guests. You will make us a soup, you know, with some spring delicacies, --- green peas, French beans, and so on. You have not given us any as yet, and madam, you know, likes a good French spring soup."
+
+"Yes, sir."
+
+"Then, anything you like as an entree."
+
+"Yes, sir."
+
+"Of course, asparagus is not yet in season, but I saw yesterday such nice bundles of it in the shops."
+
+"Yes, sir; eight shillings the bundle."
+
+"Quite right! Then, we are sick of your roasted chickens and turkeys; you ought to get something for a change."
+
+"Some venison, sir?"
+
+" Yes, yes; anything for a change."
+
+And when the six courses of the dinner had been decided on, the old general would ask, " Now, how much shall I give you for to-day's expenses? Six shillings will do, I suppose?"
+
+"One pound, sir."
+
+"What nonsense, my boy ! here are six shillings; I assure you that's quite enough."
+
+"Eight shillings for asparagus, five for the vegetables."
+
+"Now, look here, my dear boy, be reasonable. I 'l1 go as high as seven-and-six, and you must be economical."
+
+And the bargaining would go on thus for half an hour, until the two would agree upon fourteen shillings and sixpence, with the understanding that the morrow's dinner should not cost more than three shillings. Whereupon the general, quite happy at having made such a good bargain, would take his sledge, make a round of the fashionable shops, and return quite radiant, bringing for his wife a bottle of exquisite perfume, for which he had paid a fancy price in a French shop, and announcing to his only daughter that a new velvet mantle --- " something very simple" and very costly --- would be sent for her to try on that afternoon.
+
+All our relatives, who were numerous on my father's side, lived exactly in the same way; and if a new spirit occasionally made its appearance, it usually took the form of some religious passion. Thus, a Prince Gagárin joined the Jesuit order, again to the scandal of " all Moscow; " another young prince entered a monastery, while several older ladies became fanatic devotees.
+
+There was a single exception. One of our nearest relatives, Prince --- let me call him Mírski, had spent his youth at St. Petersburg as an officer of the guard. He took no interest in keeping his own tailors and cabinet-makers, for his house was furnished in a grand modern style, and his wearing apparel was all made in the best St. Petersburg shops. Gambling was not his propensity, --- he played cards only when in company with ladies; but his weak point was his dinner-table, upon which he spent incredible sums of money.
+
+Lent and Easter were his chief epochs of extravagance. When the Great Lent came, and it would not have been proper to eat meat, cream, or butter, he seized the opportunity to invent all sorts of delicacies in the way of fish. The best shops of the two capitals were ransacked for that purpose; special emissaries were dispatched from his estate to the mouth of the Vólga, to bring back on post-horses (there was no railway at that time) a sturgeon of great size or some extraordinarily cured fish. And when Easter came, there was no end to his inventions.
+
+Easter, in Russia, is the most venerated and also the gayest of the yearly festivals. It is the festival of spring.The immense heaps of snow which have been lying during the winter along the streets rapidly thaw, and roaring streams run down the streets; not like a thief who creeps in by insensible degrees, but frankly and openly spring comes, --- every day bringing with it a change in the state of the snow and the progress of the buds on the trees; the night frosts only keep the thaw within reasonable bounds. The last week of the Great Lent, Passion Week, was kept in Moscow, in my childhood, with extreme solemnity; it was a time of general mourning, and crowds of people went to the churches to listen to the impressive reading of those passages of the Gospels which relate the sufferings of the Christ. Not only were meat, eggs, and butter not eaten, but even fish was refused; some of the most rigorous taking no food at all on Good Friday. The more striking was the contrast when Easter came.
+
+On Saturday every one attended the night service, which began in a mournful way. Then, suddenly, at midnight, the resurrection news was announced. All the churches were at once illuminated, and gay peals of bells resounded from hundreds of bell-towers. General rejoicing began. All the people kissed one another thrice on the cheeks, repeating the resurrection words, and the churches, now flooded with light, shone with the gay toilettes of the ladies. The poorest woman had a new dress; if she had only one new dress a year, she would get it for that night.
+
+At the same time, Easter was, and is still, the signal for a real debauch in eating. Special Easter cream cheeses (páskha) and Easter bread (koolích) are prepared; and every one, no matter how poor he or she may be, must have be it only a small paskha and a small koolich, with at least one egg painted red, to be consecrated in the church, and to be used afterwards to break the Lent. With most old Russians, eating began at night, after a short Easter mass, immediately after the consecrated food had been brought from church; but in the houses of the nobility the ceremony was postponed till Sunday morning, when a table was covered with all sorts of viands, cheeses and pastry, and all the servants came to exchange with their masters three kisses and a red-painted egg. Throughout Easter week a table spread with Easter food stood in the great hall, and every visitor was invited to partake.
+
+On this occasion Prince Mírski surpassed himself. Whether he was at St. Petersburg or at Moscow, messengers brought to his house, from his estate, a specially prepared cream cheese for the paskha, and his cook managed to make out of it a piece of artistic confectionery. Other messengers were dispatched to the province of Nóvgorod to get a bear's ham, which was cured for the prince's Easter table. And while the princess, with her two daughters, visited the most austere monasteries, in which the night service would last three or four hours in succession, and spent all Passion Week in the most mournful condition of mind, eating only a piece of dry bread between the visits she paid to Russian, Roman, and Protestant preachers, her husband made every morning the tour of the well-known Milútin shops at St. Petersburg, where all possible delicacies are brought from the ends of the earth. There he used to select the most extravagant dainties for his Easter table. Hundreds of visitors came to his house, and were asked " just to taste " this or that extraordinary thing.
+
+The end of it was that the prince managed literally to eat up a considerable fortune. His richly furnished house and beautiful estate were sold, and when he and his wife were old they had nothing left, not even a home, and were compelled to live with their children.
+
+No wonder that when the emancipation of the serfs came, nearly all these families of the Old Equerries' Quarter were ruined. But I must not anticipate events.

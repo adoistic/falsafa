@@ -1,0 +1,26 @@
+{
+  "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
+  "work_title": "An Essay on Crimes and Punishments",
+  "chapter_number": 3,
+  "chapter_title": "An Essay on Crimes and Punishments, Chapter I.: Of the Origin of Punishments.",
+  "chapter_slug": "03-an-essay-on-crimes-and-punishments-chapter-i-of-th",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd676800-fd35-57d6-9be8-543d85ee1038",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 276,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+    }
+  ]
+}

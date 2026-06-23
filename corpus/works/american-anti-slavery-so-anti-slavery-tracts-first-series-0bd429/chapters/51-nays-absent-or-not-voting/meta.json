@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 51,
+  "chapter_title": "Nays, Absent, or Not Voting.",
+  "chapter_slug": "51-nays-absent-or-not-voting",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "194d372c-b31e-5269-bf74-15188e6bba18",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 21017,
+      "paragraph_count": 239,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

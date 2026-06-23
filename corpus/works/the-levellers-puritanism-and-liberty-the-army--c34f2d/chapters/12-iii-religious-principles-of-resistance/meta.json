@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 12,
+  "chapter_title": "III.: Religious Principles of Resistance",
+  "chapter_slug": "12-iii-religious-principles-of-resistance",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d4d03024-e746-5917-bb06-db23f7001205",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13912,
+      "paragraph_count": 80,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

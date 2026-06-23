@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-problems-of-mind-and-morals-97554e",
+  "work_title": "Problems of Mind and Morals",
+  "chapter_number": 3,
+  "chapter_title": "II. The Problem of History and Methods for Its Solution",
+  "chapter_slug": "03-ii-the-problem-of-history-and-methods-for-its-solu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e96e1fe-08b4-545e-b00c-2abca5d2f6d3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4952,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1912/probs/02-history.htm"
+    }
+  ]
+}

@@ -1,137 +1,72 @@
 [
   {
-    "id": "p-e0bbc0",
+    "id": "p-e1b321",
     "offset": 0,
-    "text": "*Of the Reduction of the Disjunctive Syllogism.*"
+    "text": "*Of the Disjunctive Syllogism*."
   },
   {
-    "id": "p-8711b4",
-    "offset": 50,
-    "text": "§ 766. We have seen that in the disjunctive syllogism the two constructive moods alone are formally valid. The first of these, namely, the denial of the antecedent, will in all cases give a simple syllogism in the first figure; the second of them, namely, the denial of the consequent, will in all cases give a simple syllogism in the second figure."
+    "id": "p-4cf049",
+    "offset": 33,
+    "text": "§ 760. Roughly speaking, a Disjunctive Syllogism results from the combination of a disjunctive with a simple premiss. As in the preceding form, the complex proposition is regarded as the major premiss, since it lays down a hypothesis, which is applied to fact in the minor."
   },
   {
-    "id": "p-f94b65",
-    "offset": 401,
-    "text": "*Denial of Antecedent* = Barbara."
+    "id": "p-b1bd1b",
+    "offset": 308,
+    "text": "§ 761. The Disjunctive Syllogism may be exactly defined as follows--"
   },
   {
-    "id": "p-1b35b4",
-    "offset": 436,
-    "text": "Either A is B or C is D. A is not B. .'.C is D"
+    "id": "p-a64187",
+    "offset": 378,
+    "text": "A complex syllogism, which has for its major premiss a disjunctive proposition, either the antecedent or consequent of which is in the minor premiss simply affirmed or denied."
   },
   {
-    "id": "p-7e2e68",
-    "offset": 484,
-    "text": "is equal to"
+    "id": "p-2c002a",
+    "offset": 555,
+    "text": "§ 762. Thus there are four types of disjunctive syllogism possible."
   },
   {
-    "id": "p-7e2e68",
-    "offset": 497,
-    "text": "is equal to"
+    "id": "p-ec51d5",
+    "offset": 624,
+    "text": "*Constructive Moods.*"
   },
   {
-    "id": "p-095f58",
-    "offset": 510,
-    "text": "All cases of A not being B are cases of C being D. This is a case of A not being B. .'. This is a case of C being D."
+    "id": "p-b27040",
+    "offset": 647,
+    "text": "Either death is annihilation or we are immortal. Death is not annihilation. .'. We are immortal."
   },
   {
-    "id": "p-ab616a",
-    "offset": 628,
-    "text": "*Denial of Consequent* = Camestres."
+    "id": "p-79ae2e",
+    "offset": 745,
+    "text": "Either the water is shallow or the boys will be drowned. The boys are not drowned. .'. The water is shallow."
   },
   {
-    "id": "p-466a8e",
-    "offset": 665,
-    "text": "Either A is E or C is D. C is not D. .'. A is B."
+    "id": "p-76f806",
+    "offset": 855,
+    "text": "*Destructive Moods*."
   },
   {
-    "id": "p-7e2e68",
-    "offset": 715,
-    "text": "is equal to"
+    "id": "p-3ebc55",
+    "offset": 877,
+    "text": "§ 763. Of these four, however, it is only the constructive moods that are formally conclusive. The validity of the two destructive moods is contingent upon the kind of alternatives selected. If these are such as necessarily to exclude one another, the conclusion will hold, but not otherwise. They are of course mutually exclusive whenever they embody the result of a correct logical division, as 'Triangles are either equilateral, isosceles or scalene.' Here, if we affirm one of the members, we are justified in denying the rest. When the major thus contains the dividing members of a genus, it may more fitly be symbolized under the formula, 'A is either B or C.' But as this admits of being read in the shape, 'Either A is B or A is C,' we retain the wider expression which includes it. Any knowledge, however, which we may have of the fact that the alternatives selected in the major are incompatible must come to us from material sources; unless indeed we have confined ourselves to a pair of contradictory terms (A is either B or not-B). There can be nothing in the form of the expression to indicate the incompatibility of the alternatives, since the same form is employed when the alternatives are palpably compatible. When, for instance, we say, 'A successful student must be either talented or industrious,' we do not at all mean to assert the positive incompatibility of talent and industry in a successful student, but only the incompatibility of their negatives--in other words, that, if both are absent, no student can be successful. Similarly, when it is said, 'Either your play is bad or your luck is abominable,' there is nothing in the form of the expression to preclude our conceiving that both may be the case."
   },
   {
-    "id": "p-7e2e68",
-    "offset": 728,
-    "text": "is equal to"
+    "id": "p-399b12",
+    "offset": 2610,
+    "text": "§ 764. There is no limit to the number of members in the disjunctive major. But if there are only two alternatives, the conclusion will be a simple proposition; if there are more than two, the conclusion will itself be a disjunctive. Thus--"
   },
   {
-    "id": "p-bafe24",
-    "offset": 741,
-    "text": "All cases of A not being B are cases of C being D. This is not a case of C being D. .'. This is not a case of A being B."
+    "id": "p-33f12a",
+    "offset": 2852,
+    "text": "Either A is B or C is D or E is F or G is H. E is not F. .'. Either A is B or C is D or G is H."
   },
   {
-    "id": "p-caa45a",
-    "offset": 863,
-    "text": "§ 767. The other moods of the first and second figures can be obtained by varying the quality of the antecedent and consequent in the major premiss and reducing the quantity of the minor."
+    "id": "p-f68848",
+    "offset": 2949,
+    "text": "§ 765. The Canon of the Disjunctive Syllogism may be laid down as follows--"
   },
   {
-    "id": "p-65131b",
-    "offset": 1052,
-    "text": "§ 768. The invalid destructive moods correspond with the two invalid types of the partly conjunctive syllogism, and have the same fallacies of simple syllogism underlying them. Affirmation of the antecedent of a disjunctive is equivalent to the semi-conjunctive fallacy of denying the antecedent, and therefore involves the ordinary syllogistic fallacy of illicit process of the major."
-  },
-  {
-    "id": "p-faa2b0",
-    "offset": 1439,
-    "text": "Affirmation of the consequent of a disjunctive is equivalent to the same fallacy in the semi-conjunctive form, and therefore involves the ordinary syllogistic fallacy of undistributed middle."
-  },
-  {
-    "id": "p-d0784c",
-    "offset": 1632,
-    "text": "*Affirmation of Antecedent* = *Illicit Major*."
-  },
-  {
-    "id": "p-a7c998",
-    "offset": 1680,
-    "text": "Either A is B or C is D. A is B. .'. C is not D."
-  },
-  {
-    "id": "p-7e2e68",
-    "offset": 1730,
-    "text": "is equal to"
-  },
-  {
-    "id": "p-7e2e68",
-    "offset": 1743,
-    "text": "is equal to"
-  },
-  {
-    "id": "p-b8ec36",
-    "offset": 1756,
-    "text": "All cases of A not being B are cases of C being D. This is not a case of A not being B. .'. This is not a case of C not being D."
-  },
-  {
-    "id": "p-59986a",
-    "offset": 1886,
-    "text": "*Affirmation of Consequent* = *Undistributed Middle*."
-  },
-  {
-    "id": "p-6922c8",
-    "offset": 1941,
-    "text": "Either A is B or C is D. C is D."
-  },
-  {
-    "id": "p-7e2e68",
-    "offset": 1975,
-    "text": "is equal to"
-  },
-  {
-    "id": "p-4a285e",
-    "offset": 1988,
-    "text": "If A is not B, C is D. C is D."
-  },
-  {
-    "id": "p-7e2e68",
-    "offset": 2020,
-    "text": "is equal to"
-  },
-  {
-    "id": "p-aa56f4",
-    "offset": 2033,
-    "text": "All cases of A not being B are cases of C being D. This is a case of C being D."
-  },
-  {
-    "id": "p-6d96c4",
-    "offset": 2114,
-    "text": "§ 769. So far as regards the consequent, the two species of complex reasoning hitherto discussed are identical both in appearance and reality. The apparent difference of procedure in the case of the antecedent, namely, that it is affirmed in the partly conjunctive, but denied in the disjunctive syllogism, is due merely to the fact that in the disjunctive proposition the truth of the consequent is involved in the falsity of the antecedent, so that the antecedent being necessarily negative, to deny it in appearance is in reality to assert it."
+    "id": "p-cf7277",
+    "offset": 3026,
+    "text": "To deny one member is to affirm the rest, either simply or disjunctively; but from affirming any member nothing follows."
   }
 ]

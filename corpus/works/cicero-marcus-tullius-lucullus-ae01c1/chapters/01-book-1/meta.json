@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-lucullus-ae01c1",
+  "work_title": "Lucullus",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aa011d92-74df-5740-92f1-e14b6bb45607",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 18149,
+      "paragraph_count": 147,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi046"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca336b53-2b18-5e3f-85a2-0f57ff57bce2",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 27023,
+      "paragraph_count": 147,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

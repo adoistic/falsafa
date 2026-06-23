@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 8,
+  "chapter_title": "Remarks on Books on the Natural Sciences and Philosophy in the Sorbonne Library",
+  "chapter_slug": "08-remarks-on-books-on-the-natural-sciences-and-philo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "47b027a3-553b-5fba-9a04-16b6b310a76e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 376,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1909/misc/x01.htm"
+    }
+  ]
+}

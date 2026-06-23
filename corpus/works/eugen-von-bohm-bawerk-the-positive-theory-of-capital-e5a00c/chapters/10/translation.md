@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c"
 work_title: The Positive Theory of Capital
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 10
-chapter_title: "Book II, Chapter I: Introductory"
+chapter_title: "Book II: Capital as Instrument of Production, Book II, Chapter I: Introductory"
 chapter_slug: 10
 variant_id: "c95029c5-ae9c-51aa-99f3-0b8cd20db65a"
 content_type: translation

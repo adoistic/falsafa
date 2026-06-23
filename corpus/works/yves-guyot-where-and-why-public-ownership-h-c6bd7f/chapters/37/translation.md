@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 37
-chapter_title: "CHAPTER IV: OFFICIAL CONSERVATISM"
+chapter_title: "Chapter VI: The Consumer"
 chapter_slug: 37
 variant_id: "3a269005-4033-5a42-a9e6-1a10aacebb78"
 content_type: translation
@@ -13,67 +13,213 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1894
+word_count: 5175
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-Industrial Progress Due to Individuals Not to Governments.—Official Conservatism.—Dread of Innovation.—Departmental Drinking Water.—The Grinding Stones of the Bureau of Public Charities.—Telephones.—Private and Public Management.—Causes of the Backwardness of the Electric Industry in Great Britain.—Tools in the Workshops of the Ministry of War.—Labor Economy.—Work for the Workers and Not for the Service.
+The Consumer of an Extortionate Monopoly Is Without Redress.—The Sole Remedy; To Go Without.—Water in Paris.—Short Allowance.—Government Matches.—Tobacco.—Deceptions in Quantity and Quality.—The Consumer a Dependent, Not a Contracting Party.—The Postoffice.—The Telephone.—The Privilege of Patience and Good Temper Left to Telephone Subscribers.—Subscription Rates in France.—The Telephone in Great Britain.—The Prussian Government Railway Lines Form a Trust.—Private and Municipal Employment Bureaus.
 
-Industrial progress is due to individuals, not to governments. No state discovered gravitation, and, if humanity had waited for governments to apply steam and electricity to our daily needs, we should have neither railways, telephones, nor telegraphs.
+Under a régime of economic liberty the manufacturer and the merchant need the consumer more than the consumer needs them. Under a monopolistic régime the consumer has but one duty—to submit. He has but one other recourse—to go without.
 
-The official is naturally a conservative, and every innovation frightens him, because he is never sure how it will turn out. If he is progressive he is thwarted by the inertia of the organization of which he is a member. Should we go so far as to imagine the administrative group to which he belongs as being other than inhibitive and inert other groups would still have to be considered. In any case, it is always necessary to obtain appropriations or special authority beforehand in order to establish any public undertaking. By insisting upon changes he must assume some Edition: current; Page: [293] risk, even if it is only a burden of responsibility, and, as the personal hazards to be run are great, and the personal profit contingent or insignificant, things are generally left as they are.
+Now, if there is any service which ought to be provided on a large scale it is water. Yet nearly everywhere the demand is greater than the supply. Paris has always lagged behind. There has scarcely been a summer when, under one pretext or another, there has not been an interruption in the water service.
 
-This administrative lethargy is found even in those government or municipal enterprises which ought to be most progressive.
+We have become used to being told that our faucets will be shut off during the night, and that, if we have not taken proper precautions, we run the risk of a temporary water famine. If a fire should break out we would not have even a pitcher of water to extinguish it.
 
-For example, the ministry of Public Works in France is entrusted with the supervision of the Paris water works. When I became minister in 1889 I found, to my great astonishment, that the minister and the employees of the bureau had nothing to drink but the water of the Seine. According to the Matin, of March 20, 1906, the minister of the Interior, whose department includes that of Sanitation, was drinking Seine water at that date. The Bureau of Public Charities of Paris is still using grinding stones; it is considering transforming them into cylinders. Such facts as these, however, never hinder public officials from making complimentary speeches and reports extolling the foresight, solicitude and competence of the government.
+At the same time official warnings are incessant against wasting water—as though there were a limit to the supply. Here we have the very quintessence of monopoly. Inactive themselves, the municipal councillors content themselves with interfering with the freedom of action of others.
 
-The Swiss Federal railways have always been opposed to the creation of new lines which might involve competition. In fact, the department has demanded that every new franchise be submitted to it. Its decision was unfavorable to the Loetschberg and Moutiers-Longeau line, which is to bring the canton of Bern into direct connection with the Simplon tunnel. Although the canton of Bern has been able to overcome this opposition, weaker cantons may not be able to do so.
+The employees of a monopoly through all the degrees of the hierarchy know their power and use it. We have already seen this in the case of tobacco. But let me illustrate by one or two other examples.
 
-I have already outlined the rivalry of the Prussian railways and the waterways.
+All those who must use government matches have complained, not alone of their quality, but even of their quantity.
 
-The different state departments cherish a certain esprit de corps, and each considers as an attempt made against itself any proposition, however useful, which might interfere with its own development.
+Ten centime boxes, which bear upon their wrapper, “Swedish matches, 60 matches,” are passable, although they generally contain a certain number of uninflammable bits of wood. But lately, in the country, I have had to content myself with boxes at 5 centimes, bearing a label: “French matches, 50 matches.”
 
-In his book entitled Public Ownership of Telephones on the Continent of Europe, A. N. Holcombe states that, except in Germany and Switzerland, the telephone has been introduced by private enterprise throughout all Europe. To-day, except in Denmark and Spain, this practice has been given up. A government having centralized the administration of the telegraph could not consistently permit the telephone to remain in the hands of private interests. When the telephone first appeared it was universally opposed by the conservative departments in charge of the public telegraph service. They saw in it a competitor whose influence must be counteracted. Later, as soon as it was perceived that the new utility would survive such treatment, nearly every government decided to absorb it.
+I observe that the difference in the cost of the matches is offset by a difference of 10 matches in the cheaper box, or 17 per cent. less. Matches which will light are the exception.
 
-When the telephone in its turn had become a government service it also systematically opposed the development of all other electrical industries, especially those using currents at high frequency, in order to protect their weaker current systems. Technical progress would assuredly have been more rapid under a system of competition. On the whole, Mr. Holcombe is favorably impressed with the organization of the German telephone service, but he states that in 1902 Edition: current; Page: [295] the telephones were four times more numerous in the United States than in Germany.
+Now please notice that in our democratic country these cheaper matches are provided for people in poor circumstances. Yet the department is deceiving them in regard to the quality of the goods.
 
-In Great Britain, in 1880, the telephone was legally declared to be a telegraph, and ultimately it became a monopoly under the postmaster-general. In 1911 there were only 644,000 telephones in use in the United Kingdom, while if the proportion had been the same as that of the United States it would have had 3,000,000.
+In order to sell its matches, the government relies on wholesale and part wholesale merchants. The first must buy a supply at a minimum sum of 20,000 francs, and the second at 2,000 francs. The commission in the first case is 16 per cent. and in the second 14 per cent. The total profit from these commissions is not realized by the merchants, because they are forced to pay commissions to grocers and other retail merchants up to 10 per cent.
 
-At the annual dinner of the Institute of Electrical Engineers, February 2, 1911, its president, S. Z. Ferranti, said:
+Nevertheless, small as they were, the government determined to reduce the first-mentioned commissions, which it considered too generous, and an order of December 30, 1911, provided that, beginning with February 1, 1912, the commissions should not only be lowered to 15 and 13 per cent., respectively, but also that only those shall be considered as wholesale merchants who buy 20,000 francs'worth of matches at a time, and at least 125,000 francs'worth a month. Against this last condition, however, interested parties protested, and the director general of indirect taxes (Directeur General des Contributions Indirects) informed his departmental heads that the order aforesaid would be modified in regard to this special point. The number of middlemen was also reduced because, by demanding large sums from a few, the government could get along with a much smaller number.
 
-“We shall never know what the municipalization of electrical undertakings has cost us. It has retarded progress and is largely responsible for the backwardness of the electrical industry in Great Britain.”
+Occasionally those who are curious enough to investigate will find that they are being deceived as to the number of matches in the boxes sold by the government. Indeed, after a number of experiences of this character, I have become convinced that the department looks upon the consumer not as a contracting party, but as a beneficiary.
 
-In reporting the 1913 budget of the French ministry of War the Secretary, M. Benzet, writes:
+In 1906, during several weeks, if not several months, the situation of the smoker, as described by Le Journal, was about as follows:
 
-“I have observed that the equipment is everywhere inferior to that of corresponding private undertakings, and, when I ask the superintendents, ‘Why do you not make use of such or such an up-to-date machine in general use abroad as well as in France; or else, as those you have are good enough machines although they are fewer, why not multiply them since they yield such excellent results?’ I invariably receive the same answer: ‘We cannot waste our time over the question of equipment Edition: current; Page: [296] because, as a matter of fact, that question never comes up in army and navy institutions.’
+“Yesterday, as I entered a tobacco shop, a customer was asking for a 70-centime green package of cigarettes.
 
-“And, gentlemen, this fact is only too evident; for, in getting to the bottom of things, I have found we vote appropriations for army and navy establishments without even counting them. We pour out the savings of the entire nation for the national defense to ensure the production of munitions of war, and yet it is only at the close of the fiscal year, if there is any money left, that we even think of equipment.
+“‘We haven't any,’answered the dealer.
 
-“Here is industrial inconsistency for you. A nation that pretends to be a manufacturer begins with production and it is not until later that it takes up the question of the efficiency of its indispensable machinery. It is scarcely credible that conditions such as those which I am about to describe can actually be rife at the present day.
+“‘Then give me a pink package at the same price.’
 
-“In the existing system of operation, when production is heavy there is a large demand for machinery; but this is also the time when attention to equipment can least be spared, because when production is heavy there is nothing left at the end of the year to devote to equipment.
+“‘We are out of those, too.’
 
-“On the other hand, when production begins to slacken and, consequently, manual labor is in little demand and it might be possible to employ it in repairs and constructing machinery, then, according to the regulations in vogue for many years, the working force must be reduced.”
+“The astonished customer glanced at the luxurious fittings of this large shop on the Boulevard and inquired:
 
-The Secretary afterward strove to prove that the “distressing delays” in the work of the army and navy establishments were due in large measure to extreme bureaucratic centralization. He then explained in detail the complete cycle through which a Edition: current; Page: [297] single order of the government must pass, and concluded:
+“‘How do you happen to be out of the most popular brands?’
 
-“I was anxious to discover how much time would be required to fill the simplest order. I found that no order could be executed in less than 95 days and in three-quarters of the cases the work would require 155 days. If, by an unfortunate chance, however, there is the smallest modification necessary, eight months, ten months, and even more are required.
+“‘Because the supply in the warehouse from which we order our tobacco is not large enough to meet the demand. One day it is one kind and another day another which I am refused,’added the clerk, shaking her head.
 
-“The result, as may be readily seen, is, in the first place, to cause a serious interruption in the service. I have known cases where establishments have had to hold up pressing orders to get the necessary authority from the minister for the funds required to carry out the order and deliver it before it would be too late.
+“As an actual fact, when one kind of tobacco or cigarettes is manufactured in a district, the warehouses and their customers, the retailers in that particular district, must go without all the other brands.
 
-“I have already spoken of the high cost of such work. This is due to the fact that the superintendents, knowing that there will be a considerable delay before they can obtain the necessary authority, seek to make up for lost time as far as possible by shortening the time of delivery.”
+“‘I don't know where all this will end,’continued the clerk. ‘First customers complain, then they become angry, and we can do nothing about it. And yet it is too bad to lose a sale through the fault of the manufacturer!’”
 
-As for the administration of the telegraph in France this is what I find in the Dalimier report:
+The article terminates thus:
 
-“After much hesitation the department has decided to adopt the installation of a telegraph ‘multiple.’ The first appropriations were made in the 1911 budget, but the preliminary investigations could not have been very thorough, since, despite the stations established since 1903 in the cities above mentioned, and in which the ‘multiple’ system is in operation, it was necessary, in July, 1911, to appoint technical experts to examine these systems with a view to choosing a system adapted to the needs of Paris.”
+“Many deceptions are complained of, such as cigarettes which unwrap the moment they are lighted, overmoist tobacco, etc. The inequality in the weight of the packages is especially astonishing.
 
-Protectionists and Socialists are forever harping on the old strain that governments and municipalities “ought to provide work for workers.” The enterprises resulting from such efforts, far from bringing about labor economies, must always increase labor expenses. Among the excuses assigned for shorter hours of work is found the argument that if each worker does only half duty there will be work for two workers. Then, not only must the working hours be short, but there must be no over-production during the time spent by the workmen in factory or shop. We encounter everywhere protestations against piece-work and demands for work by the hour “at which nobody need kill himself.” And not only must each man profit in some measure by the right to be lazy, proclaimed by Lafargue, but if he does not do the work for which he is paid he is accomplishing a duty of high social consequence by leaving work for his comrades.
+“One retailer weighed a certain number of packages of ordinary tobacco costing 50 centimes. Instead of the regulation weight of 40 grams, from 32 to 35 grams were found. It is only fair to add, however, that there were a few weighing 50 grams. The purchase of a 10-sou package, therefore, becomes a sort of lottery. This state of affairs occurs, it seems, because there is not time to weigh the packages in those pretty little patent scales which are so successful at world expositions, but of which there are altogether too few in the tobacco factories.”
 
-If the superintendent of the workshop wishes to introduce a machine which could do the work of four workmen he is accused of taking the work from the laborer instead of giving it to him. Consequently he immediately antagonizes all the labor organizations and all the municipal or government employees. He is starving the people. He is neglecting the fundamental duty of government and municipal undertakings. He is a traitor. And, as an official must be a hero in order to face all this wrath, he is generally careful not to provoke it. If he learns that somewhere a machine is doing the work that he succeeds in getting done only by heavy expenditure for labor, he is Edition: current; Page: [299] careful not to ask for it. If he can he will be ignorant that such a machine exists.
+Five years after the above article was written I read in the Figaro of August 20, 1912:
 
-The material and moral depression evident in every state and city undertaking is easily explicable with the above facts in mind, and I have frequently received extraordinary confidences on this subject.
+“We mentioned day before yesterday the case of a user of ‘mild tobacco’from whom was demanded the sum of 1 franc for a certain green package which bore, on the label, 80 centimes. ‘That is the old label,’was the scornful answer to the remonstrance of the customer.”
 
-The Socialist is accustomed to declare that he and his comrades are not enemies of progress, and, in spite of the facts, he will treat as calumniators those who accuse him of it. He declares that Socialists are not hostile to new processes, nor to new machinery, except when they put the workmen out of work and do more work at less expense. It follows that he accepts the new processes and the new machinery on condition that no economy is involved in their use.
+“The self-sufficience of the state as a merchant, and especially a tobacco merchant, is manifested in a number of other ways. One of our subscribers, a well-known business man, from the district of the Seine writes us:
 
-But then, what is the use?
+“‘I am a smoker (unfortunately), but I can only smoke Maryland, which comes wrapped in yellow paper at 1 franc for 40 grams. For some time now I have been losing three packages out of five because the majority of the packages of Maryland contain caporal superieur, a tobacco so strong that I cannot smoke it. In addition to the total loss of the package, which I give away to people who can endure this tobacco, I am cheated in regard to the price, since a package of caporal superieur is sold for only 80 centimes when it comes in blue packages, and, therefore, I am paying 1 franc for the same tobacco in a yellow wrapper.’
+
+“‘If, by chance, I get packages which really contain Maryland, I never get the same tobacco. Sometimes it is light, sometimes it is brown, often it is as black as the ace of spades.
+
+“‘I can show you packages of Maryland which contain nothing but caporal. . . .’”
+
+“What merchant would dare to use his customers in such a way?” asks Figaro.
+
+No private merchant, certainly, because the dealer who calls down upon himself the wrath of his customers is certain to be ruined. The government, however, can well afford to disregard its customer, the public, whom the tobacco monopoly has placed in its power.
+
+Sometimes, as in the case that I have just quoted, there is more than mere disregard of a customer, there is downright cheating as to the quality of the merchandise sold. Such an act would expose a private individual to civil damages and even severer penalties. A government can commit such an offense with impunity, for it does not consider that it is under any obligation to the consumer.
+
+Service order No. 590, issued with the best intentions by the postal authorities, illustrates the above fact with amusing naïveté:
+
+“On account of the very considerable increase in traffic in certain sections during the summer season, it is not always possible to keep to an absolutely normal course in respect to correspondence of all kinds, despite reinforcements to the overburdened service. This situation threatens to become still further aggravated this year, on account of the suppression of a very great number of temporary positions outside the regular staff which were formerly distributed among the different districts during the months of July, August, and September. There is thus cause to fear that under these conditions letters which ought always to be transmitted regularly will be delayed in distribution. With a view to offsetting this state of affairs, it would seem expedient to devise methods of causing the public the least possible inconvenience.
+
+“In order to attain this object groups of volunteers will be organized upon whom we may call, during spare time with pay, to sort out mail, the distribution of which can be delayed without undue inconvenience, viz., postal cards and printed matter.”
+
+Article 21 of the decree organizing the postal service declares that neither the department nor its employees can be held responsible. Articles 1382 and 1384 of the civil code are not applicable to them. Article 22 expressly stipulates that the Postoffice cannot be held accountable for the security of private mail.
+
+In 1905, on returning from the United States, I rediscovered in Paris all the joys of the government telephone. I rang up Central. At the end of one or two minutes there was a response of “Number, please.” Then I stood and listened to calls for other numbers, private conversations, etc., while waiting for the operator to condescend to inform me, “They do not answer,” in regard to parties whom I knew had permanent attendants at the telephone. Or perhaps I would hear the refrain “busy,” a statement which, of course, could only be verified afterward. I ventured to protest. Instead of being rewarded for patience I was penalized for 15 days. No one could reach me, nor could I telephone anyone. Finally, the department, tormented by the subscriber who complained so persistently, advised me to “Go and see the Gutenberg exchange.” I went to see the Gutenberg exchange, and there I described the system in the United States, where, in New York, even during the busy hours, you can get your party almost instantly.
+
+“‘But what can you expect?’said the official who accompanied me, and whom I happened to have met in New York; ‘they have private companies in New York.’
+
+“‘We won't quarrel on that point; but the fact remains that these private companies accomplish more than our government does.’
+
+“‘It would cost us 80,000,000 francs to introduce such a system.’
+
+“‘Isn't that a slightly exaggerated figure?’
+
+“‘We are four years behind the times, and yet you complain when you have to wait five minutes. You can see for yourself how unreasonable you are.’”
+
+It was, of course, perfectly evident that it was all my fault as well as that of all the other telephone subscribers who believe that the service ought to be prompt.
+
+In France, at any rate, the telephone is in league with the medical fraternity and the pharmacists, because it is bound to bring on neurasthenia in all those who have anything to do with it. Presumably the Government is encouraging medical consultation, the sale of bromide of potassium, and patronage of certain hot springs.
+
+At various times I have been able to demonstrate the absence of responsibility which especially characterizes government administration.
+
+You follow religiously the directions prescribed by the telephone regulations in asking for the manager. At the psychological moment the operator cuts off the connection. You may remain in the booth for an hour without obtaining an answer. But let us suppose that, as a great concession, you do get a manager. The lady's first impulse is to put you in the wrong. She forces you to submit to an interrogatory, from which she invariably concludes that if you have rung too long without any answer; if you have been refused an answer after a call which has lasted 20 minutes; if there has been a systematic refusal to give you any connection at all; if your wire was labeled “busy” when it was not, you yourself are the sole offender.
+
+If you ask for the district superintendent, the first impulse of that personage also is to protect his administration. He is far less anxious to account for the facts than to prove to you how culpable you are.
+
+Finally, if your guilt is not clearly established, the fault is laid to the instrument. An electrician will speedily appear at your home to repair your telephone.
+
+“The apparatus is out of order?”
+
+“No.”
+
+He smiles, but he makes a semblance of fixing something. He is an accomplice of the operator, the manager and of the department at large, against the subscriber.
+
+If he were to act otherwise, his existence would be rendered intolerable.
+
+At last you go still higher up. An inspector comes to see you at the end of fifteen days, and proves dogmatically that whatever is, is right. As for responsibility, no one ever acknowledges any. It is either the apparatus or the subscriber who is at fault—unless it be Parliament, which has not voted the necessary appropriations.
+
+But the department is capable of going still further. It presumes to suspend, on its own authority, the service of certain subscribers with whom it is at odds. It arrogates to itself the right of punishing any individual who has paid for the privileges of the telephone.
+
+Any telephone subscriber who desires to socialize railways, banks, insurance, alcohol, sugar, mines, petroleum, etc., is simply demonstrating a natural leaning toward martyrdom. If he has not such an inclination he is at least incapable of understanding the relation of cause and effect. He refuses to be taught by experience.
+
+When an individual hands over money to another individual, in order that the latter may place at his disposal the use of any service, he should have the free use of such service. If, on the other hand, an individual accepts a remuneration for rendering a service which he does not render, he acquires the reputation of a man with whom it is not safe to do business, because he does not hold to his contract. In a word, he would be discredited. In open competition his customers would turn from him and go to his rivals. Or, if self-interest alone were not strong enough to compel him to fulfill his obligations, the courts would know how to force him to do so by subjecting him to severe penalties.
+
+The case of the government is altogether different. But at least, when it has been paid for certain services, it should perform them as faithfully as an individual would do. The following relatively recent occurrence proves that the French Government at any rate feels itself under no such obligation.
+
+The interurban telephone is very convenient if the residents of the localities so connected can succeed in getting into communication with each other. When there was only one telephone line between Paris and Lille, satisfactory communication was practically out of the question. But the Chamber of Commerce of Lille was and is both wealthy and prosperous. Therefore, it said to the government: “We are going to pay you for the installation of two additional lines.” The government accepted the offer. But even with the two additional lines, users wishing to be connected had to submit to long and exasperating delays.
+
+Again the Chamber of Commerce proposed to the minister: “We are ready to pay for still another additional line.” The government again accepted. Communication was scarcely more prompt.
+
+The Chamber of Commerce paid successively for the installation of two more lines, so that in 1907 Lille was connected with Paris by six telephone lines. Therefore Lille may be said to have made considerable sacrifice in order to insure telephonic communication with Paris. But did it get it? No, for the state has continued to interfere.
+
+In the case of strikes, like that at Pas-de-Calais in 1906, there has been complete suppression of private telephone communication. “The rights of individuals must be considered after the necessities of the state.” This doctrine is all right so far as it goes, but ought not such necessities to have an end? And has public interest really demanded the suppression of telephonic communication between Paris and Lille?
+
+There has been, as a matter of fact, no occurrence whatever which could make it necessary for the state to monopolize several of these lines; moreover, in the month of June, 1907, there were no strikes on any of the lines. Yet, when a connection was called for, there came the same old answer: “The line is busy.”
+
+“How many lines?”
+
+“Three!”
+
+“And the three others? Why are they not working? Are they being repaired?”
+
+No, but the prefects, the sub-prefects, the employees of the prefecture or of the various departments were using the other lines. Public officials cannot wait, and therefore they press into their service a number of the wires paid for by the Chamber of Commerce at Lille in order to insure quick communication with merchants and manufacturers.
+
+This is a flagrant example of government methods when it is administering something. The officials are convinced that they represent higher interests; and, by an often unconscious deviation from strict honesty, they acquire the habit of covering with this excuse acts which have nothing in common with public service. In any case, they consider that their business must always come first, and by virtue of this conviction they extend, as in this particular case, the government prerogative over facilities which in truth were not established by the government and do not belong to it. I hope that by this time this condition of affairs has been somewhat improved.
+
+Moreover, while the state is demonstrating this self-complacent attitude toward the public, it demands the utmost deference on the part of subscribers. At the slightest act of disrespect, it constitutes itself at one and the same time legislator, judge and executioner for the punishment of the offender, as in the case of Mlle. Sylviac.
+
+The department, in order to punish her for having, as it declared, addressed a telephone operator offensively, deprived her of the use of the telephone for seventeen days. Meanwhile her subscription ran on, and thus the lady was paying for a service which was being refused her.
+
+She summoned the minister responsible for the department concerned to appear in court, where she demanded to be at least reimbursed for her subscription during the seventeen days when she was refused service. In the case of a private company she might have demanded damages in addition and the judges would have decided in her favor.
+
+But the government is not subject to judicial decree like all the rest of the world, and it has all sorts of defenses behind which to shelter itself against individuals. It declared the court incompetent to decide the question, and the court duly acknowledged its lack of jurisdiction.
+
+The Council of State, however, the final court of appeal, did not admit such a plea, and we congratulate it. It decided that the government, as manager of the telephone service, is a responsible agent and is subject to the jurisdiction of the civil courts.
+
+But the telephone department, instead of submitting, set up a new difficulty. It declared that the case, as concerned with taxes, must be decided not in open court, but on briefs, according to the procedure of the judicial courts, under the old political régime. Ultimately the case was decided against Mlle. Sylviac.
+
+Evidently subscribers to the telephone have no other rights or privileges than to be patient and keep their temper.
+
+Telephone subscription rates are extremely high in France. In 1907 M. Gourju, a senator, complained of the high rate which, at Lyon, was 300 francs. That city has 3,400 subscribers. If the number of its subscribers were in proportion to those of the five most important cities of Switzerland, viz., Geneva, Lucerne, Berne, Zurich and Basle, it should have 25,000.
+
+The assistant secretary of state for the Postal, Telegraph and Telephone department has attempted to explain away the high rate and the absurdity inherent in the fact that 400 francs must be paid in Paris, 300 francs in Lyon, and 200 francs in Marseilles, at the same time asserting that the rate cannot be lowered. Why? Because there would be too many subscribers.
+
+Under a system of free competition the producer seeks to extend his clientele indefinitely. A government monopoly looks for an advantage in restricting the number of its users and in the elevation of prices. The answer of the assistant secretary of state only goes to confirm the general truth of this rule. The sole thought of the Telephone department has been to prevent an increase in the number of subscribers. Every subscriber who has dropped out has been given a hearty god-speed. Each new subscriber is an enemy. One minister was imprudent enough to promise a reduction in rates from 400 to 300 francs. What would become of the service if the promise of the budget had been kept? The courageous minister had neglected to consult existing possibilities; therefore the rate has been maintained at the same figure down to the present, and the fear of the subscriber must still persist, because there are no more suggestions of rate reduction.
+
+And, anyway, how could the department solicit new subscribers when it is unable to assure service to its present subscribers?
+
+As a matter of fact the department has not the necessary equipment. As a last resort there are appropriations. But even when these shall have been obtained, the department will still find itself in arrears, and, as for a reduction in the rate, it will not make one for fear of an increase in the number of subscribers.
+
+Neither does the Telephone department make any effort to give the public maximum service at minimum cost. Instead it restricts the service and pleads expense as its defense against the influx of demands for telephone service. Indeed, one senator has gone so far as to say that the postal and telegraph service in France is worse than that in any foreign country. But this is too complete a generalization. In most countries it is certainly worse than in France. If the assistant secretary of state had returned a similar answer to his critic he would have been in the right.
+
+But not at all. He must generalize in his turn, and therefore he exclaims: “I cannot allow it to be said that the postal and telegraph service is inferior in France to that of foreign countries.”
+
+The telephone service was and is still very much better in Switzerland, in Belgium and in the United States than in France. When the telephone service of Great Britain was transferred from private management to that of the postmaster general, Lord Davenport, director of the Port of London, in a letter published in the Times of February 12, 1912, complained that “the telephone service has become impossible and commerce is suffering in consequence.” The Postmaster General did not deny the accusation. On the contrary, he contented himself with saying that “the difficulties in London are those found in all large cities, and the subscribers can be certain that the department is doing its best.”
+
+But, as the Times has observed, state operation of the telephone has effected a change for the worse in the situation of the subscribers. When they were dependent upon the National Telephone Company, the complaints of subscribers did not go to the bureau against which they were made, but directly to the management of the company. Forms were made out which could be addressed to the management, and the effect of these was admirable. The operator knew that any complaint would be followed by a thorough investigation. The government suppressed these complaint forms and replaced them by a letter. This letter has proved utterly ineffective. (The Times, February 13, 1913.)
+
+Social and municipal theorists are constantly receiving flat contradictions to their assertions regarding the value of institutions fostered by them.
+
+Sometimes the consumers of a government enterprise stand in the light of a privileged class, but this is always a precarious position, because it is not based upon contracts mutually agreed to and the infringement of which may be punished like that of any private contract.
+
+In 1903 the Belgian Socialists boasted of the good fortune of those who patronized the Saar coal mines belonging to the Prussian government. Paul Trasenster, Belgian deputy, proved, however, that such eulogiums were not merited. Later the Chamber of Commerce at Saarbrück brought to light facts which completely supported the deputy's contention. Moreover, in its report of 1903, the Chamber reproached the management of the fiscal mines with having prevented any relief to the iron ore industry by levying exorbitant rates during periods of depression.
+
+When the Saar mines passed into possession of the Prussian state, about 1863, it was expressly understood that every citizen should have the right to buy coal. But the management of the mines, instead of holding the balance even between all the coal dealers of the district, granted a veritable monopoly for the sale of it in France to two firms, by granting them a rebate of 0.50 marks per ton. For itself it reserved the exclusive monopoly of supplying iron and steel works, railways and gas companies.
+
+The rest of the merchants of Saarbrück, who help to supply the French market, have been obliged to get their coal in Belgium and from the district of La Ruhr, and have been the most active agents in the competition of coal and Belgian compressed fuel with the Saar coal in Eastern France.
+
+Edgard Milhaud quotes the following passage from a study of the German trust made by Arthur Raffalovich in 1909.
+
+“One of the most serious reproaches that can be brought against the trusts is that of preventing the full and free utilization of the sources of production. From 1906 to 1908 the Rhenish-Westphalian coal company produced 67.63 per cent. and 55 per cent. only of the visible supply. The potash trust succeeded in utilizing 33 per cent. of the capacity of the various producing centers, when, if their capacity had been fully developed, the sale price would have been reduced 45 per cent.”
+
+Then he concludes:
+
+“Such are the new economic methods introduced by monopolies either national or international.”
+
+This monopoly is under the protection of the government. Edgard Milhaud opposes to it “public operation as a superior economic tenet.” But public operation is nothing but a more complete monopoly; and, “far from freeing the productive forces thus chained and bound,” it would only add a thick-headed tyranny both scornful and lethargic, as the facts already cited go to prove.
+
+The German government favors the trusts, while Prussia maintains that it can limit their demands by its mining operations. However, on January 12, 1912, the Prussian government abandoned this pretense and capitulated before the Rhenish-Westphalian coal trust in regard to Westphalian coal. Production is not to be limited, but the coal is to be sold by the company. The company consented to decrease by a half the normal price for coal and compressed fuel and by a seventh the rate for coke. The fiscal mines will pay a minimum quit rent of 6 per cent., while private companies pay 12 and 7 per cent.
+
+In 1893 I repealed the law suppressing private employment bureaus. It was not promulgated again until much later, March 14, 1904, when every municipality numbering more than 10,000 inhabitants was ordered to establish a free employment bureau. I had proved that municipalities could not fulfill this obligation.
+
+If the law had ever been put in force, 258 bureaus would have had to be established in these cities of 10,000 inhabitants. In 1911 the Commissioner of Labor declared in a circular that in 132 of these cities, or 51 per cent., there was no municipal bureau in operation. For the whole of France, Paris included, the total number of positions filled annually by public employment bureaus averages 85,000. According to the minister of the Interior “the municipal employment bureaus have not accomplished that which the government expected of them.” Yet he had counted upon them in the first instance to compete with private business.
+
+Nevertheless this same minister, with superb optimism, declared that, although the law had failed, it was not the fault of the law. It was not sufficiently complete, that was all. It would be necessary to put in force the German system which associates with the employment bureaus the so-called Conseils de Prud'hommes. This committee collects all indispensable information. It deals with the workers and the domestics for whom it has found positions if they have given occasion for complaints. In France, an order of October 25, 1911, attempted to establish employment bureaus on the model of the German bureaus. Subsidies were granted from that date to bureaus which should have fulfilled the three following conditions:
+
+Presiding officers may be found perhaps for these bureaus, but will they come to the meetings? What will they do there if they do come? They cannot even settle the question between the two parties by a casting vote, since they have no vote. Such bureaus will perhaps find members, but members will be unable to do anything even if they should have any inspiration in any direction, because they will have neither sufficient appropriations nor police power (fortunately) in order to obtain information indispensable to their work as spies. Finally they would perhaps receive offers of employment, but would they continue to receive demands for work?
+
+When the employees of the Postal, Telegraph and Railway departments organize strikes, they resolutely sacrifice to their own interests those of their fellow citizens. They are speculating on the weariness, the privations, the disasters that inevitably follow as well as upon the weakness of the government in its attitude toward them.
+
+I have not spoken in this chapter of the patrons of state railways. I have already demonstrated sufficiently the fate of both passengers and merchandise when confided to their tender mercies.

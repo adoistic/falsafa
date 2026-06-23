@@ -4,7 +4,10 @@ slug: "quintus-tullius-cicero-commentariolum-petitionis-118e23"
 title: Commentariolum Petitionis
 author:
   name: Quintus Tullius Cicero
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman senator, soldier, and provincial governor, the younger brother of Marcus Tullius Cicero. The Commentariolum Petitionis attributed to him offered tactical advice on running for the consulship and survives as a handbook of Roman electioneering.
+  birth_year: -102
+  death_year: -43
+  nationality: Roman
 era: Hellenistic
 genre: Classics
 language: Latin

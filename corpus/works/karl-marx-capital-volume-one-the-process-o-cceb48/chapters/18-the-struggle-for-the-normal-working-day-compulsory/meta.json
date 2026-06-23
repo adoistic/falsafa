@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 18,
+  "chapter_title": "The Struggle for the Normal Working-day. Compulsory Limitation by Law of the Working-time. The English Factory Acts, 183",
+  "chapter_slug": "18-the-struggle-for-the-normal-working-day-compulsory",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec450e13-f62e-5d57-99a2-5dda49565131",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6411,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm"
+    }
+  ]
+}

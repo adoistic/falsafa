@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-ferdinand-lassalle-as-a-social-r-a97060",
+  "work_title": "Ferdinand Lassalle as a Social Reformer",
+  "chapter_number": 3,
+  "chapter_title": "II. Lassalle’s youth and early manhood – The Hatzfeld lawsuit, 1848 – Franz von Sickingen",
+  "chapter_slug": "03-ii-lassalle-s-youth-and-early-manhood-the-hatzfeld",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4113e614-3b14-5c17-975f-45789b81866f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9924,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1893/lassalle/chap02.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 33,
+  "chapter_title": "Chapter 32 : Odessa: Life and Vision",
+  "chapter_slug": "33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3670d2fa-3d58-5863-97fa-1b6851567d6c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4384,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-32.html"
+    }
+  ]
+}

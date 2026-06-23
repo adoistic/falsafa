@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-more-utopia-e4b41c",
+  "work_title": "Utopia",
+  "chapter_number": 1,
+  "chapter_title": "To the Right Honourable Hierome Buslide",
+  "chapter_slug": "01-to-the-right-honourable-hierome-buslide",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9315bbe3-4ca2-5d7c-9da8-aa2d6f5bce5f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1148,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/more/works/utopia/preface01.htm"
+    }
+  ]
+}

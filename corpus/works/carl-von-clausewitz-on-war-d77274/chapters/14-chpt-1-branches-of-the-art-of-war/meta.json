@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 14,
+  "chapter_title": "Chpt. 1 Branches of the Art of War",
+  "chapter_slug": "14-chpt-1-branches-of-the-art-of-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "69bf9713-bfb7-5711-b22f-c10b1892476c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3432,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book2/ch01.htm"
+    }
+  ]
+}

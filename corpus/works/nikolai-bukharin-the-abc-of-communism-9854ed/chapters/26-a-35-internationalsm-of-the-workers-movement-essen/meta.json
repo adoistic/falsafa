@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 26,
+  "chapter_title": "â§ 35 Internationalsm of the workers' movement essential to the victory of the communist revolution",
+  "chapter_slug": "26-a-35-internationalsm-of-the-workers-movement-essen",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "645362a5-c4cc-5e78-9acd-771ed2ab7a47",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 829,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/05.htm"
+    }
+  ]
+}

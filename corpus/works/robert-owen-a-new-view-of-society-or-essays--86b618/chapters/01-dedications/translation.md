@@ -1,0 +1,137 @@
+---
+work_id: "86b61892-6f05-5587-b711-e30cdebaf8c8"
+work_slug: "robert-owen-a-new-view-of-society-or-essays--86b618"
+work_title: A New View of Society, Or, Essays on the Principle of the Formation of the Human Character
+author_name: Robert Owen
+chapter_number: 1
+chapter_title: Dedications
+chapter_slug: "01-dedications"
+variant_id: "770694e0-5ba9-5cde-a114-4f12e2b28d64"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 3019
+source_url: "https://www.marxists.org/reference/subject/economics/owen/society/intro.htm"
+translator: Marxists Internet Archive edition
+---
+
+MY DEAR SIR
+
+In contemplating, the public characters of the day, no one among them appears to have more nearly adopted in practice the principles which this Essay develops than yourself.
+
+In all the most important questions which have come before the senate since you became a legislator, you have not allowed the mistaken considerations of sect or party to influence your decisions; so far as an unbiased judgement can be formed of them, they appear generally to have been dictated by comprehensive views of human nature, and impartiality to your fellow creatures. The dedication, therefore, of this Essay to you, I consider not as a mere compliment of the day, but rather as a duty which your benevolent exertions and disinterested conduct demand.
+
+Yet permit me to say that I have a peculiar personal satisfaction in fulfilling this duty. My experience of human nature as it is now trained, does not, however, lead me to expect that even your mind, without personal inspection, can instantaneously give credit to the full extent of the practical advantages which are to be derived from an undeviating adherence to the principles displayed in the following pages. And far less is such an effect to be anticipated from the first ebullition of public opinion.
+
+The proposer of a practice so new and strange must be content for a time to be ranked among the good kind of people, the speculatists and visionaries of the day, for such it is probable will be the ready exclamations of those who merely skim the surface of all subjects; exclamations, however, in direct contradiction to the fact, that he has not brought the practice into public notice until he patiently for twenty years proved it upon an extensive scale, even to the conviction of inspecting incredulity itself.
+
+And he is so content, knowing that the result of the most ample investigation and free discussion will prove to a still greater extent than he will yet state, the beneficial consequences of the introduction of the principles for which he now contends.
+
+With confidence, therefore, that you will experience this conviction, and, when experienced, will lend your aid to introduce its influence into legislative practice. I subscribe myself, with much esteem and regard,
+
+My dear Sir,
+
+Your obliged and obedient Servant, New Lanark Mills ROBERT OWEN
+
+[Original Dedication of Second Essay. Second Dedication of the Four Essays in subsequent Editions,]
+
+To the British public
+
+FRIENDS AND COUNTRYMEN
+
+I dedicate this Essay to you, because your primary and most essential interests are deeply involved in the subjects of which it treats.
+
+You will find errors described, and remedies proposed; but as those errors are the errors of our forefathers, they call for something like veneration from their successors. You will therefore not attribute them to any of the individuals of the present day; neither will you for your own sakes wish or require them to be prematurely removed, beneficial changes can alone take place by well-digested and well-arranged plans temperately introduced and perseveringly pursued.
+
+It is however an important step gained when the cause of evil is ascertained. The next is to devise a remedy for the evil, which shall create the least possible inconvenience. To discover that remedy, and try its efficacy in practice, have been the employments of my life; and having found what experience proved to be safe in its application, and certain in its effects, I am now anxious you should all partake of its benefits.
+
+But be satisfied, fully and completely satisfied, that the principles on which the New View of Society is founded are true; that no specious error lurks within them, and that no sinister motive now gives rise to their publicity. Let them therefore be investigated to their foundation. Let them be scrutinized with the eye of penetration itself; and let them be compared with every fact which has existed from the earliest knowledge of time, and with all those which now encircle the earth. Let this be done to give you full confidence, beyond the shadow of doubt or suspicion, in the proceedings which are or may be recommended to your attention. For they will bear this test; and such investigation and comparison will fix them so deep in, your hearts and affections, that never more but with life will they be removed from your minds, and your children's from the end of time.
+
+Enter therefore fearlessly on the investigation and comparison, startle not at apparent difficulties, but persevere in the spirit and on the principles recommended; you will then speedily overcome those difficulties, your success will be certain, and you will eventually firmly establish the happiness of your fellow creatures. That your immediate and united exertions in this cause may be the means of commencing a new system of acting, which shall gradually remove those unnecessary evils which afflict the present race of men, is the ardent wish of
+
+Your fellow subject,
+
+THE AUTHOR
+
+[Address prefixed to Third Essay.]
+
+To the superintendents of manufactories, and to those individuals generally, who, by giving employment to an aggregated population, may easily adopt the means to form the sentiments and manners of such a population
+
+Like you, I am a manufacturer for pecuniary profit, but having for many years acted on principles the reverse in many respects of those in which you have been instructed, and having found my procedure beneficial to others and to myself, even in a pecuniary point of view, I am anxious to explain such valuable principles, that you and those under your influence may equally partake of their advantages.
+
+In two Essays, already published, I have developed some of these principles, and in the following pages you will find still more of them explained, with some detail of their application to practice under the peculiar local circumstances in which I took the direction of the New Lanark Mills and Establishment.
+
+By those details you will find that from the commencement of my management I viewed the population, with the mechanism and every other part of the establishment, as a system composed of many parts, and which it was my duty and interest so to combine, as that every hand, as well as every spring, lever, and wheel, should effectually co-operate to produce the greatest pecuniary gain to the proprietors.
+
+Many of you have long experienced in your manufacturing operations the advantages of substantial, well-contrived, and well-executed machinery.
+
+Experience has also shown you the difference of the results between mechanism which is neat, clean, well-arranged, and always in a high state of repair; and that which is allowed to be dirty, in disorder, without the means of preventing unnecessary friction, and which therefore becomes, and works, much out of repair.
+
+In the first case the whole economy and management are good; every operation proceeds with ease, order, and success. In the last, the reverse must follow, and a scene be presented of counteraction, confusion, and dissatisfaction among all the agents and instruments interested or occupied in the general process, which cannot fail to create great loss.
+
+If, then, due care as to the state of your inanimate machines can produce such beneficial results, what may not be expected if you devote equal attention to your vital machines, which are far more wonderfully constructed?
+
+When you shall acquire a right knowledge of these, of their curious mechanism, of their self-adjusting powers; when the proper mainspring shall be applied to their varied movements you will become conscious of their real value, and you will readily be induced to turn your thoughts more frequently from your inanimate to your living machines; you will discover that the latter may be easily trained and directed to procure a large increase of pecuniary gain, while you may also derive from them high and substantial gratification.
+
+Will you then continue to expend large sums of money to procure the best devised mechanism of wood, brass, or iron; to retain it in perfect repair; to provide the best substance for the prevention of unnecessary friction, and to save it from falling into premature decay? -- Will you also devote years of intense application to understand the connection of the various parts of these lifeless machines, to improve their effective powers, and to calculate with mathematical precision all their minute and combined movements? -- And when in these transactions you estimate time by minutes, and the money expended for the chance of increased gain by fractions, will you not afford some of your attention to consider whether a portion of your time and capital would not be more advantageously applied to improve your living machines? From experience which cannot deceive me, I venture to assure you, that your time and money so applied, if directed by a true knowledge of the subject, would return you, not five, ten, or fifteen per cent for your capital so expended, but often fifty, and in many cases a hundred per cent.
+
+I have expended much time and capital upon improvements of the living machinery; and it will soon appear that time and the money so expended in the manufactory at New Lanark, even while such improvements are in progress only, and but half their beneficial effects attained, are now producing a return exceeding fifty per cent, and will shortly create profits equal to cent per cent on the original capital expended in them.
+
+Indeed, after experience of the beneficial effects from due care and attention to the mechanical implements, it became easy to a reflecting mind to conclude at once, that at least equal advantages would arise from the application of similar care and attention to the living instruments. And when it was perceived that inanimate mechanism was greatly improved by being made firm and substantial; that it was the essence of economy to keep it neat, clean, regularly supplied with the best substance to prevent unnecessary friction, and by proper provision for the purpose to preserve it in good repair, it was natural to conclude that the more delicate, complex, living mechanism would be equally improved by being trained to strength and activity and that it would also prove true economy to keep it neat and clean; to treat it with kindness, that its mental movements might not experience too much irritating friction; to endeavour by every means to make it more perfect; to supply it regularly with a sufficient quantity of wholesome food and other necessaries of life, that the body might be preserved in good working condition, and prevented from being out of repair, or falling prematurely to decay.
+
+These anticipations are proved by experience to be just.
+
+Since the general introduction of inanimate mechanism into British manufactories, man, with few exceptions, has been treated as a secondary and inferior machine; and far more attention has been given to perfect the raw materials of wood and metals than those of body and mind. Give but due reflection to the subject, and you will find that man, even as an instrument for the creation of wealth, may be still greatly improved.
+
+But, my friends, a far more interesting and gratifying consideration remains. Adopt the means which ere long shall be rendered obvious to every understanding, and you may not only partially improve those living instruments, but learn how to impart to them such excellence as shall make them infinitely surpass those of the present and all former times.
+
+Here, then, is an object which truly deserves your attention; and, instead of devoting all your faculties to invent improved inanimate mechanism, let your thoughts be, at least in part, directed to discover how to combine the more excellent materials of body and mind which, by a well-devised experiment, will be found capable of progressive improvement.
+
+Thus seeing with the clearness of noonday light, thus convinced with the certainty of conviction itself, let us not perpetuate the really unnecessary evils which our present practices inflict on this large proportion of our fellow subjects. Should your pecuniary interests somewhat suffer by adopting the line of conduct now urged, many of you are so wealthy that the expense of founding and continuing at your respective establishments the institutions necessary to improve your animate machines would not be felt, but when you may have ocular demonstration, that, instead of any pecuniary loss, a well-directed attention to form the character and increase the comforts of those who are so entirely at your mercy, will essentially add to your gains, prosperity, and happiness, no reasons, except those founded on ignorance of your self-interest, can in future prevent you from bestowing your chief care on the living machines which you employ. And by so doing you will prevent an accumulation of human misery, of which it is now difficult to form an adequate conception.
+
+That you may be convinced of this most valuable truth, which due reflection will show you is founded on the evidence of unerring facts, is the sincere wish of
+
+THE AUTHOR
+
+[Original Dedication of Fourth Essay. First Dedication of the Four Essays in subsequent Editions.]
+
+To His Royal Highness the Prince Regent of the British Empire
+
+SIR
+
+The following pages are dedicated to Your Royal Highness, not to add to the flattery which through past ages has been addressed to those of our fellow men who have filled elevated situations; but they claim your protection because they proceed from a Subject of the empire over which you preside, and from one who disregards every inferior consideration in order that he may accomplish the greatest practical good to that empire.
+
+Your Royal Highness, and all who govern the nations of the world, must be conscious that those of high rank, as well as those in the inferior stations of life, now experience much misery.
+
+The Essays, of which these pages constitute the Fourth, have been written to show that the true origin of that misery may be traced to the ignorance of those who have formerly ruled, and of those whom they governed; to make that ignorance known and evident to all; and to sketch the outlines of a practical Plan of Government, founded altogether on a preventive system, and derived from principles directly opposed to the errors of our forefathers. And should the outlines which have been sketched be formed into a legislative system, and adhered to without deviation, the most important benefits may be anticipated, both to the subjects of these realms and to the human race.
+
+Your Royal Highness and those who direct the policy of other nations have been taught that you have duties to execute; but which, with the highest ability and best intentions, under the prevailing systems of error, cannot be performed.
+
+Hence the dissatisfaction of those for whose benefit Governments were or ought to have been first established, and the perplexity and danger of those who govern.
+
+And it is concluded with a confidence equal to certainty itself, that the principles unfolded in these Essays are competent to develop a practice which, without much apparent change, or any public disorder, shall progressively remove the difficulties of those who in future may rule, and the discontent of those who may be governed.
+
+The language now addressed to Your Royal Highness is the result of a patient and extensive experience of human nature; of human nature, not indeed as it is explained in legendary tales of old, but as it now may be read in the living subject in the words and actions of those among whom we exist.
+
+It is true that many myriads of human beings have been conscientiously deceived; and, it may be said, it is most probable that another may be now added to the number: it is equally true, however, that similar language has been applied to many, and might have been applied to all who have been the instruments of beneficial improvements.
+
+It may be said that the principles herein advocated, may nevertheless, like the former millions which have misled mankind, originate in error; in the wild and perverted fancy of a well-meaning enthusiasm. They have, however, not only been submitted to several of the most intelligent and acute minds of the present day, and who, although urged to the task, have candidly declared they could find no fallacy in the inductions, but they are such as few, if any, will venture to deny, or scruple to declare that they already admit.
+
+And if these principles shall demonstrate themselves to be in unison with every existing fact which can now be examined and compared, they will ere long prove themselves to be of a permanent and substantial value beyond any of the discoveries which have previously been made.
+
+Great, however, as the advantages may prove, the introduction of principles and practices so new, without being well understood, may create a momentary ferment.
+
+To prevent the possibility of any such evil, the leaders of all the sects and parties in the state are invited to canvass these principles, and to endeavour to prove error in them, or evil in the consequences which might follow from their admission into practice.
+
+The encouragement of such fair discussion and examination of these principles is all that is now solicited from Your Royal Highness.
+
+And should that discussion and examination prove them to be erroneous, they will then be, as they ought to be for the public good, universally condemned. On the contrary, should they bear the test of that investigation to which they are now earnestly submitted, and be found, without a single exception, uniformly consistent with all the known facts of the creation, and consequently true; then, under the auspices of Your Royal Highness's Administration, will mankind naturally look for the establishment of a practical System of Government which can introduce and perpetuate such important public advantages.
+
+That these principles, if true, may give birth to the measures which they immediately recommend; and that Your Royal Highness and the Subjects of these Realms, and the Rulers and Subjects of all other Realms, may in the present age enjoy the advantages of them in practice, is the sincere wish of
+
+Your Royal Highness's faithful Servant,
+
+THE AUTHOR

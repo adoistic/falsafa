@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 19,
+  "chapter_title": "Chapter XI.: Impiety of Attributing a Visible Form to God.—the Setting Up of Idols a Defection from the True God.",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "975f2527-39b0-5697-92d3-b8cb90a64bd5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 170,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

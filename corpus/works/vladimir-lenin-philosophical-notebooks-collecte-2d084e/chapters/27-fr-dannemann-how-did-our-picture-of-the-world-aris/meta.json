@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 27,
+  "chapter_title": "Fr. Dannemann. How Did Our Picture of the World Arise? (Kosmos). Stuttgart, 1912",
+  "chapter_slug": "27-fr-dannemann-how-did-our-picture-of-the-world-aris",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bda1553b-faba-5ece-b36f-e9b826699fec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 337,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/misc/x07.htm"
+    }
+  ]
+}

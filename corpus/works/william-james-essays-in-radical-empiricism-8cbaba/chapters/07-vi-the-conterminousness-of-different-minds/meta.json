@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-james-essays-in-radical-empiricism-8cbaba",
+  "work_title": "Essays in Radical Empiricism",
+  "chapter_number": 7,
+  "chapter_title": "VI. The Conterminousness of Different Minds",
+  "chapter_slug": "07-vi-the-conterminousness-of-different-minds",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7f3afce-3429-5eac-b94f-7d07db0a6e15",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1884,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/32547"
+    }
+  ]
+}

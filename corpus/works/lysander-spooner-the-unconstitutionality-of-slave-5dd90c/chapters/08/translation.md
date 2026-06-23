@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-the-unconstitutionality-of-slave-5dd90c"
 work_title: The Unconstitutionality of Slavery
 author_name: Lysander Spooner
 chapter_number: 8
-chapter_title: "CHAPTER VIII.: THE CONSTITUTION OF THE UNITED STATES."
+chapter_title: "Chapter VIII.: The Constitution of the United States."
 chapter_slug: 08
 variant_id: "eb86cfd2-3c46-5146-8f9c-5002aeb5cd71"
 content_type: translation
@@ -13,14 +13,14 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 820
+word_count: 816
 source_url: "https://oll.libertyfund.org/titles/spooner-the-unconstitutionality-of-slavery-1860"
 translator: Online Library of Liberty edition
 ---
 
 We come now to the period commencing with the adoption of the constitution of the United States.
 
-We have already seen that slavery had not been authorized or established by any of the fundamental constitutions or charters that had existed previous to this time; that it had always been a mere abuse sustained by the common consent of the strongest party, in defiance of the avowed constitutional principles of their Edition: current; Page: [55] governments. And the question now is, whether it was constitutionally established, authorized or sanctioned by the constitution of the United States?
+We have already seen that slavery had not been authorized or established by any of the fundamental constitutions or charters that had existed previous to this time; that it had always been a mere abuse sustained by the common consent of the strongest party, in defiance of the avowed constitutional principles of their governments. And the question now is, whether it was constitutionally established, authorized or sanctioned by the constitution of the United States?
 
 It is perfectly clear, in the first place, that the constitution of the United States did not, of itself, create or establish slavery as a new institution; or even give any authority to the state governments to establish it as a new institution.—The greatest sticklers for slavery do not claim this. The most they claim is, that it recognized it as an institution already legally existing, under the authority of the State governments; and that it virtually guarantied to the States the right of continuing it in existence during their pleasure. And this is really the only question arising out of the constitution of the United States on this subject, viz., whether it did thus recognize and sanction slavery as an existing institution?
 

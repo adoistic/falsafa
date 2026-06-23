@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 31,
+  "chapter_title": "The Factory",
+  "chapter_slug": "31-the-factory",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0d40e379-9464-57af-abc5-ac19367c65ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2002,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm"
+    }
+  ]
+}

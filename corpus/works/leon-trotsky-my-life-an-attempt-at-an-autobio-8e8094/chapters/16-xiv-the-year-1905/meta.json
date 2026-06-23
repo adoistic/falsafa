@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 16,
+  "chapter_title": "XIV. The Year 1905",
+  "chapter_slug": "16-xiv-the-year-1905",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b0b4026e-77ef-5167-aed1-0e54b7da7c9a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4671,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch14.htm"
+    }
+  ]
+}

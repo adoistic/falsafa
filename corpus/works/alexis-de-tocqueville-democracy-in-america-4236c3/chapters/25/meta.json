@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 25,
+  "chapter_title": "Chapter XV: Unlimited Power Of Majority, And Its Consequences – Part I",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "03e84f9d-33d6-50ca-b55b-1930d6341e2e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1781,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch15.htm"
+    }
+  ]
+}

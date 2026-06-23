@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-junius-pamphlet-the-crisis-o-b0b574",
+  "work_title": "The Junius Pamphlet: The Crisis of German Social Democracy",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc7912b1-1b77-5af2-8801-a2d8ee46f9e3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4116,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1915/junius/ch06.htm"
+    }
+  ]
+}

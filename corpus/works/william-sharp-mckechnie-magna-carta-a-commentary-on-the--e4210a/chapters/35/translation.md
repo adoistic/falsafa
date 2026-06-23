@@ -4,7 +4,7 @@ work_slug: "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a"
 work_title: "Magna Carta: A Commentary on the Great Charter of King John"
 author_name: William Sharp McKechnie
 chapter_number: 35
-chapter_title: CHAPTER THREE.
+chapter_title: Chapter Three.
 chapter_slug: 35
 variant_id: "e5e23fa5-a7be-5c76-9297-20b783580ecc"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 419
+word_count: 411
 source_url: "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
 translator: Online Library of Liberty edition
 ---
@@ -22,10 +22,10 @@ Si autem heres alicujus talium fuerit infra etatem et fuerit in custodia, cum ad
 
 If, however, the heir of any one of the aforesaid has been under age and in wardship, let him have his inheritance without relief and without fine when he comes of age.
 
-The Crown is here forbidden to exact relief where it had already enjoyed wardship. It was hard on the youth, escaping from leading–strings, to be met, when he “sued Edition: current; Page: [204] out his livery,” with the demand for a large relief by the exchequer which had appropriated all his revenues.
+The Crown is here forbidden to exact relief where it had already enjoyed wardship. It was hard on the youth, escaping from leading–strings, to be met, when he “sued out his livery,” with the demand for a large relief by the exchequer which had appropriated all his revenues.
 
 Such double extortion had long been forbidden to mesne lords; Magna Carta was extending similar limitations to the King. The grievance complained of had been intensified by an unfair expedient which John sometimes adopted. In cases of disputed succession he favoured the claims of a minor, enjoyed the wardship, and thereafter repudiated his title altogether, or confirmed it only in return for an exorbitant fine. The only safeguard was to provide that the King should not enjoy wardship until he had allowed the heir to perform homage, which pledged the King to “warrant” the title against all rival claimants. This expedient was actually adopted in the revised Charter of 1216.
 
-The alterations in that reissue were not altogether in the vassal’s favour. Another addition made a reasonable stipulation in favour of the lord, which illustrates the theory underlying wardship. Only a knight was capable of bearing arms; hence, the lord held the lands in ward until the minor should reach man’s estate. Ingenious attempts had apparently been made to defeat these legitimate rights of feudal lords by making the infant heir a “knight,” thus cutting away the basis on which wardship rested. The reissue of 1216 provided that the lands of a minor should remain in wardship, although he was made a knight. Incidentally, the same Charter declared twenty–one years to Edition: current; Page: [205] be the period at which a military tenant came of age, a point on which John’s Charter is silent.
+The alterations in that reissue were not altogether in the vassal’s favour. Another addition made a reasonable stipulation in favour of the lord, which illustrates the theory underlying wardship. Only a knight was capable of bearing arms; hence, the lord held the lands in ward until the minor should reach man’s estate. Ingenious attempts had apparently been made to defeat these legitimate rights of feudal lords by making the infant heir a “knight,” thus cutting away the basis on which wardship rested. The reissue of 1216 provided that the lands of a minor should remain in wardship, although he was made a knight. Incidentally, the same Charter declared twenty–one years to be the period at which a military tenant came of age, a point on which John’s Charter is silent.
 
 In one case, exceptionally, wardship and relief might both be exacted on account of the same death, though not by the same lord. Where the dead man had formerly held two estates, one of the Crown and one of a mesne lord, the Crown might claim the wardship of both, and then the disappointed mesne lord was allowed to exact relief as a solatium for his loss.

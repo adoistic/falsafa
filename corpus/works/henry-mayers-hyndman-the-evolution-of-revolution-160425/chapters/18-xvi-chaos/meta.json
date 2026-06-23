@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 18,
+  "chapter_title": "XVI. Chaos",
+  "chapter_slug": "18-xvi-chaos",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec5bc124-c568-534f-80e3-48c381e4bb96",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2776,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter16.htm"
+    }
+  ]
+}

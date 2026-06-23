@@ -1,0 +1,51 @@
+---
+work_id: "dc898f19-2632-5c72-b197-d73f331680f9"
+work_slug: "emma-goldman-the-social-significance-of-the-m-dc898f"
+work_title: The Social Significance of the Modern Drama
+author_name: Emma Goldman
+chapter_number: 38
+chapter_title: "Part 18, Chapter 2: The Seagull"
+chapter_slug: 38
+variant_id: "4704bf0c-bfd2-51dc-beb1-649b7a90ddba"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1362
+source_url: "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-18-chapter-2.html"
+translator: Marxists Internet Archive edition
+---
+
+In "The Seagull" the young artist, Constantine Treplef, seeks new forms, new modes of expression. He is tired of the old academic ways, the beaten track; he is disgusted with the endless imitative methods, no one apparently capable of an original thought.
+
+Constantine has written a play; the principal part is to be acted by Nina, a beautiful girl with whom Constantine is in love. He arranges the first performance to take place on the occasion of his mother's vacation in the country.
+
+She herself--known as Mme. Arcadina--is a famous actress of the old school. She knows how to show off her charms to advantage, to parade her beautiful gowns, to faint and die gracefully before the footlights; but she does not know how to live her part on the stage. Mme. Arcadina is the type of artist who lacks all conception of the relation between art and life. Barren of vision and empty of heart, her only criterion is public approval and material success. Needless to say, she cannot understand her son. She considers him decadent, a foolish rebel who wants to undermine the settled canons of dramatic art. Constantine sums up his mother's personality in the following manner:
+
+Treplef. She is a psychological curiosity, is my mother. A clever and gifted woman, who can cry over a novel, will reel you off all Nekrassov's poems by heart, and is the perfection of a sick nurse; but venture to praise Eleonora Duse before her! Oho! ho! You must praise nobody but her, write about her, shout about her, and go into ecstasies over her wonderful performance in La Dame aux Camélias, or The Fumes of Life; but as she cannot have then intoxicating pleasures down here. in the country, she's bored and gets spiteful. . . . She loves the stage; she thinks that she is advancing the cause of humanity and her sacred art; but I regard the stage of to-day as mere routine and prejudice. When the curtain god up and, the gifted beings, the high priests of the sacred art, appear by electric light, in a room with three sides to it, representing how people cat, drink, love, walk and wear their jackets; when they strive to squeeze out a moral from the flat, vulgar pictures and the flat, vulgar phrases a little tiny moral, easy to comprehend and handy for home consumption, when in a thousand variations they offer me always the same thing over and over and over again--then I take to my heels and run, as Maupassant ran from the Eiffel Tower, which crushed his brain by its overwhelming vulgarity. . . . We must have new formulæ. That's what we want. And if there are none, then it's better to have nothing at all.
+
+With Mme. Arcadina is her lover, Trigorin, a successful writer. When he began his literary career, he possessed originality and strength. But gradually writing became a habit: the publishers constantly demand new books, and he supplies them.
+
+Oh, the slavery of being an " arrived " artist, forging new chains for oneself with every " best seller"! Such is the position of Trigorin: he hates his work as the worst drudgery. Exhausted of ideas, all life and human relations serve him only as material for copy.
+
+Nina, innocent of the ways of the world and saturated with the false romanticism of Trigorin's works, does not see the man but the celebrated artist. She is carried away by his fame and stirred by his presence; an infatuation with him quickly replaces her affection for Constantine. To her Trigorin embodies her dream of a brilliant and interesting life.
+
+Nina. How I envy you, if you but knew it! How different are the lots of different people! Some can hardly drag on their tedious, insignificant existence; they are all alike, all miserable; others, like you, for instance -- you are one in a million -- are blessed with a brilliant, interesting life, all full of meaning. . . . You are happy. What a delightful life yours is!
+
+Trigorin. What is there so fine about it? Day and, night I am obsessed by the same persistent thought; I must write, I must write, I must write. . . . No sooner have I finished one story than I am somehow compelled to write another, then a third, and after the third a fourth. : . . I have no rest for myself; I feel that I am devouring my own life. . . . I've never satisfied myself. . . . I have the feeling for nature; it wakes a passion in me, an irresistible desire to write. But I am something more than a landscape painter; I'm a citizen as well; I love my country, I love the people; I feel that if I am a writer I am bound to speak of the people, of its suffering, of its future, to speak of science, of the rights of man, etc., etc.; and I speak about it all, volubly, and am attacked angrily in return by everyone; I dart from side to side like a fox run down by hounds; I see that life and science fly farther and farther ahead of me, and I fall farther and farther. behind, like the countryman running after the train; and in the end I feel that the only thing I can write of is the landscape, and in everything else I am untrue to life, false to the very marrow of my bones.
+
+Constantine realizes that Nina is slipping away from him. The situation is aggravated by the constant friction with his mother and his despair at the lack of encouragement for his art. In a fit of despondency he attempts suicide, but without success. His mother, although nursing him back to health, is infuriated at her son's "foolishness," his inability to adapt himself to conditions, his impractical ideas. She decides to leave, accompanied by Trigorin. On the day of their departure Nina and Trigorin meet once more. The girl tells him of her, ambition to become an actress, and, encouraged by him, follows him to the city.
+
+Two years later Mme. Arcadina, still full of her idle triumphs, returns to her estate. Trigorin is, again with her still haunted by the need of copy.
+
+Constantine has in the interim matured considerably. Although he has made himself heard as a writer, he nevertheless feels that life to-day has no place for such as he: that sincerity in art is not wanted. His mother is with him, but she only serves to emphasize the flatness of his surroundings. He loves her, but her ways jar him and drive him into seclusion.
+
+Nina, too, has returned to her native place, broken in body and spirit. Partly because of the memory of her past affection for Constantine, and mainly because she learns of Trigorin's presence, she is drawn to the place where two years before she had dreamed of the beauty of an artistic career. The cruel struggle for recognition, the bitter disappointment in her relation with Trigorin, the, care of a child and poor health have combined to change the romantic child into a sad woman.
+
+Constantine still loves her. He pleads with her to go away with him, to begin a new life. But it is too late. The lure of the footlights is beckoning to Nina; she returns to the stage. Constantine, unable to stand the loneliness of his life and the mercenary demands upon his art, kills himself.
+
+To the Anglo-Saxon mind such an ending is pessilmism, defeat. Often, however, apparent defeat is in reality the truest success. For is not success, as commonly understood, but too frequently bought at the expense of character and idealism?
+
+"The Seagull" is not defeat. As long as there is still such material in society as the Constantines -men and women who would rather die than compromise with the sordidness of life--there is hope for humanity. If the Constantines perish, it is the social fault,--our indifference to, and lack of appreciation of, the real values that alone advance the fuller and more complete life of the race.

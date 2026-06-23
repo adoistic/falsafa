@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 67,
+  "chapter_title": "Oration 88",
+  "chapter_slug": "67-oration-88",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a7ecec2b-1fdf-5e9d-960c-95a1ec9264f6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1729,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "30a7d5c2-d085-5196-bf3f-06f884d76d95",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2400,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

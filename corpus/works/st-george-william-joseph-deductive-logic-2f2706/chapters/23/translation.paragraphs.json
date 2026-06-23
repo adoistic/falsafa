@@ -1,117 +1,777 @@
 [
   {
-    "id": "p-4ed06c",
+    "id": "p-ee9683",
     "offset": 0,
-    "text": "CHAPTERS I-III."
+    "text": "1. Express in logical form, affixing the proper symbol:--"
   },
   {
-    "id": "p-ab467e",
-    "offset": 17,
-    "text": "1. What kind of influence have we here?"
+    "id": "p-fee39a",
+    "offset": 59,
+    "text": "(1) Some swans are not white."
   },
   {
-    "id": "p-6094bf",
-    "offset": 58,
-    "text": "The author of the Iliad was unacquainted with writing. Homer was the author of the Iliad. .'. Homer was unacquainted with writing."
+    "id": "p-3e5fab",
+    "offset": 90,
+    "text": "(2) All things are possible to them that believe."
   },
   {
-    "id": "p-3a7ff3",
-    "offset": 190,
-    "text": "2. Give the logical opposites of the following propositions--"
+    "id": "p-1d93e8",
+    "offset": 141,
+    "text": "(3) No politicians are unprincipled."
   },
   {
-    "id": "p-19cda9",
-    "offset": 253,
-    "text": "(1) Knowledge is never useless."
+    "id": "p-76fca7",
+    "offset": 179,
+    "text": "(4) Some stones float on water."
   },
   {
-    "id": "p-ba629e",
-    "offset": 286,
-    "text": "(2) All Europeans are civilised."
+    "id": "p-f04f89",
+    "offset": 212,
+    "text": "(5) The snow has melted."
   },
   {
-    "id": "p-326222",
-    "offset": 320,
-    "text": "(3) Some monks are not illiterate."
+    "id": "p-c538c8",
+    "offset": 238,
+    "text": "(6) Eggs are edible."
   },
   {
-    "id": "p-6e2c4e",
-    "offset": 356,
-    "text": "(4) Happy is the man that findeth wisdom."
+    "id": "p-fd00a4",
+    "offset": 260,
+    "text": "(7) All kings are not wise."
   },
   {
-    "id": "p-fded81",
-    "offset": 399,
-    "text": "(5) No material substances are devoid of weight."
+    "id": "p-14c105",
+    "offset": 289,
+    "text": "(8) Moths are not butterflies."
   },
   {
-    "id": "p-3c425f",
-    "offset": 449,
-    "text": "(6) Every mistake is not culpable."
+    "id": "p-688846",
+    "offset": 321,
+    "text": "(9) Some men are born great."
   },
   {
-    "id": "p-596c60",
-    "offset": 485,
-    "text": "(7) Some Irishmen are phlegmatic."
+    "id": "p-3dd124",
+    "offset": 351,
+    "text": "(10) Not all who are called are chosen."
   },
   {
-    "id": "p-e3bedf",
-    "offset": 520,
-    "text": "3. Granting the truth of the following propositions, what other propositions can be inferred by opposition to be true or false?"
+    "id": "p-b85f0e",
+    "offset": 392,
+    "text": "(11) It is not good for man to be alone."
   },
   {
-    "id": "p-9198e0",
-    "offset": 649,
-    "text": "(1) Men of science are often mistaken."
+    "id": "p-3a1d2c",
+    "offset": 434,
+    "text": "(12) Men of talents have been known to fail in life."
   },
   {
-    "id": "p-0d487d",
-    "offset": 689,
-    "text": "(2) He can't be wrong, whose life is in the right."
+    "id": "p-44722f",
+    "offset": 488,
+    "text": "(13) 'Tis none but a madman would throw about fire."
   },
   {
-    "id": "p-38a7aa",
-    "offset": 741,
-    "text": "(3) Sir Walter Scott was the author of Waverley."
+    "id": "p-002ee1",
+    "offset": 541,
+    "text": "(14) Every bullet does not kill."
   },
   {
-    "id": "p-d340a0",
-    "offset": 791,
-    "text": "(4) The soul that sinneth it shall die."
+    "id": "p-22cd4c",
+    "offset": 575,
+    "text": "(15) Amongst Unionists are Whigs."
   },
   {
-    "id": "p-1a9ee1",
-    "offset": 832,
-    "text": "(5) All women are not vain."
+    "id": "p-2a02f6",
+    "offset": 610,
+    "text": "(16) Not all truths are to be told."
   },
   {
-    "id": "p-628a36",
-    "offset": 861,
-    "text": "4. Granting the falsity of the following propositions, what other propositions can be inferred by opposition to be true or false?--"
+    "id": "p-e6de30",
+    "offset": 647,
+    "text": "(17) Not all your efforts can save him."
   },
   {
-    "id": "p-4ae412",
-    "offset": 994,
-    "text": "(1) Some men are not mortal."
+    "id": "p-4fd47a",
+    "offset": 688,
+    "text": "(18) The whale is a mammal."
   },
   {
-    "id": "p-3b5312",
-    "offset": 1024,
-    "text": "(2) Air has no weight."
+    "id": "p-218641",
+    "offset": 717,
+    "text": "(19) Cotton is grown in Cyprus."
   },
   {
-    "id": "p-392925",
-    "offset": 1048,
-    "text": "(3) All actors are improper characters."
+    "id": "p-b156b4",
+    "offset": 750,
+    "text": "(20) An honest man's the noblest work of God."
   },
   {
-    "id": "p-02f49a",
-    "offset": 1089,
-    "text": "(4) None but dead languages are worth studying."
+    "id": "p-73b073",
+    "offset": 797,
+    "text": "(21) No news is good news."
   },
   {
-    "id": "p-5c6312",
-    "offset": 1138,
-    "text": "(5) Some elements are compound."
+    "id": "p-3e8eb7",
+    "offset": 825,
+    "text": "(22) No friends are like old friends."
+  },
+  {
+    "id": "p-8852a1",
+    "offset": 864,
+    "text": "(23) Only the ignorant affect to despise knowledge."
+  },
+  {
+    "id": "p-6a4b97",
+    "offset": 917,
+    "text": "(24) All that trust in Him shall not be ashamed."
+  },
+  {
+    "id": "p-3fcde9",
+    "offset": 967,
+    "text": "(25) All is not gold that glitters."
+  },
+  {
+    "id": "p-952c8c",
+    "offset": 1004,
+    "text": "(26) The sun shines upon the evil and upon the good."
+  },
+  {
+    "id": "p-b1f8ce",
+    "offset": 1058,
+    "text": "(27) Not to go on is to go back."
+  },
+  {
+    "id": "p-48d78c",
+    "offset": 1092,
+    "text": "(28) The king, minister, and general are a pretty trio."
+  },
+  {
+    "id": "p-83cde7",
+    "offset": 1149,
+    "text": "(29) Amongst dogs are hounds."
+  },
+  {
+    "id": "p-b12dd9",
+    "offset": 1180,
+    "text": "(30) A fool is not always wrong."
+  },
+  {
+    "id": "p-69e960",
+    "offset": 1214,
+    "text": "(31) Alexander was magnanimous."
+  },
+  {
+    "id": "p-ad384c",
+    "offset": 1247,
+    "text": "(32) Food is necessary to life."
+  },
+  {
+    "id": "p-13d6bd",
+    "offset": 1280,
+    "text": "(33) There are three things to be considered,"
+  },
+  {
+    "id": "p-1bcb3f",
+    "offset": 1327,
+    "text": "(34) By penitence the Eternal's wrath's appeased."
+  },
+  {
+    "id": "p-dfc969",
+    "offset": 1378,
+    "text": "(35) Money is the miser's end."
+  },
+  {
+    "id": "p-8fa3cb",
+    "offset": 1410,
+    "text": "(36) Few men succeed in life."
+  },
+  {
+    "id": "p-216f3a",
+    "offset": 1441,
+    "text": "(37) All is lost, save honour."
+  },
+  {
+    "id": "p-71443d",
+    "offset": 1473,
+    "text": "(38) It is mean to hit a man when he is down."
+  },
+  {
+    "id": "p-a87d66",
+    "offset": 1520,
+    "text": "(39) Nothing but coolness could have saved him."
+  },
+  {
+    "id": "p-f42719",
+    "offset": 1569,
+    "text": "(40) Books are generally useful."
+  },
+  {
+    "id": "p-6972ed",
+    "offset": 1603,
+    "text": "(41) He envies others' virtue who has none himself."
+  },
+  {
+    "id": "p-9f6e94",
+    "offset": 1656,
+    "text": "(42) Thankless are all such offices."
+  },
+  {
+    "id": "p-11dae0",
+    "offset": 1694,
+    "text": "(43) Only doctors understand this subject."
+  },
+  {
+    "id": "p-0d2d3a",
+    "offset": 1738,
+    "text": "(44) All her guesses but two were correct."
+  },
+  {
+    "id": "p-2b0c33",
+    "offset": 1782,
+    "text": "(45) All the men were twelve."
+  },
+  {
+    "id": "p-d683ea",
+    "offset": 1813,
+    "text": "(46) Gossip is seldom charitable."
+  },
+  {
+    "id": "p-6c72c8",
+    "offset": 1848,
+    "text": "2. Give six examples of indefinite propositions, and then quantify them according to their matter."
+  },
+  {
+    "id": "p-8975f5",
+    "offset": 1948,
+    "text": "3. Compose three propositions of each of the following kinds:--"
+  },
+  {
+    "id": "p-fc0a1c",
+    "offset": 2013,
+    "text": "(1) with common terms for subjects;"
+  },
+  {
+    "id": "p-6928b1",
+    "offset": 2050,
+    "text": "(2) with abstract terms for subjects;"
+  },
+  {
+    "id": "p-9ff76f",
+    "offset": 2089,
+    "text": "(3) with singular terms for predicates;"
+  },
+  {
+    "id": "p-daa0dc",
+    "offset": 2130,
+    "text": "(4) with collective terms for predicates;"
+  },
+  {
+    "id": "p-4807bd",
+    "offset": 2173,
+    "text": "(5) with attributives in their subjects;"
+  },
+  {
+    "id": "p-0aa354",
+    "offset": 2215,
+    "text": "(6) with abstract terms for predicates."
+  },
+  {
+    "id": "p-b578ec",
+    "offset": 2256,
+    "text": "CHAPTER IV."
+  },
+  {
+    "id": "p-dafbd7",
+    "offset": 2269,
+    "text": "1. Point out what terms are distributed or undistributed in the following propositions:--"
+  },
+  {
+    "id": "p-ef75da",
+    "offset": 2360,
+    "text": "(1) The Chinese are industrious."
+  },
+  {
+    "id": "p-91af82",
+    "offset": 2394,
+    "text": "(2) The angle in a semi-circle is a right angle."
+  },
+  {
+    "id": "p-5cf250",
+    "offset": 2444,
+    "text": "(3) Not one of the crew survived."
+  },
+  {
+    "id": "p-20cc23",
+    "offset": 2479,
+    "text": "(4) The weather is sometimes not propitious."
+  },
+  {
+    "id": "p-6090b5",
+    "offset": 2525,
+    "text": "The same exercise may be performed upon any of the propositions in the preceding list."
+  },
+  {
+    "id": "p-fd397f",
+    "offset": 2613,
+    "text": "2. Prove that in a negative proposition the predicate must be distributed."
+  },
+  {
+    "id": "p-c1e827",
+    "offset": 2689,
+    "text": "CHAPTER V."
+  },
+  {
+    "id": "p-063550",
+    "offset": 2701,
+    "text": "Affix its proper symbol to each of the following propositions:--"
+  },
+  {
+    "id": "p-87b156",
+    "offset": 2767,
+    "text": "(1) No lover he who is not always fond."
+  },
+  {
+    "id": "p-7ac053",
+    "offset": 2808,
+    "text": "(2) There are Irishmen and Irishmen."
+  },
+  {
+    "id": "p-a36850",
+    "offset": 2846,
+    "text": "(3) Men only disagree, Of creatures rational."
+  },
+  {
+    "id": "p-397221",
+    "offset": 2893,
+    "text": "(4) Some wise men are poor."
+  },
+  {
+    "id": "p-8fd92c",
+    "offset": 2922,
+    "text": "(5) No Popes are some fallible beings."
+  },
+  {
+    "id": "p-55a71f",
+    "offset": 2962,
+    "text": "(6) Some step-mothers are not unjust."
+  },
+  {
+    "id": "p-611aff",
+    "offset": 3001,
+    "text": "(7) The most original of the Roman poets was Lucretius."
+  },
+  {
+    "id": "p-61f931",
+    "offset": 3058,
+    "text": "(8) Some of the immediate inferences are all the forms of conversion."
+  },
+  {
+    "id": "p-06b982",
+    "offset": 3129,
+    "text": "CHAPTER VI."
+  },
+  {
+    "id": "p-9cd8c0",
+    "offset": 3142,
+    "text": "1. Give six examples of terms standing one to another as genus to species."
+  },
+  {
+    "id": "p-93c178",
+    "offset": 3218,
+    "text": "2. To which of the heads of predicables would you refer the following statements? And why?"
+  },
+  {
+    "id": "p-c88e70",
+    "offset": 3310,
+    "text": "(1) A circle is the largest space that can be contained by one line."
+  },
+  {
+    "id": "p-c5fd76",
+    "offset": 3380,
+    "text": "(2) All the angles of a square are right angles."
+  },
+  {
+    "id": "p-7f99d9",
+    "offset": 3430,
+    "text": "(3) Man alone among animals possesses the faculty of laughter."
+  },
+  {
+    "id": "p-3e5ecc",
+    "offset": 3494,
+    "text": "(4) Some fungi are poisonous."
+  },
+  {
+    "id": "p-51701c",
+    "offset": 3525,
+    "text": "(5) Most natives of Africa are negroes."
+  },
+  {
+    "id": "p-9fc615",
+    "offset": 3566,
+    "text": "(6) All democracies are governments."
+  },
+  {
+    "id": "p-c84904",
+    "offset": 3604,
+    "text": "(7) Queen Anne is dead."
+  },
+  {
+    "id": "p-24b219",
+    "offset": 3629,
+    "text": "CHAPTER VII."
+  },
+  {
+    "id": "p-f69785",
+    "offset": 3643,
+    "text": "1. Define the following terms--"
+  },
+  {
+    "id": "p-488dd9",
+    "offset": 3676,
+    "text": "Sun inn-keeper tea-pot hope anger virtue bread diplomacy milk carpet man death sincerity telescope mountain poverty Senate novel."
+  },
+  {
+    "id": "p-465c52",
+    "offset": 3807,
+    "text": "2. Define the following terms as used in Political Economy--"
+  },
+  {
+    "id": "p-c60224",
+    "offset": 3869,
+    "text": "Commodity barter value wealth land price money labour rent interest capital wages credit demand profits."
+  },
+  {
+    "id": "p-e811f7",
+    "offset": 3975,
+    "text": "3. Criticise the following as definitions--"
+  },
+  {
+    "id": "p-d36897",
+    "offset": 4020,
+    "text": "(1) Noon is the time when the shadows of bodies are shortest."
+  },
+  {
+    "id": "p-89c5c0",
+    "offset": 4083,
+    "text": "(2) Grammar is the science of language."
+  },
+  {
+    "id": "p-84e110",
+    "offset": 4124,
+    "text": "(3) Grammar is a branch of philology."
+  },
+  {
+    "id": "p-8b7a5e",
+    "offset": 4163,
+    "text": "(4) Grammar is the art of speaking and writing a language with propriety."
+  },
+  {
+    "id": "p-3b5978",
+    "offset": 4238,
+    "text": "(5) Virtue is acting virtuously."
+  },
+  {
+    "id": "p-79715f",
+    "offset": 4272,
+    "text": "(6) Virtue is that line of conduct which tends to produce happiness."
+  },
+  {
+    "id": "p-c23a92",
+    "offset": 4342,
+    "text": "(7) A dog is an animal of the canine species."
+  },
+  {
+    "id": "p-81d054",
+    "offset": 4389,
+    "text": "(8) Logic is the art of reasoning."
+  },
+  {
+    "id": "p-44bc3d",
+    "offset": 4425,
+    "text": "(9) Logic is the science of the investigation of truth by means of evidence."
+  },
+  {
+    "id": "p-0d8301",
+    "offset": 4503,
+    "text": "(10) Music is an expensive noise."
+  },
+  {
+    "id": "p-ac271f",
+    "offset": 4538,
+    "text": "(11) The sun is the centre of the solar system."
+  },
+  {
+    "id": "p-d19c2a",
+    "offset": 4587,
+    "text": "(12) The sun is the brightest of those heavenly bodies that move round the earth."
+  },
+  {
+    "id": "p-6b214e",
+    "offset": 4670,
+    "text": "(13) Rust is the red desquamation of old iron."
+  },
+  {
+    "id": "p-55e53e",
+    "offset": 4718,
+    "text": "(14) Caviare is a kind of food."
+  },
+  {
+    "id": "p-ed6f79",
+    "offset": 4751,
+    "text": "(15) Life is the opposite of death."
+  },
+  {
+    "id": "p-94fa7a",
+    "offset": 4788,
+    "text": "(16) Man is a featherless biped."
+  },
+  {
+    "id": "p-e6e8ae",
+    "offset": 4822,
+    "text": "(17) Man is a rational biped."
+  },
+  {
+    "id": "p-7eb783",
+    "offset": 4853,
+    "text": "(18) A gentleman is a person who has no visible means of subsistence."
+  },
+  {
+    "id": "p-9aee55",
+    "offset": 4924,
+    "text": "(19) Fame is a fancied life in others' breath."
+  },
+  {
+    "id": "p-ec4a50",
+    "offset": 4972,
+    "text": "(20) A fault is a quality productive of evil or inconvenience."
+  },
+  {
+    "id": "p-b79bb1",
+    "offset": 5036,
+    "text": "(21) An oligarchy is the supremacy of the rich in a state."
+  },
+  {
+    "id": "p-0c5653",
+    "offset": 5096,
+    "text": "(22) A citizen is one who is qualified to exercise deliberative and judicial functions."
+  },
+  {
+    "id": "p-7177d9",
+    "offset": 5185,
+    "text": "(23) Length is that dimension of a solid which would be measured by the longest line."
+  },
+  {
+    "id": "p-c84298",
+    "offset": 5272,
+    "text": "(24) An eccentricity is a peculiar idiosyncrasy."
+  },
+  {
+    "id": "p-875600",
+    "offset": 5322,
+    "text": "(25) Deliberation is that species of investigation which is concerned with matters of action."
+  },
+  {
+    "id": "p-f88295",
+    "offset": 5417,
+    "text": "(26) Memory is that which helps us to forget."
+  },
+  {
+    "id": "p-4dd720",
+    "offset": 5464,
+    "text": "(27) Politeness is the oil that lubricates the wheels of society."
+  },
+  {
+    "id": "p-3f2af1",
+    "offset": 5531,
+    "text": "(28) An acute-angled triangle is one which has an acute angle."
+  },
+  {
+    "id": "p-4ff3d4",
+    "offset": 5595,
+    "text": "(29) A cause is that without which something would not be."
+  },
+  {
+    "id": "p-118b5d",
+    "offset": 5655,
+    "text": "(30) A cause is the invariable antecedent of a phenomenon."
+  },
+  {
+    "id": "p-dc2665",
+    "offset": 5715,
+    "text": "(31) Necessity is the mother of invention."
+  },
+  {
+    "id": "p-fbebe9",
+    "offset": 5759,
+    "text": "(32) Peace is the absence of war."
+  },
+  {
+    "id": "p-cbdaaa",
+    "offset": 5794,
+    "text": "(33) A net is a collection of holes strung together."
+  },
+  {
+    "id": "p-3e52a2",
+    "offset": 5848,
+    "text": "(34) Prudence is the ballast of the moral vessel."
+  },
+  {
+    "id": "p-f6afab",
+    "offset": 5899,
+    "text": "(35) A circle is a plane figure contained by one line."
+  },
+  {
+    "id": "p-cc1ef7",
+    "offset": 5955,
+    "text": "(36) Superstition is a tendency to look for constancy where constancy is not to be expected."
+  },
+  {
+    "id": "p-0d2709",
+    "offset": 6049,
+    "text": "(37) Bread is the staff of life."
+  },
+  {
+    "id": "p-35d6e5",
+    "offset": 6083,
+    "text": "(38) An attributive is a term which cannot stand as a subject."
+  },
+  {
+    "id": "p-e3c1e1",
+    "offset": 6147,
+    "text": "(39) Life is bottled sunshine."
+  },
+  {
+    "id": "p-30d5a9",
+    "offset": 6179,
+    "text": "(40) Eloquence is the power of influencing the feelings by speech or writing."
+  },
+  {
+    "id": "p-412b14",
+    "offset": 6258,
+    "text": "(41) A tombstone is a monument erected over a grave in memory of the dead."
+  },
+  {
+    "id": "p-8691b1",
+    "offset": 6334,
+    "text": "(42) Whiteness is the property or power of exciting the sensation of white."
+  },
+  {
+    "id": "p-d951e6",
+    "offset": 6411,
+    "text": "(43) Figure is the limit of a solid."
+  },
+  {
+    "id": "p-ed04e9",
+    "offset": 6449,
+    "text": "(44) An archdeacon is one who exercises archidiaconal functions."
+  },
+  {
+    "id": "p-657b19",
+    "offset": 6515,
+    "text": "(45) Humour is thinking in jest while feeling in earnest."
+  },
+  {
+    "id": "p-1cbee0",
+    "offset": 6574,
+    "text": "CHAPTER VIII."
+  },
+  {
+    "id": "p-68371a",
+    "offset": 6589,
+    "text": "1. Divide the following terms--"
+  },
+  {
+    "id": "p-759092",
+    "offset": 6622,
+    "text": "Soldier end book church good oration apple cause school ship government letter vehicle science verse."
+  },
+  {
+    "id": "p-ba211f",
+    "offset": 6725,
+    "text": "2. Divide the following terms as used in Political Economy--"
+  },
+  {
+    "id": "p-ff33bb",
+    "offset": 6787,
+    "text": "Requisites of production, labour, consumption, stock, wealth, capital."
+  },
+  {
+    "id": "p-91c702",
+    "offset": 6859,
+    "text": "3. Criticise the following as divisions--"
+  },
+  {
+    "id": "p-c2cb49",
+    "offset": 6902,
+    "text": "(1) Great Britain into England, Scotland, Wales, and Ireland."
+  },
+  {
+    "id": "p-775738",
+    "offset": 6965,
+    "text": "(2) Pictures into sacred, historical, landscape, and mythological."
+  },
+  {
+    "id": "p-8c3d7d",
+    "offset": 7033,
+    "text": "(3) Vertebrate animals into quadrupeds, birds, fishes, and reptiles."
+  },
+  {
+    "id": "p-4c62f9",
+    "offset": 7103,
+    "text": "(4) Plant into stem, root, and branches."
+  },
+  {
+    "id": "p-05a1d1",
+    "offset": 7145,
+    "text": "(5) Ship into frigate, brig, schooner, and merchant-man."
+  },
+  {
+    "id": "p-888428",
+    "offset": 7203,
+    "text": "(6) Books into octavo, quarto, green, and blue."
+  },
+  {
+    "id": "p-efc6e7",
+    "offset": 7252,
+    "text": "(7) Figure into curvilinear and rectilinear."
+  },
+  {
+    "id": "p-36a688",
+    "offset": 7298,
+    "text": "(8) Ends into those which are ends only, means and ends, and means only."
+  },
+  {
+    "id": "p-31dfdc",
+    "offset": 7372,
+    "text": "(9) Church into Gothic, episcopal, high, and low."
+  },
+  {
+    "id": "p-aa5c43",
+    "offset": 7423,
+    "text": "(10) Sciences into physical, moral, metaphysical, and medical."
+  },
+  {
+    "id": "p-b6b1cb",
+    "offset": 7487,
+    "text": "(11) Library into public and private."
+  },
+  {
+    "id": "p-b1bcd6",
+    "offset": 7526,
+    "text": "(12) Horses into race-horses, hunters, hacks, thoroughbreds, ponies, and mules."
+  },
+  {
+    "id": "p-92e9e9",
+    "offset": 7607,
+    "text": "4. Define and divide--"
+  },
+  {
+    "id": "p-5ef5ee",
+    "offset": 7631,
+    "text": "Meat, money, virtue, triangle;"
+  },
+  {
+    "id": "p-dd6bd7",
+    "offset": 7663,
+    "text": "and give, as far as possible, a property and accident of each."
   }
 ]

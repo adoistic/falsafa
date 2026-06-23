@@ -4,15 +4,19 @@ slug: "lysander-spooner-an-essay-on-the-trial-by-jury-8ca341"
 title: An Essay on the Trial by Jury
 author:
   name: Lysander Spooner
-  biography: Lysander Spooner (1808–1887).
+  biography: "American legal theorist, abolitionist, and individualist anarchist of the Massachusetts bar. His treatises argued that the Constitution authorized no slavery and ultimately bound no one, carrying natural-rights argument to anti-statist conclusions."
+  birth_year: 1808
+  death_year: 1887
+  nationality: American
 era: 19th Century
 genre: Law
 language: English
 language_direction: ltr
 description: "An Essay on the Trial by Jury, by Lysander Spooner (1808–1887), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
-total_logical_chapters: 27
-total_variant_entries: 27
+published_year: 1852
+total_logical_chapters: 23
+total_variant_entries: 23
 thothica_role: catalog
 ---
 
@@ -22,30 +26,26 @@ An Essay on the Trial by Jury, by Lysander Spooner (1808–1887), a public-domai
 
 ## Chapters
 
-01. [An Essay on the Trial by Jury](./chapters/01-an-essay-on-the-trial-by-jury/) — prose, 1 variant
-02. [An Essay on the Trial by Jury](./chapters/02-an-essay-on-the-trial-by-jury/) — prose, 1 variant
-03. [NOTICE TO ENGLISH PUBLISHERS.↩](./chapters/03-notice-to-english-publishers/) — prose, 1 variant
-04. [NOTE.↩](./chapters/04-note/) — prose, 1 variant
-05. [SECTION I.↩](./chapters/05/) — prose, 1 variant
-06. [SECTION II.↩](./chapters/06/) — prose, 1 variant
-07. [CHAPTER II.: THE TRIAL BY JURY, AS DEFINED BY MAGNA CARTA.↩](./chapters/07/) — prose, 1 variant
-08. [SECTION I.: The History of Magna Carta.↩](./chapters/08/) — prose, 1 variant
-09. [SECTION II.: The Language of Magna Carta.↩](./chapters/09/) — prose, 1 variant
-10. [CHAPTER III.: ADDITIONAL PROOFS OF THE RIGHTS AND DUTIES OF JURORS.↩](./chapters/10/) — prose, 1 variant
-11. [SECTION I.: Weakness of the Regal Authority.↩](./chapters/11/) — prose, 1 variant
-12. [SECTION II.: The Ancient Common Law Juries were mere Courts of Conscience.↩](./chapters/12/) — prose, 1 variant
-13. [SECTION III.: The Oaths of Jurors.↩](./chapters/13/) — prose, 1 variant
-14. [SECTION IV.: The Right of Juries to fix the Sentence.↩](./chapters/14/) — prose, 1 variant
-15. [SECTION V.: The Oaths of Judges.↩](./chapters/15/) — prose, 1 variant
-16. [The Coronation Oath.↩](./chapters/16-the-coronation-oath/) — prose, 1 variant
-17. [An Essay on the Trial by Jury](./chapters/17-an-essay-on-the-trial-by-jury/) — prose, 1 variant
-18. [An Essay on the Trial by Jury](./chapters/18-an-essay-on-the-trial-by-jury/) — prose, 1 variant
-19. [An Essay on the Trial by Jury](./chapters/19-an-essay-on-the-trial-by-jury/) — prose, 1 variant
-20. [An Essay on the Trial by Jury](./chapters/20-an-essay-on-the-trial-by-jury/) — prose, 1 variant
-21. [An Essay on the Trial by Jury](./chapters/21-an-essay-on-the-trial-by-jury/) — prose, 1 variant
-22. [An Essay on the Trial by Jury](./chapters/22-an-essay-on-the-trial-by-jury/) — prose, 1 variant
-23. [An Essay on the Trial by Jury](./chapters/23-an-essay-on-the-trial-by-jury/) — prose, 1 variant
-24. [An Essay on the Trial by Jury](./chapters/24-an-essay-on-the-trial-by-jury/) — prose, 1 variant
-25. [An Essay on the Trial by Jury](./chapters/25-an-essay-on-the-trial-by-jury/) — prose, 1 variant
-26. [TAXATION.↩](./chapters/26-taxation/) — prose, 1 variant
-27. [An Essay on the Trial by Jury](./chapters/27-an-essay-on-the-trial-by-jury/) — prose, 1 variant
+01. [An Essay on the Trial by Jury (1)](./chapters/01-an-essay-on-the-trial-by-jury-1/) — prose, 1 variant
+02. [Notice to English Publishers.↩, Section I.↩](./chapters/02-notice-to-english-publishers-section-i/) — prose, 1 variant
+03. [Section Ii.↩](./chapters/03/) — prose, 1 variant
+04. [Section I.: The History of Magna Carta.↩](./chapters/04/) — prose, 1 variant
+05. [Section II.: The Language of Magna Carta.↩](./chapters/05/) — prose, 1 variant
+06. [Chapter III.: Additional Proofs of the Rights and Duties of Jurors.↩](./chapters/06/) — prose, 1 variant
+07. [Section I.: Weakness of the Regal Authority.↩](./chapters/07/) — prose, 1 variant
+08. [Section II.: The Ancient Common Law Juries were mere Courts of Conscience.↩](./chapters/08/) — prose, 1 variant
+09. [Section III.: The Oaths of Jurors.↩](./chapters/09/) — prose, 1 variant
+10. [Section IV.: The Right of Juries to fix the Sentence.↩](./chapters/10/) — prose, 1 variant
+11. [Section V.: The Oaths of Judges.↩](./chapters/11/) — prose, 1 variant
+12. [Section Vi.↩, The Coronation Oath.↩](./chapters/12/) — prose, 1 variant
+13. [Section Vi.↩, An Essay on the Trial by Jury](./chapters/13/) — prose, 1 variant
+14. [Section Vi.↩, An Essay on the Trial by Jury (2)](./chapters/14/) — prose, 1 variant
+15. [Section Vi.↩, An Essay on the Trial by Jury (3)](./chapters/15/) — prose, 1 variant
+16. [Section Vi.↩, An Essay on the Trial by Jury (4)](./chapters/16/) — prose, 1 variant
+17. [Section Vi.↩, An Essay on the Trial by Jury (5)](./chapters/17/) — prose, 1 variant
+18. [Section Vi.↩, An Essay on the Trial by Jury (6)](./chapters/18/) — prose, 1 variant
+19. [Section Vi.↩, An Essay on the Trial by Jury (7)](./chapters/19/) — prose, 1 variant
+20. [Section Vi.↩, An Essay on the Trial by Jury (8)](./chapters/20/) — prose, 1 variant
+21. [Section Vi.↩, An Essay on the Trial by Jury (9)](./chapters/21/) — prose, 1 variant
+22. [Appendix.↩, Taxation.↩](./chapters/22-appendix-taxation/) — prose, 1 variant
+23. [Taxation.↩, An Essay on the Trial by Jury](./chapters/23-taxation-an-essay-on-the-trial-by-jury/) — prose, 1 variant

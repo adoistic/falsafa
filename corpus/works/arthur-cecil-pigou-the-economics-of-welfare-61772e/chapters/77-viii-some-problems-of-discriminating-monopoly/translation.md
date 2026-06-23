@@ -4,7 +4,7 @@ work_slug: "arthur-cecil-pigou-the-economics-of-welfare-61772e"
 work_title: The Economics of Welfare
 author_name: Arthur Cecil Pigou
 chapter_number: 77
-chapter_title: VIII SOME PROBLEMS OF DISCRIMINATING MONOPOLY
+chapter_title: VIII Some Problems of Discriminating Monopoly
 chapter_slug: "77-viii-some-problems-of-discriminating-monopoly"
 variant_id: "6624f543-8d57-5ac2-8bb3-43e3688f3bf9"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-now-and-after-the-abc-of-communi-31809e",
+  "work_title": "Now and After: The ABC of Communist Anarchism (What is Communist Anarchism?)",
+  "chapter_number": 32,
+  "chapter_title": "Chapter 30 : Production",
+  "chapter_slug": "32",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14ac1d64-61e4-5ba5-a674-6ebe2c3ca813",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3145,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1929/what-is-communist-anarchism/chapter-30.html"
+    }
+  ]
+}

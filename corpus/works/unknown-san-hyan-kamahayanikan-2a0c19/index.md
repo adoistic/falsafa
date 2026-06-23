@@ -2,10 +2,10 @@
 id: "2a0c1902-79ec-45d1-84f8-1f26a4b9732a"
 slug: "unknown-san-hyan-kamahayanikan-2a0c19"
 title: San Hyan Kamahayanikan
-author: Mpu Shri Sambhara Surya Warama
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Mpu Shri Sambhara Surya Warama
+  biography: An Old Javanese author of the Mpu rank. San Hyan Kamahayanikan is a Kawi exposition of Mahāyāna Buddhist doctrine as it was practised in early Java.
+  nationality: Javanese
 era: Medieval
 genre: Indic
 language: Kawi

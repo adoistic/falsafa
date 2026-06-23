@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 33,
-  "chapter_title": "SECTION V.: Of Alterations of the Standard Money.",
+  "chapter_title": "Section VII.: Of a Peculiarity that should be attended to, in estimating the Sums mentioned in History.",
   "chapter_slug": "33",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2881,
-      "paragraph_count": 25,
+      "word_count": 2121,
+      "paragraph_count": 18,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

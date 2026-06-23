@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 14,
+  "chapter_title": "Â§ 17 The development of capitalism and of class. The intensification of the class struggle",
+  "chapter_slug": "14-a-17-the-development-of-capitalism-and-of-class-th",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "07193c3c-ace5-5a6c-b348-aeb0d877dd47",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1799,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/02.htm"
+    }
+  ]
+}

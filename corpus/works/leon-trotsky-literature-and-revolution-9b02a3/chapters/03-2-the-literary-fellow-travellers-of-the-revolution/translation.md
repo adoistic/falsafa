@@ -1,0 +1,25 @@
+---
+work_id: "9b02a332-28a9-5238-81a5-ffc22b13de91"
+work_slug: "leon-trotsky-literature-and-revolution-9b02a3"
+work_title: Literature and Revolution
+author_name: Leon Trotsky
+chapter_number: 3
+chapter_title: "2. The Literary “Fellow-travellers” of the Revolution"
+chapter_slug: "03-2-the-literary-fellow-travellers-of-the-revolution"
+variant_id: "dcc58adb-3a29-5bcb-98f4-44d2bbffc190"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 735
+source_url: "https://www.marxists.org/archive/trotsky/1924/lit_revo/ch02.htm"
+translator: Rose Strunsky
+---
+
+NON-REVOLUTIONARY or non-October literature, as we characterized it in the first chapter, is now in reality a past stage. At first, the writers placed themselves in active opposition to October, denying all artistic recognition to everything connected with the Revolution, just as the teachers refused to teach the children of revolutionary Russia. The non-October character of literature, therefore, not only expressed the deep alienation that lay between the two worlds, but it became also a tool for active politics, the sabotage of the artist. This policy annihilated itself; the old literature is now not so much unwilling, as unable.
+
+Between bourgeois art, which is wasting away either in repetitions or in silences, and the new art which is as yet unborn, there is being created a transitional art which is more or less organically connected with the Revolution, but which is not at the same time the art of the Revolution. Boris Pilnyak, Vsevolod Ivanov, Nicolai Tikhonov, the “Serapion Fraternity”, Yessenin and his group of Imagists and, to some extent, Kliuev – all of them were impossible without the Revolution, either as a group, or separately. They know it themselves and do not deny it, do not feel the necessity of denying it, and some even proclaim it loudly. They do not belong to the literary job-holders who are beginning little by little to “picture” the Revolution. They are not even the “Changing Landmarks” group, because in this is implied a breach with the past, a radical change of front. The majority of these writers just mentioned are very young, between twenty and thirty. They have no revolutionary past whatever and if they broke away from anything at all it was from bagatelles. In general their literary and spiritual front has been made by the Revolution, by that angle of it which caught them, and they all have accepted the Revolution, each one in his own way. But in these individual acceptances, there is one common trait which sharply divides them from Communism, and always threatens to put them in opposition to it. They do not grasp the Revolution as a whole and the Communist ideal is foreign to them. They are all more or less inclined to look hopefuully at the peasant over the head of the worker. They are not the artists of the proletarian Revolution, but her artist “fellow-travellers”, in the sense in which this word was used by the old Socialists. If non-October (in essence anti-October) literature is the moribund literature of bourgeois land-owning Russia, then the literary work of the “fellow-travellers” is, in its way, a new Soviet populism, without the traditions of the old populism and – up to now – without political perspective. As regards a “fellow-traveller”, the question always comes up – how far will he go? This question cannot be answered in advance, not even approximately. The solution of it depends not so much on the personal qualities of this or that “fellow-traveller”, but mainly on the objective trend of things during the coming decade.
+
+However, in the dualism of the point of view of these “fellow-travellers”, which makes them doubtful of themselves, there is a constant artistic and social danger. Blok felt this dualism of morals and art more deeply than the others; in general, he was deeper. In the reminiscences of him, written by Nadezhda Pavlovich, there is the following sentence: “The Bolsheviks do not hinder the writing of verses but they binder you from feeling yourself a master~ he is a master who feels the axis of his creativeness and holds the rhythm within himself." In the expression of this thought there is a certain indefiniteness so common to Blok, and besides, we are dealing here with reminiscences, which, as everyone knows, are not always accurate. But the inner resemblance to truth and the significance of this sentence make one believe it. The Bolsheviks hinder one from feeling oneself a master because a master must have within himself an organic, irrefutable axis and the Bolsheviks have displaced the main axis. None of the “fellow-travellers” of the Revolution – and Blok was also a “fellow-traveller”, and the “fellow-travellers” form at present a very important division of Russian literature – carry the axis within themselves. And therefore we have only a preparatory period for a new literature, only études, sketches, essays – but complete mastery with a reliable axis within oneself, is still to come.

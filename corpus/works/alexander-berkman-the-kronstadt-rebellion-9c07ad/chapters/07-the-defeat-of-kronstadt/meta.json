@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-kronstadt-rebellion-9c07ad",
+  "work_title": "The Kronstadt Rebellion",
+  "chapter_number": 7,
+  "chapter_title": "The Defeat of Kronstadt",
+  "chapter_slug": "07-the-defeat-of-kronstadt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6730b15e-e465-570a-be90-0793fd95c71c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1169,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1922/kronstadt-rebellion/ch7.htm"
+    }
+  ]
+}

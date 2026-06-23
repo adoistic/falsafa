@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 6
-chapter_title: "CHAPTER III: ECONOMICAL ADMINISTRATION AND ITS DIFFICULTIES"
+chapter_title: "Chapter III: Economical Administration and Its Difficulties"
 chapter_slug: 06
 variant_id: "e1745a93-5e14-5da9-b274-d3e35439473b"
 content_type: translation

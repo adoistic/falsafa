@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 29,
+  "chapter_title": "Chapter XVII: Principal Causes Maintaining The Democratic Republic – Part I",
+  "chapter_slug": "29",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ba4f2c79-de22-5b80-bb27-dcfa0e451e60",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4373,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch17.htm"
+    }
+  ]
+}

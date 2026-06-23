@@ -2,7 +2,7 @@
   "work_slug": "dante-alighieri-de-monarchia-a58c66",
   "work_title": "De Monarchia",
   "chapter_number": 29,
-  "chapter_title": "CHAPTER X: That which is acquired by single combat is acquired with Right.",
+  "chapter_title": "Chapter X: That which is acquired by single combat is acquired with Right.",
   "chapter_slug": "29",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 751,
+      "word_count": 739,
       "paragraph_count": 7,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"

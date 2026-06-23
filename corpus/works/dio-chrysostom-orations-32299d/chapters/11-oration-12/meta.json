@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 11,
+  "chapter_title": "Oration 12",
+  "chapter_slug": "11-oration-12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d1703952-308c-5c94-b9c8-bf0c04631e68",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6528,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b5e2d077-bacd-545a-a411-b207a55c3768",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8802,
+      "paragraph_count": 85,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 29,
+  "chapter_title": "Income and Expenditure of the Land-revenues.",
+  "chapter_slug": "29-income-and-expenditure-of-the-land-revenues",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d039b178-1384-5b8b-9d90-8e0c77a3cef6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 726,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

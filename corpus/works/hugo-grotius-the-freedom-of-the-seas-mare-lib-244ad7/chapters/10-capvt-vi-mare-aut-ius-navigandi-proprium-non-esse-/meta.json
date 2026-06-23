@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-freedom-of-the-seas-mare-lib-244ad7",
+  "work_title": "The Freedom of the Seas (Mare Liberum)",
+  "chapter_number": 10,
+  "chapter_title": "Capvt VI: Mare aut ius navigandi proprium non esse Lusitanorum titulo donationis Pontificiae",
+  "chapter_slug": "10-capvt-vi-mare-aut-ius-navigandi-proprium-non-esse-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7d7975d1-3cac-585a-840a-5f8f47597192",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 306,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/scott-the-freedom-of-the-seas-latin-and-english-version-magoffin-trans"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-labour-in-irish-history-dad525",
+  "work_title": "Labour in Irish History",
+  "chapter_number": 20,
+  "chapter_title": "Chapter XVI The working class: The inheritors of the Irish ideals of the past – The repository of the hopes of the futur",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f8e50aa2-30ef-568b-b009-829e306a6859",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4517,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1910/lih/chap16.htm"
+    }
+  ]
+}

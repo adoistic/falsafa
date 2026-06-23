@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 35,
+  "chapter_title": "Modes by Which Latin Freedmen Become Roman Citizens.",
+  "chapter_slug": "35-modes-by-which-latin-freedmen-become-roman-citizen",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8db0657c-1064-55e4-bb30-805c11dcf64b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2116,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+---
+work_id: "3afc4279-4e0a-5644-b8c7-c2540f6399c4"
+work_slug: "herman-gorter-the-world-revolution-1923-3afc42"
+work_title: The World Revolution (1923)
+author_name: Herman Gorter
+chapter_number: 4
+chapter_title: IV
+chapter_slug: "04-iv"
+variant_id: "1b70b370-f4bd-5c5f-b478-72fcabba89a6"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1993
+source_url: "https://www.marxists.org/archive/gorter/1923/world-revolution.htm"
+translator: Marxists Internet Archive edition
+---
+
+Even in a peasant country like Russia the proletariat has become so important, and its development has progressed so far, that its leaders, its party takes up the establishment of capitalism and runs it against the proletariat.
+
+In the beginning of 1918 the Bolshevist party, which was still more or less Communist, tried to support itself by aid of the landless and the poor. Now it supports the peasant proprietors and creates tenant farmers and landless labourers — in short, it makes capitalism.
+
+Industry is no longer in the absolute possession and control of the State. Small industry has quite freed itself from State control.
+
+A part of the heavy and wholesale industry, including a few of the most important branches, has been handed over to trusts formed by State and private capital. Under these trusts the workers are mere wage workers. These trusts have a large measure of independence from State control, yet they are assisted by the State. They compete with private firms, and also with State industries.
+
+Internal commerce in Russia is now unrestricted. One can buy and sell anything. Large and small capitalists are cropping up everywhere, both in town and country. Capitalism is growing up with commerce in Russia, as it formerly did in other countries, from the basis of a peasant State. The capital created by commerce is used in founding or enlarging banks and industries.
+
+Foreign trade is apparently in the hands of the State, but actually this is no longer the case. The huge Russian Co-operative Society, Centrosojus, has already the privilege of foreign trade, with a few unimportant restrictions. The Centrosojus, which is spread over the whole country, especially where the peasants are, was always and still is a bourgeois-capitalist institution. Even now it conducts its commerce on purely capitalist principles. The great trusts still require the consent of the departments for their foreign trade, but they are too powerful for any demands to be refused. At the Hague, Krassin gave the representatives of the big States a long list of such commercial enterprises.
+
+The Russian Government is prepared to give great concessions to foreign capitalists. It gave to Krupps four millions in foreign agricultural enterprises. It has given out various concessions in petroleum, forests, mines, and so on.
+
+Local finances have been separated from State finances. One can understand what use the peasant proprietors have made of this power. Wages are introduced again, even indirect taxes on tobacco, coffee, matches, soap, petroleum, sugar, salt, beer and textiles. The end will be a State bank, which acts as agent for home and foreign trade and discounts bills of exchange.
+
+Sokolnikov declared at the Hague that these rights are already given to private persons and to the trusts which are partly State and partly private concerns, and that a constantly increasing bill of exchange business is being done.
+
+At a sitting of the Financial Department in April, 1923, Aron Scheimann, director of the Russian State Bank, said that the financial section was in favour of allowing private banks.
+
+In the large towns of Russia, the exchanges are again open. An army of contractors, merchants, bankers, agents, brokers, speculators, stock jobbers and profiteers are very loosely held in by a sort of State capitalism. There is a growing middle-class of shopkeepers and middlemen, small employers, salaried employees and intellectuals, all non-producing vampires, living on the proletariat. Beside them is the vast army of peasant owners.
+
+The small proletariat is very weak, notwithstanding all appearances to the contrary. The army consists mainly of peasants’ sons.
+
+All are waiting for foreign trade to be quite free to everyone as well as to the co-operative societies, the trusts, and the high and mighty private persons. That will not be long.
+
+Then all the bonds of capitalism will be loosened and the proletariat will be completely fettered.
+
+Is there a great difference between the creation of a capitalism out of a peasant in former centuries, or even in the 19th century, in South Africa, Australia and North America and this creation in Russia?
+
+Certainly the circumstances are different in the Colonies. There the peasants were free; in Russia they came out of despotism, even in part out of mediaeval conditions.
+
+Yet are the Russian peasants free now?
+
+No; the difference between the creation of capitalism in Russia to-day and in past times is very slight. In the past capitalism was created by capitalists who had sprung from the peasants or from foreign countries. Now capitalism is created by a party sprung out of the proletariat.
+
+Poor Russian workers! Even before Krondstadt you had no power to guide and control the State, neither you nor your organisations. That power was held by a bureaucratic party and a dozen leaders. Nevertheless you had won something by the revolution: you had a few rights and capitalism had disappeared from the towns.
+
+Now you, or rather your class, has no longer any hold over industry and commerce, even in the towns. It never secured possession of the soil; it no longer has either the most important food stuffs or the raw materials.
+
+The obligation for all to work no longer exists. The State no longer supplies them with food and other necessaries. It gives nothing without money. There are capitalists again and capitalist organisations. Wage battles and unemployment have returned, and there is even compulsory arbitration. Your class are wage slaves precisely as before.
+
+There is still a little State capitalism left, and the leaders of the capitalist State are the old favourite leaders of the Communist Party.
+
+What is the object of your work? To what end do you create surplus value by your labour?
+
+It serves capitalism. Firstly, the Government of the Soviet State uses it to enrich the peasantry, that this class may grow and assist the growth of a peasants’ and capitalists’ Russia.
+
+Communism in Russia is the sinking appearance. Capitalism is the rising and expanding reality.
+
+It is certain that under the lead of the Bolshevists will arise a mighty enemy of the proletarian revolution; a Russian capitalist State, only equalled in its vast richness of natural resources by the United States of America.
+
+In many parts of the world conditions are similar, or begin to be similar, to those in Russia. In British and Dutch India and in China there are enormous numbers of small peasants who are oppressed by national and foreign Powers. The population of those countries now numbers seven or eight hundred millions of people, for the most part small peasants. The ferment against the misrule of the national and foreign Governments is growing — the revolution approaches. Moreover, there is a proletariat which is growing rapidly, both in numbers and in class consciousness. It is not impossible that the proletariat might secure the leadership of a revolution, or share it with other classes. Yet as the proletariat in the big modern capitalist industries is still weaker than in Russia, the revolution in those countries would produce, still more surely than in Russia, a nationalist capitalist State. The same thing would happen in Asiatic Turkey, Persia, Arabia, Afghanistan, where, except in a few of the seaports, there are few or no modern proletarians.
+
+If Russia, with its heroic, conscious proletariat, must introduce capitalism, it is still more sure that when the nations of Asia start their revolution huge capitalist States will grow up there as enemies of the world proletariat. Russia makes itself a capitalist-nationalist State and a competitor of Western Europe, whilst North America promotes the capitalist development of Asia.
+
+The capitalist development of the East has been enormously accelerated by the world war and the Russian revolution. Awakening Asia is the new enemy of the world proletarian revolution.
+
+The accomplishment of the Russian revolution was so mighty that the vanguard of the workers of Western Europe were impressed by it and obeyed the leaders of the Bolshevist Party, and the whole Third International followed Russia. Just as in Russia, what the Third International called upon the European workmen to do was partly proletarian-communist, and partly bourgeois-capitalist. Although these countries were for the most part proletarian, the European workers followed in adopting mixed tactics — partly proletarian, partly bourgeois.
+
+The calls of Russia and the Third International to civil war and the formation of Workers’ and Soldiers’ Councils and a Red Army were proletarian-communist, but it did not dare all and proceed to the really fundamental measures of the proletarian revolution in Europe, and, in the first place in Germany. They did not claim as the basis of the Workers’ and Soldiers’ Councils the destruction of the trade unions. The workshop councils alone can fight and are the essential bedrock of communism. By making peace with trade unionism the Russian Bolshevists and the Third International showed that they were themselves still capitalist, and neither wished, nor dared, to smash up European capitalism.
+
+Moreover, the Bolshevists and the Third International did not call for the abolition of Parliamentarism in the revolution. Thus they left the European workers, who had never yet fought for themselves, under the delusion that a revolution can be made in Parliament and through leaders. A real proletarian revolution must abolish Parliamentarism when the revolution comes in sight. Parliament is the weapon of the bourgeoisie, the workshop councils are the weapon of the proletariat, which it will use in addition to but against Parliament.
+
+By not doing this, Russia, consciously or unconsciously, was working not for the world proletarian revolution, but towards Russian capitalism.
+
+The Third International did not demand the abolition of party dictatorship in Western Europe. Nothing has shown their bourgeois character more than this. This slavish subjection to party, was the pest and ruin of social democracy and of the proletariat, which was its slave. Before the world war the leader of the proletarian parties led scarce conscious masses. In the revolution the workers as a class in their workshop councils must decide for themselves in the conflict between the mighty powers of West Europe and North American capitalism, mighty still in their death throes, and because it is a question of life and death to them, mightier in their efforts than ever. The trade unions and the old political parties of the workers are too weak to combat capitalism in this strife.
+
+Only the workshop councils and the Communist Workers’ Party can conquer capitalism. They must for this purpose both interlock and act as a whole and form a unity for the fight.
+
+In Russia this was not understood, and thus, as Rosa Luxemburg said, a dozen leaders dictate over a flock of sheep, which one calls to action when convenient, and through this flock of sheep, over the vast masses of the unthinking class. This method is bourgeois capitalist, through and through. By this method, more than any other, the Third International has led the proletarian revolution to defeat. The principle of the few dictating to the stupid mass has thrown the German proletariat into the abyss.
+
+The real proletarian revolution, which is preparing in England, North America and Germany, cannot be made by a stupid mass led by a few wise leaders, only by the self-conscious, self-acting mass. History insures that the mass shall be conscious and self-acting, for as long as it is not self-reliant, it will be beaten, notwithstanding its leaders.
+
+To make it, the working class, self-reliant has been the function of Western capitalism, for it has become so powerful, even in its death throes, that the proletarians, both individually and in the mass, must outstrip the capitalist class in thought and action.
+
+The stupid leaders of the Third International showed as much knowledge as a cat of the conditions of Western Europe, the difference between them and those of Russia, and the real driving force of capitalism in Western Europe. They became the tools of the Russian leaders, and the great masses of the Western European proletariat bowed to the Third International.

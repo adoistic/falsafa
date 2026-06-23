@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 36,
+  "chapter_title": "Chpt. 17 On the Character of Modern War",
+  "chapter_slug": "36-chpt-17-on-the-character-of-modern-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d3b70942-841a-5277-838b-44d6f1ef57a9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 386,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch17.htm"
+    }
+  ]
+}

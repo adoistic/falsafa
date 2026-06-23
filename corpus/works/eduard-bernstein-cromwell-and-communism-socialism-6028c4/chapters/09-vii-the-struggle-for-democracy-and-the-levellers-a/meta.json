@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-cromwell-and-communism-socialism-6028c4",
+  "work_title": "Cromwell and Communism: Socialism and Democracy in the Great English Revolution",
+  "chapter_number": 9,
+  "chapter_title": "VII. The Struggle for Democracy and the Levellers’ Agreement of the People",
+  "chapter_slug": "09-vii-the-struggle-for-democracy-and-the-levellers-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0a9c9169-aa27-5426-a390-d194054488b1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4069,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1895/cromwell/07-democracy.htm"
+    }
+  ]
+}

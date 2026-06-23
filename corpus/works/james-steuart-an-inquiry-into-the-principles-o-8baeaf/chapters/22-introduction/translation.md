@@ -1,0 +1,63 @@
+---
+work_id: "8baeaf4f-4cf0-5545-9c0f-6e805b178b42"
+work_slug: "james-steuart-an-inquiry-into-the-principles-o-8baeaf"
+work_title: An Inquiry into the Principles of Political Economy
+author_name: James Steuart
+chapter_number: 22
+chapter_title: Introduction
+chapter_slug: "22-introduction"
+variant_id: "0c532a35-5d36-5246-85fd-32dbd34f673a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1586
+source_url: "https://www.marxists.org/reference/subject/economics/steuart/book2.htm"
+translator: Marxists Internet Archive edition
+---
+
+Before I enter upon this second book, I must premise a word of connexion, in order to conduct the ideas of my reader by the same way through which the chain of my own thoughts, and the distribution of my plan have naturally led me.
+
+My principal view hitherto has been to prepare the way for an examination of the principles of modern politics, by inquiring into those which have, less or more, operated regular effects in all the ages of the world.
+
+In doing this, I confess, it has been impossible for me not to anticipate many things which, according to the plan I have laid down, will in some measure involve me in repetitions.
+
+I propose to investigate principles which are all relative and depending upon one another. It is impossible to treat of these with distinctness, without applying them to the objects on which they have an influence; and as the same principles extend their influence to several branches of my subject, those of my readers who keep them chiefly in their eye, will not find great variety in the different applications of them.
+
+In all compositions of this kind, two things are principally requisite. The first is, to represent such ideas as are abstract, clearly, simply, and uncompounded. This part resembles the forging out the links of a chain. The second is, to dispose those ideas in a proper order; that is, according to their most immediate relations. When such a composition is laid before a good understanding, memory finishes the work, by cementing the links together; and provided any one of them can be retained, the rest will follow of course.
+
+Now the relations between the different principles of which I treat, are indeed striking to such as are accustomed to abstract reasoning, but not near so much as when the application of them is made to different examples.
+
+The principle of self-interest will serve as a general key to this inquiry; and it may, in one sense, be considered as the ruling principle of my subject, and may therefore be traced throughout the whole. This is the main spring, and only motive which a statesman should make use of, to engage a free people to concur in the plans which he lays down for their government.
+
+I beg I may not here be understood to mean, that self-interest should conduct the statesman: by no means. Self-interest, when considered with regard to him, is public spirit; and it can only be called self-interest, when it is applied to those who are to be governed by it.
+
+From this principle, men are engaged to act in a thousand different ways, and every action draws after it certain necessary consequences. The question therefore constantly under consideration comes to be, what will mankind find it their interest to do, under such and such circumstances?
+
+In order to exhaust the subject of political oeconomy, I have proposed to treat the principles of it in relation to circumstances; and as these are infinite, I have taken them by the more general combinations, which modern policy has formed. These, for the sake of order, I have represented as all hanging in a chain of consequences, and depending on one another. See Book I. Chap. ii.
+
+I found this the best method for distributing my plan, from which it is natural to infer, that it will also prove the best for enabling my readers to retain it.
+
+I shall do what I can to diversify, by various circumstances, the repetitions which this disposition must lead me into. There is no seeing a whole kingdom, without passing now and then through a town which one has seen before. I shall therefore imitate the traveller, who, upon such occasions, makes his stay very short, unless some new curiosity should happen to engage his attention.
+
+I have said, that self-interest is the ruling principle of my subject, and I have so explained myself, as to prevent any one from supposing, that I consider it as the universal spring of human actions. Here is the light in which I want to represent this matter.
+
+The best way to govern a society, and to engage every one to conduct himself according to a plan, is for the statesman to form a system of administration, the most consistent possible with the interest of every individual, and never to flatter himself that his people will be brought to act in general, and in matters which purely regard the public, from any other principle than private interest. This is the utmost length to which I pretend to carry my position. As to what regards the merit and demerit of actions in general, I think it fully as absurd to say, that no action is truly virtuous, as to affirm, that none is really vicious.
+
+It might perhaps be expected, that, in treating of politics, I should have brought in public spirit also, as a principle of action; whereas all I require with respect to this principle is merely a restraint from it; and even this is, perhaps, too much to be taken for granted. Were public spirit, instead of private utility, to become the spring of action in the individuals of a well-governed state, I apprehend, it would spoil all. Let me explain myself.
+
+Public spirit, in my way of treating this subject, is as superfluous in the governed, as it ought to be all-powerful in the statesman; at least, if it is not altogether superfluous, it is fully as much so, as miracles are in a religion once fully established. Both are admirable at setting out, but would shake every thing loose, were they to continue to be common and familiar. Were miracles wrought every day, the laws of nature would no longer be laws: and were every one to act for the public, and neglect himself, the statesman would be bewildered, and the supposition is ridiculous.
+
+I expect, therefore, that every man is to act for his own interest in what regards the public; and, politically speaking, every one ought to do so. It is the combination of every private interest which forms the public good, and of this the public, that is, the statesman only, can judge. You must love your country. Why? Because it is yours. But you must not prefer your own interest to that of your country. This, I agree, is perfectly just and right: but this means no more, than that you are to abstain from acting to its prejudice, even though your own private interest should demand it; that is, you should abstain from unlawful gain. Count Julian, for example, who, from private resentment, it is said, brought the Moors into Spain, and ruined his country, transgressed this maxim. A spy in an army, or in a cabinet, who betrays the secrets of his country, and he who sells his trust, are in the same case: defrauding the state is, among many others, a notorious example of this. To suppose men, in general, honest in such matters, would be absurd. The legislature therefore ought to make good laws, and those who transgress them ought to be speedily, severely, and most certainly punished. This belongs to the coercive part of government, and, falling beyond the limits of my subject, is ever taken for granted.
+
+Were the principle of public spirit carried farther; were a people to become quite disinterested; there would be no possibility of governing them. Every one might consider the interest of his country in a different light, and many might join in the ruin of it, by endeavouring to promote its advantages. Were a rich merchant to begin and sell his goods without profit, what would become of trade? Were another to defray the extraordinary expence of some workmen in a hard year, in order to enable them to carry on their industry, without raising their price, what would become of others, who had not the like advantages? Were a man of a large landed estate to sell his grain at a low price in a year of scarcity, what would become of the poor farmers? Were people to feed all who would ask charity, what would become of industry? These operations of public spirit ought to be left to the public, and all that is required of individuals is, not to endeavour to defeat them.
+
+This is the regular distribution of things, and it is this only which comes under my consideration.
+
+In ill-administered governments, I admire as much as any one every act of public spirit, every sentiment of disinterestediness, and nobody can have a higher esteem for every person remarkable for them.
+
+The less attentive any government is to do their duty, the more essential it is that every individual be animated by that spirit, which then languishes in the very part where it ought to flourish with the greatest strength and vigour; and on the other hand, the more public spirit is shewn in the administration of public affairs, the less occasion has the state for assistance from individuals.
+
+Now as I suppose my statesman to do his duty in the most minute particulars, so I allow every one of his subjects to follow the dictates of his private interest. All I require is an exact obedience to the laws. This also is the interest of every one; for he who transgresses ought most undoubtedly to be punished: and this is all the public spirit which any perfect government has occasion for.

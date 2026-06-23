@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-b-boudin-socialism-and-war-331adc",
+  "work_title": "Socialism and War",
+  "chapter_number": 6,
+  "chapter_title": "V. The War and the Socialists",
+  "chapter_slug": "06-v-the-war-and-the-socialists",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f787fe7-660e-51b2-b37b-f7a6effa1292",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9455,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/boudin/1914/12/war/5-war-and-socialists.html"
+    }
+  ]
+}

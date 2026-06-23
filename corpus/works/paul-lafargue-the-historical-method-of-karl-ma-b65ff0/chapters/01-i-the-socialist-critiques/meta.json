@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-the-historical-method-of-karl-ma-b65ff0",
+  "work_title": "The Historical Method of Karl Marx",
+  "chapter_number": 1,
+  "chapter_title": "I. The Socialist Critiques.",
+  "chapter_slug": "01-i-the-socialist-critiques",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a54949fe-e462-5b4b-bde5-e56d35f41767",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 924,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1903/xx/histmeth.htm"
+    }
+  ]
+}

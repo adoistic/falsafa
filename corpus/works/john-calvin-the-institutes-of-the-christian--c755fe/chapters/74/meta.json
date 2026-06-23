@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 74,
+  "chapter_title": "Chapter III.: Regeneration by Faith. Of Repentance, Sections. (5)",
+  "chapter_slug": "74",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b403c71a-104d-55e3-9933-1acb7993366f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5399,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

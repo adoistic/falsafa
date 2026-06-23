@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-hopes-and-fears-for-art-dc52b3",
+  "work_title": "Hopes and Fears for Art",
+  "chapter_number": 1,
+  "chapter_title": "1. The Lesser Arts",
+  "chapter_slug": "01-1-the-lesser-arts",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d061350b-e5c3-5567-a252-21eac72afa81",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9646,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1882/hopes/chapters/chapter1.htm"
+    }
+  ]
+}

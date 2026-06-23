@@ -2,7 +2,7 @@
   "work_slug": "john-rae-life-of-adam-smith-a74419",
   "work_title": "Life of Adam Smith",
   "chapter_number": 30,
-  "chapter_title": "CHAPTER XXIX: VISIT TO LONDON 1787. Aet. 64",
+  "chapter_title": "Chapter XXX: Visit of Samuel Rogers 1789",
   "chapter_slug": "30",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3738,
-      "paragraph_count": 21,
+      "word_count": 2697,
+      "paragraph_count": 10,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
     }

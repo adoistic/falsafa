@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-war-and-other-essays-b3f818"
 work_title: War and Other Essays
 author_name: William Graham Sumner
 chapter_number: 2
-chapter_title: INTRODUCTION
+chapter_title: Introduction
 chapter_slug: "02-introduction"
 variant_id: "fbab7ab8-13b1-5cae-a841-1abcc1d304c7"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-imperialism-a-study-71797f",
+  "work_title": "Imperialism: A Study",
+  "chapter_number": 25,
+  "chapter_title": "Part II, Chapter III: Moral and Sentimental Factors, I (4)",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9bd35e73-c0b7-54d0-8fec-76c27a7f6dfe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1709,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hobson-imperialism-a-study"
+    }
+  ]
+}

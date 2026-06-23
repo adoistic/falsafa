@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 23
-chapter_title: "CHAPTER XV: GOVERNMENT CONTROL OF FOOD SUPPLIES"
+chapter_title: "Chapter XVII: Charges, Debts and Credit"
 chapter_slug: 23
 variant_id: "2ffe5729-aac4-541c-b7d0-9bcd67e7f39e"
 content_type: translation
@@ -13,53 +13,65 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1317
+word_count: 1275
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-Public Control of the Sale of Fish, Potatoes and Apples in Swiss Towns.—Eighteen Communes.—Losses.—Negative Results.—Competition with Private Business.—Municipal Slaughter House at Denain, France.—Experiment at Montpellier.—Three German Slaughter Houses.—Four Slaughter Houses at Vienna.—The Municipal Oven at Udine.—The Verona Fish Market.
+The Profits of British Financial Enterprises for the Period 1893–1898.—1898–1902.—Report for 1907; 1902–1906.—An Annual Profit of 6s 3d ($1.50) per 100 Pounds.—Financial Situation on March 31, 1911, of 2,500 Local Governments.—Substituting Monopolies for Taxation.—Relation Between Local Taxation and Appropriations, 10s 7d ($2.54) per 100 Pounds.—Increase of Local Taxes.—Increase of Loans.—Decline of Credit.—Complaint of a Citizen of Birmingham.—Profit on Undertakings and the Cost of Loans.—Conclusions of Major Darwin.—Credit of German Local Governments.
 
-To a questionnaire sent out to Swiss towns by Edgar Milhaud concerning markets operated by them 74 towns responded; 33 returned purely negative answers; 41 have made some headway against the high cost of living; Glarus has leased a fish market to a merchant who has been authorized to raise his price from 10 to 20 centimes (2 cents to 4 cents) a pound above cost. Oerlikon had given to certain families the right to reductions of from 10 to 20 per cent. from all retail dealers, at the expense of the commune. In 1908 Romanshorn opened a public fish market: “No gains and few losses.” Saint-Imier, Herisau, Rorschach, Schaffhausen have renounced similar attempts. Thun has leased a fish market.
+Let us now take up the question of charges, debts, and credit, in relation to British local enterprises.
 
-At Saint Gall the sale of fish yields several hundreds of francs profit to the city, and has lowered Edition: current; Page: [176] the price of fish in the private market. The market is patronized, however, only by wealthy families or those in easy circumstances.
+The first parliamentary report on municipal undertakings, which appears under the title of Municipal Corporations' Reproductive Undertakings, dates from 1899. It includes accounts of 265 towns of England and Wales for a period of five years, ending March, 1898. The financial results indicated are shown in the following table:
 
-Zurich, three years ago, entrusted the sale of sea fish to a coöperative society, the Zurich Lebensmittel-verein; the fish were sold at cost, plus a percentage to cover expenses. The administrative council of the society declared that “the attempts made to accustom the Swiss population to the use of fish food must be regarded as having failed.” Zurich then organized cooking classes. The results of this latter experiment are not yet known.
+The second document dates from 1903. It is more comprehensive. The Municipal Year Book of 1912 reproduces it in its entirety. It gives the results of the undertakings of 299 municipalities out of 317—not including London—for a period of four years, or from 1898 to 1902.
 
-Zug has established a municipal slaughter house. Freiburg bought and sold, in the autumn of 1910 and the spring of 1911, 193,000 kilos (474,600 lbs.) of potatoes, at a loss of 2,833 francs ($538). Lucerne, in 1911, sold 13 carloads of potatoes, 4 carloads of apples, and 2 carloads of carrots, for cash. The shipping costs were met by the town. In addition 43,750 kilos (96,250 lbs.) of coke were sold by the city. The undertaking ultimately resulted in a loss of 2,842 francs. In any event, the authorities of Lucerne can hardly be accused of supplying over-substantial nourishment to their fellow-citizens!
+An apparent profit of .312 per cent. is thus indicated.
 
-The town of Saint Gall caused vegetables to be sold by a coöperative society at cost price f.o.b. Saint Gall at the receiving point (the railroad station). The city paid the difference, which amounted to 400 francs a month. The sale was limited to “that part of the public without income.” The total sales amounted to only 1,700 francs, the expenses to 6,131 francs, and Edition: current; Page: [177] the attempt lasted only from the first of November, 1911, to February 29, 1912.
+In 1907 the Local Government Board published a supplementary statement, showing the results obtained by 192 municipalities out of 324 in England and Wales during the year 1904–1905.
 
-During the winter months 1910–1911 and 1911–1912, Bern undertook to purchase potatoes at wholesale and to sell them at retail. In the latter year, it added the sale of white cabbages. As a matter of course the experiment resulted in losses.
+Municipal Trading Returns (No. 171, 1909) gives statistics only regarding the work of the London County Council, the City Corporation, the London boroughs, and 43 municipalities in England and Scotland for the four years from 1902–1906.
 
-Lausanne, during several days in 1910, sold potatoes with a profit of 230 francs 15 centimes, and distributed a balance of 1,340 kilos (2,948 lbs.) gratis.
+Mr. J. H. Schooling, the celebrated statistician, has demonstrated that all the municipal enterprises taken together show, for the period 1898–1902, an annual profit of 6s 3d ($1.50) per 100 pounds sterling of capital invested. He adds, however, that, if the depreciation of roadbeds, equipment, etc., of the various undertakings was taken care of as it would be in private business normally managed, the annual loss would be 5,500,000 pounds sterling ($26,785,000), or, in other words, £4 10s 7d ($22) on every 100 pounds. Among the sources of profits are reckoned the sums collected from private businesses. These sums are very large in the case of some municipalities, but they cannot legitimately be called profits from municipal enterprises.
 
-In 1911–1912 Zurich sold 550 kilos (1,210 lbs.) of potatoes at a loss of 901 francs 25 centimes which was reduced to 569 francs, following a reduction in the freight costs of 332 francs 25 centimes made by the Federal railways. “A reduction of the freight rates has been granted for the transportation of food supplies from October 1, 1911, to May 31, 1912, if the supplies are to be utilized for the public good.”
+The Local Government Board has published a statement of the receipts, expenses, and local loans in England and Wales for the year 191–1911. The number of local authorities included in this work is 2,500, representing about one-tenth of the local governments mentioned in the local taxation returns for the same districts. The financial situation, on March 31, 1911, of these 2,500 local governments was:
 
-Anybody who ships potatoes ships them for the public benefit since they are destined to provide food for those who buy them. This reduction, therefore, simply gave a subsidy to municipalities as against individual merchants. The figures that I have just reproduced prove that, if the Swiss, in order to live, had been forced to rely upon the municipality for their food in 1910–1911, they would all be dead of starvation.
+The debt of these 2,500 local governments reached, then, the enormous figure of £410,695,000 ($2,000,094,000). The expenses are more than £137,382,000 ($668,850,000). Of the £122,953,000 ($598,780,000) of receipts, local taxation accounts for £64,004,000 ($311,699,500) and grants from the exchequer (including the local share of license fees) for £21,073,000 ($102,625,510), giving a total of £85,077,000 ($414,325,000).
 
-As a matter of fact, 18 communes have made attempts at public regulation of food supplies, in order to combat the high cost of living. These are: Brugg (3,000 inhabitants); Weinfelden (4,000); Baden Edition: current; Page: [178] (6,050); Grenchen (5,202); Romanshorn (6,000); Thun (6,030); Herisau (13,853); Le Locle (13,197); Rorschach (13,481); Schaffhausen (17,148); Freiburg (20,300); La Chaux-de-Fonds (39,497); Lucerne (38,467); Saint Gall (35,000); Basle (129,600); Bern (78,500); Lausanne (59,327); Zurich (180,000).
+The apologists for municipal enterprises give the impression that such undertakings may be substituted for taxes, with no apparent perception of the fact that, if municipal enterprises were to replace taxation, by reason of their innately fiscal character they would come to weigh heavily on the consumers. The conception of substituting municipal enterprises for a treasury is, therefore, only a delusion.
 
-Milhaud concludes his article with this enthusiastic statement:
+Local government undertakings have, in some instances, yielded profits which have relieved local taxation. But in others they have created deficits which are met only with the help of taxes.
 
-“As a result of these public services we have remarked the following cost reductions: Potatoes, from 12 per cent, to 24 per cent.; fuel, 15 per cent. to 50 per cent.; fish, 30 per cent. to 50 per cent.”
+In 191–1911 the total amount contributed in aid of taxes on gas, electricity, ports, docks, jetties, canals, quays, tramways, light railways, and waterworks undertakings was £1,320,000 ($6,428,400), of which £1,203,000 ($5,858,600) came from town councils.
 
-Or in other words free competition is making a losing fight against public operation, and Edgard Milhaud considers this a most desirable state of affairs.
+The total amount of tax funds paid out to provide for deficits on the same undertakings was £971,000 ($4,728,800), of which £631,000 ($3,073,000) was provided by town councils.
 
-If the custom of providing government food should ever become general, it would be necessary for an individual to have great courage in order to engage in any similar undertaking in view of the prospect of being undersold by the municipality. The town can lose with impunity; the taxpayers will make up the loss. On the other hand, loss to a merchant means his whole financial standing in the community and that of those who may have placed confidence in him, all of whom have a right not to anticipate such disturbing factors as result from the intervention of municipalities turned merchants of potatoes, apples, cabbages, carrots, and fish.
+Thus, the reduction of local taxation effected by profits from local enterprises amounted to £349,000 ($1,700,000), or, as against the £64,000,000 ($311,680,000) of local taxes and the £23,000,000 ($112,000,000) furnished by the exchequer to 0.41 per cent., or less than one-half of 1 per cent. These figures are a sufficient answer to those partisans of government ownership who are continually reiterating that expense may be incurred with impunity because government monopolies will pay for them. And, moreover, receipts from ports, jetties, quays, and canals, which are not industrial operations properly socalled, are included in these figures.
 
-The towns concerned would answer that their action was only one form of philanthropy. As a matter Edition: current; Page: [179] of fact, several of them did limit their sales to the poor. Others, however, did not take this precaution, and, in the majority of cases, they did not seek any justification for the measures they took.
+Moreover to the loans previously noted as granted to local governments, £23,210,000 ($113,033,000) should be added for the Port of London; £25,720,000 ($125,256,400) for the Mersey Docks and Harbor Board; £49,529,000 ($241,236,000) for the Metropolitan Water Board; more than £14,692,000 ($71,550,000) for ports, docks, quays, etc., or a total of £129,288,000 ($625,795,000). The taxable value of all this property was £217,180,000 ($1,057,667,000), from which must be deducted, however, £1,737,000 ($8,459,000) representing government property, which, in lieu of taxes, pays an equivalent sum under the name of “contributions.”
 
-I do not believe that the results of this investigation would encourage very many towns to follow the example of the 18 Swiss communes. They are such that it is not even necessary to furnish further arguments for an amendment to the law of 1884 prohibiting municipalities from going into business.
+The following figures show the total local tax during the three years 1908–1911:
 
-In 1911 there were several attempts in France to regulate the food supply. The mayor of Denain, M. Selle, opened a municipal slaughter house. Cattle decked with ribbons were conducted there solemnly to the tune of the “Internationale.” At the end of one week the undertaking developed the following figures (in francs):
+The pound sterling is 20 shillings. The tax of 1910–1911 represents then more than 30 per cent. of the assessed value of the taxable property just listed.
 
-The mayor called a halt. The indignant populace, whom he had promised to feed below cost, broke into his house, from which he managed to escape under Edition: current; Page: [180] the protection of the police. Thereafter neither the mayoralty nor the municipal council knew him more.
+Municipal enterprises, far from having relieved the taxpayers, have not prevented local taxes from soaring higher in 1910–1911 than they had ever done before.
 
-At Montpellier an attempt at a municipal slaughter house was made, which resulted in a loss of 6,000 francs.
+Municipal enterprises make loans necessary, and the increase of loans involves loss of credit.
 
-Edgard Milhaud, who sees all attempts at public ownership through rose-colored glasses, has declared that at Eberwald, Thionville, and Freiburg-im-Breisgau the attempts at municipalizing a slaughter house were successful. According to the director of the abattoir of Freiburg, M. Metz, the experiment, which took place in 1895, was only temporary, and a burden while it lasted. The enormous waste, which may and does occur in such enterprises, renders management very difficult.
+The Birmingham Daily Mail, of May 24, 1911, published the letter of a correspondent, who says:
 
-At Thionville experiments were made with pork in order to force the butchers to lower their prices. “The meager profits realized were divided between two old butchers who had been entrusted with the purchase, slaughter and sale of the meat.” In 1905, at Vienna, four municipal abattoirs were established, which disappeared after a short period.
+“The town made last year a profit of £132,174 ($643, 687), from which must be deducted a loss of £57,091 ($278,033). The citizens of Birmingham have loaned to the city £12,500,000 ($60,875,000), on which they lose all their taxes and receive in turn about £60,000 ($292,200), or less than 0.45 per cent., whereas if they (the municipal undertakings) were paying 5 per cent. they would yield £650,000 ($3,165,500).”
 
-All these undertakings are direct attacks on commercial freedom. In Italy such attacks are made without scruple. Udine opened a municipal oven in order to ruin the existing bakeries. Verona sells fish to the injury of other fish merchants.
+Hilaire Belloc, during a debate at Memorial Hall, in London, with Ramsay McDonald, the president of the Labor Party in Parliament, said:
+
+“Municipal enterprises have been established by means of loans contracted with capitalists to whom the various local governments offered returns which these undertakings either did or did not furnish. The result has been that municipal undertakings have been bringing in about 1.8 per cent., while 3.2 per cent. interest was being paid out. The debt has been increasing. There has been more and more need of capitalists who have refused to consent to new loans seeing that the debts were growing in an alarming manner.” (Labor Leader, May 12, 1911.)
+
+Major Darwin, in his objective study of municipal industries, reaches the following conclusion:
+
+“Municipalities can manage markets, public baths, slaughter houses, cemeteries, and waterworks. Municipalities may own tramways. But all these enterprises ought to be operated privately. Gas, electricity, tramways, the telephone, ought to remain in the hands of private individuals.”
+
+He further suggests that municipalities be forbidden to manufacture electrical apparatus; to own houses; to engage in construction without contractors. Municipalities should be forbidden to attempt to make money, and their borrowing power ought to be restricted.
+
+In the United States the debt limit for municipalities is: 10 per cent. of the taxable value in New York, 5 per cent. in many of the western states, and 2 per cent. in others.
+
+This year (1913) the German cities are being much hampered for lack of credit. A loan sought by the city of Carlsruhe has had to be indefinitely postponed The smaller and medium sized municipalities, in the absence of funds, have been obliged to postpone necessary work.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-terrorism-and-communism-a-reply--881d7e",
+  "work_title": "Terrorism and Communism: A Reply to Karl Kautsky",
+  "chapter_number": 13,
+  "chapter_title": "The Influence of the War",
+  "chapter_slug": "13-the-influence-of-the-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "89f872b8-49fa-5854-8a38-c93fd8c1c05a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1166,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1920/terrcomm/ch04.htm"
+    }
+  ]
+}

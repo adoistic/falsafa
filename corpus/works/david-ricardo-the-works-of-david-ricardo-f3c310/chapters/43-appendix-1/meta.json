@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 43,
+  "chapter_title": "Appendix. (1)",
+  "chapter_slug": "43-appendix-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "25531403-0824-5c45-a4c1-5c3bb1bd6d3c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8387,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

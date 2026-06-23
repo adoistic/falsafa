@@ -2,10 +2,10 @@
 id: "b60b2844-522d-4c27-a114-38462c21128e"
 slug: "unknown-vrhaspatitattva-b60b28"
 title: Vrhaspatitattva
-author: Bṛhaspati
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Bṛhaspati
+  biography: The sage to whom this Old Javanese tattva text is ascribed. Vrhaspatitattva is a Kawi Śaiva treatise expounding Sāṃkhya cosmology and the path to release.
+  nationality: Javanese
 era: Medieval
 genre: Indic
 language: Kawi

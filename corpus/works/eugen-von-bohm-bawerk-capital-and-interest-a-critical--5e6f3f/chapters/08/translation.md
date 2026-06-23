@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f"
 work_title: "Capital and Interest: A Critical History of Economical Theory"
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 8
-chapter_title: "Book II, Chapter I: The Productive Power of Capital"
+chapter_title: "Book II: The Productivity Theories, Book II, Chapter I: The Productive Power of Capital"
 chapter_slug: 08
 variant_id: "f0699491-a0b3-550c-959d-5ce742d12309"
 content_type: translation

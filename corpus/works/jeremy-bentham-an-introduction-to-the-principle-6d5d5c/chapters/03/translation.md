@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 3
-chapter_title: "Chapter II: OF PRINCIPLES ADVERSE TO THAT OF UTILITY"
+chapter_title: "Chapter II: Of Principles Adverse to That of Utility"
 chapter_slug: 03
 variant_id: "a8ad621b-38e3-511a-b735-97646361e534"
 content_type: translation

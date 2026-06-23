@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-mutual-aid-a-factor-of-evolution-488c94",
+  "work_title": "Mutual Aid: A Factor of Evolution",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 3: Mutual Aid Among Savages",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "271f3aa1-964c-51b5-9fe9-47f5cbbacecb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10353,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch03.htm"
+    }
+  ]
+}

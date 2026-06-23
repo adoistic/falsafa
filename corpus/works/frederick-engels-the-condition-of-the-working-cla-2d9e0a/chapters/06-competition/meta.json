@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-engels-the-condition-of-the-working-cla-2d9e0a",
+  "work_title": "The Condition of the Working Class in England",
+  "chapter_number": 6,
+  "chapter_title": "Competition",
+  "chapter_slug": "06-competition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "28bae6f0-44ea-5642-af4a-ef72f4874a6a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5318,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch05.htm"
+    }
+  ]
+}

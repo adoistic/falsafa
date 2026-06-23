@@ -4,7 +4,7 @@ work_slug: "nassau-william-senior-three-lectures-on-the-rate-of-wa-3af630"
 work_title: Three Lectures on the Rate of Wages
 author_name: Nassau William Senior
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "73ec0e34-a62f-5e6a-a331-ad227290ce2a"
 content_type: translation

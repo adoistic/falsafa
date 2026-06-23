@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 24,
+  "chapter_title": "Preface to last 12 Chapters",
+  "chapter_slug": "24-preface-to-last-12-chapters",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5528a37-f386-522b-a4be-d059a8634528",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1603,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/preface3.htm"
+    }
+  ]
+}

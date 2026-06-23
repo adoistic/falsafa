@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-cromwell-and-communism-socialism-6028c4",
+  "work_title": "Cromwell and Communism: Socialism and Democracy in the Great English Revolution",
+  "chapter_number": 7,
+  "chapter_title": "V. Parliament and the National Army. Presbyterians, Independents and other sects",
+  "chapter_slug": "07-v-parliament-and-the-national-army-presbyterians-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "24c9d107-dd3e-5258-bc3e-fa6aa9626e16",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3515,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1895/cromwell/05-army.htm"
+    }
+  ]
+}

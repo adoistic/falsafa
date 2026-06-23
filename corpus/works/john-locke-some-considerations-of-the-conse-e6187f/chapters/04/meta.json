@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-locke-some-considerations-of-the-conse-e6187f",
+  "work_title": "Some Considerations of the Consequences of the Lowering of Interest and the Raising the Value of Money",
+  "chapter_number": 4,
+  "chapter_title": "Part 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "449eea7a-c33e-5378-add4-f8ea5475f961",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13531,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/locke/part4.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 9,
+  "chapter_title": "II. The Question of the Trade Unions",
+  "chapter_slug": "09-ii-the-question-of-the-trade-unions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3bec7de5-cdc9-50c1-b43b-6ff4454b1cbc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 472,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

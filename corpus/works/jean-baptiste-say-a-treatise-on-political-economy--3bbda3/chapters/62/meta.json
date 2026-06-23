@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 62,
-  "chapter_title": "BOOK II, CHAPTER X: OF THE EFFECT OF REVENUE DERIVED BY ONE NATION FROM ANOTHER.",
+  "chapter_title": "Section II.: Of the influence of the Quality of a national product upon the local distribution of the Population.",
   "chapter_slug": "62",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1081,
-      "paragraph_count": 7,
+      "word_count": 1642,
+      "paragraph_count": 13,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

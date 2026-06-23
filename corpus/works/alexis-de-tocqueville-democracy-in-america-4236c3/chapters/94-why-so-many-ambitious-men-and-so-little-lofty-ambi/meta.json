@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 94,
+  "chapter_title": "Why so many Ambitious Men and so Little Lofty Ambition are to be Found in The United States.",
+  "chapter_slug": "94-why-so-many-ambitious-men-and-so-little-lofty-ambi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c0774395-f097-544e-a069-a02074f2f285",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3112,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch38.htm"
+    }
+  ]
+}

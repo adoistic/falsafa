@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 78,
+  "chapter_title": "Oration 28",
+  "chapter_slug": "78-oration-28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1968dc32-3c1a-5ad0-8eaf-0d0a60203b10",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 883,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6afc983e-273c-5daa-937d-6122d7a473cc",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1239,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

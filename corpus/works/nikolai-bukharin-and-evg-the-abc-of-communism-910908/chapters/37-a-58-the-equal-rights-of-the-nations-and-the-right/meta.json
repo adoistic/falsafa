@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 37,
+  "chapter_title": "Â§ 58. The equal rights of the nations and the right to self-determination; federation",
+  "chapter_slug": "37-a-58-the-equal-rights-of-the-nations-and-the-right",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae61f2c2-14d4-5711-8882-2972ce520147",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1012,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/07.htm"
+    }
+  ]
+}

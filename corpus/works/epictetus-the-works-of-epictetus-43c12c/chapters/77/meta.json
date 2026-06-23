@@ -2,7 +2,7 @@
   "work_slug": "epictetus-the-works-of-epictetus-43c12c",
   "work_title": "The Works of Epictetus",
   "chapter_number": 77,
-  "chapter_title": "CHAPTER XVII.: OF PROVIDENCE.",
+  "chapter_title": "Chapter XVIII.: That We Ought Not to Be Alarmed, by Any News That Is Brought Us.",
   "chapter_slug": "77",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 328,
-      "paragraph_count": 11,
+      "word_count": 319,
+      "paragraph_count": 1,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
     }

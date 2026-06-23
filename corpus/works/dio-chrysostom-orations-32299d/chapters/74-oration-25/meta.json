@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 74,
+  "chapter_title": "Oration 25",
+  "chapter_slug": "74-oration-25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ed530293-86e0-5152-a149-f478802dafae",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 816,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f7ef492d-46b7-5d5a-8c0b-d42a84f4417e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1007,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

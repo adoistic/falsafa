@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-one-step-forward-two-steps-back--9a5c6a",
+  "work_title": "One Step Forward, Two Steps Back (The Crisis in Our Party)",
+  "chapter_number": 9,
+  "chapter_title": "H. Discussion on Centralism Prior to the Split Among the Iskra-ists",
+  "chapter_slug": "09-h-discussion-on-centralism-prior-to-the-split-amon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5ab5312-eee6-5a8c-ad2a-adee1cd4957a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1239,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1904/onestep/h.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 18,
+  "chapter_title": "The “Ruin” of Jamaica, Chapter I.—: Historical Introduction.",
+  "chapter_slug": "18-the-ruin-of-jamaica-chapter-i-historical-introduct",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a1fb0bc0-5786-586f-a008-85f174db163b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1903,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

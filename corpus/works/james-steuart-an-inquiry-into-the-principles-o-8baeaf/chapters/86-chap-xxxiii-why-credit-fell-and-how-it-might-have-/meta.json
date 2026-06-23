@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 86,
+  "chapter_title": "Chap. XXXIII: Why Credit fell, and how it might have been supported",
+  "chapter_slug": "86-chap-xxxiii-why-credit-fell-and-how-it-might-have-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "446d41c6-34f7-5c14-b9ee-b43a1d563ee4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2544,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+    }
+  ]
+}

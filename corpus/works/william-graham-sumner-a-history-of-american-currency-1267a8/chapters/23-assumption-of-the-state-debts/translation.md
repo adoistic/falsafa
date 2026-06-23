@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-a-history-of-american-currency-1267a8"
 work_title: A History of American Currency
 author_name: William Graham Sumner
 chapter_number: 23
-chapter_title: ASSUMPTION OF THE STATE DEBTS.
+chapter_title: Assumption of the State Debts.
 chapter_slug: "23-assumption-of-the-state-debts"
 variant_id: "2a5730f9-ea86-5a8b-9eaa-4c1758a8fc5d"
 content_type: translation

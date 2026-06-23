@@ -2,7 +2,7 @@
   "work_slug": "friedrich-von-wieser-natural-value-f25830",
   "work_title": "Natural Value",
   "chapter_number": 6,
-  "chapter_title": "CHAPTER III: GOSSEN'S LAW OF THE SATIATION OF WANT",
+  "chapter_title": "Chapter IV: the scales of satiation",
   "chapter_slug": "06",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1130,
-      "paragraph_count": 8,
+      "word_count": 770,
+      "paragraph_count": 4,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
     }

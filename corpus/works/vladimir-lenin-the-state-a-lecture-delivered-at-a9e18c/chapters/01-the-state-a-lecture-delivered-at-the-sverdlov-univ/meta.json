@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-state-a-lecture-delivered-at-a9e18c",
+  "work_title": "The State: A Lecture Delivered at the Sverdlov University",
+  "chapter_number": 1,
+  "chapter_title": "The State: A Lecture Delivered at the Sverdlov University",
+  "chapter_slug": "01-the-state-a-lecture-delivered-at-the-sverdlov-univ",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d405dce-79d5-502e-b1c6-a16f23fabff3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7125,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1919/jul/11.htm"
+    }
+  ]
+}

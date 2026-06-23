@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 75,
+  "chapter_title": "Part 4, Chapter 1 : The Resurrection",
+  "chapter_slug": "75",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c1290326-8404-5365-8666-d778564defd0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8856,
+      "paragraph_count": 168,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-4-chapter-1.html"
+    }
+  ]
+}

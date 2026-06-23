@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+  "work_title": "Two Tactics of Social-Democracy in the Democratic Revolution",
+  "chapter_number": 9,
+  "chapter_title": "Osvobozhdeniyeism and New Iskra Trends",
+  "chapter_slug": "09-osvobozhdeniyeism-and-new-iskra-trends",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2b24b229-eff4-5ef9-819b-4651e264a280",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2579,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ch08.htm"
+    }
+  ]
+}

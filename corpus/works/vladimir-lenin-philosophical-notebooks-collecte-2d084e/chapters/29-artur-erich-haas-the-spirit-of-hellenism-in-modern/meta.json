@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 29,
+  "chapter_title": "Artur Erich Haas. The Spirit of Hellenism in Modern Physics. Leipzig, 1914 (32 pp.) (Veit & Co.)",
+  "chapter_slug": "29-artur-erich-haas-the-spirit-of-hellenism-in-modern",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6d03ac90-04db-538f-ac69-fc1ce00c77c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 94,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/misc/x10.htm"
+    }
+  ]
+}

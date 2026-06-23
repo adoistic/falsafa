@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-wentworth-dilke-the-source-and-remedy-of-the-nat-925e92",
+  "work_title": "The Source and Remedy of the National Difficulties",
+  "chapter_number": 1,
+  "chapter_title": "The Source and Remedy of the National Difficulties",
+  "chapter_slug": "01-the-source-and-remedy-of-the-national-difficulties",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f50bf974-5e29-5b46-b452-566e29572039",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13291,
+      "paragraph_count": 122,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/dilke/1821/sourceandremedy.htm"
+    }
+  ]
+}

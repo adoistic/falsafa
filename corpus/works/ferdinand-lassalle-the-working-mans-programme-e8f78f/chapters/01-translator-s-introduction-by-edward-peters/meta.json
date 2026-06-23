@@ -1,0 +1,26 @@
+{
+  "work_slug": "ferdinand-lassalle-the-working-mans-programme-e8f78f",
+  "work_title": "The Working Man's Programme",
+  "chapter_number": 1,
+  "chapter_title": "Translator’s Introduction by Edward Peters",
+  "chapter_slug": "01-translator-s-introduction-by-edward-peters",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1d9cf8b2-292c-5014-9b93-405a831dd12b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14790,
+      "paragraph_count": 208,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lassalle/1862/04/programme.html"
+    }
+  ]
+}

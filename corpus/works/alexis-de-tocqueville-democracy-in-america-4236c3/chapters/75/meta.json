@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 75,
+  "chapter_title": "Chapter XVII: That In Times Marked By Equality Of Conditions And Sceptical Opinions, It Is Important To Remove To A Dist",
+  "chapter_slug": "75",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a984504-0346-5c6a-b733-c7e85486b34a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1111,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch30.htm"
+    }
+  ]
+}

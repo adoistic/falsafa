@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-religion-of-socialism-b65d8b",
+  "work_title": "The Religion of Socialism",
+  "chapter_number": 7,
+  "chapter_title": "Conscience and Commerce",
+  "chapter_slug": "07-conscience-and-commerce",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9aa748ff-50a2-5abb-a52e-8f703940c161",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2772,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1885/11/conscience.htm"
+    }
+  ]
+}

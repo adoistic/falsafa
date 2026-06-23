@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 95,
+  "chapter_title": "The Ways and MEANS Wherby an Equal and Lasting COMMONWEALTH May be suddenly introduc’d, and perfectly founded, with the ",
+  "chapter_slug": "95-the-ways-and-means-wherby-an-equal-and-lasting-com",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "05af722f-0e4d-53cf-bd94-5c4276aa17f3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 841,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-outlooks-from-a-new-standpoint-559820",
+  "work_title": "Outlooks From a New Standpoint",
+  "chapter_number": 8,
+  "chapter_title": "7. Individual Rights Under Socialism",
+  "chapter_slug": "08-7-individual-rights-under-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "721894ce-4ecb-52c4-ad40-662f34dc20a5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2298,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1891/03/rights.htm"
+    }
+  ]
+}

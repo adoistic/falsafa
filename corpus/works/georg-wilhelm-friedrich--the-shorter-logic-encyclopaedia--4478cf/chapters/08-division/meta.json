@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 8,
+  "chapter_title": "Division",
+  "chapter_slug": "08-division",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d2e0480-fb54-5e04-8d39-da05c50798dd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2878,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/sl_divis.htm"
+    }
+  ]
+}

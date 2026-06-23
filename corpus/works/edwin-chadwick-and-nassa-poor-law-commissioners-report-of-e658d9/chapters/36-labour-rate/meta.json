@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 36,
+  "chapter_title": "Labour-rate.",
+  "chapter_slug": "36-labour-rate",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0a7b96f0-9a27-5a7d-a657-df30f1d86cba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14470,
+      "paragraph_count": 251,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

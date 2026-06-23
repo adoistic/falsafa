@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-high-cost-of-living-changes-in-g-7e4a34",
+  "work_title": "High Cost of Living: Changes in Gold Production and the Rise in Prices",
+  "chapter_number": 1,
+  "chapter_title": "Translator’s Introduction",
+  "chapter_slug": "01-translator-s-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e2bdf61c-a974-55de-82f0-feba8201ab59",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2563,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1913/inflation/intro.htm"
+    }
+  ]
+}

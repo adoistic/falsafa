@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 31,
-  "chapter_title": "CHAPTER XXI.: EFFECTS OF ACCUMULATION ON PROFITS AND INTEREST.",
+  "chapter_title": "Chapter XXII.: Bounties on Exportation, and Prohibitions of Importation.",
   "chapter_slug": "31",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3233,
-      "paragraph_count": 16,
+      "word_count": 5711,
+      "paragraph_count": 33,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-gramsci-neither-fascism-nor-liberalism-s-c8192b",
+  "work_title": "Neither Fascism nor Liberalism: Sovietism!",
+  "chapter_number": 1,
+  "chapter_title": "Neither Fascism nor Liberalism: Sovietism!",
+  "chapter_slug": "01-neither-fascism-nor-liberalism-sovietism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da8dab6a-3eb2-5c2d-934b-27a417cee116",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1149,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gramsci/1924/10/fascism-liberalism.htm"
+    }
+  ]
+}

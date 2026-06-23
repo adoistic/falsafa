@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 3,
+  "chapter_title": "II. The Academic Chairs of Virtue.",
+  "chapter_slug": "03-ii-the-academic-chairs-of-virtue",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "720b859e-eab6-56c5-af7f-78067780381e",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 775,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08ca5fa5-274c-5d44-8236-7d3036583dca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 816,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

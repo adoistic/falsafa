@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-ferdinand-lassalle-as-a-social-r-a97060",
+  "work_title": "Ferdinand Lassalle as a Social Reformer",
+  "chapter_number": 5,
+  "chapter_title": "IV. The System of Acquired Rights, and other minor works (1860-1861)",
+  "chapter_slug": "05-iv-the-system-of-acquired-rights-and-other-minor-w",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d00daf73-5f07-5ce2-9e04-08f68b745d13",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9151,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1893/lassalle/chap04.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-war-and-other-essays-b3f818"
 work_title: War and Other Essays
 author_name: William Graham Sumner
 chapter_number: 1
-chapter_title: PREFATORY NOTE
+chapter_title: Prefatory Note
 chapter_slug: "01-prefatory-note"
 variant_id: "216d6cad-da73-5508-ae77-c9337baba689"
 content_type: translation

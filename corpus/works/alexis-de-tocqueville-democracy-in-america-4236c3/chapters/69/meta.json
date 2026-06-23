@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 69,
+  "chapter_title": "Chapter XI: Peculiar Effects Of The Love Of Physical Gratifications In Democratic Ages",
+  "chapter_slug": "69",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b83bd130-6c1d-5798-b684-0a4c88a980ea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 819,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch29.htm"
+    }
+  ]
+}

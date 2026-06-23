@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 969
+word_count: 965
 source_url: "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
 translator: Online Library of Liberty edition
 ---
@@ -32,7 +32,7 @@ A second time the suspicions of the Austrian government snatched Sismondi from h
 
 Sismondi also endeavoured to take advantage of the measures of an absolute government to destroy the aristocratic prejudices of his mother. She could not forget that it was the inroad of new ideas which had exiled her from her country, that a republican soldier had nearly killed her son before her eyes, that it was in the name of liberty that her guest, her friend, had been shot, almost in her presence. It will be always difficult to teach women to distinguish principles from their effects.
 
-“If you could say—these are tyrants, monsters, Frenchmen,—they only do what it is their business to do; injustice triumphs, it is the lot of human kind; virtue will have its turn,—you would console yourself,” wrote Charles to his mother. “But no, these are the favourites of your heart, those whom you so ardently wished for, those from whom you expected so many benefits, who deceive you with so much cruelty. You do not know how to reconcile your opinions, your feelings, and your sufferings; and till you are convinced Edition: current; Page: [29] that there is neither honour, justice, virtue, or happiness for a country except in freedom, and that a counter-revolution is a hundred times worse than a revolution, you will doubly suffer.
+“If you could say—these are tyrants, monsters, Frenchmen,—they only do what it is their business to do; injustice triumphs, it is the lot of human kind; virtue will have its turn,—you would console yourself,” wrote Charles to his mother. “But no, these are the favourites of your heart, those whom you so ardently wished for, those from whom you expected so many benefits, who deceive you with so much cruelty. You do not know how to reconcile your opinions, your feelings, and your sufferings; and till you are convinced that there is neither honour, justice, virtue, or happiness for a country except in freedom, and that a counter-revolution is a hundred times worse than a revolution, you will doubly suffer.
 
 “Do not blaspheme philosophy,” he again writes, “for she is gentle and consoling, and religion still more so. The sermon I read to-day enchanted me; the text was, ‘The works of the wicked are deceitful.’ I read it in Italian to my priest, and I do not think the words have lost any thing of their eloquence, it is become so easy to me to translate as I read.”
 

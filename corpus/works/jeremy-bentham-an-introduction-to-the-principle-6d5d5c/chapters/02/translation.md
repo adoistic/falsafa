@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 2
-chapter_title: "Chapter I: OF THE PRINCIPLE OF UTILITY"
+chapter_title: "Chapter I: Of the Principle of Utility"
 chapter_slug: 02
 variant_id: "54ea57a7-c787-50ef-88f9-f8e864ae0f54"
 content_type: translation

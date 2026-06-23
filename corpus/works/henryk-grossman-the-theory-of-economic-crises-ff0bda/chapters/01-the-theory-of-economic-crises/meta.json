@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-theory-of-economic-crises-ff0bda",
+  "work_title": "The Theory of Economic Crises",
+  "chapter_number": 1,
+  "chapter_title": "The Theory of Economic Crises",
+  "chapter_slug": "01-the-theory-of-economic-crises",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b898f728-cf38-576a-8720-4b73cc79524b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2115,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1922/crises/index.htm"
+    }
+  ]
+}

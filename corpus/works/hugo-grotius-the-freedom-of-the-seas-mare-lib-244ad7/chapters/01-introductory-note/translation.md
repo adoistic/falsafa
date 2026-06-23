@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-freedom-of-the-seas-mare-lib-244ad7"
 work_title: The Freedom of the Seas (Mare Liberum)
 author_name: Hugo Grotius
 chapter_number: 1
-chapter_title: INTRODUCTORY NOTE
+chapter_title: Introductory Note
 chapter_slug: "01-introductory-note"
 variant_id: "c7d3d13b-9617-5343-804c-ca1bb860b5b6"
 content_type: translation

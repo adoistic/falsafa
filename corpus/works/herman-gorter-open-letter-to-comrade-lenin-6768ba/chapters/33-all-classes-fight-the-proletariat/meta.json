@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 33,
+  "chapter_title": "All Classes Fight the Proletariat.",
+  "chapter_slug": "33-all-classes-fight-the-proletariat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a62041e-54e9-58ee-a66a-5d9cbf83ae09",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 668,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

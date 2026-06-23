@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 6,
+  "chapter_title": "Fr. Paulsen. Introduction to Philosophy 1899",
+  "chapter_slug": "06-fr-paulsen-introduction-to-philosophy-1899",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37fb27ae-870d-5019-9a88-5efc62cea71d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 739,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1903/misc/x02.htm"
+    }
+  ]
+}

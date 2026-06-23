@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-tax-in-kind-the-significance-76cd74",
+  "work_title": "The Tax in Kind (The Significance of the New Policy and Its Conditions)",
+  "chapter_number": 1,
+  "chapter_title": "The Tax in Kind (The Significance of the New Policy and Its Conditions)",
+  "chapter_slug": "01-the-tax-in-kind-the-significance-of-the-new-policy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a8bf8183-3ae0-585c-9a58-1324a9bec3cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13347,
+      "paragraph_count": 137,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1921/apr/21.htm"
+    }
+  ]
+}

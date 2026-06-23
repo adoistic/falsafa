@@ -4,7 +4,7 @@ work_slug: "the-levellers-puritanism-and-liberty-the-army--c34f2d"
 work_title: "Puritanism and Liberty: The Army Debates (1647–9)"
 author_name: The Levellers
 chapter_number: 3
-chapter_title: PREFACE TO THE SECOND EDITION
+chapter_title: Preface to the Second Edition
 chapter_slug: "03-preface-to-the-second-edition"
 variant_id: "079b58d5-94ce-5129-9d22-4041ccdf046c"
 content_type: translation

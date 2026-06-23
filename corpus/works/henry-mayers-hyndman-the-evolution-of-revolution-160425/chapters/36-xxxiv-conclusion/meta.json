@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 36,
+  "chapter_title": "XXXIV. Conclusion",
+  "chapter_slug": "36-xxxiv-conclusion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9e0ea2f2-1073-58a3-87c0-931616a1dac8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2778,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/conclusion.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-fields-factories-and-workshops-49b176",
+  "work_title": "Fields, Factories, and Workshops",
+  "chapter_number": 31,
+  "chapter_title": "Appendix U : Petty Trades in the Lyons Region",
+  "chapter_slug": "31-appendix-u-petty-trades-in-the-lyons-region",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6b0261c1-e91b-5e72-aefd-0d43d6f0f447",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1807,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/appendix-u.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 57,
+  "chapter_title": "I. The Nature and Origin of the Doctrine",
+  "chapter_slug": "57-i-the-nature-and-origin-of-the-doctrine",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70a4d981-929b-5839-97f2-f977d2e75125",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2329,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

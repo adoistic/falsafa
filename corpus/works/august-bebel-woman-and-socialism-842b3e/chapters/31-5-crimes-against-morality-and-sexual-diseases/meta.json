@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 31,
+  "chapter_title": "5. Crimes Against Morality and Sexual Diseases.",
+  "chapter_slug": "31-5-crimes-against-morality-and-sexual-diseases",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d37a3a32-7eb3-5a4a-81ee-1bae46cbcf6a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1234,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch12.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
 work_title: The Ecclesiastical History of the English Nation
 author_name: The Venerable Bede
 chapter_number: 176
-chapter_title: CHAPTER XXX
+chapter_title: Chapter XXXI (3)
 chapter_slug: 176
 variant_id: "2ed9ce72-5167-5ea6-bbb3-f0f0c788519b"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 194
+word_count: 263
 source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
 translator: Online Library of Liberty edition
 ---
 
-how he cured a girl of a pain in the head and side by anointing her with oil
+how he cured an infirm man by consecrated bread
 
-But the venerable Bishop Cuthbert effected a cure similar to this, of which there were many eye-witnesses, one of whom is the religious priest, Ethelwald, at that time attendant on the man of God, but now abbot of the monastery of Melrose. Whilst, according to his custom, he was travelling and teaching all, he arrived at a certain village, in which were a few holy women, who had fled from their monastery through fear of the barbarian army, and had there obtained a habitation from the man of God a short time before: one of whom, a sister of the above-mentioned priest, Ethelwald, was confined with a most grievous sickness: for during a whole year she had been troubled with an intolerable pain in the head and side, which the physicians utterly despaired of curing. But when they told the man of God about her, and entreated him to cure her, he in pity anointed the wretched woman with holy oil. From that time she began to get better, and was well in a few days.
+I must not here pass over a miracle which was told to me as having been worked by his holiness, though he himself was absent. We mentioned a prefect of the name of Hildemer, whose wife the man of God freed from an unclean spirit. The same prefect afterwards fell seriously ill, so that his malady daily increased, and he was confined to his bed, apparently near death. Many of his friends were present who had come to console him in his sickness. Whilst they were sitting by the bedside, one of them mentioned that he had with him some consecrated bread which Cuthbert had given him: “And I think,” said he, “that if we were in faith to give him this to eat, nothing doubting, he would be well.” All present were laymen, but at the same time very pious men, and turning to one another, they professed their faith, without doubting, that by partaking of that same consecrated bread he might be well. They therefore filled a cup with water, and putting a little of the bread into it, gave it him to drink: the water thus hallowed by the bread no sooner touched his stomach than all his inward pain left him, and the wasting of his outward members ceased. A perfect recovery speedily ensued, and both himself and the others who saw or heard the rapidity of this wonderful cure were thereby stirred up to praise the holiness of Christ’s servant, and to admire the virtues of his true faith.

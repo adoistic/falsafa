@@ -2,7 +2,7 @@
   "work_slug": "herbert-spencer-first-principles-7ee97f",
   "work_title": "First Principles",
   "chapter_number": 14,
-  "chapter_title": "CHAPTER IV.: THE RELATIVITY OF ALL KNOWLEDGE.",
+  "chapter_title": "Part II.: The Knowable, Chapter I.: Philosophy Defined.",
   "chapter_slug": "14",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 9999,
-      "paragraph_count": 42,
+      "word_count": 2477,
+      "paragraph_count": 15,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/spencer-first-principles-1867"
     }

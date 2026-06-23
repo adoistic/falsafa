@@ -11,14 +11,26 @@
   "default_variant": "translation.md",
   "variants": [
     {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e75c4034-dd14-5b32-8c89-a25a40413892",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 184871,
+      "paragraph_count": 1344,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6343"
+    },
+    {
       "file": "translation.md",
       "content_type": "translation",
       "variant_id": "d25db23c-784e-521b-969f-0ca420bb53dd",
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 207569,
-      "paragraph_count": 1342,
+      "word_count": 17795,
+      "paragraph_count": 96,
       "has_image": false,
       "source_url": "https://www.gutenberg.org/ebooks/4280"
     }

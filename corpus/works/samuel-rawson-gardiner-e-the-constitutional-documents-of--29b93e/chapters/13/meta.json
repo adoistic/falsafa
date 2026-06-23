@@ -1,0 +1,26 @@
+{
+  "work_slug": "samuel-rawson-gardiner-e-the-constitutional-documents-of--29b93e",
+  "work_title": "The Constitutional Documents of the Puritan Revolution, 1625–1660",
+  "chapter_number": 13,
+  "chapter_title": "Part II: From the Meeting of the Third Parliament of Charles I. To the Meeting of the Long Parliament.",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d53332d6-366b-5e0b-b66b-9cdf07cde9be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 26301,
+      "paragraph_count": 198,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gardiner-the-constitutional-documents-of-the-puritan-revolution-1625-1660"
+    }
+  ]
+}

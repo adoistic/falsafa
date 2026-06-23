@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 30,
+  "chapter_title": "Chap. VIII: Of what is called Expence, Profit, and Loss",
+  "chapter_slug": "30-chap-viii-of-what-is-called-expence-profit-and-los",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca37b56d-0515-51a3-a887-270df1f8a9eb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 486,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_07.htm"
+    }
+  ]
+}

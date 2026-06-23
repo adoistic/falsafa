@@ -4,7 +4,7 @@ work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
 work_title: The Ecclesiastical History of the English Nation
 author_name: The Venerable Bede
 chapter_number: 33
-chapter_title: CHAPTER XXVIII
+chapter_title: Chapter XXVIII (1)
 chapter_slug: 33
 variant_id: "1525839a-83c0-5d6d-b10d-7a42202b80b9"
 content_type: translation

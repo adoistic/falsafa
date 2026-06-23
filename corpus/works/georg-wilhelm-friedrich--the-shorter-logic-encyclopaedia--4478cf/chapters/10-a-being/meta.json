@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 10,
+  "chapter_title": "(a) Being",
+  "chapter_slug": "10-a-being",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cec8995a-dcfa-55ba-b106-eebfb1b11504",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3804,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slbeing.htm"
+    }
+  ]
+}

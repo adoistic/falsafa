@@ -1,0 +1,117 @@
+[
+  {
+    "id": "p-802f70",
+    "offset": 0,
+    "text": "Marshall's Curves and Monetary Curves.—In the theory of international value as expounded by Mill and his followers the analysis is conducted in terms of exchange ratios between certain broad groups or classes of commodities which together include all of the commodities existing in the two regions, or if the analysis is presented in terms of the exchange ratios between a few particular commodities, then these are assumed to be representative of the broad groups of commodities whose price interrelationships are the special subject of interest of the theory. In their general-value theory, on the other hand, the same writers dealt mainly with the prices in terms of money of single commodities taken one at a time and selected for examination from a universe in which there was presumed to exist an indefinitely large number of kinds of commodities. In their handling of the theory of international value, therefore, the English school made two important change from their procedure in the field of general-value theory: (1) instead of dealing with money prices, they abstracted from money and dealt with exchange ratios between commodities; (2) instead of dealing with the variations in value of particular commodities taken one at a time on the assumption that the remainder of the system of values remained unchanged, they dealt with the internal variations occurring in the system of values as a whole. In their international-value theorizing, therefore, the English school, from the time of Mill on, made a substantial approach to the general-equilibrium method, although adhering, without important exceptions, to a strictly partial-equilibrium approach in the field of general-value theory."
+  },
+  {
+    "id": "p-2edd55",
+    "offset": 1703,
+    "text": "This difference in method of analysis was not a historical accident but was a natural response to the difference in the nature of the problems which presented themselves most urgently for examination in the two fields. It is evident, however, that the earlier writers gave little thought to this divergence of procedure. Even in the case of Marshall, who is almost alone in drawing attention to the variation in his technique of analysis in the two fields, the explanation which he gives of the nature of the variation and of the considerations which make it desirable can scarcely be regarded as adequate. Marshall states that his reasons for dealing with international-value problems in non-monetary terms, as distinguished from the monetary approach of his general-value theory, are that any disturbance in international equilibrium will result in a change in the value of money in the two areas, or in “the standards of prices,” that if the analysis is in monetary terms allowance must be made for this change in value, but that attempt to make such allowance results in wholly unmanageable complications if one proceeds far into the pure theory of foreign trade."
+  },
+  {
+    "id": "p-43c9bf",
+    "offset": 2872,
+    "text": "But the same objections, in kind, can be made to the use of money prices as a measure of value in domestic-trade theory, and it is a difference in the nature of the questions examined in the two bodies of theory, involving a difference in the degree of error resulting from abstraction from the variations in the value of money, which provides any basis for tolerating this error in domestic-value theory in the interest of simplicity while refusing to tolerate it in the field of international values. The substitution for the price-quantity demand and supply functions for single commodities used in domestic-trade theory of some such concept as reciprocal demand becomes almost inevitable if what is being studied is the value relationships between all the elements of the economy, grouped into broad classes, instead of the relative variations in value of money and one single presumably minor commodity."
+  },
+  {
+    "id": "p-975e2b",
+    "offset": 3782,
+    "text": "It is a misconception, however, to regard the theory of international value, because it abstracts from absolute money prices, as a theory of barter applied to foreign trade. The theory of barter, strictly speaking, is not applicable to an economy in which money serves as a medium of exchange and as a common measure of relative values. The theory of international value takes for granted the existence of money and its execution of its respective functions, but confines its analysis to the non-monetary manifestations of the equilibrium process."
+  },
+  {
+    "id": "p-113b7c",
+    "offset": 4331,
+    "text": "Marshall, who wrote during a period when the exponents of the substitution throughout the field of value theory of general-for partial-equilibrium analysis were carrying on vigorous propaganda for their cause, cannot be supposed to have been unaware of the full significance of his departure in the field of the theory of international value from the partial-equilibrium method which otherwise he uniformly followed. It is regrettable, therefore, that he not only failed to emphasize the differences between his methods of analysis in the two fields, but that he expounded the two types of theory in such closely similar terminology as to lead some students to postulate a closer resemblance between the two bodies of analysis than could rightly be attributed to them. He must be held largely to blame, therefore, for the fact that able writers have supposed that his reciprocal-demand or foreign-trade curves and his domestic demand and supply curves in terms of money were so closely related that the former were simple derivatives of the latter. The two types of curves rest on radically different and irreconcilable sets of assumptions, so that it is impossible to derive one set from the other or to trace a definite relationship between them."
+  },
+  {
+    "id": "p-f317a7",
+    "offset": 5581,
+    "text": "The substitution in the theory of international values of analysis in terms of reciprocal demands for analysis in terms of demands and supplies of particular commodities with respect to money prices marks, therefore, a distinct improvement in method of analysis. For introducing this improvement the credit belongs mainly to John Stuart Mill, and when Marshall and Edgeworth later elaborated and refined upon it, and invented a graphical technique for its application, they freely acknowledged their indebtedness to Mill."
+  },
+  {
+    "id": "p-cbd3c6",
+    "offset": 6104,
+    "text": "There exists, however, a considerable literature, mainly of Continental origin, and still being added to, in which the problems of international value are analyzed in terms of absolute money prices and of independence of particular demand or supply curves in terms of money prices from each other. Of the many variants of the monetary approach to the problem of international value there will be selected for comment here the three types which appear to have had the greatest influence on later writers."
+  },
+  {
+    "id": "p-cbdb0a",
+    "offset": 6609,
+    "text": "Cournot's Theory.—Cournot presents an argument for the profitability of import duties so obscurely stated and falling so far short of establishing its conclusions that it scarcely deserves attention on its own account. But his general authority as an economist is so high, and he is so often appealed to by protectionists as having successfully refuted the doctrine of comparative costs, that his argument cannot be wholly ignored. In spite of the fact that he stated his thesis at some length in all his economic works, it is by no means easy to determine just what he was trying to prove, and almost every commentator has given a different interpretation of his argument. I will attempt to reproduce his argument essentially in the form in which he first stated it."
+  },
+  {
+    "id": "p-4d5421",
+    "offset": 7378,
+    "text": "Country B removes a restriction on the import of a commodity M. Let pb be respectively the price and Db the consumption of M in B before the removal of restriction, p'b the (lower) price and D'b the (smaller) domestic production and E the quantity imported of M in B after the removal of the restriction. Then producers of M in B will lose"
+  },
+  {
+    "id": "p-f594af",
+    "offset": 7719,
+    "text": "But for the consumers of M before the removal of the restriction there will be a saving of money available for the purchase of other commodities than M of"
+  },
+  {
+    "id": "p-c156c2",
+    "offset": 7875,
+    "text": "Since the import E must be paid for in other commodities, a foreign sum is added to the funds previously available for the purchase of other commodities than M, equal to"
+  },
+  {
+    "id": "p-c99184",
+    "offset": 8046,
+    "text": "On the other hand, the increase in the purchases of M resulting from the decrease in the price of M will reduce the amount otherwise available for the purchase of other commodities than M by the amount of"
+  },
+  {
+    "id": "p-f52a75",
+    "offset": 8252,
+    "text": "But (2)+(3)-(4), or the additional funds available for the purchase of other commodities than M, equals (1) or pbDb—p'bD'b, i.e., equals the loss to producers of M in B. It would seem that so far there is no net change in the national money income, since the loss to producers of M in offset by a corresponding gain to the rest of the community. But Cournot, by virtue of a process of reasoning which no one has so far satisfactorily explained, calls this sum, pbDb—p'bD'b, the “nominal reduction” in the national income."
+  },
+  {
+    "id": "p-92c465",
+    "offset": 8775,
+    "text": "Cournot concedes that the original consumers of M, as a result of its fall in price, are in the same position as if their income had increased by"
+  },
+  {
+    "id": "p-2c86ee",
+    "offset": 8922,
+    "text": "what we would call a consumer's surplus item if this were an acceptable way of measuring it. There is also a possible additional gain to consumers of M, because at its reduced price the additional purchases thereof may yield more satisfaction than the commodities which they replace. But since Cournot regards this gain as not measurable, he excludes it from his computation. He concludes that there is a “real reduction” in the national income of B equal to the excess of the “nominal reduction” (1) over the gain (5), or"
+  },
+  {
+    "id": "p-fddcf1",
+    "offset": 9446,
+    "text": "It is impossible to find any significance either in Cournot's mode of computation of the benefits and losses from the removal of a restriction on import, or in the “nominal” or “real” results of his computations. The correctness of the general verdict that the technique which he used at this point was inadequate for the purpose and his conclusions of no value seems indisputable."
+  },
+  {
+    "id": "p-5e7415",
+    "offset": 9829,
+    "text": "In his final exposition of his thesis, Cournot concedes that if the removal of the restriction on import resulted in an outflow of money followed by a general fall in the prices of commodities, the problem would completely alter in character, and his conclusions would not apply. This is an important concession, since the classical economists would have argued that a unilateral reduction in duties would have just these effects, and would have regarded as meaningless analysis of the effects of a reduction of duties which did not take these effects into account. Cournot also defends his technique of analysis in terms of money values by appealing to Mill's doctrine that the introduction of money would not alter the results of trade as compared to what they would be under barter. If this was correct, Cournot asserts, there could be no objection to the presentation of the theory of international trade in wholly pecuniary terms. This is, of course, an extraordinary non sequitur. Because analysis in terms of real costs, on the one hand, and analysis in terms of real costs and money values, on the other hand, would produce identical results, it does not follow that the same results can be produced by analysis in terms of money values alone. In any case, Cournot's analysis fails to deal intelligibly even with the pecuniary aspects of the problem."
+  },
+  {
+    "id": "p-9be048",
+    "offset": 11189,
+    "text": "Barone's Graphical Technique.—Cunynghame, in 1904, expounded the theory of international value with the aid of a type of graphical illustration related to the ordinary Marshallian domestic-trade demand and supply diagrams in terms of money prices and derivable from them. In Cunynghame's diagrams, as in Marshall's domestic-trade diagrams, only one commodity at a time is under consideration, and the diagrams relating to the two regions are set back to back for purposes of comparison and analysis. Cunynghame did not draw any conclusions with respect to gain from trade from his diagrams, but Barone, in 1908, used the Cunynghame back-to-back diagram to reach such conclusions."
+  },
+  {
+    "id": "p-8ad9e1",
+    "offset": 11870,
+    "text": "Chart XX is a reproduction of Barone's basic diagram. The demand and supply curves of the particular commodity under consideration, expressed in terms of money in a currency common to both countries, are given separately for each country, with the two diagrams set back to back. In the absence of international trade in this commodity, its price would be P1N in England and PM in Germany. If trade is opened, England will therefore be the importer of the commodity and Germany the exporter. The cost of transportation per unit is assumed to be OO1, and after trade, therefore, the price in England must be the price in Germany plus OO1. Equilibrium will be established at the price, f.o.b. Germany, at which the quantity England would import,"
+  },
+  {
+    "id": "p-3447cd",
+    "offset": 12614,
+    "text": "CT, is equal to the quantity Germany would export, EF. The price, therefore, will be RE in Germany and HC (-RE+OO1) in England. Each country, says Barone, will gain as the result of the trade. In England the gain to consumers will be P1CAB monetary units, which is greater than the loss to producers, P1TAB. In Germany the gain to producers will be AZPF, which is greater than the loss to consumers, AZPE."
+  },
+  {
+    "id": "p-b17880",
+    "offset": 13021,
+    "text": "The grounds on which this reasoning must be regarded as inconclusive are many and formidable. First, it ignores the effect which the removal of barriers to trade would have on gold movements and therefore on the heights of the demand-and-supply schedules and the prices in the two countries. Second, the area CP1W included by Barone in the gain to English consumers is not homogeneous with the area BP1WA, the latter being an actual saving in money (waiving the first objection), whereas the former is a “consumer's surplus” of indefinable meaning as compared to the area BP1WA. A similar objection applies to the inclusion of the area EVP in the loss accruing to German consumers. These areas are akin to a portion of Marshall's consumer's surpluses in his domestic-trade theory, and are subject to the same criticisms. Third, the calculation of gain or loss to producers from changes in price and output assumes that the “producer's rent” areas represent net real income to producers without involving real costs to anyone else in the community, an assumption inconsistent with normal reality in the one respect or in the other, or partly in both. Fourth, the supply and demand curves in terms of money for each country are assumed to be independent of each other, and of the amount of national real income, an assumption always logically invalid, but seriously in conflict with the realities if the commodity under consideration represents, or is taken as representative of, a large fraction of the total national output or consumption, as distinguished from the theory of domestic value. Barone's technique of analysis is invalid, therefore, even if what is in issue is the gain or loss resulting from the removal of a single minor import duty, although the results which he obtains are for most situations probably the same in direction as those which would be obtainable by more acceptable methods. But Barone claimed that his conclusions are “manifestly” applicable, without need of additional qualification, to the case of the removal of an entire tariff."
+  },
+  {
+    "id": "p-fc2646",
+    "offset": 15086,
+    "text": "Auspitz and Lieben.—Auspitz and Lieben attempt to trace the gain or loss effects of trade and of the imposition or removal of single duties by means of graphical constructions, independently devised by them, which are in some respects intermediate between the Marshallian domestic-trade diagrams and the Marshall-Edgeworth foreign-trade diagrams. In their diagrams only a single commodity and money are represented, as in the Marshallian domestic-trade diagrams, but the vertical axis represents total amount of money instead of price per unit, and for each country the demand or supply situation is represented by two curves. In the case of the exporting country, one of these curves represents the total amounts of money in return for which the country would carry its export to the volumes indicated by the horizontal axis, while the other represents the total amounts of money which the country could accept for the indicated volumes of export without losing from the trade as a whole. This last curve, therefore, is a species of indifference curve corresponding to one of Edgeworth's “no-gain from trade” curves. It is assumed throughout that the money has constant marginal utility, and the effects of trade, or of duties, on the amount of gain from trade are measured by the vertical distances between the two curves. The restriction to single commodities makes the Auspitz and Lieben constructions akin to Barone's as far as the objective effects of trade and of duties are concerned, and open to the same objections, but their method of measuring gain, while not satisfactory because of the assumption of constant marginal utility of one of the constituent items in the trade, is superior to Marshall's because of its use of the indifference curve as an element in the measurement."
+  },
+  {
+    "id": "p-41080c",
+    "offset": 16878,
+    "text": "This book may appropriately end on a not which has been repeatedly struck before. The theory of international trade, at its best, can provide only presumptions, not demonstrations, as to the benefit or injury to be expected from a particular disturbance in foreign trade, for it deliberately abstracts from some of the considerations which can rationally be taken into account in the appraisal of policy and it never takes into account all the variables which it recognizes as significant and within its scope either because they are out of its reach or because to take them all into account would make the problem too complex for neat solution. The presumptions which the theory does provide, however, are important both because neglect of them in the formation of decisions as to policy would lead to wrong decisions in many, perhaps most, cases, and because these presumptions are not likely to be hit upon except by means of the rather arduous procedures of the theory of international trade in its more or less traditional form. Greater claims than this have been made for the utility of theory in the field of commercial policy, but their justification must await, I fear, an advance in power of economic analysis which is not yet in sight."
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-economics-and-politics-in-the-er-281dfb",
+  "work_title": "Economics and Politics in the Era of the Dictatorship of the Proletariat",
+  "chapter_number": 1,
+  "chapter_title": "Economics and Politics in the Era of the Dictatorship of the Proletariat",
+  "chapter_slug": "01-economics-and-politics-in-the-era-of-the-dictators",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca42a538-1f66-5377-8b61-0e22b88b87b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3316,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1919/oct/30.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
 work_title: An Essay on Crimes and Punishments
 author_name: Cesare Beccaria
 chapter_number: 47
-chapter_title: "CHAPTER XLV.: OF EDUCATION."
+chapter_title: "Chapter XLVI.: Of Pardons."
 chapter_slug: 47
 variant_id: "43f1257c-c435-529c-b147-496c91158f86"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 155
+word_count: 401
 source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
 translator: Online Library of Liberty edition
 ---
 
-Finally, the most certain method of preventing crimes, is to perfect the system of education. But this is an object too vast, and exceeds my plan; an object, if I may venture to declare it, which is so intimately connected with the nature of government, that it will always remain a barren spot, cultivated only by a few wise men.
+As punishments become more mild, clemency and pardon are less necessary. Happy the nation in which they will be considered as dangerous! Clemency, which has often been deemed a sufficient substitute for every other virtue in sovereigns, should be excluded in a perfect legislation, where punishments are mild, and the proceedings in criminal cases regular and expeditious. This truth will seem cruel to those who live in countries, where, from the absurdity of the laws, and the severity of punishments, pardons, and the clemency of the prince, are necessary. It is indeed one of the noblest prerogatives of the throne, but, at the same time, a tacit disapprobation of the laws. Clemency is a virtue which belongs to the legislator, and not to the executor of the laws; a virtue which ought to shine in the code, and not in private judgment. To shew mankind, that crimes are sometimes pardoned, and that punishment is not the necessary consequence, is to nourish the flattering hope of impunity, and is the cause of their considering every punishment inflicted as an act of injustice and oppression. The prince, in pardoning, gives up the public security in favour of an individual, and, by his ill-judged benevolence, proclaims a public act of impunity. Let, then, the executors of the laws be inexorable, but let the legislator be tender, indulgent and humane. He is a wise architect, who erects his edifice on the foundation of self-love, and contrives, that the interest of the public shall be the interest of each individual; who is not obliged by particular laws, and irregular proceedings, to separate the public good from that of individuals, and erect the image of public felicity on the basis of fear and distrust; but, like a wise philosopher, he will permit his brethren to enjoy, in quiet, that small portion of happiness, which the immense system, established by the first cause, permits them to taste on this earth, which is but a point in the universe.
 
-A great man, who is persecuted by that world he hath enlightened, and to whom we are indebted for many important truths, hath most amply detailed the principal maxims of useful education. This chiefly consists in presenting to the mind a small number of select objects; in substituting the originals for the copies, both of physical and moral phenomena; in leading the pupil to virtue by the easy road of sentiment, and in withholding him from evil by the infallible power of necessary inconveniences, rather than by command, which only obtains counterfeit and momentary obedience.
+A small crime is sometimes pardoned, if the person offended chuses to forgive the offender. This may be an act of good nature and humanity, but it is contrary to the good of the public. The right of punishing belongs not to any individual in particular, but to society in general, or the sovereign. He may renounce his own portion of this right, but cannot give up that of others.

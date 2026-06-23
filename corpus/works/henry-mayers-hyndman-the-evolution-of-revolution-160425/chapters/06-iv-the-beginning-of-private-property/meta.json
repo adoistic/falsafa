@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 6,
+  "chapter_title": "IV. The Beginning of Private Property",
+  "chapter_slug": "06-iv-the-beginning-of-private-property",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ccd1fe62-ad1c-5f7d-bbd6-ca3db7079cab",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2312,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter04.htm"
+    }
+  ]
+}

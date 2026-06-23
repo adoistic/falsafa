@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexandra-kollontai-the-workers-opposition-884417",
+  "work_title": "The Workers' Opposition",
+  "chapter_number": 4,
+  "chapter_title": "On Bureaucracy & Self-activity of The Masses",
+  "chapter_slug": "04-on-bureaucracy-self-activity-of-the-masses",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "68949e9a-04fd-5c97-864e-e7c1dc87e014",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5396,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kollonta/1921/workers-opposition/ch03.htm"
+    }
+  ]
+}

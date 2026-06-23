@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-earth-hunger-and-other-essays-78e0ba"
 work_title: "Earth-Hunger and Other Essays"
 author_name: William Graham Sumner
 chapter_number: 2
-chapter_title: PREFATORY NOTE
+chapter_title: Prefatory Note
 chapter_slug: "02-prefatory-note"
 variant_id: "3d0240f1-8534-5e20-8267-c1057e5f4976"
 content_type: translation

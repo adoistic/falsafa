@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 11,
+  "chapter_title": "Industrial Militarization",
+  "chapter_slug": "11-industrial-militarization",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1092c724-3eba-59e9-9e96-ad991f39c970",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2110,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch09.htm"
+    }
+  ]
+}

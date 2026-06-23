@@ -4,7 +4,10 @@ slug: "hippocrates-de-diaeta-in-morbis-acutis-5846a4"
 title: De diaeta in morbis acutis
 author:
   name: Hippocrates
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Physician of Cos and the name under which Greek medicine's founding texts travel. The Aphorisms attributed to him opened medical curricula from Alexandria to Salerno."
+  birth_year: -460
+  death_year: -370
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

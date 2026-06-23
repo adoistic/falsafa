@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-signs-of-change-676fea",
+  "work_title": "Signs of Change",
+  "chapter_number": 5,
+  "chapter_title": "5. The Aims of Art",
+  "chapter_slug": "05-5-the-aims-of-art",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab82d04c-49e6-5006-843a-3d13c9ecf949",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6322,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1888/signs/chapters/chapter5.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "m-n-roy-on-economic-determinism-ec1423",
+  "work_title": "On Economic Determinism",
+  "chapter_number": 1,
+  "chapter_title": "On Economic Determinism",
+  "chapter_slug": "01-on-economic-determinism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0e46528-ed75-585d-92ca-a3abe84f3c72",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1266,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/roy/1922/11/10a.htm"
+    }
+  ]
+}

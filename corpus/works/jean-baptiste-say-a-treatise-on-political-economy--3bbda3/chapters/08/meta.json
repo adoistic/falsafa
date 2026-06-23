@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 8,
-  "chapter_title": "BOOK I, CHAPTER V: ON THE MODE IN WHICH INDUSTRY, CAPITAL, AND NATURAL AGENTS UNITE IN PRODUCTION.",
+  "chapter_title": "Book I, Chapter VII: Of the Labour of Mankind, of Nature, and of Machinery Respectively.",
   "chapter_slug": "08",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 968,
-      "paragraph_count": 17,
+      "word_count": 2252,
+      "paragraph_count": 23,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

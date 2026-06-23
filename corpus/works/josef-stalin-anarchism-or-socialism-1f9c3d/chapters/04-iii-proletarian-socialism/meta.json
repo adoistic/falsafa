@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-anarchism-or-socialism-1f9c3d",
+  "work_title": "Anarchism or Socialism?",
+  "chapter_number": 4,
+  "chapter_title": "III Proletarian Socialism",
+  "chapter_slug": "04-iii-proletarian-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3eeb11f5-562e-550a-924f-de3c8abb96ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10820,
+      "paragraph_count": 210,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1906/12/x01.htm"
+    }
+  ]
+}

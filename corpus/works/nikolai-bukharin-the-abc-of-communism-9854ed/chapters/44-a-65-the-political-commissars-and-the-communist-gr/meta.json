@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 44,
+  "chapter_title": "â§ 65. The political commissars and the communist groups",
+  "chapter_slug": "44-a-65-the-political-commissars-and-the-communist-gr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5865ac10-fd32-511b-9fe7-fe02374da299",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 647,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/08.htm"
+    }
+  ]
+}

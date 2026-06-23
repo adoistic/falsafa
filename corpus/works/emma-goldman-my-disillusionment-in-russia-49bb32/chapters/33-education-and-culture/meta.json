@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 33,
+  "chapter_title": "Education and Culture",
+  "chapter_slug": "33-education-and-culture",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0d6d3ea6-4684-57cf-8372-87e6018d7506",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3834,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch30.htm"
+    }
+  ]
+}

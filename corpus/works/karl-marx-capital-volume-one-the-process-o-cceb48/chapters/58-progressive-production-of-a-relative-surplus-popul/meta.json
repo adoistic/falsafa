@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 58,
+  "chapter_title": "Progressive Production of a Relative surplus population or Industrial Reserve Army",
+  "chapter_slug": "58-progressive-production-of-a-relative-surplus-popul",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "429949e3-3ec2-552c-b851-2c7dd9f336ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4303,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch25.htm"
+    }
+  ]
+}

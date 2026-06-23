@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 38,
+  "chapter_title": "5. Woman and the Learned Professions.",
+  "chapter_slug": "38-5-woman-and-the-learned-professions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "674f5d8d-3b36-5530-bee8-808fd9f47277",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4721,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch14.htm"
+    }
+  ]
+}

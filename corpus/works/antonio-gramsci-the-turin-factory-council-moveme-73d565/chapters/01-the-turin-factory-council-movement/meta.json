@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-gramsci-the-turin-factory-council-moveme-73d565",
+  "work_title": "The Turin Factory Council Movement",
+  "chapter_number": 1,
+  "chapter_title": "The Turin Factory Council Movement",
+  "chapter_slug": "01-the-turin-factory-council-movement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "429cab8a-9613-5201-8e3f-01c30f3cbd06",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2943,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gramsci/1921/03/turin_councils.htm"
+    }
+  ]
+}

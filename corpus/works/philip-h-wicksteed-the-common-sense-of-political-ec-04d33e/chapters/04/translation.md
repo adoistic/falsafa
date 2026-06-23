@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 4
-chapter_title: "CHAPTER I: INTRODUCTORY: ADMINISTRATION OF RESOURCES AND CHOICE BETWEEN ALTERNATIVES. PRICE AND THE RELATIVE SCALE"
+chapter_title: "Book I: Systematic and Constructive, Chapter I: Introductory: Administration of Resources and Choice Between Alternative"
 chapter_slug: 04
 variant_id: "439dd809-0286-5d2f-9ba7-a4bb31e38615"
 content_type: translation
@@ -13,10 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 9418
+word_count: 9441
 source_url: "https://oll.libertyfund.org/titles/wicksteed-the-commonsense-of-political-economy"
 translator: Online Library of Liberty edition
 ---
+
+CALLICLES. How you keep on, Socrates, harping on the same old string about food and drink and doctors and sandals and such-like trivialities!
 
 Summary.—This work is a study of the organisation of industry and commerce in its bearing upon social problems and upon human life. The derivation and the current use of the terms "Economy," "Political Economy," and "Economics" suggest that we should approach the problems of the industrial administration of resources from the field of domestic and personal administration to which we all have access. Every purchase being a virtual selection and involving a choice between alternatives is made in obedience to impulses and is guided by principles which are equally applicable to other acts of selection and choice. To understand them we must study the psychology of choice. The price of a thing is an indication of the range of alternatives open to the purchaser, and is a special case of "terms on which alternatives are offered to us." We are constantly weighing apparently heterogeneous objects of desire against each other and selecting between them according to the terms on which we can secure them. All these things that we balance against and compare with each other, whether they can be had for money or not, may ideally be arranged on a scale of relative significance in our minds.
 

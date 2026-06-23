@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 4
-chapter_title: "BOOK I, CHAPTER IV: THE ORDER AND AIMS OF ECONOMIC STUDIES."
+chapter_title: "Book I, Chapter IV: The Order and Aims of Economic Studies."
 chapter_slug: 04
 variant_id: "e06e7712-6e48-5d53-a124-875bc3794f0b"
 content_type: translation

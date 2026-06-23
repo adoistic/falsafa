@@ -4,7 +4,7 @@ work_slug: "william-godwin-of-population-a25378"
 work_title: Of Population
 author_name: William Godwin
 chapter_number: 44
-chapter_title: "CHAPTER VI.: OF THE AMOUNT OF BIRTHS IN THE UNITED STATES."
+chapter_title: "Chapter VII.: Of the Period at Which Marriages Are Formed.."
 chapter_slug: 44
 variant_id: "5e6f97f5-f659-5555-8d49-ddbf4d29c9ee"
 content_type: translation
@@ -13,45 +13,29 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1201
+word_count: 779
 source_url: "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
 translator: Online Library of Liberty edition
 ---
 
-It has already appeared, I trust, to the satisfaction of every reader, that the only increase of the number of human beings in any community by procreation, must be by increasing the proportion of births to a marriage, or, more strictly speaking, to the amount of women capable of child-bearing in that community.
+Dr. franklin, in his Observations concerning the Increase of Mankind, Peopling of Countries, &c, where he says, “If in Europe they have but four births to a marriage, we in America may reckon eight,” inserts a slight parenthesis, in which he assigns one solitary reason, to account for this amazing disparity, and to reconcile the mind of the reader to so extraordinary an hypothesis. This may be the case, says he, because “many of the European marriages are late.”
 
-This is the essence of the question which the Essay on Population professes to treat. If Mr. Malthus, or any writer less presumptuous than Mr. Malthus, should hereafter undertake to deliver any thing sound and substantial on the subject, to this point it is necessary he should direct his investigation.
+Mr. Malthus in like manner lays great stress upon the question of early marriages, and seems to think that, if “moral restraint,” of the efficacy of which he entertains “very inconsiderable hopes,” could once be brought into action, so as to prevent this evil, the mischiefs to be apprehended from overpopulation might then be prevented, with very little, or perhaps no need of the aid of his established confederates, vice and misery.
 
-It should seem therefore as if the United States afforded us no ground to stand on: I have taken considerable pains to obtain information in this point, but have been unable to procure any thing satisfactory.
+It is therefore just that we should bestow some consideration, on the difference that is likely to arise in the peopling of countries from early and from late marriages.
 
-The only thing I have seen, that comes to the point in this essential question, is a paper in the third volume of the Transactions of the American Edition: current; Page: [420] Philosophical Society held at Philadelphia, entitled, Observations on the Probabilities of the Duration of Human Life, and the Progress of Population, in the United States of America, by William Barton, Esq, which paper was read in a meeting of the society, on the eighteenth of March, 1791.
+Marriage takes place, in some countries, when the parties are sixteen years of age, or even earlier: we may suppose the marriageable age to be twenty: or we may carry it on, with Mr. Malthus, to the age of twenty-seven or twenty-eight.
 
-These Observations are expressly written to support the principle first started by Dr. Franklin, Dr. Ezra Styles, and others, in laud and glory of the land of America.
+The opinion of Sussmilch on the subject is thus expressed. “Too early and too late marriages are both of them injurious to population. Experience shews this in animals: as, for. example, among great cattle, the cow which has a calf when too young, never comes to the size and strength which she otherwise would have done.”
 
-The testimony of an adversary, if it should turn out to be in favour of the opinion I have delivered, is of double force; and on that account I value the testimony of Mr. Barton. In his paper he has the following remarkable passage.
+Tacitus speaks to the same purpose in his treatise De Moribus Germanorum. “The young men marry late, by which means their virility is preserved; nor is the female in greater haste to engage in the nuptial tie. They come together with similar vigour, in complete stature, and with well matched force; and thus it happens that the offspring fails not to inherit the robustness of its parents.”
 
-Having asserted, that “the United States of America possess in a superior degree an inherent, radical and lasting source of national vigour and greatness; since it will be found that in no other part of the world (at least in none of those parts with which we are best acquainted) is the progress of population so rapid as in these States:” he enters into certain calculations; and then proceeds thus:
+Cæsar, treating of the same Germans, delivers his sentiments in a similar manner.
 
-“From the foregoing statements it may be presumed, that four and a half persons to a house, and the same proportion of births to a marriage, are an allowance quite high enough for some of the healthiest parts of Europe. There is but one instance, in which I have been Edition: current; Page: [421] enabled to obtain the actual proportion of births to marriages in this country. At the first parish in Hingham, in the State of Massachuset, during the course of fifty-four years, there were two thousand two hundred and forty-seven. births, one thousand one hundred and thirteen deaths, and five hundred and twenty-one marriages; which gives the proportion of six and a quarter births to a marriage. Therefore, the proportion of births to marriages in that parish having been taken out of so considerable a number of persons, and for so long a time, inclines me to think it may serve as a pretty just standard for the country-parts of the northern, and perhaps of the middle states.”— It is to be observed that Mr. Barton comes down here from Dr. Franklin's vantage-ground of “eight being the average number of births to an American marriage.”
+“Those who remain longest without the knowledge of the other sex, bear the greatest praise among them. They believe that this increases their stature, their force, and their muscular energy. To have intercourse with the female before the age of twenty, they regard as in the highest degree disgraceful.”
 
-Having Mr. Barton's numbers however before me, I thought it proper to try the justness of his conclusion by the Rule of Three. And, this being the very essence of the question, I shall here set down the steps of the process entire. Thus
+It seems indeed sufficiently probable that the female of the human species is endued with a certain degree of fecundity: and I believe it will be found in a majority of instances, that the woman who is called upon early to afford that species of nutrition from her frame which the unborn infant requires, sooner grows old, and ceases sooner from the power of child-bearing, than the woman in whom this faculty is not called forth till a later period.
 
-Divide 2247 births, by 521 marriages:
+There is another consideration of material consequence, as connected with this question, whether early marriages contribute to forward, and late marriages to retard, the increase of mankind. Dr. Franklin talks of “the frequent lateness of marriages in Europe.” I should be glad to have had the opportunity of asking him, what he meant by “a late marriage?” We should then have seen, whether the difference of the age at which marriage is contracted in Europe and in the United States, had almost any tendency to account for a superior fecundity on the other side of the Atlantic.
 
-And the result will be 4.312 births to a marriage.—How Mr. Barton came to imagine that six and a quarter was the quotient, instead of four and a fraction somewhat above a quarter, it is impossible for me to divine.
-
-It is particularly to be observed that Mr. Barton's numbers for births, marriages, and deaths, are printed in words at length; so that we may be tolerably certain that no error of the press lurks in the statement.
-
-Now this brings us down at once to something like the European standard. And it is sufficiently remarkable that four and a half births to a marriage, a proportion somewhat greater than what is here brought out for “the first parish in Hingham in the State of Massachusets,” is Mr. Barton's allowance for “the healthiest parts of Europe.”
-
-Mr. Malthus was the first to detect the error in Mr. Barton's statement, though he lets himself down as softly as he can, by calling the true quotient 4½
-
-Since writing the above, I have had transmitted to me by my valued friend, Mr. Joseph Valence Bevan of Georgia, reports of the marriages and births in Portsmouth, the capital of New Hampshire, for six years, from 1804 to 1809, drawn up and published on the spot by Dr. Lyman Spalding. These are the more important, as they relate to those Northern States of America, upon the increase of population in which by procreation only, Mr. Malthus has thought proper to lay his principal stress. They are as follow.
-
-Now in these reports, if I take the latest year, it will give me something less than 4 1/5 births to a marriage: and, if I add the whole six years together, the proportion will be found to be 441/100 to one.
-
-My friend at the same time transmitted to me a paper of the Return under these heads for the city and suburbs of Philadelphia: Edition: current; Page: [424] but this is only for the one year 1818, and does not distinguish the sexes of the born: the result is, “Marriages (as far as obtained) 792; Baptisms 2221:” yielding a quotient of fewer than three births to a marriage. It is somewhat remarkable that this Return concludes with a memorandum, that “the baptisms of this year were decreased by 282, and the burials increased by 64.”
-
-Thus, the further we enquire into the subject, the more we find the progress of the numbers of mankind by procreation in the United States, conforming itself to the model of Europe. In rural situations, such as Mr. Barton's parish in Hingham, and Dr. Spalding's Portsmouth in New Hampshire, the fruitfulness of marriages appears to be such as we might expect in rural and healthful situations in the Old World. But, when we come to large capitals, such as Philadelphia, the progress of population is reduced; and we are led to conclude of North America, as of Europe, that the number of inhabitants in great towns would not be kept up, without a perpetual influx of new citizens from distant quarters.
-
-If therefore it is true, that the increase of population “by procreation only,” can arise in no other way than that of an increased number of births,, then it is as plain as the operations of arithmetic can make it, that in every instance where the evidence has come to our hands, the Edition: current; Page: [425]fruitfulness of the human species in the United States does in no way materially differ, from what occurs on the subject in many countries of Europe.
+It is true that, where a country is in great distress, and the means of subsistence are difficult to be procured, there marriage will often not take place at so early a period, as it might do in countries which are placed in more favourable circumstances. But then there is another point to be considered. The period of marriage usually depends on the male. When a woman is solicited in wedlock, it will very rarely happen that her parents, or the female for herself, will decline the proposal, because she is not yet twenty-eight or thirty years of age. When we talk of a late marriage, in nineteen instances out of twenty we refer exclusively to the age of the husband. When an old man desires to marry, how often does it occur that he insists upon a wife as old as himself? No: whatever be the age of the bridegroom, he is almost sure to look out for a young bride; and then, unless he be indeed stricken in years, the chance of offspring is nearly the same, as if he had been himself as young as the woman he leads to the altar.

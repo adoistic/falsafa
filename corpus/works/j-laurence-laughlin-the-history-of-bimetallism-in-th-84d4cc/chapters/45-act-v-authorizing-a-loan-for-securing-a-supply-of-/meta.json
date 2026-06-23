@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc",
+  "work_title": "The History of Bimetallism in the United States",
+  "chapter_number": 45,
+  "chapter_title": "Act V. Authorizing a loan for securing a supply of gold for the coinage of gold coins of the crown standard, and specify",
+  "chapter_slug": "45-act-v-authorizing-a-loan-for-securing-a-supply-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9c04c795-9cbc-5796-ae59-9dc22b4eeaf2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 428,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laughlin-the-history-of-bimetallism-in-the-united-states-1898"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "herbert-spencer-the-study-of-sociology-8d5e18"
 work_title: The Study of Sociology
 author_name: Herbert Spencer
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "ccb5736a-4dbf-5534-84e4-05c8ccb3b829"
 content_type: translation

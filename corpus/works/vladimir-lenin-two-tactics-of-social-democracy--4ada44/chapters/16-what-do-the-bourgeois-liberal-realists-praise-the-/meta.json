@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+  "work_title": "Two Tactics of Social-Democracy in the Democratic Revolution",
+  "chapter_number": 16,
+  "chapter_title": "What Do The Bourgeois Liberal Realists Praise The Social-Democratic “Realists” For?",
+  "chapter_slug": "16-what-do-the-bourgeois-liberal-realists-praise-the-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "55d0ec5c-834f-53cd-8c02-53a64c7ae622",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2699,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ep-s1.htm"
+    }
+  ]
+}

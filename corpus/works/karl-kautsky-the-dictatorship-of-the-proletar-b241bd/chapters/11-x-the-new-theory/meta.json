@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-dictatorship-of-the-proletar-b241bd",
+  "work_title": "The Dictatorship of the Proletariat",
+  "chapter_number": 11,
+  "chapter_title": "X. The New Theory",
+  "chapter_slug": "11-x-the-new-theory",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "177d0674-53de-56f2-b77e-3f8be52b5db2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2991,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1918/dictprole/ch10.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 8
-chapter_title: "Chapter VII: OF HUMAN ACTIONS IN GENERAL"
+chapter_title: "Chapter VII: Of Human Actions in General"
 chapter_slug: 08
 variant_id: "97b8b2bc-a20c-5bfd-94e7-51fe5a8ad50a"
 content_type: translation

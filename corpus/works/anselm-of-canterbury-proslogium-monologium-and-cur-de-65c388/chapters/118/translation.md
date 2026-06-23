@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 118
-chapter_title: CHAPTER LXXVIII
+chapter_title: Chapter VII. (3)
 chapter_slug: 118
 variant_id: "988806b1-62d7-54a9-8e17-a03ea484092c"
 content_type: translation
@@ -13,17 +13,19 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 406
+word_count: 333
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-The supreme Being may in some sort be called Three
+In answer to another objection: that the supremely great being may be conceived not to exist, just as by the fool God is conceived not to exist.
 
-And so it is evidently expedient for every man to believe in a certain ineffable trinal unity, and in one Trinity; one and a unity because of its one essence, but trinal and a trinity because of its three—what? For, although I can speak of a Trinity because of Father and Son and the Spirit of both, who are three; yet I cannot, in one word, show why they are three; as if I should call this Being a Trinity because of its three persons, just as I would call it a unity because of its one substance.
+Again, you say that it can probably never be believed that this being, when it is spoken of and heard of, cannot be conceived not to exist in the same way in which even God may be conceived not to exist.
 
-For three persons are not to be supposed, because all persons which are more than one so subsist separately from one another, that there must be as many substances as there are persons, a fact that is recognised in the case of more men than one, when there are as many persons as there are individual substances. Hence, in the supreme Being, just as there are not more substances than one, so there are not more persons than one.
+Such an objection could be answered by those who have attained but little skill in disputation and argument. For is it compatible with reason for a man to deny the existence of what he understands, because it is said to be that being whose existence he denies because he does not understand it? Or, if at some times its existence is denied, because only to a certain extent is it understood, and that which is not at all understood is the same to him: is not what is still undetermined more easily proved of a being which exists in some understanding than of one which exists is no understanding?
 
-So, if one wishes to express to any why they are three, he will say that they are Father and Son and the Spirit of both, unless perchance, compelled by the lack of a precisely appropriate term, he shall choose some one of those terms which cannot be applied in a plural sense to the supreme Being, in order to indicate what cannot be expressed in any fitting language; as if he should say, for instance, that this wonderful Trinity is one essence or nature, and three persons or substances.
+Hence it cannot be credible that any man denies the existence of a being than which a greater cannot be conceived, which, when he hears of it, he understands in a certain degree: it is incredible, I say, that any man denies the existence of this being because he denies the existence of God, the sensory perception of whom he in no wise conceives of.
 
-For, these two terms are more appropriately chosen to describe plurality in the supreme Being, because the word person is applied only to an individual, rational nature; and the word substance is ordinarily applied to individual beings, which especially subsist in plurality. For individual beings are especially exposed to, that is, are subject to, accidents, and for this reason they more properly receive the name sub-stance. Now, it is already manifest that the supreme Being, which is subject to no accidents, cannot properly be called a substance, except as the word substance is used in the same sense with the word Essence. Hence, on this ground, namely, of necessity, that supreme and one Trinity or trinal unity may justly be called one Essence and three Persons or three Substances.
+Or if the existence of another object, because it is not at all understood, is denied, yet is not the existence of what is understood in some degree more easily proved than the existence of an object which is in no wise understood?
+
+Not irrationally, then, has the hypothesis of a being a greater than which cannot be conceived been employed in controverting the fool, for the proof of the existence of God: since in some degree he would understand such a being, but in no wise could he understand God.

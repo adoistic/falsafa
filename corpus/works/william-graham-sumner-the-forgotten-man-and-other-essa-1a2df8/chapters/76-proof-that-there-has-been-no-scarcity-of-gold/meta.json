@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 76,
+  "chapter_title": "Proof that there has been no Scarcity of Gold.",
+  "chapter_slug": "76-proof-that-there-has-been-no-scarcity-of-gold",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "492c4cbd-9089-5e3c-98d0-c0e803d19ab2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 322,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

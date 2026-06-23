@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 26,
+  "chapter_title": "The First Bank of the United States, Coinage.",
+  "chapter_slug": "26-the-first-bank-of-the-united-states-coinage",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a61e3e7-31cf-5ab3-a216-3dbd9cce539a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 295,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

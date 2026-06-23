@@ -1,0 +1,26 @@
+{
+  "work_slug": "max-weber-the-protestant-ethic-and-the-spi-3cade1",
+  "work_title": "The Protestant Ethic and the Spirit of Capitalism",
+  "chapter_number": 8,
+  "chapter_title": "Asceticism and the Spirit of Capitalism",
+  "chapter_slug": "08-asceticism-and-the-spirit-of-capitalism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a4e15a7-6eb9-54ec-83ec-e625d8870677",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8006,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/weber/protestant-ethic/ch05.htm"
+    }
+  ]
+}

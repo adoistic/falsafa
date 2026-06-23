@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 37,
+  "chapter_title": "(b) Cognition in general",
+  "chapter_slug": "37-b-cognition-in-general",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e44df1ba-1f68-5101-99c7-6e1a4c74527b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 494,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slidea.htm"
+    }
+  ]
+}

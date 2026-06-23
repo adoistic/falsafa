@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 165
-chapter_title: CHAPTER IX.
+chapter_title: Chapter XIX. (3)
 chapter_slug: 165
 variant_id: "bf793b21-fea4-5990-ad7b-aabffd5ed8cb"
 content_type: translation
@@ -13,19 +13,47 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 522
+word_count: 788
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How of necessity the Word only can unite in one person with man.
+How human salvation follows upon his death.
 
-Now must we inquire further, in what person God, who exists in three persons, shall take upon himself the nature of man. For a plurality of persons cannot take one and the same man into a unity of person. Wherefore in one person only can this be done. But, as respects this personal unity of God and man, and in which of the Divine persons this ought to be effected, I have expressed myself, as far as I think needful for the present inquiry, in a letter on the Incarnation of the Word, addressed to my lord, the Pope Urban.
+Let us now observe, if we can, how the salvation of men rests on this.
 
-Yet briefly glance at this matter, why the person of the Son should be incarnated rather than that of the Father or the Holy Spirit.
+This is the very wish of my heart. For, although I think I understand you, yet I wish to get from you the close chain of argument.
 
-If one of the other persons be incarnated, there will be two sons in the Trinity, viz., the Son of God, who is the Son before the incarnation, and he also who, by the incarnation, will be the son of the virgin; and among the persons which ought always to be equal there will be an inequality as respects the dignity of birth. For the one born of God will have a nobler birth than he who is born of the virgin. Likewise, if the Father become incarnate, there will be two grandsons in the Trinity; for the Father, by assuming humanity, will be the grandson of the parents of the virgin, and the Word, though having nothing to do with man, will yet be the grandson of the virgin, since he will be the son of her son. But all these Edition: current; Page: [251] things are incongruous and do not pertain to the incarnation of the Word. And there is yet another reason which renders it more fitting for the Son to become incarnate than the other persons. It is, that for the Son to pray to the Father is more proper than for any other person of the Trinity to supplicate his fellow. Moreover, man, for whom he was to pray, and the devil, whom he was to vanquish, have both put on a false likeness to God by their own will. Wherefore they have sinned, as it were, especially against the person of the Son, who is believed to be the very image of God. Wherefore the punishment or pardon of guilt is with peculiar propriety ascribed to him upon whom chiefly the injury was inflicted. Since, therefore, infallible reason has brought us to this necessary conclusion, that the Divine and human natures must unite in one person, and that this is evidently more fitting in respect to the person of the Word than the other persons, we determine that God the Word must unite with man in one person.
+There is no need of explaining how precious was the gift which the Son freely gave.
 
-The way by which you lead me is so guarded by reason that I cannot deviate from it to the right or left.
+That is clear enough already.
 
-It is not I who lead you, but he of whom we are speaking, without whose guidance we have no power to keep the way of truth.
+But you surely will not think that he deserves no reward, who freely gave so great a gift to God.
+
+I see that it is necessary for the Father to reward the Son; else he is either unjust in not wishing to do it, or weak in not being able to do it; but neither of these things can be attributed to God.
+
+He who rewards another either gives him something which he does not have, or else remits some rightful claim upon him. But anterior to the great offering of the Son, all things belonging to the Father were his, nor did he ever owe anything which could be forgiven him. How then can a reward be bestowed on one who needs nothing, and to whom no gift or release can be made?
+
+I see on the one hand a necessity for a reward, and on the other it appears impossible; for God must necessarily render payment for what he owes, and yet there is no one to receive it.
+
+But if a reward so large and so deserved is not given to him or any one else, then it will almost appear as if the Son had done this great work in vain.
+
+Such a supposition is impious.
+
+The reward then must be bestowed upon some one else, for it cannot be upon him.
+
+This is necessarily so.
+
+Had the Son wished to give some one else what was due to him, could the Father rightfully prevent it, or refuse to give it to the other person?
+
+No! but I think it would be both just and necessary that the gift should be given by the Father to whomsoever the Son wished; because the Son should be allowed to give away what is his own, and the Father cannot bestow it at all except upon some other person.
+
+Upon whom would he more properly bestow the reward accruing from his death, than upon those for whose salvation, as right reason teaches, he became man; and for whose sake, as we have already said, he left an example of suffering death to preserve holiness? For surely in vain will men imitate him, if they be not also partakers of his reward. Or whom could he more justly make heirs of the inheritance, which he does not need, and of the superfluity of his possessions, than his parents and brethren? What more proper than that, when he beholds so many of them weighed down by so heavy a debt, and wasting through poverty, in the depth of their miseries, he should remit the debt incurred by their sins, and give them what their transgressions had forfeited?
+
+The universe can hear of nothing more reasonable, more sweet, more desirable. And I receive such confidence from this that I cannot describe the joy with which my heart exults. For it seems to me that God can reject none who come to him in his name.
+
+Certainly not, if he come aright. And the Scriptures, which rest on solid truth as on a firm foundation, and which, by the help of God, we have somewhat examined,—the Scriptures, I say, show us how to approach in order to share such favor, and how we ought to live under it.
+
+And whatever is built on this foundation is founded on an immovable rock.
+
+I think I have nearly enough answered your inquiry, though I might do it still more fully, and there are doubtless many reasons which are beyond me and which mortal ken does not reach. It is also plain that God had no need of doing the thing spoken of, but eternal truth demanded it. For though God is said to have done what that man did, on account of the personal union made; yet God was in no need of descending from heaven to conquer the devil, nor of contending against him in holiness to free mankind. But God demanded that man should conquer the devil, so that he who had offended by sin should atone by holiness. As God owed nothing to the devil but punishment, so man must only make amends by conquering the devil as man had already been conquered by him. But whatever was demanded of man, he owed to God and not to the devil.

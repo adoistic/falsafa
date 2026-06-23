@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-dewey-democracy-and-education-df209d",
+  "work_title": "Democracy and Education",
+  "chapter_number": 11,
+  "chapter_title": "Chapter Eleven — Experience and Thinking",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ed115a5d-b16d-55f0-82d5-bf18adcc39ee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5134,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/852"
+    }
+  ]
+}

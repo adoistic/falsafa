@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-natural-law-or-the-science-of-ju-a93a80"
 work_title: Natural Law, or the Science of Justice
 author_name: Lysander Spooner
 chapter_number: 5
-chapter_title: Section I.
+chapter_title: "Chapter II.: The Science of Justice (Continued), Section I."
 chapter_slug: 05
 variant_id: "37a8ed0b-54c3-5ae0-9f72-72c67d6dacd5"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 396
+word_count: 392
 source_url: "https://oll.libertyfund.org/titles/spooner-natural-law-or-the-science-of-justice-1882"
 translator: Online Library of Liberty edition
 ---
@@ -24,4 +24,4 @@ If justice be not a natural principle, then there is no such thing as injustice;
 
 If justice be not a natural principle, governments (so-called) have no more right or reason to take cognizance of it, or to pretend or profess to take cognizance of it, than they have to take cognizance, or to pretend or profess to take cognizance, of any other nonentity; and all their professions of establishing justice, or of maintaining justice, or of regarding justice, are simply the mere gibberish of fools, or the frauds of imposters.
 
-But if justice be a natural principle, then it is necessarily an immutable one; and can no more be changed—by any power inferior to that which established it—than can the law of gravitation, the laws of light, the principles of mathematics, or any other natural law or principle whatever; and all attempts or assumptions, on the part of any man or body of men—whether calling themselves governments, or by any other name—to set up their Edition: current; Page: [12] own commands, wills, pleasure, or discretion, in the place of justice, as a rule of conduct for any human being, are as much an absurdity, an usurpation, and a tyranny, as would be their attempts to set up their own commands, wills, pleasure, or discretion in the place of any and all the physical, mental, and moral laws of the universe.
+But if justice be a natural principle, then it is necessarily an immutable one; and can no more be changed—by any power inferior to that which established it—than can the law of gravitation, the laws of light, the principles of mathematics, or any other natural law or principle whatever; and all attempts or assumptions, on the part of any man or body of men—whether calling themselves governments, or by any other name—to set up their own commands, wills, pleasure, or discretion, in the place of justice, as a rule of conduct for any human being, are as much an absurdity, an usurpation, and a tyranny, as would be their attempts to set up their own commands, wills, pleasure, or discretion in the place of any and all the physical, mental, and moral laws of the universe.

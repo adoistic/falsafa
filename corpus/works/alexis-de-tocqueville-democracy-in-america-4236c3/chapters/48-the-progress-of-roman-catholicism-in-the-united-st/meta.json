@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 48,
+  "chapter_title": "The Progress of Roman Catholicism in The United States,",
+  "chapter_slug": "48-the-progress-of-roman-catholicism-in-the-united-st",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8b8d4043-04ed-54e4-a3c7-5f7c63fcc408",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3780,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch22.htm"
+    }
+  ]
+}

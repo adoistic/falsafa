@@ -4,7 +4,7 @@ work_slug: "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089"
 work_title: Lectures on Modern History (Figgis ed.)
 author_name: "John Emerich Edward Dalberg-Acton (Lord Acton)"
 chapter_number: 23
-chapter_title: APPENDIX I
+chapter_title: Appendix I
 chapter_slug: "23-appendix-i"
 variant_id: "999d071f-4c37-5bd8-9dfb-9cbe5f88c91e"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1024
+word_count: 1016
 source_url: "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"
 translator: Online Library of Liberty edition
 ---
@@ -54,7 +54,7 @@ The disclosure of personal views would lead to such confusion that all unity of 
 
 4. Some extracts from the editor’s Report to the Syndics will show the principles on which the Cambridge History has been undertaken.
 
-“The entire bulk of new matter which the last forty years have supplied amounts to many thousands of volumes. The honest student finds himself continually deserted, retarded, misled by the classics of historical Edition: current; Page: [317] literature, and has to hew his own way through multitudinous transactions, periodicals, and official publications, where it is difficult to sweep the horizon or to keep abreast. By the judicious division of labour we should be able to do it, and to bring home to every man the last document, and the ripest conclusions of international research. . . .
+“The entire bulk of new matter which the last forty years have supplied amounts to many thousands of volumes. The honest student finds himself continually deserted, retarded, misled by the classics of historical literature, and has to hew his own way through multitudinous transactions, periodicals, and official publications, where it is difficult to sweep the horizon or to keep abreast. By the judicious division of labour we should be able to do it, and to bring home to every man the last document, and the ripest conclusions of international research. . . .
 
 “All this does not apply to our own time, and the last volumes will be concerned with secrets that cannot be learned from books, but from men. . . .
 
@@ -66,7 +66,7 @@ The disclosure of personal views would lead to such confusion that all unity of 
 
 “To meet this difficulty we must provide a copious, accurate, and well–digested catalogue of authorities. . . .
 
-“Our principle would be to supply help to students, not material to historians. But in critical places we must indicate minutely the sources we follow, and must refer not only to the important books, but to articles in periodical works, and even to original documents, and to transcripts in libraries. The result would amount to an ordinary volume, presenting a conspectus of historical literature, and enumerating all the better books, the Edition: current; Page: [318] newly acquired sources, and the last discoveries. It would exhibit in the clearest light the vast difference between history, original and authentic, and history, antiquated and lower than high–water mark of present learning. . . .
+“Our principle would be to supply help to students, not material to historians. But in critical places we must indicate minutely the sources we follow, and must refer not only to the important books, but to articles in periodical works, and even to original documents, and to transcripts in libraries. The result would amount to an ordinary volume, presenting a conspectus of historical literature, and enumerating all the better books, the newly acquired sources, and the last discoveries. It would exhibit in the clearest light the vast difference between history, original and authentic, and history, antiquated and lower than high–water mark of present learning. . . .
 
 “We shall avoid the needless utterance of opinion, and the service of a cause.
 

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 49,
+  "chapter_title": "Chap. XXVII: Circulation and the Balance of Wealth, objects worthy of the attention of a modern Statesman",
+  "chapter_slug": "49-chap-xxvii-circulation-and-the-balance-of-wealth-o",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "654591fb-1cef-529a-9309-3e6bcb768d94",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6869,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_25.htm"
+    }
+  ]
+}

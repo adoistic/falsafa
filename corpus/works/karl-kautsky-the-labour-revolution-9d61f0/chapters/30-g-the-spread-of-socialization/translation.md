@@ -1,0 +1,121 @@
+---
+work_id: "9d61f098-ee75-5bb8-b3cd-95dbf1085eb9"
+work_slug: "karl-kautsky-the-labour-revolution-9d61f0"
+work_title: The Labour Revolution
+author_name: Karl Kautsky
+chapter_number: 30
+chapter_title: (g) The Spread of Socialization
+chapter_slug: "30-g-the-spread-of-socialization"
+variant_id: "c2d2f924-f66f-5f21-b4f9-c017d6814dba"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 3525
+source_url: "https://www.marxists.org/archive/kautsky/1924/labour/ch03_h.htm"
+translator: H.J. Stenning
+---
+
+Although the beginnings of socialization will be comparatively modest, the principle will exhibit a tendency to constant expansion, not only in consequence of the pressure of the working classes, but also for economic considerations.
+
+Under the capitalist mode of production we find, by the side of the tendency of the individual business to expand, the tendency of various businesses to draw together and to be consolidated under a common management. This is partly the consolidation of businesses of the same type, which is called their horizontal connection, and partly the consolidation of different, but complementary, businesses, which is called their vertical connection,
+
+The consolidation of businesses of the same type is effected chiefly for the purpose of eliminating competition and restricting production, in order to force up prices beyond the level they would reach under free competition, thereby securing profits in excess of the average. We find combinations of this character only where the large businesses are so highly developed that the number of undertakings of the same type in the State is very small, or where natural circumstances have limited the number of existing undertakings, as is often the case with the mining industry.
+
+Apart from the restriction of production, this process of combination saves each undertaking the cost of seeking and attracting customers, that is, the cost of advertisements, commercial travellers, etc. When the grouping of businesses proceeds as far as trustification, when the individual business completely loses its independence, to the above named advantages may be added that of concentrating the whole of production in the best equipped and most lucrative works, and closing down the badly-equipped works.
+
+Moreover, the starting-point of socialization will mostly be branches of industry which have already become cartels or trusts. But under certain circumstances, socialization would also have to commence with individual businesses.
+
+Besides the desire to increase productivity, the socialized undertakings, as well as the capitalist undertakings, will be stimulated to effect combinations by the need for eliminating competition, although not for the same reasons. The socialized undertakings will have no inducement to eliminate competition in order to raise prices and gain extra profits through restricting supplies: such a step would meet with vigorous opposition from the consumers, who would have great influence in the socialized undertakings.
+
+But precisely because of this, the elimination of competition would be effected without any injury to the community, whereas under capitalist production the abolition of competition would remove just that factor which is responsible for its greatest achievements in the sphere of the development of the productive forces, and without which the injurious features of the system would be sharply accentuated.
+
+The socialized undertakings must endeavour to eliminate competition, not in order to benefit consumers at the expense of producers, but because the competitive struggle in the market necessitates personal initiative in the process of the circulation of commodities, which best thrives under private property in the means of production and the products, and which, as we have seen, represents a weak point of socialized industry. Of course, this is not an objection to socialization, but to socialization on the basis of competition. Although socialization can best be applied where capitalist development has eliminated competition, yet isolated socialized undertakings will have to try to attract within the sphere of socialization the private businesses that are competing with them.
+
+By the side of this process of horizontal consolidation, the vertical process promises to become extremely important.
+
+With the widely ramified division of labour that prevails to-day, it is seldom that the production of a product is confined to one undertaking. Most products have to pass through a series of undertakings, from the stage of raw material to the stage of the finished article. In the scale of businesses, each undertaking which is concerned with a later stage of the product stands towards the business which produced it or one of its constituent parts in the relation of consumer to producer.
+
+Just as the interest of the generality of consumers is best safeguarded when they themselves control the means of producing the product which they consume, so is this also the case with the above productive consumers.
+
+If a business produces the articles which it requires, or if its proprietor also owns the businesses which produce such articles, it can rely upon receiving them in the necessary quantity and quality, as the accessory businesses can be made strictly subordinate to the chief purpose of production.
+
+The industrial combines endeavour to make extra profits for their branch of industry, and thus burden the businesses which work up their products. This would be avoided by the “consumer” business, if it controlled the undertakings of its supplies. It would save the extra profits of the cartels or trusts, and these profits could be utilized to sell its products more cheaply, thus dealing a blow at competition.
+
+The progress of this tendency is to some extent impeded by the conditions of the division of labour, which have brought it about that a process of production which was formerly completed within the limits of a single business is now split up into a series of partial processes, carried out in a series of independent businesses.
+
+The tendency to consolidate businesses which consecutively subserve the same process of production first arises among the gigantic concerns of modern times, and is confined to them.
+
+What is true to-day of capitalist undertakings will be doubly true for socialized undertakings, especially when it is not a question of socializing isolated businesses, but a whole branch of industry, which is under common management and ownership. Then the tendency towards vertical consolidation will receive a great accession of strength and offer extensive opportunities for fruitful achievement. It will be an advantage rather than a drawback if the close interweaving of various branches of production renders it difficult to socialize one branch apart from the others.
+
+For example, ironworks are to a large extent dependent upon the proper quality of cheap coal. The consequence has been that a number of ironworks has acquired coalmines. The socialization of the mines involves the question as to whether the principle is to be applied to the combined coal and smelting works. If this question be answered in the affirmative, it involves the further question: why stop at coal and the coal and smelting works, and why not also socialize the smelting works? Alfons Horten considers it necessary to socialize coal, iron, and steel together. It seems to him impossible, however, to socialize this immense sphere of industry at once. In opposition to most of the other proposals, he would not socialize one of these branches of production after the other, but all of them simultaneously, or only in part, at first about 10 to 15 per cent. of the existing coal-mines and ironworks (Horten, Sozialisierung and Wiederaufbau, 1920).
+
+The principle of this proposal ought not to be rejected as a matter of course. Whether it is practicable or not is for the experts to decide. So far it has not found much favour.
+
+However this may be, one thing is at least clear: the socialization of coal would involve a demand for the socialization of iron.
+
+This project would receive an impetus from another branch of socialized industry, from the railways. The railways are such great consumers of iron, tires, sleepers, etc., their operation and their payability are so dependent upon the quality and the prices of iron products, that the socialization of iron would confer a considerable advantage upon them. If middle class Governments have hitherto refrained from taking such measures for the benefit of their State railways, this is due to the fact that, in the first place the management of the State bureaucracy has not achieved any good results, and secondly, the heavy metals industry together with the coal industry have formed the strongest power in most capitalist States. In France, England, and America, coal and iron, as well as railways, are the highest peaks of capitalism. The loss of these possessions would break the power of the financial magnates. If the railways have for a long time been nationalized in Germany and Austria, in spite of capitalist opposition, this is to be ascribed, not to the power of the working class, but to militarism, which required this instrument for making war and was even stronger than the great capitalists. In the seventies of the last century, when most of the Prussian railways were nationalized, capital was not so powerful as it is to-day. Railways were constructed as State enterprises in many economically backward countries, because it seemed there was slight chance of their becoming a lucrative property. But in the military monarchies, the great capitalists became reconciled to the State railways out of regard for their native militarism.
+
+Now after losing the world war, when the German railways have lost any military significance, the great German capitalists are attempting to lay their hands on the State railways. Now it devolves on the workers to defend the State ownership of the railways for other than military reasons.
+
+If the socialization of coal be joined to that of the railways, the socialization of iron will be involved as a consequence. On this ground the decisive battles of socialization will be fought.
+
+For this purpose Social Democracy will need to exercise great power in. the State. So long as the workers are divided, and we have to tolerate temporary coalition Governments, the socialization of coal and iron is scarcely to be expected.
+
+We do not rely eject capital from this achievement on coercion and confiscation in order to its domain. But it is absurd to expect from a social democratic party so long as it does no exercise political preponderance in the State, that is, so long as it is without the support of a decisive majority of the population.
+
+The workers will have to exert their greatest energy in order to wrest from capital coal and iron, and in England and America, railways. When this has been accomplished, the further extension of socialization will still present great economic difficulties, at least in the case of certain types of businesses. But so far as it is a question of power, socialization will then be a decided question.
+
+If socialization should prove economically advantageous in the three provinces above mentioned, nothing could impede its progress in a State dominated by the workers.
+
+We may therefore expect that iron and railways will form a continuation of the vertical structure; that branches of the iron-using industries will be joined on to iron production, and that the railways will commence to manufacture their own locomotives and carriages in State workshops, which should still retain their autonomy. In order not to extend our discussion unnecessarily, we leave out of account the impetus to socialization which should come from the electrification of railways and the nationalization of water-power.
+
+If the railways as a jointly-controlled undertaking are inspired by a socialist spirit, their administration will proceed even further. Uniforms are necessary for a number of railway servants who ought to be recognizable as such by the public. It would be most desirable to entrust the provision of these uniforms, not to private firms, but to the trade union of tailors, which would thus perform the functions of a guild, in the sense of Guild Socialism.
+
+Again, the utilization of the bye-products of coal carries into the province of the chemical industry.
+
+Municipal socialization will proceed on the same lines. From the municipalization of bakeries would follow that of the mills which supply the flour. From thence to the socialization of the flour trade, either through a municipal or a co-operative agency, is only a step. It goes without saying that the municipal roads, as well as the State railways, will be constant purchasers of the products of the State ironworks and carriage workshops.
+
+Where the requirements of the public works of a municipality are not by themselves sufficient to keep a factory running, it would be necessary to form a union of municipal undertakings of the same type, for which a socialized factory would work, which either belonged to the State or to the united municipalities.
+
+A great and fruitful task will devolve upon the municipalities under a Labour regime in connection with housing. The municipalities will be induced to entrust much of this work to building guilds. The municipalization or nationalization of cement and tile works would follow as a matter of course.
+
+Next to the housing question, the socialization of the health service will be one of the important tasks of a Labour regime, and the solution of this problem will benefit not the workers alone, but the entire population. The organization of the public health service would transform the sale of medicines from a private into a socialized function. On the other hand, there would be a tendency to manufacture drugs as far as possible, which again would overlap into the chemical industry.
+
+The third great task in the interest not merely of the wage-earners, but of the great majority of the people, which we may expect to be performed by a Labour regime, is the elevation of the general level of culture, especially through the extension and improvement of education. Differences of opinion among the population, especially political or economic, are not to be neutralized by the propagation of a State opinion.
+
+In the year 1869 Marx made the following statement during a discussion upon education in the General Council of the International:
+
+“Politic economy and religion ought not to be taught in the lower grade schools, or even in the higher schools; adults should be left to form their opinions on these matters, about which instruction should be given in the lecture hall, not in the school. Only the natural sciences, only truths, which are independent of party prejudices, should be taught in the schools.” (Report of the London Beehive)
+
+It is characteristic of Bolshevism that it not only orders Communism to be preached as the State religion through the State organs in the school and in the press, but that it strictly forbids the expression of every other opinion within its sphere of influence. Such a proceeding is intelligible on the part of rulers who believe they are in possession of an absolute truth revealed by the divinity. It is a monstrous attitude on the part of men who assert that they take their stand on the basis of modern science.
+
+It will be the duty of the educational institutions of the State and of the municipalities to provide those who seek instruction in these institutions with writing materials, lesson books, and classic works without payment.
+
+A community which does not hold private profit in superstitious reverence will as a matter of course seek to supply this huge need through its own socialized factories. When we remember how enormous is the present-day State and municipal consumption of stationery, the increased consumption for social purposes would of itself lead to the socialization of the paper works.
+
+In addition to the foregoing, there will of course be an extension of the productive activities of the co-operative societies. In many cases they will be the appointed agencies for bringing the finished products of State and municipal enterprise to the consumer.
+
+Thus the network of socialized production for the purpose of supplying the needs of the population in the State will extend from year to year. The sphere of capitalist production will be subject to continual contraction, and this mode of production, through the increasing economic pressure and competition in the labour market exercised by socialized production, will be more and more obliged to adapt its own conditions of labour to those of the socialized model undertakings. The functions and the significance of the works committees in the capitalist undertakings will continually increase, as will also the influence exercised upon them by the consumers’ organizations. This process will be accompanied by an increasingly effective supervision of the process of production as a whole and by the compilation of more precise and comprehensive statistics of production and consumption, as the socialized branches of production will be public institutions without business secrets.
+
+We cannot yet foresee how long this process of development will last. We cannot yet predict with any certainty that all production in. the future will be socialized. A large part of artistic and scientific production will be reserved to personal enterprise, although even in this province division of labour and co-operation will become a growing factor.
+
+Apart from the production of isolated poets, composers, and painters, undertakings served by wage-labour will be able to exist in the midst of a socialistic society. But they would inevitably be of a different type from the undertakings of present-day capitalism, inasmuch as they would only be appropriate to those branches of industry in which the individual business did not require large capital so much as a dominant personality, a personality who would attract supplementary workers and offer them at least as good conditions of employment as the socialized undertakings. The business manager would then owe his position, not to the capital at his disposal, but to his personality, and his assistants would not be drawn to him through their economic necessity.
+
+In the course of socialistic development, new experiences will be gained, and new problems and fresh possibilities will arise, the nature of which we have as yet no suspicion. They will add to the infinite variety of the forms of production which we can even now foresee, and which grow out of the wide ramifications of the division of labour upon which industrial capitalism is based. Although we aim at abolishing class antagonisms, it is not our desire to impose uniformity upon production or consumption. Such a step would be retrograde.
+
+It is of course quite impossible to foresee the pace at which socialization will proceed in any particular country. Accurate as the Marxian prophecies have proved to be in respect of the direction of development, they have frequently been erroneous as to its pace. Historical development is generally more protracted than theory would lead one to expect, as the theorists are never in a position to take into account all the disturbing interludes that arise.
+
+In any case, socialization will proceed all the more quickly, the more intelligent the workers are, the better they understand their problems, and the more capable they are of solving them.
+
+In this respect important work of preparation may be done in the works councils, which should not merely be regarded as strategic positions or as a means for harassing capital, but above all as training centres for acquainting the workers with the problems of industry and the best methods of conducting it.
+
+We have already referred to the fact that the capitalist world is not a good school for the development of the communal sense, at least as far as the workers are concerned. The class struggle, it is true, arouses strong feelings of solidarity, but only for the purposes of the struggle. In the case of some workers, the class struggle merely strengthens the feeling of solidarity with the Trade Union, in the case of others the feeling of solidarity with the whole class, but this would not necessarily create a strong communal sense towards the State and municipality. The State has hitherto appeared to the workers in the light of an opponent. Not until they have captured the State will their communal sense towards it become stronger. At the outset of socialization, it would not be advisable to expose the communal sense of the workers towards the State and municipalities to very severe tests, particularly in economic matters. Great struggles evoke great passions, heroisms, and selfless devotion. The leaden routine of daily toil in the workshop is not a fertile breeding-ground for great virtues.
+
+Owing to the peculiarity of their Marxism, the Bolshevists sought to stimulate the defective communal sense of their workers by flaming moral exhortations, which of course did not have the slightest permanent effect. Then they resorted to compulsory labour. For these revolutionaries, as well as for the philistines, moral proverbs and the police force are the means for creating virtue.
+
+Although a highly developed communal sense on the part of the workers would assist the success of socialization, we have to recognize that this depends upon factors which we are unable to create at will. What we Socialists can do in any case is to spread economic knowledge among the workers.
+
+The more the workers recognize the force of economic laws, the more completely they are acquainted with the economic conditions of their own country in particular and of the world in general, the more clearly they perceive the limits of what is immediately practicable, the less likely will they be, once they have captured economic as well as political freedom, to act like school children who shirk every task and are ready for every prank the moment the master’s back is turned; and the more likely they will be to behave like responsible men, resolving of their own free will to perform whatever tasks are required.

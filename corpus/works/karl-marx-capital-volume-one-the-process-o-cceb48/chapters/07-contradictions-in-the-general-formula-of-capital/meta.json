@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 7,
+  "chapter_title": "Contradictions in the General Formula of Capital",
+  "chapter_slug": "07-contradictions-in-the-general-formula-of-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ccbfeb4f-f6b5-51f2-96f6-606e44ef5f56",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3715,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch05.htm"
+    }
+  ]
+}

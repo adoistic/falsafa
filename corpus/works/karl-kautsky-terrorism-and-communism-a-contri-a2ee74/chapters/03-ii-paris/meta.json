@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-terrorism-and-communism-a-contri-a2ee74",
+  "work_title": "Terrorism and Communism: A Contribution to the Natural History of Revolution",
+  "chapter_number": 3,
+  "chapter_title": "II. Paris",
+  "chapter_slug": "03-ii-paris",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f316de4-0dbf-59bc-add4-7ac1144f5917",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3011,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1919/terrcomm/ch02.htm"
+    }
+  ]
+}

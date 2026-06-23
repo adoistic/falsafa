@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 14
-chapter_title: CONCLUSION.
+chapter_title: Conclusion.
 chapter_slug: "14-conclusion"
 variant_id: "3a9c0c04-1adf-5d94-9b36-250122335b69"
 content_type: translation

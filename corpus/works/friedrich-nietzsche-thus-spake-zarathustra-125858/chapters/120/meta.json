@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 120,
+  "chapter_title": "Chapter LXVII — The Ugliest Man",
+  "chapter_slug": "120",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd2ad8af-119b-5155-a2e6-731b388c7ed5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 360,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

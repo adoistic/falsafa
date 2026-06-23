@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 16,
+  "chapter_title": "Introduction to the History of Philosophy",
+  "chapter_slug": "16-introduction-to-the-history-of-philosophy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe73568f-8eba-5fcc-8ce1-612fa3d14f83",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 311,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/cons-lect/ch01.htm"
+    }
+  ]
+}

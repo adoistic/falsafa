@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 51,
+  "chapter_title": "Ninth Commandment.: Thou Shalt Not Bear False Witness Against Thy Neighbour.",
+  "chapter_slug": "51-ninth-commandment-thou-shalt-not-bear-false-witnes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b75caa71-f38b-501f-a01e-3398eb4aec3c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 878,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

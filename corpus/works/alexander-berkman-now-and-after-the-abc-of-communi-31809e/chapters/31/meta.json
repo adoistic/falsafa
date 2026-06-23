@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-now-and-after-the-abc-of-communi-31809e",
+  "work_title": "Now and After: The ABC of Communist Anarchism (What is Communist Anarchism?)",
+  "chapter_number": 31,
+  "chapter_title": "Chapter 29 : Consumption and Exchange",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4d345e87-cc69-531f-bda6-e75b23776010",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3121,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1929/what-is-communist-anarchism/chapter-29.html"
+    }
+  ]
+}

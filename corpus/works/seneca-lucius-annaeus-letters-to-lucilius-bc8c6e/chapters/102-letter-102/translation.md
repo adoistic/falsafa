@@ -1,0 +1,78 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 102
+chapter_title: Letter 102
+chapter_slug: "102-letter-102"
+variant_id: "c00e2a15-4faa-5724-bc7d-17efc9ebdeb7"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 2754
+translator: thothica
+---
+
+1. Just as a man who rouses one who is enjoying a pleasant dream is a nuisance, since he takes away a pleasure that, though false, still produces the effect of a true one, so your letter has done me an injury. For it called me back when I had surrendered myself to a congenial meditation and would have gone further, had I been allowed.
+
+2. It was a delight to inquire about the eternity of souls, nay, by Hercules, to believe in it. For I was lending a ready ear to the opinions of great men, who promised, rather than proved, a thing most welcome. I was giving myself up to so great a hope. Already I was growing weary of myself, already I despised the remnants of a broken span of life, as one about to pass into that boundless stretch of time and into possession of all the ages; when suddenly I was awakened by the receipt of your letter, and lost so fair a dream. But I shall resume it once I have dismissed you, and shall buy it back.
+
+3. Your first letter denies that I have unfolded the whole question, in which I was trying to prove what our school holds, that the renown which falls to a man after death is a good. For, you say, I did not resolve the objection that is brought against us: "No good," they say, "comes of things that are separate. But this renown is made up of things that are separate."
+
+4. What you ask, my dear Lucilius, belongs to another head of the same question, and so it was not only this, but other matters too bearing on the same point, that I had postponed. For some rational topics, as you know, are mingled with the moral ones. And so I dealt with that part which is strictly relevant and bears on conduct: whether it is foolish and superfluous to send our cares beyond our last day; whether our goods die with us, and there is nothing left for one who is no more; whether out of that which, when it shall be, we shall not feel, any fruit can be gathered or sought before it is.
+
+5. All these concern conduct, and so they have been set in their proper place. But the points urged by the dialecticians against this opinion had to be kept apart, and were therefore set aside. Now, since you demand everything, I will pursue all that they say, and then meet each point.
+
+6. Unless I make a few prefatory remarks, the things to be refuted cannot be understood. What is it that I wish to premise? That some bodies are continuous, like a man; that some are composite, like a ship, a house, all things in fact whose diverse parts are bound by a joining into one; that some consist of separate things, whose members are still apart, like an army, a people, a senate. For those of whom such bodies are made up cohere by law or by office, but by nature are sundered and individual. What else is it that I now wish to premise?
+
+7. That we hold nothing to be a good which is made up of separate things. For one good ought to be contained and ruled by one breath of life; the governing principle of one good ought to be one. This, if ever you require it, is proved by itself; for the present it had to be assumed, since our own weapons are being aimed at us.
+
+8. "You say," he objects, "that no good consists of separate things? But this renown of good men is the favourable opinion held by good men. For just as fame is not the talk of one man, nor ill-fame the bad estimate of one, so neither is renown the having pleased one good man. To make up renown, many distinguished and notable men must agree upon it. But this is brought about by the judgements of many, that is, of separate persons; therefore it is not a good."
+
+9. "Renown," he says, "is praise rendered to a good man by the good; but praise is speech, and speech is a voice signifying something; a voice, however, though it be of good men, is not a good. For not everything that a good man does is a good. He both applauds and hisses, yet no one calls applause or hissing a good, though he admire and praise everything that man does, any more than he calls a sneeze or a cough a good. Therefore renown is not a good."
+
+10. "In sum, tell us," he says, "whether it is the good of the one who praises or of the one praised. If you say it is the good of the one praised, you do as ridiculous a thing as if you were to assert that it is mine that another man is in good health. But to praise the deserving is an honourable act; thus it is the good of the one who praises, whose act it is, and not ours, who are praised." Yet this was the very point at issue.
+
+11. I will now answer each point in turn. First, whether there is any good that consists of separate things is still under inquiry, and each side has its champions. Next, does renown require many votes? It can be content even with the judgement of a single good man; one good man judges us good.
+
+12. "What then?" he says. "Will fame too be the estimate of one man, and ill-fame the malicious talk of one? Glory also," he says, "I understand to be more widely diffused, for it demands the agreement of many." The case of these is different from that of the other. Why so? Because, if a good man thinks well of me, I stand in the same case as if all good men thought the same; for all, if they came to know me, would think the same. Their judgement is equal and identical, and is alike steeped in the truth. They cannot disagree; so it is as good as if all thought the same, since they cannot think otherwise.
+
+13. For glory or fame the opinion of one is not enough. There a single verdict is as good as the verdict of all, because, if all were polled, it would be one; here the judgements of unlike men are diverse. You will find their feelings hard to deal with, everything doubtful, fickle, suspect. Do you think there can be one verdict of all? There is not one verdict even of one man. The good man delights in the true, and truth has one force, one face; among the rest, the things they assent to are false. But in falsehoods there is never consistency: they vary and disagree.
+
+14. "But praise," he says, "is nothing else than a voice, and a voice is not a good." When they say that renown is praise rendered by the good to the good, they do not refer to the voice, but to the judgement. For though a good man be silent, yet if he judges another worthy of praise, that man has been praised.
+
+15. Besides, praise is one thing, a panegyric another, for this latter requires a voice as well. And so no one speaks of a "funeral praise" but of a funeral panegyric, whose function consists in a speech. When we say that someone is worthy of praise, we promise him not the kind words of men, but their judgements. Therefore praise belongs also to one who is silent, if he thinks well, and within himself praises the good man.
+
+16. Then, as I have said, praise is referred to the mind, not to the words, which carry abroad the praise conceived within and bring it to the notice of many. He praises who judges that praise is due. When that tragic poet of ours says that it is a glorious thing to be praised by a man who is himself praised, he means by one worthy of praise. And when a poet equally ancient says, "praise nourishes the arts," he does not mean a panegyric, which corrupts the arts. For nothing has so spoiled eloquence, and every other pursuit given over to the ear, as the applause of the crowd.
+
+17. Fame certainly requires a voice; renown can come to pass even apart from any voice, content with the judgement. It is complete not only among those who are silent, but even among those who cry out against it. Let me tell you what the difference is between renown and glory: glory rests on the judgements of the many, renown on those of the good. "Whose good," he asks, "is renown, that is, praise rendered to a good man by the good?"
+
+18. "Is it the good of the one praised or of the one praising?" Of both. It is mine, who am praised; for Nature begot me loving all men, and I rejoice that I have done well, and I am glad to have found grateful interpreters of my virtues; this is the good of the many, that they are grateful, but it is mine as well. For I am so disposed in mind that I count the good of others as my own, especially of those to whom I myself am the cause of their good.
+
+19. This renown is the good of those who praise, for it is performed by virtue; and every act of virtue is a good. This could not have fallen to them, had I not been such a man. Therefore to be deservedly praised is the good of both, just as, by Hercules, to have judged well is the good of the one judging and of him in whose favour the judgement was given. Do you doubt that justice is a good both of the one who has it and of the one to whom it pays a due? To praise the deserving is justice; therefore it is the good of both.
+
+20. To these quibblers we shall have answered abundantly. But it ought not to be our aim to dispute subtleties and to drag philosophy down from her majesty into these straits; how much better it is to go by the open and straight road than to lay out for oneself by-paths which you must retrace at great trouble! For these disputations are nothing else than the game of men cleverly trying to catch one another out.
+
+21. Say rather how natural it is to extend one's mind into the infinite. A great and noble thing is the human soul: it suffers no boundaries to be set for it save those it shares with God. In the first place it does not accept a lowly fatherland, Ephesus or Alexandria, or any soil yet more thronged with inhabitants or more crowded with dwellings; its fatherland is whatever the heaven encircles in its sweep, this whole vault within which lie the seas with the lands, within which the air, while it parts things human from divine, also joins them, in which so many lights, set in their courses, keep watch each for its own task.
+
+22. Next, it does not allow itself to be given a narrow span of years: "all the years," it says, "are mine." No age is closed to great minds, no time is impassable to thought. When that day shall come which separates this mixture of the divine and the human, I shall leave the body here where I found it, and shall restore myself to the gods. Even now I am not without them, but am held back by a heavy and earthbound weight.
+
+23. Through these delays of mortal existence there is a prelude to that better and longer life. As the mother's womb holds us for ten months and prepares us, not for itself, but for that place into which we seem to be sent forth now fit to draw breath and to last in the open air, so through this span which stretches from infancy to old age we are ripening toward another birth. Another origin awaits us, another state of things.
+
+24. As yet we cannot endure the heavens save at an interval; therefore look forward undismayed to that decisive hour: it is the last not for the soul, but for the body. Whatever of your possessions lies about you, regard it as the baggage of a lodging-place: you must pass on. Nature strips you as you depart, just as it did when you entered.
+
+25. You may not carry out more than you brought in; nay, even of what you brought to life a great part must be laid down: this casing that surrounds you, the last covering of yourself, your skin, will be stripped away; the flesh too will be stripped away, and the blood that is suffused and runs through the whole body; the bones and sinews will be stripped away, the supports of these fluid and unstable parts.
+
+26. That day, which you dread as your last, is the birthday of your eternity. Lay down your burden; why do you hold back, as though you had not also once before left behind the body in which you lay hidden, and come forth? You cling, you struggle; then too you were thrust out by your mother's mighty effort. You groan, you weep; and this very weeping belongs to one being born, but then it ought to have been pardoned: you had come raw and ignorant of all things. Sent forth from the warm and soft cherishing of your mother's womb, a freer breeze breathed upon you, then the touch of a hard hand struck you, and, still tender and knowing nothing, you were dazed among things unknown.
+
+27. Now it is nothing new for you to be parted from that of which you were once a part; let go your now superfluous limbs with an even mind, and lay down this body you have dwelt in so long. It will be torn apart, buried, brought to nothing. Why are you saddened? So it is wont to happen: at every birth the coverings perish. Why do you so cherish these as though they were your own? They wrapped you about. The day will come that will pluck you forth and lead you out from the fellowship of a foul and reeking belly.
+
+28. Even now, so far as you can, withdraw yourself from this, and from pleasure save such as cleaves to things necessary and serious; a stranger henceforth, meditate on something higher and more sublime. One day the secret things of Nature will be unveiled to you, this fog will be scattered, and a light clear on every side will smite you. Imagine to yourself how great that radiance will be, when so many stars mingle their light together; no shadow shall trouble the serenity. Every quarter of the sky will shine alike; day and night are the changes of the lowest air. Then you will say that you have lived in darkness, when you have beheld the whole light with your whole self, which now you gaze upon dimly through the very narrow channels of the eyes, and yet you marvel at it even from afar. What will the divine light seem to you, when you have seen it in its own place?
+
+29. This thought lets nothing base settle upon the mind, nothing lowly, nothing cruel. It bids us remember that the gods are witnesses of all things; it bids us win their approval, prepare ourselves for what is to come, and set eternity before us. He who has conceived this in his mind shudders at no armies, is not terrified by the trumpet, is driven to fear by no threats.
+
+30. Why should he not be free from fear who hopes to die? He too, who judges that the soul abides only so long as it is held by the body's chain, scatters it abroad as soon as it is loosed, that it may be of use even after death. For though that man himself be snatched from sight, yet "Many a time the hero's worth returns upon the mind, and the high honour of his race." Reflect how much good examples profit us: you will know that the presence of great men is no less of use than their memory. Farewell.

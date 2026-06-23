@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-social-democratic-philosophy-460dc5",
+  "work_title": "Social-Democratic Philosophy",
+  "chapter_number": 6,
+  "chapter_title": "VI.",
+  "chapter_slug": "06-vi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "124ca190-045f-50bb-9168-ba9f18e659b8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1822,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1876/philosophy.htm"
+    }
+  ]
+}

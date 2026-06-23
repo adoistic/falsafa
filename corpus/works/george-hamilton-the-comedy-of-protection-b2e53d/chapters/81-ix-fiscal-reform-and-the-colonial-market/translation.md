@@ -1,0 +1,37 @@
+---
+work_id: "b2e53d8f-9a78-5b15-9c53-4db14ec44da5"
+work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
+work_title: The Comedy of Protection
+author_name: George Hamilton
+chapter_number: 81
+chapter_title: "Ix.—: Fiscal Reform and the Colonial Market."
+chapter_slug: "81-ix-fiscal-reform-and-the-colonial-market"
+variant_id: "11c88b5c-212c-59c0-a199-0754d5b5a1a8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 517
+source_url: "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+translator: Online Library of Liberty edition
+---
+
+If, however, Mr. Chamberlain did get a tax imposed for the benefit of the great landowners in the United Kingdom, Canada, and Australia, it must be an effective tax, and what could be the effect of one of 2s. a quarter on wheat and 5 per cent. on meat and dairy produce? The advantage which wheat might derive from Protection must not be calculated upon the whole harvest, but only on that on the market. The annual average of wheat put on the market in the United Kingdom between 1900 and 1904 was 2,400,000 quarters; multiplied by 2s. that gives £240,000. During the same period the average acreage sown with wheat was 1,600,000 acres. If the tariff produced the maximum advantage for the English landowners and farmers they would reap a profit of 3s. per acre. Allowing 3 quarters of wheat for 2 of flour in reckoning breadstuffs or foodstuffs, the average importation over the five years 1900-1904 from the British Colonies and Possessions has been 5,700,000 quarters, representing at 2s. a quarter a yield of £570,000. From abroad the average import of 17,300,000 quarters, representing £1,730,000. Thus the English consumer would have to pay:—
+
+And of this sum the Treasury would receive £1,730,000, or 72 per cent., the farmers and cultivators 9 per cent., and the Colonial farmers 19 per cent. But does Mr. Chamberlain expect to revive English agriculture with £240,000? And does he think £570,000 enough to cement the dissolving unity of the Empire? Imperialism is cheap at that. True he adds a 5 per cent. duty on meat.
+
+According to the Annual Statement for 1904 the average annual total import of meat is—
+
+In this total pork, ham, &c., is included, amounting to £1,900,000 from abroad, and from the Colonies £30,000. Subtracting, then, £1,900,000 from £38,700,000, since Mr. Chamberlain exempts pork, &c., 5 per cent. on an importation, in round numbers of £37,000,000, will bring in £1,850,000 to the Treasury.
+
+In the home market 662,000 tons of beef at 52s. per cwt.—the price in 1904—work out at £34,500,000, and 313,000 tons of mutton at an average price of 65s. per cwt. at £20,000,000.
+
+If the 5 per cent. duty produced its full effect the English landowners would gain £2,725,000, while the Colonial owners touched £500,000. Moreover, Canada sends us four million pounds’ worth of cheese, one million of butter; Australia and New Zealand two millions of butter—a total of seven millions, which at 5 per cent. would give £350,000. Then the result of Mr. Chamberlain’s magnificent scheme would be:—
+
+The total revenue of the Colonies is valued:—
+
+Mr. Chamberlain’s Imperialism, then, would add a bonus of £1,400,000 to this purchasing power of 1,200 millions; to add one guinea for every £1,000 of revenue of the British Colonies and Possessions. This guinea is to rivet the Colonies to the Mother Country and enlarge the Colonial market for our manufactures: a grand result from so small a cause!
+
+Such a disproportion between promises and reality makes one marvel at the ignorance of the creator of the programme and the simplicity of those who support it.

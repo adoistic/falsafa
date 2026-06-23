@@ -4,7 +4,7 @@ work_slug: "dante-alighieri-de-monarchia-a58c66"
 work_title: De Monarchia
 author_name: Dante Alighieri
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "b0ba405c-ef22-560c-9905-1d56cd04854d"
 content_type: translation

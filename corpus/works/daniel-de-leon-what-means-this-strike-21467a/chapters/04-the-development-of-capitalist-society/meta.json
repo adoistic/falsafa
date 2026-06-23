@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-what-means-this-strike-21467a",
+  "work_title": "What Means This Strike?",
+  "chapter_number": 4,
+  "chapter_title": "The Development of Capitalist Society",
+  "chapter_slug": "04-the-development-of-capitalist-society",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1adcc05d-0575-5e05-ad96-3b621197df5e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1058,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1898/980211.htm"
+    }
+  ]
+}

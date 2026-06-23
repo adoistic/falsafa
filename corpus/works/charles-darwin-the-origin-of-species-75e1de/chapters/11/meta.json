@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-darwin-the-origin-of-species-75e1de",
+  "work_title": "The Origin of Species",
+  "chapter_number": 11,
+  "chapter_title": "Chapter IX. Hybridism.",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "276bdff5-d435-58f5-a15a-ae1c259ca23d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12951,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/darwin/works/origins/ch09.htm"
+    }
+  ]
+}

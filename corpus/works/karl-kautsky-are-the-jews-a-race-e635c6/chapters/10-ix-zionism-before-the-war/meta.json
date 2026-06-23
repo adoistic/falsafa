@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-are-the-jews-a-race-e635c6",
+  "work_title": "Are the Jews a Race?",
+  "chapter_number": 10,
+  "chapter_title": "IX. Zionism Before the War",
+  "chapter_slug": "10-ix-zionism-before-the-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ad6fa29c-36d8-5ce8-82e0-096f15031e96",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2938,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1914/jewsrace/ch09.htm"
+    }
+  ]
+}

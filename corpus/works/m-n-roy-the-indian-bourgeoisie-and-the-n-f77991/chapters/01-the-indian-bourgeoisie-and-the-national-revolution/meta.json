@@ -1,0 +1,26 @@
+{
+  "work_slug": "m-n-roy-the-indian-bourgeoisie-and-the-n-f77991",
+  "work_title": "The Indian Bourgeoisie and the National Revolution",
+  "chapter_number": 1,
+  "chapter_title": "The Indian Bourgeoisie and the National Revolution",
+  "chapter_slug": "01-the-indian-bourgeoisie-and-the-national-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9353061-0def-5bbd-b8da-0ae0bf8a0402",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3107,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/roy/1929/03/x01.htm"
+    }
+  ]
+}

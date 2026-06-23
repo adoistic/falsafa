@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-more-utopia-e4b41c",
+  "work_title": "Utopia",
+  "chapter_number": 13,
+  "chapter_title": "Of Their Military Discipline",
+  "chapter_slug": "13-of-their-military-discipline",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d464da40-5df2-5d32-b4c6-dd650ed3a93a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3652,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/more/works/utopia/ch9.html"
+    }
+  ]
+}

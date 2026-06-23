@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 47,
+  "chapter_title": "Letter 47",
+  "chapter_slug": "47-letter-47",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a6742d77-5eb4-50ab-ada3-c870f0599ce2",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4a7aa697-f273-58be-9e3a-57b47bc582c9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1627,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

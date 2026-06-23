@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-economics-of-socialism-b16237",
+  "work_title": "Economics of Socialism",
+  "chapter_number": 1,
+  "chapter_title": "Preface",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b687c0e0-a7d4-58b4-ac35-7c027cb9bd49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 767,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1896/economics/0-preface.htm"
+    }
+  ]
+}

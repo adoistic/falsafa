@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-a-history-of-american-currency-1267a8"
 work_title: A History of American Currency
 author_name: William Graham Sumner
 chapter_number: 6
-chapter_title: NEW INDUSTRIES.
+chapter_title: New Industries.
 chapter_slug: "06-new-industries"
 variant_id: "5747fe85-d490-59bf-b5ff-dc70e39abfb8"
 content_type: translation

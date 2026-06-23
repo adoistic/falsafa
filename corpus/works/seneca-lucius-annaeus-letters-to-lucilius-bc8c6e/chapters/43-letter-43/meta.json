@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 43,
+  "chapter_title": "Letter 43",
+  "chapter_slug": "43-letter-43",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5eac7bfd-7fd0-5b42-99ce-228a77f028a0",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "29f4d355-f22d-5ccf-bab6-1101aa26056d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 319,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "voltaire-toleration-and-other-essays-91a5c9",
+  "work_title": "Toleration and Other Essays",
+  "chapter_number": 62,
+  "chapter_title": "XV: Of Evil and, in the First Place, the Destruction of Beasts",
+  "chapter_slug": "62-xv-of-evil-and-in-the-first-place-the-destruction-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b0fd706d-2839-5215-b12c-c9c8c4e650b2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 529,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+    }
+  ]
+}

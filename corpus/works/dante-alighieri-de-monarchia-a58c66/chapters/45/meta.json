@@ -2,7 +2,7 @@
   "work_slug": "dante-alighieri-de-monarchia-a58c66",
   "work_title": "De Monarchia",
   "chapter_number": 45,
-  "chapter_title": "CHAPTER XIII: The authority of the Church is not the source of Imperial authority.",
+  "chapter_title": "Chapter XIII: The authority of the Church is not the source of Imperial authority.",
   "chapter_slug": "45",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 628,
+      "word_count": 616,
       "paragraph_count": 4,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"

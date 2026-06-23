@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-economic-basis-of-imperialism-in-7f0d62",
+  "work_title": "Economic Basis of Imperialism in the U.S. of North America",
+  "chapter_number": 4,
+  "chapter_title": "Period of time since the end of the war to Spring 1920",
+  "chapter_slug": "04-period-of-time-since-the-end-of-the-war-to-spring-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5854278c-1c1f-51b6-ada8-613a8786c3d0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 808,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1921/x01/x01.htm"
+    }
+  ]
+}

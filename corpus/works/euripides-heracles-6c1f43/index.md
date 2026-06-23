@@ -4,7 +4,10 @@ slug: "euripides-heracles-6c1f43"
 title: Heracles
 author:
   name: Euripides
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Athenian tragedian, youngest of the three great masters of the form and a contemporary of the sophists. His plays brought ordinary speech and disordered passion onto the tragic stage, and more of them survive than of Aeschylus and Sophocles combined.
+  birth_year: -480
+  death_year: -406
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

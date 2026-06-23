@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-political-institutions-principle-ea9248",
+  "work_title": "Political Institutions (Principles of Sociology, Part V)",
+  "chapter_number": 21,
+  "chapter_title": "Titles of Works Referred to.",
+  "chapter_slug": "21-titles-of-works-referred-to",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa7d2ea2-9ba8-505f-aff0-c11b9a997866",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1561,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-political-institutions-being-part-v-of-the-principles-of-sociology"
+    }
+  ]
+}

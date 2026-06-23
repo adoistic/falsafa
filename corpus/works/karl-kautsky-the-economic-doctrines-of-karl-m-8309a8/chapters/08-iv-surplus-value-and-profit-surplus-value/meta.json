@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-economic-doctrines-of-karl-m-8309a8",
+  "work_title": "The Economic Doctrines of Karl Marx",
+  "chapter_number": 8,
+  "chapter_title": "IV. Surplus-Value and Profit Surplus-Value",
+  "chapter_slug": "08-iv-surplus-value-and-profit-surplus-value",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9edeac59-fabf-5480-aa60-f969d67a0492",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5575,
+      "paragraph_count": 94,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1903/economic/ch07.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-mehring-absolutism-and-revolution-in-ger-6d03ed",
+  "work_title": "Absolutism and Revolution in Germany 1525-1848",
+  "chapter_number": 8,
+  "chapter_title": "The Brandenburg-Prussian state",
+  "chapter_slug": "08-the-brandenburg-prussian-state",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a515390e-c684-5c51-beb8-83e36db0d860",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12391,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/mehring/1910/absrev/ch02a.htm"
+    }
+  ]
+}

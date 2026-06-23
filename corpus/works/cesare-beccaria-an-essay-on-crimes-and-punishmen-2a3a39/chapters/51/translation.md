@@ -4,7 +4,7 @@ work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
 work_title: An Essay on Crimes and Punishments
 author_name: Cesare Beccaria
 chapter_number: 51
-chapter_title: "CHAPTER II.: OF PUNISHMENTS."
+chapter_title: "Chapter III.: On the Punishment of Heretics."
 chapter_slug: 51
 variant_id: "ed2c7208-4c7a-5667-843f-213ccb29d982"
 content_type: translation
@@ -13,13 +13,23 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 222
+word_count: 801
 source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
 translator: Online Library of Liberty edition
 ---
 
-This misfortune, and this very hard law, with which I was so sensibly affected, prompted me to cast my eyes on the criminal code of nations. The humane author of the Essay on Crimes and Punishments, had but too much cause to complain, that the latter frequently exceed the former, and are sometimes detrimental to the state they were intended to serve.
+The denunciation of death to those who, in certain dogmas, differed from the established church, was peculiarly the act of tyranny. No Christian emperor, before the tyrant Maximus, ever thought of condemning a man to punishment merely for points of controversy. It is true, indeed, that two Spanish bishops pursued to death the Priscilianists under Maximus; but it is also true, that this tyrant was willing to gratify the reigning party with the blood of heretics. Barbarity and justice were to him indifferent. Jealous of Theodosius, a Spaniard like himself, he endeavoured to deprive him of the empire of the East, as he had already obtained that of the West. Theodosius was hated for his cruelties; but he had found the means of gaining to his party the heads of the church. Maximus was willing to display the same zeal, and to attach the Spanish bishops to his faction. He flattered both the old and the new religion; he was as treacherous as inhuman, as indeed were all those who at that time either pretended to, or obtained empire. That vast part of the world was then governed like Algiers at present. Emperors were created and dethroned by the military power, and were often chosen from among nations that were reputed barbarous. Theodosius opposed to his competitor other barbarians from Scythia. He filled the army with Goths, and surprised Alaric the conqueror of Rome. In this horrible confusion, each endeavoured to strengthen his party by every means in his power.
 
-Those ingenious punishments, the ne plus ultra of the human mind, endeavouring to render death horrible, seem rather the inventions of tyranny than of justice.
+Maximus having caused the Emperor Gratian, the colleague of Theodosius, to be assassinated at Lyons, meditated the destruction of Valentinian the second, who, during his infancy, had been made successor to Gratian. He assembled at Treves a powerful army, composed of Gauls and Germans. He caused troops to be levied in Spain, when two Spanish bishops, Idacio and Ithacus, or Itacius, both men of credit, came and demanded of him the blood of Priscilian, and all his adherents, who were of opinion, that souls were emanations from God; that the Trinity did not contain three hypostases; and moreover, they carried their sacrilege so far as to fast on Sundays. Maximus, half Pagan, and half Christian, soon perceived the enormity of these crimes. The holy bishops, Idacio and Itacius, obtained leave to torture Priscilian and his accomplices before they were put to death. They were both present, that things might be done according to order, and they returned blessing God, and numbering Maximus, the defender of the faith, among the saints. But Maximus being afterward defeated by Theodosius, and assassinated at the feet of his conqueror, had not the good fortune to be canonized.
 
-The punishment of the wheel was first introduced in Germany in the times of anarchy, when those who usurped the regal power resolved to Edition: current; Page: [167] terrify, with unheard-of torments, those who should dispute their authority. In England they ripped open the belly of a man guilty of high-treason, tore out his heart, dashed it in his face, and then threw it into the fire. And wherein did this high-treason frequently consist? In having been, during a civil war, faithful to an unfortunate king; or, in having spoken freely on the doubtful right of the conqueror. At length, their manners were softened; they continued to tear out the heart, but not till after the death of the offender. The apparatus is dreadful, but the death is mild, if death can ever be mild.
+It is proper to observe, that Saint Martin, bishop of Tours, who was really a good man, solicited the pardon of Priscilian; but being himself accused of heresy by the bishops, he returned to Tours, for fear of the torture at Treves.
+
+As to Priscilian, he had the consolation, after he was hanged, of being honoured by his sect as a martyr. His feast was celebrated, and would be celebrated still, if there were any Priscilianists remaining.
+
+This example made the entire church tremble; but it was soon after imitated and surpassed. Priscilianists had been put to death by the sword, the halter, and by lapidation. A young lady of quality, suspected to have fasted on a Sunday, was at Bourdeaux only stoned to death. These punishments appeared too mild; it was proved that God required that heretics should be roasted alive. The peremptory argument, in support of this opinion was, that God punishes them in that manner in the next world, and that every prince, or his representative, even down to a petty constable, is the image of God in this sublunary world.
+
+On this principle it was, that all over Europe they burnt witches and sorcerers, who were manifestly under the empire of the devil; and also heterodox Christians, which were deemed still more criminal and dangerous.
+
+It is not certainly known, what was the crime of those priests who were burnt at Orleans in the presence of king Robert and his wife Constantia, in the year 1022. How indeed should it be known? there being, at that time, but a small number of clerks and monks that could write. All we certainly know is, that Robert and his wife feasted their eyes with this abominable spectacle. One of the sectaries had been confessor to her majesty, who thought she could not better repair the misfortune of having confessed to a heretic, than by seeing him devoured by the flames.
+
+Custom becomes law; from that period to the present time, a space of more than seven hundred years, the church hath continued to burn those that are guilty, or supposed guilty, of an error in opinion.

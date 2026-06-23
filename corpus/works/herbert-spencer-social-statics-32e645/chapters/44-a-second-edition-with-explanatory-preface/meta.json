@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-social-statics-32e645",
+  "work_title": "Social Statics",
+  "chapter_number": 44,
+  "chapter_title": "A Second Edition, with Explanatory Preface.",
+  "chapter_slug": "44-a-second-edition-with-explanatory-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e602c147-6658-5b53-8226-0c44f5f51d63",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4287,
+      "paragraph_count": 99,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+    }
+  ]
+}

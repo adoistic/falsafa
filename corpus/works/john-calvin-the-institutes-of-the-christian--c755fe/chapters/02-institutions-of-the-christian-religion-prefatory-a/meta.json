@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 2,
+  "chapter_title": "Institutions of the Christian Religion, Prefatory Address to His Most Christian Majesty, the Most Mighty and Illustrious",
+  "chapter_slug": "02-institutions-of-the-christian-religion-prefatory-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "982c1295-8f22-54eb-b42b-08abc813129d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8374,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

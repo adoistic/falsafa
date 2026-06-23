@@ -4,13 +4,17 @@ slug: "hastings-rashdall-philosophy-and-religion-six-lect-6529d8"
 title: "Philosophy and Religion: Six Lectures Delivered at Cambridge"
 author:
   name: Hastings Rashdall
-  biography: "Hastings Rashdall (1858-1924)."
+  biography: English philosopher, theologian, and historian, an Oxford don and later Dean of Carlisle who championed ideal utilitarianism. Philosophy and Religion gathered six Cambridge lectures defending a rational theism grounded in moral experience.
+  birth_year: 1858
+  death_year: 1924
+  nationality: English
 era: 20th Century
 genre: Philosophy of Religion
 language: English
 language_direction: ltr
 description: "Philosophy and Religion: Six Lectures Delivered at Cambridge, by Hastings Rashdall (1858-1924), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1909
 total_logical_chapters: 6
 total_variant_entries: 6
 thothica_role: catalog

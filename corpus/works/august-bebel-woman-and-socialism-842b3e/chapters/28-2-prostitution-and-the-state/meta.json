@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 28,
+  "chapter_title": "2. Prostitution and the State.",
+  "chapter_slug": "28-2-prostitution-and-the-state",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "363f64a5-6fc1-58fe-87d4-2d2f0b1c44cc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3141,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch12.htm"
+    }
+  ]
+}

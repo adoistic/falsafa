@@ -1,0 +1,26 @@
+{
+  "work_slug": "anatoly-lunacharsky-self-education-of-the-workers-th-756448",
+  "work_title": "Self-Education of the Workers: The Cultural Task of the Struggling Proletariat",
+  "chapter_number": 1,
+  "chapter_title": "Self-Education of the Workers: The Cultural Task of the Struggling Proletariat",
+  "chapter_slug": "01-self-education-of-the-workers-the-cultural-task-of",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "21a4d7dd-7929-590b-a2dd-d87c8bd2a435",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2474,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lunachar/1918/self-education.htm"
+    }
+  ]
+}

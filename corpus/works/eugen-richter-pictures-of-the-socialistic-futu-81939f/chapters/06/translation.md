@@ -4,7 +4,7 @@ work_slug: "eugen-richter-pictures-of-the-socialistic-futu-81939f"
 work_title: Pictures of the Socialistic Future
 author_name: Eugen Richter
 chapter_number: 6
-chapter_title: "Chapter III: DISCONTENTED PEOPLE."
+chapter_title: "Chapter III: Discontented People."
 chapter_slug: 06
 variant_id: "f913e7cb-f1ce-5d8c-bdf8-200fdb9e5fb7"
 content_type: translation
@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 591
+word_count: 587
 source_url: "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
 translator: Online Library of Liberty edition
 ---
 
-Agnes, our prospective daughter-in-law, is quite inconsolable, and Franz is hardly less depressed. Agnes is in fear for her dowry. For a long time past she has been industriously saving up, and more especially so since her acquaintance with Franz. Her industry was such that she would scarce allow herself time for her meals, and the sums which her companions spent in finery, in pleasures, or in short excursions, she devoted to the increase of her little capital. By these means she had no less a sum than two thousand marks in the savings bank at the time of her becoming engaged. It was with no little pride and complacency that Franz told me all this on the evening of the engagement day. The young people began to devise schemes as to how Edition: current; Page: [7] they could lay out this large sum of money to the best advantage.
+Agnes, our prospective daughter-in-law, is quite inconsolable, and Franz is hardly less depressed. Agnes is in fear for her dowry. For a long time past she has been industriously saving up, and more especially so since her acquaintance with Franz. Her industry was such that she would scarce allow herself time for her meals, and the sums which her companions spent in finery, in pleasures, or in short excursions, she devoted to the increase of her little capital. By these means she had no less a sum than two thousand marks in the savings bank at the time of her becoming engaged. It was with no little pride and complacency that Franz told me all this on the evening of the engagement day. The young people began to devise schemes as to how they could lay out this large sum of money to the best advantage.
 
 But now it seems that all her industry and economy are to prove quite futile. Rendered uneasy by all sorts of reports that reached her, Agnes determined to go to the bank and give notice of withdrawal. Arrived in the neighbourhood of the bank, she found the street filled with excited groups. Old men and women, and numerous girls who had been servants during the old order of things, complained piteously of being cheated, as they said, out of their hard-earned savings. The officials, it appears, had stated that along with all other values which, by the operation of the new decrees had been confiscated, the funds of the savings bank were also void.
 

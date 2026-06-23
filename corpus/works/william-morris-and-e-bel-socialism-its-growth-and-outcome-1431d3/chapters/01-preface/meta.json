@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-and-e-bel-socialism-its-growth-and-outcome-1431d3",
+  "work_title": "Socialism: Its Growth and Outcome",
+  "chapter_number": 1,
+  "chapter_title": "Preface",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1fef25e5-9968-51c5-b49f-5fb319bf0dbc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 229,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1893/sgo/preface.htm"
+    }
+  ]
+}

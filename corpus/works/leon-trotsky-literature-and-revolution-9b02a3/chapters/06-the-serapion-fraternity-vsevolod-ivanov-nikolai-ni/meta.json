@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-literature-and-revolution-9b02a3",
+  "work_title": "Literature and Revolution",
+  "chapter_number": 6,
+  "chapter_title": "The “Serapion Fraternity” Vsevolod Ivanov; Nikolai Nikitin",
+  "chapter_slug": "06-the-serapion-fraternity-vsevolod-ivanov-nikolai-ni",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "902859f9-3b1f-58d7-ac85-a2c74b0780ae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2210,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1924/lit_revo/ch02.htm"
+    }
+  ]
+}

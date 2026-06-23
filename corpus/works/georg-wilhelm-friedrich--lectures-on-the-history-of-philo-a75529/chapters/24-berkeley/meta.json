@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 24,
+  "chapter_title": "Berkeley",
+  "chapter_slug": "24-berkeley",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6883b234-26d1-5ecf-a475-1f64b363e0f0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1651,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hpberkel.htm"
+    }
+  ]
+}

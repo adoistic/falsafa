@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 12,
+  "chapter_title": "Â§ 15 The dependent position of the proletariat; the reserve army of labour; women's labour and child labour",
+  "chapter_slug": "12-a-15-the-dependent-position-of-the-proletariat-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ce735c2-db2a-5683-9886-aa8cd703e696",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1423,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/02.htm"
+    }
+  ]
+}

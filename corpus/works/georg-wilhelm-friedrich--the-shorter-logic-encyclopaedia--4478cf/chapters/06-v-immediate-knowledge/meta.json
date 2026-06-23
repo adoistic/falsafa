@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 6,
+  "chapter_title": "V Immediate Knowledge",
+  "chapter_slug": "06-v-immediate-knowledge",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1262f6c1-e077-572d-b6a0-dcf5010d5040",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6628,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/sl_v.htm"
+    }
+  ]
+}

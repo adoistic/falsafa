@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 39,
+  "chapter_title": "Chapter 38 : Kronstadt",
+  "chapter_slug": "39",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b5f8128d-6f68-52d0-8b88-404c05fb8036",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3686,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-38.html"
+    }
+  ]
+}

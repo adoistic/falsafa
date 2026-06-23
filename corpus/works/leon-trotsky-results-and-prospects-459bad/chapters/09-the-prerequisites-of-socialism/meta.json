@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-results-and-prospects-459bad",
+  "work_title": "Results and Prospects",
+  "chapter_number": 9,
+  "chapter_title": "The Prerequisites of Socialism",
+  "chapter_slug": "09-the-prerequisites-of-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f40a820e-8232-5e47-9654-a095bac72da5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6015,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1931/tpr/rp07.htm"
+    }
+  ]
+}

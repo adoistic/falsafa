@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 31,
+  "chapter_title": "Fichte",
+  "chapter_slug": "31-fichte",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e948a4d-80a2-5e5c-84f4-dcb0ca522425",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 688,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hpfichte.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4"
 work_title: A Select Collection of Scarce and Valuable Tracts on Money
 author_name: John Ramsay McCulloch (ed.)
 chapter_number: 29
-chapter_title: "QUESTIONS to be proposed to the Merchants, Mint Masters, and Goldsmiths concerning the Alteration of the Silver-Monies."
+chapter_title: "Questions to be proposed to the Merchants, Mint Masters, and Goldsmiths concerning the Alteration of the Silver-Monies."
 chapter_slug: "29-questions-to-be-proposed-to-the-merchants-mint-mas"
 variant_id: "2f3c3f4d-f63e-57e2-800d-dfca3b076ad0"
 content_type: translation

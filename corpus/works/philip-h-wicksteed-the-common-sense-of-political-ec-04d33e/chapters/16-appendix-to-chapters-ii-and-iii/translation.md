@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 16
-chapter_title: APPENDIX TO CHAPTERS II. AND III.
+chapter_title: Appendix to Chapters II. And III.
 chapter_slug: "16-appendix-to-chapters-ii-and-iii"
 variant_id: "4c08f099-368d-516c-bbca-6490d8727fab"
 content_type: translation

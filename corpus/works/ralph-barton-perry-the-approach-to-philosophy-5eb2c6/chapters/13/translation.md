@@ -4,7 +4,7 @@ work_slug: "ralph-barton-perry-the-approach-to-philosophy-5eb2c6"
 work_title: The Approach to Philosophy
 author_name: Ralph Barton Perry
 chapter_number: 13
-chapter_title: Chapter IX — , SUBJECTIVISM
+chapter_title: "Chapter V — , the Philosophical Criticism of Science.[434:a]"
 chapter_slug: 13
 variant_id: "0dcc5a0e-5203-5d16-ab18-4dea076bb641"
 content_type: translation
@@ -13,27 +13,63 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 109
+word_count: 383
 source_url: "https://www.gutenberg.org/ebooks/25110"
 translator: Project Gutenberg edition
 ---
 
-PLATO: *Theaetetus.* Translation by Jowett. (Exposition and criticism of Protagoras.)
+PLATO: *Republic*, Book VII, 526 ff. Translations by Jowett and Vaughan. *Phaedo*, 96 ff. Translation by Jowett.
 
-BERKELEY: *Three Dialogues between Hylas and Philonous*; _Principles of Human Knowledge_.
+BERKELEY: *Alciphron*, the Fourth Dialogue. *Siris*, especially 234-264. (On the failure of the scientist to grasp the deeper truth respecting causes and substances.)
 
-HUME: *An Enquiry Concerning Human Understanding.*
+DESCARTES: *Discourse on Method.* Translation by Veitch.
 
-SCHOPENHAUER: *The World as Will and Idea.* Translation by Haldane and Kemp.
+SPINOZA: *On the Improvement of the Understanding.* Translation by Elwes.
 
-MILL, J. S.: *An Examination of Sir William Hamilton's Philosophy*, X-XIII.
+KANT: *Critique of Pure Reason--Transcendental Æsthetic* and *Transcendental Analytic.* Translation by Max Müller. (Studies of the Method of Science.)
 
-CLIFFORD, W. K.: _Lectures and Essays: On the Nature of Things in Themselves._ (Panpsychism.)
+WARD, JAMES: *Naturalism and Agnosticism.* (Full but clear account of recent development of natural science, and criticism of its use as philosophy.)
 
-DEUSSEN, PAUL: *Elements of Metaphysics.* Translation by Duff. (Following Schopenhauer and Oriental philosophy.)
+MACH, ERNST: *Science of Mechanics.* (Historical and methodological.)
 
-PAULSEN, FR.: *Introduction to Philosophy.* (Panpsychism.)
+JAMES, WILLIAM: *Principles of Psychology*, Vol. II, Chap. xxviii. (Emphasizes the practical interest underlying science.)
 
-STRONG, C. A.: *Why the Mind Has a Body.* (Panpsychism.)
+ROYCE, JOSIAH: _The World and the Individual, Second Series, Man and Nature._ (Interpretation of the province of natural science from the stand-point of absolute idealism.)
 
-JAMES, WILLIAM: *Reflex Action and Theism*, in *The Will to Believe*. (Morality and religion of individualism.)
+PEARSON, KARL: *The Grammar of Science.* (The limits of science from the scientific stand-point.)
+
+CLIFFORD, W. K.: _Lectures and Essays: On the Aims and Instruments of Scientific Thought; The Philosophy of the Pure Sciences; On the Ethics of Belief._
+
+HUXLEY, T. H.: *Method and Results.* (The positivistic position.)
+
+MUENSTERBERG, HUGO: *Psychology and Life.* (Epistemological limitations of natural science applied to psychology, from idealistic stand-point.)
+
+FULLERTON, G. E.: *A System of Metaphysics*, Part II.
+
+TAYLOR, A. E.: *Elements of Metaphysics*, Book III.
+
+CHAPTERS VI AND VII, THE SPECIAL PROBLEMS OF PHILOSOPHY.
+
+PLATO: *Dialogues*, especially *Protagoras* and *Theaetetus*. Translation by Jowett. (The actual genesis of special problems.)
+
+KUELPE, OSWALD: *Introduction to Philosophy.* Translation by Pillsbury and Titchener. (Full and accurate account of the traditional terms and doctrines of philosophy.)
+
+HIBBEN, J. G.: *Problems of Philosophy.* (Brief and elementary.)
+
+SIDGWICK, HENRY: *Philosophy, its Scope and Relations.*
+
+PAULSEN, FRIEDRICH: *Introduction to Philosophy.* Translation by Thilly.
+
+BALDWIN, J. M.: *Dictionary of Philosophy.* (Full, and convenient for reference.)
+
+FERRIER, J. F.: *Lectures on Greek Philosophy.* (Interpretation of the beginning and early development of philosophy.)
+
+BURNET, J.: *Early Greek Philosophy.* Translation of the sources.
+
+FAIRBANKS, A.: *The First Philosophers of Greece.*
+
+GOMPERZ, TH.: *Greek Thinkers*, Vol. I. Translation by Magnus. (On the first development of philosophical problems.)
+
+PALMER, G. H.: *The Field of Ethics.* (On the relations of the ethical problem.)
+
+PUFFER, ETHEL: *The Psychology of Beauty.* (On the relations of the æsthetical problem.)

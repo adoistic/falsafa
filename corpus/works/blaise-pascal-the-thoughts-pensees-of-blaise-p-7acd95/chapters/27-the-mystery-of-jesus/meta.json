@@ -1,0 +1,26 @@
+{
+  "work_slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
+  "work_title": "The Thoughts (Pensées) of Blaise Pascal",
+  "chapter_number": 27,
+  "chapter_title": "The Mystery of Jesus.",
+  "chapter_slug": "27-the-mystery-of-jesus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23bf8d4f-54de-5861-a834-b66bd5f093b8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1772,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-the-thoughts-of-blaise-pascal"
+    }
+  ]
+}

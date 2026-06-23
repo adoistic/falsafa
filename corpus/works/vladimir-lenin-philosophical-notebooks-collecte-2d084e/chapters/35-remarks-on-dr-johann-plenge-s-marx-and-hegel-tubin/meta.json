@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 35,
+  "chapter_title": "Remarks On Dr. Johann Plenge’s Marx and Hegel. Tübingen, 1911",
+  "chapter_slug": "35-remarks-on-dr-johann-plenge-s-marx-and-hegel-tubin",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cdb34c6f-ce9f-5d7d-90f7-374519034df9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 653,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1916/jun/x01.htm"
+    }
+  ]
+}

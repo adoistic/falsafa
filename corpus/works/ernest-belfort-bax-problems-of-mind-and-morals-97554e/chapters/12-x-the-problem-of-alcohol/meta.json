@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-problems-of-mind-and-morals-97554e",
+  "work_title": "Problems of Mind and Morals",
+  "chapter_number": 12,
+  "chapter_title": "X. The Problem of Alcohol",
+  "chapter_slug": "12-x-the-problem-of-alcohol",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "014f7fe9-d567-5ce5-a463-5970caa2deb8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2347,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1912/probs/10-alcohol.htm"
+    }
+  ]
+}

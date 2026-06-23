@@ -4,7 +4,7 @@ work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
 work_title: The Ecclesiastical History of the English Nation
 author_name: The Venerable Bede
 chapter_number: 121
-chapter_title: CHAPTER XXXII
+chapter_title: Book V, Chapter I (5)
 chapter_slug: 121
 variant_id: "dbb1753e-6a5b-5886-9218-286b8d4a372c"
 content_type: translation
@@ -13,13 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 435
+word_count: 509
 source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
 translator: Online Library of Liberty edition
 ---
 
-of one who was cured of a distemper in his eye at the relics of st. cuthbert. [ad 698.]
+how ethelwald, successor to cuthbert, leading an eremitical life, calmed a tempest when the brethren were in danger at sea. [ad 687.]
 
-Nor is that cure to be passed over in silence, which was performed by his relics three years ago, and was told me by the brother himself, on whom it was wrought. It happened in the monastery, which, being built near the river Dacore, has taken its name from the same, over which, at that time, the religious Suidbert presided as abbat. In that monastery was a youth whose eyelid had a great swelling on it, which growing daily, threatened the loss of the eye. The surgeons applied their medicines to ripen it, but in vain. Some said it ought to be cut off; others opposed it, for fear of worse consequences. The brother having long laboured under this malady, and seeing no human means likely to save his eye, but that, on the contrary, it grew daily worse, was cured on a sudden, through the Divine Goodness, by the relics of the holy father, Cuthbert; for the brethren, finding his body uncorrupted, after having been many years buried, took some part of the hair, which they might, at the request of friends, give or show, in testimony of the miracle.
+The venerable Ethelwald, who had received the priesthood in the monastery of Inhrypum, and had, by actions worthy of the same, sanctified his holy office, succeeded the man of God, Cuthbert, in the exercise of a solitary life, having practised the same before he was bishop, in the isle of Farne. For the more certain demonstration of the life which he led, and his merit, I will relate one miracle of his, which was told me by one of these brothers for and on whom the same was wrought: viz. Guthfrid, the venerable servant and priest of Christ, who, afterwards, as abbat, presided over the brethren of the same church of Lindisfarne, in which he had been educated.
 
-One of the priests of the monastery, named Thridred, who is now abbat there, had a small part of these relics by him at that time. One day in the church he opened the box of relics, to give some part to a friend that begged it, and it happened that the youth who had the distempered eye was then in the church; the priest, having given his friend as much as he thought fit, delivered the rest to the youth to put it into its place. Having received the hairs of the holy head, by some fortunate impulse, he clapped them to the sore eyelid, and endeavoured for some time, by the application of them, to soften and abate the swelling. Having done this, he again laid the relics into the box, as he had been ordered, believing that his eye would soon be cured by the hairs of the man of God, which had touched it; nor did his faith disappoint him. It was then, as he is wont to relate it, about the second hour of the day; but he, being busy about other things that belonged to that day, about the sixth hour of the same, touching his eye on a sudden, found it as sound with the lid, as if there never had been any swelling or deformity on it.
+“I came,” says he, “to the island of Farne, with two others of the brethren, to speak with the most reverend father, Ethelwald. Having been refreshed with his discourse, and taken his blessing, as we were returning home, on a sudden, when we were in the midst of the sea, the fair weather which was wafting us over was checked, and there ensued so great and dismal a tempest, that neither the sails nor oars were of any use to us, nor had we anything to expect but death. After long struggling with the wind and waves to no effect, we looked behind us to see whether it was practicable at least to recover the island from whence we came, but we found ourselves on all sides so enveloped in the storm, that there was no hope of escaping. But looking out as far as we could see, we observed, on the island of Farne, Father Ethelwald, beloved of God, come out of his cavern to watch our course; for, hearing the noise of the storm and raging sea, he was come out to see what would become of us. When he beheld us in distress and despair, he bowed his knees to the Father of our Lord Jesus Christ, in prayer for our life and safety; upon which, the swelling sea was calmed, so that the storm ceased on all sides, and a fair wind attended us to the very shore. When we had landed, and had dragged upon the shore the small vessel that brought us, the storm, which had ceased a short time for our sake, immediately returned, and raged continually during the whole day; so that it plainly appeared that the brief cessation of the storm had been granted from Heaven at the request of the man of God, in order that we might escape.”
+
+The man of God remained in the isle of Farne twelve years, and died there; but was buried in the church of St. Peter and Paul, in the isle of Lindisfarne, beside the bodies of the aforesaid bishops. These things happened in the days of King Alfred, who ruled the nation of the Northumbrians eighteen years after his brother Egfrid.

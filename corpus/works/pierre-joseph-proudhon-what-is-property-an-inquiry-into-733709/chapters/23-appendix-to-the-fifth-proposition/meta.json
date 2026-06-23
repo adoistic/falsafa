@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 23,
+  "chapter_title": "Appendix to the Fifth Proposition.",
+  "chapter_slug": "23-appendix-to-the-fifth-proposition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ffd1f66d-5404-583d-8f03-79ff5b30b3ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3380,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch04.htm"
+    }
+  ]
+}

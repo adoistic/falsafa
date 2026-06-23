@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 19,
+  "chapter_title": "Part III, Chapter XI: Second Approximation in Geometric Terms",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5fe56010-e55e-5536-91ee-f9797a881c0a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6133,
+      "paragraph_count": 68,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

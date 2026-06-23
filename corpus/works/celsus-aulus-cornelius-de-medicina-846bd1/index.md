@@ -4,7 +4,8 @@ slug: "celsus-aulus-cornelius-de-medicina-846bd1"
 title: De Medicina
 author:
   name: Celsus, Aulus Cornelius
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman encyclopaedist of the early Empire, compiler of the Artes covering agriculture, rhetoric, warfare, and medicine. De Medicina, the one surviving section, preserved the fullest ancient account of Hellenistic and Roman medical practice.
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

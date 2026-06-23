@@ -1,0 +1,26 @@
+{
+  "work_slug": "m-n-roy-who-will-lead-class-differentiat-4b3cfd",
+  "work_title": "Who Will Lead? Class Differentiation in the Indian Revolutionary Movement",
+  "chapter_number": 1,
+  "chapter_title": "Who Will Lead? Class Differentiation in the Indian Revolutionary Movement",
+  "chapter_slug": "01-who-will-lead-class-differentiation-in-the-indian-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "12d00fa4-24cf-5b08-9a46-7824c1bb0299",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4241,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/roy/1925/x01/x01.htm"
+    }
+  ]
+}

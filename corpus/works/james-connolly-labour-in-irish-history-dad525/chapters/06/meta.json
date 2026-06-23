@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-labour-in-irish-history-dad525",
+  "work_title": "Labour in Irish History",
+  "chapter_number": 6,
+  "chapter_title": "Chapter V Grattan’s Parliament",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab23c1d3-646f-5672-91a5-69526e94bd0c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1437,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1910/lih/chap05.htm"
+    }
+  ]
+}

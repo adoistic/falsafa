@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 24,
+  "chapter_title": "Chpt. 5 Military Virtue of an Army",
+  "chapter_slug": "24-chpt-5-military-virtue-of-an-army",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0857ee71-0dd8-542c-b1bd-1a08bfe36a64",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1663,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch05.htm"
+    }
+  ]
+}

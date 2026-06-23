@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-concerning-questions-of-leninism-d27b3b",
+  "work_title": "Concerning Questions of Leninism",
+  "chapter_number": 5,
+  "chapter_title": "V the Party and the Working Class in the System of the Dictatorship of the Proletariat",
+  "chapter_slug": "05-v-the-party-and-the-working-class-in-the-system-of",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ae4bd2e-5015-5478-9fe5-11a5011b549e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8821,
+      "paragraph_count": 130,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1926/01/25.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 27,
+  "chapter_title": "XXV. Concerning Slanderers",
+  "chapter_slug": "27-xxv-concerning-slanderers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1c99846c-0b19-5e3f-89f6-3ca89be6c70a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4754,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch25.htm"
+    }
+  ]
+}

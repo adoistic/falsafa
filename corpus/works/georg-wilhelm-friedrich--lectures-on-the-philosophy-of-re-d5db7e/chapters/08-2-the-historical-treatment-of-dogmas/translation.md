@@ -1,0 +1,23 @@
+---
+work_id: "d5db7e6c-57b5-5a07-93cb-b4e84dd84065"
+work_slug: "georg-wilhelm-friedrich--lectures-on-the-philosophy-of-re-d5db7e"
+work_title: Lectures on the Philosophy of Religion (Introduction and Absolute Religion, final section)
+author_name: Georg Wilhelm Friedrich Hegel
+chapter_number: 8
+chapter_title: 2. The Historical Treatment of Dogmas.
+chapter_slug: "08-2-the-historical-treatment-of-dogmas"
+variant_id: "349b1731-a324-5591-876f-5718c9865265"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 588
+source_url: "https://www.marxists.org/reference/archive/hegel/works/re/parta.htm"
+translator: E. B. Speirs and J. Burdon Sanderson
+---
+
+The strongest indication, however, that the importance of these dogmas has declined, is to be perceived in the fact that they are treated principally in an historical manner, and are regarded in the light of convictions which belong to others, as matters of history, which do not go on in our own mind as such, and which do not concern the needs of our spirit. The real interest here is to find out how the matter stands so far as others are concerned, what part others have played, and centres in this accidental origin and appearance of doctrine. The question as to what is a man’s own personal conviction only excites astonishment. The absolute manner of the origin of these doctrines out of the depths of Spirit, and thus the necessity, the truth, which they have for our spirits too, is shoved on one side by this historical treatment. It brings much zeal and erudition to bear on these doctrines it is not with their essential substance, however, that it is occupied, but with the externalities of the controversies about them, and with the passions which have gathered around this external mode of the origin of truth. Thus Theology is by her own act put in a low enough position. If the philosophical knowledge of religion is conceived of as something to be reached historically only, then we should have to regard the theologians who have brought it to this point as clerks in a mercantile house, who have only to keep an account of the wealth of strangers, who only act for others without obtaining any property for themselves. They do, indeed, receive salary, but their reward is only to serve, and to register that which is the property of others. Theology of this kind has no longer a place at all in the domain of thought; it has no longer to do with infinite thought in and for itself, but only with it as a finite fact, as opinion, ordinary thought, and so on. History occupies itself with truths which were truths — namely, for others, not with such as would come to be the possession of those who are occupied with them. With the true content, with the knowledge of God, such theologians have no concern. They know as little of God as a blind man sees of a painting, even though he handles the frame. They only know how a certain dogma was established by this or that council; what grounds those present at such a council had for establishing it, and how this or that opinion came to predominate. And in all this, it is indeed religion that is in question, and yet it is not religion itself which here comes under consideration. Much is told us of the history of the painter of the picture, and of the fate of the picture itself, what price it had at different times, into what hands it came, but we are never permitted to see anything of the picture itself.
+
+It is essential in philosophy and religion, however, that the spirit should itself enter with supreme interest into an inner relation, should not only occupy itself with a thing that is foreign to it, but should draw its content from that which is essential, and should regard itself as worthy of such knowledge. For here it is with the value of his own spirit that man is concerned, and he is not at liberty humbly to remain outside and to wander about at a distance.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-brief-account-of-a-general-mathe-8c54a2",
+  "work_title": "Brief Account of a General Mathematical Theory of Political Economy",
+  "chapter_number": 1,
+  "chapter_title": "Brief Account of a General Mathematical Theory of Political Economy",
+  "chapter_slug": "01-brief-account-of-a-general-mathematical-theory-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa9ffd17-1535-5b6d-9f7f-d43e06829abd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2835,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/jevons/mathem.htm"
+    }
+  ]
+}

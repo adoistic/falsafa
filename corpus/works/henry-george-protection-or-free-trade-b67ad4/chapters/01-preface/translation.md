@@ -4,7 +4,7 @@ work_slug: "henry-george-protection-or-free-trade-b67ad4"
 work_title: Protection or Free Trade
 author_name: Henry George
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "56f55686-b231-5692-8cac-922b6f528860"
 content_type: translation

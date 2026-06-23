@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-the-re-conquest-of-ireland-059d10",
+  "work_title": "The Re-Conquest of Ireland",
+  "chapter_number": 10,
+  "chapter_title": "IX. Re-Conquest – A Summing Up",
+  "chapter_slug": "10-ix-re-conquest-a-summing-up",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44c94f59-dc97-5655-92e0-e9c131618eb4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1709,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1915/rcoi/chap09.htm"
+    }
+  ]
+}

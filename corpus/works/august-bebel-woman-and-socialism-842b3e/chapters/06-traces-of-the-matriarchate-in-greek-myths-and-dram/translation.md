@@ -1,0 +1,41 @@
+---
+work_id: "842b3e93-fd9c-5651-b926-05aaa3f7671f"
+work_slug: "august-bebel-woman-and-socialism-842b3e"
+work_title: Woman and Socialism
+author_name: August Bebel
+chapter_number: 6
+chapter_title: Traces of the Matriarchate in Greek Myths and Dramas.
+chapter_slug: "06-traces-of-the-matriarchate-in-greek-myths-and-dram"
+variant_id: "d328ad90-804d-5c47-a9f0-4d12f7d33be6"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1111
+source_url: "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch02.htm"
+translator: Meta L. Stern (Hebe)
+---
+
+Although the women were thus deprived of their former influential position, the customs connected with the ancient cults continued to dominate the minds for centuries; only their deeper meaning was gradually lost, and it remained for the present time to investigate them. Thus it was customary in Greece that women appealed for advice and help to the goddesses only. The annual celebration of the Thermophoria clearly derived its origin from matriarchal times. Even in later days Greek women still celebrated this festival in honor of Demeter, which lasted for five days, and in which no man was allowed to participate. A festival of the same character was held annually in Rome in honor of Ceres. Demeter and Ceres were the goddesses of fecundity. In Germany, similar festivals were observed up to the Christian middle ages. These were consecrated to Frigga, the ancient German goddess of fecundity, and here also men were excluded from participation.
+
+In Athens, the matriarchate had to make way to the patriarchate at an early period, but apparently not without strong opposition on the part of the women. The tragedy of the transformation is pathetically presented in the “Eumenides” by Aeschylus. The following is a synopsis of the story: Agamemnon, King of Mycenae, husband of Klytaemnestra, on his expedition to Troy, sacrifices his daughter Iphigeneia, in obedience to a command of the oracle. The mother is enraged over the sacrifice of her child that, in accordance with natural law, does not belong to her husband, and during Agamemnon’s absence she accepts Aeghistus as her husband, thereby not committing any objectionable act according to the ancient laws. When Agamemnon returns to Mycenae, after an absence of many years, he is murdered by Aeghistus, whom Klytaemnestra has incited to this deed. Orestes, son of Agamemnon and Klytaemnestra, upon a command from Apollo and Minerva, avenges his father’s death by killing his mother and Aeghistus. The Eumenides, representing the old maternal law, prosecute Orestes for the murder of his mother. Apollo and Minerva – the latter, according to the myth, not having been born by a mother, since she sprang from the head of Zeus in full armor – defend Orestes, for they represent the new paternal law. The case is brought before the areopagus and the following dialogue ensues in which the two conflicting views are expressed:
+
+Eumenides: The prophet (Apollo) bade thee then become a matricide? Orestes: Aye: and I never yet my destiny regretted. Eumenides: When judgment will be given thou wilt not speak thus. Orestes: Perhaps. But from his grave my father will send aid. Eumenides: What hopest from the dead thou, who hast killed thy mother? Orestes: She had been guilty of a double, bloody crime. Eumenides: How so’ Explain unto the judges what you mean? Orestes: She killed her husband and she thereby killed my father. Eumenides: Her crime she expiated now, but you still live. Orestes: Why did you fail to prosecute her while she lived? Eumenides: She was no blood relation to the man she killed. Orestes: But I, so you assert, am of my mother’s blood. Eumenides: Did she., thou bloody one, not bear thee ‘neath her heart? Wouldst thou thy mother’s sacred blood deny?
+
+The Eumenides accordingly do not recognize the right of the father and husband. They proclaim maternal law. That Kleytaemnestra caused the murder of her husband seems unimportant to them, for he was a stranger to her. But they demand punishment of the matricide, for by killing his mother, Orestes committed the most unpardonable crime that could be committed under the dominance of the gentile organization. Apollo, on the other hand, holds the opposite point of view. Upon a command from Zeus he has induced Orestes to murder his own mother to avenge the patricide, and before the judges he thus defends the deed:
+
+Then say I, listen ye unto my word of justice: The mother is not procreatrix to her child; She only the awakened life doth keep and bear. The father is the procreator; she but keeps The forfeit for her friend, unless a god destroy it I will submit a proof that cannot be denied. For one can have a father, yet no mother have. Minerva, daughter of the great Olympian Zeus, Within the darkness of a mother’s womb ne’er rested, And yet no goddess e’er gave birth to fairer offspring.
+
+According to Apollo, then, procreation gives the father a superior right, while the view that had prevailed until then proclaimed the mother, who gives life to the child by her own blood, the child’s sole possessor, and deemed the child’s father a mere stranger to her. Therefore, the Euminedes reply to the views of Apollo:
+
+Thou overthrowest forces of remotest days .... Thou, the young god, wouldst its, the ancient ones, dethrone.
+
+The judges prepare to pronounce their verdict; half of them favor the old law and the other half favor the new, giving an equal number of votes to both sides. There Minerva seizes a ballot from the altar and casting it into the urn she exclaims:
+
+Mine is the right to utter final judgment here, And for Orestes I cast in the urn this stone; For unto me no mother was who gave me birth, Therefore with all my heart all manly things I praise Excepting marriage. For I am my father’s quite. Less criminal I deem the murder of this woman, Because her husband she has killed, the home’s maintainer. Though even be the vote, Orestes is victorious.
+
+Another myth depicts the fall of the matriarchate in the following manner: During the rule of Cecrops, a double miracle occurred. Simultaneously an olive-tree sprang from the earth at one place, and a well at another. The frightened king sent a messenger to Delphi to question the oracle concerning the meaning of these miracles. The reply was: The olive-tree represents Minerva, the water represents Neptune, and the citizens may decide after whom of the two deities they choose to name their city. Cecrops summoned the popular assembly, in which both men and women were entitled to vote. The men voted for Neptune, and the women for Minerva, and since the women had a majority of one vote Minerva was, victorious. Thereupon Neptune became infuriated and let the sea flood the lands of the Athenians. To appease the fury of the god, the Athenians then inflicted threefold punishment upon their women. They were to be disfranchised, their children were no longer to bear their mother’s name, and they themselves should no longer be called Athenians.
+
+Thus the new order was established. The father became the head of the family. The patriarchate conquered the matriarchate.

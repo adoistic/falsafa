@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-anarchism-encyclopaedia-britanni-010980",
+  "work_title": "Anarchism (Encyclopaedia Britannica article)",
+  "chapter_number": 1,
+  "chapter_title": "Anarchism (Encyclopaedia Britannica article)",
+  "chapter_slug": "01-anarchism-encyclopaedia-britannica-article",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5e7dbe32-6f6e-5e82-bd9c-6cf794338251",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1108,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1910/britannica.htm"
+    }
+  ]
+}

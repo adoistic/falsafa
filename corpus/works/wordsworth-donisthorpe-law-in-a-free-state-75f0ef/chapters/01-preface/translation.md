@@ -4,7 +4,7 @@ work_slug: "wordsworth-donisthorpe-law-in-a-free-state-75f0ef"
 work_title: Law in a Free State
 author_name: Wordsworth Donisthorpe
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "f06979bb-6c02-51a7-b539-e7121c42b10a"
 content_type: translation

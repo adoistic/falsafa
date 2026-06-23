@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1014
+word_count: 1002
 source_url: "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
 translator: Online Library of Liberty edition
 ---
@@ -24,7 +24,7 @@ The Measures in a Kingdom ought to be constant: It is the Justice and Honour of 
 
 1573.This made the L. Treasurer Burleigh in 1573. when some Projectors had set on foot a matter of this nature, to tell them that they were worthy to suffer Death for attempting to put so great a Dishonour on the Queen, and Detriment and Discontent upon the People. For, to alter this publick Measure, is to leave all the Markets of the Kingdom unfurnished; and what will be the Mischief,5 Edw. VI.the Proclamations of 5 Edw. VI. 3 Mariæ, and 4 Eliz. will manifest;3 Mariæ. when but a rumor of the like produced that Effect to far,4 Eliz. that besides the Faith of the Princes to the contrary delivered in their Edicts, they were inforced to cause the Magistrates in every Shire respectively to constrain the people to furnish the Markets to prevent a Mutiny.
 
-To make this Measure then, at this time short, is to raise all Prizes, or to turn the Mony or Measure now currant into disuse or Bullion: For who will part with any, when it is richer by seven in the Hundred in the Edition: current; Page: [139] Mass, than the new Monies, and yet of no more value in the Market?
+To make this Measure then, at this time short, is to raise all Prizes, or to turn the Mony or Measure now currant into disuse or Bullion: For who will part with any, when it is richer by seven in the Hundred in the Mass, than the new Monies, and yet of no more value in the Market?
 
 Hence of necessity it must follow, that there will not in a long time be sufficient minted of the new to drive the Exchange of the Kingdom, and so all Trade at one instant at a stand; and in the mean time the Markets unfurnished: Which how it may concern the quiet of the State, is worthy care. And thus far as Money is a Measure.
 
@@ -34,7 +34,7 @@ All Commodities are prized by plenty or scarcity, by dearness or cheapness, the 
 
 And at this time it was apparently proved, both by the best Artists and Merchants most acquainted with the Exchange, in both the Examples of the Mintmasters in the Rix-dollar and Real of 8, that Silver here is of equal value, and Gold above, with the forein Parts in the intrinsick; and that the fallacy presented to the Lords by the Mint-masters, is only in the nomination or extrinsick quality.
 
-But if we desire both, it is not raising of the Value that doth it, but the ballansing of Trade; for buy we in more than we sell of other Commodities, be the Money never so high prized, we must part with it to Edition: current; Page: [140] make the disproportion even: If we sell more than we buy, the contrary will follow.
+But if we desire both, it is not raising of the Value that doth it, but the ballansing of Trade; for buy we in more than we sell of other Commodities, be the Money never so high prized, we must part with it to make the disproportion even: If we sell more than we buy, the contrary will follow.
 
 And this is plain in Spain’s Necessities: For should that King advance to a double rate his Real of 8. yet needing, by reason of the barrenness of his Country, more of forein Wares than he can contervail by exchange with his own, he must part with his Money, and gaineth no more by inhauncing his Coin, but that he payeth a higher price for the Commodities he buyeth, if his Work of raising be his own. But if we shall make improvement of Gold and Silver, being the staple Commodity of his State, we then advancing the price of his, abase to him our own Commodities.
 
@@ -44,7 +44,7 @@ The frequent and daily change in the low Countries of their Monies, is no such i
 
 And our English Merchants, to whose Profession it properly belongs, do so according to the just intrinsick value of their Forein Coin, in all barter of Commodities or Exchange except at Usance; which we, that are ruled and tyed by the extrinsick measure of Monies, in all our constant Reckonings and annual Bargains at home, cannot do.
 
-And for us then to raise our Coin at this time to Edition: current; Page: [141] equal their Proportions, were but to render ourselves to a perpetual incertainty: For they will raise upon us daily then again; which if we of course should follow, else receive no Profit by this present Change, we then destroy the Policy, Justice, Honour and Tranquillity of our State at home for ever.
+And for us then to raise our Coin at this time to equal their Proportions, were but to render ourselves to a perpetual incertainty: For they will raise upon us daily then again; which if we of course should follow, else receive no Profit by this present Change, we then destroy the Policy, Justice, Honour and Tranquillity of our State at home for ever.
 
 ADVICE
 

@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 33,
+  "chapter_title": "VI. The Soviet Power",
+  "chapter_slug": "33-vi-the-soviet-power",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4c2d26bf-76c4-5cde-891b-382e6ef37b98",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9473,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/06.htm"
+    }
+  ]
+}

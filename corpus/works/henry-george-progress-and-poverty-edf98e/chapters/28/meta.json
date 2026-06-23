@@ -2,7 +2,7 @@
   "work_slug": "henry-george-progress-and-poverty-edf98e",
   "work_title": "Progress and Poverty",
   "chapter_number": 28,
-  "chapter_title": "Chapter I The Primary Cause of Recurring Paroxysms of Industrial Depression",
+  "chapter_title": "Chapter II The Persistence of Poverty Amid Advancing Wealth",
   "chapter_slug": "28",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 5771,
-      "paragraph_count": 47,
+      "word_count": 4691,
+      "paragraph_count": 34,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
     }

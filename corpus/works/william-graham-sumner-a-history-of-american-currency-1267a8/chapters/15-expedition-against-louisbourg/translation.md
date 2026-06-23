@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-a-history-of-american-currency-1267a8"
 work_title: A History of American Currency
 author_name: William Graham Sumner
 chapter_number: 15
-chapter_title: EXPEDITION AGAINST LOUISBOURG.
+chapter_title: Expedition Against Louisbourg.
 chapter_slug: "15-expedition-against-louisbourg"
 variant_id: "84d2d87d-58ef-541e-85df-bb51d05e909e"
 content_type: translation

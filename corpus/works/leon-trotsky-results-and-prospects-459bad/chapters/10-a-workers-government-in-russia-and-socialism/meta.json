@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-results-and-prospects-459bad",
+  "work_title": "Results and Prospects",
+  "chapter_number": 10,
+  "chapter_title": "A Workers’ Government in Russia and Socialism",
+  "chapter_slug": "10-a-workers-government-in-russia-and-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "793f068e-dd01-5e58-82d6-4d41b38be968",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2120,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1931/tpr/rp08.htm"
+    }
+  ]
+}

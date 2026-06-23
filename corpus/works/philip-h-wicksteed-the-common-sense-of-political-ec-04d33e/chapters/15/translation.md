@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 15
-chapter_title: "CHAPTER III: ON THE NATURE OF CURVES OF TOTAL SATISFACTION"
+chapter_title: "Chapter III: On the Nature of Curves of Total Satisfaction"
 chapter_slug: 15
 variant_id: "3a053df1-479f-5055-959e-a72a2a1ff8aa"
 content_type: translation

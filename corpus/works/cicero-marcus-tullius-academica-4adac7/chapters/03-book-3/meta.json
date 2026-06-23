@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-academica-4adac7",
+  "work_title": "Academica",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1aa53479-b086-5e6d-929b-abc3e301a632",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 104,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi045"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b0e263f9-16aa-566b-bf29-a3c3ad3c420c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 210,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

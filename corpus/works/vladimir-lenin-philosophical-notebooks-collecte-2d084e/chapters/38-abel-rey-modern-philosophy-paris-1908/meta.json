@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 38,
+  "chapter_title": "Abel Rey. Modern Philosophy. Paris, 1908",
+  "chapter_slug": "38-abel-rey-modern-philosophy-paris-1908",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "309ffc7f-8e9d-5a96-a5c0-1704d7c59038",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10810,
+      "paragraph_count": 301,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1908/remarks/ch02.htm"
+    }
+  ]
+}

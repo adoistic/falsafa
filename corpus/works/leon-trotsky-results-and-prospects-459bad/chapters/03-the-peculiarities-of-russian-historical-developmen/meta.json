@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-results-and-prospects-459bad",
+  "work_title": "Results and Prospects",
+  "chapter_number": 3,
+  "chapter_title": "The Peculiarities of Russian Historical Development",
+  "chapter_slug": "03-the-peculiarities-of-russian-historical-developmen",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c19776e2-63df-5c7b-a7a9-f33960fc9802",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2764,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1931/tpr/rp01.htm"
+    }
+  ]
+}

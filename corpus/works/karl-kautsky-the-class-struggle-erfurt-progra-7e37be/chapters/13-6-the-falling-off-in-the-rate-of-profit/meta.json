@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-class-struggle-erfurt-progra-7e37be",
+  "work_title": "The Class Struggle (Erfurt Program)",
+  "chapter_number": 13,
+  "chapter_title": "6. The Falling Off in the Rate of Profit.",
+  "chapter_slug": "13-6-the-falling-off-in-the-rate-of-profit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca6e428b-7dda-5f71-b14a-75c829f173a0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1152,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1892/erfurt/ch03.htm"
+    }
+  ]
+}

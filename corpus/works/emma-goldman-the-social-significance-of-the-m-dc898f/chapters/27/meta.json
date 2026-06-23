@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 27,
+  "chapter_title": "Part 10, Chapter 3: Justice",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "04c6ed87-3770-5905-9510-e6a78e281530",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1512,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-10-chapter-3.html"
+    }
+  ]
+}

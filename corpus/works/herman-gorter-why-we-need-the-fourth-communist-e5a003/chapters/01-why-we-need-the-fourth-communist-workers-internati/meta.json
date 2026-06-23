@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-why-we-need-the-fourth-communist-e5a003",
+  "work_title": "Why we need the Fourth Communist Workers' International",
+  "chapter_number": 1,
+  "chapter_title": "Why we need the Fourth Communist Workers' International",
+  "chapter_slug": "01-why-we-need-the-fourth-communist-workers-internati",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ada9d8a2-2741-55c2-a125-8b6db8ff41c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1440,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1921/fourth-international.htm"
+    }
+  ]
+}

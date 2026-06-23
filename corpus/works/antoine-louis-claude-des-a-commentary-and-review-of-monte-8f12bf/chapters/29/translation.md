@@ -4,7 +4,7 @@ work_slug: "antoine-louis-claude-des-a-commentary-and-review-of-monte-8f12bf"
 work_title: "A Commentary and Review of Montesquieu's Spirit of Laws"
 author_name: Antoine Louis Claude Destutt de Tracy
 chapter_number: 29
-chapter_title: Book XXXI Theory of Feudal Laws, Relative to the Revolutions of Monarchy.
+chapter_title: "Book XXIX.: On the Manner of Forming Laws, Chap. II.... Continuation of the same subject."
 chapter_slug: 29
 variant_id: "b7a06499-2301-54c3-8de8-f01753a24be6"
 content_type: translation
@@ -13,13 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 461
+word_count: 216
 source_url: "https://oll.libertyfund.org/titles/tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws"
 translator: Online Library of Liberty edition
 ---
 
-These two books are also purely historical. Notwithstanding all its faults, the Spirit of Laws, when it appeared, merited the attacks of all the enemies of information and humanity, and the support of all their friends.
+I do not understand what is contained in this first chapter; but I know that the spirit of a legislator should be justice. A faithful regard to the laws of nature is all that is properly law. In the regulation of the forms of proceeding, or in particular decisions, he should seek the best method of rendering them conformable to the laws and to truth. It is not by the spirit of moderation, but by the spirit of justice, that criminal laws should be mild, that civil laws should tend to equality, and the laws of the municipal administration to liberty and prosperity.
 
-The reasons which induced me to pass over the twenty-seventh and twenty-eighth hooks, will lead me to act in the same manner with this: I very much respect these enquiries.... they have, without doubt, their utility, but they have but a very remote connexion with the subject which occupies me; consequently, I shall not examine them. I shall only observe, without entering far into the discussion, that every sensible man is sorry to see Montesquieu (chap. 25, book XXX,) give as a strong reason against the Abbé Dubos, that it would be injurious to the great families of France, and for the three races of their kings, to allege that at the commencement of the monarchy there was only one order of'citizens; that there were none with exclusive privileges; because upon that supposition, there must have been a time when they were common families! We are no less disgusted at the emphasis with which he parts from this famous nobility, which he uniformly represents as constantly covered with dust, blood, and sweat, and that at the close he has rendered himself ridiculous by being so much infatuated with this pompous trash. There is also some other foolery which even contradicts these; as for example, when he says that.... at the time of Gontram the French armies were no longer dreadful but to their own country; and when he exclaims.... a singular thing, it (monarchy) was in its decline in the time of the grandson of Clovis. It would have been much better, in my opinion, to have said.... it was a still born child or at least very ill formed; but I shall leave all this for the reflections of the reader; consequently my task is finished.
+The two examples quoted are ill chosen. The simplicity of forms is not repugnant to security, whether personal or of property, for the preservation of which only all forms are established. M. Montesquieu seems to believe it, but he no where proves it; and the injustice caused by complicated forms, renders the contrary opinion at least probable.
 
-It would perhaps be proper in this place, to hazard a general judgment on the work of which we have just discussed the different parts. I shall, however, avoid it. I shall content myself with remarking that when the Spirit of Laws appeared, it was scarce ever attacked, but by men of a very despicable party and of evil dispositions; and that, notwithstanding its numerous faults, known, acknowleged, and avowed, it was always and constantly defended by all the true friends of information and humanity, even by those who had just personal motives of complaint against the author. At their head, Voltaire may be placed; who, on this occasion, as on all others of a similar nature, manifested his noble and generous character, as superior to the triflings of vanity, as his mind was to that of prejudice.
+The second example is preposterous: what is it to the science of composing laws, that Cecilius or Aulus Gellius uttered an absurdity?
+
+By the spirit of moderation, does not M. Montesquieu understand that spirit of uncertainty which alters by a hundred little irrelative motives, the principles of justice, which are in themselves invariable. See chap. 18.

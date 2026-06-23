@@ -4,7 +4,7 @@ work_slug: "etienne-de-la-boetie-the-discourse-of-voluntary-servi-b0ceb4"
 work_title: The Discourse of Voluntary Servitude
 author_name: Étienne de La Boétie
 chapter_number: 3
-chapter_title: PART III.
+chapter_title: Part III.
 chapter_slug: 03
 variant_id: "4c032533-2cc6-55d0-82b8-46ae922ad2ee"
 content_type: translation

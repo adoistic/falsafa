@@ -4,13 +4,17 @@ slug: "john-abercrombie-the-philosophy-of-the-moral-feel-1caca1"
 title: The Philosophy of the Moral Feelings
 author:
   name: John Abercrombie
-  biography: "John Abercrombie (1780-1844)."
+  biography: "Scottish physician of Edinburgh and writer on mental and moral philosophy in the common-sense tradition. The Philosophy of the Moral Feelings followed his work on the intellect and offered a popular harmony of empirical psychology with religious ethics."
+  birth_year: 1780
+  death_year: 1844
+  nationality: Scottish
 era: 19th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "The Philosophy of the Moral Feelings, by John Abercrombie (1780-1844), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1833
 total_logical_chapters: 4
 total_variant_entries: 4
 thothica_role: catalog

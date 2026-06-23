@@ -4,7 +4,7 @@ slug: "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
 title: "Nouveau traité d'économie: VOL II"
 author:
   name: Charles Dunoyer
-  biography: "Charles Dunoyer (1786–1862) was a French classical liberal economist, journalist, and advocate of industrial liberty. A collaborator of Charles Comte and an associate of Jean-Baptiste Say, he co-edited Le Censeur and Le Censeur Européen, pioneering the defense of press freedom and economic liberty during the Restoration period. Dunoyer’s major work, De la liberté du travail (1845), argued that social progress arises from the peaceful, productive activities of free individuals, contrasting the “industrial class” with the coercive “warrior class.” His thought influenced later liberal and libertarian economists, including Frédéric Bastiat, and helped lay foundations for the modern theory of spontaneous social order."
+  biography: "French economist and journalist, co-editor with Charles Comte of Le Censeur under the Restoration. The Nouveau traité d'économie sociale of 1830 recast political economy as the study of free human industry displacing the rule of the warrior class."
   birth_year: 1786
   death_year: 1862
   nationality: French
@@ -14,6 +14,7 @@ language: French
 language_direction: ltr
 description: 
 difficulty: Intermediate
+published_year: 1830
 total_logical_chapters: 7
 total_variant_entries: 14
 cover_image_url: "/objects/uploads/67528714-ebef-49b3-90d2-fa8abfe29c6e"

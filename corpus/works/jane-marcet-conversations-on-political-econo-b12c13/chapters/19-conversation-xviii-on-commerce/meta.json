@@ -1,0 +1,26 @@
+{
+  "work_slug": "jane-marcet-conversations-on-political-econo-b12c13",
+  "work_title": "Conversations on Political Economy",
+  "chapter_number": 19,
+  "chapter_title": "Conversation XVIII, On Commerce.",
+  "chapter_slug": "19-conversation-xviii-on-commerce",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3998dc6e-7d98-5893-9f21-4c0e7d031f02",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3931,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marcet-conversations-on-political-economy"
+    }
+  ]
+}

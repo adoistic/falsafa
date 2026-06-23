@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-terrorism-and-communism-a-reply--881d7e",
+  "work_title": "Terrorism and Communism: A Reply to Karl Kautsky",
+  "chapter_number": 4,
+  "chapter_title": "The Balance of Power",
+  "chapter_slug": "04-the-balance-of-power",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "597a21d7-2faa-568a-b84c-911e369164f1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2875,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1920/terrcomm/ch01.htm"
+    }
+  ]
+}

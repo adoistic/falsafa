@@ -4,7 +4,7 @@ work_slug: "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f"
 work_title: Sextus Empiricus and Greek Scepticism
 author_name: Mary Mills Patrick
 chapter_number: 8
-chapter_title: Chapter IX
+chapter_title: Chapter VIII
 chapter_slug: 08
 variant_id: "8e3b32a6-cf57-533c-8cf3-1a33586eabf8"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 84
+word_count: 164
 source_url: "https://www.gutenberg.org/ebooks/17556"
 translator: Project Gutenberg edition
 ---
 
-*Does the Sceptic Study Natural Science?*
+*Is Scepticism a Sect?*
 
-We reply similarly also to the question whether the Sceptic 18 should study natural science. For we do not study natural science in order to express ourselves with confidence regarding any of the dogmas that it teaches, but we take it up in order to be able to meet every argument by one of equal weight, and also for the sake of [Greek: ataraxia]. In the same way we study the logical and ethical part of so-called philosophy.
+We respond in a similar way if we are asked whether 16 Scepticism is a sect or not. If the word sect is defined as meaning a body of persons who hold dogmas which are in conformity with each other, and also with phenomena, and dogma means an assent to anything that is unknown, then we reply that we have no sect. If, however, one means by sect, a school 17 which follows a certain line of reasoning based on phenomena, and that reasoning shows how it is possible to apparently live rightly, not understanding "rightly" as referring to virtue only, but in a broader sense; if, also, it leads one to be able to suspend the judgment, then we reply that we have a sect. For we follow a certain kind of reasoning which is based upon phenomena, and which shows us how to live according to the habits, laws, and teachings of the fatherland, and our own feelings.

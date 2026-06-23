@@ -1,0 +1,59 @@
+---
+work_id: "d4f31150-0405-57a6-acea-f7a0267c9099"
+work_slug: "baron-dholbach-on-revelation-d4f311"
+work_title: On Revelation
+author_name: "Baron d'Holbach"
+chapter_number: 1
+chapter_title: On Revelation
+chapter_slug: "01-on-revelation"
+variant_id: "1c249d3d-f029-578a-9058-389fdaaf3e55"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1389
+source_url: "https://www.marxists.org/reference/archive/holbach/1750/on-revelation.htm"
+translator: Mitch Abidor
+---
+
+How, without the assistance of reason, to know if it is true that the Divinity spoke? But on the other hand, doesn’t the Christian religion proscribe reason? Doesn’t it prohibit its use in the examination of the marvelous dogmas it presents us? Does it not ceaselessly declaim against a profane reason that it accuses of insufficiency and which it often looks upon as a revolt against heaven?
+
+Before being able to judge divine revelation one must have a correct idea of the Divinity. But where can one find this idea if not in revelation itself, since our reason is too weak to raise itself to the knowledge of the Supreme Being?
+
+Thus, revelation itself will prove to us the authority of revelation. Despite this vicious circle, let us open the books that should enlighten us and which we should submit our reason to. Do we find there precise ideas concerning this God whose oracles they announce to us? Will we know what to think of His attributes? Is this God not a mass of contradictory qualities that constitute an inexplicable enigma?
+
+If is as supposed, this revelation emanates from God, how can we have confidence in the God of the Christians, who depicts Himself as unjust, false, hidden away, laying traps for man, amusing himself by seducing them, blinding them, giving signs to mislead them, spreading over them a spirit of vertigo and error.
+
+Thus, from the first steps, the man who wants to assure himself of Christian revelation is cast into mistrust and perplexity. He doesn’t know if the God who spoke to him doesn’t plan to fool him as he fooled so many others, as He has Himself confessed. In any case, isn’t he forced to think this when he sees the interminable disputes of his sacred guides, who were never able to agree on how to comprehend the precise oracles of a Divinity who explained Himself.
+
+The uncertainties and fears of he who in good faith examines the revelation adopted by Christians, must they not be redoubled when he sees that his God only claimed to make Himself know to a few favored beings, while He wanted to remain hidden from the rest of the mortals, to whom that revelation was equally necessary.? How can he know if he is among those to whom a partisan God didn’t want to make Himself known? Must his heart not be troubled at the sight of a God who only agrees to show Himself and announce His decrees to a comparatively small number of men?
+
+Is he not tempted to accuse this God of a dark malice upon seeing that, failing to manifest himself to so many nations, for so many centuries he has caused their necessary destruction? What idea could he form of a God who punishes millions of men for having ignored secret laws that He only secretly published in an obscure and unknown corner of Asia?
+
+And so even when the Christian consults the revealed books everything conspires to put him on guard against the God who speaks to him; everything inspires mistrust against His moral character; all becomes uncertainty. His God, in concert with the interpreters of His so-called wishes, seems to have formed the project of redoubling the darkness of his ignorance. In fact, in order to ease his doubts, they say to him that the revealed wishes are mysteries, that is, things inaccessible to the human spirit. In this case, what is the need to talk? Does a God only manifest Himself to men in order not to be understood? Is this conduct as ridiculous as it is senseless? To say that God only revealed Himself in order to announce His mysteries is the same as saying that that God revealed himself only so as to remain unknown, to hide his ways, to confuse our spirits, to increase our ignorance and uncertainties.
+
+A true revelation, which would emanate from a just and good God and which would be necessary to all men, should be clear enough to be understood by all of humanity.
+
+Is this the case for the revelation upon which Judaism and Christianity are founded?
+
+Euclid’s elements are intelligible to all these who care to understand; this work causes no disputes among geometricians. Is the Bible as clear, and do the revealed truths not cause any disputes among the theologians who announce them? By what fatality do the Scriptures, revealed by the Divinity Himself, still have need of commentary and demand enlightenment from on high to be believed and understood? Is it not astonishing that that which should serve to guide all men be understood by none of them? Is it not cruel that that which is most important to them should be the least known to them?
+
+All is mystery, shadow, uncertainty, matter for dispute in a religion announced by the Heavenly One to enlighten humanity. The Old and New Testaments contain essential truths for man, and yet no one can comprehend them, everyone understands them differently, and the theologians are never in agreement on their interpretation. Not content with the mysteries contained in the sacred books, the priests of Christianity have invented others from century to century that their disciples are forced to believe, though their founder and their God never spoke of them.
+
+No Christian can doubt the mysteries of the Trinity, the Incarnation, or the efficacy of the sacraments, and yet Jesus Christ never spoke of these things. In the Christian religion everything seems to have been abandoned to the imagination, the whims, the arbitrary decisions of its ministers, who arrogate to themselves the right to invent mysteries and articles of faith in keeping with their monetary interests. It is thus that this Revelation perpetuates itself by means of the church, which claims to be inspired by the Divinity and which, far from enlightening the spirits of its children, does nothing but confound them and plunge them in a sea of uncertainty.
+
+Such are the affects of the revelation that serves as the basis for Christianity, the reality of which it is not permitted to doubt. God, we are told, spoke to men; but when did He speak? He spoke thousands of years ago to selected men who he made His organs; but how can we be sure that this God spoke if not by relying on the testimony of the very men who say they received his orders?
+
+These interpreters of the divine will are thus men; but are men not subject to fooling themselves and others? How then can we know if we can trust in the testimony given by these organs of heaven about themselves? How can we know if they weren’t duped by their lively imagination or an illusion? How can we today discover if it is true that Moses conversed with his God and that he received from Him thousands of years ago the laws of the Jewish people? What was this Moses’ temperament? Was he phlegmatic or enthusiastic? Sincere or dishonest? Ambitious or disinterested, truthful or a liar?
+
+Can we rely on the testimony of a man who, after having performed so many miracles, was not able to lead his people away from idolatry and who, having passed 47,000 Israelites by the sword h as the audacity to declare that he is the gentlest of men? Are the books attributed to this Moses, which report on so many events that occurred after his death, authentic?
+
+Finally, what proof do we have of his mission if not the testimony of 600,000 crass and superstitious, ignorant and credulous Israelites, who were perhaps the dupes of a ferocious legislator ever ready to exterminate them, or who never knew of what was to be written afterwards about this famous legislator?
+
+What proof does the Christian religion give us of Jesus Christ’s mission? Do we know his character and his temperament?
+
+What degree of faith can we put in the testimony of his disciples who, by their own admission, were crass men of no learning, consequently susceptible to being taken in by the artifices of an artful imposter?
+
+Would the testimony of the most learned people of Jerusalem not have been of greater weight for us than that that of a few ignorant men who are ordinarily the dupes of those who want to fool them?

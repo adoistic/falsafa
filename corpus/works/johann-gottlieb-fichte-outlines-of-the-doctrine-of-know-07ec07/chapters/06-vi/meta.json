@@ -1,0 +1,26 @@
+{
+  "work_slug": "johann-gottlieb-fichte-outlines-of-the-doctrine-of-know-07ec07",
+  "work_title": "Outlines of the Doctrine of Knowledge",
+  "chapter_number": 6,
+  "chapter_title": "VI.",
+  "chapter_slug": "06-vi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b36d6a43-0a79-538e-ba09-f00e4807443c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 119,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/philosophy/works/ge/fichte.htm"
+    }
+  ]
+}

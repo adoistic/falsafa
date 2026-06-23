@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-one-step-forward-two-steps-back--9a5c6a",
+  "work_title": "One Step Forward, Two Steps Back (The Crisis in Our Party)",
+  "chapter_number": 14,
+  "chapter_title": "M. The Elections. End of the Congress",
+  "chapter_slug": "14-m-the-elections-end-of-the-congress",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d7f0cd5-e3b3-5485-a684-59e541b147c9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9895,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1904/onestep/m.htm"
+    }
+  ]
+}

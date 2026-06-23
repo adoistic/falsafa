@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-organizational-questions-of-the--369adb",
+  "work_title": "Organizational Questions of the Russian Social Democracy [Leninism or Marxism?]",
+  "chapter_number": 2,
+  "chapter_title": "Section Two",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dfe19743-4468-5bc2-8cc9-f1b0aee16531",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3218,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1904/questions-rsd/ch02.htm"
+    }
+  ]
+}

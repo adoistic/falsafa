@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-the-law-of-value-and-the-dearnes-2c1045",
+  "work_title": "The Law of Value and the Dearness of Commodities",
+  "chapter_number": 1,
+  "chapter_title": "The Law of Value and the Dearness of Commodities",
+  "chapter_slug": "01-the-law-of-value-and-the-dearness-of-commodities",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37e0190a-e41d-5374-bbd5-aa03fa811f64",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2049,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1908/xx/value.htm"
+    }
+  ]
+}

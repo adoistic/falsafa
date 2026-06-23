@@ -1,0 +1,27 @@
+---
+work_id: "d5db7e6c-57b5-5a07-93cb-b4e84dd84065"
+work_slug: "georg-wilhelm-friedrich--lectures-on-the-philosophy-of-re-d5db7e"
+work_title: Lectures on the Philosophy of Religion (Introduction and Absolute Religion, final section)
+author_name: Georg Wilhelm Friedrich Hegel
+chapter_number: 13
+chapter_title: I. The Moment of Universality.
+chapter_slug: "13-i-the-moment-of-universality"
+variant_id: "3e1176e9-04a1-5491-bbc0-2e37300b6157"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 524
+source_url: "https://www.marxists.org/reference/archive/hegel/works/re/partc.htm"
+translator: E. B. Speirs and J. Burdon Sanderson
+---
+
+In the notion or conception of religion the purely universal, again, does indeed take the first place; that is, the moment of thought in its complete universality.
+
+It is not this or that that is thought, but Thought thinks itself. The object is the Universal, which, as active, is Thought. As the act of rising-up to the True, religion is a departing from sensuous, finite objects. If this becomes merely an advance to all “Other,” it is the false progressive process ad infinitum, and is that kind of talk which does not act out of thought. Thought, however, is a rising up from the limited to the absolutely Universal, and religion is only through thought, and in thought. God is not the highest emotion, but the highest Thought. Although He is lowered down to popular conception, yet the content of this conception belongs to the realm of thought. The opinion that thought is injurious to religion, and that the more thought is abandoned the more secure the position of religion is, is the maddest error of our time. This misunderstanding originates in a fundamental misconception of the higher spiritual relations. Thus in regard to Right, good-will for itself (or as an independent motive) is taken as something which stands in contrast to intelligence, and men are given the more credit for true good-will the less they think. Right and morality, on the contrary, consist in this alone, that I am a thinking being; that is to say, in the fact that I do not look upon my freedom as that of my empirical personality, which belongs to me as this individual, and in which I might subjugate my neighbour by means of stratagem or force, but in my regarding freedom as something that has its being in and for itself, or exists on its own account, that is, as something Universal.
+
+If we now say that religion has the moment of thought in its complete Universality in itself, and that the Unlimited Universal is supreme absolute Thought, we do not as yet make the distinction here between subjective and objective Thought. The Universal is object, and is thought pure and simple, but not as yet thought developed and made determinate in itself. All distinctions are as yet absent, and exist potentially only. In this ether of thought all that is finite has passed away, everything has disappeared, while at the same time everything is included in it. But this element of the Universal has not as yet taken those more explicit forms. Out of this liquid element, and in this transparency, nothing has as yet fashioned itself into distinct shape.
+
+Sow the further advance consists in this, that this Universal determines itself for itself, and this self-determination constitutes the development of the Idea of God. In the sphere of Universality the Idea itself is, to begin with, the material of determination, and the progress is revealed in divine figures, but as yet the second element — form — is retained in the divine Idea, which is still in its substantiality, and under the character of eternity it remains in the bosom of the Universal.

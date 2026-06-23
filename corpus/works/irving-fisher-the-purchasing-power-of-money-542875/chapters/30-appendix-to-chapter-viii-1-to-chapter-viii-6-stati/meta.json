@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 30,
+  "chapter_title": "Appendix to Chapter VIII, § 1 (to Chapter VIII, § 6) Statistics of Turnover at Yale University",
+  "chapter_slug": "30-appendix-to-chapter-viii-1-to-chapter-viii-6-stati",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0aa811b3-a557-5263-9383-d6801ba6f056",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 983,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

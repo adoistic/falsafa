@@ -4,13 +4,17 @@ slug: "peter-coffey-ontology-or-the-theory-of-being-bd2c2d"
 title: Ontology, or the Theory of Being
 author:
   name: Peter Coffey
-  biography: "Peter Coffey (1876-1943)."
+  biography: "Irish neo-scholastic philosopher and Catholic priest, professor at Maynooth. His textbooks systematized Thomist logic and metaphysics for English-speaking seminary and university teaching."
+  birth_year: 1876
+  death_year: 1943
+  nationality: Irish
 era: 20th Century
 genre: Metaphysics
 language: English
 language_direction: ltr
 description: "Ontology, or the Theory of Being, by Peter Coffey (1876-1943), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1914
 total_logical_chapters: 15
 total_variant_entries: 15
 thothica_role: catalog

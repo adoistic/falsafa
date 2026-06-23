@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 42,
+  "chapter_title": "Conclusion to First Volume.",
+  "chapter_slug": "42-conclusion-to-first-volume",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "832080f9-b411-5890-87d1-633b6b7f8663",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2269,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/conclusion.htm"
+    }
+  ]
+}

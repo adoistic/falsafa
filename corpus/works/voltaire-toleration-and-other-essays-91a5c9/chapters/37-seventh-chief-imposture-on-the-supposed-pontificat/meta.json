@@ -1,0 +1,26 @@
+{
+  "work_slug": "voltaire-toleration-and-other-essays-91a5c9",
+  "work_title": "Toleration and Other Essays",
+  "chapter_number": 37,
+  "chapter_title": "Seventh Chief Imposture On the Supposed Pontificate of Simon Barjona, Called Peter",
+  "chapter_slug": "37-seventh-chief-imposture-on-the-supposed-pontificat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ee458083-f231-52ad-a3e3-4bd717592d0c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 539,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+    }
+  ]
+}

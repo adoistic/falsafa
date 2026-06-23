@@ -1,0 +1,26 @@
+{
+  "work_slug": "julien-offray-de-la-mett-man-a-machine-7668ef",
+  "work_title": "Man a Machine",
+  "chapter_number": 1,
+  "chapter_title": "Man a Machine",
+  "chapter_slug": "01-man-a-machine",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd61ff56-6702-59b3-bd07-7dcd9bbdd10e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 19656,
+      "paragraph_count": 155,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/la-mettrie/1748/man-machine.htm"
+    }
+  ]
+}

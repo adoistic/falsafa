@@ -1,0 +1,105 @@
+---
+work_id: "8f12bf9f-bf64-50d9-a672-ab8eaf85ff96"
+work_slug: "antoine-louis-claude-des-a-commentary-and-review-of-monte-8f12bf"
+work_title: "A Commentary and Review of Montesquieu's Spirit of Laws"
+author_name: Antoine Louis Claude Destutt de Tracy
+chapter_number: 45
+chapter_title: "Letter II.: Helvetius to A. M. Saurin."
+chapter_slug: 45
+variant_id: "c161f651-8c76-5842-8041-7b90bd4c4063"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2931
+source_url: "https://oll.libertyfund.org/titles/tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws"
+translator: Online Library of Liberty edition
+---
+
+As we had agreed, my dear Saurin, I have written to the president, with regard to the impression which his manuscript made upon you, as well as upon myself. At the same time that I have freely explained my opinions, I have conveyed them in language expressive of interest and friendship. Do not be uneasy, our remarks have not hurt him; he likes to witness in his friends that frankness, which distinguishes him among them; he freely promotes discussion, answers by sallies of wit, and rarely alters his opinion. I never fancied, when delivering our opinions, that they would change his; but we have not been able to say
+
+Whatever it cost him, he should be sincere with his friends. When the light of truth shall shine forth and displace self love, he will find that they cannot be reproached with having been less sincere than the public.
+
+I send you his answer, since you cannot come and join me in the country. You will find it such as I had foreseen. You will perceive that he had need of method to rally his ideas, and that being unwilling to lose all that he has thought, written, or imagined, since his youth, and according to the various dispositions in which he found himself, he has laid hold of that which least conflicts with received opinions. With that sort of spirit which distinguished Montagne, he adhered to the prejudices of the lawyers and noblesse.... this is the source of all his errors. His fine genius had elevated him in his youth, to the production of the Persian Letters; now advanced in years, he seems to repent having given envy that pretext for thwarting his ambition. He is more solicitous to uphold received ideas, than to inculcate others more novel and more useful. His manner is dazzling. It must have required the greatest force of genius to form such a mixture of truths and prejudices. Most of our philosophers may admire it as a chef-d'oeuvre. These things are new to all minds, and the less the number of opponents or good judges of his work, the more I fear that he will for a long time lead us astray.
+
+But what the duce would he have us to understand by his treatise upon fiefs? Is it such an affair as to require an enlightened mind to unravel it? What legislation can result from a chaos of barbarian laws, established by force, reverenced only by ignorance, and which will forever be repugnant to a good order of things? Without the conquerors, who have destroyed every thing, what will be our situation with all these motley institutions? Ought we then to inherit all the errors that have been accumulating since the origin of the human race? They would still govern us; and having become the property of the strongest, or of the basest, it would require a more terrible remedy than conquest to release ourselves from them. It is nevertheless, the only remedy, if the voice of wise men is made to mingle with the interest of the powerful, and aid in erecting unnatural usurpations into legitimate properties. And what sort of property is that possessed by a few, injurious to all, even to those possessing it; and which corrupts by producing arrogance and vanity? In truth, if man is happy only when in the practice of the virtues, and in possession of the intelligence which confirms good principles; what virtues and what talents are we to expect from an order of men who engross every thing, and who claim consequence in society, by no other title than that of their birth? The industry of society is for no other end, but for them; all places of honor and profit devolve upon them; the sovereign governs, but through them, and for them alone draws subsidies from his subjects. Is not this totally overturning all ideas of sense and justice? This is the abominable order which misleads so many men of fine genius, and which totally perverts the principles of public and private morality.
+
+L'Esprit de corps assails us on all sides, under the name of established orders: it is a power erected at the expense of the great mass of society. It is by these hereditary usurpations we are ruled. Under the name of the nation, there exist only corporations of individuals, and not citizens who merit that title. Even philosophers wish to form corporate bodies: but if they flatter private interests at the expense of the general welfare, I predict that their reign will not be long: for the knowlege which they circulate, will sooner or later disperse the darkness in which they wish to conceal prejudices; and our friend Montesquieu, deprived of his titles of wise man and legislator, will become no more than the lawyer, the nobleman, and the fine genius. Therefore am I afflicted for him and for humanity.
+
+This letter, however, in my opinion, appears to contain many excellent things, as well as that to Saurin, and the notes of the same author on the Spirit of Laws. To the abbé de la Roche, we are indebted for having preserved the ideas of so worthy a man, on subjects so important, and for having published them in the edition which he has given the world of Montesquieu's works, printed by P. Didot, Paris. These letters are translated for, and inserted at the end of this work.
+
+We might also say public and private, not only because some are founded in the general interest, and others in particular interests, but because some in all their deliberations affect publicity.... others mystery.
+
+The following are the expressions of the man so often quoted as the great partisan of monarchy.
+
+"Ambition in idleness, meanness in pride, the desire of becoming rich without industry; aversion from truth; flattery, treason, perfidy; infidelity to engagements; contempt for the duties of a citizen, apprehension from virtue in the prince, and hope from his imbecility; above all, the invariable ridicule thrown upon virtue; constitute I believe the characteristics of the greater number of courtiers in all places and times: now it is very improbable that the greater part of the leaders of a state should be dishonest, and those under them honest; that those should be deceivers and these consent to be dupes.
+
+"If among the people there should unfortunately be some honest man, Cardinal Richelieu, in his political testament, intimates that a monarch ought to be cautious of him; so certain it is that virtue is not the spring of this government."
+
+After this it is not easy to conceive what kind of honor that is, which is the spring of action in monarchies.
+
+Particularly the History of Greece. The democracies of Greece, so much boasted of, never existed by their own internal power, but through the protection of a confederation by which they were united; yet their duration was short; and besides, they were actually aristocracies in relation to the great mass of the population, and among them was a prodigious number of slaves who had no share in the government.
+
+This is the place, to recall to mind what we have said of the laws of nature and of positive laws; these last should never be contrary to the first. Had Montesquieu, as we have done, commenced with analysing the word law, instead of giving an obscure definition, he might have saved himself much labor and avoided many pernicious mistakes.
+
+In these few words are comprehended the whole of the thirteenth chapter; followed, however, by comments sufficiently ample, on the same subject, in the four following chapters.
+
+The suppression of feodal rights and clerical tythes, part of which remained to the farmer, and part went to the coffers of the state, has tended very much to encrease the industry of the agriculturist, and enable government to dispense with various vexatious taxes; and these formed but a small proportion of the revenues of the class that consumed without usefulness.
+
+The only idle persons who may be approved of, are those who occupy their time in study, and particularly in the study of man: these only are specified, and for good reasons; they shew how far others are admissable, and they are not those who have the strongest claim.
+
+Voltaire has remarked, in his Commentaries on the Spirit of Laws, that the history of those singular marriages is extracted from Stobæus, and that Stobæus speaks of the Sunnites, a people of Scythia, and not of the Samnites.... a matter of little importance.
+
+This is the true reason why the laws of nations are not positive, though they are founded on the eternal laws of nature.... See the definition of the word Law in the first book.
+
+It is thus, that the convention of 1787, which completed the federative constitution of America, was held; and which definitely fixed its form, eleven years and seventy-five days after the declaration of independence, and nine years and seventy days after the signature of the first act of confederation.
+
+It is to be understood of the ordinary laws, and not of constitutions; we have already noticed several of the latter kind.
+
+This office would moreover have the advantage, that the ridiculous idea of rendering its functions hereditary, would never take place.... the absurdity would then be too evident.
+
+Did the author know any thing of the old Pennsylvania constitution and its council of censors?
+
+It must be moreover observed, that the manner of nominating and replacing the French senators, was very different from that which I have proposed. It was vicious in its principle, in their constitution of the year VIII. (1799,) and afterwards rendered more so by new attributes and illegal dispositions of these same senators, which they call the constitution of their empire.
+
+The first declaration of the rights of man, that has been proposed in Europe, was presented to the constituent assembly of France, by general Lafayette, on the 11th July, 1789. I think it is the best ever made, for it consists in the enunciation of a small number of principles perfectly sound. It is remarkable that the man who so powerfully contributed to establish the rights of man in the western hemisphere, was the first who proclaimed them in the old world. At that period it was a declaration of war against oppression.
+
+It is this same spirit of timid precaution, that afterwards caused a declaration of duties, to be added to the declaration of rights, as if it were not the same thing to say.... "I am possessed of this right, or respect in me this right;" this repetition is very silly.
+
+To give a proper account of their effects, I believe the best method is to class them.
+
+I cannot agree with some French economists, that taxes should not be levied on houses, or at least should only be in proportion to the net produce of the cultivation of the ground they occupy, all the rest, according to them, being only the interest of the capital employed in building which they say cannot be taxed.
+
+This opinion is a consequence of that which assumes that the cultivation of land is the only productive labor, that taxes can be levied on land, only because there is in the product of the earth a part purely gratuitous and entirely due to nature.... according to these writers, this is the only part which it is reasonable and lawful to subject to taxation.
+
+I hope presently to prove that all this is incorrect.... yet I shall not oppose this tax, nor any of those which follow, though they are reprobated in common upon the principles of this system.
+
+In favor of these possessions, learned writers have established the very delicate maxim, that when an individual takes possession of a tract of land by right of first occupancy, or through a legal title, his right to the ground does not exceed a certain depth! From this luminous principle it results, that the interior of the earth belongs to the prince... wherever it is worth more than the superficies!
+
+Montesquieu gives credit to the emperor Anastatius, for having conceived the happy idea of taxing the air we breathe, pro haustu aeris; we must not, however, flatter this great politician too much, he does not appear to have succeeded better than any one else, in effectually rendering himself master of this merchandize; besides, that the air here appears rather as a motive, than a means; and haustu aeris, is to be taken in a metaphorical sense, for the happiness of breathing and living under the empire of so great a prince, which of course, can never be too well paid for, though capitation fulfils this object.
+
+Moral enjoyments always to be understood; and for the most part, the result of a happy order of society is, that virtue becomes first an effect, and then a cause.
+
+Agriculture is particularly a chemical art: a farmer causes the grain of which he is in want, to grow, as a chemist makes the inflammable gas which he requires for his uses. The farmer ploughs, harrows, manures, sows, and if necessary, waters it, to arrange the elements which are to act in contact with each other, in a convenient manner. The chemist disposes his apparatus, his; acid of manganese, and his sulphuric acid, with the same view. After which, both leave the different affinities to act, and both obtain their object: if that which they produce has more pecuniary value, it is an incontestible proof of its being more useful than what they employed and consumed during the operation.
+
+It is a very absurd mode of expression to say when we part with our money a certain time in consideration of a certain benefit called interest, that we have lent it; for in this case we hire or rent it and we only really lend it when we permit any one to have the benefit of it for a certain time without any recompense. There are between these two actions the same difference as between giving and selling. This inaccuracy of language has caused nonsense to be both spoken of and believed.... where such nonsense has been caused by this inaccuracy of expression, for there is always an action and reaction; to form a science, is to form the language thereof; and to form the language of a science, is to form the science itself.
+
+See the admirable chapter 2, of the first book of the treatise of wealth. I regret, in remarking this fact, that he has not more exactly examined the cause. The author of the theory of moral sentiments, should not have considered as useless, a scrutiny of the operations of intelligence: his success and his faults, should alike contribute to make him think the contrary.
+
+We have already said, book VII.... that there is no luxury on the part of a Jeweller who expends a great deal in precious stones; it is on those who ornament themselves with these trinkets, that the luxury falls.
+
+Let it not be forgotten, that productive labor, is that of which the value is greater than the things consumed by those occupied in the labor. The labor of soldiers, governors, lawyers, physicians, may be called useful, but not productive, because they produce nothing, since there remains nothing. That of a farmer or manufacturer, who expends ten thousand dollars, and produces only five thousand, is likewise not productive, and would not be useful, unless by way of experiment.
+
+It were to be wished, that those rectors of certain religious communities, who would command me to hire my money to his tenant for half the price he offers me, was obliged to rent the lands of his benefice to the same tenant as a farm, for the half of the price he is willing to give; for the comparison is perfectly equal.... his farm is a capital, the same as money, with which he may buy my money; as with my money I may buy his farm; and it is of very little consequence to the farmer whether it is the field or the money he rents for one half.
+
+Letter 24 August, 1741.
+
+It is, in a word, placing out of the pale of law, all those who pretend to be above the common rule. The miserable, says Voltaire, and often the best men, flatter the powerful. It is true, that to encourage powerful men, Voltaire has often praised to excess the good they have done; but he has never applauded their bad actions nor their wicked sentiments; nor even their bad maxims: but he has frequently censured them very severely: could any of his vile slanderers justly boast of having done as much?
+
+Religion is too constantly employed for political purposes.... or as a particular kind of merchandize.... in all such cases it should have another denomination: otherwise, religion and morals will be considered as distinct things; this renders it necessary to repress the unceasing efforts to subject civil society to the tenets of some one sect, for we have not yet heard of a sect that was not desirous of ruling or restraining others.... we have heard of too many who tormented and destroyed their fellow men, for only holding an opinion which they could not avoid holding.—Edit. [This footnote appears to be an editorial remark of Thomas Jefferson's—Econlib Edit.]
+
+See page 261, of this volume.
+
+We may perceive that at the time this was written, Condorcet yet adhered to the opinions of the most exclusive economists.

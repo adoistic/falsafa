@@ -1,0 +1,26 @@
+{
+  "work_slug": "m-n-roy-socialism-and-the-empire-990056",
+  "work_title": "Socialism and the Empire",
+  "chapter_number": 1,
+  "chapter_title": "Socialism and the Empire",
+  "chapter_slug": "01-socialism-and-the-empire",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fad1c281-990c-5578-8b12-0ef4e6d7aa7d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3798,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/roy/1928/02/x01.htm"
+    }
+  ]
+}

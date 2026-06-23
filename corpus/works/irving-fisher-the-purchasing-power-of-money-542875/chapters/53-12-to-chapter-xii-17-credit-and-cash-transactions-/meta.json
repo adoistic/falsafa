@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 53,
+  "chapter_title": "§ 12 (to Chapter XII, § 17) Credit and Cash Transactions. Comparison with Kinley's Estimates",
+  "chapter_slug": "53-12-to-chapter-xii-17-credit-and-cash-transactions-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b5ee536-9755-5857-84de-026490279d0a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 333,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

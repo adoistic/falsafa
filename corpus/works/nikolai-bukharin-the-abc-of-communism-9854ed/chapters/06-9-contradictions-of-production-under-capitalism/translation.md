@@ -1,0 +1,29 @@
+---
+work_id: "9854ed81-f7ef-52b6-99c9-8ce949767ef2"
+work_slug: "nikolai-bukharin-the-abc-of-communism-9854ed"
+work_title: The ABC of Communism
+author_name: Nikolai Bukharin
+chapter_number: 6
+chapter_title: § 9 Contradictions of production under capitalism
+chapter_slug: "06-9-contradictions-of-production-under-capitalism"
+variant_id: "b2308901-653e-53ad-a545-2243e784b4c6"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 568
+source_url: "https://www.marxists.org/archive/bukharin/works/1920/abc/01.htm"
+translator: Marxists Internet Archive edition
+---
+
+There are, therefore, three characteristics of the capitalist system, namely: production for the market (commodity production); the monopolization of the means of production by the capitalist class; wage labour, that is, labour founded upon the sale of labour power.
+
+All these characteristics are associated with the question, What are the mutual relationships between the individuals engaged in production and distribution? When we say 'commodity production' or 'production for the market', what does the phrase mean? It means that individuals work for one another, but that each produces for the market in his own enterprise, not knowing beforehand who will buy his wares. Let us suppose that there are an artisan named John and a peasant named George. John the artisan, a bootmaker, takes boots to the market and sells them to George, and with the money which George pays for them he buys bread from George. When John went to the market he did not know that he would meet George there, nor did George know that he would meet John; both men simply went to the market. When John bought the bread and George bought the boots, the result was that George had been working for John and John had been working for George, although the fact was not immediately obvious. The turmoil of the market place conceals from people that in actual fact they work for one another and cannot live without one another. In a commodity economy, people work for one another, but they do so in an unorganized manner and independently of each other, not knowing how necessary they are to one another. Consequently, in commodity production, individuals stand in definite relationships one to another, and what we are here concerned with is these mutual relationships.
+
+In like manner, when we speak of 'the monopolization of the means of production' or of 'wage labour', we are really talking about the relationships between individuals. What, in fact, does 'monopolization' signify? It signifies that persons work under such conditions that those who labour do so with means of production belonging to others; it signifies that the workers are subordinated to the owners of these means of production, namely to the capitalists. In a word, here also we are concerned with the question, What are the mutual relationships between individuals when they produce goods? The mutual relationships between individuals during the process of production are termed the relationships of production.
+
+It is easy to see that the relationships of production have not always been the same. Very long ago, when people lived in small communities, they worked together in comradely fashion (hunting, fishing, gathering fruit and roots), and they divided everything among themselves. Here we have one kind of relationships of production. In the days of slavery, the relationships of production were of another kind. Under capitalism there is a third kind of relationship. There are, therefore, various kinds of relationships of production. We speak of these kinds of relationships of production as the economic systems (types) of society or as the methods of production.
+
+'CAPITALIST RELATIONSHIPS OF PRODUCTION', OR IN OTHERS WORDS 'A CAPITALIST TYPE OF SOCIETY', OR 'THE CAPITALIST METHOD OF PRODUCTION' -- THESE TERMS EXPRESS THE RELATIONSHIPS BETWEEN INDIVIDUALS IN A COMMODITY ECONOMY CHARACTERIZED BY THE MONOPOLY OWNERSHIP OF THE MEANS OF PRODUCTION ON THE PART OF A SMALL GROUP OF CAPITALISTS, AND CHARACTERIZED BY WAGE LABOUR ON THE PART OF THE WORKING CLASS.

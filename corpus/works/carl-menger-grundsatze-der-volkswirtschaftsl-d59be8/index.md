@@ -4,13 +4,17 @@ slug: "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8"
 title: Grundsätze der Volkswirtschaftslehre
 author:
   name: Carl Menger
-  biography: Carl Menger (1840–1921).
+  biography: Austrian economist, founder of the Vienna school and tutor in economics to Crown Prince Rudolf. The Grundsätze der Volkswirtschaftslehre of 1871 derived value from marginal utility and opened the Methodenstreit with the German historical school.
+  birth_year: 1840
+  death_year: 1921
+  nationality: Austrian
 era: 19th Century
 genre: Economics
 language: English
 language_direction: ltr
 description: "Grundsätze der Volkswirtschaftslehre, by Carl Menger (1840–1921), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1871
 total_logical_chapters: 52
 total_variant_entries: 52
 thothica_role: catalog

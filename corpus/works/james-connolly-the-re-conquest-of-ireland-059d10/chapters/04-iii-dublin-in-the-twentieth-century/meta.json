@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-the-re-conquest-of-ireland-059d10",
+  "work_title": "The Re-Conquest of Ireland",
+  "chapter_number": 4,
+  "chapter_title": "III. Dublin in the Twentieth Century",
+  "chapter_slug": "04-iii-dublin-in-the-twentieth-century",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae1cceac-64f5-5e5f-ba76-29a986ce78a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3954,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1915/rcoi/chap03.htm"
+    }
+  ]
+}

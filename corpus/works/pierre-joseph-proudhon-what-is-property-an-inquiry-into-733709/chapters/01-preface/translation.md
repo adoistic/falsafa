@@ -1,0 +1,125 @@
+---
+work_id: "73370992-5f04-5c8c-a2bf-ed531993835d"
+work_slug: "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709"
+work_title: "What is Property? An Inquiry into the Principle of Right and of Government"
+author_name: "Pierre-Joseph Proudhon"
+chapter_number: 1
+chapter_title: Preface
+chapter_slug: "01-preface"
+variant_id: "bbb96215-6c2b-568f-8738-948215492648"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 3724
+source_url: "https://www.marxists.org/reference/subject/economics/proudhon/property/preface.htm"
+translator: Benjamin R. Tucker
+---
+
+“To the Members of the Academy of Besançon.
+
+“Paris, June 30, 1840.
+
+“GENTLEMEN, — In the course of your debate of the 9th of May, 1833, in regard to the triennial pension established by Madame Suard, you expressed the following wish: —
+
+“ ‘The Academy requests the titulary to present it annually, during the first fortnight in July, with a succinct and logical statement of the various studies which he has pursued during the year which has just expired.’
+
+“I now propose, gentlemen, to discharge this duty.
+
+“When I solicited your votes, I boldly avowed my intention to bend my efforts to the discovery of some means of ameliorating the physical, moral, and intellectual condition of the mere numerous and poorer classes. This idea, foreign as it may have seemed to the object of my candidacy, you received favorably; and, by the precious distinction with which it has been your pleasure to honor me, you changed this formal offer into an inviolable and sacred obligation. Thenceforth I understood with how worthy and honorable a society I had to deal: my regard for its enlightenment, my recognition of its benefits, my enthusiasm for its glory, were unbounded.
+
+“Convinced at once that, in order to break loose from the beaten paths of opinions and systems, it was necessary to proceed in my study of man and society by scientific methods, and in a rigorous manner, I devoted one year to philology and grammar; linguistics, or the natural history of speech, being, of all the sciences, that which was best suited to the character of my mind, seemed to bear the closest relation to the researches which I was about to commence. A treatise, written at this period upon one of the most interesting questions of comparative grammar, if it did not reveal the astonishing success, at least bore witness to the thoroughness, of my labors.
+
+“Since that time, metaphysics and moral science have been my only studies; my perception of the fact that these sciences, though badly defined as to their object and not confined to their sphere, are, like the natural sciences, susceptible of demonstration and certainty, has already rewarded my efforts.
+
+“But, gentlemen, of all the masters whom I have followed, to none do I owe so much as to you. Your co-operation, your programmes, your instructions, in agreement with my secret wishes and most cherished hopes, have at no time failed to enlighten me and to point out my road; this memoir on property is the child of your thought.
+
+“In 1838, the Academy of Besançon proposed the following question: To what causes must we attribute the continually increasing number of suicides, and what are the proper means for arresting the effects of this moral contagion?
+
+“Thereby it asked, in less general terms, what was the cause of the social evil, and what was its remedy? You admitted that yourselves, gentlemen when your committee reported that the competitors had enumerated with exactness the immediate and particular causes of suicide, as well as the means of preventing each of them; but that from this enumeration, chronicled with more or less skill, no positive information had been gained, either as to the primary cause of the evil, or as to its remedy.
+
+“In 1839, your programme, always original and varied in its academical expression, became more exact. The investigations of 1838 had pointed out, as the causes or rather as the symptoms of the social malady, the neglect of the principles of religion and morality, the desire for wealth, the passion for enjoyment, and political disturbances. All these data were embodied by you in a single proposition: The utility of the celebration of Sunday as regards hygiene, morality, and social and political relations.
+
+“In a Christian tongue you asked, gentlemen, what was the true system of society. A competitor dared to maintain, and believed that he had proved, that the institution of a day of rest at weekly intervals is inseparably bound up with a political system based on the equality of conditions; that without equality this institution is an anomaly and an impossibility: that equality alone can revive this ancient and mysterious keeping of the seventh day. This argument did not meet with your approbation, since, without denying the relation pointed out by the competitor, you judged, and rightly gentlemen, that the principle of equality of conditions not being demonstrated, the ideas of the author were nothing more than hypotheses.
+
+“Finally, gentlemen, this fundamental principle of equality you presented for competition in the following terms: The economical and moral consequences in France up to the present time, and those which seem likely to appear in future, of the law concerning the equal division of hereditary property between the children.
+
+“Instead of confining one to common places without breadth or significance, it seems to me that your question should be developed as follows: —
+
+“If the law has been able to render the right of heredity common to all the children of one father, can it not render it equal for all his grandchildren and great-grandchildren?
+
+“If the law no longer heeds the age of any member of the family, can it not, by the right of heredity, cease to heed it in the race, in the tribe, in the nation?
+
+“Can equality, by the right of succession, be preserved between citizens, as well as between cousins and brothers? In a word, can the principle of succession become a principle of equality?
+
+“To sum up all these ideas in one inclusive question: What is the principle of heredity? What are the foundations of inequality? What is property?
+
+“Such, gentlemen, is the object of the memoir that I offer you to day.
+
+“If I have rightly grasped the object of your thought; if I succeed in bringing to light a truth which is indisputable, but, from causes which I am bold enough to claim to have explained, has always been misunderstood; if by an infallible method of investigation, I establish the dogma of equality of conditions; if I determine the principle of civil law, the essence of justice, and the form of society; if I annihilate property forever, — to you, gentlemen, will redound all the glory, for it is to your aid and your inspiration that I owe it.
+
+“My purpose in this work is the application of method to the problems of philosophy; every other intention is foreign to and even abusive of it.
+
+“I have spoken lightly of jurisprudence: I had the right; but I should be unjust did I not distinguish between this pretended science and the men who practise it. Devoted to studies both laborious and severe, entitled in all respects to the esteem of their fellow-citizens by their knowledge and eloquence our legists deserve but one reproach, that of an excessive deference to arbitrary laws.
+
+“I have been pitiless in my criticism of the economists: for them I confess that, in general, I have no liking. The arrogance and the emptiness of their writings, their impertinent pride and their unwarranted blunders, have disgusted me. Whoever, knowing them, pardons them, may read them.
+
+“I have severely blamed the learned Christian Church: it was my duty. This blame results from the facts which I call attention to: why has the Church decreed concerning things which it does not understand? The Church has erred in dogma and in morals; physics and mathematics testify against her. It may be wrong for me to say it, but surely it is unfortunate for Christianity that it is true. To restore religion, gentlemen, it is necessary to condemn the Church.
+
+“Perhaps you will regret, gentlemen, that, in giving all my attention to method and evidence, I have too much neglected form and style: in vain should I have tried to do better. Literary hope and faith I have none. The nineteenth century is, in my eyes, a genesic era, in which new principles are elaborated, but in which nothing that is written shall endure. That is the reason, in my opinion, why, among so many men of talent, France to-day counts not one great writer. In a society like ours, to seek for literary glory seems to me an anachronism. Of what use is it to invoke an ancient sibyl when a muse is on the eve of birth? Pitiable actors in a tragedy nearing its end, that which it behooves us to do is to precipitate the catastrophe. The most deserving among us is he who plays best this part. Well, I no longer aspire to this sad success!
+
+“Why should I not confess it, gentlemen? I have aspired to your suffrages and sought the title of your pensioner, hating all which exists and full of projects for its destruction; I shall finish this investigation in a spirit of calm and philosophical resignation. I have derived more peace from the knowledge of the truth, than anger from the feeling of oppression; and the most precious fruit that I could wish to gather from this memoir would be the inspiration of my readers with that tranquillity of soul which arises from the clear perception of evil and its cause, and which is much more powerful than passion and enthusiasm. My hatred of privilege and human authority was unbounded; perhaps at times I have been guilty, in my indignation, of confounding persons and things; at present I can only despise and complain; to cease to hate I only needed to know.
+
+“It is for you now, gentlemen, whose mission and character are the proclamation of the truth, it is for you to instruct the people, and to tell them for what they ought to hope and what they ought to fear. The people, incapable as yet of sound judgment as to what is best for them, applaud indiscriminately the most opposite ideas, provided that in them they get a taste of flattery: to them the laws of thought are like the confines of the possible; to-day they can no more distinguish between a savant and a sophist, than formerly they could tell a physician from a sorcerer. ‘Inconsiderately accepting, gathering together, and accumulating everything that is new, regarding all reports as true and indubitable, at the breath or ring of novelty they assemble like bees at the sound of a basin.’
+
+“May you, gentlemen, desire equality as I myself desire it; may you, for the eternal happiness of our country, become its propagators and its heralds; may I be the last of your pensioners! Of all the wishes that I can frame, that, gentlemen, is the most worthy of you and the most honorable for me.
+
+“I am, with the profoundest respect and the most earnest gratitude,
+
+“Your pensioner,
+
+“P. J. Proudhon.”
+
+Two months after the receipt of this letter, the Academy, in its debate of August 24th, replied to the address of its pensioner by a note, the text of which I give below: —
+
+“A member calls the attention of the Academy to a pamphlet, published last June by the titulary of the Suard pension, entitled, “What is property?” and dedicated by the author to the Academy. He is of the opinion that the society owes it to justice, to example, and to its own dignity, to publicly disavow all responsibility for the anti-social doctrines contained in this publication. In consequence he demands:
+
+“1. That the Academy disavow and condemn, in the most formal manner, the work of the Suard pensioner, as having been published without its assent, and as attributing to it opinions diametrically opposed to the principles of each of its members;
+
+“2. That the pensioner be charged, in case he should publish a second edition of his book, to omit the dedication;
+
+“3. That this judgment of the Academy be placed upon the records.
+
+“These three propositions, put to vote, are adopted.”
+
+After this ludicrous decree, which its authors thought to render powerful by giving it the form of a contradiction, I can only beg the reader not to measure the intelligence of my compatriots by that of our Academy.
+
+While my patrons in the social and political sciences were fulminating anathemas against my brochure, a man, who was a stranger to Franche-Comté, who did not know me, who might even have regarded himself as personally attacked by the too sharp judgment which I had passed upon the economists, a publicist as learned as he was modest, loved by the people whose sorrows he felt, honored by the power which he sought to enlighten without flattering or disgracing it, M. Blanqui — member of the Institute, professor of political economy, defender of property — took up my defence before his associates and before the ministry, and saved me from the blows of a justice which is always blind, because it is always ignorant.
+
+It seems to me that the reader will peruse with pleasure the letter which M. Blanqui did me the honor to write to me upon the publication of my second memoir, a letter as honorable to its author as it is flattering to him to whom it is addressed.
+
+“Paris, May 1, 1841.
+
+“MONSIEUR, — I hasten to thank you for forwarding to me your second memoir upon property. I have read it with all the interest that an acquaintance with the first would naturally inspire. I am very glad that you have modified somewhat the rudeness of form which gave to a work of such gravity the manner and appearance of a pamphlet; for you quite frightened me, sir, and your talent was needed to reassure me in regard to your intentions. One does not expend so much real knowledge with the purpose of inflaming his country. This proposition, now coming into notice — property is robbery! — was of a nature to repel from your book even those serious minds who do not judge by appearances, had you persisted in maintaining it in its rude simplicity. But if you have softened the form, you are none the less faithful to the ground-work of your doctrines; and although you have done me the honor to give me a share in this perilous teaching, I cannot accept a partnership which, as far as talent goes, would surely be a credit to me, but which would compromise me in all other respects.
+
+“I agree with you in one thing only; namely, that all kinds of property get too frequently abused in this world. But I do not reason from the abuse to the abolition, — an heroic remedy too much like death, which cures all evils. I will go farther: I will confess that, of all abuses, the most hateful to me are those of property; but once more, there is a remedy for this evil without violating it, all the more without destroying it. If the present laws allow abuse, we can reconstruct them. Our civil code is not the Koran; it is not wrong to examine it. Change, then, the laws which govern the use of property, but be sparing of anathemas; for, logically, where is the honest man whose hands are entirely clean? Do you think that one can be a robber without knowing it, without wishing it, without suspecting it? Do you not admit that society in its present state, like every man, has in its constitution all kinds of virtues and vices inherited from our ancestors? Is property, then, in your eyes a thing so simple and so abstract that you can re-knead and equalize it, if I may so speak, in your metaphysical mill? One who has said as many excellent and practical things as occur in these two beautiful and paradoxical improvisations of yours cannot be a pure and unwavering utopist. You are too well acquainted with the economical and academical phraseology to play with the hard words of revolutions. I believe, then, that you have handled property as Rousseau, eighty years ago, handled letters, with a magnificent and poetical display of wit and knowledge. Such, at least, is my opinion.
+
+“That is what I said to the Institute at the time when I presented my report upon your book. I knew that they wished to proceed against you in the courts; you perhaps do not know by how narrow a chance I succeeded in preventing them. What chagrin I should always have felt, if the king’s counsel, that is to say, the intellectual executioner, had followed in my very tracks to attack your book and annoy your person! I actually passed two terrible nights, and I succeeded in restraining the secular arm only by showing that your book was an academical dissertation, and not the manifesto of an incendiary. Your style is too lofty ever to be of service to the madmen who in discussing the gravest questions of our social order, use paving-stones as their weapons. But see to it, sir, that ere long they do not come, in spite of you, to seek for ammunition in this formidable arsenal, and that your vigorous metaphysics falls not into the hands of some sophist of the market-place, who might discuss the question in the presence of a starving audience: we should have pillage for conclusion and peroration.
+
+“I feel as deeply as you, sir, the abuses which you point out; but I have so great an affection for order, — not that common and strait-laced order with which the police are satisfied, but the majestic and imposing order of human societies, — that I sometimes find myself embarrassed in attacking certain abuses. I like to rebuild with one hand when I am compelled to destroy with the other. In pruning an old tree, we guard against destruction of the buds and fruit. You know that as well as any one. You are a wise and learned man; you have a thoughtful mind. The terms by which you characterize the fanatics of our day are strong enough to reassure the most suspicious imaginations as to your intentions; but you conclude in favor of the abolition of property! You wish to abolish the most powerful motor of the human mind; you attack the paternal sentiment in its sweetest illusions; with one word you arrest the formation of capital, and we build henceforth upon the sand instead of on a rock. That I cannot agree to; and for that reason I have criticised your book, so full of beautiful pages, so brilliant with knowledge and fervor!
+
+“I wish, sir, that my impaired health would permit me to examine with you, page by page, the memoir which you have done me the honor to address to me publicly and personally; I think I could offer some important criticisms. For the moment, I must content myself with thanking you for the kind words in which you have seen fit to speak of me. We each possess the merit of sincerity; I desire also the merit of prudence. You know how deep-seated is the disease under which the working-people are suffering; I know how many noble hearts beat under those rude garments, and I feel an irresistible and fraternal sympathy with the thousands of brave people who rise early in the morning to labor, to pay their taxes, and to make our country strong. I try to serve and enlighten them, whereas some endeavor to mislead them. You have not written directly for them. You have issued two magnificent manifestoes, the second more guarded than the first; issue a third more guarded than the second, and you will take high rank in science, whose first precept is calmness and impartiality.
+
+“Farewell, sir! No man’s esteem for another can exceed mine for you.
+
+“Blanqui.”
+
+I should certainly take some exceptions to this noble and eloquent letter; but I confess that I am more inclined to realize the prediction with which it terminates than to augment needlessly the number of my antagonists. So much controversy fatigues and wearies me. The intelligence expended in the warfare of words is like that employed in battle: it is intelligence wasted. M. Blanqui acknowledges that property is abused in many harmful ways; I call property the sum these abuses exclusively. To each of us property seems a polygon whose angles need knocking off; but, the operation performed, M. Blanqui maintains that the figure will still be a polygon (an hypothesis admitted in mathematics, although not proven), while I consider that this figure will be a circle. Honest people can at least understand one another.
+
+For the rest, I allow that, in the present state of the question, the mind may legitimately hesitate before deciding in favor of the abolition of property. To gain the victory for one’s cause, it does not suffice simply to overthrow a principle generally recognized, which has the indisputable merit of systematically recapitulating our political theories; it is also necessary to establish the opposite principle, and to formulate the system which must proceed from it. Still further, it is necessary to show the method by which the new system will satisfy all the moral and political needs which induced the establishment of the first. On the following conditions, then, of subsequent evidence, depends the correctness of my preceding arguments: —
+
+The discovery of a system of absolute equality in which all existing institutions, save property, or the sum of the abuses of property, not only may find a place, but may themselves serve as instruments of equality: individual liberty, the division of power, the public ministry, the jury system, administrative and judicial organization, the unity and completeness of instruction, marriage, the family, heredity in direct and collateral succession, the right of sale and exchange, the right to make a will, and even birthright, — a system which, better than property, guarantees the formation of capital and keeps up the courage of all; which, from a superior point of view, explains, corrects, and completes the theories of association hitherto proposed, from Plato and Pythagoras to Babeuf, Saint Simon, and Fourier; a system, finally, which, serving as a means of transition, is immediately applicable.
+
+A work so vast requires, I am aware, the united efforts of twenty Montesquieus; nevertheless, if it is not given to a single man to finish, a single one can commence, the enterprise. The road that he shall traverse will suffice to show the end and assure the result.

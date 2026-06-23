@@ -1,0 +1,43 @@
+---
+work_id: "ac86b2b5-7a93-54f9-8443-786f69541796"
+work_slug: "eugen-varga-russias-new-economic-policy-ac86b2"
+work_title: "Russia's New Economic Policy"
+author_name: Eugen Varga
+chapter_number: 1
+chapter_title: "Russia's New Economic Policy"
+chapter_slug: "01-russias-new-economic-policy"
+variant_id: "157137d1-1cdf-5548-91cc-574e75c44911"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1047
+source_url: "https://www.marxists.org/archive/varga/1921/10/nep.html"
+translator: Marxists Internet Archive edition
+---
+
+Among the workers of Western Europe, the new economic policy of Russia has not been completely understood. There are even so-called revolutionary labor groups which interpret the new policy of Soviet Russia as a betrayal of the Communist cause, and which for this reason are wheeling off toward the camp of the reactionary enemies of Soviet Russia. It is therefore necessary to explain the meaning of this change in our economic apparatus and to show how inevitable such a change is.
+
+In substance the new policy consists in:
+
+The sum total of these changes will mean a partial reduction of the State-economic field. It must be made clear to the workers of Europe why Soviet Russia could not continue to build up the Communist economy, and why its abandonment was inevitable. On the other hand it must also be made clear, in how far the necessity for this abandonment is a purely Russian one, and not – as Mensheviki of all types claim – the general impossibility of building up a Communist economy.
+
+First of all it must be said that the Communist State economy at the end of 1920, reached dimensions which were beyond the original intentions of the Bolsheviki, and far beyond the controlling capacity of the small Russian proletariat which lacked organizing ability. There are a whole series of historical documents which show that the Communist Party did not originally intend to extend the Communal State-economy to the degree it actually readied. First of all there is the fact that, in 1917, Lenin wrote a pamphlet advocating so-called State-capitalism to be conducted by private enterprises, for private use, but under State control; a capitalism similar to the so-called War socialism in Germany. A tax-in-kind law was prepared in 1918; but it did not come into effect.
+
+The introduction of a State monopoly on food, and State control of industry was necessitated by the organized resistance of the Bourgeoisie, and by the war. The war compelled the State to requisition all surplus from the peasantry for the supply of the fighting armies, and the workers behind those armies. The Bourgeoisie resisted and sabotaged the production in those industries which were still in their hands, by refusing to furnish or sell goods to the State, thus forcing the State to continue the expropriation of the industries. This attitude on the part of the Bourgeoisie was motivated by the desire to weaken the Soviet state through economic difficulties, and thus to cause its fall. That is exactly why Lenin calls that economic system which was developed until the end of 1920, in the struggle against the inner and outer foes, not Communism, but War Communism.
+
+Because this economic system was caused by the inner and outer state of war, it could only be maintained as long as the war lasted. For, this system threw intolerable burdens upon the peasants’ shoulders. Besides, this system, by appropriating the country products, stood in direct contradiction to the actual conditions of production. In reality, the peasants of Russia are the owners of their land; they exercise private ownership. What they produce and how much, depends upon themselves. Every attempt to regulate the peasants’ production against his own will must, with the existing numerical ratio, fall to the ground. There are in Russia at present half a million villages and about 30,000,000 farms. The organized state control of 30,000,000 small establishments is absolutely impossible.
+
+Thus there arose a contradiction between the fact that the Russian peasant was a private producer, moved by private interest, and the fact that the state system of war communism treated the same peasant as if he were a member of the communal state economy. In other words: as private producer he independently determined the degree and the extent of production; but whether he produced much or little, the system of war communism left him only enough to continue his husbandry and support his family.
+
+Between private production and communal appropriation there was an impassable contradiction. What took place was a continual decrease in production, as well as in the area of cultivated land and a fall in the average yield of the crops. This system offered no inducement to the peasant to increase production. When the state of war was at an end, this contradiction in the economic field also made itself felt in the political field. The great mass of peasants expressed their dissatisfaction with the system of food-monopolisation, by the many protests and upri sings which took place in the spring of 1921. As long as the war lasted, as long as the peasants feared the reestablishment of the large landownership which was sure to follow an overthrow of the Soviet government, they yielded to the inevitable.
+
+But as soon as they thought peace to have been secured, they refused to endure such a heavy burden any longer. Since the overwhelming majority of Russia’s working population consists of peasants, the dictatorship of the proletariat could continue against the will of the peasants only by force. This would have meant a despotic dictatorship, and the suppression of the great number of working peasants, which would have rendered a dictatorship which depends upon the support of all working elements impossible. It was therefore necessary to bring the relation of production and distribution upon one and the same basis. In other words: to leave the full proceeds of the farm in the hands of the peasant, with the exception of that part which the state was to receive as tax-in-kind. The free use of his land was an inducement to the peasant to produce more. On the other hand, this change necessitated the toleration of free local-trade, since the peasants could not otherwise have exchanged their surplus for other goods.
+
+The above explanations thus make it clear that the peasant was pleased with the change. The use of force was never found necessary. Everywhere an increase in cultivation is to be seen in the autumn crops, and in the preparations for the spring work. Had the famine in the Volga region not occurred in the meanwhile, the good, results of our new economic policy would dearly have shown themselves in the following year.
+
+In another article we shall touch upon the changes in industry.
+
+Petrograd, October 16, 1921

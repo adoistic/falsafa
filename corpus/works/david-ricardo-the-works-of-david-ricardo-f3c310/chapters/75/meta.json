@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 75,
-  "chapter_title": "section II.: On the Influence of a Rise of Wages on the Price of Corn.",
+  "chapter_title": "section III.: On the Effects of Taxes imposed on a particular Commodity.",
   "chapter_slug": "75",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1188,
-      "paragraph_count": 6,
+      "word_count": 812,
+      "paragraph_count": 5,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

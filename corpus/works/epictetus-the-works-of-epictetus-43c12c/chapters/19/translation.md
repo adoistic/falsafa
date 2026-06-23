@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 19
-chapter_title: "CHAPTER XV.: WHAT PHILOSOPHY PROMISES."
+chapter_title: "Chapter XV.: What Philosophy Promises."
 chapter_slug: 19
 variant_id: "aeecf165-2872-5fc4-8667-1e4902f80474"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 250
+word_count: 246
 source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
 translator: Online Library of Liberty edition
 ---
@@ -22,7 +22,7 @@ WHEN one consulted him, how he might persuade his brother to forbear treating hi
 
 “What, then, is my brother’s life?”
 
-That, again, is matter for his own art, but is external to you; like property, health, or reputation. Philosophy promises none of these. In every circumstance Edition: current; Page: [48] I will keep my will in harmony with nature. To whom belongs that will? To Him in whom I exist.
+That, again, is matter for his own art, but is external to you; like property, health, or reputation. Philosophy promises none of these. In every circumstance I will keep my will in harmony with nature. To whom belongs that will? To Him in whom I exist.
 
 “But how, then, is my brother’s unkindness to be cured?”
 

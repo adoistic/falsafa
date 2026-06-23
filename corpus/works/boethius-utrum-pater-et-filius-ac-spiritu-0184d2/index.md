@@ -4,7 +4,10 @@ slug: "boethius-utrum-pater-et-filius-ac-spiritu-0184d2"
 title: Utrum Pater Et Filius Ac Spiritus Sanctus De Divinitate Substantialiter Praedicentur Liber
 author:
   name: Boethius
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman senator and consul under the Ostrogothic king Theoderic, translator of Aristotle's logic into Latin. The Consolation of Philosophy, written in prison while he awaited execution, carried Platonic argument about fortune and providence through the Latin Middle Ages."
+  birth_year: 477
+  death_year: 524
+  nationality: Roman
 era: Late Antiquity
 genre: Classics
 language: Latin

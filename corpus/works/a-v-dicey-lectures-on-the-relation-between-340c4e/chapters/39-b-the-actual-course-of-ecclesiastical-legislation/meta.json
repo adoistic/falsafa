@@ -1,0 +1,26 @@
+{
+  "work_slug": "a-v-dicey-lectures-on-the-relation-between-340c4e",
+  "work_title": "Lectures on the Relation between Law and Public Opinion in England",
+  "chapter_number": 39,
+  "chapter_title": "B.: The Actual Course of Ecclesiastical Legislation",
+  "chapter_slug": "39-b-the-actual-course-of-ecclesiastical-legislation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bc1c1a20-74df-54a3-9da8-588f9a0674cc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5482,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919"
+    }
+  ]
+}

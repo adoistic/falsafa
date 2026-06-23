@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 117
-chapter_title: CHAPTER LXXVII.
+chapter_title: Chapter VI. (1)
 chapter_slug: 117
 variant_id: "5dee173e-3c3c-5cf8-91fe-5d845f853db8"
 content_type: translation
@@ -13,13 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 281
+word_count: 383
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-What is living, and what dead faith.
+A discussion of Gaunilon’s argument in his second chapter: that any unreal beings can be understood in the same way, and would, to that extent, exist.
 
-Hence, with however great confidence so important a truth is believed, the faith will be useless and, as it were, dead, unless it is strong and living through love. For, that the faith which is accompanied by sufficient love is by no means idle, if an opportunity of operation offers, but rather exercises itself in an abundance of works, as it could not do without love, may be proved from this fact alone, that, since it loves the supreme Justice, it can scorn nothing that is just, it can approve nothing that is unjust. Therefore, seeing that the fact of its operation shows that life, without which it could not operate, is inherent in it; it is not absurd to say that operative faith is alive, because it has the life of love without which it could not operate; and that idle faith is not living, because it lacks that life of love, with which it would not be idle.
+Another of your objections is that any unreal beings, or beings whose existence is uncertain, can be understood and be in the understanding in the same way with that being which I discussed. I am surprised that you should have conceived this objection, for I was attempting to prove what was still uncertain, and contented myself at first with showing that this being is understood in any way, and is in the understanding. It was my intention to consider, on these grounds, whether this being is in the understanding alone, like an unreal object, or whether it also exists in fact, as a real being. For if unreal objects, or objects whose existence is uncertain, in this way are understood and are in the understanding, because, when they are spoken of, the hearer understands what the speaker means, there is no reason why that being of which I spoke should not be understood and be in the understanding.
 
-Hence, if not only he who has lost his sight is called blind, but also he who ought to have sight and has it not, why cannot, in like manner, faith without love be called dead; not because it has lost its life, that is, love; but because it has not the life which it ought always to have? As that faith, then, which operates through love is recognised as living, so that which is idle, through contempt, is proved to be dead. It may, therefore, be said with sufficient fitness that living faith believes in that in which we ought to believe; while dead faith merely believes that which ought to be believed.
+How, moreover, can these two statements of yours be reconciled: (1) the assertion that if a man should speak of any unreal objects, whatever they might be, you would understand, and (2) the assertion that on hearing of that being which does exist, and not in that way in which even unreal objects are held in concept, you would not say that you conceive of it or have it in concept; since, as you say, you cannot conceive of it in any other way than by understanding it, that is, by comprehending in your knowledge its real existence?
+
+How, I ask, can these two things be reconciled: that unreal objects are understood, and that understanding an object is comprehending in knowledge its real existence? The contradiction does not concern me: do you see to it. But if unreal objects are also in some sort understood, and your definition is applicable, not to every understanding, but to a certain sort of understanding, I ought not to be blamed for saying that a being than which a greater cannot be conceived is understood and is in the understanding, even before I reached the certain conclusion that this being exists in reality.

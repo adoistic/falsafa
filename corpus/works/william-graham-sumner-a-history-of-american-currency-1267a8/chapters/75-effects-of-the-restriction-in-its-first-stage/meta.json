@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 75,
+  "chapter_title": "Effects of the Restriction in Its First Stage.",
+  "chapter_slug": "75-effects-of-the-restriction-in-its-first-stage",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "087d4166-71b8-5e88-9c06-527937e1fd14",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 332,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

@@ -4,13 +4,17 @@ slug: "william-minto-logic-inductive-and-deductive-ffa6fd"
 title: Logic, Inductive and Deductive
 author:
   name: William Minto
-  biography: "William Minto (1845-1893)."
+  biography: Scottish critic, journalist, and Regius Professor of Logic and English Literature at Aberdeen. His Logic, Inductive and Deductive distilled the inductive tradition of Bain and Mill into a teaching textbook.
+  birth_year: 1845
+  death_year: 1893
+  nationality: Scottish
 era: 19th Century
 genre: Logic
 language: English
 language_direction: ltr
 description: "Logic, Inductive and Deductive, by William Minto (1845-1893), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1893
 total_logical_chapters: 15
 total_variant_entries: 15
 thothica_role: catalog

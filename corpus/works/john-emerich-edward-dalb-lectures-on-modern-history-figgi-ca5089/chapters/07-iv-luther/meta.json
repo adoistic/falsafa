@@ -2,7 +2,7 @@
   "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
   "work_title": "Lectures on Modern History (Figgis ed.)",
   "chapter_number": 7,
-  "chapter_title": "IV: LUTHER",
+  "chapter_title": "IV: Luther",
   "chapter_slug": "07-iv-luther",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 6229,
+      "word_count": 6161,
       "paragraph_count": 26,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"

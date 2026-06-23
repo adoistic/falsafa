@@ -1,0 +1,26 @@
+{
+  "work_slug": "max-stirner-the-ego-and-its-own-f98f48",
+  "work_title": "The Ego and Its Own",
+  "chapter_number": 7,
+  "chapter_title": "I. Ownness [Die Eigenheit]",
+  "chapter_slug": "07-i-ownness-die-eigenheit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5ecd13ef-9fad-5222-8468-7ae18469eea7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11122,
+      "paragraph_count": 94,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stirner/ego-and-its-own.htm"
+    }
+  ]
+}

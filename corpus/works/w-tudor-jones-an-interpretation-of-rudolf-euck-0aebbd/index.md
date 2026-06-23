@@ -4,13 +4,17 @@ slug: "w-tudor-jones-an-interpretation-of-rudolf-euck-0aebbd"
 title: "An Interpretation of Rudolf Eucken's Philosophy"
 author:
   name: W. Tudor Jones
-  biography: "W. Tudor Jones (1865-1946)."
+  biography: "Welsh Unitarian minister and philosopher, the leading English-language exponent of Rudolf Eucken's spiritual idealism. His expository books carried Eucken's anti-materialist philosophy of life to a British and American readership."
+  birth_year: 1865
+  death_year: 1946
+  nationality: Welsh
 era: 20th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "An Interpretation of Rudolf Eucken's Philosophy, by W. Tudor Jones (1865-1946), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1912
 total_logical_chapters: 13
 total_variant_entries: 13
 thothica_role: catalog

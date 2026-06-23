@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 16,
+  "chapter_title": "XIV. Peru",
+  "chapter_slug": "16-xiv-peru",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "951d6732-581d-5d2a-94df-e547238718cd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5240,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter14.htm"
+    }
+  ]
+}

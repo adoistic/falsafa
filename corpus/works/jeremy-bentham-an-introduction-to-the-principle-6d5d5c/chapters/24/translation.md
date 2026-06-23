@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-an-introduction-to-the-principle-6d5d5c"
 work_title: An Introduction to the Principles of Morals and Legislation
 author_name: Jeremy Bentham
 chapter_number: 24
-chapter_title: "Chapter XIV: OF THE PROPORTION BETWEEN PUNISHMENTS AND OFFENCES"
+chapter_title: "Chapter XIV: Of the Proportion Between Punishments and Offences"
 chapter_slug: 24
 variant_id: "1f400353-d02d-54f1-bca2-ed62907584cf"
 content_type: translation

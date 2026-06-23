@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 21,
+  "chapter_title": "XIX. Paris and Zimmerwald",
+  "chapter_slug": "21-xix-paris-and-zimmerwald",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b07c57d8-6b0c-5298-87b0-b067c0b7ae1e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3476,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch19.htm"
+    }
+  ]
+}

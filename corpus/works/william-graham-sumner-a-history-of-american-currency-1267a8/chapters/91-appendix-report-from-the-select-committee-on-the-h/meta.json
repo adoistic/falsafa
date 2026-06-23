@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 91,
+  "chapter_title": "Appendix.: Report from the Select Committee on the High Price of Gold Bullion.",
+  "chapter_slug": "91-appendix-report-from-the-select-committee-on-the-h",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f3a7919a-93e4-5c83-8033-b71aa0200d05",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1116,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

@@ -4,13 +4,17 @@ slug: "surendranath-dasgupta-a-history-of-indian-philosophy-v-f7aab9"
 title: A History of Indian Philosophy, Volume 1
 author:
   name: Surendranath Dasgupta
-  biography: "Surendranath Dasgupta (1885-1952)."
+  biography: "Bengali philosopher and Sanskrit scholar, professor at Presidency College and the University of Calcutta. His multi-volume A History of Indian Philosophy gave Western and Indian readers a systematic, text-based account of the classical schools."
+  birth_year: 1887
+  death_year: 1952
+  nationality: Indian
 era: 20th Century
 genre: History of Philosophy
 language: English
 language_direction: ltr
 description: "A History of Indian Philosophy, Volume 1, by Surendranath Dasgupta (1885-1952), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1922
 total_logical_chapters: 10
 total_variant_entries: 10
 thothica_role: catalog

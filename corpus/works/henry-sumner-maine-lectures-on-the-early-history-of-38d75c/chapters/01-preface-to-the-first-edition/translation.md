@@ -4,7 +4,7 @@ work_slug: "henry-sumner-maine-lectures-on-the-early-history-of-38d75c"
 work_title: Lectures on the Early History of Institutions
 author_name: Henry Sumner Maine
 chapter_number: 1
-chapter_title: PREFACE TO THE FIRST EDITION.
+chapter_title: Preface to the First Edition.
 chapter_slug: "01-preface-to-the-first-edition"
 variant_id: "104fdd37-0c00-5a73-8e0a-305762ced4e6"
 content_type: translation

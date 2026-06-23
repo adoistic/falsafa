@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-cromwell-and-communism-socialism-6028c4",
+  "work_title": "Cromwell and Communism: Socialism and Democracy in the Great English Revolution",
+  "chapter_number": 3,
+  "chapter_title": "2. Political and Religious Conditions. Ket’s Insurrection",
+  "chapter_slug": "03-2-political-and-religious-conditions-ket-s-insurre",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dcf4fbce-5c6d-558e-b015-cefb8b6faeeb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4287,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1895/cromwell/02-england.htm"
+    }
+  ]
+}

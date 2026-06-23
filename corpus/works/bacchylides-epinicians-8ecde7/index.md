@@ -4,7 +4,10 @@ slug: "bacchylides-epinicians-8ecde7"
 title: Epinicians
 author:
   name: Bacchylides
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Greek lyric poet from the island of Ceos, nephew of Simonides and rival of Pindar for the same patrons. His victory odes and dithyrambs, recovered from an Egyptian papyrus in the late nineteenth century, form the largest surviving body of Greek choral lyric after Pindar.
+  birth_year: -518
+  death_year: -451
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

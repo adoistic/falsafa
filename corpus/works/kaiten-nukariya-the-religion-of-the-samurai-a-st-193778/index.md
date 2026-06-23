@@ -4,13 +4,17 @@ slug: "kaiten-nukariya-the-religion-of-the-samurai-a-st-193778"
 title: "The Religion of the Samurai: A Study of Zen Philosophy"
 author:
   name: Kaiten Nukariya
-  biography: "Kaiten Nukariya (1867-1934)."
+  biography: "Japanese Soto Zen priest and scholar, a professor at Keio University and the Soto-shu Buddhist College in Tokyo. The Religion of the Samurai, written in English, was among the first book-length expositions of Zen Buddhism for a Western readership."
+  birth_year: 1867
+  death_year: 1934
+  nationality: Japanese
 era: 20th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "The Religion of the Samurai: A Study of Zen Philosophy, by Kaiten Nukariya (1867-1934), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1913
 total_logical_chapters: 8
 total_variant_entries: 8
 thothica_role: catalog

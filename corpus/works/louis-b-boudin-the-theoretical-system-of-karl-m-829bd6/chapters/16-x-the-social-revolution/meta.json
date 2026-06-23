@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-b-boudin-the-theoretical-system-of-karl-m-829bd6",
+  "work_title": "The Theoretical System of Karl Marx in the Light of Recent Criticism",
+  "chapter_number": 16,
+  "chapter_title": "X. The Social Revolution",
+  "chapter_slug": "16-x-the-social-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e8d22c6b-99a2-58dd-8cb4-e81197facb1e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8354,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/boudin/1907/02/system/10-the-social-revolution.html"
+    }
+  ]
+}

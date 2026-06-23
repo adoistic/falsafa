@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 47,
+  "chapter_title": "(S): That a “Worker may Gain More by Having his Industry Protected than he will Lose by Having to Pay Dearly for what he",
+  "chapter_slug": "47-s-that-a-worker-may-gain-more-by-having-his-indust",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8230a108-6ff6-5cef-b3b7-9d2c0571c453",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 381,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

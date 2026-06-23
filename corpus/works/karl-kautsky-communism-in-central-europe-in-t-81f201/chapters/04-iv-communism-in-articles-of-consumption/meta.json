@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 4,
+  "chapter_title": "IV. Communism in Articles of Consumption",
+  "chapter_slug": "04-iv-communism-in-articles-of-consumption",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7d9a71e1-f18a-5de8-83ff-12542c885c8f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1013,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch01.htm"
+    }
+  ]
+}

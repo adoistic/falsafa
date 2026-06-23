@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 60,
+  "chapter_title": "Chapter II: Of Individualism In Democratic Countries",
+  "chapter_slug": "60",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "59268455-4fcd-5cbe-9ec4-9811e6636e0c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 767,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch27.htm"
+    }
+  ]
+}

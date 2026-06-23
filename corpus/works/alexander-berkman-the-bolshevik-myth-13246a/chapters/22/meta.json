@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-bolshevik-myth-13246a",
+  "work_title": "The Bolshevik Myth",
+  "chapter_number": 22,
+  "chapter_title": "Chapter 21 : En Route To The Ukraina",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6d0e46a7-2511-540c-ac45-625df9f92ac2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1340,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1925/bolshevik-myth/chapter-21.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 34,
+  "chapter_title": "(c) Teleology",
+  "chapter_slug": "34-c-teleology",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c722752e-279a-5c82-a873-d5eca0446de7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2878,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slobject.htm"
+    }
+  ]
+}

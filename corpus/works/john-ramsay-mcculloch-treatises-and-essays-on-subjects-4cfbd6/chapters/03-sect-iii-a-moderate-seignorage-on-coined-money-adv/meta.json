@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-treatises-and-essays-on-subjects-4cfbd6",
+  "work_title": "Treatises and Essays on Subjects Connected with Economic Policy",
+  "chapter_number": 3,
+  "chapter_title": "Sect. III.—: A Moderate Seignorage on Coined Money advantageous. Principles which should regulate its amount.",
+  "chapter_slug": "03-sect-iii-a-moderate-seignorage-on-coined-money-adv",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "45898d05-957a-5ec0-9903-f46a756a6c16",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3333,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853"
+    }
+  ]
+}

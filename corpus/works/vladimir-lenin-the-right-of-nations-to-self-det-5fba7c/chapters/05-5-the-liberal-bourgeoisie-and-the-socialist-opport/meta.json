@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-right-of-nations-to-self-det-5fba7c",
+  "work_title": "The Right of Nations to Self-Determination",
+  "chapter_number": 5,
+  "chapter_title": "5. The Liberal Bourgeoisie and the Socialist Opportunists in the National Question",
+  "chapter_slug": "05-5-the-liberal-bourgeoisie-and-the-socialist-opport",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "33454081-e5fc-5ba1-bd02-a72a20844c80",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3547,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1914/self-det/ch05.htm"
+    }
+  ]
+}

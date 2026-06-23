@@ -1,62 +1,77 @@
 [
   {
-    "id": "p-3f8b80",
+    "id": "p-24713f",
     "offset": 0,
-    "text": "All writers on the subject of money have agreed that uniformity in the value of the circulating medium is an object greatly to be desired. Every improvement, therefore, which can promote an approximation to that object, by diminishing the causes of variation, should be adopted. No plan can possibly be devised which will maintain money at an absolutely uniform value, because it will always be subject to those variations to which the commodity itself is subject, which has been fixed upon as the standard."
+    "text": "Use of a Standard Commodity—Objections to it considered."
   },
   {
-    "id": "p-26ab56",
-    "offset": 509,
-    "text": "While the precious metals continue to be the standard of our currency, money must necessarily undergo the same variations in value as those metals. It was the comparative steadiness in the value of the precious metals, for periods of some duration, which probably was the cause of the preference given to them in all countries, as a standard by which to measure the value of other things."
+    "id": "p-96cac6",
+    "offset": 58,
+    "text": "During the late discussions on the bullion question, it was most justly contended, that a currency, to be perfect, should be absolutely invariable in value."
   },
   {
-    "id": "p-33014b",
-    "offset": 899,
-    "text": "A currency may be considered as perfect, of which the standard is invariable, which always conforms to that standard, and in the use of which the utmost economy is practised."
+    "id": "p-165c4b",
+    "offset": 216,
+    "text": "But it was said, too, that ours had become such a currency, by the Bank restriction bill; for by that bill we had wisely discarded gold and silver as the standard of our money; and, in fact, that a pound note did not and ought not to vary with a given quantity of gold, more than with a given quantity of any other commodity. This idea of a currency without a specific standard was, I believe, first advanced by Sir James Steuart, but no one has yet been able to offer any test by which we could ascertain the uniformity in the value of a money so constituted. Those who supported this opinion did not see, that such a currency, instead of being invariable, was subject to the greatest variations,—that the only use of a standard is to regulate the quantity, and by the quantity the value of the currency—and that without a standard it would be exposed to all the fluctuations to which the ignorance or the interests of the issuers might subject it."
   },
   {
-    "id": "p-512ef0",
-    "offset": 1075,
-    "text": "Amongst the advantages of a paper over a metallic circulation, may be reckoned, as not the least, the facility with which it may be altered in quantity, as the wants of commerce and temporary circumstances may require: enabling the desirable object of keeping money at a uniform value to be, as far as it is otherwise practicable, securely and cheaply attained."
+    "id": "p-3bf20b",
+    "offset": 1167,
+    "text": "It has indeed been said that we might judge of its value by its relation, not to one, but to the mass of commodities. If it should be conceded, which it cannot be, that the issuers of paper money would be willing to regulate the amount of their circulation by such a test, they would have no means of so doing; for when we consider that commodities are continually varying in value, as compared with each other; and that when such variation takes place, it is impossible to ascertain which commodity has increased, which diminished in value, it must be allowed that such a test would be of no use whatever."
   },
   {
-    "id": "p-8b119d",
-    "offset": 1438,
-    "text": "The quantity of metal, employed as money, in effecting the payments of any particular country, using metallic money; or the quantity of metal for which paper money is the substitute, if paper money be partly or wholly used, must depend on three things: first, on its value;—secondly, on the amount or value of the payments to be made;—and, thirdly, on the degree of economy practised in effecting those payments."
+    "id": "p-e52de0",
+    "offset": 1775,
+    "text": "Some commodities are rising in value, from the effects of taxation, from the scarcity of the raw material of which they are made, or from any other cause which increases the difficulty of production. Others again are falling, from improvements in machinery, from the better division of labour, and the improved skill of the workman; from the greater abundance of the raw material, and generally from greater facility of production. To determine the value of a currency by the test proposed, it would be necessary to compare it successively with the thousands of commodities which are circulating in the community, allowing to each all the effects which may have been produced upon its value by the above causes. To do this is evidently impossible."
   },
   {
-    "id": "p-757c58",
-    "offset": 1852,
-    "text": "A country using gold as its standard would require, at least, fifteen times less of that metal than it would of silver, if using silver, and nine hundred times less than it would of copper, if using that metal,—fifteen to one being about the proportion which gold bears in value to silver, and nine hundred to one the proportion which it bears to copper. If the denomination of a pound were given to any specific weight of these metals, fifteen times more of such pounds would be required in the one case, and nine hundred times more in the other, whether the metals themselves were employed as money, or paper was partly, or entirely, substituted for them. And if a country uniformly employed the same metal as a standard, the quantity of money required would be in an inverse proportion to the value of that metal. Suppose the metal to be silver, and that, from the difficulty of working the mines, silver should be doubled in value,—half the quantity only would then be wanted for money; and if the whole business of circulation were carried on by paper, of which the standard was silver,—to sustain that paper, at its bullion value, it must in like manner be reduced one half. In the same way it might be shown, that, if silver became as cheap again, compared with all other commodities, double the quantity would be required to circulate the same quantity of goods. When the number of transactions increase in any country from its increasing opulence and industry—bullion remaining at the same value, and the economy in the use of money also continuing unaltered—the value of money will rise on account of the increased use which will be made of it, and will continue permanently above the value of bullion, unless the quantity be increased, either by the addition of paper, or by procuring bullion to be coined into money. There will be more commodities bought and sold, but at lower prices; so that the same money will still be adequate to the increased number of transactions, by passing in each transaction at a higher value. The value of money, then, does not wholly depend upon its absolute quantity, but on its quantity relatively to the payments which it has to accomplish; and the same effects would follow from either of two causes—from increasing the uses for money one tenth—or from diminishing its quantity one tenth; for, in either case, its value would rise one tenth."
+    "id": "p-6abe20",
+    "offset": 2524,
+    "text": "To suppose that such a test would be of use in practice, arises from a misconception of the difference between price and value."
   },
   {
-    "id": "p-0f36bd",
-    "offset": 4242,
-    "text": "It is the rise in the value of money above the value of bullion which is always, in a sound state of the currency, the cause of its increase in quantity; for it is at these times that either an opening is made for the issue of more paper money, which is always attended Edition: current; Page: [399] with profit to the issuers; or that a profit is made by carrying bullion to the Mint to be coined."
+    "id": "p-c74ac4",
+    "offset": 2653,
+    "text": "The price of a commodity is its exchangeable value in money only."
   },
   {
-    "id": "p-a47b3c",
-    "offset": 4642,
-    "text": "To say that money is more valuable than bullion or the standard, is to say that bullion is selling in the market under the Mint price. It can therefore be purchased, coined, and issued as money, with a profit equal to the difference between the market and Mint prices. The Mint price of gold is 3l. 17s. 10½d. If, from increasing opulence, more commodities came to be bought and sold, the first effect would be that the value of money would rise. Instead of 3l. 17s. 10½d. of coined money being equal in value to an ounce of gold, 3l. 15s. might be equal to that value; and therefore a profit of 2s. 10½d. might be made on every ounce of gold that was carried to the Mint to be coined. This profit, however, could not long continue; for the quantity of money which, by these means, would be added to the circulation, would sink its value, whilst the diminishing quantity of bullion in the market would also tend to raise the value of bullion to that of coin: from one or both these causes a perfect equality in their value could not fail to be soon restored."
+    "id": "p-f98b17",
+    "offset": 2720,
+    "text": "The value of a commodity is estimated by the quantity of other things generally for which it will exchange."
   },
   {
-    "id": "p-c872dd",
-    "offset": 5702,
-    "text": "It appears, then, that, if the increase in the circulation were supplied by means of coin, the value both of bullion and money would, for a time at least, even after they had found their level, be higher than before; a circumstance which, though often unavoidable, is inconvenient, as it affects all former contracts. This inconvenience is wholly got rid of, by the issue of paper money; for, in that case, there will be no additional demand for bullion; consequently its value will continue unaltered; and the new paper money, as well as the old, will conform to that value."
+    "id": "p-7622ee",
+    "offset": 2829,
+    "text": "The price of a commodity may rise while its value falls, and vice versâ. A hat may rise from twenty to thirty shillings in price, but thirty shillings may not procure so much tea, sugar, coffee, and all other things, as twenty shillings did before, consequently a hat cannot procure so much. The hat, then, has fallen in value, though it has increased in price."
   },
   {
-    "id": "p-8c0fbb",
-    "offset": 6279,
-    "text": "Besides, then, all the other advantages attending the use of paper money; by the judicious management of the quantity, a degree of uniformity, which is by no other means attainable, is secured to the value of the circulating medium in which all payments are made."
+    "id": "p-f39333",
+    "offset": 3192,
+    "text": "Nothing is so easy to ascertain as a variation of price, nothing so difficult as a variation of value; indeed, without an invariable measure of value, and none such exists, it is impossible to ascertain it with any certainty or precision."
   },
   {
-    "id": "p-e3b7a6",
-    "offset": 6544,
-    "text": "The value of money and the amount of payments remaining the same, the quantity of money required must depend on the degree of economy practised in the use of it. If no payments were made by cheques on bankers, by means of which money is merely written off one account and added to another, and that to the amount of millions daily, with few or no bank notes or coin passing; it is obvious that considerably more currency would be required, or, which is the same in its effects, the same money would pass at a greatly increased value, and would, therefore, be adequate to the additional amount of payments."
+    "id": "p-dc2c8f",
+    "offset": 3432,
+    "text": "A hat may exchange for less of tea, sugar, and coffee, than before, but, at the same time, it may exchange for more of hardware, shoes, stockings, &c., and the difference of the comparative value of these commodities may either arise from a stationary value of one, and a rise, though in different degrees of the other two; or a stationary value in one, and a fall in the value of the other two; or they may have all varied at the same time."
   },
   {
-    "id": "p-9bdfbf",
-    "offset": 7151,
-    "text": "Whenever merchants, then, have a want of confidence in each other, which disinclines them to deal on credit, or to accept in payment each other's cheques, notes, or bills: more money, whether it be paper or metallic money, is in demand; and the advantage of a paper circulation, when established on correct principles, is, that this additional quantity can be presently supplied without occasioning Edition: current; Page: [400] any variation in the value of the whole currency, either as compared with bullion or with any other commodity; whereas, with a system of metallic currency, this additional quantity cannot be so readily supplied, and when it is finally supplied, the whole of the currency, as well as bullion, has acquired an increased value."
+    "id": "p-6572bd",
+    "offset": 3875,
+    "text": "If we say that value should be measured by the enjoyments which the exchange of the commodity can procure for its owner, we are still as much at a loss as ever to estimate value, because two persons may derive very different degrees of enjoyment from the possession of the same commodity. In the above instance, a hat would appear to have fallen in value to him whose enjoyments consisted in tea, coffee, and sugar; while it would appear to have risen in value to him who preferred shoes, stockings, and hardware."
+  },
+  {
+    "id": "p-70f15f",
+    "offset": 4390,
+    "text": "Commodities generally, then, can never become a standard to regulate the quantity and value of money; and although some inconveniences attend the standard which we have adopted, namely, gold and silver, from the variations to which they are subject as commodities, these are trivial, indeed, compared to those which we should have to bear if we adopted the plan recommended."
+  },
+  {
+    "id": "p-036909",
+    "offset": 4766,
+    "text": "When gold, silver, and almost all other commodities were raised in price, during the last twenty years, instead of ascribing any part of this rise to the fall of the paper currency, the supporters of an abstract currency had always some good reason at hand for the alteration in price. Gold and silver rose because they were scarce, and were in great demand to pay the immense armies which were then embodied. All other commodities rose because they were taxed either directly or indirectly, or because, from a succession of bad seasons, and the difficulties of importation, corn had risen considerably in value, which, according to their theory, must necessarily raise the price of commodities. According to them, the only things which were unalterable in value were bank notes, which were therefore eminently well calculated to measure the value of all other things."
+  },
+  {
+    "id": "p-8b65c2",
+    "offset": 5636,
+    "text": "If the rise had been 100 per cent., it might equally have been denied that the currency had anything to do with it, and it might equally have been ascribed to the same causes. The argument is certainly a safe one, because it cannot be disproved. When two commodities vary in relative value, it is impossible with certainty to say whether the one rises or the other falls; so that, if we adopted a currency without a standard, there is no degree of depreciation to which it might not be carried. The depreciation could not admit of proof, as it might always be affirmed that commodities had risen in value, and that money had not fallen."
   }
 ]

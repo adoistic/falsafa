@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-schiller-aesthetical-essays-8efa06",
+  "work_title": "Aesthetical Essays",
+  "chapter_number": 10,
+  "chapter_title": "Letter IX",
+  "chapter_slug": "10-letter-ix",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bcda5709-5ab1-5fcc-b9ba-1a99641d5a2f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1585,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6798"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-riazanov-on-engels-anti-duhring-c47978",
+  "work_title": "On Engels' \"Anti-Duhring\"",
+  "chapter_number": 1,
+  "chapter_title": "On Engels' \"Anti-Duhring\"",
+  "chapter_slug": "01-on-engels-anti-duhring",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6314dd02-b130-5b8a-ab93-5ece2aa35b8a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6559,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/riazanov/1928/xx/duehring.htm"
+    }
+  ]
+}

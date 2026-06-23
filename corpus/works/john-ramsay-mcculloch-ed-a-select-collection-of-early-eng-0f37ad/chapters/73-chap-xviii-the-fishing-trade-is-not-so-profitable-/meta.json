@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 73,
+  "chapter_title": "Chap. XVIII.: The Fishing-Trade is not so profitable as the importation of Irish Cattel, or of Indian Manufactures; and ",
+  "chapter_slug": "73-chap-xviii-the-fishing-trade-is-not-so-profitable-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c2dcb473-fac0-5daa-a6c8-48a69773c81d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 585,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

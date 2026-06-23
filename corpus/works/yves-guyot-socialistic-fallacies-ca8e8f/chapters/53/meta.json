@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-socialistic-fallacies-ca8e8f",
+  "work_title": "Socialistic Fallacies",
+  "chapter_number": 53,
+  "chapter_title": "Chapter VII: Marx' Principles and Small Properties",
+  "chapter_slug": "53",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a55a13ad-594e-51da-8f69-aa7c4f45e6cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 824,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+    }
+  ]
+}

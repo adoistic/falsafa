@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 61,
+  "chapter_title": "The Secret of Primitive Accumulation",
+  "chapter_slug": "61-the-secret-of-primitive-accumulation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6378dfc7-cfab-511d-9be5-0691c7c34a2f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1306,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch26.htm"
+    }
+  ]
+}

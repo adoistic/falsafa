@@ -1,0 +1,26 @@
+{
+  "work_slug": "anton-pannekoek-the-position-and-significance-of-4a55f2",
+  "work_title": "The Position and Significance of Joseph Dietzgen's Philosophical Works",
+  "chapter_number": 1,
+  "chapter_title": "The Position and Significance of Joseph Dietzgen's Philosophical Works",
+  "chapter_slug": "01-the-position-and-significance-of-joseph-dietzgens-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4a4e56e3-6093-5796-9aa2-4cfe4791e8aa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8712,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/pannekoe/1902/dietzgen.htm"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
   "work_title": "An Essay on Crimes and Punishments",
   "chapter_number": 53,
-  "chapter_title": "CHAPTER IV.: ON THE EXTIRPATION OF HERESY.",
+  "chapter_title": "Chapter V.: Of Profanation.",
   "chapter_slug": "53",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 635,
-      "paragraph_count": 6,
+      "word_count": 936,
+      "paragraph_count": 14,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
     }

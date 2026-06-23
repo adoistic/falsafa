@@ -4,7 +4,10 @@ slug: "quintilian-institutio-oratoria-6bfe91"
 title: Institutio Oratoria
 author:
   name: Quintilian
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman rhetorician from Hispania and the first holder of a state-funded chair of rhetoric at Rome. His Institutio Oratoria laid out a complete program for educating the orator and became a touchstone of rhetorical theory."
+  birth_year: 35
+  death_year: 100
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-socialism-made-easy-e304f1",
+  "work_title": "Socialism Made Easy",
+  "chapter_number": 1,
+  "chapter_title": "The Future of Labour",
+  "chapter_slug": "01-the-future-of-labour",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "50cf9d68-cfcb-508a-9c85-22dd3802e03b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3936,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1908/sme/futrlabr.htm"
+    }
+  ]
+}

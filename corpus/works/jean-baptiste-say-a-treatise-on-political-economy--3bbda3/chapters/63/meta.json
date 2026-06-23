@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 63,
-  "chapter_title": "SECTION I.: Of Population, as connected with Political Economy.",
+  "chapter_title": "Book III: Of the Consumption of Wealth, Book III, Chapter I: Of the Different Kinds of Consumption.",
   "chapter_slug": "63",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3637,
-      "paragraph_count": 30,
+      "word_count": 1686,
+      "paragraph_count": 20,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

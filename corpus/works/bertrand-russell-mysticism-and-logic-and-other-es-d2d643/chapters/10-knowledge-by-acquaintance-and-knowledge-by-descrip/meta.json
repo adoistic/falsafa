@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-mysticism-and-logic-and-other-es-d2d643",
+  "work_title": "Mysticism and Logic and Other Essays",
+  "chapter_number": 10,
+  "chapter_title": "Knowledge by Acquaintance and Knowledge by Description",
+  "chapter_slug": "10-knowledge-by-acquaintance-and-knowledge-by-descrip",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e1f4152-0faf-5b36-8676-856fcfbafe66",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 147,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/25447"
+    }
+  ]
+}

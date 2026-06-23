@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 18,
+  "chapter_title": "XVI. My Second Foreign Exile: German Socialism",
+  "chapter_slug": "18-xvi-my-second-foreign-exile-german-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "452ee45d-8b9a-53ec-82ff-5c47ce424c38",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6838,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch16.htm"
+    }
+  ]
+}

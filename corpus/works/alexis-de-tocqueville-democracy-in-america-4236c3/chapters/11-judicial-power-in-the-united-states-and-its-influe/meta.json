@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 11,
+  "chapter_title": "Judicial Power in the United States and its Influence on Political Society.",
+  "chapter_slug": "11-judicial-power-in-the-united-states-and-its-influe",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df8eefc2-8345-516a-b525-dc486d86ed6a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3139,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch06.htm"
+    }
+  ]
+}

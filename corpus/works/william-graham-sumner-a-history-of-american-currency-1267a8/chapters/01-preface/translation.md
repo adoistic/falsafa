@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-a-history-of-american-currency-1267a8"
 work_title: A History of American Currency
 author_name: William Graham Sumner
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "8897e213-6ad2-562a-9fac-44996e1c52a4"
 content_type: translation

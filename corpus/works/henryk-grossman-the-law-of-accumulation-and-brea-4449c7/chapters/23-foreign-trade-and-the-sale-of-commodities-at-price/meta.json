@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-law-of-accumulation-and-brea-4449c7",
+  "work_title": "The Law of Accumulation and Breakdown of the Capitalist System",
+  "chapter_number": 23,
+  "chapter_title": "Foreign trade and the sale of commodities at prices of production deviating from values",
+  "chapter_slug": "23-foreign-trade-and-the-sale-of-commodities-at-price",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11ec321a-88a5-53e1-8ffb-0f5549d671cb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1899,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/ch03.htm"
+    }
+  ]
+}

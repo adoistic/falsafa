@@ -4,7 +4,7 @@ slug: "homeric-hymns-hymn-32-to-selene-18ebf0"
 title: Hymn 32 To Selene
 author:
   name: Homeric Hymns
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: A collection of anonymous Greek hexameter hymns addressed to individual gods, composed by various poets in the archaic and early classical periods in the Homeric style. The hymns served as preludes to epic recitation and preserve some of the earliest Greek narratives of the gods.
 era: Classical
 genre: Classics
 language: Greek

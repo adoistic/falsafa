@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 12
-chapter_title: "CHAPTER VIII.: THAT LOGICAL SUBTLETIES ARE NOT SAFE TO THE UNINSTRUCTED."
+chapter_title: "Chapter VIII.: That Logical Subtleties Are Not Safe to the Uninstructed."
 chapter_slug: 12
 variant_id: "12bbfbb2-babc-5ffa-91cc-2be258f284cc"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 450
+word_count: 446
 source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
 translator: Online Library of Liberty edition
 ---
@@ -22,7 +22,7 @@ IN as many ways as equivalent syllogisms may be varied, in so many may the logic
 
 “Why then do not we exercise ourselves and others, after this manner?”
 
-Because, even now, though we are not absorbed in these things, nor diverted, by me at least, from the study of morality; yet we make no eminent advances in virtue. What is to be expected then if we should add this avocation too? Especially as it would not only withdraw us from more necessary studies, but likewise afford a capital occasion of conceit and insolence. For the faculty of arguing, and of persuasive reasoning is great; and particularly, if it be constantly practised, and receive an additional ornament from rhetoric. For, in general, every such faculty is dangerous to weak and uninstructed persons, as being apt to render them arrogant and elated. For by what method can one persuade a young man, who excels in these kinds of study, that he ought not to be an appendage to these accomplishments, Edition: current; Page: [28] but they to him? Will he not trample upon all such advice; and walk about elated and puffed up, not bearing that any one should touch him, to put him in mind where he is wanting, and in what he goes wrong?
+Because, even now, though we are not absorbed in these things, nor diverted, by me at least, from the study of morality; yet we make no eminent advances in virtue. What is to be expected then if we should add this avocation too? Especially as it would not only withdraw us from more necessary studies, but likewise afford a capital occasion of conceit and insolence. For the faculty of arguing, and of persuasive reasoning is great; and particularly, if it be constantly practised, and receive an additional ornament from rhetoric. For, in general, every such faculty is dangerous to weak and uninstructed persons, as being apt to render them arrogant and elated. For by what method can one persuade a young man, who excels in these kinds of study, that he ought not to be an appendage to these accomplishments, but they to him? Will he not trample upon all such advice; and walk about elated and puffed up, not bearing that any one should touch him, to put him in mind where he is wanting, and in what he goes wrong?
 
 What then, was not Plato a philosopher?
 

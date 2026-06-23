@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 15
-chapter_title: APPENDIX.
+chapter_title: Appendix.
 chapter_slug: "15-appendix"
 variant_id: "26bac211-fcc8-5dba-8640-503871b87c64"
 content_type: translation

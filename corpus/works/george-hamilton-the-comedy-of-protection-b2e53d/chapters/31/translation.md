@@ -4,7 +4,7 @@ work_slug: "george-hamilton-the-comedy-of-protection-b2e53d"
 work_title: The Comedy of Protection
 author_name: George Hamilton
 chapter_number: 31
-chapter_title: "CHAPTER XXIII: THIERS’ AGRICULTURAL FORECASTS"
+chapter_title: "Chapter XXIV: Definite Results of the 1860 Treaty"
 chapter_slug: 31
 variant_id: "84a6744f-0770-5e96-85e3-c60ea18a5186"
 content_type: translation
@@ -13,15 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 261
+word_count: 472
 source_url: "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
 translator: Online Library of Liberty edition
 ---
 
-Thiers had declared in a speech made June 27-8, 1851, that to abolish the sliding scale and the Customs duties, then 3s. 7d. per bushel, would mean that no more seed was sown or corn produced in France; he threatened an inundation of corn from Russia, Naples, and Seville. In 1861 the Customs duty was converted into a registration duty of 21/2d., and the number of acres sown with wheat, which was 14,400,000, rose to 16,560,000 in 1865, 16,800,000 in 1869, and after the war, in 1880, under the same fiscal policy, the acreage remained the same. With the sliding scale in the single year 1857 the harvest had been 303,600,000 bushels. While the duty was only 21/2d. the following are the figures:—
+The two classes of Free Trader—Buddhistic and active—Effects of 1860—Prohibitions existing in 1860—Their definite repeal—Experience gained.
 
-Thus M. Thiers’ forecast did not come true. After the war, in spite of the reduction of French territory and the invasion by that American wheat which had Edition: current; Page: [75] succeeded Russian as a Protectionist argument, we find:—
+I have sometimes heard Free Traders of the passive, non-resisting type regret that the treaty of 1860 was ever signed; it seemed to them that an Act of such unusual authority directed against the Protectionists was passed in advance of public opinion, and therefore provoked reaction. I am not a Free Trader of the Buddhistic type; I did not hesitate to join issue with my friends of the Cobden Club when it was necessary to oppose bounties given to Continental sugars by countervailing duties. The Brussels Convention demolished the stronghold of the worst form of Protection—aggressive Protection, as M. Smet de Naeyer has so aptly qualified it; and the efforts to rebuild it could not restore its lost strength and stability. The effect of experience in human affairs is not the same as in a laboratory: it always modifies things so that no reconstruction can restore them exactly to their original form. And so with the 1860 treaties. In Europe their effects were profoundly felt for twenty years; in France they so transformed public opinion that the Protectionists were driven to the base subterfuges I have described in the attempt to win it again to their side, without succeeding, in spite of all their efforts, in re-establishing a régime such as had existed before the treaty. Before the treaty the following articles were absolutely prohibited in France: Woollen and cotton thread and textiles, linen textiles embroidered in cotton, hair thread and cloth (with the exception of cashmere shawls and scarves), ready-made clothes, prepared hides, manufactured goods in skin or leather, plated metal, cutlery, manufactured metal goods, cast iron in pieces of less than 32 lbs. in weight, wrought iron, polished brass wire, refined sugar, unscented soap, dye-wood extracts, madder, all chemicals not specifically excepted, rough earthenware and fine stoneware, glass and crystal, foreign molasses, powdered curcuma, patent medicines not specifically excepted, extract of quinine, ground chicory, goods made of hair or cork, carriages on springs, seagoing ships, and fancy turned goods. In not one of these cases was the prohibition re-established.
 
-A duty of 1s. 3d. was imposed in the following year, when the state of agriculture had proved it unnecessary; in 1887 a duty of 2s., and in 1904 one of 2s. 10d. The harvest of 1882 was not equalled till 1894; that of 1874 in 1898 and 1899, when it was 352,000,000 bushels. The last great harvest was that of 1902 with 341,000,000 bushels.
+Sulphuric acid at 6s. 5d. was protected by a duty of 16s. 5d., and is now free; nitric acid at 19s. 2d., with a duty of 36s., is taxed on the maximum tariff at 1s. and is free on the minimum; hydrochloric acid at 3s. 7d. paid 24s. 10d. duty; it now pays 11/2d. on the general tariff and is free on the minimum. Raw cotton, raw wool, linen, hemp, and raw silk are now duty free, and the French agrarians have not succeeded in reimposing the 3s. 7d. duty on wheat and the sliding scale which existed before 1861.
 
-Thus the Liberal régime, marked by the registration tax of 1860, had not destroyed French corn. In spite of the advance of agricultural science, the harvest of 1874 has never been equalled since.
+This twenty years’ experience of a moderate tariff is a forcible argument for Free Trade.

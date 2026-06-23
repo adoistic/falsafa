@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-social-statics-32e645",
+  "work_title": "Social Statics",
+  "chapter_number": 3,
+  "chapter_title": "The Doctrine of the Moral Sense.",
+  "chapter_slug": "03-the-doctrine-of-the-moral-sense",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0e6c20ed-8354-586e-96bf-5b6739475a94",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4968,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+    }
+  ]
+}

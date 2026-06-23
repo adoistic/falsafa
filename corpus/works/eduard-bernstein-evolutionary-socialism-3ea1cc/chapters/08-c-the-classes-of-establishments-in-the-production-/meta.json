@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-evolutionary-socialism-3ea1cc",
+  "work_title": "Evolutionary Socialism",
+  "chapter_number": 8,
+  "chapter_title": "(c) The Classes of Establishments in the Production and Distribution of Social Wealth",
+  "chapter_slug": "08-c-the-classes-of-establishments-in-the-production-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cc02fce6-140b-52f7-a4ba-997be5195201",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4122,
+      "paragraph_count": 85,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1899/evsoc/ch02-2.htm"
+    }
+  ]
+}

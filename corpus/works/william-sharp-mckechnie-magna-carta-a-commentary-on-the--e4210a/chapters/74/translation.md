@@ -4,7 +4,7 @@ work_slug: "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a"
 work_title: "Magna Carta: A Commentary on the Great Charter of King John"
 author_name: William Sharp McKechnie
 chapter_number: 74
-chapter_title: CHAPTER FIFTEEN.
+chapter_title: "Chapter Seventeen, I.: The Curia Regis as a Court of Law."
 chapter_slug: 74
 variant_id: "03442689-475b-5f6b-bc06-bb2698390950"
 content_type: translation
@@ -13,13 +13,17 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 143
+word_count: 360
 source_url: "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
 translator: Online Library of Liberty edition
 ---
 
-Nos non concedemus de cetero alicui quod capiat auxilium de liberis hominibus suis, nisi ad corpus suum redimendum, et ad faciendum primogenitum filium suum militem, et ad primogenitam filiam suam semel maritandam, et ad hec non fiat nisi racionabile auxilium.
+Communia placita non sequantur curiam nostram sed teneantur in aliquo loco certo.
 
-We will not for the future grant to any one licence to take an aid from his own free tenants, except to ransom his body, to make his eldest son a knight, and once to marry his eldest daughter; and on each of these occasions there shall be levied only a reasonable aid.
+Common pleas shall not follow our court, but shall be held in some fixed place.
 
-This chapter confers on the tenants of mesne lords protection similar to that already conferred on Crown–tenants: money is no longer to be extorted arbitrarily by their lords. Different machinery, however, had here to be adopted, since the expedient of chapter 12 (“the common counsel of the realm”) was inapplicable.
+An attempt was here made to render royal justice cheaper and more accessible. Law–suits in which the Crown had no special interest, common pleas, were to be held in some pre–appointed spot, and no longer to follow the King from place to place. The full extent of this boon will be better appreciated after a short consideration of the method of dispensing justice adopted by Henry II. and his sons.
+
+The evil complained of was a characteristically medieval one, and arose from the fact that all departments of government were centred in the King’s household. This Curia Regis, indeed, united in itself the functions of the modern Cabinet, of the administrative departments (such as the Home Office, the Foreign Office, and the Admiralty), and of the various legal tribunals. It was the parent inter alia of the Court at St. James’s and the courts at Westminster. Nothing could be done outside of the royal household, and that household never tarried long in any one spot. Everything was focussed to one point, but to a point constantly in motion. Wherever the King went, there the Curia Regis, with all its departments, went also. The entire machinery of royal justice followed Henry II., as he passed, sometimes on the impulse of the moment, from one of his favourite hunting seats to another. Crowds thronged after him in hot pursuit, since it was difficult to transact business of moment elsewhere.
+
+This meant intolerable delay, annoyance, and expense. The case of Richard of Anesty is often cited in illustration. His own account is a graphic record of his journeyings in search of justice, throughout a period of five years, during which he visited in the King’s wake most parts of England, Normandy, Aquitaine, and Anjou. The plaintiff, although ultimately successful, paid dearly for his legal triumph. Reduced to borrow from the Jews to meet enormous outlays, mostly travelling expenses, he had to discharge his debts with accumulations of interest at the ruinous rate of 86⅔ per cent.

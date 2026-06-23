@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-the-life-of-richard-cobden-23f473",
+  "work_title": "The Life of Richard Cobden",
+  "chapter_number": 52,
+  "chapter_title": "the Life of Richard Cobden, Maritime Law",
+  "chapter_slug": "52-the-life-of-richard-cobden-maritime-law",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfaa9d9f-0f12-5c7c-9745-848b033d3536",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 608,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+    }
+  ]
+}

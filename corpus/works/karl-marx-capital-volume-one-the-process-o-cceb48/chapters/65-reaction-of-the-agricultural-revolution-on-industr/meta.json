@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 65,
+  "chapter_title": "Reaction of the Agricultural Revolution on Industry. Creation of the Home-Market for Industrial Capital",
+  "chapter_slug": "65-reaction-of-the-agricultural-revolution-on-industr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "77cf03f7-b32f-54e1-ba87-8a751910b5a8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1427,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch30.htm"
+    }
+  ]
+}

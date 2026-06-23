@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-on-tranquillity-of-mind-2e6278",
+  "work_title": "On Tranquillity of Mind",
+  "chapter_number": 1,
+  "chapter_title": "On Tranquillity of Mind",
+  "chapter_slug": "01-on-tranquillity-of-mind",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0edc7eba-15bb-57f0-8ace-8e3c9825c025",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7653,
+      "paragraph_count": 139,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0255.stoa013"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a8fc0fd-a0d2-5c39-9bde-bdf77aa0d225",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12556,
+      "paragraph_count": 139,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

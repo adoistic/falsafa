@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 22,
+  "chapter_title": "Georges Noël: Hegel’s Logic. Paris, 1897",
+  "chapter_slug": "22-georges-noel-hegel-s-logic-paris-1897",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e99bcfc-a9e0-55b2-8e2b-9ddcc26db670",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1324,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/misc/x04.htm"
+    }
+  ]
+}

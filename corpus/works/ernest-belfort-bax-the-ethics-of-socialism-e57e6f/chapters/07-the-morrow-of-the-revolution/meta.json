@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-ethics-of-socialism-e57e6f",
+  "work_title": "The Ethics of Socialism",
+  "chapter_number": 7,
+  "chapter_title": "The Morrow of the Revolution",
+  "chapter_slug": "07-the-morrow-of-the-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14b74d29-fbd7-50b3-bf85-0139ed5855d1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1631,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1887/07/morrow.htm"
+    }
+  ]
+}

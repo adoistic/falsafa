@@ -1,0 +1,26 @@
+{
+  "work_slug": "max-weber-the-protestant-ethic-and-the-spi-3cade1",
+  "work_title": "The Protestant Ethic and the Spirit of Capitalism",
+  "chapter_number": 7,
+  "chapter_title": "D. The Baptist Sects",
+  "chapter_slug": "07-d-the-baptist-sects",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0409f10c-4794-5613-9950-e8136f24fdac",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2863,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/weber/protestant-ethic/ch04a.htm"
+    }
+  ]
+}

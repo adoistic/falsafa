@@ -4,7 +4,7 @@ work_slug: "william-godwin-of-population-a25378"
 work_title: Of Population
 author_name: William Godwin
 chapter_number: 24
-chapter_title: "APPENDIX TO CHAPTERS IV, V, & VI."
+chapter_title: "Appendix to Chapters IV, V, & VI."
 chapter_slug: "24-appendix-to-chapters-iv-v-vi"
 variant_id: "a9379986-203c-5720-91eb-ce60ae7e0300"
 content_type: translation
@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 860
+word_count: 852
 source_url: "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
 translator: Online Library of Liberty edition
 ---
 
-Upon looking back to the preceding Chapters on the subject of the population of Sweden, I am apprehensive I have granted too much on Edition: current; Page: [192] the point of the increase of the number of inhabitants in that country. Dr. Price, in his enquiry respecting the value of lives, was necessarily compelled to a very close study of the Tables of the Population of Sweden, these Tables being so greatly superior, in the judgment with which they were originally planned, the care and fidelity with which they have been executed, and the constancy with which they have been kept up and pursued, to any thing that is to be found of the same nature in any other part of the world.
+Upon looking back to the preceding Chapters on the subject of the population of Sweden, I am apprehensive I have granted too much on the point of the increase of the number of inhabitants in that country. Dr. Price, in his enquiry respecting the value of lives, was necessarily compelled to a very close study of the Tables of the Population of Sweden, these Tables being so greatly superior, in the judgment with which they were originally planned, the care and fidelity with which they have been executed, and the constancy with which they have been kept up and pursued, to any thing that is to be found of the same nature in any other part of the world.
 
 The following is in part the result of Dr. Price's observations on the subject.
 
@@ -26,7 +26,7 @@ The following is in part the result of Dr. Price's observations on the subject.
 
 “The whole number of males living in the three years from 1765 to 1767 [I apprehend the doctor should have said, “living, according to the enumeration for 1766”] was 1,182,848, and of females, 1,290,068. I have said that one of the twenty-six provinces of Sweden was omitted in the observations for these three years. The addition of this province will make the inhabitants of Sweden in 1766 above two millions and a half. In 1757 they were 2,323,195. They increased therefore at the rate of near 200,000 in nine years. But it appears that this increase had not been of long continuance; for, had it been so, a table formed from the decrements as given by the registers, and by taking the medium of annual deaths from 1755 to 1763 for the radix, would have given the probabilities of living much too small through the whole duration of life; whereas it does so only in the first stages of life. From 45 to 60 it gives them nearly equal; and after 60 it gives them greater, which is a plain proof that about the beginning of this century [the eighteenth)] Sweden was decreasing. To the same purpose it appears from the enumerations, that, while the numbers living in the first stages of life were increasing fast, the numbers in the last stages were decreasing.”
 
-In the preceding remarks Dr. Price had an Edition: current; Page: [194] advantage in some respects, which I cannot pretend to. He was engaged in a regular correspondence with Mr. Wargentin, to whom we appear to have been in the first instance so much indebted for the judicious conduct visible in the collections of the registers and enumerations of Sweden. That meritorious compiler transmitted to the doctor regularly the Tables of the Swedish population for a series of years, which are only given at irregular intervals in the Memoirs of the Royal Academy at Stockholm, from which I have transcribed them: and he appears further to have answered several queries which Dr. Price proposed to him, as to particular points not to be found in the registers and enumerations.
+In the preceding remarks Dr. Price had an advantage in some respects, which I cannot pretend to. He was engaged in a regular correspondence with Mr. Wargentin, to whom we appear to have been in the first instance so much indebted for the judicious conduct visible in the collections of the registers and enumerations of Sweden. That meritorious compiler transmitted to the doctor regularly the Tables of the Swedish population for a series of years, which are only given at irregular intervals in the Memoirs of the Royal Academy at Stockholm, from which I have transcribed them: and he appears further to have answered several queries which Dr. Price proposed to him, as to particular points not to be found in the registers and enumerations.
 
 On this account I will not quit the subject without inserting here a Table from Dr. Price's book, similar to those I have already inserted, but founded on an average of twenty-one years, from 1755 to 1776. And it is sufficiently remarkable that the numbers in this Table fall short, both in the amount of the child-bearing women, and of the inhabitants generally, of each of the enumerations exhibited by Mr. Wargentin in the Memoirs of the Academy for the early part of this period.
 

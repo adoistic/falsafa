@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-economic-doctrines-of-karl-m-8309a8",
+  "work_title": "The Economic Doctrines of Karl Marx",
+  "chapter_number": 10,
+  "chapter_title": "VI. The Surplus-Value of the “Small Master” and the Surplus-Value of the Capitalist",
+  "chapter_slug": "10-vi-the-surplus-value-of-the-small-master-and-the-s",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "71ecbe04-2c39-5573-8d2a-a55b718c9b79",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1079,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1903/economic/ch09.htm"
+    }
+  ]
+}

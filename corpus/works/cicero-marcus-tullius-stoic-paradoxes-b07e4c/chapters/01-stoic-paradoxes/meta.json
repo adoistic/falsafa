@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-stoic-paradoxes-b07e4c",
+  "work_title": "Stoic Paradoxes",
+  "chapter_number": 1,
+  "chapter_title": "Stoic Paradoxes",
+  "chapter_slug": "01-stoic-paradoxes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bd8e4ecf-1e6e-5ce5-9644-6658fd724c51",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4448,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi047"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1510b213-fe3c-5d0d-ac68-7ac120c8da63",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6855,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

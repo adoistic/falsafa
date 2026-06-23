@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 14,
-  "chapter_title": "CHAPTER IV.: ON NATURAL AND MARKET PRICE.",
+  "chapter_title": "Chapter V.: On Wages.",
   "chapter_slug": "14",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1324,
-      "paragraph_count": 10,
+      "word_count": 4392,
+      "paragraph_count": 41,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

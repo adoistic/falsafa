@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 47,
+  "chapter_title": "XLV. The Planet Without a Visa",
+  "chapter_slug": "47-xlv-the-planet-without-a-visa",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bcf252e1-f102-5125-8f7e-6bbec46ef3c1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6833,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch45.htm"
+    }
+  ]
+}

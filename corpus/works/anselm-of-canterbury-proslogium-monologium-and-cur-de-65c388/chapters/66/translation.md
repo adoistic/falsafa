@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 66
-chapter_title: CHAPTER XXVI.
+chapter_title: Chapter XXIX.
 chapter_slug: 66
 variant_id: "312bee08-b9ba-5447-8d43-9c74671abb20"
 content_type: translation
@@ -13,15 +13,19 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 214
+word_count: 370
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How this Being is said to be substance: it transcends all substance and is individually whatever it is.
+His expression is identical with himself, and consubstantial with him, since there are not two spirits, but one.
 
-But, if what we have ascertained concerning the simplicity of this Nature is established, how is it substance? For, though every substance is susceptible of admixture of difference, or, at any rate, susceptible of mutation by accidents, the immutable purity of this Being is inaccessible to admixture or mutation, in any form.
+But now, having considered these questions regarding the properties of the supreme Nature, which have occurred to me in following the guidance of reason to the present point, I think it reasonable to examine this Spirit’s expression (locutio), through which all things were created.
 
-How, then, shall it be maintained that it is a substance of any kind, except as it is called substance for being, and so transcends, as it is above, every substance? For, as great as is the difference between that Being, which is through itself whatever it is, and which creates every other being from nothing, and a being, which is made whatever it is through another, from nothing; so much does the supreme Substance differ from these beings, which are not what it is. And, since it alone, of all natures, derives from itself, without the help of another nature, whatever existence it has, is it not whatever it is individually and apart from association with its creatures?
+For, though all that has been ascertained regarding this expression above has the inflexible strength of reason, I am especially compelled to a more careful discussion of this expression by the fact that it is proved to be identical with the supreme Spirit himself. For, if this Spirit created nothing except through himself, and whatever was created by him was created through that expression, how shall that expression be anything else than what the Spirit himself is?
 
-Hence, if it ever shares any name with other beings, doubtless a very different signification of that name is to be understood in its case.
+Furthermore, the facts already discovered declare irrefutably that nothing at all ever could, or can, exist, except the creative Spirit and its creatures. But it is impossible that the expression of this Spirit is included among created beings; for every created being was created through that expression; but that expression could not be created through itself. For nothing can be created through itself, since every creature exists later than that through which it is created, and nothing exists later than itself.
+
+The alternative remaining is, then, that this expression of the supreme Spirit, since it cannot be a creature, is no other than the supreme Spirit. Therefore, this expression itself can be conceived of as nothing else than the intelligence (intelligentia) of this Spirit, by which he conceives of (intelligit) all things. For, to him, what is expressing anything, according to this kind of expression, but conceiving of it? For he does not, like man, ever fail to express what he conceives.
+
+If, then, the supremely simple Nature is nothing else than what its intelligence is, just as it is identical with its wisdom, necessarily, in the same way, it is nothing else than what its expression is. But, since it is already manifest that the supreme Spirit is one only, and altogether indivisible, this his expression must be so consubstantial with him, that they are not two spirits, but one.

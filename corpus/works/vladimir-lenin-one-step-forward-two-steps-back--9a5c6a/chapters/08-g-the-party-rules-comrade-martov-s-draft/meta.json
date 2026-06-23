@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-one-step-forward-two-steps-back--9a5c6a",
+  "work_title": "One Step Forward, Two Steps Back (The Crisis in Our Party)",
+  "chapter_number": 8,
+  "chapter_title": "G. The Party Rules. Comrade Martov’s Draft",
+  "chapter_slug": "08-g-the-party-rules-comrade-martov-s-draft",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52741272-9f77-58cc-bbc5-47dbec641e44",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3655,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1904/onestep/g.htm"
+    }
+  ]
+}

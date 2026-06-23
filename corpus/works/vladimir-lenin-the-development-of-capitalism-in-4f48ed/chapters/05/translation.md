@@ -1,0 +1,21 @@
+---
+work_id: "4f48ed4e-e9b7-554c-99fd-2e203e44e971"
+work_slug: "vladimir-lenin-the-development-of-capitalism-in-4f48ed"
+work_title: The Development of Capitalism in Russia
+author_name: Vladimir Lenin
+chapter_number: 5
+chapter_title: Chapter I. The Theoretical Mistakes of the Narodnik Economists (3)
+chapter_slug: 05
+variant_id: "3340b282-2ec7-544a-9f88-ccbd5c15ec5e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 613
+source_url: "https://www.marxists.org/archive/lenin/works/1899/dcr8i/i8iii.htm"
+translator: Marxists Internet Archive edition
+---
+
+So far we have dealt with simple commodity production. Now we pass to capitalist production, that is, we presume that instead of simple commodity producers we have, on the one hand, the owner of means of production and, on the other, the wage-worker, the seller of labour-power. The conversion of the small producer into a wage-worker presumes that he has lost the means of production—land, tools, workshop, etc.—i.e., that he is “impoverished,” “ruined.” The view is advanced that this ruin “diminishes the purchasing power of the population,” “diminishes the home market” for capitalism (Mr. N.–on, loc. cit., p. 185. Also pp. 203, 275, 287, 339-340, etc. The same view is held by Mr. V. V. in the majority of his writings). We do not deal here with the factual data relating to this process in Russia—they will be examined in detail in later chapters. At the moment the question is posed purely theoretically, i.e., it relates to commodity production in general where it is transformed into capitalist production. The writers mentioned also pose this question theoretically, i.e., from the mere fact of the ruin of the small producers they deduce a shrinkage of the home market. This view is absolutely incorrect, and its persistent survival in our economic literature can only be explained by the romantic prejudices of Narodism (see the article referred to in the footnote). It is forgotten that the “freeing” of one section of the producers from the means of production necessarily presumes the passage of the latter into other hands, their conversion into capital; presumes, consequently, that the new owners of these means of production produce as commodities the products formerly consumed by the producer himself, i.e., expand the home market; that in expanding production the new owners of the means of production present a demand to the market for new implements, raw materials, means of transport, etc., and also for articles of consumption (the enrichment of these new owners naturally presumes an increase in their consumption). It is forgotten that it is by no means the well-being of the producer that is important for the market but his possession of money; the decline in the well-being of the patriarchal peasant, who formerly conducted a mainly natural economy, is quite compatible with an increase in the amount of money in his possession, for the more such a peasant is ruined, the more he is compelled to resort to the sale of his labour-power, and the greater is the share of his (albeit scantier) means of subsistence that he must acquire in the market. “With the setting free (from the land) of a part of the agricultural population, therefore, their former means of nourishment were also set free. They were now transformed into material elements of variable capital” (capital spent on the purchase of labour-power) (Das Kapital, I, 776). “The expropriation and eviction of a part of the agricultural population not only set free for industrial capital the labourers, their means of subsistence, and material for labour; it also created the home market ” (ibid., 778). Thus, from the standpoint of abstract theory, the ruin of the small producers in a society of developing commodity economy and capitalism means the very opposite to what Messrs. N.–on and V. V. want to deduce therefrom; it means the creation and not the shrinkage of the home market. If the very same Mr. N.–on, who declares a priori that the ruin of the Russian small producers means the shrinkage of the home market, nevertheless cites the just quoted contrary assertions of Marx (Sketches, pp. 71 and 114), it only proves the remarkable ability of that writer to belabour himself with quotations from Capital.

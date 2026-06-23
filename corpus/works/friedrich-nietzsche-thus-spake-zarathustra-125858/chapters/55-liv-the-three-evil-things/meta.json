@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 55,
+  "chapter_title": "LIV. The Three Evil Things.",
+  "chapter_slug": "55-liv-the-three-evil-things",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a9724b91-5f3e-580a-a26b-05cad321a3f1",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 1204,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "199f2e1f-db29-5329-8d91-d15f42bae4f0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1360,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

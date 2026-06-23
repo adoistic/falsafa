@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-value-price-and-profit-f96c8c",
+  "work_title": "Value, Price and Profit",
+  "chapter_number": 12,
+  "chapter_title": "XI. The Different Parts into which Surplus Value is Decomposed",
+  "chapter_slug": "12-xi-the-different-parts-into-which-surplus-value-is",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2083538-471c-54b8-be69-cedadc214e52",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1217,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1865/value-price-profit/ch02.htm"
+    }
+  ]
+}

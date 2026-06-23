@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-paine-the-rights-of-man-e48f8e",
+  "work_title": "The Rights of Man",
+  "chapter_number": 4,
+  "chapter_title": "Osbervations on the Declaration of Rights.",
+  "chapter_slug": "04-osbervations-on-the-declaration-of-rights",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2f4b877e-3e9d-5a60-a889-3a7bc38d5641",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 695,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paine-the-rights-of-man-part-i-1791-ed"
+    }
+  ]
+}

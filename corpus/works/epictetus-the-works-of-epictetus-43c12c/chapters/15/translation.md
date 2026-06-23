@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 15
-chapter_title: "CHAPTER XI.: OF NATURAL AFFECTION."
+chapter_title: "Chapter XI.: Of Natural Affection."
 chapter_slug: 15
 variant_id: "b2b5390b-f105-5e29-8b5c-efe606952ba6"
 content_type: translation
@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1470
+word_count: 1458
 source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
 translator: Online Library of Liberty edition
 ---
 
-WHEN an important personage once came to visit him, Epictetus, having inquired into the particulars of his affairs, asked him, Whether he had a wife and children? The other replying that he had, Epictetus likewise inquired, In what manner do you Edition: current; Page: [35] live with them? “Very miserably,” says he. — How so? For men do not marry, and get children, to be miserable; but rather to make themselves happy. — “But I am so very miserable about my children, that the other day, when my daughter was sick, and appeared to be in danger, I could not bear even to be with her; but ran away, till it was told me, that she was recovered.” — And pray do you think this was acting right? — “It was acting naturally,” said he. — Well? do but convince me that it was acting naturally, and I can as well convince you that everything natural is right. — “All, or most of us fathers, are affected in the same way.” — I do not deny the fact; but the question between us is, whether it be right. For by this way of reasoning, it must be said, that diseases happen for the good of the body, because they do happen; and even that vices are natural, because all, or most of us, are guilty of them. Do you show me then, how such a behavior as yours appears to be natural.
+WHEN an important personage once came to visit him, Epictetus, having inquired into the particulars of his affairs, asked him, Whether he had a wife and children? The other replying that he had, Epictetus likewise inquired, In what manner do you live with them? “Very miserably,” says he. — How so? For men do not marry, and get children, to be miserable; but rather to make themselves happy. — “But I am so very miserable about my children, that the other day, when my daughter was sick, and appeared to be in danger, I could not bear even to be with her; but ran away, till it was told me, that she was recovered.” — And pray do you think this was acting right? — “It was acting naturally,” said he. — Well? do but convince me that it was acting naturally, and I can as well convince you that everything natural is right. — “All, or most of us fathers, are affected in the same way.” — I do not deny the fact; but the question between us is, whether it be right. For by this way of reasoning, it must be said, that diseases happen for the good of the body, because they do happen; and even that vices are natural, because all, or most of us, are guilty of them. Do you show me then, how such a behavior as yours appears to be natural.
 
 “I cannot undertake that. But do you rather show me, that it is neither natural nor right.”
 
@@ -34,7 +34,7 @@ Well then? when we are debating about natural and unnatural, and right and wrong
 
 “I cannot tell
 
-And yet to be ignorant of a criterion of colors, or of smells, or tastes, might perhaps be no very great loss. But do you think, that he suffers only a small Edition: current; Page: [36] loss, who is ignorant of what is good and evil, and natural and unnatural to man?
+And yet to be ignorant of a criterion of colors, or of smells, or tastes, might perhaps be no very great loss. But do you think, that he suffers only a small loss, who is ignorant of what is good and evil, and natural and unnatural to man?
 
 “No. The very greatest.”
 
@@ -132,7 +132,7 @@ Well then: such as the cause is, such will be the effect. From this day forward,
 
 “Agreed.”
 
-From this day, then, we will not so closely inquire as to any external conditions, — estate, or slaves, or Edition: current; Page: [40] horses, or dogs, — but only make sure of our own principles.
+From this day, then, we will not so closely inquire as to any external conditions, — estate, or slaves, or horses, or dogs, — but only make sure of our own principles.
 
 “Such is my desire,” said the visitor.
 

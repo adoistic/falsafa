@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-mctaggart-a-commentary-on-hegels-logic-5c82b2",
+  "work_title": "A Commentary on Hegel's Logic",
+  "chapter_number": 14,
+  "chapter_title": "C. The Kind.",
+  "chapter_slug": "14-c-the-kind",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c74524ad-565a-50f3-a14e-550715dc41b3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4627,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/mctaggart/logic/ch10.htm"
+    }
+  ]
+}

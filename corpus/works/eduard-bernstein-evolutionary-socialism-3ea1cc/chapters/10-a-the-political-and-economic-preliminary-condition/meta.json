@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-evolutionary-socialism-3ea1cc",
+  "work_title": "Evolutionary Socialism",
+  "chapter_number": 10,
+  "chapter_title": "(a) The political and economic preliminary conditions of socialism",
+  "chapter_slug": "10-a-the-political-and-economic-preliminary-condition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d681c9d-286c-5533-b472-9e4497bbfde4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3012,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1899/evsoc/ch03-1.htm"
+    }
+  ]
+}

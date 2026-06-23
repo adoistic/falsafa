@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-pure-reason-dbaa24",
+  "work_title": "The Critique of Pure Reason",
+  "chapter_number": 4,
+  "chapter_title": "Book I — Analytic of Conceptions. § 2",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1288bfcf-611c-5a97-8f59-756f3e6d3502",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 17369,
+      "paragraph_count": 121,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4280"
+    }
+  ]
+}

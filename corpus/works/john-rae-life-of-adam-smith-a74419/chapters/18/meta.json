@@ -2,7 +2,7 @@
   "work_slug": "john-rae-life-of-adam-smith-a74419",
   "work_title": "Life of Adam Smith",
   "chapter_number": 18,
-  "chapter_title": "CHAPTER XVII: LONDON 1773-1776. Aet. 50-53",
+  "chapter_title": "Chapter XVIII: \"The Wealth of Nations\" 1776. Aet. 52",
   "chapter_slug": "18",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 8063,
-      "paragraph_count": 45,
+      "word_count": 3679,
+      "paragraph_count": 17,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
     }

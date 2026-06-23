@@ -1,0 +1,26 @@
+{
+  "work_slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
+  "work_title": "The Thoughts (Pensées) of Blaise Pascal",
+  "chapter_number": 13,
+  "chapter_title": "The Philosophers.",
+  "chapter_slug": "13-the-philosophers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5ea17537-bd1a-56fb-9b03-7c1ffd34b998",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3135,
+      "paragraph_count": 68,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-the-thoughts-of-blaise-pascal"
+    }
+  ]
+}

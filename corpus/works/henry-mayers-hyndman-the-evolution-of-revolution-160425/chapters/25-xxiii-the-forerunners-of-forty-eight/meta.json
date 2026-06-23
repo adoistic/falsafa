@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 25,
+  "chapter_title": "XXIII. The Forerunners of Forty-eight",
+  "chapter_slug": "25-xxiii-the-forerunners-of-forty-eight",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b5c8070b-708a-5844-933f-75009253e3f4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2208,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter23.htm"
+    }
+  ]
+}

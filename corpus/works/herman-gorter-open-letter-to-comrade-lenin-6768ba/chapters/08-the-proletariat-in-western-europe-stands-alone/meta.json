@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+  "work_title": "Open Letter to Comrade Lenin",
+  "chapter_number": 8,
+  "chapter_title": "The proletariat in Western Europe stands alone.",
+  "chapter_slug": "08-the-proletariat-in-western-europe-stands-alone",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae103db6-8f67-5ff9-8da6-f8b45f00d4c5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2166,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1920/open-letter.htm"
+    }
+  ]
+}

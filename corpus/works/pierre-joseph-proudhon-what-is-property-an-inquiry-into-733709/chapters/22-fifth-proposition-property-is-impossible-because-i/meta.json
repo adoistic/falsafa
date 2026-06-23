@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 22,
+  "chapter_title": "Fifth Proposition. Property is impossible, because, if it exists, Society devours itself.",
+  "chapter_slug": "22-fifth-proposition-property-is-impossible-because-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3ac61a01-07a6-5c89-97f3-5e0d0e75802a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3618,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch04.htm"
+    }
+  ]
+}

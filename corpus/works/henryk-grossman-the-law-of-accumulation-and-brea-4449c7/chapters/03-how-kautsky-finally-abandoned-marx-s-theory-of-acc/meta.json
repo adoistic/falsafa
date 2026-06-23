@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-law-of-accumulation-and-brea-4449c7",
+  "work_title": "The Law of Accumulation and Breakdown of the Capitalist System",
+  "chapter_number": 3,
+  "chapter_title": "How Kautsky finally abandoned Marx’s theory of accumulation and of breakdown",
+  "chapter_slug": "03-how-kautsky-finally-abandoned-marx-s-theory-of-acc",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "929d548f-8ca9-513b-8cbb-4d7bb7ea255c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1811,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/ch01.htm"
+    }
+  ]
+}

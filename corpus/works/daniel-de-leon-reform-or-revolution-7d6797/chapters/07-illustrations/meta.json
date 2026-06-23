@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-reform-or-revolution-7d6797",
+  "work_title": "Reform or Revolution?",
+  "chapter_number": 7,
+  "chapter_title": "Illustrations",
+  "chapter_slug": "07-illustrations",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ad40c7d9-ae07-537a-9ef2-0dc4c92d16c2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1604,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1896/960126.htm"
+    }
+  ]
+}

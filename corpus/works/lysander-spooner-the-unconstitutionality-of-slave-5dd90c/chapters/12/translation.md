@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-the-unconstitutionality-of-slave-5dd90c"
 work_title: The Unconstitutionality of Slavery
 author_name: Lysander Spooner
 chapter_number: 12
-chapter_title: "CHAPTER XI.: THE UNDERSTANDING OF THE PEOPLE."
+chapter_title: "Chapter XI.: The Understanding of the People."
 chapter_slug: 12
 variant_id: "3b598c16-81db-5658-bae0-a22421a08835"
 content_type: translation
@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 769
+word_count: 765
 source_url: "https://oll.libertyfund.org/titles/spooner-the-unconstitutionality-of-slavery-1860"
 translator: Online Library of Liberty edition
 ---
 
-Although the inquiry may be of no legal importance, it may nevertheless be one pertinent to the subject, whether it be matter of history even—to say nothing of legal proof—that the people of the country did really understand or believe that the constitution sanctioned slavery? Those who make the assertion are Edition: current; Page: [125] bound to prove it. The presumption is against them. Where is their contrary history?
+Although the inquiry may be of no legal importance, it may nevertheless be one pertinent to the subject, whether it be matter of history even—to say nothing of legal proof—that the people of the country did really understand or believe that the constitution sanctioned slavery? Those who make the assertion are bound to prove it. The presumption is against them. Where is their contrary history?
 
 They will say that a part of the people were actually slaveholders, and that it is unreasonable to suppose they would have agreed to the constitution, if they had understood it to be a free one.
 

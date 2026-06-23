@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 4,
+  "chapter_title": "Petrograd",
+  "chapter_slug": "04-petrograd",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f5982c69-f53c-5bfc-bffb-45cc78e0ba97",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2317,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch02.htm"
+    }
+  ]
+}

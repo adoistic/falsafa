@@ -1,0 +1,3639 @@
+{
+ "generated_at": "2026-06-15T05:21:39.022Z",
+ "total_works": 1448,
+ "issues": [
+  {
+   "work": "plutarch-fabius-maximus-ee77a0",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "27/27"
+  },
+  {
+   "work": "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "14/26"
+  },
+  {
+   "work": "john-calvin-the-institutes-of-the-christian--c755fe",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "john-calvin-the-institutes-of-the-christian--c755fe",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "74/131"
+  },
+  {
+   "work": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+   "source": "other",
+   "issue": "tiny_chapters",
+   "detail": "1 of 60"
+  },
+  {
+   "work": "josef-stalin-economic-problems-of-socialism-i-29ee3b",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "9/14"
+  },
+  {
+   "work": "josef-stalin-economic-problems-of-socialism-i-29ee3b",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "1 of 14"
+  },
+  {
+   "work": "richard-whately-introductory-lectures-on-politic-11d429",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "9/11"
+  },
+  {
+   "work": "apollodorus-epitome-8e04c6",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Apollodorus"
+  },
+  {
+   "work": "apollodorus-epitome-8e04c6",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "7/7"
+  },
+  {
+   "work": "xenophon-cyropaedia-ec8f80",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "8/8"
+  },
+  {
+   "work": "old-testament-exodus-8299d2",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "40/40"
+  },
+  {
+   "work": "plutarch-camillus-8a1f01",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "43/43"
+  },
+  {
+   "work": "plutarch-camillus-8a1f01",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 43"
+  },
+  {
+   "work": "clara-zetkin-through-dictatorship-to-democrac-1a9a37",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "2 of 11"
+  },
+  {
+   "work": "petronius-arbiter-fragments-267825",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Petronius Arbiter"
+  },
+  {
+   "work": "plutarch-demetrius-3c428e",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "53/53"
+  },
+  {
+   "work": "appianus-of-alexandria-mithridatic-wars-13f095",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "17/17"
+  },
+  {
+   "work": "boethius-the-consolation-of-philosophy-88b715",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "boethius-the-consolation-of-philosophy-88b715",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "47/64"
+  },
+  {
+   "work": "cicero-marcus-tullius-pro-p-sestio-31e61d",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "31308 words"
+  },
+  {
+   "work": "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "33/34"
+  },
+  {
+   "work": "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f",
+   "source": "gutenberg",
+   "issue": "tiny_chapters",
+   "detail": "4 of 34"
+  },
+  {
+   "work": "william-allan-chapple-the-fertility-of-the-unfit-7ec06d",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "vladimir-lenin-what-the-friends-of-the-people-a-df3f3e",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "10/11"
+  },
+  {
+   "work": "john-mctaggart-studies-in-hegelian-cosmology-f3efa4",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "9/10"
+  },
+  {
+   "work": "suetonius-divus-augustus-9e67ae",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "98/99"
+  },
+  {
+   "work": "suetonius-divus-augustus-9e67ae",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "2 of 99"
+  },
+  {
+   "work": "richard-overton-an-arrow-against-all-tyrants-fcec52",
+   "source": "oll",
+   "issue": "missing_author_years",
+   "detail": "Richard Overton"
+  },
+  {
+   "work": "plato-timaeus-0325c7",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "35059 words"
+  },
+  {
+   "work": "friedrich-schiller-aesthetical-essays-8efa06",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "27/29"
+  },
+  {
+   "work": "plutarch-themistocles-24aecf",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "32/32"
+  },
+  {
+   "work": "plutarch-caius-marius-45d754",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "46/46"
+  },
+  {
+   "work": "vladimir-lenin-karl-marx-a-brief-biographical-s-bc9f04",
+   "source": "marxists",
+   "issue": "apparatus_chapters",
+   "detail": "Bibliography"
+  },
+  {
+   "work": "ignatius-of-antioch-epistles-394582",
+   "source": "perseus",
+   "issue": "dup_chapter_titles",
+   "detail": "74 duplicates"
+  },
+  {
+   "work": "ignatius-of-antioch-epistles-394582",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "91/96"
+  },
+  {
+   "work": "ignatius-of-antioch-epistles-394582",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "29 of 96"
+  },
+  {
+   "work": "pseudo-plutarch-de-fluviis-650d9e",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "24/24"
+  },
+  {
+   "work": "old-testament-judges-ed3d14",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "21/21"
+  },
+  {
+   "work": "demosthenes-on-the-crown-6f92d0",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "30511 words"
+  },
+  {
+   "work": "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "25/25"
+  },
+  {
+   "work": "plutarch-comparison-of-nicias-and-crassus-50e1c8",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "plautus-titus-maccius-curculio-5a150c",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/6"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-25-022e35",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "24544 words"
+  },
+  {
+   "work": "plutarch-publicola-0b0e18",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "23/23"
+  },
+  {
+   "work": "sallust-bellum-iugurthinum-42bb8f",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "114/114"
+  },
+  {
+   "work": "unknown-vratisasana-d0fe75",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "homeric-hymns-hymn-9-to-artemis-550540",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 1"
+  },
+  {
+   "work": "friedrich-nietzsche-thus-spake-zarathustra-german-or-4faa1f",
+   "source": "gutenberg",
+   "issue": "unsplit_book",
+   "detail": "82843 words"
+  },
+  {
+   "work": "voltaire-toleration-and-other-essays-91a5c9",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "p-vergilius-maro-virgil-georgics-c2e75f",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "homer-epigrams-4a5bfa",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Homer"
+  },
+  {
+   "work": "allama-iqbal-bang-e-dara-part-1-55b25c",
+   "source": "other",
+   "issue": "tiny_chapters",
+   "detail": "3 of 44"
+  },
+  {
+   "work": "johann-karl-rodbertus-overproduction-and-crises-eb7dda",
+   "source": "marxists",
+   "issue": "unsplit_book",
+   "detail": "24803 words"
+  },
+  {
+   "work": "bertrand-russell-proposed-roads-to-freedom-3ac9cb",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "8/8"
+  },
+  {
+   "work": "clemens-romanus-clement--the-second-epistle-of-clement-to-936aca",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Clemens Romanus (Clement of Rome)"
+  },
+  {
+   "work": "clemens-romanus-clement--the-second-epistle-of-clement-to-936aca",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "20/20"
+  },
+  {
+   "work": "clemens-romanus-clement--the-second-epistle-of-clement-to-936aca",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 20"
+  },
+  {
+   "work": "plutarch-pelopidas-ddfb4d",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "35/35"
+  },
+  {
+   "work": "unknown-visnu-smrti-27f0d8",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Viṣṇu"
+  },
+  {
+   "work": "unknown-visnu-smrti-27f0d8",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "unknown-visnu-smrti-27f0d8",
+   "source": "other",
+   "issue": "mostly_generic_titles",
+   "detail": "100/100"
+  },
+  {
+   "work": "unknown-visnu-smrti-27f0d8",
+   "source": "other",
+   "issue": "tiny_chapters",
+   "detail": "11 of 100"
+  },
+  {
+   "work": "plato-cratylus-ebc166",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "24086 words"
+  },
+  {
+   "work": "claudian-carminum-minorum-corpusculum-63b5eb",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "35/35"
+  },
+  {
+   "work": "claudian-carminum-minorum-corpusculum-63b5eb",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "7 of 35"
+  },
+  {
+   "work": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "1 of 18"
+  },
+  {
+   "work": "cicero-marcus-tullius-letters-to-his-friends-32b267",
+   "source": "perseus",
+   "issue": "dup_chapter_titles",
+   "detail": "3 duplicates"
+  },
+  {
+   "work": "cicero-marcus-tullius-letters-to-his-friends-32b267",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "20 of 454"
+  },
+  {
+   "work": "herodotus-the-histories-ecffbd",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "9/9"
+  },
+  {
+   "work": "new-testament-2-timothy-e401d9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-22-5e55a6",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "29591 words"
+  },
+  {
+   "work": "henry-higgs-the-physiocrats-608e7d",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "6/7"
+  },
+  {
+   "work": "xenophon-on-the-cavalry-commander-03ebf4",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "9/9"
+  },
+  {
+   "work": "plutarch-artaxerxes-e9b4b4",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "30/30"
+  },
+  {
+   "work": "old-testament-psalms-3a8fd1",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "148/148"
+  },
+  {
+   "work": "old-testament-psalms-3a8fd1",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "3 of 148"
+  },
+  {
+   "work": "plutarch-sertorius-87dc7f",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "27/27"
+  },
+  {
+   "work": "plutarch-sertorius-87dc7f",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 27"
+  },
+  {
+   "work": "plato-phaedrus-bf287e",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "23231 words"
+  },
+  {
+   "work": "aretaeus-of-cappadocia-de-causis-et-signis-diuturnorum--76dd5b",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Aretaeus of Cappadocia"
+  },
+  {
+   "work": "baruch-spinoza-theologico-political-treatise-pa-9c6d2d",
+   "source": "gutenberg",
+   "issue": "tiny_chapters",
+   "detail": "1 of 8"
+  },
+  {
+   "work": "john-stuart-mill-principles-of-political-economy-3c9008",
+   "source": "hart",
+   "issue": "mostly_allcaps_titles",
+   "detail": "75/76"
+  },
+  {
+   "work": "michel-de-montaigne-literary-and-philosophical-essay-6e6fc6",
+   "source": "gutenberg",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "michel-de-montaigne-literary-and-philosophical-essay-6e6fc6",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "26/30"
+  },
+  {
+   "work": "plutarch-cato-the-younger-facb83",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "73/73"
+  },
+  {
+   "work": "plato-philebus-f50093",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "23971 words"
+  },
+  {
+   "work": "plutarch-alexander-1ed01a",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "77/77"
+  },
+  {
+   "work": "j-b-baillie-the-origin-and-significance-of-h-55a431",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "12/13"
+  },
+  {
+   "work": "pindar-isthmean-c5037b",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "8/8"
+  },
+  {
+   "work": "unknown-naradasmrti-7650d2",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Nārada"
+  },
+  {
+   "work": "unknown-naradasmrti-7650d2",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "unknown-naradasmrti-7650d2",
+   "source": "other",
+   "issue": "unsplit_book",
+   "detail": "27765 words"
+  },
+  {
+   "work": "xenophon-on-hunting-7355e5",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "13/13"
+  },
+  {
+   "work": "rene-descartes-discourse-on-the-method-e1eae3",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "david-hume-an-enquiry-concerning-human-unde-4954ef",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "14/14"
+  },
+  {
+   "work": "xenophon-agesilaus-85e29e",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "11/11"
+  },
+  {
+   "work": "suetonius-nero-2475f9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "55/56"
+  },
+  {
+   "work": "suetonius-nero-2475f9",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 56"
+  },
+  {
+   "work": "new-testament-matthew-36d81d",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "28/28"
+  },
+  {
+   "work": "plutarch-marcus-cato-5dd3ac",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "27/27"
+  },
+  {
+   "work": "rosa-luxemburg-the-junius-pamphlet-the-crisis-o-b0b574",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "8/8"
+  },
+  {
+   "work": "phaedrus-fabulae-6b12c9",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Phaedrus"
+  },
+  {
+   "work": "phaedrus-fabulae-6b12c9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "appianus-of-alexandria-punic-wars-5471a2",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "20/22"
+  },
+  {
+   "work": "plautus-titus-maccius-epidicus-12565f",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/6"
+  },
+  {
+   "work": "epictetus-the-handbook-ae73b2",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "45/45"
+  },
+  {
+   "work": "epictetus-the-handbook-ae73b2",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "14 of 45"
+  },
+  {
+   "work": "emile-faguet-initiation-into-philosophy-db6cb4",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "celsus-aulus-cornelius-de-medicina-846bd1",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Celsus, Aulus Cornelius"
+  },
+  {
+   "work": "celsus-aulus-cornelius-de-medicina-846bd1",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "8/8"
+  },
+  {
+   "work": "plutarch-pericles-764eec",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "39/39"
+  },
+  {
+   "work": "plato-symposium-979601",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "23681 words"
+  },
+  {
+   "work": "antonio-labriola-socialism-and-philosophy-76c79b",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "7/12"
+  },
+  {
+   "work": "plutarch-de-facie-quae-in-orbe-lunae-appa-15ffab",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "20094 words"
+  },
+  {
+   "work": "john-a-hobson-imperialism-a-study-71797f",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "40/49"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-26-a8bc2f",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "28951 words"
+  },
+  {
+   "work": "cicero-marcus-tullius-de-officiis-c325e6",
+   "source": "perseus",
+   "issue": "dup_chapter_titles",
+   "detail": "1 duplicates"
+  },
+  {
+   "work": "william-morris-and-e-bel-socialism-its-growth-and-outcome-1431d3",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "21/24"
+  },
+  {
+   "work": "new-testament-ephesians-a7cc21",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "diogenes-laertius-vitae-philosophorum-bafbb3",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Diogenes Laertius"
+  },
+  {
+   "work": "diogenes-laertius-vitae-philosophorum-bafbb3",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "aristotle-politics-ad5a22",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "8/8"
+  },
+  {
+   "work": "vladimir-lenin-the-development-of-capitalism-in-4f48ed",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "70/80"
+  },
+  {
+   "work": "unknown-san-hyan-kamahayanikan-2a0c19",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Mpu Shri Sambhara Surya Warama"
+  },
+  {
+   "work": "unknown-san-hyan-kamahayanikan-2a0c19",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "andrew-fletcher-of-salto-selected-political-writings-and--3dd8a8",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "andrew-fletcher-of-salto-selected-political-writings-and--3dd8a8",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "17/24"
+  },
+  {
+   "work": "bacchylides-epinicians-8ecde7",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "14/14"
+  },
+  {
+   "work": "bacchylides-epinicians-8ecde7",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "2 of 14"
+  },
+  {
+   "work": "cicero-marcus-tullius-de-domo-sua-ad-pontifices-cb5a2b",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "27607 words"
+  },
+  {
+   "work": "louis-b-boudin-the-class-struggle-and-the-missi-199476",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "3/4"
+  },
+  {
+   "work": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+   "source": "oll",
+   "issue": "dup_chapter_titles",
+   "detail": "4 duplicates"
+  },
+  {
+   "work": "george-john-romanes-mind-and-motion-and-monism-0ab6da",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "friedrich-nietzsche-the-case-of-wagner-nietzsche-con-cf0495",
+   "source": "gutenberg",
+   "issue": "unsplit_book",
+   "detail": "27475 words"
+  },
+  {
+   "work": "plautus-titus-maccius-captivi-b87441",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "suetonius-domitianus-2cd73b",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "23/24"
+  },
+  {
+   "work": "suetonius-domitianus-2cd73b",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 24"
+  },
+  {
+   "work": "william-stanley-jevons-methods-of-social-reform-and-oth-96a24b",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "39/57"
+  },
+  {
+   "work": "suetonius-tiberius-6262d9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "75/76"
+  },
+  {
+   "work": "suetonius-tiberius-6262d9",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "5 of 76"
+  },
+  {
+   "work": "averroes-ibn-rushd-the-philosophy-and-theology-of-a-3f48f4",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "lysander-spooner-a-letter-to-grover-cleveland-13d19d",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "26/28"
+  },
+  {
+   "work": "new-testament-colossians-7c22ab",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "john-stuart-mill-essays-on-some-unsettled-questio-0b285d",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "4/5"
+  },
+  {
+   "work": "unknown-san-hyan-mahajnana-11c531",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "old-testament-genesis-1837de",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "50/50"
+  },
+  {
+   "work": "richard-william-church-bacon-d0bce2",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "9/9"
+  },
+  {
+   "work": "tacitus-cornelius-historiae-781150",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "plautus-titus-maccius-aulularia-389df7",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "old-testament-amos-a702fa",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "9/9"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-31-5e5b20",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "21110 words"
+  },
+  {
+   "work": "euclid-elements-d711e4",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Euclid"
+  },
+  {
+   "work": "euclid-elements-d711e4",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "13/13"
+  },
+  {
+   "work": "john-locke-second-treatise-of-government-99e9e5",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "19/20"
+  },
+  {
+   "work": "john-stuart-mill-on-liberty-34cdb0",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "8/8"
+  },
+  {
+   "work": "huldrych-zwingli-selected-works-of-huldrich-zwing-7053d2",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "pseudo-justinus-martyr-the-epistle-to-diogentus-48b7af",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-28-427c91",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "27488 words"
+  },
+  {
+   "work": "flavius-josephus-life-of-josephus-92e1f9",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "25167 words"
+  },
+  {
+   "work": "daniel-de-leon-socialist-reconstruction-of-soci-3cb48c",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "1 of 6"
+  },
+  {
+   "work": "thomas-hodgskin-the-natural-and-artificial-right-07abc8",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "7/9"
+  },
+  {
+   "work": "new-testament-hebrews-1c3d2f",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "13/13"
+  },
+  {
+   "work": "titus-livius-livy-ab-urbe-condita-882964",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "old-testament-i-kings-d39927",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "22/22"
+  },
+  {
+   "work": "plato-phaedo-2d2a3c",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "27916 words"
+  },
+  {
+   "work": "cicero-marcus-tullius-pro-s-roscio-amerino-e252d2",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "21586 words"
+  },
+  {
+   "work": "unknown-kunjarakarna-dharmakathana-894f4a",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Mpu Dusun"
+  },
+  {
+   "work": "unknown-kunjarakarna-dharmakathana-894f4a",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "plutarch-solon-48a3e2",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "32/32"
+  },
+  {
+   "work": "plutarch-sulla-3d5f55",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "38/38"
+  },
+  {
+   "work": "terence-phormio-ffdb31",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "friedrich-nietzsche-the-antichrist-1ace0e",
+   "source": "gutenberg",
+   "issue": "unsplit_book",
+   "detail": "33421 words"
+  },
+  {
+   "work": "plutarch-comparison-of-dion-and-brutus-7f9097",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "cynewulf-andreas-07b573",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Cynewulf"
+  },
+  {
+   "work": "cynewulf-andreas-07b573",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "plautus-titus-maccius-mercator-200152",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/6"
+  },
+  {
+   "work": "old-testament-canticle-0b3723",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "8/8"
+  },
+  {
+   "work": "gaius-institutes-of-roman-law-09683f",
+   "source": "oll",
+   "issue": "missing_author_years",
+   "detail": "Gaius"
+  },
+  {
+   "work": "gaius-institutes-of-roman-law-09683f",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "gaius-institutes-of-roman-law-09683f",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "79/121"
+  },
+  {
+   "work": "plutarch-dion-2e0ee1",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "58/58"
+  },
+  {
+   "work": "plutarch-regum-et-imperatorum-apophthegma-bca00d",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "22352 words"
+  },
+  {
+   "work": "vatsyayana-the-kama-sutra-of-vatsyayana-f55b41",
+   "source": "gutenberg",
+   "issue": "missing_author_years",
+   "detail": "Vatsyayana"
+  },
+  {
+   "work": "vatsyayana-the-kama-sutra-of-vatsyayana-f55b41",
+   "source": "gutenberg",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "vatsyayana-the-kama-sutra-of-vatsyayana-f55b41",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "16/16"
+  },
+  {
+   "work": "plautus-titus-maccius-persa-3c8744",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/6"
+  },
+  {
+   "work": "isocrates-antidosis-56ddc9",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "26045 words"
+  },
+  {
+   "work": "george-everett-partridge-the-psychology-of-nations-a-cont-f19467",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "14/14"
+  },
+  {
+   "work": "new-testament-john-da6035",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "21/21"
+  },
+  {
+   "work": "lucian-of-samosata-dialogi-deorum-91f85b",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "19/19"
+  },
+  {
+   "work": "cicero-marcus-tullius-pro-a-cluentio-e1ca14",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "36441 words"
+  },
+  {
+   "work": "suetonius-divus-claudius-543c83",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "46/47"
+  },
+  {
+   "work": "suetonius-divus-claudius-543c83",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 47"
+  },
+  {
+   "work": "plutarch-theseus-dd896f",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "36/36"
+  },
+  {
+   "work": "virgil-aeneid-659242",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "suetonius-caligula-3902f8",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "60/61"
+  },
+  {
+   "work": "suetonius-caligula-3902f8",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "2 of 61"
+  },
+  {
+   "work": "plutarch-comparison-of-theseus-and-romulu-456fc7",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "moses-maimonides-the-guide-for-the-perplexed-6da00a",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "182/222"
+  },
+  {
+   "work": "plautus-titus-maccius-stichus-f04107",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/6"
+  },
+  {
+   "work": "pseudo-plutarch-placita-philosophorum-2a1067",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "new-testament-2-corinthians-8aac14",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "13/13"
+  },
+  {
+   "work": "plautus-titus-maccius-pseudolus-ad34cb",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "plutarch-vitae-decem-oratorum-fa7cc2",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "13/13"
+  },
+  {
+   "work": "aristotle-nicomachean-ethics-ac98dd",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "suetonius-galba-727b88",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "22/23"
+  },
+  {
+   "work": "suetonius-galba-727b88",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "2 of 23"
+  },
+  {
+   "work": "abel-j-jones-rudolf-eucken-a-philosophy-of-li-06d56c",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "9/9"
+  },
+  {
+   "work": "plutarch-comparison-of-agesilaus-and-pomp-b72164",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "thomas-robert-malthus-an-essay-on-the-principle-of-pop-b79da8",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "19/20"
+  },
+  {
+   "work": "strabo-geography-21ef7e",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "17/18"
+  },
+  {
+   "work": "joseph-dietzgen-the-religion-of-social-democracy-104c92",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "7/7"
+  },
+  {
+   "work": "demosthenes-against-aristocrates-9335c3",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "22544 words"
+  },
+  {
+   "work": "richard-falckenberg-history-of-modern-philosophy-fro-e856c2",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "17/17"
+  },
+  {
+   "work": "plutarch-philopoemen-3f9a39",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "21/21"
+  },
+  {
+   "work": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+   "source": "oll",
+   "issue": "missing_author_years",
+   "detail": "Edwin Chadwick and Nassau William Senior"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-30-dbf507",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "22264 words"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-34-2b6e92",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "24745 words"
+  },
+  {
+   "work": "claudian-fescinnina-de-nuptiis-honorii-au-690aed",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "claudian-fescinnina-de-nuptiis-honorii-au-690aed",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 4"
+  },
+  {
+   "work": "unknown-viramitrodaya-d4b632",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Mitra Miśra"
+  },
+  {
+   "work": "unknown-viramitrodaya-d4b632",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "unknown-viramitrodaya-d4b632",
+   "source": "other",
+   "issue": "unsplit_book",
+   "detail": "142010 words"
+  },
+  {
+   "work": "surendranath-dasgupta-a-history-of-indian-philosophy-v-f7aab9",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "bacchylides-dithyrambs-62b277",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "john-stuart-mill-a-system-of-logic-ratiocinative--879415",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "31/31"
+  },
+  {
+   "work": "unknown-ganapatitattva-66a136",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Gaṇapati"
+  },
+  {
+   "work": "unknown-ganapatitattva-66a136",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "john-morley-burke-cfb4a4",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "p-vergilius-maro-virgil-eclogues-87e240",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "flavius-josephus-the-jewish-war-8a09a6",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "7/7"
+  },
+  {
+   "work": "plautus-titus-maccius-poenulus-3da27c",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "plautus-titus-maccius-miles-gloriosus-b33b56",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/6"
+  },
+  {
+   "work": "thucydides-history-of-the-peloponnesian-war-af5aa9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "8/8"
+  },
+  {
+   "work": "unknown-yajnavalkya-smrti-cb88d6",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Yājñavalkya"
+  },
+  {
+   "work": "unknown-yajnavalkya-smrti-cb88d6",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-45-66362d",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "22084 words"
+  },
+  {
+   "work": "aristotle-poetics-6c4430",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "26/26"
+  },
+  {
+   "work": "plutarch-lysander-dfd661",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "30/30"
+  },
+  {
+   "work": "paul-popenoe-and-roswell-applied-eugenics-d3c68e",
+   "source": "gutenberg",
+   "issue": "missing_author_years",
+   "detail": "Paul Popenoe and Roswell Hill Johnson"
+  },
+  {
+   "work": "paul-popenoe-and-roswell-applied-eugenics-d3c68e",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "20/20"
+  },
+  {
+   "work": "g-watts-cunningham-thought-and-reality-in-hegels-sy-ea5bab",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "5/6"
+  },
+  {
+   "work": "martyrium-polycarpi-the-martyrdom-of-polycarp-c4b450",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Martyrium Polycarpi"
+  },
+  {
+   "work": "martyrium-polycarpi-the-martyrdom-of-polycarp-c4b450",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "22/23"
+  },
+  {
+   "work": "martyrium-polycarpi-the-martyrdom-of-polycarp-c4b450",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 23"
+  },
+  {
+   "work": "appianus-of-alexandria-wars-in-spain-5371cc",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "16/16"
+  },
+  {
+   "work": "old-testament-i-chronicles-e140e5",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "29/29"
+  },
+  {
+   "work": "plautus-titus-maccius-cistellaria-3f92d2",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/6"
+  },
+  {
+   "work": "isocrates-panathenaicus-fadde8",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "24411 words"
+  },
+  {
+   "work": "plutarch-lucullus-e19b26",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "43/43"
+  },
+  {
+   "work": "old-testament-leviticus-4b902e",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "27/27"
+  },
+  {
+   "work": "boethius-de-consolatione-philosophiae-905cdc",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "john-a-hobson-the-scientific-basis-of-imperial-4dd9d7",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-42-d2718c",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "27315 words"
+  },
+  {
+   "work": "plutarch-marcellus-df5707",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "30/30"
+  },
+  {
+   "work": "cynewulf-juliana-9a2157",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Cynewulf"
+  },
+  {
+   "work": "cynewulf-juliana-9a2157",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "plutarch-de-sollertia-animalium-4570af",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "20126 words"
+  },
+  {
+   "work": "pseudo-caesar-de-bello-alexandrino-311ae7",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "78/78"
+  },
+  {
+   "work": "pseudo-caesar-de-bello-alexandrino-311ae7",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "2 of 78"
+  },
+  {
+   "work": "new-testament-james-9ed700",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "plato-laws-948029",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "new-testament-romans-a60e5c",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "16/16"
+  },
+  {
+   "work": "desiderius-erasmus-the-complaint-of-peace-8b8108",
+   "source": "oll",
+   "issue": "unsplit_book",
+   "detail": "22436 words"
+  },
+  {
+   "work": "new-testament-revelation-6afe13",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "22/22"
+  },
+  {
+   "work": "plutarch-aristides-3271bd",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "27/27"
+  },
+  {
+   "work": "terence-heautontimorumenos-fc4851",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "plato-republic-2bf014",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "immanuel-kant-the-critique-of-pure-reason-germ-57f3ab",
+   "source": "gutenberg",
+   "issue": "unsplit_book",
+   "detail": "184871 words"
+  },
+  {
+   "work": "aeschines-against-timarchus-105a70",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "20542 words"
+  },
+  {
+   "work": "old-testament-malachi-4f7514",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "plutarch-comparison-of-demosthenes-and-ci-f71975",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "old-testament-isaiah-d893d5",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "66/66"
+  },
+  {
+   "work": "plutarch-comparison-of-aristides-and-marc-e45cdc",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "old-testament-ii-chronicles-6396b0",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "36/36"
+  },
+  {
+   "work": "old-testament-lamentations-686ec3",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "david-hume-dialogues-concerning-natural-rel-1d199f",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "ovid-epistulae-3d28c9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "21/21"
+  },
+  {
+   "work": "plautus-titus-maccius-mostellaria-651c20",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/6"
+  },
+  {
+   "work": "cicero-marcus-tullius-letters-to-his-brother-quintus-7b02ec",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "60154 words"
+  },
+  {
+   "work": "epictetus-the-works-of-epictetus-43c12c",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "plautus-titus-maccius-trinummus-d64ecd",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "old-testament-jonah-aef307",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "gerrard-winstanley-the-law-of-freedom-in-a-platform-226867",
+   "source": "marxists",
+   "issue": "mostly_allcaps_titles",
+   "detail": "6/8"
+  },
+  {
+   "work": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+   "source": "oll",
+   "issue": "missing_author_years",
+   "detail": "American Anti-Slavery Society"
+  },
+  {
+   "work": "plutarch-eumenes-235c22",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "19/19"
+  },
+  {
+   "work": "tacitus-cornelius-dialogus-5fa686",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "41/41"
+  },
+  {
+   "work": "mountifort-longfield-lectures-on-political-economy-5efe8b",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "11/12"
+  },
+  {
+   "work": "john-locke-some-considerations-of-the-conse-e6187f",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "plutarch-cicero-e5c3e9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "49/49"
+  },
+  {
+   "work": "homeric-hymns-hymn-20-to-hephaestus-48436f",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 1"
+  },
+  {
+   "work": "ralph-barton-perry-the-approach-to-philosophy-5eb2c6",
+   "source": "gutenberg",
+   "issue": "tiny_chapters",
+   "detail": "2 of 17"
+  },
+  {
+   "work": "plutarch-cimon-c5ffb2",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "19/19"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-35-f443ad",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "20546 words"
+  },
+  {
+   "work": "old-testament-deuteronomy-6d696d",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "34/34"
+  },
+  {
+   "work": "peter-kropotkin-fields-factories-and-workshops-49b176",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "1 of 35"
+  },
+  {
+   "work": "clemens-romanus-clement--the-first-epistle-of-clement-to--e75139",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Clemens Romanus (Clement of Rome)"
+  },
+  {
+   "work": "clemens-romanus-clement--the-first-epistle-of-clement-to--e75139",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "65/65"
+  },
+  {
+   "work": "clemens-romanus-clement--the-first-epistle-of-clement-to--e75139",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "4 of 65"
+  },
+  {
+   "work": "new-testament-acts-895886",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "28/28"
+  },
+  {
+   "work": "henryk-grossman-fragments-on-criticisms-of-law-o-f3dd9d",
+   "source": "marxists",
+   "issue": "apparatus_chapters",
+   "detail": "Notes on Helen Bauer's review (Excerpt) | Notes on Alfred Braunthal's review (Excerpt)"
+  },
+  {
+   "work": "baruch-spinoza-ethics-02c22a",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "4/5"
+  },
+  {
+   "work": "john-mctaggart-a-commentary-on-hegels-logic-5c82b2",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "10/16"
+  },
+  {
+   "work": "barnabae-epistula-the-epistle-of-barnabas-d32949",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Barnabae Epistula"
+  },
+  {
+   "work": "barnabae-epistula-the-epistle-of-barnabas-d32949",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "21/21"
+  },
+  {
+   "work": "barnabae-epistula-the-epistle-of-barnabas-d32949",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 21"
+  },
+  {
+   "work": "lucretius-de-rerum-natura-4543ca",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "suetonius-divus-vespasianus-48cd42",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "25/26"
+  },
+  {
+   "work": "suetonius-divus-vespasianus-48cd42",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "3 of 26"
+  },
+  {
+   "work": "plutarch-phocion-e95782",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "38/38"
+  },
+  {
+   "work": "plutarch-phocion-e95782",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 38"
+  },
+  {
+   "work": "new-testament-1-corinthians-845e7d",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "16/16"
+  },
+  {
+   "work": "new-testament-1-thessalonians-76ff59",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "herman-gorter-the-world-revolution-1923-3afc42",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "jean-baptiste-say-letters-to-malthus-on-political--d3c155",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "polybius-histories-672821",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "39/40"
+  },
+  {
+   "work": "plato-sophist-b8c6ad",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "23657 words"
+  },
+  {
+   "work": "aristotle-metaphysics-2428b9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "14/14"
+  },
+  {
+   "work": "william-stebbing-analysis-of-mr-mills-system-of-l-ae22bd",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "28/28"
+  },
+  {
+   "work": "athenaeus-of-naucratis-deipnosophistae-9c89b8",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Athenaeus of Naucratis"
+  },
+  {
+   "work": "athenaeus-of-naucratis-deipnosophistae-9c89b8",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "15/16"
+  },
+  {
+   "work": "old-testament-ruth-a5c0d2",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "john-stuart-mill-utilitarianism-c4210a",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "plutarch-timoleon-025282",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "40/40"
+  },
+  {
+   "work": "suetonius-vitellius-d87b71",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "18/19"
+  },
+  {
+   "work": "suetonius-vitellius-d87b71",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 19"
+  },
+  {
+   "work": "petronius-arbiter-poems-b365dc",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Petronius Arbiter"
+  },
+  {
+   "work": "george-bernard-shaw-socialism-and-superior-brains-b9035b",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "1 of 4"
+  },
+  {
+   "work": "unknown-san-hyan-tattvajnana-1f29bd",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "plutarch-agesilaus-4ad6b6",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "40/40"
+  },
+  {
+   "work": "tacitus-cornelius-annales-e253c6",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "pseudo-caesar-de-bello-africo-e70306",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "98/98"
+  },
+  {
+   "work": "pseudo-caesar-de-bello-africo-e70306",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "2 of 98"
+  },
+  {
+   "work": "aeschines-against-ctesiphon-d768ac",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "26992 words"
+  },
+  {
+   "work": "unknown-parasara-smrti-2259be",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Parāśara"
+  },
+  {
+   "work": "unknown-parasara-smrti-2259be",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "unknown-parasara-smrti-2259be",
+   "source": "other",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "unknown-yama-smrti-552f8d",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Yama"
+  },
+  {
+   "work": "unknown-yama-smrti-552f8d",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "william-morris-news-from-nowhere-or-an-epoch-of-f00f32",
+   "source": "marxists",
+   "issue": "unsplit_book",
+   "detail": "36705 words"
+  },
+  {
+   "work": "xenophon-symposium-695dbe",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "9/9"
+  },
+  {
+   "work": "plutarch-otho-389dd0",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "18/18"
+  },
+  {
+   "work": "old-testament-zechariah-1c7f6c",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "14/14"
+  },
+  {
+   "work": "karl-kautsky-the-capitalist-class-0f5376",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "1 of 10"
+  },
+  {
+   "work": "john-marshall-a-short-history-of-greek-philoso-70c117",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "21/21"
+  },
+  {
+   "work": "unknown-angirasa-smrti-2bf9d1",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Aṅgirasa"
+  },
+  {
+   "work": "unknown-angirasa-smrti-2bf9d1",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "unknown-angirasa-smrti-2bf9d1",
+   "source": "other",
+   "issue": "unsplit_book",
+   "detail": "38412 words"
+  },
+  {
+   "work": "apuleius-metamorphoses-4e92f8",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "11/12"
+  },
+  {
+   "work": "herman-gorter-the-world-revolution-5956bf",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "1 of 11"
+  },
+  {
+   "work": "plutarch-demosthenes-4388af",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "31/31"
+  },
+  {
+   "work": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+   "source": "other",
+   "issue": "dup_chapter_titles",
+   "detail": "1 duplicates"
+  },
+  {
+   "work": "alexander-berkman-the-russian-revolution-and-the-c-4f1aff",
+   "source": "marxists",
+   "issue": "unsplit_book",
+   "detail": "21261 words"
+  },
+  {
+   "work": "didache-didache-911275",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Didache"
+  },
+  {
+   "work": "didache-didache-911275",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "16/16"
+  },
+  {
+   "work": "didache-didache-911275",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "2 of 16"
+  },
+  {
+   "work": "cicero-marcus-tullius-pro-l-flacco-36151e",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "20039 words"
+  },
+  {
+   "work": "homeric-hymns-hymn-25-to-the-muses-and-apollo-048877",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 1"
+  },
+  {
+   "work": "homer-odyssey-34e6a4",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Homer"
+  },
+  {
+   "work": "homer-odyssey-34e6a4",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "24/24"
+  },
+  {
+   "work": "plautus-titus-maccius-truculentus-ebcfdf",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "columella-lucius-junius--res-rustica-2dc1aa",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "9/9"
+  },
+  {
+   "work": "tibullus-sulpicia-elegiae-2a0654",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "3 of 3"
+  },
+  {
+   "work": "old-testament-ezekiel-835f8a",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "48/48"
+  },
+  {
+   "work": "cicero-marcus-tullius-in-catilinam-3b875e",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "22304 words"
+  },
+  {
+   "work": "plutarch-comparison-of-lysander-and-sulla-3ee670",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "old-testament-joshua-53e442",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "24/24"
+  },
+  {
+   "work": "albert-moll-the-sexual-life-of-the-child-20c689",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "9/9"
+  },
+  {
+   "work": "plutarch-lycurgus-073085",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "31/31"
+  },
+  {
+   "work": "victor-cousin-lectures-on-the-true-the-beautif-ab35d3",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "17/17"
+  },
+  {
+   "work": "plutarch-comparison-of-solon-and-publicol-38f2f2",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "old-testament-2-ezra-6ef17f",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "13/13"
+  },
+  {
+   "work": "demosthenes-against-timocrates-520d0a",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "21192 words"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-39-01cdaf",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "23812 words"
+  },
+  {
+   "work": "petronius-arbiter-satyricon-893c6a",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Petronius Arbiter"
+  },
+  {
+   "work": "petronius-arbiter-satyricon-893c6a",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "48049 words"
+  },
+  {
+   "work": "plutarch-caesar-5ac08c",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "69/69"
+  },
+  {
+   "work": "plutarch-caesar-5ac08c",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 69"
+  },
+  {
+   "work": "old-testament-proverbs-75986c",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "31/31"
+  },
+  {
+   "work": "plato-statesman-bc8855",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "25351 words"
+  },
+  {
+   "work": "plutarch-comparison-of-agis-and-cleomenes-7ae9aa",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "plutarch-quaestiones-naturales-f046cb",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "36/36"
+  },
+  {
+   "work": "plutarch-quaestiones-naturales-f046cb",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "8 of 36"
+  },
+  {
+   "work": "plutarch-caius-marcius-coriolanus-f96f13",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "39/39"
+  },
+  {
+   "work": "plutarch-galba-bfa511",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "29/29"
+  },
+  {
+   "work": "unknown-kalpabuddha-d760dc",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "unknown-kalpabuddha-d760dc",
+   "source": "other",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "unknown-kalpabuddha-d760dc",
+   "source": "other",
+   "issue": "tiny_chapters",
+   "detail": "4 of 6"
+  },
+  {
+   "work": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+   "source": "gutenberg",
+   "issue": "tiny_chapters",
+   "detail": "10 of 130"
+  },
+  {
+   "work": "john-stuart-mill-autobiography-fd9256",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "7/7"
+  },
+  {
+   "work": "apollodorus-library-3a2452",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Apollodorus"
+  },
+  {
+   "work": "pausanias-description-of-greece-ff35dc",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Pausanias"
+  },
+  {
+   "work": "pausanias-description-of-greece-ff35dc",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-21-fa7a23",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "26937 words"
+  },
+  {
+   "work": "baruch-spinoza-theologico-political-treatise-pa-3f6451",
+   "source": "gutenberg",
+   "issue": "tiny_chapters",
+   "detail": "1 of 7"
+  },
+  {
+   "work": "ovid-metamorphoses-b0cbc2",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "16/16"
+  },
+  {
+   "work": "old-testament-esther-1c694f",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "aristotle-eudemian-ethics-910abb",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "lucian-of-samosata-dialogi-marini-df98cc",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "14/14"
+  },
+  {
+   "work": "pindar-olympian-5c7ac9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "14/14"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-40-b4142f",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "23718 words"
+  },
+  {
+   "work": "thomas-taylor-introduction-to-the-philosophy-a-3fcd63",
+   "source": "gutenberg",
+   "issue": "unsplit_book",
+   "detail": "39129 words"
+  },
+  {
+   "work": "new-testament-mark-48b684",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "16/16"
+  },
+  {
+   "work": "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "190/192"
+  },
+  {
+   "work": "cicero-marcus-tullius-in-l-calpurnium-pisonem-15572e",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "20019 words"
+  },
+  {
+   "work": "homeric-hymns-hymn-15-to-heracles-431d23",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 1"
+  },
+  {
+   "work": "ausonius-decimus-magnus-gratiarum-actio-234e46",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "18/18"
+  },
+  {
+   "work": "plutarch-alcibiades-5a6a4a",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "39/39"
+  },
+  {
+   "work": "plutarch-alcibiades-5a6a4a",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 39"
+  },
+  {
+   "work": "plutarch-platonicae-quaestiones-7d9c6a",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "mary-wollstonecraft-an-historical-and-moral-view-of--f034ec",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "18/19"
+  },
+  {
+   "work": "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "152/168"
+  },
+  {
+   "work": "julius-caesar-gallic-war-83f999",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "8/8"
+  },
+  {
+   "work": "plutarch-apophthegmata-laconica-573905",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "45/45"
+  },
+  {
+   "work": "plutarch-apophthegmata-laconica-573905",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "7 of 45"
+  },
+  {
+   "work": "plutarch-pompey-3a667c",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "80/80"
+  },
+  {
+   "work": "simon-dubnow-jewish-history-an-essay-in-the-p-c6003c",
+   "source": "gutenberg",
+   "issue": "unsplit_book",
+   "detail": "26673 words"
+  },
+  {
+   "work": "appianus-of-alexandria-civil-wars-4eb837",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/6"
+  },
+  {
+   "work": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+   "source": "other",
+   "issue": "tiny_chapters",
+   "detail": "3 of 28"
+  },
+  {
+   "work": "plutarch-pyrrhus-d5e39b",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "34/34"
+  },
+  {
+   "work": "kaiten-nukariya-the-religion-of-the-samurai-a-st-193778",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "8/8"
+  },
+  {
+   "work": "dewitt-h-parker-the-principles-of-aesthetics-d4e238",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "15/16"
+  },
+  {
+   "work": "hastings-rashdall-philosophy-and-religion-six-lect-6529d8",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "unknown-slokantara-d7a628",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "new-testament-philippians-5d049d",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-37-a0df99",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "26274 words"
+  },
+  {
+   "work": "lucian-of-samosata-dialogi-mortuorum-5fac1d",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "30/30"
+  },
+  {
+   "work": "new-testament-luke-f4a47d",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "24/24"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-38-39a19b",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "27610 words"
+  },
+  {
+   "work": "plutarch-crassus-d9e659",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "33/33"
+  },
+  {
+   "work": "old-testament-job-b62997",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "42/42"
+  },
+  {
+   "work": "old-testament-job-b62997",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 42"
+  },
+  {
+   "work": "george-berkeley-a-treatise-concerning-the-princi-a03666",
+   "source": "gutenberg",
+   "issue": "unsplit_book",
+   "detail": "36898 words"
+  },
+  {
+   "work": "denis-diderot-rameaus-nephew-c904c9",
+   "source": "marxists",
+   "issue": "unsplit_book",
+   "detail": "33179 words"
+  },
+  {
+   "work": "plutarch-comparison-of-lycurgus-and-numa-c78de4",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "terence-adelphi-944586",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-24-4e45f4",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "24214 words"
+  },
+  {
+   "work": "thomas-clarkson-an-essay-on-the-slavery-and-comm-60b084",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "26/32"
+  },
+  {
+   "work": "plutarch-numa-1285cf",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "22/22"
+  },
+  {
+   "work": "plutarch-de-defectu-oraculorum-e02a9c",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "20877 words"
+  },
+  {
+   "work": "flavius-josephus-jewish-antiquities-22af73",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "20/20"
+  },
+  {
+   "work": "sallust-catilinae-coniuratio-dfc42f",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "59/61"
+  },
+  {
+   "work": "old-testament-micah-53a4d9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "7/7"
+  },
+  {
+   "work": "new-testament-1-timothy-61120c",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "epictetus-discourses-233756",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "hesiod-shield-of-heracles-722025",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Hesiod"
+  },
+  {
+   "work": "cicero-marcus-tullius-de-lege-agraria-bc3b1c",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "25517 words"
+  },
+  {
+   "work": "tacitus-cornelius-germania-7cb414",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "46/46"
+  },
+  {
+   "work": "tacitus-cornelius-germania-7cb414",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "2 of 46"
+  },
+  {
+   "work": "plutarch-comparison-of-alcibiades-and-cor-232f99",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "hesiod-works-and-days-d62d49",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Hesiod"
+  },
+  {
+   "work": "suetonius-otho-ba75d6",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "12/13"
+  },
+  {
+   "work": "ammianus-marcellinus-res-gestae-a447ef",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "18/20"
+  },
+  {
+   "work": "unknown-brhaspati-smrti-0fd070",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Bṛhaspati"
+  },
+  {
+   "work": "unknown-brhaspati-smrti-0fd070",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "unknown-brhaspati-smrti-0fd070",
+   "source": "other",
+   "issue": "unsplit_book",
+   "detail": "32934 words"
+  },
+  {
+   "work": "leslie-stephen-the-english-utilitarians-volume--39f532",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "plautus-titus-maccius-menaechmi-6b2a89",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "lucan-civil-war-b1a4c7",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "lysander-spooner-no-treason-no-vi-the-constitutio-538bde",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "18/20"
+  },
+  {
+   "work": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+   "source": "perseus",
+   "issue": "dup_chapter_titles",
+   "detail": "3 duplicates"
+  },
+  {
+   "work": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "15 of 445"
+  },
+  {
+   "work": "baruch-spinoza-theologico-political-treatise-pa-dc01da",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "5/8"
+  },
+  {
+   "work": "unknown-katyayana-smrti-1e06d2",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Kātyāyana"
+  },
+  {
+   "work": "unknown-katyayana-smrti-1e06d2",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "unknown-katyayana-smrti-1e06d2",
+   "source": "other",
+   "issue": "mostly_generic_titles",
+   "detail": "80/80"
+  },
+  {
+   "work": "unknown-katyayana-smrti-1e06d2",
+   "source": "other",
+   "issue": "tiny_chapters",
+   "detail": "13 of 80"
+  },
+  {
+   "work": "horace-carmina-13e18b",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "xenophon-hiero-5c52b5",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "11/11"
+  },
+  {
+   "work": "plutarch-amatoriae-narrationes-1616db",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "plutarch-quaestiones-romanae-deebec",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "20213 words"
+  },
+  {
+   "work": "plautus-titus-maccius-amphitruo-14f1d9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "new-testament-galatians-e5f00e",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "hippocrates-de-articulis-cb436e",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "28280 words"
+  },
+  {
+   "work": "herman-gorter-open-letter-to-comrade-lenin-6768ba",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "1 of 48"
+  },
+  {
+   "work": "plutarch-lacaenarum-apophthegmata-e97b58",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/5"
+  },
+  {
+   "work": "plutarch-lacaenarum-apophthegmata-e97b58",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 5"
+  },
+  {
+   "work": "plutarch-nicias-44a491",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "30/30"
+  },
+  {
+   "work": "plutarch-brutus-4e3e58",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "53/53"
+  },
+  {
+   "work": "appianus-of-alexandria-hannibalic-war-774587",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "9/10"
+  },
+  {
+   "work": "suetonius-divus-julius-442359",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "88/88"
+  },
+  {
+   "work": "suetonius-divus-julius-442359",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "7 of 88"
+  },
+  {
+   "work": "pindar-nemean-2497ce",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "11/11"
+  },
+  {
+   "work": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+   "source": "oll",
+   "issue": "missing_author_years",
+   "detail": "The Levellers"
+  },
+  {
+   "work": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "unknown-select-letters-73fa24",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "73752 words"
+  },
+  {
+   "work": "cicero-marcus-tullius-pro-cn-plancio-3fde37",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "21507 words"
+  },
+  {
+   "work": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+   "source": "marxists",
+   "issue": "apparatus_chapters",
+   "detail": "Notes on Reviews of Hegel’s Logic | Notes on Books"
+  },
+  {
+   "work": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "3 of 45"
+  },
+  {
+   "work": "hermas-2nd-cent-the-shepherd-of-hermas-bb2d40",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Hermas, 2nd cent."
+  },
+  {
+   "work": "hermas-2nd-cent-the-shepherd-of-hermas-bb2d40",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "27/27"
+  },
+  {
+   "work": "hermas-2nd-cent-the-shepherd-of-hermas-bb2d40",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "1 of 27"
+  },
+  {
+   "work": "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+   "source": "hart",
+   "issue": "mostly_allcaps_titles",
+   "detail": "36/36"
+  },
+  {
+   "work": "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+   "source": "hart",
+   "issue": "tiny_chapters",
+   "detail": "1 of 36"
+  },
+  {
+   "work": "paul-lafargue-the-historical-method-of-karl-ma-b65ff0",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "1 of 5"
+  },
+  {
+   "work": "lucian-of-samosata-dialogi-meretricii-ff20ad",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "joseph-dietzgen-our-professors-on-the-limits-of--f9fb0e",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "aretaeus-of-cappadocia-de-causis-et-signis-acutorum-mor-3fd2ac",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Aretaeus of Cappadocia"
+  },
+  {
+   "work": "joseph-dietzgen-social-democratic-philosophy-460dc5",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "7/7"
+  },
+  {
+   "work": "pindar-pythian-047fad",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "plutarch-titus-flamininus-bdc3e1",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "21/21"
+  },
+  {
+   "work": "catullus-c-valerius-carmina-e8bcbc",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "84/85"
+  },
+  {
+   "work": "catullus-c-valerius-carmina-e8bcbc",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "36 of 85"
+  },
+  {
+   "work": "george-hamilton-the-comedy-of-protection-b2e53d",
+   "source": "oll",
+   "issue": "bio_thin",
+   "detail": "George Hamilton (1845–1909)."
+  },
+  {
+   "work": "george-hamilton-the-comedy-of-protection-b2e53d",
+   "source": "oll",
+   "issue": "missing_author_years",
+   "detail": "George Hamilton"
+  },
+  {
+   "work": "george-hamilton-the-comedy-of-protection-b2e53d",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "quintilian-institutio-oratoria-6bfe91",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "12/13"
+  },
+  {
+   "work": "edouard-le-roy-a-new-philosophy-henri-bergson-056e87",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "4/5"
+  },
+  {
+   "work": "plautus-titus-maccius-rudens-34188a",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "william-james-a-pluralistic-universe-6dc780",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "7/9"
+  },
+  {
+   "work": "william-james-a-pluralistic-universe-6dc780",
+   "source": "gutenberg",
+   "issue": "tiny_chapters",
+   "detail": "1 of 9"
+  },
+  {
+   "work": "friedrich-schiller-philosophical-letters-c69c0d",
+   "source": "gutenberg",
+   "issue": "unsplit_book",
+   "detail": "22478 words"
+  },
+  {
+   "work": "polycarp-epistula-ad-philippenses-d8f567",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "14/14"
+  },
+  {
+   "work": "polycarp-epistula-ad-philippenses-d8f567",
+   "source": "perseus",
+   "issue": "tiny_chapters",
+   "detail": "2 of 14"
+  },
+  {
+   "work": "plutarch-comparison-of-demetrius-and-anto-bd01a2",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "paul-lafargue-the-myth-of-athena-d71bde",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "3/4"
+  },
+  {
+   "work": "lewis-carroll-symbolic-logic-56bef5",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "11/12"
+  },
+  {
+   "work": "william-morris-socialism-its-growth-and-outcome-77d6d2",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "21/24"
+  },
+  {
+   "work": "plautus-titus-maccius-asinaria-54d3d3",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-27-a1931a",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "28734 words"
+  },
+  {
+   "work": "st-george-william-joseph-deductive-logic-2f2706",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "29/30"
+  },
+  {
+   "work": "st-george-william-joseph-deductive-logic-2f2706",
+   "source": "gutenberg",
+   "issue": "tiny_chapters",
+   "detail": "1 of 30"
+  },
+  {
+   "work": "george-bernard-shaw-the-perfect-wagnerite-a-commenta-7cd750",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "1 of 43"
+  },
+  {
+   "work": "alexander-philip-essays-towards-a-theory-of-knowl-694609",
+   "source": "gutenberg",
+   "issue": "unsplit_book",
+   "detail": "24005 words"
+  },
+  {
+   "work": "cicero-marcus-tullius-philippicae-f2d191",
+   "source": "perseus",
+   "issue": "dup_chapter_titles",
+   "detail": "162 duplicates"
+  },
+  {
+   "work": "cicero-marcus-tullius-philippicae-f2d191",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "208/208"
+  },
+  {
+   "work": "terence-andria-ca4ba7",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "unknown-manusmrti-347b76",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Manu"
+  },
+  {
+   "work": "unknown-manusmrti-347b76",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "unknown-manusmrti-347b76",
+   "source": "other",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "new-testament-1-john-8073a6",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "old-testament-jeremiah-490c3f",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "52/52"
+  },
+  {
+   "work": "plutarch-aemilius-paulus-bb1dca",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "38/38"
+  },
+  {
+   "work": "lewis-henry-morgan-ancient-society-bab9c7",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "26/29"
+  },
+  {
+   "work": "franz-oppenheimer-the-state-a06f2f",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "6/8"
+  },
+  {
+   "work": "pliny-the-elder-naturalis-historia-631445",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "37/37"
+  },
+  {
+   "work": "xenophon-constitution-of-the-lacedaimonia-1ddaa6",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "15/15"
+  },
+  {
+   "work": "appianus-of-alexandria-syrian-wars-8b55ba",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "11/11"
+  },
+  {
+   "work": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "roscoe-pound-an-introduction-to-the-philosoph-99e279",
+   "source": "gutenberg",
+   "issue": "apparatus_chapters",
+   "detail": "Bibliography"
+  },
+  {
+   "work": "william-minto-logic-inductive-and-deductive-ffa6fd",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "15/15"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-29-2be568",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "20069 words"
+  },
+  {
+   "work": "vitruvius-pollio-on-architecture-f22b40",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "louis-auguste-blanqui-notes-on-positivism-bc2f8f",
+   "source": "marxists",
+   "issue": "apparatus_chapters",
+   "detail": "Notes on Positivism"
+  },
+  {
+   "work": "plautus-titus-maccius-bacchides-b7eafe",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "plato-letters-0176ae",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "25497 words"
+  },
+  {
+   "work": "plato-theaetetus-4f1948",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "33917 words"
+  },
+  {
+   "work": "pieter-de-la-court-the-true-interest-and-political--9b87f2",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "38/55"
+  },
+  {
+   "work": "plautus-titus-maccius-casina-4c7bf9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "edward-bellamy-looking-backward-from-2000-to-18-26268e",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "28/29"
+  },
+  {
+   "work": "suetonius-divus-titus-31c425",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "11/12"
+  },
+  {
+   "work": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+   "source": "other",
+   "issue": "tiny_chapters",
+   "detail": "5 of 28"
+  },
+  {
+   "work": "paul-lafargue-the-evolution-of-property-from-s-62aca7",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "10/15"
+  },
+  {
+   "work": "old-testament-i-samuel-eefceb",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "31/31"
+  },
+  {
+   "work": "old-testament-hosea-7d5860",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "14/14"
+  },
+  {
+   "work": "xenophon-ways-and-means-f11aa4",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "plutarch-romulus-8aa1c6",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "29/29"
+  },
+  {
+   "work": "new-testament-1-peter-8eb45e",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/5"
+  },
+  {
+   "work": "plutarch-de-iside-et-osiride-e99eb7",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "25630 words"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-23-92608e",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "24961 words"
+  },
+  {
+   "work": "xenophon-anabasis-3252cd",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "7/7"
+  },
+  {
+   "work": "gellius-aulus-noctes-atticae-13f6ae",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "20/21"
+  },
+  {
+   "work": "cicero-marcus-tullius-in-c-verrem-6c527e",
+   "source": "perseus",
+   "issue": "dup_chapter_titles",
+   "detail": "1 duplicates"
+  },
+  {
+   "work": "cicero-marcus-tullius-in-c-verrem-6c527e",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "6/6"
+  },
+  {
+   "work": "aretaeus-of-cappadocia-de-curatione-acutorum-morborum-l-1612e1",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Aretaeus of Cappadocia"
+  },
+  {
+   "work": "xenophon-on-the-art-of-horsemanship-9c7615",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "lewis-carroll-the-game-of-logic-8f7431",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "old-testament-ii-samuel-feb429",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "24/24"
+  },
+  {
+   "work": "yves-guyot-socialistic-fallacies-ca8e8f",
+   "source": "oll",
+   "issue": "mostly_generic_titles",
+   "detail": "58/110"
+  },
+  {
+   "work": "demosthenes-against-meidias-4f10a1",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "22405 words"
+  },
+  {
+   "work": "old-testament-ii-kings-9f09e1",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "25/25"
+  },
+  {
+   "work": "mary-wollstonecraft-a-vindication-of-the-rights-of-m-66cd21",
+   "source": "oll",
+   "issue": "unsplit_book",
+   "detail": "24334 words"
+  },
+  {
+   "work": "xenophon-economics-230411",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "21/21"
+  },
+  {
+   "work": "unknown-old-english-elegies-d5fe9e",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "old-testament-numbers-e47f4a",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "36/36"
+  },
+  {
+   "work": "john-alexander-gunn-bergson-and-his-philosophy-6671b6",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+   "source": "other",
+   "issue": "tiny_chapters",
+   "detail": "48 of 239"
+  },
+  {
+   "work": "demosthenes-on-the-false-embassy-ef3411",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "32257 words"
+  },
+  {
+   "work": "aretaeus-of-cappadocia-de-curatione-diuturnorum-morboru-edc698",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Aretaeus of Cappadocia"
+  },
+  {
+   "work": "joseph-schumpeter-on-the-concept-of-social-value-1f34bd",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "5/6"
+  },
+  {
+   "work": "john-abercrombie-the-philosophy-of-the-moral-feel-1caca1",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "xenophon-memorabilia-ffaace",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "paul-lafargue-the-woman-question-86d63c",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "4/4"
+  },
+  {
+   "work": "dante-alighieri-de-monarchia-a58c66",
+   "source": "oll",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "auberon-herbert-and-j-h--taxation-and-anarchism-341829",
+   "source": "oll",
+   "issue": "missing_author_years",
+   "detail": "Auberon Herbert and J. H. Levy"
+  },
+  {
+   "work": "titus-livius-livy-history-of-rome-books-21-45-44-a01632",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "20733 words"
+  },
+  {
+   "work": "plato-gorgias-004473",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "37846 words"
+  },
+  {
+   "work": "plutarch-antony-3469a0",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "87/87"
+  },
+  {
+   "work": "carveth-read-logic-deductive-and-inductive-35f4d9",
+   "source": "gutenberg",
+   "issue": "mostly_generic_titles",
+   "detail": "24/24"
+  },
+  {
+   "work": "tacitus-cornelius-agricola-b912ef",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "29/29"
+  },
+  {
+   "work": "johann-gottlieb-fichte-outlines-of-the-doctrine-of-know-07ec07",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "14/14"
+  },
+  {
+   "work": "johann-gottlieb-fichte-outlines-of-the-doctrine-of-know-07ec07",
+   "source": "marxists",
+   "issue": "tiny_chapters",
+   "detail": "1 of 14"
+  },
+  {
+   "work": "unknown-vrhaspatitattva-b60b28",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Bṛhaspati"
+  },
+  {
+   "work": "unknown-vrhaspatitattva-b60b28",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "terence-eunuchus-b8e41d",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "cynewulf-elene-d2d132",
+   "source": "other",
+   "issue": "missing_author_years",
+   "detail": "Cynewulf"
+  },
+  {
+   "work": "cynewulf-elene-d2d132",
+   "source": "other",
+   "issue": "missing_pub_year"
+  },
+  {
+   "work": "homer-iliad-056ee9",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Homer"
+  },
+  {
+   "work": "homer-iliad-056ee9",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "24/24"
+  },
+  {
+   "work": "plutarch-quaestiones-convivales-2765f8",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "9/9"
+  },
+  {
+   "work": "hesiod-theogony-26bbaf",
+   "source": "perseus",
+   "issue": "missing_author_years",
+   "detail": "Hesiod"
+  },
+  {
+   "work": "terence-hecyra-f1d9be",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "5/7"
+  },
+  {
+   "work": "xenophon-hellenica-55ce99",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "7/7"
+  },
+  {
+   "work": "plutarch-aratus-f75110",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "54/54"
+  },
+  {
+   "work": "plato-protagoras-e23675",
+   "source": "perseus",
+   "issue": "unsplit_book",
+   "detail": "23539 words"
+  },
+  {
+   "work": "peter-kropotkin-modern-science-and-anarchism-bd37e1",
+   "source": "marxists",
+   "issue": "mostly_generic_titles",
+   "detail": "10/10"
+  },
+  {
+   "work": "old-testament-daniel-204eef",
+   "source": "perseus",
+   "issue": "mostly_generic_titles",
+   "detail": "12/12"
+  },
+  {
+   "work": "william-morris-news-from-nowhere-5ebdf5",
+   "source": "marxists",
+   "issue": "unsplit_book",
+   "detail": "36705 words"
+  }
+ ]
+}

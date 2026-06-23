@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-war-and-other-essays-b3f818",
+  "work_title": "War and Other Essays",
+  "chapter_number": 7,
+  "chapter_title": "Religion and the Mores, V: Religion and the Mores [1910]",
+  "chapter_slug": "07-religion-and-the-mores-v-religion-and-the-mores-19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5833e3a-24f7-569d-9eb4-9a513e6a2786",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5273,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-war-and-other-essays"
+    }
+  ]
+}

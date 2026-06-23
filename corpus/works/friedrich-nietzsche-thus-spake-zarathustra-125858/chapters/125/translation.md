@@ -1,0 +1,43 @@
+---
+work_id: "125858cf-fea7-5292-b00d-5f4f6d6e46e4"
+work_slug: "friedrich-nietzsche-thus-spake-zarathustra-125858"
+work_title: Thus Spake Zarathustra
+author_name: Friedrich Nietzsche
+chapter_number: 125
+chapter_title: Chapter LXXIII — The Higher Man. Par. 1
+chapter_slug: 125
+variant_id: "d55bdc16-77cc-51c9-b028-2bc71d23ca3d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 670
+source_url: "https://www.gutenberg.org/ebooks/1998"
+translator: Project Gutenberg edition
+---
+
+Nietzsche admits, here, that at one time he had thought of appealing to the people, to the crowd in the market-place, but that he had ultimately to abandon the task. He bids higher men depart from the market-place.
+
+Here we are told quite plainly what class of men actually owe all their impulses and desires to the instinct of self-preservation. The struggle for existence is indeed the only spur in the case of such people. To them it matters not in what shape or condition man be preserved, provided only he survive. The transcendental maxim that “Life per se is precious” is the ruling maxim here.
+
+In the Note on Chapter LVII. (end) I speak of Nietzsche’s elevation of the virtue, Courage, to the highest place among the virtues. Here he tells higher men the class of courage he expects from them.
+
+These have already been referred to in the Notes on Chapters LVII. (end) and LXXI.
+
+I suggest that the last verse in this paragraph strongly confirms the view that Nietzsche’s teaching was always meant by him to be esoteric and for higher man alone.
+
+In the last verse, here, another shaft of light is thrown upon the Immaculate Perception or so-called “pure objectivity” of the scientific mind. “Freedom from fever is still far from being knowledge.” Where a man’s emotions cease to accompany him in his investigations, he is not necessarily nearer the truth. Says Spencer, in the Preface to his Autobiography:—“In the genesis of a system of thought, the emotional nature is a large factor: perhaps as large a factor as the intellectual nature” (see pages 134, 141 of Vol. I., “Thoughts out of Season”).
+
+When we approach Nietzsche’s philosophy we must be prepared to be independent thinkers; in fact, the greatest virtue of his works is perhaps the subtlety with which they impose the obligation upon one of thinking alone, of scoring off one’s own bat, and of shifting intellectually for oneself.
+
+“I am a railing alongside the torrent; whoever is able to grasp me, may grasp me! Your crutch, however, I am not.” These two paragraphs are an exhortation to higher men to become independent.
+
+Here Nietzsche perhaps exaggerates the importance of heredity. As, however, the question is by no means one on which we are all agreed, what he says is not without value.
+
+A very important principle in Nietzsche’s philosophy is enunciated in the first verse of this paragraph. “The higher its type, always the seldomer doth a thing succeed” (see page 82 of “Beyond Good and Evil”). Those who, like some political economists, talk in a business-like way about the terrific waste of human life and energy, deliberately overlook the fact that the waste most to be deplored usually occurs among higher individuals. Economy was never precisely one of nature’s leading principles. All this sentimental wailing over the larger proportion of failures than successes in human life, does not seem to take into account the fact that it is the rarest thing on earth for a highly organised being to attain to the fullest development and activity of all its functions, simply because it is so highly organised. The blind Will to Power in nature therefore stands in urgent need of direction by man.
+
+These paragraphs deal with Nietzsche’s protest against the democratic seriousness (Pobelernst) of modern times. “All good things laugh,” he says, and his final command to the higher men is, “LEARN, I pray you—to laugh.” All that is GOOD, in Nietzsche’s sense, is cheerful. To be able to crack a joke about one’s deepest feelings is the greatest test of their value. The man who does not laugh, like the man who does not make faces, is already a buffoon at heart.
+
+“What hath hitherto been the greatest sin here on earth? Was it not the word of him who said: ‘Woe unto them that laugh now!’ Did he himself find no cause for laughter on the earth? Then he sought badly. A child even findeth cause for it.”

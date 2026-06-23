@@ -4,7 +4,7 @@ work_slug: "joseph-priestley-an-essay-on-the-first-principles-2bcc23"
 work_title: An Essay on the First Principles of Government
 author_name: Joseph Priestley
 chapter_number: 1
-chapter_title: THE PREFACE.
+chapter_title: The Preface.
 chapter_slug: "01-the-preface"
 variant_id: "5ac69b1c-fe57-5b09-9ea8-0bf7c6aae2cb"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-law-of-torts-eb9423",
+  "work_title": "The Law of Torts",
+  "chapter_number": 58,
+  "chapter_title": "Appendix C. Statutes of Limitation, An Acte for lymytacion of Accions, and for avoyding of Suits in Lowe. (21 James I. c",
+  "chapter_slug": "58-appendix-c-statutes-of-limitation-an-acte-for-lymy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "81848b0f-6a36-5242-a59f-371cb5854f29",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 418,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+    }
+  ]
+}

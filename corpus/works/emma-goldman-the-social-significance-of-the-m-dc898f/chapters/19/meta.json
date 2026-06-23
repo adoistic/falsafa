@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 19,
+  "chapter_title": "Part 7, Chapter 1: Edmond Rostand, Chantecler",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3ae52ce6-f3ca-5885-a909-c3cfbe370b4b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1846,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-7-chapter-1.html"
+    }
+  ]
+}

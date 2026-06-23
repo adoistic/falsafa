@@ -1,0 +1,33 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 86
+chapter_title: II. (5)
+chapter_slug: "86-ii-5"
+variant_id: "7166ec92-19ae-5fb3-b42d-27408862aacd"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 580
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+I think it may be useful to recall certain elementary notions relative to strikes. The strike is an economic phenomenon, depending upon the following principles:—
+
+These are the economic and judicial principles upon which the normal right to strike is based.
+
+The normal exercise of the right to strike has been subjected to the following deviations:
+
+The strikers consider that the obligation to give notice ought to be observed by the employer, but not by the wage-earner, the sudden interruption of labour being, for the latter, involved in the right to strike. He considers that by taking the employer by surprise he is performing an act of legitimate warfare; for he has been told, and believes, that the right to strike is not the pacific exercise of the right to break a contract of labour, but a fight—a conviction which has been encouraged by the weakness of several governments. Strike leaders have sufficient perspicacity to take into account the fact that deputies like to give way to sentiment, that ministers dread the accusation of shedding the blood of the people, and that prefects are afraid of being made scapegoats in the event of anything untoward occurring, and they redouble their provocations accordingly. The unhappy police are expected to maintain order, but upon condition of doing nothing of what is necessary in order to effect this object.
+
+Troops are sent to preserve order, but are kept in concealment, and, although the military regulations forbidding them to allow themselves to be disarmed are not repealed, both officers and privates know that they must suffer in silence and without a murmur. A series of experiments has convinced the strike leaders that everything is permitted to them: if they commit offences or crimes in connection with a strike, they have the benefit of all kinds of extenuating circumstances. They fully appreciate their position, and are able to exhibit themselves as conquerors and to inspire the workmen with legitimate confidence, seeing that their tactics and proceedings are justified by success. If the government be obliged to institute a few prosecutions, an amnesty intervenes to stultify their results. The victims of the prosecutions know that repression is more apparent than real, and openly proclaim their knowledge.
+
+Pathetic speeches, appeals to conciliation, and all the vague and honeyed sentiments which have emanated from the platform during the last twentyfive years with respect to every strike of the slightest importance, have ended, as was easily foreseen, and as I have always said they would, in putting premiums upon violence, in organising the aggressive tactics of the strike leaders and in elevating those tactics, through the agency of the leaders of the General Confederation of Labour, to the dignity of a system.
+
+Every time that the elementary principles of law are lost sight of, similar results are arrived at. Those who, at the present time, give way to such weakness, are applauded as good and sympathetic people. In point of fact, they are playing the game of resolute men who derive their principal strength from the mildness of others, and they are not entirely exempt from responsibility for the brutality, pillage and sanguinary encounters which have characterised certain strikes. If the Government had always done its duty, the General Confederation of Labour would not be a power, and its leaders would not be able to talk of a general strike and of the right to damage industrial property and plant with the cool impertinence in which they indulge themselves.

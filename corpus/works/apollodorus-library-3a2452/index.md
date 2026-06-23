@@ -4,7 +4,8 @@ slug: "apollodorus-library-3a2452"
 title: Library
 author:
   name: Apollodorus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Greek mythographer, conventionally called Pseudo-Apollodorus and long misidentified with the Athenian grammarian Apollodorus of Athens. The Library and its Epitome condense the genealogies and hero-cycles of Greek myth into a single systematic handbook."
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

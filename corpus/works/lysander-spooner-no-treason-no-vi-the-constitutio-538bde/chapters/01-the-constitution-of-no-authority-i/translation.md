@@ -1,0 +1,45 @@
+---
+work_id: "538bde11-7ce8-5966-9fcc-c1bbedd0b8ae"
+work_slug: "lysander-spooner-no-treason-no-vi-the-constitutio-538bde"
+work_title: "No Treason, No. VI: The Constitution of No Authority"
+author_name: Lysander Spooner
+chapter_number: 1
+chapter_title: The Constitution of No Authority, I.
+chapter_slug: "01-the-constitution-of-no-authority-i"
+variant_id: "045f6dc4-770a-5cdf-8ee3-f6bf4cf535ae"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1096
+source_url: "https://oll.libertyfund.org/titles/spooner-no-treason-no-vi-the-constitution-of-no-authority-1870"
+translator: Online Library of Liberty edition
+---
+
+The Constitution has no inherent authority or obligation. It has no authority or obligation at all, unless as a contract between man and man. And it does not so much as even purport to be a contract between persons now existing. It purports, at most, to be only a contract between persons living eighty years ago. And it can be supposed to have been a contract then only between persons who had already come to years of discretion, so as to be competent to make reasonable and obligatory contracts. Furthermore, we know, historically, that only a small portion even of the people then existing were consulted on the subject, or asked, or permitted to express either their consent or dissent in any formal manner. Those persons, if any, who did give their consent formally, are all dead now. Most of them have been dead forty, fifty, sixty, or seventy years. And the Constitution, so far as it was their contract, died with them. They had no natural power or right to make it obligatory upon their children. It is not only plainly impossible, in the nature of things, that they could bind their posterity, but they did not even attempt to bind them. That is to say, the instrument does not purport to be an agreement between any body but “the people” then existing; nor does it, either expressly or impliedly, assert any right, power, or disposition, on their part, to bind any body but themselves. Let us see. Its language is:
+
+“We, the people of the United States [that is, the people then existing in the United States], in order to form a more perfect union, insure domestic tranquillity, provide for the common defence, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this Constitution for the United States of America.”
+
+It is plain, in the first place, that this language, as an agreement, purports to be only what it at most really was, viz: a contract between the people then existing; and, of necessity, binding, as a contract, only upon those then existing. In the second place, the language neither expresses nor implies that they had any intention or desire, nor that they imagined they had any right or power, to bind their “posterity” to live under it. It does not say that their “posterity” will, shall, or must live under it. It only says, in effect, that their hopes and motives in adopting it were that it might prove useful to their posterity, as well as to themselves, by promoting their union, safety, tranquillity, liberty, etc.
+
+Suppose an agreement were entered into, in this form:
+
+We, the people of Boston, agree to maintain a fort on Governor’s Island, to protect ourselves and our posterity against invasion.
+
+This agreement, as an agreement, would clearly bind nobody but the people then existing. Secondly, it would assert no right, power, or disposition, on their part, to compel their “posterity” to maintain such a fort. It would only indicate that the supposed welfare of their posterity was one of the motives that induced the original parties to enter into the agreement.
+
+When a man says he is building a house for himself and his posterity, he does not mean to be understood as saying that he has any thought of binding them, nor is it to be inferred that he is so foolish as to imagine that he has any right or power to bind them, to live in it. So far as they are concerned, he only means to be understood as saying that his hopes and motives, in building it, are that they, or at least some of them, may find it for their happiness to live in it.
+
+So when a man says he is planting a tree for himself and his posterity, he does not mean to be understood as saying that he has any thought of compelling them, nor is it to be inferred that he is such a simpleton as to imagine that he has any right or power to compel them, to eat the fruit. So far as they are concerned, he only means to say that his hopes and motives, in planting the tree, are that its fruit may be agreeable to them.
+
+So it was with those who originally adopted the Constitution. Whatever may have been their personal intentions, the legal meaning of their language, so far as their “posterity” was concerned, simply was, that their hopes and motives, in entering into the agreement, were that it might prove useful and acceptable to their posterity; that it might promote their union, safety, tranquillity, and welfare; and that it might tend “to secure to them the blessings of liberty.” The language does not assert nor at all imply, any right, power, or disposition, on the part of the original parties to the agreement, to compel their “posterity” to live under it. If they had intended to bind their posterity to live under it, they should have said that their object was, not “to secure to them the blessings of liberty,” but to make slaves of them; for if their “posterity” are bound to live under it, they are nothing less than the slaves of their foolish, tyrannical, and dead grandfathers.
+
+It cannot be said that the Constitution formed “the people of the United States,” for all time, into a corporation. It does not speak of “the people” as a corporation, but as individuals. A corporation does not describe itself as “we,” nor as “people,” nor as “ourselves.” Nor does a corporation, in legal language, have any “posterity.” It supposes itself to have, and speaks of itself as having, perpetual existence, as a single individuality.
+
+Moreover, no body of men, existing at any one time, have the power to create a perpetual corporation. A corporation can become practically perpetual only by the voluntary accession of new members, as the old ones die off. But for this voluntary accession of new members, the corporation necessarily dies with the death of those who originally composed it.
+
+Legally speaking, therefore, there is, in the Constitution, nothing that professes or attempts to bind the “posterity” of those who establish it.
+
+If, then, those who established the Constitution, had no power to bind, and did not attempt to bind, their posterity, the question arises, whether their posterity have bound themselves? If they have done so, they can have done so in only one or both of these two ways, viz. by voting, and paying taxes.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-schumpeter-on-the-concept-of-social-value-1f34bd",
+  "work_title": "On the Concept of Social Value",
+  "chapter_number": 6,
+  "chapter_title": "V.",
+  "chapter_slug": "06-v",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e879f773-9669-5b96-ac50-42ab0e7393c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 273,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/schumpeter/value.htm"
+    }
+  ]
+}

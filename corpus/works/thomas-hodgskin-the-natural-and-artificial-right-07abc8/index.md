@@ -4,15 +4,19 @@ slug: "thomas-hodgskin-the-natural-and-artificial-right-07abc8"
 title: The Natural and Artificial Right of Property Contrasted
 author:
   name: Thomas Hodgskin
-  biography: Thomas Hodgskin (1787–1869).
+  biography: "English naval officer turned political economist and journalist, lecturer at the London Mechanics' Institution. His writings argued that labor is the true source of value and that property rights rest on nature rather than legal privilege."
+  birth_year: 1787
+  death_year: 1869
+  nationality: English
 era: 19th Century
 genre: Political Theory
 language: English
 language_direction: ltr
 description: "The Natural and Artificial Right of Property Contrasted, by Thomas Hodgskin (1787–1869), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
-total_logical_chapters: 14
-total_variant_entries: 14
+published_year: 1832
+total_logical_chapters: 9
+total_variant_entries: 9
 thothica_role: catalog
 ---
 
@@ -22,17 +26,12 @@ The Natural and Artificial Right of Property Contrasted, by Thomas Hodgskin (178
 
 ## Chapters
 
-01. [ADVERTISEMENT.](./chapters/01-advertisement/) — prose, 1 variant
-02. [TO H. BROUGHAM, ESQ. M.P. F.R.S. &c.](./chapters/02-to-h-brougham-esq-m-p-f-r-s-c/) — prose, 1 variant
-03. [TO H. BROUGHAM, ESQ. M. P. F.R.S. &c.](./chapters/03-to-h-brougham-esq-m-p-f-r-s-c/) — prose, 1 variant
-04. [LETTER THE THIRD. THE LEGAL RIGHT OF PROPERTY.](./chapters/04/) — prose, 1 variant
-05. [TO H. BROUGHAM, ESQ. M. P. F.R.S. &c.](./chapters/05-to-h-brougham-esq-m-p-f-r-s-c/) — prose, 1 variant
-06. [TO H. BROUGHAM, ESQ. M. P. F.R.S. &c.](./chapters/06-to-h-brougham-esq-m-p-f-r-s-c/) — prose, 1 variant
-07. [LETTER THE FIFTH. THE LEGAL RIGHT OF PROPERTY IS UNDERGOING SUBVERSION BY THE NATURAL RIGHT OF PROPERTY.](./chapters/07/) — prose, 1 variant
-08. [TO H. BROUGHAM, ESQ. M. P. F.R.S. &c.](./chapters/08-to-h-brougham-esq-m-p-f-r-s-c/) — prose, 1 variant
-09. [LETTER THE SIXTH. THE LAW-MAKER DOES NOT ESTABLISH RIGHTS: HE ONLY COPIES USAGES.](./chapters/09/) — prose, 1 variant
-10. [TO H. BROUGHAM, ESQ. M. P. F.R.S. &c.](./chapters/10-to-h-brougham-esq-m-p-f-r-s-c/) — prose, 1 variant
-11. [TO H. BROUGHAM, ESQ. M. P. F.R.S. &c.](./chapters/11-to-h-brougham-esq-m-p-f-r-s-c/) — prose, 1 variant
-12. [LETTER THE EIGHTH. EVILS OF THE ARTIFICIAL RIGHT OF PROPERTY.](./chapters/12/) — prose, 1 variant
-13. [TO H. BROUGHAM, ESQ. M. P. F.R.S. &c.](./chapters/13-to-h-brougham-esq-m-p-f-r-s-c/) — prose, 1 variant
-14. [POSTSCRIPT. TO LORD BROUGHAM AND VAUX, lord high chancellor of england, &c. &c.](./chapters/14-postscript-to-lord-brougham-and-vaux-lord-high-cha/) — prose, 1 variant
+01. [Letter the First. Introductory, To H. Brougham, Esq. M.p. F.r.s. &c.](./chapters/01/) — prose, 1 variant
+02. [To H. Brougham, Esq. M. P. F.r.s. &c. (1)](./chapters/02-to-h-brougham-esq-m-p-f-r-s-c-1/) — prose, 1 variant
+03. [Letter the Third. The Legal Right of Property, To H. Brougham, Esq. M. P. F.r.s. &c. (2)](./chapters/03/) — prose, 1 variant
+04. [To H. Brougham, Esq. M. P. F.r.s. &c. (3)](./chapters/04-to-h-brougham-esq-m-p-f-r-s-c-3/) — prose, 1 variant
+05. [To H. Brougham, Esq. M. P. F.r.s. &c. (4)](./chapters/05-to-h-brougham-esq-m-p-f-r-s-c-4/) — prose, 1 variant
+06. [To H. Brougham, Esq. M. P. F.r.s. &c. (5)](./chapters/06-to-h-brougham-esq-m-p-f-r-s-c-5/) — prose, 1 variant
+07. [To H. Brougham, Esq. M. P. F.r.s. &c. (6)](./chapters/07-to-h-brougham-esq-m-p-f-r-s-c-6/) — prose, 1 variant
+08. [To H. Brougham, Esq. M. P. F.r.s. &c. (7)](./chapters/08-to-h-brougham-esq-m-p-f-r-s-c-7/) — prose, 1 variant
+09. [Postscript. To Lord Brougham and Vaux, lord high chancellor of england, &c. &c.](./chapters/09-postscript-to-lord-brougham-and-vaux-lord-high-cha/) — prose, 1 variant

@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 100
-chapter_title: "CHAPTER IX: The Exploitation of Intimidation"
+chapter_title: "Book IX: Socialism and Democracy, Chapter I: The Programme of the International Association"
 chapter_slug: 100
 variant_id: "84d6ad24-7a1e-5d2c-b4aa-5af75139d4aa"
 content_type: translation
@@ -13,83 +13,31 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1759
+word_count: 643
 source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
 translator: Online Library of Liberty edition
 ---
 
-M. Jaurès' schemes—The end justifies the means—Buchez—The use of violence, according to M. Georges Sorel—Violence in strikes—The leaders of the Confederation of Labour are politicians—Parisian panics—Steudhal's saying—“Fear is not in the danger, it is in ourselves”—Social bankruptcy as an ideal—The socialist tyranny announced and realised.
+Karl Marx' subtleties—Developments rather than reforms—Set-back to Internationalism—Hervé's logic—Socialists act contrary to their professions.
 
-On May 2nd, 1907, my excellent friend M. Faubert encountered a member of the Confederation of Labour who occasionally condescends to have a chat with him. He asked M. Faubert, with a selfsatisfied air, whether he had seen the “Humanité” newspaper.
+Herr Werner Sombart says of the inaugural address of the International Association of Workmen, “It is a veritable masterpiece of ability, although its scheme is not very clear: but Marx is its author and his obscurity is intentional…. Opposing tendencies had to be reconciled. There is something to satisfy everyone in the address. In its convincing portraiture it exhibits the wretchedness of the working classes under the capitalistic yoke…. It celebrates the advantages of free co-operation, Proudhon, Buchez, the advocates of co-operative production subsidised by the State, Lassalle and Louis Blanc. It contains the common sentimental passages which Marx reluctantly let fall from his pen…. Of the object of the Association there was little question.”
 
-M. Faubert: Certainly not, it is always lost in the same fog. I am still waiting for the suggested legislation promised by M. Jaurès in his speeches on June 12th and 14th, 1906. When challenged by M. Clemenceau, he announced that he would disclose the secret of the society of the future after an interval of four or five months. That time has now expired and I do not see what he is thinking about.
+The Socialists continue to carry out this policy; what they desire is developments rather than reforms, and, while courting the mob, they aim, not at the true and the useful, but at the art of exploiting the passions and prejudices of the ignorant and the seekers after chimæras.
 
-The Confederate: He cannot disclose them independently; they have to be accepted by the United Socialist Party.
+The headquarters of the International Association was transferred to New York in 1872. It did not perish in consequence of Government measures taken to destroy it, but was dislocated by the quarrels of Karl Marx and Bakunin, which like those which rage between Guesde, Jaurès and Lagardelle, give us an idea of the harmony which will prevail in the Collectivist Paradise.
 
-M. Faubert: Then we shall never see them. But why did he give such an undertaking?
+Karl Marx concluded his Manifesto of 1847 with the words, “Proletarians of all countries, unite.” Werner Sombart says that Marx had “vainly attempted to introduce the ideals of solidarity and union from without.” They certainly have not radiated from within.
 
-The Confederate: Because he has not yet submitted to the party discipline.
+The French Socialists do not display the slightest sympathy for Belgian or Italian workmen who come to France; the English workmen have obtained the passing of the “Aliens' Act,” and the expulsion of the Chinese from the Transvaal; the American workmen have inherited the European immigration difficulties and have prohibited the entry of the Chinese and Japanese.
 
-M. Faubert: Yes, the Socialist party gives its tenor every liberty, but does not consider itself as bound by him. I admit that the party is not distinguished by curiosity. Its members are content that the tenor should sing, “Come, let us march to Paradise,” without asking him to describe the stages on the road or the plan on which this Paradise is constructed. However, from the moment when M. Jaurès scorns all the facts, and all the Edition: current; Page: [304] economic laws which are derived from them, and believes that a positive law can do everything, it is his duty to put these positive laws into writing and to reveal them to the world. Jaurès promised ten months ago to bring them down from Sinai. Moses did not keep the Israelites waiting so long.
+Socialists nevertheless talk of Society with a big S, of Society with neither frontiers nor nations. When Karl Marx said, “Proletarians of all nations, unite,” he did not say that the proletarians of China were excluded from his appeal. The agrarians of Eastern Prussia have suggested the importation of Chinese coolies. Is the German Socialist Party disposed to welcome them as brothers?
 
-The Confederate: He will bring down the tables of the law, amid thunders and lightnings, which will make capitalist society tremble.
+At the Stuttgart Congress, the Germans displayed a strong national sentiment and were very angry with Hervé. Still it is Hervé, and not they, that is logical. Every Socialist who admits the existence of a separate nation, admits individual property; for a nation presupposes the ownership by a group of individuals of a portion of the earth's surface.
 
-M. Faubert: I recognise the usual metaphors. M. Georges Sorel has likened the general strike, in the “Mouvement Socialiste,” to the last Judgment in the Apocalypse; he declares that Christians have made such good use of it that Socialists, in their turn, should exploit the sentiment of mad terror and chimerical hope which it inspired.
+Speaking generally, the Socialists act contrary to their professions. They say that they want to place property in the hands of the people, but they will either place it in the hands of bodies of men which, whatever the name by which they may go, are greedier than any Harpagon, or in the hands of the State, which, in its turn, will delegate it to departments of administration; and these will exploit it for their own benefit, not for that of the public.
 
-The Confederate: All means are good.
+They talk of liberty, but all their proposed legislation is the legislation of tyranny and police, and we have seen them reassimilate free to the type of servile labour.
 
-M. Faubert: The end justifies the means. That is a Jesuit formula, adopted by a Catholic Socialist, Buchez, who tried to prove that the “sovereignty of the people” and the “sovereignty of the end” are identical.
+They talk of an ideal of government, and instead of limiting its attributes, they endow it with powers as vague and indeterminate as those of Oriental or African potentates.
 
-The Confederate: That is ancient history. We are more modern now. Read the “Réflexions sur la violence,” published by M. Georges Sorel, in the same review (January 15th, 1906, p. 18):—
-
-“Experience shews that the bourgeoisie easily submits to be plundered, provided that a little pressure be applied and that they be frightened by the threat of revolution: the party which is able to handle the spectre of revolution most boldly will have the future in its hands—The workmen are able to inspire fear. The members of revolutionary trade unions know how to make excellent use of this situation, and they are teaching the workmen that it is not a matter of going to ask for favours, but that they must profit by the cowardice of the bourgeoisie to impose upon them the will of the proletariat.
-
-M. Faubert: The will of the proletariat? That is a wide generalisation. You should say, the will Edition: current; Page: [305] of a dozen leaders of the Confederation of Labour.
-
-The Confederate: Certainly, it doesn't matter, for they act with the consent of the whole number, and, as Sorel says, they have succeeded.
-
-“The violence of the workmen possesses an extraordinary efficaciousness in case of strikes. The prefects are afraid of being induced to bring the force of the law into play against the violence of insurrection and bring pressure to bear upon employers in order to force them to yield: the safety of works is nowadays considered as a favour of which the prefect can dispose at will, in order to intimidate both parties and lead them with more or less adroitness to an agreement. There have not been wanting numbers of occasions upon which the leaders of the movement have seized upon this situation: we must recognise that they have made use of the weapon which was placed in their hands by a rare piece of good fortune. They endeavour to intimidate the prefects by popular demonstrations…. The administration, beset on all sides and terrified, seldom fails to intervene after a time with the employers and to impose upon them a transaction which becomes an encouragement to the propagandists of violence” (p. 29).
-
-Here you see, in the actual words of the philosopher of the party, what has been the effect of concessions, negociations, government meddling with strikes, interpellations in the Chamber of Deputies, and the conciliatory sentiments of tenderhearted persons. The only effect has been to teach people to use violence.
-
-M. Faubert: That proves that the men who are at the head of the Socialist party are politicians who know how to take advantage of the weapons with which their adversaries supply them in the belief that they are disarming them.
-
-The Confederate: You cannot blame them for that.
-
-M. Faubert: I do not do so. They are acting within their rights; but I think that they are acting under an illusion in trying to terrorise the bour Edition: current; Page: [306] geoisie. M. Georges Sorel says, “experience shews that the bourgeoisie easily submits to be plundered.” What facts can he cite in support of this assertion. When, on the contrary, it is a question of defending that property to which “the democracy clings with all its fibres,” to use M. Jaurès' own words, it exhibits an energy which has never belied itself. There is no night of August 4th to be put down to the account of the bourgeoisie.
-
-The Confederate: The question does not arise in the same manner.
-
-M. Faubert: It does, in effect.
-
-The Confederate: But would you deny the fear in the hearts of the bourgeoisie last year with regard to the first of May? Had not a number of people made preparations, while others went away?
-
-M. Faubert: That may be, but that only proves that those people were lacking in confidence in the Government. They had no faith in its power to fulfil its primary function—that of ensuring internal security. The Government took certain measures, and if some of the bourgeoisie fled, the soldiers of the army of the Confederation stayed at home. They do not seem to me to have displayed much more courage.
-
-The Confederate: Can you deny the ease with which the bourgeoisie takes fright? See what has just happened in the small-pox scare. I read in the “Progres Medical” of March 30th that:—
-
-“There have not been so few cases of small-pox in Paris for five years: if we are to believe the ‘statistique municipale officielle,’ the number of eases in the last two weeks was 8 and 12 respectively, instead of an average of 20. Whence, then, comes this strange panic, which shakes the people of Paris and makes the fortunes of the institutions which supply vaccine?”
-
-Owing to a few newspaper articles, people took fright at once and crowds waited at the vaccinators' establishments. Ladies, when by themselves, Edition: current; Page: [307] spoke of nothing but their vaccination, and looked with suspicion upon anyone who did not share their terror. One might venture anything with people who are frightened at once, without making inquiries.
-
-M. Faubert: Steudhal said long ago that “fear is not in the danger, it is in ourselves.”
-
-The Confederate: It only remains, then, to inspire it. See what we have already succeeded in doing with white-lead, and what we are about to do for absinthe. Do you believe that all Parisians will not suffer from colic on the day when they are convinced that the journeymen bakers are playing “la sabotage” in their bakehouses?
-
-M. Faubert: You have just said “all Parisians,” Fear, then, is not the special characteristic of the bourgeois. Do you think that the members of the Labour Exchange and their wives are less frightened of the small-pox than the bourgeois? Fear is not a capitalist privilege.
-
-The Confederate: The workman has nothing to lose.
-
-M. Faubert: Disabuse yourself of that idea. It is he who has most to lose. The bloated multimillionaire will invest his capital abroad if it be threatened, and he will transport himself abroad too, if he feel his person to be unsafe. He will no longer be interested in French industries and will spend less money in France. As Cobden says, wages rise when two employers are running after one workman, and fall when two workmen are running after one employer. Your policy, the object of which is to frighten capital, produces a certain result—that of making it take flight. If it does so, it will not transform itself into wages, and a strike with violence will produce a certain result—a strike of employers. It will transform artificial unemployed into actual ones.
-
-The Confederate: So much the better. That will be the beginning of the general winding up.
-
-M. Faubert: And then we have gone bankrupt. Is that then your ideal?
-
-The Confederate: Yes, the bankruptcy of capitalist society!
-
-M. Faubert: Well, but explain for us the constitution of your collectivist society.
-
-The Confederate: You want to know too much. But when I asked you whether you had read “l'Humanité” I did so with reference to an observation of M. Marcel Sembat to the effect that poor Yves Guyot had for a long time been denouncing the Socialist tyranny, but he was hardly listened to.
-
-M. Faubert: Very well, then; but it seems to me that he was quite right and that the others were wrong in not listening. Those who profit by the Socialist tyranny act like all tyrants; they abuse their power and act in such a way that people begin to listen to the man who denounced it at the time when people like M. Goblet placed themselves at the head of the Socialist Union. It is one of the results of the threats and the violence of your friends.
+They say nothing of liberty, for they understand it in the same sense as the maid-servant of Frankfort who, on the day after the Revolution of 1848, said to her mistress, “Now that we are equal, you shall carry the coal-box and I will wear the diamonds.”

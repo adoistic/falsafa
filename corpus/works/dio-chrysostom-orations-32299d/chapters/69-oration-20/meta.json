@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 69,
+  "chapter_title": "Oration 20",
+  "chapter_slug": "69-oration-20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6fd9097f-7169-5ae6-8c79-e410c8755a95",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2173,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4894a536-9854-5bc3-b5d0-cfa8d568c4f3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2699,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

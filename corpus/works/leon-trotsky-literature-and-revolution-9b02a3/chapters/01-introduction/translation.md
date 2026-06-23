@@ -1,0 +1,59 @@
+---
+work_id: "9b02a332-28a9-5238-81a5-ffc22b13de91"
+work_slug: "leon-trotsky-literature-and-revolution-9b02a3"
+work_title: Literature and Revolution
+author_name: Leon Trotsky
+chapter_number: 1
+chapter_title: Introduction
+chapter_slug: "01-introduction"
+variant_id: "08f381d0-339a-5a3c-8f5e-72e86f0d3f2c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1860
+source_url: "https://www.marxists.org/archive/trotsky/1924/lit_revo/intro.htm"
+translator: Rose Strunsky
+---
+
+THE place of art can be determined by the following general argument.
+
+If the victorious Russian proletariat had not created its own army, the Workers’ State would have been dead long ago, and we would not be thinking now about economic problems, and much less about intellectual and cultural ones.
+
+If the dictatorship of the proletariat should prove incapable, in the next few years, of organizing its economic life and of securing at least a living minimum of material comforts for its population, then the proletarian regime will inevitably turn to dust. The economic problem at present is the problem above all problems.
+
+But even a successful solution of the elementary problems of food, clothing, shelter, and even of literacy, would in no way signify a complete victory of the new historic principle, that is, of Socialism. Only a movement of scientific thought on a national scale and the development of a new art would signify that the historic seed has not only grown into a plant, but has even flowered. In this sense, the development of art is the highest test of the vitality and significance of each epoch.
+
+Culture feeds on the sap of economics, and a material surplus is necessary, so that culture may grow, develop and become subtle. Our bourgeoisie laid its hand on literature, and did this very quickly at the time when it was growing rich. The proletariat will be able to prepare the formation of a new, that is, a Socialist culture and literature, not by the laboratory method on the basis of our present-day poverty, want and illiteracy, but by large social, economic and cultural means. Art needs comfort, even abundance. Furnaces have to be hotter, wheels have to move faster, looms have to turn more quickly, schools have to work better.
+
+Our old literature and “culture” were the expressions of the nobleman and the bureaucrat, and were based on the peasant. The nobleman who did not doubt himself as well as the “repentant nobleman” laid their imprints upon the most significant period of Russian literature. Later the intellectual-commoner arose, based on the peasant and bourgeois, and he, too, wrote his chapter into the history of Russian literature. After going through a period of fullest “simplification” [of leading the simple life of the people] the intellectual-commoner became modernized, differentiated and individualized, in the bourgeois sense of the term. Here lies the role of the Decadent and Symbolic schools. Already at the beginning of the century, but especially after 1907-1908, the rebirth of the bourgeois intelligentsia and its literature proceeds at full speed. The War made this process end patriotically.
+
+The Revolution overthrew the bourgeoisie, and this decisive fact burst into literature. The literature which was formed around a bourgeois center, is no more. Everything more or less vital, which remained in the field of culture, and this is especially true of literature, tried, and still tries, to find a new orientation. In view of the fact that the bourgeoisie no longer exists, its center can be only the people, without the bourgeoisie. But who are the people? First of all, they are the peasantry, and to some extent the small burghers of the city, and after that those workers who cannot be separated from the protoplasm of peasant and folk. This is the basic approach of all the “fellow-travellers” of the Revolution. So thought the late Blok. Thus Pilnyak, the “Serapion Fraternity”, the Imagists, who are still alive and doing well. Thus some of the Futurists (Khlebnikov, Kruchenikh and V. Kamensky). The peasant basis of our culture – or rather, of our lack of culture – reveals indirectly all its strength.
+
+Our revolution is the expression of the peasant turned proletarian, who yet leans upon the peasant and lays out the path to be followed. Our art is the expression of the intellectual, who hesitates between the peasant and the proletarian and who is incapable organically of merging either with one or the other, but who gravitates more towards the peasant, because of his intermediary position, and because of his connections. He cannot become a peasant, but be can sing the peasant. At the same time, however, there can be no revolution without the leadership of the worker. That is the source of the fundamental contradiction at the very approach to the subject. One can say that the poets and writers of these sharply critical years differ from one another in the way they escape from this contradiction, and in the manner in which they fill in the gaps; one with mysticism, another with romanticism, a third with cautious aloofness, and a fourth with a cry which drowns everything. Regardless of the variety of methods of overcoming the contradiction, its essence remains one and the same. It consists in the separation created by bourgeois society of intellectual work, including art, from physical work, and it appears that the Revolution is the work of men doing physical work. One of the ultimate aims of the Revolution is to overcome completely the separation of these two kinds of activity. In this sense, as in all other senses, the problem of creating a new art proceeds entirely along the lines of the fundamental problem of constructing a Socialist culture.
+
+It is silly, absurd, stupid to the highest degree, to pretend that art will remain indifferent to the convulsions of our epoch. The events are prepared by people, they are made by people, they fall upon people and change these people. Art, directly or indirectly, affects the lives of the people who make or experience the events. This refers to all art, to the grandest, as well as to the most intimate. If nature, love or friendship had no connection with the social spirit of an epoch, lyric poetry would long ago have ceased to exist. A profound break in history, that is, a rearrangement of classes in society, shakes up individuality, establishes the perception of the fundamental problems of lyric poetry from a new angle, and so saves art from eternal repetition.
+
+But does not the “spirit” of an epoch work imperceptibly and independently of the subjective will? Of course in the final analysis, this spirit is reflected in everybody, in those who accept it and who embody it, as well as in those who hopelessly struggle against it, and in those who passively try to hide from it. But those who hide themselves passively are imperceptibly dying off. Those who resist are able to revive the old art with one kind of antiquated flame or another. But the new art, which will lay out new landmarks, and which will expand the channel of creative art, can be created only by those who are at one with their epoch. If a line were extended from present art to the Socialist art of the future, one would say that we have hardly now passed through the stage of even preparing for its preparation.
+
+A short outline of the groups of present-day Russian literature is as follows:
+
+Non-revolutionary literature, from the feuilleton writers in Suvorin’s newspaper to the subtlest lyricists of the aristocrat’s vale of tears, is dying, together with the classes which it served. Genealogically, as far as form is concerned, it represents the completion of the elder line of our old literature, which began as a nobleman’s literature, and finished as bourgeois literature from beginning to end.
+
+The “Soviet” rustic or peasant-singing literature can trace its genealogy, in the sense of form, though less clearly, from the Slavophil and populist tendencies of the old literature. To be sure, the peasant-singing writers are not directly the product of the peasant. They would be unthinkable without the preceding literature of the nobility and the bourgeoisie, the junior line of which they represent. At present, they are all adjusting themselves to be more in tune with the new social situation.
+
+Futurism also undoubtedly represents an off-shoot of the old literature. But Russian Futurism did not reach its full development under the old literature, and did not undergo the necessary bourgeois transformation which would have given it official recognition. When the War and the Revolution began, Futurism was still Bohemian, which is a normal condition for every new literary school in capitalistic cities. Under the impulse of events, Futurism directed its development into the new channels of the Revolution. In the very nature of the thing, this could not and did not result in a revolutionary art. But though remaining, in some respects, a Bohemian revolutionary off-shoot of the old art, Futurism contributes to a greater degree and more directly and actively than all other tendencies, in forming the new art.
+
+However significant the achievements of individual proletarian poets may be in general, their so-called “proletarian art” is only passing through an apprenticeship. It sows the elements of artistic culture widely, it helps a new class to assimilate the old achievements, even though in a very thin veneer, and in this way it is one of the currents of the Socialist art of the future.
+
+It is fundamentally incorrect to contrast bourgeois culture and bourgeois art with proletarian culture and proletarian art. The latter will never exist, because the proletarian régime is temporary and transient. The historic significance and the moral grandeur of the proletarian revolution consist in the fact that it is laying the foundations of a culture which is above classes and which will be the first culture that is truly human.
+
+Our policy in art, during a transitional period, can and must be to help the various groups and schools of art which have come over to the Revolution to grasp correctly the historic meaning of the Revolution, and to allow them complete freedom of self-determination in the field of art, after putting before them the categorical standard of being for or against the Revolution.
+
+The Revolution is reflected in art, for the time being only partially so, to the extent to which the artist ceases to regard it as an external catastrophe, and to the extent to which the guild of new and old poets and artists becomes a part of the living tissue of the Revolution and learns to see it from within and not from without.
+
+The social whirlpool will not calm down so soon. There are decades of struggle ahead of us, in Europe and in America. Not only the men and women of our generation, but of the coming one, 'will be its participants, its heroes and its victims. The art of this epoch will be entirely under the influence of revolution. This art needs a new self-consciousness. It is, above all, incompatible with mysticism, whether it be frank, or whether it masquerades as romanticism, because the Revolution starts from the central idea that collective man must become sole master, and that the limits of his power are determined by his knowledge of natural forces and by his capacity to use them. This new art is incompatible with pessimism, with skepticism, and with all the other forms of spiritual collapse. It is realistic, active, vitally collectivist, and filled with a limitless creative faith in the Future,
+
+L. TROTSKY July 29, 1924

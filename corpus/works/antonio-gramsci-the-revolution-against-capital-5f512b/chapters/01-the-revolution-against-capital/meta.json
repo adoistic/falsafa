@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-gramsci-the-revolution-against-capital-5f512b",
+  "work_title": "The Revolution Against 'Capital'",
+  "chapter_number": 1,
+  "chapter_title": "The Revolution Against 'Capital'",
+  "chapter_slug": "01-the-revolution-against-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2bb09f0d-def3-51ee-be0c-c123240d87d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1441,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gramsci/1917/12/revolution-against-capital.htm"
+    }
+  ]
+}

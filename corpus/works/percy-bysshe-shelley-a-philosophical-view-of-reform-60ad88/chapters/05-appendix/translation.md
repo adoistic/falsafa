@@ -4,7 +4,7 @@ work_slug: "percy-bysshe-shelley-a-philosophical-view-of-reform-60ad88"
 work_title: A Philosophical View of Reform
 author_name: Percy Bysshe Shelley
 chapter_number: 5
-chapter_title: APPENDIX
+chapter_title: Appendix
 chapter_slug: "05-appendix"
 variant_id: "e852fc7c-4a02-5aac-abe0-96d42bbe9250"
 content_type: translation

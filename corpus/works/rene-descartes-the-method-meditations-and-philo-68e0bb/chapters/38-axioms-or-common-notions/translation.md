@@ -13,12 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 559
+word_count: 555
 source_url: "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
 translator: Online Library of Liberty edition
 ---
 
-I. Nothing exists of which it cannot be inquired what is the cause of its existing; for this can even be asked Edition: current; Page: [367] respecting God; not that there is need of any cause in order to his existence, but because the very immensity of his nature is the cause or reason why there is no need of any cause of his existence.
+I. Nothing exists of which it cannot be inquired what is the cause of its existing; for this can even be asked respecting God; not that there is need of any cause in order to his existence, but because the very immensity of his nature is the cause or reason why there is no need of any cause of his existence.
 
 II. The present time is not dependent on that which immediately preceded it; for this reason, there is not need of a less cause for conserving a thing than for at first producing it.
 

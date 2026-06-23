@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 27,
+  "chapter_title": "The Capitalistic Character of Manufacture",
+  "chapter_slug": "27-the-capitalistic-character-of-manufacture",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "55b8dc85-9d74-5350-bd62-d925ae3b9173",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2587,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch14.htm"
+    }
+  ]
+}

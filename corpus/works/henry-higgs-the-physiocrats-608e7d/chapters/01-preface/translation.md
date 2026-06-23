@@ -4,7 +4,7 @@ work_slug: "henry-higgs-the-physiocrats-608e7d"
 work_title: The Physiocrats
 author_name: Henry Higgs
 chapter_number: 1
-chapter_title: PREFACE
+chapter_title: Preface
 chapter_slug: "01-preface"
 variant_id: "1b13591a-90f8-5a30-8609-f9c1ee43fc88"
 content_type: translation

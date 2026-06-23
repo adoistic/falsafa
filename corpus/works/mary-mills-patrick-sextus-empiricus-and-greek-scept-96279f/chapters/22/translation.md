@@ -4,7 +4,7 @@ work_slug: "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f"
 work_title: Sextus Empiricus and Greek Scepticism
 author_name: Mary Mills Patrick
 chapter_number: 22
-chapter_title: Chapter XXIII
+chapter_title: Chapter XXII
 chapter_slug: 22
 variant_id: "b7a22ddf-1881-52e1-83b1-9bc6db41c271"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 140
+word_count: 104
 source_url: "https://www.gutenberg.org/ebooks/17556"
 translator: Project Gutenberg edition
 ---
 
-*The Formula "I determine Nothing."*
+[Greek: epoche] *or the Suspension of Judgment.*
 
-In regard to the formula "I determine nothing," we say the 197 following: By "determine" we mean, not simply to speak, but to give assent to an affirmation with regard to some unknown thing. For it will soon be found that the Sceptic determines nothing, not even the formula "I determine nothing," for this formula is not a dogmatic opinion, that is an assent to something unknown, but an expression declaring what our condition of mind is. When, for example, the Sceptic says, "I determine nothing," he means this: "According to my present feeling I can assert or deny nothing dogmatically regarding the things under investigation," and in saying this he expresses what appears to him in reference to the things under discussion. He does not express himself positively, but he states what he feels.
+When I say that I suspend my judgment, I mean that I cannot 196 say which of those things presented should be believed, and which should not be believed, showing that things appear equal to me in respect to trustworthiness and untrustworthiness. Now we do not affirm that they are equal, but we state what appears to us in regard to them at the time when they present themselves to us. [Greek: epoche] means the holding back of the opinion, so as neither to affirm nor deny anything because of the equality of the things in question.

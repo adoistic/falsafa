@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 15,
+  "chapter_title": "§ 8. — That, from the Stand-point of Justice, Labor destroys Property.",
+  "chapter_slug": "15-8-that-from-the-stand-point-of-justice-labor-destr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "718ffe6a-e41e-5d96-a144-0f7fae0b1367",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 803,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch03.htm"
+    }
+  ]
+}

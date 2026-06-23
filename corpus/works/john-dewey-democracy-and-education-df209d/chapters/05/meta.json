@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-dewey-democracy-and-education-df209d",
+  "work_title": "Democracy and Education",
+  "chapter_number": 5,
+  "chapter_title": "Chapter Five — Preparation, Unfolding, and Formal Discipline",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac7b7e82-6e94-52d1-8833-0eea17cdbe21",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5845,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/852"
+    }
+  ]
+}

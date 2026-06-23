@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 16,
+  "chapter_title": "Letter 16",
+  "chapter_slug": "16-letter-16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d94ee0d6-ea4c-5fda-bb77-bcbc17ec1e4b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 537,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "edd122b5-72d6-5b4f-b655-3c21927ca092",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 801,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

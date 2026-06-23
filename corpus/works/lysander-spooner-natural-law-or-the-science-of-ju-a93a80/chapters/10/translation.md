@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-natural-law-or-the-science-of-ju-a93a80"
 work_title: Natural Law, or the Science of Justice
 author_name: Lysander Spooner
 chapter_number: 10
-chapter_title: Section VI.
+chapter_title: "Chapter III.: Natural Law Contrasted with Legislation, Section II."
 chapter_slug: 10
 variant_id: "c109102d-2303-56bb-8cb5-3e4bfa0d40d0"
 content_type: translation
@@ -13,11 +13,25 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 370
+word_count: 572
 source_url: "https://oll.libertyfund.org/titles/spooner-natural-law-or-the-science-of-justice-1882"
 translator: Online Library of Liberty edition
 ---
 
-If there be in nature such a principle as justice, such a principle as honesty, such principles as we describe by the words mine and thine, such principles as men’s natural rights of person and property, then we have an immutable and universal law; a law that we can learn, as we learn any other science; a law that is paramount to, and excludes, every thing that conflicts with it; a law that tells us what is just and what is unjust, what is honest and what is dishonest, what things are mine and what things are thine, what are my rights of person and property and what are your rights of person and property, and where is the boundary between each and all of my rights of person and property and each and all of your rights of person and property. And this law is the paramount law, and the same law, over all the world, at all times, and for all peoples; and will be the same paramount and only law, at all times, and for all peoples, so long as man shall live upon the earth.
+The answer is, that through all historic times, wherever any people have advanced beyond the savage state, and have learned to increase their means of subsistence by the cultivation of the soil, a greater or less number of them have associated and organized themselves as robbers, to plunder and enslave all others, who had either accumulated any property that could be seized, or had shown, by their labor, that they could be made to contribute to the support or pleasure of those who should enslave them.
 
-But if, on the other hand, there be in nature no such principle as justice, no such principle as honesty, no such principle as men’s natural rights of person or property, then all such words as justice and injustice, honesty and dishonesty, all such words as mine and thine, all words that signify that one thing is one man’s property and that another thing is another man’s property, all words that are used to describe men’s natural rights of person or property, all such words as are used to describe injuries and crimes, should be struck out of all human languages as having no meanings; and it should be declared, at once and forever, that the greatest force and the greatest frauds, for the time being, are the supreme and only laws for governing the relations of men with each other; and that, from henceforth, all persons and combinations of persons—those that call themselves governments, as well as all others—are to be left free to practice upon each other all the force, and all the fraud, of which they are capable.
+These bands of robbers, small in number at first, have increased their power by uniting with each other, inventing warlike weapons, disciplining themselves, and perfecting their organizations as military forces, and dividing their plunder (including their captives) among themselves, either in such proportions as have been previously agreed on, or in such as their leaders (always desirous to increase the number of their followers) should prescribe.
+
+The success of these bands of robbers was an easy thing, for the reason that those whom they plundered and enslaved were comparatively defenceless; being scattered thinly over the country; engaged wholly in trying, by rude implements and heavy labor, to extort a subsistence from the soil; having no weapons of war, other than sticks and stones; having no military discipline or organization, and no means of concentrating their forces, or acting in concert, when suddenly attacked. Under these circumstances, the only alternative left them for saving even their lives, or the lives of their families, was to yield up not only the crops they had gathered, and the lands they had cultivated, but themselves and their families also as slaves.
+
+Thenceforth their fate was, as slaves, to cultivate for others the lands they had before cultivated for themselves. Being driven constantly to their labor, wealth slowly increased; but all went into the hands of their tyrants.
+
+These tyrants, living solely on plunder, and on the labor of their slaves, and applying all their energies to the seizure of still more plunder, and the enslavement of still other defenceless persons; increasing, too, their numbers, perfecting their organizations, and multiplying their weapons of war, they extend their conquests until, in order to hold what they have already got, it becomes necessary for them to act systematically, and co operate with each other in holding their slaves in subjection.
+
+But all this they can do only by establishing what they call a government, and making what they call laws.
+
+All the great governments of the world—those now existing, as well as those that have passed away—have been of this character. They have been mere bands of robbers, who have associated for purposes of plunder, conquest, and the enslavement of their fellow men. And their laws, as they have called them, have been only such agreements as they have found it necessary to enter into, in order to maintain their organizations, and act together in plundering and enslaving others, and in securing to each his agreed share of the spoils.
+
+All these laws have had no more real obligation than have the agreements which brigands, bandits, and pirates find it necessary to enter into with each other, for the more successful accomplishment of their crimes, and the more peaceable division of their spoils.
+
+Thus substantially all the legislation of the world has had its origin in the desires of one class of persons to plunder and enslave others, and hold them as property.

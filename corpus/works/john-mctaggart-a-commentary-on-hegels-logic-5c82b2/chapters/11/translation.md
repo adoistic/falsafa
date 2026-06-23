@@ -1,0 +1,79 @@
+---
+work_id: "5c82b203-34df-5ecb-b16e-ab5343b0d1cb"
+work_slug: "john-mctaggart-a-commentary-on-hegels-logic-5c82b2"
+work_title: "A Commentary on Hegel's Logic"
+author_name: John McTaggart
+chapter_number: 11
+chapter_title: Chapter X
+chapter_slug: 11
+variant_id: "094ccd2c-9269-557c-8b12-5ebd20715dee"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2094
+source_url: "https://www.marxists.org/reference/archive/mctaggart/logic/ch10.htm"
+translator: Marxists Internet Archive edition
+---
+
+262. The last section of the dialectic is divided as follows
+
+I. Life. (Das Leben.)
+
+A. The Living Individual. (Das lebendige Individuum.)
+
+B. The Life-Process. (Das Lebens-Process.)
+
+C. The Kind. (Die Gattung.)
+
+II. The Idea of Cognition. (Die Idee des Erkennen.)
+
+A. The Idea of the True. (Die Idee des Wahren.)
+
+(a) Analytic Cognition. (Das analytische Erkennen.) (b) Synthetic Cognition. (Das synthetische Erkennen.)
+
+B. The Idea of the Good. (Die Idee des Guten.)
+
+III. The Absolute Idea. (Die absolute Idee.)
+
+It should be noticed that within II. there are only two divisions, the Synthesis being absent, and that the same is the case with the subdivisions of II. A. Cognition (Erkennen) has its meaning so extended that, as will be seen litter, it covers Volition as well as Knowledge.
+
+263. In the last division of Objectivity, Realised End, we had reached the result that the whole of existence forms a system of differentiated parts, the unity of the system being as fundamental as the differentiation of the parts, and the differentiation of the parts, again, being as fundamental as the unity of the system. In this system the intrinsic nature of each part is dependent on its place in the system. It can only be explained, or even described, by reference to the system, and, through the system, to the other members of it. On the other hand, the unity can only be described as the unity which does, connect these parts. It has no nature which can be stated apart from them, just as they have no nature which can be stated apart from the unity.
+
+This conception, which formed the Synthesis of the last triad of Objectivity, is naturally reproduced in the Thesis of the first triad of the Idea. And this is the conception which we find in the category of the Living Individual.
+
+The general conception of the Idea is, according to Hegel, the unity of the Subjective Notion and Objectivity. (G. L. iii. 240. He also calls it the unity of the Notion and Objectivity. G. L. iii. 238. Enc. 213. This phrase is less appropriate than the other, since Objectivity is also part of the Notion.) In Subjectivity the Individuals were connected by their similarities and dissimilarities, which were realised as forming their inner and intrinsic nature. In Objectivity there was added to this connexion the further connexion of each Individual with other Individuals by means of causal relations. But this was conceived at first as a species of connexion which was external to the Individuals connected, and did not form part of their natures. This externality was gradually eliminated, bat did not completely disappear until the final category of Realised End, Then the determination of each Individual by others was found to consist in their relation to one another in a Teleological System, while the inner nature of each is found to be an expression of its place in the Teleological System. Thus in Idea the connexion of Individuals is, as in Objectivity, inclusive of the mutual determination of each Individual by every other Individual, while, at the same time, the whole connexion of Individuals is, as in Subjectivity, part of their inner nature.
+
+Hegel, however, says that “in a more general sense” the Idea is also “the unity of Notion and Reality (Realität)” (G. L. iii. 240). This seems incorrect. By Reality Hegel appears to mean the plurality in which the Notion is expressed. Now if he speaks of the conception of such a plurality in which the Notion is expressed, that conception is not reached for the first time in the Idea, since both in Subjectivity and Objectivity the Idea was recognised as having such a plurality. If, on the other hand, he speaks of a detailed knowledge of that plurality, or of the actual existent plurality itself, these are not reached in the Idea. The whole dialectic deals only with à priori conceptions, and we cannot acquire by it any knowledge of the different characteristics of particular Individuals, which — for us at any rate — can only be known Still less can the actual Individuals themselves be part of the dialectic.
+
+264. (G. L. iii. 244. Enc. 216.) We must, of course, bear in mind here, as with other categories named from concrete phenomena, the relation between those phenomena and the category. The category of Life does not apply only to what are commonly called living. beings, but is equally true of all reality. Nor does Hegel profess to deduce by tine dialectic process all the empirical characteristics of biological life. The choice of the name is elite to the fact that this is the category of pure thought which is most usually and naturally employed in dealing with the phenomena of life.
+
+Hegel is, I think, clearly right in saying that it is this category which is thus employed in dealing with the phenomena of life. In so far as any matter is held to form a living organism, it is held that the nature of each part of that whole is only capable of explication or description by reference to the organism as a whole, while that organism can only be described is the unity which is the unity of just those parts. (This is the case when the organism is looked at by itself, and for itself. If the organism is regarded as connected with a conscious Spirit., and as used by that Spirit as a means to its own ends, more earl be said about the organism. But then we are considering something beyond biological life.)
+
+It is for this reason that he calls this category Life, and that he calls the element of unity by the name of Seele, and the element of plurality by the name. of Body. It is not easy to find an English equivalent for Seele, in the sense in which it is used by Hegel, and I have therefore retained the German word. Soul would be misleading, since the modern use of that word is to designate what is otherwise called Spirit. But Seele means for Hegel nothing but the unity of which the body is the plurality — the element of unity in biological life.
+
+In the case of Life Hegel makes it even more explicit than he does when dealing with other categories with concrete names, that he intends to keep strictly to pure thought, anti to avoid all empirical intermixture. For he expressly warns its against supposing the Life spoken of in the dialectic to be identical with the life of concrete experience, whether the latter be taken by. itself, or as a manifestation of Spirit (G. L. iii. 245-246). But he falls to carry out fits intentions. The category of Life, as treated by him, possesses two important features which are found in the phenomena studied in biology, but which cannot, as it seems to me, be legitimately deduced by the dialectic process, and which ought riot, therefore,, to have been ascribed to the category.
+
+265. In the first place, the question arises whether the universe consists of one example of the category of Life, or of many such examples. Each of these examples may be called an Are there many such Organisms, or only one?
+
+It seems to me that the right answer to this would have been that there is only one. The whole universe, as I have maintained in the last chapter, forms one Teleological System, and, as it is the Teleological System which, in the new Thesis, is re-stated as the Organism, there should be only one Organism. And in the next category, Cognition, the individual cognizing Selves appear to correspond to the parts of the Organism, while the cognized Whole — which embraces the whole universe — corresponds to the Organism. This, also, indicates that the universe ought to be conceived as one Organism.
+
+But Hegel takes a different view. According to him the universe, as seen under this category, consists of a plurality of Organisms, each of which has a plurality of parts. The Organisms are in relation to one another, and so may be said to form a unity of some sort, but this larger unity — which does embrace the whole universe — is not an Organic unity.
+
+He seems to have been led into this error by the analogy offered by biology, which deals with a multitude of living beings, each of which is an organic unity, while they do not together form an organic unity. And this error vitiates, I think, his whole treatment of the categories of Life.
+
+266. The second case in which, as it seems to me, Hegel has been misled by biological analogies is in treating the living Body as an inadequate manifestation of the Seele. On this, as we shall see, he endeavours to base the transition to the next category. Nosy there is nothing in the dialectic to warrant this view. In the Teleological System the nature of the unity was just that it was the unity which did connect those parts. If Hegel had not demonstrated the validity of this conception, he would have had no right to affirm the category of Teleology, nor, consequently, the category of Life. But if he had demonstrated its validity, how could he be justified in saying that the parts are not an adequate manifestation of the unity?
+
+But the analogy of biology would suggest that the manifestation could be inadequate. For, although biological life is the best example known to us of this category, it is not a perfect example. The parts of a biological organism have some existence independently of the organism of which they form part, since the same matter which now forms part of a living body, existed before that body was formed, and will exist when it has decomposed. Its condition while in the body is in some respects different from its condition outside the body, but it retains certain characteristics unchanged.
+
+Hegel quotes with approval (Enc. 216) Aristotle’s remark that a hand separated from the body is only a band in name, not in fact. But if this is given as a characteristic which is confined to the parts of living beings, the statement cannot be justified. A hand is changed more or less by being cut off — but so is a piece of granite changed, when it is cut out of the quarry. The granite remains more or less the same after the separation, and so does the hand. Even when the hand eventually decays, the atoms, or other units, into which it is resolved, are in many respects the same as they were before the hand was cut off. Thus the difference here between the organic and the inorganic is only a matter of degree.
+
+And, on the other hand, the organism in biology is independent, to a certain degree, of its parts. For during the life: of an organism, much matter is added to it, and much, which previously belonged to it, is excluded from it, while the organism is regarded m being the same through all these changes.
+
+Since the biological organism and its parts are thus more or less independent of one another, the possibility of an inadequate manifestation of the organism by its parts would arise. But this relative independence is not a characteristic of the category of Life, as given in the dialectic, and Hegel is not justified in asserting the possibility, under that category, of an imperfect manifestation.
+
+The approval which Hegel gives to Aristotle’s statement about the hand, seems to indicate that he did not fully realise the imperfect nature of biological unity, to which, as I submit, the possibility of an inadequate manifestation is due. But the fact that biological manifestations were sometimes inadequate — and that so the organism died — was clearly before him. And it was this, I think, which led him to suppose the possibility of inadequate manifestation in his category of Life.
+
+Hegel says that Life is the Idea in the form of immediacy (G. L. iii. 249. Enc. 216). It appears from what he says later with reference to the process by which this category is transcended, that he connects the immediacy of Life with the possibility of an inadequate manifestation. A particular arrangement of parts, which in point of fact exists, may or may not manifest the Seele adequately. If it does manifest it adequately this is a mere fact, which can be recognised as true, but cannot be demonstrated as necessary.

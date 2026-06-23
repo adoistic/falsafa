@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 109,
+  "chapter_title": "Chap. VIII: Of the Extent of Taxation",
+  "chapter_slug": "109-chap-viii-of-the-extent-of-taxation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5db426ec-9968-5fb9-9377-04a3dc01a973",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5200,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book5.htm"
+    }
+  ]
+}

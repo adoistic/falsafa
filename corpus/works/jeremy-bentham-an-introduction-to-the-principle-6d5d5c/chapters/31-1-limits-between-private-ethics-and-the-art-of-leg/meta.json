@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-an-introduction-to-the-principle-6d5d5c",
+  "work_title": "An Introduction to the Principles of Morals and Legislation",
+  "chapter_number": 31,
+  "chapter_title": "1. Limits between Private Ethics and the Art of Legislation.",
+  "chapter_slug": "31-1-limits-between-private-ethics-and-the-art-of-leg",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b490e95-eb8d-5394-957c-b88bf2a94ff4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4758,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-an-introduction-to-the-principles-of-morals-and-legislation"
+    }
+  ]
+}

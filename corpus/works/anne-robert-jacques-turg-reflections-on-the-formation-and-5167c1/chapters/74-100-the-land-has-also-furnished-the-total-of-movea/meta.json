@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 74,
+  "chapter_title": "100. the land has also furnished the total of moveable riches, or existing capitals, and which are formed only by a port",
+  "chapter_slug": "74-100-the-land-has-also-furnished-the-total-of-movea",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "896c2d9c-2e73-5fd6-b895-bf7e97dbd784",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 388,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

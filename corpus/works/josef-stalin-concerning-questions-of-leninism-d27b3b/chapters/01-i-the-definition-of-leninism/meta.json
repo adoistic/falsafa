@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-concerning-questions-of-leninism-d27b3b",
+  "work_title": "Concerning Questions of Leninism",
+  "chapter_number": 1,
+  "chapter_title": "I the Definition of Leninism",
+  "chapter_slug": "01-i-the-definition-of-leninism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8cca7542-567c-5033-9f5e-5f0bccd81b11",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 617,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1926/01/25.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
+  "work_title": "The Thoughts (Pensées) of Blaise Pascal",
+  "chapter_number": 30,
+  "chapter_title": "Of Miracles in General. The Miracle of the Holy Thorn.",
+  "chapter_slug": "30-of-miracles-in-general-the-miracle-of-the-holy-tho",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "496a6025-a3c9-55f1-acc4-f19bb00ba086",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4755,
+      "paragraph_count": 161,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-the-thoughts-of-blaise-pascal"
+    }
+  ]
+}

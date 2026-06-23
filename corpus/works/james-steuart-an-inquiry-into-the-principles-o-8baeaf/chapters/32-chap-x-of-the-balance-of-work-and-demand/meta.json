@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 32,
+  "chapter_title": "Chap. X: Of the Balance of Work and Demand",
+  "chapter_slug": "32-chap-x-of-the-balance-of-work-and-demand",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4849176a-18a0-501f-9226-6094f20b0d49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2993,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_10.htm"
+    }
+  ]
+}

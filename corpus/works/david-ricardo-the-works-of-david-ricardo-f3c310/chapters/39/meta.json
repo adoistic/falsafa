@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 39,
-  "chapter_title": "CHAPTER XXIX.: TAXES PAID BY THE PRODUCER.",
+  "chapter_title": "Chapter XXX.: On the Influence of Demand and Supply on Prices.",
   "chapter_slug": "39",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 688,
-      "paragraph_count": 4,
+      "word_count": 1023,
+      "paragraph_count": 14,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

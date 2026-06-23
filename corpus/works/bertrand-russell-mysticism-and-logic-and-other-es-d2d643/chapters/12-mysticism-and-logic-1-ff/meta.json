@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-mysticism-and-logic-and-other-es-d2d643",
+  "work_title": "Mysticism and Logic and Other Essays",
+  "chapter_number": 12,
+  "chapter_title": "Mysticism and logic, 1 ff",
+  "chapter_slug": "12-mysticism-and-logic-1-ff",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "942b0e40-46ae-5317-8791-842362ba22db",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 180,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/25447"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+---
+work_id: "4236c39f-c0d0-5a54-8dc7-6901642e8c28"
+work_slug: "alexis-de-tocqueville-democracy-in-america-4236c3"
+work_title: Democracy in America
+author_name: Alexis de Tocqueville
+chapter_number: 87
+chapter_title: "Chapter X: The Young Woman In The Character Of A Wife"
+chapter_slug: 87
+variant_id: "a1f4db34-e4d3-548f-aad4-a9c814a608a0"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 973
+source_url: "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch34.htm"
+translator: Henry Reeve
+---
+
+In America the independence of woman is irrevocably lost in the bonds of matrimony: if an unmarried woman is less constrained there than elsewhere, a wife is subjected to stricter obligations. The former makes her father’s house an abode of freedom and of pleasure; the latter lives in the home of her husband as if it were a cloister. Yet these two different conditions of life are perhaps not so contrary as may be supposed, and it is natural that the American women should pass through the one to arrive at the other.
+
+Religious peoples and trading nations entertain peculiarly serious notions of marriage: the former consider the regularity of woman’s life as the best pledge and most certain sign of the purity of her morals; the latter regard it as the highest security for the order and prosperity of the household. The Americans are at the same time a puritanical people and a commercial nation: their religious opinions, as well as their trading habits, consequently lead them to require much abnegation on the part of woman, and a constant sacrifice of her pleasures to her duties which is seldom demanded of her in Europe. Thus in the United States the inexorable opinion of the public carefully circumscribes woman within the narrow circle of domestic interest and duties, and forbids her to step beyond it.
+
+Upon her entrance into the world a young American woman finds these notions firmly established; she sees the rules which are derived from them; she is not slow to perceive that she cannot depart for an instant from the established usages of her contemporaries, without putting in jeopardy her peace of mind, her honor, nay even her social existence; and she finds the energy required for such an act of submission in the firmness of her understanding and in the virile habits which her education has given her. It may be said that she has learned by the use of her independence to surrender it without a struggle and without a murmur when the time comes for making the sacrifice. But no American woman falls into the toils of matrimony as into a snare held out to her simplicity and ignorance. She has been taught beforehand what is expected of her, and voluntarily and freely does she enter upon this engagement. She supports her new condition with courage, because she chose it. As in America paternal discipline is very relaxed and the conjugal tie very strict, a young woman does not contract the latter without considerable circumspection and apprehension. Precocious marriages are rare. Thus American women do not marry until their understandings are exercised and ripened; whereas in other countries most women generally only begin to exercise and to ripen their understandings after marriage.
+
+I by no means suppose, however, that the great change which takes place in all the habits of women in the United States, as soon as they are married, ought solely to be attributed to the constraint of public opinion: it is frequently imposed upon themselves by the sole effort of their own will. When the time for choosing a husband is arrived, that cold and stern reasoning power which has been educated and invigorated by the free observation of the world, teaches an American woman that a spirit of levity and independence in the bonds of marriage is a constant subject of annoyance, not of pleasure; it tells her that the amusements of the girl cannot become the recreations of the wife, and that the sources of a married woman’s happiness are in the home of her husband. As she clearly discerns beforehand the only road which can lead to domestic happiness, she enters upon it at once, and follows it to the end without seeking to turn back.
+
+The same strength of purpose which the young wives of America display, in bending themselves at once and without repining to the austere duties of their new condition, is no less manifest in all the great trials of their lives. In no country in the world are private fortunes more precarious than in the United States. It is not uncommon for the same man, in the course of his life, to rise and sink again through all the grades which lead from opulence to poverty. American women support these vicissitudes with calm and unquenchable energy: it would seem that their desires contract, as easily as they expand, with their fortunes.
+
+The greater part of the adventurers who migrate every year to people the western wilds, belong, as I observed in the former part of this work, to the old Anglo-American race of the Northern States. Many of these men, who rush so boldly onwards in pursuit of wealth, were already in the enjoyment of a competency in their own part of the country. They take their wives along with them, and make them share the countless perils and privations which always attend the commencement of these expeditions. I have often met, even on the verge of the wilderness, with young women, who after having been brought up amidst all the comforts of the large towns of New England, had passed, almost without any intermediate stage, from the wealthy abode of their parents to a comfortless hovel in a forest. Fever, solitude, and a tedious life had not broken the springs of their courage. Their features were impaired and faded, but their looks were firm: they appeared to be at once sad and resolute. I do not doubt that these young American women had amassed, in the education of their early years, that inward strength which they displayed under these circumstances. The early culture of the girl may still therefore be traced, in the United States, under the aspect of marriage: her part is changed, her habits are different, but her character is the same.

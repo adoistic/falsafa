@@ -1,0 +1,217 @@
+---
+work_id: "e635c672-c2df-579d-b24b-f8f1afa733c3"
+work_slug: "karl-kautsky-are-the-jews-a-race-e635c6"
+work_title: "Are the Jews a Race?"
+author_name: Karl Kautsky
+chapter_number: 9
+chapter_title: "VIII. Anti-Semitism"
+chapter_slug: "09-viii-anti-semitism"
+variant_id: "18758505-9ca3-597d-b0f4-d3003a3a4c81"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 5020
+source_url: "https://www.marxists.org/archive/kautsky/1914/jewsrace/ch08.htm"
+translator: Marxists Internet Archive edition
+---
+
+INDUSTRIAL capitalism, by means of its union with the revolutionary portions of the intelligentsia, had put down the elements opposing it. The result was a form of the state organisation which favoured an extremely rapid growth of industrial capital but also permitted the disadvantages involved in the latter for the petty bourgeoisie and the proletariat to express themselves most clearly. Sooner or later each of these two classes turned its back on bourgeois democracy or liberalism – the earlier, the lower was the degree of revolutionary energy developed by the latter in the period of its rise, and the less profound was therefore its spiritual control of the masses of the people, which depended in turn on the stage reached in the general economic evolution and therefore by the proletarian movement as a whole. The later the introduction of the bourgeois-democratic opposition and revolution, the greater is the internal resistance it feels by reason of its fear of the proletariat. As we travel from west to east, from England to Russia, we find liberalism entering later and later on the political arena. We find liberalism therefore growing weaker and weaker, being less and less capable of maintaining the proletarians and petty bourgeois in a state of dependence on itself, and the earlier do both these elements cut loose from liberalism, until finally, in Russia, we reach a stage where the proletariat, as well as the petty bourgeoisie, has already been separated from liberalism before it enters upon the political struggle.
+
+But the opposition to liberalism assumes, as is well known, quite a different form among the proletariat than among the petty bourgeoisie. Both find their social position in capitalistic society intolerable. But, in the case of the proletariat, the achievements of democracy and of capitalist economy are the presupposition for its own liberation. The proletariat does not seek to neutralise these achievements of democracy, but rather to annex them, to utilize them in its own struggle.
+
+The petty bourgeoisie would have as much to gain from socialism as the proletariat, but only a portion of its members is able to rise, through its political leadership, to the recognition of this fact. The conditions of its existence at the present time depend on private property in the means of production and on the exploitation of wage-labourers, particularly of the weakest of all wage-labourers, particularly women and children. In this process, it encounters the resistance of the proletariat, and is made to contrast sharply with the proletariat and its socialist tendencies.
+
+Considerable portions of the petty bourgeoisie, turning from liberalism, do not seek their salvation in advancing beyond liberalism, but rather feel themselves obliged to retrace their steps, to become politically and economically reactionary, in which process they find allies in the powers that had been surmounted by liberalism.
+
+Of course, they cannot turn back the wheel of history. No doubt, capitalism is changing. With the issues of stock shares and the expansion of the banks, industrial capital is concentrating more and more and beginning to coincide with financial capital. The tendencies of the primitive financial and trading capital to eliminate competition by private monopoly are again becoming manifest. The political reaction may for a time be encouraged by such measures, but economically capitalism is thus being pushed to the extreme. The petty bourgeoisie gains nothing by such methods.
+
+Powerless to combat capitalism as a whole, it has no other recourse than to fight individual, partial manifestations of capitalism and thus to join the political reaction, of which it expects, of course in vain, an economic reaction also.
+
+In this situation, it finds a fruitful soil for the reawakening of anti-Semitic tendencies. The battle against capital as a whole seems hopeless. But the conflict with Judaism, with Jewish capital, which is so unpleasantly felt by many a non-Jewish capitalist, seems to afford better prospects of success.
+
+But not only proletarians and petty bourgeois turn their backs on liberalism, which has not fulfilled their expectations, and feel themselves threatened by the rising tide of Judaism. The vanguard of liberalism had been composed of intellectuals. As long as they occupied an exceptional position, as long as they were an unusual curiosity, their position was favourable; but this condition gradually subsided in the course of the Nineteenth Century. An overproduction of intellectuals began to make itself felt, for which there were many reasons, not the least among which was the decline of the petty bourgeoisie, which is sending its sons – now even its daughters – to the university, or, if the means are not available for this, at least to commercial and trade schools, in order to enable them to make their way as clerks or as independent mental workers, since handicraft and petty trade no longer afford these opportunities. Again we find, in the most varied fields, that it is the Jews who advance most quickly. Therefore, among non-Jewish intellectuals and clerks also, those who are incapable of accepting socialism, which would put an end to all the ills of a competitive society, become quite accessible to anti-Semitic influences, which are an expression of their own discontent with life.
+
+Thus, since the ’seventies of the Nineteenth Century, we again find movements in rather extensive sections of the population of Germany, Austria, France, etc., which favour a political disfranchisement, and a legal restriction or at least a social boycott of the Jews. Aspirations which unite with the anti-Jewish hatred on the part of narrow-minded circles and with the contempt for the Jews on the part of feudal arrogance, to both of which they impart renewed strength.
+
+Sombart manages to justify to himself the reduction of the rights of Jews in the army and at the universities:
+
+“The practice in all of Germany at present, in filling the professorships at the universities, as well as in admissions to the position of Privatdozent, is practically not to exclude Jews on principle, but to place certain restrictions on their admission or election. This may be regrettable in the interest of an officially certified science, for it is always equivalent to an injury to the scientific performance of a serious institution of learning if of two competitors the more stupid is chosen for a certain position. But is it possible to consider scientific interests alone, or even predominantly, in filling the positions of professors at a university? Or, putting the question to fit our conditions: Would it be a conceivable and tolerable condition to have all the positions of Dozent and Professors at the universities filled by Jews – baptised or not baptized – that makes no difference? Since the Jews are on the average so much brighter and so much more industrious than we, this might be equivalent to completely handing over the positions of university instruction to the Jews ... Perhaps the universities will suffer more from such restrictions than the Jews themselves ... But in the long run, it is better thus.”
+
+Well then: learning suffers more from the existing condition of keeping out the Jews, but nevertheless it is “in the long run, better thus”, for the universities are “after all” not institutions in which “the interests of science alone, or even predominantly, may be considered”. They are not the seat of the high goddess of science, but merely stalls for the needed milch cattle, institutions which must provide so and so many posts for so and so many aspirants coming from good families. Therefore it would not be right to permit the Jews to take possession of the whole business. “But in the long run, it is better thus.”
+
+And how about the army? Here, it really appears that the officers will not tolerate Jews among their number and for so “clever a man” as Sombart that is quite sufficient.
+
+“The traditions followed in the army are, after all, anti-Semitic traditions ... This is a fact that may be regretted but which cannot be eliminated because of this regret, a fact with which every clever man will have to reckon.”
+
+All persons who take off their hats to any obstacle that would require a greater exertion of energy than mere “regretting” apparently seem “clever” to Sombart.
+
+We should therefore not be astonished to find Sombart formulating his “programme” on the Jewish question “briefly” as follows
+
+“The nations give their (the nations’?) Jewish fellow-citizens full equality of rights, and the Jews will surely be intelligent and tactful enough not to demand a full exercise of this equality of rights at every point and to the fullest possible extent.”
+
+This “intelligence”, which at one and the same time offers to both the Jews and their opponents everything they ask, to the former of course only in the protasis, to the latter in the apodosis, is really matchless and baffles all attempts to parallel it.
+
+In spite of all the anti-Semitism, of all the restrictions and disabilities of the Jews, the rise of Judaism, together – of course – with its dissolution because of desertions from the faith and because of mixed marriages, is still in progress. The data we have already given on this subject are all taken from the period of the renaissance of anti-Semitism.
+
+If, in spite of this fact, the effects of assimilation have been apparently brought to a standstill, and Judaism is not losing ground as a distinct racial group, we may ascribe this to the movement that has recently been gaining greatly in popularity among the Jews of Eastern Europe.
+
+We have seen above how the persecutions of the Jews precisely in the days of humanism and precisely in the most enlightened sections of Europe made existence almost impossible for the Jews, who fled to the East, to Poland, and Turkey. In these barbarous countries they were tolerated precisely for the reason that they were barbarous countries which were in need of a city population. In their capacity as strangers, being tolerated merely, they must have been particularly welcome in the eyes of those in power, who would necessarily regard with disfavour a strong urban bourgeoisie, which would have limited their own power.
+
+In the regions then belonging to Poland and Turkey, in Hungary, Rumania, Poland proper, and the western portion of Russia, the Jews gathered from all portions of Europe, particularly from Germany. The Spanish Jews, for the most part, sought the southern sections of European Turkey (Saloniki). The legal, and for the most part even the economic, situation of the Jews in Turkey, is at present still the best in the world.
+
+Most of the Jews in the world have concentrated in these regions. According to figures given by Nawratzki, the number of Jews in the world immediately before the war was between 12,500,000 and 13,000,000. Trieksch gives a higher estimate ; he makes their total number 14,500,000 in 1914.
+
+Nawratzki assigns 6,000,000 Jews to Russia, 1,000,000 to Galicia and the Bukowina, 900,000 to Hungary, 300,000 to Rumania, 200,000 to European Turkey, while Trieksch assigns 7,000,000 to Russia, 2,300,000 to Austria, 300,000 to Rumania, and 400,000 to Turkey.
+
+In other words, about 8,500,000–10,000,000 Jews in round numbers were living in the domains of former Poland and former Turkey. Those living in Great Britain (250,000–300,000) and America (2,300,000–2,500,000) have for the most part migrated into those countries from the former regions in comparatively recent days. This would give a figure of from 11,000,000 to 13,000,000 living in Eastern Europe, or coming from Eastern Europe, and of not quite 2,000,000 Jews of every provenience in the rest of the world.
+
+They are found most densely settled in the regions of former Poland, where they came directly from Germany or by way of Germany, with the result that they have preserved to this day a peculiar language distinguishing them from their Slavonic environment, the so-called Yiddish, a corrupt German – the only Jewish population in the world that has not assimilated the language of its environment. It is in this Russian-Polish Jewish population that the Jew’s consciousness, or orthodoxy, has been most vigorously and actively maintained.
+
+Living together in such great numbers, they could not remain a nation of merchants, usurers and intellectuals alone. This was made all the less possible by the fact that the country in which they lived was not only economically backward when they settled there, but continued to remain so. The shifting of trade routes to India, once a landroute over Europe, later a sea-route, circumnavigating Africa, the discovery of America, the displacement of the economic centre of gravity of Europe to the coast of the Atlantic Ocean, retarded the development not only of Italy, but still more that of Poland and Turkey, and thus inaugurated the political decline and disintegration of those two countries. Under these circumstances, no strong capitalist industry could develop, and the intelligentsia also were cut off from their relations with the mental life of the rest of Europe and became entirely subordinate to the servants of the religious rite. The entire magnificent mental growth ensuing upon the Italian Renaissance did not exist for them. They remained living in the age of scholasticism, in the Jewish scholasticism of the Talmud. This species of intellectual ability was required only among the Jews, and the demand for any other kind of intelligence on the part of the non-Jewish community was very low. Therefore, a large portion of the Polish Jews turned to handicrafts, particularly to tailoring. In the Jewish pale, in other words, in that portion of the Russian Empire in which the great mass of the Jews were alone permitted to dwell, the Russian Census of 1897, which was the first and last census carried out by the Czarist Empire, gives the following occupational figures:
+
+Employed in Gainful Occupations
+
+Per Each 100 Non-Jews in the Same Category There Were
+
+Absolute Number
+
+Occupations Percentages
+
+Jews
+
+Non-Jews
+
+Jews
+
+Non-Jews
+
+Total population
+
+Employed in Industry
+
+Employed in the Garment Industry
+
+Employed in Commerce
+
+Employed in Grain and Cattle Trade
+
+These figures are those of our own times. In former days, the Jews constituted the great mass of the urban, commercial, and, in many cases, even the industrial population in the regions we are discussing.
+
+After the Crimean War, and during the era of liberalism which ensued upon it, a fully developed western capitalism suddenly forced its way into those economically backward countries. Its first effect was that of immensely increasing the money needs of the state, its indebtedness, but also its tax burdens. At a single stroke, the natural economy of the peasant was transformed into a commodities economy, which under the given circumstances did not improve the operation of his farm, but rather ruined it by reason of a more and more intensified robbing of the soil. An increasing proportion of the country population was driven into the cities. As early as in the census of 1897, of the 14,300,000 non-Jewish inhabitants of the cities, 7,300,000 had come from the peasantry. The influx from city to country has since assumed much greater proportions. But in the cities, these persons found no quickly growing industry which might have been able to absorb them, nor did the deteriorating peasants offer any adequate market for such an industry. Competition grew among artisans and peddlers. The Jews were now oppressed more and more; their situation – never very brilliant – now became more and more hopeless. But the non-Jewish population also suffered; the frame of production was too small to accommodate all, and the mass of the population was too ignorant to seek or find a solution of these difficulties in a corresponding expansion of this frame, for the condition of economic backwardness was closely connected with the political backwardness, and any effort to alter the state authority was also connected with too many dangers. It was far less dangerous, far more convenient and simple to turn against that competition which was represented by the defenceless Jews.
+
+The state authority itself, in its various organs, met these tendencies more than halfway. For it felt itself threatened by the results of the economic revolution, even though the latter might for the present be engendering political opposition, not in the masses of the people, but only in the young men and women at the universities. The growing discontent was unmistakable; the heads of the state felt it necessary to ward it off, and the unhappy Jews were obliged to furnish a convenient lightning-rod.
+
+The anti-Semitic tendencies in the upper and lower strata were strengthened by the fact that in Russia, more than anywhere else, the Jews had escaped assimilation by reason of their concentration in a single region. They differed greatly from the rest of the population, not only – as we have already seen – by their rigid adherence to their rite, to the dietary laws, the observing of holidays, the peculiarities of their language , but also in their headdress. In Russia and the adjacent countries, more than anywhere else, the Jew has remained a foreigner among the people. Foreignness may be comic in its effect where it reveals only a difference, and is not associated with a social contradiction. But when the latter also is present, it makes the difference more striking and tangible, it produces inciting and embittering conditions.
+
+Thus there arose after a short period of liberalism, and beginning with the ’eighties of the Nineteenth Century, a period of a most savage and intensifying anti-Semitism, of increasing maltreatments of the Jews by their environment, and of a progressive disfranchisement. After 1882, the Jews were limited to a pale of settlement embracing only four per cent. of the area of the Russian Empire. Only rich merchants, certain intellectuals, and certain master-artisans were permitted to settle outside the pale, and within it, they were permitted to live only in the cities. All the Jews who had settled in the country districts were forced into the cities beginning with 1882, and many who had ventured outside of the pale of settlement during the liberal era were again forced back into it.
+
+Among those congested in this area, a terrible period of distress ensued. The pogroms were bad enough. Worse were the devilish torments and extortions practised by the Russian authorities; worst of all was the material distress.
+
+In this terrible situation only the bravest are courageous enough to fight for a better lot. Of the others, all who have any means of doing so, and any prospect of obtaining employment elsewhere, resort to emigration; industrial workers therefore emigrated more than petty tradesmen. Particularly marked is the emigration in the overcrowded vocations. According to the census of 1897, there were 147,435 Jews employed as tailors in the pale of settlement. From 1899 to 1910, 15,396 members of this trade emigrated to the United States from the pale of settlement each year; in other words, 10.5 per cent. annually. On the other hand, the average for shoemakers was only 1960 per year, or 2.7 per cent. The garment industry was predominantly still a domestic industry, producing for the local requirements, while in the shoemaking industry factory production was rapidly growing, and filled a market over all Russia. The Jewish immigration to America was more numerous than to any other country. From 1881 to 1912, the total Jewish immigration to the United States amounted to 2,258,146 persons; from 1899 to 1912, to 1,246,260 persons. The total immigration of Jews from 1881 to 1898 was 1,011,886, of which 526,122, or more than half, came from Russia. From 1899 to 1911, the total number of Jewish immigrants was 1,165,665, of which 831,001, or three-quarters, came from Russia.
+
+The Jewish emigration from Russia to the countries of Western Europe was far smaller than the above figures. According to Ruppin’s figures, the following numbers of Jews emigrated from 1881 to 1908.
+
+From Russia
+
+From Austria
+
+From Germany
+
+From Other Countries
+
+Total
+
+To England
+
+To Germany
+
+To France
+
+To Belgium
+
+In the case of Germany and Austria, internal migrations of Jews from east to west were of greater importance.
+
+This was a portion of the general migration so characteristic of capitalism, namely, the migration from country to city, from agricultural districts to industrial districts. The process was accentuated by the economic conditions of the Polish sections of those countries, which in Germany and Austria, as well as in Russia, though not to so great a degree nor in such brutal forms as the latter, were making a portion of the agricultural population unnecessary, which surplus population flowed in part into the cities and supplanted the Jews or emigrated together with the Jews.
+
+In the Province of Posen (Prussia) there were still 76,757 Jews in 1849, but only 26,512 in 1910! The provinces of East Prussia, West Prussia, Pomerania and Posen, together, had still 116,075 Jews in 1871, and only 62,355 in 1910. This migration was directed chiefly toward Berlin. Within the city limits of Berlin and the Province of Brandenburg, the Jewish population grew from 47,489 persons in 1871, to 151,356 persons in 1910.
+
+Similarly, the number of Jews in Vienna increased from 73,222 in 1880 to 175,318 in 1910, an increase of 139 per cent., while the total Jewish population of Austria increased only 30 per cent. in the same period. In Russian Poland, Warsaw included in 1893 only 13.8 per cent. of the Jewish population of Poland (168,677 Jews, of a total Jewish population of 1,224,652), while in 1909 it included 16.1 per cent. (281,754 persons, of a total Jewish population of 1,747,655); in 1910, the Jewish population of Warsaw amounted to 308,488. The Jewish population of Lodz tripled in the same period, increasing from 37,106 to 92,588 persons.
+
+Almost all the Jewish immigrants entering France gathered in Paris; those entering England, in London; while the majority of those headed for the United States remained in New York, which now counts more than 1,000,000 Jews.
+
+The mere fact of its concentration in a few great metropolises necessarily has brought the Jewish population more and more into the foreground. This condition is further accentuated by the fact that the immigrant Jews are far more sharply distinct from their new environment and appear much more foreign in it than do the Jews who have lived in the same environment for many years.
+
+The new great migratory movement of the Jews is of entirely different type from that of former days. Formerly, the Jews emigrated to countries of lower, or at least not higher, culture. Now we find backward Jewish masses flowing to countries at a high stage of development, together with Irishmen, Southern Italians, Poles and Ruthenians, or Chinese. To be sure, the Polish Jews in their homeland are superior in education to their environment, which is one of the causes preventing their assimilation with the non-Jewish population. But as compared with Western Europeans or Americans, they are on a lower level.
+
+The Russian census of 1897 recorded among male Jews above the age of 10, 33.4 per cent. of illiterates, while among the non-Jewish families of the same age-group, even as many as 63.4 per cent. were illiterate! But of course it must be remembered that the total population of Russia showed an illiteracy among males above the age of 10 of no less than 61.3 per cent., and among females of no less than 83 per cent! Immigrants entering the United States are examined as to their ability to read and write. In these tests, the Jews showed better percentages than were displayed in the Russian census of 1897. This may be due partly to the fact that the American figures I am using are of later date than the Russian (1910 , as compared with 1890), and also to the fact that only adults were considered in the American figures; perhaps also because the most ignorant would be most likely to remain at home. Furthermore, the American figures included all Jewish immigrants, not only those coming from Russia. Nevertheless, the Jews appear from these figures to be far beyond other peoples in the matter of literacy as is shown by the following table from Hersch’s book.
+
+Illiterates per 1,000 Adult Immigrants
+
+Scandinavians
+
+Slovaks
+
+Scotch
+
+Jews
+
+English
+
+Greeks
+
+Finns
+
+Rumanians
+
+Czechs
+
+Poles
+
+Irish
+
+Croatians and Slovenes
+
+Dutch
+
+Russians
+
+Germans
+
+Bulgarians and Serbs
+
+French
+
+Lithuanians
+
+North Italians
+
+Ruthenians
+
+Magyars
+
+Southern Italians
+
+Spaniards
+
+Portuguese
+
+Only Eastern and Southern Slavs, Southern Italians and Portuguese show a higher percentage of illiteracy than the great majority of the immigrant Jews. This condition is a disgrace not to the races involved, but to their governments. The orthodox Jewish elements who flowed from the East to the highly developed West were quite backward. The first effect of this condition was to retard the process of assimilation on the part of the Jews of the West; a further effect was the reviving of anti-Semitism. The latter process was stimulated in two ways; in the first place, by the increased competition faced by intellectuals and traders; in the second place, by the more emphatically foreign aspect of the Jewish community. But anti-Semitism is no longer what it used to be. In former days, it was directed chiefly against capitalist exploitation, of which the Jew was considered – in anti-Semitic countries – the most outstanding representative. Now it is more and more the proletarian Jew, the poor student, the poor peddler, the worker who works in his own house, who incurs the hostility of the anti-Semites. The times are passed when anti-Semitism might parade as a variety of socialism “the socialism of the simple citizen of Vienna”. Today, anti-Semitism is a phase of the struggle against the proletariat, and it is indeed the most cowardly and brutal of these phases; it has become “the socialist-baiting of the simple citizen of Vienna”.
+
+Meanwhile, a gap has opened up within Judaism itself; the wealthy and cultured Jews of the West, who have been almost assimilated, are in many cases unpleasantly affected by the new accession of their poor, ignorant “Yiddish” brothers from the East. They very often regard the latter with feelings that might be designated as an anti-Semitism within Judaism itself.
+
+Formerly, one of the most prominent characteristics of the Jews had been the intimate solidarity prevailing within their own ranks. The constant persecutions had powerfully supported their inner cohesion, and this strong cohesion had become one of the most effective means of resisting persecution. Although frequently represented as a Jewish race trait, it is – like the rest of their alleged earmarks – only a product of the conditions of their life.
+
+With every change in these conditions, there comes also a change in the “race trait”. The feeling of solidarity on the part of the Western Jews has already been weakened considerably, because of – or perhaps in spite of – the fact that social anti-Semitism in the West (in Berlin, Paris, London, New York, and particularly in Vienna) has temporarily increased. Among Jewish capitalists who have risen to occupy dominant positions in the existing order, the feeling of Jewish solidarity is but rarely in evidence, and when expressed at all, it takes the form of charity. Such charity – in view of their rapidly increasing wealth – may assume large proportions, but it is extended only to the mendicant, not to the fighting Jewish proletariat.
+
+The Jewish solidarity broke down completely even before the war, when it was needed in order to support the aggressive section of the Eastern European Jewry. And the most treacherous opponent of this stratum in Europe, the Czar, became an ally of the rich Jews of Western Europe, being supported by them with all the means at their disposal.
+
+Haman, Imperial Chancellor of King Ahasuerus, was the original prototype of a pogrom-instigator, and was considered by the ancient Jews as the enemy who should be suspended from a gallows fifty feet in height. The Czar maltreated the Jewish people far more cruelly than ever Haman had done, but the capitalist Jews not only did not desire his ruin, but even supported him by means of the loans they granted him, thus repeatedly prolonging his existence. For Mordecai had become a poor tailor, and Esther had not risen to the dignity of a queen, but had been dragged off to an Argentine bordello.
+
+It is precisely at the time when the theory of the pure race is set up and the Jews are raised to the dignity of being the model of a pure, exclusive race, that they begin to present the profoundest cleavages due to class hostilities, which here coincide with a cultural hostility. The contrast between capitalist and proletarian Jews imparts to the present migrations of the Jews an entirely different character, as well as entirely different effects, than formerly. Kaplun-Kogan has excellently characterised the difference in the nature of these migrations, but he has made the rather poor inference that the difference is based on their having been formerly bearers of economic progress, while now they are bearers of economic retrogression.
+
+“Economic progress” means the progress of capitalism, and for this there are needed not only means of production but also proletarians. The means of production do not become capital until they begin to be applied by the proletarians. American capitalism could not have made its enormous advances within the last few decades if it had not been for the immense influx of proletarian masses from Europe. All the proletarians who set forth from an environment of economic obstruction to an environment favorable to progress, and who, in the latter environment, place themselves at the disposal of their employers, thus became an element of economic progress. At first, they are an unconscious influence in this direction, but later they become its conscious agents, for their migration has made them more capable of struggle. And in spite of their inevitable great illiteracy as a result of the Czarist barbarism, they were far superior in mental swiftness and in theoretical ability in the United States, as a city population, to other immigrants who came from the most backward agricultural districts.
+
+The Jewish workers’ movement in the United States is one of the most active pioneers of social progress.

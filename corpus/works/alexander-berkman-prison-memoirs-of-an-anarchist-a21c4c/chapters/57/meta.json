@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 57,
+  "chapter_title": "Part 2, Chapter 32 : The Deviousness of Reform Law Applied",
+  "chapter_slug": "57",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10601955-d690-5e7b-a789-17cd3b75f79f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1122,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-32.html"
+    }
+  ]
+}

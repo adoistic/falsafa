@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 23
-chapter_title: "CHAPTER XIX.: OF THE RIGHT TREATMENT OF TYRANTS."
+chapter_title: "Chapter XIX.: Of the Right Treatment of Tyrants."
 chapter_slug: 23
 variant_id: "7f964210-0e4e-5cf0-8b2b-16fbb80e1d88"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 997
+word_count: 993
 source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
 translator: Online Library of Liberty edition
 ---
@@ -46,7 +46,7 @@ You? How should you? Zeus has set me free. What! do you think he would suffer hi
 
 No, but to myself; or, if you will have me recognize you also, I will do it as if you were a piece of furniture. This is not selfish vanity; for every animal is so constituted, as to do everything for itself. Even the sun does all for himself; and for that matter so does even Zeus himself. But when he would be styled the dispenser of rain and plenty, and the father of gods and men, you see that he cannot attain these offices and titles, unless he contributes to the common good. And he has universally so constituted the nature of every reasonable creature, that no one can attain its own good without contributing something for the good of all. And thus it becomes not selfish to do everything for one’s self. For, do you expect, that a man should desert himself, and his own concerns; when all beings have one and the same original instinct, self-preservation? What follows then? That where we recognize those absurd convictions, which treat things outward as if they were the true good or evil of life, there must necessarily be a regard paid to tyrants; and I wish it were to tyrants only, and not to the very officers of their bed-chamber too. For how wise doth a man grow on a sudden, when Cæsar has made him his flunkey? How immediately we say, “Felicio talked very sensibly to me!” I wish he were turned out of office, that he might once more appear to you the fool he is.
 
-Epaphroditus owned a shoemaker; whom, because he was good for nothing, he sold. This very fellow being, by some strange luck, bought by a courtier, became shoemaker to Cæsar. Then you might have seen how Epaphroditus honored him. “How is good Felicio, pray?” And, if any of us asked, what the Edition: current; Page: [60] great man himself was about, it was answered, “He is consulting about affairs with Felicio.” Did not he sell him previously as good for nothing? Who then, has all on a sudden, made a wise man of him? This it is to reverence externals.
+Epaphroditus owned a shoemaker; whom, because he was good for nothing, he sold. This very fellow being, by some strange luck, bought by a courtier, became shoemaker to Cæsar. Then you might have seen how Epaphroditus honored him. “How is good Felicio, pray?” And, if any of us asked, what the great man himself was about, it was answered, “He is consulting about affairs with Felicio.” Did not he sell him previously as good for nothing? Who then, has all on a sudden, made a wise man of him? This it is to reverence externals.
 
 Is any one exalted to the office of tribune? All who meet him congratulate him. One kisses his eyes, another his neck, and the slaves his hands. He goes to his house; finds it illuminated. He ascends the capitol; offers a sacrifice. Now, who ever offered a sacrifice for having good desires? For conforming his aims to Nature? Yet we thank the gods for that wherein we place our good.
 

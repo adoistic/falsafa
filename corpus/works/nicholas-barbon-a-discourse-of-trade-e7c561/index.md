@@ -4,13 +4,17 @@ slug: "nicholas-barbon-a-discourse-of-trade-e7c561"
 title: A Discourse of Trade
 author:
   name: Nicholas Barbon
-  biography: Nicholas Barbon (1640–1698).
+  biography: English physician, builder, and economic writer active in the rebuilding of London after the Great Fire and a pioneer of fire insurance. A Discourse of Trade set out an early case for the value of money as conventional and for consumption as the engine of trade.
+  birth_year: 1640
+  death_year: 1698
+  nationality: English
 era: Renaissance
 genre: Economics
 language: English
 language_direction: ltr
 description: "A Discourse of Trade, by Nicholas Barbon (1640–1698), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1690
 total_logical_chapters: 9
 total_variant_entries: 9
 thothica_role: catalog
@@ -22,8 +26,8 @@ A Discourse of Trade, by Nicholas Barbon (1640–1698), a public-domain text fro
 
 ## Chapters
 
-01. [INTRODUCTION](./chapters/01-introduction/) — prose, 1 variant
-02. [THE PREFACE.](./chapters/02-the-preface/) — prose, 1 variant
+01. [Introduction](./chapters/01-introduction/) — prose, 1 variant
+02. [The Preface.](./chapters/02-the-preface/) — prose, 1 variant
 03. [|| Of Trade and the Stock, or Wares of Trade.](./chapters/03-of-trade-and-the-stock-or-wares-of-trade/) — prose, 1 variant
 04. [|9| Of the Quantity and Quality of Wares.](./chapters/04-9-of-the-quantity-and-quality-of-wares/) — prose, 1 variant
 05. [Of the Value and Price of Wares.](./chapters/05-of-the-value-and-price-of-wares/) — prose, 1 variant

@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 21,
+  "chapter_title": "â§ 30 State capitalism and the classes",
+  "chapter_slug": "21-a-30-state-capitalism-and-the-classes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5826dcd4-b40b-5135-bce7-6cd0ea72d42b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1499,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/04.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-the-reparations-question-as-a-sp-9de3a5",
+  "work_title": "The Reparations Question as a Special Problem",
+  "chapter_number": 1,
+  "chapter_title": "The Reparations Question as a Special Problem",
+  "chapter_slug": "01-the-reparations-question-as-a-special-problem",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "46b91e45-cb46-580f-afbc-27e9475e395d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1077,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1922/03/reparations.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-more-utopia-e4b41c",
+  "work_title": "Utopia",
+  "chapter_number": 4,
+  "chapter_title": "Introduction",
+  "chapter_slug": "04-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e1b383dd-8b35-513c-b412-6760caa313ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1309,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/more/works/utopia/ch1.html"
+    }
+  ]
+}

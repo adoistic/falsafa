@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 22,
+  "chapter_title": "Government of the Democracy in The United States.",
+  "chapter_slug": "22-government-of-the-democracy-in-the-united-states",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd06f185-65bf-5a30-9613-99b25a19e516",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14807,
+      "paragraph_count": 130,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch13.htm"
+    }
+  ]
+}

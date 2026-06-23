@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 77,
+  "chapter_title": "Chap. XIV: Of optional Clauses contained in Bank Notes",
+  "chapter_slug": "77-chap-xiv-of-optional-clauses-contained-in-bank-not",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0a084c92-d8f9-570f-adb0-4ab39f35c2f2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1203,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+    }
+  ]
+}

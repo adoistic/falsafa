@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 9
-chapter_title: "BOOK III, CHAPTER I: INTRODUCTORY."
+chapter_title: "Book III: On Wants and Their Satisfaction, Book III, Chapter I: Introductory."
 chapter_slug: 09
 variant_id: "ee670c03-a86d-57aa-96c5-1af6f73ddc61"
 content_type: translation

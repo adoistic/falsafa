@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc",
+  "work_title": "The History of Bimetallism in the United States",
+  "chapter_number": 38,
+  "chapter_title": "C. German Monetary Laws of 1871 and 1873, German Reichstag, 1st Legislation Period, 2d session, 1871. Law relating to th",
+  "chapter_slug": "38-c-german-monetary-laws-of-1871-and-1873-german-rei",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2b6d89a-f6d2-54f0-903c-96a0e249e0ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3319,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laughlin-the-history-of-bimetallism-in-the-united-states-1898"
+    }
+  ]
+}

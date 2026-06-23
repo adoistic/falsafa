@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-programme-of-the-world-revolutio-953692",
+  "work_title": "Programme of the World Revolution",
+  "chapter_number": 16,
+  "chapter_title": "XV. The End of the Power of Money. “State Finances” and Financial Economy in the Soviet Republic",
+  "chapter_slug": "16-xv-the-end-of-the-power-of-money-state-finances-an",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5fb24b1c-12c8-5e47-9be2-4f838351f73f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1594,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1918/worldrev/ch15.html"
+    }
+  ]
+}

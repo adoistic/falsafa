@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362",
+  "work_title": "A Treatise on Political Economy",
+  "chapter_number": 35,
+  "chapter_title": "Of Our Actions, Chapter I.: Of Society.",
+  "chapter_slug": "35-of-our-actions-chapter-i-of-society",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd3fdb81-ed42-5e29-affe-b801ecf6fd06",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3980,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
+    }
+  ]
+}

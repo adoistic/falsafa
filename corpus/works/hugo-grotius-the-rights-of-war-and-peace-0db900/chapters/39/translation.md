@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-rights-of-war-and-peace-0db900"
 work_title: The Rights of War and Peace
 author_name: Hugo Grotius
 chapter_number: 39
-chapter_title: "CHAPTER IX.: Of the Right of Postliminium."
+chapter_title: "Chapter IX.: Of the Right of Postliminium."
 chapter_slug: 39
 variant_id: "623a1961-d3a9-55d8-bdaa-df89d9c6d0f9"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2874
+word_count: 2850
 source_url: "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
 translator: Online Library of Liberty edition
 ---
@@ -28,7 +28,7 @@ II. Postliminium therefore, according to its original signification, means the r
 
 Upon this principle nations have, in general, gone so far, as to allow the right of postliminium to take place, where any person, or indeed any thing, coming within the privileges of postliminium, have arrived within the territory of a friendly or allied power.
 
-By the term friends, or allies, used in this place, are not simply meant, those who are at peace with another Edition: current; Page: [352] power, but those who are engaged in the same war, and in a common cause with that power. So that all, who have come into the territories of such powers, are protected under the pledge of public faith. For it makes no difference with respect to persons or things, whether they are in the territories of those powers, or in their own.
+By the term friends, or allies, used in this place, are not simply meant, those who are at peace with another power, but those who are engaged in the same war, and in a common cause with that power. So that all, who have come into the territories of such powers, are protected under the pledge of public faith. For it makes no difference with respect to persons or things, whether they are in the territories of those powers, or in their own.
 
 In the territory of a friendly power, who is not engaged in the same cause with either of two belligerent parties, prisoners of war do not change their condition, unless it has been agreed to the contrary by express treaty; as in the second treaty between the Romans and Carthaginians, it was stipulated that if any prisoners, taken by the Carthaginians from powers friendly to the Romans, should come into ports subject to the Roman people, their liberty might be claimed: and that powers friendly to the Carthaginians should enjoy the same privilege. For this reason, the Roman prisoners taken in the second Punic war, when sent into Greece, had not the right of postliminium there, the Greeks being entirely neutral, consequently they could not be released, till they were ransomed.
 
@@ -40,7 +40,7 @@ As to the law of postliminium, horses, mules, and ships are considered in the sa
 
 But modern lawyers have made a distinction between two kinds of postliminium, by one of which, persons returned to their former condition, and by the other, things are recovered.
 
-IV. The right of postliminium may extend to those, who are seized and detained in an enemy’s country upon the breaking out of war. For though during the continuance Edition: current; Page: [353] of that war, there may be reason for detaining them, in order to weaken the enemy’s strength, yet, upon the conclusion of a peace, no such motive and pretence can be devised for their release being refused or delayed. It is a settled point therefore that upon peace being made, prisoners of the above description always obtain their liberty, their claim to it being universally acknowledged.
+IV. The right of postliminium may extend to those, who are seized and detained in an enemy’s country upon the breaking out of war. For though during the continuance of that war, there may be reason for detaining them, in order to weaken the enemy’s strength, yet, upon the conclusion of a peace, no such motive and pretence can be devised for their release being refused or delayed. It is a settled point therefore that upon peace being made, prisoners of the above description always obtain their liberty, their claim to it being universally acknowledged.
 
 With respect to other kinds of prisoners, every one used what he wished to be thought his right, except where fixed rules were prescribed by treaty. And for the same reason, neither slaves, nor things taken in war are restored upon a peace, except express stipulations be made to that purpose. A conqueror too, in general, wishes to have it believed that he had a right to make such acquisition; and indeed the departure from such a rule might give rise to wars without end.
 
@@ -48,7 +48,7 @@ V. and VI. A prisoner of war, upon his release, and return to his own country, i
 
 In cases where effects taken in war have been alienated, a question arises, whether the law of nations confirms the title, and secures the possession of the person, who has derived or purchased them from him, who was master of them by the rights of war, by having the prisoner in his custody at the time of alienation, or whether such things are recoverable; supposing the things to be in a neutral territory.
 
-A distinction seems proper to be made between things recoverable by postliminium, and things excepted from that right: so that every alienation of the former must be qualified and conditional, but that of the latter may Edition: current; Page: [354] be absolute. By things alienated may be understood even those, of which a gift has been made, or to which the owner has relinquished every claim.
+A distinction seems proper to be made between things recoverable by postliminium, and things excepted from that right: so that every alienation of the former must be qualified and conditional, but that of the latter may be absolute. By things alienated may be understood even those, of which a gift has been made, or to which the owner has relinquished every claim.
 
 VII. Upon any one’s returning to his former condition by the law of postliminium, all his rights are restored as fully, as if he had never been in the hands and power of the enemy.
 
@@ -60,7 +60,7 @@ IX. What has been said of individuals applies to nations: so that a free people,
 
 But if the whole population that constituted a state has been dispersed, the people can no longer be considered as the same: nor does the law of nations in such a case enforce the right of postliminium for the restoration of all effects formerly belonging to that people. For as the identity of a ship, or any other material object, can only be ascertained by the permanent union of its original parts: so a nation can no longer be regarded as the same, when every peculiar characteristic belonging to it is effaced.
 
-The state of Saguntum therefore was no longer judged to be the same, when it was restored to its ancient possessors, at the expiration of eight years: nor could Thebes any longer be deemed the original city, as its inhabitants had been sold by Alexander for slaves. From hence it is evident, that the Thebans could not, by the right of postliminium, recover the sum of money, which the Thessalians had owed them: and that for two reasons: because, in the first place, they were a new people; and, secondly, because Alexander at the time that he was absolute master of the city had a right, if he thought proper, to relinquish the claim to that debt, which he had actually done. Besides, a debt is not in Edition: current; Page: [355] the number of things recoverable by the right of postliminium.
+The state of Saguntum therefore was no longer judged to be the same, when it was restored to its ancient possessors, at the expiration of eight years: nor could Thebes any longer be deemed the original city, as its inhabitants had been sold by Alexander for slaves. From hence it is evident, that the Thebans could not, by the right of postliminium, recover the sum of money, which the Thessalians had owed them: and that for two reasons: because, in the first place, they were a new people; and, secondly, because Alexander at the time that he was absolute master of the city had a right, if he thought proper, to relinquish the claim to that debt, which he had actually done. Besides, a debt is not in the number of things recoverable by the right of postliminium.
 
 The rules, respecting a state, are not much unlike those laid down by the ancient Roman law, which made marriage a dissoluble tie, so that it could not be restored by the right of postiliminium: but a new consent, and a new contract were necessary.
 
@@ -84,7 +84,7 @@ Arms and cloathing indeed are useful in war, but still they were not recoverable
 
 XV. But in later times, if not before, this distinction seems to have been abolished. For all intelligent writers speak of moveable effects as not recoverable by the right of postliminium, and it has evidently been decided so, in many places, with respect to ships.
 
-XVI. The right of postliminium is quite unnecessary, before the things taken have been carried into some place of which the enemy is master, although they may be in his possession: for they have not yet changed their owner, by the law of nations. And, according to the Edition: current; Page: [357] opinions of Ulpian and Javolenus, the law of postliminium is no less superfluous, where goods have been taken by robbers and pirates, because the law of nations does not allow their possession of the goods to convey any change, or right of property to them.
+XVI. The right of postliminium is quite unnecessary, before the things taken have been carried into some place of which the enemy is master, although they may be in his possession: for they have not yet changed their owner, by the law of nations. And, according to the opinions of Ulpian and Javolenus, the law of postliminium is no less superfluous, where goods have been taken by robbers and pirates, because the law of nations does not allow their possession of the goods to convey any change, or right of property to them.
 
 Upon this ground, the Athenians wished to consider Philip, as restoring, and not giving them Halonesus, of which they had been robbed by pirates, from whom he had taken it again. For things taken by pirates may be reclaimed, wherever they are found; except that natural justice requires that the person, who has gained them out of their hands, at his own expence, should be indemnified, in proportion to what the owner himself would willingly have spent for their recovery.
 
@@ -94,6 +94,6 @@ XVIII. It was rather a surprising maxim in the Roman law, which established the 
 
 In order to prevent such a licence from proceeding to all the calamities and slaughter of war, the laws of captivity were introduced: and, as a consequence of this, postliminium took place, which might be considered as a great step towards the formation of equal treaties, from the rules of which pirates and robbers were excluded, and which indeed they themselves despised.
 
-XIX. In our times, the right of making prisoners, except in war, has been abolished not only among Christian states, but even among the greater part of Mahometans, Edition: current; Page: [358] those bands of society, which nature designed to establish amongst men, being in some measure restored.
+XIX. In our times, the right of making prisoners, except in war, has been abolished not only among Christian states, but even among the greater part of Mahometans, those bands of society, which nature designed to establish amongst men, being in some measure restored.
 
 But the ancient law of nations seems still in force against any rude or barbarous people, who, without any declaration or cause of war, consider all mankind as enemies. A decision has lately been made in the principal chamber of the parliament of Paris, declaring all effects belonging to the subjects of France, and taken by the Algerines, a people always engaged in predatory and maritime warfare with all other countries, if retaken, to belong to the captors.—At the same time it was decided, that, in the present day, ships are not reckoned among things recoverable by the right of postliminium.

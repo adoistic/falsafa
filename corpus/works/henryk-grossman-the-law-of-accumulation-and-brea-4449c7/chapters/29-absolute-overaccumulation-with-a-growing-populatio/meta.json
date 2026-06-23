@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-law-of-accumulation-and-brea-4449c7",
+  "work_title": "The Law of Accumulation and Breakdown of the Capitalist System",
+  "chapter_number": 29,
+  "chapter_title": "Absolute overaccumulation with a growing population and changing technology (increases in the organic composition of cap",
+  "chapter_slug": "29-absolute-overaccumulation-with-a-growing-populatio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e0b8f194-54c8-5741-8a9f-dd1705ada013",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 816,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/ch03.htm"
+    }
+  ]
+}

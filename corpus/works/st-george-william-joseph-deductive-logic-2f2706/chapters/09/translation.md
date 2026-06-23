@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 9
-chapter_title: Chapter XVII
+chapter_title: Chapter XVI
 chapter_slug: 09
 variant_id: "75a834e3-5913-52d2-b00e-04058b39f2e1"
 content_type: translation
@@ -13,85 +13,53 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1191
+word_count: 397
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-*Of the Syllogism with three figures.*
+*Of the Special Uses of the Four Figures.*
 
-§ 656. It will be remembered that in beginning to treat of figure (§ 565) we pointed out that there were either four or three ligures possible according as the conclusion was assumed to be known or not. For, if the conclusion be not known, we cannot distinguish between the major and the minor term, nor, consequently, between one premiss and another. On this view the first and the fourth figures are the same, being that arrangement of the syllogism in which the middle term occupies a different position in one premiss from what it does in the other. We will now proceed to constitute the legitimate moods and figures of the syllogism irrespective of the conclusion.
+§ 648. The first figure is useful for proving the properties of a thing.
 
-§ 657. When the conclusion is set out of sight, the number of possible moods is the same as the number of combinations that can be made of the four things, A, E, I, O, taken two together, without restriction as to repetition. These are the following 16:--
+§ 649. The second figure is useful for proving distinctions between things.
 
-of which seven may be neglected as violating the general rules of the syllogism, thus leaving us with nine valid moods--
+§ 650. The third figure is useful for proving instances or exceptions.
 
-§ 658. We will now put these nine moods successively into the three figures. By so doing it will become apparent how far they are valid in each.
+§ 651. The fourth figure is useful for proving the species of a genus.
 
-§ 659. Let it be premised that
+FIGURE 1.
 
-when the extreme in the premiss that stands first is predicate in the conclusion, we are said to have a Direct Mood;
+B is or is not A. C is B. .'. C is or is not A.
 
-when the extreme in the premiss that stands second is predicate in the conclusion, we are said to have an Indirect Mood.
+We prove that C has or has not the property A by predicating of it B, which we know to possess or not to possess that property.
 
-*Mood AA.* All B is A. All C is B. .'. All C is A, or Some A is C, (Barbara & Bramantip).
+Luminous objects are material. Comets are luminous. .'. Comets are material.
 
-*Mood AE.* All B is A. No C is B. .'. Illicit Process, or Some A is not C, (Fesapo).
+No moths are butterflies. The Death's head is a moth. .'. The Death's head is not a butterfly.
 
-*Mood AI.* All B is A. Some C is B. .'. Some C is A, or Some A is C. (Darii & Disamis).
+FIGURE II.
 
-*Mood AO.* All B is A. Some C is not B. .'. Illicit Process, (Ferio).
+We establish the distinction between C and A by showing that A has an attribute which C is devoid of, or is devoid of an attribute which C has.
 
-*Mood EA.* No B is A. All C is B. .'. No C is A, or No A is C, (Celarent & Camenes).
+All fishes are cold-blooded. A whale is not cold-blooded. .'. A whale is not a fish.
 
-*Mood EI.* No B is A. Some C is B. .'. Some C is not A, or Illicit Process.
+No fishes give milk. A whale gives milk. .'. A whale is not a fish.
 
-*Mood IA.* Some B is A. All C is B. .'. Undistributed Middle.
+FIGURE III.
 
-*Mood IE.* Some B is C. Some B is not A. No A is B. All C is B. .'. Illicit Process, or Some C is not A, (Fresison).
+We produce instances of C being A by showing that C and A meet, at all events partially, in B. Thus if we wish to produce an instance of the compatibility of great learning with original powers of thought, we might say
 
-*Mood OA.* Some B is not A. All C is B. .'. Undistributed Middle.
+Sir William Hamilton was an original thinker. Sir William Hamilton was a man of great learning. .'. Some men of great learning are original thinkers.
 
-§ 661. Thus we are left with six valid moods, which yield four direct conclusions and five indirect ones, corresponding to the four moods of the original first figure and the five moods of the original fourth, which appear now as indirect moods of the first figure.
+Or we might urge an exception to the supposed rule about Scotchmen being deficient in humour under the same figure, thus--
 
-§ 662. But why, it maybe asked, should not the moods of the first figure equally well be regarded as indirect moods of the fourth? For this reason-that all the moods of the fourth figure can be elicited out of premisses in which the terms stand in the order of the first, whereas the converse is not the case. If, while retaining the quantity and quality of the above premisses, i. e. the mood, we were in each case to transpose the terms, we should find that we were left with five valid moods instead of six, since AI in the reverse order of the terms involves undistributed middle; and, though we should have Celarent indirect to Camenes, and Darii to Dimaris, we should never arrive at the conclusion of Barbara or have anything exactly equivalent to Ferio. In place of Barbara, Bramantip would yield as an indirect mood only the subaltern AAI in the first figure. Both Fesapo and Fresison would result in an illicit process, if we attempted to extract the conclusion of Ferio from them as an indirect mood. The nearest approach we could make to Ferio would be the mood EAO in the first figure, which may be elicited indirectly from the premisses of CAMENES, being subaltern to CELARENT. For these reasons the moods of the fourth figure are rightly to be regarded as indirect moods of the first, and not vice versâ.
+Sir Walter Scott was not deficient in humour. Sir Walter Scott was a Scotchman. .'. Some Scotchmen are not deficient in humour.
 
-*Mood AA.* All A is B. All C is B. .'. Undistributed Middle.
+FIGURE IV.
 
-*Mood AE.* All A is B. No C is B. .'. No C is A, or No A is C, (Camestres & Cesare).
+All A is B, No A is B. All B is C. All B is C. .'. Some C is A .'.Some C is not A.
 
-*Mood AI.* All A is B. Some C is B. .'. Undistributed Middle.
+We show here that A is or is not a species of C by showing that A falls, or does not fall, under the class B, which itself falls under C. Thus--
 
-*Mood AO.* All A is B. Some C is not B. .'. Some C is not A, (Baroko), or Illicit Process.
-
-*Mood EA.* No A is B. All C is B. .'. No C is A, or No A is C, (Cesare & Carnestres).
-
-*Mood EI* No A is B. Some C is B. .'. Some C is not A, (Festino), or Illicit Process.
-
-*Mood IA.* Some A is B. All C is B. .'. Undistributed Middle.
-
-*Mood IE.* Some A is B. No C is B. .'. Illicit Process, or Some A is not C, (Festino).
-
-*Mood OA.* Some A is not B. All C is B. .'. Illicit Process, or Some A is not C, (Baroko).
-
-§ 664. Here again we have six valid moods, which yield four direct conclusions corresponding to Cesare, CARNESTRES, FESTINO and BAROKO. The same four are repeated in the indirect moods.
-
-*Mood AA.* All B is A. All B is C. .'. Some C is A, or Some A is C, (Darapti).
-
-*Mood AE.* All B is A. No B is C. .'. Illicit Process, or Some A is not C, (Felapton).
-
-*Mood AI.* All B is A, Some B is C. .'. Some C is A, or Some A is C, (Datisi & Disamis).
-
-*Mood AO.* All B is A. Some B is not C. .'. Illicit Process, Or Some A is not C, (Bokardo).
-
-*Mood EA.* No B is A. All B is C. .'. Some C is not A, (Felapton), or Illicit Process.
-
-*Mood EI.* No B is A. Some B is C. .'. Some C is not A, (Ferison), or Illicit Process.
-
-*Mood IA.* Some B is A. All B is C. .'. Some C is A, Or Some A is C, (Disamis & Datisi).
-
-*Mood IE.* Some B is A. No B is C. .'. Illicit Process, or Some A is not C, (Ferison).
-
-*Mood QA.* Some B is not A. All B is C. .'. Some C is not A, (Bokardo), or Illicit Process.
-
-§ 666. In this figure every mood is valid, either directly or indirectly. We have six direct moods, answering to Darapti, Disamis, Datisi, Felapton, Bokardo and Ferison, which are simply repeated by the indirect moods, except in the case of Darapti, which yields a conclusion not provided for in the mnemonic lines. Darapti, though going under one name, has as much right to be considered two moods as Disamis and Datisi.
+All whales are mammals. All mammals are warm-blooded. .'. Some warm-blooded animals are whales. No whales are fishes. All fishes are cold-blooded. .'. Some cold-blooded animals are not whales.

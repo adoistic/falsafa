@@ -4,7 +4,8 @@ slug: "clemens-romanus-clement--the-second-epistle-of-clement-to-936aca"
 title: The Second Epistle of Clement to the Corinthians
 author:
   name: Clemens Romanus (Clement of Rome)
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Bishop of Rome at the close of the first century, counted among the Apostolic Fathers. The letter to the Corinthians sent under his name is the earliest datable Christian writing outside the New Testament; the second epistle bearing his name is an anonymous sermon of a later generation.
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Greek

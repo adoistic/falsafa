@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 36,
+  "chapter_title": "Notes on Books",
+  "chapter_slug": "36-notes-on-books",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "be4bf2b3-6877-5b31-ac3a-f19490ba80ee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 702,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1912/misc/notes-on-books.htm"
+    }
+  ]
+}

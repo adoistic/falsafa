@@ -4,7 +4,7 @@ work_slug: "john-taylor-of-caroline-construction-construed-and-const-431e95"
 work_title: Construction Construed and Constitutions Vindicated
 author_name: John Taylor of Caroline
 chapter_number: 1
-chapter_title: TO THE PUBLICK.
+chapter_title: To the Publick.
 chapter_slug: "01-to-the-publick"
 variant_id: "4f1389a7-4992-5579-824c-3e3234556e73"
 content_type: translation

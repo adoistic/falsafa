@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 51,
+  "chapter_title": "The PREFACE. Considering the Principles or Nature of Family Government.",
+  "chapter_slug": "51-the-preface-considering-the-principles-or-nature-o",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97c52a9a-771a-52c5-b903-28de41818390",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 878,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

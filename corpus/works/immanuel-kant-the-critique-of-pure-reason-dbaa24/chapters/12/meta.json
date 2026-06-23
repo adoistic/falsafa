@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-pure-reason-dbaa24",
+  "work_title": "The Critique of Pure Reason",
+  "chapter_number": 12,
+  "chapter_title": "Chapter I — The Discipline of Pure Reason",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a7194adf-e488-5ec2-be1d-1468b3ab481e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 17096,
+      "paragraph_count": 90,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4280"
+    }
+  ]
+}

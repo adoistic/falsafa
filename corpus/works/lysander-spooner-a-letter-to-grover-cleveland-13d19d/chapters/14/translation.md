@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2043
+word_count: 2035
 source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
 translator: Online Library of Liberty edition
 ---
@@ -46,7 +46,7 @@ To make a note solvent, and suitable for circulation as money, it is only necess
 
 Theoretically, I repeat, all the material property in the country, that can be taken by law, and applied to the payment of debts, can be used as banking capital; and be represented by promissory notes, made payable in coin on demand. And, practically, so much of it can be used as banking capital as may be required for supplying all the notes that can be kept in circulation as money.
 
-Although these notes are made legally payable in coin on demand, it is seldom that such payment is demanded, if only it be publicly known that the notes are solvent: Edition: current; Page: [40] that is, if it be publicly known that they are issued by persons who have so much material property, that can be taken by law, and sold, as may be necessary to bring the coin that is needed to pay the notes. In such cases, the notes are preferred to the coin, because they are so much more safe and convenient for handling, counting, and transportation, than is the coin; and also because we can have so many times more of them.
+Although these notes are made legally payable in coin on demand, it is seldom that such payment is demanded, if only it be publicly known that the notes are solvent: that is, if it be publicly known that they are issued by persons who have so much material property, that can be taken by law, and sold, as may be necessary to bring the coin that is needed to pay the notes. In such cases, the notes are preferred to the coin, because they are so much more safe and convenient for handling, counting, and transportation, than is the coin; and also because we can have so many times more of them.
 
 These notes are also a legal tender, to the banks that issue them, in payment of the notes discounted; that is, in payment of the notes given by the borrowers to the banks. And, in the ordinary course of things, all the notes, issued by the banks for circulation, are wanted, and come back to the banks, in payment of the notes discounted; thus saving all necessity for redeeming them with coin, except in rare cases. For meeting these rare cases, the banks find it necessary to keep on hand small amounts of coin; probably not more than one per cent. of the amount of notes in circulation.
 
@@ -62,7 +62,7 @@ There is no danger that any more of these notes will be issued than will be want
 
 The bankers, therefore, have no motive for issuing more of them than will remain long enough in circulation, to earn so much interest as will make it an object to issue them; the only motive for issuing them being to draw interest on them while they are in circulation.
 
-The bankers readily find how many are wanted for circulation, by the time those issued remain in circulation, before coming back for redemption. If they Edition: current; Page: [41] come back immediately, or very quickly, after being issued, the bankers know that they have over-issued, and that they must therefore pay in coin—to their inconvenience, and perhaps loss—notes that would otherwise have remained in circulation long enough to earn so much interest as would have paid for issuing them; and would then have come back to them in payment of notes discounted, instead of coming back on a demand for redemption in coin.
+The bankers readily find how many are wanted for circulation, by the time those issued remain in circulation, before coming back for redemption. If they come back immediately, or very quickly, after being issued, the bankers know that they have over-issued, and that they must therefore pay in coin—to their inconvenience, and perhaps loss—notes that would otherwise have remained in circulation long enough to earn so much interest as would have paid for issuing them; and would then have come back to them in payment of notes discounted, instead of coming back on a demand for redemption in coin.
 
 Now, the best of all possible banking capital is real estate. It is the best, because it is visible, immovable, and indestructible. It cannot, like coin, be removed, concealed, or carried out of the country. And its aggregate value, in all civilized countries, is probably a hundred times greater than the amount of coin in circulation. It is therefore capable of furnishing a hundred times as much money as we can have in coin.
 

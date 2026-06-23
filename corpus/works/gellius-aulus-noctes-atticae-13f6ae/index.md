@@ -4,7 +4,10 @@ slug: "gellius-aulus-noctes-atticae-13f6ae"
 title: Noctes Atticae
 author:
   name: Gellius, Aulus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman author and grammarian, trained in rhetoric at Rome and philosophy at Athens. The Noctes Atticae gathered miscellaneous notes on grammar, law, history, and philosophy, preserving fragments of many lost authors.
+  birth_year: 125
+  death_year: 180
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

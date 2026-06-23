@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 44
-chapter_title: CHAPTER IV
+chapter_title: Chapter VII. (2)
 chapter_slug: 44
 variant_id: "55ad00a8-245b-5d44-875d-24f7397821c3"
 content_type: translation
@@ -13,23 +13,27 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 636
+word_count: 781
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-The same subject continued.
+In what way all other beings exist through this Nature and derive existence from it.
 
-Furthermore, if one observes the nature of things he perceives, whether he will or no, that not all are embraced in a single degree of dignity; but that certain among them are distinguished by inequality of degree. For, he who doubts that the horse is superior in its nature to wood, and man more excellent than the horse, assuredly does not deserve the name of man. Therefore, although it cannot be denied that some natures are superior to others, nevertheless reason convinces us that some nature is so preëminent among these, that it has no superior. For, if the distinction of degrees is infinite, so that there is among them no degree, than which no higher can be found, our course of reasoning reaches this conclusion: that the multitude of natures themselves is not limited by any bounds. But only an absurdly foolish man can fail to regard such a conclusion as absurdly foolish. There is, then, necessarily some nature which is so superior to some nature or natures, that there is none in comparison with which it is ranked as inferior.
+There now remains the discussion of that whole class of beings that exist through another, as to how they exist through the supreme Substance, whether because this Substance created them all, or because it was the material of all. For, there is no need to inquire whether all exist through it, for this reason, namely, that there being another creative agent, or another existing material, this supreme Substance has merely aided in bringing about the existence of all things: since it is inconsistent with what has already been shown, that whatever things are should exist secondarily, and not primarily, through it.
 
-Now, this nature which is such, either is single, or there are more natures than one of this sort, and they are of equal degree.
+First, then, it seems to me, we ought to inquire whether that whole class of beings which exist through another derive existence from any material. But I do not doubt that all this solid world, with its parts, just as we see, consists of earth, water, fire, and air. These four elements, of course, can be conceived of without these forms which we see in actual objects, so that their formless, or even confused, nature appears to be the material of all bodies, distinguished by their own forms.—I say that I do not doubt this. But I ask, whence this very material that I have mentioned, the material of the mundane mass, derives its existence. For, if there is some material of this material, then that is more truly the material of the physical universe.
 
-But, if they are more than one and equal, since they cannot be equal through any diverse causes, but only through some cause which is one and the same, that one cause, through which they are equally so Edition: current; Page: [44] great, either is itself what they are, that is, the very essence of these natures; or else it is another than what they are.
+If, then, the universe of things, whether visible or invisible, derives existence from any material, certainly it not only cannot be, but it cannot even be supposed to be, from any other material than from the supreme Nature or from itself, or from some third being—but this last, at any rate, does not exist. For, indeed, nothing is even conceivable except that highest of all beings, which exists through itself, and the universe of beings which exist, not through themselves, but through this supreme Being. Hence, that which has no existence at all is not the material of anything.
 
-But if it is nothing else than their very essence itself, just as they have not more than one essence, but a single essence, so they have not more than one nature, but a single nature. For I here understand nature as identical with essence.
+From its own nature the universe cannot derive existence, since, if this were the case, it would in some sort exist through itself and so through another than that through which all things exist. But all these suppositions are false.
 
-If, however, that through which these natures are so great is another than that which they are, then, certainly, they are less than that through which they are so great. For, whatever is great through something else is less than that through which it is great. Therefore, they are not so great that there is nothing else greater than they.
+Again, everything that derives existence from material derives existence from another, and exists later than that other. Therefore, since nothing is other than itself, or later than itself, it follows that nothing derives material existence from itself.
 
-But if, neither through what they are nor through anything other than themselves, can there be more such natures than one, than which nothing else shall be more excellent, then in no wise can there be more than one nature of this kind. We conclude, then, that there is some nature which is one and single, and which is so superior to others that it is inferior to none. But that which is such is the greatest and best of all existing beings. Hence, there is a certain nature which is the highest of all existing beings. This, however, it cannot be, unless it is what it is through itself, and all existing beings are what they are through it.
+But if, from the material of the supreme Nature itself, any lesser being can derive existence, the supreme good is subject to change and corruption. But this it is impious to suppose. Hence, since everything that is other than this supreme Nature is less than it, it is impossible that anything other than it in this way derives existence from it.
 
-For since, as our reasoning showed us not long since, that which exists through itself, and through which all other things exist, is the highest of all existing beings; either conversely, that which is the highest exists through itself, and all others through it; or, there will be more than one supreme being. But it Edition: current; Page: [45] is manifest that there cannot be more than one supreme being. There is, therefore, a certain Nature, or Substance, or Essence, which is through itself good and great, and through itself is what it is; and through which exists whatever is truly good, or great, or has any existence at all; and which is the supreme good being, the supreme great being, being or subsisting as supreme, that is, the highest of all existing beings.
+Furthermore: doubtless that is in no wise good, through which the supreme good is subjected to change or corruption. But, if any lesser nature derives existence from the material of the supreme good, inasmuch as nothing exists whencesoever, except through the supreme Being, the supreme good is subjected to change and corruption through the supreme Being itself. Hence, the supreme Being, which is itself the supreme good, is by no means good; which is a contradiction. There is, therefore, no lesser nature which derives existence in a material way from the supreme Nature.
+
+Since, then, it is evident that the essence of those things which exist through another does not derive existence as if materially, from the supreme Essence, nor from itself, nor from another, it is manifest that it derives existence from no material. Hence, seeing that whatever is exists through the supreme Being, nor can aught else exist through this Being, except by its creation, or by its existence as material, it follows, necessarily, that nothing besides it exists, except by its creation. And, since nothing else is or has been, except that supreme Being and the beings created by it, it could create nothing at all through any other instrument or aid than itself. But all that it has created, it has doubtless created either from something, as from material, or from nothing.
+
+Since, then, it is most patent that the essence of all beings, except the supreme Essence, was created by that supreme Essence, and derives existence from no material, doubtless nothing can be more clear than that this supreme Essence nevertheless produced from nothing, alone and through itself, the world of material things, so numerous a multitude, formed in such beauty, varied in such order, so fitly diversified.

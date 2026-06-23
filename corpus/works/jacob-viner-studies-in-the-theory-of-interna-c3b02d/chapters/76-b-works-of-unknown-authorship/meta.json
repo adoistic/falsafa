@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 76,
+  "chapter_title": "(b) works of unknown authorship",
+  "chapter_slug": "76-b-works-of-unknown-authorship",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4935acd8-1811-5251-8fd9-ad0079498990",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 64422,
+      "paragraph_count": 1522,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

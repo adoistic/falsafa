@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 34,
+  "chapter_title": "3. The More Important of the Followers of Fichte.",
+  "chapter_slug": "34-3-the-more-important-of-the-followers-of-fichte",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2fab9f2f-9886-5c01-b41d-5ff413f9a179",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2115,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hpfichte.htm"
+    }
+  ]
+}

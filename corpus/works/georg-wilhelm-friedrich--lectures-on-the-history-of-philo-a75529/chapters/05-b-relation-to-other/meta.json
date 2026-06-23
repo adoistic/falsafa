@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 5,
+  "chapter_title": "B Relation to Other",
+  "chapter_slug": "05-b-relation-to-other",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc07b8c6-c081-57ec-aa5e-05bfa29dffcb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1903,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hpintrob.htm"
+    }
+  ]
+}

@@ -4,13 +4,17 @@ slug: "richard-falckenberg-history-of-modern-philosophy-fro-e856c2"
 title: History of Modern Philosophy from Nicolas of Cusa to the Present Time
 author:
   name: Richard Falckenberg
-  biography: "Richard Falckenberg (1851-1920)."
+  biography: German historian of philosophy and professor at Erlangen. His History of Modern Philosophy surveyed the development of European thought from Nicolas of Cusa to the late nineteenth century and became a standard textbook in English translation.
+  birth_year: 1851
+  death_year: 1920
+  nationality: German
 era: 20th Century
 genre: History of Philosophy
 language: English
 language_direction: ltr
 description: "History of Modern Philosophy from Nicolas of Cusa to the Present Time, by Richard Falckenberg (1851-1920), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1893
 total_logical_chapters: 17
 total_variant_entries: 17
 thothica_role: catalog

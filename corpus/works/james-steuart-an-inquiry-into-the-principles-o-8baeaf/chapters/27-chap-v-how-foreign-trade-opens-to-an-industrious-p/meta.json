@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 27,
+  "chapter_title": "Chap. V: How foreign Trade opens to an industrious People, and the Consequences of it to the Merchants who set it on foo",
+  "chapter_slug": "27-chap-v-how-foreign-trade-opens-to-an-industrious-p",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c00d5b82-6be9-5145-a0f9-a9c8ff42b82c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1920,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2_04.htm"
+    }
+  ]
+}

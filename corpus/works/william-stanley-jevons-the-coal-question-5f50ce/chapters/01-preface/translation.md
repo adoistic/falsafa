@@ -4,7 +4,7 @@ work_slug: "william-stanley-jevons-the-coal-question-5f50ce"
 work_title: The Coal Question
 author_name: William Stanley Jevons
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "7555bc18-072c-58e5-b4db-9e340c9daa95"
 content_type: translation

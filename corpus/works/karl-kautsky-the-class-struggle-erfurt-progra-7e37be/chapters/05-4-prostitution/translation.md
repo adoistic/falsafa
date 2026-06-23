@@ -1,0 +1,27 @@
+---
+work_id: "7e37be8d-c488-5b58-af81-18f80f17d042"
+work_slug: "karl-kautsky-the-class-struggle-erfurt-progra-7e37be"
+work_title: The Class Struggle (Erfurt Program)
+author_name: Karl Kautsky
+chapter_number: 5
+chapter_title: 4. Prostitution
+chapter_slug: "05-4-prostitution"
+variant_id: "ff428a3f-489d-5f69-bd02-bb7d64443c71"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 442
+source_url: "https://www.marxists.org/archive/kautsky/1892/erfurt/ch02.htm"
+translator: William E. Bohn
+---
+
+Hand in hand with the accusation on the subject of family bonds goes the charge that Socialists aim at community of wives. This charge is as false as the other. Socialists, on the contrary, maintain that ideal love, just the reverse of a community of wives and of all sexual oppression and license, will be the foundation of matrimonial connections in a Socialist Commonwealth, and that pure love can prevail only in such a social system. What, on the other hand, do we see today?
+
+Helpless women, forced to earn their living in factories, shops and mines, fall a prey to capitalist cupidity. The capitalist takes advantage of their inexperience, offers them wages too slight for their support, and hints at, or even brazenly suggests, prostitution as a means of supplementing their income. Everywhere the increase of female labor in industry is accompanied by an increase in prostitution. In the modern state where Christianity is so devoutedly preached, many a thriving branch of industry is found where working-women are paid so poorly that they would be compelled to starve did they not prostitute themselves. And the capitalists declare that the ability to compete, the prosperity of their industry, depend upon these low wages. Higher wages would ruin them.
+
+Prostitution is as old as the contrast between rich and poor. At one time, however, prostitutes were a middle class between beggars and thieves; they were then an article of luxury in which society indulged but the loss of which would in no way have endangered its existence. To-day, however, it is no longer the females of the slums, alone, but working-women, who are compelled to sell their bodies for money. This latter sale is no longer simply a matter of luxury; it has become one of the foundations upon which production is carried on. Under the capitalist system prostitution becomes a pillar of society. What the defenders of this social system falsely charge Socialists with is the very thing they are guilty of themselves. Community of wives is a feature of capitalism. Indeed, such a deep root has this system of community of wives taken in modern society that its representatives agree in declaring prostitution to be a necessary thing. They cannot understand that the abolition of the proletariat implies the abolition of prostitution. So deep are they sunk in intellectual stagnation that they cannot conceive a social system without community of wives.
+
+Community of wives is an invention of the upper classes of society, never of the proletariat. The community of wives is one of the modes of exploiting the proletariat; it is not Socialism, it is the exact opposite of Socialism.

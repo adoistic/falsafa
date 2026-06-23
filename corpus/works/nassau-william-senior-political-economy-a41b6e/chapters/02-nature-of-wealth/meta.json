@@ -2,7 +2,7 @@
   "work_slug": "nassau-william-senior-political-economy-a41b6e",
   "work_title": "Political Economy",
   "chapter_number": 2,
-  "chapter_title": "NATURE OF WEALTH.",
+  "chapter_title": "Nature of Wealth.",
   "chapter_slug": "02-nature-of-wealth",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 153,
-      "paragraph_count": 2,
+      "word_count": 39925,
+      "paragraph_count": 272,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/senior-political-economy-1850-ed"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-reform-or-revolution-7d6797",
+  "work_title": "Reform or Revolution?",
+  "chapter_number": 4,
+  "chapter_title": "Government”the State",
+  "chapter_slug": "04-government-the-state",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37428d6b-874e-59ac-b6d0-1b41aa78ff3b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1620,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1896/960126.htm"
+    }
+  ]
+}

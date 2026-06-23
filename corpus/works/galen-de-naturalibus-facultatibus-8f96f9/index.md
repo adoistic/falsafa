@@ -4,7 +4,10 @@ slug: "galen-de-naturalibus-facultatibus-8f96f9"
 title: De naturalibus facultatibus
 author:
   name: Galen
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Greek physician and philosopher of Pergamon, court doctor to Marcus Aurelius and the leading medical authority of the Roman world. De naturalibus facultatibus argued that living bodies are governed by natural faculties of attraction, retention, and expulsion, a physiology that ruled European and Islamic medicine for over a millennium.
+  birth_year: 129
+  death_year: 216
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

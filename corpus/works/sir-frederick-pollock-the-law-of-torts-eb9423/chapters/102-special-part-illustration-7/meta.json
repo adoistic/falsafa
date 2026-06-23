@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-law-of-torts-eb9423",
+  "work_title": "The Law of Torts",
+  "chapter_number": 102,
+  "chapter_title": "Special Part, Illustration. (7)",
+  "chapter_slug": "102-special-part-illustration-7",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ae19b45-15e3-5715-81d8-053f8cbdec00",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 100,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+    }
+  ]
+}

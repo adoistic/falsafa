@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-signs-of-change-676fea",
+  "work_title": "Signs of Change",
+  "chapter_number": 2,
+  "chapter_title": "2.Whigs, Democrats, and Socialists",
+  "chapter_slug": "02-2-whigs-democrats-and-socialists",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b5e0a73-60af-54f4-9011-af7fcf13f739",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4179,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1888/signs/chapters/chapter2.htm"
+    }
+  ]
+}

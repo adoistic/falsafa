@@ -4,7 +4,7 @@ work_slug: "sir-frederick-pollock-the-law-of-torts-eb9423"
 work_title: The Law of Torts
 author_name: Sir Frederick Pollock
 chapter_number: 1
-chapter_title: TO THE HONOURABLE OLIVER WENDELL HOLMES, Junr., A JUSTICE OF THE SUPREME JUDICIAL COURT OF THE COMMONWEALTH OF MASSACHUS
+chapter_title: To the Honourable Oliver Wendell Holmes, Junr., a Justice of the Supreme Judicial Court of the Commonwealth of Massachus
 chapter_slug: "01-to-the-honourable-oliver-wendell-holmes-junr-a-jus"
 variant_id: "6471396d-9c62-5de5-abac-4b8a3d58ba0b"
 content_type: translation

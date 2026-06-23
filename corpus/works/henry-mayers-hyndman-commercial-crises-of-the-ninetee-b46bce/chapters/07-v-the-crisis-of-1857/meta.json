@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-commercial-crises-of-the-ninetee-b46bce",
+  "work_title": "Commercial Crises of the Nineteenth Century",
+  "chapter_number": 7,
+  "chapter_title": "V. The Crisis of 1857",
+  "chapter_slug": "07-v-the-crisis-of-1857",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a3c2dc7f-4706-5fd3-a709-482713df4ff8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6990,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1892/crises/ch05.html"
+    }
+  ]
+}

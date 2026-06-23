@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-capitalist-class-0f5376",
+  "work_title": "The Capitalist Class",
+  "chapter_number": 8,
+  "chapter_title": "VII. The Growth of Large Production-Syndicates and Trusts",
+  "chapter_slug": "08-vii-the-growth-of-large-production-syndicates-and-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1cd9cbe2-80c0-5761-855d-e7e0184166d2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2603,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1911/cap-class/ch07.htm"
+    }
+  ]
+}

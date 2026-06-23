@@ -1,0 +1,97 @@
+---
+work_id: "b241bdc2-d4fd-5263-bcd2-d3aced106ca7"
+work_slug: "karl-kautsky-the-dictatorship-of-the-proletar-b241bd"
+work_title: The Dictatorship of the Proletariat
+author_name: Karl Kautsky
+chapter_number: 10
+chapter_title: (b) Industry
+chapter_slug: "10-b-industry"
+variant_id: "7c82984c-edcd-57b0-9962-0d693758630f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 3024
+source_url: "https://www.marxists.org/archive/kautsky/1918/dictprole/ch09.htm"
+translator: Marxists Internet Archive edition
+---
+
+The industry of Russia is a different thing from its agriculture. Russian industry exhibits many primitive forms, but the capitalist portion of it, just because of its recent growth, shows its most modern and highly-developed form. And the Russian industrial working class, by the side of numerous illiterates, who come from the country and are still limited by the narrow conceptions of the village, contains not a few members who have absorbed all the modern culture that is now available to the proletariat, who are filled with the same interest in theory which Marx praised in the German workers half a century ago, and are distinguished by that thirst for knowledge which is so often stifled amongst the workers of Western Europe by the petty details inherent in democratic conditions.
+
+Could not a Socialist system of production be constructed on this foundation?
+
+This is only conceivable if Socialism means that the workers in single factories and mines should appropriate these themselves, in order to administer each one separately.
+
+Even as I write (August 5), a speech of Lenin’s in Moscow, on August 2, is just to hand, which reports him as saying, “The workers retain possession of the factories and the peasants will not give back the land to the landlords.”
+
+The saying “The factories to the workers and the land to the peasants” was recently not a social democratic, but an anarchist-syndicalist demand. Social democracy demanded that the factories and land should belong to society. The individual peasant can, in case of need, work his property without any connection with other producers. The modern factory, on the other hand, stands in a network of social connections, and its isolation is inconceivable. It is not enough for the workers to take over a factory, even if they are sufficiently intelligent and trained to direct it properly. A factory cannot run for a single day without supplies from other industries, raw material, coal, and auxiliary products of all kinds, and without the regular sale of its products. H raw material and the mines and transport services fail, then the factory fails as well. Its operation on Socialist lines presupposes the creation of a network of social production. Only when society can do this, is Socialist production possible.
+
+Social democracy does not demand the transference of factories to their workers, but strives for social production, that is, production for the needs of society in place of commodity production, and this is only possible through the social ownership of the means of production. Even the Bolshevists have declared for the nationalisation of factories, not their transference to the hands of the workers. The latter would only mean a change to a new form of capitalism, as experience has shown in the numerous cases of co-operative production. The new owners would defend their property, as giving them a privileged position, against labourers seeking work, whose numbers must constantly be recruited through the insufficient share of land falling to the peasantry.
+
+A permanent conquest of capitalism is not possible by giving over the factories to the workers engaged. in them, but only by transferring the means of production to the possession of society, that is, the whole body of consumers, for whose need production is carried on. Thus they become State property, or, in the case of local means of production, belong to the commune, and eventually also to associations of consumers.
+
+This has even been attempted in Russia to-day. How far it has been carried out is not yet disclosed. This side of the Soviet Republic is, in any case, of the greatest interest for us, but, unfortunately, we are still completely in the dark. There is, indeed, no lack of decrees, but trustworthy information concerning the operation of the decrees is absent. Socialist production is impossible without comprehensive, detailed, reliable statistics, which give early information. Hitherto, the Soviet Republic has not been able to obtain these. What we learn about its economic effects is highly contradictory and is not susceptible of any verification. This is again one of the results of the dictatorship and the suppression of democracy. Where freedom of the Press and speech is lacking, there can be no central and representative body, in which all classes and parties are represented, and can express themselves, and the actua dictatorship is exposed to the temptation of only allowing to be published the information which suits it. Whether or not the dictators take advantage of this possibility, no reliance is placed on their information. This does not silence criticism, which merely seeks underground channels. It is spread by word of mouth almost as quickly as a public announcement, but without the restraint of publicity. Rumour knows no bounds. Thus, we are overwhelmed from left to right with information which is contradictory, and we are obliged to maintain an attitude of distrust towards it all.
+
+What results have been forthcoming from the Socialist endeavours of the Soviet Government cannot, therefore, yet be estimated, not even approximately. Is it possible for it to accomplish something in this respect, which will not again be lost, but will become permanent, in the event of the Soviet Government not being able to retain its power?
+
+That it has radically destroyed capitalism can be accepted by no one. It can certainly destroy much capitalist property, and transform many capitalists into proletarians, but this is not equivalent to the establishment of a Socialist system of production. So far as it does not succeed in doing this, capitalism will again arise, and must arise. Probably it will reappear very quickly and bring a change in the personnel of the dictatorship of the proletariat. In the place of the former capitalists, now become proletarians, will enter proletarians or intellectuals become capitalists. These people will always skim off the cream, and will remain on the side of the Government which is last on the field, and brings order out of chaos.
+
+The Soviet Government has already been constrained to make various compromises with capital. On April 28, 1918, Lenin admitted in his before-quoted speech (reported in the News Service of the International Socialist Commission) that the expropriation of capital had proceeded too quickly: “If we are to expropriate at this pace, we shall be certain to suffer a defeat. The organisation of production under proletarian control is notoriously very much behind the expropriation of the big masses of capital.”
+
+But everything depends upon this organisation. There is nothing easier for a dictator than to expropriate. But to create a huge organism of social labour, and set it in motion, a Decree and the Red Guard will not suffice.
+
+Even more than Russian capital, German capital will cause the Soviet Republic to recoil and recognise its claims. How far the capital of the Entente will again penetrate into Russia is still questionable. To all appearance, the dictatorship of the proletariat has only destroyed Russian capital in order to make room for German and American capital.
+
+However this may be, it is reasonable to anticipate that the nationalisation of many branches of industry, for which the Soviet Government has paved the way, will persist, even if the Soviet Republic should be destroyed, and, after the destruction of the big estates, this will constitute the most considerable permanent achievement of the dictatorship of the proletariat.
+
+This is all the more probable, as it is part of a movement which is going on in all modern States, even if they are capitalist. The needs of the war were responsible for it – we remember the nationalisation of the American railways – and the needs of peace will ensure its continuance.
+
+Everywhere we must be prepared for fiscal monopoly.
+
+But this shows that nationalisation is shot yet Socialism. Whether it is so or not depends on the character of the State.
+
+Now the Russian State is a peasant State. It is so to-day more than ever, for the peasant has now learned to make his own power felt. In Russia he i8 as little as elsewhere in a position to exercise his power directly in the State, as his conditions of life do not fit him for this. But he will no longer suffer the rule of any power which does not champion his interest, even if it be that of the town proletariat.
+
+Like peasant commodity production, the State industries will also have to produce for the market, not for the State’s own needs. Their most considerable market – the home one – will comprise the peasants.
+
+Even as much as he is interested in high prices for agricultural produce, which he sells, is the peasant interested in low prices for industrial products, which he buys. As against private enterprise, it is a matter of indifference to him how these low prices come to pass, whether at the expense of labour or of profit. He has no interest in high profits for private industrial capital.
+
+It is, however, otherwise with State industry. The higher the profits of this, the lower is the amount of revenue to be provided by taxes, which, in a peasant State, must be chiefly borne by the peasants. The peasant is accordingly as much interested in high profits for State industry as he is in low prices for its products: this means lower wages for labour.
+
+Thus we see here another source of antagonism between peasant and industrial worker, an antagonism which will become the more marked the greater the extension which State industry undergoes.
+
+This antagonism, and not Socialism, will be the real legacy of the Russian Revolution.
+
+It would, nevertheless, be false to ascribe the responsibility for this to Bolshevism. Much of what they are reproached with is the necessary consequence of the conditions which confronted them, and would have disclosed itself quite as certainly under any other regime. Yet it is of the essence of dictatorship that it intensifies all existing antagonisms and raises them to their highest point.
+
+The famine has not been created by the dictatorship, but by the mismanagement of Czarism and the war. But the fact that agriculture and the transport services have so slightly recovered iii the half year following peace is the result of the civil war, which, under the dictatorship, is the only form of opposition, and is inevitable when the masses cherish lively political interest.
+
+Again, the demobilisation of the army was a process which the Bolsheviks found going on. Yet they have prided themselves on accelerating it to the utmost, and thereby were obliged to conclude a peace which is no longer a source of satisfaction to them.
+
+In the same way, the breaking up of the big estates among the peasants was a proceeding which had already started before the Bolsheviks seized the political power, and which, owing to the overwhelming numbers of the peasants, nobody could have hindered. Yet the dissolution of the Constituent Assembly has contributed to it, in that the last trace of social influence on the assignment of the expropriated big estates has been lost, and the partition has been left to the naked arbitrariness of the interests on the spot.
+
+Finally, the appearance of the antagonism between peasant and industrial worker is also a phenomenon which could not be avoided, and which necessarily arises out of the prevailing economic conditions. Yet even here the Bolshevist rule has forced the growth of conditions which have sharpened and deepened the antagonism. With the dissolution of the Constituent Assembly and the demobilisation of the Army the two factors disappeared which could have furnished Russia with the quickest protection against the breaking up and partition of the land. Precisely the richest agricultural tracts of former Russia are now detached from it. if they so remain, then Russia will cease, especially if Siberia also separates, to be altogether a corn or food exporting country. The prices of the agricultural produce of Russia will then be determined only by the home, and not by the foreign market.
+
+Now this is the condition in winch, under commodity production, the opposition between peasant and industrial worker most quickly develops. In countries which largely export agricultural produce, the opposition between industry and agriculture takes the form of an antagonism of States rather than of classes, the form of an antagonism between an industrial State and an agricultural State. Russia, in particular, has now, through the peace of Brest-Litowsk, ceased to be an agricultural exporting State, and has shaped in such a way as to promote the most rapid and bitter economic struggle between peasants and industrial workers.
+
+In any case, this struggle cannot be avoided. So much the more important is it for a far-seeing policy to give such a form to the conditions in which this struggle must be carried on as to make possible to the proletariat the best development of its strength. To lay these foundations, not only as against capital, but also as against agriculture – this was, during the Revolution, the most important task of the representatives of the Russian proletariat. Noting else than the secure establishment of democracy could have done this.
+
+This task of the proletarian struggle for freedom, which is not less important than the institution of social production, is, in contrast to the latter, practicable in an agrarian State.
+
+The peasants, like all sections of the working class, demand democracy. They may find themselves very well off in a democratic republic, as is shown .in Switzerland and the United States But the political interests of the peasant seldom extend beyond the confines of his village, in contrast with the industrial proletarian, whose emancipation requires him to dominate the whole machinery of the State, which can be no local act. The peasant can also become enthusiastic for an emperor, who protects his property and fosters his interest, as he did in the case of Napoleon the First. The Russian peasant would oppose any return of the Czarist regime, which in his eyes was connected with the return of the old, deadly-hated landlords. But a dictator, who secured him in his property, and allowed him to devote all his attention to the cultivation of his fields and the sale of their produce, such a dictator might under circumstances be as welcome to him as the Republic. For this Dictator the way has been prepared by the suspension of Democracy, and the proclamation of the dictatorship of a class, which is in reality the dictatorship of a party, and, as Lenin himself has stated, can become the dictatorship of a single person. In his speech of April 28 he said:
+
+The closer we approach the complete suppression of the bourgeoisie, the more dangerous the factor of petty bourgeois anarchism will be for us. The struggle against it can only be carried on by force. If we are no anarchists, we must recognise the necessity of a State, that is a forcible transition from Capitalism to Socialism. The kind of force will be determined by the degree of the development of the revolutionary class concerned, as well as by special circumstances, such as reactionary war and the form taken by the opposition of the bourgeoisie and petty bourgeoisie. Therefore no essential contradiction can exist between the Soviet, that is, the Socialist democracy, and the exercise of dictatorial power by a single person.
+
+In the long run nothing can be more dangerous to the Russian Proletariat than to familiarise the peasant with the idea that dictatorship, the disfranchising of all opponents, the suspension of the suffrage, and of freedom of the Press and of organisation as regards every antagonistic class, is the form of government which beet corresponds to the interests of the working classes. What will then become of the town workers if they come into conflict with the enormous mass of the Russian peasants and a dictator who is recognised by them?
+
+And what will become of the workers when their own dictatorship collapses? The alternative to the dictatorship of a party is its destruction. Dictatorship impels the party which is in possession of power to maintain it by all means, whether fair or foul, because its fall means its complete ruin.
+
+With democracy it is quite otherwise. Democracy signifies rule of the majority, and also protection of the minority, because it means equal rights and an equal share in all political rights for everybody, to whatever class or party he may belong. The proletariat everywhere has the greatest interest in democracy. Where the proletariat represents the majority, democracy will be the machinery for its rule. Where it is in the minority, democracy constitutes its most suitable fighting arena in which to assert itself, win concessions, and develop. If a proletariat which is in a minority attains to power, in alliance with another class, through a momentary conjunction of forces, it is most shortsighted “real” politics, that is, politics of the passing moment, to endeavour to perpetuate this position by the suppression of democracy and the rights of minorities in opposition. It would destroy the ground on which alone a firm footing could be retained, after the passing of this phase, for further work and an extended struggle.
+
+It is problematical whether the Russian proletariat has now gained more real and practical acquisitions through the decrees of the Soviet Republic than it would have gained through the Constituent Assembly, in which Socialists, even if of another colour than those in the Soviets, predominated. But it is certain that if the Soviet Republic collapse many of its achievements are likely to fall along with it.
+
+Had the Constituent Assembly succeeded in strengthening democracy, then, at the same time, all the advantages which the industrial proletariat might have acquired by its agency would have been consolidated. To-day we rest our expectations that the Russian proletariat will not be cheated of all the fruit of the Revolution only on the supposition that the dictatorship will not succeed in stifling democratic consciousness in the Russian people, and that, after all the errors and confusions of the civil war, democracy will finally be triumphant.
+
+Not in dictatorship, but in democracy, lies the future of the Russian proletariat.

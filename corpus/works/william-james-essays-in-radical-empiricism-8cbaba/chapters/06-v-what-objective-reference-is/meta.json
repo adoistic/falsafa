@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-james-essays-in-radical-empiricism-8cbaba",
+  "work_title": "Essays in Radical Empiricism",
+  "chapter_number": 6,
+  "chapter_title": "V. What Objective Reference Is.",
+  "chapter_slug": "06-v-what-objective-reference-is",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd705f18-0fc1-5242-94b4-fd926bfe1b16",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1649,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/32547"
+    }
+  ]
+}

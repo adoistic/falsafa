@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 14,
+  "chapter_title": "XII. The Party Congress and the Split",
+  "chapter_slug": "14-xii-the-party-congress-and-the-split",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a9840164-811e-5982-ac14-5aa69091b38b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5719,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch12.htm"
+    }
+  ]
+}

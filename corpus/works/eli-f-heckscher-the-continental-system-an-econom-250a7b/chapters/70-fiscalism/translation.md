@@ -1,0 +1,25 @@
+---
+work_id: "250a7b43-ec95-5f8a-be6f-a40fd2b3d743"
+work_slug: "eli-f-heckscher-the-continental-system-an-econom-250a7b"
+work_title: "The Continental System: An Economic Interpretation"
+author_name: Eli F. Heckscher
+chapter_number: 70
+chapter_title: Fiscalism
+chapter_slug: "70-fiscalism"
+variant_id: "1f6d525e-048c-5142-972d-a3d8e94baa58"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 752
+source_url: "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+translator: Online Library of Liberty edition
+---
+
+But it was not enough that the Continental System was rendered illusory by the ever-present smuggling, which was constantly assisted sub rosa by the corruptibility of the officials. That smuggling involved another disadvantage in that Napoleon at the same time lost for himself and for France the benefits which an openly conducted traffic of the same scope would have brought with it. This was primarily a matter which concerned the finances of the state; and such a development could not fail to irritate the Emperor, who, of course, always had difficulties in obtaining sufficient revenue, especially as he would not openly have recourse to loans. The customs receipts which a system of imports that were allowed, but made subject to duties, would have yielded, and even, under the former and milder régime, had actually yielded, now fell into the hands of the smugglers and dishonest officials. The customs receipts of France herself, which in 1806 had been 51,200,000 francs and in 1807 had even risen to 60,600,000 francs, declined in 1808 to less than one-third of that amount, or 18,600,000 francs; and in 1809 they declined still further to the insignificant sum of 11,600,000 francs. The powerful head of the French customs system, Collin de Sussy, and also Montalivet, who was somewhat later home secretary, then conceived the characteristic idea that the state might be able to enter into what was literally a competition with the smugglers. This was to be arranged in such a way that in some form or other the importation of the hitherto forbidden goods was to be permitted, but only on payment of a duty that exactly corresponded to an amount which, as we have seen, the smuggling business had previously cost. In that case no more goods would come into the country than had been the case beforehand, but the profit would fall to the state instead of to the smugglers.
+
+Such a device could not fail to appeal to Napoleon with his cynical sense of reality for everything that had to do with means; but what he shut his eyes to till the last was the great extent to which this means damaged his great end. As a matter of fact, this meant that fiscalism had definitively gotten the upper hand over the Continental System, at least in one-half of its range. The object was no longer to exclude goods, but to make an income by receiving them instead; and no sophistry in the world could make the latter compatible with the former. But we cannot maintain that Napoleon in this respect consciously acted in opposition to his objects. His line of thought was as inconsistent as that which is still constantly found outside the circle of professional economists, in which the fact is ignored that the more prohibitive or protectionistic a customs tariff, the less it brings in, and consequently that that part of a customs duty which keeps goods out brings in no money to the treasury. This duality of conception in Napoleon finds a very typical expression in a letter addressed to his brother Jerome, King of Westphalia, on October 3, 1810, in which he first points out how advantageous the new system would be for this young prodigal by bringing him in a larger income; and after that he goes on to say: 'It will also be a great advantage in other respects, since the continental customers of the English merchants will not be able to pay for them (the goods), and the consumption of colonial goods, which will be rendered dear in this way, will be diminished. They will thus be exposed to attack and at the same time driven out of the continent.' The representatives of Napoleon used the same language in dependent countries. So far, therefore, the reshaping of the Continental System aimed at no real increase in its efficacy, but rather at the reverse, inasmuch as Napoleon acquired a direct interest in the admission of goods into the country.
+
+On paper, however, no departure from the principles of the Continental System was ever acknowledged, inasmuch as the Berlin and Milan decrees were retained unchanged to the last; and Napoleon zealously impressed on his stepson Eugene, the Viceroy of Italy, the necessity of not letting the goods in 'to the detriment of the blockade'. But in his inexhaustible supply of expedients Napoleon found a simple means of circumventing his own system in fact, namely, by granting exceptions from the prohibition on import in the matter of captured goods.

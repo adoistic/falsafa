@@ -1,0 +1,26 @@
+{
+  "work_slug": "herman-gorter-the-world-revolution-5956bf",
+  "work_title": "The World Revolution",
+  "chapter_number": 6,
+  "chapter_title": "Explanation of Programme.",
+  "chapter_slug": "06-explanation-of-programme",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "031e1207-2608-561a-8f35-9696cbffda7d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1194,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/gorter/1918/world-revolution.htm"
+    }
+  ]
+}

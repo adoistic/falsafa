@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-development-of-capitalism-in-4f48ed",
+  "work_title": "The Development of Capitalism in Russia",
+  "chapter_number": 68,
+  "chapter_title": "Chapter VII. The Development of Large-Scale Machine Industry (6)",
+  "chapter_slug": "68",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dcb5727c-0066-597c-8134-edf3230ac21c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 414,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1899/dcr8vii/vii8vi.htm"
+    }
+  ]
+}

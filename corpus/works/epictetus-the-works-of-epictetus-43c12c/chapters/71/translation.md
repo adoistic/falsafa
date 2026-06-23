@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 71
-chapter_title: "CHAPTER XI.: MISCELLANEOUS."
+chapter_title: "Chapter XII.: Of Training."
 chapter_slug: 71
 variant_id: "3838193e-24f1-543b-8ad0-679e11a81b75"
 content_type: translation
@@ -13,13 +13,25 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 146
+word_count: 717
 source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
 translator: Online Library of Liberty edition
 ---
 
-THERE are some punishments appointed, as by a law, for such as disobey the Divine administration. Whoever shall esteem anything good, except what depends on the Will, let him envy, let him covet, let him flatter, let him be full of perturbation. Whoever esteems anything else to be evil, let him grieve, let him mourn, let him lament, let him be Edition: current; Page: [222] wretched. And yet, though thus severely punished, we cannot desist.
+WE are not to carry our training beyond Nature and Reason; for thus we, who call ourselves philosophers, shall not differ from jugglers. For it is no doubt difficult to walk upon a rope; and not only difficult, but dangerous. Ought we too, for that reason, to make it our study to walk upon a rope, or balance a pole, or grasp a statue? By no means. It is not everything difficult or dangerous that is a proper training; but such things as are conducive to what lies before us to do.
 
-Remember what the poet says, of a guest.
+“And what is it that lies before us to do?”
 
-This, too, you should be prepared to say with regard to a father, It is not lawful for me to affront you, father, even if a worse than you had come; for all are from paternal Zeus. And so of a brother; for all are from kindred Zeus. And thus we shall find Zeus to be the superintendent of all the other relations.
+To have our desires and aversions free from restraint.
+
+“How is that?”
+
+Not to be disappointed of our desire, nor incur our aversion. To this ought our training to be directed. For, without vigorous and steady training, it is not possible to preserve our desire undisappointed and our aversion unincurred; and, therefore, if we suffer it to be externally employed on things uncontrollable by Will, be assured that your desire will neither gain its object, nor your aversion avoid it.
+
+And because habit has a powerful influence, and we are habituated to apply our desire and aversion to externals only, we must oppose one habit to another; and where the semblances are most treacherous, there oppose the force of training. I am inclined to pleasure. I will bend myself, even unduly, to the other side, as a matter of training. I am averse to pain. I will strive and wrestle with these semblances, that I may cease to shrink from any such object. For who is truly in training? He who endeavors totally to control desire, and to apply aversion only to things controllable by Will, and strives for it most in the most difficult cases. Hence different persons are to be trained in different ways. What signifies it, to this purpose, to balance a pole, or to go about with tent and implements [of exhibition]? If you are hasty, man, let it be your training to bear ill language patiently; and, when you are affronted, not to be angry. Thus, at length, you may arrive at such a proficiency as, when any one strikes you, to say to yourself, “Let me suppose this to be like grasping a statue.” Next, train yourself to make but a moderate use of wine, — not to drink a great deal, to which some are so foolish as to train themselves, — but to abstain from this first; and then to abstain from women and from gluttony. Afterwards you will venture into the lists at some proper season, by way of trial, if at all, to see whether these semblances get the better of you, as much as they used to do. But, at first, fly from what is stronger than you. The contest between a fascinating woman and a young man just initiated into philosophy is unequal. The brass pot and the earthen pitcher, as the fable says, are an unfair match.
+
+Next to the desires and aversions, is the second class, of the pursuits and avoidances; that they may be obedient to reason; that nothing may be done improperly, in point of time and place, or in any other respect.
+
+The third class relates to the faculty of assent and to what is plausible and persuasive. As Socrates said, that we are not to lead a life, which is not tested, so neither are we to admit an untested semblance; but to say, “Stop; let me see what you are, and whence you come,” just as the police say, “Show me your pass.” “Have you that indorsement from Nature which is necessary to the acceptance of every semblance?”
+
+In short, whatever things are applied to the body by those who train it, so may these be used in our training if they any way affect desire or aversion. But if this be done for mere ostentation, it belongs to one who looks and seeks for something external, and strives for spectators to exclaim, “What a great man!” Hence Apollonius said well, “If you have a mind to train yourself for your own benefit, when you are choking with heat, take a little cold water in your mouth, and spit it out again, and hold your tongue.”

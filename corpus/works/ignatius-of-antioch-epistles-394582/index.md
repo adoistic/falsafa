@@ -4,7 +4,10 @@ slug: "ignatius-of-antioch-epistles-394582"
 title: Epistles
 author:
   name: Ignatius of Antioch
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Early Christian bishop of Antioch in Syria and one of the Apostolic Fathers, martyred at Rome under Trajan. The seven letters he wrote en route to execution are primary sources for early church order and Christology.
+  birth_year: 35
+  death_year: 108
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

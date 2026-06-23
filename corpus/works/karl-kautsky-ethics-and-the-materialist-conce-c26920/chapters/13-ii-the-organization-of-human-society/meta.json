@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-ethics-and-the-materialist-conce-c26920",
+  "work_title": "Ethics and the Materialist Conception of History",
+  "chapter_number": 13,
+  "chapter_title": "II. The Organization of Human Society",
+  "chapter_slug": "13-ii-the-organization-of-human-society",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f8267c12-139b-5df1-b9c4-ec3d7a46825f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3571,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1906/ethics/ch05.htm"
+    }
+  ]
+}

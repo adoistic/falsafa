@@ -1,0 +1,29 @@
+---
+work_id: "c3b02db6-e5c0-5b88-8e4f-0f154eb80580"
+work_slug: "jacob-viner-studies-in-the-theory-of-interna-c3b02d"
+work_title: Studies in the Theory of International Trade
+author_name: Jacob Viner
+chapter_number: 14
+chapter_title: IV. Qualifications Conceded by the Bullionists
+chapter_slug: "14-iv-qualifications-conceded-by-the-bullionists"
+variant_id: "fd3b1026-60e2-5b24-a7a6-46395d9edce7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 823
+source_url: "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+translator: Online Library of Liberty edition
+---
+
+The bullionists were prepared to make several qualifications to this reasoning and therefore to concede that the existence of a premium on bullion over paper, or of a discount of sterling exchange from metallic parity, was not an absolute proof of excess issue, and was strong presumptive evidence of excess issue only if it was substantial and prevailed for a considerable period of time.
+
+There was first the question as to whether the price of gold or the price of silver bullion should be taken as the test. Since the bullionist comparison was always with the amount of circulation possible under the metallic standard prevailing in 1797, and since it was generally, though not universally, agreed that England had then been in fact on a gold standard basis, the bullionists preferred to use the price of gold as their test. There were fairly substantial variations in the relative prices of gold and silver on the English market, and therefore also in the extent of the premiums over paper which they respectively commanded. But as during this period a substantial premium on the one was always accompanied by a substantial premium on the other, it did not matter for practical purposes which was taken as the test of the existence of excess currency, although it would have mattered if what were in question was the degree of excess.
+
+Secondly, when the bullionists used the exchange rates as an alternative or supplementary test of the existence of depreciation, they conceded that since even under a metallic standard the exchanges could fall below the mint parity to the limit of the cost of shipping bullion, a fall in the exchanges which did not go beyond this limit was not proof that there was excess of currency under inconvertibility. Moreover, whereas England had been on a gold standard basis prior to the Restriction, Hamburg, Amsterdam, and Paris, the most important quotation points for the exchanges during the Restriction, were on a silver standard basis. Ricardo and other bullionists pointed out that since the relative values of gold and silver were not constant, the exchange parties between gold and silver currencies also were not constant, and that in computing the deviation of, say, the London-Hamburg exchange from parity it was necessary to make allowance for any alteration in the relative market values of the two metals. But the general trend of the price of silver as compared to gold was downward during the later stage of the controversy, and Ricardo pointed out that comparisons of the trend of the Hamburg exchange during the Restriction period which used the prevailing rate before the Restriction as the base therefore underestimated the extent of the real fall in the exchange value of English paper currency in terms of gold bullion abroad.
+
+Thirdly, even before 1797, English gold coin, or bullion derived therefrom, was not legally exportable, and at a time when the exchanges were against England exportable bullion would command a premium over its mint price in coin or in paper. Ricardo and other bullionists insisted, however, that the prohibition of export of English coin or bullion could not be successfully enforced and that a small premium would in practice suffice to compensate for the risks involved in melting and false swearing, or in smuggling English bullion out of the country. They conceded that a premium on gold not exceeding this risk-premium was not necessarily indicative of excess. Bullion also could command a premium over coin and paper even under convertibility if the coinage was generally underweight as compared to its nominal standard, and for this also the bullionists were willing to make allowances. But the gold coinage was in good condition in 1797, and only a minor allowance was called for on this account. The bullionists tended to agree that 5 per cent premium on gold was ample allowance for both these factors, and it seems that in the years prior to 1797 the premium on gold at no time exceeded this except in isolated and special transactions.
+
+Fourthly, the bullionists recognized that the substitution in England of paper for gold and the export of the displaced gold would tend to result in a rise of prices in other countries in terms of gold, and that England could share in this rise of prices, and could therefore circulate a greater quantity of currency than before, other things remaining the same, without suffering a premium on gold or fall in the exchanges. They did not attach any importance to this factor, however, presumably on the ground that any such release of gold would be negligible in comparison to the world supply. Since to the extent that this consideration had weight it would tend to make the bullionists' tests of excess as they defined it too generous rather than too exacting, the anti-bullionists also made no use of it, although it became an important element in the controversy of the deflation period.

@@ -4,7 +4,8 @@ slug: "martyrium-polycarpi-the-martyrdom-of-polycarp-c4b450"
 title: The Martyrdom of Polycarp
 author:
   name: Martyrium Polycarpi
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Anonymous early Christian account, framed as a letter from the church of Smyrna recording the death of its bishop Polycarp. The text is the earliest surviving Christian martyr narrative outside the New Testament.
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

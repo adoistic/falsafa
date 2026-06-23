@@ -1,0 +1,40 @@
+---
+work_id: "32299d14-2ed9-5fdb-b91c-549a6a447dd1"
+work_slug: "dio-chrysostom-orations-32299d"
+work_title: Orations
+author_name: Dio Chrysostom
+chapter_number: 65
+chapter_title: Oration 86
+chapter_slug: "65-oration-86"
+variant_id: "645b02b1-6e1f-56cf-b904-c0e3da4e58f8"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 1017
+translator: thothica
+---
+
+1. That the many are mastered by pleasure has perhaps its excuse; for, charmed and bewitched, they abide with her. But to be enslaved to grief is altogether unreasonable and astonishing. For, pained and tormented by the harshest torture of all, we abide in it, and the reasoning that would set us free and rid us of the anguish we do not admit. And yet, what is more abject than a man in grief? What spectacle so shameful? For the passion lays hold, I think, of the body too, and shrinks it, and renders it sullen and unsightly to behold.
+
+2. And not merely to yield to the rush of the mind, but to contrive in addition certain outward things—such as black raiment and the wringing of hands and low seats—so that by all these one is in a manner compelled never to let the mind withdraw from its grief, but always to remember and to grieve, knowing full well that there will be some release from this and that there will not forever appear some cause for the passion: is this not exceedingly silly?
+
+3. For either the death of a kinsman grieves us, or the illness of one of them, or our own; and besides these, loss of repute, the loss of money, the failure to accomplish some undertaking or to do it as it ought, want of leisure, danger, and a thousand other things that befall us in life—and it is well-nigh inevitable that some one of these should always be present.
+
+4. And finally, if ever there comes a time in which nothing disagreeable confronts us, yet the very expectation of these things, and the knowledge that they may come to pass, will fasten upon the mind of men so disposed. We must not, then, make our consolation against each of them—for that is an endless business, and life is full of grief—but, having wholly removed the passion from the soul and judged this firmly, that the man of sense ought not to grieve about anything, thereafter to live as a free man; and there will be immunity from all that is grievous. For nothing is in itself terrible, but it becomes so through opinion and our own weakness.
+
+5. The many, at any rate, if any of the things reckoned untoward befall them, ever remember it, the memory being disagreeable—suffering, indeed, something like what little children do. For they too are eager to touch the fire, and although they are in great pain, if you let them go they will touch it again.
+
+6. As, then, for those going out to war there is no benefit if, having advanced naked, they then wish to dodge each of the missiles borne against them—for it is not possible to ward off all—but there is need of a stout breastplate and the rest of the panoply, so that, even if something strike, it may not pass through; in the same way, for those who have advanced into life it is not possible to dodge nor to ward off so as to be struck by none of the blows of fortune, since countless ones are borne against each man—but there is need of a strong mind, above all one unwounded and yielding to nothing, or, failing that, at least one not easily wounded nor by any chance blow; since often one must needs be pricked and receive countless wounds.
+
+7. For those, too, who have feet soft and entirely uncalloused, and then walk on them bare, will never find a road such that they are not pricked nor pained, but even a chance thing touches them; whereas to those who have trained themselves not even the very rough road is hard. So many, then, being the disagreeable things, beginning with the body, what is one to expect, or how is it possible, perceiving each of these and easily yielding, not to be the most ill-fortuned of all men, ever praying to the gods that this or that may not befall—
+
+8. just as if a man, journeying in a rainstorm, should have no covering, but should pray only to escape each of the raindrops?—for the disagreeable things from fortune are far more continuous than the raindrops—or, by Zeus, as if a man at sea, instead of attending to the helm and meeting well what falls upon him, should pray that none of the waves come against the ship? For come now, you foolish man, even if all else go for you according to your wish, yet what assurance have you of living into the coming day, and of not being snatched away, all at once, in the very midst of all the things reputed good? You ought, then, to grieve and fear first of all about this—the uncertainty of the matter.
+
+9. But if you reflect upon this—that no one at all is master of his life, but that all who were reckoned blessed and exceedingly happy have died, and that this same end is already at hand for you, even should you reach the utmost limit of life—you will count it great folly and great silliness to suppose that any of the things that happen is at all terrible or great or astonishing, save this one thing only: to pass even a single day apart from grief and fear and such passions.
+
+10. They say that Jason, having anointed himself with a certain potion, which he got from Medea, suffered then nothing, I think, either from the dragon or from the bulls that breathed fire. This power, then, we must acquire from Medea—that is, from prudence—and, having received it, thereafter despise all things. Otherwise, all is fire for us, and all are sleepless dragons.
+
+11. And yet each of those who grieve says that what has befallen him is the most terrible and most worthy of grief; just as each of those who carry burdens thinks that what he carries is the heaviest. But this is the mark of a weak and base body; for the same load another man, being stronger, would carry easily.

@@ -1,0 +1,23 @@
+---
+work_id: "32299d14-2ed9-5fdb-b91c-549a6a447dd1"
+work_slug: "dio-chrysostom-orations-32299d"
+work_title: Orations
+author_name: Dio Chrysostom
+chapter_number: 37
+chapter_title: Oration 54
+chapter_slug: "37-oration-54"
+variant_id: "bafbc6fc-3075-5fa5-965b-36cc31578590"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 414
+translator: thothica
+---
+
+1. Hippias of Elis and Gorgias of Leontini and Polus and Prodicus, the sophists, flourished for a time in Hellas and met with marvellous fame, not only in the other cities but also at Sparta and among the Athenians, and they gathered much money, publicly from the cities and from certain dynasts and kings and private men, according to the means each had. And they spoke many discourses, but ones holding no sense, not even a little — by which, I think, it is possible to procure money and to please foolish men.
+2. But another man, an Abderite, so far from receiving money from others, even spent his own substance, which was considerable, and ruined it by philosophizing — insensibly, that is plain, and seeking things of which there was no profit to him. And Socrates too was at Athens a poor man and of the common sort, yet he likewise, though pressed by poverty, took nothing; and that, though he had a wife who did not hate money, and children needing maintenance; and he is said to have associated with the wealthiest of the young men, some of whom, they say, spared him absolutely nothing.
+3. But in other respects he was sociable in his manner and humane, and offered himself to those who wished to approach and converse with him — passing most of his time about the market-place, and going into the wrestling-schools, and sitting by the banking-tables (just as those who display cheap wares in the market-place and carry them round to the doors), in case anyone, younger or older, should wish to ask anything and to hear. Now most of the powerful men and the orators pretended not even to see him; but whoever did approach, like those who have stubbed their foot, soon departed in pain.
+4. But, indeed, of those admired sophists the discourses have failed, and there is nothing but the names alone; whereas those of Socrates, I know not how, endure and will endure through all time — though this very man wrote and left behind neither treatise nor will. For the man died intestate of both his wisdom and his money. But he had no estate to be confiscated, as is wont to happen in the case of the condemned; his discourses, however, were in truth confiscated — not, by Zeus, by enemies, but by his friends; yet nonetheless, even now, though they are conspicuous and honoured, few understand and partake of them.

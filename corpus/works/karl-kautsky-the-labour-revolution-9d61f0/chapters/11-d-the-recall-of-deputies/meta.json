@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-labour-revolution-9d61f0",
+  "work_title": "The Labour Revolution",
+  "chapter_number": 11,
+  "chapter_title": "(d) The Recall of Deputies",
+  "chapter_slug": "11-d-the-recall-of-deputies",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c3dfe7ae-2821-5f0d-a016-4ddc177220ae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 768,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1924/labour/ch02_c.htm"
+    }
+  ]
+}

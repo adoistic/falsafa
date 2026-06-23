@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-natural-law-or-the-science-of-ju-a93a80"
 work_title: Natural Law, or the Science of Justice
 author_name: Lysander Spooner
 chapter_number: 12
-chapter_title: Section VIII.
+chapter_title: "Chapter III.: Natural Law Contrasted with Legislation, Section IV."
 chapter_slug: 12
 variant_id: "887fa396-6b93-5765-945b-da9a1e67f531"
 content_type: translation
@@ -13,9 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 88
+word_count: 291
 source_url: "https://oll.libertyfund.org/titles/spooner-natural-law-or-the-science-of-justice-1882"
 translator: Online Library of Liberty edition
 ---
 
-If there be in nature such a principle as justice, it is necessarily the only political principle there ever was, or ever will be. All the other so-called political principles, which men are in the habit of inventing, are not principles at all. They are either the mere conceits of simpletons, who imagine they have discovered something better than truth, and justice, and universal law; or they are mere devices and pretences, to which selfish and knavish men resort as means to get fame, and power, and money.
+What, then, is legislation? It is an assumption by one man, or body of men, of absolute, irresponsible dominion over all other men whom they can subject to their power. It is the assumption by one man, or body of men, of a right to subject all other men to their will and their service. It is the assumption by one man, or body of men, of a right to abolish outright all the natural rights, all the natural liberty of all other men; to make all other men their slaves; to arbitrarily dictate to all other men what they may, and may not, do; what they may, and may not, have; what they may, and may not, be. It is, in short, the assumption of a right to banish the principle of human rights, the principle of justice itself, from off the earth, and set up their own personal will, pleasure, and interest in its place. All this, and nothing less, is involved in the very idea that there can be any such thing as human legislation that is obligatory upon those upon whom it is imposed.
+
+Sir William Jones, an English judge in India, and one of the most learned judges that ever lived, learned in Asiatic as well as European law, says: “It is pleasing to remark the similarity, or, rather, the identity, of those conclusions which pure, unbiassed reason, in all ages and nations, seldom fails to draw, in such juridical inquiries as are not fettered and manacled by positive institutions.”—Jones on Bailments, 133.
+
+He means here to say that, when no law his been made in violation of justice, judicial tribunals, “in all ages and nations,” have “seldom” failed to agree as to what justice is.

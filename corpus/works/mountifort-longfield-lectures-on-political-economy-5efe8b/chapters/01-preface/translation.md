@@ -4,7 +4,7 @@ work_slug: "mountifort-longfield-lectures-on-political-economy-5efe8b"
 work_title: Lectures on Political Economy
 author_name: Mountifort Longfield
 chapter_number: 1
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "01-preface"
 variant_id: "b8d8cd92-89e9-5d5c-81d3-bb2afc9f4eec"
 content_type: translation

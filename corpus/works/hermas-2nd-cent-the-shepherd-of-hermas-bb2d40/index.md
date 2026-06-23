@@ -4,7 +4,7 @@ slug: "hermas-2nd-cent-the-shepherd-of-hermas-bb2d40"
 title: The Shepherd of Hermas
 author:
   name: Hermas, 2nd cent.
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Early Christian author of Rome, traditionally placed in the second century, of whom little is known beyond the text. The Shepherd of Hermas is an apocalyptic and ethical work that circulated widely and was nearly admitted to the New Testament canon.
 era: Imperial
 genre: Classics
 language: Greek

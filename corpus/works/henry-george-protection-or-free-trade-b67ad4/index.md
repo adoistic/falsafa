@@ -4,13 +4,17 @@ slug: "henry-george-protection-or-free-trade-b67ad4"
 title: Protection or Free Trade
 author:
   name: Henry George
-  biography: Henry George (1839–1897).
+  biography: "American political economist and journalist, founder of the single-tax movement. Progress and Poverty argued that economic rent on land was the root of inequality and became the best-selling economics book of its century."
+  birth_year: 1839
+  death_year: 1897
+  nationality: American
 era: 19th Century
 genre: Economics
 language: English
 language_direction: ltr
 description: "Protection or Free Trade, by Henry George (1839–1897), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1886
 total_logical_chapters: 31
 total_variant_entries: 31
 thothica_role: catalog
@@ -22,34 +26,34 @@ Protection or Free Trade, by Henry George (1839–1897), a public-domain text fr
 
 ## Chapters
 
-01. [PREFACE.](./chapters/01-preface/) — prose, 1 variant
-02. [Chapter I INTRODUCTORY.](./chapters/02/) — prose, 1 variant
-03. [Chapter II CLEARING GROUND.](./chapters/03/) — prose, 1 variant
+01. [Preface.](./chapters/01-preface/) — prose, 1 variant
+02. [Chapter I Introductory.](./chapters/02/) — prose, 1 variant
+03. [Chapter II Clearing Ground.](./chapters/03/) — prose, 1 variant
 04. [Chapter III OF METHOD.](./chapters/04/) — prose, 1 variant
-05. [Chapter IV PROTECTION AS A UNIVERSAL NEED.](./chapters/05/) — prose, 1 variant
-06. [Chapter V THE PROTECTIVE UNIT.](./chapters/06/) — prose, 1 variant
+05. [Chapter IV Protection as a Universal Need.](./chapters/05/) — prose, 1 variant
+06. [Chapter V the Protective Unit.](./chapters/06/) — prose, 1 variant
 07. [Chapter VI TRADE.](./chapters/07/) — prose, 1 variant
-08. [Chapter VII PRODUCTION AND PRODUCERS.](./chapters/08/) — prose, 1 variant
-09. [Chapter VIII TARIFFS FOR REVENUE.](./chapters/09/) — prose, 1 variant
-10. [Chapter IX TARIFFS FOR PROTECTION](./chapters/10/) — prose, 1 variant
-11. [Chapter X THE ENCOURAGEMENT OF INDUSTRY.](./chapters/11/) — prose, 1 variant
-12. [Chapter XI THE HOME MARKET AND HOME TRADE.](./chapters/12/) — prose, 1 variant
-13. [Chapter XII EXPORTS AND IMPORTS.](./chapters/13/) — prose, 1 variant
-14. [Chapter XIII CONFUSIONS ARISING FROM THE USE OF MONEY](./chapters/14/) — prose, 1 variant
-15. [Chapter XIV DO HIGH WAGES NECESSITATE PROTECTION?](./chapters/15/) — prose, 1 variant
-16. [Chapter XV OF ADVANTAGES AND DISADVANTAGES AS REASONS FOR PROTECTION.](./chapters/16/) — prose, 1 variant
-17. [CHAPTER XVI. THE DEVELOPMENT OF MANUFACTURES.](./chapters/17/) — prose, 1 variant
-18. [CHAPTER XVII. PROTECTION AND PRODUCERS.](./chapters/18/) — prose, 1 variant
-19. [CHAPTER XVIII. EFFECTS OF PROTECTION ON AMERICAN INDUSTRY.](./chapters/19/) — prose, 1 variant
-20. [CHAPTER XIX. PROTECTION AND WAGES.](./chapters/20/) — prose, 1 variant
-21. [Chapter XX THE ABOLITION OF PROTECTION.](./chapters/21/) — prose, 1 variant
-22. [Chapter XXI INADEQUACY OF THE FREE TRADE ARGUMENT.](./chapters/22/) — prose, 1 variant
-23. [Chapter XXII THE REAL WEAKNESS OF FREE TRADE.](./chapters/23/) — prose, 1 variant
-24. [Chapter XXIII THE REAL STRENGTH OF PROTECTION.](./chapters/24/) — prose, 1 variant
-25. [Chapter XXIV THE PARADOX.](./chapters/25/) — prose, 1 variant
-26. [Chapter XXV THE ROBBER THAT TAKES ALL THAT IS LEFT.](./chapters/26/) — prose, 1 variant
-27. [Chapter XXVI TRUE FREE TRADE.](./chapters/27/) — prose, 1 variant
-28. [Chapter XXVII THE LION IN THE WAY.](./chapters/28/) — prose, 1 variant
-29. [Chapter XXVIII FREE TRADE AND SOCIALISM.](./chapters/29/) — prose, 1 variant
-30. [Chapter XXIX PRACTICAL POLITICS.](./chapters/30/) — prose, 1 variant
-31. [Chapter XXX CONCLUSION.](./chapters/31/) — prose, 1 variant
+08. [Chapter VII Production and Producers.](./chapters/08/) — prose, 1 variant
+09. [Chapter VIII Tariffs for Revenue.](./chapters/09/) — prose, 1 variant
+10. [Chapter IX Tariffs for Protection](./chapters/10/) — prose, 1 variant
+11. [Chapter X the Encouragement of Industry.](./chapters/11/) — prose, 1 variant
+12. [Chapter XI the Home Market and Home Trade.](./chapters/12/) — prose, 1 variant
+13. [Chapter XII Exports and Imports.](./chapters/13/) — prose, 1 variant
+14. [Chapter XIII Confusions Arising from the Use of Money](./chapters/14/) — prose, 1 variant
+15. [Chapter XIV Do High Wages Necessitate Protection?](./chapters/15/) — prose, 1 variant
+16. [Chapter XV of Advantages and Disadvantages as Reasons for Protection.](./chapters/16/) — prose, 1 variant
+17. [Chapter XVI. The Development of Manufactures.](./chapters/17/) — prose, 1 variant
+18. [Chapter XVII. Protection and Producers.](./chapters/18/) — prose, 1 variant
+19. [Chapter XVIII. Effects of Protection on American Industry.](./chapters/19/) — prose, 1 variant
+20. [Chapter XIX. Protection and Wages.](./chapters/20/) — prose, 1 variant
+21. [Chapter XX the Abolition of Protection.](./chapters/21/) — prose, 1 variant
+22. [Chapter XXI Inadequacy of the Free Trade Argument.](./chapters/22/) — prose, 1 variant
+23. [Chapter XXII the Real Weakness of Free Trade.](./chapters/23/) — prose, 1 variant
+24. [Chapter XXIII the Real Strength of Protection.](./chapters/24/) — prose, 1 variant
+25. [Chapter XXIV the Paradox.](./chapters/25/) — prose, 1 variant
+26. [Chapter XXV the Robber That Takes All That Is Left.](./chapters/26/) — prose, 1 variant
+27. [Chapter XXVI True Free Trade.](./chapters/27/) — prose, 1 variant
+28. [Chapter XXVII the Lion in the Way.](./chapters/28/) — prose, 1 variant
+29. [Chapter XXVIII Free Trade and Socialism.](./chapters/29/) — prose, 1 variant
+30. [Chapter XXIX Practical Politics.](./chapters/30/) — prose, 1 variant
+31. [Chapter XXX Conclusion.](./chapters/31/) — prose, 1 variant

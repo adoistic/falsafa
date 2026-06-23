@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 105
-chapter_title: "CHAPTER IV: The Havre Programme and M. JaurÈ' Solutions"
+chapter_title: "Chapter V: Social and National Policy"
 chapter_slug: 105
 variant_id: "ab2c732a-77ce-5fa6-86a4-b9a882cee21c"
 content_type: translation
@@ -13,21 +13,13 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 202
+word_count: 126
 source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
 translator: Online Library of Liberty edition
 ---
 
-How many Socialist electors are there who accept the programme of the Havre Congress of 1880, as drawn up by Karl Marx and proposed by Jules Guesde? It is as follows:—
+While the Socialists declare at their Congresses, beginning with the Congress of Limoges, that they cannot ally themselves, even temporarily, with one of the sections of the Republican bourgeoisie, why do the members of the Radical Party desire to carry out a Socialist policy? Why does M. Clemenceau denounce the capitalist régime, which he “has attacked and is going to attack again,” and proclaim himself a “Socialist”? Why does he adopt as his programme a portion of the working programme of the Gotha and Erfurt Congresses, and of the Harve Congress in 1880, as drafted by Karl Marx and proposed by Jules Guesde and Paul Lafargue?
 
-“Whereas the emancipation of the producing class is that of all human beings, without distinction of sex or race; whereas the producers can only be free in so far as they are in possession of the means of production (lands, factories, shops, banks, credit, etc.):
+The programme of the Radical-Socialist Party, adopted by M. Clemenceau, is:—
 
-And whereas there are only two forms in which the means of production can belong to them:—
-
-Whereas,
-
-This collective appropriation can only be the issue of the revolutionary action of the producing class—or proletariat—organised as a distinct political party;
-
-Such an organisation should be promoted by all the means at the disposal of the proletariat, including universal suffrage, which is thus transformed from an instrument of deception into an instrument of emancipation;
-
-The French Socialist workers, in setting up as the object of their efforts the political and economic expropriation of the capitalist class and the return to collectivity of all the means of production, have decided, as a means of organisation and of warfare, to take part in the elections with the following platform:—
+Which of these should be sacrificed to the other?

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "p-d5bbf7",
+    "offset": 0,
+    "text": "Proportionality of real costs to money costs is an essential premise of the doctrine of comparative costs, but the existence of more than one factor of production, the use of the different factors in different proportions by different industries or by the same industry under different circumstances, and the absence of any objective and generally-accepted method of equating the “real” or subjective costs involved in the use of units of different productive factors, present formidable obstacles to the demonstration of the existence of any simple pattern of relationship between real and money costs. Must the doctrine of comparative costs therefore be abandoned, as some modern writers contend?"
+  },
+  {
+    "id": "p-2ae442",
+    "offset": 700,
+    "text": "It is remarkable how completely the early exponents of the doctrine of comparative costs were able to avoid discussing this fundamental issue without encountering hostile comment from opponents of the free-trade principle in whose support the doctrine was expounded. When the doctrine was formulated in terms of labor-time costs, this involved the implicit assumptions that prices were proportional to subjective labor costs, and that no other real costs were involved in the productive process, assumptions which clearly never commanded wide acceptance as conforming to reality. Those writers, who, like Senior and Cairnes, wrote in terms of the proportionality of prices to “labor and abstinence” costs, or who, like Bastable, Edgeworth, and Marshall, accepted money costs of production as proportional to the number of “units of productive power” used in the production of the respective commodities, and accepted the quantity of such units of productive power as a measure of the “real” costs involved in production, never explained how subjective costs associated with the use of different factors of production could be equated with one another. Although it is hard to believe that it was the first in fact, the earliest criticism of the doctrine of comparative costs along these lines that I have been able to find was by Lexis, in 1891. Lexis pointed out that the doctrine as expounded by Ricardo rested on labor-cost theory of value assumptions, and that these assumptions required for their validity the unlikely circumstances that labor and capital should in each country enter into the production of all commodities in uniform proportions."
+  },
+  {
+    "id": "p-db1de3",
+    "offset": 2353,
+    "text": "A few years later, Pareto, commenting on Cairnes's exposition of the doctrine, objected to the ambiguity of his treatment of the significant aspect of costs as “sacrifice,” and to his lumping together of “labor” and “abstinence” as if they were homogeneous quantities capable of summation. He claimed that the significant cost factors which determined prices and the allocation of resources among different employments were the individual “coῦts en ophélimité,” both direct and indirect, the “direct” costs being the “real” costs of the classical school and the “indirect” costs the utility from the consumption of the (best) alternative product B which must be forgone when product A is produced instead. The “indirect” costs of Pareto are therefore the subjective equivalent of the alternative product costs of recent neo-Austrian theorizing. Unlike the neo-Austrians, however, Pareto introduced the “indirect” costs into his analysis as a supplement to, instead of as a substitute for, the “real” or “direct” costs, although he attributed to the former a much greater importance in influencing economic behavior than to the latter. Also unlike the later writers who have introduced alternative product-cost theory into the theory of international trade as a correction of the comparative-cost theory in terms of real costs, Pareto succeeded in exposing a genuine error in the comparative-cost doctrine when expounded in terms of “direct” costs alone, namely, the error of giving no consideration to the indirect costs of exports to the extent that such exports are produced by land, or other factors, with which no “direct” costs are associated but which could otherwise have been used to produce other (or the same?) commodities for domestic consumption. The doctrine of comparative costs, to meet this criticism, would have to be restated in terms of “real” costs plus those indirect costs not already covered in the real-cost accounting."
+  },
+  {
+    "id": "p-4ae351",
+    "offset": 4298,
+    "text": "In the last few years the value theory assumptions of the doctrine of comparative costs have been subjected to extended criticism, most notably by Ohlin, Haberler, and Mason. Taussig, on the other hand, has defended the value assumptions of the doctrine as sufficiently in accordance with the facts to provide a substantial foundation for the conclusions made to rest thereon."
+  },
+  {
+    "id": "p-4603fc",
+    "offset": 4676,
+    "text": "Taussig concedes that the real costs or the “sacrifices” associated with labor and capital are “in their nature incommensurable,” as they are not, or are not in the same degree, as between different types of labor. He makes no attempt to reduce them to commensurability or to find a basis for restating the doctrine of comparative costs in terms of labor-plus-capital real costs. He attempts to show, however, that over a wide range of cases where labor and capital both enter into production, the presence of capital charges will not make the comparative money-cost ratios different from what they would be in the absence of capital charges. Where this is the case, then the course of trade—i.e., the commodities which each country imports or exports and the limiting ratios within which they can exchange for each other—will be the same as if there were no capital costs."
+  },
+  {
+    "id": "p-308a73",
+    "offset": 5551,
+    "text": "Taussig succeeds in showing that there are many cases in which the introduction of capital costs, although it changes absolute money costs or even relative money costs within a country, leaves comparative money costs the same as they would be if there were no capital costs. All of these cases fall under one general category, however, where, assuming that there are no other expenses at the margin except wages and interest, the ratio between the percentages of wage (or interest) expense to total marginal expense for the two commodities is the same in both countries."
+  },
+  {
+    "id": "p-b7258d",
+    "offset": 6123,
+    "text": "Let the two commodities be designated by a and b, respectively, the two countries by 1 and 2 respectively, wage cost at the margin by w, capital cost at the margin by c, and total marginal cost per unit by t. Then:"
+  },
+  {
+    "id": "p-17c792",
+    "offset": 6339,
+    "text": "In order that the course of trade shall not be altered by the introduction of capital costs, as compared to what it would be if there were only wages costs, then the following equation must hold:"
+  },
+  {
+    "id": "p-61a7f5",
+    "offset": 6536,
+    "text": "But equation (2) will hold only when the following equation, which can be derived from equation (2), will hold:"
+  },
+  {
+    "id": "p-c375f7",
+    "offset": 6649,
+    "text": "i.e., equation (2) will hold only when the ratio between the percentages of wage expense to total expense in the production of the two commodities in country 1 is equal to the corresponding ratio in country 2. It is obvious that, even if the interest rate is not different in the two countries, there will be many cases in which equation (3) will not hold."
+  },
+  {
+    "id": "p-7c66ae",
+    "offset": 7007,
+    "text": "Since there are fairly substantial differences in interest rates between countries, and since even if interest rates were internationally uniform there would still be possibilities of divergence between comparative total money costs, on the one hand, and comparative wage (and real labor) costs, on the other, it would appear that the doctrine of comparative costs in terms of labor costs is subject to serious modification when account is taken of the participation of capital in the productive process. Taussig does not deny the existence of this logical difficulty for the doctrine of comparative costs in terms of labor costs, but claims, on empirical grounds, that its significance is limited:"
+  },
+  {
+    "id": "p-2deb08",
+    "offset": 7707,
+    "text": "The quantitative importance of the capital charge factor in international trade is probably not great. As the whole tenor of the preceding exposition indicates, the range of its influence is restricted to a special set of circumstances. Within that range, its influence is further limited by the absence of wide inequalities in the rate of return on capital. Interest, while it does vary somewhat from country to country, does not vary widely between the leading countries of western civilization; and it is in the trade between these, and in the competition between them for trade with other countries, that the interest factor is most likely to enter with its independent and special effects ... we are justified in concluding that this element in the economic situation, like the element of persistent differences in wages to different workers, does not lead to a radical modification of our first conclusions."
+  },
+  {
+    "id": "p-4c8f71",
+    "offset": 8622,
+    "text": "It would not be seriously contended by anyone today—if ever—that the doctrine of comparative costs in terms of labor costs lays down an exact and universally applicable rule of policy, any deviation from which necessarily involves national loss. It could still be held that the doctrine provides a generally valid rule of policy, to be departed from only upon clear demonstration in particular instances that there exist special circumstances which make the rule inapplicable in those circumstances, if for most products entering into foreign trade wages costs were so predominant a part of the total costs that the differences as between different products in the percentages of wages costs to total costs were narrowly limited in range. Ohlin counters this mode of defense of Taussig's position by citing the range of capital per worker in manufacturing industries in the United States from $10,000 in the chemical industry to $1700 in the tobacco industry. This is not, however, as crushing a rebuttal as it seems to be. The significant ratios for the labor-cost version of the doctrine of comparative costs are between the proportion of wages costs to total costs, and not between the amounts of capital used per laborer. Assuming that interest and wages shown as such on the books of the particular industries are the only costs, assuming further that the interest rate is 5 per cent per annum and the average annual wages per laborer $1200, the data cited by Ohlin show a range of percentages of wages cost to total cost of from 70 per cent to 93 per cent. If wages cost never fell below 70 per cent of total cost, a trade policy which accepted labor costs as the only real costs, money costs as a rough but ordinarily adequate index of comparative wages cost, and wages cost as a rough but ordinarily adequate index of comparative real cost, would not go far wrong."
+  },
+  {
+    "id": "p-c8d806",
+    "offset": 10496,
+    "text": "Ohlin also cites estimates of the value of output per 1000 hours of labor in American industry ranging from $548 in the yarn and thread industry to $10,870 in the die and punch industry, with the implication that the disparity is due to the much greater role of capital in some industries than in others. Such estimates, it may safely be taken for granted, are based on the accounts of the concerns which carry out the final stages of production of the enumerated commodities, and therefore do not include in the labor costs of these commodities the labor ingredients in the expenditures of these concerns for materials, equipment, transportation, building rent, capital equipment, and even taxes, insurance, and banking services charged as “interest.” The apparent ratio of wages costs to total costs of automobiles will be much higher if calculated from the accounts of an integrated concern producing the automobiles from the materials stage to the finished car stage than if computed from the accounts of an assembly plant. In the same manner, interest charges are concealed in the costs of materials, etc. If calculations of ratios of wages cost to total cost are to be used to test the validity of the doctrine of comparative costs in terms of labor costs, they must either include the element of wages for past labor contained in materials and other expenses, or, a more practicable and more relevant procedure, they must be made only for specified stages or segments of the productive processes of the various commodities, and must be based on comparisons of wages costs to “value added by manufacture” rather than to gross value of the product. Ohlin maintains that the “orthodox” theory considers only current, not past labor. If this were so, it would be an obvious error which should not be incorporated in one's own analysis. But whether we take Ricardo or Taussig as the authoritative exponent of the “orthodox” theory, past labor costs are included in the labor costs of that theory. Whatever properly computed data would show, the data offered by Ohlin inflict no serious damage on the doctrine of comparative costs in terms of labor costs."
+  },
+  {
+    "id": "p-4f6aba",
+    "offset": 12654,
+    "text": "The plight of the comparative-cost doctrine appears still less serious, moreover, if it is granted, as I believe it must, that a real-cost theory of value should provide for real capital costs as well as for labor costs. If interest charges are different fractions of total expenses in different industries, then if money costs were to be proportional to real costs they could not be proportional to labor costs alone. Specialization in accordance with money costs may still be in conformity with real costs if these include both labor and capital costs, even when it is clearly not in conformity with labor costs alone. The logical difficulty for the doctrine of comparative costs created by interest charges is not that they can be shown to result in a deviation of money costs from real costs, but rather that there is no satisfactory way of showing whether money costs which include both wages and interest costs do or do not conform to real costs."
+  },
+  {
+    "id": "p-89ddfb",
+    "offset": 13608,
+    "text": "It must be conceded, therefore, that the existence of variable proportions between labor costs and capital costs and the absence of any procedure by which a bridge can be built between real labor costs and the subjective costs connected with capital or “waiting” makes it impossible to postulate a close relationship between prices and real costs, and restricts the case for trade on the basis of cost analysis to the proposition that in so far as such relationship can be traced the analysis as a general rule points conclusively to the profitability of trade. The area of doubt can be still further narrowed by cost analysis where it can be shown that all of the technical coefficients of domestic production of a particular commodity are higher than the corresponding technical coefficients of the export commodities in exchange for which the commodity in question would be obtained under free trade, or where, if most, but not all, of the technical coefficients of domestic production are higher, those which are lower can be regarded as of minor importance and those which are lower can be regarded as of minor importance and those which are higher are much higher and those which are lower are little lower. The case for free trade can be still further strengthened by resort to analysis from the side of income instead of cost, as will be shown in the next section of this chapter and in the next chapter. Before I proceed to the income side of the picture, it will be convenient, however, to examine still another method of cost analysis which, on the surface, seems to dispose of the complications for a real-cost theory of value resulting from the use of different factors of production in variable proportions."
+  },
+  {
+    "id": "p-a747d6",
+    "offset": 15331,
+    "text": "Given effective occupational mobility of the factors and equal attractiveness of the occupations, each factor will tend to be apportioned among the various employments until its marginal value productivity in each is equal, i.e., until the prices of the different commodities are proportional to their marginal real costs in terms of any single factor, which corresponds with their marginal single technical coefficients. Let x1, x2, be the outputs of commodities 1 and 2; let y1, y2, be the total amounts of labor-time used in the production of x1, x2, respectively, z1, z2, be the total amounts of “capital-waiting” used in the production of x1 and x2, respectively; and let p1, p2, be the prices of commodities 1 and 2, respectively. Then"
+  },
+  {
+    "id": "p-934efa",
+    "offset": 16074,
+    "text": "will be the marginal costs of commodities 1 and 2, respectively, in terms of real labor costs, and"
+  },
+  {
+    "id": "p-98ec01",
+    "offset": 16174,
+    "text": "will be the marginal costs of commodities 1 and 2, respectively, in terms of real capital costs, and, under equilibrium, commodity units of equal price will have equal marginal real labor costs and equal marginal real capital costs, or:"
+  },
+  {
+    "id": "p-872a61",
+    "offset": 16412,
+    "text": "These marginal costs in terms of single factors have meaning, however, only with reference to changes in output so small that they can reasonably be assumed to be brought about by changes in the amount used of a single one of the factors. Substantial changes in output would normally be brought about by substantial changes in the amounts used of all, or of most, of the factors, when the significant marginal costs would be aggregates of a number of different factoral costs, instead of costs associated with one factor only. This approach, therefore, is inapplicable to substantial changes in the allocation of resources as between different industries, whereas significance can be attributed to the doctrine of comparative costs only as, and if, it is applicable to substantial changes in such allocation."
+  }
+]

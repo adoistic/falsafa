@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-capitalist-class-0f5376",
+  "work_title": "The Capitalist Class",
+  "chapter_number": 2,
+  "chapter_title": "I. Commerce and Credit",
+  "chapter_slug": "02-i-commerce-and-credit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "226309c5-6daa-5043-9f7d-4778afd71ebe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1660,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1911/cap-class/ch01.htm"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-on-the-happy-life-b43423",
+  "work_title": "On the Happy Life",
+  "chapter_number": 1,
+  "chapter_title": "On the Happy Life",
+  "chapter_slug": "01-on-the-happy-life",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "736b06e5-55c6-502c-af1e-dfe637ee8118",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7371,
+      "paragraph_count": 126,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0255.stoa014"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "229fa488-3b2e-5864-b9a8-0d542729b3bf",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11876,
+      "paragraph_count": 126,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

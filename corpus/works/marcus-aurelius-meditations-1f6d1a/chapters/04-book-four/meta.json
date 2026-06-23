@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-aurelius-meditations-1f6d1a",
+  "work_title": "Meditations",
+  "chapter_number": 4,
+  "chapter_title": "Book Four",
+  "chapter_slug": "04-book-four",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4b2eddc4-cdf5-58fc-9950-c1194b5f0b55",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2874,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0562.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b9df6a4d-52c7-5010-a894-b9e09115cceb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3977,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

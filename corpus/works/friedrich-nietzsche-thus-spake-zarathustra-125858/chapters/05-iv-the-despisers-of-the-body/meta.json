@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 5,
+  "chapter_title": "IV. The Despisers of the Body.",
+  "chapter_slug": "05-iv-the-despisers-of-the-body",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "82804179-2267-5bc4-8dbf-c48715cad4cf",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 544,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1fbc07f4-bb56-5436-85c9-49cf839874cb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 588,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

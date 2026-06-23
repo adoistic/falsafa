@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 39,
+  "chapter_title": "Argument, Sections. (23)",
+  "chapter_slug": "39-argument-sections-23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "562e2d8b-dbed-52fb-9b82-3e8ce5d53c63",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10937,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

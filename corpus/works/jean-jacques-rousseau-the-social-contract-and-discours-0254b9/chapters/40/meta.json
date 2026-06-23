@@ -2,7 +2,7 @@
   "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
   "work_title": "The Social Contract and Discourses",
   "chapter_number": 40,
-  "chapter_title": "CHAPTER XIV: the same (continued)",
+  "chapter_title": "Chapter XVI: that the institution of government is not a contract",
   "chapter_slug": "40",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 234,
-      "paragraph_count": 3,
+      "word_count": 453,
+      "paragraph_count": 7,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
     }

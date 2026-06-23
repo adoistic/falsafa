@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-l-becker-the-declaration-of-independence--454620",
+  "work_title": "The Declaration of Independence: A Study in the History of Political Ideas",
+  "chapter_number": 9,
+  "chapter_title": "Chapter V: The Literary Qualities of the Declaration",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a08da21-e6c3-58e4-b585-02bed7f91b1c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6362,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/becker-the-declaration-of-independence-a-study-on-the-history-of-political-ideas"
+    }
+  ]
+}

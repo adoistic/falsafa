@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-psychology-of-political-viol-bc3e12",
+  "work_title": "The Psychology of Political Violence",
+  "chapter_number": 1,
+  "chapter_title": "The Psychology of Political Violence",
+  "chapter_slug": "01-the-psychology-of-political-violence",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5a9f80e-2d82-559d-8bba-5d2c895f6b06",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7613,
+      "paragraph_count": 92,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1917/political-violence.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "michel-chevalier-society-manners-and-politics-in--18e414",
+  "work_title": "Society, Manners, and Politics in the United States",
+  "chapter_number": 43,
+  "chapter_title": "Seventh Centre. Saratoga.",
+  "chapter_slug": "43-seventh-centre-saratoga",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8745745c-5d18-5163-ae03-9ffa8004b3b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 210,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chevalier-society-manners-and-politics-in-the-united-states"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 41,
+  "chapter_title": "Sophism I.—: What men praise and celebrate, is good; what they dispraise and censure, evil",
+  "chapter_slug": "41-sophism-i-what-men-praise-and-celebrate-is-good-wh",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "af2e7ef1-de70-5485-ac54-72c54eaefcbd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 156,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

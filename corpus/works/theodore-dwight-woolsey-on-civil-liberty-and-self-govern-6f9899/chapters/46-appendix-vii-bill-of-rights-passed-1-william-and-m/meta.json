@@ -1,0 +1,26 @@
+{
+  "work_slug": "theodore-dwight-woolsey-on-civil-liberty-and-self-govern-6f9899",
+  "work_title": "On Civil Liberty and Self-Government",
+  "chapter_number": 46,
+  "chapter_title": "Appendix VII.: bill of rights, passed 1 william and mary, sess. 2, ch. 2, 1689, 1 w. & m., 1689.",
+  "chapter_slug": "46-appendix-vii-bill-of-rights-passed-1-william-and-m",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a71cc81-6bd3-5003-a752-5878bdd916ba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1886,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/woolsey-on-civil-liberty-and-self-government"
+    }
+  ]
+}

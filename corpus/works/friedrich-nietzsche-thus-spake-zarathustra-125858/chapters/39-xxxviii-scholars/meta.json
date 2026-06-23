@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 39,
+  "chapter_title": "XXXVIII. Scholars.",
+  "chapter_slug": "39-xxxviii-scholars",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4fd0db80-47d4-5dff-8a76-5f3f30b7f97c",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 589,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44e33571-7663-5604-87c3-6246d25837df",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 649,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

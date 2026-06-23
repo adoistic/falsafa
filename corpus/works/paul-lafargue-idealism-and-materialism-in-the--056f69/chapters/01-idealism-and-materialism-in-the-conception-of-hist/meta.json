@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-idealism-and-materialism-in-the--056f69",
+  "work_title": "Idealism and Materialism in the Conception of History",
+  "chapter_number": 1,
+  "chapter_title": "Idealism and Materialism in the Conception of History",
+  "chapter_slug": "01-idealism-and-materialism-in-the-conception-of-hist",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "de80a3a4-2b10-54c5-8b74-3323a6a97666",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1859,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1895/xx/idealism.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "lewis-henry-morgan-ancient-society-bab9c7",
+  "work_title": "Ancient Society",
+  "chapter_number": 1,
+  "chapter_title": "Foreword",
+  "chapter_slug": "01-foreword",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b31fdf56-f5a6-56d8-8fa0-0b8d7e332791",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1028,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/morgan-lewis/ancient-society/foreword.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-anarchism-or-socialism-1f9c3d",
+  "work_title": "Anarchism or Socialism?",
+  "chapter_number": 3,
+  "chapter_title": "II The Materialist Theory",
+  "chapter_slug": "03-ii-the-materialist-theory",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f334733-3e2d-58dd-bec4-07a900855aeb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4751,
+      "paragraph_count": 81,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1906/12/x01.htm"
+    }
+  ]
+}

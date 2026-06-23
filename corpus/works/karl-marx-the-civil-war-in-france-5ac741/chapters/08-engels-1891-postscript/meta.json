@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-the-civil-war-in-france-5ac741",
+  "work_title": "The Civil War in France",
+  "chapter_number": 8,
+  "chapter_title": "Engels 1891 Postscript",
+  "chapter_slug": "08-engels-1891-postscript",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "90b18546-3d96-5683-bfc8-031453df2af6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2506,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1871/civil-war-france/postscript.htm"
+    }
+  ]
+}

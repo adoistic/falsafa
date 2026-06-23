@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 6,
+  "chapter_title": "Method and Arrangement, or Subject of the Whole Work.",
+  "chapter_slug": "06-method-and-arrangement-or-subject-of-the-whole-wor",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "92907910-c4ed-5b1b-834d-a5b08caae3c6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1597,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

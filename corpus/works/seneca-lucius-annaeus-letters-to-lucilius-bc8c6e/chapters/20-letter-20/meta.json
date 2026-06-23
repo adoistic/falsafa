@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 20,
+  "chapter_title": "Letter 20",
+  "chapter_slug": "20-letter-20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3d0cb4ac-8409-5af3-a5e2-1b975d46dc02",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 606,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ff2a3cae-1809-5f95-b4ac-e6bdcb22169a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1080,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

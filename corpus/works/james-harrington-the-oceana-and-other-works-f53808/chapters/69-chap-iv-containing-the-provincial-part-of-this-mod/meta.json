@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 69,
+  "chapter_title": "Chap. IV.: Containing the Provincial Part of this Model, propos’d practicably.",
+  "chapter_slug": "69-chap-iv-containing-the-provincial-part-of-this-mod",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0a553d7-1c2c-58a8-bef9-431f5030de3a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3441,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

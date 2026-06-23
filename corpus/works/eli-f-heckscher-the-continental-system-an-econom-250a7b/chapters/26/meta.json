@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 26,
+  "chapter_title": "Chapter I.: Commercial War Before the Berlin Decree, Military War (1799-1802)",
+  "chapter_slug": "26",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "782c8532-ab75-57d0-92e4-48b8cdd4b1e4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 639,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

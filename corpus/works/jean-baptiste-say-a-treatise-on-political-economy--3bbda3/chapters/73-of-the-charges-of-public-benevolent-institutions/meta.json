@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 73,
+  "chapter_title": "Of the Charges of Public Benevolent Institutions.",
+  "chapter_slug": "73-of-the-charges-of-public-benevolent-institutions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dab16443-de3e-5658-bf46-74c1199e550c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1363,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

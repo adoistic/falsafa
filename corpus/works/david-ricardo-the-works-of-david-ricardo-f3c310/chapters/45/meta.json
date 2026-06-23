@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 45,
-  "chapter_title": "CHAPTER I.: PRELIMINARY OBSERVATIONS—MR BOSANQUET'S OBJECTIONS TO THE CONCLUSIONS OF THE BULLION COMMITTEE BRIEFLY STATE",
+  "chapter_title": "Section I.: Exchange with Hamburgh.",
   "chapter_slug": "45",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 937,
-      "paragraph_count": 11,
+      "word_count": 3447,
+      "paragraph_count": 40,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

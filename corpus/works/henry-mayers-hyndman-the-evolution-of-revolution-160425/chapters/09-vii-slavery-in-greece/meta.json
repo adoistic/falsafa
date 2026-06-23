@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 9,
+  "chapter_title": "VII. Slavery in Greece",
+  "chapter_slug": "09-vii-slavery-in-greece",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "20435ff9-a79a-5645-b445-e2ac98ddd08a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3858,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter07.htm"
+    }
+  ]
+}

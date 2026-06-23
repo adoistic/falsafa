@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-development-of-capitalism-in-4f48ed",
+  "work_title": "The Development of Capitalism in Russia",
+  "chapter_number": 60,
+  "chapter_title": "Chapter VI. Capitalist Manufacture and Capitalist Domestic Industry (6)",
+  "chapter_slug": "60",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a9df48e5-f790-533e-8035-ebea4b05b11a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 830,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1899/dcr8vi/vi8vi.htm"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 63,
+  "chapter_title": "LXII. The Cry of Distress.",
+  "chapter_slug": "63-lxii-the-cry-of-distress",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8bd8c47b-f638-5873-ad82-cb8141d1c504",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 1032,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d58c71dd-acd1-5d73-9b85-06f413075965",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1111,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

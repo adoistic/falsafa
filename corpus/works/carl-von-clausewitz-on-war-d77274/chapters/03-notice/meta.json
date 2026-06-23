@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 3,
+  "chapter_title": "Notice",
+  "chapter_slug": "03-notice",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "69d9ab87-f0ab-5031-af8d-5dd7970ae98b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 793,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/notice.htm"
+    }
+  ]
+}

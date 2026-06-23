@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 21,
+  "chapter_title": "Political Associations in The United States.",
+  "chapter_slug": "21-political-associations-in-the-united-states",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a552717e-8d5c-5e46-b692-45731ea59864",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3345,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch12.htm"
+    }
+  ]
+}

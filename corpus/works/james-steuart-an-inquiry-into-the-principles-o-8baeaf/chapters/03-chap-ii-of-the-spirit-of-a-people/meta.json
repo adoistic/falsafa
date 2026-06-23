@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 3,
+  "chapter_title": "Chap. II Of the Spirit of a People",
+  "chapter_slug": "03-chap-ii-of-the-spirit-of-a-people",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1b336505-01d3-5d3b-8511-44b69a0e91ed",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3059,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book1.htm"
+    }
+  ]
+}

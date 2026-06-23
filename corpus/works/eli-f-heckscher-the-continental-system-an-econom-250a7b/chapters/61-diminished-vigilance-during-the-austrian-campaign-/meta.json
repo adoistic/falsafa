@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 61,
+  "chapter_title": "Diminished Vigilance During the Austrian Campaign (1809)",
+  "chapter_slug": "61-diminished-vigilance-during-the-austrian-campaign-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "76e58789-24de-5175-b5e0-0e81b83447b3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 871,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

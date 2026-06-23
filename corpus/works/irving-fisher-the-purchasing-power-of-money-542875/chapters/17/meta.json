@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 17,
+  "chapter_title": "Chapter XIII: The Problem of Making Purchasing Power More Stable",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "daea8462-ae8f-5669-9915-5932ee71001c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8121,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ slug: "old-testament-zephaniah-6f6de1"
 title: Zephaniah
 author:
   name: Old Testament
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Anonymous and composite collection of Hebrew scriptures assembled over centuries by many hands and editors. The texts became the shared canon of Judaism and the first part of the Christian Bible.
 era: Hellenistic
 genre: Classics
 language: Greek

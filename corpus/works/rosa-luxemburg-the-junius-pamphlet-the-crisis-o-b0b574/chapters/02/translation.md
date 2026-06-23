@@ -1,0 +1,129 @@
+---
+work_id: "b0b574f8-abb9-58c3-b18a-fba6d27c9933"
+work_slug: "rosa-luxemburg-the-junius-pamphlet-the-crisis-o-b0b574"
+work_title: "The Junius Pamphlet: The Crisis of German Social Democracy"
+author_name: Rosa Luxemburg
+chapter_number: 2
+chapter_title: Chapter 2
+chapter_slug: 02
+variant_id: "53461d71-710f-5b17-9d58-1a00cfede946"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 4048
+source_url: "https://www.marxists.org/archive/luxemburg/1915/junius/ch02.htm"
+translator: Dave Hollis
+---
+
+“We are now facing the irrevocable fact of war. We are threatened by the horrors of invasion. The decision, today, is not for or against war; for us there can be but one question: by what means is this war to be conducted? Much, aye everything, is at stake for our people and its future, if Russian despotism, stained with the blood of its own people, should be the victor. This danger must be averted, the civilisation and the independence of our people must be safeguarded. Therefore we will carry out what we have always promised: in the hour of danger we will not desert our fatherland. In this we feel that we stand in harmony with the International, which has always recognised the right of every people to its national independence, as we stand in agreement with the International in emphatically denouncing every war of conquest. Actuated by these motives, we vote in favour of the war credits demanded by the Government.”
+
+With these words the Reichstag group issued the countersign that determined and controlled the position of the German working class during the war. Fatherland in danger, national defence, people’s war for existence, Kultur, liberty – these were the slogans proclaimed by the parliamentary representatives of the social democracy. What followed was but the logical sequence. The position of the party and the labour union press, the patriotic frenzy of the masses, the civil peace, the disintegration of the International, all these things were the inevitable consequence of that momentous orientation in the Reichstag.
+
+If it is true that this war is really a fight for national existence, for freedom, if it is true that these priceless possessions can be defended only by the iron tools of murder, if this war is the holy cause of the people, then everything else follows as a matter of course, we must take everything that the war may bring as a part of the bargain. He who desires the purpose must be satisfied with the means. War is methodical, organised, gigantic murder. But in normal human beings this systematic murder is possible only when a state of intoxication has been previously created. This has always been the tried and proven method of those who make war. Bestiality of action must find a commensurate bestiality of thought and senses; the latter must prepare and accompany the former. Thus the Wahre Jacob of August 28, 1914, with its brutal picture of the German thresher, the party papers of Chemnitz, Hamburg, Kiel, Frankfurt, Koburg and others, with their patriotic drive in poetry and prose, were the necessary narcotic for a proletariat that could rescue its existence and its liberty only by plunging the deadly steel into its French and English brothers. These chauvinistic papers are after all a great deal more logical and consistent than those others who attempted to unite hill and valley, war with humanity, murder with brotherly love, the voting for war credits with socialist internationalism.
+
+If the stand taken by the German Reichstag group on the fourth of August was correct, then the death sentence of the proletarian International has been spoken, not only for this war, but forever. For the first time since the modern labour movement exists there yawns an abyss between the commandments of international solidarity of the proletariat of the world and the interests of freedom and nationalist existence of the people; for the first time we discover that the independence and liberty of the nations command that working men kill and destroy each other. Up to this time we have cherished the belief that the interests of the peoples of all nations, that the class interests of the proletariat are a harmonious unit, that they are identical, that they cannot possibly come into conflict with one another. That was the basis of our theory and practice, the soul of our agitation. Were we mistaken in the cardinal point of our whole world philosophy? We are holding an inquest over international socialism.
+
+This world war is not the first crisis through which our international principles have passed. Our party was first tried forty-five years ago. At that time, on the twenty-first of July, 1870, Wilhelm Liebknecht and August Bebel made the following historical declaration before the Reichstag:
+
+“The present war is a dynastic war in the interest of the Bonaparte dynasty as the war of 1866 was conducted in the interest of the Hollenzollern dynasty.
+
+“We cannot vote for the funds which are demanded from the Reichstag to conduct this war because this would be, in effect, a vote of confidence in the Prussian government. And we know that the Prussian government by its action in 1866 prepared this war. At the same time we cannot vote against the budget, lest this be construed to mean that we support the conscienceless and criminal policies of Bonaparte.
+
+“As opponents, on principle, of every dynastic war, as socialist republicans and members of the International Workingmen’s Association which, without regard to nationality, has fought all oppressors, has tried to unite all the oppressed into a great band of brothers, we cannot directly or indirectly lend support to the present war. We therefore refuse to vote, while expressing the earnest hope that the peoples of Europe, taught by the present unholy events, will strive to win the right to control their own destinies, to do away with the present rule of might and class as the cause of all social and national evil.”
+
+With this declaration the representatives of the German proletariat put their cause clearly and unreservedly under the banner of the International and definitely repudiated the war against France as a national war of independence. It is well known that Bebel, many years later, in his memoirs, stated that he would have voted against the war loan had he known, when the vote was taken, the things that were revealed in the years that followed.
+
+Thus, in a war that was considered by the whole bourgeois public, and by a powerful majority of the people under the influence of Bismarckian strategy, as a war in the national life interest of Germany, the leaders of the German social democracy held firmly to the conviction that the life interest of a nation and the class interest of the proletariat are one, that both are opposed to war. It was left to the present world war and to the social democratic Reichstag group to uncover, for the first time, the terrible dilemma: either you are for national liberty – or for international socialism.
+
+Now the fundamental fact in the declaration of our Reichstag group was, in all probability, a sudden inspiration. It was simply an echo of the crown speech and of the chancellor’s speech of August 4. “We are not driven by the desire for conquest,” we hear in the crown speech, “we are inspired by the unalterable determination to preserve the land upon which God has placed us for ourselves, and for all coming generations. From the documents that have been presented to you, you will have seen how my government, and above all my chancellor strove, to the last, to avert the utmost. We grasp the sword in self-defence, with a clear conscience and a clean hand.” And Bethmann-Hollweg declared:
+
+“Gentlemen, we are acting in self-defence, and necessity knows no law. He who is threatened as we are threatened, he who is fighting for the highest aims can be guided by but one consideration, how best to beat his way out of the struggle. We are fighting for the fruits of our peaceful labour, for the heritage of our great past, for the future of our nation.”
+
+Wherein does this differ from the social democratic declaration? (1) We have done everything to preserve peace, the war was forced upon us by others. (2) Now that the war is here we must act in self-defence. (3) In this war the German people are in danger of losing everything. This declaration of our Reichstag group is an obvious rehashing of the government declaration. As the latter based their claims upon diplomatic negotiations and imperial telegrams, so the socialist group points to peace demonstrations of the social democracy before the war. Where the crown speech denies all aims of conquest, the Reichstag group repudiates a war of conquest by standing upon its socialism. And when the emperor and chancellor cry out, “We are fighting for the highest principles. We know no parties, we know only Germans,” the social democratic declaration echoes: “Our people risk everything. In this hour of danger we will not desert our fatherland.”
+
+Only in one point does the social democratic declaration differ from its government model: it placed the danger of Russian despotism in the foreground of its orientation, as a danger to German freedom. The crown speech says, regarding Russia: with a heavy heart I have been forced to mobilise against a neighbour with whom I have fought upon so many battlefields. With honest sorrow I have seen a friendship faithfully kept by Germany fall to pieces.” The social democratic group changed this sorrowful rupture of a true friendship with the Russian czar into a fanfare for liberty against despotism, used the revolutionary heritage of socialism to give to the war a democratic mantle, a popular halo. Here alone the social democratic declaration gives evidence of independent thought on the part of our social democrats.
+
+As we have said, all these things came to the social democracy as a sudden inspiration on the fourth of August. All that they had said up to this day, every declaration that they had made, down to the very eve of the war, was in diametrical opposition to the declaration of the Reichstag group. The Vorwärts wrote on July 25, when the Austrian ultimatum to Serbia was published: “They want the war, the unscrupulous elements that influence and determine the Wiener Hofburg. They want the war – it has been ringing out of the wild cries of the black-yellow press for weeks. They want the war – the Austrian ultimatum to Serbia makes it plain and clear to the world.
+
+“Because the blood of Franz Ferdinand and his wife flowed under the shots of an insane fanatic, shall the blood of thousands of workers and farmers be shed? Shall one insane crime be purged by another even more insane? ... The Austrian ultimatum may be the torch that will set Europe in flames at all four corners.
+
+“For this ultimatum, in its form and in its demands, is so shameless, that a Serbian government that should humbly retreat before this note, would have to reckon with the possibility of being driven out by the masses of the people between dinner and dessert ....
+
+“It was a crime of the chauvinistic press of Germany to egg on our dear ally to the utmost in its desire for war. And beyond a doubt, Herr von Bethmann-Hollweg promised Herr Berchtold our support. But Berlin is playing a game as dangerous as that being played by Vienna.”
+
+The Leipziger Volkszeitung wrote on July 24:
+
+“The Austrian military party has staked everything on one card, for in no country in the world has national and military chauvinism anything to lose. In Austria chauvinistic circles are particularly bankrupt; their nationalistic howls are a frantic attempt to cover up Austria’s economic ruin, the robbery and murder of war to fill its coffers ...”
+
+The Dresden Volkszeitung said, on the same day:
+
+“Thus far the war maniacs of the Wiener Ballplatz have failed to furnish proof that would justify Austria in the demands it has made upon Serbia. So long as the Austrian government is not in a position to do this, it places itself, by its provocative and insulting attacks upon Serbia, in a false position before all Europe. And even if Serbia’s guilt was proven, even if the assassination in Sarajevo had actually been prepared under the eyes of the Serbian government, the demands made in the note are far in excess of normal bounds. Only the most unscrupulous war lust can explain such demands upon another state... .”
+
+The Muenchener Post, on July 25, wrote:
+
+“This Austrian note is a document unequalled in the history of the last two centuries. Upon the findings of an investigation whose contents have, till now, been kept from the European public, without court proceedings against the murderer of the heir presumptive and his spouse, it makes demands on Serbia, the acceptance of which would mean national suicide to Serbia ...”
+
+The Schleswig-Holstein Volkszeitung declared, on the twenty-fourth of July:
+
+“Austria is provoking Serbia. Austria-Hungary wants war, and is committing a crime that may drown all Europe in blood ... Austria is playing va banque. It dares a provocation of the Serbian state that the latter, if it is not entirely defenceless, will certainly refuse to tolerate ...
+
+“Every civilized person must protest emphatically against the criminal behaviour of the Austrian rulers. It is the duty of the workers above all, and of all other human beings who honour peace and civilisation, to try their utmost to prevent the consequences of the bloody insanity that has broken out in Vienna.”
+
+The Magdeburger Volksstimme of July 25 said:
+
+“Any Serbian government that even pretended to consider these demands seriously would be swept out in the same hour by the parliament and by the people.
+
+“The action of Austria is the more despicable because Berchtold is standing before the Serbian government and before Europe with empty hands.
+
+“To precipitate a war such as this at the present time means to invite a world war. To act thus shows a desire to disturb the peace of an entire hemisphere. One cannot thus make moral conquests, or convince non-participants of one’s own righteousness. It can be safely assumed that the press of Europe, and with it the European governments, will call the vainglorious and senseless Viennese statesmen energetically and unmistakably to order.”
+
+On July 24 the Frankfurter Volksstimme wrote:
+
+“Upheld by the agitation of the clerical press, which mourns in Franz Ferdinand its best friend and demands that his death be avenged upon the Serbian people, upheld by German war patriots whose language becomes daily more contemptible and more threatening, the Austrian government has allowed itself to be driven to send an ultimatum to Serbia couched in language that, for presumptiousness, leaves little to be desired; containing demands whose fulfilment by the Serbian government is manifestly impossible.”
+
+On the same day the Elberfelder Freie Presse wrote:
+
+“A telegram of the semiofficial Wolff Bureau reports the terms of the demands made on Serbia by Austria. From these it may be gathered that the rulers in Vienna are pushing toward war with all their might. For the conditions imposed by the note that was presented in Belgrade last night are nothing short of a protectorate of Austria over Serbia. It is eminently necessary that the diplomats of Berlin make the war agitators of Vienna understand that Germany will not move a finger to support such outrageous demands, that a withdrawal of the threats would be advisable.”
+
+The Bergische Arbeiterstimme of Solingen writes:
+
+“Austria demands a conflict with Serbia, and uses the assassination at Sarajevo as a pretext for putting Serbia morally in the wrong. But the whole matter has been approached too clumsily to influence European public opinion.
+
+“But if the war agitators of the Wiener Ballplatz believe that their allies of the Triple Alliance, Germany and Italy, will come to their assistance in a conflict in which Russia, too, will be involved, they are suffering from a dangerous illusion. Italy would welcome the weakening of Austria-Hungary, its rival on the Adriatic and in the Balkans, and would certainly decline to burn its fingers to help Austria. In Germany, on the other hand, the powers that be – even should they be so foolish as to wish it – would not dare to risk the life of a single soldier to satisfy the criminal lust for power of the Habsburgers without arousing the fury of the entire people.”
+
+Thus the entire working-class press, without exception, judged the war’s causes a week before its outbreak. Obviously the question was one of neither the existence nor the freedom of Germany, but a shameful adventure of the Austrian war party; not a question of self-defence, national protection and a holy war forced upon us in the name of freedom, but a bold provocation, an abominable threat against foreign, Serbian independence and liberty.
+
+What was it that happened on August 4 to turn this clearly defined and so unanimously accepted attitude of the social democracy upside down? Only one new factor had appeared – the White Book that was presented to the Reichstag by the German government on that day. And this contained, on page 4, the following:
+
+“Under these circumstances Austria must say to itself that it is incompatible with the dignity and the safety of the monarchy to remain inactive any longer in the face of the occurrences across the border. The Austrian imperial government has notified us of this, their attitude, and has begged us to state our views. Out of a full heart we could but assure our ally of our agreement with this interpretation of conditions and assure him that any action that would seem necessary to put an end to Serbian attempts against the existence of the Austrian monarchy would meet with our approval. We fully realised that eventual war measures undertaken by Austria must bring Russia into the situation and that we, in order to carry out our duty as ally, might be driven into war. But we could not, realising as we did that the most vital interests of Austria-Hungary were threatened, advise our ally to adopt a policy of acquiescence, that could not possibly be brought into accord with its dignity, nor could we refuse to lend our aid in this attitude.
+
+“And we were particularly prevented from taking this stand by the fact that the persistent subversive Serbian agitation seriously jeopardised us. If the Serbians had been permitted, with the aid of Russia and France, to continue to threaten the existence of the neighbouring monarchy, there would have ensued a gradual collapse of Austria and a subjection of all the Slavic races under the Russian sceptre, which would have rendered untenable the situation of the Germanic race in Central Europe. A morally weakened Austria, succumbing before the advance of Russian Pan-Slavism, would no longer be an ally on which we could count and depend, as we are obliged to do in view of the increasingly menacing attitude of our neighbours to the East and to the West. We therefore gave Austria a free hand in her proceedings against Serbia. We have had no share in the preparations.”
+
+These were the words that lay before the social democratic Reichstag group on August 4, the only important and determining phrases in the entire White Book, a concise declaration of the German government beside which all other yellow, grey, blue, orange books on the diplomatic passages that preceded the war and its most immediate causes become absolutely irrelevant and insignificant. Here the Reichstag group had the key to a correct judgment of the situation in hand. The entire social democratic press, a week before, had cried out that the Austrian ultimatum was a criminal provocation of the world war and demanded preventive and pacific action on the part of the German government. The entire socialist press assumed that the Austrian ultimatum had descended upon the German government like a bolt from the blue as it had upon the German public.
+
+But now the White Book declared, briefly and clearly:
+
+All of this our Reichstag group learned on August 4. And still another fact it learned from the government – that German forces already had invaded Belgium. And from all this the social democratic group concluded that this is a war of defence against foreign invasion, for the existence of the fatherland, for “Kultur,” a war for liberty against Russian despotism.
+
+Was the obvious background of the war, and the scenery that so scantily concealed it, was the whole diplomatic performance that was acted out at the outbreak of the war, with its clamour about a world of enemies, all threatening the life of Germany, all moved the one desire to weaken, to humiliate, to subjugate the German people and nation – were all these things such a complete surprise? Did these factors actually call for more judgment, more critical sagacity than they possessed? Nowhere was this less true than of our party. It had already gone through two great German wars, and in both of them had received memorable lessons.
+
+Even a poorly informed student of history knows that the war of 1866 against Austria was systematically prepared by Bismarck long before it broke out, and that his policies, from the very beginning, led inevitably to a rupture and to war with Austria. The crown prince himself, later Emperor Frederick, in his memoirs under the date of November 14 of that year, speaks of this purpose of the chancellor:
+
+“He (Bismarck), when he went into office, was firmly resolved to bring Prussia to a war with Austria, but was very careful not to betray this purpose, either at that time or on any other premature occasion to His Majesty, until the time seemed favourable.”
+
+“Compare with this confession,” says Auer in his brochure Die Sedanfeier und die Sozialdemokratie “the proclamation that King William sent out ‘to my people’.
+
+“The fatherland is in danger! Austria and a large part of Germany have risen in arms against us.
+
+“It is only a few years ago since I, of my own free will, without thinking of former misunderstandings, held out a fraternal hand to Austria in order to save a German nation from foreign domination. But my hopes have been blasted. Austria cannot forget that its lords once ruled Germany; it refuses to see in the younger, more virile Prussia an ally, but persists in regarding it as a dangerous rival. Prussia – so it believes – must be opposed in all its aims, because whatever favours Prussia harms Austria. The old unholy jealousy has again broken out; Prussia is to be weakened, destroyed, dishonoured. All treaties with Prussia are void, German lords are not only called upon, but persuaded, to sever their alliance with Prussia. Wherever we look in Germany, we are surrounded by enemies whose war cry is – Down with Prussia!”
+
+Praying for the blessings of heaven, King William ordered a general day of prayer and penance for the eighteenth of July, saying: “It has not pleased God to crown with success my attempts to preserve the blessings of peace for my people.”
+
+Should not the official accompaniment to the outbreak of the war on August 4 have awakened in the minds of our group vivid memories of long remembered words and melodies? Had they completely forgotten their party history?
+
+But not enough! In the year 1870 there came the war with France, and history has united its outbreak with an unforgettable occurrence: the Ems dispatch, a document that has become a classic byword for capitalist government art in war making, and which marks a memorable episode in our party history. Was it not old Liebknecht, was it not the German social democracy who felt in duty bound, at that time, to disclose these facts and to show to the masses “how wars are made”?
+
+Making war simply and solely for the protection of the fatherland was, by the way, not Bismarck’s invention. He only carried out, with characteristic unscrupulousness, an old, well-known and truly international recipe of capitalist statesmanship. When and where has there been a war since so-called public opinion has played a role in governmental calculations, in which each and every belligerent party did not, with a heavy heart, draw the sword from its sheath for the single and sole purpose of defending its fatherland and its own righteous cause from the shameful attacks of the enemy? This legend is as inextricably a part of the game of war as powder and lead. The game is old. Only that the Social Democratic Party could play it is new.

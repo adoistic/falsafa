@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-socialist-crisis-in-france-2a5eb9",
+  "work_title": "The Socialist Crisis in France",
+  "chapter_number": 9,
+  "chapter_title": "Part 3",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "feeb28c9-3441-58d8-a22b-668fd56ab954",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3410,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1901/socialist-crisis-france/ch03.htm"
+    }
+  ]
+}

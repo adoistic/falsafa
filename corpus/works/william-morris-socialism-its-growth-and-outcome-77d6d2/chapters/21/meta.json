@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-socialism-its-growth-and-outcome-77d6d2",
+  "work_title": "Socialism: Its Growth and Outcome",
+  "chapter_number": 21,
+  "chapter_title": "Chapter 19",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eafb340b-d7f8-538a-b015-8c1bb12733ee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6903,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1893/sgo/ch19.htm"
+    }
+  ]
+}

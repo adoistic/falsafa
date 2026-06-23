@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 54,
+  "chapter_title": "Cause and Cure of Hard Times (2)",
+  "chapter_slug": "54-cause-and-cure-of-hard-times-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa1d1ccc-38e5-505f-ae35-6a22a72427e4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1726,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

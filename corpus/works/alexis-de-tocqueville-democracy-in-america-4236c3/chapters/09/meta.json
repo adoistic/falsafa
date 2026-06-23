@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 9,
+  "chapter_title": "Chapter V: Necessity Of Examining The Condition Of The States – Part II",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5960f5b1-6127-5860-a3b9-e2fc23670c20",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3368,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch05.htm"
+    }
+  ]
+}

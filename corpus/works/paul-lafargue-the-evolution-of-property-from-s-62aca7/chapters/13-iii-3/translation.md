@@ -1,0 +1,29 @@
+---
+work_id: "62aca711-2b63-5cd0-8682-ccfb40e4682a"
+work_slug: "paul-lafargue-the-evolution-of-property-from-s-62aca7"
+work_title: The Evolution of Property from Savagery to Civilization
+author_name: Paul Lafargue
+chapter_number: 13
+chapter_title: III (3)
+chapter_slug: "13-iii-3"
+variant_id: "43c0ff20-c32f-5daf-8e23-04b103087dd9"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 831
+source_url: "https://www.marxists.org/archive/lafargue/1890/property/5-bourgeois.html"
+translator: Marxists Internet Archive edition
+---
+
+A mediæval village was an economic unit, because within its limits all the handicrafts were practised which the villagers required. Capitalist production begins by destroying this economic unit; it dissociates the handicrafts and isolates them, assigning to special centres the exercise of distinct crafts. A town or province no longer produces all the articles required by its inhabitants; it relies upon other towns or provinces for the manufacture of special goods. The silk manufactures that it had been sought to disperse over France were, by the end of the last century, almost wholly concentrated in Lyons and its environs. The textile manufactures of wool, flax, and cotton are centralised in certain districts, whilst the production of iron, beetroot-sugar, etc., is confined to others.
+
+The ancient communal and provincial units have been destroyed, and in their place units of a different sort have been constituted. The ancient units were complex; they were formed by the conglomeration, in a township or province, of all the industries required by it; whereas the modern economic units are simple. They are constituted each by a single industry – iron or sugar here, cotton or leather yonder. A capitalistic nation, like France, is not subdivided into provinces or departments in harmony with its geographical configuration and historical traditions, but is divided into simple economic units: into cotton districts or wine districts, corn-growing or sugar-growing regions, carboniferous or silk producing centres. All of these industrial units are interdependent from their reciprocal wants, no one industrial centre being capable, like the mediæval cities, of subsisting a month or even a week without the support of other centres. If, for example, the town of Rouen supplies the whole of France with cotton goods, she imports her corn from La Beauce, her cattle from the north, her coals from the Loire, her oil from Marseilles, and so forth. A capitalistic nation is a gigantic workshop, and every speciality of social production is executed in special centres, situated at great distances from one another but narrowly knit together by reciprocal wants. The political autonomy of the mediæval townships has become an impossibility; the correlation of economic wants serves as a basis for the political unity of the nation. Capitalist production, which has destroyed the local and provincial unity of handicraft production, is about to destroy the national unity of its own creation and to replace it by a vaster, an international unity.
+
+England, that was the first nation to apply machinery, had manifested the pretension of constraining the rest of the nations to become exclusively agricultural countries, reserving for herself the industrial role. Lancashire was to weave all the cotton produced by the Indies and the United States. This premature attempt at an international industrial monopolisation has miscarried. America, at the present day, manufactures cotton goods in excess of her requirements, and India, whose cotton industry had been ruined by England, has taken to weaving by machinery. Sixteen years ago the consumption of cotton by the manufactories of India amounted to 87,000 bales; in 1885 the consumption of cotton amounted to 585,000 bales.
+
+India was the cradle of the cotton industry; calicoes first came from Calcutta, and muslin from Mosul; ere long the Indian cottons, manufactured in the proximity of the cottonfields, will once again invade the European markets and, in their turn, ruin the industry of Manchester and the cotton centres of the Continent. The cotton goods of India and the United States will supplant those of Rouen and Manchester. A Yankee merchant, impressed by the impending fate of the Lancashire manufacturers, charitably advised them to transport their machinery to Louisiana, where they would have the raw material close at hand, and so save the expense of its conveyance. The international displacement of an industry goes on under our eyes; the manufactories are drawn into the sphere of the agricultural centres which produce the raw material. But before they had become industrial centres India and the United States had held Europe in subjection, thanks to their agricultural production. The War of Secession of the United States, from 1861 to 1865, threw out of work the weavers of France and England; and exaggerated the cultivation of cotton, “the golden plant,” in Egypt, whilst it ruined the fellahs and delivered up Egyptian finance into the hands of Rothschild and other cosmopolitan bankers.
+
+The wheat production is in the act of being centralised in certain parts of the world. England, that in the 17th century produced corn sufficient for her home consumption, with a surplus for exportation, at the present moment imports from America, Australia, and India more than one half of the wheat she consumes. The nations of Europe to-day are in a state of economic dependence on one another, and on the half-civilised countries. This international economic interdependence is on the increase, and will, in times to come, form the basis of the political unity of human kind, a unity which will be founded on the ruins of the existing national unities.

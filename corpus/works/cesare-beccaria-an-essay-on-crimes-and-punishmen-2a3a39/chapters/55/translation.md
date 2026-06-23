@@ -4,7 +4,7 @@ work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
 work_title: An Essay on Crimes and Punishments
 author_name: Cesare Beccaria
 chapter_number: 55
-chapter_title: "CHAPTER VI.: OF THE INDULGENCE OF THE ROMANS IN MATTERS OF RELIGION."
+chapter_title: "Chapter VII.: On the Crime of Preaching; And of Anthony."
 chapter_slug: 55
 variant_id: "6e1697ea-4214-55fc-976a-aa5ec06387db"
 content_type: translation
@@ -13,19 +13,23 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 477
+word_count: 712
 source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
 translator: Online Library of Liberty edition
 ---
 
-The amazing contrast between the Roman laws, and the barbarous institutions by which they were succeeded, hath often been the subject of conversation among the speculative part of mankind.
+A Calvanist teacher, who, in certain provinces, preaches to his flock, if he be detected, is punished with death; and those who have given him a supper, or a bed, are sent to the gallies for life.
 
-Doubtless the Roman senate held the supreme God in as great veneration as we; and professed as much esteem for their secondary deities as we for our saints. Ab Jove principium was their common formule. Pliny, in his panegyric on the good Trajan, attests, that the Romans never omitted to begin their discourse and affairs by invoking the Deity. Cicero and Livy tell us the same thing. No people were more religious; but they were too wise, and too great, to descend to the punishment of idle language or philosophic opinions. They were incapable of inflicting barbarous punishments on those who, with Cicero, himself an augur, had no faith in auguries; or Edition: current; Page: [181] on those who, like Cæsar, asserted in full senate, that the gods do not punish men after death.
+In other countries, if a Jesuit be caught preaching, he is hanged. Is it to avenge God that this Calvinist and this Jesuit are put to death? Have both parties built upon the following Evangelical law? If he neglect to hear the church, let him be unto thee as an heathen man and a publican. But the Evangelist does not order that this heathen and this publican should be hanged.
 
-It hath often been remarked that the senate permitted the chorus in the Troad to sing, There is nothing after death, and death itself is nothing. You ask, what becomes of the dead? They are where they were ere they were born.
+Or have they built on this passage in Deuteronomy: If among you a prophet arise; and that which he hath said come to pass; and he sayeth unto you, let us follow strange gods; and if thy brother, or thy son, or thy wife, or the friend of thy heart, say unto thee, Come, let us follow strange gods: let them be straightways killed, strike thou first, and all the people after thee. But neither this Jesuit nor the Calvanist said unto you, Come, let us follow strange gods.
 
-Was ever profanation more flagrant than this? From Ennius to Ausonius all his profanation, notwithstanding the respect for divine worship. Why were these things disregarded by the senate? Because they did not, in any wise, affect the government of the state; because they disturbed no institution, nor religious ceremony. The police of the Romans was nevertheless excellent; they were nevertheless absolute masters of the best part of the world, till the reign of Theodosius the second.
+The counsellor Dubourg, the monk Jehan Chouvin, named Calvin, the Spanish physician Servetus, the Calabrian Gentilis, all worshipped the same God: and yet the president Minard caused counsellor Dubourg to be burnt; and Dubourg’s friends caused president Minard to be assassinated; Jehan Calvin caused the physician Servetus to be roasted; and had likewise the consolation to be a principal means of bringing the Calabrian Gentilis to the block; and the successors of Jehan Calvin burnt Anthony. Was it reason, or piety, or justice, that committed these murders?
 
-It was a maxim of the Romans, Deorum offensæ, Diis curæ, Offences against the gods concern the gods only. The senate, by the wisest institution, being at the head of religion, were under no apprehensions that a convocation of priests should force them to revenge the priesthood under a pretext of revenging Heaven. They never said, let us tear the impious asunder, lest we ourselves Edition: current; Page: [182] be deemed impious; let us shew the priesthood, by our cruelty, that we are no less religious than they.
+This history of Anthony is one of the most singular which the annals of phrenzy hath preserved. I read the following account in a very curious manuscript; it is in part related by Jacob Spon.
 
-But our religion is more holy than that of the Romans, and consequently impiety is a greater crime. Granted. God will punish it. The part of man is, to punish that which is criminal in the public disorder which the impiety hath occasioned. But if in the act of impiety the delinquent hath not even stolen a handkerchief; if the ceremonies of religion have been in no wise disturbed, shall we, as I said before, punish the impiety as we would punish parricide? The Marshal d’Ancre had caused a white cock to be killed when the moon was at full: ought we therefore to burn the Marshal D’Ancre?
+Anthony was born at Brieu in Lorrain, of catholic parents, and he was educated by the Jesuits at Pont a Mousson. The preacher Feri engaged him in the protestant religion at Metz. Having returned to Nancy he was prosecuted as a heretic, and, had he not been saved by a friend, would certainly have been hanged. He fled for refuge to Sedan, where, being taken for a Papist, he narrowly escaped assassination.
+
+Seeing by what strange fatality his life was not in safety, either among Papists or Protestants, he went to Venice and turned Jew. He was positively persuaded, even to the last moments of his life, that the religion of the Jews was the only true religion; for that, if it was once true, it must always be so. The Jews did not circumcise him, for fear of offending the state; but he was no less internally a Jew. He now went to Geneva, where, concealing his faith, he became a preacher, was president of the college, and finally what is called a minister.
+
+The perpetual combat in his breast between the religion of Calvin, which he was obliged to preach, and that of Moses, which was the only religion he believed, produced a long illness. He became melancholy, and at last quite mad, crying aloud, that he was a Jew. The ministers of the gospel came to visit him, and endeavoured to bring him to himself; but he answered, “that he adored none but the God of Israel; that it was impossible for God to change; that God could never have given a law, and inscribed it with his own hand, with an intention that it should be abolished.” He spoke against Christianity, and afterwards retracted all he had said, and even wrote his confession of faith, to escape punishment; but the unhappy persuasion of his heart would not permit him to sign it. The council of the city assembled the clergy, to consult what was to be done with the unfortunate Anthony. The minority of these clergy were of opinion, that they should have compassion on him, and rather endeavour to cure his disease than punish him. The majority determined that he should be burnt, and he was burnt. This transaction is of the year 1632. A hundred years of reason and virtue are scarce sufficient to expiate such a deed.

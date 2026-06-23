@@ -1,0 +1,35 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 92
+chapter_title: III. (5)
+chapter_slug: "92-iii-5"
+variant_id: "50e7bbb4-43fa-5298-bee8-3abd0e86f17f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 542
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+Strikers ask for arbitration. It is their principal watchword. They even ask for compulsory arbitration. But they will only accept it on terms favourable to themselves. “The trade union at Lens will decide to-morrow whether the miners are to give way or whether they will continue the strike.” (November 8th, 1902).
+
+I do not admit that an independent third party can regulate the relations between employers and employed: he is not responsible for the termination of contracts. But in the event of an arbitration, work should be resumed simultaneously with the commencement of the reference.
+
+All the successive governments since 1892 are in part responsible for the crimes and offences committed in connection with the strikes. It suffices for a strike to be partially apparent for them to feel themselves in danger, and rightly so, thanks to the idleness of the public and to the ignorance and cowardice of a number of Deputies. They forget that their duty is, not to serve the interests of the strikers, but to ensure the security of property and of persons.
+
+Naturally officials who feel that they are not protected by their departmental chief have only one preoccupation—to avoid “incidents.” If one striker were killed, this might mean the administrative decease of the Sub-Prefect. His only preoccupation is to come to terms with the strikers and to be able to assure the place Beauvau that all is for the best “in a model strike,” as M. E. Combes said in speaking of the agricultural strikes in the South of France.
+
+On May 3rd, M. Sarraut, Under-Secretary of State, said in Paris, he “had good news from Montluçon, that order was not disturbed.” The strike ended on May 21st. What punishment overtook the officials who sent information of this character to the Ministry of the Interior? And finally, are the leaders of the Labour Exchange prosecuted who have committed the offence of suspending traffic in a town and of usurping all public functions?
+
+It appears as though in France we suppose that the courts have no existence when there is a question of acts done during a strike, and that the organisers and leaders of strikes are inviolable, and we see the rise of a new order of privileged persons, above the law and outside its operation.
+
+The magistrates also incur their share of the responsibility. The penal code strikes with greater severity at offences committed in association than at those committed by isolated individuals. But when it is a question of bands of strikers, this aggravating circumstance becomes an extenuating one. And the magistrates seem to think it lawful that persons in combination should threaten, strike and ill-use men, women, and girls who are guilty of wishing to work.
+
+How are the magistrates to display energy, when they stand in fear of the weakness of the Ministry in the Place Vendôme? And why should they display energy? Would not their sentences be set aside by one of the amnesties which appear with such regularity that they can have no other result than to annihilate justice? Acts committed during strikes and in connection with strikes and always included in such amnesties. Truly, the leaders of strikers would make a great mistake if they were to restrain themselves.

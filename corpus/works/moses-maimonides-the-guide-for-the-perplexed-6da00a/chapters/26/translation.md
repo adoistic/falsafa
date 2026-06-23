@@ -4,7 +4,7 @@ work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
 work_title: The Guide for the Perplexed
 author_name: Moses Maimonides
 chapter_number: 26
-chapter_title: CHAPTER XIV
+chapter_title: Chapter XV (1)
 chapter_slug: 26
 variant_id: "7db26963-dd34-5894-aa19-463219b9d484"
 content_type: translation
@@ -13,11 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 138
+word_count: 390
 source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
 translator: Online Library of Liberty edition
 ---
 
-The homonymous term adam is in the first place the name of the first man being, as Scripture indicates, derived from adamah, “earth.” Next, it means “mankind,” as “My spirit shall not strive with man (adam)” (Gen. vi. 3). Again “Who knoweth the spirit of the children of man (adam)” (Eccles. iii. 21); “so that a man (adam) has no pre-eminence above a beast” (Eccles. iii. 19). Adam signifies also “the multitude,” “the lower classes” as opposed to those distinguished from the rest, as “Both low (bene adam) and high (bene ish)” (Ps. xlix. 3).
+Although the two roots naẓab and yaẓab are distinct, yet their meaning is, as you know, identical in all their various forms.
 
-It is in this third signification that it occurs in the verses, “The sons of the higher order (Elohim) saw the daughters of the lower order (adam)” (Gen. vi. 2); and “Forsooth! as the humble man (adam) you shall die” (Ps. lxxxii. 7).
+The verb has several meanings: in some instances it signifies “to stand” or “to place oneself,” as “And his sister stood (va-tetaẓẓab) afar off” (Exod. ii. 4); “The kings of the earth set themselves” (yityaẓẓebu) (Ps. ii. 2); “They came out and stood” (niẓẓabim) (Num. xvi. 27). In other instances it denotes continuance and permanence, as, “Thy word is established (niẓẓab) in Heaven” (Ps. cxix. 89), i.e., it remains for ever.
+
+Whenever this term is applied to God it must be understood in the latter sense, as, “And, behold, the Lord stood (niẓẓab) upon it” (Gen. xxviii. 13), i.e., appeared as eternal and everlasting “upon it,” namely, upon the ladder, the upper end of which reached to heaven, while the lower end touched the earth. This ladder all may climb up who wish to do so, and they must ultimately attain to a knowledge of Him who is above the summit of the ladder, because He remains upon it permanently. It must be well understood that the term “upon it” is employed by me in harmony with this metaphor. “Angels of God” who were going up represent the prophets. That the term “angel” was applied to prophets may clearly be seen in the following passages: “He sent an angel” (Num. xx. 16); “And an angel of the Lord came up from Gilgal to Bochim” (Judges ii. 1). How suggestive, too, is the expression “ascending and descending on it”! The ascent is mentioned before the descent, inasmuch as the “ascending” and arriving at a certain height of the ladder precedes the “descending,” i.e., the application of the knowledge acquired in the ascent for the training and instruction of mankind. This application is termed “descent,” in accordance with our explanation of the term yarad (chapter x.).
+
+To return to our subject. The phrase “stood upon it” indicates the permanence and constancy of God, and does not imply the idea of physical position. This is also the sense of the phrase “Thou shalt stand upon the rock” (Exod. xxxiii. 21). It is therefore clear that niẓẓab and ‘amad are identical in this figurative signification. Comp. “Behold, I will stand (‘omed) before thee there upon the rock in Horeb” (Exod. xvii. 6).

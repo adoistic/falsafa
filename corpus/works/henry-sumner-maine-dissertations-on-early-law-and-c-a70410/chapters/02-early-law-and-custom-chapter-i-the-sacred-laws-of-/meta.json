@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-dissertations-on-early-law-and-c-a70410",
+  "work_title": "Dissertations on Early Law and Custom",
+  "chapter_number": 2,
+  "chapter_title": "Early Law and Custom, Chapter I.: The Sacred Laws of the Hindus.",
+  "chapter_slug": "02-early-law-and-custom-chapter-i-the-sacred-laws-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31c357d1-b9c2-5513-9e9d-12200646f30a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5766,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/maine-dissertations-on-early-law-and-custom"
+    }
+  ]
+}

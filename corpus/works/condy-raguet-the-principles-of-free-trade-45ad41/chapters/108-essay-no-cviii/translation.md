@@ -1,0 +1,43 @@
+---
+work_id: "45ad41cc-7379-5c6a-b587-3aa73a883f31"
+work_slug: "condy-raguet-the-principles-of-free-trade-45ad41"
+work_title: The Principles of Free Trade
+author_name: Condy Raguet
+chapter_number: 108
+chapter_title: Essay No. CVIII.
+chapter_slug: "108-essay-no-cviii"
+variant_id: "cf877ceb-c2e0-5250-a9b5-9fb4f0d5961a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1302
+source_url: "https://oll.libertyfund.org/titles/raguet-the-principles-of-free-trade"
+translator: Online Library of Liberty edition
+---
+
+Political Arithmeticians. The Cotton manufactures shewn to be a heavy tax on the country. Hocus-pocus of Statistical Tables.
+
+IT has always been the policy of the Restrictionists, not only in this country but in all others, to deal largely in figures; hence they have derived the name of political arithmeticians, and they are just as different a class from the political economists, as book-keepers are a distinct class from the merchants who plan, direct, and oversee the commercial operations which produce the results to which the functions of the book-keepers are confined. If one of your mechanical book-keepers, (we allude to those who have never studied the theory of commerce, and are only conversant with debits, and credits, and balance-sheets,) were to turn merchant, he would probably reason in this way: “I perceive by the books of my employer, that, upon an exportation of 1000 pounds of opium, to China, he cleared 1000 dollars. Now if 1000 pounds give a profit of 1000 dollars, it is clear that 100,000 pounds will give a profit of 100,000 dollars—for, so says the rule of three.” He therefore ships the latter quantity, overstocks the market, and sinks all his capital. Such instances are of every day’s occurrence, and they are to be ascribed to the want of theoretical knowledge of the principles by which commerce is governed; and any one may thus see that an acquaintance with figures is not enough to qualify a man to reason correctly upon matters which require a depth of thought. Figures, however, are exceedingly well adapted to mystify a subject where the object is to conceal the truth. A political arithmetician—or, what is the same thing, according to the definition of Dugald Stewart, a statistical collector—very often so completely buries himself up in figures, that he hardly knows himself to what conclusions his premises lead; and, as the mass of the people are not capable of reasoning analytically, they are carried away by the arithmetical exhibition, in the same way that a jury, in a Court of Common Pleas, is sometimes overpowered by the pile of volumes which the case lawer has heaped up before him. These case lawyers are amazingly popular with a certain sort of people—and so are the political arithmeticians. Their voluminous references are too astounding for the ordinary mind; and, as many people judge of the abilities of a man by the number and size of the books he can quote from, they consider those the wisest lawyers who can bring into court the greatest number of volumes of reports, and those the wisest statesmen who can produce the most statistical tables. And yet it not unfrequently happens, that in the whole pleadings of the lawyer, and in the whole book of homilies of the political arithmeticians, there shall not be as much brains as one could put in a thimble.
+
+We have been led into these remarks from seeing the following specimen of statistical hocus-pocus, in the “Providence American” of the 14th of May, transmitted to us by a correspondent:
+
+“Effects of Manufactures on Commerce.—A mercantile gentleman has favoured us with the following Statement of Exports of Cotton from New Orleans, commencing October 1st, 1830, and ending April 23d, 1831.
+
+“More than one-third of the above exports have been made coastwise in the United States, and the most part will be manufactured into cloth by American hands, again to employ a large amount of tonnage, besides land transportation, to markets both at home and abroad.
+
+“The freighting of this amount of cotton has employed 31,750 tons of shipping, at an average of 250 tons to 600 bales—thus requiring 127 ships of 250 tons each. The freight on the cotton exported from New Orleans, into ports of the United States, at $5 per bale, will amount to $381,465.
+
+“Strike out this immense business, by destroying the ‘accursed tariff,’ and where will commerce look for a substitute for this valuable employment?—to say nothing of the destruction to labour and capital employed in the manufacture and land transportation of the material and manufactured articles.
+
+“The opponents to the tariff must give up their argument, that the American System is injurious to commerce. They have nothing to rest this theory upon. We have in this estimate about one-fourth the amount of cotton exported, abroad and coastwise, from all the ports of the United States. Will the anti-tariff advocates point out any injury to commerce, arising from manufactures, that can amount to the one-hundredth part of the benefits conferred upon it in this item alone?”
+
+Now it appears, from the foregoing article, that merely because 223,807 bales of cotton have been exported from New Orleans in six months, of which one-third were shipped coastwise, it is to be inferred that it is sound policy for the consumers of cotton goods in the United States to pay the Rhode Island manufacturers three or four cents a yard more for their cotton fabrics, than they can be had for elsewhere. But let us take up the writer upon his own admissions, and see what we can make out of him. He thinks that of this cotton, probably one-third will be manufactured in the United States, say 75,000 bales, and he infers this because that quantity has been shipped coastwise, and he makes little allowance for the portion of this quantity which will be shipped to Europe from Philadelphia, New York, and the other cities to which it has been exported. Now, 75,000 bales, weighing 300 lbs. each, is 22,500,000 lbs.; this quantity of cotton manufactured into cloth, at 5 yards to the pound, which is a fair average, would produce 112,500,000 yards; and supposing this to be sold by the manufacturers to the consumers, at three cents per yard more than the same quality of cloth could be had for from other sources, it amounts to a tax of only $3,375,000 upon the nation, for the support of the cotton manufacturers who get supplied from New Orleans; leaving all those who get their supplies from Mobile, Savannah, Charleston, Georgetown, and the ports of North Carolina and Virginia, to levy nearly twice as much besides, if it be true, as is stated by the Tariff party, that the whole quantity manufactured in the United States is 200,000 bales.
+
+It may perhaps be urged, that although the duty on cotton goods of the lowest quality is 8 3-4 cts. per square yard, or about 6 1-2 cts. per running yard, (three quarters wide,) and that although the manufacturers, even to preserve the peace of the country, are not willing to abate one jot of this prohibitory duty, which is conclusive that they cannot do without it, yet that we have rated the increased price too high. Be it so. We will be satisfied, upon this occasion, to take one cent per yard as the increased price, and an account current would stand thus upon the basis furnished above:
+
+The above balance shows the loss to the concern, unless the manufacturers can show that they sell their goods as cheap as they can be imported, and this they can only do by manifesting a willingness to reduce the duty to a revenue scale.
+
+In the foregoing account we have placed on the credit side the freight earned by the vessels transporting cotton coastwise. Now were it not for the American System, the same cotton which was thus shipped coastwise, would have been transported to Europe, and an equal freight would have been earned by the same vessels; so that striking out this item from the account, we should have a true statement, presenting a positive loss to the consumers of cotton fabrics, of $1,125,000. If the Providence American will undertake to disprove our calculations, or our reasoning, we will with pleasure copy his remarks.

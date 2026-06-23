@@ -1,0 +1,37 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 13
+chapter_title: Letter 13
+chapter_slug: "13-letter-13"
+variant_id: "bd35d62d-350c-54d9-b0d9-4d2ca0625f74"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 903
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+curator: thothica
+---
+
+1. Multum tibi esse animi scio. Nam etiam antequam instrueres te praeceptis salutaribus et dura vincentibus, satis adversus fortunam placebas tibi, et multo magis, postquam cum illa manum conseruisti viresque expertus es tuas, quae numquam certam dare fiduciam sui possunt, nisi cum multae difficultates hinc et illinc apparuerunt, aliquando vero et propius accesserunt; sic verus ille animus et in alienum non venturus arbitrium probatur.
+2. Haec eius obrussa est: non potest athleta magnos spiritus ad certamen adferre, qui numquam suggillatus est; ille, qui sanguinem suum vidit, cuius dentes crepuere sub pugno, ille, qui subplantatus adversarium toto tulit corpore nec proiecit animum proiectus, qui quotiens cecidit, contumacior resurrexit, cum magna spe descendit ad pugnam.
+3. Ergo, ut similitudinem istam prosequar, saepe iam fortuna supra te fuit, nec tamen tradidisti te, sed subsiluisti et acrior constitisti. Multum enim adicit sibi virtus lacessita; tamen si tibi videtur, accipe a me auxilia, quibus munire te possis.
+4. Plura sunt, Lucili, quae nos terrent, quam quae premunt, et saepius opinione quam re laboramus. Non loquor tecum Stoica lingua, sed hac submissiore. Nos enim dicimus omnia ista, quae gemitus mugitusque exprimunt, levia esse et contemnenda; omittamus haec magna verba, sed, di boni, vera. Illud tibi praecipio, ne sis miser ante tempus, cum illa, quae velut imminentia expavisti, fortasse numquam ventura sint, certe non venerint.
+5. Quaedam ergo nos magis torquent quam debent; quaedam ante torquent quam debent; quaedam torquent, cum omnino non debeant. Aut augemus dolorem aut fingimus aut praecipimus. Primum illud, quia res in controversia est et litem contestatam habemus, in praesentia differatur. Quod ego leve dixero, tu gravissimum esse contendes; scio alios inter flagella ridere, alios gemere sub colapho. Postea videbimus, utrum ista suis viribus valeant an inbecillitate nostra.
+6. Illud praesta mihi, ut, quotiens circumsteterint, qui tibi te miserum esse persuadeant, non quid audias, sed quid sentias, cogites et cum patientia tua deliberes ac te ipse interroges, qui tua optime nosti: Quid est, quare isti me conplorent? Quid est, quod trepident, quod contagium quoque mei timeant, quasi transilire calamitas possit? Est aliquid istic mali, an res ista magis infamis est quam mala? Ipse te interroga: Numquid sine causa crucior et maereo et quod non est malum, facio?
+7. Quomodo, inquis, intellegam, vana sint an vera, quibus angor? Accipe huius rei regulam: aut praesentibus torquemur aut futuris aut utrisque. De praesentibus facile iudicium est; si corpus tuum liberum et
+8. At enim futurum est. Primum dispice, an certa argumenta sint venturi mali. Plerumque enim suspicionibus laboramus, et inludit nobis illa, quae conficere bellum solet, fama, multo autem magis singulos conficit. Ita est, mi Lucili; cito accedimus opinioni Non coarguimus illa, quae nos in metum adducunt, nec excutimus, sed trepidamus et sic vertimus terga, quemadmodum illi, quos pulvis motus fuga pecorum exuit castris, aut quos aliqua fabula sine auctore sparsa conterruit.
+9. Nescio quomodo magis vana perturbant. Vera enim modum suum habent; quicquid ex incerto venit, coniecturae et paventis animi licentiae traditur. Nulli itaque tam perniciosi, tam inrevocabiles quam lymphatici metus sunt. Ceteri enim sine ratione, hi sine mente sunt.
+10. Inquiramus itaque in rem diligenter. Verisimile est aliquid futurum mali; non statim verum est. Quam multa non expectata venerunt! Quam multa expectata nusquam conparuerunt! Etiam si futurum est, quid iuvat dolori suo occurrere? Satis cito dolebis, cum venerit; interim tibi meliora promitte.
+11. Quid facies lucri? Tempus. Multa intervenient, quibus vicinum periculum vel prope admotum aut subsistat aut desinat aut in alienum caput transeat. Incendium ad fugam patuit; quosdam molliter ruina deposuit; aliquando gladius ab ipsa cervice revocatus est; aliquis carnifici suo superstes fuit. Habet etiam mala fortuna levitatem. Fortasse erit, fortasse non erit; interim non est. Meliora propone.
+12. Nonnumquam nullis apparentibus signis, quae mali aliquid praenuntient, animus sibi falsas imagines fingit; aut verbum aliquod dubiae significationis detorquet in peius aut maiorem sibi offensam proponit alicuius quam est, et cogitat non quam iratus ille sit, sed quantum liceat irato. Nulla autem causa vitae est, nullus miseriarum modus, si timeatur quantum potest; hic prudentia prosit, hic robore animi evidentem quoque metum respue. Si minus, vitio vitium repelle; spe metum tempera. Nihil tam certum est ex his, quae timentur, ut non certius sit et formidata subsidere et sperata decipere.
+13. Ergo spem ac metum examina, et quotiens incerta erunt omnia, tibi fave; crede quod mavis. Si plures habetVanus auctor est, vanus haec aut finxit aut credidit. Damus nos aurae ferendos.
+14. Expavescimus dubia pro certis. Non servamus modum rerum. Statim in timorem vertit Pudet me et tristeFortasse non veniet. Tu dic: Quid porro, si veniet? Videbimus uter vincat. Fortasse pro me venit, et mors ista vitam honestabit. Cicuta magnum Socratem fecit.
+15. Nimium diu te cohortor, cum tibi admonitione magis quam exhortatione opus sit. Non in diversum te a natura tua ducimus; natus es ad ista, quae dicimus. Eo magis bonum tuum auge et exorna.
+16. Sed iam finem epistulae faciam, si illi signum suum inpressero, id est aliquam magnificam vocem perferendam ad te mandavero. Inter cetera mala hoc quoque habet stultitia: semper incipit vivere. Considera quid vox ista significet, Lucili virorum optime, et intelleges, quam foeda sit hominum levitas cotidie nova vitae fundamenta ponentium, novas spes etiam in exitu inchoantium.
+17. Circumspice tecum singulos; occurrent tibi senes, qui se cum maxime ad ambitionem, ad peregrinationes, ad negotiandum parent. Quid est autem turpius quam senex vivere incipiens? Non adicerem auctorem huic voci, nisi esset secretior nec inter vulgata Epicuri dicta, quae mihi et laudare et adoptare permisi. Vale.

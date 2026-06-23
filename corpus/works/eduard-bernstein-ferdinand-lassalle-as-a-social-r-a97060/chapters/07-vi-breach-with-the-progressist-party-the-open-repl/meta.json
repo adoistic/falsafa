@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-ferdinand-lassalle-as-a-social-r-a97060",
+  "work_title": "Ferdinand Lassalle as a Social Reformer",
+  "chapter_number": 7,
+  "chapter_title": "VI. Breach with the Progressist Party – The Open Reply Letter; its political portion",
+  "chapter_slug": "07-vi-breach-with-the-progressist-party-the-open-repl",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7b8b0554-2626-56cd-927d-6f5624716d9d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5367,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1893/lassalle/chap06.htm"
+    }
+  ]
+}

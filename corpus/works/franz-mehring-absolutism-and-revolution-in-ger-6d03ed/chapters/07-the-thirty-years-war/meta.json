@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-mehring-absolutism-and-revolution-in-ger-6d03ed",
+  "work_title": "Absolutism and Revolution in Germany 1525-1848",
+  "chapter_number": 7,
+  "chapter_title": "The Thirty Years’ War",
+  "chapter_slug": "07-the-thirty-years-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f588913-984d-5f00-b30c-dd3051a189e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2219,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/mehring/1910/absrev/ch01.htm"
+    }
+  ]
+}

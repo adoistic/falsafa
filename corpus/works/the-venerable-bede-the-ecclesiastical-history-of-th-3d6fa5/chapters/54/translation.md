@@ -4,7 +4,7 @@ work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
 work_title: The Ecclesiastical History of the English Nation
 author_name: The Venerable Bede
 chapter_number: 54
-chapter_title: CHAPTER XV
+chapter_title: Chapter XV (2)
 chapter_slug: 54
 variant_id: "27b6c76b-3cd8-552f-8871-37850388b101"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 445
+word_count: 441
 source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
 translator: Online Library of Liberty edition
 ---
@@ -22,4 +22,4 @@ the province of the east angles receives the faith of christ. [ad 627.]
 
 Edwin was so zealous for the worship of truth, that he likewise persuaded Eorpwald, king of the East Saxons, and son of Redwald, to abandon his idolatrous superstitions, and with his whole province to receive the faith and sacraments of Christ. And indeed his father Redwald had long before been admitted to the sacrament of the Christian faith in Kent, but in vain; for on his return home, he was seduced by his wife and certain perverse teachers, and turned back from the sincerity of the faith; and thus his latter state was worse than the former; so that, like the ancient Samaritans, he seemed at the same time to serve Christ and the gods whom he had served before; and in the same temple he had an altar to sacrifice to Christ, and another small one to offer victims to devils; which temple, Aldwulf, king of that same province, who lived in our time, testifies had stood until his time, and that he had seen it when he was a boy. The aforesaid King Redwald was noble by birth, though ignoble in his actions, being the son of Tytilus, whose father was Uuffa, from whom the kings of the East Angles are called Uuffings.
 
-Eorpwald was, not long after he had embraced the Christian faith, slain by one Richbert, a pagan; and from that time the province was under error for three years, till the crown came into the possession of Sigebert, brother to the same Eorpwald, a most Christian and learned man, who was banished, and went to live in France during his brother’s life, and was there admitted to the sacraments of the faith, whereof he made it his business to cause all his province to partake as soon as he came to the throne. His exertions were much promoted by the Bishop Felix, who, coming to Honorius, the archbishop, from Burgundy, where he had been born and ordained, and having told him what he desired, he sent him to preach the word of Edition: current; Page: [95] life to the aforesaid nation of the Angles. Nor were his good wishes in vain; for the pious husbandman reaped therein a large harvest of believers, delivering all that province (according to the signification of his name, Felix) from long iniquity and infelicity, and bringing it to the faith and works of righteousness, and the gifts of everlasting happiness. He had the see of his bishopric appointed him in the city Dommoc, and having presided over the same province with pontifical authority seventeen years, he ended his days there in peace.
+Eorpwald was, not long after he had embraced the Christian faith, slain by one Richbert, a pagan; and from that time the province was under error for three years, till the crown came into the possession of Sigebert, brother to the same Eorpwald, a most Christian and learned man, who was banished, and went to live in France during his brother’s life, and was there admitted to the sacraments of the faith, whereof he made it his business to cause all his province to partake as soon as he came to the throne. His exertions were much promoted by the Bishop Felix, who, coming to Honorius, the archbishop, from Burgundy, where he had been born and ordained, and having told him what he desired, he sent him to preach the word of life to the aforesaid nation of the Angles. Nor were his good wishes in vain; for the pious husbandman reaped therein a large harvest of believers, delivering all that province (according to the signification of his name, Felix) from long iniquity and infelicity, and bringing it to the faith and works of righteousness, and the gifts of everlasting happiness. He had the see of his bishopric appointed him in the city Dommoc, and having presided over the same province with pontifical authority seventeen years, he ended his days there in peace.

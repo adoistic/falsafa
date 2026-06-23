@@ -1,0 +1,79 @@
+---
+work_id: "3ea1cc5c-d2ed-5096-81d8-5762785c47b1"
+work_slug: "eduard-bernstein-evolutionary-socialism-3ea1cc"
+work_title: Evolutionary Socialism
+author_name: Eduard Bernstein
+chapter_number: 1
+chapter_title: Preface
+chapter_slug: "01-preface"
+variant_id: "a6adcb07-2633-5e53-b4ed-7969e3a44d5f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2406
+source_url: "https://www.marxists.org/reference/archive/bernstein/works/1899/evsoc/preface.htm"
+translator: Edith C. Harvey
+---
+
+The present work is substantially devoted to the establishment of ideas which the writer unfolded in a letter to the German Social Democratic Party assembled at Stuttgart from October 3rd to October 8th, 1898.
+
+This letter reads:
+
+The views laid down by me in the series Problems of Socialism have lately been discussed in Socialist papers and meetings, and a request has been made that the Party of German Social Democrats should state its position in regard to them. In case this happens and the Party agrees to the request, I am induced to make the following explanation.
+
+The vote of an assembly, however significant it may be, naturally cannot disconcert me in my views, which have been gained from an examination of social phenomena. What I wrote in the Neue Zeit is the expression of a conviction from which I do not find myself induced to depart in any important particular.
+
+But it is just as natural that a vote of the party should find me anything but indifferent. And, therefore, it will be understood if I feel the paramount necessity of guarding myself against misconstruction of my conclusions and false deductions from them. As I am prevented from attending the Congress I send this written communication.
+
+It has been maintained in a certain quarter that the practical deductions from my treatises would be the abandonment of the conquest of political power by the proletariat organised politically and economically. That is quite an arbitrary deduction, the accuracy of which I altogether deny.
+
+I set myself against the notion that we have to expect shortly a collapse of the bourgeois economy, and that social democracy should be induced by the prospect of such an imminent, great, social catastrophe to adapt its tactics to that assumption. That I maintain most emphatically.
+
+The adherents of this theory of a catastrophe base it especially on the conclusions of the Communist Manifesto. This is a mistake in every respect.
+
+The theory which the Communist Manifesto sets forth of the evolution of modern society was correct as far as it characterised the general tendencies of that evolution. But it was mistaken in several special deductions, above all in the estimate of the time the evolution would take. The last has been unreservedly acknowledged by Friedrich Engels, the joint author with Marx of the Manifesto, in his preface to the Class War in France. But it is evident that if social evolution takes a much greater period of time than was assumed, it must also take upon itself forms and lead to forms that were not foreseen and could not be foreseen then.
+
+Social conditions have not developed to such an acute opposition of things and classes as is depicted in the Manifesto. It is not only useless, it is the greatest folly to attempt to conceal this from ourselves. The number of members of the possessing classes is to-day not smaller but larger. The enormous increase of social wealth is not accompanied by a decreasing number of large capitalists but by an increasing number of capitalists of all degrees. The middle classes change their character but they do not disappear from the social scale.
+
+The concentration in productive industry is not being accomplished even to day in all its departments with equal thoroughness and at an equal rate. In a great many branches of production it certainly justifies the forecasts of the socialist critic of society; but in other branches it lags even to-day behind them. The process of concentration in agriculture proceeds still more slowly. Trade statistics show an extraordinarily elaborated graduation of enterprises in regard to size. No rung of the ladder is disappearing from it. The significant changes in the inner structure of these enterprises and their inter-relationship cannot do away with this fact.
+
+In all advanced countries we see the privileges of the capitalist bourgeoisie yielding step by step to democratic organisations. Under the influence of this, and driven by the movement of the working classes which is daily becoming stronger, a social reaction has set in against the exploiting tendencies of capital, a counteraction which, although it still proceeds timidly and feebly, yet does exist, and is always drawing more departments of economic life under its influence. Factory legislation, the democratising of local government, and the extension of its area of work, the freeing of trade unions and systems of co-operative trading from legal restrictions, the consideration of standard conditions of labour in the work undertaken by public authorities – all these characterise this phase of the evolution.
+
+But the more the political organisations of modern nations are democratised the more the needs and opportunities of great political catastrophes are diminished. He who holds firmly to the catastrophic theory of evolution must, with all his power, withstand and hinder the evolution described above, which, indeed, the logical defenders of that theory formerly did. But is the conquest of political power by the proletariat simply to be by a political catastrophe? Is it to be the appropriation and utilisation of the power of the State by the proletariat exclusively against the whole non-proletarian world?
+
+He who replies in the affirmative must be reminded of two things. In 1872 Marx and Engels announced in the preface to the new edition of the Communist Manifesto that the Paris Commune had exhibited a proof that “the working classes cannot simply take possession of the ready-made State machine and set it in motion for their own aims.” And in 1895 Friedrich Engels stated in detail in the preface to War of the Classes that the time of political surprises, of the “revolutions of small conscious minorities at the head of unconscious masses” was to-day at an end, that a collision on a large scale with the military would be the means of checking the steady growth of social democracy and of even throwing it back for a time in short; that social democracy would flourish far better by lawful than by unlawful means and by violent revolution. And, he points out in conformity with this opinion that the next task of the party should be “to work for an uninterrupted increase of its votes” or to carry on a slow propaganda of parliamentary activity.
+
+Thus Engels, who, nevertheless, as his numerical examples show, still somewhat overestimated the rate of process of the evolution! Shall we be told that he abandoned the conquest of political power by the working classes, because he wished to avoid the steady growth of social democracy secured by lawful means being interrupted by a political revolution?
+
+If not, and if one subscribes to his conclusions, one cannot reasonably take any offence if it is declared that for a long time yet the task of social democracy is, instead of speculating on a great economic crash, “to organise the working classes politically and develop them as a democracy and to fight for all reforms in the State which are adapted to raise the working classes and transform the State in the direction of democracy.”
+
+That is what I have said in my impugned article and what I still maintain in its full import. As far as concerns the question propounded above it is equivalent to Engel’s dictum, for democracy is, at any given time, as much government by the working classes as these are capable of practising according to their intellectual ripeness and the degree of social development they have attained. Engels, indeed, refers at the place just mentioned to the fact that the Communist Manifesto has “proclaimed the conquest of the democracy as one of the first and important tasks of the fighting proletariat.”
+
+In short, Engels is so thoroughly convinced that the tactics based on the presumption of a catastrophe have had their day, that he even considers a revision of them necessary in the Latin countries where tradition is much more favourable to them than in Germany. “If the conditions of war between nations have altered,” he writes, “no less have those for the war between classes.” Has this already been forgotten?
+
+No one has questioned the necessity for the working classes to gain the control of government. The point at issue is between the theory of a social cataclysm and the question whether with the given social development in Germany and the present advanced state of its working classes in the towns and the country, a sudden catastrophe would be desirable in the interest of the social democracy. I have denied it and deny it again, because in my judgment a greater security for lasting success lies in a steady advance than in the possibilities offered by a catastrophic crash.
+
+And as I am firmly convinced that important periods in the development of nations cannot be leapt over I lay the greatest value on the next tasks of social democracy, on the struggle for the political rights of the working man, on the political activity of working men in town and country for the interests of their class, as well as on the work of the industrial organisation of the workers.
+
+In this sense I wrote the sentence that the movement means everything for me and that what is usually called “the final aim of socialism” is nothing; and in this sense I write it down again to-day. Even if the word “usually” had rot shown that the proposition was only to be understood conditionally, it was obvious that it could not express indifference concerning the final carrying out of socialist principles, but only indifference – or, as it would be better expressed, carelessness – as to the form of the final arrangement of things. I have at no time had an excessive interest in the future, beyond general principles; I have not been able to read to the end any picture of the future. My thoughts and efforts are concerned with the duties of the present and the nearest future, and I only busy myself with the perspectives beyond so far as they give me a line of conduct for suitable action now.
+
+The conquest of political power by the working classes, the expropriation of capitalists, are no ends in themselves but only means for the accomplishment of certain aims and endeavours. As such they are demands in the programme of social democracy and are not attacked by me. Nothing can be said beforehand as to the circumstances of their accomplishment; we can only fight for their realisation. But the conquest of political power necessitates the possession of political rights; and the most important problem of tactics which German social democracy has at the present time to solve, appears to me to be to devise the best ways for the extension of the political and economic rights of the German working classes.
+
+The following work has been composed in the sense of these conclusions.
+
+I am fully conscious that it differs in several important points from the ideas to be found in the theory of Karl Marx and Engels – men whose writings have exercised the greatest influence on my socialist line of thought, and one of whom – Engels – honoured me with his personal friendship not only till his death but who showed beyond the grave, in his testamentary arrangements, a proof of his confidence in me.
+
+This deviation in the manner of looking at things certainly is not of recent date; it is the product of an inner struggle of years and I hold in my hand a proof that this was no secret to Friedrich Engels, and moreover I must guard Engels from the suspicion that he was so narrow-minded as to exact from his friends an unconditional adherence to his views. Nevertheless, it will be understood from the foregoing why I have till now avoided as much as possible giving to my deviating points of view the form of a systematic and detailed criticism of the Marx-Engels doctrine. This could the more easily be avoided up till now because as regards the practical questions with which we were concerned Marx and Engels in the course of time considerably modified their views.
+
+All that is now altered. I have now a controversy with socialists who, like me, have sprung from the Marx-Engels school; and I am obliged, if I am to maintain my opinions, to show them the points where the Marx-Engels theory appears to me especially mistaken or to be self-contradictory.
+
+I have not shirked this task, but, owing to the personal grounds already mentioned, it has not been easy to me. I acknowledge this openly so that the reader may not deduce uncertainty in the subject matter from the hesitating, clumsy form of the first chapters. I stand by what I have written with firm conviction; but I have not always succeeded in choosing the form and the arguments by means of which my thoughts would have gained the clearest expression. In this respect my work is far behind many a work published by others on the same subject. I have rectified in the last chapter some omissions in the first chapters. Further, as the publication of the work was somewhat delayed, the chapter on “Co-operation” has undergone some additions in which repetitions could not wholly be avoided.
+
+For the rest, the work may speak for itself. I am not so ingenuous as to expect that it will forthwith convert those who have disagreed with my previous essays, nor am I foolish enough to wish that those who agree with me in principle should subscribe to everything I have said in it. In fact, the most doubtful side of the work is that it embraces too much. When I came to speak of the tasks of the present time I was obliged, unless I wished to flounder into generalities, to enter on all kinds of isolated questions over which differences of opinion are unavoidable even among those who otherwise think alike. And yet the want of space compelled me to lay stress on some principal points by implication rather than by establishing them. But I repeat I am not concerned that others should agree with me in every single question. That which concerns me, that which forms the chief aim of this work, is, by opposing what is left of the utopian mode of thought in the socialist theory, to strengthen equally the realistic and the idealistic element in the socialist movement.
+
+Ed. Bernstein
+
+London, January, 1899.

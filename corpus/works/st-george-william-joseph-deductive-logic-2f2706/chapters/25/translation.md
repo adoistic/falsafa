@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 25
-chapter_title: Chapter VI
+chapter_title: Chapter IV
 chapter_slug: 25
 variant_id: "a11c27cc-be99-5214-9680-e7cd2c6567c3"
 content_type: translation
@@ -13,77 +13,31 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 296
+word_count: 118
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-1. Give the converse by negation of--
+1. Give, as far as possible, the logical converse of each of the following propositions--
 
-(1) All women are lovely.
+(1) Energy commands success.
 
-(2) Some statesmen are not practical.
+(2) Mortals cannot be happy.
 
-(3) All lawyers are honest.
+(3) There are mistakes which are criminal.
 
-(4) All doctors are skilful.
+(4) All's well that ends well.
 
-(5) Some men are not rational.
+(5) Envious men are disliked.
 
-2. Give the contrapositive of--
+(6) A term is a kind of word or collection of words.
 
-(1) All solid substances are material.
+(7) Some Frenchmen are not vivacious.
 
-(2) All the men who do not row play cricket.
+(8) All things in heaven and earth were hateful to him.
 
-(3) All impeccable beings are other than human,
+(9) The square of three is nine.
 
-(4) Some prejudiced persons are not dishonest.
+(10) All cannot receive this saying.
 
-3. Prove indirectly the truth of the contrapositive of 'All A is B.'
-
-4. Criticise the following as immediate inferences--
-
-(1) All wise men are modest. .'. No immodest men are wise.
-
-(2) Some German students are not industrious. .'. Some industrious students are not Germans.
-
-(3) Absolute difference excludes all likeness. .'. Any likeness is a proof of sameness.
-
-(4) None but the brave deserve the fair. .'. All brave men deserve the fair.
-
-(5) All discontented men are unhappy. .'. No contented men are unhappy.
-
-(6) Books being a source of instruction, our knowledge must come from our libraries.
-
-(7) All Jews are Semitic. .'. Some non-Semitic people are not Jews.
-
-5. Show by what kind of inference each of the subjoined propositions follows from
-
-All discontented men are unhappy.
-
-(1) All happy men are contented.
-
-(2) Some discontented men are unhappy.
-
-(3) Some contented men are happy.
-
-(4) Some unhappy men are not contented.
-
-(5) No discontented men are happy.
-
-(6) Some happy men are contented.
-
-(7) Some contented men are not unhappy.
-
-(8) Some unhappy men are discontented.
-
-(9) No happy men are discontented.
-
-(10) Some discontented men are not happy.
-
-(11) Some happy men are not discontented.
-
-(12) None but unhappy men are discontented.
-
-From how many of these propositions can the original one be derived? And why not from all?
+2. 'More things may be contained in my philosophy than exist in heaven or earth: but the converse proposition is by no means true.' Is the term converse here used in its logical meaning?

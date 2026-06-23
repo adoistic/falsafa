@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-riazanov-the-relations-of-marx-with-blanq-56b873",
+  "work_title": "The Relations of Marx with Blanqui",
+  "chapter_number": 1,
+  "chapter_title": "The Relations of Marx with Blanqui",
+  "chapter_slug": "01-the-relations-of-marx-with-blanqui",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31e40bcc-f39a-5f0e-8510-5ba4df2be767",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1189,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/riazanov/1928/xx/blanqui.htm"
+    }
+  ]
+}

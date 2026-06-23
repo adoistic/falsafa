@@ -1,0 +1,33 @@
+---
+work_id: "e92145c1-898d-5492-9369-d1418694d92f"
+work_slug: "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145"
+work_title: Letters of Marcus Tullius Cicero
+author_name: Cicero (Marcus Tullius Cicero)
+chapter_number: 5
+chapter_title: Letters of Cicero, Introductory Note (2)
+chapter_slug: "05-letters-of-cicero-introductory-note-2"
+variant_id: "4cce8f00-2e1b-5af1-9ec2-3b2cf4331984"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 811
+source_url: "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+translator: Online Library of Liberty edition
+---
+
+The letters of Cicero are of a very varied character. They range from the most informal communications with members of his family to serious and elaborate compositions which are practically treatises in epistolary form. A very large proportion of them were obviously written out of the mood of the moment, with no thought of the possibility of publication; and in these the style is comparatively relaxed and colloquial. Others, addressed to public characters, are practically of the same nature as his speeches, discussions of political questions intended to influence public opinion, and performing a function in the Roman life of the time closely analogous to that fulfilled at the present day by articles in the great reviews, or editorials in prominent journals.
+
+In the case of both of these two main groups the interest is two-fold: personal and historical, though it is naturally in the private letters that we find most light thrown on the character of the writer. In spite of the spontaneity of these epistles there exists a great difference of opinion among scholars as to the personality revealed by them, and both in the extent of the divergence of view and in the heat of the controversy we are reminded of modern discussions of the characters of men such as Gladstone or Roosevelt. It has been fairly said that there is on the whole more chance of justice to Cicero from the man of the world who understands how the stress and change of politics lead a statesman into apparently inconsistent utterances than from the professional scholar who subjects these utterances to the severest logical scrutiny, without the illumination of practical experience.
+
+Many sides of Cicero’s life other than the political are reflected in the letters. From them we can gather a picture of how an ambitious Roman gentleman of some inherited wealth took to the legal profession as the regular means of becoming a public figure; of how his fortune might be increased by fees, by legacies from friends, clients, and even complete strangers who thus sought to confer distinction on themselves; of how the governor of a province could become rich in a year; of how the sons of Roman men of wealth gave trouble to their tutors, were sent to Athens, as to a university in our day, and found an allowance of over $4,000 a year insufficient for their extravagances. Again, we see the greatest orator of Rome divorce his wife after thirty years, apparently because she had been indiscreet or unscrupulous in money matters, and marry at the age of sixty-three his own ward, a young girl whose fortune he admitted was the main attraction. The coldness of temper suggested by these transactions is contradicted in turn by Cicero’s romantic affection for his daughter Tullia, whom he is never tired of praising for her cleverness and charm, and whose death almost broke his heart.
+
+Most of Cicero’s letters were written in ink on paper or parchment with a reed pen; a few on tablets of wood or ivory covered with wax, the marks being cut with a stylus. The earlier letters he wrote with his own hand, the later were, except in rare cases, dictated to a secretary. There was, of course, no postal service, so the epistles were carried by private messengers or by the couriers who were constantly traveling between the provincial officials and the capital.
+
+Apart from the letters to Atticus, the collection, arrangement, and publication of Cicero’s correspondence seems to have been due to Tiro, the learned freedman who served him as secretary, and to whom some of the letters are addressed. Titus Pomponius Atticus, who edited the large collection of the letters written to himself, was a cultivated Roman who lived more than twenty years in Athens for purposes of study. His zeal for cultivation was combined with the successful pursuit of wealth; and though Cicero relied on him for aid and advice in public as well as private matters, their friendship did not prevent Atticus from being on good terms with men of the opposite party.
+
+Generous, amiable, and cultured, Atticus was not remarkable for the intensity of his devotion either to principles or persons. “That he was the lifelong friend of Cicero,” says Professor Tyrrell, “is the best title which Atticus has to remembrance. As a man he was kindly, careful, and shrewd, but nothing more: there was never anything grand or noble in his character. He was the quintessence of prudent mediocrity.”
+
+The period covered by the letters of Cicero is one of the most interesting and momentous in the history of the world, and these letters afford a picture of the chief personages and most important events of that age from the pen of a man who was not only himself in the midst of the conflict, but who was a consummate literary artist.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-marxism-and-the-national-questio-0dcda0",
+  "work_title": "Marxism and the National Question",
+  "chapter_number": 6,
+  "chapter_title": "V. The Bund, Its Nationalism, Its Separatism",
+  "chapter_slug": "06-v-the-bund-its-nationalism-its-separatism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb81bd56-e1eb-5562-ba31-0c4923954dca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3737,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1913/03a.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-england-for-all-528b1d",
+  "work_title": "England For All",
+  "chapter_number": 8,
+  "chapter_title": "Chap.VI – India",
+  "chapter_slug": "08-chap-vi-india",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e02f4893-df5e-5ee1-bf3d-175494b7cb6e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5646,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1881/england/chap06.html"
+    }
+  ]
+}

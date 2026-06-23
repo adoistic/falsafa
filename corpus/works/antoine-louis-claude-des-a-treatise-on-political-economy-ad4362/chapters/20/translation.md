@@ -4,7 +4,7 @@ work_slug: "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362"
 work_title: A Treatise on Political Economy
 author_name: Antoine Louis Claude Destutt de Tracy
 chapter_number: 20
-chapter_title: "CHAPTER VIII.: Of the distribution of our Riches amongst Individuals."
+chapter_title: "Chapter XII.: Of the revenues and expenses of government and its debts."
 chapter_slug: 20
 variant_id: "a4a226a7-9417-53b1-8851-84a7cda765ed"
 content_type: translation
@@ -13,25 +13,37 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 117
+word_count: 334
 source_url: "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
 translator: Online Library of Liberty edition
 ---
 
-We must now consider man under the relation of the interests of individuals.
+The history of the consumption of government is but a part of the history of general consumption.
 
-The species is strong and powerful, the individual is essentially miserable.
+Government is a very great consumer, living not on its profits but on its revenues.
 
-Property and inequality are insuperable conditions of our nature.
+It is good that the government should possess real property. Independently of other reasons it calls for so much the less of taxes.
 
-Labour, even the least skilful, is a considerable property as long as there are lands not occupied.
+A tax is always a sacrifice which the government demands of individuals. While it only lessens every one's personal enjoyments, it only shifts expenses from one to another.
 
-It is an error in some writers to have pretended there were non-proprietors.
+But when it encroaches on productive consumption it diminishes public riches.
 
-Divided by many particular interests, we are all re-united by those of proprietors and of consumers.
+The difficulty is to see clearly when taxes produce the one or the other of these two effects.
 
-After agriculture the other arts develope themselves.
+To judge well of this we must divide them into six classes.
 
-Misery commences when they can no longer satisfy the calls for labour, which augment.
+We show in the first place that the taxes of each of these six classes are injurious in ways peculiar to themselves.
 
-The state of great ease is necessarily transitory; the fecundity of the human species is the cause.
+We show afterwards who in particular are injured by each of them.
+
+Is a conclusion asked? Here it is. The best taxes are, first, the most moderate, because they compel fewer sacrifices and occasion less violence. Secondly, The most varied, because they produce an equilibrium amongst themselves. Thirdly, The most ancient, because they have already mixed with all prices, and every thing is arranged in consequence.
+
+As to the expenses of government they are necessary but they are sterile. It is desirable that they be the smallest possible.
+
+It is still more desirable that government should contract no debts.
+
+It is very unfortunate that it has the power of contracting them.
+
+This power, which is called public credit, speedily conducts all the governments which use it to their ruin; has none of the advantages which are attributed to it; and rests on a false principle.
+
+It is to be desired that it were universally acknowledged that the acts of any legislative power whatsoever cannot bind their successors, and that it should be solemnly declared that this principle is extended to the engagements which they make with the lenders.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-road-to-power-67108f",
+  "work_title": "The Road to Power",
+  "chapter_number": 6,
+  "chapter_title": "VI. The Growth of Revolutionary Elements",
+  "chapter_slug": "06-vi-the-growth-of-revolutionary-elements",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0dcb9fa0-7bc4-5573-b70b-4f5a129f499a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2851,
+      "paragraph_count": 75,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1909/power/ch06.htm"
+    }
+  ]
+}

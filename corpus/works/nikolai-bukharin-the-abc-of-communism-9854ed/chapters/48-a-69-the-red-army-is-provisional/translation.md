@@ -1,0 +1,29 @@
+---
+work_id: "9854ed81-f7ef-52b6-99c9-8ce949767ef2"
+work_slug: "nikolai-bukharin-the-abc-of-communism-9854ed"
+work_title: The ABC of Communism
+author_name: Nikolai Bukharin
+chapter_number: 48
+chapter_title: â§ 69. The Red Army is provisional
+chapter_slug: "48-a-69-the-red-army-is-provisional"
+variant_id: "d8f7ae53-8c29-5dc7-9a99-3b11f884ec8e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 888
+source_url: "https://www.marxists.org/archive/bukharin/works/1920/abc/08.htm"
+translator: Marxists Internet Archive edition
+---
+
+The bourgeoisie looks upon the capitalist system as the 'natural' ordering of human society; it regards its own rÃ©gime as ever lasting, and it therefore constructs the instrument of its power - the army - solidly, builds it to last for years and years if not for ever. The proletariat regards its own Red Army in quite another light. The Red Army has been created by the workers for the struggle with the White Army of capital. The Red Army issued out of the civil war; it will disappear when a complete victory has been gained in that war, when class has been abolished, when the dictatorship of the proletariat has spontaneously lapsed. The bourgeois army is born of bourgeois society, and the bourgeoisie wishes this child to live for ever because it reflects the imperishability of the bourgeois rÃ©gime. The Red Army, on the other hand, is the child of the working class, and the workers desire for their child a natural and glorious death. The day when the Red Army can be permanently disbanded will be the day on which will be signalized the final victory of the communist system.
+
+The Communist Party must make it clear to the soldiers of the Red Army that if that army should gain the victory over the White Guards of capital the victors would be the soldiers of the last army in the world. But the party must also make it perfectly clear to all who participate in the upbuilding of the Red Army, it must convince all the proletarian and peasant troops, that the workers have only become soldiers for a brief space and owing to a temporary need, that the field of production is the natural field for their activities, that work in the Red Army must on no account lead to the formation of any caste permanently withdrawn from industry and agriculture.
+
+When the formation of the Red Army was first begun, the formation of the army which sprang from the proletarian Red Guards, the mensheviks and the social revolutionaries fiercely attacked the communists, declaring that the latter were false to the watchword of the general arming of the people, and accusing them of creating a standing army consisting of only one class. But the fact that civil war cannot last for ever, makes it obvious that the Red Army cannot be a standing army. The real reason why our army is a class army is because the class struggle has reached the last extremity of bitterness. No one but a pettybourgeois utopist, no one who is not hopelessly stupid, can object to the existence of a class army while recognizing the class war. It is characteristic that the bourgeoisie, in this epoch which has ensued upon the settlement of the world war, no longer thinks it necessary, or even possible, to conceal the class character of its army. Most instructive, in this connexion, has been the fate of the standing army in Germany, Britain, and France. The German National Assembly was elected by universal suffrage. Its main support was Noske's force of volunteer counter-revolutionary troops. At the stage of the embitterment of the class struggle and at the stage of the decay of bourgeois society which Germany has now reached, it is impossible that an army based on universal military service can be used for the maintenance of bourgeois institutions. Similarly in France and Britain, during the year 1919 the government was mainly dependent upon the support, not of the army which had been raised by universal service and had gained the victory in the great war, but upon a voluntary force of counter-revolutionary soldiers and police. Thus, not merely in Russia from the close of 1917, but likewise all over Europe from the close of 1918, a characteristic phenomenon was the abandonment of universal military service and the adoption of a system of class armies. In Russia, the traitors to socialism - the mensheviks and the social revolutionaries - were strongly opposed to the formation of the Red Army of the proletariat, at the very time when in Central Europe their friends Noske and Scheidermann were organizing the White Army of the bourgeoisie. Thus the struggle against the creation of the class army of the proletariat (a struggle conducted in the name of universal military service and in the name of 'democracy') showed itself in practice to be a struggle to found the class army of the bourgeoisie.
+
+Passing now to consider the question of a national militia, we find that the example of Switzerland, the example of the most democratic of all the bourgeois republics, has shown the part which such a militia plays in the hour when the class struggle is accentuated. The national militia, the 'people's militia', of Switzerland under a bourgeois rÃ©gime proves to be precisely the same weapon for keeping the proletariat down as any standing army in less democratic lands. The arming of the whole nation will inevitably lead to this result whenever and wherever it is effected under the political and economic rÃ©gime of capitalism.
+
+THE COMMUNIST PARTY DOES NOT ADVOCATE THE UNIVERSAL ARMING OF THE PEOPLE, BUT THE UNIVERSAL ARMING OF THE WORKERS. ONLY IN A SOCIETY CONSISTING OF NONE BUT WORKERS, ONLY IN A CLASSLESS SOCIETY, WILL IT BE POSSIBLE TO ARM THE WHOLE PEOPLE.

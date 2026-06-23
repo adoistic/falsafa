@@ -1,0 +1,26 @@
+{
+  "work_slug": "antonio-labriola-socialism-and-philosophy-76c79b",
+  "work_title": "Socialism and Philosophy",
+  "chapter_number": 6,
+  "chapter_title": "VII",
+  "chapter_slug": "06-vii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d1d72b47-2c9a-5675-9cdc-456fe738b03b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3623,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/labriola/works/al05.htm"
+    }
+  ]
+}

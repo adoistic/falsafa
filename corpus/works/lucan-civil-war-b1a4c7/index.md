@@ -4,7 +4,10 @@ slug: "lucan-civil-war-b1a4c7"
 title: Civil War
 author:
   name: Lucan
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman poet of the Neronian age, nephew of Seneca, forced to suicide after the Pisonian conspiracy. His unfinished epic Civil War recounted the struggle between Caesar and Pompey in a dark, rhetorical counter to Virgilian epic.
+  birth_year: 39
+  death_year: 65
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

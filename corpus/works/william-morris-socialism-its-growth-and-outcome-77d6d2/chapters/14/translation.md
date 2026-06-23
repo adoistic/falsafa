@@ -1,0 +1,65 @@
+---
+work_id: "77d6d2fd-ca3c-5cb1-b1a9-b7b7d7bd4faa"
+work_slug: "william-morris-socialism-its-growth-and-outcome-77d6d2"
+work_title: "Socialism: Its Growth and Outcome"
+author_name: William Morris
+chapter_number: 14
+chapter_title: Chapter 12
+chapter_slug: 14
+variant_id: "458a69b1-3e3f-50b9-92f3-0c2765965189"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2063
+source_url: "https://www.marxists.org/archive/morris/works/1893/sgo/ch12.htm"
+translator: Marxists Internet Archive edition
+---
+
+| | Socialism: Index | Works | William Morris Archive
+
+THE insurrection of the 10th August, 147 which culminated in the final downfall of the monarchy and the imprisonment of the King and royal family in the Temple, was headed and organised by a new body definitely revolutionary, intended to be the expression of the power of the proletariat, to wit, the Commune of Paris, the moving spirit of which was Marat, who even had a seat of honour assigned to him in its hall. Already, before the King had been sent to the Temple, the Girondin Vergniaud, as president, had moved the suspension of the “hereditary representative” and the summoning of a national Convention. 148 Danton was made minister of justice; and a new Court of Criminal Justice was established for the trial of political offences. The members of the Convention were chosen by double election, but the property qualification of “active and passive citizens" was done away with.
+
+While all this was going on, the movement of the reactionary armies on France was still afoot; and the furious flame of French national enthusiasm, which was afterwards used by the self-seeking conqueror Napoleon, was lighted by the necessity of the moment—not to be extinguished in days long after his. We mention this here because, in order to appreciate what follows, it must be remembered that an armed coalition of the absolutist countries was gathering together, threatening to drown the Revolution in the blood of the French people, and especially of the people of Paris; that one of its armies, commanded by the Duke of Brunswick, a famous general of Frederick the Great, was already within a few days’ march of the city; that nothing 149 was between Paris and destruction but undisciplined levies and the rags of the neglected army formed under the old regime; while at the same time the famous royalist insurrection had broken out in La Vendée. Every republican in Paris, therefore, had good reason to feel that both his own life and the future of his country were in immediate danger at the hands of those who did not care what became of France and her people so long as the monarchy could be restored.
+
+Danton now demanded a search for arms, which was carried out on 29th August; and the prisons were filled with prisoners suspected of royalist plotting, and many of them surely guilty of it.
+
+Verdun fell on the 2nd September, and the Duke of Brunswick boasted that he would presently dine in Paris; and on the same night the irregular trials and slaughter of the prisoners in Paris, known as the September Massacres, took place.
+
+The next day a circular was issued by the Committee of Public Safety, approving of the massacre, signed by Sergent, 150 Panis (Danton’s friend), and Marat, with seven others.
+
+The Girondins in the Assembly and elsewhere kept quiet for the time, though they afterwards used the event against the Jacobins.
+
+Meanwhile the French army, under Dumouriez, had seized on the woodland hills of the Argonne, checked Brunswick, defeated him at Valmy, and Paris was saved.
+
+The Convention now met—on the 20th September—and the parties of the Girondins and the Mountain, or extreme revolutionists, were at once formed in it. It is noteworthy that while it declared as its foundation the sovereignty of the people and the abolition of royalty, it also decreed that landed and other property was sacred for ever. Apropos of which, it may here be mentioned that the bookseller Momoro, having hinted at something like agrarian law, and some faint shadow of Socialism, had to go into hiding to avoid hanging.
+
+So far, therefore, we have got no further than the complete triumph of bourgeois republicanism. The possibility, 151 notwithstanding, of its retaining its position depended, as the event showed, on the support of the proletariat, which was only given on the terms that the material condition of the workers should be altered for the better by the new regime. And those terms, in the long run, bourgeois republicanism could not keep, and therefore it fell.
+
+The Girondins or moderate party in the Convention began their assault on the Jacobins on the subject of the September Massacres, and also by attacking Marat personally, which attack, however, failed egregiously. The Girondins, as their name implies, leaned on the support of the provinces, where respectability was stronger than in Paris, and tried to levy a bodyguard for the defence of the Convention against the Paris populace; but though they got the decree for it passed, they could not carry it out. In their character of political economists, also, they resisted the imposing of a maximum price on grain, a measure which the scarcity caused by the general disturbance made imperative, if the proletariat were to have any share in the advantages 182 of the Revolution. In short, the Girondins were obviously out of sympathy with the mass of the people.
+
+The trial of the King now came on, and tested the Girondins in a fresh way; they mostly voted his death, but as if driven to do so from a feeling that opinion was against them, and that they might as well have some credit for it. Louis was beheaded on the 21st January 1793, and as an immediate consequence England and Spain declared war. But this business of the King made a kind of truce between the parties, which, however, soon came to an end. Marat was the great object of attack, and on the 25th February 1793 he was decreed accused on account of some passages in his journal approving of the bread riots which had taken place, and suggesting the hanging of a forestaller or two. On the other hand, on the 10th March the section Bonconseil demanded the arrest of the prominent Girondins. Meantime, Danton had been trying all along to keep the peace between the two parties, but on 1st April the Girondins accused him of complicity with Dumouriez, 153 who had now fled over the frontier, and so forced him into becoming one of their most energetic enemies. The position of the Girondins was now desperate. On the 24th March Marat was acquitted and brought back in triumph to the Convention.
+
+The Girondins got a packed committee of twelve appointed in the interest of the Convention as against the Paris sections. As an answer to this a central committee of the sections was formed, which on 31st May dominated the Municipality (not loth to be so dealt with) and surrounded the Convention with troops. After an attempt on the part of the Girondins to assert their freedom of action, the Convention decreed them accused, and they were put under arrest. They died afterwards, some by the guillotine, some even more miserably, within a few months; but their party is at an end from this date. All that happened in the Convention from this time to the fall of Robespierre in “Thermidor” was the work of a few revolutionists, each trying to keep level with the proletarian instinct, and each 154 falling in turn. They had not the key to the great secret; they were still bourgeois, and still supposed that there must necessarily be a propertiless proletariat led by bourgeois, or at least served by them; they had not conceived the idea of the extinction of classes, and the organisation of the people itself for its own ends.
+
+Marat’s death at the hand of Charlotte Corday, on 14th July, removed the only real rival to Robespierre, and the only man who could have modified the extravagance of the Terror.
+
+The law of maximum was now passed, however, and a cumulative income tax, so that, as Carlyle remarks, the workman was at least better off under the Terror than he had ever been before.
+
+Robespierre, Danton, and the Hebertists were now what of force was left in the Convention, and the first of these was not slow to make up his mind to get the reins of power into his own hands. Meantime, an attempt was made to institute a new worship founded on Materialism; but, like all such artificial attempts to establish what is naturally 153 the long growth of time, it failed. Chaumette, Hebert, and their followers were the leaders in this business, which Robespierre disapproved of, and Danton growled at.
+
+The Extraordinary Tribunal under Fouquier Tinville, the agent of the Terror, speedily got rid of all obstacles to the Revolution, and of many of the foremost rank of its supporters. Robespierre became at last practical dictator, partly owing to his adroit steering between the parties, and his industry and careful painstaking, and partly to his reputation for incorruptibility and republican asceticism.
+
+The Hebertists, who were so called from Hebert, their leader, and who represented the proletarian instinct or germ of Socialism, under the name of the “Enragés” (rabids), were accused at Robespierre’s instance, found guilty and executed. Danton, giving way it would seem to some impulse towards laziness inherent in his nature, let himself be crushed, and died along with Camille Desmoulins on 31st March 1794, and at last Robespierre was both in reality and appearance 156 supreme. On the 8th June he inaugurated his new worship by his feast of the Supreme Being, and two days later got a law passed (the law Prairial) which enabled him to condemn any one to the guillotine at pleasure; and at this ominous grumblings began to be heard. According to a story current, Carnot got by accident at a list of forty to be arrested, among whom he read his own name.
+
+On the 26th July Robespierre was met by unexpected opposition in the Convention. The next day he was decreed accused at the Convention, and Henriot deposed from the commandership of the National Guard; but there was a respite which a more ready man, a man of military instinct at least, might have used. Robespierre lacked that instinct; Henriot failed miserably in his attempt to crush the Convention. The armed sections of Paris, on being appealed to by the Convention, wavered and gave way, and Robespierre was arrested. In fact, Robespierre seems to have worn out the patience of the people by his continued executions. Had he proclaimed an amnesty after his Feast of the 157 Supreme Being, he would probably have had a longer lease of power; as it was he and his tail died on the 28th July.
+
+There was nothing left to carry on the Revolution after this but a knot of self-seeking politicians of the usual type; they had only to keep matters going until they were ready for the dictator who could organise for his own purposes people and army, and who came in the shape of Napoleon. The proletarians were no longer needed as allies, and disunited, ignorant of principles, and used to trust to leaders, they could make no head against the Society, which they had shaken indeed, owing to its internal dissensions, but which they were not yet able to destroy.
+
+One event only there remains to be mentioned, the attempt of Baboeuf and his followers to get a proletarian republic recognised; it has been called an insurrection, but it never came to that, being crushed while it was yet only the beginning of a propaganda. Baboeuf and his followers were brought to trial in April 1796. He and Darthes were condemned to death, but killed themselves 158 before the sentence could be carried out. Ten others were condemned to prison and exile; and so ended the first Socialist propaganda.
+
+It is commonly said that Napoleon crushed the Revolution, but what he really did was to put on it the final seal of law and order. The Revolution was set on foot by the middle classes in their own interests; the sentence that Napoleon accepted as the expression of his aims, “la carriére ouverte aux talens”—“the career thrown open to talent”—is the motto of middle-class supremacy. It implies the overthrow of aristocratic privilege and the setting up in its place of a money aristocracy, founded on the privilege of exploitation, amidst a world of so-called “free competition.” The middle-class, the first beginnings of which we saw formed in mediæval times, after a long and violent struggle, has conquered and is supreme from henceforth.
+
+| | Socialism: Index | Works | William Morris Archive

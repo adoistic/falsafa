@@ -1,47 +1,22 @@
 [
   {
-    "id": "p-077dc7",
+    "id": "p-538362",
     "offset": 0,
-    "text": "We have already considered in what manner a tax, laid upon the land, and proportioned to the rent; in what manner a tax laid upon the land, and proportioned to the produce; and in what manner a tax laid upon the land, and proportioned to the farmer's profits, would operate. The first would be a tax upon the landlord; the second would be a tax upon the consumer, and would not affect the landlord; the third would be a tax upon the consumer, and would benefit the landlord. A tax may also be laid upon the land at so much per acre."
+    "text": "Taxes upon the transfer of property are of several kinds; such as stamp duties upon purchase and sale, legacy duties, duties upon the writings required in the conveying of property, and others of the same nature."
   },
   {
-    "id": "p-0a11d8",
-    "offset": 534,
-    "text": "We have seen that there is a portion of capital employed upon the land, the return to which is sufficient to afford the ordinary profits of stock, but nothing more. If any addition is made to the cost of producing, a rise of price must afford compensation. If no addition is made to such cost, price will not be affected."
+    "id": "p-e1d579",
+    "offset": 214,
+    "text": "In the case of all that property, which is the produce of labour and capital, the tax upon purchase and sale falls upon the purchaser, because the cost of production, including the profits of stock, must be afforded along with the tax."
   },
   {
-    "id": "p-ffad5a",
-    "offset": 857,
-    "text": "If a tax is laid, at so much per acre, on land, both cultivated, and uncultivated, no addition will be made to the cost of producing. There are two cases in which portions of capital are employed on the land, without yielding more than the ordinary profits of stock; of course yielding nothing for rent: the one is, where, after two or more doses of capital have been bestowed upon land, each yielding less than the former, a third or a fourth comes to be employed; the other is, where, after land of the second or third degree of fertility has been exhausted, cultivation is forced upon land of a still inferior quality."
+    "id": "p-542723",
+    "offset": 451,
+    "text": "Taxes upon the transfer of land, which is a source of production, and not the effect of labour and capital, fall upon the seller; because the purchaser considers what benefit he could derive from his capital employed in another way; and if the land will not afford him an equivalent, he will refuse to exchange it for the land."
   },
   {
-    "id": "p-fa12ca",
-    "offset": 1480,
-    "text": "It is evident, immediately, that a tax on the acre does not affect the cost of production, when a subsequent dose of capital is employed upon the same land; because the tax is already paid; and it is, therefore, the interest of the farmer to apply a second dose, as soon as the price of produce has risen sufficiently high to afford him a full profit and nothing more."
-  },
-  {
-    "id": "p-45328f",
-    "offset": 1850,
-    "text": "When capital is applied to new land of inferior quality, upon which the tax was previously paid, the cultivator receives his remuneration the moment produce rises sufficiently high to afford the profits of the stock which the cultivation may require; and no allowance is to be made for a tax which does not depend upon the cultivation."
-  },
-  {
-    "id": "p-3a6774",
-    "offset": 2187,
-    "text": "When the tax is levied only on cultivated land; as capital passes downwards from the more fertile land which has been cultivated before, to the less fertile, which has not been cultivated, the tax likewise descends. The produce to be raised must yield, not only the ordinary profits of stock, but the tax also; such land will not be cultivated till the price of produce has risen sufficiently high to yield that accumulated return. The tax, therefore, is included in the price."
-  },
-  {
-    "id": "p-971dd5",
-    "offset": 2666,
-    "text": "The consequence, with regard to the landlord, is beneficial. Suppose that land of the third degree of fertility is the last to which cultivation has descended; that such land yields at the rate of two quarters per acre, land of the next degree above it at the rate of four quarters, and land of the first degree of fertility six quarters; in this case, it is evident, that two quarters upon each acre affords both the tax, and the remuneration to the farmer. The landlord, therefore, may derive two quarters from the acre of second quality, four quarters from the acre of first. He draws this quantity of produce, in both cases; as well when such a tax is levied, as when it is not levied. But in the case of the tax, the price is raised, and each of his quarters of corn is of greater value. Such a tax would, therefore, raise upon the consumers, not only so much per acre to the government, but a great deal more for the benefit of the landlords."
-  },
-  {
-    "id": "p-878602",
-    "offset": 3616,
-    "text": "One effect, however, of this tax would be, to retard the descent of capital to the inferior species of land. So long as fresh doses of capital, upon the land already in cultivation, were not diminished in productive power, to the whole extent of the tax, below what would be the productive power of capital employed upon the best of the uncultivated land, no capital would be employed upon it, and, during that interval, the cost of corn would be raised to the consumer, and additional rent would go to the landlord, without affording any revenue to the state."
-  },
-  {
-    "id": "p-06aae2",
-    "offset": 4178,
-    "text": "When first imposed, such a tax would have the effect of throwing an inferior species of land out of cultivation, wherever an additional dose of capital, on the better land, would not in productive power fall below that, which had gone to the worse land, to an extent equal to the tax. This would still raise the price of corn, because, by the supposition, the last portion of capital would be less productive than before; it would also increase the rent of landlords, but not so much as the full operation of the tax."
+    "id": "p-86ec36",
+    "offset": 780,
+    "text": "Legacy duties, and duties upon free gifts, fall, it is evident, upon the receivers."
   }
 ]

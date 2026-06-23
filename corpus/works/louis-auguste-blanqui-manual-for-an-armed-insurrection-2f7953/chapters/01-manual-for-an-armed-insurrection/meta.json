@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-auguste-blanqui-manual-for-an-armed-insurrection-2f7953",
+  "work_title": "Manual for an Armed Insurrection",
+  "chapter_number": 1,
+  "chapter_title": "Manual for an Armed Insurrection",
+  "chapter_slug": "01-manual-for-an-armed-insurrection",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e88bd43-ebc4-5af8-a3b7-687738ac99d7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2334,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/blanqui/1866/instructions1.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "jane-marcet-conversations-on-political-econo-b12c13",
+  "work_title": "Conversations on Political Economy",
+  "chapter_number": 9,
+  "chapter_title": "Conversation VIII, On Wages and Population.",
+  "chapter_slug": "09-conversation-viii-on-wages-and-population",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "abc58b75-d225-52c4-bfce-ea7fe10d0e87",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4185,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marcet-conversations-on-political-economy"
+    }
+  ]
+}

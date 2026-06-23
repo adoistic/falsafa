@@ -1,0 +1,23 @@
+---
+work_id: "d71bdeec-fa9e-54ed-8e54-765810508ac9"
+work_slug: "paul-lafargue-the-myth-of-athena-d71bde"
+work_title: The Myth of Athena
+author_name: Paul Lafargue
+chapter_number: 3
+chapter_title: III
+chapter_slug: "03-iii"
+variant_id: "60fffd24-5821-5d91-9994-c8558168d6bc"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 653
+source_url: "https://www.marxists.org/archive/lafargue/1890/09/athena.htm"
+translator: Marxists Internet Archive edition
+---
+
+Dionysius, surnamed dimetor, having two mothers, has the epithet of trigonos, ter-renatus, thrice-born, given him in the Orphic hymns (xxix., 2); because after Dionysius, son of Persephone, had been torn to pieces by the Titans, Zeus burned his heart to ashes and gave them to Semele to drink, who grew pregnant of Dionysius, the latter, on the death of his second mother, being enclosed in the thigh of Zeus. Athena shared a similar fate. According to Hesiod, Metis, when pregnant with Athena, was swallowed by Zeus, but before descending into the Divine stomach of the “father and mother of Gods,” she gave birth to Athena; and Zeus, in order to make good his claim to the titles of father and mother, made believe to have been delivered of her. The eastern frontispiece of the Parthenon that represented the scene has been so mutilated that the most important personages, Zeus and Athena, have disappeared; but in the University of Bologna there is a bronze Etruscan mirror, on the back of which exists a representation in intaglio of the accouchement of Zeus, which enables us to form an idea of the antique conception of this famous scene. “Zeus appears to faint away with pain,” writes M. Beulé in his description of the mirror ; “Venus supports him in her arms; Diana Lucina delicately extracts from his brain the little Athena shaking her lance. Hephæstios contemplates the group with an air of satisfaction. In fact, the birth of Athena was an ordinary basque Couvade (hatching): the father ... plays the mother’s part, goes to bed, fills the room with his cries and groans, and swears he has been delivered of the new-born baby. This grotesque farce, which has a great historical importance, has been enacted all over the world. Mr. Tylor, in his Early History of Mankind, gives a long but incomplete list of peoples among whom this curious custom has been traced.
+
+In Hesiod, Metis is the mother of Athena, but according to other traditions, she is described as the daughter of Tritonis by Poseidon, and of Coryphe, daughter of Okeanos, by Zeus. Dionysius also had it superfluity of mothers: Demeter, Persephone, Dione, Amalthea, etc. This uncertainty respecting the parentage proves that in the popular mind the tradition was doubtful, either because there was a multiplicity of Dionysiuses and Athenas who contributed to build up the Athena and Dionysius of later days; or because Athena was one of those primitive divinities of savages, living in a social state, in which, the family not being as yet constituted, the children call mother all the women of the tribe belonging to the same generation as their real mother. We know positively that Athena; belonged to a generation of divinities anterior to Zeus, Apollo, and the other “new gods” as Æschylus calls them in the Eumenides. Athena in all likelihood is one of those goddesses who, according to the popular belief, had neither father nor mother, but had sprung from- that “profound abyss from which everything comes and to which everything returns”; like Ghè “the antique mother of Gods and men”; like Tanath, the Phœnician goddess; like the Egyptian Neitha, the mother of Rà, the Sun, worshipped at Sais. If it could be proved that Athena belonged to this very antique generation of divinities, then the meaning of Tritogeneia would be clear. In order to do that, we should have to show how :Athena, before she became the mens divina of the philosophers, the perfect incarnation of intellect and of power, the master-piece. of Greek sculpture, had been the goddess of savage peoples, worshipped under the form of a log of wood ; how, like the butterfly, that does not turn into a winged flower before having crawled in the shape of an ugly worm, she has undergone a series of metamorphoses, was thrice-born and remodelled periodically to suit the progressive ideals of more advanced states of civilisation.

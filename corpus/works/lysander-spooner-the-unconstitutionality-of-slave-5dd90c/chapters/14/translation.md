@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-the-unconstitutionality-of-slave-5dd90c"
 work_title: The Unconstitutionality of Slavery
 author_name: Lysander Spooner
 chapter_number: 14
-chapter_title: "CHAPTER XIII.: THE CHILDREN OF SLAVES ARE BORN FREE."
+chapter_title: "Chapter XIII.: The Children of Slaves Are Born Free."
 chapter_slug: 14
 variant_id: "fb79767e-9c48-54df-bb20-734dc5d1bf9a"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 13142
+word_count: 13130
 source_url: "https://oll.libertyfund.org/titles/spooner-the-unconstitutionality-of-slavery-1860"
 translator: Online Library of Liberty edition
 ---
@@ -22,7 +22,7 @@ The idea that the children of slaves are necessarily born slaves, or that they n
 
 It is a principle of natural law in regard to property, that a calf belongs to the owner of the cow that bore it; fruit to the owner of the tree or vine on which it grew; and so on. But the principle of natural law, which makes a calf belong to the owner of the cow, does not make the child of a slave belong to the owner of the slave—and why? Simply because both cow and calf are naturally subjects of property; while neither men nor children are naturally subjects of property. The law of nature gives no aid to anything inconsistent with itself. It therefore gives no aid to the transmission of property in man—while it does give aid to the transmission of property in other animals and in things.
 
-Brute animals and things being naturally subjects of property, there are obvious reasons why the natural increase should belong to the owner of the original stock. But men, not being naturally subjects of property, the law of nature will not transmit any right of property acquired in violation of her own authority. The law Edition: current; Page: [130] of nature denies all rights not derived from herself. Of course she cannot perpetuate or transmit such rights—if rights they can be called.
+Brute animals and things being naturally subjects of property, there are obvious reasons why the natural increase should belong to the owner of the original stock. But men, not being naturally subjects of property, the law of nature will not transmit any right of property acquired in violation of her own authority. The law of nature denies all rights not derived from herself. Of course she cannot perpetuate or transmit such rights—if rights they can be called.
 
 One important reason why a calf belongs to the owner of the cow that bore it, is, that there is no principle of natural law that can be opposed to that ownership. For the calf is naturally a subject of property, and if it were not given to the owner of the cow, it would be lawful for any other person to assume the ownership. No wrong would be done to the animal by so doing. But as man is not naturally a subject of property, and as each separate individual is, on principles of natural law, entitled to the control of his own person, it is as much a wrong, and as much a violation of natural law, to make a slave of the child of a slave, as to make a slave of any other person. The natural rights of the child to the control of his own person, rise up, from the moment of his birth, in opposition to the transmission to him of any ownership, which, in violation of natural law, has been asserted to the parent.
 
@@ -30,7 +30,7 @@ Natural law may be overborne by arbitrary institutions; but she will never aid o
 
 Slavery is a wrong to each individual enslaved; and not merely to the first of a series. Natural law, therefore, as much forbids the enslaving of the child, as if the wrong of enslaving the parent had never been perpetrated.
 
-Slavery, then, is an arbitrary institution throughout. It depends from first to last, upon the letter of the arbitrary law. Natural law gives it no aid, no extension, no new application, under any circumstances whatever. Unless, therefore, the letter of the arbitrary Edition: current; Page: [131] law explicitly authorize the enslavement of the child, the child is born free, though the parent were a slave.
+Slavery, then, is an arbitrary institution throughout. It depends from first to last, upon the letter of the arbitrary law. Natural law gives it no aid, no extension, no new application, under any circumstances whatever. Unless, therefore, the letter of the arbitrary law explicitly authorize the enslavement of the child, the child is born free, though the parent were a slave.
 
 If the views that have already been taken of our written constitutions, be correct, no parent has ever yet been legally enslaved in this country; and of course no child. If, however, any one thinks he can place his finger upon any constitutional law, that has enslaved a parent, let him follow that law, and see whether it also expressly authorized the enslavement of the child. If it did not, the child would be free.
 
@@ -40,7 +40,7 @@ Under the constitutions of the States and the United States, it requires as expl
 
 This law of nature, that all men are born free, was recognized by this country in the Declaration of Independence. But it was no new principle then. Justinian says, “Captivity and servitude are both contrary to the law of nature; for by that law all men are born free.” But the principle was not new with Justinian; it exists in the nature of man, and is as old as man—and the race of man generally has acknowledged it. The exceptions have been special; the rule general.
 
-The constitution of the United States recognizes the principle that all men are born free; for it recognizes the principle that natural birth in the country gives citizenship—which of course Edition: current; Page: [132] implies freedom. And no exception is made to the rule. Of course all born in the country since the adoption of the constitution of the United States, have been born free, whether there were, or were not any legal slaves in the country before that time.
+The constitution of the United States recognizes the principle that all men are born free; for it recognizes the principle that natural birth in the country gives citizenship—which of course implies freedom. And no exception is made to the rule. Of course all born in the country since the adoption of the constitution of the United States, have been born free, whether there were, or were not any legal slaves in the country before that time.
 
 Even the provisions, in the several State constitutions, that the legislatures shall not emancipate slaves, would, if allowed their full effect, unrestrained by the constitution of the United States, hold in slavery only those who were then slaves; it would do nothing towards enslaving their children, and would give the legislatures no authority to enslave them.
 

@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-b-boudin-the-theoretical-system-of-karl-m-829bd6",
+  "work_title": "The Theoretical System of Karl Marx in the Light of Recent Criticism",
+  "chapter_number": 15,
+  "chapter_title": "IX. The Proletariat and the Revolution",
+  "chapter_slug": "15-ix-the-proletariat-and-the-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ef2fc7e3-509f-5a9c-8d51-0e37ed010882",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5280,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/boudin/1907/02/system/9-proletariat-and-revolution.html"
+    }
+  ]
+}

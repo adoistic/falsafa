@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 15,
+  "chapter_title": "I. The German Reformation",
+  "chapter_slug": "15-i-the-german-reformation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "127039f0-7162-5fa2-b548-f3b6d33804a8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2223,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch04.htm"
+    }
+  ]
+}

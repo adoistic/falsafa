@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-the-decline-of-capitalism-bfcb39",
+  "work_title": "The Decline of Capitalism",
+  "chapter_number": 7,
+  "chapter_title": "VI. The Agrarian Crisis",
+  "chapter_slug": "07-vi-the-agrarian-crisis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6af8d929-16b0-5385-b4ce-cf09b67f137d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1944,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1924/x01/x01.htm"
+    }
+  ]
+}

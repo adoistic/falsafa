@@ -2,7 +2,7 @@
   "work_slug": "john-rae-life-of-adam-smith-a74419",
   "work_title": "Life of Adam Smith",
   "chapter_number": 24,
-  "chapter_title": "CHAPTER XXIII: FREE TRADE FOR IRELAND 1779",
+  "chapter_title": "Chapter XXIV: The \"Wealth of Nations\" Abroad and at Home",
   "chapter_slug": "24",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 3791,
-      "paragraph_count": 31,
+      "word_count": 2353,
+      "paragraph_count": 14,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
     }

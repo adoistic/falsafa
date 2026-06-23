@@ -1,0 +1,26 @@
+{
+  "work_slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
+  "work_title": "The Thoughts (Pensées) of Blaise Pascal",
+  "chapter_number": 9,
+  "chapter_title": "Of Justice Customs and Prejudices.",
+  "chapter_slug": "09-of-justice-customs-and-prejudices",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d1257b2c-f67b-53bf-8b58-49e9e3b48ad9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4007,
+      "paragraph_count": 88,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-the-thoughts-of-blaise-pascal"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf",
+  "work_title": "The Shorter Logic (Encyclopaedia Logic)",
+  "chapter_number": 23,
+  "chapter_title": "C Actuality",
+  "chapter_slug": "23-c-actuality",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b70e316d-385d-5df9-9c19-3d0b9b3819d7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5747,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/sl/slactual.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-ethics-origin-and-development-3a8d7d",
+  "work_title": "Ethics: Origin and Development",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 1 : The Present Need of Determining the Bases of Morality",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ea4beb0e-32a2-5c2b-8eeb-6ddced6e5428",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6135,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1924/ethics-origin-and-development/chapter-1.html"
+    }
+  ]
+}

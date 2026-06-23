@@ -4,7 +4,7 @@ work_slug: "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e"
 work_title: The Common Sense of Political Economy
 author_name: Philip H. Wicksteed
 chapter_number: 24
-chapter_title: "CHAPTER III: CONCLUSION"
+chapter_title: "Chapter III: Conclusion"
 chapter_slug: 24
 variant_id: "34ef5fd4-8e8d-5d77-bfd6-a0b84c07eeae"
 content_type: translation

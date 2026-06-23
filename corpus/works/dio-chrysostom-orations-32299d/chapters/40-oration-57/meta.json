@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 40,
+  "chapter_title": "Oration 57",
+  "chapter_slug": "40-oration-57",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c58309d6-ff9c-575e-bf74-d4c8ceb414fb",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 916,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "22ebf8b6-279b-5a0f-85f1-fbda165cc747",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1261,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

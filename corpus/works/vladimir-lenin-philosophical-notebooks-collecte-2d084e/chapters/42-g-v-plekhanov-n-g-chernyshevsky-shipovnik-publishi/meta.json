@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 42,
+  "chapter_title": "G. V. Plekhanov. N. G. Chernyshevsky. Shipovnik Publishing House. St. Petersburg, 1910",
+  "chapter_slug": "42-g-v-plekhanov-n-g-chernyshevsky-shipovnik-publishi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0b53f633-4c5a-52fb-89d6-7ca26a30e9ef",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 377,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1908/remarks/ch05.htm"
+    }
+  ]
+}

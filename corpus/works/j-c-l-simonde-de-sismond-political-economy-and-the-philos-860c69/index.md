@@ -4,15 +4,19 @@ slug: "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69"
 title: Political Economy and the Philosophy of Government
 author:
   name: J. C. L. Simonde de Sismondi
-  biography: J. C. L. Simonde de Sismondi (1773–1842).
+  biography: "Swiss historian and economist of Geneva and an early critic of laissez-faire political economy. His writings introduced the problem of overproduction and crisis and argued that the state should temper the social costs of unregulated markets."
+  birth_year: 1773
+  death_year: 1842
+  nationality: Swiss
 era: 19th Century
 genre: Economics
 language: English
 language_direction: ltr
 description: "Political Economy and the Philosophy of Government, by J. C. L. Simonde de Sismondi (1773–1842), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
-total_logical_chapters: 45
-total_variant_entries: 45
+published_year: 1847
+total_logical_chapters: 44
+total_variant_entries: 44
 thothica_role: catalog
 ---
 
@@ -22,9 +26,9 @@ Political Economy and the Philosophy of Government, by J. C. L. Simonde de Sismo
 
 ## Chapters
 
-01. [PREFATORY NOTICE.](./chapters/01-prefatory-notice/) — prose, 1 variant
-02. [HISTORICAL NOTICE OF THE LIFE AND WORKS OF M. DE SISMONDI. BY M. MIGNET.](./chapters/02-historical-notice-of-the-life-and-works-of-m-de-si/) — prose, 1 variant
-03. [A](./chapters/03-a/) — prose, 1 variant
+01. [Prefatory Notice.](./chapters/01-prefatory-notice/) — prose, 1 variant
+02. [Historical Notice of the Life and Works of M. De Sismondi. By M. Mignet.](./chapters/02-historical-notice-of-the-life-and-works-of-m-de-si/) — prose, 1 variant
+03. [“Vie Et Travaux De Charles De Sismondi.”, A](./chapters/03-vie-et-travaux-de-charles-de-sismondi-a/) — prose, 1 variant
 04. [B](./chapters/04-b/) — prose, 1 variant
 05. [C](./chapters/05-c/) — prose, 1 variant
 06. [D](./chapters/06-d/) — prose, 1 variant
@@ -44,26 +48,25 @@ Political Economy and the Philosophy of Government, by J. C. L. Simonde de Sismo
 20. [Q](./chapters/20-q/) — prose, 1 variant
 21. [R](./chapters/21-r/) — prose, 1 variant
 22. [S](./chapters/22-s/) — prose, 1 variant
-23. [INTERVIEW WITH NAPOLEON.](./chapters/23-interview-with-napoleon/) — prose, 1 variant
-24. [PRELIMINARY ESSAY.](./chapters/24-preliminary-essay/) — prose, 1 variant
-25. [PREFACE TO NEW PRINCIPLESOF POLITICAL ECONOMY,AND THE LIGHT WHICH THEY MAY CAST ON THE CRISIS WHICH ENGLAND IS AT THIS T](./chapters/25-preface-to-new-principlesof-political-economy-and-/) — prose, 1 variant
-26. [INTRODUCTION to INQUIRIES INTO POLITICAL ECONOMY.](./chapters/26-introduction-to-inquiries-into-political-economy/) — prose, 1 variant
-27. [ON LANDED PROPERTY.](./chapters/27-on-landed-property/) — prose, 1 variant
-28. [NOTES to ESSAY ON LANDED PROPERTY.](./chapters/28-notes-to-essay-on-landed-property/) — prose, 1 variant
-29. [CLEARANCES AND EVICTIONS.](./chapters/29-clearances-and-evictions/) — prose, 1 variant
-30. [EXTRACT FROM THE ÉTUDES, vol. ii, p. 169.](./chapters/30-extract-from-the-etudes-vol-ii-p-169/) — prose, 1 variant
-31. [on the CONDITION OF THE WORK PEOPLE in MANUFACTORIES](./chapters/31-on-the-condition-of-the-work-people-in-manufactori/) — prose, 1 variant
-32. [on the NATIONAL INCOME, or the INCOME OF THE COMMUNITY.](./chapters/32-on-the-national-income-or-the-income-of-the-commun/) — prose, 1 variant
-33. [the COLONIES OF THE ANCIENTS, COMPARED WITH THOSE OF THE MODERNS, as regards their influence on the happiness of mankind](./chapters/33-the-colonies-of-the-ancients-compared-with-those-o/) — prose, 1 variant
-34. [On Universal Suffrage.](./chapters/34-on-universal-suffrage/) — prose, 1 variant
-35. [ON THE PRINCE, OR, EXECUTIVE POWER IN FREE COUNTRIES.](./chapters/35-on-the-prince-or-executive-power-in-free-countries/) — prose, 1 variant
-36. [ON THE PRINCE, OR, ON THE INSTITUTION OF THE SOCIAL POWERS, AND ON THEIR BALANCE.](./chapters/36-on-the-prince-or-on-the-institution-of-the-social-/) — prose, 1 variant
-37. [on electif'e. royalty.](./chapters/37-on-electife-royalty/) — prose, 1 variant
-38. [ON THE PRINCE, OR, EXECUTIVE POWER IN FREE COUNTRIES PART II.](./chapters/38-on-the-prince-or-executive-power-in-free-countries/) — prose, 1 variant
-39. [on The Aristocratic Element in Free Countries](./chapters/39-on-the-aristocratic-element-in-free-countries/) — prose, 1 variant
-40. [ON CONSTITUTIONAL MONARCHY](./chapters/40-on-constitutional-monarchy/) — prose, 1 variant
-41. [EXTRACTS from THE PRIVATE JOURNAL AND LETTERS of M. DE SISMONDI.](./chapters/41-extracts-from-the-private-journal-and-letters-of-m/) — prose, 1 variant
-42. [EXTRACT FROM A LETTER, JUNE 6TH, 1835.](./chapters/42-extract-from-a-letter-june-6th-1835/) — prose, 1 variant
-43. [EXTRACT FROM A LETTER ABOUT THE YEAR 1836.](./chapters/43-extract-from-a-letter-about-the-year-1836/) — prose, 1 variant
-44. [1838—ON THE PUBLICATION OF LES SCIENCES SOCIALES.](./chapters/44-1838-on-the-publication-of-les-sciences-sociales/) — prose, 1 variant
-45. [LIST of M. DE SISMONDI's WORKS..](./chapters/45-list-of-m-de-sismondis-works/) — prose, 1 variant
+23. [Interview with Napoleon.](./chapters/23-interview-with-napoleon/) — prose, 1 variant
+24. [Preliminary Essay.](./chapters/24-preliminary-essay/) — prose, 1 variant
+25. [Preface to New Principlesof Political Economy,and the Light Which They May Cast on the Crisis Which England Is at This T](./chapters/25-preface-to-new-principlesof-political-economy-and-/) — prose, 1 variant
+26. [Introduction to Inquiries into Political Economy.](./chapters/26-introduction-to-inquiries-into-political-economy/) — prose, 1 variant
+27. [On Landed Property.](./chapters/27-on-landed-property/) — prose, 1 variant
+28. [Clearances and Evictions.](./chapters/28-clearances-and-evictions/) — prose, 1 variant
+29. [Extract from the éTudes, vol. ii, p. 169.](./chapters/29-extract-from-the-etudes-vol-ii-p-169/) — prose, 1 variant
+30. [on the Condition of the Work People in Manufactories](./chapters/30-on-the-condition-of-the-work-people-in-manufactori/) — prose, 1 variant
+31. [on the National Income, or the Income of the Community.](./chapters/31-on-the-national-income-or-the-income-of-the-commun/) — prose, 1 variant
+32. [the COLONIES OF THE ANCIENTS, COMPARED WITH THOSE OF THE MODERNS, as regards their influence on the happiness of mankind](./chapters/32-the-colonies-of-the-ancients-compared-with-those-o/) — prose, 1 variant
+33. [On Universal Suffrage.](./chapters/33-on-universal-suffrage/) — prose, 1 variant
+34. [On the Prince, or, Executive Power in Free Countries.](./chapters/34-on-the-prince-or-executive-power-in-free-countries/) — prose, 1 variant
+35. [On the Prince, or, on the Institution of the Social Powers, and on Their Balance.](./chapters/35-on-the-prince-or-on-the-institution-of-the-social-/) — prose, 1 variant
+36. [on electif'e. royalty.](./chapters/36-on-electife-royalty/) — prose, 1 variant
+37. [On the Prince, or, Executive Power in Free Countries Part II.](./chapters/37-on-the-prince-or-executive-power-in-free-countries/) — prose, 1 variant
+38. [on The Aristocratic Element in Free Countries](./chapters/38-on-the-aristocratic-element-in-free-countries/) — prose, 1 variant
+39. [On Constitutional Monarchy](./chapters/39-on-constitutional-monarchy/) — prose, 1 variant
+40. [Extracts from the Private Journal and Letters of M. De Sismondi.](./chapters/40-extracts-from-the-private-journal-and-letters-of-m/) — prose, 1 variant
+41. [Extract from a Letter, June 6Th, 1835.](./chapters/41-extract-from-a-letter-june-6th-1835/) — prose, 1 variant
+42. [Extract from a Letter About the Year 1836.](./chapters/42-extract-from-a-letter-about-the-year-1836/) — prose, 1 variant
+43. [1838—On the Publication of Les Sciences Sociales.](./chapters/43-1838-on-the-publication-of-les-sciences-sociales/) — prose, 1 variant
+44. [List of M. De SISMONDI's Works..](./chapters/44-list-of-m-de-sismondis-works/) — prose, 1 variant

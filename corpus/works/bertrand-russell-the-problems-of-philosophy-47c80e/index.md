@@ -4,13 +4,17 @@ slug: "bertrand-russell-the-problems-of-philosophy-47c80e"
 title: The Problems of Philosophy
 author:
   name: Bertrand Russell
-  biography: "Bertrand Russell (1872-1970)."
+  biography: "British logician and philosopher, co-author with Whitehead of Principia Mathematica and a public dissenter through two world wars. His shorter books carried the analytic method into epistemology, psychology, and politics for a general readership."
+  birth_year: 1872
+  death_year: 1970
+  nationality: British
 era: 20th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "The Problems of Philosophy, by Bertrand Russell (1872-1970), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1912
 total_logical_chapters: 15
 total_variant_entries: 15
 thothica_role: catalog

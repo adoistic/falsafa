@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 39,
+  "chapter_title": "(K): That we Want to be Complete in ourselves and Sufficient to ourselves, and Independent, as a Nation, which State of ",
+  "chapter_slug": "39-k-that-we-want-to-be-complete-in-ourselves-and-suf",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0eb0ed0-a574-53f7-9707-8040080ceb08",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 306,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

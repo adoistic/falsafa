@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-mehring-absolutism-and-revolution-in-ger-6d03ed",
+  "work_title": "Absolutism and Revolution in Germany 1525-1848",
+  "chapter_number": 2,
+  "chapter_title": "The break-up of the Papal Church",
+  "chapter_slug": "02-the-break-up-of-the-papal-church",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae2a41f0-e30d-5c96-9f01-538c14799f14",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1786,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/mehring/1910/absrev/ch01.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 98
-chapter_title: "CHAPTER VII: Labour Exchanges in France"
+chapter_title: "Chapter IX: The Exploitation of Intimidation"
 chapter_slug: 98
 variant_id: "56498e62-29bd-5ccd-93e7-9e0002652924"
 content_type: translation
@@ -13,21 +13,83 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 559
+word_count: 1743
 source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
 translator: Online Library of Liberty edition
 ---
 
-Subsidising the arsenals of the social war—The Labour Exchange versus labour—The Labour Exchanges versus the State—Inspectors of labour and the Labour Exchanges.
+M. Jaurès' schemes—The end justifies the means—Buchez—The use of violence, according to M. Georges Sorel—Violence in strikes—The leaders of the Confederation of Labour are politicians—Parisian panics—Steudhal's saying—“Fear is not in the danger, it is in ourselves”—Social bankruptcy as an ideal—The socialist tyranny announced and realised.
 
-Not only does the “infamous bourgeoisie” tolerate the organising of a general strike, it contributes to it, subsidises it, and supports it.
+On May 2nd, 1907, my excellent friend M. Faubert encountered a member of the Confederation of Labour who occasionally condescends to have a chat with him. He asked M. Faubert, with a selfsatisfied air, whether he had seen the “Humanité” newspaper.
 
-In Paris, the bourgeoisie places a municipal edifice at the disposal of the agitators, paid for by the ratepayers of Paris and supported by them. By its help the leaders of the trades unions are supplied with allowances, heating, lighting, etc. For what purpose? To enable them to prepare for such events as the general strike. It is there that men can be heard declaring that, if they are resisted, they will organise a sanguinary insurrection; they announce that the electricians will have recourse to the destruction of property which, in their case, will consist in the organised making of short-circuits accompanied by fires and explosions as the necessary consequences; they announce that the strike of March 8th, 1906, was only a first attempt, but that they will take care, on the next occasion, to have the gasworkers with them. They give notice that in future, whenever a Municipal Council, a Parliament or a Government, declines to submit to one of their demands—demands which are always made in the name of a minority contrary to the general interest—they will have recourse to some means of this kind until the final catastrophe is attained, of which they allow their dupes to catch a glimpse, just as prophets of the millennium gave hints of the last judgment.
+M. Faubert: Certainly not, it is always lost in the same fog. I am still waiting for the suggested legislation promised by M. Jaurès in his speeches on June 12th and 14th, 1906. When challenged by M. Clemenceau, he announced that he would disclose the secret of the society of the future after an interval of four or five months. That time has now expired and I do not see what he is thinking about.
 
-They quietly prepare this work in a Municipal palace, at our expense; and scattered over various Edition: current; Page: [298] districts of France there are one hundred and twenty-four other Labour Exchanges, so called because they are solely pre-occupied with strikes, all of them supported in the same way by the municipalities. The members of the General Confederation of Labour are justified in being full of scorn for a capitalist society which gives them so large and devoted a measure of assistance towards its own destruction.
+The Confederate: He cannot disclose them independently; they have to be accepted by the United Socialist Party.
 
-I denounced the Labour Exchanges in the Chamber of Deputies on May 8th, 1893, and my speech caused them to be closed. M. Mesureur reopened them in 1895, with the result that the disorders took place which M. Rousselle denounced in the Paris Municipal Council. But they are still subsidised and their heads declare that “the Labour Exchanges have entered into acute antagonism with the State.”
+M. Faubert: Then we shall never see them. But why did he give such an undertaking?
 
-In a circular dated January 19th, 1900, M. Millerand, Minister of Commerce, instructed the inspectors of labour to enter into communication, either personally or by letter, with the secretaries of the Labour Exchanges and to request them to inform him of all violations of the laws for the protection of labour. M. Viviani repeated these instructions and ordered the inspectors to “ask the trades unions to report violations of the law relating to the weekly day of rest, and to give effect, as promptly as possible, to the information they might receive.”
+The Confederate: Because he has not yet submitted to the party discipline.
 
-The Labour Exchanges carry on the tradition of the Revolutionary Committees of 1793, which were originally charged with the surveillance of suspected persons and finally with the duty of arresting them. If ever a law be passed against employers of labour, similar to the “loi de prairial,” they will be quite ready to carry it out.
+M. Faubert: Yes, the Socialist party gives its tenor every liberty, but does not consider itself as bound by him. I admit that the party is not distinguished by curiosity. Its members are content that the tenor should sing, “Come, let us march to Paradise,” without asking him to describe the stages on the road or the plan on which this Paradise is constructed. However, from the moment when M. Jaurès scorns all the facts, and all the economic laws which are derived from them, and believes that a positive law can do everything, it is his duty to put these positive laws into writing and to reveal them to the world. Jaurès promised ten months ago to bring them down from Sinai. Moses did not keep the Israelites waiting so long.
+
+The Confederate: He will bring down the tables of the law, amid thunders and lightnings, which will make capitalist society tremble.
+
+M. Faubert: I recognise the usual metaphors. M. Georges Sorel has likened the general strike, in the “Mouvement Socialiste,” to the last Judgment in the Apocalypse; he declares that Christians have made such good use of it that Socialists, in their turn, should exploit the sentiment of mad terror and chimerical hope which it inspired.
+
+The Confederate: All means are good.
+
+M. Faubert: The end justifies the means. That is a Jesuit formula, adopted by a Catholic Socialist, Buchez, who tried to prove that the “sovereignty of the people” and the “sovereignty of the end” are identical.
+
+The Confederate: That is ancient history. We are more modern now. Read the “Réflexions sur la violence,” published by M. Georges Sorel, in the same review (January 15th, 1906, p. 18):—
+
+“Experience shews that the bourgeoisie easily submits to be plundered, provided that a little pressure be applied and that they be frightened by the threat of revolution: the party which is able to handle the spectre of revolution most boldly will have the future in its hands—The workmen are able to inspire fear. The members of revolutionary trade unions know how to make excellent use of this situation, and they are teaching the workmen that it is not a matter of going to ask for favours, but that they must profit by the cowardice of the bourgeoisie to impose upon them the will of the proletariat.
+
+M. Faubert: The will of the proletariat? That is a wide generalisation. You should say, the will of a dozen leaders of the Confederation of Labour.
+
+The Confederate: Certainly, it doesn't matter, for they act with the consent of the whole number, and, as Sorel says, they have succeeded.
+
+“The violence of the workmen possesses an extraordinary efficaciousness in case of strikes. The prefects are afraid of being induced to bring the force of the law into play against the violence of insurrection and bring pressure to bear upon employers in order to force them to yield: the safety of works is nowadays considered as a favour of which the prefect can dispose at will, in order to intimidate both parties and lead them with more or less adroitness to an agreement. There have not been wanting numbers of occasions upon which the leaders of the movement have seized upon this situation: we must recognise that they have made use of the weapon which was placed in their hands by a rare piece of good fortune. They endeavour to intimidate the prefects by popular demonstrations…. The administration, beset on all sides and terrified, seldom fails to intervene after a time with the employers and to impose upon them a transaction which becomes an encouragement to the propagandists of violence” (p. 29).
+
+Here you see, in the actual words of the philosopher of the party, what has been the effect of concessions, negociations, government meddling with strikes, interpellations in the Chamber of Deputies, and the conciliatory sentiments of tenderhearted persons. The only effect has been to teach people to use violence.
+
+M. Faubert: That proves that the men who are at the head of the Socialist party are politicians who know how to take advantage of the weapons with which their adversaries supply them in the belief that they are disarming them.
+
+The Confederate: You cannot blame them for that.
+
+M. Faubert: I do not do so. They are acting within their rights; but I think that they are acting under an illusion in trying to terrorise the bour geoisie. M. Georges Sorel says, “experience shews that the bourgeoisie easily submits to be plundered.” What facts can he cite in support of this assertion. When, on the contrary, it is a question of defending that property to which “the democracy clings with all its fibres,” to use M. Jaurès' own words, it exhibits an energy which has never belied itself. There is no night of August 4th to be put down to the account of the bourgeoisie.
+
+The Confederate: The question does not arise in the same manner.
+
+M. Faubert: It does, in effect.
+
+The Confederate: But would you deny the fear in the hearts of the bourgeoisie last year with regard to the first of May? Had not a number of people made preparations, while others went away?
+
+M. Faubert: That may be, but that only proves that those people were lacking in confidence in the Government. They had no faith in its power to fulfil its primary function—that of ensuring internal security. The Government took certain measures, and if some of the bourgeoisie fled, the soldiers of the army of the Confederation stayed at home. They do not seem to me to have displayed much more courage.
+
+The Confederate: Can you deny the ease with which the bourgeoisie takes fright? See what has just happened in the small-pox scare. I read in the “Progres Medical” of March 30th that:—
+
+“There have not been so few cases of small-pox in Paris for five years: if we are to believe the ‘statistique municipale officielle,’ the number of eases in the last two weeks was 8 and 12 respectively, instead of an average of 20. Whence, then, comes this strange panic, which shakes the people of Paris and makes the fortunes of the institutions which supply vaccine?”
+
+Owing to a few newspaper articles, people took fright at once and crowds waited at the vaccinators' establishments. Ladies, when by themselves, spoke of nothing but their vaccination, and looked with suspicion upon anyone who did not share their terror. One might venture anything with people who are frightened at once, without making inquiries.
+
+M. Faubert: Steudhal said long ago that “fear is not in the danger, it is in ourselves.”
+
+The Confederate: It only remains, then, to inspire it. See what we have already succeeded in doing with white-lead, and what we are about to do for absinthe. Do you believe that all Parisians will not suffer from colic on the day when they are convinced that the journeymen bakers are playing “la sabotage” in their bakehouses?
+
+M. Faubert: You have just said “all Parisians,” Fear, then, is not the special characteristic of the bourgeois. Do you think that the members of the Labour Exchange and their wives are less frightened of the small-pox than the bourgeois? Fear is not a capitalist privilege.
+
+The Confederate: The workman has nothing to lose.
+
+M. Faubert: Disabuse yourself of that idea. It is he who has most to lose. The bloated multimillionaire will invest his capital abroad if it be threatened, and he will transport himself abroad too, if he feel his person to be unsafe. He will no longer be interested in French industries and will spend less money in France. As Cobden says, wages rise when two employers are running after one workman, and fall when two workmen are running after one employer. Your policy, the object of which is to frighten capital, produces a certain result—that of making it take flight. If it does so, it will not transform itself into wages, and a strike with violence will produce a certain result—a strike of employers. It will transform artificial unemployed into actual ones.
+
+The Confederate: So much the better. That will be the beginning of the general winding up.
+
+M. Faubert: And then we have gone bankrupt. Is that then your ideal?
+
+The Confederate: Yes, the bankruptcy of capitalist society!
+
+M. Faubert: Well, but explain for us the constitution of your collectivist society.
+
+The Confederate: You want to know too much. But when I asked you whether you had read “l'Humanité” I did so with reference to an observation of M. Marcel Sembat to the effect that poor Yves Guyot had for a long time been denouncing the Socialist tyranny, but he was hardly listened to.
+
+M. Faubert: Very well, then; but it seems to me that he was quite right and that the others were wrong in not listening. Those who profit by the Socialist tyranny act like all tyrants; they abuse their power and act in such a way that people begin to listen to the man who denounced it at the time when people like M. Goblet placed themselves at the head of the Socialist Union. It is one of the results of the threats and the violence of your friends.

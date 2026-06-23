@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 29,
+  "chapter_title": "The Value Transferred by Machinery to the Product",
+  "chapter_slug": "29-the-value-transferred-by-machinery-to-the-product",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "efce510b-5f39-52e5-bca9-5ea804d0bb5d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2536,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm"
+    }
+  ]
+}

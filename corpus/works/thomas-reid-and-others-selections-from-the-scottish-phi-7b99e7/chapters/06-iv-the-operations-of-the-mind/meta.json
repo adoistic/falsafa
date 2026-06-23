@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 6,
+  "chapter_title": "Iv.—: The Operations of the Mind",
+  "chapter_slug": "06-iv-the-operations-of-the-mind",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "87d35e04-ab6b-5116-91de-aab68e8fa449",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11831,
+      "paragraph_count": 162,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

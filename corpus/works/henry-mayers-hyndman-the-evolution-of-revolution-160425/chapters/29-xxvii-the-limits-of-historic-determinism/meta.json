@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 29,
+  "chapter_title": "XXVII. The Limits of Historic Determinism",
+  "chapter_slug": "29-xxvii-the-limits-of-historic-determinism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ceed9606-aab6-5133-b32e-40a83c754328",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4104,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter27.htm"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 7,
+  "chapter_title": "Oration 8",
+  "chapter_slug": "07-oration-8",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3ce2dcbc-1e15-5cd2-82b5-28a045bc1c2c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1943,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e6b64881-8056-548a-a6bb-b1eec77953be",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2492,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

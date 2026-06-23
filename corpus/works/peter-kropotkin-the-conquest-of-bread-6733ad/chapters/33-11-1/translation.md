@@ -1,0 +1,51 @@
+---
+work_id: "6733adbb-7791-5c58-b040-6b5bbf1c5c7e"
+work_slug: "peter-kropotkin-the-conquest-of-bread-6733ad"
+work_title: The Conquest of Bread
+author_name: Peter Kropotkin
+chapter_number: 33
+chapter_title: 11.1
+chapter_slug: "33-11-1"
+variant_id: "cea51e9d-bc47-5542-82ff-ac583bd05f86"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1253
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1892/bread.htm"
+translator: Marxists Internet Archive edition
+---
+
+Accustomed as we are by heredity prejudices and our unsound education and training to represent ourselves the beneficial hand of Government, legislation and magistracy everywhere, we have come to believe that man would tear his fellow-man to pieces like a wild beast the day the police took his eye off him; that absolute chaos would come about if authority were overthrown during a revolution. And with our eyes shut we pass by thousands and thousands of human groupings which form themselves freely, without any intervention of the law, and attain results infinitely superior to those achieved under governmental tutelage.
+
+If you open a daily paper you find that its pages are entirely devoted to Government transactions and to political jobbery. A man from another world, reading it, would believe that, with the exception of the Stock Exchange transactions, nothing gets done in Europe save by order of some master. You find nothing in the paper about institutions that spring up, grow up, and develop without ministerial prescription! Nothing – or almost nothing! Even where there is a heading, “Sundry Events” (Faits divers, a favorite column in the French papers), it is because they are connected with the police. A family drama, an act of rebellion, will only be mentioned if the police have appeared on the scene.
+
+Three hundred and fifty million Europeans love or hate one another, work, or live on their incomes; but, apart from literature, theatre, or sport, their lives remain ignored by newspapers if Governments have not intervened in it in some way or other. It is even so with history. We know the least details of the life of a king or of a parliament; all good and bad speeches pronounced by the politicians have been preserved: “speeches that have never had the least influence on the vote of a single member,” as an old parliamentarian said. Royal visits, the good or bad humour of politicians, their jokes and intrigues, are all carefully recorded for posterity. But we have the greatest difficulty to reconstitute a city of the Middle Ages, to understand the mechanism of that immense commerce that was carried on between Hanseatic cities, or to know how the city of Rouen built its cathedral. If a scholar spends his life in studying these questions, his works remain unknown, and parliamentary histories – that is to say, the defective ones, as they only treat of one side of social life – multiply; they are circulated, they are taught in schools.
+
+In this way we do not even perceive the prodigious work, accomplished every day by spontaneous groups of men, which constitutes the chief work of our century.
+
+We therefore propose to point out some of these most striking manifestations, and to show how men, as soon as their interests do not absolutely clash, act in concert, harmoniously, and perform collective work of a very complex nature.
+
+It is evident that in present society, based on individual property – that is to say, on plunder, and on a narrow-minded, and therefore foolish individualism – facts of this kind are necessarily limited; agreements are not always perfectly free, and often they have a mean, if not execrable aim.
+
+But what concerns us is not to give examples which might be blindly followed, and which, moreover, present society could not possibly give us. What we have to do is to show that, in spite of the authoritarian individualism which stifles us, there remains in our life, taken as a whole, a very great part in which we only act by free agreement; and that therefore it would be much easier than is usually thought, to dispense with Government.
+
+In support of our view we have already mentioned railways, and we will now return to them.
+
+We know that Europe has a system of railways, over 175,000 miles long, and that on this network you can nowadays travel from north to south, from east to west, from Madrid to Petersburg, and from Calais to Constantinople, without delays, without even changing carriages (when you travel by express). More than that: a parcel deposited at a station will find its addressee anywhere, in Turkey or in Central Asia, without more formality needed for sending it than writing its destination on a bit of paper.
+
+This result might have been obtained in two ways. A Napoleon, a Bismarck, or some potentate having conquered Europe, would from Paris, Berlin, or Rome, draw a railway map and regulate the hours of the trains. The Russian Tsar Nicholas I. dreamt of such a power. When he was shown rough drafts of railways between Moscow and Petersburg, he seized a ruler and drew on the map of Russia a straight line between these two capitals, saying, “Here is the plan.” And the road was built in a straight line, filling in deep ravines, building bridges of a giddy height, which had to be abandoned a few years later, after the railway had cost about 120,000 to 150,000 pounds per English mile.
+
+This is one way, but happily things were managed differently. Railways were constructed piece by piece, the pieces were joined together, and the hundred different companies, to whom these pieces belonged, gradually came to an understanding concerning the arrival and departure of their trains, and the running of carriages on their rails, from all countries, without unloading merchandise as it passes from one network to another.
+
+All this was done by free agreement, by exchange of letters and proposals, and by congresses at which delegates met to discuss well specified special points, and to come to an agreement about them, but not to make laws. After the congress was over, the delegates returned to their respective companies, not with a law, but with the draft of a contract to be accepted or rejected.
+
+Of course difficulties were met in the way. There were obstinate men who would not be convinced. But a common interest compelled them to agree in the end, without invoking the help of armies against the refractory members.
+
+This immense network of railways connected together, and the enormous traffic it has given rise to, no doubt constitutes the most striking trait of the nineteenth century; and it is the result of free agreement. If somebody had foretold it eighty years ago, our grandfathers would have thought him idiotic or mad. They would have said: “Never will you be able to make the shareholders of a hundred companies listen to reason! It is a Utopia, a fairy tale. A central Government, with an ‘iron’ dictator, can alone enforce it.”
+
+And the most interesting thing in this organization is, that there is no European Central Government of Railways! Nothing! No minister of railways, no dictator, not even a continental parliament, not even a directing committee! Everything is done by free agreement.
+
+So we ask the believers in the State, who pretend that “we can never do without a central Government, were it only for regulating the traffic,” we ask them: “But how do European railways manage without them? How do they continue to convey millions of travellers and mountains of luggage across a continent? If companies owning railways have been able to agree, why should railway workers, who would take possession of railways, not agree likewise? And if the Petersburg-Warsaw Company and that of Paris-Belfort can act in harmony, without giving themselves the luxury of a common commander, why, in the midst of our societies, consisting of groups of free workers, should we need a Government?”

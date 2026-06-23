@@ -4,13 +4,17 @@ slug: "richard-william-church-bacon-d0bce2"
 title: Bacon
 author:
   name: Richard William Church
-  biography: "Richard William Church (1815-1890)."
+  biography: "English clergyman, Dean of St Paul's, and historian associated with the Oxford Movement. His Bacon for the English Men of Letters series gave a compact critical account of Francis Bacon's life and thought."
+  birth_year: 1815
+  death_year: 1890
+  nationality: English
 era: 19th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "Bacon, by Richard William Church (1815-1890), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1884
 total_logical_chapters: 9
 total_variant_entries: 9
 thothica_role: catalog

@@ -1,0 +1,62 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 120
+chapter_title: Letter 120
+chapter_slug: "120-letter-120"
+variant_id: "4b888875-5d13-5b12-b75f-9542b7a5cf04"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 2152
+translator: thothica
+---
+
+1. Your letter has wandered through several little questions, but has settled upon one, and desires this to be cleared up: how the notion of the good and the honourable has come to us. These two are, with others, distinct things; with us they are only divided.
+
+2. I will tell you what this means. Some think that the good is what is useful; and so they put this name upon riches and a horse and wine and a shoe; so cheap with them is the good, and so far down into sordid things does it descend. They think honourable that in which there is a reason of right duty, such as a father's old age piously tended, a friend's poverty relieved, a brave campaign, a prudent and moderate opinion. We make these two indeed, but out of one.
+
+3. Nothing is good but what is honourable. What is honourable is certainly good. I judge it superfluous to add what difference there is between these, since I have often said it. This one thing I will say, that nothing seems good to us which one can also use ill. But you see how many use riches, noble birth, strength ill. Now therefore I return to that on which you wish me to speak, how the first notion of the good and the honourable has come to us.
+
+4. This Nature could not teach us; she gave us the seeds of knowledge, but did not give us knowledge. Some say that we lighted upon the notion by chance, which is incredible, that the appearance of virtue met someone by accident. To us it seems that observation has gathered it, and the comparing among themselves of things often done; through analogy our school judge both the honourable and the good to have been understood. Since the Latin grammarians have given this word the right of citizenship, I do not think it should be condemned, but rather restored to its own city. I will use it, then, not only as received, but as familiar.
+
+5. What this analogy is, I will tell you. We knew the health of the body; from this we conceived that there is also some health of the mind. We knew the strength of the body; from these we concluded that there is also a strength of the mind. Some kindly deeds, some humane, some brave had astonished us; these we began to admire as though perfect. Beneath them lay hidden many faults, which the appearance of some conspicuous deed and its brilliance concealed; these we dissembled. Nature bids us magnify things praiseworthy; everyone has carried glory beyond the truth; from these things, therefore, we have drawn the appearance of an immense good.
+
+6. Fabricius rejected the gold of King Pyrrhus, and judged it greater than a kingdom to be able to despise a king's wealth. The same man, when Pyrrhus's physician promised to give the king poison, warned Pyrrhus to beware of treachery. It was of the same spirit not to be conquered by gold, and not to conquer by poison. We admired that mighty man, whom the promises neither of a king nor against a king had bent, tenacious of a good example, and—what is most difficult—innocent in war, who believed that there is some wickedness even toward enemies, who in the utmost poverty, which he had made his own glory, fled from riches no otherwise than from poison. "Live," he said, "by my favour, Pyrrhus, and rejoice in what hitherto grieved you, that Fabricius cannot be corrupted."
+
+7. Horatius Cocles alone filled the narrows of the bridge, and bade his retreat be cut off behind him, provided only the way were taken from the enemy, and he withstood the pressing foe so long until the timbers, torn away in a mighty crash, resounded. After he looked back and felt that his country was beyond danger by his own danger, "Let come," he said, "whoever wishes, to follow me as I go thus," and threw himself headlong, no less anxious to come out of that swift channel of the river armed than safe, and, keeping the honour of his victorious arms, returned as safe as if he had come by the bridge.
+
+8. These and such deeds showed us an image of virtue. I will add what may perhaps seem strange: evils have sometimes presented the appearance of the honourable, and the best has shone out from its contrary. For there are, as you know, vices bordering on the virtues, and even in the lost and base there is a likeness to the right; so the prodigal counterfeits the liberal man, when there is the greatest difference whether a man knows how to give or does not know how to keep. Many, I say, Lucilius, there are who do not give but fling away; I do not call a man liberal who is angry with his own money. Carelessness imitates affability, rashness courage.
+
+9. This likeness has forced us to attend and to distinguish things near indeed in appearance, but in fact greatly differing from one another, and, while we observe those whom some distinguished deed has made conspicuous, to note who has done some thing with a noble mind and great impulse, but only once. This man we have seen brave in war, timid in the forum, bearing poverty with spirit, infamy with abjectness; we have praised the deed, we have despised the man.
+
+10. Another we have seen kindly toward friends, moderate toward enemies, administering both public and private affairs scrupulously and religiously, not lacking patience in the things that had to be endured, prudence in the things that had to be done; we have seen him, where there was need to bestow, giving with full hand, where there was need to labour, persistent and steadfast and relieving the body's weariness with his mind. Besides, he was always the same and in every act equal to himself, now not good by counsel, but brought by habit to such a point that he could not only do right, but could not do anything but right. We understood that in him virtue was perfect.
+
+11. This we divided into parts; it behoved that cravings should be reined in, fears repressed, things to be done foreseen, things to be rendered distributed; we grasped temperance, courage, prudence, justice, and gave to each its own duty. From what, then, did we understand virtue? Its order showed it to us, and its grace and steadfastness and the concord of all its actions among themselves, and a greatness lifting itself above all things. From this was understood that happy life flowing down a prosperous course, wholly in its own control.
+
+12. How then did this very thing appear to us? I will tell you. Never did that perfect man, who had attained virtue, curse fortune; never did he receive accidents with sadness, but, believing himself a citizen and a soldier of the universe, he underwent labours as though they were ordered. Whatever befell, he did not spurn it as an evil and borne to him by chance, but as assigned to him. "This, whatever it is," he said, "is mine; it is rough, it is hard, in this very thing let us busy our service."
+
+13. Necessarily, then, that man appeared great who never groaned over evils, never complained of his fate; he gave many men an understanding of himself and shone out no otherwise than a light in the darkness, and turned the minds of all upon himself, since he was placid and gentle, equally fair toward things human and divine.
+
+14. He had a mind perfect and brought to the height of itself, above which there is nothing save the mind of God, of whom a part has flowed down even into this mortal breast. Which is never more divine than when it reflects upon its own mortality and knows that man was born for this, to discharge his life, and that this body is not a home but a lodging, and a brief lodging at that, which must be left when you see that you are burdensome to your host.
+
+15. The greatest proof, I say, my dear Lucilius, of a mind coming from a loftier seat, is if it judges these things among which it dwells to be lowly and narrow, if it does not fear to depart. For he knows whither he is to go forth, who remembers whence he came. Do we not see how many discomforts harass us, how ill this body agrees with us?
+
+16. Now we complain of the head, now of the belly, now of the chest and the throat. At one time the sinews, at another the feet vex us, now a flux, now a catarrh; sometimes there is too much blood, sometimes too little; on this side and on that we are tried and driven out; this is wont to happen to those who dwell in another's house.
+
+17. But we, though we have been allotted a body so rotten, none the less propose to ourselves eternal things, and, so far as human life can be stretched out, so far do we lay hold of it by hope, content with no money, no power. What can be done more shameless than this, what more foolish? Nothing is enough for men who are to die, nay, who are dying; for daily we stand nearer to the last, and every hour drives us toward that point from which we must fall. See in how great blindness our mind is!
+
+18. This which I call future is happening at this very moment, and a great part of it has already happened, namely what we have lived. But we are mistaken in fearing the last day, since each day contributes equally toward death. It is not that step at which we fail that makes the weariness, but it makes it manifest. The last day arrives at death, every day approaches it. It plucks at us, it does not snatch us away. Therefore a great mind, conscious of a better nature, takes pains indeed to bear itself honourably and industriously in this post in which it is placed, but judges none of these things which are about it to be its own, and uses them as things lent, a stranger and in haste.
+
+19. When we saw someone of such steadfastness, why should not there come over us the appearance of an unusual character? Especially if, as I said, an evenness showed this greatness to be true. The true tenor abides, false things do not last. Some are by turns Vatiniuses, by turns Catos; and now Curius is to them not severe enough, Fabricius not poor enough, Tubero not frugal enough nor content with cheap things; now they challenge Licinus in riches, Apicius in dinners, Maecenas in dainties.
+
+20. The greatest sign of a bad mind is wavering, and a constant tossing between a pretence of the virtues and a love of the vices. "A man would often have two hundred slaves, often ten; now talking of kings and tetrarchs, all things grand, now—'Let me have a three-legged table and a shell of clean salt, and a toga that can keep off the cold, however coarse.' Had you given a million to this man, thrifty, content with little, in five days there would be nothing."
+
+21. Such men are these as Horatius Flaccus describes this one, never the same, nor even like himself; so far does he wander into the opposite. Did I say many? It is near to being all. There is no one who does not daily change both his plan and his prayer. Now he wishes to have a wife, now a mistress; now he wishes to reign, now he acts so that no slave may be more obsequious; now he spreads himself out even to the point of envy, now he sinks and contracts himself below the lowliness of those who truly lie low; now he scatters money, now he snatches it.
+
+22. Thus is the imprudent mind most clearly convicted; one man comes forth and then another, and—than which I judge nothing more base—he is unequal to himself. Think it a great thing to play one man. But except the wise man no one plays one; the rest of us are manifold. Now we shall seem to you thrifty and grave, now prodigal and vain. We change our mask from time to time and take up one contrary to that we have put off. Demand this, then, of yourself, that, of whatever sort you have set yourself to show yourself, you keep such to the end. Bring it about that you can be praised, or if not, that you can be recognised. Of someone whom you saw yesterday it can deservedly be said: "Who is this?" So great is the change. Farewell.

@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 3
-chapter_title: "LETTER III.: Reasons for Restraint.—Prevention of Prodigality."
+chapter_title: "Letter III.: Reasons for Restraint.—Prevention of Prodigality."
 chapter_slug: 03
 variant_id: "07a65a99-52ef-5363-9afb-b22d496e39f4"
 content_type: translation

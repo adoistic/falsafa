@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 31,
+  "chapter_title": "XXIX. In Power",
+  "chapter_slug": "31-xxix-in-power",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11234a35-b6b8-5bf9-9a3a-399789ed55bc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5351,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch29.htm"
+    }
+  ]
+}

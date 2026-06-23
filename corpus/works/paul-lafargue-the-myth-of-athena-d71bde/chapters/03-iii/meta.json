@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-the-myth-of-athena-d71bde",
+  "work_title": "The Myth of Athena",
+  "chapter_number": 3,
+  "chapter_title": "III",
+  "chapter_slug": "03-iii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60fffd24-5821-5d91-9994-c8558168d6bc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 653,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1890/09/athena.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 19,
+  "chapter_title": "XVII. Preparing for a New Revolution",
+  "chapter_slug": "19-xvii-preparing-for-a-new-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7f988c91-3d2e-5031-b531-96219b74c613",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4927,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch17.htm"
+    }
+  ]
+}

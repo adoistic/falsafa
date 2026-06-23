@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-locke-two-treatises-of-government-fcc06c",
+  "work_title": "Two Treatises of Government",
+  "chapter_number": 26,
+  "chapter_title": "Chap. XIV. Of Prerogative.",
+  "chapter_slug": "26-chap-xiv-of-prerogative",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df661394-2044-58f2-84d7-8d5762063304",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2155,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+    }
+  ]
+}

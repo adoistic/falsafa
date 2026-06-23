@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-communism-in-central-europe-in-t-81f201",
+  "work_title": "Communism in Central Europe in the Time of the Reformation",
+  "chapter_number": 20,
+  "chapter_title": "VI. Münzer in Allstätt",
+  "chapter_slug": "20-vi-munzer-in-allstatt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c91524e4-6d61-5054-b3b2-12d31685853a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2949,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1897/europe/ch04.htm"
+    }
+  ]
+}

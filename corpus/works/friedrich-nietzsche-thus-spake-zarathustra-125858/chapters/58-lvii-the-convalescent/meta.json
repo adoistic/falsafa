@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 58,
+  "chapter_title": "LVII. The Convalescent.",
+  "chapter_slug": "58-lvii-the-convalescent",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a29f3b77-d147-5862-8537-c0e3247cdbf4",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 1862,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "63e17259-1f93-5238-a5d0-fb0c31350b92",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1962,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

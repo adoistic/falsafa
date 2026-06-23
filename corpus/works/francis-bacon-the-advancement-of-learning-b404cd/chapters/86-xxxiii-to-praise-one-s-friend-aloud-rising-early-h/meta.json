@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 86,
+  "chapter_title": "Xxxiii.—: To praise one’s friend aloud, rising early, has the same effect as cursing him",
+  "chapter_slug": "86-xxxiii-to-praise-one-s-friend-aloud-rising-early-h",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0be90b04-b6fd-5683-b7e8-25de86a65f81",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 215,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2"
 work_title: Dialogues Concerning Two New Sciences
 author_name: Galileo Galilei
 chapter_number: 1
-chapter_title: TRANSLATORS’ PREFACE
+chapter_title: Translators’ Preface
 chapter_slug: "01-translators-preface"
 variant_id: "0d445a2b-4db7-5b2b-b2a9-32f75b56d2c3"
 content_type: translation

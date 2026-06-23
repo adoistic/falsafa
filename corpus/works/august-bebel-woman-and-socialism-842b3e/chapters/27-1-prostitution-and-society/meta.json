@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 27,
+  "chapter_title": "1. Prostitution and Society.",
+  "chapter_slug": "27-1-prostitution-and-society",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "35275ecb-8e5a-50e8-ba76-86aceb14d689",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1351,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch12.htm"
+    }
+  ]
+}

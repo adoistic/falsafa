@@ -1,47 +1,87 @@
 [
   {
-    "id": "p-36f0d4",
+    "id": "p-da9815",
     "offset": 0,
-    "text": "As we advance in the investigation of the processes of industry, we cannot fail to perceive, that mere unassisted industry is insufficient to invest things with value. The human agent of industry must, besides, be provided with pre-existing products; without which his agency, however skillful and intelligent, would never be put in motion. These pre-existing requisites are,"
+    "text": "We have seen how industry, capital, and natural agents concur in production, each in its respective department; and we have likewise seen that these three sources are indispensable to the creation of products. It is not, however, absolutely necessary that they should all belong to the same individual."
   },
   {
-    "id": "p-3950d9",
-    "offset": 377,
-    "text": "The value of all these items constitutes what is denominated productive capital."
+    "id": "p-fcb747",
+    "offset": 304,
+    "text": "An industrious person may lend his industry to another possessed of capital and land only."
   },
   {
-    "id": "p-c96e03",
-    "offset": 459,
-    "text": "Under this head of productive capital must likewise be classed the value of all erections and improvements upon real or landed property, which increase its annual produce, as well as that of the farming live and dead stock, that operates as machinery in aid of human industry."
+    "id": "p-e82ec3",
+    "offset": 396,
+    "text": "The landholder may lend his estate to a person possessing capital and industry only."
   },
   {
-    "id": "p-aa0a78",
-    "offset": 737,
-    "text": "Another item of productive capital, is money, whenever it is employed to facilitate the interchange of products, without which production could never make any progress. Money distributed through the whole mechanism of human industry, like the oil that greases the wheels of complex machinery, gives the requisite ease and facility to its movements. But gold and silver are not productive unless employed by industry: they are like the oil in a machine remaining in a state of inaction. And so also of all other tools and implements of human industry."
+    "id": "p-689aa0",
+    "offset": 482,
+    "text": "Whether the thing lent be industry, capital, or land, inasmuch as all three concur in the creation of value, their use also bears value, and is commonly paid for."
   },
   {
-    "id": "p-5c11fb",
-    "offset": 1289,
-    "text": "It would evidently be a great mistake to suppose that the capital of a community consists solely of its money. The merchant, the manufacturer, the cultivator, commonly have the least considerable portion of the value composing their capital invested in the form of money; nay, the more active their concern is, the smaller is their relative proportion of their capital so vested to the residue. The funds of the merchant are placed out in goods on their transit by land or water, or warehoused in different directions: the capital of the manufacturer chiefly consists of the raw material in different stages of progress, of tools, implements, and necessaries for his workmen: while that of the cultivator is vested in farming buildings, live stock, fences and enclosures. They all studiously avoid burthening themselves with more money than is sufficient for current use."
+    "id": "p-7b347d",
+    "offset": 646,
+    "text": "The price paid for the loan of industry is called wages."
   },
   {
-    "id": "p-39fbf1",
-    "offset": 2162,
-    "text": "What is true of one, two, three, or four individuals, is true of society in the aggregate. The capital of a nation is made up of the sum total of private capitals; and, in proportion as a nation is prosperous and industrious, in the same proportion is that part of its capital, vested in the shape of money, trifling compared to the amount of the gross national capital. Neckar estimates the circulating medium in France, in the year 1784, at about 440 millions of dollars, and there are reasons for believing his estimate exaggerated; but this is not the time to state them. However, if account be taken of all the works, enclosures, live stock, utensils, machines, ships, commodities, and provisions of all sorts belonging to the French people or their government in any part of the world; and, if to these be added the furniture, decorations, jewellery, plate, and other items of luxury or convenience, whereof they were possessed, at the same period, it will be found that 440 millions of circulating medium was a mere trifle compared to the aggregate of these united values."
+    "id": "p-08968f",
+    "offset": 704,
+    "text": "The price paid for the loan of capital is called interest."
   },
   {
-    "id": "p-4b9c33",
-    "offset": 3243,
-    "text": "Beeke estimates the total capital of Great Britain at 2300 millions sterling, (equal to more than 11,000 millions of dollars.) The total amount of her circulating specie, before the establishment of her present paper money, was never reckoned by the highest estimates at more than 47 millions sterling; that is to say, about 1-50th of her capital. Smith reckoned it at no more than 18 millions, which could not be the 1-127th part."
+    "id": "p-3fe0d2",
+    "offset": 764,
+    "text": "And that paid for the loan of land is called rent."
   },
   {
-    "id": "p-3b83c1",
-    "offset": 3676,
-    "text": "Capital in the hands of a national government forms a part of the gross national capital."
+    "id": "p-4d26e6",
+    "offset": 816,
+    "text": "The ownership of land, capital, and industry is sometimes united in the same hands. A man who cultivates his own garden at his own expense, is at once the possessor of land, capital, and industry, and exclusively enjoys the profits of proprietor, capitalist, and labourer."
   },
   {
-    "id": "p-0f46c9",
-    "offset": 3767,
-    "text": "We shall see, by-and-by, how capital, which is subject to a continual wear and consumption in the process of production, is continually replaced by the very operation of production; or rather, how its value, when destroyed under one form, re-appears under another. At present it is enough to have a distinct conception, that, without it, industry could produce nothing. Capital must work, as it were, in concert with industry; and this concurrence is what I call the productive agency of capital."
+    "id": "p-f21d47",
+    "offset": 1090,
+    "text": "The knife-grinder's craft requires no occupancy of land; he carries his stock in trade upon his shoulders, and his skill and industry at his fingers' ends; being at the same time adventurer, capitalist, and labourer."
+  },
+  {
+    "id": "p-a13782",
+    "offset": 1308,
+    "text": "It is seldom that we meet with adventurers in industry so poor, as not to own at least a share of the capital embarked in their concern. Even the common labourer generally advances some portion; the bricklayer comes with his trowel in his hand; the journeyman tailor is provided with his thimble and needles; all are clothed better or worse; and though it be true, that their clothing must be found out of their wages, still they find it themselves in advance."
+  },
+  {
+    "id": "p-33e512",
+    "offset": 1770,
+    "text": "Where the land is not exclusive property, as is the case with some stone-quarries, with public rivers and seas to which industry resorts for fish, pearls, coral, &c., products may be obtained by industry and capital only."
+  },
+  {
+    "id": "p-c9ac06",
+    "offset": 1993,
+    "text": "Industry and capital are likewise competent to produce by themselves, when that industry is employed upon products of foreign growth, procurable by capital only; as in the European manufacture of cotton and many other articles. So that every class of manufacture is competent to raise products, provided there be industry and capital exerted. The presence of land is not absolutely necessary, unless perhaps the area whereon the work is done, and which is commonly rented, may be thought to come under this description, as in extreme strictness it certainly must. However, if the ground where the business of industry is carried on, be reckoned as land used, it must at least be admitted, that, with aid of a large capital, an immense manufacturing concern may be conducted upon a very trifling spot of ground. Whence this conclusion may be drawn, that national industry is limited, not by territorial extent, but by extent of capital."
+  },
+  {
+    "id": "p-cc4602",
+    "offset": 2930,
+    "text": "A stocking manufacturer with a capital say of 4000 dollars, may keep in constant work ten stocking frames. If he manages to double his capital he can employ twenty; that is to say, he may buy ten more frames, pay double ground-rent, purchase double the quantity of silk or cotton to be wrought into stockings, and make the requisite advances to double the number of workmen, &c. &c."
+  },
+  {
+    "id": "p-8ade14",
+    "offset": 3314,
+    "text": "But that portion of agricultural industry, devoted to the tillage of land, is, in the course of nature, limited by extent of surface. Neither individuals nor communities can extend or fertilize their territory, beyond what the nature of things permits; but they have unlimited power of enlarging their capital, and consequently, of setting at work a larger body of industry, and thus of multiplying their products; in other words, their wealth."
+  },
+  {
+    "id": "p-1c46ed",
+    "offset": 3760,
+    "text": "There have been instances of people, like the Genevese, who with a territory that has not produced the twentieth part of the necessaries of life, have yet contrived to live in affluence. The natives of the barren glens of Jura are in easy circumstances because many mechanical arts are there practised. In the 13th century, the world beheld the republic of Venice, ere it held a foot of land in Italy, derive wealth enough from its commerce to possess itself of Dalmatia, together with most of the Greek isles, and even the capital of the Greek empire. The extent and fertility of a nation's territory depend a good deal upon its fortunate position. Whereas the power of its industry and capital depends upon its own good management; for it is always competent to improve the one and augment the other."
+  },
+  {
+    "id": "p-d52c3f",
+    "offset": 4564,
+    "text": "Nations deficient in capital, labour under great disadvantage in the sale of their produce; being unable to sell at long credit, or to grant time or accommodation to their home or foreign customers. If the deficiency be very great indeed, they may be unable even to make the advance of the raw material and their own industry. This accounts for the necessity, in the Indian and Russian trade, of remitting the purchase-money six months or sometimes a year in advance, before the time when an order for goods can be executed. These nations must be highly favoured in other respects, or they never could make considerable sales in the face of such a disadvantage."
+  },
+  {
+    "id": "p-95c2a2",
+    "offset": 5227,
+    "text": "Having informed ourselves of the method in which the three great agents of production, industry, capital and natural agents, concur in the creation of products, that is to say, of things applicable to the uses of mankind, let us proceed to analyze more minutely the particular operation of each. The inquiry is important, inasmuch as it leads imperceptibly to the knowledge of what is more and what is less favourable to production, the true source of individual affluence, as well as national power."
   }
 ]

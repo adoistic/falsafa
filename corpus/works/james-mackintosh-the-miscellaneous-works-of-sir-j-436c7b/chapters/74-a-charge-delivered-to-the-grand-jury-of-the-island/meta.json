@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 74,
+  "chapter_title": "A Charge, Delivered to the Grand Jury of the Island of Bombay, on the 20th of July, 1811.",
+  "chapter_slug": "74-a-charge-delivered-to-the-grand-jury-of-the-island",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d11f7261-c889-5f28-a564-129eb208502f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2236,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

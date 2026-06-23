@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-law-of-accumulation-and-brea-4449c7",
+  "work_title": "The Law of Accumulation and Breakdown of the Capitalist System",
+  "chapter_number": 17,
+  "chapter_title": "The periodic devaluation of capital on the accumulation process",
+  "chapter_slug": "17-the-periodic-devaluation-of-capital-on-the-accumul",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8fe99afa-8045-5194-b010-915281762f8f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1288,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/ch03.htm"
+    }
+  ]
+}

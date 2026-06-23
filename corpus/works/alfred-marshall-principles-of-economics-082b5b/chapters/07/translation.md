@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 7
-chapter_title: "BOOK II, CHAPTER III: PRODUCTION. CONSUMPTION. LABOUR. NECESSARIES."
+chapter_title: "Book II, Chapter III: Production. Consumption. Labour. Necessaries."
 chapter_slug: 07
 variant_id: "6b97f1b7-dd8a-5008-b779-f08c118347da"
 content_type: translation

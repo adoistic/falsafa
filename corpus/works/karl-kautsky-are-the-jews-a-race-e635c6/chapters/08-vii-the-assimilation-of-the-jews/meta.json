@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-are-the-jews-a-race-e635c6",
+  "work_title": "Are the Jews a Race?",
+  "chapter_number": 8,
+  "chapter_title": "VII. The Assimilation of the Jews",
+  "chapter_slug": "08-vii-the-assimilation-of-the-jews",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cbda5f24-027c-5c35-8483-15502bffbad6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2771,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1914/jewsrace/ch07.htm"
+    }
+  ]
+}

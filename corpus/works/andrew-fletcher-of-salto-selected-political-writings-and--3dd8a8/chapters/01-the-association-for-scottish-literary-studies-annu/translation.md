@@ -4,7 +4,7 @@ work_slug: "andrew-fletcher-of-salto-selected-political-writings-and--3dd8a8"
 work_title: Selected Political Writings and Speeches
 author_name: Andrew Fletcher of Saltoun
 chapter_number: 1
-chapter_title: THE ASSOCIATION FOR SCOTTISH LITERARY STUDIES annual volumes published by scottish academic press
+chapter_title: The Association for Scottish Literary Studies annual volumes published by scottish academic press
 chapter_slug: "01-the-association-for-scottish-literary-studies-annu"
 variant_id: "bc51b4be-23a6-578e-a265-5df6d2c823f8"
 content_type: translation

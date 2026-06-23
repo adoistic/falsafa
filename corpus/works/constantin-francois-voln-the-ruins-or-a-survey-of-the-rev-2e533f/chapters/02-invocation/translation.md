@@ -4,7 +4,7 @@ work_slug: "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f"
 work_title: The Ruins, or a Survey of the Revolutions of Empires
 author_name: "Constantin-François Volney"
 chapter_number: 2
-chapter_title: INVOCATION.
+chapter_title: Invocation.
 chapter_slug: "02-invocation"
 variant_id: "490890b4-aeaa-57d7-8fb1-49dacfd4dc45"
 content_type: translation

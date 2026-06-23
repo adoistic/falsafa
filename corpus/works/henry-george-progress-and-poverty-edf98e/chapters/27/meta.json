@@ -2,7 +2,7 @@
   "work_slug": "henry-george-progress-and-poverty-edf98e",
   "work_title": "Progress and Poverty",
   "chapter_number": 27,
-  "chapter_title": "Book V The Problem Solved",
+  "chapter_title": "Book V The Problem Solved, Chapter I The Primary Cause of Recurring Paroxysms of Industrial Depression",
   "chapter_slug": "27",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 65,
-      "paragraph_count": 2,
+      "word_count": 5836,
+      "paragraph_count": 49,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-dictatorship-of-the-proletar-b241bd",
+  "work_title": "The Dictatorship of the Proletariat",
+  "chapter_number": 3,
+  "chapter_title": "III. Democracy and the Ripening of the Proletariat",
+  "chapter_slug": "03-iii-democracy-and-the-ripening-of-the-proletariat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6d1c76aa-c47f-5d6c-abe5-e2d0c12e83a0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2680,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1918/dictprole/ch03.htm"
+    }
+  ]
+}

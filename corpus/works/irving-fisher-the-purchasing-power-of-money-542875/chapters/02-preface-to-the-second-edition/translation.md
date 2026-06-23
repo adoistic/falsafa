@@ -4,7 +4,7 @@ work_slug: "irving-fisher-the-purchasing-power-of-money-542875"
 work_title: The Purchasing Power of Money
 author_name: Irving Fisher
 chapter_number: 2
-chapter_title: PREFACE TO THE SECOND EDITION
+chapter_title: Preface to the Second Edition
 chapter_slug: "02-preface-to-the-second-edition"
 variant_id: "6dae062a-e4b1-55d1-ab2f-2009084f3ddf"
 content_type: translation

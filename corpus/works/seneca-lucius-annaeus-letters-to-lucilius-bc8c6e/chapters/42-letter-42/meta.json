@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 42,
+  "chapter_title": "Letter 42",
+  "chapter_slug": "42-letter-42",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5dfca34a-c141-57a3-9234-5e0a529cfcfe",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eea28188-067a-59a4-be85-492da31aaed3",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 781,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

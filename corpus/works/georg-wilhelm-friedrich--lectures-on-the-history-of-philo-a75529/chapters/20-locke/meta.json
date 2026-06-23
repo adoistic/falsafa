@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 20,
+  "chapter_title": "Locke",
+  "chapter_slug": "20-locke",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "042271b1-1011-53d4-a242-e5fa86c61fd9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6169,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hplocke.htm"
+    }
+  ]
+}

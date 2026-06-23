@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-fields-factories-and-workshops-49b176",
+  "work_title": "Fields, Factories, and Workshops",
+  "chapter_number": 32,
+  "chapter_title": "Appendix V : Small Industries at Paris",
+  "chapter_slug": "32-appendix-v-small-industries-at-paris",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "50beab30-40af-5c0c-81a4-6a78b8af0d02",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 386,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/appendix-v.html"
+    }
+  ]
+}

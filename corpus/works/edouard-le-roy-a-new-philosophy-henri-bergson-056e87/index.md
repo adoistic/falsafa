@@ -4,13 +4,17 @@ slug: "edouard-le-roy-a-new-philosophy-henri-bergson-056e87"
 title: "A New Philosophy: Henri Bergson"
 author:
   name: Édouard Le Roy
-  biography: "Édouard Le Roy (1870-1954)."
+  biography: "French philosopher and mathematician, a disciple of Henri Bergson who succeeded him at the Collège de France. His A New Philosophy: Henri Bergson presented Bergson's thought to a general readership as an introduction to the new vitalist philosophy."
+  birth_year: 1870
+  death_year: 1954
+  nationality: French
 era: 20th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "A New Philosophy: Henri Bergson, by Édouard Le Roy (1870-1954), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1913
 total_logical_chapters: 5
 total_variant_entries: 5
 thothica_role: catalog

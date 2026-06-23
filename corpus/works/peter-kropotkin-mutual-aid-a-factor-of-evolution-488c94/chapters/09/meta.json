@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-mutual-aid-a-factor-of-evolution-488c94",
+  "work_title": "Mutual Aid: A Factor of Evolution",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 8: Mutual Aid Amongst Ourselves (cont'd)",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "75b3e1df-c552-5456-9fe7-ec39c1bb3e13",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8151,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch08.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-labour-revolution-9d61f0",
+  "work_title": "The Labour Revolution",
+  "chapter_number": 31,
+  "chapter_title": "(a) Woods and Forests",
+  "chapter_slug": "31-a-woods-and-forests",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f9454e3c-9760-5092-a0a8-2da622259524",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1513,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1924/labour/ch03_i.htm"
+    }
+  ]
+}

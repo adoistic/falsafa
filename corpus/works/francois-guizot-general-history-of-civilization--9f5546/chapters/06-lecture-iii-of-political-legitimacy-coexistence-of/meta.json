@@ -1,0 +1,26 @@
+{
+  "work_slug": "francois-guizot-general-history-of-civilization--9f5546",
+  "work_title": "General History of Civilization in Europe",
+  "chapter_number": 6,
+  "chapter_title": "Lecture III.: Of Political Legitimacy—coexistence of All the Systems of Government in the Fiftii Century—attempts to Reo",
+  "chapter_slug": "06-lecture-iii-of-political-legitimacy-coexistence-of",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d68a8da5-2076-508a-90bb-3ed4b3d8b5ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7537,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/knight-general-history-of-civilization-in-europe"
+    }
+  ]
+}

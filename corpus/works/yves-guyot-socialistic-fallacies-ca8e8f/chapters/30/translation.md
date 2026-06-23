@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 30
-chapter_title: "CHAPTER I: “True” Socialism"
+chapter_title: "Chapter II: The Claims of Marx and Engels"
 chapter_slug: 30
 variant_id: "45d42849-2b9b-5a56-a115-912d9040c4e9"
 content_type: translation
@@ -13,17 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 328
+word_count: 390
 source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
 translator: Online Library of Liberty edition
 ---
 
-Contempt for French Socialists—Apology for German Socialism—Communism, Collectivism, and Socialism synonymous—Programmes of Saint Mandé and of the Havre Congress.
+For Germany—Against Rodbertus—Against Lassalle.
 
-Socialists who range themselves under Karl Marx say: Plato, Campanella, More, Morelly, Owen, Saint Simon, Fourier, Cabet, Considérant, and Louis Blanc forsooth! Why tell us of all these Socialists, Utopians, dreamers, and more or less enlightened makers of literature, all so far removed from all reality? Neither Owen, nor Pierre Leroux were worthy to invent the word “socialism.” As for Proudhon, who said “Every man is a socialist who concerns himself with social reform,” he proved that despite his pretension, he belonged to those socialists of the clubs, the salons, and the vestries who indulged in elegiac, declamatory, and sentimental socialism in and about 1848.
+Karl Marx and Engels, while declaring themselves to be internationalists and communists, begin by themselves failing in their pretensions. Far from admitting that the French communists and socialists were their precursors, they never cease to load them with scorn and contempt. They refuse to be under any obligation to those Frenchmen whose powers of persuasion they detest and who expect clearness in others although they lack it themselves, and they are unable to submit to a “discipline of pedants.” Karl Marx and Engels want to convert socialism into a German monopoly, and when Marx says “Proletariat of all nations, unite,” what he means is “Pan-Germanise.”
 
-Proudhon was nothing but a “petit bourgeois” as Karl Marx said. There is but one true socialism, the socialism of Germany, whose formula was propounded by Karl Marx and Engels in the “Communistic Manifesto” of 1848.
+At the same time they bitterly contend with their own compatriots for the private proprietorship of their formulæ, refusing to share them with anyone. Rodbertus claimed that Karl Marx had borrowed his ideas. Engels asserts that Marx had never beheld any of Rodbertus' publications before 1858 and 1859. Inasmuch as Rodbertus' first publication was issued in 1837, he in his turn expresses astonishment that Marx, who claimed to know everything, should pretend to such profound and long-continued ignorance with respect to him. In revenge, Engels freely admits that Proudhon owes his conception of value to Rodbertus—another instance of Pan-Germanism. But Engels is constrained to admit that Rodbertus and Marx both drew from the same English source, Ricardo, and says, “It does not occur to Rodbertus' mind that Karl Marx may have been able to draw his conclusions unaided from Ricardo as well as Rodbertus did himself.” At all events Rodbertus has the advantage of priority in date, and despite their violent denials, Marx and Engels are the disciples of that great Pomeranian landed proprietor, the representative of the great landowners in the provincial assemblies and in the Prussian Parliament, and, therefore, actually a champion of class distinctions. In his dislike of the French Revolution, Karl Marx, himself the son-in-law of a Prussian “Junker,” transfers to it the hatred entertained for it by his wife's family, and Paul Lafargue inherited it from him.
 
-They chose “communism” because the word “socialism” had been too much discredited at the time, but they subsequently resumed it, for the logical conclusion of all socialism is communism. The word “collectivism,” says Paul Lafargue, was only invented in order to spare the susceptibilities of some of the more timorous. It is synonymous with the word “communism.” Every socialistic programme, be it the programme of St. Mandé, published in 1896 by M. Millerand, which lays down that “collectivism is the secretion of the capitalist régime,” or that of the Havre Congress, Edition: current; Page: [104] drawn up by Karl Marx, and carried on the motion of Jules Guesde, concludes with “the political and economic expropriation of the capitalist class and the return to collective ownership of all the means of production.”
-
-But is this conclusion really so very different from that of their predecessors whom they treat with such scorn? What claim have Karl Marx, Engels, and their followers to prefix the word “scientific” to the word “socialism?”
+As for Lassalle, Karl Marx treated him with contempt. In his preface to “Capital,” written in 1867, he says of him (he died in 1864), “While abstaining from indicating their origin, he has borrowed from my writings, almost word for word, all the theoretical propositions of his economic writings.”

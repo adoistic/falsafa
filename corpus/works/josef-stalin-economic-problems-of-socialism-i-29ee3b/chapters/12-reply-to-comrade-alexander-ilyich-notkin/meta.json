@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-economic-problems-of-socialism-i-29ee3b",
+  "work_title": "Economic Problems of Socialism in the USSR",
+  "chapter_number": 12,
+  "chapter_title": "Reply to Comrade Alexander Ilyich Notkin",
+  "chapter_slug": "12-reply-to-comrade-alexander-ilyich-notkin",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d3bba73e-91c3-5f5f-afc8-da4bf67286bc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2655,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch12.htm"
+    }
+  ]
+}

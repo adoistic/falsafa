@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-the-darwinian-theory-and-sociali-9248d7",
+  "work_title": "The Darwinian Theory and Socialism",
+  "chapter_number": 1,
+  "chapter_title": "The Darwinian Theory and Socialism",
+  "chapter_slug": "01-the-darwinian-theory-and-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d175851b-b9df-5f09-9230-9ffe29e21ac5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2116,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1899/04/darwin.htm"
+    }
+  ]
+}

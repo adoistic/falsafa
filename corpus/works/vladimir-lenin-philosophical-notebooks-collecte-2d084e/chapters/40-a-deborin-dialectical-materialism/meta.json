@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 40,
+  "chapter_title": "A. Deborin. Dialectical Materialism",
+  "chapter_slug": "40-a-deborin-dialectical-materialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b60ea1a3-0663-52d1-b3b2-903a52621527",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2596,
+      "paragraph_count": 87,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1908/remarks/ch03.htm"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 64,
+  "chapter_title": "Letter 64",
+  "chapter_slug": "64-letter-64",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5bd7d6c5-ff8f-5b24-bcc5-c5e19ce2d8df",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "81ccb6da-9722-58df-ad5e-2d4eeb31c316",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 793,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

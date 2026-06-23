@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-value-price-and-profit-f96c8c",
+  "work_title": "Value, Price and Profit",
+  "chapter_number": 3,
+  "chapter_title": "II. Production, Wages, Profits",
+  "chapter_slug": "03-ii-production-wages-profits",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2de64327-a881-503e-aa61-fbec8966a1e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3422,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1865/value-price-profit/ch01.htm"
+    }
+  ]
+}

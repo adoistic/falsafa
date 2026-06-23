@@ -1,182 +1,122 @@
 [
   {
-    "id": "p-4f2d59",
+    "id": "p-9294c5",
     "offset": 0,
-    "text": "It may be said, perhaps, that even according to the view given of demand and supply in the preceding section, the permanent prices of the great mass of commodities will be determined by the ordinary cost of their production. This is unquestionably true, if we include all the component parts of price stated by Edition: current; Page: [70] Adam Smith. Yet, still it is true, that in all transactions of bargain and sale, there is a principle in constant operation, which can determine, and does actually determine, the prices of commodities, independently of any considerations of cost, or of the ordinary wages, profits, and rent expended in their production. And this is found to operate, not only permanently upon that class of commodities which may be considered as monopolies, but temporarily and immediately upon all commodities, and strikingly and preeminently so upon all sorts of raw produce."
+    "text": "In the two last sections, the causes which affect and determine the exchangeable values of commodities have been investigated; and these appear to consist of every circumstance which contributes in any degree to enhance the difficulty of obtaining them: such as, the necessity of paying the wages of a certain quantity of labour, without which the commodity cannot be produced, the necessity of certain advances of other capital, which no one will continue to make without the ordinary remuneration in the shape of profits, and the frequent necessity of further payments owing to rents, tithes, taxes, natural and artificial monopolies, and temporary deficiencies of supply, arising from accident, or the state of the seasons. These are all sources of difficulty, which, in proportion to the degree in which they prevail, must raise the exchangeable value of commodities arising from intrinsic causes; and it has further appeared, that the result of all these causes of value is expressed in the state of the supply compared with the intensity of the demand."
   },
   {
-    "id": "p-dd9bd7",
-    "offset": 903,
-    "text": "It has never been a matter of doubt, that the principle of demand and supply determines exclusively, and very regularly and accurately, the prices of monopolized commodities, without reference to the ordinary cost of their production; and our daily and uniform experience shows us that the prices of raw products, particularly those which are most affected by the seasons, are at the moment of their sale determined always by the higgling of the market, and differ widely in different years, and at different times, while the outgoings required to produce them, may have been very nearly the same, and the general rate of profits has not varied."
+    "id": "p-483dde",
+    "offset": 1060,
+    "text": "We come now to inquire more particularly into the measures of value—an inquiry obviously not identical with an inquiry into the causes of value, as it is only in a very few cases that they can properly be represented by the same object."
   },
   {
-    "id": "p-9e51c5",
-    "offset": 1550,
-    "text": "With regard, therefore, to a class of commodities of the greatest extent, it is acknowledged that the existing market prices are, at the moment they are fixed, determined upon a principle distinct from the cost of production, and that these prices are in reality almost always different from what they would have been, if this cost had exclusively regulated them."
+    "id": "p-5ee6ab",
+    "offset": 1298,
+    "text": "A measure of value is wanted for two most important purposes."
   },
   {
-    "id": "p-6b0584",
-    "offset": 1915,
-    "text": "There is indeed another class of commodities, such as manufactures, particularly those in which the raw material is cheap, where the existing market prices much more frequently coincide with the costs of production, and may appear therefore to be exclusively determined by them. Even here, however, our familiar experience shews us, that any alteration in the proportion of the demand to the supply quite overcomes for a time the influence of these costs; and Edition: current; Page: [71] further, when we come to examine the subject more closely, we find that the cost of production itself only influences the prices of these commodities, as the payment of this cost is the necessary condition of their continued supply in proportion to the extent of the effectual demand for them."
+    "id": "p-9afa64",
+    "offset": 1361,
+    "text": "First, to measure easily and conveniently the relative values of all commodities, compared one with another, and to enable all dealers to estimate the profits which they make upon their sales. This purpose is completely answered by money."
   },
   {
-    "id": "p-f5520d",
-    "offset": 2699,
-    "text": "But if this be true, it follows that the great law of demand and supply is called into action to determine what Adam Smith calls natural prices, as well as what he calls market prices."
+    "id": "p-d83440",
+    "offset": 1601,
+    "text": "Secondly, to measure the difficulty with which a commodity is obtained, including all the conditions of its supply; and when two or more commodities have in the course of time altered in their exchangeable relations to each other, to enable us to ascertain in which, and to what extent in each, the change has taken place. This is most important information, particularly in reference to commodities of the same country, at different times; but it is evident, that as money, in periods of some length, is liable to alter greatly in its exchangeable value, arising from intrinsic causes, it is impossible that, applied as a measure, it can give the information required."
   },
   {
-    "id": "p-710f69",
-    "offset": 2885,
-    "text": "It has been shown that no change can take place in the market prices of commodities, without some previous change in the relation of the demand to the supply; and the question is, whether the same position is true in reference to natural prices? This question must of course be determined by attending carefully to the nature of the change which an alteration in the cost of production occasions in the state of the demand and supply, and particularly to the specific and immediate cause by which the change of price which takes place is effected."
+    "id": "p-9efd43",
+    "offset": 2272,
+    "text": "It remains, therefore, to be considered whether any other object can perform the functions of a general measure of value, and answer the purposes above described."
   },
   {
-    "id": "p-c9c458",
-    "offset": 3434,
-    "text": "We all allow that when the cost of production diminishes, a fall of price is almost universally the consequence; but what is it, specifically, which forces down the price of the commodity. It has been shown in the preceding section, that it is an actual or contingent excess of supply."
+    "id": "p-bae140",
+    "offset": 2436,
+    "text": "Adam Smith, in his chapter on the real and nominal price of commodities, in which he considers labour as a universal and accurate measure of value, has introduced some confusion into his inquiry, by not adhering strictly to the same mode of applying the labour which he proposes for a measure."
   },
   {
-    "id": "p-8cedd2",
-    "offset": 3721,
-    "text": "We all allow that when the cost of production increases, the prices of commodities rise. But what is it specifically which forces up the price? It has been shown that it is an actual or contingent failure of supply. Remove these actual or contingent variations of the supply; that is, let the extent of the supply remain exactly the same, without excess or failure, whether the cost of production rises or falls; and there is not the slightest ground for supposing that any variation of price would take place."
+    "id": "p-b37e8a",
+    "offset": 2731,
+    "text": "Sometimes he speaks of the value of a commodity as being measured by the quantity of labour which its production has cost, and sometimes by the quantity of labour which it will command in exchange."
   },
   {
-    "id": "p-e1865f",
-    "offset": 4233,
-    "text": "If, for instance, all the commodities which are produced in this country, whether agricultural or manufactured, could be produced during the next ten years Edition: current; Page: [72] without labour, but could only be supplied exactly in the same quantities as they would be in the actual state of things; then, supposing the wills and means of the purchasers to remain the same, there cannot be a doubt that all prices would also remain the same. But if this be allowed, it follows that the relation of the supply to the demand is the dominant principle in the determination of prices whether market or natural, and that the cost of production can do nothing but in subordination to it, that is, merely as it affects the ordinary relation which the supply bears to the demand."
+    "id": "p-490d6d",
+    "offset": 2930,
+    "text": "It is in the latter sense, however, in which he applies it much the most frequently, and on which he evidently lays the chief stress. “The value of any commodity,” he says, “to the person who possesses it, and who means not to use or consume it himself, but to exchange it for other commodities, is equal to the quantity of labour which it enables him to purchase or command. Labour, therefore, is the real measure of the exchangeable value of all commodities.” Other expressions in the same chapter apply labour as a measure of value in the same way; and on another occasion, in his digression on the value of silver during the four last centuries, he takes an opportunity to say, “Labour, be it remembered, and not any commodity, or mass of commodities, is the sole measure of the value of silver, and of all other commodities.”"
   },
   {
-    "id": "p-e97f8f",
-    "offset": 5013,
-    "text": "It is not, however, necessary to resort to imaginary cases in order to fortify this conclusion. Actual experience shows the principle in the clearest light."
+    "id": "p-4e3f80",
+    "offset": 3762,
+    "text": "These passages may be said to determine the prevailing sense in which he considers labour as a general measure of exchangeable value. It would not then be worth while to inquire how far labour may be considered as a measure of value, when applied in the way which Adam Smith has practically rejected in reference to the more advanced stages of society, if this mode of applying it had not been adopted by some distinguished modern writers as the foundation of a new theory of value. But as this is the case, the inquiry seems to be called for; and it should be particularly noticed, that the question embraces not merely the propriety of a definition, but the truth of a proposition. It is not merely what should be the definition and the measure of value in exchange, but a question of fact, whether the labour worked up in commodities either determines or measures the rate at which they exchange with each other; and in no stage of society with which we are acquainted does it do this. At a very early period profits will be found to enter largely into the question of exchangeable value as a necessary condition of the supply. To make even a bow and arrow, it is obviously necessary that the wood and reed should be properly dried and seasoned, and the time which these materials require to be kept by the workman before his work is completed, introduces at once a new element into the computation of value. The varying quickness of the returns is likewise an entirely new element, which has nothing to do with the quantity of labour employed upon the capital; and yet in every period of society, the earliest as well as the latest, it is of the utmost importance in the determination of exchangeable value."
   },
   {
-    "id": "p-47b88b",
-    "offset": 5171,
-    "text": "In the well known instance noticed by Adam Smith of the insufficient pay of curates, notwithstanding all the efforts of the legislature to raise it, a striking proof is afforded that the permanent price of an article is determined by the demand and supply, and not by the cost of production. The real cost of the education would in this case be more likely to be increased than diminished by the subscriptions of benefactors; but a large part of it being paid by these benefactors, and not by the individuals themselves, it does not regulate and limit the supply; and this supply, on account of such encouragement, becoming and continuing abundant, the price is naturally low, whatever may be the real cost of the education given."
+    "id": "p-4cfb92",
+    "offset": 5475,
+    "text": "The fixed capital necessary to hollow out a canoe may consist of little more than a few stone hatchets and shell chisels, and the labour necessary to make them might not add much to the labour subsequently employed in the work to which they were applied; but it is likewise necessary that the workman should previously cut down the timber, and employ a great quantity of labour in various parts of the process long before there is a possibility of receiving the returns for his exertions, either in the use of the canoe, or in the commodities which he might obtain in exchange for it; and during this time, he must of course advance to himself the whole of his subsistence. But the providence, foresight, and postponement of present gratification for the sake of future benefit and profit, which are necessary for this purpose, have always been considered as rare qualities in the savage; and it can scarcely admit of a doubt that the articles which were of a nature to require this long preparation would be comparatively very scarce, and would have a great exchangeable value in proportion to the quantity of labour which had been actually employed upon them, and on the capital necessary to their production. On this account it is not improbable that a canoe might in such a state of society possess double the exchangeable value of a number of deer, to produce which successively in the market might have cost precisely the same number of days’ labour, including the necessary fixed capital, consisting of the bows and arrows, &c. used for killing them; and the great difference of value in this case would arise from the circumstance, that the returns for the labour of killing each successive deer always came in within a few days after it had been advanced, while the returns for the labour expended upon the canoe were delayed probably beyond the year. Whatever might be the rate of profits, the comparative slowness of these returns must tell proportionally on the price of the article; and, as there is reason to think that among savages, the advances necessary for a work of slow returns would be comparatively seldom made, the profits of capital would be extremely high, and the difference of exchangeable value in different commodities, which had cost in their production and in the production of the necessary capital the same quantity of labour, would be very great."
   },
   {
-    "id": "p-ddaf0d",
-    "offset": 5903,
-    "text": "The effects of the poor-rates, in lowering the wages of independent labour, present another practical instance of the same kind. It is not probable that public money should be more economically managed than the income of individuals. Consequently the cost of rearing a family cannot be supposed to be diminished by parish assistance; but a part of the expense being borne by the public, and applied more largely to labourers with families, than to single men, a fair and independent price of labour, adequate to the maintenance of a certain family, is no longer a Edition: current; Page: [73] necessary condition of a sufficient supply. As by means of parish rates so applied, this supply can be obtained without such wages, the real costs of supplying labour no longer regulate the ordinary wages of independent labour."
+    "id": "p-297e8b",
+    "offset": 7858,
+    "text": "Mr. Ricardo, speaking of the different implements which might be necessary, in an early stage of society, to kill the beaver and the deer, says, that those who furnished these capitals might, under different circumstances, “have a half, a fourth, or an eighth of the produce obtained, the remainder being paid as wages to those who furnished the labour; yet this division could not affect the relative value of these commodities, since, whether the profits of capital were greater or less, whether they were 50, 20, or 10 per cent. or whether the wages of labour were high or low, they would operate equally on both employments.” But it is quite obvious from what has been said, that if for the employment of killing a deer, we substitute the employment of making a canoe, which would not be completed in less than a year, or perhaps two, and suppose what is here supposed with great probability, that profits might be 50 per cent., the difference between the value of such a product, and the value of a deer, which, on account of its being sold almost the next day, could hardly be affected by profits, would, in reference to the same quantity of labour employed upon each, be as much as 50 per cent. Consequently, in the early stages of society, the relative values of commodities is not determined or measured by the relative quantities of labour employed upon them."
   },
   {
-    "id": "p-4e8453",
-    "offset": 6725,
-    "text": "In fact, in every kind of bounty upon production, the same effects must necessarily take place; and just in proportion that such bounties tend to lower prices, they show that prices depend upon the supply compared with the demand, and not upon the costs of production."
+    "id": "p-7c795c",
+    "offset": 9229,
+    "text": "In countries advanced in civilization, it is obvious that the same cause of variation in the exchangeable value of commodities, independent of the labour which has been employed upon them, must prevail as in the early periods of society; and, as might be expected, some others. The profits of capital, indeed, are not so high, and consequently the slowness or quickness of the returns will not, as far as the rate of profits is concerned, produce the same proportionate difference of prices; but to make up for this, the difference in the quantity of fixed capital employed is prodigious, and scarcely the same in any two commodities, and the difference in the returns of capital varies from two or three days, to two or three years, and in some cases many more."
   },
   {
-    "id": "p-e73fad",
-    "offset": 6995,
-    "text": "But the most striking instance which can well be conceived to show that the cost of production only influences the prices of commodities, as it influences their supply compared with the demand, is continually before our eyes in the artificial value which is given to bank-notes by limiting their amount. Mr. Ricardo’s admirable and efficient plan for this purpose proceeded upon the just principle, that if you can limit the supply of notes, so that they shall not exceed the quantity of gold which would have circulated if the currency had been metallic, you will keep the notes always of the same value as gold. And I am confident he would have allowed, that if this limitation could be completely effected without the paper being exchangeable for gold, the value of the notes would not be altered, while the same demand for a circulating medium continued. But if an article which costs comparatively nothing, though it performs the most important function of gold, can be kept to the value of gold, by being supplied in the same quantity; it is the clearest of all possible proofs that the value of gold itself no further depends upon the cost of its production, than as this cost influences the supply compared with the demand: and that if the cost were to cease, provided the supply were not increased compared with the demand, the value of gold in this country would still remain the same."
+    "id": "p-9644c1",
+    "offset": 9993,
+    "text": "The proposition of Mr. Ricardo, which states that a rise in the price of labour lowers the price of a large class of commodities, has undoubtedly a very paradoxical air; but it is, nevertheless, true, and the appearance of paradox would vanish, if it were stated more naturally and correctly."
   },
   {
-    "id": "p-4a1242",
-    "offset": 8392,
-    "text": "It does not, however, in any degree follow from what has been said, that the costs of production have Edition: current; Page: [74] not a most powerful effect upon prices. But the true way of considering these costs is as the necessary condition of the supply of the objects wanted."
+    "id": "p-1bfd06",
+    "offset": 10287,
+    "text": "Mr. Ricardo has allowed, that the effect he contemplated and attributed to a rise in the wages of labour is produced by a fall of profits, which he considers as the same thing; and undoubtedly no one could have thought the proposition paradoxical, or even in the slightest degree improbable, if he had stated that a fall of profits would occasion a fall of price in those commodities, where, from the quantity of fixed capital employed, the profits of that capital had before formed the principal ingredient in the cost of production. But this is what he has in substance said. In a particular case which he has taken to illustrate his proposition, he supposes the application of a very durable machine worth £20,000, which requires very little labour either to work it, or keep it in constant repair; and, consequently, the price of the yearly produce of this machine would be composed almost entirely of the ordinary profits of the £20,000 which it had cost. Now it is quite certain, that if, from any cause whatever, the ordinary profits of stock should fall, the price of the commodity so produced would fall nearly in proportion. A fall of profits from 20 to 10 per cent. would reduce its price nearly one half. This is sufficiently obvious. But the effects arising from an opposite supposition were not at first considered, and the general result was overlooked."
   },
   {
-    "id": "p-a6802a",
-    "offset": 8675,
-    "text": "Although at the time of the actual purchase of a commodity, no circumstance affects it but the relation of the supply to the demand; yet as almost all the objects of human desire are obtained by the instrumentality of human exertion, it is clear that the supply of these objects must be regulated—First, by the quantity, skill, and direction of this exertion; Secondly, by the assistance which it may receive from previous accumulations; and Thirdly, by the abundance or scarcity of the materials on which it has to work, and of the food of the labourer. It is of importance therefore to consider the different conditions which must be fulfilled, in order that any commodity should continue to be brought to market in the quantity wanted to supply the effectual demand."
+    "id": "p-143ee0",
+    "offset": 11657,
+    "text": "The state of the case, in a general view of it, seems to be this. There is a very large class of commodities, in the production of which a great quantity of fixed capital is used, and a long time elapses before the returns of the capital, whether fixed or circulating, come in. In such commodities, the proportion which the capital bears to the quantity of labour which it yearly employs, is in various degrees very considerable: and, in all these cases, it is natural to suppose that the fall of price, arising from the fall of profits, should in various degrees more than counterbalance the rise of price, which would naturally be occasioned by a rise in the price of labour. Consequently, on the supposition of a rise in the price of labour, and a fall in the rate of profits, all these commodities will, in various degrees, naturally fall in price."
   },
   {
-    "id": "p-b14477",
-    "offset": 9446,
-    "text": "The first condition is, that the labour expended upon it should be so remunerated in the quantity of desirable objects given in exchange for it, as to encourage the exertion of a sufficient quantity of industry in the direction required, as without such adequate remuneration, the supply of the commodity must necessarily fail. If this labour should be of a very severe kind, few comparatively would be willing or able to engage in it; and upon the common principles of exchangeable value before explained it would rise in price. If the work were of a nature to require an uncommon degree of dexterity and ingenuity, a rise of price would take place in a greater degree; but not merely on account of the esteem which men have for such talents, as stated by Adam Smith, but on account of their rarity, and the consequent rarity of the effects produced by them. In all these cases the remuneration will be regulated, not by the intrinsic qualities, or utility of the commodities produced, but by the state of the demand for them, compared with the supply; and of course by the demand and supply of the sort of labour which produced Edition: current; Page: [75] them. If the commodities have been produced by manual labour exclusively, aided at least only by the unappropriated bounties of nature, and brought to market immediately, the whole remuneration will of course belong to the labourer, and the usual money price of this remuneration in the existing state of the society would be the usual price of the commodity."
+    "id": "p-e3d705",
+    "offset": 12511,
+    "text": "On the other hand, there is a large class of commodities, where, from the absence of fixed capital, and the rapidity of the returns of the circulating capital, the proportion which the capital bears to the quantity of labour it employs is very small. A capital of a hundred pounds, which was returned every week, could employ as much labour annually as £2,600, the returns of which came in only at the end of the year; and if the capital were returned nearly every day, as it is practically in some few cases, the advance of little more than the wages of a man for a single day might pay above three hundred days’ labour in the course of a year. Now it is quite evident, that out of the profits of these trifling capitals, it would not only be absolutely impossible to take a rise in the price of labour of 7 per cent., but it would be impossible to take a rise of ½ per cent. On the first supposition, a rise of only ½ per cent. would, if the price of the produce continued the same, absorb more than all the profits of the £100; and, in the other case, much more than all the capital advanced. If, therefore, the prices of commodities, where the proportion of labour is very great compared with the capital which employs it, do not rise upon an advance in the price of labour, the production of such commodities must at once be given up. But they certainly would not be given up. Consequently, upon a rise in the money price of labour and fall of profits, there will be a large class of commodities which will rise in price."
   },
   {
-    "id": "p-bf372a",
-    "offset": 10966,
-    "text": "The second condition to be fulfilled is, that the assistance which may have been given to the labourer, by the previous accumulation of objects which facilitate future production, should be so remunerated as to continue the application of this assistance to the production of the commodities required. If by means of certain advances to the labourer of machinery, food and materials previously collected, he can execute eight or ten times as much work as he could without such assistance, the person furnishing them might appear at first to be entitled to the difference between the powers of unassisted labour, and the powers of labour so assisted. But the prices of commodities do not depend upon their intrinsic utility, but upon the supply and demand. The increased powers of labour would naturally produce an increased supply of commodities; their prices would consequently fall, and the remuneration for the capital advanced would soon be reduced to what was necessary in the existing state of the society, to encourage the application of such capital to the production in question, in the quantity required by the effectual demand. With regard to the labourers employed, as neither their exertions, nor their skill would necessarily be greater than if they had worked unassisted, their remuneration in money would be nearly the same as before, and would depend entirely upon the kind of labour employed, estimated in the usual way, by the money demand compared with the supply. But the price of labour so determined would, under the influence of good machinery, give the labourer a greater quantity than before of the produce obtained, though not necessarily a greater proportion Edition: current; Page: [76] of it. It is not, therefore, correct to represent, as Adam Smith does, the profits of capital as a deduction from the produce of labour. They are only a fair remuneration for that part of the production contributed by the capitalist, estimated exactly in the same way as the contribution of the labourer."
+    "id": "p-088c9f",
+    "offset": 14039,
+    "text": "There will undoubtedly, however, be a class of commodities which, from the effects of these two opposite causes, will remain stationary in price; but, from the very nature of the case, this class must theoretically form little more than a line. Wherever this line may be placed, it can embrace but a small class of objects; and upon a rise in the price of labour and fall of profits, all the rest will either fall or rise in price, although exactly the same quantity of labour continues to be employed upon them."
   },
   {
-    "id": "p-6b135d",
-    "offset": 12988,
-    "text": "The third condition to be fulfilled is, that the prices of commodities should be such as to effect the continued supply of the food and raw materials used by the labourers and capitalists; and we know that this price cannot be paid without yielding a rent to the landlord on almost all the land actually in use. In speaking of the landlords, Adam Smith’s language is again exceptionable. He represents them, rather invidiously, as loving to reap where they have not sown, and as obliging the labourer to pay for a license to obtain those natural products which, when land was in common, cost only the trouble of collecting. But he would himself be the first to acknowledge, that if land were not appropriated, its produce would be very much less abundant compared with the demand, and that consequently the producers and consumers would be much worse off; and if it be appropriated, some persons or other must necessarily be the proprietors. It matters not to the society, whether these persons are the same or different from the actual cultivators of the land. The price of the produce will be determined by the general supply compared with the general money demand, and will be the same, or very nearly so, whether the cultivator pays a rent, or uses the land without rent. The only difference would be, that, in the latter case, what remains of this price after paying the necessary labour and profits, will go to the same person that advanced the capital, which is equivalent to saying that the farmer would be better off if he were also the possessor of land, a fact not to be disputed; but it cannot imply, that the labourer or farmer, who in the lottery of human life has not drawn a prize of land, suffers any hardship or injustice Edition: current; Page: [77] in being obliged to give something in exchange for the use of what belongs to another. The possessors of land, whoever they may be, conduct themselves, with regard to their possessions, exactly in the same way as the possessors of labour and of capital, and let out or exchange what they have for as much money as the demanders are willing to give them for it."
+    "id": "p-fa4cf4",
+    "offset": 14553,
+    "text": "What then becomes of the doctrine that the exchangeable value of commodities is proportioned to the labour which has been employed upon them? Instead of their remaining of the same value while the same quantity of labour is employed upon them, it appears that from well-known causes of constant and universal operation, the prices of all commodities, with very few exceptions, vary with the variations in the rate and quantity of profits."
   },
   {
-    "id": "p-4b42fd",
-    "offset": 15119,
-    "text": "The three conditions, therefore, above specified, must necessarily be fulfilled in every society, in order to obtain the continued supply of by far the greater part of the commodities which it wants; and the compensation which fulfils these conditions, or the ordinary price of any exchangeable commodity, may be considered as consisting of three parts; that which pays the wages of the labourers employed in its production; that which pays the profits of the capital, including the advances to the labourers, by which such production has been facilitated; and that which pays the rent of land, or the compensation for the use of those powers attached to the soil which are in the possession of the landlord; the price of each of these component parts being determined exactly by the same causes as those which determine the price of the whole."
+    "id": "p-481f93",
+    "offset": 14993,
+    "text": "There are other causes practically in operation which prevent the exchangeable value of commodities from being proportioned to the quantity of labour which has been employed upon them. But as those which have been already more particularly adverted to, are so very powerful, and so completely decisive of the question, it is not necessary to refer specifically to others. It is scarcely possible, indeed, to take up two commodities of different kinds, which will be found to exchange with each other in proportion to the quantity of labour worked up in each. Nothing, indeed, could make such a rate of exchange, in reference to commodities generally, approach towards the truth, but the assumption that profits are the wages of accumulated labour, and that, therefore, profits may be called labour. But profits are altogether different from wages, and are regulated by quite different principles, as most justly stated by Adam Smith. Such an assumption is so completely unphilosophical, so calculated to defeat all the useful purposes of a just nomenclature, and to create confusion in the ordinary language of political economy, that it cannot for a moment be admitted. We might just as correctly call rent labour."
   },
   {
-    "id": "p-7aadcd",
-    "offset": 15965,
-    "text": "The price which fulfills these conditions is precisely what Adam Smith calls the natural price; and when a commodity is sold at this price, he says it is sold for precisely what it is worth. But here I think he has used the term worth in an unusual and improper sense. Commodities are continually said to be worth more than they have cost, ordinary profits included; and according to the customary and proper use of the term worth, we could never say that a given quantity Edition: current; Page: [78] of claret, of corn, or of any other article, was not worth more when it was scarce, although the cost of its production, on the supposition of ordinary profits, had remained the same. The worth of a commodity, in the place where it is estimated, is its market price, not its natural price. It is its intrinsic value in exchange, determined by the state of the supply compared with the demand at the time, and not its ordinary cost. It need hardly be observed, that the payment of taxes of any kind, where required, is an incidental condition of the supply of commodities which contributes to increase their cost of production and limit their quantity."
+    "id": "p-9bf127",
+    "offset": 16210,
+    "text": "It may be safely affirmed, then, that however curious and desirable it may be to know the exact quantity of labour, accumulated and immediate, which has been employed in the production of commodities, it is certainly not this labour alone which either determines or measures their relative values in exchange at the same place, and at the same time."
   },
   {
-    "id": "p-2be155",
-    "offset": 17120,
-    "text": "But if it appear generally that the ordinary cost of production only determines the usual prices of commodities, as the payment of this cost is the necessary condition of their supply; and that the component parts of this cost are themselves determined by the same causes which determine the whole, it is obvious that we cannot get rid of the principle of demand and supply, by referring to the cost of production. Natural and necessary prices appear to be regulated by this principle, as well as market prices; and the only difference is, that the former are regulated by the ordinary and average relation of the supply to the demand; and the latter, when they differ from the former, are determined by the extraordinary and accidental relations of the supply to the demand."
+    "id": "p-4f7e5f",
+    "offset": 16561,
+    "text": "But if, at the same place and at the same time, the relative values of commodities are not measured by the labour which they have cost in production, including the labour employed on the capitals concerned, it is quite clear that such labour cannot measure their relative values at different places and at different times."
   },
   {
-    "id": "p-83a143",
-    "offset": 17897,
-    "text": "It has sometimes been said that there is no such thing as natural price; but explained as Adam Smith has explained it, it is not only a very intelligible, but a very useful term. If the natural price of a commodity be considered as made up of all the money wages which have been paid in the various parts of Edition: current; Page: [79] the process of its production for the specific kinds of labour required, of all the ordinary money profits of the other capitals employed during the periods of various lengths for which they have been advanced, and of all the money rent concerned in the necessary materials and food obtained by the assistance of those powers of nature which are attached to the soil, then supposing things to be in their ordinary and average state and untaxed, it is quite certain that this price, and the ordinary and average prices of commodities, will be found to agree. To this price, which may fairly and usefully be called the natural, necessary, or ordinary price, the market prices are always tending. And this price determines the rate at which commodities usually exchange for each other. So understood, nothing can be more simple, or more generally applicable. The natural price of an acre of copse wood, or of a hundred sheep from the highlands of Scotland, which in a country generally well cultivated must be composed chiefly of rent, is as easily explicable as the natural price of corn on the last land taken into cultivation, where rent is quite inconsiderable. And the natural price of those sorts of goods where a large proportion of fixed capital is employed, and the returns of the circulating capital are unusually slow, and where consequently the price must consist chiefly of profits, may be as satisfactorily accounted for as the price of a straw bonnet, or piece of Brussels lace. Where the materials are of scarcely any value, the capital required is quite inconsiderable, and the expense of production must consist almost entirely of labour."
+    "id": "p-c7c358",
+    "offset": 16885,
+    "text": "In regard to intrinsic value in exchange, it is still more clear that the value of the labour actually employed in the production of a commodity, never represents or is proportioned to the value of the completed commodity, except in the rare case when labour alone is employed, and the produce is brought to market immediately. In the vast majority of cases, there are other intrinsic causes of value, acting sometimes with great power, which increase the difficulty of obtaining the object desired, in addition to the labour actually employed. The slightest attention to what is passing around us, at any one period, and in any one place, must convince us of this truth; and, at different periods, and in different places, the labour actually employed upon a commodity, considered as a measure of its value, must partake of all the inaccuracies which necessarily belong to it at the same time and place."
   },
   {
-    "id": "p-eb035c",
-    "offset": 19889,
-    "text": "It is obvious that when, from any cause whatever, the money cost of producing a commodity increases, without some increased facility of obtaining money, the estimation in which such a commodity is ordinarily held, or its exchangeable value arising from intrinsic causes, proportionally increases."
-  },
-  {
-    "id": "p-b888c7",
-    "offset": 20187,
-    "text": "In explaining the effects of demand and supply on the values of commodities, whether arising from temporary causes, or from the ordinary costs of production, Edition: current; Page: [80] I have thought that the subject would be best illustrated by referring first to those periods in which the value of money is practically considered as constant; and it is allowed that during such periods, it is the uniform practice of society to represent demand by money. But it is evident that we cannot extend these periods to any considerable length. We well know, that although the precious metals, from their durability, and the consequent steadiness of their supply, are subject to slow changes of value; yet that at distant periods, and in different countries, their value has been, and is, essentially different."
-  },
-  {
-    "id": "p-313c4d",
-    "offset": 20997,
-    "text": "It is absolutely necessary, therefore, to consider how a demand may be represented and measured under any changes which may take place in the value of money."
-  },
-  {
-    "id": "p-33a6d6",
-    "offset": 21156,
-    "text": "An effectual demand for a commodity, is such a demand as will fulfill the natural and necessary conditions of the supply; or, as it has been defined, it is the sacrifice which the demanders must make in order to effectuate the continued supply of the commodity in the quantity required under the actual circumstances."
-  },
-  {
-    "id": "p-e6554e",
-    "offset": 21475,
-    "text": "Now it is obvious, that if money varies essentially, as compared with the natural and necessary conditions of the supply of commodities, a given amount of money cannot possibly represent a given demand, or a given sacrifice."
-  },
-  {
-    "id": "p-78499f",
-    "offset": 21701,
-    "text": "In every country there are a few commodities obtained by labour alone; and, if the advance of a certain quantity of labour be the necessary condition of the supply of a particular commodity, then the money which will command such labour will represent the effectual demand for the commodity; that is, a demander able and willing to make such a sacrifice as will effectuate the supply. But if, subsequently, money falls in value in relation to the required labour, the same quantity of money obviously ceases to represent the same demand. No one, I apprehend, would venture to affirm that an ounce of pure silver, applied Edition: current; Page: [81] as a demand, would at the present time effectuate the supply of the same quantity of a commodity produced by labour alone, as an equal weight of silver would have effectuated under similar circumstances in the reign of Edward III.; since which period the value of silver, as compared with labour, has fallen five or six times."
-  },
-  {
-    "id": "p-629594",
-    "offset": 22679,
-    "text": "Under any changes, however, which may take place in money, if the conditions of the supply of any commodity, or the elementary costs of its production, require a certain quantity of labour of a given description, the power of setting to work that quantity of labour, whether paid for by a larger or smaller quantity of produce or money, will be an effectual demand for it. Now it is obvious that this cannot be said of any product of labour whatever."
-  },
-  {
-    "id": "p-645902",
-    "offset": 23131,
-    "text": "In the first place, there is no product of labour which is the sole condition of the supply of any one commodity. Consequently, while the necessary conditions of the supply of any commodity are a given quantity of labour of a certain description, no given quantity of any product of labour can continue, like a given quantity of labour itself, always to represent the same effectual demand for such commodity."
-  },
-  {
-    "id": "p-0bf2dc",
-    "offset": 23542,
-    "text": "Secondly, there is no product of labour, which, applied directly, enters, as labour itself does, into the composition of all commodities that have value, and constitutes the chief element in the conditions of their supply. Consequently there is no product of labour which can represent the most important condition of the supply of all commodities, namely the quantity of labour absolutely necessary to their production; and we cannot say that a definite quantity of money, a definite quantity of corn, a definite quantity of cloth, or a definite quantity of any product of labour, subject, as they all are, to variations in their relation to labour, can continue to afford an effectual demand for that definite quantity of labour, without which the mass of commodities cannot by possibility be produced."
-  },
-  {
-    "id": "p-81e10a",
-    "offset": 24348,
-    "text": "But if, when commodities are selling at their natural Edition: current; Page: [82] prices, the quantity of labour directly applied to the production of a particular article were to absorb exactly one half, three fourths, or any definite proportion of the whole value, as the demand for this proportion, whatever it might be, the half we will suppose, might be represented and measured by an amount of labour equal in quantity and quality to that which had been actually employed upon the commodity, it is obvious that an equivalent to double the quantity of such labour would be an effectual demand for the whole article produced, involving profits, rent, taxes, or any other accession to the difficulty of bringing the commodity to market, besides that which is occasioned by the necessary quantity of labour to be advanced."
-  },
-  {
-    "id": "p-ccd90a",
-    "offset": 25175,
-    "text": "Having this πȣ στω, this foundation to go upon, in all commodities, namely, the quantity of immediate labour actually worked up in them, the above conclusion seems to follow necessarily; that is, if a certain quantity of labour will represent and measure the demand for an aliquot part of the value of a commodity, the proper multiple of that quantity of labour must represent and measure the demand for the whole; and as there is no object but labour which can represent and measure the demand for that aliquot of the value of a commodity which consists of immediate labour, it follows necessarily that there is no object but labour which can represent and measure the demand for the whole of a commodity, the value of which is made up of various ingredients besides labour."
-  },
-  {
-    "id": "p-37d467",
-    "offset": 25952,
-    "text": "When, therefore, owing to changes in the value of money, relatively to labour, we can no longer represent a given demand by a given quantity of money, it appears that we may with accuracy represent such demand by a given quantity of labour."
-  },
-  {
-    "id": "p-ef2a05",
-    "offset": 26194,
-    "text": "It follows, therefore, that the power of commanding a given quantity of labour of a given character, together with the will to advance it, represents a given demand. It should be particularly observed, however, that this power is never possessed by the labourers Edition: current; Page: [83] themselves, but by those employers of labour who are both able and willing to pay the quantity of money or of commodities, whether great or small, which is necessary in the actual circumstances of the society to command the required quantity of labour."
+    "id": "p-e7a723",
+    "offset": 17791,
+    "text": "It appears, then, that the quantity of labour actually employed in the production of commodities, answers neither of the two great objects of a measure of value. It neither measures the rate at which commodities exchange with each other at the same place and time, like money, nor does it measure the whole of the difficulty to be overcome, or the sacrifice to be made, in obtaining commodities at the same or different times, and in different countries, and enable us to say when two or more commodities have varied in relation to each other, in which, and to what extent in each, the variations have taken place."
   }
 ]

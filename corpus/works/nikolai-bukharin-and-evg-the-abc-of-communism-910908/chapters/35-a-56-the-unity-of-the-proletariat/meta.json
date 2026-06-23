@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 35,
+  "chapter_title": "Â§ 56. The unity of the proletariat",
+  "chapter_slug": "35-a-56-the-unity-of-the-proletariat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54d7b12a-67a0-51b0-8234-399641dbf64f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 691,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/07.htm"
+    }
+  ]
+}

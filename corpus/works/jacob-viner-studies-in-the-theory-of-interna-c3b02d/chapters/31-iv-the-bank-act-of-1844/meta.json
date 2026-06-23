@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 31,
+  "chapter_title": "IV. The Bank Act of 1844",
+  "chapter_slug": "31-iv-the-bank-act-of-1844",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f26a7b6c-f9e5-5abe-a320-f396dbd9e42a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1861,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 131,
+  "chapter_title": "Ii.—: Not of the New Cabinet.",
+  "chapter_slug": "131-ii-not-of-the-new-cabinet",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "57b09ec4-4d9a-55c4-a66c-7835e9275f95",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1139,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

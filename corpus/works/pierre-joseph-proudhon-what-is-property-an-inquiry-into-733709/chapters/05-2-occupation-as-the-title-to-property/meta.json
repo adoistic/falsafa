@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
+  "work_title": "What is Property? An Inquiry into the Principle of Right and of Government",
+  "chapter_number": 5,
+  "chapter_title": "§ 2. — Occupation, as the Title to Property.",
+  "chapter_slug": "05-2-occupation-as-the-title-to-property",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "370ee05b-3fd7-5f3f-a822-295adfe10f47",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5397,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/property/ch02.htm"
+    }
+  ]
+}

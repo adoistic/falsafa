@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-are-the-jews-a-race-e635c6",
+  "work_title": "Are the Jews a Race?",
+  "chapter_number": 6,
+  "chapter_title": "V. Physical Characteristics of the Jewish Race",
+  "chapter_slug": "06-v-physical-characteristics-of-the-jewish-race",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e17fc121-577e-5727-992e-bca949baf990",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7998,
+      "paragraph_count": 152,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1914/jewsrace/ch05.htm"
+    }
+  ]
+}

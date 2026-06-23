@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-the-law-of-accumulation-and-brea-4449c7",
+  "work_title": "The Law of Accumulation and Breakdown of the Capitalist System",
+  "chapter_number": 16,
+  "chapter_title": "Expanding the scale of production on the existing technological: basis: simple accumulation",
+  "chapter_slug": "16-expanding-the-scale-of-production-on-the-existing-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "41b82bc4-9c69-580f-a42c-feca658d03a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 276,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1929/breakdown/ch03.htm"
+    }
+  ]
+}

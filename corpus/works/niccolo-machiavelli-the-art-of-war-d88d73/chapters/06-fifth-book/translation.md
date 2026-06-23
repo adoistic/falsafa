@@ -4,7 +4,7 @@ work_slug: "niccolo-machiavelli-the-art-of-war-d88d73"
 work_title: The Art of War
 author_name: Niccolò Machiavelli
 chapter_number: 6
-chapter_title: FIFTH BOOK
+chapter_title: Fifth Book
 chapter_slug: "06-fifth-book"
 variant_id: "2698b5a2-0458-5b3a-ae40-a55448cf5b8b"
 content_type: translation

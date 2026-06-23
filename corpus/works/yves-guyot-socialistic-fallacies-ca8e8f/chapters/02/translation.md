@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 2
-chapter_title: "CHAPTER I: Plato’s Romance"
+chapter_title: "Book I: Utopias and Communistic Experiments, Chapter I: Plato’s Romance"
 chapter_slug: 02
 variant_id: "33186a65-1d4d-5d52-b74c-07134747efd4"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 674
+word_count: 670
 source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
 translator: Online Library of Liberty edition
 ---
@@ -22,7 +22,7 @@ Politico-economic romances—Common features—Government by the wisest: aboliti
 
 Von Kirchenheim, in his book “Die ewige Utopie,” has traced the history of politico-economic romances after Sudre, Reybaud, Moll and others. These works all present a family likeness and are founded on the ancient conception of a golden age, an Eden, an ideal existing in a far distant past—a conception which survives in such writers as Karl Marx, Engels and Paul Lafargue, who would have all the ills of humanity date from the moment when the communism of primitive societies came to an end. All these conceptions seek to confer the governing power upon the wisest: Plato gives it to the philosophers, and the same idea reappears in Auguste Comte. They are all founded upon the suppression of private interest as the motive of human actions, and the substitution of altruism (to use the word coined by Auguste Comte), to attain which their authors abolish private property, and those among them who are logical set up the community of women.
 
-Nearly all these writers constitute castes. Plato proclaims the necessity of slavery and declares that the occupations of a shoemaker and a blacksmith degrade those who follow them. Labourers, artisans, and traders form a caste whose duty it is to produce for warriors and philosophers and to obey them. In the “Republic” the caste of warriors only possesses property collectively, the abolition of private property being in Plato's opinion the best means of preventing the abuse of power. The Edition: current; Page: [28] annual unions between men and women are to be decided by lot, controlled by expert magistrates, careful to ensure the most favourable conditions for the reproduction of the species, the army being treated like a stud.
+Nearly all these writers constitute castes. Plato proclaims the necessity of slavery and declares that the occupations of a shoemaker and a blacksmith degrade those who follow them. Labourers, artisans, and traders form a caste whose duty it is to produce for warriors and philosophers and to obey them. In the “Republic” the caste of warriors only possesses property collectively, the abolition of private property being in Plato's opinion the best means of preventing the abuse of power. The annual unions between men and women are to be decided by lot, controlled by expert magistrates, careful to ensure the most favourable conditions for the reproduction of the species, the army being treated like a stud.
 
 We saw a caste organisation of this kind for three centuries in Egypt, a college of Ulemas and a corps of Mamelukes recruited from among children with no family ties, all exploiting the miserable fellahs until they were completely exhausted.
 

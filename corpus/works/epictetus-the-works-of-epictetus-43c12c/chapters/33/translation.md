@@ -4,7 +4,7 @@ work_slug: "epictetus-the-works-of-epictetus-43c12c"
 work_title: The Works of Epictetus
 author_name: Epictetus
 chapter_number: 33
-chapter_title: "CHAPTER XXIX.: OF COURAGE."
+chapter_title: "Chapter XXIX.: Of Courage."
 chapter_slug: 33
 variant_id: "86976139-7200-536d-998f-f0ad103e8dd5"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2383
+word_count: 2371
 source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
 translator: Online Library of Liberty edition
 ---
@@ -28,7 +28,7 @@ How, then, will it attain good?
 
 If it be not dazzled by its own materials; for right principles concerning these materials keep the will in a good state; but perverse and distorted principles, in a bad one. This law hath God ordained, who says, “If you wish for good, receive it from yourself.” You say, No; but from another. “Nay; but from yourself.”
 
-Accordingly, when a tyrant threatens, and sends for Edition: current; Page: [84] me, I say, Against what is your threatening pointed? If he says, “I will chain you”; I answer, It is my hands and feet that you threaten. If he says, “I will cut off your head”; I answer, It is my head that you threaten. If he says, “I will throw you into prison”; I answer, It is the whole of this paltry body that you threaten; and, if he threatens banishment, just the same.
+Accordingly, when a tyrant threatens, and sends for me, I say, Against what is your threatening pointed? If he says, “I will chain you”; I answer, It is my hands and feet that you threaten. If he says, “I will cut off your head”; I answer, It is my head that you threaten. If he says, “I will throw you into prison”; I answer, It is the whole of this paltry body that you threaten; and, if he threatens banishment, just the same.
 
 “Does not he threaten you, then?”
 
@@ -62,7 +62,7 @@ But some one takes me by the collar, and drags me to the forum; and then all the
 
 “Well; but can these things be explained to the multitude?”
 
-To what purpose? Is it not sufficient to be convinced one’s self? When children come to us clapping Edition: current; Page: [87] their hands, and saying, “To-morrow is the good feast of Saturn”; do we tell them that good doth not consist in such things? By no means; but we clap our hands also. Thus, when you are unable to convince any one, consider him as a child, and clap your hands with him; or, if you will not do that, at least hold your tongue. These things we ought to remember; and, when we are called to any trial, to know, that an opportunity is come of showing whether we have been well taught. For he who goes from a philosophical lecture to a difficult point of practice, is like a young man who has been studying to solve syllogisms. If you propose an easy one, he says, “Give me rather a fine intricate one, that I may try my strength.” Thus athletic champions are displeased with a slight antagonist. “He cannot lift me,” says one. Is this a youth of spirit? No; for when the occasion calls upon him, he may begin crying, and say, “I wanted to learn a little longer first.” Learn what? If you did not learn these things to show them in practice, why did you learn them?
+To what purpose? Is it not sufficient to be convinced one’s self? When children come to us clapping their hands, and saying, “To-morrow is the good feast of Saturn”; do we tell them that good doth not consist in such things? By no means; but we clap our hands also. Thus, when you are unable to convince any one, consider him as a child, and clap your hands with him; or, if you will not do that, at least hold your tongue. These things we ought to remember; and, when we are called to any trial, to know, that an opportunity is come of showing whether we have been well taught. For he who goes from a philosophical lecture to a difficult point of practice, is like a young man who has been studying to solve syllogisms. If you propose an easy one, he says, “Give me rather a fine intricate one, that I may try my strength.” Thus athletic champions are displeased with a slight antagonist. “He cannot lift me,” says one. Is this a youth of spirit? No; for when the occasion calls upon him, he may begin crying, and say, “I wanted to learn a little longer first.” Learn what? If you did not learn these things to show them in practice, why did you learn them?
 
 I trust there must be some one among you, sitting here, who feels secret pangs of impatience, and says: “When will such a trial come to my share, as hath now fallen to his? Must I sit wasting my life in a corner, when I might be crowned at Olympia? When will any one bring the news of such a combat, for me?” Such should be the disposition of you all. Even among the gladiators of Cæsar, there are some who bear it very ill, that they are not brought upon the stage, and matched; and who offer vows to God, and address the officers, begging to fight. And will none among you appear such? I would willingly take a voyage on purpose to see how a champion of mine acts; how he meets his occasion.
 
@@ -76,7 +76,7 @@ Is this the evidence you are to give? And will you bring disgrace upon his summo
 
 But some one in authority has given a sentence. “I judge you to be impious and profane.” What has befallen you? — I have been judged to be impious and profane. — Anything else? — Nothing. — Suppose he had passed his judgment upon any process of reasoning, and pronounced it to be a false conclusion, that, if it be day, it is light; what would have befallen the proposition? In this case, who is judged, who condemned; the proposition, or he who cannot understand it? Does he know, who claims the power of ruling in your case, what pious or impious means? Has he made it his study or learned it? Where? From whom? A musician would not regard him, if he pronounced bass to be treble; nor a mathematician, if he passed sentence, that lines drawn from the centre to the circumference, are not equal. And shall he, who is instructed in the truth, respect an ignorant man, when he pronounces upon pious and impious, just and unjust?
 
-“O the persecutions to which the wise are exposed!” Is it here that you have learned this talk? Why do not you leave such pitiful discourse to idle, pitiful fellows; and let them sit in a corner, and receive some little mean pay; or grumble, that nobody gives them anything? But do you come, and make some use of what you have learned. It is not Edition: current; Page: [90] reasonings that are wanted now, for there are books stuffed full of stoical reasonings.
+“O the persecutions to which the wise are exposed!” Is it here that you have learned this talk? Why do not you leave such pitiful discourse to idle, pitiful fellows; and let them sit in a corner, and receive some little mean pay; or grumble, that nobody gives them anything? But do you come, and make some use of what you have learned. It is not reasonings that are wanted now, for there are books stuffed full of stoical reasonings.
 
 “What is wanted, then?”
 

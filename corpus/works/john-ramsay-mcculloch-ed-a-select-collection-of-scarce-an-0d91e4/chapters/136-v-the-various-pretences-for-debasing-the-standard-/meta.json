@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 136,
+  "chapter_title": "V.: The various pretences for debasing the standard of money, stated.",
+  "chapter_slug": "136-v-the-various-pretences-for-debasing-the-standard-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23334a00-f811-5642-a215-aa5c6efa1bab",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 697,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

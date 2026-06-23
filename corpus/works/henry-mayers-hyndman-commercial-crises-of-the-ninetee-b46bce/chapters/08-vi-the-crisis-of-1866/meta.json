@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-commercial-crises-of-the-ninetee-b46bce",
+  "work_title": "Commercial Crises of the Nineteenth Century",
+  "chapter_number": 8,
+  "chapter_title": "VI. The Crisis of 1866",
+  "chapter_slug": "08-vi-the-crisis-of-1866",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "feaa12a1-fe91-51ce-a39d-c280e586004a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2570,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1892/crises/ch06.html"
+    }
+  ]
+}

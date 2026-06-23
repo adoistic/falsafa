@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-considerations-on-representative-ccd97d",
+  "work_title": "Considerations on Representative Government",
+  "chapter_number": 15,
+  "chapter_title": "Chapter XV — Of Local Representative Bodies",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f93a5eb5-a2b9-527c-ae67-9417c5583d43",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5847,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5669"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 8
-chapter_title: HEGEL.
+chapter_title: Hegel.
 chapter_slug: "08-hegel"
 variant_id: "1f8d75d0-93e8-5290-83ff-a9fa6ad1579a"
 content_type: translation

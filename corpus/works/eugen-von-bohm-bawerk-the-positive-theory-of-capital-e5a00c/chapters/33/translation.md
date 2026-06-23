@@ -4,7 +4,7 @@ work_slug: "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c"
 work_title: The Positive Theory of Capital
 author_name: "Eugen von Böhm-Bawerk"
 chapter_number: 33
-chapter_title: "Book V, Chapter I: Present and Future in Economic Life"
+chapter_title: "Book V: Present and Future, Book V, Chapter I: Present and Future in Economic Life"
 chapter_slug: 33
 variant_id: "4c7d122d-342c-5f02-9a10-86a3b40d70f3"
 content_type: translation

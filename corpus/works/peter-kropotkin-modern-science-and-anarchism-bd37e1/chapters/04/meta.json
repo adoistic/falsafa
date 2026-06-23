@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-modern-science-and-anarchism-bd37e1",
+  "work_title": "Modern Science and Anarchism",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5645b5fd-0828-58da-829b-7adfcd7573b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1915,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1903/modern-science-and-anarchism/chapter-4.html"
+    }
+  ]
+}

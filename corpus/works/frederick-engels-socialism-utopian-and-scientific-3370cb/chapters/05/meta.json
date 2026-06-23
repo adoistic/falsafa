@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-engels-socialism-utopian-and-scientific-3370cb",
+  "work_title": "Socialism: Utopian and Scientific",
+  "chapter_number": 5,
+  "chapter_title": "Part III: [Historical Materialism]",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5c872228-9f7c-560f-b320-6b3695eb7bc9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7483,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1880/soc-utop/ch03.htm"
+    }
+  ]
+}

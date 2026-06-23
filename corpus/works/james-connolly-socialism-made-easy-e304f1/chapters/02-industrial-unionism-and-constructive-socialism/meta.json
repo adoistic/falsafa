@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-connolly-socialism-made-easy-e304f1",
+  "work_title": "Socialism Made Easy",
+  "chapter_number": 2,
+  "chapter_title": "Industrial Unionism and Constructive Socialism",
+  "chapter_slug": "02-industrial-unionism-and-constructive-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "26ff4662-e1e3-51e4-8a11-fa8ea84742ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1593,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/connolly/1908/sme/inconsoc.htm"
+    }
+  ]
+}

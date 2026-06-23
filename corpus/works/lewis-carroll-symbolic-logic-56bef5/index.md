@@ -4,13 +4,17 @@ slug: "lewis-carroll-symbolic-logic-56bef5"
 title: Symbolic Logic
 author:
   name: Lewis Carroll
-  biography: "Lewis Carroll (1832-1898)."
+  biography: English mathematician and author, lecturer at Christ Church, Oxford, and the writer behind the Alice books. His logic works turned formal reasoning into puzzle and diagram, presenting the syllogism as a game and a system of symbolic notation.
+  birth_year: 1832
+  death_year: 1898
+  nationality: English
 era: 19th Century
 genre: Logic
 language: English
 language_direction: ltr
 description: "Symbolic Logic, by Lewis Carroll (1832-1898), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1896
 total_logical_chapters: 12
 total_variant_entries: 12
 thothica_role: catalog

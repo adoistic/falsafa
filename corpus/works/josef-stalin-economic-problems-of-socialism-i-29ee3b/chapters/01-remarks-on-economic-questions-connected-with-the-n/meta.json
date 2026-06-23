@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-economic-problems-of-socialism-i-29ee3b",
+  "work_title": "Economic Problems of Socialism in the USSR",
+  "chapter_number": 1,
+  "chapter_title": "Remarks on Economic Questions Connected with the November 1951 Discussion",
+  "chapter_slug": "01-remarks-on-economic-questions-connected-with-the-n",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "93d9e6cb-45b5-55fa-ad26-5b2e846fd324",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 79,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch01.htm"
+    }
+  ]
+}

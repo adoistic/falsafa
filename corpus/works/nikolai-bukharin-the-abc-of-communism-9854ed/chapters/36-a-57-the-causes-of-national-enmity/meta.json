@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 36,
+  "chapter_title": "â§ 57. The causes of national enmity",
+  "chapter_slug": "36-a-57-the-causes-of-national-enmity",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7aed53c8-84c8-5a04-abae-dc87c9b50905",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 616,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/07.htm"
+    }
+  ]
+}

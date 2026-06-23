@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-religion-of-socialism-b65d8b",
+  "work_title": "The Religion of Socialism",
+  "chapter_number": 21,
+  "chapter_title": "VIII",
+  "chapter_slug": "21-viii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7fb19a10-f292-5fe0-9a74-c6d3bf056f5a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 316,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1886/religion/15-appendix.htm"
+    }
+  ]
+}

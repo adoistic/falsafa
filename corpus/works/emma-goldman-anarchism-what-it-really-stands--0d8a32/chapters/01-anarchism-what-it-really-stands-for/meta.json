@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-anarchism-what-it-really-stands--0d8a32",
+  "work_title": "Anarchism: What It Really Stands For",
+  "chapter_number": 1,
+  "chapter_title": "Anarchism: What It Really Stands For",
+  "chapter_slug": "01-anarchism-what-it-really-stands-for",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e65583e9-8e9c-5e4f-942d-4ef06d3139a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5237,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1910s/anarchism.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-the-bankruptcy-of-capitalism-b8d51c",
+  "work_title": "The Bankruptcy of Capitalism",
+  "chapter_number": 1,
+  "chapter_title": "The Bankruptcy of Capitalism",
+  "chapter_slug": "01-the-bankruptcy-of-capitalism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "20d4e670-3ec8-572e-beb3-5bab0a3c091d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1119,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1900/xx/bankrupt.htm"
+    }
+  ]
+}

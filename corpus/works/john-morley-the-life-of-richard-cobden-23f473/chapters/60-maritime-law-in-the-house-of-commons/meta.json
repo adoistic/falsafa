@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-the-life-of-richard-cobden-23f473",
+  "work_title": "The Life of Richard Cobden",
+  "chapter_number": 60,
+  "chapter_title": "Maritime Law in the House of Commons",
+  "chapter_slug": "60-maritime-law-in-the-house-of-commons",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "437e6f85-f185-51c2-bca5-4eb402dccb75",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 757,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+    }
+  ]
+}

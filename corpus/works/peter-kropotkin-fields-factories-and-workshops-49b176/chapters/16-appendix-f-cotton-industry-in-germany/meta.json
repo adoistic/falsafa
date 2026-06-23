@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-fields-factories-and-workshops-49b176",
+  "work_title": "Fields, Factories, and Workshops",
+  "chapter_number": 16,
+  "chapter_title": "Appendix F : Cotton Industry in Germany",
+  "chapter_slug": "16-appendix-f-cotton-industry-in-germany",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b4731a9a-794e-5a3d-b8f1-b667a4869247",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 313,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1898/fields-factories-and-workshops/appendix-f.html"
+    }
+  ]
+}

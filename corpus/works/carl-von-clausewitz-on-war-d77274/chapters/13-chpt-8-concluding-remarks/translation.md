@@ -1,0 +1,31 @@
+---
+work_id: "d77274fa-3610-5f16-9c9f-12e84c9fe82d"
+work_slug: "carl-von-clausewitz-on-war-d77274"
+work_title: On War
+author_name: Carl von Clausewitz
+chapter_number: 13
+chapter_title: Chpt. 8 Concluding Remarks
+chapter_slug: "13-chpt-8-concluding-remarks"
+variant_id: "50b6fa9a-eea3-5eed-9c31-c55c8c780ee0"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 623
+source_url: "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book1/ch08.htm"
+translator: Colonel J.J. Graham
+---
+
+Those things which as elements meet together in the atmosphere of War and make it a resistant medium for every activity we have designated under the terms danger, bodily effort (exertion), information, and friction. In their impedient effects they may therefore be comprehended again in the collective notion of a general friction. Now is there, then, no kind of oil which is capable of diminishing this friction? Only one, and that one is not always available at the will of the Commander or his Army. It is the habituation of an Army to War.
+
+Habit gives strength to the body in great exertion, to the mind in great danger, to the judgment against first impressions. By it a valuable circumspection is generally gained throughout every rank, from the hussar and rifleman up to the General of Division, which facilitates the work of the Chief Commander.
+
+As the human eye in a dark room dilates its pupil, draws in the little light that there is, partially distinguishes objects by degrees, and at last knows them quite well, so it is in War with the experienced soldier, whilst the novice is only met by pitch dark night.
+
+Habituation to War no General can give his Army at once, and the camps of manoeuvre (peace exercises) furnish but a weak substitute for it, weak in comparison with real experience in War, but not weak in relation to other Armies in which the training is limited to mere mechanical exercises of routine. So to regulate the exercises in peace time as to include some of these causes of friction, that the judgment, circumspection, even resolution of the separate leaders may be brought into exercise, is of much greater consequence than those believe who do not know the thing by experience. It is of immense importance that the soldier, high or low, whatever rank he has, should not have to encounter in War those things which, when seen for the first time, set him in astonishment and perplexity; if he has only met with them one single time before, even by that he is half acquainted with them. This relates even to bodily fatigues. They should be practised less to accustom the body to them than the mind. In War the young soldier is very apt to regard unusual fatigues as the consequence of faults, mistakes, and embarrassment in the conduct of the whole, and to become distressed and despondent as a consequence. This would not happen if he had been prepared for this beforehand by exercises in peace.
+
+Another less comprehensive but still very important means of gaining habituation to War in time of peace is to invite into the service officers of foreign armies who have had experience in War. Peace seldom reigns over all Europe, and never in all quarters of the world. A State which has been long at peace should, therefore, always seek to procure some officers who have done good service at the different scenes of Warfare, or to send there some of its own, that they may get a lesson in War.
+
+However small the number of officers of this description may appear in proportion to the mass, still their influence is very sensibly felt. [The War of 1870 furnishes a marked illustration. Von Moltke and von Goeben, not to mention many others, had both seen service in this manner, the former in Turkey and Syria, the latter in Spain – editor.] Their experience, the bent of their genius, the stamp of their character, influence their subordinates and comrades; and besides that, if they cannot be placed in positions of superior command, they may always be regarded as men acquainted with the country, who may be questioned on many special occasions.

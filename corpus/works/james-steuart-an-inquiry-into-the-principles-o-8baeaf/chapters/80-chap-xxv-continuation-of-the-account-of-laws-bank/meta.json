@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 80,
+  "chapter_title": "Chap. XXV: Continuation of the Account of Law's Bank",
+  "chapter_slug": "80-chap-xxv-continuation-of-the-account-of-laws-bank",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "96c049ea-7e46-5b85-a002-4c81be75e2b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 885,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book4_2.htm"
+    }
+  ]
+}

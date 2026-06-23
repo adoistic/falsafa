@@ -1,0 +1,26 @@
+{
+  "work_slug": "rosa-luxemburg-the-accumulation-of-capital-1f9ce9",
+  "work_title": "The Accumulation of Capital",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 4: Marx’s Scheme of Simple Reproduction",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f413ec73-0f14-5d21-a584-194cdb02b952",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6409,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch04.htm"
+    }
+  ]
+}

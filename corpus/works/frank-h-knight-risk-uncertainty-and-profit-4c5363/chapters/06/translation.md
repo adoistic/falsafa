@@ -4,7 +4,7 @@ work_slug: "frank-h-knight-risk-uncertainty-and-profit-4c5363"
 work_title: Risk, Uncertainty and Profit
 author_name: Frank H. Knight
 chapter_number: 6
-chapter_title: "Part II, Chapter III: The Theory of Choice and of Exchange"
+chapter_title: "Part II: Perfect Competition, Part II, Chapter III: The Theory of Choice and of Exchange"
 chapter_slug: 06
 variant_id: "32445acc-c414-555c-8106-0c244352d9cc"
 content_type: translation

@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 21,
+  "chapter_title": "Chpt. 2 Elements of Strategy",
+  "chapter_slug": "21-chpt-2-elements-of-strategy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "104c76be-4ad5-50ed-a69a-23a2ea3c1478",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 379,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch02.htm"
+    }
+  ]
+}

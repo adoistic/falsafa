@@ -4,7 +4,7 @@ work_slug: "eli-f-heckscher-the-continental-system-an-econom-250a7b"
 work_title: "The Continental System: An Economic Interpretation"
 author_name: Eli F. Heckscher
 chapter_number: 1
-chapter_title: "EDITOR'S PREFACE, by Harald Westergaard"
+chapter_title: "Editor's Preface, by Harald Westergaard"
 chapter_slug: "01-editors-preface-by-harald-westergaard"
 variant_id: "dcc2df21-b952-5f61-b901-832275a61943"
 content_type: translation

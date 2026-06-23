@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 42,
+  "chapter_title": "Ii.—: What is commended, even by an enemy, is a great good; but what is censured, even by a friend, a great evil",
+  "chapter_slug": "42-ii-what-is-commended-even-by-an-enemy-is-a-great-g",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70b59eef-0520-5d88-a748-51ff8bc4c2bb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 196,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

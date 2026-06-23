@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-abc-of-communism-9854ed",
+  "work_title": "The ABC of Communism",
+  "chapter_number": 16,
+  "chapter_title": "III. Communism and the Dictatorship of the Proletariat",
+  "chapter_slug": "16-iii-communism-and-the-dictatorship-of-the-proletar",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "401f8030-1362-5bbd-ab55-545e509917e7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9123,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1920/abc/03.htm"
+    }
+  ]
+}

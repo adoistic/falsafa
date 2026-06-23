@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-thomas-more-and-his-utopia-bb36cd",
+  "work_title": "Thomas More and his Utopia",
+  "chapter_number": 7,
+  "chapter_title": "Chapter II. More as Humanist",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "87262ebd-0e34-50d2-8d8f-0e2bab3e6d43",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2488,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1888/more/ch06.htm"
+    }
+  ]
+}

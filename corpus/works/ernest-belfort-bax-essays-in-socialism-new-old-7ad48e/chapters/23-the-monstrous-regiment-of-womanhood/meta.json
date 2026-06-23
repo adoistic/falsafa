@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
+  "work_title": "Essays in Socialism: New & Old",
+  "chapter_number": 23,
+  "chapter_title": "The “Monstrous Regiment” of Womanhood",
+  "chapter_slug": "23-the-monstrous-regiment-of-womanhood",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1864a90f-b9ab-5b69-87b8-b8ddef95bba7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7660,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1907/essays/22-monstrous.htm"
+    }
+  ]
+}

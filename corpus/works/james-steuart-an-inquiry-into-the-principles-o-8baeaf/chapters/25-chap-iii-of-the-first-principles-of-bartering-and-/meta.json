@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
+  "work_title": "An Inquiry into the Principles of Political Economy",
+  "chapter_number": 25,
+  "chapter_title": "Chap. III: Of the first Principles of bartering, and how this grows into Trade",
+  "chapter_slug": "25-chap-iii-of-the-first-principles-of-bartering-and-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "de3663f9-d222-50ce-9070-32b4ca9c311c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2088,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/steuart/book2.htm"
+    }
+  ]
+}

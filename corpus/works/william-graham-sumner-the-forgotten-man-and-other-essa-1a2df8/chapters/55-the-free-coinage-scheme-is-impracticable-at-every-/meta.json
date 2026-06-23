@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 55,
+  "chapter_title": "The Free-coinage Scheme Is Impracticable at Every Point, The Program.",
+  "chapter_slug": "55-the-free-coinage-scheme-is-impracticable-at-every-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa59aaea-402e-5100-b894-ab7012d42cfa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 140,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

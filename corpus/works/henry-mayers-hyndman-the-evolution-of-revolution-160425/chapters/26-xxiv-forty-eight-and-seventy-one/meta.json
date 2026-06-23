@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 26,
+  "chapter_title": "XXIV. Forty-eight and Seventy-one",
+  "chapter_slug": "26-xxiv-forty-eight-and-seventy-one",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f29e3f7f-0900-5f4f-8dff-01b27cfe2f57",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5417,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter24.htm"
+    }
+  ]
+}

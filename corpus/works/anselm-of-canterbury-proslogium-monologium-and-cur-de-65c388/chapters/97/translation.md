@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 97
-chapter_title: CHAPTER LVII.
+chapter_title: Chapter LXV.
 chapter_slug: 97
 variant_id: "1b07f945-9fb3-5005-bad0-a9ec40091629"
 content_type: translation
@@ -13,17 +13,25 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 431
+word_count: 649
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-This love is uncreated and creator, as are Father and Son; and yet it is with them not three, but one uncreated and creative being. And it may be called the Spirit of Father and Son.
+How real truth may be reached in the discussion of an ineffable subject.
 
-But, since this love separately is the supreme Being, as are Father and Son, and yet at once Father and Son, and the love of both are not more than one, but one supreme Being, which alone was created by none, and created all things through no other than itself; since this is true, necessarily, as the Father separately, and the Son separately, are each uncreated and creator, so, too, love separately is uncreated and creator, and yet all three at once are not more than one, but one uncreated and creative being.
+But again, if such is the character of its ineffability,—nay, since it is such,—how shall whatever conclusion our discussion has reached regarding it in terms of Father, Son, and emanating Spirit be valid? For, if it has been explained on true grounds, how is it ineffable? Or, if it is ineffable, how can it be such as our discussion has shown? Or, could it be explained to a certain extent, and therefore nothing would disprove the truth of our argument; but since it could not be comprehended at all, for that reason it would be ineffable?
 
-None, therefore, makes or begets or creates the Father, but the Father alone begets, but does not create, the Son; while Father and Son alike do not create or beget, but somehow, if such an expression may be used, breathe their love: for, although the supremely immutable Being does not breathe after our fashion, yet the truth that this Being sends forth this, its love, which proceeds from it, not by departing from it, but by deriving existence from it, can perhaps be no better expressed than by saying that this Being breathes its love.
+But how shall we meet the truth that has already been established in this very discussion, namely, that the supreme Being is so above and beyond every other nature that, whenever any statement is made concerning it in words which are also applicable to other natures, the sense of these words in this case is by no means that in which they are applied to other natures.
 
-But, if this expression is admissible, as the Word of the supreme Being is its Son, so its love may fittingly enough be called its breath (Spiritus). So that, though it is itself essentially spirit, as are Father and Son, they are not regarded as the spirits of anything, since neither is the Father born of any other nor the Son of the Father, as it were, by breathing; while Edition: current; Page: [120] that love is regarded as the Breath or Spirit of both, since from both breathing in their transcendent way it mysteriously proceeds.
+For what sense have I conceived of, in all these words that I have thought of, except the common and familiar sense? If, then, the familiar sense of words is alien to that Being, whatever I have inferred to be attributable to it is not its property. How, then, has any truth concerning the supreme Being been discovered, if what has been discovered is so alien to that Being? What is to be inferred?
 
-And this love, too, it seems, from the fact that there is community of being between Father and Son, may, not unreasonably, take, as it were its own, some name which is common to Father and Son; if there is any exigency demanding that it should have a name proper to itself. And, indeed, if this love is actually designated by the name Spirit, as by its own name, since this name equally describes the Father and the Son: it will be useful to this effect also, that through this name it shall be signified that this love is identical with Father and Son, although it has its being from them.
+Or, has there in some sort been some truth discovered regarding this incomprehensible object, and in some sort has nothing been proved regarding it? For often we speak of things which we do not express with precision as they are; but by another expression we indicate what we are unwilling or unable to express with precision, as when we speak in riddles. And often we see a thing, not precisely as it is in itself, but through a likeness or image, as when we look upon a face in a mirror. And in this way, we often express and yet do not express, see and yet do not see, one and the same object; we express and see it through another; we do not express it, and do not see it by virtue of its own proper nature.
+
+On these grounds, then, it appears that there is nothing to disprove the truth of our discussion thus far, concerning the supreme Nature, and yet this Nature itself remains not the less ineffable, if we believe that it has never been expressed according to the peculiar nature of its own being, but somehow described through another.
+
+For whatever terms seem applicable to that Nature do not reveal it to me in its proper character, but rather intimate it through some likeness. For, when I think of the meanings of these terms, I more naturally conceive in my mind of what I see in created objects, than of what I conceive to transcend all human understanding. For it is something much less, nay, something far different, that their meaning suggests to my mind, than that the conception of which my mind itself attempts to achieve through this shadowy signification.
+
+For, neither is the term wisdom sufficient to reveal to me that Being, through which all things were created from nothing and are preserved from nothingness; nor is the term essence capable of expressing to me that Being which, through its unique elevation, is far above all things, and through its peculiar natural character greatly transcends all things.
+
+In this way, then, is that Nature ineffable, because it is incapable of description in words or by any other means; and, at the same time, an inference regarding it, which can be reached by the instruction of reason or in some other way, as it were in a riddle, is not therefore necessarily false.

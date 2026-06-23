@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 24,
-  "chapter_title": "CHAPTER XIV.: TAXES ON HOUSES.",
+  "chapter_title": "Chapter XV.: Taxes on Profits.",
   "chapter_slug": "24",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1243,
-      "paragraph_count": 6,
+      "word_count": 3168,
+      "paragraph_count": 17,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

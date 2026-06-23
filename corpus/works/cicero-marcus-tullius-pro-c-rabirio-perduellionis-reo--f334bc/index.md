@@ -4,7 +4,10 @@ slug: "cicero-marcus-tullius-pro-c-rabirio-perduellionis-reo--f334bc"
 title: Pro C. Rabirio Perduellionis Reo Ad Quirites
 author:
   name: Cicero, Marcus Tullius
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman orator and statesman of the late Republic, consul in the year of the Catilinarian conspiracy. His courtroom and senate speeches set the standard of Latin prose, and his late treatises gave Rome a Latin vocabulary for Greek philosophy.
+  birth_year: -106
+  death_year: -43
+  nationality: Roman
 era: Hellenistic
 genre: Classics
 language: Latin

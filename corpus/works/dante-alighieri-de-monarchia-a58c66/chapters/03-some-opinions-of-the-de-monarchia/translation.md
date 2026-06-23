@@ -4,7 +4,7 @@ work_slug: "dante-alighieri-de-monarchia-a58c66"
 work_title: De Monarchia
 author_name: Dante Alighieri
 chapter_number: 3
-chapter_title: SOME OPINIONS OF THE DE MONARCHIA
+chapter_title: Some Opinions of the De Monarchia
 chapter_slug: "03-some-opinions-of-the-de-monarchia"
 variant_id: "a6d78fe8-c02f-5e89-b866-81b86892480c"
 content_type: translation

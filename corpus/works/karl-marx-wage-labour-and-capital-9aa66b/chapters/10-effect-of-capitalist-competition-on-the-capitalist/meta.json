@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-wage-labour-and-capital-9aa66b",
+  "work_title": "Wage Labour and Capital",
+  "chapter_number": 10,
+  "chapter_title": "Effect of capitalist competition on the capitalist class, middle class and working class",
+  "chapter_slug": "10-effect-of-capitalist-competition-on-the-capitalist",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0c2a9f33-7c2a-54ab-93e8-cc61be6684bb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2014,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1847/wage-labour/ch09.htm"
+    }
+  ]
+}

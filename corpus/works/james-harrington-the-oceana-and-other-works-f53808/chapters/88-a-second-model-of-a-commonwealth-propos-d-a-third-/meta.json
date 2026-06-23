@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 88,
+  "chapter_title": "A Second Model of a Commonwealth Propos’d, A Third Model of a Commonwealth Propos’d. The Commonwealth of Sparta.",
+  "chapter_slug": "88-a-second-model-of-a-commonwealth-propos-d-a-third-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "43186843-b51c-5f11-94d8-31e24166eb2d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 304,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

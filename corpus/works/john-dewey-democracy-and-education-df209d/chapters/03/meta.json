@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-dewey-democracy-and-education-df209d",
+  "work_title": "Democracy and Education",
+  "chapter_number": 3,
+  "chapter_title": "Chapter Three — Education as Direction",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b7cb2466-f2ab-5694-ac18-e5f9600c185b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7063,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/852"
+    }
+  ]
+}

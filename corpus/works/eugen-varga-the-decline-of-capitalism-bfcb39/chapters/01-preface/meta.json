@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-varga-the-decline-of-capitalism-bfcb39",
+  "work_title": "The Decline of Capitalism",
+  "chapter_number": 1,
+  "chapter_title": "Preface",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79b670e8-aa24-5721-b071-7fb7d57f71ec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 316,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/varga/1924/x01/x01.htm"
+    }
+  ]
+}

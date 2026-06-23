@@ -2,7 +2,7 @@
   "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
   "work_title": "The Works of David Ricardo",
   "chapter_number": 38,
-  "chapter_title": "CHAPTER XXVIII.: ON THE COMPARATIVE VALUE OF GOLD, CORN, AND LABOUR IN RICH AND POOR COUNTRIES.",
+  "chapter_title": "Chapter XXIX.: Taxes Paid by the Producer.",
   "chapter_slug": "38",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1990,
-      "paragraph_count": 11,
+      "word_count": 684,
+      "paragraph_count": 4,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
     }

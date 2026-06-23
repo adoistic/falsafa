@@ -4,7 +4,7 @@ work_slug: "lysander-spooner-no-treason-no-vi-the-constitutio-538bde"
 work_title: "No Treason, No. VI: The Constitution of No Authority"
 author_name: Lysander Spooner
 chapter_number: 20
-chapter_title: APPENDIX.
+chapter_title: Appendix.
 chapter_slug: "20-appendix"
 variant_id: "07cc3b95-ef19-53cc-b2d6-95b005025b9c"
 content_type: translation

@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-rights-of-war-and-peace-0db900"
 work_title: The Rights of War and Peace
 author_name: Hugo Grotius
 chapter_number: 51
-chapter_title: "CHAPTER XXV.: Conclusion."
+chapter_title: "Chapter XXV.: Conclusion."
 chapter_slug: 51
 variant_id: "e5fcdc5c-eb92-5989-9640-1f608cd31b1e"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 708
+word_count: 704
 source_url: "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
 translator: Online Library of Liberty edition
 ---
@@ -26,7 +26,7 @@ Before entirely dismissing the subject, it may be necessary to observe, that, as
 
 In every other branch of justice there is something of obscurity, but the bond of faith is clear in itself, and is used indeed to do away the obscurity of all transactions. The observance of this is a matter of conscience with all lawful kings and sovereign princes, and is the basis of that reputation by which the honour and dignity of their crowns are maintained with foreign nations.
 
-II. In the very heat of war the greatest security and expectation of divine support must be in the unabated Edition: current; Page: [418] desire, and invariable prospect of peace, as the only end for which hostilities can be lawfully begun. So that in the prosecution of war we must never carry the rage of it so far, as to unlearn the nature and dispositions of men.
+II. In the very heat of war the greatest security and expectation of divine support must be in the unabated desire, and invariable prospect of peace, as the only end for which hostilities can be lawfully begun. So that in the prosecution of war we must never carry the rage of it so far, as to unlearn the nature and dispositions of men.
 
 III. These and these alone would be sufficient motives for the termination of war, and the cultivation of peace. But apart from all considerations of humanity, the interests of mankind would inevitably lead us to the same point. In the first place it is dangerous to prolong a contest with a more powerful enemy. In such a case some sacrifices should be made for the sake of peace, as in a storm goods are sometimes thrown overboard to prevent a greater calamity, and to save the vessel and the crew.
 

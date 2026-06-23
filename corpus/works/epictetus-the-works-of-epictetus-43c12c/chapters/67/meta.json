@@ -2,7 +2,7 @@
   "work_slug": "epictetus-the-works-of-epictetus-43c12c",
   "work_title": "The Works of Epictetus",
   "chapter_number": 67,
-  "chapter_title": "CHAPTER VII.: CONCERNING A CERTAIN GOVERNOR WHO WAS AN EPICUREAN.",
+  "chapter_title": "Chapter VIII.: How We Are to Exercise Ourselves Against the Semblances of Things.",
   "chapter_slug": "67",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 1309,
-      "paragraph_count": 34,
+      "word_count": 318,
+      "paragraph_count": 3,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
     }

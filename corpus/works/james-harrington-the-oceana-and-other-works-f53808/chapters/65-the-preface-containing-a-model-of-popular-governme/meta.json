@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 65,
+  "chapter_title": "The PREFACE. Containing a Model of Popular Government, propos’d Notionally.",
+  "chapter_slug": "65-the-preface-containing-a-model-of-popular-governme",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7997218a-d0b4-533d-a9cc-29dec476fdb4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3576,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

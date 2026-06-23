@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 19,
+  "chapter_title": "XVII. Feudal origins",
+  "chapter_slug": "19-xvii-feudal-origins",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3775d2a5-5263-58b6-9a69-042e4b272ea0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2618,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter17.htm"
+    }
+  ]
+}

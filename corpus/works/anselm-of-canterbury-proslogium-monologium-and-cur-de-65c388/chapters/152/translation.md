@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 152
-chapter_title: CHAPTER XXI.
+chapter_title: Chapter VI. (3)
 chapter_slug: 152
 variant_id: "9361ba9c-1eef-51d2-995c-a3645e708e54"
 content_type: translation
@@ -13,61 +13,31 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 588
+word_count: 203
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How great a burden sin is.
+How no being, except the God-man, can make the atonement by which man is saved.
 
-Suppose that you did not owe any of those things which you have brought up as possible payment for your sin, let us inquire whether they can satisfy for a sin so small as one look contrary to the will of God.
+But this cannot be effected, except the price paid to God for the sin of man be something greater than all the universe besides God.
 
-Did I not hear you question the thing, I should suppose that a single repentant feeling on my part would blot out this sin.
+So it appears.
 
-You have not as yet estimated the great burden of sin.
-
-Show it me then.
-
-If you should find yourself in the sight of God, and one said to you: “Look thither;” and God, on the other hand, should say: “It is not my will that you should look;” ask your own heart what there is in all existing things which would make it right for you to give that look contrary to the will of God.
-
-I can find no motive which would make it right; unless, indeed I am so situated as to make it necessary for me either to do this, or some greater sin.
-
-Put away all such necessity, and ask with Edition: current; Page: [229] regard to this sin only whether you can do it even for your own salvation.
-
-I see plainly that I cannot.
-
-Not to detain you too long; what if it were necessary either that the whole universe, except God himself, should perish and fall back into nothing, or else that you should do so small a thing against the will of God?
-
-When I consider the action itself, it appears very slight; but when I view it as contrary to the will of God, I know of nothing so grievous, and of no loss that will compare with it; but sometimes we oppose another’s will without blame in order to preserve his property, so that afterwards he is glad that we opposed him.
-
-This is in the case of man, who often does not know what is useful for him, or cannot make up his loss; but God is in want of nothing, and, should all things perish, can restore them as easily as he created them.
-
-I must confess that I ought not to oppose the will of God even to preserve the whole creation.
-
-What if there were more worlds as full of beings as this?
-
-Were they increased to an infinite extent, and held before me in like manner, my reply would be the same.
-
-You cannot answer more correctly, but consider, also, should it happen that you gave the look contrary to God—s will, what payment you can make for this sin?
-
-I can only repeat what I said before.
-
-So heinous is our sin whenever we knowingly oppose the will of God even in the slightest Edition: current; Page: [230] thing; since we are always in his sight, and he always enjoins it upon us not to sin.
+Moreover, it is necessary that he who can give God anything of his own which is more valuable than all things in the possession of God, must be greater than all else but God himself.
 
 I cannot deny it.
 
-Therefore you make no satisfaction unless you restore something greater than the amount of that obligation, which should restrain you from committing the sin.
+Therefore none but God can make this satisfaction.
 
-Reason seems to demand this, and to make the contrary wholly impossible.
+So it appears.
 
-Even God cannot raise to happiness any being bound at all by the debt of sin, because He ought not to.
+But none but a man ought to do this, other wise man does not make the satisfaction.
 
-This decision is most weighty.
+Nothing seems more just.
 
-Listen to an additional reason which makes it no less difficult for man to be reconciled to God.
+If it be necessary, therefore, as it appears, that the heavenly kingdom be made up of men, and this cannot be effected unless the aforesaid satisfaction be made, which none but God can make and none but man ought to make, it is necessary for the Godman to make it.
 
-This alone would drive me to despair, were it not for the consolation of faith.
+Now blessed be God! we have made a great discovery with regard to our question. Go on, therefore, as you have begun. For I hope that God will assist you.
 
-But listen.
-
-Say on.
+Now must we inquire how God can become man.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-britains-economic-outlook-on-eur-ea757b",
+  "work_title": "Britain's Economic Outlook on Europe",
+  "chapter_number": 2,
+  "chapter_title": "II",
+  "chapter_slug": "02-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5f0dbb26-0328-5e24-a482-29b578c8ba2b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3882,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1922/08/outlook.htm"
+    }
+  ]
+}

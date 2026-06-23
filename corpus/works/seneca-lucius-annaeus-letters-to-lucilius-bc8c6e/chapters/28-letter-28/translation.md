@@ -1,0 +1,38 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 28
+chapter_title: Letter 28
+chapter_slug: "28-letter-28"
+variant_id: "62463af5-635e-5520-b0d7-10f8381a031f"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 753
+translator: thothica
+---
+
+1. Do you think this has befallen you alone, and do you marvel at it as at some strange thing, that with travel so long and so many changes of scene you have not shaken off the gloom and heaviness of your mind? You must change the mind, not the sky. Though you cross the wide sea, though, as our Virgil says, "lands and cities fall away," your faults will follow you wherever you go.
+
+2. To one who made this same complaint Socrates said: "Why do you wonder that travels do you no good, when you carry yourself about with you? The very cause that drove you out presses upon you still." What good can the newness of foreign lands do? What good the knowledge of cities or places? All that tossing about comes to nothing. Do you ask why this flight does not help you? You flee in your own company. The burden of the mind must be laid down; until then, no place will please you.
+
+3. Consider that your present state is just such as our Virgil describes when he brings on the prophetess already roused and goaded and filled with a spirit not her own: "The seer rages, if she may shake the mighty god from her breast." You go hither and thither to shake off the weight that sits upon you, and which is made more troublesome by the very tossing, just as in a ship cargo that lies still presses less, while shifted unevenly it sinks the more swiftly the side onto which it has rolled. Whatever you do, you do against yourself, and by the very motion you do yourself harm; for you are shaking a sick man.
+
+4. But once you have taken away that evil, every change of place will become pleasant; though you be driven to the farthest lands, though you be set down in whatever corner of barbarian country, that abode, of whatever sort, will be hospitable to you. It matters more what you bring than whither you come; and for that reason we ought to bind our minds to no place. We must live with this conviction: "I was not born for one corner; this whole world is my country."
+
+5. If this were clear to you, you would not marvel that you are not helped by varieties of regions, into which you keep migrating out of weariness with the last. For the very first would have pleased you, had you believed every place your own. As it is, you do not travel, you wander, and are driven on, changing place for place, while that which you seek, to live well, is set in every place.
+
+6. Can anything be more disordered than the forum? Yet there too one may live in peace, if there is need. But if one is allowed to dispose of oneself, I would flee far even from the sight and the neighbourhood of the forum. For just as unwholesome places try even the firmest health, so to a good mind, not yet perfected and still growing strong, there are some surroundings too little healthful.
+
+7. I disagree with those who go into the midst of the waves and, praising a turbulent life, struggle daily with great spirit against the difficulties of affairs. The wise man will endure such things, but will not choose them, and will prefer to be at peace rather than in battle. It is of little profit to have cast off one's own faults, if one must wrangle with the faults of others.
+
+8. "Thirty tyrants," he says, "stood about Socrates, and they could not break his spirit." What does it matter how many masters there are? Slavery is one. He who has despised it is free amid however great a throng of masters.
+
+9. It is time to make an end, but first let me pay the toll. "The beginning of safety is the knowledge of one's fault." Epicurus seems to me to have said this admirably. For he who does not know that he is doing wrong does not wish to be set right; you must catch yourself out before you can mend yourself.
+
+10. Some men glory in their faults; do you suppose that those who reckon their evils in the place of virtues give any thought to a remedy? Therefore, so far as you can, convict yourself, inquire into yourself; first play the part of accuser, then of judge, last of intercessor. Sometimes deal hardly with yourself. Farewell.

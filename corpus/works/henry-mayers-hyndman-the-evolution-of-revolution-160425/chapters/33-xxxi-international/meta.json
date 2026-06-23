@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-the-evolution-of-revolution-160425",
+  "work_title": "The Evolution of Revolution",
+  "chapter_number": 33,
+  "chapter_title": "XXXI. “International”",
+  "chapter_slug": "33-xxxi-international",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cfad3d5f-1c13-55de-a357-88f46d131975",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5811,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1921/evrev/chapter31.htm"
+    }
+  ]
+}

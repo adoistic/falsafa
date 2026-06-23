@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 36
-chapter_title: "CHAPTER III: DISORDERS, DELAYS AND ERRORS"
+chapter_title: "Chapter V: Labor"
 chapter_slug: 36
 variant_id: "e27bbe54-145a-5ccd-9c00-3dad1243c616"
 content_type: translation
@@ -13,93 +13,403 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 2751
+word_count: 10644
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-In his character of Socialist Marcel Sembat wishes the state to take over all public utilities. Yet, as reporter of the budget of the postoffice, telegraph and telephone systems, included in the general budget of 1906, he has demonstrated very clearly what becomes of a trading enterprise in the hands of the state.
+1. “The government ought to prove itself a model for all other employers.” Such is the stereotyped phrase in general circulation in Socialist circles, and all those who repeat the phrase mean by it that the state shall raise wages, shorten hours of work, and be satisfied with a smaller return from labor.
 
-When the telephone first appeared in France the government, considering that it would be hazardous to attempt its operation, granted to private interests the authority to take upon themselves this experiment at their own risk, reserving, however, the right of buying back the powers thus granted, together with the property Edition: current; Page: [281] accumulated, for a compensation to be agreed upon. In 1880 the Société Générale des Téléphones was incorporated. The franchise granted would have come to an end September 8, 1884, but it was extended for a further period of five years.
+As a matter of fact, this conception of the model state is one of a robbery of the whole body of taxpayers for the sake of the minority who will profit by it. Yet many taxpayers seem resigned to having such a conception realized at their expense, and the more democratic the state the more imperative are the demands of privileged classes, and the more chance there is of their ultimate triumph.
 
-On July 12, 1882, the government obtained an appropriation of 250,000 francs to establish lines at Rheims, Roubaix, Pourcing, Troyes, Nancy, etc., where the Société Générale des Téléphones was not operating. After some months of operation the government declared that it was realizing profits at a rate 50 per cent. lower than that of the company. September 8, 1889, that is to say the date of the expiration of the franchise, the government established the telephone monopoly.
+2. The least of the claims of the average employee consists in demanding an increase of workers for the same amount of work. This is one way of providing work for workers, and we may be certain that the latest comers will never close the door.
 
-The purchase of the company's equipment had been authorized by the law of July 16, 1889. The government offered 5,068,836 francs, but by an order dated May, 1896, the Council of State rendered judgment, ordering the government to pay 9,313,000 francs, which, with interest, ultimately increased to 11,334,338 francs, or 126 per cent. more than the original estimate.
+We have seen how such labor increases work out in the case of the government railways.
 
-M. Sembat says:
+In Australia, with the Labor party in power, the number of employees is still increasing. On the first of January, 1911, the Australian Federal Government had 15,120 employees, receiving £2,098,500 in wages; but on January 1, 1912, they aggregated 16,200, with salaries amounting to £2,720,000.
 
-“In replacing private enterprise the state had no intention of borrowing its methods. This was announced in the very beginning. The first act of the government furnished a joyful augury for the future. It lowered the rates on subscribers' contracts. It was impossible to know whether the government was going to sell service at a loss. It fixed its rate at a venture. The desire was to confer a boon rather than to launch a great industry.”
+3. The general report of Louis Dausset on the municipal budget of Paris for 1912 contains most interesting information concerning the burden imposed upon the budget of the city and upon the budgets of the various local governments by the growing exigencies of their employees.
 
-Thus in the very beginning the actual price of the purchase exceeded the estimate by 126 per cent., and rates were “fixed at a venture.”
+The table given below shows the considerable increase in the average salaries of Parisian municipal workers between 1890 and 1912:
 
-As a matter of fact, the extension of time granted the Société Générale des Téléphones had been far too short. No industry can establish itself and pay off its capital in five years. Therefore, when the government replaced the company, the latter's equipment was behind the times. In certain cases the intervention of four operators was necessary to bring about one connection. In America and in several Belgian cities multiple switchboards, so named because the terminal point of all subscribers' lines wired to the same exchange is repeated before each operator, were already in use. A single employee sufficed to connect two subscribers on the same switchboard. The French department had experimented with this system at the Wagram exchange.
+Or, in other words, an increase of 70 per cent. in 22 years.
 
-“But,” says M. Steeg, in his report on the budget of 1907, “despite the promised advantages, for want of money, time and space, the first installations of this new type have been greatly limited. Besides, the work has been done rather under the pressure of immediate needs than in the execution of a comprehensive plan.”
+It should be well understood, moreover, that the net cost of the various municipal activities has also considerably increased.“It appears, in fact,” says M. Dausset, in a memorandum coming to us from the Public Highways Service, “that the net cost per square meter for street cleaning has risen from 0 franc 381 in 1893, to 0 franc 417 in 1896, 0 franc 476 in 1902, 0 franc 513 in 1908, 0 franc 557 in 1912. This last increase, however, should be ascribed to improvement in equipment. The increase in labor expenses shown by the budget of 1912, over that of 1911, amounts to more than 5,000,000 francs for the municipal employees, properly so called.
 
-Other difficulties also arose. The operators were unprepared for the new system. The plan of calling subscribers by number, as required by the multiple switchboard, instead of calling them by name, as was the custom under the old system, bothered the operators. It was finally decided to decrease the number of exchanges and to establish three large ones on the right bank of the Seine.
+From 1908 to 1912 the concessions granted the employees out of municipal funds have called for an expenditure of 16,625,000 francs, of which 3,976,875 francs went to the working force connected with the prefecture of the Seine; 4,789,794 francs to the employees of the gas works, and 473,193 francs to the various electrical plants.
 
-Now a business man under existing conditions would have sought the most commodious site in order to establish his principal exchange. But not so the government. The convenience of the chief telephone exchange was subordinated to the needs of the Postoffice. Although constructed only ten years before, the Post-office building was completely outgrown. The officials did not know where to keep the mail wagons. The opportunity afforded by the establishment of the new exchange was too good to be lost. The Rue de Guten-berg—a short thoroughfare—was condemned and closed, and a telephone building following the line of the curb constructed. The lower floor of the new building, however, was given over as a shelter for the mail wagons.
+Moreover, bills passed up to the present have pledged the future to supplemental expenditures of about 3,000,000 francs, which will insure to municipal laborers, who constitute the most numerous class of municipal employees, an average salary of 2,356 francs.
 
-And here is another curious point! The Telephone department had been anxious to do away with the old widely scattered exchanges. But, after these had been concentrated in the same building, connections were made by the same methods as had prevailed when the offices were situated in different buildings.
+Now street sweeping has thus far been a monopoly of unskilled labor. But what if it should occur to skilled workers—jewelers, for example—lured by the superior advantages enjoyed by the gentlemen of the broom, to take their place? What then would become of the street sweepers?
 
-As a consequence, and since it was necessary to carry interurban service lines and the lines of three bureaus into the same place, the department was forced to enlarge the conduit which runs from the Rue du Louvre to the Rue Richer through the Rue Mont-martre, at great expense and in unusual proportions. Finally “a special conduit is now required in the Rue Etienne-Marcel, already over encumbered, the present ducts being incapable of containing the too numerous cables that must pass in this direction.”
+As a matter of fact and as a natural consequence of its economic unsoundness, this increase in salary, far from being an advantage to those for whose benefit the Municipal Council designed it, has actually resulted in a reclassification of labor downward.
 
-The defects of such service are easily seen. Concentration Edition: current; Page: [284] in the same building of bureaus to all intents and purposes separate has made necessary the relocation of a vast mass of wires involving in its turn other undertakings on an unnecessarily vast scale. As the whole system, the very foundations of which are false, may have to be renewed many times, it ought surely to be renounced.
+At the same time it is taking workers away from trades in which they have passed years of apprenticeship. The inevitable result of such labor conditions is only too well illustrated by the industrial disturbances at Sheffield.
 
-In 1900 a commission was appointed to outline a general course of action. It discussed the question until 1905. That year two switchboards, each for 5,000 subscribers, were placed in the Gutenberg exchange. They were not ready to use in 1907. The switchboard for 5,000 subscribers, subsequently ordered for the Passy exchange, has not yet been installed, as is the case also with several other switch boards ordered for a number of other exchanges. Considerable sums have been spent. They have remained unproductive, and the subscribers are still waiting.
+Then the condition of the municipal employee of Paris has been improved, not only by an increase in his salary, but also by a decrease in his hours of work. M. Dausset says:
 
-In 1906 a contractor made the department a proposition to replace the entire apparatus of the Paris system by the common battery system, adopted by all the great American companies, for 20,000,000 francs ($3,800,000). A committee on telephone equipment was appointed for the purpose of examining into this proposition, “which its contract form,” said M. Steeg, “caused to be instantly rejected.” M. Steeg mentions the rejection as self-explanatory. I confess that I do not understand his point of view. In the interest of the state, whenever it is possible, necessary work should be done by a contractor. Such a proceeding would ensure a triple advantage, viz.: a definite limit to the sums to be appropriated, control on the part of Edition: current; Page: [285] the state, instead of exorbitant expense and abuses of operation and, finally, responsibility of the contractor.
+“In our desire to improve the condition of municipal employees we have sometimes been reproached with having lost sight of the general interest as well as the most urgent needs of the public service.
 
-However, the committee, owing chiefly to the persistence of M. Dennery, state engineer, who had seen the common battery system working in the United States, ultimately concluded to adopt it. The necessary expense of equipping the Paris system, general and private exchanges, was estimated at 4,000,000 francs ($760,000).
+This criticism has been especially directed toward the street cleaning service. It has been said that, while the work to be done has notably increased, the number of working days is rapidly diminishing, following philanthropic measures passed one after the other in favor of the employees. Full pay for two days'rest a month; sick days; an annual vacation of 10 days, lately brought to 12; noonday rest, etc. The laborer in the street cleaning department who in 1893 furnished annually 3,410 hours'work, in 1896 furnished only 3,250; 3,230 in 1908; and 2,940 in 1909, or, in 1908–1909, a decrease of 9.5 per cent.”
 
-At last the Telephone department had a definite plan of action. But no proof of any spirit of initiative had been given; for it was only introducing a system already employed for several years by private companies in the United States.
+Now when a state or a municipality contracts with a middleman for any kind of service it should have but one thought in mind: net cost and quality of the service.
 
-But, at any rate, the new program is at least to be carried out expeditiously? M. Steeg answers skeptically: “We dare not promise it.” After which he proceeds to gild the pill with the following glowing rhetoric: “Like scientific discoveries, industrial improvements may at any moment overturn all estimates. Therefore the department must not anticipate the future too boldly.”
+It ought to aim, above all, at economy; because all favors and privileges granted by statesmen or administrators are paid for by the taxpayers.
 
-M. Steeg may be reassured! The department need never be afraid of anticipating the future. It is already too far behind the times for that! Meanwhile telephone subscribers are begging the department to conquer their fear of too boldly anticipating future progress at least long enough to give them a reasonably speedy connection when they have summoned the courage to ask for one.
+The Municipal Council of Paris recently withdrew entirely from the direct administration of its gas works, but it subsequently abandoned its principle of non-interference when it agreed with the operating gas company to introduce into the contract between itself and the said company the alliance of employees of the gas works with municipal employees.
 
-The fire at the Gutenberg exchange gave the department Edition: current; Page: [286] another much-needed excuse for making haste slowly.
+Here is the result of this agreement, according to M. Dausset's report:
 
-To-day we are enjoying in Paris the common battery system. Two subscribers, connected on different exchanges, can be connected in less than thirty seconds. We never complain, however, if we succeed in getting our party within three minutes, a certain proof that the Frenchman is the easiest man in the world to govern.
+“Whereas before the alliance the salaries of the gas employees varied from 1,200 to 3,300 francs, immediately after it the average salary of the two most important classes of employees in this industry, viz., clerical workers and inspectors, rose to 3,347 francs following automatic promotion into the first employee class of a very large number of employees by reason of their length of service.
 
-Speaking of the Telegraph Department, M. Dalimier says:
+“Collectors saw their maximum salary rise from 1,800 francs to 3,000 francs and their commission from 50 to 100 francs.
 
-“The French government wears itself out in sterile investigations. When one has had some little contact with the many-sided machinery of this complicated system, he is struck by the lack of coöperation among the various departments. For example, a very marked duality is evident between the technical and operating services. Although theoretically united under the same management, each is conducted like an autonomous department.
+“The incessant increase of expenditures under the head of employees exceeds the economies resulting from the improvements introduced into the manufacture of gas. Unfortunately, new excuses for further expenditures are constantly arising, and dangerous precedents are being established without any corresponding decrease in the number of claims. No sooner is one claim satisfied than another bobs up, the more urgent and the more frequent in proportion to the amount it is going to cost the city.
 
-The technical service appears to have made it a rule, a point of honor, in fact, to ignore the needs of the operating service. Apparatus is furnished which renders effective service very difficult and prevents the carrying out of important changes. With more up-to-date equipment, from a practical point of view, possibly a flat rate system of subscribers' schedules might already have been attempted in certain cities.”
+“The labor expenses which in 1908 were 30,819,595 fr. 14, amounted in the following year to 31,726,165 fr. 22, and, in 1910, to 33,382,850 fr. 30, out of which 11,439,896 fr. 15 went to salaried employees and 21,942,954 fr. 15 to laborers.
 
-In the eighteenth century Voltaire reproached the French government with not occupying itself sufficiently with the question of the conservation of its Edition: current; Page: [287] resources. If we may judge by the following passage, also from the report of M. Dalimier, this bad habit has not yet been overcome:
+“An estimate may be made for the current year (1911) amounting to a sum total of 34,525,000 fr., out of which 12,055,000 fr. will go to employees and 22,470,000 fr. to laborers.
 
-“We can bear witness that the underground urban system of Paris is in a deplorable condition. It is given neither supervision nor methodical attention. Repairs are made in haste and without proper oversight. The currents passing through electrical conductors are intercepted in the passage and diverted from their cables without any plan and without technical precautions. Then the cables themselves are punctured, perforated, and crushed in the conduits without any attention being paid to the matter. Entire cables have been abandoned. Certain cables have been dug up or have disappeared under rubbish without any one having any recollection of their being there. In this particular service negligence has reached incredible proportions.”
+“The increase, according to the report of 1910, is thus 1,142,149 fr. 70, divided as follows:
 
-M. Dalimier then quotes a memorandum of the department, and concludes:
+“Now, on December 31, 1910, the effective working force amounted to 3,076 employees and 9,354 laborers. But on November 1, 1911, this number had shrunk to 3,086 employees and 9,195 laborers, a net decrease of 149 workers. On the other hand, it must be remembered that the working force will again increase, as it does each year from November to December 31, through the enlistment of extra men, and in proportion to the amount of manufacturing undertaken.
 
-“To sum up, it is acknowledged that the lines are inspected only when they cease to operate, and that, on the other hand, when it is expedient for the force to display exceptional zeal, it is enough for one section of a conductor to be regarded as doubtful in order to replace the whole line with a new one!”
+“In 1905, the last year of operation of the Paris gas company, the labor expenses amounted to only 24,038,951 fr. 59. Therefore, in 6 years, and excluding supplementary pension charges, there has been an increase of more than 10,000,000 fr., by which gas employees of all classes have benefited. While the condition of our budget has not as yet permitted us to realize the decrease in the cost of gas, by which the whole body of consumers will profit, the new privileges which we have awarded to the employees represent more than 2 centimes per cubic meter of gas manufactured. In addition to that we give outright each year to the gas employees a profit of twelve additional centimes.”
 
-Not only does the department neglect one system but it can completely forget others still more neglected. Following the meeting of the Flood Commission a bill was prepared, including among other very urgent suggestions, the construction of cables with paper insulation and a sufficient number of conductors along the Edition: current; Page: [288] fortifications of Paris. The expense was estimated at 2,000,000 francs. Fortunately, just at this moment, an entire network with rubber insulation and cast-iron conduits was discovered, which had been in place for more than forty years. It was found to be in a state of remarkable preservation, in spite of its complete abandonment. Experts declared that, after slight repairs, and at a cost of scarcely 50,000 francs ($9,500) it could be put in perfect condition. The technical department had utterly forgotten its existence. The inspector of the long-distance underground line connected with the operating service discovered it and put a stop to further discussion of the bill.
+“At this rate the employees of the gas department will end by cutting out all profit,” says M. Caron, former president of the Municipal Council.
 
-The workmen employed in the National Printing Office complain that the shops in the Rue Vieille-du-Temple are in reality so many prisons, and that, deprived of air and light, they are working under the worst possible conditions. A reporter sent out by the Matin gives the following description of these shops:
+In 1912 the employees of the gas company complained to the Municipal Council of Paris. The foremen demanded an indemnity for delay in promotion as guaranteed by their alliance with municipal employees. Whereupon the administration and the Municipal Council promptly recanted. M. Dausset says in his report:
 
-“Under the escort of M. Clavel, head superintendent, I inspected the workshops of the National Printing Office, rummaging into the most obscure corners. I went from the cellars to the roofs. I walked miles through dark passages. I ascended and descended millions of steps. I saw composing-rooms where artists executed typo graphic masterpieces. I saw type foundries where, amid the poisonous vapors of melted lead, without air and without light, half naked men were making use of processes and equipment that private industry abandoned a quarter of a century ago. I saw old and dilapidated printing machines under constant repair, and necessitating Edition: current; Page: [289] more outlay in the way of labor and expense than new and modern machines would require. I inspected stereotyping rooms utterly barren of the improvements introduced of late years. I saw lithographing, photographing and engraving rooms, rooms where they were stitching, binding, folding, fastening. I saw the utter disorder of those cemeteries where they bury the “forms” which are saved either because they can be used again or because there are not enough workmen to arrange them properly in the lettered cases provided for that purpose. I saw the useless and unused reserve supply of new type, a capital of several millions, piled up only to justify the employment of too large a number of foundry workers.”
+“It is an erroneous interpretation of the agreement entered into with the gas company to hold that it has become completely identified with the public service of the city in all the details of its internal organization and functions. The gas company is, of course, expected to conform to the wage or salary scale, and to the regulations governing pensions, vacations, working conditions, etc., in force in the municipal service. Nevertheless, each department maintains its separate organization and its own proper functions. Irregular promotions may occur and the necessities of the service can bring about the establishment of new grades in one department, the creation of which would not be justified in the other. Although the prefect of the Seine has consented to a certain number of high-salaried positions for the benefit of the employees of the gas company, he has done so only from a sentiment of good feeling toward a personnel which merits our sympathies; but this measure ought not to be considered as a necessary consequence of the amalgamation.”
 
-In 1908 the popular brands of tobacco gave out. Why?
+That these observations of M. Dausset are perfectly reasonable is evident enough. But they necessarily undermine the system of amalgamation by proving that it cannot be complete. Further on he says:
 
-When a good business man sees his business increasing he is careful to devote a part of his profits to the improvement of his methods of production. The Tobacco department was able to show, in 1902, 421,000,000 francs in gross receipts; in 1903, 435,000,000; in 1904, 448,000,000 francs. But the general budget was short. It therefore absorbed the whole sum, instead of setting something aside to improve the equipment of this special fiscal monopoly. Just at this time, and when the consumption of tobacco was steadily increasing, the working hours of the laborers in the tobacco factories were reduced from 10 to 9. As a result, there was a 10 per cent. loss of production. The equipment was in no position to offset this labor loss; hence the deficiency.
+“We do not believe that there is any reason for making a new extension of the system of amalgamation in favor of chauffeurs. The same thing may be said in the case of the bag makers who are demanding to be amalgamated with the street sweepers.”
 
-In 1905 the department obtained some hundreds of thousands of francs from the budgets of 1906 and 1907, to improve its equipment and factory buildings. These appropriations, however, were tardy and insufficient.
+So far as the waste collectors are concerned the committee refused them an increase of salary. However, since the cash clerks of the city were receiving a commission of 300 francs, while that of the collectors was only 100 francs, “there is a manifest injustice here,” says the report; and the administration is recommended to raise the compensation of the latter to the higher figure.
 
-I do not mean to imply that the officials of the Tobacco department had not foreseen the necessity for this work, but there was no way of forcing the minister of Finance to grant them the necessary loans in time to be of service. Administrative delays are notorious, and individuals who rebel against them are sternly taught their place.
+4. In all government service there are both direct and indirect salaries.
 
-The reconstruction of the J. B. Say school has lasted (1912) more than twenty years. The construction of the school of industrial physics and chemistry (l'École de Physique et Chimie Industrielles), in the Rue Vauquelin, was decided upon in 1898, but the first order was not signed until 1908.
+To all appearances the Navy pays laborers in the navy yards low salaries: from 3 francs 80 to 4 francs, compared with 5 francs and above in the industry at large. But the difference, says the report of the Committee on Labor Accounts, is very much less when we consider the various advantages enjoyed by the employees of the Navy—pensions, direct and indirect, insurance against nonemployment, treatment at hospitals or at home, etc.
 
-That misinformation as to actual conditions prevails in government administration is generally acknowledged. On May 17, 1912, the French ministry of Agriculture—in its estimate of the reforms which would be brought about by a lowering of the price of wheat—made a miscalculation of 5,000,000 cwt.
+As a basis of comparison M. Rousseau takes one day's work on the Jean Bart. In this way he obtains a standard wage of 4 francs for a working day of 8 hours; apprentices included, foremen not included. This makes 5 francs 15 for a ten-hour day; more than the average salary in private undertakings. Nor does this figure include either pensions or vacations at full pay (which increase the annual salary by 4 per cent.), sick benefits, pay during dull seasons, or “even the liberal allowances which may be granted by any minister, such as pay without corresponding work for two days at Christmas and New Year's, or, in round figures, 440,000 francs, of which a simple ministerial signature can relieve the treasury.”
 
-In 1909 the Naval Intelligence department caused a panic in Great Britain by announcing that Germany would have 13 dreadnoughts in 1911 and 20 in 1912. Mr. Balfour aggravated these forecasts by announcing that Germany would have 17 dreadnoughts in 1911 and 20 in 1912. As a matter of fact, they will have only 13 in 1913.
+The effect produced upon the cost of naval construction in our navy yards by the shortening of the working day, as well as by vacations at full pay, for which the budget of 1911 granted the first appropriation, is shown by the following table, which estimates the cost of the work on the Jean Bart, on the basis of a 9 ½-hour day, an 8-hour day, and a 7-hour 40-minute day, the latter corresponding to an 8-hour day shortened by the fraction 1/24, representing 15 days of vacation with pay.
 
-M. Perrissoud, reporter of the state railway budget of France, has declared that “the state ought to be a model employer and give to the taxpayers the largest opportunities of regulation.”
+The Committee on Labor Accounts declares that “the new institutions in the Navy, by reason of the 8-hour day, find themselves at a disadvantage, compared with the industry at large, both from the point of view of rapidity of construction and net cost.”
 
-The taxpayers cannot control government undertakings directly; they can only regulate conditions through their representatives.
+The salary remaining the same for a day of
 
-The report of Emmanuel Brousse, on the regulation of the budget of 1907, and of Louis Marin, on the budget of the ministry of Foreign Affairs for the present fiscal year, are sufficient evidence of the difficulties experienced in attempting parliamentary regulation.
+The minimum pension (25 years of service) is obtained by an active service during:
 
-The more functions exercised by the state, the greater the effort required to control its various activities.
+Hours. . . . . . . . . . .
+
+The construction of the Jean Bart gives pension rights to:
+
+Men . . . . . . . . . . . . . .
+
+M. Cuvinot, who reported on the Navy budget in the Senate, has estimated the loss resulting from the shortening of the working day to 8 hours at 4,500,000 francs.
+
+The employee of the navy yards knows how to make profitable use of his leisure hours. In his Voyage Revolutionnaire, M. Griffuelhe declares that by beginning work in the morning at 7 o'clock and quitting at 5, he is “one of those employees who increase their salaries by working a couple of hours more at some employment in the city. A number work in barber shops, others are carpenters, shoemakers, etc.” The work of these government employees thus constitutes competition of a privileged class against the workers employed by private industry.
+
+Moreover, I have been told that the laborer in the navy yard husbands his strength during the day in order to be able to make better use of his leisure hours in the city.
+
+5. The reinstatement of all railway employees after the recent railway strike has confirmed the conviction that they are the masters, and that it is sufficient for them to threaten in order to obtain what they want. Among other things, they have obtained a system of regular promotion, which makes it easy for them to dispense with all energy and zeal.
+
+Moreover, as if in order to encourage further claims, M. Cheron has taken care to make a comparative table of the condition of the railway employees before and after the purchase.
+
+The increase in operating costs is 72,304,000 francs. The employees are responsible for 52,296,000 francs of it. This increase was prophesied by the opponents of the purchase.
+
+We have just seen how, at the very time it was proving its inability to maintain order or to keep its employees at work in the arsenals of the Navy, the government must needs assume the responsibility of directing more than 50,000 railway employees. Moreover, as a result of this increase in the number of government employees, the number of pensions has likewise increased. By lowering the age limit, the same result has been effected. The same public utility or any other undertaking must pay each employee not only his salary but two or three pensions beside. Thus we are establishing a class of semi-independent gentlemen, who live at the expense of the taxpayer, who often, thanks to the pension which they enjoy, make dangerous and underbidding competitors of free labor.
+
+In his preliminary work on the law of June 9, 1853, M. Stourm, councillor of state and government commissioner, defined active service as “a day and night service which exposes those engaged in it to fatigues, diseases and dangers.” The law of August 17, 1876, classes among those in “active service” inspectors, superintendents, and teachers employed in the primary normal schools, public school teachers, and matrons of orphan asylums.
+
+The employees connected with the prefecture of the Seine were anxious to obtain the pension proportioned to the time of service, provided for by Article 9 of the law of July 21, 1909, and given to employees of the railways, who “quit the service either voluntarily or for any other cause, if they have been affiliated with it more than 15 years.”
+
+The Municipal Council, however, declined to be so generous. It reduced by a half the length of service pension of the employee who had been dismissed, and it refused to the official who had left the service all right to a pension.
+
+Under the above conditions the police were granted pensions for life, duly proportioned to their term of service. The sum amounted to 1,300,000 francs in 1911. In regard to active service the rating is 50 years of age and 10 years of service. The figure was fixed at 10 years in order to help out former non-commissioned officers admitted to the public service and who hold four-fifths of the positions available.
+
+Employees and workmen attached to the government have but one thought, to hunt up excuses and methods to “improve their situation.” Among the excuses is a very simple one, ready to hand for every occasion, and having a certain degree of justice in it—equal work, equal wages. Such or such an employee, in such and such a service, receives such and such wages and such and such a pension; why not I?
+
+Before the purchase of the Western railway the opponents of the measure said to the government: The employees and laborers on the lines already belonging to the state are receiving salaries and pensions greater than those of most of your other employees, and yet you would increase their number. The employees of the Customs, the Postoffice, the police and other public departments will demand alliance. What will your answer be?
+
+I note in the Journal Officiel, of July 27, a series of questions put by Patureau-Mirand, one of the deputies, to the minister of Finance, in which this idea of alliance was constantly referred to. Here are two of these questions:
+
+M. Patureau Mirand asked the minister of Finance whether he intended to incorporate in his budget a plan for raising by a tenth the wages or salary of the deceased, with a minimum of 250 francs at Paris, and 150 francs in the provinces, as is done in the case of the employees of the state railways, who are receiving a wage less than 4,000 francs; and an allowance for burial expenses to customs officials and state factory workers who die in active service—an allowance which would amount to only 60 francs in the first case and 50 francs in the second.
+
+“Answer—In the state factories the allowance of 60 francs (to subordinate officials) or 50 francs (to laborers) is granted not only on the occasion of the death of employees in active service, but also at the death of employees who have left the service. In this latter respect the employees of state manufacturing enterprises are treated more generously than those of the state railways.
+
+“Because of the excessive expense which would result from such a measure, it is apparently not possible to increase the figure to the sum demanded. In any case, the question would have to be made the subject of an exhaustive investigation with respect to all the trading undertakings of the state.
+
+“Answer of the minister of Finance to question number 2,116 put by M. Patureau-Mirand, deputy, July 12, 1912. M. Patureau-Mirand asked the minister of Finance whether he intended to provide in his next budget for a grant having a retroactive effect in favor of subordinate officials and employees of government manufacturing enterprises who have been granted medals of honor, a special bounty of 100 francs, as is done in the case of employees on the state railways on whom the medal of honor has been conferred.
+
+“Answer—The question of the awarding of bounties to government inspectors, and employees granted the medal of honor for efficient work, is of interest not only to the employees of the state manufacturing enterprises, but also to those connected with the other government trading undertakings. Therefore it cannot be decided except after an exhaustive study tending to determine the financial consequences which would result.
+
+“In any event, there could be no question of granting a bounty with a retroactive effect to all employees upon whom the medal has been bestowed, because of the considerable burden that such a measure would entail upon the budget.”
+
+The minister of Finance confines himself to “trading undertakings.” How about the employees of other state activities, viz.: the Customs, Direct Taxation, etc.? Will they not have the right to ask: “Why are we left out?”
+
+Under the pressure of this feeling and the demands of labor associations, which have made more or less direct declarations of similar sentiments, a bill has been passed entailing still further expenditures for the improvement of the conditions of the employees of the Postoffice, Telegraph and Telephone department; the Bureau of Indirect Taxation, and the Customs office. These expenditures amount to 36,879,800 francs, 29,990,800 francs of which goes to the employees of the Postal, Telegraph and Telephone department, 4,650,000 francs to the employees of the Bureau of Indirect Taxes, and 2,239,000 francs to those of the Custom House.
+
+The official explanation of the underlying motives inspiring this bill brings out the necessity of amalgamation for the sake of the officials and subordinates of the Postoffice; it adds that the expenses just quoted will have an immediate effect upon the financial condition of the indirect tax officials and of a part of the employees of the Custom House. It was to take effect October 1, 1912. The budget of 1913 will have to provide 7,000,000 francs of the total sum. The measure will be in full running order in 1916.
+
+During the course of the Teachers'Congress, at Chambéry, M. Guist'hau anounced that he would not permit associations of teachers to become affiliated with the workers'exchange (Bourse du Travail), but, in lieu thereof, he promised to grant them concessions amounting to 40,000,000 francs to be distributed over a period of five years.
+
+We may be certain that, after the appearance of the next budget, deputies will be demanding a shortening of the time for the distribution of the 77,000,000 francs.
+
+7. The English trade unions complain that the municipalities make better conditions with employees than can be obtained from private enterprises. They consider the municipalities as dangerous competitors; for in Great Britain the members of the trade unions threaten to abandon them in order to become members of the Municipal Employees'Association. The Congress of Trade Unions of Liverpool passed a resolution on this matter in 1906.
+
+Although the various public undertakings of Manchester have passed a resolution urging that the recommendations of municipal councillors be ignored, it is scarcely probable that the resolution has produced any effect. According to the investigation of The National Civic Federation of the United States all the municipal workers of Glasgow are recommended by municipal councillors. Moreover, according to the report of the same investigators, throughout all Great Britain the municipal departments negotiate with the representatives of employees. As these latter are at one and the same time employees and electors, they thus become the masters of those whom they ought to obey; and, the more their number grows, the more concessions they exact at the expense of their fellow-citizens.
+
+At West Ham the Municipal Council delayed the opening of its session in order that municipal employees, sewer diggers, street sweepers and teamsters, could attend and make known their opinions.
+
+The National Union of Gas Workers and General Laborers, organized in 1889, represents the trade unions of the unskilled, that is to say, the manual laborers. It has had at its head such leaders as John Burns, Tom Mann, Ben Tillett, and Will Thorne. In 1890 it organized a strike at Manchester, and was successful; with the South Metropolitan Company it failed. It numbers 30,000 members, distributed among the various municipal gas undertakings, but its membership also extends into various private enter-prises which manufacture other products than gas.
+
+Article 10 of its platform is worded as follows:
+
+“To insure the sending of members of urban district councils as representatives on boards of guardians, in municipal bodies and in Parliament only on condition that they be partisans of public ownership of the means of production, distribution and exchange.”
+
+In 1892 the Union's general secretary, Will Thorne, was elected member of Parliament for West Ham. It has also had other electoral successes.
+
+In 1905 Keir Hardie formed the Municipal Employees'Association. Its defenders say that it contains 2,000,000 members, a membership which would appear to be greatly exaggerated. But there are associated local unions.
+
+8. The state does not pay higher salaries than private industry, except when it is compelled to do so through the weakness of state officials. In Prussia, where the electoral influence of the workers is feeble, the maximum salaries of the fiscal mines of the Saar district were, in 1908, much lower than those paid by private industry in the valleys of the Ruhr and of the Wurm; whereas the cost of living is practically the same in all these districts. According to a memorial addressed by the Association of Christian Miners to the Prussian ministry of Commerce and Industry, on the 22nd of October, the annual average of salaries has been decreased by reason of unemployment and reduction of wages.
+
+The facts thus brought out were not denied in the Chamber of Deputies, but the minister answered that it was impossible to increase profits and salaries at the same time.
+
+The miners also complained that salaries continued to decrease in face of the higher cost of food. Moreover, they brought up the interesting comparison that, in 1908, an increase of salary had been granted to the mine officials, while the miners were voted a substantial decrease.
+
+9. As causes are practically identical in all countries, so effects are usually identical. Characteristic of this universality of cause and effect is the absence of productive energy in the work of the employees and laborers of national municipal undertakings. From 1893 to 1902 the department of Public Works carried on a number of undertakings for the London County Council. Seventy-nine thousand pounds sterling was demanded over and above the original appropriation.
+
+Two years afterward it was declared that these constructions have cost £40,000 more than would have been the case if they had been confided to a private company. The differences in the estimates submitted varied from 11 to 40 per cent.
+
+Lord Avebury says: “A municipal workman lays 300 bricks during his day's work, where the American laborer will lay from 2,000 to 2,700.”
+
+An alderman of West Ham calls the system of construction under municipal direction: “The monopolizing of laziness.”
+
+A municipal councillor of the same municipality answered: “I care little about the taxes or about those who pay them. What I am interested in are my electors.”
+
+Benjamin F. Welton, engineer in charge of the Bureau of Efficiency in New York, says of the productive energy of municipal workers:”
+
+“Except to the few who have made a study of the subject, the extent of municipal inefficiency is almost unbelievable. Lacking the measure of efficiency in private enterprise, there can be no conception of the actual inefficiency of public service.”
+
+During the last five years Mr. Welton has been making investigations in several of the boroughs of New York City for the Commissioners of Accounts, and in Chicago for the Merriam Commission. At first the observations were secret; afterward a duplicate series was conducted openly. By comparing the earlier observations, which would obviously indicate normal inefficiency, with those made later, it was ascertained that the loss of efficiency varies from 40 to 70 per cent. The loss of efficiency in the work done for a great municipality may therefore be estimated at about 50 per cent.
+
+The City of New York pays $17,000,000 to its municipal workers. The inefficiency in the work, therefore, represents a loss of $8,500,000. Mr. Welton gives an excellent explanation of the causes of this inefficiency. They are the same everywhere. Measures are taken to guarantee control of expenditures and prevent favoritism, but without accomplishing anything in the end. From the point of view of employment, lists of preferred candidates play a deplorable rôle. Men have been employed in moments of pressure and afterward been discharged. These are naturally the least capable; but they are placed upon preferred lists and thus they ultimately come to form the real personnel.
+
+No employee can be forced to render any service not previously contracted for. This is one way, of course, of combating favoritism, but a very inconvenient one. Moreover, the City of New York must accept as employees veteran soldiers and firemen.
+
+The fiscal authorities demand economy, but they understand by the term not efficiency of service, but rather the conservation of funds. For some years in a certain number of cities—among others New York and Chicago—a form of control has been in operation known as the “segregated budget.” Each item, whether of labor, of material, or of equipment, must be charged to its particular fund. The total for each is fixed by the fiscal authorities, and no modification of it can be made without the authorization of the body which originally established the amounts. But action is paralyzed by too much control. This method of regulation fixes in advance the number of employees, the rate of their salaries by the day, and makes any increase in the number of employees, or any modification of their salaries, impossible without the censorship of the highest city officials. As a result, inefficiency is not penalized, nor is efficiency rewarded.
+
+The municipality generally pays from 20 to 50 per cent. more for common labor than does the contractor. The work hours are shorter in consequence of measures passed either by the state or by the municipality for political ends.
+
+Salaries are paid regularly, but without consideration for special skill or energy, thus inviting inefficiency. A capable workman or employee will naturally avoid a system in which capacity counts for little while political intervention is all powerful.
+
+“When an employee,” says Benjamin F. Welton, “can do what he likes and snap his fingers in the face of his superior if he is reprimanded, the efficiency of the entire force to which he belongs is gone. It is not uncommon for a foreman to suspend a laborer, request his discharge, and then be instructed to reinstate him and “leave him alone.” After such a performance how can it be expected that the foreman can compel the obedience of the remainder of his force?”
+
+The greatest amount of lost effort comes from wasting time.
+
+There has been little attempt made to compare municipal with private labor productivity. Furthermore, municipal records are not to be depended upon. Foremen will exaggerate the favorable results, and, what is worse, conceal the losses.
+
+The system of reports dealing with the financial needs of an enterprise are usually made out without consideration of the amount of work turned out. In fact, the reports do not even accurately reflect the conditions which they are expected to make clear. The connection between results and expenditure is almost never determined.
+
+Among the suggested remedies for this state of affairs are to be found: An effective method of engaging employees; introduction of strict methods of discipline; great latitude in the discretionary power of the department concerned; permission to punish negligence and laziness and to reward zeal. But all these measures are incapable of fulfillment, because they provoke accusations of favoritism and probably would engender it.
+
+Mr. Welton shows how economy can be brought about in an undertaking. In 1910 the Commissioner of Accounts, at the invitation of the Borough President of Manhattan, undertook the reorganization of a part of the maintenance force of the Bureau of Sewers. This service included 24 cleaners and 38 horses and carts, divided into 12 gangs of workmen, each with its own foreman. The cost was about $4 per cubic yard. In a few months the number of gangs and foremen was reduced from 12 to 4, the cleaners from 24 to 16, the horses and carts from 38 to 14. Production was increased 100 per cent.; wages, 15 per cent.; the average cost per cubic yard was reduced from $4 to $1.45. The net result was an increase in efficiency of 275 per cent.
+
+But can reforms giving similar results be made general? Many such cases do not destroy the viciousness inherent in the general system.
+
+10. Emmanuel Brousse once declared that the French government did not adopt the system of overtime for extra work because such work was done during the ordinary working hours of the department.
+
+One department head answered: “If I did not have premiums at my disposal, the work could not be done at all. The majority of the employees never come to the bureau, and those who do, being obliged to do the work of the others, must be indemnified for the extra work they do.”
+
+I know the danger of such generalizations. There are, in all the departments, men who work, but, as Bugeaud said, these are always the ones who commit suicide. Others, on the contrary, religiously practice the well-known commandment: “Never do to-day what another can do to-morrow.”
+
+And, not only is the work to be gotten out of a national or municipal employee or laborer below par, he has also all sorts of resources for reducing it to a still lower grade. Among others we find the disease which has been called laborophobia.
+
+Among the municipal employees of the City of Paris the number of sick days has increased as follows: From 1896, when an account of these absences was begun, to 1908, according to statistics of the Bureau of Public Highways, the number of hours of work has decreased from 13,458,817 hours, to 12,992,718 hours, or a difference of 466,099 hours. The number of hours of absence on account of illness has risen from 556,440 to 1,056,464, or a difference of 500,024.
+
+“This doubling of the number of sick days within a period of a few years; this characteristic decrease in the productive energy of the worker—of this worker who each day is better paid and less worked and provided with a greater number of rest days—testifies to a deterioration in the ideal of loyal service which the Council cannot afford to overlook.”
+
+I must bear witness that it is devoting itself to the question, and that the number of sick days is decreasing. From 8.27 per cent., in 1907, it has been lowered to 6.44 per cent., in 1911.
+
+The same professional malady has raged with intensity among the employees of the government railways, according to the report of P. Baudin on the supplementary credits of the government railways for the month of July, 1912. Here is the effect of the measure granting full pay to employees reported ill: In 1909 the number of sick days was 474,000; in 1911 it had risen to 656,000, or an increase of 182,000 sick days in two years. Out of 67,967 employees 36,816, or 54 per cent., were rendered incapable of work on account of illness. This proportion of in-capacitated men is disquieting only from the point of view of the finances of the railway system and its defective administration.
+
+Again, while only a part of the employees were enjoying these hours of leisure, it was, of course, necessary to increase the effective force by 7,440 units, representing 15,539,900 francs of added expense.
+
+11. Even in a small country like Switzerland, justly proud of its lofty public morale, the same phenomena occur.
+
+In Switzerland the Federal Council modified plans in favor of the Federal railway employees, which had been carefully worked out by the general management, in order to make these same employees additional concessions; and these concessions have been still further increased by the Chambers. Salaries have been raised and all sorts of advantages multiplied. Hours of labor have been decreased, and all without any useful result.
+
+The day on which the French government bought the Western railway augured an inevitable strike on the railroad. It was well known that the government had been unable to maintain discipline among the male and female employees in the tobacco factories. It had come to terms with the employees of the match factories only by the help of one argument: “Strike if you like; there is more profit for us in buying matches abroad than in manufacturing them.” It was known also that anarchy was rampant among the employees in the navy yards. Nevertheless, and with such experiences behind it, the government dared to assume the management of 60,000 new employees.
+
+To bring pressure to bear upon the minister, the general manager and the directors of the various branches of the railway service, the railway employees would now have their increased number, their quality of electors, their syndicalist organization and their own deputies, anxious to obtain office by the help of the labor vote. How could the general manager and the directors of the different branches of the service be expected to resist this pressure? And, if they should so resist, would not the minister be the first to say: “Don't get into a row”?
+
+The employees of the Western railway cherished the most extraordinary delusions concerning what they were going to get out of its seizure by the state. One department head remarked to one of the dispossessed private owners: “I have had only the pleasantest relations with you; nevertheless, I cannot hide from you the fact that I am enchanted with this purchase, because my power of appointment will be thereby doubled.”
+
+If one department head deluded himself in such fashion it may be easily judged what went on in the minds of his subordinates. And what bitter disappointments have resulted! Why does not the state which is so rich give everything that is demanded of it? The government railway was the starting point of the strike of 1910.
+
+As an illustration of this attitude of the whole body of employees take the following series of incidents: M. Renault, an employee attached to the main office of the railway, published a manual of sabotage, in which the following declaration appears:
+
+“We must choose comrades among the professional workmen who, on account of their familiarity with the work, can, by a single blow, put out of commission for a number of days the equipment indispensable to the operation of the service as well as to the running of the trains.”
+
+The minister called together a committee of investigation into the conduct of Renault, composed of ten members representing the management, and ten members elected by the employees and laborers, under the presidency of M. Viénot, assistant manager of the company. The ten members representing the employees drew up a resolution declaring that M. Renault had done no more than express their opinion.
+
+They rejected the proposal to strike the name of M. Renault off the list of employees, while the ten members representing the directorate voted in favor. The vote of the chairman decided the question. If not a single employee had taken his seat the result would have been the same.
+
+The chief weapon of the employees of government undertakings is the fear which they inspire in their immediate superiors of being called to account by deputies and senators, together with the influence of these same deputies and senators upon their colleagues and upon the ministers. Nor is the use of this weapon concealed.
+
+A congress of railway men was held in Paris on the 2nd and 3rd of April, 1912, presided over by M. Barbier, of the government railway system. During the course of the discussion another employee of the government railways, M. Leguen, remarked:
+
+“If all public services were properly organized we should be forced to form a federation of all the employees of the government, when we would become an immense force.
+
+Our syndicalist action upon the state railroad has already been recognized. Nothing is done without notifying the section committee concerned. We have won a footing in the house. Do your companies allow you as much? Just this foothold alone would suffice.”
+
+Nationalization of all the railways was voted almost unanimously and upon the spot. It was decided that action should be begun with the Orléans road. Moreover, the congress determined to do its utmost in order that the organization, not only of the present state system, but also of systems to be acquired in the future, should insure to the employees themselves a share in the administration and management to which they contend they have a right.
+
+Laborophobia has been raging among the employees of the government railways, and is becoming still more aggravated: 474,000 sick days in 1909; 656,000 in 1911; 36,816 employees out of 67,967, or 54 per cent., obtained leaves of absence with full salary under the same pretext.
+
+The employees of the government railways do not show the smallest gratitude for the concessions made them. Before the Congress of the National Association of Railways M. Berthelot declared that such concessions had been obtained “through syndicalist action and the strike.”
+
+Under the system of automatic promotion, the engineer found guilty of the wreck of Courville, a man who had been repeatedly punished for intoxication, has been promoted to a higher position. Again, the fact that a man like M. Goude, now deputy, was retained in the navy yard at Brest, is another clear proof of the state of anarchy which exists among the employees of the Navy. Still another encouraging feature in connection with our naval employees is the fact that these workmen, who live only for and by preparations for war, are peace at any price men. In 1912, during the discussion regarding the naval program, M. Goude demanded that the number of laborers in the navy arsenals be increased; that the number so increased should remain fixed, and that armaments be diminished.
+
+The following story was told me a few years ago by a naval officer of high rank:
+
+“A certain laborer employed in the navy yard at Brest presented himself with all formality before his commanding officer. He gave the correct military salute, touching his cap with the back of his hand with his open palm toward the admiral. Upon the palm, however, was written in large letters a most flagrant personal insult which the admiral pretended not to see.”
+
+From the moment that the salary question ceases to be regulated by net cost and becomes dependent solely upon the amount of pressure to be exerted upon representatives entrusted with the distribution of the public resources, salaries will have no other limit than the force of resistance of these same representatives, or the exhaustion of the budget.
+
+In 1912 the city of Paris was asked for an increase of the so-called residence subsidy—an additional amount of money beside the regular salary to partially cover the cost of rent—granted to the teachers of the city. Such an appropriation would involve a general increase of 200 francs for each member of the entire teaching force. Several other concessions were also demanded, which would require a modification of the law of July 19, 1889, and of the decree of April 20, 1892. Let me quote the threatening terms in which one of these teachers—a certain M. Escudié—addressed the Municipal Council in the Bulletin de l'Association des Anciens Élèves de l'École Normale de la Seine:
+
+“In the four months allowed the Prefect to answer our petition it is incumbent upon the department of Education and the Municipal Council to prove their good will toward us by adopting a comprehensive plan of increase. If our very modest demands are admitted, in a word, if every instructor is given the immediate certainty of seeing his situation improved before the age of 55 years, this campaign will utterly cease. But at the present time, and I insist upon this, the Department and the Municipal Council alone have the power to put a final stop to further action on our part.”
+
+In 1905, following a disagreement with the Federation of Friends (Federation des Amicales), whose demands they judged too moderate, the Teachers'Union was organized. It is certain that in so doing no reference was made to either the letter or the spirit of the law of 1884. Nevertheless, on November 7, 1905, the Chamber of Deputies decided not to prosecute the existing union, declaring that all that was necessary was to forbid the formation of new unions until a vote had been taken on the bill concerning the status of government employees. The new union paid no attention to anything except the first part of this decision, and, on the 7th of November, it launched a manifesto declaring that its members wished to become associated with the Workmen's Exchange and to belong to the General Labor Confederation. The manifesto concluded with these words:
+
+“The new union must be ready to furnish a basis for future autonomous organizations to which the government will commit the duty of managing, under its and their reciprocal regulation, a socialized public service.”
+
+At a congress held at Chambery, in the month of August, 1912, 50 unions were represented, at which the principle of the amalgamation of teachers and laborers was endorsed and the following sentiment declared:
+
+“Our relations with the government as an employer are no different from those of any employee toward his employer, and we ought to have, as against our employer, the same rights that any employee has as against his. Such employees have their unions to protect them; therefore we ought also to have ours.”
+
+From the standpoint of salary a “syndicalist rate” ought to be established, declared one delegate; and the congress so voted. The suppression of any method of promotion except that founded on length of service was also voted, a premium being thus put on indifference and inefficiency.
+
+Finally the Congress resolved upon “an effective representation of the Teachers'Union at the next congress of the General Labor Confederation, at Havre, in order to emphasize more and more its attachment to the organized working classes,” and adjourned after singing the “Internationale.”
+
+Many of the members of this Congress were district councillors, and hence representatives of the majority of their colleagues, thus showing how far they were willing to go in taking advantage of the good nature and weakness of ministers and members of Parliament.
+
+Unfortunately for the teachers they went further than the Poincaré ministry was willing to follow. On the reassembling of the ministry, on the 22nd of August it was decided to dissolve the Teachers'Union. The representatives of the union have declared, however, that they will resist dissolution.
+
+M. Guist'hau alone has submitted his case to the courts, which are thus required to decide concerning the legality of teachers'associations. While awaiting the decision the representatives of the unions defied the minister, and their general secretary, M. Chalopin, went to preside over the meetings of the congress of the General Labor Confederation held at Havre.
+
+Up to the present, June, 1913, nothing serious has yet been done. The threat alone has been sufficient to make the school teachers keep the peace to a certain extent.
+
+Many teachers destined to form the manners of the new generation stand in great need of reforming their own. But is it upon them that the responsibility for such acts as those just described above should fall? Should it not rather fall upon the parrot-like training of the normal schools, which teaches pupils to recite socialist or anarchist formulas as they recite phrases from their text-books?
+
+The Congress of Railway Mechanics has put on record its sympathy with the teachers by voting a resolution “protesting against this show of governmental despotism.” Afterward its delegates presented themselves before the minister of Public Works, who was weak enough to receive them, according to the following note, published in Le Temps of August 24:
+
+“The delegation put numerous questions to the minister, especially in regard to the reinstatement of employees dismissed during the strike of 1910, and concerning their eventual reincorporation in the state railway system. The members insisted that the pensions, allowances and other advantages previously granted by the railway companies to these dismissed employees be recomputed in conformity with the provisions of the laws of 1909 and 1911.
+
+“The minister requested the delegation to formulate each of their claims in writing, promising to examine them with the greatest care.”
+
+This is indeed admirable! The Railway Department had been weak enough to give the dismissed employees pensions to which they had no right; but that was not sufficient. They wanted more; and, when their pensions are regulated to suit them, they will be reinstated into the government railway system, where they can organize strikes at their ease, while saying to their comrades: “You see, we have everything to gain, and nothing to lose, by a strike!”
+
+Toward the beginning of 1912, a school teacher, M. Leger, on account of disciplinary punishment meted out to a teacher, threatened his immediate superior.
+
+A sub-agent in the Postoffice, M. Bouderis, brought before a council of discipline to be dismissed for signing a placard addressed to “the Public,” appealed for protection to the entire body of government employees. The Bataille Syndicaliste claimed that he could not be prosecuted because he had acted as secretary of a union.
+
+A rural guard, named Carré, professed anti-militarism. If his actions were in accordance with his talk he would refuse all military duty. Nevertheless the syndicalists exclaim: “Don't interfere with the employees of the state railroads, who are teaching the theory of sabotage.”
+
+Under the name of Friendly Association (Association Amicale) the policemen of Paris have organized a mutual benefit society, the officers of which are the higher salaried employees of the Police department—or even officials not belonging to that organization. One of its presidents was M. Vel Durand, former prefect of the department of the North, and afterward councillor of state. Every year the prefect comes to preside over the annual meeting. He frequently brings other ministers with him.
+
+Under the circumstances it was easy to foresee what has since actually happened. A movement was organized in the association to transform it into an active “syndicat.” In December, 1911, they presented their claim: Suppression of peace officers, suppression of the ordinances.
+
+The ministers, however, realized that the prefect of police could hardly take orders from a “syndicat” of policemen. Whereupon the “syndicat” appealed to the Executive Committee of the Radical and Radical Socialist party, whose vice-president accompanied by his colleagues went and presided over a meeting of policemen organized against the government at a time when the minister in power was representing that same Radical and Radical Socialist party.
+
+At the National Printing Office an attempt was made to form a limited joint stock company, with M. Boudet as director. As it had been published broadcast that he belonged to the General Labor Confederation, he hastened to correct the mistake. He was affiliated with the twenty-first section of the Livre, a branch of the Federation of the Livre, which was represented in the General Labor Confederation.
+
+Now the General Labor Confederation has for its creed: Direct action. Consequently the Federation of the Livre must endorse it.
+
+The subordinate officials of the Postal, Telegraph, and Telephone department have organized many strikes. They have dragged their chiefs through the mud; they have launched insults against the ministers and Parliament. There have been practically no retaliations for this course of action on the part of the government, and, if there have been any victims, they have not been hurt much.
+
+Indeed, it is astounding to observe the utter lack of conscience with which public employees, who have begged to enter the government service, knowing the conditions which they were accepting, and who have received so many advantages upon which they had no right to count, have thought themselves justified in interrupting this service at their pleasure.
+
+Such or such an employee is punished because he has hurled an insult or a threat against his chiefs. He appeals on the spot to “liberty of opinion.” If he considers outrage and denunciation opinions, he only proves the crying need of reform in our elementary instruction. But among those who confuse these terms are teachers themselves.
+
+Governments themselves persist in destroying all spirit of discipline among government employees. In Austria, in 1911, a number of deputies proposed an increase of 38,000,000 crowns for the railroad employees. The minister, despite his earnest desire to satisfy them, could agree to only 21,000,000 crowns.
+
+Then what happened? The discontented employees, bitterly resenting this grant of only 21,000,000 out of the expected 38,000,000 crowns, and well aware that there are more generous men in power, brought all possible pressure to bear. Meantime they made threats against those deputies who were not disposed to keep on giving them more.
+
+12. Despite facts clearly set forth by Gustave Schelle, who, as honorary director of the ministry of Public Works, is thoroughly familiar with public accounting, the partisans of nationalization and municipalization still continue to talk of “industrial budgets.”
+
+Marcel Sembat, who reported on the postal, telegraph and telephone budget, declared that everything will be set financially right on the day when this budget becomes an industrial budget. Employees of the department have declared on divers occasions that the budget is their concern solely and that they have a right to its profits. But how about the losses? If there is a loss will these employees feel themselves responsible for that also?
+
+Numa Droz, in a pamphet combating the purchase of the Swiss railroads, says: “The employees will become accustomed to considering the railways as belonging before all else to themselves, as a field cultivated by them, and from which the profits should revert to them in the first instance.”
+
+In 1909, at the Federal Congress of Mechanics and Firemen, one delegate cried: “The government as an employer is incapable of managing a railway system.” This opinion, nourished with great care by Socialists like M. Sembat, and by the partisans of public operation generally, is proclaimed with the greatest naïveté: Any undertaking is rightfully the property of its employees. The management should be in their hands. They will operate it for their own benefit.
+
+In their manifestos and in their platforms Socialists are accustomed to refer to ministers as incompetents who “have never done a hard day's work with their hands in their lives.” In other words, a director of Government Railways, for example, ought to be an experienced locomotive engineer, and a minister of Public Works at the very least a switchman, in order to justify their right to their positions.
+
+By a decree of June 26, 1911, the National Printing Office was reorganized. The workmen, however, were dissatisfied. They had worked out an organization of their own. They wanted a labor management, but with “due respect for the existing autonomy in the organization of each public department.”
+
+During a meeting at the Labor Exchange the employees of the National Printing Office adopted the following resolution, which deserves to be quoted, because it shows their demands in all their crudity:
+
+“In consideration of the fact that for many years the management has not been able to operate the National Printing Press in an industrially satisfactory manner; that the attacks on our establishment before Parliament and in the press are justified by the disorganization of the various departments, and by the general confusion, with fatal results, due to the incompetence of the heads; that a serious prejudice has been aroused against the government among the employees and taxpayers by the discredit passed upon the establishment; and that, finally, the enormous amount of general expenditures is the sole explanation of the increase of net cost, all these facts have persuaded us to substitute for the present administrative régime an organized labor administration; to replace inefficient and disinterested officials by responsible and interested producers; to create a central organization coördinate throughout its parts; to give to the undertaking a management composed entirely of workers; to bring to the attention of the minister of Finance and other public authorities the said plan of administration; and to take such steps as are needed to bring about its adoption.”
+
+Here we have the great syndicalist program: the employees, officials, and subordinate officials of the Postal, Telegraph and Telephone department as proprietors of the said department, and the laborers of the navy yards, with M. Goude as their representative, as proprietors of the arsenals. This program, attractive though it be for those who are to carry it out, is scarcely of a nature to increase the prestige of government and municipal operation.
+
+Nor does it imply direct public operation. It is indirect public operation, because neither government nor municipality will manage the undertakings of the taxpayers, for whom such enterprises were created. The employees and laborers are going to operate them for their own benefit.
+
+As a matter of fact, the whole question is one of putting into practice Article 11 of the program of the Congress at Havre, in 1880, drawn up by Karl Marx, and presented by Jules Guesde. It is thus worded:
+
+“The annulling of all contracts alienating public property (banks, railways, mines, etc.), the operation of all government workshops to be confided to the men who work in them.”
+
+13. From a distance it would appear that such a régime might work admirably; to the omnipotent directors, control; to the heads of departments, their prescribed duties; to the subordinate officials, the head clerks, the executive force, each his special task, and so the wheels would go smoothly round. Ministers, even governments, may change; the active management remains. There is some truth in this conception, and the facts have proved it.
+
+Only all management must be carried on by human beings, and human beings have various personal idiosyncrasies. They are not all of the same character, and, in all departments, there are sympathies and antipathies. There are managers who know how to get work done, and others who do not. There is routine and negligence. On the one hand, we have fear, hate, and mistrust of government and public; on the other, dread of responsibility—“don't raise a row.” Finally, there is “the good of the service,” and from this point of view the undertaking becomes an end in itself.
+
+The partisans of government ownership of the railways are always ready with this postulate: “Why do you think that railways belonging to the government will not be as well managed as private lines, when the same engineers who have managed the one are to manage the other?”
+
+But, as M. Duval-Arnold has well said:
+
+“The same engineer is a very different individual according to whether he is accountable to a private employer or whether he is employed by the city of Paris; in this latter case his work is hampered by the constant effort he must make to keep out of trouble with the Prefect, with the Council, and, above all, with the General Labor Confederation to whom the employees under his orders are subservient.”
+
+I have heard ministers of Public Works, on the next day after accidents, say, in response to complaints: “Yes, things are going badly. The management of the government railways is deplorable. But I am going to change all that!” Then, without warning the general manager of the Railways, this minister proceeds to dismiss an important official of the government railways, to whom the government straight way awards a good conduct medal. Under such conditions what becomes of the authority of the manager? What respect can he inspire in his employees? Such ministers, instead of bringing order into the government railway service, are playing fast and loose with anarchy.
+
+14. Every government or municipal enterprise is exposed to political outbidding of one politician by another.
+
+Authority slips from the hands of the management in charge to the deputies and municipal councillors, to whom such managers feel themselves responsible, and who are nothing less than proxies of government employees in their attacks on the public interest.
+
+Government employees become electoral factors, so much the more important in proportion to the increase of government and municipal activities. They become the actual masters of those to whom in theory they are subservient. This danger has been strongly felt in the government which has had the most complete experience with Socialism—New Zealand.
+
+Article 22 of the civil service regulation reads:
+
+“In order that employees of every grade can be counted upon to render loyal and efficient service to the government, it is necessary, and, moreover, it is expressly enjoined upon them, to take no part in politics other than through their votes at elections. Each violation of this article will be met by a penalty proportioned to the attendant circumstances of the act.”
+
+The railway regulations of 1907 confirm this order:
+
+“Outside of their vote employees must take no active part in politics.”
+
+A workman in the railway shops, J. A. McCallough, during a meeting of the Independent Political Labor League, in September, 1907, introduced a resolution against the ministry of War, and was dismissed. He alleged as his excuse that he had been occupying himself with politics for a long time without anything having been said about it. The Chamber almost unanimously upheld the government, while regretting its previous tolerance. The following comment appeared in the Evening Post: “If the state does not govern the employees, the employees will govern the state.” As a matter of fact, the political power of these servants of the government is astonishingly great.
+
+In New Zealand 54,000 persons are directly dependent upon the state; with their families they form a group of at least 130,000 people. Those who depend more or less indirectly upon it may be estimated at a still higher figure. Altogether such individuals represent more than a quarter of the entire population.
+
+Delegates to the British Trade Unions Congress were received by Mr. Asquith, February 15, 1912. Mr. Millard, representing the employees of the Postoffice, demanded “that they be authorized to exercise all the rights of citizens, and especially to be allowed to speak for or against any candidate in the legislative elections.”
+
+Mr. Asquith observed that it was hard to see why postal employees should be granted a privilege refused to all other government employees. An employee of the Postoffice might vote for his chosen candidate, but he ought not to be a member of an electoral committee.
+
+Mr. Millard answered that it was precisely this limitation that he and his constituents wished to overcome. Mr. Asquith asked whom he was representing.
+
+“Postal employees of the lower grades,” was the reply.
+
+Mr. Asquith—“You are asking, then, that Postoffice employees, who do not even pay the income tax, shall have a preliminary voice in the elections?”
+
+In Great Britain the suppression of the vote of municipal employees has been demanded a number of times. In the Municipal Trading Report of 1900 I find the following declaration of Sir Thomas Hughes, twice mayor of Liverpool:
+
+“The day on which a man becomes an employee of a municipal corporation he ought to have no further voice in the choice of his superiors.”
+
+Mr. O. Smith, town clerk of Birmingham, has expressed, although with some caution, the same sentiments. Alderman Souther, of Manchester, and the Lord Mayor of Glasgow, Mr. S. Chisholm, are also of this opinion.
+
+The suppression of the political and electoral rights of all the employees of states and municipalities is an indispensable consequence of the development of public operation. Are its partisans prepared to accept such a result?
+
+15. Rules for the model government employer:

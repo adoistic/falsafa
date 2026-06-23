@@ -4,7 +4,7 @@ work_slug: "frank-h-knight-risk-uncertainty-and-profit-4c5363"
 work_title: Risk, Uncertainty and Profit
 author_name: Frank H. Knight
 chapter_number: 4
-chapter_title: "Part I, Chapter I: The Place of Profit and Uncertainty in Economic Theory"
+chapter_title: "Part I: Introductory, Part I, Chapter I: The Place of Profit and Uncertainty in Economic Theory"
 chapter_slug: 04
 variant_id: "f1dd94a7-caac-5185-bf01-1f9bc7036f65"
 content_type: translation

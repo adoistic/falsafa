@@ -4,7 +4,7 @@ work_slug: "st-george-william-joseph-deductive-logic-2f2706"
 work_title: Deductive Logic
 author_name: St. George William Joseph Stock
 chapter_number: 2
-chapter_title: Chapter X
+chapter_title: Chapter IX
 chapter_slug: 02
 variant_id: "d5bfcb9e-6637-5882-b8b6-ba4a7e7c6ae3"
 content_type: translation
@@ -13,69 +13,57 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 775
+word_count: 918
 source_url: "https://www.gutenberg.org/ebooks/6560"
 translator: Project Gutenberg edition
 ---
 
-*Of the Canon of Reasoning.*
+*Of Mood and Figure.*
 
-& 569. The first figure was regarded by logicians as the only perfect type of syllogism, because the validity of moods in this figure may be tested directly by their complying, or failing to comply, with a certain axiom, the truth of which is self-evident. This axiom is known as the Dictum de Omni et Nullo. It may be expressed as follows--
+§ 558. Syllogisms may differ in two ways--
 
-Whatever may be affirmed or denied of a whole class may be affirmed or denied of everything contained in that class.
+(2) in Figure.
 
-§ 570. This mode of stating the axiom contemplates predication as being made in extension, whereas it is more naturally to be regarded as being made in intension.
+§ 559. Mood depends upon the kind of propositions employed. Thus a syllogism consisting of three universal affirmatives, AAA, would be said to differ in mood from one consisting of such propositions as EIO or any other combination that might be made. The syllogism previously given to prove the fallibility of the Pope belongs to the mood AAA. Had we drawn only a particular conclusion, 'Some Popes are fallible,' it would have fallen into the mood AAI.
 
-§ 571. The same principle may be expressed intensively as follows--
+§ 560. Figure depends upon the arrangement of the terms in the propositions. Thus a difference of figure is internal to a difference of mood, that is to say, the same mood can be in any figure.
 
-Whatever has certain attributes has also the attributes which invariably accompany them .
+§ 561. We will now show how many possible varieties there are of mood and figure, irrespective of their logical validity.
 
-§ 572. By Aristotle himself the principle was expressed in a neutral form thus--
+§ 562. And first as to mood.
 
-'Whatever is stated of the predicate will be stated also of the subject . Cat. 3, § I].'
+Since every syllogism consists of three propositions, and each of these propositions may be either A, E, I, or O, it is clear that there will be as many possible moods as there can be combinations of four things, taken three together, with no restrictions as to repetition. It will be seen that there are just sixty-four of such combinations. For A may be followed either by itself or by E, I, or O. Let us suppose it to be followed by itself. Then this pair of premisses, AA, may have for its conclusion either A, E, I, or O, thus giving four combinations which commence with AA. In like manner there will be four commencing with AE, four with AI, and four with AO, giving a total of sixteen combinations which commence with A. Similarly there will be sixteen commencing with E, sixteen with I, sixteen with O--in all sixty-four. It is very few, however, of these possible combinations that will be found legitimate, when tested by the rules of syllogism.
 
-This way of putting it, however, is too loose.
+§ 563. Next as to figure.
 
-§ 573. The principle precisely stated is as follows--
+There are four possible varieties of figure in a syllogism, as may be seen by considering the positions that can be occupied by the middle term in the premisses. For as there are only two terms in each premiss, the position occupied by the middle term necessarily determines that of the others. It is clear that the middle term must either occupy the same position in both premisses or not, that is, it must either be subject in both or predicate in both, or else subject in one and predicate in the other. Now, if we are not acquainted with the conclusion of our syllogism, we do not know which is the major and which the minor term, and have therefore no means of distinguishing between one premiss and another; consequently we must Stop here, and say that there are only three different arrangements possible. But, if the Conclusion also be assumed as known, then we are able to distinguish one premiss as the major and the other as the minor; and so we can go further, and lay down that, if the middle term does not hold the same position in both premisses, it must either be subject in the major and predicate in the minor, or else predicate in the major and subject in the minor.
 
-Whatever may be affirmed or denied universally of the predicate of an affirmative proposition, may be affirmed or denied also of the subject.
+§ 564. Hence there result
 
-§ 574. Thus, given an affirmative proposition 'Whales are mammals,' if we can affirm anything universally of the predicate 'mammals,' as, for instance, that 'All mammals are warm-blooded,' we shall be able to affirm the same of the subject 'whales'; and, if we can deny anything universally of the predicate, as that 'No mammals are oviparous,' we shall be able to deny the same of the subject.
+*The Four Figures.*
 
-§ 575. In whatever way the supposed canon of reasoning may be stated, it has the defect of applying only to a single figure, namely, the first. The characteristic of the reasoning in that figure is that some general rule is maintained to hold good in a particular case. The major premiss lays down some general principle, whether affirmative or negative; the minor premiss asserts that a particular case falls under this principle; and the conclusion applies the general principle to the particular case. But though all syllogistic reasoning may be tortured into conformity with this type, some of it finds expression more naturally in other ways.
+When the middle term is subject in the major and predicate in the minor, we are said to have the First Figure.
 
-§ 576. Modern logicians therefore prefer to abandon the Dictum de Omni et Nullo in any shape, and to substitute for it the following three axioms, which apply to all figures alike.
+When the middle term is predicate in both premisses, we are said to have the Second Figure.
 
-*Three Axioms of Mediale Inference.*
+When the middle term is subject in both premisses, we are said to have the Third Figure.
 
-(1) If two terms agree with the same third term, they agree with one another.
+When the middle term is predicate in the major premiss and subject in the minor, we are said to have the Fourth Figure.
 
-(2) If one term agrees, and another disagrees, with the same third term, they disagree with one another.
+§ 565. Let A be the major term; B the middle. C the minor.
 
-(3) If two terms disagree with the same third term, they may or may not agree with one another.
+All these figures are legitimate, though the fourth is comparatively valueless.
 
-§ 577. The first of these axioms is the principle of all affirmative, the second of all negative, syllogisms; the third points out the conditions under which no conclusion can be drawn. If there is any agreement at all between the two terms and the third, as in the cases contemplated in the first and second axioms, then we have a conclusion of some kind: if it is otherwise, we have none.
+§ 566. It will be well to explain by an instance the meaning of the assertion previously made, that a difference of figure is internal to a difference of mood. We will take the mood EIO, and by varying the position of the terms, construct a syllogism in it in each of the four figures.
 
-§ 578. It must be understood with regard to these axioms that, when we speak of terms agreeing or disagreeing with the same third term, we mean that they agree or disagree with the same part of it.
+I. E No wicked man is happy. I Some prosperous men are wicked. O .'. Some prosperous men are not happy.
 
-§ 579. Hence in applying these axioms it is necessary to bear in mind the rules for the distinction of terms. Thus from
+II. E No happy man is wicked. I Some prosperous men are wicked. O .'. Some prosperous men are not happy.
 
-All B is A, No C is B,
+III. E No wicked man is happy. I Some wicked men are prosperous. O .'. Some prosperous men are not happy.
 
-the only inference which can be drawn is that Some A is not C (which alters the figure from the first to the fourth). For it was only part of A which was known to agree with B. On the theory of the quantified predicate we could draw the inference No C is some A.
+IV. E No happy man is wicked. I Some wicked men are prosperous. O .'. Some prosperous men are not happy.
 
-§ 580. It is of course possible for terms to agree with different parts of the same third term, and yet to have no connection with one another. Thus
+§ 567. In the mood we have selected, owing to the peculiar nature of the premisses, both of which admit of simple conversion, it happens that the resulting syllogisms are all valid. But in the great majority of moods no syllogism would be valid at all, and in many moods a syllogism would be valid in one figure and invalid in another. As yet however we are only concerned with the conceivable combinations, apart from the question of their legitimacy.
 
-All birds fly. All bats fly.
-
-But we do not infer therefrom that bats are birds or vice versâ.
-
-§ 581. On the other hand, had we said,--
-
-All birds lay eggs, No bats lay eggs,
-
-we might confidently have drawn the conclusion
-
-No bats are birds
-
-For the term 'bats,' being excluded from the whole of the term 'lay eggs,' is thereby necessarily excluded from that part of it which coincides with 'birds.'
+§ 568. Now since there are four different figures and sixty-four different moods, we obtain in all 256 possible ways of arranging three terms in three propositions, that is, 256 possible forms of syllogism.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-morris-art-and-socialism-eff34a",
+  "work_title": "Art and Socialism",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "93935d7c-cc1f-5382-a02f-011998f6df75",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8889,
+      "paragraph_count": 99,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/morris/works/1884/as/as.htm"
+    }
+  ]
+}

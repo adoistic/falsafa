@@ -2,7 +2,7 @@
   "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
   "work_title": "The Social Contract and Discourses",
   "chapter_number": 16,
-  "chapter_title": "CHAPTER II: that sovereignty is indivisible",
+  "chapter_title": "Chapter IV: the limits of the sovereign power",
   "chapter_slug": "16",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 639,
-      "paragraph_count": 5,
+      "word_count": 1334,
+      "paragraph_count": 10,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
     }

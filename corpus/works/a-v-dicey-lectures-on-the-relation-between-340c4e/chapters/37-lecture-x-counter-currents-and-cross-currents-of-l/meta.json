@@ -1,0 +1,26 @@
+{
+  "work_slug": "a-v-dicey-lectures-on-the-relation-between-340c4e",
+  "work_title": "Lectures on the Relation between Law and Public Opinion in England",
+  "chapter_number": 37,
+  "chapter_title": "Lecture X: Counter-currents and Cross-currents of Legislative Opinion",
+  "chapter_slug": "37-lecture-x-counter-currents-and-cross-currents-of-l",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34fb7f24-8cc5-5594-bb46-2dee28cb6bb6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 414,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919"
+    }
+  ]
+}

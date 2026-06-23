@@ -1,0 +1,26 @@
+{
+  "work_slug": "henryk-grossman-fragments-on-criticisms-of-law-o-f3dd9d",
+  "work_title": "Fragments on criticisms of 'Law of Accumulation'",
+  "chapter_number": 3,
+  "chapter_title": "Grossman to Paul Mattick Sr, June 21st, 1931 (Excerpt)",
+  "chapter_slug": "03-grossman-to-paul-mattick-sr-june-21st-1931-excerpt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d0c6e3e-80bf-5190-bfe1-de758658f360",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 606,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/grossman/1931/0621.htm"
+    }
+  ]
+}

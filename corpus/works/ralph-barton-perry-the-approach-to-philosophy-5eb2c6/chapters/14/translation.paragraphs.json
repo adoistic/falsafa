@@ -1,47 +1,72 @@
 [
   {
-    "id": "p-164c4e",
+    "id": "p-fc7cf6",
     "offset": 0,
-    "text": "PARMENIDES: *Fragments.* Arrangement and translation by Burnet or Fairbanks."
+    "text": "LUCRETIUS: *On the Nature of Things.* Translation by Munro. (Early materialism.)"
   },
   {
-    "id": "p-7977d9",
-    "offset": 78,
-    "text": "PLATO: *Republic*, Books VI and VII. Translations by Jowett and Vaughan. *Symposium*, *Phædrus*, *Phædo*, *Philebus*. Translation by Jowett."
+    "id": "p-ec9e2a",
+    "offset": 82,
+    "text": "HOBBES: *Metaphysical System.* Edited by Calkins. *Leviathan*, Part I. (Modern materialism.)"
   },
   {
-    "id": "p-2c7760",
-    "offset": 220,
-    "text": "ARISTOTLE[437:A]: *Psychology.* Translations by Hammond and Wallace. *Ethics.* Translation by Welldon."
+    "id": "p-a8e116",
+    "offset": 176,
+    "text": "BUECHNER, LOUIS: *Force and Matter.* Translation by Collingwood. (Nineteenth century materialism.)"
   },
   {
-    "id": "p-e1121a",
-    "offset": 324,
-    "text": "SPINOZA: *Ethics*, especially Parts I and V. Translations by Elwes and Willis."
+    "id": "p-0f065d",
+    "offset": 276,
+    "text": "JANET, PAUL: *Materialism of the Present Day.* Translation by Masson."
   },
   {
-    "id": "p-00ff73",
-    "offset": 404,
-    "text": "LEIBNIZ: *Monadology*, and Selections. Translation by Latta. _Discourse on Metaphysics._ Translation by Montgomery."
+    "id": "p-e67ced",
+    "offset": 347,
+    "text": "LANGE, F. A.: *History of Materialism.* Translation by Thomas."
   },
   {
-    "id": "p-fc1ad9",
-    "offset": 521,
-    "text": "MARCUS AURELIUS: *Thoughts.* Translation by Long."
+    "id": "p-d83009",
+    "offset": 411,
+    "text": "HAECKEL, ERNST: *The Riddle of the Universe.* Translation by McCabe. (\"Monism of Energy.\")"
   },
   {
-    "id": "p-0c6cf7",
-    "offset": 572,
-    "text": "EPICTETUS: *Discourses.* Translation by Long."
+    "id": "p-8bc5d2",
+    "offset": 503,
+    "text": "CLIFFORD, W. K.: _Lectures and Essays: The Ethics of Belief; Cosmic Emotion; Body and Mind._ (Positivism.)"
   },
   {
-    "id": "p-e98571",
-    "offset": 619,
-    "text": "CAIRD, EDWARD: *The Evolution of Theology in the Greek Philosophers.* (The central conceptions of Plato and Aristotle.)"
+    "id": "p-1cb2bf",
+    "offset": 611,
+    "text": "HUXLEY, T. H.: *Evolution and Ethics; Prolegomena.* (Distinguishes between the moral and natural.) *Science and Hebrew Tradition*; _Science and Christian Tradition_. (Controversies of the naturalist with Gladstone and Duke of Argyle.)"
   },
   {
-    "id": "p-7c879b",
-    "offset": 740,
-    "text": "JOACHIM: *A Study of the Ethics of Spinoza.*"
+    "id": "p-95ff3e",
+    "offset": 847,
+    "text": "SPENCER, HERBERT: *First Principles.* (The systematic evolutionary philosophy.) *Principles of Ethics.* (Ethics of naturalism.) _The Nature and Reality of Religion._ (Controversy with Frederick Harrison.)"
+  },
+  {
+    "id": "p-84e407",
+    "offset": 1053,
+    "text": "BALFOUR, A. J.: *Foundations of Belief*, Part I. (On the religious, moral, and æsthetic consequences of naturalism.)"
+  },
+  {
+    "id": "p-cab809",
+    "offset": 1171,
+    "text": "PATER, WALTER: *Marius the Epicurean.* (Refined hedonism.)"
+  },
+  {
+    "id": "p-cb8575",
+    "offset": 1231,
+    "text": "ROMANES, G. J.: *Thoughts on Religion.* (Approached from stand-point of science.)"
+  },
+  {
+    "id": "p-f1d443",
+    "offset": 1314,
+    "text": "BENTHAM, J.: _Introduction to the Principles of Morals and Legislation._ (Utilitarian.)"
+  },
+  {
+    "id": "p-5ae0dc",
+    "offset": 1403,
+    "text": "STEPHEN, L.: *Science of Ethics.* (Evolutionary and social.)"
   }
 ]

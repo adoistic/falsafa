@@ -1,0 +1,33 @@
+---
+work_id: "100c6354-e2a9-59c3-b48c-5b306da95fa9"
+work_slug: "paul-lafargue-the-right-to-be-lazy-100c63"
+work_title: The Right To Be Lazy
+author_name: Paul Lafargue
+chapter_number: 2
+chapter_title: Chapter I. A Disastrous Dogma
+chapter_slug: 02
+variant_id: "818f5a7c-93e4-5543-b0a5-2dbed894bdb3"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 694
+source_url: "https://www.marxists.org/archive/lafargue/1883/lazy/ch01.htm"
+translator: Charles Kerr
+---
+
+A strange delusion possesses the working classes of the nations where capitalist civilization holds its sway. This delusion drags in its train the individual and social woes which for two centuries have tortured sad humanity. This delusion is the love of work, the furious passion for work, pushed even to the exhaustion of the vital force of the individual and his progeny. Instead of opposing this mental aberration, the priests, the economists and the moralists have cast a sacred halo over work. Blind and finite men, they have wished to be wiser than their God; weak and contemptible men, they have presumed to rehabilitate what their God had cursed. I, who do not profess to be a Christian, an economist or a moralist, I appeal from their judgement to that of their God; from the preachings of their religious, economics or free thought ethics, to the frightful consequences of work in capitalist society.
+
+In capitalist society work is the cause of all intellectual degeneracy, of all organic deformity. Compare the thorough-bred in Rothschild’s stables, served by a retinue of bipeds, with the heavy brute of the Norman farms which plows the earth, carts the manure, hauls the crops. Look at the noble savage whom the missionaries of trade and the traders of religion have not yet corrupted with Christianity, syphilis and the dogma of work, and then look at our miserable slaves of machines.
+
+When, in our civilized Europe, we would find a trace of the native beauty of man, we must go seek it in the nations where economic prejudices have not vet uprooted the hatred of work. Spain, which, alas, is degenerating, may still boast of possessing fewer factories than we have of prisons and barracks; but the artist rejoices in his admiration of the hardy Andalusian, brown as his native chestnuts, straight and flexible as a steel rod; and the heart leaps at hearing the beggar, superbly draped in his ragged capa, parleying on terms of equality with the duke of Ossuna. For the Spaniard, in whom the primitive animal has not been atrophied, work is the worst sort of slavery. The Greeks in their era of greatness had only contempt for work: their slaves alone were permitted to labor: the free man knew only exercises for the body and mind. And so it was in this era that men like Aristotle, Phidias, Aristophanes moved and breathed among the people; it was the time when a handful of heroes at Marathon crushed the hordes of Asia, soon to be subdued by Alexander. The philosophers of antiquity taught contempt for work, that degradation of the free man, the poets sang of idleness, that gift from the Gods:
+
+O Melibae Deus nobis haec otia fecit.
+
+Jesus, in his sermon on the Mount, preached idleness: “Consider the lilies of the field, how they grow: they toil not, neither do they spin: and yet I say unto you that even Solomon in all his glory was not arrayed like one of these.” Jehovah the bearded and angry god, gave his worshipers the supreme example of ideal laziness; after six days of work, he rests for all eternity.
+
+On the other hand, what are the races for which work is an organic necessity? The Auvergnians; the Scotch, those Auvergnians of the British Isles; the Galicians, those Auvergnians of Spain; the Pomeranians, those Auvergnians of Germany; the Chinese, those Auvergnians of Asia. In our society which are the classes that love work for work’s sake. The peasant proprietors, the little shopkeepers; the former bent double over their fields, the latter crouched in their shops, burrow like the mole in his subterranean passage and never stand up to look at nature leisurely.
+
+And meanwhile the proletariat, the great class embracing all the producers of civilized nations, the class which in freeing itself will free humanity from servile toil and will make of the human animal a free being, – the proletariat, betraying its instincts, despising its historic mission, has let itself be perverted by the dogma of work. Rude and terrible has been its punishment. All its individual and social woes are born of its passion for work.

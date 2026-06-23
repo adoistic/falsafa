@@ -1,0 +1,44 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 45
+chapter_title: Letter 45
+chapter_slug: "45-letter-45"
+variant_id: "b3f7b3ea-62ac-5d1a-a5d5-034640c3d96b"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1143
+translator: thothica
+---
+
+1. You complain that there is a scarcity of books there. It matters not how many you have, but how good; well-defined reading profits, varied reading delights. He who wishes to reach the place he has set out for should follow one road, not wander over many. To go thus is not to journey, but to stray.
+
+2. "I would rather," you say, "that you gave me counsel than books." Yet for my part I am ready to send whatever I have, and to empty my whole storehouse. I would transport myself thither too, if I could; and were I not hoping that you would soon obtain your discharge from office, I should have proclaimed this old man's expedition upon myself, nor could Charybdis and Scylla and that fabled strait have deterred me. I would have swum across, not merely crossed over, those waters, provided only I could embrace you and judge in person how much you have grown in mind.
+
+3. But as for your wishing my books sent to you, I no more think myself eloquent on that account than I should think myself handsome if you asked for my portrait. I know that this is the work of indulgence, not of judgement. And even if it is of judgement, your indulgence imposed it upon you.
+
+4. But of whatever sort they are, do you read them as though I were still seeking the truth, not knowing it, and seeking it obstinately. For I have made myself bondsman to no one; I bear the name of no master. I trust much to the judgement of great men, but I claim something also for my own. For they too left us not discoveries, but things to be discovered, and perhaps would have discovered what was necessary, had they not sought also what was superfluous.
+
+5. Much of their time the quibbling over words took from them, and captious disputations, which exercise the wits to no purpose. We tie knots and bind an ambiguous meaning upon words and then unloose it. Have we so much leisure? Do we already know how to live, how to die? We must press on with the whole mind toward that place where we must take care lest things, not words, deceive us.
+
+6. Why do you draw distinctions for me among likenesses of words, by which no one was ever caught except while disputing? It is things that deceive; distinguish them. We embrace evils for goods; we wish for the contrary of what we wished. Our prayers are at war with our prayers, our counsels with our counsels.
+
+7. How like to friendship is flattery! It not only imitates it, but outdoes it and goes beyond; it is received with open and well-disposed ears and sinks into the very depths of the breast, gracious by that very thing in which it harms. Teach me how I may discern this likeness. A flattering enemy comes to me in the guise of a friend. Faults creep upon us under the name of virtues, rashness lurks under the title of bravery, moderation is called sloth, the timid man is taken for the cautious; in these matters we err at great peril. On these set sure marks.
+
+8. As for the man who is asked whether he has horns, he is not so foolish as to feel his forehead, nor again so silly or dull as not to know it, even if you have persuaded him by some most subtle reasoning. Such things deceive without harm, like the conjurers' cups and pebbles, in which the very trickery delights me. Make me understand how it is done, and I have lost my pleasure. I say the same of those catches; for by what name should I rather call sophisms? They neither harm the man who is ignorant of them nor help the man who knows them.
+
+9. If you really wish to draw asunder the ambiguities of words, teach us this: that the happy man is not he whom the crowd calls so, to whom great wealth has flowed, but he who has all his good in his mind, upright and exalted and trampling on mutable things, who sees no one with whom he would wish to change places, who values a man by that part alone in which he is a man, who uses Nature for his teacher, conforms himself to her laws, lives as she has prescribed, from whom no force shakes out his goods, who turns evils into good, sure in judgement, unshaken, unafraid; whom some force may move, but none disturb; whom fortune, when she has hurled with all her might the most deadly weapon she possessed, pricks, but does not wound—and that rarely. For her other weapons, by which the human race is overthrown, rebound like hail, which, struck against the roof, rattles and dissolves without any hurt to the dweller.
+
+10. Why do you detain me over that which you yourself call "the liar," about which so many books have been composed? See, my whole life lies to me; convict that, bring that back to the truth, if you are keen-witted. It judges those things necessary, the greater part of which is superfluous. Even what is not superfluous has in it nothing of weight to this end, that it can render us fortunate and happy. For a thing is not at once good if it is necessary; or else we cheapen the good, if we give that name to bread and barley-meal and the other things without which life is not carried on.
+
+11. What is good is certainly necessary; what is necessary is not certainly good, since indeed certain necessary things are also most cheap. No one is so far ignorant of the dignity of the good as to lower it to these things useful for the day.
+
+12. What then? Will you not rather turn your care to this, to show all men that at a great expense of time the superfluous is sought, and that many have passed life in seeking the instruments of life? Examine men one by one, consider them all together; there is no one whose life does not look toward the morrow.
+
+13. "What evil is there in this?" you ask. Infinite. For they do not live, but are about to live. They put everything off. Even if we were attentive, yet life would outrun us; but now, while we delay, it runs past as though it were another's, and is ended on the last day, and is lost throughout. But that I may not exceed the limit of a letter, which ought not to fill the left hand of the reader, I shall put off to another day this quarrel with the dialecticians, who are too subtle and care for this alone, and not for this besides. Farewell.

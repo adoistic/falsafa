@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-philosophy-of-re-d5db7e",
+  "work_title": "Lectures on the Philosophy of Religion (Introduction and Absolute Religion, final section)",
+  "chapter_number": 6,
+  "chapter_title": "III. The Relation of the Philosophy of Religion to the Current Principles of the Religious Consciousness.",
+  "chapter_slug": "06-iii-the-relation-of-the-philosophy-of-religion-to-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97b483b0-2722-5c66-9d9d-d7e684f10c64",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 926,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/re/parta.htm"
+    }
+  ]
+}

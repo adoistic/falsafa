@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-social-significance-of-the-m-dc898f",
+  "work_title": "The Social Significance of the Modern Drama",
+  "chapter_number": 40,
+  "chapter_title": "Part 19, Chapter 1: Maxim Gorki, A Night's Lodging",
+  "chapter_slug": "40",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5751b696-e048-5cbb-9dc0-f7451fb7767d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1886,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1914/modern-drama/part-19-chapter-1.html"
+    }
+  ]
+}

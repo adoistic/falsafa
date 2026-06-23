@@ -1,0 +1,26 @@
+{
+  "work_slug": "eduard-bernstein-ferdinand-lassalle-as-a-social-r-a97060",
+  "work_title": "Ferdinand Lassalle as a Social Reformer",
+  "chapter_number": 2,
+  "chapter_title": "I. The political position in Germany at the beginning of Lassalle’s agitation",
+  "chapter_slug": "02-i-the-political-position-in-germany-at-the-beginni",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "94c90ba2-8593-5df6-abe7-c744dd09e53c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4450,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/bernstein/works/1893/lassalle/chap01.htm"
+    }
+  ]
+}

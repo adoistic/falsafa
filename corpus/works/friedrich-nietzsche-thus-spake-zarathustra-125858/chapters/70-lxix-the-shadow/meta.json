@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 70,
+  "chapter_title": "LXIX. The Shadow.",
+  "chapter_slug": "70-lxix-the-shadow",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "03fb08dd-c6c8-5eab-96d5-5fe0067a91e1",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 989,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3274934d-d179-559e-a7fe-5114956a1089",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1074,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

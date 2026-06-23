@@ -4,13 +4,17 @@ slug: "john-dewey-moral-principles-in-education-d70268"
 title: Moral Principles in Education
 author:
   name: John Dewey
-  biography: "John Dewey (1859-1952)."
+  biography: American pragmatist philosopher and educational reformer, leader of the Chicago and Columbia schools of progressive thought. His writings recast knowledge as inquiry and tied democracy to a method of shared, experimental learning.
+  birth_year: 1859
+  death_year: 1952
+  nationality: American
 era: 20th Century
 genre: Philosophy of Education
 language: English
 language_direction: ltr
 description: "Moral Principles in Education, by John Dewey (1859-1952), from Project Gutenberg's public-domain text."
 difficulty: Advanced
+published_year: 1909
 total_logical_chapters: 1
 total_variant_entries: 1
 thothica_role: catalog

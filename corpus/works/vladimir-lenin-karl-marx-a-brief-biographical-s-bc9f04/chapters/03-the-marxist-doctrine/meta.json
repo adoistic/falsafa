@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-karl-marx-a-brief-biographical-s-bc9f04",
+  "work_title": "Karl Marx: A Brief Biographical Sketch With an Exposition of Marxism",
+  "chapter_number": 3,
+  "chapter_title": "The Marxist Doctrine",
+  "chapter_slug": "03-the-marxist-doctrine",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0989e9a2-8ede-52de-ad27-ea5d3bcbe841",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3134,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1914/granat/ch02.htm"
+    }
+  ]
+}

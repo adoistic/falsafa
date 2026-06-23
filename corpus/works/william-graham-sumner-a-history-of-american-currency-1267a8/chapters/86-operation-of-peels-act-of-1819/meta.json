@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 86,
+  "chapter_title": "Operation of Peels Act of 1819.",
+  "chapter_slug": "86-operation-of-peels-act-of-1819",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "42017076-b3aa-5a6e-8167-e159d2337ce2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 652,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

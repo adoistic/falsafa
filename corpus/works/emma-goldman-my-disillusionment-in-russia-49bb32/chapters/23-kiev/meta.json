@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-my-disillusionment-in-russia-49bb32",
+  "work_title": "My Disillusionment in Russia",
+  "chapter_number": 23,
+  "chapter_title": "Kiev",
+  "chapter_slug": "23-kiev",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5cfc67e2-cce3-554d-aac1-94d78d0d88f2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6478,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch21.htm"
+    }
+  ]
+}

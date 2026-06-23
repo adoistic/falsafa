@@ -4,7 +4,10 @@ slug: "seneca-lucius-annaeus-apocolocyntosis-1cb5a3"
 title: Apocolocyntosis
 author:
   name: Seneca, Lucius Annaeus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Roman Stoic philosopher, tragedian, and tutor and minister to the emperor Nero, born at Corduba in Spain. His essays, letters, and the satirical Apocolocyntosis carried Stoic ethics into Latin and shaped European moral writing for centuries.
+  birth_year: -4
+  death_year: 65
+  nationality: Roman
 era: Imperial
 genre: Classics
 language: Latin

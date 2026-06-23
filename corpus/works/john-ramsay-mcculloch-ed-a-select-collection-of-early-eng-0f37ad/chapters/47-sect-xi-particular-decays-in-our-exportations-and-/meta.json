@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 47,
+  "chapter_title": "Sect. XI.: Particular decays in our Exportations, and the beneficial parts of our Trade; Instances in the decay of our F",
+  "chapter_slug": "47-sect-xi-particular-decays-in-our-exportations-and-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52342c79-c83a-5892-9558-e9f8763088a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2848,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

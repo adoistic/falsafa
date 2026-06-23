@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
+  "work_title": "Essays in Socialism: New & Old",
+  "chapter_number": 17,
+  "chapter_title": "The “Collective Will” and Law",
+  "chapter_slug": "17-the-collective-will-and-law",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a3afefcc-94c6-59dd-8a14-8097ef5cdf8e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1938,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1897/12/willaw.htm"
+    }
+  ]
+}

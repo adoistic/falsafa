@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-two-tactics-of-social-democracy--4ada44",
+  "work_title": "Two Tactics of Social-Democracy in the Democratic Revolution",
+  "chapter_number": 2,
+  "chapter_title": "An Urgent Political Question",
+  "chapter_slug": "02-an-urgent-political-question",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "59e5a295-0b98-57de-953b-0e09358fc79a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1215,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ch01.htm"
+    }
+  ]
+}

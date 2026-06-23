@@ -4,7 +4,7 @@ work_slug: "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f"
 work_title: Sextus Empiricus and Greek Scepticism
 author_name: Mary Mills Patrick
 chapter_number: 24
-chapter_title: Chapter XXV
+chapter_title: Chapter XXIV
 chapter_slug: 24
 variant_id: "3b10e916-e163-5256-a9ae-9dd5b0eb4369"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 150
+word_count: 210
 source_url: "https://www.gutenberg.org/ebooks/17556"
 translator: Project Gutenberg edition
 ---
 
-*The Formula "Every thing is Incomprehensible."*
+*The Formula "Every thing is Undetermined."*
 
-We treat the formula "Every thing is incomprehensible" in 200 the same way. For "every thing" we interpret in the same way as above, and we supply the words "to me" so that what we say is this: "As far as I have inspected the unknown things which are dogmatically examined, it appears to me that every thing is incomprehensible." This is not, however, to affirm that the things which are examined by the Dogmatists are of such a nature as to be necessarily incomprehensible, but one expresses his own feeling in saying "I see that I have not thus far comprehended any of those things because of the equilibrium of the things that are placed in opposition to each other." Whence it seems to me that every thing that has been brought forward to dispute our formulae has fallen wide of the mark.
+The expression "Indetermination" furthermore shows a state 198 of mind in which we neither deny nor affirm positively anything regarding things that are investigated in a dogmatic way, that is the things that are unknown. When then the Sceptic says "Every thing is undetermined," he uses "is undetermined," in the sense of "it appears undetermined to him." The words "every thing" do not mean all existences, but those that he has examined of the unknown things that are investigated by the Dogmatists. By "undetermined," he means that there is no preference in the things that are placed in opposition to each other, or that they simply conflict with each other in respect to trustworthiness or untrustworthiness. And as the one who 199 says "I am walking" really means "It is I that am walking," so he who says "Every thing is undetermined" means at the same time, according to our teachings, "as far as I am concerned," or "as it appears to me," as if he were saying "As far as I have examined the things that are under investigation in a dogmatic manner, it appears to me that no one of them excels the one which conflicts with it in trustworthiness or untrustworthiness."

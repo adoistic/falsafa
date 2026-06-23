@@ -4,13 +4,17 @@ slug: "samuel-smiles-self-help-5f53da"
 title: "Self-Help"
 author:
   name: Samuel Smiles
-  biography: Samuel Smiles (1812–1904).
+  biography: "Scottish author and reformer who turned from medicine and journalism to didactic biography. Self-Help gathered the lives of inventors and industrialists into the founding manual of Victorian self-improvement."
+  birth_year: 1812
+  death_year: 1904
+  nationality: Scottish
 era: 19th Century
 genre: Philosophy
 language: English
 language_direction: ltr
 description: "Self-Help, by Samuel Smiles (1812–1904), a public-domain text from Liberty Fund's Online Library of Liberty."
 difficulty: Advanced
+published_year: 1859
 total_logical_chapters: 14
 total_variant_entries: 14
 thothica_role: catalog
@@ -22,17 +26,17 @@ Self-Help, by Samuel Smiles (1812–1904), a public-domain text from Liberty Fun
 
 ## Chapters
 
-01. [INTRODUCTION.](./chapters/01-introduction/) — prose, 1 variant
-02. [Chapter I: SELF-HELP,—NATIONAL AND INDIVIDUAL.](./chapters/02/) — prose, 1 variant
-03. [Chapter II: LEADERS OF INDUSTRY,—INVENTORS AND PRODUCERS.](./chapters/03/) — prose, 1 variant
-04. [Chapter III: APPLICATION AND PERSEVERANCE.](./chapters/04/) — prose, 1 variant
-05. [Chapter IV: HELPS AND OPPORTUNITIES—SCIENTIFIC PURSUITS.](./chapters/05/) — prose, 1 variant
-06. [Chapter V: WORKERS IN ART.](./chapters/06/) — prose, 1 variant
-07. [Chapter VI: INDUSTRY AND THE ENGLISH PEERAGE.](./chapters/07/) — prose, 1 variant
-08. [CHAPTER VII: ENERGY AND COURAGE.](./chapters/08/) — prose, 1 variant
-09. [Chapter VIII: BUSINESS QUALITIES.](./chapters/09/) — prose, 1 variant
-10. [Chapter IX: MONEY,—USE AND ABUSE.](./chapters/10/) — prose, 1 variant
+01. [Introduction.](./chapters/01-introduction/) — prose, 1 variant
+02. [Chapter I: Self-help,—national and Individual.](./chapters/02/) — prose, 1 variant
+03. [Chapter II: Leaders of Industry,—inventors and Producers.](./chapters/03/) — prose, 1 variant
+04. [Chapter III: Application and Perseverance.](./chapters/04/) — prose, 1 variant
+05. [Chapter IV: Helps and Opportunities—scientific Pursuits.](./chapters/05/) — prose, 1 variant
+06. [Chapter V: Workers in Art.](./chapters/06/) — prose, 1 variant
+07. [Chapter VI: Industry and the English Peerage.](./chapters/07/) — prose, 1 variant
+08. [Chapter VII: Energy and Courage.](./chapters/08/) — prose, 1 variant
+09. [Chapter VIII: Business Qualities.](./chapters/09/) — prose, 1 variant
+10. [Chapter IX: Money,—use and Abuse.](./chapters/10/) — prose, 1 variant
 11. [Chapter X: SELF-CULTURE.](./chapters/11/) — prose, 1 variant
-12. [Chapter XI: FACILITIES AND DIFFICULTIES.](./chapters/12/) — prose, 1 variant
-13. [Chapter XII: EXAMPLE,—MODELS.](./chapters/13/) — prose, 1 variant
-14. [Chapter XIII: CHARACTER.—THE TRUE GENTLEMAN.](./chapters/14/) — prose, 1 variant
+12. [Chapter XI: Facilities and Difficulties.](./chapters/12/) — prose, 1 variant
+13. [Chapter XII: Example,—models.](./chapters/13/) — prose, 1 variant
+14. [Chapter XIII: Character.—the True Gentleman.](./chapters/14/) — prose, 1 variant

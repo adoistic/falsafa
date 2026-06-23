@@ -1,0 +1,38 @@
+{
+  "work_slug": "dio-chrysostom-orations-32299d",
+  "work_title": "Orations",
+  "chapter_number": 46,
+  "chapter_title": "Oration 63",
+  "chapter_slug": "46-oration-63",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b31ada9a-41c8-58b4-b5ae-14442c485301",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 662,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0612.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a4085806-212f-5221-a8cb-385c1190e380",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 847,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

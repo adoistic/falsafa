@@ -1,0 +1,26 @@
+{
+  "work_slug": "louis-b-boudin-the-theoretical-system-of-karl-m-829bd6",
+  "work_title": "The Theoretical System of Karl Marx in the Light of Recent Criticism",
+  "chapter_number": 12,
+  "chapter_title": "I. (3)",
+  "chapter_slug": "12-i-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "557de9d8-7ebe-5885-b7d1-01ce582585b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3391,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/boudin/1907/02/system/8-concentration-of-capital.html"
+    }
+  ]
+}

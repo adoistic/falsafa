@@ -2,7 +2,7 @@
   "work_slug": "henry-george-progress-and-poverty-edf98e",
   "work_title": "Progress and Poverty",
   "chapter_number": 39,
-  "chapter_title": "Chapter I The Injustice of Private Property in Land",
+  "chapter_title": "Chapter III Claim of Land Owners to Compensation",
   "chapter_slug": "39",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 4468,
-      "paragraph_count": 33,
+      "word_count": 3094,
+      "paragraph_count": 23,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
     }

@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 47,
+  "chapter_title": "Chpt. 10 Effects of Victory",
+  "chapter_slug": "47-chpt-10-effects-of-victory",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dad1281d-c25c-5be3-9ef8-5526f98ded40",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2336,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book4/ch10.htm"
+    }
+  ]
+}

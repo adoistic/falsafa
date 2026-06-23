@@ -1,0 +1,49 @@
+---
+work_id: "4a4d88b4-568e-50ba-ac6b-4b62b21073ab"
+work_slug: "karl-kautsky-the-social-revolution-and-on-the-4a4d88"
+work_title: The Social Revolution (and On the Day After the Social Revolution)
+author_name: Karl Kautsky
+chapter_number: 18
+chapter_title: The Preliminary Psychical Conditions to the Dominion of the Proletariat
+chapter_slug: "18-the-preliminary-psychical-conditions-to-the-domini"
+variant_id: "9fe5cd23-4d44-5d29-9e76-6ce47e47a25d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1377
+source_url: "https://www.marxists.org/archive/kautsky/1902/socrev/pt2-2.htm"
+translator: A.M. and May Wood Simons
+---
+
+It will have occurred to very many readers that in this investigation I have spoken only of economic conditions. I have not investigated what are to be the ethical foundations of the new society, whether they shall rest upon Kantian or Spencerian, upon the categorical imperative, or whether the greatest good to the greatest number shall be the principal motive. I have not investigated which of the above theories shall constitute the juridical foundation, whether the right to the complete product of labor, or the right to existence, or some other one of the fundamental economic rights which the judicial socialists have discovered. No doubt laws and ethics will play a part in the social revolution, but the determining factor will always be the demands of economics.
+
+But beside law and ethics psychology also comes into consideration. Will not problems arise therefrom for the proletarian regime and those of great significance? Does not the socialist society presuppose extraordinary people, actual angels in unselfishness, joy in labor, and intelligence? Will not the social revolution with the present race full of egoism and brutality be the signal for a raging battle for spoils or lead to a universal idleness? All transformations of economic foundations amount to nothing so long as mankind is not ennobled.
+
+The treatment and the text are not new. They were sung a hundred years ago as the song arose of the crushed oppressed classes. The gentle landlords of the Holy Alliance would gladly have given their beloved children all possible freedom, but these children must first attain the necessary ripeness.
+
+I do not intend to deny that every system of production demands certain definite technical and also psychological preliminary conditions in order to enable it to be realized. What shall be the necessary forms of these psychological conditions of a given manner of production depends upon the character of the economic tasks which it sets forth.
+
+No one will claim that in my investigation I have presupposed mankind of an angelic character. The problem that we have to solve presupposes intelligence, discipline and talent for organization. These are the psychological foundations of a socialist society. Those are just the ones that the capitalist society has created. It is the historical task of capital to discipline and organize the laborers, and to widen their intellectual horizon beyond the boundaries of the workshop and the church door.
+
+For socialism to rise on the basis of hand work or agricultural industry is impossible, not simply on economic grounds because of the low productivity of industry, but also for psychological reasons. I have already shown how small bourgeois psychology inclines towards anarchy and opposes the discipline of the social industry. It is one of the greatest difficulties that capital meets in the beginnings of capitalist production, in that it must take its first laborers directly from hand work or from agriculture. It had to fight with this in the eighteenth century in England and to-day in the Southern States of America which renders very difficult the rapid advance of the great industry not-withstanding the nearness to raw materials greatly favors such industry.
+
+Not discipline alone but also the talent for organization is difficult of development in little bourgeois and agricultural positions. There are no great bodies of men to be united in systematic co-operation. On this economic stage it is only the soldiers who offer the opportunity to organize in great bodies. The great generals are also great organizers. Capitalist production transplants the task of organization of great masses of the community to industry. The capitalists constitute naturally the head people, the field generals of those who are under them and become prominent factors in organization. Correspondingly the organizing talent in its appointees is very highly valued and rewarded by capital. Under these conditions the organizing talent grows rapidly. It can be applied equally well to the uses of a proletarian regime that will also need numerous directors of factories and organizers of trusts.
+
+Capital also demands intelligent labor power, so we see that the competitive struggle above all enforces the betterment of the industrial school. On the other side the development of industry and the existence of newspapers contributes to extend the intellectual horizon of the laborer.
+
+But not alone the pressure of capital in the exploitation of great bodies of labor, but the struggle of the proletarian against this exploitation develops the psychological conditions for socialist production; it develops discipline in every way, as we have already seen, of a wholly different character and from that given capital, and this struggle develops also a talent for organization, for it is only through the unanimous co-operation of the great body of mankind that the proletariat can assert itself against capital and the capitalist state. Organization is the most important weapon of the proletariat and nearly all its great leaders are also great organizers. To the money of capital, and the weapon of the military States, the proletariat has nothing to oppose save its economic indispensability and its organization. That its intelligence grows with these and through these needs no proof.
+
+The social revolution requires high intelligence, strict discipline and complete organization of this great mass and these must exist simultaneously with and be indispensable to economic life if it is to attain strength to overcome so extremely powerful an opponent. We may expect that it will only succeed when these peculiarities are developed in the highest degree and also that the victory of the proletariat and therewith the social revolution will not come before not only the economic but also the psychological conditions to a socialist society are present in a high degree. This does not mean that mankind should be angels nor that we shall need to wait so very long for its psychological ripeness.
+
+While the modern proletariat has need of no great change in order to make it ripe for socialist society, nevertheless we may expect that this society will greatly alter the character of mankind. That which is demanded as a preliminary condition to a socialist society, and which the capitalist society makes impossible, and which would be therefore the most impossible preliminary condition, that is, the creation of a higher type of mankind than the modern one, that will be the natural result of socialism. It will bring security, rest and leisure to mankind; it will raise their minds above the commonplace because they will no longer need to continuously think of where the bread for the morrow is to come from. It will make personalities independent of other personalities, so that the feeling of slavery as well as of human adoration will disappear. It will at the same time create a balance between country and city, make the treasures of the cultured rich attainable to all mankind and give back to them the nature which arises from the strength and joy of living.
+
+Simultaneously with the abolition of the physiological roots of pessimism it will do away with the social ones also, together with the misery and degradation of the one who makes a virtue of necessity, and the satiety of the other who in idle luxury has drained the cup of enjoyment even to the dregs.
+
+Socialism will abolish poverty and satiety and unnaturalness, make mankind joyful, appreciative of beauty, capable of happiness, and thereby it will bring freedom in scientific and artistic creation for all.
+
+May we not expect that under such conditions a new type of mankind will arise which will be far superior to the highest type which culture has hitherto created? An over-man (Uebermensch), if you will, not as an exception but as a rule, an over-man compared with his predecessors, but not as opposed to his comrades, a noble man who seeks his satisfaction not by being great among crippled dwarfs, but great among the great, happy among the happy – who does not draw his feeling of strength from the fact that he raises himself upon the bodies of the down-trodden, but because a union with his fellow-workers gives him courage to dare the attainment of the highest tasks.
+
+So we may expect that a realm of strength and of beauty will arise that will be worthy the ideal of our best and noblest thinkers.

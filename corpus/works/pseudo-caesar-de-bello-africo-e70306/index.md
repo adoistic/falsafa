@@ -4,7 +4,8 @@ slug: "pseudo-caesar-de-bello-africo-e70306"
 title: De Bello Africo
 author:
   name: "Pseudo-Caesar"
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Conventional label for the anonymous Roman authors who continued Caesar's war commentaries. The De Bello Africo and De Bello Alexandrino narrate campaigns of the civil war and were transmitted within the Caesarian corpus though not written by Caesar."
+  nationality: Roman
 era: Hellenistic
 genre: Classics
 language: Latin

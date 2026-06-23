@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-consolation-to-marcia-172127",
+  "work_title": "Consolation to Marcia",
+  "chapter_number": 1,
+  "chapter_title": "Consolation to Marcia",
+  "chapter_slug": "01-consolation-to-marcia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d9b11fd0-e653-50e6-8fb0-8b2c27f30b7e",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8656,
+      "paragraph_count": 137,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0255.stoa007"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f6acc20c-d919-5200-9379-de82c456a1c9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 13416,
+      "paragraph_count": 137,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

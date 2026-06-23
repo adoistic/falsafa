@@ -1,0 +1,26 @@
+{
+  "work_slug": "pierre-joseph-proudhon-system-of-economical-contradicti-358ea4",
+  "work_title": "System of Economical Contradictions: or, The Philosophy of Poverty",
+  "chapter_number": 7,
+  "chapter_title": "Chapter Economic Evolutions. — First Period. — The Division of Labor.",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "96be9b77-fad5-5e29-a6d9-cf1b1cf43d02",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 561,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/subject/economics/proudhon/philosophy/ch03.htm"
+    }
+  ]
+}

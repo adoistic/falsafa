@@ -4,7 +4,7 @@ work_slug: "yves-guyot-the-tyranny-of-socialism-1e5c8b"
 work_title: The Tyranny of Socialism
 author_name: Yves Guyot
 chapter_number: 11
-chapter_title: "BOOK II.: SOCIALISTIC SOPHISMS."
+chapter_title: "Book II.: Socialistic Sophisms."
 chapter_slug: 11
 variant_id: "1b774359-534e-5661-b118-89a897d04433"
 content_type: translation

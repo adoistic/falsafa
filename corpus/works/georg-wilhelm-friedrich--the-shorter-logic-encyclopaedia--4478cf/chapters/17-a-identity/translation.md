@@ -1,0 +1,33 @@
+---
+work_id: "4478cfcf-f385-52f5-93d5-d38bea1729b2"
+work_slug: "georg-wilhelm-friedrich--the-shorter-logic-encyclopaedia--4478cf"
+work_title: The Shorter Logic (Encyclopaedia Logic)
+author_name: Georg Wilhelm Friedrich Hegel
+chapter_number: 17
+chapter_title: "[a] Identity"
+chapter_slug: "17-a-identity"
+variant_id: "f8fd9d5c-9c12-5071-a6d3-37934630fb76"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 874
+source_url: "https://www.marxists.org/reference/archive/hegel/works/sl/slessenc.htm"
+translator: William Wallace
+---
+
+The Essence lights up in itself or is mere reflection: and therefore is only self-relation, not as immediate but as reflected. And that reflex relation is self-identity.
+
+This identity becomes an Identity, in form only, or of the understanding, if it be held hard and fast, quite aloof from difference. Or, rather, abstraction is the imposition of this Identity of form, the transformation of something inherently concrete into this form of elementary simplicity. And this may be done in two ways. Either we may neglect a part of the multiple features which are found in the concrete thing (by what is called analysis) and select only one of them; or, neglecting their variety, we may concentrate the multiple character into one.
+
+If we associate Identity with the Absolute, making the Absolute the subject of a proposition, we get: The Absolute is what is identical with itself. However, true this proposition may be, it is doubtful whether it be meant in its truth: and therefore it is at least imperfect in the expression. For it is left undecided, whether it means the abstract Identity of understanding- abstract. that is, because contrasted with the other characteristics of Essence – or the Identity which is inherently concrete. In the latter case, as will be seen, true identity is first discoverable in the Ground, and, with a higher truth, in the Notion. Even the word Absolute is often used to mean more than 'abstract'. Absolute space and absolute time, for example, is another way of saying abstract space and abstract time.
+
+When the principles of Essence are taken as essential principles of thought they become predicates of a presupposed subject, which, because they are essential, is 'everything'. The propositions thus arising have been stated as universal Laws of Thought. Thus the first of them, the maxim of Identity, reads: Everything is identical with itself, A = A: and negatively, A cannot at the same time be A and Not-A. This maxim, instead of being a true law of thought, is nothing but the law of abstract understanding. The propositional form itself contradicts it: for a proposition always promises a distinction between subject and predicate; while the present one does not fulfil what its form requires. But the Law is particularly set aside by the following so-called Laws of Thought, which make laws out of its opposite. It is asserted that the maxim of Identity, though it cannot be proved, regulates the procedure of every consciousness, and that experience shows it to be accepted as soon as its terms are apprehended. To this alleged experience of the logic books may be opposed the universal experience that no mind thinks or forms conceptions or speaks in accordance with this law, and that no existence of any kind whatever conforms to it.
+
+Utterances after the fashion of this pretended law (A planet is a planet; Magnetism is magnetism; Mind is Mind) are, as they deserve to be, reputed silly. That is certainly a matter of general experience. The logic which seriously propounds such laws and the scholastic world in which alone they are valid have long been discredited with practical common sense as well as with the philosophy of reason.
+
+Identity is, in the first place, the repetition of what we had earlier as Being, but as become, through supersession of its character of immediateness. It is therefore Being as Ideality. It is important to come to a proper understanding on the true meaning of Identity; and, for that purpose, we must especially guard against taking it as abstract identity, to the exclusion of all Difference. That is the touchstone for distinguishing all bad philosophy from what alone deserves the name of philosophy. Identity in its truth, as an Ideality of what immediately is, is a high category for our religious modes of mind as well as all other forms of thought and mental activity. The true knowledge of God, it may be said, begins when we know him as identity – as absolute identity. To know so much is to see all the power and glory of the world sinks into nothing in God's presence, and subsists only as the reflection of his power and his glory. In the same way, Identity, as self-consciousness, is what distinguishes man from nature, particularly from the brutes which never reach the point of comprehending themselves as 'I'; that is, pure self-contained unity. So again, in connection with thought, the main thing is not to confuse the true Identity, which contains Being and its characteristics ideally transfigured in it, with an abstract Identity, identity of bare form. All the charges of narrowness, hardness, meaninglessness, which are so often directed against thought from the quarter of feeling and immediate perception rest on the perverse assumption that thought acts only as a faculty of abstract Identification.
+
+The Formal Logic itself confirms this assumption by laying down the supreme law of thought (so-called) which has been discussed above. If thinking were no more than an abstract Identity, we could not but own it to be a most futile and tedious business. No doubt the notion, and the idea too, are identical with themselves: but identical only in so far as they at the same time involve distinction.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-the-wages-question-b128f3",
+  "work_title": "The Wages Question",
+  "chapter_number": 2,
+  "chapter_title": "The Wages Question, Part I, Chapter I Wages a Question in the Distribution of Wealth.",
+  "chapter_slug": "02-the-wages-question-part-i-chapter-i-wages-a-questi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6676e34e-45a1-5257-afe5-034d3a7ad28f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2203,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-the-wages-question-a-treatise-on-wages-and-the-wages-class"
+    }
+  ]
+}

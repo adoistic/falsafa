@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 42,
+  "chapter_title": "(N): That Trade is WAR, so that Free Trade Methods are Unfit for it, and that Protective Taxes are Suited to it.",
+  "chapter_slug": "42-n-that-trade-is-war-so-that-free-trade-methods-are",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f432b6fe-5172-5b5f-9567-8ed11edba691",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 161,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

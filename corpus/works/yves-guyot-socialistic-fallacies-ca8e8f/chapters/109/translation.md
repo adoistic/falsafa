@@ -4,7 +4,7 @@ work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
 work_title: Socialistic Fallacies
 author_name: Yves Guyot
 chapter_number: 109
-chapter_title: "CHAPTER VII: Tactics of the Social War"
+chapter_title: "Chapter IX: Depressing Effect upon Wealth"
 chapter_slug: 109
 variant_id: "307343a6-bc3b-591f-8748-5e9f7c272a9f"
 content_type: translation
@@ -13,35 +13,17 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 686
+word_count: 343
 source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
 translator: Online Library of Liberty edition
 ---
 
-Creation of the Socialist spirit—The legality of violence—Jules Guesde and Georges Sorel.
+Income tax—Mr. Hearst and Mr. Roosevelt—Death duties in France.
 
-How is the Social Revolution to be precipitated? What are the best tactics for the Social War? These are the subjects of discussion at Socialist Congresses.
+Socialist action has a depressing effect upon all fixed capital. Not only do threats of confiscation cause uneasiness for the future; the proceedings of an unscrupulous policy are disquieting for the present. A suggested income tax, the effect of which is to place an instrument of pressure in the hands of the Socialists destined to annihilate large fortunes and to exhaust moderate ones, does not invite people to embark in enterprises or to buy properties or transferable securities. Since the same spirit prevails, in different degrees, in countries whose evolution is advanced, everyone looks uneasily around him. Furthermore, in order to carry on a policy of preserving the political equilibrium, of giving a few bones to the demagogues to gnaw, concessions are made to the policy of spoliation. In order to contend against Mr. Hearst, the wealthy demagogue, Mr. Roosevelt feels the need of declaring war upon the corporations and threatening the millionaires with confiscation of a portion of their estates upon their decease.
 
-At the Nancy Congress, on August 13th, 1907, M. Firancette made a very interesting declaration. “In the Paris Labour Exchange,” he said, “there is only a small number of Socialists among the three thousand members of the trade union to which I belong.”
+Governments in democratic countries like the United States and France, carry on a system of class policies, which—contrary to the principle of the equality of all before the law and of the law as the same for all—brings us back to the old system.
 
-M. Emmanuel Lévy, Professor in the Faculty of Law at Lyons, considers that “the true creation of the Socialist spirit is the class war itself. Political action will have to complete by laws of expropriation what the trade union has already succeeded in conquering.” This reassuring Professor of Law is a supporter of “direct action,” but he contemplates a legalised robbery and seeks to reconcile the unionism which is to perform the first act with the political Socialism which is to perform the second.
+Optimists would do well to cast an eye upon the following table of estates, passing by inheritance and deed of gift, in France.
 
-Jules Guesde looks upon the destruction of property and plant with a certain amount of contempt. He prefers a struggle conducted with ballot papers, but inasmuch as this method might appear bourgeois, he adds that “it is only the prelude to the struggle with musket-fire.” This weapon is somewhat out of date. But M. Jules Guesde has never believed in “natural necessity.” He is able to say that he has constantly repeated that “revolution by force remains the only final solution. Collective property can only issue from the revolutionary action of the producing class—or proletariat—organised as a class party.”
-
-M. Georges Sorel, one of the pundits of the Confederation of Labour, for his part says, “the greater the development of trade unions, the more will social conflicts assume the character of pure struggles like those of armies in the field.”
-
-The leaders of the Workmen's Socialist Party and of the Confederation of Labour are in fundamental agreement. M. Jules Guesde alone asks for the collaboration of those whom he wishes to destroy, while MM. Georges Sorel, Lagardelle and Griffuelhes only count upon the class which is interested in destruction. They have less faith in human simplicity than M. Jules Guesde.
-
-The Socialists may quarrel among themselves about personal matters, but they are all agreed upon one point—the social war. One needs to be deeply versed in the subtleties of the Socialist vocabulary in order to understand the distinctions between the motion of La Dordogne, which was supported by 141 votes, and the du Cher motion which obtained 167, and was adopted. I quote the latter:—
-
-The congress, convinced that the working classes will only be able to completely emancipate themselves by the combined force of political action and of the action of the trade unions, by the trade unions proceeding to the length of a general strike and by the conquest of all political power in view of the general expropriation of capitalism:
-
-Convinced that this double action will be all the more effective in proportion as the political and the economic organisms maintain their full autonomy, the aims of the trade unions being the same as those of Socialism:
-
-Seeing that this fundamental agreement of political and of economic action on the part of the proletariat will necessarily ensure a liberal co-operation between the two organisations, free from confusion, subordination or distrust:
-
-Accordingly invites all militant members to labour to the utmost of their power to dissipate every misunderstanding between the corporate and the political organisations of the working classes.
-
-The 34 millions of owners of property, large and small, the bourgeois and capitalists of France, certainly keep their tempers well, seeing that these organisations for the purpose of pillage, either by violence or by law, are carried on in the exercise of a legitimate right!
-
-This indifference is sufficiently humiliating to the Socialists, for it proves the profound confidence entertained by those who own property in the vanity of their efforts. And how many among those Socialists who are richly provided with worldly goods expect to be called upon to lay their quota upon the altar of conquering Socialism?
+In the two periods 1896–1900 and 1901–1904 there was a decline as compared with the period 1891–1895, and the period 1905–1907 only exceeds the period 1891–1895 by 14 millions. Between the two extreme periods covering a space of 26 years, the increase is only 12 per cent., or less than ½ per cent. per annum. Contrary to certain optimistic assertions, the increase of wealth in France, even if its development has not been arrested, is at all events extremely slow, and among the causes which are answerable for this, it may safely be stated that Socialism must be placed in the front rank.

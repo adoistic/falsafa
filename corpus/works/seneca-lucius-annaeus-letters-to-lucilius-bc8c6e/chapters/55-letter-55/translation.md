@@ -1,0 +1,40 @@
+---
+work_id: "bc8c6efd-4f77-571a-ad08-62c8fced955e"
+work_slug: "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e"
+work_title: Letters to Lucilius
+author_name: Seneca, Lucius Annaeus
+chapter_number: 55
+chapter_title: Letter 55
+chapter_slug: "55-letter-55"
+variant_id: "bf4aa1fe-0c91-5286-ba91-ef319e22499d"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 1030
+translator: thothica
+---
+
+1. I have just come from a ride in my sedan, no less tired than if I had walked as far as I sat. For it is a labor to be carried even for long, and perhaps the greater because it is against Nature, who gave us feet that we might walk by ourselves, eyes that we might see by ourselves. Our soft living has condemned us to weakness, and what for a long while we refused to do, we have ceased to be able to do.
+
+2. For me, however, it was necessary to shake up my body, so that, whether bile had settled in my throat, it might be dispersed, or, if for any cause my breath itself was too thick, the jolting might thin it — and I felt that it did me good. So I went on being carried a good while longer, the very shore inviting me, where it curves between Cumae and the villa of Servilius Vatia and is shut in, like a narrow road, by the sea on one side and the lake on the other. For it was firm from a recent storm. The waves, as you know, when frequent and driven, pack it down; a longer calm loosens it, when the moisture that bound the sands together has gone.
+
+3. As is my habit, however, I began to look about whether I might find something there that could be of use to me, and I turned my eyes upon the villa that once belonged to Vatia. In it that wealthy ex-praetor grew old, known for nothing else but his leisure, and for this one thing was held happy. For whenever the friendship of Asinius Gallus, whenever the hatred of Sejanus and then his love, had sunk anyone — for it was as dangerous to have offended him as to have loved him — men would cry out: "O Vatia, you alone know how to live."
+
+4. But he knew how to lie hidden, not how to live. And there is a great difference whether your life is one of leisure or of idleness. I never used to pass this villa, while Vatia was alive, without saying: "Here lies Vatia." But philosophy, my dear Lucilius, is something so holy and venerable that even what merely resembles it pleases by the false likeness. For the crowd thinks the man of leisure is withdrawn, untroubled, content with himself, living for himself — none of which can fall to anyone's lot but the wise man's.
+
+5. Does that anxious fellow know how to live for himself? Does he indeed — which comes first — know how to live at all? For the man who flees from affairs and from men, whom the unhappiness of his own desires has banished, who could not bear to see others more fortunate, who has hidden away through fear like a timid and inert animal — that man does not live for himself, but, what is most shameful, for his belly, his sleep, his lust. The man who lives for no one does not therefore at once live for himself. Yet so great a thing is constancy and perseverance in one's purpose that even stubborn idleness has a certain authority.
+
+6. Of the villa itself I can write you nothing certain. For I know only its front and the parts exposed to view, which it shows even to passers-by. There are two grottoes of great workmanship, each as large as the most spacious hall, made by hand: one of which does not admit the sun, while the other holds it until sunset. A stream, fed both by the sea and by the Acherusian lake, divides the plane-grove in the middle like a channel, large enough to keep fish even though it is constantly drawn off. But the fish are spared when the sea is open; when a storm gives the fishermen a holiday, the hand reaches out to what is ready at hand.
+
+7. Yet this is the most convenient thing about the villa: that it has Baiae just across the wall; it is free from the discomforts of that place, and enjoys its pleasures. These advantages of it I know myself; I believe it is habitable the whole year through. For it faces the west wind and catches it so well that it grudges it to Baiae. Vatia seems to have chosen this spot not foolishly, to which to retire his leisure, lazy now and old.
+
+8. But the place does little for tranquility; it is the mind that must commend all things to itself. I have seen men gloomy in a cheerful and pleasant villa, and I have seen men in the midst of solitude looking as busy as any. So there is no reason for you to suppose yourself ill-ordered merely because you are not in Campania. And why are you not? Send your thoughts here even so far.
+
+9. We may converse with absent friends, and indeed as often as we like, as long as we like. We enjoy this pleasure, which is the greatest of all, the more for being apart. For their presence makes us soft, and because we sometimes talk together, walk together, sit together, when we are parted we think nothing of those whom we have just seen.
+
+10. And for that reason we ought to bear absence with an even mind, since no one fails to be much absent even from those who are present. Set down here first the nights spent apart, then the occupations of each that differ, then our private studies and our trips out of town; you will see that travel takes little from us.
+
+11. A friend is to be possessed in the mind; and the mind is never absent. It sees daily whomever it wishes. Therefore study with me, dine with me, walk with me. We should be living in a narrow space if anything were shut off from our thoughts. I see you, my dear Lucilius; this very moment I hear you. I am so much with you that I doubt whether I should begin to write you, not letters, but mere notes. Farewell.

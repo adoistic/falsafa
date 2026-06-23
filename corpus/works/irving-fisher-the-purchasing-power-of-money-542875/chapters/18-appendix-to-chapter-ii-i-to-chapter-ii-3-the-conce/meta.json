@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 18,
+  "chapter_title": "Appendix to Chapter II, § I (to Chapter II, § 3) The Concept of an Average",
+  "chapter_slug": "18-appendix-to-chapter-ii-i-to-chapter-ii-3-the-conce",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d2ba324-bb3d-5800-bb1c-85260fcd3dd7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1048,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

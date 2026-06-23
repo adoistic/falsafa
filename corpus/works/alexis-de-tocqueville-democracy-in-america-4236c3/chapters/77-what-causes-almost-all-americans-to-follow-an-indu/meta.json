@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 77,
+  "chapter_title": "What Causes Almost All Americans to Follow an Industrial Calling.",
+  "chapter_slug": "77-what-causes-almost-all-americans-to-follow-an-indu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d443b34a-d94e-5603-b41d-b327ab96ae87",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2906,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch31.htm"
+    }
+  ]
+}

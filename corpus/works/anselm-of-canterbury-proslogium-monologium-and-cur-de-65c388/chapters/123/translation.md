@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 123
-chapter_title: CHAPTER III.
+chapter_title: Book First, Chapter I
 chapter_slug: 123
 variant_id: "20085efa-03cd-587c-b6f4-a7dbb27c402c"
 content_type: translation
@@ -13,19 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 361
+word_count: 346
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-A criticism of Gaunilon’s example, in which he tries to show that in this way the real existence of a lost island might be inferred from the fact of its being conceived.
+The question on which the whole work rests.
 
-But, you say, it is as if one should suppose an island in the ocean, which surpasses all lands in its fertility, and which, because of the difficulty, or rather the impossibility, of discovering what does not exist, is called a lost island; and should say that there can be no doubt that this island truly exists in reality, for this reason, that one who hears it described easily understands what he hears.
-
-Now I promise confidently that if any man shall devise anything existing either in reality or in concept alone (except that than which a greater cannot be conceived) to which he can adapt the sequence of my reasoning, I will discover that thing, and will give him his lost island, not to be lost again.
-
-But it now appears that this being than which a greater is inconceivable cannot be conceived not to Edition: current; Page: [159] be, because it exists on so assured a ground of truth; for otherwise it would not exist at all.
-
-Hence, if any one says that he conceives this being not to exist, I say that at the time when he conceives of this either he conceives of a being than which a greater is inconceivable, or he does not conceive at all. If he does not conceive, he does not conceive of the non-existence of that of which he does not conceive. But if he does conceive, he certainly conceives of a being which cannot be even conceived not to exist. For if it could be conceived not to exist, it could be conceived to have a beginning and an end. But this is impossible.
-
-He, then, who conceives of this being conceives of a being which cannot be even conceived not to exist; but he who conceives of this being does not conceive that it does not exist; else he conceives what is inconceivable. The non-existence, then, of that than which a greater cannot be conceived is inconceivable.
+I have been often and most earnestly requested by many, both personally and by letter, that I would hand down in writing the proofs of a certain doctrine of our faith, which I am accustomed to give to inquirers; for they say that these proofs gratify them, and are considered sufficient. This they ask, not for the sake of attaining to faith by means of reason, but that they may be gladdened by understanding and meditating on those things which they believe; and that, as far as possible, they may be always ready to convince any one who demands of them a reason of that hope which is in us. And this question, both infidels are accustomed to bring up against us, ridiculing Christian simplicity as absurd; and many believers ponder it in their hearts; for what cause or necessity, in sooth, God became man, and by his own death, as we believe and affirm, restored life to the world; when he might have done this, by means of some other being, angelic or human, or merely by his will. Not only the learned, but also many unlearned persons interest themselves in this inquiry and seek for its solution. Therefore, since many desire to consider this subject, and, though it seem very difficult in the investigation, it is yet plain to all in the solution, and attractive for the value and beauty of the reasoning; although what ought to be sufficient has been said by the holy fathers and their successors, yet I will take pains to disclose to inquirers what God has seen fit to lay open to me. And since investigations, which are carried on by question and answer, are thus made more plain to many, and especially to less quick minds, and on that account are more gratifying, I will take to argue with me one of those persons who agitate this subject; one, who among the rest impels me more earnestly to it, so that in this way Boso may question and Anselm reply.

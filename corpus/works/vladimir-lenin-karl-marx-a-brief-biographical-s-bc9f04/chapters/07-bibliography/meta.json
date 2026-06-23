@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-karl-marx-a-brief-biographical-s-bc9f04",
+  "work_title": "Karl Marx: A Brief Biographical Sketch With an Exposition of Marxism",
+  "chapter_number": 7,
+  "chapter_title": "Bibliography",
+  "chapter_slug": "07-bibliography",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97a42787-dd50-5aba-b775-8c758eb14b36",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3735,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1914/granat/ch06.htm"
+    }
+  ]
+}

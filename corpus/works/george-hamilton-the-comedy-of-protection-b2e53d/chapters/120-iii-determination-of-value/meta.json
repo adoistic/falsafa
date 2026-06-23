@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 120,
+  "chapter_title": "Iii.—: Determination of Value.",
+  "chapter_slug": "120-iii-determination-of-value",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c5be95b3-e8bd-5f82-b04f-3ee89c2221f2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 250,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

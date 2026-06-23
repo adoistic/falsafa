@@ -2,7 +2,7 @@
   "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
   "work_title": "A Treatise on Political Economy (Biddle ed.)",
   "chapter_number": 4,
-  "chapter_title": "BOOK I, CHAPTER I.: OF WHAT IS TO BE UNDERSTOOD BY THE TERM, PRODUCTION.",
+  "chapter_title": "Book I, Chapter III: Of the Nature of Capital, and the Mode in Which It Concurs in the Business of Production.",
   "chapter_slug": "04",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 989,
-      "paragraph_count": 12,
+      "word_count": 703,
+      "paragraph_count": 9,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
     }

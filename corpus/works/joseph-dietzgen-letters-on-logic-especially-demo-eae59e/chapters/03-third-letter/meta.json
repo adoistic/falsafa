@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-letters-on-logic-especially-demo-eae59e",
+  "work_title": "Letters on Logic. Especially Democratic-Proletarian Logic",
+  "chapter_number": 3,
+  "chapter_title": "Third Letter",
+  "chapter_slug": "03-third-letter",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d98cdc8-53e7-5476-96c0-1a0c8140a230",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1477,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1870s/letters-on-logic.htm"
+    }
+  ]
+}

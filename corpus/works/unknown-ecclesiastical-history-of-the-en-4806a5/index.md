@@ -3,8 +3,11 @@ id: "4806a5b9-78e5-54fd-be3d-eab24275020c"
 slug: "unknown-ecclesiastical-history-of-the-en-4806a5"
 title: Ecclesiastical History of the English Nation
 author:
-  name: "Bede"
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  name: Bede
+  biography: "Northumbrian monk of the twin monastery of Wearmouth-Jarrow, scholar of scripture, chronology, and history. The Ecclesiastical History of the English Nation gave the English their first connected history and spread the dating of years from the Incarnation."
+  birth_year: 673
+  death_year: 735
+  nationality: English
 era: Medieval
 genre: Classics
 language: Latin

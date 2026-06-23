@@ -1,0 +1,26 @@
+{
+  "work_slug": "josef-stalin-marxism-and-the-national-questio-0dcda0",
+  "work_title": "Marxism and the National Question",
+  "chapter_number": 2,
+  "chapter_title": "I. The Nation",
+  "chapter_slug": "02-i-the-nation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "861b14e3-1c2f-5e84-ba2d-cb4165269575",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2559,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/stalin/works/1913/03a.htm"
+    }
+  ]
+}

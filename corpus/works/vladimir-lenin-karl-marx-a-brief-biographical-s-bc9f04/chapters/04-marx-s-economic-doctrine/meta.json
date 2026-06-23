@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-karl-marx-a-brief-biographical-s-bc9f04",
+  "work_title": "Karl Marx: A Brief Biographical Sketch With an Exposition of Marxism",
+  "chapter_number": 4,
+  "chapter_title": "Marx’s Economic Doctrine",
+  "chapter_slug": "04-marx-s-economic-doctrine",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b524c6d-3788-5d53-a689-3deecac14c1f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4301,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1914/granat/ch03.htm"
+    }
+  ]
+}

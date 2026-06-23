@@ -1,0 +1,26 @@
+{
+  "work_slug": "georg-wilhelm-friedrich--lectures-on-the-history-of-philo-a75529",
+  "work_title": "Lectures on the History of Philosophy",
+  "chapter_number": 32,
+  "chapter_title": "1. The First Principles of Fichte's Philosophy.",
+  "chapter_slug": "32-1-the-first-principles-of-fichtes-philosophy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9c390df5-6151-5902-b879-3b9bb07b1a21",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7905,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/hegel/works/hp/hpfichte.htm"
+    }
+  ]
+}

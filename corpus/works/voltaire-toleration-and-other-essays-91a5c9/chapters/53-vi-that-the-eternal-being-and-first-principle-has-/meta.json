@@ -1,0 +1,26 @@
+{
+  "work_slug": "voltaire-toleration-and-other-essays-91a5c9",
+  "work_title": "Toleration and Other Essays",
+  "chapter_number": 53,
+  "chapter_title": "VI: That the Eternal Being, and First Principle, Has Arranged All Things Voluntarily",
+  "chapter_slug": "53-vi-that-the-eternal-being-and-first-principle-has-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "84c17fc5-fa95-5557-88ee-eec92370cd2c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 254,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+    }
+  ]
+}

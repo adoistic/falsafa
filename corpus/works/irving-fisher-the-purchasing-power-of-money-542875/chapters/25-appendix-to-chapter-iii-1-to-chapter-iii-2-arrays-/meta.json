@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 25,
+  "chapter_title": "Appendix to Chapter III, § 1 (to Chapter III, § 2) \"Arrays\" of k's and r's",
+  "chapter_slug": "25-appendix-to-chapter-iii-1-to-chapter-iii-2-arrays-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c930d86a-8ff0-58af-890e-f3caac703f09",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 318,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-imperialism-a-study-71797f",
+  "work_title": "Imperialism: A Study",
+  "chapter_number": 10,
+  "chapter_title": "Appendix. National Expenditure and Armaments, Part I, Chapter VI: The Economic Taproot of Imperialism",
+  "chapter_slug": "10-appendix-national-expenditure-and-armaments-part-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8af26ce-2427-5930-b409-65fcd0888148",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6580,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hobson-imperialism-a-study"
+    }
+  ]
+}

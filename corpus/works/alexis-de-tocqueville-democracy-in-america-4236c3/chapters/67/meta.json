@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 67,
+  "chapter_title": "Chapter IX: That The Americans Apply The Principle Of Interest Rightly Understood To Religious Matters",
+  "chapter_slug": "67",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6d657af3-4125-58ea-9ed6-9f2fa6b35e28",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 829,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch29.htm"
+    }
+  ]
+}

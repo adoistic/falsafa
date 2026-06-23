@@ -4,7 +4,7 @@ work_slug: "wilhelm-von-humboldt-the-sphere-and-duties-of-governm-76de6e"
 work_title: The Sphere and Duties of Government
 author_name: Wilhelm von Humboldt
 chapter_number: 2
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "02-preface"
 variant_id: "847c8200-5c1e-5a1c-b83e-51f72aa02eb0"
 content_type: translation

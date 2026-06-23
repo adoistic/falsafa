@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-calvin-the-institutes-of-the-christian--c755fe",
+  "work_title": "The Institutes of the Christian Religion",
+  "chapter_number": 52,
+  "chapter_title": "Tenth Commandment.: Thou Shalt Not Covet Thy Neighbour’s House, Thou Shalt Not Covet Thy Neighbour’s Wife, nor His Man-s",
+  "chapter_slug": "52-tenth-commandment-thou-shalt-not-covet-thy-neighbo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5218e356-7dcd-55b1-af9d-2635afb5e9b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4109,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/calvin-the-institutes-of-the-christian-religion"
+    }
+  ]
+}

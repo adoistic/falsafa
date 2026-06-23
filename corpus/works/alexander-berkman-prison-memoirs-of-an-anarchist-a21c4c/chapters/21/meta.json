@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 21,
+  "chapter_title": "Part 2, Chapter 1 : Desperate Thoughts",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3cd33b92-bd9b-52d4-bfd7-26748d114776",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1404,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-1.html"
+    }
+  ]
+}

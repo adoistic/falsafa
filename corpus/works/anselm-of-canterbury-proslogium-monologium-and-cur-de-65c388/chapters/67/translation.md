@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 67
-chapter_title: CHAPTER XXVII.
+chapter_title: Chapter XXXI.
 chapter_slug: 67
 variant_id: "213058d2-c5c1-528e-888b-5794f9defcde"
 content_type: translation
@@ -13,15 +13,29 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 281
+word_count: 911
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-It is not included among substances as commonly treated, yet it is a substance and an indivisible spirit.
+This expression does not consist of more words than one, but is one Word.
 
-It is, therefore, evident that in any ordinary treatment of substance, this Substance cannot be included, from sharing in whose essence every nature is excluded. Indeed, since every substance is treated either as universal, i.e., as essentially common to more than one substance, as being a man is common to individual men; or as individual, having a universal essence in common with others, as individual men have in common with individual men the fact that they are men; does any one conceive that, in the treatment of other substances, that supreme Nature is included, which neither divides itself into more substances than one, Edition: current; Page: [87] nor unites with any other, by virtue of a common essence?
+Why, then, should I have any further doubt regarding that question which I dismissed above as doubtful, namely, whether this expression consists of more words than one, or of one? For, if it is so consubstantial with the supreme Nature that they are not two spirits, but one; assuredly, just as the latter is supremely simple, so is the former. It therefore does not consist of more words than one, but is one Word, through which all things were created.
 
-Yet, seeing that it not only most certainly exists, but exists in the highest degree of all things; and since the essence of anything is usually called its substance, doubtless if any worthy name can be given it, there is no objection to our calling it substance.
+This Word itself is not the likeness of created beings, but the reality of their being, while created beings are a kind of likeness of reality.—What natures are greater and more excellent than others.
 
-And since no worthier essence than spirit and body is known, and of these, spirit is more worthy than body, it must certainly be maintained that this Being is spirit and not body. But, seeing that one spirit has not any parts, and there cannot be more spirits than one of this kind, it must, by all means, be an indivisible spirit. For since, as is shown above, it is neither compounded of parts, nor can be conceived of as mutable, through any differences or accidents, it is impossible that it is divisible by any form of division.
+But here, it seems to me, there arises a question that is not easy to answer, and yet must not be left in any ambiguity. For all words of that sort by which we express any objects in our mind, that is, conceive of them, are likenesses and images of the objects to which they correspond; and every likeness or image is more or less true, according as it more or less closely imitates the object of which it is the likeness.
+
+What, then, is to be our position regarding the Word by which all things are expressed, and through which all were created? Will it be, or will it not be, the likeness of the things that have been created through itself? For, if it is itself the true likeness of mutable things, it is not consubstantial with supreme immutability; which is false. But, if it is not altogether true, and is merely a sort of likeness of mutable things, then the Word of supreme Truth is not altogether true; which is absurd. But if it has no likeness to mutable things, how were they created after its example?
+
+But perhaps nothing of this ambiguity will remain if—as the reality of a man is said to be the living man, but the likeness or image of a man in his picture—so the reality of being is conceived of as in the Word, whose essence exists so supremely that in a certain sense it alone exists; while in these things which, in comparison with that Essence, are in some sort non-existent, and yet were made something through, and according to, that Word, a kind of imitation of that supreme Essence is found.
+
+For, in this way the Word of supreme Truth, which is also itself supreme Truth, will experience neither gain nor loss, according as it is more or less like its creatures. But the necessary inference will rather be, that every created being exists in so much the greater degree, or is so much the more excellent, the more like it is to what exists supremely, and is supremely great.
+
+For on this account, perhaps,—nay, not perhaps, but certainly,—does every mind judge natures in any way alive to excel those that are not alive, the sentient to excel the non-sentient, the rational the irrational. For, since the supreme Nature, after a certain unique manner of its own, not only exists, but lives, and is sentient and rational, it is clear that, of all existing beings, that which is in some way alive is more like this supreme Nature, than that which is not alive at all; and what, in any way, even by a corporeal sense, cognises anything, is more like this Nature than what is not sentient at all; and what is rational, more than what is incapable of reasoning.
+
+But it is clear, for a like reason, that certain natures exist in a greater or less degree than others. For, just as that is more excellent by nature which, through its natural essence, is nearer to the most excellent Being, so certainly that nature exists in a greater degree, whose essence is more like the supreme Essence. And I think that this can easily be ascertained as follows. If we should conceive any substance that is alive, and sentient, and rational, to be deprived of its reason, then of its sentience, then of its life, and finally of the bare existence that remains, who would fail to understand that the substance that is thus destroyed, little by little, is gradually brought to smaller and smaller degrees of existence, and at last to non-existence? But the attributes which, taken each by itself, reduce an essence to less and less degrees of existence, if assumed in order, lead it to greater and greater degrees.
+
+It is evident, then, that a living substance exists in a greater degree than one that is not living, a sentient than a non-sentient, and a rational than a non-rational. So, there is no doubt that every substance exists in a greater degree, and is more excellent, according as it is more like that substance which exists supremely and is supremely excellent.
+
+It is sufficiently clear, then, that in the Word, through which all things were created, is not their likeness, but their true and simple essence; while, in the things created, there is not a simple and absolute essence, but an imperfect imitation of that true Essence. Hence, it necessarily follows, that this Word is not more nor less true, according to its likeness to the things created, but every created nature has a higher essence and dignity, the more it is seen to approach that Word.

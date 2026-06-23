@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 26,
+  "chapter_title": "Max Verworn. The Hypothesis of Biogenesis. Jena, 1903",
+  "chapter_slug": "26-max-verworn-the-hypothesis-of-biogenesis-jena-1903",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10536389-287e-52b3-8aa5-5b6df4329507",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 255,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1915/misc/x06.htm"
+    }
+  ]
+}

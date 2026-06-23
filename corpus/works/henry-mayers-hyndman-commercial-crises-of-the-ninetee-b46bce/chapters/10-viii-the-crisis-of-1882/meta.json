@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-mayers-hyndman-commercial-crises-of-the-ninetee-b46bce",
+  "work_title": "Commercial Crises of the Nineteenth Century",
+  "chapter_number": 10,
+  "chapter_title": "VIII. The Crisis of 1882",
+  "chapter_slug": "10-viii-the-crisis-of-1882",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "be7dc6f8-f8ad-5c25-8626-021d65c935b6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3510,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hyndman/1892/crises/ch08.html"
+    }
+  ]
+}

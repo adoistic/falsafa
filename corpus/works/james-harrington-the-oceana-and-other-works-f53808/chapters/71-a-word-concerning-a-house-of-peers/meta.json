@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 71,
+  "chapter_title": "A Word Concerning a House of Peers.",
+  "chapter_slug": "71-a-word-concerning-a-house-of-peers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "50362048-72e2-5f1f-864c-8fba22adaae9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2024,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

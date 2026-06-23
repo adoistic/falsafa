@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "work_title": "Philosophical Notebooks (Collected Works, Volume 38)",
+  "chapter_number": 37,
+  "chapter_title": "G. V. Plekhanov. Fundamental Questions of Marxism. St. Ptsbrg, 1908",
+  "chapter_slug": "37-g-v-plekhanov-fundamental-questions-of-marxism-st-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "068b1cd9-1a67-5e94-8f3e-ceba050c874a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1071,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1908/remarks/ch01.htm"
+    }
+  ]
+}

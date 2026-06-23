@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69",
+  "work_title": "Political Economy and the Philosophy of Government",
+  "chapter_number": 41,
+  "chapter_title": "Extract from a Letter, June 6Th, 1835.",
+  "chapter_slug": "41-extract-from-a-letter-june-6th-1835",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9c2aee2-d7ca-5028-a9ae-03a81fd7eb49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 933,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+    }
+  ]
+}

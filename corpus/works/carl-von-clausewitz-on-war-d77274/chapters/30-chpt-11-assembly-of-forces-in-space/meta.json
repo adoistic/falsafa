@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-von-clausewitz-on-war-d77274",
+  "work_title": "On War",
+  "chapter_number": 30,
+  "chapter_title": "Chpt. 11 Assembly of Forces in Space",
+  "chapter_slug": "30-chpt-11-assembly-of-forces-in-space",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "75afef52-9d1f-553d-8dc3-bc89e5ad8c6d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 211,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch11.htm"
+    }
+  ]
+}

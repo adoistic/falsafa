@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-right-of-nations-to-self-det-5fba7c",
+  "work_title": "The Right of Nations to Self-Determination",
+  "chapter_number": 9,
+  "chapter_title": "9. The 1903 Programme and Its Liquidators",
+  "chapter_slug": "09-9-the-1903-programme-and-its-liquidators",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cb88f4e1-754e-5217-a1de-765804b997fa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2943,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1914/self-det/ch09.htm"
+    }
+  ]
+}

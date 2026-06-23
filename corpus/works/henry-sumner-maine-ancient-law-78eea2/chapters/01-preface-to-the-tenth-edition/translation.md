@@ -4,7 +4,7 @@ work_slug: "henry-sumner-maine-ancient-law-78eea2"
 work_title: Ancient Law
 author_name: Henry Sumner Maine
 chapter_number: 1
-chapter_title: PREFACE TO THE TENTH EDITION.
+chapter_title: Preface to the Tenth Edition.
 chapter_slug: "01-preface-to-the-tenth-edition"
 variant_id: "00758654-5544-5484-9751-f1e6cec8d733"
 content_type: translation

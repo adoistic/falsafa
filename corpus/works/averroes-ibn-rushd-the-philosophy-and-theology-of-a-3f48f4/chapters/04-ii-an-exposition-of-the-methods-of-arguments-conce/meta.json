@@ -1,0 +1,26 @@
+{
+  "work_slug": "averroes-ibn-rushd-the-philosophy-and-theology-of-a-3f48f4",
+  "work_title": "The Philosophy and Theology of Averroes",
+  "chapter_number": 4,
+  "chapter_title": "II: An Exposition of the Methods of Arguments Concerning the Beliefs of the Faith, and a Determination of Uncertain Doub",
+  "chapter_slug": "04-ii-an-exposition-of-the-methods-of-arguments-conce",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a38a4bb8-a771-5cba-bc8b-d8c5d8a6d1b9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8153,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rushd-the-philosophy-and-theology-of-averroes"
+    }
+  ]
+}

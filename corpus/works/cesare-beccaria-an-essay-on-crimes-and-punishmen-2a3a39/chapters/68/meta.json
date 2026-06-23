@@ -2,7 +2,7 @@
   "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
   "work_title": "An Essay on Crimes and Punishments",
   "chapter_number": 68,
-  "chapter_title": "CHAPTER XIX.: ON SUICIDE.",
+  "chapter_title": "Chapter XX.: On a Certain Species of Mutilation.",
   "chapter_slug": "68",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,8 +17,8 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 558,
-      "paragraph_count": 6,
+      "word_count": 178,
+      "paragraph_count": 3,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
     }

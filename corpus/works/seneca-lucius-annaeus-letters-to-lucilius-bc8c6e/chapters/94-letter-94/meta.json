@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+  "work_title": "Letters to Lucilius",
+  "chapter_number": 94,
+  "chapter_title": "Letter 94",
+  "chapter_slug": "94-letter-94",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6753768c-2dc3-5bf8-b6c8-e2a8d3d18678",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3603,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "46e5593b-6a44-59aa-98d8-a4554ee9bdb7",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6116,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

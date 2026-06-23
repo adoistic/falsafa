@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-kronstadt-rebellion-9c07ad",
+  "work_title": "The Kronstadt Rebellion",
+  "chapter_number": 8,
+  "chapter_title": "Lessons and Significance of Kronstadt",
+  "chapter_slug": "08-lessons-and-significance-of-kronstadt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc3a34b1-d2e0-54aa-b078-280b9a498fe1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1077,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1922/kronstadt-rebellion/afterword.htm"
+    }
+  ]
+}

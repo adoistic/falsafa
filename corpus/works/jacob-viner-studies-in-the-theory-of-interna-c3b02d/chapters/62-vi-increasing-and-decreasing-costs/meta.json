@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 62,
+  "chapter_title": "VI. Increasing and Decreasing Costs",
+  "chapter_slug": "62-vi-increasing-and-decreasing-costs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "664b13f2-8d9f-5348-9b07-73015934a37b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4316,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

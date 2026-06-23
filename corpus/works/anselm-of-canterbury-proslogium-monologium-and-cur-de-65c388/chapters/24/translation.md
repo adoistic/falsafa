@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 24
-chapter_title: CHAPTER XI.
+chapter_title: Chapter XIII (1)
 chapter_slug: 24
 variant_id: "23db44c7-d78d-58c0-b426-eb09db323818"
 content_type: translation
@@ -13,17 +13,21 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 363
+word_count: 369
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How all the ways of God are compassion and truth; and yet God is just in all his ways —We cannot comprehend why, of the wicked, he saves these rather than those, through his supreme goodness; and condemns those rather than these, through his supreme justice.
+God is the very life whereby he lives: and so of other like attributes
 
-But, is there any reason why it is not also just, according to thy nature, O Lord, that thou shouldst punish the wicked? Surely it is just that thou shouldst be so just that thou canst not be conceived more just; and this thou wouldst in no wise be if thou didst only render goods to the good, and not evils to the evil For, he who requiteth both good and evil according to their deserts is more just than he who so requites the good alone. It is, therefore, just, according to thy nature, O just and gracious God, both when thou dost punish and when thou sparest.
+But undoubtedly, whatever thou art, thou art through nothing else than thyself. Therefore, thou art the very life whereby thou livest; and the wisdom wherewith thou art wise; and the very goodness whereby thou art good to the righteous and the wicked; and so of other like attributes.
 
-Truly, then, all the paths of the Lord are mercy and truth (Psalms xxv. 10); and yet the Lord is righteous in all his ways (Psalms cxlv. 17). And assuredly without inconsistency: For, it is not just that those whom thou dost will to punish should be saved, and that those whom thou dost will to spare should be condemned. For that alone is just which thou dost will; and that alone unjust which thou dost not will. So, then, thy compassion is born of thy justice.
+How he alone is uncircumscribed and eternal, although other spirits are uncircumscribed and eternal —No place and time contain God. But he is himself everywhere and always He alone not only does not cease to be, but also does not begin to be.
 
-For it is just that thou shouldst be so good that thou art good in sparing also; and this may be the reason why the supremely Just can will goods for the veil. But if it can be comprehended in any way why thou canst will to save the wicked, yet by no consideration can we comprehend why, of those who are Edition: current; Page: [19] alike wicked, thou savest some rather than others, through supreme goodness; and why thou dost condemn the latter rather than the former, through supreme justice.
+But everything that is in any way bounded by place or time is less than that which no law of place or time limits. Since, then, nothing is greater than thou, no place or time contains thee; but thou art everywhere and always. And since this can be said of thee alone, thou alone art uncircumscribed and eternal. How is it, then, that other spirits also are said to be uncircumscribed and eternal?
 
-So, then, thou art truly sensible (sensibilis), omnipotent, compassionate, and passionless, as thou art living, wise, good, blessed, eternal: and whatever it is better to be than not to be.
+Assuredly thou art alone eternal; for thou alone among all beings not only dost not cease to be, but also dost not begin to be.
+
+But how art thou alone uncircumscribed? Is it that a created spirit, when compared with thee, is circumscribed, but when compared with matter, uncircumscribed? For altogether circumscribed is that which, when it is wholly in one place, cannot at the same time be in another. And this is seen to be true of corporeal things alone. But uncircumscribed is that which is, as a whole, at the same time everywhere. And this is understood to be true of thee alone. But circumscribed, and, at the same time, uncircumscribed is that which, when it is anywhere as a whole, can at the same time be somewhere else as a whole, and yet not everywhere. And this is recognised as true of created spirits. For, if the soul were not as a whole in the separate members of the body, it would not feel as a whole in the separate members.
+
+Therefore, thou, Lord, art peculiarly uncircumscribed and eternal; and yet other spirits also are uncircumscribed and eternal.

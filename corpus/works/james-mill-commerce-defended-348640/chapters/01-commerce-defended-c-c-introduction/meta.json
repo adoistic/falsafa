@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mill-commerce-defended-348640",
+  "work_title": "Commerce Defended",
+  "chapter_number": 1,
+  "chapter_title": "Commerce Defended, &c. &c, Introduction.",
+  "chapter_slug": "01-commerce-defended-c-c-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b71d5a45-63d5-573c-bd69-098e7a04883c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1350,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mill-commerce-defended-1808"
+    }
+  ]
+}

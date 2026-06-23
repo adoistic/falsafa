@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-rights-of-war-and-peace-0db900"
 work_title: The Rights of War and Peace
 author_name: Hugo Grotius
 chapter_number: 37
-chapter_title: "CHAPTER VII.: On the Right Over Prisoners of War."
+chapter_title: "Chapter VII.: On the Right Over Prisoners of War."
 chapter_slug: 37
 variant_id: "f3fa01d5-f696-54b4-a5be-780b16660b6b"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 805
+word_count: 801
 source_url: "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
 translator: Online Library of Liberty edition
 ---
@@ -38,4 +38,4 @@ VI. (being the IX. of the original.) It has long been a maxim, universally recei
 
 And this, as Gregoras informs us, became a traditionary principle among all who professed one common religion; nor was it confined to those, who lived under the authority of the Roman empire, but prevailed among the Thessalians, the Illyrians, the Triballians, and Bulgarians.— Though such an abolition of slavery, and mitigation of captivity may be considered as of trivial import, yet they were effects produced by the introduction of the Christian religion, especially upon recollection that Socrates tried, but without effect, to prevail upon the Greeks to forbear making slaves of each other.
 
-In this respect the Mahometans act towards each other in the same manner as Christians do. Though it Edition: current; Page: [347] is still the practice among Christian powers to detain prisoners of war, till their ransom be paid, the amount of which depends upon the will of the Conqueror, unless it has been settled by express treaty. The right of detaining such prisoners has sometimes been allowed to the individuals, who took them, except where the prisoners were personages of extraordinary rank, who were always considered as prisoners of war to the state.
+In this respect the Mahometans act towards each other in the same manner as Christians do. Though it is still the practice among Christian powers to detain prisoners of war, till their ransom be paid, the amount of which depends upon the will of the Conqueror, unless it has been settled by express treaty. The right of detaining such prisoners has sometimes been allowed to the individuals, who took them, except where the prisoners were personages of extraordinary rank, who were always considered as prisoners of war to the state.

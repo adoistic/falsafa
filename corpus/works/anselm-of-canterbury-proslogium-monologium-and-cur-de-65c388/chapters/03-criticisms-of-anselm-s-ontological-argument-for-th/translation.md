@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 3
-chapter_title: CRITICISMS OF ANSELM’S ONTOLOGICAL ARGUMENT FOR THE BEING OF GOD. DESCARTES.
+chapter_title: Criticisms of Anselm’s Ontological Argument for the Being of God. Descartes.
 chapter_slug: "03-criticisms-of-anselm-s-ontological-argument-for-th"
 variant_id: "76bce6ae-4dc9-51c8-bb32-5ed5052297fd"
 content_type: translation

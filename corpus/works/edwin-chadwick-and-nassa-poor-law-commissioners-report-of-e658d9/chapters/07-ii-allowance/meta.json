@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 7,
+  "chapter_title": "II. Allowance.",
+  "chapter_slug": "07-ii-allowance",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f6c2b35a-a165-5a2a-9c20-7bb3ae060496",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4602,
+      "paragraph_count": 73,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

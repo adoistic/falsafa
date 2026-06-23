@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-lafargue-the-evolution-of-property-from-s-62aca7",
+  "work_title": "The Evolution of Property from Savagery to Civilization",
+  "chapter_number": 7,
+  "chapter_title": "IV. Feudal Property",
+  "chapter_slug": "07-iv-feudal-property",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ebb6f42-8008-5b27-a5d1-89fe3170d425",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 838,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lafargue/1890/property/4-feudal.html"
+    }
+  ]
+}

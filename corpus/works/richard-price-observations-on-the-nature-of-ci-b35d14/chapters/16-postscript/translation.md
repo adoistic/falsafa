@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 16
-chapter_title: POSTSCRIPT.
+chapter_title: Postscript.
 chapter_slug: "16-postscript"
 variant_id: "c67617ba-9181-575a-a4eb-bd1e94842efe"
 content_type: translation

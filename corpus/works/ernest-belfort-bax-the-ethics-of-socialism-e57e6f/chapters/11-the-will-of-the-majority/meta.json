@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-the-ethics-of-socialism-e57e6f",
+  "work_title": "The Ethics of Socialism",
+  "chapter_number": 11,
+  "chapter_title": "The Will of the Majority",
+  "chapter_slug": "11-the-will-of-the-majority",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9f48391-5cc5-55b8-aa61-9f725defa363",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2615,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1893/ethics/10-majority.htm"
+    }
+  ]
+}

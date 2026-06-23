@@ -1,0 +1,26 @@
+{
+  "work_slug": "frederick-engels-the-condition-of-the-working-cla-2d9e0a",
+  "work_title": "The Condition of the Working Class in England",
+  "chapter_number": 9,
+  "chapter_title": "Single Branches of Industry",
+  "chapter_slug": "09-single-branches-of-industry",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c8d0c881-6bc8-5146-b9cb-5fc5e461822c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 20051,
+      "paragraph_count": 95,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch08.htm"
+    }
+  ]
+}

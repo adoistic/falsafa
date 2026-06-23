@@ -4,7 +4,7 @@ work_slug: "henry-george-progress-and-poverty-edf98e"
 work_title: Progress and Poverty
 author_name: Henry George
 chapter_number: 23
-chapter_title: Chapter I The Dynamics of the Problem Yet to Seek
+chapter_title: Book IV Effect of Material Progress Upon the Distribution of Wealth, Chapter I The Dynamics of the Problem Yet to Seek
 chapter_slug: 23
 variant_id: "cb02b216-5a5f-57ce-8f66-82330809d34f"
 content_type: translation
@@ -13,10 +13,12 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 574
+word_count: 594
 source_url: "https://oll.libertyfund.org/titles/george-progress-and-poverty"
 translator: Online Library of Liberty edition
 ---
+
+Hitherto, it is questionable if all the mechanical inventions yet made have lightened the day’s toil of any human being.
 
 In identifying rent as the receiver of the increased production which material progress gives, but which labor fails to obtain; in seeing that the antagonism of interests is not between labor and capital, as is popularly believed, but is in reality between labor and capital on the one side and land ownership on the other, we have reached a conclusion that has most important practical bearings. But it is not worth while to dwell on them now, for we have not yet fully solved the problem which was at the outset proposed. To say that wages remain low because rent advances is like saying that a steamboat moves because its wheels turn around. The further question is, what causes rent to advance? What is the force or necessity that, as productive power increases, distributes a greater and greater proportion of the produce as rent?
 

@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 13,
+  "chapter_title": "Chapter VIII: The Federal Constitution – Part I",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "82253c3f-396a-5c54-8ed1-49e50d41d341",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4206,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch08.htm"
+    }
+  ]
+}

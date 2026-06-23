@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7",
+  "work_title": "Memoirs of a Revolutionist",
+  "chapter_number": 8,
+  "chapter_title": "Part 1: Childhood, Section 6",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "17de36cc-9673-56bb-a020-afb16dbc4a6d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2615,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/kropotkin-peter/1899/memoirs-of-a-revolutionist/part-1-section-6.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "baron-dholbach-elements-of-universal-morality-o-f65f86",
+  "work_title": "Elements of Universal Morality, or Universal Catechism",
+  "chapter_number": 1,
+  "chapter_title": "Elements of Universal Morality, or Universal Catechism",
+  "chapter_slug": "01-elements-of-universal-morality-or-universal-catech",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "17dd6d09-af51-5ece-ae77-89bca0caf2d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 19248,
+      "paragraph_count": 665,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/holbach/1765/catechism.htm"
+    }
+  ]
+}

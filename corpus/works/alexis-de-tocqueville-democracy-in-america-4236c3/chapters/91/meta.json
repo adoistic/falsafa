@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 91,
+  "chapter_title": "Chapter XIV: Some Reflections On American Manners",
+  "chapter_slug": "91",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "efc66b7c-3215-5c8a-b41e-08fad182aa85",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1470,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch35.htm"
+    }
+  ]
+}

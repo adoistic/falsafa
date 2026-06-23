@@ -1,0 +1,27 @@
+---
+work_id: "4236c39f-c0d0-5a54-8dc7-6901642e8c28"
+work_slug: "alexis-de-tocqueville-democracy-in-america-4236c3"
+work_title: Democracy in America
+author_name: Alexis de Tocqueville
+chapter_number: 79
+chapter_title: "Chapter II: That Democracy Renders The Habitual Intercourse Of The Americans Simple And Easy"
+chapter_slug: 79
+variant_id: "d6682337-383d-55d0-b5af-c960dfcaaf7a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 839
+source_url: "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch32.htm"
+translator: Henry Reeve
+---
+
+Democracy does not attach men strongly to each other; but it places their habitual intercourse upon an easier footing. If two Englishmen chance to meet at the Antipodes, where they are surrounded by strangers whose language and manners are almost unknown to them, they will first stare at each other with much curiosity and a kind of secret uneasiness; they will then turn away, or, if one accosts the other, they will take care only to converse with a constrained and absent air upon very unimportant subjects. Yet there is no enmity between these men; they have never seen each other before, and each believes the other to be a respectable person. Why then should they stand so cautiously apart? We must go back to England to learn the reason.
+
+When it is birth alone, independent of wealth, which classes men in society, everyone knows exactly what his own position is upon the social scale; he does not seek to rise, he does not fear to sink. In a community thus organized, men of different castes communicate very little with each other; but if accident brings them together, they are ready to converse without hoping or fearing to lose their own position. Their intercourse is not upon a footing of equality, but it is not constrained. When moneyed aristocracy succeeds to aristocracy of birth, the case is altered. The privileges of some are still extremely great, but the possibility of acquiring those privileges is open to all: whence it follows that those who possess them are constantly haunted by the apprehension of losing them, or of other men’s sharing them; those who do not yet enjoy them long to possess them at any cost, or, if they fail to appear at least to possess them – which is not impossible. As the social importance of men is no longer ostensibly and permanently fixed by blood, and is infinitely varied by wealth, ranks still exist, but it is not easy clearly to distinguish at a glance those who respectively belong to them. Secret hostilities then arise in the community; one set of men endeavor by innumerable artifices to penetrate, or to appear to penetrate, amongst those who are above them; another set are constantly in arms against these usurpers of their rights; or rather the same individual does both at once, and whilst he seeks to raise himself into a higher circle, he is always on the defensive against the intrusion of those below him.
+
+Such is the condition of England at the present time; and I am of opinion that the peculiarity before adverted to is principally to be attributed to this cause. As aristocratic pride is still extremely great amongst the English, and as the limits of aristocracy are ill-defined, everybody lives in constant dread lest advantage should be taken of his familiarity. Unable to judge at once of the social position of those he meets, an Englishman prudently avoids all contact with them. Men are afraid lest some slight service rendered should draw them into an unsuitable acquaintance; they dread civilities, and they avoid the obtrusive gratitude of a stranger quite as much as his hatred. Many people attribute these singular anti-social propensities, and the reserved and taciturn bearing of the English, to purely physical causes. I may admit that there is something of it in their race, but much more of it is attributable to their social condition, as is proved by the contrast of the Americans.
+
+In America, where the privileges of birth never existed, and where riches confer no peculiar rights on their possessors, men unacquainted with each other are very ready to frequent the same places, and find neither peril nor advantage in the free interchange of their thoughts. If they meet by accident, they neither seek nor avoid intercourse; their manner is therefore natural, frank, and open: it is easy to see that they hardly expect or apprehend anything from each other, and that they do not care to display, any more than to conceal, their position in the world. If their demeanor is often cold and serious, it is never haughty or constrained; and if they do not converse, it is because they are not in a humor to talk, not because they think it their interest to be silent. In a foreign country two Americans are at once friends, simply because they are Americans. They are repulsed by no prejudice; they are attracted by their common country. For two Englishmen the same blood is not enough; they must be brought together by the same rank. The Americans remark this unsociable mood of the English as much as the French do, and they are not less astonished by it. Yet the Americans are connected with England by their origin, their religion, their language, and partially by their manners; they only differ in their social condition. It may therefore be inferred that the reserve of the English proceeds from the constitution of their country much more than from that of its inhabitants.

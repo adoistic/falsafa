@@ -4,7 +4,7 @@ work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4"
 work_title: A Select Collection of Scarce and Valuable Tracts on Money
 author_name: John Ramsay McCulloch (ed.)
 chapter_number: 14
-chapter_title: "CHAP. XII.: Of the raising of the Price of Moneys by our Neighbours, and the defect of our not raising of our Moneys acc"
+chapter_title: "Chap. XII.: Of the raising of the Price of Moneys by our Neighbours, and the defect of our not raising of our Moneys acc"
 chapter_slug: "14-chap-xii-of-the-raising-of-the-price-of-moneys-by-"
 variant_id: "485523f2-86e9-5098-9cde-580d80d61d6c"
 content_type: translation

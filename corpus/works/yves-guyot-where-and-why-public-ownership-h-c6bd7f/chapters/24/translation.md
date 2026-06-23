@@ -4,7 +4,7 @@ work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
 work_title: Where and Why Public Ownership Has Failed
 author_name: Yves Guyot
 chapter_number: 24
-chapter_title: "CHAPTER XVI: VICTIMS OF GOVERNMENT OWNERSHIP"
+chapter_title: "Chapter XVIII: Fictitious Profits"
 chapter_slug: 24
 variant_id: "4c2b1595-d8b4-5619-8821-41fb439f7bb0"
 content_type: translation
@@ -13,23 +13,25 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 332
+word_count: 495
 source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
 translator: Online Library of Liberty edition
 ---
 
-The Mayor of Elbeuf, M. Mouchel, and Gas Service.—The Mayor of Milwaukee.
+Railway Charges.—Local Taxes on Prussian and English Railways.—The Victorian State Coal Mine and the Government Railways.—New Zealand.—Profits of the National Printing Office.—The Insurance Monopoly.
 
-A high school professor of Elbeuf, M. Mouchel, afterward mayor of that city for 17 years, and finally deputy, was attacked by the municipalization mania. He municipalized water, electricity, gas, the collection and disposal of garbage, and the burial of the dead. February 28, 1911, there appeared in the Dépêche de Rouen a highly eulogistic article extolling his work. On October 15 of the same year the mayor was obliged to confess that his attempts at municipalization were causing a deficit of 180,000 francs ($34,200) in a budget of 800,000 francs ($152,000). A sum of 250,000 francs ($47,500) would be necessary to cover the losses.
+Private enterprises are subject to certain charges from which state undertakings are exempt. These exemptions create an illusion of profit. Local taxes paid by the government railroads in Prussia amount to £750,000 ($3,652,500), while similar taxes, paid by the railways of the United Kingdom, having nearly the same length of line, reach £5,000,000 ($24,350,000). If both were taxed at the same rate the profit on the government railroads in Prussia would be proportionally reduced.
 
-After confessing his delusions and deceptions before a meeting of the municipal council M. Mouchel committed suicide in the cellar of the town hall.
+Further, the profits of one state undertaking are frequently obtained only at the expense of another. For example, the Victorian state coal mine, in Australia, is called a success; but the director of railroads, Mr. Fitzpatrick, complains of losing 45,000,000 francs ($8,550,000) through being forced to use government coal.
 
-The serenity of the Socialist journals was scarcely rippled by such an occurrence. L'Humanité remarked: “It will be found that the municipal operation of gas will not have cost a sou more nor less than private operation.” Even if that statement were true it would have been bad business.
+At the end of 1912 it was announced that the New South Wales government was prepared to nationalize the iron industry, but with the proviso that the Federal government must stand ready to order the material for the new railroads from its mills. “Peter is being robbed to pay Paul. But such are the methods of presenting the accounts that the public does not perceive this fact,” says Liberty and Progress, Melbourne, May 25, 1911.
 
-But the partisans of government and municipal ownership are incorrigible. “What if there are losses,” they say; “the citizens have been gainers.” Not as taxpayers, that is certain.
+The National Printing Office of France undertakes to do outside work for editors; at the same time it has a monopoly of the government printing. It farms out its work to private printers, and it adds a charge of its own to the original cost when the work is delivered to the departments, which have no choice but to have their printing done by government printers. In this connection the inspector of the finances, M. Bizot, has pointed out the following facts:
 
-As for the United States the disorder and waste of its municipal administrations are notorious, and development of public operation has certainly not lessened them.
+“The National Printing Office furnishes the forms for telegrams. It has contracted with a private company to manufacture and deliver these forms to the aforesaid printing office, cut, folded, perforated, gummed, and turned at a cost of 67 centimes per 1,000 forms in pads of 100, and 50 centimes per 1,000 forms when delivered as loose sheets. Up to 1911 the National Printing Office invoiced these supplies to the postoffice at a cost of 2 fr. and 1 fr. 62, respectively, instead of 67 and 50 centimes. In 1910 this addition of more than 200 per cent. represented a profit to the National Printing Office of 82,000 francs.”
 
-In Milwaukee, a city inhabited almost exclusively by Germans, municipal Socialism has been a very costly proposition. Before the city had experimented with a single municipal undertaking the annual normal increase of the budget was $250,000. Beginning with 1909 it has increased $1,000,000 in two years. At the April elections, 1912, the Socialist ticket was defeated by a majority of 13,000 and Mayor Seidel prosecuted.
+And who was paying this profit to the National Printing Office? Why, the Postoffice department, or, in other words, the government, by submitting to an overcharge of 82,000 francs.
 
-A new Bureau of Efficiency and Economy, costing $20,000 a year, has been organized, but it has thus far failed to make any report.
+The law of April 4, 1912, has ordered that the insurance monopoly in Italy shall be exempt from postal charges, and that its profits shall not be subject to the income tax.
+
+These exemptions will be accounted on the credit side of the insurance monopoly. They ought to be deducted from the government resources.

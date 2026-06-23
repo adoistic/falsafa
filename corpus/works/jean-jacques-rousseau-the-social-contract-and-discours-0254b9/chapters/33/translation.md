@@ -4,7 +4,7 @@ work_slug: "jean-jacques-rousseau-the-social-contract-and-discours-0254b9"
 work_title: The Social Contract and Discourses
 author_name: "Jean-Jacques Rousseau"
 chapter_number: 33
-chapter_title: "CHAPTER VII: mixed governments"
+chapter_title: "Chapter IX: the marks of a good government"
 chapter_slug: 33
 variant_id: "ddaf9233-2efe-5793-b557-60b58df89a2c"
 content_type: translation
@@ -13,19 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 344
+word_count: 326
 source_url: "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
 translator: Online Library of Liberty edition
 ---
 
-Strictly speaking, there is no such thing as a simple government. An isolated ruler must have subordinate magistrates; a popular government must have a head. There is therefore, in the distribution of the executive power, always a gradation from the greater to the lesser number, with the difference that sometimes the greater number is dependent on the smaller, and sometimes the smaller on the greater.
+The question “What absolutely is the best government?” is unanswerable as well as indeterminate; or rather, there are as many good answers as there are possible combinations in the absolute and relative situations of all nations.
 
-Sometimes the distribution is equal, when either the constituent parts are in mutual dependence, as in the government of England, or the authority of each section is independent, but imperfect, as in Poland. This last form is bad; for it secures no unity in the government, and the State is left without a bond of union.
+But if it is asked by what sign we may know that a given people is well or ill governed, that is another matter, and the question, being one of fact, admits of an answer.
 
-Is a simple or a mixed government the better? Political writers are always debating the question, which must be answered as we have already answered a question about all forms of government.
+It is not, however, answered, because every-one wants to answer it in his own way. Subjects extol public tranquillity, citizens individual liberty; the one class prefers security of possessions, the other that of person; the one regards as the best government that which is most severe, the other maintains that the mildest is the best; the one wants crimes punished, the other wants them prevented; the one wants the State to be feared by its neighbours, the other prefers that it should be ignored; the one is content if money circulates, the other demands that the people shall have bread. Even if an agreement were come to on these and similar points, should we have got any further? As moral qualities do not admit of exact measurement, agreement about the mark does not mean agreement about the valuation.
 
-Simple government is better in itself, just because it is simple. But when the executive power is not sufficiently dependent upon the legislative power, i. e. when the prince is more closely related to the Sovereign than the people to the prince, this lack of proportion must be cured by the division of the government; for all the parts have then no less authority over the subjects, while their division makes them all together less strong against the Sovereign.
-
-The same disadvantage is also prevented by the appointment of intermediate magistrates, who leave the government entire, and have the effect only of balancing the Edition: current; Page: [68] two powers and maintaining their respective rights. Government is then not mixed, but moderated.
-
-The opposite disadvantages may be similarly cured, and, when the government is too lax, tribunals may be set up to concentrate it. This is done in all democracies. In the first case, the government is divided to make it weak; in the second, to make it strong: for the maxima of both strength and weakness are found in simple governments, while the mixed forms result in a mean strength.
+For my part, I am continually astonished that a mark so simple is not recognised, or that men are of so bad faith as not to admit it. What is the end of political association? The preservation and prosperity of its members. And what is the surest mark of their preservation and prosperity? Their numbers and population. Seek then nowhere else this mark that is in dispute. The rest being equal, the government under which, without external aids, without naturalisation or colonies, the citizens increase and multiply most, is beyond question the best. The government under which a people wanes and diminishes is the worst. Calculators, it is left for you to count, to measure, to compare.

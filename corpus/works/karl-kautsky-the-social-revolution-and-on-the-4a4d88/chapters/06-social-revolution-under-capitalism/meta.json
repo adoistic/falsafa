@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-social-revolution-and-on-the-4a4d88",
+  "work_title": "The Social Revolution (and On the Day After the Social Revolution)",
+  "chapter_number": 6,
+  "chapter_title": "Social Revolution under Capitalism",
+  "chapter_slug": "06-social-revolution-under-capitalism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08427368-0a17-5c27-970e-09e7aec0f45a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2271,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1902/socrev/pt1-1.htm"
+    }
+  ]
+}

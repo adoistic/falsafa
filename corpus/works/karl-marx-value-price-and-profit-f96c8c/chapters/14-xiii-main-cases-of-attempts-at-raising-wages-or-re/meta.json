@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-value-price-and-profit-f96c8c",
+  "work_title": "Value, Price and Profit",
+  "chapter_number": 14,
+  "chapter_title": "XIII. Main Cases of Attempts at Raising Wages or Resisting their Fall",
+  "chapter_slug": "14-xiii-main-cases-of-attempts-at-raising-wages-or-re",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e2369a76-e802-5338-a9ea-990d86b261d8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2449,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1865/value-price-profit/ch03.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "vladimir-lenin-the-right-of-nations-to-self-det-5fba7c",
+  "work_title": "The Right of Nations to Self-Determination",
+  "chapter_number": 3,
+  "chapter_title": "3. The Concrete Features of the National Question in Russia, and Russia’s Bourgeois-democratic Reformation",
+  "chapter_slug": "03-3-the-concrete-features-of-the-national-question-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a6dd8148-2d46-5b88-9c64-d48dff9b0e73",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1652,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/lenin/works/1914/self-det/ch03.htm"
+    }
+  ]
+}

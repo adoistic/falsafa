@@ -1,0 +1,21 @@
+---
+work_id: "125858cf-fea7-5292-b00d-5f4f6d6e46e4"
+work_slug: "friedrich-nietzsche-thus-spake-zarathustra-125858"
+work_title: Thus Spake Zarathustra
+author_name: Friedrich Nietzsche
+chapter_number: 93
+chapter_title: Chapter XXXV — The Sublime Ones
+chapter_slug: 93
+variant_id: "b31592a3-3742-529a-8391-78a7ceffa276"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 226
+source_url: "https://www.gutenberg.org/ebooks/1998"
+translator: Project Gutenberg edition
+---
+
+These belong to a type which Nietzsche did not altogether dislike, but which he would fain have rendered more subtle and plastic. It is the type that takes life and itself too seriously, that never surmounts the camel-stage mentioned in the first discourse, and that is obdurately sublime and earnest. To be able to smile while speaking of lofty things and NOT TO BE OPPRESSED by them, is the secret of real greatness. He whose hand trembles when it lays hold of a beautiful thing, has the quality of reverence, without the artist’s unembarrassed friendship with the beautiful. Hence the mistakes which have arisen in regard to confounding Nietzsche with his extreme opposites the anarchists and agitators. For what they dare to touch and break with the impudence and irreverence of the unappreciative, he seems likewise to touch and break,—but with other fingers—with the fingers of the loving and unembarrassed artist who is on good terms with the beautiful and who feels able to create it and to enhance it with his touch. The question of taste plays an important part in Nietzsche’s philosophy, and verses 9, 10 of this discourse exactly state Nietzsche’s ultimate views on the subject. In the “Spirit of Gravity”, he actually cries:—“Neither a good nor a bad taste, but MY taste, of which I have no longer either shame or secrecy.”

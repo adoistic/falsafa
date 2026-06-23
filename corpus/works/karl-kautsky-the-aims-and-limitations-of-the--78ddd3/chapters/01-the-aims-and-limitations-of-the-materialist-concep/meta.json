@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-aims-and-limitations-of-the--78ddd3",
+  "work_title": "The Aims and Limitations of the Materialist Conception of History",
+  "chapter_number": 1,
+  "chapter_title": "The Aims and Limitations of the Materialist Conception of History",
+  "chapter_slug": "01-the-aims-and-limitations-of-the-materialist-concep",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d18f2a7-3329-5887-beb7-018946a61e00",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5847,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1903/xx/histmat.htm"
+    }
+  ]
+}

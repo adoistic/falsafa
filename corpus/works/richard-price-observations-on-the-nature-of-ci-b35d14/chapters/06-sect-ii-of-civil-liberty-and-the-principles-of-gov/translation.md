@@ -4,7 +4,7 @@ work_slug: "richard-price-observations-on-the-nature-of-ci-b35d14"
 work_title: Observations on the Nature of Civil Liberty
 author_name: Richard Price
 chapter_number: 6
-chapter_title: "SECT. II.: Of Civil Liberty and the Principles of Government."
+chapter_title: "Sect. II.: Of Civil Liberty and the Principles of Government."
 chapter_slug: "06-sect-ii-of-civil-liberty-and-the-principles-of-gov"
 variant_id: "257228b6-b9f7-54e5-954c-317d7875db74"
 content_type: translation

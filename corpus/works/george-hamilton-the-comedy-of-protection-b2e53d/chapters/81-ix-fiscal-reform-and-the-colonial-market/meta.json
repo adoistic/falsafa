@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 81,
+  "chapter_title": "Ix.—: Fiscal Reform and the Colonial Market.",
+  "chapter_slug": "81-ix-fiscal-reform-and-the-colonial-market",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11c88b5c-212c-59c0-a199-0754d5b5a1a8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 517,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

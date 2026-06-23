@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 1
-chapter_title: "BOOK I, CHAPTER I: INTRODUCTION."
+chapter_title: "Book I: Preliminary Survey, Book I, Chapter I: Introduction."
 chapter_slug: 01
 variant_id: "4fcb02b7-2de7-5cf5-a090-cb822f682fa0"
 content_type: translation

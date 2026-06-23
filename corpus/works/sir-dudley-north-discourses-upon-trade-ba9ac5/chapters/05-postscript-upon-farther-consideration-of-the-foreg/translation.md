@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1747
+word_count: 1735
 source_url: "https://oll.libertyfund.org/titles/hollander-discourses-upon-trade"
 translator: Online Library of Liberty edition
 ---
@@ -24,7 +24,7 @@ Therefore Gold and Silver being now plentiful, a Man hath much more of it for hi
 
 Notwithstanding this, I find many, who seem willing to allow, that this Nation at present, abounds with Gold and Silver, in Plate and Bullion; but are yet of Opinion, That coyned Money is wanted to carry on |[ii]| the Trade, and that were there more Specifick Money, Trade would increase, and we should have better Markets for every thing.
 
-That this is a great Error, I think the foregoing Papers makes out: but to clear it a little farther, let it be considered, that Money is a Manufacture of Bullion wrought in the Mint. Now if the Materials are ready, and the Workmen also, 'tis absurd to say, the Manufacture is wanted. Edition: current; Page: [35]
+That this is a great Error, I think the foregoing Papers makes out: but to clear it a little farther, let it be considered, that Money is a Manufacture of Bullion wrought in the Mint. Now if the Materials are ready, and the Workmen also, 'tis absurd to say, the Manufacture is wanted.
 
 For instance: Have you Corn, and do you want Meal? Carry the Corn to the Mill, and grind it. Yes; but I want Meal, because others will not carry their Corn; and I have none: say you so; then buy Corn of them, and carry it to the Mill your self. This is exactly the Case of Money. A very rich Man hath much Plate, for Honour and Show; whereupon a poorer Man thinks, if it were coyned into Money, the Publick, and his self among the rest, would be the better for it; but he is utterly mistaken; unless at the same time you oblige the rich Man to squander his new coyn'd Money away.
 
@@ -32,7 +32,7 @@ For if he lays it up, I am sure the matter is not mended: if he commutes it for 
 
 If the use of Plate were prohibited, then it were a sumptuary Law, and, as such, would be a vast hindrance to the Riches and Trade of the Nation: for now seeing |[iii]| every Man hath Plate in his House, the Nation is possest of a solid Fund, consisting in those Mettals, which all the World desire, and would willingly draw from us; and this in far greater measure than would be, if Men were not allowed that liberty. For the poor Tradesman, out of an ambition to have a Piece of Plate upon his Cupboard, works harder to purchase it, than he would do if that humour were restrain'd as I have said elsewhere.
 
-There is required for carrying on the Trade of the Nation, a determinate Sum of Specifick Money, which varies, and is sometimes more, sometimes less, as the Circumstances we are in requires. War time calls for more Money than time of Peace, because every one desires to keep some by him, to use Edition: current; Page: [36] upon Emergiences; not thinking it prudent to rely upon Moneys currant in dealing, as they do in times of Peace, when Payments are more certain.
+There is required for carrying on the Trade of the Nation, a determinate Sum of Specifick Money, which varies, and is sometimes more, sometimes less, as the Circumstances we are in requires. War time calls for more Money than time of Peace, because every one desires to keep some by him, to use upon Emergiences; not thinking it prudent to rely upon Moneys currant in dealing, as they do in times of Peace, when Payments are more certain.
 
 This ebbing and flowing of Money, supplies and accommodates itself, without any aid of Politicians. For when Money grows scarce, and begins to be hoarded, then forthwith the Mint works, till the occasion be filled up again. And on the other side, when Peace brings out the Hoards, and Money abounds, the Mint not only ceaseth, but the overplus of Money will be presently melted down, either to supply the Home Trade, or for Transportation.
 
@@ -40,7 +40,7 @@ Thus the Buckets work alternately, when Money is scarce, Bullion is coyn'd; when
 
 Some have fancied, that if by a Law the Ounce of Silver were restrained to 5 s. value, in all dealings, and at the Tower the same were coyned into 5 s. 4 d. or 5 s. 6 d. per Ounce, all the Plate in England would soon be coyned. The answer to this, in short, is: That the Principle they build upon is impossible. How can any Law hinder me from giving another Man, what I please for his Goods? The Law may be evaded a thousand ways. As be it so: I must not give, nor he receive above 5 s. per Ounce for Silver; I may pay him 5 s. and present him with 4 d. or 6 d. more; I may give him Goods in barter, at such, or greater profit; and so by other contrivances, ad Infinitum.
 
-But put case it took effect, and by that means all the Silver in England were coyned into Money; What then? would any one spend more in Cloaths, Equipages, Housekeeping, &c. then is done? I believe not; but rather the contrary: For the Gentry and Commonalty being nipt in their delight of seeing Plate, &c. in their Houses, would in all probability be dampt in all other Expences: Wherefore if this could be done, as I affirm it cannot, yet instead of Edition: current; Page: [37] procuring the desired effect, it would bring on all the Mischiefs of a sumptuary Law.
+But put case it took effect, and by that means all the Silver in England were coyned into Money; What then? would any one spend more in Cloaths, Equipages, Housekeeping, &c. then is done? I believe not; but rather the contrary: For the Gentry and Commonalty being nipt in their delight of seeing Plate, &c. in their Houses, would in all probability be dampt in all other Expences: Wherefore if this could be done, as I affirm it cannot, yet instead of procuring the desired effect, it would bring on all the Mischiefs of a sumptuary Law.
 
 Whenever the Money is made lighter, or baser in allay, (which is the same thing) the effect is, that immediately the price of Bullion answers. So that in reality you change the Name, but not the thing: and whatever the difference is, the Tenant and Debtor hath it in his favor; for Rent and Debts will be paid less, by just so much as the intrinsick value is less, then what was to be paid before.
 

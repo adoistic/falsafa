@@ -4,7 +4,7 @@ work_slug: "william-graham-sumner-earth-hunger-and-other-essays-78e0ba"
 work_title: "Earth-Hunger and Other Essays"
 author_name: William Graham Sumner
 chapter_number: 37
-chapter_title: THE FAMILY MONOPOLY
+chapter_title: The Family Monopoly
 chapter_slug: "37-the-family-monopoly"
 variant_id: "2e92fc94-359a-53f6-aaaa-36f722ca9f30"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1521
+word_count: 1513
 source_url: "https://oll.libertyfund.org/titles/earth-hunger-and-other-essays-1913"
 translator: Online Library of Liberty edition
 ---
@@ -28,11 +28,11 @@ The specific influence of the family is exerted on women and on children. The mo
 
 This is, undoubtedly, an ideal, but it is not an ideal which floats in the air as a poetic vision alone. It is realized often enough and sufficiently in our observation for us to know that it can be, and is.
 
-Monogamic marriage, however, is a great monopoly. It is grand and noble for those who get into it, but like Edition: current; Page: [256] other monopolies, it wins an advantage for those who are included at the cost of depression to those who are excluded; and millions, of course, in trying to attain to the heights of a monogamic marriage, fail. If they fall, they fall far lower than they would be under lower forms of marriage. The children of a monogamic family have a far better chance than those of any other form of the family, provided the monogamic family realizes approximately its own theory; but it is not impossible that the children reared in a Turkish harem may have a happier fate than the children of a monogamic household in which the parents quarrel or are divorced.
+Monogamic marriage, however, is a great monopoly. It is grand and noble for those who get into it, but like other monopolies, it wins an advantage for those who are included at the cost of depression to those who are excluded; and millions, of course, in trying to attain to the heights of a monogamic marriage, fail. If they fall, they fall far lower than they would be under lower forms of marriage. The children of a monogamic family have a far better chance than those of any other form of the family, provided the monogamic family realizes approximately its own theory; but it is not impossible that the children reared in a Turkish harem may have a happier fate than the children of a monogamic household in which the parents quarrel or are divorced.
 
 The monogamic family evidently owes its strength and value, then, to the fact that it constitutes a close and solid unit with greater internal cohesion than any other form of the family, and more complete severance externally from every other unit. Its exclusiveness is of its essence; it exerts an intenser educating power on its members on account of its distinctness and comparative isolation. Accordingly any form of communal life, any higher development of social relations, as in hotel life in this country, or in the case of fashionable life, where the attention of the parents is occupied outside of the family, causes the family life, the domestic influences, and the family education to suffer.
 
-The people who, just now, are captivated by any “altruistic” notion cannot decide whether the family is to be included in the sphere of the selfish or the altruistic. Their quandary has its good causes in the facts of the case. The selfish and the altruistic sentiments are inextricably interwoven, and their interlacings or common ground lie in the family sphere; but the family institution, the isolated family group, as a unit, sharply severed and highly and distinctly developed against all Edition: current; Page: [257] other family units, is, in fact, the hotbed of those sentiments which are denounced as selfish—above all such of them as are connected with social rank and property.
+The people who, just now, are captivated by any “altruistic” notion cannot decide whether the family is to be included in the sphere of the selfish or the altruistic. Their quandary has its good causes in the facts of the case. The selfish and the altruistic sentiments are inextricably interwoven, and their interlacings or common ground lie in the family sphere; but the family institution, the isolated family group, as a unit, sharply severed and highly and distinctly developed against all other family units, is, in fact, the hotbed of those sentiments which are denounced as selfish—above all such of them as are connected with social rank and property.
 
 The facts are open to the observation of all. “He that hath wife and children hath given hostages to fortune.” If you intensify his family affection, you will in the same degree absorb his energies in the determination to redeem those pledges. If, therefore, the growth of social institutions is in the direction of monogamy, if we thereby win a better position for women and a better education for children, we also intensify a man’s feeling of cohesion with his own wife and his own children, aside from and against all the world; and his and their interests, while more absolutely identified with each other, are set in more complete indifference or more pronounced antagonism to those of other people than any other social arrangement. This consequence is inevitable and it plainly exists. The sentiments which are nowadays jumbled together under the head of “individualism,” in accordance with the general confusion and looseness with which all these matters are treated, are, in fact, products of this family sentiment.
 

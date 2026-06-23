@@ -1,0 +1,26 @@
+{
+  "work_slug": "gerrard-winstanley-the-law-of-freedom-in-a-platform-226867",
+  "work_title": "The Law of Freedom in a Platform; or, True Magistracy Restored",
+  "chapter_number": 5,
+  "chapter_title": "CHAP. III.",
+  "chapter_slug": "05-chap-iii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1953547b-7c38-5d17-b103-29f81742cab6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3151,
+      "paragraph_count": 70,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/winstanley/1652/law-freedom/ch03.htm"
+    }
+  ]
+}

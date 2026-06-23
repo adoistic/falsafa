@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-literature-and-revolution-9b02a3",
+  "work_title": "Literature and Revolution",
+  "chapter_number": 8,
+  "chapter_title": "The Rustic or Peasant-singing Writers",
+  "chapter_slug": "08-the-rustic-or-peasant-singing-writers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1f3b22e-72e6-5ee6-8ffa-d93740230e7a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4214,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1924/lit_revo/ch02.htm"
+    }
+  ]
+}

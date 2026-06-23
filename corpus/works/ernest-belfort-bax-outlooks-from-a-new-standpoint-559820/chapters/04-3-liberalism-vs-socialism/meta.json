@@ -1,0 +1,26 @@
+{
+  "work_slug": "ernest-belfort-bax-outlooks-from-a-new-standpoint-559820",
+  "work_title": "Outlooks From a New Standpoint",
+  "chapter_number": 4,
+  "chapter_title": "3. Liberalism vs. Socialism",
+  "chapter_slug": "04-3-liberalism-vs-socialism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cf3078fe-fe26-521f-9e21-270eb7524eb8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7341,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bax/1890/11/libvssoc.htm"
+    }
+  ]
+}

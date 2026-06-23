@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-the-kronstadt-rebellion-9c07ad",
+  "work_title": "The Kronstadt Rebellion",
+  "chapter_number": 3,
+  "chapter_title": "Bolsheviks campaign against Kronstadt",
+  "chapter_slug": "03-bolsheviks-campaign-against-kronstadt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb701c0a-0f75-5058-9127-e9aacaa02bd8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1316,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1922/kronstadt-rebellion/ch3.htm"
+    }
+  ]
+}

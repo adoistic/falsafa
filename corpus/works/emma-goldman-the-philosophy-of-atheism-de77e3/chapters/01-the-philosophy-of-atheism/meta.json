@@ -1,0 +1,26 @@
+{
+  "work_slug": "emma-goldman-the-philosophy-of-atheism-de77e3",
+  "work_title": "The Philosophy of Atheism",
+  "chapter_number": 1,
+  "chapter_title": "The Philosophy of Atheism",
+  "chapter_slug": "01-the-philosophy-of-atheism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aa7141fa-fd09-50c3-96e1-aa772626e3ba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2346,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/goldman/works/1916/atheism.htm"
+    }
+  ]
+}

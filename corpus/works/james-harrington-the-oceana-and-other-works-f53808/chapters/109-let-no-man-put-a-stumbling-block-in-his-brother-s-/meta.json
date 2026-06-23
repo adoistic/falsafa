@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 109,
+  "chapter_title": "Let no Man put a Stumbling-Block in his Brother’s Way, Rom. xiv. 13.",
+  "chapter_slug": "109-let-no-man-put-a-stumbling-block-in-his-brother-s-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a60119a8-db6d-527b-bce3-b22a493333f0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5130,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

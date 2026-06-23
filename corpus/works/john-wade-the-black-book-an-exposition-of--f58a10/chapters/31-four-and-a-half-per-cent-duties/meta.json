@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 31,
+  "chapter_title": "Four-and-a-half Per Cent. Duties.",
+  "chapter_slug": "31-four-and-a-half-per-cent-duties",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "edb05ad5-0c9a-5322-bf81-657bda1d6ff4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2381,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

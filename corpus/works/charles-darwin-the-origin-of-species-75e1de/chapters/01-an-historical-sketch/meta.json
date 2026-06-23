@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-darwin-the-origin-of-species-75e1de",
+  "work_title": "The Origin of Species",
+  "chapter_number": 1,
+  "chapter_title": "An Historical Sketch",
+  "chapter_slug": "01-an-historical-sketch",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e3ca23b9-27de-5140-8192-78b40e12605d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4088,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/darwin/works/origins/preface.htm"
+    }
+  ]
+}

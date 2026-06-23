@@ -4,7 +4,7 @@ work_slug: "john-morley-the-life-of-richard-cobden-23f473"
 work_title: The Life of Richard Cobden
 author_name: John Morley
 chapter_number: 3
-chapter_title: PREFACE.
+chapter_title: Preface.
 chapter_slug: "03-preface"
 variant_id: "d36cff10-5e18-56c8-b835-ff86cbbfabf0"
 content_type: translation

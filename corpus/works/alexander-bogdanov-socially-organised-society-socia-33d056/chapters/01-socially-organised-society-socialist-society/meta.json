@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-bogdanov-socially-organised-society-socia-33d056",
+  "work_title": "Socially Organised Society: Socialist Society",
+  "chapter_number": 1,
+  "chapter_title": "Socially Organised Society: Socialist Society",
+  "chapter_slug": "01-socially-organised-society-socialist-society",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08e1639c-3129-5898-b034-6cd6ba54c4c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 528,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bogdanov/1919/socialism.htm"
+    }
+  ]
+}

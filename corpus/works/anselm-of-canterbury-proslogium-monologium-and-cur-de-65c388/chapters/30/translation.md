@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 30
-chapter_title: CHAPTER XVII.
+chapter_title: Chapter XX
 chapter_slug: 30
 variant_id: "6e69eceb-1ce0-5438-8a45-d78319372943"
 content_type: translation
@@ -13,11 +13,11 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 128
+word_count: 261
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-In God is harmony, fragrance, sweetness, pleasantness to the touch, beauty, after his ineffable manner
+He exists before all things and transcends all things, even the eternal things —The eternity of God is present as a whole with him, while other things have not yet that part of their eternity which is still to be, and have no longer that part which is past
 
-Still thou art hidden, O Lord, from my soul in thy light and thy blessedness; and therefore my soul still walks in its darkness and wretchedness. For it looks, and does not see thy beauty. It hearkens, and does not hear thy harmony. It smells, and does not perceive thy fragrance. It tastes, and does not recognise thy sweetness. It touches, and does not feel thy pleasantness. For thou hast these attributes in thyself, Lord God, after thine ineffable manner, who hast given them to objects created by thee, after their sensible manner; but the sinful senses of my soul have grown rigid and dull, and have been obstructed by their long listlessness.
+Hence, thou dost permeate and embrace all things. Thou art before all, and dost transcend all. And, of a surety, thou art before all; for before they were made, thou art. But how dost thou transcend all? In what way dost thou transcend those beings which will have no end? Is it because they cannot exist at all without thee; while thou art in no wise less, if they should return to nothingness? For so, in a certain sense, thou dost transcend them. Or, is it also because they can be conceived to have an end; but thou by no means? For so they actually have an end, in a certain sense; but thou, in no sense. And certainly, what in no sense has an end transcends what is ended in any sense. Or, in this way also dost thou transcend all things, even the eternal, because thy eternity and theirs is present as a whole with thee; while they have not yet that part of their eternity which is to come, just as they no longer have that part which is past? For so thou dost ever transcend them, since thou art ever present with thyself, and since that to which they have not yet come is ever present with thee.

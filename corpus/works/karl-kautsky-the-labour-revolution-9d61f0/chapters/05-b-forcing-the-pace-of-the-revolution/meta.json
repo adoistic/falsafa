@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-labour-revolution-9d61f0",
+  "work_title": "The Labour Revolution",
+  "chapter_number": 5,
+  "chapter_title": "(b) Forcing the Pace of the Revolution",
+  "chapter_slug": "05-b-forcing-the-pace-of-the-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "72bc1429-4df1-5bee-91e0-3030225f8f3b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2933,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1924/labour/ch02_b.htm"
+    }
+  ]
+}

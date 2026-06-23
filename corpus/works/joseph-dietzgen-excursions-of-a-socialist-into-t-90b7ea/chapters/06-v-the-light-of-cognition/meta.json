@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-dietzgen-excursions-of-a-socialist-into-t-90b7ea",
+  "work_title": "Excursions of a Socialist into the Domain of Epistemology",
+  "chapter_number": 6,
+  "chapter_title": "V. The Light of Cognition",
+  "chapter_slug": "06-v-the-light-of-cognition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8f2d89a1-a47f-5977-9e2e-0699db2fb072",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6373,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/dietzgen/1887/epistemology.htm"
+    }
+  ]
+}

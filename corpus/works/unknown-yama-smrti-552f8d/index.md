@@ -2,10 +2,10 @@
 id: "552f8dce-fb0f-4516-954d-2967399e608a"
 slug: "unknown-yama-smrti-552f8d"
 title: Yama Smṛti
-author: Yama
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Yama
+  biography: A sage of the Hindu Dharmaśāstra tradition, to whom the Yama Smṛti is ascribed. The text is a compilation in verse on law and right conduct, redacted over generations by unknown hands.
+  nationality: Indian
 era: Ancient
 genre: Indic
 language: Sanskrit

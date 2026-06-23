@@ -2,10 +2,10 @@
 id: "894f4a08-c395-4dc5-936a-6f34e1c2bfb9"
 slug: "unknown-kunjarakarna-dharmakathana-894f4a"
 title: Kunjarakarna Dharmakathana
-author: Mpu Dusun
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Mpu Dusun
+  biography: An Old Javanese poet of the Mpu rank. Kunjarakarna Dharmakathana is a Kawi Buddhist tale of the redemption of the demon Kunjarakarna.
+  nationality: Javanese
 era: Medieval
 genre: Indic
 language: Kawi

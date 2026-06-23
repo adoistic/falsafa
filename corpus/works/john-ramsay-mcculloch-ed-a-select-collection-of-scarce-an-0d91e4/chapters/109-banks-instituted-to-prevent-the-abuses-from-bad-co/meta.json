@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 109,
+  "chapter_title": "Banks instituted to prevent the abuses from bad coins, and from adulterations in the standards of monies.",
+  "chapter_slug": "109-banks-instituted-to-prevent-the-abuses-from-bad-co",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f04003bf-4e9c-59b2-b749-3b6d4fbc2345",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 295,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

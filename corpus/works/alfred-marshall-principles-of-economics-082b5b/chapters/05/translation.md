@@ -4,7 +4,7 @@ work_slug: "alfred-marshall-principles-of-economics-082b5b"
 work_title: Principles of Economics
 author_name: Alfred Marshall
 chapter_number: 5
-chapter_title: "BOOK II, CHAPTER I: INTRODUCTORY."
+chapter_title: "Book II: Some Fundamental Notions, Book II, Chapter I: Introductory."
 chapter_slug: 05
 variant_id: "3bc62d53-6b95-5e79-b2fa-5243a0b9c0c0"
 content_type: translation

@@ -1,0 +1,27 @@
+---
+work_id: "0d91e4fa-7943-5934-852f-9f73834988c6"
+work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4"
+work_title: A Select Collection of Scarce and Valuable Tracts on Money
+author_name: John Ramsay McCulloch (ed.)
+chapter_number: 129
+chapter_title: 15. Trade requires an indelible standard of money, and will bear no part of the loss by an adulteration of the coins.
+chapter_slug: "129-15-trade-requires-an-indelible-standard-of-money-a"
+variant_id: "f0494e4a-fd86-5172-a2d5-fffe0606dc56"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 684
+source_url: "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+translator: Online Library of Liberty edition
+---
+
+What hath been before observed about the invention of what they call bank-money, in some of the neighbouring states, shews very plainly, the folly and vanity, to give it no harsher names, of adulterating coins; it shews that trade requires, and will have in effect, an indelible standard of money; it shews that, do what you can, trade will shift the burden off itself. And as in those places where bank-money is established, in contradistinction to the current coin, the aggio always rises whenever these coins are debased; so with us, where, (because the standard having continued uniformly the same, almost as long as we have been a trading nation,) no such distinction hath yet obtained; if you alter the standard, the tradesman will accordingly alter his reckoning, and raise the nominal prices of his goods; or perhaps this wild measure would introduce amongst us, that aukward but necessary contrivance of bank-money; that is, a distinction in dealings betwixt the old standard and the new; and so this scheme would be defeated, though not without laying hardships on many, and creating general disorders and confusion. Or, if you should suppose that our tradesmen are so short-sighted, and such bad accomptants, as not immediately to see that 20, for example, is less than 21, foreign trade will soon open their eyes; they will find that all sorts of commodities will cost, at least, as much as they did before; that is, they will be sold according to the old standard, or for so much more according to the new reckoning, as the standard had been debased. The course of exchanges would immediately set this matter even; the exchange will go yet farther, and take advantage of the discredit, which ever accompanies these aukward and ill-conditioned schemes.
+
+“But granting all this, say you, all men are not foreign dealers, and those tradesmen who do not buy from abroad, will have no pretence for raising their commodities.”
+
+In answer to this, I say, that all men are in some degree consumers of foreign commodities; and every one that hath the staff in his own hand will defend himself, though he will give no further indulgence to his neighbour, than what the law secures to him. All tradesmen are in some sort connected, and have mutual dealings and dependencies one upon another; and foreign commodities enter deeply into all branches of commerce. The necessary advancement in the nominal prices of so great a part of our commodities, will naturally affect the nominal prices of all the rest; and were there no other reason for it, tradesmen of all sorts would endeavour to keep up to the same proportion, one as the other: And all sorts of goods being thus once nominally raised, it would be difficult afterwards to bring them down to their old nominal prices, though the cause that raised them be removed. But all the stock in hand must be sold at the former price, that is, nominally at a higher, according as the standard hath been debased; and goods even of our own manufacturing could not be replaced, without paying nominally for them more than formerly. For, the farmer finding all sorts of goods he buys in the shops, advanced upon him; he will also, though perhaps not immediately, raise the prices of his corn, butter, cheese, &c. and so the price of labour, and thence the prices of all goods manufactured at home, as well as those bought from abroad, must be nominally raised, at least, proportionably to the debasement of the standard.
+
+Thus, I think, it is in a manner self-evident, that a debasement of money, would be so far from laying any hold on tradesmen, that it would rather turn to their private advantage; and therefore, in this debate, they are properly to be considered as being not very impartial advocates: Yet the unavoidable discredit and convulsions attending such a measure, would prove injurious to trade in general, as well as to the nation many ways. Let us next see who would be mostly affected, and how, by the scheme before us.

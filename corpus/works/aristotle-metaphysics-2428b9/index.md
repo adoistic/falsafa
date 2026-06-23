@@ -4,7 +4,10 @@ slug: "aristotle-metaphysics-2428b9"
 title: Metaphysics
 author:
   name: Aristotle
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Philosopher of Stagira, student of Plato and tutor of Alexander. His school texts organized the sciences for two millennia and traveled further than any other body of work in this library's atlas."
+  birth_year: -384
+  death_year: -322
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

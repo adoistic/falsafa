@@ -1,0 +1,26 @@
+{
+  "work_slug": "august-bebel-woman-and-socialism-842b3e",
+  "work_title": "Woman and Socialism",
+  "chapter_number": 44,
+  "chapter_title": "2. Increasing Pauperization. Preponderance of Large Industrial Establishments.",
+  "chapter_slug": "44-2-increasing-pauperization-preponderance-of-large-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "42f21ef3-4f47-58b0-b4e3-6ada77f74c3d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2844,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bebel/1879/woman-socialism/ch17.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 16,
+  "chapter_title": "Day and Night Work. The Relay System.",
+  "chapter_slug": "16-day-and-night-work-the-relay-system",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "461f3e68-ab37-5f0b-bbe2-b0d800b7de2c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2436,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm"
+    }
+  ]
+}

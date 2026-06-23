@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 22,
+  "chapter_title": "XXI. Voluntary Death.",
+  "chapter_slug": "22-xxi-voluntary-death",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "92a666cf-6198-5e1a-9ba5-c05930b38198",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 787,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4caa76ea-d0cc-5c05-be0a-72bc6e5f0042",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 863,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

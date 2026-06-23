@@ -4,7 +4,10 @@ slug: "catullus-c-valerius-carmina-e8bcbc"
 title: Carmina
 author:
   name: Catullus, C. Valerius
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Roman poet from Verona, central figure of the late-Republican circle of 'new poets.' His carmina carried Greek lyric and epigram into Latin and fixed the vocabulary of personal poetry around the affair with Lesbia."
+  birth_year: -84
+  death_year: -54
+  nationality: Roman
 era: Hellenistic
 genre: Classics
 language: Latin

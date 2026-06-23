@@ -4,7 +4,7 @@ work_slug: "frederick-douglass-the-life-and-times-of-frederick--7be09c"
 work_title: The Life and Times of Frederick Douglass
 author_name: Frederick Douglass
 chapter_number: 46
-chapter_title: CHAPTER XIX.
+chapter_title: Chapter XIX.
 chapter_slug: 46
 variant_id: "cfe03cef-c6ea-5e24-954a-be0270554997"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1170
+word_count: 1166
 source_url: "https://oll.libertyfund.org/titles/lobb-the-life-and-times-of-frederick-douglass-from-1817-1882"
 translator: Online Library of Liberty edition
 ---
@@ -24,7 +24,7 @@ ON the day of the interment of the late James A. Garfield, at Lake View Cemetery
 
 “Friends and fellow citizens:
 
-To-day our common mother Earth has closed over the mortal remains of James A. Garfield, at Cleveland, Ohio. The light of no day in our national history has brought to the American people a more intense bereavement, a deeper sorrow, or a more profound sense of humiliation. It seems only as yesterday, that in my quality as United States Marshal of the District of Columbia, it was made my duty and privilege to walk at the head of the column in advance of this our President-elect, from the crowded Senate Chamber of the National Capitol, through the long corridors, and the grand rotunda, beneath the majestic dome, to the platform on the portico, where amid a sea of transcendent pomp and glory, he who is now dead, was hailed with tumultuous applause from uncounted thousands of his fellow citizens, and was inaugurated Chief Magistrate of the United States. The scene was one never to be forgotten by those who beheld it. It was a great day for the Edition: current; Page: [l] Edition: current; Page: [427] nation, glad and proud to do honour to their chosen ruler. It was a glad day for James A. Garfield. It was a glad day for me, that I—one of the proscribed race, was permitted to bear so prominent a part in its august ceremonies. Mr. Garfield was then in the midst of his years, in the fulness and vigour of his manhood, covered with honours beyond the reach of princes, entering upon a career more abundant in promise than ever invited president or potentate before.
+To-day our common mother Earth has closed over the mortal remains of James A. Garfield, at Cleveland, Ohio. The light of no day in our national history has brought to the American people a more intense bereavement, a deeper sorrow, or a more profound sense of humiliation. It seems only as yesterday, that in my quality as United States Marshal of the District of Columbia, it was made my duty and privilege to walk at the head of the column in advance of this our President-elect, from the crowded Senate Chamber of the National Capitol, through the long corridors, and the grand rotunda, beneath the majestic dome, to the platform on the portico, where amid a sea of transcendent pomp and glory, he who is now dead, was hailed with tumultuous applause from uncounted thousands of his fellow citizens, and was inaugurated Chief Magistrate of the United States. The scene was one never to be forgotten by those who beheld it. It was a great day for the Edition: current; Page: [l] nation, glad and proud to do honour to their chosen ruler. It was a glad day for James A. Garfield. It was a glad day for me, that I—one of the proscribed race, was permitted to bear so prominent a part in its august ceremonies. Mr. Garfield was then in the midst of his years, in the fulness and vigour of his manhood, covered with honours beyond the reach of princes, entering upon a career more abundant in promise than ever invited president or potentate before.
 
 PRESIDENT GARFIELD
 

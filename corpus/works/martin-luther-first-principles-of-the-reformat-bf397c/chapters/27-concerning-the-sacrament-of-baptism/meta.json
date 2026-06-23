@@ -1,0 +1,26 @@
+{
+  "work_slug": "martin-luther-first-principles-of-the-reformat-bf397c",
+  "work_title": "First Principles of the Reformation",
+  "chapter_number": 27,
+  "chapter_title": "Concerning the Sacrament of Baptism",
+  "chapter_slug": "27-concerning-the-sacrament-of-baptism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1ad0d43-3c67-5f3d-9c30-88a3952c67d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9970,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/luther-first-principles-of-the-reformation-1883"
+    }
+  ]
+}

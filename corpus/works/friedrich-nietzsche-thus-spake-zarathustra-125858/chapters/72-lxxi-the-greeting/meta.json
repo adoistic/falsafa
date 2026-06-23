@@ -1,0 +1,38 @@
+{
+  "work_slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "work_title": "Thus Spake Zarathustra",
+  "chapter_number": 72,
+  "chapter_title": "LXXI. The Greeting.",
+  "chapter_slug": "72-lxxi-the-greeting",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a6fdf71e-c955-591f-8035-a44d47bd7b9a",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 1592,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7205"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7d0ff18a-63cd-58bf-9453-552f4ba55c2e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1808,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1998"
+    }
+  ]
+}

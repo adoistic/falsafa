@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 46,
+  "chapter_title": "Extract from a Letter of Hon. William Jay, of New York, to Rev. R. S. Cook, Corresponding Secretary of the American Trac",
+  "chapter_slug": "46-extract-from-a-letter-of-hon-william-jay-of-new-yo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b33b0359-fa79-5586-8d01-8bbab0cefe30",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1039,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

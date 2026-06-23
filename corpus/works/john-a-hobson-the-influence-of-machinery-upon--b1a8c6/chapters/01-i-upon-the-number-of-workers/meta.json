@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-a-hobson-the-influence-of-machinery-upon--b1a8c6",
+  "work_title": "The Influence of Machinery Upon Employment",
+  "chapter_number": 1,
+  "chapter_title": "I. Upon the Number of Workers",
+  "chapter_slug": "01-i-upon-the-number-of-workers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6038b099-8e8d-5759-a7de-11a1e0aff4f7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2158,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/hobson/1893/03/machines.htm"
+    }
+  ]
+}

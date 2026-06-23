@@ -4,7 +4,10 @@ slug: "dinarchus-against-philocles-b8b1e3"
 title: Against Philocles
 author:
   name: Dinarchus
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: "Corinthian-born logographer active in Athens, counted as the last of the ten canonical Attic orators. His surviving speeches, written for the Harpalus prosecutions, are the chief witness to his career as a professional speechwriter."
+  birth_year: -361
+  death_year: -291
+  nationality: Greek
 era: Hellenistic
 genre: Classics
 language: Greek

@@ -1,0 +1,49 @@
+---
+work_id: "d77274fa-3610-5f16-9c9f-12e84c9fe82d"
+work_slug: "carl-von-clausewitz-on-war-d77274"
+work_title: On War
+author_name: Carl von Clausewitz
+chapter_number: 37
+chapter_title: Chpt. 18 Tension and Rest
+chapter_slug: "37-chpt-18-tension-and-rest"
+variant_id: "0c545e06-1765-5b72-865e-a686f7fa99d5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 975
+source_url: "https://www.marxists.org/reference/archive/clausewitz/works/on-war/book3/ch18.htm"
+translator: Colonel J.J. Graham
+---
+
+We have seen in the sixteenth chapter of this book, how, in most campaigns, much more time used to be spent in standing still and inaction than in activity.
+
+Now, although, as observed in the preceding chapter we see quite a different character in the present form of War, still it is certain that real action will always be interrupted more or less by long pauses; and this leads to the necessity of our examining more closely the nature of these two phases of War.
+
+If there is a suspension of action in War, that is, if neither party wills something positive, there is rest, and consequently equilibrium, but certainly an equilibrium in the largest signification, in which not only the moral and physical war-forces, but all relations and interests, come into calculation. As soon as ever one of the two parties proposes to himself a new positive object, and commences active steps towards it, even if it is only by preparations, and as soon as the adversary opposes this, there is a tension of powers; this lasts until the decision takes place--that is, until one party either gives up his object or the other has conceded it to him.
+
+This decision--the foundation of which lies always in the combat--combinations which are made on each side-- is followed by a movement in one or other direction.
+
+When this movement has exhausted itself, either in the difficulties which had to be mastered, in overcoming its own internal friction, or through new resistant forces prepared by the acts of the enemy, then either a state of rest takes place or a new tension with a decision, and then a new movement, in most cases in the opposite direction.
+
+This speculative distinction between equilibrium, tension, and motion is more essential for practical action than may at first sight appear.
+
+In a state of rest and of equilibrium a varied kind of activity may prevail on one side that results from opportunity, and does not aim at a great alteration. Such an activity may contain important combats--even pitched battles--but yet it is still of quite a different nature, and on that account generally different in its effects.
+
+If a state of tension exists, the effects of the decision are always greater partly because a greater force of will and a greater pressure of circumstances manifest themselves therein; partly because everything has been prepared and arranged for a great movement. The decision in such cases resembles the effect of a mine well closed and tamped, whilst an event in itself perhaps just as great, in a state of rest, is more or less like a mass of powder puffed away in the open air.
+
+At the same time, as a matter of course, the state of tension must be imagined in different degrees of intensity, and it may therefore approach gradually by many steps towards the state of rest, so that at the last there is a very slight difference between them.
+
+Now the real use which we derive from these reflections is the conclusion that every measure which is taken during a state of tension is more important and more prolific in results than the same measure could be in a state of equilibrium, and that this importance increases immensely in the highest degrees of tension.
+
+The cannonade of Valmy, September 20, 1792, decided more than the battle of Hochkirch, October 14, 1758.
+
+In a tract of country which the enemy abandons to us because he cannot defend it, we can settle ourselves differently from what we should do if the retreat of the enemy was only made with the view to a decision under more favourable circumstances. Again, a strategic attack in course of execution, a faulty position, a single false march, may be decisive in its consequence; whilst in a state of equilibrium such errors must be of a very glaring kind, even to excite the activity of the enemy in a general way.
+
+Most bygone Wars, as we have already said, consisted, so far as regards the greater part of the time, in this state of equilibrium, or at least in such short tensions with long intervals between them, and weak in their effects, that the events to which they gave rise were seldom great successes, often they were theatrical exhibitions, got up in honour of a royal birthday (Hochkirch), often a mere satisfying of the honour of the arms (Kunersdorf), or the personal vanity of the commander (Freiberg).
+
+That a Commander should thoroughly understand these states, that he should have the tact to act in the spirit of them, we hold to be a great requisite, and we have had experience in the campaign of 1806 how far it is sometimes wanting. In that tremendous tension, when everything pressed on towards a supreme decision, and that alone with all its consequences should have occupied the whole soul of the Commander, measures were proposed and even partly carried out (such as the reconnaissance towards Franconia), which at the most might have given a kind of gentle play of oscillation within a state of equilibrium. Over these blundering schemes and views, absorbing the activity of the Army, the really necessary means, which could alone save, were lost sight of.
+
+But this speculative distinction which we have made is also necessary for our further progress in the construction of our theory, because all that we have to say on the relation of attack and defence, and on the completion of this double-sided act, concerns the state of the crisis in which the forces are placed during the tension and motion, and because all the activity which can take place during the condition of equilibrium can only be regarded and treated as a corollary; for that crisis is the real War and this state of equilibrium only its reflection.

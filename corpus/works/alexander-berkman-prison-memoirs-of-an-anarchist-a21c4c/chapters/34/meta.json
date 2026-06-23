@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexander-berkman-prison-memoirs-of-an-anarchist-a21c4c",
+  "work_title": "Prison Memoirs of an Anarchist",
+  "chapter_number": 34,
+  "chapter_title": "Part 2, Chapter 12 : Zuchthausblothen",
+  "chapter_slug": "34",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b3e98dbc-c554-5a42-a3c4-c1a87ef6c877",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2304,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/berkman/1912/prison-memoirs/part-2-chapter-12.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-the-dictatorship-of-the-proletar-b241bd",
+  "work_title": "The Dictatorship of the Proletariat",
+  "chapter_number": 1,
+  "chapter_title": "I. The Problem",
+  "chapter_slug": "01-i-the-problem",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ebe77e72-7857-520a-8302-7dc95f28cbc8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 512,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1918/dictprole/ch01.htm"
+    }
+  ]
+}

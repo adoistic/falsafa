@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 20,
+  "chapter_title": "Methodology of the Teleological Judgement.",
+  "chapter_slug": "20-methodology-of-the-teleological-judgement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d6c127c6-8b0b-5ab5-b11b-d30e4f24960e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 33817,
+      "paragraph_count": 277,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

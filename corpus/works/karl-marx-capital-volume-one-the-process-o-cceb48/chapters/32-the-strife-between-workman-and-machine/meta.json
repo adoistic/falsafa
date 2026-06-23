@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+  "work_title": "Capital, Volume One: The Process of Production of Capital",
+  "chapter_number": 32,
+  "chapter_title": "The Strife Between Workman and Machine",
+  "chapter_slug": "32-the-strife-between-workman-and-machine",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1936a022-7d35-54f6-a94b-4772282c4319",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3266,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 28,
+  "chapter_title": "[Iii. De Condicione Hominvm.], On Diversities of Condition.",
+  "chapter_slug": "28-iii-de-condicione-hominvm-on-diversities-of-condit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cf32e329-22a4-5160-8019-32fb69d9e8c6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 989,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

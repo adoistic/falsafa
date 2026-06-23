@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
+  "work_title": "My Life: An Attempt at an Autobiography",
+  "chapter_number": 44,
+  "chapter_title": "XLII. The Last Period of Struggle Within the Party",
+  "chapter_slug": "44-xlii-the-last-period-of-struggle-within-the-party",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8d45e016-012d-5bea-ba24-a93819b22b45",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8431,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1930/mylife/ch42.htm"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ work_slug: "henry-george-progress-and-poverty-edf98e"
 work_title: Progress and Poverty
 author_name: Henry George
 chapter_number: 10
-chapter_title: Chapter I The Malthusian Theory, Its Genesis and Support
+chapter_title: Book II Population and Subsistence, Chapter I The Malthusian Theory, Its Genesis and Support
 chapter_slug: 10
 variant_id: "5e68bba4-cd5f-5a4d-a2f9-d374b55b4749"
 content_type: translation

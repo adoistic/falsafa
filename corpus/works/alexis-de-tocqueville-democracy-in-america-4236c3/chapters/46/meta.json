@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 46,
+  "chapter_title": "Chapter IV: Why The Americans Have Never Been So Eager As The French For General Ideas In Political Matters",
+  "chapter_slug": "46",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc8ecd35-b4de-5fa2-99b9-4c21eb628107",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 508,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch21.htm"
+    }
+  ]
+}

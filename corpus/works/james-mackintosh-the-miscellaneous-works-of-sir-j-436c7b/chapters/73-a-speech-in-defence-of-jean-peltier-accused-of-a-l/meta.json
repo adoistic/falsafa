@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 73,
+  "chapter_title": "A Speech in Defence of Jean Peltier, Accused of a Libel on the First Consul of France. Delivered in the Court of King’s ",
+  "chapter_slug": "73-a-speech-in-defence-of-jean-peltier-accused-of-a-l",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a14826f-856b-5ed7-ab29-e647781e71f5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 19555,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

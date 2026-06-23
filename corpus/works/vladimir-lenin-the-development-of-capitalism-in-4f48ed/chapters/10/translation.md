@@ -1,0 +1,35 @@
+---
+work_id: "4f48ed4e-e9b7-554c-99fd-2e203e44e971"
+work_slug: "vladimir-lenin-the-development-of-capitalism-in-4f48ed"
+work_title: The Development of Capitalism in Russia
+author_name: Vladimir Lenin
+chapter_number: 10
+chapter_title: Chapter I. The Theoretical Mistakes of the Narodnik Economists (8)
+chapter_slug: 10
+variant_id: "05fc4b2f-7519-5959-8f41-d1a8b1311bf7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 916
+source_url: "https://www.marxists.org/archive/lenin/works/1899/dcr8i/i8viii.htm"
+translator: Marxists Internet Archive edition
+---
+
+Regarding the above-stated theory of the realisation of the product in capitalist society, the question may arise: Does not this theory contradict the proposition that the capitalist nation cannot dispense with foreign markets?
+
+It must be remembered that the analysis given of the realisation of the product in capitalist society proceeded from the assumption that there is no foreign trade: this assumption has already been mentioned above and it has been shown to be essential in such an analysis. Obviously, imports and exports would only have confused the issue, without in the least helping to clear up the problem. The mistake made by Messrs. V. V. and N.–on is that they bring in the foreign market to explain the realisation of surplus-value: while explaining absolutely nothing, this reference to the foreign market merely conceals their theoretical mistakes; that is one point. Another point is that it enables them, with the aid of these mistaken “theories,” to avoid the need to explain the fact of the development of a home market for Russian capitalism. The “foreign market” merely serves them as a pretext for obscuring the development of capitalism (and, consequently, of the market) inside the country—a pretext all the more convenient in that it also relieves them of the need to examine the facts which show that Russian capitalism is winning foreign markets.
+
+The need for a capitalist country to have a foreign market is not determined at all by the laws of the realisation of the social product (and of surplus-value in particular), but, firstly, by the fact that capitalism makes its appearance only as a result of widely developed commodity circulation, which transcends the limits of the state. It is therefore impossible to conceive a capitalist nation without foreign trade, nor is there any such nation.
+
+As the reader sees, this reason is of a historical order. And the Narodniks could not escape it with a couple of threadbare phrases about “the impossibility of the capitalists consuming surplus-value.” Had they really wanted to raise the question of the foreign market, they would have had to examine the history of the development of foreign trade, the history of the development of commodity circulation. And having examined this history, they could not have, of course, depicted capitalism as a casual deviation from the path.
+
+Secondly, the conformity between the separate parts of social production (in terms of value and in their natural form) which was necessarily assumed by the theory of the reproduction of social capital, and which is actually established only as the average magnitude of a number of continual fluctuations—this conformity is constantly disturbed in capitalist society owing to the separate existence of different producers working for an unknown market. The various branches of industry, which serve as “markets” for one another, do not develop evenly, but outstrip one another, and the more developed industry seeks a foreign market. This does not mean at all “the impossibility of the capitalist nation realising surplus-value,”—the profound conclusion so readily drawn by the Narodnik. It merely indicates the lack of proportion in the development of the different industries. If the national capital were distributed differently, the same quantity of products could be realised within the country. But for capital to abandon one sphere of industry and pass into another there must be a crisis in that sphere; and what can restrain the capitalists threatened by such a crisis from seeking a foreign market, from seeking subsidies and bonuses to facilitate exports, etc.?
+
+Thirdly, the law of pre-capitalist modes of production is the repetition of the process of production on the previous scale, on the previous technical basis: such are the corvée economy of the landlords, the natural economy of the peasants, the artisan production of the industrialists. The law of capitalist production, on the contrary, is constant transformation of the modes of production, and the unrestricted growth of the scale of production. Under the old modes of production, economic units could exist for centuries without undergoing any change either in character or in size, and without extending beyond the landlord’s manor, the peasant village or the small neighbouring market for the rural artisans and small industrialists (the so-called handicraftsmen). The capitalist enterprise, on the contrary, inevitably out grows the bounds of the village community, the local market, the region, and then the state. Since the isolation and seclusion of the states have already been broken down by commodity circulation, the natural trend of every capitalist industry brings it to the necessity of “seeking a foreign market.”
+
+Thus, the necessity of seeking a foreign market by no means proves that capitalism is unsound, as the Narodnik economists like to picture matters. Quite the contrary. This necessity demonstrates the progressive historical work of capitalism, which destroys the age-old isolation and seclusion of systems of economy (and, consequently, the narrowness of intellectual and political life), and which links all countries of the world into a single economic whole.
+
+From this we see that the two latter causes of the need for a foreign market are again causes of a historical character. In order to understand them one must examine each separate industry, its development within the country, its transformation into a capitalist industry—in short, one must take the facts about the development of capitalism in the country; and it is not surprising that the Narodniks take the opportunity to evade these facts under cover of worthless (and meaningless) phrases about the “impossibility” of both the home and the foreign markets.

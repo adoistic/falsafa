@@ -1,0 +1,26 @@
+{
+  "work_slug": "nikolai-bukharin-the-theory-of-permanent-revoluti-a2fcb1",
+  "work_title": "The Theory of Permanent Revolution",
+  "chapter_number": 1,
+  "chapter_title": "Introduction by Editor of the Communist Review",
+  "chapter_slug": "01-introduction-by-editor-of-the-communist-review",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "702c85f2-ebbf-50ac-8474-9f4597d381fc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 689,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/bukharin/works/1924/permanent-revolution/index.htm"
+    }
+  ]
+}

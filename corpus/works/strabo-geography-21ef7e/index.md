@@ -4,7 +4,10 @@ slug: "strabo-geography-21ef7e"
 title: Geography
 author:
   name: Strabo
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Greek geographer and historian from Amasia in Pontus, writing under Augustus and Tiberius. The Geography compiled the known world into seventeen books and became the principal ancient survey of lands, peoples, and the discipline itself.
+  birth_year: -64
+  death_year: 24
+  nationality: Greek
 era: Imperial
 genre: Classics
 language: Greek

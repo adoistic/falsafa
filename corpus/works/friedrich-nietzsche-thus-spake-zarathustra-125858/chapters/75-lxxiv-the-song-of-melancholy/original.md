@@ -1,0 +1,67 @@
+---
+work_id: "125858cf-fea7-5292-b00d-5f4f6d6e46e4"
+work_slug: "friedrich-nietzsche-thus-spake-zarathustra-125858"
+work_title: Thus Spake Zarathustra
+author_name: Friedrich Nietzsche
+chapter_number: 75
+chapter_title: LXXIV. The Song of Melancholy.
+chapter_slug: "75-lxxiv-the-song-of-melancholy"
+variant_id: "5cca9ad6-46a4-536e-aa27-48d6aed5daeb"
+content_type: original
+layout: prose
+language: German
+source_language: German
+language_direction: ltr
+script: latin
+word_count: 825
+source_url: "https://www.gutenberg.org/ebooks/7205"
+curator: thothica
+---
+
+Als Zarathustra diese Reden sprach, stand er nahe dem Eingange seiner Höhle; mit den letzten Worten aber entschlüpfte er seinen Gästen und floh für eine kurze Weile in’s Freie.
+
+„Oh reine Gerüche um mich, rief er aus, oh selige Stille um mich! Aber wo sind meine Thiere? Heran, heran, mein Adler und meine Schlange!
+
+Sagt mir doch, meine Thiere: diese höheren Menschen insgesammt—*riechen* sie vielleicht nicht gut? Oh reine Gerüche um mich! Jetzo weiss und fühle ich erst, wie ich euch, meine Thiere, liebe.“
+
+—Und Zarathustra sprach nochmals: „ich liebe euch, meine Thiere!“ Der Adler aber und die Schlange drängten sich an ihn, als er diese Worte sprach, und sahen zu ihm hinauf. Solchergestalt waren sie zu drei still beisammen und schnüffelten und schlürften mit einander die gute Luft. Denn die Luft war hier draussen besser als bei den höheren Menschen.
+
+Kaum aber hatte Zarathustra seine Höhle verlassen, da erhob sich der alte Zauberer, sah listig umher und sprach: „Er ist hinaus!
+
+Und schon, ihr höheren Menschen—dass ich euch mit diesem Lob- und Schmeichel-Namen kitzle, gleich ihm selber—schon fällt mich mein schlimmer Trug- und Zaubergeist an, mein schwermüthiger Teufel,
+
+—welcher diesem Zarathustra ein Widersacher ist aus dem Grunde: vergebt es ihm! Nun will er vor euch zaubern, er hat gerade *seine* Stunde; umsonst ringe ich mit diesem bösen Geiste.
+
+Euch Allen, welche Ehren ihr euch mit Worten geben mögt, ob ihr euch „die freien Geister“ nennt oder „die Wahrhaftigen“ oder „die Büsser des Geistes“ oder „die Entfesselten“ oder „die grossen Sehnsüchtigen“—
+
+—euch Allen, die ihr *am grossen Ekel* leidet gleich mir, denen der alte Gott starb und noch kein neuer Gott in Wiegen und Windeln liegt,—euch Allen ist mein böser Geist und Zauber-Teufel hold.
+
+Ich kenne euch, ihr höheren Menschen, ich kenne ihn,—ich kenne auch diesen Unhold, den ich wider Willen liebe, diesen Zarathustra: er selber dünkt mich öfter gleich einer schönen Heiligen-Larve,
+
+—gleich einem neuen wunderlichen Mummenschanze, in dem sich mein böser Geist, der schwermüthige Teufel, gefällt:—ich liebe Zarathustra, so dünkt mich oft, um meines bösen Geistes Willen.—
+
+Aber schon fällt *der* mich an und zwingt mich, dieser Geist der Schwermuth, dieser Abend-Dämmerungs-Teufel: und, wahrlich, ihr höheren Menschen, es gelüstet ihn—
+
+—macht nur die Augen auf!—es gelüstet ihn, *nackt* zu kommen, ob männlich, ob weiblich, noch weiss ich’s nicht: aber er kommt, er zwingt mich, wehe! macht eure Sinne auf!
+
+Der Tag klingt ab, allen Dingen kommt nun der Abend, auch den besten Dingen; hört nun und seht, ihr höheren Menschen, welcher Teufel, ob Mann, ob Weib, dieser Geist der Abend-Schwermuth ist!“
+
+Also sprach der alte Zauberer, sah listig umher und griff dann zu seiner Harfe.
+
+Bei abgehellter Luft, Wenn schon des Thau’s Tröstung Zur Erde niederquillt, Unsichtbar, auch ungehört: —Denn zartes Schuhwerk trägt Der Tröster Thau gleich allen Trost-Milden—: Gedenkst du da, gedenkst du, heisses Herz, Wie einst du durstetest, Nach himmlischen Thränen und Thau-Geträufel Versengt und müde durstetest, Dieweil auf gelben Gras-Pfaden Boshaft abendliche Sonnenblicke Durch schwarze Bäume um dich liefen, Blendende Sonnen-Gluthblicke, schadenfrohe.
+
+„Der *Wahrheit* Freier? Du?—so höhnten sie— Nein! Nur ein Dichter! Ein Thier, ein listiges, raubendes, schleichendes, Das lügen muss, Das wissentlich, willentlich lügen muss: Nach Beute lüstern, Bunt verlarvt, Sich selber Larve, Sich selbst zur Beute— *Das*—der Wahrheit Freier? Nein! Nur Narr! Nur Dichter! Nur Buntes redend, Aus Narren-Larven bunt herausschreiend, Herumsteigend auf lügnerischen Wort-Brücken, Auf bunten Regenbogen, Zwischen falschen Himmeln Und falschen Erden, Herumschweifend, herumschwebend,— *Nur* Narr! *Nur* Dichter!...
+
+*Das*—der Wahrheit Freier? Nicht still, starr, glatt, kalt, Zum Bilde worden, Zur Gottes-Säule, Nicht aufgestellt vor Tempeln, Eines Gottes Thürwart: Nein! Feindselig solchen Wahrheits-Standbildern, In jeder Wildniss heimischer als vor Tempeln, Voll Katzen-Muthwillens, Durch jedes Fenster springend Husch! in jeden Zufall, Jedem Urwalde zuschnüffelnd, Süchtig-sehnsüchtig zuschnüffelnd, Dass du in Urwäldern Unter buntgefleckten Raubthieren Sündlich-gesund und bunt und schön liefest, Mit lüsternen Lefzen, Selig-höhnisch, selig-höllisch, selig-blutgierig, Raubend, schleichend, lügend liefest:...
+
+Oder, dem Adler gleich, der lange, Lange starr in Abgründe blickt, In *seine* Abgründe:... -- Oh wie sie sich hier hinab, Hinunter, hinein, In immer tiefere Tiefen ringeln!— Dann, Plötzlich, geraden Zugs, Gezückten Flugs, Auf Lämmer stossen, Jach hinab, heisshungrig, Nach Lämmern lüstern, Gram allen Lamms-Seelen, Grimmig-gram Allem, was blickt Schafmässig, lammäugig, krauswollig, Grau, mit Lamms-Schafs-Wohlwollen!
+
+Also Adlerhaft, pantherhaft Sind des Dichters Sehnsüchte, Sind *deine* Sehnsüchte unter tausend Larven, Du Narr! Du Dichter!
+
+Der du den Menschen schautest So Gott als Schaf—: Den Gott *zerreissen* im Menschen Wie das Schaf im Menschen, Und zerreisend *lachen*—
+
+*Das*, *Das* ist deine Seligkeit! Eines Panthers und Adlers Seligkeit! Eines Dichters und Narren Seligkeit!“—
+
+Bei abgehellter Luft, Wenn schon des Monds Sichel Grün zwischen Purpurröthen Und neidisch hinschleicht: —dem Tage feind, Mit jedem Schritte heimlich An Rosen-Hängematten Hinsichelnd, bis sie sinken, Nacht-abwärts blass hinabsinken:
+
+So sank ich selber einstmals Aus meinem Wahrheits-Wahnsinne, Aus meinen Tages-Sehnsüchten, Des Tages müde, krank vom Lichte, —sank abwärts, abendwärts, schattenwärts: Von Einer Wahrheit Verbrannt und durstig: —gedenkst du noch, gedenkst du, heisses Herz, Wie da du durstetest?— Dass ich verbannt sei Von *aller* Wahrheit, Nur Narr! Nur Dichter!

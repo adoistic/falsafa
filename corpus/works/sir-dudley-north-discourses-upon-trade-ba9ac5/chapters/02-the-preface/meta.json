@@ -2,7 +2,7 @@
   "work_slug": "sir-dudley-north-discourses-upon-trade-ba9ac5",
   "work_title": "Discourses upon Trade",
   "chapter_number": 2,
-  "chapter_title": "THE PREFACE.",
+  "chapter_title": "The Preface.",
   "chapter_slug": "02-the-preface",
   "layout": "prose",
   "layouts_in_variants": [
@@ -17,7 +17,7 @@
       "language": "english",
       "source_language": "English",
       "script": "latin",
-      "word_count": 2693,
+      "word_count": 2681,
       "paragraph_count": 39,
       "has_image": false,
       "source_url": "https://oll.libertyfund.org/titles/hollander-discourses-upon-trade"

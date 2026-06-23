@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-democracy-in-america-4236c3",
+  "work_title": "Democracy in America",
+  "chapter_number": 70,
+  "chapter_title": "Chapter XII: Causes Of Fanatical Enthusiasm In Some Americans",
+  "chapter_slug": "70",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c7932425-2eea-5b78-8fbf-1ec09af76adf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 527,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/de-tocqueville/democracy-america/ch29.htm"
+    }
+  ]
+}

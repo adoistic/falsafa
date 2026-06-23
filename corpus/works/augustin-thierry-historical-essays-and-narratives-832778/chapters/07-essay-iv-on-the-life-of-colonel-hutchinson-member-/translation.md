@@ -4,7 +4,7 @@ work_slug: "augustin-thierry-historical-essays-and-narratives-832778"
 work_title: Historical Essays and Narratives of the Merovingian Era
 author_name: Augustin Thierry
 chapter_number: 7
-chapter_title: "ESSAY IV.: ON THE LIFE OF COLONEL HUTCHINSON, MEMBER OF THE LONG PARLIAMENT, WRITTEN BY HIS WIDOW LUCY APSLEY."
+chapter_title: "Essay IV.: On the Life of Colonel Hutchinson, Member of the Long Parliament, Written by His Widow Lucy Apsley."
 chapter_slug: "07-essay-iv-on-the-life-of-colonel-hutchinson-member-"
 variant_id: "010ce5c4-4c65-5665-8e19-7398cb4be63a"
 content_type: translation
@@ -13,7 +13,7 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 1473
+word_count: 1469
 source_url: "https://oll.libertyfund.org/titles/thierry-the-historical-essays-and-narratives-of-the-merovingian-era"
 translator: Online Library of Liberty edition
 ---
@@ -26,7 +26,7 @@ By this standard, the life of Colonel Hutchinson, an English patriot of 1640, be
 
 In the struggling and perilous times of infant Christianity, the wife of the Christian was the most touching of characters. Now that resistance, danger, and moral strength exist for patriotism, the most touching of characters is that of the woman who has shared the austere life of the patriot. Mrs. Hutchinson seems to have felt this in writing his memoirs, and this sentiment contributes to give her narrative an air of grandeur which extends without effort to the smallest circumstances. Natural attachments, increased by the power of a great mutual conviction, one thought uniting two existences, domestic afflictions effaced before the prospect of a great future, liberty appearing in the horizon as an infallible providence, such are the great ideas and images of happiness presented by this book; and there is no enthusiastic exaggeration in it; there is nothing in it but what is simple and intelligible to minds capable of feeling and delighting in the truth.
 
-Colonel Hutchinson’s distinguishing traits were like those of all great characters, calmness and strength. Deprived of his fortune by the sacrifices he had made in the cause of liberty, driven from his post by Cromwell, calumniated by the pamphleteers whom the Protector employed, denounced to the people sometimes as a traitor, sometimes as a fanatic, his constancy was unmovable. The despot, who had no conception of any great thoughts apart from ambition, thought one day that he had done sufficient to conquer him, and sent to ask him in his retreat, if he persisted in keeping himself aloof from affairs, and living useless to the public. “When the moment for being useful shall arrive,” answered the colonel, “I will not keep myself aloof. I await that moment. I will not share the infamy Edition: current; Page: [43] of those who, for gold, are concerned in the servitude of their country.”
+Colonel Hutchinson’s distinguishing traits were like those of all great characters, calmness and strength. Deprived of his fortune by the sacrifices he had made in the cause of liberty, driven from his post by Cromwell, calumniated by the pamphleteers whom the Protector employed, denounced to the people sometimes as a traitor, sometimes as a fanatic, his constancy was unmovable. The despot, who had no conception of any great thoughts apart from ambition, thought one day that he had done sufficient to conquer him, and sent to ask him in his retreat, if he persisted in keeping himself aloof from affairs, and living useless to the public. “When the moment for being useful shall arrive,” answered the colonel, “I will not keep myself aloof. I await that moment. I will not share the infamy of those who, for gold, are concerned in the servitude of their country.”
 
 This energetic answer was a sentence of proscription for him who had pronounced it; Colonel Hutchinson was destined by the Protector to share the fetters of Henry Vane. But before Cromwell had sent his satellites to seize the patriot, death overtook himself, and soon after, the restoration threw into other hands the inheritance of his power and his revenge. Those whom Cromwell had hated were summoned to appear before Cromwell’s courtiers, disguised as royal judges; several were condemned to death either as judges of the late king, or as incorrigible patriots; a great many were banished and deprived of their estates: Colonel Hutchinson was exempted from all these sentences: “But,” says the author of the Memoirs, “he complained bitterly of being spared on that fatal day, when the cause to which he had devoted his life was betrayed and condemned. He looked upon himself as judged and executed in the persons of his friends. Although grateful to God for his deliverance, he was doubtful whether he ought to accept it: ‘Never,’ said he, to his wife, whose care and anxious services had contributed to save him from this peril, ‘have you done any thing which has displeased me more.’ Had it not been for the tears of his family, he would willingly have given himself up to death: one thought alone determined him to endure life, which was that he believed his days to be reserved for greater sacrifices.”
 

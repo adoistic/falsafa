@@ -4,7 +4,7 @@ work_slug: "andrew-dickson-white-fiat-money-inflation-in-france-2035b6"
 work_title: Fiat Money Inflation in France
 author_name: Andrew Dickson White
 chapter_number: 1
-chapter_title: INTRODUCTION.
+chapter_title: Introduction.
 chapter_slug: "01-introduction"
 variant_id: "4adf85ad-0311-5257-8dd3-b75244ebf94e"
 content_type: translation

@@ -4,7 +4,10 @@ slug: "aristophanes-clouds-d6b0b8"
 title: Clouds
 author:
   name: Aristophanes
-  biography: Author record from the Perseus Digital Library canonical catalogs.
+  biography: Athenian comic playwright of Old Comedy during the Peloponnesian War. His surviving plays turned Athenian politics and intellectual life into stage satire, and Clouds preserved the earliest caricature of Socrates.
+  birth_year: -446
+  death_year: -386
+  nationality: Greek
 era: Classical
 genre: Classics
 language: Greek

@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 145
-chapter_title: CHAPTER XIV.
+chapter_title: Chapter XXIII. (3)
 chapter_slug: 145
 variant_id: "0df8eb26-1019-5c3e-88f2-071642707c9e"
 content_type: translation
@@ -13,13 +13,33 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 338
+word_count: 357
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-How the honor of God exists in the punishment of the wicked.
+What man took from God by his sin, which he has no power to repay.
 
-But I wish to hear from you whether the punishment of the sinner is an honor to God, or how it is an honor. For if the punishment of the sinner is not for God’s honor when the sinner does not pay what he took away, but is punished, God loses his honor so that he cannot recover it. And this seems in contradiction to the things which have been said.
+What did man take from God, when he allowed himself to be overcome by the devil?
 
-It is impossible for God to lose his honor; for either the sinner pays his debt of his own accord, or, if he refuse, God takes it from him. For either man renders due submission to God of his own will, by avoiding sin or making payment, or else God subjects him to himself by torments, even against man’s will, and thus shows that he is the Lord of man, though man refuses to acknowledge it of his own accord. And here we must observe that as man in sinning takes away what belongs to God, so God in punishing gets in return what pertains to man. For not Edition: current; Page: [208] only does that belong to a man which he has in present possession, but also that which it is in his power to have. Therefore, since man was so made as to be able to attain happiness by avoiding sin; if, on account of his sin, he is deprived of happiness and every good, he repays from his own inheritance what he has stolen, though he repay it against his will. For although God does not apply what he takes away to any object of his own, as man transfers the money which he has taken from another to his own use; yet what he takes away serves the purpose of his own honor, for this very reason, that it is taken away. For by this act he shows that the sinner and all that pertains to him are under his subjection.
+Go on to mention, as you have begun, the evil things which can be added to those already shown for I am ignorant of them.
+
+Did not man take from God whatever He had purposed to do for human nature?
+
+There is no denying that.
+
+Listen to the voice of strict justice; and judge according to that whether man makes to God a real satisfaction for his sin, unless, by overcoming the devil, man restore to God what he took from God in allowing himself to be conquered by the devil; so that, as by this conquest over man the devil took what belonged to God, and God was the loser, so in man’s victory the devil may be despoiled, and God recover his right.
+
+Surely nothing can be more exactly or justly conceived.
+
+Think you that supreme justice can violate this justice?
+
+I dare not think it.
+
+Therefore man cannot and ought not by any means to receive from God what God designed to give him, unless he return to God everything which he took from him; so that, as by man God suffered loss, by man, also, He might recover His loss. But this cannot be effected except in this way: that, as in the fall of man all human nature was corrupted, and, as it were, tainted with sin, and God will not choose one of such a race to fill up the number in his heavenly kingdom; so, by man’s victory, as many men may be justified from sin as are needed to complete the number which man was made to fill. But a sinful man can by no means do this, for a sinner cannot justify a sinner.
+
+There is nothing more just or necessary; but, from all these things, the compassion of God and the hope of man seems to fail, as far as regards that happiness for which man was made.
+
+Yet wait a little.
+
+Have you anything further?

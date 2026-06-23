@@ -4,7 +4,7 @@ work_slug: "hugo-grotius-the-rights-of-war-and-peace-0db900"
 work_title: The Rights of War and Peace
 author_name: Hugo Grotius
 chapter_number: 1
-chapter_title: GENERAL PREFACE
+chapter_title: General Preface
 chapter_slug: "01-general-preface"
 variant_id: "ec1560f5-c793-548f-8074-945a7f4d7ffb"
 content_type: translation

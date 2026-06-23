@@ -1,0 +1,26 @@
+{
+  "work_slug": "denis-diderot-freedom-of-thought-0f3791",
+  "work_title": "Freedom of Thought",
+  "chapter_number": 1,
+  "chapter_title": "Freedom of Thought",
+  "chapter_slug": "01-freedom-of-thought",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c5d87b04-56b0-5d15-91aa-7d5cc890f0ae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1970,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/reference/archive/diderot/1765/freedom-thought.htm"
+    }
+  ]
+}

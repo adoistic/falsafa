@@ -1,0 +1,33 @@
+---
+work_id: "eb9423e0-ba11-50e8-a797-dd4d5059432a"
+work_slug: "sir-frederick-pollock-the-law-of-torts-eb9423"
+work_title: The Law of Torts
+author_name: Sir Frederick Pollock
+chapter_number: 95
+chapter_title: Special Part, Illustrations. (7)
+chapter_slug: "95-special-part-illustrations-7"
+variant_id: "27c5cb32-34d4-5fc0-937b-323312006ebd"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 351
+source_url: "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+translator: Online Library of Liberty edition
+---
+
+1. M. obtains goods from Z. by fraud and false pretences, and, being apparent owner of the goods, purports to sell them to A., who in good faith accepts them and pays M. for them. A. is in fact dealing on behalf of P., and forthwith delivers the goods to P. M. absconds with the price. A. has wronged Z., and is liable to Z. for the value of the goods.
+
+2. A. is a tenant of land belonging to B. A. without authority, but intending to act for B.’s as well as A.’s benefit, converts part of this land into a tank. A. has wronged B., and B. need not prove that the value of the land is diminished.
+
+3. A. obtains goods by fraud and false pretences from Z. at Bombay, and sends them by railway to B. at Allahabad. The railway company’s servants deliver the goods at Allahabad to B.’s order according to the usual course of business. If the railway company has not before this delivery received any notice of an adverse claim on the part of Z., the railway company has not wronged Z.
+
+4. Z. is the owner of 100 maunds of wheat. A. obtains this wheat from him by fraud and false pretences, and offers it for sale to B., a miller, who accepts it in good faith. B. causes the wheat to be ground in his mill together with other wheat bought by B. from the true owners. The men employed in the mill do not know from whom the wheat was bought. Here B. may have wronged Z., but the men employed in the mill have not.
+
+Mere claim of right cannot be trespass.48. The mere assertion of a right to deal with property or to prevent another from dealing with it is not a trespass.
+
+49. The consent of an owner to entry upon or interference with his property is called a licence,Licence defined. and a person to whom such consent is given is called a licensee.
+
+A licence, and the revocation of a licence, may be either express or tacit.

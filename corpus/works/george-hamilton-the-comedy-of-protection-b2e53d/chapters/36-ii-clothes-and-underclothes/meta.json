@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 36,
+  "chapter_title": "Ii.—: Clothes and Underclothes.",
+  "chapter_slug": "36-ii-clothes-and-underclothes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "657a5536-f6d0-515c-8fa4-4352f8271f2f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 130,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

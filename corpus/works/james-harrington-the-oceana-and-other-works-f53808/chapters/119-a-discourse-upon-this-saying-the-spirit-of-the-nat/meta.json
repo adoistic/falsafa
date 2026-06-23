@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 119,
+  "chapter_title": "A Discourse upon This Saying: The Spirit of the Nation is not yet to be trusted with Liberty; lest it introduce Monarchy",
+  "chapter_slug": "119-a-discourse-upon-this-saying-the-spirit-of-the-nat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "56ccd1ec-2b33-5e73-b5b3-29b6b3770a3f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4794,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

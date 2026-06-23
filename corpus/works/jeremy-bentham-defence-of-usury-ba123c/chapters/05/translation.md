@@ -4,7 +4,7 @@ work_slug: "jeremy-bentham-defence-of-usury-ba123c"
 work_title: Defence of Usury
 author_name: Jeremy Bentham
 chapter_number: 5
-chapter_title: "LETTER V.: Reasons for Restraint.—Protection of Simplicity."
+chapter_title: "Letter V.: Reasons for Restraint.—Protection of Simplicity."
 chapter_slug: 05
 variant_id: "f5698f53-42b3-598f-b25f-22c272e26540"
 content_type: translation

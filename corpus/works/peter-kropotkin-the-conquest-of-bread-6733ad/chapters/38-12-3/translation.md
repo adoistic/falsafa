@@ -1,0 +1,55 @@
+---
+work_id: "6733adbb-7791-5c58-b040-6b5bbf1c5c7e"
+work_slug: "peter-kropotkin-the-conquest-of-bread-6733ad"
+work_title: The Conquest of Bread
+author_name: Peter Kropotkin
+chapter_number: 38
+chapter_title: 12.3
+chapter_slug: "38-12-3"
+variant_id: "e2825bf9-fe5d-52e3-b5ae-36b20161b939"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1518
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1892/bread.htm"
+translator: Marxists Internet Archive edition
+---
+
+Those who have seriously studied the question do not deny any of the advantages of Communism, on condition, be it well understood, that Communism be perfectly free, that is to say, Anarchist. They recognize that work paid with money, even disguised under the name of “labour cheques,” to Workers’ associations governed by the State, would keep up the characteristics of wagedom and would retain its disadvantages. They agree that the whole system would soon suffer from it, even if Society came into possession of the instruments of production. And they admit that, thanks to an “integral” complete education given to all children, to the laborious habits of civilized societies, with the liberty of choosing and varying their occupations and the attractions of work done by equals for the well-being of all, a Communist society would not be wanting in producers who would soon make the fertility of the soil triple and tenfold, and give a new impulse to industry.
+
+This our opponents agree to. “But the danger,” they say, “will come from that minority of loafers who will not work, and will not have regular habits, in spite of the excellent conditions that would make work pleasant. To-day the prospect of hunger compels the most refractory to move along with the others. The one who does not arrive in time is dismissed. But one black sheep suffices to contaminate the whole flock, and two or three sluggish or refractory workmen would lead the others astray and bring a spirit of disorder and rebellion into the workshop that would make work impossible; so that in the end we should have to return to a system of compulsion that would force such ringleaders back into the ranks. And then, – Is not the system of wages, paid in proportion to work performed, the only one that enables compulsion to be employed, without hurting the feelings of independence of the worker? All other means would imply the continual intervention of an authority that would be repugnant to free men.” This, we believe, is the objection fairly stated.
+
+To begin with, such an objection belongs to the category of arguments which try to justify the State, the Penal Law, the Judge, and the Gaoler.
+
+“As there are people, a feeble minority, who will not submit to social customs,” the authoritarians say, “we must maintain magistrates, tribunals and prisons, although these institutions become a source of new evils of all kinds.”
+
+Therefore we can only repeat what we have so often said concerning authority in general: “To avoid a possible evil you have recourse to means which in themselves are a greater evil, and become the source of those same abuses that you wish to remedy. For, do not forget that it is wagedom, the impossibility of living otherwise than by selling your labour, which has created the present Capitalist system, whose vices you begin to recognize.” Besides, this way of reasoning is merely a sophistical justification of the evils of the present system. Wagedom was not instituted to remove the disadvantages of Communism; its origin, like that of the State and private ownership, is to be found elsewhere. It is born of slavery and serfdom imposed by force, and only wears a more modern garb. Thus the argument in favour of wagedom is as valueless as those by which they seek to apologize for private property and the State.
+
+We are, nevertheless, going to examine the objection, and see if there is any truth in it.
+
+First of all, – Is it not evident that if a society, founded on the principle of free work, were really menaced by loafers, it could protect itself without the authoritarian organization we have nowadays, and without having recourse to wagedom?
+
+Let us take a group of volunteers, combining for some particular enterprise. Having its success at heart, they all work with a will, save one of the associates, who is frequently absent from his post. Must they on his account dissolve the group, elect a president to impose fines, and work out a code of penalties? It is evident that neither the one nor the other will be done, but that some day the comrade who imperils their enterprise will be told: “Friend, we should like to work with you; but as you are often absent from your post, and you do your work negligently, we must part. Go and find other comrades who will put up with your indifference!”
+
+This way is so natural that it is practiced everywhere, even nowadays, in all industries, in competition with all possible systems of fines, docking of wages, supervision, etc.; a workman may enter the factory at the appointed time, but if he does his work badly, if he hinders his comrades by his laziness or other defects, if he is quarrelsome, there is an end of it; he is compelled to leave the workshop.
+
+Authoritarians pretend that it is the almighty employer and his overseers who maintain regularity and quality of work in factories. In reality, in every somewhat complicated enterprise, in which the goods produced pass through many hands before being finished, it is the factory itself, the workmen as a unity, who see to the good quality of the work. Therefore the best factories of British private industry have few overseers, far less on an average than the French factories, and less than the British State factories.
+
+A certain standard of public morals is maintained in the same way. Authoritarians say it is due to rural guards, judges, and policemen, whereas in reality it is maintained in spite of judges, policemen, and rural guards. “Many are the laws producing criminals!” was said long ago.
+
+Not only in industrial workshops do things go on in this way; it happens everywhere, every day, on a scale that only bookworms have as yet no notion of. When a railway company, federated with other companies, fails to fulfil its engagements, when its trains are late and goods lie neglected at the stations, the other companies threaten to cancel the contract, and that threat usually suffices.
+
+It is generally believed, at any rate it is taught in State-approved schools, that commerce only keeps to its engagements from fear of lawsuits. Nothing of the sort; nine times in ten the trader who has not kept his word will not appear before a judge. There, where trade is very active, as in London, the sole fact of having driven a creditor to bring a lawsuit suffices for the immense majority of merchants to refuse for good to have any dealings with a man who has compelled one of them to go to law.
+
+This being so, why should means that are used to-day among workers in the workshop, traders in the trade, and railway companies in the organization of transport, not be made use of in a society based on voluntary work?
+
+Take, for example, an association stipulating that each of its members should carry out the following contract: “We undertake to give you the use of our houses, stores, streets, means of transport, schools, museums, etc., on condition that, from twenty to forty-five or fifty years of age, you consecrate four or five hours a day to some work recognized as necessary to existence. Choose yourself the producing groups which you wish to join, or organize a new group, provided that it will undertake to produce necessaries. And as for the remainder of your time, combine together with whomsoever you like, for recreation, art, or science, according to the bent of your taste.
+
+“Twelve or fifteen hundred hours of work a year, in one of the groups producing food, clothes, or houses, or employed in public sanitation, transport, and so on, is all we ask of you. For this amount of work we guarantee to you the free use of all that these groups produce, or will produce. But if not one, of the thousands of groups of our federation, will receive you, whatever be their motive; if you are absolutely incapable of producing anything useful, or if you refuse to do it, then live like an isolated man or like an invalid. If we are rich enough to give you the necessaries of life we shall be delighted to give them to you. You are a man, and you have the right to live. But as you wish to live under special conditions, and leave the ranks, it is more than probable that you will suffer for it in your daily relations with other citizens. You will be looked upon as a ghost of bourgeois society, unless some friends of yours, discovering you to be a talent, kindly free you from all moral obligation towards society by doing all the necessary work for you.
+
+“And finally, if it does not please you, go and look for other conditions elsewhere in the wide world, or else seek adherents and organize with them on novel principles. We prefer our own.”
+
+This is what could be done in a communal society in order to turn away sluggards if they became too numerous.

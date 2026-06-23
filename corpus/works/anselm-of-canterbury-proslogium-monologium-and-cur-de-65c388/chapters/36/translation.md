@@ -4,7 +4,7 @@ work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
 work_title: Proslogium; Monologium; and Cur Deus Homo
 author_name: Anselm of Canterbury
 chapter_number: 36
-chapter_title: CHAPTER XXIII.
+chapter_title: Chapter XXVI
 chapter_slug: 36
 variant_id: "4a84940c-12b4-5a93-a104-3c3fab93ceeb"
 content_type: translation
@@ -13,13 +13,15 @@ language: english
 source_language: English
 language_direction: ltr
 script: latin
-word_count: 378
+word_count: 501
 source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
 translator: Online Library of Liberty edition
 ---
 
-This good is equally Father, and Son, and Holy Spirit. And this is a single, necessary Being, which is every good, and wholly good, and the only good —Since the Word is true, and is truth itself, there is nothing in the Father, who utters it, which is not accomplished in the Word by which he expresses himself Neither is the love which proceeds from Father and Son unequal to the Father or the Son, for Father and Son love themselves and one another in the same degree in which what they are is good. Of supreme simplicity nothing can be born, and from it nothing can proceed, except that which is this, of which it is born, or from which it proceeds.
+Is this joy which the Lord promises made full?—The blessed shall rejoice according as they shall love, and they shall love according as they shall know
 
-This good thou art, thou, God the Father; this is thy Word, that is, thy Son. For nothing, other than what thou art, or greater or less than thou, can be in the Word by which thou dost express thyself; for thy Word is true, as thou art truthful. And hence it is truth itself, just as thou art; no other truth than thou; and thou art of so simple a nature, that of thee nothing can be born other than what thou art. This very good is the one love common to thee and to thy Son, that is, the Holy Spirit proceeding from both. For this love is not unequal to thee or to thy Son; seeing that thou dost love thyself and him, and he, thee and himself, to the whole extent of thy being and his. Nor is there aught else proceeding from Edition: current; Page: [29] thee and from him, which is not unequal to thee and to him. Nor can anything proceed from the supreme simplicity, other than what this, from which it proceeds, is.
+My God and my Lord, my hope and the joy of my heart, speak unto my soul and tell me whether this is the joy of which thou tellest us through thy Son: Ask and ye shall receive, that your joy may be full (John xvi. 24). For I have found a joy that is full, and more than full. For when heart, and mind, and soul, and all the man, are full of that joy, joy beyond measure will still remain. Hence, not all of that joy shall enter into those who rejoice; but they who rejoice shall wholly enter into that joy.
 
-But what each is, separately, this is all the Trinity at once, Father, Son, and Holy Spirit; seeing that each separately is none other than the supremely simple unity, and the supremely unitary simplicity. which can neither be multiplied nor varied. Moreover, there is a single necessary Being. Now, this is that single, necessary Being, in which is every good; nay, which is every good, and a single entire good, and the only good.
+Show me, O Lord, show thy servant in his heart whether this is the joy into which thy servants shall enter, who shall enter into the joy of their Lord. But that joy, surely, with which thy chosen ones shall rejoice, eye hath not seen nor ear heard, neither has it entered into the heart of man (Isaiah lxiv. 4; 1 Corinthians ii. 9). Not yet, then, have I told or conceived, O Lord, how greatly those blessed ones of thine shall rejoice. Doubtless they shall rejoice according as they shall love; and they shall love according as they shall know. How far they will know thee, Lord, then! and how much they will love thee! Truly, eye hath not seen, nor ear heard, neither has it entered into the heart of man in this life, how far they shall know thee, and how much they shall love thee in that life.
+
+I pray, O God, to know thee, to love thee, that I may rejoice in thee. And if I cannot attain to full joy in this life, may I at least advance from day to day, until that joy shall come to the full. Let the knowledge of thee advance in me here, and there be made full. Let the love of thee increase, and there let it be full, that here my joy may be great in hope, and there full in truth. Lord, through thy Son thou dost command, nay, thou dost counsel us to ask; and thou dost promise that we shall receive, that our joy may be full. I ask, O Lord, as thou dost counsel through our wonderful Counsellor. I will receive what thou dost promise by virtue of thy truth, that my joy may be full. Faithful God, I ask. I will receive, that my joy may be full. Meanwhile, let my mind meditate upon it; let my tongue speak of it. Let my heart love it; let my mouth talk of it. Let my soul hunger for it; let my flesh thirst for it; let my whole being desire it, until I enter into thy joy, O Lord, who art the Three and the One God, blessed for ever and ever. Amen.

@@ -1,0 +1,41 @@
+---
+work_id: "7cffc718-3bcb-59e5-9a8f-221624d15fd5"
+work_slug: "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7"
+work_title: Memoirs of a Revolutionist
+author_name: Peter Kropotkin
+chapter_number: 32
+chapter_title: "Part 4: St. Petersburg; First Journey to Western Europe, Section 3"
+chapter_slug: 32
+variant_id: "acaaf205-f0d5-5c68-aee8-35ebece7da1e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1342
+source_url: "https://www.marxists.org/reference/archive/kropotkin-peter/1899/memoirs-of-a-revolutionist/part-4-section-3.html"
+translator: Marxists Internet Archive edition
+---
+
+It often happens that men pull in a certain political, social, or familiar harness simply because they never have time to ask themselves whether the position they stand in and the work they accomplish are right; whether their occupations really suit their inner desires and capacities, and give them the satisfaction which every one has the right to expect from his work. Active men are especially liable to find themselves in such a position. Every day brings with it a fresh batch of work, and a man throws himself into his bed late at night without having completed what he had expected to do; then in the morning he hurries to the unfinished task of the previous day. Life goes, and there is no time left to think, no time to consider the direction that one's life is taking. So it was with me.
+
+But now, during my journey in Finland, I had leisure. When I was crossing in a Finnish two-wheeled karria some plain which offered no interest to the geologist, or when I was walking, hammer on shoulder, from one gravel-pit to another, I could think; and amid the undoubtedly interesting geological work I was carrying on, one idea, which appealed far more strongly to my inner self than geology persistently worked in my mind.
+
+I saw what an immense amount of labor the Finnish peasant spends in clearing the land and in breaking up the hard boulder-clay, and I said to myself: "I will write the physical geography of this part of Russia, and tell the peasant the best means of cultivating this soil. Here an American stump-extractor would be invaluable; there certain methods of manuring would be indicated by science.. . . But what is the use of talking to this peasant about American machines, when he has barely enough bread to live upon from one crop to the next; when the rent which he has to pay for that boulder-clay grows heavier and heavier in proportion to his success in improving the soil? He gnaws at his hard-as-a-stone rye-flour cake which he bakes twice a year; he has with it a morsel of fearfully salted cod and a drink of skimmed milk. How dare I talk to him of American machines, when all that he can raise must be sold to pay rent and taxes? He needs me to live with him, to help him to become the owner or the free occupier of that land. Then he will read books with profit, but not now."
+
+And my thoughts wandered from Finland to our Nikólskoye peasants, whom I had lately seen. Now they are free, and they value freedom very much. But they have no meadows. In one way or another, the landlords have got all the meadows for themselves. When I was a child, the Savókhins used to send out six horses for night pasture, the Tolkachóffs had seven. Now, these families have only three horses each; other families, which formerly had three horses, have only one, or none. What can be done with one miserable horse? No meadows, no horses, no manure! How can I talk to them of grass-sowing? They are already ruined,--poor as Lazarus,--and in a few years they will be made still poorer by a foolish taxation. How happy they were when I told them that my father gave them permission to mow the grass in the small open spaces in his Kóstino forest! "Your Nikólskoye peasants are ferocious for work,"--that is the common saying about them in our neighborhood; but the arable land, which our stepmother has taken out of their allotments in virtue of the "law of minimum,"--that diabolic clause introduced by the serfowners when they were allowed to revise the emancipation law,--is now a forest of thistles, and the "ferocious" workers are not allowed to till it. And the same sort of thing goes on throughout all Russia. Even at that time it was evident, and official commissioners gave warning of it, that the first serious failure of crops in Middle Russia would result in a terrible famine,--and famine came, in 1876, in 1884, in 1891, in 1895, and again in 1898.
+
+Science is an excellent thing. I knew its joys and valued them,--perhaps more than many of my colleagues did. Even now, as I was looking on the lakes and the hillocks of Finland, new and beautiful generalizations arose before my eyes. I saw in a remote past, at the very dawn of mankind, the ice accumulating from year to year in the northern archipelagoes, over Scandinavia and Finland. An immense growth of ice invaded the north of Europe and slowly spread as far as its middle portions. Life dwindled in that part of the northern hemisphere, and, wretchedly poor, uncertain, it fled further and further south before the icy breath which came from that immense frozen mass. Man--miserable, weak, ignorant--had every difficulty in maintaining a precarious existence. Ages passed away, till the melting of the ice began, and with it came the lake period, when countless lakes were formed in the cavities, and a wretched subpolar vegetation began timidly to invade the unfathomable marshes with which every lake was surrounded. Another series of ages passed before an extremely slow process of drying up set in, and vegetation began its slow invasion from the south. And now we are fully in the period of a rapid desiccation, accompanied by the formation of dry prairies and steppes, and man has to find out the means to put a check to that desiccation to which Central Asia already has fallen a victim, and which menaces Southeastern Europe.
+
+Belief in an ice-cap reaching Middle Europe was at that time rank heresy; but before my eyes a grand picture was rising, and I wanted to draw it, with the thousands of details I saw in it; to use it as a key to the present distribution of floras and faunas; to open new horizons for geology and physical geography.
+
+But what right had I to these highest joys, when all around me was nothing but misery and struggle for a moldy bit of bread; when whatsoever I should spend to enable me to live in that world of higher emotions must needs be taken from the very mouths of those who grew the wheat and had not bread enough for their children? From somebody's mouth it must be taken, because the aggregate production of mankind remains still so low.
+
+Knowledge is an immense power. Man must know. But we already know much! What if that knowledge--and only that--should become the possession of all? Would not science itself progress in leaps, and cause mankind to make strides in production, invention, and social creation, of which we are hardly in a condition now to measure the speed?
+
+The masses want to know: they are willing to learn; they can learn. There, on the crest of that immense moraine which runs between the lakes, as if giants had heaped it up in a hurry to connect the two shores, there stands a Finnish peasant plunged in contemplation of the beautiful lakes, studded with islands, which lie before him. Not one of these peasants, poor and downtrodden though they may be, will pass this spot without stopping to admire the scene. Or there, on the shore of a lake, stands another peasant, and sings something so beautiful that the best musician would envy him his melody, for its feeling and its meditative power. Both deeply feel, both meditate, both think; they are ready to widen their knowledge,--only give it to them, only give them the means of getting leisure.
+
+This is the direction in which, and these are the kind of people for whom, I must work. All those sonorous phrases about making mankind progress, while at the same time the progress-makers stand aloof from those whom they pretend to push onwards, are mere sophisms made up by minds anxious to shake off a fretting contradiction.
+
+So I sent my negative reply to the Geographical Society.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "daniel-de-leon-reform-or-revolution-7d6797",
+  "work_title": "Reform or Revolution?",
+  "chapter_number": 1,
+  "chapter_title": "Reform or Revolution?",
+  "chapter_slug": "01-reform-or-revolution",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d369b995-4a97-50b1-adc0-376a47ed84cb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 125,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/deleon/works/1896/960126.htm"
+    }
+  ]
+}

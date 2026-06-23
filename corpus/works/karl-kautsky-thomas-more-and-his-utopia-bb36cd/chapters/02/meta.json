@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-kautsky-thomas-more-and-his-utopia-bb36cd",
+  "work_title": "Thomas More and his Utopia",
+  "chapter_number": 2,
+  "chapter_title": "Chapter I. The Rise of Capitalism and of the Modern State",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "90426038-723f-5420-8257-9ea8ca818531",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4927,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/kautsky/1888/more/ch01.htm"
+    }
+  ]
+}

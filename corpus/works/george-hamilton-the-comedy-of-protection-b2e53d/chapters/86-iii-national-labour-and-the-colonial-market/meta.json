@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 86,
+  "chapter_title": "Iii.—: National Labour and the Colonial Market.",
+  "chapter_slug": "86-iii-national-labour-and-the-colonial-market",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "388adfa6-8711-5749-b822-72204e1d927e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 123,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

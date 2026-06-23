@@ -2,10 +2,10 @@
 id: "d4b63227-45ec-46a5-b247-6d5e8f222a5f"
 slug: "unknown-viramitrodaya-d4b632"
 title: Vīramitrodaya
-author: Mitra Miśra
-  name: Unknown
-  biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
-  nationality: Various
+author:
+  name: Mitra Miśra
+  biography: An Indian jurist of the early seventeenth century at the court of Orchha. His Vīramitrodaya is a great digest of Hindu law that compiles and reconciles the earlier Dharmaśāstra authorities.
+  nationality: Indian
 era: Medieval
 genre: Indic
 language: Sanskrit

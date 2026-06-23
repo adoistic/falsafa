@@ -1,0 +1,26 @@
+{
+  "work_slug": "leon-trotsky-terrorism-and-communism-a-reply--881d7e",
+  "work_title": "Terrorism and Communism: A Reply to Karl Kautsky",
+  "chapter_number": 21,
+  "chapter_title": "The Peasant Policy",
+  "chapter_slug": "21-the-peasant-policy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5a918b3-44ed-5117-a1ca-c6f8cf36c8c9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1623,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.marxists.org/archive/trotsky/1920/terrcomm/ch07.htm"
+    }
+  ]
+}
