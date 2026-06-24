@@ -1,0 +1,38 @@
+{
+  "work_slug": "valerius-maximus-facta-et-dicta-memorabilia-86155b",
+  "work_title": "Facta et Dicta Memorabilia",
+  "chapter_number": 9,
+  "chapter_title": "Book 9",
+  "chapter_slug": "09-book-9",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f264ed04-86de-5960-be78-c4cef9f16db4",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9143,
+      "paragraph_count": 145,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1038.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "02c3627c-28ea-5de1-9a18-a9359a4c6101",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14662,
+      "paragraph_count": 145,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

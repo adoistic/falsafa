@@ -1,0 +1,38 @@
+{
+  "work_slug": "statius-achilleis-095f27",
+  "work_title": "Achilleis",
+  "chapter_number": 1,
+  "chapter_title": "Achilleis",
+  "chapter_slug": "01-achilleis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b6e5ba8a-7fc5-540c-9a43-e5da28d7fc59",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7287,
+      "paragraph_count": 1125,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1020.phi003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a36c8f23-d2d1-5067-8e5b-41a88f6e0776",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12281,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

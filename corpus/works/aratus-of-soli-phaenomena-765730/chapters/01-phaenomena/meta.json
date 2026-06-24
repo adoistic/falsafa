@@ -1,0 +1,38 @@
+{
+  "work_slug": "aratus-of-soli-phaenomena-765730",
+  "work_title": "Phaenomena",
+  "chapter_number": 1,
+  "chapter_title": "Phaenomena",
+  "chapter_slug": "01-phaenomena",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1c39bfc3-b786-56f1-8511-508e61bae632",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7752,
+      "paragraph_count": 1155,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0653.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e0d502a-66a2-5c7a-9068-4c45fbb64078",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 10976,
+      "paragraph_count": 85,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

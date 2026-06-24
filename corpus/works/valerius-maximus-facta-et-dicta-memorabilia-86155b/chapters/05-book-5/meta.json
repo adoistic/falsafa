@@ -1,0 +1,38 @@
+{
+  "work_slug": "valerius-maximus-facta-et-dicta-memorabilia-86155b",
+  "work_title": "Facta et Dicta Memorabilia",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05-book-5",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4f0ec7f8-3f3a-546c-bdb9-ad6b143ae5ff",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10117,
+      "paragraph_count": 110,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1038.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aa7ef5c0-8a23-5e85-ad94-7fe9b22af0fc",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 16582,
+      "paragraph_count": 110,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

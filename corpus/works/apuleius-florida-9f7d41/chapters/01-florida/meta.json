@@ -1,0 +1,38 @@
+{
+  "work_slug": "apuleius-florida-9f7d41",
+  "work_title": "Florida",
+  "chapter_number": 1,
+  "chapter_title": "Florida",
+  "chapter_slug": "01-florida",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7ead9f57-2649-55a9-970a-a96d72bb62b9",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7908,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1212.phi003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "611eea86-4ffc-5157-9674-da21eeff1f91",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12858,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

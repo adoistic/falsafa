@@ -1,0 +1,38 @@
+{
+  "work_slug": "aurelius-prudentius-clem-dittochaeon-122670",
+  "work_title": "Dittochaeon",
+  "chapter_number": 1,
+  "chapter_title": "Dittochaeon",
+  "chapter_slug": "01-dittochaeon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6be14553-7342-5a7f-87cf-53ed930f404c",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1415,
+      "paragraph_count": 193,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0238.stoa008"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1d9e8e43-7a2c-5dd4-8491-d8b2f9368683",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2289,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

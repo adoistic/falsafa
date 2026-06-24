@@ -2,8 +2,8 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1704,
-    "authors": 383,
+    "works": 1709,
+    "authors": 386,
     "eras": 10,
     "genres": 23,
     "languages": 9
@@ -32384,6 +32384,101 @@
       "difficulty": "Advanced",
       "description": "Cicero, Marcus Tullius's On Oratory, translated from the Latin by Thothica, with the Latin original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "aurelius-prudentius-clem-dittochaeon-122670",
+      "title": "Dittochaeon",
+      "author": "Aurelius Prudentius Clemens",
+      "author_slug": "aurelius-prudentius-clemens",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aurelius Prudentius Clemens's Dittochaeon, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "apuleius-florida-9f7d41",
+      "title": "Florida",
+      "author": "Apuleius",
+      "author_slug": "apuleius",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Apuleius's Florida, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "aratus-of-soli-phaenomena-765730",
+      "title": "Phaenomena",
+      "author": "Aratus of Soli",
+      "author_slug": "aratus-of-soli",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aratus of Soli's Phaenomena, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "statius-achilleis-095f27",
+      "title": "Achilleis",
+      "author": "Statius",
+      "author_slug": "statius",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Statius's Achilleis, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "valerius-maximus-facta-et-dicta-memorabilia-86155b",
+      "title": "Facta et Dicta Memorabilia",
+      "author": "Valerius Maximus",
+      "author_slug": "valerius-maximus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "History",
+      "genre_slug": "history",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 9,
+      "total_variant_entries": 18,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Valerius Maximus's Facta et Dicta Memorabilia, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -33705,7 +33800,8 @@
     "apuleius": {
       "name": "Apuleius",
       "works": [
-        "apuleius-metamorphoses-4e92f8"
+        "apuleius-metamorphoses-4e92f8",
+        "apuleius-florida-9f7d41"
       ]
     },
     "gellius-aulus": {
@@ -35916,7 +36012,8 @@
         "aurelius-prudentius-clem-cathemerina-10b988",
         "aurelius-prudentius-clem-hamartigenia-6ba42e",
         "aurelius-prudentius-clem-psychomachia-15db03",
-        "aurelius-prudentius-clem-praefatio-b8d117"
+        "aurelius-prudentius-clem-praefatio-b8d117",
+        "aurelius-prudentius-clem-dittochaeon-122670"
       ]
     },
     "clement-of-alexandria": {
@@ -36004,6 +36101,24 @@
         "flavius-philostratus-de-gymnastica-c26e4f",
         "flavius-philostratus-epistulae-et-dialexeis-c7dd8c",
         "flavius-philostratus-nero-36fd7e"
+      ]
+    },
+    "aratus-of-soli": {
+      "name": "Aratus of Soli",
+      "works": [
+        "aratus-of-soli-phaenomena-765730"
+      ]
+    },
+    "statius": {
+      "name": "Statius",
+      "works": [
+        "statius-achilleis-095f27"
+      ]
+    },
+    "valerius-maximus": {
+      "name": "Valerius Maximus",
+      "works": [
+        "valerius-maximus-facta-et-dicta-memorabilia-86155b"
       ]
     }
   },
@@ -37138,7 +37253,8 @@
         "dionysius-of-halicarnass-libri-secundi-de-antiquis-orator-756e07",
         "cicero-marcus-tullius-topica-e2091e",
         "cicero-marcus-tullius-de-optimo-genere-oratorum-9aec20",
-        "cicero-marcus-tullius-on-oratory-6f2b26"
+        "cicero-marcus-tullius-on-oratory-6f2b26",
+        "aratus-of-soli-phaenomena-765730"
       ]
     },
     "imperial": {
@@ -37601,7 +37717,10 @@
         "seneca-lucius-annaeus-medea-f180ad",
         "seneca-lucius-annaeus-agamemnon-18bcc4",
         "seneca-lucius-annaeus-octavia-7fcd43",
-        "seneca-lucius-annaeus-phoenissae-448a13"
+        "seneca-lucius-annaeus-phoenissae-448a13",
+        "apuleius-florida-9f7d41",
+        "statius-achilleis-095f27",
+        "valerius-maximus-facta-et-dicta-memorabilia-86155b"
       ]
     },
     "late-antiquity": {
@@ -37725,7 +37844,8 @@
         "aurelius-prudentius-clem-cathemerina-10b988",
         "aurelius-prudentius-clem-hamartigenia-6ba42e",
         "aurelius-prudentius-clem-psychomachia-15db03",
-        "aurelius-prudentius-clem-praefatio-b8d117"
+        "aurelius-prudentius-clem-praefatio-b8d117",
+        "aurelius-prudentius-clem-dittochaeon-122670"
       ]
     },
     "renaissance": {
@@ -38151,7 +38271,8 @@
         "dionysius-of-halicarnass-de-dinarcho-e2ccff",
         "dionysius-of-halicarnass-de-thucydidis-idiomatibus-4eed97",
         "dionysius-of-halicarnass-de-antiquis-oratoribus-1e0cd0",
-        "dionysius-of-halicarnass-libri-secundi-de-antiquis-orator-756e07"
+        "dionysius-of-halicarnass-libri-secundi-de-antiquis-orator-756e07",
+        "valerius-maximus-facta-et-dicta-memorabilia-86155b"
       ]
     },
     "classics": {
@@ -39063,7 +39184,8 @@
         "seneca-lucius-annaeus-agamemnon-18bcc4",
         "seneca-lucius-annaeus-octavia-7fcd43",
         "seneca-lucius-annaeus-phoenissae-448a13",
-        "cicero-marcus-tullius-on-oratory-6f2b26"
+        "cicero-marcus-tullius-on-oratory-6f2b26",
+        "apuleius-florida-9f7d41"
       ]
     },
     "political-theory": {
@@ -39580,7 +39702,10 @@
         "aurelius-prudentius-clem-cathemerina-10b988",
         "aurelius-prudentius-clem-hamartigenia-6ba42e",
         "aurelius-prudentius-clem-psychomachia-15db03",
-        "aurelius-prudentius-clem-praefatio-b8d117"
+        "aurelius-prudentius-clem-praefatio-b8d117",
+        "aurelius-prudentius-clem-dittochaeon-122670",
+        "aratus-of-soli-phaenomena-765730",
+        "statius-achilleis-095f27"
       ]
     }
   },
@@ -40400,7 +40525,8 @@
         "dionysius-of-halicarnass-libri-secundi-de-antiquis-orator-756e07",
         "flavius-philostratus-de-gymnastica-c26e4f",
         "flavius-philostratus-epistulae-et-dialexeis-c7dd8c",
-        "flavius-philostratus-nero-36fd7e"
+        "flavius-philostratus-nero-36fd7e",
+        "aratus-of-soli-phaenomena-765730"
       ]
     },
     "latin": {
@@ -40737,7 +40863,11 @@
         "aurelius-prudentius-clem-hamartigenia-6ba42e",
         "aurelius-prudentius-clem-psychomachia-15db03",
         "aurelius-prudentius-clem-praefatio-b8d117",
-        "cicero-marcus-tullius-on-oratory-6f2b26"
+        "cicero-marcus-tullius-on-oratory-6f2b26",
+        "aurelius-prudentius-clem-dittochaeon-122670",
+        "apuleius-florida-9f7d41",
+        "statius-achilleis-095f27",
+        "valerius-maximus-facta-et-dicta-memorabilia-86155b"
       ]
     },
     "english": {
