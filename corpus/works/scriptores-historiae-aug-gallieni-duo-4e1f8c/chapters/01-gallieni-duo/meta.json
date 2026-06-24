@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-gallieni-duo-4e1f8c",
+  "work_title": "Gallieni Duo",
+  "chapter_number": 1,
+  "chapter_title": "Gallieni Duo",
+  "chapter_slug": "01-gallieni-duo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0cac45a9-9572-5d37-9b76-8d397d8594f6",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3750,
+      "paragraph_count": 231,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi023"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "601f3722-e8af-51ed-9936-74a86654d58a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5694,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

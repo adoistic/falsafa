@@ -1,0 +1,38 @@
+{
+  "work_slug": "clement-of-alexandria-who-is-the-rich-man-that-shall-b-399f36",
+  "work_title": "Who Is the Rich Man That Shall Be Saved?",
+  "chapter_number": 1,
+  "chapter_title": "Who Is the Rich Man That Shall Be Saved?",
+  "chapter_slug": "01-who-is-the-rich-man-that-shall-be-saved",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f607b4ab-0304-50a9-a753-22bd8a33077a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9231,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0555.tlg006"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "61a6d185-b7aa-5d06-8037-956efdfa1ba4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12369,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

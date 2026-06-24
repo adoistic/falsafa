@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristophanes-acharnians-3d6efd",
+  "work_title": "Acharnians",
+  "chapter_number": 1,
+  "chapter_title": "Acharnians",
+  "chapter_slug": "01-acharnians",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d5c40d04-83de-5f43-a529-e1f4716baae5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6771,
+      "paragraph_count": 1156,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0019.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f757a54d-cb0a-51d3-aa48-8d19c1fba613",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9740,
+      "paragraph_count": 423,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

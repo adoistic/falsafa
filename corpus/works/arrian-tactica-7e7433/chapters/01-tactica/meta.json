@@ -1,0 +1,38 @@
+{
+  "work_slug": "arrian-tactica-7e7433",
+  "work_title": "Tactica",
+  "chapter_number": 1,
+  "chapter_title": "Tactica",
+  "chapter_slug": "01-tactica",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1e4832ef-256a-53ad-907d-d1b838a52756",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9260,
+      "paragraph_count": 251,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0074.tlg005"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a0996736-db2f-5f84-8418-47b6fee60c08",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11313,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-maximini-duo-ea7251",
+  "work_title": "Maximini Duo",
+  "chapter_number": 1,
+  "chapter_title": "Maximini Duo",
+  "chapter_slug": "01-maximini-duo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "caa6fcb2-e17e-5177-9744-22e2e0b64333",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5460,
+      "paragraph_count": 309,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi019"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "913ff45e-6049-5be5-9211-7af64028a74b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8211,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

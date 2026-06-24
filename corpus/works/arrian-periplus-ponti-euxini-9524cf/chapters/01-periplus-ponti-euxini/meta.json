@@ -1,0 +1,38 @@
+{
+  "work_slug": "arrian-periplus-ponti-euxini-9524cf",
+  "work_title": "Periplus Ponti Euxini",
+  "chapter_number": 1,
+  "chapter_title": "Periplus Ponti Euxini",
+  "chapter_slug": "01-periplus-ponti-euxini",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8011b35d-8db8-528c-bbad-103788f8bc46",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4465,
+      "paragraph_count": 108,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0074.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a5133192-74a5-531a-92c3-d15617d225e9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5604,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

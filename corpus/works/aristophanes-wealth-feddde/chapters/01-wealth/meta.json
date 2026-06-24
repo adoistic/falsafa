@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristophanes-wealth-feddde",
+  "work_title": "Wealth",
+  "chapter_number": 1,
+  "chapter_title": "Wealth",
+  "chapter_slug": "01-wealth",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6a7ba7d1-a0f5-5510-8af9-eb2f9e23943a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8794,
+      "paragraph_count": 1402,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0019.tlg011"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc6bc4e1-2824-5560-8f6b-99519e1c83d7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12485,
+      "paragraph_count": 667,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

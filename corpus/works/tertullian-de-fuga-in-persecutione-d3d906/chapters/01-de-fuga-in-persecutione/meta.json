@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-de-fuga-in-persecutione-d3d906",
+  "work_title": "De Fuga in Persecutione",
+  "chapter_number": 1,
+  "chapter_title": "De Fuga in Persecutione",
+  "chapter_slug": "01-de-fuga-in-persecutione",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b20b71a1-5728-5bc4-9224-13ed081be840",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5328,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa016"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "554bcd0f-7569-50aa-b8c5-ae2943b8797c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7939,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,2767 @@
+[
+  {
+    "id": "p-6fe0fa",
+    "offset": 0,
+    "text": "DEMOSTHENES\nOw, ow, ow, what miseries! Ow, ow, ow! May the gods utterly destroy that newly-bought villain, the Paphlagonian, and his scheming counsels along with him! Ever since he came slinking into the house, he's done nothing but get the rest of us slaves a beating."
+  },
+  {
+    "id": "p-f6cfce",
+    "offset": 271,
+    "text": "NICIAS\nYes, may he die the worst of deaths, this front-rank Paphlagonian, slanders and all."
+  },
+  {
+    "id": "p-df97c0",
+    "offset": 364,
+    "text": "DEMOSTHENES\nYou poor wretch, how are you doing?"
+  },
+  {
+    "id": "p-617942",
+    "offset": 413,
+    "text": "NICIAS\nBadly—just like you."
+  },
+  {
+    "id": "p-079772",
+    "offset": 442,
+    "text": "DEMOSTHENES\nCome here, then, and let's wail together a duet in the style of Olympus."
+  },
+  {
+    "id": "p-2b1228",
+    "offset": 528,
+    "text": "DEMOSTHENES AND NICIAS\nBoo-hoo, boo-hoo, boo-hoo, boo-hoo, boo-hoo, boo-hoo!"
+  },
+  {
+    "id": "p-7cbec0",
+    "offset": 606,
+    "text": "DEMOSTHENES\nWhy are we whimpering for nothing? Oughtn't we be searching out some salvation for ourselves, instead of weeping any longer?"
+  },
+  {
+    "id": "p-c7a169",
+    "offset": 744,
+    "text": "NICIAS\nWhat salvation could there be, then?"
+  },
+  {
+    "id": "p-3db27d",
+    "offset": 789,
+    "text": "DEMOSTHENES\nYou tell me."
+  },
+  {
+    "id": "p-be998f",
+    "offset": 815,
+    "text": "NICIAS\nNo, you tell me, so I won't have to fight about it."
+  },
+  {
+    "id": "p-1092df",
+    "offset": 875,
+    "text": "DEMOSTHENES\nBy Apollo, not I!"
+  },
+  {
+    "id": "p-4a35ea",
+    "offset": 906,
+    "text": "NICIAS\nHow could you ever tell me to say what I ought to say?"
+  },
+  {
+    "id": "p-7bfe0e",
+    "offset": 969,
+    "text": "DEMOSTHENES\nJust speak up boldly, and then I'll have my say too."
+  },
+  {
+    "id": "p-65aeb8",
+    "offset": 1035,
+    "text": "NICIAS\nBut I haven't got the nerve. How could I ever come out with it—in that clever Euripidean way?"
+  },
+  {
+    "id": "p-814e2b",
+    "offset": 1137,
+    "text": "DEMOSTHENES\nNot for me, please—not for me! Don't go sprinkling me with chervil-talk. No, find us some way to skip off and away from our master."
+  },
+  {
+    "id": "p-ed6b22",
+    "offset": 1282,
+    "text": "NICIAS\nThen say it like this, all in one breath: \"Let's-go.\""
+  },
+  {
+    "id": "p-5643be",
+    "offset": 1344,
+    "text": "DEMOSTHENES\nVery well, I say it: \"Let's-go.\""
+  },
+  {
+    "id": "p-18d579",
+    "offset": 1390,
+    "text": "NICIAS\nNow after the \"Let's-go\" add this: \"by.\""
+  },
+  {
+    "id": "p-4798c8",
+    "offset": 1439,
+    "text": "DEMOSTHENES\n\"By.\""
+  },
+  {
+    "id": "p-bd569e",
+    "offset": 1458,
+    "text": "NICIAS\nExcellent. Now, gently at first, like a man working himself up, say \"Let's-go,\" then \"by,\" then speed it up and repeat."
+  },
+  {
+    "id": "p-9643c1",
+    "offset": 1586,
+    "text": "DEMOSTHENES\n\"Let's-go, by, Let's-go, by, Let's-go-by\"—desert!"
+  },
+  {
+    "id": "p-64c381",
+    "offset": 1649,
+    "text": "NICIAS\nThere—isn't that sweet?"
+  },
+  {
+    "id": "p-7f2449",
+    "offset": 1681,
+    "text": "DEMOSTHENES\nBy Zeus, yes—except I'm afraid of what that omen means for my hide."
+  },
+  {
+    "id": "p-3942a5",
+    "offset": 1762,
+    "text": "NICIAS\nHow so?"
+  },
+  {
+    "id": "p-fb2d06",
+    "offset": 1778,
+    "text": "DEMOSTHENES\nBecause a man's hide comes off when he works himself up like that."
+  },
+  {
+    "id": "p-f335c3",
+    "offset": 1858,
+    "text": "NICIAS\nThen the best thing for us to do, as things stand, is to go and throw ourselves down before some god's statue."
+  },
+  {
+    "id": "p-1cdad2",
+    "offset": 1977,
+    "text": "DEMOSTHENES\nWhat statue? Do you really believe there are gods?"
+  },
+  {
+    "id": "p-5855f6",
+    "offset": 2041,
+    "text": "NICIAS\nI do."
+  },
+  {
+    "id": "p-c51b80",
+    "offset": 2055,
+    "text": "DEMOSTHENES\nOn what evidence?"
+  },
+  {
+    "id": "p-3faa7d",
+    "offset": 2086,
+    "text": "NICIAS\nBecause I'm hated by the gods. Doesn't that prove it?"
+  },
+  {
+    "id": "p-b64467",
+    "offset": 2148,
+    "text": "DEMOSTHENES\nYou've convinced me. But we'd better look at this some other way. Shall I lay the matter out for the spectators?"
+  },
+  {
+    "id": "p-c7c368",
+    "offset": 2274,
+    "text": "NICIAS\nThat's no worse a plan. But let's beg one thing of them: that they make it plain to us by their faces whether they enjoy the lines and the action."
+  },
+  {
+    "id": "p-6de4ba",
+    "offset": 2429,
+    "text": "DEMOSTHENES\nThen I'll begin. We've got a master—a country fellow, bean-chewing in temper, quick to anger: Demos of the Pnyx, a cantankerous little old man, hard of hearing. On the last new moon he bought himself a slave—a Paphlagonian tanner, the most rascally and slanderous fellow alive. This tanner-Paphlagonian, having sized up the old man's ways, fell at his master's feet and went to coaxing, flattering, fawning, and deceiving him with little scraps of leather-cuttings, talking like this: \"O Demos, take your bath first, when you've judged a single case; then guzzle, gulp, gobble, and pocket your three obols. Shall I serve you up some supper?\" Then he snatches up whatever any of us has prepared and makes a present of it to the master—the Paphlagonian, that is. Just the other day, when I'd kneaded a Spartan barley-cake at Pylos, he ran round in the most villainous way, filched it, and served up himself the cake that I had kneaded. He keeps us off and won't let anyone else wait on the master; he stands behind him at dinner with a leather fly-whisk and shoos away the politicians. And he chants oracles, and the old man goes all Sibylline. When the Paphlagonian sees the old man gone vacant, he plays his trick: he tells barefaced lies about us in the house, and then we get whipped, while the Paphlagonian runs around among the slaves demanding bribes, stirring up trouble, taking payoffs, and saying: \"You see Hylas getting flogged on my account? If you don't win me over, you'll die this very day.\" So we hand it over; otherwise we get trampled by the old man and shit out eight times as much. So now, my good fellow, let's hurry up and figure out which way we should turn, and to whom."
+  },
+  {
+    "id": "p-8b2aac",
+    "offset": 4135,
+    "text": "NICIAS\nThe best way is that \"Let's-go-by,\" my good man."
+  },
+  {
+    "id": "p-ff0d54",
+    "offset": 4192,
+    "text": "DEMOSTHENES\nBut there's no hiding anything from the Paphlagonian. He watches over everything. He's got one leg planted at Pylos and the other in the Assembly. With his stride straddled that wide, his backside is plumb over the Chaonians, his two hands among the Aetolians, and his mind among the Thieves."
+  },
+  {
+    "id": "p-e14de0",
+    "offset": 4498,
+    "text": "NICIAS\nThen our best course is to die."
+  },
+  {
+    "id": "p-e33ed1",
+    "offset": 4538,
+    "text": "DEMOSTHENES\nBut consider how we might die most manfully."
+  },
+  {
+    "id": "p-8a57ea",
+    "offset": 4596,
+    "text": "NICIAS\nHow, then—how could it be done most manfully? It would be best for us to drink bull's blood. The death of Themistocles is the most desirable."
+  },
+  {
+    "id": "p-1294ac",
+    "offset": 4746,
+    "text": "DEMOSTHENES\nNo, by Zeus—neat wine, to the Good Spirit! For maybe then we'd hit on some sound plan."
+  },
+  {
+    "id": "p-c5b84b",
+    "offset": 4846,
+    "text": "NICIAS\nListen to him—neat wine! So it's all about drinking with you? How could a man, when he's drunk, plan anything sound?"
+  },
+  {
+    "id": "p-f64f67",
+    "offset": 4971,
+    "text": "DEMOSTHENES\nIs that so, you fountain-of-pot-piddle-prattle? You dare to slander wine when it comes to ideas? Could you find anything more efficacious than wine? Don't you see? When men drink, they grow rich, they get things done, they win lawsuits, they're happy, they help their friends. Come, bring me out a jug of wine, quick, so I can water my wits and say something clever."
+  },
+  {
+    "id": "p-92aae9",
+    "offset": 5351,
+    "text": "NICIAS\nOh dear, what will you do to us with this drinking of yours?"
+  },
+  {
+    "id": "p-5c2287",
+    "offset": 5420,
+    "text": "DEMOSTHENES\nGood things. Now bring it. I'll lie down here. For if I get good and drunk, I'll go sprinkling all this place with little plans and little notions and little ideas."
+  },
+  {
+    "id": "p-aea5b0",
+    "offset": 5598,
+    "text": "NICIAS\nHow lucky for me I wasn't caught inside stealing the wine!"
+  },
+  {
+    "id": "p-63bb76",
+    "offset": 5665,
+    "text": "DEMOSTHENES\nTell me, what's the Paphlagonian up to?"
+  },
+  {
+    "id": "p-5ef0b5",
+    "offset": 5718,
+    "text": "NICIAS\nThe pest has licked up some confiscated savories and now lies on his back among the hides, snoring drunk."
+  },
+  {
+    "id": "p-3f7624",
+    "offset": 5832,
+    "text": "DEMOSTHENES\nThen go, pour me out a big drink of neat wine for a libation."
+  },
+  {
+    "id": "p-3f0c61",
+    "offset": 5907,
+    "text": "NICIAS\nHere, take it, and pour to the Good Spirit."
+  },
+  {
+    "id": "p-0b901f",
+    "offset": 5959,
+    "text": "DEMOSTHENES\nPull at it, pull at it—the draught of the Pramnian Spirit! O Good Spirit, yours is the plan, not mine!"
+  },
+  {
+    "id": "p-c5a357",
+    "offset": 6075,
+    "text": "NICIAS\nTell me, I beg you, what is it?"
+  },
+  {
+    "id": "p-47b6b9",
+    "offset": 6115,
+    "text": "DEMOSTHENES\nQuickly, steal the Paphlagonian's oracles and bring them out of the house while he's asleep."
+  },
+  {
+    "id": "p-18d328",
+    "offset": 6221,
+    "text": "NICIAS\nRight. Only I'm afraid the Spirit I'll meet with may be an evil one."
+  },
+  {
+    "id": "p-e3d534",
+    "offset": 6298,
+    "text": "DEMOSTHENES\nCome now, let me bring the jug close to my lips, to water my wits and say something clever."
+  },
+  {
+    "id": "p-a220fb",
+    "offset": 6403,
+    "text": "NICIAS\nHow mightily the Paphlagonian farts and snores! So I got away unnoticed with the sacred oracle that he guarded most of all."
+  },
+  {
+    "id": "p-89a3c0",
+    "offset": 6535,
+    "text": "DEMOSTHENES\nYou cleverest of men! Bring it here so I can read it; and you pour me a drink—be quick about it. Let me see what's written in here. Oh, the prophecies! Give me, give me the cup, quick!"
+  },
+  {
+    "id": "p-654bfc",
+    "offset": 6733,
+    "text": "NICIAS\nThere. What does the oracle say?"
+  },
+  {
+    "id": "p-45965d",
+    "offset": 6774,
+    "text": "DEMOSTHENES\nPour me another."
+  },
+  {
+    "id": "p-60314d",
+    "offset": 6804,
+    "text": "NICIAS\nIs \"pour me another\" what's in the prophecies?"
+  },
+  {
+    "id": "p-90ec64",
+    "offset": 6859,
+    "text": "DEMOSTHENES\nO Bakis!"
+  },
+  {
+    "id": "p-c82829",
+    "offset": 6881,
+    "text": "NICIAS\nWhat is it?"
+  },
+  {
+    "id": "p-103c7a",
+    "offset": 6901,
+    "text": "DEMOSTHENES\nGive me the cup, quick!"
+  },
+  {
+    "id": "p-2d5bcf",
+    "offset": 6938,
+    "text": "NICIAS\nThis Bakis made great use of the cup!"
+  },
+  {
+    "id": "p-ee7549",
+    "offset": 6984,
+    "text": "DEMOSTHENES\nYou filthy Paphlagonian—so that's why you guarded this all this time, in dread of the oracle about yourself!"
+  },
+  {
+    "id": "p-3942a5",
+    "offset": 7106,
+    "text": "NICIAS\nHow so?"
+  },
+  {
+    "id": "p-b2c2a4",
+    "offset": 7122,
+    "text": "DEMOSTHENES\nHere it tells how he himself is destroyed."
+  },
+  {
+    "id": "p-670d7e",
+    "offset": 7178,
+    "text": "NICIAS\nAnd how?"
+  },
+  {
+    "id": "p-c9f2c8",
+    "offset": 7195,
+    "text": "DEMOSTHENES\nHow? The oracle says outright that first there arises an oakum-seller, who will be the first to hold the city's affairs."
+  },
+  {
+    "id": "p-4ef9ac",
+    "offset": 7329,
+    "text": "NICIAS\nThat's one seller. What comes next? Go on."
+  },
+  {
+    "id": "p-cd6c4f",
+    "offset": 7380,
+    "text": "DEMOSTHENES\nAfter him a second: a sheep-seller."
+  },
+  {
+    "id": "p-be7765",
+    "offset": 7429,
+    "text": "NICIAS\nTwo sellers, those. And what's in store for this one?"
+  },
+  {
+    "id": "p-8b84cd",
+    "offset": 7491,
+    "text": "DEMOSTHENES\nTo hold power, until another man arises more disgusting than himself; and after that he's destroyed. For there comes after him the Paphlagonian, the hide-seller—a robber, a screamer, with a voice like the Cycloborus torrent."
+  },
+  {
+    "id": "p-46ec76",
+    "offset": 7729,
+    "text": "NICIAS\nSo the sheep-seller was fated to be destroyed by the hide-seller?"
+  },
+  {
+    "id": "p-3e7fb9",
+    "offset": 7803,
+    "text": "DEMOSTHENES\nBy Zeus, yes."
+  },
+  {
+    "id": "p-20fe9d",
+    "offset": 7830,
+    "text": "NICIAS\nAlas, poor me! Then where could even one more seller come from?"
+  },
+  {
+    "id": "p-cdb173",
+    "offset": 7902,
+    "text": "DEMOSTHENES\nThere's still one left, who has an extraordinary trade."
+  },
+  {
+    "id": "p-033609",
+    "offset": 7971,
+    "text": "NICIAS\nTell me, please—who is he?"
+  },
+  {
+    "id": "p-058863",
+    "offset": 8006,
+    "text": "DEMOSTHENES\nShall I say it?"
+  },
+  {
+    "id": "p-9b2a6f",
+    "offset": 8035,
+    "text": "NICIAS\nBy Zeus, yes."
+  },
+  {
+    "id": "p-01d5d2",
+    "offset": 8057,
+    "text": "DEMOSTHENES\nA sausage-seller is the one who will destroy him."
+  },
+  {
+    "id": "p-1709e2",
+    "offset": 8120,
+    "text": "NICIAS\nA sausage-seller? O Poseidon, what a trade! Come, where shall we find this man?"
+  },
+  {
+    "id": "p-445162",
+    "offset": 8208,
+    "text": "DEMOSTHENES\nLet's look for him."
+  },
+  {
+    "id": "p-7c9b00",
+    "offset": 8241,
+    "text": "NICIAS\nBut here he comes—as if by a god's guidance—toward the marketplace!"
+  },
+  {
+    "id": "p-39617c",
+    "offset": 8317,
+    "text": "DEMOSTHENES\nO blessed sausage-seller, here, here, dearest friend! Come up here, you who have appeared as savior to the city and to us!"
+  },
+  {
+    "id": "p-54f5f4",
+    "offset": 8453,
+    "text": "SAUSAGE-SELLER\nWhat is it? Why are you calling me?"
+  },
+  {
+    "id": "p-38aa0b",
+    "offset": 8505,
+    "text": "DEMOSTHENES\nCome here, so you may learn how fortunate you are and how greatly blessed."
+  },
+  {
+    "id": "p-81bc84",
+    "offset": 8593,
+    "text": "NICIAS\nGo on, take his tray down from him and teach him the god's oracle, how it stands; meanwhile I'll go and keep an eye on the Paphlagonian."
+  },
+  {
+    "id": "p-1b9292",
+    "offset": 8738,
+    "text": "DEMOSTHENES\nCome now, first set your gear down on the ground; then make obeisance to the earth and to the gods."
+  },
+  {
+    "id": "p-40241c",
+    "offset": 8851,
+    "text": "SAUSAGE-SELLER\nThere. What is it?"
+  },
+  {
+    "id": "p-fa933e",
+    "offset": 8886,
+    "text": "DEMOSTHENES\nO blessed one, O rich man! O you who today are nobody and tomorrow are enormous! O lord of blessed Athens!"
+  },
+  {
+    "id": "p-9f2765",
+    "offset": 9006,
+    "text": "SAUSAGE-SELLER\nMy good man, why won't you let me wash my tripe and sell my sausages, instead of making fun of me?"
+  },
+  {
+    "id": "p-ea67b7",
+    "offset": 9121,
+    "text": "DEMOSTHENES\nYou fool, what tripe? Look over here. Do you see these ranks of people?"
+  },
+  {
+    "id": "p-037879",
+    "offset": 9206,
+    "text": "SAUSAGE-SELLER\nI see them."
+  },
+  {
+    "id": "p-7d1136",
+    "offset": 9234,
+    "text": "DEMOSTHENES\nOver all of these you yourself will be supreme master—of the marketplace, the harbors, the Pnyx. You'll trample the Council and cut the generals down to size; you'll fetter and imprison, and play the whore in the Prytaneum."
+  },
+  {
+    "id": "p-5479a8",
+    "offset": 9471,
+    "text": "SAUSAGE-SELLER\nMe?"
+  },
+  {
+    "id": "p-38befd",
+    "offset": 9491,
+    "text": "DEMOSTHENES\nYou indeed—and you don't yet see the whole of it. Climb up onto this tray here and look out over all the islands in a circle."
+  },
+  {
+    "id": "p-037879",
+    "offset": 9630,
+    "text": "SAUSAGE-SELLER\nI see them."
+  },
+  {
+    "id": "p-01ea33",
+    "offset": 9658,
+    "text": "DEMOSTHENES\nWhat else? The trading-ports and the merchant ships?"
+  },
+  {
+    "id": "p-361b55",
+    "offset": 9724,
+    "text": "SAUSAGE-SELLER\nI do."
+  },
+  {
+    "id": "p-8805c6",
+    "offset": 9746,
+    "text": "DEMOSTHENES\nThen how are you not greatly blessed? Now cast your right eye toward Caria and the other toward Carthage."
+  },
+  {
+    "id": "p-253e55",
+    "offset": 9865,
+    "text": "SAUSAGE-SELLER\nI'll be blessed if I get cross-eyed?"
+  },
+  {
+    "id": "p-8ee96e",
+    "offset": 9918,
+    "text": "DEMOSTHENES\nNo—rather, all these things are sold off through your hands. For you become, as this oracle says, the greatest of men."
+  },
+  {
+    "id": "p-baae31",
+    "offset": 10050,
+    "text": "SAUSAGE-SELLER\nTell me, how can I, a sausage-seller, become a great man?"
+  },
+  {
+    "id": "p-2e4ef6",
+    "offset": 10124,
+    "text": "DEMOSTHENES\nWhy, it's for that very reason you become great—because you're a low fellow, from the marketplace, and brazen."
+  },
+  {
+    "id": "p-b57d27",
+    "offset": 10248,
+    "text": "SAUSAGE-SELLER\nI don't think myself worthy of great power."
+  },
+  {
+    "id": "p-b7043a",
+    "offset": 10308,
+    "text": "DEMOSTHENES\nDear me, why do you say you're not worthy? You seem to me to be conscious of some good quality in yourself. Are you of good and noble stock?"
+  },
+  {
+    "id": "p-1bd236",
+    "offset": 10462,
+    "text": "SAUSAGE-SELLER\nBy the gods, no—of rascally stock, if anything."
+  },
+  {
+    "id": "p-bbfe65",
+    "offset": 10526,
+    "text": "DEMOSTHENES\nO lucky man, what a piece of fortune! How well off you are for public affairs!"
+  },
+  {
+    "id": "p-8589dd",
+    "offset": 10618,
+    "text": "SAUSAGE-SELLER\nBut my good man, I don't even know any music, except my letters—and those badly, in a bad way."
+  },
+  {
+    "id": "p-093ac4",
+    "offset": 10729,
+    "text": "DEMOSTHENES\nThe only thing against you is that you know them at all, even badly. For leadership of the people is no longer a job for a cultured man, nor for one decent in his ways, but for the ignorant and disgusting. So don't pass up what the gods are giving you in the prophecies."
+  },
+  {
+    "id": "p-5d4302",
+    "offset": 11013,
+    "text": "SAUSAGE-SELLER\nWell, what does the oracle say?"
+  },
+  {
+    "id": "p-56ee4b",
+    "offset": 11061,
+    "text": "DEMOSTHENES\nBy the gods, it's well and intricately and cleverly riddled out:\n\"But when the hook-taloned leather-eagle shall seize in his jaws\na blockheaded blood-drinking serpent,\nthen is the garlic-brine of the Paphlagonians destroyed,\nand to the tripe-sellers the god grants great glory,\nunless they choose rather to keep on selling sausages.\""
+  },
+  {
+    "id": "p-4c3463",
+    "offset": 11408,
+    "text": "SAUSAGE-SELLER\nHow does this concern me, then? Explain it to me."
+  },
+  {
+    "id": "p-1b0570",
+    "offset": 11474,
+    "text": "DEMOSTHENES\nThe leather-eagle is this Paphlagonian here."
+  },
+  {
+    "id": "p-4312bc",
+    "offset": 11532,
+    "text": "SAUSAGE-SELLER\nAnd what does \"hook-taloned\" mean?"
+  },
+  {
+    "id": "p-86628e",
+    "offset": 11583,
+    "text": "DEMOSTHENES\nIt says it plainly enough: that with his hooked hands he grabs and carries off."
+  },
+  {
+    "id": "p-c46b16",
+    "offset": 11676,
+    "text": "SAUSAGE-SELLER\nAnd the serpent—what's that about?"
+  },
+  {
+    "id": "p-16ed8d",
+    "offset": 11727,
+    "text": "DEMOSTHENES\nThat's perfectly clear. The serpent is long, and the sausage is long too. Then the sausage and the serpent are both blood-drinkers. So it says the serpent will now overcome the leather-eagle, if he isn't warmed over with words."
+  },
+  {
+    "id": "p-cde220",
+    "offset": 11968,
+    "text": "SAUSAGE-SELLER\nThe oracles do flatter me; but I'm amazed that I should be able to manage the people."
+  },
+  {
+    "id": "p-8cf3eb",
+    "offset": 12070,
+    "text": "DEMOSTHENES\nThe easiest thing in the world. Just do what you're already doing: stir up and sausage-stuff all the city's affairs together, and always win the people over by sweetening them with little phrases from the cook-shop. You've got everything else a demagogue needs: a filthy voice, low birth, the manners of the marketplace. You have everything required for politics. And the oracles agree, and the Pythian word as well. So put on a garland and pour libation to Blockhead, and see that you defend yourself against the man."
+  },
+  {
+    "id": "p-31a707",
+    "offset": 12602,
+    "text": "SAUSAGE-SELLER\nAnd who will become my ally? For the rich are afraid of him, and the poor folk are terrified."
+  },
+  {
+    "id": "p-701ea3",
+    "offset": 12712,
+    "text": "DEMOSTHENES\nBut there are a thousand Knights, good men, who hate him and will come to your aid; and the noble and good among the citizens; and any spectator who is clever; and I with them; and the god will lend a hand too. And don't be afraid: he's not portrayed to the life, for out of fear of him none of the mask-makers was willing to make his likeness. Still, he'll certainly be recognized, for the audience is clever."
+  },
+  {
+    "id": "p-3064e4",
+    "offset": 13136,
+    "text": "SAUSAGE-SELLER\nOh no, the wretched Paphlagonian is coming out!"
+  },
+  {
+    "id": "p-4891b1",
+    "offset": 13200,
+    "text": "CLEON\nBy the twelve gods, you two won't get away with this—you who've long been conspiring against the people! What's this Chalcidian cup doing here? You're surely fomenting revolt among the Chalcidians! You'll be destroyed, you'll be killed, you most filthy pair!"
+  },
+  {
+    "id": "p-06e039",
+    "offset": 13466,
+    "text": "DEMOSTHENES\nYou there, why are you running? Won't you stand? O noble sausage-seller, don't betray the cause!"
+  },
+  {
+    "id": "p-4a9feb",
+    "offset": 13576,
+    "text": "DEMOSTHENES\nKnights, come to the rescue—now is the moment! Simon, Panaitios, won't you charge to the right wing? The men are near. Defend yourself and wheel about again! The dust of them is plain, as if they're closing in together. So defend yourself and pursue him and put him to flight!"
+  },
+  {
+    "id": "p-9dfa20",
+    "offset": 13866,
+    "text": "CHORUS OF KNIGHTS\nStrike him, strike the villain, the troubler-of-the-cavalry, the tax-farmer, the chasm and the Charybdis of plunder—the villain, the villain! Yes, I'll say it again and again, for he was a villain many times a day. So strike him and chase him and stir him up and churn him, and loathe him—we do too—and bear down and shout. But take care he doesn't escape you, for he knows the back-ways by which Eucrates fled straight to his bran-bins."
+  },
+  {
+    "id": "p-6c56e9",
+    "offset": 14323,
+    "text": "CLEON\nOld jurymen, brethren of the three-obol fee, whom I feed by my bawling—justly and unjustly alike—come to the rescue! I'm being beaten by men who've conspired against me!"
+  },
+  {
+    "id": "p-a8991a",
+    "offset": 14500,
+    "text": "CHORUS\nAnd justly too, since you devour the public funds before you've even drawn your lot, and squeeze the men under audit like men testing figs, prodding to see which of them is unripe or ripe or not yet ripe; and if you spot any of them being simple and gaping, you drag him down from the Chersonese, trip him up with a slander, twist his shoulder back, and gulp him down. And you keep an eye out for which of the citizens is lamb-like—rich, and not a rascal, and trembling at public affairs."
+  },
+  {
+    "id": "p-b783b0",
+    "offset": 14997,
+    "text": "CLEON\nAre you in on this attack too? Men, it's on your account I'm being beaten—because I was about to propose that it would be just to erect a monument in the city to your bravery."
+  },
+  {
+    "id": "p-93225a",
+    "offset": 15180,
+    "text": "CHORUS\nWhat a swindler he is, what a slippery sole! Did you see how he comes creeping up, treating us like old men, and tricking us? But if he wins this way, he'll get a thrashing this way; and if he dodges off this way, he'll catch a kick in the leg."
+  },
+  {
+    "id": "p-6d0ead",
+    "offset": 15433,
+    "text": "CLEON\nO city, O people, by what beasts I'm getting my belly pummeled!"
+  },
+  {
+    "id": "p-19afe7",
+    "offset": 15504,
+    "text": "CHORUS\nSo you're bawling again, the way you're always overturning the city?"
+  },
+  {
+    "id": "p-f9437a",
+    "offset": 15581,
+    "text": "CLEON\nWhy, with this very bawling I'll be the first to rout you."
+  },
+  {
+    "id": "p-ebbebd",
+    "offset": 15647,
+    "text": "CHORUS\nWell, if you win by bawling, hurrah for you; but if shamelessness carries you past us, ours is the cake of victory."
+  },
+  {
+    "id": "p-23c93b",
+    "offset": 15771,
+    "text": "CLEON\nI denounce this man, and I declare that he's exporting broth-supplies for the triremes of the Peloponnesians."
+  },
+  {
+    "id": "p-e7a9a4",
+    "offset": 15888,
+    "text": "SAUSAGE-SELLER\nYes, by Zeus, and I denounce this one—because with an empty belly he runs into the Prytaneum and then runs out again with it full."
+  },
+  {
+    "id": "p-4f2ff5",
+    "offset": 16035,
+    "text": "DEMOSTHENES\nBy Zeus, smuggling out forbidden goods—bread and meat at once, and a slice of fish, an honor Pericles was never granted."
+  },
+  {
+    "id": "p-26eb48",
+    "offset": 16169,
+    "text": "CLEON\nYou'll both be dead in a moment."
+  },
+  {
+    "id": "p-a8b018",
+    "offset": 16209,
+    "text": "SAUSAGE-SELLER\nI'll out-bawl you three to one!"
+  },
+  {
+    "id": "p-b1e2dd",
+    "offset": 16257,
+    "text": "CLEON\nI'll shout you down with my shouting!"
+  },
+  {
+    "id": "p-31be89",
+    "offset": 16302,
+    "text": "SAUSAGE-SELLER\nI'll out-scream you with my screaming!"
+  },
+  {
+    "id": "p-156187",
+    "offset": 16357,
+    "text": "CLEON\nI'll slander you if you become a general!"
+  },
+  {
+    "id": "p-a3b652",
+    "offset": 16406,
+    "text": "SAUSAGE-SELLER\nI'll cudgel your back like a dog!"
+  },
+  {
+    "id": "p-8a61f2",
+    "offset": 16456,
+    "text": "CLEON\nI'll hedge you in with my swaggering!"
+  },
+  {
+    "id": "p-ab7bda",
+    "offset": 16501,
+    "text": "SAUSAGE-SELLER\nI'll cut off your escape routes!"
+  },
+  {
+    "id": "p-456aed",
+    "offset": 16550,
+    "text": "CLEON\nLook at me without blinking!"
+  },
+  {
+    "id": "p-1a452d",
+    "offset": 16586,
+    "text": "SAUSAGE-SELLER\nI was raised in the marketplace too!"
+  },
+  {
+    "id": "p-8e0792",
+    "offset": 16639,
+    "text": "CLEON\nI'll tear you apart if you so much as squeak!"
+  },
+  {
+    "id": "p-ff8919",
+    "offset": 16692,
+    "text": "SAUSAGE-SELLER\nI'll dung you all over if you so much as babble!"
+  },
+  {
+    "id": "p-1e3f3f",
+    "offset": 16757,
+    "text": "CLEON\nI admit I steal—you don't."
+  },
+  {
+    "id": "p-5a8a2d",
+    "offset": 16791,
+    "text": "SAUSAGE-SELLER\nBy Hermes of the marketplace, I do—and I swear false oaths in plain sight, too."
+  },
+  {
+    "id": "p-c883cd",
+    "offset": 16887,
+    "text": "CLEON\nSo you're poaching on others' specialties. And I'll denounce you to the prytaneis for holding the gods' sacred tripe untithed."
+  },
+  {
+    "id": "p-d4bcfa",
+    "offset": 17021,
+    "text": "CHORUS\nYou filthy, disgusting, bawling creature! Of your brazenness the whole earth is full, and every assembly, and the taxes, and the indictments, and the law-courts—you mud-stirrer, who have churned up our whole city in confusion, who have deafened our Athens with your bawling, watching for the tribute-money from the rocks above like a tuna-spotter."
+  },
+  {
+    "id": "p-4d00ba",
+    "offset": 17377,
+    "text": "CLEON\nI know this business, and where it's been getting cobbled up all this while."
+  },
+  {
+    "id": "p-21c8e9",
+    "offset": 17461,
+    "text": "SAUSAGE-SELLER\nIf you don't know about cobbling, then I know nothing about stuffing sausage—you who used to undercut and sell the hide of a worthless ox to the country folk, villainously, so it looked thick; and before they'd worn it a single day, it was bigger by two spans."
+  },
+  {
+    "id": "p-cb1c24",
+    "offset": 17738,
+    "text": "DEMOSTHENES\nBy Zeus, he did that very same thing to me, so I became a great laughingstock to my fellow-demesmen and friends—for before I got to Pergasae I was swimming around in my own shoes."
+  },
+  {
+    "id": "p-a212d4",
+    "offset": 17931,
+    "text": "CHORUS\nDidn't you from the very start display that shamelessness which alone champions the orators? Trusting in it you milk the well-off foreigners, being first at it; while the son of Hippodamus melts away as he watches. But now another man has appeared, far filthier than you—and I'm glad of it—who will put a stop to you and surpass you (it's clear from the start) in villainy and brazenness and rascally tricks."
+  },
+  {
+    "id": "p-571fbb",
+    "offset": 18348,
+    "text": "CHORUS\nCome, you who were bred there where the men are men indeed, show now that a decent upbringing counts for nothing."
+  },
+  {
+    "id": "p-cf4942",
+    "offset": 18470,
+    "text": "SAUSAGE-SELLER\nNow hear what sort of citizen this fellow is."
+  },
+  {
+    "id": "p-e00d89",
+    "offset": 18532,
+    "text": "CLEON\nWon't you let me speak?"
+  },
+  {
+    "id": "p-5904a3",
+    "offset": 18563,
+    "text": "SAUSAGE-SELLER\nBy Zeus, no—since I'm a rascal too."
+  },
+  {
+    "id": "p-88d990",
+    "offset": 18615,
+    "text": "CHORUS\nAnd if he won't yield even at that, tell him you come of rascally stock as well."
+  },
+  {
+    "id": "p-e00d89",
+    "offset": 18704,
+    "text": "CLEON\nWon't you let me speak?"
+  },
+  {
+    "id": "p-a93de3",
+    "offset": 18735,
+    "text": "SAUSAGE-SELLER\nBy Zeus, no."
+  },
+  {
+    "id": "p-0787bc",
+    "offset": 18764,
+    "text": "CLEON\nBy Zeus, yes!"
+  },
+  {
+    "id": "p-23ff30",
+    "offset": 18785,
+    "text": "SAUSAGE-SELLER\nBy Poseidon, no! I'll fight first over the very point of speaking first."
+  },
+  {
+    "id": "p-f057b8",
+    "offset": 18874,
+    "text": "CLEON\nOh, I'll burst!"
+  },
+  {
+    "id": "p-d66761",
+    "offset": 18897,
+    "text": "SAUSAGE-SELLER\nAnd I won't let you."
+  },
+  {
+    "id": "p-f81631",
+    "offset": 18934,
+    "text": "CHORUS\nLet him, let him, in the gods' name—let him burst!"
+  },
+  {
+    "id": "p-8a19cc",
+    "offset": 18993,
+    "text": "CLEON\nOn what grounds do you presume to speak against me?"
+  },
+  {
+    "id": "p-72f60e",
+    "offset": 19052,
+    "text": "SAUSAGE-SELLER\nBecause I too can make a speech and cook up a sauce."
+  },
+  {
+    "id": "p-8d90ac",
+    "offset": 19121,
+    "text": "CLEON\nListen to him—\"make a speech\"! A fine job you'd do, then, if a raw, ragged business were handed to you, taking it up and managing it properly! But you know what your case is? It's the case of the multitude. If somewhere you won some petty little lawsuit against a resident alien, muttering and chattering to yourself by night in the streets, drinking water and showing off and boring your friends, you thought you were a capable speaker. You fool, what folly!"
+  },
+  {
+    "id": "p-b3ca3c",
+    "offset": 19588,
+    "text": "SAUSAGE-SELLER\nAnd what did you drink, when you got the city into such a state that now, gagged by you alone, it sits in silence?"
+  },
+  {
+    "id": "p-d8a97c",
+    "offset": 19719,
+    "text": "CLEON\nWhat man have you set up against me? One who, the moment he's gobbled down hot tunny-steaks and washed them down with a jug of neat wine, will outmatch the generals at Pylos!"
+  },
+  {
+    "id": "p-eac244",
+    "offset": 19901,
+    "text": "SAUSAGE-SELLER\nAnd I, when I've gulped down an ox's stomach and a sow's belly, and then drunk the broth on top of it without washing my hands, will out-bellow the orators and put the wind up Nicias."
+  },
+  {
+    "id": "p-20364d",
+    "offset": 20101,
+    "text": "CHORUS\nThe rest of what you said pleased me; but one thing I don't accept—that of the public business he alone should slurp up the broth."
+  },
+  {
+    "id": "p-75c07e",
+    "offset": 20240,
+    "text": "CLEON\nBut you won't shake up the Milesians by gobbling sea-bass!"
+  },
+  {
+    "id": "p-98dc99",
+    "offset": 20306,
+    "text": "SAUSAGE-SELLER\nNo, but when I've eaten ribs of beef I'll buy up mining-shares."
+  },
+  {
+    "id": "p-22fbb0",
+    "offset": 20386,
+    "text": "CLEON\nAnd I'll leap into the Council and stir it up by force."
+  },
+  {
+    "id": "p-94f26c",
+    "offset": 20449,
+    "text": "SAUSAGE-SELLER\nAnd I'll stir up your backside like a sausage."
+  },
+  {
+    "id": "p-bc2754",
+    "offset": 20512,
+    "text": "CLEON\nAnd I'll drag you out by the rump head-first, out the door."
+  },
+  {
+    "id": "p-c912f0",
+    "offset": 20579,
+    "text": "CHORUS\nBy Poseidon, then you'll have to drag me out too, if you drag this fellow."
+  },
+  {
+    "id": "p-592b22",
+    "offset": 20662,
+    "text": "CLEON\nHow I'll bind you in the stocks!"
+  },
+  {
+    "id": "p-20f1db",
+    "offset": 20702,
+    "text": "SAUSAGE-SELLER\nI'll prosecute you for cowardice!"
+  },
+  {
+    "id": "p-910fc2",
+    "offset": 20752,
+    "text": "CLEON\nYour hide will be stretched on the tanner's bench!"
+  },
+  {
+    "id": "p-e6a4de",
+    "offset": 20810,
+    "text": "SAUSAGE-SELLER\nI'll flay you into a thieves' purse!"
+  },
+  {
+    "id": "p-ec814d",
+    "offset": 20863,
+    "text": "CLEON\nYou'll be pegged out on the ground!"
+  },
+  {
+    "id": "p-e7cccb",
+    "offset": 20906,
+    "text": "SAUSAGE-SELLER\nI'll chop you into mincemeat!"
+  },
+  {
+    "id": "p-f4876f",
+    "offset": 20952,
+    "text": "CLEON\nI'll pluck out your eyelashes!"
+  },
+  {
+    "id": "p-d35781",
+    "offset": 20990,
+    "text": "SAUSAGE-SELLER\nI'll cut out your gullet!"
+  },
+  {
+    "id": "p-57358c",
+    "offset": 21032,
+    "text": "DEMOSTHENES\nAnd by Zeus, we'll jam a peg into his mouth, cook-fashion, then pull his tongue out from inside, and—with him gaping wide—inspect well and manfully whether his backside has the pip."
+  },
+  {
+    "id": "p-9b0b00",
+    "offset": 21227,
+    "text": "CHORUS\nSo there were things hotter than fire, and speeches in the city more shameless than the shameless! And the matter, it seems, was no light one after all. Go at him and twist him, do nothing by halves! Now you've got him by the middle; for if you soften him now in the assault, you'll find him a coward—I know his ways."
+  },
+  {
+    "id": "p-9b7bce",
+    "offset": 21553,
+    "text": "SAUSAGE-SELLER\nAnd yet, though he's been this sort all his life, he's been thought a man—by reaping a harvest that wasn't his. Now he's got those ears of grain he carried off from there, and he ties them up to dry in the stocks and wants to sell them off."
+  },
+  {
+    "id": "p-ea5037",
+    "offset": 21810,
+    "text": "CLEON\nI'm not afraid of you, so long as the Council lives and the people's face sits there gaping like an idiot."
+  },
+  {
+    "id": "p-a1103d",
+    "offset": 21924,
+    "text": "CHORUS\nHow shameless he is in everything, and never changes the color he's got on! If I don't hate you, may I become a sheepskin in Cratinus's house, and be taught to sing along to a tragedy of Morsimus! O you who settle on every venal flower in every kind of affair, would you might spit out your mouthful as easily as you came by it! Then I'd sing this alone: \"Drink, drink, in the face of your misfortunes!\" And the old wheat-watcher, son of Julius, would, I think, be delighted and chant the paean and sing \"Bacchus, Bacchus!\""
+  },
+  {
+    "id": "p-7b3c40",
+    "offset": 22456,
+    "text": "CLEON\nBy Poseidon, you won't outdo me in shamelessness—or may I never be present at the entrails of Zeus of the marketplace!"
+  },
+  {
+    "id": "p-86d27d",
+    "offset": 22582,
+    "text": "SAUSAGE-SELLER\nAnd I, by the punches I've put up with, many of them on top of many, ever since I was a boy, and the knife-cuts too—I think I'll outdo you in these, or I'll have been fed up so big for nothing on scraps of bread."
+  },
+  {
+    "id": "p-f86c8f",
+    "offset": 22811,
+    "text": "CLEON\nOn scraps, like a dog? You utter scoundrel, then how, eating dog's fare, will you fight a dog-faced baboon?"
+  },
+  {
+    "id": "p-a60e55",
+    "offset": 22926,
+    "text": "SAUSAGE-SELLER\nBy Zeus, I've got plenty of other knavish tricks from my boyhood. I used to fool the cooks by saying things like this: \"Look, boys! Don't you see? Spring's come—a swallow!\" And while they were gawping, I'd steal the meat."
+  },
+  {
+    "id": "p-18da60",
+    "offset": 23164,
+    "text": "CHORUS\nO cleverest cut of meat! How wisely you planned ahead! Like a man eating nettles before the swallows, you'd steal."
+  },
+  {
+    "id": "p-adeea8",
+    "offset": 23287,
+    "text": "SAUSAGE-SELLER\nAnd I'd get away with it, too. But if one of them did see me, I'd hide it down between my buttocks and swear by the gods I hadn't done it. So a certain orator, seeing me at it, said: \"There's no way that boy won't end up managing the people.\""
+  },
+  {
+    "id": "p-bfd5de",
+    "offset": 23546,
+    "text": "CHORUS\nHe guessed it well! And it's clear what he reasoned from: that you'd sworn false oaths with the goods filched, and your backside held the meat."
+  },
+  {
+    "id": "p-0989a6",
+    "offset": 23698,
+    "text": "CLEON\nI'll put an end to your boldness—both of you, I think, the more so. For I'll bear down on you now, brilliant and mighty, sweeping at once over land and sea, all in a heedless rush."
+  },
+  {
+    "id": "p-e45121",
+    "offset": 23886,
+    "text": "SAUSAGE-SELLER\nAnd I'll reef in my sausages and let myself drive before the wave with a fair wind, bidding you go to blazes."
+  },
+  {
+    "id": "p-57c866",
+    "offset": 24012,
+    "text": "DEMOSTHENES\nAnd I, if anything springs a leak, will keep an eye on the bilge."
+  },
+  {
+    "id": "p-aa8d67",
+    "offset": 24091,
+    "text": "CLEON\nBy Demeter, you won't get away with it—not after stealing many talents from the Athenians!"
+  },
+  {
+    "id": "p-a0d931",
+    "offset": 24189,
+    "text": "DEMOSTHENES\nWatch out, and pay out the sheet! He's blowing now a north-easter and a sycophant-wind."
+  },
+  {
+    "id": "p-42ecc0",
+    "offset": 24290,
+    "text": "SAUSAGE-SELLER\nAnd I know well you've got ten talents salted away from Potidaea."
+  },
+  {
+    "id": "p-7356ed",
+    "offset": 24372,
+    "text": "CLEON\nWell? Will you take one of the talents and keep quiet?"
+  },
+  {
+    "id": "p-0171af",
+    "offset": 24434,
+    "text": "CHORUS\nThe man would gladly take it! Pay out the topsail-braces!"
+  },
+  {
+    "id": "p-93321d",
+    "offset": 24500,
+    "text": "CHORUS\nThe wind is dying down."
+  },
+  {
+    "id": "p-9b9ab7",
+    "offset": 24532,
+    "text": "CLEON\nYou'll face indictments . . . four of them, at a hundred talents each!"
+  },
+  {
+    "id": "p-2832a1",
+    "offset": 24610,
+    "text": "SAUSAGE-SELLER\nAnd you twenty for draft-dodging, and more than a thousand for theft!"
+  },
+  {
+    "id": "p-a8f049",
+    "offset": 24696,
+    "text": "CLEON\nI say you come from the family of those who sinned against the goddess!"
+  },
+  {
+    "id": "p-99ca78",
+    "offset": 24775,
+    "text": "SAUSAGE-SELLER\nI say your grandfather was one of the bodyguard—"
+  },
+  {
+    "id": "p-2b80c3",
+    "offset": 24840,
+    "text": "CLEON\nWhose bodyguard? Tell me!"
+  },
+  {
+    "id": "p-10b8b7",
+    "offset": 24873,
+    "text": "SAUSAGE-SELLER\n—of Byrsine, the wife of Hippias!"
+  },
+  {
+    "id": "p-745ed2",
+    "offset": 24923,
+    "text": "CLEON\nYou're a rascal!"
+  },
+  {
+    "id": "p-a5ec2f",
+    "offset": 24947,
+    "text": "SAUSAGE-SELLER\nYou're a villain!"
+  },
+  {
+    "id": "p-c3c260",
+    "offset": 24981,
+    "text": "CHORUS\nHit him, manfully!"
+  },
+  {
+    "id": "p-5cd632",
+    "offset": 25008,
+    "text": "CLEON\nHelp, help! The conspirators are beating me!"
+  },
+  {
+    "id": "p-502843",
+    "offset": 25060,
+    "text": "CHORUS\nHit him most manfully, and pummel his belly, and go at him with his guts and his colon, and see that you chastise the man!"
+  },
+  {
+    "id": "p-f4b2d9",
+    "offset": 25191,
+    "text": "CHORUS\nO noblest cut of meat, best of all in spirit, you who have appeared as savior to the city and to us citizens, how cleverly and intricately you've outwitted the man with your words! How could we praise you in proportion to our delight?"
+  },
+  {
+    "id": "p-ae2ee5",
+    "offset": 25434,
+    "text": "CLEON\nBy Demeter, this business that's being framed up did not escape me—I knew all along that it was being dovetailed and glued together."
+  },
+  {
+    "id": "p-dac58f",
+    "offset": 25574,
+    "text": "CHORUS\nOh dear, do you say nothing that doesn't smell of the wheelwright's shop?"
+  },
+  {
+    "id": "p-7512f0",
+    "offset": 25656,
+    "text": "SAUSAGE-SELLER\nAnd what you're up to in Argos doesn't escape me either. On the pretext of making the Argives our friends, you're privately consorting with the Spartans there. And I know what all this is being forged for: it's hammered out on behalf of the prisoners."
+  },
+  {
+    "id": "p-ab54d8",
+    "offset": 25924,
+    "text": "CHORUS\nWell done, well done! Smith away, then, in return for his glue-work!"
+  },
+  {
+    "id": "p-6e2151",
+    "offset": 26001,
+    "text": "SAUSAGE-SELLER\nAnd men from there are riveting it home with you. But neither by giving me silver nor gold, nor by sending friends, will you persuade me not to tell the Athenians of this."
+  },
+  {
+    "id": "p-c4a0fc",
+    "offset": 26189,
+    "text": "CLEON\nI, for my part, am off this instant to the Council to report all your conspiracies, and the nightly meetings in the city, and everything you've sworn together with the Medes and the King, and what's being curdled up there with the Boeotians."
+  },
+  {
+    "id": "p-4c8520",
+    "offset": 26438,
+    "text": "SAUSAGE-SELLER\nAnd how does cheese go in Boeotia, then?"
+  },
+  {
+    "id": "p-78d566",
+    "offset": 26495,
+    "text": "CLEON\nBy Heracles, I'll lay you out flat!"
+  },
+  {
+    "id": "p-36692f",
+    "offset": 26538,
+    "text": "CHORUS\nCome now, what mind, what spirit have you? Now you'll show it, if indeed you hid the meat between your buttocks then, as you say yourself. Run, dash off to the Council, since this fellow will burst in there and slander us all and raise a hue and cry."
+  },
+  {
+    "id": "p-c2f306",
+    "offset": 26797,
+    "text": "SAUSAGE-SELLER\nI'm off. But first, just as I am, let me set down my tripe and my knives here."
+  },
+  {
+    "id": "p-9b59e1",
+    "offset": 26892,
+    "text": "DEMOSTHENES\nHere, then—grease your neck with this, so you can slip out of the slanders."
+  },
+  {
+    "id": "p-255761",
+    "offset": 26981,
+    "text": "SAUSAGE-SELLER\nWell said—a real trainer's trick, that."
+  },
+  {
+    "id": "p-3571f4",
+    "offset": 27037,
+    "text": "DEMOSTHENES\nHere, take these and bolt them down."
+  },
+  {
+    "id": "p-223cd4",
+    "offset": 27087,
+    "text": "SAUSAGE-SELLER\nWhat for?"
+  },
+  {
+    "id": "p-5f1dfe",
+    "offset": 27113,
+    "text": "DEMOSTHENES\nSo you'll fight better, my friend, garlic-primed like a fighting cock. And hurry up, quick."
+  },
+  {
+    "id": "p-1b19ab",
+    "offset": 27218,
+    "text": "SAUSAGE-SELLER\nI'm doing it."
+  },
+  {
+    "id": "p-2aa208",
+    "offset": 27248,
+    "text": "DEMOSTHENES\nNow remember to bite, to slander, to devour his cock's-combs; and see you come back when you've eaten up his wattles."
+  },
+  {
+    "id": "p-4822d3",
+    "offset": 27379,
+    "text": "CHORUS\nGo then, and good luck, and may you fare according to my heart's wish, and may Zeus of the marketplace guard you; and when you've won, may you come back again to us from there, garlanded all over with crowns. And you, attend to our anapaests, you who have already tried your hand at every kind of Muse."
+  },
+  {
+    "id": "p-ac5430",
+    "offset": 27690,
+    "text": "CHORUS\nIf any of the old comic poets had compelled us to step forward and recite verses to the audience, he'd not have got it easily. But now the poet deserves it, because he hates the same people we do, and dares to speak what is just, and goes nobly against the whirlwind and the hurricane. As for what he says—that many of you have come up to him, puzzled, and pressed him, asking why he hasn't long since asked for a chorus in his own name—he bade us explain this to you. The man says he has lingered so, not out of folly, but because he reckons that training a comic chorus is the hardest task of all: many have courted her, but she has favored only a few. And he's long known that you are by nature creatures of a season, and that you betray your earlier poets when they grow old. He knows what Magnes suffered, when the grey hairs came down on him—Magnes, who set up the most trophies of victory over rival choruses; though he poured forth for you every kind of voice, twanging and flapping his wings, playing the Lydian and buzzing like a gall-fly and dyeing himself frog-green, it didn't suffice: in the end, in his old age—not in his youth—he was thrown out, an old man, because he'd run dry of mockery. Then he remembers Cratinus, who once flowed with much praise, streaming through the level plains, and tearing from their place swept along the oaks and plane-trees and his enemies, roots and all. At a drinking-party there was nothing to sing but \"Doro of the fig-leaf sandal\" and \"Craftsmen of well-wrought hymns\"—so did that man flourish. But now you see him doddering, and you take no pity, now that the studs have fallen out and the tuning's gone and the joints gape apart; and being old he wanders round like Connas, with a withered crown, perishing of thirst—he who, for his former victories, ought to be drinking in the Prytaneum, and not babbling, but sitting sleek beside Dionysus as a spectator. And what fits of temper and abuse did Crates put up with from you—Crates, who used to feast you on small expense and send you off, kneading wittiest fancies from his daintiest mouth! He alone held out, now falling, now not. Dreading all this, our poet kept delaying; and besides, he used to say that a man must first become an oarsman before he tries his hand at the steering-oars, and from there go on to serve at the prow and watch the winds, and only then steer the ship for himself. For all these reasons, then—because he leapt in sensibly and not foolishly, and didn't talk nonsense—raise him a great surge of applause, escort him with eleven oars"
+  },
+  {
+    "id": "p-4b6643",
+    "offset": 30263,
+    "text": "CHORUS\nin a fine Lenaean roar of welcome, that the poet may go off rejoicing, having fared as he wished, his face bright and his brow shining."
+  },
+  {
+    "id": "p-b7728c",
+    "offset": 30407,
+    "text": "CHORUS\nHorse-lord Poseidon, to whom the clang of bronze-shod hooves and the neighing are dear, and the swift dark-prowed mercenary triremes, and the contest of young men shining out in their chariots, and met with heavy fortunes—come hither to the dance, O god of the golden trident, O lord of dolphins, worshipped at Sunium, O Geraistian son of Cronus, dearest to Phormio and, of all the other gods, to the Athenians in the present hour."
+  },
+  {
+    "id": "p-b219f8",
+    "offset": 30847,
+    "text": "CHORUS\nWe wish to praise our fathers, because they were men worthy of this land and of the sacred robe, men who, in battles on foot and in the ship-fenced host, conquering everywhere, always adorned this city. For never did any of them, when he saw the enemy, count their numbers; no, his spirit was at once an Amynias. And if ever any fell on his shoulder in some fight, he'd wipe it off and deny he had fallen, and wrestle on again. And not one of the generals of old would have asked Cleaenetus for free meals at the public table. But now, unless they get the front seats and the rations, they say they won't fight. We, however, think it right to defend the city and our native gods nobly and for nothing. And besides, we ask nothing—only this much: that if peace ever comes and we're done with our toils, you not grudge us our long hair and our sleek-scraped skins."
+  },
+  {
+    "id": "p-cb3140",
+    "offset": 31718,
+    "text": "CHORUS\nO Pallas, guardian of the city, you who watch over the holiest of all lands, surpassing in war and in poets and in power: come hither, bringing with you our fellow-worker in campaigns and battles, Victory, who is the comrade of our choruses and joins us in faction against our foes. Now then, appear here! For these men must by every art be furnished with victory by you, if ever, now."
+  },
+  {
+    "id": "p-61cec7",
+    "offset": 32112,
+    "text": "CHORUS\nWhat we know of the horses, we wish to praise. They are worthy of eulogy, for they have shared many a hardship with us, charges and battles. But what they did on land we don't so much marvel at, as how, when they leapt manfully into the horse-transports, having bought their canteens—some too their garlic and onions—then, taking up their oars like us mortals, they fell to and roared \"Hippapai! Who'll row? We must pull harder! What are we doing? Won't you drive, brand-mark?\" And they leapt out at Corinth. And then the younger ones dug their bedding-trenches with their hooves and went after coverlets; and they ate the crabs instead of Median fodder, hunting any that crept out of doors or from the deep. So Theorus said a Corinthian crab declared: \"It's a terrible thing, Poseidon, if neither in the deep nor on land nor at sea can I escape the Knights!\""
+  },
+  {
+    "id": "p-a440d7",
+    "offset": 32980,
+    "text": "CHORUS\nNow it's worth everyone's while to raise a shout of triumph! O you who speak fine things, and have done still finer than your words—I wish you'd go over it all for me, clearly. For I think I'd gladly walk a long way to hear it. So now, my excellent friend, take heart and speak, since we all delight in you."
+  },
+  {
+    "id": "p-b15c5a",
+    "offset": 33296,
+    "text": "SAUSAGE-SELLER\nAnd indeed it's worth hearing how things went. Straight from here I rushed after him; and inside he was breaking out thundering speeches, and with portentous talk he was bearing down on the Knights, calling them conspirators, hurling cliffs, and speaking ever so plausibly. And the whole Council, listening to him, grew full of his false orach-weed, and looked mustard, and knit up their brows. And I, when I saw it was taking in his words and being deceived by his humbug, cried: \"Come, Skytaloi and Phenakes, Bereschethoi and Kobaloi and Mothon, and marketplace where I was educated as a boy—now grant me boldness and a glib tongue and a shameless voice!\" As I was pondering this, a buggered man let fly a fart on my right. I made obeisance, then with my rump I knocked open the railing, and gaping wide I shouted: \"Council, I want to be the first to bring you good news and good tidings! For ever since the war broke out upon us, I have never seen sprats cheaper!\" At once their faces grew calm, and they crowned me for the good news. And I told them—making it a secret, quickly—that, so they might buy lots of sprats for an obol, they should grab up the bowls of the craftsmen. They applauded and gaped at me. But the Paphlagonian, suspecting this, and knowing the kind of words the Council most enjoys, proposed a motion: \"Men, it seems to me right, in view of the good fortune that's been reported, to sacrifice a hundred oxen to the goddess as a thank-offering.\" The Council inclined toward him again. And I, when I saw I was being beaten with cow-dung, overshot him with two hundred oxen, and advised them to make a vow to the Huntress-goddess of a thousand goats for tomorrow, if anchovies should come a hundred for an obol. The Council looked eagerly to me again. He, hearing this, was thunderstruck and began to drivel. Then the prytaneis and the archers dragged him off, while the men kept clamoring, standing about over the sprats. He begged them to wait a little while, \"so you may hear what the herald from Sparta says—for he's come about a truce.\" But they all with one mouth cried out: \"About a truce—now? Why, my dear man, only because they've found out the sprats are cheap with us! We don't want a truce—let the war drag on!\" And they shouted at the prytaneis to dismiss the session, and then they leaped over the barriers in every direction. And I ran ahead and bought up all the coriander and leeks there were in the marketplace, and gave them as free seasoning to the sprat-buyers when they were at a loss, and won their favor. So they praised me to the skies and made much of me, all of them, so that I've come back having won over the whole Council for an obol's worth of coriander!"
+  },
+  {
+    "id": "p-1ee958",
+    "offset": 36020,
+    "text": "CHORUS\nYou've done everything as a man of fortune ought! And the villain has met another far surpassing him in greater villainies, and in varied wiles and wheedling words. But see that you contend out the rest in the best way; and you've long known you have us as well-disposed allies."
+  },
+  {
+    "id": "p-237ea7",
+    "offset": 36307,
+    "text": "SAUSAGE-SELLER\nAnd look, here comes the Paphlagonian, shoving a great surge before him, troubling and churning, as if to gulp me down. What a bogey, his boldness!"
+  },
+  {
+    "id": "p-687a18",
+    "offset": 36471,
+    "text": "CLEON\nIf I don't destroy you, if any of my old lies are still left in me, may I be scattered in pieces utterly."
+  },
+  {
+    "id": "p-5310c7",
+    "offset": 36584,
+    "text": "SAUSAGE-SELLER\nI'm delighted by your threats, I laugh at your smoke-and-bluster, I dance a jig of derision, I cackle \"cuckoo\"!"
+  },
+  {
+    "id": "p-5ea108",
+    "offset": 36712,
+    "text": "CLEON\nBy Demeter, if I don't eat you out of this land, I'll never go on living!"
+  },
+  {
+    "id": "p-cbae6b",
+    "offset": 36793,
+    "text": "SAUSAGE-SELLER\nIf you don't eat me up? And I, if I don't drink you down and gulp you up, may I burst myself afterward!"
+  },
+  {
+    "id": "p-42d3ef",
+    "offset": 36913,
+    "text": "CLEON\nI'll destroy you, by my front-seat won at Pylos!"
+  },
+  {
+    "id": "p-163174",
+    "offset": 36969,
+    "text": "SAUSAGE-SELLER\nA front-seat indeed! How I'll see you watching from the very back row, after your front seat!"
+  },
+  {
+    "id": "p-fd7670",
+    "offset": 37079,
+    "text": "CLEON\nI'll bind you in the stocks, by heaven!"
+  },
+  {
+    "id": "p-12476f",
+    "offset": 37126,
+    "text": "SAUSAGE-SELLER\nHow hot-tempered! Come, what shall I give you to eat? What would you most like to eat it off of? A money-bag?"
+  },
+  {
+    "id": "p-03df12",
+    "offset": 37252,
+    "text": "CLEON\nI'll tear out your guts with my nails!"
+  },
+  {
+    "id": "p-49a8b1",
+    "offset": 37298,
+    "text": "SAUSAGE-SELLER\nI'll scratch out your free meals in the Prytaneum!"
+  },
+  {
+    "id": "p-0698b8",
+    "offset": 37365,
+    "text": "CLEON\nI'll drag you before the people, so you may pay me the penalty!"
+  },
+  {
+    "id": "p-dfda20",
+    "offset": 37436,
+    "text": "SAUSAGE-SELLER\nAnd I'll drag you too, and slander you even more!"
+  },
+  {
+    "id": "p-0092c2",
+    "offset": 37502,
+    "text": "CLEON\nBut you wretch, the people doesn't listen to you at all; whereas I laugh at him as much as I please."
+  },
+  {
+    "id": "p-b2d0bc",
+    "offset": 37610,
+    "text": "SAUSAGE-SELLER\nHow utterly you reckon the people your own!"
+  },
+  {
+    "id": "p-00c477",
+    "offset": 37670,
+    "text": "CLEON\nYes, for I know the tidbits he's fed on."
+  },
+  {
+    "id": "p-37d212",
+    "offset": 37718,
+    "text": "SAUSAGE-SELLER\nAnd then, like the nurses, you feed him badly. For chewing it up, you put a little into his mouth, while you yourself gulp down three times as much."
+  },
+  {
+    "id": "p-f2a139",
+    "offset": 37883,
+    "text": "CLEON\nAnd by Zeus, by my own cleverness I can make the people wide or narrow."
+  },
+  {
+    "id": "p-d7e627",
+    "offset": 37962,
+    "text": "SAUSAGE-SELLER\nMy backside knows that trick too!"
+  },
+  {
+    "id": "p-97a75b",
+    "offset": 38012,
+    "text": "CLEON\nMy good fellow, you won't make a fool of me in the Council. Let's go to the people."
+  },
+  {
+    "id": "p-88e73d",
+    "offset": 38103,
+    "text": "SAUSAGE-SELLER\nNothing's stopping us. There, walk on—let nothing hold us back."
+  },
+  {
+    "id": "p-840a76",
+    "offset": 38183,
+    "text": "CLEON\nO Demos, come out here!"
+  },
+  {
+    "id": "p-44b4d6",
+    "offset": 38214,
+    "text": "SAUSAGE-SELLER\nBy Zeus, father, come out, do!"
+  },
+  {
+    "id": "p-23e93b",
+    "offset": 38261,
+    "text": "CLEON\nO dear little Demos, O dearest, come out, so you may learn how I'm being outraged!"
+  },
+  {
+    "id": "p-75b61c",
+    "offset": 38351,
+    "text": "DEMOS\nWho are these people shouting? Won't you get away from the door? You've torn down my harvest-wreath! Who's wronging you, Paphlagonian?"
+  },
+  {
+    "id": "p-86ca2c",
+    "offset": 38493,
+    "text": "CLEON\nOn your account I'm being beaten by this fellow and the young men."
+  },
+  {
+    "id": "p-232fba",
+    "offset": 38567,
+    "text": "DEMOS\nWhy?"
+  },
+  {
+    "id": "p-adaf6c",
+    "offset": 38579,
+    "text": "CLEON\nBecause I love you, Demos, and I'm your devoted lover."
+  },
+  {
+    "id": "p-ab7f98",
+    "offset": 38641,
+    "text": "DEMOS\nAnd you, who are you really?"
+  },
+  {
+    "id": "p-2a6c0d",
+    "offset": 38677,
+    "text": "SAUSAGE-SELLER\nThis fellow's rival in love, long in love with you and wanting to do you good—as are many others, noble and good men too. But we can't, because of this fellow. For you are like the boys with their lovers: the noble and good you won't accept, but you give yourself to lamp-sellers and cobblers and shoemakers and hide-sellers."
+  },
+  {
+    "id": "p-6cbcd1",
+    "offset": 39019,
+    "text": "CLEON\nBecause I do the people good!"
+  },
+  {
+    "id": "p-33043d",
+    "offset": 39056,
+    "text": "SAUSAGE-SELLER\nTell me, then—by doing what?"
+  },
+  {
+    "id": "p-6059e0",
+    "offset": 39101,
+    "text": "CLEON\nWhat? By sailing to Pylos, undercutting the generals there, I brought back the Spartans."
+  },
+  {
+    "id": "p-4c36c1",
+    "offset": 39197,
+    "text": "SAUSAGE-SELLER\nAnd I, walking by a workshop, made off with a pot another man was boiling."
+  },
+  {
+    "id": "p-60b476",
+    "offset": 39288,
+    "text": "CLEON\nWell, hold an assembly right now, Demos, so you may know which of us two is more devoted to you. Decide, so you may love that one."
+  },
+  {
+    "id": "p-d4d2f1",
+    "offset": 39426,
+    "text": "SAUSAGE-SELLER\nYes, yes, decide, do—only not on the Pnyx."
+  },
+  {
+    "id": "p-a09408",
+    "offset": 39485,
+    "text": "DEMOS\nI won't sit in any other place. No, to the front—we must go up to the Pnyx."
+  },
+  {
+    "id": "p-c06789",
+    "offset": 39568,
+    "text": "SAUSAGE-SELLER\nOh, wretched me, how I'm ruined! For at home the old man is the cleverest of men, but when he sits on this rock here, he gapes like a man stringing dried figs."
+  },
+  {
+    "id": "p-17be8d",
+    "offset": 39744,
+    "text": "CHORUS\nNow you must let out every sail you have, and wear a furious spirit and inescapable arguments, by which you may surpass this man. For he's a wily fellow, and ingenious at finding ways out of difficulties. So see that you come at the man in full and brilliant force."
+  },
+  {
+    "id": "p-80bc72",
+    "offset": 40018,
+    "text": "CHORUS\nBut be on your guard, and before he closes with you, you be first—hoist your dolphins and bring your skiff alongside."
+  },
+  {
+    "id": "p-1b4633",
+    "offset": 40144,
+    "text": "CLEON\nTo Lady Athena, mistress of the city, I pray: if I have been the best man toward the people of Athens, after Lysicles and Cynna and Salabaccho, then, as I do now, may I dine in the Prytaneum for doing nothing. But if I hate you, and don't fight for you alone, standing my ground, may I perish and be sawn apart and cut into harness-straps."
+  },
+  {
+    "id": "p-fefa52",
+    "offset": 40491,
+    "text": "SAUSAGE-SELLER\nAnd I, Demos, if I don't love and cherish you, may I be chopped up and stewed in mince; and if you don't trust even that, may I be grated up on this board into garlic-cheese-paste, and dragged by the meat-hook by my balls to the Ceramicus."
+  },
+  {
+    "id": "p-71d0b4",
+    "offset": 40747,
+    "text": "CLEON\nAnd how, Demos, could there be a citizen who loves you more than I do? In the first place, when I served on the Council, I showed the largest surplus in the treasury—racking some, throttling others, begging from yet others—caring nothing for any private man, so long as I could gratify you."
+  },
+  {
+    "id": "p-8a478a",
+    "offset": 41045,
+    "text": "SAUSAGE-SELLER\nThat's nothing grand, Demos. I'll do that for you too: I'll snatch other men's loaves and serve them up to you. But first I'll teach you this very thing—that he doesn't love you and isn't well-disposed; no, the only reason is that he gets to enjoy the warmth of your fire. For you, who fought hand to hand with the Medes at Marathon over the country, and by winning gave us great matter for tongue-thumping—you he doesn't care about, sitting hard on the rocks like this, not as I do, who've stitched you this cushion and bring it. Come, lift yourself up, and then sit soft, so you won't chafe what fought at Salamis."
+  },
+  {
+    "id": "p-700ab9",
+    "offset": 41678,
+    "text": "DEMOS\nMan, who are you? Are you a descendant of those Harmodius people? This deed of yours, truly, is noble and people-loving."
+  },
+  {
+    "id": "p-03da8b",
+    "offset": 41806,
+    "text": "CLEON\nFrom what small flatteries you've become well-disposed to him!"
+  },
+  {
+    "id": "p-82c2e0",
+    "offset": 41876,
+    "text": "SAUSAGE-SELLER\nAnd you caught him with far smaller baits than these!"
+  },
+  {
+    "id": "p-0f6730",
+    "offset": 41946,
+    "text": "CLEON\nWell, if ever a man appeared who defended the people more, or loved you more than I, I'm willing to stake my head on it."
+  },
+  {
+    "id": "p-df33e8",
+    "offset": 42074,
+    "text": "SAUSAGE-SELLER\nAnd how do you love him, you who, seeing him living in jars and crannies and little turrets for eight years now, take no pity, but keep him shut up and rob him of his honey? And when Archeptolemus brought peace, you scattered it to the winds, and you drive the embassies out of the city, kicking their behinds, when they propose a truce!"
+  },
+  {
+    "id": "p-a91deb",
+    "offset": 42428,
+    "text": "CLEON\nSo that he may rule over all the Greeks! For it stands in the oracles that he must one day sit as a juror for five obols in Arcadia, if he waits. In any case I'll feed him and look after him, finding by fair means or foul where he'll get his three obols."
+  },
+  {
+    "id": "p-4f1162",
+    "offset": 42690,
+    "text": "SAUSAGE-SELLER\nNot so that he may rule, by Zeus, out of any care for Arcadia—but so that you may plunder all the more and take bribes from the cities, while the people, because of the war and the fog, doesn't see your villainies, but out of necessity and need and his wages stands gaping toward you. But if ever he goes off into the country and lives at peace, and recovers his spirit eating gruel, and gets talking with the olive-cake, he'll come to know the good things you cheated him of with his pay; and then he'll come at you, a sharp countryman, hunting out his vote against you. You know this, and so you deceive him, and dream dreams about yourself."
+  },
+  {
+    "id": "p-f34cd9",
+    "offset": 43350,
+    "text": "CLEON\nIsn't it monstrous that you should say such things about me, and slander me to the Athenians and the people—when by Demeter I've done far more good for the city already than Themistocles?"
+  },
+  {
+    "id": "p-a7e437",
+    "offset": 43545,
+    "text": "SAUSAGE-SELLER\nO city of Argos, hear what he says! You vie with Themistocles—who made our city, that he found brim-full, run over; and besides, kneaded the Piraeus onto it when it had already breakfasted; and taking nothing of the old dishes away, set new fish before it. But you have tried to turn the Athenians into small-towners, walling off the city and chanting oracles—you, who vie with Themistocles! And he is in exile from the land, while you wipe your fingers on Achilles-loaves."
+  },
+  {
+    "id": "p-52357e",
+    "offset": 44035,
+    "text": "CLEON\nIsn't it monstrous, Demos, that I should have to hear such things from this fellow—just because I love you?"
+  },
+  {
+    "id": "p-0304d8",
+    "offset": 44150,
+    "text": "DEMOS\nStop it, you there, and don't fling foul abuse. For a long time now you've escaped my notice, doing your dirty work in secret."
+  },
+  {
+    "id": "p-231eb0",
+    "offset": 44284,
+    "text": "SAUSAGE-SELLER\nA most filthy fellow, dear little Demos, and the doer of the most villainies—whenever you gape, he snaps off the stalks of the audits and gulps them down, and with both hands scoops up the public funds by the fistful."
+  },
+  {
+    "id": "p-aba53e",
+    "offset": 44518,
+    "text": "CLEON\nYou won't get away with it; I'll catch you stealing thirty thousand."
+  },
+  {
+    "id": "p-de55fe",
+    "offset": 44594,
+    "text": "SAUSAGE-SELLER\nWhy do you thrash the sea and splash about, you most filthy thing toward the people of Athens? And I'll prove—by Demeter, or may I not live—that you took a bribe from Mytilene of more than forty minas."
+  },
+  {
+    "id": "p-b231d5",
+    "offset": 44812,
+    "text": "CHORUS\nO you who have appeared the greatest benefit to all men, I envy you your eloquence! For if you go on like this, you'll be the greatest of the Greeks, and you alone will hold the affairs in the city and rule over the allies, wielding a trident with which you'll do much business, shaking and stirring things up."
+  },
+  {
+    "id": "p-794c8c",
+    "offset": 45131,
+    "text": "CHORUS\nAnd don't let the man go, now that he's given you a hold; you'll easily finish him off, with such ribs as you have."
+  },
+  {
+    "id": "p-c24c5d",
+    "offset": 45255,
+    "text": "CLEON\nNot so, good sirs—it's not come to that yet, by Poseidon. For I've done such a deed as will gag every one of my enemies, as long as anything's left of the shields from Pylos."
+  },
+  {
+    "id": "p-781a04",
+    "offset": 45437,
+    "text": "SAUSAGE-SELLER\nStop right there at the shields—you've given me a hold! For you ought not, if you love the people, to have allowed those shields, with their grips still on, to be hung up in the temple, deliberately. No, Demos, this is a contrivance, so that if you wish to punish this man here, you won't be able to. For you see what a gang of young hide-sellers he has, and around them live the honey-sellers and cheese-sellers; and this is all knit into one. So that if you got angry and squinted toward an ostracism, they'd snatch down the shields by night, run, and seize the entrances of our grain-supply."
+  },
+  {
+    "id": "p-ce91a7",
+    "offset": 46048,
+    "text": "DEMOS\nOh, wretched me! Do they have their grips still on? You villain, how long you've been cheating me, hoodwinking the people like this!"
+  },
+  {
+    "id": "p-b93db7",
+    "offset": 46188,
+    "text": "CLEON\nMy dear sir, don't be ruled by the speaker, and don't think you'll ever find a better friend than me—who, a single man, put a stop to the conspirators, and nothing escapes me that's being set up in the city, but I cry out at once."
+  },
+  {
+    "id": "p-f95b1c",
+    "offset": 46426,
+    "text": "SAUSAGE-SELLER\nWhy, you're just like the eel-hunters. When the lake is calm, they catch nothing; but if they churn the mud up and down, they make a catch. And you too make your catch when you stir up the city. But tell me just this one thing: you who sell so much leather—did you ever give this man a single piece of sole-leather from your own stock for his shoes, you who claim to love him?"
+  },
+  {
+    "id": "p-847dee",
+    "offset": 46819,
+    "text": "DEMOS\nBy Apollo, no, he never did."
+  },
+  {
+    "id": "p-b3720b",
+    "offset": 46855,
+    "text": "SAUSAGE-SELLER\nThen you've found out what sort he is! But I—I've bought you a pair of shoes—here—and I give you these to wear."
+  },
+  {
+    "id": "p-765cb3",
+    "offset": 46983,
+    "text": "DEMOS\nI judge you the best man toward the people that I've ever known, and the most well-disposed to the city and to my toes."
+  },
+  {
+    "id": "p-71d47f",
+    "offset": 47110,
+    "text": "CLEON\nIsn't it monstrous that a pair of shoes should count for so much, while you have no memory of all I've done for you—I, who put a stop to the buggered men by striking out Gryttus's name?"
+  },
+  {
+    "id": "p-50d3df",
+    "offset": 47303,
+    "text": "SAUSAGE-SELLER\nThen isn't it monstrous of you to play the bum-inspector and put a stop to the buggered men? And surely it was out of envy that you stopped them, so they wouldn't become orators. But seeing this man here so old and without a tunic, you never thought Demos worthy of a double-armed cloak in winter. But I—I give you this one."
+  },
+  {
+    "id": "p-02f556",
+    "offset": 47644,
+    "text": "DEMOS\nSuch a thing as this Themistocles never thought of! And yet the Piraeus too was a clever idea; still, to me it doesn't seem a greater invention than this tunic."
+  },
+  {
+    "id": "p-a127c3",
+    "offset": 47812,
+    "text": "CLEON\nOh, wretched me, what monkey-tricks you hound me with!"
+  },
+  {
+    "id": "p-e45da7",
+    "offset": 47874,
+    "text": "SAUSAGE-SELLER\nNo—I merely use your own ways, as a drinking man does his slippers when he's caught short."
+  },
+  {
+    "id": "p-4424af",
+    "offset": 47981,
+    "text": "CLEON\nBut you won't outdo me in flattery; for I'll wrap him in this besides. As for you, go howl, you wretch!"
+  },
+  {
+    "id": "p-898181",
+    "offset": 48092,
+    "text": "DEMOS\nUgh! Won't you go to the crows and be gone, you stinking foully of leather?"
+  },
+  {
+    "id": "p-38539e",
+    "offset": 48175,
+    "text": "SAUSAGE-SELLER\nAnd he wrapped you in that on purpose, to choke you! He plotted against you before, too. You know that stalk of silphium that became so cheap?"
+  },
+  {
+    "id": "p-262650",
+    "offset": 48334,
+    "text": "DEMOS\nI do indeed."
+  },
+  {
+    "id": "p-5d844a",
+    "offset": 48354,
+    "text": "SAUSAGE-SELLER\nHe deliberately pushed for it to become cheap, so that people would buy and eat it, and then in the law-court the jurors would kill one another with their farting."
+  },
+  {
+    "id": "p-ee485b",
+    "offset": 48534,
+    "text": "DEMOS\nBy Poseidon, a man from Copros told me that too!"
+  },
+  {
+    "id": "p-b50ade",
+    "offset": 48590,
+    "text": "SAUSAGE-SELLER\nDidn't you all turn yellow then with farting?"
+  },
+  {
+    "id": "p-486c76",
+    "offset": 48652,
+    "text": "DEMOS\nBy Zeus, yes—and that was Pyrrhander's contrivance!"
+  },
+  {
+    "id": "p-d0d4ba",
+    "offset": 48711,
+    "text": "CLEON\nWith what buffooneries you confound me, villain!"
+  },
+  {
+    "id": "p-27172e",
+    "offset": 48767,
+    "text": "SAUSAGE-SELLER\nWhy, the goddess bade me beat you in braggadocio."
+  },
+  {
+    "id": "p-2f899b",
+    "offset": 48833,
+    "text": "CLEON\nBut you won't beat me! For I declare, Demos, I'll furnish you a bowl of pay to slurp for doing nothing."
+  },
+  {
+    "id": "p-f4b235",
+    "offset": 48944,
+    "text": "SAUSAGE-SELLER\nAnd I give you a little jar and salve to smear on the sores about your shins."
+  },
+  {
+    "id": "p-b624e9",
+    "offset": 49038,
+    "text": "CLEON\nAnd I'll pluck out your grey hairs and make you young again."
+  },
+  {
+    "id": "p-c2b9b9",
+    "offset": 49106,
+    "text": "SAUSAGE-SELLER\nHere, take a hare's tail to wipe your dear little eyes."
+  },
+  {
+    "id": "p-a5cb88",
+    "offset": 49178,
+    "text": "CLEON\nWhen you blow your nose, Demos, wipe your fingers on my head."
+  },
+  {
+    "id": "p-46faa4",
+    "offset": 49247,
+    "text": "SAUSAGE-SELLER\nNo, on mine!"
+  },
+  {
+    "id": "p-8e5982",
+    "offset": 49276,
+    "text": "CLEON\nOn mine! I'll make you serve as a trierarch, spending your own money, with an old ship in which you'll keep on spending without stop, and won't finish refitting. And I'll contrive that you get a rotten sail."
+  },
+  {
+    "id": "p-f2485b",
+    "offset": 49491,
+    "text": "CHORUS\nThe man boils over—stop, stop, you're over-seething! We must draw off the fire and skim away these threats here."
+  },
+  {
+    "id": "p-88a471",
+    "offset": 49612,
+    "text": "CLEON\nYou'll pay me a fine penalty, squeezed by the war-taxes! For I'll hurry to get you enrolled among the rich."
+  },
+  {
+    "id": "p-147abb",
+    "offset": 49727,
+    "text": "SAUSAGE-SELLER\nAnd I'll make no threats, but I pray you this: that the frying-pan of cuttlefish stand sizzling, and you, about to speak your motion on the Milesians and to gain a talent if you bring it off, hurry to gorge yourself on the cuttlefish in time to get to the assembly; and then, before you've eaten, a man comes to fetch you, and you, wanting to get the talent, eating, choke to death on it!"
+  },
+  {
+    "id": "p-7dcb0f",
+    "offset": 50132,
+    "text": "CHORUS\nWell done, by Zeus and Apollo and Demeter!"
+  },
+  {
+    "id": "p-96f153",
+    "offset": 50183,
+    "text": "DEMOS\nI agree; and in other respects too he's plainly a good citizen, such as no man has been for a long time toward the common folk of the obol. But you, Paphlagonian, claiming to love me, have garlic-primed me. And now give back the ring, since you'll no longer be my steward."
+  },
+  {
+    "id": "p-071f47",
+    "offset": 50463,
+    "text": "CLEON\nTake it. But know this much: that if you don't let me manage things, another, a greater villain than I, will appear."
+  },
+  {
+    "id": "p-237d31",
+    "offset": 50587,
+    "text": "DEMOS\nThere's no way this ring here is mine; the seal looks different—unless I can't make it out."
+  },
+  {
+    "id": "p-cff184",
+    "offset": 50686,
+    "text": "SAUSAGE-SELLER\nLet me see—what was your seal?"
+  },
+  {
+    "id": "p-b8f363",
+    "offset": 50733,
+    "text": "DEMOS\nA leaf of ox-fat, roasted."
+  },
+  {
+    "id": "p-1b73a8",
+    "offset": 50767,
+    "text": "SAUSAGE-SELLER\nThat's not what's on it."
+  },
+  {
+    "id": "p-a76778",
+    "offset": 50808,
+    "text": "DEMOS\nNot the fig-leaf? Then what?"
+  },
+  {
+    "id": "p-c5f5cd",
+    "offset": 50844,
+    "text": "SAUSAGE-SELLER\nA gull, with its beak open, haranguing the people from a rock."
+  },
+  {
+    "id": "p-2d1064",
+    "offset": 50923,
+    "text": "DEMOS\nUgh, wretched me!"
+  },
+  {
+    "id": "p-2279a5",
+    "offset": 50948,
+    "text": "SAUSAGE-SELLER\nWhat is it?"
+  },
+  {
+    "id": "p-66ad4d",
+    "offset": 50976,
+    "text": "DEMOS\nTake it away out of sight! He didn't have my seal, but Cleonymus's. Here, take this one from me and be my steward."
+  },
+  {
+    "id": "p-3f4f40",
+    "offset": 51098,
+    "text": "CLEON\nNot yet, please, master—I beg you—not before you've heard my oracles."
+  },
+  {
+    "id": "p-550d63",
+    "offset": 51175,
+    "text": "SAUSAGE-SELLER\nAnd mine now, too."
+  },
+  {
+    "id": "p-f52a8a",
+    "offset": 51210,
+    "text": "CLEON\nBut if you trust this fellow, you'll have to become a wineskin."
+  },
+  {
+    "id": "p-ff8e54",
+    "offset": 51281,
+    "text": "SAUSAGE-SELLER\nAnd if you trust this one, you'll have to be stripped bare right down to the myrtle."
+  },
+  {
+    "id": "p-e88049",
+    "offset": 51382,
+    "text": "CLEON\nBut mine say that you must rule over all the land, crowned with roses."
+  },
+  {
+    "id": "p-36095c",
+    "offset": 51460,
+    "text": "SAUSAGE-SELLER\nAnd mine in turn say that wearing a spangled sea-purple robe and a diadem, on a golden chariot, you'll pursue Smikythe and her master."
+  },
+  {
+    "id": "p-133a31",
+    "offset": 51611,
+    "text": "CHORUS\nWell, go and fetch them, so this fellow may hear them."
+  },
+  {
+    "id": "p-08cbe3",
+    "offset": 51674,
+    "text": "DEMOS\nBy all means. And you too, go fetch."
+  },
+  {
+    "id": "p-2f8358",
+    "offset": 51718,
+    "text": "CLEON\nThere."
+  },
+  {
+    "id": "p-9c4a01",
+    "offset": 51732,
+    "text": "SAUSAGE-SELLER\nThere, by Zeus—nothing's stopping it."
+  },
+  {
+    "id": "p-367f5a",
+    "offset": 51786,
+    "text": "CHORUS\nSweetest will be the light of day, to those present and to those who come hither, if Cleon perishes. And yet I've heard certain quarrelsome old men disputing in the law-suit market, saying that, if this fellow hadn't become great in the city, there'd be no two useful implements—no pestle and no ladle."
+  },
+  {
+    "id": "p-055b31",
+    "offset": 52097,
+    "text": "CHORUS\nBut this too I marvel at, his swinish-musicianship; for the boys who went to school with him say that he could only tune his lyre to the Dorian mode, and would learn no other; and then the lyre-master, in a rage, ordered him taken away, saying this boy can't learn any harmony except \"Bribe-taking\" mode."
+  },
+  {
+    "id": "p-252cc0",
+    "offset": 52410,
+    "text": "CLEON\nThere, look—and I'm not bringing them all out, either."
+  },
+  {
+    "id": "p-8b526e",
+    "offset": 52472,
+    "text": "SAUSAGE-SELLER\nOh, how I need to shit!—and I'm not bringing them all out, either."
+  },
+  {
+    "id": "p-6378e6",
+    "offset": 52555,
+    "text": "DEMOS\nWhat are these?"
+  },
+  {
+    "id": "p-1539ab",
+    "offset": 52578,
+    "text": "CLEON\nOracles."
+  },
+  {
+    "id": "p-02e430",
+    "offset": 52594,
+    "text": "DEMOS\nAll of them?"
+  },
+  {
+    "id": "p-1da981",
+    "offset": 52614,
+    "text": "CLEON\nYou're amazed? By Zeus, I've still got a whole chest full."
+  },
+  {
+    "id": "p-6c0b6a",
+    "offset": 52680,
+    "text": "SAUSAGE-SELLER\nAnd I an attic and two tenement-buildings full."
+  },
+  {
+    "id": "p-24ecb3",
+    "offset": 52744,
+    "text": "DEMOS\nLet me see—whose are these oracles, anyway?"
+  },
+  {
+    "id": "p-fe97e3",
+    "offset": 52795,
+    "text": "CLEON\nMine are Bakis's."
+  },
+  {
+    "id": "p-802902",
+    "offset": 52820,
+    "text": "DEMOS\nAnd whose are yours?"
+  },
+  {
+    "id": "p-d17dc4",
+    "offset": 52848,
+    "text": "SAUSAGE-SELLER\nGlanis's—Bakis's elder brother."
+  },
+  {
+    "id": "p-196042",
+    "offset": 52896,
+    "text": "DEMOS\nAnd what are they about?"
+  },
+  {
+    "id": "p-2e0327",
+    "offset": 52928,
+    "text": "CLEON\nAbout Athens, about Pylos, about you, about me, about all matters."
+  },
+  {
+    "id": "p-a41399",
+    "offset": 53002,
+    "text": "DEMOS\nAnd what are yours about?"
+  },
+  {
+    "id": "p-2bbf44",
+    "offset": 53035,
+    "text": "SAUSAGE-SELLER\nAbout Athens, about lentil-soup, about the Spartans, about fresh mackerel, about those who measure out the barley-meal dishonestly in the market, about you, about me, about all matters."
+  },
+  {
+    "id": "p-7623ef",
+    "offset": 53237,
+    "text": "DEMOS\nCome now, read them to me—and that one about me that I delight in, that I shall become an eagle in the clouds."
+  },
+  {
+    "id": "p-b55c67",
+    "offset": 53355,
+    "text": "CLEON\nListen, then, and pay attention to me. \"Mark, son of Erechtheus, the path of the oracles, which Apollo cried to you from the sanctuary through the precious tripods. He bade you keep safe the sacred sharp-toothed dog, who, barking before you and screaming terribly on your behalf, will provide you your pay; and if he doesn't do this, he'll perish—for many jackdaws caw at him out of hatred.\""
+  },
+  {
+    "id": "p-8e44f7",
+    "offset": 53754,
+    "text": "DEMOS\nBy Demeter, I don't understand what this means. What has Erechtheus to do with jackdaws and a dog?"
+  },
+  {
+    "id": "p-4b0e7b",
+    "offset": 53860,
+    "text": "CLEON\nI am the dog—for I bark before you; and Phoebus told you to keep me, the dog, safe."
+  },
+  {
+    "id": "p-7718df",
+    "offset": 53951,
+    "text": "SAUSAGE-SELLER\nThat's not what the oracle says, but this dog here is gnawing at your oracles like a door. For I have the correct reading about this dog."
+  },
+  {
+    "id": "p-858d29",
+    "offset": 54105,
+    "text": "DEMOS\nRead it, then; but first I'll pick up a stone, in case the oracle about the dog bites my prick."
+  },
+  {
+    "id": "p-b10ea3",
+    "offset": 54208,
+    "text": "SAUSAGE-SELLER\n\"Mark, son of Erechtheus, the dog Cerberus, the man-enslaver, who, fawning with his tail while you dine, watches and gobbles up your dish whenever you gape off somewhere else; and slipping into the kitchen he'll dog-style, unbeknownst to you, lick clean the dishes—and the islands too—by night.\""
+  },
+  {
+    "id": "p-bc6ac6",
+    "offset": 54520,
+    "text": "DEMOS\nBy Poseidon, that's much better, Glanis!"
+  },
+  {
+    "id": "p-b282c1",
+    "offset": 54568,
+    "text": "CLEON\nMy good man, listen, then decide this. \"There is a woman, and she will bear a lion in holy Athens, who will fight for the people against many gnats, as if standing over his cubs. Him do you guard, making a wooden wall and iron towers.\" Do you understand what this means?"
+  },
+  {
+    "id": "p-2ebd8c",
+    "offset": 54846,
+    "text": "DEMOS\nBy Apollo, I don't."
+  },
+  {
+    "id": "p-38d75c",
+    "offset": 54873,
+    "text": "CLEON\nThe god told you plainly to keep me safe; for I am your lion."
+  },
+  {
+    "id": "p-151e5b",
+    "offset": 54942,
+    "text": "DEMOS\nAnd how did I fail to notice you'd become \"Anti-lion\"?"
+  },
+  {
+    "id": "p-491be4",
+    "offset": 55004,
+    "text": "SAUSAGE-SELLER\nThere's one thing in the oracles he won't willingly explain to you—what the iron wall and the wood are, in which Loxias bade you keep this man safe."
+  },
+  {
+    "id": "p-58b29c",
+    "offset": 55169,
+    "text": "DEMOS\nHow then did the god mean it?"
+  },
+  {
+    "id": "p-a2130a",
+    "offset": 55206,
+    "text": "SAUSAGE-SELLER\nHe bade you bind this fellow in the five-holed stocks of wood."
+  },
+  {
+    "id": "p-b75f92",
+    "offset": 55285,
+    "text": "DEMOS\nThese oracles seem to me to be coming true already!"
+  },
+  {
+    "id": "p-641d6f",
+    "offset": 55344,
+    "text": "CLEON\nDon't be persuaded; for envious crows caw their predictions. No—cherish the hawk, remembering in your heart how he brought you, bound together, the little crows of the Spartans."
+  },
+  {
+    "id": "p-2a7379",
+    "offset": 55529,
+    "text": "SAUSAGE-SELLER\nThat was a thing the Paphlagonian risked while drunk! \"Ill-counselling son of Cecrops, why do you reckon this a great deed? Even a woman could carry a load, once a man had set it on her; but she couldn't fight—she'd shit herself if she did.\""
+  },
+  {
+    "id": "p-eccfab",
+    "offset": 55787,
+    "text": "CLEON\nBut mark this: \"Pylos before Pylos,\" which he declared to you. \"There is a Pylos before Pylos—\""
+  },
+  {
+    "id": "p-b20731",
+    "offset": 55890,
+    "text": "DEMOS\nWhat does this mean, \"before Pylos\"?"
+  },
+  {
+    "id": "p-562f08",
+    "offset": 55934,
+    "text": "SAUSAGE-SELLER\nHe says he'll seize the wash-tubs in the bath-house."
+  },
+  {
+    "id": "p-a1c7fe",
+    "offset": 56003,
+    "text": "DEMOS\nThen I'll go unwashed today?"
+  },
+  {
+    "id": "p-df028d",
+    "offset": 56039,
+    "text": "SAUSAGE-SELLER\nFor this fellow has snatched away our wash-tubs. But here is the oracle about the navy, to which you must give your full attention."
+  },
+  {
+    "id": "p-ebfa0f",
+    "offset": 56187,
+    "text": "DEMOS\nI'm attending; you read it—how my sailors shall first be paid their wages."
+  },
+  {
+    "id": "p-20836a",
+    "offset": 56269,
+    "text": "SAUSAGE-SELLER\n\"Son of Aegeus, beware the dog-fox, lest it trick you—the lurking swift-footed one, the wily, the all-knowing she-fox.\" Do you know what this means?"
+  },
+  {
+    "id": "p-4e7598",
+    "offset": 56434,
+    "text": "DEMOS\nPhilostratus is the dog-fox."
+  },
+  {
+    "id": "p-25eaea",
+    "offset": 56470,
+    "text": "SAUSAGE-SELLER\nThat's not what it says; rather, this fellow keeps asking each time for swift ships to collect tribute. These Loxias forbids you to give him."
+  },
+  {
+    "id": "p-ba565e",
+    "offset": 56628,
+    "text": "DEMOS\nHow is a trireme a dog-fox?"
+  },
+  {
+    "id": "p-4bd70a",
+    "offset": 56663,
+    "text": "SAUSAGE-SELLER\nHow? Because the trireme is swift, and so is the dog."
+  },
+  {
+    "id": "p-542da6",
+    "offset": 56733,
+    "text": "DEMOS\nThen how was a fox attached to the dog?"
+  },
+  {
+    "id": "p-ece6af",
+    "offset": 56780,
+    "text": "SAUSAGE-SELLER\nHe likened the soldiers to little foxes, because they nibble the grapes in the fields."
+  },
+  {
+    "id": "p-8dfd72",
+    "offset": 56883,
+    "text": "DEMOS\nWell then—where's the pay for these little foxes?"
+  },
+  {
+    "id": "p-e2c08c",
+    "offset": 56940,
+    "text": "SAUSAGE-SELLER\nI'll provide it, and within three days. But hear this one besides, which the son of Leto told you to beware of: \"Cyllene, lest she trick you.\""
+  },
+  {
+    "id": "p-a01783",
+    "offset": 57099,
+    "text": "DEMOS\nWhat Cyllene?"
+  },
+  {
+    "id": "p-c52794",
+    "offset": 57120,
+    "text": "SAUSAGE-SELLER\nHe rightly made this fellow's hand a Cyllene, because he says, \"Put it in—with the crook-hand.\""
+  },
+  {
+    "id": "p-b3912a",
+    "offset": 57232,
+    "text": "CLEON\nHe doesn't read it right. By \"Cyllene\" Phoebus rightly hinted at the hand—the hand of Diopeithes. But here's a winged oracle I have about you—that you become an eagle and reign over all the earth."
+  },
+  {
+    "id": "p-602235",
+    "offset": 57436,
+    "text": "SAUSAGE-SELLER\nAnd so do I have one—that you reign over land and over the Red Sea too, and will give judgment in Ecbatana, licking up savory-cakes."
+  },
+  {
+    "id": "p-3b5ddd",
+    "offset": 57585,
+    "text": "CLEON\nBut I saw a dream, and it seemed to me the goddess herself was pouring wealth and health over the people from a ladle."
+  },
+  {
+    "id": "p-219cc4",
+    "offset": 57711,
+    "text": "SAUSAGE-SELLER\nBy Zeus, so did I! And it seemed to me the goddess herself came from the citadel, and an owl perched on her, and then she poured down over your head, from a flask, ambrosia—over you—but over this fellow garlic-brine."
+  },
+  {
+    "id": "p-ddc9c5",
+    "offset": 57944,
+    "text": "DEMOS\nHurrah, hurrah! There was no one wiser than Glanis after all! And now I entrust myself to you, to lead me, an old man, and educate me all over again."
+  },
+  {
+    "id": "p-7b1866",
+    "offset": 58101,
+    "text": "CLEON\nNot yet, I beg you—wait! For I'll provide you barley and your daily bread."
+  },
+  {
+    "id": "p-e76190",
+    "offset": 58183,
+    "text": "DEMOS\nI can't bear to hear about barley! Many times I've been deceived by you and by Thuphanes."
+  },
+  {
+    "id": "p-e288f6",
+    "offset": 58280,
+    "text": "CLEON\nBut I'll provide you barley-meal, all prepared."
+  },
+  {
+    "id": "p-31e78d",
+    "offset": 58335,
+    "text": "SAUSAGE-SELLER\nAnd I barley-cakes ready-kneaded, and the savory roasted—nothing else but eat."
+  },
+  {
+    "id": "p-484691",
+    "offset": 58430,
+    "text": "DEMOS\nThen be quick about whatever you mean to do; for whichever of you two does me more good now, to him I'll hand over the reins of the Pnyx."
+  },
+  {
+    "id": "p-effa09",
+    "offset": 58575,
+    "text": "CLEON\nI'll run inside first!"
+  },
+  {
+    "id": "p-e0e23d",
+    "offset": 58605,
+    "text": "SAUSAGE-SELLER\nNo, I will!"
+  },
+  {
+    "id": "p-fc14c2",
+    "offset": 58633,
+    "text": "CHORUS\nO Demos, a fine sovereignty you have, when all men fear you as they would a tyrant. But you're easily led astray, and you delight in being flattered and deceived, and you gape forever at whoever's speaking; and your mind, though present, is off abroad."
+  },
+  {
+    "id": "p-e05657",
+    "offset": 58894,
+    "text": "DEMOS\nThere's no mind in your long hair, when you think I have no sense; but I play the fool willingly in this. For I myself enjoy my daily sip, and I want to rear one thieving champion; and him, when he's good and full, I lift up and strike down."
+  },
+  {
+    "id": "p-dcc377",
+    "offset": 59143,
+    "text": "CHORUS\nYou'd be doing well, then, if there's such great shrewdness in your ways as you say—if you deliberately fatten these men like public victims on the Pnyx, and then, whenever you happen to have no savory, you sacrifice whichever of them is plump and dine on him."
+  },
+  {
+    "id": "p-7a1a77",
+    "offset": 59412,
+    "text": "DEMOS\nJust watch me, whether I go about it cleverly—I who outwit those who think themselves clever and mean to cheat me. For I keep watch on them every time, though I seem not to see, as they steal; and then I force them to vomit up again whatever they've stolen from me, ramming down the voting-funnel."
+  },
+  {
+    "id": "p-bb9b01",
+    "offset": 59717,
+    "text": "CLEON\nOff with you, to blazes, out of the way!"
+  },
+  {
+    "id": "p-8a9d34",
+    "offset": 59765,
+    "text": "SAUSAGE-SELLER\nYou, you pest!"
+  },
+  {
+    "id": "p-9cbbd1",
+    "offset": 59796,
+    "text": "CLEON\nO Demos, I, for my part, have been sitting here ready three times over, longing to do you good."
+  },
+  {
+    "id": "p-f939cf",
+    "offset": 59899,
+    "text": "SAUSAGE-SELLER\nAnd I ten times over, and twelve times, and a thousand times, and long-long-long-before-long."
+  },
+  {
+    "id": "p-4fe8b0",
+    "offset": 60009,
+    "text": "DEMOS\nAnd I, waiting, thirty-thousand times over, loathe you both, long-long-before-long."
+  },
+  {
+    "id": "p-b266ef",
+    "offset": 60100,
+    "text": "SAUSAGE-SELLER\nDo you know what you should do?"
+  },
+  {
+    "id": "p-d0e8b2",
+    "offset": 60148,
+    "text": "DEMOS\nIf not, you'll tell me."
+  },
+  {
+    "id": "p-a8268c",
+    "offset": 60179,
+    "text": "SAUSAGE-SELLER\nStart me and this fellow from the starting-line, so we may do you good on equal terms."
+  },
+  {
+    "id": "p-6fa7e9",
+    "offset": 60282,
+    "text": "DEMOS\nThat's what we must do. Off with you both."
+  },
+  {
+    "id": "p-580e04",
+    "offset": 60332,
+    "text": "CLEON AND SAUSAGE-SELLER\nThere."
+  },
+  {
+    "id": "p-1d6da7",
+    "offset": 60365,
+    "text": "DEMOS\nYou may run."
+  },
+  {
+    "id": "p-2bd42a",
+    "offset": 60385,
+    "text": "SAUSAGE-SELLER\nI won't let him cut in."
+  },
+  {
+    "id": "p-6cbaee",
+    "offset": 60425,
+    "text": "DEMOS\nWell, either I'll be greatly blessed today by my lovers, by Zeus, or else I'll play the coy darling."
+  },
+  {
+    "id": "p-baf888",
+    "offset": 60533,
+    "text": "CLEON\nSee? I bring you out a stool first."
+  },
+  {
+    "id": "p-7f30da",
+    "offset": 60576,
+    "text": "SAUSAGE-SELLER\nBut not a table—and I'm even-more-first!"
+  },
+  {
+    "id": "p-a9cfc7",
+    "offset": 60633,
+    "text": "CLEON\nThere, I bring you this barley-cake, kneaded from the barley from Pylos."
+  },
+  {
+    "id": "p-da81dd",
+    "offset": 60713,
+    "text": "SAUSAGE-SELLER\nAnd I scoops of bread, scooped out by the goddess with her ivory hand."
+  },
+  {
+    "id": "p-33cad7",
+    "offset": 60800,
+    "text": "DEMOS\nWhat a big finger you had, then, O Lady!"
+  },
+  {
+    "id": "p-92415a",
+    "offset": 60848,
+    "text": "CLEON\nAnd I pea-soup, fine-colored and lovely; Pallas the Pylos-fighter herself stirred it."
+  },
+  {
+    "id": "p-d40792",
+    "offset": 60941,
+    "text": "SAUSAGE-SELLER\nDemos, the goddess plainly watches over you, and now holds a pot full of broth above your head."
+  },
+  {
+    "id": "p-c5f682",
+    "offset": 61053,
+    "text": "DEMOS\nDo you think this city would still be inhabited, if she didn't openly hold the pot over us?"
+  },
+  {
+    "id": "p-ae9fe2",
+    "offset": 61152,
+    "text": "CLEON\nThis fish-steak Phobesistrate gave you."
+  },
+  {
+    "id": "p-7e14a5",
+    "offset": 61199,
+    "text": "SAUSAGE-SELLER\nAnd the Mighty-Fathered one boiled meat from the broth, and a slice of tripe and stomach and paunch."
+  },
+  {
+    "id": "p-9a76e0",
+    "offset": 61316,
+    "text": "DEMOS\nWell done of her, remembering the sacred robe."
+  },
+  {
+    "id": "p-4d66cf",
+    "offset": 61370,
+    "text": "CLEON\nGorgolopha bade you eat this driving-cake, so we may row the ships well."
+  },
+  {
+    "id": "p-63a81e",
+    "offset": 61450,
+    "text": "SAUSAGE-SELLER\nTake these too now."
+  },
+  {
+    "id": "p-896e03",
+    "offset": 61486,
+    "text": "DEMOS\nAnd what shall I do with these guts?"
+  },
+  {
+    "id": "p-7e1cd6",
+    "offset": 61530,
+    "text": "SAUSAGE-SELLER\nOn purpose the goddess sent them to you for the triremes—as gut-ribbing; for she plainly watches over the navy. Here, take this to drink too, mixed three to two."
+  },
+  {
+    "id": "p-5d2745",
+    "offset": 61708,
+    "text": "DEMOS\nHow sweet, O Zeus, and bearing the three measures well!"
+  },
+  {
+    "id": "p-d3c545",
+    "offset": 61771,
+    "text": "SAUSAGE-SELLER\nFor the Trito-born tritoned three measures into it."
+  },
+  {
+    "id": "p-456e45",
+    "offset": 61839,
+    "text": "CLEON\nNow take a slice of rich cake from me."
+  },
+  {
+    "id": "p-c1cd66",
+    "offset": 61885,
+    "text": "SAUSAGE-SELLER\nAnd from me this whole cake here."
+  },
+  {
+    "id": "p-ff2e35",
+    "offset": 61935,
+    "text": "CLEON\nBut you won't have any hare's meat to give from—I will."
+  },
+  {
+    "id": "p-ce9133",
+    "offset": 61998,
+    "text": "SAUSAGE-SELLER\nOh dear, where shall I get hare's meat? O my heart, now find some buffoon's trick!"
+  },
+  {
+    "id": "p-9fa828",
+    "offset": 62097,
+    "text": "CLEON\nDo you see this, you poor wretch?"
+  },
+  {
+    "id": "p-ae48e3",
+    "offset": 62138,
+    "text": "SAUSAGE-SELLER\nI care little, for here are some men coming toward me—ambassadors with money-bags of silver."
+  },
+  {
+    "id": "p-039577",
+    "offset": 62247,
+    "text": "CLEON\nWhere, where?"
+  },
+  {
+    "id": "p-717b38",
+    "offset": 62268,
+    "text": "SAUSAGE-SELLER\nWhat's that to you? Won't you leave the strangers alone? Dear little Demos, do you see the hare's meat I bring you?"
+  },
+  {
+    "id": "p-87f7d8",
+    "offset": 62400,
+    "text": "CLEON\nOh, wretched me! You've unjustly filched my dish!"
+  },
+  {
+    "id": "p-911c7e",
+    "offset": 62457,
+    "text": "SAUSAGE-SELLER\nBy Poseidon—and so did you the men at Pylos!"
+  },
+  {
+    "id": "p-505895",
+    "offset": 62518,
+    "text": "DEMOS\nTell me, please, how did you think to snatch it?"
+  },
+  {
+    "id": "p-09ff8f",
+    "offset": 62574,
+    "text": "SAUSAGE-SELLER\nThe idea was the goddess's, the theft my own."
+  },
+  {
+    "id": "p-5bc971",
+    "offset": 62636,
+    "text": "CLEON\nBut I ran the risk, I roasted it."
+  },
+  {
+    "id": "p-b1f542",
+    "offset": 62677,
+    "text": "DEMOS\nOff with you! The thanks belong to the one who served it up."
+  },
+  {
+    "id": "p-889669",
+    "offset": 62745,
+    "text": "CLEON\nOh, wretched me, I'll be out-brazened!"
+  },
+  {
+    "id": "p-64e307",
+    "offset": 62791,
+    "text": "SAUSAGE-SELLER\nWhy not decide, Demos, which of us two is the better man toward you and your belly?"
+  },
+  {
+    "id": "p-e327ed",
+    "offset": 62891,
+    "text": "DEMOS\nWhat proof, then, could I use to seem to the spectators to judge wisely?"
+  },
+  {
+    "id": "p-de908a",
+    "offset": 62971,
+    "text": "SAUSAGE-SELLER\nI'll tell you. Go quietly and seize my hamper and inspect what's in it, and the Paphlagonian's; and never fear, you'll judge rightly."
+  },
+  {
+    "id": "p-9e5313",
+    "offset": 63121,
+    "text": "DEMOS\nLet me see—what's in it, then?"
+  },
+  {
+    "id": "p-4066e7",
+    "offset": 63159,
+    "text": "SAUSAGE-SELLER\nDon't you see it's empty, dear daddy? For I carried it all off to you."
+  },
+  {
+    "id": "p-ca5e97",
+    "offset": 63246,
+    "text": "DEMOS\nThis hamper here has the people's interest at heart."
+  },
+  {
+    "id": "p-7f17e9",
+    "offset": 63306,
+    "text": "SAUSAGE-SELLER\nNow walk over here to the Paphlagonian's. Do you see this?"
+  },
+  {
+    "id": "p-9f1af6",
+    "offset": 63381,
+    "text": "DEMOS\nOh my, how full of good things it is! What a quantity of cake he's stored away! And to me he gave only this tiny slice he cut off."
+  },
+  {
+    "id": "p-6cce02",
+    "offset": 63519,
+    "text": "SAUSAGE-SELLER\nSuch things he did to you before too: he'd hand you a little of what he got, while setting aside the bigger portions for himself."
+  },
+  {
+    "id": "p-5be30a",
+    "offset": 63665,
+    "text": "DEMOS\nYou filthy thief, so this is how you've been cheating me? \"And I crowned you and showered you with gifts.\""
+  },
+  {
+    "id": "p-a121e0",
+    "offset": 63779,
+    "text": "CLEON\nBut I stole for the good of the city!"
+  },
+  {
+    "id": "p-3b48ed",
+    "offset": 63824,
+    "text": "DEMOS\nSet down the crown at once, so I may put it on this fellow."
+  },
+  {
+    "id": "p-9068dc",
+    "offset": 63891,
+    "text": "SAUSAGE-SELLER\nSet it down at once, you jailbird!"
+  },
+  {
+    "id": "p-93fa61",
+    "offset": 63942,
+    "text": "CLEON\nNo—for I have a Pythian oracle declaring by whom alone I must be beaten."
+  },
+  {
+    "id": "p-77e2c5",
+    "offset": 64022,
+    "text": "SAUSAGE-SELLER\nDeclaring my name, and all too plainly."
+  },
+  {
+    "id": "p-a55b24",
+    "offset": 64078,
+    "text": "CLEON\nWell, I want to test you by a proof, whether you'll square with the god's predictions. And first I'll make trial of you on this point: as a boy, to whose school did you go?"
+  },
+  {
+    "id": "p-2c9828",
+    "offset": 64258,
+    "text": "SAUSAGE-SELLER\nIn the singeing-pits, I was tuned up with knuckle-blows."
+  },
+  {
+    "id": "p-1858e2",
+    "offset": 64331,
+    "text": "CLEON\nWhat's that you say? How the oracle grips my mind! Well. And at the trainer's, what kind of wrestling did you learn?"
+  },
+  {
+    "id": "p-f5a8d3",
+    "offset": 64455,
+    "text": "SAUSAGE-SELLER\nTo swear false oaths while stealing, and to look my accuser in the eye."
+  },
+  {
+    "id": "p-4fc1d1",
+    "offset": 64543,
+    "text": "CLEON\nO Phoebus Apollo Lycian, what will you do to me at last? And what trade did you have when you grew to manhood?"
+  },
+  {
+    "id": "p-1c7aea",
+    "offset": 64661,
+    "text": "SAUSAGE-SELLER\nI sold sausages, and got buggered a bit besides."
+  },
+  {
+    "id": "p-d6872d",
+    "offset": 64726,
+    "text": "CLEON\nOh, wretched me! I'm done for—I'm nothing now. There's one slender hope on which we ride. And tell me just this much: was it in the marketplace you sold sausages, in truth, or at the gates?"
+  },
+  {
+    "id": "p-b00138",
+    "offset": 64923,
+    "text": "SAUSAGE-SELLER\nAt the gates, where the salt-fish is for sale."
+  },
+  {
+    "id": "p-b7b000",
+    "offset": 64986,
+    "text": "CLEON\nAlas, the god's prediction is fulfilled! Roll this ill-starred fellow inside. O crown, farewell and go your way, even though against my will I leave you. Some other man will take and possess you—no greater thief, perhaps, but luckier."
+  },
+  {
+    "id": "p-ad26a7",
+    "offset": 65228,
+    "text": "SAUSAGE-SELLER\nHellenic Zeus, yours is the victory!"
+  },
+  {
+    "id": "p-ed176d",
+    "offset": 65281,
+    "text": "CHORUS\nHail, glorious victor! And remember that you've become a man through me; and I ask of you a small thing—that I may be your Phanus, the under-clerk for lawsuits."
+  },
+  {
+    "id": "p-1ef731",
+    "offset": 65450,
+    "text": "DEMOS\nAnd tell me your name, please."
+  },
+  {
+    "id": "p-4a8a37",
+    "offset": 65488,
+    "text": "SAUSAGE-SELLER\nAgoracritus; for in the marketplace, judged in disputes, I got my living."
+  },
+  {
+    "id": "p-4c500c",
+    "offset": 65578,
+    "text": "DEMOS\nThen I entrust myself to Agoracritus, and hand over this Paphlagonian here."
+  },
+  {
+    "id": "p-5b0a63",
+    "offset": 65661,
+    "text": "SAUSAGE-SELLER\nAnd I, Demos, will tend you well, so that you'll admit you've seen no man better than I toward the city of the Gapenians."
+  },
+  {
+    "id": "p-2cc38a",
+    "offset": 65799,
+    "text": "CHORUS\nWhat finer thing, for those beginning or those ending, than to sing of the drivers of swift horses—and nothing of Lysistratus, nor to grieve, with willing heart, Thumantis the homeless? For he too, dear Apollo, is forever hungry, clutching with welling tears at your quiver, in holy Pytho, that he need not be wretchedly poor."
+  },
+  {
+    "id": "p-010f64",
+    "offset": 66134,
+    "text": "CHORUS\nTo abuse the wicked is nothing to be grudged—indeed it's an honor to the good, for anyone who reckons rightly. Now if the man who deserves to hear much abuse, and bad abuse, were himself well-known, I'd not have made mention of a man who's a friend. But as it is, there's no one who doesn't know Arignotus, whoever knows white from black, or the high-pitched mode. He has a brother, then, whose ways are no kin to him—Ariphrades, the scoundrel. But this very thing is what he wants. He's not only a scoundrel—for then I'd not even have noticed—nor merely an utter scoundrel; he's invented something extra besides. For he defiles his own tongue with shameful pleasures, licking the loathsome dew in the brothels, and fouling his beard and stirring up the hearths, and making Polymnestus-songs and consorting with Oeonichus. So whoever doesn't loathe such a man utterly shall never drink from the same cup with us."
+  },
+  {
+    "id": "p-1b8055",
+    "offset": 67055,
+    "text": "CHORUS\nTruly, often in nightly thoughts I've kept company with myself, and searched out whence it is that Cleonymus eats so meanly. For they say that when he's feeding on the goods of men who have plenty, he won't come out from the bread-bin; and they beg him all the same: \"Come, lord, by your knees, come out and have pity on the table!\""
+  },
+  {
+    "id": "p-13bd51",
+    "offset": 67396,
+    "text": "CHORUS\nThey say the triremes came together to a conference, and one of them—the eldest—spoke: \"Don't you know what's afoot in the city, maidens? They say someone is asking for a hundred of us to go to Carthage—a wretched citizen, sour Hyperbolus.\" This seemed to them a terrible thing and not to be borne, and one who'd never come near a man said: \"God forbid he should ever command me! No, if need be, I'll grow old here, rotted by worms. Nor over Nauphante, daughter of Nauson—not at all, you gods—if indeed I too was nailed together out of pine and timber. And if this pleases the Athenians, I propose we sail and sit in the Theseum, or at the shrine of the August Goddesses. For he shall not make a mock of the city with us for generals. No—let him sail off by himself to the crows, if he likes, having launched the troughs in which he used to sell his lamps!\""
+  },
+  {
+    "id": "p-055962",
+    "offset": 68262,
+    "text": "SAUSAGE-SELLER\nKeep holy silence, and close your mouths, and refrain from giving evidence, and shut up the law-courts in which this city delights, and let the theater chant the paean over the new good fortunes."
+  },
+  {
+    "id": "p-c52327",
+    "offset": 68474,
+    "text": "CHORUS\nO light of holy Athens, and defender of the islands, what good news do you bring, that we should make the streets fragrant with sacrifice?"
+  },
+  {
+    "id": "p-232c4e",
+    "offset": 68621,
+    "text": "SAUSAGE-SELLER\nI've boiled Demos down for you and made him fair out of foul."
+  },
+  {
+    "id": "p-861763",
+    "offset": 68699,
+    "text": "CHORUS\nAnd where is he now, O wondrous deviser of devices?"
+  },
+  {
+    "id": "p-1a1e72",
+    "offset": 68759,
+    "text": "SAUSAGE-SELLER\nHe dwells in the violet-crowned ancient Athens."
+  },
+  {
+    "id": "p-e13977",
+    "offset": 68823,
+    "text": "CHORUS\nHow might we see him? What sort of gear has he? What has he become?"
+  },
+  {
+    "id": "p-492ac5",
+    "offset": 68899,
+    "text": "SAUSAGE-SELLER\nSuch as he was when he dined with Aristides of old and Miltiades. You'll see; for already there's a sound of the gates opening. Raise the ritual cry to the ancient Athens appearing in sight—wondrous and much-hymned—where the famed Demos dwells."
+  },
+  {
+    "id": "p-dd48f2",
+    "offset": 69160,
+    "text": "CHORUS\nO shining, violet-crowned, much-envied Athens, show us the sole monarch of Greece and of this land!"
+  },
+  {
+    "id": "p-7ad23b",
+    "offset": 69268,
+    "text": "SAUSAGE-SELLER\nHere he is, to behold, wearing the cicada brooch, splendid in the ancient fashion, smelling not of muscle-shells but of treaties, anointed with myrrh."
+  },
+  {
+    "id": "p-8d2d73",
+    "offset": 69435,
+    "text": "CHORUS\nHail, king of the Greeks! And we rejoice along with you. For you fare worthily of the city and of the trophy at Marathon."
+  },
+  {
+    "id": "p-55a3e5",
+    "offset": 69565,
+    "text": "DEMOS\nO dearest of men, come here, Agoracritus! How much good you've done me by boiling me down!"
+  },
+  {
+    "id": "p-ad9561",
+    "offset": 69663,
+    "text": "SAUSAGE-SELLER\nI? Why, my dear man, you don't know what you yourself were like before, nor what you did; or you'd reckon me a god."
+  },
+  {
+    "id": "p-39b501",
+    "offset": 69795,
+    "text": "DEMOS\nWhat did I do before, tell me—what sort was I?"
+  },
+  {
+    "id": "p-4e36d4",
+    "offset": 69849,
+    "text": "SAUSAGE-SELLER\nFirst of all, whenever someone said in the assembly, \"Demos, I'm your lover and I cherish you and care for you and alone take forethought for you\"—whenever anyone used such preambles, you'd flap your wings and toss your head."
+  },
+  {
+    "id": "p-744ce7",
+    "offset": 70091,
+    "text": "DEMOS\nI did?"
+  },
+  {
+    "id": "p-7d75b9",
+    "offset": 70105,
+    "text": "SAUSAGE-SELLER\nAnd then, having deceived you, he'd be off with his reward."
+  },
+  {
+    "id": "p-b2bf2a",
+    "offset": 70181,
+    "text": "DEMOS\nWhat do you say? They did this to me, and I didn't notice?"
+  },
+  {
+    "id": "p-da12bf",
+    "offset": 70247,
+    "text": "SAUSAGE-SELLER\nWhy, your ears would spread wide open like a parasol, by Zeus, and then close up again."
+  },
+  {
+    "id": "p-82aa88",
+    "offset": 70351,
+    "text": "DEMOS\nHad I become so witless and old?"
+  },
+  {
+    "id": "p-7f5462",
+    "offset": 70391,
+    "text": "SAUSAGE-SELLER\nAnd by Zeus, if two orators were speaking—one for building warships, the other for spending the same on jury-pay—the one who spoke for the pay would outrun the trireme-man and be off with it. You there, why do you hang your head? Won't you stay put where you are?"
+  },
+  {
+    "id": "p-b91de8",
+    "offset": 70671,
+    "text": "DEMOS\nI'm ashamed, truly, of my former faults."
+  },
+  {
+    "id": "p-4bbc8a",
+    "offset": 70719,
+    "text": "SAUSAGE-SELLER\nBut you're not to blame for these—don't worry—it was those who deceived you. Now tell me: if some buffoonish advocate says, \"There's no barley-money for you jurors unless you condemn in this case,\" what will you do, tell me, to that advocate?"
+  },
+  {
+    "id": "p-ef88aa",
+    "offset": 70978,
+    "text": "DEMOS\nI'll lift him up on high and hurl him into the pit, with Hyperbolus hung from his neck."
+  },
+  {
+    "id": "p-1f54f3",
+    "offset": 71073,
+    "text": "SAUSAGE-SELLER\nNow that's spoken rightly and sensibly! But in other matters—let me see—tell me how you'll govern."
+  },
+  {
+    "id": "p-531f4d",
+    "offset": 71188,
+    "text": "DEMOS\nFirst, to all who row the long ships, when they come into port I'll pay the wages in full."
+  },
+  {
+    "id": "p-19c4d0",
+    "offset": 71286,
+    "text": "SAUSAGE-SELLER\nYou've gratified many a smooth-rubbed little rump!"
+  },
+  {
+    "id": "p-d14517",
+    "offset": 71353,
+    "text": "DEMOS\nNext, no hoplite once entered on the muster-roll shall be re-enrolled elsewhere through pulling strings, but shall stay written down as he was at first."
+  },
+  {
+    "id": "p-0a5e53",
+    "offset": 71513,
+    "text": "SAUSAGE-SELLER\nThat bit Cleonymus's shield-grip!"
+  },
+  {
+    "id": "p-e67938",
+    "offset": 71563,
+    "text": "DEMOS\nAnd no beardless youth shall do business in the marketplace."
+  },
+  {
+    "id": "p-dca0e5",
+    "offset": 71631,
+    "text": "SAUSAGE-SELLER\nThen where will Cleisthenes and Straton do their shopping?"
+  },
+  {
+    "id": "p-ef5131",
+    "offset": 71706,
+    "text": "DEMOS\nI mean those young fellows in the perfume-shops, who sit there chattering things like this: \"Clever is Phaeax, and shrewd that he didn't die. He's conclusive and consummative, sententious and lucid and percussive, and supremely capturative of the troublesome element.\""
+  },
+  {
+    "id": "p-a8eea0",
+    "offset": 71982,
+    "text": "SAUSAGE-SELLER\nThen aren't you finger-flickingly derisive of the prattlative element?"
+  },
+  {
+    "id": "p-a315b0",
+    "offset": 72069,
+    "text": "DEMOS\nBy Zeus, no—rather I'll force them all to go hunting, and put a stop to their decree-mongering."
+  },
+  {
+    "id": "p-3eb983",
+    "offset": 72172,
+    "text": "SAUSAGE-SELLER\nThen take this folding-stool besides, for these arrangements, and an unaltered boy-slave to carry it for you; and if it ever seems good to you, make this fellow a folding-stool too."
+  },
+  {
+    "id": "p-93345a",
+    "offset": 72370,
+    "text": "DEMOS\nBlessed am I, restored to the old ways!"
+  },
+  {
+    "id": "p-50e8c4",
+    "offset": 72417,
+    "text": "SAUSAGE-SELLER\nYou'll say so when I hand you over the Thirty-Year Truces. Come here, Truces, quickly!"
+  },
+  {
+    "id": "p-6c46ed",
+    "offset": 72520,
+    "text": "DEMOS\nO much-honored Zeus, how lovely they are! By the gods, may I lie with them for thirty years? How did you come by them, in truth?"
+  },
+  {
+    "id": "p-ca4d4e",
+    "offset": 72656,
+    "text": "SAUSAGE-SELLER\nDidn't the Paphlagonian hide them away inside, so you wouldn't get them? Now then, I hand them over to you to take and go off to the fields."
+  },
+  {
+    "id": "p-3abfab",
+    "offset": 72813,
+    "text": "DEMOS\nAnd as for the Paphlagonian, who did all this—tell me what evil you'll do to him."
+  },
+  {
+    "id": "p-9a7d5e",
+    "offset": 72902,
+    "text": "SAUSAGE-SELLER\nNothing great—only that he'll have my trade: he'll sell sausages alone at the gates, mixing dog's meat with ass's wares; and drunk, he'll wrangle with the whores, and drink the slops from the bath-houses."
+  },
+  {
+    "id": "p-8f572a",
+    "offset": 73123,
+    "text": "DEMOS\nWell devised! You've hit on just what he deserves—to bawl it out with whores and bath-attendants. And in return for this I summon you to the Prytaneum, to the seat where that scoundrel used to be. Take this frog-green robe and follow me. And let someone carry that fellow out to his trade, so the foreigners he abused may set eyes on him."
+  }
+]

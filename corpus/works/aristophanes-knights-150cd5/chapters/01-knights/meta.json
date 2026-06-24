@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristophanes-knights-150cd5",
+  "work_title": "Knights",
+  "chapter_number": 1,
+  "chapter_title": "Knights",
+  "chapter_slug": "01-knights",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9937b2de-86ec-5685-8c98-fe22cf86f97f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9478,
+      "paragraph_count": 1495,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0019.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74b83ac8-59ba-5ca4-8580-4d19a61bb350",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12979,
+      "paragraph_count": 553,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

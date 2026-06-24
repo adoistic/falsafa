@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-marcus-antoninus-philosophus-f47e7b",
+  "work_title": "Marcus Antoninus Philosophus",
+  "chapter_number": 1,
+  "chapter_title": "Marcus Antoninus Philosophus",
+  "chapter_slug": "01-marcus-antoninus-philosophus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c7bb11a8-2071-5d62-aba8-81f618bebc30",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5542,
+      "paragraph_count": 380,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7cd6fe95-4e43-5c72-97c7-bc4ce9ad9b77",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8449,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

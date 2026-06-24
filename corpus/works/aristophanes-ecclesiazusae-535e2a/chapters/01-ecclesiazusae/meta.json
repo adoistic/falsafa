@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristophanes-ecclesiazusae-535e2a",
+  "work_title": "Ecclesiazusae",
+  "chapter_number": 1,
+  "chapter_title": "Ecclesiazusae",
+  "chapter_slug": "01-ecclesiazusae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dddf0d18-2475-5e71-b97e-ed27a7b8ae41",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8275,
+      "paragraph_count": 1382,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0019.tlg010"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b5f460c1-e345-52af-9b19-b3c9984b23f6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12027,
+      "paragraph_count": 528,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

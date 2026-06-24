@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-ad-scapulam-43e82c",
+  "work_title": "Ad Scapulam",
+  "chapter_number": 1,
+  "chapter_title": "Ad Scapulam",
+  "chapter_slug": "01-ad-scapulam",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "99c60c02-1e44-55c8-aba4-75420cfaa411",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1507,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "925b7a29-f35b-5a3b-8c8d-db582fc8a02b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2285,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

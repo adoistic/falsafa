@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-de-cultu-feminarum-ff1467",
+  "work_title": "De Cultu Feminarum",
+  "chapter_number": 1,
+  "chapter_title": "De Cultu Feminarum",
+  "chapter_slug": "01-de-cultu-feminarum",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d5923bf7-3b21-5228-b9ee-3bedf8ae3ce4",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5144,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa014"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6505c87f-d5ad-5293-ba0e-7a6bae454c7d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7895,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristophanes-lysistrata-835f72",
+  "work_title": "Lysistrata",
+  "chapter_number": 1,
+  "chapter_title": "Lysistrata",
+  "chapter_slug": "01-lysistrata",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "47a0ebf1-2a79-545d-b1fc-68266d9ee4f7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7666,
+      "paragraph_count": 1248,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0019.tlg007"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "41852a4a-d09f-57aa-bcb9-5a4efcc99447",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11166,
+      "paragraph_count": 531,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

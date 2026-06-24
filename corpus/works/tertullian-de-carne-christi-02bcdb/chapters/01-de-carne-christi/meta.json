@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-de-carne-christi-02bcdb",
+  "work_title": "De Carne Christi",
+  "chapter_number": 1,
+  "chapter_title": "De Carne Christi",
+  "chapter_slug": "01-de-carne-christi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "19efec5f-5d40-5f7e-baf9-bd4401caf075",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9528,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa012"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7cfbcb18-27e9-5ee0-8ea0-7fd7227a73c8",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14802,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

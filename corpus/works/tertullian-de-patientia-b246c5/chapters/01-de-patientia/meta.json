@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-de-patientia-b246c5",
+  "work_title": "De Patientia",
+  "chapter_number": 1,
+  "chapter_title": "De Patientia",
+  "chapter_slug": "01-de-patientia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b241663f-3ee3-5706-b63d-3279830b2cdb",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4540,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa023"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6fdd2eba-f7c0-580b-ba53-15c03b15b06d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7445,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

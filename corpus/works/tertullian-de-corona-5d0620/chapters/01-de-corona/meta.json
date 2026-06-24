@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-de-corona-5d0620",
+  "work_title": "De Corona",
+  "chapter_number": 1,
+  "chapter_title": "De Corona",
+  "chapter_slug": "01-de-corona",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ac366015-7c5f-5b6a-87bc-ebce611af4f7",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4882,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa013"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cd3c3f9a-84ad-5522-ab0b-8e131d653637",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7580,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

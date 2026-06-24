@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-antoninus-heliogabalus-f231a5",
+  "work_title": "Antoninus Heliogabalus",
+  "chapter_number": 1,
+  "chapter_title": "Antoninus Heliogabalus",
+  "chapter_slug": "01-antoninus-heliogabalus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4329d0be-92ab-5a79-a069-ca497e325801",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5827,
+      "paragraph_count": 337,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi017"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d62d4054-6abb-59aa-8fa6-cfa1f407b5b5",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9184,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

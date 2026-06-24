@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-gordiani-tres-5fb2a3",
+  "work_title": "Gordiani Tres",
+  "chapter_number": 1,
+  "chapter_title": "Gordiani Tres",
+  "chapter_slug": "01-gordiani-tres",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "25e6f612-96ab-5d66-8409-9b116a89b08b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5590,
+      "paragraph_count": 272,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi020"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eabdb4ab-62ba-59bb-8e8b-f1f105ca3383",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8537,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

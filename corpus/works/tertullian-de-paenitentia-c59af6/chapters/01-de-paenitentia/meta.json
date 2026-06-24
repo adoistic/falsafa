@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-de-paenitentia-c59af6",
+  "work_title": "De Paenitentia",
+  "chapter_number": 1,
+  "chapter_title": "De Paenitentia",
+  "chapter_slug": "01-de-paenitentia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "388fd2e3-2bce-5f8f-953e-6008af5c178f",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4086,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa021"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "06f11ec7-8827-5a9d-b853-17f0c47da5d5",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6656,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

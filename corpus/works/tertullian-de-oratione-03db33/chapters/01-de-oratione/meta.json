@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-de-oratione-03db33",
+  "work_title": "De Oratione",
+  "chapter_number": 1,
+  "chapter_title": "De Oratione",
+  "chapter_slug": "01-de-oratione",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f7bf82ea-e179-502a-870d-efd1d04de6b1",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4506,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa020"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "923c2967-d226-5d52-ab6f-fa695ca51496",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7193,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
