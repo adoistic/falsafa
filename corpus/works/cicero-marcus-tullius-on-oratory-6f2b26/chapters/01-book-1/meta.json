@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-on-oratory-6f2b26",
+  "work_title": "On Oratory",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "351ae460-9abe-51a7-b398-24ec037b3fed",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 18471,
+      "paragraph_count": 268,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi037"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7e076519-a8eb-5090-92ca-3576c179a698",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 26750,
+      "paragraph_count": 265,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
