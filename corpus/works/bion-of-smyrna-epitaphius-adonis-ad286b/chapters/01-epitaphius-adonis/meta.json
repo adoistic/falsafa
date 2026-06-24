@@ -1,0 +1,38 @@
+{
+  "work_slug": "bion-of-smyrna-epitaphius-adonis-ad286b",
+  "work_title": "Epitaphius Adonis",
+  "chapter_number": 1,
+  "chapter_title": "Epitaphius Adonis",
+  "chapter_slug": "01-epitaphius-adonis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0ab100ec-1f1a-5688-ae7e-5fea2ea21765",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 719,
+      "paragraph_count": 98,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0036.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bcf46246-6c22-507a-a6e3-358a8e0a1db6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 950,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

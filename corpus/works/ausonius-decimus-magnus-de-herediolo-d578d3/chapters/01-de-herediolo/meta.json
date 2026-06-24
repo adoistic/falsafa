@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-de-herediolo-d578d3",
+  "work_title": "De Herediolo",
+  "chapter_number": 1,
+  "chapter_title": "De Herediolo",
+  "chapter_slug": "01-de-herediolo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7be58186-166c-5fda-8a8b-833ad52d0b5a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 251,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa006"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c2958fd6-3457-5e53-93ed-19e1b82afd4d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 409,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

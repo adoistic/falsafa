@@ -1,0 +1,166 @@
+---
+work_id: "97af98e4-9b43-55ab-9b59-6cd66775c491"
+work_slug: "dionysius-of-halicarnass-antiquitates-romanae-97af98"
+work_title: Antiquitates Romanae
+author_name: Dionysius of Halicarnassus
+chapter_number: 18
+chapter_title: Book 18
+chapter_slug: "18-book-18"
+variant_id: "7f1ec7ff-925e-5a5f-94f8-5d922f0bb333"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 5418
+translator: thothica
+---
+
+1.1. Croton is a city in Italy, and Sybaris, so called from the river that flows past it.
+
+1.2. When the Lacedaemonians were making war on Messene and the city was bereft of men, the women, and especially the maidens in their prime, begged that they should not be allowed, some to remain unwed and others childless. So certain young men were continually sent in turn from the camp for the sake of union with the women, and they consorted with whatever women they chanced upon. From these indiscriminate unions children were born, whom, when they came to manhood, the Lacedaemonians treated with contempt in various ways and called Parthenii.
+
+1.3. When a faction arose, the Parthenii, being worsted, withdrew of their own accord from the city, and sending to Delphi they received an oracle: to sail to Italy, and having found the place Satyrium in Iapygia and the river Taras, there, where they should see a he-goat dipping his beard in the sea, there to
+
+1.4. establish their dwellings. Having sailed, they found the river, and near a wild fig-tree that had grown beside the sea they beheld a vine trailing down, from which one of the upper shoots, hanging low, touched the sea. Taking this to be the goat which the god had foretold they would see dipping its beard in the sea, they remained there, made war upon the Iapygians, and founded the city named after the river Taras.
+
+2.1. Artimedes the Chalcidian had an oracle: where he should find the male covered by the female, there to remain and sail no farther. Having sailed to the region of Pallantium in Italy and seeing a vine . . . taking the wild fig to be the male and the clinging to be the covering, he supposed that the oracle had reached its fulfillment; and driving out the barbarians who held the place, he settled there.
+
+2.2. The place is called Rhegium, whether because there was a sheer crag there, or because at this spot the earth was rent (errage) and parted from Italy the Sicily that lies opposite, or because it took this name from a man of power who held it.
+
+3.1. To Leucippus the Lacedaemonian, inquiring where it was fated for him and his followers to dwell, the god gave response that he should sail to Italy and settle the land into which, when they had landed, they should remain a day and a night. The fleet having put in near Callipolis, a port of the Tarentines, Leucippus, admiring the nature of the place, persuaded the Tarentines to allow them to bivouac there a day and a night.
+
+3.2. But when several days had passed and the Tarentines required them to depart, Leucippus paid them no heed, saying that he had received the land from them by agreement for a day and a night; and so long as either of these endured, he would not let go of the land. The Tarentines, learning that they had been outwitted, allowed them to remain.
+
+4.1. The Locrians, having settled the headland of Italy called Zephyrium, were named Zephyrians. They had resolved that he should remain in the place where he was and hold off the war that flowed thence. They were scattered into woods and ravines and rugged mountain tracts.
+
+4.2. A certain Tarentine, Aenesias, wanton in all his pleasures, was surnamed Thais from the licentious and ill-famed bloom he had had as a boy. Having levied the multitude as soldiers, they departed. The most gossiping and ill-bred of those in the city.
+
+5.1. Postumius was sent as envoy to the Tarentines; and as he was setting forth a certain speech, the Tarentines, so far from giving heed to his meaning or weighing his arguments like prudent men deliberating about a city in danger, watched only whether anything he said failed to conform to the most exact character of the Greek dialect, and laughed; and they grew rough at his insistences and called the Romans barbarians, and at last drove them from the theater.
+
+5.2. As they were departing, one of the Tarentines standing in the passageway, a man named Philonides, a babbler, who from the drunkenness in which he had indulged all his life was called Cotyle, still full of yesterday's debauch, when the envoys were near, drew up his garment and arranged himself in the most shameful posture to behold, and poured upon the sacred robe of the envoy the filth which it is not even fitting to name.
+
+5.3. When laughter burst out from the whole theater and the most insolent clapped their hands, Postumius, looking at Philonides, said: "We shall accept the omen, you babbling fellow, since you give us even what we do not ask." Then turning to the crowd and showing the outraged robe, when he perceived that the laughter from all became still greater and heard the voices of some who rejoiced at it and praised the outrage,
+
+5.4. "Laugh," he said, "while you may, men of Tarentum, laugh; for long will be the time afterward in which you shall weep." And when some grew embittered at the threat: "And that you may be the more vexed," he said, "this too we tell you: that with much blood you shall wash out this robe."
+
+5.5. Having been thus outraged by the Tarentines both privately and publicly, and having uttered these words like prophecy, the Roman envoys sailed away from the city.
+
+6.1. Aemilius, surnamed Barbula, had just taken up the office when those who had been sent with Postumius to Tarentum arrived, bringing no answer but recounting the outrages they had suffered at the hands of the Tarentines, and offering the robe of Postumius as proof of their words. Great indignation arising on all sides, the consuls under Aemilius assembled the senate and considered what should be done, beginning at dawn and continuing until sunset; and this they did for many days.
+
+6.2. The question was not whether the agreements concerning peace had been dissolved by the Tarentines—for this all admitted—but about the time of the army to be sent against them. For there were some who advised not yet to undertake this war, so long as the Lucanians had revolted, and the Bruttians, and a great and war-loving portion of the Samnites, and Tyrrhenia, lying at the very doors, was still unsubdued; but rather, when these peoples should have been brought under, then to move—against all of them if possible, but if not, against those lying to the east and near Tarentum.
+
+6.3. To others the opposite course seemed expedient: not to wait even the briefest time, but to vote the war at once. And when the opinions had to be counted, these proved more numerous than those who advised putting off the war to other occasions; and the people ratified what the senate had resolved. (Look this up in the section on stratagems.)
+
+7.1. . . . it is in their nature that, for those wishing to preserve their own goods, the birds wheeling about the same place with rather leisurely flight are of good omen; but for those reaching after what belongs to others, the birds that have a swift and direct rush forward—for these are providers and hunters of things not yet possessed, while those others are overseers and guardians of things present.
+
+7.2. He traversed all the enemy's country, giving to the fire the fields that already held the corn-harvest in its prime and cutting down the fruit-bearing trees. Cities under popular rule suffer something much like the seas; for the seas are troubled by the winds, though it is their nature to lie at rest, and these cities are stirred up by the demagogues, though they have no evil in themselves.
+
+8.1. When the Tarentines wished to summon Pyrrhus from Epirus to the war against the Romans and were driving out those who opposed it, a certain Meton, himself also a Tarentine, in order to gain a hearing and to teach them how many things would enter along with the royal power into a free and luxurious city, while the multitude sat in session, came into the theater garlanded as if from a banquet, with his arm about a young flute-girl who piped revel-tunes.
+
+8.2. When the earnestness of all dissolved into laughter, and some bade him sing and others dance, he looked round in a circle, and signaling with his hand for them to grant him quiet, when he had stilled the uproar he said: "Men, fellow citizens, none of these things which you now see me doing will you be allowed to do, if you let a king and a garrison enter the city."
+
+8.3. But when he saw that many were moved and gave heed and bade him speak, still keeping up the pretense of his carousing, he began to reckon up the evils that would befall them; and while he was yet speaking, the authors of the evils seized him and thrust him headlong out of the theater.
+
+9.1. "Pyrrhus, king of the Epirotes, son of King Aeacides, to Publius Valerius the consul of the Romans, greeting. It is likely that you have learned from others that I am present with my force to aid the Tarentines and the other Italian Greeks who have called upon me; and that you are not ignorant of this either—from what men I am descended, and what deeds I myself have shown forth, and how great a force I bring, and how good it is in war."
+
+9.2. "Supposing, then, that you, taking each of these things into account, will not wait until by deed and trial you learn our valor in battle, but will lay down your arms and turn to words, I both counsel you to entrust to me the decision of the matters in which the Roman people are at variance with the Tarentines or the Lucanians or the Samnites—for I shall arbitrate the disputes with all justice—and I shall present my own friends to pay all the damages"
+
+9.3. "which I shall adjudge against them. And you also will do rightly to furnish guarantors, in respect of whatever charges any of those may bring, that you will keep valid the judgments rendered by me. To you who do these things I promise to grant peace and to be a friend, and zealously to aid you in whatever wars you summon me;"
+
+9.4. "but to you who do them not I would not permit to lay waste the country of allied men, nor to plunder Greek cities, nor to sell free persons as spoil; rather I shall hinder you by arms, that you may cease at last from carrying off and plundering all Italy and from treating all men insolently as slaves. I shall await your answers until the tenth day; for beyond this I could no longer do so."
+
+10.1. To this the consul of the Romans wrote in reply, rebuking the man's arrogance and displaying the high spirit of the city of Rome: "Publius Valerius Laevinus, praetor-consul of the Romans,"
+
+10.2. "to King Pyrrhus, greeting. It seems to me the part of a prudent man to send threatening letters to his subjects; but to despise as worthless and of no account those whose power he has not tested nor come to know their virtues, seems to me proof of a senseless disposition and of one who does not understand the difference."
+
+10.3. "We are not accustomed to take vengeance on our enemies with words but with deeds, and we neither make you judge of the charges we bring against the Tarentines or Samnites or our other enemies, nor accept any guarantor of compensation; rather we shall decide the contest by our own arms and exact the penalties as we ourselves please. Knowing this beforehand, then, prepare yourself to be our adversary, and"
+
+10.4. "not our judge. And concerning the wrongs you yourself do us, consider what guarantors of compensation you will furnish; do not take it upon yourself to vouch that the Tarentines or our enemies will render satisfaction. But if you have resolved by every means to take up war against us, know that the same will befall you which must befall all who wish to fight"
+
+10.5. "before examining against whom they will make their battle. Bearing this in mind, if you have need of anything of ours, lay aside your threats, cast down your royal pride, and go to the senate, and instruct and persuade the councillors, as one who shall fail of nothing either just or reasonable."
+
+11.1. Laevinus, the consul of the Romans, having seized a spy of Pyrrhus, armed his whole army and drew it up in order; and when he had shown it to the spy, he bade him tell the whole truth to the one who had sent him, and in addition to what he had beheld to say that Laevinus, the consul of the Romans, exhorted him not to send others secretly to spy any longer, but to come himself openly and see and learn the power of the Romans.
+
+12.1. A certain man named Oblacus, surnamed Vulsinius, leader of the Frentanian people, seeing that Pyrrhus held no single station but showed himself swiftly to all who were fighting, fixed his attention upon him alone, and wherever Pyrrhus rode by, he kept leading his own horse opposite to him;
+
+12.2. and one of those with the king, Leonnatus the Macedonian, son of Leophantus, seeing him, grew suspicious and, pointing him out to Pyrrhus, said: "Watch this man, king; for he is a supreme warrior, and does not fight standing in one place, but observes you and has fixed his mind upon"
+
+12.3. "you." And while the king was saying, "What could one man do to me, who have so many about me?"—and was even boasting somewhat of his own strength, that even if he met a single foe alone he would not come away the worse—Oblacus the Frentanian, seizing the moment he had been waiting for, drove with those about him into the midst of the royal squadron; and cutting through the throng of the horsemen round about, he bore down upon the king himself, grasping his spear in both hands.
+
+12.4. At the same moment Leonnatus, who had warned Pyrrhus to beware of the man, swerving his horse a little to the side, struck the man's horse through the flank with his lance; and the Frentanian, already falling, drove his spear through the king's horse's breast, and both fell together with their horses.
+
+12.5. The most faithful of the bodyguards, mounting the king upon his own horse, carried him off; but Oblacus, who had fought on for a long time and then was overcome by the multitude of his wounds, certain of his companions took up—a great struggle having arisen over
+
+12.6. the corpse—and carried him away. From that time the king, that he might not be conspicuous to the enemy, ordered the most faithful and bravest in battle of his companions, Megacles, to put on his own cloak, which he was wont to wear in battles, of sea-purple and shot with gold, and his armor, which was costlier than the rest both in material and in workmanship; while he himself took that man's gray cloak and breastbone-armor and the cap upon his head—a thing which was thought to have been the cause of his preservation.
+
+13.1. When Pyrrhus, king of the Epirotes, had led his army against Rome, they resolved to send envoys to ask Pyrrhus to ransom the captives to them, whether exchanging them for other persons or fixing a sum of silver per man; and they appointed as envoys Gaius Fabricius, who three years before, in his consulship, had conquered the Samnites and Lucanians and Bruttians in great battles and raised the siege of Thurii; and Quintus Aemilius, who had been Fabricius's colleague and had held the command of the Tyrrhenian war; and Publius Cornelius, who four years before, in his consulship, fighting against the whole nation of the Celts called the Senones, the bitterest enemies of the Romans, had slaughtered them all, even to the youths.
+
+13.2. These men, coming to Pyrrhus and discoursing on whatever was suited to such a need—how Fortune is a thing not to be reckoned, and the reversals of wars are swift, and it is not easy for men to foresee any of the things to come—left the choice to him, whether he wished to take silver in place of the captives or other captives in exchange.
+
+13.3. Pyrrhus, having taken counsel with his friends, answered them thus: "A strange thing you do, men of Rome, in being unwilling to join friendship with me, yet asking to recover those taken in war, so that you may use these same persons in the war against me."
+
+13.4. "But if you are minded to do what is best and to consider the common advantage of us both, make a truce of the war against me and my allies, and receive your own people back from me as a free gift—your citizens and allies, all of them. Otherwise I would not endure to give up to you so many good men."
+
+14.1. This he said in the presence of the three envoys; but taking Fabricius aside privately: "I learn, Fabricius," he said, "that you are most excellent in the commands of wars and in your life just and prudent and possessed of all the other virtues, but poor in money and in this one respect alone brought low by Fortune, so that you fare no better in the matters of life than the poorest of the senators."
+
+14.2. "Eager, then, to fill up this one part, I am ready to give you a quantity of silver and gold so great that, possessing it, you will surpass in wealth all those Romans who are thought to be most prosperous; for I count it a fine expenditure, and fitting for a ruler, to confer benefit upon good men who through poverty fare unworthily of their virtue, and the most brilliant offering and accomplishment of royal wealth."
+
+14.3. "Learning my purpose, then, Fabricius, and laying aside all shame, share in the goods that are ours, knowing that I shall feel great gratitude toward you, and, by Zeus, no less . . . and count me among the most honored of your guest-friends. But in return for these things render me no unjust or shameful service whatever, but such as will make you stronger and more honored in your own country."
+
+14.4. "And first, so far as is in your power, urge the senate, hitherto contentious and disposed to nothing moderate, toward reconciliation, teaching them that I have not come for the harm of your city, having promised to aid the Tarentines and the other Italian Greeks—whom it is neither holy nor seemly for me to abandon, present as I am with a force and having won the first battle. And very many pressing matters that have arisen at this time call me back to my own kingdom."
+
+14.5. "And I offer all the pledges that confirm the agreements of men, both alone and along with the other envoys, concerning the journey home . . . that the Romans become friends, so that you may say with confidence to your fellow citizens, if indeed to some the name of kingship is suspect as deceitful in agreements—because certain others have seemed to break faith in oaths and treaties—judging the like also of me."
+
+14.6. "And when peace has been made, come with me, to be my counselor in all things and my lieutenant-general and a sharer in the royal good fortune. For I have need of a good man and a faithful friend, and you of royal supply and royal affairs; if then we bring these together into common stock, we shall carry off from one another the greatest of goods."
+
+15.1. When he had ceased, Fabricius, pausing a little, said: "Concerning the virtue that is in me, whether in public affairs or in my private life, there is no need for me to speak about myself, since you have learned it from others; nor yet concerning my poverty—that I have a very small plot of land and a poor little house, and that my livelihood comes neither from loans nor from slaves; for you appear to have heard these things too exactly from"
+
+15.2. "others. But as to my faring worse than any Roman through want, and gaining nothing more by practicing nobility because I am not of the rich, you have judged ill, whether having heard it from someone or guessing it yourself. For no perception of ill-fortune has ever come to me, nor does it, from not possessing much, nor have I bewailed my own lot either in public affairs or in private."
+
+15.3. "For what have I suffered that I should reproach Fortune? Is it that of the fair and contested things, for which every noble nature has striven, it has not fallen to me to share any from my country because of poverty?—I who hold the greatest offices and go on the most distinguished embassies and am entrusted with the most sacred services of the rites, and, deemed worthy to deliver my opinion on the most necessary matters, am called in the place that befits me, and am praised and emulated and am second to none of those of greatest power, and am thought to be an example of nobility to others, spending nothing of my own substance upon these things,"
+
+15.4. "just as none of the others does either. For the city of the Romans does not burden the livelihoods of each, as certain others do, in which the public wealth is small but that of private men great; rather it furnishes to those who come forward for public service all that they need, providing splendid and magnificent supplies. So that the poorest is in no way less honored than the richest in the meriting of fair distinctions, but all are Romans, as many as are worthy of these honors through nobility, equal to one another."
+
+15.5. "When, then, though poor, I have no less on that account than those who possess much, what should I suffer that I should accuse Fortune for not having made me like you kings, for whom much gold is heaped up? Nay, in my private affairs I am so far from ill-fortune that, examining myself against the rich, I think myself among the very few of the blessed; and on this I most pride myself, since my poor little plot suffices to furnish me the necessaries when I work it diligently and husband it,"
+
+15.6. "while as for things beyond the necessaries, Nature does not constrain us to seek them. For all food is sweet to me which hunger prepares, and every drink pleasant when thirst provides it, and sleep soft when toil leads to it; and the clothing that suffices to keep off cold is most adequate, and whatever utensil is cheapest among those that can render the same services is most suitable."
+
+15.7. "So that not even in this respect should I be just in accusing Fortune, who has furnished me with as much substance as Nature wished me to have; while of things in excess she has neither implanted the longing nor given the abundance."
+
+16.1. "By Zeus, you will say, but it is not in my power to relieve my neighbors, nor has the god given me out of abundance to possess knowledge or the art of divination, by which I might benefit those in need, nor many other things. But of those things that are in me, sharing them with both city and friends, and from the means by which I can do good to any, furnishing these common resources to the needy, I would not hold myself blameworthy. And these are the things which you think best and ask to buy with much"
+
+16.2. "money. But even if to possess much money were, above all for the sake of benefiting the needy, a thing worthy of great zeal and ambition, and it were possible for the richest to be the most blessed, as you kings suppose—which manner of wealth would have been better for me: that which you now share with me shamefully, or that which I myself formerly acquired honorably?"
+
+16.3. "For public affairs furnished me just occasions of gain, often before and especially when, four years ago, I was sent as commander of an army against the Samnites and Lucanians and Bruttians, holding the consular office; and I ravaged much country, conquered in many battles those who arrayed themselves against me, took by storm and sacked many prosperous cities, from which I enriched the whole army, and repaid to private men the contributions which they had advanced for the war, and brought four hundred talents into the treasury after the triumph."
+
+16.4. "Then, when it was in my power to take of those spear-won spoils as much as I wished, and I took none, but, scorning even the wealth that came justly for the sake of glory—as Valerius Publicola did and very many others besides him, through whom our city has become so great—shall I now accept your gifts and exchange the better abundance for the worse? In that acquisition the enjoyment of pleasures was added on top of what was honorable and just; from this even that is absent. For all that men take in addition from others are loans, weighing down the soul until they are repaid, even if one adorns them with fair names, calling them acts of kindness and gifts or favors."
+
+16.5. "Come, suppose that in my madness I accept the gold you give me, and this becomes manifest to all the Romans, and then those who hold the office that renders no account—whom we call censors, to whom it is given to scrutinize the lives of all Romans and to penalize those who depart from ancestral customs—summon me and order me to render account of the bribe-taking, bringing these charges before all who are present."
+
+17.1. "We sent you, Fabricius, as envoy with two other men of consular rank to King Pyrrhus to negotiate the release of captives. You have come back from the embassy bringing neither the captives nor any other good thing for the city, but having yourself received royal gifts, alone of the envoys sent with you, and having alone made the very peace which the people voted not to make—and that for no"
+
+17.2. "good to the city; for whence should it be? Rather that you might betray it to the king, and that through you he might bring all Italy under himself, and through him you might rob your country of its freedom. For this is what all those pursue who have practiced not true but counterfeit virtue, whenever they advance to bulk and greatness of affairs."
+
+17.3. "But if you had not held the elder dignity, nor taken bribes from the enemies of your country, nor for the betrayal and tyrannizing of your own citizens, but as a private man and from an allied man and for no harm to the city—even so, are you not on those grounds worthy of the great penalty, because you corrupt the young by introducing into their lives a zeal for wealth and luxury and royal extravagance, things in which great self-control is needed, if the commonwealth is to be preserved;"
+
+17.4. "and you shame your own ancestors, none of whom departed from the ancestral usages nor exchanged shameful wealth for honorable poverty, but all abode by the very small substance which you,"
+
+17.5. "having inherited it, deemed beneath yourself; and you corrupt the reputation that came to you from your former pursuits, of being temperate and self-controlled and superior to every shameful desire? Will you then rejoice at having become bad from good, when you ought, even if you had been base before, to have ceased from it? Or will you still share in any of the fair things owed to the good, and not rather depart—from the city above all, but if not, then from the forum?"
+
+18.1. "If, saying these things, they should strike me from the senate and transfer me to the tribes of the disfranchised, what just thing shall I have to say or do toward them? What life shall I live thereafter, having fallen into so great a dishonor,"
+
+18.2. "and having involved all my descendants in it as well? And to you yourself, of what use shall I still appear, having lost the power and honor I had among my fellow citizens, the very things for which you now have made me your concern? It remains, then, for the man who can no longer hold any place in his country to depart with his whole household, condemning himself to an unseemly exile."
+
+18.3. "Then where shall I be for the rest of my time? Or what place will receive me, become, as is likely, a man without freedom of speech? Your kingdom, by Zeus, and will you furnish me all the tyrant's felicity? And what good so great will you give me as to match the evil you do in robbing me of the most precious of all possessions—freedom?"
+
+18.4. "And how could I endure a change of life, learning late to be a slave? For where those born in kingdoms and tyrannies, when they are of noble nature, cling to freedom and count all good things less than it, surely those who have lived in a free city, one that has learned to rule others, will not bear lightly the change from better to worse, enduring to become slaves out of free men, in order that they may set out splendid tables day by day and lead about many servants and take unsparing enjoyment of fair women and boys—as though human happiness lay in these things, and not in virtue?"
+
+18.5. "And of these very things—granting that one should concede them to be worth much zeal—what cheerful use could there be that does not possess security? For it rests with you who furnish these pleasures, whenever you yourselves wish, to take them away again. I forbear to speak of the envies, the slanders, the living no moment without danger and fear, and the many other hard things that the life among kings brings, things unworthy of a noble spirit."
+
+18.6. "May so great a madness never seize Fabricius, that he should forsake renowned Rome and choose the life in Epirus, and, when it is in his power to lead a city of leaders, be ruled by a single man who has no equal thoughts toward others and has been accustomed to hear from all only what is pleasing."
+
+18.7. "To change my disposition and make myself humble, so that you might suspect no harm from me, I could not; while remaining such as Nature and my habits have made me, I shall appear burdensome to you and shall seem to draw the command toward myself. In sum, I can counsel you to receive into your kingdom not only no Fabricius, but no other man at all, neither greater nor equal to yourself, nor in general any man bred in free ways and possessing a spirit greater than befits a private man."
+
+18.8. "For a high-minded man is neither safe nor pleasant as housemate to a king. But concerning your own interests, what you must do, you yourself will determine; and concerning the captives, having resolved upon something reasonable, let us depart." When he had ceased speaking, the king, admiring the nobility of his soul, took him by the right hand and said: "It no longer comes upon me to wonder why your city is renowned and has clothed itself in so great a magnitude of empire, being the nurse of such men. And indeed I would most have wished that from the first no difference had arisen between me and you; but since it has come about, and some one of the gods willed that we should be brought together after testing one another's power and valor, I am ready to come to terms, and, that I may be first to begin the acts of kindness to which you summon me, I grant the city all the captives without ransom."

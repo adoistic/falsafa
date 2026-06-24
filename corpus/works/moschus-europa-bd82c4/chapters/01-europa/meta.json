@@ -1,0 +1,38 @@
+{
+  "work_slug": "moschus-europa-bd82c4",
+  "work_title": "Europa",
+  "chapter_number": 1,
+  "chapter_title": "Europa",
+  "chapter_slug": "01-europa",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c857c913-03da-56a4-b999-b7ba2c9ad8d6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1133,
+      "paragraph_count": 166,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0035.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2144f8c0-6b48-5e74-987d-f42e6b507da5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1649,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

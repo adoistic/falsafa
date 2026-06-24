@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-hannibal-0df40f",
+  "work_title": "Hannibal",
+  "chapter_number": 1,
+  "chapter_title": "Hannibal",
+  "chapter_slug": "01-hannibal",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1b6e777a-d677-5418-b3e2-0a07cbdb7f01",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2085,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo023"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a945991-f626-5547-b033-4e8aed30edfb",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3259,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

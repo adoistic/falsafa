@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-praefatiunculae-c18c8a",
+  "work_title": "Praefatiunculae",
+  "chapter_number": 1,
+  "chapter_title": "Praefatiunculae",
+  "chapter_slug": "01-praefatiunculae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "616f3ab8-8d13-5fdd-8d47-cbe14d8d3e8d",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 568,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa025"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b23cb99e-81e7-5986-9241-fc0d4410fd77",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 920,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

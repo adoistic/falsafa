@@ -1,0 +1,38 @@
+{
+  "work_slug": "eusebius-of-caesarea-ecclesiastical-history-2354d7",
+  "work_title": "Ecclesiastical History",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06-book-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5ff6e2af-8eb4-5101-838b-8adeb4be5644",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 13105,
+      "paragraph_count": 251,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfbd7a52-cee5-5efb-af2f-1c2d8d04da22",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 16484,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

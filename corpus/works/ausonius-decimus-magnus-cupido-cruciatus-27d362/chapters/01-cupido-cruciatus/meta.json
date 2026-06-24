@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-cupido-cruciatus-27d362",
+  "work_title": "Cupido Cruciatus",
+  "chapter_number": 1,
+  "chapter_title": "Cupido Cruciatus",
+  "chapter_slug": "01-cupido-cruciatus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "84443193-bf96-5e8c-9f7e-03f4339c464a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 751,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa005"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "66db349d-09b0-5b1a-bedf-582b28e6049d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1191,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

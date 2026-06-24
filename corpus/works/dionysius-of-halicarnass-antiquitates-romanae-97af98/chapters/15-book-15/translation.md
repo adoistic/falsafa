@@ -1,0 +1,118 @@
+---
+work_id: "97af98e4-9b43-55ab-9b59-6cd66775c491"
+work_slug: "dionysius-of-halicarnass-antiquitates-romanae-97af98"
+work_title: Antiquitates Romanae
+author_name: Dionysius of Halicarnassus
+chapter_number: 15
+chapter_title: Book 15
+chapter_slug: "15-book-15"
+variant_id: "7dfc6e65-a35a-598e-bd0c-6137d063e37a"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 3744
+translator: thothica
+---
+
+1.1. When the Celts had marched against Rome, and a certain king challenged any of the Romans, whoever was a man, to single combat, Marcus Valerius, one of the military tribunes, a descendant of that Valerius Publicola who had helped to free the city from the kings,
+
+1.2. went out to contend with the Celt. And as they came to grips, a raven, perching upon his helmet, screamed terribly, looking toward the barbarian, and, whenever he was about to deliver a blow, leaping upon him, now tore his cheeks with its talons, now struck his eyes with its beak, so that the Celt was beside himself, unable to reckon either how he should defend himself against the man, or how he should guard against the raven.
+
+1.3. And when the battle had gone on a long time, the Celt, bringing his sword down upon Valerius as though to plunge it through his defence into his ribs, then, the raven flying at him and digging at his eyes, lifted his shield to drive off the bird; but the Roman, while he was still raising the weapon aloft, following up, brought his sword up from below and slew the Celt.
+
+1.4. And the general Camillus adorned him with a golden crown, giving him the surname Corvinus from the creature that had fought beside him in the single combat; for the Romans call ravens corvi. And he himself continued from that time to be adorned with a raven as a device upon his helmet, and to all his statues those who modelled and painted him fitted this creature upon the head.
+
+2.1. They ravaged the holdings in the country, full of much prosperity. Men worn in body by war, and save only that they breathed, in all else like to corpses. The ashes of the slain man being still warm, as the saying is.
+
+2.2. He will perish in the most piteous manner at the hands of an enemy who feeds his envy with the blood of citizens. Granting to the soldiers no small portion of the spoils, so as to inundate with wealth the poverty of each. They destroyed their fields, now ripe for the gathering of the grain, and ravaged the best of the fruit-bearing land.
+
+3.1. When Quintus Servilius was consul for the third time, and Gaius Marcius Rutilus was consul, grievous and unexpected dangers gripped Rome, which, had not some divine providence dispersed them, one of two evils would have befallen her: either to incur the most shameful reputation of slaughtering guests, or to lay hands upon the blood of citizens. And from what cause she came into these dangers, taking up a little of what went before, I shall attempt to relate in few words.
+
+3.2. In the past year, the city of the Romans, having undertaken the Samnite war on behalf of all Campania and having conquered its opponents in three battles, wished to lead away all its forces, since no danger any longer remained to the cities; but when the Campanians begged them not to leave them bereft of allies, as the Samnites would attack them if they had no foreign aid, the consul who had freed the cities from the war, Marcus Valerius, resolved to leave behind in the cities whatever army they themselves should wish to maintain.
+
+3.3. Having become master of this authority, the consul stationed in the cities all who wished to draw rations and pay for the garrison-duty; among whom the greater part were homeless and debt-ridden men, gladly fleeing their poverty and obscurity at home.
+
+3.4. These the Campanians received into their houses and entertained with splendid tables and treated with all other kindnesses. For luxurious and quite delicate is the life of those who dwell in Campania, both now and then, and shall be for all time to come, the plain being rich in crops and rich in pasture and most excellent for the health of men who till it.
+
+3.5. At first, then, the garrison-troops gladly accepted the hospitality of the men; but afterward, their souls being corrupted by the surfeit of good things, they began little by little to take wicked reckonings, and, coming together with one another, said that they would do the deed of senseless men if, leaving behind so great a prosperity, they should return to life at Rome, where the land is wretched, the taxes many, there is no respite from wars and evils, and the rewards of the common toils are in the hands of a few.
+
+3.6. And those who were weak in their means and lacked the daily necessaries, and still more those who could not discharge their debts to their creditors, declaring that necessity was a sufficient counsellor of what was advantageous to them, apart from what was honourable, said that not even if all the laws and magistrates should threaten them with the extreme penalties would they still let go their present prosperity among the Campanians; and at last they came to such madness that they even dared to say:
+
+3.7. 'What dreadful thing, indeed, shall we do, if we cast out the Campanians and hold their cities? For these very men formerly did not acquire the land justly when they held it, but, having been received as guests by the Etruscans who inhabited it, and having destroyed all the men, took over their wives and their substance and their cities and the much-contested land; so that they will suffer with justice whatever they suffer, themselves having begun the lawlessness against others.'
+
+3.8. 'What, then, will hinder us from reaping these good things for all time? The Samnites, indeed, and the Sidicini and the Ausones and all the neighbours will be so far from marching against us in vengeance for the Campanians, that they will suppose it enough for themselves if we let each keep his own.'
+
+3.9. 'And the Romans perhaps will even accept what is done as an answer to their prayers, since they think it right that all Italy be held by their own colonies; but if, pretending indignation and judging us enemies, they will not inflict so many dreadful things as they shall suffer from us. For we shall ravage their land, as much as seems good to us, and shall loose the prisoners from the farms and free the slaves, and shall take our stand with their bitterest foes — the Volscians and Etruscans and Samnites and the Latins who still listen waveringly. And to men under compulsion, running the last race for their lives, nothing is impossible nor able to withstand them.'
+
+3.10. Discoursing such things to one another, few at first, then more, they resolved to attempt the cities, and gave one another pledge by oaths. But an information which some of the conspirators gave forestalled their attempt and brought it to light, made to the other of the consuls, Marcius, to whom the lot had assigned the war against the Samnites, who had already taken over the forces enrolled at Rome and was on the march. And the consul, hearing of an unexpected and dreadful matter, resolved not to reveal it nor to seem to know it, but by some deceit and generalship to prevent what was about to befall the cities.
+
+3.11. Having, then, sent ahead with the informers certain suborned men into the cities before he himself came, he contrived that it should be said to those in the winter quarters that he had resolved to leave behind in the cities the garrisons then existing, since the Campanians wished them to remain, but was preparing to make war against the Samnites with the force that had come with him from home; and he persuaded all to suppose this.
+
+3.12. Coming into Campania with his whole army, he went into each city, and, calling up those in the garrisons, distinguished from all of them those who had shared in the conspiracy. Then, conversing kindly with each, some he released from the standards, as though granting them the discharge from service as a favour; others he handed over to the legate and the military tribune as though for certain military services, and so dismissed them — and these were the most wicked and those who would not submit to being discharged from service — having enjoined those who led them to convey them to Rome and keep them in secret custody, separating them one from another, until he himself should arrive.
+
+3.13. But to the men, considering that all the ringleaders of the conspiracy were either being released from the standards or sent off apart from the others to some place or other, there came the reckoning that their conspiracy had become manifest, and after this a fear lest, if they should be separated from one another and lay down their arms, they should pay the penalty, being led off to Rome; and coming together in small numbers, they considered
+
+3.14. what they ought to do. Then, when some had introduced an opinion concerning revolt, having praised the resolve and made secret pledges among themselves, those who had been released from service encamped near the city of Tarracina, in suitable places along the very road.
+
+3.15. Then those who were being sent off with the legate and the tribunes, having abandoned their commanders — and there were some too of the soldiers escorting them whom they persuaded to revolt — settled about the same place. And when once these had seized the passes, many came to them day by day, and a strong body gathered about them; then the prisons of all who were in the country were broken open, and there flowed together . . .
+
+4.1. The consuls of the Romans, having passed fearlessly through all the intervening land — some men not opposing them, others escorting them on the way (for there are many difficult places along the road that leads from Rome into Campania, shut in by mountains and marshes and seas and navigable rivers, which it was not easy to pass when occupied beforehand by the enemy) —
+
+4.2. and having crossed by a wooden bridge, which they built in three days, a certain river that flows through the land and city of Casilinum, thirty stades distant from Capua, named the Volturnus, not less than four plethra in breadth, passed through, in order that courage might be engendered in the Campanians of their own party, as having chosen the best course, and fear in those of the contrary part.
+
+4.3. And advancing beyond the city, forty stades from Capua, they encamped, pitching their rampart on high ground, where, waiting, they looked for the provisions and the alliance from the Samnites. But these promised them more than enough, yet rendered nothing worthy of mention, and, pretending to be gathering an army from every city, wore away
+
+4.4. the time. Despairing, then, of the aid from that quarter, and seeing their own forces gaining no strength from delay, while the enemy's grew far more numerous, they resolved to proceed to action.
+
+4.5. But considering that much of the army was hard to manage and disobedient to the orders of its commanders, as it had shown both in many other trials and lastly in the Campanian winter-quartering — from which some of them came to such madness that they even attacked cities and abandoned the consul and took up arms against their country — they thought they ought first to render these men more sober, by making the fear from their commanders more dreadful to them than the danger from the enemy.
+
+4.6. Having so resolved, they gathered an assembly, and Manlius spoke . . . [seek in the section concerning stratagems and harangues; concerning the son of Manlius who fought in single combat].
+
+5.1. But also because they were doing many and great harms to their friends the Campanians. And the senate of the Romans, the Campanians often making representations and complaints against the Neapolitans, voted to send envoys to the Neapolitans who should require them to commit no lawless act against the subjects of the Roman dominion, but both to give and to receive justice, and, if they had disputes with one another, to settle them not by arms but by words, having made compacts with one another; and for the rest to keep peace toward all who dwelt about the Tyrrhenian sea, neither themselves doing deeds unbecoming to Greeks, nor co-operating with those who did them; and most of all, if they could, by attentions to the powerful, to bring it about that the city should revolt from the Samnites and become friendly to themselves.
+
+5.2. And it chanced that at the same time there had come to the Neapolitans envoys sent by the Tarentines — men eminent and public friends of the Neapolitans by descent — and others sent by the Nolans, who were neighbours and exceedingly fond of the Greeks, to require the contrary of the Neapolitans: neither to make compacts with the Romans or their subjects, nor to dissolve the friendship with the Samnites.
+
+5.3. And if the Romans should make this the pretext of the war, not to be afraid, nor to be dismayed at their strength as though it were something invincible, but to hold out nobly and to make war as became Greeks, trusting both to their own force and to the aid that would come from the Samnites, and taking on, besides their own, a naval strength which the Tarentines would send, if indeed they had need of this too, much and good.
+
+6.1. When the senate had been assembled and many speeches had been delivered in it, which both the embassies and those who supported them went through, the opinions of the councillors were divided, and the most reputable seemed to favour the cause of the Romans.
+
+6.2. On that day, then, no preliminary decree was brought forth; but the decision concerning the embassies having been put off again to another session, the most powerful of the Samnites, coming in numbers to Naples and having won over by certain attentions those who presided over the public affairs, persuaded the senate to leave the choice of the advantageous course to the people.
+
+6.3. And coming forward into the assembly, first they went through their own benefactions, then made many accusations against the city of the Romans, as faithless and treacherous, and, ending their speech, made wonderful promises to the Neapolitans: that if they should enter the war, they would send an army, as great as they needed, to guard their walls, and would furnish marines and the whole crew for their ships, not only proclaiming a levy among their own troops, but also supplying to those others all the expenses for the war;
+
+6.4. and that, having thrust off the Roman army, they would recover Cumae, which the Campanians, having driven out the Cumaeans two generations before, held, and would help to restore to their own homes the survivors of the Cumaeans, whom the Neapolitans had received when they were cast out of their fatherland and had made sharers in all their own goods; and that they would add to the Neapolitans territory, of which the Campanians held very much.
+
+6.5. Of the Neapolitans, that part which was reasonable and able to see far in advance the calamities that would seize the city from the war thought it right to keep peace; but the part that loved novelty and pursued the gains that come from disturbance took the side of war, and there arose mutual outcries and scufflings, and the quarrel advanced to the throwing of stones, and at last the worse prevailed over the better, so that the envoys of the Romans departed without success. For these causes the senate of the Romans determined to send an army against the Neapolitans.
+
+7.1. When the Romans learned that the Samnites were gathering an army, at first they sent envoys; and the envoys, chosen from the senators, coming before the chief magistrates of the Samnites, said:
+
+7.2. 'You do wrong, men of Samnium, in transgressing the compacts which you made with us, assuming the name of allies but doing the deeds of enemies — you who were defeated by the Romans in many battles, and dissolved the war with great entreaty and obtained peace such as you wished; and lastly were eager to become friends and allies of our city, and swore to have the same enemies and friends as the Romans.'
+
+7.3. 'Forgetting all this and counting your oaths as nothing, you abandoned us in the war that arose against the Latins and the Volscians — whom we have as enemies on your account, since we were unwilling to join with them in the war against you; and in the past year you with all zeal and eagerness urged on — or rather forced — the Neapolitans, who were afraid to declare the war against us, and you supply the expenses and hold the city through yourselves.'
+
+7.4. 'And now you are making preparations, gathering an army from every place, making another pretext, but in truth having resolved to lead it against our colonists; and to these unjust greeds you summon the Fundani and the Formiani and certain others, to whom we have granted equal citizenship.'
+
+7.5. 'When you thus openly and shamelessly confound the oaths of friendship and alliance, we resolved to send an embassy to you first, and not to begin deeds before we had made trial of words. And what we demand of you, and on obtaining which we think we shall satisfy our anger over the past, are these: first, we demand that you withdraw the alliance sent to the Neapolitans; next, that you send out no army against our colonists, nor summon your subjects to all manner of greed;'
+
+7.6. 'but if these things did not seem good to all of you, but certain men did them of their own judgment, that you deliver the men to us for trial. Obtaining these things, we are content; but not obtaining them, we call the gods and spirits to witness, by whom you swore in the treaties, and it is for this that we have come bringing the fetial peace-judges.'
+
+8.1. When the Roman had said such things, the chief magistrates of the Samnites, having deliberated among themselves, brought forth this answer:
+
+8.2. 'For the lateness of the alliance in the war against the Latins the commonwealth is not to blame — for we voted that the army be sent to you — but those who held its command, who spent more time in the preparation, and you yourselves, who hastened too quickly to the contest. At any rate, three or four days after the battle those sent by us arrived.'
+
+8.3. 'And concerning the city of the Neapolitans, in which are some of our own people, we are so far from wronging you, if we render any aid in common to those in danger for their preservation, that we ourselves seem to be greatly wronged by you. For this city, which was our friend and ally — not lately, nor since we made the compacts with you, but two generations before, on account of many and great benefactions — you, having suffered no wrong, enslaved.'
+
+8.4. 'Yet not even by this deed did the commonwealth of the Samnites wrong you; but there are certain private guest-friends, as we learn, and friends of the Neapolitans, who aid the city of their own choice, and some perhaps mercenaries through want of livelihood. But of your subjects we have no need; for even without the Fundani and Formiani we are able to help ourselves, if we are brought into the necessity of war.'
+
+8.5. 'And the preparation of our army is not as of men who will take away the property of your colonists, but as of men who will keep their own under guard. And we make a counter-demand of you, if you wish to do what is just: to withdraw from Fregellae, which, not long ago, when we had mastered it in war — which is the most just title of acquisition — you, by no just claim, having appropriated it, now hold for the second year. Obtaining these things, we shall consider ourselves in no way wronged.'
+
+9.1. After this the peace-judge of the Romans took up the word and said: 'There is nothing further to hinder, since you have thus openly destroyed the oaths concerning the peace . . . consider that you accuse the Roman people. For all things have been done by it according to the sacred and ancestral laws — both what is pious toward the gods and what is just toward men; and the judges of those who abide in their compacts shall be the gods to whom it has fallen by lot to watch over wars.'
+
+9.2. And being about to depart, he drew his mantle over his head and, raising his hands to heaven, as is the custom, made imprecations to the gods: that if the city of the Romans, suffering wrong from the Samnites and unable with reason and judgment to settle the disputes, was proceeding to action, the gods and spirits might bring good counsels to her mind, and grant that she succeed in encountering all the enemy; but if she herself, having transgressed in some way the oaths of friendship, was contriving false pretexts for the enmity, that neither her counsels nor her actions might be set right.
+
+10.1. When they had broken up from the meeting, and each side had made plain to its own city what had been said, both held opposite opinions of one another: the Samnites supposing that the affairs of the Romans would be the slower, as it is their custom to be whenever they are about to begin a war, but the Romans supposing that the Samnite army would come in a short time against their colonists at Fregellae. Then it befell each to suffer what was likely.
+
+10.2. For the Samnites, making preparations and delaying, lost the opportunities for action; but the Romans, having all their preparation ready, as soon as they learned the answers, voted the war and sent out both the consuls; and before the enemy perceived the expedition, both the newly enrolled force and the force wintering among the Volscians, which Cornelius commanded, were within the Samnite borders.

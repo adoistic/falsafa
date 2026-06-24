@@ -1,0 +1,38 @@
+{
+  "work_slug": "cassius-dio-historia-romana-9a0dce",
+  "work_title": "Historia Romana",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d9df1a67-b44d-5d8a-868b-643cf82f1375",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9991,
+      "paragraph_count": 230,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0385.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dceea346-24d5-505f-987f-457018002dcf",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12037,
+      "paragraph_count": 230,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

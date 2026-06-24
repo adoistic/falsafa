@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-caesares-5bd0ee",
+  "work_title": "Caesares",
+  "chapter_number": 1,
+  "chapter_title": "Caesares",
+  "chapter_slug": "01-caesares",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a9ac1890-5bc7-567c-9156-f45a0bb749e3",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 944,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "00837513-b738-5068-957d-3d654baef3ce",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1513,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

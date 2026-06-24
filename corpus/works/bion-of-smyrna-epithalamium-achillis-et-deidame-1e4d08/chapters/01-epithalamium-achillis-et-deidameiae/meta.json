@@ -1,0 +1,38 @@
+{
+  "work_slug": "bion-of-smyrna-epithalamium-achillis-et-deidame-1e4d08",
+  "work_title": "Epithalamium Achillis et Deidameiae",
+  "chapter_number": 1,
+  "chapter_title": "Epithalamium Achillis et Deidameiae",
+  "chapter_slug": "01-epithalamium-achillis-et-deidameiae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "171450d4-6ae0-547a-af19-9bb00b4482c7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 230,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0036.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1df064bc-9e8c-50be-b526-864691b06cff",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 339,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

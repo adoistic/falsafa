@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-technopaegnion-d2d748",
+  "work_title": "Technopaegnion",
+  "chapter_number": 1,
+  "chapter_title": "Technopaegnion",
+  "chapter_slug": "01-technopaegnion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5e4b2f3b-2d4a-5255-a75f-e3fb3b95d70f",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1558,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa028"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d50d4bf2-6582-5c2c-b61d-57f3563600f8",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2518,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

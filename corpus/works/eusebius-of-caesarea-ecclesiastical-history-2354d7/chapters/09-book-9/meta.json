@@ -1,0 +1,38 @@
+{
+  "work_slug": "eusebius-of-caesarea-ecclesiastical-history-2354d7",
+  "work_title": "Ecclesiastical History",
+  "chapter_number": 9,
+  "chapter_title": "Book 9",
+  "chapter_slug": "09-book-9",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1cc7c593-8041-51bb-a202-bd29e6192fb5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6113,
+      "paragraph_count": 102,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "93d03334-2ddd-5015-b3f8-a911a2e20897",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 7912,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

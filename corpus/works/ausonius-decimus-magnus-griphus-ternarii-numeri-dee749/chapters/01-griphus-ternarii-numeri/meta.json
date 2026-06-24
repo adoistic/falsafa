@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-griphus-ternarii-numeri-dee749",
+  "work_title": "Griphus Ternarii Numeri",
+  "chapter_number": 1,
+  "chapter_title": "Griphus Ternarii Numeri",
+  "chapter_slug": "01-griphus-ternarii-numeri",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a8c4ef9c-85b7-5c9c-a0d0-7edcb4ca7994",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1079,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08a29d49-bd32-5ed2-ab52-3a1a16f603ae",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1739,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

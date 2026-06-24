@@ -1,0 +1,38 @@
+{
+  "work_slug": "callimachus-hymn-to-athena-da4d12",
+  "work_title": "Hymn to Athena",
+  "chapter_number": 1,
+  "chapter_title": "Hymn to Athena",
+  "chapter_slug": "01-hymn-to-athena",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9ef67246-7ae5-59a9-9b3b-a229201bbc88",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 920,
+      "paragraph_count": 142,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0533.tlg019"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e3d3c24-608f-59dd-aeb8-59cdc481b706",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1283,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

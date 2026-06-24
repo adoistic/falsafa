@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-liber-protrepticus-ad-nepotem-9405a2",
+  "work_title": "Liber Protrepticus ad Nepotem",
+  "chapter_number": 1,
+  "chapter_title": "Liber Protrepticus ad Nepotem",
+  "chapter_slug": "01-liber-protrepticus-ad-nepotem",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c1eb6cd-bdb4-5a81-97a8-9e1657f4b1df",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 813,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa016"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bb471403-a017-5801-8d7d-3387a9162c69",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1350,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "cassius-dio-historia-romana-9a0dce",
+  "work_title": "Historia Romana",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05-book-5",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eb73743d-ccf6-5f1e-a2bf-e138ecda43dd",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10784,
+      "paragraph_count": 245,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0385.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "080992d1-7e4a-548a-ba93-b7380c3d20f1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 13301,
+      "paragraph_count": 245,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

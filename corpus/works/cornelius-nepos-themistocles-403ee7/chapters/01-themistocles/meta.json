@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-themistocles-403ee7",
+  "work_title": "Themistocles",
+  "chapter_number": 1,
+  "chapter_title": "Themistocles",
+  "chapter_slug": "01-themistocles",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dd2052ae-74a4-5412-b7f3-af5abf93f18a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1723,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e56df4e-b4aa-50ec-bc1d-021d25889ba5",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2669,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+---
+work_id: "9a0dcedc-b0a6-5daa-aef5-fd72231a522e"
+work_slug: "cassius-dio-historia-romana-9a0dce"
+work_title: Historia Romana
+author_name: Cassius Dio
+chapter_number: 7
+chapter_title: Book 7
+chapter_slug: "07-book-7"
+variant_id: "47ffddc4-354b-5152-824f-eff785328dd3"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 12577
+translator: thothica
+---
+
+arg. The following are contained in the forty-second book of Dio's Roman History: 1. How Pompey, defeated in Thessaly, fled to Egypt and died. 2. How Caesar, pursuing Pompey, came to Egypt. 3. How the affairs of Caesar and Pompey were reported at Rome, and what they voted to Caesar. 4. How those at Rome fell into sedition during Caesar's absence abroad. 5. How Caesar, making war on the Egyptians, subdued them and bestowed the kingdom upon Cleopatra. 6. How Caesar conquered Pharnaces. 7. How Caesar returned to Rome and ordered affairs there. 8. How Caesar made an expedition into Africa. Span of time: the remainder of the consulship of Gaius Julius Caesar (for the second time) and Publius Servilius Isauricus, and one other year, in which the magistrates here numbered were: Gaius Julius Caesar, son of Gaius, dictator for the second time; Marcus Antonius, son of Marcus, master of the horse; and as consuls, Quintus Fufius Calenus, son of Quintus, and Publius Vatinius, son of Publius.
+
+1.1. Such, then, was the battle; and from it Pompey at once despaired of all his fortunes, and no longer made any reckoning either of his own valour, or of the multitude of his remaining soldiers, or of the fact that fortune often in the briefest space restores those who have stumbled, although in the time before he had always, in all his reverses, kept the highest cheerfulness and the highest good hope.
+
+1.2. The cause was that in those former cases, being on the whole a match for his adversaries, he did not anticipate victory in his judgement, but, looking forward to the outcome of events on either side—while still confident and before coming to any consternation—he did not neglect to provide against the worse, and on this account he was neither compelled to give way to misfortunes and was easily able to renew the fight; but now, having hoped to surpass Caesar by far, he had made no provision beforehand.
+
+1.3. Accordingly he neither made his camp in a suitable place, nor prepared for himself any refuge in case of defeat; and though he might have worn down the situation and thereby prevailed without a battle (for an army was accruing to him each day, and he had provisions in abundance, being in the greatest part of the country friendly and master of the sea), nonetheless, whether of his own will, as though he would certainly conquer, or because
+
+1.4. forced by those about him, he joined battle. And on this account, as soon as he was defeated, he was terribly dismayed and had neither any timely counsel nor any sure hope for renewing the hazard. For whenever anything befalls a man unexpectedly and with great unreason, it both humbles his spirit and confounds his reasoning, so that he becomes the worst and weakest judge of what must be
+
+1.5. done; for reckonings will not consort with fears, but if they take possession of a man beforehand, they thrust the fears off most nobly, but if they come too late, they are overcome.
+
+2.1. For these reasons, then, Pompey too, since he had foreseen none of them, was found both naked and defenceless—though perhaps, had anything been provided beforehand, he might without difficulty have recovered everything quickly. For many of those who had fought had survived, and he had other forces not small; and what is greatest, he had acquired much money and was master of all the sea, and the cities, both his own and those in Asia, loved him even in his misfortune.
+
+2.2. But now, since in that on which he had most relied he had fared ill, he made use of none of these things either, by reason of the immediate onset of fear, but at once abandoned the rampart and fled with a few men toward
+
+2.3. Larissa. And he did not enter the city, although the Larissaeans invited him in, fearing that they might thereby incur some blame; but he bade them go over to the victor, while he himself, taking provisions and going down to the sea, sailed in a merchantman to Lesbos, to his wife Cornelia and his son
+
+2.4. Sextus. And taking them up, and not even entering Mitylene, he set off for Egypt, hoping to gain an alliance from Ptolemy, who was reigning there; for he was the son of the Ptolemy who through Gabinius had received back his kingdom from Pompey, and on this account had even sent him his fleet for aid.
+
+2.5. For I have heard that he had even resolved to flee to the Parthians, yet I cannot believe it. For they hated all the Romans, from the time when Crassus made his expedition against them, and Pompey most of all, as being indeed connected with him, so that they even bound his ambassador who came to ask for help,
+
+2.6. although he was a senator; and Pompey would never, in misfortune, have submitted to become a suppliant of his bitterest enemy, of whom he had failed even when prospering.
+
+3.1. But for Egypt, for the reasons I have said, he set out, and, being conveyed along the mainland as far as Cilicia, from there he crossed over to Pelusium, where Ptolemy was encamped, making war on his sister
+
+3.2. Cleopatra. And, holding back his ships, he sent certain men, both reminding him of the benefit done to his father, and asking on certain stated and sure conditions to be brought to land; for to disembark before receiving some
+
+3.3. security he did not venture. And Ptolemy himself made him no answer (for he was still quite a boy), but certain of the Egyptians, and Lucius Septimius, a Roman, who had once served with Pompey and had been with Gabinius, and by him had been left with soldiers with Ptolemy
+
+3.4. for his guard, came as friends, but plotted impiously, and from this brought a curse both upon themselves and upon all Egypt; for they themselves perished not long after, and the Egyptians, first being delivered over to serve Cleopatra—which they least of all wished—were then also enrolled among the subjects of the Romans.
+
+4.1. At that time, then, Septimius and Achillas the general, and others with them, said that they were ready to receive Pompey, that he might most easily be deceived and taken; and they sent forward those who had come from him, some bidding them take courage, and they themselves after this, embarking in a small boat, sailed out to him,
+
+4.2. and both showed him other kindness and asked him to transfer to themselves, saying that no ship by reason of its size could put in to the land on account of the shoals, and that Ptolemy was in great desire to see him the
+
+4.3. sooner. And he, though all his fellow-voyagers forbade him, thus trusting them . . . saying only this much: "Whoever fares as a guest to a tyrant is that man's slave, even though he came free."
+
+4.4. But they, when they came near the land, fearing lest, meeting with Ptolemy, he might be saved, whether by that very man or even by the Romans who were with him, or even by the Egyptians (for they bore him great goodwill), killed him before he had sailed in, while he said nothing and made no
+
+4.5. lament. For as soon as he perceived the plot, and knew that he could neither defend himself against them nor escape, he covered his head.
+
+5.1. Such was the end that befell that Pompey the Great, so that through it both the weakness and the strangeness of the human race
+
+5.2. were exposed. For, lacking in nothing of forethought, but having always been most secure against whatever was able to do him harm, he was deceived; and, having from youth won many surprising victories, many in Africa and many in Asia and in Europe, both by land and by sea, he was defeated against all reason at the age of fifty-eight,
+
+5.3. and, having tamed all the sea of the Romans, he perished upon that very sea; and, having once commanded a thousand ships, as the story goes, he was destroyed in a little boat, beside Egypt and through that very Ptolemy whose father he had once restored both to that land and to his kingdom;
+
+5.4. for the very man whom Roman soldiers, left behind by Gabinius for Pompey's sake, on account of the Egyptians' hatred toward his father, were even then still guarding—this man was thought to have killed him through those very same men, on both counts.
+
+5.5. Pompey, then, who had formerly been reckoned the mightiest of the Romans, so that he was even surnamed Agamemnon, was now slain like one of the very lowest of the Egyptians, beside Mount Casius, and on the day on which he had once celebrated his triumph over Mithridates and over the pirates,
+
+5.6. so that not even in this was anything consistent; for on that day, having before done the most splendid deeds, he then suffered the most painful, and, suspecting all the citizens named Cassius by reason of a certain oracle, he was plotted against by no man named Cassius, but beside the mountain bearing this appellation he both died and was buried.
+
+5.7. Of those sailing with him, some were captured at once, others fled, both others and his son and his wife. And she afterward, obtaining safe-conduct, was preserved even to Rome, while Sextus was conveyed into Africa to his brother Gnaeus; for they are distinguished by these names, since both bore the appellation of Pompey.
+
+6.1. Caesar, when after the battle he had then settled the pressing matters, ordered certain others both to win over and to set in order Greece and the rest of the parts there, while he himself pursued Pompey. And as far as Asia he hastened, advancing by inquiry after him; but there, since no one knew
+
+6.2. where he had sailed, he tarried. And so far did everything proceed for him by fortune, that, crossing the Hellespont in a certain ferry-boat, he fell in with Pompey's fleet sailing with Lucius Cassius, yet not only suffered no harm from them, but even, by striking them with fear besides,
+
+6.3. won them over. And from this he took over and ordered the other affairs there too, no one any longer resisting, making a levy of money, as I have said, but distressing no one in anything else, and even benefiting all as far as he could. The tax-farmers, at least, who were treating the people most bitterly, he removed, and converted what came in from the tolls into a payment of tribute.
+
+7.1. And meanwhile, learning that Pompey was sailing toward Egypt, and fearing lest, having seized it beforehand,
+
+7.2. he should again become strong, he set off in haste. And him he no longer found alive, but, sailing to Alexandria itself with a few men, far ahead of the rest, before Ptolemy had come from Pelusium, and finding the Alexandrians in tumult over Pompey's death, he did not venture to disembark at once on the land, but, anchoring offshore, held back until he saw his head and his ring, which had been sent
+
+7.3. to him by Ptolemy. Then indeed he put in confidently to the mainland; but when indignation arose from the multitude against his lictors, he himself was glad to take refuge beforehand in the palace, and some of his soldiers had their arms taken from them, and on this account the rest anchored offshore again, until all the ships had been brought to land.
+
+8.1. Caesar, then, on seeing Pompey's head, wept and bewailed it, calling him both a fellow-citizen and a son-in-law, and reckoning up all the services they had ever rendered one another. And to those who had killed him he said that he owed no benefit, but even reproached them, and ordered certain men to adorn and arrange and bury the head.
+
+8.2. And for this he won praise, but for the pretence he incurred ridicule; for, having terribly desired the supreme power from the beginning, and having always hated him both as an antagonist and as a rival, and having done everything else against him,
+
+8.3. and having prepared this war for no other end than that, with him destroyed, he might be first, and having then hastened into Egypt for no other reason than that he might, if Pompey survived, finish him off besides—now he feigned to long for him and pretended to be indignant at his destruction.
+
+9.1. And he, thinking that, with that man removed from his path, no enemy was any longer left, lingered in Egypt levying money and adjudicating the differences of Ptolemy and Cleopatra; but in the meantime other wars were being prepared for him.
+
+9.2. For Egypt revolted, and Pharnaces began at once, as soon as he learned that Pompey and Caesar had gone to war, to lay claim to his ancestral dominion (for he hoped that they would linger in their strife and would spend the Roman forces upon themselves),
+
+9.3. and he held to his purpose even then, both because he had once been set in motion and because he learned that Caesar was far off, and he seized many places beforehand. And meanwhile Cato and Scipio, and the others who held the same view as they, raised up a war in Africa, both civil and foreign.
+
+10.1. For it came about thus. Cato had been left at Dyrrachium by Pompey both to watch the things from Italy, in case anyone should cross, and to keep down the Parthini, in case they should stir at all; and at
+
+10.2. first he made war on these, but when Pompey was defeated he abandoned Epirus, and, being conveyed to Corcyra with those of his own mind, there received both those who had escaped from the battle and the others who held the same views. For Cicero and certain other senators
+
+10.3. at once departed for Rome; but the greater part, together with Labienus and Afranius, since they had no hope in Caesar—the one because he had deserted, the other because, having been saved by him, he had again made war on him—came to Cato and, setting him at their head, made war.
+
+11.1. And after this Octavius also joined them. For when at that time he sailed into the Ionian Sea and captured Gaius Antonius, he mastered certain other places, but Salona, although he besieged it a very long time, he did not
+
+11.2. take. For in other respects too they vigorously repelled him, having Gabinius to aid them, and at last, sallying out together with their women, they wrought a great deed; for the women, letting down their hair and putting on black garments and taking torches, and on the whole arraying themselves in the most
+
+11.3. terrifying guise, joined the camp that was besieging them at midnight, and, striking the outposts with terror as though they were certain divine beings, threw fire into the rampart from all sides at once, and the men, following close upon them, slew many in confusion and many asleep, and straightway held that, and took the naval station in which Octavius
+
+11.4. lay encamped at the first shout. Yet they were not in any ease; for, escaping them somehow, he again gathered a force, and, conquering in battle, besieged them. And meanwhile, Gabinius having died of disease, he mastered all the sea there,
+
+11.5. and, disembarking on the land, he did it much harm, until both the battle at Pharsalus occurred, and his soldiers, when some had sailed against them from Brundisium, went over to them without even coming to blows. For then, stripped of his allies, he withdrew to Corcyra.
+
+12.1. And Gnaeus Pompey too, formerly sailing about with the Egyptian fleet, overran the so-called Epirus and almost took Oricum, which Marcus Acilius held—Acilius having both choked the entrance to the harbour with boats laden with stones, and raised towers about its mouth on both sides, both on the
+
+12.2. mainland and upon merchant ships. For, scattering the stones lying in the vessels by means of underwater divers, and dragging off those very ships, now lightened, he freed the entrance, and after this, landing heavy-armed men on both sides of the mole, he sailed in, and burned both all the boats and the greater part of the
+
+12.3. city. And he would have taken the rest too, had he not, being wounded, caused the Egyptians to fear that he might even die. Being healed, then, he assailed Oricum no more, but went about ravaging the rest, and once made an attempt, in vain,
+
+12.4. as did certain others too, upon Brundisium itself. For a while, then, he did these things; but when his father was defeated and the Egyptians, learning this, sailed off home, then at last he came to Cato.
+
+13.1. And Gaius Cassius imitated him, doing very much harm both to Sicily and to Italy, and conquering many men in many battles both on the sea and on the mainland.
+
+13.2. Seeing, then, that Cato surpassed them in virtue, many took refuge together with him, and he, using them as fellow-combatants and counsellors in everything, sailed to the Peloponnese, intending to seize it; for he had not yet
+
+13.3. heard that Pompey was dead. And they held Patrae, and there took up many others and Petreius and Faustus, Pompey's son-in-law; but when Quintus Fufius Calenus afterward made an expedition against them, they put out to sea, and, coming to Cyrene and there learning of Pompey's death, they no longer agreed,
+
+13.4. but Cato, through hatred of Caesar's dominion, and certain others, through despair of pardon from him, sailed into Africa with the army, and, taking up Scipio, did everything against
+
+13.5. Caesar; but the greater part scattered, and of them the rest withdrew and got off as it chanced for each, while some, going at once to Caesar—both others and Gaius Cassius—obtained safe-conduct.
+
+14.1. Now Calenus had been sent into Greece before the battle by Caesar, and took, among other places, the Piraeus, since it was unwalled. For Athens, although he had done very much harm to their country, he could not take before Pompey's
+
+14.2. defeat; for then they came over to him of their own accord, and Caesar, bearing them no grudge, let them go unharmed, saying only this much, that, though they were committing many faults, they were saved by their dead. And this saying meant that he spared them for the sake of their ancestors and for their reputation
+
+14.3. and their virtue. Athens, then, and most of the rest of Greece at once came to terms with him, but the Megarians even so held out; and a long time afterward they were taken, partly by force, partly by betrayal. Whence there was much slaughter of them,
+
+14.4. and the rest were sold. Calenus, however, did this in order that he might be thought to have punished them according to their deserts; but, fearing that the city might be utterly destroyed, he sold them, first to their friends, then for the lowest price, that they might be set free.
+
+14.5. And he, having done these things, made an expedition against Patrae, and held it without a battle, having first frightened off Cato and those with him.
+
+15.1. While these things were severally being done, Spain too, although it had been at peace, was stirred. For since Quintus Longinus was at that time also doing them much harm, at first a few men banded together
+
+15.2. to kill him; but when, being wounded, he escaped, and from this wronged them much more, many of the people of Corduba and many soldiers, as having belonged to Pompey,
+
+15.3. rose up against him, setting Marcus Marcellus Aeserninus the quaestor at their head. Yet he did not receive them with his whole mind, but, seeing the instability of affairs and looking for their outcome on either side, he played a double part, and both said and did everything midway, so that, whether Caesar or Pompey should prevail, he might be thought to have contended on the side of both.
+
+15.4. For he did Pompey a favour, because he received those who came over to him and made war against Longinus, who said he was acting for Caesar; and he did Caesar a favour, because, taking over the soldiers on the ground that Longinus was making some revolution, he both kept them for him and did not let the man be made into an enemy.
+
+15.5. And he erased the name of Pompey, which the soldiers had inscribed on their shields, in order that even from such a thing he might be safe—offering to the one the deeds of arms, to the other the appearance, and claiming for himself the things done on behalf of the victor, but referring the opposite both to necessity and to certain others.
+
+16.1. And on this account, although it was in his power utterly to master Longinus by his numbers, he was unwilling, but, advancing affairs toward both a demonstration and a preparation of what he wished, he made the doubtful points of them depend on certain others, so that both in those things in which he was worsted and in those in which he gained some advantage, concerning the same matter alike, he was able to put forward some things as though he himself both did and did not do them,
+
+16.2. and others as though others did them. And he, having so passed the time until Caesar conquered, at once incurred his anger and was banished, but afterward returned and was honoured; while Longinus, the Spaniards crying out against him through an embassy, both fell from his office and, on his way home, perished at the mouths of the Ebro.
+
+17.1. These things were happening abroad; but those at Rome, for as long as the affairs of Caesar and of Pompey were both doubtful and in suspense, all openly espoused Caesar's cause, both because of his power that was with them and because of Servilius his colleague,
+
+17.2. and if anywhere he was reported victorious, they rejoiced, and if he had stumbled, they grieved—some truly, some feignedly, each according to the case; for many spies and eavesdroppers of theirs went about, watching all that was both said and done concerning them;
+
+17.3. but privately those who were vexed at Caesar and preferred Pompey's cause both said and did the very opposite of what was open, and from this both sides, taking the tidings according to what suited them, used them, the one fearfully, the other
+
+17.4. confidently; and, as many and various reports were often made up on the same day and at the same hour, they were most grievously disposed; for they rejoiced and grieved and took courage
+
+18.1. and feared within the briefest space. When the battle of Pharsalus was reported, for a long while they disbelieved it; for Caesar sent the commonwealth no report, shrinking from appearing publicly to rejoice over such a victory (wherefore he did not even send a triumph for it), and the unreason of it appeared great both as regards their
+
+18.2. preparation and as regards what was hoped for. When at last, then, they believed it, they took down the images of Pompey and of Sulla which stood upon the rostra, but did nothing else at that time; for many were unwilling to do even this, and many, fearing Pompey, lest he should somehow renew the fight, thought even that
+
+18.3. sufficient for Caesar, and expected that Pompey would on this account be readily appeased toward them. When, however, he was dead, even this they believed late, and not before they saw his ring, which had been sent, on which were engraved three trophies,
+
+19.1. as also on Sulla's. When, then, he had died, they now openly praised the one and reviled the other, and proposed that everything they could possibly devise be given to Caesar. And in this there was great rivalry among, so to say, all the foremost men, who were eager to outdo one another in flattery, and in the voting
+
+19.2. of them; for both by their acclamations and by their gestures all, as though Caesar were present and looking on, displayed the greatest zeal, and thought that in return for them—as though they were doing him some favour and not acting from necessity—one would receive an office, another a priesthood, another even
+
+19.3. money. I, then, shall pass over the other things—all that had either been voted to certain others before, such as images and crowns and seats of honour and the like, or were new and then first introduced, yet not confirmed by Caesar—lest I become tiresome
+
+19.4. if I should go through them all; and this same thing I shall do also in what follows, and the more so the more numerous and more strange the things that were ever being introduced; but I shall recount only those which, having something peculiar and exceptional, were ratified.
+
+20.1. For they permitted him to do whatever he might wish to those who had favoured Pompey's cause—not that he had not already taken this power of himself, but in order that he might seem to do it under some law; and they appointed him lord of war and peace, on the pretext of those who were combining in Africa, toward all men, even if he should communicate nothing about them either to the people or to
+
+20.2. the senate. And this indeed had in a way belonged to him even before, seeing that he had so great a power; the wars, at any rate, which he had waged he had undertaken almost all on his own authority; nonetheless they voted him these things thus (for they wished still to seem citizens and free), and all the other things which he was able to have even against their will.
+
+20.3. For he received the right to be consul for five years in succession, and to be named dictator not for six months but for a whole year, and he assumed the power of the tribunes, so to say, for life; for he obtained the right to sit on the same benches with them and to be reckoned with them in other matters,
+
+20.4. which was permitted to no one. And all the elections, save those of the plebs, came to depend on him, and on this account, being postponed to his arrival, they were carried out at the close of the year. And the governorships among the subject peoples they themselves indeed allotted to the consuls, but to the praetors they voted that Caesar should give them without lot; for, in the case both of consuls and of praetors, they reverted again to the things contrary to what they had decreed
+
+20.5. for themselves. And another thing too, customary indeed to be done, but in the corruption of the time both invidious and deserving of resentment, they decreed; for of the war against Juba and against the Romans who had fought with him—a war which Caesar did not yet then even know would occur—they ordered that someone send him a triumph as though he had already prevailed.
+
+21.1. These things, then, were thus both voted and ratified; and Caesar at once undertook the dictatorship, although he was outside Italy, and, choosing as master of the horse Antonius, who had not even been praetor, the consul named him too, although the augurs most vehemently objected that it was permitted to no one to be master of the horse for a longer time than six months.
+
+21.2. But they incurred much ridicule for this, in that, having decreed that the dictator himself be named for a year contrary to all ancestral usage, they yet were precise
+
+22.1. about the master of the horse; while Marcus Caelius even perished, having dared to annul the regulations Caesar had laid down concerning loans, as though he had been defeated and destroyed, and on this account throwing both Rome and
+
+22.2. Campania into disorder. For this man had acted among the foremost on Caesar's side, wherefore he had even been appointed praetor; but, angered both because he had not been made city praetor and because Trebonius his colleague had been preferred to the city praetorship not by lot, as was customary, but by Caesar's choice,
+
+22.3. he opposed his colleague in everything, and neither permitted him to perform any other of the duties falling to him, nor allowed the suits to be conducted according to Caesar's laws, and moreover proclaimed that he would aid debtors against their creditors and would remit the rent for those dwelling in others' houses.
+
+22.4. And, having thereby attached to himself many men, he attacked Trebonius with them, and would have killed him had he not changed his garb and escaped them in the crowd. Having failed of this, he set forth a law on his own, granting all to dwell rent-free and cancelling debts.
+
+23.1. Servilius, then, summoned certain soldiers who chanced to be passing through to Gaul, and, gathering the senate under their guard, he brought forward a motion concerning the present matters, and, nothing being ratified (for the tribunes prevented it), but the resolution being put in writing, he ordered
+
+23.2. the attendants to take down the tablets. And when Caelius drove them off and threw the consul himself into tumult, they assembled again, fencing themselves with the soldiers, and entrusted the guarding of the city to Servilius, as I have often said above
+
+23.3. concerning it. And he allowed Caelius to do nothing thenceforth as praetor, but assigned the duties belonging to his office to some other of the praetors, and shut that man himself out of the senate, and dragged him down from the rostra when he was crying out something, and broke up his
+
+24.1. chair; and he conceived much anger at each of them, but, fearing lest he be punished (for he had a force fit to fight in the city), resolved to set off into Campania to Milo, who was making some
+
+24.2. revolution. For that man, since alone of the exiles he had not been restored by Caesar, came into Italy, and, gathering many men—some in want of livelihood, some fearing some punishment—both did harm to the country and assaulted the cities, both the others and Capua
+
+24.3. in particular. To him, then, Caelius wished to set off, that with him he might harm Caesar in whatever way he could; then, since he could neither depart openly (for he was watched), nor again dared to run away, both for other reasons and because, being much more in his garb and in the title of the praetorship, he hoped to accomplish more, he went to the consul and besought him, saying that he wished to go to Caesar.
+
+24.4. Suspecting, then, his intention, the consul permitted him to do this—both for other reasons and because he pressed hard, invoking Caesar's name and pretending to hasten to his defence—but sent with him a certain tribune, that, if he should dare to make any revolution,
+
+25.1. he might be hindered. And when they came into Campania, and Milo, having stumbled near Capua, had fled to the Tifatine mountains, and Caelius advanced no further, the tribune, taking fright, wished to lead him back
+
+25.2. home. Learning this beforehand, then, Servilius proclaimed war upon Milo in the senate, and bade Caelius remain in the suburb, lest he stir up anything, yet did not put him under strict guard, as he was a praetor. He therefore ran away and
+
+25.3. hastened to Milo. And he would have done something disturbing, had he found him alive. But as it was, since Milo had been driven out of Campania and destroyed in Apulia, he went into Bruttium, intending to combine some force there, and there, before doing anything worth mention, he perished; for those who were acting on Caesar's side banded together and killed him.
+
+26.1. And these men died thus, yet there was no quiet at Rome thereby, but many dreadful things came to pass, as indeed the portents foreshowed. For in that year, as it drew to a close, certain other things happened, and bees settled on the Capitol beside the statue of Heracles.
+
+26.2. And—for it chanced that rites to Isis were then being performed there—it seemed good, by the judgement of the seers, to demolish again all the precincts both of her and of Sarapis; and when this was done, a temple of Bellona, which had escaped their notice, was pulled down besides, and in it earthen jars full of human flesh
+
+26.3. were found. And in the following year a violent earthquake occurred and an owl was seen, and thunderbolts fell upon the Capitol and upon the temple of the so-called Public Fortune and upon Caesar's gardens, and there a horse, of those not neglected,
+
+26.4. was killed by them, and the temple of Fortune opened of itself. Besides these things, blood poured out from a baker's shop and reached another temple of Fortune, whom, because one ought to look upon and reckon up all the things both before one's eyes and behind, and not to forget from what beginnings one became what he is, they had both founded and named in a fashion not easy to render to Greeks;
+
+26.5. and certain infants were born with their left hands upon their heads, so that from the other portents nothing healthy was suspected, and from these especially the seers foretold, and the people expected, the rising of the lower against those who had been preferred.
+
+27.1. These things, then, thus foreshown by the divine power, troubled them; and there joined in their fear the very appearance of the city, which was both dreadful and unwonted, both at the new moon and afterward for a long time
+
+27.2. thereafter. For there was as yet no consul nor any praetor, but Antonius, by reason of his dress (for he wore the purple-bordered toga) and his lictors (for he had only the six) and his assembling of the senate, presented a certain image of the republic, while by the sword he wore girt and by the multitude of soldiers about him and by the very deeds, in the highest degree,
+
+27.3. he displayed the monarchy; for there occurred plunderings and outrages and many slaughters. And not only was the present most grievous to the Romans, but, since concerning Caesar far more and more dreadful things were suspected; for where the master of the horse did not lay aside his sword even at the festivals (for the greater number of these he celebrated with Caesar's appointments;
+
+27.4. a few the tribunes also held), who would not have suspected the dictator himself? For even if one took into account his clemency, by which he had spared many even of those who had made war on him, yet, seeing in like cases both those who aimed at power and those who had achieved it remaining the same, they expected that he too would be
+
+28.1. altered. They grieved, then, and conversed much with one another, those at least who had any safety. For they could not consort freely with all; for even those thought to be very friendly to certain men, and others their kinsmen, slandered them, partly twisting things, partly even
+
+28.2. lying outright. Whence the rest were ill off not least in this, that, having no one with whom to lament or to share their thoughts, they could never be rid of their distress. For the company of those who suffered alike brought them some
+
+28.3. relief, and one who had safely uttered something and heard in return what manner of things others suffered became the easier; but distrust toward those not of like character both shut up the grief in their souls and inflamed it the more, since it received neither escape nor any
+
+28.4. respite. For, besides keeping their sufferings shut up within and watching them, they were compelled to praise and admire them, and to keep festival and sacrifice oxen and be cheerful over them.
+
+29.1. Thus, then, were the Romans in the city then disposed; and, as though it were not enough for them to be ill-treated by Antonius, a certain Lucius Trebellius and Publius Cornelius Dolabella, tribunes, fell into sedition. For the latter took the side of the debtors, of whom he too was one, wherefore he had also passed over from the patricians to the plebs for the sake of the
+
+29.2. tribunate; while the former said that he was championing the better men, but, in a manner like his rival's, both set forth measures and resorted to slaughters. Much tumult, then, arose from these men too, and many arms were seen everywhere, although the senators forbade that anything be innovated before Caesar's arrival, and Antonius forbade any private person to bear arms in the city.
+
+29.3. And, since they did not obey, but did everything in every way both against one another and against those men, a third sedition arose, of Antonius and the senate; for, in order that he might be thought to have received from it too the arms and the authority derived from them, which he was already using, he received the right to maintain soldiers within the walls and to keep the city under guard together with the other
+
+29.4. tribunes. And from this Antonius, under cover of a kind of law, did all he desired, while Dolabella and Trebellius bore the name of violent action, but contended, by reason both of their boldness and of their preparation, both with one another and with him, as though they too had received some command from the senate.
+
+30.1. And meanwhile Antonius, learning that the legions which Caesar after the battle had sent ahead into Italy, as though he would follow them, were doing nothing wholesome, and fearing lest they make some revolution, entrusted the city to Lucius Caesar, appointing him city prefect—which had never before been done by a master of the horse—and himself set off to the
+
+30.2. soldiers. The tribunes, then, who were in sedition against them, both despised Lucius for his old age, and wrought many dreadful things, both upon themselves and upon the rest, until they learned that Caesar had ordered the affairs in Egypt and had set out
+
+30.3. for Rome. For, on the ground that he would no longer return but would perish there somewhere at the hands of the Egyptians, as they heard, they were at strife. And then for a while they were moderate, but when he made his expedition first against Pharnaces, they fell into sedition again.
+
+31.1. Antonius, then, being unable to restrain them, and giving offence to the multitude through his opposition to Dolabella, at first sided with him, and charged Trebellius, among other things, with appropriating the soldiers to himself;
+
+31.2. then, perceiving that the crowd valued him not at all but was attached to Dolabella alone, he was vexed and changed his course, both for other reasons and because he had no share in the favour from the multitude, but took the largest part of the blame from the
+
+31.3. senators. And in word he stood midway between the two, but in deed he secretly took Trebellius's side, and both contended for him in other ways and permitted him to take soldiers. And he thus became a spectator and umpire of them, while they fought, and seized the most strategic points of the city against one another, and made slaughters and burnings, so that the sacred things were once even carried out of the temple of Vesta by the
+
+32.1. Vestal virgins. Again, then, the senators voted the master of the horse a stricter guarding of the city, and the whole city, so to say, was filled with
+
+32.2. soldiers. Yet there was no cessation. For Dolabella, despairing of obtaining any pardon from Caesar, desired, having done some great evil, to perish, so as to gain a name from it forever; for already some become lovers even of the worst deeds for the sake of fame. By this man, then, both other things were thrown into disorder, and he promised to bring forward the laws, both that concerning debts and that concerning rents, on a certain stated day.
+
+32.3. When, then, this had been proclaimed beforehand, and the crowd, having blocked off the parts about the Forum and set up wooden towers here and there, was ready to attack anyone who should oppose them, then Antonius, at daybreak, leading down many soldiers from the Capitol, cut up the tablets of the laws, and after this even hurled some of the disorderly persons down from the very Capitol.
+
+33.1. Yet they did not cease their sedition on this account, but the more of them perished, the more the survivors made an uproar, thinking that Caesar was entangled in a very great and most difficult war. Nor did they hold back until that very man
+
+33.2. appeared suddenly before them. So even against their will they were quiet. And they expected to suffer everything that could possibly befall, and there was talk about them throughout all the city alike, some thinking the one thing right, some the other; but Caesar, then too, used his accustomed manner. For he was content with their present settlement, and was not curious about anything that had gone before, but spared them all and even honoured some of them, among others
+
+33.3. Dolabella. For, owing him some benefit, he did not see fit to forget it; for not because he had been wronged did he on that account think little of it, but, from the good he had received, he both pardoned him for this, and brought him into honour in other ways, and not long after appointed him consul, though he had not even been praetor.
+
+34.1. These things happened at Rome during Caesar's absence; but he came to it late, and not immediately upon Pompey's death, for the following reasons. The Egyptians, burdened by the levyings of money, and bearing it grievously that
+
+34.2. not even the sacred things were spared (for they are religious beyond all men in many matters, and wage wars on their account even with one another, since they honour certain things not in common but in the most opposite ways even among themselves)—being indignant at these things, then, and moreover fearing lest they be delivered over to Cleopatra, who had great power with Caesar,
+
+34.3. they were thrown into disorder. For she, for a while, was pleading her case before him through others, on account of her brother, but then, as soon as she had learned his nature (for he was most amorous, and consorted with very many other women, with whomever he chanced to meet), she sent to him saying that she was being betrayed by her friends, and asking to plead her case herself in
+
+34.4. person. For she was otherwise the most beautiful of women, and at that time was greatly in the bloom of her prime, and she had a most charming voice,
+
+34.5. and knew how to converse gracefully with everyone, so that, being brilliant both to see and to hear, and from this able to bring under her power anyone, even the hardest to love and beyond his prime, she thought she would meet with Caesar to her purpose, and
+
+34.6. placed all her claims in her beauty. She asked, then, to come into his sight, and, obtaining it, adorned and arrayed herself so as to appear to him most august and most pitiable. And she, having contrived these things, came into the city (for she too was outside it) and into the palace
+
+35.1. secretly, by night, without Ptolemy's knowledge; and Caesar, on seeing her and hearing her utter something, was so straightway enslaved that at once, toward dawn, he sent for Ptolemy and attempted to reconcile them; for, whereas he had before been judged fit to be her judge, he now pleaded her cause.
+
+35.2. The boy, then, both on this account and because he suddenly saw his sister within, was filled with anger, and, leaping out among the multitude, cried out, saying that he was being betrayed, and at last, tearing the diadem from his head, threw it down. A great tumult arising over this, the Caesarian soldiers seized him, but the Egyptian populace
+
+35.3. was thrown into confusion; and they would have taken the palace at the first shout, assaulting it both from the land and from the sea at once (for there was no force fit to fight at the Romans' side, since they were thought to be friends), had not Caesar, taking fright, gone out among them, and, standing in safety, promised to do for them everything they might
+
+35.4. wish. And after this, going into an assembly, he set Ptolemy and Cleopatra beside him and read the will of their father, in which it was written that they should both live together according to the ancestral usage of the Egyptians and reign jointly, and that the people of the Romans should have the guardianship of them.
+
+35.5. Having done this, and having added that it befitted him, being dictator and holding all the power of the people, both to take charge of the children and to carry out what their father had resolved, he gave the kingdom to both of them, and to Arsinoe and the younger Ptolemy, their brother and sister, he granted Cyprus.
+
+35.6. For so great fear possessed him that he not only took nothing of Egypt for himself, but even gave them in addition something of his own people's.
+
+36.1. At that time, then, they ceased; but again, not long after, they were stirred so as even to make war. For Pothinus, who had been appointed to the management of Ptolemy's finances (he was a eunuch and had thrown the Egyptians into the greatest
+
+36.2. confusion), fearing lest he should at some time pay the penalty for this, sent secretly to Achillas, who was still even then about Pelusium, and, frightening and at the same time encouraging him, made him his comrade, and after this won over also the others who
+
+36.3. bore arms. For it seemed to all alike a dreadful thing to be ruled by a woman, through suspicion that Caesar had then, for the sake of their settlement, given the kingdom to both of them ostensibly, but, as time went on,
+
+36.4. would assign it to Cleopatra alone; and they thought themselves a match for the army he then had present. And they at once set off and marched against Alexandria;
+
+37.1. but Caesar, learning this, and fearing both their numbers and their daring, sent certain men to Achillas, not in his own name but in that of Ptolemy, bidding him keep quiet. And he, understanding that the command was not the boy's but his, not only did not
+
+37.2. obey him, but, despising him further as one in fear, gathered the soldiers, and, saying much on Ptolemy's behalf and much against Caesar and Cleopatra, at last incited them even against those who had been sent, though they were Egyptians, in order that they might be defiled with their slaughter and brought into the necessity
+
+37.3. of a war that admitted no truce. Learning this, then, Caesar sent for the soldiers from Syria, and entrenched the palace and the other buildings near them
+
+38.1. and walled them off as far as the sea. And meanwhile Achillas, coming up with the Romans and the others left behind by Gabinius with Septimius for Ptolemy's guard (for from their stay there they had changed their ways to those of the country), at once won over the greater part of the Alexandrians and secured the most
+
+38.2. strategic points. And from this many battles occurred among them both by day and by night, and many things were burned, so that, among other things, the dockyard and the storehouses both of grain and of books—the most numerous and best, as they say—were burned. And Achillas was master of the mainland, except what Caesar had walled off, while Caesar was master of the sea, except for the
+
+38.3. harbour. For he conquered in a sea-battle, and when, fearing on this account lest he should sail into their harbour, the Egyptians choked its mouth except for a little, he blocked that part too, sinking ships full of stones, so that they, even if they greatly wished
+
+38.4. to sail out, could not depart anywhere. Having done this, he the more easily brought in provisions, both other things and water; for Achillas had taken from them the water-supply there, cutting through the conduits.
+
+39.1. While these things were thus being done, a certain eunuch Ganymedes secretly led off Arsinoe, who was not very strictly guarded, to the Egyptians; and they, proclaiming her queen, took up the war more eagerly, as having someone of the line of the Ptolemies for their
+
+39.2. champion. Caesar, then, fearing lest Pothinus too should steal away Ptolemy, killed the former, and the latter he no longer concealed but guarded strictly. And, the Egyptians being further provoked at these things, and more men ever accruing to them, while for the Romans the soldiers from Syria were not yet present, he wished to bring them over into friendship,
+
+39.3. and, setting Ptolemy somewhere where he would be heard, he bade him say to them that he suffered no harm and had no need of war; and he urged them toward a truce, and promised besides to bring it
+
+39.4. about. And if indeed he had spoken thus willingly, he would have persuaded them to lay down their arms; but as it was, suspecting that these things had been arranged by Caesar, they did not yield.
+
+40.1. As time went on, sedition fell upon those about Arsinoe, and Ganymedes persuaded her to kill Achillas as one about to betray the fleet. When this was done, he took over the command of the soldiers, and gathered all the boats that were in the river and in the lake,
+
+40.2. built others besides, and, conveying them all to the sea through the canals, attacked the Romans, who were not expecting it, and burned some of their merchantmen and took others in tow, and after this cleared out the entrance of the harbour, and there,
+
+40.3. lying in wait, did them much harm. Watching them, then, when at some time they were keeping careless guard through their being masters, Caesar sailed suddenly into the harbour, and, having burned many boats, disembarked onto Pharos and slew its inhabitants. Seeing this, the Egyptians on the mainland came to their aid along the bridges, and, killing many of the Romans in return, drove the rest
+
+40.4. into the ships. And, as they were everywhere forcing their way into them in a mass, many fell into the sea, and Caesar among them. And he would have been miserably destroyed, both weighed down by his clothing and shot at by the Egyptians (for they aimed at it, since it was purple), had he not both flung that off and, swimming somehow
+
+40.5. thereafter, got aboard a small boat. And thus he was saved, wetting none of the documents which, holding up many in his left hand, he swam with; but the Egyptians, taking his garment, hung it up upon the trophy which they set up for this rout, as though they had captured the very man himself. And, since the armies he had summoned from Syria were now near, they watched the landings
+
+40.6. and did them much harm. For those of them falling in toward Libya Caesar in a manner defended; but many about the mouths of the Nile they deceived and seized with beacon-fires, as though they were Romans, so that the rest no longer dared to be conveyed past, until Tiberius Claudius Nero, sailing up into the very river then, both conquered them in battle and made the approach safer for his own men.
+
+41.1. And meanwhile Mithridates, surnamed the Pergamene, attempted to go up with his ships into the mouth of the Nile by Pelusium; but, the Egyptians having blocked the entrance with boats, he was conveyed by night to the canal,
+
+41.2. and, carrying ships across into it (for it does not issue into the sea), he thus sailed up by it into the Nile, and after this, joining suddenly, both from the sea and from the river at once, those who guarded its mouth, he both broke
+
+41.3. their blockade, and, assaulting Pelusium with both his infantry and his fleet at once, took it. And advancing toward Alexandria, and learning that a certain Dioscorides would come to meet them, he ambushed him and made away with him.
+
+42.1. The Egyptians, perceiving this, did not even so put an end to the war; but, vexed at the rule of the eunuch and the woman, and thinking that, if they should set Ptolemy at their head,
+
+42.2. they would be superior to the Romans—then, since they could in no way snatch him away (for he was strictly guarded), they pretended to be worn out by their misfortunes and to desire peace, and sent to Caesar treating with him and asking for Ptolemy, that, together with him, they might deliberate about the terms on which the truce should be
+
+42.3. made. Caesar, then, thought that they had truly changed (for he both heard that they were otherwise cowardly and fickle, and perceived that they were then dismayed at their reverses), but, even if they were contriving something, yet, lest on this account he be thought to be hindering the peace, he said he approved of their plan and sent Ptolemy.
+
+42.4. For he saw nothing strong in him, both from his youth and from his lack of training, and he hoped that the Egyptians either would be reconciled to him on the terms he wished, or, more justly, would be both conquered in war and subdued, so that on some reasonable pretext they might be delivered over to Cleopatra;
+
+42.5. for he did not expect ever to be defeated by them, especially since his force had been augmented.
+
+43.1. But the Egyptians, taking over the boy, gave no thought to the truce, but at once set out against Mithridates, as though they would accomplish something great both in the name and in the lineage of Ptolemy; and, cutting him off beside the lake, in the midst between the river and the
+
+43.2. marshes, they harassed him. Caesar, then, did not pursue them, fearing lest he be ambushed; but, putting out by night as though hastening toward some mouth of the Nile, and lighting very many lights on each ship, that he might be thought to be advancing in that direction as far as possible, he at first set out to sail,
+
+43.3. then, extinguishing them, returned, and, coasting past the city, put in at the peninsula by Libya, and there, disembarking his soldiers, went round the lake, and, falling unexpectedly upon the Egyptians toward dawn, at once so struck them with terror that
+
+43.4. they even sent a herald; and after this (for he did not accept their supplication) he overcame them in a sharp battle and slew a vast number; and some too perished in the river along with Ptolemy, fleeing in haste through it.
+
+44.1. Thus Caesar subdued Egypt, yet he did not make it subject to the Romans, but bestowed it upon Cleopatra, for whose sake indeed he had made the
+
+44.2. war. Fearing, however, lest the Egyptians revolt again at being delivered over to be ruled by a woman, and lest the Romans be angered both on this account and because she was living with him, he bade her live with her other brother, ostensibly, and gave the kingdom to both of them, as far at least as in word it could be
+
+44.3. said. For in deed Cleopatra alone was to hold all the power; for her husband was still a child, and she, through Caesar's goodwill, could do anything whatever,
+
+44.4. so that she possessed the outward show of living with her brother and holding the rule in common with him, but in truth reigned alone and shared her life with Caesar.
+
+45.1. And he would have detained him longer in Egypt, or even set off straightway for Rome together with her, had not Pharnaces both drawn Caesar away from there quite against his will and prevented him from hastening into
+
+45.2. Italy. For this man was a son of Mithridates and ruled the Cimmerian Bosporus, as has been said; and, desiring to recover the whole ancestral kingdom, he rose up at the very time of the strife of Caesar and Pompey, and, since the Romans were then occupied with one another, and afterward detained in
+
+45.3. Egypt, he both brought over Colchis without a struggle and subdued all Armenia in the absence of Deiotarus, and some of the cities of Cappadocia and of Pontus which had been assigned to the province of Bithynia.
+
+46.1. While he was doing these things, Caesar himself was not stirred (for Egypt was not yet settled, and he had some hope of mastering him through others), but he sent Gnaeus Domitius Calvinus, assigning to him Asia and . . . legions.
+
+46.2. And he, taking up Deiotarus and Ariobarzanes, marched at once against Pharnaces, who was at Nicopolis (for he had seized this beforehand), and, despising him, when that man, fearing his presence, was ready to make a truce for the sake of an embassy, neither made terms with him and,
+
+46.3. joining battle, was defeated. And he from this withdrew into Asia, since he was neither a match for him and the winter was approaching; while Pharnaces, in high spirits, acquired besides the other parts of Pontus, and took and plundered Amisus, although it held out a long time, and killed all the men of military age in it, and hastened into Bithynia and Asia with the same
+
+46.4. hopes as his father. And meanwhile, learning that Asander, whom he had left as governor of the Bosporus, had made a revolution, he advanced no further; for that man, as soon as it was reported that Pharnaces was advancing far from him, and it seemed that, even if he flourished greatly for the present, yet he would not afterward come off well, rose up against him, intending both to do the Romans some favour and to receive from them the dominion of the Bosporus.
+
+47.1. Hearing this, then, Pharnaces set out against him in vain; for, learning that Caesar was on the road and hastening into Armenia, he turned back, and there fell in with him near Zela. For Caesar, since Ptolemy was dead and Domitius defeated, thought that to tarry in Egypt was neither seemly nor profitable for him, but set off, and, using great
+
+47.2. speed, came into Armenia. The barbarian, then, dismayed, and fearing his impetuosity far more than his army, sent to him before he drew near, often treating by heralds, in case he might somehow, by agreeing on whatever terms,
+
+47.3. escape the present danger. And he put forward, among other things especially, that he had not aided Pompey; and he hoped both to draw him into a truce, as one hastening into Italy and Africa, and, when he had gone, easily to make war again.
+
+47.4. Suspecting this, then, Caesar treated the first and second envoys kindly, in order that he might fall upon him as unexpectedly as possible, while he was hoping for peace; but when the third came, he charged him, among other things, with having abandoned Pompey his
+
+47.5. benefactor. And he made no delay, but at once, that very day, just as he was from the road, joined battle, and, having for some time been thrown into confusion by the cavalry and the scythe-bearing chariots, then prevailed with his heavy-armed. And him, fleeing toward the sea and after this forcing his way into the Bosporus, Asander both shut up and
+
+48.1. killed; and Caesar, over the victory—although it was not very distinguished—prided himself much, as over no other, because on the same day and at the same hour he both came against the enemy
+
+48.2. and saw him and conquered him. And all the spoils, though they were very many, he gave to the soldiers, and set up a trophy in opposition, since Mithridates had raised one there over Triarius; for to take down that of the barbarian he did not venture, as being consecrated to the gods of war, but by the setting up of his own he both overshadowed it and in a manner overthrew it.
+
+48.3. And after this he recovered all the land that Pharnaces had cut off from the Romans and from those sworn to them, and gave it all back, each to those who had lost it, except a certain part of Armenia, which he bestowed on Ariobarzanes.
+
+48.4. And the people of Amisus he rewarded with freedom, and to Mithridates the Pergamene he gave both a tetrarchy in Galatia and the title of king, and permitted him to make war on Asander, in order that, mastering him, he might take the Bosporus, because he had been base toward his friend.
+
+49.1. Having done these things, and ordering Domitius to settle the rest, he came into Bithynia, and from there sailed into Greece and into Italy, levying much money from all on every pretext, as before.
+
+49.2. For, on the one hand, whatever sums certain men had promised beforehand to Pompey, he exacted; and, on the other, he asked for other moneys besides from abroad, bringing some additional charges. And all the dedications of the Heracles at Tyre he took up, because they had received Pompey's wife and son
+
+49.3. when they fled. And he received, over his victories, many crowns of gold from the rulers and the kings. These things he did not from baseness, but because he was spending vast amounts, and was about to make a far greater expenditure both on the armies and on the triumphs and on all the other things in which he made display.
+
+49.4. And, to say all in a word, he became a man bent on getting money, saying that two things both prepared and preserved and increased dominions—soldiers and money—and that these
+
+49.5. subsisted through one another; for armies were held together by maintenance, and that was gathered from arms; and if either one of them should be wanting, the other too would be brought down with it.
+
+50.1. Concerning these matters, then, he both thought and spoke thus always; but he hastened into Italy, and not into Africa, although it had been made hostile to him, because, learning that affairs in the city were in disorder, he feared
+
+50.2. lest they advance to something incurable. Yet he did no one any harm, as I have said, except that there too he levied much money, taking some in the way of a gift—crowns and statues and all other such things—and borrowing some, ostensibly, not only from private persons
+
+50.3. but also from the cities. For this name he gave to the exactions of money for which there was no other reasonable pretext, since these too were exacted otherwise and by force, no less than what was owed, and were never to be repaid. For he said that he had spent his own property on behalf of the state, and on this account
+
+50.4. was borrowing; whence, when the multitude thought fit that there be cancellations of debts, he did not make them, saying, "I too owe much"; but it became clear that he was wresting away others' property too for his dominion.
+
+50.5. Both the rest, then, on this account were vexed with him, and his companions; for, having bought much of the confiscated property—some of it even above its worth—in the hope of having it free, they were compelled to pay the whole price.
+
+51.1. But these men he held of no account. And yet he courted even them in a way, each according to his case. For to the many he made the favour of remitting all the interest owed to them from the time when he was driven into war against Pompey, and the rent up to five hundred drachmas for one year,
+
+51.2. and moreover bringing the assessments of the properties, in which the repayment of loans had by the laws to be made, back to their worth at the time, since by the multitude of confiscated properties
+
+51.3. everything had become much cheaper. These men, then, he won by doing these things; and of his comrades and fellow-combatants, the senators he won by priesthoods and offices, both for the remaining time of that year and for the next (for, in order that he might requite more of them, he appointed ten praetors for the coming year
+
+51.4. and priests beyond what was customary; for to the pontiffs and the augurs, of whom he too was one, and to the so-called Fifteen, he added one each, although he himself had wished to take all the
+
+51.5. priesthoods, as had been voted); and the knights of the legion, the centurions, and the subalterns, by various other means, and by enrolling some of them into the senate in place of those who had perished.
+
+52.1. But the legions troubled him not a little; for, having hoped to receive much, and finding it not less than their desert but short of their expectation, they made an uproar. And the greater part of them were in Campania, as though about to sail ahead into
+
+52.2. Africa. These men, then, nearly killed Sallust (for he had been appointed praetor with a view to recovering his seat in the senate), and when he, escaping them, set off for Rome to Caesar to make plain to him what was happening, many followed him sparing no one, and slew both others whom they met and two
+
+52.3. senators. Caesar, then, as soon as he perceived their approach, wished to send the bodyguard against them, but, fearing lest they too should join in sedition with them, kept quiet until they came to the suburb. And when they were there he sent to them and asked what
+
+52.4. they wished and what they wanted in coming. And when they answered that they would tell him in person, he permitted them to enter the city without their arms, except their swords; for these they were otherwise accustomed to carry even in the city, and
+
+53.1. then would not have consented to lay aside. And when they had said much about what they had toiled at and endured, and much too about what they had hoped, and declared that they were worthy to obtain it, and after this asked to be released from service and
+
+53.2. pressed him hard on this account—not that they wished to be private men (for that they least of all desired, being long since accustomed to greedy gains), but because they thought that by it they would strike Caesar with fear and accomplish anything whatever, since his expedition into Africa was at
+
+53.3. hand—about the other matters he gave them no answer at all, but, saying only these very words: "But you speak rightly, Quirites; for you have indeed toiled and been wounded," he straightway dismissed them all, as though he had no need of them, and to those who had served the appointed time he promised to give the rewards in full.
+
+53.4. When this was said, they were dismayed both by the rest of his attitude, and especially because he called them Quirites and not soldiers, and, humbled and fearing lest they suffer some harm, they changed their course, and said much in supplication of him, and made many promises, both to serve with him as volunteers and to fight the war out alone
+
+53.5. by themselves. As they were thus, then, and a certain one of the army commanders meanwhile, either of his own mind or to do Caesar a favour, both said something on their behalf and made request, he said: "I release both you who are present and all the
+
+53.6. others whose years of service have expired; for indeed I have no need of you; the rewards, however, I will pay you even so, in order that no one may ever say that I, having used you in dangers, then became ungrateful, even though, being strong in body and able to fight out all that remains besides, you were unwilling to serve with me."
+
+54.1. And he said these things with art (for he greatly needed them), and assigned land to them all, both from the public domain and ostensibly from his own, to some here and to some there, and set them very far apart from one another, so that they should be neither fearsome to their neighbours nor, on the other hand, ready for revolution,
+
+54.2. dwelling together somewhere in one body. And of the moneys owed them, which he had often promised to give them at almost every action, he announced that he would pay some at once and would discharge the rest, with interest too, before long. Having said these things, and having so enslaved them that they should neither be at all bold and moreover even feel gratitude, he added besides:
+
+54.3. "You have everything from me, and I will no longer compel any of you to serve; but if anyone willing should wish to help me finish the rest, I will gladly receive him." Hearing this, they were overjoyed and all alike wished
+
+55.1. to serve again. Caesar, then, picking out the disorderly among them—not all, but those who, being moderate, could live by farming—used the rest. And this he did also
+
+55.2. in the case of the other soldiers; for the very bold and those capable of doing some great evil he led out of Italy, in order that, being left there, they should make no revolution, and in Africa he very gladly spent them, some on one pretext, some on another; for through them he both overcame his opponents and was rid of those men.
+
+55.3. For, being the most humane of men, and doing many things gracious both to others and to the soldiers especially, he terribly hated those of them who were in sedition and punished them most severely.
+
+55.4. These things he did in that year, in which he himself was in truth dictator for the second time, while the consuls appointed at its close were said to be Calenus
+
+56.1. and Vatinius; and he crossed over into Africa, although winter had set in. And from this he accomplished not a little, falling upon his opponents unexpectedly; for he accomplished the most of all both by speed and by his expeditions made out of the unexpected, so that, if one were to reckon by what he so far surpassed those of his own time among his enemies, one would find nothing else more so than this,
+
+56.2. comparing nothing earlier with it. Now Africa had not been friendly to Caesar even in the time before, but after the death of Curio it became quite hostile. For Varus and Juba held affairs there, and moreover Cato and Scipio and the others with them had taken refuge thither together, as I have said,
+
+56.3. and from this, making common cause in the war, they both equipped the things on the mainland and made descents upon Sicily and Sardinia, and harassed the cities and brought in the boats, and from them procured both arms and the other iron, of which alone
+
+56.4. they were in need; and at last they came to such a point both of preparation and of design—since no army opposed them and Caesar had lingered both in Egypt and in the city—that they even sent Pompey into Spain. For, learning that it was in sedition, and thinking that it would readily receive him, since he was a son of Pompey the Great, they made ready, he to seize Spain in a short time and to set out thence toward the city, and they to make at the same time the voyage
+
+57.1. into Italy. For at the beginning there was some delay for them, since Varus disputed the command with Scipio, because he himself had for a longer time ruled in the regions there, and Juba, elated by his victory and
+
+57.2. claiming on account of it to bear the first place; but Scipio and Cato, agreeing—since the one by his dignity and the other by his understanding far surpassed all of them—both won over the rest and persuaded those men to entrust everything to Scipio. For Cato, though he might have ruled on equal terms
+
+57.3. with him or even alone, was unwilling, partly because he held it most harmful in such cases, partly because in civic rank he was inferior to him; for he saw that, both otherwise and in military matters, it had much power that the commander be by some law preferred above the rest, and on this account he both willingly yielded the command to him, and moreover
+
+57.4. handed over the armies he had brought. And he from this, having begged off Utica—which was suspected of favouring Caesar's cause and had nearly been laid waste by the others on this account—received it into his keeping, and was entrusted with the guarding of the country and all the sea there; while of the rest Scipio ruled with full
+
+57.5. authority. And his very name greatly heartened all who shared his views, who thought, by some unreasoning faith I know not how, that no Scipio could fare ill in Africa.
+
+58.1. Learning this, then, Caesar, and seeing that even those serving with him were both persuaded that it was so and afraid, took along besides a certain man who was of the family of the Scipios and bore this appellation
+
+58.2. (he was surnamed Salutio), and so made his voyage to Hadrumetum (for the things at Utica were strongly guarded), and escaped their notice, crossing over unexpectedly by reason of the winter. And as he disembarked from the ship, the following coincidence occurred, by which, even if something fearful was being signified to them by the divine power, yet he turned even that
+
+58.3. to good. For when, together with setting foot on the land, he stumbled, and the soldiers, seeing him fallen on his face, were disheartened and, displeased, made an uproar, he was not at a loss, but, stretching out both his hands and embracing the earth, as though he had fallen on purpose, he kissed it, and cried aloud, saying, "I have you,
+
+58.4. Africa." From there he assaulted Hadrumetum, but, being beaten off and moreover violently driven from his camp, he removed to another city, Ruspina, and, being received by them, he established a winter-quarters in it. And, setting out from there, he made war.

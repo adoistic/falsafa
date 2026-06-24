@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-genethliacon-ad-ausonium-nepotem-7c9703",
+  "work_title": "Genethliacon ad Ausonium Nepotem",
+  "chapter_number": 1,
+  "chapter_title": "Genethliacon ad Ausonium Nepotem",
+  "chapter_slug": "01-genethliacon-ad-ausonium-nepotem",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1ebe4c4c-446e-5254-9c5e-e2d37b355070",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 180,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa013"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ee8d596-2ffa-5741-911e-62e0a6174579",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 316,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

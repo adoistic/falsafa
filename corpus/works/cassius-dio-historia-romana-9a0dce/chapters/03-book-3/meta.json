@@ -1,0 +1,38 @@
+{
+  "work_slug": "cassius-dio-historia-romana-9a0dce",
+  "work_title": "Historia Romana",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d699dfc3-775c-5ef4-9e2e-6da01a51bea5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11801,
+      "paragraph_count": 260,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0385.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "91327210-2759-5d98-92d2-aa5d4ef39b29",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 14794,
+      "paragraph_count": 260,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

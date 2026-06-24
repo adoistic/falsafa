@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-iphicrates-5ae766",
+  "work_title": "Iphicrates",
+  "chapter_number": 1,
+  "chapter_title": "Iphicrates",
+  "chapter_slug": "01-iphicrates",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1fdfeb4b-4299-56c7-887b-9f6ff7134404",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 413,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo011"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9f35e5d-b8cd-5549-bcfa-e5c94b50bddd",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 640,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

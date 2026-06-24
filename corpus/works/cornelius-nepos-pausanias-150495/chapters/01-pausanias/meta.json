@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-pausanias-150495",
+  "work_title": "Pausanias",
+  "chapter_number": 1,
+  "chapter_title": "Pausanias",
+  "chapter_slug": "01-pausanias",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "53e086a0-2a30-5e40-8f62-3dedae239a9f",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 887,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79b7ab7a-f818-5784-9740-3f3364c83f92",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1427,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

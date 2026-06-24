@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-dion-e38527",
+  "work_title": "Dion",
+  "chapter_number": 1,
+  "chapter_title": "Dion",
+  "chapter_slug": "01-dion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a9807aae-8de6-50c0-989b-e192a9c078bc",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1497,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo010"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "91adf2c0-23f6-55dd-bae1-d421327de1ec",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2375,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

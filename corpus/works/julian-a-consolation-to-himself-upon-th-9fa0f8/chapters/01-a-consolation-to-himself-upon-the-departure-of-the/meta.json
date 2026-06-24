@@ -1,0 +1,38 @@
+{
+  "work_slug": "julian-a-consolation-to-himself-upon-th-9fa0f8",
+  "work_title": "A Consolation to Himself Upon the Departure of the Excellent Sallust",
+  "chapter_number": 1,
+  "chapter_title": "A Consolation to Himself Upon the Departure of the Excellent Sallust",
+  "chapter_slug": "01-a-consolation-to-himself-upon-the-departure-of-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0b79e068-0c0a-5394-90ac-3b966644ca0f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3033,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2003.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cf070955-091d-5c56-90a7-b96b60f39609",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4118,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

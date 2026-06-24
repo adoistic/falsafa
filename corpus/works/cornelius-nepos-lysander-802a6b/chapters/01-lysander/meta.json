@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-lysander-802a6b",
+  "work_title": "Lysander",
+  "chapter_number": 1,
+  "chapter_title": "Lysander",
+  "chapter_slug": "01-lysander",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aaa97e72-e984-509d-b1d1-5ecacff0f053",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 547,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo006"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "83061b1e-eff2-5fe6-8b3d-ca51cb85c272",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 880,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "appendix-vergiliana-ciris-4782ee",
+  "work_title": "Ciris",
+  "chapter_number": 1,
+  "chapter_title": "Ciris",
+  "chapter_slug": "01-ciris",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a42ac6ea-f395-538d-8d47-17a01b09f4da",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3472,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0692.phi007"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab02d451-ebda-5cd3-9865-d900b8b04ede",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5411,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "appendix-vergiliana-elegiae-in-maecenatem-799543",
+  "work_title": "Elegiae in Maecenatem",
+  "chapter_number": 1,
+  "chapter_title": "Elegiae in Maecenatem",
+  "chapter_slug": "01-elegiae-in-maecenatem",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "81eff628-2345-5eb9-a6d8-6f61edda1d88",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1092,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0692.phi006"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "32b0b0ec-27d3-543f-a6a1-b4b1598a1aa4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1710,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

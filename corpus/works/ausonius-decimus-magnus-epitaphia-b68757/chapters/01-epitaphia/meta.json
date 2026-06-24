@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-epitaphia-b68757",
+  "work_title": "Epitaphia",
+  "chapter_number": 1,
+  "chapter_title": "Epitaphia",
+  "chapter_slug": "01-epitaphia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "86d90b92-9ac3-5264-a043-5ba6ca0d88bc",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1332,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa012"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "15421572-f36c-5145-bf36-04a40cb9e77c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2168,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

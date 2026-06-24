@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-eumenes-db4477",
+  "work_title": "Eumenes",
+  "chapter_number": 1,
+  "chapter_title": "Eumenes",
+  "chapter_slug": "01-eumenes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c70b5e6-8fa6-57fd-99f5-22f16ce9b203",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2305,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo018"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "43a0e373-dc9d-565b-9832-ac6a36ed27ff",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3533,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "julian-hymn-to-the-mother-of-the-gods-22d949",
+  "work_title": "Hymn to the Mother of the Gods",
+  "chapter_number": 1,
+  "chapter_title": "Hymn to the Mother of the Gods",
+  "chapter_slug": "01-hymn-to-the-mother-of-the-gods",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "378db3c0-ed68-51ee-ae55-f502bffbf9e9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5771,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2003.tlg008"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8deeea2e-b5bf-59bd-ae9e-bb2bef11a419",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 7438,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

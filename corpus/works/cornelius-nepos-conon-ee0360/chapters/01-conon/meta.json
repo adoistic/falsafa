@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-conon-ee0360",
+  "work_title": "Conon",
+  "chapter_number": 1,
+  "chapter_title": "Conon",
+  "chapter_slug": "01-conon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c81ecb1-a2db-505e-b9c1-395674ff5a88",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 741,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo009"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79c8a1e6-9420-5e17-bcd3-6e85d7826a59",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1144,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

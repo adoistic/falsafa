@@ -1,0 +1,418 @@
+---
+work_id: "9a0dcedc-b0a6-5daa-aef5-fd72231a522e"
+work_slug: "cassius-dio-historia-romana-9a0dce"
+work_title: Historia Romana
+author_name: Cassius Dio
+chapter_number: 18
+chapter_title: Book 18
+chapter_slug: "18-book-18"
+variant_id: "e53a8a19-c6b0-526b-9fb3-57314272e8f2"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 10895
+translator: thothica
+---
+
+arg. The following is contained in the fifty-third book of Dio's Roman History. 1. How the temple of Apollo on the Palatine was dedicated. 2. How Caesar made a speech in the senate as though resigning the monarchy, and afterwards apportioned the provinces. 3. Concerning the appointment of the magistrates sent out to the provinces. 4. How Caesar was surnamed Augustus. 5. Concerning the titles which the emperors receive. 6. How the Saepta was dedicated. 7. How Caesar made war on the Astures and Cantabri. 8. How Galatia began to be ruled by the Romans. 9. How the portico of Neptune and the bath of Agrippa were dedicated. 10. How the Pantheon was dedicated. 11. How Augustus was released from the obligation of obeying the laws. 12. How the expedition against Arabia Felix took place. Length of time: six years, in which the magistrates here counted held office: Caesar (6th), Marcus Vipsanius Agrippa, son of Lucius (2nd), consuls; Caesar (7th), Marcus Vipsanius Agrippa, son of Lucius (3rd), consuls; Caesar Augustus (8th), Titus Statilius Taurus, son of Titus (2nd), consuls; Augustus (9th), Marcus Junius Silanus, son of Marcus, consuls; Augustus (10th), Gaius Norbanus Flaccus, son of Gaius, grandson of Gaius, consuls; Augustus (11th), Gnaeus Calpurnius Piso, son of Gnaeus, grandson of Gnaeus, consuls.
+
+1.1. These things took place at that time; and the next year Caesar held his sixth consulship, and did everything else according to the custom handed down from very ancient times, and delivered to Agrippa, his colleague, the bundles of rods in his turn, while he himself used the other set, and, when his term was complete, administered the oath
+
+1.2. in the ancestral fashion. Whether he did this again, I do not know; for he honoured Agrippa beyond measure. Indeed, he married his niece to him, and provided him, whenever they took the field together, a tent like his own, and the watchword was given out from
+
+1.3. both of them. In the present circumstances, then, he did everything else as was customary, and completed the census, and in it was styled Princeps of the senate, as had been the practice under the strict republic. He also completed and dedicated the temple of Apollo on the Palatine, with the precinct about it, and the libraries.
+
+1.4. And he held, together with Agrippa, the festival that had been voted for the victory at Actium, and in it conducted the horse-races both through the boys and through the men of
+
+1.5. noble birth. And this festival was held every fourth year for some time, being in the charge of the four priesthoods in rotation — I mean the pontiffs, the augurs, and those called the Seven and the Fifteen men. At that time also an athletic contest was held, a wooden stadium having been built in the Campus Martius, and a gladiatorial combat took place with the captives.
+
+1.6. And these things were carried out over several days, nor were they interrupted, although Caesar fell ill, but even so Agrippa filled out his part as well.
+
+2.1. Caesar, then, spent on the shows ostensibly from his own funds, and when the treasury needed money, he borrowed some and gave it to it, and ordered that two men should be chosen each year from the ex-praetors for its administration. And he distributed to the populace grain in fourfold measure, and bestowed money on some
+
+2.2. of the senators; for so many of them had become poor that no one was willing even to hold the aedileship because of the greatness of the expenses, but among other things the law-courts pertaining to the aedileship were assigned to the praetors, as was the custom, the more important to the city praetor and the others to the foreign praetor.
+
+2.3. And besides these things he himself appointed the city praetor, which he often did again afterwards. And the bonds owed to the treasury before the battle at Actium, save those concerning buildings, he cancelled, and burned the old
+
+2.4. contracts of those who owed anything to the state. And the Egyptian rites he did not admit within the pomerium, but he took thought for the temples; for those that had been built by private persons he ordered their sons and descendants, if any survived, to repair, and the rest he himself restored.
+
+2.5. Yet he did not appropriate to himself the glory of their building, but restored it to the very men who had erected them. And since he had made many arrangements unlawfully and unjustly during the factions and the wars, and especially during his joint rule with Antony and Lepidus, he annulled them all by a single edict, setting his
+
+2.6. sixth consulship as the limit. Being, then, of good repute and praised for these things, he desired to make a display also of another act of magnanimity, that he might be the more honoured for such conduct, and might secure the monarchy from men's willing hands, so as not to seem to have constrained them against their will.
+
+2.7. And thereupon, having prepared those of the senators most attached to him, he entered the senate while consul for the seventh time, and read out the following:
+
+3.1. 'Incredible, I am well aware, will my purpose appear to some of you, Fathers. For what each of the hearers would not himself wish to do, that he will not believe even when another says it, and most of all because every man, envying everyone who is superior to him, the more readily
+
+3.2. disbelieves what is said of those above himself. And besides, I know this too, that those who say things that seem incredible not only do not persuade anyone, but are even thought to be impostors. Yet if I were announcing something of the kind that I did not mean to do at once, I should greatly have shrunk from disclosing it, lest I incur some base charge instead of thanks;
+
+3.3. but as it is, since this very day the deed will follow at once upon it, I am very confident not only that I shall incur no shame of falsehood, but that I shall
+
+4.1. surpass all men in good repute. For that it is in my power to rule over you forever, you yourselves see; for all that was in revolt has either been punished and stopped, or has been pitied and brought to its senses, and what fought on my side has been attached to me by the requital of benefactions and made secure by the partnership in
+
+4.2. affairs, so that no one desires any revolutionary action, and even if any such thing should arise, that which is to aid us is still more ready. My military forces are at their height both in goodwill and in strength, I have money and allies, and, what is greatest, you and the people are so disposed toward me as to wish very much to be governed
+
+4.3. by me. Yet I shall not lead you any longer, nor shall anyone say that all I have already accomplished I did for the sake of sole rule; but I lay down the whole office and restore to you everything absolutely — the arms, the laws, the provinces — not only those which you entrusted to me, but
+
+4.4. all that I have since acquired for you besides, in order that from the very facts you may learn this also, that not even from the first did I desire any sovereignty, but in truth wished both to avenge my father, terribly murdered, and to deliver the city from great and successive evils.
+
+5.1. 'Would, indeed, that I had never had to take charge of affairs in this way; that is, would that the city had had no need of me for any such thing, but that we too who are of this age had lived from the beginning in peace and concord, as once our fathers
+
+5.2. did. But since a certain fate, as it seems, has brought you to such a pass that you had both need of me, though I was then still young, and made trial of me, so long as affairs required aid from me, I did everything zealously and beyond my age, and accomplished everything fortunately and beyond my power;
+
+5.3. and there is nothing among all things that turned me from aiding you in your danger — not toil, not fear, not the threats of enemies, not the entreaties of friends, not the multitude of conspirators, not the desperation of my opponents — but I gave myself unsparingly to you for all the crises that beset you, and did
+
+5.4. and suffered what you know. From these things I myself have gained nothing save that I have preserved my country, while you are both saved and brought to your senses. Since, then, fortune, dealing kindly, has through me restored to you both guileless peace and concord free from faction, take back also your freedom and the republic, recover the arms and the subject provinces, and govern as you were wont.'
+
+6.1. 'And do not be surprised that I am thus minded, seeing my general fairness and gentleness and freedom from ambition, and reckoning besides that I never accepted anything either excessive or beyond what the many had, though you often
+
+6.2. voted me many things; nor, again, charge me with folly, that, when it is in my power both to rule over you and to hold so great a dominion over so great a world, I do not wish it. For I, if anyone examine what is just, think it most just that you should govern your own affairs; and if what is expedient, I deem it most expedient both for me to have neither troubles nor envy nor plots, and for you to govern yourselves with freedom, temperately, and as friends;
+
+6.3. and if glory too, for the sake of which many often choose both to wage war and to incur danger, how will it not be most glorious for me to lay down so great a power, how not most renowned, of my own will, to become a private citizen from so great a height of dominion? So that, if any of you disbelieves that another could truly both think and say this in earnest,
+
+6.4. let him at least believe me. For though I could recount many great benefits that you have received both from me and from my father, for which you might reasonably both love and honour us above all others, I could say nothing more than this, nor pride myself on anything more, than that he, though you offered it, refused to take the monarchy, and that I, having it, lay it down.'
+
+7.1. 'For with what could anyone compare him? The capture of Gaul, the subjugation of Pannonia, the subduing of Moesia, the overthrow of Egypt? Or Pharnaces, Juba, Phraates, the expedition against the Britons, the crossing of the Rhine? And yet these deeds are so many and such as not even all our fathers together in all the time before
+
+7.2. have accomplished. But nonetheless none of these is worthy to be set beside the present deed, nor the fact that we have both waged the civil wars — which proved the greatest and most varied of all — honourably and settled them humanely, mastering everyone who resisted as an enemy, but preserving everyone who yielded as a friend,
+
+7.3. so that, if ever again it should be fated that our city fall sick, one would pray that it raise faction in this manner. For that we, having attained such strength and so flourished in both virtue and fortune as to be able to rule alone over you whether willing or unwilling, neither lost our senses nor desired the monarchy, but that he thrust it from him when offered and I restore it when given, is more than
+
+7.4. human. And I say this not for the sake of boasting (for I should not have said it at all, if I were to gain any advantage thereby), but that you may know that, though we have many great benefactions to the commonwealth and grounds for self-praise in our private affairs, in this above all we exult, that what others desire even at the cost of forcing men, this we
+
+8.1. do not embrace even when not compelled. For who could be found more magnanimous than I — not to mention my father who has departed this life — who more favoured of heaven? Who, O Zeus and Heracles, having so many and such soldiers, and citizens and allies who love me, and ruling all the sea within the Pillars of Heracles save a little, and possessing both cities and peoples on all the continents,
+
+8.2. and with no foreigner any longer making war upon me nor any kinsman raising faction, but with all of you at peace and in concord and prospering and, what is greatest, willingly obedient, then, voluntarily and unprompted, both withdraw from so great an office and renounce so great a substance.
+
+8.3. So that, if Horatius, Mucius, Curtius, Regulus, the Decii, were willing both to incur danger and to die in order to seem to have done some great and noble thing, how should I not the rather desire to do that whereby I, while living, shall surpass both them and at the same time all other men in
+
+8.4. renown? Do not, then, anyone of you think that the Romans of old aimed at virtue and good repute, but that now all that is manly has become extinct in the city. Nor, again, suspect that I wish to abandon you and entrust you to base men, or to some mob-rule, from which not only nothing good but all the most dreadful things forever befall all mankind.
+
+8.5. For to you, to you the best and wisest, I commit all the common affairs. That former thing I should never have done, not even if I had to die ten thousand times or to be a monarch; but this I do both for
+
+8.6. my own sake and for the city's. For I myself have been worn out and distressed, and can no longer hold out either in soul or in body; and moreover I foresee the envy and the hatred, which arise in some men even against the best, and the plots that come from them.
+
+8.7. And on this account I choose rather to be a private citizen with renown than a monarch with danger. And the common affairs would be administered far better in common, being conducted at once by many and not hung upon some one man.'
+
+9.1. 'For these reasons, then, I both beseech and implore all of you alike both to approve and to assist me with zeal, reckoning all that I have both warred and governed on your behalf, and in this rendering me all my due thanks for it, in granting me at last to pass the rest of my life in quiet, that you may know this also, that I understand not only how to rule but also how to be ruled, and that all I have commanded others, I too can have laid upon me in turn.
+
+9.2. For above all I expect to live in safety and to suffer no evil from anyone either in deed or in word; so much, I suppose, do I trust in your goodwill, from
+
+9.3. what I am conscious of toward myself. But if I should suffer anything, such as befalls many men (for it is not possible that any one who has been engaged in so many wars, some foreign, some civil, and entrusted with such great affairs, should please all), I most readily choose to die even before my fated time, having become a private citizen, rather than to become immortal by being a monarch.
+
+9.4. For to me this very thing will bring renown, that not only did I slay no one to hold the office, but even died besides rather than be a monarch; and he who shall dare to kill me will certainly be punished both by the divine power and by
+
+9.5. you. As indeed happened in my father's case; for he was declared equal to the gods and obtained everlasting honours, but those who slew him perished, base men, basely. For immortal we could not become, yet by living well and by dying well we acquire this too,
+
+9.6. in a manner. Wherefore I too, having the one already and hoping to have the other, restore to you both the arms and the provinces, the revenues and the laws, premising only this much, that you neither, fearing the greatness or the difficulty of the affairs, lose heart, nor, again, despising them as easy to administer, neglect them.'
+
+10.1. 'And yet, in the case of each of the greater matters, I would not shrink from suggesting to you in sum what you must do. What are these? First, guard the established laws strictly, and change none of them; for things that remain the same, even if they be worse, are more profitable than things forever altered, even if they seem better.
+
+10.2. Then, whatever these laws bid you do and whatever they forbid you to refrain from, observe carefully not in word only but in deed, and not in public only but in private,
+
+10.3. that you may obtain not punishments but honours. And the offices, both the peaceful and the military, entrust always to the best and most prudent, neither envying anyone nor for the sake of this or that man's gaining some advantage, but striving that the city may be both saved and prosper.
+
+10.4. And such men honour, but those who govern otherwise punish. And your private goods make common to the city, but from the public hold off as from another's. And guard exactly what is yours, but in no way reach out for what does not
+
+10.5. belong to you. And neither outrage the allies and the subjects nor plunder their money, and neither wrong the enemy nor fear them. Have your arms always in your hands, yet use them neither against one another
+
+10.6. nor against those at peace with you. Maintain the soldiers sufficiently, so that none of them through want desire what is another's, but keep them together and chasten them, so that they do no harm through boldness.
+
+10.7. But why need I lengthen my speech, going through all that you ought to do? For the rest you would easily perceive from these things, how it should be done. One thing, then, I will yet say and cease: that if you govern in this way, you yourselves will be happy and will gratify me, who, having found you in faction and ill estate,
+
+10.8. have rendered you such; but if you prove unable to do any of these things, you will make me repent, and will cast the city again into many wars and great dangers.'
+
+11.1. While Caesar was thus reading, a varied emotion seized the senators. For a few knew his intent, and on this account joined in his zeal; but of the rest, some suspected what was said and some believed it, and on this account both alike marvelled,
+
+11.2. the one at his craft, the others at his resolve, and were vexed, the one at his contrivance, the others at his change of mind. For some already hated the democratic system as factious, and were pleased with the change of polity, and rejoiced in Caesar. And so they were affected by different feelings
+
+11.3. but used like devices. For neither could those who believed that this was truly said rejoice — neither those who wished it, because of their fear, nor the others, because of their hopes — nor did those who disbelieved venture to denounce and convict him, the one
+
+11.4. because they were afraid, the others because they did not wish it. Whence too all of them either were compelled to believe him or feigned to do so. And to praise him some did not dare and others did not wish, but many cried out, both while he was still reading and afterwards, begging to be ruled by a monarch and adducing all the arguments that tended to this, until
+
+11.5. they constrained him, forsooth, to take sole rule. And straightway he contrived that there should be voted to those who were to be his bodyguard double the pay given to the other soldiers, that he might have a secure guard. So truly did he desire to lay down the monarchy.
+
+12.1. The leadership, then, in this way he secured from both the senate and the people; but wishing even so to seem democratic, while he undertook the care and presidency of all common affairs, as needing some oversight, he declared that he would neither govern all the provinces himself,
+
+12.2. nor, of those he should govern, do so forever, but the weaker ones, as being peaceful and free from war, he gave back to the senate, while the stronger, as being precarious and dangerous and either having some hostile neighbours or able themselves by
+
+12.3. themselves to make some great revolution, he kept — in word, that the senate might fearlessly enjoy the fairest parts of the empire while he himself had the toils and the dangers, but in deed, that under this pretext they might be both unarmed and unfit for war, while he alone both had arms and maintained
+
+12.4. soldiers. And it was thus reckoned that Africa and Numidia, Asia and Greece with Epirus, and the Dalmatian and Macedonian districts, and Sicily, and Crete with Libya about Cyrene, and Bithynia with Pontus adjoining it, and Sardinia and Baetica, belonged to the people
+
+12.5. and the senate; but to Caesar belonged the rest of Spain — both that about Tarraco and Lusitania — and all the Gauls, both the Narbonensian and the Lugdunensian and the Aquitanian and the Belgic,
+
+12.6. they and their colonists; for certain of the Celts, whom we call Germans, having occupied all the Belgic country along the Rhine, caused it to be called Germany — the upper part being that beyond the sources of the river, the lower that extending to the
+
+12.7. Britannic Ocean. These regions, then, and Syria called Coele, and Phoenicia and Cilicia and Cyprus and the Egyptians, fell at that time into Caesar's portion; for later he gave back Cyprus and Gaul about Narbo to the people, and himself took Dalmatia
+
+12.8. in exchange. And this was done in the case of other provinces too afterwards, as the course of my narrative will show; but I have enumerated these in this way, because now each of them is governed separately, since anciently and for a long time the provinces were ruled two and three
+
+12.9. together. The rest I have not mentioned, because some of them were acquired later, and others, even if already subdued at that time, were nevertheless not yet ruled by the Romans, but either left autonomous or entrusted to certain kingdoms; and of these, all that afterwards came into the empire of the Romans were added to the portion of the reigning emperor.
+
+13.1. The provinces, then, were thus divided; but Caesar, wishing even so to lead them far from supposing that he had any monarchical purpose, undertook the government of those given to him for ten years; for in so long a time he promised to settle them, and he played the youth, saying that, if they should be pacified sooner, he would sooner restore
+
+13.2. those too to them. And thereupon he first appointed the senators themselves to govern both kinds of provinces, save Egypt (for to that alone he assigned the knight mentioned, for the reasons I have given); then he ordered that the governors should be both annual and chosen by lot, save if anyone should have a privilege through having many children or through
+
+13.3. marriage, and should be sent out from the common assembly of the senate, girding on no sword and using no military dress, and be called proconsuls — not only the two who had been consuls but the others also, who had merely been praetors or were reputed to have been praetors;
+
+13.4. and he ordered that both classes should use as many lictors as is customary in the city, and should assume the insignia of office at once on getting outside the pomerium, and keep them throughout until they should return.
+
+13.5. The others he arranged to be chosen by himself and to be called his legates and propraetors, even if they were ex-consuls. For of these two titles, which flourished most under the republic, he gave that of praetor to the appointed governors, as belonging from very ancient times to war, calling them propraetors, and that of the consuls to the others, as more peaceful, surnaming them
+
+13.6. proconsuls. For the actual titles, that of praetor and that of consul, he reserved for use in Italy, but all those abroad he styled as governors in place of them. The appointed men, then, he caused to use the title of propraetors, and to rule for a longer time than a year, for as long as should seem good to him, wearing the military garb and a sword, those at least to whom it is permitted to punish
+
+13.7. soldiers. For to no one else — neither proconsul nor propraetor nor procurator — is it granted to bear a sword unless he is also empowered to put a soldier to death. For not only to senators but also to knights, those to whom this belongs, that other privilege also is granted.
+
+13.8. These matters, then, are thus; and all the propraetors alike use five lictors, even those at least who are not from the ex-consuls, and are named after this very number. And the insignia of office both sets of governors alike assume whenever they enter the country assigned to them, and lay them down at once when they have completed their term.
+
+14.1. Thus, then, and on these terms, it was ordained that governors should be sent to both kinds of provinces from the ex-praetors and the ex-consuls. And of these the emperor sent out whomever and whenever he wished, and many while still praetors and consuls held governorships of provinces, which even now
+
+14.2. sometimes happens. To the senate severally he assigned Africa and Asia to the ex-consuls, and all the rest to the ex-praetors, but commonly he forbade them all to draw lots before five years after holding office
+
+14.3. in the city. And for some time all such men, even if they were more in number than the provinces, drew lots for them; but later, since some of them governed ill, these too were assigned to the emperor, and thus to these also he himself in a manner
+
+14.4. gives the governorships. For he bids them draw lots equal in number to the provinces, and such as he wishes. And some appointed governors have been sent thither too, and to some it has been granted to rule longer than a year; and some have assigned certain provinces to knights instead of senators.
+
+14.5. These things, then, were thus ordained at that time concerning the senators who have the power even of putting their subjects to death. For there are sent also men to whom this is not permitted: into the provinces called those of the people and senate go the quaestors whom the lot designates, and the assessors of those who hold the supreme
+
+14.6. authority of office. For thus I might rightly call them, not from the name but from the function, as I said, since others, hellenizing, name these too 'legates.' And concerning this title enough has been said in the foregoing
+
+14.7. discourse; but the assessors each chooses for himself — one the ex-praetors, from their equals or their inferiors, three the ex-consuls, from their peers, whomever the emperor too approves. For some innovation was made concerning these men, but since it soon ceased, it will suffice to mention it then.
+
+15.1. Concerning the provinces of the people, then, these things are thus done; and into the others, those called the emperor's and having more than one citizen legion, are sent men to be their commanders, chosen by the emperor himself, for the most part from the ex-praetors, but now also from the ex-quaestors or those who have held some other of the intermediate offices.
+
+15.2. These matters, then, belong to the senators; but from among the knights the emperor himself sends out the tribunes — both those who are to become senators and the rest, concerning whose distinction I have spoken above in my account — dispatching some to the citizen garrisons only and some to the foreign ones, as was then
+
+15.3. ordained by Caesar; and the procurators (for so we name those who collect the common revenues and spend what is assigned to them) he sends alike to all the provinces, both his own and those of the people, choosing some from the knights and some even from the freedmen, except in so far as the proconsuls levy the tributes from those whom they
+
+15.4. govern. And he gives certain instructions both to the procurators and to the proconsuls and propraetors, that they may go out on fixed terms. For this too, and the giving of a salary both to these and to the
+
+15.5. others, was then ordained. For in old times certain men, contracting with the treasury, furnished themselves all that pertained to office; but under Caesar these very men first began to receive a fixed allowance. And this was arranged not equally for all of them, but as the need in each case required; and to the procurators the very name of their dignity accrues from the amount of money given them.
+
+15.6. These things, moreover, were enacted for all alike: that they should make no levies, nor exact money beyond the fixed amount, unless either the senate should so vote or the emperor command; and that whenever anyone's successor should come, he should at once set out from the province and not delay over his return, but come back within three months.
+
+16.1. These things, then, were thus ordained at that time, so to speak; for in fact Caesar himself was to be sole master of all things and forever, since he both controlled the money (for in word the public funds had been separated from his own, but in fact these too were spent according to his will) and commanded the
+
+16.2. soldiers. At any rate, when the decade had run out, there were voted to him other five years, then five, and after that ten, and again another ten, and another ten, five times in all, so that by the succession of the decades he was monarch
+
+16.3. for life. And on this account the emperors after him too, although no longer appointed for a fixed time but once for all for their whole life, nevertheless always held a festival every ten years, as though then renewing their leadership again; and this is done even now.
+
+16.4. Caesar, then, received many honours even before, when the matter of his abjuration of the monarchy and of the division of the provinces was discussed; for that the laurels should be set before his palace, and that the oak crown should be hung above them, was then voted to him, as to one who ever both conquered the enemy and saved the
+
+16.5. citizens. (And the imperial residence is called Palatium, not because it was ever decided that it should be so named, but because Caesar dwelt on the Palatine and had his headquarters there, and his house took some repute from the prior dwelling of Romulus on the whole hill;
+
+16.6. and for this reason, even if the emperor lodge somewhere else, his abode keeps the appellation of Palatium.) And when he had also accomplished his promises in deed, then indeed the name of Augustus was conferred upon him both by the senate and by the
+
+16.7. people. For when they wished to address him by some special title, and some proposed and chose one thing and some another, Caesar strongly desired to be called Romulus, but, perceiving that he was thereby suspected of desiring the kingship,
+
+16.8. he no longer laid claim to it, but was surnamed Augustus, as being something more than human; for all the most honoured and most sacred things are called augusta. Whence too they called him, hellenizing somewhat, Sebastos, as one venerable, from the verb 'to revere.'
+
+17.1. Thus, then, the whole power of the people and the senate passed over to Augustus, and from this an absolute monarchy was established; for monarchy it would most truly be reckoned, even if at most two or three men ever held the authority at once.
+
+17.2. For the very name of monarchy the Romans so hated that they called their emperors neither dictators nor kings nor anything else of the kind; yet, since the supreme conduct of the polity rests with them, it cannot be otherwise than that they are
+
+17.3. kings. For the offices established by the laws are for the most part appointed even now, save that of the censors, but everything absolutely is done and administered as the man in power for the time wishes. And in order that they may seem to hold this not by force but from the laws, they have taken to themselves, with the very titles, all that in the republic had great power among willing citizens, save that of the dictatorship.
+
+17.4. For they very often become consuls, and are styled proconsuls always, as often as they are outside the pomerium; and the title of Imperator they hold continually, not only those who have conquered anyone but all the rest, to signify their absolute power, instead of the appellation of king and
+
+17.5. dictator. For those very titles they do not assume, since they have once fallen out of the polity, but their function they confirm by the appellation of Imperator. And from these names they receive the power to make levies and gather money, to take up wars and
+
+17.6. make peace, to rule always and everywhere alike both the foreign and the citizen soldiery, so as to be able to put to death even within the pomerium both knights and senators, and all else that it was permitted to the consuls and the others who once held supreme power to do;
+
+17.7. and from the censorship they examine our lives and characters, and make the census, and enroll some in the equestrian and senatorial orders, and erase others,
+
+17.8. as may seem good to them. And from being consecrated in all the priesthoods, and moreover from giving the greater part of them to others, and from being themselves chief priest, even though two or three rule at once, they are themselves masters of all things both profane and
+
+17.9. sacred. And the so-called tribunician power, which the most flourishing men once held, gives them the right to put a stop to anything done by anyone else, if they do not approve it, and not to be outraged, and, if they should seem to be wronged in even the smallest matter, not only in deed but even in word, to destroy without trial the man who did it, as one
+
+17.10. accursed. For to hold the tribunate they think unlawful, since they belong entirely to the patricians; but the whole power of the tribunes, as great as it ever was, they take to themselves, and by it the reckoning of the years of their reign also proceeds, as though they received it yearly along with those who are tribunes from time to
+
+17.11. time. These powers, then, from the republic, as each was severally established, they have thus taken, and through these titles, in order that
+
+18.1. they may seem to have nothing save by some grant; and they have acquired besides another thing, which to none of the Romans of old was outright given for all purposes, by which alone it was permitted them both to do those things and the rest. For they are released from the laws, as the very Latin words declare; that is, they are free from all binding obligation and bound by none of the written
+
+18.2. statutes. And thus from these democratic titles they have invested themselves with all the strength of the polity, so as to have even the powers of kings, save the vulgarity of their appellation. For the title of Caesar and that of Augustus add to them no power of their own, but signify otherwise, the one the succession of their family, the other the
+
+18.3. splendour of their rank. And the appellation of Father perhaps even gives them a certain authority — such as fathers once had over their children — over all of us; yet it did not arise for this purpose, but for honour and for admonition, that they may love their subjects as children and the subjects respect them as fathers.
+
+18.4. So many and such are the appellations by which those who hold power hold it both according to the laws and according to what is now ancestral usage. And now they are all given to them at once, for the most part, save that of the censors, but to those of old they were voted from time to time
+
+18.5. as each occasion arose. For the censorship some of the emperors took according to ancient usage, and Domitian took it for life; yet this is no longer done now, for, having its function, they neither are chosen to it nor use its appellation, save in the census.
+
+19.1. The polity, then, was at that time reordered for the better and the more salutary; for indeed it was altogether impossible for them to be saved while ruling themselves as a democracy. Yet the events that followed cannot be related in the same way as those
+
+19.2. before. For formerly everything was brought before the senate and the people, even if it happened somewhere far off; and on this account all learned of them, and many wrote them down, and from this the truth about them, even if to the greatest degree some things were said through fear and some through favour, friendship, and enmity, was nonetheless in a manner found among the others who wrote the same things and in the public
+
+19.3. records. But from that time on the greater part began to be done in secret and through hidden channels, and if anything should be published anywhere, yet, being unverifiable, it is disbelieved; for everything is suspected of being both said and done according to the wishes of those in power for the time and of those who share their
+
+19.4. authority. And accordingly many things that do not happen are noised abroad, and many that very much do happen are unknown, and everything, one may say, is reported otherwise than as it is done. And moreover the greatness of the empire and the multitude of affairs make exact knowledge of them most
+
+19.5. difficult. For both in Rome much, and among its subjects many things, and toward the enemy something always and well-nigh daily, take place, concerning which no one easily knows the truth save those who do them, and the great
+
+19.6. majority do not even hear that they have happened at all. Wherefore I too shall relate everything that follows, so far as it shall be necessary to tell, as it has been made public, whether it really be so or otherwise. Yet there shall be added to it somewhat of my own opinion, so far as is possible, in cases where, from much that I have read or heard or seen, I have been able to conjecture something other than the common report.
+
+20.1. Augustus, then, was surnamed Caesar, as I have said, and to him a sign of no small import came at once that very night; for the Tiber, overflowing, covered all the low-lying parts of Rome so as to be navigable, and from this the soothsayers foretold both that he would rise to great power and that he would hold the whole city
+
+20.2. subject. And while men were gratifying him beyond measure, each in his own way, a certain Sextus Pacuvius, or, as others say, Apudius, surpassed them all; for in the senate he devoted himself to him in the Iberian fashion, and counselled the
+
+20.3. others to do the same. And when Augustus stood in his way, he rushed out to the throng standing about (for he was a tribune), and constrained both them and afterwards the rest, going about through the streets and lanes, to consecrate themselves to
+
+20.4. Augustus; whence even now, in supplicating the ruler, we are wont to say, 'We are devoted to you.' And he made all sacrifice on this occasion. And once in the crowd he said that he would leave Augustus heir equally with his son — not that he had anything, but that he wished to receive something, which also
+
+21.1. came to pass. Augustus, then, transacted the other business of the empire the more zealously, as having received it willingly from all, and made many laws. But I need not go through each in detail, save such as are pertinent to my
+
+21.2. history. And this same thing I shall do in the case of what was done afterwards, that I may not become tiresome by bringing in all such matters as not even those who make a special study of them have exact
+
+21.3. knowledge of. Yet he did not legislate everything on his own judgment, but some things he set forth beforehand in public, in order that, if anything should not please anyone, he might learn it beforehand and amend it; for he encouraged absolutely everyone to advise him, if anyone should think of anything better, and granted them great frankness, and even altered some things.
+
+21.4. But for the most part he took as counsellors for six months the consuls, or the consul whenever he himself was consul, and one from each of the other magistrates, and from the rest of the body of senators fifteen chosen by lot, so that through these the legislation should in a manner be reckoned as communicated to all the
+
+21.5. rest. For he did bring some matters before the whole senate, yet, thinking it better that the more numerous and greater matters should be considered quietly with a few, he did this, and
+
+21.6. sometimes even judged with them. For the whole senate also judged by itself, as before, and dealt with certain embassies and heralds both of peoples and of kings, and the people too assembled for the elections and the assembly; yet nothing was done that did not also please him.
+
+21.7. At any rate, of the magistrates-to-be, some he himself selected and put forward, and others he committed to the people and the throng according to ancient usage, but took care that none be appointed either unfit or by canvassing or bribery.
+
+22.1. On the whole, then, he administered the empire in this way; but I shall relate also in detail such things as it is necessary to record, together with the consuls under whom they happened. In the year aforesaid, seeing that the roads outside the city had become difficult to travel through neglect, he ordered the others to be repaired by various senators at their own expense, but the Flaminian he himself took charge of, since he was about to march out by it.
+
+22.2. And it was finished at once then, and on this account statues of him were set upon arches both on the bridge of the Tiber and at Ariminum; but the other roads were repaired later, whether by the treasury, since no senator gladly spent the money, or by Augustus, as one might wish to
+
+22.3. say. For I cannot distinguish their treasuries, nor whether, indeed, Augustus did melt down certain silver statues of himself, made both by his friends and by certain peoples, into coin, in order to seem to spend from his own funds all that he said he spent;
+
+22.4. and on this account I am not able to write either whether the reigning emperor at any time took anything from the public moneys, or whether at any time he himself gave anything. For both of these often happened, and why should one reckon such things as loans or even gifts, when both the people and the emperor use both these and those in common forever?
+
+22.5. At that time, then, Augustus did these things, and set out as if to make a campaign against Britain, but coming into the Gauls he tarried there; for they seemed about to send heralds to him, and their affairs were still unsettled, since the civil wars had come upon them at once after their conquest. And of them he both made a census and ordered their mode of life and their polity. And thence he came to Spain and set that in order too.
+
+23.1. After this he himself held his eighth consulship with Statilius Taurus, and Agrippa
+
+23.2. dedicated the building called the Saepta; for though he promised to repair no road, he adorned this — built up in the Campus Martius with porticoes round about by Lepidus for the tribal elections — with marble tablets and paintings, and named it Julian after Augustus.
+
+23.3. And he, far from incurring any envy for these things, was even very greatly honoured both by Augustus himself and by all the
+
+23.4. rest (the reason being that, advising and assisting Augustus in the most humane and most glorious and most profitable measures, he laid no claim, even in the slightest, to the glory of them, and used the honours from Augustus neither for any aggrandizement nor for his own private enjoyment, but for what was profitable both to Augustus himself and to the
+
+23.5. commonwealth); but Cornelius Gallus was rendered insolent by his honour. For he both prated much idle talk against Augustus, and did many blameworthy things besides; for he set up statues of himself in well-nigh all of Egypt, and inscribed upon the pyramids all the deeds that he had
+
+23.6. performed. He was therefore accused of these things by Valerius Largus, his comrade and intimate, and was disgraced by Augustus, so that he was even forbidden to live in his provinces. And when this had happened, many others too set upon him and brought many indictments against him,
+
+23.7. and the whole senate voted that he should be convicted in the courts and exiled, his property confiscated and given to Augustus, and that they themselves should offer sacrifice. And he, grieving deeply at these things, took his own life beforehand.
+
+24.1. And the baseness of the many was thereby also exposed, in that they so disposed of the man whom hitherto they had flattered as to compel him to die by his own hand, and inclined toward Largus, since he was beginning to rise, intending no doubt to vote the same things against him too, if any such thing should befall
+
+24.2. him. Proculeius, however, was so disposed toward him that, meeting him once, he held his hand to his own nose and mouth, showing those present that it was not even safe for anyone to breathe in his
+
+24.3. presence. And another man too came up to him, though unknown to him, with witnesses, and asked whether he recognized him, and, when Largus denied it, wrote his denial on a tablet, as though it were not permitted to the wretch to bring a false charge even against one whom he had not known before.
+
+24.4. So the many emulate men's deeds, even if they be base, rather than guard against their sufferings; so that at that time too Marcus Egnatius Rufus, having been aedile and done many other things well, and having brought aid, with his own slaves and certain other hired men, to the houses set on fire in that year, and
+
+24.5. on this account having received from the people the expenses pertaining to his office and being unlawfully appointed praetor, was exalted by these very things and despised Augustus, so as even to post up a notice that he had handed over the city to his successor unshattered and
+
+24.6. whole. At this both all the other leading men and especially Augustus himself were angry, and Augustus would before long teach him not to think above the many; and he straightway charged the aediles to take care that nothing be set on fire, and, if any such thing should happen, to quench the fire.
+
+25.1. And in this same year Polemon, who reigned in Pontus, was enrolled among the friends and allies of the people, and precedence was given to the senators in all the theatres throughout his whole reign;
+
+25.2. and Augustus, intending to campaign against Britain, since they would not come to terms, was detained by the Salassi, who rose against him, and by the Cantabri and Astures, who were at war. The former dwell beneath the Alps, as I have said, and the latter both occupy the strongest part of the Pyrenees toward Spain
+
+25.3. and the plain below it. For these reasons, then, Augustus (he was now consul for the ninth time, with Marcus Silanus) sent against the Salassi Terentius Varro. And he, attacking in many places at once, that they might not be harder to subdue by gathering together, very easily conquered them, since they fell upon him in small bands,
+
+25.4. and, compelling them to come to terms, demanded a fixed sum of money, as though he would do them no other harm; and thereupon, having sent soldiers everywhere ostensibly for its collection, he seized those of military age and sold them, on condition that none of them should be set free within
+
+25.5. twenty years. And the best of their land was given to some of the praetorian guard, and received the city named Augusta Praetoria. And Augustus himself made war at the same time on the Astures and the Cantabri; and since they neither came over to him, being elated by their strongholds, nor came to close quarters, both because they were inferior in number and because they were for the most part javelin-men, and moreover gave him much
+
+25.6. trouble, whenever he moved anywhere, by always seizing the heights beforehand and lying in ambush in the hollows and woods, he was wholly at a
+
+25.7. loss. And he, falling sick from the toil and the cares, withdrew to Tarraco and there lay ill; but Gaius Antistius made war on them in the meantime and accomplished much, not because he was a better general than
+
+25.8. Augustus, but because the barbarians, despising him, came to grips with the Romans and were defeated. And thus he took some of them, and Titus Carisius afterwards captured Lancia, the greatest stronghold of the Astures, which had been abandoned, and reduced many other places.
+
+26.1. When this war was over, Augustus discharged the older of the soldiers and permitted them to found a city in Lusitania called Augusta Emerita, but to those still of military age he gave certain shows, through Marcellus and Tiberius as aediles, in the camps themselves.
+
+26.2. And to Juba he gave some part of Gaetulia in place of his ancestral kingdom, since the greater part of its people had been enrolled in the Roman order,
+
+26.3. and the realms of Bocchus and Bogud; and on the death of Amyntas he did not entrust the kingdom to his sons, but brought it into the subject territory, and so Galatia together with Lycaonia got a Roman governor, and the regions of Pamphylia formerly assigned to Amyntas were restored to their own
+
+26.4. district. About this same time Marcus Vinicius punished certain Celts, because they had seized and slain Roman men who had entered their country for the sake of trade, and he too gave Augustus the title of
+
+26.5. Imperator. And a triumph was voted to him both for this and for the other things then done; but since he would not celebrate it, a triumphal arch was built for him in the Alps, and he was granted the right to use, on the first day of each year, both the triumphal crown and the triumphal robe always. These things, then, Augustus did in his wars, and the precinct of Janus, which had been opened on their
+
+27.1. account, he closed. And Agrippa meanwhile adorned the city at his own expense. He both built the portico called that of Neptune and made it splendid, in honour of his naval victories, with the painting of the Argonauts, and he constructed the Laconian sweating-room; for he called the gymnasium Laconian, since the Lacedaemonians in that time were thought most to strip naked and to exercise
+
+27.2. anointed with oil. He also completed the building called the Pantheon; and it is so named perhaps because it received among its statues the images of many gods, both that of Ares and that of Aphrodite, but, as I think, because, being vaulted, it resembles the heaven.
+
+27.3. Now Agrippa wished both to set up a statue of Augustus there and to give him the name of the work; but when Augustus accepted neither, he set up there a statue of the former Caesar, and in the fore-temple statues of Augustus and of
+
+27.4. himself. And since these things were done not out of any rivalry on Agrippa's part toward Augustus, but out of his unwearied goodwill toward him and his constant zeal for the commonwealth, not only did Augustus blame him for none of them, but even honoured him the more.
+
+27.5. For the marriage of his daughter Julia and his nephew Marcellus, which he had been unable through his illness to celebrate in Rome at that time, he celebrated through Agrippa, even in his absence; and when the house on the Palatine hill, which had formerly belonged to Antony and afterwards been given to Agrippa and Messalla, was burnt down, he gave Messalla money, but made Agrippa
+
+27.6. his housemate. He, then, not unreasonably prided himself on these things; and a certain Gaius Thoranius gained a good name because, while tribune, he brought his father, though he was the freedman of someone, into the theatre and seated him beside him on the tribunician bench. And Publius Servilius too gained a name, because, while praetor, he slew three hundred bears and an equal number of other Libyan beasts at a certain festival.
+
+28.1. After this Augustus held his tenth consulship with Gaius Norbanus, and on the first of the month the senate took oaths confirming his acts, and, when it was announced that he was now drawing near the city (for he had been delayed by his illness), and he had promised to give the people a hundred drachmas apiece,
+
+28.2. and had forbidden that the document concerning these gifts be published before it should also be approved by the senate, they released him from all the constraint of the laws, in order that, as I have said, being truly independent and absolute master both of himself and of the laws, he might do all that he wished and refrain from all that he did not
+
+28.3. wish. These things were voted to him while he was still abroad, and when he came to Rome certain other things were done for his safety and his return. To Marcellus it was given to be a senator among the ex-praetors and to seek the consulship ten years sooner than was customary, and to Tiberius to do the same thing five years before each office;
+
+28.4. and straightway the latter was appointed quaestor and the former aedile. And since the quaestors-to-be for the provinces were lacking, all who had been quaestors up to ten years before, without performing this function, drew lots for them.
+
+29.1. In the city, then, these things worthy of memory happened at that time; but the Cantabri and Astures, as soon as Augustus had departed from Spain, leaving Lucius Aemilius as its governor, revolted, and, sending to Aemilius, before disclosing anything, said that they wished to bestow grain and certain other things on the
+
+29.2. army, and thereupon, having received many soldiers as though to carry these things off, they led them into places convenient for themselves and slaughtered them. Yet they did not rejoice long; for, their country being ravaged and certain walls burnt, and, what was greatest, the hands of those captured being cut off from time to time, they were quickly subdued.
+
+29.3. While these things were happening, another new campaign both had its beginning and its end at the same time; for against Arabia called Felix, over which Sabos reigned, Aelius Gallus, the governor of
+
+29.4. Egypt, made an expedition. And no one came into his sight at the first; yet he did not advance without hardship; for the desert and the sun and the waters, which had some strange nature, greatly distressed them, so that the greater part of the army
+
+29.5. perished. And the disease was like none of the familiar ones, but, falling upon the head, dried it up, and destroyed most men at once, but in the case of the survivors descended into the legs, passing over all the part of the body between, and ravaged them; and there was no cure for it save if one both drank and anointed himself with olive-oil mixed with
+
+29.6. wine. And this very few of them were able to do; for the country bears neither of these, and they had not provided them in abundance. And in this distress the barbarians too set
+
+29.7. upon them. For hitherto they had been the weaker, whenever indeed they engaged them, and lost some of their places; but then, using the disease as an ally, they recovered their own and drove out those of the Romans who survived from their
+
+29.8. country. These were the first of the Romans, and, I think, the only ones, to advance so far into this Arabia for the purpose of war; for they went as far as the place called Athlula, a notable spot.
+
+30.1. Augustus, having held his eleventh consulship with Calpurnius Piso, fell sick again, so as to have no hope of recovery; at any rate he settled all his affairs as though about to die, and, having gathered the magistrates and the other leading men both of the senators and of the knights, appointed no successor,
+
+30.2. though all expected that Marcellus would be preferred above all for this, but, after discoursing with them somewhat about public affairs, gave Piso the forces and the public revenues written in a book, and to Agrippa handed over his
+
+30.3. signet ring. And when he could no longer do even what was most necessary, a certain Antonius Musa restored him by cold baths and cold drinks; and on this account he received both much money from Augustus and from the senate, and the right to wear gold rings (for he was a freedman), and exemption from taxes both for himself and for his fellow-practitioners, not only those then living but those who should be thereafter.
+
+30.4. But, since it was fated that he who lays claim to the works of fortune and of destiny should be tripped up close at hand, Augustus indeed was thus saved, but Marcellus, falling sick not long after and being treated in that same way by Musa himself,
+
+30.5. died. And Augustus buried him at public expense, praising him as was customary, and laid him in the tomb that was being built, and honoured his memory with the theatre, whose foundations had been laid
+
+30.6. by Caesar but which was named after Marcellus, and ordered that a golden image of him and a golden crown and a curule chair be carried into the theatre at the festival of the Romans and set in the midst of the magistrates who conducted it.
+
+31.1. These things he did later; but at that time, having been saved, he brought his will into the senate and wished to read it, showing men that he had left no successor to the office; yet he did not read it, for no one
+
+31.2. permitted it. All marvelled greatly at him, however, that, loving Marcellus both as a son-in-law and as a nephew, and giving him both other honours and splendidly helping to arrange the festival which he was conducting as aedile,
+
+31.3. so that the Forum was screened overhead with awnings throughout the whole summer, and a knight as a dancer and a woman of distinction were brought into the orchestra, he nevertheless did not entrust the monarchy to him, but preferred Agrippa before
+
+31.4. him. So, it seems, he did not yet trust the youth's judgment, but wished either that the people recover their freedom or that Agrippa receive the leadership from him; for he well knew that Agrippa was exceedingly dear to them, and did not wish to seem to entrust it from himself.
+
+32.1. Having recovered, then, and learning that Marcellus was on this account ill-disposed toward Agrippa, he straightway sent Agrippa to Syria, lest, if they were in the same place, some delay and skirmishing should arise between them. And he set out from the city at once, yet did not come to Syria, but, acting still more moderately, sent his lieutenants thither, while he himself stayed in Lesbos.
+
+32.2. These things, then, Augustus thus did, and appointed ten praetors, as needing no more; and this continued for several years. And of them the rest were to do the same things as before, but two were to be over the administration each
+
+32.3. year. Having arranged these things severally, he resigned the consulship on coming to Alba; for since he himself, from the time affairs were settled, and the greater part of the others, had held office for the year, he wished to check this again, that as many as possible might be consuls, and he did it outside the city,
+
+32.4. that he might not be hindered. And for this he gained praise, and because he chose in his own place Lucius Sestius, who had always been zealous for Brutus and had served with him in all his wars, and even then both remembered him and had his images and made his praises; for the friendliness and faithfulness of the man he not only did not hate but even honoured.
+
+32.5. And on this account the senate voted that he should be tribune for life, and gave him leave to bring before each meeting of the senate one matter wherever he wished, even if he were not consul, and to hold the proconsular office once for all forever, so as neither to lay it down on his entrance within the pomerium nor to renew it again, and permitted him in the subject territory to have power above the governors in each place.
+
+32.6. Whence both he and the emperors after him used, as a kind of law, both other powers and the tribunician power; for the very name of tribune neither Augustus nor any other emperor held.
+
+33.1. And it seems to me that he received these things thus at that time, honoured not out of flattery but in truth. For in other respects he treated them as free men, and when Tiridates in person, and from Phraates envoys, came with mutual accusations against each other, he brought them into the senate,
+
+33.2. and afterwards, having been entrusted by it with the decision, did not give up Tiridates to Phraates, but sent back to Phraates the son whom he had formerly received from him and was keeping, on condition of recovering the captives and the military standards taken in the disaster both of Crassus and of Antony.
+
+33.3. And in this same year, when a certain aedile of the lower rank died, Gaius Calpurnius, though he had previously been aedile among the higher, succeeded him — a thing recorded of no one else; and in the festal recess two men acted as prefect of the city each day, and one of them, not yet even of the age of youths, nevertheless held office.
+
+33.4. Livia was charged with the death of Marcellus, because he had been preferred above her sons; but this suspicion was rendered doubtful both by that year and by the next, which were so sickly that very many perished in
+
+33.5. them. And since something is somehow ever wont to be foreshown before such events, at that time a wolf was caught in the city, and fire and storm ravaged many buildings, and the Tiber, rising, swept away the wooden bridge and made the city navigable for three days.

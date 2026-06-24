@@ -1,0 +1,38 @@
+{
+  "work_slug": "cassius-dio-historia-romana-9a0dce",
+  "work_title": "Historia Romana",
+  "chapter_number": 16,
+  "chapter_title": "Book 16",
+  "chapter_slug": "16-book-16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cee8c841-3791-5789-936b-b9652d9ebc2a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8095,
+      "paragraph_count": 175,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0385.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e06c2ae-0013-5844-8570-23734c9796f9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9948,
+      "paragraph_count": 175,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

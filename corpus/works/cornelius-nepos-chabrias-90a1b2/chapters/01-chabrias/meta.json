@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-chabrias-90a1b2",
+  "work_title": "Chabrias",
+  "chapter_number": 1,
+  "chapter_title": "Chabrias",
+  "chapter_slug": "01-chabrias",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "baa0a537-589b-5c97-aff6-a16c5bb03985",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 493,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo012"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d3b484dd-3918-5538-bcc8-6d3508c9bc8e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 765,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

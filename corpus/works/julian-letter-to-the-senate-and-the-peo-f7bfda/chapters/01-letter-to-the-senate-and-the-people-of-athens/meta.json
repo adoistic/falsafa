@@ -1,0 +1,38 @@
+{
+  "work_slug": "julian-letter-to-the-senate-and-the-peo-f7bfda",
+  "work_title": "Letter to the Senate and the People of Athens",
+  "chapter_number": 1,
+  "chapter_title": "Letter to the Senate and the People of Athens",
+  "chapter_slug": "01-letter-to-the-senate-and-the-people-of-athens",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "96ccbad5-55e1-54f9-a134-371899f8a211",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4668,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2003.tlg005"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a13d30fb-2e82-5a75-9414-da74f726ea19",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6464,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

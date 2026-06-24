@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-epaminondas-b2eb5a",
+  "work_title": "Epaminondas",
+  "chapter_number": 1,
+  "chapter_title": "Epaminondas",
+  "chapter_slug": "01-epaminondas",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ca9db395-63db-5307-b05c-c4c3e19080a9",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1679,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "30b43dcc-e1aa-5f5d-90d0-161aa4231f6b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2628,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

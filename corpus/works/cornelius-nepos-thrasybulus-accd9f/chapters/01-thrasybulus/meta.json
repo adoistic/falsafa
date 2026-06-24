@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-thrasybulus-accd9f",
+  "work_title": "Thrasybulus",
+  "chapter_number": 1,
+  "chapter_title": "Thrasybulus",
+  "chapter_slug": "01-thrasybulus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1cd3a984-a41a-51ec-84dc-4dcaa59799c1",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 604,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo008"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1d6beed0-050c-58f1-9516-6438df2f4bc7",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 939,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

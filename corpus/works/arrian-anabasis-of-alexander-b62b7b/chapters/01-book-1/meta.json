@@ -1,0 +1,38 @@
+{
+  "work_slug": "arrian-anabasis-of-alexander-b62b7b",
+  "work_title": "Anabasis of Alexander",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "77d312b5-b68b-5f4a-aeaf-2768da2cb78b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 12907,
+      "paragraph_count": 248,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0074.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dcf75fd6-e3aa-55b4-ab12-951991ec96ff",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15044,
+      "paragraph_count": 279,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

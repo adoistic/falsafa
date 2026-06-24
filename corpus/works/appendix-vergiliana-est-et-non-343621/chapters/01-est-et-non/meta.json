@@ -1,0 +1,38 @@
+{
+  "work_slug": "appendix-vergiliana-est-et-non-343621",
+  "work_title": "Est et Non",
+  "chapter_number": 1,
+  "chapter_title": "Est et Non",
+  "chapter_slug": "01-est-et-non",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "12d412f1-b77b-5ce4-b827-a5357063eb92",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 174,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0692.phi013"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b06d1961-26a8-5ef2-ae00-458cc17760ed",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 269,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "moschus-fragmenta-7149c5",
+  "work_title": "Fragmenta",
+  "chapter_number": 1,
+  "chapter_title": "Fragmenta",
+  "chapter_slug": "01-fragmenta",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "745d1519-57ea-5a22-9fff-49b1c3de479b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 268,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0035.tlg005"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54a4c582-b9ac-5990-892e-3c234feaa2c7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 375,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

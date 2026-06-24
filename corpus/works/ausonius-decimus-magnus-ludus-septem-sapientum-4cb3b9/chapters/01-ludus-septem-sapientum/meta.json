@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-ludus-septem-sapientum-4cb3b9",
+  "work_title": "Ludus Septem Sapientum",
+  "chapter_number": 1,
+  "chapter_title": "Ludus Septem Sapientum",
+  "chapter_slug": "01-ludus-septem-sapientum",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5afceee7-b46b-5638-9c47-431a476e88dd",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1401,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa018"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3bc7400b-887f-55bd-985b-23a22850f7e9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2207,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

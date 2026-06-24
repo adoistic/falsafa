@@ -1,0 +1,38 @@
+{
+  "work_slug": "cassius-dio-historia-romana-9a0dce",
+  "work_title": "Historia Romana",
+  "chapter_number": 10,
+  "chapter_title": "Book 10",
+  "chapter_slug": "10-book-10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "300cad76-9a63-5d75-9640-341394e57011",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9288,
+      "paragraph_count": 213,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0385.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2bdc71ba-3aa7-5d49-a00d-8d875b1b1b3d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11597,
+      "paragraph_count": 213,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

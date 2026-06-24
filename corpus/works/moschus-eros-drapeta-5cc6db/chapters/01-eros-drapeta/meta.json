@@ -1,0 +1,38 @@
+{
+  "work_slug": "moschus-eros-drapeta-5cc6db",
+  "work_title": "Eros Drapeta",
+  "chapter_number": 1,
+  "chapter_title": "Eros Drapeta",
+  "chapter_slug": "01-eros-drapeta",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "188cb032-8584-5f29-97f5-6944911bdfd5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 242,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0035.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a70dd624-f4b2-5ed5-8382-68dba1717c38",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 324,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

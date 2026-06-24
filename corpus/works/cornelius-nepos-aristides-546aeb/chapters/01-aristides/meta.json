@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-aristides-546aeb",
+  "work_title": "Aristides",
+  "chapter_number": 1,
+  "chapter_title": "Aristides",
+  "chapter_slug": "01-aristides",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5183b5b7-ad8d-52e5-b5dd-94c50ebe6aa4",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 346,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "13b1ec68-debe-5912-ba83-13639b48fd8d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 534,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

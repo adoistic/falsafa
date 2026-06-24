@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-alcibiades-1d16fe",
+  "work_title": "Alcibiades",
+  "chapter_number": 1,
+  "chapter_title": "Alcibiades",
+  "chapter_slug": "01-alcibiades",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bb341a66-8521-52ac-b4f2-bed0fa07a692",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2032,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo007"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b943ccd3-07b9-5dd4-8f5b-064552d1989d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3177,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

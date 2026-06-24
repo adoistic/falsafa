@@ -1,0 +1,492 @@
+---
+work_id: "9a0dcedc-b0a6-5daa-aef5-fd72231a522e"
+work_slug: "cassius-dio-historia-romana-9a0dce"
+work_title: Historia Romana
+author_name: Cassius Dio
+chapter_number: 12
+chapter_title: Book 12
+chapter_slug: "12-book-12"
+variant_id: "d21b233c-f2ca-5635-867b-c49e61c91fcc"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 12843
+translator: thothica
+---
+
+arg. The following are contained in the forty-seventh book of Dio's Roman History: How Caesar, Antony, and Lepidus, having come to Rome, wrought slaughter. Concerning Brutus and Cassius and what they did before the battle at Philippi. How Brutus and Cassius were defeated by Caesar and died. The length of time is the remainder of the consulship of Gaius Vibius Pansa and Aulus Hirtius, and one other year, in which the magistrates here numbered held office: Marcus Aemilius Lepidus, son of Marcus, for the second time, and Lucius Munatius Plancus, son of Lucius, consuls.
+
+1.1. Having thus made their compact and sworn together, they hastened to Rome, in appearance as though all would rule on equal terms, but in mind as though each one of them would himself hold the whole power—though they had learned beforehand, most plainly even before and most clearly then, what was destined
+
+1.2. to be. For to Lepidus a snake coiled about the sword of a centurion, and a wolf, entering the camp and his tent while he was at dinner and overturning the table, foreshadowed at once both his power and the trouble attending upon it; while to Antony milk that flowed round about the entrenchment, and a kind of singing that resounded through the night, foreshowed both his delights and
+
+1.3. the destruction that would come of them. To these men, then, these things happened before they came into Italy; but to Caesar, just then, upon the compact, an eagle settled above his tent, and, when two ravens fell upon it and tried to pluck its feathers, killed them, thereby giving him the victory over both of them.
+
+2.1. And so they came to Rome—Caesar first, then the others, each apart, with all their soldiers—and at once enacted into law through the tribunes what had seemed good to them.
+
+2.2. For what they ordered and forced through took the name of law and brought them, besides, the appearance of supplication; for they had to be earnestly entreated to do these things. And on this account sacrifices were even voted for them, as though for some pieces of good fortune, and the dress was changed as though they were prospering, although there was much fear among them both from the very things being done and
+
+2.3. far more from portents. For the standards of the army guarding the city were covered with cobwebs, and arms were seen rising from the earth into the sky, and much clashing was heard from them; and in the temple of Asclepius many bees gathered into a swarm on the summit, and vultures settled in great numbers both on the temple of the Genius of the People and on that of Concord.
+
+3.1. And while these things, so to speak, were still going on, those slaughters which Sulla once employed by means of his proscriptions were brought back, and the whole city was filled with corpses; for many were slain in their houses, and many in the streets and in the markets and at the temples, scattered about,
+
+3.2. and their heads were set up again on the Rostra, while of their other remains some were cast out on the spot and devoured by dogs and birds, and some thrown into the river. And the rest of what had been done in Sulla’s time was repeated then too, save that two lists only were posted—one of the senators apart and one of the
+
+3.3. others apart. And the reason for which this was done I have been able neither to learn from anyone else nor to discover myself; for the one thing that one might have supposed, that fewer were put to death, is by no means true, for far more, since they were inscribed by more men, were enrolled. And this did not differ from the slaughters that
+
+3.4. took place in the former time; since that the names of the foremost were posted not mingled with the many but apart, brought, I suppose, much foolishness to those who were to be slain in the same way. But in place of that, other things, and very grievous, befell them, not few in number—although the former had left no excess, as it seemed, to be surpassed.
+
+4.1. For in Sulla’s time those who did anything ventured their boldness on the moment, since they were then first making trial of such a thing, and not from deliberate plan, and on this account they acted in most cases less wickedly, as men working not from forethought but from chance; and those who suffered, falling into sudden and unheard-of calamities, gained a certain relief from the unexpectedness of their sufferings.
+
+4.2. But then, all that had been before ventured—some having themselves performed it, some having seen it, and some learning it accurately at least from recent report—and much that in the interval, in the expectation of the like, some had conceived as men who would do it, and some had dreaded as men who would suffer it,
+
+4.3. the one party afforded the greatest monstrousness both by their emulation of the former deeds and by their zeal therefrom for somehow making innovations in their plots by ingenuity, while the others, reckoning up all that they could suffer, were worn away much in their souls and before their bodies, as though already involved in them.
+
+5.1. And in this respect they fared more grievously than before, also because then the enemies of Sulla and of the powerful men about him alone perished, while of his friends and of the rest of mankind none was destroyed at least at his bidding, so that, save the very rich (for to these there is never any peace with the stronger in such matters),
+
+5.2. the rest were of good courage; but in these second slaughters not only their enemies and the rich, but even their very
+
+5.3. friends were slain, and that beyond expectation. For scarcely anyone, or no one, had come into enmity with those men from any private cause, so as to be slain by them; but the public affairs and the shifting agreements of the dominations had wrought for them both their friendships and their violent enmities.
+
+5.4. For all who had aided or cooperated with one’s neighbour, the other party reckoned in the rank of an enemy; and so it came about that the same men had become both friends to some one of them and enemies to all, so that, while each privately took vengeance on those who had plotted against him, they jointly destroyed even their dearest.
+
+5.5. For, from their dealings with one another, setting the friendly and the alienated in a kind of reckoning, none of them was able to take vengeance on his own enemy, who was the friend of another, without giving another in exchange; and out of the anger for what had happened and the suspicion of what was to come, counting the safety of a comrade as nothing against the avenging of a foe, they readily gave them up in exchange.
+
+6.1. And thereupon they handed over to one another their dearest in place of their bitterest enemies, and their most hostile in place of their closest comrades, in one case equals for equals, in another more for one, or again fewer for more, conducting everything in the manner of a market, and outbidding
+
+6.2. as in an auction. For if one man was found of equal worth to one other, so as to balance, the exchange was a simple one; but as many as some merit or rank or even kinship enhanced in value, were given up for more. For, inasmuch as it was amid civil wars, which had gone on for a long time and through many actions, many had come into collision even with their very kinsmen along factional lines.
+
+6.3. Indeed, with Antony his uncle Lucius Caesar, and with Lepidus his brother Lucius Paulus, had been at war. But these were saved, while of the rest many were slain at the hands of their very friends and intimates, by whom above all they had expected both to be saved and to be honoured.
+
+6.4. For, that no one, fearing to be deprived of the rewards—because Marcus Cato, when quaestor, had required of those who had killed certain men in Sulla’s time all that they had taken for it—should be the less ready to kill, they proclaimed that they would enroll none of them
+
+6.5. in the public records. So for this reason they slew the rest the more readily, and the wealthy too, even if they were hostile to none of them; for, needing very great sums, and having no other source from which to fulfil the desires of the soldiers, they took up a kind of common enmity against the
+
+6.6. rich. And many other lawless things were done on this account; and they even brought a young boy among the ephebes, that he might die as one already counted among the men.
+
+7.1. These things were done chiefly by Lepidus and by Antony (for, having been honoured by the former Caesar for a very long time, and having held office and commands for the longest while, they had many enemies),
+
+7.2. though it seemed to be done by Caesar too, by reason of his partnership in the power; since he himself had no need to kill any great number. For he was not cruel by nature, and had been reared in the ways of his father. Moreover, being young and but newly coming into affairs, he had no other necessity to hate many violently, and he wished to be
+
+7.3. loved. A proof is that, from the time when he was freed from his joint rule with those men and held the power alone, he did no such thing again. And even then, so far from destroying many, he even saved very many, treating most harshly those who betrayed their masters or their friends, and most mildly those who
+
+7.4. aided some. The proof is this: Tanusia, a distinguished woman, first hid her husband Titus Vinius, who had been proscribed, in a chest with a certain freedman, Philopoemen, so as to give credence that he was dead; and after that, watching for a public festival which a kinsman of hers was to celebrate, she contrived, through Octavia his sister, that Caesar alone of the three should enter the theatre,
+
+7.5. and there, rushing in, she revealed to him, who knew nothing of it, what had been done, and, bringing in the chest itself, brought her husband forth from it, so that Caesar in admiration released them all (for death had been proclaimed against those who concealed anyone), and even enrolled Philopoemen in the order of the knights.
+
+8.1. He, then, saved many, as many as he could; and Lepidus permitted his brother Paulus to escape to Miletus, and was not implacable toward the others; but Antony cruelly and pitilessly slew not only those who had been posted but even those who attempted to aid any of them.
+
+8.2. And he would inspect their heads, even if he chanced to be at dinner, and gorged himself at the greatest length upon their most unholy and most piteous sight. And Fulvia herself put many to death, both out of enmity and for the sake of money, and some not even known to her
+
+8.3. husband; at any rate, seeing the head of one of them, he said, ‘This man I did not know.’ When, then, the head of Cicero too was once brought to them (for, fleeing and being overtaken, he had been slain), Antony, after reproaching him with many bitter things, then ordered it to be set out on the Rostra more conspicuously than the rest, that, where he had been heard haranguing against him, there he might be seen, together with his right
+
+8.4. hand, just as it had been cut off; while Fulvia took the head into her hands before it was carried off, and, after venting her bitterness against it and spitting upon it, set it upon her knees, and, opening its mouth, drew out the tongue and pierced it with the pins she used for her hair, jeering at it the while with many foul taunts.
+
+8.5. And yet these men too nevertheless saved some, from whom indeed they received more money than they expected to find on their deaths; and, that the spaces of their names on the lists might not be empty, they inscribed others in their stead. Save that Antony released his uncle, his mother Julia having earnestly entreated for him, he did no other good deed.
+
+9.1. Of many kinds, then, on account of these things, were the slaughters, and of many forms too the deliverances that came to some. For many perished even at the hands of their dearest, and many were saved by their bitterest enemies. Some slew themselves; others the very men who came upon them as though to kill them released. Some who betrayed masters or friends were punished, and others for this very thing were honoured; and of those who preserved certain men, some paid the penalty and some received
+
+9.2. rewards. For, inasmuch as not one man but three were doing everything with a view to the desire of each and to his own private interest, and reckoned neither the same men as enemies or friends, but were eager that he should often be saved whom one of them wished to perish, and again that he should be destroyed whom the other wished to survive, many and various things came to pass, according as they happened to have goodwill or hatred toward someone.
+
+10.1. I shall, then, pass over the going through of all these things accurately in detail (for it would be a very great labour, and would furnish nothing of importance to my narrative), but I shall relate those which I judge most worthy of memory.
+
+10.2. On the one hand, a certain man, having hidden his master in a country house, then, when even so he was about to perish on the information of someone else, exchanged clothes with him, and in them went forward to meet those who came as though he himself were that man, and was slain; and so they turned away, thinking they had killed the man they wanted, while he, after their
+
+10.3. departure, escaped elsewhere. On the other hand, another man likewise exchanged his whole apparel with his master, and himself entered a covered litter and made his master carry it; and thereupon, being caught, the one was slain without even being seen, while the other, as a
+
+10.4. litter-bearer, was saved. These things, perhaps, those men repaid in return for some prior benefit to those who had done them good; but a branded slave not only did not betray the man who had branded him, but even very eagerly saved him. For when, while carrying him off somewhere, he was detected and pursued, he killed a man who chanced to meet him, and, giving his clothing to his master, laid the body on a pyre,
+
+10.5. while he himself, taking his master’s dress and ring, met the pursuers, and, pretending that he had killed his master in flight, was believed both from the spoils and from the brands, and at once both saved him and was himself honoured.
+
+10.6. These things, then, attach to no remembrance of a name; but Hosidius Geta was saved by his son, who arranged a kind of funeral for him as though he were dead; and Quintus Cicero, the brother of Marcus, was stolen away by his son, who saved him so far as in him lay.
+
+10.7. For he himself hid his father so that he was not found, and, though racked with all tortures for this, betrayed nothing; but his father, learning what was happening, and at once admiring and pitying his son, came forth voluntarily into the open and delivered himself up to the slayers.
+
+11.1. Of virtue and piety, then, such notable deeds occurred at that time; but Popillius Laenas slew Marcus Cicero, though
+
+11.2. he was his benefactor, having once defended him in court, and, that he might gain credence for having killed him not by being heard only but by being seen, he set up an image of himself, crowned, near Cicero’s head, bearing his name and his deed inscribed. And so much did this please Antony for this reason that he received even more
+
+11.3. money than had been promised. Marcus Terentius Varro did no wrong, but, being of the same name as one of the proscribed save for a single appellation, and fearing lest on this account, like Cinna, he suffer something, he posted a notice declaring this very thing;
+
+11.4. he was tribune. And he incurred delay and ridicule over this; but the instability of life was demonstrated from that case too, in that Lucius Filuscius, having before been proscribed by Sulla and escaped, was then again inscribed on the list and died, while Marcus Valerius Messala, condemned to death by Antony, not only lived in safety but was even afterwards appointed consul in place of that very man.
+
+11.5. Thus many survive out of the most desperate circumstances, and from those who are in good heart no fewer perish; and on this account a man ought neither to be cast down into hopelessness at his immediate misfortunes nor to be lifted up into heedlessness by his momentary joy, but, setting his hope of the future in the middle, toward both extremes, to make his reckonings secure on either side.
+
+12.1. At that time, then, these things were so, and very many of those not proscribed perished besides, both through enmity and for money, while very many of the proscribed not only survived but even returned again, and some of them held offices. And their retreat was to Brutus and Cassius and
+
+12.2. Sextus. And the greater number took refuge with Sextus; for, having before been chosen to command the fleet and having for some time held power on the sea, he had surrounded himself with a force of his own—though afterwards deprived of the office by Caesar—and, having seized Sicily, then, when he too was proscribed and the other slaughters were going on, he greatly aided
+
+12.3. those in like case. For, lying off Italy near at hand, he sent messages to Rome and to the other cities, promising both other things to those who saved anyone and double what was offered to the slayers, and to the victims themselves promising reception and aid and money and honours.
+
+13.1. Whence many came to him. For I have not even now written the number either of the proscribed or of the slain or of those who escaped, because many of those first inscribed on the lists were erased, and many afterwards inscribed in their stead, and of these too not a few were saved while many others were destroyed.
+
+13.2. And these men had not even the liberty to mourn, but many perished from this cause too. And at last, as their calamities overcame all their feigning, and no one even of the very manly was able to hold out against them, but in all other respects, both in deeds and in words, they wore a gloomy face, and at the beginning of the year were not going, as is the custom, to celebrate the festival, they were bidden by proscription to be of good cheer, on pain of death if they should not obey; so that, as though over good things, they were compelled to rejoice in the common evils.
+
+13.3. And why have I said this, when even to those three men they voted, among other things as benefactors and saviours of the city, the civic crowns also? For they did not deign to be charged with the fact that they slew some men, but wished to be praised besides for not having slain
+
+13.4. more. And once they even said openly to the people that they had emulated neither the cruelty of Marius and Sulla, so as to be hated, nor again the clemency of Caesar, so as to be despised and thereby plotted against.
+
+14.1. Such things happened concerning the slaughters; and many strange things also befell concerning the properties of the rest. And yet to the wives of the slain they promised to give their dowries, and to the children—to the males a tenth, to the females a twentieth of the property of each—as though they were just and humane men.
+
+14.2. But neither were these things given, save in a few cases, and the property of the rest was utterly plundered without fear. For, on the one hand, they exacted a year’s rent of all the houses both in the city and in the rest of Italy—of those that some had let out, the whole, and of those they dwelt in themselves, half, according to the value of the lodging; on the other hand, from those who held lands they took
+
+14.3. half of the revenues of them. And besides they made the soldiers receive their food without charge from the cities in which they wintered, and, sending them throughout the country, ostensibly against the confiscated estates and those of men still resisting (for these too, because they had not removed within the day proclaimed to them, they declared enemies), they plundered all the rest besides.
+
+14.4. For, that the soldiers, having their pay even before their service, might furnish them all eagerness, they permitted them to do these things and promised to give them cities and lands; and over this they appointed for them at once land-distributors and founders of colonies. The mass of the soldiers, then, were attached to them by these means; while of the more notable men they enticed some by the possessions of the slain—lowering the prices of some, and bestowing some on them gratis—and others
+
+14.5. they honoured with offices and priesthoods. For, in order that without fear they themselves might take the fairest both of the lands and of the buildings, and might give to those men whatever they wished, they proclaimed that none of the rest who did not wish to buy should come to the auction, and that, if any did so, he should die. And those men they so handled that they should detect nothing, and should buy at the very highest price what they needed, and on this account should no longer wish to buy.
+
+15.1. Concerning the possessions, then, this was so done; but the offices and priesthoods of those put to death they distributed not according to the custom of the laws, but as somehow seemed good to them. And they appointed
+
+15.2. consuls—Caesar having resigned his office (for that which he had so desired as even to make war for it, this he willingly gave up), and his colleague having died—appointing someone else and Publius Ventidius, though he was praetor, and into his praetorship they brought one of the
+
+15.3. aediles; and after this they deposed all the praetors, who were still in office for five days, and sent those men to the governorships of provinces, and substituted others in their place. And some laws they erased and others they inscribed in their stead. And, to put it briefly, they did everything else just as somehow seemed good to
+
+15.4. them; for, while they did not lay claim to the envied titles which had on that account been abolished, they conducted affairs according to their own will and desire, so that the monarchy of Caesar appeared to be gold. That year, then, they did these things thus, and voted a temple to Sarapis
+
+16.1. and to Isis; and in the consulship of Marcus Lepidus and Lucius Plancus lists were again posted, bringing death now to no one, but stripping the properties of the living;
+
+16.2. for, needing money besides—inasmuch as they owed much beforehand to many soldiers, and were spending much on the things being done by them, and reckoned that they would expend far more on the expected wars—they were collecting money.
+
+16.3. Nevertheless, the matter of the taxes that had once before been abolished but were then again brought back or established anew, and that of the contributions, many of which they exacted both on land and on slaves, grieved men in some moderate degree;
+
+16.4. but that those who were even in any degree well off—not only of the senators or the knights, but even of the freedmen, and of men and women alike—should be inscribed on lists and have a kind of new tithe levied on them,
+
+16.5. vexed all exceedingly. For in word the tenth of his property was exacted from each of them, but in deed not even the tenth was left to anyone; for, since they were ordered to contribute not a fixed sum of money proportionate to the value of their possessions, but the assessments of their own estates were left to them, and thereupon they were accused of not having assessed them rightly, they lost
+
+17.1. the rest besides. And if any somehow escaped this, yet, being confined into a narrow space by the levies and being terribly in want of money, they too were in a manner deprived of everything. And indeed another thing of this kind, grievous
+
+17.2. to hear and most grievous to be done, came to pass; for to whoever of them wished it, it was granted, after giving up his whole property, to demand the third part of it afterwards—that is, to receive nothing and besides to have trouble. For, since the two parts were openly plundered by force, how could one have received back the third, especially as they were sold for the least possible price?
+
+17.3. For, on the one hand, since many things were auctioned at once, and most men were without gold and without silver, while the rest did not dare to buy, as though they had means, lest they lose that too, the prices fell; on the other hand, to the soldiers everything was sold far below its worth.
+
+17.4. So that of the private men no one saved anything worth mentioning; for, besides the rest, the senators gave slaves for the fleet, even buying them if some did not have them, and repaired the roads at their own expense. Only those who held the arms grew exceedingly rich.
+
+17.5. For not even sufficient for them was their pay, full though it was, nor the contributions from without, vast though they were, nor the rewards of the murders, the greatest ever given, nor the possessions of the lands that had in a manner come to them as gifts; but besides this, some both demanded and received the whole properties of the deceased, while others forced their way into the families of the living—old men and childless—
+
+17.6. still. For to such a pitch of insatiableness and shamelessness did they advance that one of them even asked from Caesar himself the property of Attia, Caesar’s mother, who died at that time and was honoured with a public burial.
+
+18.1. These things, then, those three men did, and at the same time exalted the former Caesar to the utmost. For, inasmuch as they aimed at the monarchy and were hastening toward it, they pursued his remaining
+
+18.2. murderers in anger, in order thereby to prepare beforehand from afar both impunity for what they were doing and safety; and they zealously did all that conduced to his honour, in expectation that they too might one day be deemed worthy of the like; and on this account they both glorified him by the things voted and added others that they then
+
+18.3. appended. For on the first day of the year they themselves swore, and bound the others by oath, to hold valid all that had been done by him (and this is done even now in the case of all who from time to time hold the power, or of any who have ever held it and have not been
+
+18.4. dishonoured), and they laid the foundations of a shrine to him both in the Forum and in the place where he had been burned, and sent some image of him in the chariot-races along with another of Venus. And if any victory was announced from anywhere, they apportioned an honour of a religious festival separately to the victor and separately to him, dead though he was.
+
+18.5. And on his birthday they compelled all to celebrate, wearing laurel and rejoicing, having enacted by law that the rest who neglected these things should be accursed to Zeus and to him, while the senators and their sons should incur a fine of twenty-five myriads.
+
+18.6. And since it happened that on the same day the Apollonia also took place, they voted that his birthday be celebrated on the day before, as though some Sibylline oracle forbade any god then to be honoured except
+
+19.1. Apollo. These things, then, they gave him, and the day on which he was slain, which had always held an authorized seat of the senate, they reckoned an unlucky day. And the building in which he was slain they at once closed, and afterwards converted into a privy; and they built the senate-house, called Julian after him, by the place called the Comitium, as had been
+
+19.2. voted. Besides this they forbade any image of him, as though of one truly a god, to be carried in the funerals of his kinsmen—which from very ancient times was still then done—and they prohibited that anyone fleeing for refuge to his shrine should, in safety, either be banished
+
+19.3. or plundered—a thing which they had granted to none even of the gods, save those of Romulus’ time. And yet even that place held its asylum in name only, after the gathering of the men, without the reality of it; for it was so fenced about that no one at all could any longer enter into it.
+
+19.4. To Caesar, then, they gave these things, and to the Vestal Virgins the use of a lictor each, because one of them, returning home toward evening from a dinner, had been unrecognized and insulted. And they appointed the offices in the city beforehand for several years, both honouring their own adherents through them, and strengthening their affairs for the longer term by the successions of those who would hold office.
+
+20.1. Having done these things, Lepidus remained there, to govern the city and the rest of Italy, as I have said, while Caesar and Antony took the field. For Brutus and Cassius at first, after the agreement with Antony and the others that had been made with them, both went into the Forum and administered their praetorships in the
+
+20.2. same order as before; but when some began to be displeased at the murder of Caesar, they withdrew, ostensibly hastening to the foreign offices that had been assigned them. And yet Cassius was city praetor, and had not yet celebrated the Apollonia; but these he carried out most splendidly even in his absence, through his colleague Antony, while he himself
+
+20.3. did not at once sail from Italy, but, lingering in Campania with Brutus, watched what was happening. And they even sent certain letters to Rome, inasmuch as they were praetors, to the people, until Octavianus Caesar began both to take affairs into his hands and to win over the
+
+20.4. multitude. Then, at once despairing of the democracy and fearing him, they set out. And the Athenians received them brilliantly; for they were honoured by almost all others too for what they had done, but the Athenians even voted them bronze statues beside that of Harmodius and that of Aristogeiton, as having become emulators of them.
+
+21.1. And in this time, learning that Caesar was rising to greater power, they neglected the Cretans and Bithynians, against whom they were being sent, seeing in them no aid worth mentioning, but turned to Syria and Macedonia—though these in no way belonged to them—because at the time they were at the height in money
+
+21.2. and in forces. And Cassius set out to the Syrians as being acquaintances and friends of his from the campaign with Crassus, while Brutus organized Greece and Macedonia. For, both from the renown of their deeds and on hope of the like, men attached themselves to him;
+
+21.3. and because he had taken on and held many soldiers, some of them still wandering thereabouts from the battle at Pharsalus, and some left behind, either through sickness or disorder, from among those who had gone out with Dolabella; and money came to him from Asia
+
+21.4. from Trebonius. The Greek lands, then, with very little trouble, since they had no considerable force, he won over; and he came into Macedonia at that very time when Gaius Antonius had just arrived and Quintus Hortensius, who had previously governed it, was about
+
+21.5. to be relieved—yet he had no trouble there. For Hortensius at once joined him, and Antonius, prevented by Caesar’s ascendancy in Rome from doing any of the things belonging to his command,
+
+21.6. was weak. And Vatinius governed the neighbouring Illyrians, and, coming from there, had seized Dyrrachium beforehand, and was at variance with him along factional lines; yet he was unable to harm him, for the soldiers, vexed with him and besides despising him because of sickness,
+
+21.7. went over. Taking these too, then, Brutus marched against Antonius, who was in Apollonia, and, when Antonius came out to meet him, won over the soldiers, and walled him in when he fled for refuge into the fortress and took him alive by treachery, but did him no harm.
+
+22.1. Having done these things, and afterwards adding all Macedonia and Epirus, he wrote to the senate, declaring what he had done and placing both himself and the provinces and the soldiers at
+
+22.2. its disposal. And they—for they chanced to be already suspicious toward Caesar—strongly praised him and bade him govern all the regions there. So, when he had confirmed his command by the decree as well, he himself was more zealous, and had his subjects cooperating with him
+
+22.3. without pretext. And for a while, sending to Caesar, at the time when Caesar seemed to be making war on Antony, he counselled him to oppose that man and to be reconciled with himself, and he himself prepared to sail to Italy, because the senate had summoned him;
+
+22.4. but when Caesar firmly held affairs in Rome and was openly avenging his father’s murderers, he remained where he was, and considered how he might well defend himself against him should he come upon him, and administered Macedonia excellently in all else, and reduced to order the armies that had been stirred to faction against him by Antonius.
+
+23.1. For that man, though not even deprived by Brutus of the praetorian array, was not content to keep quiet in safety and honour, but worked at a defection among Brutus’ soldiers;
+
+23.2. and, being detected at this before he had done any great mischief, and deprived of the insignia of his praetorship and handed over to a free custody, that he might attempt no revolution, he did not even so keep quiet, but innovated more than before, so that some of the soldiers came to blows with one another, and some even set out against him to Apollonia, that they might
+
+23.3. snatch him away. And this they were not able to do; for Brutus, learning beforehand from certain intercepted letters what would happen, secretly led him away, putting him as though sick into a covered litter; and, being unable to find him and fearing Brutus, they seized a hill
+
+23.4. above the city. And Brutus, bringing them to terms, and putting to death a few of the boldest while dismissing others from the campaign, so disposed them that they themselves arrested and killed those who had been dismissed as most responsible for the faction, and demanded the surrender of the quaestor and the lieutenants of
+
+24.1. Antonius. Brutus, then, gave up none of these men to them, but, putting them into ships as though about to drown them, sent them off to safety; and, fearing lest, learning of the doings in Rome reported in an ever more alarming form, they should
+
+24.2. change again, he left Antonius in Apollonia, handing him over to a certain Gaius Clodius to guard, while he himself, taking the greatest and strongest part of the army, withdrew into upper Macedonia, and from there afterwards sailed into Asia, that he might both lead them as far as possible from Italy and maintain them from the
+
+24.3. subjects there. And in this time he won over other allies besides, and Deiotarus, although he was exceedingly old and had refused aid to Cassius. While he tarried there, Gellius Poplicola plotted against him, and his brother Marcus attempted to snatch away Antonius, sending certain men;
+
+24.4. and this man Clodius killed, since he could not keep him safe, whether of his own judgement or by Brutus’ instruction; for a report holds that at first he made every account of his preservation, but afterwards, learning that Decimus had perished, set it at naught.
+
+24.5. And Gellius was detected, but suffered nothing dreadful; for Brutus, having always reckoned him among his dearest, and knowing his brother Marcus Messala to be very devoted to Cassius, released him. And Gellius attacked Cassius too, but suffered no harm even then.
+
+24.6. The reason was that his mother Polla, learning beforehand of the plot, and fearing both for Cassius lest he be forestalled (for she loved him exceedingly) and for her son lest he be detected, of her own will revealed the plot beforehand to Cassius and received in return the safety of her son. She did not, however, make him better; for he deserted from his benefactors to Caesar and to Antony.
+
+25.1. Brutus, then, as soon as he learned both of Marcus Antonius’ attempt and of his brother’s murder, feared lest some other innovation be made in Macedonia during his absence, and at once, hastening into Europe, took over the territory that had been Sadalas’ (for he, dying childless, had left it to the Romans),
+
+25.2. and, invading the Bessi, both to take vengeance on them for their depredations and to gain for himself the name and dignity of imperator, that thereby he might more easily make war upon Caesar and Antony, accomplished both, Rhascuporis a certain prince aiding him most of all. From there, coming into Macedonia and strengthening everything there, he was conveyed back again into Asia.
+
+25.3. Brutus did these things, and on the coins he struck he stamped an image of himself and a cap of liberty and two daggers, declaring both by this and through the letters that he had, with Cassius, set his country free.
+
+26.1. In those same times Cassius crossed over into Asia to Trebonius, forestalling Dolabella, and, receiving money from him, and many of the horsemen whom Dolabella had sent forward into Syria, attached to himself also many others both of the Asians
+
+26.2. and of the Cilicians. And thereupon he brought over to his alliance Tarcondimotus and the Tarsians, even against their will; for so kindly disposed toward the former Caesar, and through him toward the latter, were the Tarsians that they even renamed themselves Juliopolis after him. Having done these things, then, Cassius came into Syria and without a fight won over all the affairs both of the peoples and of the
+
+26.3. armies. And the state of things in Syria at that time was as follows. Caecilius Bassus, a knight, having served with Pompey and withdrawn to Tyre, there made his abode in the trading-quarter, unobserved. And Sextus governed the Syrians; for to him, being both his quaestor and his kinsman, Caesar had entrusted all matters there during his march from Egypt against
+
+26.4. Pharnaces. Bassus, then, at first kept quiet, content if anyone would let him live; but when some men in like case gathered to him, and he attached to himself, now some, now others, of Sextus’ soldiers who came to the guarding of the city, and many dreadful things
+
+26.5. were reported from Africa concerning Caesar, he was no longer content with present things, but began to innovate, either taking part with the party of Scipio and Cato and the Pompeys, or surrounding himself with some power of his own. And, detected by Sextus before he had made his preparations, he said that he was gathering aid for Mithridates of Pergamum against the Bosporus,
+
+26.6. and, being believed, was released. And so afterwards he forged certain letters as though sent to him by Scipio, and from them announced that Caesar had been defeated and had perished in Africa, and that the command of Syria had been assigned to
+
+26.7. himself. And thereupon he seized Tyre with the men he had prepared beforehand, and from there, advancing against Sextus’ camps, fell in with him and, being defeated, was wounded. Suffering this, he made no further trial of him by main force, but, sending to the soldiers, in a certain manner so won over some of them that they became the slayers of Sextus.
+
+27.1. On his death he attached to himself the whole army save a few (for those wintering in Apamea he pursued when they had withdrawn beforehand into Cilicia, but did not win them over), and, returning into Syria, was named general and strengthened Apamea, that it might become a base
+
+27.2. for his war. And he levied not only the free population but even that of the slaves, and gathered money and prepared arms. While he was doing these things, a certain Gaius Antistius shut him up in a siege. And after this, contending evenly, and neither party being able to gain any strong advantage, they broke off in a truceless cessation, with a view to the bringing in of
+
+27.3. allies. And to Antistius came partisans of Caesar from the surrounding country, and soldiers sent by him from Rome; while to Bassus came Alchaudonius the Arab. For this man, having before, as I have related, made terms with Lucullus, and afterwards joined the Parthians against
+
+27.4. Crassus, was then summoned by both parties, and, coming into the space between the city and the camps, before answering them, proclaimed his alliance, and, when Bassus outbid in money, aided him and in the battle greatly prevailed by his archers.
+
+27.5. And the Parthians too came, summoned by Bassus, yet did not stay long with him because of the winter, and on this account accomplished nothing worth mentioning. And he, having held out for some time, was then again shut up by Marcius Crispus and Lucius Staius Murcus.
+
+28.1. Such being the state of their affairs, Cassius, coming upon them, at once won over all the cities both by the renown of what he had done in his quaestorship and by his other repute, and added to himself the armies both of Bassus and of the others
+
+28.2. without any trouble. And while he was encamped in one place with all of them, a sudden great rain came down from heaven, and in the midst of it wild boars rushed into the camp by all the gates at once and threw into confusion and disorder everything in it, so that some men inferred from this both his present strength and his subsequent
+
+28.3. downfall. Having taken over Syria, then, he set out into Judaea, learning that the soldiers left in Egypt by Caesar were approaching, and won over both them
+
+28.4. and the Jews without effort. And after this he sent away Bassus and Crispus and the others who had been unwilling to serve with him, doing them no wrong, while to Staius he preserved the dignity with which he had come, and besides entrusted to him the fleet.
+
+28.5. Thus Cassius too became strong with speed, and wrote to Caesar concerning a settlement, and to the senate concerning present matters, in like manner as Brutus. And on this account the senate confirmed to him the command of Syria and voted him the war against
+
+29.1. Dolabella. For this man had been appointed to govern Syria and had made his departure while consul, but, being long in being conveyed through Macedonia and Thrace into the province of Asia, he tarried
+
+29.2. there. And when, while he was still there, the decree was announced to him, he did not advance toward Syria, but, remaining where he was, so handled Trebonius that he gave him the appearance of the greatest goodwill, both receiving his food for the soldiers from him willingly and
+
+29.3. spending his life fearlessly with him. And when by these means he had come to be in security, and kept no guard upon himself, he seized Smyrna, in which they were, suddenly by night, and, killing him, threw his head before Caesar’s image, and thereupon held all
+
+29.4. Asia. Learning of this, the Romans at home proclaimed war against him; for not yet had Caesar either defeated Antony or got affairs in the city into his hands. And to those with Dolabella they set a fixed day for the cessation of friendship with him, that they too might not be reckoned in the rank of
+
+29.5. enemies; and the opposing of him and the war against him they assigned, as a whole, to the consuls, to be made when they should have set present matters right (for they did not yet know that Cassius held Syria), but, that he might not in the meantime grow to greater power, they entrusted it to the governors of the bordering
+
+29.6. provinces; and after this, learning the matters concerning Cassius, before anything at all had been done by those governors, they voted these things which I have mentioned.
+
+30.1. Dolabella, then, having thus become master of Asia, came into Cilicia while Cassius was in Palestine, and, winning over the Tarsians of their own will, conquered some of his garrisons that were in Aegeae,
+
+30.2. and invaded Syria. And from Antioch he was repulsed by those garrisoning it, but Laodicea he won over without a fight on account of their friendship, which they had toward the former Caesar. And, having for some days been strong from these (for, among other things, the fleet came to him quickly from Asia), he crossed over to Aradus, that from them too he might get both money and
+
+30.3. ships; and there, being cut off with a few men, he was in danger. Escaping, however, he met Cassius advancing, and, engaging him, was defeated. And, shut up in Laodicea, he was besieged, being utterly cut off from the mainland (for, among others, certain Parthians also came to Cassius’ aid),
+
+30.4. though strong in his ships, both the Asian and the Egyptian, which Cleopatra sent him, and besides in the money that came from her—until Staius equipped the fleet, and, sailing into the harbour of the Laodiceans, overcame those who put out against him
+
+30.5. and shut off the sea from him as well. Then, being cut off on both sides from the bringing in of provisions, he made a sally for want of necessaries, but, being quickly thrust back to the wall, and seeing it betrayed, feared lest he be taken alive and made away with himself. And this very thing Marcus Octavius, his lieutenant, did too.
+
+30.6. And these men were deemed worthy of burial by Cassius, although they had cast out Trebonius unburied; and those who had served with them and survived obtained both safety and immunity, though they had been reckoned enemies by the Romans at
+
+30.7. home. The Laodiceans too suffered no harm save a contribution of money. Nor indeed did anyone else, though many afterwards plotted against Cassius, suffer punishment.
+
+31.1. While these things were being done, the Tarsians attempted to bar the passes of Taurus against Tillius Cimber, who was both a murderer of Caesar and at the time governor of the Bithynians and was hastening to Cassius’ aid; but, abandoning the passes beforehand out of fear, they at once made terms with him, thinking him strong, but afterwards, perceiving the fewness of his soldiers, neither received him into the city nor furnished him provisions.
+
+31.2. And when, after fortifying a stronghold against them, he set off for Syria, holding the aiding of Cassius preferable to the taking of the city himself, they marched against this and reduced it, and set out against the people of Adana, who bordered them and were always at variance with them, making the pretext that they were acting
+
+31.3. in Cassius’ cause. Learning of this, he—first, while Dolabella was still alive, sending Lucius Rufus against them, and afterwards coming himself—did them no other harm (for they had already gone over to Rufus without a fight), but took away their money, both private
+
+31.4. and public, all of it. And thereupon the Tarsians received praises from the three men (for they now held affairs in Rome) and hope of recovering something in place of what they had
+
+31.5. lost; and Cleopatra, on account of the alliance she had sent to Dolabella, obtained that her son, whom she named Ptolemy, but pretended she had borne by Caesar and on this account called Caesarion, should be styled king of Egypt.
+
+32.1. Cassius, when he had settled affairs both in Syria and in Cilicia, came into Asia to Brutus. For, when they had learned of the conspiracy of the three men and perceived what was being done by them against themselves, they came together there and
+
+32.2. communicated their affairs still more; for, having the same cause for war and expecting the same danger, and not even then departing from their resolve on behalf of the people’s liberty, and being eager to overthrow besides those men, inasmuch as they were three and were doing such things, they far more eagerly both deliberated and did everything in
+
+32.3. common. And as a whole they resolved to go into Macedonia and prevent them from crossing over thither, or even to cross over beforehand into Italy; but since the others were said to be still settling affairs in Rome, and were thought likely to have occupation with Sextus, inasmuch as he was lying in wait for them near at hand,
+
+32.4. they did not at once do these things, but, going about themselves and sending others, won over those not yet of one mind with them and gathered money and soldiers.
+
+33.1. And to them all the rest in that quarter, even those before holding aloof, at once made terms; but Ariobarzanes and the Rhodians and the Lycians, while not otherwise resisting, were nevertheless unwilling to ally themselves with
+
+33.2. them. Suspecting, then, that they favoured the opposite party, since they had been well treated by the former Caesar, and fearing lest they too, when they themselves had departed, should make some disturbance and join in detaching the rest, they formed the resolution to turn first against them, hoping that, inasmuch as they far surpassed them in arms and were lavish in their benefactions, they would in a short time
+
+33.3. persuade or even force them. And Cassius conquered the Rhodians—though they were of such pride in their fleet as to sail across to the mainland against him beforehand and to display to them the fetters they brought, as though they would take many alive—defeating them in a sea-battle, first off Myndus, then at Rhodes itself, through Staius, overcoming their experience by the number and the size of his
+
+33.4. ships; and after this, crossing over himself into the island, he did them no other harm (for they did not resist him, and he had goodwill toward them from the time he had spent there in his education), but stripped them of their ships and their money and their secular and sacred treasures, save the chariot of the Sun. And after this, seizing Ariobarzanes, he put him to death.
+
+34.1. Brutus both conquered in battle the common army of the Lycians that met him at the borders, and took at the first shout the fortress into which it fled together with them, and of the cities won over most without a fight, but shut up Xanthus in a siege.
+
+34.2. And when they suddenly ran out and threw fire into the engines, hurling arrows and javelins at once, he came into the utmost danger. And he would have perished, with his whole force, had not the soldiers, thrusting through the very fire, fallen upon them unexpectedly as they fought light-armed, and dashed them back to the
+
+34.3. wall, and themselves, bursting in along with them, threw fire into certain houses, and beforehand both astounded those who saw what was happening and gave to those at a distance the impression that they had taken everything outright; for thereupon the natives of their own will burned up the rest besides and the greater number made away with
+
+34.4. one another. After this Brutus came to Patara, and invited them to friendship; but when they did not obey (for both the slaves and the poorer of the free, the former having gained their freedom and the latter the abolition of debts, prevented them from coming to terms), he first sent them the captives of the Xanthians (for many were related to them by marriage), in the hope of winning them over through these;
+
+34.5. but when they yielded none the more, although he gave back each man’s kinsmen gratis, he set up an auction in safety under the very wall, and, bringing forward one by one the foremost men, proclaimed them for sale, in the hope that at least by this he might bring over the Patarans. But when not even then did they come over to him, he sold a few and dismissed the
+
+34.6. rest. Seeing this, those within no longer held out, but at once went over to him as a man of virtue, suffering no penalty save in money. And this the Myreans too did, when, having taken their general at the harbour, he released him. And thus he won over the rest also in a short time.
+
+35.1. Having both done these things, then, they came again into Asia, and, after laying open into the midst and apart all the suspicions they had toward one another from slanders, such as are wont to arise in such matters, and composing them, they hastened into
+
+35.2. Macedonia. And Gaius Norbanus and Decidius Saxa forestalled them, crossing the Ionian Sea before Staius came, and seizing beforehand all the land as far as Pangaeum, and encamping near Philippi.
+
+35.3. This city lies near both Pangaeum and Symbolum; for they call ‘Symbolum’ the place at which that mountain joins another stretching toward the interior, and it lies between Neapolis and Philippi; for the one is by the sea, opposite Thasos, while the other has been built within the mountains upon the
+
+35.4. plain. And since Saxa and Norbanus had seized beforehand the shortest passage over it, by this Brutus and Cassius did not even attempt to cross, but, going round by another longer one near the place called Crenides, met a guard there too,
+
+35.5. and, forcing it, came within the mountains, and, advancing toward the city along the heights, there encamped, each apart—so to speak, in word; for in deed they bivouacked
+
+35.6. in one. For the camps were set in two parts, that the soldiers might be more orderly and easier to command, but, since the whole space between them too was enclosed with a ditch and a palisade, the whole circuit of both became one, and they had in common the security from it.
+
+36.1. And they were far superior in number to the enemies then present, and on this account, having driven them out, they seized Symbolum, and from there both brought in their provisions over a shorter distance from the sea and obtained them by running down into the
+
+36.2. plain. For Norbanus and Saxa did not even dare to engage them with their whole force, but, sending out cavalry to make raids where it was practicable, accomplished nothing; rather, they themselves made their camp on the defensive rather than in danger, and in haste sent for Caesar and
+
+36.3. Antony. For these, while they learned that Cassius and Brutus were occupied with the Rhodians and the Lycians, thought they would make war upon them for a longer time, and did not hurry, but sent Saxa and Norbanus forward into
+
+36.4. Macedonia; but, perceiving that these were beaten, they gave the Lycians and Rhodians praises and promised them money, and themselves at once set out from the city, but lingered—Antony near Brundisium (for he was shut in by Staius), and Caesar near Rhegium (for he had turned aside beforehand against Sextus, who held Sicily and was making attempts on Italy).
+
+37.1. When, then, Sextus seemed to them not to be reducible, and the affairs of Cassius and Brutus pressed them more, they left a part of the army for the guarding of Italy, and with the greater part
+
+37.2. crossed the Ionian Sea in safety. And Caesar, falling sick, was left behind at Dyrrachium, while Antony marched to Philippi, and at first furnished some strength to his own party, but, having ambushed certain of the enemy who were bringing in grain and
+
+37.3. having failed, he too was no longer of good courage. Caesar, then, learning this and fearing each issue—whether he should be worsted if he engaged alone, or even should prevail (for from the one he thought Brutus and Cassius, from the other Antony, would in any case become strong against himself)—hastened, though still
+
+37.4. ailing at that time. And thereupon Antony’s party took heart; but since it seemed unsafe for them not to bivouac all together, they brought their three armies together into one place and one fortification.
+
+37.5. And as they lay over against one another, sallies and counter-sorties on both sides took place as it chanced, but no pitched battle was joined for some time, although both Caesar and Antony were very eager to engage;
+
+37.6. for they were stronger in forces than the enemy, and were not equally well supplied with provisions, because of their not controlling the sea, inasmuch as their fleet was warring against Sextus.
+
+38.1. These men, then, both on this account and on account of Sextus, who held Sicily and was making attempts on Italy, lest, if they delayed, he should seize Italy and come into Macedonia,
+
+38.2. were eager. But Cassius and Brutus, while not otherwise shrinking from the battle (for, by as much as they were inferior in the strength of their soldiers, by so much they had the advantage in number), yet, reckoning up both the others’ circumstances and their own (for allies came to them every day, and they had abundant provisions from their ships),
+
+38.3. kept putting it off, in the hope of somehow prevailing without danger and the destruction of any; for, being precise lovers of the people and contending against fellow-citizens, they considered the others no less than their own men, and desired alike to furnish to both
+
+38.4. safety and freedom. For some time, then, on this account they held back, being unwilling to come to blows with them;
+
+38.5. but when their armies, being for the most part drawn from the subject peoples, both burdened by the delay and despising their adversaries—because they performed within the fortification, as though afraid, the purification that takes place before battles—rushed toward the fight and kept saying that, if they were further detained, they would abandon the camp and disperse, then at last, even against their will, they engaged.
+
+39.1. One might not unreasonably reckon this contest the greatest of all the civil wars that befell the Romans—not because it surpassed them in the numbers or the valour of the combatants (for in many places far more and better men fought), but because they then fought, as never before, for liberty and democracy.
+
+39.2. For they came together again with one another, as before; but those former contests they waged over whom they should obey, whereas then the one party was leading them toward a domination, and the other was striving to set them free. Whence the people did not even after that rise up to genuine freedom of speech, although it was defeated by no foreign foe
+
+39.3. (for the subject and allied force that then came to them was but an appendage of the civic one), but, becoming at once both stronger and weaker than itself, both tripped itself and was tripped, and thereby both consumed the democratic element and strengthened the
+
+39.4. monarchical. And I do not say that it did not profit them to be defeated then; for what else could one say of them, fighting on both sides, than that the Romans were conquered but Caesar prevailed? For to be of one mind in the established form of the constitution they
+
+39.5. were no longer able; for it is not possible that an unmixed democracy, advanced to so great a bulk of empire, should be temperate; but, undertaking many like contests again upon many, they would certainly at some time have been enslaved or destroyed.
+
+40.1. It is possible also from the portents that then befell them to infer that the contest manifestly became the greatest for them; for the divine power, just as it is always wont to foreshow the most monstrous events, foretold to them accurately, both in Rome and in Macedonia, all that would result from it.
+
+40.2. For in the city the sun now was lessened and became very small, now appeared both great and threefold, and once even shone forth by night; and thunderbolts were borne to many other places and to the altar of Zeus Nicaeus; torches darted here and there, and the sounds of trumpets and the clashing of arms and the cries of armies were heard by night from the gardens of Caesar and of Antony, which adjoined one another by the
+
+40.3. Tiber. And besides, a dog dragged the body of another dog to the temple of Demeter, and dug the earth with its paws and buried it. And a little child was born having hands with ten fingers each, and a mule brought forth a double monster; for its forequarters resembled a horse, and the rest a mule.
+
+40.4. And the car of Athena, returning from a horse-race toward the Capitol, was shattered, and the image of Zeus that was on the Alban Mount sent forth blood, at the very festival, from its right shoulder and
+
+40.5. from its right hand. These things, then, were foreshown them by the divine power; and rivers in their land—some failed altogether, others began to flow backward. And it seemed that things done by men also chanced to concur to the same end;
+
+40.6. for at the festival the city prefect performed the Latiar rites, which neither otherwise belonged to him nor were wont to take place at that season, and the aediles celebrated for the populace contests of gladiators to Demeter instead of the horse-race.
+
+40.7. In Rome, then, these things happened, and certain oracles too, both before and at the time, were sung as tending to the overthrow of the democracy; and in Macedonia—for both Pangaeum and the land about it are reckoned to belong to it—many bees encompassed the camp of Cassius, and at his purification someone set the wreath upon him backwards,
+
+40.8. and a boy in a procession, such as the soldiers conduct, bearing a Victory, fell. And what most of all signified their destruction, so as to be manifest even to their adversaries, many vultures and many other carrion-eating birds wheeled above them alone and looked down upon them, screeching and chattering something dreadful and shuddersome.
+
+41.1. To these, then, these things bore the evil; but to the others no portent, so far at least as we know, occurred,
+
+41.2. but visions of dreams of this sort appeared. A Thessalian man thought that the former Caesar had bidden him tell Caesar both that the battle would be on the next day, and that he should take up some one of the things which Caesar himself had worn when dictator; and on this account he both put on his ring then at once and afterwards often
+
+41.3. wore it. This man, then, saw this; while the physician who was with Caesar thought that Athena enjoined him to lead Caesar—though still grievously ill—out of his tent and to set him in the battle-line; by which very thing he was saved. For that which to the rest, remaining in the camp and its fortification, brings safety, but to those going out to arms and battles brings danger,
+
+41.4. this, in Caesar’s case, was then reversed; for from his going out from the entrenchment and from his presence among the combatants he most conspicuously survived—although he stood with difficulty and without his arms, by reason of his weakness.
+
+42.1. It was done thus. They did not agree when they would make the battle, but, as though by some appointed signal, all at once armed themselves at dawn, and went forward at leisure into the space between them, like combatants, and there in quiet drew up their lines.
+
+42.2. And when they had taken their stand opposite one another, exhortations were made—now to the assembled mass, now to individuals—on both sides, by the generals and by the lieutenants and the lesser officers, who said much that was necessary for the immediate danger and much that suited what was to come after, such as men would say who were both about to risk all at once and were taking thought beforehand for the
+
+42.3. future. And in all else most alike were the speeches, inasmuch as Romans, with their allies, were on both sides alike; but they differed in that the party of Brutus put forward to their men liberty and democracy and freedom from tyranny and from a master,
+
+42.4. and set forth the good things in equality before the law and the strange things in monarchy—all that they themselves had suffered or had heard of concerning others—showing both side by side point by point, and beseeching them to grasp at the one and shun the other, and to conceive a
+
+42.5. love of the one and guard against suffering the other; while the others counselled their army to avenge the murderers and to take the possessions of their adversaries, and conceive the desire to rule all their kindred, and—what most of all strengthened them—they promised besides to give them five thousand drachmas each.
+
+43.1. And thereupon first the watchwords passed through them (and to Brutus’ party it was ‘Liberty,’ and to the others whatever was given), then a single trumpeter on each side gave the signal,
+
+43.2. and so the rest sounded in answer—first those who in a circular place sounded forth on the trumpets both the halting-note and the note of preparation, then the others who roused the spirit of the soldiers and urged them on to the encounter. And after this there was suddenly a great silence, and, holding back a little, they themselves cried out piercingly and the ranks on
+
+43.3. both sides shouted in answer. And thereupon the heavy infantry, raising the war-cry, struck their shields with their spears and hurled them at one another, and the slingers and the archers let fly missiles and stones. And after this the cavalry charged in answer, and the cuirassiers following them came to close quarters.
+
+44.1. And they used much thrusting and much sword-play, at first looking to see how they might wound others and how they themselves might not be wounded (for they wished both to kill those who stood against them and to save themselves), but afterwards, as their impetus grew and their spirit was inflamed, going recklessly to close quarters and making no longer any care for their own safety, but, in their desire to destroy their adversaries, throwing themselves away as well.
+
+44.2. And some cast away their shields, and, laying hold of those drawn up against them, some throttled them by the helmets and struck them on the back, while others tore away the defences and smote them on the breast. Others, seizing the swords of their enemies, thrust their own at them as though against unarmed men; and others, exposing some part of their bodies to be wounded, more readily made use of the
+
+44.3. rest. And some, grappling together, both deprived themselves of the power to strike one another and perished in the interlocking both of swords and of bodies. And some died by a single blow, some by many, and they had neither sensation of their wounds—for death forestalled the pain—nor made any lament over their destruction, for they did not reach the point of grief.
+
+44.4. Another, having killed someone, in his immediate exultation did not expect even ever to die; and he who from time to time fell both passed into insensibility and gained no comprehension of his suffering.
+
+45.1. And both sides remained exactly in their places, and neither used either feigned retreats or pursuits, but there, as they stood, they wounded and were wounded, slew and were slain, until far on in the
+
+45.2. day. And if all had been mingled with all, as happens in such a case, or if Brutus had been arrayed against Antony and Cassius against Caesar, they would have been evenly matched. But as it was, Brutus prevailed against Caesar’s weakness, and Antony overcame Cassius, who was nothing
+
+45.3. like him in matters of war. And then, by reason of not all the one side being engaged at once, but both parties being in turn both defeated and victorious, it came, so to speak, to the same thing; for both conquered and were conquered, and each routed those arrayed against them and were routed, and the pursuits and the flights happened alike for both, and the camps on both sides were
+
+45.4. taken. For they covered the plain over the greatest extent, inasmuch as they were many, so that they could not see one another; and neither in the battle did each man know anything except his own part, and, when the rout took place, each party fled in the opposite direction, without turning, to their own fortifications, which stood far apart from one
+
+45.5. another, and from this and from the dust, which became immense, they were ignorant of the outcome of the battle, and the victors thought they had wholly conquered and the vanquished that they had wholly been conquered, and they did not learn what had happened before both the entrenchments were thoroughly plundered and the victors, each withdrawing to his own quarter, met one another.
+
+46.1. As regards the battle itself, then, both sides thus both conquered and were conquered; for they did not even come to blows again then, but, as soon as in the return they saw one another and learned what had happened, they marched past, neither party venturing
+
+46.2. anything. And they had the advantage and the disadvantage of one another in this—that the entrenchment of Caesar and Antony, whole, and all that was in it, was taken (whence the dream most of all gained its confirmation; for if Caesar had remained in his place, he would certainly have perished along with the rest),
+
+46.3. and in that Cassius, saved from the battle but deprived of his fortification and escaping elsewhere, suspecting both that Brutus too had been worsted and that some of the victors were coming upon
+
+46.4. him, hastened to his death. For he sent a centurion to reconnoitre and report to him where Brutus was and what he was doing; but when that man, falling in with horsemen whom Brutus had sent to seek him, turned back and came at leisure with them, as though nothing were pressing, inasmuch as there was nothing dreadful, Cassius, seeing them from afar, suspected
+
+46.5. them to be enemies, and ordered a certain freedman, Pindarus, to kill him. And to him the centurion too, learning that through his slowness he had perished, died after him.
+
+47.1. Brutus, then, at once secretly sent the body of Cassius to Thasos, shrinking from burying it on the spot, lest he cast at once both grief and despondency upon the army from the sight of what was being done;
+
+47.2. and, taking over the rest of his soldiers, and both consoling them with words and recovering them by a gift of money in place of what they had lost, he moved his camp to their entrenchment, which was more suitable, and, making his sallies from there, both harassed the enemy in other ways and engaged their camp by night.
+
+47.3. For he did not intend to come to a pitched battle with them again, but, having much hope of mastering them without danger in time, he sought otherwise to throw them into uproar and confusion by night, and once even, diverting the river, flooded much of their fortification.
+
+47.4. But Caesar and Antony were short of food and money, whence they gave the soldiers nothing in place of what had been plundered; and besides they lost the force coming over from Brundisium in transports, through
+
+47.5. Staius. Yet, being unable to remove safely either to any other place or to be conveyed back to Italy, but placing even then their hopes—not of victory but of safety—in their arms alone, they were eager even to hazard all before the disaster at sea should be made known both to their own men and to the
+
+48.1. enemy. And since Brutus was unwilling to engage them, they threw, after a fashion, papers into his rampart, inviting the soldiers either to take their side (for they promised them certain things) or to come to blows, if they had even the slightest
+
+48.2. strength. And in this delay there deserted both from them to Brutus certain men of the Celtic force, and there deserted to them Amyntas, the general of Deiotarus, and Rhascuporis. And the latter at once withdrew home, as some say; and Brutus, fearing from these things lest some further innovation be made,
+
+48.3. resolved to engage them. And since there were many captives in his camp, and he had no means either of keeping them under guard at the moment of battle or of trusting them not to do any mischief, he destroyed the greater part, enslaved by necessity and against his judgement, especially because the enemy had killed those of his soldiers taken
+
+48.4. alive. Having done this, he armed himself. And as they were now arrayed against one another, two eagles, flying over both armies, fought with one another and foreshowed to them the outcome of the war; for just as the eagle on Brutus’ side was worsted and fled, so his heavy infantry, after fighting evenly for the longest while, was defeated, and thereupon, when many had fallen, his cavalry too, although fighting
+
+48.5. gallantly, gave way. And after this the victors pursued them as they fled in different directions, yet neither killed nor took any of them, but, beleaguering them by night each in his place, did not allow them to gather together again.
+
+49.1. Brutus, then, attempted to break through somehow into his camp (for he had fled for refuge to a certain strong place), but, being unable, and learning besides that some of the soldiers had come to terms with the victors, he had no longer any hope, but, despairing of safety and disdaining capture, he too fled for refuge to death. And, crying aloud this saying of Heracles,
+
+49.2. ‘O wretched Valour, thou wert then but a word, yet I practised thee as a deed; but thou, it seems, wast a slave to fortune,’ he called upon one of those with him to kill him. And the rest of his body obtained burial from Antony, but his head was sent to Rome, and, falling into a storm in the voyage from Dyrrachium, was cast into the
+
+49.3. sea. On his death the mass of the soldiers at once went over, immunity having been proclaimed to them; and Porcia, swallowing a live coal,
+
+49.4. died. And of the foremost men who had held some offices, or were still among the murderers and the proscribed, the greater part either killed themselves at once or, being taken, perished, as did Favonius; while the rest then escaped to the sea and afterwards attached themselves to Sextus.

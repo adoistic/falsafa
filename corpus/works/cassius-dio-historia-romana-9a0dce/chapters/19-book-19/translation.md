@@ -1,0 +1,448 @@
+---
+work_id: "9a0dcedc-b0a6-5daa-aef5-fd72231a522e"
+work_slug: "cassius-dio-historia-romana-9a0dce"
+work_title: Historia Romana
+author_name: Cassius Dio
+chapter_number: 19
+chapter_title: Book 19
+chapter_slug: "19-book-19"
+variant_id: "ce25a0dc-bf60-5a8c-8fd7-8a46a50952a6"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 11902
+translator: thothica
+---
+
+arg. The following is contained in the fifty-fourth book of Dio's Roman History. 1. How curators of the roads were appointed from the ex-praetors. 2. How curators of the corn-supply were appointed from the ex-praetors. 3. How Noricum was taken. 4. How Raetia was taken. 5. How the maritime Alps began to obey the Romans. 6. How the theatre of Balbus was dedicated. 7. How the theatre of Marcellus was dedicated. 8. How Agrippa died and Augustus acquired the Chersonese. 9. How the Augustalia were established. Length of time: thirteen years, in which the magistrates here counted held office: Marcus Claudius Marcellus Aeserninus, son of Marcus, and Lucius Arruntius, son of Lucius, consuls; Marcus Lollius, son of Marcus, and Quintus Aemilius Lepidus, son of Marcus, consuls; Marcus Apuleius, son of Sextus, and Publius Silius Nerva, son of Publius, consuls; Gaius Sentius Saturninus, son of Gaius, and Quintus Lucretius Vespillo, son of Quintus, consuls; Gnaeus Cornelius Lentulus, son of Lucius, and Publius Cornelius Lentulus Marcellinus, son of Publius, consuls; Gaius Furnius, son of Gaius, and Gaius Junius Silanus, son of Gaius, consuls; Lucius Domitius Ahenobarbus, son of Gnaeus, grandson of Gnaeus, and Publius Cornelius Scipio, son of Publius, grandson of Publius, consuls; Marcus Livius Drusus Libo, son of Lucius, and Lucius Calpurnius Piso Frugi, son of Lucius, consuls; Marcus Licinius Crassus, son of Marcus, and Gnaeus Cornelius Lentulus, son of Gnaeus, consuls; Tiberius Claudius Nero, son of Tiberius, and Publius Quintilius Varus, son of Sextus, consuls; Marcus Valerius Messalla Barbatus, son of Marcus, and Publius Sulpicius Quirinius, son of Publius, consuls; Paulus Fabius Maximus, son of Quintus, and Quintus Aelius Tubero, son of Quintus, consuls; Iullus Antonius, son of Marcus, and Africanus Quintus Fabius, son of Quintus, consuls.
+
+1.1. In the year following, in which Marcus Marcellus and Lucius Arruntius were consuls, the city was again flooded when the river overflowed, and many things were struck by thunderbolts, including the statues in the Pantheon, so that the spear even fell from the hand of Augustus. Distressed, then, both by the disease and by the
+
+1.2. famine (for a pestilence visited all Italy, and no one tilled the land — and I think the same thing befell in the regions outside as well), the Romans, thinking that these things had befallen them for no other reason than that they did not have Augustus as consul at that time also, wished
+
+1.3. to appoint him dictator, and, shutting up the senate in the senate-house, compelled it to vote this, threatening to burn them, and afterwards, taking the twenty-four rods, approached him, begging him at once both to be named dictator and to become curator of the corn-supply, as Pompey once had been.
+
+1.4. And he accepted the latter charge of necessity, and ordered that two men of those who had been praetors at least five years before should be chosen each year for the distribution of the corn; but the dictatorship he refused, and even rent his garments besides, since he was unable in any other way to restrain them, neither by speaking
+
+1.5. nor by entreaty. For having both power and honour even above the dictators, he rightly guarded against the odium and the hatred
+
+2.1. of their appellation. And he did this same thing when they wished to elect him censor for life; for he did not undertake the office, but at once appointed other censors, Paulus Aemilius Lepidus and Lucius Munatius Plancus — the latter a brother of that Plancus who had been proscribed, and Lepidus himself one who had then been
+
+2.2. condemned to death. These were the last private men to hold the censorship together, as indeed was at once shown to them; for the platform from which they were to do some part of their duties collapsed when they mounted it on the first day of their office and was shattered, and after this no others equal to them held the censorship
+
+2.3. together. And even then Augustus, although they had been chosen, did many of the things pertaining to their office. Of the public banquets he abolished some altogether, and reduced others to greater moderation. And he assigned all the festivals to the praetors, ordering that something from the treasury
+
+2.4. be given them, and forbidding besides that anyone spend at them from his own means more than another, or hold a gladiatorial combat at all unless the senate should vote it, nor more often than twice in each year, nor with more than a hundred and twenty men; and to the curule aediles he entrusted the quenching of fires, giving them six hundred slaves as helpers.
+
+2.5. And since knights and women of distinction had even then exhibited themselves on the stage, he forbade not only the sons of senators, which had indeed been prohibited before, but also the grandsons, those at least who were reckoned in the equestrian order, to do any such thing any longer.
+
+3.1. And in these matters he displayed both the form and the title of lawgiver and of emperor, but in the rest he was moderate, so as even to
+
+3.2. be present when certain of his friends were on trial. When a certain Marcus Primus was charged with having made war on the Odrysae while governor of Macedonia, and said now that he had done it by the will of Augustus, now by that of Marcellus, Augustus came of his own accord to the court, and, being asked by the praetor whether he had ordered him to make war,
+
+3.3. denied it. And when Licinius Murena, who was pleading for Primus, threw out other unbecoming remarks against him, and asked, 'What, then, are you doing here, and who summoned you?' he answered only this, 'The public interest.' For this he was praised by the right-minded, so as even to receive the right of convening the senate as often as he wished, but some of the others despised
+
+3.4. him. At any rate not a few acquitted Primus, and others formed a conspiracy against Augustus. Fannius Caepio became its leader, and others took part in it; and Murena too was said to have conspired with them — whether truly or through calumny — since he used unmixed and excessive frankness toward all
+
+3.5. alike. And since they did not await their trial, they were condemned in their absence as fugitives, and were slain not long after, nor did either Proculeius, who was Murena's brother, or Maecenas, who was wedded to his sister, avail him, though they were both held in the first honour by Augustus.
+
+3.6. And since some of the judges had even acquitted these men, he made a law that the votes should not be cast in secret in trials held in absence, and that the accused should be convicted by all of them. And that he ordained this not out of anger but as profitable
+
+3.7. to the state, he strongly showed; for when the father of Caepio freed one of the slaves who had fled with his son, because he had wished to defend him as he was dying, but led the other, who had betrayed him, through the middle of the Forum with placards declaring the cause of his being put to death, and afterwards crucified him,
+
+3.8. Augustus was not indignant. And he would have cured all the complaint of those displeased with what had been done, had he not also looked on while sacrifices, as for some victory, were both voted and offered.
+
+4.1. At that time, then, he gave back both Cyprus and Narbonensian Gaul to the people, as needing none of his arms; and so proconsuls
+
+4.2. began to be sent to those provinces too. And he dedicated the temple of Jupiter surnamed the Thunderer; concerning which these two things are handed down — that at the time of its consecration there were thunderclaps, and that afterwards the following dream came to Augustus. For since men — partly because of the strangeness both of the name and of the appearance, partly because
+
+4.3. it had been set up by Augustus, but most of all because they encountered it first as they went up to the Capitol — approached it and worshipped it, he thought that the Jupiter in the great temple was angry, as being relegated to the second place, and on this account he said that he told him that he had the Thunderer
+
+4.4. as a guardian; and when day came, he hung a bell upon the statue, confirming the dream; for those who watch the tenements by night carry bells, that they may be able to give a signal whenever they need.
+
+5.1. In Rome, then, these things happened; but about this same time the Cantabri and the Astures made war again, the latter because of the wantonness and cruelty of Carisius, the Cantabri because they perceived the others making revolution and despised their governor, Gaius Furnius, since he had recently arrived and since they thought him inexperienced in their
+
+5.2. affairs. Yet he did not prove such to them in deed, but both, being defeated by him (for he came to the aid of Carisius too), were enslaved. And of the Cantabri not many were captured; for, since they had no hope of freedom, they did not even wish to
+
+5.3. live, but some, having first burned their strongholds, cut their own throats, others were burned together with them of their own accord, and others took poison publicly, so that the greater and the fiercest part of them perished; but the Astures, as soon as they were driven off from besieging a certain place and afterwards defeated in battle, no longer held out, but were at once subdued.
+
+5.4. About this same time the Ethiopians who dwell above Egypt advanced as far as the city called Elephantine, ravaging everything in their path, under the leadership of Candace; but learning that Gaius Petronius, the governor of Egypt, was somewhere approaching, they withdrew beforehand as though to escape, but being overtaken on the road were defeated, and thereupon drew him into
+
+5.5. their own country. And having fought well there too, he took both other cities and Napata, their royal seat. And it was razed, and a garrison was left in another place; for Petronius, being able neither to advance further because of the sand and the heat, nor to remain in the country with his whole army, withdrew, taking the greater part of it
+
+5.6. with him. And in the meantime, when the Ethiopians attacked the garrison, he marched against them again and rescued his men and compelled Candace to come to terms with him.
+
+6.1. While these things were happening, Augustus went to Sicily, in order to set in order both it and the rest of the regions as far as Syria. And while he was still there the people of the Romans, electing the consuls, raised faction, so that from this too it was shown that it was impossible for them, being a democracy, to be
+
+6.2. saved. For having control of some small matter both in the elections and in the offices themselves, they raised an uproar. For one place was being reserved for Augustus, and on this account Marcus Lollius at the beginning of the year held office alone; and when Augustus did not accept it, Quintus Lepidus and Lucius Silvanus canvassed for it, and so threw everything into confusion that Augustus
+
+6.3. was even recalled by the prudent. But since he did not return, but, when they came to him, sent them away with a rebuke, ordering that the vote be taken in the absence of both of them, they were no whit the more quiet, but disputed again very fiercely, so that Lepidus was at last elected, late.
+
+6.4. Augustus, then, being indignant at this, and able neither to attend to Rome alone nor to dare to leave it without a head, sought someone to set over it, and judged Agrippa most
+
+6.5. suitable for this, and, wishing to invest him with a greater dignity, that he might the more easily rule them thereby, summoned him, and, having compelled him, though his wife was Augustus's niece, to put her away and marry Julia, sent him at once to Rome both for the marriage and for the management of the city — for these reasons, and because Maecenas, when Augustus consulted him about these very matters, is said to have said, 'You have made him so great that he must either
+
+6.6. become your son-in-law or be slain.' And Agrippa, finding the rest of affairs still inflamed, set them in order, and again checked the Egyptian rites that were creeping into the city, forbidding anyone to perform them even in the suburb within one eighth of a stade; and when a disturbance arose about the election of the prefect of the city who is chosen for the festal recess, he did not master it, but they got through that year without this office.
+
+7.1. He, then, was thus engaged; but Augustus, having ordered the other affairs in Sicily, and having made Syracuse and certain other cities Roman colonies, crossed over to Greece.
+
+7.2. And he honoured the Lacedaemonians with Cythera and the public mess, because Livia, when she fled from Italy with her husband and son, had stayed there; but from the Athenians, as some say, he took away Aegina and Eretria — for they enjoyed the revenues of them — because they had favoured Antony, and besides forbade them to make any man a citizen for
+
+7.3. money. And it seemed to them that for these reasons the thing that befell the statue of Athena pointed; for, set up on the Acropolis facing the east, it turned itself toward the west and spat blood.
+
+7.4. Augustus, then, having settled the affairs of Greece, sailed to Samos and there passed the winter, and, having come into Asia in the spring in which Marcus Apuleius and Publius Silius were consuls, ordered all the affairs both there and in
+
+7.5. Bithynia, not making light of these provinces because they belonged to the people, even as he had of the former, but taking very great care of them all as though they were his own; for he both set right all else that was fitting, and gave money to some, while to others he ordered to contribute beyond the
+
+7.6. tribute. And the people of Cyzicus, because in a faction they had scourged and slain certain Romans, he enslaved. And this same thing he did to the Tyrians and Sidonians too, because of their factions, when he came into Syria.
+
+8.1. And in the meantime Phraates, fearing that he might march against him, because he had not yet done any of the things agreed upon, sent back to him both the standards and the captives, save a few who from shame had made away with themselves or had remained behind in the country
+
+8.2. unnoticed. And Augustus received them as though he had conquered the Parthian in some war; for he prided himself greatly on these things, saying that what had once been lost in the battles had been recovered without a struggle.
+
+8.3. At any rate he both ordered that sacrifices be voted for them and that a temple of Mars the Avenger be built on the Capitol, in imitation of that of Jupiter Feretrius, for the dedication of the standards, and built it, and moreover rode into the city on a charger and was honoured with a triumphal arch.
+
+8.4. These things were done for them later; but at that time he himself, having been chosen curator of the roads about Rome, set up the so-called Golden Milestone, and appointed road-makers for them from the ex-praetors, who used two lictors each.
+
+8.5. And Julia bore the child named Gaius, and a perpetual sacrifice of oxen was granted for his birthday; and this took place by decree, as did the rest; but privately the aediles held a horse-race on the birthday of Augustus and a slaughter of beasts.
+
+9.1. In the city, then, these things were done; but Augustus administered the subject territory according to the customs of the Romans, but allowed the allied territory to be governed in its ancestral fashion; and he did not think it right either to add anything to the latter or to acquire anything else, but deemed it proper to be content exactly with what he had,
+
+9.2. and this he wrote to the senate also. So that he touched no war at that time, but gave to Iamblichus the son of Iamblichus the ancestral kingdom of the Arabians, and to Tarcondimotus the son of Tarcondimotus the kingdom of Cilicia which his father had held, save certain places by the sea; for those he bestowed on Archelaus together with Lesser Armenia, because the Mede who had previously
+
+9.3. reigned over it had died. And to Herod he entrusted a certain tetrarchy of Zenodorus, and to a certain Mithridates Commagene, though he was still a boy, because the king of it had slain his father.
+
+9.4. And when the other Armenians accused Artaxes and sent for his brother Tigranes, who was in Rome, he sent Tiberius to expel the one from the kingdom and restore the other to it.
+
+9.5. And nothing was done worthy of his preparation; for the Armenians slew Artaxes beforehand; yet Tiberius, especially since sacrifices were voted for it, gave himself airs
+
+9.6. as though he had done something through valour. And he was already thinking even of the monarchy, since, as he was approaching Philippi, a certain noise was heard from the place of the battle as from a camp, and fire blazed up of itself from the altars set up by Antony in his
+
+9.7. entrenchment. Tiberius, then, prided himself on these things; but Augustus returned to Samos and there passed the winter again, and gave the people there freedom as the reward of his stay,
+
+9.8. and managed not a few other matters besides. For very many embassies came to him, and the Indians, having previously sent heralds, then made a treaty of friendship, sending gifts, among them tigers, then seen for the first time by the Romans, and, I think, by the Greeks too. And they also gave him a youth without shoulders, such as we see the Hermae,
+
+9.9. and yet, being such, he used his feet for everything as though they were hands, and with them stretched a bow and shot arrows and blew a trumpet — how, I do not know;
+
+9.10. for I write what is reported. And one of the Indians, Zarmarus, whether because he was of the class of the sophists and on this account out of ambition, or because of his age according to the ancestral custom, or for a display to Augustus and the Athenians (for he went thither too), wishing to die, was initiated into the mysteries of the Two Goddesses — the mysteries being held, though not at the proper season, as they say, on account of Augustus, who had himself been initiated — and gave himself alive to the fire.
+
+10.1. In that year, then, Gaius Sentius was consul; but since his colleague had to be appointed besides (for Augustus did not even then accept the office reserved for him), faction again broke out in Rome and slaughters occurred, so that the senate voted Sentius a
+
+10.2. guard. And since he would not use it, they sent envoys to Augustus, each with two lictors. So he, learning this and perceiving that there would be no end of the evil, no longer treated them as before, but appointed as consul Quintus Lucretius, one of the very envoys, though he had been entered among the proscribed, and himself
+
+10.3. hastened to Rome. And for these things and for the others done in his absence many and various honours were voted to him; of which he accepted none, save that an altar should be set up to Fortune the Home-Bringer (for so they called her) and that the day on which he should arrive be reckoned among the holy days
+
+10.4. and named the Augustalia. And since even so the magistrates and the others had prepared to go out to meet him, he was conveyed into the city by night, and on the next day gave Tiberius the rank of the ex-praetors, and permitted Drusus to seek the offices five years sooner than was customary.
+
+10.5. And since he did not approve all that they had done while raising faction in his absence and through fear in his presence, he was, forsooth at their request, elected curator of morals for five years, and received the power of the censors for the same time and that of the consuls for life, so as to use the twelve rods always and everywhere and to sit on the curule chair in the midst of the consuls of the year.
+
+10.6. And having voted these things, they asked him to set everything right and to make whatever laws he wished, and from that time on they called the laws to be written by him Augustan, and wished to swear to abide by them. But the rest he accepted as necessary, but remitted the oaths
+
+10.7. to them; for he well knew that, if they should vote anything from conviction, they would keep it even if they did not swear, but if not, they would prefer none of it, even if they should bring forward ten thousand pledges.
+
+11.1. Augustus, then, did these things, and one of the aediles voluntarily resigned his office through poverty; but Agrippa, when, having been sent then to Rome from Sicily, he had managed the urgent affairs,
+
+11.2. was assigned to the Gauls; for they were both in faction with one another and harassed by the Celts. And having set those affairs in order, he passed over to Spain; for the Cantabri who had been taken alive in the war and sold had each slain their masters, and, returning to their own country, had made many revolt with them, and with them, having seized places and fortified themselves, were plotting against the Roman
+
+11.3. garrisons. Agrippa, then, having marched against these, had some trouble even with his soldiers; for not a few of them, being older and worn out by the continuance of the wars, and fearing the Cantabri as hard to war against,
+
+11.4. did not obey him. But these men, partly by admonishing, partly by encouraging, and partly by holding out hope, he quickly made obedient, but against the Cantabri he stumbled much; for they used both experience of affairs, since they had been slaves to the Romans, and despair of being any longer saved if taken.
+
+11.5. At last, however, having lost many of his soldiers and disgraced many because they were defeated (for among other things he forbade a whole legion surnamed Augusta to be so called any longer), he destroyed nearly all the enemy who were of military age, and took away the arms of the rest
+
+11.6. and brought them down from the strongholds into the plains. Yet he neither wrote anything to the senate concerning them, nor accepted the triumph, though it had been voted at Augustus's order, but in these matters he was moderate as was his wont, and once, being asked his opinion by the consul concerning his brother,
+
+11.7. did not give it. And the water called Parthenian, which he brought in at his own expense, he named Augusta. And so greatly did Augustus rejoice in him that once, when there was a scarcity of wine and men cried out dreadfully, he said that Agrippa had taken sufficient forethought that they should never perish of thirst.
+
+12.1. Such a man, then, was he; but of the others some, not indeed doing the same things as he, but some by catching brigands and some by reconciling cities in faction, both reached out for triumphs and
+
+12.2. celebrated them. For Augustus at first bestowed these too freely on some, and honoured very many with public burials. So that those men were made splendid by these things, while Agrippa was in a manner advanced by him toward
+
+12.3. sole rule. For Augustus, since the common affairs needed exact attention, and he feared lest, as is wont to happen in such cases, he be plotted against (for he thought that the small and slight breastplate which he often had under his robe even when entering the very senate-house would little
+
+12.4. avail him), first himself added five years of the presidency, since the ten-year term was running out (for this happened in the consulship of Publius and Gnaeus Lentulus), and then gave Agrippa both certain other powers in a manner equal to his own and the tribunician power
+
+12.5. for the same time. For he said that these years would suffice them; for not long after he received also the other five years of the imperial leadership, so that they became ten again.
+
+13.1. Having done these things, he examined the senate; for they seemed to him still too many (and in the multitude he saw nothing sound), and he held in hatred not only those of evil reputation but also those who were conspicuous for
+
+13.2. flattery. And since neither did anyone willingly withdraw as before, nor did he himself wish to incur blame alone, he himself chose out thirty of the best men, which he confirmed by oath, and ordered them, having first sworn the same oath, to choose by groups of five, save their kinsmen, writing the names on tablets.
+
+13.3. And after this he drew lots for the groups of five, so that one in each, the one on whom the lot fell, should himself be a senator and should enter five others on the same terms. The thirty too had to be both among those chosen by the others and among those drawn by lot. And since some of them were abroad, others, having drawn the lot in their place, did what fell to them.
+
+13.4. At first, then, these things were thus done over several days; but when some malpractice was committed, he no longer made the tablets dependent on the quaestors, nor any longer entrusted the groups of five to the lot, but himself both chose the rest and himself added those who were lacking, so that in all about six hundred
+
+14.1. were appointed. For he had wished to make them three hundred according to the ancient number, thinking it very desirable that so many be found worthy of their council; but when all alike were displeased (for, since those who would be struck off were to be far more than those who would remain in it, it came about that they feared rather lest they become private citizens than expected that they would be senators), he enrolled the
+
+14.2. six hundred. And not even there did he stop, but afterwards too, since some unfit men had been enrolled even then, and a certain Licinius Regulus, indignant that he had been struck off while his son and many others, than whom he claimed to be better, had been retained, rent his garments in the very
+
+14.3. senate-house, and, baring his body, recounted his campaigns and showed them his scars besides, and Articuleius Paetus, being among those who were to be senators, begged that he might yield his seat to his father, who had been struck off, he made another examination of them, and, dismissing
+
+14.4. some, enrolled others in their place. And since many even so were struck off, and some held him in blame, as is wont to happen in such a case, as though they had been unjustly expelled, he allowed them then both to view the games together with the senators and to feast with them, using the same dress, and permitted them thereafter to seek the offices.
+
+14.5. And of them the greater part returned in time to the senate, but a few were left in between, reckoned as neither of the senate nor of the people.
+
+15.1. These things, then, having so happened, many men were charged, some at once and some afterwards, with plotting against both him and Agrippa, whether truly or
+
+15.2. falsely. For it is not possible for those outside such affairs to know them exactly; for many things which the ruler does for punishment, as though plotted against, whether through himself or through the senate, are suspected of having been done out of spite, even if they come about most
+
+15.3. justly. And on this account I too am of the mind to record concerning all such matters the very things that are said, adding nothing beyond what is published, save what is very evident, neither busying myself further nor surmising, neither whether anything was done justly or unjustly, nor whether it has been
+
+15.4. told falsely or truly. And let this be said by me concerning what shall be written hereafter too; but in the present case Augustus punished certain men, but Lepidus he hated both for other reasons and because his son had been detected plotting against him and had been punished, yet he did not wish to put him to death, but in one way at one time, in another at another,
+
+15.5. insulted him. For he ordered him, even against his will, to come down to the city from the country, and always brought him into the assemblies, that he might incur as much mockery and outrage as possible at the change of his power and dignity; and he employed him for nothing else as though worthy of any account, and then put the vote to him last of the
+
+15.6. ex-consuls. For the others he put to the vote in the regular order, but of the ex-consuls one first and another second and a third and a fourth, and the rest likewise, as he wished; and this the consuls did too. Thus,
+
+15.7. then, he handled Lepidus; and when Antistius Labeo entered him among those who were to be senators, at the time when that decision was being made, Augustus first said that he had committed perjury and threatened to punish him, but then, when Labeo said, 'And what dreadful thing have I done in retaining in the council a man whom you even now overlook
+
+15.8. as still being chief priest?' he showed no further anger; for though often deemed worthy of this priesthood both in private and in public, he had not thought it right to take it while Lepidus lived. Antistius, then, was thought to have said this not unseasonably, and once, when words were passing in the senate that Augustus ought to be guarded by them in turns, he said, neither daring to gainsay nor enduring to consent, 'I snore, and cannot sleep at his door.'
+
+16.1. Augustus, then, made other laws too, and shut up for five years those who had bribed in connexion with the offices. And on the unmarried men and the husbandless women he laid heavier penalties, and on the other hand set rewards for marriage and the begetting of
+
+16.2. children. And since the males of the well-born were far more than the females, he permitted those who wished, save the senators, to marry even freedwomen, ordering that their begetting of children be lawful.
+
+16.3. And in the meantime, when there was an outcry in the senate concerning the disorderliness of the women and of the young men, by way of some excuse that the unions of marriage were not readily made on this account, and when they urged him to set this too right, jeering because he kept company with many women,
+
+16.4. he at first answered them that the most necessary points had been determined, but that the rest could not likewise be prescribed; then, being forced, he said, 'You yourselves ought both to advise your wives and to command them whatever you wish; which I too
+
+16.5. do.' Hearing this, then, they pressed him much the more, wishing to learn the admonitions which he said he gave to Livia. And he, unwillingly, said something about their dress and the rest of their adornment and their goings forth and their temperance, taking no thought at all that he did not confirm these things by his deed.
+
+16.6. And another thing of this sort he had done while censor; for when a man brought before him a youth who had married a woman taken in adultery, and made very many accusations against him, he was at a loss, daring neither to overlook the matter nor to punish anything, and at last, late, recovering himself, said, 'The factions have brought many dreadful things, so that let us forget them and take forethought for the future, that nothing of the kind
+
+16.7. happen.' And since some, by betrothing infants, enjoyed the honours of married men but did not render the substance of marriage, he ordained that no betrothal should be valid after which the man would not marry within two years — that is, that one who would gain anything from it must by all means betroth a girl of ten; for twelve full years, as I said, are reckoned for girls to be of marriageable age.
+
+17.1. These things, then, he severally enacted, and ordained that, for the distribution of the corn, those always in office should each propose one man from those who had been praetors three years before, and that four of them, chosen by lot, should distribute the corn in
+
+17.2. succession. And he ordered that the prefect of the city appointed for the festal recess should always be chosen one at a time, and that the Sibylline verses, which had become illegible through time, should be copied out by the priests with their own hands, that no one else
+
+17.3. should read them. And he permitted all who had a fortune of one hundred thousand sesterces and were able by the laws to hold office to seek the magistracies. For so much he fixed the senatorial census to be at first, and then raised it to two hundred and fifty thousand. And to some who lived well but possessed less — at one time less than the hundred thousand, at another than the two hundred and fifty thousand —
+
+17.4. he gave what was lacking. And on this account he permitted those of the praetors who wished to spend, in addition to what was given them from the treasury for the festivals, three times as much. So that, even if some were vexed at the strictness of his other laws, yet because of this, and because he brought back a certain Pylades, a dancer who had been banished on account of a faction, they no longer remembered those laws.
+
+17.5. Whence Pylades very wisely, being rebuked by him because he was at faction with Bathyllus, who was of the same art and connected with Maecenas, is said to have said, 'It is profitable for you, Caesar, that the people busy themselves about us.'
+
+18.1. These things happened in that year; but under the consuls Gaius Furnius and Gaius Silanus, Agrippa again took up a son, named Lucius, and Augustus at once adopted him together with his brother Gaius, not waiting for them to come to manhood, but appointing them from that very moment successors to the
+
+18.2. rule, that he might be the less plotted against. And he transferred the festival of Honour and Virtue to the present days, and ordered those who celebrated triumphs to make some work out of the spoils for the memory of their deeds, and he completed the fifth Secular Games. And he ordered the advocates to plead without fee, or to pay back fourfold whatever they should
+
+18.3. receive. And to those who were always allotted to judge he forbade to enter anyone's house that year. And since the senators did not attend the senate diligently, he increased the penalties for those who were late without some good reason.
+
+19.1. And after this he set out for Gaul, in the consulship of Lucius Domitius and Publius Scipio, taking as a pretext the wars that had been stirred up there.
+
+19.2. For since he had become burdensome to many through his long stay in the city, and grieved many by punishing those who did anything beyond the established rules, while by sparing many he was compelled to transgress his own laws, he resolved to go abroad in a manner, after the example of
+
+19.3. Solon. And some suspected that he went abroad on account of Terentia, the wife of Maecenas, in order that, since much was talked about them in Rome, he might consort with her abroad without any noise; for he so loved her that he once made her contend in beauty
+
+19.4. with Livia. But before setting out, he dedicated the temple of Quirinus, which he had rebuilt from the foundation. And I have said this, that he adorned it with seventy-six columns, as many as the whole number of years he lived, and from this gave some occasion to say that he had done it on purpose and not merely by
+
+19.5. chance. He, then, deified him at that time, and held gladiatorial combats through Tiberius and Drusus, this being granted them by the
+
+19.6. senate. And so, having entrusted the city, with the rest of Italy, to Taurus to administer (for he had sent Agrippa again to Syria, and no longer rejoiced in Maecenas as before, because of his wife), he set out, taking Tiberius with him, though he was praetor. For he had become praetor though he held the praetorian honours; and Drusus conducted his whole office by decree.
+
+19.7. When they had gone forth, then, the hall of Youth was burned down the following night, and on this account and because of the other things that had gone before (for a wolf, rushing through the Sacred Way into the Forum, destroyed men, and ants very conspicuously gathered together not far from the Forum, and a torch was borne from the south to the north throughout the whole night), they made prayers for the return of
+
+19.8. Augustus. And in the meantime they also celebrated the fifth anniversary of his reign, Agrippa (for he was among the Fifteen men, to whom the management of it fell in rotation) defraying the expense through his fellow-priests.
+
+20.1. Many other things too were disturbed in those times. For the Cammunii and Venni, Alpine peoples, took up arms and, being defeated by Publius Silius, were subdued;
+
+20.2. and the Pannonians overran Istria together with the Norici, and they too, being maltreated both by Silius and by his lieutenants, again came to terms, and were the cause to the Norici of the same
+
+20.3. slavery. And the disturbances in Dalmatia and in Spain were quickly settled, and Macedonia was ravaged by the Denthelatae and the Scordisci. And in Thrace formerly Marcus Lollius, aiding Rhoemetalces, who was uncle and guardian of the children of Cotys, subdued the Bessi, and afterwards Lucius Gaius, having mastered the Sarmatae from the same cause, drove them back beyond
+
+20.4. the Ister. But the greatest of the wars that then befell the Romans, which indeed drew Augustus out of the city, was against the Celts. For the Sygambri and the Usipetes and the Tencteri first seized certain of them in their own country and crucified them,
+
+20.5. and then, having crossed the Rhine, plundered both Germany and Gaul, and ambushed the Roman cavalry that came against them, and, pursuing them as they fled, fell unexpectedly upon Lollius, the governor of it,
+
+20.6. and defeated him too. Learning this, then, Augustus set out against them, yet had no work of war; for the barbarians, learning that Lollius was making preparations and that Augustus was taking the field, withdrew into their own country and made a treaty, giving hostages.
+
+21.1. Of arms, then, Augustus had no need on this account, but in settling the rest of affairs he spent both this year and the next, in which Marcus Libo and Calpurnius Piso were
+
+21.2. consuls. For they had been much harassed both by the Celts and by a certain Licinius. And it seems to me that the sea-monster above all foreshadowed this to them; for, being twenty feet in breadth and three times that in length, and resembling a woman save in the head, it ran itself aground from the ocean upon the land.
+
+21.3. Now this Licinius was originally a Gaul, but, having been taken captive among the Romans and enslaved to Caesar, was freed by him, and by Augustus was made procurator of Gaul.
+
+21.4. He, then, using barbarian rapacity but Roman dignity, pulled down everything that was ever thought superior to himself, and effaced everything that was for the present strong, and procured much both for the necessities of the service assigned to him, and embezzled much also for himself and his household.
+
+21.5. And he advanced to such a pitch of villainy that, since certain contributions were made among them by the month, he made the months fourteen, saying that this month called December was in reality the tenth, and that on this account they must reckon the two last, of which he named the one the eleventh and the other the twelfth, and bring in the money falling to them.
+
+21.6. On account of these tricks, then, he was in danger; for the Gauls, getting hold of Augustus, made dreadful complaints, so that he too partly sympathized with them and partly excused himself; he said that he was ignorant of some things, and pretended not to believe others, and there were some things which he even concealed, being ashamed that he had used such a
+
+21.7. procurator. But Licinius, having devised another contrivance of this sort, mocked them all utterly. For when he perceived that Augustus was angry with him and that he was about to be punished, he led him into his house, and, having shown him many treasures of silver and gold and much else heaped up
+
+21.8. in piles, said, 'On purpose, master, have I gathered these things both for you and for the other Romans, that the natives, being masters of so much money, might not revolt. At any rate I have kept all of it for you and give it.' And so he, as though he had unstrung the strength of the barbarians on behalf of Augustus, was saved.
+
+22.1. Drusus, meanwhile, and Tiberius did the following. The Raeti, dwelling between Noricum and Gaul, near the Tridentine Alps that are toward Italy, both overran much of the Gaul that bordered on them and made plunderings out of Italy, and harmed those of the Romans or of their allies who travelled by road through their own
+
+22.2. land. And these things they seemed in a manner accustomed to do toward those not in alliance with them; but they destroyed every male of the captives — not only the one already born but even that still in the wombs of the women, finding it out by certain
+
+22.3. divinations. For these reasons, then, Augustus first sent Drusus against them; and he quickly routed those of them who came out to meet him about the Tridentine mountains, so as even to receive praetorian honours for it. Then, since they were driven off from Italy but still pressed upon Gaul, he sent Tiberius
+
+22.4. besides. And both, having invaded the country from many quarters at once, both themselves and through their lieutenants — Tiberius being conveyed by boats through the lake — thereby struck terror into them by engaging them severally, and easily overcame those who from time to time came to grips, since they used scattered forces, and took the rest, who from this became both weaker and more
+
+22.5. disheartened. And since they were populous and seemed about to make some revolution, they led out the strongest and the greatest part of their military age, leaving so many as were sufficient to inhabit the country but unable to make any revolution.
+
+23.1. And in this same year Vedius Pollio died, a man who otherwise furnished nothing worthy of memory (for he had sprung from freedmen and was reckoned among the knights and had done nothing splendid), but who became most notorious for his wealth and his cruelty, so as even to enter the record of
+
+23.2. history. For the rest of what he did would be tiresome to relate, but he kept lampreys trained to eat men in tanks, and threw into them the slaves whom he put to death. And once, while entertaining Augustus, then, when the cup-bearer broke a crystal goblet, he ordered him, not even respecting his guest, to be thrown to the
+
+23.3. lampreys. The boy, then, falling at Augustus's feet and beseeching him, Augustus first tried to persuade Pollio to do no such thing, but when he did not obey him, said, 'Bring all the other cups, such as you have of like kind or any others
+
+23.4. of value, that I may use them.' And when they were brought he ordered them to be broken. And Pollio, seeing this, was otherwise vexed, but, having neither anger any longer at the one cup in proportion to the multitude of the others that had perished, nor being able to punish the servant for what Augustus too had
+
+23.5. done, kept quiet against his will. Such a man, then, was Pollio when he died, leaving to many others much, and to Augustus a large part of his estate and the Pausilypon — the place between Naples and Puteoli — and bidding that a most beautiful work be built for the
+
+23.6. people. Augustus, then, having razed his house to the ground on the pretext of constructing this work, that he might have no memorial in the city, built a portico, and inscribed upon it not the name of Pollio but that of Livia.
+
+23.7. This, then, he did later; but at that time he founded many cities both in Gaul and in Spain, and gave back their freedom to the people of Cyzicus, and to the people of Paphos, who had suffered by an earthquake, he both gave money and permitted by decree to call their city
+
+23.8. Augusta. And I have written this, not because Augustus himself and the senators did not also aid many other cities, both before and after, in like calamities — of all of which, if anyone should make mention, the work of the history would become endless — but because the senate apportioned the appellations to the cities as a share of honour, and not, as now, when each city for the most part makes for itself lists of names whatever they wish.
+
+24.1. In the following year Marcus Crassus and Gnaeus Cornelius were consuls, and the curule aediles, resigning their office because they had been chosen when the auspices from the birds were inauspicious for them, took it up again contrary to ancestral usage at another assembly.
+
+24.2. And the Aemilian portico was burned, and the fire from it reached the temple of Vesta, so that the sacred objects were carried up to the Palatine by the other Vestal Virgins (for the eldest of them had been blinded) and placed in the house of the priest of
+
+24.3. Jupiter. The portico, then, was afterwards rebuilt in name by Aemilius, into whose family had come the line of him who had once made it, but in deed by Augustus and by the friends of Paulus; and at that time the Pannonians, having made revolution, were again subdued, and the maritime Alps, still at that time inhabited freely by the Ligurians called the Long-Haired,
+
+24.4. were enslaved. And the disturbances in the Cimmerian Bosporus were settled. For a certain Scribonius, saying that he was a descendant of Mithridates and had received the kingdom from Augustus, since Asander had died, married his wife, called Dynamis and entrusted with the rule by her husband, who was truly the daughter of Pharnaces and a descendant of Mithridates, and held the Bosporus in his
+
+24.5. hand. Learning this, then, Agrippa sent against him Polemon, who reigned over Pontus toward Cappadocia; and he found Scribonius no longer alive (for the Bosporians, learning of his attempt, had slain him beforehand), but, when they resisted him from fear of being given as subjects to him, he came to grips with
+
+24.6. them. And he conquered, yet did not subdue them until Agrippa came to Sinope as though to make a campaign against them. So they laid down their arms and were given over to Polemon; and the woman Dynamis was wedded to him, Augustus clearly having sanctioned
+
+24.7. these things. And for them sacrifices were offered in the name of Agrippa, yet the triumph, though voted to him, was not celebrated; for he neither wrote anything at all to the senate concerning what had been done — whence those after him too, using a kind of law after his manner, themselves no longer wrote anything to the senate — nor accepted the celebration of the
+
+24.8. triumph; and on this account, as I at least judge, it was no longer granted to any other of his rank to do this, but they prided themselves only on the triumphal honours.
+
+25.1. Augustus, then, when he had ordered all the affairs in the Gauls and in the Germanies and in the Spains — having spent much in each place and received much also from others, and given freedom and citizenship to some and taken it from others — left Drusus in Germany, and himself returned to Rome in the consulship of Tiberius and Quintilius
+
+25.2. Varus. And it happened that the news of his arrival came to the city in those days in which Cornelius Balbus, having dedicated the theatre that is still called after him, was holding games, and on this account prided himself as though he himself were bringing Augustus back — although, by reason of the quantity of water which the Tiber had made in overflowing, he was unable even to enter the theatre save by boat — and Tiberius first put the vote concerning the honour of the
+
+25.3. theatre. For the senate was gathered, and they decided, among other things, to make an altar in the very senate-house for the return of Augustus, and that there be immunity for those who supplicated him while he was within the pomerium. Yet he accepted neither, but at that time too avoided the people's coming out to meet him;
+
+25.4. for he was conveyed into the city by night, which indeed he always, one may say, did, whether he went abroad to the suburbs or anywhere else, both in setting out and in returning, that he might be burdensome to none of them. And on the next day he greeted the people in the palace, and, going up to the Capitol, took the laurel from his rods and laid it on the knees of Jupiter, and gave the people the baths and the barbers free that
+
+25.5. day. And gathering the senate thereupon, he himself said nothing because of a hoarseness, but, giving the book to the quaestor to read, recounted his achievements, and ordained both the number of years the citizens should serve, and the sum of money they should receive when they ceased from service, in place of the land which they had always been asking for, in order that, being thereafter enrolled on fixed terms, they might make no revolution on this
+
+25.6. account. And the number of years was twelve for the guardsmen and sixteen for the others, and the money less for the one, more for the other. These things produced in them at the present moment neither pleasure nor anger, because they neither obtained all that they desired nor failed of all, but to the others they gave good hopes of no longer being deprived of their property.
+
+26.1. And after this he dedicated the theatre called that of Marcellus, and at the festival held for this both the boys of patrician birth — among others his grandson Gaius — rode the Troy, and six hundred Libyan beasts were
+
+26.2. slaughtered; and the birthday of Augustus Iullus, the son of Antony, while praetor, celebrated with both a horse-race and slaughters of beasts, and on the Capitol feasted both him and the senate by its decree.
+
+26.3. After this another examination of the senate took place. For since at first the census had been fixed for them at a hundred thousand, because many had been deprived of their patrimony by the wars, but as time went on and men acquired wealth it was raised to two hundred and fifty thousand, no one
+
+26.4. any longer was found willing to be a senator, but even the sons and grandsons of senators — some truly poor, others abased by ancestral misfortunes — not only did not lay claim to the senatorial rank but, having already been enrolled,
+
+26.5. abjured it. And on this account formerly, while Augustus was still abroad, a decree was passed that the so-called Twenty Men should be appointed from the knights; whence none of them was any longer enrolled in the senate unless he had received some other of the offices that could lead into it.
+
+26.6. And these Twenty Men are from the Twenty-six: the three appointed for the capital cases, and the other three who manage the coinage of money, and the four who care for the roads in the capital, and the ten appointed over the courts of the Hundred
+
+26.7. Men allotted by lot; for the two entrusted with the roads outside the wall, and the four sent into Campania, had been abolished. This, then, was voted during Augustus's absence, and that, since no one any longer readily sought the tribunate, some should be appointed by lot from those who had been quaestors and were not yet forty years
+
+26.8. old. But at that time he himself examined them all, and into the affairs of those over thirty-five years of age he did not inquire closely, but those within this age and having the census he compelled to be senators, save if anyone was
+
+26.9. maimed. And as for their persons, he himself somehow saw them, but concerning their property he was assured by oaths both of those very men and of others who swore with them and gave an account both of their poverty and of their manner of life.
+
+27.1. And he was not such in public affairs while neglecting his own, but he even rebuked Tiberius because he had seated Gaius beside him at the votive festival which he held for Augustus's return, and the people because they had honoured him with applause and
+
+27.2. praises. And since, on the death of Lepidus, he was appointed chief priest, and on this account the senate wished to vote . . . to him, he said that he would accept none of it, and when they pressed him he rose
+
+27.3. and went out of the senate. And neither were those things ratified, nor did he take any public house, but a part of his own — since the chief priest had by all means to dwell in a public place — he made public. The house of the king of the sacrifices, however, he gave to the Vestal Virgins, since it was wall to wall with their dwellings.
+
+27.4. And when Cornelius Sisenna was charged on account of the conduct of his wife, and said in the senate that he had married her with Augustus's knowledge and counsel, Augustus was exceedingly angry, yet said nothing and did nothing dreadful, but, having darted out of the senate-house, then after a little returned, choosing, as he afterwards said to his friends, rather to do this, though it was not right, than, by remaining in his place, to be compelled to do some harm.
+
+28.1. And in the meantime he magnified Agrippa, who had come from Syria, again with the tribunician power for another five years, and sent him to Pannonia, which was eager for war, granting him greater power than the governors everywhere outside Italy.
+
+28.2. And he made the campaign, although the winter had set in, in which Marcus Valerius and Publius Sulpicius were consuls; but when the Pannonians, panic-struck at his approach, made no further revolution, he returned, and on coming into
+
+28.3. Campania fell sick. Learning this, Augustus (he happened to be holding gladiatorial combats at the Panathenaea in the name of his sons) set out, and, finding him dead, conveyed his body into the city and laid it out in the Forum, and spoke the oration over him, having stretched a curtain before the corpse.
+
+28.4. Why he did this I do not know, but it has been said by some that it was because he was chief priest, by others because he was performing the functions of the censors — wrongly thinking so; for neither is the chief priest forbidden to look upon a corpse nor the censor, save when he is about to bring the census to its completion; for if he should look upon any one before the purificatory rite, all his acts become void.
+
+28.5. This, then, he did thus, and made his funeral in the manner in which he himself was afterwards carried out, and buried him even in his own tomb, although Agrippa had taken his own in the Campus Martius.
+
+29.1. Agrippa, then, thus passed away, a man who in all else was conspicuously the best of his contemporaries, and who used the friendship of Augustus to the greatest advantage both of Augustus himself and of the
+
+29.2. commonwealth. For just as much as he surpassed the others in virtue, so much was he willingly inferior to Augustus, and, offering to him all his own wisdom and valour for the most profitable ends, he expended all the honour and power he had from him in benefiting
+
+29.3. others. Whence indeed above all he was never burdensome to Augustus himself nor envied by the others, but both helped Augustus establish the monarchy as though he himself were truly a lover of sovereignty, and won over the people by his benefactions
+
+29.4. as though he were most democratic. At that time, then, he left them gardens and the bath named after him, that they might bathe free, giving certain estates for this purpose to Augustus. And he not only made these public, but distributed to the people a hundred drachmas apiece as though Agrippa had
+
+29.5. ordered it. For he inherited the greater part of his estate, in which, among other things, was the Chersonese by the Hellespont, which had come to Agrippa I know not how; and he longed for him very greatly, and on this account both made him honoured among the people, and named the son born to him after Agrippa's death 'Agrippa.'
+
+29.6. Yet he neither permitted the others to omit any of the ancestral customs, although none of the leading men wished to attend the festivals, and himself carried through the gladiatorial combats; and they were often held even in his
+
+29.7. absence. So, then, this calamity proved not peculiar to the house of Agrippa but common to all the Romans, so that even such signs as are wont to befall them before the greatest disasters happened then too. For owls flitted about the city, and a thunderbolt struck the house in Alba in which the consuls lodge during the
+
+29.8. sacred rites. And the star called the comet, hanging for many days over the very city, was dissolved into torches. And by fire many other things in the city, and the hut of Romulus, were burned, when ravens threw upon it from some altar burning pieces of flesh.
+
+30.1. Thus, then, the matters concerning Agrippa fell out; but after this Augustus, having been chosen curator and corrector of morals for another five years (for this too he received for fixed terms, as he did the monarchy), ordered the senators to burn incense in the senate-house whenever there should be a session of them, and not to make their visits to himself — the one in order that they might be reverent toward the gods, the other that they might assemble without
+
+30.2. trouble. And since, the tribunate being sought by very few because their power had been abolished, he made a law that from the knights possessing not less than two hundred and fifty thousand sesterces those in office should each propose one man, and from these the people should choose those that were lacking, on condition that, if they wished thereafter to be senators, well, and if not, they might return again to the equestrian order.
+
+30.3. And since the province of Asia needed some aid chiefly because of earthquakes, he brought in to the treasury its yearly tribute from his own money, and assigned it a governor by lot, not elected, for two years.
+
+30.4. And once, when Apuleius and Maecenas were being ill spoken of in a certain court on a charge of adultery — not that they had themselves done any outrage, but that they were zealously assisting the man on trial — he came to the court, and, having seated himself in the praetor's seat, did nothing dreadful, but, forbidding the accuser to revile his kinsmen and his
+
+30.5. friends, rose up. And for these and other things they honoured him with statues from a public subscription, and with the grant that the unmarried men and the husbandless women should both view the games together with the others and dine with them on his birthday; for neither was permitted before.
+
+31.1. When Agrippa, then, whom he loved through virtue and not through any compulsion, had died, and he needed a helper for affairs who far surpassed the others both in honour and in power, so that everything might be conducted at the right time and without envy and plot, he chose Tiberius, even against his will; for his grandsons were still children even
+
+31.2. then. And having first torn from Tiberius his wife also — though she was Agrippa's daughter by another consort, and was already rearing one child and had another in her womb — he betrothed Julia to him and sent him against the Pannonians; for hitherto, fearing Agrippa, they had been quiet, but at that time, on his death,
+
+31.3. they revolted. And Tiberius subdued them, having ravaged much of their country and maltreated their people, using as allies above all the Scordisci, who were their neighbours and similarly equipped. And he took away their arms and sold the greater part of their military age for
+
+31.4. exportation. And for these things the senate voted him a triumph, but Augustus did not permit him to celebrate it, but gave him in return the triumphal honours.
+
+32.1. This same thing befell Drusus too. For when the Sygambri and their allies, both because of Augustus's absence and because the Gauls were unwilling to be slaves, were at war with them, he forestalled the subject territory, summoning their chief men on the pretext of the festival which they even now celebrate about the altar of Augustus at Lugdunum, and, watching the Celts crossing the
+
+32.2. Rhine, checked them. And after this he crossed over into the land of the Usipetes opposite the island of the Batavi, and, passing thence into the country of the Sygambri, ravaged much. And sailing down through the Rhine into the ocean, he won over the Frisii, and, throwing himself into the land of the Chauci through the lake, was in danger, his boats being left on the dry land by the ebb of the
+
+32.3. ocean. And then, being saved by the Frisii, who had campaigned with him on foot, he withdrew (for it was winter), and, coming to Rome, was appointed city praetor in the consulship of Quintus Aelius and Paulus Fabius, although he held the praetorian
+
+33.1. honours; and at the very beginning of spring he set out again for the war, and crossed the Rhine and subdued the Usipetes, and bridged the Lupia and invaded the land of the Sygambri, and through it advanced even into the land of the Cherusci as far as the
+
+33.2. Visurgis. And he was able to do this because the Sygambri, being angry at the Chatti, the only of their neighbours who had refused to ally with them, had marched against them in full force, and at this moment he passed through their country unnoticed. And he would have crossed the Visurgis too, had he not run short of supplies and had the winter not set in and a swarm of bees not been seen in his
+
+33.3. camp. For these reasons, then, he advanced no further, and on returning to friendly territory was in dreadful danger; for the enemy harmed him among other ways by ambushes, and once, having shut him up in a narrow and hollow place, nearly destroyed him, and would have destroyed him utterly, had they not, despising them as already captured and needing but one stroke, advanced upon them in disorder.
+
+33.4. For, being defeated thereby, they were no longer so bold, but harassed them from afar and did not approach near, so that Drusus, despising them in turn, both fortified a fort against them there where the Lupia and the Elison meet, and another among the Chatti by the very
+
+33.5. Rhine. For these things, then, he received the triumphal honours, the right to ride into the city on a charger, and to use the power of a proconsul when he should have completed his praetorship. For the title of Imperator had been bestowed upon him by the soldiers, both then upon him and earlier upon Tiberius, yet was not given by Augustus, though he himself increased the number of his appellation from both their deeds.
+
+34.1. While Drusus was doing these things, the festival pertaining to his praetorship was held most lavishly, and the birthday of Augustus was honoured with slaughters of beasts both in the Circus and in many other places in the
+
+34.2. city. And this, though not voted, was done in well-nigh all the years by one of the praetors of the year; but the Augustalia, which are celebrated even now, were then first performed by decree.
+
+34.3. And Tiberius subdued the Dalmatians, who had revolted, and afterwards the Pannonians, who had made revolution in his absence and that of the greater part of the army, warring against both at once, and shifting now to the one, now to the other, so as to obtain the same rewards as
+
+34.4. Drusus. And thereupon Dalmatia too was given over to Augustus's garrison, as always needing some arms both on its own account and because of its neighbourhood to the Pannonians.
+
+34.5. These men, then, were thus engaged; but in these same times Vologaeses, a Thracian Bessian, priest of the Dionysus among them, won over certain men by much pretence of divine inspiration, and, revolting with them, defeated and slew Rhascuporis the son of Cotys, and afterwards, having without a battle stripped his uncle Rhoemetalces of his forces by the reputation he had from the god, made him flee, and, pursuing him, invaded the Chersonese
+
+34.6. and dreadfully ravaged it. Since, then, he was doing these things and the Sialetae were harming Macedonia, Lucius Piso was assigned to them from Pamphylia, which he governed; and when the Bessi had withdrawn home beforehand, learning that he was approaching, he came into their land, and, being defeated at first, prevailed in turn, and ravaged both it and the land of the neighbours who had revolted with
+
+34.7. them. And then, attaching some to himself willingly and striking others with terror against their will, and engaging some in pitched battle, he brought them all under, and afterwards enslaved again certain of them who had made revolution. And for these things both holy days and triumphal honours were given him.
+
+35.1. While those things, then, were happening, Augustus made a census, having recorded all his possessions like any private person, and revised the senate. And seeing that not always did many assemble, he ordered that its decrees might be made even with fewer than four hundred; for it was not permitted before for anything to be ratified
+
+35.2. otherwise. And since the senate and the people again contributed money for statues of him, he set up none of himself, but public ones of Health, and besides of Concord and Peace. For they did this, one may say, always and on every pretext, and at last even on the very first day of the year they no longer deposited it somewhere privately, but, coming to him in person, gave some more,
+
+35.3. some less. And he, adding as much again or even more, gave it back, not only to the senators but to the others too. And I have heard this also, that he received certain other money from the people he met, in obedience to some oracle or even a dream, as though begging, on one day of the year.
+
+35.4. And this, if it be credible to anyone, has been thus handed down; but in that year he wedded Julia to Tiberius, and laid out his sister Octavia, who had died, at the shrine of Julius, using even then a curtain over the corpse.
+
+35.5. And he himself spoke the funeral oration there, and Drusus on the rostra; for the mourning was public, the senators having changed their dress. And her sons-in-law carried out her body, but not all the things voted to her did Augustus accept.
+
+36.1. And at this same time the priest of Jupiter was appointed for the first time since Merula, and the quaestors were ordered to keep guard over the decrees passed from time to time, since the tribunes and the aediles, to whom this had previously been entrusted, did it through their servants, and from this some mistake and confusion arose.
+
+36.2. It was voted, then, that the Janus Geminus should be closed, as though the wars were ended (for it had been opened); yet it was not closed; for the Dacians, having crossed the Ister when it was frozen, carried off booty from Pannonia, and the Dalmatians rose against the exactions of money.
+
+36.3. And these last Tiberius, sent down from Gaul, into which he had entered with Augustus, recovered; but the affairs of the Celts — both the others and the Chatti (for they had gone over to the Sygambri, and had risen out of the country which they had received from the Romans to inhabit) — Drusus
+
+36.4. partly ravaged and partly subdued. And after this they returned to Rome with Augustus (for he spent most of his time in the Lugdunian province, keeping watch near at hand on the Celts), and they accomplished all that had been voted for the victories or otherwise was fitting to be done.

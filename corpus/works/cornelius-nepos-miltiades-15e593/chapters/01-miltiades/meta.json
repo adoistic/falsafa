@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-miltiades-15e593",
+  "work_title": "Miltiades",
+  "chapter_number": 1,
+  "chapter_title": "Miltiades",
+  "chapter_slug": "01-miltiades",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7333cfae-0dc3-5c29-a630-b21dbeda1b63",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1345,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a1f609a9-32cf-51fc-a3a4-82a225215183",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2189,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

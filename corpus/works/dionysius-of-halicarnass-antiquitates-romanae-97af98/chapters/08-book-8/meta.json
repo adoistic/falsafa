@@ -1,0 +1,38 @@
+{
+  "work_slug": "dionysius-of-halicarnass-antiquitates-romanae-97af98",
+  "work_title": "Antiquitates Romanae",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08-book-8",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1b2fc370-f91e-519c-a664-89371b6c365b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 28878,
+      "paragraph_count": 406,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0081.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b04758c4-65cd-5396-82b6-9091be19b03d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 35744,
+      "paragraph_count": 406,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-timoleon-9aec7c",
+  "work_title": "Timoleon",
+  "chapter_number": 1,
+  "chapter_title": "Timoleon",
+  "chapter_slug": "01-timoleon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7a25007a-a815-54f8-a12a-d8b48039612e",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 833,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo020"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "acb1203a-3d8c-56cf-91a4-94134b37d67e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1329,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

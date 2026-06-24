@@ -1,0 +1,38 @@
+{
+  "work_slug": "appendix-vergiliana-dirae-955e27",
+  "work_title": "Dirae",
+  "chapter_number": 1,
+  "chapter_title": "Dirae",
+  "chapter_slug": "01-dirae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "48daf09f-df01-5561-9157-7f727ab6966b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 652,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0692.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3a4e2e1c-d1cd-5e74-a5ee-66e46d68872c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1083,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

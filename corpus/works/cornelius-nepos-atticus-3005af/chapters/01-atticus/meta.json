@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-atticus-3005af",
+  "work_title": "Atticus",
+  "chapter_number": 1,
+  "chapter_title": "Atticus",
+  "chapter_slug": "01-atticus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3a2b06ec-8954-5ba2-b91d-862481917f99",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3600,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo025"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3ea814a7-9b61-58f0-858a-42729da367d0",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5592,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

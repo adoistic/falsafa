@@ -1,0 +1,38 @@
+{
+  "work_slug": "cassius-dio-historia-romana-9a0dce",
+  "work_title": "Historia Romana",
+  "chapter_number": 12,
+  "chapter_title": "Book 12",
+  "chapter_slug": "12-book-12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "80d0b380-6c21-55e3-a422-ca586fb02146",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10694,
+      "paragraph_count": 237,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0385.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d21b233c-f2ca-5635-867b-c49e61c91fcc",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12843,
+      "paragraph_count": 237,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

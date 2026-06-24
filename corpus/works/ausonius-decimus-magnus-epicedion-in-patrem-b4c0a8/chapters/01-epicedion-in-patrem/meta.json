@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-epicedion-in-patrem-b4c0a8",
+  "work_title": "Epicedion in Patrem",
+  "chapter_number": 1,
+  "chapter_title": "Epicedion in Patrem",
+  "chapter_slug": "01-epicedion-in-patrem",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4b350269-46ba-5835-ab0d-e9dfdaca0eac",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 493,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa009"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac18af4c-e11c-5324-9c1c-4eaee2c1a775",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 793,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

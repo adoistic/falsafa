@@ -1,0 +1,414 @@
+---
+work_id: "9a0dcedc-b0a6-5daa-aef5-fd72231a522e"
+work_slug: "cassius-dio-historia-romana-9a0dce"
+work_title: Historia Romana
+author_name: Cassius Dio
+chapter_number: 15
+chapter_title: Book 15
+chapter_slug: "15-book-15"
+variant_id: "286d6329-0e15-5df8-b1e2-594911b5db26"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 10491
+translator: thothica
+---
+
+arg. The following are contained in the fiftieth book of Dio's Roman History: How Caesar and Antony began to make war upon one another. How Caesar conquered Antony at Actium. The length of time is two years, in which the magistrates here numbered held office: Gnaeus Domitius Ahenobarbus, son of Lucius, grandson of Gnaeus, and Gaius Sossius, son of Gaius, grandson of [Titus], consuls; Caesar, for the third time, and Marcus Valerius Messala Corvinus, son of Marcus, consuls.
+
+1.1. The Roman people had been deprived of the democracy, yet had not been distinguished off into an exact monarchy; but Antony and Caesar still held affairs on equal terms, having divided up the greater part of them between themselves, and reckoning the rest in word common, but in deed appropriating it to themselves, as each of them was able somewhere to gain an advantage.
+
+1.2. But after this, when Sextus had perished and the Armenian had been taken, and the peoples who had made war on Caesar were quiet and the Parthian made no movement, then they openly turned against one another and the people was exactly enslaved. And these were the causes and pretexts of the war for them.
+
+1.3. Antony charged Caesar that he had deposed Lepidus from his office, and had appropriated the territory and the force both of him and of Sextus, which ought to be common to them; and he demanded back the half of these, and of the soldiers whom Caesar had levied out of Italy, which belonged to
+
+1.4. them both. Caesar charged Antony that he held Egypt, which had not fallen to him by lot, and had killed Sextus (for he himself said that he had willingly spared him), and that, by deceiving and seizing and binding the Armenian, he had brought much ill repute upon the
+
+1.5. people; and he too demanded back the half of the spoils, and, above all, brought against him Cleopatra and the children he had taken up by her, and the gifts he had made them, and most of all that he surnamed Caesarion
+
+2.1. and thus brought him too into the family of Caesar. These charges, then, they brought against one another, and somewhat too made defence in turn, partly sending word to one another privately, partly in public—Caesar speaking, Antony writing; and on this pretext they continually sent embassies in turn against one another, that they might seem to make their charges most justly
+
+2.2. and at the same time spy out one another’s affairs. And in this they were gathering money as though for some other purpose, and were making the rest of the preparation for war as though against certain others, until Gnaeus Domitius and Gaius Sossius, both of Antony’s party, were consuls. For then they concealed nothing more, but were openly made enemies. And it was done thus.
+
+2.3. Domitius, inasmuch as he had had experience of many misfortunes, made no innovation openly; but Sossius, as one inexperienced in evils, both greatly praised Antony at the very new-moon day and greatly ran down Caesar. And he would at once have transacted something against him, had not
+
+2.4. Nonius Balbus, who was tribune, prevented it. For Caesar, suspecting what was about to be done by him, and wishing neither to overlook it nor again, by opposing it, to seem to begin the war first, then neither entered the senate nor lived at all in the city, but, feigning some excuse, left town—both for these reasons and that, having at leisure taken counsel about what was reported to him,
+
+2.5. he might do what was needful from a fuller deliberation; and afterwards, returning, he assembled the senate, having surrounded himself with a guard of soldiers and friends who secretly held daggers, and, sitting between the consuls on a magistrate’s chair, both spoke much, on the spot, from his seat, in measured terms on his own behalf, and much accused both Sossius and
+
+2.6. Antony. And when neither anyone else nor either of the consuls themselves dared to utter anything, he bade them assemble again on a fixed day, as though he would convict Antony of wrongdoing by certain letters. The consuls, then, neither daring to oppose him nor enduring to keep silent, secretly withdrew from the city beforehand, and after this went off to Antony, and not a few of the other senators
+
+2.7. followed with them. Learning this, Caesar said that he had sent them away of his own will, that he might not seem, as one who did some wrong, to have been abandoned by them, and gave leave to all others who wished to set off to Antony with immunity.
+
+3.1. This, then, which had been so done by them, those who in turn fled from Antony and came to Caesar counterbalanced—among others Titius and Plancus, although they had been honoured by him among the foremost and knew all his
+
+3.2. secrets. For since these things had been so done by the consuls, and besides, in their absence, Caesar had gathered the senate and read out and said what he wished, and Antony, hearing this, had gathered some council from those present, and, after much had been said on both sides, had both taken up the war and renounced his marriage with Octavia, these men, having had some offence with him, or being vexed at Cleopatra,
+
+3.3. deserted. And Caesar, receiving them most gladly, learned from them all else of Antony’s—both what he was doing and what he intended—and what was written in his will, and who held it; for they had been witnesses to its
+
+3.4. sealing. And thereupon, becoming still more exceedingly angry, he did not shrink from seeking it out and taking it and bringing it both into the senate and afterwards into an assembly and reading it. For such things were written in it that, although he did a most lawless thing, he incurred no
+
+3.5. blame from them for it; for he had testified for Caesarion that he was truly born of Caesar, and had given to the children he was rearing by the Egyptian certain exceedingly great gifts, and had ordered that his own body be buried in Alexandria and with her.
+
+4.1. On account of these things, then, being indignant, they believed that all else that was noised abroad was true—that is, that, if he should prevail, he would bestow their city on Cleopatra and transfer the seat of power to
+
+4.2. Egypt. And they used so great anger over this that all—not only those at variance with him or even neutral between the two, but even his very friends—charged him terribly; for, astounded at what was read, and contending against the suspicion of Caesar, they said the same things
+
+4.3. as the rest. And they took from him both the consulship, to which he had been appointed beforehand, and all his other authority; and in word they did not declare him an enemy, fearing those who were with him, because these too would have to be reckoned in the rank of enemies unless they should abandon him, but in deed they declared it more than
+
+4.4. anything. For to those numbered with him they voted both immunity and praises, if they should abandon him; while against Cleopatra they openly proclaimed war, and changed their military cloaks as though
+
+4.5. he were already at hand, and, going to the temple of Bellona, performed all the pre-war rites in the customary fashion, through Caesar as fetial; which, in word, bore upon Cleopatra, but in deed upon Antony
+
+5.1. as well; for she had so enslaved him that she persuaded him even to act as gymnasiarch for the Alexandrians, and to be called by him queen and mistress, and to have Roman soldiers in her bodyguard, and that all these should inscribe her name on their
+
+5.2. shields. And she frequented the Forum with him, and administered the festivals with him, and sat with him in judgement of cases, and rode with him even in the cities, or else she was carried in a chair while Antony followed on foot beside her with the eunuchs. And he named his headquarters the palace, and sometimes girt on a dagger,
+
+5.3. and used a dress contrary to ancestral custom, and was seen in public upon a gilded couch and a like chair. And he had himself painted and modelled with her, he as Osiris and Dionysus, she as Selene and Isis, saying that they were such. Whence above all he seemed to have been made out of his senses by her through some
+
+5.4. sorcery. For not only him but also the others who had any power with him she so bewitched and bound that she even hoped to rule the Romans, and made her greatest oath, whenever she swore at all, that she might give judgement on the Capitol.
+
+6.1. Against Cleopatra, then, for these reasons they voted the war; but to Antony they proclaimed nothing of the kind, forsooth—knowing well that he would in any case be made an enemy (for surely he would not betray her to do Caesar’s will)—and wishing to bring this very thing against him besides, that he had of his own will taken up war on behalf of the Egyptian against his country, when no danger had befallen him privately at home.
+
+6.2. The men of military age, then, were eagerly assembled by both, and money was gathered from everywhere, and all the materials of war were collected with speed. And the whole preparation became far the greatest of those before
+
+6.3. it. For these were the peoples that joined each in this war. With Caesar were Italy (for he had attached to himself all even of those settled by Antony, partly frightening them, as being few, partly even benefiting them; for, among other things, he himself again re-settled those who colonized Bononia, that they might seem to have been settled by him),
+
+6.4. —Italy, then, and Gaul and Spain and Illyricum, and the Libyans both who from before favoured the Romans, save those about Cyrene, and those who had been subjects of Bogud and Bocchus, and Sardinia and Sicily and the other islands adjoining the mainlands
+
+6.5. mentioned, fought as allies; while with Antony were the parts of mainland Asia subject to the Romans and those in Thrace, and Greece and Macedonia, and the Egyptians and the Cyrenaeans with the surrounding peoples, and the islanders dwelling near them, and the kings and the princes, so to speak all who bordered on the Roman empire that was then under him,
+
+6.6. some in person, some through others. And both used so great zeal alike that they even made their alliances on oath to each side.
+
+7.1. These, then, were thus made strong; and Antony both swore in turn to his soldiers that he would make war without a herald, and promised both to lay down his office within two months after the victory and to give back the whole power of it to the senate and the
+
+7.2. people. And with difficulty, forsooth, some persuaded him to do this in the sixth month, that, forsooth, he might at leisure settle affairs. And he, though he was by no means going to do it, nevertheless proclaimed it as though he would in every way prevail. For he saw his own forces far stronger in numbers, and hoped to weaken those of his adversaries by
+
+7.3. bribery; for, sending gold, as it were, everywhere, and not least into the rest of Italy and into Rome, he both stirred up each thing and tried to win them over. Whence Caesar both kept stricter watch over other matters and gave money to the soldiers.
+
+8.1. Such, then, being their impulse and preparation, many and various things were noised abroad by men, and many and manifest things foreshown by the gods. For an ape, entering the temple of Demeter during a certain sacred rite, threw all the
+
+8.2. things within into confusion; and an owl flew first into the temple of Concord, and then upon all the others, so to speak, the most holy, and at last, since it was driven off from everywhere, settled upon the temple of the Genius of the People, and was neither caught nor driven off save late at last. And the car of Jupiter was shattered in the horse-race of the Romans, and a torch, hovering for many days over the Greek sea, shot up into the upper air.
+
+8.3. And many things were damaged by storm, so that a trophy standing on the Aventine and an image of Victory fell from the stage of the theatre, and the whole wooden bridge was broken down; and many things were destroyed by fire, and besides much flowed from Aetna and did harm both to cities and
+
+8.4. to lands. The Romans, then, partly seeing and partly hearing these things, recalled also the matter of the serpent, that it too had signified to them their present circumstances; for in Tyrrhenia a little before this a serpent with two heads, great enough to reach to eighty-five feet, suddenly appeared, and, having done much harm, was
+
+8.5. struck by a thunderbolt. These things, then, bore upon all of them; for the fighting force on both sides alike was Roman, and many on each side were destined both to perish at the moment then present, and afterwards all the survivors to become the
+
+8.6. victor’s. But to Antony in particular the children in Rome foretold his defeat (for, having divided into two parties without anyone’s bidding, and the one calling themselves Antonians and the other Caesarians, they came to blows with one another for two days, and those who bore his name were defeated), and his destruction was foretold by a statue of him set up beside Jupiter on the Alban Mount; for, being of stone, it sent forth much blood.
+
+9.1. All being thus alike in suspense over these things, in that year nothing more happened. For Caesar, settling affairs in Italy—especially since he perceived that Antony’s money was at hand—was not able before the winter to meet
+
+9.2. him; and Antony set out as though to make the war in Italy unexpectedly upon them, but, coming to Corcyra, and learning that the advance ships sent for the reconnoitring of him were lying at anchor about the Ceraunian mountains, suspected that Caesar himself had arrived with all his
+
+9.3. fleet, and advanced no farther, but, sailing back to the Peloponnese (for it was already autumn), himself wintered at Patrae, and sent his soldiers everywhere, that they might both guard the places and more easily have plenty of
+
+9.4. provisions. And in this both volunteers from both of them came to each side—both senators and certain others—and a spy, Lucius Messius, was taken by Caesar; and him, although he was one of those before taken in Perusia, he released, having first displayed to him all his own
+
+9.5. force. And he sent word to Antony either to withdraw a day’s ride of a horse from the sea and to let him sail in unmolested, on condition that they engage within five days, or himself, on the same terms, to cross over into
+
+9.6. Italy—not that he thought anything of the kind would come to pass (Antony at any rate mocked him much, and said, ‘And who shall judge us, if anything be done contrary to the agreement?’), but because he expected thereby to cast courage into his own soldiers and consternation into the enemy.
+
+10.1. After this, the consuls for the coming year were Caesar and Antony, who had been appointed beforehand at the time when they appointed the offices once for all for the eight years, and that was the last of them; but, Antony being deposed, as I have said, Messala Valerius, who had once been proscribed
+
+10.2. by them, was consul with Caesar. And in this a certain mad fellow, leaping into the theatre at a festival, took up the crown of the former Caesar and put it on, and was torn apart by the bystanders; and a wolf, rushing into the temple of Fortune, was caught and slaughtered,
+
+10.3. and a dog overcame and devoured another dog in the circus at the very contest of the horses. And fire destroyed not a few other things and much of the circus itself and the temple of Demeter and another temple of
+
+10.4. Hope. The freedmen were thought to have done it; for all of them in Italy who possessed property of five myriads or more had been ordered to contribute the eighth part of it, and from this both disturbances and murders and many burnings were caused by them, and they were not settled before they were subdued by
+
+10.5. arms. Whence the free men too who possessed any land in Italy, being afraid, kept quiet; for to them too it had been enjoined to give the fourth of their yearly revenue, and, though about to be moved at this, they dared to make no innovation, but, without a fight and against their will, contributed
+
+10.6. it. The fire, then, was thought to have been caused by the freedmen out of a plot; nevertheless it too was inscribed among the very portents, on account of the great number of those burned.
+
+11.1. Such signs, then, having appeared to them, they were neither afraid nor made war any the less; but the winter they spent both using reconnaissances and harassing one another (for Caesar put out from Brundisium and sailed as far as Corcyra, as though to set upon those lying at anchor near Actium when they were unexpectant, but, falling in with a
+
+11.2. storm and being distressed, withdrew); and in the spring Antony made no movement anywhere (for the crews, inasmuch as they were a mixture from all kinds of peoples and were wintering far from him, had made no training and were lessened by disease and
+
+11.3. desertions; and Agrippa, taking Methone by assault and killing Bogud in it, and watching the landfalls of the merchantmen and making descents now here now there upon Greece, was strongly troubling
+
+11.4. him); but Caesar, both taking heart from these things and wishing as quickly as possible to use the impulse of his army, which had been splendidly trained, and to make the war both in Greece and against Antony’s forces rather than in Italy
+
+11.5. and near Rome, gathered to Brundisium all the soldiers who were of any use, and all of the senators and knights who were capable of anything—the latter that they might do something with him, the former that they might make no innovation if left isolated, and, most of all, that he might show men that he had the greatest and the strongest part
+
+11.6. of the Romans of one mind with him. And thence, bidding them all bring a fixed number of servants and convey their own food for themselves, save the soldiers, with his whole array gathered together he crossed the
+
+12.1. Ionian Sea. And he led them not to the Peloponnese nor against Antony, but to Actium, where the greater part of Antony’s fleet lay at anchor, in the hope of somehow bringing them over beforehand, willing or unwilling. And on this account, disembarking the infantry under the Ceraunian
+
+12.2. mountains, he sent it there, and himself, with the ships taking Corcyra, which had been abandoned by its garrison, held the harbour called Sweet (it is so called because it is sweetened by the river that flows into it), and made an anchorage in it, and, setting out from there, sailed against
+
+12.3. Actium. And when no one put out against him or came to conference, although he challenged them to one of two things, either to terms or to battle (for the one they did not accept through faith, the other through fear), he seized that place where Nicopolis now
+
+12.4. is, and in it, on a height, from which there is a view alike over everything—both the sea without, toward Paxos, and that within, the Ambracian, and that in the midst of them, in which are the harbours by Nicopolis—he established himself. And he both strengthened it and ran walls from it down to the
+
+12.5. outer harbour, the Comarus, and thereupon both lay in wait for and blockaded Actium both by land and by sea. For I have indeed heard that he carried triremes from the outer sea into the gulf over the wall, using newly flayed hides anointed with oil instead of
+
+12.6. rollers; yet I can mention no deed of these ships done in the gulf, and on this account I cannot believe the tale; for it was no small matter to convey triremes upon hides through a place so narrow and uneven.
+
+12.7. This, then, is so said to have happened; but Actium is a temple of Apollo, and lies before the mouth of the strait of the Ambracian gulf, over against the harbours by Nicopolis. And the strait stretches for a long way equally through a narrow channel, and both it itself and all before it are fit both for mooring and for lying at anchor.
+
+12.8. Antony’s men, then, having seized these beforehand, built towers at the mouth on either side, and held the middle with ships, so that their sailings-out and withdrawals were safe; and they themselves on the other side of the strait, by the temple, in a place level and broad but more suitable for fighting or encamping, bivouacked; whence not least by disease both in winter and far more in summer they were oppressed.
+
+13.1. Antony, then, as soon as he learned of Caesar’s arrival, made no delay but hastened to Actium with those who were with him. And he came not long after, yet did not at once come to a
+
+13.2. contest, although Caesar continually arrayed his infantry before their camp and often sailed against them with the ships and dragged off their merchantmen, in order that, before all his force should come together, he might engage with those only then present to him;
+
+13.3. for on this very account Antony was unwilling to risk all, but used trials and skirmishes for many days, until he gathered his armies. And with these, especially as Caesar no longer pressed in the same way, he crossed the strait and
+
+13.4. encamped not far from him, and thereupon, sending cavalry round about the gulf, beleaguered him on both sides. Caesar, then, himself kept quiet and took up no further self-chosen danger, but sent certain men into Greece and Macedonia, that he might draw Antony off
+
+13.5. toward those parts. And they did these things, while Agrippa at that time both, suddenly sailing in, took Leucas and the vessels in it, and took Patrae, having conquered Quintus Nasidius in a sea-battle, and afterwards won over Corinth as well. When, then, these things came to pass, and Marcus Titius and Statilius Taurus, suddenly charging out, overcame Antony’s cavalry and won over Philadelphus the king of
+
+13.6. Paphlagonia, and in this Gnaeus Domitius too, vexed at Cleopatra, went over—and he became of no use to Caesar (for, falling sick, he died not long after), yet it was thought that, as having condemned the affairs of those with whom he was, he had deserted (for
+
+13.7. many others too imitated him)—Antony no longer had the same courage, but suspected all and thereupon killed others and Iamblichus, a king of certain Arabians, having tortured him, and gave Quintus Postumius, a senator, to certain men to be torn
+
+13.8. apart. And at last, fearing lest Quintus Dellius and Amyntas the Galatian (they chanced to have been sent for mercenaries into Macedonia and Thrace) should choose Caesar’s cause, he set out toward them as though to aid them, should anything hostile befall.
+
+14.1. And in this a certain sea-battle took place. For Sossius, when Lucius Tarius was blockading them with a few ships, hoping to do something worthy of mention if he should engage him before Agrippa, to whom the whole fleet had been entrusted,
+
+14.2. came up, put out suddenly toward dawn, watching for a deep mist, that, not foreseeing their number, Tarius might not flee; and at once at the first assault routing him, he pursued, but did not take him; for, Agrippa meeting him by chance, he not only gained nothing of the victory, but was destroyed besides, along with Tarcondimotus and many others.
+
+14.3. Antony, then, both on this account, and because he himself, returning, was defeated in a certain cavalry battle by Caesar’s outpost, no longer resolved to encamp apart, but, abandoning by night the entrenchment near the enemy, withdrew to the other side of the strait, where the greater part of his army
+
+14.4. was bivouacked. And since his provisions, inasmuch as he was barred from the grain-supply, began to fail him, he made a decision whether, remaining in place, they should hazard all, or, removing somewhere, should carry the war over in time.
+
+15.1. And when different men said different things, Cleopatra prevailed, advising that the most strategic of the places be handed over to garrisons and that the rest set off into Egypt with themselves. For she held this opinion because she was troubled by portents.
+
+15.2. For swallows nested both about her tent and on the flagship on which she sailed, and milk and blood flowed from wax; and the statues of them which the Athenians had set up on the Acropolis bearing the form of the gods, thunderbolts dashed
+
+15.3. into the theatre. From these things, then, and from the despondency and the sickness of the army over them, Cleopatra herself was afraid and frightened Antony as well. They were unwilling, however, to sail out either secretly or openly as fleeing, lest they cast fear into their allies, but as though preparing for a sea-battle, that at the same time, if anything should resist, they might force their way out.
+
+15.4. And thereupon first they picked out the best of the vessels, since the crews had become fewer both from the destruction and from the desertion, and burned the rest, and then by night secretly carried into them all their most precious things. And when all was ready, Antony called the soldiers together and spoke as follows:
+
+16.1. “All that it was fitting be provided by me for the war, fellow-soldiers, has all been sufficiently prepared beforehand. For there is a great multitude of you, all the flower picked out both from the subjects and from the allies; and of every kind of fighting, as far at least as is customary among us, you are so far craftsmen that each of you even by himself is fearful to the
+
+16.2. adversaries. And you yourselves, I suppose, see how great and what a fleet we have, and how many and what heavy infantry, cavalry, slingers, peltasts, archers, mounted archers; of which the greater part the enemy do not even possess at all, while what they have is far fewer
+
+16.3. and weaker than ours. And indeed their money too is little, and that procured by forced contribution, and would neither suffice for long, and has made those who contributed it more attached to us than to those who received it, so that they are otherwise ill-disposed toward them and besides openly rise in faction; whereas ours, prepared out of abundance, has neither grieved anyone and will profit us all.
+
+17.1. Besides these things, being so many and such, I should otherwise have shrunk from saying anything proud about myself; but since this too is one of the things conducing to success in war, and is believed by all men to be greatest—I mean that those who would fight well should obtain some excellent general—the very need has made the discourse about myself most necessary for me, that you may know still more this, that you yourselves are such as to conquer even without a good commander, and I am such as to be able to prevail even with bad
+
+17.2. soldiers. For I am of the age at which men are most of all at their prime both in body and in mind, and are corrupted neither by the rashness of youth nor by the slackness of old age, but, holding the very mean of each, are at the height of strength;
+
+17.3. and besides I have such a nature and such an education that I can both know all that is fitting and say it most easily. And experience—which makes even the foolish and the uneducated seem to be of some account—I have acquired through all civil and all military
+
+17.4. matters; for from boyhood until now I have always been tried in them, and I have both been commanded much and commanded much, from which I have learned both how many and what things one must enjoin, and how many and what things one must do in obedience. I have
+
+17.5. feared,
+
+17.6. I have been bold; from the one I am habituated not easily to dread anything, from the other not rashly to venture. I have been fortunate, I have stumbled; from which I have it neither to despair of anything nor to be overweening.
+
+18.1. And I say these things to those who know them, making you who hear them my witnesses—not that I might otherwise boast anything about myself (for your knowledge suffices me for good repute), but that from these things too you may learn how much better than the enemy we are
+
+18.2. prepared. For, being inferior to us both in the number of the soldiers and at the same time of the money and in the variety of the preparation, they fall short in nothing of all so much as in the age and the inexperience of their commander. About whom I need not speak accurately point by point, but, summing it up, I shall say this which you too
+
+18.3. know—that he is most feeble in body, and that he has himself never won any notable battle either on land or on sea. Indeed at Philippi, in the same contest, I prevailed and he was defeated.
+
+18.4. So much do we differ from one another; and the most of victories come to the better prepared. But if those men have any strength, you would find it to be in the heavy infantry and on land; but with their ships they will not be able to make any stand against us at
+
+18.5. all. For you yourselves, I suppose, see both the size and the thickness of our vessels, so that even if those were equal to them in number, yet by these they could do no harm either by ramming or by assault; for the one—the thickness of the timbers—the other—the very height of the ships, even if no one defended himself from them, would in any case hold
+
+18.6. them off. Where, indeed, with so many archers and slingers sailing on board, and besides reaching them from the towers above, will anyone be able to come to close quarters with them? And if anyone should draw near, how would he not be sunk by the very number of the oars, how would he not, being struck by all both from the decks and from the towers, be drowned?
+
+19.1. For do not, because Agrippa won the sea-fight about Sicily, on that account think that they too have naval valour; for they contended neither against Sextus but against his slaves, nor against a counter-preparation like ours but against one far
+
+19.2. different. And if anyone reckons that good fortune of theirs as great, he is bound to reckon against it also the very defeat of Caesar himself, in which he was beaten by Sextus himself; and so he will find all our resources not only equal to equal, but far more and better than what they have.
+
+19.3. On the whole, what fraction was Sicily of the rest of the empire, and what fraction was Sextus’ force of our preparation, so that one might reasonably fear the affairs of Caesar—being those very same and become neither more nor better—rather from what he succeeded in than take courage from what he stumbled in.
+
+19.4. Whence, I suppose, I too, reckoning these things, was unwilling to hazard all beforehand with the infantry, in which indeed they seem in a way to be strong, that none of you, if some stumble should occur in that, might be despondent, but with the ships, in which we are mightiest and far surpass them in number, that, having prevailed in these, we may
+
+19.5. despise their infantry too. For know this well, that the whole turning-point of the war hangs for both of us from this, from the fleet; and if in this we get the upper hand, we shall suffer nothing dreadful any longer even from the rest, but, having cut them off as in some little island, inasmuch as all around is ours, we shall subdue them without effort—if by nothing else, at least by famine.
+
+20.1. And indeed that we shall be contending not for small things or for trivial ones, but so that, if we are zealous, we shall obtain the greatest things, and, if we are negligent, suffer the most dreadful, I think there is no need even of
+
+20.2. argument. For what would they not do to us, if indeed they should prevail, who have killed, so to speak, all of note who were with Sextus, and have destroyed many of those who aided
+
+20.3. them with Lepidus? And why do I say these things, when they have deposed Lepidus himself from all his command, though he did them no wrong and besides was their ally, and hold him as a kind of captive in custody, and have so levied money on all the freedmen in Italy and besides on the others who possess land, that they have compelled some of them to come to arms, and thereupon
+
+20.4. destroyed many? But is there any way that those who have not spared the allies will spare us? Will they keep their hands from our property who have levied tribute on their own kin? Will they do anything humane when they have conquered, who have done such things before they prevailed? And, not to waste time recounting all that concerns others, but to recount the very things that have been dared by them against
+
+20.5. us—who does not know that I, appointed colleague and joint-ruler with Caesar, and having received the protectorship of the commonwealth on equal terms with him, and having obtained like honours and offices, and being so long now in them, have been deprived of all of these, as far as in him lies, and have become a private man instead of a leader and a man dishonoured instead of a
+
+20.6. consul—not by the people nor by the senate (for how could it be, when the consuls and certain others fled outright from the city, that they might vote nothing of the kind?), but by that very man and by those about him, who do not perceive that they are themselves first training him as a monarch over
+
+20.7. themselves? For he who has dared, while I live and have so great a force and am conquering the Armenians, both to seek out my will and forcibly to take it from those who held it, and to open it and read it publicly, how would he spare either you or anyone
+
+20.8. else? And he who has become such toward me, his friend, his table-companion, his kinsman, how would he do anything humane toward the others, with whom he has no covenant?
+
+21.1. And indeed, if one must infer anything from what has been voted by him, against you he even openly threatens (at any rate he has declared the greater part of you outright enemies), but against me he has proclaimed nothing of the kind, although he is both making war on me and already doing everything not only of a conqueror but even of one who has already murdered
+
+21.2. me. So that, since against me, whom he pretends not even now to hold an enemy, he has done such things, he would least of all keep his hands from you, whom he himself clearly acknowledges to have been made his
+
+21.3. enemies. What, then, does he mean by bringing arms against us all alike, but in the decree saying that he makes war on some and not on others? Not, by Zeus, that he might work some distinction among us, nor that, if he should prevail, he might treat some in one way and some in another, but that, setting us in faction, he might dash us together and thereby make us
+
+21.4. weaker. For he is not ignorant that, if we are of one mind and do everything as one, he could in no way become superior, but, if we are at variance, and some choose this and some that, he might perhaps prevail; and on this account he bears himself toward us in this way.
+
+22.1. As, then, both I and the Romans with me foresee the danger, although we have a certain immunity by reason of what has been voted, and understand his plot, and neither give you up nor again look to our own private advantage,
+
+22.2. so too you—whom he himself does not deny to hold enemies, and indeed bitterest enemies—must, considering all these things, and making the dangers common and the hopes common too, both aid the cause in every way and zealously join in the effort, setting side by side both what we shall suffer, as I have said, if defeated,
+
+22.3. and what we shall obtain if we prevail. For great too is it, being worsted somewhere, to suffer nothing insolent or rapacious; but greatest is it, when we have conquered, to do all that one could pray for. But most shameful is it, being so many and such, and having arms and money and ships and horses, to choose the worse instead of the better, and, when it is possible even to give those others freedom, rather to choose to be enslaved
+
+22.4. together with them. For we differ so much from one another that he desires to play the monarch even over you, while I wish even to set those others free, as indeed I have pledged by my oaths. As men, then, who will contend alike for both, and gain the good things in common for all, let us be zealous, fellow-soldiers, both to prevail at the moment and to be happy forever.”
+
+23.1. Antony, having said some such things, both embarked on the ships all the foremost of those with him, lest they make some innovation when they were left to themselves, like Dellius and certain others who deserted, and embarked in great numbers archers and slingers
+
+23.2. and heavy infantry. For, since Sextus had been defeated not least by the size of Caesar’s ships and the number of his marines, Antony had built vessels far surpassing the enemy’s (for he had made few triremes, but quadriremes and ‘teners’ and all the rest between),
+
+23.3. and had built upon them high towers besides, and put aboard a multitude of men, that they might fight as from walls. Caesar saw their preparation and made ready; and, having learned their intention both from others and from Dellius, he too gathered his army and spoke as follows:
+
+24.1. “Seeing, fellow-soldiers, both from what I have learned by hearing and from what I have proved in deed, that the most and greatest of military matters—nay, of all human affairs—are brought to a good issue for those who both think and do the more just and more pious things, this I myself also not least
+
+24.2. consider, and counsel you to keep in view. For even if we have very much and great strength, from which one might hope to prevail though he chose the less just course, nevertheless I take far more courage in the cause of the war than in
+
+24.3. this. For that we, being Romans and ruling the greatest and best part of the inhabited world, should be despised and trampled upon by an Egyptian woman, is unworthy of our fathers, who overthrew Pyrrhus, Philip, Perseus, Antiochus, who uprooted the Numantines and the Carthaginians, who cut down the Cimbri
+
+24.4. and the Ambrones; unworthy too of ourselves, who have subdued the Gauls, who have mastered the Pannonians, who have advanced as far as the Ister, crossed the Rhine,
+
+24.5. passed over into Britain. For how would not all those who accomplished the things aforesaid grieve greatly, if they should perceive that we have fallen beneath a baneful woman? And how should we not be greatly disgraced, if, surpassing all men everywhere in valour, we should then bear meekly the insults of these people, who—O Heracles—being
+
+24.6. Alexandrians and Egyptians (for what worse or truer thing could one call them?), and worshipping reptiles and the other beasts as though they were gods, and embalming their own bodies for a show of
+
+24.7. immortality, and being most rash to bluster but most feeble to play the man, and, greatest of all, being enslaved to a woman instead of to a man, have dared to lay claim to our good things and to win them through us, so that we should of our own will yield to them the prosperity we
+
+25.1. possess? For who would not lament to see Roman soldiers acting as bodyguard to their queen? Who would not groan to hear Roman knights and senators flattering
+
+25.2. her like eunuchs? Who would not wail, both hearing and seeing Antony himself, twice consul, often imperator, who was entrusted with me the protectorship of the commonwealth, who was put in charge of so many cities and so many
+
+25.3. armies, now having abandoned all the ancestral ways of life, having emulated all that is foreign and barbaric, and honouring neither us nor the laws nor the gods of his fathers, but doing obeisance to that woman as though to some Isis or Selene, and calling her children
+
+25.4. Helios and Selene, and at the last having styled himself too Osiris and Dionysus, and thereupon, as though master of all the earth and all the sea, bestowing whole islands and parts of the mainlands?
+
+25.5. Incredible, I know well, and astonishing these things appear to you, fellow-soldiers; but for this very reason you ought to be the more indignant. For if things which you do not believe even when you hear them are really happening, and things at which there is no one who would not grieve to learn them, these that man does in his wantonness, how would you not reasonably be exceedingly angered?
+
+26.1. And yet I myself at first so cared for him that I both gave him a share of our command, and married my sister to him, and bestowed armies on him; and
+
+26.2. after this I was so reasonable, so friendly toward him, that I was unwilling to make war on him neither because he insulted my sister, nor because he neglected the children born to him by her, nor because he preferred the Egyptian woman to her, nor because he gave, so to speak, all your goods to her children, nor for any other
+
+26.3. reason. And the cause was, first, that I thought one ought not to bear oneself in the same way toward Cleopatra and toward Antony: that she, by her foreign birth, was at once an enemy from what she did, but that he, as a citizen, might be brought to his senses.
+
+26.4. And then I hoped that, even if not willingly, at least unwillingly, he would change his mind from what had been voted against her. For these reasons, then, I proclaimed no war against him; but since, overlooking and despising these things, he wishes neither to be released when we release him nor to be pitied when we pity him, but, whether as one without reason or as one mad
+
+26.5. (for this too I have believed, having heard it, that he has been bewitched by that accursed woman), prizes nothing of our benefaction and of the humanity from us, but, being a slave to the woman, takes up the war and the dangers on her behalf, self-chosen, both against us and against his country, what else remains for us but to defend ourselves against this man too, along with Cleopatra?
+
+27.1. Let no one, then, account him a Roman, but some Egyptian, nor name him Antony, but some Sarapion; let no one think that he ever became consul or imperator, but a gymnasiarch.
+
+27.2. For these things, instead of those, he himself of his own will chose, and, casting away all the dignities of his fathers, has become one of the cymbal-players from Canobus. Nor, however, let anyone fear him as one who will give any turn to the
+
+27.3. war. For he was of no worth even before, as you who conquered him at Mutina, I suppose, clearly know; and if ever, from his campaign with us, he had any valour, yet know well that now he has destroyed all of it in the change of his
+
+27.4. manner of life. For it is impossible that one luxuriating in royal fashion and giving himself to womanish softness should think or do anything manly, by reason of the entire necessity that a man be made like to whatever pursuits he
+
+27.5. keeps company with. The proof is that, having waged one war in all this time and made one campaign, he has lost very many citizens in the battles, has withdrawn most shamefully from Praaspa, and has thrown away the greatest number in the
+
+27.6. flight. So that, if one of us had to dance in some ludicrous way and play the buffoon, he would in every way carry it off worse than this man (for these things he has practised); but since arms and battle are needed, what would anyone fear in him? The prime of his body? But he is past his prime and has been made effeminate. The strength of his mind? But he plays the woman
+
+27.7. and has become utterly debauched. His piety toward our gods? But he makes war both on them and on his country. His faithfulness toward his allies? And who does not know how, having deceived the Armenian, he bound him? His reasonableness toward his friends? And who has not seen those wretchedly destroyed by him? His good repute among the soldiers? And who of even them has not
+
+27.8. condemned him? A proof is that many every day go over to us. And I myself think that all our citizens too will do this, as once before, when he went from Brundisium toward
+
+27.9. Gaul. For so long as they hoped to grow rich without danger, certain men were very glad to be with him; but to fight against us, their kindred, on behalf of things in no way belonging to them—especially when it is possible for them to be saved and prosper safely with us—they will not be willing.
+
+28.1. But someone will say that he has many allies and much money. Now, how we are wont to conquer the dwellers in mainland Asia, that Scipio Asiaticus knows, and Sulla the Fortunate, and Lucullus, and Pompey, and my father Caesar, and you yourselves who conquered those who campaigned with Brutus and
+
+28.2. Cassius. This being so, by however much you reckon their wealth to be greater than that of others, by so much the more be zealous to appropriate it; for it is worthy, for the greatest prizes, to make the greatest
+
+28.3. contests too. And yet I could name nothing greater set before you than to preserve the dignity of your ancestors, to guard your own spirit, to take vengeance on those who have revolted from us, to defend yourselves against those who insult you, to rule over all men whom you have conquered, to allow no woman to make herself equal to any man.
+
+28.4. Or, when against the Taurisci and the Iapydes and the Dalmatians and the Pannonians you yourselves here present have often fought most eagerly for a few walls and a desert land, and have mastered all of them, though admittedly most warlike, and, by Zeus, contended likewise against Sextus for Sicily alone and against this very Antony for Mutina alone,
+
+28.5. so as to prevail over both of them—against a woman who plots against all your interests, and against her husband who has distributed your goods to her children, and against their fine comrades and table-mates, whom even those very people call ‘dung,’ will you be any less
+
+28.6. zealous? Why? Because of their number? But no multitude of bodies prevails over valour. Because of their race? But they have practised bearing burdens rather than making war. Because of their experience? But they know how to row rather than to fight at sea. I for my part am even ashamed that we are about to contend against such men, over whom even when we have prevailed we shall win no good repute, and if we are defeated shall be disgraced.
+
+29.1. For do not, I beg, think that the size of their vessels or the thickness of the timbers is a match for our valour. For what ship by itself has either wounded or killed anyone? And how will they not, by the very height and thickness, be both harder to move for those who row them
+
+29.2. and more disobedient to those who steer them? And what profit would there be to those fighting from them, who can neither sail through nor sail round—which, I suppose, are the works of a sea-battle? For surely they are not going to fight an infantry battle against us on the sea, nor again are they prepared to be besieged as though shut up within some walls,
+
+29.3. since that very thing would be quite to our advantage—I mean to engage against wooden barricades. For if their ships remain in the same place as though fixed fast, it will be possible for us to break them up with our rams, and possible to wound them from afar with engines, and possible to
+
+29.4. set them ablaze with fire-bearing missiles; and if they dare to move anywhere, neither, pursuing, could they overtake anyone, nor, being routed, could they escape, being most sluggish through their weight for doing anything, and most ready through their size for suffering.
+
+30.1. And why need I waste time saying more about them, when, having already often made trial of them, both at Leucas and here lately, we were so far from being worsted by them that we proved superior everywhere? So that, strengthened not by my words rather than by your own deeds, desire now to set an end to the whole war.
+
+30.2. For know this well, that if we conquer them today, we shall have no more trouble. For otherwise all that is human, when it stumbles in the first contests, becomes more despondent toward the rest; and we are without dispute better than they on land, so that we should prevail over them even were they
+
+30.3. unimpaired. And these things those very men too so know that—for I will not conceal from you what I have heard—they are despondent over what has already happened and despair of being saved while remaining in place, and on this account both attempt to slip away somewhere, and make this sailing-out not as for a sea-battle but as for
+
+30.4. flight. And the best and most precious of their possessions they have put into the ships, that, if they can, they may escape with them. As men, then, who themselves acknowledge that they are weaker than we, and are carrying the prizes of the victory in their ships, let us not allow them to sail off elsewhere, but, prevailing over them here on the spot, take all these things from them.”
+
+31.1. Such things Caesar too said. And after this he resolved to let them pass, that he might fall upon them from the rear as they fled (for he himself, being a swift sailor, hoped to take them in a short space, and expected that, when they became plainly seen to be attempting to slip away somewhere, he would thereby win over the rest without a
+
+31.2. fight); but, being prevented by Agrippa, who feared lest they fall behind them when they were going to use sails, and being somewhat encouraged that he would prevail without difficulty, because in the meantime a violent rain and great squall fell upon Antony’s fleet alone and threw it all into
+
+31.3. confusion, he gave up this plan, and, having himself too embarked very many infantry upon the ships, and put all his comrades into light tenders, that, sailing about quickly, they might both give the needful exhortations to the sea-fighters and report to himself what was fitting,
+
+31.4. he watched for their sailing-out. And when they put out at a trumpet-call, and arrayed themselves with their ships close-packed a little outside the narrows and advanced nowhere, he set out as though to engage them where they stood or even to make them withdraw; but when they neither put out against him nor turned back, but remained in place and besides were strongly massed in their array,
+
+31.5. he was at a loss, and, bidding the sailors lower their oars into the water, held back for some time, and after this suddenly extended both his wings at a signal and bent them round, hoping most of all to surround them, but if not, at least to break up their
+
+31.6. order. Antony, then, fearing his bending-round and encirclement, put out against him as far as he could, and came to close quarters with him even against his will.
+
+32.1. And so, falling together, they fought a sea-battle, each side both making among themselves many exhortations both to skill and to zeal, and hearing many cries from those who shouted to them from the
+
+32.2. mainland. And they contended in unlike fashions; for Caesar’s men, inasmuch as they had smaller and swifter ships, used the rush of their oars and rammed, being fenced on all sides against being wounded; and if they sank any ship, well; if
+
+32.3. not, they backed water before coming to close quarters, and either rammed the same ships again suddenly, or left some and turned to others, and, having dealt with these too in a short space, went against others and again still others, that they might fall upon some as unexpectant as
+
+32.4. possible. For, fearing both their resistance from a distance and the hand-to-hand fight, they lingered neither in the approach nor in the engagement, but, running in suddenly so as to forestall their archery, and, having wounded someone or merely thrown them into confusion so as to escape being held fast, withdrew out of
+
+32.5. missile-range. The others pelted those who sailed against them with many and thick stones and arrows, and cast iron hands upon those who closed with
+
+32.6. them. And if they hit them, they proved superior, but if they missed, their own vessels being wounded would be sunk, or, wasting time about not suffering this, they became easier to attack for certain others; for two or even three falling at once upon the same ship, some did what they could,
+
+32.7. others suffered. And on the one side it was chiefly the helmsmen and the rowers who toiled and were worn out, on the other the marines; and the one resembled horsemen now charging now withdrawing, since the approaches and the backings-water lay with them, the others heavy infantry guarding against those who drew near them and trying as much as possible to hold
+
+32.8. them fast. And thereupon they had the advantage of one another—the one falling beneath the oar-banks of the ships and shattering the oars, the others from above sinking them with both rocks and engines; and again they were worsted—the one because they could do no harm to those who came at them, the others because, if they did not by ramming sink some, they no longer fought on equal terms in the close grappling.
+
+33.1. The sea-battle, then, being for a long time evenly matched, and neither side able to prevail anywhere, the end came about thus. Cleopatra, lying at anchor behind the combatants, could not bear the long
+
+33.2. and indecisive suspense of the uncertain, but, worn out—both by her woman’s and her Egyptian nature—by the long protracted agony and by the ever-fearful expectation on either hand, herself suddenly set off in flight and raised the signal to the rest of her
+
+33.3. subjects. And so, when these at once raised their sails and let out into the open sea, a favouring wind chancing to arise, Antony, thinking that they fled not by Cleopatra’s command but through fear, as though defeated,
+
+33.4. followed after them. And when this happened, the rest of the soldiers too were both despondent and thrown into confusion, and, wishing themselves also in some way to slip away, some raised the sails, and others threw the towers and the furniture into the
+
+33.5. sea, that, lightening their ships, they might escape. And upon them, while occupied with these things, the enemy fell (for the fugitives, inasmuch as they were both without sails and prepared only for the sea-battle, they did not pursue), many fighting against each ship both from afar and at close quarters, so that the contest became most varied and most keen on both sides
+
+33.6. alike. For the one party harmed all the lower parts of the ships all round and shattered the oars and broke off the rudders, and, climbing onto the decks, dragged down some, laying hold of them, and thrust others over, and fought with others, inasmuch as they were now equal in number to
+
+33.7. them; the others both thrust them off with poles and cut them with axes, and cast down rocks and certain other masses prepared for this very purpose, and beat off those who climbed up and grappled with those who came to close
+
+33.8. quarters. One who saw what was being done would have likened it, comparing small things to great, to certain walls, or to many close-set islands besieged from the sea. So the one party tried to climb onto the vessels as onto a mainland and some fortress, and brought up zealously all that conduced to this; the others thrust them off, devising whatever is wont to be done in such a case.
+
+34.1. While they fought thus evenly, Caesar, at a loss what to do, sent for fire from the camp. For before he had been unwilling to use it, that he might preserve the wealth; but then, seeing that it was impossible for him otherwise to prevail, he had recourse to that as the only thing that would aid
+
+34.2. him. And thereupon yet another kind of battle came about. For the one party, sailing up to certain ships in many places at once, both shot fire-bearing missiles at them and hurled torches by hand, and threw from afar by engines certain pots full of coals and pitch;
+
+34.3. the others warded off these things, each as it came, and, when any of them fell through and caught the timbers and at once raised a great flame, as on a ship, at first used the drinking-water which they carried and quenched some, but when that was
+
+34.4. consumed, baled up the sea-water. And if they used it in great quantity and all at once, they somehow held the fire in check by force; but, being unable to do this everywhere (for they had neither many nor large baling-vessels, and brought them up half-full, being in confusion), so far from gaining any profit, they even provoked it the more; for sea-brine, if poured little by little upon a flame, strongly
+
+34.5. kindles it. As, then, in this too they were being worsted, they threw on their own thick garments and the corpses; and for some time the fire was checked by them and seemed somewhat to abate, but afterwards, especially as the wind violently pressed it on, it blazed up the more, being increased even by these very
+
+34.6. things. And so long as part of a ship was burning, certain men stood by it and leaped into it, and cut some parts away and carried others off; and these they threw, some into the sea, and some even at the enemy, in the hope of somehow harming
+
+34.7. them too. And others, withdrawing to the part of the ship that was ever still sound, then most of all used both the iron hands and the long spears, that, fastening some enemy ship to themselves, they might best of all cross over into it,
+
+35.1. or, if not, might burn it down along with them. But when neither did any draw near them, guarding against this very thing, and the fire spread round the walls and went down to the keel, then the most dreadful things
+
+35.2. came upon them. For some, by the smoke—and especially the sailors—were destroyed before the flame even drew near them, and others were roasted in the very midst of it as in furnaces. Others
+
+35.3. were melted by their armour growing hot. Others, before suffering any such thing, or half-burned, some, throwing away their arms, were wounded by those casting from afar, and some, leaping into the sea, were drowned, or, being struck by the enemy, were sunk, or were torn apart by sea-beasts.
+
+35.4. And the only ones who got off tolerably, as in such sufferings, were those who, before being involved in any of these things, killed either one another or themselves; for they neither endured any torment, and were burned up, as on a pyre, along with the ships, like corpses.
+
+35.5. Seeing these things, Caesar’s men at first, while some of them could still defend themselves, did not close with them; but when the fire was consuming the vessels, and the men could no longer even help themselves, much less harm any enemy, they both sailed up to them in haste, in the hope of somehow preserving the wealth, and tried to quench the fire
+
+35.6. which they themselves had prepared. And thereupon many even of them perished both by the flame and by their plunderings.

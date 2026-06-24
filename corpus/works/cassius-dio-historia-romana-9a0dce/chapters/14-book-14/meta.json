@@ -1,0 +1,38 @@
+{
+  "work_slug": "cassius-dio-historia-romana-9a0dce",
+  "work_title": "Historia Romana",
+  "chapter_number": 14,
+  "chapter_title": "Book 14",
+  "chapter_slug": "14-book-14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "84941065-df99-53f7-a16f-4aa149566eb3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10041,
+      "paragraph_count": 217,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0385.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "71145fe6-4bac-5cba-bcf0-44d0ad4af4aa",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11927,
+      "paragraph_count": 217,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

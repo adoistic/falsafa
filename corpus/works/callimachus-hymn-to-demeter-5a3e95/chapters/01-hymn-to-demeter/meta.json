@@ -1,0 +1,38 @@
+{
+  "work_slug": "callimachus-hymn-to-demeter-5a3e95",
+  "work_title": "Hymn to Demeter",
+  "chapter_number": 1,
+  "chapter_title": "Hymn to Demeter",
+  "chapter_slug": "01-hymn-to-demeter",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e5252e37-6084-5b80-8707-bff3848329f3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 971,
+      "paragraph_count": 138,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0533.tlg020"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7f66dece-ec87-51c5-a6fa-655eb4bfd844",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1391,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

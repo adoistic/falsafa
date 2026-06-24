@@ -1,0 +1,38 @@
+{
+  "work_slug": "callimachus-hymn-to-apollo-a2a359",
+  "work_title": "Hymn to Apollo",
+  "chapter_number": 1,
+  "chapter_title": "Hymn to Apollo",
+  "chapter_slug": "01-hymn-to-apollo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1eaf257d-6126-5d19-bf74-b31d2753f41a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 782,
+      "paragraph_count": 113,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0533.tlg016"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "884ba1a8-843e-5c16-a89f-1b7e31b25b91",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1102,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

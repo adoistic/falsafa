@@ -1,0 +1,38 @@
+{
+  "work_slug": "julian-letter-to-themistius-the-philoso-d2adbc",
+  "work_title": "Letter to Themistius the Philosopher",
+  "chapter_number": 1,
+  "chapter_title": "Letter to Themistius the Philosopher",
+  "chapter_slug": "01-letter-to-themistius-the-philosopher",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "876f9a87-8bf7-515f-be8a-37aa890281a6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3314,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2003.tlg006"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "db06ff16-eda6-5f5c-b29e-fe89fbcdef1f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4520,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

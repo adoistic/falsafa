@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-eclogarum-liber-e5c07a",
+  "work_title": "Eclogarum Liber",
+  "chapter_number": 1,
+  "chapter_title": "Eclogarum Liber",
+  "chapter_slug": "01-eclogarum-liber",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dbb80456-e4bd-5f7c-b4d5-d66c0db33cbc",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2943,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa007"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e035018b-f1c9-5181-851a-7487e3702e0d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4758,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

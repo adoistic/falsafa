@@ -1,0 +1,38 @@
+{
+  "work_slug": "ausonius-decimus-magnus-cento-nuptialis-67a900",
+  "work_title": "Cento Nuptialis",
+  "chapter_number": 1,
+  "chapter_title": "Cento Nuptialis",
+  "chapter_slug": "01-cento-nuptialis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3c0100dd-d74e-5356-9297-11f8ff8b6193",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1587,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a6dda3da-5c44-5efd-948d-d54586a4e9e6",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2640,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

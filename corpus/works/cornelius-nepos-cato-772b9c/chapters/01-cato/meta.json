@@ -1,0 +1,38 @@
+{
+  "work_slug": "cornelius-nepos-cato-772b9c",
+  "work_title": "Cato",
+  "chapter_number": 1,
+  "chapter_title": "Cato",
+  "chapter_slug": "01-cato",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a0d1f2c5-4360-5288-8173-d164ad7fb043",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 442,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0588.abo024"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "29fd434a-fc68-5bfb-ac3a-10eb9a3790e9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 668,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

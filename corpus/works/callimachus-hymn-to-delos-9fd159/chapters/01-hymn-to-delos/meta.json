@@ -1,0 +1,38 @@
+{
+  "work_slug": "callimachus-hymn-to-delos-9fd159",
+  "work_title": "Hymn to Delos",
+  "chapter_number": 1,
+  "chapter_title": "Hymn to Delos",
+  "chapter_slug": "01-hymn-to-delos",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4e0212c2-cd90-5785-999c-2673dfdf04da",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2173,
+      "paragraph_count": 326,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0533.tlg018"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6b8b53cc-3b2f-5659-b798-9e082552b5e5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3198,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

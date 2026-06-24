@@ -1,0 +1,38 @@
+{
+  "work_slug": "bion-of-smyrna-fragmenta-cb6cb4",
+  "work_title": "Fragmenta",
+  "chapter_number": 1,
+  "chapter_title": "Fragmenta",
+  "chapter_slug": "01-fragmenta",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c7aa756b-79db-5110-850f-d981a786c95e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 936,
+      "paragraph_count": 117,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0036.tlg003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "375893f2-5ff2-5809-8896-f9b3deb072c6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1293,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
