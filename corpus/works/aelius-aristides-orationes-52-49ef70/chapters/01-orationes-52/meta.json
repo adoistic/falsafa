@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-52-49ef70",
+  "work_title": "Orationes 52",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 52",
+  "chapter_slug": "01-orationes-52",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9e593319-0c15-57e5-89dc-1e59af6196ca",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3452,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg052"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3a4cc482-43a3-5f7a-9e14-ddfbbee71a91",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4858,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

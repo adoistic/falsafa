@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-didius-julianus-e450eb",
+  "work_title": "Didius Julianus",
+  "chapter_number": 1,
+  "chapter_title": "Didius Julianus",
+  "chapter_slug": "01-didius-julianus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e870e148-dd84-560a-886d-8ddf2fff88a9",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1602,
+      "paragraph_count": 108,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi009"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e6f37ed8-fb35-5b55-b8c3-b9b9fa2e2d3c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2458,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

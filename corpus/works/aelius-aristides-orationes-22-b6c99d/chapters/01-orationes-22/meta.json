@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-22-b6c99d",
+  "work_title": "Orationes 22",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 22",
+  "chapter_slug": "01-orationes-22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8be59a06-2bf5-551b-ade3-9103964ca8b9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1112,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg022"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d969b626-7d44-5106-b17e-30f38442d028",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1577,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

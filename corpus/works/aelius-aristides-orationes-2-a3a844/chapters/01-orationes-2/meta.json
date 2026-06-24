@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-2-a3a844",
+  "work_title": "Orationes 2",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 2",
+  "chapter_slug": "01-orationes-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "058251d3-711f-5225-8d79-46fc0bfaea54",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2255,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6dc50731-792e-5ce8-b924-8a6a1d57e7ff",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3051,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

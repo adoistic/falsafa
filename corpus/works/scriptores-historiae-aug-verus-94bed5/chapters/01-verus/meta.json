@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-verus-94bed5",
+  "work_title": "Verus",
+  "chapter_number": 1,
+  "chapter_title": "Verus",
+  "chapter_slug": "01-verus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "357ef37b-9196-5f60-84c7-08dc8a1e007c",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2071,
+      "paragraph_count": 149,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi005"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5a9e4520-9baf-55a6-8811-2cdfae0f6d92",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3115,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

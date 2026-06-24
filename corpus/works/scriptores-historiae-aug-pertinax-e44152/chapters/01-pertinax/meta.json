@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-pertinax-e44152",
+  "work_title": "Pertinax",
+  "chapter_number": 1,
+  "chapter_title": "Pertinax",
+  "chapter_slug": "01-pertinax",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6e53d035-9689-592f-83ee-3bca3ded3c70",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2623,
+      "paragraph_count": 213,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi008"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9e2ea588-b967-5587-b5ba-372f2ac350bc",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4058,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-maximus-et-balbinus-76b300",
+  "work_title": "Maximus et Balbinus",
+  "chapter_number": 1,
+  "chapter_title": "Maximus et Balbinus",
+  "chapter_slug": "01-maximus-et-balbinus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b3d52bf6-378b-5b50-b147-99a07e2ee3a5",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3165,
+      "paragraph_count": 163,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi021"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ba04d25e-a414-5443-a483-b4307ec1f36b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4791,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-firmus-saturninus-proculus-et-bo-6e5fb3",
+  "work_title": "Firmus Saturninus, Proculus et Bonosus",
+  "chapter_number": 1,
+  "chapter_title": "Firmus Saturninus, Proculus et Bonosus",
+  "chapter_slug": "01-firmus-saturninus-proculus-et-bonosus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "61e7030c-c1bb-5922-9883-24100e79078c",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2344,
+      "paragraph_count": 123,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi029"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b5029554-512f-5fe8-9b2f-78afb408c705",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3573,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

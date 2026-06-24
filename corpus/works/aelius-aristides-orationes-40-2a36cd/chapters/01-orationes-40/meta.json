@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-40-2a36cd",
+  "work_title": "Orationes 40",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 40",
+  "chapter_slug": "01-orationes-40",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a8f1a697-3996-5f3b-9872-eaaede369488",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2115,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg040"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4cfe831a-651f-528d-a5a6-7fbb02d2c3de",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3026,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

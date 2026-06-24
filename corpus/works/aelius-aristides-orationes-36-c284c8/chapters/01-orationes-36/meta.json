@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-36-c284c8",
+  "work_title": "Orationes 36",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 36",
+  "chapter_slug": "01-orationes-36",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1c32cd95-6d67-5861-8eda-b51f1b48e69c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2449,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg036"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "83b4cda0-71b9-5ee1-8947-1c059f36e78f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3630,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

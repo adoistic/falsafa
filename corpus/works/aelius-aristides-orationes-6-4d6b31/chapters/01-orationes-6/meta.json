@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-6-4d6b31",
+  "work_title": "Orationes 6",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 6",
+  "chapter_slug": "01-orationes-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7799124d-e8fb-5254-bbb7-a5b2438f9d26",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1209,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg006"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "83d54d14-a166-56a6-8834-d5ee25a7d1c8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1725,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

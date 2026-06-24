@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-pescennius-niger-ee7d26",
+  "work_title": "Pescennius Niger",
+  "chapter_number": 1,
+  "chapter_title": "Pescennius Niger",
+  "chapter_slug": "01-pescennius-niger",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fa7d30b5-9d96-5753-ab34-ab969f98d5fe",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2292,
+      "paragraph_count": 121,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi011"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "15a58ebc-d929-5cf1-ae94-fd60a1e5f09e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3390,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-carus-et-carinus-et-numerianus-b09eaf",
+  "work_title": "Carus et Carinus et Numerianus",
+  "chapter_number": 1,
+  "chapter_title": "Carus et Carinus et Numerianus",
+  "chapter_slug": "01-carus-et-carinus-et-numerianus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "43ed570f-44d1-569e-ab3d-00656eed05ca",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2689,
+      "paragraph_count": 152,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi030"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "109495cf-8884-59eb-b740-866456de8c6b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4163,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

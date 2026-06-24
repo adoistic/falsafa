@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-50-9de10a",
+  "work_title": "Orationes 50",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 50",
+  "chapter_slug": "01-orationes-50",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1a3eee12-7c56-576f-b6c9-73f918faefca",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4089,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg050"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ebf01cc0-724a-58b4-bdd1-960211c6d70a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5548,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

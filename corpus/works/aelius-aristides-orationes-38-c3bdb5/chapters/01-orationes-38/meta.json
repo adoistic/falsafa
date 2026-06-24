@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-38-c3bdb5",
+  "work_title": "Orationes 38",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 38",
+  "chapter_slug": "01-orationes-38",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "41c263a6-ba1b-52f2-a218-dfa8f6f6be97",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3968,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg038"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "53c8f12e-1d80-5c18-8307-0ba71901bfec",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5560,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

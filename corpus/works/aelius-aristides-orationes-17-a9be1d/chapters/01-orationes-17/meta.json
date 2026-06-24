@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-17-a9be1d",
+  "work_title": "Orationes 17",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 17",
+  "chapter_slug": "01-orationes-17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "00b4a780-a0bb-5fcc-b150-bb80cdb1bc25",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1164,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg017"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0e878638-ca96-51b3-80ea-302eb38a70c1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1522,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

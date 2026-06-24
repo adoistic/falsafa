@@ -1,0 +1,38 @@
+{
+  "work_slug": "diodorus-siculus-historical-library-3031ad",
+  "work_title": "Historical Library",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06-book-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "982e2a4e-ca2a-5d72-8e39-8ca18b76a816",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 25143,
+      "paragraph_count": 513,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0060.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d0379215-0f87-5194-ad13-26d90f1681f3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 30537,
+      "paragraph_count": 514,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

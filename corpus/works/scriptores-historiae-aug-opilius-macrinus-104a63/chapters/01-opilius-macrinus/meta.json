@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-opilius-macrinus-104a63",
+  "work_title": "Opilius Macrinus",
+  "chapter_number": 1,
+  "chapter_title": "Opilius Macrinus",
+  "chapter_slug": "01-opilius-macrinus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "678be60c-9b31-5c7e-9e88-365385731d9d",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2504,
+      "paragraph_count": 135,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "592c2b6f-3355-5d12-b860-57573129bbb9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3768,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

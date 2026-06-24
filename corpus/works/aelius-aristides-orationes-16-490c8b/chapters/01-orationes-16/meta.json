@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-16-490c8b",
+  "work_title": "Orationes 16",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 16",
+  "chapter_slug": "01-orationes-16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7caf6208-c28e-546d-acbc-4053853cd472",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3227,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg016"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "248c1e51-b0f2-55a3-8897-bc56bac5e946",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4332,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

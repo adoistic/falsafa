@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-39-7ab785",
+  "work_title": "Orationes 39",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 39",
+  "chapter_slug": "01-orationes-39",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f2316b01-8d90-5bc2-a8fe-96f70728c2ab",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4168,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg039"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ac52fcb-e325-5a9c-8cd8-a8ec6eab6c11",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5834,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

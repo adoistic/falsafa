@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-12-cf35f9",
+  "work_title": "Orationes 12",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 12",
+  "chapter_slug": "01-orationes-12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8db9eec8-4f85-50b3-b471-1ef0fbbc1df4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2747,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg012"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b105671c-f96d-5520-8fd0-24e6882334f6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3849,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

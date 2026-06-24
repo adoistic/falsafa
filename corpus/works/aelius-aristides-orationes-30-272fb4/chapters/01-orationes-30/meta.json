@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-30-272fb4",
+  "work_title": "Orationes 30",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 30",
+  "chapter_slug": "01-orationes-30",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "60fa0f74-b785-53e1-9819-6527ec81d5dc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4410,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg030"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "64b2f43b-8fc0-582a-9492-7775463f9a8b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6215,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

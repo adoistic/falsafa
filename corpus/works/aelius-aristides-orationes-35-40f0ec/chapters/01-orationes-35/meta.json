@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-35-40f0ec",
+  "work_title": "Orationes 35",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 35",
+  "chapter_slug": "01-orationes-35",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a5165346-a8d1-5524-a4cd-0e12dead6f8f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2604,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg035"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44e29b25-b279-5255-bc1d-ccd674694196",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3877,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

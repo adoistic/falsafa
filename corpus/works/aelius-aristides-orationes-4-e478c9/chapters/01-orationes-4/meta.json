@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-4-e478c9",
+  "work_title": "Orationes 4",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 4",
+  "chapter_slug": "01-orationes-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "488e47e4-678a-5da9-ba0c-217b99595474",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 758,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7a6a5ffd-ef5c-54fd-9f4d-670635a73ed1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1011,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

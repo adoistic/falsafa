@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-27-3df648",
+  "work_title": "Orationes 27",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 27",
+  "chapter_slug": "01-orationes-27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "31e6b043-b8fe-546f-b11c-186c120b69b7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4451,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg027"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3cc3b278-52c6-52dd-ba7c-87de809c9db4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6086,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

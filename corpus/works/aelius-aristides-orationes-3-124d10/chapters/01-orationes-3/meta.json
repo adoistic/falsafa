@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-3-124d10",
+  "work_title": "Orationes 3",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 3",
+  "chapter_slug": "01-orationes-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d94dbece-f9b7-5575-bacc-3b5e685559de",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3412,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "270b98f9-94e6-51f0-9aa0-78a88075d89d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4327,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

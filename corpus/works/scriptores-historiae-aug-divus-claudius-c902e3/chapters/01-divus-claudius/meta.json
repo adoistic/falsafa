@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-divus-claudius-c902e3",
+  "work_title": "Divus Claudius",
+  "chapter_number": 1,
+  "chapter_title": "Divus Claudius",
+  "chapter_slug": "01-divus-claudius",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "02c128a2-9590-50bd-b5ed-85fb0fa5cc1a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3001,
+      "paragraph_count": 171,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi025"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "01e2b0bf-9549-5d81-a2c6-c714b3cc8db4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4533,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

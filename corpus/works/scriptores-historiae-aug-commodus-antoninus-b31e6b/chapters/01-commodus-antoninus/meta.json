@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-commodus-antoninus-b31e6b",
+  "work_title": "Commodus Antoninus",
+  "chapter_number": 1,
+  "chapter_title": "Commodus Antoninus",
+  "chapter_slug": "01-commodus-antoninus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dc67178e-2cb9-5f20-9c04-1cf884fa66ee",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3490,
+      "paragraph_count": 259,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi007"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5ee17f7b-6eb2-515a-bbc8-a4d0f39750ff",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5572,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

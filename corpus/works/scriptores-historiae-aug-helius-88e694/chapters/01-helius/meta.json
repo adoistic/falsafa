@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-helius-88e694",
+  "work_title": "Helius",
+  "chapter_number": 1,
+  "chapter_title": "Helius",
+  "chapter_slug": "01-helius",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "55e7a080-d93d-5b2d-8468-0df8d61adffb",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1448,
+      "paragraph_count": 80,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7917bfeb-ad98-51df-8168-5d98f5e2592f",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2062,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-44-12d2d6",
+  "work_title": "Orationes 44",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 44",
+  "chapter_slug": "01-orationes-44",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "158ba051-293a-545c-92cb-c7f6226ef375",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4338,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg044"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a75a492f-37a4-5ebe-9d50-c3ef7546111a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6138,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

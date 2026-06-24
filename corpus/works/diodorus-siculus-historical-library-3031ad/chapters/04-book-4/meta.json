@@ -1,0 +1,38 @@
+{
+  "work_slug": "diodorus-siculus-historical-library-3031ad",
+  "work_title": "Historical Library",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "251dc9c8-3064-5096-b4b4-af12567d6458",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 31044,
+      "paragraph_count": 694,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0060.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1ea272ca-0894-5572-939a-790d758e5b27",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 38341,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

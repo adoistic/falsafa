@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-29-11c7f6",
+  "work_title": "Orationes 29",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 29",
+  "chapter_slug": "01-orationes-29",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a9f92be2-dee3-583f-8886-52c0853b4bab",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3798,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg029"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "902d075c-7518-5f02-a2d9-969c178a9502",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5360,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

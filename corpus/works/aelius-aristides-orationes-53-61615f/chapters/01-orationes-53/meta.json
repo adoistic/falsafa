@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-53-61615f",
+  "work_title": "Orationes 53",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 53",
+  "chapter_slug": "01-orationes-53",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9204966d-5d5a-511a-afbf-e67ae1443dd0",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8993,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg053"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "30b04546-a5f9-517e-8802-18b72a405f01",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12424,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

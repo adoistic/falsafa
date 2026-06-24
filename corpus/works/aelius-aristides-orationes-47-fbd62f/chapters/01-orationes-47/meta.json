@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-47-fbd62f",
+  "work_title": "Orationes 47",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 47",
+  "chapter_slug": "01-orationes-47",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2072a407-b27d-5b6f-b9ee-7d39f892814d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4299,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg047"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "617c9946-7853-5eaf-af68-9045a8f52453",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6013,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
