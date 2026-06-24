@@ -2,8 +2,8 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1709,
-    "authors": 386,
+    "works": 1713,
+    "authors": 388,
     "eras": 10,
     "genres": 23,
     "languages": 9
@@ -32479,6 +32479,82 @@
       "difficulty": "Advanced",
       "description": "Valerius Maximus's Facta et Dicta Memorabilia, translated from the Latin by Thothica, with the Latin original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "asclepiodotus-tactica-1fce6e",
+      "title": "Tactica",
+      "author": "Asclepiodotus",
+      "author_slug": "asclepiodotus",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Asclepiodotus's Tactica, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "parthenius-of-nicaea-narrationes-amatoriae-ba182d",
+      "title": "Narrationes Amatoriae",
+      "author": "Parthenius of Nicaea",
+      "author_slug": "parthenius-of-nicaea",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Parthenius of Nicaea's Narrationes Amatoriae, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "pseudo-caesar-de-bello-hispaniensi-07b165",
+      "title": "De Bello Hispaniensi",
+      "author": "Pseudo-Caesar",
+      "author_slug": "pseudo-caesar",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Pseudo-Caesar's De Bello Hispaniensi, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "hippocrates-de-diaeta-acutorum-758ba2",
+      "title": "De diaeta acutorum",
+      "author": "Hippocrates",
+      "author_slug": "hippocrates",
+      "era": "Classical",
+      "era_slug": "classical",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Hippocrates's De diaeta acutorum, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -32733,7 +32809,8 @@
         "hippocrates-de-fistulis-92c7cf",
         "hippocrates-de-alimento-7216f1",
         "hippocrates-praeceptiones-0aae0f",
-        "hippocrates-lex-995b99"
+        "hippocrates-lex-995b99",
+        "hippocrates-de-diaeta-acutorum-758ba2"
       ]
     },
     "euclid": {
@@ -33612,7 +33689,8 @@
       "name": "Pseudo-Caesar",
       "works": [
         "pseudo-caesar-de-bello-africo-e70306",
-        "pseudo-caesar-de-bello-alexandrino-311ae7"
+        "pseudo-caesar-de-bello-alexandrino-311ae7",
+        "pseudo-caesar-de-bello-hispaniensi-07b165"
       ]
     },
     "julius-caesar": {
@@ -36120,6 +36198,18 @@
       "works": [
         "valerius-maximus-facta-et-dicta-memorabilia-86155b"
       ]
+    },
+    "asclepiodotus": {
+      "name": "Asclepiodotus",
+      "works": [
+        "asclepiodotus-tactica-1fce6e"
+      ]
+    },
+    "parthenius-of-nicaea": {
+      "name": "Parthenius of Nicaea",
+      "works": [
+        "parthenius-of-nicaea-narrationes-amatoriae-ba182d"
+      ]
     }
   },
   "eras": {
@@ -37064,7 +37154,8 @@
         "aristophanes-thesmophoriazusae-d8a38a",
         "aristophanes-knights-150cd5",
         "aristophanes-lysistrata-835f72",
-        "aristophanes-peace-75f3d4"
+        "aristophanes-peace-75f3d4",
+        "hippocrates-de-diaeta-acutorum-758ba2"
       ]
     },
     "hellenistic": {
@@ -37254,7 +37345,9 @@
         "cicero-marcus-tullius-topica-e2091e",
         "cicero-marcus-tullius-de-optimo-genere-oratorum-9aec20",
         "cicero-marcus-tullius-on-oratory-6f2b26",
-        "aratus-of-soli-phaenomena-765730"
+        "aratus-of-soli-phaenomena-765730",
+        "asclepiodotus-tactica-1fce6e",
+        "pseudo-caesar-de-bello-hispaniensi-07b165"
       ]
     },
     "imperial": {
@@ -37720,7 +37813,8 @@
         "seneca-lucius-annaeus-phoenissae-448a13",
         "apuleius-florida-9f7d41",
         "statius-achilleis-095f27",
-        "valerius-maximus-facta-et-dicta-memorabilia-86155b"
+        "valerius-maximus-facta-et-dicta-memorabilia-86155b",
+        "parthenius-of-nicaea-narrationes-amatoriae-ba182d"
       ]
     },
     "late-antiquity": {
@@ -38161,7 +38255,8 @@
         "tertullian-de-paenitentia-c59af6",
         "tertullian-de-exhortatione-castitatis-liber-170123",
         "tertullian-de-pallio-2b4851",
-        "tertullian-de-testimonio-animae-137921"
+        "tertullian-de-testimonio-animae-137921",
+        "hippocrates-de-diaeta-acutorum-758ba2"
       ]
     },
     "history": {
@@ -39185,7 +39280,9 @@
         "seneca-lucius-annaeus-octavia-7fcd43",
         "seneca-lucius-annaeus-phoenissae-448a13",
         "cicero-marcus-tullius-on-oratory-6f2b26",
-        "apuleius-florida-9f7d41"
+        "apuleius-florida-9f7d41",
+        "asclepiodotus-tactica-1fce6e",
+        "pseudo-caesar-de-bello-hispaniensi-07b165"
       ]
     },
     "political-theory": {
@@ -39705,7 +39802,8 @@
         "aurelius-prudentius-clem-praefatio-b8d117",
         "aurelius-prudentius-clem-dittochaeon-122670",
         "aratus-of-soli-phaenomena-765730",
-        "statius-achilleis-095f27"
+        "statius-achilleis-095f27",
+        "parthenius-of-nicaea-narrationes-amatoriae-ba182d"
       ]
     }
   },
@@ -40526,7 +40624,10 @@
         "flavius-philostratus-de-gymnastica-c26e4f",
         "flavius-philostratus-epistulae-et-dialexeis-c7dd8c",
         "flavius-philostratus-nero-36fd7e",
-        "aratus-of-soli-phaenomena-765730"
+        "aratus-of-soli-phaenomena-765730",
+        "asclepiodotus-tactica-1fce6e",
+        "parthenius-of-nicaea-narrationes-amatoriae-ba182d",
+        "hippocrates-de-diaeta-acutorum-758ba2"
       ]
     },
     "latin": {
@@ -40867,7 +40968,8 @@
         "aurelius-prudentius-clem-dittochaeon-122670",
         "apuleius-florida-9f7d41",
         "statius-achilleis-095f27",
-        "valerius-maximus-facta-et-dicta-memorabilia-86155b"
+        "valerius-maximus-facta-et-dicta-memorabilia-86155b",
+        "pseudo-caesar-de-bello-hispaniensi-07b165"
       ]
     },
     "english": {

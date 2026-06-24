@@ -1,0 +1,38 @@
+{
+  "work_slug": "asclepiodotus-tactica-1fce6e",
+  "work_title": "Tactica",
+  "chapter_number": 1,
+  "chapter_title": "Tactica",
+  "chapter_slug": "01-tactica",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7e56977a-9881-5bb9-8992-33fc635fa283",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6693,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0556.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "524c72e1-6c5f-5245-bc3a-c05614d4928f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8379,
+      "paragraph_count": 87,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
