@@ -1,0 +1,38 @@
+{
+  "work_slug": "flavius-philostratus-epistulae-et-dialexeis-c7dd8c",
+  "work_title": "Epistulae et dialexeis",
+  "chapter_number": 1,
+  "chapter_title": "Epistulae et dialexeis",
+  "chapter_slug": "01-epistulae-et-dialexeis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cb321438-db77-572f-bbf5-bcadfcedb971",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7675,
+      "paragraph_count": 75,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0638.tlg006"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b82acd60-5054-5450-b4e5-2fa5bfe1f3f1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9633,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-hercules-furens-27c6aa",
+  "work_title": "Hercules Furens",
+  "chapter_number": 1,
+  "chapter_title": "Hercules Furens",
+  "chapter_slug": "01-hercules-furens",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2ff1776b-5606-5e05-91b5-d7918792638b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7630,
+      "paragraph_count": 1382,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8dc18c26-d517-5c37-b397-e74b90e887ab",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12350,
+      "paragraph_count": 169,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

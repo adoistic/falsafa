@@ -1,0 +1,6452 @@
+[
+  {
+    "id": "p-ebba84",
+    "offset": 0,
+    "text": "Hippolytus"
+  },
+  {
+    "id": "p-aeaaa2",
+    "offset": 12,
+    "text": "Ite, umbrosas cingite silvas"
+  },
+  {
+    "id": "p-53342c",
+    "offset": 42,
+    "text": "summaque montis iuga, Cecropii!"
+  },
+  {
+    "id": "p-50d30e",
+    "offset": 75,
+    "text": "celeri planta lustrate vagi,"
+  },
+  {
+    "id": "p-e1ddb5",
+    "offset": 105,
+    "text": "quae saxosae loca Parnetbo"
+  },
+  {
+    "id": "p-eeb96c",
+    "offset": 133,
+    "text": "subiecta iacent,"
+  },
+  {
+    "id": "p-fedb67",
+    "offset": 151,
+    "text": "quae Thriasiis vallibus amnis"
+  },
+  {
+    "id": "p-654b48",
+    "offset": 182,
+    "text": "rapida currens verberat unda;"
+  },
+  {
+    "id": "p-315e51",
+    "offset": 213,
+    "text": "scandite colles"
+  },
+  {
+    "id": "p-2d58cb",
+    "offset": 230,
+    "text": "semper canos nive Riphaea;"
+  },
+  {
+    "id": "p-d96c77",
+    "offset": 258,
+    "text": "hac, Aegalei qua nemus alta"
+  },
+  {
+    "id": "p-29ae2b",
+    "offset": 287,
+    "text": "texitur alno, qua prata iacent"
+  },
+  {
+    "id": "p-24dd26",
+    "offset": 319,
+    "text": "quae rorifera mulcens aura"
+  },
+  {
+    "id": "p-631441",
+    "offset": 347,
+    "text": "Zephyrus vernas evocat herbas,"
+  },
+  {
+    "id": "p-f8bc6b",
+    "offset": 379,
+    "text": "ubi per graciles levis Ilisos"
+  },
+  {
+    "id": "p-4a86d8",
+    "offset": 410,
+    "text": "labitur agros piger et steriles"
+  },
+  {
+    "id": "p-ff5721",
+    "offset": 443,
+    "text": "amne maligno radit harenas;"
+  },
+  {
+    "id": "p-12af20",
+    "offset": 472,
+    "text": "vos qua Marathon tramite laevo"
+  },
+  {
+    "id": "p-6d1369",
+    "offset": 504,
+    "text": "saltus aperit,"
+  },
+  {
+    "id": "p-1e06c2",
+    "offset": 520,
+    "text": "qua comitatae gregibus parvis"
+  },
+  {
+    "id": "p-d9f8a8",
+    "offset": 551,
+    "text": "nocturna petunt pabula fetae;"
+  },
+  {
+    "id": "p-8680e0",
+    "offset": 582,
+    "text": "vos qua tepidis subditus austris"
+  },
+  {
+    "id": "p-cbe5c2",
+    "offset": 616,
+    "text": "frigora mollit durus Acbarneus."
+  },
+  {
+    "id": "p-bb8b22",
+    "offset": 649,
+    "text": "alius rupem dulcis Hymetti,"
+  },
+  {
+    "id": "p-f0e035",
+    "offset": 678,
+    "text": "parvas alius calcet Aphidnas:"
+  },
+  {
+    "id": "p-e2dc56",
+    "offset": 709,
+    "text": "pars illa diu vacat immunis,"
+  },
+  {
+    "id": "p-bf7651",
+    "offset": 739,
+    "text": "qua curvati litora ponti"
+  },
+  {
+    "id": "p-0250a1",
+    "offset": 765,
+    "text": "Sunion urget"
+  },
+  {
+    "id": "p-fb52b8",
+    "offset": 779,
+    "text": "si quem tangit gloria silvae,"
+  },
+  {
+    "id": "p-22f91a",
+    "offset": 810,
+    "text": "vocat hunc Phlyus:"
+  },
+  {
+    "id": "p-d2a2f2",
+    "offset": 830,
+    "text": "hic versatur, metus agricolis,"
+  },
+  {
+    "id": "p-44dd53",
+    "offset": 862,
+    "text": "vulnere multo iam notus aper."
+  },
+  {
+    "id": "p-8ec03f",
+    "offset": 893,
+    "text": "at vos laxas"
+  },
+  {
+    "id": "p-8eb337",
+    "offset": 907,
+    "text": "canibus tacitis mittite habenas;"
+  },
+  {
+    "id": "p-4da8a9",
+    "offset": 941,
+    "text": "teneant acres lora Molossos"
+  },
+  {
+    "id": "p-a9f75a",
+    "offset": 970,
+    "text": "et pugnaces tendunt Cretes"
+  },
+  {
+    "id": "p-096605",
+    "offset": 998,
+    "text": "fortia trito vine ala collo."
+  },
+  {
+    "id": "p-80c74c",
+    "offset": 1028,
+    "text": "at Spartanos"
+  },
+  {
+    "id": "p-d6f448",
+    "offset": 1042,
+    "text": "(genus est audax avidumque ferae)"
+  },
+  {
+    "id": "p-af182e",
+    "offset": 1077,
+    "text": "nodo cautus propiore liga:"
+  },
+  {
+    "id": "p-0dacba",
+    "offset": 1105,
+    "text": "veniet tempus,"
+  },
+  {
+    "id": "p-b2413a",
+    "offset": 1121,
+    "text": "cum latratu cava saxa sonent;"
+  },
+  {
+    "id": "p-0c13ed",
+    "offset": 1152,
+    "text": "nunc dimissi nare sagaci"
+  },
+  {
+    "id": "p-2d9ffa",
+    "offset": 1178,
+    "text": "captent auras"
+  },
+  {
+    "id": "p-320698",
+    "offset": 1193,
+    "text": "lustraque presso quaerant rostro,"
+  },
+  {
+    "id": "p-386de9",
+    "offset": 1228,
+    "text": "dum lux dubia est, dum signa pedum"
+  },
+  {
+    "id": "p-89db93",
+    "offset": 1264,
+    "text": "roscida tellus impressa tenet."
+  },
+  {
+    "id": "p-6a9003",
+    "offset": 1296,
+    "text": "alius raras"
+  },
+  {
+    "id": "p-d91467",
+    "offset": 1309,
+    "text": "cervice gravi portare plagas,"
+  },
+  {
+    "id": "p-81c2f0",
+    "offset": 1340,
+    "text": "alius teretes properet laqueos."
+  },
+  {
+    "id": "p-1b0dc7",
+    "offset": 1373,
+    "text": "picta rubenti linea pinna"
+  },
+  {
+    "id": "p-8a7754",
+    "offset": 1400,
+    "text": "vano cludat terrore feras."
+  },
+  {
+    "id": "p-c3b815",
+    "offset": 1428,
+    "text": "tibi vibretur missile telum,"
+  },
+  {
+    "id": "p-8b7b00",
+    "offset": 1458,
+    "text": "tu grave dextra laevaque simul"
+  },
+  {
+    "id": "p-a9131f",
+    "offset": 1490,
+    "text": "robur lato dirige ferro,"
+  },
+  {
+    "id": "p-d66283",
+    "offset": 1516,
+    "text": "tu praecipites clamore feras"
+  },
+  {
+    "id": "p-75015c",
+    "offset": 1546,
+    "text": "subsessor ages; tu iam victor"
+  },
+  {
+    "id": "p-99880c",
+    "offset": 1577,
+    "text": "curvo solves viscera cultro."
+  },
+  {
+    "id": "p-e3b740",
+    "offset": 1607,
+    "text": "Ades en comiti, diva virago,"
+  },
+  {
+    "id": "p-54946c",
+    "offset": 1637,
+    "text": "cuius regno"
+  },
+  {
+    "id": "p-9c8a6b",
+    "offset": 1650,
+    "text": "pars terrarum secreta vacat,"
+  },
+  {
+    "id": "p-ed2d55",
+    "offset": 1680,
+    "text": "cuius certis petitur telis"
+  },
+  {
+    "id": "p-e80bf2",
+    "offset": 1708,
+    "text": "fera quae gelidum"
+  },
+  {
+    "id": "p-5e0b8a",
+    "offset": 1727,
+    "text": "potat Araxen"
+  },
+  {
+    "id": "p-397414",
+    "offset": 1741,
+    "text": "et quae stanti ludit in Histro."
+  },
+  {
+    "id": "p-14f52f",
+    "offset": 1774,
+    "text": "* tua Gaetulos dextra leones,"
+  },
+  {
+    "id": "p-96e4da",
+    "offset": 1805,
+    "text": "tua Cretaeas sequitur cervas;"
+  },
+  {
+    "id": "p-a07b38",
+    "offset": 1836,
+    "text": "nunc veloces figis dammas"
+  },
+  {
+    "id": "p-6b6f71",
+    "offset": 1863,
+    "text": "leviore manu."
+  },
+  {
+    "id": "p-ea1193",
+    "offset": 1878,
+    "text": "tibi dant variae pectora tigres,"
+  },
+  {
+    "id": "p-4c89be",
+    "offset": 1912,
+    "text": "tibi villosi terga bisontes"
+  },
+  {
+    "id": "p-fa25e9",
+    "offset": 1941,
+    "text": "latisque feri cornibus uri."
+  },
+  {
+    "id": "p-13aea4",
+    "offset": 1970,
+    "text": "quicquid solis pascitur arvis,"
+  },
+  {
+    "id": "p-b72ac0",
+    "offset": 2002,
+    "text": "sive illud Arabs divite silva"
+  },
+  {
+    "id": "p-51df38",
+    "offset": 2033,
+    "text": "sive illud inops novit Garamans"
+  },
+  {
+    "id": "p-b98a77",
+    "offset": 2066,
+    "text": "sive ferocis iuga Pyrenes"
+  },
+  {
+    "id": "p-331c71",
+    "offset": 2093,
+    "text": "sive Hyrcani celant saltus,"
+  },
+  {
+    "id": "p-469cd1",
+    "offset": 2122,
+    "text": "vacuisque vagus Sarmata campis,"
+  },
+  {
+    "id": "p-c7abc6",
+    "offset": 2155,
+    "text": "arcus metuit, Diana, tuos."
+  },
+  {
+    "id": "p-53caf5",
+    "offset": 2183,
+    "text": "tua si gratus numina cultor"
+  },
+  {
+    "id": "p-84f7cd",
+    "offset": 2212,
+    "text": "tulit in saltus."
+  },
+  {
+    "id": "p-c62b1e",
+    "offset": 2230,
+    "text": "retia vinctas tenuere feras,"
+  },
+  {
+    "id": "p-686569",
+    "offset": 2260,
+    "text": "nulli laqueum rupere pedes:"
+  },
+  {
+    "id": "p-726f51",
+    "offset": 2289,
+    "text": "fertur plaustro praeda gementi;"
+  },
+  {
+    "id": "p-8578be",
+    "offset": 2322,
+    "text": "tum rostra canes sanguine multo-"
+  },
+  {
+    "id": "p-fc4475",
+    "offset": 2356,
+    "text": "rubicunda gerunt repetitque casas"
+  },
+  {
+    "id": "p-4f64c2",
+    "offset": 2391,
+    "text": "rustica longo turba triumpho."
+  },
+  {
+    "id": "p-b64b20",
+    "offset": 2422,
+    "text": "en, diva, faves:"
+  },
+  {
+    "id": "p-75a4df",
+    "offset": 2440,
+    "text": "signum arguti misere canes."
+  },
+  {
+    "id": "p-bb00bd",
+    "offset": 2469,
+    "text": "vocor in silvas, hac, hac pergam"
+  },
+  {
+    "id": "p-2e7d86",
+    "offset": 2503,
+    "text": "qua via longum compensat iter."
+  },
+  {
+    "id": "p-741f22",
+    "offset": 2535,
+    "text": "Phaedra Nutrix\nO magna vasti Creta dominatrix freti,"
+  },
+  {
+    "id": "p-141e10",
+    "offset": 2589,
+    "text": "cuius per omne litus innumerae rates"
+  },
+  {
+    "id": "p-90a64c",
+    "offset": 2627,
+    "text": "tenuere † pontum quicquid Assyria tenus"
+  },
+  {
+    "id": "p-ec4f1a",
+    "offset": 2668,
+    "text": "tellure Nereus pervius rostris secat,"
+  },
+  {
+    "id": "p-243ccb",
+    "offset": 2707,
+    "text": "cur me in penates obsidem invisos datam"
+  },
+  {
+    "id": "p-a58c92",
+    "offset": 2748,
+    "text": "hostique nuptam degere aetatem in malis"
+  },
+  {
+    "id": "p-4af406",
+    "offset": 2789,
+    "text": "lacrimisque cogis? profugus en coniunx abest"
+  },
+  {
+    "id": "p-af0db1",
+    "offset": 2835,
+    "text": "praestatque nuptae quam solet Theseus fidem,"
+  },
+  {
+    "id": "p-7b9234",
+    "offset": 2881,
+    "text": "fortis per altas invii retro lacus"
+  },
+  {
+    "id": "p-e2a8b6",
+    "offset": 2917,
+    "text": "vadit tenebras miles audacis proci,"
+  },
+  {
+    "id": "p-3a71ed",
+    "offset": 2954,
+    "text": "solio ut revulsam regis inferni abstrahat;"
+  },
+  {
+    "id": "p-0c1bcd",
+    "offset": 2998,
+    "text": "pergit furoris socius, haud illum timor"
+  },
+  {
+    "id": "p-7b6179",
+    "offset": 3039,
+    "text": "pudorque tenuit— stupra et illicitos toros"
+  },
+  {
+    "id": "p-6a13c1",
+    "offset": 3083,
+    "text": "Acheronte in imo quaerit Hippolyti pater."
+  },
+  {
+    "id": "p-ac149f",
+    "offset": 3126,
+    "text": "Sed maior alius incubat maestae dolor,"
+  },
+  {
+    "id": "p-580e10",
+    "offset": 3166,
+    "text": "non. me quies nocturna, non altus sopor"
+  },
+  {
+    "id": "p-55b3eb",
+    "offset": 3207,
+    "text": "solvere curis: alitur et crescit malum"
+  },
+  {
+    "id": "p-8ec395",
+    "offset": 3247,
+    "text": "et ardet intus qualis Aetnaeo vapor"
+  },
+  {
+    "id": "p-fbe47d",
+    "offset": 3284,
+    "text": "exundat antro. Palladis telae vacant"
+  },
+  {
+    "id": "p-985320",
+    "offset": 3322,
+    "text": "et inter ipsas pensa labuntur manus;"
+  },
+  {
+    "id": "p-26bc4f",
+    "offset": 3360,
+    "text": "non colere donis templa votivis libet."
+  },
+  {
+    "id": "p-aebf11",
+    "offset": 3400,
+    "text": "non inter aras. Atthidum mixtam choris."
+  },
+  {
+    "id": "p-1e9d5f",
+    "offset": 3441,
+    "text": "iactare tacitis conscias sacris faces,"
+  },
+  {
+    "id": "p-3131c1",
+    "offset": 3481,
+    "text": "nec adire castis precibus aut ritu pio"
+  },
+  {
+    "id": "p-2a9bfb",
+    "offset": 3521,
+    "text": "adiudicatae praesidem terrae deam:"
+  },
+  {
+    "id": "p-e64910",
+    "offset": 3557,
+    "text": "iuvat excitatas consequi cursu feras"
+  },
+  {
+    "id": "p-3a8e26",
+    "offset": 3595,
+    "text": "et rigida molli gaesa iaculari manu."
+  },
+  {
+    "id": "p-64e554",
+    "offset": 3633,
+    "text": "Quo tendis. anime? quid furens saltus amas?"
+  },
+  {
+    "id": "p-950869",
+    "offset": 3678,
+    "text": "fatale miserae matris agnosco malum:"
+  },
+  {
+    "id": "p-98b611",
+    "offset": 3716,
+    "text": "peccare noster novit in silvis amor."
+  },
+  {
+    "id": "p-41f7ae",
+    "offset": 3754,
+    "text": "genetrix, tui me miseret: infando malo"
+  },
+  {
+    "id": "p-6703d0",
+    "offset": 3794,
+    "text": "correpta pecoris efferum saevi ducem"
+  },
+  {
+    "id": "p-bbfe83",
+    "offset": 3832,
+    "text": "audax amasti; torvus, impatiens iugi"
+  },
+  {
+    "id": "p-d54538",
+    "offset": 3870,
+    "text": "adulter ille, ductor indomiti gregis—"
+  },
+  {
+    "id": "p-d7c5d9",
+    "offset": 3909,
+    "text": "sed amabat aliquid, quis meas miserae deus"
+  },
+  {
+    "id": "p-d2bc6b",
+    "offset": 3953,
+    "text": "aut quis iuvare Daedalus flammas queat?"
+  },
+  {
+    "id": "p-656aa8",
+    "offset": 3994,
+    "text": "non si ipse remeet, arte Mopsopia potens"
+  },
+  {
+    "id": "p-f2f705",
+    "offset": 4036,
+    "text": "qui nostra caeca monstra conclusit domo,"
+  },
+  {
+    "id": "p-38d4c6",
+    "offset": 4078,
+    "text": "promittat ullam casibus nostris opem."
+  },
+  {
+    "id": "p-5dc572",
+    "offset": 4117,
+    "text": "stirpem perosa Solis invisi Venus"
+  },
+  {
+    "id": "p-0bc514",
+    "offset": 4152,
+    "text": "per nos catenas vindicat Martis sui"
+  },
+  {
+    "id": "p-cbefc5",
+    "offset": 4189,
+    "text": "suasque, probris omne Phoebeum genus"
+  },
+  {
+    "id": "p-1a5e5c",
+    "offset": 4227,
+    "text": "onerat nefandis: nulla Minois levi"
+  },
+  {
+    "id": "p-21d2d0",
+    "offset": 4263,
+    "text": "defuncta amore est, iungitur semper nefas."
+  },
+  {
+    "id": "p-e72fae",
+    "offset": 4307,
+    "text": "Nvt.\nThesea coniunx, clara progenies Iovis,"
+  },
+  {
+    "id": "p-a29195",
+    "offset": 4352,
+    "text": "nefanda casto pectore exturba ocius,"
+  },
+  {
+    "id": "p-c64825",
+    "offset": 4390,
+    "text": "extingue flammas neve te dirae spei"
+  },
+  {
+    "id": "p-d22b39",
+    "offset": 4427,
+    "text": "praebe obsequentem: quisquis in primo obstitit"
+  },
+  {
+    "id": "p-8c4a5c",
+    "offset": 4475,
+    "text": "pepulitque amorem, tutus ac victor fuit;"
+  },
+  {
+    "id": "p-952d61",
+    "offset": 4517,
+    "text": "qui blandiendo dulce nutrivit malum,"
+  },
+  {
+    "id": "p-58ffeb",
+    "offset": 4555,
+    "text": "sero recusat ferre quod subiit iugum."
+  },
+  {
+    "id": "p-22a1f6",
+    "offset": 4594,
+    "text": "Nec me fugit, quam durus et veri insolens"
+  },
+  {
+    "id": "p-b6b1f8",
+    "offset": 4637,
+    "text": "ad recta flecti regius nolit tumor,"
+  },
+  {
+    "id": "p-63cb46",
+    "offset": 4674,
+    "text": "quemcumque dederit exitum casus feram:"
+  },
+  {
+    "id": "p-b566ff",
+    "offset": 4714,
+    "text": "fortem facit vicina libertas senem."
+  },
+  {
+    "id": "p-1bcd26",
+    "offset": 4751,
+    "text": "Honesta primum est velle nec labi via."
+  },
+  {
+    "id": "p-29f87a",
+    "offset": 4791,
+    "text": "pudor est secundus nosse peccandi modum,"
+  },
+  {
+    "id": "p-0fcb9c",
+    "offset": 4833,
+    "text": "quo, misera, pergis? quid domum infamem aggravas"
+  },
+  {
+    "id": "p-a17bf8",
+    "offset": 4883,
+    "text": "superasque matrem? maius est monstro nefas:"
+  },
+  {
+    "id": "p-12d768",
+    "offset": 4928,
+    "text": "nam monstra fato, moribus scelera imputes,"
+  },
+  {
+    "id": "p-a06b68",
+    "offset": 4972,
+    "text": "si, quod maritus supera non cernit loca,"
+  },
+  {
+    "id": "p-477ffc",
+    "offset": 5014,
+    "text": "tutum esse facinus credis et vacuum metu,"
+  },
+  {
+    "id": "p-a52507",
+    "offset": 5057,
+    "text": "erras; teneri crede Lethaeo abditum"
+  },
+  {
+    "id": "p-2504a7",
+    "offset": 5094,
+    "text": "Thesea profundo et ferre perpetuam Styga:"
+  },
+  {
+    "id": "p-e20748",
+    "offset": 5137,
+    "text": "quid ille, lato maria qui regno premit"
+  },
+  {
+    "id": "p-76281f",
+    "offset": 5177,
+    "text": "populisque reddit iura centeni», pater?"
+  },
+  {
+    "id": "p-4fcf91",
+    "offset": 5218,
+    "text": "latere tantum facinus occultum sinet?"
+  },
+  {
+    "id": "p-5db5e8",
+    "offset": 5257,
+    "text": "sagax parentum est cura. credamus tamen"
+  },
+  {
+    "id": "p-44b908",
+    "offset": 5298,
+    "text": "astu doloque tegere nos tantum nefas:"
+  },
+  {
+    "id": "p-da502e",
+    "offset": 5337,
+    "text": "quid ille rebus lumen infundens suum"
+  },
+  {
+    "id": "p-51a0bc",
+    "offset": 5375,
+    "text": "matris parens? quid ille qui mundum quatit"
+  },
+  {
+    "id": "p-b0d20b",
+    "offset": 5419,
+    "text": "vibrans corusca fulmen Aetnaeum manu,"
+  },
+  {
+    "id": "p-328d06",
+    "offset": 5458,
+    "text": "sator deorum? credis hoc posse effici,"
+  },
+  {
+    "id": "p-428126",
+    "offset": 5498,
+    "text": "inter videntes omnia ut lateas avos?"
+  },
+  {
+    "id": "p-111673",
+    "offset": 5536,
+    "text": "sed ut secundus numinum abscondat favor"
+  },
+  {
+    "id": "p-3c19aa",
+    "offset": 5577,
+    "text": "coitus nefandos utque contingat stupro"
+  },
+  {
+    "id": "p-4e5575",
+    "offset": 5617,
+    "text": "negata magnis sceleribus semper fides:"
+  },
+  {
+    "id": "p-f66c75",
+    "offset": 5657,
+    "text": "quid poena praesens, conscius mentis pavor"
+  },
+  {
+    "id": "p-c90112",
+    "offset": 5701,
+    "text": "animusque culpa plenus et semet timens?"
+  },
+  {
+    "id": "p-a23afe",
+    "offset": 5742,
+    "text": "scelus aliqua tutum, nulla securum tulit."
+  },
+  {
+    "id": "p-3b182b",
+    "offset": 5785,
+    "text": "compesce amoris impii flammas, precor,"
+  },
+  {
+    "id": "p-b7c83c",
+    "offset": 5825,
+    "text": "nefasque quod non ulla tellus barbara"
+  },
+  {
+    "id": "p-65c804",
+    "offset": 5864,
+    "text": "commisit umquam, non vagi campis Getae"
+  },
+  {
+    "id": "p-3eaae9",
+    "offset": 5904,
+    "text": "nec inhospitalis Taurus aut sparsus Scythes;"
+  },
+  {
+    "id": "p-cac206",
+    "offset": 5950,
+    "text": "expelle facinus mente castifica horridum"
+  },
+  {
+    "id": "p-844079",
+    "offset": 5992,
+    "text": "memorque matris metue concubitus novos."
+  },
+  {
+    "id": "p-f6c8bc",
+    "offset": 6033,
+    "text": "miscere thalamos patris et gnati apparas"
+  },
+  {
+    "id": "p-e0353f",
+    "offset": 6075,
+    "text": "uteroque prolem capere confusam impio?"
+  },
+  {
+    "id": "p-70c4cf",
+    "offset": 6115,
+    "text": "perge et nefandis verte naturam ignibus—"
+  },
+  {
+    "id": "p-2020b7",
+    "offset": 6157,
+    "text": "cur monstra cessant? aula cur fratris vacat?"
+  },
+  {
+    "id": "p-56e2e5",
+    "offset": 6203,
+    "text": "prodigia totiens orbis insueta audiet,"
+  },
+  {
+    "id": "p-8aab7a",
+    "offset": 6243,
+    "text": "natura totiens legibus cedet suis,"
+  },
+  {
+    "id": "p-1c62f8",
+    "offset": 6279,
+    "text": "quotiens amabit Cressa?"
+  },
+  {
+    "id": "p-2e6798",
+    "offset": 6304,
+    "text": "Ph.\nQuae memoras scio"
+  },
+  {
+    "id": "p-805e49",
+    "offset": 6327,
+    "text": "vera esse, nutrix; sed furor cogit sequi"
+  },
+  {
+    "id": "p-211a77",
+    "offset": 6369,
+    "text": "peiora, vadit animus in praeceps sciens"
+  },
+  {
+    "id": "p-b60c08",
+    "offset": 6410,
+    "text": "remeatque frustra sana consilia appetens."
+  },
+  {
+    "id": "p-660012",
+    "offset": 6453,
+    "text": "sic cum gravatam navita adversa ratem"
+  },
+  {
+    "id": "p-9bdea0",
+    "offset": 6492,
+    "text": "propellit unda, cedit in vanum labor"
+  },
+  {
+    "id": "p-a9981d",
+    "offset": 6530,
+    "text": "et victa prono puppis aufertur vado."
+  },
+  {
+    "id": "p-ce71f6",
+    "offset": 6568,
+    "text": "quid ratio possit? vicit ac regnat furor"
+  },
+  {
+    "id": "p-291860",
+    "offset": 6610,
+    "text": "potensque tota mente dominatur deus."
+  },
+  {
+    "id": "p-e1445e",
+    "offset": 6648,
+    "text": "hic volucer omni pollet in- terra impotens"
+  },
+  {
+    "id": "p-a81c52",
+    "offset": 6692,
+    "text": "ipsumque flammis torret indomitis Iovem;"
+  },
+  {
+    "id": "p-01d7de",
+    "offset": 6734,
+    "text": "Gradivus istas belliger sensit faces,"
+  },
+  {
+    "id": "p-ac6ec0",
+    "offset": 6773,
+    "text": "opifex trisulci fulminis sensit deus,"
+  },
+  {
+    "id": "p-fb6ca0",
+    "offset": 6812,
+    "text": "et qui furentis semper Aetnaeis iugis"
+  },
+  {
+    "id": "p-989081",
+    "offset": 6851,
+    "text": "versat caminos igne tam parvo calet;"
+  },
+  {
+    "id": "p-8802c1",
+    "offset": 6889,
+    "text": "ipsumque Phoebum, tela qui nervo regit,"
+  },
+  {
+    "id": "p-93e03b",
+    "offset": 6930,
+    "text": "figit sagitta certior missa puer"
+  },
+  {
+    "id": "p-8eff17",
+    "offset": 6964,
+    "text": "volitatque caelo pariter et terris gravis."
+  },
+  {
+    "id": "p-ed0c14",
+    "offset": 7008,
+    "text": "Nvtr.\nDeum esse amorem turpis et vitio favens"
+  },
+  {
+    "id": "p-1c3139",
+    "offset": 7055,
+    "text": "finxit libido, quoque liberior foret"
+  },
+  {
+    "id": "p-75829f",
+    "offset": 7093,
+    "text": "titulum furori numinis falsi addidit."
+  },
+  {
+    "id": "p-9b2bd8",
+    "offset": 7132,
+    "text": "natum per omnis scilicet terras vagum"
+  },
+  {
+    "id": "p-34d0de",
+    "offset": 7171,
+    "text": "Erycina mittit, ille per caelum volans"
+  },
+  {
+    "id": "p-2d9447",
+    "offset": 7211,
+    "text": "proterva tenera tela molitur manu"
+  },
+  {
+    "id": "p-58ad19",
+    "offset": 7246,
+    "text": "regnumque tantum minimus e superis habet:"
+  },
+  {
+    "id": "p-9e3acb",
+    "offset": 7289,
+    "text": "vana ista demens animus ascivit sibi"
+  },
+  {
+    "id": "p-ef5076",
+    "offset": 7327,
+    "text": "Venerisque numen finxit atque arcus dei."
+  },
+  {
+    "id": "p-01b656",
+    "offset": 7369,
+    "text": "quisquis secundis rebus exultat nimis"
+  },
+  {
+    "id": "p-b92ec5",
+    "offset": 7408,
+    "text": "fluitque luxu, semper insolita appetit."
+  },
+  {
+    "id": "p-262376",
+    "offset": 7449,
+    "text": "tunc illa magnae dira fortunae comes"
+  },
+  {
+    "id": "p-9a84ea",
+    "offset": 7487,
+    "text": "subit libido: non placent suetae dapes,"
+  },
+  {
+    "id": "p-024278",
+    "offset": 7528,
+    "text": "non tecta sani moris aut vilis scyphus."
+  },
+  {
+    "id": "p-d71b3d",
+    "offset": 7569,
+    "text": "cur in penates rarius tenues subit"
+  },
+  {
+    "id": "p-bbe318",
+    "offset": 7605,
+    "text": "haec delicatae eligens pestis domos?"
+  },
+  {
+    "id": "p-5ba74d",
+    "offset": 7643,
+    "text": "cur sancta parvis habitat in tectis Venus"
+  },
+  {
+    "id": "p-d6cc29",
+    "offset": 7686,
+    "text": "mediumque sanos vulgus affectus tenet"
+  },
+  {
+    "id": "p-584bae",
+    "offset": 7725,
+    "text": "et se coercent modica? contra divites"
+  },
+  {
+    "id": "p-dd4699",
+    "offset": 7764,
+    "text": "regnoque fulti plura quam fas est petunt?"
+  },
+  {
+    "id": "p-360278",
+    "offset": 7807,
+    "text": "quod non potest vult posse qui nimium potest."
+  },
+  {
+    "id": "p-e0c88b",
+    "offset": 7854,
+    "text": "quid deceat alto praeditam solio vides:"
+  },
+  {
+    "id": "p-c24c75",
+    "offset": 7895,
+    "text": "metue ac verere sceptra remeantis viri."
+  },
+  {
+    "id": "p-6f92d6",
+    "offset": 7936,
+    "text": "Ph.\nAmoris in me maximum regnum puto"
+  },
+  {
+    "id": "p-64fc01",
+    "offset": 7974,
+    "text": "reditusque nullos metuo: non umquam amplius"
+  },
+  {
+    "id": "p-d39fff",
+    "offset": 8019,
+    "text": "convexa tetigit supera qui mersus semel"
+  },
+  {
+    "id": "p-19f391",
+    "offset": 8060,
+    "text": "adiit silentem nocte perpetua domum."
+  },
+  {
+    "id": "p-f9d16a",
+    "offset": 8098,
+    "text": "Nvtr.\nNe crede Diti. clauserit regnum licet"
+  },
+  {
+    "id": "p-08e8d0",
+    "offset": 8143,
+    "text": "canisque diras Stygius observet fores:"
+  },
+  {
+    "id": "p-d89554",
+    "offset": 8183,
+    "text": "solus negatas invenit Theseus vias."
+  },
+  {
+    "id": "p-44700b",
+    "offset": 8220,
+    "text": "Ph.\nVeniam ille amori forsitan nostro dabit."
+  },
+  {
+    "id": "p-3f6a62",
+    "offset": 8266,
+    "text": "Nvtr.\nImmitis etiam coniugi castae fuit:"
+  },
+  {
+    "id": "p-1a944a",
+    "offset": 8308,
+    "text": "experta saevam est barbara Antiope manum."
+  },
+  {
+    "id": "p-87df4f",
+    "offset": 8351,
+    "text": "sed posse flecti coniugem iratum puta:"
+  },
+  {
+    "id": "p-3bfdbe",
+    "offset": 8391,
+    "text": "quis huius animum flectet intractabilem?"
+  },
+  {
+    "id": "p-385f90",
+    "offset": 8433,
+    "text": "exosus omne feminae nomen fugit,"
+  },
+  {
+    "id": "p-fd2247",
+    "offset": 8467,
+    "text": "immitis annos caelibi vitae dicat,"
+  },
+  {
+    "id": "p-4b130a",
+    "offset": 8503,
+    "text": "conubia vitat: genus Amazonium scias."
+  },
+  {
+    "id": "p-ad5989",
+    "offset": 8542,
+    "text": "Ph.\nHunc in nivosi collis haerentem iugis,"
+  },
+  {
+    "id": "p-61ea2a",
+    "offset": 8586,
+    "text": "et aspera agili saxa calcantem pede"
+  },
+  {
+    "id": "p-c3acee",
+    "offset": 8623,
+    "text": "sequi per alta nemora, per montes placet."
+  },
+  {
+    "id": "p-43374b",
+    "offset": 8666,
+    "text": "Nvtr.\nResistet ille seque mulcendum dabit"
+  },
+  {
+    "id": "p-93170d",
+    "offset": 8709,
+    "text": "castosque ritus Venere non casta exuet?"
+  },
+  {
+    "id": "p-0711e9",
+    "offset": 8750,
+    "text": "tibi ponet odium, cuius odio forsitan"
+  },
+  {
+    "id": "p-7a4ec9",
+    "offset": 8789,
+    "text": "persequitur omnes? precibus haud vinci potest."
+  },
+  {
+    "id": "p-cf6fca",
+    "offset": 8837,
+    "text": "Ph.\nFerus est? amore didicimus vinci feros."
+  },
+  {
+    "id": "p-22316d",
+    "offset": 8882,
+    "text": "Nvtr.\nFugiet."
+  },
+  {
+    "id": "p-a8ae62",
+    "offset": 8897,
+    "text": "Ph.\nPer ipsa maria si fugiet, sequar."
+  },
+  {
+    "id": "p-dd78df",
+    "offset": 8936,
+    "text": "Nvtr.\nPatris memento."
+  },
+  {
+    "id": "p-35919a",
+    "offset": 8959,
+    "text": "Ph.\nMeminimus matris simul."
+  },
+  {
+    "id": "p-499017",
+    "offset": 8988,
+    "text": "Nvtr.\nGenus omne profugit."
+  },
+  {
+    "id": "p-027102",
+    "offset": 9016,
+    "text": "Ph.\nPaelicis careo metu."
+  },
+  {
+    "id": "p-913cc8",
+    "offset": 9042,
+    "text": "Nvtr.\nAderit maritus—"
+  },
+  {
+    "id": "p-942471",
+    "offset": 9065,
+    "text": "Ph.\nNempe Perithoi comes?"
+  },
+  {
+    "id": "p-377302",
+    "offset": 9092,
+    "text": "Nvtr.\nAderitque genitor,"
+  },
+  {
+    "id": "p-92dddb",
+    "offset": 9118,
+    "text": "Ph.\nMitis, Ariadnae pater."
+  },
+  {
+    "id": "p-b24293",
+    "offset": 9146,
+    "text": "Nvtr.\nPer has senectae splendidas supplex comas"
+  },
+  {
+    "id": "p-7898f5",
+    "offset": 9195,
+    "text": "fessumque curis pectus et cara ubera"
+  },
+  {
+    "id": "p-31e66a",
+    "offset": 9233,
+    "text": "precor, furorem siste teque ipsa adiuva:"
+  },
+  {
+    "id": "p-15a281",
+    "offset": 9275,
+    "text": "pars sanitatis velle sanari fuit."
+  },
+  {
+    "id": "p-868458",
+    "offset": 9310,
+    "text": "Ph.\nNon omnis animo cessit ingenuo pudor."
+  },
+  {
+    "id": "p-64d929",
+    "offset": 9353,
+    "text": "paremus, altrix. qui regi non vult amor"
+  },
+  {
+    "id": "p-3e02c5",
+    "offset": 9394,
+    "text": "vincatur. haud te, fama, maculari sinam."
+  },
+  {
+    "id": "p-329150",
+    "offset": 9436,
+    "text": "haec sola ratio est, unicum effugium mali:"
+  },
+  {
+    "id": "p-1b0ea4",
+    "offset": 9480,
+    "text": "virum sequamur, morte praevertam nefas."
+  },
+  {
+    "id": "p-73ecf7",
+    "offset": 9521,
+    "text": "Nvtr.\nModerare, alumna, mentis effrenae impetus,"
+  },
+  {
+    "id": "p-f83306",
+    "offset": 9571,
+    "text": "animos coerce, dignam ob hoc vita reor"
+  },
+  {
+    "id": "p-51e8bb",
+    "offset": 9611,
+    "text": "quod esse temet autumas dignam nece."
+  },
+  {
+    "id": "p-0d99f7",
+    "offset": 9649,
+    "text": "Ph.\nDecreta mors est: quaeritur fati genus."
+  },
+  {
+    "id": "p-6868b6",
+    "offset": 9694,
+    "text": "laqueone vitam finiam an ferro incubem?"
+  },
+  {
+    "id": "p-e58651",
+    "offset": 9735,
+    "text": "an missa praeceps arce Palladia cadam?"
+  },
+  {
+    "id": "p-c2a044",
+    "offset": 9775,
+    "text": "Nvtr.\nSic te senectus nostra praecipiti sinat"
+  },
+  {
+    "id": "p-888f19",
+    "offset": 9822,
+    "text": "perire leto? siste furibundum impetum."
+  },
+  {
+    "id": "p-1e3cdb",
+    "offset": 9862,
+    "text": "Ph.\nProhibere nulla ratio periturum potest:"
+  },
+  {
+    "id": "p-ea7398",
+    "offset": 9907,
+    "text": "ubi qui mori constituit et debet mori."
+  },
+  {
+    "id": "p-0df133",
+    "offset": 9947,
+    "text": "proin castitatis vindicem armemus manum."
+  },
+  {
+    "id": "p-a0012b",
+    "offset": 9989,
+    "text": "Nvtr.\nSolamen annis unicum fessis, era,"
+  },
+  {
+    "id": "p-949ae8",
+    "offset": 10030,
+    "text": "si tam protervus incubat menti furor,"
+  },
+  {
+    "id": "p-966424",
+    "offset": 10069,
+    "text": "contemne famam— fama vix vero favet,"
+  },
+  {
+    "id": "p-43eda1",
+    "offset": 10107,
+    "text": "peius merenti melior et peior bono."
+  },
+  {
+    "id": "p-76d79b",
+    "offset": 10144,
+    "text": "temptemus animum tristem et intractabilem."
+  },
+  {
+    "id": "p-067c4a",
+    "offset": 10188,
+    "text": "meus iste labor est aggredi iuvenem ferum"
+  },
+  {
+    "id": "p-e758b8",
+    "offset": 10231,
+    "text": "mentemque saevam flectere immitis viri."
+  },
+  {
+    "id": "p-3a16ed",
+    "offset": 10272,
+    "text": "Chorus Cressae\nDiva non miti generata ponto,"
+  },
+  {
+    "id": "p-354d86",
+    "offset": 10318,
+    "text": "quam vocat matrem geminus Cupido,"
+  },
+  {
+    "id": "p-9c4f89",
+    "offset": 10353,
+    "text": "iste lascivus puer et renidens"
+  },
+  {
+    "id": "p-0dbb7f",
+    "offset": 10385,
+    "text": "tela quam certo moderatur arcu!"
+  },
+  {
+    "id": "p-57d66b",
+    "offset": 10418,
+    "text": "non habet latam data plaga frontem,"
+  },
+  {
+    "id": "p-77c912",
+    "offset": 10455,
+    "text": "sed vorat tectas penitus medullas,"
+  },
+  {
+    "id": "p-c75410",
+    "offset": 10491,
+    "text": "nulla pax isti puero: per orbem"
+  },
+  {
+    "id": "p-284587",
+    "offset": 10524,
+    "text": "spargit effusas agilis sagittas;"
+  },
+  {
+    "id": "p-6fffc2",
+    "offset": 10558,
+    "text": "quaeque nascentem videt ora solem,"
+  },
+  {
+    "id": "p-681ab0",
+    "offset": 10594,
+    "text": "quaeque ad Hesperiae iacet ora metas,"
+  },
+  {
+    "id": "p-c2cc81",
+    "offset": 10633,
+    "text": "si qua ferventi subiecta cancro,"
+  },
+  {
+    "id": "p-471998",
+    "offset": 10667,
+    "text": "si qua Parrbasiae glacialis ursae"
+  },
+  {
+    "id": "p-41cf69",
+    "offset": 10702,
+    "text": "semper errantes patitur colonos,"
+  },
+  {
+    "id": "p-618d6d",
+    "offset": 10736,
+    "text": "novit hos aestus, iuvenum feroces"
+  },
+  {
+    "id": "p-c84f1e",
+    "offset": 10771,
+    "text": "concitat flammas senibusque fessis"
+  },
+  {
+    "id": "p-d9f13c",
+    "offset": 10807,
+    "text": "rursus extinctos revocat calores,"
+  },
+  {
+    "id": "p-2f3dca",
+    "offset": 10842,
+    "text": "virginum ignoto ferit igne pectus"
+  },
+  {
+    "id": "p-638179",
+    "offset": 10877,
+    "text": "et iubet caelo superos relicto"
+  },
+  {
+    "id": "p-d8dc0b",
+    "offset": 10909,
+    "text": "vultibus falsis habitare terras."
+  },
+  {
+    "id": "p-eb7447",
+    "offset": 10943,
+    "text": "Thessali Phoebus pecoris magister"
+  },
+  {
+    "id": "p-605c29",
+    "offset": 10978,
+    "text": "egit armentum positoque plectro"
+  },
+  {
+    "id": "p-48549f",
+    "offset": 11011,
+    "text": "impari tauros calamo vocavit,"
+  },
+  {
+    "id": "p-9957a6",
+    "offset": 11042,
+    "text": "induit formas quotiens minores"
+  },
+  {
+    "id": "p-828d68",
+    "offset": 11074,
+    "text": "ipse qui caelum nebulasque ducit:"
+  },
+  {
+    "id": "p-6e5a81",
+    "offset": 11109,
+    "text": "Candidas ales modo movit alas,"
+  },
+  {
+    "id": "p-226882",
+    "offset": 11141,
+    "text": "dulcior vocem moriente cygno ;"
+  },
+  {
+    "id": "p-5e3da1",
+    "offset": 11173,
+    "text": "fronte nunc torva petulans iuvencus"
+  },
+  {
+    "id": "p-e39a38",
+    "offset": 11210,
+    "text": "virginum stravit sua terga ludo,"
+  },
+  {
+    "id": "p-063a09",
+    "offset": 11244,
+    "text": "perque fraternos nova regna fluctus"
+  },
+  {
+    "id": "p-62404d",
+    "offset": 11281,
+    "text": "ungula lentos imitante remos"
+  },
+  {
+    "id": "p-54f55d",
+    "offset": 11311,
+    "text": "* pectore adverso domuit profundum,"
+  },
+  {
+    "id": "p-8e0f93",
+    "offset": 11348,
+    "text": "pro sua vector timidus rapina,"
+  },
+  {
+    "id": "p-d786c2",
+    "offset": 11380,
+    "text": "arsit obscuri dea clara mundi"
+  },
+  {
+    "id": "p-fa06d9",
+    "offset": 11411,
+    "text": "nocte deserta nitidosque fratri"
+  },
+  {
+    "id": "p-167915",
+    "offset": 11444,
+    "text": "tradidit currus aliter regendos:"
+  },
+  {
+    "id": "p-fab284",
+    "offset": 11478,
+    "text": "ille nocturnas agitare bigas"
+  },
+  {
+    "id": "p-dc1754",
+    "offset": 11508,
+    "text": "discit et gyro breviore flecti,"
+  },
+  {
+    "id": "p-8a0f0c",
+    "offset": 11541,
+    "text": "dum tremunt axes graviore curru;"
+  },
+  {
+    "id": "p-f2cb31",
+    "offset": 11575,
+    "text": "nec suum tempus tenuere nectes"
+  },
+  {
+    "id": "p-bc17e5",
+    "offset": 11607,
+    "text": "et dies tardo remeavit ortu."
+  },
+  {
+    "id": "p-649f2c",
+    "offset": 11637,
+    "text": "natus Alcmena posuit pharetras"
+  },
+  {
+    "id": "p-67ccbe",
+    "offset": 11669,
+    "text": "et minax vasti spolium leonis,"
+  },
+  {
+    "id": "p-f3b738",
+    "offset": 11701,
+    "text": "passus aptari digitis zmaragdos"
+  },
+  {
+    "id": "p-0ff2dd",
+    "offset": 11734,
+    "text": "et^dari legem rudibus capillis;"
+  },
+  {
+    "id": "p-8a8cd5",
+    "offset": 11767,
+    "text": "crura distincto religavit auro."
+  },
+  {
+    "id": "p-008f68",
+    "offset": 11800,
+    "text": "luteo plantas cohibente socco;"
+  },
+  {
+    "id": "p-ff9cec",
+    "offset": 11832,
+    "text": "et manu, clavam modo qua gerebat,"
+  },
+  {
+    "id": "p-bcab89",
+    "offset": 11867,
+    "text": "fila deduxit properante fuso:"
+  },
+  {
+    "id": "p-c3cf41",
+    "offset": 11898,
+    "text": "Vidit Persis ditique ferox"
+  },
+  {
+    "id": "p-98e052",
+    "offset": 11926,
+    "text": "Lydia regno"
+  },
+  {
+    "id": "p-11c43a",
+    "offset": 11939,
+    "text": "deiecta feri terga leonis"
+  },
+  {
+    "id": "p-4bbca2",
+    "offset": 11966,
+    "text": "umerisque, quibus sederat alti"
+  },
+  {
+    "id": "p-1e7f87",
+    "offset": 11998,
+    "text": "regia caeli,"
+  },
+  {
+    "id": "p-c213fe",
+    "offset": 12012,
+    "text": "tenuem Tyrio stamine pallam."
+  },
+  {
+    "id": "p-79fe34",
+    "offset": 12042,
+    "text": "sacer est ignis (credite laesis)"
+  },
+  {
+    "id": "p-17dc2b",
+    "offset": 12076,
+    "text": "nimiumque potens, qua terra salo"
+  },
+  {
+    "id": "p-91a3eb",
+    "offset": 12110,
+    "text": "cingitur alto quaque per ipsum"
+  },
+  {
+    "id": "p-440b15",
+    "offset": 12142,
+    "text": "candida mundum sidera currunt:"
+  },
+  {
+    "id": "p-cd5a9f",
+    "offset": 12174,
+    "text": "haec regna tenet puer immitis,"
+  },
+  {
+    "id": "p-31b4bb",
+    "offset": 12206,
+    "text": "spicula cuius sentit in imis"
+  },
+  {
+    "id": "p-a7659d",
+    "offset": 12236,
+    "text": "pervius undis rex Nereidum"
+  },
+  {
+    "id": "p-68e697",
+    "offset": 12264,
+    "text": "flammamque nequit relevare mari."
+  },
+  {
+    "id": "p-e8a703",
+    "offset": 12298,
+    "text": "ignes sentit genus aligerum;"
+  },
+  {
+    "id": "p-1aac50",
+    "offset": 12328,
+    "text": "Venere instinctus suscipit audax"
+  },
+  {
+    "id": "p-bb63d5",
+    "offset": 12362,
+    "text": "grege pro toto bella iuvencus;"
+  },
+  {
+    "id": "p-0c9350",
+    "offset": 12394,
+    "text": "si coniugio timuere suo,"
+  },
+  {
+    "id": "p-4adcb4",
+    "offset": 12420,
+    "text": "poscunt timidi proelia cervi."
+  },
+  {
+    "id": "p-97fce0",
+    "offset": 12451,
+    "text": "Poeni quatiunt colla leones"
+  },
+  {
+    "id": "p-68e83e",
+    "offset": 12480,
+    "text": "cum movit Amor."
+  },
+  {
+    "id": "p-c455b6",
+    "offset": 12497,
+    "text": "et mugitu dant concepti"
+  },
+  {
+    "id": "p-9151c5",
+    "offset": 12522,
+    "text": "signa furoris."
+  },
+  {
+    "id": "p-3995a2",
+    "offset": 12538,
+    "text": "tunc virgatas India tigres"
+  },
+  {
+    "id": "p-63b75f",
+    "offset": 12566,
+    "text": "decolor horret;"
+  },
+  {
+    "id": "p-4a065b",
+    "offset": 12583,
+    "text": "tunc vulnificos acuit dentes"
+  },
+  {
+    "id": "p-afee31",
+    "offset": 12613,
+    "text": "aper et toto est spumeus ore;"
+  },
+  {
+    "id": "p-01d634",
+    "offset": 12644,
+    "text": "tum silva gemit murmure saevo."
+  },
+  {
+    "id": "p-47394a",
+    "offset": 12676,
+    "text": "amat insani belua ponti"
+  },
+  {
+    "id": "p-bd83b4",
+    "offset": 12701,
+    "text": "Lucaeque boves: vindicat omnes"
+  },
+  {
+    "id": "p-a96a56",
+    "offset": 12733,
+    "text": "natura, sibi nihil immune est,"
+  },
+  {
+    "id": "p-27ab61",
+    "offset": 12765,
+    "text": "odiumque perit, cum iussit Amor:"
+  },
+  {
+    "id": "p-9abb9c",
+    "offset": 12799,
+    "text": "veteres cedunt ignibus irae."
+  },
+  {
+    "id": "p-be47cc",
+    "offset": 12829,
+    "text": "quid plura canam?"
+  },
+  {
+    "id": "p-7b621b",
+    "offset": 12848,
+    "text": "vincit saevas cura novercas."
+  },
+  {
+    "id": "p-492c2f",
+    "offset": 12878,
+    "text": "altrix, profare quid feras; quonam in loco est"
+  },
+  {
+    "id": "p-25512c",
+    "offset": 12926,
+    "text": "regina? saevis ecquis- est flammis modus?."
+  },
+  {
+    "id": "p-a66d15",
+    "offset": 12970,
+    "text": "nutrix phaedra chorus\nSpes nulla tantum posse leniri malum,"
+  },
+  {
+    "id": "p-1ddb7d",
+    "offset": 13031,
+    "text": "finisque flammis nullus insanis erit."
+  },
+  {
+    "id": "p-760e87",
+    "offset": 13070,
+    "text": "torretur aestu tacito et inclusus quoque,"
+  },
+  {
+    "id": "p-0e553e",
+    "offset": 13113,
+    "text": "quamvis tegatur, proditur vultu furor;"
+  },
+  {
+    "id": "p-64fa63",
+    "offset": 13153,
+    "text": "erumpit oculis ignis et lassae genae"
+  },
+  {
+    "id": "p-b1de71",
+    "offset": 13191,
+    "text": "lucem recusant, nil idem dubiae placet"
+  },
+  {
+    "id": "p-21739a",
+    "offset": 13231,
+    "text": "artusque varie iactat incertus dolor,"
+  },
+  {
+    "id": "p-c41789",
+    "offset": 13270,
+    "text": "nunc ut soluto labitur moriens gradu"
+  },
+  {
+    "id": "p-4a9f64",
+    "offset": 13308,
+    "text": "et vix labante sustinet collo caput,"
+  },
+  {
+    "id": "p-cfd499",
+    "offset": 13346,
+    "text": "nunc se quieti reddit et. somni immemor,"
+  },
+  {
+    "id": "p-e0b2c1",
+    "offset": 13388,
+    "text": "noctem querelis ducit; attolli iubet"
+  },
+  {
+    "id": "p-1004ce",
+    "offset": 13426,
+    "text": "iterumque poni corpus et solvi comas"
+  },
+  {
+    "id": "p-68a5cb",
+    "offset": 13464,
+    "text": "rursusque fingi: semper impatiens sui"
+  },
+  {
+    "id": "p-6ac6c1",
+    "offset": 13503,
+    "text": "mutatur habitus, nulla iam Cereris subit"
+  },
+  {
+    "id": "p-041339",
+    "offset": 13545,
+    "text": "cura aut salutis; vadit' incerto pede,"
+  },
+  {
+    "id": "p-cd61f0",
+    "offset": 13585,
+    "text": "iam viribus defecta: non idem vigor,"
+  },
+  {
+    "id": "p-49b22a",
+    "offset": 13623,
+    "text": "non ora tinguens nitida purpureus rubor;"
+  },
+  {
+    "id": "p-feef5e",
+    "offset": 13665,
+    "text": "et qui ferebant signa Phoebeae facis"
+  },
+  {
+    "id": "p-b5c6e7",
+    "offset": 13703,
+    "text": "oculi nihil gentile nec patrium micant."
+  },
+  {
+    "id": "p-7312b5",
+    "offset": 13744,
+    "text": "lacrimae cadunt per ora et assiduo genae"
+  },
+  {
+    "id": "p-87fae0",
+    "offset": 13786,
+    "text": "rore irrigantur, qualiter Tauri iugis"
+  },
+  {
+    "id": "p-fe1fa7",
+    "offset": 13825,
+    "text": "tepido madescunt imbre percussae nives."
+  },
+  {
+    "id": "p-9c2f38",
+    "offset": 13866,
+    "text": "Chor.\nSepone questus: non levat miseros dolor;"
+  },
+  {
+    "id": "p-172358",
+    "offset": 13914,
+    "text": "agreste placa virginis numen deae."
+  },
+  {
+    "id": "p-fd253b",
+    "offset": 13950,
+    "text": "Sed en, patescunt regiae fastigia."
+  },
+  {
+    "id": "p-7a0e3f",
+    "offset": 13986,
+    "text": "reclinis ipsa sedis auratae toro"
+  },
+  {
+    "id": "p-f4ccde",
+    "offset": 14020,
+    "text": "solitos amictus mente non sana abnuit."
+  },
+  {
+    "id": "p-351de8",
+    "offset": 14060,
+    "text": "Ph.\nRemovete, famulae, purpura atque auro inlitas"
+  },
+  {
+    "id": "p-3015a3",
+    "offset": 14111,
+    "text": "vestes, procul sit muricis Tyrii rubor,"
+  },
+  {
+    "id": "p-4cf58c",
+    "offset": 14152,
+    "text": "quae fila ramis ultimi Seres legunt:"
+  },
+  {
+    "id": "p-bebc25",
+    "offset": 14190,
+    "text": "brevis expeditos zona constringat sinus,"
+  },
+  {
+    "id": "p-b6cd6d",
+    "offset": 14232,
+    "text": "cervix monili vacua, nec niveus lapis"
+  },
+  {
+    "id": "p-b7f3c4",
+    "offset": 14271,
+    "text": "deducat auris, Indici donum maris;"
+  },
+  {
+    "id": "p-8d30f3",
+    "offset": 14307,
+    "text": "odore crinis sparsus Assyrio vacet,"
+  },
+  {
+    "id": "p-dde2fc",
+    "offset": 14344,
+    "text": "sic temere iactae. colla perfundant comae"
+  },
+  {
+    "id": "p-cdb2b0",
+    "offset": 14387,
+    "text": "umerosque summos, cursibus motae citis"
+  },
+  {
+    "id": "p-cbba74",
+    "offset": 14427,
+    "text": "ventos sequantur, laeva se pharetrae dabit,"
+  },
+  {
+    "id": "p-bb047b",
+    "offset": 14472,
+    "text": "hastile vibret dextra Thessalicum manus."
+  },
+  {
+    "id": "p-ccb557",
+    "offset": 14514,
+    "text": "qualis relictis frigidi Ponti plagis"
+  },
+  {
+    "id": "p-2a8954",
+    "offset": 14552,
+    "text": "egit catervas Atticum pulsans solum"
+  },
+  {
+    "id": "p-4bae45",
+    "offset": 14589,
+    "text": "Tanaitis aut Maeotis et nodo comas"
+  },
+  {
+    "id": "p-ea6bef",
+    "offset": 14625,
+    "text": "coegit emisitque. lunata latus"
+  },
+  {
+    "id": "p-4f38ec",
+    "offset": 14657,
+    "text": "protecta pelta: talis in silvas ferar."
+  },
+  {
+    "id": "p-14c32b",
+    "offset": 14697,
+    "text": "Nutrix Hippolytus"
+  },
+  {
+    "id": "p-4958e0",
+    "offset": 14716,
+    "text": "Regina nemorum, sola quae montes colis"
+  },
+  {
+    "id": "p-c8b97c",
+    "offset": 14756,
+    "text": "et una solis montibus coleris dea,"
+  },
+  {
+    "id": "p-e8fa49",
+    "offset": 14792,
+    "text": "converte tristes ominum in melius minas,"
+  },
+  {
+    "id": "p-ad05e7",
+    "offset": 14834,
+    "text": "o magna silvas inter et lucos dea"
+  },
+  {
+    "id": "p-3a60a6",
+    "offset": 14869,
+    "text": "claramque caeli sidus et noctis decus,"
+  },
+  {
+    "id": "p-8f80db",
+    "offset": 14909,
+    "text": "cuius relucet mundus alterna vice,"
+  },
+  {
+    "id": "p-6b3e3f",
+    "offset": 14945,
+    "text": "Hecate triformis, en ades coeptis favens."
+  },
+  {
+    "id": "p-f74bef",
+    "offset": 14988,
+    "text": "animum rigentem tristis Hippolyti doma:"
+  },
+  {
+    "id": "p-49c939",
+    "offset": 15029,
+    "text": "det facilis aures: mitiga pectus ferum:"
+  },
+  {
+    "id": "p-8dee02",
+    "offset": 15070,
+    "text": "amare discat, mutuos ignes ferat."
+  },
+  {
+    "id": "p-534bc0",
+    "offset": 15105,
+    "text": "inflecte mentem: torvus aversus ferox"
+  },
+  {
+    "id": "p-e6ca82",
+    "offset": 15144,
+    "text": "in iura Veneris redeat, huc vires tuas"
+  },
+  {
+    "id": "p-b1dad5",
+    "offset": 15184,
+    "text": "intende: sic te lucidi vultus ferant"
+  },
+  {
+    "id": "p-8d9f0f",
+    "offset": 15222,
+    "text": "et nube rapta cornibus puris eas,"
+  },
+  {
+    "id": "p-68a3fb",
+    "offset": 15257,
+    "text": "sic te regentem frena nocturni aetheris"
+  },
+  {
+    "id": "p-8fbd9b",
+    "offset": 15298,
+    "text": "detrahere numquam Thessali cantus queant"
+  },
+  {
+    "id": "p-dae3b3",
+    "offset": 15340,
+    "text": "nullusque de te gloriam pastor ferat,"
+  },
+  {
+    "id": "p-e7a6e8",
+    "offset": 15379,
+    "text": "ades invocata, iam fave votis, dea:"
+  },
+  {
+    "id": "p-917114",
+    "offset": 15416,
+    "text": "ipsum intuor solemne venerantem sacrum"
+  },
+  {
+    "id": "p-2d6ca1",
+    "offset": 15456,
+    "text": "nullo latus comitante— quid dubitas? dedit"
+  },
+  {
+    "id": "p-727eae",
+    "offset": 15500,
+    "text": "tempus locumque casus: utendum artibus,"
+  },
+  {
+    "id": "p-caef21",
+    "offset": 15541,
+    "text": "trepidamus? haud est facile mandatum scelus"
+  },
+  {
+    "id": "p-1304df",
+    "offset": 15586,
+    "text": "audere, verum iussa qui regis timet,"
+  },
+  {
+    "id": "p-b119d9",
+    "offset": 15624,
+    "text": "deponat omne et pellat ex animo decus:"
+  },
+  {
+    "id": "p-8fa3ca",
+    "offset": 15664,
+    "text": "malus est minister regii imperii pudor."
+  },
+  {
+    "id": "p-b4af3a",
+    "offset": 15705,
+    "text": "Hipp.\nQuid huc seniles fessa moliris gradus,"
+  },
+  {
+    "id": "p-1c8675",
+    "offset": 15751,
+    "text": "o fida nutrix, turbidam frontem gerens"
+  },
+  {
+    "id": "p-c5c9b2",
+    "offset": 15791,
+    "text": "et maesta vultu? sospes est certe parens"
+  },
+  {
+    "id": "p-ff7063",
+    "offset": 15833,
+    "text": "sospesque Phaedra stirpis et geminae iugum?"
+  },
+  {
+    "id": "p-7fed0b",
+    "offset": 15878,
+    "text": "Nvtr.\nMetus remitte, prospero regnum in statu est"
+  },
+  {
+    "id": "p-0c78ad",
+    "offset": 15929,
+    "text": "domusque florens sorte felici viget."
+  },
+  {
+    "id": "p-06436e",
+    "offset": 15967,
+    "text": "sed tu beatis mitior rebus veni:"
+  },
+  {
+    "id": "p-54398d",
+    "offset": 16001,
+    "text": "namque anxiam me cura sollicitat tui,"
+  },
+  {
+    "id": "p-28dc6a",
+    "offset": 16040,
+    "text": "quod te ipse poenis gravibus infestus domas."
+  },
+  {
+    "id": "p-c04944",
+    "offset": 16086,
+    "text": "quem fata cogunt, ille cum venia est miser;"
+  },
+  {
+    "id": "p-092552",
+    "offset": 16131,
+    "text": "at si quis ultro se malis offert volens"
+  },
+  {
+    "id": "p-5278b5",
+    "offset": 16172,
+    "text": "seque ipse torquet, perdere est dignus bona"
+  },
+  {
+    "id": "p-56417b",
+    "offset": 16217,
+    "text": "quis nescit uti. potius annorum memor"
+  },
+  {
+    "id": "p-3e974b",
+    "offset": 16256,
+    "text": "mentem relaxa: noctibus festis facem"
+  },
+  {
+    "id": "p-047dfd",
+    "offset": 16294,
+    "text": "attolle, curas Bacchus exoneret graves;"
+  },
+  {
+    "id": "p-92ae96",
+    "offset": 16335,
+    "text": "aetate fruere: mobili cursu fugit,"
+  },
+  {
+    "id": "p-3ee83d",
+    "offset": 16371,
+    "text": "nunc facile pectus, grata nunc iuveni Venus:"
+  },
+  {
+    "id": "p-f4ac96",
+    "offset": 16417,
+    "text": "exultet animus, cur toro viduo iaces?"
+  },
+  {
+    "id": "p-95ac38",
+    "offset": 16456,
+    "text": "tristem iuventam solve; nunc cursus rape,"
+  },
+  {
+    "id": "p-103df2",
+    "offset": 16499,
+    "text": "effunde habenas, optimos vitae dies"
+  },
+  {
+    "id": "p-9798b6",
+    "offset": 16536,
+    "text": "effluere prohibe, propria descripsit deus"
+  },
+  {
+    "id": "p-184381",
+    "offset": 16579,
+    "text": "officia et aevum per suos duxit gradus:"
+  },
+  {
+    "id": "p-813521",
+    "offset": 16620,
+    "text": "laetitia iuvenem, frons decet tristis senem."
+  },
+  {
+    "id": "p-255967",
+    "offset": 16666,
+    "text": "quid te coherces et necas rectam indolem?"
+  },
+  {
+    "id": "p-05fe7f",
+    "offset": 16709,
+    "text": "seges illa magnum fenus agricolae dabit"
+  },
+  {
+    "id": "p-c8bc45",
+    "offset": 16750,
+    "text": "quaecumque laetis tenera luxuriat satis,"
+  },
+  {
+    "id": "p-9ff66b",
+    "offset": 16792,
+    "text": "arborque celso vertice evincet nemus"
+  },
+  {
+    "id": "p-394107",
+    "offset": 16830,
+    "text": "quam non maligna caedit aut resecat\" manus:"
+  },
+  {
+    "id": "p-00405e",
+    "offset": 16875,
+    "text": "ingenia melius recta se in laudes ferunt,"
+  },
+  {
+    "id": "p-2adc4d",
+    "offset": 16918,
+    "text": "si nobilem animum vegeta libertas alit."
+  },
+  {
+    "id": "p-9a6410",
+    "offset": 16959,
+    "text": "truculentus et silvester ac vitae inscius"
+  },
+  {
+    "id": "p-1d6db2",
+    "offset": 17002,
+    "text": "tristem iuventam Venere deserta coles?"
+  },
+  {
+    "id": "p-5f00b5",
+    "offset": 17042,
+    "text": "hoc esse munus credis indictum viris,"
+  },
+  {
+    "id": "p-35eb56",
+    "offset": 17081,
+    "text": "ut dura tolerent, cursibus domitent equos"
+  },
+  {
+    "id": "p-3feccc",
+    "offset": 17124,
+    "text": "et saeva bella Marte sanguineo gerant?"
+  },
+  {
+    "id": "p-d66deb",
+    "offset": 17164,
+    "text": "quam varia leti genera mortalem trahunt"
+  },
+  {
+    "id": "p-951597",
+    "offset": 17205,
+    "text": "carpuntque turbam, pontus et ferrum et doli!"
+  },
+  {
+    "id": "p-de9f6a",
+    "offset": 17251,
+    "text": "providit ille maximus mundi parens,"
+  },
+  {
+    "id": "p-6fab8e",
+    "offset": 17288,
+    "text": "cum tam rapaces cerneret Pati manus,"
+  },
+  {
+    "id": "p-bfad4a",
+    "offset": 17326,
+    "text": "ut damna semper subole repararet nova."
+  },
+  {
+    "id": "p-b2645c",
+    "offset": 17366,
+    "text": "sed fata credas desse: sic atram Styga"
+  },
+  {
+    "id": "p-bc9bef",
+    "offset": 17406,
+    "text": "iam petimus ultro, caelibem vitam probet"
+  },
+  {
+    "id": "p-996d55",
+    "offset": 17448,
+    "text": "sterilis iuventus: hoc erit, quicquid vides,"
+  },
+  {
+    "id": "p-9af5e6",
+    "offset": 17494,
+    "text": "unius aevi turba et in semet ruet."
+  },
+  {
+    "id": "p-bd3122",
+    "offset": 17530,
+    "text": "excedat agedum rebus humanis Venus,"
+  },
+  {
+    "id": "p-d61a4e",
+    "offset": 17567,
+    "text": "quae supplet ac restituit exhaustum genus:"
+  },
+  {
+    "id": "p-8f12a6",
+    "offset": 17611,
+    "text": "orbis iacebit squalido turpis situ,"
+  },
+  {
+    "id": "p-b23ed8",
+    "offset": 17648,
+    "text": "vacuum sine ullis piscibus stabit mare,"
+  },
+  {
+    "id": "p-f0e12e",
+    "offset": 17689,
+    "text": "alesque caelo derit et silvis fera"
+  },
+  {
+    "id": "p-dabfda",
+    "offset": 17725,
+    "text": "solis et aer pervius ventis erit."
+  },
+  {
+    "id": "p-d03538",
+    "offset": 17760,
+    "text": "proinde vitae sequere naturam ducem:"
+  },
+  {
+    "id": "p-e556f3",
+    "offset": 17798,
+    "text": "urbem frequenta, civium coetum cole."
+  },
+  {
+    "id": "p-b1cea6",
+    "offset": 17836,
+    "text": "Hipp.\nNon alia magis est libera et vitio carens"
+  },
+  {
+    "id": "p-00625b",
+    "offset": 17885,
+    "text": "ritusque melius vita quae priscos colat,"
+  },
+  {
+    "id": "p-725650",
+    "offset": 17927,
+    "text": "quam quae relictis moenibus silvas amat."
+  },
+  {
+    "id": "p-72b980",
+    "offset": 17969,
+    "text": "non illum avarae mentis inflammat furor"
+  },
+  {
+    "id": "p-543a20",
+    "offset": 18010,
+    "text": "qui se dicavit montium insontem iugis,"
+  },
+  {
+    "id": "p-32b905",
+    "offset": 18050,
+    "text": "non aura populi et vulgus infidum bonis,"
+  },
+  {
+    "id": "p-ae9193",
+    "offset": 18092,
+    "text": "non pestilens invidia, non fragilis favor;"
+  },
+  {
+    "id": "p-1f82e6",
+    "offset": 18136,
+    "text": ".non ille regno servit aut regno imminens"
+  },
+  {
+    "id": "p-98976e",
+    "offset": 18179,
+    "text": "vanos honores sequitur aut fluxas opes,"
+  },
+  {
+    "id": "p-d1dabc",
+    "offset": 18220,
+    "text": "spei metusque liber, haud illum niger"
+  },
+  {
+    "id": "p-50e0a5",
+    "offset": 18259,
+    "text": "edaxque livor dente degeneri petit;"
+  },
+  {
+    "id": "p-6a07dd",
+    "offset": 18296,
+    "text": "nec scelera populos inter atque urbes sata"
+  },
+  {
+    "id": "p-a3afdd",
+    "offset": 18340,
+    "text": "novit nec omnes conscius strepitus pavet"
+  },
+  {
+    "id": "p-0a2d0e",
+    "offset": 18382,
+    "text": "aut verba fingit; mille non quaerit tegi"
+  },
+  {
+    "id": "p-61d8bf",
+    "offset": 18424,
+    "text": "dives columnis nec trabes multo insolens"
+  },
+  {
+    "id": "p-81e103",
+    "offset": 18466,
+    "text": "suffigit auro; non cruor largus pias"
+  },
+  {
+    "id": "p-f0c9dc",
+    "offset": 18504,
+    "text": "inundat aras, fruge nec sparsi sacra"
+  },
+  {
+    "id": "p-dab8a0",
+    "offset": 18542,
+    "text": "centena nivei colla summittunt boves:"
+  },
+  {
+    "id": "p-6ac813",
+    "offset": 18581,
+    "text": "sed rure vacuo potitur et aperto aethere"
+  },
+  {
+    "id": "p-2dd43b",
+    "offset": 18623,
+    "text": "innocuus errat, callidas tantum feris"
+  },
+  {
+    "id": "p-f8afe5",
+    "offset": 18662,
+    "text": "struxisse fraudes novit et fessus gravi"
+  },
+  {
+    "id": "p-7013e9",
+    "offset": 18703,
+    "text": "labore niveo corpus Iliso fovet:"
+  },
+  {
+    "id": "p-0dfbe8",
+    "offset": 18737,
+    "text": "nunc ille ripam celeris Alphei legit,"
+  },
+  {
+    "id": "p-4529d8",
+    "offset": 18776,
+    "text": "nunc nemoris alti densa metatur loca,"
+  },
+  {
+    "id": "p-0a1443",
+    "offset": 18815,
+    "text": "ubi Lerna puro gelida perlucet vado,"
+  },
+  {
+    "id": "p-033ec2",
+    "offset": 18853,
+    "text": "sedesque mutas: hinc aves querulae fremunt"
+  },
+  {
+    "id": "p-1eb575",
+    "offset": 18897,
+    "text": "ornique ventis lene percussae tremunt"
+  },
+  {
+    "id": "p-d6d3cf",
+    "offset": 18936,
+    "text": "veteresque fagi. iuvit aut amnis vagi"
+  },
+  {
+    "id": "p-d9dcbd",
+    "offset": 18975,
+    "text": "pressisse ripas, caespite aut nudo leves"
+  },
+  {
+    "id": "p-54dfd4",
+    "offset": 19017,
+    "text": "duxisse somnos, sive fons largus citas"
+  },
+  {
+    "id": "p-15f7b8",
+    "offset": 19057,
+    "text": "defundit undas sive per flores novos"
+  },
+  {
+    "id": "p-0603fc",
+    "offset": 19095,
+    "text": "fugiente dulcis murmurat rivo sonus."
+  },
+  {
+    "id": "p-0b2122",
+    "offset": 19133,
+    "text": "excussa silvis poma compescunt famem"
+  },
+  {
+    "id": "p-88f7ad",
+    "offset": 19171,
+    "text": "et fraga parvis vulsa dumetis cibos"
+  },
+  {
+    "id": "p-c3dbcd",
+    "offset": 19208,
+    "text": "faciles ministrant, regios luxus procul"
+  },
+  {
+    "id": "p-adb1d5",
+    "offset": 19249,
+    "text": "est impetus fugisse: sollicito bibunt"
+  },
+  {
+    "id": "p-b03149",
+    "offset": 19288,
+    "text": "auro superbi; quam iuvat nuda manu"
+  },
+  {
+    "id": "p-b34130",
+    "offset": 19324,
+    "text": "captasse fontem! certior somnus premit"
+  },
+  {
+    "id": "p-1b3bff",
+    "offset": 19364,
+    "text": "secura duro membra versantem toro."
+  },
+  {
+    "id": "p-5c350d",
+    "offset": 19400,
+    "text": "non in recessu furta et obscuro improbus"
+  },
+  {
+    "id": "p-b4ca02",
+    "offset": 19442,
+    "text": "quaerit cubili seque multiplici timens"
+  },
+  {
+    "id": "p-b3d26a",
+    "offset": 19482,
+    "text": "domo recondit: aethera ac lucem petit"
+  },
+  {
+    "id": "p-589a4d",
+    "offset": 19521,
+    "text": "et teste caelo vivit, hoc equidem reor"
+  },
+  {
+    "id": "p-295ef5",
+    "offset": 19561,
+    "text": "vixisse ritu prima quos mixtos deis"
+  },
+  {
+    "id": "p-2f08b4",
+    "offset": 19598,
+    "text": "profudit aetas, nullus his auri fuit"
+  },
+  {
+    "id": "p-ce0ea4",
+    "offset": 19636,
+    "text": "caecus cupido, nullus in campo sacer"
+  },
+  {
+    "id": "p-8e169b",
+    "offset": 19674,
+    "text": "divisit agros arbiter populis lapis;"
+  },
+  {
+    "id": "p-ab2630",
+    "offset": 19712,
+    "text": "nondum secabant credulae pontum rates:"
+  },
+  {
+    "id": "p-caa0ba",
+    "offset": 19752,
+    "text": "sua quisque norat maria; non vasto aggere"
+  },
+  {
+    "id": "p-8962eb",
+    "offset": 19795,
+    "text": "crebraque turre duxerant urbes latus;"
+  },
+  {
+    "id": "p-614593",
+    "offset": 19834,
+    "text": "non arma saeva miles aptabat manu"
+  },
+  {
+    "id": "p-6f8213",
+    "offset": 19869,
+    "text": "nec torta clausas fregerat saxo gravi"
+  },
+  {
+    "id": "p-34a064",
+    "offset": 19908,
+    "text": "ballista portas, iussa nec dominum pati"
+  },
+  {
+    "id": "p-3482ff",
+    "offset": 19949,
+    "text": "iuncto ferebat terra servitium bove:"
+  },
+  {
+    "id": "p-5a7338",
+    "offset": 19987,
+    "text": "sed arva per se feta poscentes nihil"
+  },
+  {
+    "id": "p-3434fb",
+    "offset": 20025,
+    "text": "pavere gentes, silva nativas opes"
+  },
+  {
+    "id": "p-ae6103",
+    "offset": 20060,
+    "text": "et opaca dederant antra nativas domos."
+  },
+  {
+    "id": "p-898d0b",
+    "offset": 20100,
+    "text": "rupere foedus impius lucri furor"
+  },
+  {
+    "id": "p-396c47",
+    "offset": 20134,
+    "text": "et ira praeceps quaeque succensas agit"
+  },
+  {
+    "id": "p-e3e67a",
+    "offset": 20174,
+    "text": "libido mentes; venit imperii sitis"
+  },
+  {
+    "id": "p-dba127",
+    "offset": 20210,
+    "text": "cruenta, factus praeda maiori minor:"
+  },
+  {
+    "id": "p-39300d",
+    "offset": 20248,
+    "text": "pro iure vires esse. tum primum manu"
+  },
+  {
+    "id": "p-063621",
+    "offset": 20286,
+    "text": "bellare nuda saxaque et ramos rudes"
+  },
+  {
+    "id": "p-8f82ac",
+    "offset": 20323,
+    "text": "vertere in arma: non erat gracili levis"
+  },
+  {
+    "id": "p-9c4522",
+    "offset": 20364,
+    "text": "armata ferro cornus aut longo latus"
+  },
+  {
+    "id": "p-3bf459",
+    "offset": 20401,
+    "text": "mucrone cingens ensis aut crista procul"
+  },
+  {
+    "id": "p-7ffcc1",
+    "offset": 20442,
+    "text": "galeae comantes: tela faciebat dolor."
+  },
+  {
+    "id": "p-81a228",
+    "offset": 20481,
+    "text": "invenit artes bellicus Mavors novas"
+  },
+  {
+    "id": "p-11d11f",
+    "offset": 20518,
+    "text": "et mille formas mortis, hinc terras cruor"
+  },
+  {
+    "id": "p-94787e",
+    "offset": 20561,
+    "text": "infecit omnis fusus et rubuit mare."
+  },
+  {
+    "id": "p-5fb280",
+    "offset": 20598,
+    "text": "tum scelera dempto fine per cunctas domos"
+  },
+  {
+    "id": "p-a2b182",
+    "offset": 20641,
+    "text": "iere, nullum caruit exemplo nefas:"
+  },
+  {
+    "id": "p-9d2a3e",
+    "offset": 20677,
+    "text": "a fratre frater, dextera gnati parens"
+  },
+  {
+    "id": "p-40e321",
+    "offset": 20716,
+    "text": "cecidit, maritus coniugis ferro iacet"
+  },
+  {
+    "id": "p-97fc3f",
+    "offset": 20755,
+    "text": "perimuntque fetus impiae matres suos;"
+  },
+  {
+    "id": "p-42ce90",
+    "offset": 20794,
+    "text": "sed dux malorum femina: haec scelerum artifex"
+  },
+  {
+    "id": "p-71b966",
+    "offset": 20841,
+    "text": "obsedit animos, huius incestis stupris"
+  },
+  {
+    "id": "p-31a507",
+    "offset": 20881,
+    "text": "fumant tot urbes, bella tot gentes gerunt"
+  },
+  {
+    "id": "p-bf5b5b",
+    "offset": 20924,
+    "text": "et versa ab imo regna tot populos premunt."
+  },
+  {
+    "id": "p-9f21b5",
+    "offset": 20968,
+    "text": "sileantur aliae: sola coniunx Aegei,"
+  },
+  {
+    "id": "p-7e1f1e",
+    "offset": 21006,
+    "text": "Medea, reddet feminas dirum genus."
+  },
+  {
+    "id": "p-ffe774",
+    "offset": 21042,
+    "text": "Nvtr.\nCur omnium fit culpa paucarum scelus?"
+  },
+  {
+    "id": "p-b51f2e",
+    "offset": 21087,
+    "text": "Hipp.\nDetestor omnis, horreo fugio execror."
+  },
+  {
+    "id": "p-7dbc9f",
+    "offset": 21132,
+    "text": "sit ratio, sit natura, sit dirus furor:"
+  },
+  {
+    "id": "p-7f793e",
+    "offset": 21173,
+    "text": "odisse placuit, ignibus iunges aquas"
+  },
+  {
+    "id": "p-c1beb0",
+    "offset": 21211,
+    "text": "et amica ratibus ante promittet vada"
+  },
+  {
+    "id": "p-d1e4fd",
+    "offset": 21249,
+    "text": "incerta Syrtis, ante ab extremo sinu"
+  },
+  {
+    "id": "p-2649d5",
+    "offset": 21287,
+    "text": "Hesperia Tethys lucidum attollet diem"
+  },
+  {
+    "id": "p-9425bf",
+    "offset": 21326,
+    "text": "et ora dammis blanda praebebunt lupi,"
+  },
+  {
+    "id": "p-0b368b",
+    "offset": 21365,
+    "text": "quam victus animum feminae mitem geram."
+  },
+  {
+    "id": "p-12f233",
+    "offset": 21406,
+    "text": "Nvtr.\nSaepe obstinatis induit frenos Amor"
+  },
+  {
+    "id": "p-b6b162",
+    "offset": 21449,
+    "text": "et odia mutat, regna materna aspice:"
+  },
+  {
+    "id": "p-a5da88",
+    "offset": 21487,
+    "text": "illae feroces sentiunt Veneris iugum;"
+  },
+  {
+    "id": "p-95bf49",
+    "offset": 21526,
+    "text": "testaris istud unicus gentis puer."
+  },
+  {
+    "id": "p-6db4c3",
+    "offset": 21562,
+    "text": "Hipp.\nSolamen unum matris amissae fero."
+  },
+  {
+    "id": "p-8e0a66",
+    "offset": 21603,
+    "text": "odisse quod iam feminas omnis licet."
+  },
+  {
+    "id": "p-23dee9",
+    "offset": 21641,
+    "text": "Nvtr.\nVt dura cautes undique intractabilis"
+  },
+  {
+    "id": "p-753187",
+    "offset": 21685,
+    "text": "resistit undis et lacessentes aquas"
+  },
+  {
+    "id": "p-e057d7",
+    "offset": 21722,
+    "text": "longe remittit, verba sic spernit mea."
+  },
+  {
+    "id": "p-4fb62a",
+    "offset": 21762,
+    "text": "Sed Phaedra praeceps graditur, impatiens"
+  },
+  {
+    "id": "p-2f5376",
+    "offset": 21804,
+    "text": "quo se dabit fortuna? quo verget furor?"
+  },
+  {
+    "id": "p-f29f45",
+    "offset": 21845,
+    "text": "terrae repente corpus exanimum accidit"
+  },
+  {
+    "id": "p-69ba87",
+    "offset": 21885,
+    "text": "et ora morti similis obduxit color,"
+  },
+  {
+    "id": "p-b26d63",
+    "offset": 21922,
+    "text": "attolle vultus, dimove vocis moras:"
+  },
+  {
+    "id": "p-ea4adf",
+    "offset": 21959,
+    "text": "tuus en, alumna, temet Hippolytus tenet."
+  },
+  {
+    "id": "p-322487",
+    "offset": 22001,
+    "text": "Phaedra Nutrix\nQuis me dolori reddit atque aestus graves"
+  },
+  {
+    "id": "p-4a3c57",
+    "offset": 22059,
+    "text": "reponit animo? quam bene excideram mihi!"
+  },
+  {
+    "id": "p-a3a137",
+    "offset": 22101,
+    "text": "Hipp.\nCur dulce munus redditae lucis fugis?"
+  },
+  {
+    "id": "p-baef92",
+    "offset": 22146,
+    "text": "Ph.\nAude, anime, tempta, perage mandatum tuum."
+  },
+  {
+    "id": "p-40b309",
+    "offset": 22194,
+    "text": "intrepida constent verba: qui timide rogat"
+  },
+  {
+    "id": "p-bd731f",
+    "offset": 22238,
+    "text": "docet negare, magna pare sceleris mei"
+  },
+  {
+    "id": "p-96abfe",
+    "offset": 22277,
+    "text": "olim peracta est; serus est nobis pudor:"
+  },
+  {
+    "id": "p-f94eb6",
+    "offset": 22319,
+    "text": "amavimus nefanda, si coepta exsequor,"
+  },
+  {
+    "id": "p-21a9a8",
+    "offset": 22358,
+    "text": "forsan iugali crimen abscondam face:"
+  },
+  {
+    "id": "p-439700",
+    "offset": 22396,
+    "text": "honesta quaedam scelera successus facit—"
+  },
+  {
+    "id": "p-d9ae07",
+    "offset": 22438,
+    "text": "en incipe, anime!— Commodes paulum, precor,"
+  },
+  {
+    "id": "p-ea81bf",
+    "offset": 22483,
+    "text": "secretus aures, si quis est abeat comes."
+  },
+  {
+    "id": "p-1ed77a",
+    "offset": 22525,
+    "text": "Hipp.\nEn locus ab omni liber arbitrio vacat."
+  },
+  {
+    "id": "p-9f605d",
+    "offset": 22571,
+    "text": "Ph.\nSed ora coeptis transitum verbis negant;"
+  },
+  {
+    "id": "p-080175",
+    "offset": 22617,
+    "text": "vis magna vocem mittit et maior tenet,"
+  },
+  {
+    "id": "p-7c4ca1",
+    "offset": 22657,
+    "text": "vos testor omnis, caelites, hoc quod volo—"
+  },
+  {
+    "id": "p-f7f180",
+    "offset": 22701,
+    "text": "Hipp.\nAuimusne cupiens aliquid effari nequit?"
+  },
+  {
+    "id": "p-4c32d3",
+    "offset": 22748,
+    "text": "Ph.\nCurae leves loquuntur, ingentes stupent."
+  },
+  {
+    "id": "p-62c372",
+    "offset": 22794,
+    "text": "Hipp.\nCommitte curas auribus, mater, meis."
+  },
+  {
+    "id": "p-f77df3",
+    "offset": 22838,
+    "text": "Ph.\nMatris superbum est nomen et nimium potens:"
+  },
+  {
+    "id": "p-1bf17f",
+    "offset": 22887,
+    "text": "nostros humilius nomen affectus decet;"
+  },
+  {
+    "id": "p-ae26a9",
+    "offset": 22927,
+    "text": "me vel sororem, Hippolyte, vel famulam voca,"
+  },
+  {
+    "id": "p-ce4b8f",
+    "offset": 22973,
+    "text": "famulamque potius: omne servitium feram,"
+  },
+  {
+    "id": "p-e4f704",
+    "offset": 23015,
+    "text": "non me per altas ire si iubeas nives,"
+  },
+  {
+    "id": "p-f40de2",
+    "offset": 23054,
+    "text": "pigeat gelatis ingredi Pindi iugis;"
+  },
+  {
+    "id": "p-6cd632",
+    "offset": 23091,
+    "text": "non, si per ignes ire et infesta agmina,"
+  },
+  {
+    "id": "p-f01aa7",
+    "offset": 23133,
+    "text": "cuncter paratis ensibus pectus dare."
+  },
+  {
+    "id": "p-2ace3d",
+    "offset": 23171,
+    "text": "mandata recipe sceptra, me famulam accipe:"
+  },
+  {
+    "id": "p-a298d5",
+    "offset": 23215,
+    "text": "muliebre non est regna tutari urbium;"
+  },
+  {
+    "id": "p-6bbcee",
+    "offset": 23254,
+    "text": "tu qui iuventae flore primaevo viges"
+  },
+  {
+    "id": "p-890c5b",
+    "offset": 23292,
+    "text": "cives paterno fortis imperio rege,"
+  },
+  {
+    "id": "p-667aa7",
+    "offset": 23328,
+    "text": "sinu receptam supplicem ac servam tege."
+  },
+  {
+    "id": "p-da5aaf",
+    "offset": 23369,
+    "text": "miserere viduae—"
+  },
+  {
+    "id": "p-fca0c6",
+    "offset": 23387,
+    "text": "Hipp.\nSummus hoc omen deus"
+  },
+  {
+    "id": "p-e3bdd6",
+    "offset": 23415,
+    "text": "avertat, aderit sospes actutum parens."
+  },
+  {
+    "id": "p-cf0bd0",
+    "offset": 23455,
+    "text": "Ph.\nRegni tenacis dominus et tacitae Stygis"
+  },
+  {
+    "id": "p-6b929a",
+    "offset": 23500,
+    "text": "nullam relictos fecit ad superos viam:"
+  },
+  {
+    "id": "p-8b707d",
+    "offset": 23540,
+    "text": "thalami remittet ille raptorem sui?"
+  },
+  {
+    "id": "p-464ea0",
+    "offset": 23577,
+    "text": "nisi forte amori placidus et Pluton sedet."
+  },
+  {
+    "id": "p-714c76",
+    "offset": 23621,
+    "text": "Hipp.\nIllum quidem aequi caelites reducem dabunt,"
+  },
+  {
+    "id": "p-90d653",
+    "offset": 23672,
+    "text": "sed dum tenebit vota in incerto deus,"
+  },
+  {
+    "id": "p-c43c00",
+    "offset": 23711,
+    "text": "pietate caros debita fratres colam"
+  },
+  {
+    "id": "p-f48300",
+    "offset": 23747,
+    "text": "et te merebor esse ne viduam putes"
+  },
+  {
+    "id": "p-26b80f",
+    "offset": 23783,
+    "text": "ac tibi parentis ipse supplebo locum."
+  },
+  {
+    "id": "p-e7db1d",
+    "offset": 23822,
+    "text": "Ph.\nO spes amantum credula, o fallax Amor!"
+  },
+  {
+    "id": "p-31b7d3",
+    "offset": 23866,
+    "text": "satisne dixi? precibus admotis agam."
+  },
+  {
+    "id": "p-1a37e9",
+    "offset": 23904,
+    "text": "Miserere, tacitae mentis exaudi preces—"
+  },
+  {
+    "id": "p-e9cbe9",
+    "offset": 23945,
+    "text": "libet loqui pigetque."
+  },
+  {
+    "id": "p-8009c9",
+    "offset": 23968,
+    "text": "Hipp.\nQuodnam istud malum est?"
+  },
+  {
+    "id": "p-aef867",
+    "offset": 24000,
+    "text": "Ph.\nQuod in novercam cadere vix credas malum."
+  },
+  {
+    "id": "p-1b3e89",
+    "offset": 24047,
+    "text": "Hipp.\nAmbigua voce verba perplexa iacis:"
+  },
+  {
+    "id": "p-20e56a",
+    "offset": 24089,
+    "text": "effare aperte,"
+  },
+  {
+    "id": "p-abd433",
+    "offset": 24105,
+    "text": "Ph.\nPectus insanum vapor"
+  },
+  {
+    "id": "p-8344df",
+    "offset": 24131,
+    "text": "amorque torret. intimis fervet ferus"
+  },
+  {
+    "id": "p-16a33d",
+    "offset": 24169,
+    "text": "visceribus ignis mersus et venas latens"
+  },
+  {
+    "id": "p-2f8364",
+    "offset": 24210,
+    "text": "ut agilis altas flamma percurrit trabes."
+  },
+  {
+    "id": "p-0129a4",
+    "offset": 24252,
+    "text": "Hipp.\nAmore nempe Thesei casto furis?"
+  },
+  {
+    "id": "p-13db47",
+    "offset": 24291,
+    "text": "Ph.\nHippolyte. sic est: Thesei vultus amo"
+  },
+  {
+    "id": "p-71048c",
+    "offset": 24334,
+    "text": "illos priores quos tulit quondam puer."
+  },
+  {
+    "id": "p-0f9d2e",
+    "offset": 24374,
+    "text": "cum prima puras barba signaret genas"
+  },
+  {
+    "id": "p-c38d0b",
+    "offset": 24412,
+    "text": "monstrique caecam Gnosii vidit domum"
+  },
+  {
+    "id": "p-b1d99b",
+    "offset": 24450,
+    "text": "et longa curva fila collegit via."
+  },
+  {
+    "id": "p-057efb",
+    "offset": 24485,
+    "text": "quis tum ille fulsit! presserant vittae comam"
+  },
+  {
+    "id": "p-809f8f",
+    "offset": 24532,
+    "text": "et ora flavus tenera tinguebat pudor:"
+  },
+  {
+    "id": "p-4ac24d",
+    "offset": 24571,
+    "text": "inerant lacertis mollibus fortes tori;"
+  },
+  {
+    "id": "p-e4dfde",
+    "offset": 24611,
+    "text": "tuaeque Phoebes vultus aut Phoebi mei."
+  },
+  {
+    "id": "p-61a5b2",
+    "offset": 24651,
+    "text": "tuusque potius— talis, en talis fuit"
+  },
+  {
+    "id": "p-3454ba",
+    "offset": 24689,
+    "text": "cum placuit hosti, sic tulit celsum caput:"
+  },
+  {
+    "id": "p-c13b5e",
+    "offset": 24733,
+    "text": "in te magis refulget incomptus decor;"
+  },
+  {
+    "id": "p-574787",
+    "offset": 24772,
+    "text": "est genitor in te totus et torvae tamen"
+  },
+  {
+    "id": "p-1f1647",
+    "offset": 24813,
+    "text": "pars «aliqua matris miscet ex aequo decus:"
+  },
+  {
+    "id": "p-b8c9f4",
+    "offset": 24857,
+    "text": "in ore Graio Scythicus apparet rigor."
+  },
+  {
+    "id": "p-b31b60",
+    "offset": 24896,
+    "text": "si cum parente Creticum intrasses fretum."
+  },
+  {
+    "id": "p-021551",
+    "offset": 24939,
+    "text": "tibi fila potius nostra nevisset soror."
+  },
+  {
+    "id": "p-9a14c6",
+    "offset": 24980,
+    "text": "te te, soror, quacumque siderei poli"
+  },
+  {
+    "id": "p-c0e4a1",
+    "offset": 25018,
+    "text": "in parte fulges, invoco ad causam parem:"
+  },
+  {
+    "id": "p-d1cd2b",
+    "offset": 25060,
+    "text": "domus sorores una corripuit duas,"
+  },
+  {
+    "id": "p-4f4bc8",
+    "offset": 25095,
+    "text": "te genitor, at me gnatus. en supplex iacet"
+  },
+  {
+    "id": "p-b5fd78",
+    "offset": 25139,
+    "text": "adlapsa genibus regiae proles domus."
+  },
+  {
+    "id": "p-250343",
+    "offset": 25177,
+    "text": "respersa nulla labe et intacta, innocens"
+  },
+  {
+    "id": "p-dfd5c3",
+    "offset": 25219,
+    "text": "tibi mutor uni. certa descendi ad preces:"
+  },
+  {
+    "id": "p-fec084",
+    "offset": 25262,
+    "text": "finem hic dolori faciet aut vitae dies."
+  },
+  {
+    "id": "p-b7aea7",
+    "offset": 25303,
+    "text": "miserere amantis—"
+  },
+  {
+    "id": "p-3bedfb",
+    "offset": 25322,
+    "text": "Hipp.\nMagne regnator deum,"
+  },
+  {
+    "id": "p-e2ffe1",
+    "offset": 25350,
+    "text": "tam lentus audis scelera? tam lentus vides?"
+  },
+  {
+    "id": "p-1eca7b",
+    "offset": 25395,
+    "text": "et quando saeva fulmen .emittes manu,"
+  },
+  {
+    "id": "p-921b69",
+    "offset": 25434,
+    "text": "si nunc serenum est? omnis impulsus ruat"
+  },
+  {
+    "id": "p-3b8e75",
+    "offset": 25476,
+    "text": "aether et atris nubibus condat diem,"
+  },
+  {
+    "id": "p-f22ae8",
+    "offset": 25514,
+    "text": "ac versa retro sidera obliquos agant"
+  },
+  {
+    "id": "p-2460e1",
+    "offset": 25552,
+    "text": "retorta cursus, tuque, sidereum caput,"
+  },
+  {
+    "id": "p-3f9c76",
+    "offset": 25592,
+    "text": "radiate Titan, tu nefas stirpis tuae"
+  },
+  {
+    "id": "p-6be638",
+    "offset": 25630,
+    "text": "speculare? lucem merge et in tenebras fuge."
+  },
+  {
+    "id": "p-1c40cd",
+    "offset": 25675,
+    "text": "cur dextra, divum rector atque hominum, vacat"
+  },
+  {
+    "id": "p-ab48f1",
+    "offset": 25722,
+    "text": "tua nec trisulca mundus ardescit face?"
+  },
+  {
+    "id": "p-220ed5",
+    "offset": 25762,
+    "text": "in me tona, me fige, me velox cremet"
+  },
+  {
+    "id": "p-fd1a60",
+    "offset": 25800,
+    "text": "transactus ignis— sum nocens, merui mori:"
+  },
+  {
+    "id": "p-2af389",
+    "offset": 25843,
+    "text": "placui novercae, dignus en stupris ego?."
+  },
+  {
+    "id": "p-706aec",
+    "offset": 25885,
+    "text": "scelerique tanto visus ego solus tibi"
+  },
+  {
+    "id": "p-2badd5",
+    "offset": 25924,
+    "text": "materia facilis? hoc meus meruit rigor?"
+  },
+  {
+    "id": "p-56df2a",
+    "offset": 25965,
+    "text": "o scelere vincens omne femineum genus,"
+  },
+  {
+    "id": "p-36b9a8",
+    "offset": 26005,
+    "text": "genetrice peior! illa se tantum stupro"
+  },
+  {
+    "id": "p-a55f6c",
+    "offset": 26045,
+    "text": "contaminavit, et tamen. tacitum diu"
+  },
+  {
+    "id": "p-765be6",
+    "offset": 26082,
+    "text": "crimen biformi partus exhibuit nota"
+  },
+  {
+    "id": "p-9e2fd5",
+    "offset": 26119,
+    "text": "scelusque matris arguit vultu truci"
+  },
+  {
+    "id": "p-4d335d",
+    "offset": 26156,
+    "text": "ambiguus infans— ille te venter tulit."
+  },
+  {
+    "id": "p-3f1b07",
+    "offset": 26196,
+    "text": "o ter quaterque prospero fato dati"
+  },
+  {
+    "id": "p-0aba02",
+    "offset": 26232,
+    "text": "quos hausit et peremit et leto dedit"
+  },
+  {
+    "id": "p-0e688b",
+    "offset": 26270,
+    "text": "odium dolusque— genitor, invideo tibi:"
+  },
+  {
+    "id": "p-0ef679",
+    "offset": 26310,
+    "text": "Colchide noverca maius haec, maius malum est."
+  },
+  {
+    "id": "p-1a4eef",
+    "offset": 26357,
+    "text": "Ph.\nEt ipsa nostrae fata cognosco domus:"
+  },
+  {
+    "id": "p-528f3c",
+    "offset": 26399,
+    "text": "fugienda petimus; sed mei non sum potens."
+  },
+  {
+    "id": "p-879e78",
+    "offset": 26442,
+    "text": "te vel per ignes, per mare insanum sequar"
+  },
+  {
+    "id": "p-4dbf53",
+    "offset": 26485,
+    "text": "rupesque et amnes, unda quos torrens rapit;"
+  },
+  {
+    "id": "p-3eaa95",
+    "offset": 26530,
+    "text": "quacumque gressus tuleris hac amens agar—"
+  },
+  {
+    "id": "p-4cf66d",
+    "offset": 26573,
+    "text": "iterum, superbe, genibus advolvor tuis."
+  },
+  {
+    "id": "p-fb9328",
+    "offset": 26614,
+    "text": "Hipp.\nProcul impudicos corpore a casto amove"
+  },
+  {
+    "id": "p-d0c8b6",
+    "offset": 26660,
+    "text": "tactus— quid hoc est? etiam in amplexus ruit?"
+  },
+  {
+    "id": "p-ed8b04",
+    "offset": 26707,
+    "text": "stringatur ensis, merita supplicia exigat."
+  },
+  {
+    "id": "p-47c908",
+    "offset": 26751,
+    "text": "en impudicum crine contorto caput"
+  },
+  {
+    "id": "p-e5bda8",
+    "offset": 26786,
+    "text": "laeva reflexi: iustior numquam focis"
+  },
+  {
+    "id": "p-d1cc2c",
+    "offset": 26824,
+    "text": "datus tuis est sanguis, arquitenens dea."
+  },
+  {
+    "id": "p-6e782f",
+    "offset": 26866,
+    "text": "Ph.\nHippolyte, nunc me compotem voti facis:"
+  },
+  {
+    "id": "p-7edf98",
+    "offset": 26911,
+    "text": "sanas furentem. maius hoc voto meo est,"
+  },
+  {
+    "id": "p-e420d5",
+    "offset": 26952,
+    "text": "salvo ut pudore manibus immoriar tuis."
+  },
+  {
+    "id": "p-e5d8d6",
+    "offset": 26992,
+    "text": "Hipp.\nAbscede, vive ne quid exores, et hic"
+  },
+  {
+    "id": "p-cad729",
+    "offset": 27036,
+    "text": "contactus ensis deserat castum latus."
+  },
+  {
+    "id": "p-0588aa",
+    "offset": 27075,
+    "text": "quis eluet me Tanais aut quae barbaris"
+  },
+  {
+    "id": "p-5cc2cc",
+    "offset": 27115,
+    "text": "Maeotis undis Pontico incumbens mari?"
+  },
+  {
+    "id": "p-1cc5a9",
+    "offset": 27154,
+    "text": "non ipse toto magnus Oceano pater"
+  },
+  {
+    "id": "p-ba49a1",
+    "offset": 27189,
+    "text": "tantum expiarit sceleris, o silvae, o ferae!"
+  },
+  {
+    "id": "p-36025f",
+    "offset": 27235,
+    "text": "Nvtr.\nDeprensa culpa est. anime, quid segnis stupes?"
+  },
+  {
+    "id": "p-1e56ab",
+    "offset": 27289,
+    "text": "regeramus ipsi crimen atque ultro impiam"
+  },
+  {
+    "id": "p-a50625",
+    "offset": 27331,
+    "text": "Venerem arguamus: scelere velandum est scelus:"
+  },
+  {
+    "id": "p-97b0f6",
+    "offset": 27379,
+    "text": "tutissimum est inferre, cum timeas, gradum."
+  },
+  {
+    "id": "p-c9b42b",
+    "offset": 27424,
+    "text": "ausae priores simus an passae nefas,"
+  },
+  {
+    "id": "p-d91bd7",
+    "offset": 27462,
+    "text": "secreta cum sit culpa, quis testis sciet?"
+  },
+  {
+    "id": "p-b1091e",
+    "offset": 27505,
+    "text": "Adeste, Athenae! fida famulorum manus,"
+  },
+  {
+    "id": "p-39f2d2",
+    "offset": 27545,
+    "text": "fer opem! nefandi raptor Hippolytus stupri"
+  },
+  {
+    "id": "p-837e32",
+    "offset": 27589,
+    "text": "instat premitque, mortis intentat metum,"
+  },
+  {
+    "id": "p-c6e7a8",
+    "offset": 27631,
+    "text": "ferro pudicam terret— en praeceps abit"
+  },
+  {
+    "id": "p-0a957d",
+    "offset": 27671,
+    "text": "ensemque trepida liquit attonitus fuga."
+  },
+  {
+    "id": "p-be9f8e",
+    "offset": 27712,
+    "text": "pignus tenemus sceleris, hanc maestam prius"
+  },
+  {
+    "id": "p-c12fe3",
+    "offset": 27757,
+    "text": "recreate, crinis tractus et lacerae comae"
+  },
+  {
+    "id": "p-3a0eb7",
+    "offset": 27800,
+    "text": "ut sunt remaneant, facinoris tanti notae,"
+  },
+  {
+    "id": "p-b13058",
+    "offset": 27843,
+    "text": "perferte 4n urbem, recipe iam sensus, era."
+  },
+  {
+    "id": "p-96bda4",
+    "offset": 27887,
+    "text": "quid te ipsa lacerans omnium adspectus fugis?"
+  },
+  {
+    "id": "p-f9c9cb",
+    "offset": 27934,
+    "text": "mens inpudicam facere, non casus solet."
+  },
+  {
+    "id": "p-c1a23d",
+    "offset": 27975,
+    "text": "Chorus\nFugit insanae similis procellae,"
+  },
+  {
+    "id": "p-11d2ea",
+    "offset": 28016,
+    "text": "ocior nubes glomerante Coro,"
+  },
+  {
+    "id": "p-573883",
+    "offset": 28046,
+    "text": "ocior cursum rapiente flamma,"
+  },
+  {
+    "id": "p-f50382",
+    "offset": 28077,
+    "text": "stella cum ventis agitata longos"
+  },
+  {
+    "id": "p-5ddfed",
+    "offset": 28111,
+    "text": "porrigit ignes."
+  },
+  {
+    "id": "p-46b08b",
+    "offset": 28128,
+    "text": "Conferat tecum decus omne priscum"
+  },
+  {
+    "id": "p-394a68",
+    "offset": 28163,
+    "text": "fama miratrix senioris aevi:"
+  },
+  {
+    "id": "p-4418e7",
+    "offset": 28193,
+    "text": "pulchrior tanto tua forma lucet,"
+  },
+  {
+    "id": "p-af1281",
+    "offset": 28227,
+    "text": "clarior quanto micat orbe pleno"
+  },
+  {
+    "id": "p-ebc4f9",
+    "offset": 28260,
+    "text": "cum suos ignes coeunte cornu"
+  },
+  {
+    "id": "p-2fe37d",
+    "offset": 28290,
+    "text": "iunxit et curru properante pernox"
+  },
+  {
+    "id": "p-a2fa89",
+    "offset": 28325,
+    "text": "exerit vultus rubicunda Phoebe"
+  },
+  {
+    "id": "p-47086a",
+    "offset": 28357,
+    "text": "nec tenent stellae faciem minores;"
+  },
+  {
+    "id": "p-56a72e",
+    "offset": 28393,
+    "text": "talis est. primas referens tenebras,"
+  },
+  {
+    "id": "p-acd466",
+    "offset": 28431,
+    "text": "nuntius noctis, modo lotus undis"
+  },
+  {
+    "id": "p-e7772c",
+    "offset": 28465,
+    "text": "Hesperus, pulsis iterum tenebris"
+  },
+  {
+    "id": "p-90ccc4",
+    "offset": 28499,
+    "text": "Lucifer idem."
+  },
+  {
+    "id": "p-d5cefa",
+    "offset": 28514,
+    "text": "Et tu. thyrsigera Liber ab India."
+  },
+  {
+    "id": "p-2cf00c",
+    "offset": 28549,
+    "text": "intonsa iuvenis perpetuum coma,"
+  },
+  {
+    "id": "p-25175a",
+    "offset": 28582,
+    "text": "tigres pampinea cuspide territans"
+  },
+  {
+    "id": "p-30d711",
+    "offset": 28617,
+    "text": "ac mitra cohibens cornigerum caput,"
+  },
+  {
+    "id": "p-2192e2",
+    "offset": 28654,
+    "text": "non vinces rigidas Hippolyti comas."
+  },
+  {
+    "id": "p-dad105",
+    "offset": 28691,
+    "text": "ne vultus nimium suspicias tuos:"
+  },
+  {
+    "id": "p-e37100",
+    "offset": 28725,
+    "text": "omnis per populos fabula distulit,"
+  },
+  {
+    "id": "p-9479a9",
+    "offset": 28761,
+    "text": "Phaedrae quem Bromio praetulerit soror."
+  },
+  {
+    "id": "p-be01c9",
+    "offset": 28802,
+    "text": "Anceps forma bonum mortalibus,\""
+  },
+  {
+    "id": "p-185ce4",
+    "offset": 28835,
+    "text": "exigui donum breve temporis,"
+  },
+  {
+    "id": "p-d02aee",
+    "offset": 28865,
+    "text": "ut velox celeri pede laberis!"
+  },
+  {
+    "id": "p-8294ea",
+    "offset": 28896,
+    "text": "Non sic prata novo vere decentia"
+  },
+  {
+    "id": "p-338bf7",
+    "offset": 28930,
+    "text": "aestatis calidae despoliat vapor,"
+  },
+  {
+    "id": "p-1f2b2e",
+    "offset": 28965,
+    "text": "saevit solstitio cum medius dies"
+  },
+  {
+    "id": "p-df9a53",
+    "offset": 28999,
+    "text": "et noctes brevibus praecipitant rotis"
+  },
+  {
+    "id": "p-4e568f",
+    "offset": 29038,
+    "text": "languescunt folio et lilia pallido:"
+  },
+  {
+    "id": "p-162c9f",
+    "offset": 29075,
+    "text": "ut gratae capiti deficiunt comae"
+  },
+  {
+    "id": "p-097d7e",
+    "offset": 29109,
+    "text": "et fulgor teneris qui radiat genis"
+  },
+  {
+    "id": "p-348219",
+    "offset": 29145,
+    "text": "momento rapitur nullaque non dies"
+  },
+  {
+    "id": "p-93d1bc",
+    "offset": 29180,
+    "text": "formonsi spolium corporis abstulit."
+  },
+  {
+    "id": "p-e9b5c2",
+    "offset": 29217,
+    "text": "res est forma fugax: quis sapiens bono"
+  },
+  {
+    "id": "p-6a9276",
+    "offset": 29257,
+    "text": "confidat fragili? dum licet, utere."
+  },
+  {
+    "id": "p-fc6653",
+    "offset": 29294,
+    "text": "tempus te tacitum subruit. horaque"
+  },
+  {
+    "id": "p-9c673f",
+    "offset": 29330,
+    "text": "semper praeterita deterior subit."
+  },
+  {
+    "id": "p-0dc465",
+    "offset": 29365,
+    "text": "Quid deserta petis? tutior aviis"
+  },
+  {
+    "id": "p-a03533",
+    "offset": 29399,
+    "text": "non est forma locis: te nemore abdito,"
+  },
+  {
+    "id": "p-891476",
+    "offset": 29439,
+    "text": "cum Titan medium constituit diem,"
+  },
+  {
+    "id": "p-8b1f58",
+    "offset": 29474,
+    "text": "cingent turba licens Naides improbae,"
+  },
+  {
+    "id": "p-54f786",
+    "offset": 29513,
+    "text": "formonsos solitae claudere fontibus,"
+  },
+  {
+    "id": "p-d31563",
+    "offset": 29551,
+    "text": "et somnis facient insidias tuis"
+  },
+  {
+    "id": "p-82c12c",
+    "offset": 29584,
+    "text": "Panas quae Dryades montivagos petunt,"
+  },
+  {
+    "id": "p-cd93a4",
+    "offset": 29623,
+    "text": "aut te stellifero despiciens polo"
+  },
+  {
+    "id": "p-bda986",
+    "offset": 29658,
+    "text": "sidus post veteres Arcadas editum"
+  },
+  {
+    "id": "p-73a64a",
+    "offset": 29693,
+    "text": "currus non poterit flectere candidos."
+  },
+  {
+    "id": "p-57888a",
+    "offset": 29732,
+    "text": "et nuper rubuit, nullaque lucidis"
+  },
+  {
+    "id": "p-b4d5ee",
+    "offset": 29767,
+    "text": "nubes sordidior vultibus obstitit:"
+  },
+  {
+    "id": "p-335789",
+    "offset": 29803,
+    "text": "at nos solliciti numine turbido,"
+  },
+  {
+    "id": "p-937201",
+    "offset": 29837,
+    "text": "tractari! Thessalicis carminibus rati,"
+  },
+  {
+    "id": "p-d1f2dd",
+    "offset": 29877,
+    "text": "tinnitus dedimus: tu fueras labor"
+  },
+  {
+    "id": "p-b9be8f",
+    "offset": 29912,
+    "text": "et tu causa morae, te dea noctium"
+  },
+  {
+    "id": "p-e0a4c2",
+    "offset": 29947,
+    "text": "dum spectat celeres sustinuit vias."
+  },
+  {
+    "id": "p-ad76b2",
+    "offset": 29984,
+    "text": "Vexent hanc faciem frigora parcius,"
+  },
+  {
+    "id": "p-1a9100",
+    "offset": 30021,
+    "text": "haec solem facies rarius appetat:"
+  },
+  {
+    "id": "p-a158e3",
+    "offset": 30056,
+    "text": "lucebit Pario marmore clarius,"
+  },
+  {
+    "id": "p-4a2237",
+    "offset": 30088,
+    "text": "quam grata est facies torva viriliter"
+  },
+  {
+    "id": "p-31ff25",
+    "offset": 30127,
+    "text": "et pondus veteris triste supercili!"
+  },
+  {
+    "id": "p-383fb4",
+    "offset": 30164,
+    "text": "Phoebo colla licet splendida compares:"
+  },
+  {
+    "id": "p-aeec80",
+    "offset": 30204,
+    "text": "illum caesaries nescia colligi"
+  },
+  {
+    "id": "p-9ee71f",
+    "offset": 30236,
+    "text": "perfundens umeros ornat et integit;"
+  },
+  {
+    "id": "p-8264c6",
+    "offset": 30273,
+    "text": "te frons hirta decet, te brevior coma"
+  },
+  {
+    "id": "p-35a7ff",
+    "offset": 30312,
+    "text": "nulla lege iacens; tu licet asperos"
+  },
+  {
+    "id": "p-40daff",
+    "offset": 30349,
+    "text": "pugnacesque deos viribus audeas"
+  },
+  {
+    "id": "p-06d1dc",
+    "offset": 30382,
+    "text": "et vasti spatio vincere corporis:"
+  },
+  {
+    "id": "p-76742c",
+    "offset": 30417,
+    "text": "aequas. Herculeos nam iuvenis toros,"
+  },
+  {
+    "id": "p-3ee985",
+    "offset": 30455,
+    "text": "Martis belligeri pectore latior,"
+  },
+  {
+    "id": "p-d80aee",
+    "offset": 30489,
+    "text": "si dorso libeat cornipedis vehi,"
+  },
+  {
+    "id": "p-e5950b",
+    "offset": 30523,
+    "text": "frenis Castorea mobilior manu"
+  },
+  {
+    "id": "p-d42a1e",
+    "offset": 30554,
+    "text": "Spartanum poteris flectere Cyllaron."
+  },
+  {
+    "id": "p-b0fa76",
+    "offset": 30592,
+    "text": "ammentum digitis tende prioribus"
+  },
+  {
+    "id": "p-9d0438",
+    "offset": 30626,
+    "text": "et totis iaculum dirige viribus:"
+  },
+  {
+    "id": "p-a977d0",
+    "offset": 30660,
+    "text": "tam longe, dociles spicula figere,"
+  },
+  {
+    "id": "p-bdaed2",
+    "offset": 30696,
+    "text": "non mittent gracilem Cretes harundinem."
+  },
+  {
+    "id": "p-9e1ca2",
+    "offset": 30737,
+    "text": "aut si tela modo spargere Parthico"
+  },
+  {
+    "id": "p-1ea1b4",
+    "offset": 30773,
+    "text": "in caelum placeat, nulla sine alite"
+  },
+  {
+    "id": "p-c5ffc7",
+    "offset": 30810,
+    "text": "descendent, tepido viscere condita"
+  },
+  {
+    "id": "p-c8fec0",
+    "offset": 30846,
+    "text": "praedam de mediis nubibus afferent."
+  },
+  {
+    "id": "p-33e28f",
+    "offset": 30883,
+    "text": "Raris forma viris (saecula perspice)"
+  },
+  {
+    "id": "p-7d6e4c",
+    "offset": 30921,
+    "text": "inpunita fuit. te melior deus"
+  },
+  {
+    "id": "p-2bf054",
+    "offset": 30952,
+    "text": "tutum praetereat formaque nobilis"
+  },
+  {
+    "id": "p-3ce0dd",
+    "offset": 30987,
+    "text": "deformis senii monstret imaginem."
+  },
+  {
+    "id": "p-78532a",
+    "offset": 31022,
+    "text": "Quid sinat inausum feminae praeceps furor?"
+  },
+  {
+    "id": "p-64aa95",
+    "offset": 31066,
+    "text": "nefanda iuveni crimina insonti apparat."
+  },
+  {
+    "id": "p-8066b3",
+    "offset": 31107,
+    "text": "en scelera! quaerit crine lacerato fidem,"
+  },
+  {
+    "id": "p-14a4fd",
+    "offset": 31150,
+    "text": "decus omne turbat capitis, umectat genas:"
+  },
+  {
+    "id": "p-314de4",
+    "offset": 31193,
+    "text": "instruitur omni fraude feminea dolus."
+  },
+  {
+    "id": "p-0a5df7",
+    "offset": 31232,
+    "text": "Sed iste quisnam est, regium in vultu decus"
+  },
+  {
+    "id": "p-dad70a",
+    "offset": 31277,
+    "text": "gerens et alto vertice attollens caput?"
+  },
+  {
+    "id": "p-a7ca42",
+    "offset": 31318,
+    "text": "ut ora iuveni paria Perithoo gerit,"
+  },
+  {
+    "id": "p-6332cb",
+    "offset": 31355,
+    "text": "ni languido pallore canderent genae"
+  },
+  {
+    "id": "p-b7a311",
+    "offset": 31392,
+    "text": "staretque recta squalor incultus coma."
+  },
+  {
+    "id": "p-0b8da8",
+    "offset": 31432,
+    "text": "en ipse Theseus redditus terris adest."
+  },
+  {
+    "id": "p-3ef0bc",
+    "offset": 31472,
+    "text": "Theseus Nutrix\nTandem profugi noctis aeternae plagam"
+  },
+  {
+    "id": "p-c55615",
+    "offset": 31526,
+    "text": "vastoque manes carcere umbrantem polum,"
+  },
+  {
+    "id": "p-dba6af",
+    "offset": 31567,
+    "text": "et vix cupitum sufferunt oculi diem."
+  },
+  {
+    "id": "p-f0fcaf",
+    "offset": 31605,
+    "text": "iam quarta Eleusin dona Triptolemi secat"
+  },
+  {
+    "id": "p-fba22a",
+    "offset": 31647,
+    "text": "paremque totiens libra composuit diem,"
+  },
+  {
+    "id": "p-956ea7",
+    "offset": 31687,
+    "text": "ambiguus ut me sortis ignotae labor"
+  },
+  {
+    "id": "p-4572f9",
+    "offset": 31724,
+    "text": "detinuit inter mortis et vitae mala."
+  },
+  {
+    "id": "p-8cea9f",
+    "offset": 31762,
+    "text": "pars una vitae mansit extincto mihi:"
+  },
+  {
+    "id": "p-f908ec",
+    "offset": 31800,
+    "text": "sensus malorum; finis Alcides fuit,"
+  },
+  {
+    "id": "p-5a7ca0",
+    "offset": 31837,
+    "text": "qui cum revulsum Tartaro abstraheret canem,"
+  },
+  {
+    "id": "p-1272ea",
+    "offset": 31882,
+    "text": "me quoque supernas pariter ad sedes tulit."
+  },
+  {
+    "id": "p-740149",
+    "offset": 31926,
+    "text": "sed fessa virtus robore antiquo caret"
+  },
+  {
+    "id": "p-d6403b",
+    "offset": 31965,
+    "text": "trepidantque gressus, heu, labor quantus fuit"
+  },
+  {
+    "id": "p-cbbd8e",
+    "offset": 32012,
+    "text": "Phlegethonte ab imo petere longinquum aethera"
+  },
+  {
+    "id": "p-ec6fa5",
+    "offset": 32059,
+    "text": "pariterque mortem fugere et Alciden sequi."
+  },
+  {
+    "id": "p-011486",
+    "offset": 32103,
+    "text": "Quis fremitus aures flebilis pepulit meas?"
+  },
+  {
+    "id": "p-eaa86d",
+    "offset": 32147,
+    "text": "expromat aliquis, luctus et lacrimae et dolor,"
+  },
+  {
+    "id": "p-42e1fa",
+    "offset": 32195,
+    "text": "in limine ipso maesta lamentatio?"
+  },
+  {
+    "id": "p-4f6427",
+    "offset": 32230,
+    "text": "auspicia digna prorsus inferno hospite."
+  },
+  {
+    "id": "p-7e1cea",
+    "offset": 32271,
+    "text": "Nvtr.\nTenet obstinatum Phaedra consilium necis"
+  },
+  {
+    "id": "p-73a514",
+    "offset": 32319,
+    "text": "fletusque nostros spernit ac morti imminet."
+  },
+  {
+    "id": "p-0edbb3",
+    "offset": 32364,
+    "text": "Thes.\nQuae causa leti? reduce cur moritur viro?"
+  },
+  {
+    "id": "p-d36139",
+    "offset": 32413,
+    "text": "Nvtr.\nHaec ipsa letum causa maturum attulit."
+  },
+  {
+    "id": "p-569c54",
+    "offset": 32459,
+    "text": "Thes.\nPerplexa magnum verba nescio quid tegunt."
+  },
+  {
+    "id": "p-739b86",
+    "offset": 32508,
+    "text": "effare aperte quis gravet mentem dolor."
+  },
+  {
+    "id": "p-50c923",
+    "offset": 32549,
+    "text": "Nvtr.\nHaut pandit ulli; maesta secretum occulit"
+  },
+  {
+    "id": "p-7d01c2",
+    "offset": 32598,
+    "text": "statuitque secum ferre quo moritur malum."
+  },
+  {
+    "id": "p-4660cd",
+    "offset": 32641,
+    "text": "iam perge, quaeso, perge: properato est opus."
+  },
+  {
+    "id": "p-808b32",
+    "offset": 32688,
+    "text": "Thes.\nReserate clausos regii postes laris."
+  },
+  {
+    "id": "p-8c8ebf",
+    "offset": 32732,
+    "text": "Theseus Phaedra Nutrix Tacita\n0 socia thalami, sicine adventum viri"
+  },
+  {
+    "id": "p-b555a4",
+    "offset": 32801,
+    "text": "et expetiti coniugis vultum excipis?"
+  },
+  {
+    "id": "p-410ec2",
+    "offset": 32839,
+    "text": "quin ense viduas dexteram atque animum mihi"
+  },
+  {
+    "id": "p-3822b1",
+    "offset": 32884,
+    "text": "restituis et te quicquid e vita fugat"
+  },
+  {
+    "id": "p-2c8938",
+    "offset": 32923,
+    "text": "expromis?"
+  },
+  {
+    "id": "p-482844",
+    "offset": 32934,
+    "text": "Ph.\nEheu, per tui sceptrum imperi,"
+  },
+  {
+    "id": "p-c4dccf",
+    "offset": 32970,
+    "text": "magnanime Theseu, perque natorum indolem"
+  },
+  {
+    "id": "p-4b1ff3",
+    "offset": 33012,
+    "text": "tuosque reditus perque iam cineres meos,"
+  },
+  {
+    "id": "p-6e0bc7",
+    "offset": 33054,
+    "text": "permitte mortem,"
+  },
+  {
+    "id": "p-b328af",
+    "offset": 33072,
+    "text": "Thes.\nCausa quae cogit mori?"
+  },
+  {
+    "id": "p-00af04",
+    "offset": 33102,
+    "text": "Ph.\nSi causa leti dicitur, fructus perit."
+  },
+  {
+    "id": "p-509b5a",
+    "offset": 33145,
+    "text": "Thes.\nNemo istud alius, me quidem excepto, audiet."
+  },
+  {
+    "id": "p-d6e336",
+    "offset": 33197,
+    "text": "Ph.\nAures pudica coniugis solas timet."
+  },
+  {
+    "id": "p-fce816",
+    "offset": 33237,
+    "text": "Thes.\nEffare: fido pectore arcana occulam."
+  },
+  {
+    "id": "p-e37c64",
+    "offset": 33281,
+    "text": "Ph.\nAlium silere quod voles, primus sile."
+  },
+  {
+    "id": "p-ef58e9",
+    "offset": 33324,
+    "text": "Thes.\nLeti facultas nulla continget tibi."
+  },
+  {
+    "id": "p-20c057",
+    "offset": 33367,
+    "text": "Ph.\nMori volenti desse mors numquam potest."
+  },
+  {
+    "id": "p-96f186",
+    "offset": 33412,
+    "text": "Thes.\nQuod sit luendum morte delictum indica."
+  },
+  {
+    "id": "p-8b20a4",
+    "offset": 33459,
+    "text": "Ph.\nQuod vivo."
+  },
+  {
+    "id": "p-3e982e",
+    "offset": 33475,
+    "text": "Thes.\nLacrimae nonne te nostrae movent?"
+  },
+  {
+    "id": "p-e8fb92",
+    "offset": 33516,
+    "text": "Ph.\nMors optima est perire lacrimandum suis."
+  },
+  {
+    "id": "p-08f9d9",
+    "offset": 33562,
+    "text": "Thes.\nSilere pergit, verbere ac vinclis opus;"
+  },
+  {
+    "id": "p-fa2a9a",
+    "offset": 33609,
+    "text": "altrixque prodet quicquid haec fari abnuit."
+  },
+  {
+    "id": "p-ed2a10",
+    "offset": 33654,
+    "text": "vincite ferro, verberum vis extrahat"
+  },
+  {
+    "id": "p-b14868",
+    "offset": 33692,
+    "text": "secreta mentis,"
+  },
+  {
+    "id": "p-94f5cf",
+    "offset": 33709,
+    "text": "Ph.\nIpsa iam fabor. mane."
+  },
+  {
+    "id": "p-b8e0eb",
+    "offset": 33736,
+    "text": "Thes.\nQuidnam ora maesta avertis et lacrimas genis"
+  },
+  {
+    "id": "p-51e43f",
+    "offset": 33788,
+    "text": "subito coortas veste praetenta optegis?"
+  },
+  {
+    "id": "p-3a7f2b",
+    "offset": 33829,
+    "text": "Ph.\nTe, te, creator caelitum, testem invoco"
+  },
+  {
+    "id": "p-39c4b4",
+    "offset": 33874,
+    "text": "et te, coruscum lucis aetheriae iubar,"
+  },
+  {
+    "id": "p-792db3",
+    "offset": 33914,
+    "text": "t ex cuius ortu nostra dependet domus:"
+  },
+  {
+    "id": "p-d85da7",
+    "offset": 33954,
+    "text": "temptata precibus restiti; ferro ac minis"
+  },
+  {
+    "id": "p-1e7e84",
+    "offset": 33997,
+    "text": "non cessit animus: vim tamen corpus tulit."
+  },
+  {
+    "id": "p-11059b",
+    "offset": 34041,
+    "text": "labem hanc pudoris eluet noster cruor."
+  },
+  {
+    "id": "p-7bab0b",
+    "offset": 34081,
+    "text": "Thes.\nQuis, ede, nostri decoris eversor fuit?"
+  },
+  {
+    "id": "p-6c4f8b",
+    "offset": 34128,
+    "text": "Ph.\nQuem rere minime,"
+  },
+  {
+    "id": "p-71ed96",
+    "offset": 34151,
+    "text": "Thes.\nQuis sit audire expeto."
+  },
+  {
+    "id": "p-b49fa4",
+    "offset": 34182,
+    "text": "Ph.\nHic dicet ensis quem tumultu territus"
+  },
+  {
+    "id": "p-bd94ad",
+    "offset": 34225,
+    "text": "liquit stuprator civium accursum timens."
+  },
+  {
+    "id": "p-948b06",
+    "offset": 34267,
+    "text": "Thes.\nQuod facinus, heu me, cerno? quod monstrum intuor?"
+  },
+  {
+    "id": "p-78c5d2",
+    "offset": 34325,
+    "text": "regale patris asperum signis ebur"
+  },
+  {
+    "id": "p-1a9024",
+    "offset": 34360,
+    "text": "capulo refulget, gentis Actaeae decus."
+  },
+  {
+    "id": "p-daa551",
+    "offset": 34400,
+    "text": "sed ipse quonam evasit?"
+  },
+  {
+    "id": "p-e7eeba",
+    "offset": 34425,
+    "text": "Ph.\nHi trepidum fuga"
+  },
+  {
+    "id": "p-0cba7f",
+    "offset": 34447,
+    "text": "videre famuli concitum celeri pede."
+  },
+  {
+    "id": "p-5be791",
+    "offset": 34484,
+    "text": "Thes.\nPro sancta Pietas, pro gubernator poli"
+  },
+  {
+    "id": "p-c1d1e8",
+    "offset": 34530,
+    "text": "et qui secundum fluctibus regnum moves,"
+  },
+  {
+    "id": "p-ebb6eb",
+    "offset": 34571,
+    "text": "unde ista venit generis infandi lues?"
+  },
+  {
+    "id": "p-7087dc",
+    "offset": 34610,
+    "text": "hunc Graia tellus aluit an Taurus Scythes"
+  },
+  {
+    "id": "p-15223c",
+    "offset": 34653,
+    "text": "Colchusque Phasis? redit ad auctores genus"
+  },
+  {
+    "id": "p-ffefdf",
+    "offset": 34697,
+    "text": "stirpemque primam degener sanguis refert."
+  },
+  {
+    "id": "p-ac2875",
+    "offset": 34740,
+    "text": "est prorsus iste gentis armiferae furor,"
+  },
+  {
+    "id": "p-71b663",
+    "offset": 34782,
+    "text": "odisse Veneris foedera et castum diu"
+  },
+  {
+    "id": "p-fd4d78",
+    "offset": 34820,
+    "text": "vulgare populis corpus, o tetrum genus"
+  },
+  {
+    "id": "p-94938d",
+    "offset": 34860,
+    "text": "nullaque victum lege melioris soli!"
+  },
+  {
+    "id": "p-bfcf60",
+    "offset": 34897,
+    "text": "ferae quoque ipsae Veneris evitant nefas,"
+  },
+  {
+    "id": "p-7d85d0",
+    "offset": 34940,
+    "text": "generisque leges inscius servat pudor."
+  },
+  {
+    "id": "p-ce3251",
+    "offset": 34980,
+    "text": "ubi vultus ille et ficta maiestas viri"
+  },
+  {
+    "id": "p-3c8b90",
+    "offset": 35020,
+    "text": "atque habitus horrens, prisca et antiqua appetens,'"
+  },
+  {
+    "id": "p-ea226f",
+    "offset": 35073,
+    "text": "morumque senium triste et affectus graves?"
+  },
+  {
+    "id": "p-4c2173",
+    "offset": 35117,
+    "text": "o vita fallax, abditos sensus geris"
+  },
+  {
+    "id": "p-fd9dc7",
+    "offset": 35154,
+    "text": "animisque pulchram turpibus faciem induis:"
+  },
+  {
+    "id": "p-1dd488",
+    "offset": 35198,
+    "text": "pudor impudentem celat, audacem quies,"
+  },
+  {
+    "id": "p-759336",
+    "offset": 35238,
+    "text": "pietas nefandum; vera fallaces probant"
+  },
+  {
+    "id": "p-6be085",
+    "offset": 35278,
+    "text": "simulantque molles dura. silvarum incola"
+  },
+  {
+    "id": "p-e66f00",
+    "offset": 35320,
+    "text": "ille efferatus castus intactus rudis,"
+  },
+  {
+    "id": "p-d284d0",
+    "offset": 35359,
+    "text": "mihi te reservas? a meo primum toro"
+  },
+  {
+    "id": "p-b7c036",
+    "offset": 35396,
+    "text": "et scelere tanto placuit ordiri virum?"
+  },
+  {
+    "id": "p-6078c3",
+    "offset": 35436,
+    "text": "iam iam superno numiui grates ago,"
+  },
+  {
+    "id": "p-a61e18",
+    "offset": 35472,
+    "text": "quod icta nostra cecidit Antiope manu,"
+  },
+  {
+    "id": "p-19f959",
+    "offset": 35512,
+    "text": "quod non ad antra Stygia descendens tibi"
+  },
+  {
+    "id": "p-87e734",
+    "offset": 35554,
+    "text": "matrem reliqui, profugus ignotas procul"
+  },
+  {
+    "id": "p-245989",
+    "offset": 35595,
+    "text": "percurre gentes: te licet terra ultimo"
+  },
+  {
+    "id": "p-449e9f",
+    "offset": 35635,
+    "text": "summota mundo dirimat Oceani plagis"
+  },
+  {
+    "id": "p-163b17",
+    "offset": 35672,
+    "text": "orbemque nostris pedibus obversum colas,"
+  },
+  {
+    "id": "p-3e5ee3",
+    "offset": 35714,
+    "text": "licet in recessu penitus extremo abditus"
+  },
+  {
+    "id": "p-545d87",
+    "offset": 35756,
+    "text": "horrifera celsi regna transieris poli"
+  },
+  {
+    "id": "p-f49a18",
+    "offset": 35795,
+    "text": "hiemesque supra positus et canas nives"
+  },
+  {
+    "id": "p-faaf16",
+    "offset": 35835,
+    "text": "gelidi frementes liqueris Boreae ruinas"
+  },
+  {
+    "id": "p-b04c6f",
+    "offset": 35876,
+    "text": "post te furentes, sceleribus poenas dabis."
+  },
+  {
+    "id": "p-78cc03",
+    "offset": 35920,
+    "text": "profugum per omnis pertinax latebras premam:"
+  },
+  {
+    "id": "p-79c619",
+    "offset": 35966,
+    "text": "longinqua clausa abstrusa diversa invia"
+  },
+  {
+    "id": "p-c7f742",
+    "offset": 36007,
+    "text": "emetiemur, nullus obstabit locus:"
+  },
+  {
+    "id": "p-542ec0",
+    "offset": 36042,
+    "text": "scis unde redeam, tela quo mitti haud queunt,"
+  },
+  {
+    "id": "p-042702",
+    "offset": 36089,
+    "text": "huc vota mittam, genitor aequoreus dedit"
+  },
+  {
+    "id": "p-6d74f6",
+    "offset": 36131,
+    "text": "ut vota prono terna concipiam deo."
+  },
+  {
+    "id": "p-7ba9d5",
+    "offset": 36167,
+    "text": "et invocata munus hoc sanxit Styge."
+  },
+  {
+    "id": "p-b647a5",
+    "offset": 36204,
+    "text": "En perage donum triste, regnator freti!"
+  },
+  {
+    "id": "p-772d39",
+    "offset": 36245,
+    "text": "non cernat ultra lucidum Hippolytum diem"
+  },
+  {
+    "id": "p-3e041c",
+    "offset": 36287,
+    "text": "adeatque manes iuvenis iratos patri,"
+  },
+  {
+    "id": "p-5446e7",
+    "offset": 36325,
+    "text": "fer abominandam nunc opem gnato, parens:"
+  },
+  {
+    "id": "p-65d294",
+    "offset": 36367,
+    "text": "numquam supremum numinis munus tui"
+  },
+  {
+    "id": "p-79a9c1",
+    "offset": 36403,
+    "text": "consumeremus. magna ni premerent mala:"
+  },
+  {
+    "id": "p-7e1961",
+    "offset": 36443,
+    "text": "inter profunda Tartara et Ditem horridum"
+  },
+  {
+    "id": "p-c38b46",
+    "offset": 36485,
+    "text": "et imminentes regis inferni minas,"
+  },
+  {
+    "id": "p-6800d3",
+    "offset": 36521,
+    "text": "voto peperci: redde nunc pactam fidem,"
+  },
+  {
+    "id": "p-b73591",
+    "offset": 36561,
+    "text": "genitor, moraris? cur adhuc undae silent?"
+  },
+  {
+    "id": "p-0577d4",
+    "offset": 36604,
+    "text": "nunc atra ventis nubila impellentibus"
+  },
+  {
+    "id": "p-e3440e",
+    "offset": 36643,
+    "text": "subtexe noctem, sidera et caelum eripe,"
+  },
+  {
+    "id": "p-137d0a",
+    "offset": 36684,
+    "text": "effunde pontum, vulgus aequoreum cie"
+  },
+  {
+    "id": "p-538a18",
+    "offset": 36722,
+    "text": "fluctusque ab imo tumidus Oceano voca."
+  },
+  {
+    "id": "p-f49f3e",
+    "offset": 36762,
+    "text": "Chorus\nO magna parens, Natura, deum"
+  },
+  {
+    "id": "p-c43bdc",
+    "offset": 36799,
+    "text": "tuque igniferi rector Olympi,"
+  },
+  {
+    "id": "p-82d688",
+    "offset": 36830,
+    "text": "qui sparsa cito sidera mundo"
+  },
+  {
+    "id": "p-914db5",
+    "offset": 36860,
+    "text": "cursusque vagos rapis astrorum"
+  },
+  {
+    "id": "p-954d26",
+    "offset": 36892,
+    "text": "celerique polos cardine versas,"
+  },
+  {
+    "id": "p-d62977",
+    "offset": 36925,
+    "text": "cur tanta tibi cura perennes"
+  },
+  {
+    "id": "p-ac5e9c",
+    "offset": 36955,
+    "text": "agitare vias aetheris alti,"
+  },
+  {
+    "id": "p-120efd",
+    "offset": 36984,
+    "text": "ut nunc canae frigora brumae"
+  },
+  {
+    "id": "p-95b299",
+    "offset": 37014,
+    "text": "nudent silvas,"
+  },
+  {
+    "id": "p-a5a8d0",
+    "offset": 37030,
+    "text": "nunc arbustis redeant umbrae,"
+  },
+  {
+    "id": "p-707edc",
+    "offset": 37061,
+    "text": "nunc aestivi colla leonis"
+  },
+  {
+    "id": "p-c2060e",
+    "offset": 37088,
+    "text": "Cererem magno fervore coquant"
+  },
+  {
+    "id": "p-59a5f2",
+    "offset": 37119,
+    "text": "viresque suas temperet annus?"
+  },
+  {
+    "id": "p-2b24eb",
+    "offset": 37150,
+    "text": "sed cur idem qui tanta regis,"
+  },
+  {
+    "id": "p-86e584",
+    "offset": 37181,
+    "text": "sub quo vasti pondera mundi"
+  },
+  {
+    "id": "p-fa81e8",
+    "offset": 37210,
+    "text": "librata suos ducunt orbes,"
+  },
+  {
+    "id": "p-7f9987",
+    "offset": 37238,
+    "text": "hominum nimium' securus abes,"
+  },
+  {
+    "id": "p-ea2e95",
+    "offset": 37269,
+    "text": "non sollicitus"
+  },
+  {
+    "id": "p-981a60",
+    "offset": 37285,
+    "text": "prodesse bonis, nocuisse malis?"
+  },
+  {
+    "id": "p-33106d",
+    "offset": 37318,
+    "text": "res humanas ordine nullo"
+  },
+  {
+    "id": "p-a3abe1",
+    "offset": 37344,
+    "text": "Fortuna regit sparsitque manu"
+  },
+  {
+    "id": "p-d8ed5f",
+    "offset": 37375,
+    "text": "munera caeca, peiora fovens;"
+  },
+  {
+    "id": "p-6e3890",
+    "offset": 37405,
+    "text": "vincit sanctos dira libido,"
+  },
+  {
+    "id": "p-73d542",
+    "offset": 37434,
+    "text": "fraus sublimi regnat in aula."
+  },
+  {
+    "id": "p-80419f",
+    "offset": 37465,
+    "text": "tradere turpi fasces populus"
+  },
+  {
+    "id": "p-dc30ea",
+    "offset": 37495,
+    "text": "gaudet, eosdem colit atque odit."
+  },
+  {
+    "id": "p-11364f",
+    "offset": 37529,
+    "text": "tristis virtus perversa tulit"
+  },
+  {
+    "id": "p-0e2448",
+    "offset": 37560,
+    "text": "praemia recti:"
+  },
+  {
+    "id": "p-276083",
+    "offset": 37576,
+    "text": "castos sequitur mala paupertas"
+  },
+  {
+    "id": "p-43bf6e",
+    "offset": 37608,
+    "text": "vitioque potens regnat adulter:"
+  },
+  {
+    "id": "p-f6c650",
+    "offset": 37641,
+    "text": "o vane pudor falsumque decus!"
+  },
+  {
+    "id": "p-9128f9",
+    "offset": 37672,
+    "text": "Sed quid citato nuntius properat gradu"
+  },
+  {
+    "id": "p-952ccc",
+    "offset": 37712,
+    "text": "rigatque maestis lugubrem vultum genis?"
+  },
+  {
+    "id": "p-a5b45a",
+    "offset": 37753,
+    "text": "Nuntius Theseus\nO sors acerba et dura, famulatus gravis,"
+  },
+  {
+    "id": "p-b9c50b",
+    "offset": 37811,
+    "text": "cur me ad nefandum nuntium casus vocat?"
+  },
+  {
+    "id": "p-5cd087",
+    "offset": 37852,
+    "text": "Thes.\nNe metue cladis fortiter fari asperas:"
+  },
+  {
+    "id": "p-0111c8",
+    "offset": 37898,
+    "text": "non imparatum pectus aerumnis fero."
+  },
+  {
+    "id": "p-24353e",
+    "offset": 37935,
+    "text": "Nvnt.\nVocem dolori lingua luctificam negat."
+  },
+  {
+    "id": "p-73c306",
+    "offset": 37980,
+    "text": "Thes.\nProloquere quae sors aggravet quassam domum."
+  },
+  {
+    "id": "p-a48adb",
+    "offset": 38032,
+    "text": "Nvnt.\nHippolytus, heu me, flebili leto occubat."
+  },
+  {
+    "id": "p-03cb9d",
+    "offset": 38081,
+    "text": "Thes.\nGnatum parens obisse iam pridem scio:"
+  },
+  {
+    "id": "p-6a8f0b",
+    "offset": 38126,
+    "text": "nunc raptor obiit, mortis effare ordinem."
+  },
+  {
+    "id": "p-1d01c0",
+    "offset": 38169,
+    "text": "Nvnt.\nVt profugus urbem liquit infesto gradu"
+  },
+  {
+    "id": "p-5e0a60",
+    "offset": 38215,
+    "text": "celerem citatis passibus cursum explicans,"
+  },
+  {
+    "id": "p-57e4a6",
+    "offset": 38259,
+    "text": "celso sonipedes ocius subigit iugo"
+  },
+  {
+    "id": "p-89c2ce",
+    "offset": 38295,
+    "text": "et ora frenis domita substrictis ligat."
+  },
+  {
+    "id": "p-cac550",
+    "offset": 38336,
+    "text": "tum multa secum effatus et patrium solum"
+  },
+  {
+    "id": "p-49b8ec",
+    "offset": 38378,
+    "text": "abominatus saepe genitorem ciet"
+  },
+  {
+    "id": "p-e5ddfd",
+    "offset": 38411,
+    "text": "acerque habenis lora permissis quatit:"
+  },
+  {
+    "id": "p-a8bc50",
+    "offset": 38451,
+    "text": "cum subito vastum tonuit ex alto mare"
+  },
+  {
+    "id": "p-6641a5",
+    "offset": 38490,
+    "text": "crevitque in astra, nullus inspirat salo"
+  },
+  {
+    "id": "p-51fddd",
+    "offset": 38532,
+    "text": "ventus, quieti nulla pars caeli strepit"
+  },
+  {
+    "id": "p-f6b246",
+    "offset": 38573,
+    "text": "placidumque pelagus propria tempestas agit."
+  },
+  {
+    "id": "p-30fbd9",
+    "offset": 38618,
+    "text": "non tantus Auster Sicula disturbat freta"
+  },
+  {
+    "id": "p-51313f",
+    "offset": 38660,
+    "text": "nec tam furens Ionius exsurgit sinus"
+  },
+  {
+    "id": "p-1dee2f",
+    "offset": 38698,
+    "text": "regnante Coro, saxa cum fluctu tremunt"
+  },
+  {
+    "id": "p-7d79ee",
+    "offset": 38738,
+    "text": "et cana summum spuma Leucaten ferit."
+  },
+  {
+    "id": "p-82a9f6",
+    "offset": 38776,
+    "text": "consurgit ingens pontus in vastum aggerem,"
+  },
+  {
+    "id": "p-f0d4b6",
+    "offset": 38820,
+    "text": "nec ista ratibus tanta construitur lues:"
+  },
+  {
+    "id": "p-3638dc",
+    "offset": 38862,
+    "text": "terris minatur; fluctus haud cursu levi"
+  },
+  {
+    "id": "p-979d19",
+    "offset": 38903,
+    "text": "provolvitur: nescio quid onerato sinu"
+  },
+  {
+    "id": "p-632561",
+    "offset": 38942,
+    "text": "gravis unda portat, quae novum tellus caput"
+  },
+  {
+    "id": "p-9590f0",
+    "offset": 38987,
+    "text": "ostendit astris? Cyclas exoritur nova?"
+  },
+  {
+    "id": "p-d706e6",
+    "offset": 39027,
+    "text": "haec dum stupentes quaerimus, totum en mare"
+  },
+  {
+    "id": "p-4803e1",
+    "offset": 39072,
+    "text": "immugit, omnes undique scopuli adstrepunt;"
+  },
+  {
+    "id": "p-9bf0d3",
+    "offset": 39116,
+    "text": "summum cacumen rorat expulso sale."
+  },
+  {
+    "id": "p-363426",
+    "offset": 39152,
+    "text": "spumat vomitque vicibus alternis aquas"
+  },
+  {
+    "id": "p-4f9f61",
+    "offset": 39192,
+    "text": "qualis per alta vehitur Oceani freta"
+  },
+  {
+    "id": "p-84d482",
+    "offset": 39230,
+    "text": "fluctum refundens ore physeter capax. ,"
+  },
+  {
+    "id": "p-a3cde0",
+    "offset": 39271,
+    "text": "inhorruit concussus undarum globus"
+  },
+  {
+    "id": "p-7917a1",
+    "offset": 39307,
+    "text": "solvitque sese et litori invexit malum"
+  },
+  {
+    "id": "p-65b688",
+    "offset": 39347,
+    "text": "maius timore, pontus in terras ruit"
+  },
+  {
+    "id": "p-d033e4",
+    "offset": 39384,
+    "text": "suumque monstrum sequitur— os quassat tremor."
+  },
+  {
+    "id": "p-0a67b3",
+    "offset": 39431,
+    "text": "quis habitus illi corporis vasti fuit!"
+  },
+  {
+    "id": "p-99c0f9",
+    "offset": 39471,
+    "text": "caerulea taurus colla sublimis gerens"
+  },
+  {
+    "id": "p-e21a4a",
+    "offset": 39510,
+    "text": "erexit altam fronte viridanti iubam;"
+  },
+  {
+    "id": "p-f2320d",
+    "offset": 39548,
+    "text": "stant hispidae auris, orbibus varius color,"
+  },
+  {
+    "id": "p-2be804",
+    "offset": 39593,
+    "text": "et quem feri dominator habuisset gregis"
+  },
+  {
+    "id": "p-f6971f",
+    "offset": 39634,
+    "text": "et quem sub undis natus: hinc flammam vomunt"
+  },
+  {
+    "id": "p-f1233a",
+    "offset": 39680,
+    "text": "oculi, hinc relucent caerula insignes nota;"
+  },
+  {
+    "id": "p-31be96",
+    "offset": 39725,
+    "text": "opima cervix arduos tollit toros"
+  },
+  {
+    "id": "p-158f4e",
+    "offset": 39759,
+    "text": "naresque hiulcis haustibus patulae fremunt;"
+  },
+  {
+    "id": "p-e6673c",
+    "offset": 39804,
+    "text": "musco tenaci pectus ac palear viret,"
+  },
+  {
+    "id": "p-9da153",
+    "offset": 39842,
+    "text": "longum iubente spargitur fuco latus;"
+  },
+  {
+    "id": "p-a60053",
+    "offset": 39880,
+    "text": "tum pone tergus ultima in monstrum coit"
+  },
+  {
+    "id": "p-672119",
+    "offset": 39921,
+    "text": "facies et ingens belua immensam trahit"
+  },
+  {
+    "id": "p-55399c",
+    "offset": 39961,
+    "text": "squamosa partem, talis extremo mari"
+  },
+  {
+    "id": "p-7977a5",
+    "offset": 39998,
+    "text": "pistrix citatas sorbet aut frangit rates."
+  },
+  {
+    "id": "p-1c3fd1",
+    "offset": 40041,
+    "text": "tremuere terrae, fugit attonitum pecus"
+  },
+  {
+    "id": "p-35a87a",
+    "offset": 40081,
+    "text": "passim per agros nec suos pastor sequi"
+  },
+  {
+    "id": "p-8f6c77",
+    "offset": 40121,
+    "text": "meminit iuvencos; omnis e saltu fera"
+  },
+  {
+    "id": "p-1e928e",
+    "offset": 40159,
+    "text": "diffugit, omnis frigido exsanguis metu"
+  },
+  {
+    "id": "p-a66e7b",
+    "offset": 40199,
+    "text": "venator horret, solus immunis metu"
+  },
+  {
+    "id": "p-c9c707",
+    "offset": 40235,
+    "text": "Hippolytus artis continet frenis equos"
+  },
+  {
+    "id": "p-0d8b75",
+    "offset": 40275,
+    "text": "pavidosque notae vocis hortatu ciet."
+  },
+  {
+    "id": "p-7c2e93",
+    "offset": 40313,
+    "text": "est alta ad agros collibus ruptis via,"
+  },
+  {
+    "id": "p-a6d51e",
+    "offset": 40353,
+    "text": "vicina tangens spatia suppositi maris;"
+  },
+  {
+    "id": "p-1addd6",
+    "offset": 40393,
+    "text": "hic se illa moles acuit atque iras parat."
+  },
+  {
+    "id": "p-e98837",
+    "offset": 40436,
+    "text": "ut cepit animos seque praetemptans satis"
+  },
+  {
+    "id": "p-2ec7ae",
+    "offset": 40478,
+    "text": "prolusit irae, praepeti cursu evolat,"
+  },
+  {
+    "id": "p-e83414",
+    "offset": 40517,
+    "text": "summam citato vix gradu tangens humum,"
+  },
+  {
+    "id": "p-e39355",
+    "offset": 40557,
+    "text": "et torva currus ante trepidantes stetit."
+  },
+  {
+    "id": "p-f1e404",
+    "offset": 40599,
+    "text": "contra feroci gustus insurgens minax"
+  },
+  {
+    "id": "p-d37a83",
+    "offset": 40637,
+    "text": "vultu nec ora mutat et magnum intonat:"
+  },
+  {
+    "id": "p-c86b26",
+    "offset": 40677,
+    "text": "'haud frangit animum vanus hic terror meum:"
+  },
+  {
+    "id": "p-0d150b",
+    "offset": 40722,
+    "text": "nam mihi paternus vincere est tauros labor.'"
+  },
+  {
+    "id": "p-700e6b",
+    "offset": 40768,
+    "text": "inobsequentes protinus frenis equi"
+  },
+  {
+    "id": "p-f1aa9a",
+    "offset": 40804,
+    "text": "rapuere currum iamque derrantes via,"
+  },
+  {
+    "id": "p-048733",
+    "offset": 40842,
+    "text": "quacumque rabidos pavidus evexit furor,"
+  },
+  {
+    "id": "p-536162",
+    "offset": 40883,
+    "text": "hac ire pergunt seque per scopulos agunt."
+  },
+  {
+    "id": "p-1b41b1",
+    "offset": 40926,
+    "text": "at ille, qualis turbido rector mari"
+  },
+  {
+    "id": "p-6b0682",
+    "offset": 40963,
+    "text": "ratem retentat, ne det obliquum latus,"
+  },
+  {
+    "id": "p-4705bb",
+    "offset": 41003,
+    "text": "et arte fluctum fallit, haud aliter citos"
+  },
+  {
+    "id": "p-02334e",
+    "offset": 41046,
+    "text": "currus gubernat: ora nunc pressis trahit"
+  },
+  {
+    "id": "p-869cfe",
+    "offset": 41088,
+    "text": "constricti frenis, terga nunc torto frequens"
+  },
+  {
+    "id": "p-57ec4b",
+    "offset": 41134,
+    "text": "verbere cohercet. sequitur adsiduus comes,"
+  },
+  {
+    "id": "p-841730",
+    "offset": 41178,
+    "text": "nunc aequa carpens spatia, nunc contra obvius"
+  },
+  {
+    "id": "p-16f14e",
+    "offset": 41225,
+    "text": "oberrat, omni parte terrorem movens."
+  },
+  {
+    "id": "p-3d3afb",
+    "offset": 41263,
+    "text": "non-licuit ultra fugere: nam toto obvius"
+  },
+  {
+    "id": "p-17b21b",
+    "offset": 41305,
+    "text": "incurrit ore corniger ponti horridus."
+  },
+  {
+    "id": "p-d20b4c",
+    "offset": 41344,
+    "text": "tum vero pavida sonipedes mente exciti"
+  },
+  {
+    "id": "p-2106ad",
+    "offset": 41384,
+    "text": "imperia solvunt seque luctantur iugo"
+  },
+  {
+    "id": "p-2f7b35",
+    "offset": 41422,
+    "text": "eripere rectique in pedes iactant onus."
+  },
+  {
+    "id": "p-af18c0",
+    "offset": 41463,
+    "text": "praeceps in ora fusus implicuit cadens"
+  },
+  {
+    "id": "p-7d838b",
+    "offset": 41503,
+    "text": "laqueo tenaci corpus et quanto magis"
+  },
+  {
+    "id": "p-b5ccf9",
+    "offset": 41541,
+    "text": "pugnat, sequaces hoc magis nodos ligat."
+  },
+  {
+    "id": "p-1b2dd6",
+    "offset": 41582,
+    "text": "sensere pecudes facinus— et curru levi,"
+  },
+  {
+    "id": "p-5f8328",
+    "offset": 41623,
+    "text": "dominante nullo, qua timor iussit ruunt."
+  },
+  {
+    "id": "p-29acbe",
+    "offset": 41665,
+    "text": "talis per auras non suum agnoscens onus"
+  },
+  {
+    "id": "p-960659",
+    "offset": 41706,
+    "text": "Solique falso creditum indignans diem"
+  },
+  {
+    "id": "p-a21d73",
+    "offset": 41745,
+    "text": "Phaethonta currus devio excussit polo."
+  },
+  {
+    "id": "p-885e2a",
+    "offset": 41785,
+    "text": "late cruentat arva et inrisum caput"
+  },
+  {
+    "id": "p-7df9f9",
+    "offset": 41822,
+    "text": "scopulis resultat; auferant dumi comas,"
+  },
+  {
+    "id": "p-98a644",
+    "offset": 41863,
+    "text": "et ora duras pulchra populatur lapis"
+  },
+  {
+    "id": "p-2a205f",
+    "offset": 41901,
+    "text": "peritque multo vulnere infelix decor."
+  },
+  {
+    "id": "p-faca75",
+    "offset": 41940,
+    "text": "moribunda celeres membra pervolvunt rotae:"
+  },
+  {
+    "id": "p-a7e17a",
+    "offset": 41984,
+    "text": "tandemque raptum truncus ambusta sude"
+  },
+  {
+    "id": "p-05f063",
+    "offset": 42023,
+    "text": "medium per inguen stipite ingesto tenet,"
+  },
+  {
+    "id": "p-e01692",
+    "offset": 42065,
+    "text": "paulumque domino currus affixo stetit."
+  },
+  {
+    "id": "p-471081",
+    "offset": 42105,
+    "text": "haesere biiuges vulnere— et pariter moram"
+  },
+  {
+    "id": "p-0ec5d6",
+    "offset": 42148,
+    "text": "dominumque rumpunt, inde semanimem secant"
+  },
+  {
+    "id": "p-772d48",
+    "offset": 42191,
+    "text": "virgulta, acutis asperi vepres rubis"
+  },
+  {
+    "id": "p-38150a",
+    "offset": 42229,
+    "text": "omnisque truncus corporis partem tulit."
+  },
+  {
+    "id": "p-301012",
+    "offset": 42270,
+    "text": "errant per agros funebris famuli manus,"
+  },
+  {
+    "id": "p-5ee19c",
+    "offset": 42311,
+    "text": "per illa qua distinctus Hippolytus loca"
+  },
+  {
+    "id": "p-41a8dd",
+    "offset": 42352,
+    "text": "longum cruenta tramitem signat nota,"
+  },
+  {
+    "id": "p-5d8572",
+    "offset": 42390,
+    "text": "maestaeque domini membra vestigant canes."
+  },
+  {
+    "id": "p-c90ede",
+    "offset": 42433,
+    "text": "necdum dolentum sedulus potuit labor"
+  },
+  {
+    "id": "p-194657",
+    "offset": 42471,
+    "text": "explere corpus, hocine est formae decus?"
+  },
+  {
+    "id": "p-940d7a",
+    "offset": 42513,
+    "text": "qui modo paterni clarus imperii comes"
+  },
+  {
+    "id": "p-cc3ac2",
+    "offset": 42552,
+    "text": "et certus heres siderum fulsit modo,"
+  },
+  {
+    "id": "p-0bd870",
+    "offset": 42590,
+    "text": "passim ad supremos ille colligitur rogos"
+  },
+  {
+    "id": "p-08c958",
+    "offset": 42632,
+    "text": "et funeri confertur."
+  },
+  {
+    "id": "p-b90974",
+    "offset": 42654,
+    "text": "Thes.\nO nimium potens,"
+  },
+  {
+    "id": "p-0b4e59",
+    "offset": 42678,
+    "text": "quanto parentes sanguinis vinclo tenes."
+  },
+  {
+    "id": "p-4dcdb6",
+    "offset": 42719,
+    "text": "natura, quam te colimus inviti quoque:"
+  },
+  {
+    "id": "p-516cce",
+    "offset": 42759,
+    "text": "occidere volui noxium, amissum fleo."
+  },
+  {
+    "id": "p-206362",
+    "offset": 42797,
+    "text": "Nvnt.\nGaudere non est ipse quod voluit potens."
+  },
+  {
+    "id": "p-a55b6d",
+    "offset": 42845,
+    "text": "Thes.\nEquidem malorum maximum hunc cumulum reor,"
+  },
+  {
+    "id": "p-87a84f",
+    "offset": 42895,
+    "text": "si abominaiida casus optanda efficit."
+  },
+  {
+    "id": "p-38712a",
+    "offset": 42934,
+    "text": "Nvnt.\nEt si odia servas, cur madent fletu genae?"
+  },
+  {
+    "id": "p-53891a",
+    "offset": 42984,
+    "text": "Thes.\nQuod interemi non, quod amisi fleo."
+  },
+  {
+    "id": "p-5a8c7b",
+    "offset": 43027,
+    "text": "Chorus\nQuanti casus humana rotant!"
+  },
+  {
+    "id": "p-6a88ab",
+    "offset": 43063,
+    "text": "minor in parvis Fortuna furit"
+  },
+  {
+    "id": "p-6af9c1",
+    "offset": 43094,
+    "text": "leviusque ferit leviora deus;"
+  },
+  {
+    "id": "p-4fd1ee",
+    "offset": 43125,
+    "text": "servat placidos obscura quies"
+  },
+  {
+    "id": "p-450a8d",
+    "offset": 43156,
+    "text": "praebetque senes casa securos."
+  },
+  {
+    "id": "p-3af638",
+    "offset": 43188,
+    "text": "Admota aetheriis culmina sedibus"
+  },
+  {
+    "id": "p-275976",
+    "offset": 43222,
+    "text": "Euros excipiunt, excipiunt Notos,"
+  },
+  {
+    "id": "p-aa7f02",
+    "offset": 43257,
+    "text": "insani Boreae minas"
+  },
+  {
+    "id": "p-0e7521",
+    "offset": 43278,
+    "text": "imbriferumque Corum."
+  },
+  {
+    "id": "p-5fece4",
+    "offset": 43300,
+    "text": "Raros patitur fulminis ictus"
+  },
+  {
+    "id": "p-753d6c",
+    "offset": 43330,
+    "text": "umida vallis:"
+  },
+  {
+    "id": "p-4414d2",
+    "offset": 43345,
+    "text": "tremuit telo Iovis altisoni"
+  },
+  {
+    "id": "p-62c989",
+    "offset": 43374,
+    "text": "Caucasus ingens Plirygiurnque nemus"
+  },
+  {
+    "id": "p-b0dfb5",
+    "offset": 43411,
+    "text": "matris Cybeles: metuens caelo"
+  },
+  {
+    "id": "p-7d55e3",
+    "offset": 43442,
+    "text": "Iuppiter alto vicina petit;"
+  },
+  {
+    "id": "p-ade630",
+    "offset": 43471,
+    "text": "non capit umquam magnos motus"
+  },
+  {
+    "id": "p-198733",
+    "offset": 43502,
+    "text": "humilis tecti plebeia domus."
+  },
+  {
+    "id": "p-44aafa",
+    "offset": 43532,
+    "text": "Volat ambiguis mobilis alis"
+  },
+  {
+    "id": "p-d69fdb",
+    "offset": 43561,
+    "text": "hora, nec ulli praestat velox"
+  },
+  {
+    "id": "p-ab73c4",
+    "offset": 43592,
+    "text": "Fortuna fidem,"
+  },
+  {
+    "id": "p-87fb7e",
+    "offset": 43608,
+    "text": "hic qui clari . . . sidera mundi"
+  },
+  {
+    "id": "p-c4b424",
+    "offset": 43642,
+    "text": "nitidumque diem morte relicta."
+  },
+  {
+    "id": "p-da1475",
+    "offset": 43674,
+    "text": "luget maestos tristis reditus"
+  },
+  {
+    "id": "p-17aa74",
+    "offset": 43705,
+    "text": "ipsoque magis flebile Averno"
+  },
+  {
+    "id": "p-4e41ac",
+    "offset": 43735,
+    "text": "sedis patriae videt hospitium."
+  },
+  {
+    "id": "p-061a16",
+    "offset": 43767,
+    "text": "Pallas Actaeae veneranda genti,"
+  },
+  {
+    "id": "p-4f2a43",
+    "offset": 43800,
+    "text": "quod tuus caelum superosque Theseus"
+  },
+  {
+    "id": "p-ee5700",
+    "offset": 43837,
+    "text": "spectat et fugit Stygias paludes,"
+  },
+  {
+    "id": "p-91f59d",
+    "offset": 43872,
+    "text": "casta nil debes patruo rapaci:"
+  },
+  {
+    "id": "p-3cbeee",
+    "offset": 43904,
+    "text": "constat inferno numerus tyranno."
+  },
+  {
+    "id": "p-0eccda",
+    "offset": 43938,
+    "text": "Quae vox ab altis flebilis tectis sonat"
+  },
+  {
+    "id": "p-1d8a4e",
+    "offset": 43979,
+    "text": "strictoque vaecors Phaedra quid ferro parat?"
+  },
+  {
+    "id": "p-760ea3",
+    "offset": 44025,
+    "text": "Theseus Phaedra Chorus\nQuis te dolore percitam instigat furor?"
+  },
+  {
+    "id": "p-a547f7",
+    "offset": 44089,
+    "text": "quid ensis iste quidve vociferatio"
+  },
+  {
+    "id": "p-ff8ac4",
+    "offset": 44125,
+    "text": "planctusque supra corpus invisum volunt?"
+  },
+  {
+    "id": "p-921704",
+    "offset": 44167,
+    "text": "Ph.\nMe, me, profundi saeve dominator freti,"
+  },
+  {
+    "id": "p-8bc0e7",
+    "offset": 44212,
+    "text": "invade et in me monstra caerulei maris"
+  },
+  {
+    "id": "p-8b8207",
+    "offset": 44252,
+    "text": "emitte, quicquid intimo Tethys sinu"
+  },
+  {
+    "id": "p-4b6dd3",
+    "offset": 44289,
+    "text": "extrema gestat, quicquid Oceanus vagis"
+  },
+  {
+    "id": "p-60ea1b",
+    "offset": 44329,
+    "text": "complexus undis ultimo fluctu tegit,"
+  },
+  {
+    "id": "p-2cffcb",
+    "offset": 44367,
+    "text": "o dure Theseu semper, o numquam ad tuos"
+  },
+  {
+    "id": "p-830d12",
+    "offset": 44408,
+    "text": "tuto reverse: gnatus et genitor nece"
+  },
+  {
+    "id": "p-dd3da1",
+    "offset": 44446,
+    "text": "reditus tuos luere; pervertis domum"
+  },
+  {
+    "id": "p-8a0a3e",
+    "offset": 44483,
+    "text": "amore semper coniugum aut odio nocens."
+  },
+  {
+    "id": "p-8d1b26",
+    "offset": 44523,
+    "text": "Hippolyte, tales intuor vultus tuos"
+  },
+  {
+    "id": "p-b7bb23",
+    "offset": 44560,
+    "text": "talesque feci? membra quis saevus Sinis"
+  },
+  {
+    "id": "p-7fc75b",
+    "offset": 44601,
+    "text": "aut quis Procrustes sparsit aut quis Cresius,"
+  },
+  {
+    "id": "p-9bffc8",
+    "offset": 44648,
+    "text": "Daedalea vasto claustra mugitu replens,"
+  },
+  {
+    "id": "p-4baf54",
+    "offset": 44689,
+    "text": "taurus biformis ore cornigero ferox"
+  },
+  {
+    "id": "p-e91c19",
+    "offset": 44726,
+    "text": "divulsit? heu me. quo tuus fugit decor"
+  },
+  {
+    "id": "p-287d2d",
+    "offset": 44766,
+    "text": "oculique nostrum sidus? exanimis iaces?"
+  },
+  {
+    "id": "p-f13a4f",
+    "offset": 44807,
+    "text": "ades parumper verbaque exaudi mea—"
+  },
+  {
+    "id": "p-b711e9",
+    "offset": 44843,
+    "text": "nil turpe loquimur: hac manu poenas tibi"
+  },
+  {
+    "id": "p-b4e7c8",
+    "offset": 44885,
+    "text": "solvam et nefando pectori ferrum inseram"
+  },
+  {
+    "id": "p-17fb1f",
+    "offset": 44927,
+    "text": "animaque Phaedram pariter ac scelere exuam,"
+  },
+  {
+    "id": "p-3c98cd",
+    "offset": 44972,
+    "text": "et te per undas perque Tartareos lacus."
+  },
+  {
+    "id": "p-b66c5f",
+    "offset": 45013,
+    "text": "per Styga, per amnes igneos amens sequar."
+  },
+  {
+    "id": "p-513ce0",
+    "offset": 45056,
+    "text": "placemus umbras: capitis exuvias cape"
+  },
+  {
+    "id": "p-281386",
+    "offset": 45095,
+    "text": "laceraeque frontis accipe abscisam comam."
+  },
+  {
+    "id": "p-05c995",
+    "offset": 45138,
+    "text": "non licuit animos iungere, at certe licet"
+  },
+  {
+    "id": "p-73452d",
+    "offset": 45181,
+    "text": "iunxisse fata. morere, si casta es, viro;"
+  },
+  {
+    "id": "p-c7d9ac",
+    "offset": 45224,
+    "text": "si incesta, amori, coniugis thalamos petam"
+  },
+  {
+    "id": "p-4a5f97",
+    "offset": 45268,
+    "text": "tanto impiatos facinore? hoc derat nefas,"
+  },
+  {
+    "id": "p-f8f082",
+    "offset": 45311,
+    "text": "ut vindicato sancta fruereris toro."
+  },
+  {
+    "id": "p-c7f7ac",
+    "offset": 45348,
+    "text": "o mors amoris una sedamen mali,"
+  },
+  {
+    "id": "p-336c28",
+    "offset": 45381,
+    "text": "o mors ^pudoris maximum laesi decus,"
+  },
+  {
+    "id": "p-e8d393",
+    "offset": 45419,
+    "text": "confugimus ad te: pande placatos sinus."
+  },
+  {
+    "id": "p-623e48",
+    "offset": 45460,
+    "text": "Audite, Athenae, tuque, funesta pater"
+  },
+  {
+    "id": "p-07a948",
+    "offset": 45499,
+    "text": "peior noverca: falsa memoravi et nefas,"
+  },
+  {
+    "id": "p-ab0a8a",
+    "offset": 45540,
+    "text": "quod ipsa demens pectore insano hauseram,"
+  },
+  {
+    "id": "p-52a8fd",
+    "offset": 45583,
+    "text": "mentita finxi. vana punisti pater,"
+  },
+  {
+    "id": "p-dbae95",
+    "offset": 45619,
+    "text": "iuvenisque castus crimine incesto iacet,"
+  },
+  {
+    "id": "p-440527",
+    "offset": 45661,
+    "text": "pudicus, insons— recipe iam mores tuos."
+  },
+  {
+    "id": "p-069c51",
+    "offset": 45702,
+    "text": "mucrone pectus impium iusto patet"
+  },
+  {
+    "id": "p-fcd21c",
+    "offset": 45737,
+    "text": "cruorque sancto solvit inferias viro."
+  },
+  {
+    "id": "p-b6976f",
+    "offset": 45776,
+    "text": "Thes.\nQuid facere rapto debeas gnato parens."
+  },
+  {
+    "id": "p-18751d",
+    "offset": 45822,
+    "text": "disce a noverca: condere Acherontis plagis."
+  },
+  {
+    "id": "p-cde0f0",
+    "offset": 45867,
+    "text": "Pallidi fauces Averni vosque, Taenarei specus,"
+  },
+  {
+    "id": "p-b205c2",
+    "offset": 45915,
+    "text": "unda miseris grata Lethes vosque, torpentes lacus,"
+  },
+  {
+    "id": "p-a708a7",
+    "offset": 45967,
+    "text": "impium rapite atque mersum premite perpetuis malis,"
+  },
+  {
+    "id": "p-a9dfa9",
+    "offset": 46020,
+    "text": "nunc adeste, saeva ponti monstra, nunc vastum mare,"
+  },
+  {
+    "id": "p-613078",
+    "offset": 46073,
+    "text": "ultimo quodcumque Proteus aequorum abscondit sinu,"
+  },
+  {
+    "id": "p-b77dca",
+    "offset": 46125,
+    "text": "meque ovantem scelere tanto rapite in altos gurgites,"
+  },
+  {
+    "id": "p-79b063",
+    "offset": 46180,
+    "text": "tuque semper, genitor, irae facilis assensor meae,"
+  },
+  {
+    "id": "p-686619",
+    "offset": 46232,
+    "text": "morte facili dignus haud sum qui nova natum nece"
+  },
+  {
+    "id": "p-661e85",
+    "offset": 46282,
+    "text": "segregem sparsi per agros quique, dum falsum nefas"
+  },
+  {
+    "id": "p-a27373",
+    "offset": 46334,
+    "text": "exsequor vindex severus, incidi in verum scelus."
+  },
+  {
+    "id": "p-c4c653",
+    "offset": 46384,
+    "text": "sidera et manes et undas scelere complevi meo:"
+  },
+  {
+    "id": "p-aee3c2",
+    "offset": 46432,
+    "text": "amplius sors nulla restat; regna me norunt tria."
+  },
+  {
+    "id": "p-f6c643",
+    "offset": 46482,
+    "text": "In hoc redimus? patuit ad caelum via,"
+  },
+  {
+    "id": "p-863fc8",
+    "offset": 46521,
+    "text": "bina ut viderem funera et geminam necem,"
+  },
+  {
+    "id": "p-98342a",
+    "offset": 46563,
+    "text": "caelebs et orbus funebres una face"
+  },
+  {
+    "id": "p-23d4df",
+    "offset": 46599,
+    "text": "ut concremarem prolis ac thalami rogos?"
+  },
+  {
+    "id": "p-8339ca",
+    "offset": 46640,
+    "text": "donator atrae lucis, Alcide, tuum"
+  },
+  {
+    "id": "p-35ee71",
+    "offset": 46675,
+    "text": "Diti remitte munus; ereptos mihi"
+  },
+  {
+    "id": "p-9fa175",
+    "offset": 46709,
+    "text": "restitue manes, impius frustra invoco"
+  },
+  {
+    "id": "p-6c021f",
+    "offset": 46748,
+    "text": "mortem relictam— crudus et leti artifex,"
+  },
+  {
+    "id": "p-e3b728",
+    "offset": 46790,
+    "text": "exitia machinatus insolita effera,"
+  },
+  {
+    "id": "p-496d2b",
+    "offset": 46826,
+    "text": "nunc tibimet ipse iusta supplicia irroga."
+  },
+  {
+    "id": "p-ce3b36",
+    "offset": 46869,
+    "text": "pinus coacto vertice attingens humum"
+  },
+  {
+    "id": "p-713efe",
+    "offset": 46907,
+    "text": "caelo remissum findat in geminas trabes,"
+  },
+  {
+    "id": "p-ee8b9d",
+    "offset": 46949,
+    "text": "mittarve praeceps saxa per Scironia?"
+  },
+  {
+    "id": "p-ce360d",
+    "offset": 46987,
+    "text": "graviora vidi, quae pati clausos iubet"
+  },
+  {
+    "id": "p-9287d3",
+    "offset": 47027,
+    "text": "Phlegethon nocentes igneo cingens vado:"
+  },
+  {
+    "id": "p-21d54a",
+    "offset": 47068,
+    "text": "quae poena memet maneat et sedes, scio."
+  },
+  {
+    "id": "p-fdce7a",
+    "offset": 47109,
+    "text": "umbrae nocentes, cedite et cervicibus"
+  },
+  {
+    "id": "p-8fa585",
+    "offset": 47148,
+    "text": "bis, his repositum degravet fessas manus"
+  },
+  {
+    "id": "p-3f6e36",
+    "offset": 47190,
+    "text": "saxum, seni perennis Aeolio labor-,"
+  },
+  {
+    "id": "p-3facc7",
+    "offset": 47227,
+    "text": "me ludat amnis ora vicina alluens;"
+  },
+  {
+    "id": "p-3cf7c1",
+    "offset": 47263,
+    "text": "vultur relicto transvolet Tityo ferus"
+  },
+  {
+    "id": "p-c09e31",
+    "offset": 47302,
+    "text": "meumque poenae semper accrescat iecur;"
+  },
+  {
+    "id": "p-17cc8d",
+    "offset": 47342,
+    "text": "et tu mei requiesce Perithoi pater:"
+  },
+  {
+    "id": "p-616d23",
+    "offset": 47379,
+    "text": "haec incitatis membra turbinibus ferat"
+  },
+  {
+    "id": "p-63cbcf",
+    "offset": 47419,
+    "text": "numquam resistens orbe revoluto rota."
+  },
+  {
+    "id": "p-6bbbe1",
+    "offset": 47458,
+    "text": "dehisce tellus, recipe me dirum chaos,"
+  },
+  {
+    "id": "p-3d8710",
+    "offset": 47498,
+    "text": "recipe, haec ad umbras iustior nobis via est:"
+  },
+  {
+    "id": "p-c2cb42",
+    "offset": 47545,
+    "text": "gnatum sequor— ne metue qui manes regis:"
+  },
+  {
+    "id": "p-62361a",
+    "offset": 47587,
+    "text": "casti venimus; recipe me aeterna domo"
+  },
+  {
+    "id": "p-1a7894",
+    "offset": 47626,
+    "text": "non exiturum, non movent divos preces;"
+  },
+  {
+    "id": "p-9970f0",
+    "offset": 47666,
+    "text": "at si rogarem scelera, quam proni forent."
+  },
+  {
+    "id": "p-ecbc14",
+    "offset": 47709,
+    "text": "Chor.\nTheseu, querelis tempus aeternum manet:"
+  },
+  {
+    "id": "p-09aa7f",
+    "offset": 47756,
+    "text": "nunc iusta nato solve et absconde ocius"
+  },
+  {
+    "id": "p-bacd46",
+    "offset": 47797,
+    "text": "dispersa foede membra laniatu effero."
+  },
+  {
+    "id": "p-5d525c",
+    "offset": 47836,
+    "text": "Thes.\nHuc, huc reliquias vehite cari corporis"
+  },
+  {
+    "id": "p-38ba58",
+    "offset": 47883,
+    "text": "pondusque et artus temere congestos date."
+  },
+  {
+    "id": "p-24d308",
+    "offset": 47926,
+    "text": "Hippolytus hic est? crimen agnosco meum:"
+  },
+  {
+    "id": "p-4084f8",
+    "offset": 47968,
+    "text": "ego te peremi; neu nocens tantum semel"
+  },
+  {
+    "id": "p-53c4a4",
+    "offset": 48008,
+    "text": "solusve fierem, facinus ausurus parens"
+  },
+  {
+    "id": "p-2e0499",
+    "offset": 48048,
+    "text": "patrem advocavi. munere en patrio fruor,"
+  },
+  {
+    "id": "p-0bc12a",
+    "offset": 48090,
+    "text": "o triste fractis orbitas annis malum!"
+  },
+  {
+    "id": "p-074ea4",
+    "offset": 48129,
+    "text": "complectere artus, quodque de nato est super,"
+  },
+  {
+    "id": "p-8bf079",
+    "offset": 48176,
+    "text": "miserande, maesto pectore incumbens fove."
+  },
+  {
+    "id": "p-9688da",
+    "offset": 48219,
+    "text": "Chor.\nDisiecta genitor membra laceri corporis"
+  },
+  {
+    "id": "p-fe5c57",
+    "offset": 48266,
+    "text": "in ordinem dispone et errantes loco"
+  },
+  {
+    "id": "p-c5c339",
+    "offset": 48303,
+    "text": "restitue partes: fortis hic dextrae locus,"
+  },
+  {
+    "id": "p-4cc9dc",
+    "offset": 48347,
+    "text": "hic laeva frenis docta moderandis manus"
+  },
+  {
+    "id": "p-9a1f5c",
+    "offset": 48388,
+    "text": "ponenda: laevi lateris agnosco notas."
+  },
+  {
+    "id": "p-d12ec7",
+    "offset": 48427,
+    "text": "quam magna lacrimis pars adhuc nostris abest!"
+  },
+  {
+    "id": "p-ab3e86",
+    "offset": 48474,
+    "text": "Thes.\nDurate trepidae lugubri officio manus,"
+  },
+  {
+    "id": "p-73f459",
+    "offset": 48520,
+    "text": "fletusque largos sistite, arentes genae,"
+  },
+  {
+    "id": "p-319a45",
+    "offset": 48562,
+    "text": "dum membra nato genitor adnumerat suo"
+  },
+  {
+    "id": "p-5a87d9",
+    "offset": 48601,
+    "text": "corpusque fingit, hoc quid est forma carens"
+  },
+  {
+    "id": "p-0f911d",
+    "offset": 48646,
+    "text": "et turpe, multo vulnere abruptum undique?"
+  },
+  {
+    "id": "p-44691c",
+    "offset": 48689,
+    "text": "quae pars tui sit dubito; sed pars est tui:"
+  },
+  {
+    "id": "p-9a5438",
+    "offset": 48734,
+    "text": "hic, hic repone, non suo, at vacuo loco."
+  },
+  {
+    "id": "p-f57e44",
+    "offset": 48776,
+    "text": "haecne illa facies igne sidereo nitens,"
+  },
+  {
+    "id": "p-8134e0",
+    "offset": 48817,
+    "text": "inimica flectens lumina? huc cecidit decor?"
+  },
+  {
+    "id": "p-c68b9d",
+    "offset": 48862,
+    "text": "o dira fata, numinum o saevus favor!"
+  },
+  {
+    "id": "p-cb5393",
+    "offset": 48900,
+    "text": "sic ad parentem natus ex voto redit?"
+  },
+  {
+    "id": "p-8c95bc",
+    "offset": 48938,
+    "text": "en haec suprema dona genitoris cape,"
+  },
+  {
+    "id": "p-0dd7a6",
+    "offset": 48976,
+    "text": "saepe efferendus; interim haec ignes ferant."
+  },
+  {
+    "id": "p-18077e",
+    "offset": 49022,
+    "text": "Patefacite acerbam caede funesta domum:"
+  },
+  {
+    "id": "p-3292de",
+    "offset": 49063,
+    "text": "Mopsopia claris tota lamentis sonet,"
+  },
+  {
+    "id": "p-23a068",
+    "offset": 49101,
+    "text": "vos apparate regii flammam rogi;"
+  },
+  {
+    "id": "p-ebce6d",
+    "offset": 49135,
+    "text": "at vos per agros corporis partes vagas"
+  },
+  {
+    "id": "p-0f42b8",
+    "offset": 49175,
+    "text": "inquirite. istam terra defossam premat,"
+  },
+  {
+    "id": "p-ec975f",
+    "offset": 49216,
+    "text": "gravisque tellus impio capiti incubet."
+  }
+]

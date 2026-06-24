@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-thyestes-0c1505",
+  "work_title": "Thyestes",
+  "chapter_number": 1,
+  "chapter_title": "Thyestes",
+  "chapter_slug": "01-thyestes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "76530d3d-a905-51f1-aa06-a18559bd419c",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6299,
+      "paragraph_count": 1163,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi008"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f7257b36-9e28-5132-a9b6-6f70d3a2a585",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10102,
+      "paragraph_count": 145,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

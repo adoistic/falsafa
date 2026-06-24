@@ -1,0 +1,38 @@
+{
+  "work_slug": "julian-the-caesars-59d0d2",
+  "work_title": "The Caesars",
+  "chapter_number": 1,
+  "chapter_title": "The Caesars",
+  "chapter_slug": "01-the-caesars",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "74f5a4e3-8c38-5214-9fdb-099373e27113",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6749,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2003.tlg010"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ecc96c80-d4a8-516e-9c03-f26c94c6c1f2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8766,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

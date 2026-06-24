@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-topica-e2091e",
+  "work_title": "Topica",
+  "chapter_number": 1,
+  "chapter_title": "Topica",
+  "chapter_slug": "01-topica",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3510fc4c-0e7a-5142-a826-0377645624fe",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7007,
+      "paragraph_count": 140,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi042"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "860b967b-6db8-532b-b1a8-799e4375502e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10070,
+      "paragraph_count": 104,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

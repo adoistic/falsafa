@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-phaedra-f221c4",
+  "work_title": "Phaedra",
+  "chapter_number": 1,
+  "chapter_title": "Phaedra",
+  "chapter_slug": "01-phaedra",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "74562ab8-ffe2-5a7d-a488-1f92619bb16e",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7121,
+      "paragraph_count": 1290,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi005"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae9302b2-958a-54bc-b87c-bf38516f64a3",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11293,
+      "paragraph_count": 146,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

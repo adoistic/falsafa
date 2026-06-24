@@ -1,0 +1,38 @@
+{
+  "work_slug": "flavius-philostratus-de-gymnastica-c26e4f",
+  "work_title": "De Gymnastica",
+  "chapter_number": 1,
+  "chapter_title": "De Gymnastica",
+  "chapter_slug": "01-de-gymnastica",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e4309b74-1c7c-5c9d-865f-09bb62308000",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7706,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0638.tlg007"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b376137e-7f24-5efd-91f4-4451ca121e75",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 10431,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

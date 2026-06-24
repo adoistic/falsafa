@@ -1,0 +1,38 @@
+{
+  "work_slug": "aurelius-prudentius-clem-psychomachia-15db03",
+  "work_title": "Psychomachia",
+  "chapter_number": 1,
+  "chapter_title": "Psychomachia",
+  "chapter_slug": "01-psychomachia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c2e1ca1-f9c1-57c8-b74d-f57ac97ca5a1",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6016,
+      "paragraph_count": 983,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0238.stoa002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f892ff3a-5497-52f9-9fc3-2fa388dd6375",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9345,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

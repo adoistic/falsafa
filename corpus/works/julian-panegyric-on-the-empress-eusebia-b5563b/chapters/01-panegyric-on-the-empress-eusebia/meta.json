@@ -1,0 +1,38 @@
+{
+  "work_slug": "julian-panegyric-on-the-empress-eusebia-b5563b",
+  "work_title": "Panegyric on the Empress Eusebia",
+  "chapter_number": 1,
+  "chapter_title": "Panegyric on the Empress Eusebia",
+  "chapter_slug": "01-panegyric-on-the-empress-eusebia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5d9efc9c-19dc-5840-85a9-431d4b9cf172",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6869,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2003.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "72b3bb78-5215-5105-bc8d-a5dcec9d6a3c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6482,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

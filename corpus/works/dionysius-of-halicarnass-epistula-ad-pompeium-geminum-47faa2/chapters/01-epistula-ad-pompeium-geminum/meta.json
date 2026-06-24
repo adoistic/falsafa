@@ -1,0 +1,38 @@
+{
+  "work_slug": "dionysius-of-halicarnass-epistula-ad-pompeium-geminum-47faa2",
+  "work_title": "Epistula ad Pompeium Geminum",
+  "chapter_number": 1,
+  "chapter_title": "Epistula ad Pompeium Geminum",
+  "chapter_slug": "01-epistula-ad-pompeium-geminum",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9005160c-e15e-5978-bc49-1340ceeffa18",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4398,
+      "paragraph_count": 73,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0081.tlg015"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae0aaa39-f31f-5228-a8ac-67e382a44a6c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5634,
+      "paragraph_count": 75,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

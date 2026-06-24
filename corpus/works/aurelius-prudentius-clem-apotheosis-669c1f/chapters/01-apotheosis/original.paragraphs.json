@@ -1,0 +1,5767 @@
+[
+  {
+    "id": "p-5c02d5",
+    "offset": 0,
+    "text": "1. Hymnus de trinitate\nEst tria summa Deus, trinum specimen, vigor unus."
+  },
+  {
+    "id": "p-79b507",
+    "offset": 74,
+    "text": "corde Patris genita est Sapientia, Filius ipse est;"
+  },
+  {
+    "id": "p-751a55",
+    "offset": 127,
+    "text": "Sanctus ab aeterno subsistit Spiritus ore."
+  },
+  {
+    "id": "p-73e097",
+    "offset": 171,
+    "text": "tempore nec senior Pater est, nec numine maior,"
+  },
+  {
+    "id": "p-e58727",
+    "offset": 220,
+    "text": "nam sapiens retro semper Deus edidit ex se,"
+  },
+  {
+    "id": "p-1e9633",
+    "offset": 265,
+    "text": "per quod semper erat, gignenda ad saecula verbum,"
+  },
+  {
+    "id": "p-d16840",
+    "offset": 316,
+    "text": "edere sed verbum Patris est, at cetera verbi,"
+  },
+  {
+    "id": "p-400222",
+    "offset": 363,
+    "text": "adsumptum gestare hominem, reparare peremptum,"
+  },
+  {
+    "id": "p-060651",
+    "offset": 411,
+    "text": "conciliare Patri, dextraque in sede locare."
+  },
+  {
+    "id": "p-185599",
+    "offset": 456,
+    "text": "Spiritus ista Dei conplet, Deus ipse: fideles"
+  },
+  {
+    "id": "p-8cbe46",
+    "offset": 503,
+    "text": "in populos charisma suum diffundere promptus,"
+  },
+  {
+    "id": "p-4226b4",
+    "offset": 550,
+    "text": "et patris et Christi virtutem in corpora transfert."
+  },
+  {
+    "id": "p-e6b846",
+    "offset": 603,
+    "text": "2. Praefatio"
+  },
+  {
+    "id": "p-65b111",
+    "offset": 617,
+    "text": "Est vera secta? te, Magister, consulo"
+  },
+  {
+    "id": "p-2f17ff",
+    "offset": 656,
+    "text": "rectamne servamus fidem?"
+  },
+  {
+    "id": "p-575279",
+    "offset": 682,
+    "text": "an viperina non cavemus dogmata,"
+  },
+  {
+    "id": "p-4b50d3",
+    "offset": 716,
+    "text": "et nescientes labimur?"
+  },
+  {
+    "id": "p-825c6f",
+    "offset": 740,
+    "text": "artam salutis vix viam discernere est"
+  },
+  {
+    "id": "p-f9f4b4",
+    "offset": 779,
+    "text": "inter reflexas semitas,"
+  },
+  {
+    "id": "p-6c9b95",
+    "offset": 804,
+    "text": "tam multa surgunt perfidorum conpeta"
+  },
+  {
+    "id": "p-ef9f72",
+    "offset": 842,
+    "text": "torris polita erroribus,"
+  },
+  {
+    "id": "p-72552b",
+    "offset": 868,
+    "text": "obliqua sese conserunt divortia"
+  },
+  {
+    "id": "p-d6675b",
+    "offset": 901,
+    "text": "hinc inde textis orbitis."
+  },
+  {
+    "id": "p-04a0d6",
+    "offset": 928,
+    "text": "quas si quis errans ac vagus sectabitur,"
+  },
+  {
+    "id": "p-e737e2",
+    "offset": 970,
+    "text": "rectum relinquens tramitem,"
+  },
+  {
+    "id": "p-31e3bd",
+    "offset": 999,
+    "text": "scrobis latentis pronus in foveam ruet,"
+  },
+  {
+    "id": "p-539691",
+    "offset": 1040,
+    "text": "quam fodit hostilis manus,"
+  },
+  {
+    "id": "p-cf4675",
+    "offset": 1068,
+    "text": "manus latronum, quae viantes obsidet"
+  },
+  {
+    "id": "p-b25087",
+    "offset": 1106,
+    "text": "iter sequentes devium,"
+  },
+  {
+    "id": "p-dcfc5b",
+    "offset": 1130,
+    "text": "quid non libido mentis humanae struat?"
+  },
+  {
+    "id": "p-4b77c2",
+    "offset": 1170,
+    "text": "quid non malorum pruriat?"
+  },
+  {
+    "id": "p-25ccc7",
+    "offset": 1197,
+    "text": "statum lacessunt omnipotentis Dei"
+  },
+  {
+    "id": "p-e0c06d",
+    "offset": 1232,
+    "text": "calumniosis litibus,"
+  },
+  {
+    "id": "p-b9b357",
+    "offset": 1254,
+    "text": "fidem minutis dissecant ambagibus"
+  },
+  {
+    "id": "p-88d4f2",
+    "offset": 1289,
+    "text": "ut quisque lingua est nequior;"
+  },
+  {
+    "id": "p-79c9f9",
+    "offset": 1321,
+    "text": "solvunt ligantque quaestionum vincula"
+  },
+  {
+    "id": "p-b2708b",
+    "offset": 1360,
+    "text": "per syllogismos plectiles."
+  },
+  {
+    "id": "p-ea6d4d",
+    "offset": 1388,
+    "text": "vae captiosis sycophantarum strophis!"
+  },
+  {
+    "id": "p-bde1b0",
+    "offset": 1427,
+    "text": "vae versipelli astutiae!"
+  },
+  {
+    "id": "p-863292",
+    "offset": 1453,
+    "text": "nodos tenaces recta rumpit regula,"
+  },
+  {
+    "id": "p-9714ca",
+    "offset": 1489,
+    "text": "infesta dissertantibus."
+  },
+  {
+    "id": "p-97c48b",
+    "offset": 1514,
+    "text": "idcirco mundi stulta delegit Deus,"
+  },
+  {
+    "id": "p-f323e0",
+    "offset": 1550,
+    "text": "ut concidant sophistica,"
+  },
+  {
+    "id": "p-873921",
+    "offset": 1576,
+    "text": "deque inbecillis subiugavit fortia,"
+  },
+  {
+    "id": "p-50411d",
+    "offset": 1613,
+    "text": "simplex ut esset credere,"
+  },
+  {
+    "id": "p-5f7e60",
+    "offset": 1640,
+    "text": "lapis ecce nostro fixus offensaculo est,"
+  },
+  {
+    "id": "p-eb89ce",
+    "offset": 1682,
+    "text": "inpingat in quem vanitas,"
+  },
+  {
+    "id": "p-26eaf6",
+    "offset": 1709,
+    "text": "signum caventi, non caventi scandalum:"
+  },
+  {
+    "id": "p-727b96",
+    "offset": 1749,
+    "text": "hunc sternit, illum dirigit,"
+  },
+  {
+    "id": "p-830387",
+    "offset": 1779,
+    "text": "dum plura temptat caecus incerto gradu,"
+  },
+  {
+    "id": "p-c33b81",
+    "offset": 1820,
+    "text": "incurrit id quod obvium est."
+  },
+  {
+    "id": "p-13597a",
+    "offset": 1850,
+    "text": "fax sola fidei est pracferenda gressibus,"
+  },
+  {
+    "id": "p-50d94d",
+    "offset": 1893,
+    "text": "ut recta sint vestigia."
+  },
+  {
+    "id": "p-ecf652",
+    "offset": 1918,
+    "text": "quis in tenebris hostis errantes tamen"
+  },
+  {
+    "id": "p-eac612",
+    "offset": 1958,
+    "text": "pulsat trahitque et proterit,"
+  },
+  {
+    "id": "p-c07f4f",
+    "offset": 1989,
+    "text": "qui sparsa ad ipsum conmeantum transitum"
+  },
+  {
+    "id": "p-49e428",
+    "offset": 2031,
+    "text": "frumenta saevus devorat,"
+  },
+  {
+    "id": "p-491b01",
+    "offset": 2057,
+    "text": "qui laeta Christi culta fur interpolat"
+  },
+  {
+    "id": "p-f3f047",
+    "offset": 2097,
+    "text": "addens avenas aemulas."
+  },
+  {
+    "id": "p-fb7aa8",
+    "offset": 2121,
+    "text": "quas de veneni lacte in herbam fertiles"
+  },
+  {
+    "id": "p-f75f39",
+    "offset": 2162,
+    "text": "patitur colonus crescere,"
+  },
+  {
+    "id": "p-db5161",
+    "offset": 2189,
+    "text": "ne forte culmum fibra inanis spiceum"
+  },
+  {
+    "id": "p-406ce7",
+    "offset": 2227,
+    "text": "simul revulsa internecet."
+  },
+  {
+    "id": "p-24a46e",
+    "offset": 2254,
+    "text": "expectat ergo dum dolosa 1 et farrea"
+  },
+  {
+    "id": "p-e70a0e",
+    "offset": 2292,
+    "text": "fervens coquat maturitas,"
+  },
+  {
+    "id": "p-11d667",
+    "offset": 2319,
+    "text": "det ventilabro lecta quaeque ut horreis,"
+  },
+  {
+    "id": "p-4de75e",
+    "offset": 2361,
+    "text": "urat recrementum focis,"
+  },
+  {
+    "id": "p-a91935",
+    "offset": 2386,
+    "text": "refert sed ipsa nosse, quae messem necant,"
+  },
+  {
+    "id": "p-207e7c",
+    "offset": 2430,
+    "text": "zizaniorum semina."
+  },
+  {
+    "id": "p-c0c1e8",
+    "offset": 2450,
+    "text": "3. Plurima sunt sed pauca loquar, ne dira relatu"
+  },
+  {
+    "id": "p-1f305b",
+    "offset": 2500,
+    "text": "dogmata catholicam maculent male prodita linguam,"
+  },
+  {
+    "id": "p-e10212",
+    "offset": 2551,
+    "text": "ille Patrem pellens solio detrudit in artum"
+  },
+  {
+    "id": "p-33a84f",
+    "offset": 2596,
+    "text": "corporis humani gestamen, nec pavet ipsum"
+  },
+  {
+    "id": "p-7a4a33",
+    "offset": 2639,
+    "text": "obiectare neci duroque adfigere ligno."
+  },
+  {
+    "id": "p-cdd98c",
+    "offset": 2679,
+    "text": "passibilisne Deus? cuius species et imago"
+  },
+  {
+    "id": "p-a24772",
+    "offset": 2722,
+    "text": "nulli visa umquam: nec enim conprendier illa"
+  },
+  {
+    "id": "p-f05c03",
+    "offset": 2768,
+    "text": "maiestas facilis sensuve oculisve manuve."
+  },
+  {
+    "id": "p-3eb192",
+    "offset": 2811,
+    "text": "Ioannis magni celebris sententia praesto est,"
+  },
+  {
+    "id": "p-24c433",
+    "offset": 2858,
+    "text": "haud umquam testata Deum potuisse videri."
+  },
+  {
+    "id": "p-30d0f0",
+    "offset": 2901,
+    "text": "ille Pater, quem nulla acies violenta tuendo"
+  },
+  {
+    "id": "p-11226c",
+    "offset": 2947,
+    "text": "eminus ardentis penetravit acumine visus,"
+  },
+  {
+    "id": "p-36a1d6",
+    "offset": 2990,
+    "text": "qui se forma hominis non induit, et Deitatis"
+  },
+  {
+    "id": "p-75079f",
+    "offset": 3036,
+    "text": "inmensum adsumpto non temperat ore modove."
+  },
+  {
+    "id": "p-010ba1",
+    "offset": 3080,
+    "text": "aut evangelici pietas spernenda libelli"
+  },
+  {
+    "id": "p-b0caa2",
+    "offset": 3121,
+    "text": "iam, blaspheme, tibi est, aut numquam visa beati"
+  },
+  {
+    "id": "p-c4cb93",
+    "offset": 3171,
+    "text": "vis intacta Patris, non admiscenda caducis."
+  },
+  {
+    "id": "p-1777d4",
+    "offset": 3216,
+    "text": "sed tamen et Patris est specimen quod cernere fas sit,"
+  },
+  {
+    "id": "p-b289ce",
+    "offset": 3272,
+    "text": "humanis aliquando oculis concurrere promptum,"
+  },
+  {
+    "id": "p-c06d1e",
+    "offset": 3319,
+    "text": "quod quamvis hebes intuitus speculamine glauco"
+  },
+  {
+    "id": "p-f4cae0",
+    "offset": 3367,
+    "text": "umentique acie potuit nebulosus adire,"
+  },
+  {
+    "id": "p-1f688d",
+    "offset": 3407,
+    "text": "quisque hominum vidisse Deum memoratur, ab ipso"
+  },
+  {
+    "id": "p-227b8d",
+    "offset": 3456,
+    "text": "infusum vidit Gnatum; nam Filius hoc est,"
+  },
+  {
+    "id": "p-516272",
+    "offset": 3499,
+    "text": "quod de Patre micans se praestitit inspiciendum"
+  },
+  {
+    "id": "p-032cd9",
+    "offset": 3548,
+    "text": "per species quas possit homo conprendere visu."
+  },
+  {
+    "id": "p-025be4",
+    "offset": 3596,
+    "text": "nam mera maiestas est infinita, nec intrat"
+  },
+  {
+    "id": "p-c5f77e",
+    "offset": 3640,
+    "text": "obtutus, aliquo ni se moderamine formet."
+  },
+  {
+    "id": "p-e212cb",
+    "offset": 3682,
+    "text": "hoc vidit princeps generosi seminis Abram,"
+  },
+  {
+    "id": "p-f27e3a",
+    "offset": 3726,
+    "text": "iam tunc dignati terras invisere Christi"
+  },
+  {
+    "id": "p-efb7d3",
+    "offset": 3768,
+    "text": "hospes homo, in triplicem numen radiasse figuram."
+  },
+  {
+    "id": "p-b052dd",
+    "offset": 3819,
+    "text": "hoc conluctantis tractarunt bracchia Iacob,"
+  },
+  {
+    "id": "p-34c1f1",
+    "offset": 3864,
+    "text": "ipse dator legis divinae accedere coram"
+  },
+  {
+    "id": "p-c4299e",
+    "offset": 3905,
+    "text": "iussus, amicitiae conlato qui stetit ore"
+  },
+  {
+    "id": "p-b67980",
+    "offset": 3947,
+    "text": "comminus et sacris coniunxit verba loquellis,"
+  },
+  {
+    "id": "p-3889ab",
+    "offset": 3994,
+    "text": "carnis in effigie Christum se cernere sensit."
+  },
+  {
+    "id": "p-ebcc19",
+    "offset": 4041,
+    "text": "sed maiora petens animum per vota tetendit"
+  },
+  {
+    "id": "p-e1f9e8",
+    "offset": 4085,
+    "text": "inconcessa homini, plusquam mortale laborans"
+  },
+  {
+    "id": "p-4b55e4",
+    "offset": 4131,
+    "text": "ipsum, quantus erat, sine corpore visere Christum,"
+  },
+  {
+    "id": "p-129d1a",
+    "offset": 4183,
+    "text": "denique post multi sermonis mutua, postque"
+  },
+  {
+    "id": "p-b5d131",
+    "offset": 4227,
+    "text": "conspectum praesentis Eri et consortia longa,"
+  },
+  {
+    "id": "p-c0cd0e",
+    "offset": 4274,
+    "text": "quaeso ait ut liceat te nune, Deus optime, nosse."
+  },
+  {
+    "id": "p-624c87",
+    "offset": 4325,
+    "text": "respondit Dominus ‘mea, non me, eernere iustis"
+  },
+  {
+    "id": "p-9d287f",
+    "offset": 4373,
+    "text": "posteriora dabo.’ quid apertius, absque aliena"
+  },
+  {
+    "id": "p-13e883",
+    "offset": 4421,
+    "text": "quam sumat faeie verbum non posse videri,"
+  },
+  {
+    "id": "p-2ac5ce",
+    "offset": 4464,
+    "text": "posse tamen, eum malit, idem numquam Patre viso"
+  },
+  {
+    "id": "p-df8ec6",
+    "offset": 4513,
+    "text": "terrenis oeulis habitu se ostendere nostro,"
+  },
+  {
+    "id": "p-4c1270",
+    "offset": 4558,
+    "text": "saepe et in angelieas vel mortales moderatum"
+  },
+  {
+    "id": "p-789074",
+    "offset": 4604,
+    "text": "induci species, queat ut sub imagine eerni?"
+  },
+  {
+    "id": "p-1e2fe5",
+    "offset": 4649,
+    "text": "hoc verbum est quod vibratum Patris ore benigno"
+  },
+  {
+    "id": "p-397b7b",
+    "offset": 4698,
+    "text": "sumpsit virgineo fragilem de corpore formam."
+  },
+  {
+    "id": "p-5c2c28",
+    "offset": 4744,
+    "text": "inde figura hominis nondum sub carne Moysi"
+  },
+  {
+    "id": "p-e97e59",
+    "offset": 4788,
+    "text": "obieeta effigiem nostri signaverat oris,"
+  },
+  {
+    "id": "p-9e5f19",
+    "offset": 4830,
+    "text": "quod quandoque Deus verbi virtute eoactum"
+  },
+  {
+    "id": "p-ae448f",
+    "offset": 4873,
+    "text": "sumpturus corpus faciem referebat eandem."
+  },
+  {
+    "id": "p-1e46b5",
+    "offset": 4916,
+    "text": "sed tamen et sentam visa est excita cremare"
+  },
+  {
+    "id": "p-97b72b",
+    "offset": 4961,
+    "text": "flamma rubum. Deus in spinis volitabat aeutis,"
+  },
+  {
+    "id": "p-88a6eb",
+    "offset": 5009,
+    "text": "vulnificasque eomas innoxius ignis agebat,"
+  },
+  {
+    "id": "p-4dc216",
+    "offset": 5053,
+    "text": "esset ut exemplo Deus inlapsurus in artus"
+  },
+  {
+    "id": "p-a36347",
+    "offset": 5096,
+    "text": "spiniferos, sudibus quos texunt crimina densis"
+  },
+  {
+    "id": "p-8498bb",
+    "offset": 5144,
+    "text": "et peccata malis hirsuta doloribus inplent."
+  },
+  {
+    "id": "p-8870f0",
+    "offset": 5189,
+    "text": "inculto nam stirpe frutex vitiosus iniquis"
+  },
+  {
+    "id": "p-6f1469",
+    "offset": 5233,
+    "text": "luxuriam virgis inhonesto effundere suco"
+  },
+  {
+    "id": "p-593d4b",
+    "offset": 5275,
+    "text": "coeperat et nodos per acumina crebra ligabat."
+  },
+  {
+    "id": "p-244cbc",
+    "offset": 5322,
+    "text": "cernere erat steriles subito splendescere frondes,"
+  },
+  {
+    "id": "p-a231c1",
+    "offset": 5374,
+    "text": "accensisque eitum foliis magno inpete late"
+  },
+  {
+    "id": "p-10eaa5",
+    "offset": 5418,
+    "text": "conlucere Deum, nec spinea laedere texta,"
+  },
+  {
+    "id": "p-6c4422",
+    "offset": 5461,
+    "text": "lambere sanguineos fructus et poma eruenta,"
+  },
+  {
+    "id": "p-da75fb",
+    "offset": 5506,
+    "text": "stringere mortiferi vitalia germina ligni,"
+  },
+  {
+    "id": "p-1cc814",
+    "offset": 5550,
+    "text": "quandoquidem tristes purgantur sanguine eulpae,"
+  },
+  {
+    "id": "p-bf4f0e",
+    "offset": 5599,
+    "text": "quem contorta rubus densis cruciatibus edit."
+  },
+  {
+    "id": "p-3276be",
+    "offset": 5645,
+    "text": "ergo nihil visum nisi quod sub carne videndum,"
+  },
+  {
+    "id": "p-26a889",
+    "offset": 5693,
+    "text": "lumen imago Dei, verbum Deus et Deus ignis,"
+  },
+  {
+    "id": "p-6371b4",
+    "offset": 5738,
+    "text": "qui sentum nostri peccamen corporis inplet;"
+  },
+  {
+    "id": "p-be7300",
+    "offset": 5783,
+    "text": "nam lucis genitor, verbi sator, auctor et ignis"
+  },
+  {
+    "id": "p-897757",
+    "offset": 5832,
+    "text": "creditur extra oculos, ut apostolus edocet auctor,"
+  },
+  {
+    "id": "p-0583ca",
+    "offset": 5884,
+    "text": "qui negat intuitu fontem Deitatis adiri,"
+  },
+  {
+    "id": "p-854b33",
+    "offset": 5926,
+    "text": "credite, nemo deum vidit, mihi credite, nemo."
+  },
+  {
+    "id": "p-c156e6",
+    "offset": 5973,
+    "text": "visibilis de fonte Deus, non ipse Dei fons"
+  },
+  {
+    "id": "p-750ebc",
+    "offset": 6017,
+    "text": "visibilis; cerni potis est qui nascitur, at non"
+  },
+  {
+    "id": "p-eec4a5",
+    "offset": 6066,
+    "text": "innatus cerni potis est: latet os Patris illud"
+  },
+  {
+    "id": "p-bbab25",
+    "offset": 6114,
+    "text": "unde Deus qui visibilem se praestitit olim,"
+  },
+  {
+    "id": "p-91f6f8",
+    "offset": 6159,
+    "text": "tale aliquid formans in sese quale secuta est"
+  },
+  {
+    "id": "p-7c3f18",
+    "offset": 6206,
+    "text": "passio, quae corpus sibi vindicat; ardua nam vis"
+  },
+  {
+    "id": "p-0a8116",
+    "offset": 6256,
+    "text": "est inpassibilis, quoniam natura superni"
+  },
+  {
+    "id": "p-7b5d5e",
+    "offset": 6298,
+    "text": "ignis ad horrificas nescit descendere poenas,"
+  },
+  {
+    "id": "p-476e4e",
+    "offset": 6345,
+    "text": "nec capit humanis angoribus excruciari,"
+  },
+  {
+    "id": "p-aaf9d2",
+    "offset": 6386,
+    "text": "pura, serena, micans, liquido praelibera motu,"
+  },
+  {
+    "id": "p-334b6e",
+    "offset": 6434,
+    "text": "subdita nec cuiquam, dominatrix utpote rerum,"
+  },
+  {
+    "id": "p-4a762f",
+    "offset": 6481,
+    "text": "cui non principium de tempore, sed super omne"
+  },
+  {
+    "id": "p-ae96d7",
+    "offset": 6528,
+    "text": "tempus et ante diem maiestas cum Patre summo,"
+  },
+  {
+    "id": "p-5a1173",
+    "offset": 6575,
+    "text": "immo animus Patris et ratio, via consiliorum,"
+  },
+  {
+    "id": "p-67fa04",
+    "offset": 6622,
+    "text": "quae non facta manu nec voce creata iubentis"
+  },
+  {
+    "id": "p-27e4be",
+    "offset": 6668,
+    "text": "protulit imperium patrio ructata profundo,"
+  },
+  {
+    "id": "p-ee244b",
+    "offset": 6712,
+    "text": "hanc igitur non flagra secant, non sputa salivis"
+  },
+  {
+    "id": "p-fd90da",
+    "offset": 6762,
+    "text": "aspergunt, alapis non vexat palma relisis,"
+  },
+  {
+    "id": "p-217d0b",
+    "offset": 6806,
+    "text": "nec perfossa cruci clavorum vulnera Agunt,"
+  },
+  {
+    "id": "p-c77c4f",
+    "offset": 6850,
+    "text": "his adfecta caro est hominis, quam femina praegnans"
+  },
+  {
+    "id": "p-510a9a",
+    "offset": 6903,
+    "text": "enixa est sub lege uteri, sine lege mariti."
+  },
+  {
+    "id": "p-a506d4",
+    "offset": 6948,
+    "text": "ille famem patitur, fel potat et haurit acetum,"
+  },
+  {
+    "id": "p-d307bf",
+    "offset": 6997,
+    "text": "ille pavet mortis faciem, tremit ille dolorem."
+  },
+  {
+    "id": "p-8f009d",
+    "offset": 7045,
+    "text": "dicite, sacrilegi doctores, qui Patre summo"
+  },
+  {
+    "id": "p-06d98a",
+    "offset": 7090,
+    "text": "desertum iacuisse thronum contenditis illo"
+  },
+  {
+    "id": "p-6c0703",
+    "offset": 7134,
+    "text": "tempore quo fragiles Deus est inlapsus in artus,"
+  },
+  {
+    "id": "p-36e314",
+    "offset": 7184,
+    "text": "ergo Pater passus? quid non malus audeat error?"
+  },
+  {
+    "id": "p-fd709b",
+    "offset": 7233,
+    "text": "ipse puellari conceptus sanguine crevit?"
+  },
+  {
+    "id": "p-367f9e",
+    "offset": 7275,
+    "text": "ipse verecundae distendit virginis alvum?"
+  },
+  {
+    "id": "p-1a1125",
+    "offset": 7318,
+    "text": "et iam falsiloqua est divini pagina libri,"
+  },
+  {
+    "id": "p-ab53b4",
+    "offset": 7362,
+    "text": "quae verbum in carnis loquitur fluxisse figuram?"
+  },
+  {
+    "id": "p-2c63ef",
+    "offset": 7412,
+    "text": "at non, qui verbi Pater est, caro factus habetur."
+  },
+  {
+    "id": "p-faaeb8",
+    "offset": 7463,
+    "text": "fige gradum, Scriptura, tuum; nil mobile et anceps"
+  },
+  {
+    "id": "p-3b733b",
+    "offset": 7515,
+    "text": "adfirmasse decet: Pater est, quem cernere nulli"
+  },
+  {
+    "id": "p-978691",
+    "offset": 7564,
+    "text": "est licitum; Pater est, qui numquam visus in orbe est,"
+  },
+  {
+    "id": "p-bea61e",
+    "offset": 7620,
+    "text": "nec mundana inter radiavit lumina coram."
+  },
+  {
+    "id": "p-209905",
+    "offset": 7662,
+    "text": "verbum conspicuum misit, missumque recepit"
+  },
+  {
+    "id": "p-2a33a8",
+    "offset": 7706,
+    "text": "cum voluit: verbo praestrinxit viscera purae"
+  },
+  {
+    "id": "p-2a816e",
+    "offset": 7752,
+    "text": "virginis, et verbo struxit puerilia membra,"
+  },
+  {
+    "id": "p-cdcca4",
+    "offset": 7797,
+    "text": "ipse quidem in terris virtute et numine praesens"
+  },
+  {
+    "id": "p-d7cdcb",
+    "offset": 7847,
+    "text": "semper adest quocumque loci, nec pars vacat ulla"
+  },
+  {
+    "id": "p-2e7656",
+    "offset": 7897,
+    "text": "maiestate Patris; nusquam est genitor Deus absens,"
+  },
+  {
+    "id": "p-ae07ba",
+    "offset": 7949,
+    "text": "per verbum sed semper adest; atque inde Philippo"
+  },
+  {
+    "id": "p-a5e7dc",
+    "offset": 7999,
+    "text": "Christus ait ‘tanto tecum iam tempore versor,"
+  },
+  {
+    "id": "p-5a79c5",
+    "offset": 8046,
+    "text": "et Patrem te nosse negas, quem perspicis in me?’"
+  },
+  {
+    "id": "p-8ee750",
+    "offset": 8096,
+    "text": "est invisibilis donum Patris edere natum"
+  },
+  {
+    "id": "p-9a5eaa",
+    "offset": 8138,
+    "text": "visibilem, per quem valeat Pater ipse videri,"
+  },
+  {
+    "id": "p-99955c",
+    "offset": 8185,
+    "text": "nec solis sanctorum oculis, sed lumine cassis"
+  },
+  {
+    "id": "p-2b3e3f",
+    "offset": 8232,
+    "text": "caecorum; caecos loquor, atra socordia quorum"
+  },
+  {
+    "id": "p-e79adf",
+    "offset": 8279,
+    "text": "corde tenebroso verum perpendere nescit,"
+  },
+  {
+    "id": "p-5e26d9",
+    "offset": 8321,
+    "text": "quem si perspicuum mortalibus infitiaris,"
+  },
+  {
+    "id": "p-932d7a",
+    "offset": 8364,
+    "text": "fare age, quem videat Babylonis ab arce tyrannus"
+  },
+  {
+    "id": "p-957b33",
+    "offset": 8414,
+    "text": "innocuas inter flammas procul exspatiantem,"
+  },
+  {
+    "id": "p-e42c06",
+    "offset": 8459,
+    "text": "calcantem rapidos inadustis fratribus ignes,"
+  },
+  {
+    "id": "p-087dff",
+    "offset": 8505,
+    "text": "nempe ait ‘o proceres, tris vasta incendia anhelis"
+  },
+  {
+    "id": "p-728584",
+    "offset": 8557,
+    "text": "accepere viros fornacibus; additus unus"
+  },
+  {
+    "id": "p-9e2cb0",
+    "offset": 8598,
+    "text": "ecce vaporiferos ridens intersecat ignes."
+  },
+  {
+    "id": "p-36e644",
+    "offset": 8641,
+    "text": "Filius ille Dei est; fateorque et victus adoro."
+  },
+  {
+    "id": "p-625ccc",
+    "offset": 8690,
+    "text": "inrisas removete faces, taedasque tepentes"
+  },
+  {
+    "id": "p-136361",
+    "offset": 8734,
+    "text": "subtrahite; friget succensi sulpuris ardor."
+  },
+  {
+    "id": "p-d38635",
+    "offset": 8779,
+    "text": "Filius (haud dubium est) agit haec miracula rerum,"
+  },
+  {
+    "id": "p-94b176",
+    "offset": 8831,
+    "text": "quem video, Deus ipse, Dei certissima proles,"
+  },
+  {
+    "id": "p-7f250b",
+    "offset": 8878,
+    "text": "imperat inmensis ardoribus et domat iras,"
+  },
+  {
+    "id": "p-f52083",
+    "offset": 8921,
+    "text": "insultans famulante rogo, piceosque furores"
+  },
+  {
+    "id": "p-0231e0",
+    "offset": 8966,
+    "text": "conprimit et rabiem flammarum algescere cogit,"
+  },
+  {
+    "id": "p-6d7883",
+    "offset": 9014,
+    "text": "barbaricos calida aura sinus non tangere iussa"
+  },
+  {
+    "id": "p-6c88bb",
+    "offset": 9062,
+    "text": "praeterit et tenues stridens transcurrit amictus,"
+  },
+  {
+    "id": "p-eab808",
+    "offset": 9113,
+    "text": "ipse per Assyrios metuit vapor ire tiaras,"
+  },
+  {
+    "id": "p-790f67",
+    "offset": 9157,
+    "text": "ne coma fusa umeris fumo obsordescat amaro.’"
+  },
+  {
+    "id": "p-4d47f3",
+    "offset": 9203,
+    "text": "haec ait, et varios iubet obmutescere cantus,"
+  },
+  {
+    "id": "p-1c2df4",
+    "offset": 9250,
+    "text": "organa, sambucas, citharas calamosque tubasque."
+  },
+  {
+    "id": "p-e8ad69",
+    "offset": 9299,
+    "text": "stulta superstitio tacuit, vox festa quievit,"
+  },
+  {
+    "id": "p-535948",
+    "offset": 9346,
+    "text": "quae male conspicuae celebrabat imaginis aurum."
+  },
+  {
+    "id": "p-4db037",
+    "offset": 9395,
+    "text": "carmina sanctorum resonant iam sola virorum"
+  },
+  {
+    "id": "p-46e832",
+    "offset": 9440,
+    "text": "triplice concentu regem laudantia caeli,"
+  },
+  {
+    "id": "p-b20439",
+    "offset": 9482,
+    "text": "qui mare, qui terras, qui lucida sidera fecit,"
+  },
+  {
+    "id": "p-761440",
+    "offset": 9530,
+    "text": "ignibus et mediis securos texit alumnos."
+  },
+  {
+    "id": "p-7ec732",
+    "offset": 9572,
+    "text": "semper in auxilium Sermo Patris omnipotentis"
+  },
+  {
+    "id": "p-cbde06",
+    "offset": 9618,
+    "text": "descendit servando homini, mortalia semper"
+  },
+  {
+    "id": "p-402307",
+    "offset": 9662,
+    "text": "admiscenda sibi proprio curavit amore,"
+  },
+  {
+    "id": "p-b1b79e",
+    "offset": 9702,
+    "text": "ut socianda caro Dominoque inplenda perenni,"
+  },
+  {
+    "id": "p-78dc9d",
+    "offset": 9748,
+    "text": "degenerem vitam quae tunc animalis agebat,"
+  },
+  {
+    "id": "p-340ca7",
+    "offset": 9792,
+    "text": "1"
+  },
+  {
+    "id": "p-c7c408",
+    "offset": 9795,
+    "text": "cernere consortem terreni adsuesceret oris,"
+  },
+  {
+    "id": "p-49bc4d",
+    "offset": 9840,
+    "text": "participemque suum visu velut obside nosse,"
+  },
+  {
+    "id": "p-0dfbb1",
+    "offset": 9885,
+    "text": "et consanguineo paulatim accedere Christo."
+  },
+  {
+    "id": "p-625361",
+    "offset": 9929,
+    "text": "ergo animalis homo quondam, nunc Spiritus illum"
+  },
+  {
+    "id": "p-e251e8",
+    "offset": 9978,
+    "text": "transtulit ad superi naturam seminis, ipsum"
+  },
+  {
+    "id": "p-16feaf",
+    "offset": 10023,
+    "text": "infundendo Deum mortalia vivificantem."
+  },
+  {
+    "id": "p-aeb82d",
+    "offset": 10063,
+    "text": "nunc nova materies solidata intercute flatu,"
+  },
+  {
+    "id": "p-560856",
+    "offset": 10109,
+    "text": "materies sed nostra tamen, de virgine tracta,"
+  },
+  {
+    "id": "p-cff124",
+    "offset": 10156,
+    "text": "exuit antiquae conrupta exordia vitae,"
+  },
+  {
+    "id": "p-2fc2d0",
+    "offset": 10196,
+    "text": "inmortale bonum proprio spiramine sumens,"
+  },
+  {
+    "id": "p-63b573",
+    "offset": 10239,
+    "text": "filius ille hominis, sed Filius ille Tonantis,"
+  },
+  {
+    "id": "p-20b210",
+    "offset": 10287,
+    "text": "iam solus vultum Patris aspicit et videt ipsum."
+  },
+  {
+    "id": "p-be30d0",
+    "offset": 10336,
+    "text": "nemo Patrem novit nisi Filius et cui monstrat"
+  },
+  {
+    "id": "p-918346",
+    "offset": 10383,
+    "text": "Filius, et nostri mediator et omnipotentis."
+  },
+  {
+    "id": "p-2c4d2f",
+    "offset": 10428,
+    "text": "denique concludam brevis ut conpendia summae:"
+  },
+  {
+    "id": "p-2a829e",
+    "offset": 10475,
+    "text": "non Pater in carnem descendit, sed Patris arcem"
+  },
+  {
+    "id": "p-bd432c",
+    "offset": 10524,
+    "text": "sumpta caro ascendit, Natus per utrumque cucurrit."
+  },
+  {
+    "id": "p-745d29",
+    "offset": 10576,
+    "text": "Cede, profanator Christi, iam cede, Sabelli,"
+  },
+  {
+    "id": "p-879c05",
+    "offset": 10622,
+    "text": "depositorque Patris Natique insane negator,"
+  },
+  {
+    "id": "p-bb8e93",
+    "offset": 10667,
+    "text": "nonne Patrem violas dum Natum scire recusas?"
+  },
+  {
+    "id": "p-7b20f2",
+    "offset": 10713,
+    "text": "quandoquidem non est genitor, nisi filius extet,"
+  },
+  {
+    "id": "p-e81e46",
+    "offset": 10763,
+    "text": "nec vocitare patrem potis es quem germine fraudas,"
+  },
+  {
+    "id": "p-150788",
+    "offset": 10815,
+    "text": "sed fortasse velis patriae pietatis honore"
+  },
+  {
+    "id": "p-eb1868",
+    "offset": 10859,
+    "text": "despoliare Deum, contentus nomine nudo,"
+  },
+  {
+    "id": "p-9d81ae",
+    "offset": 10900,
+    "text": "quod Deus est, adimasque decus Patris et generis vim."
+  },
+  {
+    "id": "p-86403f",
+    "offset": 10955,
+    "text": "ecquis in idolio recubans inter sacra mille"
+  },
+  {
+    "id": "p-b9920b",
+    "offset": 11000,
+    "text": "ridiculosque deos venerans sale, caespite, ture,"
+  },
+  {
+    "id": "p-b4ecee",
+    "offset": 11050,
+    "text": "non putat esse deum summum et super omnia solum?"
+  },
+  {
+    "id": "p-74a95a",
+    "offset": 11100,
+    "text": "quamvis Saturnis Iunonibus et Cythereis,"
+  },
+  {
+    "id": "p-2235f6",
+    "offset": 11142,
+    "text": "portentisque aliis fumantes consecret aras,"
+  },
+  {
+    "id": "p-0cd970",
+    "offset": 11187,
+    "text": "attamen in caelum quotiens suspexit, in uno"
+  },
+  {
+    "id": "p-bcf422",
+    "offset": 11232,
+    "text": "constituit ius omne deo, cui serviat ingens"
+  },
+  {
+    "id": "p-813ebd",
+    "offset": 11277,
+    "text": "virtutum ratio variis instructa ministris,"
+  },
+  {
+    "id": "p-a678a6",
+    "offset": 11321,
+    "text": "quae gens tam stolida est animis, tam barbara linguis,"
+  },
+  {
+    "id": "p-a97175",
+    "offset": 11377,
+    "text": "quaeve superstitio tam sordida, quae caniformem"
+  },
+  {
+    "id": "p-93002b",
+    "offset": 11426,
+    "text": "latrantemque throno caeli praeponat Anubem?"
+  },
+  {
+    "id": "p-b41c3c",
+    "offset": 11471,
+    "text": "nemo Cloacinae aut Eponae super astra deabus"
+  },
+  {
+    "id": "p-23c4b9",
+    "offset": 11517,
+    "text": "dat solium, quamvis olidam persolvat acerram"
+  },
+  {
+    "id": "p-1f2077",
+    "offset": 11563,
+    "text": "sacrilegisque molam manibus rimetur et exta."
+  },
+  {
+    "id": "p-890ad9",
+    "offset": 11609,
+    "text": "consule barbati deliramenta Platonis,"
+  },
+  {
+    "id": "p-a9f0ab",
+    "offset": 11648,
+    "text": "consule et hircosus Cynicus quos somniat et quos"
+  },
+  {
+    "id": "p-2bfd47",
+    "offset": 11698,
+    "text": "texit Aristoteles torta vertigine nervos,"
+  },
+  {
+    "id": "p-b57987",
+    "offset": 11741,
+    "text": "hos omnes quamvis anceps labyrinthus et error"
+  },
+  {
+    "id": "p-8083fe",
+    "offset": 11788,
+    "text": "circumflexus agat, quamvis promittere et ipsi"
+  },
+  {
+    "id": "p-fb0685",
+    "offset": 11835,
+    "text": "gallinam soleant aut gallum, clinicus ut se"
+  },
+  {
+    "id": "p-3302a5",
+    "offset": 11880,
+    "text": "dignetur praestare deus morientibus aequum,"
+  },
+  {
+    "id": "p-93fbdd",
+    "offset": 11925,
+    "text": "cum ventum tamen ad normam rationis et artis,"
+  },
+  {
+    "id": "p-e55756",
+    "offset": 11972,
+    "text": "turbidulos sensus et litigiosa fragosis"
+  },
+  {
+    "id": "p-3de31d",
+    "offset": 12013,
+    "text": "argumenta modis concludunt numen in unum,"
+  },
+  {
+    "id": "p-278163",
+    "offset": 12056,
+    "text": "cuius ad arbitrium sphera mobilis atque rotunda"
+  },
+  {
+    "id": "p-3cc35d",
+    "offset": 12105,
+    "text": "volvatur, serventque suos vaga sidera cursus,"
+  },
+  {
+    "id": "p-66e602",
+    "offset": 12152,
+    "text": "non recipit natura hominis, modo quadrupes ille"
+  },
+  {
+    "id": "p-911620",
+    "offset": 12201,
+    "text": "non sit, et erecto spectet caelestia vultu,"
+  },
+  {
+    "id": "p-357f20",
+    "offset": 12246,
+    "text": "non recipit neget ut regimen pollere supremum,"
+  },
+  {
+    "id": "p-d89339",
+    "offset": 12294,
+    "text": "istud et ipse Numae tacitus sibi sensit haruspex,"
+  },
+  {
+    "id": "p-7ffa6f",
+    "offset": 12345,
+    "text": "semifer et Scottus sentit, cane milite peior,"
+  },
+  {
+    "id": "p-05cb1f",
+    "offset": 12392,
+    "text": "sed nos qui Dominum libris et corpore iam bis"
+  },
+  {
+    "id": "p-c8d892",
+    "offset": 12439,
+    "text": "vidimus, ante fide, mox carne et sanguine 1 coram,"
+  },
+  {
+    "id": "p-cb0880",
+    "offset": 12491,
+    "text": "quique voluminibus vatum cruce teste probatis"
+  },
+  {
+    "id": "p-ad3d71",
+    "offset": 12538,
+    "text": "rimantes digitos costarum in vulnera cruda"
+  },
+  {
+    "id": "p-a6fadf",
+    "offset": 12582,
+    "text": "mersimus, et manuum visu dubitante lacunas"
+  },
+  {
+    "id": "p-695bba",
+    "offset": 12626,
+    "text": "scrutati aeternum regem cognovimus Iesum,"
+  },
+  {
+    "id": "p-3501f6",
+    "offset": 12669,
+    "text": "abiurare Deo titulum nomenque paternum"
+  },
+  {
+    "id": "p-a6689a",
+    "offset": 12709,
+    "text": "credimus esse nefas, qui regem protulit ex se,"
+  },
+  {
+    "id": "p-e579b7",
+    "offset": 12757,
+    "text": "non regem populi Parthorum aut Romulidarum,"
+  },
+  {
+    "id": "p-ab6fdb",
+    "offset": 12802,
+    "text": "sed regem summae et mediae rationis et imae,"
+  },
+  {
+    "id": "p-32c8f1",
+    "offset": 12848,
+    "text": "atque ideo rerum dominum et super omnia regem,"
+  },
+  {
+    "id": "p-e0bd66",
+    "offset": 12896,
+    "text": "carnis habet medium, summum Patris, et Stygis imum."
+  },
+  {
+    "id": "p-1ff094",
+    "offset": 12949,
+    "text": "defluit his gradibus rursusque revolvitur in se;"
+  },
+  {
+    "id": "p-22cd9b",
+    "offset": 12999,
+    "text": "est Deus, est et homo; fit mortuus et Deus idem est."
+  },
+  {
+    "id": "p-da6ee5",
+    "offset": 13053,
+    "text": "omnia percurrit naturae munia pronae,"
+  },
+  {
+    "id": "p-2eb138",
+    "offset": 13092,
+    "text": "ut sursum Patris in gremium replicata reportet"
+  },
+  {
+    "id": "p-f5d9da",
+    "offset": 13140,
+    "text": "mortua quae fuerant, ipsos quoque subvehat artus,"
+  },
+  {
+    "id": "p-5bb8f5",
+    "offset": 13191,
+    "text": "haec fore cum veterum cecinissent organa vatum,"
+  },
+  {
+    "id": "p-6b4bda",
+    "offset": 13240,
+    "text": "nos oculis, manibus, congressu, voce, loquella"
+  },
+  {
+    "id": "p-f30514",
+    "offset": 13288,
+    "text": "experti, heroum tandem intelleximus orsa"
+  },
+  {
+    "id": "p-e3dc07",
+    "offset": 13330,
+    "text": "priscorum et viso patefacta oracula Christo,"
+  },
+  {
+    "id": "p-964cc7",
+    "offset": 13376,
+    "text": "haec est nostra salus, hinc vivimus, hinc animamur."
+  },
+  {
+    "id": "p-a9dd61",
+    "offset": 13429,
+    "text": "hoc sequimur: numquam detracto nomine Nati"
+  },
+  {
+    "id": "p-091276",
+    "offset": 13473,
+    "text": "appellare Patrem, Patris et sine nomine numquam"
+  },
+  {
+    "id": "p-19cdb7",
+    "offset": 13522,
+    "text": "Natum nosse Deum, numquam nisi Sanctus et unus"
+  },
+  {
+    "id": "p-0835ad",
+    "offset": 13570,
+    "text": "Spiritus intersit Natumque Patremque vocare;"
+  },
+  {
+    "id": "p-2ed43f",
+    "offset": 13616,
+    "text": "sic tamen haec constare tria, ut ne separe ductu"
+  },
+  {
+    "id": "p-110270",
+    "offset": 13666,
+    "text": "tris faciam, tribus his subsistat sed Deus unus."
+  },
+  {
+    "id": "p-549288",
+    "offset": 13716,
+    "text": "nec Pater ipse autem qui Filius, ut, quia natum"
+  },
+  {
+    "id": "p-de7c1c",
+    "offset": 13765,
+    "text": "scimus ab innato, vere Pater et sata vere"
+  },
+  {
+    "id": "p-0addfe",
+    "offset": 13808,
+    "text": "sit suboles, nec sit genitor sibi Filius ipse."
+  },
+  {
+    "id": "p-a76e71",
+    "offset": 13856,
+    "text": "perquam ridiculum est et futtile, natus ut ex se"
+  },
+  {
+    "id": "p-39c8f2",
+    "offset": 13906,
+    "text": "sive supernatus 1 fuerit, sibi ipse repente"
+  },
+  {
+    "id": "p-29ac8c",
+    "offset": 13951,
+    "text": "nascendi nova materies, ac se Deus ultro"
+  },
+  {
+    "id": "p-fb3fbf",
+    "offset": 13993,
+    "text": "ediderit natumque sibi se fecerit ipsum,"
+  },
+  {
+    "id": "p-41210e",
+    "offset": 14035,
+    "text": "nil falsum aut mendax divina vocabula fingunt,"
+  },
+  {
+    "id": "p-0aa513",
+    "offset": 14083,
+    "text": "qui Pater est, gignendo Pater, tum Filius ex hoc"
+  },
+  {
+    "id": "p-61b481",
+    "offset": 14133,
+    "text": "Filius, auctore genitus quod sit Patre summo,"
+  },
+  {
+    "id": "p-570f89",
+    "offset": 14180,
+    "text": "summus et ipse tamen; nec enim minor aut Patre dispar."
+  },
+  {
+    "id": "p-c2da05",
+    "offset": 14236,
+    "text": "unde in utroque operis forma indiscreta, nisi omnem"
+  },
+  {
+    "id": "p-8f996e",
+    "offset": 14289,
+    "text": "vim maiestatis patriae generosus haberet"
+  },
+  {
+    "id": "p-6f224a",
+    "offset": 14331,
+    "text": "Filius, idque Deus genitor, quod Filius, esset?"
+  },
+  {
+    "id": "p-aad99c",
+    "offset": 14380,
+    "text": "pergunt ulterius scrutantes quid sit id ipsum"
+  },
+  {
+    "id": "p-603152",
+    "offset": 14427,
+    "text": "gignere, si fas est humanos tendere sensus"
+  },
+  {
+    "id": "p-8f2d1d",
+    "offset": 14471,
+    "text": "usque ad secretum, quod tempora cuncta diesque"
+  },
+  {
+    "id": "p-206bc6",
+    "offset": 14519,
+    "text": "praevenit antiquos, et principium super ipsum"
+  },
+  {
+    "id": "p-4c75c0",
+    "offset": 14566,
+    "text": "eminet et, quodcumque potest homo quaerere, transit."
+  },
+  {
+    "id": "p-fdd0f5",
+    "offset": 14620,
+    "text": "cum sit difficilis via noscere principiorum"
+  },
+  {
+    "id": "p-f4b714",
+    "offset": 14665,
+    "text": "semina, qui dabitur mortali exquirere quidnam"
+  },
+  {
+    "id": "p-b2bf3a",
+    "offset": 14712,
+    "text": "ultra principium Deus egerit, aut quo pacto"
+  },
+  {
+    "id": "p-acc2ad",
+    "offset": 14757,
+    "text": "ediderit verbum, quod principio caret omni?"
+  },
+  {
+    "id": "p-073614",
+    "offset": 14802,
+    "text": "hoc solum scimus, quod traditur esse Deum, quem"
+  },
+  {
+    "id": "p-7aef7f",
+    "offset": 14851,
+    "text": "non genitus genitor generaverit, unus"
+  },
+  {
+    "id": "p-7f92ba",
+    "offset": 14890,
+    "text": "et unum, integer integrum, non coeptum sed tamen ortum,"
+  },
+  {
+    "id": "p-5e613c",
+    "offset": 14947,
+    "text": "et conperpetuum retro Patris et Patre natum,"
+  },
+  {
+    "id": "p-6c4808",
+    "offset": 14993,
+    "text": "sed nec decisus Pater est, ut pars Patris esset"
+  },
+  {
+    "id": "p-3d6e1a",
+    "offset": 15042,
+    "text": "Filius, extendens nec se substantia tractim"
+  },
+  {
+    "id": "p-683a19",
+    "offset": 15087,
+    "text": "produxit minuitque aliquid de numine pleno,"
+  },
+  {
+    "id": "p-3dfe11",
+    "offset": 15132,
+    "text": "dum mutata novum procudit portio Natum."
+  },
+  {
+    "id": "p-d8d533",
+    "offset": 15173,
+    "text": "non convertibilis nec demutabilis umquam"
+  },
+  {
+    "id": "p-3db69c",
+    "offset": 15215,
+    "text": "est Deus aut gignendo aliquid sibi detrahit, atqui"
+  },
+  {
+    "id": "p-6b13ef",
+    "offset": 15267,
+    "text": "totus et ex toto Deus est, de lumine lumen,"
+  },
+  {
+    "id": "p-a3d345",
+    "offset": 15312,
+    "text": "quando autem lumen sine lumine? quando refulgens"
+  },
+  {
+    "id": "p-9a58d1",
+    "offset": 15362,
+    "text": "lux fulgore caret? quando est ut proditus ignis"
+  },
+  {
+    "id": "p-905ac1",
+    "offset": 15411,
+    "text": "ignem deminuat? quando Pater et Deus et lux"
+  },
+  {
+    "id": "p-80055a",
+    "offset": 15456,
+    "text": "non lucis Deus et Pater est? qui, si Pater olim"
+  },
+  {
+    "id": "p-c65006",
+    "offset": 15505,
+    "text": "non fuit, et serum genuit post tempora Natum,"
+  },
+  {
+    "id": "p-11cddf",
+    "offset": 15552,
+    "text": "fit novus, inque novum ius proficit, absit, ut umquam"
+  },
+  {
+    "id": "p-141102",
+    "offset": 15607,
+    "text": "plenus proficiat, qui non eget incremento."
+  },
+  {
+    "id": "p-47b6d3",
+    "offset": 15651,
+    "text": "et Deus et genitor lumenque et gloria semper"
+  },
+  {
+    "id": "p-2daafe",
+    "offset": 15697,
+    "text": "ille fuit, nec post sibi contulit ut Pater esset,"
+  },
+  {
+    "id": "p-43bc31",
+    "offset": 15748,
+    "text": "sic fit ut aeternum credamus cum Patre Christum,"
+  },
+  {
+    "id": "p-3019c6",
+    "offset": 15798,
+    "text": "illo auctore satum, cui nullus praefuit auctor,"
+  },
+  {
+    "id": "p-d20723",
+    "offset": 15847,
+    "text": "haec tu si dubitas Nati mysteria Christi,"
+  },
+  {
+    "id": "p-6cd1e1",
+    "offset": 15890,
+    "text": "perdite, catholica non es de plebe, sed unus"
+  },
+  {
+    "id": "p-743d26",
+    "offset": 15936,
+    "text": "de grege turifero, venerator Deucalionum,"
+  },
+  {
+    "id": "p-57f30c",
+    "offset": 15979,
+    "text": "devotus cippo, ficulni stipitis unctor."
+  },
+  {
+    "id": "p-7780e8",
+    "offset": 16020,
+    "text": "quin potius scrutare Dei signacula in ipso"
+  },
+  {
+    "id": "p-9b0c21",
+    "offset": 16064,
+    "text": "fonte vetustatis, percurre scrinia primi"
+  },
+  {
+    "id": "p-3042bf",
+    "offset": 16106,
+    "text": "scriptoris, quem non bardus pater aut avus augur,"
+  },
+  {
+    "id": "p-78bc3d",
+    "offset": 16157,
+    "text": "fabula nec veteris famae, nec garrula nutrix,"
+  },
+  {
+    "id": "p-a0cb47",
+    "offset": 16204,
+    "text": "nec sago clangore loquax et stridula cornix"
+  },
+  {
+    "id": "p-a63e4d",
+    "offset": 16249,
+    "text": "rem docuere Dei, sed coram proditus ipse,"
+  },
+  {
+    "id": "p-068f8e",
+    "offset": 16292,
+    "text": "ipse Deus trepidum mortalem mitis amico"
+  },
+  {
+    "id": "p-a24cc8",
+    "offset": 16333,
+    "text": "inbuit adloquio seque ac sua summa retexit,"
+  },
+  {
+    "id": "p-144368",
+    "offset": 16378,
+    "text": "nimirum meminit scriptor doctissimus illo"
+  },
+  {
+    "id": "p-929083",
+    "offset": 16421,
+    "text": "orbis principio non solum nec sine Christo"
+  },
+  {
+    "id": "p-f69e3b",
+    "offset": 16465,
+    "text": "informasse Patrem facturae plasma novellae."
+  },
+  {
+    "id": "p-db03ef",
+    "offset": 16510,
+    "text": "fecit ait ‘condens hominem Deus, et dedit olli"
+  },
+  {
+    "id": "p-055d1d",
+    "offset": 16558,
+    "text": "ora Dei.’ quidnam est aliud quam dicere ‘solus"
+  },
+  {
+    "id": "p-af94ba",
+    "offset": 16606,
+    "text": "non erat, atque Deo Deus adsistebat agenti,’"
+  },
+  {
+    "id": "p-288796",
+    "offset": 16652,
+    "text": "cum Dominus faceret Domini sub imagine plasma?"
+  },
+  {
+    "id": "p-a91e55",
+    "offset": 16700,
+    "text": "Christus forma Patris, nos Christi forma et imago;"
+  },
+  {
+    "id": "p-7c0312",
+    "offset": 16752,
+    "text": "condimur in faciem Domini bonitate paterna,"
+  },
+  {
+    "id": "p-cf0295",
+    "offset": 16797,
+    "text": "venturo in nostram faciem post saecula Christo,"
+  },
+  {
+    "id": "p-29deef",
+    "offset": 16846,
+    "text": "possum multa sacris exempla excerpere libris,"
+  },
+  {
+    "id": "p-127f09",
+    "offset": 16893,
+    "text": "ni refugis, quae te doceant non in Patre solo"
+  },
+  {
+    "id": "p-65190e",
+    "offset": 16940,
+    "text": "vim maiestatis positam, sed cum Patre Christum"
+  },
+  {
+    "id": "p-18317f",
+    "offset": 16988,
+    "text": "esse Deum, velut illud ait genealogus idem:"
+  },
+  {
+    "id": "p-7bdd5f",
+    "offset": 17033,
+    "text": "a Domino Dominus flammam pluit in Sodomitas."
+  },
+  {
+    "id": "p-1e0b14",
+    "offset": 17079,
+    "text": "quis Dominus, de quo Domino, si solus ab arce"
+  },
+  {
+    "id": "p-3b18e0",
+    "offset": 17126,
+    "text": "siderea spectat Pater aut ardescit in iras?"
+  },
+  {
+    "id": "p-9a374e",
+    "offset": 17171,
+    "text": "Filius armatam Domini Patris ignibus iram"
+  },
+  {
+    "id": "p-94052b",
+    "offset": 17214,
+    "text": "spargebat Dominus: sunt unum fulmen utraque."
+  },
+  {
+    "id": "p-ad54bb",
+    "offset": 17260,
+    "text": "Haec si Iudaicos sic intellecta rigassent"
+  },
+  {
+    "id": "p-21de37",
+    "offset": 17303,
+    "text": "auditus stupidas ut possent 1 tangere fibras,"
+  },
+  {
+    "id": "p-b0f534",
+    "offset": 17350,
+    "text": "audissent Dominum virtutum, qui pereuntes"
+  },
+  {
+    "id": "p-1ee306",
+    "offset": 17393,
+    "text": "venerat ut servaret oves; sed ab auribus omnis"
+  },
+  {
+    "id": "p-56b6b6",
+    "offset": 17441,
+    "text": "Fluxerat ornatus, caput et iam coctile Bahal"
+  },
+  {
+    "id": "p-61a7de",
+    "offset": 17487,
+    "text": "finxerat auriculasque suo spoliarat honore,"
+  },
+  {
+    "id": "p-7273b0",
+    "offset": 17532,
+    "text": "dux populi peccantis adest de monte corusci"
+  },
+  {
+    "id": "p-061fc3",
+    "offset": 17577,
+    "text": "luminis adloquioque Dei, tabulasque tremendo"
+  },
+  {
+    "id": "p-40a64c",
+    "offset": 17623,
+    "text": "incisas digito caeca ad tentoria defert,"
+  },
+  {
+    "id": "p-bca735",
+    "offset": 17665,
+    "text": "sed cadit in faciem plebs non visura profundae"
+  },
+  {
+    "id": "p-aa185c",
+    "offset": 17713,
+    "text": "legis in effigie scriptum per enigmata Christum,"
+  },
+  {
+    "id": "p-a969ac",
+    "offset": 17763,
+    "text": "infelix, quae luce oculos praestricta paventes"
+  },
+  {
+    "id": "p-fd0a32",
+    "offset": 17811,
+    "text": "texerit et presso faciem velarit amictu!"
+  },
+  {
+    "id": "p-df8f69",
+    "offset": 17853,
+    "text": "at nos reiecto Christum velamine coram"
+  },
+  {
+    "id": "p-08ab82",
+    "offset": 17893,
+    "text": "cernimus atque Deum vultu speculantur aperto,"
+  },
+  {
+    "id": "p-f27e21",
+    "offset": 17940,
+    "text": "nec sub lege gravi depressa fronte iacemus,"
+  },
+  {
+    "id": "p-f8a7e7",
+    "offset": 17985,
+    "text": "sed legis radium sublimi agnoscimus ore."
+  },
+  {
+    "id": "p-91fdf8",
+    "offset": 18027,
+    "text": "heu, frondosa prius ramis felicibus arbos,"
+  },
+  {
+    "id": "p-c56986",
+    "offset": 18071,
+    "text": "pinguibus, heu, quondam radix oleagina bacis!"
+  },
+  {
+    "id": "p-1487f3",
+    "offset": 18118,
+    "text": "ecce tibi inserto revirescit nunc oleastro"
+  },
+  {
+    "id": "p-0c4798",
+    "offset": 18162,
+    "text": "truncus et externi vestitur cortice libri,"
+  },
+  {
+    "id": "p-dc6a5f",
+    "offset": 18206,
+    "text": "iam miserere tui. non se silvestris olivi"
+  },
+  {
+    "id": "p-cc6503",
+    "offset": 18249,
+    "text": "surculus exultans alieno stipite iactat,"
+  },
+  {
+    "id": "p-5cc300",
+    "offset": 18291,
+    "text": "sed monet ut generis proprii memor unguine amaro"
+  },
+  {
+    "id": "p-2c4149",
+    "offset": 18341,
+    "text": "contristare comas desuescas, stirpe nec imo"
+  },
+  {
+    "id": "p-2063ef",
+    "offset": 18386,
+    "text": "invideas missis in celsa cacumina virgis,"
+  },
+  {
+    "id": "p-a86434",
+    "offset": 18429,
+    "text": "blasphemas Dominum, gens ingratissima, Christum."
+  },
+  {
+    "id": "p-5b887f",
+    "offset": 18479,
+    "text": "pascha tuum dic, dic, cuius de sanguine festum"
+  },
+  {
+    "id": "p-aacd5a",
+    "offset": 18527,
+    "text": "tam sollemne tibi est? quis tandem caeditur agnus"
+  },
+  {
+    "id": "p-9441f7",
+    "offset": 18578,
+    "text": "anniculus? sacer ille tibi redeuntibus annis,"
+  },
+  {
+    "id": "p-1415ec",
+    "offset": 18625,
+    "text": "sed sacer in pecude. stultum est sic credere sacrum,"
+  },
+  {
+    "id": "p-1f5ac4",
+    "offset": 18679,
+    "text": "sanguine balantis summos contingere postes,"
+  },
+  {
+    "id": "p-4cb98c",
+    "offset": 18724,
+    "text": "lascivire choris, similaginis azymon esse,"
+  },
+  {
+    "id": "p-0703b3",
+    "offset": 18768,
+    "text": "cum fermentati turgescant crimine mores,"
+  },
+  {
+    "id": "p-a2d7fd",
+    "offset": 18810,
+    "text": "non sapis, inprudens, nostrum te effingere pascha,"
+  },
+  {
+    "id": "p-6982d7",
+    "offset": 18862,
+    "text": "legis et antiquae praeductis pingere sulcis"
+  },
+  {
+    "id": "p-e05b97",
+    "offset": 18907,
+    "text": "omne sacramentum retinet quod passio vera,"
+  },
+  {
+    "id": "p-4b4eb0",
+    "offset": 18951,
+    "text": "passio, quae nostram defendit sanguine frontem"
+  },
+  {
+    "id": "p-5ca6dc",
+    "offset": 18999,
+    "text": "corporeamque domum signato conlinit ore?"
+  },
+  {
+    "id": "p-0d21f6",
+    "offset": 19041,
+    "text": "hanc fugit exclusis Aegyptia plaga procellis, 1"
+  },
+  {
+    "id": "p-7f2426",
+    "offset": 19090,
+    "text": "haec regis Pharii regnum ferale resolvit,"
+  },
+  {
+    "id": "p-9a872d",
+    "offset": 19133,
+    "text": "deque potestatis mundanae grandine densa"
+  },
+  {
+    "id": "p-ff04cd",
+    "offset": 19175,
+    "text": "eripit Abraham cum stirpe et gente fideli."
+  },
+  {
+    "id": "p-6077d5",
+    "offset": 19219,
+    "text": "Abrahae genus est verum, cui sanguis in ore"
+  },
+  {
+    "id": "p-39fe57",
+    "offset": 19264,
+    "text": "creditus inscriptusque rubet, cui visus in orbe"
+  },
+  {
+    "id": "p-eeb91f",
+    "offset": 19313,
+    "text": "haud dubitante fide Deus est, Deus ex Patre verus."
+  },
+  {
+    "id": "p-9a425e",
+    "offset": 19365,
+    "text": "ille Deum vidit, visum mox credidit: at tu,"
+  },
+  {
+    "id": "p-dcda3c",
+    "offset": 19410,
+    "text": "posteritas carnis, carnaliter omnia cernens,"
+  },
+  {
+    "id": "p-f69bb1",
+    "offset": 19456,
+    "text": "carnis opus sub lege geris, quam spiritus inplet"
+  },
+  {
+    "id": "p-88f694",
+    "offset": 19506,
+    "text": "interior; nec enim caelo lex carnea fluxit,"
+  },
+  {
+    "id": "p-58dc2a",
+    "offset": 19551,
+    "text": "quam tu carne colis, sed Christo feta meamque"
+  },
+  {
+    "id": "p-801dd0",
+    "offset": 19598,
+    "text": "spem paritura utero, quam spem, nisi numinis almum"
+  },
+  {
+    "id": "p-bc2fad",
+    "offset": 19650,
+    "text": "lumen et adventum Domini, quem viderat Abrae"
+  },
+  {
+    "id": "p-eaaed1",
+    "offset": 19696,
+    "text": "prima fides, nostrisque Pater promiserat olim"
+  },
+  {
+    "id": "p-46a818",
+    "offset": 19743,
+    "text": "perspiciendum oculis et legis voce probandum?"
+  },
+  {
+    "id": "p-3295c6",
+    "offset": 19790,
+    "text": "nec solum legis; nam quae iam littera Christum"
+  },
+  {
+    "id": "p-3ee721",
+    "offset": 19838,
+    "text": "non habet, aut quae non scriptorum armaria Christi"
+  },
+  {
+    "id": "p-c8f734",
+    "offset": 19890,
+    "text": "laude referta novis celebrant miracula libris?"
+  },
+  {
+    "id": "p-122ea3",
+    "offset": 19938,
+    "text": "Hebraeus pangit stilus, Attica copia pangit,"
+  },
+  {
+    "id": "p-947211",
+    "offset": 19984,
+    "text": "pangit et Ausoniae facundia tertia linguae,"
+  },
+  {
+    "id": "p-2ac05c",
+    "offset": 20029,
+    "text": "Pilatus iubet ignorans ‘I, scriba, tripictis"
+  },
+  {
+    "id": "p-2fb05f",
+    "offset": 20075,
+    "text": "digere versiculis quae sit subfixa potestas,"
+  },
+  {
+    "id": "p-c1527d",
+    "offset": 20121,
+    "text": "fronte crucis titulus sit triplex, triplice lingua"
+  },
+  {
+    "id": "p-f8038b",
+    "offset": 20173,
+    "text": "agnoscat Iudaea legens et Graecia norit"
+  },
+  {
+    "id": "p-a94ae1",
+    "offset": 20214,
+    "text": "et venerata Deum percenseat aurea Roma.’"
+  },
+  {
+    "id": "p-62c092",
+    "offset": 20256,
+    "text": "quidquid in aere cavo reboans tuba curva remugit,"
+  },
+  {
+    "id": "p-cb53dc",
+    "offset": 20307,
+    "text": "quidquid ab arcano vomit ingens spiritus haustu,"
+  },
+  {
+    "id": "p-fd5433",
+    "offset": 20357,
+    "text": "quidquid casta chelys, quidquid testudo resultat,"
+  },
+  {
+    "id": "p-8794c7",
+    "offset": 20408,
+    "text": "organa disparibus calamis quod consona miscent,"
+  },
+  {
+    "id": "p-d5152f",
+    "offset": 20457,
+    "text": "aemula pastorum quod reddunt vocibus antra,"
+  },
+  {
+    "id": "p-f65ecb",
+    "offset": 20502,
+    "text": "Christum concelebrat, Christum sonat, omnia Christum"
+  },
+  {
+    "id": "p-22bedb",
+    "offset": 20556,
+    "text": "muta etiam fidibus sanctis animata loquuntur,"
+  },
+  {
+    "id": "p-27ae0d",
+    "offset": 20603,
+    "text": "o nomen praedulce mihi! lux et decus et spes"
+  },
+  {
+    "id": "p-cffc1f",
+    "offset": 20649,
+    "text": "praesidiumque meum, requies o certa laborum,"
+  },
+  {
+    "id": "p-59f984",
+    "offset": 20695,
+    "text": "blandus in ore sapor, fragrans odor, inriguus fons,"
+  },
+  {
+    "id": "p-f2d32b",
+    "offset": 20748,
+    "text": "castus amor, pulchra species, sincera voluptas!"
+  },
+  {
+    "id": "p-e12acb",
+    "offset": 20797,
+    "text": "si gens surda negat sibi tot praeconia de te,"
+  },
+  {
+    "id": "p-e22ce6",
+    "offset": 20844,
+    "text": "tam multas rerum voces elementaque tantae"
+  },
+  {
+    "id": "p-a0eac6",
+    "offset": 20887,
+    "text": "nuntia laetitiae stolidas intrare per aures,"
+  },
+  {
+    "id": "p-ec97fe",
+    "offset": 20933,
+    "text": "audiat insanum bacchantis energima monstri,"
+  },
+  {
+    "id": "p-fb3d20",
+    "offset": 20978,
+    "text": "quod rabidus clamat capta inter viscera daemon,"
+  },
+  {
+    "id": "p-929e09",
+    "offset": 21027,
+    "text": "et credat miseranda suis. torquetur Apollo"
+  },
+  {
+    "id": "p-37e3d5",
+    "offset": 21071,
+    "text": "nomine percussus Christi, nec fulmina Verbi"
+  },
+  {
+    "id": "p-0d7581",
+    "offset": 21116,
+    "text": "ferre potest; agitant miserum tot verbera linguae,"
+  },
+  {
+    "id": "p-97cc66",
+    "offset": 21168,
+    "text": "quot laudata Dei resonant miracula Christi."
+  },
+  {
+    "id": "p-e1995f",
+    "offset": 21213,
+    "text": "intonat antistes Domini ‘fuge, callide serpens,"
+  },
+  {
+    "id": "p-e02f18",
+    "offset": 21262,
+    "text": "exue te membris, et spiras solve latentes,"
+  },
+  {
+    "id": "p-b34bbb",
+    "offset": 21306,
+    "text": "mancipium Christi, fur corruptissime, vexas."
+  },
+  {
+    "id": "p-7060c7",
+    "offset": 21352,
+    "text": "desine, Christus adest, humani corporis ultor:"
+  },
+  {
+    "id": "p-cf94c9",
+    "offset": 21400,
+    "text": "non licet ut spolium rapias, cui Christus inhaesit."
+  },
+  {
+    "id": "p-84b725",
+    "offset": 21453,
+    "text": "pulsus abi, ventose liquor; Christus iubet, exi.’"
+  },
+  {
+    "id": "p-ce778c",
+    "offset": 21504,
+    "text": "has inter voces medias Cyllenius ardens"
+  },
+  {
+    "id": "p-f3fae2",
+    "offset": 21545,
+    "text": "eiulat, et notos suspirat Iuppiter ignes,"
+  },
+  {
+    "id": "p-8119b5",
+    "offset": 21588,
+    "text": "ecce Gerasenos legio ruit effera porcos,"
+  },
+  {
+    "id": "p-ff972f",
+    "offset": 21630,
+    "text": "et post multiplices busti sub rupe catenas,"
+  },
+  {
+    "id": "p-8f3a29",
+    "offset": 21675,
+    "text": "poenarum gemitus longis grunnitibus edit."
+  },
+  {
+    "id": "p-be9c9f",
+    "offset": 21718,
+    "text": "clamarat, sed ab ore hominis ‘cognoscimus, Iesu"
+  },
+  {
+    "id": "p-6a2ac4",
+    "offset": 21767,
+    "text": "nate Deo, nate sceptris et germine David,"
+  },
+  {
+    "id": "p-16eb72",
+    "offset": 21810,
+    "text": "quid sis, quid venias; qua nos virtute repellas"
+  },
+  {
+    "id": "p-4fe2ed",
+    "offset": 21859,
+    "text": "novimus, adventusque tui terrore iacemus.’"
+  },
+  {
+    "id": "p-7cf349",
+    "offset": 21903,
+    "text": "haec, Iudaea, tuas vox non pervenit ad aures?"
+  },
+  {
+    "id": "p-ea5762",
+    "offset": 21950,
+    "text": "pervenit, mentem sed non penetravit egenam"
+  },
+  {
+    "id": "p-bc4a54",
+    "offset": 21994,
+    "text": "lucis, et a primis foribus disclusa refugit."
+  },
+  {
+    "id": "p-31d7d5",
+    "offset": 22040,
+    "text": "audiit adventum Domini, quem solis Hiberi"
+  },
+  {
+    "id": "p-c70c04",
+    "offset": 22083,
+    "text": "vesper habet, roseos 1 et qui novus exeipit ortus."
+  },
+  {
+    "id": "p-83fe52",
+    "offset": 22135,
+    "text": "laxavit Scythicas verbo penetrante pruinas"
+  },
+  {
+    "id": "p-6b6704",
+    "offset": 22179,
+    "text": "vox evangeliea, Hyreanas quoque fervida brumas"
+  },
+  {
+    "id": "p-48ed79",
+    "offset": 22227,
+    "text": "solvit, ut exutus glaeie iam mollior amnis"
+  },
+  {
+    "id": "p-664966",
+    "offset": 22271,
+    "text": "Caucasea de eote fluat Rhodopeius Hebrus,"
+  },
+  {
+    "id": "p-73f3db",
+    "offset": 22314,
+    "text": "mansuevere Getae, feritasque eruenta Geloni"
+  },
+  {
+    "id": "p-d827de",
+    "offset": 22359,
+    "text": "laete mero sitiens exsanguia poeula miscet"
+  },
+  {
+    "id": "p-dab145",
+    "offset": 22403,
+    "text": "libatura saeros Christi de sanguine potus,"
+  },
+  {
+    "id": "p-ca77e6",
+    "offset": 22447,
+    "text": "novit et Atlantis pridem plaga perfida Mauri"
+  },
+  {
+    "id": "p-326137",
+    "offset": 22493,
+    "text": "dedere crinitos ad Christi altaria reges,"
+  },
+  {
+    "id": "p-8432e2",
+    "offset": 22536,
+    "text": "ex quo mortalem praestrinxit Spiritus alvum,"
+  },
+  {
+    "id": "p-25c394",
+    "offset": 22582,
+    "text": "Spiritus ille Deus, Deus et se corpore matris"
+  },
+  {
+    "id": "p-cc4f49",
+    "offset": 22629,
+    "text": "induit atque hominem de virginitate ereavit,"
+  },
+  {
+    "id": "p-82a01f",
+    "offset": 22675,
+    "text": "Delphica damnatis tacuerunt sortibus antra,"
+  },
+  {
+    "id": "p-c8c4ff",
+    "offset": 22720,
+    "text": "non tripodas eortina regit, 2 non spumat anhelus"
+  },
+  {
+    "id": "p-9a17a2",
+    "offset": 22770,
+    "text": "fata Sibyllinis fanaticus edita libris,"
+  },
+  {
+    "id": "p-f69c61",
+    "offset": 22811,
+    "text": "perdidit insanos mendax Dodona vapores,"
+  },
+  {
+    "id": "p-c4eb78",
+    "offset": 22852,
+    "text": "mortua iam mutae lugent oracula Cumae,"
+  },
+  {
+    "id": "p-cba2e1",
+    "offset": 22892,
+    "text": "nec responsa refert Libyeis in Syrtibus Hammon."
+  },
+  {
+    "id": "p-75bc88",
+    "offset": 22941,
+    "text": "ipsa suis Christum Capitolia Romula maerent"
+  },
+  {
+    "id": "p-f65067",
+    "offset": 22986,
+    "text": "principibus lucere Deum, destructaque templa"
+  },
+  {
+    "id": "p-aac75a",
+    "offset": 23032,
+    "text": "imperio cecidisse ducum, iam purpura supplex"
+  },
+  {
+    "id": "p-d50d97",
+    "offset": 23078,
+    "text": "sternitur Aeneadae rectoris ad atria Christi,"
+  },
+  {
+    "id": "p-7701e0",
+    "offset": 23125,
+    "text": "vexillumque crucis summus dominator adorat."
+  },
+  {
+    "id": "p-c9b0ad",
+    "offset": 23170,
+    "text": "principibus tamen e cunctis non defuit unus"
+  },
+  {
+    "id": "p-0b53c5",
+    "offset": 23215,
+    "text": "me puero, ut memini, ductor fortissimus armis,"
+  },
+  {
+    "id": "p-278e2f",
+    "offset": 23263,
+    "text": "conditor et legum, celeberrimus ore manuque,"
+  },
+  {
+    "id": "p-488a2b",
+    "offset": 23309,
+    "text": "consultor patriae, sed non consultor habendae"
+  },
+  {
+    "id": "p-edc450",
+    "offset": 23356,
+    "text": "relligionis, amans ter centum milia divum."
+  },
+  {
+    "id": "p-a9c1d5",
+    "offset": 23400,
+    "text": "perfidus ille Deo, quamvis non perfidus orbi,"
+  },
+  {
+    "id": "p-87fec1",
+    "offset": 23447,
+    "text": "augustum caput ante pedes curvare Minervae"
+  },
+  {
+    "id": "p-a4673a",
+    "offset": 23491,
+    "text": "fictilis et soleas Iunonis lambere, plantis"
+  },
+  {
+    "id": "p-a3a1cf",
+    "offset": 23536,
+    "text": "Herculis advolvi, genua incerare Dianae,"
+  },
+  {
+    "id": "p-a07a5d",
+    "offset": 23578,
+    "text": "quin et Apollineo frontem submittere gypso"
+  },
+  {
+    "id": "p-6e73fd",
+    "offset": 23622,
+    "text": "aut Pollucis equum suffire ardentibus extis."
+  },
+  {
+    "id": "p-7ccec6",
+    "offset": 23668,
+    "text": "forte litans Hecaten placabat sanguine multo;"
+  },
+  {
+    "id": "p-67f400",
+    "offset": 23715,
+    "text": "pontificum festis ferienda securibus illic"
+  },
+  {
+    "id": "p-6c8ba1",
+    "offset": 23759,
+    "text": "agmina vaccarum steterant, vitulasque revincta"
+  },
+  {
+    "id": "p-0f6c0d",
+    "offset": 23807,
+    "text": "fronte coronatas umbrabat torta cupressus."
+  },
+  {
+    "id": "p-f14488",
+    "offset": 23851,
+    "text": "iamque insertato reserarat viscera cultro"
+  },
+  {
+    "id": "p-1019c9",
+    "offset": 23894,
+    "text": "vittatus de more senex manibusque cruentis"
+  },
+  {
+    "id": "p-e7abeb",
+    "offset": 23938,
+    "text": "tractabat trepidas letali frigore fibras,"
+  },
+  {
+    "id": "p-f298b5",
+    "offset": 23981,
+    "text": "postremosque animae pulsus in corde tepenti"
+  },
+  {
+    "id": "p-9befc5",
+    "offset": 24026,
+    "text": "callidus interpres numeris et fine notabat:"
+  },
+  {
+    "id": "p-107a55",
+    "offset": 24071,
+    "text": "cum subito exclamat media inter sacra sacerdos"
+  },
+  {
+    "id": "p-3c2c35",
+    "offset": 24119,
+    "text": "pallidus ‘en quid ago? maius, rex optime, maius"
+  },
+  {
+    "id": "p-9d08b2",
+    "offset": 24168,
+    "text": "numen nescio quod nostris intervenit aris"
+  },
+  {
+    "id": "p-18e27a",
+    "offset": 24211,
+    "text": "quam sufferre queant spumantia cymbia lacte,"
+  },
+  {
+    "id": "p-de5e86",
+    "offset": 24257,
+    "text": "caesarum sanguis pecudum, verbena, coronae,"
+  },
+  {
+    "id": "p-5e843f",
+    "offset": 24302,
+    "text": "accitas video longe dispergier umbras,"
+  },
+  {
+    "id": "p-8c3ef2",
+    "offset": 24342,
+    "text": "territa Persephone vertit vestigia retro"
+  },
+  {
+    "id": "p-246126",
+    "offset": 24384,
+    "text": "extinctis facibus, tracto 1 fugitiva flagello,"
+  },
+  {
+    "id": "p-111f87",
+    "offset": 24432,
+    "text": "nil agit arcanum murmur, nil Thessala prosunt"
+  },
+  {
+    "id": "p-566f11",
+    "offset": 24479,
+    "text": "carmina, turbatos revocat nulla hostia manes,"
+  },
+  {
+    "id": "p-0f4463",
+    "offset": 24526,
+    "text": "nonne vides ut turibulis frigentibus ignis"
+  },
+  {
+    "id": "p-6b0884",
+    "offset": 24570,
+    "text": "marceat, ut canis pigrescat pruna favillis?"
+  },
+  {
+    "id": "p-78b917",
+    "offset": 24615,
+    "text": "ecce Palatinus pateram retinere minister"
+  },
+  {
+    "id": "p-5ec67f",
+    "offset": 24657,
+    "text": "non valet, elisa destillant balsama dextra,"
+  },
+  {
+    "id": "p-2bb855",
+    "offset": 24702,
+    "text": "flamen et ipse suas miratur vertice laurus"
+  },
+  {
+    "id": "p-8218c2",
+    "offset": 24746,
+    "text": "cedere, et incertum frustratur victima ferrum,"
+  },
+  {
+    "id": "p-0362ff",
+    "offset": 24794,
+    "text": "nescio quis certe subrepsit Christicolarum"
+  },
+  {
+    "id": "p-e615d4",
+    "offset": 24838,
+    "text": "hic iuvenum; genus hoc hominum tremit infula et omne"
+  },
+  {
+    "id": "p-30eaf1",
+    "offset": 24892,
+    "text": "pulvinar divum, lotus procul absit et unctus;"
+  },
+  {
+    "id": "p-f39ef0",
+    "offset": 24939,
+    "text": "pulchra reformatis redeat Proserpina sacris.’"
+  },
+  {
+    "id": "p-5faa53",
+    "offset": 24986,
+    "text": "dixit, et exsanguis conlabitur ac, velut ipsum"
+  },
+  {
+    "id": "p-2512e8",
+    "offset": 25034,
+    "text": "cerneret exerto minitantem fulmine Christum,"
+  },
+  {
+    "id": "p-6683f8",
+    "offset": 25080,
+    "text": "ipse quoque exanimis posito diademate princeps"
+  },
+  {
+    "id": "p-e0828e",
+    "offset": 25128,
+    "text": "pallet et adstantes circumspicit, ecquis alumnus"
+  },
+  {
+    "id": "p-8c9c4d",
+    "offset": 25178,
+    "text": "chrismatis inscripto signaret tempora ligno,"
+  },
+  {
+    "id": "p-e1d6f8",
+    "offset": 25224,
+    "text": "qui Zoroastreos turbasset fronte susurros."
+  },
+  {
+    "id": "p-a9f8ac",
+    "offset": 25268,
+    "text": "armiger e cuneo puerorum flavicomantum,"
+  },
+  {
+    "id": "p-a1cb52",
+    "offset": 25309,
+    "text": "purpurei custos lateris, deprenditur unus,"
+  },
+  {
+    "id": "p-607e8f",
+    "offset": 25353,
+    "text": "nec negat, et gemino gemmata hastilia ferro"
+  },
+  {
+    "id": "p-c3542d",
+    "offset": 25398,
+    "text": "proicit ac signum Christi se ferre fatetur."
+  },
+  {
+    "id": "p-5ab712",
+    "offset": 25443,
+    "text": "prosiluit pavidus deiecto antistite princeps"
+  },
+  {
+    "id": "p-c1d5d2",
+    "offset": 25489,
+    "text": "marmoreum fugiens nullo comitante sacellum,"
+  },
+  {
+    "id": "p-18adfb",
+    "offset": 25534,
+    "text": "dum tremefacta cohors dominique oblita supinas"
+  },
+  {
+    "id": "p-45ea2d",
+    "offset": 25582,
+    "text": "erigit ad caelum facies atque invocat Iesum,"
+  },
+  {
+    "id": "p-084351",
+    "offset": 25628,
+    "text": "iamne piget facti? iam paenitet? en tibi Christum,"
+  },
+  {
+    "id": "p-45e92d",
+    "offset": 25680,
+    "text": "infelix Iudaea, Deum, qui sabbata solvens"
+  },
+  {
+    "id": "p-a4487a",
+    "offset": 25723,
+    "text": "terrea mortales aeterna in sabbata sumpsit,"
+  },
+  {
+    "id": "p-d4cefe",
+    "offset": 25768,
+    "text": "gentibus emicuit, praefulsit regibus, orbem"
+  },
+  {
+    "id": "p-0edc24",
+    "offset": 25813,
+    "text": "possidet, imperii dominam sibi cedere 1 Romam"
+  },
+  {
+    "id": "p-57494b",
+    "offset": 25860,
+    "text": "conpulit et simulacra deum Tarpeia subegit,"
+  },
+  {
+    "id": "p-5b9c22",
+    "offset": 25905,
+    "text": "disce tuis, miseranda, malis, quo vindice tandem"
+  },
+  {
+    "id": "p-2d5ac8",
+    "offset": 25955,
+    "text": "vana superstitio lex et carnaliter acta"
+  },
+  {
+    "id": "p-10418b",
+    "offset": 25996,
+    "text": "plectatur, cuius virtus te proterat ultrix."
+  },
+  {
+    "id": "p-86e42b",
+    "offset": 26041,
+    "text": "destructone iacent Solomonia saxa metallo"
+  },
+  {
+    "id": "p-ca572f",
+    "offset": 26084,
+    "text": "aedificata manu? iacet illud nobile templum,"
+  },
+  {
+    "id": "p-9f7653",
+    "offset": 26130,
+    "text": "cur iacet? artificis quia dextra solubilis illud"
+  },
+  {
+    "id": "p-865693",
+    "offset": 26180,
+    "text": "caemcntum struxit resolubile; iure solutum est"
+  },
+  {
+    "id": "p-5fba1f",
+    "offset": 26228,
+    "text": "et iacet, in nihilum quoniam redit omne politum."
+  },
+  {
+    "id": "p-0d8119",
+    "offset": 26278,
+    "text": "quod fieri recipit, recipit quandoque perire,"
+  },
+  {
+    "id": "p-1b6746",
+    "offset": 26325,
+    "text": "si nostrum contra quod sit vis discere templum,"
+  },
+  {
+    "id": "p-bba643",
+    "offset": 26374,
+    "text": "est illud quod nemo opifex fabriliter aptans"
+  },
+  {
+    "id": "p-a52ffe",
+    "offset": 26420,
+    "text": "conposuit, quod nulla abies pinusve dolata"
+  },
+  {
+    "id": "p-5d880a",
+    "offset": 26464,
+    "text": "texuit, exciso quod numquam marmore crevit;"
+  },
+  {
+    "id": "p-18e985",
+    "offset": 26509,
+    "text": "cuius onus nullis fultum sublime columnis"
+  },
+  {
+    "id": "p-b206ba",
+    "offset": 26552,
+    "text": "fornice curvato tenui super arte pependit,"
+  },
+  {
+    "id": "p-0f0124",
+    "offset": 26596,
+    "text": "sed verbo factum Domini; non voce sonora,"
+  },
+  {
+    "id": "p-ef6072",
+    "offset": 26639,
+    "text": "sed verbo, quod semper erat. verbum caro factum est."
+  },
+  {
+    "id": "p-a66c63",
+    "offset": 26693,
+    "text": "hoc templum aeternum est, hoc finem non habet, hoc tu"
+  },
+  {
+    "id": "p-ebec2a",
+    "offset": 26748,
+    "text": "expugnare volens flagris, cruce, felle petisti,"
+  },
+  {
+    "id": "p-e4b5bf",
+    "offset": 26797,
+    "text": "destructum iacuit poenis vexantibus: esto,"
+  },
+  {
+    "id": "p-3ac1ae",
+    "offset": 26841,
+    "text": "matris enim ex utero quod destrueretur habebat,"
+  },
+  {
+    "id": "p-b3b9ab",
+    "offset": 26890,
+    "text": "sed quod morte brevi materna ex parte solutum est"
+  },
+  {
+    "id": "p-918f3e",
+    "offset": 26941,
+    "text": "maiestate Patris vivum lux tertia reddit,"
+  },
+  {
+    "id": "p-dfad2f",
+    "offset": 26984,
+    "text": "vidisti angelicis comitatum coetibus alte"
+  },
+  {
+    "id": "p-b1459e",
+    "offset": 27027,
+    "text": "ire meum, cuius servor munimine, templum,"
+  },
+  {
+    "id": "p-cfc5b7",
+    "offset": 27070,
+    "text": "illius aeternae suspendunt culmina portae,"
+  },
+  {
+    "id": "p-dac425",
+    "offset": 27114,
+    "text": "ac per inacccssas scalarum gloria turres"
+  },
+  {
+    "id": "p-9d4677",
+    "offset": 27156,
+    "text": "tollitur et gradibus lucet via candida summis,"
+  },
+  {
+    "id": "p-5b31a6",
+    "offset": 27204,
+    "text": "at tua congcstae tumulant holocausta ruinae,"
+  },
+  {
+    "id": "p-28eb77",
+    "offset": 27250,
+    "text": "quid mereare Titus docuit, docuere rapinis"
+  },
+  {
+    "id": "p-8da7c0",
+    "offset": 27294,
+    "text": "Pompeianae acies, quibus exstirpata per omnes"
+  },
+  {
+    "id": "p-0b1d5c",
+    "offset": 27341,
+    "text": "terrarum pelagique plagas tua membra feruntur."
+  },
+  {
+    "id": "p-954264",
+    "offset": 27389,
+    "text": "exibis vagus huc illuc fluitantibus errat"
+  },
+  {
+    "id": "p-454ef6",
+    "offset": 27432,
+    "text": "Iudaeus, postquam patria de sede revulsus"
+  },
+  {
+    "id": "p-e89a1f",
+    "offset": 27475,
+    "text": "supplicium pro caede luit, Christique negati"
+  },
+  {
+    "id": "p-5583b8",
+    "offset": 27521,
+    "text": "sanguine respersus commissa piacula solvit,"
+  },
+  {
+    "id": "p-360542",
+    "offset": 27566,
+    "text": "en quo priscorum virtus defluxit avorum!"
+  },
+  {
+    "id": "p-57b982",
+    "offset": 27608,
+    "text": "ervit ab antiquis dilapsa fidelibus heres"
+  },
+  {
+    "id": "p-692f29",
+    "offset": 27651,
+    "text": "nobilitas, sed iam non nobilis; illa recentem"
+  },
+  {
+    "id": "p-693122",
+    "offset": 27698,
+    "text": "suspectat 1 captiva fidem, vis tanta novellae"
+  },
+  {
+    "id": "p-1936ef",
+    "offset": 27745,
+    "text": "credulitatis inest; Christum confessa triumphat"
+  },
+  {
+    "id": "p-64b709",
+    "offset": 27794,
+    "text": "gens infida prius, Christi sed victa negatrix"
+  },
+  {
+    "id": "p-5d4ddd",
+    "offset": 27841,
+    "text": "subditur imperio dominos sortita fideles."
+  },
+  {
+    "id": "p-feed1d",
+    "offset": 27884,
+    "text": "Sunt qui Iudaico cognatum dogma furori"
+  },
+  {
+    "id": "p-7298ee",
+    "offset": 27924,
+    "text": "instituunt media Christum ratione secuti,"
+  },
+  {
+    "id": "p-176f22",
+    "offset": 27967,
+    "text": "hoc tantum, quod verus homo est, at caelitus illum"
+  },
+  {
+    "id": "p-5104b8",
+    "offset": 28019,
+    "text": "adfirmant non esse Deum; pietate fatentur,"
+  },
+  {
+    "id": "p-67d4fb",
+    "offset": 28063,
+    "text": "maiestate negant: morum pro laude sacratum"
+  },
+  {
+    "id": "p-67e6fb",
+    "offset": 28107,
+    "text": "concelebrant, adimunt naturae summa supernae."
+  },
+  {
+    "id": "p-a94496",
+    "offset": 28154,
+    "text": "omne opus egregium, per quod sollertia pollens"
+  },
+  {
+    "id": "p-19418a",
+    "offset": 28202,
+    "text": "emicat, ingenii est aut roboris: illud acuto"
+  },
+  {
+    "id": "p-a2317f",
+    "offset": 28248,
+    "text": "corde viget, duris excellit viribus istud."
+  },
+  {
+    "id": "p-284992",
+    "offset": 28292,
+    "text": "mortale est sed utrumque homini; nam cana senescunt"
+  },
+  {
+    "id": "p-b29f6c",
+    "offset": 28345,
+    "text": "ingenia et validos consumunt saecla lacertos."
+  },
+  {
+    "id": "p-dcb80a",
+    "offset": 28392,
+    "text": "haec nos in Domini virtute et laude perenni"
+  },
+  {
+    "id": "p-aff2bf",
+    "offset": 28437,
+    "text": "non sequimur: sequimur nullo quod semine terrae"
+  },
+  {
+    "id": "p-693b56",
+    "offset": 28486,
+    "text": "germinat, inmundum quod non de labe virili"
+  },
+  {
+    "id": "p-8fe850",
+    "offset": 28530,
+    "text": "sumit principium; tener illum seminat ignis,"
+  },
+  {
+    "id": "p-518d58",
+    "offset": 28576,
+    "text": "non caro nec sanguis patrius nec foeda voluptas,"
+  },
+  {
+    "id": "p-d82586",
+    "offset": 28626,
+    "text": "intactam thalami virtus divina puellam"
+  },
+  {
+    "id": "p-d61431",
+    "offset": 28666,
+    "text": "sincero adflatu per viscera casta maritat;"
+  },
+  {
+    "id": "p-821b7e",
+    "offset": 28710,
+    "text": "inconperta ortus novitas iubet ut Deus esse"
+  },
+  {
+    "id": "p-4032bd",
+    "offset": 28755,
+    "text": "credatur Christus sic conditus, innuba virgo"
+  },
+  {
+    "id": "p-2fdaa5",
+    "offset": 28801,
+    "text": "nubit spiritui, vitium nec sentit amoris,"
+  },
+  {
+    "id": "p-82f06e",
+    "offset": 28844,
+    "text": "pubertas signata manet; gravis intus et extra"
+  },
+  {
+    "id": "p-e790b2",
+    "offset": 28891,
+    "text": "incolumis, florens de fertilitate pudica,"
+  },
+  {
+    "id": "p-bf3870",
+    "offset": 28934,
+    "text": "iam mater, sed virgo tamen, maris inscia mater."
+  },
+  {
+    "id": "p-c0bcdb",
+    "offset": 28983,
+    "text": "quid renuis? quid inane caput, non credule, quassas?"
+  },
+  {
+    "id": "p-456b53",
+    "offset": 29037,
+    "text": "angelus hoc saneto fore nuntiat 1 ore: plaeetne"
+  },
+  {
+    "id": "p-107845",
+    "offset": 29086,
+    "text": "credere et angelicis aurem reserare loquellis?"
+  },
+  {
+    "id": "p-b3daab",
+    "offset": 29134,
+    "text": "ipsa coruscantis monitum sacra virgo ministri"
+  },
+  {
+    "id": "p-438b08",
+    "offset": 29181,
+    "text": "credidit atque ideo concepit credula Christum;"
+  },
+  {
+    "id": "p-d5a5eb",
+    "offset": 29229,
+    "text": "credentes nam Christus adit, dubitabile pectus"
+  },
+  {
+    "id": "p-624336",
+    "offset": 29277,
+    "text": "sub titubante fide refugo contemnit honore,"
+  },
+  {
+    "id": "p-54488b",
+    "offset": 29322,
+    "text": "virginitas et prompta fides Christum bibit alvo"
+  },
+  {
+    "id": "p-33d754",
+    "offset": 29371,
+    "text": "cordis et intactis condit paritura latebris,"
+  },
+  {
+    "id": "p-17604e",
+    "offset": 29417,
+    "text": "crede quod emissus solio Patris angelus infit."
+  },
+  {
+    "id": "p-113294",
+    "offset": 29465,
+    "text": "vel, si concretus liquidam de sidere vocem"
+  },
+  {
+    "id": "p-f9455b",
+    "offset": 29509,
+    "text": "non capit auditus, mulier quid coniuge praegnans"
+  },
+  {
+    "id": "p-c80b87",
+    "offset": 29559,
+    "text": "clamet anus credens et tandem sobrius audi."
+  },
+  {
+    "id": "p-ec7d75",
+    "offset": 29604,
+    "text": "mira fides! utero puer interceptus anili"
+  },
+  {
+    "id": "p-7f135a",
+    "offset": 29646,
+    "text": "virgineum Dominum materno ex ore salutat,"
+  },
+  {
+    "id": "p-308670",
+    "offset": 29689,
+    "text": "primus et infantem non natus nuntiat infans"
+  },
+  {
+    "id": "p-695f43",
+    "offset": 29734,
+    "text": "iam nostrum; 1 vagire sibi nam pusio nondum"
+  },
+  {
+    "id": "p-5f8f03",
+    "offset": 29779,
+    "text": "norat et ora Deo reserabat garrula Christo,"
+  },
+  {
+    "id": "p-9b9eda",
+    "offset": 29824,
+    "text": "promite secretos fatus; date, pandite librum,"
+  },
+  {
+    "id": "p-788f16",
+    "offset": 29871,
+    "text": "evomuit spirante Deo quem sanctus Esaias."
+  },
+  {
+    "id": "p-ce369f",
+    "offset": 29914,
+    "text": "percensere libet calamique revolvere sulcos,"
+  },
+  {
+    "id": "p-e22afc",
+    "offset": 29960,
+    "text": "sidereis quos illa notis manus aurea duxit,"
+  },
+  {
+    "id": "p-c53fe8",
+    "offset": 30005,
+    "text": "ite hinc, dum rutilos apices submissus adoro,"
+  },
+  {
+    "id": "p-5399f9",
+    "offset": 30052,
+    "text": "dum lacrimans veneror dumque oscula dulcia figo;"
+  },
+  {
+    "id": "p-43bdda",
+    "offset": 30102,
+    "text": "gaudia concipiunt lacrimas, dant gaudia fletum."
+  },
+  {
+    "id": "p-20e164",
+    "offset": 30151,
+    "text": "advenit promissa dies quam dixerat iste"
+  },
+  {
+    "id": "p-54c613",
+    "offset": 30192,
+    "text": "adfore versiculus, cum virgo puerpera, teste"
+  },
+  {
+    "id": "p-a02066",
+    "offset": 30238,
+    "text": "haud dubie sponso, pacti cui cura pudoris,"
+  },
+  {
+    "id": "p-4af96d",
+    "offset": 30282,
+    "text": "edidit, Emmanuelque meum me cernere fecit,"
+  },
+  {
+    "id": "p-e2ae75",
+    "offset": 30326,
+    "text": "estne Deus iam noster? homo versatur et adstat"
+  },
+  {
+    "id": "p-e2cae1",
+    "offset": 30374,
+    "text": "nobiscum nomenque probat versumque vetustis"
+  },
+  {
+    "id": "p-5f0b9b",
+    "offset": 30419,
+    "text": "obscurum saeclis praesenti inluminat ore."
+  },
+  {
+    "id": "p-bbdeda",
+    "offset": 30462,
+    "text": "estne Deus, cuius cunas veneratus Eous"
+  },
+  {
+    "id": "p-b56291",
+    "offset": 30502,
+    "text": "lancibus auratis regalia fercula supplex"
+  },
+  {
+    "id": "p-ed0e91",
+    "offset": 30544,
+    "text": "virginis ad gremium pannis puerilibus offert?"
+  },
+  {
+    "id": "p-54446c",
+    "offset": 30591,
+    "text": "quis tam pinnatus rapidoque simillimus austro"
+  },
+  {
+    "id": "p-fb0240",
+    "offset": 30638,
+    "text": "nuntius Aurorae populos atque ultima Bactra"
+  },
+  {
+    "id": "p-cd5b9d",
+    "offset": 30683,
+    "text": "attigit, inluxisse diem Iactantibus horis,"
+  },
+  {
+    "id": "p-c8db27",
+    "offset": 30727,
+    "text": "qua tener innupto penderet ab ubere Christus?"
+  },
+  {
+    "id": "p-283b85",
+    "offset": 30774,
+    "text": "vidimus hunc aiunt ‘puerum per sidera ferri,"
+  },
+  {
+    "id": "p-ac6df7",
+    "offset": 30820,
+    "text": "et super antiquos signorum ardescere tractus.’"
+  },
+  {
+    "id": "p-189cbc",
+    "offset": 30868,
+    "text": "diriguit trepidans Chaldaeo in vertice pernox"
+  },
+  {
+    "id": "p-840ef6",
+    "offset": 30915,
+    "text": "astrologus, cessisse Anguem, fugisse Leonem,"
+  },
+  {
+    "id": "p-8cc49a",
+    "offset": 30961,
+    "text": "contraxisse pedes lateris maneo ordine Cancrum,"
+  },
+  {
+    "id": "p-d4b859",
+    "offset": 31010,
+    "text": "cornibus infractis domitum mugire Iuvencum,"
+  },
+  {
+    "id": "p-ee8b9c",
+    "offset": 31055,
+    "text": "sidus et Hirquinum laceris marcescere villis,"
+  },
+  {
+    "id": "p-bfccb6",
+    "offset": 31102,
+    "text": "labitur hinc pulsus Puer Hydrius, inde Sagittae,"
+  },
+  {
+    "id": "p-effe83",
+    "offset": 31152,
+    "text": "palantes Geminos fuga separat, inproba Virgo"
+  },
+  {
+    "id": "p-f7804c",
+    "offset": 31198,
+    "text": "prodit amatores tacitos in fornice mundi,"
+  },
+  {
+    "id": "p-d7e4af",
+    "offset": 31241,
+    "text": "quique alii horrificis pendent in nubibus ignes"
+  },
+  {
+    "id": "p-abe15a",
+    "offset": 31290,
+    "text": "Luciferum timuere novum: rota lurida solis"
+  },
+  {
+    "id": "p-82ae5c",
+    "offset": 31334,
+    "text": "haeret, et excidium sentit iam iamque futurum,"
+  },
+  {
+    "id": "p-374cef",
+    "offset": 31382,
+    "text": "seque die medio velandum 1 tegmine glauco,"
+  },
+  {
+    "id": "p-7e693f",
+    "offset": 31426,
+    "text": "splendoremque poli periturum nocte diurna"
+  },
+  {
+    "id": "p-480f92",
+    "offset": 31469,
+    "text": "orbe repentinis caput obnubente tenebris."
+  },
+  {
+    "id": "p-1e5d8a",
+    "offset": 31512,
+    "text": "hunc ego non cumulem myrrhaeque et turis et auri"
+  },
+  {
+    "id": "p-fa4a69",
+    "offset": 31562,
+    "text": "muneribus? scio quem videam, quae dona rependam."
+  },
+  {
+    "id": "p-d7f4be",
+    "offset": 31612,
+    "text": "hunc ego non venerer, qui caelo visus humique"
+  },
+  {
+    "id": "p-0a9fca",
+    "offset": 31659,
+    "text": "inventus rex atque Deus moderatur utrumque"
+  },
+  {
+    "id": "p-b92555",
+    "offset": 31703,
+    "text": "naturae specimen, tumuloque inferna refringens"
+  },
+  {
+    "id": "p-e936b5",
+    "offset": 31751,
+    "text": "regna insurgentes secum iubet ire sepultos?"
+  },
+  {
+    "id": "p-cf6359",
+    "offset": 31796,
+    "text": "caelum habitat, terris intervenit, abdita rumpit"
+  },
+  {
+    "id": "p-e61425",
+    "offset": 31846,
+    "text": "Tartara, vera fides; Deus est, qui totus ubique est."
+  },
+  {
+    "id": "p-94b08c",
+    "offset": 31900,
+    "text": "numquid vana viros aut mens aut lingua fefellit?"
+  },
+  {
+    "id": "p-bbc91d",
+    "offset": 31950,
+    "text": "numquid fortuitis frustrantia dona dederunt"
+  },
+  {
+    "id": "p-129494",
+    "offset": 31995,
+    "text": "casibus aut caeco votum sub honore dicarunt?"
+  },
+  {
+    "id": "p-564e9e",
+    "offset": 32041,
+    "text": "quae porro causa aut ratio submittere colla"
+  },
+  {
+    "id": "p-29f3e4",
+    "offset": 32086,
+    "text": "ante pedes Mariae puerique crepundia parvi,"
+  },
+  {
+    "id": "p-755570",
+    "offset": 32131,
+    "text": "si tantum mortalis erat, nec summa potestas"
+  },
+  {
+    "id": "p-cce275",
+    "offset": 32176,
+    "text": "inplebat teneros divinis flatibus artus?"
+  },
+  {
+    "id": "p-5fa7ff",
+    "offset": 32218,
+    "text": "sed iam tolle magos, tus, aurum, myrrhea dona,"
+  },
+  {
+    "id": "p-933d84",
+    "offset": 32266,
+    "text": "quae verum docuere Deum, praesepia, pannos,"
+  },
+  {
+    "id": "p-966135",
+    "offset": 32311,
+    "text": "matris adoratum gremium face sideris ardens:"
+  },
+  {
+    "id": "p-c9a872",
+    "offset": 32357,
+    "text": "ipsa Deum virtus factorum et mira loquantur,"
+  },
+  {
+    "id": "p-0af653",
+    "offset": 32403,
+    "text": "insanos video subito mitescere ventos"
+  },
+  {
+    "id": "p-351dc8",
+    "offset": 32442,
+    "text": "cum iubeat Christus, video luctantia magnis"
+  },
+  {
+    "id": "p-ece875",
+    "offset": 32487,
+    "text": "aequora turbinibus tranquillo marmore tendi"
+  },
+  {
+    "id": "p-32274b",
+    "offset": 32532,
+    "text": "imperio Christi, video calcatus eundem"
+  },
+  {
+    "id": "p-24942a",
+    "offset": 32572,
+    "text": "cum patitur gurges tergum solidante liquore."
+  },
+  {
+    "id": "p-29d18a",
+    "offset": 32618,
+    "text": "ipse super fluidas plantis nitentibus undas"
+  },
+  {
+    "id": "p-73f04d",
+    "offset": 32663,
+    "text": "ambulat ac presso firmat vestigia fluctu,"
+  },
+  {
+    "id": "p-ee1919",
+    "offset": 32706,
+    "text": "increpat ipse notos, et flatibus otia mandat,"
+  },
+  {
+    "id": "p-2b7e74",
+    "offset": 32753,
+    "text": "quis iubeat saevis aquilonibus ‘ite, silete"
+  },
+  {
+    "id": "p-d7b0cd",
+    "offset": 32798,
+    "text": "carceribus vestris amploque facessite ponto,’"
+  },
+  {
+    "id": "p-d080b1",
+    "offset": 32845,
+    "text": "sit nisi caelipotens aquilonum conditor idem?"
+  },
+  {
+    "id": "p-e0f372",
+    "offset": 32892,
+    "text": "ninguidus agnoscit Boreas atque imbrifer Eurus"
+  },
+  {
+    "id": "p-af1519",
+    "offset": 32940,
+    "text": "nimborum dominum tempestatumque potentem,"
+  },
+  {
+    "id": "p-79e810",
+    "offset": 32983,
+    "text": "excitamque hiemem verrunt vidente sereno,"
+  },
+  {
+    "id": "p-429049",
+    "offset": 33026,
+    "text": "quis pelagi calcarit aquas? quis per vada glauca"
+  },
+  {
+    "id": "p-3ecfbd",
+    "offset": 33076,
+    "text": "gressibus inpressis spatiatus triverit udum"
+  },
+  {
+    "id": "p-a9d07f",
+    "offset": 33121,
+    "text": "non submersus iter, sola pendulus et pede sicco,"
+  },
+  {
+    "id": "p-7b7505",
+    "offset": 33171,
+    "text": "aequoreae nisi factor aquae, qui Spiritus olim"
+  },
+  {
+    "id": "p-171554",
+    "offset": 33219,
+    "text": "ore superfusus patrio volitabat in undis"
+  },
+  {
+    "id": "p-580a47",
+    "offset": 33261,
+    "text": "nondum discretis nec certo litore elausis?"
+  },
+  {
+    "id": "p-41f1ba",
+    "offset": 33305,
+    "text": "sustinuit gressum Domini famulus liquor, ac se"
+  },
+  {
+    "id": "p-e0acd4",
+    "offset": 33353,
+    "text": "mobilitate carens solidos substrinxit ad usus."
+  },
+  {
+    "id": "p-1f61be",
+    "offset": 33401,
+    "text": "quid diversa Dei memorem facta inclyta Christi?"
+  },
+  {
+    "id": "p-34b598",
+    "offset": 33450,
+    "text": "altius inspecta quae,1 maiestate negator,"
+  },
+  {
+    "id": "p-13140a",
+    "offset": 33493,
+    "text": "haud dubitans hominem, tute ipse fatebere numen."
+  },
+  {
+    "id": "p-50c5c5",
+    "offset": 33543,
+    "text": "inlevit caecos oculos et lumina limo"
+  },
+  {
+    "id": "p-71a7d4",
+    "offset": 33581,
+    "text": "reddidit umectam sacro sputamine terram"
+  },
+  {
+    "id": "p-61c9f3",
+    "offset": 33622,
+    "text": "contrectans digitis: luteum medicamen operta"
+  },
+  {
+    "id": "p-e37e33",
+    "offset": 33668,
+    "text": "nox habuit, tenebras obducta uligo removit,"
+  },
+  {
+    "id": "p-022159",
+    "offset": 33713,
+    "text": "insuper ostendit quonam caligo lavacro"
+  },
+  {
+    "id": "p-7ab8d8",
+    "offset": 33753,
+    "text": "expurganda foret, variis Siloa refundit"
+  },
+  {
+    "id": "p-9b6e17",
+    "offset": 33794,
+    "text": "momentis latices, nec fluctum semper anhelat,"
+  },
+  {
+    "id": "p-101905",
+    "offset": 33841,
+    "text": "sed vice distincta largos lacus accipit haustus."
+  },
+  {
+    "id": "p-671b65",
+    "offset": 33891,
+    "text": "agmina languentum sitiunt spem fontis avari,"
+  },
+  {
+    "id": "p-3a58c3",
+    "offset": 33937,
+    "text": "membrorum maculas puro ablutura natatu."
+  },
+  {
+    "id": "p-51a555",
+    "offset": 33978,
+    "text": "certatim interea roranti pumice raucas"
+  },
+  {
+    "id": "p-207948",
+    "offset": 34018,
+    "text": "exspectant scatebras et sicco margine pendent,"
+  },
+  {
+    "id": "p-dc0ed1",
+    "offset": 34066,
+    "text": "hoc limum iubet inpositum de fonte lavari"
+  },
+  {
+    "id": "p-335d77",
+    "offset": 34109,
+    "text": "Christus et infusa vultum splendescere luce."
+  },
+  {
+    "id": "p-1d0115",
+    "offset": 34155,
+    "text": "norat enim limo sese informasse figuram"
+  },
+  {
+    "id": "p-b7943c",
+    "offset": 34196,
+    "text": "ante tenebrosam, proprii medicamen et oris"
+  },
+  {
+    "id": "p-f838ce",
+    "offset": 34240,
+    "text": "adiecisse novo, quem primum finxerat, Adae."
+  },
+  {
+    "id": "p-ec4414",
+    "offset": 34285,
+    "text": "nam sine divino Domini perflamine summi"
+  },
+  {
+    "id": "p-b23036",
+    "offset": 34326,
+    "text": "arida terra fuit, nulli prius apta medellae:"
+  },
+  {
+    "id": "p-b2ccb8",
+    "offset": 34372,
+    "text": "sed postquam liquidus caelesti Spiritus ore"
+  },
+  {
+    "id": "p-3a1f50",
+    "offset": 34417,
+    "text": "virgineam respersit humum, medicabilis illa est."
+  },
+  {
+    "id": "p-7c556f",
+    "offset": 34467,
+    "text": "inde trahit sucum lentoque umore salutem"
+  },
+  {
+    "id": "p-3366c4",
+    "offset": 34509,
+    "text": "inlinit, infunditque diem baptismate lota."
+  },
+  {
+    "id": "p-783c2d",
+    "offset": 34553,
+    "text": "caecus adest oculis iam Christi ex ore refectis"
+  },
+  {
+    "id": "p-043c1c",
+    "offset": 34602,
+    "text": "seque luto et nitidis lucem sumpsisse fluentis"
+  },
+  {
+    "id": "p-e28b09",
+    "offset": 34650,
+    "text": "clamat, et auctorem stupefacta per oppida monstrat,"
+  },
+  {
+    "id": "p-8d918e",
+    "offset": 34703,
+    "text": "auctorem lucis largitoremque dierum,"
+  },
+  {
+    "id": "p-f07403",
+    "offset": 34741,
+    "text": "non dedignatum medicae purgamen aquai"
+  },
+  {
+    "id": "p-b673de",
+    "offset": 34780,
+    "text": "corpore sub proprio monstrare errantibus aegris,"
+  },
+  {
+    "id": "p-aa99ca",
+    "offset": 34830,
+    "text": "milibus ex multis paucissima quaeque retexam,"
+  },
+  {
+    "id": "p-14becb",
+    "offset": 34877,
+    "text": "summatim relegam totus quae non capit orbis."
+  },
+  {
+    "id": "p-bc3f27",
+    "offset": 34923,
+    "text": "quinque in deserto panes iubet et duo pisces"
+  },
+  {
+    "id": "p-4a13e5",
+    "offset": 34969,
+    "text": "adponi in pastum populis, qui forte magistrum"
+  },
+  {
+    "id": "p-baa3f0",
+    "offset": 35016,
+    "text": "non revocante fame stipabant undique saeptum,"
+  },
+  {
+    "id": "p-e93cbe",
+    "offset": 35063,
+    "text": "inmemoresque cibi vicos, castella, macellum,"
+  },
+  {
+    "id": "p-bc7502",
+    "offset": 35109,
+    "text": "oppida, mercatus et conciliabula et urbes"
+  },
+  {
+    "id": "p-66079a",
+    "offset": 35152,
+    "text": "respuerant, largo contenti dogmate vesci,"
+  },
+  {
+    "id": "p-c9b1c0",
+    "offset": 35195,
+    "text": "multa virum strato fervent convivia faeno,"
+  },
+  {
+    "id": "p-a93be4",
+    "offset": 35239,
+    "text": "centenos simul accubitus iniere sodales,"
+  },
+  {
+    "id": "p-c6b9b7",
+    "offset": 35281,
+    "text": "seque per innumeras infundunt agmina mensas,"
+  },
+  {
+    "id": "p-706903",
+    "offset": 35327,
+    "text": "pisciculis—iam crede Deum—saturanda duobus"
+  },
+  {
+    "id": "p-1023c5",
+    "offset": 35371,
+    "text": "et paucis crescente cibo per fragmina crustis."
+  },
+  {
+    "id": "p-f30ae8",
+    "offset": 35419,
+    "text": "ambesis dapibus cumulatim aggesta redundant"
+  },
+  {
+    "id": "p-12d4b7",
+    "offset": 35464,
+    "text": "fercula, bis senos micarum molibus inplent"
+  },
+  {
+    "id": "p-e4f39f",
+    "offset": 35508,
+    "text": "post cenam cophinos; crudus conviva resudat"
+  },
+  {
+    "id": "p-69024c",
+    "offset": 35553,
+    "text": "congeriem ventris, gemit et sub fasce minister."
+  },
+  {
+    "id": "p-6f7734",
+    "offset": 35602,
+    "text": "quis cumulare potest epulas in grandia parvas?"
+  },
+  {
+    "id": "p-a5d6ac",
+    "offset": 35650,
+    "text": "quis, nisi qui corpus pastumque et corporis omnem"
+  },
+  {
+    "id": "p-6489f8",
+    "offset": 35701,
+    "text": "condens ex nihilo nulla existente creavit"
+  },
+  {
+    "id": "p-41e515",
+    "offset": 35744,
+    "text": "mundum materia? non sicut sculptor ab aeris"
+  },
+  {
+    "id": "p-3e9f27",
+    "offset": 35789,
+    "text": "rudere decoctam consuescit vivere massam,"
+  },
+  {
+    "id": "p-7e7f9b",
+    "offset": 35832,
+    "text": "sed Deus omnipotens orbem sine semine finxit,"
+  },
+  {
+    "id": "p-2dd055",
+    "offset": 35879,
+    "text": "nil erat omne quod est: nil id procedere et esse"
+  },
+  {
+    "id": "p-14759a",
+    "offset": 35929,
+    "text": "atque novum fieri, mox et grandescere iussum est."
+  },
+  {
+    "id": "p-751c8e",
+    "offset": 35980,
+    "text": "parvum de nihilo primum fuit, addita parvo"
+  },
+  {
+    "id": "p-14be96",
+    "offset": 36024,
+    "text": "incrementa modis auxerunt omnia plenis."
+  },
+  {
+    "id": "p-f6a6e6",
+    "offset": 36065,
+    "text": "ergo ego, cum videam manibus sic crescere Christi"
+  },
+  {
+    "id": "p-2ef23d",
+    "offset": 36116,
+    "text": "parva alimenta hominum, possum dubitare per ipsum"
+  },
+  {
+    "id": "p-a65733",
+    "offset": 36167,
+    "text": "exiguas rerum species elementaque mundi"
+  },
+  {
+    "id": "p-c19fb0",
+    "offset": 36208,
+    "text": "ex nihilo primum modica et mox grandia sensim"
+  },
+  {
+    "id": "p-2316e8",
+    "offset": 36255,
+    "text": "crevisse, ex modicis quae consummata videmus?"
+  },
+  {
+    "id": "p-78c308",
+    "offset": 36302,
+    "text": "ac ne post hominum pastus calcata perirent,"
+  },
+  {
+    "id": "p-ac2029",
+    "offset": 36347,
+    "text": "neve relicta lupis aut vulpibus exiguisve"
+  },
+  {
+    "id": "p-0aada3",
+    "offset": 36390,
+    "text": "muribus in praedam nullo custode iacerent,"
+  },
+  {
+    "id": "p-86b28e",
+    "offset": 36434,
+    "text": "bis sex adpositi, cumulatim qui bona Christi"
+  },
+  {
+    "id": "p-1fa28c",
+    "offset": 36480,
+    "text": "servarent gravidis procul ostentata canistris."
+  },
+  {
+    "id": "p-d2e652",
+    "offset": 36528,
+    "text": "sed quid ego haec autem titubanti voce retexo,"
+  },
+  {
+    "id": "p-a62519",
+    "offset": 36576,
+    "text": "indignus qui sancta canam? procede sepulcro,"
+  },
+  {
+    "id": "p-9b713f",
+    "offset": 36622,
+    "text": "Lazare, dic cuius vocem tellure sub ima"
+  },
+  {
+    "id": "p-3f8f88",
+    "offset": 36663,
+    "text": "audieris, quae vis pcnetraverit abdita leti,"
+  },
+  {
+    "id": "p-073ba1",
+    "offset": 36709,
+    "text": "quod, cum te Christus penitus nigrante profundo"
+  },
+  {
+    "id": "p-55fe7b",
+    "offset": 36758,
+    "text": "inmersum vocat ut redeas, ceu proximus audis,"
+  },
+  {
+    "id": "p-c342d7",
+    "offset": 36805,
+    "text": "nec remoratus ades? quae tam vicina Charybdis"
+  },
+  {
+    "id": "p-7b16d9",
+    "offset": 36852,
+    "text": "regna tenebrarum tenui distantia fine"
+  },
+  {
+    "id": "p-bf99d7",
+    "offset": 36891,
+    "text": "coniungit superis? ubi Taenara tristia vasto"
+  },
+  {
+    "id": "p-8f34d1",
+    "offset": 36937,
+    "text": "in praeceps deiecta chao, latebrosus et ille"
+  },
+  {
+    "id": "p-719d46",
+    "offset": 36983,
+    "text": "amnis inexpletis volvens incendia ripis?"
+  },
+  {
+    "id": "p-37d570",
+    "offset": 37025,
+    "text": "ante fores tumuli, quas saxa inmania duro"
+  },
+  {
+    "id": "p-c05681",
+    "offset": 37068,
+    "text": "obice damnarant scopulis substructa cavatis,"
+  },
+  {
+    "id": "p-a13d31",
+    "offset": 37114,
+    "text": "stat Dominus nomenque ciet frigentis amici,"
+  },
+  {
+    "id": "p-fc6997",
+    "offset": 37159,
+    "text": "nec mora, funereus revolutis rupibus horror"
+  },
+  {
+    "id": "p-373175",
+    "offset": 37204,
+    "text": "evomit exequias gradiente cadavere vivas,"
+  },
+  {
+    "id": "p-b5f0c6",
+    "offset": 37247,
+    "text": "solvite iam laetae redolentia vincla, sorores,"
+  },
+  {
+    "id": "p-9ba8ad",
+    "offset": 37295,
+    "text": "solus odor sparsi spiramen aromatis efflat,"
+  },
+  {
+    "id": "p-8a1975",
+    "offset": 37340,
+    "text": "nec de corporeo nidorem sordida tabo"
+  },
+  {
+    "id": "p-8524c3",
+    "offset": 37378,
+    "text": "aura refert, oculos sanie stillante solutos"
+  },
+  {
+    "id": "p-3a8598",
+    "offset": 37423,
+    "text": "pristinus in speculum decor excitat, et putrefactas"
+  },
+  {
+    "id": "p-1c072a",
+    "offset": 37476,
+    "text": "tincta rubore genas paulatim purpura vestit,"
+  },
+  {
+    "id": "p-82ee3e",
+    "offset": 37522,
+    "text": "quis potuit fluidis animam suffundere membris?"
+  },
+  {
+    "id": "p-f23865",
+    "offset": 37570,
+    "text": "nimirum qui membra dedit, qui fictilis ulvae"
+  },
+  {
+    "id": "p-195d1c",
+    "offset": 37616,
+    "text": "perflavit venam madidam, cui tabida glaeba"
+  },
+  {
+    "id": "p-cd3ad3",
+    "offset": 37660,
+    "text": "traxit sanguineos infecto umore colores."
+  },
+  {
+    "id": "p-466fc5",
+    "offset": 37702,
+    "text": "o mors auritis iam mitis legibus, o mors"
+  },
+  {
+    "id": "p-359a20",
+    "offset": 37744,
+    "text": "surda prius, iam docta sequi quodcumque iubetur,"
+  },
+  {
+    "id": "p-80201d",
+    "offset": 37794,
+    "text": "cui tantum de te licuit? convicta fatere"
+  },
+  {
+    "id": "p-a02eb3",
+    "offset": 37836,
+    "text": "esse Deum, solus qui me tibi praeripit, Iesum."
+  },
+  {
+    "id": "p-53efdd",
+    "offset": 37884,
+    "text": "abde negatores Christi, nemo invidet, abde;"
+  },
+  {
+    "id": "p-5294ee",
+    "offset": 37929,
+    "text": "utere sorte tua blasphemis nocte tenendis"
+  },
+  {
+    "id": "p-743893",
+    "offset": 37972,
+    "text": "perpetua, plebem iustorum capta resolve,"
+  },
+  {
+    "id": "p-564166",
+    "offset": 38014,
+    "text": "qui norunt hominem atque Deum sic dicere Christum"
+  },
+  {
+    "id": "p-531886",
+    "offset": 38065,
+    "text": "ut verus summusque Deus mortalia gestet."
+  },
+  {
+    "id": "p-43c9e1",
+    "offset": 38107,
+    "text": "ipse gerit quod struxit opus, nec ferre pudescit"
+  },
+  {
+    "id": "p-d0558d",
+    "offset": 38157,
+    "text": "factor quod peperit, corpus loquor atque animae vim."
+  },
+  {
+    "id": "p-754ea4",
+    "offset": 38211,
+    "text": "finxerat hoc digitis, animam sufflaverat ore."
+  },
+  {
+    "id": "p-153aa6",
+    "offset": 38258,
+    "text": "totum hominem Deus adsumit, quia totus ab ipso est,"
+  },
+  {
+    "id": "p-84f6ad",
+    "offset": 38311,
+    "text": "et totum redimit quem sumpserat, omne reducens,"
+  },
+  {
+    "id": "p-7904e3",
+    "offset": 38360,
+    "text": "quidquid homo est, istud tumulis, ast illud abysso."
+  },
+  {
+    "id": "p-5e74ae",
+    "offset": 38413,
+    "text": "Occurrit dubitans hic dissertator et illud"
+  },
+  {
+    "id": "p-94bd97",
+    "offset": 38457,
+    "text": "obicit, anne fides capit ut substantia flante"
+  },
+  {
+    "id": "p-c4dfa7",
+    "offset": 38504,
+    "text": "inspirata Deo cruciatum sentiat, utque"
+  },
+  {
+    "id": "p-92d477",
+    "offset": 38544,
+    "text": "inferni petat ima poli barathroque coquatur?"
+  },
+  {
+    "id": "p-2909b3",
+    "offset": 38590,
+    "text": "crede animam non esse Deum, sed crede creatis"
+  },
+  {
+    "id": "p-2669af",
+    "offset": 38637,
+    "text": "maiorem cunctis, ipsam quoque crede creatam,"
+  },
+  {
+    "id": "p-8780a9",
+    "offset": 38683,
+    "text": "formata est namque ore Dei, quae non erat ante,"
+  },
+  {
+    "id": "p-1f11a1",
+    "offset": 38732,
+    "text": "sed formata habitu pulcherrima pictaque rebus"
+  },
+  {
+    "id": "p-77c101",
+    "offset": 38779,
+    "text": "divinis, et plena Deo similisque creanti,"
+  },
+  {
+    "id": "p-f53125",
+    "offset": 38822,
+    "text": "non tamen ipsa Deus, quoniam generatio non est,"
+  },
+  {
+    "id": "p-6c0154",
+    "offset": 38871,
+    "text": "sed factura Dei est; solus de corde Parentis"
+  },
+  {
+    "id": "p-f4348e",
+    "offset": 38917,
+    "text": "Filius emicuit; verus, verus 1 Deus ille."
+  },
+  {
+    "id": "p-5b3c28",
+    "offset": 38960,
+    "text": "conlatum est animae, subito ut, quae non erat, esset."
+  },
+  {
+    "id": "p-325a2a",
+    "offset": 39015,
+    "text": "ille coaeternus Patris est et semper in ipso,"
+  },
+  {
+    "id": "p-b2e874",
+    "offset": 39062,
+    "text": "nec factus sed natus habet quodcumque paternum est,"
+  },
+  {
+    "id": "p-406385",
+    "offset": 39115,
+    "text": "haec similis velut umbra Dei est. sic ipse locutus"
+  },
+  {
+    "id": "p-e51661",
+    "offset": 39167,
+    "text": "factor, utroque hominem meditans de Agmine iunctim"
+  },
+  {
+    "id": "p-73f14b",
+    "offset": 39219,
+    "text": "aedificare sui similem; sed non habet umbra"
+  },
+  {
+    "id": "p-f6850f",
+    "offset": 39264,
+    "text": "quod corpus solidum, cuius imitatio in umbra est,"
+  },
+  {
+    "id": "p-8ac172",
+    "offset": 39315,
+    "text": "atque aliud verum est, aliud simulatio veri."
+  },
+  {
+    "id": "p-bebed4",
+    "offset": 39361,
+    "text": "est similis saeclis quod non consumitur ullis,"
+  },
+  {
+    "id": "p-e77265",
+    "offset": 39409,
+    "text": "quod sapiens iustique capax reginaque rerum"
+  },
+  {
+    "id": "p-d863ba",
+    "offset": 39454,
+    "text": "imperat, ante videt, perpendit, praecavet, infit,"
+  },
+  {
+    "id": "p-caf112",
+    "offset": 39505,
+    "text": "verborum morumque opifex instructaque mille"
+  },
+  {
+    "id": "p-38d182",
+    "offset": 39550,
+    "text": "artibus et caelum sensu percurrere docta,"
+  },
+  {
+    "id": "p-f3fe19",
+    "offset": 39593,
+    "text": "his animam similem sibi conditor effigiavit,"
+  },
+  {
+    "id": "p-3148df",
+    "offset": 39639,
+    "text": "cetera dissimilem: quippe hanc conprendere promptum est,"
+  },
+  {
+    "id": "p-4264c6",
+    "offset": 39697,
+    "text": "quam modus et species determinat, at Deus ingens"
+  },
+  {
+    "id": "p-1f1ac0",
+    "offset": 39747,
+    "text": "atque superfusus trans omnia nil habet in se"
+  },
+  {
+    "id": "p-d99b48",
+    "offset": 39793,
+    "text": "extremum, ut claudi valeat sensuve teneri,"
+  },
+  {
+    "id": "p-05d912",
+    "offset": 39837,
+    "text": "inconprensa manet virtus, cui linea defit ultima,"
+  },
+  {
+    "id": "p-27c352",
+    "offset": 39888,
+    "text": "quam spatium non mensurabile tendit,"
+  },
+  {
+    "id": "p-9126c4",
+    "offset": 39926,
+    "text": "ergo animam factam, magno et factore minorem"
+  },
+  {
+    "id": "p-8b85c7",
+    "offset": 39972,
+    "text": "maioremque aliis atque omnibus imperitantem,"
+  },
+  {
+    "id": "p-83f14d",
+    "offset": 40018,
+    "text": "corruptela putris nascentem turbida carnis"
+  },
+  {
+    "id": "p-2f7934",
+    "offset": 40062,
+    "text": "concipit, ac membris tabentibus interfusam"
+  },
+  {
+    "id": "p-cea4dd",
+    "offset": 40106,
+    "text": "participat de faece sua; fit mixta deinde"
+  },
+  {
+    "id": "p-15f928",
+    "offset": 40149,
+    "text": "peccandi natura luto cum simplice flatu,"
+  },
+  {
+    "id": "p-a237f6",
+    "offset": 40191,
+    "text": "sed fortasse animam, Domini quia fluxit ab ore,"
+  },
+  {
+    "id": "p-f9802d",
+    "offset": 40240,
+    "text": "conpositam factamque neges, velut ipsa Dei pars,"
+  },
+  {
+    "id": "p-b45f9c",
+    "offset": 40290,
+    "text": "quod dictu scelus est, taetras trahat oblita culpas"
+  },
+  {
+    "id": "p-38022a",
+    "offset": 40343,
+    "text": "et pessum damnata ruens chaos intret opertum,"
+  },
+  {
+    "id": "p-a9b8e1",
+    "offset": 40390,
+    "text": "sit res illa Dei, non abnuo; pars tamen illa"
+  },
+  {
+    "id": "p-8c00d9",
+    "offset": 40436,
+    "text": "haudquaquam dicenda Dei est, quae tempore coepit,"
+  },
+  {
+    "id": "p-7b715b",
+    "offset": 40487,
+    "text": "nec prior aut senior quam primum plasma putanda est."
+  },
+  {
+    "id": "p-4ddc2d",
+    "offset": 40541,
+    "text": "tunc etenim factam video, cum cordis amici"
+  },
+  {
+    "id": "p-aa831b",
+    "offset": 40585,
+    "text": "intravit germana domum limique recentis"
+  },
+  {
+    "id": "p-dc820c",
+    "offset": 40626,
+    "text": "hospita et ipsa recens fraterna sedit in aula."
+  },
+  {
+    "id": "p-9c9ae3",
+    "offset": 40674,
+    "text": "illa quidem flatus Domini est, sed spiritus et vis"
+  },
+  {
+    "id": "p-2cfce7",
+    "offset": 40726,
+    "text": "non est plena Dei, tanto moderamine missa"
+  },
+  {
+    "id": "p-b7820d",
+    "offset": 40769,
+    "text": "quanto flans voluit flandi servare tenorem."
+  },
+  {
+    "id": "p-030e20",
+    "offset": 40814,
+    "text": "est inpossibile spectare profunda Sabaoth,"
+  },
+  {
+    "id": "p-ebeed7",
+    "offset": 40858,
+    "text": "sed speculum Deitatis homo est: in corpore discas"
+  },
+  {
+    "id": "p-185f80",
+    "offset": 40909,
+    "text": "rem non corpoream sollers interprete Christo"
+  },
+  {
+    "id": "p-350450",
+    "offset": 40955,
+    "text": "qui Patrem proprium mortali in corpore monstrat,"
+  },
+  {
+    "id": "p-5f08e5",
+    "offset": 41005,
+    "text": "perspice quam varios fundamus ab ore vapores,"
+  },
+  {
+    "id": "p-7d1b74",
+    "offset": 41052,
+    "text": "spiramus quotiens animae sufflabilis auras,"
+  },
+  {
+    "id": "p-2a1199",
+    "offset": 41097,
+    "text": "nunc flatum tepidum calor exhalatus anhelat,"
+  },
+  {
+    "id": "p-e61f1a",
+    "offset": 41143,
+    "text": "rorantes nebulas udis de faucibus efflans;"
+  },
+  {
+    "id": "p-3ed321",
+    "offset": 41187,
+    "text": "cum libet, in gelidum flabrali frigore ventum"
+  },
+  {
+    "id": "p-a8e963",
+    "offset": 41234,
+    "text": "spiritus existit tenuis et sibilat aer."
+  },
+  {
+    "id": "p-298eee",
+    "offset": 41275,
+    "text": "adde et distinctum quem musica tibia flatum"
+  },
+  {
+    "id": "p-8bae3b",
+    "offset": 41320,
+    "text": "concipit: aut ille est presso modulamine parcus,"
+  },
+  {
+    "id": "p-ab9f3e",
+    "offset": 41370,
+    "text": "aut tumidum largo sublimat flamine bombum,"
+  },
+  {
+    "id": "p-8fcb9e",
+    "offset": 41414,
+    "text": "aut raucos frangit modulos, aut lene susurrat,"
+  },
+  {
+    "id": "p-d8b061",
+    "offset": 41462,
+    "text": "aut exile trahens sonitus producit acutos,"
+  },
+  {
+    "id": "p-e06ba7",
+    "offset": 41506,
+    "text": "aut murmur tenerum sublidit voce minuta,"
+  },
+  {
+    "id": "p-a170f3",
+    "offset": 41548,
+    "text": "haec cum te videas mortali in corpore posse,"
+  },
+  {
+    "id": "p-bb035f",
+    "offset": 41594,
+    "text": "cur non aeternum potuisse infundere credas"
+  },
+  {
+    "id": "p-e0dbd5",
+    "offset": 41638,
+    "text": "qualem animam voluit? praescriptis quam quia condens"
+  },
+  {
+    "id": "p-3334d5",
+    "offset": 41692,
+    "text": "efflavit fuditque modis, sit facta necesse est."
+  },
+  {
+    "id": "p-fca6a4",
+    "offset": 41741,
+    "text": "denique multa sapit, sed non sapit omnia nostrae"
+  },
+  {
+    "id": "p-0842ad",
+    "offset": 41791,
+    "text": "vis animae, certum sapere ac praenoscere iussa."
+  },
+  {
+    "id": "p-af5e67",
+    "offset": 41840,
+    "text": "iam cui certus inest modus et cui nosse negatum est"
+  },
+  {
+    "id": "p-f22c52",
+    "offset": 41893,
+    "text": "omnia, factura est; nam condita et aucta probatur,"
+  },
+  {
+    "id": "p-06d5d2",
+    "offset": 41945,
+    "text": "collige de simili, sitne haec factura, creavit"
+  },
+  {
+    "id": "p-6226e0",
+    "offset": 41993,
+    "text": "nempe manus Domini corpus mortale lutumque"
+  },
+  {
+    "id": "p-a338ef",
+    "offset": 42037,
+    "text": "conposuit digitis, numquid manus articulatim"
+  },
+  {
+    "id": "p-b48a31",
+    "offset": 42083,
+    "text": "est digesta Dei? numquid vola? numquid et ungues"
+  },
+  {
+    "id": "p-ebb994",
+    "offset": 42133,
+    "text": "claudere flexibiles patulam seu tendere palmam?"
+  },
+  {
+    "id": "p-c8e11b",
+    "offset": 42182,
+    "text": "ista figura manus nostrae est, quam non habet in se"
+  },
+  {
+    "id": "p-af459c",
+    "offset": 42235,
+    "text": "incircumscriptus Dominus; sed tradita forma est"
+  },
+  {
+    "id": "p-37fe43",
+    "offset": 42284,
+    "text": "humanis quae nota animis daret intellectum, 1"
+  },
+  {
+    "id": "p-4820bd",
+    "offset": 42331,
+    "text": "ut per corpoream speciem plasmasse feratur"
+  },
+  {
+    "id": "p-d0cc8f",
+    "offset": 42375,
+    "text": "corporis effigiem. 1 sic est plasmata vicissim"
+  },
+  {
+    "id": "p-cbb1cc",
+    "offset": 42423,
+    "text": "flatu incorporeo res flabilis, oris et esse"
+  },
+  {
+    "id": "p-98b134",
+    "offset": 42468,
+    "text": "fertur opus, tenuis per quod constructa refulsit"
+  },
+  {
+    "id": "p-929833",
+    "offset": 42518,
+    "text": "forma animae atque rudi factam se munere sensit."
+  },
+  {
+    "id": "p-118505",
+    "offset": 42568,
+    "text": "si non est factura manus caro nostra, nec oris"
+  },
+  {
+    "id": "p-585d7d",
+    "offset": 42616,
+    "text": "est factura anima, flatu et spiramine coepta"
+  },
+  {
+    "id": "p-726704",
+    "offset": 42662,
+    "text": "inque locum deducta aliquem; namque omne quod hora"
+  },
+  {
+    "id": "p-ef6f55",
+    "offset": 42714,
+    "text": "natalis profert, locus accipit; et locus ullus"
+  },
+  {
+    "id": "p-dda209",
+    "offset": 42762,
+    "text": "quod cohibere potest, modicum est, nec in omnia fusum;"
+  },
+  {
+    "id": "p-96a31a",
+    "offset": 42818,
+    "text": "et quod tam modicum est ut certa sede locetur"
+  },
+  {
+    "id": "p-6a1a80",
+    "offset": 42865,
+    "text": "iam titubare potest; et quod titubaverit intra"
+  },
+  {
+    "id": "p-e6bd60",
+    "offset": 42913,
+    "text": "naturam vitii est; vitiosum denique tristem"
+  },
+  {
+    "id": "p-bb5017",
+    "offset": 42958,
+    "text": "reccidit in poenam: Deus hoc, mihi credite, non est."
+  },
+  {
+    "id": "p-3d4f9d",
+    "offset": 43012,
+    "text": "aut, si maiestas animae est, ostendite quid sit"
+  },
+  {
+    "id": "p-2d0b6e",
+    "offset": 43061,
+    "text": "quod lapsam Christique inopem nova gratia inundat,"
+  },
+  {
+    "id": "p-dc4c1b",
+    "offset": 43113,
+    "text": "Spiritus et Sanctus baptismate iustificatam"
+  },
+  {
+    "id": "p-56233f",
+    "offset": 43158,
+    "text": "nobilitat, famulaeque decus, quod defuit, addit,"
+  },
+  {
+    "id": "p-31dbff",
+    "offset": 43208,
+    "text": "quod quia praestatur meritis mentisque negatur,"
+  },
+  {
+    "id": "p-2f7200",
+    "offset": 43257,
+    "text": "absurde fertur Deus aut pars esse Dei, quae"
+  },
+  {
+    "id": "p-67704a",
+    "offset": 43302,
+    "text": "divinum summumque bonum de fonte perenni"
+  },
+  {
+    "id": "p-25f57e",
+    "offset": 43344,
+    "text": "nunc bibit obsequio, nunc culpa aut crimine perdit,"
+  },
+  {
+    "id": "p-60f1e2",
+    "offset": 43397,
+    "text": "et modo supplicium recipit, modo libera calcat,"
+  },
+  {
+    "id": "p-273e52",
+    "offset": 43446,
+    "text": "miraris peccare animam, quae carne coactam"
+  },
+  {
+    "id": "p-2f2756",
+    "offset": 43490,
+    "text": "sortita est habitare domum, cum peccet et ipse"
+  },
+  {
+    "id": "p-1dac00",
+    "offset": 43538,
+    "text": "angelus, hospitium qui nescit adire caducum"
+  },
+  {
+    "id": "p-f1739c",
+    "offset": 43583,
+    "text": "cratis tabifluae? peccat quia factus et ipse est,"
+  },
+  {
+    "id": "p-4d2b3e",
+    "offset": 43634,
+    "text": "non genitus: quocumque modo sit factus, id unus"
+  },
+  {
+    "id": "p-aed9d7",
+    "offset": 43683,
+    "text": "scit factor Dominus: factum mihi credere sat sit."
+  },
+  {
+    "id": "p-eb6780",
+    "offset": 43734,
+    "text": "solus labe caret peccati conditor orbis,"
+  },
+  {
+    "id": "p-c1d77d",
+    "offset": 43776,
+    "text": "ingenitus 1 genitusque Deus, Pater et Patre natus,"
+  },
+  {
+    "id": "p-248917",
+    "offset": 43828,
+    "text": "solus et exceptus tormentum admittere triste"
+  },
+  {
+    "id": "p-aede79",
+    "offset": 43874,
+    "text": "inviolatus agit, nec quidquam sentit acerbi,"
+  },
+  {
+    "id": "p-cd6ddb",
+    "offset": 43920,
+    "text": "exsortem dic esse animam crucis atque doloris,"
+  },
+  {
+    "id": "p-9cf96c",
+    "offset": 43968,
+    "text": "si culpae inmunem vacuamque a crimine nosti,"
+  },
+  {
+    "id": "p-23a4d6",
+    "offset": 44014,
+    "text": "quae peccare valet, valet et succumbere poenae."
+  },
+  {
+    "id": "p-e28525",
+    "offset": 44063,
+    "text": "ipsa quidem sincera fuit dum conditur olim,"
+  },
+  {
+    "id": "p-9e8e1f",
+    "offset": 44108,
+    "text": "quae collata rudem fecit viviscere limum,"
+  },
+  {
+    "id": "p-b01d18",
+    "offset": 44151,
+    "text": "utpote de liquido naturae semine primos"
+  },
+  {
+    "id": "p-6a00c9",
+    "offset": 44192,
+    "text": "accipiens habitus superoque expressa sereno,"
+  },
+  {
+    "id": "p-c18629",
+    "offset": 44238,
+    "text": "sed mox, ut gravido iussa est innectier arvo,"
+  },
+  {
+    "id": "p-e967ab",
+    "offset": 44285,
+    "text": "suavibus inlecebris nimium blandita refrixit"
+  },
+  {
+    "id": "p-a881a6",
+    "offset": 44331,
+    "text": "deque volutabris pretiosum polluit ignem,"
+  },
+  {
+    "id": "p-604e03",
+    "offset": 44374,
+    "text": "dum transgressa Dei positum fas inproba calcat,"
+  },
+  {
+    "id": "p-26cbd9",
+    "offset": 44423,
+    "text": "haec prima est natura animae, sic condita simplex"
+  },
+  {
+    "id": "p-c6fd26",
+    "offset": 44474,
+    "text": "decidit in vitium per sordida foedera carnis,"
+  },
+  {
+    "id": "p-d97e56",
+    "offset": 44521,
+    "text": "exim tincta malo peccamine principis Adae"
+  },
+  {
+    "id": "p-da4aa3",
+    "offset": 44564,
+    "text": "infecit genus omne hominum quod pullulat inde,"
+  },
+  {
+    "id": "p-110ed0",
+    "offset": 44612,
+    "text": "et tenet ingenitas animarum infantia in ortu"
+  },
+  {
+    "id": "p-83a884",
+    "offset": 44658,
+    "text": "primi hominis maculas, nec quisquam nascitur insons."
+  },
+  {
+    "id": "p-bd561a",
+    "offset": 44712,
+    "text": "vitandus tamen error erit, ne traduce carnis"
+  },
+  {
+    "id": "p-a29fc8",
+    "offset": 44758,
+    "text": "transfundi in subolem credatur fons animarum"
+  },
+  {
+    "id": "p-8e1656",
+    "offset": 44804,
+    "text": "sanguinis exemplo, cui texta propagine vena est."
+  },
+  {
+    "id": "p-e1b700",
+    "offset": 44854,
+    "text": "non animas animae pariunt, sed lege latent!"
+  },
+  {
+    "id": "p-1d0cdd",
+    "offset": 44899,
+    "text": "fundit opus natura suum, quo parvula anhelent"
+  },
+  {
+    "id": "p-76c467",
+    "offset": 44946,
+    "text": "vaseula vitalisque adsit scintilla coactis."
+  },
+  {
+    "id": "p-a2d73f",
+    "offset": 44991,
+    "text": "quae quamvis infusa novum penetret nova semper"
+  },
+  {
+    "id": "p-34ba4d",
+    "offset": 45039,
+    "text": "figmentum, vetus illa tamen de crimine avorum"
+  },
+  {
+    "id": "p-40749b",
+    "offset": 45086,
+    "text": "dicitur, inloto quoniam concreta veterno est."
+  },
+  {
+    "id": "p-fc41da",
+    "offset": 45133,
+    "text": "inde secunda redit generatio et inde lavatur"
+  },
+  {
+    "id": "p-2c2c01",
+    "offset": 45179,
+    "text": "naturae inluvies, iterumque renaseimur intus"
+  },
+  {
+    "id": "p-dd2006",
+    "offset": 45225,
+    "text": "perfusi, ut veterem splendens anima exuat Adam."
+  },
+  {
+    "id": "p-70ae18",
+    "offset": 45274,
+    "text": "quae quia materiam peccati ex fomite carnis"
+  },
+  {
+    "id": "p-1e731f",
+    "offset": 45319,
+    "text": "consociata trahit, nec non simul ipsa sodali"
+  },
+  {
+    "id": "p-33205b",
+    "offset": 45365,
+    "text": "est incentivum peccaminis, inplicat ambas"
+  },
+  {
+    "id": "p-96fda3",
+    "offset": 45408,
+    "text": "vindex poena reas peccantes mente sub una,"
+  },
+  {
+    "id": "p-86d9a0",
+    "offset": 45452,
+    "text": "peccandique cremat socias cruciatibus aequis,"
+  },
+  {
+    "id": "p-dba9de",
+    "offset": 45499,
+    "text": "his crucibus Christus nos liberat incorruptae"
+  },
+  {
+    "id": "p-7584c5",
+    "offset": 45546,
+    "text": "matris et innocui gestator corporis unus."
+  },
+  {
+    "id": "p-be3bc2",
+    "offset": 45589,
+    "text": "naturam poenae expositam, sed non vitiorum"
+  },
+  {
+    "id": "p-a8eecd",
+    "offset": 45633,
+    "text": "naturam expositam contactibus induit Iesus,"
+  },
+  {
+    "id": "p-93e04e",
+    "offset": 45678,
+    "text": "atque ideo poenae nil debuit intemeratus,"
+  },
+  {
+    "id": "p-b90709",
+    "offset": 45721,
+    "text": "fraude carens, omni culparum aspergine liber.1"
+  },
+  {
+    "id": "p-1fe369",
+    "offset": 45769,
+    "text": "quid Christi in membris peccati saeva satelles"
+  },
+  {
+    "id": "p-4c69a4",
+    "offset": 45817,
+    "text": "poena ageret? quid mors hominis sine crimine posset?"
+  },
+  {
+    "id": "p-be21c9",
+    "offset": 45871,
+    "text": "nimirum cassis conatibus et sine nervis"
+  },
+  {
+    "id": "p-e580e6",
+    "offset": 45912,
+    "text": "conciderent steriles peccati fomite nullo."
+  },
+  {
+    "id": "p-9339e5",
+    "offset": 45956,
+    "text": "mors alitur culpa; culpam qui non habet, ipso"
+  },
+  {
+    "id": "p-0061e2",
+    "offset": 46003,
+    "text": "pastus defectu mortem consumit inanem."
+  },
+  {
+    "id": "p-259e2c",
+    "offset": 46043,
+    "text": "sie mors in Domini consumpta est corpore Christi,"
+  },
+  {
+    "id": "p-39bd9d",
+    "offset": 46094,
+    "text": "sic periit, solitum dum non habet arida pastum."
+  },
+  {
+    "id": "p-9a270e",
+    "offset": 46143,
+    "text": "suspice quapropter solum inculpabile numen,"
+  },
+  {
+    "id": "p-5caca9",
+    "offset": 46188,
+    "text": "virtutem 1 Patris et Christi, et iam desine nostrae"
+  },
+  {
+    "id": "p-17d74c",
+    "offset": 46241,
+    "text": "invidiam conflare animae, quod sit Deus aut quod"
+  },
+  {
+    "id": "p-716ea3",
+    "offset": 46291,
+    "text": "portio parva Dei, cum Christo abscidere quidquam"
+  },
+  {
+    "id": "p-ec1d51",
+    "offset": 46341,
+    "text": "et resecare Deo partem vel carpere tantum"
+  },
+  {
+    "id": "p-b31839",
+    "offset": 46384,
+    "text": "numen non liceat, plenum sibi semper et in se."
+  },
+  {
+    "id": "p-7ff696",
+    "offset": 46432,
+    "text": "Est operae pretium nebulosi dogmatis umbram"
+  },
+  {
+    "id": "p-cbc954",
+    "offset": 46477,
+    "text": "prodere, quam tenues atomi conpage minuta"
+  },
+  {
+    "id": "p-ad4dc6",
+    "offset": 46520,
+    "text": "instituunt, sed cassa cadit ventoque liquescit"
+  },
+  {
+    "id": "p-c1cea4",
+    "offset": 46568,
+    "text": "adsimilis, fluxu nec se sustentat inani."
+  },
+  {
+    "id": "p-14a94a",
+    "offset": 46610,
+    "text": "aërium Manichacus ait sine corpore vero"
+  },
+  {
+    "id": "p-61567c",
+    "offset": 46651,
+    "text": "pervolitasse Deum, mendax phantasma cavamque"
+  },
+  {
+    "id": "p-049906",
+    "offset": 46697,
+    "text": "corporis effigiem, nil contrectabile habentem,"
+  },
+  {
+    "id": "p-727fd2",
+    "offset": 46745,
+    "text": "ac primum specta an deceat quidquam simulatum"
+  },
+  {
+    "id": "p-148b81",
+    "offset": 46792,
+    "text": "adsignare Deo, cuius mera gloria falsi"
+  },
+  {
+    "id": "p-dc808e",
+    "offset": 46832,
+    "text": "nil recipit, membris hic se fallacibus aptans"
+  },
+  {
+    "id": "p-1b8b46",
+    "offset": 46879,
+    "text": "fingeret esse hominem ventosa subdolus arte,"
+  },
+  {
+    "id": "p-ad6b38",
+    "offset": 46925,
+    "text": "mentitus totiens, cum diceret ‘inveteratis"
+  },
+  {
+    "id": "p-1769d7",
+    "offset": 46969,
+    "text": "do veniam morbis, simul et peccata remitto:"
+  },
+  {
+    "id": "p-7e23eb",
+    "offset": 47014,
+    "text": "Filius est hominis, pestem qui pellere carnis"
+  },
+  {
+    "id": "p-9f3835",
+    "offset": 47061,
+    "text": "et scelerum nexus laxare ac solvere possit:"
+  },
+  {
+    "id": "p-2d1da3",
+    "offset": 47106,
+    "text": "surge valens, surge innocuus, iam tolle grabatum:"
+  },
+  {
+    "id": "p-55dcfe",
+    "offset": 47157,
+    "text": "Filius hoc hominis iubeo?’ dignusne videtur"
+  },
+  {
+    "id": "p-e7e6bf",
+    "offset": 47202,
+    "text": "qui testis sibi sit seque ac sua carnea norit?"
+  },
+  {
+    "id": "p-34691b",
+    "offset": 47250,
+    "text": "quid? cum discipulos, hominis quid Filius esset"
+  },
+  {
+    "id": "p-218ab9",
+    "offset": 47299,
+    "text": "passurus, fido iam praescius ore monebat,"
+  },
+  {
+    "id": "p-f075aa",
+    "offset": 47342,
+    "text": "nonne fatebatur se cum virtute paterna"
+  },
+  {
+    "id": "p-115d88",
+    "offset": 47382,
+    "text": "esse hominem verum? quod si non credo, fefellit,"
+  },
+  {
+    "id": "p-b9ccae",
+    "offset": 47432,
+    "text": "si natura Dei quae sit, Manichaee, requiris,"
+  },
+  {
+    "id": "p-f91786",
+    "offset": 47478,
+    "text": "omne quod est, verum est. nam si mendosus agit quid,"
+  },
+  {
+    "id": "p-e92515",
+    "offset": 47532,
+    "text": "nec Deus est: mendum divinus non capit usus."
+  },
+  {
+    "id": "p-d7cdac",
+    "offset": 47578,
+    "text": "obicis aeterno Domino quod lubricus ad nos"
+  },
+  {
+    "id": "p-df9310",
+    "offset": 47622,
+    "text": "venerit, adsimulans aliud quam verus habebat,"
+  },
+  {
+    "id": "p-410301",
+    "offset": 47669,
+    "text": "obmutesce, furor; linguam, canis inprobe, morde"
+  },
+  {
+    "id": "p-9ac9d1",
+    "offset": 47718,
+    "text": "ipse tuam, lacero consumens verba palato."
+  },
+  {
+    "id": "p-2f83d5",
+    "offset": 47761,
+    "text": "latranti obsistit Mattheus rabiemque refellit,"
+  },
+  {
+    "id": "p-dbf6a4",
+    "offset": 47809,
+    "text": "qui notat omne genus carnalis stirpis ad usque"
+  },
+  {
+    "id": "p-d435bd",
+    "offset": 47857,
+    "text": "corporeum Christum, per sex septena virorum"
+  },
+  {
+    "id": "p-25d9b4",
+    "offset": 47902,
+    "text": "nomina descendens et venam sanguinis alti"
+  },
+  {
+    "id": "p-4628e6",
+    "offset": 47945,
+    "text": "ex atavis longo texens per stemmata filo."
+  },
+  {
+    "id": "p-3c8e14",
+    "offset": 47988,
+    "text": "septimus hebdomadi venit superaddere sextae"
+  },
+  {
+    "id": "p-cbbdd0",
+    "offset": 48033,
+    "text": "hunc numerum Christus, placidum qui conficit annum"
+  },
+  {
+    "id": "p-949ef3",
+    "offset": 48085,
+    "text": "cuncta remittentem contractibus inlaqueata"
+  },
+  {
+    "id": "p-b45426",
+    "offset": 48129,
+    "text": "multimodis, hominemque hominis de morte levantem,"
+  },
+  {
+    "id": "p-feeb96",
+    "offset": 48180,
+    "text": "inperfectus enim limus mortalis erat tunc:"
+  },
+  {
+    "id": "p-14eb1d",
+    "offset": 48224,
+    "text": "vir solus perfectus adest atque integer Iesus,"
+  },
+  {
+    "id": "p-379c91",
+    "offset": 48272,
+    "text": "cui nihil ex septem septenis defuit, ex quo"
+  },
+  {
+    "id": "p-e4a4e3",
+    "offset": 48317,
+    "text": "perficeret mortale genus virtute perenni."
+  },
+  {
+    "id": "p-275035",
+    "offset": 48360,
+    "text": "hic ille est nobis qui septima sabbata conplet,"
+  },
+  {
+    "id": "p-acf5c3",
+    "offset": 48409,
+    "text": "ut caro nostra Deo tandem sociata quiescat,"
+  },
+  {
+    "id": "p-53d6d1",
+    "offset": 48454,
+    "text": "quam bis terna malis vexabant sabbata noxis."
+  },
+  {
+    "id": "p-7ca4b9",
+    "offset": 48500,
+    "text": "curramus notis gradibus regumque sequamur"
+  },
+  {
+    "id": "p-77871f",
+    "offset": 48543,
+    "text": "progeniem: Christum invenies de carne parentum"
+  },
+  {
+    "id": "p-dcc180",
+    "offset": 48591,
+    "text": "effluxisse hominum, qui sit de semine David,"
+  },
+  {
+    "id": "p-9c10fa",
+    "offset": 48637,
+    "text": "stirpe recensita numerandus sanguinis heres."
+  },
+  {
+    "id": "p-bb16d8",
+    "offset": 48683,
+    "text": "quid? cum sanctiloquus revoluto germine Lucas"
+  },
+  {
+    "id": "p-3de00a",
+    "offset": 48730,
+    "text": "sursum versus agit seriem, scandente nepotis"
+  },
+  {
+    "id": "p-bbf6a7",
+    "offset": 48776,
+    "text": "corpore perque atavos cursum relegente vetustos,"
+  },
+  {
+    "id": "p-da92e7",
+    "offset": 48826,
+    "text": "septenos decies conscendit Christus in ortus"
+  },
+  {
+    "id": "p-551f0e",
+    "offset": 48872,
+    "text": "et duo (nam totidem doctores misit in orbem);"
+  },
+  {
+    "id": "p-688e2f",
+    "offset": 48919,
+    "text": "descensos nascendo gradus redeundo retexit"
+  },
+  {
+    "id": "p-2ce8f7",
+    "offset": 48963,
+    "text": "actus ad usque apicem terreni corporis Adam."
+  },
+  {
+    "id": "p-8e519c",
+    "offset": 49009,
+    "text": "inde parens Deitas recipit sua nostraque mixtim,"
+  },
+  {
+    "id": "p-621231",
+    "offset": 49059,
+    "text": "fitque Dei summi per Christum filius Adam."
+  },
+  {
+    "id": "p-adf46a",
+    "offset": 49103,
+    "text": "restat ut aeriam fingas ab origine gentem,"
+  },
+  {
+    "id": "p-3e7096",
+    "offset": 49147,
+    "text": "aërios proceres, Levi, Iudam, Simeonem,"
+  },
+  {
+    "id": "p-71ff52",
+    "offset": 49188,
+    "text": "aërium David, magnorum corpora regum"
+  },
+  {
+    "id": "p-1a4c10",
+    "offset": 49226,
+    "text": "aëria, atque ipsam fecundae virginis alvum"
+  },
+  {
+    "id": "p-064b35",
+    "offset": 49270,
+    "text": "aëre fallaci nebulisque et nube tumentem;"
+  },
+  {
+    "id": "p-4c8229",
+    "offset": 49313,
+    "text": "vanescat sanguis perflabilis, ossa liquescant"
+  },
+  {
+    "id": "p-a30b17",
+    "offset": 49360,
+    "text": "mollia, nervorum pereat textura volantum;"
+  },
+  {
+    "id": "p-ac1d83",
+    "offset": 49403,
+    "text": "omne quod est gestum notus auferat inritus, aurae"
+  },
+  {
+    "id": "p-2a674a",
+    "offset": 49454,
+    "text": "dispergant tenues, sit fabula quod sumus omnes,"
+  },
+  {
+    "id": "p-38bdd6",
+    "offset": 49503,
+    "text": "et quid agit Christus si me non suscipit? aut quem"
+  },
+  {
+    "id": "p-9acbdf",
+    "offset": 49555,
+    "text": "liberat infirmum si dedignatur adire"
+  },
+  {
+    "id": "p-731016",
+    "offset": 49593,
+    "text": "carnis onus manuumque horret monumenta suarum?"
+  },
+  {
+    "id": "p-4f1c85",
+    "offset": 49641,
+    "text": "indignumne putat luteum consciscere corpus,"
+  },
+  {
+    "id": "p-1f1f86",
+    "offset": 49686,
+    "text": "qui non indignum quondam sibi credidit ipsum"
+  },
+  {
+    "id": "p-7b9d71",
+    "offset": 49732,
+    "text": "pertrectare lutum, cum vas conponeret arvo"
+  },
+  {
+    "id": "p-eb8b66",
+    "offset": 49776,
+    "text": "nondum viscereo, sed inertis glutine limi"
+  },
+  {
+    "id": "p-6e3246",
+    "offset": 49819,
+    "text": "inpressoque putres sub pollice duceret artus?"
+  },
+  {
+    "id": "p-28db0d",
+    "offset": 49866,
+    "text": "tantus amor terrae, tanta est dilectio nostri,"
+  },
+  {
+    "id": "p-12842f",
+    "offset": 49914,
+    "text": "dignatur praepinguis humi conprendere mollem"
+  },
+  {
+    "id": "p-241138",
+    "offset": 49960,
+    "text": "divinis glaebam digitis, nec sordida censet"
+  },
+  {
+    "id": "p-a76463",
+    "offset": 50005,
+    "text": "haerentis massae contagia, iusserat ut lux"
+  },
+  {
+    "id": "p-44b7e7",
+    "offset": 50049,
+    "text": "confieret, facta est ut iusserat; omnia iussu"
+  },
+  {
+    "id": "p-8f7f26",
+    "offset": 50096,
+    "text": "imperitante novas traxerunt edita formas:"
+  },
+  {
+    "id": "p-22d54a",
+    "offset": 50139,
+    "text": "solus homo emeruit Domini formabile dextra"
+  },
+  {
+    "id": "p-aef607",
+    "offset": 50183,
+    "text": "os capere, et fabro Deitatis Agmine nasci,"
+  },
+  {
+    "id": "p-0df5bc",
+    "offset": 50227,
+    "text": "quorsum igitur limo tanta indulgentia nostro"
+  },
+  {
+    "id": "p-3e2689",
+    "offset": 50273,
+    "text": "contigit, ut Domini manibus tractatus honora"
+  },
+  {
+    "id": "p-15496e",
+    "offset": 50319,
+    "text": "arte sacer fieret, tactu iam nobilis ipso?"
+  },
+  {
+    "id": "p-f2fa90",
+    "offset": 50363,
+    "text": "decrerat quoniam Christum Deus incorrupto"
+  },
+  {
+    "id": "p-a539f8",
+    "offset": 50406,
+    "text": "admiscere solo, sanctis quod fingere vellet"
+  },
+  {
+    "id": "p-b8f7c7",
+    "offset": 50451,
+    "text": "dignum habuit digitis et carum condere pignus."
+  },
+  {
+    "id": "p-794005",
+    "offset": 50499,
+    "text": "destituit natura quidem destructa coactae"
+  },
+  {
+    "id": "p-1c138c",
+    "offset": 50542,
+    "text": "telluris formam, mortique obnoxia cessit:"
+  },
+  {
+    "id": "p-d5766c",
+    "offset": 50585,
+    "text": "sed natura Dei numquam solvenda caducam"
+  },
+  {
+    "id": "p-7a1e21",
+    "offset": 50626,
+    "text": "tellurem nostro vitiatam primitus usu"
+  },
+  {
+    "id": "p-b0759e",
+    "offset": 50665,
+    "text": "esse suam voluit, ne iam vitiabilis esset."
+  },
+  {
+    "id": "p-52257b",
+    "offset": 50709,
+    "text": "Christus nostra caro est: mihi solvitur et mihi surgit;"
+  },
+  {
+    "id": "p-5695b4",
+    "offset": 50766,
+    "text": "solvor morte mea, Christi virtute resurgo."
+  },
+  {
+    "id": "p-23fa82",
+    "offset": 50810,
+    "text": "cum moritur Christus, cum flebiliter tumulatur,"
+  },
+  {
+    "id": "p-e912fd",
+    "offset": 50859,
+    "text": "me video: e tumulo cum iam remeabilis adstat,"
+  },
+  {
+    "id": "p-c6ed48",
+    "offset": 50906,
+    "text": "cerno Deum. si membrorum phantasma meorum est,"
+  },
+  {
+    "id": "p-b8979f",
+    "offset": 50954,
+    "text": "et phantasma Dei est; mendax in utroque necesse est"
+  },
+  {
+    "id": "p-836480",
+    "offset": 51007,
+    "text": "sit Christus, specie si Christus fallere novit."
+  },
+  {
+    "id": "p-eceaac",
+    "offset": 51056,
+    "text": "si non verus homo est, quem mors hominem probat ipsa,"
+  },
+  {
+    "id": "p-fabe26",
+    "offset": 51111,
+    "text": "nec verus Deus est, operis quem gloria prodit"
+  },
+  {
+    "id": "p-957c1c",
+    "offset": 51158,
+    "text": "esse Deum. vel crede mori, vel adesse refelle,"
+  },
+  {
+    "id": "p-9fca31",
+    "offset": 51206,
+    "text": "et gemina verum Christum ratione negato."
+  },
+  {
+    "id": "p-072827",
+    "offset": 51248,
+    "text": "nam quid magnificum, si non est mortuus Iesus,"
+  },
+  {
+    "id": "p-92c0b1",
+    "offset": 51296,
+    "text": "et redit? illa Dei virtus memorabilis est, ut"
+  },
+  {
+    "id": "p-f37033",
+    "offset": 51343,
+    "text": "occisus redeat superis surgatque sepultus."
+  },
+  {
+    "id": "p-d7bd00",
+    "offset": 51387,
+    "text": "quisque Deum Christum vult dicere, dicat eundem"
+  },
+  {
+    "id": "p-e99130",
+    "offset": 51436,
+    "text": "esse hominem, ne maiestas sua fortia perdat."
+  },
+  {
+    "id": "p-7a6f77",
+    "offset": 51482,
+    "text": "Nosco meum in Christo corpus consurgere. quid me"
+  },
+  {
+    "id": "p-93d55d",
+    "offset": 51532,
+    "text": "desperare iubes? veniam quibus ille revenit"
+  },
+  {
+    "id": "p-67e135",
+    "offset": 51577,
+    "text": "calcata de morte viis: quod credimus, hoc est."
+  },
+  {
+    "id": "p-7a026f",
+    "offset": 51625,
+    "text": "et totus veniam; nec enim minor aut alius quam"
+  },
+  {
+    "id": "p-0a8eb4",
+    "offset": 51673,
+    "text": "nunc sum restituar. vultus, vigor et color idem,"
+  },
+  {
+    "id": "p-e984dd",
+    "offset": 51723,
+    "text": "qui modo vivit, erit, nec me vel dente vel ungue"
+  },
+  {
+    "id": "p-48b899",
+    "offset": 51773,
+    "text": "fraudatum revomet patefacti fossa sepulcri."
+  },
+  {
+    "id": "p-7194fa",
+    "offset": 51818,
+    "text": "qui iubet ut redeam, non reddet debile quidquam;"
+  },
+  {
+    "id": "p-a7fec1",
+    "offset": 51868,
+    "text": "nam si debilitas redit, instauratio non est."
+  },
+  {
+    "id": "p-b09dac",
+    "offset": 51914,
+    "text": "quod casus rapuit, quod morbus, quod dolor hausit,"
+  },
+  {
+    "id": "p-7282d9",
+    "offset": 51966,
+    "text": "quod truncavit edax senium populante veterno,"
+  },
+  {
+    "id": "p-848924",
+    "offset": 52013,
+    "text": "omne revertenti reparata in membra redibit."
+  },
+  {
+    "id": "p-4960d1",
+    "offset": 52058,
+    "text": "debet enim mors victa fidem, ne fraude sepulcri"
+  },
+  {
+    "id": "p-1f3201",
+    "offset": 52107,
+    "text": "reddat curtum aliquid, quamvis iam curta vorarit"
+  },
+  {
+    "id": "p-7b3e2a",
+    "offset": 52157,
+    "text": "corpora; debilitas tamen et violentia morbi"
+  },
+  {
+    "id": "p-131c23",
+    "offset": 52202,
+    "text": "virtus mortis erat: reddet quod particulatim"
+  },
+  {
+    "id": "p-838661",
+    "offset": 52248,
+    "text": "sorbuerat quocumque modo, ne mortuus omnis"
+  },
+  {
+    "id": "p-602984",
+    "offset": 52292,
+    "text": "non redeat, si quid pleno de corpore desit,"
+  },
+  {
+    "id": "p-4dc4d5",
+    "offset": 52337,
+    "text": "pellite corde metum, mea membra, et credite vosmet"
+  },
+  {
+    "id": "p-638040",
+    "offset": 52389,
+    "text": "cum Christo reditura Deo; nam vos gerit ille"
+  },
+  {
+    "id": "p-9b2b1f",
+    "offset": 52435,
+    "text": "et secum revocat, morbos ridete minaces,"
+  },
+  {
+    "id": "p-ce7d2f",
+    "offset": 52477,
+    "text": "inflictos casus contemnite, taetra sepulcra"
+  },
+  {
+    "id": "p-c58ec9",
+    "offset": 52522,
+    "text": "despuite; exsurgens quo Christus provocat, ite."
+  }
+]

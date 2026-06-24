@@ -1,0 +1,38 @@
+{
+  "work_slug": "julian-hymn-to-king-helios-dedicated-to-4d0608",
+  "work_title": "Hymn to King Helios Dedicated to Sallust",
+  "chapter_number": 1,
+  "chapter_title": "Hymn to King Helios Dedicated to Sallust",
+  "chapter_slug": "01-hymn-to-king-helios-dedicated-to-sallust",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5ca7405d-715d-59ad-8865-ff238ab3622b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7493,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2003.tlg011"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5f2527e0-765e-5fac-a04d-0422e716e757",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9532,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

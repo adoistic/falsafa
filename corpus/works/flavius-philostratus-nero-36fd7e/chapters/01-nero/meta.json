@@ -1,0 +1,38 @@
+{
+  "work_slug": "flavius-philostratus-nero-36fd7e",
+  "work_title": "Nero",
+  "chapter_number": 1,
+  "chapter_title": "Nero",
+  "chapter_slug": "01-nero",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ea5605a4-00cd-53fa-9027-80bd4b4a0b94",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1009,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0638.tlg005"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9380585-e33c-5ac5-865e-c0496e150270",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1388,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

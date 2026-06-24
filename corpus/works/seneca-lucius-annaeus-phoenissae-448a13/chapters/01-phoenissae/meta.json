@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-phoenissae-448a13",
+  "work_title": "Phoenissae",
+  "chapter_number": 1,
+  "chapter_title": "Phoenissae",
+  "chapter_slug": "01-phoenissae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d5fbaf7e-265c-5592-92cb-e8aa97549dbf",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4096,
+      "paragraph_count": 671,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b005d39-c565-5a72-a3bb-330273f2d8d4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6533,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

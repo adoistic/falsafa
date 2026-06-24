@@ -1,0 +1,38 @@
+{
+  "work_slug": "procopius-of-caesarea-history-of-the-wars-77f718",
+  "work_title": "History of the Wars",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07-book-7",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c3729a84-0c23-5261-a930-58970a7ec733",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 35326,
+      "paragraph_count": 1096,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg4029.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "660b6107-5153-53e6-859e-ee5daef12e65",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 45090,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

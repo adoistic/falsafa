@@ -1,0 +1,38 @@
+{
+  "work_slug": "aurelius-prudentius-clem-apotheosis-669c1f",
+  "work_title": "Apotheosis",
+  "chapter_number": 1,
+  "chapter_title": "Apotheosis",
+  "chapter_slug": "01-apotheosis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a73524d2-d0b6-57c0-a322-5dc63d42f1c9",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7431,
+      "paragraph_count": 1153,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0238.stoa005"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5ea38db-ae15-501d-b3d1-74790b93c542",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11547,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "dionysius-of-halicarnass-de-dinarcho-e2ccff",
+  "work_title": "De Dinarcho",
+  "chapter_number": 1,
+  "chapter_title": "De Dinarcho",
+  "chapter_slug": "01-de-dinarcho",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "611d3ef6-c90e-57ed-b15c-6f853491c6c4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4240,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0081.tlg009"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "629ee007-873c-5ddb-8b91-61347423d091",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5746,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

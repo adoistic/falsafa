@@ -1,0 +1,38 @@
+{
+  "work_slug": "dionysius-of-halicarnass-de-thucydidis-idiomatibus-4eed97",
+  "work_title": "De Thucydidis idiomatibus",
+  "chapter_number": 1,
+  "chapter_title": "De Thucydidis idiomatibus",
+  "chapter_slug": "01-de-thucydidis-idiomatibus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0c7b5ae4-937b-5747-843e-d0fc7270bc0d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2628,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0081.tlg011"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "675e6e6c-a24a-5ef8-ad94-86327429390b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3511,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

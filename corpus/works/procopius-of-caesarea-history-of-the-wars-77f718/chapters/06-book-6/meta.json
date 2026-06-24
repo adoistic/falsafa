@@ -1,0 +1,38 @@
+{
+  "work_slug": "procopius-of-caesarea-history-of-the-wars-77f718",
+  "work_title": "History of the Wars",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06-book-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "06d37e67-efff-55f4-ab68-8ea846dee59e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 28015,
+      "paragraph_count": 907,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg4029.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "45264239-c633-571c-ba2a-c5fdbff33ea1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 36190,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-20-7ca572",
+  "work_title": "Orationes 20",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 20",
+  "chapter_slug": "01-orationes-20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2fb7401f-0dcf-53d6-bc2a-30deb112f82f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 729,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg020"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "39dabc80-7fb7-5e64-b7b5-a17121736a77",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1162,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
