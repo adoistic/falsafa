@@ -1,0 +1,38 @@
+{
+  "work_slug": "lycophron-alexandra-052646",
+  "work_title": "Alexandra",
+  "chapter_number": 1,
+  "chapter_title": "Alexandra",
+  "chapter_slug": "01-alexandra",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "db8ac59b-fe63-5c2d-91fa-b6f2e9f37462",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7465,
+      "paragraph_count": 1474,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0341.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e0a348cd-f6d6-5810-b9a6-1ee2d21f9d09",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12093,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

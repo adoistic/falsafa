@@ -1,0 +1,38 @@
+{
+  "work_slug": "philostratus-the-younger-imagines-a60583",
+  "work_title": "Imagines",
+  "chapter_number": 1,
+  "chapter_title": "Imagines",
+  "chapter_slug": "01-imagines",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "65c4b6a5-8880-586b-b594-84848b67a10d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7217,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0652.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d599352d-a0e0-5aa0-9128-be0a97bea953",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9744,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

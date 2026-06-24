@@ -2,8 +2,8 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1713,
-    "authors": 388,
+    "works": 1716,
+    "authors": 391,
     "eras": 10,
     "genres": 23,
     "languages": 9
@@ -32555,6 +32555,63 @@
       "difficulty": "Advanced",
       "description": "Hippocrates's De diaeta acutorum, translated from the Greek by Thothica, with the Greek original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "lycophron-alexandra-052646",
+      "title": "Alexandra",
+      "author": "Lycophron",
+      "author_slug": "lycophron",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Lycophron's Alexandra, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "philostratus-the-younger-imagines-a60583",
+      "title": "Imagines",
+      "author": "Philostratus the Younger",
+      "author_slug": "philostratus-the-younger",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Philostratus the Younger's Imagines, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "theophrastus-characters-1b9122",
+      "title": "Characters",
+      "author": "Theophrastus",
+      "author_slug": "theophrastus",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Theophrastus's Characters, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -36210,6 +36267,24 @@
       "works": [
         "parthenius-of-nicaea-narrationes-amatoriae-ba182d"
       ]
+    },
+    "lycophron": {
+      "name": "Lycophron",
+      "works": [
+        "lycophron-alexandra-052646"
+      ]
+    },
+    "philostratus-the-younger": {
+      "name": "Philostratus the Younger",
+      "works": [
+        "philostratus-the-younger-imagines-a60583"
+      ]
+    },
+    "theophrastus": {
+      "name": "Theophrastus",
+      "works": [
+        "theophrastus-characters-1b9122"
+      ]
     }
   },
   "eras": {
@@ -37347,7 +37422,9 @@
         "cicero-marcus-tullius-on-oratory-6f2b26",
         "aratus-of-soli-phaenomena-765730",
         "asclepiodotus-tactica-1fce6e",
-        "pseudo-caesar-de-bello-hispaniensi-07b165"
+        "pseudo-caesar-de-bello-hispaniensi-07b165",
+        "lycophron-alexandra-052646",
+        "theophrastus-characters-1b9122"
       ]
     },
     "imperial": {
@@ -37814,7 +37891,8 @@
         "apuleius-florida-9f7d41",
         "statius-achilleis-095f27",
         "valerius-maximus-facta-et-dicta-memorabilia-86155b",
-        "parthenius-of-nicaea-narrationes-amatoriae-ba182d"
+        "parthenius-of-nicaea-narrationes-amatoriae-ba182d",
+        "philostratus-the-younger-imagines-a60583"
       ]
     },
     "late-antiquity": {
@@ -38016,7 +38094,8 @@
         "callimachus-hymn-to-zeus-5e3bd2",
         "flavius-philostratus-de-gymnastica-c26e4f",
         "flavius-philostratus-epistulae-et-dialexeis-c7dd8c",
-        "flavius-philostratus-nero-36fd7e"
+        "flavius-philostratus-nero-36fd7e",
+        "philostratus-the-younger-imagines-a60583"
       ]
     },
     "indic": {
@@ -38256,7 +38335,8 @@
         "tertullian-de-exhortatione-castitatis-liber-170123",
         "tertullian-de-pallio-2b4851",
         "tertullian-de-testimonio-animae-137921",
-        "hippocrates-de-diaeta-acutorum-758ba2"
+        "hippocrates-de-diaeta-acutorum-758ba2",
+        "theophrastus-characters-1b9122"
       ]
     },
     "history": {
@@ -39803,7 +39883,8 @@
         "aurelius-prudentius-clem-dittochaeon-122670",
         "aratus-of-soli-phaenomena-765730",
         "statius-achilleis-095f27",
-        "parthenius-of-nicaea-narrationes-amatoriae-ba182d"
+        "parthenius-of-nicaea-narrationes-amatoriae-ba182d",
+        "lycophron-alexandra-052646"
       ]
     }
   },
@@ -40627,7 +40708,10 @@
         "aratus-of-soli-phaenomena-765730",
         "asclepiodotus-tactica-1fce6e",
         "parthenius-of-nicaea-narrationes-amatoriae-ba182d",
-        "hippocrates-de-diaeta-acutorum-758ba2"
+        "hippocrates-de-diaeta-acutorum-758ba2",
+        "lycophron-alexandra-052646",
+        "philostratus-the-younger-imagines-a60583",
+        "theophrastus-characters-1b9122"
       ]
     },
     "latin": {
