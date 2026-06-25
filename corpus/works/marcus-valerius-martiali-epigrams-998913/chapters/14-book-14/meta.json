@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-valerius-martiali-epigrams-998913",
+  "work_title": "Epigrams",
+  "chapter_number": 14,
+  "chapter_title": "Book 14",
+  "chapter_slug": "14-book-14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3bd290ca-c95e-5ed6-b2cf-dfedb53dfa47",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3611,
+      "paragraph_count": 459,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1294.phi002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ed09ce6-b3f8-5ff1-ba4a-0872b65b5040",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5159,
+      "paragraph_count": 223,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

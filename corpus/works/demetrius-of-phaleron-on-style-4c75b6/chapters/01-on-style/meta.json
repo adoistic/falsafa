@@ -1,0 +1,38 @@
+{
+  "work_slug": "demetrius-of-phaleron-on-style-4c75b6",
+  "work_title": "On Style",
+  "chapter_number": 1,
+  "chapter_title": "On Style",
+  "chapter_slug": "01-on-style",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1a3c6f82-c458-57cf-be4b-ccb27a3413f4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 15724,
+      "paragraph_count": 304,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0613.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97d4195a-9b55-5700-abc5-d17ece7d2b40",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 19795,
+      "paragraph_count": 304,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+---
+work_id: "476171c2-0f73-53b9-8005-60e1d94bc7fb"
+work_slug: "quintus-curtius-rufus-histories-of-alexander-the-great-476171"
+work_title: Histories of Alexander the Great
+author_name: Quintus Curtius Rufus
+chapter_number: 3
+chapter_title: Book 5
+chapter_slug: "03-book-5"
+variant_id: "139f183f-d31f-5ae9-8c5c-1b68b5991916"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 14065
+translator: thothica
+---
+
+1.1. As for what was meanwhile accomplished under the leadership and command of Alexander, whether among the Greeks or in Illyria and Thrace, if I were to give an account of each event in its own proper time, I should have to break off the affairs of Asia,
+
+1.2. which it seems considerably more fitting to present all together, down to the flight and death of Darius, and—since they are connected with one another—to join them likewise in the telling itself. I shall begin, then, with the events that followed upon the battle at Arbela.
+
+1.3. Darius had reached Arbela near the middle of the night, and fortune had driven the flight of a great part of his friends and soldiers to the same place.
+
+1.4. Summoning them, he explained that he did not doubt Alexander would make for the most renowned cities and for the fields that abounded in every kind of plenty: rich and ready plunder was what he and his soldiers had their eyes upon.
+
+1.5. This, he said, would be the salvation of his own cause as things now stood; for he himself would head into the desert with a light, unencumbered force. The remotest parts of his kingdom were still untouched: from them he would replenish the resources of war without difficulty.
+
+1.6. Let that most greedy people seize the treasury and glut themselves with gold after their long hunger—they would soon be plunder for him. He had learned from experience that costly furnishings, concubines, and troops of eunuchs were nothing but burdens and impediments. Alexander, dragging along the same things, would be the weaker by the very means with which he had conquered before.
+
+1.7. To everyone the speech seemed full of despair: for they saw Babylon, that wealthiest of cities, being surrendered; and now Susa, now the other ornaments of the realm—the very cause of the war—would be taken by the victor.
+
+1.8. But he went on to instruct them that in adversity one must follow not what is fine to speak of, but what necessity demands in practice: wars are waged with iron, not gold, with men, not the roofs of cities. Everything follows armed men; thus his own ancestors, struck down at the very beginning of their fortunes, had swiftly recovered their former greatness.
+
+1.9. And so, whether because their spirits were steadied, or because they were obeying his command rather than his counsel, he entered the territory of Media.
+
+1.10. A little later Arbela was handed over to Alexander, stocked with the royal furnishings and a rich treasury: there were four thousand talents, and besides them precious garments, the wealth of the whole army, as has been said above, heaped together in that place.
+
+1.11. Then, as diseases set in, spread abroad by the stench of the corpses lying over all the plains, he broke camp earlier than planned. On the left of their march lay Arabia, a region celebrated for its abundance of perfumes.
+
+1.12. The road runs across the plain through the land lying between the Tigris and the Euphrates, so rich and fertile that the cattle are said to be driven off their pasture for fear that fullness will be the death of them. The cause of the fertility is moisture, which flows from both rivers, almost the whole soil sweating it out through veins of water.
+
+1.13. The rivers themselves flow down from the mountains of Armenia, and then, with a great parting of their waters, run the course they began. They cover eleven thousand five hundred stades—those rivers that mark the widest interval around the mountains of Armenia.
+
+1.14. When they begin to cut through Media and the land of the Gordyaeans, they gradually draw closer together, and the farther they flow, the narrower the strip of land they leave between them.
+
+1.15. They come nearest to one another on the plains which the inhabitants call Mesopotamia, since they enclose it on either side. At last they break through the territory of the Babylonians into the Red Sea.
+
+1.16. After four days' march Alexander reached the city of Mennis. There is a cavern there, from which a spring pours out a great quantity of bitumen, so much so that it is agreed the walls of Babylon, a work of vast size, were cemented with the bitumen of this spring.
+
+1.17. Now as Alexander was advancing toward Babylon, Mazaeus, who had fled from the battle line into that city, came to meet him as a suppliant with his grown children, surrendering himself and the city. His arrival was welcome to the king; for the siege of so well-fortified a city would have been a great undertaking.
+
+1.18. Besides, Mazaeus was an illustrious man, prompt in action and made famous in the recent battle, and he seemed likely to incite the rest to surrender by his example. So the king received him kindly along with his children.
+
+1.19. For the rest, he ordered his men to advance in a hollow square, which he led himself, as though they were going into battle. A great part of the Babylonians had taken their stand on the walls, eager to see their new king; more had gone out to meet him.
+
+1.20. Among them Bagophanes, the keeper of the citadel and of the royal treasury, that he might not be outdone in zeal by Mazaeus, had strewn the whole road with flowers and garlands, and had set silver altars on either side, which he had heaped not only with frankincense but with perfumes of every kind.
+
+1.21. Following him came his gifts—herds of cattle and horses; lions too and leopards were carried ahead in cages.
+
+1.22. Then the Magi went along chanting a hymn after their custom; behind them the Chaldaeans, and of the Babylonians not the seers only but also their musicians with their own peculiar stringed instruments: these were accustomed to sing the praises of their kings, the Chaldaeans to point out the motions of the stars and the fixed changes of the seasons.
+
+1.23. Last of all came the Babylonian cavalry, their own equipment and that of their horses contrived more for extravagance than for splendor. The king, surrounded by armed men, ordered the throng of townspeople to come after the last of the infantry; he himself entered the city in his chariot, and then the palace. On the following day he reviewed the furnishings of Darius and all his money.
+
+1.24. But the beauty and antiquity of the city itself turned upon it, and not without reason, the eyes not of the king alone but of all. Semiramis had founded it, not Belus, as most have believed, whose palace is pointed out.
+
+1.25. The wall, built of baked brick cemented with bitumen, measures thirty-two feet in breadth: chariots meeting one another are said to pass without danger.
+
+1.26. The height of the wall rises to a span of fifty cubits; the towers are ten feet higher than the wall. The whole circuit of the work embraces three hundred and sixty-five stades; it has been handed down to memory that the construction of each single stade was completed in a single day.
+
+1.27. The buildings are not set against the walls, but stand off from them by about the space of a single iugerum. And they did not even fill the whole city with houses—the inhabited area extended over eighty stades—nor is it all continuous, because, I suppose, it seemed safer to be dispersed over several places.
+
+1.28. The rest they sow and cultivate, so that, if an external force should fall upon them, supplies might be furnished to the besieged from the soil of the city itself. The Euphrates flows through it, confined by embankments of massive construction. But the magnitude of all these works is surpassed by the caverns sunk to a vast depth to receive the rush of the river; for whenever it has risen above the top of the embankment set against it, it would carry off the roofs of the city, were there not these hollows and basins to receive it.
+
+1.29. They are built of baked brick, and the whole work is held fast with bitumen. A stone bridge laid across the river joins the city. This too has been counted among the marvelous works of the East. For the Euphrates carries deep mud, and when this has been cleared away to lay the foundations, they scarcely find firm ground solid enough to support the work;
+
+1.30. but sand, continually heaped up and bound to the rocks on which the bridge rests, holds back the river, which, checked, dashes against them more fiercely than if it flowed in a free course.
+
+1.31. They have a citadel too, twenty stades in circuit. The foundations of its towers are sunk thirty feet into the ground; the topmost crown of the fortification reaches a height of eighty feet.
+
+1.32. Above the citadel are the hanging gardens, a marvel celebrated in the tales of the Greeks, rising to the very height of the walls and pleasant with the shade and loftiness of many trees.
+
+1.33. Pillars of stone have been set up to bear the whole weight; over the pillars a floor of squared stone is laid, able to hold the deep earth they throw upon it and the moisture with which they water the soil. So sturdy are the trees the structure supports that their trunks are eight cubits thick, rise to a height of fifty feet, and bear fruit as freely as if they were nourished by their own native ground.
+
+1.34. And although age gradually consumes and destroys not only the works of men's hands but Nature herself, this mass, pressed down by the roots of so many trees and laden with the weight of so great a grove, endures unharmed; for it is upheld by walls twenty feet thick, set eleven feet apart, so that to those viewing from a distance the woods seem to overhang their own mountains.
+
+1.35. It has been handed down to memory that a king of Syria, reigning at Babylon, undertook this work, conquered by love of his wife, who, longing for groves and woods, drove her husband in that level country to imitate the loveliness of Nature by a work of this kind.
+
+1.36. The king lingered longer in this city than anywhere else, and nowhere did he do more harm to military discipline. Nothing is more corrupt than the manners of that city, nothing more equipped to provoke and entice immoderate desires.
+
+1.37. Parents and husbands suffer their children and wives to lie with strangers in shameful union, provided the price of the disgrace is paid. Banquet revels are dear to the kings and nobles throughout all Persia, but the Babylonians above all are given over to wine and to what follows upon drunkenness.
+
+1.38. The bearing of the women who join these banquets is modest at the start; then they put off their outermost wraps and little by little profane their decency; at last—let it be said with respect for the ears—they cast off the innermost coverings of their bodies. And this disgrace belongs not to courtesans but to married women and maidens, among whom the cheapness of a body made common is reckoned good breeding.
+
+1.39. Amid such infamies that army, the conqueror of Asia, fattened for twenty-four days, would undoubtedly have proved weaker for the dangers that followed, had it had an enemy. But, that it might feel its loss the less, it was again and again renewed by reinforcement.
+
+1.40. For Amyntas, son of Andromenes, brought from Antipater six thousand Macedonian infantry,
+
+1.41. and besides them five hundred horsemen of the same nation; with these six hundred Thracians, with five hundred foot soldiers of their own nation added; and from the Peloponnese some four thousand mercenary soldiers had come, with three hundred and eighty horsemen.
+
+1.42. The same Amyntas had brought fifty grown sons of the leading men of Macedonia, to serve as the king's bodyguard. For these wait upon the kings at their meals; they bring up the horses to them as they go into battle; they attend them when they hunt and keep their turns of watch before the doors of the bedchamber: such are the first steps and the training of great commanders and generals.
+
+1.43. So the king, having appointed Agathon to command the citadel of Babylon with seven hundred Macedonians and three hundred mercenaries, left as governors over the region of Babylonia and Cilicia Menetes and Apollodorus. To them three thousand soldiers were given, with a thousand talents; both were instructed to levy soldiers as reinforcement.
+
+1.44. The deserter Mazaeus he made satrap of Babylon; Bagophanes, who had handed over the citadel, he ordered to follow him; Armenia was given to Mithrenes, the betrayer of Sardis.
+
+1.45. Then, from the money handed over at Babylon, six hundred denarii were paid to each of the Macedonian cavalry; the foreign horseman received five hundred each, the household foot soldier two hundred, the mercenary the pay of two months.
+
+2.1. When these matters had been thus settled, he came into the region called Sittacene: a fertile land, abounding in plenty and well supplied with every provision.
+
+2.2. So he halted there for some time, and, that his men might not let their spirits slacken in idle leisure, he appointed judges and set forth new prizes for those who should contend in martial valor:
+
+2.3. those judged the bravest were to command a thousand soldiers each—they called them chiliarchs—now for the first time, the forces being distributed into this number; for before there had been cohorts of five hundred, and no prizes had been awarded for valor.
+
+2.4. A great crowd of soldiers had gathered to be present at the splendid contest, themselves both witnesses of each man's deeds and ready to pass judgment upon the judges; for whether the honor was rightly or wrongly bestowed upon any man could not be hidden.
+
+2.5. The first of all to be rewarded for valor was the elder Atarrhias, who at Halicarnassus had single-handedly done most to rekindle the battle that the younger men had abandoned; next to him in esteem came Antigenes; the third place Philotas the Augaean obtained; the fourth was given to Amyntas; after these came Antigonus, and after him Amyntas the Lyncestian; the seventh place fell to Theodotus, the last to Hellanicus.
+
+2.6. In military discipline too he changed many of the practices left by his predecessors, to great advantage. For whereas before the cavalry were each enrolled in their own nation, apart from the rest, he abolished the distinction of nations and assigned them to commanders who were not necessarily of their own people but men chosen for the task.
+
+2.7. When he wished to break camp, he gave the signal with a trumpet, whose sound was often not well heard above the din of men in commotion. So he set up a pole over the headquarters, visible from every side, on which a signal raised on high was watched by all alike: fire by night, smoke by day.
+
+2.8. And now, as he was about to approach Susa, Abulites, the governor of that region—whether by command of Darius, to detain Alexander with plunder, or of his own accord—sent his son to meet him, promising to surrender the city.
+
+2.9. The king received the young man kindly, and with him as guide reached the river Choaspes, which carries water famed, so the story goes, for its delicacy. Here Abulites came to meet him with gifts of royal magnificence.
+
+2.10. Among the gifts were dromedary camels of extraordinary swiftness, and twelve elephants brought by Darius from India—now no terror to the Macedonians, as he had hoped, but a help, fortune carrying over the resources of the conquered to the conqueror.
+
+2.11. But when he entered the city, he carried off an incredible sum of money from the treasuries: fifty thousand talents of silver, not stamped into coin but in rough bullion.
+
+2.12. Many kings had gathered such wealth over a long age, storing it up, as they thought, for their children and grandchildren; and a single hour delivered it into the hands of a foreign king.
+
+2.13. He then sat down upon the royal throne, far loftier than suited his stature. And so, since his feet did not reach the lowest step, one of the royal pages set a table beneath them.
+
+2.14. And when the king saw a eunuch who had belonged to Darius groaning, he asked the cause of his grief. The man explained that Darius had been accustomed to eat at that table, and that he could not look upon his master's sacred table brought down to mockery without tears.
+
+2.15. So a sense of shame came over the king at having violated the gods of hospitality, and he was already ordering the table removed, when Philotas said: "By no means do this, O king; take it rather as an omen, that the table from which your enemy feasted is placed beneath your feet."
+
+2.16. The king, about to enter the territory of Persia, handed over the city of Susa to Archelaus with a garrison of three thousand; the care of the citadel was entrusted to Xenophilus, a thousand Macedonians advanced in years being ordered to take charge of guarding it;
+
+2.17. the keeping of the treasuries was committed to Callicrates; and the satrapy of the Susian region was restored to Abulites. He also left the mother and children of Darius in the same city.
+
+2.18. And it chanced that he ordered Macedonian garments and much purple cloth, sent to him as a gift from Macedonia, to be handed over to Sisygambis together with those who had made them—for he treated her with every honor, even with the affection of a son—
+
+2.19. and that she be advised that, if she too found pleasure in such clothing, she should train her granddaughters to make it, and that he gave her as a gift those who would teach them. At these words the tears that welled up betrayed her mind, which spurned the gift; for Persian women receive nothing as a greater insult than to set their hands to wool.
+
+2.20. Those who had brought the gifts reported that Sisygambis was sorrowful, and the matter seemed to call both for apology and for comfort. So he came to her himself and said: "Mother, this robe in which I am clothed you see is not only the gift of my sisters but their handiwork: our own customs deceived me.
+
+2.21. I beg you, do not take my ignorance as an insult. What I have learned to be your custom I have, I hope, abundantly observed.
+
+2.22. I know that among you it is forbidden for a son to sit down in his mother's presence unless she has given leave: as often as I have come to you, I myself remained standing until you nodded for me to sit. You have often wished to do me reverence by prostrating yourself: I forbade it. The name owed to my dearest mother Olympias I render to you."
+
+3.1. His feeling thus soothed, the king after four days' march came to the river Tigris—the inhabitants call it the Pasitigris. It rises in the mountains of the Uxians and for fifty stades rushes headlong between rocks along wooded banks.
+
+3.2. Then plains receive it, past which it flows in a gentler channel, now able to bear ships. For six hundred stades the soil is softer, through which, with a slow course of waters, it works its way into the Persian Sea.
+
+3.3. Having crossed the river with nine thousand infantry, together with the Agrianians and the archers and three thousand Greek mercenaries, and a thousand Thracians added, he came into the region of the Uxians. It borders on Susiana and runs out into the nearest part of Persia, leaving a narrow approach between itself and the Susians.
+
+3.4. Medates was the governor of the region, by no means a man to suit the times; for he had resolved to make trial of the last extremities for the sake of his loyalty.
+
+3.5. But men who knew the country instructed Alexander that there was a hidden path through the hill-tracks, away from the city: if he sent a few lightly armed men, they would come out above the heads of the enemy.
+
+3.6. When this plan was approved, the same men served as guides for the march. Fifteen hundred mercenaries and about a thousand Agrianians were given to Tauron as commander and ordered to begin the march after sunset.
+
+3.7. He himself, breaking camp at the third watch, crossed the defiles about dawn; and having cut timber to make wicker shields and mantlets, so that those who should bring up the towers might be out of the range of missiles, he began to besiege the city.
+
+3.8. Everything was sheer and beset with rocks and crags. Driven back, therefore, with many wounds, since they had to fight not only with the enemy but with the ground itself, they nevertheless pressed on,
+
+3.9. because the king had taken his stand among the foremost, asking whether they, the conquerors of so many cities, were ashamed to stick fast in the siege of a small and obscure stronghold, and at the same time reminding them that Tauron would soon bring help. Meanwhile he was being aimed at from a distance; and his soldiers protected him under cover of a screen of shields—since they had been unable to drive him back to safety—
+
+3.10. and so shielded him. At length Tauron showed himself with his column above the citadel of the city. At the sight of him the spirits of the enemy began to waver, and the Macedonians began to press the battle more fiercely.
+
+3.11. A twofold peril harried the townspeople, and the enemy's force could not be checked. A few had the heart to die, more to flee; a great part withdrew into the citadel. From there they sent thirty spokesmen to plead for mercy, but a grim answer was returned by the king: there was no room for pardon.
+
+3.12. So, stricken with fear of punishment as well, they sent men by a hidden path, unknown to the enemy, to Sisygambis, the mother of Darius, to beg her to soften the king herself, well aware that she was loved and honored by him as a parent. And Medates had united himself in marriage to the daughter of her sister, so that he was joined to Darius by close kinship.
+
+3.13. For a long time Sisygambis resisted the prayers of the suppliants, refusing, saying that to intercede for them did not befit the condition in which she now was; and she added that she feared she might wear out the indulgence of the victor, and that she more often reflected that she was a captive than that she had been a queen.
+
+3.14. At last, overcome, she pleaded with Alexander by letter in such a way that she excused herself for pleading: she asked that he would pardon them, or, if not, at least herself; on behalf of one related and close to her, now no longer an enemy but a suppliant, she begged only his life.
+
+3.15. The moderation and clemency of the king, such as it was at that time, this one act might suffice to show: he not only pardoned Medates, but bestowed liberty and immunity upon all, both those who had surrendered and the captives; he left the city untouched and allowed the fields to be tilled free of tribute. From Darius as victor his mother would not have obtained more.
+
+3.16. Then he attached the conquered nation of the Uxians to the satrapy of Susiana, and dividing his forces with Parmenion, ordered him to advance by the road across the plain, while he himself with a light column took to the mountain ridge, whose unbroken spine runs out into Persia.
+
+3.17. Having laid waste all this region, on the third day he entered Persia, and on the fifth the defiles which they call the Susian Gates. Ariobarzanes had occupied these with twenty-five thousand infantry, the cliffs being sheer on every side, on whose summits, beyond the range of missiles, the barbarians stood, quiet on purpose and feigning fear, until the column should penetrate into the narrowest part of the gorge.
+
+3.18. When they saw it pressing on in contempt of them, then indeed they rolled down rocks of enormous size along the mountain slopes, which, striking again and again upon the rocks beneath, fell with the greater force and crushed not single men but whole columns.
+
+3.19. Stones and arrows hurled from slings too were heaped upon them from every side. Nor was this the most wretched thing for brave men, but that they were being cut down unavenged, that like wild beasts caught in a pit they were slaughtered.
+
+3.20. Their anger therefore turned to madness; clutching the jutting rocks, that they might reach the enemy, lifting one another up, they tried to climb: those very rocks, torn loose by the hands of many at once, fell back upon those who had dislodged them.
+
+3.21. They could neither stand fast nor exert themselves, nor even shelter under a screen of shields, since the barbarians thrust down masses of such weight. Not grief only, but shame too distressed the king at having rashly flung his army into those defiles.
+
+3.22. Until that day he had been unconquered, having ventured nothing in vain; he had passed unharmed through the Cilician defiles, and had even opened a new road by sea into Pamphylia: now his good fortune, caught fast, faltered, and there was no other remedy than to return by the way he had come.
+
+3.23. So, the signal for retreat being given, with ranks closed up and shields joined over their heads, he ordered them to make their way back out of the defiles. The stades they retraced were thirty.
+
+4.1. Then, pitching camp in an open place exposed on all sides, he began not only to take counsel about what was to be done, but also—from a mind grown superstitious—to call in seers.
+
+4.2. But what could Aristander, in whom of all the seers he then placed the greatest trust, foretell at such a time? So, condemning untimely sacrifices, he ordered men who knew the country to be summoned: they showed a safe and open road through Media.
+
+4.3. But the king was ashamed to leave his soldiers unburied, the custom being so handed down that scarcely any duty of military life was so solemn as that of burying their own dead. He ordered, then, the captives whom he had lately taken to be called.
+
+4.4. Among them was a certain man skilled in the Greek and Persian tongues, who declared that in vain would he lead his army into Persia along the mountain ridge, that the wooded paths were scarcely passable by single men, that all was covered with foliage and the interlaced branches of trees joined the woods together.
+
+4.5. For Persia is shut in on the other side by an unbroken range of mountains. This ridge, which runs sixteen hundred stades in length and a hundred and seventy in breadth, stretches from the Caucasus to the Red Sea, and where the mountain fails, another barrier, the strait, is set in its place.
+
+4.6. Then a spacious plain spreads out at the foot of the mountains, a fertile land thronged with many villages and cities.
+
+4.7. The river Araxes carries the waters of many torrents across these plains into the Medus; the Medus, flowing toward the sea to the south—a smaller river than the one it receives—is borne onward, and there is none better suited to the growing of plants, clothing whatever it washes with flowers.
+
+4.8. Plane trees too and poplars shade the banks, so that to those viewing from a distance the riverside woods seem joined to the mountains. For the river runs in shadow, gliding down in a channel sunk into the ground, and hills overhang it, themselves likewise green with foliage, their roots reached by the moisture beneath.
+
+4.9. No other region in all Asia is reckoned healthier: its climate is tempered on one side by the unbroken ridge, shadowy and shaded, which relieves the heat, and on the other by the neighboring sea, which warms the lands with a moderate mildness.
+
+4.10. When the captive had laid out these things, and was asked by the king whether he knew what he was telling by hearsay or from his own eyes, he replied that he had been a shepherd and had traversed all those paths: twice he had been taken captive, once by the Persians in Lycia, and again by Alexander himself.
+
+4.11. There came to the king's mind the memory of an oracle's response that had been given; for when he consulted it, the answer was that a citizen of Lycia would be the guide of the road that led into Persia.
+
+4.12. So, loading the man with promises as great as both the present need demanded and his own fortune allowed, he ordered him to be armed in the Macedonian fashion and—and may it turn out well—to point out the road, however steep and sheer: he himself would get through with a few men, unless perchance the captive supposed that Alexander could not go for the sake of glory and undying renown where he himself had gone for the sake of his flock.
+
+4.13. Again and again the captive instructed him how difficult the road was, especially for armed men.
+
+4.14. Then the king said: "Take me as your surety that none of those who follow will refuse to go where you lead." So, leaving Craterus to guard the camp with the infantry to which he was accustomed and with the forces that Meleager led, and with the mounted archers, he directed him to order, while the appearance of a camp was maintained, that more fires be kindled on purpose, so that the barbarians might the more readily believe the king himself was in the camp.
+
+4.15. But if by chance Ariobarzanes should learn that he was entering by the windings of the hill-paths, and should try to oppose part of his forces to seize his road, Craterus was to hold him by striking terror into him, so that he would turn his column back to the nearer danger;
+
+4.16. but if Alexander himself had eluded the enemy and seized the pass, then, when Craterus heard the uproar of the panic-stricken barbarians, in pursuit of the king he should not hesitate to enter that very road by which they had been driven back the day before; for it would be empty, the enemy having turned against Alexander.
+
+4.17. He himself at the third watch, with a silent column and without even a trumpet to give the signal, set out for the path of the hill-tracks that had been pointed out: he had ordered the soldier, lightly armed, to carry three days' provisions.
+
+4.18. But besides the trackless cliffs and sheer rocks, where the footing again and again gave way, snow heaped up by the wind wearied them as they advanced; for they were swallowed up as though plunged into pits, and when they were lifted by their comrades, they dragged down those who helped them rather than followed them.
+
+4.19. Night too, and the unknown country, and the guide—of whose loyalty there was no certainty—multiplied their fear: if he had deceived the watchmen, they might be caught like wild beasts. Upon the loyalty, or the life, of a single captive hung both the king's safety and their own.
+
+4.20. At length they came onto the ridge. To the right the road led toward Ariobarzanes himself: here he left Philotas and Coenus with Amyntas and Polyperchon, with a light force, instructing them—since the cavalry was to go mingled with the infantry, and the soil was very rich and fertile in fodder—to advance slowly: guides for the march had been given from among the captives.
+
+4.21. He himself, with his armor-bearers and the squadron they called the Agema, advanced by a steep path, but one farther removed from the enemy's posts, with much hardship.
+
+4.22. It was midday, and the weary men needed rest—for as much of the journey remained as they had already covered, though it was less precipitous and less steep—
+
+4.23. so, when the soldiers had refreshed themselves with food and sleep, he rose at the second watch. The rest he passed without difficulty; but where the mountain ridge sinks little by little toward the more level ground, a vast chasm, hollowed out by the meeting of torrents, had broken the road.
+
+4.24. Besides this, the branches of trees, entangled one with another and clinging together, had thrown up what seemed an unbroken hedge.
+
+4.25. So a great despair came over them, so deep that they could scarcely hold back their tears. The darkness above all was a terror; for even if any stars shone through, the trees, covered with unbroken foliage, kept them from being seen. Not even the use of their ears remained, the wind shaking the woods, which, as the branches met, made a sound greater than the gust itself.
+
+4.26. At last the awaited daylight lessened all that the night had made more terrible: the flood could be skirted within a short space, and each man began to be his own guide for the road.
+
+4.27. They came out, then, onto the lofty summit; from which, the enemy's post being sighted, the armed men briskly showed themselves in the rear of those who feared nothing of the kind.
+
+4.28. Of these the few who had dared to engage were cut down. And so, here the groans of the dying, there the pitiful sight of men running back to their own, turned even the unhurt to flight before they could put the issue to the test.
+
+4.29. Then, when the din was carried to the camp over which Craterus presided, the soldier was led out to seize the defiles where they had stuck fast the day before.
+
+4.30. At the same time Philotas too, with Polyperchon and Amyntas and Coenus, ordered to enter by a different route, struck another terror into the barbarians.
+
+4.31. So, overwhelmed by a twofold disaster, the Macedonian arms gleaming on every side, they nevertheless put up a memorable fight. As I think, necessity sharpens even cowardice, and often despair is the cause of hope.
+
+4.32. Unarmed, they grappled with armed men, and dragging them to the ground with them by the great mass of their bodies, ran most of them through with their own weapons.
+
+4.33. Ariobarzanes nevertheless, with some forty horsemen and five thousand infantry close about him, broke through the midst of the Macedonian line, with much blood of his own men and of the enemy, hastening to seize Persepolis, the chief city of the region.
+
+4.34. But, shut out by the guards of the city, with the enemy briskly following, he renewed the fight and fell with all the companions of his flight. Craterus too, having hurried his column up, came upon the scene.
+
+5.1. The king fortified his camp in the very place where he had routed the enemy's forces. For although the enemy, driven off on every side, had yielded the victory, yet ditches very deep and sheer, set across in many places, had broken the road, and he had to advance slowly and warily, suspecting now not the treachery of the enemy but of the ground.
+
+5.2. As he was advancing, a letter was delivered to him from Tiridates, the keeper of the royal money, indicating that those who were in the city, on hearing of his approach, wished to plunder the treasuries: let him hasten to seize the treasures before they were scattered; the road was open, although the river Araxes flowed across it.
+
+5.3. No virtue of the king could I praise more justly than his swiftness: leaving the infantry forces behind, riding all night long with cavalry wearied by so great a stretch of road, he reached the Araxes at first light.
+
+5.4. There were villages nearby: these he demolished, and with their timber, laying rocks beneath, he briskly threw a bridge across.
+
+5.5. And now they were not far from the city, when there met the king a pitiful procession, to be remembered among the few examples of fortune's reverses. They were Greek captives, about four thousand, whom the Persians had afflicted with various kinds of torture.
+
+5.6. Some they had kept for the lasting mockery of themselves with their feet cut off, others with their hands and ears, and branded with marks of barbarian letters; and since they saw that they too were now under another's sway, they did not prevent them from coming, of their own will, to meet the king.
+
+5.7. They looked like strange apparitions, not men, nor could anything be recognized in them but their voices. They stirred more tears than they themselves had shed; for, in their so manifold and varied fortune, as men looked upon the punishments of each—alike indeed, yet still differing—it could not be made clear who was the most pitiable.
+
+5.8. But when they cried aloud that Jupiter, the avenger of Greece, had at last opened his eyes, all seemed to themselves to be afflicted with an equal punishment. The king, wiping away the tears he had shed, bade them be of good heart: they would see their own cities and their wives. And there he fortified a camp two stades from the city.
+
+5.9. The Greeks had gone out beyond the rampart to deliberate what they should chiefly ask of the king; and since to some it seemed good to ask for a dwelling-place in Asia, to others to return home, Euctemon of Cyme is said to have spoken to them thus:
+
+5.10. "We who but now were ashamed even to come forth from darkness and prison to beg for help—as things stand—desire to display our torments to Greece (whether we are more ashamed or repentant of them is hard to say), as though it were a joyful spectacle.
+
+5.11. And yet those bear their miseries best who hide them, nor is any homeland so familiar to the unhappy as solitude and forgetfulness of their former state. For those who put much store in the pity of their own people do not know how swiftly tears dry up.
+
+5.12. No one loyally loves the man he loathes; for both calamity is querulous and good fortune proud. So each man has his own fortune in mind when he deliberates about another's. Unless we were wretched together, we should long since have been a loathing to one another. What wonder that the fortunate too always seek their own equal?
+
+5.13. I beseech you, we who long ago finished with life, let us seek a place where we may bury these half-eaten remains of ourselves. We shall surely return welcome to the wives we married in our youth! Our children, in the flower of their age and their fortunes, will recognize their fathers, mutilated by the wastings of the prison-house!
+
+5.14. And how small a part of us can endure so many lands of journey? Banished far from Europe into the farthest East, old men, feeble, maimed in the greater part of our limbs, we shall, forsooth, endure what has wearied even men armed and victorious!
+
+5.15. And then our wives, whom chance and necessity have joined to us captives as our one solace, and our little children—do we drag them with us, or leave them behind?
+
+5.16. If they come with us, no one will be willing to recognize them: shall we then straightway abandon the pledges of love we now possess, when it is uncertain whether we shall ever see what we are making for? We must hide among those who began to know us in our misery." Thus Euctemon.
+
+5.17. Against him Theaetetus the Athenian began to speak: "No good man will judge his own people by the condition of their bodies, least of all those made wretched by the cruelty of an enemy, not by nature. He deserves every evil who would blush at what was thrown upon him by chance; for he passes a grim sentence on mortality and despairs of pity, because he himself would deny it to another.
+
+5.18. The gods are offering what they themselves would never have dared to wish for: a homeland, wives, children, and whatever men value as life or buy back with death.
+
+5.19. Why should they not burst out from this prison? At home the breath of heaven is of another kind, the sight of light of another. Manners, sacred rites, the use of language are sought even from barbarians—those very things which, native to themselves, they would abandon of their own accord, made so wretched for no other reason than that they have been compelled to do without them.
+
+5.20. He, for one, would return to his household gods and to his homeland, and would make use of so great a kindness from the king: if any were held back by love of their companions and the children whom slavery had compelled them to acknowledge, let them leave behind those to whom nothing is dearer than their homeland."
+
+5.21. Few were of this opinion; the rest were overcome by habit, which is stronger than nature. They agreed that they should ask the king to assign them some dwelling-place.
+
+5.22. A hundred were chosen for this. Alexander, supposing they would ask for what he himself was already thinking of providing, said: "I have ordered beasts of burden to be assigned to carry you, and a thousand denarii to be given to each of you. When you have returned to Greece, I shall see to it that no one believes his own condition—if this calamity be removed—better than yours."
+
+5.23. They, with tears welling up, gazed at the ground and dared neither to raise their faces nor to speak; at last, when the king pressed for the cause of their sadness, Euctemon answered in terms like those he had used in their council.
+
+5.24. And the king, taking pity not only on their fortune but also on their repentance, ordered three thousand denarii to be given to each: ten garments apiece were added, and herds with flocks and grain were given, that the land assigned to them might be tilled and sown.
+
+6.1. On the following day he summoned the leaders of his forces and told them that there was no city more hostile to the Greeks than the royal seat of the ancient kings of Persia: from here those vast hosts had poured forth; from here first Darius, then Xerxes, had carried impious war into Europe; its destruction was the offering due to their ancestors.
+
+6.2. And now the barbarians had abandoned the town and fled, each as fear drove him, when the king, with no delay, led in the phalanx. Many cities filled with royal opulence he had partly stormed, partly received into his protection, but the riches of this city surpassed all that had gone before.
+
+6.3. Into it the barbarians had heaped the wealth of all Persia: gold and silver were piled up, garments in vast quantity, furnishings provided not for use but for the display of luxury.
+
+6.4. And so among the very conquerors there was fighting with the sword: the man who had seized a more precious piece of plunder was treated as an enemy. And since they could not carry off all they found, things were now no longer seized but appraised.
+
+6.5. They tore the royal robes, each dragging off a portion for himself; with axes they hacked vessels of precious workmanship; nothing was left untouched or carried away whole; the limbs of statues, broken off, each dragged away as he had wrenched it loose.
+
+6.6. Not greed only, but cruelty too ran riot in the captured city: laden with gold and silver, they slaughtered the worthless bodies of the captives, and men were cut down everywhere as they were met—the very men whom before their ransom value had made pitiable.
+
+6.7. Many of the enemy, therefore, forestalled the hands of their foes by a voluntary death, clad in the most precious of their garments, casting themselves headlong from the walls with their wives and children. Some had set fire to their houses—as the enemy seemed likely to do a little later—that they might be burned alive with their kin.
+
+6.8. At last the king ordered his men to keep their hands from the persons and the adornment of the women. A vast amount of captured money is reported, almost beyond belief.
+
+6.9. But either we shall doubt about other things as well, or we shall believe that in the treasury of this city there were a hundred and twenty thousand talents. To carry these off—for he had resolved to take them with him for the uses of war—he ordered beasts of burden and camels to be brought together both from Susa and from Babylon.
+
+6.10. To this sum of money were added, on the capture of Pasargadae, six thousand talents. Cyrus had founded the city of Pasargadae, which its governor Gobares handed over to Alexander.
+
+6.11. The king ordered Nicarchides to guard the citadel of Persepolis, three thousand Macedonians being left as a garrison. To Tiridates too, who had handed over the treasury, was preserved the honor he had held under Darius. And, leaving a great part of his army and his baggage there, he put Parmenion and Craterus in command.
+
+6.12. He himself, with a thousand cavalry and a light force of infantry, made for the interior region of Persia just at the rising of the Pleiades, and, harassed by much rain and a storm almost beyond bearing, nevertheless persevered in advancing where he had set out for.
+
+6.13. They had come to a road buried under unbroken snows, which the force of the cold had bound fast with ice, and the desolation of the places and the trackless solitudes terrified the wearied soldier. Astonished, they gazed at what seemed the limits of the human world, without any trace of human habitation, and, before light and sky itself should fail them, they urged a return.
+
+6.14. The king forbore to chide the terrified men; but he himself leapt down from his horse and began to go on foot through the snows and frozen ice. His friends were ashamed not to follow, then the leaders of the forces, at last the soldiers. And the king first, breaking the ice with an axe, made a road for himself: the rest followed the king's example.
+
+6.15. At length, having traversed forests almost trackless, they found rare traces of human habitation and herds of cattle wandering here and there; and the inhabitants, who dwelt in scattered huts, when they believed themselves hedged about by trackless paths, on catching sight of the enemy's column killed those who could not accompany their flight and made for the pathless mountains buried in snow.
+
+6.16. Then, through parley with the captives, their wildness gradually softened, they surrendered to the king. Nor was harsher measure taken against those who gave themselves up.
+
+6.17. After laying waste the fields of Persia and reducing several villages to his power, he came among the Mardi, a warlike nation and far removed from the rest of the Persians in their way of life. They dig caves in the mountains, in which they hide themselves and their wives and children; they feed on the flesh of cattle or wild beasts.
+
+6.18. Their women too have no temper softer than their nature would suggest: their hair sticks out, shaggy; their dress reaches above the knee; they bind their foreheads with a sling: this serves both as a headdress and as a weapon.
+
+6.19. But this nation too the same rush of fortune subdued. And so, on the thirtieth day after he had set out from Persepolis, he returned to the same place.
+
+6.20. Then he gave gifts to his friends and to the rest according to each man's desert. Almost everything that he had taken in that city was distributed.
+
+7.1. But those vast goods of his mind, that natural genius by which he surpassed all kings, that steadfastness in facing dangers, that swiftness in undertaking and accomplishing his designs, that good faith toward those who surrendered, that clemency toward captives, that temperance even in pleasures permitted and customary—all this he defiled with a craving for wine that was past bearing.
+
+7.2. While his enemy and rival for the throne was at that very moment renewing the war, while those he had lately subdued were spurning his new dominion, he was holding banquets by day, at which women were present—not such as it would be wrong to violate, for they were concubines accustomed to live with the soldiery more freely than was seemly.
+
+7.3. One of these, Thais, herself drunk, declared that he would win the greatest favor among all the Greeks if he ordered the palace of the Persians to be set ablaze: this was what those whose cities the barbarians had destroyed were looking for.
+
+7.4. As a drunken harlot was delivering judgment on so great a matter, one or two, themselves loaded with wine, assented.
+
+7.5. The king too, more greedy for wine than able to bear it, said: "Why then do we not avenge Greece and put torches to the city?" All had grown hot with wine; and so they rose, drunk, to set fire to the city that they had spared when armed. The king first cast fire into the palace, then the guests and the attendants and the concubines.
+
+7.6. The palace had been built largely of cedar, which, quickly catching the fire, spread the conflagration far and wide. When the army, encamped not far from the city, saw it, supposing the fire accidental, it ran together to bring help.
+
+7.7. But when they came to the vestibule of the palace, they saw the king himself still heaping up torches. So, abandoning the water they had brought, they themselves began to throw dry timber onto the blaze.
+
+7.8. Such was the end of the palace of all the East, whence so many nations had once sought their laws, the homeland of so many kings, the one-time terror of Greece, which had launched a fleet of a thousand ships and armies that flooded over Europe, bridging the sea with moles and cutting through mountains into whose caverns the strait was let in.
+
+7.9. Nor even in the long age that followed its destruction did it rise again. The Macedonian kings laid waste other cities, which the Parthians now hold: of this one not a trace would be found, were not the river Araxes there to point it out. It had flowed not far from the walls: the neighboring people believe, rather than know, that from it the city stood twenty stades distant.
+
+7.10. The Macedonians were ashamed that so famous a city had been destroyed by a king at his revels; so the matter was turned into earnest, and they constrained themselves to believe that this was indeed the way it ought to have been destroyed.
+
+7.11. As for the king himself, it is agreed that as soon as rest restored his mind, weighed down by drunkenness, he repented and said that the Persians would have paid a heavier penalty to the Greeks, had they been compelled to behold him upon the throne and in the palace of Xerxes.
+
+7.12. On the next day he gave thirty talents as a gift to the Lycian, the guide of the road by which he had entered Persia. From here he crossed into the region of Media, where a reinforcement of new soldiers from Cilicia met him. There were five thousand infantry and a thousand cavalry; over both Plato the Athenian was in command. Strengthened by these forces, he resolved to pursue Darius.
+
+8.1. Darius had by now reached Ecbatana. This city is the capital of Media: the Parthians now hold it, and it is their summer seat. He had resolved next to make for Bactra, but, fearing that he might be overtaken by Alexander's swiftness, he changed his plan and his route.
+
+8.2. Alexander was fifteen hundred stades distant from him, but no interval now seemed long enough against his speed; and so Darius was preparing himself for battle rather than for flight.
+
+8.3. Thirty thousand infantry followed him, among whom were four thousand Greeks, unconquered to the very end in their long-standing loyalty toward the king.
+
+8.4. A band of slingers and archers too had filled out four thousand; besides these there were three thousand three hundred cavalry, mostly of the Bactrians.
+
+8.5. Bessus was in command, the governor of the Bactrian region. With this column Darius turned a little aside from the military road, having ordered the camp-followers and the guards of the baggage to go on ahead.
+
+8.6. Then, summoning a council, he said: "If fortune had joined me with cowards, men who value any kind of life more than an honorable death, I should be silent rather than waste words in vain.
+
+8.7. But having found proof, greater than I could wish, both of your valor and of your loyalty, I ought to strive all the more to be worthy of such friends than to doubt whether you are still like yourselves.
+
+8.8. Out of so many thousands who have been under my command, twice when I was conquered, twice when I fled, you have followed me.
+
+8.9. Your loyalty and steadfastness make me believe that I am a king. Traitors and deserters reign in my cities—not, by Heaven, because they are judged worthy of such honor, but that your minds may be tempted by their rewards. Yet you have chosen to follow my fortune rather than the victor's, most worthy men, to whom, if I cannot, may the gods render thanks on my behalf.
+
+8.10. And, by Heaven, they will render them. No posterity will be so deaf, no report so ungrateful, as not to bear you to the skies with the praises you are owed. So even if I had entertained a plan of flight, from which my spirit utterly shrinks, yet, relying on your valor, I would have gone to meet the enemy.
+
+8.11. For how long shall I be an exile within my own kingdom, and flee through the borders of my own empire before a foreign and newcome king, when I may make trial of the fortune of war and either recover what I have lost or end my days by an honorable death?
+
+8.12. Unless perhaps it is better to await the victor's pleasure, and after the example of Mazaeus and Mithrenes to receive on sufferance the kingship of a single nation, so that he may now prefer to indulge his glory rather than his anger.
+
+8.13. May the gods not permit anyone either to take this crown from my head or to bestow it on me; nor will I lose my empire while I live, and the same shall be the end of my reign as of my breath.
+
+8.14. If this is your spirit, if this your resolve, then freedom is won for every one of you. None of you shall be forced to bear the disdain of the Macedonians, none their haughty look: each man's own right hand shall bring him either vengeance for so many ills or an end of them.
+
+8.15. For my part, how changeable fortune is, I myself am the proof, and not without reason do I look for her milder turns. But if the gods turn away from wars however just and righteous, brave men will yet be permitted to die honorably.
+
+8.16. By the glories of your ancestors, who held the realms of all the East with memorable renown; by those men to whom Macedonia once paid tribute; by so many fleets of ships sent against Greece; by so many trophies of kings—I beg and implore you to take up a spirit worthy of your nobility and your nation,
+
+8.17. and to face, with the same steadfastness of soul with which you have endured the past, whatever chance shall bring hereafter: as for me, surely either a glorious victory or my downfall will ennoble me forever."
+
+9.1. As Darius spoke thus, the appearance of present peril had struck the hearts and spirits of all alike with horror, and neither counsel nor voice was at hand, when Artabazus, the oldest of his friends—whom we have said above was once the guest-friend of Philip—said: "We, for our part, clothed in our most precious raiment and adorned with the greatest splendor we can muster, will follow the king into the battle line, in this mind: that we hope for victory but do not refuse death."
+
+9.2. The rest received this speech with approval; but Nabarzanes, who was in the same council, had, with Bessus, entered into a partnership in a crime unheard of before: they had resolved to seize their king through the soldiers whom both commanded and to bind him, in this mind: that, if Alexander pursued them, by handing the king over alive they might win the victor's favor, reckoning that they would surely have made a great prize in capturing Darius; but if they could escape him, then, having killed Darius, they would seize the kingdom for themselves and renew the war.
+
+9.3. When they had long turned this parricide over in their minds, Nabarzanes, preparing an approach for his wicked hope, said: "I know that I am about to give an opinion which at first sight will be by no means pleasing to your ears; but physicians too cure graver diseases with harsh remedies, and the helmsman, when he fears shipwreck, ransoms whatever can be saved by jettisoning the rest.
+
+9.4. Yet I do not advise that you suffer any loss, but that you preserve yourself and your kingdom by a sound policy. We are entering the war with the gods against us, and a stubborn fortune does not cease to press the Persians: there is need of fresh beginnings and fresh auspices. Hand over the auspices and the command meanwhile to another, who shall be called king only until the enemy withdraws from Asia, and then, as victor, shall restore the kingdom to you.
+
+9.5. And reason promises that this will soon come to pass: Bactra is untouched, the Indians and the Sacae are in your power, so many peoples, so many armies, so many thousands of horse and foot have their strength ready for renewing the struggle, so that a greater mass of war remains than has been spent.
+
+9.6. Why do we rush like wild beasts to a destruction not forced upon us? It is the mark of brave men rather to despise death than to hate life:
+
+9.7. often it is the weariness of toil that drives cowards to set themselves at naught. But valor leaves nothing untried. In any case death is the last resort of all, and it is enough not to go to it slothfully.
+
+9.8. Therefore, if we make for Bactra, which is the safest refuge, let us appoint the governor of that region, Bessus, as king for the time being: when matters are settled, he will restore the empire to you, its rightful king, in good faith."
+
+9.9. It is no wonder that Darius did not master his feelings, although how great a crime lay beneath that impious speech was hidden from him. And so he said: "Vilest of slaves, have you found the longed-for moment in which to lay bare your treason?"
+
+9.10. And, drawing his scimitar, he seemed about to kill him, had not Bessus and the Bactrians quickly stood around—as though pleading for the man, with a sorrowful air, but in truth ready, if Darius persisted, to bind him.
+
+9.11. Nabarzanes meanwhile slipped away, and soon Bessus too followed: they ordered the forces they commanded to withdraw from the rest of the army, intending to hold a secret council.
+
+9.12. Artabazus, beginning with an opinion suited to the present fortune, set about soothing Darius, reminding him again and again of the times: let him bear with an even mind the folly or the error of his own men, such as they were. Alexander, he said, was already pressing upon him, formidable even if all stood by; what would happen if those who had pursued his flight were estranged?
+
+9.13. Reluctantly Darius yielded to Artabazus, and although he had resolved to break camp, yet, since the minds of all were in turmoil, he halted in the same place. But, stunned with grief and despair alike, he shut himself up in his tent.
+
+9.14. So in the camp, which was ruled by no man's command, there were various movements of feeling, nor was there deliberation in common as before.
+
+9.15. Patron, the commander of the Greek soldiers, ordered his men to take up arms and be ready to carry out his command.
+
+9.16. The Persians had withdrawn apart: Bessus was with the Bactrians and was trying to draw off the Persians, holding out the riches of Bactra and of the untouched region, and at the same time the dangers that threatened those who stayed. The voice of all the Persians was much the same: that it was wickedness to desert the king.
+
+9.17. Amid this Artabazus discharged all the duties of a commander: he went round the tents of the Persians, exhorting, advising, now individuals, now all together, nor did he leave off until it was clear enough that they would do his bidding. The same man with difficulty prevailed on Darius to take food and to turn his mind to affairs.
+
+10.1. But Bessus and Nabarzanes resolved to carry out the crime they had long meditated, inflamed with desire for the kingdom: for while Darius was safe, they could not hope for such great resources.
+
+10.2. For among those nations the majesty of kings is preeminent: at the very name the barbarians gather, and the reverence for their former fortune follows it into adversity.
+
+10.3. The region they governed inflamed their impious spirits, second to none of those nations in arms, in men, and in extent of territory: it holds a third part of Asia, and its multitude of young men equaled the armies Darius had lost.
+
+10.4. And so they scorned not only him but Alexander too, meaning to draw from there the resources of empire, if it should fall to them to gain possession of the king.
+
+10.5. After long pondering everything, they decided to seize the king through the Bactrian soldiers, who were ready for any obedience, and to send a messenger to Alexander to inform him that Darius was being kept alive:
+
+10.6. but if—what they feared—he should spurn the betrayal, they would kill Darius and make for Bactra with a force of their own nations.
+
+10.7. But Darius could not be seized openly, since so many thousands of Persians would bring aid to their king; the loyalty of the Greeks too was feared.
+
+10.8. So they tried to gain by treachery what they could not by force: they resolved to feign repentance for their withdrawal and to excuse their alarm before the king.
+
+10.9. Meanwhile men were sent to work upon the Persians. Now with hope, now with fear they swayed the soldiers' minds: that those men were thrusting their heads beneath the ruin of the state, were being dragged to destruction, when Bactra lay open to receive them with goods and an opulence greater than they could conceive in their minds.
+
+10.10. While they were busy with these schemes, Artabazus came upon them—whether by the king's command or of his own accord—declaring that Darius had been appeased and that the same degree of friendship lay open to them with the king.
+
+10.11. They, with tears, now sought to clear themselves, now begged Artabazus to defend their cause and carry their prayers.
+
+10.12. Thus, the night being passed, at the rising of the light Bessus and Nabarzanes with the Bactrian soldiers were present in the vestibule of the headquarters, putting forward the show of customary duty as a screen for their hidden crime. Darius, when the signal to set out was given, mounted his chariot after his old custom.
+
+10.13. Nabarzanes and the other parricides, prostrating themselves on the ground, did reverence to him whom a little later they would hold in chains; they even shed tears as tokens of repentance: so ready a thing is dissimulation to the human spirit.
+
+10.14. Their prayers, then, suppliantly offered, drove Darius—simple and gentle by nature—not only to believe what they affirmed, but even to weep.
+
+10.15. And not even then did they repent of the crime they had plotted, when they looked upon what kind of king and what kind of man they were deceiving. He indeed, careless of the peril that hung over him, was hastening to escape the hands of Alexander, which alone he feared.
+
+11.1. But Patron, the commander of the Greeks, charged his men to put on the arms which before they had carried in their packs, and to be ready and intent on his every command.
+
+11.2. He himself followed the king's chariot, watching for an occasion to address him; for he had foreseen the crime of Bessus. But Bessus, fearing this very thing, would not leave the chariot—a guard, more truly, than a companion.
+
+11.3. So Patron long hesitated, and, often called back by conversation, wavering between loyalty and fear, kept his eyes on the king.
+
+11.4. When at last the king turned his eyes that way, he ordered Bubaces, a eunuch among those nearest, who was following the chariot, to ask whether Patron wished to say anything to him. Patron answered that he did indeed, but that he wished to speak with him with the witnesses removed; and, ordered to come nearer without an interpreter—
+
+11.5. for Darius was not unacquainted with the Greek tongue—he said: "O king, of fifty thousand Greeks we few survive, companions of your every fortune, and in this your present state the same as we were when you flourished; ready to make for whatever lands you choose, in place of homeland and home.
+
+11.6. Your prosperous and your adverse fortunes have bound us to you. By this loyalty unconquered I beg and implore you: set up your tent in our camp; suffer us to be the guards of your person. We have given up Greece; there is no Bactra for us; all our hope is in you—would that it were so for the rest as well. There is no need to say more. I, a foreigner and an alien, would not demand the guardianship of your person, if I believed another could provide it."
+
+11.7. Bessus, although he was ignorant of the Greek tongue, yet, his conscience pricking him, believed that Patron had surely laid information; and when the speech of the Greeks was interpreted, secretly, all doubt was removed. But Darius—as far as could be gathered from his look—by no means terrified, began to ask Patron the reason for the advice he brought.
+
+11.8. Patron, thinking it should be put off no longer, said: "Bessus and Nabarzanes are plotting against you; you are in the last extremity of your fortune and your life,
+
+11.9. and this day shall be the last either for the parricides or for you." And Patron indeed had won the splendid glory of having tried to save the king.
+
+11.10. Let those mock at loyalty, if they will, to whom perchance it is settled that human affairs are rolled and driven at random, and that no chain of hidden and long-foreordained causes carries each man through his own ordered course by an unchangeable law:
+
+11.11. Darius at any rate answered that, although the loyalty of the Greek soldiers was known to him, he would nevertheless never withdraw from his own countrymen. It was harder for him to condemn than to be deceived. Whatever chance should bring, he preferred to suffer it among his own rather than become a deserter. He perished too late, if his own soldiers did not wish him safe.
+
+11.12. Patron, despairing of the king's safety, returned to those he commanded, prepared to make every trial for loyalty's sake.
+
+12.1. But Bessus had conceived an impulse to kill the king at once; yet, fearing that he could not win Alexander's favor unless he handed him over alive, he put off the design of his crime to the next night, and began to give thanks to Darius for having prudently and warily avoided the treachery of a treacherous man who was already looking to Alexander's power: he would have carried the king's head as a gift to the enemy.
+
+12.2. Nor was it any wonder, he said, that a man hired for pay had everything for sale; without pledge, without home, an exile from the whole world, a doubtful enemy, he was carried this way and that at the nod of those who hired him.
+
+12.3. Then, as Bessus cleared himself and called the gods of his fathers to witness his good faith, Darius assented with his countenance, in no doubt that the Greeks were reporting the truth; but matters had come to such a pass that it was as dangerous not to trust his own men as to be deceived.
+
+12.4. There were thirty thousand, whose fickleness, leaning toward crime, was feared; Patron had four thousand: if Darius had entrusted his safety to these, condemning the loyalty of his own countrymen, he saw that he would be offering an excuse for the parricide. And so he preferred to be done to death undeservingly rather than with cause.
+
+12.5. To Bessus, nevertheless, as he cleared himself of the charge of treachery, he answered that he had seen no less of Alexander's justice than of his valor. Those were deceived who looked for a reward of betrayal from him: of violated loyalty no one would be a sharper avenger and punisher.
+
+12.6. And now night was coming on, when the Persians, after their usual fashion, laid aside their arms and scattered to fetch necessaries from the nearest village. But the Bactrians, as Bessus had ordered, stood under arms.
+
+12.7. Meanwhile Darius ordered Artabazus to be summoned, and, when he had set forth what Patron had reported, Artabazus did not doubt that he must cross over into the camp of the Greeks: the Persians too, once the peril was made known, would follow.
+
+12.8. Resigned to his lot and now incapable of any wholesome counsel, he embraced Artabazus—his one help in that fortune—as though to look upon him for the last time; and, both bathed in mutual tears, he ordered him to be torn from his clinging embrace; then, his head veiled, that he might not gaze upon him departing amid groans as from a funeral pyre, he flung his body face down upon the ground.
+
+12.9. Then indeed those accustomed to his guard, who ought to have protected the king's safety even at the peril of their lives, slipped away, secretly from the armed men whom they now believed to be approaching, not reckoning that they would be a match for them. So there was a vast solitude in the tent, a few eunuchs standing about the king, because they had nowhere to go.
+
+12.10. But he, the witnesses removed, long turned over in his mind one plan after another. And now, loathing the solitude which a little before he had sought as a solace, he ordered Bubaces to be called.
+
+12.11. Looking at him, he said: "Go, take thought for yourselves, having shown to the last—as was fitting—the loyalty owed to your king: I await here the law of my fate. Perhaps you wonder that I do not make an end of my life: I would rather die by another's crime than by my own."
+
+12.12. At these words the eunuch filled with his lamentation not the tent only but the camp as well. Then others burst in and, their garments rent, with mournful, barbaric wailing began to bewail the king.
+
+12.13. The Persians, when the cry was carried to them, struck with fear, dared neither to take up arms—lest they fall upon the Bactrians—nor to remain quiet, lest they seem impiously to desert the king.
+
+12.14. A varied and discordant cry, without leader and without command, echoed through the whole camp. To Bessus and Nabarzanes their men reported that the king had killed himself—the wailing had deceived them—;
+
+12.15. and so they galloped up at full speed, followed by those they had chosen for the service of the crime; and, when they had entered the tent, since the eunuchs declared that the king was alive, they ordered him to be seized and bound.
+
+12.16. The king, a little before borne in his chariot and honored with the auspices of the gods and the highest honors, now with no help from abroad, a captive of his own slaves, was set in a foul cart covered all over with hides.
+
+12.17. The king's money and furnishings were plundered as though by the law of war, and, laden with the spoil won by their last crime, they pressed on in flight.
+
+12.18. Artabazus, with those who obeyed his command and with the Greek soldiers, made for Parthiene, reckoning everything safer than the company of the parricides.
+
+12.19. The Persians, weighed down above all by the promises of Bessus, since there was no one else to follow, joined themselves to the Bactrians, overtaking their column on the third day.
+
+12.20. Yet, that the king might not go unhonored, they bound Darius with fetters of gold, fortune ever devising fresh mockeries. And lest perchance he could be recognized by his royal garb, they had covered the cart with mean hides; unknown men drove the beasts, so that he could not be pointed out to those who asked along the way; the guards followed at a distance.
+
+13.1. Alexander, on hearing that Darius had moved from Ecbatana, abandoned the route he was making for, into Media, and pressed on briskly to pursue the fugitive.
+
+13.2. He reached Tabae—a town in the farthest part of Paraetacene—; there deserters reported that Darius was making for Bactra in headlong flight.
+
+13.3. Then he learned more certain news from Bagistanes the Babylonian, who affirmed that the king was not yet in chains, but in peril either of death or of bonds.
+
+13.4. The king, summoning his leaders, said: "The greatest task remains, but the shortest toil. Darius, deserted by his own men or overpowered, is not far off: in that one body lies our victory, and so great a prize is the reward of speed."
+
+13.5. All cried out together that they were ready to follow him: let him spare neither toil nor danger. So he led his column swiftly, more in the manner of a race than a march, not even relaxing the day's toil with the rest of night.
+
+13.6. And so he advanced five hundred stades, and came to the village in which Bessus had seized Darius.
+
+13.7. There Melon, the interpreter of Darius, was taken: sick in body, he had not been able to keep up with the column, and, caught by the king's swiftness, he pretended to be a deserter. From him Alexander learned what had been done.
+
+13.8. But the weary men needed rest: so to six thousand chosen cavalry he added three hundred whom they called dimachae. These carried heavier arms on their backs but rode on horseback; when occasion and place required, they were a line of infantry.
+
+13.9. While Alexander was about these matters, Orsines and Mithracenes came to him: hating the parricide of Bessus, they had deserted and reported that the Persians were five hundred stades off, and that they themselves would point out a shorter road.
+
+13.10. The arrival of the deserters was welcome to the king. So at first nightfall, with the same men as guides, he entered the road pointed out to him with a light force of cavalry, the phalanx being ordered to follow as fast as it could hasten. He himself, advancing in a hollow square, so governed the march that the foremost could be joined with the hindmost.
+
+13.11. They had advanced three hundred stades, when Brochubelus met them, the son of Mazaeus, once governor of Syria: he too, a deserter, reported that Bessus was no more than two hundred stades distant, and that the army, being greedy for plunder, was advancing in disorder and without array.
+
+13.12. They seemed to be making for Hyrcania: if he hurried to pursue them as they straggled, he would overtake them. Darius was still alive. To a man otherwise eager, the deserter had added the desire of overtaking them: so, putting in the spurs, they went at full gallop. And now the din of the enemy entering on their march could be heard, but a cloud of dust had cut off the view. So he checked his course a little while, until the dust settled.
+
+13.13. And now they had been sighted by the barbarians, and had themselves caught sight of the departing column—by no means a match for it, had Bessus had as much spirit for battle as he had had for parricide. For the barbarians were superior both in numbers and in strength; and, fresh, they were about to engage with men worn out.
+
+13.14. But the name of Alexander and his fame—the greatest factor of all in war—turned them, panic-stricken, to flight.
+
+13.15. Bessus, however, and the rest who shared in his crime, having reached the cart of Darius, began to urge him to mount a horse and snatch himself from the enemy by flight.
+
+13.16. He called the avenging gods to witness, and imploring the good faith of Alexander, refused to accompany the parricides. Then indeed, kindled with anger too, they hurled weapons at the king and, having pierced him with many wounds, left him.
+
+13.17. They wounded the beasts too, that they might not be able to draw him farther, and killed the two servants who attended the king.
+
+13.18. This deed accomplished, that they might scatter the traces of their flight, Nabarzanes made for Hyrcania, Bessus for Bactra, each with a few horsemen attending. The barbarians, abandoned by their leaders, scattered as hope or fear led each; only five hundred cavalry had gathered together, still uncertain whether it were better to resist or to flee.
+
+13.19. Alexander, on learning of the enemy's panic, sent Nicanor with part of the cavalry to check their flight, and himself followed with the rest. About three thousand of those who resisted were killed; the remaining column, like a herd of cattle, was driven along untouched, the king ordering that there be no slaughter.
+
+13.20. There was none of the captives who could point out the cart of Darius: they searched each one as they laid hold of it, yet no trace of the king's flight appeared.
+
+13.21. Scarcely three thousand cavalry followed Alexander in his haste. But upon those who followed more slowly the whole columns of the fleeing fell.
+
+13.22. Scarcely credible to tell, the captives were more than those who took them: so utterly had fortune driven all sense out of the terrified men, that they could not clearly perceive either the fewness of the enemy or their own numbers.
+
+13.23. Meanwhile the beasts that were carrying Darius, with none to guide them, had turned off the military road and, led astray, had come after four stades to a halt in a certain valley, worn out by the heat and by their wounds alike.
+
+13.24. Not far off was a spring: to it, pointed out by men who knew the country, Polystratus, a Macedonian, parched with thirst, came; and, while he drank water scooped up in his helmet, he caught sight of weapons fixed in the bodies of the failing beasts.
+
+13.25. And wondering that they had been stabbed rather than driven off, he caught the groan of a man half alive. So, after the manner of human nature, eager to see what might be concealed in that cart, he drew apart the hides with which it was covered and found Darius, pierced with many wounds. For the royal garb and the golden chains with which he had been bound by the parricides removed all doubt. Darius was not without knowledge of the Greek tongue, and he gave thanks to the gods, who after so many evils had granted him this comfort at least, that he should not pour out his last breath utterly alone in the wilderness. "And so," he said, "whoever you are among mortals, by the common lot of men—from which not even the greatest kings are exempt, as the present spectacle warns you—I ask and beseech you to carry these instructions to Alexander: that of all the things I have suffered—by far the most grievous—not even this end of an incredible calamity has fallen upon me so heavily as that, after such great services rendered to me and mine, I had to live as an enemy toward the most merciful of victors, and now must die ungrateful to him. But—if there is any power with the gods in the last prayers of the wretched, and if some divinity hears the prayers poured out with the very breath of life—may he, safe and unharmed, set far above the lot of my fortune and the envy of the gods, pass a glorious age upon the throne of Cyrus, and, mindful of his own valor, suffer my mother and my children to have a place with him such as they have earned by their loyalty and obedience. But upon the parricides may a swift destruction fall, which Alexander will inflict—if not out of pity for an unhappy enemy, then at least out of hatred for their crimes, and lest such deeds break out unpunished to the destruction of other kings and of himself as well." After this, when he was tormented by thirst, revived by water brought to him through Polystratus, he said: "And so this too has been ordained to come, as the last and crowning point of such great calamities, that I cannot render thanks to one who has deserved well of me: but Alexander will repay him, and the gods will repay Alexander." Then he stretched out his right hand, and, ordering it to be carried to Alexander as a pledge of his royal faith, having grasped the hand of Polystratus, he breathed out his soul. Whether Alexander came upon him while he was still breathing is uncertain: this much is agreed, that on learning of the pitiable end of the wealthiest of kings he shed very many tears, and at once, drawing off his own cloak, covered the body, and ordered it to be carried with great honor to his own people, that, tended after the royal custom of the Persians, it might be laid in the tombs of his ancestors. The treachery of the men by whom Darius, in return for the highest benefits, suffered a most cruel death—horrible and accursed though it was of its own nature—was branded with the more conspicuous infamy for posterity by the wondrous fidelity of a certain dog, which, abandoned by all his familiars, alone stood by him and rendered to him as he died the same fawning love it had shown him living. Such was the end of life that fell to him whom but now men thought themselves to be insulting if they did not salute him as king of kings and kinsman of the gods; and once again it was proved by a great example that no one lies more open to fortune than the man who, adorned with her many benefits, has taken her yoke upon his neck with his whole strength.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "scriptores-historiae-aug-alexander-severus-d95b45",
+  "work_title": "Alexander Severus",
+  "chapter_number": 1,
+  "chapter_title": "Alexander Severus",
+  "chapter_slug": "01-alexander-severus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b6c22a5e-5806-5faa-b144-33f351258284",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10749,
+      "paragraph_count": 603,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2331.phi018"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79d82092-7efc-57e0-a646-905edd028d9a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 16106,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

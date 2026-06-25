@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-valerius-martiali-epigrams-998913",
+  "work_title": "Epigrams",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bd171d93-8e09-53c0-a129-a1023622ea11",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4075,
+      "paragraph_count": 648,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1294.phi002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "22b213e9-5349-54af-ad45-cc410d60475e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6215,
+      "paragraph_count": 100,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

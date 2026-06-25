@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-valerius-martiali-epigrams-998913",
+  "work_title": "Epigrams",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06-book-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ba75ce15-05aa-5212-8ee6-22eb1614b64a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3875,
+      "paragraph_count": 618,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1294.phi002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6de8452f-4394-5723-94fa-0a8c24c989b9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5525,
+      "paragraph_count": 94,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

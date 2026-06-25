@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-54-7007ae",
+  "work_title": "Orationes 54",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 54",
+  "chapter_slug": "01-orationes-54",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8b1bb25a-8ab4-5447-bd3d-a0c52ef5288f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10993,
+      "paragraph_count": 93,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg054"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd8ca29b-2852-5231-880d-e1b66ede4228",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 14723,
+      "paragraph_count": 128,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

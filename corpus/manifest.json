@@ -2,10 +2,10 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1751,
-    "authors": 410,
+    "works": 1760,
+    "authors": 413,
     "eras": 10,
-    "genres": 27,
+    "genres": 28,
     "languages": 9
   },
   "works": [
@@ -33277,6 +33277,177 @@
       "difficulty": "Advanced",
       "description": "Silius Italicus's Punica, translated from the Latin by Thothica, with the Latin original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "demetrius-of-phaleron-on-style-4c75b6",
+      "title": "On Style",
+      "author": "Demetrius of Phaleron",
+      "author_slug": "demetrius-of-phaleron",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Rhetoric",
+      "genre_slug": "rhetoric",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Demetrius of Phaleron's On Style, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "scriptores-historiae-aug-alexander-severus-d95b45",
+      "title": "Alexander Severus",
+      "author": "Scriptores Historiae Augustae",
+      "author_slug": "scriptores-historiae-augustae",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "History",
+      "genre_slug": "history",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Scriptores Historiae Augustae's Alexander Severus, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "quintus-curtius-rufus-histories-of-alexander-the-great-476171",
+      "title": "Histories of Alexander the Great",
+      "author": "Quintus Curtius Rufus",
+      "author_slug": "quintus-curtius-rufus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "History",
+      "genre_slug": "history",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 8,
+      "total_variant_entries": 16,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Quintus Curtius Rufus's Histories of Alexander the Great, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "marcus-valerius-martiali-epigrams-998913",
+      "title": "Epigrams",
+      "author": "Marcus Valerius Martialis",
+      "author_slug": "marcus-valerius-martialis",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 14,
+      "total_variant_entries": 28,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Marcus Valerius Martialis's Epigrams, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "tertullian-adversus-judaeos-13912a",
+      "title": "Adversus Judaeos",
+      "author": "Tertullian",
+      "author_slug": "tertullian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tertullian's Adversus Judaeos, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "tertullian-adversus-hermogenem-a45bf7",
+      "title": "Adversus Hermogenem",
+      "author": "Tertullian",
+      "author_slug": "tertullian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tertullian's Adversus Hermogenem, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a",
+      "title": "Life of Apollonius of Tyana",
+      "author": "Flavius Philostratus",
+      "author_slug": "flavius-philostratus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 8,
+      "total_variant_entries": 16,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Flavius Philostratus's Life of Apollonius of Tyana, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "aelius-aristides-orationes-49-2146e0",
+      "title": "Orationes 49",
+      "author": "Aelius Aristides",
+      "author_slug": "aelius-aristides",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aelius Aristides's Orationes 49, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "aelius-aristides-orationes-54-7007ae",
+      "title": "Orationes 54",
+      "author": "Aelius Aristides",
+      "author_slug": "aelius-aristides",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aelius Aristides's Orationes 54, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -36724,7 +36895,9 @@
         "aelius-aristides-orationes-10-127f18",
         "aelius-aristides-orationes-1-399e11",
         "aelius-aristides-orationes-20-7ca572",
-        "aelius-aristides-orationes-55-383f99"
+        "aelius-aristides-orationes-55-383f99",
+        "aelius-aristides-orationes-49-2146e0",
+        "aelius-aristides-orationes-54-7007ae"
       ]
     },
     "julian": {
@@ -36861,7 +37034,9 @@
         "tertullian-de-exhortatione-castitatis-liber-170123",
         "tertullian-de-pallio-2b4851",
         "tertullian-de-testimonio-animae-137921",
-        "tertullian-adversus-marcionem-121178"
+        "tertullian-adversus-marcionem-121178",
+        "tertullian-adversus-judaeos-13912a",
+        "tertullian-adversus-hermogenem-a45bf7"
       ]
     },
     "scriptores-historiae-augustae": {
@@ -36895,7 +37070,8 @@
         "scriptores-historiae-aug-didius-julianus-e450eb",
         "scriptores-historiae-aug-helius-88e694",
         "scriptores-historiae-aug-antoninus-geta-73adaa",
-        "scriptores-historiae-aug-valeriani-duo-4f49b8"
+        "scriptores-historiae-aug-valeriani-duo-4f49b8",
+        "scriptores-historiae-aug-alexander-severus-d95b45"
       ]
     },
     "diodorus-siculus": {
@@ -36915,7 +37091,8 @@
       "works": [
         "flavius-philostratus-de-gymnastica-c26e4f",
         "flavius-philostratus-epistulae-et-dialexeis-c7dd8c",
-        "flavius-philostratus-nero-36fd7e"
+        "flavius-philostratus-nero-36fd7e",
+        "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a"
       ]
     },
     "aratus-of-soli": {
@@ -37079,6 +37256,24 @@
       "name": "Silius Italicus",
       "works": [
         "silius-italicus-punica-739044"
+      ]
+    },
+    "demetrius-of-phaleron": {
+      "name": "Demetrius of Phaleron",
+      "works": [
+        "demetrius-of-phaleron-on-style-4c75b6"
+      ]
+    },
+    "quintus-curtius-rufus": {
+      "name": "Quintus Curtius Rufus",
+      "works": [
+        "quintus-curtius-rufus-histories-of-alexander-the-great-476171"
+      ]
+    },
+    "marcus-valerius-martialis": {
+      "name": "Marcus Valerius Martialis",
+      "works": [
+        "marcus-valerius-martiali-epigrams-998913"
       ]
     }
   },
@@ -38226,7 +38421,8 @@
         "lycophron-alexandra-052646",
         "theophrastus-characters-1b9122",
         "theocritus-epigrams-6decd1",
-        "sallust-historiae-2e235b"
+        "sallust-historiae-2e235b",
+        "demetrius-of-phaleron-on-style-4c75b6"
       ]
     },
     "imperial": {
@@ -38711,7 +38907,12 @@
         "gaius-valerius-flaccus-argonautica-88ed5e",
         "statius-thebais-c8a661",
         "achilles-tatius-leucippe-and-clitophon-746f15",
-        "silius-italicus-punica-739044"
+        "silius-italicus-punica-739044",
+        "quintus-curtius-rufus-histories-of-alexander-the-great-476171",
+        "marcus-valerius-martiali-epigrams-998913",
+        "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a",
+        "aelius-aristides-orationes-49-2146e0",
+        "aelius-aristides-orationes-54-7007ae"
       ]
     },
     "late-antiquity": {
@@ -38847,7 +39048,10 @@
         "julian-the-heroic-deeds-of-the-emperor--2fbab1",
         "julian-against-the-galileans-f2b5f6",
         "julian-panegyric-in-honour-of-the-emper-169f16",
-        "clement-of-alexandria-stromata-694383"
+        "clement-of-alexandria-stromata-694383",
+        "scriptores-historiae-aug-alexander-severus-d95b45",
+        "tertullian-adversus-judaeos-13912a",
+        "tertullian-adversus-hermogenem-a45bf7"
       ]
     },
     "renaissance": {
@@ -38928,7 +39132,8 @@
         "philostratus-the-younger-imagines-a60583",
         "callistratus-descriptiones-64e2f8",
         "claudius-aelianus-rustic-letters-b0b81d",
-        "seneca-the-elder-fragmenta-4187fc"
+        "seneca-the-elder-fragmenta-4187fc",
+        "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a"
       ]
     },
     "indic": {
@@ -39176,7 +39381,9 @@
         "pseudo-tertullian-ad-uxorem-4c1cef",
         "tertullian-adversus-marcionem-121178",
         "aristotle-constitution-of-the-athenians-7282b2",
-        "clement-of-alexandria-stromata-694383"
+        "clement-of-alexandria-stromata-694383",
+        "tertullian-adversus-judaeos-13912a",
+        "tertullian-adversus-hermogenem-a45bf7"
       ]
     },
     "history": {
@@ -39287,7 +39494,9 @@
         "dionysius-of-halicarnass-de-thucydidis-idiomatibus-4eed97",
         "dionysius-of-halicarnass-de-antiquis-oratoribus-1e0cd0",
         "dionysius-of-halicarnass-libri-secundi-de-antiquis-orator-756e07",
-        "valerius-maximus-facta-et-dicta-memorabilia-86155b"
+        "valerius-maximus-facta-et-dicta-memorabilia-86155b",
+        "scriptores-historiae-aug-alexander-severus-d95b45",
+        "quintus-curtius-rufus-histories-of-alexander-the-great-476171"
       ]
     },
     "classics": {
@@ -40214,7 +40423,9 @@
         "aristophanes-frogs-e995cc",
         "julian-the-heroic-deeds-of-the-emperor--2fbab1",
         "julian-against-the-galileans-f2b5f6",
-        "julian-panegyric-in-honour-of-the-emper-169f16"
+        "julian-panegyric-in-honour-of-the-emper-169f16",
+        "aelius-aristides-orationes-49-2146e0",
+        "aelius-aristides-orationes-54-7007ae"
       ]
     },
     "political-theory": {
@@ -40744,7 +40955,8 @@
         "quintus-smyrnaeus-the-fall-of-troy-49a5ab",
         "gaius-valerius-flaccus-argonautica-88ed5e",
         "statius-thebais-c8a661",
-        "silius-italicus-punica-739044"
+        "silius-italicus-punica-739044",
+        "marcus-valerius-martiali-epigrams-998913"
       ]
     },
     "literary-criticism": {
@@ -40770,6 +40982,12 @@
       "name": "Fiction",
       "works": [
         "achilles-tatius-leucippe-and-clitophon-746f15"
+      ]
+    },
+    "rhetoric": {
+      "name": "Rhetoric",
+      "works": [
+        "demetrius-of-phaleron-on-style-4c75b6"
       ]
     }
   },
@@ -41619,7 +41837,11 @@
         "julian-panegyric-in-honour-of-the-emper-169f16",
         "aristotle-constitution-of-the-athenians-7282b2",
         "clement-of-alexandria-stromata-694383",
-        "achilles-tatius-leucippe-and-clitophon-746f15"
+        "achilles-tatius-leucippe-and-clitophon-746f15",
+        "demetrius-of-phaleron-on-style-4c75b6",
+        "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a",
+        "aelius-aristides-orationes-49-2146e0",
+        "aelius-aristides-orationes-54-7007ae"
       ]
     },
     "latin": {
@@ -41973,7 +42195,12 @@
         "gaius-valerius-flaccus-argonautica-88ed5e",
         "tertullian-adversus-marcionem-121178",
         "statius-thebais-c8a661",
-        "silius-italicus-punica-739044"
+        "silius-italicus-punica-739044",
+        "scriptores-historiae-aug-alexander-severus-d95b45",
+        "quintus-curtius-rufus-histories-of-alexander-the-great-476171",
+        "marcus-valerius-martiali-epigrams-998913",
+        "tertullian-adversus-judaeos-13912a",
+        "tertullian-adversus-hermogenem-a45bf7"
       ]
     },
     "english": {

@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-valerius-martiali-epigrams-998913",
+  "work_title": "Epigrams",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c3c0e100-78e5-5c10-8555-5ffacc4f12c6",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4034,
+      "paragraph_count": 669,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1294.phi002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a010ffe-7c58-51a5-a2fe-18091dd1cfa1",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5855,
+      "paragraph_count": 89,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

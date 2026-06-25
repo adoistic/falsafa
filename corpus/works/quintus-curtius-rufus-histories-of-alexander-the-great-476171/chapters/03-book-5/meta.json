@@ -1,0 +1,38 @@
+{
+  "work_slug": "quintus-curtius-rufus-histories-of-alexander-the-great-476171",
+  "work_title": "Histories of Alexander the Great",
+  "chapter_number": 3,
+  "chapter_title": "Book 5",
+  "chapter_slug": "03-book-5",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "82b28152-6665-52f7-919f-bd9d1b6aeb7b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8738,
+      "paragraph_count": 286,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0860.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "139f183f-d31f-5ae9-8c5c-1b68b5991916",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14065,
+      "paragraph_count": 286,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

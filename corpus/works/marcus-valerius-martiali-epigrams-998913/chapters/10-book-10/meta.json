@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-valerius-martiali-epigrams-998913",
+  "work_title": "Epigrams",
+  "chapter_number": 10,
+  "chapter_title": "Book 10",
+  "chapter_slug": "10-book-10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f67a2161-e640-54d6-a19b-961663f30f98",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5385,
+      "paragraph_count": 898,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1294.phi002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "150dc44a-72a2-51f9-9a1e-d12fe0af1d93",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7944,
+      "paragraph_count": 104,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

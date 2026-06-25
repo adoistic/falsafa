@@ -1,0 +1,38 @@
+{
+  "work_slug": "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a",
+  "work_title": "Life of Apollonius of Tyana",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08-book-8",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8b1beea4-4c10-553e-a193-eec8a71eafa2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11699,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0638.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5b8f2bdc-a00e-53d4-8a55-a0a7e167b11f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15380,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

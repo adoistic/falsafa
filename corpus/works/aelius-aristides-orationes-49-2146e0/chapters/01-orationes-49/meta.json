@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-49-2146e0",
+  "work_title": "Orationes 49",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 49",
+  "chapter_slug": "01-orationes-49",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5900aecd-f4e3-5893-a25c-d232b1c30f63",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11228,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg049"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f04ef18e-6cc8-5101-98ea-b9f8ddbbfed1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15019,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

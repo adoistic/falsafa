@@ -1,0 +1,38 @@
+{
+  "work_slug": "marcus-valerius-martiali-epigrams-998913",
+  "work_title": "Epigrams",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08-book-8",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "90dfb14a-5878-58cb-96f7-d6f5bb05731b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4276,
+      "paragraph_count": 679,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1294.phi002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b1f320db-3166-5bd6-bf13-67f819184602",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6406,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

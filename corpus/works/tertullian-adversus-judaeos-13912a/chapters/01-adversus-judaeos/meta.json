@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-adversus-judaeos-13912a",
+  "work_title": "Adversus Judaeos",
+  "chapter_number": 1,
+  "chapter_title": "Adversus Judaeos",
+  "chapter_slug": "01-adversus-judaeos",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f5c6d13c-f676-596e-a19d-324f4cc6aa2a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11200,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa005"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74e04429-300d-508e-81f8-86792117bc6e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 16934,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

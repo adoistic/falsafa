@@ -1,0 +1,38 @@
+{
+  "work_slug": "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a",
+  "work_title": "Life of Apollonius of Tyana",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05-book-5",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ec9db224-bc0c-5463-a5a0-4e6053deb0f7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9248,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0638.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fcc8f1df-861a-5482-ac72-259a37dd2f66",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12618,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
