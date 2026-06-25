@@ -1,0 +1,38 @@
+{
+  "work_slug": "statius-thebais-c8a661",
+  "work_title": "Thebais",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08-book-8",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e4489e60-cfba-5ee1-aa54-0d8394fad13e",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4997,
+      "paragraph_count": 766,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1020.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b501edb0-25c5-5a3d-a9ab-5ed46bcee860",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8138,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

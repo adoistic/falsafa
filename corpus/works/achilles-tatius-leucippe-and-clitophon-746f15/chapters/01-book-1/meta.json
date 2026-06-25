@@ -1,0 +1,38 @@
+{
+  "work_slug": "achilles-tatius-leucippe-and-clitophon-746f15",
+  "work_title": "Leucippe and Clitophon",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7541753f-e225-56e7-a4f6-5b3ba9a71b35",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5056,
+      "paragraph_count": 112,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0532.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "55e7b746-bcc9-57eb-b69e-3cd63f554c6a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6704,
+      "paragraph_count": 112,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

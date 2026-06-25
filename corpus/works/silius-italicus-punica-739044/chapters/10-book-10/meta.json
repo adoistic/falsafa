@@ -1,0 +1,38 @@
+{
+  "work_slug": "silius-italicus-punica-739044",
+  "work_title": "Punica",
+  "chapter_number": 10,
+  "chapter_title": "Book 10",
+  "chapter_slug": "10-book-10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "77fd5f3a-920b-59b9-85ec-c63d4f7c5efa",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4220,
+      "paragraph_count": 659,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1345.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b690ce13-5e1d-5d53-8864-59ffd1c4c31e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6805,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

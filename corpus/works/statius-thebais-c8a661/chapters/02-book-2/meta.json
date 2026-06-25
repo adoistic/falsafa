@@ -1,0 +1,38 @@
+{
+  "work_slug": "statius-thebais-c8a661",
+  "work_title": "Thebais",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02-book-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f09f98ee-74b2-5a26-8a2b-d6fba046c3e8",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4734,
+      "paragraph_count": 743,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1020.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "38e3c8b0-4536-5fc0-aeb0-f418b84e53ce",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8072,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

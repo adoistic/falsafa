@@ -1,0 +1,38 @@
+{
+  "work_slug": "silius-italicus-punica-739044",
+  "work_title": "Punica",
+  "chapter_number": 11,
+  "chapter_title": "Book 11",
+  "chapter_slug": "11-book-11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ead6f35f-aa9d-5b6e-b3c5-1ee94ba6093e",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3873,
+      "paragraph_count": 612,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1345.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74d33cb1-5649-5b78-81b7-4cefd249e893",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6316,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

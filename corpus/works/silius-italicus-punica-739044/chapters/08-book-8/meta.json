@@ -1,0 +1,38 @@
+{
+  "work_slug": "silius-italicus-punica-739044",
+  "work_title": "Punica",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08-book-8",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "914a1341-10fc-5968-b275-3773f8e4ea3b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4265,
+      "paragraph_count": 681,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1345.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "78cdf2af-9d02-534e-8a18-c723f7876a82",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6961,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

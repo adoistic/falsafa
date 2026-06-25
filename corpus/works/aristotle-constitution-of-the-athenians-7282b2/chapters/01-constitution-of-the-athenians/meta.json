@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristotle-constitution-of-the-athenians-7282b2",
+  "work_title": "Constitution of the Athenians",
+  "chapter_number": 1,
+  "chapter_title": "Constitution of the Athenians",
+  "chapter_slug": "01-constitution-of-the-athenians",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5f234f82-5b98-5de0-93f2-c0c5958ac98a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 17020,
+      "paragraph_count": 307,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c07fa78f-8fa5-5f96-8389-88a98833fd38",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 21832,
+      "paragraph_count": 320,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

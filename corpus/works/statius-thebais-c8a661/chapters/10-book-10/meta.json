@@ -1,0 +1,38 @@
+{
+  "work_slug": "statius-thebais-c8a661",
+  "work_title": "Thebais",
+  "chapter_number": 10,
+  "chapter_title": "Book 10",
+  "chapter_slug": "10-book-10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8c8b57a3-b8ae-5824-a83d-0a7b70bff143",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6083,
+      "paragraph_count": 939,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1020.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb69c9a7-f47a-5482-b618-4fbb41383975",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10123,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

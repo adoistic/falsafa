@@ -1,0 +1,38 @@
+{
+  "work_slug": "gaius-valerius-flaccus-argonautica-88ed5e",
+  "work_title": "Argonautica",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06-book-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fda1c547-f487-5bb0-829f-8989d520f5fd",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4973,
+      "paragraph_count": 762,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1035.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d2eec137-3dbf-5c1e-99e5-1d5d48dee1d9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7992,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

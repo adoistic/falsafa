@@ -1,0 +1,38 @@
+{
+  "work_slug": "statius-thebais-c8a661",
+  "work_title": "Thebais",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f8a7846a-1c3b-5f25-ba42-0e342dcb1b32",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5374,
+      "paragraph_count": 842,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1020.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae3561d4-72fe-508b-a3f8-2950bbc81897",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8974,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

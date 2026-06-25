@@ -1,0 +1,38 @@
+{
+  "work_slug": "silius-italicus-punica-739044",
+  "work_title": "Punica",
+  "chapter_number": 12,
+  "chapter_title": "Book 12",
+  "chapter_slug": "12-book-12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3df30c5a-0956-5202-a99e-602be3406be6",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4705,
+      "paragraph_count": 753,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1345.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "af7dd23f-66ef-5662-a923-f09739fd422e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7793,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

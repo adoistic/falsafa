@@ -1,0 +1,38 @@
+{
+  "work_slug": "clement-of-alexandria-stromata-694383",
+  "work_title": "Stromata",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06-book-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0468a302-9f99-54f8-bd5a-240dbb4b105f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 25930,
+      "paragraph_count": 459,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0555.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bb47de58-d2ed-5bf8-8537-8f6aecaba6de",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 33843,
+      "paragraph_count": 168,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

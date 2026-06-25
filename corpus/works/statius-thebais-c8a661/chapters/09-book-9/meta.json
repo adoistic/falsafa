@@ -1,0 +1,38 @@
+{
+  "work_slug": "statius-thebais-c8a661",
+  "work_title": "Thebais",
+  "chapter_number": 9,
+  "chapter_title": "Book 9",
+  "chapter_slug": "09-book-9",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "07023587-7250-59b9-b789-c01c73dad674",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5878,
+      "paragraph_count": 906,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1020.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2f6b7bee-2fae-5249-8f7b-a863f972e4a4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9581,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "gaius-valerius-flaccus-argonautica-88ed5e",
+  "work_title": "Argonautica",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "009c3c9a-5523-5d68-88dd-84055a7d5162",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5121,
+      "paragraph_count": 763,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1035.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a6248fc-453c-5592-8541-ddfa7c15b189",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8464,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

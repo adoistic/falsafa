@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristophanes-frogs-e995cc",
+  "work_title": "Frogs",
+  "chapter_number": 1,
+  "chapter_title": "Frogs",
+  "chapter_slug": "01-frogs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "14766368-f1c8-5e62-9271-2d785c70da97",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6643,
+      "paragraph_count": 1221,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0019.tlg009"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c0a326f6-9f9a-5dda-90a4-a651a97e9abd",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9004,
+      "paragraph_count": 439,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

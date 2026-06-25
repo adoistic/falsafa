@@ -1,0 +1,2277 @@
+[
+  {
+    "id": "p-b36138",
+    "offset": 0,
+    "text": "SOSIAS\nHey there, what's the matter with you, poor Xanthias?"
+  },
+  {
+    "id": "p-1cd733",
+    "offset": 62,
+    "text": "XANTHIAS\nI'm being trained to drop a night watch."
+  },
+  {
+    "id": "p-8949a8",
+    "offset": 113,
+    "text": "SOSIAS\nThen your ribs must owe somebody a big beating.\nDo you even know what kind of monster we're guarding?"
+  },
+  {
+    "id": "p-e52c64",
+    "offset": 223,
+    "text": "XANTHIAS\nI know — but I'd like to doze off my worries for a bit."
+  },
+  {
+    "id": "p-95bcb5",
+    "offset": 289,
+    "text": "SOSIAS\nTake the risk, then, since over my own eyes too\nsomething sweet is being poured out of sleep."
+  },
+  {
+    "id": "p-f70af4",
+    "offset": 391,
+    "text": "XANTHIAS\nAre you really out of your mind, or possessed like a Corybant?"
+  },
+  {
+    "id": "p-1a12c3",
+    "offset": 464,
+    "text": "SOSIAS\nNo — but a kind of sleep from Sabazius has hold of me."
+  },
+  {
+    "id": "p-c5d737",
+    "offset": 527,
+    "text": "XANTHIAS\nThen you and I tend the same Sabazius,\nfor just now a sleep dropped on me too — a sentry-\nMede laid siege to my eyelids and made me nod.\nAnd just now I saw a marvellous dream."
+  },
+  {
+    "id": "p-97fe29",
+    "offset": 713,
+    "text": "SOSIAS\nSo did I, truly — one such as never before.\nBut tell yours first."
+  },
+  {
+    "id": "p-468165",
+    "offset": 787,
+    "text": "XANTHIAS\nI dreamed I saw an eagle,\na very big one, swoop down into the market square,\nsnatch up a bronze-faced shield in its talons,\nand carry it up high into the sky —\nand then Cleonymus threw it away."
+  },
+  {
+    "id": "p-aca4fa",
+    "offset": 991,
+    "text": "SOSIAS\nSo Cleonymus is no different from a riddle."
+  },
+  {
+    "id": "p-3641b6",
+    "offset": 1043,
+    "text": "XANTHIAS\nHow so?"
+  },
+  {
+    "id": "p-934cf0",
+    "offset": 1061,
+    "text": "SOSIAS\nSomeone will say to his drinking-companions:\n\"What creature is it that, on land and in the sky\nand in the sea alike, threw away its shield?\""
+  },
+  {
+    "id": "p-f3d5f3",
+    "offset": 1210,
+    "text": "XANTHIAS\nOh no — what evil is going to come to me\nfor having seen a dream like that?"
+  },
+  {
+    "id": "p-0f35c0",
+    "offset": 1296,
+    "text": "SOSIAS\nDon't worry.\nNothing terrible will come of it, by the gods, none."
+  },
+  {
+    "id": "p-fa9fad",
+    "offset": 1370,
+    "text": "XANTHIAS\nIt is a terrible thing, a man throwing away his arms.\nBut now tell yours."
+  },
+  {
+    "id": "p-25038a",
+    "offset": 1454,
+    "text": "SOSIAS\nWell, it's a big one.\nIt's about the whole hull of the ship of state."
+  },
+  {
+    "id": "p-c57e94",
+    "offset": 1532,
+    "text": "XANTHIAS\nTell me, then — quick — the very keel of the matter."
+  },
+  {
+    "id": "p-1220c2",
+    "offset": 1595,
+    "text": "SOSIAS\nIn my first sleep I dreamed that on the Pnyx\na flock of sheep sat in assembly together,\nholding staffs and little threadbare cloaks;\nand then before these sheep, I dreamed,\na greedy she-whale was haranguing them,\nwith a voice like a pig being roasted."
+  },
+  {
+    "id": "p-081ab9",
+    "offset": 1855,
+    "text": "XANTHIAS\nUgh."
+  },
+  {
+    "id": "p-378a6b",
+    "offset": 1870,
+    "text": "SOSIAS\nWhat's wrong?"
+  },
+  {
+    "id": "p-80767f",
+    "offset": 1892,
+    "text": "XANTHIAS\nStop, stop, say no more —\nthat dream stinks horribly of rotten leather."
+  },
+  {
+    "id": "p-e9c3b7",
+    "offset": 1974,
+    "text": "SOSIAS\nThen the foul she-whale took a balance\nand weighed out ox-fat."
+  },
+  {
+    "id": "p-73feb4",
+    "offset": 2045,
+    "text": "XANTHIAS\nPoor me — she wants\nto divide our People into factions."
+  },
+  {
+    "id": "p-23e504",
+    "offset": 2111,
+    "text": "SOSIAS\nThen I dreamed Theorus was sitting near her\non the ground, with the head of a raven.\nAnd then Alcibiades said to me, with his lisp,\n\"Do you thee? Theoruth hath the head of a waven.\""
+  },
+  {
+    "id": "p-3f7741",
+    "offset": 2301,
+    "text": "XANTHIAS\nThat's the right way for Alcibiades to lisp it."
+  },
+  {
+    "id": "p-479ccd",
+    "offset": 2359,
+    "text": "SOSIAS\nIsn't it odd, though — Theorus turning\ninto a raven?"
+  },
+  {
+    "id": "p-af91e5",
+    "offset": 2420,
+    "text": "XANTHIAS\nNot at all — it's excellent."
+  },
+  {
+    "id": "p-88ad87",
+    "offset": 2459,
+    "text": "SOSIAS\nHow?"
+  },
+  {
+    "id": "p-e07646",
+    "offset": 2472,
+    "text": "XANTHIAS\nHow? A man, and then suddenly a raven —\nisn't it plain to guess from that\nthat he'll be carried off from us and go to the ravens — to ruin?"
+  },
+  {
+    "id": "p-20a578",
+    "offset": 2622,
+    "text": "SOSIAS\nThen shouldn't I pay two obols to hire you,\nseeing how cleverly you play the dream-interpreter?"
+  },
+  {
+    "id": "p-baf89f",
+    "offset": 2726,
+    "text": "XANTHIAS\nCome now, let me explain the plot to the spectators,\nafter first telling them just these few things:\nexpect nothing too grand from us,\nand no laughter pilfered from Megara.\nFor we have no slaves throwing out nuts\nfrom a basket to the audience,\nno Heracles cheated of his dinner,\nnor any fresh outrage on Euripides;\nand not even if Cleon shone, thanks to a stroke of luck,\nwill we mince up the same man over again.\nNo — we have a little tale with a point,\nnot over your own heads, no,\nbut cleverer than vulgar comedy.\nYou see, we have a master — that one up there,\nasleep on top of the roof, the great man.\nHe's set the two of us to guard his father,\nshut up indoors, so he won't get out the door.\nFor the father suffers a strange disease,\none no man would ever know or guess at\nunless he heard it from us — so make your guesses.\nAmynias, son of Pronapus, here says\nthe man's a dice-addict — but he's talking nonsense."
+  },
+  {
+    "id": "p-453385",
+    "offset": 3654,
+    "text": "SOSIAS\nBy Zeus, no — he's guessing the disease from his own case."
+  },
+  {
+    "id": "p-dc24ca",
+    "offset": 3721,
+    "text": "XANTHIAS\nNo — though \"addict-of-\" is the start of the trouble.\nAnd here's Sosias telling Derkylos\nthe man's a drink-addict."
+  },
+  {
+    "id": "p-f56aba",
+    "offset": 3846,
+    "text": "SOSIAS\nNot at all, since\nthat's the disease of honest men."
+  },
+  {
+    "id": "p-337626",
+    "offset": 3906,
+    "text": "XANTHIAS\nAnd Nikostratos of Skambonidae says\nthe man's a sacrifice-addict, or a hospitality-addict."
+  },
+  {
+    "id": "p-d57bb8",
+    "offset": 4007,
+    "text": "SOSIAS\nBy the Dog, Nikostratos, no, not hospitality —\nsince Philoxenus is a hospitable bugger of a sort."
+  },
+  {
+    "id": "p-b5082e",
+    "offset": 4113,
+    "text": "XANTHIAS\nYou're all babbling pointlessly — you'll never find it.\nIf you really want to know, be quiet now.\nFor I'll tell you the master's disease right away.\nHe's a trial-addict, like no other man,\nin love with it — with judging — and he groans\nif he doesn't get to sit on the front bench.\nAt night he doesn't see a wink of sleep.\nAnd if he does shut his eyes even a speck, even so\nhis mind flies there, all night, around the water-clock.\nAnd because he's used to holding the voting-pebble,\nhe gets up clutching three fingers together,\nlike a man laying incense on the altar at the new moon.\nAnd by Zeus, if he sees written up somewhere\non a door \"Demos is beautiful, Pyrilampes' son,\"\nhe goes and writes beside it \"the ballot-funnel is beautiful.\"\nThe cock that crowed from evening on, he said\nwas rousing him late, having been bribed\nand paid by the men under audit.\nStraight from supper he's bawling for his shoes,\nthen off he goes there, lies down very early,\nclinging to the column like a limpet.\nAnd from sheer bad temper he votes the long line — the harsh sentence — for everyone;\nand like a bee or a bumblebee he comes home\nwith wax plastered under his fingernails.\nAnd afraid that he might one day run short of pebbles\nto do his judging with, he keeps a whole beach indoors.\nSo he raves. And the more he's reproached,\nthe more he judges. So we guard this one,\nchaining him in with bolts, so he won't get out.\nFor his son takes the disease hard.\nFirst he tried by gentle words to coax\nand persuade him not to wear the threadbare cloak\nnor go out the door — but he wouldn't be persuaded.\nThen he washed and purified him — and he wouldn't have it.\nAfter that he treated him with Corybant rites —\nand the old man, drum and all, rushed in\nto the New Court and went on judging.\nAnd when these rituals were no help,\nhe sailed across to Aegina, and then seized him\nand laid him down by night in the temple of Asclepius —\nand the man showed up at the rail at first light.\nAfter that we let him out no more,\nbut he'd slip away through the drains\nand the spouts; and we stuffed up every hole there was\nwith rags and plugged them tight;\nbut he, like a jackdaw, knocked in pegs\nfor himself along the wall, and then leapt out.\nSo we have spread nets over the whole courtyard\nall the way round, and we keep watch.\nThe old man's name is Philocleon —\nyes, by Zeus — and the son's here is Bdelycleon,\na fellow with rather snooty, high-and-mighty ways."
+  },
+  {
+    "id": "p-c2490b",
+    "offset": 6557,
+    "text": "BDELYCLEON\nHey, Xanthias and Sosias — are you asleep?"
+  },
+  {
+    "id": "p-ad26be",
+    "offset": 6612,
+    "text": "XANTHIAS\nOh no."
+  },
+  {
+    "id": "p-00513a",
+    "offset": 6629,
+    "text": "SOSIAS\nWhat is it?"
+  },
+  {
+    "id": "p-4fb5c9",
+    "offset": 6649,
+    "text": "XANTHIAS\nBdelycleon's getting up."
+  },
+  {
+    "id": "p-113d63",
+    "offset": 6684,
+    "text": "BDELYCLEON\nWon't one of you run round here quick?\nMy father's gone into the kitchen\nand is rooting about in there like a mouse. Watch —\nsee he doesn't slip out through the drain-hole of the basin.\nAnd you, lean against the door."
+  },
+  {
+    "id": "p-a57799",
+    "offset": 6914,
+    "text": "SOSIAS\nYes, master."
+  },
+  {
+    "id": "p-dcb725",
+    "offset": 6935,
+    "text": "BDELYCLEON\nLord Poseidon, what's that noise in the chimney?\nHey — who are you?"
+  },
+  {
+    "id": "p-74c967",
+    "offset": 7015,
+    "text": "PHILOCLEON\nIt's me — coming out as smoke."
+  },
+  {
+    "id": "p-7d1c52",
+    "offset": 7058,
+    "text": "BDELYCLEON\nSmoke? Let me see — from what wood?"
+  },
+  {
+    "id": "p-8fc6be",
+    "offset": 7106,
+    "text": "PHILOCLEON\nFig-wood."
+  },
+  {
+    "id": "p-14008f",
+    "offset": 7128,
+    "text": "BDELYCLEON\nBy Zeus, the sharpest, most acrid of all smokes.\nBut you won't slip out. Where's the chimney-board?\nGet back down. Here, let me put a log on you too.\nNow look for some other scheme in there.\nBut I'm the most wretched man alive — no one more —\nthe man who'll now be called \"son of Smoky.\""
+  },
+  {
+    "id": "p-e31f77",
+    "offset": 7428,
+    "text": "SOSIAS\nHe's pushing at the door."
+  },
+  {
+    "id": "p-35a641",
+    "offset": 7462,
+    "text": "BDELYCLEON\nPress hard, then,\nwell and like a man — I'm coming there too.\nAnd mind the latch, and watch the bar\nso he doesn't gnaw the pin right out."
+  },
+  {
+    "id": "p-a7ad37",
+    "offset": 7612,
+    "text": "PHILOCLEON\nWhat are you doing? Won't you let me out, you scum,\nto go judge? Is Dracontides to get off scot-free?"
+  },
+  {
+    "id": "p-63568a",
+    "offset": 7726,
+    "text": "BDELYCLEON\nAnd you'd take that hard?"
+  },
+  {
+    "id": "p-571f1e",
+    "offset": 7764,
+    "text": "PHILOCLEON\nYes — for the god,\nwhen I once consulted him at Delphi, told me\nthat whenever a defendant escapes me, I'll wither away."
+  },
+  {
+    "id": "p-3f8686",
+    "offset": 7896,
+    "text": "BDELYCLEON\nApollo, avert that oracle!"
+  },
+  {
+    "id": "p-0508f4",
+    "offset": 7935,
+    "text": "PHILOCLEON\nCome, I beg you, let me out, or I'll burst."
+  },
+  {
+    "id": "p-4620e1",
+    "offset": 7991,
+    "text": "BDELYCLEON\nBy Poseidon, Philocleon, never."
+  },
+  {
+    "id": "p-5a2177",
+    "offset": 8035,
+    "text": "PHILOCLEON\nThen I'll gnaw through the net with my teeth."
+  },
+  {
+    "id": "p-d7c2bd",
+    "offset": 8093,
+    "text": "BDELYCLEON\nBut you've no teeth."
+  },
+  {
+    "id": "p-d408e2",
+    "offset": 8126,
+    "text": "PHILOCLEON\nPoor wretched me!\nHow could I kill you? How? Give me a sword,\nquick — or a tablet for fixing penalties."
+  },
+  {
+    "id": "p-45fc77",
+    "offset": 8242,
+    "text": "BDELYCLEON\nThis fellow means to do some great mischief."
+  },
+  {
+    "id": "p-11b775",
+    "offset": 8299,
+    "text": "PHILOCLEON\nBy Zeus, not at all — I only want to sell\nthe donkey, panniers and all —\nit's the new moon, you know, market day."
+  },
+  {
+    "id": "p-cdd764",
+    "offset": 8425,
+    "text": "BDELYCLEON\nThen couldn't I\nsell it myself just as well?"
+  },
+  {
+    "id": "p-db6b8d",
+    "offset": 8482,
+    "text": "PHILOCLEON\nNot the way I would."
+  },
+  {
+    "id": "p-9dd212",
+    "offset": 8515,
+    "text": "BDELYCLEON\nBy Zeus, better."
+  },
+  {
+    "id": "p-b83dee",
+    "offset": 8544,
+    "text": "PHILOCLEON\nWell then, bring the donkey out."
+  },
+  {
+    "id": "p-5441f4",
+    "offset": 8589,
+    "text": "SOSIAS\nWhat an excuse he let down — how slyly —\nto get you to send him out!"
+  },
+  {
+    "id": "p-b3537b",
+    "offset": 8666,
+    "text": "BDELYCLEON\nBut he hauled in nothing\nthat way — I saw what he was scheming.\nBut I think I'll go in and bring the donkey out myself\nso the old man can't even peep through again.\nDonkey, why are you crying? Because you'll be sold today?\nWalk faster. Why groan, unless you're carrying\nsome Odysseus?"
+  },
+  {
+    "id": "p-eae7af",
+    "offset": 8963,
+    "text": "SOSIAS\nBut by Zeus, it is carrying one —\nlook, here's a man slipped under it down below."
+  },
+  {
+    "id": "p-4a8549",
+    "offset": 9053,
+    "text": "BDELYCLEON\nWhat man? Let me see. This here — what was it?\nWho in the world are you, fellow, really?"
+  },
+  {
+    "id": "p-86d795",
+    "offset": 9154,
+    "text": "PHILOCLEON\nNoman, by Zeus."
+  },
+  {
+    "id": "p-82d66d",
+    "offset": 9182,
+    "text": "BDELYCLEON\nNoman, you? From where?"
+  },
+  {
+    "id": "p-14d305",
+    "offset": 9218,
+    "text": "PHILOCLEON\nIthacan, son of Runaway-horse."
+  },
+  {
+    "id": "p-69d86a",
+    "offset": 9261,
+    "text": "BDELYCLEON\nNoman — by Zeus, you won't get any joy of it.\nDrag him out quick. The filthiest of men,\nwhere he's crept under! He looks to me\nmost like the foal of a process-server."
+  },
+  {
+    "id": "p-a0591b",
+    "offset": 9440,
+    "text": "PHILOCLEON\nIf you don't leave me in peace, we'll fight."
+  },
+  {
+    "id": "p-7a458d",
+    "offset": 9497,
+    "text": "BDELYCLEON\nAnd what'll we be fighting about, exactly?"
+  },
+  {
+    "id": "p-38a329",
+    "offset": 9552,
+    "text": "PHILOCLEON\nAbout a donkey's shadow."
+  },
+  {
+    "id": "p-1ffec6",
+    "offset": 9589,
+    "text": "BDELYCLEON\nYou're a sorry sort, far gone in cunning, and reckless."
+  },
+  {
+    "id": "p-30b9a5",
+    "offset": 9657,
+    "text": "PHILOCLEON\nMe, sorry? By Zeus, no — but you don't know\nhow good I am right now. Maybe you will, once you've eaten\nthe paunch of an old juryman."
+  },
+  {
+    "id": "p-7a496c",
+    "offset": 9802,
+    "text": "BDELYCLEON\nShove the donkey and yourself back into the house."
+  },
+  {
+    "id": "p-703d40",
+    "offset": 9865,
+    "text": "PHILOCLEON\nFellow-jurors! Cleon! Help!"
+  },
+  {
+    "id": "p-5a321a",
+    "offset": 9905,
+    "text": "BDELYCLEON\nBawl indoors, with the door shut.\nYou, push a lot of stones against the door,\nand ram the pin back into the bar,\nand set the big mortar against the beam\nand roll it up, quick."
+  },
+  {
+    "id": "p-8cdc9a",
+    "offset": 10093,
+    "text": "SOSIAS\nPoor wretched me!\nWhere on earth did this clod fall on me from?"
+  },
+  {
+    "id": "p-5b3c91",
+    "offset": 10165,
+    "text": "BDELYCLEON\nMaybe a mouse threw it at you from above somewhere."
+  },
+  {
+    "id": "p-18bc8c",
+    "offset": 10229,
+    "text": "SOSIAS\nA mouse? By Zeus, no — it's a juryman of the rafters\nhere, slipping out from under the tiles."
+  },
+  {
+    "id": "p-d60610",
+    "offset": 10331,
+    "text": "BDELYCLEON\nOh no, the man's turning into a sparrow.\nHe'll fly off. Where, where's my net?\nShoo, shoo — back again, shoo! By Zeus, it really would\nhave been better to guard Scione than this father of mine."
+  },
+  {
+    "id": "p-6e8883",
+    "offset": 10537,
+    "text": "SOSIAS\nCome now — since we've scared him off,\nand there's no way he can slip past us unseen again,\nwhy don't we sleep just the tiniest scrap?"
+  },
+  {
+    "id": "p-caab4a",
+    "offset": 10680,
+    "text": "BDELYCLEON\nBut you poor fool, in a little while they'll come —\nthe fellow-jurors — calling out for this man,\nmy father."
+  },
+  {
+    "id": "p-42e26e",
+    "offset": 10801,
+    "text": "SOSIAS\nWhat do you mean? But it's deep dawn now."
+  },
+  {
+    "id": "p-eb9eef",
+    "offset": 10851,
+    "text": "BDELYCLEON\nBy Zeus, they've got up late this time, then.\nFor from the middle of the night they always come calling,\ncarrying lamps and humming old tunes,\nhoney-sweet songs of Phrynichus the Sidonian,\nto call him out."
+  },
+  {
+    "id": "p-19b086",
+    "offset": 11069,
+    "text": "SOSIAS\nWell then, if need be,\nwe'll soon pelt them with stones."
+  },
+  {
+    "id": "p-df3d83",
+    "offset": 11134,
+    "text": "BDELYCLEON\nBut you poor fool, that tribe of old men,\nif anyone rouses them to anger, is like a wasps' nest.\nFor they have a sting too, out of the rump,\nvery sharp, with which they prick; and with a shout\nthey leap and pelt like sparks of fire."
+  },
+  {
+    "id": "p-a8d7a5",
+    "offset": 11379,
+    "text": "SOSIAS\nDon't worry. If I've got stones,\nI'll scatter a whole swarm of jurymen."
+  },
+  {
+    "id": "p-ef950e",
+    "offset": 11459,
+    "text": "CHORUS\nMarch on, step out stoutly. Comias, you're lagging.\nBy Zeus, you weren't like this before — you were a strap of dog-leather.\nBut now Charinades is a better walker than you.\nStrymodorus of Conthyle, best of fellow-jurors,\nis Euergides here anywhere, or Chabes of Phlya?\nThey're here — what's left of that prime, alas, alas,\nof those days of youth when we were together in Byzantium\non garrison duty, you and I; and then, walking about by night,\nwe filched the bread-woman's kneading-trough without her knowing,\nand split it up and boiled our pot-herbs on it.\nBut let's hurry, men, for today it'll be Laches' turn;\nthey all say he's got a beehive stuffed with money.\nSo yesterday Cleon, our guardian, ordered us\nto come in good time, bringing three days' worth of bitter anger\nagainst him, to punish him for the wrongs he's done. But come,\nlet's make haste, men of our years, before day breaks.\nLet's go, and with the lamp let's peer all around,\nin case some stone in the path does us a mischief."
+  },
+  {
+    "id": "p-de974f",
+    "offset": 12462,
+    "text": "BOY\nFather, oh father, watch out for this mud here."
+  },
+  {
+    "id": "p-f11661",
+    "offset": 12515,
+    "text": "CHORUS\nPick up a twig from the ground and trim the lamp-wick with it."
+  },
+  {
+    "id": "p-90ddd3",
+    "offset": 12586,
+    "text": "BOY\nNo — I think I'll trim the lamp with this finger."
+  },
+  {
+    "id": "p-209d25",
+    "offset": 12641,
+    "text": "CHORUS\nWhat got into you, poking the wick with your finger,\nand that when oil's scarce, you fool?\nIt doesn't pinch you, does it, when we have to buy it dear."
+  },
+  {
+    "id": "p-f64874",
+    "offset": 12800,
+    "text": "BOY\nBy Zeus, if you correct us again with your knuckles,\nwe'll put out the lamps and go home by ourselves;\nand then, perhaps, robbed of this in the dark,\nyou'll go stirring up the mud as you walk, like a snipe."
+  },
+  {
+    "id": "p-9a8488",
+    "offset": 13012,
+    "text": "CHORUS\nFor sure I punish bigger fellows than you.\nBut here's some muck I seem to be treading in;\nand there's no way but that within four days at most\nthe god must of necessity make rain.\nThese mushroom-snuffs have crept up on the lamps here, anyway;\nand when that happens, it's especially apt to bring rain.\nAnd the crops too, the ones not yet ripe, need\nrain to come, and a north wind to breathe on them."
+  },
+  {
+    "id": "p-47764b",
+    "offset": 13419,
+    "text": "But what's happened to the juror from this house here,\nthat he doesn't appear out here to join the crowd?\nHe wasn't a laggard before — no, he'd lead us off,\nthe first of us, singing Phrynichus; for the man's\na lover of song. But I think, men, we should stand here\nand sing to call him out, in case somehow, hearing\nmy song, for the pleasure of it he'll creep out the door."
+  },
+  {
+    "id": "p-84bcae",
+    "offset": 13793,
+    "text": "CHORUS\nWhy doesn't the old man show himself at his door, or answer us?\nHas he lost his shoes,\nor stubbed his toe somewhere\nin the dark,\nand so his ankle swelled, being an old man?\nAnd maybe he's got a swollen groin.\nHe was by far the sharpest of us all,\nand the only one who wouldn't be persuaded;\nbut whenever anyone pleaded with him,\nhe'd bend his head down like this\nand say, \"You'll boil a stone.\""
+  },
+  {
+    "id": "p-611673",
+    "offset": 14196,
+    "text": "CHORUS\nOr maybe, because of yesterday's man, who slipped through us,\ndeceiving and saying\nthat he loved Athens and\nwas the first to denounce the doings in Samos —\nmaybe because of that he's in pain\nand now lies feverish.\nFor that's the sort of man he is.\nBut come, good fellow, get up, and don't\neat yourself up so, or be vexed.\nFor a fat man has come,\none of the traitors over Thrace;\nsee you pot him for it.\nOn, boy, on."
+  },
+  {
+    "id": "p-d4a49b",
+    "offset": 14620,
+    "text": "BOY\nWill you do something for me then, father,\nif I ask you for something?"
+  },
+  {
+    "id": "p-81baa9",
+    "offset": 14696,
+    "text": "CHORUS\nOf course, my little boy. But tell me,\nwhat fine thing do you want me\nto buy you? I suppose you'll say\nknucklebones, no doubt, boy."
+  },
+  {
+    "id": "p-6bb150",
+    "offset": 14836,
+    "text": "BOY\nBy Zeus, no — figs, daddy,\nthey're nicer."
+  },
+  {
+    "id": "p-faabd6",
+    "offset": 14883,
+    "text": "CHORUS\nNot a chance,\nby Zeus, even if you both hang for it."
+  },
+  {
+    "id": "p-43d01d",
+    "offset": 14944,
+    "text": "BOY\nBy Zeus, then I won't escort you any more."
+  },
+  {
+    "id": "p-3431ac",
+    "offset": 14992,
+    "text": "CHORUS\nFor out of this little wage of mine,\nthe third part, I have to find barley-meal and firewood and relish.\nAnd you ask me for figs!"
+  },
+  {
+    "id": "p-7906f4",
+    "offset": 15130,
+    "text": "BOY\nCome now, father, if the archon\ndoesn't seat the court today,\nwhere shall we buy our\nlunch? Have you any\ngood hope for us, or\nsome sacred Hellespont-passage to find?"
+  },
+  {
+    "id": "p-1d0e32",
+    "offset": 15301,
+    "text": "CHORUS\nAlas, alas, alas, alas,\nby Zeus, I don't know myself\nwhere our dinner is to come from."
+  },
+  {
+    "id": "p-8bfe5f",
+    "offset": 15396,
+    "text": "BOY\nWhy did you bear me, miserable mother?"
+  },
+  {
+    "id": "p-a022c1",
+    "offset": 15440,
+    "text": "CHORUS\nSo you could give me trouble to feed."
+  },
+  {
+    "id": "p-efb76e",
+    "offset": 15486,
+    "text": "BOY\nThen you were a useless ornament, my little pouch.\nAlas, alas. There's nothing for us but to groan."
+  },
+  {
+    "id": "p-0128de",
+    "offset": 15591,
+    "text": "PHILOCLEON\nFriends, I've been melting away\nthis long while, through the chink,\nlistening to you.\nBut I just can't —\nsing. What shall I do?\nI'm watched by these two, since\nI've longed this long while to go with you\nto the voting-urns\nand do some mischief.\nBut, O Zeus, you who thunder mightily,\neither turn me suddenly into smoke,\nor into Proxenides, or that son of Sellus,\nthat lying braggart of a vine-prop.\nDare, lord, to grant me this favour,\npitying my plight; or with your white-hot\nthunderbolt burn me to ashes, quick,\nand then snatch me up, blow me out,\nand plunge me into hot brine-and-vinegar;\nor else make me the stone on which\nthey count out the voting-shells."
+  },
+  {
+    "id": "p-338322",
+    "offset": 16264,
+    "text": "CHORUS\nWho is it that shuts you in\nand bars you behind the door? Tell us —\nyou'll be speaking to friends."
+  },
+  {
+    "id": "p-e74ac6",
+    "offset": 16371,
+    "text": "PHILOCLEON\nMy own son. But don't shout —\nfor he happens to be\nsleeping just there in front. So lower your pitch."
+  },
+  {
+    "id": "p-333613",
+    "offset": 16485,
+    "text": "CHORUS\nBut on what pretext, you fool, does he want to do this to you?\nAnd what excuse has he?"
+  },
+  {
+    "id": "p-202133",
+    "offset": 16580,
+    "text": "PHILOCLEON\nHe won't let me judge, men, nor do any mischief at all,\nbut is ready to feast me well — and I don't want it."
+  },
+  {
+    "id": "p-808e59",
+    "offset": 16701,
+    "text": "CHORUS\nHe dared to gape out that, the foul wretch,\nthis Demagogue-Cleon-fellow,\njust because you say something true\nabout the ships. For this man would never\nhave dared to say that\nunless he were one of the conspirators."
+  },
+  {
+    "id": "p-e8859a",
+    "offset": 16923,
+    "text": "CHORUS\nWell, in view of this it's high time you sought some new device\nto let you come down here, unknown to this man."
+  },
+  {
+    "id": "p-575dc7",
+    "offset": 17043,
+    "text": "PHILOCLEON\nWhat could it be? Look for it, you — for I'd do anything;\nI'm so itching to make my way through the planking with my voting-shell."
+  },
+  {
+    "id": "p-27a46f",
+    "offset": 17186,
+    "text": "CHORUS\nIs there any hole you could dig through from inside,\nand then slip out, hidden in rags like crafty Odysseus?"
+  },
+  {
+    "id": "p-ca45d7",
+    "offset": 17303,
+    "text": "PHILOCLEON\nEverything's fenced off, and there's no hole even for a gnat to get through.\nYou must look for something else: it's no use becoming an opening."
+  },
+  {
+    "id": "p-4c022b",
+    "offset": 17459,
+    "text": "CHORUS\nDo you remember when, on campaign, you once filched the spits\nand let yourself down the wall quick, when Naxos was taken?"
+  },
+  {
+    "id": "p-548d82",
+    "offset": 17589,
+    "text": "PHILOCLEON\nI know — but what of it? That's nothing like this.\nFor I was young then, and able to steal, and master of myself;\nand no one was guarding me, but I could\nrun away with no fear. Now men under arms\nare drawn up along the passages, keeping watch,\nand two of them at the very doors\nare watching me, holding spits,\nas you'd watch a cat that's filched the meat."
+  },
+  {
+    "id": "p-ff2a8b",
+    "offset": 17957,
+    "text": "CHORUS\nBut even now, find some scheme\nas quick as you can, for it's dawn,\nlittle honey-bee."
+  },
+  {
+    "id": "p-838dd1",
+    "offset": 18050,
+    "text": "PHILOCLEON\nThe best thing for me, then, is to gnaw through the net.\nAnd may Dictynna, lady of the net, forgive me the net."
+  },
+  {
+    "id": "p-29b69d",
+    "offset": 18174,
+    "text": "CHORUS\nThat's the act of a man set on his salvation.\nNow put your jaw to it."
+  },
+  {
+    "id": "p-2efb92",
+    "offset": 18252,
+    "text": "PHILOCLEON\nIt's gnawed through, that. But don't shout at all,\nlet's take care Bdelycleon doesn't notice."
+  },
+  {
+    "id": "p-c9b008",
+    "offset": 18358,
+    "text": "CHORUS\nFear nothing, my good man, nothing.\nFor if he so much as grunts,\nI'll make him bite his\nheart and run the race\nfor his life, so he'll learn\nnot to trample on\nthe decrees of the Two Goddesses.\nBut tie the cord to the window and let yourself down,\nfastening yourself, and filling your soul with Diopeithes."
+  },
+  {
+    "id": "p-b4509c",
+    "offset": 18671,
+    "text": "PHILOCLEON\nCome now — if those two notice and try to fish me up\nand haul me back inside, what will you do? Tell me now."
+  },
+  {
+    "id": "p-f874db",
+    "offset": 18792,
+    "text": "CHORUS\nWe'll defend you, calling up our oak-tough spirit, all of us,\nso it won't be possible to shut you in. That's what we'll do."
+  },
+  {
+    "id": "p-28d83a",
+    "offset": 18924,
+    "text": "PHILOCLEON\nI'll do it then, trusting in you, and — do you hear? — if anything happens to me,\ntake me up, weep over me, and lay me beneath the courtroom rails."
+  },
+  {
+    "id": "p-3435d2",
+    "offset": 19084,
+    "text": "CHORUS\nYou'll come to no harm — fear nothing. Come, good man, let yourself down,\ntake heart, and pray to your fathers' gods."
+  },
+  {
+    "id": "p-874010",
+    "offset": 19210,
+    "text": "PHILOCLEON\nO lord Lykos, hero and neighbour — for you delight in the very things I do,\nin the tears of defendants always, and in their laments;\nyou came and settled here on purpose, to hear these things,\nand you alone of heroes chose to sit beside the weeping man.\nPity and save now your own near neighbour;\nand I'll never piss or fart by your reed-fence again."
+  },
+  {
+    "id": "p-aeb8dd",
+    "offset": 19573,
+    "text": "BDELYCLEON\nHey you, wake up!"
+  },
+  {
+    "id": "p-aca7e5",
+    "offset": 19603,
+    "text": "XANTHIAS\nWhat's the matter?"
+  },
+  {
+    "id": "p-27cba1",
+    "offset": 19632,
+    "text": "BDELYCLEON\nA sort of voice has wreathed itself around me."
+  },
+  {
+    "id": "p-212b05",
+    "offset": 19691,
+    "text": "XANTHIAS\nIs the old man slipping out somewhere again?"
+  },
+  {
+    "id": "p-a25b0a",
+    "offset": 19746,
+    "text": "BDELYCLEON\nBy Zeus, no — he's lowering himself,\ntied to a rope."
+  },
+  {
+    "id": "p-b95b11",
+    "offset": 19811,
+    "text": "XANTHIAS\nYou scoundrel, what are you doing? You won't get down!\nClimb up quick, the other way, and beat him with the branches,\nin case, struck with the harvest-wreaths, he'll back water — back his stern off."
+  },
+  {
+    "id": "p-8c41d4",
+    "offset": 20020,
+    "text": "PHILOCLEON\nWon't you help me, all of you who have lawsuits coming on this year —\nSmikythion and Teisiades and Chremon and Pheredeipnus?\nWhen, if not now, will you stand by me, before I'm dragged further in?"
+  },
+  {
+    "id": "p-ca4aa0",
+    "offset": 20228,
+    "text": "CHORUS\nTell me, why do we delay to stir up that bile\nwhich, whenever someone provokes our wasps' nest, we feel?\nNow that, now that\nsharp-tempered weapon with which we punish,\nour sting, is stretched out keen.\nCome, throw off your cloaks as quick as you can, children,\nand run and shout, and report this to Cleon,\nand bid him come\nagainst a man who hates the city\nand deserves to die, because\nhe brings in this proposal,\nthat we should not try lawsuits."
+  },
+  {
+    "id": "p-84e8c6",
+    "offset": 20682,
+    "text": "BDELYCLEON\nGood fellows, hear the matter out — but don't keep bawling."
+  },
+  {
+    "id": "p-6b0c27",
+    "offset": 20754,
+    "text": "CHORUS\nBy Zeus, we will — to high heaven."
+  },
+  {
+    "id": "p-2592ed",
+    "offset": 20797,
+    "text": "BDELYCLEON\nFor I won't let go of this man."
+  },
+  {
+    "id": "p-d3e013",
+    "offset": 20841,
+    "text": "CHORUS\nIsn't this terrible — open tyranny?\nO city! O Theorus, hated of the gods,\nand any other flatterer who stands at our head!"
+  },
+  {
+    "id": "p-c29f15",
+    "offset": 20971,
+    "text": "XANTHIAS\nHeracles, they've got stings too! Don't you see, master?"
+  },
+  {
+    "id": "p-eafe54",
+    "offset": 21038,
+    "text": "BDELYCLEON\nThe ones they destroyed Philippus, son of Gorgias, with, in a trial."
+  },
+  {
+    "id": "p-4f1750",
+    "offset": 21119,
+    "text": "CHORUS\nAnd with these same we'll destroy you. Wheel round, every man,\nthis way, and stick your stings out, then fling yourselves at him,\ndrawn up close, in good order, full of anger and rage,\nso he'll know well henceforth what a swarm he's angered."
+  },
+  {
+    "id": "p-834a2d",
+    "offset": 21369,
+    "text": "XANTHIAS\nThis really is terrible now, by Zeus, if we're to fight;\nfor I'm afraid of their stings, seeing them."
+  },
+  {
+    "id": "p-7114d6",
+    "offset": 21481,
+    "text": "CHORUS\nLet the man go — and if not, I tell you,\nyou'll be calling the tortoises blessed for their shells."
+  },
+  {
+    "id": "p-4e22d2",
+    "offset": 21588,
+    "text": "PHILOCLEON\nOn then, fellow-jurors, sharp-hearted wasps,\nsome of you fly at their backsides in your wrath,\nothers, sting them round the eyes and on their fingers."
+  },
+  {
+    "id": "p-d98ede",
+    "offset": 21751,
+    "text": "BDELYCLEON\nMidas and Phryx, help here! And Masyntias!\nLay hold of this man and don't let him go for anyone;\nor else you'll get no lunch in heavy fetters.\nFor I've heard the crackle of many a roasting fig-leaf."
+  },
+  {
+    "id": "p-0ad882",
+    "offset": 21962,
+    "text": "CHORUS\nIf you don't let this man go, something will get stuck in you."
+  },
+  {
+    "id": "p-258c12",
+    "offset": 22033,
+    "text": "PHILOCLEON\nO Cecrops, hero and lord, in your snake's lower parts a Dracontides,\ndo you look on while I'm overpowered by barbarian men,\nmen I taught to weep four to the quart-measure?"
+  },
+  {
+    "id": "p-bc7ff6",
+    "offset": 22217,
+    "text": "CHORUS\nThen aren't there many terrible evils in old age?\nClearly. And now these two manhandle their old master\nby force, remembering nothing of the old\nleather jerkins and sleeveless coats he used to buy them,\nand the caps; and how he warmed their feet in winter\nso they shouldn't freeze each time. But in these there's not,\nnot even in their eyes, any shame for the old shoes."
+  },
+  {
+    "id": "p-f9b458",
+    "offset": 22596,
+    "text": "PHILOCLEON\nWon't you even now let me go, you vilest of beasts,\nnor remember the time I caught you stealing the grapes,\nled you to the olive-tree, and flogged you well and like a man,\nso all envied you? But you, it seems, were ungrateful.\nBut let me go, you and you, before my son runs out."
+  },
+  {
+    "id": "p-a40c12",
+    "offset": 22887,
+    "text": "CHORUS\nYou two will soon pay us a fine penalty for this,\nbefore long — so you'll learn what sort of men they are,\nsharp-tempered and just and looking cress."
+  },
+  {
+    "id": "p-301146",
+    "offset": 23045,
+    "text": "BDELYCLEON\nHit, hit them, Xanthias — the wasps — away from the house!"
+  },
+  {
+    "id": "p-1b15d1",
+    "offset": 23116,
+    "text": "XANTHIAS\nI'm doing it. But you too — smoke them with a lot of smoke."
+  },
+  {
+    "id": "p-cad57f",
+    "offset": 23186,
+    "text": "SOSIAS\nWon't you scram? Won't you go to the ravens? Won't you be off? Hit them with the stick!"
+  },
+  {
+    "id": "p-82208a",
+    "offset": 23282,
+    "text": "XANTHIAS\nAnd you, throw on some Aeschines, son of Sellartius, and smoke them out.\nWere we going to drive you off in time, then, after all?"
+  },
+  {
+    "id": "p-5b7a1e",
+    "offset": 23422,
+    "text": "BDELYCLEON\nBut by Zeus, you wouldn't have escaped them so easily\nif they'd happened to gorge on the songs of Philocles."
+  },
+  {
+    "id": "p-9240a4",
+    "offset": 23543,
+    "text": "CHORUS\nIsn't this plain, then,\nto the poor — that tyranny\nhas crept up on me in secret,\nif you, O wretch of wretches and long-haired Amynias,\nkeep us off from the laws the city laid down,\nwith no excuse,\nno plausible word,\nruling alone, all by yourself?"
+  },
+  {
+    "id": "p-5d7c20",
+    "offset": 23798,
+    "text": "BDELYCLEON\nIs there any way, without a fight and without that shrill bawling,\nwe could come to words with one another and to a settlement?"
+  },
+  {
+    "id": "p-f03667",
+    "offset": 23938,
+    "text": "CHORUS\nWords — with you, you people-hater, lover of monarchy,\nally of Brasidas, wearer of woollen fringes\nand tassels, growing your beard unshorn?"
+  },
+  {
+    "id": "p-839311",
+    "offset": 24086,
+    "text": "BDELYCLEON\nBy Zeus, it'd really be better for me to give up my father entirely\nthan to do battle every day with such great troubles."
+  },
+  {
+    "id": "p-ed296a",
+    "offset": 24220,
+    "text": "CHORUS\nBut you're not even at the parsley-and-rue stage yet —\nfor we'll throw that in among the three-quart phrases.\nBut you feel no pain now; you'll feel it when the prosecutor\npours out these same charges over you and calls you a conspirator."
+  },
+  {
+    "id": "p-e0b861",
+    "offset": 24466,
+    "text": "BDELYCLEON\nBy the gods, won't you be rid of me at last?\nOr am I doomed to flay and be flayed all day long?"
+  },
+  {
+    "id": "p-93bfa4",
+    "offset": 24574,
+    "text": "CHORUS\nNever — not while any part of me is left,\nseeing you've set yourself thus at tyranny over us."
+  },
+  {
+    "id": "p-972b1b",
+    "offset": 24676,
+    "text": "BDELYCLEON\nHow everything is tyranny and conspirators to you,\nwhether someone brings a charge great or small —\na word I hadn't even heard for fifty years!\nBut now it's far cheaper than salt-fish,\nso its very name is bandied about in the market.\nIf a man buys gurnard but won't have sprats,\nat once the seller of sprats nearby says:\n\"This man looks like he's marketing with tyranny in mind.\"\nAnd if he asks for a leek as a relish for his anchovies,\nthe green-grocer-woman, squinting at him, says:\n\"Tell me — you ask for a leek? With tyranny in mind,\nor do you think Athens grows you relishes for free?\""
+  },
+  {
+    "id": "p-fc1973",
+    "offset": 25279,
+    "text": "XANTHIAS\nAnd me too — yesterday a whore, when I came in at midday\nand bade her ride me jockey-style, got angry with me\nand asked if I was setting up the tyranny of Hippias."
+  },
+  {
+    "id": "p-c3e2ef",
+    "offset": 25453,
+    "text": "BDELYCLEON\nYes, for this sort of thing is sweet to their ears — that even now I,\nbecause I want my father, freed from these\ndawn-haunting, sycophant-ridden, lawsuit-wretched ways,\nto live a noble life like Morychus — I'm charged\nwith doing this as a conspirator and thinking tyrannical thoughts."
+  },
+  {
+    "id": "p-7902fd",
+    "offset": 25750,
+    "text": "PHILOCLEON\nAnd rightly so, by Zeus — for I wouldn't take even birds' milk\nin place of the life you're now robbing me of.\nI take no joy in skate or eels, but I'd far sooner\neat a little stewed lawsuit served up in a casserole."
+  },
+  {
+    "id": "p-b531f1",
+    "offset": 25977,
+    "text": "BDELYCLEON\nBy Zeus, yes — you've grown used to delighting in such things.\nBut if you'll bear with me in silence and learn what I say,\nI think I'll teach you that you're all wrong in this."
+  },
+  {
+    "id": "p-e1a694",
+    "offset": 26166,
+    "text": "PHILOCLEON\nI'm doing wrong by judging?"
+  },
+  {
+    "id": "p-7a0802",
+    "offset": 26206,
+    "text": "BDELYCLEON\nYes — and you're laughed at,\nwithout knowing it, by the very men you all but worship.\nYou're a slave without realizing it."
+  },
+  {
+    "id": "p-c91630",
+    "offset": 26341,
+    "text": "PHILOCLEON\nStop talking of slavery,\nwhen I rule over all."
+  },
+  {
+    "id": "p-63569c",
+    "offset": 26400,
+    "text": "BDELYCLEON\nNot you — you serve,\nthinking you rule. Come, father, teach us:\nwhat's this honour you have, reaping the fruits of Hellas?"
+  },
+  {
+    "id": "p-73f436",
+    "offset": 26535,
+    "text": "PHILOCLEON\nGladly — and I'm willing to put it to these men as judges."
+  },
+  {
+    "id": "p-a3017a",
+    "offset": 26606,
+    "text": "BDELYCLEON\nAnd so am I.\nNow release him, all of you."
+  },
+  {
+    "id": "p-e60444",
+    "offset": 26660,
+    "text": "PHILOCLEON\nAnd give me a sword too.\nFor if I'm beaten in the argument by you, I'll fall on the sword."
+  },
+  {
+    "id": "p-f42673",
+    "offset": 26763,
+    "text": "BDELYCLEON\nTell me — what if — well — you won't abide by the verdict?"
+  },
+  {
+    "id": "p-b927d6",
+    "offset": 26834,
+    "text": "PHILOCLEON\nMay I never drink the wage of the Good Spirit unmixed."
+  },
+  {
+    "id": "p-d059b7",
+    "offset": 26901,
+    "text": "CHORUS\nNow the man from our own\nwrestling-school must say something\nnew, so he'll show himself —"
+  },
+  {
+    "id": "p-d50f28",
+    "offset": 26999,
+    "text": "BDELYCLEON\nSomeone bring me out the writing-case here, quick as you can.\nBut how will he show himself, if you keep cheering him on like that?"
+  },
+  {
+    "id": "p-9b6a94",
+    "offset": 27142,
+    "text": "CHORUS\nNot in the young man's\nmanner there, in his speaking. For you see how\ngreat is your contest,\nand about everything,\nif — which heaven forbid — this man\nmeans to beat you."
+  },
+  {
+    "id": "p-cafb53",
+    "offset": 27320,
+    "text": "BDELYCLEON\nWell, whatever he says, I'll plainly write it down as notes."
+  },
+  {
+    "id": "p-d99cb7",
+    "offset": 27393,
+    "text": "PHILOCLEON\nWhat do you say, then — if this fellow beats me in the argument?"
+  },
+  {
+    "id": "p-d9f451",
+    "offset": 27470,
+    "text": "CHORUS\nNo longer will the throng of old men\nbe of use, not a whit;\nmocked in the streets we'll be\ncalled \"olive-branch-bearers,\" mere husks\nof pleadings."
+  },
+  {
+    "id": "p-583eee",
+    "offset": 27625,
+    "text": "CHORUS\nBut O you who are about to argue for the whole kingdom\nthat is ours — now, take heart, and put every tongue to the test."
+  },
+  {
+    "id": "p-2c4b28",
+    "offset": 27754,
+    "text": "PHILOCLEON\nRight then, straight from the starting-line I'll prove about our power\nthat it's inferior to no kingdom.\nFor what is happier or more to be envied now than a juror,\nwhat creature more luxurious or more terrible — and an old man at that?\nFirst, as I creep from bed, men keep watch for me at the courtroom rails,\ngreat men, four cubits tall; and then, the moment I come up,\nhe thrusts into mine his delicate hand, that has stolen public funds;\nand bowing low they beseech me, pouring out piteous voices:\n\"Pity me, father, I beg you — if you yourself ever pilfered anything\nwhen holding office, or on campaign shopping for your messmates\" —\na man who'd never have known I was alive but for my earlier acquittal of him."
+  },
+  {
+    "id": "p-cecee7",
+    "offset": 28481,
+    "text": "BDELYCLEON\nLet me have this as a note — about the suppliants."
+  },
+  {
+    "id": "p-d9a381",
+    "offset": 28544,
+    "text": "PHILOCLEON\nThen, going in, having been entreated and wiped clean of my anger,\nonce inside I do none of all the things I promise,\nbut I listen to them sending out every kind of voice for acquittal.\nCome, let me see — what flattery is there a juror can't hear there?\nSome lament their poverty and add\nwoes to what they have, till in his grief he makes them equal to mine;\nothers tell us tales, others some funny bit of Aesop;\nothers crack jokes, so I'll laugh and lay aside my wrath.\nAnd if we're not won over by these, then at once he hauls up his little children\nby the hand, his daughters and his sons; and I listen,\nwhile they, ducking their heads together, bleat; and then the father, on their behalf,\ntrembling, beseeches me like a god to acquit him at the audit:\n\"If you delight in a lamb's voice, take pity on a boy's voice;\nor if again you delight in piglets, be persuaded by a daughter's voice.\"\nAnd then for him we slacken the peg of our anger a little.\nIsn't that great power, and a mockery of wealth?"
+  },
+  {
+    "id": "p-d03066",
+    "offset": 29557,
+    "text": "BDELYCLEON\nThis is the second thing of yours I write down — the mockery of wealth.\nAnd remember the good things you say you have, you who claim to rule Hellas."
+  },
+  {
+    "id": "p-b9fe05",
+    "offset": 29718,
+    "text": "PHILOCLEON\nWhen boys are examined for citizenship, it's ours to inspect their privates.\nAnd if Oeagrus comes in as a defendant, he doesn't get off\nuntil he's recited us the finest speech, picked out of his Niobe.\nAnd if a flute-player wins his case, in return for that\nhe pipes us jurors out as we leave, with mouthpiece on.\nAnd if a father dying leaves an heiress-daughter to someone,\nwe tell the will to go weep loud and long, head and all,\nand the seal-shell so very grandly sitting on the marks,\nand give her to whoever wins us over with his pleading.\nAnd we do all this unaccountable — no other office is like it."
+  },
+  {
+    "id": "p-5765ac",
+    "offset": 30338,
+    "text": "BDELYCLEON\nYes, this is the one grand thing of all you've said that I count you blessed in.\nBut about the heiress's will you do wrong, shelling it open."
+  },
+  {
+    "id": "p-11e0e3",
+    "offset": 30492,
+    "text": "PHILOCLEON\nWhat's more, whenever the Council and the People are at a loss\nto decide some great matter, they've voted by decree\nto hand the wrongdoers over to the jurors.\nAnd then Euathlus and that great shield-throwing Toady-onymus\nsay they'll never betray us, but will fight on behalf of the masses.\nAnd in the Assembly no one's ever carried a motion, unless\nhe proposes to dismiss the courts the moment they've judged one case.\nAnd Cleon himself, the great bawler, alone of all doesn't nibble at us,\nbut keeps us safe in his hand and beats off the flies.\nBut you've never done your own father any of these things.\nNo — Theorus, though he's a man no less than Euphemius,\ntakes the sponge from the basin and blacks our shoes.\nJust look from what blessings you're shutting and shutting me out,\nthe things you said you'd prove were slavery and servitude."
+  },
+  {
+    "id": "p-5fe5ed",
+    "offset": 31346,
+    "text": "BDELYCLEON\nHave your fill of talking — for at any rate you'll stop at last and lay bare\nan arse that comes off the worse for its bath despite all the holiness of your office."
+  },
+  {
+    "id": "p-723059",
+    "offset": 31522,
+    "text": "PHILOCLEON\nAnd what's sweetest of all of these, which I'd forgotten —\nwhen I go home with my wage, and then, the moment I arrive, all of them at once\ngreet me for the sake of the silver, and first my daughter\nwashes me and anoints my feet and, bending down, kisses me,\nand \"daddy-ing\" me, fishes the three-obol piece out with her tongue;\nand my little wife, coaxing me, brings me a barley-cake,\nand then sits beside me and presses me — \"Eat this,\nhave a bite of this.\" In these things I delight, and I needn't\nlook to you and the steward, to see when he'll grudgingly serve up my lunch,\ncursing and muttering. But if he doesn't knead it for me quick,\nI have this here as a bulwark against ills, a defence against missiles.\nAnd if you won't pour me wine to drink, I've brought in this jug\nfull of wine — the donkey here — and I tip it up and pour for myself, lying down;\nwhile it, gaping open, brays a great soldierly fart at your wine-cup.\nIsn't that great power I wield, no less than Zeus's,\nwhen I hear the very things they say of Zeus?\nAt any rate, if we make an uproar,\nevery passer-by says,\n\"How the court thunders,\nO King Zeus!\"\nAnd if I lighten, the rich ones cluck\nand shit themselves at me,\nthe very grand ones too.\nAnd you yourself fear me most of all;\nby Demeter you fear me — but may I\nperish if I fear you."
+  },
+  {
+    "id": "p-3f0937",
+    "offset": 32843,
+    "text": "CHORUS\nNever have we heard anyone\nspeak so clearly,\nnor so cleverly."
+  },
+  {
+    "id": "p-631f7e",
+    "offset": 32913,
+    "text": "PHILOCLEON\nNo — he thought he'd harvest a deserted vineyard so easily.\nFor he knew well that I'm strongest in this."
+  },
+  {
+    "id": "p-720bcb",
+    "offset": 33030,
+    "text": "CHORUS\nHow he's gone over everything\nand passed nothing by, so that I\ngrew taller listening,\nand thought I myself was judging\nin the Isles of the Blest,\ndelighting in his speech."
+  },
+  {
+    "id": "p-628f27",
+    "offset": 33210,
+    "text": "PHILOCLEON\nHow he's writhing already, and isn't himself."
+  },
+  {
+    "id": "p-1e5052",
+    "offset": 33268,
+    "text": "BDELYCLEON\nFor sure, I'll make you look leather-faced today."
+  },
+  {
+    "id": "p-e0dc4e",
+    "offset": 33330,
+    "text": "CHORUS\nYou must weave all sorts of wiles\nfor your acquittal.\nFor it's hard to soften my anger\nfor a young man\nwho doesn't speak on my side."
+  },
+  {
+    "id": "p-5b7904",
+    "offset": 33471,
+    "text": "CHORUS\nIn view of this it's high time you sought a good, freshly-cut millstone,\nunless you've something to say, able to grind down my wrath."
+  },
+  {
+    "id": "p-dd564a",
+    "offset": 33613,
+    "text": "BDELYCLEON\nIt's hard, and the task of a clever mind, and greater than belongs to comic poets,\nto cure an old disease bred deep in the city.\nBut, O father, our son of Cronus —"
+  },
+  {
+    "id": "p-562e30",
+    "offset": 33789,
+    "text": "PHILOCLEON\nStop, and don't \"father\" me.\nFor unless you teach me quick how I'm a slave,\nthere's no way you won't die — even if I must keep off sacrificial meat."
+  },
+  {
+    "id": "p-302ad1",
+    "offset": 33950,
+    "text": "BDELYCLEON\nListen now, dear daddy, and unknit your brow a little.\nFirst, reckon roughly — not with pebbles but on your fingers —\nthe tribute that comes in to us from the cities, all together;\nand apart from this the dues separately, and the many one-percents,\ncourt-fees, mines, markets, harbours, rents, and confiscated goods.\nThe total of these comes to nearly two thousand talents for us.\nNow set down from this the year's pay for the jurors,\nsix thousand of them — never more have settled in the land —\nand it comes, I suppose, to a hundred and fifty talents for us."
+  },
+  {
+    "id": "p-65a346",
+    "offset": 34522,
+    "text": "PHILOCLEON\nSo the pay we got wasn't even a tenth of the revenue!"
+  },
+  {
+    "id": "p-3616d7",
+    "offset": 34588,
+    "text": "BDELYCLEON\nBy Zeus, no, it wasn't."
+  },
+  {
+    "id": "p-be765d",
+    "offset": 34624,
+    "text": "PHILOCLEON\nAnd where does the rest of the money go, then?"
+  },
+  {
+    "id": "p-807b31",
+    "offset": 34683,
+    "text": "BDELYCLEON\nTo these fellows of \"I'll-never-betray-the-Athenian-rabble,\"\n\"I'll-always-fight-for-the-masses.\" For you, father, choose them\nto rule over you, taken in by these little phrases.\nAnd then these men take bribes of fifty talents apiece\nfrom the cities, threatening and frightening them like this:\n\"You'll pay the tribute, or I'll thunder and overturn your city.\"\nAnd you're content to gnaw the scraps of your own office.\nAnd the allies, when they see the rest of the common herd\nsucking at an empty ballot-box and chewing nothing,\nthink you a Connus's-vote — a worthless thing — while to these men they bring gifts:\njars, wine, rugs, cheese, honey, sesame, cushions,\nbowls, fine mantles, garlands, necklaces, drinking-cups, health-and-wealth;\nwhile to you, of all you rule over, after toiling much on land and much at sea,\nno one gives so much as a head of garlic for your boiled greens."
+  },
+  {
+    "id": "p-090bc8",
+    "offset": 35580,
+    "text": "PHILOCLEON\nBy Zeus, no — I had to send to Eucharides for three cloves of garlic myself.\nBut you're wearing me out, not showing me this slavery itself."
+  },
+  {
+    "id": "p-6ad5ff",
+    "offset": 35732,
+    "text": "BDELYCLEON\nIsn't it great slavery, that all these men should be in office,\nthemselves and their flatterers drawing pay,\nwhile you're content if someone gives you three obols —\nobols you yourself earned with much toil, rowing\nand fighting on land and besieging?\nAnd besides this you go about under orders, which throttles me most,\nwhen some catamite youngster, the son of Chaereas,\ncomes in, striding like this, swaying his body and all soft,\nand tells you to come early and in good time to judge — since whoever of you\ncomes later than the signal won't get the three obols;\nwhile he himself takes his advocate's drachma even if he comes late.\nAnd sharing the spoils with one of his fellow-officials,\nif some defendant offers anything, the two of them, putting their heads together,\nmake a deal; and like men working a two-handled saw, one pulls and the other gives way;\nwhile you gape at the paymaster, and what's going on escapes you."
+  },
+  {
+    "id": "p-990783",
+    "offset": 36669,
+    "text": "PHILOCLEON\nIs this what they do to me? Oh no — what are you saying? How you stir my bottom up,\nand draw my mind round more, and I don't know what on earth you're doing to me."
+  },
+  {
+    "id": "p-1a411a",
+    "offset": 36845,
+    "text": "BDELYCLEON\nConsider then how, when you might be rich, and all of you,\nyou've been somehow hedged round — I don't know how — by these eternal demagogues;\nyou who rule over more cities than any, from the Black Sea to Sardinia,\nget no enjoyment of it but the pittance you carry — and that they drip into you\nin wool, little by little, just to keep you alive, like oil.\nFor they want you to be poor; and I'll tell you why:\nso you'll know your tamer, and then, whenever he hisses you on\nagainst one of his enemies, you'll leap on them savagely.\nFor if they wanted to provide a living for the People, it would be easy.\nThere are a thousand cities that now pay us tribute;\nif someone ordered each of them to feed twenty men,\ntwo myriads of common folk would live in clover —\nin hares of all kinds and garlands and beestings,\nenjoying things worthy of their land and of the trophy at Marathon.\nBut as it is, you go like olive-pickers, trailing after the man with the pay."
+  },
+  {
+    "id": "p-8ca169",
+    "offset": 37810,
+    "text": "PHILOCLEON\nOh, what's happening to me? A numbness is pouring down over my hand,\nand I can't hold the sword, but I'm growing soft already."
+  },
+  {
+    "id": "p-fb7886",
+    "offset": 37949,
+    "text": "BDELYCLEON\nBut whenever they themselves are afraid, they offer you Euboea,\nand undertake to provide grain, fifty bushels a head;\nyet they never gave it to you, except the other day five bushels —\nand even that you got barley by the quart, with difficulty, after defending yourself on a charge of being an alien.\nThat's why I always shut you up, wanting\nto feed you myself, and not have these men\nmock you with their loud-mouthing.\nAnd now I'm simply willing to provide\nwhatever you want,\nexcept the paymaster's milk to drink."
+  },
+  {
+    "id": "p-bcc164",
+    "offset": 38476,
+    "text": "CHORUS\nHe was a wise man, surely, who said:\n\"Don't judge until you've heard the tale from both sides.\"\nFor now you seem to me to win by far;\nso I slacken my anger already and throw down my staffs.\nBut O fellow-reveller of our own age,"
+  },
+  {
+    "id": "p-53d7ac",
+    "offset": 38712,
+    "text": "CHORUS\nbe persuaded, be persuaded by his words, and don't be a fool,\nnor a man too stiff and stubborn.\nWould that I had some guardian or kinsman\nto give me such advice!\nBut to you now some god, present and manifest,\nis helping in your affairs,\nand is plainly doing you good;\nand you, since he's here, receive it."
+  },
+  {
+    "id": "p-d8d395",
+    "offset": 39026,
+    "text": "BDELYCLEON\nAnd what's more, I'll feed him, providing\neverything fitting for an old man: gruel\nto lick up, a soft cloak, a fleecy wrap,\na whore to rub his prick\nand his loins.\nBut that he's silent and doesn't grunt a word —\nthat I can't take."
+  },
+  {
+    "id": "p-4a44eb",
+    "offset": 39269,
+    "text": "CHORUS\nHe's come to his senses about the things\nhe was then mad for; for he's just now realized,\nand reckons that all those were faults,\nthe things he wouldn't be persuaded of when you bade him.\nBut now perhaps he's persuaded by your words,\nand is wise, after all, changing\nhis ways for the future,\nand obeying you."
+  },
+  {
+    "id": "p-c128fe",
+    "offset": 39586,
+    "text": "PHILOCLEON\nAlas, alas for me!"
+  },
+  {
+    "id": "p-807cc2",
+    "offset": 39617,
+    "text": "BDELYCLEON\nYou there, why are you wailing?"
+  },
+  {
+    "id": "p-f1fd23",
+    "offset": 39661,
+    "text": "PHILOCLEON\nDon't promise me any of these things.\nThose are what I love — there would I be,\nwhere the herald says, \"Who hasn't voted? Let him stand up.\"\nAnd I'd stand at the ballot-funnels,\nthe last of those voting.\nHurry, my soul. Where's my soul?\nMake way, O shade. By Heracles,\nmay I never now, among the jurors,\ncatch Cleon thieving."
+  },
+  {
+    "id": "p-a9c9cd",
+    "offset": 39999,
+    "text": "BDELYCLEON\nCome, father, by the gods, be persuaded by me."
+  },
+  {
+    "id": "p-686bee",
+    "offset": 40058,
+    "text": "PHILOCLEON\nWhat shall I be persuaded of? Say what you want, except one thing."
+  },
+  {
+    "id": "p-98ef08",
+    "offset": 40137,
+    "text": "BDELYCLEON\nWhat thing? Let me see."
+  },
+  {
+    "id": "p-ce7d28",
+    "offset": 40173,
+    "text": "PHILOCLEON\nNot to judge. That\nHades will decide before I'm persuaded of it."
+  },
+  {
+    "id": "p-ecbf10",
+    "offset": 40250,
+    "text": "BDELYCLEON\nWell then, since you take such pleasure in doing this,\ndon't go there any more, but here,\nstay at home and judge the household slaves."
+  },
+  {
+    "id": "p-3312f0",
+    "offset": 40397,
+    "text": "PHILOCLEON\nAbout what? You're talking nonsense."
+  },
+  {
+    "id": "p-c708d5",
+    "offset": 40446,
+    "text": "BDELYCLEON\nThe very things that are done there:\nthat the maidservant opened the door secretly —\non her you'll vote a single penalty, just one.\nAnd anyway you used to do this there every time.\nAnd this part's reasonable too: if it's sunny\nat dawn, you'll hold court in the sun;\nand if it snows, sitting by the fire;\nif it rains, you'll go in; and if you wake up at midday,\nno presiding magistrate will shut you out at the rail."
+  },
+  {
+    "id": "p-ba6ab4",
+    "offset": 40874,
+    "text": "PHILOCLEON\nThis pleases me."
+  },
+  {
+    "id": "p-dace8f",
+    "offset": 40903,
+    "text": "BDELYCLEON\nAnd besides, if anyone\nmakes a long speech, you won't have to wait hungry,\ngnawing at yourself and at the defendant."
+  },
+  {
+    "id": "p-cc2e43",
+    "offset": 41032,
+    "text": "PHILOCLEON\nBut how will I be able to judge well, discerning,\nas before, while still chewing on the matter?"
+  },
+  {
+    "id": "p-da0360",
+    "offset": 41140,
+    "text": "BDELYCLEON\nFar better. For there's a saying, this one,\nthat the jurors, when the witnesses lie,\nbarely make out the matter, chewing it over."
+  },
+  {
+    "id": "p-a04662",
+    "offset": 41282,
+    "text": "PHILOCLEON\nYou persuade me round. But you still haven't told me\nwhere I'll get the pay."
+  },
+  {
+    "id": "p-3bdce8",
+    "offset": 41371,
+    "text": "BDELYCLEON\nFrom me."
+  },
+  {
+    "id": "p-d71f94",
+    "offset": 41392,
+    "text": "PHILOCLEON\nGood —\nsince I'll get it for myself, not along with another.\nFor Lysistratus the mocker did me a most shameful turn.\nTaking a drachma with me the other day,\nhe went and changed it among the fishmongers,\nand then put three mullet-scales into my hand;\nand I gulped them down, thinking I'd got obols;\nand then, disgusted at the smell, I spat them out\nand dragged him off to law."
+  },
+  {
+    "id": "p-5911c7",
+    "offset": 41780,
+    "text": "BDELYCLEON\nAnd what did he say to that?"
+  },
+  {
+    "id": "p-32c34e",
+    "offset": 41821,
+    "text": "PHILOCLEON\nWhat? He said I had the gut of a cock —\n\"You'll soon be digesting silver,\" he said."
+  },
+  {
+    "id": "p-d82554",
+    "offset": 41917,
+    "text": "BDELYCLEON\nSee how much you'll gain by this too, then."
+  },
+  {
+    "id": "p-56ba6a",
+    "offset": 41973,
+    "text": "PHILOCLEON\nNo small thing. But do what you mean to."
+  },
+  {
+    "id": "p-57eb9e",
+    "offset": 42026,
+    "text": "BDELYCLEON\nWait now — I'll come bringing these things."
+  },
+  {
+    "id": "p-037150",
+    "offset": 42082,
+    "text": "PHILOCLEON\nSee the thing — how the oracles come true!\nFor I'd heard that one day the Athenians\nwould try their cases at their own houses,\nand every man would build in his porch\na tiny little courtroom of his own,\nlike a shrine of Hecate, everywhere before the doors."
+  },
+  {
+    "id": "p-b1f2da",
+    "offset": 42350,
+    "text": "BDELYCLEON\nThere, what more will you say? See, I bring everything\nI said, and much more besides.\nHere's a chamber-pot, if you need to piss,\nhung up beside you, near, on the peg."
+  },
+  {
+    "id": "p-0a993a",
+    "offset": 42529,
+    "text": "PHILOCLEON\nA clever thing, and fitting for an old man —\nyou've found, in truth, a remedy for the strangury."
+  },
+  {
+    "id": "p-7b9954",
+    "offset": 42638,
+    "text": "BDELYCLEON\nAnd here's a fire too; and a lentil-soup stands ready\nto sup, if you need anything."
+  },
+  {
+    "id": "p-6200ba",
+    "offset": 42734,
+    "text": "PHILOCLEON\nThat's clever too;\nfor even if I'm feverish, I'll still get my pay.\nStaying here, I'll sup my lentil-soup.\nBut why have you brought the bird out to me?"
+  },
+  {
+    "id": "p-a87f23",
+    "offset": 42898,
+    "text": "BDELYCLEON\nSo that, if you fall asleep while someone's pleading,\nit can crow from above and wake you up."
+  },
+  {
+    "id": "p-e46564",
+    "offset": 43004,
+    "text": "PHILOCLEON\nOne thing more I long for; the rest pleases me."
+  },
+  {
+    "id": "p-e7c2b3",
+    "offset": 43064,
+    "text": "BDELYCLEON\nWhat's that?"
+  },
+  {
+    "id": "p-d5b827",
+    "offset": 43089,
+    "text": "PHILOCLEON\nIf only you could bring out the hero-shrine of Lykos."
+  },
+  {
+    "id": "p-3ccfd6",
+    "offset": 43155,
+    "text": "BDELYCLEON\nHere it is — and here's the lord himself."
+  },
+  {
+    "id": "p-d1aec3",
+    "offset": 43209,
+    "text": "PHILOCLEON\nO master hero, how grim you are to look at!"
+  },
+  {
+    "id": "p-5a2f00",
+    "offset": 43265,
+    "text": "BDELYCLEON\nJust like Cleonymus appears to us."
+  },
+  {
+    "id": "p-320ec4",
+    "offset": 43312,
+    "text": "PHILOCLEON\nAt any rate, hero though he is, he too has no arms."
+  },
+  {
+    "id": "p-5fc8ab",
+    "offset": 43376,
+    "text": "BDELYCLEON\nIf you'd sat down quicker, I'd have called the case quicker."
+  },
+  {
+    "id": "p-c7ce29",
+    "offset": 43449,
+    "text": "PHILOCLEON\nCall it now — I've been sitting a long while."
+  },
+  {
+    "id": "p-c875df",
+    "offset": 43507,
+    "text": "BDELYCLEON\nCome now, what case shall I bring in first for him?\nWhat mischief has someone in the house done?\nThratta, scorching the pot the other day —"
+  },
+  {
+    "id": "p-929f5f",
+    "offset": 43659,
+    "text": "PHILOCLEON\nHold on, you! How nearly you ruined me!\nYou mean to call the case without a railing,\nthe first of our holy things to appear?"
+  },
+  {
+    "id": "p-87d993",
+    "offset": 43796,
+    "text": "BDELYCLEON\nBy Zeus, it's not here."
+  },
+  {
+    "id": "p-0df2a4",
+    "offset": 43832,
+    "text": "PHILOCLEON\nThen I'll run and\nfetch it myself this instant from inside."
+  },
+  {
+    "id": "p-995d9d",
+    "offset": 43904,
+    "text": "BDELYCLEON\nWhat ever's this? How dreadful is the love of one's place!"
+  },
+  {
+    "id": "p-e57afd",
+    "offset": 43975,
+    "text": "SOSIAS\nGo to the ravens! Fancy keeping a dog like this."
+  },
+  {
+    "id": "p-9431c6",
+    "offset": 44032,
+    "text": "BDELYCLEON\nWhat is it, really?"
+  },
+  {
+    "id": "p-840357",
+    "offset": 44064,
+    "text": "SOSIAS\nDidn't Labes the dog just now\ndart into the kitchen and snatch up\na Sicilian cheese-cake and gobble it down?"
+  },
+  {
+    "id": "p-5c8e13",
+    "offset": 44181,
+    "text": "BDELYCLEON\nSo this is the first crime to be brought in\nbefore my father. You be there to prosecute."
+  },
+  {
+    "id": "p-2c261e",
+    "offset": 44282,
+    "text": "SOSIAS\nBy Zeus, not I. But the other dog says\nhe'll prosecute, if anyone brings the charge."
+  },
+  {
+    "id": "p-a17b4a",
+    "offset": 44375,
+    "text": "BDELYCLEON\nGo now, fetch them both here."
+  },
+  {
+    "id": "p-5c9b5f",
+    "offset": 44417,
+    "text": "SOSIAS\nThat's what I'll do."
+  },
+  {
+    "id": "p-28ae47",
+    "offset": 44446,
+    "text": "BDELYCLEON\nWhat's this here?"
+  },
+  {
+    "id": "p-715ab4",
+    "offset": 44476,
+    "text": "PHILOCLEON\nA pig-pen of Hestia's."
+  },
+  {
+    "id": "p-65027e",
+    "offset": 44511,
+    "text": "BDELYCLEON\nHave you committed sacrilege, then, bringing it?"
+  },
+  {
+    "id": "p-082f30",
+    "offset": 44572,
+    "text": "PHILOCLEON\nNo — but so that,\nbeginning from Hestia, I may grind someone to dust.\nBut bring it in, quick — for I'm looking to fix a heavy penalty."
+  },
+  {
+    "id": "p-d77b3a",
+    "offset": 44719,
+    "text": "BDELYCLEON\nCome then, let me bring the tablets and the indictments."
+  },
+  {
+    "id": "p-173de6",
+    "offset": 44788,
+    "text": "PHILOCLEON\nOh, you're wasting time and you'll be the death of me, dawdling away!\nI was longing to plough up the ground — with a verdict."
+  },
+  {
+    "id": "p-81c04d",
+    "offset": 44926,
+    "text": "BDELYCLEON\nThere."
+  },
+  {
+    "id": "p-45ad91",
+    "offset": 44945,
+    "text": "PHILOCLEON\nCall the case now."
+  },
+  {
+    "id": "p-758b78",
+    "offset": 44976,
+    "text": "BDELYCLEON\nRight. Who's this here,\nthe first one?"
+  },
+  {
+    "id": "p-de8b38",
+    "offset": 45027,
+    "text": "PHILOCLEON\nGo to the ravens! How vexed I am\nthat I forgot to bring out the voting-urns."
+  },
+  {
+    "id": "p-6446ba",
+    "offset": 45116,
+    "text": "BDELYCLEON\nHey, you — where are you running?"
+  },
+  {
+    "id": "p-52eab6",
+    "offset": 45162,
+    "text": "PHILOCLEON\nFor the urns."
+  },
+  {
+    "id": "p-532473",
+    "offset": 45188,
+    "text": "BDELYCLEON\nNo, no.\nI had these ladles here."
+  },
+  {
+    "id": "p-c339df",
+    "offset": 45233,
+    "text": "PHILOCLEON\nSplendid, then; for everything's at hand for us\nthat we need, except the water-clock."
+  },
+  {
+    "id": "p-df2e88",
+    "offset": 45331,
+    "text": "BDELYCLEON\nAnd what's this, then? Isn't it a water-clock?"
+  },
+  {
+    "id": "p-153440",
+    "offset": 45390,
+    "text": "PHILOCLEON\nYou provide it well, and in true native style."
+  },
+  {
+    "id": "p-9b47c6",
+    "offset": 45449,
+    "text": "BDELYCLEON\nBut quick, someone bring out fire from inside,\nand myrtle-boughs and the frankincense,\nso we may first pray to the gods."
+  },
+  {
+    "id": "p-132faa",
+    "offset": 45582,
+    "text": "CHORUS\nAnd we, over your libations\nand your prayers,\nwill speak you a good word,\nthat you've nobly settled out of war\nand quarrel."
+  },
+  {
+    "id": "p-dbabbd",
+    "offset": 45714,
+    "text": "BDELYCLEON\nLet there first be holy silence now."
+  },
+  {
+    "id": "p-5ba2bf",
+    "offset": 45763,
+    "text": "CHORUS\nO Phoebus Apollo of Pytho, with good fortune\nmay the plan he's contriving\nout here before the doors\nfit us all,\nnow we've ceased our wanderings.\nO hail, Healer Paean!"
+  },
+  {
+    "id": "p-14fd5f",
+    "offset": 45938,
+    "text": "BDELYCLEON\nO master lord, neighbour of the street, guardian of the porch and gateway,\nreceive, lord, the new rite which we are starting up for my father,\nand make an end of his too-harsh, oak-tough temper,\nmixing a little honey-syrup into his sour little soul instead;\nand let him be from now on\ngentle to men,\npitying the defendants more\nthan the prosecutors,\nand weeping with those who plead,\nand, ceasing from his peevishness,\nplucking the nettle of anger\nout of his wrath."
+  },
+  {
+    "id": "p-a9cefc",
+    "offset": 46416,
+    "text": "CHORUS\nWe join you in this same prayer and sing along with you,\nfor the new rule, because of what's been said.\nFor we've been well-disposed to you ever since\nwe learned that you love the People\nas no man does\nof the younger men.\nO hail, Healer Paean!"
+  },
+  {
+    "id": "p-961563",
+    "offset": 46668,
+    "text": "BDELYCLEON\nIf there's any juror outside, let him come in;\nfor once they start speaking, we won't let him in."
+  },
+  {
+    "id": "p-dff51b",
+    "offset": 46778,
+    "text": "PHILOCLEON\nWho's the defendant, then?"
+  },
+  {
+    "id": "p-077820",
+    "offset": 46817,
+    "text": "BDELYCLEON\nThis one."
+  },
+  {
+    "id": "p-b7ab0b",
+    "offset": 46839,
+    "text": "PHILOCLEON\nHow he'll be convicted!"
+  },
+  {
+    "id": "p-7d3667",
+    "offset": 46875,
+    "text": "BDELYCLEON\nHear the indictment now. There has indicted —\na Dog of Kydathenaeum — Labes of Aexone,\nfor wrongdoing about the cheese, in that he ate up alone\nthe Sicilian one. Penalty: a fig-wood collar."
+  },
+  {
+    "id": "p-9508b3",
+    "offset": 47077,
+    "text": "PHILOCLEON\nA dog's death, rather, if once he's convicted."
+  },
+  {
+    "id": "p-00b0a3",
+    "offset": 47136,
+    "text": "BDELYCLEON\nAnd here's the defendant, Labes, present."
+  },
+  {
+    "id": "p-61c7de",
+    "offset": 47190,
+    "text": "PHILOCLEON\nThe foul brute! How he looks a thief, too,\nhow he grins, thinking he'll deceive me!\nBut where's the prosecutor, the Dog of Kydathenaeum?"
+  },
+  {
+    "id": "p-0f8a12",
+    "offset": 47339,
+    "text": "DOG\nBow-wow."
+  },
+  {
+    "id": "p-4b572e",
+    "offset": 47353,
+    "text": "BDELYCLEON\nHere he is."
+  },
+  {
+    "id": "p-33ae82",
+    "offset": 47377,
+    "text": "PHILOCLEON\nThis is another Labes, in his turn."
+  },
+  {
+    "id": "p-507004",
+    "offset": 47425,
+    "text": "BDELYCLEON\nGood at barking, and at licking out the pots."
+  },
+  {
+    "id": "p-950771",
+    "offset": 47483,
+    "text": "PHILOCLEON\nQuiet, sit down. And you, get up and prosecute."
+  },
+  {
+    "id": "p-7f2b91",
+    "offset": 47543,
+    "text": "PHILOCLEON\nCome now, while I pour myself this and sup it too."
+  },
+  {
+    "id": "p-142988",
+    "offset": 47606,
+    "text": "SOSIAS\nYou've heard the indictment which I drew up,\njurymen, against this fellow. For he's done\nthe most dreadful of deeds to me and to the rowers' \"yo-heave-ho.\"\nFor he ran off into the corner and Sicilianized a great deal of cheese\nand stuffed himself in the dark —"
+  },
+  {
+    "id": "p-a13b71",
+    "offset": 47875,
+    "text": "PHILOCLEON\nBy Zeus, but it's plain. To me, at any rate,\nhe just now belched up the foulest reek of cheese,\nthe disgusting creature."
+  },
+  {
+    "id": "p-072a70",
+    "offset": 48008,
+    "text": "SOSIAS\nAnd he gave me no share when I asked.\nAnd yet who can do you good,\nif no one throws a bit to me, the dog, as well?"
+  },
+  {
+    "id": "p-894a3e",
+    "offset": 48131,
+    "text": "PHILOCLEON\nHe gave no share to me, the public, either.\nFor the man's hot — no less so than the lentil-soup."
+  },
+  {
+    "id": "p-1734f2",
+    "offset": 48240,
+    "text": "BDELYCLEON\nBy the gods, don't prejudge, father,\nbefore you've heard both sides."
+  },
+  {
+    "id": "p-fa6a89",
+    "offset": 48321,
+    "text": "PHILOCLEON\nBut my good man,\nthe matter's plain — it cries out of itself."
+  },
+  {
+    "id": "p-179820",
+    "offset": 48395,
+    "text": "SOSIAS\nDon't let him off, then — seeing he's again by far\nthe most solitary-feeding of all the dogs there are,\nwho sailed round the whole mortar in a circle\nand ate up the rind out of the cities."
+  },
+  {
+    "id": "p-b89574",
+    "offset": 48592,
+    "text": "PHILOCLEON\nAnd I've nothing even to mend my water-pot with."
+  },
+  {
+    "id": "p-b6a1b8",
+    "offset": 48653,
+    "text": "SOSIAS\nIn view of this, punish him; for never could\none thicket feed two thieves.\nSo I won't be barking in vain to no purpose;\nand if not, in future I won't bark at all."
+  },
+  {
+    "id": "p-aa3bda",
+    "offset": 48824,
+    "text": "PHILOCLEON\nWhew, whew!\nWhat villainies he's denounced!\nThe man's a thievish business. Don't you think so too,\ncock? By Zeus, he winks yes, at any rate.\nThe presiding magistrate — where is he? Let him give me the chamber-pot."
+  },
+  {
+    "id": "p-0c78b9",
+    "offset": 49050,
+    "text": "BDELYCLEON\nTake it down yourself; for I'm calling in the witnesses.\nWitnesses for Labes are to be present: a bowl,\na pestle, a cheese-grater, a brazier, a pot,\nand the rest, the scorched utensils.\nBut are you still pissing, and not yet seated?"
+  },
+  {
+    "id": "p-01c513",
+    "offset": 49295,
+    "text": "PHILOCLEON\nThis one here, I think, will be shitting himself today."
+  },
+  {
+    "id": "p-0272a5",
+    "offset": 49363,
+    "text": "BDELYCLEON\nWon't you ever stop being harsh and peevish,\nand that toward defendants — but bite down hard?\nGet up, make your defence. Why are you silent? Speak."
+  },
+  {
+    "id": "p-9b1d27",
+    "offset": 49523,
+    "text": "PHILOCLEON\nBut it seems this one has nothing to say."
+  },
+  {
+    "id": "p-d7d0ce",
+    "offset": 49577,
+    "text": "BDELYCLEON\nNo — I think he's suffered the very thing\nThucydides once suffered as a defendant:\nhe became suddenly stricken in the jaws.\nGet out of the way. For I'll make the defence.\nIt's hard, gentlemen, to answer for a dog\nwho's been slandered — but I'll speak all the same.\nFor he's a good dog, and he chases off the wolves."
+  },
+  {
+    "id": "p-b097b6",
+    "offset": 49905,
+    "text": "PHILOCLEON\nA thief, rather, this one — and a conspirator."
+  },
+  {
+    "id": "p-f394ad",
+    "offset": 49964,
+    "text": "BDELYCLEON\nBy Zeus, no — he's the best of the dogs there are now,\nable to stand guard over many sheep."
+  },
+  {
+    "id": "p-a8f436",
+    "offset": 50068,
+    "text": "PHILOCLEON\nWhat's the use, if he eats up the cheese?"
+  },
+  {
+    "id": "p-9ec427",
+    "offset": 50122,
+    "text": "BDELYCLEON\nWhat use? He fights in front for you and guards the door\nand is best in all else. And if he did pilfer,\nforgive him — for he doesn't know how to play the lyre."
+  },
+  {
+    "id": "p-1a2a13",
+    "offset": 50294,
+    "text": "PHILOCLEON\nI'd wish he didn't even know his letters,\nso he couldn't write up our account, the rogue."
+  },
+  {
+    "id": "p-6ca188",
+    "offset": 50396,
+    "text": "BDELYCLEON\nHear my witnesses, good sir.\nGet up, Cheese-grater, and speak out loud.\nFor you happened to be the housekeeper. Answer clearly:\ndid you, or did you not, grate down for the soldiers what you took?\nShe says she grated it."
+  },
+  {
+    "id": "p-0e020f",
+    "offset": 50628,
+    "text": "PHILOCLEON\nBy Zeus, but she's lying."
+  },
+  {
+    "id": "p-190dc4",
+    "offset": 50666,
+    "text": "BDELYCLEON\nMy good sir, pity the wretched.\nFor this Labes here eats up necks\nand fish-bones, and never stays in one place.\nThe other's only good for guarding the house.\nFor staying put, he begs his share\nof whatever anyone brings inside; and if he doesn't get it, he bites."
+  },
+  {
+    "id": "p-3c1276",
+    "offset": 50941,
+    "text": "PHILOCLEON\nUgh. What's this trouble that's softening me?\nSome evil is creeping round me, and I'm being won over."
+  },
+  {
+    "id": "p-a9e3b7",
+    "offset": 51055,
+    "text": "BDELYCLEON\nCome, I beg you — pity him, father,\nand don't destroy him. Where are the children?\nCome up, you wretched, whining things,\nand beg and plead and weep."
+  },
+  {
+    "id": "p-2ff8d9",
+    "offset": 51217,
+    "text": "PHILOCLEON\nGet down, get down, get down, get down!"
+  },
+  {
+    "id": "p-d3af1a",
+    "offset": 51269,
+    "text": "BDELYCLEON\nI'll get down.\nAnd yet this \"get down\" has deceived\na great many. But still, I'll get down."
+  },
+  {
+    "id": "p-6622cc",
+    "offset": 51373,
+    "text": "PHILOCLEON\nGo to the ravens! What a no-good thing this supping is!\nFor I just now wept, against my own judgment —\nfor no reason at all, except that I was full of lentil-soup."
+  },
+  {
+    "id": "p-517e54",
+    "offset": 51549,
+    "text": "BDELYCLEON\nSo isn't he acquitted, then?"
+  },
+  {
+    "id": "p-78d8b7",
+    "offset": 51590,
+    "text": "PHILOCLEON\nIt's hard to know."
+  },
+  {
+    "id": "p-d6aff1",
+    "offset": 51621,
+    "text": "BDELYCLEON\nCome, dear daddy, turn to the better course.\nTake this voting-pebble and to the second urn,\nwith eyes shut, dash past it, father, and acquit."
+  },
+  {
+    "id": "p-136148",
+    "offset": 51775,
+    "text": "PHILOCLEON\nNo, indeed — for I don't know how to play the lyre."
+  },
+  {
+    "id": "p-63a346",
+    "offset": 51839,
+    "text": "BDELYCLEON\nHere now, let me lead you round this way the quickest."
+  },
+  {
+    "id": "p-1ab044",
+    "offset": 51906,
+    "text": "PHILOCLEON\nIs this the first one?"
+  },
+  {
+    "id": "p-066763",
+    "offset": 51941,
+    "text": "BDELYCLEON\nIt is."
+  },
+  {
+    "id": "p-b4ee3a",
+    "offset": 51960,
+    "text": "PHILOCLEON\nThen in it goes, here."
+  },
+  {
+    "id": "p-064181",
+    "offset": 51995,
+    "text": "BDELYCLEON\nHe's been deceived and has acquitted against his will.\nCome, let me empty them out."
+  },
+  {
+    "id": "p-2a46ba",
+    "offset": 52091,
+    "text": "PHILOCLEON\nHow have we done in the contest?"
+  },
+  {
+    "id": "p-edf7e7",
+    "offset": 52136,
+    "text": "BDELYCLEON\nIt looks like it'll show. You've got off, Labes!\nFather, father, what's the matter? Oh no — where's water?\nLift yourself up."
+  },
+  {
+    "id": "p-b66326",
+    "offset": 52273,
+    "text": "PHILOCLEON\nJust tell me this:\ndid he really get off?"
+  },
+  {
+    "id": "p-794309",
+    "offset": 52327,
+    "text": "BDELYCLEON\nBy Zeus, yes."
+  },
+  {
+    "id": "p-48f1b3",
+    "offset": 52353,
+    "text": "PHILOCLEON\nThen I'm nothing."
+  },
+  {
+    "id": "p-b482cc",
+    "offset": 52383,
+    "text": "BDELYCLEON\nDon't take it to heart, good sir — but get up."
+  },
+  {
+    "id": "p-210760",
+    "offset": 52442,
+    "text": "PHILOCLEON\nHow then shall I bear this on my conscience,\nhaving acquitted a defendant? What ever will become of me?\nBut, O greatly honoured gods, forgive me;\nfor I did it unwillingly, and not from my own nature."
+  },
+  {
+    "id": "p-04b4d2",
+    "offset": 52654,
+    "text": "BDELYCLEON\nAnd don't be vexed at all. For I, father,\nwill keep you well, taking you everywhere with me,\nto dinner, to drinking-parties, to the festival,\nso you'll spend the rest of your time pleasantly;\nand Hyperbolus won't be gaping with deceit at you.\nBut let's go in."
+  },
+  {
+    "id": "p-9250b3",
+    "offset": 52926,
+    "text": "PHILOCLEON\nThis now, then, if you think best."
+  },
+  {
+    "id": "p-755cc3",
+    "offset": 52973,
+    "text": "CHORUS\nGo your ways rejoicing, wherever you wish.\nBut you, meanwhile, O countless myriads,\ntake care that the good things about to be spoken\ndon't fall feebly to the ground.\nFor that is the part of dull spectators\nto suffer, and not befitting you."
+  },
+  {
+    "id": "p-00dfed",
+    "offset": 53222,
+    "text": "CHORUS\nNow again, people, pay attention, if you love anything that's clean.\nFor the poet now wishes to find fault with the audience.\nFor he says he's been wronged first, after doing them much good —\npartly not openly, but secretly helping other poets,\nimitating the prophetic art and cunning of Eurycles,\nslipping into others' bellies to pour out much comic stuff;\nand after that, openly in his own right, taking the risk,\nguiding the mouths not of others' Muses but of his own.\nAnd raised high, and honoured as no one ever was among you,\nhe says he didn't, puffed up, fail to finish, nor swell his pride,\nnor go reveling round the wrestling-schools to seduce; nor, if some lover\nwho hated to see his boyfriend lampooned came hurrying to him,\ndid he ever consent to anyone, he says, having a fair-minded resolve,\nso that he might not make the Muses he uses into procuresses.\nNor, when he first began to produce, did he attack mere men,\nbut with a Heracles-like wrath he set on the greatest,\nboldly grappling from the very start with the saw-toothed one himself,\nfrom whose eyes flashed the most terrible rays of the Bitch-star,\nand round his head a hundred heads of accursed flatterers licked,\nand he had the voice of a torrent giving birth to destruction,\nthe smell of a seal, the unwashed balls of a Lamia, a camel's arse.\nSeeing such a monster, he says he wasn't afraid and didn't take a bribe,\nbut on your behalf he still fights even now; and he says that after him\nlast year he set upon the agues and the fevers,\nwhich throttled your fathers by night and choked your grandfathers,\nand lying down on the beds of the quiet, unmeddlesome among you\nglued together affidavits and summonses and depositions,\nso that many, in terror, leapt up and ran to the polemarch.\nThough you found such a guardian-spirit and purifier of this land,\nlast year you betrayed him when he sowed the freshest new ideas,\nwhich, through your failing to understand them clearly, you made fruitless.\nAnd yet, pouring many libations over many offerings, he swears by Dionysus\nthat no one ever heard better comic verses than these.\nSo this is a disgrace to you, who didn't grasp it on the spot;\nbut the poet is reckoned none the worse among the wise,\nif, outstripping his rivals, he wore out his fancy."
+  },
+  {
+    "id": "p-4153b5",
+    "offset": 55499,
+    "text": "CHORUS\nBut henceforth, you blessed people,\nlove and cherish more\nthe poets who seek\nto say and discover something new,\nand keep their conceptions safe,\nand store them up in your chests\nalong with the apples. And if you do this,\nall year long your clothes\nwill smell of cleverness."
+  },
+  {
+    "id": "p-7d0a6a",
+    "offset": 55781,
+    "text": "CHORUS\nO we who once were brave in the dances,\nbrave in battles,\nand in this one thing alone, the bravest of men;\nthat was once, before these things; but now it's\ngone, and these hairs of ours,\nwhiter than a swan's, bloom upon us.\nBut even from these remnants\nwe must get youthful strength;\nfor I think my own\nold age is better than the curls\nof many young men, and their figure\nand their wide-arsed ways."
+  },
+  {
+    "id": "p-037327",
+    "offset": 56188,
+    "text": "CHORUS\nIf any of you spectators, seeing my appearance,\nthen wonders at the sight of me wasp-waisted in the middle —\nwhat the meaning of our sting is —\nI'll easily explain, even to one who was unmusical before.\nWe are the men who have this rump-appendage,\nthe only true-born native Attic men,\na most manly race, and we did this city the most service\nin battles, when the barbarian came,\nsmoking the whole city with fire and burning it,\neager to take by force our wasps' nests.\nFor at once, running out with spear, with shield,\nwe fought them, having drunk the wine of sharp courage,\nman standing by man, gnawing our lips in rage;\nand for the arrows you couldn't see the sky.\nBut still, with the gods' help, we pushed them off toward evening.\nFor an owl flew over our army before we fought;\nand then we followed, harpooning them tuna-style into their baggy trousers,\nand they fled, stung in the jaws and the eyebrows;\nso that among the barbarians everywhere, even now,\nnothing's called more manly than an Attic wasp."
+  },
+  {
+    "id": "p-51e91a",
+    "offset": 57204,
+    "text": "CHORUS\nWas I not terrible then, fearing nothing at all,\nand did I not overthrow\nthe enemy, sailing there with the triremes?\nFor it was no concern of ours then\nto make a fine speech,\nnor to lay a sycophant's information against anyone,\nbut only who'd be the best\noarsman. And so, having taken many\ncities of the Medes,\nwe're most to blame for the tribute's being\nbrought here — which the younger men steal."
+  },
+  {
+    "id": "p-e2a981",
+    "offset": 57611,
+    "text": "CHORUS\nLooking at us in many ways, you'll find us in all\nmost like wasps in our ways and in our manner of life.\nFor first, there's no creature, once provoked,\nmore sharp-tempered than we, nor more peevish;\nand then in all else we contrive things like wasps.\nFor gathering in swarms, just like wasps' nests,\nsome of us judge where the archon is, some by the Eleven,\nsome in the Odeon, some packed close against the walls,\nnodding toward the ground, scarcely\nstirring, like the grubs in their cells.\nAnd as for the rest of our way of life, we're most resourceful;\nfor we sting every man and provide ourselves a living.\nBut there are drones sitting among us,\nwithout a sting, who, staying put, eat up\nthe toil of our tribute, not labouring at all.\nAnd this is most painful to us — if some man who's never served\nswallows down our pay, having taken up neither\noar nor spear nor blister for this land.\nBut it seems to me that henceforth, in short, every citizen\nwho hasn't the sting shouldn't draw the three obols."
+  },
+  {
+    "id": "p-5d7964",
+    "offset": 58622,
+    "text": "BDELYCLEON\n\"Wealth and might\nto Cleitagora and me,\ntogether with the Thessalians—\""
+  },
+  {
+    "id": "p-80db02",
+    "offset": 58706,
+    "text": "PHILOCLEON\nYou've boasted a lot, and so have I."
+  },
+  {
+    "id": "p-4a512b",
+    "offset": 58755,
+    "text": "BDELYCLEON\nThis much you understand well enough.\nBut let's see how we're to go to dinner at Philoctemon's.\nBoy, boy, Chrysus, pack the dinner for us,\nso that for once after a long while we may get drunk."
+  },
+  {
+    "id": "p-f9feaf",
+    "offset": 58960,
+    "text": "PHILOCLEON\nNo, no.\nDrinking's a bad thing. For from wine come\ndoor-smashing and brawling and pelting with stones,\nand then paying out money out of your hangover."
+  },
+  {
+    "id": "p-297ad1",
+    "offset": 59123,
+    "text": "BDELYCLEON\nNot if you're in the company of fine, decent men.\nFor either they begged off the injured party for you,\nor you yourself told some witty story,\nan Aesop-joke or a Sybarite one,\nwhich you learned at the party; and then you turned\nthe matter to a laugh, so the man let you go and went off."
+  },
+  {
+    "id": "p-6e096c",
+    "offset": 59422,
+    "text": "PHILOCLEON\nThen I must learn lots of these stories,\nif I'm to pay no penalty when I do some mischief."
+  },
+  {
+    "id": "p-6e86e5",
+    "offset": 59525,
+    "text": "BDELYCLEON\nCome now, let's go. Let nothing hold us back."
+  },
+  {
+    "id": "p-0ef4a4",
+    "offset": 59583,
+    "text": "CHORUS\nMany a time I've thought myself\nnaturally clever, and never dull;\nbut Amynias, son of Sellus, of the Top-Knot clan,\nthis one whom I once saw dining\non apple and pomegranate\nwith Leogoras —\nfor he's as hungry as Antiphon;\nbut he went off as ambassador to Pharsalus, and there,\nalone among the lonely\nPenestae of the\nThessalians, was himself a serf inferior to none."
+  },
+  {
+    "id": "p-ba258d",
+    "offset": 59956,
+    "text": "CHORUS\nO blessed Automenes, how we count you blessed,\nbecause you've begotten the most skilled of children:\nfirst, a man dear to all and most clever,\nthe finest lyre-singer, whom grace attended;\nand another, an actor, marvellously clever;\nand then Ariphrades, by far the most ingenious,\nwho once swore that, having learned it from no one,\nbut from his clever nature, self-taught,\nhe learned to ply his tongue in the brothels every time he goes in."
+  },
+  {
+    "id": "p-4b7855",
+    "offset": 60405,
+    "text": "CHORUS\n. . ."
+  },
+  {
+    "id": "p-65bbbc",
+    "offset": 60419,
+    "text": "CHORUS\nThere are some who said I'd been reconciled,\nwhen Cleon harried me, pressing on,\nand galled me with vile abuse; and then, when I was being flayed,\nthe outsiders laughed to see me bawling loud,\ncaring nothing for me, but only wanting to know\nwhether, hard-pressed, I'd let fall some little joke.\nSeeing this, I played the ape a little;\nand then now the vine-prop has deceived the vine."
+  },
+  {
+    "id": "p-6bc3ca",
+    "offset": 60812,
+    "text": "PHILOCLEON\nUp and out of the way!\nSomeone among those following\nbehind me is going to howl;\nfor, you wretches, if you don't clear off,\nwith this torch here\nI'll make you into roasted kippers."
+  },
+  {
+    "id": "p-e3e8b0",
+    "offset": 61005,
+    "text": "A FELLOW-GUEST\nFor sure, you'll pay us all the penalty for this\ntomorrow, young blood though you are.\nFor we'll come in a crowd to summon you."
+  },
+  {
+    "id": "p-f8f912",
+    "offset": 61149,
+    "text": "PHILOCLEON\nHey-ho, ha-ha — summon, will you!\nHow old-fashioned of you! Don't you know\nthat I can't bear even to hear\nof lawsuits? Ugh, ugh!\nThis is what pleases me — away with the voting-urns!\nWon't he be off? Where's our\njuryman? Out of the way.\nCome up here, my little golden cockchafer,\ntake hold of this rope with your hand.\nHold on; but mind, the rope's rotten —\nstill, it doesn't mind being rubbed.\nYou see how cleverly I filched you away\nwhen you were just about to play the Lesbian for the guests;\nso pay this prick of mine a favour for it.\nBut you won't pay it, or do me the service, I know;\nyou'll cheat me and gape a great laugh at it,\nfor you've done it to many others already.\nBut if you'll not be a bad woman now,\nwhen my son dies I'll buy you free\nand keep you as my mistress, little piglet.\nAs it is, I'm not master of my own money,\nfor I'm young and watched very closely;\nmy little sonny keeps an eye on me, and he's peevish\nand a cumin-splitting, cress-scraping skinflint besides.\nSo he's afraid for me, that I'll go to ruin;\nfor he has no father but me.\nAnd here he is himself, running, it seems, at you and me.\nBut quick as you can, stand still, taking these torches,\nso I can mock him roundly,\nas he did me before the Mysteries."
+  },
+  {
+    "id": "p-84141d",
+    "offset": 62400,
+    "text": "BDELYCLEON\nHey you, you there, you smoke-dried old lecher and pig-squeezer,\nyou seem to long and lust for a coffin ripe and ready.\nBy Apollo, you won't get away with doing this."
+  },
+  {
+    "id": "p-c19532",
+    "offset": 62579,
+    "text": "PHILOCLEON\nHow you'd love to eat a lawsuit dressed in vinegar!"
+  },
+  {
+    "id": "p-f37f86",
+    "offset": 62643,
+    "text": "BDELYCLEON\nIsn't it dreadful that you mock me, having filched\nthe flute-girl from the fellow-guests?"
+  },
+  {
+    "id": "p-ea6134",
+    "offset": 62745,
+    "text": "PHILOCLEON\nWhat flute-girl?\nWhat's this nonsense, as if you'd fallen off a tomb?"
+  },
+  {
+    "id": "p-9916b5",
+    "offset": 62827,
+    "text": "BDELYCLEON\nBy Zeus, this is your Dardanis, somewhere about."
+  },
+  {
+    "id": "p-7decdd",
+    "offset": 62888,
+    "text": "PHILOCLEON\nNo — it's a torch burning in the market for the gods."
+  },
+  {
+    "id": "p-65d9dc",
+    "offset": 62954,
+    "text": "BDELYCLEON\nThis a torch?"
+  },
+  {
+    "id": "p-5a1556",
+    "offset": 62980,
+    "text": "PHILOCLEON\nA torch indeed. Don't you see it's branded?"
+  },
+  {
+    "id": "p-5cf2f1",
+    "offset": 63036,
+    "text": "BDELYCLEON\nAnd what's this black part of it in the middle?"
+  },
+  {
+    "id": "p-c8ec8e",
+    "offset": 63096,
+    "text": "PHILOCLEON\nThat's the pitch coming out as it burns."
+  },
+  {
+    "id": "p-a82c64",
+    "offset": 63149,
+    "text": "BDELYCLEON\nAnd isn't this behind here an arse?"
+  },
+  {
+    "id": "p-0ff4a3",
+    "offset": 63197,
+    "text": "PHILOCLEON\nNo — that's a knot of the torch sticking out."
+  },
+  {
+    "id": "p-d3cc2c",
+    "offset": 63255,
+    "text": "BDELYCLEON\nWhat do you mean, you? What sort of knot? Come here, you!"
+  },
+  {
+    "id": "p-1f29a0",
+    "offset": 63325,
+    "text": "PHILOCLEON\nAh, ah — what are you going to do?"
+  },
+  {
+    "id": "p-e93d0e",
+    "offset": 63372,
+    "text": "BDELYCLEON\nTake her and lead her off,\ntaking her from you, and reckoning you rotten\nand able to do nothing."
+  },
+  {
+    "id": "p-c08d80",
+    "offset": 63481,
+    "text": "PHILOCLEON\nListen to me now.\nAt Olympia, when I was a spectator there,\nEphoudion fought Ascondas finely,\nold man though he was; and then, with a blow of his fist,\nthe older man knocked down the younger.\nIn view of this, watch you don't get black eyes."
+  },
+  {
+    "id": "p-c0c36c",
+    "offset": 63734,
+    "text": "BDELYCLEON\nBy Zeus, you've learned your Olympia by heart."
+  },
+  {
+    "id": "p-c6707a",
+    "offset": 63793,
+    "text": "A BREAD-WOMAN\nCome, stand by me, I beg you, by the gods.\nFor this is the man who ruined me,\nbeating me with the torch, and knocked out from here\nten obols' worth of loaves and four extra ones besides."
+  },
+  {
+    "id": "p-955445",
+    "offset": 63995,
+    "text": "BDELYCLEON\nSee what you've done? Now there'll be more troubles and lawsuits\nto deal with because of your wine."
+  },
+  {
+    "id": "p-450f16",
+    "offset": 64107,
+    "text": "PHILOCLEON\nNot at all, since\nsome clever stories will settle them;\nso I know I'll be reconciled with this one."
+  },
+  {
+    "id": "p-aa7b13",
+    "offset": 64219,
+    "text": "BREAD-WOMAN\nBy the Two Goddesses, you won't get away with it —\nruining the wares of Myrtia, daughter of Ancylion\nand Sostrate — like this."
+  },
+  {
+    "id": "p-2cd05e",
+    "offset": 64359,
+    "text": "PHILOCLEON\nListen, woman; I want to tell you\na charming tale."
+  },
+  {
+    "id": "p-88cd32",
+    "offset": 64422,
+    "text": "BREAD-WOMAN\nBy Zeus, not to me, my good man."
+  },
+  {
+    "id": "p-6a8e13",
+    "offset": 64468,
+    "text": "PHILOCLEON\nAesop, walking home from dinner one evening,\nhad a bold, drunken bitch barking at him.\nAnd then he said, \"O bitch, bitch,\nif, by Zeus, instead of that wicked tongue\nyou'd buy yourself some wheat somewhere, I'd think you had sense.\""
+  },
+  {
+    "id": "p-2135b7",
+    "offset": 64712,
+    "text": "BREAD-WOMAN\nAnd you mock me? I summon you, whoever you are,\nbefore the market-inspectors, for damage to my wares,\nwith Chaerephon here as my witness."
+  },
+  {
+    "id": "p-b16bc1",
+    "offset": 64863,
+    "text": "PHILOCLEON\nBy Zeus, no — listen, if you'll think I say something.\nLasus and Simonides once competed against each other;\nthen Lasus said, \"It's little I care.\""
+  },
+  {
+    "id": "p-b75bce",
+    "offset": 65023,
+    "text": "BREAD-WOMAN\nReally, you?"
+  },
+  {
+    "id": "p-648385",
+    "offset": 65049,
+    "text": "PHILOCLEON\nAnd you, Chaerephon — you seem fit\nto be witness for a woman, sallow-faced,\nan Ino hanging at the feet of Euripides."
+  },
+  {
+    "id": "p-af8665",
+    "offset": 65178,
+    "text": "BDELYCLEON\nHere comes another one, it seems,\nto summon you; he's got a witness, anyway."
+  },
+  {
+    "id": "p-55b58f",
+    "offset": 65267,
+    "text": "A PLAINTIFF\nOh, wretched me! I summon you, old man,\nfor assault."
+  },
+  {
+    "id": "p-8095d5",
+    "offset": 65333,
+    "text": "BDELYCLEON\nAssault? No, no, don't summon him, by the gods;\nfor I'll pay you a penalty on his behalf,\nwhatever you fix, and I'll be grateful besides."
+  },
+  {
+    "id": "p-a74305",
+    "offset": 65483,
+    "text": "PHILOCLEON\nI myself will gladly be reconciled with him;\nfor I admit I struck and pelted him.\nBut come here. Will you leave it to me,\nhow much silver I should pay for the matter\nto be your friend henceforth, or will you fix it?"
+  },
+  {
+    "id": "p-a2ec0c",
+    "offset": 65711,
+    "text": "PLAINTIFF\nYou say. For I want no lawsuits and no troubles."
+  },
+  {
+    "id": "p-c003b3",
+    "offset": 65771,
+    "text": "PHILOCLEON\nA man of Sybaris fell out of his chariot,\nand somehow cracked his head very badly indeed;\nfor he happened to be no skilled hand at horsemanship.\nAnd then a friend of his stood by and said to him:\n\"Let each man do the craft he knows.\"\nSo you too — run off to Pittalus's surgery."
+  },
+  {
+    "id": "p-a78b4e",
+    "offset": 66061,
+    "text": "BDELYCLEON\nThis too is just like the rest of your ways."
+  },
+  {
+    "id": "p-0ea236",
+    "offset": 66118,
+    "text": "PLAINTIFF\nWell, you at least remember what he answered."
+  },
+  {
+    "id": "p-9b57d6",
+    "offset": 66175,
+    "text": "PHILOCLEON\nListen, don't run off. In Sybaris a woman once\nsmashed a jar."
+  },
+  {
+    "id": "p-610367",
+    "offset": 66249,
+    "text": "PLAINTIFF\nI call you to witness this."
+  },
+  {
+    "id": "p-1ef516",
+    "offset": 66288,
+    "text": "PHILOCLEON\nSo the jar, having a witness, called one to attest;\nthen the Sybarite woman said: \"If, by the Maiden,\nyou'd let this witnessing go and quick\nbuy yourself a bandage, you'd have more sense.\""
+  },
+  {
+    "id": "p-1a53ba",
+    "offset": 66489,
+    "text": "PLAINTIFF\nGo on insulting, until the magistrate calls the case."
+  },
+  {
+    "id": "p-b8d69b",
+    "offset": 66554,
+    "text": "BDELYCLEON\nBy Demeter, you won't stay here any longer,\nbut I'll pick you up and carry you off —"
+  },
+  {
+    "id": "p-ffb673",
+    "offset": 66651,
+    "text": "PHILOCLEON\nWhat are you doing?"
+  },
+  {
+    "id": "p-96eada",
+    "offset": 66683,
+    "text": "BDELYCLEON\nWhat am I doing?\nI'm carrying you inside from here; or else soon\nthere'll be too few summoners for those you summon."
+  },
+  {
+    "id": "p-4a82d7",
+    "offset": 66812,
+    "text": "PHILOCLEON\nThe Delphians once, against Aesop —"
+  },
+  {
+    "id": "p-a4948b",
+    "offset": 66860,
+    "text": "BDELYCLEON\nIt's little I care."
+  },
+  {
+    "id": "p-b37730",
+    "offset": 66892,
+    "text": "PHILOCLEON\n— accused him of stealing a bowl of the god's;\nand he told them how a beetle once —"
+  },
+  {
+    "id": "p-cbffb9",
+    "offset": 66988,
+    "text": "BDELYCLEON\nOh, how I'll destroy you, beetles and all!"
+  },
+  {
+    "id": "p-39bf42",
+    "offset": 67043,
+    "text": "CHORUS\nI envy the old man his good luck,\nhow he's changed\nfrom dry ways and a dry life;\nand now, having learned otherwise,\nhe'll surely shift greatly\ntoward the luxurious and the soft.\nBut perhaps he won't want to;\nfor it's hard to stand off\nfrom a nature one always has.\nAnd yet many have suffered this:\nkeeping company with others' minds,\nthey changed their ways."
+  },
+  {
+    "id": "p-db7f32",
+    "offset": 67410,
+    "text": "CHORUS\nWith much praise from me\nand from the right-thinking,\nhaving won it, the son of Philocleon\ngoes off, for his love of his father and his wisdom.\nFor I never met anyone\nso agreeable, nor was I\nmaddened or carried away by anyone's ways.\nFor in what did he, arguing,\nnot prove the stronger, wishing\nto adorn his father\nwith grander things?"
+  },
+  {
+    "id": "p-5d314f",
+    "offset": 67754,
+    "text": "PHILOCLEON\nWho's that sitting at the courtyard doors?"
+  },
+  {
+    "id": "p-7e14a7",
+    "offset": 67809,
+    "text": "XANTHIAS\nThere — the trouble's coming on now."
+  },
+  {
+    "id": "p-224bb9",
+    "offset": 67856,
+    "text": "PHILOCLEON\nLet these bolts be loosed. And now, here goes —\nfor this is the beginning of a dance-figure —"
+  },
+  {
+    "id": "p-96c97b",
+    "offset": 67962,
+    "text": "XANTHIAS\nOr rather, perhaps, the beginning of madness."
+  },
+  {
+    "id": "p-b341a6",
+    "offset": 68018,
+    "text": "PHILOCLEON\n— as I twist my side with vigour.\nHow my nostril snorts and\nmy backbone resounds!"
+  },
+  {
+    "id": "p-09b00b",
+    "offset": 68112,
+    "text": "XANTHIAS\nDrink some hellebore."
+  },
+  {
+    "id": "p-91432f",
+    "offset": 68144,
+    "text": "PHILOCLEON\nPhrynichus crouches like a cock—"
+  },
+  {
+    "id": "p-245377",
+    "offset": 68189,
+    "text": "XANTHIAS\nYou'll soon be pelted."
+  },
+  {
+    "id": "p-dea85b",
+    "offset": 68222,
+    "text": "PHILOCLEON\n—kicking his leg sky-high.\nMy arse gapes open."
+  },
+  {
+    "id": "p-91fe08",
+    "offset": 68281,
+    "text": "XANTHIAS\nWatch yourself."
+  },
+  {
+    "id": "p-475764",
+    "offset": 68307,
+    "text": "PHILOCLEON\nFor now in our joints\nthe loose socket turns supple."
+  },
+  {
+    "id": "p-bc5dbf",
+    "offset": 68372,
+    "text": "PHILOCLEON\nNot bad, eh?"
+  },
+  {
+    "id": "p-0c8efe",
+    "offset": 68397,
+    "text": "BDELYCLEON\nBy Zeus, no indeed — it's a mad business."
+  },
+  {
+    "id": "p-60a8d4",
+    "offset": 68451,
+    "text": "PHILOCLEON\nCome now, let me make a proclamation and call up rivals.\nIf any tragedian says he dances well,\nlet him come in here to dance it out against me.\nDoes anyone say so, or no one?"
+  },
+  {
+    "id": "p-b33515",
+    "offset": 68638,
+    "text": "XANTHIAS\nThat one alone."
+  },
+  {
+    "id": "p-03521f",
+    "offset": 68664,
+    "text": "PHILOCLEON\nWho's the wretch?"
+  },
+  {
+    "id": "p-d01d97",
+    "offset": 68694,
+    "text": "XANTHIAS\nThe son of Carcinus,\nthe middle one."
+  },
+  {
+    "id": "p-562a40",
+    "offset": 68741,
+    "text": "PHILOCLEON\nHe'll be gobbled up, then;\nfor I'll destroy him with the rhythm of a knuckle-punch.\nFor he's nothing when it comes to the beat."
+  },
+  {
+    "id": "p-46ee8f",
+    "offset": 68881,
+    "text": "XANTHIAS\nBut, you poor wretch,\nhere comes another tragedian of the Carcinus brood,\nhis brother."
+  },
+  {
+    "id": "p-357cdc",
+    "offset": 68978,
+    "text": "PHILOCLEON\nBy Zeus, then I've got a fish dinner."
+  },
+  {
+    "id": "p-d039dd",
+    "offset": 69028,
+    "text": "XANTHIAS\nBy Zeus, no — nothing else but crabs;\nfor here comes yet another of Carcinus's lot."
+  },
+  {
+    "id": "p-08f1b6",
+    "offset": 69122,
+    "text": "PHILOCLEON\nWhat's this creeping up? A vinegar-cruet, or a spider?"
+  },
+  {
+    "id": "p-33e8c0",
+    "offset": 69189,
+    "text": "XANTHIAS\nThis is the pea-crab of the family,\nthe smallest, who writes tragedy."
+  },
+  {
+    "id": "p-4bd7ee",
+    "offset": 69269,
+    "text": "PHILOCLEON\nO Carcinus, O blessed in your fine children,\nwhat a flock of little wrens has come fluttering down!\nBut I must go down against them. You, you poor wretch,\nmix up the brine-sauce for these, if I win."
+  },
+  {
+    "id": "p-c9aa27",
+    "offset": 69480,
+    "text": "CHORUS\nCome now, let's all give way to them a little,\nso that at their leisure they may spin themselves like tops before us."
+  },
+  {
+    "id": "p-7244d1",
+    "offset": 69606,
+    "text": "CHORUS\nCome, O greatly-named children\nof the god of the sea,\nleap by the sand\nand the shore of the barren brine,\nbrothers of the shrimps;"
+  },
+  {
+    "id": "p-00c9d5",
+    "offset": 69745,
+    "text": "CHORUS\nwhirl your swift foot round,\nand let someone kick out\nthe Phrynichus-step, so that\nthe spectators, seeing the leg up high, may cry out."
+  },
+  {
+    "id": "p-0ce8bf",
+    "offset": 69889,
+    "text": "CHORUS\nSpin, parade in a circle, and pummel your own belly,\nfling your leg sky-high; let there be tops spinning.\nFor the sea-ruling lord himself, the father, creeps up,\ndelighted at his own children, the buzzard-brood.\nBut lead us out the door, quick, if you love dancing at all;\nfor this no one has ever done before —\nsent a chorus of comedians off dancing."
+  }
+]

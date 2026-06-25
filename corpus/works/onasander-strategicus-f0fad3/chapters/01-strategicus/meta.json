@@ -1,0 +1,38 @@
+{
+  "work_slug": "onasander-strategicus-f0fad3",
+  "work_title": "Strategicus",
+  "chapter_number": 1,
+  "chapter_title": "Strategicus",
+  "chapter_slug": "01-strategicus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5b79218e-4566-5ef3-a0e7-319c26eb3cb8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11794,
+      "paragraph_count": 236,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0648.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60e98a1b-e733-53b2-b70d-4186c06d9e35",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 16123,
+      "paragraph_count": 279,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

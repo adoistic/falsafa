@@ -1,0 +1,38 @@
+{
+  "work_slug": "quintus-smyrnaeus-the-fall-of-troy-49a5ab",
+  "work_title": "The Fall of Troy",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02-book-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "98160548-ace7-5b6d-acf7-a0cc26821829",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4567,
+      "paragraph_count": 668,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2046.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "64fa0648-0971-5b74-9516-93eb4b933705",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6490,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

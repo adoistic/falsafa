@@ -1,0 +1,38 @@
+{
+  "work_slug": "julian-the-heroic-deeds-of-the-emperor--2fbab1",
+  "work_title": "The Heroic Deeds of the Emperor Constantius",
+  "chapter_number": 1,
+  "chapter_title": "The Heroic Deeds of the Emperor Constantius",
+  "chapter_slug": "01-the-heroic-deeds-of-the-emperor-constantius",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "de0b743e-d8d4-58c9-a8c8-84470db996d4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 13072,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2003.tlg003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0cf734c3-06c9-5278-9eda-83e6b2230760",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 16856,
+      "paragraph_count": 93,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

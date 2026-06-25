@@ -1,0 +1,38 @@
+{
+  "work_slug": "silius-italicus-punica-739044",
+  "work_title": "Punica",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06-book-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5832bce5-b5a3-561b-b852-6e7bb45082c6",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4497,
+      "paragraph_count": 716,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1345.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0813094d-f55d-5489-bf94-a764b8d26c20",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7564,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

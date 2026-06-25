@@ -1,0 +1,38 @@
+{
+  "work_slug": "julian-panegyric-in-honour-of-the-emper-169f16",
+  "work_title": "Panegyric in Honour of the Emperor Constantius",
+  "chapter_number": 1,
+  "chapter_title": "Panegyric in Honour of the Emperor Constantius",
+  "chapter_slug": "01-panegyric-in-honour-of-the-emperor-constantius",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "99426a87-4463-50e7-97b0-1e8ac38d3dd5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11626,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2003.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c0f22486-4d67-5661-b647-d88eab27e262",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15436,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

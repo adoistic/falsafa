@@ -2,10 +2,10 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1736,
-    "authors": 404,
+    "works": 1751,
+    "authors": 410,
     "eras": 10,
-    "genres": 25,
+    "genres": 27,
     "languages": 9
   },
   "works": [
@@ -32992,6 +32992,291 @@
       "difficulty": "Advanced",
       "description": "Minucius Felix, Marcus's Octavius, translated from the Latin by Thothica, with the Latin original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "quintus-smyrnaeus-the-fall-of-troy-49a5ab",
+      "title": "The Fall of Troy",
+      "author": "Quintus Smyrnaeus",
+      "author_slug": "quintus-smyrnaeus",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 14,
+      "total_variant_entries": 28,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Quintus Smyrnaeus's The Fall of Troy, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "onasander-strategicus-f0fad3",
+      "title": "Strategicus",
+      "author": "Onasander",
+      "author_slug": "onasander",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Military Science",
+      "genre_slug": "military-science",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Onasander's Strategicus, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "aeneas-tacticus-poliorcetica-14aee7",
+      "title": "Poliorcetica",
+      "author": "Aeneas Tacticus",
+      "author_slug": "aeneas-tacticus",
+      "era": "Classical",
+      "era_slug": "classical",
+      "genre": "Military Science",
+      "genre_slug": "military-science",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aeneas Tacticus's Poliorcetica, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "gaius-valerius-flaccus-argonautica-88ed5e",
+      "title": "Argonautica",
+      "author": "Gaius Valerius Flaccus",
+      "author_slug": "gaius-valerius-flaccus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 8,
+      "total_variant_entries": 16,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Gaius Valerius Flaccus's Argonautica, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "aristophanes-wasps-b78fac",
+      "title": "Wasps",
+      "author": "Aristophanes",
+      "author_slug": "aristophanes",
+      "era": "Classical",
+      "era_slug": "classical",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aristophanes's Wasps, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "aristophanes-frogs-e995cc",
+      "title": "Frogs",
+      "author": "Aristophanes",
+      "author_slug": "aristophanes",
+      "era": "Classical",
+      "era_slug": "classical",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aristophanes's Frogs, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "tertullian-adversus-marcionem-121178",
+      "title": "Adversus Marcionem",
+      "author": "Tertullian",
+      "author_slug": "tertullian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 5,
+      "total_variant_entries": 10,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tertullian's Adversus Marcionem, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "julian-the-heroic-deeds-of-the-emperor--2fbab1",
+      "title": "The Heroic Deeds of the Emperor Constantius",
+      "author": "Julian",
+      "author_slug": "julian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Julian's The Heroic Deeds of the Emperor Constantius, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "julian-against-the-galileans-f2b5f6",
+      "title": "Against the Galileans",
+      "author": "Julian",
+      "author_slug": "julian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Julian's Against the Galileans, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "julian-panegyric-in-honour-of-the-emper-169f16",
+      "title": "Panegyric in Honour of the Emperor Constantius",
+      "author": "Julian",
+      "author_slug": "julian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Julian's Panegyric in Honour of the Emperor Constantius, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "aristotle-constitution-of-the-athenians-7282b2",
+      "title": "Constitution of the Athenians",
+      "author": "Aristotle",
+      "author_slug": "aristotle",
+      "era": "Classical",
+      "era_slug": "classical",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aristotle's Constitution of the Athenians, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "clement-of-alexandria-stromata-694383",
+      "title": "Stromata",
+      "author": "Clement of Alexandria",
+      "author_slug": "clement-of-alexandria",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 8,
+      "total_variant_entries": 16,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Clement of Alexandria's Stromata, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "statius-thebais-c8a661",
+      "title": "Thebais",
+      "author": "Statius",
+      "author_slug": "statius",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 12,
+      "total_variant_entries": 24,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Statius's Thebais, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "achilles-tatius-leucippe-and-clitophon-746f15",
+      "title": "Leucippe and Clitophon",
+      "author": "Achilles Tatius",
+      "author_slug": "achilles-tatius",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Fiction",
+      "genre_slug": "fiction",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 8,
+      "total_variant_entries": 16,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Achilles Tatius's Leucippe and Clitophon, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "silius-italicus-punica-739044",
+      "title": "Punica",
+      "author": "Silius Italicus",
+      "author_slug": "silius-italicus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 17,
+      "total_variant_entries": 34,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Silius Italicus's Punica, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -33211,7 +33496,8 @@
         "aristotle-poetics-6c4430",
         "aristotle-politics-ad5a22",
         "aristotle-rhetoric-6b9325",
-        "aristotle-on-virtues-and-vices-204a95"
+        "aristotle-on-virtues-and-vices-204a95",
+        "aristotle-constitution-of-the-athenians-7282b2"
       ]
     },
     "lucretius": {
@@ -33640,7 +33926,9 @@
         "aristophanes-thesmophoriazusae-d8a38a",
         "aristophanes-knights-150cd5",
         "aristophanes-lysistrata-835f72",
-        "aristophanes-peace-75f3d4"
+        "aristophanes-peace-75f3d4",
+        "aristophanes-wasps-b78fac",
+        "aristophanes-frogs-e995cc"
       ]
     },
     "hesiod": {
@@ -36451,7 +36739,10 @@
         "julian-to-the-uneducated-cynics-a74d35",
         "julian-to-the-cynic-heracleios-738078",
         "julian-misopogon-bed26c",
-        "julian-hymn-to-king-helios-dedicated-to-4d0608"
+        "julian-hymn-to-king-helios-dedicated-to-4d0608",
+        "julian-the-heroic-deeds-of-the-emperor--2fbab1",
+        "julian-against-the-galileans-f2b5f6",
+        "julian-panegyric-in-honour-of-the-emper-169f16"
       ]
     },
     "appendix-vergiliana": {
@@ -36542,7 +36833,8 @@
       "name": "Clement of Alexandria",
       "works": [
         "clement-of-alexandria-who-is-the-rich-man-that-shall-b-399f36",
-        "clement-of-alexandria-exhortation-to-the-newly-baptize-510a07"
+        "clement-of-alexandria-exhortation-to-the-newly-baptize-510a07",
+        "clement-of-alexandria-stromata-694383"
       ]
     },
     "tertullian": {
@@ -36568,7 +36860,8 @@
         "tertullian-de-paenitentia-c59af6",
         "tertullian-de-exhortatione-castitatis-liber-170123",
         "tertullian-de-pallio-2b4851",
-        "tertullian-de-testimonio-animae-137921"
+        "tertullian-de-testimonio-animae-137921",
+        "tertullian-adversus-marcionem-121178"
       ]
     },
     "scriptores-historiae-augustae": {
@@ -36634,7 +36927,8 @@
     "statius": {
       "name": "Statius",
       "works": [
-        "statius-achilleis-095f27"
+        "statius-achilleis-095f27",
+        "statius-thebais-c8a661"
       ]
     },
     "valerius-maximus": {
@@ -36749,6 +37043,42 @@
       "name": "Minucius Felix, Marcus",
       "works": [
         "minucius-felix-marcus-octavius-8cb44d"
+      ]
+    },
+    "quintus-smyrnaeus": {
+      "name": "Quintus Smyrnaeus",
+      "works": [
+        "quintus-smyrnaeus-the-fall-of-troy-49a5ab"
+      ]
+    },
+    "onasander": {
+      "name": "Onasander",
+      "works": [
+        "onasander-strategicus-f0fad3"
+      ]
+    },
+    "aeneas-tacticus": {
+      "name": "Aeneas Tacticus",
+      "works": [
+        "aeneas-tacticus-poliorcetica-14aee7"
+      ]
+    },
+    "gaius-valerius-flaccus": {
+      "name": "Gaius Valerius Flaccus",
+      "works": [
+        "gaius-valerius-flaccus-argonautica-88ed5e"
+      ]
+    },
+    "achilles-tatius": {
+      "name": "Achilles Tatius",
+      "works": [
+        "achilles-tatius-leucippe-and-clitophon-746f15"
+      ]
+    },
+    "silius-italicus": {
+      "name": "Silius Italicus",
+      "works": [
+        "silius-italicus-punica-739044"
       ]
     }
   },
@@ -37696,7 +38026,11 @@
         "aristophanes-lysistrata-835f72",
         "aristophanes-peace-75f3d4",
         "hippocrates-de-diaeta-acutorum-758ba2",
-        "aristotle-on-virtues-and-vices-204a95"
+        "aristotle-on-virtues-and-vices-204a95",
+        "aeneas-tacticus-poliorcetica-14aee7",
+        "aristophanes-wasps-b78fac",
+        "aristophanes-frogs-e995cc",
+        "aristotle-constitution-of-the-athenians-7282b2"
       ]
     },
     "hellenistic": {
@@ -38372,7 +38706,12 @@
         "horace-epodes-111b58",
         "agathemerus-a-sketch-of-geography-a37859",
         "longinus-on-the-sublime-61bbc7",
-        "minucius-felix-marcus-octavius-8cb44d"
+        "minucius-felix-marcus-octavius-8cb44d",
+        "onasander-strategicus-f0fad3",
+        "gaius-valerius-flaccus-argonautica-88ed5e",
+        "statius-thebais-c8a661",
+        "achilles-tatius-leucippe-and-clitophon-746f15",
+        "silius-italicus-punica-739044"
       ]
     },
     "late-antiquity": {
@@ -38502,7 +38841,13 @@
         "colluthus-the-rape-of-helen-4c3db1",
         "proclus-chrestomathy-c2d50f",
         "tryphiodorus-the-taking-of-ilios-f8a745",
-        "pseudo-tertullian-ad-uxorem-4c1cef"
+        "pseudo-tertullian-ad-uxorem-4c1cef",
+        "quintus-smyrnaeus-the-fall-of-troy-49a5ab",
+        "tertullian-adversus-marcionem-121178",
+        "julian-the-heroic-deeds-of-the-emperor--2fbab1",
+        "julian-against-the-galileans-f2b5f6",
+        "julian-panegyric-in-honour-of-the-emper-169f16",
+        "clement-of-alexandria-stromata-694383"
       ]
     },
     "renaissance": {
@@ -38828,7 +39173,10 @@
         "basil-of-caesarea-de-legendis-gentilium-libris-02670d",
         "aristotle-on-virtues-and-vices-204a95",
         "proclus-chrestomathy-c2d50f",
-        "pseudo-tertullian-ad-uxorem-4c1cef"
+        "pseudo-tertullian-ad-uxorem-4c1cef",
+        "tertullian-adversus-marcionem-121178",
+        "aristotle-constitution-of-the-athenians-7282b2",
+        "clement-of-alexandria-stromata-694383"
       ]
     },
     "history": {
@@ -39861,7 +40209,12 @@
         "ovid-ibis-80931f",
         "sallust-historiae-2e235b",
         "horace-epodes-111b58",
-        "agathemerus-a-sketch-of-geography-a37859"
+        "agathemerus-a-sketch-of-geography-a37859",
+        "aristophanes-wasps-b78fac",
+        "aristophanes-frogs-e995cc",
+        "julian-the-heroic-deeds-of-the-emperor--2fbab1",
+        "julian-against-the-galileans-f2b5f6",
+        "julian-panegyric-in-honour-of-the-emper-169f16"
       ]
     },
     "political-theory": {
@@ -40387,7 +40740,11 @@
         "aulus-persius-flaccus-satires-7815f3",
         "colluthus-the-rape-of-helen-4c3db1",
         "theocritus-epigrams-6decd1",
-        "tryphiodorus-the-taking-of-ilios-f8a745"
+        "tryphiodorus-the-taking-of-ilios-f8a745",
+        "quintus-smyrnaeus-the-fall-of-troy-49a5ab",
+        "gaius-valerius-flaccus-argonautica-88ed5e",
+        "statius-thebais-c8a661",
+        "silius-italicus-punica-739044"
       ]
     },
     "literary-criticism": {
@@ -40400,6 +40757,19 @@
       "name": "Theology",
       "works": [
         "minucius-felix-marcus-octavius-8cb44d"
+      ]
+    },
+    "military-science": {
+      "name": "Military Science",
+      "works": [
+        "onasander-strategicus-f0fad3",
+        "aeneas-tacticus-poliorcetica-14aee7"
+      ]
+    },
+    "fiction": {
+      "name": "Fiction",
+      "works": [
+        "achilles-tatius-leucippe-and-clitophon-746f15"
       ]
     }
   },
@@ -41238,7 +41608,18 @@
         "proclus-chrestomathy-c2d50f",
         "tryphiodorus-the-taking-of-ilios-f8a745",
         "agathemerus-a-sketch-of-geography-a37859",
-        "longinus-on-the-sublime-61bbc7"
+        "longinus-on-the-sublime-61bbc7",
+        "quintus-smyrnaeus-the-fall-of-troy-49a5ab",
+        "onasander-strategicus-f0fad3",
+        "aeneas-tacticus-poliorcetica-14aee7",
+        "aristophanes-wasps-b78fac",
+        "aristophanes-frogs-e995cc",
+        "julian-the-heroic-deeds-of-the-emperor--2fbab1",
+        "julian-against-the-galileans-f2b5f6",
+        "julian-panegyric-in-honour-of-the-emper-169f16",
+        "aristotle-constitution-of-the-athenians-7282b2",
+        "clement-of-alexandria-stromata-694383",
+        "achilles-tatius-leucippe-and-clitophon-746f15"
       ]
     },
     "latin": {
@@ -41588,7 +41969,11 @@
         "pseudo-tertullian-ad-uxorem-4c1cef",
         "sallust-historiae-2e235b",
         "horace-epodes-111b58",
-        "minucius-felix-marcus-octavius-8cb44d"
+        "minucius-felix-marcus-octavius-8cb44d",
+        "gaius-valerius-flaccus-argonautica-88ed5e",
+        "tertullian-adversus-marcionem-121178",
+        "statius-thebais-c8a661",
+        "silius-italicus-punica-739044"
       ]
     },
     "english": {

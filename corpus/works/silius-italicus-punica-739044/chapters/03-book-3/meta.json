@@ -1,0 +1,38 @@
+{
+  "work_slug": "silius-italicus-punica-739044",
+  "work_title": "Punica",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "867d602f-2e46-585b-941f-d63fa856f4ff",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4373,
+      "paragraph_count": 714,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1345.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4530e5d6-af3c-5e84-b653-25b87c2cf3d5",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7417,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

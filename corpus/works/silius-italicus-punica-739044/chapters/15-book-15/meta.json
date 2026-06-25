@@ -1,0 +1,38 @@
+{
+  "work_slug": "silius-italicus-punica-739044",
+  "work_title": "Punica",
+  "chapter_number": 15,
+  "chapter_title": "Book 15",
+  "chapter_slug": "15-book-15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "88b726ca-ad5d-5390-9fce-83f36d4bff8d",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5110,
+      "paragraph_count": 821,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1345.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b332a117-e308-5f0e-b6d6-7257bd5c4825",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8514,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

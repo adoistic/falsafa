@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristophanes-wasps-b78fac",
+  "work_title": "Wasps",
+  "chapter_number": 1,
+  "chapter_title": "Wasps",
+  "chapter_slug": "01-wasps",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "beef1dc6-6cc5-51cd-a5a9-a610e8c9d8a0",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9343,
+      "paragraph_count": 1494,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0019.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "217709ff-4d6d-545a-a112-13986bfbc971",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12876,
+      "paragraph_count": 455,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

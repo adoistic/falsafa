@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-adversus-marcionem-121178",
+  "work_title": "Adversus Marcionem",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "88bd7425-d576-5f62-8c9f-efc888b2ba10",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10363,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa006"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "892053a7-c48c-53ac-8f8b-4008fecd9e31",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 16324,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
