@@ -1,0 +1,38 @@
+{
+  "work_slug": "claudius-ptolemaeus-tetrabiblos-25cc54",
+  "work_title": "Tetrabiblos",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d758f740-1a6e-59e0-8bf5-9c02199b9d18",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 12064,
+      "paragraph_count": 90,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0363.tlg007"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "82bee6cf-33d5-5e90-9d26-0d93d05c8229",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 14610,
+      "paragraph_count": 81,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

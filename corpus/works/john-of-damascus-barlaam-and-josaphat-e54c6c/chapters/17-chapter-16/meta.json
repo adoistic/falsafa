@@ -1,0 +1,38 @@
+{
+  "work_slug": "john-of-damascus-barlaam-and-josaphat-e54c6c",
+  "work_title": "Barlaam and Josaphat",
+  "chapter_number": 17,
+  "chapter_title": "Chapter 16",
+  "chapter_slug": "17-chapter-16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f42d7474-218d-57d0-979a-b2b93bc6652f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1668,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2934.tlg066"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "de6d9f50-4933-5223-bb94-cac7a9d0f04f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2128,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

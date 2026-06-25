@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-fasti-85cf2d",
+  "work_title": "Fasti",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05-book-5",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5a078ddc-c422-577a-aac1-e5e9783446dd",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4609,
+      "paragraph_count": 732,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi007"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab3b3635-2b69-5f5b-a410-e02a1e19620b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7286,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

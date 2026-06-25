@@ -1,0 +1,38 @@
+{
+  "work_slug": "juvenal-satires-dd8241",
+  "work_title": "Satires",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02-book-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e9060394-9487-55c5-8511-c7da1c607095",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4447,
+      "paragraph_count": 692,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1276.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "adeb65f9-4a1c-55b0-bc8e-3775da6cf17c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7184,
+      "paragraph_count": 693,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

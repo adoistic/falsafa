@@ -2,10 +2,10 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1773,
-    "authors": 418,
+    "works": 1787,
+    "authors": 425,
     "eras": 10,
-    "genres": 29,
+    "genres": 31,
     "languages": 9
   },
   "works": [
@@ -33695,6 +33695,272 @@
       "difficulty": "Advanced",
       "description": "Basil of Caesarea's Letters, translated from the Greek by Thothica, with the Greek original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "aelius-aristides-orationes-46-01d156",
+      "title": "Orationes 46",
+      "author": "Aelius Aristides",
+      "author_slug": "aelius-aristides",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aelius Aristides's Orationes 46, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "ovid-fasti-85cf2d",
+      "title": "Fasti",
+      "author": "Ovid",
+      "author_slug": "ovid",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 6,
+      "total_variant_entries": 12,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Ovid's Fasti, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "john-of-damascus-barlaam-and-josaphat-e54c6c",
+      "title": "Barlaam and Josaphat",
+      "author": "John of Damascus",
+      "author_slug": "john-of-damascus",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 41,
+      "total_variant_entries": 82,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "John of Damascus's Barlaam and Josaphat, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "longus-daphnis-and-chloe-09b265",
+      "title": "Daphnis and Chloe",
+      "author": "Longus",
+      "author_slug": "longus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Fiction",
+      "genre_slug": "fiction",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 4,
+      "total_variant_entries": 8,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Longus's Daphnis and Chloe, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "cicero-marcus-tullius-partitiones-oratoriae-7fe690",
+      "title": "Partitiones Oratoriae",
+      "author": "Cicero, Marcus Tullius",
+      "author_slug": "cicero-marcus-tullius",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Cicero, Marcus Tullius's Partitiones Oratoriae, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "dionysius-of-halicarnass-de-thucydide-11e75f",
+      "title": "De Thucydide",
+      "author": "Dionysius of Halicarnassus",
+      "author_slug": "dionysius-of-halicarnassus",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "History",
+      "genre_slug": "history",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Dionysius of Halicarnassus's De Thucydide, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "xenophon-of-ephesus-ephesiaca-b45210",
+      "title": "Ephesiaca",
+      "author": "Xenophon of Ephesus",
+      "author_slug": "xenophon-of-ephesus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Fiction",
+      "genre_slug": "fiction",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 5,
+      "total_variant_entries": 10,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Xenophon of Ephesus's Ephesiaca, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "claudius-ptolemaeus-tetrabiblos-25cc54",
+      "title": "Tetrabiblos",
+      "author": "Claudius Ptolemaeus",
+      "author_slug": "claudius-ptolemaeus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Science",
+      "genre_slug": "science",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 4,
+      "total_variant_entries": 8,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Claudius Ptolemaeus's Tetrabiblos, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "tibullus-elegiae-21c385",
+      "title": "Elegiae",
+      "author": "Tibullus",
+      "author_slug": "tibullus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 3,
+      "total_variant_entries": 6,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tibullus's Elegiae, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "oppian-halieutica-3cd7e2",
+      "title": "Halieutica",
+      "author": "Oppian",
+      "author_slug": "oppian",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 5,
+      "total_variant_entries": 10,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Oppian's Halieutica, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "apicius-de-re-coquinaria-bfd32c",
+      "title": "De Re Coquinaria",
+      "author": "Apicius",
+      "author_slug": "apicius",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Cookery",
+      "genre_slug": "cookery",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Apicius's De Re Coquinaria, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "seneca-lucius-annaeus-hercules-oetaeus-935564",
+      "title": "Hercules Oetaeus",
+      "author": "Seneca, Lucius Annaeus",
+      "author_slug": "seneca-lucius-annaeus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Seneca, Lucius Annaeus's Hercules Oetaeus, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "juvenal-satires-dd8241",
+      "title": "Satires",
+      "author": "Juvenal",
+      "author_slug": "juvenal",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 5,
+      "total_variant_entries": 10,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Juvenal's Satires, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "tertullian-de-anima-d01878",
+      "title": "De Anima",
+      "author": "Tertullian",
+      "author_slug": "tertullian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tertullian's De Anima, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -34909,7 +35175,8 @@
         "cicero-marcus-tullius-on-the-commonwealth-6599f3",
         "cicero-marcus-tullius-topica-e2091e",
         "cicero-marcus-tullius-de-optimo-genere-oratorum-9aec20",
-        "cicero-marcus-tullius-on-oratory-6f2b26"
+        "cicero-marcus-tullius-on-oratory-6f2b26",
+        "cicero-marcus-tullius-partitiones-oratoriae-7fe690"
       ]
     },
     "quintus-tullius-cicero": {
@@ -34929,7 +35196,8 @@
     "tibullus": {
       "name": "Tibullus",
       "works": [
-        "tibullus-sulpicia-elegiae-2a0654"
+        "tibullus-sulpicia-elegiae-2a0654",
+        "tibullus-elegiae-21c385"
       ]
     },
     "p-vergilius-maro-virgil": {
@@ -34976,7 +35244,8 @@
         "ovid-ars-amatoria-36e617",
         "ovid-remedia-amoris-ad7507",
         "ovid-metamorphoses-b0cbc2",
-        "ovid-ibis-80931f"
+        "ovid-ibis-80931f",
+        "ovid-fasti-85cf2d"
       ]
     },
     "pliny-the-elder": {
@@ -35016,7 +35285,8 @@
         "seneca-lucius-annaeus-medea-f180ad",
         "seneca-lucius-annaeus-agamemnon-18bcc4",
         "seneca-lucius-annaeus-octavia-7fcd43",
-        "seneca-lucius-annaeus-phoenissae-448a13"
+        "seneca-lucius-annaeus-phoenissae-448a13",
+        "seneca-lucius-annaeus-hercules-oetaeus-935564"
       ]
     },
     "vitruvius-pollio": {
@@ -37146,7 +37416,8 @@
         "aelius-aristides-orationes-55-383f99",
         "aelius-aristides-orationes-49-2146e0",
         "aelius-aristides-orationes-54-7007ae",
-        "aelius-aristides-orationes-48-73ed72"
+        "aelius-aristides-orationes-48-73ed72",
+        "aelius-aristides-orationes-46-01d156"
       ]
     },
     "julian": {
@@ -37223,7 +37494,8 @@
         "dionysius-of-halicarnass-de-dinarcho-e2ccff",
         "dionysius-of-halicarnass-de-thucydidis-idiomatibus-4eed97",
         "dionysius-of-halicarnass-de-antiquis-oratoribus-1e0cd0",
-        "dionysius-of-halicarnass-libri-secundi-de-antiquis-orator-756e07"
+        "dionysius-of-halicarnass-libri-secundi-de-antiquis-orator-756e07",
+        "dionysius-of-halicarnass-de-thucydide-11e75f"
       ]
     },
     "callimachus": {
@@ -37287,7 +37559,8 @@
         "tertullian-adversus-judaeos-13912a",
         "tertullian-adversus-hermogenem-a45bf7",
         "tertullian-adversus-praxean-0ccff9",
-        "tertullian-de-pudicitia-86e2b7"
+        "tertullian-de-pudicitia-86e2b7",
+        "tertullian-de-anima-d01878"
       ]
     },
     "scriptores-historiae-augustae": {
@@ -37560,6 +37833,48 @@
       "works": [
         "cato-marcus-porcius-de-agri-cultura-49cfe3"
       ]
+    },
+    "john-of-damascus": {
+      "name": "John of Damascus",
+      "works": [
+        "john-of-damascus-barlaam-and-josaphat-e54c6c"
+      ]
+    },
+    "longus": {
+      "name": "Longus",
+      "works": [
+        "longus-daphnis-and-chloe-09b265"
+      ]
+    },
+    "xenophon-of-ephesus": {
+      "name": "Xenophon of Ephesus",
+      "works": [
+        "xenophon-of-ephesus-ephesiaca-b45210"
+      ]
+    },
+    "claudius-ptolemaeus": {
+      "name": "Claudius Ptolemaeus",
+      "works": [
+        "claudius-ptolemaeus-tetrabiblos-25cc54"
+      ]
+    },
+    "oppian": {
+      "name": "Oppian",
+      "works": [
+        "oppian-halieutica-3cd7e2"
+      ]
+    },
+    "apicius": {
+      "name": "Apicius",
+      "works": [
+        "apicius-de-re-coquinaria-bfd32c"
+      ]
+    },
+    "juvenal": {
+      "name": "Juvenal",
+      "works": [
+        "juvenal-satires-dd8241"
+      ]
     }
   },
   "eras": {
@@ -37585,7 +37900,8 @@
         "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388",
         "averroes-ibn-rushd-the-philosophy-and-theology-of-a-3f48f4",
         "moses-maimonides-the-guide-for-the-perplexed-6da00a",
-        "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+        "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5",
+        "john-of-damascus-barlaam-and-josaphat-e54c6c"
       ]
     },
     "ancient": {
@@ -38709,7 +39025,9 @@
         "theocritus-epigrams-6decd1",
         "sallust-historiae-2e235b",
         "demetrius-of-phaleron-on-style-4c75b6",
-        "apollonius-rhodius-argonautica-fbd514"
+        "apollonius-rhodius-argonautica-fbd514",
+        "cicero-marcus-tullius-partitiones-oratoriae-7fe690",
+        "dionysius-of-halicarnass-de-thucydide-11e75f"
       ]
     },
     "imperial": {
@@ -39206,7 +39524,17 @@
         "pliny-the-younger-letters-3236cd",
         "claudius-aelianus-on-the-nature-of-animals-4de941",
         "chariton-of-aphrodisias-callirhoe-8d335b",
-        "titus-livius-livy-ab-urbe-condita-periochae-f48fbc"
+        "titus-livius-livy-ab-urbe-condita-periochae-f48fbc",
+        "aelius-aristides-orationes-46-01d156",
+        "ovid-fasti-85cf2d",
+        "longus-daphnis-and-chloe-09b265",
+        "xenophon-of-ephesus-ephesiaca-b45210",
+        "claudius-ptolemaeus-tetrabiblos-25cc54",
+        "tibullus-elegiae-21c385",
+        "oppian-halieutica-3cd7e2",
+        "apicius-de-re-coquinaria-bfd32c",
+        "seneca-lucius-annaeus-hercules-oetaeus-935564",
+        "juvenal-satires-dd8241"
       ]
     },
     "late-antiquity": {
@@ -39349,7 +39677,8 @@
         "tertullian-adversus-praxean-0ccff9",
         "tertullian-de-pudicitia-86e2b7",
         "nonnus-of-panopolis-dionysiaca-3222bb",
-        "basil-of-caesarea-letters-31f35e"
+        "basil-of-caesarea-letters-31f35e",
+        "tertullian-de-anima-d01878"
       ]
     },
     "renaissance": {
@@ -39687,7 +40016,9 @@
         "tertullian-adversus-hermogenem-a45bf7",
         "tertullian-adversus-praxean-0ccff9",
         "tertullian-de-pudicitia-86e2b7",
-        "basil-of-caesarea-letters-31f35e"
+        "basil-of-caesarea-letters-31f35e",
+        "john-of-damascus-barlaam-and-josaphat-e54c6c",
+        "tertullian-de-anima-d01878"
       ]
     },
     "history": {
@@ -39802,7 +40133,8 @@
         "scriptores-historiae-aug-alexander-severus-d95b45",
         "quintus-curtius-rufus-histories-of-alexander-the-great-476171",
         "pliny-the-younger-letters-3236cd",
-        "titus-livius-livy-ab-urbe-condita-periochae-f48fbc"
+        "titus-livius-livy-ab-urbe-condita-periochae-f48fbc",
+        "dionysius-of-halicarnass-de-thucydide-11e75f"
       ]
     },
     "classics": {
@@ -40732,7 +41064,11 @@
         "julian-panegyric-in-honour-of-the-emper-169f16",
         "aelius-aristides-orationes-49-2146e0",
         "aelius-aristides-orationes-54-7007ae",
-        "aelius-aristides-orationes-48-73ed72"
+        "aelius-aristides-orationes-48-73ed72",
+        "aelius-aristides-orationes-46-01d156",
+        "ovid-fasti-85cf2d",
+        "cicero-marcus-tullius-partitiones-oratoriae-7fe690",
+        "seneca-lucius-annaeus-hercules-oetaeus-935564"
       ]
     },
     "political-theory": {
@@ -41265,7 +41601,10 @@
         "silius-italicus-punica-739044",
         "marcus-valerius-martiali-epigrams-998913",
         "apollonius-rhodius-argonautica-fbd514",
-        "nonnus-of-panopolis-dionysiaca-3222bb"
+        "nonnus-of-panopolis-dionysiaca-3222bb",
+        "tibullus-elegiae-21c385",
+        "oppian-halieutica-3cd7e2",
+        "juvenal-satires-dd8241"
       ]
     },
     "literary-criticism": {
@@ -41291,7 +41630,9 @@
       "name": "Fiction",
       "works": [
         "achilles-tatius-leucippe-and-clitophon-746f15",
-        "chariton-of-aphrodisias-callirhoe-8d335b"
+        "chariton-of-aphrodisias-callirhoe-8d335b",
+        "longus-daphnis-and-chloe-09b265",
+        "xenophon-of-ephesus-ephesiaca-b45210"
       ]
     },
     "rhetoric": {
@@ -41304,6 +41645,18 @@
       "name": "Agriculture",
       "works": [
         "cato-marcus-porcius-de-agri-cultura-49cfe3"
+      ]
+    },
+    "science": {
+      "name": "Science",
+      "works": [
+        "claudius-ptolemaeus-tetrabiblos-25cc54"
+      ]
+    },
+    "cookery": {
+      "name": "Cookery",
+      "works": [
+        "apicius-de-re-coquinaria-bfd32c"
       ]
     }
   },
@@ -42163,7 +42516,14 @@
         "apollonius-rhodius-argonautica-fbd514",
         "chariton-of-aphrodisias-callirhoe-8d335b",
         "nonnus-of-panopolis-dionysiaca-3222bb",
-        "basil-of-caesarea-letters-31f35e"
+        "basil-of-caesarea-letters-31f35e",
+        "aelius-aristides-orationes-46-01d156",
+        "john-of-damascus-barlaam-and-josaphat-e54c6c",
+        "longus-daphnis-and-chloe-09b265",
+        "dionysius-of-halicarnass-de-thucydide-11e75f",
+        "xenophon-of-ephesus-ephesiaca-b45210",
+        "claudius-ptolemaeus-tetrabiblos-25cc54",
+        "oppian-halieutica-3cd7e2"
       ]
     },
     "latin": {
@@ -42529,7 +42889,14 @@
         "tertullian-adversus-praxean-0ccff9",
         "tertullian-de-pudicitia-86e2b7",
         "cato-marcus-porcius-de-agri-cultura-49cfe3",
-        "titus-livius-livy-ab-urbe-condita-periochae-f48fbc"
+        "titus-livius-livy-ab-urbe-condita-periochae-f48fbc",
+        "ovid-fasti-85cf2d",
+        "cicero-marcus-tullius-partitiones-oratoriae-7fe690",
+        "tibullus-elegiae-21c385",
+        "apicius-de-re-coquinaria-bfd32c",
+        "seneca-lucius-annaeus-hercules-oetaeus-935564",
+        "juvenal-satires-dd8241",
+        "tertullian-de-anima-d01878"
       ]
     },
     "english": {

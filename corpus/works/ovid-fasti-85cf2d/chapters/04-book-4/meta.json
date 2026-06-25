@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-fasti-85cf2d",
+  "work_title": "Fasti",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f1dcc50d-0966-5829-bb97-a157c02e4ac5",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5982,
+      "paragraph_count": 954,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi007"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2701f400-9f5a-5d5b-af39-3b048f37b6c9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9618,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

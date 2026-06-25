@@ -1,0 +1,38 @@
+{
+  "work_slug": "dionysius-of-halicarnass-de-thucydide-11e75f",
+  "work_title": "De Thucydide",
+  "chapter_number": 1,
+  "chapter_title": "De Thucydide",
+  "chapter_slug": "01-de-thucydide",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e0d3c298-92f9-5545-8c58-2cc4faec4b37",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 16939,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0081.tlg010"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "41a625d0-6648-5a2f-b0ff-8277f4d76781",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 22000,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-fasti-85cf2d",
+  "work_title": "Fasti",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f840ee76-636a-56d4-9e19-a54a50452fe6",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5553,
+      "paragraph_count": 884,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi007"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ee41cdb-961f-5028-affe-138ff96ff196",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8797,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

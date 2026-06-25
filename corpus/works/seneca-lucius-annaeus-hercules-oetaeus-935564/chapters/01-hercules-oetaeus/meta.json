@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-hercules-oetaeus-935564",
+  "work_title": "Hercules Oetaeus",
+  "chapter_number": 1,
+  "chapter_title": "Hercules Oetaeus",
+  "chapter_slug": "01-hercules-oetaeus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0d552b63-91fe-5e82-964e-38a388a4a8de",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11295,
+      "paragraph_count": 2021,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi009"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "319cbf9c-37d4-51ea-b194-443bda9abc1e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 17603,
+      "paragraph_count": 308,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

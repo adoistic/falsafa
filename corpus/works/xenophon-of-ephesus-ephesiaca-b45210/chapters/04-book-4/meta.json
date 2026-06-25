@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-of-ephesus-ephesiaca-b45210",
+  "work_title": "Ephesiaca",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7d4d2e56-9d10-5b55-9325-91db5169eedf",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1509,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0641.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b57126d1-8cbc-5662-9808-3a68665c018f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1882,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

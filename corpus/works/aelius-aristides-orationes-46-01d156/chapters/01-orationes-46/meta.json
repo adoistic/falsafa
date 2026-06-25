@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-46-01d156",
+  "work_title": "Orationes 46",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 46",
+  "chapter_slug": "01-orationes-46",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "41c689dc-4f6a-54b3-b23e-ce64d110e028",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 52393,
+      "paragraph_count": 200,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg046"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a07d0430-436d-58da-86a7-3b2f70c0388c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 71163,
+      "paragraph_count": 233,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

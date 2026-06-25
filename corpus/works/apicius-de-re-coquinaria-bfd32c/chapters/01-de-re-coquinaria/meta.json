@@ -1,0 +1,38 @@
+{
+  "work_slug": "apicius-de-re-coquinaria-bfd32c",
+  "work_title": "De Re Coquinaria",
+  "chapter_number": 1,
+  "chapter_title": "De Re Coquinaria",
+  "chapter_slug": "01-de-re-coquinaria",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ccd80cb0-4666-5ce0-9f57-6330ca43d402",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 15754,
+      "paragraph_count": 574,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi2003.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a84e264-e446-5360-a937-3b3685ae470f",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 20977,
+      "paragraph_count": 485,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

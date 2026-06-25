@@ -1,0 +1,38 @@
+{
+  "work_slug": "tibullus-elegiae-21c385",
+  "work_title": "Elegiae",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fdc22e85-2378-599f-ab11-3cc79cd3c200",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4443,
+      "paragraph_count": 693,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0660.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fbdabc2d-3909-5c80-bdc9-4211f532d940",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6872,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

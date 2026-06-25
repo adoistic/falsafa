@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-de-anima-d01878",
+  "work_title": "De Anima",
+  "chapter_number": 1,
+  "chapter_title": "De Anima",
+  "chapter_slug": "01-de-anima",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "de158246-31bb-5cad-9785-b019695da59b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 23680,
+      "paragraph_count": 147,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa010"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "12a90c9c-7d75-540f-98ed-61649cea1961",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 37469,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

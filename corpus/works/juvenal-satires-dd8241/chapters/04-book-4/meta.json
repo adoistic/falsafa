@@ -1,0 +1,38 @@
+{
+  "work_slug": "juvenal-satires-dd8241",
+  "work_title": "Satires",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d016f963-39fa-5013-bf80-2bed6460c9df",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4515,
+      "paragraph_count": 701,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1276.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3017ac8b-817a-5c45-82d1-a9379380c1b4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7194,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

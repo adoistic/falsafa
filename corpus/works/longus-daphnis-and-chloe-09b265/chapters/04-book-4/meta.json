@@ -1,0 +1,38 @@
+{
+  "work_slug": "longus-daphnis-and-chloe-09b265",
+  "work_title": "Daphnis and Chloe",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eea1ad57-fbf2-532c-bcf6-7cb573b256a3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5268,
+      "paragraph_count": 143,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0561.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9cca3fe7-e498-5d08-84ce-4f1ac665dcff",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6973,
+      "paragraph_count": 143,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
