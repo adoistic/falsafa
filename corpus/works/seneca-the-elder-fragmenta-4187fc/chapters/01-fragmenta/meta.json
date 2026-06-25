@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-the-elder-fragmenta-4187fc",
+  "work_title": "Fragmenta",
+  "chapter_number": 1,
+  "chapter_title": "Fragmenta",
+  "chapter_slug": "01-fragmenta",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9633ea50-aac9-58eb-879a-8ba9bb53820b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 139,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1014.phi004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb58bcf7-e25c-54e6-bc0d-6726020c4442",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 232,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

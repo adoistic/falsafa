@@ -1,0 +1,38 @@
+{
+  "work_slug": "horace-epodes-111b58",
+  "work_title": "Epodes",
+  "chapter_number": 1,
+  "chapter_title": "Epodes",
+  "chapter_slug": "01-epodes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4654432a-a52d-588f-9b6e-0d3cfcf4eaef",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3020,
+      "paragraph_count": 625,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0893.phi003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c2078c07-1071-5f0e-885b-f1b4ef56ae92",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5004,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

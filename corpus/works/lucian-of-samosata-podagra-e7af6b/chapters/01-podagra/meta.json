@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-podagra-e7af6b",
+  "work_title": "Podagra",
+  "chapter_number": 1,
+  "chapter_title": "Podagra",
+  "chapter_slug": "01-podagra",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4baefd6b-bfb8-5e5d-b02e-c7a82a14e6a3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1792,
+      "paragraph_count": 335,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg071"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "251895df-2e78-585b-9fa8-ab580a6118f4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2794,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

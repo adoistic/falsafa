@@ -1,0 +1,38 @@
+{
+  "work_slug": "sallust-historiae-2e235b",
+  "work_title": "Historiae",
+  "chapter_number": 1,
+  "chapter_title": "Historiae",
+  "chapter_slug": "01-historiae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "212e9686-1794-5545-8f1c-cba95247ca97",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4096,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5e17b11-9fba-5e31-a9b2-a118a9208ea8",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6682,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

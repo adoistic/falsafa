@@ -1,0 +1,38 @@
+{
+  "work_slug": "tryphiodorus-the-taking-of-ilios-f8a745",
+  "work_title": "The Taking of Ilios",
+  "chapter_number": 1,
+  "chapter_title": "The Taking of Ilios",
+  "chapter_slug": "01-the-taking-of-ilios",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "46a0ef50-a651-56af-83c0-6f0d5ec32c36",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4230,
+      "paragraph_count": 691,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0647.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5053e5aa-ded4-505c-8d9b-7cf7f0139e16",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6430,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

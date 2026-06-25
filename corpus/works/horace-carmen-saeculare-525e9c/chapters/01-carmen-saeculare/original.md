@@ -1,0 +1,171 @@
+---
+work_id: "525e9cfa-3e74-5b3b-aff0-a893850c9363"
+work_slug: "horace-carmen-saeculare-525e9c"
+work_title: Carmen Saeculare
+author_name: Horace
+chapter_number: 1
+chapter_title: Carmen Saeculare
+chapter_slug: "01-carmen-saeculare"
+variant_id: "daae6166-1f83-5ab6-9e75-1df73288e8e5"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 311
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0893.phi002"
+curator: thothica
+---
+
+1. Phoebe silvarumque potens Diana,
+
+Lucidum caeli decus, o colendi
+
+Semper et culti, date quae precamur
+
+Tempore sacro,
+
+Quo Sibyllini monuere versus
+
+Virgines lectas puerosque castos
+
+Dis quibus septem placuere colles
+
+Dicere carmen.
+
+Alme Sol, curru nitido diem qui
+
+Promis et celas aliusque et idem
+
+Nasceris, possis nihil urbe Roma
+
+Visere maius !
+
+Rite maturos aperire partus
+
+Lenis, Ilithyia, tuere matres,
+
+Sive tu Lucina probas vocari
+
+Seu Genitalis:
+
+Diva, producas subolem patrumque
+
+Prosperes decreta super iugandis
+
+Feminis prolisque novae feraci
+
+Lege marita,
+
+Certus undenos deciens per annos
+
+Orbis ut cantus referatque ludos
+
+Ter die claro totiensque grata
+
+Nocte frequentes.
+
+Vosque veraces cecinisse, Parcae,
+
+Quod semel dictumst stabilisque rerum
+
+Terminus servet, bona iam peractis
+
+Iungite fata.
+
+Fertilis frugum pecorisque tellus
+
+Spicea donet Cererem corona;
+
+Nutriant fetus et aquae salubres
+
+Et Iovis aurae.
+
+Condito mitis placidusque telo
+
+Supplices audi pueros, Apollo;
+
+Siderum regina bicornis, audi,
+
+Luna, puellas:
+
+Roma si vestrumst opus, Iliaeque
+
+Litus Etruscum tenuere turmae,
+
+Iussa pars mutare Lares et urbem
+
+Sospite cursu,
+
+Cui per ardentem sine fraude Troiam
+
+Castus Aeneas patriae superstes
+
+Liberum munivit iter, daturus
+
+Plura relictis:
+
+Di, probos mores docili iuventae,
+
+Di, senectuti placidae quietem,
+
+Romulae genti date remque prolemque
+
+Et decus omne.
+
+Quaeque vos bobus veneratur albis
+
+Clarus Anchisae Venerisque sanguis,
+
+Impetret, bellante prior, iacentem
+
+Lenis in hostem.
+
+iam mari terraque manus potentes
+
+Medus Albanasque timet secures,
+
+Iam Scythae responsa petunt superbi
+
+Nuper, et Indi.
+
+Iam Fides et Pax et Honor Pudorque
+
+Priscus et neglecta redire Virtus
+
+Audet, adparetque beata pleno
+
+Copia cornu.
+
+Augur et fulgente decorus arcu
+
+Phoebus acceptusque novem Camenis,
+
+Qui salutari levat arte fessos
+
+Corporis artus,
+
+Si Palatinas videt aequus arces,
+
+Remque Romanam Latiumque felix
+
+Alterum in lustrum meliusque semper
+
+Prorogat aevum.
+
+Quaeque Aventinum tenet Algidumque,
+
+Quindecim Diana preces virorum
+
+Curat et votis puerorum amicas
+
+Adplicat aures.
+
+Haec Iovem sentire deosque cunctos
+
+Spem bonam certamque domum reporto,
+
+Doctus et Phoebi chorus et Dianae
+
+Dicere laudes.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "agathemerus-a-sketch-of-geography-a37859",
+  "work_title": "A Sketch of Geography",
+  "chapter_number": 1,
+  "chapter_title": "A Sketch of Geography",
+  "chapter_slug": "01-a-sketch-of-geography",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "911fe8be-ee7c-5055-bd71-2d712841b1b6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2008,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0090.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5c803e78-f7f5-58b8-99bc-8b3000854ace",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2658,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

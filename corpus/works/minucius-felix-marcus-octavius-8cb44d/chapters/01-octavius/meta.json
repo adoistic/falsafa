@@ -1,0 +1,38 @@
+{
+  "work_slug": "minucius-felix-marcus-octavius-8cb44d",
+  "work_title": "Octavius",
+  "chapter_number": 1,
+  "chapter_title": "Octavius",
+  "chapter_slug": "01-octavius",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d6fb7b32-60d0-504b-9799-942dc39ab3b1",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11895,
+      "paragraph_count": 307,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0203.stoa001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4bc91659-7c50-5096-93d3-0a94978fe915",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 18026,
+      "paragraph_count": 306,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

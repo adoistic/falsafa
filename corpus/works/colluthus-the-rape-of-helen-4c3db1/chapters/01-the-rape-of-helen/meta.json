@@ -1,0 +1,38 @@
+{
+  "work_slug": "colluthus-the-rape-of-helen-4c3db1",
+  "work_title": "The Rape of Helen",
+  "chapter_number": 1,
+  "chapter_title": "The Rape of Helen",
+  "chapter_slug": "01-the-rape-of-helen",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "46ca6b7a-774d-5f44-a654-c1be9fd82f4f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2329,
+      "paragraph_count": 394,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg4081.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "816f0e78-92f4-59d6-b9cf-9d6141afbcad",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3755,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

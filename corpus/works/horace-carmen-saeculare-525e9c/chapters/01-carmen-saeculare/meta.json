@@ -1,0 +1,38 @@
+{
+  "work_slug": "horace-carmen-saeculare-525e9c",
+  "work_title": "Carmen Saeculare",
+  "chapter_number": 1,
+  "chapter_title": "Carmen Saeculare",
+  "chapter_slug": "01-carmen-saeculare",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "daae6166-1f83-5ab6-9e75-1df73288e8e5",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 311,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0893.phi002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "348349be-23bd-5519-ba9f-56ae505c3bdf",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 525,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

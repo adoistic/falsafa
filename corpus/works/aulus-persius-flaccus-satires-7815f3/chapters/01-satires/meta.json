@@ -1,0 +1,38 @@
+{
+  "work_slug": "aulus-persius-flaccus-satires-7815f3",
+  "work_title": "Satires",
+  "chapter_number": 1,
+  "chapter_title": "Satires",
+  "chapter_slug": "01-satires",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "33f6da66-620b-517a-a85c-c820252b1d3a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4529,
+      "paragraph_count": 664,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0969.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a813643-ca21-5e67-9e1a-4462fb73c727",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7580,
+      "paragraph_count": 663,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

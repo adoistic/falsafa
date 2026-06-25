@@ -2,10 +2,10 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1716,
-    "authors": 391,
+    "works": 1736,
+    "authors": 404,
     "eras": 10,
-    "genres": 23,
+    "genres": 25,
     "languages": 9
   },
   "works": [
@@ -32612,6 +32612,386 @@
       "difficulty": "Advanced",
       "description": "Theophrastus's Characters, translated from the Greek by Thothica, with the Greek original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "basil-of-caesarea-de-legendis-gentilium-libris-02670d",
+      "title": "De legendis gentilium libris",
+      "author": "Basil of Caesarea",
+      "author_slug": "basil-of-caesarea",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Basil of Caesarea's De legendis gentilium libris, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "callistratus-descriptiones-64e2f8",
+      "title": "Descriptiones",
+      "author": "Callistratus",
+      "author_slug": "callistratus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Callistratus's Descriptiones, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "aulus-persius-flaccus-satires-7815f3",
+      "title": "Satires",
+      "author": "Aulus Persius Flaccus",
+      "author_slug": "aulus-persius-flaccus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aulus Persius Flaccus's Satires, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "colluthus-the-rape-of-helen-4c3db1",
+      "title": "The Rape of Helen",
+      "author": "Colluthus",
+      "author_slug": "colluthus",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Colluthus's The Rape of Helen, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "claudius-aelianus-rustic-letters-b0b81d",
+      "title": "Rustic Letters",
+      "author": "Claudius Aelianus",
+      "author_slug": "claudius-aelianus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Claudius Aelianus's Rustic Letters, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "theocritus-epigrams-6decd1",
+      "title": "Epigrams",
+      "author": "Theocritus",
+      "author_slug": "theocritus",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Theocritus's Epigrams, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "lucian-of-samosata-podagra-e7af6b",
+      "title": "Podagra",
+      "author": "Lucian of Samosata",
+      "author_slug": "lucian-of-samosata",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Lucian of Samosata's Podagra, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "aristotle-on-virtues-and-vices-204a95",
+      "title": "On Virtues and Vices",
+      "author": "Aristotle",
+      "author_slug": "aristotle",
+      "era": "Classical",
+      "era_slug": "classical",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aristotle's On Virtues and Vices, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "plutarch-epitome-of-on-the-generation-of--33cbf3",
+      "title": "Epitome of \"On the Generation of the Soul in the Timaeus\"",
+      "author": "Plutarch",
+      "author_slug": "plutarch",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Plutarch's Epitome of \"On the Generation of the Soul in the Timaeus\", translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "proclus-chrestomathy-c2d50f",
+      "title": "Chrestomathy",
+      "author": "Proclus",
+      "author_slug": "proclus",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Proclus's Chrestomathy, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "horace-carmen-saeculare-525e9c",
+      "title": "Carmen Saeculare",
+      "author": "Horace",
+      "author_slug": "horace",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Horace's Carmen Saeculare, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "seneca-the-elder-fragmenta-4187fc",
+      "title": "Fragmenta",
+      "author": "Seneca the Elder",
+      "author_slug": "seneca-the-elder",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Seneca the Elder's Fragmenta, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "ovid-ibis-80931f",
+      "title": "Ibis",
+      "author": "Ovid",
+      "author_slug": "ovid",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Ovid's Ibis, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "tryphiodorus-the-taking-of-ilios-f8a745",
+      "title": "The Taking of Ilios",
+      "author": "Tryphiodorus",
+      "author_slug": "tryphiodorus",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tryphiodorus's The Taking of Ilios, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "pseudo-tertullian-ad-uxorem-4c1cef",
+      "title": "Ad Uxorem",
+      "author": "Pseudo-Tertullian",
+      "author_slug": "pseudo-tertullian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Pseudo-Tertullian's Ad Uxorem, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "sallust-historiae-2e235b",
+      "title": "Historiae",
+      "author": "Sallust",
+      "author_slug": "sallust",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Sallust's Historiae, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "horace-epodes-111b58",
+      "title": "Epodes",
+      "author": "Horace",
+      "author_slug": "horace",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Horace's Epodes, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "agathemerus-a-sketch-of-geography-a37859",
+      "title": "A Sketch of Geography",
+      "author": "Agathemerus",
+      "author_slug": "agathemerus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Agathemerus's A Sketch of Geography, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "longinus-on-the-sublime-61bbc7",
+      "title": "On the Sublime",
+      "author": "Longinus",
+      "author_slug": "longinus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Literary Criticism",
+      "genre_slug": "literary-criticism",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Longinus's On the Sublime, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "minucius-felix-marcus-octavius-8cb44d",
+      "title": "Octavius",
+      "author": "Minucius Felix, Marcus",
+      "author_slug": "minucius-felix-marcus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Theology",
+      "genre_slug": "theology",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Minucius Felix, Marcus's Octavius, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -32830,7 +33210,8 @@
         "aristotle-economics-82caeb",
         "aristotle-poetics-6c4430",
         "aristotle-politics-ad5a22",
-        "aristotle-rhetoric-6b9325"
+        "aristotle-rhetoric-6b9325",
+        "aristotle-on-virtues-and-vices-204a95"
       ]
     },
     "lucretius": {
@@ -33084,7 +33465,8 @@
         "plutarch-de-communibus-notitiis-adversus--e6d970",
         "plutarch-non-posse-suaviter-vivi-secundum-62dbd8",
         "plutarch-adversus-coloten-ac70d8",
-        "plutarch-an-recte-dictum-sit-latenter-ess-031ad4"
+        "plutarch-an-recte-dictum-sit-latenter-ess-031ad4",
+        "plutarch-epitome-of-on-the-generation-of--33cbf3"
       ]
     },
     "isocrates": {
@@ -33469,7 +33851,8 @@
         "lucian-of-samosata-dialogi-marini-df98cc",
         "lucian-of-samosata-dialogi-deorum-91f85b",
         "lucian-of-samosata-dialogi-meretricii-ff20ad",
-        "lucian-of-samosata-soleocista-dbeb47"
+        "lucian-of-samosata-soleocista-dbeb47",
+        "lucian-of-samosata-podagra-e7af6b"
       ]
     },
     "aeschylus": {
@@ -33833,7 +34216,8 @@
       "name": "Sallust",
       "works": [
         "sallust-catilinae-coniuratio-dfc42f",
-        "sallust-bellum-iugurthinum-42bb8f"
+        "sallust-bellum-iugurthinum-42bb8f",
+        "sallust-historiae-2e235b"
       ]
     },
     "tibullus": {
@@ -33866,7 +34250,9 @@
       "works": [
         "horace-carmina-13e18b",
         "horace-satires-9deed7",
-        "horace-ars-poetica-3cb985"
+        "horace-ars-poetica-3cb985",
+        "horace-carmen-saeculare-525e9c",
+        "horace-epodes-111b58"
       ]
     },
     "lucan": {
@@ -33883,7 +34269,8 @@
         "ovid-medicamina-faciei-femineae-9850d0",
         "ovid-ars-amatoria-36e617",
         "ovid-remedia-amoris-ad7507",
-        "ovid-metamorphoses-b0cbc2"
+        "ovid-metamorphoses-b0cbc2",
+        "ovid-ibis-80931f"
       ]
     },
     "pliny-the-elder": {
@@ -36285,6 +36672,84 @@
       "works": [
         "theophrastus-characters-1b9122"
       ]
+    },
+    "basil-of-caesarea": {
+      "name": "Basil of Caesarea",
+      "works": [
+        "basil-of-caesarea-de-legendis-gentilium-libris-02670d"
+      ]
+    },
+    "callistratus": {
+      "name": "Callistratus",
+      "works": [
+        "callistratus-descriptiones-64e2f8"
+      ]
+    },
+    "aulus-persius-flaccus": {
+      "name": "Aulus Persius Flaccus",
+      "works": [
+        "aulus-persius-flaccus-satires-7815f3"
+      ]
+    },
+    "colluthus": {
+      "name": "Colluthus",
+      "works": [
+        "colluthus-the-rape-of-helen-4c3db1"
+      ]
+    },
+    "claudius-aelianus": {
+      "name": "Claudius Aelianus",
+      "works": [
+        "claudius-aelianus-rustic-letters-b0b81d"
+      ]
+    },
+    "theocritus": {
+      "name": "Theocritus",
+      "works": [
+        "theocritus-epigrams-6decd1"
+      ]
+    },
+    "proclus": {
+      "name": "Proclus",
+      "works": [
+        "proclus-chrestomathy-c2d50f"
+      ]
+    },
+    "seneca-the-elder": {
+      "name": "Seneca the Elder",
+      "works": [
+        "seneca-the-elder-fragmenta-4187fc"
+      ]
+    },
+    "tryphiodorus": {
+      "name": "Tryphiodorus",
+      "works": [
+        "tryphiodorus-the-taking-of-ilios-f8a745"
+      ]
+    },
+    "pseudo-tertullian": {
+      "name": "Pseudo-Tertullian",
+      "works": [
+        "pseudo-tertullian-ad-uxorem-4c1cef"
+      ]
+    },
+    "agathemerus": {
+      "name": "Agathemerus",
+      "works": [
+        "agathemerus-a-sketch-of-geography-a37859"
+      ]
+    },
+    "longinus": {
+      "name": "Longinus",
+      "works": [
+        "longinus-on-the-sublime-61bbc7"
+      ]
+    },
+    "minucius-felix-marcus": {
+      "name": "Minucius Felix, Marcus",
+      "works": [
+        "minucius-felix-marcus-octavius-8cb44d"
+      ]
     }
   },
   "eras": {
@@ -37230,7 +37695,8 @@
         "aristophanes-knights-150cd5",
         "aristophanes-lysistrata-835f72",
         "aristophanes-peace-75f3d4",
-        "hippocrates-de-diaeta-acutorum-758ba2"
+        "hippocrates-de-diaeta-acutorum-758ba2",
+        "aristotle-on-virtues-and-vices-204a95"
       ]
     },
     "hellenistic": {
@@ -37424,7 +37890,9 @@
         "asclepiodotus-tactica-1fce6e",
         "pseudo-caesar-de-bello-hispaniensi-07b165",
         "lycophron-alexandra-052646",
-        "theophrastus-characters-1b9122"
+        "theophrastus-characters-1b9122",
+        "theocritus-epigrams-6decd1",
+        "sallust-historiae-2e235b"
       ]
     },
     "imperial": {
@@ -37892,7 +38360,19 @@
         "statius-achilleis-095f27",
         "valerius-maximus-facta-et-dicta-memorabilia-86155b",
         "parthenius-of-nicaea-narrationes-amatoriae-ba182d",
-        "philostratus-the-younger-imagines-a60583"
+        "philostratus-the-younger-imagines-a60583",
+        "callistratus-descriptiones-64e2f8",
+        "aulus-persius-flaccus-satires-7815f3",
+        "claudius-aelianus-rustic-letters-b0b81d",
+        "lucian-of-samosata-podagra-e7af6b",
+        "plutarch-epitome-of-on-the-generation-of--33cbf3",
+        "horace-carmen-saeculare-525e9c",
+        "seneca-the-elder-fragmenta-4187fc",
+        "ovid-ibis-80931f",
+        "horace-epodes-111b58",
+        "agathemerus-a-sketch-of-geography-a37859",
+        "longinus-on-the-sublime-61bbc7",
+        "minucius-felix-marcus-octavius-8cb44d"
       ]
     },
     "late-antiquity": {
@@ -38017,7 +38497,12 @@
         "aurelius-prudentius-clem-hamartigenia-6ba42e",
         "aurelius-prudentius-clem-psychomachia-15db03",
         "aurelius-prudentius-clem-praefatio-b8d117",
-        "aurelius-prudentius-clem-dittochaeon-122670"
+        "aurelius-prudentius-clem-dittochaeon-122670",
+        "basil-of-caesarea-de-legendis-gentilium-libris-02670d",
+        "colluthus-the-rape-of-helen-4c3db1",
+        "proclus-chrestomathy-c2d50f",
+        "tryphiodorus-the-taking-of-ilios-f8a745",
+        "pseudo-tertullian-ad-uxorem-4c1cef"
       ]
     },
     "renaissance": {
@@ -38095,7 +38580,10 @@
         "flavius-philostratus-de-gymnastica-c26e4f",
         "flavius-philostratus-epistulae-et-dialexeis-c7dd8c",
         "flavius-philostratus-nero-36fd7e",
-        "philostratus-the-younger-imagines-a60583"
+        "philostratus-the-younger-imagines-a60583",
+        "callistratus-descriptiones-64e2f8",
+        "claudius-aelianus-rustic-letters-b0b81d",
+        "seneca-the-elder-fragmenta-4187fc"
       ]
     },
     "indic": {
@@ -38336,7 +38824,11 @@
         "tertullian-de-pallio-2b4851",
         "tertullian-de-testimonio-animae-137921",
         "hippocrates-de-diaeta-acutorum-758ba2",
-        "theophrastus-characters-1b9122"
+        "theophrastus-characters-1b9122",
+        "basil-of-caesarea-de-legendis-gentilium-libris-02670d",
+        "aristotle-on-virtues-and-vices-204a95",
+        "proclus-chrestomathy-c2d50f",
+        "pseudo-tertullian-ad-uxorem-4c1cef"
       ]
     },
     "history": {
@@ -39362,7 +39854,14 @@
         "cicero-marcus-tullius-on-oratory-6f2b26",
         "apuleius-florida-9f7d41",
         "asclepiodotus-tactica-1fce6e",
-        "pseudo-caesar-de-bello-hispaniensi-07b165"
+        "pseudo-caesar-de-bello-hispaniensi-07b165",
+        "lucian-of-samosata-podagra-e7af6b",
+        "plutarch-epitome-of-on-the-generation-of--33cbf3",
+        "horace-carmen-saeculare-525e9c",
+        "ovid-ibis-80931f",
+        "sallust-historiae-2e235b",
+        "horace-epodes-111b58",
+        "agathemerus-a-sketch-of-geography-a37859"
       ]
     },
     "political-theory": {
@@ -39884,7 +40383,23 @@
         "aratus-of-soli-phaenomena-765730",
         "statius-achilleis-095f27",
         "parthenius-of-nicaea-narrationes-amatoriae-ba182d",
-        "lycophron-alexandra-052646"
+        "lycophron-alexandra-052646",
+        "aulus-persius-flaccus-satires-7815f3",
+        "colluthus-the-rape-of-helen-4c3db1",
+        "theocritus-epigrams-6decd1",
+        "tryphiodorus-the-taking-of-ilios-f8a745"
+      ]
+    },
+    "literary-criticism": {
+      "name": "Literary Criticism",
+      "works": [
+        "longinus-on-the-sublime-61bbc7"
+      ]
+    },
+    "theology": {
+      "name": "Theology",
+      "works": [
+        "minucius-felix-marcus-octavius-8cb44d"
       ]
     }
   },
@@ -40711,7 +41226,19 @@
         "hippocrates-de-diaeta-acutorum-758ba2",
         "lycophron-alexandra-052646",
         "philostratus-the-younger-imagines-a60583",
-        "theophrastus-characters-1b9122"
+        "theophrastus-characters-1b9122",
+        "basil-of-caesarea-de-legendis-gentilium-libris-02670d",
+        "callistratus-descriptiones-64e2f8",
+        "colluthus-the-rape-of-helen-4c3db1",
+        "claudius-aelianus-rustic-letters-b0b81d",
+        "theocritus-epigrams-6decd1",
+        "lucian-of-samosata-podagra-e7af6b",
+        "aristotle-on-virtues-and-vices-204a95",
+        "plutarch-epitome-of-on-the-generation-of--33cbf3",
+        "proclus-chrestomathy-c2d50f",
+        "tryphiodorus-the-taking-of-ilios-f8a745",
+        "agathemerus-a-sketch-of-geography-a37859",
+        "longinus-on-the-sublime-61bbc7"
       ]
     },
     "latin": {
@@ -41053,7 +41580,15 @@
         "apuleius-florida-9f7d41",
         "statius-achilleis-095f27",
         "valerius-maximus-facta-et-dicta-memorabilia-86155b",
-        "pseudo-caesar-de-bello-hispaniensi-07b165"
+        "pseudo-caesar-de-bello-hispaniensi-07b165",
+        "aulus-persius-flaccus-satires-7815f3",
+        "horace-carmen-saeculare-525e9c",
+        "seneca-the-elder-fragmenta-4187fc",
+        "ovid-ibis-80931f",
+        "pseudo-tertullian-ad-uxorem-4c1cef",
+        "sallust-historiae-2e235b",
+        "horace-epodes-111b58",
+        "minucius-felix-marcus-octavius-8cb44d"
       ]
     },
     "english": {

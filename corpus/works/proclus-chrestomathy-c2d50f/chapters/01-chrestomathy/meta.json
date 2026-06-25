@@ -1,0 +1,38 @@
+{
+  "work_slug": "proclus-chrestomathy-c2d50f",
+  "work_title": "Chrestomathy",
+  "chapter_number": 1,
+  "chapter_title": "Chrestomathy",
+  "chapter_slug": "01-chrestomathy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f097229e-3d15-5d0d-a3b1-891f09826265",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 630,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg4036.tlg023"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc3ee253-825e-5386-be89-8776ae2f06fb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 845,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

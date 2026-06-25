@@ -1,0 +1,38 @@
+{
+  "work_slug": "claudius-aelianus-rustic-letters-b0b81d",
+  "work_title": "Rustic Letters",
+  "chapter_number": 1,
+  "chapter_title": "Rustic Letters",
+  "chapter_slug": "01-rustic-letters",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0c4fde25-5c8e-5221-8dd0-c9b468e67bf1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2201,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0545.tlg003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c2f189eb-8287-570a-85e1-c26f1afa23ac",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3209,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

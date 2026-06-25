@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-de-legendis-gentilium-libris-02670d",
+  "work_title": "De legendis gentilium libris",
+  "chapter_number": 1,
+  "chapter_title": "De legendis gentilium libris",
+  "chapter_slug": "01-de-legendis-gentilium-libris",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bc90239f-77a2-5c52-9aa2-71b36c793d08",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4792,
+      "paragraph_count": 105,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3dd547f9-5852-555c-8aaf-aa8db15fcbc3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6206,
+      "paragraph_count": 106,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
