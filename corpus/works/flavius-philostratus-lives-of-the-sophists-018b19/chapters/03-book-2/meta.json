@@ -1,0 +1,38 @@
+{
+  "work_slug": "flavius-philostratus-lives-of-the-sophists-018b19",
+  "work_title": "Lives of the Sophists",
+  "chapter_number": 3,
+  "chapter_title": "Book 2",
+  "chapter_slug": "03-book-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b864e3bf-5b32-5345-83c4-ef817459939e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 16655,
+      "paragraph_count": 94,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0638.tlg003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3bdf25be-410c-500a-ae84-c4504050ebba",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 21723,
+      "paragraph_count": 96,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

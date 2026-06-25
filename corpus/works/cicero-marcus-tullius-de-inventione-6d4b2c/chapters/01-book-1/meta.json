@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-de-inventione-6d4b2c",
+  "work_title": "De Inventione",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9cde921f-d049-5bbb-aed4-5336283a60ca",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 15588,
+      "paragraph_count": 127,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi036"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "924ccba2-6e4e-5d8c-85b3-b72c8750cdec",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 22067,
+      "paragraph_count": 109,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "greek-anthology-greek-anthology-881bf4",
+  "work_title": "Greek Anthology",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1e593066-d2d1-5a7a-aeb3-b6246bd9f906",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1201,
+      "paragraph_count": 191,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg7000.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da0c802f-3d94-5dcb-96ca-00584bbd4a18",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1761,
+      "paragraph_count": 192,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

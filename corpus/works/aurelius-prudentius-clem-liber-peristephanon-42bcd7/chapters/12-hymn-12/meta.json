@@ -1,0 +1,38 @@
+{
+  "work_slug": "aurelius-prudentius-clem-liber-peristephanon-42bcd7",
+  "work_title": "Liber Peristephanon",
+  "chapter_number": 12,
+  "chapter_title": "Hymn 12",
+  "chapter_slug": "12-hymn-12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "79dfc16e-a75f-5049-898b-d40603e901f7",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 403,
+      "paragraph_count": 66,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0238.stoa001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "838c61f4-702c-58e5-952f-d047aad3b556",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 659,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-13-05ae1f",
+  "work_title": "Orationes 13",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 13",
+  "chapter_slug": "01-orationes-13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "599e9414-4905-56d1-95cd-794cc3a21077",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 28757,
+      "paragraph_count": 121,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg013"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e12b811f-25a4-5ce8-b7cc-20c53ef61c57",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 38802,
+      "paragraph_count": 142,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

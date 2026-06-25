@@ -1,0 +1,38 @@
+{
+  "work_slug": "aurelius-prudentius-clem-liber-peristephanon-42bcd7",
+  "work_title": "Liber Peristephanon",
+  "chapter_number": 7,
+  "chapter_title": "Hymn 7",
+  "chapter_slug": "07-hymn-7",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "799a4469-7dfd-5709-9c1e-d9cdc30a9bd1",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 320,
+      "paragraph_count": 90,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0238.stoa001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "19267d28-9a9e-53ce-aaad-6e010c72b9cd",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 537,
+      "paragraph_count": 91,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-45-9670fd",
+  "work_title": "Orationes 45",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 45",
+  "chapter_slug": "01-orationes-45",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "81538746-e7d7-5ba2-b63e-d63648205de6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 30158,
+      "paragraph_count": 115,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg045"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9680f35c-8fa1-5103-9ac2-1173cd8d4a9c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 41576,
+      "paragraph_count": 128,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

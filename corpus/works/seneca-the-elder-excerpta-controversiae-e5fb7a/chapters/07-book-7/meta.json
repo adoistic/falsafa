@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-the-elder-excerpta-controversiae-e5fb7a",
+  "work_title": "Excerpta Controversiae",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07-book-7",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3e9d3eff-4e6d-584b-abdf-6260a7738b76",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2274,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1014.phi002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ad3ac504-1d55-5707-8164-5482455c3cb2",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3673,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

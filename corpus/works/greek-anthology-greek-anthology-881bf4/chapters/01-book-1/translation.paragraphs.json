@@ -1,0 +1,962 @@
+[
+  {
+    "id": "p-7bf755",
+    "offset": 0,
+    "text": "1. Philippus"
+  },
+  {
+    "id": "p-4834d7",
+    "offset": 14,
+    "text": "A single pentameter\nHail, Paphian goddess: for your power is everlasting,"
+  },
+  {
+    "id": "p-559940",
+    "offset": 89,
+    "text": "your deathless beauty and your honoured awe—"
+  },
+  {
+    "id": "p-3fba16",
+    "offset": 135,
+    "text": "all mortal men, the creatures of a day,"
+  },
+  {
+    "id": "p-bd83fc",
+    "offset": 176,
+    "text": "revere you in their every word and every noble deed;"
+  },
+  {
+    "id": "p-608362",
+    "offset": 230,
+    "text": "for everywhere, to all alike, you show your honour clear."
+  },
+  {
+    "id": "p-77b649",
+    "offset": 289,
+    "text": "2. Phaedimus"
+  },
+  {
+    "id": "p-0c8c7b",
+    "offset": 303,
+    "text": "A trimeter\nCallistratus, the youth of Cephisia,"
+  },
+  {
+    "id": "p-319086",
+    "offset": 352,
+    "text": "set up for you, O messenger of Zeus,"
+  },
+  {
+    "id": "p-90db5b",
+    "offset": 390,
+    "text": "this likeness shared with one of his own age:"
+  },
+  {
+    "id": "p-860a99",
+    "offset": 437,
+    "text": "delight in it, and keep Apollodorus' son and city safe."
+  },
+  {
+    "id": "p-6248ca",
+    "offset": 494,
+    "text": "3. Theocritus"
+  },
+  {
+    "id": "p-5acd92",
+    "offset": 509,
+    "text": "A limping trimeter\nHere lies the poet Hipponax."
+  },
+  {
+    "id": "p-aaef95",
+    "offset": 558,
+    "text": "If you are base, do not draw near the tomb;"
+  },
+  {
+    "id": "p-080569",
+    "offset": 603,
+    "text": "but if you are honest, of decent stock,"
+  },
+  {
+    "id": "p-5a091d",
+    "offset": 644,
+    "text": "sit down and take your ease, and sleep if you will."
+  },
+  {
+    "id": "p-a9be7f",
+    "offset": 697,
+    "text": "4. Anacreon"
+  },
+  {
+    "id": "p-0692ce",
+    "offset": 710,
+    "text": "A tetrameter\nYou, Aristocleides, of all my friends I pity first:"
+  },
+  {
+    "id": "p-dba2e1",
+    "offset": 776,
+    "text": "you lost your youth defending your homeland from slavery."
+  },
+  {
+    "id": "p-bcb3f8",
+    "offset": 835,
+    "text": "5. Phalaecus"
+  },
+  {
+    "id": "p-24a3f7",
+    "offset": 849,
+    "text": "A curtailed or docked trimeter\n\"I win the double course.\" \"But I am a wrestler.\""
+  },
+  {
+    "id": "p-9c5690",
+    "offset": 931,
+    "text": "\"And I the pentathlon.\" \"But I am a boxer.\" —"
+  },
+  {
+    "id": "p-749d79",
+    "offset": 978,
+    "text": "\"And who are you?\" \"Timodemus.\" \"But I am a Cretan.\""
+  },
+  {
+    "id": "p-4d3074",
+    "offset": 1032,
+    "text": "\"And I am Cretheus.\" \"But I am Diocles.\" —"
+  },
+  {
+    "id": "p-74fd6f",
+    "offset": 1076,
+    "text": "\"And who is your father?\" \"Cleinus.\" \"As mine is too.\" — \"And where do you win?\" \"At the Isthmus.\" \"And you?\" —"
+  },
+  {
+    "id": "p-69d295",
+    "offset": 1189,
+    "text": "\"In the Nemean meadow, and at Hera's shrine.\""
+  },
+  {
+    "id": "p-6d570d",
+    "offset": 1236,
+    "text": "6. Phalaecus"
+  },
+  {
+    "id": "p-d1c505",
+    "offset": 1250,
+    "text": "The eleven-syllable trimeter, so called\nThis portrait, the surpassing image"
+  },
+  {
+    "id": "p-cbf747",
+    "offset": 1327,
+    "text": "of the man who made the world laugh in comedy,"
+  },
+  {
+    "id": "p-5c4c4b",
+    "offset": 1375,
+    "text": "crowned for his triumph with ivy and with garlands,"
+  },
+  {
+    "id": "p-b070c0",
+    "offset": 1428,
+    "text": "I have set up, that it may mark Lycon's grave."
+  },
+  {
+    "id": "p-2bde8c",
+    "offset": 1476,
+    "text": "For all that he was once a shining man . . ."
+  },
+  {
+    "id": "p-fd3296",
+    "offset": 1522,
+    "text": "a memorial of that man of charm, in the gathering-place"
+  },
+  {
+    "id": "p-1696b4",
+    "offset": 1579,
+    "text": "and over the wine, this stands for those who come after,"
+  },
+  {
+    "id": "p-ec8fb6",
+    "offset": 1637,
+    "text": "a token left behind, an image of his face."
+  },
+  {
+    "id": "p-a044aa",
+    "offset": 1681,
+    "text": "7. Callimachus"
+  },
+  {
+    "id": "p-6ad8e9",
+    "offset": 1697,
+    "text": "A comic tetrameter\nMenoetas of Lyctus dedicated this bow,"
+  },
+  {
+    "id": "p-87bfb0",
+    "offset": 1756,
+    "text": "saying as he laid it down: \"Here, I give you the horn and the quiver,"
+  },
+  {
+    "id": "p-e69855",
+    "offset": 1827,
+    "text": "Sarapis; the Hesperitae keep the arrows.\""
+  },
+  {
+    "id": "p-39b96e",
+    "offset": 1870,
+    "text": "8. Theodoridas"
+  },
+  {
+    "id": "p-69da4d",
+    "offset": 1886,
+    "text": "The Hesperitae.\nAn Archilochian tetrameter\nThis hammered cauldron of bronze, won by his speed in the long race,"
+  },
+  {
+    "id": "p-21a06b",
+    "offset": 1999,
+    "text": "the son of Aristomachus carried off as his prize."
+  },
+  {
+    "id": "p-26cb3a",
+    "offset": 2050,
+    "text": "9. Callimachus"
+  },
+  {
+    "id": "p-00333f",
+    "offset": 2066,
+    "text": "A bacchic pentameter. The epigram is not complete.\nMany an amphora comes cleaving the Aegean from the vineyards of Chios,"
+  },
+  {
+    "id": "p-0512da",
+    "offset": 2189,
+    "text": "and many a one bringing the choice nectar of the Lesbian vine."
+  },
+  {
+    "id": "p-280e12",
+    "offset": 2253,
+    "text": "10. Callimachus"
+  },
+  {
+    "id": "p-5a337d",
+    "offset": 2270,
+    "text": "A tetrameter of sixteen syllables. This too is incomplete.\nO ship, that snatched from me the one sweet light of my life,"
+  },
+  {
+    "id": "p-ca07e0",
+    "offset": 2392,
+    "text": "I beg you, by Zeus the watcher of the harbour . . ."
+  },
+  {
+    "id": "p-1ef8d2",
+    "offset": 2445,
+    "text": "11. Simonides"
+  },
+  {
+    "id": "p-24fdd5",
+    "offset": 2460,
+    "text": "A pentameter for the dance"
+  },
+  {
+    "id": "p-b4060c",
+    "offset": 2488,
+    "text": "A. Who set up this statue? B. Dorieus of Thurii."
+  },
+  {
+    "id": "p-8779cb",
+    "offset": 2538,
+    "text": "A. Was he not Rhodian by birth? B. Yes, before he fled his homeland,"
+  },
+  {
+    "id": "p-acf598",
+    "offset": 2608,
+    "text": "having done with terrible hand many deeds of violence."
+  },
+  {
+    "id": "p-e960f3",
+    "offset": 2664,
+    "text": "12. Hegesippus"
+  },
+  {
+    "id": "p-dbf4fb",
+    "offset": 2680,
+    "text": "A trimeter sung in answer to a hexameter\nCursed be that day, and the deadly dark,"
+  },
+  {
+    "id": "p-4c5ce3",
+    "offset": 2763,
+    "text": "and the dread roaring of the wind-tossed sea,"
+  },
+  {
+    "id": "p-48eef1",
+    "offset": 2810,
+    "text": "that once overturned the ship on which that man, so sweet of soul,"
+  },
+  {
+    "id": "p-bc0fa3",
+    "offset": 2878,
+    "text": "prayed in vain to the gods for the Abderites;"
+  },
+  {
+    "id": "p-701182",
+    "offset": 2925,
+    "text": "for it was wrecked through all, and driven by the surge"
+  },
+  {
+    "id": "p-87d845",
+    "offset": 2982,
+    "text": "upon rough Seriphus, where, granted fire"
+  },
+  {
+    "id": "p-eb2245",
+    "offset": 3024,
+    "text": "by the hands of reverent hosts, he came at last to his homeland,"
+  },
+  {
+    "id": "p-2c086b",
+    "offset": 3090,
+    "text": "Abdera, his ashes wrapped in an urn of bronze."
+  },
+  {
+    "id": "p-5dfec5",
+    "offset": 3138,
+    "text": "13. Anonymous epigrammatists"
+  },
+  {
+    "id": "p-e1b093",
+    "offset": 3168,
+    "text": "A pentameter upon a hexameter, then a trimeter\nPyres, the dear son of Polymnestus, dedicated this,"
+  },
+  {
+    "id": "p-ad7884",
+    "offset": 3268,
+    "text": "having vowed a tithe to Pallas Tritogeneia;"
+  },
+  {
+    "id": "p-b83bed",
+    "offset": 3313,
+    "text": "Cresilas of Cydonia wrought it."
+  },
+  {
+    "id": "p-8eb754",
+    "offset": 3346,
+    "text": "14. Simonides"
+  },
+  {
+    "id": "p-4491e9",
+    "offset": 3361,
+    "text": "A pentameter upon a hexameter and two trimeters, then a hexameter\nHere lies Dandes of Argos, runner of the stadium,"
+  },
+  {
+    "id": "p-415055",
+    "offset": 3478,
+    "text": "who brought glory to his horse-pasturing homeland with his victories—"
+  },
+  {
+    "id": "p-eea2ef",
+    "offset": 3549,
+    "text": "twice at Olympia, three times at Pytho,"
+  },
+  {
+    "id": "p-486879",
+    "offset": 3590,
+    "text": "twice at the Isthmus, fifteen times at Nemea;"
+  },
+  {
+    "id": "p-08ca69",
+    "offset": 3637,
+    "text": "and his other victories it is not easy to count."
+  },
+  {
+    "id": "p-e9f5f7",
+    "offset": 3687,
+    "text": "15. Anonymous epigrammatists"
+  },
+  {
+    "id": "p-448021",
+    "offset": 3717,
+    "text": "A pentameter upon two hexameters\nI am Dicon, son of Callimbrotus; and I won"
+  },
+  {
+    "id": "p-df559f",
+    "offset": 3794,
+    "text": "four times at Nemea, twice at Olympia, five times at Pytho,"
+  },
+  {
+    "id": "p-268e3d",
+    "offset": 3855,
+    "text": "three times at the Isthmus; I crown the city of Syracuse."
+  },
+  {
+    "id": "p-6a863b",
+    "offset": 3914,
+    "text": "16. Anonymous epigrammatists"
+  },
+  {
+    "id": "p-0f6caa",
+    "offset": 3944,
+    "text": "A pentameter upon three hexameters.\nKings of Sparta were my fathers and my brothers;"
+  },
+  {
+    "id": "p-192e1c",
+    "offset": 4030,
+    "text": "and I, Cynisca, victorious with my chariot of swift-footed horses,"
+  },
+  {
+    "id": "p-f3038b",
+    "offset": 4098,
+    "text": "set up this statue. I declare that I alone of women"
+  },
+  {
+    "id": "p-fc5efe",
+    "offset": 4151,
+    "text": "in all Greece have won this crown."
+  },
+  {
+    "id": "p-e37d99",
+    "offset": 4187,
+    "text": "17. Anonymous epigrammatists"
+  },
+  {
+    "id": "p-81b82c",
+    "offset": 4217,
+    "text": "A dimeter upon a hexameter\nIphion painted this with his own hand,"
+  },
+  {
+    "id": "p-f9e711",
+    "offset": 4284,
+    "text": "he whom the water of Pirene once nourished."
+  },
+  {
+    "id": "p-e4f424",
+    "offset": 4329,
+    "text": "18. Parmeniscus"
+  },
+  {
+    "id": "p-cfe1c1",
+    "offset": 4346,
+    "text": "An eleven-syllable line upon a hexameter\nWorks of bronze, proclaim the victory of the swift filly,"
+  },
+  {
+    "id": "p-5c09c8",
+    "offset": 4446,
+    "text": "who, goaded into a charge, threw off her rider"
+  },
+  {
+    "id": "p-bc4998",
+    "offset": 4494,
+    "text": "and, riderless, raced over the level course. From that time on"
+  },
+  {
+    "id": "p-de3ce2",
+    "offset": 4558,
+    "text": "Parmenon won the golden victory."
+  },
+  {
+    "id": "p-8cc67b",
+    "offset": 4592,
+    "text": "Phocritus, to your son the Amyclean kings"
+  },
+  {
+    "id": "p-e900ec",
+    "offset": 4635,
+    "text": "granted to win the prizes of his fathers."
+  },
+  {
+    "id": "p-9b82f4",
+    "offset": 4678,
+    "text": "19. Simonides"
+  },
+  {
+    "id": "p-6c25af",
+    "offset": 4693,
+    "text": "A nine-syllable line upon a hexameter\nNicoladas of Corinth, who won the victory"
+  },
+  {
+    "id": "p-a03e85",
+    "offset": 4774,
+    "text": "at Delphi in the foot-race, dedicated this offering,"
+  },
+  {
+    "id": "p-66eb50",
+    "offset": 4828,
+    "text": "and at the Panathenaea took five crowns in the contests,"
+  },
+  {
+    "id": "p-2c8d43",
+    "offset": 4886,
+    "text": "amphorae of oil one after another;"
+  },
+  {
+    "id": "p-3a6d0f",
+    "offset": 4922,
+    "text": "at the holy Isthmus three times in a row"
+  },
+  {
+    "id": "p-d5485a",
+    "offset": 4964,
+    "text": "the shore of the Lord of the Sea knew him take the prize;"
+  },
+  {
+    "id": "p-03f5a8",
+    "offset": 5023,
+    "text": "three times he won at Nemea, and four more times"
+  },
+  {
+    "id": "p-5a6393",
+    "offset": 5073,
+    "text": "at Pellene, twice in the Lycaean games,"
+  },
+  {
+    "id": "p-c8952b",
+    "offset": 5114,
+    "text": "and at Tegea, and at Aegina, and at mighty Epidaurus,"
+  },
+  {
+    "id": "p-179496",
+    "offset": 5169,
+    "text": "and at Thebes, and among the people of Megara;"
+  },
+  {
+    "id": "p-06d20b",
+    "offset": 5217,
+    "text": "and in the stadium at Phlius, winning all five events,"
+  },
+  {
+    "id": "p-7135c8",
+    "offset": 5273,
+    "text": "he gladdened the heart of great Corinth."
+  },
+  {
+    "id": "p-c82099",
+    "offset": 5315,
+    "text": "20. Simonides"
+  },
+  {
+    "id": "p-840b54",
+    "offset": 5330,
+    "text": "Upon a hexameter, alternating, the comic tetrameter short by two\nsyllables and the limping Archilochian trimeter"
+  },
+  {
+    "id": "p-a649a1",
+    "offset": 5444,
+    "text": "Glorifying his homeland, the holy city of Athena's people,"
+  },
+  {
+    "id": "p-1f332c",
+    "offset": 5504,
+    "text": "Opis, child of the dark earth, fashioned these lovely pipes"
+  },
+  {
+    "id": "p-e66795",
+    "offset": 5565,
+    "text": "together with Hephaestus, and dedicated them to Aphrodite,"
+  },
+  {
+    "id": "p-5140d2",
+    "offset": 5625,
+    "text": "mastered by his longing for the lovely Bryson."
+  },
+  {
+    "id": "p-7a75a1",
+    "offset": 5673,
+    "text": "21. Theodoridas"
+  },
+  {
+    "id": "p-46a18b",
+    "offset": 5690,
+    "text": "Upon the regular trimeter a dimeter taken from the dance pentameter\nThis is the tomb of Mnasalces of Plataea,"
+  },
+  {
+    "id": "p-0ee326",
+    "offset": 5801,
+    "text": "the maker of elegies;"
+  },
+  {
+    "id": "p-ab654f",
+    "offset": 5824,
+    "text": "and his Muse was a torn-off fragment"
+  },
+  {
+    "id": "p-d250e1",
+    "offset": 5862,
+    "text": "of Simonides' broad style—"
+  },
+  {
+    "id": "p-22fafb",
+    "offset": 5890,
+    "text": "empty in its clamour, a flask-thumping bawler of dithyrambs."
+  },
+  {
+    "id": "p-98c911",
+    "offset": 5952,
+    "text": "He is dead—let us not throw at him; but if he lived,"
+  },
+  {
+    "id": "p-9153b6",
+    "offset": 6006,
+    "text": "he would be banging on his drum."
+  },
+  {
+    "id": "p-15ae5f",
+    "offset": 6040,
+    "text": "22. Phaedimus"
+  },
+  {
+    "id": "p-6b85db",
+    "offset": 6055,
+    "text": "Upon the regular trimeter a heroic tetrameter as refrain, limping at the next-to-last\nThe bow with which you slew the Giant's strength,"
+  },
+  {
+    "id": "p-e4351a",
+    "offset": 6192,
+    "text": "restrain its force, far-shooting lord:"
+  },
+  {
+    "id": "p-87e9b8",
+    "offset": 6232,
+    "text": ". . . his wolf-slaying quiver is not unloosed;"
+  },
+  {
+    "id": "p-c22a1a",
+    "offset": 6280,
+    "text": "but turn upon these young men an arrow"
+  },
+  {
+    "id": "p-bf65ea",
+    "offset": 6320,
+    "text": "of Eros, that they may defend their homeland,"
+  },
+  {
+    "id": "p-243885",
+    "offset": 6367,
+    "text": "made bold by their love of youths;"
+  },
+  {
+    "id": "p-759c96",
+    "offset": 6403,
+    "text": "for it kindles valour, and this, the highest of the gods,"
+  },
+  {
+    "id": "p-53633b",
+    "offset": 6462,
+    "text": "ever exalts the champions in the front."
+  },
+  {
+    "id": "p-0b8c9e",
+    "offset": 6503,
+    "text": "And you, ancestral glory of the men of Schoenus,"
+  },
+  {
+    "id": "p-b9f699",
+    "offset": 6553,
+    "text": "receive the grateful offering of Melistion."
+  },
+  {
+    "id": "p-ffc930",
+    "offset": 6598,
+    "text": "23. Asclepiades"
+  },
+  {
+    "id": "p-c4661d",
+    "offset": 6615,
+    "text": "Upon the tetrameter formed from a regular trimeter by the addition of a final foot, a curtailed trimeter\nO passer-by, even if you are in some haste, stop a moment, I beg you, and hear"
+  },
+  {
+    "id": "p-02ad28",
+    "offset": 6800,
+    "text": "how great, indeed, was the sorrow of Botrys,"
+  },
+  {
+    "id": "p-b874ab",
+    "offset": 6846,
+    "text": "who, an old man of eighty years, buried his son of nine,"
+  },
+  {
+    "id": "p-ac1c2f",
+    "offset": 6904,
+    "text": "a child already wise and skilled in speech."
+  },
+  {
+    "id": "p-bc3486",
+    "offset": 6949,
+    "text": "Alas for the father, and alas for you too, dear child of Botrys,"
+  },
+  {
+    "id": "p-983058",
+    "offset": 7015,
+    "text": "bereft of how many pleasures you have perished."
+  },
+  {
+    "id": "p-b1426f",
+    "offset": 7064,
+    "text": "24. Callimachus"
+  },
+  {
+    "id": "p-7bcb4c",
+    "offset": 7081,
+    "text": "An eleven-syllable line upon the last metron of the foregoing tetrameter\nThe gifts to Aphrodite."
+  },
+  {
+    "id": "p-7412b8",
+    "offset": 7179,
+    "text": "Simon, the wanderer, dedicated her own image,"
+  },
+  {
+    "id": "p-946c43",
+    "offset": 7226,
+    "text": "and the girdle"
+  },
+  {
+    "id": "p-ae408e",
+    "offset": 7242,
+    "text": "that loved her breasts, and the torch,"
+  },
+  {
+    "id": "p-277c62",
+    "offset": 7282,
+    "text": "and the thyrsi she once tossed aloft,"
+  },
+  {
+    "id": "p-6674dd",
+    "offset": 7321,
+    "text": "shrieking, poor woman, up among the hills."
+  },
+  {
+    "id": "p-29ad2b",
+    "offset": 7365,
+    "text": "25. Callimachus"
+  },
+  {
+    "id": "p-e569a3",
+    "offset": 7382,
+    "text": "Upon the doubled metron, an epodic tetrameter, exceeding the hexameter by one syllable\nTo Demeter of the Gates, for whom Acrisius"
+  },
+  {
+    "id": "p-6a10f1",
+    "offset": 7513,
+    "text": "once built this temple, not the Pelasgian one, these gifts"
+  },
+  {
+    "id": "p-43bc42",
+    "offset": 7573,
+    "text": "did Timodemus of Naucratis set up,"
+  },
+  {
+    "id": "p-af0f15",
+    "offset": 7609,
+    "text": "and to her daughter below—a tithe of his gains; for so he vowed."
+  },
+  {
+    "id": "p-482088",
+    "offset": 7675,
+    "text": "26. Simonides"
+  },
+  {
+    "id": "p-4a0310",
+    "offset": 7690,
+    "text": "Upon the same tetrameter, a curtailed trimeter\nI will remember; for it is not fitting that the radiant wife"
+  },
+  {
+    "id": "p-de91cb",
+    "offset": 7799,
+    "text": "of Archenautes should lie here nameless in death,"
+  },
+  {
+    "id": "p-85e14e",
+    "offset": 7850,
+    "text": "Xanthippe, descendant of Periander, who once"
+  },
+  {
+    "id": "p-f12867",
+    "offset": 7896,
+    "text": "gave law to the people, holding the high-towered bounds of Corinth."
+  },
+  {
+    "id": "p-de6231",
+    "offset": 7965,
+    "text": "27. Phalaecus"
+  },
+  {
+    "id": "p-8bd17a",
+    "offset": 7980,
+    "text": "Upon the tetrameter a regular trimeter, then a hexameter alternating\nPhocus perished in a foreign land; for the black ship"
+  },
+  {
+    "id": "p-e1e86a",
+    "offset": 8104,
+    "text": "did not bear him up above the wave, nor receive him,"
+  },
+  {
+    "id": "p-8c1710",
+    "offset": 8158,
+    "text": "but down into the deep gulf of the Aegean sea he sank,"
+  },
+  {
+    "id": "p-9645b6",
+    "offset": 8214,
+    "text": "when the South Wind drove its violence over the farthest deep."
+  },
+  {
+    "id": "p-877b10",
+    "offset": 8278,
+    "text": "He won a share of an empty tomb among his fathers, around which Promethis,"
+  },
+  {
+    "id": "p-813e6c",
+    "offset": 8354,
+    "text": "his mother, like a mournful bird in her fate,"
+  },
+  {
+    "id": "p-2bd603",
+    "offset": 8401,
+    "text": "cries \"Alas!\" for her own child all her days,"
+  },
+  {
+    "id": "p-437e2a",
+    "offset": 8448,
+    "text": "telling how, before his time, he perished."
+  },
+  {
+    "id": "p-b51e90",
+    "offset": 8492,
+    "text": "27a. Callimachus"
+  },
+  {
+    "id": "p-09e627",
+    "offset": 8510,
+    "text": "Upon the same tetrameter, an eleven-syllable line"
+  },
+  {
+    "id": "p-c18688",
+    "offset": 8561,
+    "text": ". . ."
+  },
+  {
+    "id": "p-5a1173",
+    "offset": 8568,
+    "text": "28. Simonides"
+  },
+  {
+    "id": "p-ed29f9",
+    "offset": 8583,
+    "text": "Upon the same tetrameter, a tetrameter like \"if only a maiden fair and tender were mine,\" exceeding by one syllable alone; in the fourth foot it has not an iamb but an anapaest\nOften, indeed, in the dances of the Acamantid tribe the Seasons"
+  },
+  {
+    "id": "p-d3c96a",
+    "offset": 8825,
+    "text": "have raised the cry over the ivy-crowned dithyrambs,"
+  },
+  {
+    "id": "p-8adbf7",
+    "offset": 8879,
+    "text": "the daughters of Dionysus, and with fillets and the choicest roses"
+  },
+  {
+    "id": "p-992865",
+    "offset": 8947,
+    "text": "they shaded the glistening hair of the skilled singers,"
+  },
+  {
+    "id": "p-63fe14",
+    "offset": 9004,
+    "text": "who set up this tripod for themselves, a witness of the Bacchic contests;"
+  },
+  {
+    "id": "p-368851",
+    "offset": 9079,
+    "text": "and it was Antigenes who trained those men."
+  },
+  {
+    "id": "p-6d8d13",
+    "offset": 9124,
+    "text": "Well did Ariston of Argos nurse the sweet voice for the Dorian strains,"
+  },
+  {
+    "id": "p-2b8316",
+    "offset": 9197,
+    "text": "pouring his sweet breath purely through the pipes;"
+  },
+  {
+    "id": "p-789f0e",
+    "offset": 9249,
+    "text": "and Hipponicus, son of Struthon, furnished the choir"
+  },
+  {
+    "id": "p-19df7c",
+    "offset": 9303,
+    "text": "of honey-voiced singers, borne in the chariot of the Graces,"
+  },
+  {
+    "id": "p-9ea5ac",
+    "offset": 9365,
+    "text": "who set upon him among men a glorious name and shining victory,"
+  },
+  {
+    "id": "p-ab2fb0",
+    "offset": 9430,
+    "text": "by the will of the violet-crowned goddesses, the Muses."
+  },
+  {
+    "id": "p-f88f03",
+    "offset": 9487,
+    "text": "29. Nicaenetus"
+  },
+  {
+    "id": "p-513561",
+    "offset": 9503,
+    "text": "Upon a hexameter, a trimeter\nWine is a swift horse to the graceful singer;"
+  },
+  {
+    "id": "p-448f21",
+    "offset": 9579,
+    "text": "but drinking water you would bring forth nothing wise."
+  },
+  {
+    "id": "p-be7dae",
+    "offset": 9635,
+    "text": "This Cratinus said, Dionysus, and he breathed the fragrance"
+  },
+  {
+    "id": "p-0f23e6",
+    "offset": 9696,
+    "text": "not of one wineskin, but reeked of a whole great jar."
+  },
+  {
+    "id": "p-39a75b",
+    "offset": 9751,
+    "text": "And so he flourished mightily under the garlands, and his brow"
+  },
+  {
+    "id": "p-64ec05",
+    "offset": 9815,
+    "text": "was wreathed with ivy, as is yours, in saffron decked."
+  },
+  {
+    "id": "p-8da033",
+    "offset": 9871,
+    "text": "30. Simonides"
+  },
+  {
+    "id": "p-d2218d",
+    "offset": 9886,
+    "text": "This too is a hexameter and a trochaic tetrameter by transposition\nof the words"
+  },
+  {
+    "id": "p-da88a1",
+    "offset": 9967,
+    "text": "Muse, sing to me the son of fair-ankled Alcmena."
+  },
+  {
+    "id": "p-3776d5",
+    "offset": 10017,
+    "text": "The son of Alcmena sing to me, Muse, of the fair ankles."
+  },
+  {
+    "id": "p-fd5122",
+    "offset": 10075,
+    "text": "31. Timocreon"
+  },
+  {
+    "id": "p-dc5da5",
+    "offset": 10090,
+    "text": "Likewise\nThe folly of Ceos came upon me against my will."
+  },
+  {
+    "id": "p-d0575a",
+    "offset": 10148,
+    "text": "Against my will the folly of Ceos came upon me."
+  }
+]

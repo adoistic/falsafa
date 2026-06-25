@@ -1,0 +1,38 @@
+{
+  "work_slug": "propertius-sextus-elegiae-8d3f25",
+  "work_title": "Elegiae",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02-book-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "12db1308-fbc3-5ae6-9bf4-e815a8eb2ed4",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8851,
+      "paragraph_count": 1364,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0620.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49bc6d91-73ef-5878-ad78-7dff5ac81352",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12642,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

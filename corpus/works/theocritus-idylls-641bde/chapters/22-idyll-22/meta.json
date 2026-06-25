@@ -1,0 +1,38 @@
+{
+  "work_slug": "theocritus-idylls-641bde",
+  "work_title": "Idylls",
+  "chapter_number": 22,
+  "chapter_title": "Idyll 22",
+  "chapter_slug": "22-idyll-22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9faa0ff9-5cee-53c1-bb70-4bd11cd88bd3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1563,
+      "paragraph_count": 230,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0005.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4330455a-4948-5f00-9c90-2b93fdfb28ae",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2305,
+      "paragraph_count": 244,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

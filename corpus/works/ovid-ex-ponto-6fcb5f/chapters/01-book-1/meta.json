@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-ex-ponto-6fcb5f",
+  "work_title": "Ex Ponto",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "be058a9e-de19-5ad4-b93d-d90d6fc2f182",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5025,
+      "paragraph_count": 766,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi009"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "12b99e3e-b6c3-5c74-84ef-3aa1ca506b53",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7822,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

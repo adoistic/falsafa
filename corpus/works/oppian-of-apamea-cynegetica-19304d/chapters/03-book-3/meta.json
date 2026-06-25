@@ -1,0 +1,38 @@
+{
+  "work_slug": "oppian-of-apamea-cynegetica-19304d",
+  "work_title": "Cynegetica",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2dfc9145-92b2-5e1a-95a1-32a8a0c44751",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3355,
+      "paragraph_count": 525,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0024.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "349564c8-21da-595a-84de-f18a47025111",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4800,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
