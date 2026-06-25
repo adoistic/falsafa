@@ -1,0 +1,38 @@
+{
+  "work_slug": "clement-of-alexandria-protrepticus-3b3e12",
+  "work_title": "Protrepticus",
+  "chapter_number": 1,
+  "chapter_title": "Protrepticus",
+  "chapter_slug": "01-protrepticus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8d72d8f4-aace-594f-a7a4-5cadf99b26dc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 23320,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0555.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fafd0c50-3318-5291-9ab1-9ab727a97117",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 30632,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

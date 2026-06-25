@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-tristia-1d4718",
+  "work_title": "Tristia",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d0eff143-5931-57cb-ae00-456bb5950d72",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5125,
+      "paragraph_count": 788,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi008"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b7003faf-9e9a-5afd-80f3-0ed844820b74",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8242,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

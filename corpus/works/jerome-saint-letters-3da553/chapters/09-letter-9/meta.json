@@ -1,0 +1,38 @@
+{
+  "work_slug": "jerome-saint-letters-3da553",
+  "work_title": "Letters",
+  "chapter_number": 9,
+  "chapter_title": "Letter 9",
+  "chapter_slug": "09-letter-9",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "731c09f4-fd56-5130-a92c-0a401550def5",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 829,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0162.stoa004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2537595a-08bf-5b0f-8de1-8dcf4a305c2d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1361,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

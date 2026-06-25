@@ -1,0 +1,38 @@
+{
+  "work_slug": "jerome-saint-letters-3da553",
+  "work_title": "Letters",
+  "chapter_number": 6,
+  "chapter_title": "Letter 6",
+  "chapter_slug": "06-letter-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a3368e6b-74bb-5b23-835f-208c811e1d56",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 374,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0162.stoa004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c1d63d0-3989-5f20-8056-67598dbd6e32",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 636,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

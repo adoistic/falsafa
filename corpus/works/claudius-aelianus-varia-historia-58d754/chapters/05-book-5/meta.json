@@ -1,0 +1,38 @@
+{
+  "work_slug": "claudius-aelianus-varia-historia-58d754",
+  "work_title": "Varia Historia",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05-book-5",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ea6a2eeb-5821-5f64-a426-ffb52d32bdcd",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1085,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0545.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "78a69515-759c-5baa-abe3-9f3a15b74005",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1405,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

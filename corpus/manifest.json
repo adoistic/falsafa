@@ -2,8 +2,8 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1787,
-    "authors": 425,
+    "works": 1801,
+    "authors": 428,
     "eras": 10,
     "genres": 31,
     "languages": 9
@@ -33961,6 +33961,272 @@
       "difficulty": "Advanced",
       "description": "Tertullian's De Anima, translated from the Latin by Thothica, with the Latin original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "tertullian-apologeticum-02366e",
+      "title": "Apologeticum",
+      "author": "Tertullian",
+      "author_slug": "tertullian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tertullian's Apologeticum, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "statius-silvae-1ecb5d",
+      "title": "Silvae",
+      "author": "Statius",
+      "author_slug": "statius",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 5,
+      "total_variant_entries": 10,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Statius's Silvae, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "joannes-zonaras-epitome-of-histories-volume-1-d4bea2",
+      "title": "Epitome of Histories, Volume 1",
+      "author": "Joannes Zonaras",
+      "author_slug": "joannes-zonaras",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "History",
+      "genre_slug": "history",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 6,
+      "total_variant_entries": 12,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Joannes Zonaras's Epitome of Histories, Volume 1, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "apuleius-apologia-b8a97b",
+      "title": "Apologia",
+      "author": "Apuleius",
+      "author_slug": "apuleius",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Apuleius's Apologia, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "clement-of-alexandria-protrepticus-3b3e12",
+      "title": "Protrepticus",
+      "author": "Clement of Alexandria",
+      "author_slug": "clement-of-alexandria",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Clement of Alexandria's Protrepticus, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "claudius-aelianus-varia-historia-58d754",
+      "title": "Varia Historia",
+      "author": "Claudius Aelianus",
+      "author_slug": "claudius-aelianus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 14,
+      "total_variant_entries": 28,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Claudius Aelianus's Varia Historia, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "ovid-tristia-1d4718",
+      "title": "Tristia",
+      "author": "Ovid",
+      "author_slug": "ovid",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 5,
+      "total_variant_entries": 10,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Ovid's Tristia, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "jerome-saint-letters-3da553",
+      "title": "Letters",
+      "author": "Jerome, Saint",
+      "author_slug": "jerome-saint",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Theology",
+      "genre_slug": "theology",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 18,
+      "total_variant_entries": 36,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Jerome, Saint's Letters, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "procopius-of-caesarea-the-secret-history-historia-arca-715423",
+      "title": "The Secret History (Historia Arcana)",
+      "author": "Procopius of Caesarea",
+      "author_slug": "procopius-of-caesarea",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "History",
+      "genre_slug": "history",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Procopius of Caesarea's The Secret History (Historia Arcana), translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "dionysius-of-halicarnass-on-literary-composition-1d20aa",
+      "title": "On Literary Composition",
+      "author": "Dionysius of Halicarnassus",
+      "author_slug": "dionysius-of-halicarnassus",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "History",
+      "genre_slug": "history",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Dionysius of Halicarnassus's On Literary Composition, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "philostratus-sophista-imagines-270120",
+      "title": "Imagines",
+      "author": "Philostratus Sophista",
+      "author_slug": "philostratus-sophista",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Rhetoric",
+      "genre_slug": "rhetoric",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 2,
+      "total_variant_entries": 4,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Philostratus Sophista's Imagines, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "aelius-aristides-ars-rhetorica-f7276c",
+      "title": "Ars Rhetorica",
+      "author": "Aelius Aristides",
+      "author_slug": "aelius-aristides",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 2,
+      "total_variant_entries": 4,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aelius Aristides's Ars Rhetorica, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "dionysius-of-halicarnass-on-demosthenes-b4fa20",
+      "title": "On Demosthenes",
+      "author": "Dionysius of Halicarnassus",
+      "author_slug": "dionysius-of-halicarnassus",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "History",
+      "genre_slug": "history",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Dionysius of Halicarnassus's On Demosthenes, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "tertullian-ad-nationes-437406",
+      "title": "Ad Nationes",
+      "author": "Tertullian",
+      "author_slug": "tertullian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 2,
+      "total_variant_entries": 4,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tertullian's Ad Nationes, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -35245,7 +35511,8 @@
         "ovid-remedia-amoris-ad7507",
         "ovid-metamorphoses-b0cbc2",
         "ovid-ibis-80931f",
-        "ovid-fasti-85cf2d"
+        "ovid-fasti-85cf2d",
+        "ovid-tristia-1d4718"
       ]
     },
     "pliny-the-elder": {
@@ -35299,7 +35566,8 @@
       "name": "Apuleius",
       "works": [
         "apuleius-metamorphoses-4e92f8",
-        "apuleius-florida-9f7d41"
+        "apuleius-florida-9f7d41",
+        "apuleius-apologia-b8a97b"
       ]
     },
     "gellius-aulus": {
@@ -37417,7 +37685,8 @@
         "aelius-aristides-orationes-49-2146e0",
         "aelius-aristides-orationes-54-7007ae",
         "aelius-aristides-orationes-48-73ed72",
-        "aelius-aristides-orationes-46-01d156"
+        "aelius-aristides-orationes-46-01d156",
+        "aelius-aristides-ars-rhetorica-f7276c"
       ]
     },
     "julian": {
@@ -37495,7 +37764,9 @@
         "dionysius-of-halicarnass-de-thucydidis-idiomatibus-4eed97",
         "dionysius-of-halicarnass-de-antiquis-oratoribus-1e0cd0",
         "dionysius-of-halicarnass-libri-secundi-de-antiquis-orator-756e07",
-        "dionysius-of-halicarnass-de-thucydide-11e75f"
+        "dionysius-of-halicarnass-de-thucydide-11e75f",
+        "dionysius-of-halicarnass-on-literary-composition-1d20aa",
+        "dionysius-of-halicarnass-on-demosthenes-b4fa20"
       ]
     },
     "callimachus": {
@@ -37528,7 +37799,8 @@
       "works": [
         "clement-of-alexandria-who-is-the-rich-man-that-shall-b-399f36",
         "clement-of-alexandria-exhortation-to-the-newly-baptize-510a07",
-        "clement-of-alexandria-stromata-694383"
+        "clement-of-alexandria-stromata-694383",
+        "clement-of-alexandria-protrepticus-3b3e12"
       ]
     },
     "tertullian": {
@@ -37560,7 +37832,9 @@
         "tertullian-adversus-hermogenem-a45bf7",
         "tertullian-adversus-praxean-0ccff9",
         "tertullian-de-pudicitia-86e2b7",
-        "tertullian-de-anima-d01878"
+        "tertullian-de-anima-d01878",
+        "tertullian-apologeticum-02366e",
+        "tertullian-ad-nationes-437406"
       ]
     },
     "scriptores-historiae-augustae": {
@@ -37607,7 +37881,8 @@
     "procopius-of-caesarea": {
       "name": "Procopius of Caesarea",
       "works": [
-        "procopius-of-caesarea-history-of-the-wars-77f718"
+        "procopius-of-caesarea-history-of-the-wars-77f718",
+        "procopius-of-caesarea-the-secret-history-historia-arca-715423"
       ]
     },
     "flavius-philostratus": {
@@ -37629,7 +37904,8 @@
       "name": "Statius",
       "works": [
         "statius-achilleis-095f27",
-        "statius-thebais-c8a661"
+        "statius-thebais-c8a661",
+        "statius-silvae-1ecb5d"
       ]
     },
     "valerius-maximus": {
@@ -37697,7 +37973,8 @@
       "name": "Claudius Aelianus",
       "works": [
         "claudius-aelianus-rustic-letters-b0b81d",
-        "claudius-aelianus-on-the-nature-of-animals-4de941"
+        "claudius-aelianus-on-the-nature-of-animals-4de941",
+        "claudius-aelianus-varia-historia-58d754"
       ]
     },
     "theocritus": {
@@ -37875,6 +38152,24 @@
       "works": [
         "juvenal-satires-dd8241"
       ]
+    },
+    "joannes-zonaras": {
+      "name": "Joannes Zonaras",
+      "works": [
+        "joannes-zonaras-epitome-of-histories-volume-1-d4bea2"
+      ]
+    },
+    "jerome-saint": {
+      "name": "Jerome, Saint",
+      "works": [
+        "jerome-saint-letters-3da553"
+      ]
+    },
+    "philostratus-sophista": {
+      "name": "Philostratus Sophista",
+      "works": [
+        "philostratus-sophista-imagines-270120"
+      ]
     }
   },
   "eras": {
@@ -37901,7 +38196,8 @@
         "averroes-ibn-rushd-the-philosophy-and-theology-of-a-3f48f4",
         "moses-maimonides-the-guide-for-the-perplexed-6da00a",
         "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5",
-        "john-of-damascus-barlaam-and-josaphat-e54c6c"
+        "john-of-damascus-barlaam-and-josaphat-e54c6c",
+        "joannes-zonaras-epitome-of-histories-volume-1-d4bea2"
       ]
     },
     "ancient": {
@@ -39027,7 +39323,9 @@
         "demetrius-of-phaleron-on-style-4c75b6",
         "apollonius-rhodius-argonautica-fbd514",
         "cicero-marcus-tullius-partitiones-oratoriae-7fe690",
-        "dionysius-of-halicarnass-de-thucydide-11e75f"
+        "dionysius-of-halicarnass-de-thucydide-11e75f",
+        "dionysius-of-halicarnass-on-literary-composition-1d20aa",
+        "dionysius-of-halicarnass-on-demosthenes-b4fa20"
       ]
     },
     "imperial": {
@@ -39534,7 +39832,13 @@
         "oppian-halieutica-3cd7e2",
         "apicius-de-re-coquinaria-bfd32c",
         "seneca-lucius-annaeus-hercules-oetaeus-935564",
-        "juvenal-satires-dd8241"
+        "juvenal-satires-dd8241",
+        "statius-silvae-1ecb5d",
+        "apuleius-apologia-b8a97b",
+        "claudius-aelianus-varia-historia-58d754",
+        "ovid-tristia-1d4718",
+        "philostratus-sophista-imagines-270120",
+        "aelius-aristides-ars-rhetorica-f7276c"
       ]
     },
     "late-antiquity": {
@@ -39678,7 +39982,12 @@
         "tertullian-de-pudicitia-86e2b7",
         "nonnus-of-panopolis-dionysiaca-3222bb",
         "basil-of-caesarea-letters-31f35e",
-        "tertullian-de-anima-d01878"
+        "tertullian-de-anima-d01878",
+        "tertullian-apologeticum-02366e",
+        "clement-of-alexandria-protrepticus-3b3e12",
+        "jerome-saint-letters-3da553",
+        "procopius-of-caesarea-the-secret-history-historia-arca-715423",
+        "tertullian-ad-nationes-437406"
       ]
     },
     "renaissance": {
@@ -39763,7 +40072,8 @@
         "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a",
         "seneca-the-elder-suasoriae-a8110c",
         "seneca-the-elder-controversiae-ce0606",
-        "claudius-aelianus-on-the-nature-of-animals-4de941"
+        "claudius-aelianus-on-the-nature-of-animals-4de941",
+        "claudius-aelianus-varia-historia-58d754"
       ]
     },
     "indic": {
@@ -40018,7 +40328,10 @@
         "tertullian-de-pudicitia-86e2b7",
         "basil-of-caesarea-letters-31f35e",
         "john-of-damascus-barlaam-and-josaphat-e54c6c",
-        "tertullian-de-anima-d01878"
+        "tertullian-de-anima-d01878",
+        "tertullian-apologeticum-02366e",
+        "clement-of-alexandria-protrepticus-3b3e12",
+        "tertullian-ad-nationes-437406"
       ]
     },
     "history": {
@@ -40134,7 +40447,11 @@
         "quintus-curtius-rufus-histories-of-alexander-the-great-476171",
         "pliny-the-younger-letters-3236cd",
         "titus-livius-livy-ab-urbe-condita-periochae-f48fbc",
-        "dionysius-of-halicarnass-de-thucydide-11e75f"
+        "dionysius-of-halicarnass-de-thucydide-11e75f",
+        "joannes-zonaras-epitome-of-histories-volume-1-d4bea2",
+        "procopius-of-caesarea-the-secret-history-historia-arca-715423",
+        "dionysius-of-halicarnass-on-literary-composition-1d20aa",
+        "dionysius-of-halicarnass-on-demosthenes-b4fa20"
       ]
     },
     "classics": {
@@ -41068,7 +41385,10 @@
         "aelius-aristides-orationes-46-01d156",
         "ovid-fasti-85cf2d",
         "cicero-marcus-tullius-partitiones-oratoriae-7fe690",
-        "seneca-lucius-annaeus-hercules-oetaeus-935564"
+        "seneca-lucius-annaeus-hercules-oetaeus-935564",
+        "apuleius-apologia-b8a97b",
+        "ovid-tristia-1d4718",
+        "aelius-aristides-ars-rhetorica-f7276c"
       ]
     },
     "political-theory": {
@@ -41604,7 +41924,8 @@
         "nonnus-of-panopolis-dionysiaca-3222bb",
         "tibullus-elegiae-21c385",
         "oppian-halieutica-3cd7e2",
-        "juvenal-satires-dd8241"
+        "juvenal-satires-dd8241",
+        "statius-silvae-1ecb5d"
       ]
     },
     "literary-criticism": {
@@ -41616,7 +41937,8 @@
     "theology": {
       "name": "Theology",
       "works": [
-        "minucius-felix-marcus-octavius-8cb44d"
+        "minucius-felix-marcus-octavius-8cb44d",
+        "jerome-saint-letters-3da553"
       ]
     },
     "military-science": {
@@ -41638,7 +41960,8 @@
     "rhetoric": {
       "name": "Rhetoric",
       "works": [
-        "demetrius-of-phaleron-on-style-4c75b6"
+        "demetrius-of-phaleron-on-style-4c75b6",
+        "philostratus-sophista-imagines-270120"
       ]
     },
     "agriculture": {
@@ -42523,7 +42846,15 @@
         "dionysius-of-halicarnass-de-thucydide-11e75f",
         "xenophon-of-ephesus-ephesiaca-b45210",
         "claudius-ptolemaeus-tetrabiblos-25cc54",
-        "oppian-halieutica-3cd7e2"
+        "oppian-halieutica-3cd7e2",
+        "joannes-zonaras-epitome-of-histories-volume-1-d4bea2",
+        "clement-of-alexandria-protrepticus-3b3e12",
+        "claudius-aelianus-varia-historia-58d754",
+        "procopius-of-caesarea-the-secret-history-historia-arca-715423",
+        "dionysius-of-halicarnass-on-literary-composition-1d20aa",
+        "philostratus-sophista-imagines-270120",
+        "aelius-aristides-ars-rhetorica-f7276c",
+        "dionysius-of-halicarnass-on-demosthenes-b4fa20"
       ]
     },
     "latin": {
@@ -42896,7 +43227,13 @@
         "apicius-de-re-coquinaria-bfd32c",
         "seneca-lucius-annaeus-hercules-oetaeus-935564",
         "juvenal-satires-dd8241",
-        "tertullian-de-anima-d01878"
+        "tertullian-de-anima-d01878",
+        "tertullian-apologeticum-02366e",
+        "statius-silvae-1ecb5d",
+        "apuleius-apologia-b8a97b",
+        "ovid-tristia-1d4718",
+        "jerome-saint-letters-3da553",
+        "tertullian-ad-nationes-437406"
       ]
     },
     "english": {

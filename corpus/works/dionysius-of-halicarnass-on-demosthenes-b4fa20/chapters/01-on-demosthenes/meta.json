@@ -1,0 +1,38 @@
+{
+  "work_slug": "dionysius-of-halicarnass-on-demosthenes-b4fa20",
+  "work_title": "On Demosthenes",
+  "chapter_number": 1,
+  "chapter_title": "On Demosthenes",
+  "chapter_slug": "01-on-demosthenes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "79e2c151-f1a0-56a0-98fe-1fcddba252e8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 22102,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0081.tlg006"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4d64ce5c-1991-5dd9-94e5-ca1cf2ff5925",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 28363,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

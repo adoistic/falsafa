@@ -1,0 +1,38 @@
+{
+  "work_slug": "claudius-aelianus-varia-historia-58d754",
+  "work_title": "Varia Historia",
+  "chapter_number": 13,
+  "chapter_title": "Book 13",
+  "chapter_slug": "13-book-13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "17d3e50a-738e-5eab-88de-4c859fa226f6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3837,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0545.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b6578aab-7f54-5d2e-8318-64b2f36d6316",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4871,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

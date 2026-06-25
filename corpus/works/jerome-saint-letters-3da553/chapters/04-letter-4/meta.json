@@ -1,0 +1,38 @@
+{
+  "work_slug": "jerome-saint-letters-3da553",
+  "work_title": "Letters",
+  "chapter_number": 4,
+  "chapter_title": "Letter 4",
+  "chapter_slug": "04-letter-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9c99cc84-ded6-5abf-a1e7-6740afe1615d",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10058,
+      "paragraph_count": 94,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0162.stoa004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8fd8bfd4-d983-525d-b1fc-942489b1cd0e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 15367,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

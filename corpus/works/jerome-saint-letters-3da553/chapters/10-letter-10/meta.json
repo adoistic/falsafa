@@ -1,0 +1,38 @@
+{
+  "work_slug": "jerome-saint-letters-3da553",
+  "work_title": "Letters",
+  "chapter_number": 10,
+  "chapter_title": "Letter 10",
+  "chapter_slug": "10-letter-10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aef75570-95c6-503d-badc-3894db496ca5",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3865,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0162.stoa004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e6144169-f15d-57ba-9b6e-f7f3bb911e94",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6028,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

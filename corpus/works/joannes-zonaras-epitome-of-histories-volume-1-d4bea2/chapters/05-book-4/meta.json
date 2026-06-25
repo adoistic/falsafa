@@ -1,0 +1,38 @@
+{
+  "work_slug": "joannes-zonaras-epitome-of-histories-volume-1-d4bea2",
+  "work_title": "Epitome of Histories, Volume 1",
+  "chapter_number": 5,
+  "chapter_title": "Book 4",
+  "chapter_slug": "05-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d83e5518-c51f-51de-9cfb-9ef462607b21",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 16361,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg3135.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4e7be87a-dccd-52a5-a2d8-8b3c95e1ba1b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 20091,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

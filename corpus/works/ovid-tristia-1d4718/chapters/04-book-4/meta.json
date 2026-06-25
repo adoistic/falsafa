@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-tristia-1d4718",
+  "work_title": "Tristia",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "157f57f1-2484-5356-976c-b497e84de087",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4404,
+      "paragraph_count": 678,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi008"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7dd54601-315c-5988-b77a-adf6a92a3fa7",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6652,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

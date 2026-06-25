@@ -1,0 +1,38 @@
+{
+  "work_slug": "jerome-saint-letters-3da553",
+  "work_title": "Letters",
+  "chapter_number": 12,
+  "chapter_title": "Letter 12",
+  "chapter_slug": "12-letter-12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8f5d93a2-1541-5c91-a596-a470a3650c41",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4089,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0162.stoa004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8cb412ba-6404-5de6-9965-59100f45d4db",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6345,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

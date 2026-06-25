@@ -1,0 +1,38 @@
+{
+  "work_slug": "procopius-of-caesarea-the-secret-history-historia-arca-715423",
+  "work_title": "The Secret History (Historia Arcana)",
+  "chapter_number": 1,
+  "chapter_title": "The Secret History (Historia Arcana)",
+  "chapter_slug": "01-the-secret-history-historia-arcana",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f8009def-304e-5f13-85c6-cf9baa3bde35",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 33237,
+      "paragraph_count": 1019,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg4029.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bed8ad1f-1961-54d1-bd82-938ba8b04399",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 42163,
+      "paragraph_count": 1019,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-tristia-1d4718",
+  "work_title": "Tristia",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5ff812e9-7e1b-5e24-8535-af2fa5af3caf",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4752,
+      "paragraph_count": 737,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi008"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b4efa912-b4da-5e40-b0bc-3319f676d356",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7383,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

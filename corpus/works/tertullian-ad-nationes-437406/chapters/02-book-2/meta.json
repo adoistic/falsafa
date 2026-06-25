@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-ad-nationes-437406",
+  "work_title": "Ad Nationes",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02-book-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fcdb3fef-f618-512e-a28c-4f9d18f4d008",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7288,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f3c77fe8-d360-51ae-9b64-5533249d9cb7",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11245,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

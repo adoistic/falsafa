@@ -1,0 +1,38 @@
+{
+  "work_slug": "statius-silvae-1ecb5d",
+  "work_title": "Silvae",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6db6ef38-df00-5de6-ac6e-d04876871148",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5101,
+      "paragraph_count": 766,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1020.phi002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "666486d5-0332-5df3-9a28-954c40c71b5b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8209,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

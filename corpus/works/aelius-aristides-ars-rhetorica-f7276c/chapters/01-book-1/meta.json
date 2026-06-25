@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-ars-rhetorica-f7276c",
+  "work_title": "Ars Rhetorica",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8a6388cd-5560-55a9-b6f3-613145338d15",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 12236,
+      "paragraph_count": 128,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg056"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6fef92d2-8332-536f-8540-d247c04cc464",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 16429,
+      "paragraph_count": 128,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

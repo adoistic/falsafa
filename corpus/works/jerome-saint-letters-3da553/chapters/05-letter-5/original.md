@@ -1,0 +1,37 @@
+---
+work_id: "3da553cc-b5cd-5686-a7dc-1da7f8daa000"
+work_slug: "jerome-saint-letters-3da553"
+work_title: Letters
+author_name: Jerome, Saint
+chapter_number: 5
+chapter_title: Letter 5
+chapter_slug: "05-letter-5"
+variant_id: "7ca2ca76-533f-5a3a-b163-ea73808e25ac"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 639
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0162.stoa004"
+curator: thothica
+---
+
+1. Abraham temptatur in filio et fidelior invenitur; Ioseph in Aegypto venditur, ut patrem pascat et fratres; Ezechias vicina morte ferretur, ut fusus in lacrimis quindecim annorum spatio proteletur ad vitam; Petrus apostolus domini passione concutitur, ut amare flens audiat: Pasce oves meas; Paulus, lupus rapax et Beniamin adulescentior, in extasi caecatur, ut videat, et repentino tenebrarum horrore circumdatus dominum vocat, quem dudum ut hominem persequebatur.
+
+2. Ita et nunc, mi Marcella, Blesillam nostram vidimus ardore febrium per triginta ferme dies iugiter
+
+aestuasse, ut sciret reiciendas delicias corporis, quod paulo post vermibus exarandum sit. Venit et ad hanc dominus Iesus tetigitque manum eius et surgens ministrat ei. Redolebat aliquid neglegentiae et divitiarum fasciis conligata in saeculi iacebat sepulchro, sed confremuit Iesus et conturbatus in spiritu clamavit dicens: Blesilla, exi foras. Quae vocata surrexit et egressa cum domino vescitur. Iudaei minentur et tumeant, quaerant occidere suscitatam, soli apostoli gloriantur; scit se vitam suam ei debere, cui credidit; scit se eius amplexare pedes, cuius paulo ante iudicium pertimescebat. Corpus paene iacebat examine et anhelos artus mors vicina quatiebat. Ubi tunc erant auxilia propinquorum, ubi verba omni inaniora fumo? Nihil tibi debet, o ingrata cognatio, quae mundo periit et Christo revixit. Qui Christianus est, gaudeat; qui irascitur, non esse se indicat Christianum.
+
+3. Vidua, quae soluta est vinculo maritali, nihil necesse habet nisi perseverare. At scandalizat quempiam vestis fuscior: scandalizet Iohannes, quo inter natos mulierum maior nullus fuit, qui angelus dictus ipsum quoque dominum baptizavit, qui camelorum vestitus tegumine zona pellicia cingebatur.
+
+Cibi displicent viliores; nihil vilius est locustis. Illae Christianos oculos potius scandalizent, quae purpurisso et quibusdam fucis ora oculosque depingunt, quarum facies gypseae et nimio candore deformes idola mentiuntur, quibus si forte inprovidens lacrimarum stilla eruperit, sulco defluit, quas nec numerus annorum potest docere, quod vetulae sunt, quae capillis alienis verticem instruunt et praeteritam iuventutem in rugis anilibus poliunt, quae denique ante nepotum gregem trementes virgunculae conponuntur. Erubescat mulier Christiana, si naturae cogit decorem, si carnis curam facit ad concupiscentiam, in qua qui sunt, secundum apostolum Christo placere non possunt.
+
+4. Vidua nostra ante monilibus ornabatur et die tota, quid sibi deesset, quaerebat ad speculum; nunc loquitur confidenter: Nos autem omnes revelata facie gloriam domini speculantes in eandem imaginem transformamur a gloria in gloriam, quasi a domini spiritu. Tunc crines ancillulae disponebant et mitellis crispantibus vertex artabatur innoxius; nunc neglectum caput scit sibi tantum sufficere, quod velatur. Illo tempore plumarum quoque dura mollities videbatur et in extructis toris iacere vix poterat; nunc ad orandum festina consurgit et modulata voce ceteris alleluia praecipiens prior incipit
+
+laudare dominum suum. Flectuntur genua super nudam humum et crebris lacrimis facies psimithio ante sordidata purgatur. Post orationem psalmi concrepant et lassa cervix, poplites vacillantes in somnumque vergentes oculi nimio mentis ardore vix impetrant, ut quiescant. Pulla est tunica: minus, cum humi iacuerit, sordidatur. Soccus vilior: amatorum pretium calceorum egentibus largietur. Cingulum non auro gemmisque distinctum est, sed laneum et tota simplicitate purissimum et quoi possit adstringere magis vestimenta quam scindere. Si huic proposito invidet scorpius et sermone blando de indebita rursum arbore comedere persuadet, inlidatur,ei pro solea anathema et in suo morienti pulvere dicatur: Vade retro, Satanas, quod interpretatur adverse; adversarius quippe Christi est antichristus, cui praecepta displicent Christi.
+
+5. Oro te, quid tale umquam, quale apostoli, fecimus, ut merito scandalizentur; patrem senem cum navicula et rete dimittunt; publicanus a teloneo surgit et sequitur salvatorem; volens discipulus reverti domum et suis ante renuntiare magistri voce prohibetur; sepultura non datur patri et pietatis genus est inpium esse pro domino. Nos, quia serica veste non utimur, monachi iudicamur, quia ebrii non sumus nec cachinno ora dissolvimus, continentes vocantur et tristes. Si tunica non canduerit, statim illud e trivio: Inpostor et Graecus est. Cavi-
+
+lentur vafriora licet et pingui aqualiculo farsos circumferant homines: Blesilla nostra ridebit nec dignabitur loquacium ranarum audire convicia, cum dominus eius dictus sit Beelzebub.

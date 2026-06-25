@@ -1,0 +1,38 @@
+{
+  "work_slug": "philostratus-sophista-imagines-270120",
+  "work_title": "Imagines",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02-book-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8b782e43-6e09-5aa5-99ce-8d9697059a53",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 12015,
+      "paragraph_count": 70,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1600.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a219b138-d302-53fa-9175-bba1b9fcceb5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15623,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

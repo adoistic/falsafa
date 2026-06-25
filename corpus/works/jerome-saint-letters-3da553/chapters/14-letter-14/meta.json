@@ -1,0 +1,38 @@
+{
+  "work_slug": "jerome-saint-letters-3da553",
+  "work_title": "Letters",
+  "chapter_number": 14,
+  "chapter_title": "Letter 14",
+  "chapter_slug": "14-letter-14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "37a5f63b-0c21-5ac1-8f01-2387b1a9d983",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3002,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0162.stoa004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d84824ec-3b2f-5d23-8e06-d9b70085f66d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4895,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

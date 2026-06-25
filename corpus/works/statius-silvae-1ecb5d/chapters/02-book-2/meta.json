@@ -1,0 +1,38 @@
+{
+  "work_slug": "statius-silvae-1ecb5d",
+  "work_title": "Silvae",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02-book-2",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fd357030-e731-5a91-b46b-5ec839fecd6a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4989,
+      "paragraph_count": 775,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1020.phi002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "915dc979-842b-5b6e-ae55-2279528049d9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8071,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

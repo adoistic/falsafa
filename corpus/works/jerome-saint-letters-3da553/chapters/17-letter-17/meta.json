@@ -1,0 +1,38 @@
+{
+  "work_slug": "jerome-saint-letters-3da553",
+  "work_title": "Letters",
+  "chapter_number": 17,
+  "chapter_title": "Letter 17",
+  "chapter_slug": "17-letter-17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3d2e1c95-5a24-5d8d-8edc-885e8cf0f5bd",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2425,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0162.stoa004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1162cbcc-79a7-5887-ba65-dc62ffc7060c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3778,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
