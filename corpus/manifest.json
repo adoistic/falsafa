@@ -2,7 +2,7 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1821,
+    "works": 1824,
     "authors": 434,
     "eras": 10,
     "genres": 32,
@@ -34607,6 +34607,63 @@
       "difficulty": "Advanced",
       "description": "Sidonius Apollinaris's Carmina, translated from the Latin by Thothica, with the Latin original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "sidonius-apollinaris-letters-727be6",
+      "title": "Letters",
+      "author": "Sidonius Apollinaris",
+      "author_slug": "sidonius-apollinaris",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Sidonius Apollinaris's Letters, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "tertullian-de-carnis-resurrectione-fbd1c3",
+      "title": "De Carnis Resurrectione",
+      "author": "Tertullian",
+      "author_slug": "tertullian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tertullian's De Carnis Resurrectione, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "flavius-philostratus-heroicus-b1daab",
+      "title": "Heroicus",
+      "author": "Flavius Philostratus",
+      "author_slug": "flavius-philostratus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Flavius Philostratus's Heroicus, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -38225,7 +38282,8 @@
         "tertullian-de-pudicitia-86e2b7",
         "tertullian-de-anima-d01878",
         "tertullian-apologeticum-02366e",
-        "tertullian-ad-nationes-437406"
+        "tertullian-ad-nationes-437406",
+        "tertullian-de-carnis-resurrectione-fbd1c3"
       ]
     },
     "scriptores-historiae-augustae": {
@@ -38283,7 +38341,8 @@
         "flavius-philostratus-epistulae-et-dialexeis-c7dd8c",
         "flavius-philostratus-nero-36fd7e",
         "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a",
-        "flavius-philostratus-lives-of-the-sophists-018b19"
+        "flavius-philostratus-lives-of-the-sophists-018b19",
+        "flavius-philostratus-heroicus-b1daab"
       ]
     },
     "aratus-of-soli": {
@@ -38598,7 +38657,8 @@
     "sidonius-apollinaris": {
       "name": "Sidonius Apollinaris",
       "works": [
-        "sidonius-apollinaris-carmina-0bc4da"
+        "sidonius-apollinaris-carmina-0bc4da",
+        "sidonius-apollinaris-letters-727be6"
       ]
     }
   },
@@ -40284,7 +40344,8 @@
         "florus-lucius-annaeus-epitome-rerum-romanorum-e2174f",
         "horace-epistles-b473b3",
         "arrian-indica-991ca0",
-        "harpocration-lexicon-of-the-ten-attic-orators-a57385"
+        "harpocration-lexicon-of-the-ten-attic-orators-a57385",
+        "flavius-philostratus-heroicus-b1daab"
       ]
     },
     "late-antiquity": {
@@ -40437,7 +40498,9 @@
         "aurelius-prudentius-clem-liber-peristephanon-42bcd7",
         "julian-letters-720b7d",
         "aurelius-prudentius-clem-contra-symmachum-43a8d8",
-        "sidonius-apollinaris-carmina-0bc4da"
+        "sidonius-apollinaris-carmina-0bc4da",
+        "sidonius-apollinaris-letters-727be6",
+        "tertullian-de-carnis-resurrectione-fbd1c3"
       ]
     },
     "renaissance": {
@@ -40526,7 +40589,9 @@
         "claudius-aelianus-varia-historia-58d754",
         "flavius-philostratus-lives-of-the-sophists-018b19",
         "seneca-the-elder-excerpta-controversiae-e5fb7a",
-        "sidonius-apollinaris-carmina-0bc4da"
+        "sidonius-apollinaris-carmina-0bc4da",
+        "sidonius-apollinaris-letters-727be6",
+        "flavius-philostratus-heroicus-b1daab"
       ]
     },
     "indic": {
@@ -40784,7 +40849,8 @@
         "tertullian-de-anima-d01878",
         "tertullian-apologeticum-02366e",
         "clement-of-alexandria-protrepticus-3b3e12",
-        "tertullian-ad-nationes-437406"
+        "tertullian-ad-nationes-437406",
+        "tertullian-de-carnis-resurrectione-fbd1c3"
       ]
     },
     "history": {
@@ -43338,7 +43404,8 @@
         "aelius-aristides-orationes-45-9670fd",
         "julian-letters-720b7d",
         "arrian-indica-991ca0",
-        "harpocration-lexicon-of-the-ten-attic-orators-a57385"
+        "harpocration-lexicon-of-the-ten-attic-orators-a57385",
+        "flavius-philostratus-heroicus-b1daab"
       ]
     },
     "latin": {
@@ -43728,7 +43795,9 @@
         "cicero-marcus-tullius-brutus-be99b0",
         "cicero-marcus-tullius-orator-a10c4c",
         "aurelius-prudentius-clem-contra-symmachum-43a8d8",
-        "sidonius-apollinaris-carmina-0bc4da"
+        "sidonius-apollinaris-carmina-0bc4da",
+        "sidonius-apollinaris-letters-727be6",
+        "tertullian-de-carnis-resurrectione-fbd1c3"
       ]
     },
     "english": {

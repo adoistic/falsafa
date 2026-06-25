@@ -1,0 +1,38 @@
+{
+  "work_slug": "sidonius-apollinaris-letters-727be6",
+  "work_title": "Letters",
+  "chapter_number": 1,
+  "chapter_title": "Letters",
+  "chapter_slug": "01-letters",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "23e5373f-35ec-5fe5-b220-6c90474d4936",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 49216,
+      "paragraph_count": 1289,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0261.stoa0002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d3e91f91-9246-5b86-9035-744172b12d82",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 78460,
+      "paragraph_count": 811,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
