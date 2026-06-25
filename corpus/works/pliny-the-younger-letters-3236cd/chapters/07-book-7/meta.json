@@ -1,0 +1,38 @@
+{
+  "work_slug": "pliny-the-younger-letters-3236cd",
+  "work_title": "Letters",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07-book-7",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a4b17756-fc10-583c-bd71-41cc9c287b07",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6288,
+      "paragraph_count": 205,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1318.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0680d3c2-42c8-5b3c-a5ac-3e01aac5f798",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10038,
+      "paragraph_count": 205,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

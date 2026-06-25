@@ -1,0 +1,38 @@
+{
+  "work_slug": "nonnus-of-panopolis-dionysiaca-3222bb",
+  "work_title": "Dionysiaca",
+  "chapter_number": 39,
+  "chapter_title": "Book 39",
+  "chapter_slug": "39-book-39",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7eb980f3-977e-5011-b693-ca821b39a6e0",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2416,
+      "paragraph_count": 407,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2045.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a5c46c07-859f-5311-8ae0-6f1156261c22",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3740,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

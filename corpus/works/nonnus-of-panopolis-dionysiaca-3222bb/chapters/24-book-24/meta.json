@@ -1,0 +1,38 @@
+{
+  "work_slug": "nonnus-of-panopolis-dionysiaca-3222bb",
+  "work_title": "Dionysiaca",
+  "chapter_number": 24,
+  "chapter_title": "Book 24",
+  "chapter_slug": "24-book-24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "509d58ba-4129-5dad-a3d4-f57ab0588d7b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2083,
+      "paragraph_count": 349,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2045.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ee7f1d20-bd92-5ea1-a607-7f9a30a3ce02",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3143,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

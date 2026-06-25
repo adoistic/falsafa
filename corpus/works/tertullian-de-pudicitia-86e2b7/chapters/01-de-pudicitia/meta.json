@@ -1,0 +1,38 @@
+{
+  "work_slug": "tertullian-de-pudicitia-86e2b7",
+  "work_title": "De Pudicitia",
+  "chapter_number": 1,
+  "chapter_title": "De Pudicitia",
+  "chapter_slug": "01-de-pudicitia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "206996ff-3bdd-528b-8167-a4f33e8c6661",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 13474,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0275.stoa025"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab23a5f8-36b7-584b-8ea8-7353c9171d5c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 21241,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

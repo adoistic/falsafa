@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-the-elder-controversiae-ce0606",
+  "work_title": "Controversiae",
+  "chapter_number": 5,
+  "chapter_title": "Book 10",
+  "chapter_slug": "05-book-10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a91978c6-488b-522e-b836-9c7d8926f2f9",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10649,
+      "paragraph_count": 173,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1014.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0fd88f14-c717-5e5e-847c-b0b084234b21",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 16498,
+      "paragraph_count": 132,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

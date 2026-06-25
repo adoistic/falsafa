@@ -1,0 +1,38 @@
+{
+  "work_slug": "pliny-the-younger-letters-3236cd",
+  "work_title": "Letters",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08-book-8",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d328f4d5-31fc-512c-87a2-24fb240a2d5d",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6268,
+      "paragraph_count": 157,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1318.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2298844-e977-5124-88b0-a8b5014c4199",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9800,
+      "paragraph_count": 155,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

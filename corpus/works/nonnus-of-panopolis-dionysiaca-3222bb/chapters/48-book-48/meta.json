@@ -1,0 +1,38 @@
+{
+  "work_slug": "nonnus-of-panopolis-dionysiaca-3222bb",
+  "work_title": "Dionysiaca",
+  "chapter_number": 48,
+  "chapter_title": "Book 48",
+  "chapter_slug": "48-book-48",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6eb8c185-d809-57b6-88ac-003adf9fa389",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5875,
+      "paragraph_count": 978,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2045.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ba7a094-3d30-501b-827a-b429f526f3ec",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8866,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

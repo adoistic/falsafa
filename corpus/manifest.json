@@ -2,8 +2,8 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1760,
-    "authors": 413,
+    "works": 1770,
+    "authors": 417,
     "eras": 10,
     "genres": 28,
     "languages": 9
@@ -33448,6 +33448,196 @@
       "difficulty": "Advanced",
       "description": "Aelius Aristides's Orationes 54, translated from the Greek by Thothica, with the Greek original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "aelius-aristides-orationes-48-73ed72",
+      "title": "Orationes 48",
+      "author": "Aelius Aristides",
+      "author_slug": "aelius-aristides",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aelius Aristides's Orationes 48, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "seneca-the-elder-suasoriae-a8110c",
+      "title": "Suasoriae",
+      "author": "Seneca the Elder",
+      "author_slug": "seneca-the-elder",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Seneca the Elder's Suasoriae, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "seneca-the-elder-controversiae-ce0606",
+      "title": "Controversiae",
+      "author": "Seneca the Elder",
+      "author_slug": "seneca-the-elder",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 5,
+      "total_variant_entries": 10,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Seneca the Elder's Controversiae, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "pliny-the-younger-letters-3236cd",
+      "title": "Letters",
+      "author": "Pliny the Younger",
+      "author_slug": "pliny-the-younger",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "History",
+      "genre_slug": "history",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 10,
+      "total_variant_entries": 20,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Pliny the Younger's Letters, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "claudius-aelianus-on-the-nature-of-animals-4de941",
+      "title": "On the Nature of Animals",
+      "author": "Claudius Aelianus",
+      "author_slug": "claudius-aelianus",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 17,
+      "total_variant_entries": 34,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Claudius Aelianus's On the Nature of Animals, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "apollonius-rhodius-argonautica-fbd514",
+      "title": "Argonautica",
+      "author": "Apollonius Rhodius",
+      "author_slug": "apollonius-rhodius",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 4,
+      "total_variant_entries": 8,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Apollonius Rhodius's Argonautica, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "chariton-of-aphrodisias-callirhoe-8d335b",
+      "title": "Callirhoe",
+      "author": "Chariton of Aphrodisias",
+      "author_slug": "chariton-of-aphrodisias",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Fiction",
+      "genre_slug": "fiction",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 8,
+      "total_variant_entries": 16,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Chariton of Aphrodisias's Callirhoe, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "tertullian-adversus-praxean-0ccff9",
+      "title": "Adversus Praxean",
+      "author": "Tertullian",
+      "author_slug": "tertullian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tertullian's Adversus Praxean, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "tertullian-de-pudicitia-86e2b7",
+      "title": "De Pudicitia",
+      "author": "Tertullian",
+      "author_slug": "tertullian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tertullian's De Pudicitia, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "nonnus-of-panopolis-dionysiaca-3222bb",
+      "title": "Dionysiaca",
+      "author": "Nonnus of Panopolis",
+      "author_slug": "nonnus-of-panopolis",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 48,
+      "total_variant_entries": 96,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Nonnus of Panopolis's Dionysiaca, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -36897,7 +37087,8 @@
         "aelius-aristides-orationes-20-7ca572",
         "aelius-aristides-orationes-55-383f99",
         "aelius-aristides-orationes-49-2146e0",
-        "aelius-aristides-orationes-54-7007ae"
+        "aelius-aristides-orationes-54-7007ae",
+        "aelius-aristides-orationes-48-73ed72"
       ]
     },
     "julian": {
@@ -37036,7 +37227,9 @@
         "tertullian-de-testimonio-animae-137921",
         "tertullian-adversus-marcionem-121178",
         "tertullian-adversus-judaeos-13912a",
-        "tertullian-adversus-hermogenem-a45bf7"
+        "tertullian-adversus-hermogenem-a45bf7",
+        "tertullian-adversus-praxean-0ccff9",
+        "tertullian-de-pudicitia-86e2b7"
       ]
     },
     "scriptores-historiae-augustae": {
@@ -37171,7 +37364,8 @@
     "claudius-aelianus": {
       "name": "Claudius Aelianus",
       "works": [
-        "claudius-aelianus-rustic-letters-b0b81d"
+        "claudius-aelianus-rustic-letters-b0b81d",
+        "claudius-aelianus-on-the-nature-of-animals-4de941"
       ]
     },
     "theocritus": {
@@ -37189,7 +37383,9 @@
     "seneca-the-elder": {
       "name": "Seneca the Elder",
       "works": [
-        "seneca-the-elder-fragmenta-4187fc"
+        "seneca-the-elder-fragmenta-4187fc",
+        "seneca-the-elder-suasoriae-a8110c",
+        "seneca-the-elder-controversiae-ce0606"
       ]
     },
     "tryphiodorus": {
@@ -37274,6 +37470,30 @@
       "name": "Marcus Valerius Martialis",
       "works": [
         "marcus-valerius-martiali-epigrams-998913"
+      ]
+    },
+    "pliny-the-younger": {
+      "name": "Pliny the Younger",
+      "works": [
+        "pliny-the-younger-letters-3236cd"
+      ]
+    },
+    "apollonius-rhodius": {
+      "name": "Apollonius Rhodius",
+      "works": [
+        "apollonius-rhodius-argonautica-fbd514"
+      ]
+    },
+    "chariton-of-aphrodisias": {
+      "name": "Chariton of Aphrodisias",
+      "works": [
+        "chariton-of-aphrodisias-callirhoe-8d335b"
+      ]
+    },
+    "nonnus-of-panopolis": {
+      "name": "Nonnus of Panopolis",
+      "works": [
+        "nonnus-of-panopolis-dionysiaca-3222bb"
       ]
     }
   },
@@ -38422,7 +38642,8 @@
         "theophrastus-characters-1b9122",
         "theocritus-epigrams-6decd1",
         "sallust-historiae-2e235b",
-        "demetrius-of-phaleron-on-style-4c75b6"
+        "demetrius-of-phaleron-on-style-4c75b6",
+        "apollonius-rhodius-argonautica-fbd514"
       ]
     },
     "imperial": {
@@ -38912,7 +39133,13 @@
         "marcus-valerius-martiali-epigrams-998913",
         "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a",
         "aelius-aristides-orationes-49-2146e0",
-        "aelius-aristides-orationes-54-7007ae"
+        "aelius-aristides-orationes-54-7007ae",
+        "aelius-aristides-orationes-48-73ed72",
+        "seneca-the-elder-suasoriae-a8110c",
+        "seneca-the-elder-controversiae-ce0606",
+        "pliny-the-younger-letters-3236cd",
+        "claudius-aelianus-on-the-nature-of-animals-4de941",
+        "chariton-of-aphrodisias-callirhoe-8d335b"
       ]
     },
     "late-antiquity": {
@@ -39051,7 +39278,10 @@
         "clement-of-alexandria-stromata-694383",
         "scriptores-historiae-aug-alexander-severus-d95b45",
         "tertullian-adversus-judaeos-13912a",
-        "tertullian-adversus-hermogenem-a45bf7"
+        "tertullian-adversus-hermogenem-a45bf7",
+        "tertullian-adversus-praxean-0ccff9",
+        "tertullian-de-pudicitia-86e2b7",
+        "nonnus-of-panopolis-dionysiaca-3222bb"
       ]
     },
     "renaissance": {
@@ -39133,7 +39363,10 @@
         "callistratus-descriptiones-64e2f8",
         "claudius-aelianus-rustic-letters-b0b81d",
         "seneca-the-elder-fragmenta-4187fc",
-        "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a"
+        "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a",
+        "seneca-the-elder-suasoriae-a8110c",
+        "seneca-the-elder-controversiae-ce0606",
+        "claudius-aelianus-on-the-nature-of-animals-4de941"
       ]
     },
     "indic": {
@@ -39383,7 +39616,9 @@
         "aristotle-constitution-of-the-athenians-7282b2",
         "clement-of-alexandria-stromata-694383",
         "tertullian-adversus-judaeos-13912a",
-        "tertullian-adversus-hermogenem-a45bf7"
+        "tertullian-adversus-hermogenem-a45bf7",
+        "tertullian-adversus-praxean-0ccff9",
+        "tertullian-de-pudicitia-86e2b7"
       ]
     },
     "history": {
@@ -39496,7 +39731,8 @@
         "dionysius-of-halicarnass-libri-secundi-de-antiquis-orator-756e07",
         "valerius-maximus-facta-et-dicta-memorabilia-86155b",
         "scriptores-historiae-aug-alexander-severus-d95b45",
-        "quintus-curtius-rufus-histories-of-alexander-the-great-476171"
+        "quintus-curtius-rufus-histories-of-alexander-the-great-476171",
+        "pliny-the-younger-letters-3236cd"
       ]
     },
     "classics": {
@@ -40425,7 +40661,8 @@
         "julian-against-the-galileans-f2b5f6",
         "julian-panegyric-in-honour-of-the-emper-169f16",
         "aelius-aristides-orationes-49-2146e0",
-        "aelius-aristides-orationes-54-7007ae"
+        "aelius-aristides-orationes-54-7007ae",
+        "aelius-aristides-orationes-48-73ed72"
       ]
     },
     "political-theory": {
@@ -40956,7 +41193,9 @@
         "gaius-valerius-flaccus-argonautica-88ed5e",
         "statius-thebais-c8a661",
         "silius-italicus-punica-739044",
-        "marcus-valerius-martiali-epigrams-998913"
+        "marcus-valerius-martiali-epigrams-998913",
+        "apollonius-rhodius-argonautica-fbd514",
+        "nonnus-of-panopolis-dionysiaca-3222bb"
       ]
     },
     "literary-criticism": {
@@ -40981,7 +41220,8 @@
     "fiction": {
       "name": "Fiction",
       "works": [
-        "achilles-tatius-leucippe-and-clitophon-746f15"
+        "achilles-tatius-leucippe-and-clitophon-746f15",
+        "chariton-of-aphrodisias-callirhoe-8d335b"
       ]
     },
     "rhetoric": {
@@ -41841,7 +42081,12 @@
         "demetrius-of-phaleron-on-style-4c75b6",
         "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a",
         "aelius-aristides-orationes-49-2146e0",
-        "aelius-aristides-orationes-54-7007ae"
+        "aelius-aristides-orationes-54-7007ae",
+        "aelius-aristides-orationes-48-73ed72",
+        "claudius-aelianus-on-the-nature-of-animals-4de941",
+        "apollonius-rhodius-argonautica-fbd514",
+        "chariton-of-aphrodisias-callirhoe-8d335b",
+        "nonnus-of-panopolis-dionysiaca-3222bb"
       ]
     },
     "latin": {
@@ -42200,7 +42445,12 @@
         "quintus-curtius-rufus-histories-of-alexander-the-great-476171",
         "marcus-valerius-martiali-epigrams-998913",
         "tertullian-adversus-judaeos-13912a",
-        "tertullian-adversus-hermogenem-a45bf7"
+        "tertullian-adversus-hermogenem-a45bf7",
+        "seneca-the-elder-suasoriae-a8110c",
+        "seneca-the-elder-controversiae-ce0606",
+        "pliny-the-younger-letters-3236cd",
+        "tertullian-adversus-praxean-0ccff9",
+        "tertullian-de-pudicitia-86e2b7"
       ]
     },
     "english": {

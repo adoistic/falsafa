@@ -1,0 +1,38 @@
+{
+  "work_slug": "aelius-aristides-orationes-48-73ed72",
+  "work_title": "Orationes 48",
+  "chapter_number": 1,
+  "chapter_title": "Orationes 48",
+  "chapter_slug": "01-orationes-48",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7eb02b99-a7bf-50b0-ab64-971ac8b7463c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10788,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0284.tlg048"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "379adfdb-bf8e-51c2-b8d3-c1d2d4239b1b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 14428,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

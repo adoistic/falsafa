@@ -1,0 +1,38 @@
+{
+  "work_slug": "apollonius-rhodius-argonautica-fbd514",
+  "work_title": "Argonautica",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03-book-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bc7d77de-f355-5ae7-98af-cb71120dcfc8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9586,
+      "paragraph_count": 1406,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0001.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bbff739e-4eda-5a40-a76d-ffdb1a2c8594",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 13977,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

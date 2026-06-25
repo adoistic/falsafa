@@ -1,0 +1,38 @@
+{
+  "work_slug": "claudius-aelianus-on-the-nature-of-animals-4de941",
+  "work_title": "On the Nature of Animals",
+  "chapter_number": 9,
+  "chapter_title": "Book 9",
+  "chapter_slug": "09-book-9",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "14021989-b634-5eac-9652-d7e9124be68d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6130,
+      "paragraph_count": 66,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0545.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a0a6188a-e3f2-5380-9de7-ce498f4e74d9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 7822,
+      "paragraph_count": 66,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

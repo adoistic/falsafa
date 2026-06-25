@@ -1,0 +1,38 @@
+{
+  "work_slug": "chariton-of-aphrodisias-callirhoe-8d335b",
+  "work_title": "Callirhoe",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6a4f2bd2-54af-578f-8fe0-a0bf5c21edc0",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5296,
+      "paragraph_count": 131,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0554.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da681167-8e8a-5bf7-b05e-3232b40cf750",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 7366,
+      "paragraph_count": 112,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

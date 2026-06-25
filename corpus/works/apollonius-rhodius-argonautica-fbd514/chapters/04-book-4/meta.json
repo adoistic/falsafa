@@ -1,0 +1,38 @@
+{
+  "work_slug": "apollonius-rhodius-argonautica-fbd514",
+  "work_title": "Argonautica",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04-book-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "18ab8a49-5551-5c10-9622-6134c16d4dde",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11768,
+      "paragraph_count": 1779,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0001.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d6549aa9-b654-5b0e-89dc-e0c943985d81",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 17719,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+---
+work_id: "8d335b55-fea8-5d90-90f7-181092e30605"
+work_slug: "chariton-of-aphrodisias-callirhoe-8d335b"
+work_title: Callirhoe
+author_name: Chariton of Aphrodisias
+chapter_number: 5
+chapter_title: Book 5
+chapter_slug: "05-book-5"
+variant_id: "c5e1c434-9099-5f91-8bd2-ccc5d39fec73"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 6623
+translator: thothica
+---
+
+1.1. How Callirhoe was married to Chaereas — the most beautiful of women to the most beautiful of men, the marriage brought about by the contrivance of Aphrodite; and how, when Chaereas in a fit of jealous love had struck her, she seemed to have died, and was buried in great splendour, and then revived in the tomb, where tomb-robbers carried her off from Sicily by night, and sailing to Ionia sold her to Dionysius; and Dionysius's love, and Callirhoe's faithfulness to Chaereas, and the necessity that forced her into marriage for the sake of the child in her womb, and the confession of Theron, and Chaereas's voyage in search of his wife, his capture and his sale into Caria together with his friend Polycharmus —
+
+1.2. and how Mithridates recognized Chaereas when he was about to be put to death, and how he was eager to restore the lovers to each other; and how Dionysius, detecting this from the letters, slandered him to Pharnaces, and Pharnaces to the King, and the King summoned them both to judgment — all this has been set out in the previous book. What followed I shall now relate.
+
+1.3. As far as Syria and Cilicia Callirhoe bore the journey lightly, for she still heard the Greek tongue and could see the sea that led to Syracuse. But when she came to the river Euphrates, beyond which lies the vast mainland that is the starting-point for the King's great empire, then at last a longing for her homeland and her kindred stole over her, with the despair of ever returning.
+
+1.4. Standing on the shore, she ordered everyone to withdraw except Plangon, the one person she trusted, and began to speak in this way: "Spiteful Fortune, who make war upon a single woman with such persistence — you shut me up alive in a tomb, and you brought me out of it not in pity, but to hand me over to pirates.
+
+1.5. The sea and Theron divided my exile between them. I, the daughter of Hermocrates, was sold; and, what was heavier to me than slavery, I was loved, so that, while Chaereas still lived, I should be married to another. Now you even grudge me this, for you no longer banish me only to Ionia. You gave me a foreign land, but a Greek one, where I had this great comfort, that I sat beside the sea. Now you cast me out beyond the air I know, and I am cut off from my homeland by a whole world.
+
+1.6. You have taken Miletus from me, as before you took Syracuse. I am carried off beyond the Euphrates and shut away in the recesses of the barbarians — I, an islander, where there is no longer any sea. What ship can I still hope for, sailing down from Sicily? I am torn even from your tomb, Chaereas.
+
+1.7. Who will bring the offerings to you now, my good spirit? Bactra and Susa are henceforth to be my home and my grave. Once only, Euphrates, am I to cross you; for I dread not so much the length of the journey as the fear that even there I may seem beautiful to someone." So saying, she kissed the ground; then, stepping into the ferry, she crossed over.
+
+1.8. Now Dionysius too had ample provision, for he displayed his riches lavishly to his wife in the equipment of the journey; but the friendliness of the natives made their travel more royal still. People escorted them from town to town, and one satrap handed them on to the next, for her beauty won everyone over. And another hope warmed the barbarians as well — that this woman would have great power — and so each was eager to give gifts of hospitality, or in any case to lay up some claim to her gratitude.
+
+2.1. So matters stood with them. Mithridates, meanwhile, was making his way through Armenia in great haste, chiefly because he feared that this very thing might be made a charge against him before the King — that he had followed close upon the woman's track — but also because he was eager to arrive first and prepare his case for the trial.
+
+2.2. When he reached Babylon, where the King was then staying, he rested that first day in his own quarters, for all the satraps have lodgings assigned to them. On the next day he came to the King's gates, greeted the Persian nobles of equal rank, and honoured first with gifts Artaxates the eunuch, who stood highest and most powerful in the King's favour. Then he said, "Report to the King: Mithridates, your servant, has come to clear himself of a Greek's slander, and to do homage."
+
+2.3. Not long afterward the eunuch came out and answered, "It is the King's will that Mithridates should suffer no wrong; he will give judgment when Dionysius too has arrived." So Mithridates did homage and withdrew. When he was alone, he called Chaereas and said to him, "I am on trial, and the charge against me is that I wished to restore Callirhoe to you. For Dionysius claims that the letter you wrote to your wife was written by me, and he takes it as proof of adultery. He is convinced that you are dead; and let him stay convinced of it until the trial, so that you may appear suddenly.
+
+2.4. This is the return I ask of you for the kindness I have done: hide yourself; bear not to see Callirhoe, nor to ask anything about her." Reluctantly, but obediently, Chaereas agreed and tried to keep out of sight; yet the tears ran down his cheeks. And saying, "I will do, master, what you command," he went off to the chamber where he was lodging with his friend Polycharmus, and flinging himself to the floor, tearing his tunic, "with both his hands he seized the grimy ash and poured it on his head, and fouled his comely face." Then, weeping, he said: "We are near each other, Callirhoe, and we do not see each other.
+
+2.5. You indeed do no wrong, for you do not know that Chaereas is alive; but I am the most impious of all men, since I have been forbidden to look on you, and, coward that I am and clinging to life, I endure this tyranny so far. If anyone had laid such a command on you, you would not have lived."
+
+2.6. So Polycharmus tried to console him. By now Dionysius too was drawing near Babylon, and rumour ran ahead through the city, telling everyone that a woman was coming whose beauty was not human but divine — such as the sun looks on nowhere else upon earth. By nature the barbarians are mad for women, so that every house and every alley was filled with talk of her. The rumour reached even the King himself, so that he asked Artaxates the eunuch whether the woman from Miletus had arrived.
+
+2.7. The fame of his wife had long distressed Dionysius — for he had no security in it — but now, when she was about to enter Babylon, he was inflamed all the more. With a groan he said to himself: "This is no longer Miletus, Dionysius, your own city; even there you had to guard against those who plotted against you.
+
+2.8. Reckless man, with no foresight of what is to come — you are bringing Callirhoe into Babylon, where there are so many men like Mithridates! Menelaus could not keep Helen safe in chaste Sparta, but a barbarian shepherd outdid even a king. There are many Parises among the Persians. Do you not see the dangers, the warning signs? Cities come out to meet us, and satraps pay us court.
+
+2.9. She has already grown haughty, and the King has not yet seen her. One hope of safety remains: to steal the woman away from sight; for she will be guarded if she can stay hidden." With this reasoning he mounted his horse, but left Callirhoe in the covered carriage and closed up the curtain. And perhaps he would have succeeded in what he wished, had not something of this kind happened.
+
+3.1. There came to Statira, the King's wife, the women of the most distinguished Persians, and one of them said: "Mistress, a little Greek woman is making war upon our households — one whom everyone has long admired for her beauty, but now there is danger that in our day the reputation of Persian women may be overthrown. Come, then, let us consider how we may not be outshone by the foreigner."
+
+3.2. The queen laughed, putting no trust in the rumour, and at the same time said: "The Greeks are boastful and poor, and for that reason they marvel greatly at small things. So they cry up Callirhoe as beautiful, just as they cry up Dionysius as rich. Let one of us, then, when she comes in, appear beside her, so as to put the poor slave in the shade."
+
+3.3. All did homage to the queen, marvelled at her judgment, and at first cried out as with one mouth, "If only it were possible for you to be seen, mistress!" Then their opinions divided, and they named the most distinguished women for beauty.
+
+3.4. There was a show of hands as in a theatre, and Rhodogune was chosen — daughter of Zopyrus, wife of Megabyzus — a great and famous creature; what Callirhoe was to Ionia, that Rhodogune was to Asia. The women took her and adorned her, each contributing something of her own to her adornment; and the queen gave her bracelets and a necklace.
+
+3.5. When they had fitly equipped her for the contest, she went out as though to meet Callirhoe — and indeed she had a fitting pretext, since she was the sister of Pharnaces, who had written to the King about Dionysius.
+
+3.6. All Babylon poured out for the spectacle, and the crowd choked the gates. In the most conspicuous place Rhodogune waited, escorted in royal style, standing delicate and languid and as though issuing a challenge; and everyone gazed at her and said to one another, "We have won; the Persian woman will eclipse the foreigner.
+
+3.7. If she can, let her be matched against her; let the Greeks learn that they are boasters." Meanwhile Dionysius came up, and when it was announced to him that the kinswoman of Pharnaces was there, he leapt down from his horse and approached her with courtesy.
+
+3.8. Blushing deeply, she said, "I wish to greet my sister," and at the same moment went up to the carriage. Now it was no longer possible for Callirhoe to stay hidden, and so Dionysius, against his will and groaning with embarrassment, begged Callirhoe to come forward. At once everyone strained not only their eyes but their very souls, and all but fell over one another, each wanting to see before his neighbour and to get as close as he could.
+
+3.9. Callirhoe's face shone out, and its brilliance held all their gazes, as when in deep night a great light suddenly appears. Astonished, the barbarians did homage, and no one seemed to be aware that Rhodogune was there. And Rhodogune herself understood her defeat, and, since she could neither go away nor wished to be looked at, she slipped under the carriage curtain together with Callirhoe,
+
+3.10. surrendering herself to be carried off by her superior. The carriage went on, all curtained over, and the people, no longer able to see Callirhoe, kissed the chariot. When the King heard that Dionysius had arrived, he ordered Artaxates the eunuch to tell him: "You ought not to have delayed in accusing a man entrusted with a great command; but I forgive you the fault, since you were travelling with a woman.
+
+3.11. As for me, I am now keeping a festival and engaged in the sacrifices; on the thirtieth day from now I shall hear the case." Dionysius did homage and departed.
+
+4.1. From then on preparation went forward for the trial on both sides, as for the greatest of wars. The mass of the barbarians was divided: the satraps' party sided with Mithridates — for he too was originally from Bactra, though he had later been settled in Caria — while Dionysius had the common people in his favour, since he seemed to be wronged contrary to the laws, having been plotted against in the matter of his wife, and — what is greater — such a wife.
+
+4.2. Nor, indeed, was the women's quarter of the Persians free from concern; here too their zeal was divided. Those who prided themselves on their beauty envied Callirhoe and wished her to be put to shame at the trial, while the majority, envious of their own women, joined in praying that the foreigner might triumph.
+
+4.3. Each of the two men supposed he had victory in his hands. Dionysius was confident in the letters that Mithridates had written to Callirhoe in the name of Chaereas — for he never expected Chaereas to be alive — while Mithridates, having Chaereas to produce, was convinced that he could not be convicted. Yet he pretended to be afraid and called in advocates, so that, by the unexpectedness of it, he might make his defence the more brilliant.
+
+4.4. During those thirty days the Persian men and women talked of nothing else but this trial, so that — if the truth must be told — all Babylon was a courtroom. The interval seemed long to everyone, and not only to the rest but to the King himself. What Olympic games or Eleusinian nights ever roused so great an expectation of eagerness?
+
+4.5. When the appointed day came, the King took his seat. There is in the palace a chamber set apart expressly for a court of justice, surpassing in size and beauty; in the centre stands the throne for the King, and on either side seats for his friends — those who excel in dignity and merit — leaders of leaders.
+
+4.6. Around the throne stand in a circle the captains and commanders and the most honoured of the King's freedmen, so that of that assembly one might fitly say: "And the gods sat in council beside Zeus." Those who take their seats are led in with silence and awe.
+
+4.7. So at dawn Mithridates came first, attended by friends and kinsmen — not at all splendid or cheerful, but, as one on trial, an object of pity. After him came Dionysius too, in Greek dress, clothed in a Milesian robe, holding the letters in his hand.
+
+4.8. When they had been brought in, they did homage. Then the King ordered the secretary to read the letters — that of Pharnaces and the one he himself had written in reply — so that those who sat in judgment with him might learn how the matter had been brought forward. When the letters had been read, a great burst of praise broke out from those who marvelled at the King's wisdom and justice.
+
+4.9. When silence had fallen, Dionysius the accuser ought to have begun his speech, and everyone looked toward him. But Mithridates said: "I do not forestall my defence, master, but I know the proper order; before the speeches all who are essential to the case must be present. Where, then, is the woman about whom the trial is held? You judged her essential by the letter, and wrote that she should be present, and she is present.
+
+4.10. Let not Dionysius, then, conceal the chief point and the cause of the whole matter." To this Dionysius answered: "This too is the act of an adulterer — to drag another man's wife before the crowd against her husband's will, when she is neither accusing nor being accused.
+
+4.11. If she had been seduced, she would have had to be present as one liable; but as it is, you plotted against her without her knowledge, and I use the woman neither as witness nor as advocate. Why then must she be present who has no share at all in the trial?" This Dionysius said in lawyer's fashion, yet he persuaded no one;
+
+4.12. for everyone longed to see Callirhoe. Since the King was ashamed to give the order, his friends made the letter their pretext, for she had been summoned as essential. "How, then, is it not absurd," said one, "that she should come from Ionia, and yet, being in Babylon, be absent?" So when it was decreed that Callirhoe too should be present, Dionysius, having told her nothing beforehand but having concealed to the very last the reason for the journey to Babylon, and fearing to bring her suddenly into court knowing nothing — for the woman was likely to be indignant at having been deceived — postponed the trial to the next day.
+
+5.1. And so for that day they were dismissed. When Dionysius came home, like the prudent and educated man he was, he laid before his wife the most persuasive account possible in such circumstances, relating each thing gently and mildly. Yet not without tears did Callirhoe hear it; at the name of Chaereas she wept much, and at the trial she was distressed.
+
+5.2. "This alone," she said, "was wanting to my misfortunes — to come into a court of law. I have died and been buried, my tomb has been robbed, I have been sold, I have been a slave; and now, see, Fortune, I am put on trial as well. It was not enough for you to slander me unjustly to Chaereas — you have given me to Dionysius as a pretext for a charge of adultery.
+
+5.3. Once you paraded your slander of me at a tomb, now before a royal court. I have become a tale told in Asia and in Europe. With what eyes shall I look upon the judge? What words must I hear? Beauty that lies in wait, given me by nature for this alone — that I should be filled with slanders.
+
+5.4. The daughter of Hermocrates is on trial, and has not her father for advocate. When others go into a court, they pray for goodwill and favour; but I am afraid that I may please the judge."
+
+5.5. Lamenting in this way, she passed the whole day in dejection, and Dionysius more than she. When night came on, she dreamed she saw herself in Syracuse as a maiden, entering the precinct of Aphrodite and returning from it, seeing Chaereas, and the whole city garlanded on her wedding day, and herself escorted by her father and mother to the bridegroom's house.
+
+5.6. As she was about to kiss Chaereas, she started up out of sleep, and calling Plangon — for Dionysius had already risen early to rehearse his case — she told the dream. And Plangon answered: "Take heart, mistress, and rejoice; you have seen a good dream. You will be freed from all your cares;
+
+5.7. for as it seemed to you in the dream, so it shall be in waking life. Go to the King's court as to a temple of Aphrodite; remember yourself; take up again your bridal beauty." And so saying, she dressed and adorned Callirhoe, who of her own accord had a cheerful spirit, as though foreseeing what was to come.
+
+5.8. At dawn, then, there was a crush about the palace, and the alleys were full right out to their ends; for everyone came running, in seeming to be hearers of the trial, but in truth to be spectators of Callirhoe. And by as much as she had before surpassed other women, by so much she now seemed to surpass herself.
+
+5.9. So she entered the court, such as the divine poet says Helen appeared to those about Priam, "Panthoos and Thymoetes, elders of the people"; and at the sight of her there was wonder and silence, and "all prayed to lie beside her in her bed." Indeed, had Mithridates been required to speak first, he could have found no voice; for, as upon an old wound, his amorous desire received once more a sharper blow.
+
+6.1. Dionysius began his speech thus: "I am grateful to you, King, for the honour you have shown me, and to chastity, and to the marriages of all men; for you did not overlook a private man plotted against by a governor, but summoned us, so that in my case you might punish the wantonness and outrage,
+
+6.2. and deter all others from it. And the deed has become worthy of a greater punishment because of the man who did it. For Mithridates, being no enemy but my guest-friend, plotted against me, and not against any other of my possessions, but against what is dearer to me than body and soul — my wife.
+
+6.3. He, of all men, ought, if anyone else had wronged us, to have come to my aid himself, if not for my sake as a friend, then for yours as King. For you placed in his hands the greatest command, and, showing himself unworthy of it, he disgraced it — or rather, betrayed the one who entrusted him with that command.
+
+6.4. As for the entreaties of Mithridates, and the power, and all the preparation he has brought to bear upon this contest, since we do not stand on equal terms, I myself am not unaware of it; but I am confident, King, in your justice, and in marriage, and in the laws, which you keep alike for all.
+
+6.5. For if you mean to acquit him, it would have been far better not to have summoned him at all; for at that time everyone was afraid, supposing that his wantonness would be punished if it came to trial — whereas hereafter he will hold the law in contempt, if, judged before you, he goes unpunished. My own argument is clear and brief. I am the husband of this woman, Callirhoe, and by now a father by her; I married her not as a maiden but after she had belonged to a former husband, Chaereas by name, long since dead,
+
+6.6. whose tomb also stands among us. Now Mithridates, when he came to Miletus and saw my wife in accordance with the rights of hospitality, did not behave thereafter either as a friend or as a self-controlled and decent man — such as you wish those to be to whom your cities are entrusted — but showed himself wanton and tyrannical.
+
+6.7. Knowing the chastity and love of husband in the woman, he judged it impossible to persuade her by words or money, and so devised a stratagem of treachery which he thought most persuasive: he pretended that her former husband Chaereas was alive, and, forging letters in his name to Callirhoe, sent them by slaves.
+
+6.8. But your fortune, King, since he was a worthy man, set him on his way, and the providence of the other gods made the plot plain; for the slaves with the letters were sent to me by Bias, the general of the Prienians, and I, having detected them, informed the satrap of Lydia and Ionia, Pharnaces, and he informed you.
+
+6.9. I have now told the story of the matter on which you are giving judgment; and the proofs are inescapable. For one of two things must be true: either Chaereas is alive, or Mithridates is convicted of adultery. And he cannot even say that he was ignorant of Chaereas's death; for while Chaereas was present in Miletus we heaped up the tomb for him, and he mourned along with us.
+
+6.10. But whenever Mithridates wishes to commit adultery, he raises the dead. I shall finish when I have read the letter which he sent through his own slaves to Miletus from Caria. Take it and read: 'Chaereas, I am alive.' Let Mithridates prove this and be acquitted. Consider, King, how shameless an adulterer is, when he lies even about a dead man."
+
+6.11. With these words Dionysius stirred up his hearers and at once had the vote in his favour; and the King, growing angry, looked bitterly and grimly upon Mithridates.
+
+7.1. But Mithridates, not at all dismayed, said: "I beg you, King — for you are just and humane — do not condemn me before you hear the arguments on both sides, and do not let a Greek, who has craftily put together false slanders against me, prove more persuasive with you than the truth.
+
+7.2. I understand that the woman's beauty weighs against me toward suspicion; for it seems incredible to no one that someone should wish to seduce Callirhoe. But I have lived the rest of my life chastely, and this is the first charge I have faced; and even had I been licentious and wanton, the very fact that so many cities have been entrusted to me by you would have made me a better man.
+
+7.3. Who is so foolish as to choose to lose such great blessings for the sake of one pleasure — and a shameful one at that? And indeed, if I were conscious of any wrongdoing in myself, I could even have challenged the jurisdiction of this trial; for Dionysius does not bring his charge on behalf of a wife married to him according to law, but he bought her when she was being sold — and the law of adultery does not apply to slaves.
+
+7.4. Let him first read you the deed of manumission, and then let him speak of marriage. Do you dare to call her a wife, whom Theron the pirate sold to you for a talent, and he himself having snatched her from a tomb? 'But,' you say, 'I bought her as a free woman.' Then you are a kidnapper, and not a husband. Yet I shall now make my defence to you as to a husband.
+
+7.5. Reckon the sale a marriage, and the price a dowry; let the woman of Syracuse pass today for a Milesian. Learn, master, that I have wronged Dionysius neither as a husband nor as a master. First, he charges me with an adultery not committed but only intended, and, having no act to allege, he reads out empty documents.
+
+7.6. The laws inflict their penalties for deeds. You produce a letter. I could say: 'I did not write it; you have no writing of mine; it is Chaereas who seeks Callirhoe — try him, then, for adultery.' 'Yes,' you say, 'but Chaereas is dead, and you, in the name of the dead man, corrupted my wife.' You challenge me, Dionysius,
+
+7.7. with a challenge in no way to your advantage. I call it to witness: I am your friend and guest. Withdraw from the accusation; it is to your advantage. Beg the King to dismiss the case. Sing your recantation: 'Mithridates does no wrong; in vain did I blame him.' But if you persist, you will repent; you will be casting the vote against yourself. I warn you, you will lose Callirhoe. It is not I whom the King will find an adulterer, but another."
+
+7.8. Having said this, he fell silent; and everyone looked toward Dionysius, wishing to learn, now that the choice had been set before him, whether he would withdraw from the accusation or hold firmly to it. For what Mithridates was hinting at they themselves did not understand, but supposed that Dionysius knew. And he too was ignorant of it, never having hoped that Chaereas was alive.
+
+7.9. So he said: "Say whatever you wish; you will not deceive me with sophistries and plausible threats, nor will Dionysius ever be found to be a false accuser."
+
+7.10. Taking his cue from this, Mithridates raised his voice and, as if for a solemn invocation, said: "Gods of the royal house, both heavenly and beneath the earth, come to the aid of a good man, who has often prayed to you righteously and sacrificed magnificently. Grant me the reward of my piety, now that I am falsely accused. Lend me, if only for this trial, Chaereas. Appear, good spirit; your own Callirhoe calls you. And standing between us both, me and Dionysius, tell the King which of us is the adulterer."
+
+8.1. While he was still speaking — for so it had been arranged — Chaereas himself came forward. And when Callirhoe saw him she cried out, "Chaereas, are you alive?" and rushed to run to him; but Dionysius held her back, and placing himself between them, did not let them embrace each other.
+
+8.2. Who could fittingly describe that scene in the court? What poet ever brought so strange a story upon the stage? You would have thought you were present in a theatre filled with a thousand passions: all were there at once — tears, joy, wonder, pity,
+
+8.3. disbelief, prayers. They called Chaereas blessed, rejoiced with Mithridates, grieved with Dionysius, and were at a loss about Callirhoe. For she above all was in confusion, and stood speechless, only gazing at Chaereas with wide-open eyes. I think even the King himself would have wished then to be Chaereas.
+
+8.4. Now war between rivals is familiar and ready to hand for all; but in their case the prize being visible inflamed their rivalry against each other all the more, so that, had it not been for their respect for the King, they would have come to blows.
+
+8.5. As it was, they went as far as words. Chaereas said, "I am the first husband." Dionysius said, "I am the more secure." "Did I ever let my wife go?" "But you buried her." "Show the dissolution of the marriage." "You see the tomb." "Her father gave her to me." "She gave herself to me." "You are unworthy of the daughter of Hermocrates." "You more so — you who were bound in chains by Mithridates." "I demand Callirhoe back." "And I keep her." "You hold another man's wife." "You killed your own."
+
+8.6. "Adulterer." "Murderer." Thus they fought with one another, and all the rest listened not without pleasure. Callirhoe stood looking down and weeping, loving Chaereas, ashamed before Dionysius. The King removed everyone and took counsel with his friends — no longer about Mithridates, for he had brilliantly cleared himself, but whether he should set up a separate trial concerning the woman.
+
+8.7. Some thought the case was not one for a king: "You rightly heard the accusation against Mithridates, for he was a satrap; but these men are all private persons." The majority, however, advised the opposite, both because of the woman's father, who had been of no little use to the royal house, and because the King would not be calling the case before himself from outside, but it was practically a part of the one he was already judging. The truest reason they were unwilling to confess — that Callirhoe's beauty was hard for those who saw it to tear themselves from.
+
+8.8. So, calling back those he had dismissed, he said: "I acquit Mithridates, and let him depart tomorrow to his own satrapy, having received gifts from me. Let Chaereas and Dionysius each state what claims he has concerning the woman; for I must take thought for the daughter of Hermocrates, who utterly defeated the Athenians,
+
+8.9. the bitterest enemies both to me and to the Persians." When this decision had been spoken, Mithridates did homage, but perplexity seized the others. Seeing them at a loss, the King said: "I am not pressing you, but I grant you leave to come to the trial after you have prepared yourselves. I give you an interval of five days; and in the meantime my wife Statira shall take care of Callirhoe. For it is not right that, when she is about to be judged concerning a husband, she should come to the trial with a husband."
+
+8.10. So they went out of the court, all the others downcast, and Mithridates alone rejoicing. Having received his gifts and stayed the night, at dawn he set out for Caria more splendid than before.
+
+9.1. As for Callirhoe, eunuchs took her and led her to the queen, telling her nothing beforehand; for when the King sends someone, no announcement is made. Seeing her suddenly, Statira sprang up from her couch, thinking that Aphrodite stood before her — for she honoured the goddess especially.
+
+9.2. And Callirhoe did homage. The eunuch, perceiving her astonishment, said: "This is Callirhoe; the King has sent her, so that she may be kept with you until the trial." Statira was glad to hear this, and, laying aside all womanly rivalry, became more kindly disposed to Callirhoe because of the honour done her;
+
+9.3. for she took pride in the charge entrusted to her. Taking her by the hand, she said: "Take heart, woman, and cease your weeping. The King is kind. You shall have the husband you wish; you will be married more honourably after the trial. Go now and rest, for you are weary, as I see, and your soul is still troubled." Callirhoe was glad to hear this, for she longed for quiet.
+
+9.4. So when she had lain down and they let her rest, touching her eyes she said: "Did you truly see Chaereas? Was that my Chaereas, or am I deceived in this too? For perhaps Mithridates, for the sake of the trial, sent a phantom; they say there are magi among the Persians.
+
+9.5. And yet he spoke, and said everything as one who knew. How then did he bear not to embrace me? We parted without even kissing each other." While she was reasoning thus, there was heard a sound of feet and the cries of women; for all came running to the queen, thinking they had ample licence to see Callirhoe.
+
+9.6. But Statira said: "Let us leave her, for she is in a poor state; we have days enough both to see and to hear and to talk." Sorrowing, they went away, and at dawn the next day they came again; and this was done on all the days with eagerness, so that the King's house became more crowded than ever.
+
+9.7. Indeed, even the King came in to the women more often, ostensibly to visit Statira. Costly gifts were sent to Callirhoe, but she accepted them from no one, keeping the bearing of an unfortunate woman — dressed in black, unadorned, sitting still. This made her shine all the more brightly. When the queen asked which of the two husbands she preferred, she answered nothing, but only wept.
+
+9.8. Such was Callirhoe's state. Dionysius, for his part, tried to bear what was happening nobly, both through the steadiness of his nature and through the care of his education; but the strangeness of the calamity was powerful enough to unsettle even a brave man.
+
+9.9. For he burned more fiercely than at Miletus. When his desire began, he was a lover of her beauty alone; but now many things kindled his love still further — familiarity, the blessing of children, ingratitude, jealousy, and most of all the unexpectedness of it.
+
+10.1. So suddenly he would often cry out: "What Protesilaus is this who has come to life again to thwart me? What god beneath the earth have I offended, that I should find a dead man for my rival in love — a man whose tomb I keep? Lady Aphrodite, you have ensnared me — you whom I set up among my own household gods, to whom I sacrifice so often. Why did you show me Callirhoe, whom you did not mean to keep for me?
+
+10.2. Why did you make me a father, when I am not even a husband?" Meanwhile, embracing his son, he said weeping: "Wretched child, who once seemed to me born in good fortune, but now in an evil hour; for in you I have an inheritance from your mother and a memorial of an unhappy love.
+
+10.3. You are but a little child, yet not wholly insensible of your father's misfortunes. We came on an ill journey; I should not have left Miletus. Babylon has been our ruin. In the first trial I have been beaten; Mithridates accused me. As for the second, I am more afraid; for the danger is no less, and the outcome of the first has made me despair of the trial.
+
+10.4. Without a trial I have been deprived of my wife, and now I contend for my own wife against another; and — what is harder than this — I do not know whom Callirhoe wishes. But you, my child, can learn from your mother. Go now and plead on your father's behalf.
+
+10.5. Weep, kiss her, say: 'Mother, my father loves you,' and reproach her with nothing. What do you say, attendant? No one allows you to enter the palace? O dreadful tyranny — they shut out a son who comes as an ambassador from his father to his mother."
+
+10.6. So Dionysius passed the time until the trial, arbitrating a battle between love and reason; but Chaereas was held by inconsolable grief. Pretending to be ill, he ordered Polycharmus to escort Mithridates, as the benefactor of them both; and when he was alone, he fastened a noose, and as he was about to climb up to it, he said: "I should have died more happily had I climbed the cross which a false accusation set up for me when I was bound in Caria; for then I would have departed from life still deceived into thinking I was loved by Callirhoe, whereas now I have lost not only life but the consolation of death as well.
+
+10.7. Callirhoe, when she saw me, did not come to me, did not kiss me; with me standing by, she felt shame before another. Let her feel no awkwardness on my account: I will forestall the trial; I will not wait for an inglorious end. I know that I am a weak antagonist for Dionysius — a foreigner and a poor man and now another's. May you be fortunate, woman; for I call you wife, even though you love another. I am departing, and I do not trouble your marriage. Be rich and live in luxury and enjoy the wealth of Ionia. Keep whom you wish.
+
+10.8. But now, when Chaereas is truly dead, I ask of you, Callirhoe, a last favour. When I am dead, come to my body, and if you can, weep — for that will be to me greater than immortality; and bending over my gravestone, even though your husband and your child look on, say: 'You are gone, Chaereas, now truly; now you have died; for I was about to choose you before the King.'
+
+10.9. I shall hear you, woman; perhaps I shall even believe you. You will make me more honoured among the spirits below: 'Even if the dead forget in the house of Hades, yet even there will I remember my dear companion.'" Lamenting in this way, he kissed the noose, saying: "You are my comfort and my advocate; through you I conquer;
+
+10.10. you have loved me more than Callirhoe has." As he was climbing up and fastening it about his neck, his friend Polycharmus came upon him and held him back as one out of his mind, no longer able to console him. And by now the appointed day for the trial had arrived.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-the-elder-suasoriae-a8110c",
+  "work_title": "Suasoriae",
+  "chapter_number": 1,
+  "chapter_title": "Suasoriae",
+  "chapter_slug": "01-suasoriae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4a9316df-5e5e-5b57-855f-d6cf67f5b74f",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10309,
+      "paragraph_count": 156,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1014.phi003"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "981f29ff-fcf7-50d0-8ae3-5eea0af2314a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 16265,
+      "paragraph_count": 109,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "nonnus-of-panopolis-dionysiaca-3222bb",
+  "work_title": "Dionysiaca",
+  "chapter_number": 11,
+  "chapter_title": "Book 11",
+  "chapter_slug": "11-book-11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "127ea001-9311-5287-a404-dbf1015dc185",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3258,
+      "paragraph_count": 522,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2045.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "852d4ca7-209a-5615-a96b-341042ef9cfa",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4969,
+      "paragraph_count": 522,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

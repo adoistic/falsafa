@@ -1,0 +1,38 @@
+{
+  "work_slug": "pliny-the-younger-letters-3236cd",
+  "work_title": "Letters",
+  "chapter_number": 10,
+  "chapter_title": "Book 10",
+  "chapter_slug": "10-book-10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5a13297e-ee04-56fd-ac8f-13a0bdf5406e",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9750,
+      "paragraph_count": 260,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1318.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c284843d-5ad0-539a-b2c2-8b4ce9d86cbf",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 15380,
+      "paragraph_count": 260,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

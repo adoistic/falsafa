@@ -1,0 +1,38 @@
+{
+  "work_slug": "nonnus-of-panopolis-dionysiaca-3222bb",
+  "work_title": "Dionysiaca",
+  "chapter_number": 8,
+  "chapter_title": "Book 8",
+  "chapter_slug": "08-book-8",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eb5d2d40-134a-5e21-a06d-aa9b38a41e4b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2616,
+      "paragraph_count": 419,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2045.tlg001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f640e7fd-ca93-5647-b29f-634cd84b50f9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4075,
+      "paragraph_count": 419,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

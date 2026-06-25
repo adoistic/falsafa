@@ -1,0 +1,38 @@
+{
+  "work_slug": "pliny-the-younger-letters-3236cd",
+  "work_title": "Letters",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06-book-6",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5cefd95b-ba37-5ab3-b101-0fbb09a8ae27",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6944,
+      "paragraph_count": 223,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1318.phi001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cd59aa2c-572d-5043-baf1-f31fabbcaead",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11102,
+      "paragraph_count": 223,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
