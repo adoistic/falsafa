@@ -1,0 +1,38 @@
+{
+  "work_slug": "sidonius-apollinaris-carmina-0bc4da",
+  "work_title": "Carmina",
+  "chapter_number": 1,
+  "chapter_title": "Carmina",
+  "chapter_slug": "01-carmina",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3a9cb72e-c8d3-5f07-8408-29e897763161",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 22556,
+      "paragraph_count": 3705,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0261.stoa0001"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0e63d765-2cb6-5001-9390-e42395edea2a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 34697,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

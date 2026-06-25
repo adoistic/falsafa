@@ -2,10 +2,10 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1813,
-    "authors": 432,
+    "works": 1821,
+    "authors": 434,
     "eras": 10,
-    "genres": 31,
+    "genres": 32,
     "languages": 9
   },
   "works": [
@@ -34455,6 +34455,158 @@
       "difficulty": "Advanced",
       "description": "Florus, Lucius Annaeus's Epitome Rerum Romanorum, translated from the Latin by Thothica, with the Latin original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "horace-epistles-b473b3",
+      "title": "Epistles",
+      "author": "Horace",
+      "author_slug": "horace",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 2,
+      "total_variant_entries": 4,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Horace's Epistles, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "cicero-marcus-tullius-brutus-be99b0",
+      "title": "Brutus",
+      "author": "Cicero, Marcus Tullius",
+      "author_slug": "cicero-marcus-tullius",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Cicero, Marcus Tullius's Brutus, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "julian-letters-720b7d",
+      "title": "Letters",
+      "author": "Julian",
+      "author_slug": "julian",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Julian's Letters, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "arrian-indica-991ca0",
+      "title": "Indica",
+      "author": "Arrian",
+      "author_slug": "arrian",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "History",
+      "genre_slug": "history",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Arrian's Indica, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "cicero-marcus-tullius-orator-a10c4c",
+      "title": "Orator",
+      "author": "Cicero, Marcus Tullius",
+      "author_slug": "cicero-marcus-tullius",
+      "era": "Hellenistic",
+      "era_slug": "hellenistic",
+      "genre": "Classics",
+      "genre_slug": "classics",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Cicero, Marcus Tullius's Orator, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "aurelius-prudentius-clem-contra-symmachum-43a8d8",
+      "title": "Contra Symmachum",
+      "author": "Aurelius Prudentius Clemens",
+      "author_slug": "aurelius-prudentius-clemens",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 2,
+      "total_variant_entries": 4,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Aurelius Prudentius Clemens's Contra Symmachum, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "harpocration-lexicon-of-the-ten-attic-orators-a57385",
+      "title": "Lexicon of the Ten Attic Orators",
+      "author": "Harpocration",
+      "author_slug": "harpocration",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "Reference",
+      "genre_slug": "reference",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Harpocration's Lexicon of the Ten Attic Orators, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "sidonius-apollinaris-carmina-0bc4da",
+      "title": "Carmina",
+      "author": "Sidonius Apollinaris",
+      "author_slug": "sidonius-apollinaris",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Literature",
+      "genre_slug": "literature",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Sidonius Apollinaris's Carmina, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -35671,7 +35823,9 @@
         "cicero-marcus-tullius-de-optimo-genere-oratorum-9aec20",
         "cicero-marcus-tullius-on-oratory-6f2b26",
         "cicero-marcus-tullius-partitiones-oratoriae-7fe690",
-        "cicero-marcus-tullius-de-inventione-6d4b2c"
+        "cicero-marcus-tullius-de-inventione-6d4b2c",
+        "cicero-marcus-tullius-brutus-be99b0",
+        "cicero-marcus-tullius-orator-a10c4c"
       ]
     },
     "quintus-tullius-cicero": {
@@ -35721,7 +35875,8 @@
         "horace-satires-9deed7",
         "horace-ars-poetica-3cb985",
         "horace-carmen-saeculare-525e9c",
-        "horace-epodes-111b58"
+        "horace-epodes-111b58",
+        "horace-epistles-b473b3"
       ]
     },
     "lucan": {
@@ -37936,7 +38091,8 @@
         "julian-hymn-to-king-helios-dedicated-to-4d0608",
         "julian-the-heroic-deeds-of-the-emperor--2fbab1",
         "julian-against-the-galileans-f2b5f6",
-        "julian-panegyric-in-honour-of-the-emper-169f16"
+        "julian-panegyric-in-honour-of-the-emper-169f16",
+        "julian-letters-720b7d"
       ]
     },
     "appendix-vergiliana": {
@@ -37962,7 +38118,8 @@
         "arrian-tactica-7e7433",
         "arrian-cynegeticus-41759c",
         "arrian-periplus-ponti-euxini-9524cf",
-        "arrian-acies-contra-alanos-e2e978"
+        "arrian-acies-contra-alanos-e2e978",
+        "arrian-indica-991ca0"
       ]
     },
     "moschus": {
@@ -38024,7 +38181,8 @@
         "aurelius-prudentius-clem-psychomachia-15db03",
         "aurelius-prudentius-clem-praefatio-b8d117",
         "aurelius-prudentius-clem-dittochaeon-122670",
-        "aurelius-prudentius-clem-liber-peristephanon-42bcd7"
+        "aurelius-prudentius-clem-liber-peristephanon-42bcd7",
+        "aurelius-prudentius-clem-contra-symmachum-43a8d8"
       ]
     },
     "clement-of-alexandria": {
@@ -38429,6 +38587,18 @@
       "name": "Florus, Lucius Annaeus",
       "works": [
         "florus-lucius-annaeus-epitome-rerum-romanorum-e2174f"
+      ]
+    },
+    "harpocration": {
+      "name": "Harpocration",
+      "works": [
+        "harpocration-lexicon-of-the-ten-attic-orators-a57385"
+      ]
+    },
+    "sidonius-apollinaris": {
+      "name": "Sidonius Apollinaris",
+      "works": [
+        "sidonius-apollinaris-carmina-0bc4da"
       ]
     }
   },
@@ -39587,7 +39757,9 @@
         "dionysius-of-halicarnass-on-literary-composition-1d20aa",
         "dionysius-of-halicarnass-on-demosthenes-b4fa20",
         "theocritus-idylls-641bde",
-        "cicero-marcus-tullius-de-inventione-6d4b2c"
+        "cicero-marcus-tullius-de-inventione-6d4b2c",
+        "cicero-marcus-tullius-brutus-be99b0",
+        "cicero-marcus-tullius-orator-a10c4c"
       ]
     },
     "imperial": {
@@ -40109,7 +40281,10 @@
         "seneca-the-elder-excerpta-controversiae-e5fb7a",
         "oppian-of-apamea-cynegetica-19304d",
         "aelius-aristides-orationes-45-9670fd",
-        "florus-lucius-annaeus-epitome-rerum-romanorum-e2174f"
+        "florus-lucius-annaeus-epitome-rerum-romanorum-e2174f",
+        "horace-epistles-b473b3",
+        "arrian-indica-991ca0",
+        "harpocration-lexicon-of-the-ten-attic-orators-a57385"
       ]
     },
     "late-antiquity": {
@@ -40259,7 +40434,10 @@
         "jerome-saint-letters-3da553",
         "procopius-of-caesarea-the-secret-history-historia-arca-715423",
         "tertullian-ad-nationes-437406",
-        "aurelius-prudentius-clem-liber-peristephanon-42bcd7"
+        "aurelius-prudentius-clem-liber-peristephanon-42bcd7",
+        "julian-letters-720b7d",
+        "aurelius-prudentius-clem-contra-symmachum-43a8d8",
+        "sidonius-apollinaris-carmina-0bc4da"
       ]
     },
     "renaissance": {
@@ -40347,7 +40525,8 @@
         "claudius-aelianus-on-the-nature-of-animals-4de941",
         "claudius-aelianus-varia-historia-58d754",
         "flavius-philostratus-lives-of-the-sophists-018b19",
-        "seneca-the-elder-excerpta-controversiae-e5fb7a"
+        "seneca-the-elder-excerpta-controversiae-e5fb7a",
+        "sidonius-apollinaris-carmina-0bc4da"
       ]
     },
     "indic": {
@@ -40726,7 +40905,8 @@
         "procopius-of-caesarea-the-secret-history-historia-arca-715423",
         "dionysius-of-halicarnass-on-literary-composition-1d20aa",
         "dionysius-of-halicarnass-on-demosthenes-b4fa20",
-        "florus-lucius-annaeus-epitome-rerum-romanorum-e2174f"
+        "florus-lucius-annaeus-epitome-rerum-romanorum-e2174f",
+        "arrian-indica-991ca0"
       ]
     },
     "classics": {
@@ -41667,7 +41847,11 @@
         "aelius-aristides-orationes-13-05ae1f",
         "ovid-ex-ponto-6fcb5f",
         "aelius-aristides-orationes-45-9670fd",
-        "cicero-marcus-tullius-de-inventione-6d4b2c"
+        "cicero-marcus-tullius-de-inventione-6d4b2c",
+        "horace-epistles-b473b3",
+        "cicero-marcus-tullius-brutus-be99b0",
+        "julian-letters-720b7d",
+        "cicero-marcus-tullius-orator-a10c4c"
       ]
     },
     "political-theory": {
@@ -42209,7 +42393,8 @@
         "propertius-sextus-elegiae-8d3f25",
         "oppian-of-apamea-cynegetica-19304d",
         "theocritus-idylls-641bde",
-        "aurelius-prudentius-clem-liber-peristephanon-42bcd7"
+        "aurelius-prudentius-clem-liber-peristephanon-42bcd7",
+        "aurelius-prudentius-clem-contra-symmachum-43a8d8"
       ]
     },
     "literary-criticism": {
@@ -42264,6 +42449,12 @@
       "name": "Cookery",
       "works": [
         "apicius-de-re-coquinaria-bfd32c"
+      ]
+    },
+    "reference": {
+      "name": "Reference",
+      "works": [
+        "harpocration-lexicon-of-the-ten-attic-orators-a57385"
       ]
     }
   },
@@ -43144,7 +43335,10 @@
         "flavius-philostratus-lives-of-the-sophists-018b19",
         "oppian-of-apamea-cynegetica-19304d",
         "theocritus-idylls-641bde",
-        "aelius-aristides-orationes-45-9670fd"
+        "aelius-aristides-orationes-45-9670fd",
+        "julian-letters-720b7d",
+        "arrian-indica-991ca0",
+        "harpocration-lexicon-of-the-ten-attic-orators-a57385"
       ]
     },
     "latin": {
@@ -43529,7 +43723,12 @@
         "seneca-the-elder-excerpta-controversiae-e5fb7a",
         "aurelius-prudentius-clem-liber-peristephanon-42bcd7",
         "cicero-marcus-tullius-de-inventione-6d4b2c",
-        "florus-lucius-annaeus-epitome-rerum-romanorum-e2174f"
+        "florus-lucius-annaeus-epitome-rerum-romanorum-e2174f",
+        "horace-epistles-b473b3",
+        "cicero-marcus-tullius-brutus-be99b0",
+        "cicero-marcus-tullius-orator-a10c4c",
+        "aurelius-prudentius-clem-contra-symmachum-43a8d8",
+        "sidonius-apollinaris-carmina-0bc4da"
       ]
     },
     "english": {

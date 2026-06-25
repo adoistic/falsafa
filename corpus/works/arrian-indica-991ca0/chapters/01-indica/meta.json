@@ -1,0 +1,38 @@
+{
+  "work_slug": "arrian-indica-991ca0",
+  "work_title": "Indica",
+  "chapter_number": 1,
+  "chapter_title": "Indica",
+  "chapter_slug": "01-indica",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "13299494-73cc-575e-a412-9f751c33e8b2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 14234,
+      "paragraph_count": 443,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0074.tlg002"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "62bba160-1e41-5a0a-84e3-0fc9040d9d26",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 17546,
+      "paragraph_count": 401,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

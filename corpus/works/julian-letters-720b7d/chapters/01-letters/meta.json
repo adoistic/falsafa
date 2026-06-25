@@ -1,0 +1,38 @@
+{
+  "work_slug": "julian-letters-720b7d",
+  "work_title": "Letters",
+  "chapter_number": 1,
+  "chapter_title": "Letters",
+  "chapter_slug": "01-letters",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3f2babbf-eda9-5f93-b85c-d9acdb5e2426",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 27388,
+      "paragraph_count": 149,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2003.tlg013"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c4c6c197-4755-5302-992d-de4284f1aefc",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 37344,
+      "paragraph_count": 232,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

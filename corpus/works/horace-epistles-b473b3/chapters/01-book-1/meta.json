@@ -1,0 +1,38 @@
+{
+  "work_slug": "horace-epistles-b473b3",
+  "work_title": "Epistles",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01-book-1",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fdf34385-5d25-5779-b7e7-cb20e229b46f",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6735,
+      "paragraph_count": 1006,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0893.phi005"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0fbec5b9-f851-5bb8-9de6-804da0d33829",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10713,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
