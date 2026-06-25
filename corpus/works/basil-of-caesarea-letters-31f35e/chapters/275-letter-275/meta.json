@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 275,
+  "chapter_title": "Letter 275",
+  "chapter_slug": "275-letter-275",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "51d8e787-87d4-5cb6-b364-e8c3a503092b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 108,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5223ca4b-74a7-5b19-8485-684546cf3ead",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 134,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

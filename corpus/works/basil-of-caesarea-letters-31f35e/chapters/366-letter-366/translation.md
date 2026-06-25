@@ -1,0 +1,28 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 366
+chapter_title: Letter 366
+chapter_slug: "366-letter-366"
+variant_id: "4109a09f-4f22-537d-8f28-fc638bf6552d"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 579
+translator: thothica
+---
+
+366. Basil to Urbicius the monk, on continence
+
+You do well in marking out straight boundaries for us, that we may see not only continence but also its fruit. Now its fruit is communion with God. For not to be corrupted is to partake of God, just as to be corrupted is to partake of life. For continence is the denial of the body and a confession toward God. It departs from everything mortal, having, as it were, for a body the Spirit of God; and it makes one mingle with God, having neither rivalry nor envy. For the man who loves a body is envious toward another, but the man who has not taken into his heart the disease of corruption is henceforth strong against every labour, even though he has died as to the body, yet lives in incorruption. And as I learn this perfectly, continence seems to me to be God, because he desires nothing, but has all things in himself; and he reaches out after nothing, and has no passion in his eyes, nor in his ears, but, being in need of nothing, is wholly full throughout. Desire is a disease of the soul, but continence is its health.
+
+Continence must be looked for, however, not in respect of one form only — such as in matters of sexual pleasure — but also in respect of all the other things that the soul desires wrongly, not being content with what is necessary. Envy arises on account of gold, and countless wrongs on account of other desires. And not to be drunk is continence, and not to burst from over-filling oneself. And to master the body is continence, and to rule over wicked reasonings. How often has a thought troubled the soul, being neither good nor true, and has divided the heart into worrying emptily over many things! Continence sets wholly free, at once healing and being a power; for it does not teach self-control, but supplies it.
+
+Continence is a grace of God. Jesus appeared as continence, having become light to land and sea alike. For neither did the land bear him up, nor the depths of the sea; but as he trod upon the sea, so he did not weigh down the land. For if from being corrupted comes dying, and from having no corruption comes not dying, then Jesus was working Godhead, not mortality. He ate and drank in a manner of his own, not giving back the food; so great was the power of continence in him, that the nourishment was not corrupted within him, since he himself did not have corruption.
+
+If but a little continence be in us, we are higher than all things. For we have heard that angels became incontinent and were dragged down from heaven through desire. For they were taken captive — they did not descend; for what was this disease doing there, unless some such eye was there? For this reason I said: if we have a little continence, and do not love this life but the ages above, we shall be found there, where we send up our mind; for the mind seems to be that eye which is able to see things unseen. For it is said: "The mind sees, and the mind hears." These things, which seem to you few, I have written at length, because each word is mind; and I know that, when you have read, you will perceive it.

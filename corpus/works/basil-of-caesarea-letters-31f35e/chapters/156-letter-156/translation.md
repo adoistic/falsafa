@@ -1,0 +1,28 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 156
+chapter_title: Letter 156
+chapter_slug: "156-letter-156"
+variant_id: "c478987f-ddf8-51cc-b3a3-02752695ba6c"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 827
+translator: thothica
+---
+
+156. To Evagrius, the presbyter
+
+So far was I from being vexed at the length of your letter, that, because of the pleasure of reading it, the letter even seemed to me short. For what is a sweeter thing to hear than the name of peace? Or what is more becoming to holy men, and more pleasing to the Lord, than to take counsel for such things? To you, then, may the Lord grant the reward of peacemaking, since your purpose is so good and you press so earnestly upon a blessed work. And as for me, honoured friend, believe that, so far as having purposed and prayed to see one day the time when all who are not divided from one another in their thoughts shall make up one assembly, I yield the first place to no one in zeal for these things. For we should be, in truth, the most absurd of all men, if we took delight in the schisms and dissections of the churches, and did not count the joining together of the members of the body of Christ as the greatest of goods. But know that, as great as our desire is, so great is the deficiency of our power. For your perfect understanding is not unaware that disorders strengthened by time first need time for their correction, and then a strong and more vigorous treatment, if one is to reach to their very depth, so as to root out utterly the maladies of the sick. You know what I mean, and, if I must speak more plainly, there is nothing to fear.
+
+Self-love, rooted in souls by long habit, one man is unable to remove, nor one letter, nor a brief space of time. For it is impossible that suspicions and the chafings that come from disputes should be wholly removed, unless someone trustworthy mediates the peace. And if grace flowed upon us, and we were able by word and deed and by spiritual gifts to win over those who are set against us, then we ought to have dared so great an undertaking. Yet perhaps not even then would you have advised that I should come alone to the work of correction, since there is, by the grace of God, a bishop to whom the care of the church belongs first of all; who cannot himself come to me, and for me to travel meanwhile, because of the winter, is not easy, or rather wholly impossible — not only because my body has given out under a long illness, but because the passes over the Armenian mountains become, a little later, impassable even to those in the full vigour of their age. I will not, however, decline to indicate these things to him by letter. Yet I do not expect that anything worth mentioning will come of the letters, both because I take the measure of the man's exactness, and because of the very nature of letters: for the written word, sent off, has no power to win a man over plainly. Much must be said, much must be heard in reply, the objections that arise must be resolved, and counter-arguments brought against the points raised in opposition — none of which the word in a letter can do, lying idle and lifeless, scattered upon the paper.
+
+Nevertheless, as I said, I will not shrink from writing. But know, my truly most reverent and much-longed-for brother, that I have, by the grace of God, no private contention with anyone. Nor have I busied myself to learn the charges to which each man is, or is said to be, liable. So you ought to attend to my mind in this way: that I can do nothing out of partiality, nor am I prejudiced toward slander against anyone. Only, may it be the Lord's good pleasure that all things be done in the manner of the Church and in due order.
+
+But our most beloved son Dorotheus, the fellow-deacon, grieved me by reporting concerning your Reverence that you were reluctant to share in the assembly with him — though such was not what we discussed, if I remember anything. To send anyone to the West is for me wholly impossible, since I have no one suited to this ministry. But of the brothers there, if anyone chooses to take up the labour on behalf of the churches, he knows of course both to whom he will go, and with what aim, and from whom he is to be furnished with letters, and of what kind. For when I have looked all around me, I see no one with me. And I pray indeed to be numbered among the seven thousand who have not bowed the knee to Baal. Except that those who lay their hands upon all men seek my life too. Yet not for that reason shall we fail in any of the zeal we owe to the churches of God.

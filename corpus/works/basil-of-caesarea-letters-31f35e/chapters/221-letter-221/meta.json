@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 221,
+  "chapter_title": "Letter 221",
+  "chapter_slug": "221-letter-221",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d5bf1f4a-7ab2-5e3b-abbe-721737e5fbc7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 190,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c1cbb190-1881-59fb-a12a-6599bf8b400b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 267,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

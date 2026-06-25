@@ -2,10 +2,10 @@
   "generated_at": "2026-06-15T05:21:36.435Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1770,
-    "authors": 417,
+    "works": 1773,
+    "authors": 418,
     "eras": 10,
-    "genres": 28,
+    "genres": 29,
     "languages": 9
   },
   "works": [
@@ -33638,6 +33638,63 @@
       "difficulty": "Advanced",
       "description": "Nonnus of Panopolis's Dionysiaca, translated from the Greek by Thothica, with the Greek original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "cato-marcus-porcius-de-agri-cultura-49cfe3",
+      "title": "De Agri Cultura",
+      "author": "Cato, Marcus Porcius",
+      "author_slug": "cato-marcus-porcius",
+      "era": "Classical",
+      "era_slug": "classical",
+      "genre": "Agriculture",
+      "genre_slug": "agriculture",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Cato, Marcus Porcius's De Agri Cultura, translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "titus-livius-livy-ab-urbe-condita-periochae-f48fbc",
+      "title": "Ab Urbe Condita (Periochae)",
+      "author": "Titus Livius (Livy)",
+      "author_slug": "titus-livius-livy",
+      "era": "Imperial",
+      "era_slug": "imperial",
+      "genre": "History",
+      "genre_slug": "history",
+      "language": "Latin",
+      "language_slug": "latin",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Titus Livius (Livy)'s Ab Urbe Condita (Periochae), translated from the Latin by Thothica, with the Latin original.",
+      "thothica_role": "catalog"
+    },
+    {
+      "slug": "basil-of-caesarea-letters-31f35e",
+      "title": "Letters",
+      "author": "Basil of Caesarea",
+      "author_slug": "basil-of-caesarea",
+      "era": "Late Antiquity",
+      "era_slug": "late-antiquity",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Greek",
+      "language_slug": "greek",
+      "language_direction": "ltr",
+      "total_logical_chapters": 368,
+      "total_variant_entries": 736,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Basil of Caesarea's Letters, translated from the Greek by Thothica, with the Greek original.",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -35121,7 +35178,8 @@
         "titus-livius-livy-history-of-rome-books-21-45-43-935e18",
         "titus-livius-livy-history-of-rome-books-21-45-44-a01632",
         "titus-livius-livy-history-of-rome-books-21-45-45-66362d",
-        "titus-livius-livy-ab-urbe-condita-882964"
+        "titus-livius-livy-ab-urbe-condita-882964",
+        "titus-livius-livy-ab-urbe-condita-periochae-f48fbc"
       ]
     },
     "petronius-arbiter": {
@@ -37340,7 +37398,8 @@
     "basil-of-caesarea": {
       "name": "Basil of Caesarea",
       "works": [
-        "basil-of-caesarea-de-legendis-gentilium-libris-02670d"
+        "basil-of-caesarea-de-legendis-gentilium-libris-02670d",
+        "basil-of-caesarea-letters-31f35e"
       ]
     },
     "callistratus": {
@@ -37494,6 +37553,12 @@
       "name": "Nonnus of Panopolis",
       "works": [
         "nonnus-of-panopolis-dionysiaca-3222bb"
+      ]
+    },
+    "cato-marcus-porcius": {
+      "name": "Cato, Marcus Porcius",
+      "works": [
+        "cato-marcus-porcius-de-agri-cultura-49cfe3"
       ]
     }
   },
@@ -38445,7 +38510,8 @@
         "aeneas-tacticus-poliorcetica-14aee7",
         "aristophanes-wasps-b78fac",
         "aristophanes-frogs-e995cc",
-        "aristotle-constitution-of-the-athenians-7282b2"
+        "aristotle-constitution-of-the-athenians-7282b2",
+        "cato-marcus-porcius-de-agri-cultura-49cfe3"
       ]
     },
     "hellenistic": {
@@ -39139,7 +39205,8 @@
         "seneca-the-elder-controversiae-ce0606",
         "pliny-the-younger-letters-3236cd",
         "claudius-aelianus-on-the-nature-of-animals-4de941",
-        "chariton-of-aphrodisias-callirhoe-8d335b"
+        "chariton-of-aphrodisias-callirhoe-8d335b",
+        "titus-livius-livy-ab-urbe-condita-periochae-f48fbc"
       ]
     },
     "late-antiquity": {
@@ -39281,7 +39348,8 @@
         "tertullian-adversus-hermogenem-a45bf7",
         "tertullian-adversus-praxean-0ccff9",
         "tertullian-de-pudicitia-86e2b7",
-        "nonnus-of-panopolis-dionysiaca-3222bb"
+        "nonnus-of-panopolis-dionysiaca-3222bb",
+        "basil-of-caesarea-letters-31f35e"
       ]
     },
     "renaissance": {
@@ -39618,7 +39686,8 @@
         "tertullian-adversus-judaeos-13912a",
         "tertullian-adversus-hermogenem-a45bf7",
         "tertullian-adversus-praxean-0ccff9",
-        "tertullian-de-pudicitia-86e2b7"
+        "tertullian-de-pudicitia-86e2b7",
+        "basil-of-caesarea-letters-31f35e"
       ]
     },
     "history": {
@@ -39732,7 +39801,8 @@
         "valerius-maximus-facta-et-dicta-memorabilia-86155b",
         "scriptores-historiae-aug-alexander-severus-d95b45",
         "quintus-curtius-rufus-histories-of-alexander-the-great-476171",
-        "pliny-the-younger-letters-3236cd"
+        "pliny-the-younger-letters-3236cd",
+        "titus-livius-livy-ab-urbe-condita-periochae-f48fbc"
       ]
     },
     "classics": {
@@ -41229,6 +41299,12 @@
       "works": [
         "demetrius-of-phaleron-on-style-4c75b6"
       ]
+    },
+    "agriculture": {
+      "name": "Agriculture",
+      "works": [
+        "cato-marcus-porcius-de-agri-cultura-49cfe3"
+      ]
     }
   },
   "languages": {
@@ -42086,7 +42162,8 @@
         "claudius-aelianus-on-the-nature-of-animals-4de941",
         "apollonius-rhodius-argonautica-fbd514",
         "chariton-of-aphrodisias-callirhoe-8d335b",
-        "nonnus-of-panopolis-dionysiaca-3222bb"
+        "nonnus-of-panopolis-dionysiaca-3222bb",
+        "basil-of-caesarea-letters-31f35e"
       ]
     },
     "latin": {
@@ -42450,7 +42527,9 @@
         "seneca-the-elder-controversiae-ce0606",
         "pliny-the-younger-letters-3236cd",
         "tertullian-adversus-praxean-0ccff9",
-        "tertullian-de-pudicitia-86e2b7"
+        "tertullian-de-pudicitia-86e2b7",
+        "cato-marcus-porcius-de-agri-cultura-49cfe3",
+        "titus-livius-livy-ab-urbe-condita-periochae-f48fbc"
       ]
     },
     "english": {

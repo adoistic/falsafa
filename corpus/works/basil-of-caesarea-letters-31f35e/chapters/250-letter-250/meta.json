@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 250,
+  "chapter_title": "Letter 250",
+  "chapter_slug": "250-letter-250",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6e12af15-30ab-56f4-b190-24b7d02566b4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 318,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7d4ed197-66ea-5a84-a710-f315160e91e3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 427,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

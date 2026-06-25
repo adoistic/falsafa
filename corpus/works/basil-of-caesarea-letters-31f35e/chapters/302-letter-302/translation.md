@@ -1,0 +1,26 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 302
+chapter_title: Letter 302
+chapter_slug: "302-letter-302"
+variant_id: "bc536215-d1b1-549f-8a12-2a4c46d011b1"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 634
+translator: thothica
+---
+
+302. To the wife of Brison, a letter of consolation
+
+How greatly we groaned at the news of the affliction touching Brison, the best of men—what need is there even to speak of it? For surely no one has a heart so stony that, having come to know that man and then heard that he had been suddenly snatched away from among the living, he would not have reckoned the loss of him a common loss to life itself. And in us the grief was at once succeeded by concern for you, when we reflected that, if to those far removed from his intimacy the event was so heavy and hard to bear, how natural it was that your soul should be afflicted by the blow—a soul by nature so kind, and so ready for fellow-feeling through the gentleness of its disposition, and so subject to the suffering that you feel, as it were, a being cut in two at the separation from your spouse. For if in truth, according to the word of the Lord, they are no longer two but one flesh, plainly such a parting is no less painful than if half of our own body were torn away.
+
+But the griefs are of this kind, and greater than these; what then is the consolation for what has happened? First, the law laid down for us by God, which has prevailed from the beginning: that whoever has come into being must in due season depart from life. If, then, human affairs have been so ordered from Adam down to us, let us not be vexed at the common laws of our nature, but accept the dispensation of God concerning us—who ordained that this noble and unconquered soul should depart from life not with the body wasted by disease nor withered by time, but should lay down its life at the height of its prime and in the splendour of its achievements in war. So that we ought not to be vexed because we have been parted from such a man, but rather, because we were counted worthy of life together with such a man, let us give thanks to the Lord—a man whose loss almost the whole Roman dominion felt, whom the emperor recalled, whom the soldiers lamented, and whom those of the highest rank mourned as a true son.
+
+Since, then, he has left you the memory of his own virtue, consider that you have in it a sufficient consolation for your grief. And next, I would have you know this also: that whoever has not sunk under his afflictions, but has borne up the weight of grief through hope in God, has from God a great recompense for his endurance. For we have not been allowed to grieve over those who have fallen asleep as the outsiders do, by the law the Apostle has laid down for us. Let your children too be as living images, consoling you for the absence of the one you long for. So let the occupation of rearing your children draw your soul away from its sorrows; and in taking thought for how you may pass the time that remains to you in a way well-pleasing to the Lord, you will devise a good occupation for your reflections. For the preparation of our defence before our Lord Jesus Christ, and the earnestness to be found numbered among those who love him, is enough to overshadow grief, so that we are not swallowed up by it. May the Lord grant to your heart the comfort that comes from his good Spirit, so that we too, hearing what concerns you, may be relieved, and that you may be a good example to all of your own age and station of the life lived according to virtue.

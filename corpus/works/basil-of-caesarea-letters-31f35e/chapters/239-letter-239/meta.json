@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 239,
+  "chapter_title": "Letter 239",
+  "chapter_slug": "239-letter-239",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3fa409be-b8d4-5888-b559-cfca1d36882e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 512,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a9065082-f732-56c5-8ac9-7952c0a04da3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 686,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

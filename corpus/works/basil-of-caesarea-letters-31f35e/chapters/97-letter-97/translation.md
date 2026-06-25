@@ -1,0 +1,24 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 97
+chapter_title: Letter 97
+chapter_slug: "97-letter-97"
+variant_id: "4cfcd0c9-a52e-5326-9c9d-7092eea61f3e"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 475
+translator: thothica
+---
+
+97. To the council of Tyana.
+
+The Lord, who uncovers deep things and makes manifest the counsels of hearts, has given to the lowly, too, an understanding of devices that are, as some suppose, hard to discern. Nothing, then, has escaped us, nor is any of the things that have been done hidden. Yet we ourselves neither see nor hear anything other than the peace of God and all that leads to it. For even if others are powerful and great and confident in themselves, we are nothing, and worthy of nothing; so that we should never take so much upon ourselves as to think that we can prevail over affairs in isolation, knowing exactly that we have more need of the aid of each one of the brethren than the one hand has of the other. For from the very make of our body the Lord has taught us the necessity of fellowship. When I look at these very members of ours, that not one is sufficient of itself for its activity, how shall I reckon that I am sufficient of myself for the affairs of life? For neither could a foot walk safely without the other supporting it together, nor could an eye see soundly without having the other as its partner and striking, in concert with it, upon the things seen. The hearing is more exact that receives the sound through both passages, and the grasp is stronger through the fellowship of the fingers. And, to put it simply, I see nothing — neither of the things accomplished by nature nor of those accomplished by choice — brought to completion without the harmony of one's fellows; since prayer itself, when it has none in agreement, is far weaker than itself, and the Lord has promised to be in the midst between two or three who call upon Him in concord. And the very work of salvation the Lord undertook, that He might make peace through the blood of His cross, whether the things on earth or the things in the heavens.
+
+So that, for all these reasons, we pray to remain in peace for the days that are left to us, and we ask that our falling asleep may be in peace. For this I have resolved to leave undone no labour whatever, to speak or do nothing lowly, to reckon as nothing the length of a journey, to shrink from no other burdensome thing, in order to attain the rewards of peacemaking. And if anyone follows us as we lead the way in these things, that is best, and the prayer attains its end; but if he draws us toward the opposite, I for my part will not even so depart from my own judgment. And each man will, in the day of recompense, recognize the fruits of his own work.

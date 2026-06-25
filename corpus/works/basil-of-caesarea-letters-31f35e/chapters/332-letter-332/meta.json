@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 332,
+  "chapter_title": "Letter 332",
+  "chapter_slug": "332-letter-332",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4c66627f-6ae6-5fd1-8c79-dc1ff66eba28",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 30,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d390396-75a7-59ea-acb7-5047ea1c6b67",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 46,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

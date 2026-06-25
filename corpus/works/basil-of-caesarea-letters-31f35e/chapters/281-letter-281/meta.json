@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 281,
+  "chapter_title": "Letter 281",
+  "chapter_slug": "281-letter-281",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b3da456a-1f0e-58e9-81a9-55e199be8162",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 102,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b567cbc7-bb20-53c4-bc75-c457aabc56b2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 140,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

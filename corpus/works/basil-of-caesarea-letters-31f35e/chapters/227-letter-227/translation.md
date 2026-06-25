@@ -1,0 +1,26 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 227
+chapter_title: Letter 227
+chapter_slug: "227-letter-227"
+variant_id: "2e339b7a-2201-53ee-8b65-7c1b082a1e26"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 723
+translator: thothica
+---
+
+227. A letter of consolation to the clergy at Coloneia.
+
+And what is so beautiful and so esteemed in the sight of God and of men as perfect love, which we have been taught by the wise Teacher to be the fulfilment of all law? Therefore I commend the ardour of your devotion toward your shepherd. For neither is the loss of a good father bearable to a child who loves his father, nor is the departure of a shepherd and teacher endurable to a church of Christ. So that you give proof of a fine and good disposition in your surpassing affection for your bishop. But this kindness of yours, this heartfelt feeling toward your spiritual father, is acceptable when it is exercised with measure and reason; when it passes beyond bounds, it no longer remains worthy of the same approval.
+
+A good arrangement has been made concerning your most God-beloved brother and fellow-minister Euphronius by those who have been entrusted with the management of the churches—an arrangement necessary for the occasion, profitable both to the church to which he has been transferred and to you yourselves from whom he was taken. Do not think this a human contrivance, nor that it was set in motion by the calculations of men who mind earthly things; rather be assured that those who have the care of God's churches laid upon them did this by the familiar guidance of the Spirit, and take this impulse into your minds, and be eager to bring it to completion. Receive, then, quietly and with thanksgiving what has been done, persuaded of this: that those who do not accept from the churches of God the measures appointed for the churches set themselves against the ordinance of God. Do not contend at law against your mother, the church in Nicopolis. Do not be harsh toward those who have taken up the care of your souls. For while the affairs of Nicopolis hold firm, your portion too will be preserved with it; but if any storm strikes that church, though you should have ten thousand guardians, your portion will be consumed along with the whole. As, then, those who dwell beside rivers, when they see men far off building bulwarks against the streams, know that their own safety is being secured in advance by the warding off of the rivers' assaults, so too those who have now taken up the weight of care for the churches secure your immunity in the guarding of the others; and you will be under shelter from every disturbance, while others receive the onsets of the war. And you ought to consider this also, that he has not cast you off, but has taken on others besides. For we are surely not so envious as to compel a man able to share his gifts with others as well to shut up the grace within you alone and confine it to your own region only. For neither he who walls round a spring and spoils the outflow of water, nor he who prevents an abundant teaching from spreading further, is free from the disease of envy. Let him have, therefore, the care of Nicopolis too, and let your church be an addition to the concerns there. For more labour has come upon the man, but the attention given you is in no way diminished.
+
+But this grieved me greatly and seemed to go beyond all measure: that it was said that, if we fail to obtain what we seek, we will resort to the law-courts and set men over these matters for whom the overthrow of the churches is the sum of their prayers. Let no one, then, carried away by senseless anger, persuade you to utter anything in public, and so let some overthrow arise from this, and the weight of what is done fall back upon the heads of those who furnished the occasion. Rather receive our counsel too, offered to you with a father's heart, and the arrangement of the most God-beloved bishops, made according to the will of God. And wait for us also, who, when we are present—if the Lord works with us—will exhort your reverence in person concerning all that could not be conveyed by letter, and will try to bring you, through the deeds themselves, what consolation is possible.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 159,
+  "chapter_title": "Letter 159",
+  "chapter_slug": "159-letter-159",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7b924656-0f62-560c-8aaf-636f1ce23066",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 493,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d19622d8-c4ab-5cf1-b42d-8108409251e3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 693,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

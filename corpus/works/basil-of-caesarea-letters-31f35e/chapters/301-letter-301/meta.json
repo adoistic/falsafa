@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 301,
+  "chapter_title": "Letter 301",
+  "chapter_slug": "301-letter-301",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ba2eaad1-596e-5a50-bc79-b503aef6db83",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 494,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6c332553-da8e-5a29-a8f0-93c5256616f4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 718,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

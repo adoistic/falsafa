@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 49,
+  "chapter_title": "Letter 49",
+  "chapter_slug": "49-letter-49",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4a7e9b23-4234-5db0-b99d-d6bf0f303645",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 118,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b921155d-fbff-521a-b14b-c61f978114de",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 176,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

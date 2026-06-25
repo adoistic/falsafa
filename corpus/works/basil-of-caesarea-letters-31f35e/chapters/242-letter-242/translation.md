@@ -1,0 +1,26 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 242
+chapter_title: Letter 242
+chapter_slug: "242-letter-242"
+variant_id: "e0839969-7732-5dee-975f-4b3f60c72a2a"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 695
+translator: thothica
+---
+
+242. To those in the West.
+
+Since the holy God has promised to those who hope in him a way out of every affliction, even though we have been caught in the midst of a sea of troubles, and are tormented by the great waves stirred up against us by the spirits of wickedness, nevertheless we hold out in Christ who strengthens us, and we have not relaxed the strain of our zeal for the churches, nor, as in a storm when the surge runs high, have we despaired of our salvation and now await dissolution; rather we still hold to the zeal that is possible for us, knowing that he too who was swallowed by the sea-monster, because he did not despair of himself but cried out to the Lord, was counted worthy of salvation. So we ourselves too, though come to the extremity of troubles, do not let go of our hope in God, but look about on every side for his help. Hence we have looked also to you now, our most honoured brothers, whom we have often expected to appear to us in the season of our afflictions. But falling away from that hope, we too said to ourselves: 'I waited for one to grieve with me, and there was none, and for comforters, and I found none.' For such are our sufferings that they have reached even the ends of our world; and if, when one member suffers, all the members suffer with it, it surely befitted your compassion too to be affected together with us, who have laboured for a long time. For it is not nearness of place, but the conjunction in spirit, that is wont to produce that intimacy which we have believed to exist between us and your love.
+
+Why, then, has there been no letter of comfort, no visitation of brothers, nor any other of the things owed to us by the law of love? For this is now the thirteenth year since the heretical war rose up against us, in which the afflictions of the churches have become greater than any recorded since the Gospel of Christ has been proclaimed. To relate to you each of these in detail we decline, lest the weakness of our speech should enfeeble the vividness of the evils; and at the same time we do not think that you need instruction, having long ago been taught the truth of these matters by report. But the sum of the evil is this: the people, abandoning the houses of prayer, gather in the deserts, a pitiable sight—women, and children, and old men, and others who are weak, in the most violent rains, and in snow and winds and the frost of winter, and likewise in summer under the blaze of the sun, suffering miserably in the open air. And they suffer this because they will not consent to become part of the wicked leaven of Arius.
+
+How could speech set these things vividly before you, unless the very experience and the sight through the eyes should move you to compassion? So we exhort you now at least to stretch out a hand to the churches of the East, already bent to their knees, and to send some men to remind us of the rewards laid up for the endurance of sufferings for Christ. For the familiar word does not work so powerfully as a strange voice produces consolation, especially when it comes from men everywhere known by the grace of God for their highest virtues, such as report proclaims you to be among all men—men who have remained unwounded in the faith, who have kept the apostolic deposit inviolate. But our affairs are not so; rather we have certain men who, from desire of glory and from that self-conceit which most of all overthrows the souls of Christians, have grown bold with certain innovations of words, whence the churches, weakened, like loosened vessels, have received the heretical corruption that flowed into them. But you, our beloved and most longed-for, be physicians to the wounded and trainers of the healthy, healing what is sick and anointing what is sound for piety.

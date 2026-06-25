@@ -1,0 +1,86 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 199
+chapter_title: Letter 199
+chapter_slug: "199-letter-199"
+variant_id: "fbdaf252-f6f4-5371-b2a5-09b67cb8164f"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 3010
+translator: thothica
+---
+
+199. Second Canonical Letter: To Amphilochius, concerning the canons.
+
+Long ago, having answered the questions put to us by your reverence, I did not send off the letter, partly being occupied by a long and dangerous illness, and partly through the lack of those who might serve as bearers. For few among us are both experienced in travel and prepared for such services. So, learning the reasons for the delay, grant us your pardon.
+
+We marvelled at your love of learning together with your humility, that you both consent to learn, though entrusted with the rank of teacher, and to learn from us, who have nothing great in the way of knowledge. But nevertheless, since for the fear of God you consent to do a thing not easily done by another, we too must support your eagerness and good zeal even beyond our power.
+
+You asked us concerning Bianor the presbyter, whether he is acceptable into the clergy on account of the oath. Now I know that I have already set forth a certain common ruling concerning all who took the oath together with him among the clergy of Antioch: namely, that they abstain from the public assemblies, but privately perform the functions of presbyters. And this same thing gives him also leave for his own ministry, since the priesthood is not in Antioch, but in Iconium — which, as you yourself wrote to us, he exchanged for Antioch as his dwelling. That man, then, is acceptable, being required by your reverence to repent of the lightness of the oath which he swore in the presence of the unbeliever, being unable to bear the trouble of that small peril.
+
+Concerning virgins who have fallen — those who have professed to the Lord the life of holiness, and then, through yielding to the passions of the flesh, set at naught their own undertakings — our fathers, dealing simply and gently with the weaknesses of those who slip, laid down that they be received after a year, ranking them in likeness to those married twice. But it seems to me that, since by the grace of God the Church, advancing, becomes stronger, and the order of virgins is now multiplied, we must give close heed both to what the matter shows according to reflection, and to the meaning of Scripture, which it is possible to find out from what follows. For widowhood is less than virginity; therefore the sin of widows is far inferior to that of virgins. Let us see, then, what is written to Timothy by Paul: "But the younger widows refuse; for when they have begun to wax wanton against Christ, they will marry, having condemnation, because they have set at naught their first faith." If, then, a widow is liable to a most grievous condemnation, as having set at naught her faith toward Christ, what must we reckon concerning the virgin, who is a bride of Christ and a sacred vessel dedicated to the Master? It is a great sin even for a slave-woman to give herself to secret marriages and to fill the house with corruption, and through an evil life to outrage her owner; but far more grievous, surely, is it for the bride to become an adulteress, and, dishonouring her union with the bridegroom, to give herself over to licentious pleasures. Therefore the widow is condemned as a corrupted slave, but the virgin is liable to the condemnation of the adulteress. Just as, then, we name the man who joins himself to another's wife an adulterer, not receiving him into communion before he has ceased from the sin, so plainly we shall be disposed also toward the man who has the virgin. But this it is necessary for us first to agree upon: that she is named a virgin who has voluntarily presented herself to the Lord, and renounced marriage, and preferred the life of holiness. And we approve the professions from the time when the age has the completion of reason. For it is not fitting to regard the utterances of childhood as wholly binding in such matters, but she who has passed sixteen or seventeen years, being mistress of her own thoughts, after being examined at length and then persisting, and beseeching with entreaties to be received — she must then be enrolled among the virgins, and the profession of such a one confirmed, and the setting at naught of it punished without reprieve. For parents and brothers and some of the relatives bring forward many girls before the age, not set in motion of themselves toward the celibate life, but managing some worldly affair of their own. Such we must not readily receive, until we have plainly searched out their own mind.
+
+Of the professions of men we have known nothing, except that some have enrolled themselves in the order of monks; who, in their silence, seem to have accepted celibacy. But even in their case I think this ought to come first: that they be questioned, and that an express profession be taken from them, so that, when they change to the flesh-loving and pleasure-loving life, they may be brought under the penalty of fornicators.
+
+As for all the women who, while in heresy, professed virginity, and then afterwards chose marriage instead, I do not think these should be condemned. For "whatever the law says, it speaks to those who are under the law." But those who have not yet come under the yoke of Christ do not even recognize the law-giving of the Master. So they are acceptable to the Church, together with all things, having forgiveness for these matters also through faith in Christ. And in general, what was done in the catechumen's life is not brought to account. But these, of course, the Church does not receive without baptism. So that the privileges of the new birth are most necessary in their case.
+
+If a man living with a wife, when, not content with marriage, he falls into fornication, we judge such a one a fornicator, and we prolong him further in the penalties; we have, however, no canon to subject him to the charge of adultery, if the sin be committed against a woman free from marriage; because of the adulteress it is said, "Being defiled, she shall be defiled, and shall not return to her husband," and "He that keeps an adulteress is foolish and impious." But he who has committed fornication shall not be debarred from living with his own wife. So that the wife shall receive her husband when he returns from fornication, but the husband shall send away the defiled woman from his house. The reason of these things is not easy; but custom has so prevailed.
+
+Those who have wives by abduction: if they have carried off women betrothed to others, they must not be received before the women are taken from them and placed at the disposal of those who first betrothed them, whether they wish to take them or to withdraw. But if anyone carry off a woman unattached, the woman must be taken away and restored to her own people, and the matter committed to the judgement of her relatives, whether they be parents, or brothers, or whoever are guardians of the girl; and if they choose to give her to him, let the union stand; but if they refuse, let no force be used. As for the man who has a wife by corruption, whether secret or more violent, he must of necessity submit to the penalty of fornication. And the penalty fixed for fornicators is in four years. In the first year they must be cast out of the prayers, and weep at the door of the church; in the second, be received to the hearing; in the third, to repentance; in the fourth, to standing with the people, while abstaining from the offering; then they are to be permitted the communion of the Good.
+
+Concerning those who marry two sisters, or women who marry two brothers, a little letter of ours has been issued, of which we have sent a copy to your reverence. But he who has taken his own brother's wife shall not be received before he withdraws from her.
+
+A widow enrolled in the number of widows — that is, one supported by the Church — the Apostle judged should be overlooked if she marries. But upon a man who has lost his wife no law is imposed, but the penalty of those twice-married is enough for such a one. The widow, however, who has reached sixty years, if she choose to live again with a husband, shall not be deemed worthy of the communion of the Good, until she ceases from the passion of uncleanness. But if we number her before sixty years, the charge is ours, not the woman's.
+
+He who keeps as a wife the woman corrupted by himself shall undergo the penalty for the corruption, but shall be permitted to have the woman.
+
+Fornication is not marriage, nor even the beginning of marriage. So that, if it be possible for those joined in fornication to be separated, this is best. But if they cleave in every way to the union, let them acknowledge the penalty of fornication, but let them be left alone, lest something worse happen.
+
+Concerning the presbyter who through ignorance was entangled in an unlawful marriage, I have defined what was necessary: that he share in the seat, but abstain from the rest of the functions. For pardon is enough for such a one. But for him to bless another, who is bound to tend his own wounds, is inconsistent. For a blessing is the imparting of sanctification; and he who does not have this, because of the fall arising from ignorance, how shall he impart it to another? Let him, then, bless neither publicly nor privately, nor distribute the body of Christ to others, nor perform any other ministry; but, content with the presidency, let him weep to the Lord that the transgression arising from ignorance may be forgiven him.
+
+This, indeed, seemed to me laughable: that someone had vowed to abstain from swine's flesh. So deign to teach them to abstain from untaught prayers and vows; but allow the use to be a matter of indifference. For no creature of God is to be rejected, if it is received with thanksgiving. So the vow is ridiculous, and the abstinence is not necessary.
+
+As for rulers swearing to do harm to their subjects, this too ought by all means to be remedied. And the remedy of these things is twofold: one, that they be taught not to swear rashly; the other, that they not persist in their evil judgements. So let one who has been caught beforehand by an oath into harming another show repentance for the rashness of the oath, but let him not, under the pretext of piety, confirm his own wickedness. For it did not profit Herod to keep his oath, who, that he might not be forsworn forsooth, became the murderer of the prophet. The oath is once for all forbidden; but far more, surely, is it likely that one made for an evil purpose has been condemned. So the man who swears must change his mind, not be zealous to confirm his own impious act. For examine the absurdity more broadly. If someone should swear to gouge out his brother's eyes, would it be good for him to bring such a thing to deed? If someone should swear to murder? If someone, in general, should swear to transgress some commandment? "For I have sworn and resolved" — not to commit sin, but "to keep the judgements of your righteousness." And just as the commandment must be confirmed by unalterable resolves, so sin must in every way be annulled and made to disappear.
+
+Concerning those who carry off women, we have no ancient canon, but we have made our own judgement: that they themselves, and those who help them in the abduction, be excluded from the prayers for three years. But what is done without violence is not punishable, when no corruption nor theft has preceded the act. And the widow is her own mistress, and it rests with her whether to follow. So we need not concern ourselves with appearances. The woman who, when her husband has withdrawn and is missing, before she is assured of his death, lives with another, commits adultery.
+
+Clergy who commit a sin unto death are degraded from their grade, but are not excluded from the communion of the laity; for "you shall not take vengeance twice for the same offence." The woman who has given birth on the road and neglected the offspring shall be subject to the charge of murder.
+
+Women who have committed adultery and confess it for piety's sake, or are in any way convicted, our fathers commanded not to be made public, lest we provide a cause of death to those convicted; but they ordered them to stand without communion until the time of repentance be completed.
+
+In the case of the husband abandoned by his wife, one must consider the cause of the abandonment; and if it appear that she withdrew without reason, he is worthy of pardon, but she of penalty. And the pardon will be given to him for the communion of the Church.
+
+Soldiers' wives who have married while their husbands are missing are subject to the same principle as those who, on account of their husbands' being away from home, did not wait for their return; except that the matter has some pardon here, because the suspicion of death is greater.
+
+The man who marries a woman after she has been taken away from another will be charged with adultery as regards the first, but as regards the second will be free from blame.
+
+Girls who follow a man against their father's will commit fornication; but when the parents are reconciled, the deed seems to receive healing. They are not, however, at once restored to communion, but shall be under penalty for three years.
+
+The woman who lives with an adulterer is an adulteress the whole time.
+
+The woman who gives herself to a man against the will of her master committed fornication; but she who afterwards made use of an open marriage was married. So that the former is fornication, but the latter is marriage. For the agreements of those under authority have nothing binding.
+
+The woman who in her widowhood has authority over herself is without blame in living with a man, if there is no one to break up the union; the Apostle saying, "But if her husband die, she is free to be married to whom she will, only in the Lord."
+
+Marriages without those in authority are fornications. So that, while a father or master is living, those who join together are not free from blame. But when the masters consent to the union, then it receives the validity of marriage.
+
+He who has given a deadly blow to his neighbour is a murderer, whether he began the blow or defended himself.
+
+The deaconess who has committed fornication with a Greek is acceptable to repentance, but shall be received to the offering in the seventh year — that is, if she lives in purity. But the Greek who, after the faith, returns again to sacrilege turns back to the vomit. We, however, no longer permit the body of the deaconess, as consecrated, to be in fleshly use. If anyone, having taken the name of Christianity, outrages Christ, he gets no profit from the appellation.
+
+The woman who, in ignorance, married the man abandoned for a time by his wife, and was then dismissed because the former wife returned to him, committed fornication, but in ignorance. She shall not, therefore, be barred from marriage. But it is better if she remain as she is.
+
+Encratites and Sackcloth-wearers and Apotactites are not subject to the same principle as the Novatians, because concerning the latter a canon has been issued, though a different one; but the matters concerning these have been passed over in silence. We, however, by one principle rebaptize such people. But if the rebaptism is forbidden among you, as indeed it is among the Romans, for the sake of some policy, yet let our principle have force. For since their heresy is, as it were, an offshoot of the Marcionists, who abhor marriage and turn away from wine, and say that the creation of God is defiled, we do not receive them into the Church unless they are baptized into our baptism. For let them not say, "We were baptized into Father and Son and Holy Spirit," who suppose God to be the maker of evils, on a par with Marcion and the rest of the heresies. So that, if this be agreeable, several bishops must come together in one place and so set forth the canon, that both the one who acts may be without danger, and the one who answers may have credit in his answer concerning such matters.
+
+The woman abandoned by her husband, in my judgement, ought to remain. For if the Lord said that "if anyone forsakes his wife except for the cause of fornication, he makes her commit adultery," by naming her an adulteress he excluded her from fellowship with another. For how can the husband be liable, as the cause of adultery, while the woman is blameless — she who has been called an adulteress by the Lord on account of her fellowship with another man?
+
+Corruptions that come about by compulsion shall be without blame. So that even the slave-woman, if she was forced by her own master, is without blame.
+
+There is no law of third marriage. So that a third marriage is not contracted by law. Such things we regard as defilements of the Church; but we do not subject them to public condemnations, as being preferable to unrestrained fornication.

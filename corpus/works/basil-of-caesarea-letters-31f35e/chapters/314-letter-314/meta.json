@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 314,
+  "chapter_title": "Letter 314",
+  "chapter_slug": "314-letter-314",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bcd02586-1737-5bde-8786-c0f637c8d554",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 130,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5eec8257-a657-54dd-bb24-569cb6791211",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 186,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

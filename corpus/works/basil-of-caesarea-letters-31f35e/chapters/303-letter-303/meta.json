@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 303,
+  "chapter_title": "Letter 303",
+  "chapter_slug": "303-letter-303",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "925d7f39-569f-5a3f-a746-dcd717a76150",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 57,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1c574764-4665-5c7f-b8f3-2b2f589acea2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 97,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

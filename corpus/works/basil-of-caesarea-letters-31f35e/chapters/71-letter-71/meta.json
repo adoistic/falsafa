@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 71,
+  "chapter_title": "Letter 71",
+  "chapter_slug": "71-letter-71",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a16ab883-acad-5c65-9a96-c005109ad460",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 503,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8f31066-e566-5b75-95c3-2d802da4a8d6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 672,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 114,
+  "chapter_title": "Letter 114",
+  "chapter_slug": "114-letter-114",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4a261d6b-7c0b-56d3-ae61-40933a2e0a75",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 345,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "055628d2-38df-54ac-9fc6-35d09eab58a5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 443,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

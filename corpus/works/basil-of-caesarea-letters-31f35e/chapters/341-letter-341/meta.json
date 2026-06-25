@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 341,
+  "chapter_title": "Letter 341",
+  "chapter_slug": "341-letter-341",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8700547a-b600-563e-ac04-d277c7dce3ac",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 75,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "552bf241-ddc9-52d6-bb87-942bcf91efc5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 116,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

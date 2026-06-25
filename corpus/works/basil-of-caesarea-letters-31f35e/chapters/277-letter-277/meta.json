@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 277,
+  "chapter_title": "Letter 277",
+  "chapter_slug": "277-letter-277",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7bbef1bf-7898-5c80-bdea-6abd20619d38",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 322,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ff0a540b-54fa-566e-9711-fd51df37811c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 437,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 40,
+  "chapter_title": "Letter 40",
+  "chapter_slug": "40-letter-40",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "51028b86-004e-5b9a-a0db-02bd56a08124",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 300,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c1518a2c-4e8c-5ace-b1f8-83f4bb2c0082",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 429,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

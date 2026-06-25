@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 140,
+  "chapter_title": "Letter 140",
+  "chapter_slug": "140-letter-140",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "69299cc4-29f3-53f0-8a19-ce87b9fb6513",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 592,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54d5f78c-8472-59c7-8a0b-9c5412a3e8ed",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 777,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

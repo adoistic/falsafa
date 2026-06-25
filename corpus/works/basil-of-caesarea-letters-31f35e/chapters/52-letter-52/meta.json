@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 52,
+  "chapter_title": "Letter 52",
+  "chapter_slug": "52-letter-52",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "afa132ac-873f-5b68-9543-e98134dfc4ef",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 878,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5eaec757-0ffc-5e9f-b4d5-04787ce7a523",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1152,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

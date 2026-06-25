@@ -1,0 +1,28 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 44
+chapter_title: Letter 44
+chapter_slug: "44-letter-44"
+variant_id: "8014b2ca-581e-55a7-9ed8-dec2372fac97"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 926
+translator: thothica
+---
+
+44. To a monk who had fallen away.
+
+We do not bid you "rejoice," because there is no rejoicing for the impious. For unbelief still holds me, and it does not come into my heart that you have done so great an outrage and so vast a deed, if indeed, to all appearance, it now stands thus with everyone. For I marvel how so great wisdom was swallowed up, how so great exactness was dissolved, whence so great a blindness was poured around you, how, having thought out nothing at all, you wrought such and so great a ruin of souls. For if this is true, you have handed over your own soul also to the abyss, and you have slackened the strength of all who hear of this impiety. You have set aside the faith, you have missed the good contest. Therefore I grieve over you. For what priest, hearing it, will not lament? What churchman is not stricken? What layman is not gloomy? What ascetic does not mourn? Perhaps even the sun darkened at your fall, and the powers of the heavens were shaken at your ruin. Even the senseless stones wept at your madness, and even the enemies wept at the excess of your lawlessness.
+
+Oh, the great hardness! Oh, the dreadful brutality! You did not fear God, you did not reverence men, you were not abashed before friends; but all together you wrecked, all together you were despoiled. Therefore again I grieve over you, wretched one. You who proclaimed to all the strength of the kingdom have fallen from the kingdom. You who instilled in all the fear of teaching had no fear of God before your eyes. You who preached holiness are found accursed. You who took pride in possessing nothing are found pilfering money. You who, by your instruction, set forth the chastisement of God have yourself procured chastisement beforehand for yourself. How shall I lament you? How shall I grieve over you? How has the morning star, that rose at dawn, fallen and been shattered upon the earth? The two ears of everyone who hears will ring. How has the Nazarite, who shone above gold, become darker than soot? How has the precious son of Zion become a useless vessel? He whose memory of the divine Scriptures was spoken of by all, today has his memorial perished with a crash. The keen-witted has swiftly perished. The man of much understanding has wrought an intricate sin. For those who were profited by your teaching have been harmed by your ruin. Those who lent their ears to your discourse have stopped their ears at your ruin. And I, lamenting and gloomy, and undone on every side, and eating ashes as bread, and having cast sackcloth upon my wound, recite to you such eulogies; or rather, composing funeral discourses, I continue uncomforted and without remedy; for comfort is hidden from my eyes, and there is no salve to lay on, neither oil nor bandages; for my wound is grievous. Whence shall I be healed?
+
+If, then, any hope of salvation still remains to you, if any slight memory of God, if any longing for the good things to come, if any fear of the chastisements stored up for the impenitent, sober yourself quickly, lift up your eyes to heaven, come to your senses, cease from your wickedness, shake off the drunkenness poured around you, rise up against him who cast you down. Be strong to rise up from the earth. Remember the good shepherd, that, pursuing, he will rescue you. Even if it be but two legs, or the lobe of an ear, leap away from him who wounded you. Remember the compassions of God, that he heals with oil and wine. Do not despair of salvation. Take up the memory of the things written, that he who falls rises again, and he who turns away returns; the stricken is healed, the prey of the beast escapes, he who confesses is not cast out. For the Lord does not will the death of the sinner, so much as that he should turn and live. Do not, as though fallen into a depth of evils, despise it.
+
+It is a time of forbearance, a time of long-suffering, a time of healing, a time of correction. Have you slipped? Rouse yourself. Have you sinned? Be still. Do not stand in the way of sinners, but leap away. For when, having turned back, you groan, then you will be saved. For out of toils comes health, and out of sweats comes salvation. See, then, that you do not, in wishing to keep certain compacts with men, transgress your compacts with God, which you confessed before many witnesses. Do not, then, on account of any human reasonings, shrink from coming to me. For I will take up my dead and lament him, I will heal, I will weep bitterly over the affliction of the daughter of my people. All receive you, all will toil with you. Do not give up; remember the days of old. There is salvation, there is correction. Take courage, do not despair. There is no law condemning you to death without mercies, but grace that defers the chastisement, awaiting the correction. The doors are not yet shut; the bridegroom hears; sin does not have dominion. Wrestle again; do not be slack; and have pity on yourself, and on us all, in Christ Jesus our Lord, to whom be the glory and the might, now and ever, unto the ages of ages. Amen.

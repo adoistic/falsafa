@@ -1,0 +1,22 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 345
+chapter_title: Letter 345
+chapter_slug: "345-letter-345"
+variant_id: "7bb43324-36f6-5774-a722-582b0f5074ca"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 438
+translator: thothica
+---
+
+345. Libanius to Basil
+I think I need an apology rather for not having begun to write to you long ago than an excuse now for having begun to do so. For I am that very man who used to run to meet you whenever you appeared, and most gladly held out my ears to the stream of your tongue, and rejoiced in your speaking, and parted from you only with difficulty, and used to say to my companions: "This man is fairer than the daughters of Achelous by as much as he charms in the same way they do, but harms not as they do." And it is a small thing not to harm; rather, that this man's strains are a gain to him who receives them is manifest. That I, then, being of such a mind, and believing myself to be loved, and reckoned to have some skill in speech, should not dare to write—this would be the height of sloth, and would at the same time be to do myself an injury. For it is plain that you will requite my small and poor letter with a fine and great one, and will take care, surely, not to wrong me a second time. And I think that many will cry out at the word and will gather round, exclaiming at the matter: "Has Basil done any wrong, even a small one? Why then, so has Aeacus, and Minos, and his brother as well!"
+But I grant that in all else you have conquered—for who has seen you and not envied you? Yet in one thing you have wronged us, and though I remind you of it, persuade those who are indignant not to cry out. No one ever came to you and asked a favour easy to grant and went away disappointed. I am, then, among those who asked a favour but did not receive it. What, then, was I asking? Often, when I was with you at headquarters, I wished, through your wisdom, to enter into the depth of Homer's madness. And if the whole was not possible, then at least bring us into a portion of the lot. And the portion I desired was that in which, when the Greeks had fared ill, the man whom Agamemnon had insulted he sought to win back with gifts. While I was saying this, you laughed, being unable to deny that you could do it if you wished, yet unwilling to make the gift. Do I, then, seem to you and to those indignant on my account—because I said you wronged me—to be the one wronged?

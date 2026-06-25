@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 213,
+  "chapter_title": "Letter 213",
+  "chapter_slug": "213-letter-213",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c9d18bff-9e85-5486-a96a-2d76a72bb211",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 337,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6fb1423-ce8c-5801-ab88-6998b233a1f0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 429,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

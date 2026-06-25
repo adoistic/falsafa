@@ -1,0 +1,28 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 84
+chapter_title: Letter 84
+chapter_slug: "84-letter-84"
+variant_id: "05b583ad-9f19-5a0c-a762-77a1a13642f6"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 736
+translator: thothica
+---
+
+84. To a Governor.
+
+What I am about to write is almost incredible, yet it shall be written for truth's sake: that, though I had every desire to converse with your nobility of character as often as possible, when I found this occasion of writing I did not run to the godsend, but hung back and shrank from it. The paradox in this is that the very things I prayed might come about, when they came, I would not accept. The reason is that I am ashamed to seem to write not purely for the sake of friendship, but always to be tending some need of my own. But this thought came to me — and I want you, too, to weigh it, so that you may by no means suppose that we hold our conversations in a trading rather than a friendly spirit — that the addresses we make to rulers must have something different about them from those made to private men. For we are not to approach a physician and any chance person in the same way, nor likewise a ruler and a private man; rather we must try to draw benefit from the one through his art, and from the other through his authority, for our own affairs. Just as, then, the shadow follows of necessity those who walk in the sun, even if they do not choose it, so too something of profit follows upon our dealings with rulers — the help given to those in distress.
+
+Let the first cause of the letter, then, be fulfilled by the very act of greeting your magnanimity. This, even when no pretext for writing is added, must itself be reckoned a good chief point. Be greeted, therefore, by us, best of men, and may you be preserved your whole life long, exchanging office for office and benefiting now these, now those, by your governorships. For this is my custom to do, and it is owed to you by all who have experienced, even a little, your excellence in ruling.
+
+After the prayer, receive also the supplication on behalf of the wretched old man, whom an imperial rescript released from public duties; or rather, even before the emperor, old age itself granted him the necessary exemption. And you yourself confirmed the grace from above, out of reverence for nature and, as I think, out of forethought for public affairs, lest, through a man whose mind is failing with age, some of the common business should come to harm.
+
+But by another road, again, how did it escape you, admirable man, that you have brought him back into the midst of affairs? For his grandson, not yet in his fourth year from birth, you have ordered to take part in the council-chamber; and what else is this but to bring the old man, through his grandchild, once more from the beginning into public service? But now we entreat you to take pity on both ages, and to release both, because of the pitiable circumstances belonging to each. The one has not seen his parents, nor known them, but came into this life through others' hands, orphaned of both straight from his swaddling-clothes; the other has been so reserved by life that no form of misfortune has passed him by. For he has looked upon the untimely death of a son; he has seen his house bereft of heirs; and he will now look — unless you yourself devise something worthy of your loving-kindness — upon the only consolation of his childlessness becoming for him the occasion of countless evils. For surely the little child will not pay the councillors' dues, or collect the levies, or furnish the soldiers' rations; rather, the gray hairs of the wretched old man must again be put to shame. Grant, then, a favour both consistent with the laws and in accord with nature: ordering that the one be granted respite until he reaches the age of manhood, and that the other be allowed to await death upon his bed. As for the unbroken press of affairs and the inexorable claim of necessity, let others put these forward. For it is not of your character either to overlook those in distress, or to make light of the laws, or to fail to yield to friends who earnestly entreat you — even were the affairs of men to press hard upon you.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 93,
+  "chapter_title": "Letter 93",
+  "chapter_slug": "93-letter-93",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0944c2cb-1bab-568c-881f-2b44a3c4cf81",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 240,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aaae6fd5-c47c-5a1c-85ce-372e56cb9686",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 295,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

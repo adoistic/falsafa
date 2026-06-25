@@ -1,0 +1,26 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 277
+chapter_title: Letter 277
+chapter_slug: "277-letter-277"
+variant_id: "ff0a540b-54fa-566e-9711-fd51df37811c"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 437
+translator: thothica
+---
+
+277. To Maximus the Scholar
+
+The good and excellent Theotecnus has reported to me concerning your dignity of character, and has stirred in me a longing for your company, vividly sketching in words the stamp of your soul; and he so kindled my affection for you that, were I not weighed down by old age, and held fast by my long-familiar infirmity, and fettered by countless cares of the Church, nothing would have kept me from coming to you in person. For it is truly no small gain, when a man has passed from a great house and an illustrious family to the life of the Gospel, to bridle his youth by reason, to make the passions of the flesh slaves to reason, and to practise the humility that a Christian owes, thinking of himself as is fitting—whence he sprang and whither he is going. For the thought of our nature checks what is inflamed in the soul, banishes all arrogance and self-will, and, in a word, makes a man a disciple of the Lord, who said: Learn from me, for I am gentle and humble in heart. For in truth, dearest of my children, the only good worth all our zeal and worthy of praise is the good that endures; and this is the honour that comes from God.
+
+These human things are dimmer than a shadow and more deceptive than dreams. For youth fades more swiftly than the flowers of spring, and the bloom of the body withers away by sickness or by time. Wealth is faithless, glory easily overturned, and the labours spent upon the arts are bounded together with this present time. Even what all men pursue so eagerly—eloquence—has its charm only as far as the hearing. But the practice of virtue is a precious possession for the one who has it, and the sweetest of sights for those who meet with it. By caring for these things you will make yourself worthy of the good things laid up in the promises of the Lord.
+
+In what way you might come to take up these noble things, and how you might preserve what you have gained, would take longer to say than the present impulse of my letter allows. Yet it occurred to me to address even these few words to you, prompted by what I heard from our brother Theotecnus—whom I always pray may speak the truth, but most of all in what he says about you, that the Lord may be the more glorified in you, since from an alien root you bring forth the precious fruits of godliness in abundance.

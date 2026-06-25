@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 326,
+  "chapter_title": "Letter 326",
+  "chapter_slug": "326-letter-326",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9da1bb18-5e27-5f97-b931-d6b7cd0c1f84",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 97,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec559faa-7320-502d-b011-e96681333bb4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 138,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

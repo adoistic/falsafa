@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 276,
+  "chapter_title": "Letter 276",
+  "chapter_slug": "276-letter-276",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "68e60631-2abc-5129-8d89-eb2c306c23fe",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 223,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "976d9330-7657-562c-9ce9-d3a68d1e8ceb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 296,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

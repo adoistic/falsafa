@@ -1,0 +1,22 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 176
+chapter_title: Letter 176
+chapter_slug: "176-letter-176"
+variant_id: "7aea91af-1fe7-5d16-ad48-05e7b1c372f1"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 256
+translator: thothica
+---
+
+176. To Amphilochius, bishop of Iconium
+
+May the holy God grant that this letter of ours reach your hands while you are sound in body, free from every distraction, and prospering in all your affairs, so that the request we make may not be made in vain. We ask you now to appear in our city, to add solemnity to the festival which our church is accustomed to hold each year in honour of the martyrs. For be assured, my most honoured and truly beloved friend, that our people, who have made trial of many men, hold to no acquisition so firmly as to your presence; such a sting of love did you leave behind from that brief meeting. Therefore, that the Lord may be glorified, that the people may rejoice, that the martyrs may be honoured, and that we old men may receive from a true son the attention that is owed us, consent to make the journey to us without delay, and to come ahead of the days of the assembly, so that we may meet one another at leisure and find mutual comfort through the sharing of spiritual gifts. The day is the fifth of September. We ask you, therefore, to be here three days beforehand, so that by your presence you may also do great honour to the memory of the poorhouse. May you be kept safe for me and for the Church of God, sound and cheerful in the Lord, and praying earnestly for me, by the grace of the Lord.

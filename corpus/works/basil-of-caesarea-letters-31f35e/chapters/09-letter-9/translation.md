@@ -1,0 +1,28 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 9
+chapter_title: Letter 9
+chapter_slug: "09-letter-9"
+variant_id: "665954ab-8e07-5d26-ad47-3ccad3e180df"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 844
+translator: thothica
+---
+
+9. To Maximus the philosopher
+
+Words are truly the images of souls. We have come to know you, then, through your letter, as the saying goes, the lion from his claws; and we were glad to find you not idly disposed toward the first and greatest of goods, love toward God and toward one's neighbour. As a sign of the one we take your kindness toward us, and of the other, your zeal for knowledge. And that the whole consists in these two is plain to every disciple of Christ.
+
+The writings of Dionysius which you seek came to us, indeed, and very many of them; but the books are not at hand, and for that reason we have not sent them. We are of this mind, however: we do not admire everything in the man; there are some things which we wholly reject. For of nearly this very impiety now so much noised abroad—I mean that of the "Unlike"—this man, so far as we know, is the first to have furnished the seeds to men. The cause, I think, was not wickedness of judgment, but his vehement wish to oppose Sabellius. I am accustomed, then, to liken him to a gardener straightening the distortion of a young plant, who then, by the excess of his counter-pull, misses the middle and draws the shoot to the opposite side. We have found something of the kind to have happened with this man too. For setting himself vehemently against the impiety of the Libyan, he was carried unawares, by his excessive zeal, into the opposite evil. For him it would have been enough to show that the Father and the Son are not the same in subject, and thus to have the victory over the blasphemer; but he, in order to prevail very clearly and abundantly, lays down not only a distinction of the hypostases, but also a difference of essence, a diminution of power, and a variation of glory. So it came about from this that he exchanged one evil for another and missed the rightness of doctrine. For this very reason he is of all kinds in his writings, now overthrowing the consubstantial, because of the man who had used it ill for the abolition of the hypostases, and now admitting it in the passages where he defends himself to his namesake. And besides this, concerning the Spirit too he let fall utterances least befitting the Spirit, banishing Him from the adored Godhead and numbering Him somewhere below with the created and ministering nature. Such, then, is the man.
+
+But I, if I must speak my own view, accept the phrase "like in essence," if it has joined to it "without difference," as bringing us to the same as the consubstantial, according, of course, to the sound understanding of the consubstantial. This too the fathers at Nicaea understood, when, calling the Only-Begotten "Light from Light" and "true God from true God" and the like, they consequently added the consubstantial. For it is not possible to conceive any variation of light to light, nor of truth to truth, nor of the essence of the Only-Begotten to that of the Father. If, then, anyone takes it as I have said, I admit the phrase. But if anyone cuts off the "without difference" from "like"—as those at Constantinople have done—I suspect the word as belittling the glory of the Only-Begotten. For we are accustomed to conceive "likeness" often even in faint resemblances that fall far short of their archetypes. Since, then, I think the consubstantial is less liable to be misused, I too adopt it.
+
+But why do you not visit us, my excellent friend, so that, being present with one another, we might discuss such matters together, and not entrust things of such moment to lifeless letters—especially when we have resolved not to make our views very public? So that you may not yourself say to us what Diogenes said to Alexander, that the distance from you to here is the same as from here to you. For we, by reason of our infirmity, are nearly always held, like plants, in the same place; and at the same time, having lived in obscurity, we count it among the first of goods. But you are strong, as they say, and at the same time, having made yourself a citizen of the world, you would do rightly to visit here too, as a part of your own country. For even if assemblies and cities befit you practical men, in which you display your deeds of virtue, yet for contemplation and the activity of the mind, by which we are joined to God, stillness is a good fellow-worker; and this we cultivate in abundance and without stint in our retreat, with the help, one may say, of God Himself who has granted it to us. But if you must by all means cling to the seats of power and despise us who lie on the ground, then at least write to us, and by this make us the gladder.

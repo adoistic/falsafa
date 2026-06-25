@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 134,
+  "chapter_title": "Letter 134",
+  "chapter_slug": "134-letter-134",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fc27c909-c889-563e-86d9-482eac88f844",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 145,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "88461b99-9da3-5b3d-95c7-676279cb8dc3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 207,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 157,
+  "chapter_title": "Letter 157",
+  "chapter_slug": "157-letter-157",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5f597224-0a66-5eb5-92d3-edcdacac4805",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 101,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f38d15c5-e8be-5abe-8fed-314b69ecbd5c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 144,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

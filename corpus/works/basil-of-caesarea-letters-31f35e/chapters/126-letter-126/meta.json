@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 126,
+  "chapter_title": "Letter 126",
+  "chapter_slug": "126-letter-126",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "44005850-ee87-57cb-bb13-05c0f76ba150",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 256,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5a8c1247-f7d4-590d-9ef6-b12257eb3a21",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 364,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

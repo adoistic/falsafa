@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 288,
+  "chapter_title": "Letter 288",
+  "chapter_slug": "288-letter-288",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "26157fb9-0610-5846-bfbf-5b9991024558",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 120,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f74b248a-4eb5-5b66-8b67-156c9d16715a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 192,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

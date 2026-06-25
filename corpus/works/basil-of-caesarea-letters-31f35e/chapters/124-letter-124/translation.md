@@ -1,0 +1,22 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 124
+chapter_title: Letter 124
+chapter_slug: "124-letter-124"
+variant_id: "a02ae892-6355-5e00-8ba4-fbee57bc1392"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 287
+translator: thothica
+---
+
+124. To Theodorus
+
+Some say that those who are caught by the passion of love, when by some more violent constraint they are led away from the objects of their longing, find rest for the vehemence of their passion, if they can look upon an image of the beloved form, through the enjoyment that comes by the eyes. Whether these things are true or not I cannot say; but what has happened to me toward your goodness is not far from what is described. For since a certain disposition arose in me toward your holy and guileless soul — a loving one, so to speak — and since the enjoyment of the objects of my longing, as of no other good, is not easy for us, on account of the hindrance that comes from our sins, I thought that I had seen a most vivid image of your goodness in the presence of our most devout brothers. And if it had befallen me to meet your genuine self apart from these, I would have reckoned that in you I had seen them also; for so great, I say, is the measure of love in each of you, that the rivalry of each to surpass in it shows itself equally. For these things I gave thanks to the holy God, and I pray that, if any time of life still remains, my life may through you be made sweet — since, as things now are, I count the very fact of living a wretched thing and to be fled, parted from the company of those dearest to me. For there is nothing, in my judgment, in which one could take joy, when severed from those one truly loves.

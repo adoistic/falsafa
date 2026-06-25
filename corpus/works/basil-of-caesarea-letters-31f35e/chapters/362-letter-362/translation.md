@@ -1,0 +1,30 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 362
+chapter_title: Letter 362
+chapter_slug: "362-letter-362"
+variant_id: "228b1144-0435-550e-97b2-352fe5516986"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 771
+translator: thothica
+---
+
+362. Apollinaris to Basil
+
+You believe in a God-loving spirit, and you inquire in a manner devoted to learning, and from us a ready will is owed because of love, even if a sufficiency in the discourse should not follow — both on account of our own deficiency and on account of the surpassing greatness of the matter.
+
+"One essence" is spoken of not only in respect of number, as you say, and of that which is within one bounding, but also, in a proper sense, of two men, and of anything else among things unified according to genus. So that in this way two and more are the same according to essence — just as all men are one Adam, being one, and as David the son of David is the same as that other David; just as you also rightly say that the Son is, according to essence, this very thing which the Father is. For the Son could not otherwise be God, when one and only Father is confessed as God — just as somehow there is one Adam, the founder of the race of men, and one David, the originator of the royal line.
+
+In this way, then, the supposition of one overlying genus, or of one underlying matter, in the case of Father and Son, will be stripped away from our notions, when we take up the founding peculiarity of the highest origin, and the races descended from the founders, in relation to the only-begotten offspring from the one origin; for such things come to a likeness only in a measured way. Just as there is no one genus lying above both Adam, as fashioned by God, and ourselves, as begotten of men, but Adam himself is the origin of men; nor any matter common to him and to us, but he himself is the underlying ground of all men; nor again is anything thought of as prior to David and to the race descended from David, in so far as he is David, since the peculiarity of David begins from David, and he himself is the underlying ground of all who come from him — but inasmuch as these things fall short (in so far as there are other commonalities of all men with one another, such as those of brothers), in the case of Father and Son there is nothing of the kind, but the whole is: Father, the origin, and Son, from the origin.
+
+Therefore there is no partitioning of the first into the second either, as in the case of bodies, but a begetting-forth. For the peculiarity of the Father has not been partitioned off, as it were, into the Son, but the peculiarity of the Son has shone forth from that of the Father: the same in otherness, and other in sameness — inasmuch as the Father is said to be in the Son, and the Son in the Father. For neither will otherness alone preserve the truth of the sonship, nor again will sameness preserve the indivisibility of the substance; but each is intertwined and of one form: the same in another mode, and other in the same mode — so that one may force the words, though they fall short of the meaning. The Lord confirms for us the conception, both in presenting the Father in a greater equality, and the Son as having the equal in a lower degree; which he taught us when he bade us conceive the Son as light of the same kind but lowered — not altering the essence, but contemplating the very same thing, surpassing and yet in abatement. For those who have admitted the essence in no sameness add to the Son a likeness brought in from outside — which indeed extends even to men, who are made like to God.
+
+But those who know the likeness that befits things made join the Son to the Father in sameness, yet in a lowered sameness, lest he be the Father himself, or a part of the Father — which is forcibly conveyed by the phrase "another Son": thus God, not as that one is, but as from that one; not the prototype, but the image. He is "of one essence" in a manner set apart from all and peculiar to himself — not as things of the same genus, nor as things partitioned off, but as, from the one genus and form of the Godhead, the one and only begotten-forth, by an indivisible and incorporeal procession, in accordance with which the begetter, remaining in the generative peculiarity, came forth into the generative peculiarity.

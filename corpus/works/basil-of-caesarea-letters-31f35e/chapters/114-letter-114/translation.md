@@ -1,0 +1,24 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 114
+chapter_title: Letter 114
+chapter_slug: "114-letter-114"
+variant_id: "055628d2-38df-54ac-9fc6-35d09eab58a5"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 443
+translator: thothica
+---
+
+114. To the People of Tarsus, concerning Cyriacus
+
+How great a good peace is, why should I say to men who are sons of peace? Since, then, this great and wonderful thing, sought after by all who love the Lord, is now in danger of being reduced to a bare name, because lawlessness has been multiplied and love grown cold in the many, I think it ought to be the single endeavour of those who serve the Lord genuinely and truly: to bring back to unity the churches that have been severed from one another in many ways and by many means. In attempting to do this myself, I could not justly incur the charge of being a meddler. For nothing is so proper to a Christian as to make peace; wherefore the Lord has promised us the greatest reward for it. Meeting, then, with the brothers and observing in them much brotherly affection and love toward you, and far more besides their love of Christ and their exactness and vigour concerning the faith, and that they make every effort both not to be separated from your love and not to betray the sound faith — accepting their good resolve, I write to your honoured selves, exhorting you to hold them, with all love, genuinely united to you and sharers in every care of the Church; having pledged to them also your soundness, that they too, by the grace of God, are arrayed for everything in zeal for the truth, however much they may have to suffer for the word of truth.
+
+And there is — as I persuade myself — that which is neither contrary to you, nor insufficient to satisfy the aforesaid brothers, namely this: that you confess the faith set forth by our fathers who once assembled at Nicaea, and that you reject none of the expressions there, but know that the three hundred and eighteen, gathering without contention, did not speak without the working of the Holy Spirit; and that you add to that faith this also, that the Holy Spirit must not be called a creature, and that we are not to be in communion with those who say so, that the Church of God may be pure, having no tare mingled with itself. When this assurance has been offered to them by your tender mercy, they too are ready to render you the submission that befits you. For I myself pledge on the brothers' behalf that they will gainsay nothing, but will display to you every excess of good order, this one thing alone, which is sought of them, being readily granted to them by your perfection.

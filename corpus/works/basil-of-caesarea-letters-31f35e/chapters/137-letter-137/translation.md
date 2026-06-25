@@ -1,0 +1,24 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 137
+chapter_title: Letter 137
+chapter_slug: "137-letter-137"
+variant_id: "f53ee7fc-5c28-5ec4-b5db-e13ebe2b6572"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 322
+translator: thothica
+---
+
+137. To Antipater
+
+Now above all I think I feel the loss which I endure through being ill, when, with such a man as you governing our country, I am compelled to be absent because of the care of my body. For a whole month now I have been waiting upon the treatment of the naturally hot waters, as though I were to gain some benefit from it. But it seems I am labouring in vain in the wilderness, or even appearing to be matter for laughter to the many, since I will not even heed the proverb which says that there is no benefit from hot springs for the dead.
+
+For this reason, even so, I wish, setting all else aside, to come to your reverend self, both to enjoy the good things in you, and to set in good order, through your uprightness, the affairs of my own household. For the house of our most honoured mother Palladia is my own special concern, a woman to whom not only kinship of family joins us, but whose graciousness of character too has made her a mother to us. Since, then, some trouble has been stirred up about her house, we ask your magnanimity to defer the inquiry a little and to await our coming — not that justice should be corrupted (for I would a thousand times rather die than ask such a favour from a judge who is a friend to the laws and to justice), but that you may learn from my own lips, as I report them, those things which it is not seemly for me to write. For thus you yourself will not fail of the truth, nor shall we suffer anything against our wishes. I beg, then, since the person is in safe keeping and held by the court, that you grant us this favour, free of any burden and free of any cause for envy.

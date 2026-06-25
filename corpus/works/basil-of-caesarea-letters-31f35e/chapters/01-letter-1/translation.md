@@ -1,0 +1,26 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 1
+chapter_title: Letter 1
+chapter_slug: "01-letter-1"
+variant_id: "656e8c58-3a78-50d2-b2ac-26d91ac50a75"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 598
+translator: thothica
+---
+
+1. To Eustathius the philosopher
+
+I had already given up in the face of the assaults of what men call fortune, which has always thrown some obstacle in the way of my joining you; and now, in a way I find marvellous, you have recalled and consoled me by your letter. For indeed I had by now begun to turn the thought over within myself, wondering whether what most people are forever repeating might not be true: that there is some necessity and fate which governs both the small and the greater of our affairs, while we men are masters of nothing at all; or else, if not this, then that some fortune altogether drives the life of man. You will grant me much pardon for these reflections once you have learned the reasons that led me to them.
+
+I left Athens for the report of your philosophy, passing over the schools there. I ran past the city on the Hellespont as no Odysseus ever ran past the songs of the Sirens. Asia I admired, but I was hurrying toward the mother-city of the fine things in it. When I reached my own country, and looked for you in it—you, that great benefit—and did not find you, from that point on the many and varied occasions of unexpected hindrances came upon me. For either I had necessarily to fall ill, and on that account be left behind, or, when you were travelling to the East, I was unable to set out with you; and when at last, with countless toils, I had reached Syria, I found I could not be with the philosopher, for he had departed for Egypt. So once again I had to go to Egypt, a long and grievous road, and not even there did I obtain what I sought. But fortune was so perverse a lover that I had to journey either toward Persia, going forward into the farthest reaches of the barbarian lands—for you went even there, so great was the contentiousness of my evil genius—or else to sit here in Alexandria, which is in fact what came to pass. For it seems to me that, had I not given up, following you like some beast led on by a branch held out before it, you would have drawn me on even beyond Indian Nyssa, and, if there is any remotest spot in our inhabited world, you would have led me wandering there as well.
+
+And why need I say much more? In the end, even now, while I am living in my own country, it has not been granted me to be with you, since I am kept off by long illnesses; and unless these grow somewhat milder for the time to come, not even in the winter shall we be with your eloquence. Are these not the works of fate, as you yourself would say? Are these not the works of necessity? Have they not very nearly outdone the poets' tales about Tantalus? But, as I said, I have grown easier by your letter, and I am no longer of the same mind. I hold that one ought, when God gives good things, to be thankful, and when He keeps them in store, not to be vexed. And so, if it should be granted us to be with you, we shall count this at once the best and the most pleasant of things; but if He should defer it, we shall bear the loss gently. For He surely orders our affairs better, in every case, than we ourselves would have chosen.

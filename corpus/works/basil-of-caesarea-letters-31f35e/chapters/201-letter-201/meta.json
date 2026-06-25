@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 201,
+  "chapter_title": "Letter 201",
+  "chapter_slug": "201-letter-201",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "710aca46-f358-577d-a4c6-7251f72b65ed",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 61,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "be5ee3aa-5793-5333-af1c-9a33f2bc3b51",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 105,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

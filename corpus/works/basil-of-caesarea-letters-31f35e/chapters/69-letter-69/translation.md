@@ -1,0 +1,28 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 69
+chapter_title: Letter 69
+chapter_slug: "69-letter-69"
+variant_id: "7e495084-bbe1-50ae-9d72-e53b859b1086"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 934
+translator: thothica
+---
+
+69. To Athanasius, bishop of Alexandria.
+
+The opinion which we have long held concerning your honour, the passing of time always confirms; nay, it even increases it by the additions of the particulars that occur from time to time. For while it suffices for most of the others that each should look to his own affairs, this is not enough for you, but your care for all the Churches is as great as the care that lies upon you for the one entrusted to you personally by our common Master. For you let no time pass without conversing, admonishing, writing, and sending out men on every occasion to suggest what is best. And now too we have received with great joy the most reverend brother Peter, sent forth from the sacred body of the clergy under you, and we have approved the good purpose of his journey, which he shows forth according to the instructions of your honour, drawing in those who resist and joining together what has been torn apart. Whence we too, wishing to contribute something to the zeal for this matter, thought we should give a most fitting beginning to affairs if, as to the summit of all, we should run up to your perfection, and use you both as counsellor and as guide of our actions. Therefore we have also sent up to your godliness the brother Dorotheus, deacon of the Church under the most honoured bishop Meletius, a man possessed of good zeal for the rightness of the faith, and himself desiring to see the peace of the Churches, so that, following your suggestions — which you are able to make safer both by your age and by your experience of affairs, and by having beyond others the counsel that comes from the Spirit — he may thus set his hand to the things being undertaken.
+
+Him you will of course receive, and will look upon with peaceful eyes, supporting him by the help of your prayers, and furnishing him with letters, or rather even yoking to him some of the zealous men there, and so guide him to the matters before us. It has seemed fitting to us also to write to the bishop of Rome, that he should examine the affairs here and give his opinion; so that, since it is difficult for some to be sent from there by a common and synodical decree, he himself should take authority in the matter, choosing out men able both to bear the toils of the journey and, by gentleness and firmness of character, to admonish the perverse among us — men who use speech suitably and prudently, and have with them all the proceedings after Ariminum, for the annulling of what was done there under compulsion; and this, with no one knowing, that they should arrive among us here silently by sea, so as to forestall the notice of the enemies of peace.
+
+This too is sought by some of those here, necessarily, as it appears even to us ourselves: that they should banish the heresy of Marcellus as grievous and harmful and alien to the sound faith. For up to now, in all the letters they write, they do not cease anathematizing on every side and banishing from the Churches that ill-named Arius; but against Marcellus, who showed forth an impiety diametrically opposed to his, and was impious against the very existence of the Only-begotten's Godhead, and wrongly understood the title of the Word, they appear to bring no censure at all. He grants that the Only-begotten is called Word, having come forth according to need and on occasion, but again having returned to him from whom he came forth — neither existing before the going forth, nor subsisting after the return. And the proof of this is found in the books of that unjust composition laid up with us. Yet nevertheless they have nowhere appeared to censure him, and that too while bearing the charge of having received him from the first, in ignorance of the truth, into ecclesiastical communion. The present circumstances, then, fittingly require that he be mentioned, so that those who want a pretext may have no pretext, and so that, by joining the sound to your holiness, they may make plain to all those who waver toward the true faith; so that for the future we may know those of one mind with us, and not, as in a night-battle, have no distinction between friends and enemies. We only beg that the aforesaid deacon be sent out immediately on the first sailing, so that at least in the coming year something may be done of the things for which we pray.
+
+That other matter you will of course understand and attend to even before our words: that those who arrive, if God will, should not leave the schisms in the Churches, but should by every means drive together into union those who think the same things, even if they find some holding occasions of private differences with one another — so that the orthodox people may not be cut into many parts by joining in the secession of their leaders. For we must be zealous to count all things second to peace, and above all to take care of the Church in Antioch, so that the right party in it should not be weakened by being split over persons. Or rather, you yourself will attend to all these things later, when, as we pray, with God working with you, you take all men as entrusting to you the settlement of the Churches.

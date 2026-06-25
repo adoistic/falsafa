@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 91,
+  "chapter_title": "Letter 91",
+  "chapter_slug": "91-letter-91",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "26de2073-3220-5222-9175-c6ffe70b1961",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 298,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3dc0691f-e19d-5a97-a013-7e474413843c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 402,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

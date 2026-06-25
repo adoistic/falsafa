@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 173,
+  "chapter_title": "Letter 173",
+  "chapter_slug": "173-letter-173",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c5a94912-5e49-59ad-97d6-de62e161ee56",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 322,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2992c394-43cb-54c6-8202-cf377654c1bb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 433,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

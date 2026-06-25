@@ -1,0 +1,24 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 268
+chapter_title: Letter 268
+chapter_slug: "268-letter-268"
+variant_id: "72e6a53e-e7f0-598c-9a74-48d0ea239e8a"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 346
+translator: thothica
+---
+
+268. To Eusebius, in Exile
+
+The Lord has shown in our case too that He does not forsake His holy ones, having sheltered the life of your holiness with His great and mighty hand. For we count this nearly equal to the holy man's remaining unharmed in the belly of the sea-monster, and to those who fear the Lord dwelling unharmed in a raging fire — seeing that He has preserved your godliness unharmed, though the war, as I hear, was poured round you on every side. And may the mighty God preserve, for the time to come, that much-prayed-for sight for us, if we still live, or at least for the others, who await your return as their own salvation. For I am persuaded that the Lover of mankind, giving heed to the tears of the Churches and to the groans with which all groan over you, will keep you in this life until He grants the favour to those who beseech Him night and day.
+
+Now of the things done against you up to the coming of our beloved brother Libanius, the fellow-deacon, we were sufficiently informed through him as he passed by; but of the things from that time on we need to learn. For we hear that in the meantime greater and harsher sufferings have come about in those regions; which we would learn, if it be possible, the sooner — but if not, then at least through the most reverent brother Paul, our fellow-presbyter, on his return — that, as we pray, your life is kept unharmed and unmolested. But because we have heard that all the roads are full of brigands and deserters, we were afraid to put anything into the hands of the brother, lest we become to him too a cause of death. But if the Lord grants a moderate calm — for we hear of the passing of the army — we shall be eager to send out one of our own people, to visit you and to report to us each of the things among you.

@@ -1,0 +1,24 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 115
+chapter_title: Letter 115
+chapter_slug: "115-letter-115"
+variant_id: "6b8cb752-1474-5505-bf61-98a07db2b4ba"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 334
+translator: thothica
+---
+
+115. To Simplicia, a Heretic
+
+Without good counsel do men both hate the better and love the worse. For this reason I too hold my tongue, choking back in silence the reproach for the insults done me. But I will await the Judge above, who knows how to requite all wickedness in the end. For though a man pour out wealth beyond the sands, he harms his soul, having trampled on justice. For God ever seeks sacrifice — not, I think, as one in need, but accepting as a costly sacrifice the godly and just mind. But when a man, transgressing against himself, tramples it down, his prayers are reckoned common.
+
+Remind yourself, then, of the last day, and do not, if you please, teach us. We know more than you, and we are not so choked by the thorns within; nor, amid a few good things, do we mingle a tenfold wickedness. You have stirred up against us lizards and toads — spring creatures, no doubt, yet unclean for all that. But a wing will come from above to feed upon them. For mine is a cause, not as you suppose, but as God knows how to judge. And if there is need of witnesses, no slaves shall stand forth, nor a race of eunuchs, dishonoured and utterly ruined — that very thing: unwomanly, unmanly, mad for women, envious, ill-rewarded, quick to anger, effeminate, slave to the belly, mad for gold, harsh, weeping at dinner, fickle, ungenerous, all-receiving, insatiable, frenzied and jealous; and what more need I say? — condemned to the iron from their very birth. How then can the judgment of these be upright, whose very feet are crooked? These are chaste without reward, by force of the knife; but they rage fruitlessly, through their own shamefulness. Not these shall stand as witnesses of the judgment, but the eyes of the just, and the faces of perfect men — all who shall then see, toward which they now look with understanding.

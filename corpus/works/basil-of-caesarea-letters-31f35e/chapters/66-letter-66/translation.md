@@ -1,0 +1,26 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 66
+chapter_title: Letter 66
+chapter_slug: "66-letter-66"
+variant_id: "4da40150-700c-5238-b7eb-50de5ac5d766"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 738
+translator: thothica
+---
+
+66. To Athanasius, bishop of Alexandria.
+
+I think that no one is so greatly grieved by the present condition of the Churches — or rather, to speak more truly, their confusion — as your honour: comparing the present with the ancient state, and considering by how much these things differ from those, and that, if affairs slip down toward the worse with the same momentum, there will be nothing to prevent the Churches from being utterly transformed within a short time into some other shape. These things I have often pondered with myself, that if the perversion of the Churches appears so pitiable to us, what kind of soul is it likely that one has over these matters who has had experience of the ancient stability and concord in the faith of the Churches of the Lord? But just as the greater part of the grief surrounds your perfection, so we think it fitting that the greater part of the care for the Churches should also belong to your wisdom. I myself have long known, according to the moderate grasp of affairs that is in me, having recognized one road of help for the Churches in our region: the agreement of the Western bishops. For if they were willing to display, on behalf of the diocese of our parts, the same zeal which they took up on behalf of one or two in the West who were detected in false doctrine, perhaps some benefit might come to the common cause, the rulers being abashed at the trustworthiness of the multitude, and the peoples everywhere following them without dispute.
+
+Who, then, is more able than your understanding to accomplish these things? Who keener to discern what is needful? Who more practical in effecting what is useful? Who more sympathetic toward the affliction of the brethren? Who in all the West is more reverenced than your most venerable grey hairs? Leave behind some memorial to life worthy of your manner of conduct, most honoured father. Crown those countless contests on behalf of true religion with this one work. Send forth from the holy Church under you men powerful in sound teaching to the bishops in the West; relate to them the misfortunes that have overtaken us; suggest a manner of relief; become a Samuel to the Churches; suffer along with the peoples who are at war; offer up prayers for peace; ask grace from the Lord, to leave behind some memorial of peace to the Churches. I know that letters are weak as a means of counsel for so great a matter. But neither do you yourself need exhortation from others — no more than the noblest of athletes need the encouraging shouts of children — nor do we teach one who is ignorant, but we intensify the impulse of one who is already zealous.
+
+For the rest of the East, then, perhaps you need also the cooperation of more men, and it is necessary to wait for those from the West. But the good order of the Church in Antioch plainly depends on your godliness — so as to manage some, to quiet others, and to give back its strength to the Church through agreement. For you yourself know more exactly than anyone that, according to the wisest of physicians, you ought to begin your treatment from the most vital parts. And what could be more vital to the Churches throughout the world than Antioch? If it should happen that this city returned to concord, nothing would prevent it, like a strong head, from supplying health to the whole body. And truly the ailments of that city need your wisdom and gospel sympathy; for it has not only been cut apart by the heretics, but is also torn asunder by those who claim to think the same things as one another. To unite these and to bring them together into the harmony of one body belongs to him alone who by his unspeakable power grants even to dry bones their return again to sinews and flesh. And in all things the Lord works great things through those worthy of him. Here too, then, we hope that the ministry of such great matters befits your greatness of soul: to calm the tumult of the people, to put an end to the partial leaderships, to subject all to one another in love, and to restore to the Church its ancient strength.

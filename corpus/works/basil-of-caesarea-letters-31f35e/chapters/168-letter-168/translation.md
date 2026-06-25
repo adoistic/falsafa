@@ -1,0 +1,22 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 168
+chapter_title: Letter 168
+chapter_slug: "168-letter-168"
+variant_id: "b4332c47-af73-51b5-8d6b-02e531d0f81d"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 240
+translator: thothica
+---
+
+168. To Antiochus the presbyter, his nephew, who was with him in exile
+
+As much as I lament the church bereft of the oversight of such a shepherd, so much do I count you blessed who have been counted worthy, in such a time, to be with a man who is fighting the great contest for piety. For I am persuaded that the Lord will count you too worthy of the same portion, who nobly anoint him and rouse his eagerness. And how great a gain it is, in deep tranquillity, to enjoy a man who has gathered so much both from learning and from the experience of affairs — so that I am persuaded that you have now come to know the man, how great he is in understanding. For in time past his mind too was divided among many things, and you had no leisure from the affairs of life, so as to give yourselves wholly to the spiritual stream that pours forth from the man's pure heart. But may the Lord grant that you be a comfort to him, and that you yourselves have no need of the consolation of others — which indeed I am persuaded is true of your hearts, judging both by my own experience, which for a little while I had of you, and by the great teaching of your good guide, one day's company with whom is a sufficient provision for salvation.

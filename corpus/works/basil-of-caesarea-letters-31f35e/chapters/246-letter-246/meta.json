@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 246,
+  "chapter_title": "Letter 246",
+  "chapter_slug": "246-letter-246",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3cd35a48-ad86-5aaa-9159-9eee07726d58",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 89,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e7172f0-9d7e-5481-ac06-840a5105429c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 125,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 225,
+  "chapter_title": "Letter 225",
+  "chapter_slug": "225-letter-225",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3b655112-fbf4-563d-a8d8-4b3d656dfc38",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 401,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "753670ec-f9a8-5e99-90d4-c496f8eea0ad",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 544,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

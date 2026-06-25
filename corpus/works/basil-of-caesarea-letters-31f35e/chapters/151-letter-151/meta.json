@@ -1,0 +1,38 @@
+{
+  "work_slug": "basil-of-caesarea-letters-31f35e",
+  "work_title": "Letters",
+  "chapter_number": 151,
+  "chapter_title": "Letter 151",
+  "chapter_slug": "151-letter-151",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a5fe6562-71a7-54bb-9030-a230f74f0231",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 223,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2040.tlg004"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f26d3fff-9ec4-5c9f-8dbe-76d48ac175e8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 313,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

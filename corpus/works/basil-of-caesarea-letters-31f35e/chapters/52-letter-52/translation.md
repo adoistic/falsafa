@@ -1,0 +1,34 @@
+---
+work_id: "31f35e04-8380-5c37-8102-1da54ed64732"
+work_slug: "basil-of-caesarea-letters-31f35e"
+work_title: Letters
+author_name: Basil of Caesarea
+chapter_number: 52
+chapter_title: Letter 52
+chapter_slug: "52-letter-52"
+variant_id: "5eaec757-0ffc-5e9f-b4d5-04787ce7a523"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 1152
+translator: thothica
+---
+
+52. To the canonical sisters.
+
+As greatly as a grievous report, ringing in our ears, formerly distressed us, so greatly did our most God-loving brother, Bishop Bosporius, gladden us by relating better things concerning your reverence. For he said that, by the grace of God, all those things noised abroad were fabrications of men who do not accurately know the truth of your position. He added, moreover, that he had found among you unholy slanders against us as well — such as those would utter who do not expect to give account even for an idle word to the Judge in the day of his just recompense. So that I gave thanks to the Lord, both being myself healed of the injury concerning you, which, as it seems, I had received through the slander of men, and hearing that you had laid aside the false suppositions concerning us which you had taken up.
+
+In setting before you his own position, our brother at the same time demonstrated ours entirely. For the conviction of faith is one and the same in both of us, since we are heirs of the same fathers who once at Nicaea proclaimed the great message of true religion. In that creed everything else is altogether beyond slander; but the term "of one substance," wrongly understood by some, there are those who have not yet accepted. These one might justly blame, and yet again deem worthy of pardon. For not to follow the fathers, and to set one's own opinion above their authoritative word, is worthy of accusation as being full of arrogance; but again, to hold the term suspect when others have slandered it — this somewhat acquits them of the charge in a measure. And indeed, those who assembled against Paul of Samosata found fault with the expression as not well-marked. For they said that the term "of one substance" presented the notion of a substance and of the things derived from it, so that the substance, being divided, lent the name "of one substance" to the parts into which it was divided. Now in the case of bronze and the coins made from it this notion has some reasonable application; but in the case of God the Father and God the Son no prior or superior substance is contemplated above the two; for to conceive or utter this is beyond all impiety. What could be prior to the Unbegotten? And by this blasphemy faith in the Father and the Son is also destroyed; for things that derive their existence from one source are brothers to one another.
+
+And since at that time there were still those who said that the Son had been brought into being from nothing, in order to cut off this impiety also they affixed the term "of one substance." For the union of the Son with the Father is timeless and without interval. The preceding words also show that this was the mind of those men. For having said "Light from Light," and that the Son was begotten from the substance of the Father and not made, they appended to these the term "of one substance," showing that whatever account of light one renders in the case of the Father, this will also fit in the case of the Son. For true light compared with true light, according to the very notion of light, will admit of no variation. Since, then, the Father is light without beginning, and the Son is begotten light, and each is light and light, they rightly said "of one substance," in order to present the equal honour of their nature. For things that are brothers to one another are not called "of one substance," as some have supposed; but when both the cause and that which has its existence from the cause are of the same nature, they are called "of one substance."
+
+This term also corrects the evil of Sabellius; for it destroys the identity of person and introduces the perfect notion of distinct persons. For a thing is not "of one substance" with itself, but one thing with another; so that the term is well and reverently put, both defining the distinctness of the persons and presenting the unvarying sameness of the nature.
+
+And when we are taught that the Son is from the substance of the Father, and begotten but not made, let us not sink into bodily notions of passions. For the substance was not divided from the Father into the Son, nor did it beget by flowing forth, nor by putting forth, as plants put forth their fruits; but the manner of the divine begetting is unspeakable and inconceivable to human reasonings. For it is the mark of a truly low and fleshly mind to liken the eternal to the corruptible and the temporary, and to think that, as in bodily things, so God too begets in like manner. Whereas one ought to derive from the contraries the grounds for true religion: that, since mortal things are thus, the immortal is not thus. We must therefore neither deny the divine begetting, nor defile our minds with bodily notions.
+
+The Holy Spirit is numbered together with the Father and the Son, because he too is above creation; and he is ranked as we have been taught in the Gospel by the Lord, who said: "Go, baptize into the name of the Father and of the Son and of the Holy Spirit." But he who sets the Spirit before the Son, or calls him older than the Father, opposes the ordinance of God, and is a stranger to the sound faith, not keeping the manner of glorifying that he received, but devising for himself a novelty of speech to please men. For if the Spirit is above God, he is not from God. For it is written: "The Spirit is from God." And if he is from God, how is he older than that from which he is? And what madness is it, when the Unbegotten is one, to call anything else higher than the Unbegotten? But neither is he prior to the Only-begotten; for there is nothing between the Son and the Father. And if he is not from God, but is through Christ, then he does not exist at all. So that the innovation concerning the order involves the setting aside of his very existence, and is a denial of the whole faith. It is therefore equally impious both to bring him down to creation and to set him above either the Son or the Father, whether in time or in rank.
+
+These, then, are the things that I heard your reverence inquires about. But if the Lord grant that we come together with one another, perhaps we may say something further about these matters as well, and we ourselves may find from you some assurance about the things we inquire into.

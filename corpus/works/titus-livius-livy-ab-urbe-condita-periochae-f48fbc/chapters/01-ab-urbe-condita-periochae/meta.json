@@ -1,0 +1,38 @@
+{
+  "work_slug": "titus-livius-livy-ab-urbe-condita-periochae-f48fbc",
+  "work_title": "Ab Urbe Condita (Periochae)",
+  "chapter_number": 1,
+  "chapter_title": "Ab Urbe Condita (Periochae)",
+  "chapter_slug": "01-ab-urbe-condita-periochae",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "32df5050-2c6d-5e04-9898-506856200a44",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11730,
+      "paragraph_count": 98,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0914.phi001fr"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7f1d8081-95f2-53d4-b0bf-46204a73d284",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 17672,
+      "paragraph_count": 98,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
