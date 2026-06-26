@@ -3,7 +3,7 @@ import { join, resolve } from "node:path";
 import { buildCorpusIndex, resolveReference } from "./resolve-references";
 import { buildAcquisitionList } from "./acquisition-list";
 import { buildCitationGraph, withBacklinks } from "./build-graph";
-import { extractReferences } from "./extract-references";
+import { getReferences } from "./extract-references";
 import type { Manifest, RawReference } from "./types";
 
 const ROOT = resolve(import.meta.dir, "..", "..");
@@ -25,7 +25,7 @@ async function main() {
   const raw: RawReference[] = [];
   for (const slug of slugs) {
     const chapterDirs = readdirSync(join(CORPUS, "works", slug, "chapters"));
-    raw.push(...(await extractReferences(CORPUS, slug, chapterDirs)));
+    raw.push(...(await getReferences(CORPUS, slug, chapterDirs)));
     console.log(`extracted ${raw.length} refs (through ${slug})`);
   }
 
