@@ -5,7 +5,7 @@ title: Paramārthasāra
 author:
   name: Ādiśeṣa
   nationality: Indian
-era: Medieval
+era: Ancient
 genre: Philosophy
 language: Sanskrit
 language_direction: ltr

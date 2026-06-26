@@ -7,7 +7,7 @@ author:
   birth_year: 950
   death_year: 1020
   nationality: Kashmiri
-era: Medieval
+era: Ancient
 genre: Philosophy
 language: Sanskrit
 language_direction: ltr

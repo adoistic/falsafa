@@ -5,7 +5,7 @@ title: Brahmabindūpaniṣad
 author:
   name: Unknown
   nationality: Indian
-era: Medieval
+era: Ancient
 genre: Philosophy
 language: Sanskrit
 language_direction: ltr

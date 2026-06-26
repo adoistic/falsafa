@@ -5,7 +5,7 @@ title: Sāṃkhyatattvavivecana
 author:
   name: Ṣimānanda
   nationality: Indian
-era: Medieval
+era: Ancient
 genre: Philosophy
 language: Sanskrit
 language_direction: ltr

@@ -7,7 +7,7 @@ author:
   birth_year: 300
   death_year: 370
   nationality: Indian
-era: Medieval
+era: Ancient
 genre: Philosophy
 language: Sanskrit
 language_direction: ltr

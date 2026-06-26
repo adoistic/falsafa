@@ -6,7 +6,7 @@ author:
   name: Mitra Miśra
   biography: An Indian jurist of the early seventeenth century at the court of Orchha. His Vīramitrodaya is a great digest of Hindu law that compiles and reconciles the earlier Dharmaśāstra authorities.
   nationality: Indian
-era: Medieval
+era: Ancient
 genre: Law
 language: Sanskrit
 language_direction: ltr

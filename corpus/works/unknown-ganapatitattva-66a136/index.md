@@ -6,7 +6,7 @@ author:
   name: Gaṇapati
   biography: The teacher to whom this Old Javanese tattva text is ascribed. Gaṇapatitattva is a Kawi Śaiva catechism in dialogue form on cosmology and yoga.
   nationality: Javanese
-era: Medieval
+era: Ancient
 genre: Philosophy of Religion
 language: Kawi
 language_direction: ltr

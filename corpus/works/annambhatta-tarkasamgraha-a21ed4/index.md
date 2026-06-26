@@ -7,7 +7,7 @@ author:
   birth_year: 1600
   death_year: 1700
   nationality: Indian
-era: Medieval
+era: Ancient
 genre: Philosophy
 language: Sanskrit
 language_direction: ltr

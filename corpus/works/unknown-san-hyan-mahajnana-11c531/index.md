@@ -5,7 +5,7 @@ title: San Hyan Mahajnana
 author:
   name: Unknown
   biography: Anonymous or collectively transmitted authorship spanning the Sanskrit Dharmaśāstra (smṛti) tradition, Old Javanese tutur and kakawin literature, and Old English elegiac verse. These texts carry inherited law, ritual, cosmology, and lament shaped over generations rather than by a single named author.
-era: Medieval
+era: Ancient
 genre: Philosophy of Religion
 language: Kawi
 language_direction: ltr

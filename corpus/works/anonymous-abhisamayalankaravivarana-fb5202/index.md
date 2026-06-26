@@ -5,7 +5,7 @@ title: Abhisamayālaṅkāravivaraṇa
 author:
   name: Anonymous
   nationality: Indian
-era: Medieval
+era: Ancient
 genre: Philosophy
 language: Sanskrit
 language_direction: ltr

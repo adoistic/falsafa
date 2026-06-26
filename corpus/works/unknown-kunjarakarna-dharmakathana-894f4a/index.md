@@ -6,7 +6,7 @@ author:
   name: Mpu Dusun
   biography: An Old Javanese poet of the Mpu rank. Kunjarakarna Dharmakathana is a Kawi Buddhist tale of the redemption of the demon Kunjarakarna.
   nationality: Javanese
-era: Medieval
+era: Ancient
 genre: Literature
 language: Kawi
 language_direction: ltr

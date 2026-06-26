@@ -6,7 +6,7 @@ author:
   name: Mpu Shri Sambhara Surya Warama
   biography: An Old Javanese author of the Mpu rank. San Hyan Kamahayanikan is a Kawi exposition of Mahāyāna Buddhist doctrine as it was practised in early Java.
   nationality: Javanese
-era: Medieval
+era: Ancient
 genre: Philosophy of Religion
 language: Kawi
 language_direction: ltr

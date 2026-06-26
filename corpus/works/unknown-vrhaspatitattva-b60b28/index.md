@@ -6,7 +6,7 @@ author:
   name: Bṛhaspati
   biography: The sage to whom this Old Javanese tattva text is ascribed. Vrhaspatitattva is a Kawi Śaiva treatise expounding Sāṃkhya cosmology and the path to release.
   nationality: Javanese
-era: Medieval
+era: Ancient
 genre: Philosophy of Religion
 language: Kawi
 language_direction: ltr
