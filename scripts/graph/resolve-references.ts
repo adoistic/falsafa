@@ -21,9 +21,28 @@ export function buildCorpusIndex(manifest: Manifest): CorpusIndex {
   return { works, authors, authorSlugs: new Set(authors.keys()), authorLabel };
 }
 
+function tokens(s: string): string[] {
+  return s.split("-").filter(Boolean);
+}
+
+function isContiguousSubseq(small: string[], big: string[]): boolean {
+  if (small.length === 0 || small.length > big.length) return false;
+  for (let i = 0; i + small.length <= big.length; i++) {
+    let ok = true;
+    for (let j = 0; j < small.length; j++) {
+      if (big[i + j] !== small[j]) { ok = false; break; }
+    }
+    if (ok) return true;
+  }
+  return false;
+}
+
 function contains(haystack: string, needle: string): boolean {
   if (!needle) return false;
-  return haystack === needle || haystack.includes(needle) || needle.includes(haystack);
+  const h = tokens(haystack);
+  const n = tokens(needle);
+  if (h.length === 0 || n.length === 0) return false;
+  return isContiguousSubseq(n, h) || isContiguousSubseq(h, n);
 }
 
 export function resolveReference(ref: RawReference, index: CorpusIndex): ResolvedReference {

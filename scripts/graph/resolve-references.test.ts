@@ -8,6 +8,7 @@ const manifest: Manifest = {
     { slug: "charles-comte-traite-de-legislation-vol-iv-bca040", title: "Traité de Législation: VOL IV", author: "Charles Comte", author_slug: "charles-comte" },
     { slug: "auguste-comte-cours-de-philosophie-positive-aa1111", title: "Cours de philosophie positive", author: "Auguste Comte", author_slug: "auguste-comte" },
     { slug: "unknown-manusmrti-347b76", title: "Manusmṛti", author: "Manu", author_slug: "manu" },
+    { slug: "mary-mills-patrick-sappho-and-the-island--abc123", title: "Sappho and the Island of Lesbos", author: "Mary Mills Patrick", author_slug: "mary-mills-patrick" },
   ],
 };
 const index = buildCorpusIndex(manifest);
@@ -36,6 +37,12 @@ describe("resolveReference", () => {
 
   test("unknown target is absent", () => {
     const r = resolveReference(ref("Peckard's sermon", "work"), index);
+    expect(r.status).toBe("absent");
+    expect(r.target_id).toBeNull();
+  });
+
+  test("single-token name does not substring-match inside another author's token (Atri vs Patrick)", () => {
+    const r = resolveReference(ref("Atri", "author"), index);
     expect(r.status).toBe("absent");
     expect(r.target_id).toBeNull();
   });
