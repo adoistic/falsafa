@@ -47,6 +47,7 @@ export interface AcquisitionEntry {
   label: string;
   citation_count: number;
   cited_by: { work_slug: string; paragraph_id: string }[];
+  mentions: { work_slug: string; paragraph_id: string; stance: ReferenceStance; quote: string }[];
 }
 
 export interface ManifestWork {

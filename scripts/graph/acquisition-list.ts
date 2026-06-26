@@ -6,9 +6,10 @@ export function buildAcquisitionList(resolved: ResolvedReference[]): Acquisition
   for (const ref of resolved) {
     if (ref.status !== "absent") continue;
     const key = slugify(ref.raw_target);
-    const entry = byTarget.get(key) ?? { normalized_target: key, label: ref.raw_target, citation_count: 0, cited_by: [] };
+    const entry = byTarget.get(key) ?? { normalized_target: key, label: ref.raw_target, citation_count: 0, cited_by: [], mentions: [] };
     entry.citation_count += 1;
     entry.cited_by.push({ work_slug: ref.citing_work_slug, paragraph_id: ref.citing_paragraph_id });
+    entry.mentions.push({ work_slug: ref.citing_work_slug, paragraph_id: ref.citing_paragraph_id, stance: ref.stance, quote: ref.quote });
     byTarget.set(key, entry);
   }
   return [...byTarget.values()].sort(

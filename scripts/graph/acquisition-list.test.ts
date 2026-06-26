@@ -18,5 +18,8 @@ describe("buildAcquisitionList", () => {
     expect(list.map((e) => e.normalized_target)).toEqual(["pearson", "peckard"]);
     expect(list[0]!.citation_count).toBe(2);
     expect(list[0]!.cited_by).toHaveLength(2);
+    expect(list[0]!.mentions).toHaveLength(2);
+    expect(list[0]!.mentions[0]!.stance).toBe("authority");
+    expect(list[0]!.mentions[0]!.quote).toBe("...");
   });
 });
