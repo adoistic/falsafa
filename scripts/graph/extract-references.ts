@@ -38,12 +38,36 @@ export function chunkByCharBudget<T extends { text: string }>(items: T[], maxCha
   return windows;
 }
 
-export const EXTRACTION_PROMPT = `You are extracting EXPLICIT references from one work in a philosophy corpus.
-A reference is where the text names another work or author (cites, quotes, invokes as authority, rebuts, extends).
-For each, return: citing_paragraph_id (the p-xxxxxx it appears in), raw_target (the work/author named, as written),
-target_kind ("work"|"author"), stance ("endorse"|"refute"|"extend"|"authority"|"neutral"), quote (a short verbatim
-snippet containing the reference). Cite only real p-ids from the provided paragraphs; quotes must be verbatim.
-Return JSON: { "references": RawReference[] }.`;
+export const EXTRACT_VERSION = "v2";
+
+export const EXTRACTION_PROMPT = `You are extracting EXPLICIT CITATIONS from one work in a philosophy/history corpus.
+A CITATION is where the text invokes ANOTHER WORK or AUTHOR as a source or authority: it quotes them,
+names their book, attributes a view to them, defers to them, argues against them, or builds on them
+(e.g. "as Aristotle says", "in the Wealth of Nations", "contrary to Hume").
+Do NOT extract:
+- bare mentions of historical persons, rulers, characters, places, or figures the text merely narrates
+  about, describes, or lists (a history naming emperors and senators is NOT citing them);
+- the work citing its own author or itself.
+When unsure whether a named person is invoked as an authority/source vs merely mentioned, EXCLUDE it.
+For each citation return: citing_paragraph_id (the p-xxxxxx it appears in), raw_target (the work or author
+as written), target_kind ("work"|"author"), stance ("endorse"|"refute"|"extend"|"authority"|"neutral"),
+quote (a short verbatim snippet). Cite only real p-ids from the provided paragraphs; quotes verbatim.
+Return JSON: { "references": [...] }.`;
+
+export const EXTRACT_CONCURRENCY = 6;
+
+export async function mapWithConcurrency<T, R>(items: T[], limit: number, fn: (item: T, index: number) => Promise<R>): Promise<R[]> {
+  const results: R[] = new Array(items.length);
+  let next = 0;
+  async function worker() {
+    while (next < items.length) {
+      const idx = next++;
+      results[idx] = await fn(items[idx]!, idx);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.max(1, Math.min(limit, items.length)) }, () => worker()));
+  return results;
+}
 
 const JSON_SCHEMA = {
   name: "extract_references",
@@ -83,9 +107,8 @@ export async function extractReferences(
     JSON.parse(readFileSync(join(corpusRoot, "works", slug, "chapters", dir, "translation.paragraphs.json"), "utf-8")) as { id: string; text: string }[]);
 
   const windows = chunkByCharBudget(allParagraphs, MAX_WINDOW_CHARS);
-  const accumulated: RawReference[] = [];
 
-  for (const paragraphs of windows) {
+  const perWindow = await mapWithConcurrency(windows, EXTRACT_CONCURRENCY, async (paragraphs) => {
     const result = await chat<{ references: RawReference[] }>({
       apiKey,
       model,
@@ -96,15 +119,15 @@ export async function extractReferences(
       json_schema: JSON_SCHEMA,
       temperature: 0,
     });
-    const windowRefs = (result.parsed?.references ?? []).map((r) => ({ ...r, citing_work_slug: slug }));
-    accumulated.push(...windowRefs);
-  }
+    return (result.parsed?.references ?? []).map((r) => ({ ...r, citing_work_slug: slug }));
+  });
 
+  const accumulated = perWindow.flat();
   return validateRawReferences(accumulated, realIds).kept;
 }
 
 export async function getReferences(corpusRoot: string, slug: string, chapterDirs: string[]): Promise<RawReference[]> {
-  const cachePath = join(corpusRoot, "graph", "raw", `${slug}.json`);
+  const cachePath = join(corpusRoot, "graph", "raw", EXTRACT_VERSION, `${slug}.json`);
   if (existsSync(cachePath)) {
     return JSON.parse(readFileSync(cachePath, "utf-8")) as RawReference[];
   }

@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import { chunkByCharBudget, validateRawReferences } from "./extract-references";
+import { chunkByCharBudget, mapWithConcurrency, validateRawReferences } from "./extract-references";
 import type { RawReference } from "./types";
 
 const rec = (p: string): RawReference => ({
@@ -29,5 +29,21 @@ describe("chunkByCharBudget", () => {
   test("a single oversized paragraph gets its own window", () => {
     const w = chunkByCharBudget([P("big", 100), P("small", 5)], 50);
     expect(w[0]!.map((i) => i.id)).toEqual(["big"]);
+  });
+});
+
+describe("mapWithConcurrency", () => {
+  test("preserves order and maps all items", async () => {
+    const out = await mapWithConcurrency([1, 2, 3, 4, 5], 2, async (n) => n * 10);
+    expect(out).toEqual([10, 20, 30, 40, 50]);
+  });
+  test("never exceeds the concurrency limit", async () => {
+    let running = 0, max = 0;
+    await mapWithConcurrency([1,2,3,4,5,6,7,8], 3, async () => {
+      running++; max = Math.max(max, running);
+      await new Promise((r) => setTimeout(r, 5));
+      running--; return 0;
+    });
+    expect(max).toBeLessThanOrEqual(3);
   });
 });
