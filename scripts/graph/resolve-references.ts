@@ -37,7 +37,7 @@ function isContiguousSubseq(small: string[], big: string[]): boolean {
   return false;
 }
 
-function contains(haystack: string, needle: string): boolean {
+export function contains(haystack: string, needle: string): boolean {
   if (!needle) return false;
   const h = tokens(haystack);
   const n = tokens(needle);

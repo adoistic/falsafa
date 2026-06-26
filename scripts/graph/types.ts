@@ -59,3 +59,48 @@ export interface ManifestWork {
 export interface Manifest {
   works: ManifestWork[];
 }
+
+// --- figure layer (people / characters / deities portrayed in works) ---
+
+export type FigureKind = "mythological" | "deity" | "historical";
+
+export interface FigureRaw {
+  work_slug: string;
+  canonical_name: string;
+  surface_names: string[];
+  figure_kind: FigureKind;
+  mentions: { paragraph_id: string; quote: string; role: string }[];
+  portrayal: string;
+  founding_texts: string[];
+}
+
+export interface FigureWorkAppearance {
+  work_slug: string;
+  named_as: string;       // the canonical_name this work used for the figure
+  mention_count: number;
+  portrayal: string;
+}
+
+export interface FigureNode {
+  id: string;             // canonical figure slug (after theonym/alias merge)
+  canonical_name: string; // display name
+  kind: FigureKind;
+  aliases: string[];      // every surface/canonical name seen across works
+  works: FigureWorkAppearance[];
+  work_count: number;
+  total_mentions: number;
+  founding_texts: string[];
+}
+
+export type FoundingStatus = "in_corpus_work" | "in_corpus_author" | "absent";
+
+export interface FoundingTextEntry {
+  label: string;
+  normalized: string;
+  status: FoundingStatus;
+  target_id: string | null;       // work-slug or author-slug when held
+  related_in_corpus: string[];    // same-title works we hold under a different author
+  figure_count: number;           // distinct figures pointing at this text
+  figures: string[];
+  recurrence: number;             // summed mentions of those figures (rank tiebreak)
+}
