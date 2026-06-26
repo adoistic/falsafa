@@ -35,7 +35,7 @@
       "author_slug": "angirasa",
       "era": "Ancient",
       "era_slug": "ancient",
-      "genre": "Indic",
+      "genre": "Law",
       "genre_slug": "indic",
       "language": "Sanskrit",
       "language_slug": "sanskrit",
@@ -45,7 +45,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
@@ -111,7 +111,7 @@
       "author_slug": "brhaspati",
       "era": "Ancient",
       "era_slug": "ancient",
-      "genre": "Indic",
+      "genre": "Law",
       "genre_slug": "indic",
       "language": "Sanskrit",
       "language_slug": "sanskrit",
@@ -121,7 +121,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
@@ -187,7 +187,7 @@
       "author_slug": "ganapati",
       "era": "Medieval",
       "era_slug": "medieval",
-      "genre": "Indic",
+      "genre": "Philosophy of Religion",
       "genre_slug": "indic",
       "language": "Kawi",
       "language_slug": "kawi",
@@ -197,7 +197,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "cynewulf-juliana-9a2157",
@@ -225,7 +225,7 @@
       "author_slug": "unknown",
       "era": "Medieval",
       "era_slug": "medieval",
-      "genre": "Indic",
+      "genre": "Philosophy of Religion",
       "genre_slug": "indic",
       "language": "Kawi",
       "language_slug": "kawi",
@@ -235,7 +235,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-katyayana-smrti-1e06d2",
@@ -244,7 +244,7 @@
       "author_slug": "katyayana",
       "era": "Ancient",
       "era_slug": "ancient",
-      "genre": "Indic",
+      "genre": "Law",
       "genre_slug": "indic",
       "language": "Sanskrit",
       "language_slug": "sanskrit",
@@ -254,7 +254,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-kunjarakarna-dharmakathana-894f4a",
@@ -263,7 +263,7 @@
       "author_slug": "mpu-dusun",
       "era": "Medieval",
       "era_slug": "medieval",
-      "genre": "Indic",
+      "genre": "Literature",
       "genre_slug": "indic",
       "language": "Kawi",
       "language_slug": "kawi",
@@ -273,7 +273,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-manusmrti-347b76",
@@ -282,7 +282,7 @@
       "author_slug": "manu",
       "era": "Ancient",
       "era_slug": "ancient",
-      "genre": "Indic",
+      "genre": "Law",
       "genre_slug": "indic",
       "language": "Sanskrit",
       "language_slug": "sanskrit",
@@ -292,7 +292,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-naradasmrti-7650d2",
@@ -301,7 +301,7 @@
       "author_slug": "narada",
       "era": "Ancient",
       "era_slug": "ancient",
-      "genre": "Indic",
+      "genre": "Law",
       "genre_slug": "indic",
       "language": "Sanskrit",
       "language_slug": "sanskrit",
@@ -311,7 +311,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
@@ -377,7 +377,7 @@
       "author_slug": "parasara",
       "era": "Ancient",
       "era_slug": "ancient",
-      "genre": "Indic",
+      "genre": "Law",
       "genre_slug": "indic",
       "language": "Sanskrit",
       "language_slug": "sanskrit",
@@ -387,7 +387,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-san-hyan-kamahayanikan-2a0c19",
@@ -396,7 +396,7 @@
       "author_slug": "mpu-shri-sambhara-surya-warama",
       "era": "Medieval",
       "era_slug": "medieval",
-      "genre": "Indic",
+      "genre": "Philosophy of Religion",
       "genre_slug": "indic",
       "language": "Kawi",
       "language_slug": "kawi",
@@ -406,7 +406,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-san-hyan-mahajnana-11c531",
@@ -415,7 +415,7 @@
       "author_slug": "unknown",
       "era": "Medieval",
       "era_slug": "medieval",
-      "genre": "Indic",
+      "genre": "Philosophy of Religion",
       "genre_slug": "indic",
       "language": "Kawi",
       "language_slug": "kawi",
@@ -425,7 +425,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-san-hyan-tattvajnana-1f29bd",
@@ -434,7 +434,7 @@
       "author_slug": "unknown",
       "era": "Medieval",
       "era_slug": "medieval",
-      "genre": "Indic",
+      "genre": "Philosophy of Religion",
       "genre_slug": "indic",
       "language": "Kawi",
       "language_slug": "kawi",
@@ -444,7 +444,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-slokantara-d7a628",
@@ -453,7 +453,7 @@
       "author_slug": "unknown",
       "era": "Medieval",
       "era_slug": "medieval",
-      "genre": "Indic",
+      "genre": "Literature",
       "genre_slug": "indic",
       "language": "Kawi",
       "language_slug": "kawi",
@@ -463,7 +463,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
@@ -586,7 +586,7 @@
       "author_slug": "visnu",
       "era": "Ancient",
       "era_slug": "ancient",
-      "genre": "Indic",
+      "genre": "Law",
       "genre_slug": "indic",
       "language": "Sanskrit",
       "language_slug": "sanskrit",
@@ -596,7 +596,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-viramitrodaya-d4b632",
@@ -605,7 +605,7 @@
       "author_slug": "mitra-misra",
       "era": "Medieval",
       "era_slug": "medieval",
-      "genre": "Indic",
+      "genre": "Law",
       "genre_slug": "indic",
       "language": "Sanskrit",
       "language_slug": "sanskrit",
@@ -615,7 +615,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-vratisasana-d0fe75",
@@ -624,7 +624,7 @@
       "author_slug": "unknown",
       "era": "Medieval",
       "era_slug": "medieval",
-      "genre": "Indic",
+      "genre": "Philosophy of Religion",
       "genre_slug": "indic",
       "language": "Kawi",
       "language_slug": "kawi",
@@ -634,7 +634,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-vrhaspatitattva-b60b28",
@@ -643,7 +643,7 @@
       "author_slug": "brhaspati",
       "era": "Medieval",
       "era_slug": "medieval",
-      "genre": "Indic",
+      "genre": "Philosophy of Religion",
       "genre_slug": "indic",
       "language": "Kawi",
       "language_slug": "kawi",
@@ -653,7 +653,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-yama-smrti-552f8d",
@@ -662,7 +662,7 @@
       "author_slug": "yama",
       "era": "Ancient",
       "era_slug": "ancient",
-      "genre": "Indic",
+      "genre": "Law",
       "genre_slug": "indic",
       "language": "Sanskrit",
       "language_slug": "sanskrit",
@@ -672,7 +672,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "unknown-yajnavalkya-smrti-cb88d6",
@@ -681,7 +681,7 @@
       "author_slug": "yajnavalkya",
       "era": "Ancient",
       "era_slug": "ancient",
-      "genre": "Indic",
+      "genre": "Law",
       "genre_slug": "indic",
       "language": "Sanskrit",
       "language_slug": "sanskrit",
@@ -691,7 +691,7 @@
       "published_year": null,
       "difficulty": "Intermediate",
       "description": "",
-      "thothica_role": "catalog"
+      "thothica_role": "gretil-root"
     },
     {
       "slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
@@ -17382,7 +17382,7 @@
       "author_slug": "vatsyayana",
       "era": "Ancient",
       "era_slug": "ancient",
-      "genre": "Indic",
+      "genre": "Aesthetics",
       "genre_slug": "indic",
       "language": "English",
       "language_slug": "english",
