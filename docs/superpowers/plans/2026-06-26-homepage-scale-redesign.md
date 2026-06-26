@@ -840,4 +840,4 @@ Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>"
 
 - **Do not** change the featured-rotation script, the manifest, the nav/footer, or the `/numbers` page — out of scope.
 - The hero number literals in this plan (1,836 / 21,516 / 9 / 442) are today's values for reference. The page reads them live from `manifest.json`; verify against current data, don't hardcode.
-- Deploy is a separate, later step and follows the established runbook (build `dist` locally, `netlify deploy --prod`) — Netlify CI cannot build the ~28k-page site. Do not deploy as part of this plan unless asked.
+- Deploy is a separate, later step: `bun run deploy` (build `dist` locally, then rclone sync to Cloudflare R2; the `falsafaai` Worker serves it — see [DEPLOY.md](../../../DEPLOY.md)). Do not deploy as part of this plan unless asked.

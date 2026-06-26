@@ -16,7 +16,6 @@ build/
 .astro/
 .output/
 .vercel/
-.netlify/
 
 # Test outputs
 coverage/

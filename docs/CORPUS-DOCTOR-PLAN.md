@@ -164,6 +164,6 @@ artifact — and the corpus edits are fully reproducible from it via
 `enrich-authors.ts --write`.
 
 **To resume:** free several GB on the Mac, then Wave B per this plan.
-- Parked: Netlify deploy of the MIA corpus (1,447 works, applied locally,
+- Parked: deploy of the MIA corpus (1,447 works, applied locally,
   uncommitted); corpus release tar + mcp tag bump; cross-links.json rebuild
   was still running when this plan was drafted.

@@ -180,8 +180,9 @@ They are not precious and can be revised during or after implementation.
 - Visual check at desktop and mobile widths (numbers 2×2, spectrum as horizontal
   list); dark + sepia themes via the `[data-theme]` toggle.
 - Screenshot the result as proof before considering it done.
-- Deploy per the established runbook (build `dist` locally; `netlify deploy
-  --prod`) — Netlify cannot build ~28k pages in CI.
+- Deploy per the established runbook — `bun run deploy` (build `dist` locally,
+  then rclone sync to Cloudflare R2; the `falsafaai` Worker serves it). See
+  [DEPLOY.md](../../../DEPLOY.md).
 
 ## Non-goals
 
