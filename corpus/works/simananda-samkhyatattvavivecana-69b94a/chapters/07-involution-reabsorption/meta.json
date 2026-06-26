@@ -1,0 +1,38 @@
+{
+  "work_slug": "simananda-samkhyatattvavivecana-69b94a",
+  "work_title": "Sāṃkhyatattvavivecana",
+  "chapter_number": 7,
+  "chapter_title": "Involution (reabsorption)",
+  "chapter_slug": "07-involution-reabsorption",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "6561177c-7478-5dfd-b60e-dd56c09f4f87",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 27,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "24841ce5-7b67-5c50-baa9-8a52dda60e71",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 66,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

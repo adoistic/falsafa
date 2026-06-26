@@ -1,0 +1,38 @@
+{
+  "work_slug": "asanga-sarirarthagatha-503db2",
+  "work_title": "Śarīrārthagāthā",
+  "chapter_number": 3,
+  "chapter_title": "Quelling the fever of sensual passion",
+  "chapter_slug": "03-quelling-the-fever-of-sensual-passion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "afc92174-e980-57cd-8aa5-5c1900a06477",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 66,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3c7c3e98-c4da-5a51-8619-d70072462c29",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 133,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

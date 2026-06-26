@@ -1,0 +1,38 @@
+{
+  "work_slug": "simananda-samkhyatattvavivecana-69b94a",
+  "work_title": "Sāṃkhyatattvavivecana",
+  "chapter_number": 12,
+  "chapter_title": "The five active selves",
+  "chapter_slug": "12-the-five-active-selves",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "eed74467-cf66-50e5-a994-40f4a08f2493",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 21,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "45c28ee0-b84f-5bb0-a3ec-9544d00330cb",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 48,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

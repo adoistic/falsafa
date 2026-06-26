@@ -1,0 +1,38 @@
+{
+  "work_slug": "aryadeva-caryamelapakapradipa-8c21c0",
+  "work_title": "Caryāmelāpakapradīpa",
+  "chapter_number": 1,
+  "chapter_title": "Resolution of doubts about the integration of awakening (Chapter One)",
+  "chapter_slug": "01-resolution-of-doubts-about-the-integration-of-awak",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "ce158fb7-41d0-5418-ad36-9a78a2973b31",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 66,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b7b7b2a3-c8e1-5398-9339-6b47023e0d75",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 195,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

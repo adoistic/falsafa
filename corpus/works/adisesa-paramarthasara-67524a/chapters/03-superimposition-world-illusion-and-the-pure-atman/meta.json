@@ -1,0 +1,38 @@
+{
+  "work_slug": "adisesa-paramarthasara-67524a",
+  "work_title": "Paramārthasāra",
+  "chapter_number": 3,
+  "chapter_title": "Superimposition, world-illusion, and the pure ātman",
+  "chapter_slug": "03-superimposition-world-illusion-and-the-pure-atman",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "a7dc8662-9ca7-55d3-bc83-794baf50f4e6",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 234,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1624305f-a361-597c-b76f-d33893a01403",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 620,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-15T05:21:36.435Z",
+  "generated_at": "2026-06-26T04:47:47.814Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1824,
-    "authors": 434,
+    "works": 1836,
+    "authors": 442,
     "eras": 10,
     "genres": 32,
     "languages": 9
@@ -34664,6 +34664,234 @@
       "difficulty": "Advanced",
       "description": "Flavius Philostratus's Heroicus, translated from the Greek by Thothica, with the Greek original.",
       "thothica_role": "catalog"
+    },
+    {
+      "slug": "adisesa-paramarthasara-67524a",
+      "title": "Paramārthasāra",
+      "author": "Ādiśeṣa",
+      "author_slug": "adisesa",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 6,
+      "total_variant_entries": 12,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Paramārthasāra, a Sanskrit philosophical text by Ādiśeṣa, with transliteration and Thothica's English translation from the GRETIL source text. The source attributes the work to Ādiśeṣa, also identified as Śeṣa or Anantanāga.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "aryadeva-caryamelapakapradipa-8c21c0",
+      "title": "Caryāmelāpakapradīpa",
+      "author": "Āryadeva",
+      "author_slug": "aryadeva",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 11,
+      "total_variant_entries": 22,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Caryāmelāpakapradīpa, a Sanskrit philosophical text by Āryadeva, with transliteration and Thothica's English translation from the GRETIL source text. The source identifies this as the tantric Āryadeva of the Ārya school of the Guhyasamāja, not the early Madhyamaka Āryadeva of the Catuḥśataka.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "aryadeva-cittavisuddhiprakarana-d22356",
+      "title": "Cittaviśuddhiprakaraṇa",
+      "author": "Āryadeva",
+      "author_slug": "aryadeva",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Cittaviśuddhiprakaraṇa, a Sanskrit philosophical text by Āryadeva, with transliteration and Thothica's English translation from the GRETIL source text. The source identifies this as the tantric Āryadeva or Āryadevapāda, not the Madhyamaka author of the Catuḥśataka.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "isvarakrsna-samkhyakarika-d0d300",
+      "title": "Sāṃkhyakārikā",
+      "author": "Īśvarakṛṣṇa",
+      "author_slug": "isvarakrsna",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 12,
+      "total_variant_entries": 24,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Sāṃkhyakārikā, a Sanskrit philosophical text by Īśvarakṛṣṇa, with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "simananda-samkhyatattvavivecana-69b94a",
+      "title": "Sāṃkhyatattvavivecana",
+      "author": "Ṣimānanda",
+      "author_slug": "simananda",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 25,
+      "total_variant_entries": 50,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Sāṃkhyatattvavivecana, a Sanskrit philosophical text by Ṣimānanda, with transliteration and Thothica's English translation from the GRETIL source text. The source identifies Ṣimānanda as Simānandadīkṣita, a Kānyakubja brāhmaṇa and son of Raghunandana of Iṣṭikāpura.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "abhinavagupta-bodhapancadasika-c701d3",
+      "title": "Bodhapañcadaśikā",
+      "author": "Abhinavagupta",
+      "author_slug": "abhinavagupta",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Bodhapañcadaśikā, a Sanskrit philosophical text by Abhinavagupta, with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "abhinavagupta-paramarthasara-3b0d5e",
+      "title": "Paramārthasāra",
+      "author": "Abhinavagupta",
+      "author_slug": "abhinavagupta",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 10,
+      "total_variant_entries": 20,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Paramārthasāra, a Sanskrit philosophical text by Abhinavagupta, with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "abhinavagupta-paryantapancasika-82149f",
+      "title": "Paryantapañcāśikā",
+      "author": "Abhinavagupta",
+      "author_slug": "abhinavagupta",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 8,
+      "total_variant_entries": 16,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Paryantapañcāśikā, a Sanskrit philosophical text by Abhinavagupta, with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "anonymous-abhisamayalankaravivarana-fb5202",
+      "title": "Abhisamayālaṅkāravivaraṇa",
+      "author": "Anonymous",
+      "author_slug": "anonymous",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 5,
+      "total_variant_entries": 10,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Abhisamayālaṅkāravivaraṇa, a Sanskrit philosophical text by Anonymous, with transliteration and Thothica's English translation from the GRETIL source text. A Tibetan-tradition padārtha digest of Maitreya's Abhisamayālaṅkāra, quoting the root kārikās, Haribhadra's Ālokā, and the Mahāyānasūtrālaṅkāra; edited by Ram Shankar Tripathi in 1977.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "annambhatta-tarkasamgraha-a21ed4",
+      "title": "Tarkasaṃgraha",
+      "author": "Annaṃbhaṭṭa",
+      "author_slug": "annambhatta",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 14,
+      "total_variant_entries": 28,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Tarkasaṃgraha, a Sanskrit philosophical text by Annaṃbhaṭṭa, with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "asanga-sarirarthagatha-503db2",
+      "title": "Śarīrārthagāthā",
+      "author": "Asaṅga",
+      "author_slug": "asanga",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 41,
+      "total_variant_entries": 82,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Śarīrārthagāthā, a Sanskrit philosophical text by Asaṅga, with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "unknown-brahmabindupanisad-7fe70b",
+      "title": "Brahmabindūpaniṣad",
+      "author": "Unknown",
+      "author_slug": "unknown",
+      "era": "Medieval",
+      "era_slug": "medieval",
+      "genre": "Philosophy",
+      "genre_slug": "philosophy",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 1,
+      "total_variant_entries": 2,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Brahmabindūpaniṣad, a Sanskrit philosophical text by Unknown, with transliteration and Thothica's English translation from the GRETIL source text. An Atharvaveda Upaniṣad; source edition by Rāmamaya Tarkaratna, 1872.",
+      "thothica_role": "gretil-root"
     }
   ],
   "authors": {
@@ -34724,7 +34952,8 @@
         "unknown-slokantara-d7a628",
         "unknown-vratisasana-d0fe75",
         "unknown-select-letters-73fa24",
-        "unknown-ecclesiastical-history-of-the-en-4806a5"
+        "unknown-ecclesiastical-history-of-the-en-4806a5",
+        "unknown-brahmabindupanisad-7fe70b"
       ]
     },
     "katyayana": {
@@ -38660,6 +38889,57 @@
         "sidonius-apollinaris-carmina-0bc4da",
         "sidonius-apollinaris-letters-727be6"
       ]
+    },
+    "adisesa": {
+      "name": "Ādiśeṣa",
+      "works": [
+        "adisesa-paramarthasara-67524a"
+      ]
+    },
+    "aryadeva": {
+      "name": "Āryadeva",
+      "works": [
+        "aryadeva-caryamelapakapradipa-8c21c0",
+        "aryadeva-cittavisuddhiprakarana-d22356"
+      ]
+    },
+    "isvarakrsna": {
+      "name": "Īśvarakṛṣṇa",
+      "works": [
+        "isvarakrsna-samkhyakarika-d0d300"
+      ]
+    },
+    "simananda": {
+      "name": "Ṣimānanda",
+      "works": [
+        "simananda-samkhyatattvavivecana-69b94a"
+      ]
+    },
+    "abhinavagupta": {
+      "name": "Abhinavagupta",
+      "works": [
+        "abhinavagupta-bodhapancadasika-c701d3",
+        "abhinavagupta-paramarthasara-3b0d5e",
+        "abhinavagupta-paryantapancasika-82149f"
+      ]
+    },
+    "anonymous": {
+      "name": "Anonymous",
+      "works": [
+        "anonymous-abhisamayalankaravivarana-fb5202"
+      ]
+    },
+    "annambhatta": {
+      "name": "Annaṃbhaṭṭa",
+      "works": [
+        "annambhatta-tarkasamgraha-a21ed4"
+      ]
+    },
+    "asanga": {
+      "name": "Asaṅga",
+      "works": [
+        "asanga-sarirarthagatha-503db2"
+      ]
     }
   },
   "eras": {
@@ -38687,7 +38967,19 @@
         "moses-maimonides-the-guide-for-the-perplexed-6da00a",
         "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5",
         "john-of-damascus-barlaam-and-josaphat-e54c6c",
-        "joannes-zonaras-epitome-of-histories-volume-1-d4bea2"
+        "joannes-zonaras-epitome-of-histories-volume-1-d4bea2",
+        "adisesa-paramarthasara-67524a",
+        "aryadeva-caryamelapakapradipa-8c21c0",
+        "aryadeva-cittavisuddhiprakarana-d22356",
+        "isvarakrsna-samkhyakarika-d0d300",
+        "simananda-samkhyatattvavivecana-69b94a",
+        "abhinavagupta-bodhapancadasika-c701d3",
+        "abhinavagupta-paramarthasara-3b0d5e",
+        "abhinavagupta-paryantapancasika-82149f",
+        "anonymous-abhisamayalankaravivarana-fb5202",
+        "annambhatta-tarkasamgraha-a21ed4",
+        "asanga-sarirarthagatha-503db2",
+        "unknown-brahmabindupanisad-7fe70b"
       ]
     },
     "ancient": {
@@ -40850,7 +41142,19 @@
         "tertullian-apologeticum-02366e",
         "clement-of-alexandria-protrepticus-3b3e12",
         "tertullian-ad-nationes-437406",
-        "tertullian-de-carnis-resurrectione-fbd1c3"
+        "tertullian-de-carnis-resurrectione-fbd1c3",
+        "adisesa-paramarthasara-67524a",
+        "aryadeva-caryamelapakapradipa-8c21c0",
+        "aryadeva-cittavisuddhiprakarana-d22356",
+        "isvarakrsna-samkhyakarika-d0d300",
+        "simananda-samkhyatattvavivecana-69b94a",
+        "abhinavagupta-bodhapancadasika-c701d3",
+        "abhinavagupta-paramarthasara-3b0d5e",
+        "abhinavagupta-paryantapancasika-82149f",
+        "anonymous-abhisamayalankaravivarana-fb5202",
+        "annambhatta-tarkasamgraha-a21ed4",
+        "asanga-sarirarthagatha-503db2",
+        "unknown-brahmabindupanisad-7fe70b"
       ]
     },
     "history": {
@@ -42546,7 +42850,19 @@
         "unknown-visnu-smrti-27f0d8",
         "unknown-viramitrodaya-d4b632",
         "unknown-yama-smrti-552f8d",
-        "unknown-yajnavalkya-smrti-cb88d6"
+        "unknown-yajnavalkya-smrti-cb88d6",
+        "adisesa-paramarthasara-67524a",
+        "aryadeva-caryamelapakapradipa-8c21c0",
+        "aryadeva-cittavisuddhiprakarana-d22356",
+        "isvarakrsna-samkhyakarika-d0d300",
+        "simananda-samkhyatattvavivecana-69b94a",
+        "abhinavagupta-bodhapancadasika-c701d3",
+        "abhinavagupta-paramarthasara-3b0d5e",
+        "abhinavagupta-paryantapancasika-82149f",
+        "anonymous-abhisamayalankaravivarana-fb5202",
+        "annambhatta-tarkasamgraha-a21ed4",
+        "asanga-sarirarthagatha-503db2",
+        "unknown-brahmabindupanisad-7fe70b"
       ]
     },
     "urdu": {

@@ -1,0 +1,38 @@
+{
+  "work_slug": "simananda-samkhyatattvavivecana-69b94a",
+  "work_title": "Sāṃkhyatattvavivecana",
+  "chapter_number": 5,
+  "chapter_title": "The triad of guṇas",
+  "chapter_slug": "05-the-triad-of-gunas",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "06989e1e-496d-55eb-be64-e0e4c90ae07c",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 56,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4e748f26-6787-5ff9-889e-52c5a3ab2aec",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 131,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

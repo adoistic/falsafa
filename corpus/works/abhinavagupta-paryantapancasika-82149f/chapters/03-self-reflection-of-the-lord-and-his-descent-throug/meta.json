@@ -1,0 +1,38 @@
+{
+  "work_slug": "abhinavagupta-paryantapancasika-82149f",
+  "work_title": "Paryantapañcāśikā",
+  "chapter_number": 3,
+  "chapter_title": "Self-reflection of the Lord and his descent through the levels; the six paths",
+  "chapter_slug": "03-self-reflection-of-the-lord-and-his-descent-throug",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "d3d8ffa2-fe73-564e-ab6d-62e6f5011362",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 81,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "118a7855-8404-57c9-be63-f8477dc51460",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 214,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

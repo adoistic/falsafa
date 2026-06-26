@@ -1,0 +1,38 @@
+{
+  "work_slug": "isvarakrsna-samkhyakarika-d0d300",
+  "work_title": "Sāṃkhyakārikā",
+  "chapter_number": 10,
+  "chapter_title": "Prakṛti's selfless activity for puruṣa (illustrations)",
+  "chapter_slug": "10-prakrtis-selfless-activity-for-purusa-illustration",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "f43291dd-d137-5c4f-9cec-fb5bc06537b5",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "IAST (normalized from Ruzsa's Velthuis-derived edition: sandhi-apparatus glyphs ' ` ^ * resolved into standard IAST sandhi, '.a' rendered as avagraha ’, AA/II rendered as Ā/Ī; compound hyphenation retained as a parsing aid)",
+      "word_count": 82,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "199a971c-3c64-571a-8521-9fd77f3748fe",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 235,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

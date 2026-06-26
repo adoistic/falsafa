@@ -1,0 +1,38 @@
+{
+  "work_slug": "aryadeva-caryamelapakapradipa-8c21c0",
+  "work_title": "Caryāmelāpakapradīpa",
+  "chapter_number": 11,
+  "chapter_title": "Resolution of doubts on conduct utterly free of elaboration (Chapter Eleven, concluding)",
+  "chapter_slug": "11-resolution-of-doubts-on-conduct-utterly-free-of-el",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "a76835d8-a483-5c71-8bda-29eaa40b9e45",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 496,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "690ff551-a1a9-5216-a141-59911cf306cf",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1172,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

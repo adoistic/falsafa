@@ -1,0 +1,38 @@
+{
+  "work_slug": "simananda-samkhyatattvavivecana-69b94a",
+  "work_title": "Sāṃkhyatattvavivecana",
+  "chapter_number": 4,
+  "chapter_title": "The Self / spirit (puruṣa)",
+  "chapter_slug": "04-the-self-spirit-purusa",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "b092ac8c-9346-515b-8367-48b75bbb7933",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 431,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7e60a834-916b-54c4-a442-8c2c9d2c7490",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1011,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

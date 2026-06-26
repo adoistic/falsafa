@@ -1,0 +1,38 @@
+{
+  "work_slug": "simananda-samkhyatattvavivecana-69b94a",
+  "work_title": "Sāṃkhyatattvavivecana",
+  "chapter_number": 10,
+  "chapter_title": "The five sources of action",
+  "chapter_slug": "10-the-five-sources-of-action",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "559de30c-d9d2-523b-b519-8548ddcd34c7",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 97,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "039c6e74-312b-57b0-8a61-c5331b826884",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 236,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

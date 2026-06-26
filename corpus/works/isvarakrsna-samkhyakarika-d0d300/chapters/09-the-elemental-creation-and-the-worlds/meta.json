@@ -1,0 +1,38 @@
+{
+  "work_slug": "isvarakrsna-samkhyakarika-d0d300",
+  "work_title": "Sāṃkhyakārikā",
+  "chapter_number": 9,
+  "chapter_title": "The elemental creation and the worlds",
+  "chapter_slug": "09-the-elemental-creation-and-the-worlds",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "8df46c31-5184-5ab9-94c4-c18dff317b1b",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "IAST (normalized from Ruzsa's Velthuis-derived edition: sandhi-apparatus glyphs ' ` ^ * resolved into standard IAST sandhi, '.a' rendered as avagraha ’, AA/II rendered as Ā/Ī; compound hyphenation retained as a parsing aid)",
+      "word_count": 37,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5dbd95f5-d4b4-5fae-bc98-90c46af02c31",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 99,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

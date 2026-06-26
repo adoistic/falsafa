@@ -1,0 +1,38 @@
+{
+  "work_slug": "simananda-samkhyatattvavivecana-69b94a",
+  "work_title": "Sāṃkhyatattvavivecana",
+  "chapter_number": 25,
+  "chapter_title": "Systematic recapitulation, sphoṭa and kāla excursus, cosmogony, and colophon",
+  "chapter_slug": "25-systematic-recapitulation-sphota-and-kala-excursus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "005d6c21-353c-5f08-a6ed-bb9504e872f3",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 2418,
+      "paragraph_count": 100,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0fb3ee44-ad14-5d3d-b986-f5451d53a665",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 7429,
+      "paragraph_count": 100,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

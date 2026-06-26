@@ -1,0 +1,38 @@
+{
+  "work_slug": "anonymous-abhisamayalankaravivarana-fb5202",
+  "work_title": "Abhisamayālaṅkāravivaraṇa",
+  "chapter_number": 1,
+  "chapter_title": "The Eight Categories / Eight Realisations (overview of the whole AA)",
+  "chapter_slug": "01-the-eight-categories-eight-realisations-overview-o",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "df3b4e44-db56-5bac-bf84-4e110ab550c7",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 408,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0dae30d3-96b4-58d6-b094-95573e9dee81",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1102,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

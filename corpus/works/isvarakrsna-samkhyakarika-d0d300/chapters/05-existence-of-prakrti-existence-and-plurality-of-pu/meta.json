@@ -1,0 +1,38 @@
+{
+  "work_slug": "isvarakrsna-samkhyakarika-d0d300",
+  "work_title": "Sāṃkhyakārikā",
+  "chapter_number": 5,
+  "chapter_title": "Existence of prakṛti, existence and plurality of puruṣa",
+  "chapter_slug": "05-existence-of-prakrti-existence-and-plurality-of-pu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "e8bb8a76-4c39-547c-b89b-3352c07a296f",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "IAST (normalized from Ruzsa's Velthuis-derived edition: sandhi-apparatus glyphs ' ` ^ * resolved into standard IAST sandhi, '.a' rendered as avagraha ’, AA/II rendered as Ā/Ī; compound hyphenation retained as a parsing aid)",
+      "word_count": 87,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "02b7bdcf-33df-5d8a-bc88-ab9d6f065538",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 306,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "annambhatta-tarkasamgraha-a21ed4",
+  "work_title": "Tarkasaṃgraha",
+  "chapter_number": 7,
+  "chapter_title": "The qualities — remaining set (psychic qualities and disposition)",
+  "chapter_slug": "07-the-qualities-remaining-set-psychic-qualities-and-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "d2e26f76-eb5e-5a87-bb7a-c6376048faa6",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 74,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e8cd4626-40c2-52dd-b3e4-18338bf73375",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 160,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "anonymous-abhisamayalankaravivarana-fb5202",
+  "work_title": "Abhisamayālaṅkāravivaraṇa",
+  "chapter_number": 4,
+  "chapter_title": "Nine topics for the knowledge of the bases (AA chapter 3)",
+  "chapter_slug": "04-nine-topics-for-the-knowledge-of-the-bases-aa-chap",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "852df6cb-9655-5803-ba20-2fafa9c78c9c",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 725,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14db6dae-cf54-5e21-94ff-27997822a09f",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1856,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

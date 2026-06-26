@@ -1,0 +1,38 @@
+{
+  "work_slug": "annambhatta-tarkasamgraha-a21ed4",
+  "work_title": "Tarkasaṃgraha",
+  "chapter_number": 10,
+  "chapter_title": "Ultimate particularity",
+  "chapter_slug": "10-ultimate-particularity",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "c2dec447-75b5-5901-a62b-d58ab35cbee5",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 5,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "640e9d11-ced9-5ed8-bf44-df3c11f9b9bb",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 13,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

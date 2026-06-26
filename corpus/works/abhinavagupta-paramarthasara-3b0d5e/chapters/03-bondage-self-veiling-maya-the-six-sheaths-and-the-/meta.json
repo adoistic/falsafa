@@ -1,0 +1,38 @@
+{
+  "work_slug": "abhinavagupta-paramarthasara-3b0d5e",
+  "work_title": "Paramārthasāra",
+  "chapter_number": 3,
+  "chapter_title": "Bondage: self-veiling māyā, the six sheaths, and the unfolding of the psycho-cosmic categories",
+  "chapter_slug": "03-bondage-self-veiling-maya-the-six-sheaths-and-the-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "f399ca5c-0544-598a-877b-88cd31bbffef",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 125,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "17d4259f-e389-5f98-960f-88e11eb04e23",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 350,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

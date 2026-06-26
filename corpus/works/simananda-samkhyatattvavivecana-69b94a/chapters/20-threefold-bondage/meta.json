@@ -1,0 +1,38 @@
+{
+  "work_slug": "simananda-samkhyatattvavivecana-69b94a",
+  "work_title": "Sāṃkhyatattvavivecana",
+  "chapter_number": 20,
+  "chapter_title": "Threefold bondage",
+  "chapter_slug": "20-threefold-bondage",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "3db595fd-2726-5283-8afa-3ade2e0b81b2",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 24,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3c1462ed-bdfb-54f4-9178-ac3f78f01def",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 66,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

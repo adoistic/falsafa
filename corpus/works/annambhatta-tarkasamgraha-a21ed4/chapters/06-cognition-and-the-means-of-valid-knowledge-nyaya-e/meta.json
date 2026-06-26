@@ -1,0 +1,38 @@
+{
+  "work_slug": "annambhatta-tarkasamgraha-a21ed4",
+  "work_title": "Tarkasaṃgraha",
+  "chapter_number": 6,
+  "chapter_title": "Cognition and the means of valid knowledge (Nyāya epistemology)",
+  "chapter_slug": "06-cognition-and-the-means-of-valid-knowledge-nyaya-e",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "ca8864f2-eae1-564c-a356-2a3fcf7c3eba",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 936,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da889323-89da-5c0d-abd4-92a864542325",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 2161,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

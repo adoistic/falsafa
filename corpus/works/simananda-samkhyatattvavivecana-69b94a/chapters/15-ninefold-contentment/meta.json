@@ -1,0 +1,38 @@
+{
+  "work_slug": "simananda-samkhyatattvavivecana-69b94a",
+  "work_title": "Sāṃkhyatattvavivecana",
+  "chapter_number": 15,
+  "chapter_title": "Ninefold contentment",
+  "chapter_slug": "15-ninefold-contentment",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "faa308dc-7ab4-5c5d-ac0f-b66216bf8135",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 94,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "acdbb04f-97fc-5938-a290-b7ebcbaea648",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 238,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

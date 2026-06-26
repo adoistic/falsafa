@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-brahmabindupanisad-7fe70b",
+  "work_title": "Brahmabindūpaniṣad",
+  "chapter_number": 1,
+  "chapter_title": "The Upaniṣad of the Drop/Point of Brahman",
+  "chapter_slug": "01-the-upanisad-of-the-drop-point-of-brahman",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "0e372f9c-6dab-566c-aedf-2de0afb2d064",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 306,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9451f171-081d-5439-9a41-001ba2caef48",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 752,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

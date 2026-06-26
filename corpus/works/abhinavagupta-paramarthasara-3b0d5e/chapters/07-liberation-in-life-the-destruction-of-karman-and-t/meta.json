@@ -1,0 +1,38 @@
+{
+  "work_slug": "abhinavagupta-paramarthasara-3b0d5e",
+  "work_title": "Paramārthasāra",
+  "chapter_number": 7,
+  "chapter_title": "Liberation-in-life: the destruction of karman and the nature of release",
+  "chapter_slug": "07-liberation-in-life-the-destruction-of-karman-and-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "75301305-eda9-5b50-b190-9fb2b887b19d",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 217,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9c99dcd4-1bbc-58c6-9fe5-9d8d4934256e",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 642,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

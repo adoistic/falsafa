@@ -1,0 +1,38 @@
+{
+  "work_slug": "anonymous-abhisamayalankaravivarana-fb5202",
+  "work_title": "Abhisamayālaṅkāravivaraṇa",
+  "chapter_number": 3,
+  "chapter_title": "Eleven topics for the knowledge of the paths (AA chapter 2)",
+  "chapter_slug": "03-eleven-topics-for-the-knowledge-of-the-paths-aa-ch",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "31a53629-bf47-5632-b9ad-5b0f9b5a6203",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 935,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "93ae6974-aaee-5611-ab20-d4eb68125769",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 2426,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

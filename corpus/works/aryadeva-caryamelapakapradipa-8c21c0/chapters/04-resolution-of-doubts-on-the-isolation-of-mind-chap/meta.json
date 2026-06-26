@@ -1,0 +1,38 @@
+{
+  "work_slug": "aryadeva-caryamelapakapradipa-8c21c0",
+  "work_title": "Caryāmelāpakapradīpa",
+  "chapter_number": 4,
+  "chapter_title": "Resolution of doubts on the isolation of mind (Chapter Four)",
+  "chapter_slug": "04-resolution-of-doubts-on-the-isolation-of-mind-chap",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "5f30104a-97e9-5309-80e4-f3cc5fdab107",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "iast",
+      "word_count": 89,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d7d5060f-3ec6-57e0-a189-a9496158ca54",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 238,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
