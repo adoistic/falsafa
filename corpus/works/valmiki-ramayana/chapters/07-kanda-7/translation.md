@@ -3501,3 +3501,1879 @@
 **7.54.20**  "And do not speak in return, O hero, interrupting my words. The command of an elder brother must be carried out by a younger — there is no doubt in this matter."
 
 **7.54.21**  "And accept, O Kākutstha, the consecration prepared by me, preceded by rites and mantras performed by Vasiṣṭha and the other brāhmaṇas."
+
+**7.55.1**  Thus addressed by Rāma, Śatrughna—endowed with heroic valour—was overcome by deep embarrassment and spoke slowly, word by word.
+
+**7.55.2**  "O bull among men, your command must certainly be carried out; O greatly blessed one, your command is impossible to transgress. I am your willing servant, O king, O bull among men."
+
+**7.55.3**  When the heroic and great-souled Śatrughna had spoken thus, the delighted Rāma addressed Lakṣmaṇa and Bharata.
+
+**7.55.4**  "Bring with careful attention the materials for the consecration; today itself I shall consecrate this tiger among men, this invincible hero."
+
+**7.55.5**  "O ye two of Kākutstha's line, by my command summon the chief priest, the city elders, the officiating priests, and all my ministers."
+
+**7.55.6**  Knowing the king's command, the great chariot-warriors acted accordingly; placing the chief priest at their head and setting the consecration rites in motion, they entered the royal palace, which resembled the abode of Indra.
+
+**7.55.7**  Then the auspicious consecration of the great-souled Śatrughna grew in grandeur, bringing great rejoicing to Rāghava's city.
+
+**7.55.8**  Then, seating the consecrated Śatrughna upon his lap, Rāghava spoke sweet words to him, filling him with radiant energy.
+
+**7.55.9**  "This arrow of yours is unfailing and divine, the conqueror of enemy citadels; with this, O gentle one, O delight of Raghu's line, you shall slay Lavaṇa."
+
+**7.55.10**  "This arrow, O Kākutstha, was fashioned when the self-born, unconquered god lay upon the great ocean—he whom neither gods nor asuras could behold."
+
+**7.55.11**  "Invisible to all creatures, he—when overcome by wrath for the destruction of those two evil-souled ones, Madhu and Kaiṭabha, who were engaged in wreaking havoc—fashioned this supreme arrow, O hero."
+
+**7.55.12**  "Desiring to create the three worlds, he slew those two in battle with this weapon; with this foremost of arrows, he then brought the worlds into being."
+
+**7.55.13**  "This arrow was not released by me earlier when I sought to slay Rāvaṇa, O Śatrughna, lest great terror befall all creatures."
+
+**7.55.14**  "And there is that great trident given by the mighty three-eyed god for the destruction of enemies—Madhu's supreme weapon."
+
+**7.55.15**  "Having stored that weapon in his dwelling, worshipping it again and again, he ranges in all directions, surveying them, and thereby obtains food for himself."
+
+**7.55.16**  "But when someone challenges him, desiring battle, then the rākṣasa seizes that trident and reduces the challenger to ashes."
+
+**7.55.17**  "Therefore, O tiger among men, before he re-enters his citadel and while he is without his weapon, stand at the gateway bearing your arms."
+
+**7.55.18**  "And when he has not yet entered his dwelling, O bull among men, O mighty-armed one, challenge him to battle; then you shall slay the rākṣasa."
+
+**7.55.19**  "If it is done otherwise, he will be invincible; but if it is done in this manner, O hero, he will meet his destruction."
+
+**7.55.20**  "All this has been explained to you, including the counter to the trident; for the deed of the glorious blue-throated one is impossible to transgress."
+
+**7.56.1**  Having spoken thus to Kākutstha and praised him again and again, the delight of Raghu's line spoke yet further words.
+
+**7.56.2**  "O bull among men, four thousand horses, two thousand chariots, and a hundred elephants—"
+
+**7.56.3**  "—and market convoys adorned with goods of every kind, and likewise entertainers and dancers, let them accompany you, Śatrughna."
+
+**7.56.4**  "Taking ten thousand pieces of silver and gold, go forth, O Śatrughna, O bull among men, abundantly supplied with wealth and conveyances."
+
+**7.56.5**  "And the army, well-maintained, joyful, and well-fed, unsurpassed—O foremost of men, please and gratify them with kind words and generous gifts."
+
+**7.56.6**  "For wealth does not abide there, nor wife, nor kinsmen—O Rāghava, only the corps of well-gratified servants endures."
+
+**7.56.7**  "Therefore, having dispatched that great army thronging with rejoicing men, go you alone, bow in hand, to the forest of Madhu."
+
+**7.56.8**  "So that Lavaṇa, son of Madhu, does not recognise you as you approach, seeking battle, go without arousing suspicion."
+
+**7.56.9**  "For no other death exists for him, O bull among men; whoever comes to face him is surely slain by Lavaṇa."
+
+**7.56.10**  "When the summer has passed and the rainy season is at hand, then slay Lavaṇa, O gentle one; for that is the time of this evil-minded one's vulnerability."
+
+**7.56.11**  "Let your soldiers march with great sages at their head, so that with what remains of the summer season they may cross the waters of the Jāhnavī."
+
+**7.56.12**  "Then, having stationed all the forces on the riverbank with composure, go forward yourself with bow in hand, O swift-striding one."
+
+**7.56.13**  Thus instructed by Rāma, Śatrughna summoned those mighty commanders of the army and then addressed them with these words.
+
+**7.56.14**  "These are your designated halting places, wherever you shall encamp; you must conduct yourselves without causing obstruction, so that no one is harassed."
+
+**7.56.15**  Having given them such instruction and sent the great army forth, he paid his respects to Kausalyā, Sumitrā, and Kaikeyī.
+
+**7.56.16**  Having circumambulated Rāma with reverential right-hand salutation and bowed his head to him, and having been given leave by his lord, Śatrughna the afflicitor of enemies—
+
+**7.56.17**  —Śatrughna, of disciplined spirit and mighty strength, prostrated himself with joined palms before Lakṣmaṇa and Bharata, and then, having circumambulated the chief priest Vasiṣṭha, departed.
+
+**7.57.1**  Having dispatched that entire army and himself halting only a month along the road, Śatrughna then went forward swiftly and alone with haste.
+
+**7.57.2**  After halting for two nights along the way, the hero and delight of Raghu's line came to the holy hermitage of Vālmīki, that most excellent of abodes.
+
+**7.57.3**  He greeted the great-souled Vālmīki, that foremost of sages, and then, standing with joined palms, spoke these words.
+
+**7.57.4**  "O venerable one, I wish to stay here tonight; I have come hither on a task for my lord, and at dawn tomorrow I shall proceed toward the western quarter, the domain of Varuṇa."
+
+**7.57.5**  Hearing Śatrughna's words, that bull among sages smiled and replied to the great-souled one: "Welcome to you, O greatly renowned one."
+
+**7.57.6**  "This hermitage is verily the home of the Rāghava lineage, O gentle one; accept without hesitation the seat, the water for feet, and the guest-offering that I extend."
+
+**7.57.7**  Then Kākutstha accepted the honour and ate the food of fruits and roots, and was filled with utmost satisfaction.
+
+**7.57.8**  Having eaten, the mighty-armed one then asked the great sage: "In former times, to whose hermitage near here did the splendour of the sacrifice belong?"
+
+**7.57.9**  Hearing that question of his, Vālmīki spoke these words: "O Śatrughna, listen—learn to whom this sacred precinct formerly belonged."
+
+**7.57.10**  "An ancestor of your line, the son of the great-souled Sudāsa, named Mitrasaha—valiant and supremely righteous—"
+
+**7.57.11**  "—this Saudāsa, even as a youth, took to the hunt; and the hero beheld a pair of rākṣasas prowling about."
+
+**7.57.12**  "Terrible in the form of tigers, they were devouring many thousands of deer and yet were not satisfied, never reaching fullness."
+
+**7.57.13**  "Seeing those two rākṣasas and finding the forest stripped of deer, he was seized by great wrath and slew one of them with a mighty arrow."
+
+**7.57.14**  "Having struck down that one, Saudāsa the bull among men, his fever of rage spent and his fury gone, looked upon the slain rākṣasa."
+
+**7.57.15**  "Seeing him gazing thus, the companion of that rākṣasa was filled with terrible anguish and spoke these words to Saudāsa:"
+
+**7.57.16**  "'Because you have slain my companion who had committed no offence, therefore, O most wicked one, I shall repay you in kind.'"
+
+**7.57.17**  "Having spoken thus, that rākṣasa vanished on the spot; and in the course of time King Mitrasaha came to reign."
+
+**7.57.18**  "The king too performed a sacrifice—the great Aśvamedha sacrifice—near that hermitage; Vasiṣṭha supervised that ritual."
+
+**7.57.19**  "There the great sacrifice lasting for many years and groups of years prospered with the highest splendour and was the equal of a sacrifice of the gods."
+
+**7.57.20**  "Then, at the close of the sacrifice, remembering his former enmity, the rākṣasa assumed the form of Vasiṣṭha and thus addressed the king:"
+
+**7.57.21**  "'At the conclusion of the sacrifice today, let food containing meat be given to me quickly—there is to be no deliberation in this matter.'"
+
+**7.57.22**  "Hearing those words spoken by the rākṣasa who could take any form at will, the lord of the earth—skilled in the preparation of food—addressed his cook:"
+
+**7.57.23**  "'Prepare quickly a dish of oblation-food containing meat so as to be tasty, in such a way that the guru may be well pleased.'"
+
+**7.57.24**  "At the command of the lord of kings, the cook—his mind agitated—went about his task; and that rākṣasa there again took on the disguise of the cook."
+
+**7.57.25**  "He then presented human flesh to the king, announcing: 'This tasty oblation-food with meat has been brought.'"
+
+**7.57.26**  "He brought that food—tampered with by the rākṣasa, O tiger among men—to present to Vasiṣṭha together with his wife Madayantī."
+
+**7.57.27**  "The brahmin, knowing that the food brought was human flesh, was seized by great wrath and began to utter a curse."
+
+**7.57.28**  "'Because you, O king, wish to give me this as food, therefore this food shall be yours—there is no doubt of this.'"
+
+**7.57.29**  "That king, together with his wife, prostrated himself again and again and then explained to Vasiṣṭha what had been said by one who had assumed the form of a brahmin."
+
+**7.57.30**  "Having heard the account of the lord of kings and that the matter had been distorted by the rākṣasa, Vasiṣṭha again addressed the king, that bull among men:"
+
+**7.57.31**  "'This word I have uttered in the grip of rage cannot be made void; yet I shall grant you a boon:"
+
+**7.57.32**  "'The duration of this curse shall be twelve years; and by my grace, O lord of kings, you shall not remember what has passed.'"
+
+**7.57.33**  "Thus that king, the crusher of enemies, having endured that curse, regained his kingdom and thereafter protected his subjects."
+
+**7.57.34**  "This auspicious precinct of the sacrifice of that Kalmāṣapāda is the one near this hermitage about which you ask, O Rāghava."
+
+**7.57.35**  "Having heard that most terrible story of that lord of kings, and having paid his respects to the great sage, he entered the leaf-hut."
+
+**7.58.1**  That very same night on which Śatrughna entered the leaf-hut, that very same night Sītā too gave birth to a pair of boys.
+
+**7.58.2**  Then, at the middle of the night, the young disciples of the sage joyfully announced to Vālmīki the auspicious birth of Sītā's children: "O mighty one, perform for them the protective rite that dispels evil spirits."
+
+**7.58.3**  Hearing those words of theirs, the sage was filled with joy; and he performed for those two a protective rite with the demon-slaying, demon-destroying charm.
+
+**7.58.4**  Taking a handful of kuśa grass and a blade of lava grass as well, the twice-born Vālmīki bestowed upon the two of them the protection that destroys evil spirits.
+
+**7.58.5**  The one of the two born first was to be cleansed with kuśa grass consecrated by sacred mantras; and from this, his name shall be Kuśa.
+
+**7.58.6**  And the other of the two, to be carefully cleansed by the elder women with a blade of lava grass — he shall bear the name Lava.
+
+**7.58.7**  Thus those two, born as twins, shall be known by the names Kuśa and Lava — the two names bestowed by me — and they shall attain great renown.
+
+**7.58.8**  Those pure-souled ones, composed and reverent, received the protective ritual from the sage's hand, and then those blameless ones duly performed the protective rite for the two infants.
+
+**7.58.9**  Even as that protective rite was being performed, along with the recitation of lineage and name, and the glorification of Rāma's name, came the auspicious birth-sons of Sītā.
+
+**7.58.10**  At midnight, Śatrughna, who had gone to the leaf-hut that night, heard the most welcome of tidings; he exclaimed, "How fortunate! How fortunate!"
+
+**7.58.11**  And for that great-souled, overjoyed Śatrughna, the rainy-season night of Śrāvaṇa, light of step, quickly passed.
+
+**7.58.12**  At dawn, the mighty hero completed his morning rituals, took leave of the sage with joined palms, and set out again, turning back westward.
+
+**7.58.13**  Having journeyed to the bank of the Yamunā, he spent seven nights along the way, taking lodging in the hermitages of sages of holy renown.
+
+**7.58.14**  There, together with the sages headed by Cyavana of the Bhārgava lineage, that greatly glorious king passed his time in many kinds of conversation.
+
+**7.59.1**  When night had come, Śatrughna asked the brāhmaṇa Cyavana, joy of the Bhṛgu lineage, about the strength and weakness of Lavaṇa.
+
+**7.59.2**  "What is the power of his trident, O brāhmaṇa? Who before now have been slain — who came to single combat at the point of this trident?"
+
+**7.59.3**  Having heard those words of the great-souled Śatrughna, the mighty Cyavana replied to that scion of the Raghu line.
+
+**7.59.4**  "His deeds are beyond counting, O bull among men. Hear from me what transpired at the rise of the Ikṣvāku dynasty."
+
+**7.59.5**  "In Ayodhyā of old there was a mighty king, son of Yuvanāśva, renowned throughout the three worlds for his valor — known as Māndhātā."
+
+**7.59.6**  "Having brought the entire earth under his dominion, that lord of the earth, the king, undertook a campaign to conquer the world of the gods."
+
+**7.59.7**  "When Māndhātā set out with desire to conquer the celestial world, Indra and all the great-souled gods were seized with intense fear."
+
+**7.59.8**  "Honored by the host of gods with half of Indra's throne and half of his kingdom, that king of earth mounted a solemn pledge."
+
+**7.59.9**  "Knowing his sinful intention, the chastiser of Pāka, Indra, spoke these appeasing words to the son of Yuvanāśva."
+
+**7.59.10**  "'You are a king in the human world, O bull among men — you desire the kingdom of the gods here without yet having made the entire earth obedient to you.'"
+
+**7.59.11**  "'If, O hero, the entire earth, whole and complete, is truly under your sway, then rule over the kingdom of the gods here, together with your troops, forces, and conveyances.'"
+
+**7.59.12**  "Then Māndhātā spoke these words to Indra as he spoke thus: 'Where on the face of the earth has my command been repelled, O Śakra?'"
+
+**7.59.13**  "To him, the thousand-eyed one replied: 'Lavaṇa — a rākṣasa, son of Madhu, dwelling in the Madhu forest — does not observe your command, O sinless king.'"
+
+**7.59.14**  "Hearing those harsh and unwelcome words spoken by Indra, the king was ashamed, bowed his head downward, and was unable to speak."
+
+**7.59.15**  "Taking leave of the thousand-eyed Indra, the glorious lord of men returned somewhat shame-faced to this world below."
+
+**7.59.16**  "Harboring indignation in his heart, that blameless one came with his troops, forces, and conveyances to bring the son of Madhu under his power."
+
+**7.59.17**  "Desiring to fight Lavaṇa, that bull among men dispatched a messenger to Lavaṇa's presence."
+
+**7.59.18**  "The messenger went and spoke many harsh and unwelcome words to the son of Madhu; while speaking thus, that messenger was devoured by the rākṣasa."
+
+**7.59.19**  "When the messenger was long delayed, the king, filled with wrath, assailed that rākṣasa on all sides with a shower of arrows."
+
+**7.59.20**  "Then Lavaṇa laughed aloud, took his trident in hand, and hurled that supreme weapon to slay the king along with all his followers."
+
+**7.59.21**  "That blazing trident reduced the king, together with his troops, forces, and conveyances, to ashes, and then returned once more to the hand of Lavaṇa."
+
+**7.59.22**  "In this manner that great king was slain together with his forces and conveyances. The power of the trident, O hero, is immeasurable and unsurpassed."
+
+**7.59.23**  "Tomorrow at dawn you shall without doubt slay Lavaṇa — catch him quickly before he takes up his weapon; victory is then certain for you."
+
+**7.60.1**  As they conversed and eagerly awaited auspicious victory, the night passed quickly for that great-souled Śatrughna.
+
+**7.60.2**  Then, at that bright and clear dawn, the rākṣasa warrior went out from the city, driven by hunger in search of prey.
+
+**7.60.3**  Meanwhile, the heroic Śatrughna crossed the river Yamunā and stood at the gate of Madhupura, bow in hand.
+
+**7.60.4**  Then, when midday had arrived, that cruel-deeded rākṣasa came back, bearing the weight of many thousands of living creatures.
+
+**7.60.5**  Then he saw Śatrughna standing at the gate, holding his weapon. The rākṣasa then said to him: "What will you do with this?"
+
+**7.60.6**  "Thousands like you, armed as you are, O basest of men, have been devoured by me in fury. Are you awaiting your appointed time?"
+
+**7.60.7**  "My meal today is also not yet complete, O most despicable of men. How have you, having come on your own, walked into my very mouth, O fool?"
+
+**7.60.8**  As he spoke thus and laughed again and again, Śatrughna, full of valor, shed tears of rage.
+
+**7.60.9**  From that great-souled Śatrughna, overcome by rage, rays of fiery energy blazed forth from every limb of his body.
+
+**7.60.10**  And Śatrughna, deeply enraged, said to that night-wanderer: "I wish to fight you in single combat, O evil-minded one."
+
+**7.60.11**  "I am the son of Daśaratha, the brother of the wise Rāma. My name is Śatrughna — Śatrughna, come here desiring your death."
+
+**7.60.12**  "Let single combat be granted to me who desire battle. You are the enemy of all living beings — you shall not escape me alive."
+
+**7.60.13**  While he spoke thus, the rākṣasa laughed aloud and replied to that foremost of men: "By good fortune you have come, O fool."
+
+**7.60.14**  "My mother's sister's brother — the rākṣasa named Rāvaṇa — was slain by Rāma, O evil-minded one, for the sake of a woman, O basest of men."
+
+**7.60.15**  "All of that — the destruction of Rāvaṇa's clan — I have endured, keeping contempt before me, especially toward you and your kind."
+
+**7.60.16**  "All of you have not been slain — you are despised like blades of grass — those who exist, those who shall exist, and you too, O basest of men."
+
+**7.60.17**  "To you who desire battle I shall give battle, O fool — the kind you desire — wait while I make ready my weapon."
+
+**7.60.18**  Then Śatrughna said to him: "Where will you go from me alive? Even a weakened enemy who has come must not be released by a man of steadfast soul."
+
+**7.60.19**  "For he who, with a confused mind, gives an enemy room to maneuver is destroyed by his own weak-mindedness, like a coward."
+
+**7.61.1**  Hearing those words of the great-souled Śatrughna, Lavaṇa roused fierce anger and cried out repeatedly, "Stand! Stand!"
+
+**7.61.2**  Slapping palm against palm and grinding his teeth, Lavaṇa challenged the tiger of the Raghu line again and again.
+
+**7.61.3**  To Lavaṇa of terrible valour who spoke thus, Śatrughna, destroyer of enemies, spoke these words.
+
+**7.61.4**  "Śatrughna was not yet born when others were conquered by you; but today, struck by my arrow, go to the abode of Yama."
+
+**7.61.5**  "Today, O evil-souled one, let the sages, the learned brāhmaṇas, and the gods witness you slain in battle by me, even as they witnessed Rāvaṇa."
+
+**7.61.6**  "When you, O night-roamer, are scorched by my arrow and fallen today, this city and the countryside will be at peace."
+
+**7.61.7**  "Today the arrow released from my arm, its face like a thunderbolt, will enter your lotus-heart as a ray enters that of the sun's son."
+
+**7.61.8**  Addressed thus, Lavaṇa, swooning with rage, hurled a great tree at the chest of Śatrughna; the hero cut it to a hundred pieces.
+
+**7.61.9**  Seeing that act rendered fruitless, the powerful rākṣasa seized a great many trees and hurled them again at Śatrughna.
+
+**7.61.10**  The brilliant Śatrughna severed those many oncoming trees one by one with three or four arrows whose joints were smooth.
+
+**7.61.11**  Then Śatrughna, endowed with valour, discharged a rain of arrows at the rākṣasa's body, yet the rākṣasa was not distressed.
+
+**7.61.12**  Then Lavaṇa laughed and, uprooting a tree with ease, struck the hero on the head; his limbs went limp and he fell into a swoon.
+
+**7.61.13**  When that hero fell, a great cry of "Ah! Ah!" arose from the hosts of sages, gods, Gandharvas, and Apsarases.
+
+**7.61.14**  Disdaining Śatrughna, though struck down and prostrate on the earth, the rākṣasa, even with the opportunity secured, did not enter his own dwelling.
+
+**7.61.15**  Nor did he take up his trident, seeing him fallen on the ground; thinking him slain, he then went off to gather his food.
+
+**7.61.16**  But within a moment Śatrughna recovered consciousness and stood again, weapon in hand, at the rākṣasa's gate, honoured by the sages.
+
+**7.61.17**  Then he took up that supreme, infallible, divine arrow — blazing with energy, terrible, filling all ten directions.
+
+**7.61.18**  Its face was like a thunderbolt, its speed like a thunderbolt, its weight equal to Meru and Mandara; smooth at every joint, unconquered in all battles.
+
+**7.61.19**  Its body smeared with blood-red sandalwood, with beautiful feathering; dreadful to lords of Dānavas, lords of mountains, and Asuras.
+
+**7.61.20**  Seeing it blazing like the fire of Time arrived at the end of an age, all beings were overcome with terror.
+
+**7.61.21**  The entire world — with gods, Asuras, Gandharvas, sages, and hosts of Apsarases — was uneasy and approached the Grandsire.
+
+**7.61.22**  And they said to the god of gods, the boon-granting great-grandsire: "Has the dissolution of the worlds come, O god, or the conflagration of the age?"
+
+**7.61.23**  "Such a thing has never been seen or heard before, O great-grandsire — the terror and bewilderment of the gods, the destruction of the worlds, O lord."
+
+**7.61.24**  Hearing those words, Brahmā, the grandsire of the worlds, who dispels fear, declared to the gods the cause of their terror.
+
+**7.61.25**  "For the slaying of Lavaṇa in battle, the arrow held by Śatrughna — by whose radiance all you best of gods have been bewildered —"
+
+**7.61.26**  "— this is the primordial, eternal, radiant arrow of the god who created the worlds, dear ones, by which this fear has come upon you."
+
+**7.61.27**  "This great arrow was created by that great-souled one for the sake of slaying Kaiṭabha and Madhu — for the destruction of those two Daityas."
+
+**7.61.28**  "Know this to be the radiant arrow of Viṣṇu; and this Śatrughna is likewise the former body of that great-souled Viṣṇu."
+
+**7.61.29**  "Go from here and witness the foremost of rākṣasas, Lavaṇa, being slain by the great-souled hero, the younger brother of Rāma."
+
+**7.61.30**  Hearing those sweet words of the god of gods, they went to the place where Śatrughna and Lavaṇa were both fighting.
+
+**7.61.31**  All beings saw that arrow, divine in appearance, held in Śatrughna's hand, risen like the conflagration at the end of an age.
+
+**7.61.32**  Seeing the sky filled with gods, the son of Raghu's line roared repeatedly with the roar of a lion and beheld Lavaṇa once more.
+
+**7.61.33**  Challenged by the great-souled Śatrughna, Lavaṇa, filled with rage, presented himself for battle.
+
+**7.61.34**  Drawing that bow to his ear, that best of archers released the great arrow at Lavaṇa's broad chest; cleaving his chest swiftly, it entered the netherworld.
+
+**7.61.35**  Having gone to the divine netherworld, that arrow, worshipped by the gods, swiftly returned again to the delight of the Ikṣvāku lineage.
+
+**7.61.36**  Pierced through by Śatrughna's arrow, that night-roaming Lavaṇa fell suddenly to the ground like a mountain struck by the thunderbolt.
+
+**7.61.37**  And that great divine trident, when the rākṣasa Lavaṇa was slain, in the sight of all beings, returned to the power of Rudra.
+
+**7.61.38**  Having slain with a single arrow the terror of all three worlds, the foremost hero of Raghu's line shone forth with bow and arrow raised, even as the thousand-rayed sun dispels darkness.
+
+**7.62.1**  When Lavaṇa was slain, the gods — with Indra at their head and Agni foremost among them — spoke sweet words to Śatrughna, scorcher of enemies.
+
+**7.62.2**  "By good fortune is your victory, dear one; by good fortune the rākṣasa Lavaṇa is slain. O best among tigers of men, O Rāghava, ask a boon."
+
+**7.62.3**  "We are all gathered here as granters of boons, O mighty-armed one, desiring your victory; indeed our vision is never without fruit."
+
+**7.62.4**  Hearing the words of the gods, the valiant, great-armed Śatrughna, with hands joined above his head, replied with a disciplined mind.
+
+**7.62.5**  "Let me quickly establish settlement in this lovely Madhupurī, sweet Madhurā, created by the gods — this let my boon be, so I think."
+
+**7.62.6**  The gods, with hearts full of joy, said "So be it" to the Rāghava: "A lovely city it shall be — Śūrasenā, without doubt."
+
+**7.62.7**  Having spoken thus, those great-souled ones ascended to heaven; and the greatly radiant Śatrughna brought up his army.
+
+**7.62.8**  That army came quickly on hearing Śatrughna's command, and Śatrughna began the founding of the settlement by his decree.
+
+**7.62.9**  That city, divine in appearance, auspicious, was established in the twelfth year, and the territory of the Śūrasenas became free from all fear.
+
+**7.62.10**  The fields were full of crops, Indra rained in season, the people were free of disease and vigorous, protected by the arms of Śatrughna.
+
+**7.62.11**  Shaped like a half-moon, graced by the bank of the Yamunā, adorned with foremost mansions, adorned with market squares and bazaars.
+
+**7.62.12**  Whatever great emptiness had been made by Lavaṇa formerly, the hero beautified that with abundance of various commodities.
+
+**7.62.13**  Śatrughna, the younger brother of Bharata, himself prosperous in wealth, surveyed that prosperous city and was supremely pleased, overcome with supreme joy.
+
+**7.62.14**  The thought arose in his mind: having established the city of Madhurā, "I should behold the feet of Rāma in this auspicious twelfth year."
+
+**7.63.1**  Then, in the twelfth year, Śatrughna desired to go to Ayodhyā, protected by Rāma, accompanied by a small retinue and force.
+
+**7.63.2**  Having dismissed his ministers, the chiefs of the army, and the chaplain, he went in a splendid chariot harnessed with horses.
+
+**7.63.3**  Traversing seven or eight calculated stages of travel, the son of Raghu's line quickly reached Ayodhyā, eager to behold the Rāghava.
+
+**7.63.4**  Entering the lovely city, that glorious, great-armed delight of the Ikṣvāku line went to where the greatly resplendent Rāma was.
+
+**7.63.5**  He saluted the great-souled one blazing as it were with energy, and standing with palms joined, spoke to Rāma of true valour.
+
+**7.63.6**  "Whatever was commanded, O great king, all of that I have done: that wicked Lavaṇa is slain, and that city has been established."
+
+**7.63.7**  "Twelve years have passed without you, O delight of Raghu's line; I could not bear to dwell separated from you, O king."
+
+**7.63.8**  "Grant me your favour, O Kākutstha, O you of boundless valour; without you I wander abroad like a calf bereft of its mother."
+
+**7.63.9**  Embracing Śatrughna who spoke thus, Rāma said: "Do not grieve, O hero; this is not the conduct befitting a kṣatriya."
+
+**7.63.10**  "Kings do not despair during sojourns abroad, O Rāghava; and subjects must be protected through the dharma of the kṣatriya, O Rāghava."
+
+**7.63.11**  "Come to Ayodhyā to see me from time to time, O hero, O best of men, and then return to your own city."
+
+**7.63.12**  "You are dearer to me even than life itself, without doubt; yet the protection of the kingdom must inevitably be carried out."
+
+**7.63.13**  "Therefore, O Kākutstha, dwell with me for five nights; after that you shall go to Madhurā with your servants, army, and conveyances."
+
+**7.63.14**  Hearing these words of Rāma, righteous and pleasing to the mind, Śatrughna said with a sorrowful voice, "So be it."
+
+**7.63.15**  That mighty archer, the Kākutstha, having dwelt there five nights by the Rāghava's command, made ready for departure.
+
+**7.63.16**  Having taken leave of the great-souled Rāma of true valour, and of Bharata and Lakṣmaṇa as well, he mounted his great chariot.
+
+**7.63.17**  Accompanied for a long distance by the great-souled Lakṣmaṇa and by Bharata, Śatrughna then quickly went to his city.
+
+**7.64.1**  Having dispatched Śatrughna along with his brothers, Rāghava rejoiced contentedly, governing the kingdom by righteousness.
+
+**7.64.2**  Then, after a few days, an aged brahmin of the land came to the royal gate, bearing the corpse of a child.
+
+**7.64.3**  Weeping, he uttered manifold words filled with tears of affection, crying out again and again, "My son, my son!"
+
+**7.64.4**  "What evil deed did I commit in a former body in a previous life, that I now see you, my only son, gone to death?"
+
+**7.64.5**  "A child who had not yet reached youth, only five years of age — you have met death untimely, for my grief, O my dear son."
+
+**7.64.6**  "Without doubt, within a few days I and your mother shall both go to death, slain by grief for you, O my son."
+
+**7.64.7**  "I do not recall having spoken falsehood, nor do I recall having done harm — by what evil deed of mine has my son, while yet a child, been carried to the abode of Vaivasvata without having performed the rites due to his forefathers?"
+
+**7.64.8**  "Never before have I seen or heard of so dreadful a sight — the death of those who have not yet reached their time, in Rāma's kingdom."
+
+**7.64.9**  "Without doubt some great sin has been committed by Rāma. O king, restore this child to life who has fallen under the sway of death."
+
+**7.64.10**  "O king of great might, may you attain long life together with your brothers. We have lived happily in your kingdom."
+
+**7.64.11**  "Now the realm of the great-souled Ikṣvākus is left without a protector, having found in Rāma a king who brings about the death of children."
+
+**7.64.12**  "The subjects perish through the faults of a king when they are not protected according to proper law; and when a king is of wicked conduct, people die before their time."
+
+**7.64.13**  "When people in cities and in the countryside commit unlawful acts and there is no protection, then comes the calamity wrought by untimely death."
+
+**7.64.14**  "This killing of a child — whether in the city or in the country — shall without doubt plainly prove to be the king's fault."
+
+**7.64.15**  Thus, with many such words, again and again blaming the king, tormented by grief, he embraced his son.
+
+**7.65.1**  Rāghava heard all of that pitiful lamentation of the brahmin, filled with pain and grief.
+
+**7.65.2**  Deeply afflicted by sorrow, he summoned his ministers, Vasiṣṭha, Vāmadeva, his brothers, and the guild leaders together.
+
+**7.65.3**  Then eight brahmins were ushered in together with Vasiṣṭha; they said to the king, who was resplendent as a god, "May you be well."
+
+**7.65.4**  They were Mārkaṇḍeya, Maudgalya, Vāmadeva, Kāśyapa, Kātyāyana, Jābāli, Gautama, and likewise Nārada.
+
+**7.65.5**  All these foremost among the twice-born were seated in the assembly fires, and the ministers and guild leaders likewise took their places as was fitting.
+
+**7.65.6**  When all of them, blazing with splendor, had taken their seats, Rāghava related everything — the reason why the brahmin was weeping.
+
+**7.65.7**  Hearing that speech of the distressed king, Nārada replied with an auspicious word to the king in the presence of the sages.
+
+**7.65.8**  "Hear, O king, how this destruction of a child has come about in this age. Having heard, O hero, O delight of the Raghu line, do what must be done."
+
+**7.65.9**  "In the Kṛta age of old, O Rāma, only brahmins were ascetics; in that age, O king, no one who was not a brahmin was an ascetic under any circumstances."
+
+**7.65.10**  In that age, blazing with brahmic power, unclouded, all were immortal and far-sighted in birth.
+
+**7.65.11**  Then came the age known as the Tretā, of embodied human beings, wherein kṣatriyas are born, endowed with the austerity of a prior birth.
+
+**7.65.12**  Those great-souled humans who excelled by valor and austerity in a previous birth — it was they who lived in that Tretā age.
+
+**7.65.13**  All that brahmin and kṣatriya order — whatever existed in both the earlier and the latter of those two ages — was of equal power and endowed with equal might.
+
+**7.65.14**  Yet seeing no further special distinction therein, they then established everywhere the institution of the four varṇas.
+
+**7.65.15**  Then adharma cast one foot upon the earth; and because the twice-born became associated with adharma, they grew dull.
+
+**7.65.16**  Then a limit was established for the span of life, and people, devoted to truth and righteousness, practiced only virtuous deeds.
+
+**7.65.17**  In the Tretā age, while brahmins and kṣatriyas practiced austerity, the remaining people rendered service.
+
+**7.65.18**  That supreme dharma then came down to the vaiśya and śūdra; and śūdras especially performed worship on behalf of all the varṇas.
+
+**7.65.19**  Then adharma set down its second foot, and thereupon arose that age reckoned as the Dvāpara.
+
+**7.65.20**  In that age numbered as the Dvāpara, as the yuga drew toward its end, adharma and untruth both increased, O bull among men.
+
+**7.65.21**  In that same Dvāpara age, austerity entered into the vaiśyas; a śūdra does not attain the fierce austerity of dharma, O bull among men.
+
+**7.65.22**  One born in a lower varṇa, O best of men, will practice very great austerity — for the practice of austerity by those born in a śūdra womb shall come in the Kali age."
+
+**7.65.23**  "Supreme adharma in the Dvāpara, O Rāma, rests upon a śūdra. Indeed, O king, at the border of your realm there is a śūdra of wicked mind practicing great austerity — it is because of him that this death of a child has come about."
+
+**7.65.24**  "For whatever wicked-minded man commits adharma or an unlawful act in the realm of a king, whether in the city — that man quickly goes to hell, as does the king himself, without doubt."
+
+**7.65.25**  "Therefore, O tiger among men, search your own realm; wherever you find wrongdoing, there make every effort to act."
+
+**7.65.26**  "Thus there shall be for you an increase of dharma, a lengthening of people's lifespan, O best of men, and the restoration of life to this child."
+
+**7.66.1**  Having heard Nārada's words, which were as if full of nectar, he felt incomparable joy, and spoke these words to Lakṣmaṇa.
+
+**7.66.2**  "Go, dear Lakṣmaṇa, comfort the foremost brahmin, and place that child's body in a vessel of oil."
+
+**7.66.3**  "With the most excellent fragrant substances and with sweet-smelling oils, let it be arranged, dear one, so that the child does not deteriorate."
+
+**7.66.4**  "Act in such a way that no decay or decomposition comes to the body of the child who is thus preserved, O one of unblemished deeds."
+
+**7.66.5**  Having so instructed Lakṣmaṇa of auspicious marks, the great-famed Kākutstha, the scion of Kakutstha's line, mentally called upon the Puṣpaka, thinking, "Come."
+
+**7.66.6**  Understanding that sign, the golden-adorned Puṣpaka came within a moment to the presence of Rāghava.
+
+**7.66.7**  Bowing down, it said: "Here I am, O lord of men. I, your obedient servant, am present, O mighty-armed one."
+
+**7.66.8**  Hearing the pleasant words of Puṣpaka, the lord of men saluted those great sages and boarded the celestial chariot.
+
+**7.66.9**  Taking his bow, his quiver, and his sword of brilliant radiance, having left in the city both heroes — Saumitri and Bharata —
+
+**7.66.10**  — he set out toward the west, searching the desert regions on all sides, and then the glorious one went to the northern direction, girt by the Himālayas.
+
+**7.66.11**  Finding not even the slightest wrongdoing there either, the lord of men then surveyed the entire eastern direction as well.
+
+**7.66.12**  Then that son of a royal sage advanced toward the southern direction, and on the northern slope of mount Śaivala he saw a very great lake.
+
+**7.66.13**  In that lake, the glorious Rāghava saw an ascetic performing very great austerity, hanging with his face downward.
+
+**7.66.14**  Approaching him as he practiced the highest austerity, Rāghava spoke these words: "You are blessed, O observer of good vows."
+
+**7.66.15**  "In what womb were you born, O firm and courageous one, that you advance in austerity? I ask you out of curiosity — I am Rāma, son of Daśaratha."
+
+**7.66.16**  "What is the desired object you have in mind — the attainment of heaven, or the obtaining of a boon? What purpose have you taken refuge in, for which this austerity has been performed? I wish to hear, O ascetic."
+
+**7.66.17**  "Are you a brahmin — blessings to you — or an invincible kṣatriya? Are you a vaiśya, or are you a śūdra? Tell me the truth of this."
+
+**7.67.1**  Hearing that speech of Rāma, whose deeds are effortless, the one who had been standing with bowed head in that same posture now spoke these words.
+
+**7.67.2**  "I was born in the womb of a Śūdra woman, and I have undertaken fierce austerity. O Rāma of great renown, I seek to attain divinity in this very body."
+
+**7.67.3**  "I speak no falsehood, O king, in my desire to conquer the world of gods. Know me to be a Śūdra, O Kākutstha; by name I am called Śambūka."
+
+**7.67.4**  While that Śūdra was still speaking, Rāghava drew his sword of beautiful brilliance, bright and pure from its scabbard, and severed his head.
+
+**7.67.5**  At that very moment, the boy was reunited with life.
+
+**7.67.6**  Then Rāma, lotus-eyed, went to the hermitage of Agastya, and having bowed to him with proper reverence, rejoiced happily.
+
+**7.67.7**  Having saluted the great-souled sage who blazed as if with splendor, that lord of men received the highest hospitality and sat down.
+
+**7.67.8**  The greatly resplendent Kumbhayoni, of great austerity, said to him: "Welcome to you, O best of men; by good fortune you have come, O Rāghava."
+
+**7.67.9**  "You are held in great esteem by me, O Rāma, for your many excellent virtues; you are a guest worthy of honor, O king, and you dwell in my heart."
+
+**7.67.10**  "The gods indeed speak of you as having arrived as the slayer of the Śūdra; and in accordance with the duty owed to a Brāhmaṇa, you have restored his son to life."
+
+**7.67.11**  "Let one night be spent here in my presence, O Rāghava; at dawn you shall go to your own city in the Puṣpaka."
+
+**7.67.12**  "And this ornament, O gentle one, fashioned by Viśvakarmā, divine, blazing with its own brilliance in divine form — accept it, O Kākutstha; do what is dear to me, O Rāghava."
+
+**7.67.13**  "For the gift of something already given is said to yield very great fruit; therefore I shall present it according to due rite — receive it, O bull among men."
+
+**7.67.14**  Then Rāma accepted from that great-souled sage the divine and wondrous ornament, blazing like the sun.
+
+**7.67.15**  Having received that excellent ornament, Rāma then proceeded to ask about the origin of that divine object.
+
+**7.67.16**  "This is most wondrous, O Brahman, endowed with an excellent form — how did the revered one come to possess it, and whence, and by whom was it brought?"
+
+**7.67.17**  "Out of curiosity I ask you, O Brahman of great renown; for you are indeed the supreme treasury of many marvels."
+
+**7.67.18**  When Kākutstha spoke thus, the sage then replied: "Hear, O Rāma, the full account of what happened long ago in the Tretā age that has passed."
+
+**7.68.1**  "Long ago in the Tretā age there was a forest of great extent, one hundred yojanas in every direction, devoid of beasts and free of birds."
+
+**7.68.2**  "While performing supreme austerity in that uninhabited forest, O gentle Rāma, I came to traverse that wilderness."
+
+**7.68.3**  "The appearance of that forest was impossible to describe: it had fruits and roots of delicious taste, and trees of many varieties."
+
+**7.68.4**  "In the middle of that forest was a lake extending a yojana, filled with lotuses and blue water-lilies, and completely free of algae."
+
+**7.68.5**  "It was as if a supreme wonder, of incomparable delightfulness, free of dust, likewise undisturbed, adorned with flocks of beautiful birds."
+
+**7.68.6**  "Near that lake was a great and wondrous hermitage, ancient, exceedingly holy, and utterly devoid of any ascetics."
+
+**7.68.7**  "There I spent a night of the hot season, O bull among men; rising early at dawn I approached that lake."
+
+**7.68.8**  "Then I beheld a corpse there, plump and ageless, standing somewhere at that body of water in great splendor, O king."
+
+**7.68.9**  "Pondering that matter, O Rāghava, I stood for a moment on the bank of the lake thinking: 'What can this be?' O lord."
+
+**7.68.10**  "Then after a moment I saw a divine and wonderful sight: an aerial chariot of supreme magnificence, yoked with swans, swift as thought."
+
+**7.68.11**  "In that chariot, O joy of the Raghu line, O hero, a heavenly being of great distinction was attended by a thousand celestial nymphs adorned with divine ornaments; some sang charming songs while others played instruments."
+
+**7.68.12**  "As I watched, O Rāma, O joy of the Raghu line, that heavenly being descended from the aerial chariot and began to eat that corpse."
+
+**7.68.13**  "Then, having eaten as much flesh as he desired, in abundance and with full satisfaction, the heavenly being descended and proceeded to touch the water of the lake."
+
+**7.68.14**  "Having performed his ablutions in the proper manner, that heavenly being, O bull among men, proceeded to ascend his excellent and supreme aerial chariot."
+
+**7.68.15**  "Seeing him who resembled a god ascending, O bull among men, I then spoke these words to him."
+
+**7.68.16**  "'Who are you, O one who resembles a god? And why do you partake of this reprehensible food, O gentle one? You ought to explain the purpose of this.'"
+
+**7.68.17**  "'It is a wonder that one of such nature — resplendent, honored among the gods — should take reprehensible food, O gentle one; I wish to hear the truth of this.'"
+
+**7.69.1**  "Having eaten and hearing my auspicious words, O Rāma, O joy of the Raghu line, that heavenly being replied with joined palms:"
+
+**7.69.2**  "'Hear, O Brahman, the full account of this matter of my joy and sorrow, which is indeed difficult to transcend, since you ask me, O twice-born one.'"
+
+**7.69.3**  "'In former times there was a king of the Vidarbha country, my father of great renown, known as Sudeva, mighty in the three worlds.'"
+
+**7.69.4**  "'He had two sons born of two wives, O Brahman; I am known as Śveta, while the younger was Suratha.'"
+
+**7.69.5**  "'When my father had gone to heaven, the citizens consecrated me; there I governed the kingdom with righteousness and complete composure.'"
+
+**7.69.6**  "'Thus thousands of years passed, O one of excellent vows, O Brahman, as I administered the kingdom and protected the subjects with righteousness.'"
+
+**7.69.7**  "'When for some reason I came to know my lifespan, O best of twice-born ones, I placed the law of Time in my heart and then went to the forest.'"
+
+**7.69.8**  "'I entered this difficult forest, devoid of beasts and birds, to practice austerity near the blessed lake.'"
+
+**7.69.9**  "'Having consecrated my brother Suratha as lord of men over the kingdom, I reached this lake and performed austerity for a long time.'"
+
+**7.69.10**  "'After performing three thousands of years of most arduous austerity, O great sage, I attained the unsurpassed world of Brahmā.'"
+
+**7.69.11**  "'Then, while I was dwelling in heaven, O best of twice-born ones, O supremely noble one, hunger and thirst tormented me; and so my senses were afflicted.'"
+
+**7.69.12**  "'Going to the Grandfather, best of the three worlds, I said: "O revered one, is not this Brahmaloka free from hunger and thirst?"'"
+
+**7.69.13**  "'"By what deed is this attained? I am subject to hunger and thirst — what is my food, O god? Tell me that, O Grandfather."'"
+
+**7.69.14**  "'Then the Grandfather said to me: "O son of Sudeva, your food is the sweet flesh of your own body — eat of that perpetually."'"
+
+**7.69.15**  "'"The body nourished by you while performing supreme austerity grows back without ever having been planted, O Śveta of great mind — it never fails to regenerate."'"
+
+**7.69.16**  "'"You made not even the smallest gift in that forest inhabited by living creatures; therefore, O dear child, even having gone to heaven you are tormented by hunger and thirst."'"
+
+**7.69.17**  "'"Therefore eat your own excellent body, well nourished by your austerities, whose essence is like ambrosia — that will bring you satisfaction."'"
+
+**7.69.18**  "'"When, O Śveta, the great and invincible sage Agastya comes to traverse that forest, then you will be released from this ordeal."'"
+
+**7.69.19**  "'"For he is capable of rescuing even the hosts of gods, O gentle one — how much more so you, O mighty-armed one, who have fallen under the sway of hunger and thirst!"'"
+
+**7.69.20**  "'Thus I, having heard the determination of the revered god of gods, take my reprehensible food — my own body — O best of twice-born ones.'"
+
+**7.69.21**  "'For many groups of years, O Brahman, O brahmarṣi, this body that I eat does not diminish, and my satisfaction is also complete.'"
+
+**7.69.22**  "'Release me, who am in this distressful plight, from this ordeal; for there is no refuge for others here except the twice-born Kumbhayoni.'"
+
+**7.69.23**  "'Accept this ornament, O gentle one, O best of twice-born ones, for the purpose of my deliverance; O brahmarṣi, you ought to show grace.'"
+
+**7.69.24**  "I, having heard those words of that heavenly being filled with sorrow, accepted that excellent ornament for the purpose of his deliverance."
+
+**7.69.25**  "When that auspicious ornament was accepted by me, the former human body of that royal sage perished then and there."
+
+**7.69.26**  "When that body had perished, that royal sage — satisfied and filled with great joy, the king delighted — departed once more to the triple heaven."
+
+**7.69.27**  "That divine and wondrous ornament was given to me, for that reason, by him who is equal to Indra, O Kākutstha."
+
+**7.70.1**  Having heard that most wondrous speech of Agastya, the Rāghava, out of both reverence and amazement, began to inquire further.
+
+**7.70.2**  "Blessed one, that dreadful forest where Śveta, the king of Vidarbha, practises austerities — how did it come to be devoid of deer and birds?
+
+**7.70.3**  That forest has become utterly lifeless, empty, and abandoned by men; yet he entered it to perform ascetic practice. I desire to hear the truth of this."
+
+**7.70.4**  Having heard Rāma's words filled with curiosity, that supremely resplendent one began to speak.
+
+**7.70.5**  "Long ago, Rāma, in the Kṛta age, there was the lord Manu, wielder of the rod of punishment. His great son was Ikṣvāku, the increaser of the lineage.
+
+**7.70.6**  Placing that son in the ancestral kingdom on earth, that unconquerable realm, he said: 'Be the founder of royal lineages upon the earth.'
+
+**7.70.7**  And that was assented to by the son, pledging 'so be it' to his father, O Rāghava. Then Manu, greatly delighted, spoke again.
+
+**7.70.8**  'I am pleased; you are a doer of the most excellent deeds — of this there is no doubt. Protect the subjects by the rod of chastisement, but do not apply the rod without cause.'
+
+**7.70.9**  'The punishment that is inflicted upon erring men, when it is administered lawfully and duly, leads the king to heaven.'
+
+**7.70.10**  'Therefore, O mighty-armed one, be diligent in the matter of the rod of punishment, my son; for in so doing the highest dharma in the world will accrue to you.'
+
+**7.70.11**  Having thus instructed his son at length with composure, Manu departed joyfully to the triple heaven, to the unsurpassed world of Brahmā.
+
+**7.70.12**  After Manu had departed to heaven, the boundlessly radiant Ikṣvāku became absorbed in the thought: 'How shall I beget sons?'
+
+**7.70.13**  By various and manifold acts, that son of Manu, righteous in soul, begot one hundred sons resembling the sons of gods.
+
+**7.70.14**  Of all of them the youngest, dear child, O Delight of the Raghu line, was foolish, unlearned, and did not serve his elders obediently.
+
+**7.70.15**  His father gave him the name Daṇḍa, that one of little lustre, saying: 'Surely the falling of the rod of punishment upon his body will come to pass.'
+
+**7.70.16**  Seeing that dreadful fault in his son, O Rāghava, O Subduer of Foes, Ikṣvāku gave him a kingdom between the Vindhya and the Śaivala mountains.
+
+**7.70.17**  Daṇḍa became king there on that beautiful mountain terrain, and he founded a matchless, superb city, O Rāma.
+
+**7.70.18**  He gave the city the name Madhumanta, O lord, and he chose the virtuous Uśanas as his royal chaplain.
+
+**7.70.19**  Thus that king governed his kingdom together with his chaplain, thronged with joyful people, like the kingdom of the gods in heaven.
+
+**7.71.1**  Having narrated this to Rāma, the great seer born of the water-jar proceeded in this same tale to speak another word.
+
+**7.71.2**  Then that Daṇḍa, O descendant of Kakutstha, that dull-minded one, ruled his kingdom there for many thousands of years, with its enemies subdued.
+
+**7.71.3**  Then at a certain time, the king approached the charming hermitage of Bhārgava in the pleasant month of Caitra.
+
+**7.71.4**  There Daṇḍa saw the daughter of Bhārgava, incomparable in beauty upon the earth, wandering in a secluded part of the forest, that most excellent one.
+
+**7.71.5**  That one of very dull wit, seeing her and smitten by the arrow of the bodiless god of love, approached her in great agitation and spoke these words to the maiden.
+
+**7.71.6**  'From where are you, O fair-hipped one? Whose daughter are you, O auspicious one? Tormented by the bodiless god, I ask you, O slender-waisted one.'
+
+**7.71.7**  To him speaking thus, that lustful one maddened by delusion, the daughter of Bhārgava replied to the king with these gentle, conciliatory words.
+
+**7.71.8**  'Know me as the daughter of Bhārgava, that divine one of unwearied actions; I am the eldest, called Arajā, dwelling in the hermitage, O king of kings.'
+
+**7.71.9**  'My father is your elder and teacher, O king of kings, and you are a pupil of that great-souled one; he is a great ascetic who, when angered, would bring very great calamity upon you.'
+
+**7.71.10**  'If anything is to be done with me in a righteous manner, on the proper path, then, O best of kings, seek my father's consent — that one of great radiance.'
+
+**7.71.11**  'Otherwise a dreadful consequence would befall you; for my father in his wrath could burn up even the three worlds.'
+
+**7.71.12**  Thus addressed by Arajā, Daṇḍa, pierced by the arrow of desire, intoxicated with passion, replied, placing his joined hands upon his head.
+
+**7.71.13**  'Show me favour, O fair-hipped one; you should not waste the moment. On your account my very life is being torn asunder, O one of auspicious face.'
+
+**7.71.14**  'Even death or dreadful sin upon obtaining you — honour me who am devoted, O timid one, devoted and utterly overwhelmed.'
+
+**7.71.15**  Having spoken thus to the maiden, that mighty one seized her by force with his arms, and as she struggled, he proceeded to violate her according to his desire.
+
+**7.71.16**  Having committed that great outrage, most terrible and cruel, Daṇḍa quickly went back to his superb city of Madhumanta.
+
+**7.71.17**  And Arajā too, weeping, waited in great terror not far from the hermitage for her father, that one resembling a god.
+
+**7.72.1**  After a short while the divine seer of boundless radiance, accompanied by his disciples, hungry and afflicted, returned to his own hermitage.
+
+**7.72.2**  He saw Arajā, dejected, covered with dust, like moonlight obscured by the red glow of dawn, no longer shining.
+
+**7.72.3**  Wrath arose in him, especially since he was afflicted with hunger, as if burning up the three worlds, and he spoke these words to his disciples.
+
+**7.72.4**  'Behold the calamity of the perverted Daṇḍa who has not known his own self — terrible to behold, like an enraged tongue of fire.'
+
+**7.72.5**  'Destruction has come upon this evil-minded, wicked-souled one together with his retinue — he who desires to touch the blazing flame of the sacred fire.'
+
+**7.72.6**  'Because he has committed such a dreadful-to-behold sin, therefore that dull-minded one shall reap the fruit of his sinful deed.'
+
+**7.72.7**  'Within seven nights that king, that evil-minded one, doer of sinful deeds, together with his servants, army, and conveyances, shall meet his death.'
+
+**7.72.8**  'The kingdom of this evil-minded one, a hundred yojanas in every direction, shall be burnt up by the great rain of dust sent by the Chastiser of Pāka.'
+
+**7.72.9**  'All beings here, both the stationary and the moving, shall entirely perish by the great rain of dust.'
+
+**7.72.10**  'The entirety of Daṇḍa's kingdom shall become invisible as if turned to dust within seven nights.'
+
+**7.72.11**  Having spoken thus, burning with wrath, he said to the people dwelling in that hermitage: 'Let them remain at the borders of the realm.'
+
+**7.72.12**  Having heard the word of Uśanas, those people dwelling in the hermitage departed from his kingdom and took up residence outside it.
+
+**7.72.13**  Having spoken thus to the assembly of sages, he said to Arajā: 'Remain here, O one of lovely limbs, in the hermitage, with a composed mind.'
+
+**7.72.14**  'This lake, extending a yojana in compass, of most lovely radiance, enjoy it, O Arajā, free from grief, and let the time be awaited here.'
+
+**7.72.15**  'And whatever beings come to dwell near you on that night, they shall be forever exempt from destruction by the rain of dust.'
+
+**7.72.16**  Having spoken thus, Bhārgava went to take up residence elsewhere. Within seven days it was reduced to ashes, as had been declared by that speaker of sacred truth.
+
+**7.72.17**  That kingdom of Daṇḍa on the ridges of the Vindhya and Śaivala mountains was cursed long ago by that brahmarṣi when that transgression of dharma was committed.
+
+**7.72.18**  'From that time forward, O descendant of Kakutstha, it is called the Daṇḍaka forest; where ascetics dwelt, and where there was Janasthāna.'
+
+**7.72.19**  'All that you asked of me, O Rāghava, has been told. The time for performing the twilight devotion passes, O hero; it must not be neglected.'
+
+**7.72.20**  'All these great seers with their water vessels filled stand on all sides; having performed the water rite, they attend upon the sun, O tiger among men.'
+
+**7.72.21**  'Attended upon by those seers together, those best of brahman-knowers, the sun has set, O Rāma; go and touch the water.'"
+
+**7.73.1**  Heeding the sage's word, Rāma set out to perform the twilight rite at the sacred lake frequented by the apsarases.
+
+**7.73.2**  Having touched the water there and performed the evening twilight observance, Rāma entered the hermitage of the great-souled Kumbhayoni — Agastya, born of a jar.
+
+**7.73.3**  For him Agastya prepared abundantly rich fruits, roots, medicinal herbs, and pure pot-herbs for the evening meal.
+
+**7.73.4**  That foremost of men ate of that food resembling nectar, and, gratified and fully content, spent that night there.
+
+**7.73.5**  Rising early at dawn, having performed his daily morning duties, the best of the Raghu line — the subduer of foes — approached the sage to take his leave.
+
+**7.73.6**  Saluting the great sage born of the kumbha — the jar — Rāma said: "I take my leave of you; I shall depart. Be pleased to give me your permission."
+
+**7.73.7**  "I am blessed, I have been favoured by the sight of the great-souled one. And I shall come here again to behold you, for the purification of my own self."
+
+**7.73.8**  As the descendant of Kakutstha spoke these words, wondrous to behold, the sage rich in austerities, whose eye is dharma, answered in utmost delight:
+
+**7.73.9**  "This speech of yours, O Rāma, is altogether wonderful, auspicious in every syllable. You yourself, O joy of the Raghu line, are the purifier of all worlds."
+
+**7.73.10**  "Those beings who behold you even for a single moment, O Rāma, are purified and become as heaven itself; they are worshipped by the gods in the celestial realm."
+
+**7.73.11**  "But those living beings on earth who gaze upon you with hostile eyes are struck down forthwith by the rod of Yama and go directly to hell."
+
+**7.73.12**  "Go then, untroubled, upon a path free from all peril. Rule your kingdom by dharma, for you are the very refuge of the world."
+
+**7.73.13**  Thus addressed by the sage, the wise king, composed and with palms joined in reverence, paid obeisance to that sage of holy conduct.
+
+**7.73.14**  After reverencing the foremost among sages and all those who were rich in austerities, the unperturbed hero ascended that Puṣpaka chariot adorned with gold.
+
+**7.73.15**  As he departed, the hosts of sages honoured him on all sides with blessings, as the immortals honour thousand-eyed Indra blazing like Mahendra.
+
+**7.73.16**  Serene, Rāma was a sight to behold upon the gold-adorned Puṣpaka, like the moon stationed near a cloud in the season of rain.
+
+**7.73.17**  Then, when midday had arrived, honoured from every quarter, the descendant of Kakutstha reached Ayodhyā and descended from the aerial car.
+
+**7.73.18**  Then, having dismissed the beautiful Puṣpaka that travels at will, Rāma addressed a doorkeeper stationed in the inner courtyard:
+
+**7.73.19**  "Go to Lakṣmaṇa and Bharata — both of swift step — inform them of my arrival and then announce me for a long while."
+
+**7.74.1**  Hearing that speech of Rāma — whose deeds cause no affliction — the doorkeeper summoned the two princes and reported it to the descendant of Raghu.
+
+**7.74.2**  Seeing the beloved Bharata and Lakṣmaṇa arrive, the descendant of Raghu — Rāma — embraced them and then spoke these words:
+
+**7.74.3**  "I have duly performed the most excellent duty owed to the twice-born; yet I wish to build the bridge of dharma still further, O descendants of Raghu."
+
+**7.74.4**  "Together with you two, who are as my own selves, I desire to perform the most excellent Rājasūya sacrifice — for therein eternal dharma resides."
+
+**7.74.5**  "Mitra, the destroyer of foes, having sacrificed at the Rājasūya with well-offered oblations and a well-conducted rite, attained the sovereignty of Varuṇa."
+
+**7.74.6**  "And Soma too, knower of dharma, having sacrificed rightly by the Rājasūya, attained everlasting glory among all worlds and an eternal station."
+
+**7.74.7**  "Whatever is most beneficial on this day — let it be deliberated together with me; what is wholesome, what is fitting — you should speak freely, with care."
+
+**7.74.8**  Having heard these words of the descendant of Raghu, Bharata — skilled in the art of speech — joined his palms together and spoke these words:
+
+**7.74.9**  "In you, O virtuous one, dharma supreme resides; in you the entire earth is established, O mighty-armed one; and in you rests glory, O you of immeasurable valour."
+
+**7.74.10**  "All the great-souled guardians of the earth look to you as the immortals look to Prajāpati — as the lord of worlds — just as we do."
+
+**7.74.11**  "And the subjects regard you as a father, O great-powered king; you are the refuge on this earth for all living beings, O descendant of Raghu."
+
+**7.74.12**  "How can you, O king, perform such a sacrifice in which the destruction of royal lineages throughout the earth is foreseen?"
+
+**7.74.13**  "Those men of prowess upon the earth, O king — for all of them there will be destruction there, like the universal dissolution at the end of all things."
+
+**7.74.14**  "You, O tiger among men, of matchless valour and virtue — you should not destroy the earth, for it stands already under your sway."
+
+**7.74.15**  Hearing those words of Bharata, sweet as nectar, Rāma of true valour was filled with incomparable joy.
+
+**7.74.16**  And he spoke an auspicious word to the one who increased Kaikeyī's delight: "I am pleased, I am fully content by your speech today."
+
+**7.74.17**  "This word spoken by you, O tiger among men, is without feebleness, grounded in dharma, and is truly the protection of the earth."
+
+**7.74.18**  "From that intention, O knower of dharma, I now desist from the Rājasūya, that best of sacrifices, indeed by virtue of your well-spoken words."
+
+**7.74.19**  "The protection of subjects is the dharma of kings, equal in worth to sacrifice. Therefore I heed your word, well and wisely spoken."
+
+**7.75.1**  While Rāma was speaking thus and Bharata, the great-souled one, had spoken, Lakṣmaṇa too spoke an auspicious word to the joy of the Raghu line:
+
+**7.75.2**  "The Aśvamedha — the great sacrifice, purifier of all sins — let that foremost of rites find favour with you, O invincible one; it shall purify you too."
+
+**7.75.3**  "For it is heard in the tradition of former times that the great-souled Vāsava — Śakra — when enveloped by the sin of brahmanicide, was purified by the Aśvamedha."
+
+**7.75.4**  "In ancient times, O mighty-armed one, there was in the great gathering of gods and asuras a great Daitya named Vṛtra, revered by all the worlds."
+
+**7.75.5**  "A hundred yojanas in breadth and three times that in height, he regarded the three worlds with affection and looked upon all with tender love."
+
+**7.75.6**  "Knowing dharma and knowing gratitude, perfected in intellect, he ruled all the earth steadily by dharma."
+
+**7.75.7**  "While he was reigning, the earth yielded all desires; roots and fruits were produced full of nourishment."
+
+**7.75.8**  "The earth ripened without tilling, abundantly rich; that great-souled one enjoyed a kingdom so prosperous and wondrous to behold."
+
+**7.75.9**  "Then a resolve arose in his mind: I shall practise the most excellent austerity, for austerity is the highest good, austerity is the highest bliss."
+
+**7.75.10**  "Entrusting his eldest son as supreme lord over the citizens, he undertook fierce austerity, scorching all the gods with its heat."
+
+**7.75.11**  "While Vṛtra was performing austerities, Vāsava, exceedingly troubled, approached Viṣṇu and spoke these words:"
+
+**7.75.12**  "'By his austerities, O mighty-armed one, the worlds have been conquered by Vṛtra; he is powerful and virtuous in soul — I am not able to vanquish him."
+
+**7.75.13**  "'If he continues his austerities still further, O lord of gods, then as long as the worlds endure they will be subject to his sway."
+
+**7.75.14**  "'And you, of immense power, hold this most magnanimous one in disregard — yet Vṛtra would not last even a moment were you wrathful, O lord of gods."
+
+**7.75.15**  "'For ever since I entered into the bond of friendship with you, O Viṣṇu, I have obtained from that time forward the lordship over all the worlds."
+
+**7.75.16**  "'You then, O one of surpassing glory, extend your grace to the worlds; for by your action the entire universe would become at peace and free from decay."
+
+**7.75.17**  "'All these dwellers in heaven look to you, O Viṣṇu; by the great slaying of Vṛtra render them your aid."
+
+**7.75.18**  "'For you have always rendered aid to these great-souled ones; this burden is unbearable for others — you are the refuge of those who have no other refuge.'"
+
+**7.76.1**  Having heard those words of Lakṣmaṇa, the destroyer of enemies [Rāma] said to Lakṣmaṇa: "Recount to me in full the slaying of Vṛtra."
+
+**7.76.2**  Thus addressed by Rāghava, Lakṣmaṇa — the increaser of Sumitrā's joy — once again narrated the divine tale.
+
+**7.76.3**  Having heard the words of the thousand-eyed Indra and of all the celestials, Viṣṇu addressed all the gods, with Indra at their head, saying:
+
+**7.76.4**  "I was formerly bound in friendship with the great-souled Vṛtra; therefore, for the sake of your welfare, I will not myself slay the great asura.
+
+**7.76.5**  Yet the highest good of all of you must certainly be accomplished; therefore I shall declare the means by which you shall slay Vṛtra.
+
+**7.76.6**  I shall divide myself into three parts, O best of gods; by that means the thousand-eyed one shall slay Vṛtra — of this there is no doubt.
+
+**7.76.7**  One portion shall enter Vāsava [Indra], the second shall enter the thunderbolt itself, and the third shall enter the earth; thus Śakra shall slay Vṛtra."
+
+**7.76.8**  When the lord of the gods spoke thus, the gods then replied: "It shall be exactly as you say — there is no doubt — O slayer of the daityas."
+
+**7.76.9**  "May it be well with you; we shall go, intent on slaying the asura Vṛtra. Do you bestow your own energy upon the supremely noble Vāsava."
+
+**7.76.10**  Then all those great-souled ones, with the thousand-eyed Indra at their head, advanced into that forest where the great asura Vṛtra dwelled.
+
+**7.76.11**  They beheld that foremost of asuras blazing with his own radiance, as though drinking up the three worlds and burning the very sky.
+
+**7.76.12**  At the very sight of that foremost asura the gods were seized with terror, [wondering:] "How shall we slay him? How shall we avoid defeat?"
+
+**7.76.13**  While they stood there deliberating, Sahasrākṣa Purandara grasped the thunderbolt with both arms and hurled it at the head of Vṛtra.
+
+**7.76.14**  As though scorched by the dreadful fire of cosmic dissolution blazing with great flames, the world was terrified when [the thunderbolt] struck Vṛtra's head.
+
+**7.76.15**  Contemplating that inconceivable slaying of Vṛtra, the lord of the wise gods — the greatly renowned one — quickly fled to the far end of the world.
+
+**7.76.16**  The sin of Brahmin-slaughter [brahmahatyā] followed swiftly after that fleeing Indra and fell upon his limbs; grief entered into that Indra.
+
+**7.76.17**  The gods, their foe slain but their Indra vanished, with Agni at their head, praised Viṣṇu — the best of the three worlds — again and again.
+
+**7.76.18**  "You are the supreme refuge, O god; you are the primordial lord of the universe; you have attained the state of Viṣṇu for the benefit and sustenance of all beings."
+
+**7.76.19**  "And this Vṛtra has been slain by you; yet the sin of Brahmin-slaughter afflicts Vāsava. O tiger among gods, prescribe the means of his liberation."
+
+**7.76.20**  Hearing those words of the gods, Viṣṇu said: "Let Śakra worship me alone; I shall purify the wielder of the thunderbolt."
+
+**7.76.21**  "Having worshipped me with the meritorious horse-sacrifice, Pākaśāsana [Indra] shall regain the sovereignty over the gods, free from fear from any quarter."
+
+**7.76.22**  Having thus instructed the gods with those nectar-like words, Viṣṇu, the lord of the gods, departed to the highest heaven while being hymned with praises.
+
+**7.77.1**  Having thus fully narrated the entire slaying of Vṛtra, that best of men, Lakṣmaṇa, proceeded to take up the remainder of the tale.
+
+**7.77.2**  Then, with the mighty Vṛtra — who had been the terror of the gods — slain, Śakra, the slayer of Vṛtra, was enveloped in the sin of Brahmin-slaughter and could not recover his senses.
+
+**7.77.3**  Having sought refuge at the end of the worlds, bereft of awareness and consciousness, he dwelt there for some time, writhing like a serpent.
+
+**7.77.4**  Then, with Sahasrākṣa [Indra] disappeared, the world became filled with distress; the earth appeared devastated, without moisture, with dried-up forests.
+
+**7.77.5**  The clouds shed no water, the lakes and rivers alike ran dry, and there was upheaval among all creatures, caused by the absence of rain.
+
+**7.77.6**  While this world was wasting away, the gods, their minds agitated, set about performing that sacrifice which Viṣṇu had previously prescribed.
+
+**7.77.7**  Then all the hosts of gods, together with their preceptors and the sages, went in a body to that place where Indra lay stupefied by terror.
+
+**7.77.8**  Seeing Sahasrākṣa stupefied by the sin of Brahmin-slaughter, they placed him at their head and performed the horse-sacrifice on behalf of the lord of the gods.
+
+**7.77.9**  Then that great horse-sacrifice of the great-souled Mahendra grew and flourished for the purpose of purifying him from the sin of Brahmin-slaughter, O lord of men.
+
+**7.77.10**  Then, at the conclusion of the sacrifice, the Brahmin-slaughter [brahmahatyā] of the great-souled one approached [the gods] and said: "Where shall you assign me a dwelling place?"
+
+**7.77.11**  Then the gods, satisfied and filled with delight, said to her: "Divide yourself into four parts of your own accord, O formidable one."
+
+**7.77.12**  Having heard the words of the great-souled gods, Brahmin-slaughter, the dreadful one, sought to choose a different abode in their presence.
+
+**7.77.13**  "With one portion I shall dwell in rivers swollen with water; with a second portion in trees — I tell you this as truth."
+
+**7.77.14**  "This third portion of mine shall dwell in women in the flush of youth, for the three nights [of their monthly season] when they are intoxicated with pride — I, the destroyer of pride."
+
+**7.77.15**  "Those who deliberately slay Brahmins that are blameless — with that fourth portion shall I take refuge in them, O bulls among gods."
+
+**7.77.16**  The gods then replied to her: "Let it all be exactly as you say, O terrible one; accomplish what you desire."
+
+**7.77.17**  Then the gods, filled with joy, paid homage to Sahasrākṣa; and Vāsava became free from fever and purified of sin.
+
+**7.77.18**  And when Sahasrākṣa was reinstated, the entire world became calm; then Śakra duly honored that wondrous sacrifice.
+
+**7.77.19**  "Such indeed is the power of the horse-sacrifice, O joy of the Raghu lineage; do you, O greatly blessed sovereign, perform the horse-sacrifice."
+
+**7.78.1**  Having heard those words spoken by Lakṣmaṇa, the greatly resplendent Rāghava, skilled in speech, replied with a smile.
+
+**7.78.2**  "It is exactly so, O best of men, just as you say, Lakṣmaṇa — [you have narrated] the full account of the slaying of Vṛtra and whatever is the fruit of the horse-sacrifice."
+
+**7.78.3**  "For it is heard, O gentle one, that in former times there was a son of Kardama Prajāpati — Ila by name, the lord of the Bāhlīkas, glorious and supremely righteous."
+
+**7.78.4**  "That greatly renowned king, having brought the entire earth under his sway, governed his kingdom like a father cares for his son, O tiger among men."
+
+**7.78.5**  "By the supremely noble gods, by the daityas and the great asuras, by the nāgas, rākṣasas, gandharvas, and the great-souled yakṣas —"
+
+**7.78.6**  "— he was constantly honored by them all, stricken with fear, O gentle one, O joy of the Raghu lineage; and the three worlds trembled before that great-souled one when he was wrathful."
+
+**7.78.7**  "Such was that king — steadfast in righteousness and valor, supremely noble in intellect, the greatly renowned lord of the Bāhlīkas."
+
+**7.78.8**  "That long-armed one set out on a hunt in a beautiful forest during the delightful month of Caitra, together with his retinue, army, and elephants."
+
+**7.78.9**  "That king slew deer in the forest by the hundreds of thousands; yet even having slain so many, that great-souled king felt no satisfaction."
+
+**7.78.10**  "While ten thousand beasts of various kinds were being slain by that great-souled one, he came upon the region where great Skanda [Mahāsena] was born."
+
+**7.78.11**  "In that place, Hara — the lord of the lords of gods — was sporting with Pārvatī [the daughter of the mountain king] together with all his formidable attendants."
+
+**7.78.12**  "The lord of Umā, he whose banner bears the bull, having transformed himself into a woman, desiring to please the goddess, [dwelt] in that mountain cascade."
+
+**7.78.13**  "And whatever creatures there were in that region of the forest that were called male, and whatever else existed there — all of it became feminine in nature."
+
+**7.78.14**  "Meanwhile, the king Ila, son of Kardama, slaying thousands of deer, arrived at that very region."
+
+**7.78.15**  "He saw that everything there — serpents, deer, and birds — had been made feminine, and that he himself along with his retinue had likewise become female, O joy of the Raghu lineage."
+
+**7.78.16**  "He was seized with great grief on seeing himself reduced to such a state, and knowing it to be the act of Umāpati [Śiva], he was overcome with terror."
+
+**7.78.17**  "Then the king, together with his retinue, army, and elephants, took refuge with that great-souled god — the blue-throated one, Kapardī [Śiva with matted locks]."
+
+**7.78.18**  "Then the boon-granting one, greatly renowned, smiling and together with the goddess, himself spoke these words to the son of Prajāpati:"
+
+**7.78.19**  "'Arise, arise, O royal seer, O son of Kardama, O greatly powerful one! Choose a boon, O gentle one of good vows — any boon except manhood [itself].'"
+
+**7.78.20**  "Then that king, afflicted with grief, having been refused by the great-souled one, did not accept any other boon from that best of gods, while remaining in female form."
+
+**7.78.21**  "Then, with great grief, the king prostrated himself before Mahādevī — the daughter of the king of mountains — with his whole inner self."
+
+**7.78.22**  "'You are the sovereign and bestower of boons upon the worlds, O beautiful one; O goddess of unerring vision, O gentle one, I adore you — homage be to you!'"
+
+**7.78.23**  "Knowing what was in the heart of that royal seer, the goddess — honored by Rudra — spoke these auspicious words in the presence of Hara:"
+
+**7.78.24**  "'The god grants boons of one half, and I likewise grant boons of the other half; therefore take the half boon [available from me] — alternating between womanhood and manhood for as long as you wish.'"
+
+**7.78.25**  "Having heard that most wondrous and unsurpassed boon from the goddess, the king, his mind filled with great delight, then spoke:"
+
+**7.78.26**  "'If you, O goddess — peerless in beauty on earth — are pleased with me, then [may I] having passed one month in womanhood, again become a man for one month.'"
+
+**7.78.27**  "Knowing his desire, the goddess of lovely countenance spoke these auspicious words: 'So shall it be.'"
+
+**7.78.28**  "'O king, when you are in the form of a man you shall not remember your female existence, and when you are in the form of a woman for the other month you shall not remember your manhood.'"
+
+**7.78.29**  "Thus that king, the son of Kardama, having been a man for one month, became for one month a woman beautiful as the three worlds — she became Ilā."
+
+**7.79.1**  Having heard that tale connected with Ilā, as narrated by Rāma, both Lakṣmaṇa and Bharata were filled with the utmost wonder.
+
+**7.79.2**  With folded hands they asked Rāma once more to tell them in full detail about the nature of that great-souled king's condition.
+
+**7.79.3**  How did that king endure his wretched state when he had become a woman? And when he became a man again, how did he conduct himself?
+
+**7.79.4**  Hearing their words, filled as they were with eager curiosity, Kākutstha narrated the full course of that king's story just as it had unfolded.
+
+**7.79.5**  During that very first month, having become a woman of surpassing beauty, she wandered surrounded by those followers of hers who had likewise become women.
+
+**7.79.6**  The woman of incomparable beauty, her eyes like lotus petals, plunged swiftly into that forest thick with trees, shrubs, and creepers, and roamed it on foot.
+
+**7.79.7**  Having abandoned all her mounts on every side, Ilā took her pleasure in the hollow of that mountain's broad flank.
+
+**7.79.8**  Then, in that woodland region not far from the mountain, she beheld a lake of wondrous beauty, thronged with flocks of birds of every kind —
+
+**7.79.9**  — and there in that lake Ilā saw Budha, the son of Soma, blazing with his own radiance like the full moon when it rises.
+
+**7.79.10**  He was performing fierce austerities within the water, unapproachable, moving at will, standing in the full bloom of his youth.
+
+**7.79.11**  Astonished, she stirred the entire lake into commotion together with those former men who had become women, O joy of the Raghu lineage.
+
+**7.79.12**  But Budha, gazing upon her and pierced by the arrows of desire, lost command of himself at that moment and trembled in the water.
+
+**7.79.13**  Gazing upon the radiant Ilā, who surpassed in beauty even the goddesses of the three worlds, he fell into deep thought: "Who is this being who exceeds even the divine?"
+
+**7.79.14**  "I have never before seen anyone — not among the goddesses, not among the Nāgī women, not among the Asura women, not even among the Apsarases — adorned with this beauty."
+
+**7.79.15**  "She would be a fitting match for me, if she belongs to no other." Settling his mind on this resolve, he came up from the water onto the bank.
+
+**7.79.16**  Having come to the hermitage, the righteous-souled one called out to four of the women; they, in turn, paid homage to him.
+
+**7.79.17**  The righteous one asked them: "Whose is this woman of incomparable beauty? For what purpose has she come here? Tell me the truth without delay."
+
+**7.79.18**  Hearing those words of his, auspicious and sweet, with syllables gentle as honey, all those women replied in equally sweet voices.
+
+**7.79.19**  "This fair-hipped one is always our mistress and our lord. She has no husband; she roams the forest glades with us."
+
+**7.79.20**  Hearing those words of the women, whose meaning was unclear, that twice-born one mentally recited the holy recollective spell called Āvartanī.
+
+**7.79.21**  Having thereby learned the full truth of the king's story just as it had come about, the foremost of sages addressed all those women.
+
+**7.79.22**  "Were men, O fortunate ones, dwelling on the slope of this mountain? You shall remain on this mountain; let a dwelling be prepared."
+
+**7.79.23**  "You shall all live always on roots, fruit, and bulbs; and you women shall obtain as husbands beings known as Kiṃpuruṣas."
+
+**7.79.24**  Hearing the words of the son of Soma, those many women, transformed into Kiṃpuruṣī females, thenceforth attended upon that mountain in many different ways.
+
+**7.80.1**  Having heard the origin of the Kiṃpuruṣas, both Lakṣmaṇa and Bharata exclaimed "How wonderful!" to Rāma, lord of the people.
+
+**7.80.2**  Then Rāma of great renown, righteous of soul, once more narrated this tale about the son of Prajāpati.
+
+**7.80.3**  Seeing all those women flee, that best of sages addressed the woman endowed with incomparable beauty, almost as if smiling.
+
+**7.80.4**  "I am the beloved son of Soma, O fair-faced one; worship me, O beautiful-limbed woman, with devoted and tender eyes."
+
+**7.80.5**  Hearing his words, abandoned by her own people and alone in that wilderness, Ilā answered that great luminary of wondrous splendor.
+
+**7.80.6**  "I am free to act as I will, O gentle one; I am under your power. Command me, O son of Soma; do with me as you desire."
+
+**7.80.7**  Hearing those words of hers, so wondrous in their tenor, the son of the Moon, filled with joy and consumed by love, sported with her.
+
+**7.80.8**  For Budha the month of Mādhava passed like an instant, as he delighted exceedingly with that bright-faced Ilā, so great was his passion.
+
+**7.80.9**  Then, when the month was complete, the glorious son of Prajāpati, his face like the full moon, awoke upon his bed.
+
+**7.80.10**  He saw Budha, the son of Soma, there performing austerities in the lake, arms raised, unsupported; and the king addressed him.
+
+**7.80.11**  "Revered one, I entered a difficult mountain together with my retinue, but I cannot see that army. Where have those who belong to me gone?"
+
+**7.80.12**  Hearing those words of that royal seer who had lost his memory, Budha replied with gentle, reassuring speech.
+
+**7.80.13**  "Your retainers were struck down by a great shower of stones, and you fell asleep in this hermitage, afflicted by fear of the wind and rain."
+
+**7.80.14**  "Be reassured; good fortune to you — be without fear, free of grief. Live here, O hero, eating fruit and roots, at your ease."
+
+**7.80.15**  Reassured by those words, that king of great renown replied with gentle words, yet grieved at the loss of his retainers.
+
+**7.80.16**  "I shall abandon my own kingdom; I cannot endure even a moment without my retainers. O Brahmin, you should permit me to depart."
+
+**7.80.17**  "My eldest son, devoted to righteousness and of great renown, O Brahmin, known as Śaśabindu — let him receive my kingdom."
+
+**7.80.18**  "For I could not bear to go and speak any ill word to my retainers' wives who live in comfort, O great and radiant one."
+
+**7.80.19**  While the lord of kings spoke thus, Budha said something most wondrous by way of consolation: "Let your dwelling here be pleasing to you."
+
+**7.80.20**  "You must not grieve, O son of Kardama, O great and mighty one. After you have dwelt here a full year, I will accomplish what is beneficial for you."
+
+**7.80.21**  Hearing those words of Budha of untiring deeds, the king resolved to remain, as the expounder of sacred knowledge had said.
+
+**7.80.22**  For one month he would become a beautiful woman and take pleasure without cease; for one month he would take on the form of a man and turn his mind to dharma.
+
+**7.80.23**  Then, in the ninth month, the fair-hipped Ilā gave birth to a son — Purūravas — begotten by the son of Soma.
+
+**7.80.24**  No sooner was he born than the fair-hipped one placed him in his father's hands — that mighty son of Ilā, equal in complexion to Budha.
+
+**7.80.25**  Budha, self-possessed, also comforted the king when he had resumed his male form, entertaining him with stories full of righteousness.
+
+**7.81.1**  While Rāma spoke thus of that wondrous birth, Lakṣmaṇa and the greatly renowned Bharata spoke up again.
+
+**7.81.2**  "Having dwelt a full year as the beloved of the son of Soma, what did she do, O best of men? You should relate that to us."
+
+**7.81.3**  Listening to the sweetness of those words from the two who questioned him, Rāma then narrated this story about the daughter of Prajāpati.
+
+**7.81.4**  When the hero had passed into the state of manhood, Budha of supreme intelligence and great renown summoned the supremely noble Saṃvarta.
+
+**7.81.5**  And also Cyavana, the son of Bhṛgu, and the sage Āriṣṭanemi, and Pramodana the gladdener, and then the sage Durvāsas.
+
+**7.81.6**  Having assembled all of them — skilled in speech and seers of truth — he addressed all his friends with composure and steadiness of mind.
+
+**7.81.7**  "This great-armed king is Ila, the son of Kardama. Know his true situation and let what is beneficial for him be arranged."
+
+**7.81.8**  Even as they were conversing, Kardama of immense splendor came to that hermitage together with great-souled twice-born sages.
+
+**7.81.9**  Pulastya, Kratu, Vaṣaṭkāra, and the greatly splendid Oṃkāra also came to that hermitage.
+
+**7.81.10**  All of them, their minds gladdened at meeting one another, well-wishers of the lord of Bāhli, then each spoke separately.
+
+**7.81.11**  But Kardama spoke words supremely beneficial for the sake of his son: "O twice-born ones, hear my words, for they are what is best for the king."
+
+**7.81.12**  "I see no remedy except the Lord whose banner bears the bull; and no sacrifice is higher than the Aśvamedha, which is also dear to that great-souled one."
+
+**7.81.13**  "Therefore let us all perform that most formidable sacrifice for the sake of the king." Thus addressed by Kardama, all the foremost of the twice-born approved of that sacrifice as a means of propitiating Rudra.
+
+**7.81.14**  The royal seer Marutta, conqueror of enemy citadels, the disciple of Saṃvarta and renowned by that name, then brought forward the materials for that sacrifice.
+
+**7.81.15**  Then a great sacrifice was performed near the hermitage of Budha, and Rudra of great renown came, filled with supreme satisfaction.
+
+**7.81.16**  Then, at the conclusion of the sacrifice, the lord of Umā, pleased and filled with the greatest joy, spoke thus to all the twice-born regarding Ilā.
+
+**7.81.17**  "I am delighted by the Hayamedha and by your devotion, O best of the twice-born. What good and pleasing thing shall I do for this lord of Bāhli?"
+
+**7.81.18**  While the lord of the gods spoke thus, those twice-born with concentrated minds propitiated the lord of the gods so that Ilā might become a man.
+
+**7.81.19**  Then Rudra, his heart delighted, of immense splendor, bestowed manhood once more upon Ilā, and having given this boon, vanished from sight.
+
+**7.81.20**  When the Hayamedha was concluded and Hara had disappeared, all those far-sighted twice-born returned whence they had come.
+
+**7.81.21**  The king, abandoning Bāhli, established a city renowned for its glory, Pratiṣṭhāna, in the most excellent Madhyadeśa.
+
+**7.81.22**  Śaśabindu, conqueror of enemy citadels, became king in Bāhli, while the mighty Ila, son of Prajāpati, became king at Pratiṣṭhāna.
+
+**7.81.23**  Ila in due time attained the unsurpassed world of Brahmā, and the king Purūravas, son of Ila, obtained Pratiṣṭhāna.
+
+**7.81.24**  "Such indeed is the power of the Aśvamedha, O you two bulls among men: one who had become a woman thereby regained manhood — and other boons difficult to obtain besides."
+
+**7.82.1**  Having related all this, Kākutstha of immeasurable splendour then spoke again to Lakṣmaṇa among his brothers, these words rooted in righteousness.
+
+**7.82.2**  "Vasiṣṭha and Vāmadeva, and Jābāli, and likewise Kaśyapa, and all the foremost of the twice-born who are to be honoured at the Aśvamedha—
+
+**7.82.3**  having summoned all of them and taken counsel, O Lakṣmaṇa, I shall release the horse, auspiciously appointed, with full concentration of mind."
+
+**7.82.4**  Hearing those words spoken by Rāghava, Lakṣmaṇa of swift valour summoned all the twice-born and presented them before Rāghava.
+
+**7.82.5**  Beholding Rāghava, who shone like a god and was utterly unapproachable, they who had reverenced his feet honoured him with blessings.
+
+**7.82.6**  Then, with palms joined in reverence, Rāghava addressed those most excellent of twice-born with words pertaining to righteousness and bearing on the Aśvamedha.
+
+**7.82.7**  Having heard the wondrous and illuminating counsel of those foremost twice-born regarding the Aśvamedha, he became greatly pleased.
+
+**7.82.8**  Understanding their considered opinion, Rāma said to Lakṣmaṇa: "O mighty-armed one, dispatch a message to the great-souled Sugrīva:
+
+**7.82.9**  "'Come swiftly with many great monkeys and their attendants, for your welfare, to partake in this most excellent sacrifice.'
+
+**7.82.10**  "And let the mighty-armed Vibhīṣaṇa of swift valour, surrounded by many rākṣasas who move at will, come to attend the Aśvamedha."
+
+**7.82.11**  "And the kings, O tiger among men, who desire to do what is dear to me—let them come promptly with their retinues to that unsurpassed sacrificial ground."
+
+**7.82.12**  "And those twice-born devoted to righteousness who have gone to other lands—invite all of them, O Lakṣmaṇa, to the Aśvamedha."
+
+**7.82.13**  "And the sages, O mighty-armed one, the ascetics whose wealth is their austerity—those who have gone to other lands, and the great seers with their wives—let them be summoned."
+
+**7.82.14**  "And a very great sacrificial enclosure on the Gomatī in the Naimiṣa forest—let it be ordered, O mighty-armed one; that place is sacred and unsurpassed."
+
+**7.82.15**  "A hundred thousand cart-loads of choice rice, and ten thousand loads of sesame and lentils—let these proceed in advance, O mighty one."
+
+**7.82.16**  "Many crores of gold coins and hundreds more of silver—let the great-minded Bharata go in front, placing all these before him."
+
+**7.82.17**  "The rows of shops along the streets, all the actors and dancers, the townspeople, children and the elderly, and the twice-born who are well composed in mind—"
+
+**7.82.18**  "and the skilled artisans and craftsmen learned in their arts, and all my mothers, and the princes and the inner apartments—"
+
+**7.82.19**  "and my golden wife, worthy of initiation into the sacrificial rite—let the great-minded Bharata go forth placing all of them before him."
+
+**7.83.1**  Having promptly dispatched all of that in its entirety, the elder brother of Bharata released the auspicious dark-spotted horse.
+
+**7.83.2**  Having appointed Lakṣmaṇa together with the officiating priests in charge of the horse, Kākutstha then set out with his army toward Naimiṣa.
+
+**7.83.3**  Beholding the sacrificial enclosure, which was supremely wondrous, the mighty-armed and glorious king felt incomparable joy and exclaimed thus.
+
+**7.83.4**  While he was residing at Naimiṣa, all the kings came from every kingdom, and Rāma duly honoured them in return.
+
+**7.83.5**  The foremost of men, blazing with great splendour, assigned suitable and richly appointed quarters to those great-souled kings together with their retinues.
+
+**7.83.6**  Food and drink and garments for those great-souled ones with their retinues—Bharata, together with Śatrughna, swiftly distributed these.
+
+**7.83.7**  And the great-souled monkeys, together with Sugrīva, all bowing humbly to the brāhmaṇas, performed the service of distributing food.
+
+**7.83.8**  And Vibhīṣaṇa, surrounded by many garlanded rākṣasas, placed himself as a servant in attendance upon the sages of fierce austerity.
+
+**7.83.9**  Thus well arranged, the horse-sacrifice proceeded; and the course of the horse, guarded by Lakṣmaṇa, was set in motion.
+
+**7.83.10**  No other sound was to be heard at that horse-sacrifice of the great-souled king but "Give as you please, give freely"—and as far as the supplicants were satisfied, so far was the giving by monkeys and rākṣasas to be seen.
+
+**7.83.11**  There was no one there who was impure, wretched, or emaciated at that best of sacrifices of the king, which was filled with joyful and well-nourished people.
+
+**7.83.12**  And the great-souled sages of long life who were present there could not recall any such sacrifice, adorned with torrents of gifts.
+
+**7.83.13**  Of silver, gold, gems, and garments being given ceaselessly—no end of them was to be perceived.
+
+**7.83.14**  "Not of Śakra, nor of Soma, nor of Yama, nor of Varuṇa has such a sacrifice been seen before"—thus spoke the ascetics of great austerity.
+
+**7.83.15**  Everywhere the monkeys stood, and everywhere the rākṣasas too, their hands filled, giving garments and riches abundantly to those who desired them.
+
+**7.83.16**  Such was the sacrifice of that lion among kings, endowed with every virtue; it continued for a full year and more, and did not diminish.
+
+**7.84.1**  While such a supremely wondrous sacrifice was in progress, the foremost of sages, Vālmīki, came swiftly with his disciples.
+
+**7.84.2**  Beholding the sacrifice that appeared divine and wonderful to behold, he had auspicious leaf-huts made in a secluded spot among the hermitages of the sages.
+
+**7.84.3**  Joyfully he spoke to his two disciples: "Go, the two of you, composed and attentive, and sing the complete Rāmāyaṇa poem with the greatest delight."
+
+**7.84.4**  "In the sacred hermitages of the sages, in the dwelling-places of brāhmaṇas, in the lanes and royal roads, in the houses of kings—"
+
+**7.84.5**  "at the gate of Rāma's palace, wherever the ritual acts are being performed, and especially before the officiating priests—there it should be sung in particular."
+
+**7.84.6**  "And these sweet and varied fruits that grow here on the mountaintops—eating and tasting them, you shall sing."
+
+**7.84.7**  "You shall not come to fatigue, my dear ones, having eaten the fruits and choice roots; you shall accept nothing from the city."
+
+**7.84.8**  "If Rāma, the lord of the earth, should summon you to sing before him as the sages are seated, then let the singing begin."
+
+**7.84.9**  "Twenty cantos are to be sung each day with the greatest joy, with the many metres there, as was taught by me previously."
+
+**7.84.10**  "And no greed whatsoever is to be entertained, not even a little, out of desire for wealth. What use is wealth to those who dwell in hermitages and subsist on fruits and roots?"
+
+**7.84.11**  "If Kākutstha should ask you, 'Children, of whom are you?', say to the lord of men: 'We are disciples of Vālmīki.'"
+
+**7.84.12**  "Having attuned these strings to the sweetest pitch, or the mode shown before, sing with utmost sweetness, free from anxiety."
+
+**7.84.13**  "The singing should proceed from the beginning, and without disrespecting the king; for the king is by right the father of all beings."
+
+**7.84.14**  "Therefore, the two of you, with joyful hearts, sing tomorrow at dawn with full concentration the sweet song accompanied by the melody of the lute."
+
+**7.84.15**  Having instructed them thus many times, the sage Prācetasa, Vālmīki of surpassing generosity and great renown, then fell silent.
+
+**7.84.16**  The two princes, having placed that wondrous and auspicious instruction of the sage within their hearts, passed the night happily and with eager anticipation, even as the two Aśvins refined by the teaching of Bhārgava.
+
+**7.85.1**  Those two, at the dawning of the night into day, having bathed and offered oblations into fire as previously instructed by the sage, sang [the poem] here and there [throughout the grounds].
+
+**7.85.2**  Kākutstha [Rāma] heard from various places that earlier narrative — a recitation genre unprecedented [in its kind], adorned with melody.
+
+**7.85.3**  Hearing it composed in many metres and accompanied by the rhythm of the lute, Rāghava [Rāma] became wholly absorbed in wonder.
+
+**7.85.4**  Then, in a pause between ritual acts, the king — that tiger among men — assembled the great sages, the kings, the learned scholars, and the Vedic experts,
+
+**7.85.5**  the Purāṇa specialists, the grammarians, and the elder twice-born — having gathered all of them together, he had the two singers take their seats [before the assembly].
+
+**7.85.6**  The groups of sages there, and the kings of great splendour, were filled with delight — drinking in, as it were, with their eyes both the king and those two singers.
+
+**7.85.7**  Then all of them spoke to one another at once: "Both of these resemble Rāma — as if one image were drawn from another image."
+
+**7.85.8**  "Were they not wearing matted locks, were they not clad in bark garments, we could find no difference between these two singers and Rāghava [himself]."
+
+**7.85.9**  While the listeners conversed in this way, growing in joy, those two sons of the sage commenced their song there, increasing [the audience's] delight.
+
+**7.85.10**  Then there arose a sweet celestial music surpassing the human — and none of the listeners reached satiation with the wealth of that song.
+
+**7.85.11**  Beginning from the very beginning — from the cantos opened by the vision of Nārada — they sang forward from there, up to twenty cantos.
+
+**7.85.12**  Then in the late afternoon, having heard those twenty cantos, Rāghava — who was affectionate toward his brothers — spoke to Bharata:
+
+**7.85.13**  "Give quickly eighteen thousand [coins] of gold to these two noble souls, O Kākutstha — let the effort of these boys not go unrewarded."
+
+**7.85.14**  But those two bards [Kuśa and Lava] did not accept the gold being offered, and the noble-souled pair spoke in astonishment: "What is this to us?"
+
+**7.85.15**  "We are forest-dwellers fully content with wild fruits and roots. What use have we for gold or precious metal in the forest?"
+
+**7.85.16**  As the two spoke thus, the listeners and Rāma alike — all of them — filled with curiosity and were greatly astonished.
+
+**7.85.17**  And Rāma, the greatly resplendent, eager to hear the full extent of that poem, asked those two sons of the sage:
+
+**7.85.18**  "What is the measure of this poem? What is the foundation [topic] of this great noble work? Who is he — that foremost sage who is the author of this great poem?"
+
+**7.85.19**  The two sons of the sage replied to Rāghava's questioning words: "The venerable Vālmīki is the author — he who has come to be near the sacrifice — and it is he who has revealed this entire story to you in full."
+
+**7.85.20**  "From the very beginning, O lord of kings, [it extends through] five hundred cantos. Its subject, O king, is whatever is auspicious and inauspicious throughout [your] life."
+
+**7.85.21**  "If your mind is resolved to hear [it], O king, O great warrior — being called to a moment's pause between ritual acts — then listen to it together with your younger brothers."
+
+**7.85.22**  Rāma said "So be it," and those two, having received permission from Rāghava, went joyfully to the dwelling where that foremost sage resided.
+
+**7.85.23**  And Rāma too, having savoured the sweetness of that song, returned to the ritual hall together with the sages and the great-souled kings.
+
+**7.86.1**  For many days together Rāma listened to that supremely wondrous song — in the company of the sages, the kings, and the monkeys.
+
+**7.86.2**  Then, recognising Kuśa and Lava as Sītā's sons from that song, Rāma spoke words in the midst of that assembly:
+
+**7.86.3**  "Convey my words and go into the presence of the venerable [Vālmīki]:"
+
+**7.86.4**  "'If [Sītā] is pure in conduct, if she is indeed free of all stain, let her establish her own purity here, having gained the great sage's sanction.'"
+
+**7.86.5**  "'Having ascertained the sage's pleasure and the inner intent of Sītā — who is willing to give proof — then report to me promptly.'"
+
+**7.86.6**  "'Tomorrow morning, let Maithilī, the daughter of Janaka, take her oath in the midst of the assembly — for the purpose of [her] vindication and of mine here as well.'"
+
+**7.86.7**  Having heard this supremely wondrous speech of Rāghava, the messengers hastened to the grove where that foremost sage dwelt.
+
+**7.86.8**  They bowed before the great-souled one blazing with boundless radiance and spoke to him Rāma's words — gentle and sweet.
+
+**7.86.9**  Having heard their report and understood the inner intention of Rāma, the sage of very great splendour then spoke:
+
+**7.86.10**  "May it be so — blessings upon you. As Rāghava wishes, so shall Sītā act; for the husband is the deity of a woman."
+
+**7.86.11**  Thus addressed by the sage, all of Rāma's messengers — those of great strength — returned and reported the sage's words to Rāghava.
+
+**7.86.12**  Then Kākutstha, greatly delighted upon hearing the words of the great-souled sage, addressed the sages assembled there and the kings as well:
+
+**7.86.13**  "Let the venerable sages together with their disciples, and the lords of men with their retinues, witness the oath of Sītā — and whoever else desires to.
+
+**7.86.14**  On hearing those words of the great-souled Rāghava, there arose a great cry of "bravo!" from all the foremost sages.
+
+**7.86.15**  The great-souled kings too praised Rāghava: "This befits you alone, O best of men — nowhere else on earth."
+
+**7.86.16**  Having thus made this decision — "It shall be tomorrow" — Rāghava, the slayer of enemies, then dismissed all of them.
+
+**7.87.1**  When that night had passed, the king Rāghava — greatly resplendent — having gone to the sacrificial arena, summoned all the sages.
+
+**7.87.2**  Vasiṣṭha, Vāmadeva, Jābāli, and then Kāśyapa; Viśvāmitra of long austerities, and Durvāsas of great ascetic power;
+
+**7.87.3**  Agastya, and likewise Āśakti, the Bhārgava Vāmana, Mārkaṇḍeya of long life, and Maudgalya of great austerities;
+
+**7.87.4**  The Bhārgava Cyavana, Śatānanda who is learned in dharma, the radiant Bharadvāja, and Agniputra of great lustre —
+
+**7.87.5**  these and many other sages of sharpened vows, and kings — those tigers among men — all assembled together.
+
+**7.87.6**  Rākṣasas of great valour and monkeys of great strength — all those noble souls — came together out of eager curiosity.
+
+**7.87.7**  Kṣatriyas, Vaiśyas, and Śūdras by the thousands — all of them assembled together for the purpose of witnessing Sītā's oath.
+
+**7.87.8**  Hearing that all had thus assembled — still as a motionless mountain — the foremost sage quickly approached together with Sītā.
+
+**7.87.9**  Sītā followed behind that sage with downcast face, hands folded in reverence, tears flowing, having placed Rāma in her heart.
+
+**7.87.10**  Seeing Sītā approaching behind Vālmīki like Śrī following Brahmā, there arose a great acclamation [from the assembly].
+
+**7.87.11**  Then a tumultuous clamour arose from all — those whose hearts were agitated by a vast grief born of sorrow [for her].
+
+**7.87.12**  Some cried "Well done, Sītā!", others cried "Well done, Rāma!" — while yet others there said "Well done, well done!" [meaning both].
+
+**7.87.13**  Then, entering the midst of the throng of people, that foremost sage Vālmīki — with Sītā beside him — thus spoke to Rāghava:
+
+**7.87.14**  "O son of Daśaratha, this Sītā — of excellent vows and virtuous conduct — sinless, was abandoned by you near my hermitage.
+
+**7.87.15**  "O Rāma, O upholder of great vows — out of fear of public censure you [cast her out]; Sītā shall now give proof [of her purity]. You should grant her permission to do so.
+
+**7.87.16**  "These two sons of Jānakī, born as twins — they are your sons indeed, O unconquerable one. I speak this truth to you.
+
+**7.87.17**  "I am the tenth son of Pracetas [Varuṇa], O joy of the Rāghava clan — I do not recall ever speaking a falsehood; and likewise, these two are your sons.
+
+**7.87.18**  "For many thousands of years I have performed austerities — may I reap the fruit of that [penance] insofar as Maithilī is sinless.
+
+**7.87.19**  "Having contemplated, O Rāghava, through [my knowledge of] the five elements together with the mind as sixth, that Sītā is pure — it was thus that I took her in at the forest stream.
+
+**7.87.20**  "This woman of pure conduct, sinless, who holds her husband as her deity — she shall give you proof, who feared the censure of the world."
+
+**7.88.1**  Thus addressed by Vālmīki, Rāghava replied with palms joined in the midst of the assembly, having beheld that one of divine complexion.
+
+**7.88.2**  "So it is, O highly blessed one, O knower of dharma, exactly as you declare. I am convinced, O Brahman, by your words that are without blemish."
+
+**7.88.3**  "Proof was indeed given formerly by Vaidehī in the presence of the gods. Yet knowing her to be without sin, I abandoned Sītā out of fear of what the world would say, O Brahman — may you forgive that."
+
+**7.88.4**  "And I know these two sons of mine, Kuśa and Lava, born as twins; may I now have the joy of being reunited with Maithilī, whose purity has been proclaimed in the midst of the world."
+
+**7.88.5**  Understanding the intention of Rāma, the foremost of the gods, all of them assembled together with the Grandfather Brahmā at their head.
+
+**7.88.6**  The Ādityas, Vasus, Rudras, Viśvedeva, troops of Maruts, the two Aśvins, the seers, the Gandharvas, the hosts of Apsarases, the Sādhya gods — all of them — and all the great seers came.
+
+**7.88.7**  Then an auspicious, holy, divinely fragrant, and delightful wind, the best of the celestials, gladdened that multitude of people on every side.
+
+**7.88.8**  The people assembled from all the realms gazed upon that wondrous, inconceivable event with concentrated minds, as in the Kṛtayuga of old.
+
+**7.88.9**  Sītā, clad in an ochre robe, beholding all who had gathered, spoke words with palms joined, her gaze lowered and her face cast downward.
+
+**7.88.10**  "As I have never even in mind thought of any man other than Rāghava, so may the goddess Mādhavī — the Earth — grant me an opening."
+
+**7.88.11**  As Vaidehī was thus taking this oath, that wonder appeared: from the surface of the earth rose a divine, incomparable throne.
+
+**7.88.12**  It was borne on the heads of serpents of immeasurable might, divine in its divine form, adorned with all kinds of jewels.
+
+**7.88.13**  And upon it the goddess Earth, taking Maithilī in her arms, welcomed her with a greeting and caused her to be seated on that throne.
+
+**7.88.14**  Beholding her seated on the throne and descending into the netherworld, an unceasing shower of divine flowers rained down upon Sītā.
+
+**7.88.15**  A very great cry of "bravo!" arose at once from the gods: "Bravo, bravo, O Sītā, whose virtue is of such a nature!"
+
+**7.88.16**  In this manner the gods who were stationed in the sky uttered many such words with joyful minds, having witnessed the descent of Sītā.
+
+**7.88.17**  And the sages who had gathered at the sacrificial enclosure, as well as the kings, those tigers among men, could not cease from their amazement.
+
+**7.88.18**  In the sky and on the earth, all beings, both stationary and moving, the great-bodied Dānavas, the lords of serpents in the underworld —
+
+**7.88.19**  — some cried out in great joy, some were absorbed in meditation, some gazed at Rāma, some were rendered senseless gazing at Sītā.
+
+**7.88.20**  At the sight of Sītā's descent, there was a great gathering of those beings; and at that moment the entire world was utterly overwhelmed.
+
+**7.89.1**  At the conclusion of that sacrifice, Rāma, deeply grief-stricken, seeing Vaidehī no more, considered this world empty. Overcome utterly by sorrow, he could find no peace of mind.
+
+**7.89.2**  He dismissed all the kings, the bears, monkeys, and rākṣasas, and sent away the assembled throng of Brahman-led seers, richly laden with gifts.
+
+**7.89.3**  Having dismissed them all, Rāma, the lotus-eyed, then entered Ayodhyā carrying Sītā in his heart.
+
+**7.89.4**  That scion of Raghu took no other wife beyond Sītā; at every sacrifice a golden image of Jānakī served as the ritual consort.
+
+**7.89.5**  For ten thousand years he performed the Aśvamedha sacrifice, and Vājapeya sacrifices ten times that number, together with many sacrifices endowed with great gold.
+
+**7.89.6**  That glorious one performed also the Agniṣṭoma, the Atirātra, the Gosava with great wealth, and other rites in which the sacrificial fees were duly rendered.
+
+**7.89.7**  In this manner a very great span of time passed for Rāghava, the great-souled one, who was established in his kingdom and who strove ever in the path of dharma.
+
+**7.89.8**  The bears, monkeys, and rākṣasas remained under Rāma's authority; the kings were attached to Rāghava day by day.
+
+**7.89.9**  Rain fell in season, abundance prevailed, the directions were clear; the city and the countryside were filled with people who were joyful and well-nourished.
+
+**7.89.10**  No one died before his time, no disease afflicted living beings, and there was no adharma whatsoever while Rāma was governing the kingdom.
+
+**7.89.11**  Then, after a long time, Rāma's illustrious mother, surrounded by her sons and grandsons, attained the fate decreed by time — she died.
+
+**7.89.12**  Sumitrā also followed, and the illustrious Kaikeyī; having performed dharma in its many forms, they were established in the three heavens.
+
+**7.89.13**  All of them were established in heaven and were reunited with King Daśaratha, those highly blessed ones together attained dharma.
+
+**7.89.14**  Rāma made great offerings for them in due seasons, for his mothers without distinction, among Brāhmaṇas and ascetics.
+
+**7.89.15**  Rāma, whose soul was established in dharma, performed ancestral rites with many jewels and sacrifices of the utmost magnificence, thereby honoring the ancestors and the gods.
+
+**7.90.1**  Now after some time, Yudhājit, king of the Kekayas, sent his own preceptor to the great-souled Rāghava.
+
+**7.90.2**  He sent the brahmarṣi Gārgya, son of Aṅgiras, of immeasurable splendor, and ten thousand horses as an incomparable gift of affection.
+
+**7.90.3**  The king presented to Rāma also blankets, jewels, choice embroidered garments, and many ornaments.
+
+**7.90.4**  Hearing that the great seer Gārgya had arrived — the beloved envoy of his maternal uncle Aśvapati —
+
+**7.90.5**  — Kākutstha went out to meet him, accompanied by his retinue, to a distance of a krośa, and honored Gārgya, receiving that wealth.
+
+**7.90.6**  Having asked in a pleasing manner after the welfare of his maternal uncle, Rāma began to question the highly blessed one when he was seated.
+
+**7.90.7**  "What message does my maternal uncle convey? For what purpose has the blessed one come here, O best among those versed in speech, like Bṛhaspati himself in person?"
+
+**7.90.8**  Hearing the words of Rāma, the brahmarṣi, wondrous in appearance, began to narrate to Rāghava the full details of the matter.
+
+**7.90.9**  "Your maternal uncle Yudhājit speaks this message, O mighty-armed one, O bull among men — may it please you to hear it, full of affection."
+
+**7.90.10**  "This Gandharva territory, adorned with fruits and roots, a most beautiful region on both banks of the Sindhu —"
+
+**7.90.11**  "— it is guarded by Gandharvas, armed and skilled in battle, sons of Śailūṣa, thirty million heroes of great might."
+
+**7.90.12**  "Having conquered them, O Kākutstha, O mighty-armed one, please establish two well-ordered cities in that auspicious Gandharva territory."
+
+**7.90.13**  "No other man's path leads there; that region is supremely beautiful. May it please you, O mighty-armed one — I do not speak falsely to you."
+
+**7.90.14**  Hearing this, Rāghava was pleased with the great seer and with his maternal uncle's message, and said "So be it," glancing then toward Bharata.
+
+**7.90.15**  The pleased Rāghava, with folded hands, said to the twice-born sage: "These two princes will conquer that territory, O brahmarṣi."
+
+**7.90.16**  "The two heroic sons of Bharata — Takṣa and Puṣkala — well protected by their maternal uncle, and both intent on dharma."
+
+**7.90.17**  "With Bharata going in front, the two princes, accompanied by their forces and retinue, will slay the sons of the Gandharvās and then divide between them the two cities."
+
+**7.90.18**  "Having established those two excellent cities and settled his own sons there, the most righteous Bharata will return once more to my side."
+
+**7.90.19**  Having spoken thus to the brahmarṣi, he then commanded Bharata along with his army and retinue, and consecrated the two princes.
+
+**7.90.20**  Under an auspicious lunar asterism, placing the son of Aṅgiras at their head, Bharata set forth with his army and with the two princes.
+
+**7.90.21**  That army, like Indra's own forces, marched out through the city gates, escorted far by Rāghava, and was formidable to gods and asuras alike.
+
+**7.90.22**  Flesh-eating creatures and very great rākṣasas also followed Bharata, thirsting for blood.
+
+**7.90.23**  And many hosts of spirits, flesh-eating, exceedingly fierce, numbering in the thousands, desirous of feasting on the flesh of the Gandharva's sons, followed along.
+
+**7.90.24**  Many thousands of lions, tigers, and jackals, as well as birds of the air, went in front of the army.
+
+**7.90.25**  The army, healthy and unimpeded, having spent a month and a half on the road, arrived at Kekaya, filled with men who were cheerful and well-provisioned.
+
+**7.91.1**  Hearing that Bharata, the commander of the army, had arrived together with Yudhājit of the Gārgya lineage, the lord of the Kekayas felt surpassing delight.
+
+**7.91.2**  That lord of the Kekayas sallied forth with a great host of people, advancing swiftly against the Gandharvas who resembled the gods in form.
+
+**7.91.3**  Bharata and Yudhājit, united and swift of stride, arrived at the Gandharva city together with their armies and retinues of foot-soldiers.
+
+**7.91.4**  Hearing that Bharata had arrived, those Gandharvas of great valor assembled together, eager for battle, crying out on all sides.
+
+**7.91.5**  Then a tumultuous, hair-raising battle ensued — terrible and lasting seven nights — and neither side gained victory.
+
+**7.91.6**  Then Bharata, the younger brother of Rāma, enraged, discharged against the Gandharvas the dreadful weapon of Kāla called Saṃvarta.
+
+**7.91.7**  Bound by the noose of Kāla and torn apart by the Saṃvarta weapon, thirty million of them were struck down in an instant by that great-souled one.
+
+**7.91.8**  That slaughter, terrible to behold — such a deed of great-souled men accomplished in merely the twinkling of an eye — the dwellers of heaven do not recall its like.
+
+**7.91.9**  When those warriors had been slain, Bharata, the son of Kaikeyī, then established two most excellent and prosperous cities: Takṣa in Takṣaśilā and Puṣkara in Puṣkarāvatī.
+
+**7.91.10**  That beautiful Gandharva country, the Gāndhāra territory, was filled within five years with provinces and urban settlements.
+
+**7.91.11**  Filled with floods of wealth and jewels, adorned with groves, the two cities rivaled each other in every excellence, vying with one another to excel in virtues.
+
+**7.91.12**  Both were renowned for their great beauty, distinguished by spotless commerce, thronged with throngs of gardens and vehicles, with marketplaces well laid out in their quarters.
+
+**7.91.13**  Both were splendid foremost cities, lovely and adorned with wide expanses, graced with principal mansions of great beauty and palatial structures of matching splendor.
+
+**7.91.14**  Adorned too with the splendid expanse of shrines to the gods — having settled the land in five years, Bharata the younger brother of Rāghava, the mighty-armed son of Kaikeyī, returned to Ayodhyā.
+
+**7.91.15**  The illustrious Bharata paid homage to the great-souled Rāghava — who was like Dharma incarnate — even as Vāsava pays homage to Brahmā.
+
+**7.91.16**  And he reported in full detail the great slaughter of the Gandharvas and the settlement of the country. Hearing this, Rāghava was well pleased with him.
+
+**7.92.1**  Hearing that, Rāghava was filled with joy together with his brothers, and Rāghava spoke to his brothers words that were wonderful to behold.
+
+**7.92.2**  "O Saumitri, these two princes of yours, Aṅgada and Candraketu, accomplished in dharma and firm-bowed, are worthy of kingdoms."
+
+**7.92.3**  "I shall consecrate these two to kingdoms — let a suitable territory be arranged — one that is pleasant and uncrowded, where the two archers may dwell in happiness."
+
+**7.92.4**  "A territory should be found, dear one, where there would be no injury to kings and no destruction of hermitages — so that we commit no offense."
+
+**7.92.5**  When Rāma had spoken thus, Bharata replied: "This territory along the Kārāpatha road is exceedingly beautiful and free from affliction."
+
+**7.92.6**  "Let a city be established there for the great-souled Aṅgada, and likewise a beautiful, wholesome city called Candrakānta for Candraketu."
+
+**7.92.7**  Rāghava accepted the words spoken by Bharata, and having brought that territory under control, he settled it for Aṅgada.
+
+**7.92.8**  The lovely city known as Āṅgadīyā was founded for Aṅgada — beautiful and well-protected — by Rāma of tireless deeds.
+
+**7.92.9**  And Candraketu was settled in the wrestling-ground of Malla, in the Malla country — the city famed as Candrakānta, divine like a city of heaven.
+
+**7.92.10**  Then Rāma, Bharata, and Lakṣmaṇa — those invincible ones in battle — were filled with great joy and performed the consecration rites.
+
+**7.92.11**  Having consecrated the two princes and dispatched them with their armies and retinues — Aṅgada toward the western land and Candraketu toward the north —
+
+**7.92.12**  Lakṣmaṇa, the son of Sumitrā, followed after Aṅgada, while Bharata became the rear-guard for Candraketu.
+
+**7.92.13**  Lakṣmaṇa dwelt in Āṅgadīyā for a full year; once that invincible prince was established, he returned again to Ayodhyā.
+
+**7.92.14**  Bharata likewise dwelt there for a year and more, and then returning to Ayodhyā, he came to the feet of Rāma.
+
+**7.92.15**  Both Saumitri and Bharata, devoted to the feet of Rāma and supremely righteous, did not notice time passing, so great was their love.
+
+**7.92.16**  Thus ten thousand years passed for them as they strove constantly in dharma and in the affairs of the city every day.
+
+**7.92.17**  Having enjoyed the world with minds fully content and encompassed by glory, those three stood firm upon the highest path of dharma — like three blazing sacrificial fires of brilliant splendor kindled well at a great sacrifice.
+
+**7.93.1**  Then, after some time had passed, while Rāma stood firm upon the path of dharma, Kāla — Time personified — came to the royal gate in the form of an ascetic.
+
+**7.93.2**  He spoke to the steadfast and illustrious Lakṣmaṇa: "Announce me to Rāma — I have come on a matter of great importance."
+
+**7.93.3**  "For I am the messenger of a most powerful great seer of immeasurable might. O mighty one, I have come desiring to see Rāma on a matter of urgency."
+
+**7.93.4**  Hearing those words, Saumitri hastened and reported to Rāma what the ascetic wished to say.
+
+**7.93.5**  "Be victorious by dharma in both worlds, O king of great splendor. An ascetic bright as the sun has come as a messenger wishing to see you."
+
+**7.93.6**  Hearing the words spoken by Lakṣmaṇa, Rāma said: "Dear one, let the sage of great power, the bearer of his message, be admitted."
+
+**7.93.7**  Saumitri said "So be it" and ushered in that sage who blazed as if with flames and scorched with his very radiance.
+
+**7.93.8**  Approaching the foremost of the Raghu line who blazed with his own effulgence, the seer spoke to Rāghava with sweet voice: "May you flourish!"
+
+**7.93.9**  The great-resplendent Rāma offered him worship preceded by the arghya libation, and then calmly proceeded to inquire of his welfare.
+
+**7.93.10**  Asked of his welfare by Rāma, the best among speakers and greatly renowned, he took his seat upon the divine golden throne.
+
+**7.93.11**  Then Rāma spoke to him: "Welcome, great sage. Now deliver the words on account of which you have come as a messenger."
+
+**7.93.12**  Prompted by that lion among kings, the sage began to speak: "What is to be said must be said in a private meeting — and the spoken word must not be wounded by any eye."
+
+**7.93.13**  "Whoever listens or looks upon this, O Rāghava, shall be worthy of death — if, that is, you value the word of this foremost of sages."
+
+**7.93.14**  Having pledged "So be it," Rāma spoke to Lakṣmaṇa: "O mighty-armed one, stand at the door and dismiss the door-keeper."
+
+**7.93.15**  "For he shall truly deserve death, O Saumitri, who sees or hears this private discourse between the sage and me."
+
+**7.93.16**  Then, having stationed Lakṣmaṇa, the scion of Kakutstha, at the keeping of the door, Rāghava said to the sage: "Speak."
+
+**7.93.17**  "Whatever words are in your mind, on account of which you have come with such focused resolve — speak them without hesitation; they dwell in my heart as well."
+
+**7.94.1**  Listen, O Rāma, mighty-armed one, great in strength — for what purpose I have been commissioned and sent here by the god Pitāmaha.
+
+**7.94.2**  I am your son from your prior existence, O conqueror of enemy cities; O hero, brought forth through māyā — I am Kāla, the all-consumer.
+
+**7.94.3**  And the blessed Pitāmaha, lord of worlds and sovereign, said: 'The time has come for you, O mighty-armed one, to protect the celestial realms.'
+
+**7.94.4**  Having once contracted the worlds through māyā yourself, lying upon the great ocean on the waters, you formerly brought me forth.
+
+**7.94.5**  Then, having created through māyā Ananta, the mighty serpent lying in the water, and also two mighty beings —
+
+**7.94.6**  — Madhu and Kaiṭabha, by whose heaped bones this earth, crowded with mountains, came to be formed —
+
+**7.94.7**  — producing me from your navel upon the divine lotus blazing like the sun, you entrusted to me all the creative work of Prajāpati.
+
+**7.94.8**  Thus I, having laid down my burden, worship you, lord of the universe; grant protection to beings — you are the source of my splendor.
+
+**7.94.9**  And you, the invincible one, from that eternal state assumed the nature of Viṣṇu for the protection of all beings.
+
+**7.94.10**  Born of Aditi as a mighty son, you who increase the joy of your brothers — whenever deeds arise, you stand ready to aid the world.
+
+**7.94.11**  You, the best of the worlds, with your subjects in terror, desiring the slaying of Rāvaṇa, turned your mind toward birth among humans.
+
+**7.94.12**  You yourself ordained for yourself, of old, the measure of your sojourn — ten thousand years and ten hundred years.
+
+**7.94.13**  You, whose son is mind-born, having fulfilled your allotted lifespan among men here — the time has come to approach, O best of best men.
+
+**7.94.14**  If, O great king, you wish to tend your subjects yet longer, then dwell on — O hero, may it be well with you; thus spoke Pitāmaha.
+
+**7.94.15**  Or if you have the desire to conquer the realm of the gods, O Rāghava, let the gods be protected by Viṣṇu and freed from affliction.
+
+**7.94.16**  Having heard the words spoken by Pitāmaha and conveyed by Kāla, Rāghava, smiling, spoke to Kāla, the all-withdrawer.
+
+**7.94.17**  "I have heard the supremely wondrous words of the god of gods; great delight has arisen in me from your coming."
+
+**7.94.18**  "May it be well with you. I shall go to that very place whence I have come — for you have truly entered my heart now that you have arrived; I have no hesitation in this."
+
+**7.94.19**  "For in all the affairs of the gods who are subject to me, I must stand firm at the final withdrawal of all — just as Pitāmaha has declared."
+
+**7.95.1**  While those two were thus conversing, the blessed sage Durvāsas, desirous of an audience with Rāma, approached the gate of the palace.
+
+**7.95.2**  Approaching Saumitri, that foremost of sages said: "Show me Rāma at once — my purpose will lapse if delayed."
+
+**7.95.3**  Hearing the sage's words, Lakṣmaṇa, slayer of enemy heroes, saluted the great-souled one and spoke these words.
+
+**7.95.4**  "Tell me, revered one, what is the matter — what is the purpose, what should I do? Rāghava is occupied, O brahmin; please wait but a moment."
+
+**7.95.5**  Hearing this, that tiger among sages, inflamed with anger, spoke to Lakṣmaṇa with words that seemed to burn him with a glance.
+
+**7.95.6**  "This very instant, O Saumitri, announce me to Rāma — otherwise I shall curse you, your realm, your city, and Rāghava as well."
+
+**7.95.7**  "And Bharata, O Saumitri, and all your posterity — for I am no longer able to hold back my anger in my heart."
+
+**7.95.8**  Hearing those fearsome-seeming words of that great-souled one, Lakṣmaṇa reflected in his mind on the import of those words.
+
+**7.95.9**  "Let death be mine alone; let there be no destruction of all" — having resolved this in his understanding, he announced it to Rāghava.
+
+**7.95.10**  Hearing Lakṣmaṇa's words, Rāma dismissed Kāla and, stepping out swiftly, the king beheld the son of Atri.
+
+**7.95.11**  Bowing to that great-souled one blazing as it were with splendor, Kākutstha, with hands folded in reverence, asked: "What is the purpose?"
+
+**7.95.12**  Hearing those words spoken by Rāghava, the great sage and lord Durvāsas replied to Rāma: "Hear me, O you who cherish righteousness."
+
+**7.95.13**  "Today marks the completion of my thousand-year vow, O Rāghava; I, O sinless one, desire food — whatever is prepared in your household."
+
+**7.95.14**  Hearing those words, Rāma, filled with great delight, offered to the foremost of sages the food that had been prepared.
+
+**7.95.15**  That best of sages, having eaten that food comparable to nectar, addressed Rāma with "Well done, Rāma" and returned to his own hermitage.
+
+**7.95.16**  When he had departed, the greatly resplendent Rāghava, whose mind had been glad, recalled the words of Kāla and was then overcome with sorrow.
+
+**7.95.17**  Deeply tormented by grief, recalling that terrible encounter, he stood with downcast face, dejected in mind, unable to speak.
+
+**7.95.18**  Then Rāghava of great renown, having resolved in his mind the words of Kāla, said only "This is not to be" — and sat in silence.
+
+**7.96.1**  Then Lakṣmaṇa, seeing Rāghava downcast and wretched like the moon overcome by eclipse, joyfully spoke sweet words.
+
+**7.96.2**  "You ought not to grieve on my account, O mighty-armed one — for such is the course of Kāla, bound by the ordinance laid down of old."
+
+**7.96.3**  "Slay me, O gentle one, without hesitation, and uphold your vow — for men who fail in their vows descend to hell, O Kākutstha."
+
+**7.96.4**  "If there is love in you, O great king, if I am worthy of your favor — slay me without hesitation, O Rāghava, and let righteousness flourish."
+
+**7.96.5**  Thus addressed by Lakṣmaṇa, Rāma, with agitated senses, summoned his ministers and likewise the chief priest.
+
+**7.96.6**  And the lord of men recounted to them, in their midst, all that had happened — both the arrival of Durvāsas and the vow that had been made with the ascetic.
+
+**7.96.7**  Hearing this, all the ministers together with the preceptors sat in assembly; then Vasiṣṭha of great splendor spoke these words.
+
+**7.96.8**  "This has been foreseen, O mighty-armed Rāma of great renown — your end, which causes the hair to stand on end, and your separation from Lakṣmaṇa."
+
+**7.96.9**  "Abandon him — Kāla is powerful; do not render your vow futile, for when a vow is destroyed, righteousness goes to ruin."
+
+**7.96.10**  "And when righteousness is destroyed, all that is movable and immovable in the three worlds, together with the hosts of gods and sages, would perish — of this there is no doubt."
+
+**7.96.11**  "Therefore you, tiger among men, who are the protector of the three worlds — render the world whole today by the death of Lakṣmaṇa."
+
+**7.96.12**  Hearing that counsel of those assembled — fraught with righteousness and purpose — Rāma, in the midst of the assembly, addressed Lakṣmaṇa.
+
+**7.96.13**  "I release you, O Saumitri — let there be no inversion of righteousness; for the righteous, renunciation and death are equally ordained, and both are the same."
+
+**7.96.14**  When Rāma had spoken those words, Lakṣmaṇa, his eyes blurred with tears, departed in haste — but he did not enter his house.
+
+**7.96.15**  He went to the bank of the Sarayū, sipped its waters, and with hands folded in reverence, restrained all his vital channels and breathed not a breath.
+
+**7.96.16**  As he stood thus absorbed, not breathing — all the gods together with Śakra and the troops of apsarasas, together with the hosts of sages, showered him with flowers.
+
+**7.96.17**  As he became invisible to all his younger brothers, Śakra took up Lakṣmaṇa — mighty in strength and still in his body — and entered heaven.
+
+**7.96.18**  Then the best of gods, all rejoicing and delighted, together with the sages, honored the fourth part of Viṣṇu that had returned.
+
+**7.97.1**  Having dismissed Lakṣmaṇa, Rāma, filled with grief and sorrow, addressed the chaplain, the ministers, and the citizens thus:
+
+**7.97.2**  "Today I shall consecrate Bharata, devoted to dharma, the heroic lord of Ayodhyā, to the kingdom; thereafter I myself shall depart to the forest."
+
+**7.97.3**  "Bring in the consecration materials so that no time be lost — today itself I shall go the way that Lakṣmaṇa has gone."
+
+**7.97.4**  Hearing what Rāghava had spoken, all the subjects bowed their heads deeply to the ground and became as though bereft of life.
+
+**7.97.5**  Bharata too lost consciousness upon hearing Rāma's words; he denounced the kingdom and spoke thus to Rāghava:
+
+**7.97.6**  "By truth I swear, O king — not even in the heavenly world do I desire the kingdom without you, O joy of the Raghu lineage."
+
+**7.97.7**  "Anoint these two bards, Kuśa and Lava, O king, lord of men — the heroic Kuśa over the Kosalas, and Lava over the northern realm."
+
+**7.97.8**  "Let swift-striding messengers go to Śatrughna and without delay announce to him this departure of ours to heaven."
+
+**7.97.9**  Hearing what Bharata had said, and seeing the citizens downcast and burning with sorrow, Vasiṣṭha spoke these words:
+
+**7.97.10**  "Dear Rāma, behold — all these subjects have prostrated themselves on the earth. Knowing what they desire and require, do not act contrary to their wishes."
+
+**7.97.11**  At Vasiṣṭha's words, Kākutstha raised up the assembled subjects and addressed them all, asking: "What shall I do?"
+
+**7.97.12**  Then all the subjects spoke to Rāma: "We shall follow you wherever you go, O Rāma."
+
+**7.97.13**  "This is our supreme joy; this is deemed our highest dharma; the satisfaction dwelling in our hearts is always firm in following you."
+
+**7.97.14**  "If you have love and unsurpassed affection for your citizens, then, O Kākutstha, lead us along the true path together with our sons and wives."
+
+**7.97.15**  "Whether to a forest of austerities, or a stronghold, or a river, or the ocean — if we are not to be abandoned by you, lead us all, O Lord."
+
+**7.97.16**  He, knowing their resolve, and perceiving the decree of fate as well as the citizens' unwavering devotion, said simply: "So be it."
+
+**7.97.17**  Having made this decision, on that very day Rāghava consecrated the heroic Kuśa over the Kosalas and Lava over the northern realm —
+
+**7.97.18**  — anointing both those great-souled princes, Kuśa and Lava; and he gave to each three thousand chariots, ten thousand elephants,
+
+**7.97.19**  and ten thousand horses as gift to each — endowing both with abundant jewels and great wealth, surrounded by joyful and prosperous people.
+
+**7.97.20**  Having consecrated those two heroes and dispatched them to their own cities, he then sent swift messengers to the great-souled Śatrughna.
+
+**7.98.1**  Those messengers, urged by Rāma's command and swift of stride, proceeded quickly to Madhurā and did not halt on the way.
+
+**7.98.2**  Then, arriving at Madhurā within three days and nights, they reported to Śatrughna everything exactly as it had occurred:
+
+**7.98.3**  — the abandonment of Lakṣmaṇa, Rāghava's resolve, the consecration of his two sons, and likewise the citizens' intention to follow him.
+
+**7.98.4**  The charming city of Kuśa, established on the slopes of the Vindhya mountains by the wise Rāma, was named Kuśāvatī.
+
+**7.98.5**  And the beautiful city of Lava was proclaimed Śrāvatī; and Ayodhyā was left deserted, with Bharata following Rāghava.
+
+**7.98.6**  Having thus swiftly reported everything to the great-souled Śatrughna, those messengers then fell silent, saying: "Hasten, O king."
+
+**7.98.7**  Hearing of this dreadful-seeming dissolution of the lineage now at hand, he assembled his subjects and his chaplain Kāñcana,
+
+**7.98.8**  and, as a joy of the Raghu line, he narrated to them everything that had taken place and the reversal of his own fortune that was to come, along with his brothers.
+
+**7.98.9**  Then that heroic lord of men consecrated his two sons: Subāhu received Madhurā, and Śatrughnātī received Vaidiśā.
+
+**7.98.10**  Dividing that army from Madhurā between his two sons, he established both princes well-stocked with wealth and grain.
+
+**7.98.11**  Then, having bade farewell to the king Śatrughnātī at Vaidiśā, that Rāghava hastened to Ayodhyā in a single chariot.
+
+**7.98.12**  He saw the great-souled Rāma blazing like fire, clad in fine linen garments, accompanied by imperishable sages.
+
+**7.98.13**  He then saluted Rāma with palms joined and senses controlled, and spoke these words — he who knew dharma, meditating on dharma alone:
+
+**7.98.14**  "Having duly consecrated both the sons of the Rāghava line with proper gifts, know me, O king, as fully resolved to accompany you."
+
+**7.98.15**  "There is nothing more to be said in this matter — your command is irresistible. You should not abandon me, O hero, especially as I am devoted to you."
+
+**7.98.16**  Understanding his resolute and unfaltering mind, Rāma, the joy of the Raghus, said to Śatrughna simply: "So be it."
+
+**7.98.17**  At the conclusion of his speech, monkeys assuming any form at will, and multitudes of bears and rākṣasas, converged there in great numbers.
+
+**7.98.18**  Sons of gods, sons of sages, and sons of Gandharvas — all of them, knowing Rāma's dissolution was at hand, had all gathered together.
+
+**7.98.19**  All assembled, they saluted Rāma and said: "We have come, O king of great renown, desiring to accompany you."
+
+**7.98.20**  "If you were to depart without us, O bull among men, it would be as though you had struck us down with the rod of Yama himself."
+
+**7.98.21**  Hearing those words of the bears, monkeys, and rākṣasas, he then spoke to Vibhīṣaṇa in gentle and sweet tones:
+
+**7.98.22**  "As long as people endure, so long shall you, Vibhīṣaṇa, O lord of rākṣasas, great in valour, abide in Laṅkā and rule your realm."
+
+**7.98.23**  "Protect your subjects according to dharma; you need say nothing further."
+
+**7.98.24**  Having spoken thus to him, Kākutstha then said to Hanūmat: "You have resolved to live on — do not break the vow you have taken."
+
+**7.98.25**  "As long as my stories circulate in the world, O lord of monkeys, so long shall you sustain your life and honour your pledge."
+
+**7.98.26**  Having spoken thus, Kākutstha then said to all those bears and monkeys: "Come, travel with me" — so did Rāghava address them then.
+
+**7.99.1**  When night had given way to dawn, broad-chested Rāma of great renown, lotus-eyed, then addressed the chaplain:
+
+**7.99.2**  "Let the sacred fire of the agnihotra, blazing with clarified butter, proceed ahead, along with the royal parasol of the Vājapeya sacrifice, adorning the great path."
+
+**7.99.3**  Then the radiant Vasiṣṭha performed the entire rite of the Great Departure — the mahāprāsthānika — completely and according to proper injunction.
+
+**7.99.4**  Then, clad in linen garments and silently reciting the supreme Brahman within, Rāma took kuśa grass in both hands and, inclining forward, set out.
+
+**7.99.5**  Speaking not a word, making no gesture anywhere, beyond pleasure on the path, he went forth from that house blazing like the sun.
+
+**7.99.6**  On Rāma's left side walked Padmā Śrī, calm and composed; on his right walked Hrī of wide eyes; and Vyavasāya walked ahead of him.
+
+**7.99.7**  His arrows of various kinds and his bow of elongated form followed Kākutstha, all of them bearing human shapes.
+
+**7.99.8**  The Vedas in the form of brāhmaṇas, Sāvitrī the all-protecting, Oṃkāra, and Vaṣaṭkāra — all of them followed Rāma in devotion.
+
+**7.99.9**  The great-souled sages and all the gods of the earth followed Kākutstha as he approached the gate of heaven.
+
+**7.99.10**  The women of the inner palace followed him as he went, along with the elderly, children, and maidservants, and attendants of all ranks and servants bearing tribute.
+
+**7.99.11**  And Bharata with his inner household, accompanied by Śatrughna, went forth — having embraced Rāma's vow, they followed Rāghava in complete devotion.
+
+**7.99.12**  Then the great-souled brāhmaṇas, bearing their sacred fires and composed in mind, followed the highly-minded Kākutstha with their sons and wives.
+
+**7.99.13**  The ministers and the ranks of servants, with their sons, kinsmen, and retinues, all followed Rāghava joyfully.
+
+**7.99.14**  Then all the subjects, surrounded by joyful and prosperous people, followed Rāghava as he went forward, their hearts enraptured by his virtues.
+
+**7.99.15**  All had bathed and were joyful, bearing splendid garlands of flowers, proud and resounding with joyful shouts, all following Rāma in devotion.
+
+**7.99.16**  No one there was wretched, or ashamed, or sorrowful; all were joyful and elated — it was supremely wondrous.
+
+**7.99.17**  Country folk who had come wishing to see the king's departure — they too, upon merely seeing it, followed along together with all the others.
+
+**7.99.18**  The bears, monkeys, and rākṣasas, and the citizens of the city, followed behind with supreme devotion, fully composed in mind.
+
+**7.100.1**  Having travelled a yojana and a half, the delight of the Raghu line beheld the river whose waters are sacred — the Sarayū, flowing toward the west.
+
+**7.100.2**  At that very moment Brahmā, the grandfather of all worlds, surrounded by all the gods and by great-souled sages,
+
+**7.100.3**  came to the place where Kākutstha stood ready to ascend to heaven — attended by hundreds of millions of divine celestial chariots.
+
+**7.100.4**  A great torrential shower of flowers fell, released by the wind like a vast flood.
+
+**7.100.5**  While hundreds of instruments resounded and the place was thronged with Gandharvas and Apsarases, Rāma stepped on foot into the waters of the Sarayū.
+
+**7.100.6**  Then the grandfather spoke from the sky: "Come, O Viṣṇu — may good befall you! By good fortune have you arrived, O Rāghava."
+
+**7.100.7**  "Together with your brothers who are equal to gods, O great-radiant one, enter your own form — that eternal Vaiṣṇava body and that everlasting sky."
+
+**7.100.8**  "For you, O lord, are the refuge of all worlds. None know you truly, O wide-eyed one, except through that primal Māyā which you previously assumed."
+
+**7.100.9**  "You are the inconceivable great being, imperishable, the totality of all. O greatly radiant one, of your own will enter whatever form you desire."
+
+**7.100.10**  Having heard the grandfather's words and having resolved upon it, the great-minded one, together with his brothers and still in his bodily form, merged into the radiance of Viṣṇu.
+
+**7.100.11**  Then the gods worshipped the divine one who had entered Viṣṇu — the Sādhyas, the host of Maruts, Indra and the others, with Agni at their head.
+
+**7.100.12**  The divine companies of sages, the Gandharvas and Apsarases, Garuḍas, Nāgas, Yakṣas, and the Daityas, Dānavas and Rākṣasas —
+
+**7.100.13**  — all were rejoicing, all were delighted, all had their heart's desire fulfilled. "Well done! Well done!" cried all of them, free of sin, as they rose to the triple heaven.
+
+**7.100.14**  Then Viṣṇu, of great splendour, spoke to the grandfather: "O faithful one, you should grant worlds to these multitudes of people."
+
+**7.100.15**  "For all these noble ones have followed me out of love; they are devoted and deserve a fitting reward, having surrendered themselves for my sake."
+
+**7.100.16**  Hearing the words of Viṣṇu, Brahmā, the lord and preceptor of all worlds, declared: "These assembled ones shall go to the worlds called Sāntānika."
+
+**7.100.17**  "And whatever being, even among the lower creatures, meditating on Rāma alone, shall give up its life in devotion — it shall dwell in the offspring, endowed with all virtues, in the realm next to Brahmaloka."
+
+**7.100.18**  The Vānaras and the bears likewise returned to their own respective origins.
+
+**7.100.19**  Those who had been born from gods and others, from sages, Nāgas and Yakṣas — each returned to those very origins from which they had come forth.
+
+**7.100.20**  When the lord of gods had spoken thus, all of them came to the ford called Gopratāra and entered the Sarayū, their eyes swimming with tears of joy.
+
+**7.100.21**  Every living being that plunged into the waters, filled with great delight, cast off its human body and ascended a celestial chariot.
+
+**7.100.22**  Even those born in lower wombs, upon reaching the waters of the Sarayū, became divine; with celestial forms they shone like gods ablaze with light.
+
+**7.100.23**  The stationary and the mobile — all, upon reaching the waters of the Sarayū and being immersed in that sacred flood, attained the world of the gods.
+
+**7.100.24**  Whatever divine origin the Vānaras, bears and Rākṣasas had — each one of them entered back into that very origin, having cast off their bodies in the waters.
+
+**7.100.25**  Having thus sent all to heaven, the great-minded preceptor of the worlds, himself rejoicing, departed to the sky together with the rejoicing gods.
+
+**7.100.26**  This alone is the narrative, together with the Uttara-kāṇḍa, honoured by Brahmā, known as the Rāmāyaṇa — the foremost work composed by Vālmīki.
