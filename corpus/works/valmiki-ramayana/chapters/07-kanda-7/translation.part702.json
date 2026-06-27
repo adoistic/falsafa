@@ -1,0 +1,637 @@
+[
+  {
+    "ref": "7.4.1",
+    "sanskrit": "śrutvāgastyeritaṃ vākyaṃ rāmo vismayam āgataḥ pūrvam āsīt tu laṅkāyāṃ rakṣasām iti saṃbhavaḥ",
+    "english": "Hearing the words spoken by Agastya, Rāma was filled with wonder: \"So Laṅkā was formerly the birthplace of the rākṣasas.\""
+  },
+  {
+    "ref": "7.4.2",
+    "sanskrit": "tataḥ śiraḥ kampayitvā tretāgnisamavigraham agastyaṃ taṃ muhur dṛṣṭvā smayamāno 'bhyabhāṣata",
+    "english": "Then, shaking his head and gazing again and again at Agastya, whose form blazed like the three sacred fires, Rāma smiled and addressed him."
+  },
+  {
+    "ref": "7.4.3",
+    "sanskrit": "bhagavan pūrvam apy eṣā laṅkāsīt piśitāśinām itīdaṃ bhavataḥ śrutvā vismayo janito mama",
+    "english": "\"Venerable one, hearing from you that this Laṅkā was formerly also inhabited by flesh-eaters, wonder has arisen in me.\""
+  },
+  {
+    "ref": "7.4.4",
+    "sanskrit": "pulastyavaṃśād udbhūtā rākṣasā iti naḥ śrutam idānīm anyataś cāpi saṃbhavaḥ kīrtitas tvayā",
+    "english": "\"We had heard that the rākṣasas arose from the lineage of Pulastya; but now you have also recounted yet another origin for them.\""
+  },
+  {
+    "ref": "7.4.5",
+    "sanskrit": "rāvaṇāt kumbhakarṇāc ca prahastād vikaṭād api rāvaṇasya ca putrebhyaḥ kiṃ nu te balavattarāḥ",
+    "english": "\"Were those earlier rākṣasas more powerful than Rāvaṇa, Kumbhakarṇa, Prahasta, Vikaṭa, and the sons of Rāvaṇa?\""
+  },
+  {
+    "ref": "7.4.6",
+    "sanskrit": "ka eṣāṃ pūrvako brahman kiṃnāmā kiṃtapobalaḥ aparādhaṃ ca kaṃ prāpya viṣṇunā drāvitāḥ purā",
+    "english": "\"Who was their foremost ancestor, O brāhmaṇa? What was his name, and what was the power of his austerities? And having committed what transgression were they driven away by Viṣṇu in the past?\""
+  },
+  {
+    "ref": "7.4.7",
+    "sanskrit": "etad vistarataḥ sarvaṃ kathayasva mamānagha kautūhalaṃ kṛtaṃ mahyaṃ nuda bhānur yathā tamaḥ",
+    "english": "\"Please recount all of this to me in full detail, O sinless one. Dispel the great curiosity that has arisen in me, as the sun dispels darkness.\""
+  },
+  {
+    "ref": "7.4.8",
+    "sanskrit": "rāghavasya tu tac chrutvā saṃskārālaṃkṛtaṃ vacaḥ īṣadvismayamānas tam agastyaḥ prāha rāghavam",
+    "english": "Hearing those words of Rāghava, adorned with the refinement of learning, Agastya was somewhat astonished, and then addressed Rāghava thus."
+  },
+  {
+    "ref": "7.4.9",
+    "sanskrit": "prajāpatiḥ purā sṛṣṭvā apaḥ salilasaṃbhavaḥ tāsāṃ gopāyane sattvān asṛjat padmasaṃbhavaḥ",
+    "english": "\"In ancient times, Prajāpati, the lotus-born, having first created the primordial waters, then created living beings for the purpose of protecting those waters.\""
+  },
+  {
+    "ref": "7.4.10",
+    "sanskrit": "te sattvāḥ sattvakartāraṃ vinītavad upasthitāḥ kiṃ kurma iti bhāṣantaḥ kṣutpipāsābhayārditāḥ",
+    "english": "\"Those beings, tormented by hunger, thirst, and fear, approached their maker humbly, saying: 'What shall we do?'\""
+  },
+  {
+    "ref": "7.4.11",
+    "sanskrit": "prajāpatis tu tāny āha sattvāni prahasann iva ābhāṣya vācā yatnena rakṣadhvam iti mānadaḥ",
+    "english": "\"Prajāpati, the bestower of honor, addressed those beings as if laughing, saying to them with care: 'Guard and protect these waters.'\""
+  },
+  {
+    "ref": "7.4.12",
+    "sanskrit": "rakṣāma iti tatrānyair yakṣāmeti tathāparaiḥ bhuṅkṣitābhuṅkṣitair uktas tatas tān āha bhūtakṛt",
+    "english": "\"Some said 'We will guard (rakṣāma)' and others said 'We will worship (yakṣāma),' while yet others said 'We will eat (bhuṅkṣitā)' or 'We will not eat.' Then the creator of beings spoke to them.\""
+  },
+  {
+    "ref": "7.4.13",
+    "sanskrit": "rakṣāma iti yair uktaṃ rākṣasās te bhavantu vaḥ yakṣāma iti yair uktaṃ te vai yakṣā bhavantu vaḥ",
+    "english": "\"'Those of you who said \"We will guard\" — let them become rākṣasas; those who said \"We will worship\" — let them indeed become yakṣas.'\""
+  },
+  {
+    "ref": "7.4.14",
+    "sanskrit": "tatra hetiḥ prahetiś ca bhrātarau rākṣasarṣabhau madhukaiṭabhasaṃkāśau babhūvatur ariṃdamau",
+    "english": "\"Among them, two bulls among rākṣasas were Heti and Praheti, brothers, resembling Madhu and Kaiṭabha in stature, both subduing their enemies.\""
+  },
+  {
+    "ref": "7.4.15",
+    "sanskrit": "prahetir dhārmikas tatra na dārān so 'bhikāṅkṣati hetir dārakriyārthaṃ tu yatnaṃ param athākarot",
+    "english": "\"Praheti was righteous and had no desire for a wife; but Heti strove with great effort to obtain a wife.\""
+  },
+  {
+    "ref": "7.4.16",
+    "sanskrit": "sa kālabhaginīṃ kanyāṃ bhayāṃ nāma bhayāvahām udāvahad ameyātmā svayam eva mahāmatiḥ",
+    "english": "\"He of immeasurable soul and great intelligence himself wed Bhayā ('Fear') by name, a maiden who was the sister of Kāla ('Time') and inspiring of fear.\""
+  },
+  {
+    "ref": "7.4.17",
+    "sanskrit": "sa tasyāṃ janayām āsa hetī rākṣasapuṃgavaḥ putraṃ putravatāṃ śreṣṭho vidyutkeśa iti śrutam",
+    "english": "\"That bull among rākṣasas, Heti, the foremost among those who have sons, fathered on her a son known as Vidyutkeśa.\""
+  },
+  {
+    "ref": "7.4.18",
+    "sanskrit": "vidyutkeśo hetiputraḥ pradīptāgnisamaprabhaḥ vyavardhata mahātejās toyamadhya ivāmbujam",
+    "english": "\"Vidyutkeśa, son of Heti, blazing like a kindled fire, grew up in great splendor, like a lotus in the midst of water.\""
+  },
+  {
+    "ref": "7.4.19",
+    "sanskrit": "sa yadā yauvanaṃ bhadram anuprāpto niśācaraḥ tato dārakriyāṃ tasya kartuṃ vyavasitaḥ pitā",
+    "english": "\"When that night-wanderer had reached the prime of youth, his father resolved to arrange his marriage.\""
+  },
+  {
+    "ref": "7.4.20",
+    "sanskrit": "saṃdhyāduhitaraṃ so 'tha saṃdhyātulyāṃ prabhāvataḥ varayām āsa putrārthaṃ hetī rākṣasapuṃgavaḥ",
+    "english": "\"Then Heti, that bull among rākṣasas, for the sake of his son, wooed as a bride the daughter of Saṃdhyā ('Twilight'), who was equal to Saṃdhyā herself in splendor.\""
+  },
+  {
+    "ref": "7.4.21",
+    "sanskrit": "avaśyam eva dātavyā parasmai seti saṃdhyayā cintayitvā sutā dattā vidyutkeśāya rāghava",
+    "english": "\"Saṃdhyā reflected: 'A daughter must inevitably be given to another,' and so, O Rāghava, her daughter was given to Vidyutkeśa.\""
+  },
+  {
+    "ref": "7.4.22",
+    "sanskrit": "saṃdhyāyās tanayāṃ labdhvā vidyutkeśo niśācaraḥ ramate sa tayā sārdhaṃ paulomyā maghavān iva",
+    "english": "\"Having obtained the daughter of Saṃdhyā, the night-wanderer Vidyutkeśa sported with her just as Maghavan (Indra) sports with Paulomī (Śacī).\""
+  },
+  {
+    "ref": "7.4.23",
+    "sanskrit": "kena cit tv atha kālena rāma sālakaṭaṃkaṭā vidyutkeśād garbham āpa ghanarājir ivārṇavāt",
+    "english": "\"After some time, O Rāma, Sālakaṭaṃkaṭā conceived a child by Vidyutkeśa, just as a line of clouds receives rain from the ocean.\""
+  },
+  {
+    "ref": "7.4.24",
+    "sanskrit": "tataḥ sā rākṣasī garbhaṃ ghanagarbhasamaprabham prasūtā mandaraṃ gatvā gaṅgā garbham ivāgnijam",
+    "english": "\"Then that rākṣasī went to Mount Mandara and gave birth to her child, who shone like the core of a thundercloud, just as the Gaṅgā brought forth Agni's offspring.\""
+  },
+  {
+    "ref": "7.4.25",
+    "sanskrit": "tam utsṛjya tu sā garbhaṃ vidyutkeśād ratārthinī reme sā patinā sārdhaṃ vismṛtya sutam ātmajam",
+    "english": "\"Abandoning that child, she who was desirous of love with Vidyutkeśa sported with her husband, forgetting her own son.\""
+  },
+  {
+    "ref": "7.4.26",
+    "sanskrit": "tayotsṛṣṭaḥ sa tu śiśuḥ śaradarkasamadyutiḥ pāṇim āsye samādhāya ruroda ghanarāḍ iva",
+    "english": "\"The infant, abandoned by her, shining like the autumnal sun, placed his hand in his mouth and wept, like a king of clouds thundering.\""
+  },
+  {
+    "ref": "7.4.27",
+    "sanskrit": "athopariṣṭād gacchan vai vṛṣabhastho haraḥ prabhuḥ apaśyad umayā sārdhaṃ rudantaṃ rākṣasātmajam",
+    "english": "\"Then the lord Hara, riding his bull and traveling in the sky with Umā, looked down and saw the weeping son of the rākṣasa.\""
+  },
+  {
+    "ref": "7.4.28",
+    "sanskrit": "kāruṇyabhāvāt pārvatyā bhavas tripurahā tataḥ taṃ rākṣasātmajaṃ cakre mātur eva vayaḥ samam",
+    "english": "\"Out of compassion, at the urging of Pārvatī, Bhava, the destroyer of the triple city, then made that son of the rākṣasa equal in age to his own mother.\""
+  },
+  {
+    "ref": "7.4.29",
+    "sanskrit": "amaraṃ caiva taṃ kṛtvā mahādevo 'kṣayo 'vyayaḥ puram ākāśagaṃ prādāt pārvatyāḥ priyakāmyayā",
+    "english": "\"And to please Pārvatī, the undecaying, inexhaustible Mahādeva made him immortal and gave him a city that travels through the sky.\""
+  },
+  {
+    "ref": "7.4.30",
+    "sanskrit": "umayāpi varo datto rākṣasīnāṃ nṛpātmaja sadyopalabdhir garbhasya prasūtiḥ sadya eva ca sadya eva vayaḥprāptir mātur eva vayaḥ samam",
+    "english": "\"Umā also granted a boon to rākṣasī women, O son of a king: that conception of the womb would be immediate, delivery immediate, and attainment of full age immediate — equal to the age of the mother.\""
+  },
+  {
+    "ref": "7.4.31",
+    "sanskrit": "tataḥ sukeśo varadānagarvitaḥ śriyaṃ prabhoḥ prāpya harasya pārśvataḥ cacāra sarvatra mahāmatiḥ khagaḥ khagaṃ puraṃ prāpya puraṃdaro yathā",
+    "english": "\"Then Sukeśa, proud of the boons received and having obtained the glory of the lord from Hara's side, that great-minded one traveled everywhere through the sky, having gained a sky-city, like Purandara (Indra).\""
+  },
+  {
+    "ref": "7.5.1",
+    "sanskrit": "sukeśaṃ dhārmikaṃ dṛṣṭvā varalabdhaṃ ca rākṣasaṃ grāmaṇīr nāma gandharvo viśvāvasusamaprabhaḥ",
+    "english": "\"Seeing that righteous rākṣasa Sukeśa, who had obtained the boons, a gandharva named Grāmaṇī, equal in splendor to Viśvāvasu —\""
+  },
+  {
+    "ref": "7.5.2",
+    "sanskrit": "tasya devavatī nāma dvitīyā śrīr ivātmajā tāṃ sukeśāya dharmeṇa dadau dakṣaḥ śriyaṃ yathā",
+    "english": "\"— he had a daughter named Devavatī, a second Śrī herself; Dakṣa gave her to Sukeśa rightfully, as one gives Śrī.\""
+  },
+  {
+    "ref": "7.5.3",
+    "sanskrit": "varadānakṛtaiśvaryaṃ sā taṃ prāpya patiṃ priyam āsīd devavatī tuṣṭā dhanaṃ prāpyeva nirdhanaḥ",
+    "english": "\"Having obtained that beloved husband whose sovereignty was established by the boon, Devavatī was content, like a pauper who has obtained wealth.\""
+  },
+  {
+    "ref": "7.5.4",
+    "sanskrit": "sa tayā saha saṃyukto rarāja rajanīcaraḥ añjanād abhiniṣkrāntaḥ kareṇveva mahāgajaḥ",
+    "english": "\"United with her, that night-wanderer shone forth like a great elephant issuing from its tether with its cow-elephant.\""
+  },
+  {
+    "ref": "7.5.5",
+    "sanskrit": "devavatyāṃ sukeśas tu janayām āsa rāghava trīṃs trinetrasamān putrān rākṣasān rākṣasādhipaḥ mālyavantaṃ sumāliṃ ca māliṃ ca balināṃ varam",
+    "english": "\"Sukeśa, lord of rākṣasas, fathered on Devavatī, O Rāghava, three rākṣasa sons equal to three-eyed Śiva: Mālyavān, Sumāli, and Māli, foremost among the strong.\""
+  },
+  {
+    "ref": "7.5.6",
+    "sanskrit": "trayo lokā ivāvyagrāḥ sthitās traya ivāgnayaḥ trayo mantrā ivātyugrās trayo ghorā ivāmayāḥ",
+    "english": "\"Like the three worlds, steadfast and undisturbed; like the three sacred fires; like three mantras supremely potent; like three terrible diseases.\""
+  },
+  {
+    "ref": "7.5.7",
+    "sanskrit": "trayaḥ sukeśasya sutās tretāgnisamavarcasaḥ vivṛddhim agamaṃs tatra vyādhayopekṣitā iva",
+    "english": "\"These three sons of Sukeśa, blazing like the three sacred fires, grew to full maturity there, like diseases left unchecked.\""
+  },
+  {
+    "ref": "7.5.8",
+    "sanskrit": "varaprāptiṃ pitus te tu jñātvaiśvaryaṃ tato mahat tapas taptuṃ gatā meruṃ bhrātaraḥ kṛtaniścayāḥ",
+    "english": "\"Knowing the great sovereignty their father had gained through the receipt of boons, the brothers resolved and went to Mount Meru to perform severe austerities.\""
+  },
+  {
+    "ref": "7.5.9",
+    "sanskrit": "pragṛhya niyamān ghorān rākṣasā nṛpasattama vicerus te tapo ghoraṃ sarvabhūtabhayāvaham",
+    "english": "\"Taking up terrible vows, those rākṣasas, O best of kings, practiced dreadful austerities that inspired fear in all living beings.\""
+  },
+  {
+    "ref": "7.5.10",
+    "sanskrit": "satyārjavadamopetais tapobhir bhuvi duṣkaraiḥ saṃtāpayantas trīṃl lokān sadevāsuramānuṣān",
+    "english": "\"Through austerities on earth that were difficult to perform, combined with truthfulness, uprightness, and self-restraint, they scorched the three worlds along with the gods, asuras, and humans.\""
+  },
+  {
+    "ref": "7.5.11",
+    "sanskrit": "tato vibhuś caturvaktro vimānavaram āsthitaḥ sukeśaputrān āmantrya varado 'smīty abhāṣata",
+    "english": "\"Then the all-pervading, four-faced one, mounting his excellent aerial vehicle, addressed the sons of Sukeśa and said: 'I am the granter of boons.'\""
+  },
+  {
+    "ref": "7.5.12",
+    "sanskrit": "brahmāṇaṃ varadaṃ jñātvā sendrair devagaṇair vṛtam ūcuḥ prāñjalayaḥ sarve vepamānā iva drumāḥ",
+    "english": "\"Knowing Brahmā to be the granter of boons, all of them with Indra and the hosts of gods standing by, they joined their palms and spoke, trembling like trees in a storm.\""
+  },
+  {
+    "ref": "7.5.13",
+    "sanskrit": "tapasārādhito deva yadi no diśase varam ajeyāḥ śatruhantāras tathaiva cirajīvinaḥ prabhaviṣṇavo bhavāmeti parasparam anuvratāḥ",
+    "english": "\"'O god, propitiated by our austerities, if you will grant us a boon, let us be unconquerable, slayers of enemies, long-lived, and supremely powerful' — thus they vowed together with one another.\""
+  },
+  {
+    "ref": "7.5.14",
+    "sanskrit": "evaṃ bhaviṣyatīty uktvā sukeśatanayān prabhuḥ prayayau brahmalokāya brahmā brāhmaṇavatsalaḥ",
+    "english": "\"Having said 'So shall it be' to the sons of Sukeśa, Brahmā the lord, fond of brāhmaṇas, departed to Brahmaloka.\""
+  },
+  {
+    "ref": "7.5.15",
+    "sanskrit": "varaṃ labdhvā tataḥ sarve rāma rātriṃcarās tadā surāsurān prabādhante varadānāt sunirbhayāḥ",
+    "english": "\"Having obtained the boon, then all those night-wanderers, O Rāma, began to afflict the gods and asuras, utterly fearless by virtue of the boon granted.\""
+  },
+  {
+    "ref": "7.5.16",
+    "sanskrit": "tair vadhyamānās tridaśāḥ sarṣisaṃghāḥ sacāraṇāḥ trātāraṃ nādhigacchanti nirayasthā yathā narāḥ",
+    "english": "\"The gods along with companies of sages and cāraṇas, being slaughtered by them, found no protector, like men consigned to hell.\""
+  },
+  {
+    "ref": "7.5.17",
+    "sanskrit": "atha te viśvakarmāṇaṃ śilpināṃ varam avyayam ūcuḥ sametya saṃhṛṣṭā rākṣasā raghusattama",
+    "english": "\"Then those rākṣasas, O best of the Raghu line, assembled with great joy and addressed Viśvakarman, the inexhaustible foremost among craftsmen.\""
+  },
+  {
+    "ref": "7.5.18",
+    "sanskrit": "gṛhakartā bhavān eva devānāṃ hṛdayepsitam asmākam api tāvat tvaṃ gṛhaṃ kuru mahāmate",
+    "english": "\"'You are the builder of the gods' heart-desired homes; so now build a home for us as well, O great-minded one.'\""
+  },
+  {
+    "ref": "7.5.19",
+    "sanskrit": "himavantaṃ samāśritya meruṃ mandaram eva vā maheśvaragṛhaprakhyaṃ gṛhaṃ naḥ kriyatāṃ mahat",
+    "english": "\"'On the Himālayas, or on Meru, or Mandara itself, build for us a great dwelling resembling the abode of Maheśvara.'\""
+  },
+  {
+    "ref": "7.5.20",
+    "sanskrit": "viśvakarmā tatas teṣāṃ rākṣasānāṃ mahābhujaḥ nivāsaṃ kathayām āsa śakrasyevāmarāvatīm",
+    "english": "\"Then Viśvakarman, mighty-armed, described to those rākṣasas a dwelling place like Indra's Amarāvatī.\""
+  },
+  {
+    "ref": "7.5.21",
+    "sanskrit": "dakṣiṇasyodadhes tīre trikūṭo nāma parvataḥ śikhare tasya śailasya madhyame 'mbudasaṃnibhe śakunair api duṣprāpe ṭaṅkacchinnacaturdiśi",
+    "english": "\"'On the southern shore of the ocean there is a mountain named Trikūṭa; on its middle peak, resembling a cloud, inaccessible even to birds, with all four sides cleft as if by a chisel —'\""
+  },
+  {
+    "ref": "7.5.22",
+    "sanskrit": "triṃśadyojanavistīrṇā svarṇaprākāratoraṇā mayā laṅketi nagarī śakrājñaptena nirmitā",
+    "english": "\"'— a city named Laṅkā, thirty yojanas in extent, with golden walls and gateways, was built by me at Indra's command.'\""
+  },
+  {
+    "ref": "7.5.23",
+    "sanskrit": "tasyāṃ vasata durdharṣāḥ puryāṃ rākṣasasattamāḥ amarāvatīṃ samāsādya sendrā iva divaukasaḥ",
+    "english": "\"'Dwell in that city, O unconquerable, foremost rākṣasas, just as the celestials led by Indra dwell in Amarāvatī.'\""
+  },
+  {
+    "ref": "7.5.24",
+    "sanskrit": "laṅkādurgaṃ samāsādya rākṣasair bahubhir vṛtāḥ bhaviṣyatha durādharṣāḥ śatrūṇāṃ śatrusūdanāḥ",
+    "english": "\"'Having gained the fortress of Laṅkā, surrounded by many rākṣasas, you will become invincible, slayers of your enemies.'\""
+  },
+  {
+    "ref": "7.5.25",
+    "sanskrit": "viśvakarmavacaḥ śrutvā tatas te rāma rākṣasāḥ sahasrānucarā gatvā laṅkāṃ tām avasan purīm",
+    "english": "\"Hearing Viśvakarman's words, then those rākṣasas, O Rāma, with thousands of attendants, went and inhabited that city of Laṅkā.\""
+  },
+  {
+    "ref": "7.5.26",
+    "sanskrit": "dṛḍhaprākāraparikhāṃ haimair gṛhaśatair vṛtām laṅkām avāpya te hṛṣṭā viharanti niśācarāḥ",
+    "english": "\"Having obtained Laṅkā with its firm walls and moat, surrounded by hundreds of golden mansions, those night-wanderers sported joyfully.\""
+  },
+  {
+    "ref": "7.5.27",
+    "sanskrit": "narmadā nāma gandharvī nānādharmasamedhitā tasyāḥ kanyātrayaṃ hy āsīd dhīśrīkīrtisamadyuti",
+    "english": "\"There was a gandharvī named Narmadā, enriched by many virtues; she had three daughters, equal in radiance to Intelligence, Śrī, and Fame.\""
+  },
+  {
+    "ref": "7.5.28",
+    "sanskrit": "jyeṣṭhakrameṇa sā teṣāṃ rākṣasānām arākṣasī kanyās tāḥ pradadau hṛṣṭā pūrṇacandranibhānanāḥ",
+    "english": "\"That gandharvī, no rākṣasī herself, joyfully gave those daughters, their faces like the full moon, to those rākṣasas in order of seniority.\""
+  },
+  {
+    "ref": "7.5.29",
+    "sanskrit": "trayāṇāṃ rākṣasendrāṇāṃ tisro gandharvakanyakāḥ mātrā dattā mahābhāgā nakṣatre bhagadaivate",
+    "english": "\"Three gandharva maidens of great fortune were given by their mother to the three lords of rākṣasas under the auspicious nakṣatra presided over by Bhaga.\""
+  },
+  {
+    "ref": "7.5.30",
+    "sanskrit": "kṛtadārās tu te rāma sukeśatanayāḥ prabho bhāryābhiḥ saha cikrīḍur apsarobhir ivāmarāḥ",
+    "english": "\"Having thus taken wives, O Rāma, O lord, the sons of Sukeśa sported with their wives just as the immortals sport with apsarases.\""
+  },
+  {
+    "ref": "7.5.31",
+    "sanskrit": "tatra mālyavato bhāryā sundarī nāma sundarī sa tasyāṃ janayām āsa yad apatyaṃ nibodha tat",
+    "english": "\"There, the wife of Mālyavān was Sundarī, beautiful by name and nature; learn now what offspring he fathered upon her.\""
+  },
+  {
+    "ref": "7.5.32",
+    "sanskrit": "vajramuṣṭir virūpākṣo durmukhaś caiva rākṣasaḥ suptaghno yajñakopaś ca mattonmattau tathaiva ca analā cābhavat kanyā sundaryāṃ rāma sundarī",
+    "english": "\"Vajramuṣṭi, Virūpākṣa, the rākṣasa Durmukha, Suptaghna, Yajñakopa, Matta, Unmatta, and a daughter named Analā — these were born of Sundarī, O Rāma.\""
+  },
+  {
+    "ref": "7.5.33",
+    "sanskrit": "sumālino 'pi bhāryāsīt pūrṇacandranibhānanā nāmnā ketumatī nāma prāṇebhyo 'pi garīyasī",
+    "english": "\"Sumāli's wife also had a face like the full moon; her name was Ketumatī, dearer to him than life itself.\""
+  },
+  {
+    "ref": "7.5.34",
+    "sanskrit": "sumālī janayām āsa yad apatyaṃ niśācaraḥ ketumatyāṃ mahārāja tan nibodhānupūrvaśaḥ",
+    "english": "\"Learn in order, O great king, what offspring the night-wanderer Sumāli fathered upon Ketumatī.\""
+  },
+  {
+    "ref": "7.5.35",
+    "sanskrit": "prahasto 'kampanaiś caiva vikaṭaḥ kālakārmukaḥ dhūmrākśaś cātha daṇḍaś ca supārśvaś ca mahābalaḥ",
+    "english": "\"Prahasta, Akampana, Vikaṭa, Kālakārmuka, Dhūmrākṣa, Daṇḍa, and the mighty Supārśva —\""
+  },
+  {
+    "ref": "7.5.36",
+    "sanskrit": "saṃhrādiḥ praghasaś caiva bhāsakarṇaś ca rākṣasaḥ rākā puṣpotkaṭā caiva kaikasī ca śucismitā kumbhīnasī ca ity ete sumāleḥ prasavāḥ smṛtāḥ",
+    "english": "\"— Saṃhrādi, Praghasa, the rākṣasa Bhāsakarṇa, and daughters Rākā, Puṣpotkaṭā, Kaikasī of pure smile, and Kumbhīnasī — these are remembered as the progeny of Sumāli.\""
+  },
+  {
+    "ref": "7.5.37",
+    "sanskrit": "māles tu vasudā nāma gandharvī rūpaśālinī bhāryāsīt padmapatrākṣī svakṣī yakṣīvaropamā",
+    "english": "\"Māli's wife was a gandharvī named Vasudā, beautiful in form, lotus-petal-eyed, fine-eyed, comparable to the most beautiful of yakṣī women.\""
+  },
+  {
+    "ref": "7.5.38",
+    "sanskrit": "sumāler anujas tasyāṃ janayām āsa yat prabho apatyaṃ kathyamānaṃ tan mayā tvaṃ śṛṇu rāghava",
+    "english": "\"Hear from me, O Rāghava, what offspring Māli, the younger brother of Sumāli, fathered upon her, as I shall now recount.\""
+  },
+  {
+    "ref": "7.5.39",
+    "sanskrit": "analaś cānilaś caiva haraḥ saṃpātir eva ca ete vibhīṣaṇāmātyā māleyās te niśācarāḥ",
+    "english": "\"Anala, Anila, Hara, and Saṃpāti — these night-wanderers, sons of Māli, became the ministers of Vibhīṣaṇa.\""
+  },
+  {
+    "ref": "7.5.40",
+    "sanskrit": "tatas tu te rākṣasapuṃgavās trayo niśācaraiḥ putraśataiś ca saṃvṛtāḥ surān sahendrān ṛṣināgadānavān babādhire te balavīryadarpitāḥ",
+    "english": "\"Then those three bulls among rākṣasas, surrounded by night-wanderers and hundreds of sons, proud in their strength and valor, harassed the gods along with Indra, the sages, serpents, and dānavas.\""
+  },
+  {
+    "ref": "7.5.41",
+    "sanskrit": "jagad bhramanto 'nilavad durāsadā raṇe ca mṛtyupratimāḥ samāhitāḥ varapradānād abhigarvitā bhṛśaṃ kratukriyāṇāṃ praśamaṃkarāḥ sadā",
+    "english": "\"Roaming the world like the wind, unapproachable in battle, like death itself, resolute, exceedingly arrogant through the gift of boons, they were ever suppressors of the performance of sacrifices.\""
+  },
+  {
+    "ref": "7.6.1",
+    "sanskrit": "tair vadhyamānā devāś ca ṛṣayaś ca tapodhanāḥ bhayārtāḥ śaraṇaṃ jagmur devadevaṃ maheśvaram",
+    "english": "\"The gods and the sages, rich in austerities, being slaughtered by them, fled in fear and sought refuge in Maheśvara, the god of gods.\""
+  },
+  {
+    "ref": "7.6.2",
+    "sanskrit": "te sametya tu kāmāriṃ tripurāriṃ trilocanam ūcuḥ prāñjalayo devā bhayagadgadabhāṣiṇaḥ",
+    "english": "\"Meeting together with Kāmāri, the foe of Tripura, the three-eyed one, the gods with joined palms spoke in voices choked with fear.\""
+  },
+  {
+    "ref": "7.6.3",
+    "sanskrit": "sukeśaputrair bhagavan pitāmahavaroddhatāḥ prajādhyakṣa prajāḥ sarvā bādhyante ripubādhana",
+    "english": "\"'O blessed one, O guardian of all creatures, O slayer of enemies, all living beings are being afflicted by the sons of Sukeśa, arrogant with the boon granted by Pitāmaha.'\""
+  },
+  {
+    "ref": "7.6.4",
+    "sanskrit": "śaraṇyāny aśaraṇyāni āśramāṇi kṛtāni naḥ svargāc ca cyāvitaḥ śakraḥ svarge krīḍanti śakravat",
+    "english": "\"'Our hermitages, which were places of refuge, have been made refugeless; Śakra has been expelled from heaven, while they sport in heaven as though they were Śakra.'\""
+  },
+  {
+    "ref": "7.6.5",
+    "sanskrit": "ahaṃ viṣṇur ahaṃ rudro brahmāhaṃ devarāḍ aham ahaṃ yamo 'haṃ varuṇaś candro 'haṃ ravir apy aham",
+    "english": "\"'\"I am Viṣṇu, I am Rudra, I am Brahmā, I am the king of gods, I am Yama, I am Varuṇa, I am the Moon, I am the Sun\" — thus those rākṣasas boast.'\""
+  },
+  {
+    "ref": "7.6.6",
+    "sanskrit": "iti te rākṣasā deva varadānena darpitāḥ bādhante samaroddharṣā ye ca teṣāṃ puraḥsarāḥ",
+    "english": "\"'Thus those rākṣasas, O god, arrogant through the boon they received, exhilarated by battle, afflict us and those who march at our head.'\""
+  },
+  {
+    "ref": "7.6.7",
+    "sanskrit": "tan no devabhayārtānām abhayaṃ dātum arhasi aśivaṃ vapur āsthāya jahi daivatakaṇṭakān",
+    "english": "\"'Therefore, deign to grant us fearful gods freedom from fear; taking on a terrible form, destroy those thorns of the gods.'\""
+  },
+  {
+    "ref": "7.6.8",
+    "sanskrit": "ity uktas tu suraiḥ sarvaiḥ kapardī nīlalohitaḥ sukeśaṃ prati sāpekṣa āha devagaṇān prabhuḥ",
+    "english": "\"Addressed thus by all the gods, Kapardī, the blue-and-red one, with a regard for Sukeśa, the lord addressed the hosts of gods.\""
+  },
+  {
+    "ref": "7.6.9",
+    "sanskrit": "nāhaṃ tān nihaniṣyāmi avadhyā mama te 'surāḥ kiṃ tu mantraṃ pradāsyāmi yo vai tān nihaniṣyati",
+    "english": "\"'I will not slay them — those asuras are not to be killed by me. But I will give you a counsel which will indeed bring about their death.'\""
+  },
+  {
+    "ref": "7.6.10",
+    "sanskrit": "evam eva samudyogaṃ puraskṛtya surarṣabhāḥ gacchantu śaraṇaṃ viṣṇuṃ haniṣyati sa tān prabhuḥ",
+    "english": "\"'With this same resolve as your guide, O bulls among gods, go and take refuge in Viṣṇu; the lord will slay them.'\""
+  },
+  {
+    "ref": "7.6.11",
+    "sanskrit": "tatas te jayaśabdena pratinandya maheśvaram viṣṇoḥ samīpam ājagmur niśācarabhayārditāḥ",
+    "english": "\"Then they cheered Maheśvara with shouts of victory and went to Viṣṇu's presence, tormented by fear of the night-wanderers.\""
+  },
+  {
+    "ref": "7.6.12",
+    "sanskrit": "śaṅkhacakradharaṃ devaṃ praṇamya bahumānya ca ūcuḥ saṃbhrāntavad vākyaṃ sukeśatanayārditāḥ",
+    "english": "\"Bowing to and greatly honoring the god bearing the conch and discus, they spoke hurriedly, afflicted by the sons of Sukeśa.\""
+  },
+  {
+    "ref": "7.6.13",
+    "sanskrit": "sukeśatanayair devatribhis tretāgnisaṃnibhaiḥ ākramya varadānena sthānāny apahṛtāni naḥ",
+    "english": "\"'By the three sons of Sukeśa, blazing like the three sacred fires, relying on the strength of their boon, our stations have been seized and taken from us.'\""
+  },
+  {
+    "ref": "7.6.14",
+    "sanskrit": "laṅkā nāma purī durgā trikūṭaśikhare sthitā tatra sthitāḥ prabādhante sarvān naḥ kṣaṇadācarāḥ",
+    "english": "\"'Established in the impregnable city named Laṅkā, situated on the peak of Trikūṭa, those night-wanderers afflict all of us from there.'\""
+  },
+  {
+    "ref": "7.6.15",
+    "sanskrit": "sa tvam asmatpriyārthaṃ tu jahi tān madhusūdana cakrakṛttāsyakamalān nivedaya yamāya vai",
+    "english": "\"'Therefore, O Madhusūdana, for our sake slay them; cut their lotus-like faces with your discus and dispatch them to Yama.'\""
+  },
+  {
+    "ref": "7.6.16",
+    "sanskrit": "bhayeṣv abhayado 'smākaṃ nānyo 'sti bhavatā samaḥ nuda tvaṃ no bhayaṃ deva nīhāram iva bhāskaraḥ",
+    "english": "\"'You are our giver of fearlessness in fears — there is none equal to you; dispel our fear, O god, as the sun dispels mist.'\""
+  },
+  {
+    "ref": "7.6.17",
+    "sanskrit": "ity evaṃ daivatair ukto devadevo janārdanaḥ abhayaṃ bhayado 'rīṇāṃ kattvā devān uvāca ha",
+    "english": "\"Addressed thus by the gods, Janārdana, the god of gods, who grants fear to enemies, having granted fearlessness, spoke to the gods.\""
+  },
+  {
+    "ref": "7.6.18",
+    "sanskrit": "sukeśaṃ rākṣasaṃ jāne īśāna varadarpitam tāṃś cāsya tanayāñ jāne yeṣāṃ jyeṣṭhaḥ sa mālyavān",
+    "english": "\"'I know the rākṣasa Sukeśa, arrogant with the boon of the Lord (Śiva); and I know his sons, the eldest of whom is Mālyavān.'\""
+  },
+  {
+    "ref": "7.6.19",
+    "sanskrit": "tān ahaṃ samatikrāntamaryādān rākṣasādhamān sūdayiṣyāmi saṃgrāme surā bhavata vijvarāḥ",
+    "english": "\"'Those vilest of rākṣasas who have transgressed all bounds — I will destroy them in battle; O gods, be free from anxiety.'\""
+  },
+  {
+    "ref": "7.6.20",
+    "sanskrit": "ity uktās te surāḥ sarve viṣṇunā prabhaviṣṇunā yathā vāsaṃ yayur hṛṣṭāḥ praśamanto janārdanam",
+    "english": "\"Addressed thus by the all-powerful Viṣṇu, all those gods went joyfully to their respective abodes, praising Janārdana.\""
+  },
+  {
+    "ref": "7.6.21",
+    "sanskrit": "vibudhānāṃ samudyogaṃ mālyavān sa niśācaraḥ śrutvā tau bhrātarau vīrāv idaṃ vacanam abravīt",
+    "english": "\"That night-wanderer Mālyavān, having heard of the mobilization of the gods, spoke these words to his two heroic brothers.\""
+  },
+  {
+    "ref": "7.6.22",
+    "sanskrit": "amarā ṛṣayaś caiva saṃhatya kila śaṃkaram asmadvadhaṃ parīpsanta idam ūcus trilocanam",
+    "english": "\"'The immortals and the sages, having combined their efforts, sought our death and addressed thus the three-eyed Śaṃkara:'\""
+  },
+  {
+    "ref": "7.6.23",
+    "sanskrit": "sukeśatanayā deva varadānabaloddhatāḥ bādhante 'smān samudyuktā ghorarūpāḥ pade pade",
+    "english": "\"'\"The sons of Sukeśa, O god, swollen with the power of the boon they received, attack us at every step in terrible forms.\"\""
+  },
+  {
+    "ref": "7.6.24",
+    "sanskrit": "rākṣasair abhibhūtāḥ sma na śaktāḥ sma umāpate sveṣu veśmasu saṃsthātuṃ bhayāt teṣāṃ durātmanām",
+    "english": "\"'\"Overwhelmed by the rākṣasas, we are unable, O lord of Umā, to remain in our own abodes out of fear of those evil-souled ones.\"\""
+  },
+  {
+    "ref": "7.6.25",
+    "sanskrit": "tad asmākaṃ hitārthe tvaṃ jahi tāṃs tāṃs trilocana rākṣasān huṃkṛtenaiva daha pradahatāṃ vara",
+    "english": "\"'\"Therefore for our benefit, O three-eyed one, destroy those rākṣasas; burn them with a mere 'huṃ,' O best among those who burn!\"\""
+  },
+  {
+    "ref": "7.6.26",
+    "sanskrit": "ity evaṃ tridaśair ukto niśamyāndhakasūdanaḥ śiraḥ karaṃ ca dhunvāna idaṃ vacanam abravīt",
+    "english": "\"Addressed thus by the thirty gods, the slayer of Andhaka, shaking his head and hand, spoke these words:\""
+  },
+  {
+    "ref": "7.6.27",
+    "sanskrit": "avadhyā mama te devāḥ sukeśatanayā raṇe mantraṃ tu vaḥ pradāsyāmi yo vai tān nihaniṣyati",
+    "english": "\"'Those sons of Sukeśa are not to be slain by me in battle, O gods; but I will give you a counsel which will indeed bring about their death.'\""
+  },
+  {
+    "ref": "7.6.28",
+    "sanskrit": "yaḥ sa cakragadāpāṇiḥ pītavāsā janārdanaḥ haniṣyati sa tān yuddhe śaraṇaṃ taṃ prapadyatha",
+    "english": "\"'He who bears the discus and mace, Janārdana of the yellow garment — he will slay them in battle; take refuge in him.'\""
+  },
+  {
+    "ref": "7.6.29",
+    "sanskrit": "harān nāvāpya te kāmaṃ kāmārim abhivādya ca nārāyaṇālayaṃ prāptās tasmai sarvaṃ nyavedayan",
+    "english": "\"Not obtaining their wish from Hara (Śiva), they honored Kāmāri (Śiva) and then reached the abode of Nārāyaṇa, to whom they reported everything.\""
+  },
+  {
+    "ref": "7.6.30",
+    "sanskrit": "tato nārāyaṇenoktā devā indrapurogamāḥ surārīn sūdayiṣyāmi surā bhavata vijvarāḥ",
+    "english": "\"Then the gods led by Indra were addressed by Nārāyaṇa: 'I will destroy the enemies of the gods; be free from anxiety, O gods.'\""
+  },
+  {
+    "ref": "7.6.31",
+    "sanskrit": "devānāṃ bhayabhītānāṃ hariṇā rākṣasarṣabhau pratijñāto vadho 'smākaṃ tac cintayatha yat kṣamam",
+    "english": "\"'The death of us two bulls among rākṣasas has been pledged by Hari to the fear-stricken gods; consider now what course is fitting.'\""
+  },
+  {
+    "ref": "7.6.32",
+    "sanskrit": "hiraṇyakaśipor mṛtyur anyeṣāṃ ca suradviṣām duḥkhaṃ nārāyaṇaṃ jetuṃ yo no hantum abhīpsati",
+    "english": "\"'It was Nārāyaṇa who was the death of Hiraṇyakaśipu and other enemies of the gods; it is impossible to conquer Nārāyaṇa, who now desires to slay us.'\""
+  },
+  {
+    "ref": "7.6.33",
+    "sanskrit": "tataḥ sumālī mālī ca śrutvā mālyavato vacaḥ ūcatur bhrātaraṃ jyeṣṭhaṃ bhagāṃśāv iva vāsavam",
+    "english": "\"Then Sumāli and Māli, having heard Mālyavān's words, addressed their eldest brother like two shares of fortune addressing Vāsava (Indra).\""
+  },
+  {
+    "ref": "7.6.34",
+    "sanskrit": "svadhītaṃ dattam iṣṭaṃ ca aiśvaryaṃ paripālitam āyur nirāmayaṃ prāptaṃ svadharmaḥ sthāpitaś ca naḥ",
+    "english": "\"'We have studied the scriptures, given gifts, performed sacrifices, guarded our sovereignty, attained long and healthy life, and established our own dharma.'\""
+  },
+  {
+    "ref": "7.6.35",
+    "sanskrit": "devasāgaram akṣobhyaṃ śastraughair pravigāhya ca jitā devā raṇe nityaṃ na no mṛtyukṛtaṃ bhayam",
+    "english": "\"'Plunging into the unperturbed ocean of the gods with floods of weapons, we have always conquered the gods in battle; we have no fear caused by death.'\""
+  },
+  {
+    "ref": "7.6.36",
+    "sanskrit": "nārāyaṇaś ca rudraś ca śakraś cāpi yamas tathā asmākaṃ pramukhe sthātuṃ sarva eva hi bibhyati",
+    "english": "\"'Even Nārāyaṇa, Rudra, Śakra, and Yama — all of them are afraid to stand before us.'\""
+  },
+  {
+    "ref": "7.6.37",
+    "sanskrit": "viṣṇor doṣaś ca nāsty atra kāraṇaṃ rākṣaseśvara devānām eva doṣeṇa viṣṇoḥ pracalitaṃ manaḥ",
+    "english": "\"'There is no fault in Viṣṇu here, O lord of rākṣasas; it is by the fault of the gods that Viṣṇu's mind has been stirred to action.'\""
+  },
+  {
+    "ref": "7.6.38",
+    "sanskrit": "tasmād adya samudyuktāḥ sarvasainyasamāvṛtāḥ devān eva jighāṃsāmo yebhyo doṣaḥ samutthitaḥ",
+    "english": "\"'Therefore today, fully mobilized and surrounded by all our forces, let us seek to destroy the very gods from whom this offence arose.'\""
+  },
+  {
+    "ref": "7.6.39",
+    "sanskrit": "iti mālī sumālī ca mālyavān agrajaḥ prabhuḥ udyogaṃ ghoṣayitvātha rākṣasāḥ sarva eva te yuddhāya niryayuḥ kruddhā jambhavṛtrabalā iva",
+    "english": "\"Thus Māli, Sumāli, and their elder brother Mālyavān the lord, having proclaimed their mobilization, all those rākṣasas marched out for battle, furious as the armies of Jambha and Vṛtra.\""
+  },
+  {
+    "ref": "7.6.40",
+    "sanskrit": "syandanair vāraṇendraiś ca hayaiś ca girisaṃnibhaiḥ kharair gobhir athoṣṭraiś ca śiṃśumārair bhujaṃ gamaiḥ",
+    "english": "\"With chariots, lordly elephants, and horses resembling mountains; with donkeys, cows, camels, porpoises, and serpents —\""
+  },
+  {
+    "ref": "7.6.41",
+    "sanskrit": "makaraiḥ kacchapair mīnair vihaṃgair garuḍopamaiḥ siṃhair vyāghrair varāhaiś ca sṛmaraiś camarair api",
+    "english": "\"— with sea-monsters, tortoises, fish, birds resembling Garuḍa, lions, tigers, boars, sṛmaras, and yaks —\""
+  },
+  {
+    "ref": "7.6.42",
+    "sanskrit": "tyaktvā laṅkāṃ tataḥ sarve rākṣasā balagarvitāḥ prayātā devalokāya yoddhuṃ daivataśatravaḥ",
+    "english": "\"— abandoning Laṅkā, all those rākṣasas, proud in their might, enemies of the gods, marched forth to the realm of the gods to fight.\""
+  },
+  {
+    "ref": "7.6.43",
+    "sanskrit": "laṅkāviparyayaṃ dṛṣṭvā yāni laṅkālayāny atha bhūtāni bhayadarśīni vimanaskāni sarvaśaḥ",
+    "english": "\"Seeing the dire upheaval of Laṅkā, the beings that dwelt in Laṅkā, beholding terror, were everywhere dispirited.\""
+  },
+  {
+    "ref": "7.6.44",
+    "sanskrit": "bhaumās tathāntarikṣāś ca kālājñaptā bhayāvahāḥ utpātā rākṣasendrāṇām abhāvāyotthitā drutam",
+    "english": "\"Portents on earth and in the sky, appointed by Time and inspiring fear, swiftly arose to presage the destruction of the lords of rākṣasas.\""
+  },
+  {
+    "ref": "7.6.45",
+    "sanskrit": "asthīni meghā varṣanti uṣṇaṃ śoṇitam eva ca velāṃ samudro 'py utkrāntaś calante cācalottamāḥ",
+    "english": "\"Clouds rained bones and hot blood; the ocean overflowed its shores; the greatest of mountains trembled.\""
+  },
+  {
+    "ref": "7.6.46",
+    "sanskrit": "aṭṭahāsān vimuñcanto ghananādasamasvanān bhūtāḥ paripatanti sma nṛtyamānāḥ sahasraśaḥ",
+    "english": "\"Spirits by the thousands flew about emitting loud laughter equal in sound to the rumbling of thunderclouds, dancing as they went.\""
+  },
+  {
+    "ref": "7.6.47",
+    "sanskrit": "gṛdhracakraṃ mahac cāpi jvalanodgāribhir mukhaiḥ rākṣasānām upari vai bhramate kālacakravat",
+    "english": "\"A great wheel of vultures with fire-vomiting beaks circled over the rākṣasas like the wheel of time.\""
+  },
+  {
+    "ref": "7.6.48",
+    "sanskrit": "tān acintyamahotpātān rākṣasā balagarvitāḥ yanty eva na nivartante mṛtyupāśāvapāśitāḥ",
+    "english": "\"Those inconceivable and terrible omens — the rākṣasas, proud in their strength, bound by the noose of death, marched on and did not turn back.\""
+  },
+  {
+    "ref": "7.6.49",
+    "sanskrit": "mālyavāṃś ca sumālī ca mālī ca rajanīcarāḥ āsan puraḥsarās teṣāṃ kratūnām iva pāvakāḥ",
+    "english": "\"Mālyavān, Sumāli, and Māli, those night-wanderers, marched at the head of their forces, like the fires at the head of sacrificial rituals.\""
+  },
+  {
+    "ref": "7.6.50",
+    "sanskrit": "mālyavantaṃ tu te sarve mālyavantam ivācalam niśācarā āśrayante dhātāram iva dehinaḥ",
+    "english": "\"All those night-wanderers rallied around Mālyavān as if around a mountain, as embodied beings rally around the Creator.\""
+  },
+  {
+    "ref": "7.6.51",
+    "sanskrit": "tad balaṃ rākṣasendrāṇāṃ mahābhraghananāditam jayepsayā devalokaṃ yayau mālī vaśe sthitam",
+    "english": "\"That army of the lords of rākṣasas, rumbling like a great cloud, obedient to Māli's command, marched toward the realm of the gods, desirous of victory.\""
+  },
+  {
+    "ref": "7.6.52",
+    "sanskrit": "rākṣasānāṃ samudyogaṃ taṃ tu nārāyaṇaḥ prabhuḥ devadūtād upaśrutya dadhre yuddhe tato manaḥ",
+    "english": "\"The lord Nārāyaṇa, having learned through the divine messenger of that mobilization of the rākṣasas, then set his mind on battle.\""
+  },
+  {
+    "ref": "7.6.53",
+    "sanskrit": "sa devasiddharṣimahoragaiś ca gandharvamukhyāpsarasopagītaḥ samāsasādāmaraśatrusainyaṃ cakrāsisīrapravarādidhārī",
+    "english": "\"He, bearing the foremost of weapons — discus, sword, and plough — praised by gods, siddhas, sages, great serpents, chiefs of gandharvas, and apsarases, came face to face with the army of the enemies of immortals.\""
+  },
+  {
+    "ref": "7.6.54",
+    "sanskrit": "suparṇapakṣānilanunnapakṣaṃ bhramatpatākaṃ pravikīrṇaśastram cacāla tad rākṣasarājasainyaṃ calopalo nīla ivācalendraḥ",
+    "english": "\"That army of the rākṣasa king, its banners whirling, its weapons scattered abroad, its wings driven upward by the wind of Garuḍa's wings, was shaken as the blue lord of mountains when a trembling boulder rolls.\""
+  },
+  {
+    "ref": "7.6.55",
+    "sanskrit": "tatha śitaiḥ śoṇitamāṃsarūṣitair yugāntavaiśvānaratulyavigrahaiḥ niśācarāḥ saṃparivārya mādhavaṃ varāyudhair nirbibhiduḥ sahasraśaḥ",
+    "english": "\"And then the night-wanderers, whose forms were like the fire of cosmic dissolution, smeared with blood and flesh, surrounding Mādhava from all sides, pierced him by the thousands with their excellent weapons.\""
+  }
+]
