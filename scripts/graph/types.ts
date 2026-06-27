@@ -64,6 +64,57 @@ export interface Manifest {
 
 export type FigureKind = "mythological" | "deity" | "historical";
 
+// --- entity layer (full 7-category taxonomy) ---
+
+/**
+ * Seven-category entity taxonomy.
+ *
+ * figure  — persons/deities/heroes INCLUDING theriomorphic ones (Hanumān, Garuḍa, nāga-kings).
+ *           Test = personhood/agency/divinity, NOT body.
+ * animal  — creatures-AS-creatures only (the cow as wealth/symbol, the sacrificial horse,
+ *           generic serpents). NEVER classify a worshipped/agentive theriomorphic being here.
+ * place   — cities, kingdoms, rivers, mountains, forests, sacred sites, cosmic worlds,
+ *           and the *idea* of place (home, homeland, exile).
+ * group   — clans, peoples, castes, sects, dynasties (Bharadvājas, Ārya/Dāsa, Kurus, varṇas).
+ * idea    — dharma, ṛta, karma, mokṣa, liberty, virtue, fate, kāla.
+ * object  — vajra, soma, great bows/weapons, mantras (Gāyatrī), ritual implements.
+ * event   — Vṛtra-slaying, churning of the ocean, the great wars, sacrifices (Aśvamedha).
+ */
+export type EntityKind = "figure" | "animal" | "place" | "group" | "idea" | "object" | "event";
+
+export interface EntityRaw {
+  work_slug: string;
+  canonical_name: string;
+  surface_names: string[];
+  kind: EntityKind;
+  /** For kind="figure": sub-classification mirroring FigureKind. Absent for other kinds. */
+  figure_kind?: FigureKind;
+  mentions: { paragraph_id: string; quote: string; role: string }[];
+  /** Short description of how this entity is portrayed in this work. */
+  description: string;
+  /** For kind="figure" only: other works that originate or define this figure. */
+  founding_texts?: string[];
+}
+
+export interface EntityWorkAppearance {
+  work_slug: string;
+  named_as: string;
+  mention_count: number;
+  description: string;
+}
+
+export interface EntityNode {
+  id: string;
+  canonical_name: string;
+  kind: EntityKind;
+  figure_kind?: FigureKind;   // only for kind="figure"
+  aliases: string[];
+  works: EntityWorkAppearance[];
+  work_count: number;
+  total_mentions: number;
+  founding_texts?: string[];  // only for kind="figure"
+}
+
 export interface FigureRaw {
   work_slug: string;
   canonical_name: string;
