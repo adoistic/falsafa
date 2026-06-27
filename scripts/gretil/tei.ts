@@ -51,6 +51,30 @@ export function parseTeiVerses(xml: string): VerseLine[] {
   return lines;
 }
 
+/**
+ * Some corpustei texts (e.g. the Rāmāyaṇa) carry the full reference on the <lg>'s
+ * xml:id ("R_1.001.001" = kāṇḍa.sarga.verse) while each <l> holds only a pāda letter.
+ * Parse the reference from the lg id and join its <l> children as the verse text.
+ */
+export function parseTeiLgVerses(xml: string): VerseLine[] {
+  const bodyStart = xml.indexOf("<body>");
+  const body = bodyStart >= 0 ? xml.slice(bodyStart) : xml;
+  const lines: VerseLine[] = [];
+  const re = /<lg\s+[^>]*xml:id="[^"]*?([0-9]+(?:\.[0-9]+)+)"[^>]*>([\s\S]*?)<\/lg>/g;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(body))) {
+    const text = cleanLine(m[2]!);
+    if (!text) continue;
+    const ref = m[1]!
+      .split(/[.,]/)
+      .map((x) => parseInt(x, 10))
+      .filter((x) => !Number.isNaN(x));
+    if (ref.length === 0) continue;
+    lines.push({ ref, pada: "", text });
+  }
+  return lines;
+}
+
 export interface ChapterUnit {
   n: number;
   paragraphs: { ref: string; text: string }[];
