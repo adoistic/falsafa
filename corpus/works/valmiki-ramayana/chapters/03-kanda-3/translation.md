@@ -1,3 +1,22 @@
+---
+work_id: "024dffd8-3c46-5746-9b2b-5525ce1a3e1c"
+work_slug: "valmiki-ramayana"
+work_title: Vālmīki Rāmāyaṇa
+author_name: Vālmīki
+chapter_number: 3
+chapter_title: Kāṇḍa 3
+chapter_slug: "03-kanda-3"
+variant_id: "9d7d6eb8-2f9a-54cf-9368-9f4e7305f6e2"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 50395
+translator: thothica
+---
+
 **3.1.1**  Entering the great forest, the Daṇḍaka wilderness, the self-possessed and invincible Rāma beheld the precinct of the ascetics' hermitage.
 
 **3.1.2**  Surrounded by kuśa grass and bark cloth, pervaded by the radiance of Brahmā, it blazed forth, difficult to behold — like the disk of the sun flaming in the sky.

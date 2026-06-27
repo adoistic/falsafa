@@ -1,0 +1,38 @@
+{
+  "work_slug": "rigveda-aufrecht",
+  "work_title": "Rigveda",
+  "chapter_number": 8,
+  "chapter_title": "Maṇḍala 8",
+  "chapter_slug": "08-mandala-8",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "4fd409ab-bfd5-5a62-8f00-0e497f6fe969",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 26419,
+      "paragraph_count": 1716,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "db65ec3d-2a2c-5a29-927c-c0a4b863b687",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 42870,
+      "paragraph_count": 1716,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

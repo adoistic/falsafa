@@ -1,0 +1,38 @@
+{
+  "work_slug": "rigveda-aufrecht",
+  "work_title": "Rigveda",
+  "chapter_number": 2,
+  "chapter_title": "Maṇḍala 2",
+  "chapter_slug": "02-mandala-2",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "abfa39e8-dd43-5736-bf9f-df4e048d6d6f",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 8676,
+      "paragraph_count": 429,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d1a648be-08e8-5829-9d0c-0e6a66245fa2",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 14923,
+      "paragraph_count": 429,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,3 +1,22 @@
+---
+work_id: "024dffd8-3c46-5746-9b2b-5525ce1a3e1c"
+work_slug: "valmiki-ramayana"
+work_title: Vālmīki Rāmāyaṇa
+author_name: Vālmīki
+chapter_number: 7
+chapter_title: Kāṇḍa 7
+chapter_slug: "07-kanda-7"
+variant_id: "7653af71-f949-556f-a860-1c0116679dd1"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 64463
+translator: thothica
+---
+
 **7.1.1**  After Rāma had obtained his kingdom and the slaughter of the rākṣasas had been accomplished, all the sages came to pay homage to the Rāghava.
 
 **7.1.2**  Kauśika, Yavakrīta, Raibhya, Cyavana, and Kaṇva the son of Medhātithi — those who dwelt in the eastern quarter came.

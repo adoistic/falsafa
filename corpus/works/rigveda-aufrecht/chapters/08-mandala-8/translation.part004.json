@@ -1,0 +1,777 @@
+[
+  {
+    "ref": "8.31.1",
+    "sanskrit": "yo yajā̍ti̱ yajā̍ta̱ it su̱nava̍c ca̱ pacā̍ti ca | bra̱hmed indra̍sya cākanat ||",
+    "english": "He who sacrifices — he alone truly sacrifices — who both presses the soma and cooks the oblation: such a man has found favour, like a priest, with Indra."
+  },
+  {
+    "ref": "8.31.2",
+    "sanskrit": "pu̱ro̱ḻāśa̱ṁ yo a̍smai̱ soma̱ṁ rara̍ta ā̱śira̍m | pād it taṁ śa̱kro aṁha̍saḥ ||",
+    "english": "He who presents to Indra the sacrificial cake, the soma, and the milk-mixture — even from such distress does Śakra free him."
+  },
+  {
+    "ref": "8.31.3",
+    "sanskrit": "tasya̍ dyu̱mām̐ a̍sa̱d ratho̍ de̱vajū̍ta̱ḥ sa śū̍śuvat | viśvā̍ va̱nvann a̍mi̱triyā̍ ||",
+    "english": "His chariot shall be resplendent, impelled by the gods, growing in strength, conquering all hostile forces."
+  },
+  {
+    "ref": "8.31.4",
+    "sanskrit": "asya̍ pra̱jāva̍tī gṛ̱he 'sa̍ścantī di̱ve-di̍ve | iḻā̍ dhenu̱matī̍ duhe ||",
+    "english": "In his house, Iḷā, rich in cattle, never failing, milks her udder day by day with progeny in abundance."
+  },
+  {
+    "ref": "8.31.5",
+    "sanskrit": "yā dampa̍tī̱ sama̍nasā sunu̱ta ā ca̱ dhāva̍taḥ | devā̍so̱ nitya̍yā̱śirā̍ ||",
+    "english": "Those husband and wife who, of one mind, press the soma and hasten to the ritual — for them the gods are ever present with their milk-mixture."
+  },
+  {
+    "ref": "8.31.6",
+    "sanskrit": "prati̍ prāśa̱vyā̍m̐ itaḥ sa̱myañcā̍ ba̱rhir ā̍śāte | na tā vāje̍ṣu vāyataḥ ||",
+    "english": "Together they reach toward the sacrificial grass spread here to receive the prāśitra offering; they two are never wearied in the winning of prizes."
+  },
+  {
+    "ref": "8.31.7",
+    "sanskrit": "na de̱vānā̱m api̍ hnutaḥ suma̱tiṁ na ju̍gukṣataḥ | śravo̍ bṛ̱had vi̍vāsataḥ ||",
+    "english": "They do not conceal the benevolence of the gods nor do they withhold it; they seek to win great glory."
+  },
+  {
+    "ref": "8.31.8",
+    "sanskrit": "pu̱triṇā̱ tā ku̍mā̱riṇā̱ viśva̱m āyu̱r vy a̍śnutaḥ | u̱bhā hira̍ṇyapeśasā ||",
+    "english": "That pair, blessed with sons and daughters, enjoy full length of life — both of them adorned with gold."
+  },
+  {
+    "ref": "8.31.9",
+    "sanskrit": "vī̱tiho̍trā kṛ̱tadva̍sū daśa̱syantā̱mṛtā̍ya̱ kam | sam ūdho̍ roma̱śaṁ ha̍to de̱veṣu̍ kṛṇuto̱ duva̍ḥ ||",
+    "english": "They who enjoy the fire's oblation, who have accumulated wealth, honouring the immortal rightly — they milk the woolly udder together and render service among the gods."
+  },
+  {
+    "ref": "8.31.10",
+    "sanskrit": "ā śarma̱ parva̍tānāṁ vṛṇī̱mahe̍ na̱dīnā̍m | ā viṣṇo̍ḥ sacā̱bhuva̍ḥ ||",
+    "english": "We choose the shelter of the mountains and of the rivers, and the shelter of Viṣṇu who is ever present with us."
+  },
+  {
+    "ref": "8.31.11",
+    "sanskrit": "aitu̍ pū̱ṣā ra̱yir bhaga̍ḥ sva̱sti sa̍rva̱dhāta̍maḥ | u̱rur adhvā̍ sva̱staye̍ ||",
+    "english": "May Pūṣan come, and riches, and Bhaga — welfare most all-sustaining; may the wide road be for our wellbeing."
+  },
+  {
+    "ref": "8.31.12",
+    "sanskrit": "a̱rama̍tir ana̱rvaṇo̱ viśvo̍ de̱vasya̱ mana̍sā | ā̱di̱tyānā̍m ane̱ha it ||",
+    "english": "Aramatī, ever undisturbed, fully in accord with the mind of the universal god — she is truly the faultless one among the Ādityās."
+  },
+  {
+    "ref": "8.31.13",
+    "sanskrit": "yathā̍ no mi̱tro a̍rya̱mā varu̍ṇa̱ḥ santi̍ go̱pāḥ | su̱gā ṛ̱tasya̱ panthā̍ḥ ||",
+    "english": "Even as Mitra, Aryaman, and Varuṇa are our guardians, may the path of Ṛta be easy to travel."
+  },
+  {
+    "ref": "8.31.14",
+    "sanskrit": "a̱gniṁ va̍ḥ pū̱rvyaṁ gi̱rā de̱vam ī̍ḻe̱ vasū̍nām | sa̱pa̱ryanta̍ḥ purupri̱yam mi̱traṁ na kṣe̍tra̱sādha̍sam ||",
+    "english": "With this hymn I praise Agni for you, the ancient god, foremost among the Vasus — as we worship him who is dear to many, who, like Mitra, accomplishes things in the field."
+  },
+  {
+    "ref": "8.31.15",
+    "sanskrit": "ma̱kṣū de̱vava̍to̱ ratha̱ḥ śūro̍ vā pṛ̱tsu kāsu̍ cit | de̱vānā̱ṁ ya in mano̱ yaja̍māna̱ iya̍kṣaty a̱bhīd aya̍jvano bhuvat ||",
+    "english": "Swiftly moves the chariot of him who has the gods with him, or the hero in whatever battles — the sacrificer who seeks to please the will of the gods surpasses those who do not sacrifice."
+  },
+  {
+    "ref": "8.31.16",
+    "sanskrit": "na ya̍jamāna riṣyasi̱ na su̍nvāna̱ na de̍vayo | de̱vānā̱ṁ ya in mano̱ yaja̍māna̱ iya̍kṣaty a̱bhīd aya̍jvano bhuvat ||",
+    "english": "You do not suffer harm, O sacrificer; nor the soma-presser, nor the devout worshipper — the sacrificer who seeks to please the will of the gods surpasses those who do not sacrifice."
+  },
+  {
+    "ref": "8.31.17",
+    "sanskrit": "naki̱ṣ ṭaṁ karma̍ṇā naśa̱n na pra yo̍ṣa̱n na yo̍ṣati | de̱vānā̱ṁ ya in mano̱ yaja̍māna̱ iya̍kṣaty a̱bhīd aya̍jvano bhuvat ||",
+    "english": "No one can harm him through deeds; no one has driven him away nor drives him away — the sacrificer who seeks to please the will of the gods surpasses those who do not sacrifice."
+  },
+  {
+    "ref": "8.31.18",
+    "sanskrit": "asa̱d atra̍ su̱vīrya̍m u̱ta tyad ā̱śvaśvya̍m | de̱vānā̱ṁ ya in mano̱ yaja̍māna̱ iya̍kṣaty a̱bhīd aya̍jvano bhuvat ||",
+    "english": "There shall be good heroic strength and that famed wealth of horses for him — the sacrificer who seeks to please the will of the gods surpasses those who do not sacrifice."
+  },
+  {
+    "ref": "8.32.1",
+    "sanskrit": "pra kṛ̱tāny ṛ̍jī̱ṣiṇa̱ḥ kaṇvā̱ indra̍sya̱ gātha̍yā | made̱ soma̍sya vocata ||",
+    "english": "Proclaim, O Kaṇvas, in your song the deeds of Indra, the soma-drinker, in the exhilaration of the soma."
+  },
+  {
+    "ref": "8.32.2",
+    "sanskrit": "yaḥ sṛbi̍nda̱m ana̍rśani̱m pipru̍ṁ dā̱sam a̍hī̱śuva̍m | vadhī̍d u̱gro ri̱ṇann a̱paḥ ||",
+    "english": "He who, fierce, releasing the waters, slew Sṛbinda who gave no gifts, Pipru, the Dāsa Ahīśuva."
+  },
+  {
+    "ref": "8.32.3",
+    "sanskrit": "ny arbu̍dasya vi̱ṣṭapa̍ṁ va̱rṣmāṇa̍m bṛha̱tas ti̍ra | kṛ̱ṣe tad i̍ndra̱ pauṁsya̍m ||",
+    "english": "O Indra, that manly feat belongs to you — that you pushed down the broad top, the height of Arbuda."
+  },
+  {
+    "ref": "8.32.4",
+    "sanskrit": "prati̍ śru̱tāya̍ vo dhṛ̱ṣat tūrṇā̍śa̱ṁ na gi̱rer adhi̍ | hu̱ve su̍śi̱pram ū̱taye̍ ||",
+    "english": "For you who are renowned I boldly call upon Indra — swift as Tūrṇāśa from the mountain-top — the well-jawed one, for his aid."
+  },
+  {
+    "ref": "8.32.5",
+    "sanskrit": "sa gor aśva̍sya̱ vi vra̱jam ma̍ndā̱naḥ so̱myebhya̍ḥ | pura̱ṁ na śū̍ra darṣasi ||",
+    "english": "Exhilarated by the soma-draughts, you burst open the stall of cows and horses, O hero, like a fortress."
+  },
+  {
+    "ref": "8.32.6",
+    "sanskrit": "yadi̍ me rā̱raṇa̍ḥ su̱ta u̱kthe vā̱ dadha̍se̱ cana̍ḥ | ā̱rād upa̍ sva̱dhā ga̍hi ||",
+    "english": "If you have delighted in my pressed soma or set your pleasure in my hymn, come from afar of your own accord."
+  },
+  {
+    "ref": "8.32.7",
+    "sanskrit": "va̱yaṁ ghā̍ te̱ api̍ ṣmasi sto̱tāra̍ indra girvaṇaḥ | tvaṁ no̍ jinva somapāḥ ||",
+    "english": "Indeed we are your praisers, O Indra, who art praised with hymns; invigorate us, O soma-drinker."
+  },
+  {
+    "ref": "8.32.8",
+    "sanskrit": "u̱ta na̍ḥ pi̱tum ā bha̍ra saṁrarā̱ṇo avi̍kṣitam | magha̍va̱n bhūri̍ te̱ vasu̍ ||",
+    "english": "Bring us nourishment, gladly sharing what is inexhaustible, O Maghavan — your wealth is abundant."
+  },
+  {
+    "ref": "8.32.9",
+    "sanskrit": "u̱ta no̱ goma̍tas kṛdhi̱ hira̍ṇyavato a̱śvina̍ḥ | iḻā̍bhi̱ḥ saṁ ra̍bhemahi ||",
+    "english": "Make us also rich in cattle, rich in gold, and rich in horses; may we lay hold of Iḷā's blessings."
+  },
+  {
+    "ref": "8.32.10",
+    "sanskrit": "bṛ̱badu̍kthaṁ havāmahe sṛ̱praka̍rasnam ū̱taye̍ | sādhu̍ kṛ̱ṇvanta̱m ava̍se ||",
+    "english": "We call upon Bṛbaduktham, upon the Sṛprakarṇas, for aid, for the protection of him who acts rightly."
+  },
+  {
+    "ref": "8.32.11",
+    "sanskrit": "yaḥ sa̱ṁsthe ci̍c cha̱takra̍tu̱r ād ī̍ṁ kṛ̱ṇoti̍ vṛtra̱hā | ja̱ri̱tṛbhya̍ḥ purū̱vasu̍ḥ ||",
+    "english": "He who, even amid a battle, at once acts thus — the Vṛtra-slayer, Śatakratu, rich in goods, for his praisers."
+  },
+  {
+    "ref": "8.32.12",
+    "sanskrit": "sa na̍ḥ śa̱kraś ci̱d ā śa̍ka̱d dāna̍vām̐ antarābha̱raḥ | indro̱ viśvā̍bhir ū̱tibhi̍ḥ ||",
+    "english": "May even powerful Śakra be able, bringing gifts from the interior — Indra with all his aids."
+  },
+  {
+    "ref": "8.32.13",
+    "sanskrit": "yo rā̱yo̱3̱̍ 'vani̍r ma̱hān su̍pā̱raḥ su̍nva̱taḥ sakhā̍ | tam indra̍m a̱bhi gā̍yata ||",
+    "english": "Him who is the great sustainer of wealth, easy to cross, the friend of the soma-presser — sing to that Indra."
+  },
+  {
+    "ref": "8.32.14",
+    "sanskrit": "ā̱ya̱ntāra̱m mahi̍ sthi̱ram pṛta̍nāsu śravo̱jita̍m | bhūre̱r īśā̍na̱m oja̍sā ||",
+    "english": "Him who is coming, greatly steadfast, winning glory in battles, ruling over abundance with his strength."
+  },
+  {
+    "ref": "8.32.15",
+    "sanskrit": "naki̍r asya̱ śacī̍nāṁ niya̱ntā sū̱nṛtā̍nām | naki̍r va̱ktā na dā̱d iti̍ ||",
+    "english": "No one is the restrainer of his powers, of his true and gracious gifts; no one who says 'he will not give.'"
+  },
+  {
+    "ref": "8.32.16",
+    "sanskrit": "na nū̱nam bra̱hmaṇā̍m ṛ̱ṇam prā̍śū̱nām a̍sti sunva̱tām | na somo̍ apra̱tā pa̍pe ||",
+    "english": "There is now no debt owed by the brahmins who press soma and consume the oblation; the soma is not drunk unrewarded."
+  },
+  {
+    "ref": "8.32.17",
+    "sanskrit": "panya̱ id upa̍ gāyata̱ panya̍ u̱kthāni̍ śaṁsata | brahmā̍ kṛṇota̱ panya̱ it ||",
+    "english": "Sing of the wondrous one; recite hymns of the wondrous one; compose the prayer — it is for the wondrous one."
+  },
+  {
+    "ref": "8.32.18",
+    "sanskrit": "panya̱ ā da̍rdirac cha̱tā sa̱hasrā̍ vā̱jy avṛ̍taḥ | indro̱ yo yajva̍no vṛ̱dhaḥ ||",
+    "english": "The wondrous one who goes unchecked shakes down hundreds and thousands — Indra the prize-winner, who increases the sacrificer."
+  },
+  {
+    "ref": "8.32.19",
+    "sanskrit": "vi ṣū ca̍ra sva̱dhā anu̍ kṛṣṭī̱nām anv ā̱huva̍ḥ | indra̱ piba̍ su̱tānā̍m ||",
+    "english": "Pass freely through the peoples according to your own will, following the invocations; O Indra, drink of the pressed juices."
+  },
+  {
+    "ref": "8.32.20",
+    "sanskrit": "piba̱ svadhai̍navānām u̱ta yas tugrye̱ sacā̍ | u̱tāyam i̍ndra̱ yas tava̍ ||",
+    "english": "Drink of those who follow their own will, and of him who is with Tugrya, and of this one too, O Indra, who is yours."
+  },
+  {
+    "ref": "8.32.21",
+    "sanskrit": "atī̍hi manyuṣā̱viṇa̍ṁ suṣu̱vāṁsa̍m u̱pāra̍ṇe | i̱maṁ rā̱taṁ su̱tam pi̍ba ||",
+    "english": "Come past him who presses soma in anger; come to the one who has well pressed near at hand; drink of this soma that has been given."
+  },
+  {
+    "ref": "8.32.22",
+    "sanskrit": "i̱hi ti̱sraḥ pa̍rā̱vata̍ i̱hi pañca̱ janā̱m̐ ati̍ | dhenā̍ indrāva̱cāka̍śat ||",
+    "english": "Go to the three distant regions, go beyond the five peoples — the hymn-speech has shone clearly upon Indra."
+  },
+  {
+    "ref": "8.32.23",
+    "sanskrit": "sūryo̍ ra̱śmiṁ yathā̍ sṛ̱jā tvā̍ yacchantu me̱ gira̍ḥ | ni̱mnam āpo̱ na sa̱dhrya̍k ||",
+    "english": "As the sun releases a ray, may my hymns reach you and guide you aright, as waters flow downward to their goal."
+  },
+  {
+    "ref": "8.32.24",
+    "sanskrit": "adhva̍rya̱v ā tu hi ṣi̱ñca soma̍ṁ vī̱rāya̍ śi̱priṇe̍ | bharā̍ su̱tasya̍ pī̱taye̍ ||",
+    "english": "O Adhvaryu, pour the soma for the hero with prominent lips; bring it for him to drink of the pressed juice."
+  },
+  {
+    "ref": "8.32.25",
+    "sanskrit": "ya u̱dnaḥ pha̍li̱gam bhi̱nan ny a̍k sindhū̍m̐r a̱vāsṛ̍jat | yo goṣu̍ pa̱kvaṁ dhā̱raya̍t ||",
+    "english": "He who split the cloud-dam of the waters and released the rivers downward, who held back what was ripened in the cows."
+  },
+  {
+    "ref": "8.32.26",
+    "sanskrit": "aha̍n vṛ̱tram ṛcī̍ṣama aurṇavā̱bham a̍hī̱śuva̍m | hi̱menā̍vidhya̱d arbu̍dam ||",
+    "english": "He slew Vṛtra, Ṛcīṣama, Aurṇavābha, Ahīśuva; he struck Arbuda with frost."
+  },
+  {
+    "ref": "8.32.27",
+    "sanskrit": "pra va̍ u̱grāya̍ ni̱ṣṭure 'ṣā̍ḻhāya prasa̱kṣiṇe̍ | de̱vatta̱m brahma̍ gāyata ||",
+    "english": "Sing forth the god-given prayer to the fierce and inexorable one, the unconquerable, the all-subduing."
+  },
+  {
+    "ref": "8.32.28",
+    "sanskrit": "yo viśvā̍ny a̱bhi vra̱tā soma̍sya̱ made̱ andha̍saḥ | indro̍ de̱veṣu̱ ceta̍ti ||",
+    "english": "Indra, in the exhilaration of the soma-draught, takes note of all the ordinances among the gods."
+  },
+  {
+    "ref": "8.32.29",
+    "sanskrit": "i̱ha tyā sa̍dha̱mādyā̱ harī̱ hira̍ṇyakeśyā | vo̱ḻhām a̱bhi prayo̍ hi̱tam ||",
+    "english": "Here those two tawny steeds who rejoice together, golden-maned, carry him toward the oblation that is set forth."
+  },
+  {
+    "ref": "8.32.30",
+    "sanskrit": "a̱rvāñca̍ṁ tvā puruṣṭuta pri̱yame̍dhastutā̱ harī̍ | so̱ma̱peyā̍ya vakṣataḥ ||",
+    "english": "O much-praised one, your two tawny steeds praised by Priyamedha shall carry you hitherward to drink the soma."
+  },
+  {
+    "ref": "8.33.1",
+    "sanskrit": "va̱yaṁ gha̍ tvā su̱tāva̍nta̱ āpo̱ na vṛ̱ktaba̍rhiṣaḥ | pa̱vitra̍sya pra̱srava̍ṇeṣu vṛtraha̱n pari̍ sto̱tāra̍ āsate ||",
+    "english": "We indeed, having pressed soma, like waters with the kuśa-grass spread, O Vṛtra-slayer, sit around the streams of the purifying filter as your praisers."
+  },
+  {
+    "ref": "8.33.2",
+    "sanskrit": "svara̍nti tvā su̱te naro̱ vaso̍ nire̱ka u̱kthina̍ḥ | ka̱dā su̱taṁ tṛ̍ṣā̱ṇa oka̱ ā ga̍ma̱ indra̍ sva̱bdīva̱ vaṁsa̍gaḥ ||",
+    "english": "The men sound forth praises of you at the soma-pressing, O Vasu, with uninterrupted hymns; when will you come thirstily to your home, to the pressed soma, O Indra, like a bull-elephant to its lair?"
+  },
+  {
+    "ref": "8.33.3",
+    "sanskrit": "kaṇve̍bhir dhṛṣṇa̱v ā dhṛ̱ṣad vāja̍ṁ darṣi saha̱sriṇa̍m | pi̱śaṅga̍rūpam maghavan vicarṣaṇe ma̱kṣū goma̍ntam īmahe ||",
+    "english": "O bold one, boldly burst open the thousandfold prize for the Kaṇvas; O tawny-formed Maghavan, wide-seeing one, we desire quickly a prize rich in cattle."
+  },
+  {
+    "ref": "8.33.4",
+    "sanskrit": "pā̱hi gāyāndha̍so̱ mada̱ indrā̍ya medhyātithe | yaḥ sammi̍ślo̱ haryo̱r yaḥ su̱te sacā̍ va̱jrī ratho̍ hira̱ṇyaya̍ḥ ||",
+    "english": "Guard the exhilarating drink of the soma's essence for Indra, O Medhyātithi — he who is intermingled with his two tawny steeds, who is present at the pressing, the vajra-bearer, whose chariot is golden."
+  },
+  {
+    "ref": "8.33.5",
+    "sanskrit": "yaḥ su̍ṣa̱vyaḥ su̱dakṣi̍ṇa i̱no yaḥ su̱kratu̍r gṛ̱ṇe | ya ā̍ka̱raḥ sa̱hasrā̱ yaḥ śa̱tāma̍gha̱ indro̱ yaḥ pū̱rbhid ā̍ri̱taḥ ||",
+    "english": "He who is well invoked, well rewarding, the lord who is praised for his good resolve, he who is the mine of thousands, who has a hundred gifts — Indra who is invoked as fort-splitter."
+  },
+  {
+    "ref": "8.33.6",
+    "sanskrit": "yo dhṛ̍ṣi̱to yo 'vṛ̍to̱ yo asti̱ śmaśru̍ṣu śri̱taḥ | vibhū̍tadyumna̱ś cyava̍naḥ puruṣṭu̱taḥ kratvā̱ gaur i̍va śāki̱naḥ ||",
+    "english": "He who is bold, unimpeded, who rests his power upon his beard — Vibhūtadyumna, the one who shakes all, praised by many, in might like a bull by reason of his wisdom."
+  },
+  {
+    "ref": "8.33.7",
+    "sanskrit": "ka ī̍ṁ veda su̱te sacā̱ piba̍nta̱ṁ kad vayo̍ dadhe | a̱yaṁ yaḥ puro̍ vibhi̱natty oja̍sā mandā̱naḥ śi̱pry andha̍saḥ ||",
+    "english": "Who knows him drinking together at the soma-pressing? What body has he assumed? — He who shatters strongholds with his strength, intoxicated by the soma-draught, the jawed drinker."
+  },
+  {
+    "ref": "8.33.8",
+    "sanskrit": "dā̱nā mṛ̱go na vā̍ra̱ṇaḥ pu̍ru̱trā ca̱ratha̍ṁ dadhe | naki̍ṣ ṭvā̱ ni ya̍ma̱d ā su̱te ga̍mo ma̱hām̐ś ca̍ra̱sy oja̍sā ||",
+    "english": "You have taken up a far-ranging movement like a liberal bull-elephant; no one restrains you — come to the soma-pressing, you who move in greatness with your power."
+  },
+  {
+    "ref": "8.33.9",
+    "sanskrit": "ya u̱graḥ sann ani̍ṣṭṛtaḥ sthi̱ro raṇā̍ya̱ saṁskṛ̍taḥ | yadi̍ sto̱tur ma̱ghavā̍ śṛ̱ṇava̱d dhava̱ṁ nendro̍ yoṣa̱ty ā ga̍mat ||",
+    "english": "He who, being fierce and not overcome, stands firm, prepared for battle — if Maghavan hears the call of the praiser, Indra would not tarry but would come."
+  },
+  {
+    "ref": "8.33.10",
+    "sanskrit": "sa̱tyam i̱tthā vṛṣed a̍si̱ vṛṣa̍jūti̱r no 'vṛ̍taḥ | vṛṣā̱ hy u̍gra śṛṇvi̱ṣe pa̍rā̱vati̱ vṛṣo̍ arvā̱vati̍ śru̱taḥ ||",
+    "english": "Truly thus you are a bull; impelled by virile strength, unimpeded; a bull you are heard, O fierce one, even afar; a bull you are renowned here close at hand."
+  },
+  {
+    "ref": "8.33.11",
+    "sanskrit": "vṛṣa̍ṇas te a̱bhīśa̍vo̱ vṛṣā̱ kaśā̍ hira̱ṇyayī̍ | vṛṣā̱ ratho̍ maghava̱n vṛṣa̍ṇā̱ harī̱ vṛṣā̱ tvaṁ śa̍takrato ||",
+    "english": "Your reins are virile, virile the golden goad, virile the chariot, O Maghavan, virile your two tawny steeds — you yourself are a bull, O Śatakratu."
+  },
+  {
+    "ref": "8.33.12",
+    "sanskrit": "vṛṣā̱ sotā̍ sunotu te̱ vṛṣa̍nn ṛjīpi̱nn ā bha̍ra | vṛṣā̍ dadhanve̱ vṛṣa̍ṇaṁ na̱dīṣv ā tubhya̍ṁ sthātar harīṇām ||",
+    "english": "Let the virile presser press for you, O bull, O Ṛjīpin, bring hither; a bull stirs the bulls in the rivers for you, O steadfast one, master of the tawny steeds."
+  },
+  {
+    "ref": "8.33.13",
+    "sanskrit": "endra̍ yāhi pī̱taye̱ madhu̍ śaviṣṭha so̱myam | nāyam acchā̍ ma̱ghavā̍ śṛ̱ṇava̱d giro̱ brahmo̱kthā ca̍ su̱kratu̍ḥ ||",
+    "english": "Come, O Indra, to drink the sweet soma-drink, O mightiest one — let Maghavan, of good resolve, hear these hymns and prayers directed toward him here."
+  },
+  {
+    "ref": "8.33.14",
+    "sanskrit": "vaha̍ntu tvā rathe̱ṣṭhām ā hara̍yo ratha̱yuja̍ḥ | ti̱raś ci̍d a̱ryaṁ sava̍nāni vṛtrahann a̱nyeṣā̱ṁ yā śa̍takrato ||",
+    "english": "Let the tawny steeds yoked to the car carry you hitherward to stand in the chariot; pass beyond the pressings of others, O Vṛtra-slayer, O Śatakratu."
+  },
+  {
+    "ref": "8.33.15",
+    "sanskrit": "a̱smāka̍m a̱dyānta̍ma̱ṁ stoma̍ṁ dhiṣva mahāmaha | a̱smāka̍ṁ te̱ sava̍nā santu̱ śaṁta̍mā̱ madā̍ya dyukṣa somapāḥ ||",
+    "english": "Fix your mind upon our most intimate praise-hymn of today, O greatest of the great; may our pressings be most blissful for your exhilaration, O resplendent soma-drinker."
+  },
+  {
+    "ref": "8.33.16",
+    "sanskrit": "na̱hi ṣas tava̱ no mama̍ śā̱stre a̱nyasya̱ raṇya̍ti | yo a̱smān vī̱ra āna̍yat ||",
+    "english": "Truly that hero who brought us here — neither in your instruction nor in mine nor in another's does he take pleasure."
+  },
+  {
+    "ref": "8.33.17",
+    "sanskrit": "indra̍ś cid ghā̱ tad a̍bravīt stri̱yā a̍śā̱syam mana̍ḥ | u̱to aha̱ kratu̍ṁ ra̱ghum ||",
+    "english": "Even Indra himself has said this: the mind of a woman is not worthy of praise, and moreover her will is fickle."
+  },
+  {
+    "ref": "8.33.18",
+    "sanskrit": "saptī̍ cid ghā mada̱cyutā̍ mithu̱nā va̍hato̱ ratha̍m | e̱ved dhūr vṛṣṇa̱ utta̍rā ||",
+    "english": "Even the two that carry the chariot together, a pair shaken by intoxication — even so the bull's yoke is the upper one."
+  },
+  {
+    "ref": "8.33.19",
+    "sanskrit": "a̱dhaḥ pa̍śyasva̱ mopari̍ saṁta̱rām pā̍da̱kau ha̍ra | mā te̍ kaśapla̱kau dṛ̍śa̱n strī hi bra̱hmā ba̱bhūvi̍tha ||",
+    "english": "Look downward, not upward; draw your feet closer together; let not your hair-knots be seen — for you have become a woman-priest."
+  },
+  {
+    "ref": "8.34.1",
+    "sanskrit": "endra̍ yāhi̱ hari̍bhi̱r upa̱ kaṇva̍sya suṣṭu̱tim | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "O Indra, come with your tawny steeds to the fine praise of Kaṇva — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.2",
+    "sanskrit": "ā tvā̱ grāvā̱ vada̍nn i̱ha so̱mī ghoṣe̍ṇa yacchatu | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "May the speaking pressing-stone here, resonant with the soma-sound, draw you — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.3",
+    "sanskrit": "atrā̱ vi ne̱mir e̍ṣā̱m urā̱ṁ na dhū̍nute̱ vṛka̍ḥ | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "Here the rim of these wheels does not rattle — the wolf shakes not the sheep — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.4",
+    "sanskrit": "ā tvā̱ kaṇvā̍ i̱hāva̍se̱ hava̍nte̱ vāja̍sātaye | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "The Kaṇvas call you hither for protection, for the winning of prizes — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.5",
+    "sanskrit": "dadhā̍mi te su̱tānā̱ṁ vṛṣṇe̱ na pū̍rva̱pāyya̍m | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "I offer you, O bull, the first draught of the pressed juices — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.6",
+    "sanskrit": "smatpu̍raṁdhir na̱ ā ga̍hi vi̱śvato̍dhīr na ū̱taye̍ | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "Come to us, possessed of power and wisdom, all-knowing, for our aid — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.7",
+    "sanskrit": "ā no̍ yāhi mahemate̱ saha̍srote̱ śatā̍magha | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "Come to us, O greatly wise, O possessor of a thousand streams, O Śatāmagha — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.8",
+    "sanskrit": "ā tvā̱ hotā̱ manu̍rhito deva̱trā va̍kṣa̱d īḍya̍ḥ | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "May the praiseworthy Hotṛ, established by Manu, carry you to the divine sphere — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.9",
+    "sanskrit": "ā tvā̍ mada̱cyutā̱ harī̍ śye̱nam pa̱kṣeva̍ vakṣataḥ | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "Your two tawny steeds, shaken by exhilaration, shall carry you like a falcon on its wings — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.10",
+    "sanskrit": "ā yā̍hy a̱rya ā pari̱ svāhā̱ soma̍sya pī̱taye̍ | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "Come hither, O noble lord, come round about — svāhā! — to drink the soma — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.11",
+    "sanskrit": "ā no̍ yā̱hy upa̍śruty u̱ktheṣu̍ raṇayā i̱ha | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "Come to us, O Upaśruti; take delight here in our hymns — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.12",
+    "sanskrit": "sarū̍pai̱r ā su no̍ gahi̱ sambhṛ̍tai̱ḥ sambhṛ̍tāśvaḥ | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "Come well to us with matching pairs, O one whose horses are well gathered, with well-gathered gifts — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.13",
+    "sanskrit": "ā yā̍hi̱ parva̍tebhyaḥ samu̱drasyādhi̍ vi̱ṣṭapa̍ḥ | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "Come from the mountains, from the height above the ocean — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.14",
+    "sanskrit": "ā no̱ gavyā̱ny aśvyā̍ sa̱hasrā̍ śūra dardṛhi | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "Burst open for us thousands of cattle-prizes and horse-prizes, O hero — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.15",
+    "sanskrit": "ā na̍ḥ sahasra̱śo bha̍rā̱yutā̍ni śa̱tāni̍ ca | di̱vo a̱muṣya̱ śāsa̍to̱ diva̍ṁ ya̱ya di̍vāvaso ||",
+    "english": "Bring to us by thousands, by ten thousands, and by hundreds — commanded by yonder heaven, go to heaven, O nourisher by day."
+  },
+  {
+    "ref": "8.34.16",
+    "sanskrit": "ā yad indra̍ś ca̱ dadva̍he sa̱hasra̱ṁ vasu̍rociṣaḥ | oji̍ṣṭha̱m aśvya̍m pa̱śum ||",
+    "english": "When Indra and I have brought a thousand of the glowing-with-wealth, the mightiest of horse-prizes, the cattle-wealth."
+  },
+  {
+    "ref": "8.34.17",
+    "sanskrit": "ya ṛ̱jrā vāta̍raṁhaso 'ru̱ṣāso̍ raghu̱ṣyada̍ḥ | bhrāja̍nte̱ sūryā̍ iva ||",
+    "english": "Those that are chestnut-bright, swift as the wind, ruddy and light-footed — they shine like suns."
+  },
+  {
+    "ref": "8.34.18",
+    "sanskrit": "pārā̍vatasya rā̱tiṣu̍ dra̱vacca̍kreṣv ā̱śuṣu̍ | tiṣṭha̱ṁ vana̍sya̱ madhya̱ ā ||",
+    "english": "Among the gifts of Pārāvata, among the swift ones with rolling wheels, I stand in the middle of the forest."
+  },
+  {
+    "ref": "8.35.1",
+    "sanskrit": "a̱gninendre̍ṇa̱ varu̍ṇena̱ viṣṇu̍nādi̱tyai ru̱drair vasu̍bhiḥ sacā̱bhuvā̍ | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa ca̱ soma̍m pibatam aśvinā ||",
+    "english": "Together with Agni, Indra, Varuṇa, Viṣṇu, the Ādityās, Rudras, and Vasus, being present with them — together with Dawn, and with the Sun — drink the soma, O Aśvins."
+  },
+  {
+    "ref": "8.35.2",
+    "sanskrit": "viśvā̍bhir dhī̱bhir bhuva̍nena vājinā di̱vā pṛ̍thi̱vyādri̍bhiḥ sacā̱bhuvā̍ | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa ca̱ soma̍m pibatam aśvinā ||",
+    "english": "Together with all intuitions, with the world, O prize-winners, with heaven, earth, and mountains being present — together with Dawn and with the Sun — drink the soma, O Aśvins."
+  },
+  {
+    "ref": "8.35.3",
+    "sanskrit": "viśvai̍r de̱vais tri̱bhir e̍kāda̱śair i̱hādbhir ma̱rudbhi̱r bhṛgu̍bhiḥ sacā̱bhuvā̍ | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa ca̱ soma̍m pibatam aśvinā ||",
+    "english": "Together with all the gods — three and eleven — with the Maruts here, with the Bhṛgus, being present — together with Dawn and with the Sun — drink the soma, O Aśvins."
+  },
+  {
+    "ref": "8.35.4",
+    "sanskrit": "ju̱ṣethā̍ṁ ya̱jñam bodha̍ta̱ṁ hava̍sya me̱ viśve̱ha de̍vau̱ sava̱nāva̍ gacchatam | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa̱ ceṣa̍ṁ no voḻham aśvinā ||",
+    "english": "Be pleased with the sacrifice, be aware of my invocation; come here, O both divine ones, to both pressings — together with Dawn and with the Sun — bring sustenance to us, O Aśvins."
+  },
+  {
+    "ref": "8.35.5",
+    "sanskrit": "stoma̍ṁ juṣethāṁ yuva̱śeva̍ ka̱nyanā̱ṁ viśve̱ha de̍vau̱ sava̱nāva̍ gacchatam | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa̱ ceṣa̍ṁ no voḻham aśvinā ||",
+    "english": "Be pleased with the hymn as young men with maidens; come here, O both divine ones, to both pressings — together with Dawn and with the Sun — bring sustenance to us, O Aśvins."
+  },
+  {
+    "ref": "8.35.6",
+    "sanskrit": "giro̍ juṣethām adhva̱raṁ ju̍ṣethā̱ṁ viśve̱ha de̍vau̱ sava̱nāva̍ gacchatam | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa̱ ceṣa̍ṁ no voḻham aśvinā ||",
+    "english": "Be pleased with the hymns, be pleased with the sacrifice; come here, O both divine ones, to both pressings — together with Dawn and with the Sun — bring sustenance to us, O Aśvins."
+  },
+  {
+    "ref": "8.35.7",
+    "sanskrit": "hā̱ri̱dra̱veva̍ patatho̱ vaned upa̱ soma̍ṁ su̱tam ma̍hi̱ṣevāva̍ gacchathaḥ | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa ca̱ trir va̱rtir yā̍tam aśvinā ||",
+    "english": "You two fly like golden falcons to the forest; you come to the pressed soma like two buffaloes — together with Dawn and with the Sun — come round three times, O Aśvins."
+  },
+  {
+    "ref": "8.35.8",
+    "sanskrit": "ha̱ṁsāv i̍va patatho adhva̱gāv i̍va̱ soma̍ṁ su̱tam ma̍hi̱ṣevāva̍ gacchathaḥ | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa ca̱ trir va̱rtir yā̍tam aśvinā ||",
+    "english": "You two fly like swans, like those that traverse the path; you come to the pressed soma like two buffaloes — together with Dawn and with the Sun — come round three times, O Aśvins."
+  },
+  {
+    "ref": "8.35.9",
+    "sanskrit": "śye̱nāv i̍va patatho ha̱vyadā̍taye̱ soma̍ṁ su̱tam ma̍hi̱ṣevāva̍ gacchathaḥ | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa ca̱ trir va̱rtir yā̍tam aśvinā ||",
+    "english": "You two fly like two eagles for the offering of the oblation; you come to the pressed soma like two buffaloes — together with Dawn and with the Sun — come round three times, O Aśvins."
+  },
+  {
+    "ref": "8.35.10",
+    "sanskrit": "piba̍taṁ ca tṛpṇu̱taṁ cā ca̍ gacchatam pra̱jāṁ ca̍ dha̱ttaṁ dravi̍ṇaṁ ca dhattam | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa̱ corja̍ṁ no dhattam aśvinā ||",
+    "english": "Drink and be sated, and come here; bestow progeny and bestow wealth — together with Dawn and with the Sun — bestow vigour upon us, O Aśvins."
+  },
+  {
+    "ref": "8.35.11",
+    "sanskrit": "jaya̍taṁ ca̱ pra stu̍taṁ ca̱ pra cā̍vatam pra̱jāṁ ca̍ dha̱ttaṁ dravi̍ṇaṁ ca dhattam | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa̱ corja̍ṁ no dhattam aśvinā ||",
+    "english": "Conquer and urge forward your praisers; bestow progeny and bestow wealth — together with Dawn and with the Sun — bestow vigour upon us, O Aśvins."
+  },
+  {
+    "ref": "8.35.12",
+    "sanskrit": "ha̱taṁ ca̱ śatrū̱n yata̍taṁ ca mi̱triṇa̍ḥ pra̱jāṁ ca̍ dha̱ttaṁ dravi̍ṇaṁ ca dhattam | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa̱ corja̍ṁ no dhattam aśvinā ||",
+    "english": "Smite the enemies and restrain the friendly ones; bestow progeny and bestow wealth — together with Dawn and with the Sun — bestow vigour upon us, O Aśvins."
+  },
+  {
+    "ref": "8.35.13",
+    "sanskrit": "mi̱trāvaru̍ṇavantā u̱ta dharma̍vantā ma̱rutva̍ntā jari̱tur ga̍cchatho̱ hava̍m | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa cādi̱tyair yā̍tam aśvinā ||",
+    "english": "Together with Mitra-Varuṇa, together with Dharma, together with the Maruts, come you both to the call of the praiser — together with Dawn and with the Sun, come with the Ādityās, O Aśvins."
+  },
+  {
+    "ref": "8.35.14",
+    "sanskrit": "aṅgi̍rasvantā u̱ta viṣṇu̍vantā ma̱rutva̍ntā jari̱tur ga̍cchatho̱ hava̍m | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa cādi̱tyair yā̍tam aśvinā ||",
+    "english": "Together with the Aṅgirasas, together with Viṣṇu, together with the Maruts, come you both to the call of the praiser — together with Dawn and with the Sun, come with the Ādityās, O Aśvins."
+  },
+  {
+    "ref": "8.35.15",
+    "sanskrit": "ṛ̱bhu̱mantā̍ vṛṣaṇā̱ vāja̍vantā ma̱rutva̍ntā jari̱tur ga̍cchatho̱ hava̍m | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa cādi̱tyair yā̍tam aśvinā ||",
+    "english": "Together with the Ṛbhus, O ye bulls, together with the prize-winners, with the Maruts, come you both to the call of the praiser — together with Dawn and with the Sun, come with the Ādityās, O Aśvins."
+  },
+  {
+    "ref": "8.35.16",
+    "sanskrit": "brahma̍ jinvatam u̱ta ji̍nvata̱ṁ dhiyo̍ ha̱taṁ rakṣā̍ṁsi̱ sedha̍ta̱m amī̍vāḥ | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa ca̱ soma̍ṁ sunva̱to a̍śvinā ||",
+    "english": "Quicken the prayer and quicken the inspired thoughts; smite the demons and drive away the diseases — together with Dawn and with the Sun, O Aśvins, come to the soma-presser."
+  },
+  {
+    "ref": "8.35.17",
+    "sanskrit": "kṣa̱traṁ ji̍nvatam u̱ta ji̍nvata̱ṁ nṝn ha̱taṁ rakṣā̍ṁsi̱ sedha̍ta̱m amī̍vāḥ | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa ca̱ soma̍ṁ sunva̱to a̍śvinā ||",
+    "english": "Quicken the royal power and quicken the men; smite the demons and drive away the diseases — together with Dawn and with the Sun, O Aśvins, come to the soma-presser."
+  },
+  {
+    "ref": "8.35.18",
+    "sanskrit": "dhe̱nūr ji̍nvatam u̱ta ji̍nvata̱ṁ viśo̍ ha̱taṁ rakṣā̍ṁsi̱ sedha̍ta̱m amī̍vāḥ | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa ca̱ soma̍ṁ sunva̱to a̍śvinā ||",
+    "english": "Quicken the milk-cows and quicken the clans; smite the demons and drive away the diseases — together with Dawn and with the Sun, O Aśvins, come to the soma-presser."
+  },
+  {
+    "ref": "8.35.19",
+    "sanskrit": "atre̍r iva śṛṇutam pū̱rvyastu̍tiṁ śyā̱vāśva̍sya sunva̱to ma̍dacyutā | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa̱ cāśvi̍nā ti̱roa̍hnyam ||",
+    "english": "Hear the ancient praise of Śyāvāśva as he presses soma, O ye two who are shaken by exhilaration, as once you heard Atri — together with Dawn and with the Sun, O Aśvins, across the day."
+  },
+  {
+    "ref": "8.35.20",
+    "sanskrit": "sargā̍m̐ iva sṛjataṁ suṣṭu̱tīr upa̍ śyā̱vāśva̍sya sunva̱to ma̍dacyutā | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa̱ cāśvi̍nā ti̱roa̍hnyam ||",
+    "english": "Release streams of fine praises toward Śyāvāśva who presses soma, O ye two shaken by exhilaration — together with Dawn and with the Sun, O Aśvins, across the day."
+  },
+  {
+    "ref": "8.35.21",
+    "sanskrit": "ra̱śmīm̐r i̍va yacchatam adhva̱rām̐ upa̍ śyā̱vāśva̍sya sunva̱to ma̍dacyutā | sa̱joṣa̍sā u̱ṣasā̱ sūrye̍ṇa̱ cāśvi̍nā ti̱roa̍hnyam ||",
+    "english": "Guide the reins of the sacrificial rites toward Śyāvāśva who presses soma, O ye two shaken by exhilaration — together with Dawn and with the Sun, O Aśvins, across the day."
+  },
+  {
+    "ref": "8.35.22",
+    "sanskrit": "a̱rvāg ratha̱ṁ ni ya̍cchata̱m piba̍taṁ so̱myam madhu̍ | ā yā̍tam aśvi̱nā ga̍tam ava̱syur vā̍m a̱haṁ hu̍ve dha̱ttaṁ ratnā̍ni dā̱śuṣe̍ ||",
+    "english": "Turn the chariot hither, drink the sweet soma; come here, O Aśvins — I call upon you both with desire for aid; bestow treasures upon the worshipper."
+  },
+  {
+    "ref": "8.35.23",
+    "sanskrit": "na̱mo̱vā̱ke prasthi̍te adhva̱re na̍rā vi̱vakṣa̍ṇasya pī̱taye̍ | ā yā̍tam aśvi̱nā ga̍tam ava̱syur vā̍m a̱haṁ hu̍ve dha̱ttaṁ ratnā̍ni dā̱śuṣe̍ ||",
+    "english": "O ye heroes, when the reverential call is set forth at the sacrifice, to drink the soma-drink — come here, O Aśvins; I call upon you both with desire for aid; bestow treasures upon the worshipper."
+  },
+  {
+    "ref": "8.35.24",
+    "sanskrit": "svāhā̍kṛtasya tṛmpataṁ su̱tasya̍ devā̱v andha̍saḥ | ā yā̍tam aśvi̱nā ga̍tam ava̱syur vā̍m a̱haṁ hu̍ve dha̱ttaṁ ratnā̍ni dā̱śuṣe̍ ||",
+    "english": "Be sated, O divine pair, with the soma-draught prepared with svāhā — come here, O Aśvins; I call upon you both with desire for aid; bestow treasures upon the worshipper."
+  },
+  {
+    "ref": "8.36.1",
+    "sanskrit": "a̱vi̱tāsi̍ sunva̱to vṛ̱ktaba̍rhiṣa̱ḥ pibā̱ soma̱m madā̍ya̱ kaṁ śa̍takrato | yaṁ te̍ bhā̱gam adhā̍raya̱n viśvā̍ḥ sehā̱naḥ pṛta̍nā u̱ru jraya̱ḥ sam a̍psu̱jin ma̱rutvā̍m̐ indra satpate ||",
+    "english": "You are the protector of the soma-presser who has spread the sacred grass; drink the soma for exhilaration, O Śatakratu — that share which all-conquering armies have preserved for you, striding widely, meeting in the waters — O Indra accompanied by the Maruts, O lord of the good."
+  },
+  {
+    "ref": "8.36.2",
+    "sanskrit": "prāva̍ sto̱tāra̍m maghava̱nn ava̱ tvām pibā̱ soma̱m madā̍ya̱ kaṁ śa̍takrato | yaṁ te̍ bhā̱gam adhā̍raya̱n viśvā̍ḥ sehā̱naḥ pṛta̍nā u̱ru jraya̱ḥ sam a̍psu̱jin ma̱rutvā̍m̐ indra satpate ||",
+    "english": "Help the praiser, O Maghavan, he who helps you; drink the soma for exhilaration, O Śatakratu — that share which all-conquering armies have preserved for you, striding widely, meeting in the waters — O Indra accompanied by the Maruts, O lord of the good."
+  },
+  {
+    "ref": "8.36.3",
+    "sanskrit": "ū̱rjā de̱vām̐ ava̱sy oja̍sā̱ tvām pibā̱ soma̱m madā̍ya̱ kaṁ śa̍takrato | yaṁ te̍ bhā̱gam adhā̍raya̱n viśvā̍ḥ sehā̱naḥ pṛta̍nā u̱ru jraya̱ḥ sam a̍psu̱jin ma̱rutvā̍m̐ indra satpate ||",
+    "english": "With nourishment protect the gods; with strength protect yourself; drink the soma for exhilaration, O Śatakratu — that share which all-conquering armies have preserved for you, striding widely, meeting in the waters — O Indra accompanied by the Maruts, O lord of the good."
+  },
+  {
+    "ref": "8.36.4",
+    "sanskrit": "ja̱ni̱tā di̱vo ja̍ni̱tā pṛ̍thi̱vyāḥ pibā̱ soma̱m madā̍ya̱ kaṁ śa̍takrato | yaṁ te̍ bhā̱gam adhā̍raya̱n viśvā̍ḥ sehā̱naḥ pṛta̍nā u̱ru jraya̱ḥ sam a̍psu̱jin ma̱rutvā̍m̐ indra satpate ||",
+    "english": "Begetter of heaven, begetter of the earth; drink the soma for exhilaration, O Śatakratu — that share which all-conquering armies have preserved for you, striding widely, meeting in the waters — O Indra accompanied by the Maruts, O lord of the good."
+  },
+  {
+    "ref": "8.36.5",
+    "sanskrit": "ja̱ni̱tāśvā̍nāṁ jani̱tā gavā̍m asi̱ pibā̱ soma̱m madā̍ya̱ kaṁ śa̍takrato | yaṁ te̍ bhā̱gam adhā̍raya̱n viśvā̍ḥ sehā̱naḥ pṛta̍nā u̱ru jraya̱ḥ sam a̍psu̱jin ma̱rutvā̍m̐ indra satpate ||",
+    "english": "You are the begetter of horses, the begetter of cattle; drink the soma for exhilaration, O Śatakratu — that share which all-conquering armies have preserved for you, striding widely, meeting in the waters — O Indra accompanied by the Maruts, O lord of the good."
+  },
+  {
+    "ref": "8.36.6",
+    "sanskrit": "atrī̍ṇā̱ṁ stoma̍m adrivo ma̱has kṛ̍dhi̱ pibā̱ soma̱m madā̍ya̱ kaṁ śa̍takrato | yaṁ te̍ bhā̱gam adhā̍raya̱n viśvā̍ḥ sehā̱naḥ pṛta̍nā u̱ru jraya̱ḥ sam a̍psu̱jin ma̱rutvā̍m̐ indra satpate ||",
+    "english": "Make the hymn of the Atris great, O stone-armed one; drink the soma for exhilaration, O Śatakratu — that share which all-conquering armies have preserved for you, striding widely, meeting in the waters — O Indra accompanied by the Maruts, O lord of the good."
+  },
+  {
+    "ref": "8.36.7",
+    "sanskrit": "śyā̱vāśva̍sya sunva̱tas tathā̍ śṛṇu̱ yathāśṛ̍ṇo̱r atre̱ḥ karmā̍ṇi kṛṇva̱taḥ | pra tra̱sada̍syum āvitha̱ tvam eka̱ in nṛ̱ṣāhya̱ indra̱ brahmā̍ṇi va̱rdhaya̍n ||",
+    "english": "Hear thus Śyāvāśva pressing soma, as you heard Atri performing his deeds; you alone protected Trasadasyu, O hero-overpowering Indra, making the prayers grow."
+  },
+  {
+    "ref": "8.37.1",
+    "sanskrit": "predam brahma̍ vṛtra̱tūrye̍ṣv āvitha̱ pra su̍nva̱taḥ śa̍cīpata̱ indra̱ viśvā̍bhir ū̱tibhi̍ḥ | mādhya̍ṁdinasya̱ sava̍nasya vṛtrahann anedya̱ pibā̱ soma̍sya vajrivaḥ ||",
+    "english": "Mightily have you protected this prayer in the slayings of Vṛtra; protect the soma-presser, O lord of might, Indra, with all your aids; O Vṛtra-slayer, beyond reproach, O bearer of the vajra, drink of the midday soma-pressing."
+  },
+  {
+    "ref": "8.37.2",
+    "sanskrit": "se̱hā̱na u̍gra̱ pṛta̍nā a̱bhi druha̍ḥ śacīpata̱ indra̱ viśvā̍bhir ū̱tibhi̍ḥ | mādhya̍ṁdinasya̱ sava̍nasya vṛtrahann anedya̱ pibā̱ soma̍sya vajrivaḥ ||",
+    "english": "Overpowering, fierce against the armies, against the deceivers, O lord of might, Indra, with all your aids; O Vṛtra-slayer, beyond reproach, O bearer of the vajra, drink of the midday soma-pressing."
+  },
+  {
+    "ref": "8.37.3",
+    "sanskrit": "e̱ka̱rāḻ a̱sya bhuva̍nasya rājasi śacīpata̱ indra̱ viśvā̍bhir ū̱tibhi̍ḥ | mādhya̍ṁdinasya̱ sava̍nasya vṛtrahann anedya̱ pibā̱ soma̍sya vajrivaḥ ||",
+    "english": "You reign as sole king over this world, O lord of might, Indra, with all your aids; O Vṛtra-slayer, beyond reproach, O bearer of the vajra, drink of the midday soma-pressing."
+  },
+  {
+    "ref": "8.37.4",
+    "sanskrit": "sa̱sthāvā̍nā yavayasi̱ tvam eka̱ ic cha̍cīpata̱ indra̱ viśvā̍bhir ū̱tibhi̍ḥ | mādhya̍ṁdinasya̱ sava̍nasya vṛtrahann anedya̱ pibā̱ soma̍sya vajrivaḥ ||",
+    "english": "You alone drive away both the moving and the stationary, O lord of might, Indra, with all your aids; O Vṛtra-slayer, beyond reproach, O bearer of the vajra, drink of the midday soma-pressing."
+  },
+  {
+    "ref": "8.37.5",
+    "sanskrit": "kṣema̍sya ca pra̱yuja̍ś ca̱ tvam ī̍śiṣe śacīpata̱ indra̱ viśvā̍bhir ū̱tibhi̍ḥ | mādhya̍ṁdinasya̱ sava̍nasya vṛtrahann anedya̱ pibā̱ soma̍sya vajrivaḥ ||",
+    "english": "You rule over security and over its means of attainment, O lord of might, Indra, with all your aids; O Vṛtra-slayer, beyond reproach, O bearer of the vajra, drink of the midday soma-pressing."
+  },
+  {
+    "ref": "8.37.6",
+    "sanskrit": "kṣa̱trāya̍ tva̱m ava̍si̱ na tva̍m āvitha śacīpata̱ indra̱ viśvā̍bhir ū̱tibhi̍ḥ | mādhya̍ṁdinasya̱ sava̍nasya vṛtrahann anedya̱ pibā̱ soma̍sya vajrivaḥ ||",
+    "english": "You protect for the sake of dominion; it is you who protect, O lord of might, Indra, with all your aids; O Vṛtra-slayer, beyond reproach, O bearer of the vajra, drink of the midday soma-pressing."
+  },
+  {
+    "ref": "8.37.7",
+    "sanskrit": "śyā̱vāśva̍sya̱ rebha̍ta̱s tathā̍ śṛṇu̱ yathāśṛ̍ṇo̱r atre̱ḥ karmā̍ṇi kṛṇva̱taḥ | pra tra̱sada̍syum āvitha̱ tvam eka̱ in nṛ̱ṣāhya̱ indra̍ kṣa̱trāṇi̍ va̱rdhaya̍n ||",
+    "english": "Hear thus Śyāvāśva singing aloud, as you heard Atri performing his deeds; you alone protected Trasadasyu, O hero-overpowering Indra, making royal powers grow."
+  },
+  {
+    "ref": "8.38.1",
+    "sanskrit": "ya̱jñasya̱ hi stha ṛ̱tvijā̱ sasnī̱ vāje̍ṣu̱ karma̍su | indrā̍gnī̱ tasya̍ bodhatam ||",
+    "english": "You two are indeed the ritual priests of the sacrifice, victorious in prize-winnings and in deeds — O Indrāgnī, be aware of this."
+  },
+  {
+    "ref": "8.38.2",
+    "sanskrit": "to̱śāsā̍ ratha̱yāvā̍nā vṛtra̱haṇāpa̍rājitā | indrā̍gnī̱ tasya̍ bodhatam ||",
+    "english": "You two, hastening your chariot, are the slayers of Vṛtra and unconquered — O Indrāgnī, be aware of this."
+  },
+  {
+    "ref": "8.38.3",
+    "sanskrit": "i̱daṁ vā̍m madi̱ram madhv adhu̍kṣa̱nn adri̍bhi̱r nara̍ḥ | indrā̍gnī̱ tasya̍ bodhatam ||",
+    "english": "This sweet, intoxicating drink the men have milked with the pressing-stones for you two — O Indrāgnī, be aware of this."
+  },
+  {
+    "ref": "8.38.4",
+    "sanskrit": "ju̱ṣethā̍ṁ ya̱jñam i̱ṣṭaye̍ su̱taṁ soma̍ṁ sadhastutī | indrā̍gnī̱ ā ga̍taṁ narā ||",
+    "english": "Be pleased with the sacrifice for the attainment of desires, with the pressed soma — ye who are praised together — O Indrāgnī, come hither, O heroes."
+  },
+  {
+    "ref": "8.38.5",
+    "sanskrit": "i̱mā ju̍ṣethā̱ṁ sava̍nā̱ yebhi̍r ha̱vyāny ū̱hathu̍ḥ | indrā̍gnī̱ ā ga̍taṁ narā ||",
+    "english": "Be pleased with these pressings by which you have been offered the oblations — O Indrāgnī, come hither, O heroes."
+  },
+  {
+    "ref": "8.38.6",
+    "sanskrit": "i̱māṁ gā̍ya̱trava̍rtaniṁ ju̱ṣethā̍ṁ suṣṭu̱tim mama̍ | indrā̍gnī̱ ā ga̍taṁ narā ||",
+    "english": "Be pleased with this my fine praise that moves in the Gāyatrī metre — O Indrāgnī, come hither, O heroes."
+  },
+  {
+    "ref": "8.38.7",
+    "sanskrit": "prā̱ta̱ryāva̍bhi̱r ā ga̍taṁ de̱vebhi̍r jenyāvasū | indrā̍gnī̱ soma̍pītaye ||",
+    "english": "Come with the morning rites, with the gods, O ye two whose wealth is desirable — O Indrāgnī, to drink the soma."
+  },
+  {
+    "ref": "8.38.8",
+    "sanskrit": "śyā̱vāśva̍sya sunva̱to 'trī̍ṇāṁ śṛṇuta̱ṁ hava̍m | indrā̍gnī̱ soma̍pītaye ||",
+    "english": "Hear the invocation of Śyāvāśva who presses soma, and of the Atris — O Indrāgnī, to drink the soma."
+  },
+  {
+    "ref": "8.38.9",
+    "sanskrit": "e̱vā vā̍m ahva ū̱taye̱ yathāhu̍vanta̱ medhi̍rāḥ | indrā̍gnī̱ soma̍pītaye ||",
+    "english": "Thus I have invoked you both for aid, just as the wise invoke you — O Indrāgnī, to drink the soma."
+  },
+  {
+    "ref": "8.38.10",
+    "sanskrit": "āhaṁ sara̍svatīvator indrā̱gnyor avo̍ vṛṇe | yābhyā̍ṁ gāya̱tram ṛ̱cyate̍ ||",
+    "english": "I choose the protection of Indrāgnī, who are accompanied by Sarasvatī — in whose honour the Gāyatrī is chanted."
+  },
+  {
+    "ref": "8.39.1",
+    "sanskrit": "a̱gnim a̍stoṣy ṛ̱gmiya̍m a̱gnim ī̱ḻā ya̱jadhyai̍ | a̱gnir de̱vām̐ a̍naktu na u̱bhe hi vi̱dathe̍ ka̱vir a̱ntaś cara̍ti dū̱tya1̱̍ṁ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "I have praised Agni, worthy of hymns; Agni is to be praised and worshipped; may Agni anoint us among the gods — for the seer moves as messenger between both the assemblies. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.39.2",
+    "sanskrit": "ny a̍gne̱ navya̍sā̱ vaca̍s ta̱nūṣu̱ śaṁsa̍m eṣām | ny arā̍tī̱ rarā̍vṇā̱ṁ viśvā̍ a̱ryo arā̍tīr i̱to yu̍cchantv ā̱muro̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "O Agni, set down upon our bodies with fresh speech the praise of these worshippers; set down upon the miserly the hostility of all — may the foe's hostilities depart from here, the witless one. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.39.3",
+    "sanskrit": "agne̱ manmā̍ni̱ tubhya̱ṁ kaṁ ghṛ̱taṁ na ju̍hva ā̱sani̍ | sa de̱veṣu̱ pra ci̍kiddhi̱ tvaṁ hy asi̍ pū̱rvyaḥ śi̱vo dū̱to vi̱vasva̍to̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "O Agni, the prayers for you are poured as ghee upon the mouth; make those known among the gods — for you are the ancient, the beneficent messenger of Vivasvat. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.39.4",
+    "sanskrit": "tat-ta̍d a̱gnir vayo̍ dadhe̱ yathā̍-yathā kṛpa̱ṇyati̍ | ū̱rjāhu̍ti̱r vasū̍nā̱ṁ śaṁ ca̱ yoś ca̱ mayo̍ dadhe̱ viśva̍syai de̱vahū̍tyai̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Agni bestows sustenance just as the pitiful one supplicates; the oblation of nourishment of the Vasus, and happiness and welfare, he bestows for every divine invocation. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.39.5",
+    "sanskrit": "sa ci̍keta̱ sahī̍yasā̱gniś ci̱treṇa̱ karma̍ṇā | sa hotā̱ śaśva̍tīnā̱ṁ dakṣi̍ṇābhir a̱bhīvṛ̍ta i̱noti̍ ca pratī̱vya1̱̍ṁ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Agni perceived with the more powerful by wondrous deeds; he is the Hotṛ encompassed with gifts for all time, and he drives off the adversary. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.39.6",
+    "sanskrit": "a̱gnir jā̱tā de̱vānā̍m a̱gnir ve̍da̱ martā̍nām apī̱cya̍m | a̱gniḥ sa dra̍viṇo̱dā a̱gnir dvārā̱ vy ū̍rṇute̱ svā̍huto̱ navī̍yasā̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Agni is the birth-place of the gods; Agni knows the secret of mortals; Agni is the bestower of wealth; Agni, well-invoked, opens the doors with fresh oblation. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.39.7",
+    "sanskrit": "a̱gnir de̱veṣu̱ saṁva̍su̱ḥ sa vi̱kṣu ya̱jñiyā̱sv ā | sa mu̱dā kāvyā̍ pu̱ru viśva̱m bhūme̍va puṣyati de̱vo de̱veṣu̍ ya̱jñiyo̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Agni dwells together with the gods; he is among the clans in the sacrificial assemblies; he joyfully nourishes the many poetic visions, everything, like the earth — the divine and sacrificeable one among the gods. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.39.8",
+    "sanskrit": "yo a̱gniḥ sa̱ptamā̍nuṣaḥ śri̱to viśve̍ṣu̱ sindhu̍ṣu | tam āga̍nma tripa̱styam ma̍ndhā̱tur da̍syu̱hanta̍mam a̱gniṁ ya̱jñeṣu̍ pū̱rvyaṁ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "That Agni who is Saptamānuṣa, who resides in all the rivers — to him we have come, the triple-stationed one, belonging to Mandhātṛ, the greatest slayer of Dasyus, the ancient Agni at the sacrifices. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.39.9",
+    "sanskrit": "a̱gnis trīṇi̍ tri̱dhātū̱ny ā kṣe̍ti vi̱dathā̍ ka̱viḥ | sa trīm̐r e̍kāda̱śām̐ i̱ha yakṣa̍c ca pi̱praya̍c ca no̱ vipro̍ dū̱taḥ pari̍ṣkṛto̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Agni, the seer, dwells upon the three triple-layered realms; the inspired messenger, perfectly formed, shall here worship and delight us with the three sets of eleven. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.39.10",
+    "sanskrit": "tvaṁ no̍ agna ā̱yuṣu̱ tvaṁ de̱veṣu̍ pūrvya̱ vasva̱ eka̍ irajyasi | tvām āpa̍ḥ pari̱sruta̱ḥ pari̍ yanti̱ svase̍tavo̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "You alone, O Agni, ancient one, rule over our life-forces, over wealth among the gods; the flowing waters with their own banks circle around you. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.1",
+    "sanskrit": "indrā̍gnī yu̱vaṁ su na̱ḥ saha̍ntā̱ dāsa̍tho ra̱yim | yena̍ dṛ̱ḻhā sa̱matsv ā vī̱ḻu ci̍t sāhiṣī̱mahy a̱gnir vane̍va̱ vāta̱ in nabha̍ntām anya̱ke sa̍me ||",
+    "english": "O Indrāgnī, you two conquering heroes bestow riches upon us — wealth whereby even in the contests we might overcome what is firmly fixed and strong, as fire in the forest with the wind. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.2",
+    "sanskrit": "na̱hi vā̍ṁ va̱vrayā̍ma̱he 'thendra̱m id ya̍jāmahe̱ śavi̍ṣṭhaṁ nṛ̱ṇāṁ nara̍m | sa na̍ḥ ka̱dā ci̱d arva̍tā̱ gama̱d ā vāja̍sātaye̱ gama̱d ā me̱dhasā̍taye̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "We do not choose you two by exclusion — we indeed worship Indra, the mightiest, the hero among men; may he come to us at some time with his steed for the winning of prizes, may he come for the winning of sacrifice. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.3",
+    "sanskrit": "tā hi madhya̱m bharā̍ṇām indrā̱gnī a̍dhikṣi̱taḥ | tā u̍ kavitva̱nā ka̱vī pṛ̱cchyamā̍nā sakhīya̱te saṁ dhī̱tam a̍śnutaṁ narā̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Those two, Indrāgnī, are settled in the middle of sustenance; those two seers with their poet-wisdom, when questioned, come together in friendship and together attain what is laid down, O heroes. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.4",
+    "sanskrit": "a̱bhy a̍rca nabhāka̱vad i̍ndrā̱gnī ya̱jasā̍ gi̱rā | yayo̱r viśva̍m i̱daṁ jaga̍d i̱yaṁ dyauḥ pṛ̍thi̱vī ma̱hy u1̱̍pasthe̍ bibhṛ̱to vasu̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Praise Indrāgnī with song and hymn as Nabhāka did — those two in whose great lap this whole moving world, yonder heaven and earth, carry their treasure. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.5",
+    "sanskrit": "pra brahmā̍ṇi nabhāka̱vad i̍ndrā̱gnibhyā̍m irajyata | yā sa̱pta bu̍dhnam arṇa̱vaṁ ji̱hmabā̍ram aporṇu̱ta indra̱ īśā̍na̱ oja̍sā̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Send forth the prayers to Indrāgnī as Nabhāka did — those prayers that uncovered the ocean with seven foundations, with the oblique shore — Indra the ruler by his power. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.6",
+    "sanskrit": "api̍ vṛśca purāṇa̱vad vra̱tate̍r iva guṣpi̱tam ojo̍ dā̱sasya̍ dambhaya | va̱yaṁ tad a̍sya̱ sambhṛ̍ta̱ṁ vasv indre̍ṇa̱ vi bha̍jemahi̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Cut away as of old, deceive the Dāsa's swelling power as one lops a tree's branch; may we share out that accumulated wealth of his together with Indra. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.7",
+    "sanskrit": "yad i̍ndrā̱gnī janā̍ i̱me vi̱hvaya̍nte̱ tanā̍ gi̱rā | a̱smāke̍bhi̱r nṛbhi̍r va̱yaṁ sā̍sa̱hyāma̍ pṛtanya̱to va̍nu̱yāma̍ vanuṣya̱to nabha̍ntām anya̱ke sa̍me ||",
+    "english": "When these peoples call upon Indrāgnī with their lineages and hymns, may we, with our heroes, overcome those who battle against us and conquer those who would conquer us. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.8",
+    "sanskrit": "yā nu śve̱tāv a̱vo di̱va u̱ccarā̍ta̱ upa̱ dyubhi̍ḥ | i̱ndrā̱gnyor anu̍ vra̱tam uhā̍nā yanti̱ sindha̍vo̱ yān sī̍m ba̱ndhād amu̍ñcatā̱ṁ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Those two that are white, rising upward from heaven, moving alongside the days — the rivers following the ordinance of Indrāgnī go along, those which they two released from their bond. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.9",
+    "sanskrit": "pū̱rvīṣ ṭa̍ i̱ndropa̍mātayaḥ pū̱rvīr u̱ta praśa̍staya̱ḥ sūno̍ hi̱nvasya̍ harivaḥ | vasvo̍ vī̱rasyā̱pṛco̱ yā nu sādha̍nta no̱ dhiyo̱ nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Many are your similar forms, O Indra, many too your praised deeds, O son of Hinva, O tawny-steeded one; may those who are the sources of heroic wealth now accomplish our inspired thoughts. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.10",
+    "sanskrit": "taṁ śi̍śītā suvṛ̱ktibhi̍s tve̱ṣaṁ satvā̍nam ṛ̱gmiya̍m | u̱to nu ci̱d ya oja̍sā̱ śuṣṇa̍syā̱ṇḍāni̱ bheda̍ti̱ jeṣa̱t sva̍rvatīr a̱po nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Whet him with fine praises — the resplendent champion worthy of hymns; and may he who by his strength shatters Śuṣṇa's eggs conquer the water-bearing streams. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.11",
+    "sanskrit": "taṁ śi̍śītā svadhva̱raṁ sa̱tyaṁ satvā̍nam ṛ̱tviya̍m | u̱to nu ci̱d ya oha̍ta ā̱ṇḍā śuṣṇa̍sya̱ bheda̱ty ajai̍ḥ sva̍rvatīr a̱po nabha̍ntām anya̱ke sa̍me ||",
+    "english": "Whet him who conducts the sacrifice well, the true champion, the seasonable one; and may he who shatters with unstoppable force the eggs of Śuṣṇa conquer the water-bearing streams. Let the others on the same side be confounded."
+  },
+  {
+    "ref": "8.40.12",
+    "sanskrit": "e̱vendrā̱gnibhyā̍m pitṛ̱van navī̍yo mandhātṛ̱vad a̍ṅgira̱svad a̍vāci | tri̱dhātu̍nā̱ śarma̍ṇā pātam a̱smān va̱yaṁ syā̍ma̱ pata̍yo rayī̱ṇām ||",
+    "english": "Thus to Indrāgnī in the manner of the Fathers, newly, as Mandhātṛ and the Aṅgirasas declared: protect us with threefold shelter — may we be lords of riches."
+  }
+]

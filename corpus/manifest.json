@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T04:47:47.814Z",
+  "generated_at": "2026-06-27T16:21:07.480Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1836,
-    "authors": 442,
+    "works": 1838,
+    "authors": 444,
     "eras": 10,
-    "genres": 32,
+    "genres": 34,
     "languages": 9
   },
   "works": [
@@ -34892,6 +34892,44 @@
       "difficulty": "Advanced",
       "description": "Brahmabindūpaniṣad, a Sanskrit philosophical text by Unknown, with transliteration and Thothica's English translation from the GRETIL source text. An Atharvaveda Upaniṣad; source edition by Rāmamaya Tarkaratna, 1872.",
       "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "rigveda-aufrecht",
+      "title": "Rigveda",
+      "author": "Aufrecht (ed.)",
+      "author_slug": "aufrecht-ed",
+      "era": "Ancient",
+      "era_slug": "ancient",
+      "genre": "Vedic Literature",
+      "genre_slug": "vedic-literature",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 10,
+      "total_variant_entries": 20,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Rigveda, a Sanskrit Vedic Literature by Aufrecht (ed.), with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "valmiki-ramayana",
+      "title": "Vālmīki Rāmāyaṇa",
+      "author": "Vālmīki",
+      "author_slug": "valmiki",
+      "era": "Ancient",
+      "era_slug": "ancient",
+      "genre": "Epic",
+      "genre_slug": "epic",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 7,
+      "total_variant_entries": 14,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Vālmīki Rāmāyaṇa, a Sanskrit Epic by Vālmīki, with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
     }
   ],
   "authors": {
@@ -38940,6 +38978,18 @@
       "works": [
         "asanga-sarirarthagatha-503db2"
       ]
+    },
+    "aufrecht-ed": {
+      "name": "Aufrecht (ed.)",
+      "works": [
+        "rigveda-aufrecht"
+      ]
+    },
+    "valmiki": {
+      "name": "Vālmīki",
+      "works": [
+        "valmiki-ramayana"
+      ]
     }
   },
   "eras": {
@@ -38994,7 +39044,9 @@
         "anonymous-abhisamayalankaravivarana-fb5202",
         "annambhatta-tarkasamgraha-a21ed4",
         "asanga-sarirarthagatha-503db2",
-        "unknown-brahmabindupanisad-7fe70b"
+        "unknown-brahmabindupanisad-7fe70b",
+        "rigveda-aufrecht",
+        "valmiki-ramayana"
       ]
     },
     "20th-century": {
@@ -42826,6 +42878,18 @@
       "works": [
         "harpocration-lexicon-of-the-ten-attic-orators-a57385"
       ]
+    },
+    "vedic-literature": {
+      "name": "Vedic Literature",
+      "works": [
+        "rigveda-aufrecht"
+      ]
+    },
+    "epic": {
+      "name": "Epic",
+      "works": [
+        "valmiki-ramayana"
+      ]
     }
   },
   "languages": {
@@ -42862,7 +42926,9 @@
         "anonymous-abhisamayalankaravivarana-fb5202",
         "annambhatta-tarkasamgraha-a21ed4",
         "asanga-sarirarthagatha-503db2",
-        "unknown-brahmabindupanisad-7fe70b"
+        "unknown-brahmabindupanisad-7fe70b",
+        "rigveda-aufrecht",
+        "valmiki-ramayana"
       ]
     },
     "urdu": {

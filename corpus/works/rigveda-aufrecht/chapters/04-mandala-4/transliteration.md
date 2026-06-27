@@ -1,0 +1,2374 @@
+---
+work_id: "2c0b1439-eafa-5815-9954-ae950af82941"
+work_slug: "rigveda-aufrecht"
+work_title: Rigveda
+author_name: Aufrecht (ed.)
+chapter_number: 4
+chapter_title: Maṇḍala 4
+chapter_slug: "04-mandala-4"
+variant_id: "3ff22951-d516-5f7f-8668-93cf49f81968"
+content_type: transliteration
+layout: verse
+language: Sanskrit
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 11074
+transliterator: thothica
+---
+
+**4.1.1**
+
+tvāṁ hy a̍gne̱ sada̱m it sa̍ma̱nyavo̍ de̱vāso̍ de̱vam a̍ra̱tiṁ nye̍ri̱ra iti̱ kratvā̍ nyeri̱re | ama̍rtyaṁ yajata̱ martye̱ṣv ā de̱vam āde̍vaṁ janata̱ prace̍tasa̱ṁ viśva̱m āde̍vaṁ janata̱ prace̍tasam ||
+
+**4.1.2**
+
+sa bhrāta̍ra̱ṁ varu̍ṇam agna̱ ā va̍vṛtsva de̱vām̐ acchā̍ suma̱tī ya̱jñava̍nasa̱ṁ jyeṣṭha̍ṁ ya̱jñava̍nasam | ṛ̱tāvā̍nam ādi̱tyaṁ ca̍rṣaṇī̱dhṛta̱ṁ rājā̍naṁ carṣaṇī̱dhṛta̍m ||
+
+**4.1.3**
+
+sakhe̱ sakhā̍yam a̱bhy ā va̍vṛtsvā̱śuṁ na ca̱kraṁ rathye̍va̱ raṁhyā̱smabhya̍ṁ dasma̱ raṁhyā̍ | agne̍ mṛḻī̱kaṁ varu̍ṇe̱ sacā̍ vido ma̱rutsu̍ vi̱śvabhā̍nuṣu | to̱kāya̍ tu̱je śu̍śucāna̱ śaṁ kṛ̍dhy a̱smabhya̍ṁ dasma̱ śaṁ kṛ̍dhi ||
+
+**4.1.4**
+
+tvaṁ no̍ agne̱ varu̍ṇasya vi̱dvān de̱vasya̱ heḻo 'va̍ yāsisīṣṭhāḥ | yaji̍ṣṭho̱ vahni̍tama̱ḥ śośu̍cāno̱ viśvā̱ dveṣā̍ṁsi̱ pra mu̍mugdhy a̱smat ||
+
+**4.1.5**
+
+sa tvaṁ no̍ agne 'va̱mo bha̍vo̱tī nedi̍ṣṭho a̱syā u̱ṣaso̱ vyu̍ṣṭau | ava̍ yakṣva no̱ varu̍ṇa̱ṁ rarā̍ṇo vī̱hi mṛ̍ḻī̱kaṁ su̱havo̍ na edhi ||
+
+**4.1.6**
+
+a̱sya śreṣṭhā̍ su̱bhaga̍sya sa̱ṁdṛg de̱vasya̍ ci̱trata̍mā̱ martye̍ṣu | śuci̍ ghṛ̱taṁ na ta̱ptam aghnyā̍yāḥ spā̱rhā de̱vasya̍ ma̱ṁhane̍va dhe̱noḥ ||
+
+**4.1.7**
+
+trir a̍sya̱ tā pa̍ra̱mā sa̍nti sa̱tyā spā̱rhā de̱vasya̱ jani̍māny a̱gneḥ | a̱na̱nte a̱ntaḥ pari̍vīta̱ āgā̱c chuci̍ḥ śu̱kro a̱ryo roru̍cānaḥ ||
+
+**4.1.8**
+
+sa dū̱to viśved a̱bhi va̍ṣṭi̱ sadmā̱ hotā̱ hira̍ṇyaratho̱ raṁsu̍jihvaḥ | ro̱hida̍śvo vapu̱ṣyo̍ vi̱bhāvā̱ sadā̍ ra̱ṇvaḥ pi̍tu̱matī̍va sa̱ṁsat ||
+
+**4.1.9**
+
+sa ce̍taya̱n manu̍ṣo ya̱jñaba̍ndhu̱ḥ pra tam ma̱hyā ra̍śa̱nayā̍ nayanti | sa kṣe̍ty asya̱ duryā̍su̱ sādha̍n de̱vo marta̍sya sadhani̱tvam ā̍pa ||
+
+**4.1.10**
+
+sa tū no̍ a̱gnir na̍yatu prajā̱nann acchā̱ ratna̍ṁ de̱vabha̍kta̱ṁ yad a̍sya | dhi̱yā yad viśve̍ a̱mṛtā̱ akṛ̍ṇva̱n dyauṣ pi̱tā ja̍ni̱tā sa̱tyam u̍kṣan ||
+
+**4.1.11**
+
+sa jā̍yata pratha̱maḥ pa̱styā̍su ma̱ho bu̱dhne raja̍so a̱sya yonau̍ | a̱pād a̍śī̱rṣā gu̱hamā̍no̱ antā̱yoyu̍vāno vṛṣa̱bhasya̍ nī̱ḻe ||
+
+**4.1.12**
+
+pra śardha̍ ārta pratha̱maṁ vi̍pa̱nyām̐ ṛ̱tasya̱ yonā̍ vṛṣa̱bhasya̍ nī̱ḻe | spā̱rho yuvā̍ vapu̱ṣyo̍ vi̱bhāvā̍ sa̱pta pri̱yāso̍ 'janayanta̱ vṛṣṇe̍ ||
+
+**4.1.13**
+
+a̱smāka̱m atra̍ pi̱taro̍ manu̱ṣyā̍ a̱bhi pra se̍dur ṛ̱tam ā̍śuṣā̱ṇāḥ | aśma̍vrajāḥ su̱dughā̍ va̱vre a̱ntar ud u̱srā ā̍jann u̱ṣaso̍ huvā̱nāḥ ||
+
+**4.1.14**
+
+te ma̍rmṛjata dadṛ̱vāṁso̱ adri̱ṁ tad e̍ṣām a̱nye a̱bhito̱ vi vo̍can | pa̱śvaya̍ntrāso a̱bhi kā̱ram a̍rcan vi̱danta̱ jyoti̍ś cakṛ̱panta̍ dhī̱bhiḥ ||
+
+**4.1.15**
+
+te ga̍vya̱tā mana̍sā dṛ̱dhram u̱bdhaṁ gā ye̍mā̱nam pari̱ ṣanta̱m adri̍m | dṛ̱ḻhaṁ naro̱ vaca̍sā̱ daivye̍na vra̱jaṁ goma̍ntam u̱śijo̱ vi va̍vruḥ ||
+
+**4.1.16**
+
+te ma̍nvata pratha̱maṁ nāma̍ dhe̱nos triḥ sa̱pta mā̱tuḥ pa̍ra̱māṇi̍ vindan | taj jā̍na̱tīr a̱bhy a̍nūṣata̱ vrā ā̱vir bhu̍vad aru̱ṇīr ya̱śasā̱ goḥ ||
+
+**4.1.17**
+
+neśa̱t tamo̱ dudhi̍ta̱ṁ roca̍ta̱ dyaur ud de̱vyā u̱ṣaso̍ bhā̱nur a̍rta | ā sūryo̍ bṛha̱tas ti̍ṣṭha̱d ajrā̍m̐ ṛ̱ju marte̍ṣu vṛji̱nā ca̱ paśya̍n ||
+
+**4.1.18**
+
+ād it pa̱ścā bu̍budhā̱nā vy a̍khya̱nn ād id ratna̍ṁ dhārayanta̱ dyubha̍ktam | viśve̱ viśvā̍su̱ duryā̍su de̱vā mitra̍ dhi̱ye va̍ruṇa sa̱tyam a̍stu ||
+
+**4.1.19**
+
+acchā̍ voceya śuśucā̱nam a̱gniṁ hotā̍raṁ vi̱śvabha̍rasa̱ṁ yaji̍ṣṭham | śucy ūdho̍ atṛṇa̱n na gavā̱m andho̱ na pū̱tam pari̍ṣiktam a̱ṁśoḥ ||
+
+**4.1.20**
+
+viśve̍ṣā̱m adi̍tir ya̱jñiyā̍nā̱ṁ viśve̍ṣā̱m ati̍thi̱r mānu̍ṣāṇām | a̱gnir de̱vānā̱m ava̍ āvṛṇā̱naḥ su̍mṛḻī̱ko bha̍vatu jā̱tave̍dāḥ ||
+
+**4.2.1**
+
+yo martye̍ṣv a̱mṛta̍ ṛ̱tāvā̍ de̱vo de̱veṣv a̍ra̱tir ni̱dhāyi̍ | hotā̱ yaji̍ṣṭho ma̱hnā śu̱cadhyai̍ ha̱vyair a̱gnir manu̍ṣa īra̱yadhyai̍ ||
+
+**4.2.2**
+
+i̱ha tvaṁ sū̍no sahaso no a̱dya jā̱to jā̱tām̐ u̱bhayā̍m̐ a̱ntar a̍gne | dū̱ta ī̍yase yuyujā̱na ṛ̍ṣva ṛjumu̱ṣkān vṛṣa̍ṇaḥ śu̱krām̐ś ca̍ ||
+
+**4.2.3**
+
+atyā̍ vṛdha̱snū rohi̍tā ghṛ̱tasnū̍ ṛ̱tasya̍ manye̱ mana̍sā̱ javi̍ṣṭhā | a̱ntar ī̍yase aru̱ṣā yu̍jā̱no yu̱ṣmām̐ś ca̍ de̱vān viśa̱ ā ca̱ martā̍n ||
+
+**4.2.4**
+
+a̱rya̱maṇa̱ṁ varu̍ṇam mi̱tram e̍ṣā̱m indrā̱viṣṇū̍ ma̱ruto̍ a̱śvino̱ta | svaśvo̍ agne su̱ratha̍ḥ su̱rādhā̱ ed u̍ vaha suha̱viṣe̱ janā̍ya ||
+
+**4.2.5**
+
+gomā̍m̐ a̱gne 'vi̍mām̐ a̱śvī ya̱jño nṛ̱vatsa̍khā̱ sada̱m id a̍pramṛ̱ṣyaḥ | iḻā̍vām̐ e̱ṣo a̍sura pra̱jāvā̍n dī̱rgho ra̱yiḥ pṛ̍thubu̱dhnaḥ sa̱bhāvā̍n ||
+
+**4.2.6**
+
+yas ta̍ i̱dhmaṁ ja̱bhara̍t siṣvidā̱no mū̱rdhāna̍ṁ vā ta̱tapa̍te tvā̱yā | bhuva̱s tasya̱ svata̍vām̐ḥ pā̱yur a̍gne̱ viśva̍smāt sīm aghāya̱ta u̍ruṣya ||
+
+**4.2.7**
+
+yas te̱ bharā̱d anni̍yate ci̱d anna̍ṁ ni̱śiṣa̍n ma̱ndram ati̍thim u̱dīra̍t | ā de̍va̱yur i̱nadha̍te duro̱ṇe tasmi̍n ra̱yir dhru̱vo a̍stu̱ dāsvā̍n ||
+
+**4.2.8**
+
+yas tvā̍ do̱ṣā ya u̱ṣasi̍ pra̱śaṁsā̍t pri̱yaṁ vā̍ tvā kṛ̱ṇava̍te ha̱viṣmā̍n | aśvo̱ na sve dama̱ ā he̱myāvā̱n tam aṁha̍saḥ pīparo dā̱śvāṁsa̍m ||
+
+**4.2.9**
+
+yas tubhya̍m agne a̱mṛtā̍ya̱ dāśa̱d duva̱s tve kṛ̱ṇava̍te ya̱tasru̍k | na sa rā̱yā śa̍śamā̱no vi yo̍ṣa̱n naina̱m aṁha̱ḥ pari̍ varad aghā̱yoḥ ||
+
+**4.2.10**
+
+yasya̱ tvam a̍gne adhva̱raṁ jujo̍ṣo de̱vo marta̍sya̱ sudhi̍ta̱ṁ rarā̍ṇaḥ | prī̱ted a̍sa̱d dhotrā̱ sā ya̍vi̱ṣṭhāsā̍ma̱ yasya̍ vidha̱to vṛ̱dhāsa̍ḥ ||
+
+**4.2.11**
+
+citti̱m aci̍ttiṁ cinava̱d vi vi̱dvān pṛ̱ṣṭheva̍ vī̱tā vṛ̍ji̱nā ca̱ martā̍n | rā̱ye ca̍ naḥ svapa̱tyāya̍ deva̱ diti̍ṁ ca̱ rāsvādi̍tim uruṣya ||
+
+**4.2.12**
+
+ka̱viṁ śa̍śāsuḥ ka̱vayo 'da̍bdhā nidhā̱raya̍nto̱ duryā̍sv ā̱yoḥ | ata̱s tvaṁ dṛśyā̍m̐ agna e̱tān pa̱ḍbhiḥ pa̍śye̱r adbhu̍tām̐ a̱rya evai̍ḥ ||
+
+**4.2.13**
+
+tvam a̍gne vā̱ghate̍ su̱praṇī̍tiḥ su̱taso̍māya vidha̱te ya̍viṣṭha | ratna̍m bhara śaśamā̱nāya̍ ghṛṣve pṛ̱thu śca̱ndram ava̍se carṣaṇi̱prāḥ ||
+
+**4.2.14**
+
+adhā̍ ha̱ yad va̱yam a̍gne tvā̱yā pa̱ḍbhir haste̍bhiś cakṛ̱mā ta̱nūbhi̍ḥ | ratha̱ṁ na kranto̱ apa̍sā bhu̱rijo̍r ṛ̱taṁ ye̍muḥ su̱dhya̍ āśuṣā̱ṇāḥ ||
+
+**4.2.15**
+
+adhā̍ mā̱tur u̱ṣasa̍ḥ sa̱pta viprā̱ jāye̍mahi pratha̱mā ve̱dhaso̱ nṝn | di̱vas pu̱trā aṅgi̍raso bhave̱mādri̍ṁ rujema dha̱nina̍ṁ śu̱canta̍ḥ ||
+
+**4.2.16**
+
+adhā̱ yathā̍ naḥ pi̱tara̱ḥ parā̍saḥ pra̱tnāso̍ agna ṛ̱tam ā̍śuṣā̱ṇāḥ | śucīd a̍ya̱n dīdhi̍tim uktha̱śāsa̱ḥ kṣāmā̍ bhi̱ndanto̍ aru̱ṇīr apa̍ vran ||
+
+**4.2.17**
+
+su̱karmā̍ṇaḥ su̱ruco̍ deva̱yanto 'yo̱ na de̱vā jani̍mā̱ dhama̍ntaḥ | śu̱canto̍ a̱gniṁ va̍vṛ̱dhanta̱ indra̍m ū̱rvaṁ gavya̍m pari̱ṣada̍nto agman ||
+
+**4.2.18**
+
+ā yū̱theva̍ kṣu̱mati̍ pa̱śvo a̍khyad de̱vānā̱ṁ yaj jani̱mānty u̍gra | martā̍nāṁ cid u̱rvaśī̍r akṛpran vṛ̱dhe ci̍d a̱rya upa̍rasyā̱yoḥ ||
+
+**4.2.19**
+
+aka̍rma te̱ svapa̍so abhūma ṛ̱tam a̍vasrann u̱ṣaso̍ vibhā̱tīḥ | anū̍nam a̱gnim pu̍ru̱dhā su̍śca̱ndraṁ de̱vasya̱ marmṛ̍jata̱ś cāru̱ cakṣu̍ḥ ||
+
+**4.2.20**
+
+e̱tā te̍ agna u̱cathā̍ni ve̱dho 'vo̍cāma ka̱vaye̱ tā ju̍ṣasva | uc cho̍casva kṛṇu̱hi vasya̍so no ma̱ho rā̱yaḥ pu̍ruvāra̱ pra ya̍ndhi ||
+
+**4.3.1**
+
+ā vo̱ rājā̍nam adhva̱rasya̍ ru̱draṁ hotā̍raṁ satya̱yaja̱ṁ roda̍syoḥ | a̱gnim pu̱rā ta̍nayi̱tnor a̱cittā̱d dhira̍ṇyarūpa̱m ava̍se kṛṇudhvam ||
+
+**4.3.2**
+
+a̱yaṁ yoni̍ś cakṛ̱mā yaṁ va̱yaṁ te̍ jā̱yeva̱ patya̍ uśa̱tī su̱vāsā̍ḥ | a̱rvā̱cī̱naḥ pari̍vīto̱ ni ṣī̍de̱mā u̍ te svapāka pratī̱cīḥ ||
+
+**4.3.3**
+
+ā̱śṛ̱ṇva̱te adṛ̍pitāya̱ manma̍ nṛ̱cakṣa̍se sumṛḻī̱kāya̍ vedhaḥ | de̱vāya̍ śa̱stim a̱mṛtā̍ya śaṁsa̱ grāve̍va̱ sotā̍ madhu̱ṣud yam ī̱ḻe ||
+
+**4.3.4**
+
+tvaṁ ci̍n na̱ḥ śamyā̍ agne a̱syā ṛ̱tasya̍ bodhy ṛtacit svā̱dhīḥ | ka̱dā ta̍ u̱kthā sa̍dha̱mādyā̍ni ka̱dā bha̍vanti sa̱khyā gṛ̱he te̍ ||
+
+**4.3.5**
+
+ka̱thā ha̱ tad varu̍ṇāya̱ tvam a̍gne ka̱thā di̱ve ga̍rhase̱ kan na̱ āga̍ḥ | ka̱thā mi̱trāya̍ mī̱ḻhuṣe̍ pṛthi̱vyai brava̱ḥ kad a̍rya̱mṇe kad bhagā̍ya ||
+
+**4.3.6**
+
+kad dhiṣṇyā̍su vṛdhasā̱no a̍gne̱ kad vātā̍ya̱ prata̍vase śubha̱ṁye | pari̍jmane̱ nāsa̍tyāya̱ kṣe brava̱ḥ kad a̍gne ru̱drāya̍ nṛ̱ghne ||
+
+**4.3.7**
+
+ka̱thā ma̱he pu̍ṣṭimbha̱rāya̍ pū̱ṣṇe kad ru̱drāya̱ suma̍khāya havi̱rde | kad viṣṇa̍va urugā̱yāya̱ reto̱ brava̱ḥ kad a̍gne̱ śara̍ve bṛha̱tyai ||
+
+**4.3.8**
+
+ka̱thā śardhā̍ya ma̱rutā̍m ṛ̱tāya̍ ka̱thā sū̱re bṛ̍ha̱te pṛ̱cchyamā̍naḥ | prati̍ bra̱vo 'di̍taye tu̱rāya̱ sādhā̍ di̱vo jā̍tavedaś ciki̱tvān ||
+
+**4.3.9**
+
+ṛ̱tena̍ ṛ̱taṁ niya̍tam īḻa̱ ā gor ā̱mā sacā̱ madhu̍mat pa̱kvam a̍gne | kṛ̱ṣṇā sa̱tī ruśa̍tā dhā̱sinai̱ṣā jāma̍ryeṇa̱ paya̍sā pīpāya ||
+
+**4.3.10**
+
+ṛ̱tena̱ hi ṣmā̍ vṛṣa̱bhaś ci̍d a̱ktaḥ pumā̍m̐ a̱gniḥ paya̍sā pṛ̱ṣṭhye̍na | aspa̍ndamāno acarad vayo̱dhā vṛṣā̍ śu̱kraṁ du̍duhe̱ pṛśni̱r ūdha̍ḥ ||
+
+**4.3.11**
+
+ṛ̱tenādri̱ṁ vy a̍san bhi̱danta̱ḥ sam aṅgi̍raso navanta̱ gobhi̍ḥ | śu̱naṁ nara̱ḥ pari̍ ṣadann u̱ṣāsa̍m ā̱viḥ sva̍r abhavaj jā̱te a̱gnau ||
+
+**4.3.12**
+
+ṛ̱tena̍ de̱vīr a̱mṛtā̱ amṛ̍ktā̱ arṇo̍bhi̱r āpo̱ madhu̍madbhir agne | vā̱jī na sarge̍ṣu prastubhā̱naḥ pra sada̱m it sravi̍tave dadhanyuḥ ||
+
+**4.3.13**
+
+mā kasya̍ ya̱kṣaṁ sada̱m id dhu̱ro gā̱ mā ve̱śasya̍ pramina̱to māpeḥ | mā bhrātu̍r agne̱ anṛ̍jor ṛ̱ṇaṁ ve̱r mā sakhyu̱r dakṣa̍ṁ ri̱por bhu̍jema ||
+
+**4.3.14**
+
+rakṣā̍ ṇo agne̱ tava̱ rakṣa̍ṇebhī rārakṣā̱ṇaḥ su̍makha prīṇā̱naḥ | prati̍ ṣphura̱ vi ru̍ja vī̱ḍv aṁho̍ ja̱hi rakṣo̱ mahi̍ cid vāvṛdhā̱nam ||
+
+**4.3.15**
+
+e̱bhir bha̍va su̱manā̍ agne a̱rkair i̱mān spṛ̍śa̱ manma̍bhiḥ śūra̱ vājā̍n | u̱ta brahmā̍ṇy aṅgiro juṣasva̱ saṁ te̍ śa̱stir de̱vavā̍tā jareta ||
+
+**4.3.16**
+
+e̱tā viśvā̍ vi̱duṣe̱ tubhya̍ṁ vedho nī̱thāny a̍gne ni̱ṇyā vacā̍ṁsi | ni̱vaca̍nā ka̱vaye̱ kāvyā̱ny aśa̍ṁsiṣam ma̱tibhi̱r vipra̍ u̱kthaiḥ ||
+
+**4.4.1**
+
+kṛ̱ṇu̱ṣva pāja̱ḥ prasi̍ti̱ṁ na pṛ̱thvīṁ yā̱hi rāje̱vāma̍vā̱m̐ ibhe̍na | tṛ̱ṣvīm anu̱ prasi̍tiṁ drūṇā̱no 'stā̍si̱ vidhya̍ ra̱kṣasa̱s tapi̍ṣṭhaiḥ ||
+
+**4.4.2**
+
+tava̍ bhra̱māsa̍ āśu̱yā pa̍ta̱nty anu̍ spṛśa dhṛṣa̱tā śośu̍cānaḥ | tapū̍ṁṣy agne ju̱hvā̍ pata̱ṁgān asa̍ṁdito̱ vi sṛ̍ja̱ viṣva̍g u̱lkāḥ ||
+
+**4.4.3**
+
+prati̱ spaśo̱ vi sṛ̍ja̱ tūrṇi̍tamo̱ bhavā̍ pā̱yur vi̱śo a̱syā ada̍bdhaḥ | yo no̍ dū̱re a̱ghaśa̍ṁso̱ yo anty agne̱ māki̍ṣ ṭe̱ vyathi̱r ā da̍dharṣīt ||
+
+**4.4.4**
+
+ud a̍gne tiṣṭha̱ praty ā ta̍nuṣva̱ ny a1̱̍mitrā̍m̐ oṣatāt tigmahete | yo no̱ arā̍tiṁ samidhāna ca̱kre nī̱cā taṁ dha̍kṣy ata̱saṁ na śuṣka̍m ||
+
+**4.4.5**
+
+ū̱rdhvo bha̍va̱ prati̍ vi̱dhyādhy a̱smad ā̱viṣ kṛ̍ṇuṣva̱ daivyā̍ny agne | ava̍ sthi̱rā ta̍nuhi yātu̱jūnā̍ṁ jā̱mim ajā̍mi̱m pra mṛ̍ṇīhi̱ śatrū̍n ||
+
+**4.4.6**
+
+sa te̍ jānāti suma̱tiṁ ya̍viṣṭha̱ ya īva̍te̱ brahma̍ṇe gā̱tum aira̍t | viśvā̍ny asmai su̱dinā̍ni rā̱yo dyu̱mnāny a̱ryo vi duro̍ a̱bhi dyau̍t ||
+
+**4.4.7**
+
+sed a̍gne astu su̱bhaga̍ḥ su̱dānu̱r yas tvā̱ nitye̍na ha̱viṣā̱ ya u̱kthaiḥ | piprī̍ṣati̱ sva āyu̍ṣi duro̱ṇe viśved a̍smai su̱dinā̱ sāsa̍d i̱ṣṭiḥ ||
+
+**4.4.8**
+
+arcā̍mi te suma̱tiṁ ghoṣy a̱rvāk saṁ te̍ vā̱vātā̍ jaratām i̱yaṁ gīḥ | svaśvā̍s tvā su̱rathā̍ marjayemā̱sme kṣa̱trāṇi̍ dhāraye̱r anu̱ dyūn ||
+
+**4.4.9**
+
+i̱ha tvā̱ bhūry ā ca̍re̱d upa̱ tman doṣā̍vastar dīdi̱vāṁsa̱m anu̱ dyūn | krīḻa̍ntas tvā su̱mana̍saḥ sapemā̱bhi dyu̱mnā ta̍sthi̱vāṁso̱ janā̍nām ||
+
+**4.4.10**
+
+yas tvā̱ svaśva̍ḥ suhira̱ṇyo a̍gna upa̱yāti̱ vasu̍matā̱ rathe̍na | tasya̍ trā̱tā bha̍vasi̱ tasya̱ sakhā̱ yas ta̍ āti̱thyam ā̍nu̱ṣag jujo̍ṣat ||
+
+**4.4.11**
+
+ma̱ho ru̍jāmi ba̱ndhutā̱ vaco̍bhi̱s tan mā̍ pi̱tur gota̍mā̱d anv i̍yāya | tvaṁ no̍ a̱sya vaca̍saś cikiddhi̱ hota̍r yaviṣṭha sukrato̱ damū̍nāḥ ||
+
+**4.4.12**
+
+asva̍pnajas ta̱raṇa̍yaḥ su̱śevā̱ ata̍ndrāso 'vṛ̱kā aśra̍miṣṭhāḥ | te pā̱yava̍ḥ sa̱dhrya̍ñco ni̱ṣadyāgne̱ tava̍ naḥ pāntv amūra ||
+
+**4.4.13**
+
+ye pā̱yavo̍ māmate̱yaṁ te̍ agne̱ paśya̍nto a̱ndhaṁ du̍ri̱tād ara̍kṣan | ra̱rakṣa̱ tān su̱kṛto̍ vi̱śvave̍dā̱ dipsa̍nta̱ id ri̱pavo̱ nāha̍ debhuḥ ||
+
+**4.4.14**
+
+tvayā̍ va̱yaṁ sa̍dha̱nya1̱̍s tvotā̱s tava̱ praṇī̍ty aśyāma̱ vājā̍n | u̱bhā śaṁsā̍ sūdaya satyatāte 'nuṣṭhu̱yā kṛ̍ṇuhy ahrayāṇa ||
+
+**4.4.15**
+
+a̱yā te̍ agne sa̱midhā̍ vidhema̱ prati̱ stoma̍ṁ śa̱syamā̍naṁ gṛbhāya | dahā̱śaso̍ ra̱kṣasa̍ḥ pā̱hy a1̱̍smān dru̱ho ni̱do mi̍tramaho ava̱dyāt ||
+
+**4.5.1**
+
+vai̱śvā̱na̱rāya̍ mī̱ḻhuṣe̍ sa̱joṣā̍ḥ ka̱thā dā̍śemā̱gnaye̍ bṛ̱had bhāḥ | anū̍nena bṛha̱tā va̱kṣathe̱nopa̍ stabhāyad upa̱min na rodha̍ḥ ||
+
+**4.5.2**
+
+mā ni̍ndata̱ ya i̱mām mahya̍ṁ rā̱tiṁ de̱vo da̱dau martyā̍ya sva̱dhāvā̍n | pākā̍ya̱ gṛtso̍ a̱mṛto̱ vice̍tā vaiśvāna̱ro nṛta̍mo ya̱hvo a̱gniḥ ||
+
+**4.5.3**
+
+sāma̍ dvi̱barhā̱ mahi̍ ti̱gmabhṛ̍ṣṭiḥ sa̱hasra̍retā vṛṣa̱bhas tuvi̍ṣmān | pa̱daṁ na gor apa̍gūḻhaṁ vivi̱dvān a̱gnir mahya̱m pred u̍ vocan manī̱ṣām ||
+
+**4.5.4**
+
+pra tām̐ a̱gnir ba̍bhasat ti̱gmaja̍mbha̱s tapi̍ṣṭhena śo̱ciṣā̱ yaḥ su̱rādhā̍ḥ | pra ye mi̱nanti̱ varu̍ṇasya̱ dhāma̍ pri̱yā mi̱trasya̱ ceta̍to dhru̱vāṇi̍ ||
+
+**4.5.5**
+
+a̱bhrā̱taro̱ na yoṣa̍ṇo̱ vyanta̍ḥ pati̱ripo̱ na jana̍yo du̱revā̍ḥ | pā̱pāsa̱ḥ santo̍ anṛ̱tā a̍sa̱tyā i̱dam pa̱dam a̍janatā gabhī̱ram ||
+
+**4.5.6**
+
+i̱dam me̍ agne̱ kiya̍te pāva̱kāmi̍nate gu̱rum bhā̱raṁ na manma̍ | bṛ̱had da̍dhātha dhṛṣa̱tā ga̍bhī̱raṁ ya̱hvam pṛ̱ṣṭham praya̍sā sa̱ptadhā̍tu ||
+
+**4.5.7**
+
+tam in nv e̱3̱̍va sa̍ma̱nā sa̍mā̱nam a̱bhi kratvā̍ puna̱tī dhī̱tir a̍śyāḥ ||
+
+**4.5.8**
+
+pra̱vācya̱ṁ vaca̍sa̱ḥ kim me̍ a̱sya guhā̍ hi̱tam upa̍ ni̱ṇig va̍danti | yad u̱sriyā̍ṇā̱m apa̱ vār i̍va̱ vran pāti̍ pri̱yaṁ ru̱po agra̍m pa̱daṁ veḥ ||
+
+**4.5.9**
+
+i̱dam u̱ tyan mahi̍ ma̱hām anī̍ka̱ṁ yad u̱sriyā̱ saca̍ta pū̱rvyaṁ gauḥ | ṛ̱tasya̍ pa̱de adhi̱ dīdyā̍na̱ṁ guhā̍ raghu̱ṣyad ra̍ghu̱yad vi̍veda ||
+
+**4.5.10**
+
+adha̍ dyutā̱naḥ pi̱troḥ sacā̱sāma̍nuta̱ guhya̱ṁ cāru̱ pṛśne̍ḥ | mā̱tuṣ pa̱de pa̍ra̱me anti̱ ṣad gor vṛṣṇa̍ḥ śo̱ciṣa̱ḥ praya̍tasya ji̱hvā ||
+
+**4.5.11**
+
+ṛ̱taṁ vo̍ce̱ nama̍sā pṛ̱cchyamā̍na̱s tavā̱śasā̍ jātavedo̱ yadī̱dam | tvam a̱sya kṣa̍yasi̱ yad dha̱ viśva̍ṁ di̱vi yad u̱ dravi̍ṇa̱ṁ yat pṛ̍thi̱vyām ||
+
+**4.5.12**
+
+kiṁ no̍ a̱sya dravi̍ṇa̱ṁ kad dha̱ ratna̱ṁ vi no̍ voco jātavedaś ciki̱tvān | guhādhva̍naḥ para̱maṁ yan no̍ a̱sya reku̍ pa̱daṁ na ni̍dā̱nā aga̍nma ||
+
+**4.5.13**
+
+kā ma̱ryādā̍ va̱yunā̱ kad dha̍ vā̱mam acchā̍ gamema ra̱ghavo̱ na vāja̍m | ka̱dā no̍ de̱vīr a̱mṛta̍sya̱ patnī̱ḥ sūro̱ varṇe̍na tatanann u̱ṣāsa̍ḥ ||
+
+**4.5.14**
+
+a̱ni̱reṇa̱ vaca̍sā pha̱lgve̍na pra̱tītye̍na kṛ̱dhunā̍tṛ̱pāsa̍ḥ | adhā̱ te a̍gne̱ kim i̱hā va̍danty anāyu̱dhāsa̱ āsa̍tā sacantām ||
+
+**4.5.15**
+
+a̱sya śri̱ye sa̍midhā̱nasya̱ vṛṣṇo̱ vaso̱r anī̍ka̱ṁ dama̱ ā ru̍roca | ruśa̱d vasā̍naḥ su̱dṛśī̍karūpaḥ kṣi̱tir na rā̱yā pu̍ru̱vāro̍ adyaut ||
+
+**4.6.1**
+
+ū̱rdhva ū̱ ṣu ṇo̍ adhvarasya hota̱r agne̱ tiṣṭha̍ de̱vatā̍tā̱ yajī̍yān | tvaṁ hi viśva̍m a̱bhy asi̱ manma̱ pra ve̱dhasa̍ś cit tirasi manī̱ṣām ||
+
+**4.6.2**
+
+amū̍ro̱ hotā̱ ny a̍sādi vi̱kṣv a1̱̍gnir ma̱ndro vi̱dathe̍ṣu̱ prace̍tāḥ | ū̱rdhvam bhā̱nuṁ sa̍vi̱tevā̍śre̱n mete̍va dhū̱maṁ sta̍bhāya̱d upa̱ dyām ||
+
+**4.6.3**
+
+ya̱tā su̍jū̱rṇī rā̱tinī̍ ghṛ̱tācī̍ pradakṣi̱ṇid de̱vatā̍tim urā̱ṇaḥ | ud u̱ svaru̍r nava̱jā nākraḥ pa̱śvo a̍nakti̱ sudhi̍taḥ su̱meka̍ḥ ||
+
+**4.6.4**
+
+stī̱rṇe ba̱rhiṣi̍ samidhā̱ne a̱gnā ū̱rdhvo a̍dhva̱ryur ju̍juṣā̱ṇo a̍sthāt | pary a̱gniḥ pa̍śu̱pā na hotā̍ trivi̱ṣṭy e̍ti pra̱diva̍ urā̱ṇaḥ ||
+
+**4.6.5**
+
+pari̱ tmanā̍ mi̱tadru̍r eti̱ hotā̱gnir ma̱ndro madhu̍vacā ṛ̱tāvā̍ | drava̍nty asya vā̱jino̱ na śokā̱ bhaya̍nte̱ viśvā̱ bhuva̍nā̱ yad abhrā̍ṭ ||
+
+**4.6.6**
+
+bha̱drā te̍ agne svanīka sa̱ṁdṛg gho̱rasya̍ sa̱to viṣu̍ṇasya̱ cāru̍ḥ | na yat te̍ śo̱cis tama̍sā̱ vara̍nta̱ na dhva̱smāna̍s ta̱nvī̱3̱̍ repa̍ ā dhu̱ḥ ||
+
+**4.6.7**
+
+na yasya̱ sātu̱r jani̍to̱r avā̍ri̱ na mā̱tarā̍pi̱tarā̱ nū ci̍d i̱ṣṭau | adhā̍ mi̱tro na sudhi̍taḥ pāva̱ko̱3̱̍ 'gnir dī̍dāya̱ mānu̍ṣīṣu vi̱kṣu ||
+
+**4.6.8**
+
+dvir yam pañca̱ jīja̍nan sa̱ṁvasā̍nā̱ḥ svasā̍ro a̱gnim mānu̍ṣīṣu vi̱kṣu | u̱ṣa̱rbudha̍m atha̱ryo̱3̱̍ na danta̍ṁ śu̱kraṁ svāsa̍m para̱śuṁ na ti̱gmam ||
+
+**4.6.9**
+
+tava̱ tye a̍gne ha̱rito̍ ghṛta̱snā rohi̍tāsa ṛ̱jvañca̱ḥ svañca̍ḥ | a̱ru̱ṣāso̱ vṛṣa̍ṇa ṛjumu̱ṣkā ā de̱vatā̍tim ahvanta da̱smāḥ ||
+
+**4.6.10**
+
+ye ha̱ tye te̱ saha̍mānā a̱yāsa̍s tve̱ṣāso̍ agne a̱rcaya̱ś cara̍nti | śye̱nāso̱ na du̍vasa̱nāso̱ artha̍ṁ tuviṣva̱ṇaso̱ māru̍ta̱ṁ na śardha̍ḥ ||
+
+**4.6.11**
+
+akā̍ri̱ brahma̍ samidhāna̱ tubhya̱ṁ śaṁsā̍ty u̱kthaṁ yaja̍te̱ vy ū̍ dhāḥ | hotā̍ram a̱gnim manu̍ṣo̱ ni ṣe̍dur nama̱syanta̍ u̱śija̱ḥ śaṁsa̍m ā̱yoḥ ||
+
+**4.7.1**
+
+a̱yam i̱ha pra̍tha̱mo dhā̍yi dhā̱tṛbhi̱r hotā̱ yaji̍ṣṭho adhva̱reṣv īḍya̍ḥ | yam apna̍vāno̱ bhṛga̍vo viruru̱cur vane̍ṣu ci̱traṁ vi̱bhva̍ṁ vi̱śe-vi̍śe ||
+
+**4.7.2**
+
+agne̍ ka̱dā ta̍ ānu̱ṣag bhuva̍d de̱vasya̱ ceta̍nam | adhā̱ hi tvā̍ jagṛbhri̱re martā̍so vi̱kṣv īḍya̍m ||
+
+**4.7.3**
+
+ṛ̱tāvā̍na̱ṁ vice̍tasa̱m paśya̍nto̱ dyām i̍va̱ stṛbhi̍ḥ | viśve̍ṣām adhva̱rāṇā̍ṁ haska̱rtāra̱ṁ dame̍-dame ||
+
+**4.7.4**
+
+ā̱śuṁ dū̱taṁ vi̱vasva̍to̱ viśvā̱ yaś ca̍rṣa̱ṇīr a̱bhi | ā ja̍bhruḥ ke̱tum ā̱yavo̱ bhṛga̍vāṇaṁ vi̱śe-vi̍śe ||
+
+**4.7.5**
+
+tam ī̱ṁ hotā̍ram ānu̱ṣak ci̍ki̱tvāṁsa̱ṁ ni ṣe̍dire | ra̱ṇvam pā̍va̱kaśo̍ciṣa̱ṁ yaji̍ṣṭhaṁ sa̱pta dhāma̍bhiḥ ||
+
+**4.7.6**
+
+taṁ śaśva̍tīṣu mā̱tṛṣu̱ vana̱ ā vī̱tam aśri̍tam | ci̱traṁ santa̱ṁ guhā̍ hi̱taṁ su̱veda̍ṁ kūcida̱rthina̍m ||
+
+**4.7.7**
+
+sa̱sasya̱ yad viyu̍tā̱ sasmi̱nn ūdha̍nn ṛ̱tasya̱ dhāma̍n ra̱ṇaya̍nta de̱vāḥ | ma̱hām̐ a̱gnir nama̍sā rā̱taha̍vyo̱ ver a̍dhva̱rāya̱ sada̱m id ṛ̱tāvā̍ ||
+
+**4.7.8**
+
+ver a̍dhva̱rasya̍ dū̱tyā̍ni vi̱dvān u̱bhe a̱ntā roda̍sī saṁciki̱tvān | dū̱ta ī̍yase pra̱diva̍ urā̱ṇo vi̱duṣṭa̍ro di̱va ā̱rodha̍nāni ||
+
+**4.7.9**
+
+kṛ̱ṣṇaṁ ta̱ ema̱ ruśa̍taḥ pu̱ro bhāś ca̍ri̱ṣṇv a1̱̍rcir vapu̍ṣā̱m id eka̍m | yad apra̍vītā̱ dadha̍te ha̱ garbha̍ṁ sa̱dyaś ci̍j jā̱to bhava̱sīd u̍ dū̱taḥ ||
+
+**4.7.10**
+
+sa̱dyo jā̱tasya̱ dadṛ̍śāna̱m ojo̱ yad a̍sya̱ vāto̍ anu̱vāti̍ śo̱ciḥ | vṛ̱ṇakti̍ ti̱gmām a̍ta̱seṣu̍ ji̱hvāṁ sthi̱rā ci̱d annā̍ dayate̱ vi jambhai̍ḥ ||
+
+**4.7.11**
+
+tṛ̱ṣu yad annā̍ tṛ̱ṣuṇā̍ va̱vakṣa̍ tṛ̱ṣuṁ dū̱taṁ kṛ̍ṇute ya̱hvo a̱gniḥ ||
+
+**4.8.1**
+
+dū̱taṁ vo̍ vi̱śvave̍dasaṁ havya̱vāha̱m ama̍rtyam | yaji̍ṣṭham ṛñjase gi̱rā ||
+
+**4.8.2**
+
+sa hi vedā̱ vasu̍dhitim ma̱hām̐ ā̱rodha̍naṁ di̱vaḥ | sa de̱vām̐ eha va̍kṣati ||
+
+**4.8.3**
+
+sa ve̍da de̱va ā̱nama̍ṁ de̱vām̐ ṛ̍tāya̱te dame̍ | dāti̍ pri̱yāṇi̍ ci̱d vasu̍ ||
+
+**4.8.4**
+
+sa hotā̱ sed u̍ dū̱tya̍ṁ ciki̱tvām̐ a̱ntar ī̍yate | vi̱dvām̐ ā̱rodha̍naṁ di̱vaḥ ||
+
+**4.8.5**
+
+te syā̍ma̱ ye a̱gnaye̍ dadā̱śur ha̱vyadā̍tibhiḥ | ya ī̱m puṣya̍nta indha̱te ||
+
+**4.8.6**
+
+te rā̱yā te su̱vīryai̍ḥ sasa̱vāṁso̱ vi śṛ̍ṇvire | ye a̱gnā da̍dhi̱re duva̍ḥ ||
+
+**4.8.7**
+
+a̱sme rāyo̍ di̱ve-di̍ve̱ saṁ ca̍rantu puru̱spṛha̍ḥ | a̱sme vājā̍sa īratām ||
+
+**4.8.8**
+
+sa vipra̍ś carṣaṇī̱nāṁ śava̍sā̱ mānu̍ṣāṇām | ati̍ kṣi̱preva̍ vidhyati ||
+
+**4.9.1**
+
+agne̍ mṛ̱ḻa ma̱hām̐ a̍si̱ ya ī̱m ā de̍va̱yuṁ jana̍m | i̱yetha̍ ba̱rhir ā̱sada̍m ||
+
+**4.9.2**
+
+sa mānu̍ṣīṣu dū̱ḻabho̍ vi̱kṣu prā̱vīr ama̍rtyaḥ | dū̱to viśve̍ṣām bhuvat ||
+
+**4.9.3**
+
+sa sadma̱ pari̍ ṇīyate̱ hotā̍ ma̱ndro divi̍ṣṭiṣu | u̱ta potā̱ ni ṣī̍dati ||
+
+**4.9.4**
+
+u̱ta gnā a̱gnir a̍dhva̱ra u̱to gṛ̱hapa̍ti̱r dame̍ | u̱ta bra̱hmā ni ṣī̍dati ||
+
+**4.9.5**
+
+veṣi̱ hy a̍dhvarīya̱tām u̍pava̱ktā janā̍nām | ha̱vyā ca̱ mānu̍ṣāṇām ||
+
+**4.9.6**
+
+veṣīd v a̍sya dū̱tya1̱̍ṁ yasya̱ jujo̍ṣo adhva̱ram | ha̱vyam marta̍sya̱ voḻha̍ve ||
+
+**4.9.7**
+
+a̱smāka̍ṁ joṣy adhva̱ram a̱smāka̍ṁ ya̱jñam a̍ṅgiraḥ | a̱smāka̍ṁ śṛṇudhī̱ hava̍m ||
+
+**4.9.8**
+
+pari̍ te dū̱ḻabho̱ ratho̱ 'smām̐ a̍śnotu vi̱śvata̍ḥ | yena̱ rakṣa̍si dā̱śuṣa̍ḥ ||
+
+**4.10.1**
+
+agne̱ tam a̱dyāśva̱ṁ na stomai̱ḥ kratu̱ṁ na bha̱draṁ hṛ̍di̱spṛśa̍m | ṛ̱dhyāmā̍ ta̱ ohai̍ḥ ||
+
+**4.10.2**
+
+adhā̱ hy a̍gne̱ krato̍r bha̱drasya̱ dakṣa̍sya sā̱dhoḥ | ra̱thīr ṛ̱tasya̍ bṛha̱to ba̱bhūtha̍ ||
+
+**4.10.3**
+
+e̱bhir no̍ a̱rkair bhavā̍ no a̱rvāṅ sva1̱̍r ṇa jyoti̍ḥ | agne̱ viśve̍bhiḥ su̱manā̱ anī̍kaiḥ ||
+
+**4.10.4**
+
+ā̱bhiṣ ṭe̍ a̱dya gī̱rbhir gṛ̱ṇanto 'gne̱ dāśe̍ma | pra te̍ di̱vo na sta̍nayanti̱ śuṣmā̍ḥ ||
+
+**4.10.5**
+
+tava̱ svādi̱ṣṭhāgne̱ saṁdṛ̍ṣṭir i̱dā ci̱d ahna̍ i̱dā ci̍d a̱ktoḥ | śri̱ye ru̱kmo na ro̍cata upā̱ke ||
+
+**4.10.6**
+
+ghṛ̱taṁ na pū̱taṁ ta̱nūr a̍re̱pāḥ śuci̱ hira̍ṇyam | tat te̍ ru̱kmo na ro̍cata svadhāvaḥ ||
+
+**4.10.7**
+
+kṛ̱taṁ ci̱d dhi ṣmā̱ sane̍mi̱ dveṣo 'gna̍ i̱noṣi̱ martā̍t | i̱tthā yaja̍mānād ṛtāvaḥ ||
+
+**4.10.8**
+
+śi̱vā na̍ḥ sa̱khyā santu̍ bhrā̱trāgne̍ de̱veṣu̍ yu̱ṣme | sā no̱ nābhi̱ḥ sada̍ne̱ sasmi̱nn ūdha̍n ||
+
+**4.11.1**
+
+bha̱draṁ te̍ agne sahasi̱nn anī̍kam upā̱ka ā ro̍cate̱ sūrya̍sya | ruśa̍d dṛ̱śe da̍dṛśe nakta̱yā ci̱d arū̍kṣitaṁ dṛ̱śa ā rū̱pe anna̍m ||
+
+**4.11.2**
+
+vi ṣā̍hy agne gṛṇa̱te ma̍nī̱ṣāṁ khaṁ vepa̍sā tuvijāta̱ stavā̍naḥ | viśve̍bhi̱r yad vā̱vana̍ḥ śukra de̱vais tan no̍ rāsva sumaho̱ bhūri̱ manma̍ ||
+
+**4.11.3**
+
+tvad a̍gne̱ kāvyā̱ tvan ma̍nī̱ṣās tvad u̱kthā jā̍yante̱ rādhyā̍ni | tvad e̍ti̱ dravi̍ṇaṁ vī̱rape̍śā i̱tthādhi̍ye dā̱śuṣe̱ martyā̍ya ||
+
+**4.11.4**
+
+tvad vā̱jī vā̍jambha̱ro vihā̍yā abhiṣṭi̱kṛj jā̍yate sa̱tyaśu̍ṣmaḥ ||
+
+**4.11.5**
+
+tvām a̍gne pratha̱maṁ de̍va̱yanto̍ de̱vam martā̍ amṛta ma̱ndraji̍hvam | dve̱ṣo̱yuta̱m ā vi̍vāsanti dhī̱bhir damū̍nasaṁ gṛ̱hapa̍ti̱m amū̍ram ||
+
+**4.11.6**
+
+ā̱re a̱smad ama̍tim ā̱re aṁha̍ ā̱re viśvā̍ṁ durma̱tiṁ yan ni̱pāsi̍ | do̱ṣā śi̱vaḥ sa̍hasaḥ sūno agne̱ yaṁ de̱va ā ci̱t saca̍se sva̱sti ||
+
+**4.12.1**
+
+yas tvām a̍gna i̱nadha̍te ya̱tasru̱k tris te̱ anna̍ṁ kṛ̱ṇava̱t sasmi̱nn aha̍n | sa su dyu̱mnair a̱bhy a̍stu pra̱sakṣa̱t tava̱ kratvā̍ jātavedaś ciki̱tvān ||
+
+**4.12.2**
+
+i̱dhmaṁ yas te̍ ja̱bhara̍c chaśramā̱ṇo ma̱ho a̍gne̱ anī̍ka̱m ā sa̍pa̱ryan | sa i̍dhā̱naḥ prati̍ do̱ṣām u̱ṣāsa̱m puṣya̍n ra̱yiṁ sa̍cate̱ ghnann a̱mitrā̍n ||
+
+**4.12.3**
+
+a̱gnir ī̍śe bṛha̱taḥ kṣa̱triya̍syā̱gnir vāja̍sya para̱masya̍ rā̱yaḥ | dadhā̍ti̱ ratna̍ṁ vidha̱te yavi̍ṣṭho̱ vy ā̍nu̱ṣaṅ martyā̍ya sva̱dhāvā̍n ||
+
+**4.12.4**
+
+yac ci̱d dhi te̍ puruṣa̱trā ya̍vi̱ṣṭhāci̍ttibhiś cakṛ̱mā kac ci̱d āga̍ḥ | kṛ̱dhī ṣv a1̱̍smām̐ adi̍te̱r anā̍gā̱n vy enā̍ṁsi śiśratho̱ viṣva̍g agne ||
+
+**4.12.5**
+
+ma̱haś ci̍d agna̱ ena̍so a̱bhīka̍ ū̱rvād de̱vānā̍m u̱ta martyā̍nām | mā te̱ sakhā̍ya̱ḥ sada̱m id ri̍ṣāma̱ yacchā̍ to̱kāya̱ tana̍yāya̱ śaṁ yoḥ ||
+
+**4.12.6**
+
+yathā̍ ha̱ tyad va̍savo gau̱rya̍ṁ cit pa̱di ṣi̱tām amu̍ñcatā yajatrāḥ | e̱vo ṣv a1̱̍sman mu̍ñcatā̱ vy aṁha̱ḥ pra tā̍ry agne prata̱raṁ na̱ āyu̍ḥ ||
+
+**4.13.1**
+
+praty a̱gnir u̱ṣasā̱m agra̍m akhyad vibhātī̱nāṁ su̱manā̍ ratna̱dheya̍m | yā̱tam a̍śvinā su̱kṛto̍ duro̱ṇam ut sūryo̱ jyoti̍ṣā de̱va e̍ti ||
+
+**4.13.2**
+
+ū̱rdhvam bhā̱nuṁ sa̍vi̱tā de̱vo a̍śred dra̱psaṁ davi̍dhvad gavi̱ṣo na satvā̍ | anu̍ vra̱taṁ varu̍ṇo yanti mi̱tro yat sūrya̍ṁ di̱vy ā̍ro̱haya̍nti ||
+
+**4.13.3**
+
+yaṁ sī̱m akṛ̍ṇva̱n tama̍se vi̱pṛce̍ dhru̱vakṣe̍mā̱ ana̍vasyanto̱ artha̍m | taṁ sūrya̍ṁ ha̱rita̍ḥ sa̱pta ya̱hvīḥ spaśa̱ṁ viśva̍sya̱ jaga̍to vahanti ||
+
+**4.13.4**
+
+vahi̍ṣṭhebhir vi̱hara̍n yāsi̱ tantu̍m ava̱vyaya̱nn asi̍taṁ deva̱ vasma̍ ||
+
+**4.13.5**
+
+anā̍yato̱ ani̍baddhaḥ ka̱thāyaṁ nya̍ṅṅ uttā̱no 'va̍ padyate̱ na | kayā̍ yāti sva̱dhayā̱ ko da̍darśa di̱vaḥ ska̱mbhaḥ samṛ̍taḥ pāti̱ nāka̍m ||
+
+**4.14.1**
+
+praty a̱gnir u̱ṣaso̍ jā̱tave̍dā̱ akhya̍d de̱vo roca̍mānā̱ maho̍bhiḥ | ā nā̍satyorugā̱yā rathe̍ne̱maṁ ya̱jñam upa̍ no yāta̱m accha̍ ||
+
+**4.14.2**
+
+ū̱rdhvaṁ ke̱tuṁ sa̍vi̱tā de̱vo a̍śre̱j jyoti̱r viśva̍smai̱ bhuva̍nāya kṛ̱ṇvan | āprā̱ dyāvā̍pṛthi̱vī a̱ntari̍kṣa̱ṁ vi sūryo̍ ra̱śmibhi̱ś ceki̍tānaḥ ||
+
+**4.14.3**
+
+ā̱vaha̍nty aru̱ṇīr jyoti̱ṣāgā̍n ma̱hī ci̱trā ra̱śmibhi̱ś ceki̍tānā | pra̱bo̱dhaya̍ntī suvi̱tāya̍ de̱vy u1̱̍ṣā ī̍yate su̱yujā̱ rathe̍na ||
+
+**4.14.4**
+
+ā vā̱ṁ vahi̍ṣṭhā i̱ha te va̍hantu̱ rathā̱ aśvā̍sa u̱ṣaso̱ vyu̍ṣṭau | i̱me hi vā̍m madhu̱peyā̍ya̱ somā̍ a̱smin ya̱jñe vṛ̍ṣaṇā mādayethām ||
+
+**4.14.5**
+
+anā̍yato̱ ani̍baddhaḥ ka̱thāyaṁ nya̍ṅṅ uttā̱no 'va̍ padyate̱ na | kayā̍ yāti sva̱dhayā̱ ko da̍darśa di̱vaḥ ska̱mbhaḥ samṛ̍taḥ pāti̱ nāka̍m ||
+
+**4.15.1**
+
+a̱gnir hotā̍ no adhva̱re vā̱jī san pari̍ ṇīyate | de̱vo de̱veṣu̍ ya̱jñiya̍ḥ ||
+
+**4.15.2**
+
+pari̍ trivi̱ṣṭy a̍dhva̱raṁ yāty a̱gnī ra̱thīr i̍va | ā de̱veṣu̱ prayo̍ dadha̍t ||
+
+**4.15.3**
+
+pari̱ vāja̍patiḥ ka̱vir a̱gnir ha̱vyāny a̍kramīt | dadha̱d ratnā̍ni dā̱śuṣe̍ ||
+
+**4.15.4**
+
+a̱yaṁ yaḥ sṛñja̍ye pu̱ro dai̍vavā̱te sa̍mi̱dhyate̍ | dyu̱mām̐ a̍mitra̱dambha̍naḥ ||
+
+**4.15.5**
+
+asya̍ ghā vī̱ra īva̍to̱ 'gner ī̍śīta̱ martya̍ḥ | ti̱gmaja̍mbhasya mī̱ḻhuṣa̍ḥ ||
+
+**4.15.6**
+
+tam arva̍nta̱ṁ na sā̍na̱sim a̍ru̱ṣaṁ na di̱vaḥ śiśu̍m | ma̱rmṛ̱jyante̍ di̱ve-di̍ve ||
+
+**4.15.7**
+
+bodha̱d yan mā̱ hari̍bhyāṁ kumā̱raḥ sā̍hade̱vyaḥ | acchā̱ na hū̱ta ud a̍ram ||
+
+**4.15.8**
+
+u̱ta tyā ya̍ja̱tā harī̍ kumā̱rāt sā̍hade̱vyāt | praya̍tā sa̱dya ā da̍de ||
+
+**4.15.9**
+
+e̱ṣa vā̍ṁ devāv aśvinā kumā̱raḥ sā̍hade̱vyaḥ | dī̱rghāyu̍r astu̱ soma̍kaḥ ||
+
+**4.15.10**
+
+taṁ yu̱vaṁ de̍vāv aśvinā kumā̱raṁ sā̍hade̱vyam | dī̱rghāyu̍ṣaṁ kṛṇotana ||
+
+**4.16.1**
+
+ā sa̱tyo yā̍tu ma̱ghavā̍m̐ ṛjī̱ṣī drava̍ntv asya̱ hara̍ya̱ upa̍ naḥ | tasmā̱ id andha̍ḥ suṣumā su̱dakṣa̍m i̱hābhi̍pi̱tvaṁ ka̍rate gṛṇā̱naḥ ||
+
+**4.16.2**
+
+ava̍ sya śū̱rādhva̍no̱ nānte̱ 'smin no̍ a̱dya sava̍ne ma̱ndadhyai̍ | śaṁsā̍ty u̱ktham u̱śane̍va ve̱dhāś ci̍ki̱tuṣe̍ asu̱ryā̍ya̱ manma̍ ||
+
+**4.16.3**
+
+ka̱vir na ni̱ṇyaṁ vi̱dathā̍ni̱ sādha̱n vṛṣā̱ yat seka̍ṁ vipipā̱no arcā̍t | di̱va i̱tthā jī̍janat sa̱pta kā̱rūn ahnā̍ cic cakrur va̱yunā̍ gṛ̱ṇanta̍ḥ ||
+
+**4.16.4**
+
+sva1̱̍r yad vedi̍ su̱dṛśī̍kam a̱rkair mahi̱ jyotī̍ rurucu̱r yad dha̱ vasto̍ḥ | a̱ndhā tamā̍ṁsi̱ dudhi̍tā vi̱cakṣe̱ nṛbhya̍ś cakāra̱ nṛta̍mo a̱bhiṣṭau̍ ||
+
+**4.16.5**
+
+va̱va̱kṣa indro̱ ami̍tam ṛjī̱ṣy u1̱̍bhe ā pa̍prau̱ roda̍sī mahi̱tvā | ata̍ś cid asya mahi̱mā vi re̍cy a̱bhi yo viśvā̱ bhuva̍nā ba̱bhūva̍ ||
+
+**4.16.6**
+
+viśvā̍ni śa̱kro naryā̍ṇi vi̱dvān a̱po ri̍reca̱ sakhi̍bhi̱r nikā̍maiḥ | aśmā̍naṁ ci̱d ye bi̍bhi̱dur vaco̍bhir vra̱jaṁ goma̍ntam u̱śijo̱ vi va̍vruḥ ||
+
+**4.16.7**
+
+a̱po vṛ̱traṁ va̍vri̱vāṁsa̱m parā̍ha̱n prāva̍t te̱ vajra̍m pṛthi̱vī sace̍tāḥ | prārṇā̍ṁsi samu̱driyā̍ṇy aino̱ḥ pati̱r bhava̱ñ chava̍sā śūra dhṛṣṇo ||
+
+**4.16.8**
+
+a̱po yad adri̍m puruhūta̱ darda̍r ā̱vir bhu̍vat sa̱ramā̍ pū̱rvyaṁ te̍ | sa no̍ ne̱tā vāja̱m ā da̍rṣi̱ bhūri̍ṁ go̱trā ru̱jann aṅgi̍robhir gṛṇā̱naḥ ||
+
+**4.16.9**
+
+acchā̍ ka̱viṁ nṛ̍maṇo gā a̱bhiṣṭau̱ sva̍rṣātā maghava̱n nādha̍mānam | ū̱tibhi̱s tam i̍ṣaṇo dyu̱mnahū̍tau̱ ni mā̱yāvā̱n abra̍hmā̱ dasyu̍r arta ||
+
+**4.16.10**
+
+ā da̍syu̱ghnā mana̍sā yā̱hy asta̱m bhuva̍t te̱ kutsa̍ḥ sa̱khye nikā̍maḥ | sve yonau̱ ni ṣa̍data̱ṁ sarū̍pā̱ vi vā̍ṁ cikitsad ṛta̱cid dha̱ nārī̍ ||
+
+**4.16.11**
+
+yāsi̱ kutse̍na sa̱ratha̍m ava̱syus to̱do vāta̍sya̱ haryo̱r īśā̍naḥ | ṛ̱jrā vāja̱ṁ na gadhya̱ṁ yuyū̍ṣan ka̱vir yad aha̱n pāryā̍ya̱ bhūṣā̍t ||
+
+**4.16.12**
+
+kutsā̍ya̱ śuṣṇa̍m a̱śuṣa̱ṁ ni ba̍rhīḥ prapi̱tve ahna̱ḥ kuya̍vaṁ sa̱hasrā̍ | sa̱dyo dasyū̱n pra mṛ̍ṇa ku̱tsyena̱ pra sūra̍ś ca̱kraṁ vṛ̍hatād a̱bhīke̍ ||
+
+**4.16.13**
+
+tvam pipru̱m mṛga̍yaṁ śūśu̱vāṁsa̍m ṛ̱jiśva̍ne vaidathi̱nāya̍ randhīḥ | pa̱ñcā̱śat kṛ̱ṣṇā ni va̍paḥ sa̱hasrātka̱ṁ na puro̍ jari̱mā vi da̍rdaḥ ||
+
+**4.16.14**
+
+sūra̍ upā̱ke ta̱nva1̱̍ṁ dadhā̍no̱ vi yat te̱ cety a̱mṛta̍sya̱ varpa̍ḥ | mṛ̱go na ha̱stī tavi̍ṣīm uṣā̱ṇaḥ si̱ṁho na bhī̱ma āyu̍dhāni̱ bibhra̍t ||
+
+**4.16.15**
+
+indra̱ṁ kāmā̍ vasū̱yanto̍ agma̱n sva̍rmīḻhe̱ na sava̍ne cakā̱nāḥ | śra̱va̱syava̍ḥ śaśamā̱nāsa̍ u̱kthair oko̱ na ra̱ṇvā su̱dṛśī̍va pu̱ṣṭiḥ ||
+
+**4.16.16**
+
+tam id va̱ indra̍ṁ su̱hava̍ṁ huvema̱ yas tā ca̱kāra̱ naryā̍ pu̱rūṇi̍ | yo māva̍te jari̱tre gadhya̍ṁ cin ma̱kṣū vāja̱m bhara̍ti spā̱rharā̍dhāḥ ||
+
+**4.16.17**
+
+ti̱gmā yad a̱ntar a̱śani̱ḥ patā̍ti̱ kasmi̍ñ cic chūra muhu̱ke janā̍nām | gho̱rā yad a̍rya̱ samṛ̍ti̱r bhavā̱ty adha̍ smā nas ta̱nvo̍ bodhi go̱pāḥ ||
+
+**4.16.18**
+
+bhuvo̍ 'vi̱tā vā̱made̍vasya dhī̱nām bhuva̱ḥ sakhā̍vṛ̱ko vāja̍sātau | tvām anu̱ prama̍ti̱m ā ja̍ganmoru̱śaṁso̍ jari̱tre vi̱śvadha̍ syāḥ ||
+
+**4.16.19**
+
+e̱bhir nṛbhi̍r indra tvā̱yubhi̍ṣ ṭvā ma̱ghava̍dbhir maghava̱n viśva̍ ā̱jau | dyāvo̱ na dyu̱mnair a̱bhi santo̍ a̱ryaḥ kṣa̱po ma̍dema śa̱rada̍ś ca pū̱rvīḥ ||
+
+**4.16.20**
+
+e̱ved indrā̍ya vṛṣa̱bhāya̱ vṛṣṇe̱ brahmā̍karma̱ bhṛga̍vo̱ na ratha̍m | nū ci̱d yathā̍ naḥ sa̱khyā vi̱yoṣa̱d asa̍n na u̱gro̍ 'vi̱tā ta̍nū̱pāḥ ||
+
+**4.16.21**
+
+nū ṣṭu̱ta i̍ndra̱ nū gṛ̍ṇā̱na iṣa̍ṁ jari̱tre na̱dyo̱3̱̍ na pī̍peḥ | akā̍ri te harivo̱ brahma̱ navya̍ṁ dhi̱yā syā̍ma ra̱thya̍ḥ sadā̱sāḥ ||
+
+**4.17.1**
+
+tvam ma̱hām̐ i̍ndra̱ tubhya̍ṁ ha̱ kṣā anu̍ kṣa̱tram ma̱ṁhanā̍ manyata̱ dyauḥ | tvaṁ vṛ̱traṁ śava̍sā jagha̱nvān sṛ̱jaḥ sindhū̱m̐r ahi̍nā jagrasā̱nān ||
+
+**4.17.2**
+
+tava̍ tvi̱ṣo jani̍man rejata̱ dyau reja̱d bhūmi̍r bhi̱yasā̱ svasya̍ ma̱nyoḥ | ṛ̱ghā̱yanta̍ su̱bhva1̱̍ḥ parva̍tāsa̱ ārda̱n dhanvā̍ni sa̱raya̍nta̱ āpa̍ḥ ||
+
+**4.17.3**
+
+bhi̱nad gi̱riṁ śava̍sā̱ vajra̍m i̱ṣṇann ā̍viṣkṛṇvā̱naḥ sa̍hasā̱na oja̍ḥ | vadhī̍d vṛ̱traṁ vajre̍ṇa mandasā̱naḥ sara̱nn āpo̱ java̍sā ha̱tavṛ̍ṣṇīḥ ||
+
+**4.17.4**
+
+su̱vīra̍s te jani̱tā ma̍nyata̱ dyaur indra̍sya ka̱rtā svapa̍stamo bhūt | ya ī̍ṁ ja̱jāna̍ sva̱rya̍ṁ su̱vajra̱m ana̍pacyuta̱ṁ sada̍so̱ na bhūma̍ ||
+
+**4.17.5**
+
+ya eka̍ ic cyā̱vaya̍ti̱ pra bhūmā̱ rājā̍ kṛṣṭī̱nām pu̍ruhū̱ta indra̍ḥ | sa̱tyam e̍na̱m anu̱ viśve̍ madanti rā̱tiṁ de̱vasya̍ gṛṇa̱to ma̱ghona̍ḥ ||
+
+**4.17.6**
+
+sa̱trā somā̍ abhavann asya̱ viśve̍ sa̱trā madā̍so bṛha̱to madi̍ṣṭhāḥ | sa̱trābha̍vo̱ vasu̍pati̱r vasū̍nā̱ṁ datre̱ viśvā̍ adhithā indra kṛ̱ṣṭīḥ ||
+
+**4.17.7**
+
+tvam adha̍ pratha̱maṁ jāya̍mā̱no 'me̱ viśvā̍ adhithā indra kṛ̱ṣṭīḥ | tvam prati̍ pra̱vata̍ ā̱śayā̍na̱m ahi̱ṁ vajre̍ṇa maghava̱n vi vṛ̍ścaḥ ||
+
+**4.17.8**
+
+sa̱trā̱haṇa̱ṁ dādhṛ̍ṣi̱ṁ tumra̱m indra̍m ma̱hām a̍pā̱raṁ vṛ̍ṣa̱bhaṁ su̱vajra̍m | hantā̱ yo vṛ̱traṁ sani̍to̱ta vāja̱ṁ dātā̍ ma̱ghāni̍ ma̱ghavā̍ su̱rādhā̍ḥ ||
+
+**4.17.9**
+
+a̱yaṁ vṛta̍ś cātayate samī̱cīr ya ā̱jiṣu̍ ma̱ghavā̍ śṛ̱ṇva eka̍ḥ | a̱yaṁ vāja̍m bharati̱ yaṁ sa̱noty a̱sya pri̱yāsa̍ḥ sa̱khye syā̍ma ||
+
+**4.17.10**
+
+a̱yaṁ śṛ̍ṇve̱ adha̱ jaya̍nn u̱ta ghnann a̱yam u̱ta pra kṛ̍ṇute yu̱dhā gāḥ | ya̱dā sa̱tyaṁ kṛ̍ṇu̱te ma̱nyum indro̱ viśva̍ṁ dṛ̱ḻham bha̍yata̱ eja̍d asmāt ||
+
+**4.17.11**
+
+sam indro̱ gā a̍jaya̱t saṁ hira̍ṇyā̱ sam a̍śvi̱yā ma̱ghavā̱ yo ha̍ pū̱rvīḥ | e̱bhir nṛbhi̱r nṛta̍mo asya śā̱kai rā̱yo vi̍bha̱ktā sa̍mbha̱raś ca̱ vasva̍ḥ ||
+
+**4.17.12**
+
+kiya̍t svi̱d indro̱ adhy e̍ti mā̱tuḥ kiya̍t pi̱tur ja̍ni̱tur yo ja̱jāna̍ | yo a̍sya̱ śuṣma̍m muhu̱kair iya̍rti̱ vāto̱ na jū̱taḥ sta̱naya̍dbhir a̱bhraiḥ ||
+
+**4.17.13**
+
+kṣi̱yanta̍ṁ tva̱m akṣi̍yantaṁ kṛṇo̱tīya̍rti re̱ṇum ma̱ghavā̍ sa̱moha̍m | vi̱bha̱ñja̱nur a̱śani̍mām̐ iva̱ dyaur u̱ta sto̱tāra̍m ma̱ghavā̱ vasau̍ dhāt ||
+
+**4.17.14**
+
+a̱yaṁ ca̱kram i̍ṣaṇa̱t sūrya̍sya̱ ny eta̍śaṁ rīramat sasṛmā̱ṇam | ā kṛ̱ṣṇa ī̍ṁ juhurā̱ṇo ji̍gharti tva̱co bu̱dhne raja̍so a̱sya yonau̍ ||
+
+**4.17.15**
+
+asi̍knyā̱ṁ yaja̍māno̱ na hotā̍ ||
+
+**4.17.16**
+
+ga̱vyanta̱ indra̍ṁ sa̱khyāya̱ viprā̍ aśvā̱yanto̱ vṛṣa̍ṇaṁ vā̱jaya̍ntaḥ | ja̱nī̱yanto̍ jani̱dām akṣi̍toti̱m ā cyā̍vayāmo 'va̱te na kośa̍m ||
+
+**4.17.17**
+
+trā̱tā no̍ bodhi̱ dadṛ̍śāna ā̱pir a̍bhikhyā̱tā ma̍rḍi̱tā so̱myānā̍m | sakhā̍ pi̱tā pi̱tṛta̍maḥ pitṝ̱ṇāṁ karte̍m u lo̱kam u̍śa̱te va̍yo̱dhāḥ ||
+
+**4.17.18**
+
+sa̱khī̱ya̱tām a̍vi̱tā bo̍dhi̱ sakhā̍ gṛṇā̱na i̍ndra stuva̱te vayo̍ dhāḥ ||
+
+**4.17.19**
+
+stu̱ta indro̍ ma̱ghavā̱ yad dha̍ vṛ̱trā bhūrī̱ṇy eko̍ apra̱tīni̍ hanti | a̱sya pri̱yo ja̍ri̱tā yasya̱ śarma̱n naki̍r de̱vā vā̱raya̍nte̱ na martā̍ḥ ||
+
+**4.17.20**
+
+e̱vā na̱ indro̍ ma̱ghavā̍ vira̱pśī kara̍t sa̱tyā ca̍rṣaṇī̱dhṛd a̍na̱rvā | tvaṁ rājā̍ ja̱nuṣā̍ṁ dhehy a̱sme adhi̱ śravo̱ māhi̍na̱ṁ yaj ja̍ri̱tre ||
+
+**4.17.21**
+
+nū ṣṭu̱ta i̍ndra̱ nū gṛ̍ṇā̱na iṣa̍ṁ jari̱tre na̱dyo̱3̱̍ na pī̍peḥ | akā̍ri te harivo̱ brahma̱ navya̍ṁ dhi̱yā syā̍ma ra̱thya̍ḥ sadā̱sāḥ ||
+
+**4.18.1**
+
+a̱yam panthā̱ anu̍vittaḥ purā̱ṇo yato̍ de̱vā u̱dajā̍yanta̱ viśve̍ | ata̍ś ci̱d ā ja̍niṣīṣṭa̱ pravṛ̍ddho̱ mā mā̱tara̍m amu̱yā patta̍ve kaḥ ||
+
+**4.18.2**
+
+nāham ato̱ nir a̍yā du̱rgahai̱tat ti̱ra̱ścatā̍ pā̱rśvān nir ga̍māṇi | ba̱hūni̍ me̱ akṛ̍tā̱ kartvā̍ni̱ yudhyai̍ tvena̱ saṁ tve̍na pṛcchai ||
+
+**4.18.3**
+
+pa̱rā̱ya̱tīm mā̱tara̱m anv a̍caṣṭa̱ na nānu̍ gā̱ny anu̱ nū ga̍māni | tvaṣṭu̍r gṛ̱he a̍piba̱t soma̱m indra̍ḥ śatadha̱nya̍ṁ ca̱mvo̍ḥ su̱tasya̍ ||
+
+**4.18.4**
+
+kiṁ sa ṛdha̍k kṛṇava̱d yaṁ sa̱hasra̍m mā̱so ja̱bhāra̍ śa̱rada̍ś ca pū̱rvīḥ | na̱hī nv a̍sya prati̱māna̱m asty a̱ntar jā̱teṣū̱ta ye jani̍tvāḥ ||
+
+**4.18.5**
+
+a̱va̱dyam i̍va̱ manya̍mānā̱ guhā̍ka̱r indra̍m mā̱tā vī̱rye̍ṇā̱ nyṛ̍ṣṭam | athod a̍sthāt sva̱yam atka̱ṁ vasā̍na̱ ā roda̍sī apṛṇā̱j jāya̍mānaḥ ||
+
+**4.18.6**
+
+e̱tā a̍rṣanty alalā̱bhava̍ntīr ṛ̱tāva̍rīr iva sa̱ṁkrośa̍mānāḥ | e̱tā vi pṛ̍ccha̱ kim i̱dam bha̍nanti̱ kam āpo̱ adri̍m pari̱dhiṁ ru̍janti ||
+
+**4.18.7**
+
+kim u̍ ṣvid asmai ni̱vido̍ bhana̱ntendra̍syāva̱dyaṁ di̍dhiṣanta̱ āpa̍ḥ | mamai̱tān pu̱tro ma̍ha̱tā va̱dhena̍ vṛ̱traṁ ja̍gha̱nvām̐ a̍sṛja̱d vi sindhū̍n ||
+
+**4.18.8**
+
+mama̍c ca̱na tvā̍ yuva̱tiḥ pa̱rāsa̱ mama̍c ca̱na tvā̍ ku̱ṣavā̍ ja̱gāra̍ | mama̍c ci̱d āpa̱ḥ śiśa̍ve mamṛḍyu̱r mama̍c ci̱d indra̱ḥ saha̱sod a̍tiṣṭhat ||
+
+**4.18.9**
+
+mama̍c ca̱na te̍ maghava̱n vya̍ṁso nivivi̱dhvām̐ apa̱ hanū̍ ja̱ghāna̍ | adhā̱ nivi̍ddha̱ utta̍ro babhū̱vāñ chiro̍ dā̱sasya̱ sam pi̍ṇag va̱dhena̍ ||
+
+**4.18.10**
+
+gṛ̱ṣṭiḥ sa̍sūva̱ sthavi̍raṁ tavā̱gām a̍nādhṛ̱ṣyaṁ vṛ̍ṣa̱bhaṁ tumra̱m indra̍m | arī̍ḻhaṁ va̱tsaṁ ca̱rathā̍ya mā̱tā sva̱yaṁ gā̱tuṁ ta̱nva̍ i̱cchamā̍nam ||
+
+**4.18.11**
+
+u̱ta mā̱tā ma̍hi̱ṣam anv a̍venad a̱mī tvā̍ jahati putra de̱vāḥ | athā̍bravīd vṛ̱tram indro̍ hani̱ṣyan sakhe̍ viṣṇo vita̱raṁ vi kra̍masva ||
+
+**4.18.12**
+
+kas te̍ mā̱tara̍ṁ vi̱dhavā̍m acakrac cha̱yuṁ kas tvām a̍jighāṁsa̱c cara̍ntam | kas te̍ de̱vo adhi̍ mārḍī̱ka ā̍sī̱d yat prākṣi̍ṇāḥ pi̱tara̍m pāda̱gṛhya̍ ||
+
+**4.18.13**
+
+ava̍rtyā̱ śuna̍ ā̱ntrāṇi̍ pece̱ na de̱veṣu̍ vivide marḍi̱tāra̍m | apa̍śyaṁ jā̱yām ama̍hīyamānā̱m adhā̍ me śye̱no madhv ā ja̍bhāra ||
+
+**4.19.1**
+
+e̱vā tvām i̍ndra vajri̱nn atra̱ viśve̍ de̱vāsa̍ḥ su̱havā̍sa̱ ūmā̍ḥ | ma̱hām u̱bhe roda̍sī vṛ̱ddham ṛ̱ṣvaṁ nir eka̱m id vṛ̍ṇate vṛtra̱hatye̍ ||
+
+**4.19.2**
+
+avā̍sṛjanta̱ jivra̍yo̱ na de̱vā bhuva̍ḥ sa̱mrāḻ i̍ndra sa̱tyayo̍niḥ | aha̱nn ahi̍m pari̱śayā̍na̱m arṇa̱ḥ pra va̍rta̱nīr a̍rado vi̱śvadhe̍nāḥ ||
+
+**4.19.3**
+
+atṛ̍pṇuvanta̱ṁ viya̍tam abu̱dhyam abu̍dhyamānaṁ suṣupā̱ṇam i̍ndra | sa̱pta prati̍ pra̱vata̍ ā̱śayā̍na̱m ahi̱ṁ vajre̍ṇa̱ vi ri̍ṇā apa̱rvan ||
+
+**4.19.4**
+
+akṣo̍daya̱c chava̍sā̱ kṣāma̍ bu̱dhnaṁ vār ṇa vāta̱s tavi̍ṣībhi̱r indra̍ḥ | dṛ̱ḻhāny au̍bhnād u̱śamā̍na̱ oja 'vā̍bhinat ka̱kubha̱ḥ parva̍tānām ||
+
+**4.19.5**
+
+a̱bhi pra da̍dru̱r jana̍yo̱ na garbha̱ṁ rathā̍ iva̱ pra ya̍yuḥ sā̱kam adra̍yaḥ | ata̍rpayo vi̱sṛta̍ u̱bja ū̱rmīn tvaṁ vṛ̱tām̐ a̍riṇā indra̱ sindhū̍n ||
+
+**4.19.6**
+
+tvam ma̱hīm a̱vani̍ṁ vi̱śvadhe̍nāṁ tu̱rvīta̍ye va̱yyā̍ya̱ kṣara̍ntīm | ara̍mayo̱ nama̱saija̱d arṇa̍ḥ sutara̱ṇām̐ a̍kṛṇor indra̱ sindhū̍n ||
+
+**4.19.7**
+
+prāgruvo̍ nabha̱nvo̱3̱̍ na vakvā̍ dhva̱srā a̍pinvad yuva̱tīr ṛ̍ta̱jñāḥ ||
+
+**4.19.8**
+
+pū̱rvīr u̱ṣasa̍ḥ śa̱rada̍ś ca gū̱rtā vṛ̱traṁ ja̍gha̱nvām̐ a̍sṛja̱d vi sindhū̍n | pari̍ṣṭhitā atṛṇad badbadhā̱nāḥ sī̱rā indra̱ḥ sravi̍tave pṛthi̱vyā ||
+
+**4.19.9**
+
+va̱mrībhi̍ḥ pu̱tram a̱gruvo̍ adā̱naṁ ni̱veśa̍nād dhariva̱ ā ja̍bhartha | vy a1̱̍ndho a̍khya̱d ahi̍m ādadā̱no nir bhū̍d ukha̱cchit sam a̍ranta̱ parva̍ ||
+
+**4.19.10**
+
+pra te̱ pūrvā̍ṇi̱ kara̍ṇāni viprāvi̱dvām̐ ā̍ha vi̱duṣe̱ karā̍ṁsi | yathā̍-yathā̱ vṛṣṇyā̍ni̱ svagū̱rtāpā̍ṁsi rāja̱n naryāvi̍veṣīḥ ||
+
+**4.19.11**
+
+nū ṣṭu̱ta i̍ndra̱ nū gṛ̍ṇā̱na iṣa̍ṁ jari̱tre na̱dyo̱3̱̍ na pī̍peḥ | akā̍ri te harivo̱ brahma̱ navya̍ṁ dhi̱yā syā̍ma ra̱thya̍ḥ sadā̱sāḥ ||
+
+**4.20.1**
+
+ā na̱ indro̍ dū̱rād ā na̍ ā̱sād a̍bhiṣṭi̱kṛd ava̍se yāsad u̱graḥ | oji̍ṣṭhebhir nṛ̱pati̱r vajra̍bāhuḥ sa̱ṁge sa̱matsu̍ tu̱rvaṇi̍ḥ pṛta̱nyūn ||
+
+**4.20.2**
+
+ā na̱ indro̱ hari̍bhir yā̱tv acchā̍rvācī̱no 'va̍se̱ rādha̍se ca | tiṣṭhā̍ti va̱jrī ma̱ghavā̍ vira̱pśīmaṁ ya̱jñam anu̍ no̱ vāja̍sātau ||
+
+**4.20.3**
+
+i̱maṁ ya̱jñaṁ tvam a̱smāka̍m indra pu̱ro dadha̍t saniṣyasi̱ kratu̍ṁ naḥ | śva̱ghnīva̍ vajrin sa̱naye̱ dhanā̍nā̱ṁ tvayā̍ va̱yam a̱rya ā̱jiṁ ja̍yema ||
+
+**4.20.4**
+
+u̱śann u̱ ṣu ṇa̍ḥ su̱manā̍ upā̱ke soma̍sya̱ nu suṣu̍tasya svadhāvaḥ | pā i̍ndra̱ prati̍bhṛtasya̱ madhva̱ḥ sam andha̍sā mamadaḥ pṛ̱ṣṭhye̍na ||
+
+**4.20.5**
+
+vi yo ra̍ra̱pśa ṛṣi̍bhi̱r nave̍bhir vṛ̱kṣo na pa̱kvaḥ sṛṇyo̱ na jetā̍ | maryo̱ na yoṣā̍m a̱bhi manya̍mā̱no 'cchā̍ vivakmi puruhū̱tam indra̍m ||
+
+**4.20.6**
+
+gi̱rir na yaḥ svata̍vām̐ ṛ̱ṣva indra̍ḥ sa̱nād e̱va saha̍se jā̱ta u̱graḥ ||
+
+**4.20.7**
+
+na yasya̍ va̱rtā ja̱nuṣā̱ nv asti̱ na rādha̍sa āmarī̱tā ma̱ghasya̍ | u̱dvā̱vṛ̱ṣā̱ṇas ta̍viṣīva ugrā̱smabhya̍ṁ daddhi puruhūta rā̱yaḥ ||
+
+**4.20.8**
+
+īkṣe̍ rā̱yaḥ kṣaya̍sya carṣaṇī̱nām u̱ta vra̱jam a̍pava̱rtāsi̱ gonā̍m | śi̱kṣā̱na̱raḥ sa̍mi̱theṣu̍ pra̱hāvā̱n vasvo̍ rā̱śim a̍bhine̱tāsi̱ bhūri̍m ||
+
+**4.20.9**
+
+kayā̱ tac chṛ̍ṇve̱ śacyā̱ śaci̍ṣṭho̱ yayā̍ kṛ̱ṇoti̱ muhu̱ kā ci̍d ṛ̱ṣvaḥ | pu̱ru dā̱śuṣe̱ vica̍yiṣṭho̱ aṁho 'thā̍ dadhāti̱ dravi̍ṇaṁ jari̱tre ||
+
+**4.20.10**
+
+mā no̍ mardhī̱r ā bha̍rā da̱ddhi tan na̱ḥ pra dā̱śuṣe̱ dāta̍ve̱ bhūri̱ yat te̍ | navye̍ de̱ṣṇe śa̱ste a̱smin ta̍ u̱kthe pra bra̍vāma va̱yam i̍ndra stu̱vanta̍ḥ ||
+
+**4.20.11**
+
+nū ṣṭu̱ta i̍ndra̱ nū gṛ̍ṇā̱na iṣa̍ṁ jari̱tre na̱dyo̱3̱̍ na pī̍peḥ | akā̍ri te harivo̱ brahma̱ navya̍ṁ dhi̱yā syā̍ma ra̱thya̍ḥ sadā̱sāḥ ||
+
+**4.21.1**
+
+ā yā̱tv indro 'va̍sa̱ upa̍ na i̱ha stu̱taḥ sa̍dha̱mād a̍stu̱ śūra̍ḥ | vā̱vṛ̱dhā̱nas tavi̍ṣī̱r yasya̍ pū̱rvīr dyaur na kṣa̱tram a̱bhibhū̍ti̱ puṣyā̍t ||
+
+**4.21.2**
+
+tasyed i̱ha sta̍vatha̱ vṛṣṇyā̍ni tuvidyu̱mnasya̍ tuvi̱rādha̍so̱ nṝn | yasya̱ kratu̍r vida̱thyo̱3̱̍ na sa̱mrāṭ sā̱hvān taru̍tro a̱bhy asti̍ kṛ̱ṣṭīḥ ||
+
+**4.21.3**
+
+ā yā̱tv indro̍ di̱va ā pṛ̍thi̱vyā ma̱kṣū sa̍mu̱drād u̱ta vā̱ purī̍ṣāt | sva̍rṇarā̱d ava̍se no ma̱rutvā̍n parā̱vato̍ vā̱ sada̍nād ṛ̱tasya̍ ||
+
+**4.21.4**
+
+sthū̱rasya̍ rā̱yo bṛ̍ha̱to ya īśe̱ tam u̍ ṣṭavāma vi̱dathe̱ṣv indra̍m | yo vā̱yunā̱ jaya̍ti̱ goma̍tīṣu̱ pra dhṛ̍ṣṇu̱yā naya̍ti̱ vasyo̱ accha̍ ||
+
+**4.21.5**
+
+upa̱ yo namo̱ nama̍si stabhā̱yann iya̍rti̱ vāca̍ṁ ja̱naya̱n yaja̍dhyai | ṛ̱ñja̱sā̱naḥ pu̍ru̱vāra̍ u̱kthair endra̍ṁ kṛṇvīta̱ sada̍neṣu̱ hotā̍ ||
+
+**4.21.6**
+
+dhi̱ṣā yadi̍ dhiṣa̱ṇyanta̍ḥ sara̱ṇyān sada̍nto̱ adri̍m auśi̱jasya̱ gohe̍ | ā du̱roṣā̍ḥ pā̱styasya̱ hotā̱ yo no̍ ma̱hān sa̱ṁvara̍ṇeṣu̱ vahni̍ḥ ||
+
+**4.21.7**
+
+sa̱trā yad ī̍m bhārva̱rasya̱ vṛṣṇa̱ḥ siṣa̍kti̱ śuṣma̍ḥ stuva̱te bharā̍ya | guhā̱ yad ī̍m auśi̱jasya̱ gohe̱ pra yad dhi̱ye prāya̍se̱ madā̍ya ||
+
+**4.21.8**
+
+vi yad varā̍ṁsi̱ parva̍tasya vṛ̱ṇve payo̍bhir ji̱nve a̱pāṁ javā̍ṁsi | vi̱dad gau̱rasya̍ gava̱yasya̱ gohe̱ yadī̱ vājā̍ya su̱dhyo̱3̱̍ vaha̍nti ||
+
+**4.21.9**
+
+bha̱drā te̱ hastā̱ sukṛ̍to̱ta pā̱ṇī pra̍ya̱ntārā̍ stuva̱te rādha̍ indra | kā te̱ niṣa̍tti̱ḥ kim u̱ no ma̍matsi̱ kiṁ nod-u̍d u harṣase̱ dāta̱vā u̍ ||
+
+**4.21.10**
+
+e̱vā vasva̱ indra̍ḥ sa̱tyaḥ sa̱mrāḍ ḍhantā̍ vṛ̱traṁ vari̍vaḥ pū̱rave̍ kaḥ | puru̍ṣṭuta̱ kratvā̍ naḥ śagdhi rā̱yo bha̍kṣī̱ya te 'va̍so̱ daivya̍sya ||
+
+**4.21.11**
+
+nū ṣṭu̱ta i̍ndra̱ nū gṛ̍ṇā̱na iṣa̍ṁ jari̱tre na̱dyo̱3̱̍ na pī̍peḥ | akā̍ri te harivo̱ brahma̱ navya̍ṁ dhi̱yā syā̍ma ra̱thya̍ḥ sadā̱sāḥ ||
+
+**4.22.1**
+
+yan na̱ indro̍ juju̱ṣe yac ca̱ vaṣṭi̱ tan no̍ ma̱hān ka̍rati śu̱ṣmy ā ci̍t | brahma̱ stoma̍m ma̱ghavā̱ soma̍m u̱kthā yo aśmā̍na̱ṁ śava̍sā̱ bibhra̱d eti̍ ||
+
+**4.22.2**
+
+vṛṣā̱ vṛṣa̍ndhi̱ṁ catu̍raśri̱m asya̍nn u̱gro bā̱hubhyā̱ṁ nṛta̍ma̱ḥ śacī̍vān | śri̱ye paru̍ṣṇīm u̱ṣamā̍ṇa̱ ūrṇā̱ṁ yasyā̱ḥ parvā̍ṇi sa̱khyāya̍ vi̱vye ||
+
+**4.22.3**
+
+yo de̱vo de̱vata̍mo̱ jāya̍māno ma̱ho vāje̍bhir ma̱hadbhi̍ś ca̱ śuṣmai̍ḥ | dadhā̍no̱ vajra̍m bā̱hvor u̱śanta̱ṁ dyām ame̍na rejaya̱t pra bhūma̍ ||
+
+**4.22.4**
+
+viśvā̱ rodhā̍ṁsi pra̱vata̍ś ca pū̱rvīr dyaur ṛ̱ṣvāj jani̍man rejata̱ kṣāḥ | ā mā̱tarā̱ bhara̍ti śu̱ṣmy ā gor nṛ̱vat pari̍jman nonuvanta̱ vātā̍ḥ ||
+
+**4.22.5**
+
+tā tū ta̍ indra maha̱to ma̱hāni̱ viśve̱ṣv it sava̍neṣu pra̱vācyā̍ | yac chū̍ra dhṛṣṇo dhṛṣa̱tā da̍dhṛ̱ṣvān ahi̱ṁ vajre̍ṇa̱ śava̱sāvi̍veṣīḥ ||
+
+**4.22.6**
+
+tā tū te̍ sa̱tyā tu̍vinṛmṇa̱ viśvā̱ pra dhe̱nava̍ḥ sisrate̱ vṛṣṇa̱ ūdhna̍ḥ | adhā̍ ha̱ tvad vṛ̍ṣamaṇo bhiyā̱nāḥ pra sindha̍vo̱ java̍sā cakramanta ||
+
+**4.22.7**
+
+atrāha̍ te hariva̱s tā u̍ de̱vīr avo̍bhir indra stavanta̱ svasā̍raḥ | yat sī̱m anu̱ pra mu̱co ba̍dbadhā̱nā dī̱rghām anu̱ prasi̍tiṁ syanda̱yadhyai̍ ||
+
+**4.22.8**
+
+pi̱pī̱ḻe a̱ṁśur madyo̱ na sindhu̱r ā tvā̱ śamī̍ śaśamā̱nasya̍ śa̱ktiḥ ||
+
+**4.22.9**
+
+a̱sme varṣi̍ṣṭhā kṛṇuhi̱ jyeṣṭhā̍ nṛ̱mṇāni̍ sa̱trā sa̍hure̱ sahā̍ṁsi | a̱smabhya̍ṁ vṛ̱trā su̱hanā̍ni randhi ja̱hi vadha̍r va̱nuṣo̱ martya̍sya ||
+
+**4.22.10**
+
+a̱smāka̱m it su śṛ̍ṇuhi̱ tvam i̍ndrā̱smabhya̍ṁ ci̱trām̐ upa̍ māhi̱ vājā̍n | a̱smabhya̱ṁ viśvā̍ iṣaṇa̱ḥ pura̍ṁdhīr a̱smāka̱ṁ su ma̍ghavan bodhi go̱dāḥ ||
+
+**4.22.11**
+
+nū ṣṭu̱ta i̍ndra̱ nū gṛ̍ṇā̱na iṣa̍ṁ jari̱tre na̱dyo̱3̱̍ na pī̍peḥ | akā̍ri te harivo̱ brahma̱ navya̍ṁ dhi̱yā syā̍ma ra̱thya̍ḥ sadā̱sāḥ ||
+
+**4.23.1**
+
+ka̱thā ma̱hām a̍vṛdha̱t kasya̱ hotu̍r ya̱jñaṁ ju̍ṣā̱ṇo a̱bhi soma̱m ūdha̍ḥ | piba̍nn uśā̱no ju̱ṣamā̍ṇo̱ andho̍ vava̱kṣa ṛ̱ṣvaḥ śu̍ca̱te dhanā̍ya ||
+
+**4.23.2**
+
+ko a̍sya vī̱raḥ sa̍dha̱māda̍m āpa̱ sam ā̍naṁśa suma̱tibhi̱ḥ ko a̍sya | kad a̍sya ci̱traṁ ci̍kite̱ kad ū̱tī vṛ̱dhe bhu̍vac chaśamā̱nasya̱ yajyo̍ḥ ||
+
+**4.23.3**
+
+ka̱thā śṛ̍ṇoti hū̱yamā̍na̱m indra̍ḥ ka̱thā śṛ̱ṇvann ava̍sām asya veda | kā a̍sya pū̱rvīr upa̍mātayo ha ka̱thaina̍m āhu̱ḥ papu̍riṁ jari̱tre ||
+
+**4.23.4**
+
+ka̱thā sa̱bādha̍ḥ śaśamā̱no a̍sya̱ naśa̍d a̱bhi dravi̍ṇa̱ṁ dīdhyā̍naḥ | de̱vo bhu̍va̱n nave̍dā ma ṛ̱tānā̱ṁ namo̍ jagṛ̱bhvām̐ a̱bhi yaj jujo̍ṣat ||
+
+**4.23.5**
+
+ka̱thā kad a̱syā u̱ṣaso̱ vyu̍ṣṭau de̱vo marta̍sya sa̱khyaṁ ju̍joṣa | ka̱thā kad a̍sya sa̱khyaṁ sakhi̍bhyo̱ ye a̍smi̱n kāma̍ṁ su̱yuja̍ṁ tata̱sre ||
+
+**4.23.6**
+
+kim ād ama̍traṁ sa̱khyaṁ sakhi̍bhyaḥ ka̱dā nu te̍ bhrā̱tram pra bra̍vāma | śri̱ye su̱dṛśo̱ vapu̍r asya̱ sargā̱ḥ sva1̱̍r ṇa ci̱trata̍mam iṣa̱ ā goḥ ||
+
+**4.23.7**
+
+druha̱ṁ jighā̍ṁsan dhva̱rasa̍m ani̱ndrāṁ teti̍kte ti̱gmā tu̱jase̱ anī̍kā | ṛ̱ṇā ci̱d yatra̍ ṛṇa̱yā na̍ u̱gro dū̱re ajñā̍tā u̱ṣaso̍ babā̱dhe ||
+
+**4.23.8**
+
+ṛ̱tasya̱ hi śu̱rudha̱ḥ santi̍ pū̱rvīr ṛ̱tasya̍ dhī̱tir vṛ̍ji̱nāni̍ hanti | ṛ̱tasya̱ śloko̍ badhi̱rā ta̍tarda̱ karṇā̍ budhā̱naḥ śu̱camā̍na ā̱yoḥ ||
+
+**4.23.9**
+
+ṛ̱tasya̍ dṛ̱ḻhā dha̱ruṇā̍ni santi pu̱rūṇi̍ ca̱ndrā vapu̍ṣe̱ vapū̍ṁṣi | ṛ̱tena̍ dī̱rgham i̍ṣaṇanta̱ pṛkṣa̍ ṛ̱tena̱ gāva̍ ṛ̱tam ā vi̍veśuḥ ||
+
+**4.23.10**
+
+ṛ̱taṁ ye̍mā̱na ṛ̱tam id va̍noty ṛ̱tasya̱ śuṣma̍s tura̱yā u̍ ga̱vyuḥ ||
+
+**4.23.11**
+
+nū ṣṭu̱ta i̍ndra̱ nū gṛ̍ṇā̱na iṣa̍ṁ jari̱tre na̱dyo̱3̱̍ na pī̍peḥ | akā̍ri te harivo̱ brahma̱ navya̍ṁ dhi̱yā syā̍ma ra̱thya̍ḥ sadā̱sāḥ ||
+
+**4.24.1**
+
+kā su̍ṣṭu̱tiḥ śava̍saḥ sū̱num indra̍m arvācī̱naṁ rādha̍sa̱ ā va̍vartat | da̱dir hi vī̱ro gṛ̍ṇa̱te vasū̍ni̱ sa gopa̍tir ni̱ṣṣidhā̍ṁ no janāsaḥ ||
+
+**4.24.2**
+
+sa vṛ̍tra̱hatye̱ havya̱ḥ sa īḍya̱ḥ sa suṣṭu̍ta̱ indra̍ḥ sa̱tyarā̍dhāḥ | sa yāma̱nn ā ma̱ghavā̱ martyā̍ya brahmaṇya̱te suṣva̍ye̱ vari̍vo dhāt ||
+
+**4.24.3**
+
+tam in naro̱ vi hva̍yante samī̱ke ri̍ri̱kvāṁsa̍s ta̱nva̍ḥ kṛṇvata̱ trām | mi̱tho yat tyā̱gam u̱bhayā̍so̱ agma̱n nara̍s to̱kasya̱ tana̍yasya sā̱tau ||
+
+**4.24.4**
+
+kra̱tū̱yanti̍ kṣi̱tayo̱ yoga̍ ugrāśuṣā̱ṇāso̍ mi̱tho arṇa̍sātau | saṁ yad viśo 'va̍vṛtranta yu̱dhmā ād in nema̍ indrayante a̱bhīke̍ ||
+
+**4.24.5**
+
+ād id dha̱ nema̍ indri̱yaṁ ya̍janta̱ ād it pa̱ktiḥ pu̍ro̱ḻāśa̍ṁ riricyāt | ād it somo̱ vi pa̍pṛcyā̱d asu̍ṣvī̱n ād ij ju̍joṣa vṛṣa̱bhaṁ yaja̍dhyai ||
+
+**4.24.6**
+
+kṛ̱ṇoty a̍smai̱ vari̍vo̱ ya i̱tthendrā̍ya̱ soma̍m uśa̱te su̱noti̍ | sa̱dhrī̱cīne̍na̱ mana̱sāvi̍vena̱n tam it sakhā̍yaṁ kṛṇute sa̱matsu̍ ||
+
+**4.24.7**
+
+ya indrā̍ya su̱nava̱t soma̍m a̱dya pacā̍t pa̱ktīr u̱ta bhṛ̱jjāti̍ dhā̱nāḥ | prati̍ manā̱yor u̱cathā̍ni̱ harya̱n tasmi̍n dadha̱d vṛṣa̍ṇa̱ṁ śuṣma̱m indra̍ḥ ||
+
+**4.24.8**
+
+ya̱dā sa̍ma̱ryaṁ vy ace̱d ṛghā̍vā dī̱rghaṁ yad ā̱jim a̱bhy akhya̍d a̱ryaḥ | aci̍krada̱d vṛṣa̍ṇa̱m patny acchā̍ duro̱ṇa ā niśi̍taṁ soma̱sudbhi̍ḥ ||
+
+**4.24.9**
+
+bhūya̍sā va̱snam a̍cara̱t kanī̱yo 'vi̍krīto akāniṣa̱m puna̱r yan | sa bhūya̍sā̱ kanī̍yo̱ nāri̍recīd dī̱nā dakṣā̱ vi du̍hanti̱ pra vā̱ṇam ||
+
+**4.24.10**
+
+ka i̱maṁ da̱śabhi̱r mamendra̍ṁ krīṇāti dhe̱nubhi̍ḥ | ya̱dā vṛ̱trāṇi̱ jaṅgha̍na̱d athai̍nam me̱ puna̍r dadat ||
+
+**4.24.11**
+
+nū ṣṭu̱ta i̍ndra̱ nū gṛ̍ṇā̱na iṣa̍ṁ jari̱tre na̱dyo̱3̱̍ na pī̍peḥ | akā̍ri te harivo̱ brahma̱ navya̍ṁ dhi̱yā syā̍ma ra̱thya̍ḥ sadā̱sāḥ ||
+
+**4.25.1**
+
+ko a̱dya naryo̍ de̱vakā̍ma u̱śann indra̍sya sa̱khyaṁ ju̍joṣa | ko vā̍ ma̱he 'va̍se̱ pāryā̍ya̱ sami̍ddhe a̱gnau su̱taso̍ma īṭṭe ||
+
+**4.25.2**
+
+ko nā̍nāma̱ vaca̍sā so̱myāya̍ manā̱yur vā̍ bhavati̱ vasta̍ u̱srāḥ | ka indra̍sya̱ yujya̱ṁ kaḥ sa̍khi̱tvaṁ ko bhrā̱traṁ va̍ṣṭi ka̱vaye̱ ka ū̱tī ||
+
+**4.25.3**
+
+ko de̱vānā̱m avo̍ a̱dyā vṛ̍ṇīte̱ ka ā̍di̱tyām̐ adi̍ti̱ṁ jyoti̍r īṭṭe | kasyā̱śvinā̱v indro̍ a̱gniḥ su̱tasyā̱ṁśoḥ pi̍banti̱ mana̱sāvi̍venam ||
+
+**4.25.4**
+
+tasmā̍ a̱gnir bhāra̍ta̱ḥ śarma̍ yaṁsa̱j jyok pa̍śyā̱t sūrya̍m u̱ccara̍ntam | ya indrā̍ya su̱navā̱mety āha̱ nare̱ naryā̍ya̱ nṛta̍māya nṛ̱ṇām ||
+
+**4.25.5**
+
+na taṁ ji̍nanti ba̱havo̱ na da̱bhrā u̱rv a̍smā̱ adi̍ti̱ḥ śarma̍ yaṁsat | pri̱yaḥ su̱kṛt pri̱ya indre̍ manā̱yuḥ pri̱yaḥ su̍prā̱vīḥ pri̱yo a̍sya so̱mī ||
+
+**4.25.6**
+
+su̱prā̱vya̍ḥ prāśu̱ṣāḻ e̱ṣa vī̱raḥ suṣve̍ḥ pa̱ktiṁ kṛ̍ṇute̱ keva̱lendra̍ḥ | nāsu̍ṣver ā̱pir na sakhā̱ na jā̱mir du̍ṣprā̱vyo̍ 'vaha̱nted avā̍caḥ ||
+
+**4.25.7**
+
+na re̱vatā̍ pa̱ṇinā̍ sa̱khyam indro 'su̍nvatā suta̱pāḥ saṁ gṛ̍ṇīte | āsya̱ veda̍ḥ khi̱dati̱ hanti̍ na̱gnaṁ vi suṣva̍ye pa̱ktaye̱ keva̍lo bhūt ||
+
+**4.25.8**
+
+indra̱m pare 'va̍re madhya̱māsa̱ indra̱ṁ yānto 'va̍sitāsa̱ indra̍m | indra̍ṁ kṣi̱yanta̍ u̱ta yudhya̍mānā̱ indra̱ṁ naro̍ vāja̱yanto̍ havante ||
+
+**4.26.1**
+
+aham manur abhavaṁ sūryaś cāhaṁ kakṣīvām̐ ṛṣir asmi vipraḥ | ahaṁ kutsam ārjuneyaṁ ny ṛñje 'haṁ kavir uśanā paśyatā mā ||
+
+**4.26.2**
+
+aham bhūmim adadām āryāyāhaṁ vṛṣṭiṁ dāśuṣe martyāya | aham apo anayaṁ vāvaśānā mama devāso anu ketam āyan ||
+
+**4.26.3**
+
+aham puro mandasāno vy airaṁ nava sākaṁ navatīḥ śambarasya | śatatamaṁ veśyaṁ sarvatātā divodāsam atithigvaṁ yad āvam ||
+
+**4.26.4**
+
+pra su ṣa vibhyo maruto vir astu pra śyenaḥ śyenebhya āśupatvā | acakrayā yat svadhayā suparṇo havyam bharan manave devajuṣṭam ||
+
+**4.26.5**
+
+bharad yadi vir ato vevijānaḥ pathoruṇā manojavā asarji | tūyaṁ yayau madhunā somyenota śravo vivide śyeno atra ||
+
+**4.26.6**
+
+ṛjīpī śyeno dadamāno aṁśum parāvataḥ śakuno mandram madam | somam bharad dādṛhāṇo devāvān divo amuṣmād uttarād ādāya ||
+
+**4.26.7**
+
+ādāya śyeno abharat somaṁ sahasraṁ savām̐ ayutaṁ ca sākam | atrā puraṁdhir ajahād arātīr made somasya mūrā amūraḥ ||
+
+**4.27.1**
+
+garbhe nu sann anv eṣām avedam ahaṁ devānāṁ janimāni viśvā | śatam mā pura āyasīr arakṣann adha śyeno javasā nir adīyam ||
+
+**4.27.2**
+
+na ghā sa mām apa joṣaṁ jabhārābhīm āsa tvakṣasā vīryeṇa | īrmā puraṁdhir ajahād arātīr uta vātām̐ atarac chūśuvānaḥ ||
+
+**4.27.3**
+
+ava yac chyeno asvanīd adha dyor vi yad yadi vāta ūhuḥ puraṁdhim | sṛjad yad asmā ava ha kṣipaj jyāṁ kṛśānur astā manasā bhuraṇyan ||
+
+**4.27.4**
+
+ṛjipya īm indrāvato na bhujyuṁ śyeno jabhāra bṛhato adhi ṣṇoḥ | antaḥ patat patatry asya parṇam adha yāmani prasitasya tad veḥ ||
+
+**4.27.5**
+
+adha śvetaṁ kalaśaṁ gobhir aktam āpipyānam maghavā śukram andhaḥ | adhvaryubhiḥ prayatam madhvo agram indro madāya prati dhat pibadhyai śūro madāya prati dhat pibadhyai ||
+
+**4.28.1**
+
+tvā yujā tava tat soma sakhya indro apo manave sasrutas kaḥ | ahann ahim ariṇāt sapta sindhūn apāvṛṇod apihiteva khāni ||
+
+**4.28.2**
+
+tvā yujā ni khidat sūryasyendraś cakraṁ sahasā sadya indo | adhi ṣṇunā bṛhatā vartamānam maho druho apa viśvāyu dhāyi ||
+
+**4.28.3**
+
+ahann indro adahad agnir indo purā dasyūn madhyaṁdinād abhīke | durge duroṇe kratvā na yātām purū sahasrā śarvā ni barhīt ||
+
+**4.28.4**
+
+viśvasmāt sīm adhamām̐ indra dasyūn viśo dāsīr akṛṇor apraśastāḥ | abādhethām amṛṇataṁ ni śatrūn avindethām apacitiṁ vadhatraiḥ ||
+
+**4.28.5**
+
+evā satyam maghavānā yuvaṁ tad indraś ca somorvam aśvyaṁ goḥ | ādardṛtam apihitāny aśnā riricathuḥ kṣāś cit tatṛdānā ||
+
+**4.29.1**
+
+ā naḥ stuta upa vājebhir ūtī indra yāhi haribhir mandasānaḥ | tiraś cid aryaḥ savanā purūṇy āṅgūṣebhir gṛṇānaḥ satyarādhāḥ ||
+
+**4.29.2**
+
+ā hi ṣmā yāti naryaś cikitvān hūyamānaḥ sotṛbhir upa yajñam | svaśvo yo abhīrur manyamānaḥ suṣvāṇebhir madati saṁ ha vīraiḥ ||
+
+**4.29.3**
+
+śrāvayed asya karṇā vājayadhyai juṣṭām anu pra diśam mandayadhyai | udvāvṛṣāṇo rādhase tuviṣmān karan na indraḥ sutīrthābhayaṁ ca ||
+
+**4.29.4**
+
+acchā yo gantā nādhamānam ūtī itthā vipraṁ hava mānaṁ gṛṇantam | upa tmani dadhāno dhury ā3śūn sahasrāṇi śatāni vajrabāhuḥ ||
+
+**4.29.5**
+
+tvotāso maghavann indra viprā vayaṁ te syāma sūrayo gṛṇantaḥ | bhejānāso bṛhaddivasya rāya ākāyyasya dāvane purukṣoḥ ||
+
+**4.30.1**
+
+nakir indra tvad uttaro na jyāyām̐ asti vṛtrahan | nakir evā yathā tvam ||
+
+**4.30.2**
+
+satrā te anu kṛṣṭayo viśvā cakreva vāvṛtuḥ | satrā mahām̐ asi śrutaḥ ||
+
+**4.30.3**
+
+viśve caned anā tvā devāsa indra yuyudhuḥ | yad ahā naktam ātiraḥ ||
+
+**4.30.4**
+
+yatrota bādhitebhyaś cakraṁ kutsāya yudhyate | muṣāya indra sūryam ||
+
+**4.30.5**
+
+yatra devām̐ ṛghāyato viśvām̐ ayudhya eka it | tvam indra vanūm̐r ahan ||
+
+**4.30.6**
+
+yatrota martyāya kam ariṇā indra sūryam | prāvaḥ śacībhir etaśam ||
+
+**4.30.7**
+
+kim ād utāsi vṛtrahan maghavan manyumattamaḥ | atrāha dānum ātiraḥ ||
+
+**4.30.8**
+
+etad ghed uta vīryam indra cakartha pauṁsyam | striyaṁ yad durhaṇāyuvaṁ vadhīr duhitaraṁ divaḥ ||
+
+**4.30.9**
+
+divaś cid ghā duhitaram mahān mahīyamānām | uṣāsam indra sam piṇak ||
+
+**4.30.10**
+
+apoṣā anasaḥ sarat sampiṣṭād aha bibhyuṣī | ni yat sīṁ śiśnathad vṛṣā ||
+
+**4.30.11**
+
+etad asyā anaḥ śaye susampiṣṭaṁ vipāśy ā | sasāra sīm parāvataḥ ||
+
+**4.30.12**
+
+uta sindhuṁ vibālyaṁ vitasthānām adhi kṣami | pari ṣṭhā indra māyayā ||
+
+**4.30.13**
+
+uta śuṣṇasya dhṛṣṇuyā pra mṛkṣo abhi vedanam | puro yad asya sampiṇak ||
+
+**4.30.14**
+
+uta dāsaṁ kaulitaram bṛhataḥ parvatād adhi | avāhann indra śambaram ||
+
+**4.30.15**
+
+uta dāsasya varcinaḥ sahasrāṇi śatāvadhīḥ | adhi pañca pradhīm̐r iva ||
+
+**4.30.16**
+
+uta tyam putram agruvaḥ parāvṛktaṁ śatakratuḥ | uktheṣv indra ābhajat ||
+
+**4.30.17**
+
+uta tyā turvaśāyadū asnātārā śacīpatiḥ | indro vidvām̐ apārayat ||
+
+**4.30.18**
+
+uta tyā sadya āryā sarayor indra pārataḥ | arṇācitrarathāvadhīḥ ||
+
+**4.30.19**
+
+anu dvā jahitā nayo 'ndhaṁ śroṇaṁ ca vṛtrahan | na tat te sumnam aṣṭave ||
+
+**4.30.20**
+
+śatam aśmanmayīnām purām indro vy āsyat | divodāsāya dāśuṣe ||
+
+**4.30.21**
+
+asvāpayad dabhītaye sahasrā triṁśataṁ hathaiḥ | dāsānām indro māyayā ||
+
+**4.30.22**
+
+sa ghed utāsi vṛtrahan samāna indra gopatiḥ | yas tā viśvāni cicyuṣe ||
+
+**4.30.23**
+
+uta nūnaṁ yad indriyaṁ kariṣyā indra pauṁsyam | adyā nakiṣ ṭad ā minat ||
+
+**4.30.24**
+
+vāmaṁ-vāmaṁ ta ādure devo dadātv aryamā | vāmam pūṣā vāmam bhago vāmaṁ devaḥ karūḻatī ||
+
+**4.31.1**
+
+kayā̍ naś ci̱tra ā bhu̍vad ū̱tī sa̱dāvṛ̍dha̱ḥ sakhā̍ | kayā̱ śaci̍ṣṭhayā vṛ̱tā ||
+
+**4.31.2**
+
+kas tvā̍ sa̱tyo madā̍nā̱m maṁhi̍ṣṭho matsa̱d andha̍saḥ | dṛ̱ḻhā ci̍d ā̱ruje̱ vasu̍ ||
+
+**4.31.3**
+
+a̱bhī ṣu ṇa̱ḥ sakhī̍nām avi̱tā ja̍ritṝ̱ṇām | śa̱tam bha̍vāsy ū̱tibhi̍ḥ ||
+
+**4.31.4**
+
+a̱bhī na̱ ā va̍vṛtsva ca̱kraṁ na vṛ̱ttam arva̍taḥ | ni̱yudbhi̍ś carṣaṇī̱nām ||
+
+**4.31.5**
+
+pra̱vatā̱ hi kratū̍nā̱m ā hā̍ pa̱deva̱ gaccha̍si | abha̍kṣi̱ sūrye̱ sacā̍ ||
+
+**4.31.6**
+
+saṁ yat ta̍ indra ma̱nyava̱ḥ saṁ ca̱krāṇi̍ dadhanvi̱re | adha̱ tve adha̱ sūrye̍ ||
+
+**4.31.7**
+
+u̱ta smā̱ hi tvām ā̱hur in ma̱ghavā̍naṁ śacīpate | dātā̍ra̱m avi̍dīdhayum ||
+
+**4.31.8**
+
+u̱ta smā̍ sa̱dya it pari̍ śaśamā̱nāya̍ sunva̱te | pu̱rū ci̍n maṁhase̱ vasu̍ ||
+
+**4.31.9**
+
+na̱hi ṣmā̍ te śa̱taṁ ca̱na rādho̱ vara̍nta ā̱mura̍ḥ | na cyau̱tnāni̍ kariṣya̱taḥ ||
+
+**4.31.10**
+
+a̱smām̐ a̍vantu te śa̱tam a̱smān sa̱hasra̍m ū̱taya̍ḥ | a̱smān viśvā̍ a̱bhiṣṭa̍yaḥ ||
+
+**4.31.11**
+
+a̱smām̐ i̱hā vṛ̍ṇīṣva sa̱khyāya̍ sva̱staye̍ | ma̱ho rā̱ye di̱vitma̍te ||
+
+**4.31.12**
+
+a̱smām̐ a̍viḍḍhi vi̱śvahendra̍ rā̱yā parī̍ṇasā | a̱smān viśvā̍bhir ū̱tibhi̍ḥ ||
+
+**4.31.13**
+
+a̱smabhya̱ṁ tām̐ apā̍ vṛdhi vra̱jām̐ aste̍va̱ goma̍taḥ | navā̍bhir indro̱tibhi̍ḥ ||
+
+**4.31.14**
+
+a̱smāka̍ṁ dhṛṣṇu̱yā ratho̍ dyu̱mām̐ i̱ndrāna̍pacyutaḥ | ga̱vyur a̍śva̱yur ī̍yate ||
+
+**4.31.15**
+
+a̱smāka̍m utta̱maṁ kṛ̍dhi̱ śravo̍ de̱veṣu̍ sūrya | varṣi̍ṣṭha̱ṁ dyām i̍vo̱pari̍ ||
+
+**4.32.1**
+
+ā tū na̍ indra vṛtrahann a̱smāka̍m a̱rdham ā ga̍hi | ma̱hān ma̱hībhi̍r ū̱tibhi̍ḥ ||
+
+**4.32.2**
+
+bhṛmi̍ś cid ghāsi̱ tūtu̍ji̱r ā ci̍tra ci̱triṇī̱ṣv ā | ci̱traṁ kṛ̍ṇoṣy ū̱taye̍ ||
+
+**4.32.3**
+
+da̱bhrebhi̍ś ci̱c chaśī̍yāṁsa̱ṁ haṁsi̱ vrādha̍nta̱m oja̍sā | sakhi̍bhi̱r ye tve sacā̍ ||
+
+**4.32.4**
+
+va̱yam i̍ndra̱ tve sacā̍ va̱yaṁ tvā̱bhi no̍numaḥ | a̱smām̐-a̍smā̱m̐ id ud a̍va ||
+
+**4.32.5**
+
+sa na̍ś ci̱trābhi̍r adrivo 'nava̱dyābhi̍r ū̱tibhi̍ḥ | anā̍dhṛṣṭābhi̱r ā ga̍hi ||
+
+**4.32.6**
+
+bhū̱yāmo̱ ṣu tvāva̍ta̱ḥ sakhā̍ya indra̱ goma̍taḥ | yujo̱ vājā̍ya̱ ghṛṣva̍ye ||
+
+**4.32.7**
+
+tvaṁ hy eka̱ īśi̍ṣa̱ indra̱ vāja̍sya̱ goma̍taḥ | sa no̍ yandhi ma̱hīm iṣa̍m ||
+
+**4.32.8**
+
+na tvā̍ varante a̱nyathā̱ yad ditsa̍si stu̱to ma̱gham | sto̱tṛbhya̍ indra girvaṇaḥ ||
+
+**4.32.9**
+
+a̱bhi tvā̱ gota̍mā gi̱rānū̍ṣata̱ pra dā̱vane̍ | indra̱ vājā̍ya̱ ghṛṣva̍ye ||
+
+**4.32.10**
+
+pra te̍ vocāma vī̱ryā̱3̱̍ yā ma̍ndasā̱na āru̍jaḥ | puro̱ dāsī̍r a̱bhītya̍ ||
+
+**4.32.11**
+
+tā te̍ gṛṇanti ve̱dhaso̱ yāni̍ ca̱kartha̱ pauṁsyā̍ | su̱teṣv i̍ndra girvaṇaḥ ||
+
+**4.32.12**
+
+avī̍vṛdhanta̱ gota̍mā̱ indra̱ tve stoma̍vāhasaḥ | aiṣu̍ dhā vī̱rava̱d yaśa̍ḥ ||
+
+**4.32.13**
+
+yac ci̱d dhi śaśva̍tā̱m asīndra̱ sādhā̍raṇa̱s tvam | taṁ tvā̍ va̱yaṁ ha̍vāmahe ||
+
+**4.32.14**
+
+a̱rvā̱cī̱no va̍so bhavā̱sme su ma̱tsvāndha̍saḥ | somā̍nām indra somapāḥ ||
+
+**4.32.15**
+
+a̱smāka̍ṁ tvā matī̱nām ā stoma̍ indra yacchatu | a̱rvāg ā va̍rtayā̱ harī̍ ||
+
+**4.32.16**
+
+pu̱ro̱ḻāśa̍ṁ ca no̱ ghaso̍ jo̱ṣayā̍se̱ gira̍ś ca naḥ | va̱dhū̱yur i̍va̱ yoṣa̍ṇām ||
+
+**4.32.17**
+
+sa̱hasra̱ṁ vyatī̍nāṁ yu̱ktānā̱m indra̍m īmahe | śa̱taṁ soma̍sya khā̱rya̍ḥ ||
+
+**4.32.18**
+
+sa̱hasrā̍ te śa̱tā va̱yaṁ gavā̱m ā cyā̍vayāmasi | a̱sma̱trā rādha̍ etu te ||
+
+**4.32.19**
+
+daśa̍ te ka̱laśā̍nā̱ṁ hira̍ṇyānām adhīmahi | bhū̱ri̱dā a̍si vṛtrahan ||
+
+**4.32.20**
+
+bhūri̍dā̱ bhūri̍ dehi no̱ mā da̱bhram bhūry ā bha̍ra | bhūri̱ ghed i̍ndra ditsasi ||
+
+**4.32.21**
+
+bhū̱ri̱dā hy asi̍ śru̱taḥ pu̍ru̱trā śū̍ra vṛtrahan | ā no̍ bhajasva̱ rādha̍si ||
+
+**4.32.22**
+
+pra te̍ ba̱bhrū vi̍cakṣaṇa̱ śaṁsā̍mi goṣaṇo napāt | mābhyā̱ṁ gā anu̍ śiśrathaḥ ||
+
+**4.32.23**
+
+ka̱nī̱na̱keva̍ vidra̱dhe nave̍ drupa̱de a̍rbha̱ke | ba̱bhrū yāme̍ṣu śobhete ||
+
+**4.32.24**
+
+ara̍m ma u̱srayā̍mṇe 'ra̱m anu̍srayāmṇe | ba̱bhrū yāme̍ṣv a̱sridhā̍ ||
+
+**4.33.1**
+
+pra ṛ̱bhubhyo̍ dū̱tam i̍va̱ vāca̍m iṣya upa̱stire̱ śvaita̍rīṁ dhe̱num ī̍ḻe | ye vāta̍jūtās ta̱raṇi̍bhi̱r evai̱ḥ pari̱ dyāṁ sa̱dyo a̱paso̍ babhū̱vuḥ ||
+
+**4.33.2**
+
+ya̱dāra̱m akra̍nn ṛ̱bhava̍ḥ pi̱tṛbhyā̱m pari̍viṣṭī ve̱ṣaṇā̍ da̱ṁsanā̍bhiḥ | ād id de̱vānā̱m upa̍ sa̱khyam ā̍ya̱n dhīrā̍saḥ pu̱ṣṭim a̍vahan ma̱nāyai̍ ||
+
+**4.33.3**
+
+puna̱r ye ca̱kruḥ pi̱tarā̱ yuvā̍nā̱ sanā̱ yūpe̍va jara̱ṇā śayā̍nā | te vājo̱ vibhvā̍m̐ ṛ̱bhur indra̍vanto̱ madhu̍psaraso no 'vantu ya̱jñam ||
+
+**4.33.4**
+
+yat sa̱ṁvatsa̍m ṛ̱bhavo̱ gām ara̍kṣa̱n yat sa̱ṁvatsa̍m ṛ̱bhavo̱ mā api̍ṁśan | yat sa̱ṁvatsa̱m abha̍ra̱n bhāso̍ asyā̱s tābhi̱ḥ śamī̍bhir amṛta̱tvam ā̍śuḥ ||
+
+**4.33.5**
+
+jye̱ṣṭha ā̍ha cama̱sā dvā ka̱reti̱ kanī̍yā̱n trīn kṛ̍ṇavā̱mety ā̍ha | ka̱ni̱ṣṭha ā̍ha ca̱tura̍s ka̱reti̱ tvaṣṭa̍ ṛbhava̱s tat pa̍naya̱d vaco̍ vaḥ ||
+
+**4.33.6**
+
+sa̱tyam ū̍cu̱r nara̍ e̱vā hi ca̱krur anu̍ sva̱dhām ṛ̱bhavo̍ jagmur e̱tām | vi̱bhrāja̍mānām̐ś cama̱sām̐ ahe̱vāve̍na̱t tvaṣṭā̍ ca̱turo̍ dadṛ̱śvān ||
+
+**4.33.7**
+
+dvāda̍śa̱ dyūn yad ago̍hyasyāti̱thye raṇa̍nn ṛ̱bhava̍ḥ sa̱santa̍ḥ | su̱kṣetrā̍kṛṇva̱nn ana̍yanta̱ sindhū̱n dhanvāti̍ṣṭha̱nn oṣa̍dhīr ni̱mnam āpa̍ḥ ||
+
+**4.33.8**
+
+ratha̱ṁ ye ca̱kruḥ su̱vṛta̍ṁ nare̱ṣṭhāṁ ye dhe̱nuṁ vi̍śva̱juva̍ṁ vi̱śvarū̍pām | ta ā ta̍kṣantv ṛ̱bhavo̍ ra̱yiṁ na̱ḥ svava̍sa̱ḥ svapa̍saḥ su̱hastā̍ḥ ||
+
+**4.33.9**
+
+apo̱ hy e̍ṣā̱m aju̍ṣanta de̱vā a̱bhi kratvā̱ mana̍sā̱ dīdhyā̍nāḥ | vājo̍ de̱vānā̍m abhavat su̱karmendra̍sya ṛbhu̱kṣā varu̍ṇasya̱ vibhvā̍ ||
+
+**4.33.10**
+
+ye harī̍ me̱dhayo̱kthā mada̍nta̱ indrā̍ya ca̱kruḥ su̱yujā̱ ye aśvā̍ | te rā̱yas poṣa̱ṁ dravi̍ṇāny a̱sme dha̱tta ṛ̍bhavaḥ kṣema̱yanto̱ na mi̱tram ||
+
+**4.33.11**
+
+i̱dāhna̍ḥ pī̱tim u̱ta vo̱ mada̍ṁ dhu̱r na ṛ̱te śrā̱ntasya̍ sa̱khyāya̍ de̱vāḥ | te nū̱nam a̱sme ṛ̍bhavo̱ vasū̍ni tṛ̱tīye̍ a̱smin sava̍ne dadhāta ||
+
+**4.34.1**
+
+ṛ̱bhur vibhvā̱ vāja̱ indro̍ no̱ acche̱maṁ ya̱jñaṁ ra̍tna̱dheyopa̍ yāta | i̱dā hi vo̍ dhi̱ṣaṇā̍ de̱vy ahnā̍m adhā̍t pī̱tiṁ sam madā̍ agmatā vaḥ ||
+
+**4.34.2**
+
+vi̱dā̱nāso̱ janma̍no vājaratnā u̱ta ṛ̱tubhi̍r ṛbhavo mādayadhvam | saṁ vo̱ madā̱ agma̍ta̱ sam pura̍ṁdhiḥ su̱vīrā̍m a̱sme ra̱yim era̍yadhvam ||
+
+**4.34.3**
+
+a̱yaṁ vo̍ ya̱jña ṛ̍bhavo 'kāri̱ yam ā ma̍nu̱ṣvat pra̱divo̍ dadhi̱dhve | pra vo 'cchā̍ jujuṣā̱ṇāso̍ asthu̱r abhū̍ta̱ viśve̍ agri̱yota vā̍jāḥ ||
+
+**4.34.4**
+
+abhū̍d u vo vidha̱te ra̍tna̱dheya̍m i̱dā na̍ro dā̱śuṣe̱ martyā̍ya | piba̍ta vājā ṛbhavo da̱de vo̱ mahi̍ tṛ̱tīya̱ṁ sava̍na̱m madā̍ya ||
+
+**4.34.5**
+
+ā vā̍jā yā̱topa̍ na ṛbhukṣā ma̱ho na̍ro̱ dravi̍ṇaso gṛṇā̱nāḥ | ā va̍ḥ pī̱tayo̍ 'bhipi̱tve ahnā̍m i̱mā asta̍ṁ nava̱sva̍ iva gman ||
+
+**4.34.6**
+
+ā na̍pātaḥ śavaso yāta̱nope̱maṁ ya̱jñaṁ nama̍sā hū̱yamā̍nāḥ | sa̱joṣa̍saḥ sūrayo̱ yasya̍ ca̱ stha madhva̍ḥ pāta ratna̱dhā indra̍vantaḥ ||
+
+**4.34.7**
+
+sa̱joṣā̍ indra̱ varu̍ṇena̱ soma̍ṁ sa̱joṣā̍ḥ pāhi girvaṇo ma̱rudbhi̍ḥ | a̱gre̱pābhi̍r ṛtu̱pābhi̍ḥ sa̱joṣā̱ gnāspatnī̍bhī ratna̱dhābhi̍ḥ sa̱joṣā̍ḥ ||
+
+**4.34.8**
+
+sa̱joṣa̍sa ādi̱tyair mā̍dayadhvaṁ sa̱joṣa̍sa ṛbhava̱ḥ parva̍tebhiḥ | sa̱joṣa̍so̱ daivye̍nā savi̱trā sa̱joṣa̍sa̱ḥ sindhu̍bhī ratna̱dhebhi̍ḥ ||
+
+**4.34.9**
+
+ye a̱śvinā̱ ye pi̱tarā̱ ya ū̱tī dhe̱nuṁ ta̍ta̱kṣur ṛ̱bhavo̱ ye aśvā̍ | ye aṁsa̍trā̱ ya ṛdha̱g roda̍sī̱ ye vibhvo̱ nara̍ḥ svapa̱tyāni̍ ca̱kruḥ ||
+
+**4.34.10**
+
+ye goma̍nta̱ṁ vāja̍vantaṁ su̱vīra̍ṁ ra̱yiṁ dha̱ttha vasu̍mantam puru̱kṣum | te a̍gre̱pā ṛ̍bhavo mandasā̱nā a̱sme dha̍tta̱ ye ca̍ rā̱tiṁ gṛ̱ṇanti̍ ||
+
+**4.34.11**
+
+nāpā̍bhūta̱ na vo̍ 'tītṛṣā̱māni̍ḥśastā ṛbhavo ya̱jñe a̱smin | sam indre̍ṇa̱ mada̍tha̱ sam ma̱rudbhi̱ḥ saṁ rāja̍bhī ratna̱dheyā̍ya devāḥ ||
+
+**4.35.1**
+
+i̱hopa̍ yāta śavaso napāta̱ḥ saudha̍nvanā ṛbhavo̱ māpa̍ bhūta | a̱smin hi va̱ḥ sava̍ne ratna̱dheya̱ṁ gama̱ntv indra̱m anu̍ vo̱ madā̍saḥ ||
+
+**4.35.2**
+
+āga̍nn ṛbhū̱ṇām i̱ha ra̍tna̱dheya̱m abhū̱t soma̍sya̱ suṣu̍tasya pī̱tiḥ | su̱kṛ̱tyayā̱ yat sva̍pa̱syayā̍ ca̱m̐ eka̍ṁ vica̱kra ca̍ma̱saṁ ca̍tu̱rdhā ||
+
+**4.35.3**
+
+vy a̍kṛṇota cama̱saṁ ca̍tu̱rdhā sakhe̱ vi śi̱kṣety a̍bravīta | athai̍ta vājā a̱mṛta̍sya̱ panthā̍ṁ ga̱ṇaṁ de̱vānā̍m ṛbhavaḥ suhastāḥ ||
+
+**4.35.4**
+
+ki̱mmaya̍ḥ svic cama̱sa e̱ṣa ā̍sa̱ yaṁ kāvye̍na ca̱turo̍ vica̱kra | athā̍ sunudhva̱ṁ sava̍na̱m madā̍ya pā̱ta ṛ̍bhavo̱ madhu̍naḥ so̱myasya̍ ||
+
+**4.35.5**
+
+śacyā̍karta pi̱tarā̱ yuvā̍nā̱ śacyā̍karta cama̱saṁ de̍va̱pāna̍m | śacyā̱ harī̱ dhanu̍tarāv ataṣṭendra̱vāhā̍v ṛbhavo vājaratnāḥ ||
+
+**4.35.6**
+
+yo va̍ḥ su̱noty a̍bhipi̱tve ahnā̍ṁ tī̱vraṁ vā̍jāsa̱ḥ sava̍na̱m madā̍ya | tasmai̍ ra̱yim ṛ̍bhava̱ḥ sarva̍vīra̱m ā ta̍kṣata vṛṣaṇo mandasā̱nāḥ ||
+
+**4.35.7**
+
+prā̱taḥ su̱tam a̍pibo haryaśva̱ mādhya̍ṁdina̱ṁ sava̍na̱ṁ keva̍laṁ te | sam ṛ̱bhubhi̍ḥ pibasva ratna̱dhebhi̱ḥ sakhī̱m̐r yām̐ i̍ndra cakṛ̱ṣe su̍kṛ̱tyā ||
+
+**4.35.8**
+
+ye de̱vāso̱ abha̍vatā sukṛ̱tyā śye̱nā i̱ved adhi̍ di̱vi ni̍ṣe̱da | te ratna̍ṁ dhāta śavaso napāta̱ḥ saudha̍nvanā̱ abha̍vatā̱mṛtā̍saḥ ||
+
+**4.35.9**
+
+yat tṛ̱tīya̱ṁ sava̍naṁ ratna̱dheya̱m akṛ̍ṇudhvaṁ svapa̱syā su̍hastāḥ | tad ṛ̍bhava̱ḥ pari̍ṣiktaṁ va e̱tat sam made̍bhir indri̱yebhi̍ḥ pibadhvam ||
+
+**4.36.1**
+
+a̱na̱śvo jā̱to a̍nabhī̱śur u̱kthyo̱3̱̍ ratha̍s trica̱kraḥ pari̍ vartate̱ raja̍ḥ | ma̱hat tad vo̍ de̱vya̍sya pra̱vāca̍na̱ṁ dyām ṛ̍bhavaḥ pṛthi̱vīṁ yac ca̱ puṣya̍tha ||
+
+**4.36.2**
+
+ratha̱ṁ ye ca̱kruḥ su̱vṛta̍ṁ su̱ceta̱so 'vi̍hvaranta̱m mana̍sa̱s pari̱ dhyayā̍ | tām̐ ū̱ nv a1̱̍sya sava̍nasya pī̱taya̱ ā vo̍ vājā ṛbhavo vedayāmasi ||
+
+**4.36.3**
+
+tad vo̍ vājā ṛbhavaḥ supravāca̱naṁ de̱veṣu̍ vibhvo abhavan mahitva̱nam | jivrī̱ yat santā̍ pi̱tarā̍ sanā̱jurā̱ puna̱r yuvā̍nā ca̱rathā̍ya̱ takṣa̍tha ||
+
+**4.36.4**
+
+eka̱ṁ vi ca̍kra cama̱saṁ catu̍rvaya̱ṁ niś carma̍ṇo̱ gām a̍riṇīta dhī̱tibhi̍ḥ | athā̍ de̱veṣv a̍mṛta̱tvam ā̍naśa śru̱ṣṭī vā̍jā ṛbhava̱s tad va̍ u̱kthya̍m ||
+
+**4.36.5**
+
+ṛ̱bhu̱to ra̱yiḥ pra̍tha̱maśra̍vastamo̱ vāja̍śrutāso̱ yam ajī̍jana̱n nara̍ḥ | vi̱bhva̱ta̱ṣṭo vi̱dathe̍ṣu pra̱vācyo̱ yaṁ de̍vā̱so 'va̍thā̱ sa vica̍rṣaṇiḥ ||
+
+**4.36.6**
+
+sa vā̱jy arvā̱ sa ṛṣi̍r vaca̱syayā̱ sa śūro̱ astā̱ pṛta̍nāsu du̱ṣṭara̍ḥ ||
+
+**4.36.7**
+
+śreṣṭha̍ṁ va̱ḥ peśo̱ adhi̍ dhāyi darśa̱taṁ stomo̍ vājā ṛbhava̱s taṁ ju̍juṣṭana | dhīrā̍so̱ hi ṣṭhā ka̱vayo̍ vipa̱ścita̱s tān va̍ e̱nā brahma̱ṇā ve̍dayāmasi ||
+
+**4.36.8**
+
+yū̱yam a̱smabhya̍ṁ dhi̱ṣaṇā̍bhya̱s pari̍ vi̱dvāṁso̱ viśvā̱ naryā̍ṇi̱ bhoja̍nā | dyu̱manta̱ṁ vāja̱ṁ vṛṣa̍śuṣmam utta̱mam ā no̍ ra̱yim ṛ̍bhavas takṣa̱tā vaya̍ḥ ||
+
+**4.36.9**
+
+i̱ha pra̱jām i̱ha ra̱yiṁ rarā̍ṇā i̱ha śravo̍ vī̱rava̍t takṣatā naḥ | yena̍ va̱yaṁ ci̱taye̱māty a̱nyān taṁ vāja̍ṁ ci̱tram ṛ̍bhavo dadā naḥ ||
+
+**4.37.1**
+
+upa̍ no vājā adhva̱ram ṛ̍bhukṣā̱ devā̍ yā̱ta pa̱thibhi̍r deva̱yānai̍ḥ | yathā̍ ya̱jñam manu̍ṣo vi̱kṣv ā̱3̱̍su da̍dhi̱dhve ra̍ṇvāḥ su̱dine̍ṣv ahnā̍m ||
+
+**4.37.2**
+
+te vo̍ hṛ̱de mana̍se santu ya̱jñā juṣṭā̍so a̱dya ghṛ̱tani̍rṇijo guḥ ||
+
+**4.37.3**
+
+tryu̱dā̱yaṁ de̱vahi̍ta̱ṁ yathā̍ va̱ḥ stomo̍ vājā ṛbhukṣaṇo da̱de va̍ḥ | ju̱hve ma̍nu̱ṣvad upa̍rāsu vi̱kṣu yu̱ṣme sacā̍ bṛ̱haddi̍veṣu̱ soma̍m ||
+
+**4.37.4**
+
+pīvo̍aśvāḥ śu̱cadra̍thā̱ hi bhū̱tāya̍ḥśiprā vājinaḥ suni̱ṣkāḥ | indra̍sya sūno śavaso napā̱to 'nu̍ vaś cety agri̱yam madā̍ya ||
+
+**4.37.5**
+
+ṛ̱bhum ṛ̍bhukṣaṇo ra̱yiṁ vāje̍ vā̱jinta̍ma̱ṁ yuja̍m | indra̍svantaṁ havāmahe sadā̱sāta̍mam a̱śvina̍m ||
+
+**4.37.6**
+
+sed ṛ̍bhavo̱ yam ava̍tha yū̱yam indra̍ś ca̱ martya̍m | sa dhī̱bhir a̍stu̱ sani̍tā me̱dhasā̍tā̱ so arva̍tā ||
+
+**4.37.7**
+
+vi no̍ vājā ṛbhukṣaṇaḥ pa̱thaś ci̍tana̱ yaṣṭa̍ve | a̱smabhya̍ṁ sūrayaḥ stu̱tā viśvā̱ āśā̍s tarī̱ṣaṇi̍ ||
+
+**4.37.8**
+
+taṁ no̍ vājā ṛbhukṣaṇa̱ indra̱ nāsa̍tyā ra̱yim | sam aśva̍ṁ carṣa̱ṇibhya̱ ā pu̱ru śa̍sta ma̱ghatta̍ye ||
+
+**4.38.1**
+
+u̱to hi vā̍ṁ dā̱trā santi̱ pūrvā̱ yā pū̱rubhya̍s tra̱sada̍syur nito̱śe | kṣe̱trā̱sāṁ da̍dathur urvarā̱sāṁ gha̱naṁ dasyu̍bhyo a̱bhibhū̍tim u̱gram ||
+
+**4.38.2**
+
+u̱ta vā̱jina̍m puruni̱ṣṣidhvā̍naṁ dadhi̱krām u̍ dadathur vi̱śvakṛ̍ṣṭim | ṛ̱ji̱pyaṁ śye̱nam pru̍ṣi̱tapsu̍m ā̱śuṁ ca̱rkṛtya̍m a̱ryo nṛ̱pati̱ṁ na śūra̍m ||
+
+**4.38.3**
+
+yaṁ sī̱m anu̍ pra̱vate̍va̱ drava̍nta̱ṁ viśva̍ḥ pū̱rur mada̍ti̱ harṣa̍māṇaḥ | pa̱ḍbhir gṛdhya̍ntam medha̱yuṁ na śūra̍ṁ ratha̱tura̱ṁ vāta̍m iva̱ dhraja̍ntam ||
+
+**4.38.4**
+
+yaḥ smā̍rundhā̱no gadhyā̍ sa̱matsu̱ sanu̍tara̱ś cara̍ti̱ goṣu̱ gaccha̍n | ā̱virṛ̍jīko vi̱dathā̍ ni̱cikya̍t ti̱ro a̍ra̱tim pary āpa̍ ā̱yoḥ ||
+
+**4.38.5**
+
+u̱ta smai̍naṁ vastra̱mathi̱ṁ na tā̱yum anu̍ krośanti kṣi̱tayo̱ bhare̍ṣu | nī̱cāya̍māna̱ṁ jasu̍ri̱ṁ na śye̱naṁ śrava̱ś cācchā̍ paśu̱mac ca̍ yū̱tham ||
+
+**4.38.6**
+
+u̱ta smā̍su pratha̱maḥ sa̍ri̱ṣyan ni ve̍veti̱ śreṇi̍bhī̱ rathā̍nām | sraja̍ṁ kṛṇvā̱no janyo̱ na śubhvā̍ re̱ṇuṁ reri̍hat ki̱raṇa̍ṁ dada̱śvān ||
+
+**4.38.7**
+
+u̱ta sya vā̱jī sahu̍rir ṛ̱tāvā̱ śuśrū̍ṣamāṇas ta̱nvā̍ sama̱rye | tura̍ṁ ya̱tīṣu̍ tu̱raya̍nn ṛji̱pyo 'dhi̍ bhru̱voḥ ki̍rate re̱ṇum ṛ̱ñjan ||
+
+**4.38.8**
+
+u̱ta smā̍sya tanya̱tor i̍va̱ dyor ṛ̍ghāya̱to a̍bhi̱yujo̍ bhayante | ya̱dā sa̱hasra̍m a̱bhi ṣī̱m ayo̍dhīd du̱rvartu̍ḥ smā bhavati bhī̱ma ṛ̱ñjan ||
+
+**4.38.9**
+
+u̱ta smā̍sya panayanti̱ janā̍ jū̱tiṁ kṛ̍ṣṭi̱pro a̱bhibhū̍tim ā̱śoḥ | u̱taina̍m āhuḥ sami̱the vi̱yanta̱ḥ parā̍ dadhi̱krā a̍sarat sa̱hasrai̍ḥ ||
+
+**4.38.10**
+
+ā da̍dhi̱krāḥ śava̍sā̱ pañca̍ kṛ̱ṣṭīḥ sūrya̍ iva̱ jyoti̍ṣā̱pas ta̍tāna | sa̱ha̱sra̱sāḥ śa̍ta̱sā vā̱jy arvā̍ pṛ̱ṇaktu̱ madhvā̱ sam i̱mā vacā̍ṁsi ||
+
+**4.39.1**
+
+ā̱śuṁ da̍dhi̱krāṁ tam u̱ nu ṣṭa̍vāma di̱vas pṛ̍thi̱vyā u̱ta ca̍rkirāma | u̱cchantī̱r mām u̱ṣasa̍ḥ sūdaya̱ntv ati̱ viśvā̍ni duri̱tāni̍ parṣan ||
+
+**4.39.2**
+
+ma̱haś ca̍rka̱rmy arva̍taḥ kratu̱prā da̍dhi̱krāvṇa̍ḥ puru̱vāra̍sya̱ vṛṣṇa̍ḥ | yam pū̱rubhyo̍ dīdi̱vāṁsa̱ṁ nāgniṁ da̱dathu̍r mitrāvaruṇā̱ tatu̍rim ||
+
+**4.39.3**
+
+yo aśva̍sya dadhi̱krāvṇo̱ akā̍rī̱t sami̍ddhe a̱gnā u̱ṣaso̱ vyu̍ṣṭau | anā̍gasa̱ṁ tam adi̍tiḥ kṛṇotu̱ sa mi̱treṇa̱ varu̍ṇenā sa̱joṣā̍ḥ ||
+
+**4.39.4**
+
+da̱dhi̱krāvṇa̍ i̱ṣa ū̱rjo ma̱ho yad ama̍nmahi ma̱rutā̱ṁ nāma̍ bha̱dram | sva̱staye̱ varu̍ṇam mi̱tram a̱gniṁ havā̍maha̱ indra̱ṁ vajra̍bāhum ||
+
+**4.39.5**
+
+indra̍m i̱ved u̱bhaye̱ vi hva̍yanta u̱dīrā̍ṇā ya̱jñam u̍papra̱yanta̍ḥ | da̱dhi̱krām u̱ sūda̍na̱m martyā̍ya da̱dathu̍r mitrāvaruṇā no̱ aśva̍m ||
+
+**4.39.6**
+
+da̱dhi̱krāvṇo̍ akāriṣaṁ ji̱ṣṇor aśva̍sya vā̱jina̍ḥ | su̱ra̱bhi no̱ mukhā̍ kara̱t pra ṇa̱ āyū̍ṁṣi tāriṣat ||
+
+**4.40.1**
+
+da̱dhi̱krāvṇa̱ id u̱ nu ca̍rkirāma̱ viśvā̱ in mām u̱ṣasa̍ḥ sūdayantu | a̱pām a̱gner u̱ṣasa̱ḥ sūrya̍sya̱ bṛha̱spate̍r āṅgira̱sasya̍ ji̱ṣṇoḥ ||
+
+**4.40.2**
+
+satvā̍ bhari̱ṣo ga̍vi̱ṣo du̍vanya̱sac chra̍va̱syād i̱ṣa u̱ṣasa̍s turaṇya̱sat | sa̱tyo dra̱vo dra̍va̱raḥ pa̍taṁga̱ro da̍dhi̱krāveṣa̱m ūrja̱ṁ sva̍r janat ||
+
+**4.40.3**
+
+u̱ta smā̍sya̱ drava̍tas turaṇya̱taḥ pa̱rṇaṁ na ver anu̍ vāti praga̱rdhina̍ḥ | śye̱nasye̍va̱ dhraja̍to aṅka̱sam pari̍ dadhi̱krāvṇa̍ḥ sa̱horjā tari̍trataḥ ||
+
+**4.40.4**
+
+u̱ta sya vā̱jī kṣi̍pa̱ṇiṁ tu̍raṇyati grī̱vāyā̍m ba̱ddho a̍pika̱kṣa ā̱sani̍ | kratu̍ṁ dadhi̱krā anu̍ sa̱ṁtavī̍tvat pa̱thām aṅkā̱ṁsy anv ā̱panī̍phaṇat ||
+
+**4.40.5**
+
+ha̱ṁsaḥ śu̍ci̱ṣad vasu̍r antarikṣa̱sad dhotā̍ vedi̱ṣad ati̍thir duroṇa̱sat | nṛ̱ṣad va̍ra̱sad ṛ̍ta̱sad vyo̍ma̱sad a̱bjā go̱jā ṛ̍ta̱jā a̍dri̱jā ṛ̱tam ||
+
+**4.41.1**
+
+indrā̱ ko vā̍ṁ varuṇā su̱mnam ā̍pa̱ stomo̍ ha̱viṣmā̍m̐ a̱mṛto̱ na hotā̍ | yo vā̍ṁ hṛ̱di kratu̍mām̐ a̱smad u̱ktaḥ pa̱sparśa̍d indrāvaruṇā̱ nama̍svān ||
+
+**4.41.2**
+
+indrā̍ ha̱ yo varu̍ṇā ca̱kra ā̱pī de̱vau marta̍ḥ sa̱khyāya̱ praya̍svān | sa ha̍nti vṛ̱trā sa̍mi̱theṣu̱ śatrū̱n avo̍bhir vā ma̱hadbhi̱ḥ sa pra śṛ̍ṇve ||
+
+**4.41.3**
+
+indrā̍ ha̱ ratna̱ṁ varu̍ṇā̱ dheṣṭhe̱tthā nṛbhya̍ḥ śaśamā̱nebhya̱s tā | yadī̱ sakhā̍yā sa̱khyāya̱ somai̍ḥ su̱tebhi̍ḥ supra̱yasā̍ mā̱dayai̍te ||
+
+**4.41.4**
+
+indrā̍ yu̱vaṁ va̍ruṇā di̱dyum a̍smi̱nn oji̍ṣṭham ugrā̱ ni va̍dhiṣṭa̱ṁ vajra̍m | yo no̍ du̱revo̍ vṛ̱kati̍r da̱bhīti̱s tasmi̍n mimāthām a̱bhibhū̱ty oja̍ḥ ||
+
+**4.41.5**
+
+indrā̍ yu̱vaṁ va̍ruṇā bhū̱tam a̱syā dhi̱yaḥ pre̱tārā̍ vṛṣa̱bheva̍ dhe̱noḥ | sā no̍ duhīya̱d yava̍seva ga̱tvī sa̱hasra̍dhārā̱ paya̍sā ma̱hī gauḥ ||
+
+**4.41.6**
+
+to̱ke hi̱te tana̍ya u̱rvarā̍su̱ sūro̱ dṛśī̍ke̱ vṛṣa̍ṇaś ca̱ pauṁsye̍ | indrā̍ no̱ atra̱ varu̍ṇā syātā̱m avo̍bhir da̱smā pari̍takmyāyām ||
+
+**4.41.7**
+
+yu̱vām id dhy ava̍se pū̱rvyāya̱ pari̱ prabhū̍tī ga̱viṣa̍ḥ svāpī | vṛ̱ṇī̱mahe̍ sa̱khyāya̍ pri̱yāya̱ śūrā̱ maṁhi̍ṣṭhā pi̱tare̍va śa̱mbhū ||
+
+**4.41.8**
+
+tā vā̱ṁ dhiyo 'va̍se vāja̱yantī̍r ā̱jiṁ na ja̍gmur yuva̱yūḥ su̍dānū | śri̱ye na gāva̱ upa̱ soma̍m asthu̱r indra̱ṁ giro̱ varu̍ṇam me manī̱ṣāḥ ||
+
+**4.41.9**
+
+i̱mā indra̱ṁ varu̍ṇam me manī̱ṣā agma̱nn upa̱ dravi̍ṇam i̱cchamā̍nāḥ | upe̍m asthur jo̱ṣṭāra̍ iva̱ vasvo̍ ra̱ghvīr i̍va̱ śrava̍so̱ bhikṣa̍māṇāḥ ||
+
+**4.41.10**
+
+aśvya̍sya̱ tmanā̱ rathya̍sya pu̱ṣṭer nitya̍sya rā̱yaḥ pata̍yaḥ syāma | tā ca̍krā̱ṇā ū̱tibhi̱r navya̍sībhir asma̱trā rāyo̍ ni̱yuta̍ḥ sacantām ||
+
+**4.41.11**
+
+ā no̍ bṛhantā bṛha̱tībhi̍r ū̱tī indra̍ yā̱taṁ va̍ruṇa̱ vāja̍sātau | yad di̱dyava̱ḥ pṛta̍nāsu pra̱krīḻā̱n tasya̍ vāṁ syāma sani̱tāra̍ ā̱jeḥ ||
+
+**4.42.1**
+
+mama̍ dvi̱tā rā̱ṣṭraṁ kṣa̱triya̍sya vi̱śvāyo̱r viśve̍ a̱mṛtā̱ yathā̍ naḥ | kratu̍ṁ sacante̱ varu̍ṇasya de̱vā rājā̍mi kṛ̱ṣṭer u̍pa̱masya̍ va̱vreḥ ||
+
+**4.42.2**
+
+a̱haṁ rājā̱ varu̍ṇo̱ mahya̱ṁ tāny a̍su̱ryā̍ṇi pratha̱mā dhā̍rayanta | kratu̍ṁ sacante̱ varu̍ṇasya de̱vā rājā̍mi kṛ̱ṣṭer u̍pa̱masya̍ va̱vreḥ ||
+
+**4.42.3**
+
+a̱ham indro̱ varu̍ṇa̱s te ma̍hi̱tvorvī ga̍bhī̱re raja̍sī su̱meke̍ | tvaṣṭe̍va̱ viśvā̱ bhuva̍nāni vi̱dvān sam ai̍raya̱ṁ roda̍sī dhā̱raya̍ṁ ca ||
+
+**4.42.4**
+
+a̱ham a̱po a̍pinvam u̱kṣamā̍ṇā dhā̱raya̱ṁ diva̱ṁ sada̍na ṛ̱tasya̍ | ṛ̱tena̍ pu̱tro adi̍ter ṛ̱tāvo̱ta tri̱dhātu̍ prathaya̱d vi bhūma̍ ||
+
+**4.42.5**
+
+māṁ nara̱ḥ svaśvā̍ vā̱jaya̍nto̱ māṁ vṛ̱tāḥ sa̱mara̍ṇe havante | kṛ̱ṇomy ā̱jim ma̱ghavā̱ham indra̱ iya̍rmi re̱ṇum a̱bhibhū̍tyojāḥ ||
+
+**4.42.6**
+
+a̱haṁ tā viśvā̍ cakara̱ṁ naki̍r mā̱ daivya̱ṁ saho̍ varate̱ apra̍tītam | yan mā̱ somā̍so ma̱mada̱n yad u̱kthobhe bha̍yete̱ raja̍sī apā̱re ||
+
+**4.42.7**
+
+vi̱duṣ ṭe̱ viśvā̱ bhuva̍nāni̱ tasya̱ tā pra bra̍vīṣi̱ varu̍ṇāya vedhaḥ | tvaṁ vṛ̱trāṇi̍ śṛṇviṣe jagha̱nvān tvaṁ vṛ̱tām̐ a̍riṇā indra̱ sindhū̍n ||
+
+**4.42.8**
+
+a̱smāka̱m atra̍ pi̱tara̱s ta ā̍san sa̱pta ṛṣa̍yo daurga̱he ba̱dhyamā̍ne | ta āya̍janta tra̱sada̍syum asyā̱ indra̱ṁ na vṛ̍tra̱tura̍m ardhade̱vam ||
+
+**4.42.9**
+
+pu̱ru̱kutsā̍nī̱ hi vā̱m adā̍śad dha̱vyebhi̍r indrāvaruṇā̱ namo̍bhiḥ | athā̱ rājā̍naṁ tra̱sada̍syum asyā vṛtra̱haṇa̍ṁ dadathur ardhade̱vam ||
+
+**4.42.10**
+
+rā̱yā va̱yaṁ sa̍sa̱vāṁso̍ madema ha̱vyena̍ de̱vā yava̍sena̱ gāva̍ḥ | tāṁ dhe̱num i̍ndrāvaruṇā yu̱vaṁ no̍ vi̱śvāhā̍ dhatta̱m ana̍pasphurantīm ||
+
+**4.43.1**
+
+ka u̍ śravat kata̱mo ya̱jñiyā̍nāṁ va̱ndāru̍ de̱vaḥ ka̍ta̱mo ju̍ṣāte | kasye̱māṁ de̱vīm a̱mṛte̍ṣu̱ preṣṭhā̍ṁ hṛ̱di śre̍ṣāma suṣṭu̱tiṁ su̍ha̱vyām ||
+
+**4.43.2**
+
+ko mṛ̍ḻāti kata̱ma āga̍miṣṭho de̱vānā̍m u kata̱maḥ śambha̍viṣṭhaḥ | ratha̱ṁ kam ā̍hur dra̱vada̍śvam ā̱śuṁ yaṁ sūrya̍sya duhi̱tāvṛ̍ṇīta ||
+
+**4.43.3**
+
+ma̱kṣū hi ṣmā̱ gaccha̍tha̱ īva̍to̱ dyūn indro̱ na śa̱ktim pari̍takmyāyām | di̱va ājā̍tā di̱vyā su̍pa̱rṇā kayā̱ śacī̍nām bhavatha̱ḥ śaci̍ṣṭhā ||
+
+**4.43.4**
+
+kā vā̍m bhū̱d upa̍māti̱ḥ kayā̍ na̱ āśvi̍nā gamatho hū̱yamā̍nā | ko vā̍m ma̱haś ci̱t tyaja̍so a̱bhīka̍ uru̱ṣyata̍m mādhvī dasrā na ū̱tī ||
+
+**4.43.5**
+
+u̱ru vā̱ṁ ratha̱ḥ pari̍ nakṣati̱ dyām ā yat sa̍mu̱drād a̱bhi varta̍te vām | madhvā̍ mādhvī̱ madhu̍ vām pruṣāya̱n yat sī̍ṁ vā̱m pṛkṣo̍ bhu̱raja̍nta pa̱kvāḥ ||
+
+**4.43.6**
+
+sindhu̍r ha vāṁ ra̱sayā̍ siñca̱d aśvā̍n ghṛ̱ṇā vayo̍ 'ru̱ṣāsa̱ḥ pari̍ gman | tad ū̱ ṣu vā̍m aji̱raṁ ce̍ti̱ yāna̱ṁ yena̱ patī̱ bhava̍thaḥ sū̱ryāyā̍ḥ ||
+
+**4.43.7**
+
+i̱heha̱ yad vā̍ṁ sama̱nā pa̍pṛ̱kṣe seyam a̱sme su̍ma̱tir vā̍jaratnā | u̱ru̱ṣyata̍ṁ jari̱tāra̍ṁ yu̱vaṁ ha̍ śri̱taḥ kāmo̍ nāsatyā yuva̱drik ||
+
+**4.44.1**
+
+taṁ vā̱ṁ ratha̍ṁ va̱yam a̱dyā hu̍vema pṛthu̱jraya̍m aśvinā̱ saṁga̍ti̱ṁ goḥ | yaḥ sū̱ryāṁ vaha̍ti vandhurā̱yur girvā̍hasam puru̱tama̍ṁ vasū̱yum ||
+
+**4.44.2**
+
+yu̱vaṁ śriya̍m aśvinā de̱vatā̱ tāṁ divo̍ napātā vanatha̱ḥ śacī̍bhiḥ | yu̱vor vapu̍r a̱bhi pṛkṣa̍ḥ sacante̱ vaha̍nti̱ yat ka̍ku̱hāso̱ rathe̍ vām ||
+
+**4.44.3**
+
+ko vā̍m a̱dyā ka̍rate rā̱taha̍vya ū̱taye̍ vā suta̱peyā̍ya vā̱rkaiḥ ||
+
+**4.44.4**
+
+hi̱ra̱ṇyaye̍na purubhū̱ rathe̍ne̱maṁ ya̱jñaṁ nā̍sa̱tyopa̍ yātam | pibā̍tha̱ in madhu̍naḥ so̱myasya̱ dadha̍tho̱ ratna̍ṁ vidha̱te janā̍ya ||
+
+**4.44.5**
+
+ā no̍ yātaṁ di̱vo acchā̍ pṛthi̱vyā hi̍ra̱ṇyaye̍na su̱vṛtā̱ rathe̍na | mā vā̍m a̱nye ni ya̍man deva̱yanta̱ḥ saṁ yad da̱de nābhi̍ḥ pū̱rvyā vā̍m ||
+
+**4.44.6**
+
+nū no̍ ra̱yim pu̍ru̱vīra̍m bṛ̱hanta̱ṁ dasrā̱ mimā̍thām u̱bhaye̍ṣv a̱sme | naro̱ yad vā̍m aśvinā̱ stoma̱m āva̍n sa̱dhastu̍tim ājamī̱ḻhāso̍ agman ||
+
+**4.44.7**
+
+i̱heha̱ yad vā̍ṁ sama̱nā pa̍pṛ̱kṣe seyam a̱sme su̍ma̱tir vā̍jaratnā | u̱ru̱ṣyata̍ṁ jari̱tāra̍ṁ yu̱vaṁ ha̍ śri̱taḥ kāmo̍ nāsatyā yuva̱drik ||
+
+**4.45.1**
+
+e̱ṣa sya bhā̱nur ud i̍yarti yu̱jyate̱ ratha̱ḥ pari̍jmā di̱vo a̱sya sāna̍vi | pṛ̱kṣāso̍ asmin mithu̱nā adhi̱ trayo̱ dṛti̍s tu̱rīyo̱ madhu̍no̱ vi ra̍pśate ||
+
+**4.45.2**
+
+ud vā̍m pṛ̱kṣāso̱ madhu̍manta īrate̱ rathā̱ aśvā̍sa u̱ṣaso̱ vyu̍ṣṭiṣu | a̱po̱rṇu̱vanta̱s tama̱ ā parī̍vṛta̱ṁ sva1̱̍r ṇa śu̱kraṁ ta̱nvanta̱ ā raja̍ḥ ||
+
+**4.45.3**
+
+madhva̍ḥ pibatam madhu̱pebhi̍r ā̱sabhi̍r u̱ta pri̱yam madhu̍ne yuñjāthā̱ṁ ratha̍m | ā va̍rta̱nim madhu̍nā jinvathas pa̱tho dṛti̍ṁ vahethe̱ madhu̍mantam aśvinā ||
+
+**4.45.4**
+
+ha̱ṁsāso̱ ye vā̱m madhu̍manto a̱sridho̱ hira̍ṇyaparṇā u̱huva̍ uṣa̱rbudha̍ḥ | u̱da̱pruto̍ ma̱ndino̍ mandini̱spṛśo̱ madhvo̱ na makṣa̱ḥ sava̍nāni gacchathaḥ ||
+
+**4.45.5**
+
+sva̱dhva̱rāso̱ madhu̍manto a̱gnaya̍ u̱srā ja̍rante̱ prati̱ vasto̍r a̱śvinā̍ | yan ni̱ktaha̍stas ta̱raṇi̍r vicakṣa̱ṇaḥ soma̍ṁ su̱ṣāva̱ madhu̍manta̱m adri̍bhiḥ ||
+
+**4.45.6**
+
+ā̱ke̱ni̱pāso̱ aha̍bhi̱r davi̍dhvata̱ḥ sva1̱̍r ṇa śu̱kraṁ ta̱nvanta̱ ā raja̍ḥ ||
+
+**4.45.7**
+
+pra vā̍m avocam aśvinā dhiya̱ṁdhā ratha̱ḥ svaśvo̍ a̱jaro̱ yo asti̍ | yena̍ sa̱dyaḥ pari̱ rajā̍ṁsi yā̱tho ha̱viṣma̍ntaṁ ta̱raṇi̍m bho̱jam accha̍ ||
+
+**4.46.1**
+
+agra̍m pibā̱ madhū̍nāṁ su̱taṁ vā̍yo̱ divi̍ṣṭiṣu | tvaṁ hi pū̍rva̱pā asi̍ ||
+
+**4.46.2**
+
+śa̱tenā̍ no a̱bhiṣṭi̍bhir ni̱yutvā̱m̐ indra̍sārathiḥ | vāyo̍ su̱tasya̍ tṛmpatam ||
+
+**4.46.3**
+
+ā vā̍ṁ sa̱hasra̱ṁ hara̍ya̱ indra̍vāyū a̱bhi praya̍ḥ | vaha̍ntu̱ soma̍pītaye ||
+
+**4.46.4**
+
+ratha̱ṁ hira̍ṇyavandhura̱m indra̍vāyū svadhva̱ram | ā hi sthātho̍ divi̱spṛśa̍m ||
+
+**4.46.5**
+
+rathe̍na pṛthu̱pāja̍sā dā̱śvāṁsa̱m upa̍ gacchatam | indra̍vāyū i̱hā ga̍tam ||
+
+**4.46.6**
+
+indra̍vāyū a̱yaṁ su̱tas taṁ de̱vebhi̍ḥ sa̱joṣa̍sā | piba̍taṁ dā̱śuṣo̍ gṛ̱he ||
+
+**4.46.7**
+
+i̱ha pra̱yāṇa̍m astu vā̱m indra̍vāyū vi̱moca̍nam | i̱ha vā̱ṁ soma̍pītaye ||
+
+**4.47.1**
+
+vāyo̍ śu̱kro a̍yāmi te̱ madhvo̱ agra̱ṁ divi̍ṣṭiṣu | ā yā̍hi̱ soma̍pītaye spā̱rho de̍va ni̱yutva̍tā ||
+
+**4.47.2**
+
+indra̍ś ca vāyav eṣā̱ṁ somā̍nām pī̱tim a̍rhathaḥ | yu̱vāṁ hi yantīnda̍vo ni̱mnam āpo̱ na sa̱dhrya̍k ||
+
+**4.47.3**
+
+vāya̱v indra̍ś ca śu̱ṣmiṇā̍ sa̱ratha̍ṁ śavasas patī | ni̱yutva̍ntā na ū̱taya̱ ā yā̍ta̱ṁ soma̍pītaye ||
+
+**4.47.4**
+
+yā vā̱ṁ santi̍ puru̱spṛho̍ ni̱yuto̍ dā̱śuṣe̍ narā | a̱sme tā ya̍jñavāha̱sendra̍vāyū̱ ni ya̍cchatam ||
+
+**4.48.1**
+
+vi̱hi hotrā̱ avī̍tā̱ vipo̱ na rāyo̍ a̱ryaḥ | vāya̱v ā ca̱ndreṇa̱ rathe̍na yā̱hi su̱tasya̍ pī̱taye̍ ||
+
+**4.48.2**
+
+ni̱ryu̱vā̱ṇo aśa̍stīr ni̱yutvā̱m̐ indra̍sārathiḥ | vāya̱v ā ca̱ndreṇa̱ rathe̍na yā̱hi su̱tasya̍ pī̱taye̍ ||
+
+**4.48.3**
+
+anu̍ kṛ̱ṣṇe vasu̍dhitī ye̱māte̍ vi̱śvape̍śasā | vāya̱v ā ca̱ndreṇa̱ rathe̍na yā̱hi su̱tasya̍ pī̱taye̍ ||
+
+**4.48.4**
+
+vaha̍ntu tvā mano̱yujo̍ yu̱ktāso̍ nava̱tir nava̍ | vāya̱v ā ca̱ndreṇa̱ rathe̍na yā̱hi su̱tasya̍ pī̱taye̍ ||
+
+**4.48.5**
+
+vāyo̍ śa̱taṁ harī̍ṇāṁ yu̱vasva̱ poṣyā̍ṇām | u̱ta vā̍ te saha̱sriṇo̱ ratha̱ ā yā̍tu̱ pāja̍sā ||
+
+**4.49.1**
+
+i̱daṁ vā̍m ā̱sye̍ ha̱viḥ pri̱yam i̍ndrābṛhaspatī | u̱ktham mada̍ś ca śasyate ||
+
+**4.49.2**
+
+a̱yaṁ vā̱m pari̍ ṣicyate̱ soma̍ indrābṛhaspatī | cāru̱r madā̍ya pī̱taye̍ ||
+
+**4.49.3**
+
+ā na̍ indrābṛhaspatī gṛ̱ham indra̍ś ca gacchatam | so̱ma̱pā soma̍pītaye ||
+
+**4.49.4**
+
+a̱sme i̍ndrābṛhaspatī ra̱yiṁ dha̍ttaṁ śata̱gvina̍m | aśvā̍vantaṁ saha̱sriṇa̍m ||
+
+**4.49.5**
+
+indrā̱bṛha̱spatī̍ va̱yaṁ su̱te gī̱rbhir ha̍vāmahe | a̱sya soma̍sya pī̱taye̍ ||
+
+**4.49.6**
+
+soma̍m indrābṛhaspatī̱ piba̍taṁ dā̱śuṣo̍ gṛ̱he | mā̱daye̍thā̱ṁ tado̍kasā ||
+
+**4.50.1**
+
+yas ta̱stambha̱ saha̍sā̱ vi jmo antā̱n bṛha̱spati̍s triṣadha̱stho rave̍ṇa | tam pra̱tnāsa̱ ṛṣa̍yo̱ dīdhyā̍nāḥ pu̱ro viprā̍ dadhire ma̱ndraji̍hvam ||
+
+**4.50.2**
+
+dhu̱neta̍yaḥ suprake̱tam mada̍nto̱ bṛha̍spate a̱bhi ye na̍s tata̱sre | pṛṣa̍ntaṁ sṛ̱pram ada̍bdham ū̱rvam bṛha̍spate̱ rakṣa̍tād asya̱ yoni̍m ||
+
+**4.50.3**
+
+bṛha̍spate̱ yā pa̍ra̱mā pa̍rā̱vad ata̱ ā ta̍ ṛta̱spṛśo̱ ni ṣe̍duḥ | tubhya̱ṁ khā̱tā a̍va̱tā adri̍dugdhā̱ madhva̍ḥ ścotanty a̱bhito̍ vira̱pśam ||
+
+**4.50.4**
+
+bṛha̱spati̍ḥ pratha̱maṁ jāya̍māno ma̱ho jyoti̍ṣaḥ para̱me vyo̍man | sa̱ptāsya̍s tuvijā̱to rave̍ṇa̱ vi sa̱ptara̍śmir adhama̱t tamā̍ṁsi ||
+
+**4.50.5**
+
+sa su̱ṣṭubhā̱ sa ṛkva̍tā ga̱ṇena̍ va̱laṁ ru̍roja phali̱gaṁ rave̍ṇa | bṛha̱spati̍r u̱sriyā̍ havya̱sūda̱ḥ kani̍krada̱d vāva̍śatī̱r ud ā̍jat ||
+
+**4.50.6**
+
+e̱vā pi̱tre vi̱śvade̍vāya̱ vṛṣṇe̍ ya̱jñair vi̍dhema̱ nama̍sā ha̱virbhi̍ḥ | bṛha̍spate supra̱jā vī̱rava̍nto va̱yaṁ syā̍ma̱ pata̍yo rayī̱ṇām ||
+
+**4.50.7**
+
+sa id rājā̱ prati̍janyāni̱ viśvā̱ śuṣme̍ṇa tasthāv a̱bhi vī̱rye̍ṇa | bṛha̱spati̱ṁ yaḥ subhṛ̍tam bi̱bharti̍ valgū̱yati̱ vanda̍te pūrva̱bhāja̍m ||
+
+**4.50.8**
+
+sa it kṣe̍ti̱ sudhi̍ta̱ oka̍si̱ sve tasmā̱ iḻā̍ pinvate viśva̱dānī̍m | tasmai̱ viśa̍ḥ sva̱yam e̱vā na̍mante̱ yasmi̍n bra̱hmā rāja̍ni̱ pūrva̱ eti̍ ||
+
+**4.50.9**
+
+apra̍tīto jayati̱ saṁ dhanā̍ni̱ prati̍janyāny u̱ta yā saja̍nyā | a̱va̱syave̱ yo vari̍vaḥ kṛ̱ṇoti̍ bra̱hmaṇe̱ rājā̱ tam a̍vanti de̱vāḥ ||
+
+**4.50.10**
+
+indra̍ś ca̱ soma̍m pibatam bṛhaspate̱ 'smin ya̱jñe ma̍ndasā̱nā vṛ̍ṣaṇvasū | ā vā̍ṁ viśa̱ntv inda̍vaḥ svā̱bhuvo̱ 'sme ra̱yiṁ sarva̍vīra̱ṁ ni ya̍cchatam ||
+
+**4.50.11**
+
+bṛha̍spata indra̱ vardha̍taṁ na̱ḥ sacā̱ sā vā̍ṁ suma̱tir bhū̍tv a̱sme | a̱vi̱ṣṭaṁ dhiyo̍ jigṛ̱tam pura̍ṁdhīr jaja̱stam a̱ryo va̱nuṣā̱m arā̍tīḥ ||
+
+**4.51.1**
+
+i̱dam u̱ tyat pu̍ru̱tama̍m pu̱rastā̱j jyoti̱s tama̍so va̱yunā̍vad asthāt | nū̱naṁ di̱vo du̍hi̱taro̍ vibhā̱tīr gā̱tuṁ kṛ̍ṇavann u̱ṣaso̱ janā̍ya ||
+
+**4.51.2**
+
+asthu̍r u ci̱trā u̱ṣasa̍ḥ pu̱rastā̍n mi̱tā i̍va̱ svara̍vo 'dhva̱reṣu̍ | vy ū̍ vra̱jasya̱ tama̍so̱ dvāro̱cchantī̍r avra̱ñ chuca̍yaḥ pāva̱kāḥ ||
+
+**4.51.3**
+
+u̱cchantī̍r a̱dya ci̍tayanta bho̱jān rā̍dho̱deyā̍yo̱ṣaso̍ ma̱ghonī̍ḥ | a̱ci̱tre a̱ntaḥ pa̱ṇaya̍ḥ sasa̱ntv abu̍dhyamānā̱s tama̍so̱ vima̍dhye ||
+
+**4.51.4**
+
+ku̱vit sa de̍vīḥ sa̱nayo̱ navo̍ vā̱ yāmo̍ babhū̱yād u̍ṣaso vo a̱dya | yenā̱ nava̍gve̱ aṅgi̍re̱ daśa̍gve sa̱ptāsye̍ revatī re̱vad ū̱ṣa ||
+
+**4.51.5**
+
+yū̱yaṁ hi de̍vīr ṛta̱yugbhi̱r aśvai̍ḥ pariprayā̱tha bhuva̍nāni sa̱dyaḥ | pra̱bo̱dhaya̍ntīr uṣasaḥ sa̱santa̍ṁ dvi̱pāc catu̍ṣpāc ca̱rathā̍ya jī̱vam ||
+
+**4.51.6**
+
+kva̍ svid āsāṁ kata̱mā pu̍rā̱ṇī yayā̍ vi̱dhānā̍ vida̱dhur ṛ̍bhū̱ṇām | śubha̱ṁ yac chu̱bhrā u̱ṣasa̱ś cara̍nti̱ na vi jñā̍yante sa̱dṛśī̍r aju̱ryāḥ ||
+
+**4.51.7**
+
+tā ghā̱ tā bha̱drā u̱ṣasa̍ḥ pu̱rāsu̍r abhi̱ṣṭidyu̍mnā ṛ̱tajā̍tasatyāḥ | yāsv ī̍jā̱naḥ śa̍śamā̱na u̱kthaiḥ stu̱vañ chaṁsa̱n dravi̍ṇaṁ sa̱dya āpa̍ ||
+
+**4.51.8**
+
+tā ā ca̍ranti sama̱nā pu̱rastā̍t samā̱nata̍ḥ sama̱nā pa̍prathā̱nāḥ | ṛ̱tasya̍ de̱vīḥ sada̍so budhā̱nā gavā̱ṁ na sargā̍ u̱ṣaso̍ jarante ||
+
+**4.51.9**
+
+tā in nv e̱3̱̍va sa̍ma̱nā sa̍mā̱nīr amī̍tavarṇā u̱ṣasa̍ś caranti | gūha̍ntī̱r abhva̱m asi̍ta̱ṁ ruśa̍dbhiḥ śu̱krās ta̱nūbhi̱ḥ śuca̍yo rucā̱nāḥ ||
+
+**4.51.10**
+
+ra̱yiṁ di̍vo duhitaro vibhā̱tīḥ pra̱jāva̍ntaṁ yacchatā̱smāsu̍ devīḥ | syo̱nād ā va̍ḥ prati̱budhya̍mānāḥ su̱vīrya̍sya̱ pata̍yaḥ syāma ||
+
+**4.51.11**
+
+tad vo̍ divo duhitaro vibhā̱tīr upa̍ bruva uṣaso ya̱jñake̍tuḥ | va̱yaṁ syā̍ma ya̱śaso̱ jane̍ṣu̱ tad dyauś ca̍ dha̱ttām pṛ̍thi̱vī ca̍ de̱vī ||
+
+**4.52.1**
+
+prati̱ ṣyā sū̱narī̱ janī̍ vyu̱cchantī̱ pari̱ svasu̍ḥ | di̱vo a̍darśi duhi̱tā ||
+
+**4.52.2**
+
+aśve̍va ci̱trāru̍ṣī mā̱tā gavā̍m ṛ̱tāva̍rī | sakhā̍bhūd a̱śvino̍r u̱ṣāḥ ||
+
+**4.52.3**
+
+u̱ta sakhā̍sy a̱śvino̍r u̱ta mā̱tā gavā̍m asi | u̱toṣo̱ vasva̍ īśiṣe ||
+
+**4.52.4**
+
+yā̱va̱yaddve̍ṣasaṁ tvā ciki̱tvit sū̍nṛtāvari | prati̱ stomai̍r abhutsmahi ||
+
+**4.52.5**
+
+prati̍ bha̱drā a̍dṛkṣata̱ gavā̱ṁ sargā̱ na ra̱śmaya̍ḥ | oṣā a̍prā u̱ru jraya̍ḥ ||
+
+**4.52.6**
+
+ā̱pa̱pruṣī̍ vibhāvari̱ vy ā̍va̱r jyoti̍ṣā̱ tama̍ḥ | uṣo̱ anu̍ sva̱dhām a̍va ||
+
+**4.52.7**
+
+ā dyāṁ ta̍noṣi ra̱śmibhi̱r āntari̍kṣam u̱ru pri̱yam | uṣa̍ḥ śu̱kreṇa̍ śo̱ciṣā̍ ||
+
+**4.53.1**
+
+tad de̱vasya̍ savi̱tur vārya̍m ma̱had vṛ̍ṇī̱mahe̱ asu̍rasya̱ prace̍tasaḥ | cha̱rdir yena̍ dā̱śuṣe̱ yaccha̍ti̱ tmanā̱ tan no̍ ma̱hām̐ ud a̍yān de̱vo a̱ktubhi̍ḥ ||
+
+**4.53.2**
+
+di̱vo dha̱rtā bhuva̍nasya pra̱jāpa̍tiḥ pi̱śaṅga̍ṁ drā̱pim prati̍ muñcate ka̱viḥ | vi̱ca̱kṣa̱ṇaḥ pra̱thaya̍nn āpṛ̱ṇann u̱rv ajī̍janat savi̱tā su̱mnam u̱kthya̍m ||
+
+**4.53.3**
+
+āprā̱ rajā̍ṁsi di̱vyāni̱ pārthi̍vā̱ śloka̍ṁ de̱vaḥ kṛ̍ṇute̱ svāya̱ dharma̍ṇe | pra bā̱hū a̍srāk savi̱tā savī̍mani nive̱śaya̍n prasu̱vann a̱ktubhi̱r jaga̍t ||
+
+**4.53.4**
+
+adā̍bhyo̱ bhuva̍nāni pra̱cāka̍śad vra̱tāni̍ de̱vaḥ sa̍vi̱tābhi ra̍kṣate | prāsrāg bā̱hū bhuva̍nasya pra̱jābhyo̍ dhṛ̱tavra̍to ma̱ho ajma̍sya rājati ||
+
+**4.53.5**
+
+trir a̱ntari̍kṣaṁ savi̱tā ma̍hitva̱nā trī rajā̍ṁsi pari̱bhus trīṇi̍ roca̱nā | ti̱sro diva̍ḥ pṛthi̱vīs ti̱sra i̍nvati tri̱bhir vra̱tair a̱bhi no̍ rakṣati̱ tmanā̍ ||
+
+**4.53.6**
+
+bṛ̱hatsu̍mnaḥ prasavī̱tā ni̱veśa̍no̱ jaga̍taḥ sthā̱tur u̱bhaya̍sya̱ yo va̱śī | sa no̍ de̱vaḥ sa̍vi̱tā śarma̍ yacchatv a̱sme kṣayā̍ya tri̱varū̍tha̱m aṁha̍saḥ ||
+
+**4.53.7**
+
+āga̍n de̱va ṛ̱tubhi̱r vardha̍tu̱ kṣaya̱ṁ dadhā̍tu naḥ savi̱tā su̍pra̱jām iṣa̍m | sa na̍ḥ kṣa̱pābhi̱r aha̍bhiś ca jinvatu pra̱jāva̍ntaṁ ra̱yim a̱sme sam i̍nvatu ||
+
+**4.54.1**
+
+abhū̍d de̱vaḥ sa̍vi̱tā vandyo̱ nu na̍ i̱dānī̱m ahna̍ upa̱vācyo̱ nṛbhi̍ḥ | vi yo ratnā̱ bhaja̍ti māna̱vebhya̱ḥ śreṣṭha̍ṁ no̱ atra̱ dravi̍ṇa̱ṁ yathā̱ dadha̍t ||
+
+**4.54.2**
+
+de̱vebhyo̱ hi pra̍tha̱maṁ ya̱jñiye̍bhyo 'mṛta̱tvaṁ su̱vasi̍ bhā̱gam u̍tta̱mam | ād id dā̱māna̍ṁ savita̱r vy ū̍rṇuṣe 'nūcī̱nā jī̍vi̱tā mānu̍ṣebhyaḥ ||
+
+**4.54.3**
+
+aci̍ttī̱ yac ca̍kṛ̱mā daivye̱ jane̍ dī̱nair dakṣai̱ḥ prabhū̍tī pūruṣa̱tvatā̍ | de̱veṣu̍ ca savita̱r mānu̍ṣeṣu ca̱ tvaṁ no̱ atra̍ suvatā̱d anā̍gasaḥ ||
+
+**4.54.4**
+
+na pra̱miye̍ savi̱tur daivya̍sya̱ tad yathā̱ viśva̱m bhuva̍naṁ dhārayi̱ṣyati̍ | yat pṛ̍thi̱vyā vari̍ma̱nn ā sva̍ṅgu̱rir varṣma̍n di̱vaḥ su̱vati̍ sa̱tyam a̱sya tat ||
+
+**4.54.5**
+
+indra̍jyeṣṭhān bṛ̱hadbhya̱ḥ parva̍tebhya̱ḥ kṣayā̍m̐ ebhyaḥ suvasi pa̱styā̍vataḥ | yathā̍-yathā pa̱taya̍nto viyemi̱ra e̱vaiva ta̍sthuḥ savitaḥ sa̱vāya̍ te ||
+
+**4.54.6**
+
+ye te̱ trir aha̍n savitaḥ sa̱vāso̍ di̱ve-di̍ve̱ saubha̍gam āsu̱vanti̍ | indro̱ dyāvā̍pṛthi̱vī sindhu̍r a̱dbhir ā̍di̱tyair no̱ adi̍ti̱ḥ śarma̍ yaṁsat ||
+
+**4.55.1**
+
+ko va̍s trā̱tā va̍sava̱ḥ ko va̍rū̱tā dyāvā̍bhūmī adite̱ trāsī̍thāṁ naḥ | sahī̍yaso varuṇa mitra̱ martā̱t ko vo̍ 'dhva̱re vari̍vo dhāti devāḥ ||
+
+**4.55.2**
+
+pra ye dhāmā̍ni pū̱rvyāṇy arcā̱n vi yad u̱cchān vi̍yo̱tāro̱ amū̍rāḥ | vi̱dhā̱tāro̱ vi te da̍dhu̱r aja̍srā ṛ̱tadhī̍tayo rurucanta da̱smāḥ ||
+
+**4.55.3**
+
+pra pa̱styā̱3̱̍m adi̍ti̱ṁ sindhu̍m a̱rkaiḥ sva̱stim ī̍ḻe sa̱khyāya̍ de̱vīm | u̱bhe yathā̍ no̱ aha̍nī ni̱pāta̍ u̱ṣāsā̱naktā̍ karatā̱m ada̍bdhe ||
+
+**4.55.4**
+
+vy a̍rya̱mā varu̍ṇaś ceti̱ panthā̍m i̱ṣas pati̍ḥ suvi̱taṁ gā̱tum a̱gniḥ | indrā̍viṣṇū nṛ̱vad u̱ ṣu stavā̍nā̱ śarma̍ no yanta̱m ama̍va̱d varū̍tham ||
+
+**4.55.5**
+
+ā parva̍tasya ma̱rutā̱m avā̍ṁsi de̱vasya̍ trā̱tur a̍vri̱ bhaga̍sya | pāt pati̱r janyā̱d aṁha̍so no mi̱tro mi̱triyā̍d u̱ta na̍ uruṣyet ||
+
+**4.55.6**
+
+nū ro̍dasī̱ ahi̍nā bu̱dhnye̍na stuvī̱ta de̍vī̱ apye̍bhir i̱ṣṭaiḥ | sa̱mu̱draṁ na sa̱ṁcara̍ṇe sani̱ṣyavo̍ gha̱rmasva̍raso na̱dyo̱3̱̍ apa̍ vran ||
+
+**4.55.7**
+
+de̱vair no̍ de̱vy adi̍ti̱r ni pā̍tu de̱vas trā̱tā trā̍yatā̱m apra̍yucchan | na̱hi mi̱trasya̱ varu̍ṇasya dhā̱sim arhā̍masi pra̱miya̱ṁ sānv a̱gneḥ ||
+
+**4.55.8**
+
+a̱gnir ī̍śe vasa̱vya̍syā̱gnir ma̱haḥ saubha̍gasya | tāny a̱smabhya̍ṁ rāsate ||
+
+**4.55.9**
+
+uṣo̍ magho̱ny ā va̍ha̱ sūnṛ̍te̱ vāryā̍ pu̱ru | a̱smabhya̍ṁ vājinīvati ||
+
+**4.55.10**
+
+tat su na̍ḥ savi̱tā bhago̱ varu̍ṇo mi̱tro a̍rya̱mā | indro̍ no̱ rādha̱sā ga̍mat ||
+
+**4.56.1**
+
+ma̱hī dyāvā̍pṛthi̱vī i̱ha jyeṣṭhe̍ ru̱cā bha̍vatāṁ śu̱caya̍dbhir a̱rkaiḥ | yat sī̱ṁ vari̍ṣṭhe bṛha̱tī vi̍mi̱nvan ru̱vad dho̱kṣā pa̍prathā̱nebhi̱r evai̍ḥ ||
+
+**4.56.2**
+
+de̱vī de̱vebhi̍r yaja̱te yaja̍trai̱r ami̍natī tasthatur u̱kṣamā̍ṇe | ṛ̱tāva̍rī a̱druhā̍ de̱vapu̍tre ya̱jñasya̍ ne̱trī śu̱caya̍dbhir a̱rkaiḥ ||
+
+**4.56.3**
+
+sa it svapā̱ bhuva̍neṣv āsa̱ ya i̱me dyāvā̍pṛthi̱vī ja̱jāna̍ | u̱rvī ga̍bhī̱re raja̍sī su̱meke̍ ava̱ṁśe dhīra̱ḥ śacyā̱ sam ai̍rat ||
+
+**4.56.4**
+
+nū ro̍dasī bṛ̱hadbhi̍r no̱ varū̍thai̱ḥ patnī̍vadbhir i̱ṣaya̍ntī sa̱joṣā̍ḥ | u̱rū̱cī viśve̍ yaja̱te ni pā̍taṁ dhi̱yā syā̍ma ra̱thya̍ḥ sadā̱sāḥ ||
+
+**4.56.5**
+
+pra vā̱m mahi̱ dyavī̍ a̱bhy upa̍stutim bharāmahe | śucī̱ upa̱ praśa̍staye ||
+
+**4.56.6**
+
+pu̱nā̱ne ta̱nvā̍ mi̱thaḥ svena̱ dakṣe̍ṇa rājathaḥ | ū̱hyāthe̍ sa̱nād ṛ̱tam ||
+
+**4.56.7**
+
+ma̱hī mi̱trasya̍ sādhatha̱s tara̍ntī̱ pipra̍tī ṛ̱tam | pari̍ ya̱jñaṁ ni ṣe̍dathuḥ ||
+
+**4.57.1**
+
+kṣetra̍sya̱ pati̍nā va̱yaṁ hi̱tene̍va jayāmasi | gām aśva̍m poṣayi̱tnv ā sa no̍ mṛḻātī̱dṛśe̍ ||
+
+**4.57.2**
+
+kṣetra̍sya pate̱ madhu̍mantam ū̱rmiṁ dhe̱nur i̍va̱ payo̍ a̱smāsu̍ dhukṣva | ma̱dhu̱ścuta̍ṁ ghṛ̱tam i̍va̱ supū̍tam ṛ̱tasya̍ na̱ḥ pata̍yo mṛḻayantu ||
+
+**4.57.3**
+
+madhu̍matī̱r oṣa̍dhī̱r dyāva̱ āpo̱ madhu̍man no bhavatv a̱ntari̍kṣam | kṣetra̍sya̱ pati̱r madhu̍mān no a̱stv ari̍ṣyanto̱ anv e̍naṁ carema ||
+
+**4.57.4**
+
+śu̱naṁ vā̱hāḥ śu̱naṁ nara̍ḥ śu̱naṁ kṛ̍ṣatu̱ lāṅga̍lam | śu̱naṁ va̍ra̱trā ba̍dhyantāṁ śu̱nam aṣṭrā̱m ud i̍ṅgaya ||
+
+**4.57.5**
+
+śunā̍sīrāv i̱māṁ vāca̍ṁ juṣethā̱ṁ yad di̱vi ca̱krathu̱ḥ paya̍ḥ | tene̱mām upa̍ siñcatam ||
+
+**4.57.6**
+
+a̱rvācī̍ subhage bhava̱ sīte̱ vandā̍mahe tvā | yathā̍ naḥ su̱bhagāsa̍si̱ yathā̍ naḥ su̱phalāsa̍si ||
+
+**4.57.7**
+
+indra̱ḥ sītā̱ṁ ni gṛ̍hṇātu̱ tām pū̱ṣānu̍ yacchatu | sā na̱ḥ paya̍svatī duhā̱m utta̍rām-uttarā̱ṁ samā̍m ||
+
+**4.57.8**
+
+śu̱naṁ na̱ḥ phālā̱ vi kṛ̍ṣantu̱ bhūmi̍ṁ śu̱naṁ kī̱nāśā̍ a̱bhi ya̍ntu vā̱haiḥ | śu̱nam pa̱rjanyo̱ madhu̍nā̱ payo̍bhi̱ḥ śunā̍sīrā śu̱nam a̱smāsu̍ dhattam ||
+
+**4.58.1**
+
+sa̱mu̱drād ū̱rmir madhu̍mā̱m̐ ud ā̍ra̱d upā̱ṁśunā̱ sam a̍mṛta̱tvam ā̍naṭ | ghṛ̱tasya̱ nāma̱ guhya̱ṁ yad asti̍ ji̱hvā de̱vānā̍m a̱mṛta̍sya̱ nābhi̍ḥ ||
+
+**4.58.2**
+
+va̱yaṁ nāma̱ pra bra̍vāmā ghṛ̱tasyā̱smin ya̱jñe dhā̍rayāmā̱ namo̍bhiḥ | upa̍ bra̱hmā śṛ̍ṇavac cha̱syamā̍na̱ṁ catu̍ḥśṛṅgo 'vamīd gau̱ra e̱tat ||
+
+**4.58.3**
+
+ca̱tvāri̱ śṛṅgā̱ trayo̍ asya̱ pādā̱ dve śī̱rṣe sa̱pta hastā̍so asya | tridhā̍ ba̱ddho vṛ̍ṣa̱bho ro̍ravīti ma̱ho de̱vo martyā̱m̐ ā vi̍veśa ||
+
+**4.58.4**
+
+tridhā̍ hi̱tam pa̱ṇibhi̍r gu̱hyamā̍na̱ṁ gavi̍ de̱vāso̍ ghṛ̱tam anv a̍vindan | indra̱ eka̱ṁ sūrya̱ eka̍ṁ jajāna ve̱nād eka̍ṁ sva̱dhayā̱ niṣ ṭa̍takṣuḥ ||
+
+**4.58.5**
+
+e̱tā a̍rṣanti̱ hṛdyā̍t samu̱drāc cha̱tavra̍jā ri̱puṇā̱ nāva̱cakṣe̍ | ghṛ̱tasya̱ dhārā̍ a̱bhi cā̍kaśīmi hira̱ṇyayo̍ veta̱so madhya̍ āsām ||
+
+**4.58.6**
+
+sa̱myak sra̍vanti sa̱rito̱ na dhenā̍ a̱ntar hṛ̱dā mana̍sā pū̱yamā̍nāḥ | e̱te a̍rṣanty ū̱rmayo̍ ghṛ̱tasya̍ mṛ̱gā i̍va kṣipa̱ṇor īṣa̍māṇāḥ ||
+
+**4.58.7**
+
+sindho̍r iva prādhva̱ne śū̍gha̱nāso̱ vāta̍pramiyaḥ patayanti ya̱hvāḥ | ghṛ̱tasya̱ dhārā̍ aru̱ṣo na vā̱jī kāṣṭhā̍ bhi̱ndann ū̱rmibhi̱ḥ pinva̍mānaḥ ||
+
+**4.58.8**
+
+a̱bhi pra̍vanta̱ sama̍neva̱ yoṣā̍ḥ kalyā̱ṇya1̱̍ḥ smaya̍mānāso a̱gnim | ghṛ̱tasya̱ dhārā̍ḥ sa̱midho̍ nasanta̱ tā ju̍ṣā̱ṇo ha̍ryati jā̱tave̍dāḥ ||
+
+**4.58.9**
+
+ka̱nyā̍ iva vaha̱tum eta̱vā u̍ a̱ñjy a̍ñjā̱nā a̱bhi cā̍kaśīmi | yatra̱ soma̍ḥ sū̱yate̱ yatra̍ ya̱jño ghṛ̱tasya̱ dhārā̍ a̱bhi tat pa̍vante ||
+
+**4.58.10**
+
+a̱bhy a̍rṣata suṣṭu̱tiṁ gavya̍m ā̱jim a̱smāsu̍ bha̱drā dravi̍ṇāni dhatta | i̱maṁ ya̱jñaṁ na̍yata de̱vatā̍ no ghṛ̱tasya̱ dhārā̱ madhu̍mat pavante ||
+
+**4.58.11**
+
+dhāma̍n te̱ viśva̱m bhuva̍na̱m adhi̍ śri̱tam a̱ntaḥ sa̍mu̱dre hṛ̱dy a1̱̍ntar āyu̍ṣi | a̱pām anī̍ke sami̱the ya ābhṛ̍ta̱s tam a̍śyāma̱ madhu̍mantaṁ ta ū̱rmim ||

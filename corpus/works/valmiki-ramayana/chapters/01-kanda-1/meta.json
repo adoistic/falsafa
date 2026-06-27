@@ -1,0 +1,38 @@
+{
+  "work_slug": "valmiki-ramayana",
+  "work_title": "Vālmīki Rāmāyaṇa",
+  "chapter_number": 1,
+  "chapter_title": "Kāṇḍa 1",
+  "chapter_slug": "01-kanda-1",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "a157b22d-2192-5b50-a98f-e0e1040dfc52",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 23653,
+      "paragraph_count": 1941,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "550e075b-f82e-572a-b0cb-e8264eea2817",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 48126,
+      "paragraph_count": 1941,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

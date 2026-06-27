@@ -1,3 +1,22 @@
+---
+work_id: "024dffd8-3c46-5746-9b2b-5525ce1a3e1c"
+work_slug: "valmiki-ramayana"
+work_title: Vālmīki Rāmāyaṇa
+author_name: Vālmīki
+chapter_number: 1
+chapter_title: Kāṇḍa 1
+chapter_slug: "01-kanda-1"
+variant_id: "550e075b-f82e-572a-b0cb-e8264eea2817"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 48126
+translator: thothica
+---
+
 **1.1.1**  The ascetic Vālmīki questioned Nārada — the foremost among those devoted to austerity and sacred study, the best of the eloquent, the bull among sages.
 
 **1.1.2**  "Who in this world today is truly virtuous, and also mighty? Who knows righteousness, and is grateful, truthful in speech, and steadfast in his vows?

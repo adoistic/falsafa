@@ -1,0 +1,38 @@
+{
+  "work_slug": "valmiki-ramayana",
+  "work_title": "Vālmīki Rāmāyaṇa",
+  "chapter_number": 7,
+  "chapter_title": "Kāṇḍa 7",
+  "chapter_slug": "07-kanda-7",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "c733a18a-86ce-5ada-88c8-a10f4946a6cf",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 33800,
+      "paragraph_count": 2690,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7653af71-f949-556f-a860-1c0116679dd1",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 64463,
+      "paragraph_count": 2690,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

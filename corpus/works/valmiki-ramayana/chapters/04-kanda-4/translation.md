@@ -1,3 +1,22 @@
+---
+work_id: "024dffd8-3c46-5746-9b2b-5525ce1a3e1c"
+work_slug: "valmiki-ramayana"
+work_title: Vālmīki Rāmāyaṇa
+author_name: Vālmīki
+chapter_number: 4
+chapter_title: Kāṇḍa 4
+chapter_slug: "04-kanda-4"
+variant_id: "3833208c-3dc5-55aa-aec2-d8f9a2fbc18f"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 49018
+translator: thothica
+---
+
 **4.1.1**  Having reached that lotus-pond teeming with blue lotuses and fish, Rāma, accompanied by Saumitri, lamented with distraught senses.
 
 **4.1.2**  At the very sight of it his senses trembled with delight; overpowered by longing, he spoke thus to Saumitri.

@@ -1,3 +1,22 @@
+---
+work_id: "024dffd8-3c46-5746-9b2b-5525ce1a3e1c"
+work_slug: "valmiki-ramayana"
+work_title: Vālmīki Rāmāyaṇa
+author_name: Vālmīki
+chapter_number: 2
+chapter_title: Kāṇḍa 2
+chapter_slug: "02-kanda-2"
+variant_id: "877c71e3-9779-53dd-b456-21426a3f4729"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 79514
+translator: thothica
+---
+
 **2.1.1**  Now, after some time had passed, king Daśaratha, that joy of the Raghu line, spoke to his son Bharata, the son of Kaikeyī.
 
 **2.1.2**  "My son, this man who is staying here is the son of the king of the Kekayas — your maternal uncle Yudhājit has come, O hero, to take you away."

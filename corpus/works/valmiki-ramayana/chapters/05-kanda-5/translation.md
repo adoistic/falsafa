@@ -1,3 +1,22 @@
+---
+work_id: "024dffd8-3c46-5746-9b2b-5525ce1a3e1c"
+work_slug: "valmiki-ramayana"
+work_title: Vālmīki Rāmāyaṇa
+author_name: Vālmīki
+chapter_number: 5
+chapter_title: Kāṇḍa 5
+chapter_slug: "05-kanda-5"
+variant_id: "7cbcb843-4d27-5457-97ca-90861a2723f7"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 61834
+translator: thothica
+---
+
 **5.1.1**  Then he, the crusher of foes, resolved to seek the track of Sītā who had been carried off by Rāvaṇa, on the path frequented by the Cāraṇas.
 
 **5.1.2**  Then the mighty, steadfast one roamed at ease over the verdant meadows colored like vaidūrya gems, which were as level as water.
