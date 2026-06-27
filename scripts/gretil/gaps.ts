@@ -83,6 +83,33 @@ const WORKS: WorkSpec[] = [
     chunk: 3, // sargas run long; keep chunks small
     unitName: "sarga",
   },
+  {
+    slug: "atharvaveda-ps",
+    segDir: "t2work/gretil/segmented/atharvaveda-ps",
+    segFile: (n) => `kanda-${String(n).padStart(2, "0")}.txt`,
+    chapter: (n) => `${String(n).padStart(2, "0")}-kanda-${n}`,
+    units: 20,
+    chunk: 3, // sūktas run long; keep chunks small
+    unitName: "sūkta",
+  },
+  {
+    slug: "samaveda",
+    segDir: "t2work/gretil/segmented/samaveda",
+    segFile: (n) => `prapathaka-${String(n).padStart(2, "0")}.txt`,
+    chapter: (n) => `${String(n).padStart(2, "0")}-prapathaka-${n}`,
+    units: 12,
+    chunk: 10, // verses per prapāṭhaka are ~10–99; small chunks work
+    unitName: "verse",
+  },
+  {
+    slug: "mahabharata",
+    segDir: "t2work/gretil/segmented/mahabharata",
+    segFile: (n) => `parva-${String(n).padStart(2, "0")}.txt`,
+    chapter: (n) => `${String(n).padStart(2, "0")}-parva-${n}`,
+    units: 18,
+    chunk: 2, // adhyāyas run very long (avg ~40 verses); keep batches small
+    unitName: "adhyāya",
+  },
 ];
 
 if (import.meta.main) {
