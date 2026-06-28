@@ -1,0 +1,521 @@
+{
+  "slug": "unknown-brhaspati-smrti-0fd070",
+  "window": "01:246-506",
+  "entities": [
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Brhaspati", "Bṛhaspati"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-8c8b23",
+          "quote": "Bṛhaspati says the case should be tried quickly, even at an improper time",
+          "role": "author-authority"
+        },
+        {
+          "paragraph_id": "p-e8c008",
+          "quote": "that accused person, says Bṛhaspati, shall be made to pay the whole",
+          "role": "author-authority"
+        },
+        {
+          "paragraph_id": "p-e738b7",
+          "quote": "he [Bṛhaspati] has called that a forged document",
+          "role": "author-authority"
+        }
+      ],
+      "description": "The divine sage and lawgiver in whose name the Smṛti is composed, cited as the source of legal rulings throughout the text.",
+      "justification": "Bṛhaspati is directly named as the authority pronouncing legal rules in multiple verses, establishing him as the presiding figure of the treatise."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-c85f89",
+          "quote": "Manu has called this an affirmative defense",
+          "role": "cited-authority"
+        }
+      ],
+      "description": "The primordial lawgiver cited as a prior authority on legal categories, specifically on the concept of the affirmative defense (special plea).",
+      "justification": "Manu is explicitly named as the one who designated a particular type of reply as an affirmative defense, marking him as a recognized legal authority being invoked."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra", "Śakra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-03a905",
+          "quote": "spreads his fame here in the world and becomes like Indra",
+          "role": "simile-ideal"
+        },
+        {
+          "paragraph_id": "p-23c4e3",
+          "quote": "he, having obtained fame in this world, goes to the same world as Śakra",
+          "role": "soteriological-reward"
+        }
+      ],
+      "description": "The king of the gods used as the supreme simile for a righteous king who enforces legal decisions correctly, with his heavenly realm as the promised reward.",
+      "justification": "A just king is promised to become like Indra (Śakra) and reach his world, making the deity an eschatological ideal for righteous legal conduct."
+    },
+    {
+      "canonical_name": "Vasiṣṭha",
+      "surface_names": ["Vasiṣṭha", "Vasishtha"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-5b0f44",
+          "quote": "Hear the interest on a usurious loan, as stated in the words of Vasiṣṭha: five māṣas on twenty",
+          "role": "cited-authority"
+        }
+      ],
+      "description": "A Vedic sage and lawgiver quoted for the permissible rate of interest on a usurious loan, providing a numerical legal standard.",
+      "justification": "Vasiṣṭha is explicitly cited by name for a specific usury ruling, showing his status as a recognized prior legal authority."
+    },
+    {
+      "canonical_name": "Kātyāyana",
+      "surface_names": ["Kātyāyana", "Katyayana"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-3c8fd3",
+          "quote": "what is written with particulars is stronger, thus Kātyāyana has said",
+          "role": "cited-authority"
+        }
+      ],
+      "description": "A dharmaśāstra authority cited for the rule that a document with specific particulars prevails over one that is general.",
+      "justification": "Kātyāyana is named as the source of a specific legal ruling on documentary evidence, confirming his role as a recognized legal authority."
+    },
+    {
+      "canonical_name": "Bhṛgu",
+      "surface_names": ["Bhṛgu", "Bhrgu"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-62153b",
+          "quote": "when letters are situated thus, the document is flawed, says Bhṛgu",
+          "role": "cited-authority"
+        }
+      ],
+      "description": "A Vedic sage cited as the authority on the rule that displaced or doubtful letters render a document legally flawed.",
+      "justification": "Bhṛgu is explicitly attributed a ruling on the flaws of documentary evidence, indicating his status as a legal-textual source."
+    },
+    {
+      "canonical_name": "the king",
+      "surface_names": ["king", "the king"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {
+          "paragraph_id": "p-eae5b9",
+          "quote": "If a dispute remains undecided, the king would be deceived; the awarding of victory would not be equal; therefore, he should decide the cases",
+          "role": "adjudicator"
+        },
+        {
+          "paragraph_id": "p-97bf35",
+          "quote": "Whatever is heard by the king himself from the words of the plaintiff and defendant, he himself shall be the witness there",
+          "role": "witness"
+        },
+        {
+          "paragraph_id": "p-667cee",
+          "quote": "a settlement by the king's order is recommended for both parties",
+          "role": "settlement-authority"
+        },
+        {
+          "paragraph_id": "p-256c8a",
+          "quote": "In treason against the king and in violent crime, one should employ divine proof",
+          "role": "subject-of-treason"
+        },
+        {
+          "paragraph_id": "p-90762a",
+          "quote": "The king obtains victory, a gift, and a fine",
+          "role": "beneficiary-of-justice"
+        },
+        {
+          "paragraph_id": "p-c77410",
+          "quote": "the king should have a charter of dharma made on a copper plate or on cloth",
+          "role": "document-issuer"
+        },
+        {
+          "paragraph_id": "p-84501d",
+          "quote": "The king must carefully undertake the investigation of a doubtful matter",
+          "role": "investigator"
+        }
+      ],
+      "description": "The royal figure who serves as the apex of the judicial system — adjudicating disputes, acting as witness, issuing charters, and enforcing punishments.",
+      "justification": "The king is pervasively referenced across the entire window as the central human authority in the legal procedure described."
+    },
+    {
+      "canonical_name": "Brahmin",
+      "surface_names": ["Brahmin", "Brahmins", "Brahmin-slayer"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-4d88a9",
+          "quote": "nine, seven, or five, or four, or three, or two renowned Brahmins learned in the Veda",
+          "role": "preferred-witnesses"
+        },
+        {
+          "paragraph_id": "p-30aa91",
+          "quote": "For a Brahmin, branding on the forehead; no other punishment is prescribed. Even if guilty of a great sin, a Brahmin does not deserve death",
+          "role": "privileged-class"
+        },
+        {
+          "paragraph_id": "p-caa18c",
+          "quote": "A false assessor, a false witness, and a Brahmin-slayer are remembered as equal",
+          "role": "protected-category"
+        },
+        {
+          "paragraph_id": "p-56b49c",
+          "quote": "having deliberated with Brahmins, he should determine the fault of the speaker",
+          "role": "legal-consultant"
+        },
+        {
+          "paragraph_id": "p-b51d58",
+          "quote": "One may save a Brahmin who has erred once through carelessness, is in distress, or afflicted, or is being killed by soldiers and others, even by speaking untruths",
+          "role": "protected-figure"
+        }
+      ],
+      "description": "The priestly class accorded special legal privileges including immunity from capital punishment, preference as witnesses, and consultation in document disputes.",
+      "justification": "Brahmins are singled out across multiple verses for preferential legal treatment, witness qualification rules, and protection norms."
+    },
+    {
+      "canonical_name": "the Creator",
+      "surface_names": ["the Creator"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-579a7b",
+          "quote": "the Creator of old created letters, set down on a leaf",
+          "role": "originator-of-writing"
+        }
+      ],
+      "description": "The divine Creator credited with inventing the written letter as a remedy for human forgetfulness in commercial transactions.",
+      "justification": "The Creator is cited as the cosmological origin of the written document, grounding the legal institution of documentation in divine creation."
+    },
+    {
+      "canonical_name": "dharma",
+      "surface_names": ["dharma", "Dharma ordeal"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-6b549c",
+          "quote": "Where dharma is doubtful and the legal procedure rests with the king, a settlement should be made there",
+          "role": "contested-norm"
+        },
+        {
+          "paragraph_id": "p-977132",
+          "quote": "By an equitable settlement, the king obtains dharma, wealth, and fame",
+          "role": "reward-of-justice"
+        },
+        {
+          "paragraph_id": "p-ca9f71",
+          "quote": "what the heads of families, guilds, and corporations, who know dharma and are impartial, say, that should be done",
+          "role": "guiding-principle"
+        },
+        {
+          "paragraph_id": "p-389ca9",
+          "quote": "who is impartial to both parties and knows dharma, is declared to be a family witness",
+          "role": "qualification-for-witness"
+        },
+        {
+          "paragraph_id": "p-61974b",
+          "quote": "not in conflict with the sacred treatises and for the sake of dharma, is a compact",
+          "role": "legal-standard"
+        },
+        {
+          "paragraph_id": "p-5b0f44",
+          "quote": "thus dharma is not violated",
+          "role": "boundary-condition"
+        }
+      ],
+      "description": "The overarching moral-legal order that grounds and constrains all judicial procedures, settlements, and documentary practices in the treatise.",
+      "justification": "Dharma appears throughout as the normative standard against which legal actions are measured, making it a central conceptual entity."
+    },
+    {
+      "canonical_name": "Veda",
+      "surface_names": ["Veda", "Vedic"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-4d88a9",
+          "quote": "renowned Brahmins learned in the Veda",
+          "role": "qualification-criterion"
+        },
+        {
+          "paragraph_id": "p-ecb7df",
+          "quote": "Those engaged in rites prescribed by the Veda and Smṛti",
+          "role": "ritual-authority"
+        },
+        {
+          "paragraph_id": "p-bff346",
+          "quote": "a fellow student of the Veda",
+          "role": "social-identifier"
+        }
+      ],
+      "description": "The sacred scriptural corpus whose mastery qualifies Brahmins as witnesses and whose prescribed rites define persons of good character.",
+      "justification": "The Veda is cited as the primary scriptural authority qualifying witness eligibility and ritual propriety in legal contexts."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Judicial procedure and the fourfold lawsuit",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-8c8b23",
+          "quote": "Bṛhaspati says the case should be tried quickly, even at an improper time"
+        },
+        {
+          "paragraph_id": "p-e404f9",
+          "quote": "When the reply has been corrected, written down properly, and declared faultless, proof is then required from the defendant or the plaintiff"
+        },
+        {
+          "paragraph_id": "p-a28cda",
+          "quote": "The eighteen-fold dispute, distinguished by plaint and reply, has been explained"
+        }
+      ],
+      "justification": "The window systematically covers the mechanics of legal procedure — plaint, reply, proof, and decision — as the explicit subject matter of sections 1.3 through 1.10."
+    },
+    {
+      "topic": "Types of legal reply and their relative validity",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-beb87b",
+          "quote": "If an accused person makes a denial of the accusation, that is to be known in legal procedure as a reply of denial"
+        },
+        {
+          "paragraph_id": "p-01616c",
+          "quote": "If the defendant, having heard the accusation, admits to it, that is declared by those learned in the treatises to be a confession"
+        },
+        {
+          "paragraph_id": "p-47de57",
+          "quote": "A reply that is different from what was stated, irrelevant, deficient or excessive, inconsistent, devoid of substance, or ambiguous, should not be considered a valid reply"
+        }
+      ],
+      "justification": "Section 1.3.2 systematically enumerates denial, confession, special plea, and plea of former judgment as the four valid reply-types with detailed definitions."
+    },
+    {
+      "topic": "Settlement versus contested judgment",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-667cee",
+          "quote": "where there is an equality of evidence or a conflict between the sacred treatises and custom, a settlement by the king's order is recommended"
+        },
+        {
+          "paragraph_id": "p-977132",
+          "quote": "A settlement should then be made on equal terms; an unequal one is invalid"
+        },
+        {
+          "paragraph_id": "p-b45277",
+          "quote": "those who reach a settlement among themselves shall be made to pay a double fine"
+        }
+      ],
+      "justification": "Section 1.3.3 elaborates when settlement is preferable to full trial and regulates the conditions under which it is valid or penalized."
+    },
+    {
+      "topic": "Human versus divine proof and their hierarchy",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-794a7a",
+          "quote": "Proof is said to be of two kinds: human and divine"
+        },
+        {
+          "paragraph_id": "p-44a57a",
+          "quote": "Divine proof is not prescribed when witnesses are available; and when a document exists in disputes, there should be neither an ordeal nor witnesses"
+        },
+        {
+          "paragraph_id": "p-fc9858",
+          "quote": "In verbal assault and land disputes, divine proof is forbidden"
+        }
+      ],
+      "justification": "Section 1.4 elaborates a structured hierarchy of proof, subordinating ordeals (divine proof) to documents and witnesses whenever available."
+    },
+    {
+      "topic": "Witness qualification, disqualification, and categories",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5a2654",
+          "quote": "Thieves, violent men, eunuchs, gamblers, and informers — they are not witnesses due to their wickedness"
+        },
+        {
+          "paragraph_id": "p-0cc2ab",
+          "quote": "A subscribed witness, a recorded witness, a concealed witness, a reminded witness, a kinsman, a messenger, a chance witness, a secondary witness"
+        },
+        {
+          "paragraph_id": "p-9e20a1",
+          "quote": "Those addicted to another's wife or to drink, gamblers, those previously convicted, the insane, the afflicted, the violent, and atheists are not witnesses"
+        }
+      ],
+      "justification": "Section 1.5 provides an extensive classification of twelve witness types and numerous disqualifying characteristics, constituting a major legal taxonomy."
+    },
+    {
+      "topic": "False testimony and its moral consequences",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-45b640",
+          "quote": "Whatever merit you have acquired from your birth until your death, all that comes to ruin from bearing false witness"
+        },
+        {
+          "paragraph_id": "p-caa18c",
+          "quote": "A false assessor, a false witness, and a Brahmin-slayer are remembered as equal"
+        },
+        {
+          "paragraph_id": "p-376e57",
+          "quote": "There are men who, out of greed, would state a matter otherwise; and there are other wicked men who are forgers of documents"
+        }
+      ],
+      "justification": "The text frames false testimony in cosmic-soteriological terms — destroying accumulated merit and equating the perjurer with a Brahmin-slayer — indicating the moral gravity of witness integrity."
+    },
+    {
+      "topic": "Documentary evidence: types, validity, and forgery",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-579a7b",
+          "quote": "the Creator of old created letters, set down on a leaf"
+        },
+        {
+          "paragraph_id": "p-a9b952",
+          "quote": "A document made by one who is dying, defeated, deprived of his property, insane, distressed by calamity, or under the influence of poison, fraud, or force, does not succeed"
+        },
+        {
+          "paragraph_id": "p-c67c7e",
+          "quote": "Just as a reflection in a mirror, though unreal, appears as real, so skilled persons make copies of documents"
+        }
+      ],
+      "justification": "Section 1.6 extensively covers document taxonomy, validity conditions, forgery detection, and documentary probative force, forming a discrete doctrinal unit."
+    },
+    {
+      "topic": "Interest, usury, and debt recovery",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-66a5a1",
+          "quote": "The eightieth part should be the interest month by month when there is a pledge; otherwise, it is two, three, four, or five percent according to the order of the classes"
+        },
+        {
+          "paragraph_id": "p-7fec33",
+          "quote": "When a share above double is taken, and compound interest is charged, and when the principal with interest is full, that is condemned as usury"
+        },
+        {
+          "paragraph_id": "p-fe9588",
+          "quote": "Interest should always be taken up to the amount of the principal; an amount beyond that ceases"
+        }
+      ],
+      "justification": "Section 1.10 enumerates interest rates by asset class, defines usury, and specifies debt recovery procedures — a comprehensive treatment of credit law."
+    },
+    {
+      "topic": "Caste hierarchy as a structuring principle of law",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-66a5a1",
+          "quote": "it is two, three, four, or five percent according to the order of the classes"
+        },
+        {
+          "paragraph_id": "p-a77a7a",
+          "quote": "the case should be taken up in order of social class, or with regard to the grievance"
+        },
+        {
+          "paragraph_id": "p-30aa91",
+          "quote": "For a Brahmin, branding on the forehead; no other punishment is prescribed. Even if guilty of a great sin, a Brahmin does not deserve death"
+        }
+      ],
+      "justification": "Caste (varṇa) implicitly governs interest rates, trial order, witness eligibility, and punishment tariffs throughout the window, even when not named explicitly as the organizing principle."
+    },
+    {
+      "topic": "Royal justice as a soteriological activity",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-03a905",
+          "quote": "A king who thus carries out the enforcement of a decision as declared in the sacred treatises, spreads his fame here in the world and becomes like Indra"
+        },
+        {
+          "paragraph_id": "p-9ac573",
+          "quote": "A king who makes a decision in a case by means of witnesses, a document, and inference, spreads his fame here and obtains the world of the Sun"
+        },
+        {
+          "paragraph_id": "p-23c4e3",
+          "quote": "he, having obtained fame in this world, goes to the same world as Śakra"
+        }
+      ],
+      "justification": "The closing verses of section 1.9 reframe the king's judicial role as a religiously meritorious act with heavenly rewards, implicitly framing jurisprudence as dharmic service."
+    },
+    {
+      "topic": "Pledge and mortgage law",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a9ebc0",
+          "quote": "A pledge is called a mortgage; it is said to be of four kinds: movable and immovable, and likewise for custody and for use"
+        },
+        {
+          "paragraph_id": "p-8755da",
+          "quote": "He who enjoys a pledge out of greed, that shall not be a profit again. It should be protected like a deposit; if it is lost, the interest perishes"
+        },
+        {
+          "paragraph_id": "p-1aff11",
+          "quote": "the creditor becomes the owner of the pledge after waiting for two weeks"
+        }
+      ],
+      "justification": "Section 1.10.6 provides a distinct taxonomy of pledge types and rules for forfeiture, enjoyment, and redemption, constituting a discrete doctrinal unit on secured credit."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Smṛti of Manu (Manusmṛti)",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-c85f89",
+      "quote": "Manu has called this an affirmative defense",
+      "justification": "Manu is named as the prior legal authority who gave the specific designation 'affirmative defense' to this reply-type, placing the Manusmṛti as a foundational reference work for this text."
+    },
+    {
+      "cited_work": "Smṛti of Vasiṣṭha (Vasiṣṭhadharmasūtra or related text)",
+      "cited_author": "Vasiṣṭha",
+      "stance": "authority",
+      "paragraph_id": "p-5b0f44",
+      "quote": "Hear the interest on a usurious loan, as stated in the words of Vasiṣṭha: five māṣas on twenty",
+      "justification": "Vasiṣṭha's ruling on a specific usurious interest rate is quoted verbatim as an authoritative prior source, indicating direct textual citation."
+    },
+    {
+      "cited_work": "Smṛti or sūtra of Kātyāyana",
+      "cited_author": "Kātyāyana",
+      "stance": "authority",
+      "paragraph_id": "p-3c8fd3",
+      "quote": "what is written with particulars is stronger, thus Kātyāyana has said",
+      "justification": "Kātyāyana is explicitly credited with the rule on evidentiary particularity in documents, indicating citation of another dharmaśāstra authority."
+    },
+    {
+      "cited_work": "Smṛti or sūtra of Bhṛgu",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-62153b",
+      "quote": "the document is flawed, says Bhṛgu",
+      "justification": "Bhṛgu is named as the authority for the rule on displaced letters invalidating documents, indicating a direct textual citation from another legal tradition."
+    },
+    {
+      "cited_work": "Smṛtis of Manu and others (Manusmṛti)",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-b4e488",
+      "quote": "called a document of convention by those who know the Smṛtis of Manu and others",
+      "justification": "The Manusmṛti (and other unnamed Smṛtis) is invoked as the authoritative source for the terminology of a 'document of convention', confirming ongoing reliance on Manu's legal corpus."
+    }
+  ]
+}
