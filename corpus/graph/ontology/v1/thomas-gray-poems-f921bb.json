@@ -1,0 +1,228 @@
+{
+  "work_slug": "thomas-gray-poems-f921bb",
+  "extracted_at": "2026-06-29T00:00:00Z",
+  "ontology_version": "v1",
+  "window_chapters": [
+    "08-an-elegy-written-in-a-country-church-yard",
+    "22-elegy-written-in-a-country-churchyard",
+    "39-ode-on-a-distant-prospect-of-eton-college",
+    "05-an-ode-on-a-distant-prospect-of-eton-college",
+    "42-ode-on-the-spring",
+    "43-ode-to-adversity",
+    "46-the-progress-of-poesy-a-pindaric-ode",
+    "09-hymn-to-adversity"
+  ],
+  "note": "ECPA verse-only work: no translation.paragraphs.json. Paragraph IDs are synthetic, constructed as <chapter_slug>:stanza-<N>. Quote values are verbatim from the original.md text. Grounding guard: all paragraph_ids encode the chapter and stanza position so they are verifiable against source.",
+  "entities": [
+    {
+      "canonical_name": "Adversity (personified)",
+      "surface_names": ["Adversity", "Daughter of Jove"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "09-hymn-to-adversity:stanza-1",
+          "quote": "Daughter of Jove, relentless Power, / Thou Tamer of the human breast",
+          "role": "personified deity addressed in the hymn's opening invocation"
+        },
+        {
+          "paragraph_id": "09-hymn-to-adversity:stanza-3",
+          "quote": "Wisdom in sable garb array'd, / Immer's'd in rapt'rous thought profound",
+          "role": "Adversity's attendant Wisdom, personified as a sable figure"
+        }
+      ],
+      "description": "Adversity is addressed as a divine feminine figure, daughter of Jove, who tames human pride and teaches wisdom — a fully personified allegorical deity with divine lineage and moral authority.",
+      "justification": "Adversity is given divine parentage ('Daughter of Jove'), a direct address ('Thou'), and a suite of personified attendants. This is not metaphor-as-idea but a quasi-divine figure in the mode of classical personification poetry. Kind=figure/mythological because she is treated as a named supernatural being with agency, not merely an abstract concept."
+    },
+    {
+      "canonical_name": "Milton",
+      "surface_names": ["Milton", "mute inglorious Milton"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-15",
+          "quote": "Some mute inglorious Milton here may rest",
+          "role": "type-figure for unrealized poetic genius buried in obscurity"
+        }
+      ],
+      "description": "John Milton is invoked as the archetype of supreme poetic achievement — the village dead might have contained a 'mute inglorious Milton', a genius silenced by poverty and obscurity rather than celebrated.",
+      "justification": "Milton is named as a specific historical figure used as a cultural touchstone for the highest poetic greatness. His mention grounds the poem's central argument about squandered human potential. Kind=figure/historical."
+    },
+    {
+      "canonical_name": "Hampden",
+      "surface_names": ["Hampden", "village-Hampden"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-15",
+          "quote": "Some village-Hampden, that with dauntless breast, / The little Tyrant of his fields withstood",
+          "role": "type-figure for civic courage against petty tyranny"
+        }
+      ],
+      "description": "John Hampden (1595–1643), the parliamentarian who resisted Charles I's ship-money tax, invoked as the archetype of civic courage; the 'village-Hampden' is a hypothetical rural version of this heroic defiance.",
+      "justification": "Hampden is a specific named historical figure invoked as the archetype of political courage. His presence in the poem links the obscure rural dead to the grand tradition of English liberty. Kind=figure/historical."
+    },
+    {
+      "canonical_name": "Cromwell",
+      "surface_names": ["Cromwell"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-15",
+          "quote": "Some Cromwell guiltless of his country's blood",
+          "role": "type-figure for transformative political power, here imagined innocent"
+        }
+      ],
+      "description": "Oliver Cromwell invoked as the archetype of revolutionary power that reshapes a nation — the 'guiltless' qualifier is a sharp ironic edge: a Cromwell who never rose to shed blood, remained a simple ploughman.",
+      "justification": "Cromwell is a specific named historical figure with a charged political resonance: the poem imagines the village dead as potential Cromwells who never had the opportunity (or occasion) for violence. Kind=figure/historical."
+    },
+    {
+      "canonical_name": "Melancholy",
+      "surface_names": ["Melancholy"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:epitaph",
+          "quote": "And Melancholy mark'd him for her own",
+          "role": "personified force that claims the poet-figure in the Epitaph"
+        }
+      ],
+      "description": "Melancholy appears in the Epitaph as a personified force ('she mark'd him'), indicating the Gray-surrogate's inner character — a 18th-century convention of treating the humour/disposition as a quasi-divine claiming power.",
+      "justification": "Melancholy is grammatically personified and given agency ('mark'd him for her own') — she acts on the figure. Kind=figure/mythological in the 18th-century allegorical mode (cf. Collins' Ode to Fear, personified virtues and humours)."
+    },
+    {
+      "canonical_name": "The Rural Churchyard",
+      "surface_names": ["the churchyard", "the hamlet", "the country church yard"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-4",
+          "quote": "Beneath those rugged elms, that yew-tree's shade, / Where heaves the turf in many a mould'ring heap",
+          "role": "the physical setting where the rural dead rest"
+        },
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-24",
+          "quote": "Here rests his head upon the lap of Earth",
+          "role": "the Epitaph's grave — the churchyard as final resting place"
+        }
+      ],
+      "description": "The country churchyard is not merely a setting but the poem's central symbol: a democratizing space where the anonymous poor and the potentially great are equal in death, unremembered by history.",
+      "justification": "The churchyard is a named place that also functions as a symbolic space (the idea of an egalitarian final resting ground). Kind=place because it is a concrete geographic location, but its significance as the poem's central symbol should be noted."
+    },
+    {
+      "canonical_name": "Eton College",
+      "surface_names": ["Eton", "Eton College", "Windsor's towers"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "05-an-ode-on-a-distant-prospect-of-eton-college:stanza-1",
+          "quote": "Ye distant spires, ye antique towers, / That crown the wat'ry glade",
+          "role": "the distant school observed from a hill by the speaker"
+        }
+      ],
+      "description": "Eton College, Gray's own school, observed from afar in the Ode; it embodies the lost innocence of childhood and the painful knowledge that adulthood brings — the poem's central irony is that ignorance (enjoyed by the schoolboys) is a kind of happiness.",
+      "justification": "Eton is a specific named institutional place. Kind=place."
+    },
+    {
+      "canonical_name": "Ambition",
+      "surface_names": ["Ambition", "Grandeur"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-9",
+          "quote": "Let not Ambition mock their useful toil, / Their homely joys, and destiny obscure",
+          "role": "the abstract force of social striving addressed and rebuked"
+        },
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-9",
+          "quote": "Nor Grandeur hear with a disdainful smile, / The short and simple annals of the poor",
+          "role": "Grandeur as a complementary vice to Ambition, both personified and addressed"
+        }
+      ],
+      "description": "Ambition and Grandeur are the forces that the poem explicitly rebukes — they mock the peasant's 'useful toil' and 'destiny obscure'. The poem's ethical stance is formed by their refusal to respect the poor.",
+      "justification": "Ambition and Grandeur are semi-personified abstract concepts that the poem directly addresses and morally interrogates. Kind=idea (they are abstract moral concepts, not worshipped allegorical figures as Adversity is)."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Mortality as the great equalizer",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-10",
+          "quote": "The paths of glory lead but to the grave"
+        },
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-10",
+          "quote": "The boast of heraldry, the pomp of pow'r, / And all that beauty, all that wealth e'er gave, / Await alike th' inevitable hour"
+        }
+      ],
+      "justification": "The Elegy's most explicit philosophical claim: rank, beauty, power, and wealth are all cancelled by death. This is directly stated ('The paths of glory lead but to the grave') and structures the entire poem. The word 'mortality' does not appear, but the concept is the poem's explicit subject."
+    },
+    {
+      "topic": "Obscurity, poverty, and unrealized potential",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-14",
+          "quote": "Full many a gem of purest ray serene, / The dark unfathom'd caves of ocean bear; / Full many a flower is born to blush unseen, / And waste its sweetness on the desart air"
+        },
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-13",
+          "quote": "Chill Penury repress'd their noble rage, / And froze the genial current of the soul"
+        }
+      ],
+      "justification": "The central poetic argument: that poverty and obscurity suppress greatness — there may have been Miltons and Cromwells among the village dead, their gifts 'wasted unseen'. This is the poem's social-philosophical claim, explicitly stated through the gem/flower similes."
+    },
+    {
+      "topic": "Transience and the desire to be remembered",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-22",
+          "quote": "For who to dumb Forgetfulness a prey, / This pleasing anxious being e'er resign'd, / Left the warm precincts of the chearful day, / Nor cast one longing ling'ring look behind?"
+        },
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-20",
+          "quote": "Yet ev'n these bones from insult to protect / Some frail memorial still erected nigh, / With uncouth rhimes and shapeless sculpture deck'd, / Implores the passing tribute of a sigh"
+        }
+      ],
+      "justification": "The poem meditates on the universal human need for posthumous recognition, even among the rural poor who can only afford crude epitaphs. The 'frail memorial' stanzas develop a philosophy of memory as a fundamental human desire — explicitly treated as such, not implicit."
+    },
+    {
+      "topic": "Melancholy as philosophical disposition",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-1",
+          "quote": "The curfew tolls the knell of parting day, / The lowing herd wind slowly o'er the lea, / The plowman homewards plods his weary way, / And leaves the world to darkness and to me"
+        },
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:epitaph",
+          "quote": "And Melancholy mark'd him for her own"
+        }
+      ],
+      "justification": "The poem is saturated with the elegiac-melancholic mode — the falling light, the 'solitary' speaker, the meditation on death — without ever using the word 'melancholy' until the Epitaph, where it is personified. The poem enacts a melancholic philosophical stance: the world is beautiful but shadowed by death, knowledge comes at the cost of happiness (cf. Ode on Eton College), and solitude is the condition of philosophical perception. The entire Graveyard School tradition of which this is the founding text treats melancholy as an epistemologically privileged state — one sees truly only in contemplative solitude and proximity to death. This is the poem's deepest implicit claim."
+    },
+    {
+      "topic": "Ignorance as happiness (epistemological irony)",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "05-an-ode-on-a-distant-prospect-of-eton-college:stanza-10",
+          "quote": "No more; where ignorance is bliss, / 'Tis folly to be wise"
+        },
+        {
+          "paragraph_id": "08-an-elegy-written-in-a-country-church-yard:stanza-19",
+          "quote": "Their lot forbad: nor circumscrib'd alone / Their growing virtues, but their crimes confin'd"
+        }
+      ],
+      "justification": "The Eton College Ode (a companion piece in this collection) makes explicit what the Elegy implies: that the schoolchildren's ignorance of coming suffering is itself a kind of happiness ('where ignorance is bliss, / 'Tis folly to be wise'). The Elegy's argument that the village poor were spared great crimes as well as great fame — 'their crimes confin'd' — is the same logic in a more subdued register: obscurity is a protection. This is a philosophical position (anti-enlightenment in the sense of valuing innocent non-knowing) that appears implicitly in the Elegy and explicitly in the Ode, read together."
+    }
+  ],
+  "citations": []
+}

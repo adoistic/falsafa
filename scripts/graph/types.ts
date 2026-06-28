@@ -64,10 +64,10 @@ export interface Manifest {
 
 export type FigureKind = "mythological" | "deity" | "historical";
 
-// --- entity layer (full 7-category taxonomy) ---
+// --- entity layer (full 8-category taxonomy) ---
 
 /**
- * Seven-category entity taxonomy.
+ * Eight-category entity taxonomy.
  *
  * figure  — persons/deities/heroes INCLUDING theriomorphic ones (Hanumān, Garuḍa, nāga-kings).
  *           Test = personhood/agency/divinity, NOT body.
@@ -79,8 +79,12 @@ export type FigureKind = "mythological" | "deity" | "historical";
  * idea    — dharma, ṛta, karma, mokṣa, liberty, virtue, fate, kāla.
  * object  — vajra, soma, great bows/weapons, mantras (Gāyatrī), ritual implements.
  * event   — Vṛtra-slaying, churning of the ocean, the great wars, sacrifices (Aśvamedha).
+ * theme   — what the passage/work is ABOUT, including IMPLICIT/unnamed philosophical concerns.
+ *           A poem about mortality (though the word never appears), a treatise about justice,
+ *           a hymn about divine sovereignty. MUST be grounded by an evidencing quote.
+ *           May be implicit but must carry justification explaining why this reading holds.
  */
-export type EntityKind = "figure" | "animal" | "place" | "group" | "idea" | "object" | "event";
+export type EntityKind = "figure" | "animal" | "place" | "group" | "idea" | "object" | "event" | "theme";
 
 export interface EntityRaw {
   work_slug: string;
@@ -154,4 +158,74 @@ export interface FoundingTextEntry {
   figure_count: number;           // distinct figures pointing at this text
   figures: string[];
   recurrence: number;             // summed mentions of those figures (rank tiebreak)
+}
+
+// ---------------------------------------------------------------------------
+// Ontology layer — combined per-work output (entities + themes + citations)
+// Output path: corpus/graph/ontology/v1/<slug>.json
+// ---------------------------------------------------------------------------
+
+/**
+ * A single entity extracted under the 8-category taxonomy (including "theme").
+ * Every field that touches a passage must carry a grounding paragraph_id + quote.
+ * The mandatory `justification` explains why this category was chosen and why
+ * the classification holds (for theme: why the implicit reading is warranted).
+ */
+export interface OntologyEntityRaw {
+  canonical_name: string;
+  surface_names: string[];
+  kind: EntityKind;
+  /** Only when kind="figure" */
+  figure_kind?: FigureKind;
+  mentions: {
+    paragraph_id: string;   // must be a real p-id from the source window
+    quote: string;          // verbatim snippet from that paragraph
+    role: string;           // one-phrase description of how entity appears here
+  }[];
+  description: string;
+  /** Why this kind was chosen; for theme: why the implicit reading is warranted. */
+  justification: string;
+  /** Only when kind="figure": other canonical works that originate/define this figure. */
+  founding_texts?: string[];
+}
+
+/**
+ * A philosophical/thematic concern that the work/passage is ABOUT,
+ * including implicit ones (e.g. mortality in a graveyard poem, even if the word
+ * never appears). Must be grounded by at least one evidencing quote.
+ */
+export interface OntologyTheme {
+  topic: string;            // short label, e.g. "mortality", "social hierarchy", "divine sovereignty"
+  implicit: boolean;        // true = the word/concept is not named; false = explicitly foregrounded
+  mentions: {
+    paragraph_id: string;   // real p-id
+    quote: string;          // verbatim evidence
+  }[];
+  /** Why this thematic reading holds; what in the text licenses it. */
+  justification: string;
+}
+
+/**
+ * A citation: the text invokes another work or author as source/authority.
+ * Stance taxonomy matches the citation-graph layer for cross-layer consistency.
+ */
+export interface OntologyCitation {
+  cited_work: string;       // title as written, or ""
+  cited_author: string;     // author as written, or ""
+  stance: ReferenceStance;
+  quote: string;            // verbatim snippet containing the citation
+  paragraph_id: string;     // real p-id
+  /** Why this is a genuine citation (not a bare mention) and why the stance was assigned. */
+  justification: string;
+}
+
+/** The combined per-work ontology output written to corpus/graph/ontology/v1/<slug>.json */
+export interface OntologyWork {
+  work_slug: string;
+  extracted_at: string;           // ISO timestamp
+  ontology_version: "v1";
+  window_chapters: string[];      // chapter dirs included in this extraction window
+  entities: OntologyEntityRaw[];
+  themes: OntologyTheme[];
+  citations: OntologyCitation[];
 }

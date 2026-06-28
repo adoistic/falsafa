@@ -1,0 +1,258 @@
+{
+  "work_slug": "plato-republic-2bf014",
+  "extracted_at": "2026-06-29T00:00:00Z",
+  "ontology_version": "v1",
+  "window_chapters": ["01"],
+  "entities": [
+    {
+      "canonical_name": "Socrates",
+      "surface_names": ["Socrates", "I"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-f05775",
+          "quote": "I went down yesterday to the Peiraeus with Glaucon, the son of Ariston, to pay my devotions to the Goddess",
+          "role": "first-person narrator and philosophical protagonist"
+        },
+        {
+          "paragraph_id": "p-e5da46",
+          "quote": "how, I said, my dear fellow, could anybody answer if in the first place he did not know and did not even profess to know",
+          "role": "questioner pressing Thrasymachus on the definition of justice"
+        },
+        {
+          "paragraph_id": "p-9cf431",
+          "quote": "That was why, friend Thrasymachus, I was just now saying that no one of his own will chooses to hold rule and office",
+          "role": "Socrates arguing no rational person wants to govern"
+        }
+      ],
+      "description": "The philosophic narrator and primary interlocutor who drives the entire dialogue about justice, aging, and the nature of rule; depicted as simultaneously ironic, relentless in questioning, and personally pious.",
+      "justification": "Socrates is a named historical individual with personal agency who drives the dialogue. Kind=figure/historical because he is a real Athenian philosopher (469–399 BCE), though represented as a literary character here.",
+      "founding_texts": ["Plato, Apology", "Plato, Symposium", "Xenophon, Memorabilia"]
+    },
+    {
+      "canonical_name": "Thrasymachus",
+      "surface_names": ["Thrasymachus"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-5f5e4a",
+          "quote": "Thrasymachus, instead of replying, said — Do you wish to appear to have refuted me, Socrates, or do you really wish to know the truth?",
+          "role": "aggressive sophist who proposes that justice is the advantage of the stronger"
+        },
+        {
+          "paragraph_id": "p-00dec3",
+          "quote": "the identical principle of justice that obtains in all states — the advantage of the established government",
+          "role": "Thrasymachus stating his central thesis"
+        },
+        {
+          "paragraph_id": "p-2cbbcb",
+          "quote": "the man who has the ability to overreach on a large scale. Consider this type of man, then, if you wish to judge how much more profitable injustice is than justice",
+          "role": "Thrasymachus defending injustice as more profitable than justice"
+        }
+      ],
+      "description": "A sophist who aggressively asserts that justice is merely the advantage of the stronger/ruling party and that injustice (when thorough) is more profitable than justice; his challenge to Socrates motivates the entire Republic's investigation.",
+      "justification": "Thrasymachus is a named historical sophist (5th-century Chalcedon) with a specific philosophical position that the text explicitly engages and refutes. Kind=figure/historical.",
+      "founding_texts": []
+    },
+    {
+      "canonical_name": "Cephalus",
+      "surface_names": ["Cephalus"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-d93c18",
+          "quote": "Yes, indeed, Socrates, he said, I will tell you my own feeling about it. For it often happens that some of us elders of about the same age come together",
+          "role": "elderly Athenian metic who reflects on old age and freedom from passion"
+        },
+        {
+          "paragraph_id": "p-aa4d45",
+          "quote": "he to whom the ledger of his life shows an account of many evil deeds starts up even from his dreams like children again and again in affright",
+          "role": "Cephalus on the fear of death and moral guilt"
+        }
+      ],
+      "description": "The elderly, wealthy Athenian host whose reflections on old age and the relief from passionate desires introduce the dialogue's central question: what is justice, and does the just man die well?",
+      "justification": "Cephalus is a named historical individual (Athenian metic, father of Polemarchus). Kind=figure/historical.",
+      "founding_texts": []
+    },
+    {
+      "canonical_name": "Polemarchus",
+      "surface_names": ["Polemarchus"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-1af82b",
+          "quote": "Polemarchus, the son of Cephalus, caught sight of us from a distance as we were hastening homeward and ordered his boy to run and tell us to wait",
+          "role": "son of Cephalus who detains Socrates and inherits the dialogue from his father"
+        },
+        {
+          "paragraph_id": "p-99e358",
+          "quote": "I must admit, said I, that it is not easy to disbelieve Simonides. For he is a wise and inspired man. But just what he may mean by this you, Polemarchus, doubtless know",
+          "role": "interrogated by Socrates on what Simonides meant by justice"
+        }
+      ],
+      "description": "Son of Cephalus who inherits the Simonides position on justice ('giving every man his due'); Socrates progressively dismantles his definition, driving the dialogue toward Thrasymachus.",
+      "justification": "Polemarchus is a named historical individual. Kind=figure/historical.",
+      "founding_texts": []
+    },
+    {
+      "canonical_name": "Glaucon",
+      "surface_names": ["Glaucon"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-f05775",
+          "quote": "I went down yesterday to the Peiraeus with Glaucon, the son of Ariston",
+          "role": "Socrates' companion and interlocutor in the opening scene"
+        },
+        {
+          "paragraph_id": "p-85dca7",
+          "quote": "Did you hear, said I, all the goods that Thrasymachus just now enumerated for the life of the unjust man? I heard, he said, but I am not convinced",
+          "role": "skeptic of Thrasymachus who will later demand a fuller defense of justice"
+        }
+      ],
+      "description": "Plato's older brother, one of Socrates' primary companions in the dialogue; at this stage he follows along, but will in Book II challenge Socrates to prove justice is intrinsically good.",
+      "justification": "Glaucon is a named historical individual (Plato's brother, 5th–4th century BCE). Kind=figure/historical.",
+      "founding_texts": []
+    },
+    {
+      "canonical_name": "Justice (dikaiosynē)",
+      "surface_names": ["justice", "dikaiosynē", "the just", "just man"],
+      "kind": "idea",
+      "mentions": [
+        {
+          "paragraph_id": "p-b51d68",
+          "quote": "That the man who both seems and is good is the friend",
+          "role": "Polemarchus' evolving definition of justice in terms of genuine vs. apparent goodness"
+        },
+        {
+          "paragraph_id": "p-00dec3",
+          "quote": "the identical principle of justice that obtains in all states — the advantage of the established government",
+          "role": "Thrasymachus' reductive definition of justice as power-serving convention"
+        },
+        {
+          "paragraph_id": "p-b961db",
+          "quote": "the just is happy and the unjust miserable",
+          "role": "Socrates' concluding counter-claim against Thrasymachus"
+        }
+      ],
+      "description": "The central contested concept of the entire Republic; in Book I it passes through three definitions (Cephalus: paying debts; Polemarchus: helping friends and harming enemies; Thrasymachus: the advantage of the stronger) before all are refuted.",
+      "justification": "Justice is the explicit philosophical subject of the entire chapter — it is the very question around which all the dialogue turns. Kind=idea because it is an abstract normative concept."
+    },
+    {
+      "canonical_name": "Peiraeus",
+      "surface_names": ["the Peiraeus", "Piraeus"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-f05775",
+          "quote": "I went down yesterday to the Peiraeus with Glaucon, the son of Ariston, to pay my devotions to the Goddess",
+          "role": "the Athenian port-city where the dialogue takes place"
+        }
+      ],
+      "description": "The port of Athens, setting for the dialogue's opening scene; Socrates attends a religious festival for the Goddess (Bendis) there, and the entire Republic unfolds in the house of Cephalus in the Peiraeus.",
+      "justification": "The Peiraeus is a specific named geographic location that also functions as a social marker — a port district, home of metics, associated with foreign cults and commerce. Kind=place."
+    },
+    {
+      "canonical_name": "Simonides",
+      "surface_names": ["Simonides"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-99e358",
+          "quote": "I must admit, said I, that it is not easy to disbelieve Simonides. For he is a wise and inspired man",
+          "role": "cited as the author of the maxim that justice is 'giving every man his due'"
+        }
+      ],
+      "description": "The lyric poet (c. 556–468 BCE) invoked as an authority for the definition of justice as 'giving to each what is owed'; Socrates treats him respectfully before unpicking the maxim.",
+      "justification": "Simonides is invoked as a named authority (a wise and inspired man) whose saying becomes the basis for philosophical analysis — a genuine citation, not a mere mention. However, per the extraction rules, we classify him as figure (not a citation node) because the text cites his idea indirectly, not a specific named work. If the name appeared with a specific text (e.g., 'in the Epinikia') it would also generate a citation. Kind=figure/historical.",
+      "founding_texts": []
+    },
+    {
+      "canonical_name": "Periander",
+      "surface_names": ["Periander"],
+      "kind": "figure",
+      "figure_kind": "historical",
+      "mentions": [
+        {
+          "paragraph_id": "p-4c7b20",
+          "quote": "I think it was the saying of Periander, or Perdiccas, or Xerxes, or Ismenias the Theban, or some other rich and mighty man",
+          "role": "cited as possible author of the maxim 'benefit friends and harm enemies'"
+        }
+      ],
+      "description": "Tyrant of Corinth (c. 627–585 BCE), mentioned as a possible source of the 'harm your enemies' maxim — Socrates' attribution is deliberately uncertain, suggesting the maxim belongs to the powerful rather than the wise.",
+      "justification": "Periander is named as a specific historical person and is the start of a list of possible authority-figures for a contested maxim. Kind=figure/historical.",
+      "founding_texts": []
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Can justice be defined through power relations?",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-00dec3",
+          "quote": "the identical principle of justice that obtains in all states — the advantage of the established government"
+        },
+        {
+          "paragraph_id": "p-e7579b",
+          "quote": "the ruler in so far forth as he is a ruler does not seek his own advantage but that of the one he rules"
+        }
+      ],
+      "justification": "Thrasymachus' thesis that justice is the advantage of the stronger is the dominant philosophical challenge of Book I. The entire second half of the chapter is structured around dismantling it. The theme is explicit."
+    },
+    {
+      "topic": "Aging, death, and the examined conscience",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d93c18",
+          "quote": "For it often happens that some of us elders of about the same age come together and verify the old saw of like to like"
+        },
+        {
+          "paragraph_id": "p-aa4d45",
+          "quote": "he to whom the ledger of his life shows an account of many evil deeds starts up even from his dreams like children again and again in affright"
+        }
+      ],
+      "justification": "Cephalus' opening reflections on old age are not incidental: they establish that the question of justice is existential, not just academic. The fear of divine punishment after death makes justice a matter of personal urgency. This connects to the Republic's eventual argument that the just man is the truly happy man."
+    },
+    {
+      "topic": "The paradox of expertise and rule",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-d3a701",
+          "quote": "no one chooses of his own will to hold the office of rule, but they demand pay, which implies that not to the rulers themselves but to those ruled is the benefit"
+        },
+        {
+          "paragraph_id": "p-6e70d7",
+          "quote": "Is the medical art itself defective or faulty, or has any other art any need of some virtue, quality, or excellence—as the eyes of vision"
+        }
+      ],
+      "justification": "Although never named as such, the chapter repeatedly returns to the craft analogy: a physician serves patients, a shepherd serves sheep, a ruler serves the ruled. This implicit argument — that expertise is always in the service of another, never self-serving — is the structural counter to Thrasymachus and anticipates the Philosopher-King argument in later books. The 'craft as selfless service' theme is not stated as a proposition but enacted through the series of analogies."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "",
+      "cited_author": "Simonides",
+      "stance": "authority",
+      "quote": "I must admit, said I, that it is not easy to disbelieve Simonides. For he is a wise and inspired man",
+      "paragraph_id": "p-99e358",
+      "justification": "Simonides is explicitly invoked as a wise authority whose saying ('give every man his due') provides the positive definition of justice that Socrates then interrogates. This is a genuine citation — the text defers to an author as a source of wisdom before unpicking the maxim. Stance=authority because Socrates grants his credentials before questioning the content."
+    },
+    {
+      "cited_work": "",
+      "cited_author": "Themistocles",
+      "stance": "authority",
+      "quote": "the retort of Themistocles comes in pat here, who, when a man from Seriphus said that he owed his fame not to himself but to his city, replied",
+      "paragraph_id": "p-eb34a0",
+      "justification": "Themistocles is cited as an authority — his famous retort ('I would not have been famous in Seriphus, nor you in Athens') is invoked to make a point about innate ability versus circumstance. This is a citation to a historical authority's saying, not a bare mention. Stance=authority."
+    }
+  ]
+}
