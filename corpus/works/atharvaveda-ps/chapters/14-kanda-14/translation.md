@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 2555
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **14.1.1**  Indra, knowing, carried the divine waters with both arms for Varuṇa; all the Ādityas consecrated him, that fierce king, for the great battle. May those waters, the rājasūya waters, be favorable to us.
 

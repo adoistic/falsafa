@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 25177
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **19.1.1**  Sing at evening, sing the great hymn, sing it brilliantly, O Atharvan. Praise the god Savitṛ.
 

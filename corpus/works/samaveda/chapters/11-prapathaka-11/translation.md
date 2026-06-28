@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 2945
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **11.1**  O Agni, with all fires, this sacrifice, this word — grant us delight by your might, O mighty one. O pressers, hasten to the inebriating soma, each one praiseworthy. The soma for the hero, for the warrior. Agni, with his ancient birth, adorning his own body, has grown great among the inspired seers.
 

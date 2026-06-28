@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 2295
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **9.1**  Flow forth, O rain-giver; bring us the wave of the waters from heaven. May the abundant nourishments be free of disease.
 

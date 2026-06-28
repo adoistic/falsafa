@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 26686
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **7.1.1**  Men generate the praiseworthy Agni by the friction of two fire-sticks, letting them fall from their hands — him who is visible from afar, the householder, the Atharvan.

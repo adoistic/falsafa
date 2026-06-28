@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 2453
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **12.1**  The streams of this mighty pressed soma flow with force, adorning the gods. O Agni, your fame and vigor are great; your flames blaze forth, O Vibhavasu. O Far-shining One, by your might you bestow the prize-hymn upon the worshipper, O sage. Swift, whetted, terrible as a bull, striking blow on blow, shaking all peoples — the roaring, unwinking, sole hero Indra conquered a hundred armies at once.
 

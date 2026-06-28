@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 2521
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **10.1**  Sing forth to the lord of cattle, the mountain-king Indra, as is fitting. Praise the guardian of truth, the true lord. Who among men is your kinsman, O Agni? Who has offered the sacrifice? On whom do you truly depend? The Āyus have praised you, O Indra, before all with their hymns, the first drinkers; the Ṛbhus, assembled in harmony, together praised the ancient Rudras.
 

@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 5660
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **7.1.1**  The eagle found you out; the boar dug you up with his snout. O herb that harms the harmer — you who would harm us — burn back the maker of the sorcery.
 

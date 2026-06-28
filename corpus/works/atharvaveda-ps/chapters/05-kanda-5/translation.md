@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 11434
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **5.1.1**  Homage to the tawny-armed one, the fierce one born in the Sindhu — whoever pays homage to her, he departs away from this man's house.
 

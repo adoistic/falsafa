@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 2624
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **6.1**  Come near to the one just born, swift-moving, purified with the cows' milk; the gods have eagerly approached the drop of Soma.
 

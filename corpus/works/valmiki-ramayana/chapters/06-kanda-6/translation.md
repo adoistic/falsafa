@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 105716
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **6.1.1**  Having heard Hanumān's words spoken exactly as they were, Rāma, filled with joy, replied with the following words.
 

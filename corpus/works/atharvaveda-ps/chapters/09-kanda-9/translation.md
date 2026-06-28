@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 9609
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **9.1.1**  Upward rise his kindling-sticks, upward blaze the bright flames of Agni; most resplendent is the son of the fair-visaged one — Tanūnapāt, the Asura, the All-knowing.
 

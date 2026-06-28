@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 49018
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **4.1.1**  Having reached that lotus-pond teeming with blue lotuses and fish, Rāma, accompanied by Saumitri, lamented with distraught senses.

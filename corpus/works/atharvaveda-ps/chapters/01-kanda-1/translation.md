@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 14532
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **1.1.1**  May the divine Waters be auspicious to us for our succour, auspicious for us to drink; may they flow about us bringing well-being and ease.
 

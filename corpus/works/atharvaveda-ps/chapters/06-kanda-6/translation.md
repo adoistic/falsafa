@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 6385
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **6.1.1**  That was the foremost among the worlds from which was born the Fierce One, blazing with virile might; born forthwith, he shatters enemies; all the helpers exult after him.
 

@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 13769
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **2.1.1**  Powerless is the poison from the east, powerless what comes from the north; and this here from below is dissolved by the grain-gruel karamba.
 

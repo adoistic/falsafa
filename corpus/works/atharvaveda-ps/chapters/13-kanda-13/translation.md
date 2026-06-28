@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 1991
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **13.1.1**  Concealed for me is the vast mid-air; concealed for me are the mountains and the fires. Let not this sorcery of theirs succeed — I strike them back with the pratisara amulet.
 

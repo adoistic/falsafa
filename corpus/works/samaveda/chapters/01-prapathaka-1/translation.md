@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 2541
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **1.1**  O Agni, come hither for our enjoyment, praised as you are, for the giving of oblations. Sit down, O priest, upon the sacred grass; you, O Agni, are the invoking priest of all sacrifices, placed here for the good.
 

@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 2988
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **4.1**  These soma draughts mixed with curds have been pressed out for Indra. Come to them, O thunderbolt-bearing one, for exhilaration and drinking — come home with your two bay horses.
 

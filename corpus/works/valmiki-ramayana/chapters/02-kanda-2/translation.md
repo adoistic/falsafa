@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 79514
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **2.1.1**  Now, after some time had passed, king Daśaratha, that joy of the Raghu line, spoke to his son Bharata, the son of Kaikeyī.

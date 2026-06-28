@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 4783
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **11.1.1**  I, the potent one, place an embryo in your womb for one who craves a bull-like male offspring; if, sustained by the gods, you do not obtain progeny nor a child.
 

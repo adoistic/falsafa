@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 28158
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **9.1.1**  Flow, O Soma, with thy sweetest, most exhilarating stream; thou art pressed out for Indra to drink.

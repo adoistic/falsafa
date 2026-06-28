@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 19640
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **3.1.1**  O Agni, Soma's mighty one, you bear me — you have been made the conveyor at the sacrifice for worship. Shining toward the gods you harness the pressing-stone; for peace, O Agni, be pleased with your own body.

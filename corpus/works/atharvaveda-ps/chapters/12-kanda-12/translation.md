@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 6138
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **12.1.1**  May Agni drive the fever away from here; may Soma, the pressing-stones, and the Maruts of pure might — may the vedi, the barhis, and the blazing kindling-sticks blow the demons away by that same power.
 

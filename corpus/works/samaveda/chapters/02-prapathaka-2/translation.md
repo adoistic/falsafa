@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 1983
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **2.1**  I, ever-giving, call upon you much, O Agni — truly yours. Like a refuge from the sharp thorn, you are a shelter of greatness.
 

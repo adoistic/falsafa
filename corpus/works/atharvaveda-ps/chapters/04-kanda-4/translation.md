@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 9653
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **4.1.1**  Hiraṇyagarbha came into being at the first; he arose as the single lord of all that exists. He upheld this earth and yonder heaven — to that god let us offer with oblation.
 

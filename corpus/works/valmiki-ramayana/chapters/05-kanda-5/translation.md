@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 61834
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **5.1.1**  Then he, the crusher of foes, resolved to seek the track of Sītā who had been carried off by Rāvaṇa, on the path frequented by the Cāraṇas.

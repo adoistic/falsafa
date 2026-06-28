@@ -60,6 +60,8 @@ type WorkDef = {
   chapterTitleTemplate: string;
   /** How to extract the ordinal from a chapter dir name, e.g. "01-mandala-1" → 1. */
   chapterDirPattern: RegExp;
+  /** Archive-level source attribution URL (written into every variant's source_url). */
+  source_url: string;
 };
 
 // ---------------------------------------------------------------------------
@@ -120,6 +122,10 @@ const WORKS: WorkDef[] = [
     chapterDirPattern: /^(\d+)-prapathaka-\d+$/,
   },
 ];
+
+// All works registered here are sourced from the GRETIL archive — stamp
+// archive-level attribution into every chapter variant's source_url.
+for (const w of WORKS) w.source_url = "http://gretil.sub.uni-goettingen.de/gretil.html";
 
 // ---------------------------------------------------------------------------
 // Helpers (exact copies / ports from apply-complete.ts)
@@ -309,7 +315,7 @@ function main(): void {
           language_direction: "ltr",
           script: workDef.transliteration_scheme,
           word_count: translitWords,
-          source_url: null,
+          source_url: workDef.source_url,
           transliterator: "thothica",
         })}\n\n${tBody}\n`,
       );
@@ -335,7 +341,7 @@ function main(): void {
           language_direction: "ltr",
           script: "latin",
           word_count: translationWords,
-          source_url: null,
+          source_url: workDef.source_url,
           translator: "thothica",
         })}\n\n${translationBody}`,
       );
@@ -366,7 +372,7 @@ function main(): void {
                 word_count: translitWords,
                 paragraph_count: translitParas.length,
                 has_image: false,
-                source_url: null,
+                source_url: workDef.source_url,
               },
               {
                 file: "translation.md",
@@ -378,7 +384,7 @@ function main(): void {
                 word_count: translationWords,
                 paragraph_count: translationParas.length,
                 has_image: false,
-                source_url: null,
+                source_url: workDef.source_url,
               },
             ],
           },

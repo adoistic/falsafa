@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 42870
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **8.1.1**  Praise nothing else, O friends, and suffer no harm; be a praiser of Indra the bull, attending him at the pressing; again and again recite the lauds.

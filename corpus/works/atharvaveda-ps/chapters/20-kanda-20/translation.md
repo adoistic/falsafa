@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 17729
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **20.1.1**  Those who by thought led speech to its summit, or who by mind declared the truths — waxing great through the third sacred utterance, by the fourth they perceived the name of the milch-cow.
 

@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 24420
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **6.1.1**  For thou, O Agni, wast the first to take thought of this hymn, and becamest the wondrous Hotṛ. Thou, O bull, hast made thy strength hard to overcome, thy might for every might, to be with every might.

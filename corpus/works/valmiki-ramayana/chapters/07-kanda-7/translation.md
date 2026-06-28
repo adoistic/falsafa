@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 64463
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **7.1.1**  After Rāma had obtained his kingdom and the slaughter of the rākṣasas had been accomplished, all the sages came to pay homage to the Rāghava.

@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 50395
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **3.1.1**  Entering the great forest, the Daṇḍaka wilderness, the self-possessed and invincible Rāma beheld the precinct of the ascetics' hermitage.

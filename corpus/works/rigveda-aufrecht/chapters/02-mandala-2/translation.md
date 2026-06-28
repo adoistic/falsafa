@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 14923
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **2.1.1**  You, O Agni, are born from the heavens; you, the swiftly blazing one, from the waters; you from the rock; you from the forests; you from the plants; you, O lord of men, are born pure.

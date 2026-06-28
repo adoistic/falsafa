@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 4498
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **10.1.1**  Alas, O mother, O sharpening-stone, O cow with hanging udder — you do not know what you desire; and what is wealth, that you do not consume.
 

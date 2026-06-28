@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 6319
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **8.1.1**  How shall we speak to the Asura of heaven, how to the tawny Father of fierce might? O Varuṇa, having given the dappled cow as the southern fee, O Punarmagha, thou hast deemed it good in thy mind.
 

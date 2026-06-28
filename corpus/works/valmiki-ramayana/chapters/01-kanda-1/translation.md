@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 48126
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **1.1.1**  The ascetic Vālmīki questioned Nārada — the foremost among those devoted to austerity and sacred study, the best of the eloquent, the bull among sages.

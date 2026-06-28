@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 2492
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **3.1**  May the somas gladden you, O wielder of the stone; bestow your bounty. Strike down the enemies of sacred speech.
 

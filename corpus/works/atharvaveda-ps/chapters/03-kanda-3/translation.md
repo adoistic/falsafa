@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 8802
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **3.1.1**  The kingdom has come to you together with lustre; advance eastward as lord of the clans, sole sovereign — reign widely! May all the regions summon you, O king; be here one worthy of approach, worthy of homage.
 

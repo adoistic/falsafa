@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 56551
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **10.1.1**  Tall, he stood foremost at the dawns, risen up; having driven away the darkness he came with light. Agni, with his own bright, shining radiance, newborn, has filled all dwellings.

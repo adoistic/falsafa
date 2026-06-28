@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 62533
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **1.1.1**  Agni I laud, the divine household-priest of the sacrifice, the seasonal officiant, the Hotṛ, the most generous bestower of treasures.

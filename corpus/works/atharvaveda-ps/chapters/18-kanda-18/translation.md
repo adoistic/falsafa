@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 22344
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **18.1.1**  By truth the earth is upheld; by the sun the sky is upheld; by cosmic order (ṛta) the Ādityas stand firm; in heaven Soma is exalted.
 

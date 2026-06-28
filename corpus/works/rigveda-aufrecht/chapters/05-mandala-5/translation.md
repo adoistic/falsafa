@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 22642
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **5.1.1**  Agni has awakened through the fuel of the people, going forth to meet the Dawn as she approaches like a cow; the great ones like young birds spreading their wings, the rays stream upward toward the vault of heaven.

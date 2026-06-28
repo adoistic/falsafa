@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 42342
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **16.1.1**  Homage to Antaka, to Mṛtyu — let this man remain here together with his vital breath. In the portion of Sūrya, in the realm of immortality, may your in-breath and out-breath take their delight here.
 

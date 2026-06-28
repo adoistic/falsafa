@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 18011
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 
 **4.1.1**  Thee, O Agni, the gods of one accord have ever sent as their divine messenger — by their will they sent thee forth. The immortal one established among mortals, the divine and all-knowing Ādeva — they generated thee, the all-wise Pracetas, the divine Pracetas.

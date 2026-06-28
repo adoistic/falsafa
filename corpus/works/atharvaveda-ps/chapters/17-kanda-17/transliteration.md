@@ -14,6 +14,7 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 7432
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 transliterator: thothica
 ---
 

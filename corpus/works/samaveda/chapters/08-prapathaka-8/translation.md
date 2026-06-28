@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 325
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **8.1**  Know, O Maghavan, know the path in the directions that have been proclaimed. Teach us, O lord of mighty deeds, O Purūvasu, of many ancient gifts.
 

@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 13378
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **17.1.1**  Truth, the vast, cosmic order fierce, consecration, austerity, sacred knowledge, and sacrifice — these uphold the Earth. She, the mistress of what has been and what shall be, may Earth make a wide world for us, unobstructed, in the midst of humankind.
 

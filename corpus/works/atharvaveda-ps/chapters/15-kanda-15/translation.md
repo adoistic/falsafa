@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 6765
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **15.1.1**  From all the quarters it blows together, resonant with heaven; from thence may Mādhava protect us with sweetness. May Agni the god, hard to cross, undeceivable, guard this sovereign power and protect us.
 

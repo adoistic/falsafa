@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 2331
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **5.1**  I praise that might of yours, O Indra, supreme among the divine — that by which you, O lord of power, smash Vṛtra with your strength.
 

@@ -14,8 +14,10 @@ source_language: Sanskrit
 language_direction: ltr
 script: latin
 word_count: 1466
+source_url: "http://gretil.sub.uni-goettingen.de/gretil.html"
 translator: thothica
 ---
+
 
 **7.1**  O Indra, bring to us the foremost, most powerful glory. When we would hold firm both heaven and earth, O wielder of the thunderbolt, O fair-cheeked one, you have filled them both.
 
