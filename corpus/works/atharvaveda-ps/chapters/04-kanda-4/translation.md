@@ -1,0 +1,603 @@
+**4.1.1**  Hiraṇyagarbha came into being at the first; he arose as the single lord of all that exists. He upheld this earth and yonder heaven — to that god let us offer with oblation.
+
+**4.1.2**  He who gives vital force and gives strength, he whose command all the gods attend — whose shadow is immortality, whose shadow is death — to that god let us offer with oblation.
+
+**4.1.3**  He who became the sustainer and lord of all the moving world, of the breathing and the blinking — who is master of the two-footed and of the four-footed — to that god let us offer with oblation.
+
+**4.1.4**  By whom the mighty heaven and the firm earth were fixed, by whom the celestial vault was propped, by whom the firmament — who measured out the vast atmosphere — to that god let us offer with oblation.
+
+**4.1.5**  He who propped these two trembling heaven and earth and held them firm by his help — over whom the sun spreads forth its course — to that god let us offer with oblation.
+
+**4.1.6**  He of whose greatness all the Himavat mountains declare the ocean together with Rasā — whose are the directions and the five divine quarters — to that god let us offer with oblation.
+
+**4.1.7**  The waters that bear all life, the mothers who gave birth to the embryo — therein the god above the gods took his seat, within the one-pillared, measured, firm and mighty.
+
+**4.1.8**  The waters, generating the embryo, brought forth the calf at the first. And as he was being born, his birth-membrane was of gold.
+
+**4.1.9**  Golden was the birth-membrane of him who was born as the calf at the first. Great Diti beheld him as he came forth from the two wombs flowing apart.
+
+**4.2.1**  The existent one pours nourishment into all existing beings; he has become the overlord of all beings. He who is Death performs the royal consecration — may that king approve this kingdom.
+
+**4.2.2**  Advance, make yourself heroic — terrible perceiver, slayer of rivals! Stand firm, O increaser of allies; on your behalf the gods have spoken.
+
+**4.2.3**  All beings have adorned him as he mounts; robed in glory he moves, self-luminous. Great is that name of the virile Asura — the all-formed one has stood firm in the immortal realms.
+
+**4.2.4**  Embracing him as the tiger, they urge the lion on to great good fortune. Like a well-armed buffalo standing firm, they groom the leopard within the waters.
+
+**4.2.5**  O tiger on the tiger-skin, stride forth across the great directions! May all the peoples come to you, and the heavenly milk-rich waters.
+
+**4.2.6**  The heavenly waters that rejoice with milk, those of the atmosphere, and those of the earth — with the radiant power of all those waters together I anoint you.
+
+**4.2.7**  I have anointed you with radiant splendor together with heavenly milk. May Savitṛ make you thus — one who increases allies.
+
+**4.3.1**  O Kaśyapa, that which is brilliant, bright-shining, and full — that which is full, abundant and of wondrous radiance — in which the seven suns are together set — upon that let us place the king in sovereignty.
+
+**4.3.2**  By those skills with which, knowing, you strengthened the widespread ones, by those with which you adorned the heaven, by those full and inexhaustible powers with which you adorned speech — with that splendor, O Agni, unite me here.
+
+**4.3.3**  By those banners by which the sun shines forth, by those by which Agni of wondrous radiance was beheld, by those by which the waters of moon-bright hue came alive — with that splendor, O Agni, unite me here.
+
+**4.3.4**  May this one shine upon the five divine quarters; may he be first among the people, like Indra. Place in him fullness and wondrous radiance; may this one fill the lap of the two realms.
+
+**4.3.5**  May Indra protect you in accord, may Bṛhaspati protect you in accord, may Soma have protected you in accord, and Agni in accord. May all the gods protect you in accord — the seven kings who are consecrated from above.
+
+**4.3.6**  May Mitra and Varuṇa protect you in accord here, may Heaven and Earth protect you in accord with their plants. May the sun protect you in accord with its days; may the moon protect you with the stars in accord.
+
+**4.3.7**  May Heaven and Earth, both all-knowing, carry you — the brilliant, the vast, the south. May Soma and Agni, attentive, be aware; may Pūṣan protect you, Savitṛ with his impulsion.
+
+**4.4.1**  O Agni, bring hither the yātudhāna who is chanting praise, the kimīdin — for thou hast indeed become the slayer of the dasyu, most favored of the gods.
+
+**4.4.2**  O Parameṣṭhin of the oblation, O Jātavedas, O master of thy body — O Agni, having partaken of the tula-offering, cause the yātudhānas to cry out in distress.
+
+**4.4.3**  Let the yātudhānas wail — those ravenous devourers who are kimīdins — and do thou, O Agni, and Indra, find delight in this our oblation.
+
+**4.4.4**  Let Agni seize him from the front; let the mighty-armed Indra drive him on — let every sorcerer come forward declaring, 'Here I am!'
+
+**4.4.5**  I behold thy powers, O Jātavedas; declare to us the yātudhānas, O thou who seest men. Scorched by thee on every side, let them come forward openly proclaiming themselves — hither to this place.
+
+**4.4.6**  Seize them, O Jātavedas; subdue them for the desire of the heart. Arise as our messenger, O Agni; bring the yātudhānas hither.
+
+**4.4.7**  Do thou, O Agni, bring the yātudhānas here in bonds — then let Indra with his vajra split open their skulls.
+
+**4.4.8**  May this oblation carry away the yātudhānas as a river carries foam. Whoever — whether woman or man — has done this deed, let that person come hither and give praise.
+
+**4.4.9**  O Soma-drinker, strike down the offspring of the yātudhāna and lead them away; of the one who is chanting, strike out the upper eye and also the lower.
+
+**4.4.10**  This chanting one has come — recognize him, take pleasure in seizing him. O Bṛhaspati, bring him under control; O Agni and Soma, pierce him through.
+
+**4.5.1**  Thee whom the Gandharva dug up for Varuṇa, for the nurturing of the dead — thee, that herb which arouses the phallus, we now dig up.
+
+**4.5.2**  Bulls are thy diggers; a bull art thou, O herb. Thou art virile, endowed with virility — for the sake of the virile one we dig thee up.
+
+**4.5.3**  Up rises the Dawn, up rises the Sun, up rises the vigorous power of the herbs — Prajāpati, the bull, stirs with potent, prize-winning force.
+
+**4.5.4**  Make this one erect upward — just as when two growing shoots bend low as if scorched by heat — let this herb make thee more vigorous than that.
+
+**4.5.5**  Thou art the sap of the waters, of the herbs, and of the forest trees; thou art moreover the brother of Soma — thou art the virile power belonging to the ṛṣi's lineage.
+
+**4.5.6**  The vigour of the horse, of the spotted deer, of the he-goat, and of the man — even the prize-winning force of the bull — bestow that upon him, O herb.
+
+**4.5.7**  Gather together the prize-forces of the bulls, gather the vigors of the herbs — gather the virility of males, O Indra; bestow upon him bodily strength.
+
+**4.5.8**  Today, O Agni; today, O Savitṛ; today, O divine Sarasvatī; today, O Brahmaṇaspati — stretch my membrum like a bowstring.
+
+**4.5.9**  Upright stand the mountains; upward the winds blow; upright shall this one of mine stand upon the earth like a post.
+
+**4.5.10**  Rise up, O fierce one; shake thyself; let thy channels swell up. Untired, like a horse-guard keeping watch over a ship, let there be no weakness upon the testicles.
+
+**4.6.1**  The golden-horned bull who arose from the ocean — with him, with that mighty one, we lull all these people to sleep.
+
+**4.6.2**  The wind does not blow past the earth; the sun does not scorch beyond it — lull to sleep all the people and the dogs as well, O friend of Indra, as thou movest about.
+
+**4.6.3**  The women who sleep in carriages, who sleep on couches, those who lie on beds — the women who are of fragrant perfume — all of them we lull to sleep.
+
+**4.6.4**  Quivering and quivering, I have seized the sight; I have seized the breath. I have seized all the limbs in the deepest darkness of the nights.
+
+**4.6.5**  He who sits, and he who moves about, and he who stands gazing about — we close the eyes of all of them, just as this house is closed.
+
+**4.6.6**  Let the mother sleep; let the father sleep; let the dog sleep; let the lord of the house sleep — let all the kinsmen sleep; lull all the people to sleep.
+
+**4.6.7**  O Sleep, with thy sleep-inducing power lull all the people to sleep. Put the others to sleep until after sunrise — let me move about till dawn, unharmed and uninjured, like Indra.
+
+**4.7.1**  From your eyes and from your nostrils, from your ears and from your mouth — the head-lodged yakṣman from the brain, from the forehead we tear it out.
+
+**4.7.2**  From your neck-vertebrae and from your cervical joints, from your backbone, from your spine — the yakṣman of the upper arm, from the shoulders, from the chest we tear it out.
+
+**4.7.3**  From your lungs and from your cardiac region, from the diaphragm, from your flanks — the yakṣman from the kidneys, from your spleen, from your liver we tear it out.
+
+**4.7.4**  From your intestines and from your rectum, from the vaniṣṭhū, from the belly — the yakṣman from the hands, from the fingers, from the nails we tear it out.
+
+**4.7.5**  From your bones and from your flesh, from your sinews, from your veins — the yakṣman from the ribs, from the marrows, from the navel we tear it out.
+
+**4.7.6**  From your thighs and from your knee-joints, from your heels, from the balls of your feet — the yakṣman of the pudenda, from the hips, from the buttocks we tear it out.
+
+**4.7.7**  Lodged limb by limb, hair by hair, bound joint by joint — the yakṣman of the skin, we tear it out from you entirely in all directions.
+
+**4.7.8**  From each and every limb of yours, joint by joint throughout — by the extraction-spell of Kaśyapa we tear out the yakṣman from you.
+
+**4.8.1**  Agni, the two demon-slayers — sharp, sharp-horned, the seer of seers, the poet most poetic — let them thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back.
+
+**4.8.2**  Indra, the demon-slayer [sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back].
+
+**4.8.3**  Soma, the demon-slayer [sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back].
+
+**4.8.4**  Varuṇa, the demon-slayer [sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back].
+
+**4.8.5**  Vāyu, the demon-slayer [sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back].
+
+**4.8.6**  Tvaṣṭā, the demon-slayer [sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back].
+
+**4.8.7**  Dhātā, the demon-slayer [sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back].
+
+**4.8.8**  Savitā, the demon-slayer [sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back].
+
+**4.8.9**  Sūrya, the demon-slayer [sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back].
+
+**4.8.10**  Candramā, the demon-slayer [sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back].
+
+**4.8.11**  Bṛhaspati, the demon-slayer [sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back].
+
+**4.8.12**  Prajāpati, the demon-slayer [sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back].
+
+**4.8.13**  Parameṣṭhin, the demon-slayer — sharp, sharp-horned, the seer of seers, the poet most poetic — let him thrust away the evil-sayer, overwhelm hostility; back with the counter-stroke: upon the one who works harm, harm we hurl back.
+
+**4.9.1**  "All-dwellers" — such is your name; fierce-eyed are you, O dice, who bear up the realm. To that one, O Indu, we would do homage with an oblation; may we become lords of riches.
+
+**4.9.2**  This is for the fierce brown one who is self-sovereign among the dice. I would learn to propitiate Kali with ghee; may he show mercy to us in such a situation as this.
+
+**4.9.3**  O Agni, carry ghee to the Apsarasas; carry dust to the dice, sand and water too. May the gods, delighting in the gift of oblations according to their proper share, rejoice in both the oblatory offerings.
+
+**4.9.4**  The god who pointed out this wealth to us, who presides over the seizing and remaining of dice — may he, delighting in this oblation, protect us; together with the Gandharvas may we make merry in shared exultation.
+
+**4.9.5**  Those Apsarasas who exult in shared revelry in the space between the oblation-cart and the sun — may they join our hands together with skill; may they subdue for us the rival gambler.
+
+**4.9.6**  Because I invoke the gods as one in need, because we have practiced brahmacarya — because I take hold of the brown dice, may they be gracious to us in such a plight as this.
+
+**4.9.7**  [Colophon:] "Beginning with ādinavam" — thus one verse.
+
+**4.10.1**  May Bhaga lead thee hence, taking thee by the hand; may Bṛhaspati be thy forerunner. May the god Savitā, whose laws are true, make thee worthy of homage, worthy of approach.
+
+**4.10.2**  With that sweet whip which the Aśvins, the gods, fashioned at the beginning — with that we entwine thee, suffused with sweetness, into thy husband's love.
+
+**4.10.3**  Be thou above thy mother-in-law; instruct thy husband's sister. We make thee glorious before thy husband; be thou beloved among the brothers-in-law.
+
+**4.10.4**  Adorning thy person with the waters, enter the house — thou art the chief queen. There the gods have appointed thee to the householder's fire, that thou mayest be rich in offspring, reaching old age.
+
+**4.10.5**  Ascending ever higher, scattering those who assail thee — thou hast stood upon the head of thy enemy; be a sovereign queen, accompanied by sons.
+
+**4.10.6**  Over the mothers-in-law, over the fathers-in-law, over the household and its prosperity — reign supreme; among husband, brothers-in-law, and kinsmen of thine own birth, be a sovereign queen.
+
+**4.10.7**  Whatever honey there is in the mountains and highlands, in the cattle and in the horses — with that wherewith the dice were anointed, therewith I anoint the head of this woman.
+
+**4.10.8**  Whatever splendour is in the auspicious cow, or in the grass of a good pasture — with the splendour of this unguent I anoint her with splendour.
+
+**4.11.1**  With that oblation offered with a united heart, wherewith Uśanā Kāvya moved of old, knowing the rites and knowing the deities — I pour libation; may your minds be in full accord, may they be mighty.
+
+**4.11.2**  Great is the truth, great is the oblation, great is Uśanā Kāvya. The hearts of the mighty gods, of the righteous ones — these I have joined together.
+
+**4.11.3**  I walk yoked with truth as my companion; I have full knowledge of the divine Anumatī. May Indra be the heart of the gods for you; may your minds be in full accord, may they be mighty.
+
+**4.11.4**  Tvaṣṭā, Vāyu, Kaśyapa, Indra, and Agni — they followed with their minds the footprint of the oblation; they found the mighty one who had entered into the atmosphere. May your minds be in full accord, may they be mighty.
+
+**4.11.5**  With that by which these two, Heaven-and-Earth, were propped apart, by which the atmosphere and the sunlit realm came into being — knowing with the mind, I pour libation with the oblation; may your minds be in full accord, may they be mighty.
+
+**4.11.6**  Heaven-and-Earth brought forth the heart by which the wise Tvaṣṭā fashions all this world. Of that heart Uśanā, conversant with the rites, found knowledge — the thought that had entered into the mind.
+
+**4.11.7**  This thought and this intent — by means of which the gods achieved their aims — with faith in truth the seven seers pour this as oblation.
+
+**4.12.1**  O Manyu, exulting and exhilarated, mounting the same chariot with thee, their weapons whetted to sharpness, with arrows keen — may the men, of fiery form, advance forward.
+
+**4.12.2**  Like fire, O Manyu, overwhelm with fury; invoked, be our battle-leader, O conqueror. Knowing how to conquer the foes, divide the spoil; measuring out strength, drive away the hostile hosts.
+
+**4.12.3**  Overwhelm, O Manyu, hostility against us; come, crushing, smashing, annihilating the foes. Thy fierce host has now been held back; thou who art self-born, subdue the submissive to thy will.
+
+**4.12.4**  Thou art one invoked by many, O Manyu; sharpen for battle beast after beast. Unwounded, yoked with thee as ally, we raise a brilliant war-cry to win the victory.
+
+**4.12.5**  Maker of victory, like Indra, never faltering — be our protector here, O Manyu. We proclaim thy beloved name, O conqueror; we know that fountain from which thou hast arisen.
+
+**4.12.6**  With might, with the power of a thunderbolt, O arrow-hurler, thou bearest strength, ever supreme over those who confront thee. With purpose, O Manyu, be united with us; be invoked by many, lead us into the midst of great wealth.
+
+**4.12.7**  The wealth assembled on both sides, gathered together — may Varuṇa and Manyu grant it to us. The foes, bearing fear in their hearts, defeated, shall go to the uttermost distance.
+
+**4.13.1**  Auspicious to us be the goddess Pṛśniparṇī; let her bring ill-fortune to Nirṛti. For she is fierce, the devourer of kaṇva-demons — her, the powerful one, I have fetched for you.
+
+**4.13.2**  Pṛśniparṇī was born first as one who ever pursues and strikes down. With her I sever the head of kaṇva as one severs the head of a bird.
+
+**4.13.3**  She who bears vigor, who bears life-breath, and who is the refresher of living beings — may Pṛśniparṇī drive all those kaṇvas to destruction away from here.
+
+**4.13.4**  Rounding them up, drive them out as a sharp-horned bull drives out its herd — the greedy kaṇva, the sinful one, O mighty Pṛśniparṇī.
+
+**4.13.5**  You, fierce Pṛśniparṇī, come burning like fire; the kaṇvas have been brought near to the end of life. Drive them into the mountain, into the darkness whither they depart — cast those evil ones down there.
+
+**4.13.6**  The greedy blood-drinker, and the one who desires to steal away prosperity, and the womb-devouring kaṇva — destroy them, O mighty Pṛśniparṇī.
+
+**4.13.7**  Those kaṇvas who carry off our cattle, who carry off our homes, who carry off our prosperity — those, O fierce Pṛśniparṇī, drive to destruction away from here.
+
+**4.14.1**  That in which a spell is implanted — here is that śalya (splinter/shaft), the reed, the wrapping, and the point. As a son hears and comes to his mother, so hear: this is your very self — be thus dislodged.
+
+**4.14.2**  If, having split the bone, you have fallen into the marrow, or if you are lodged in one who is dear to a woman — come back across the broad cow-pasture ground, following in the track of the rays of the risen sun.
+
+**4.14.3**  Mātariśvan, the purifying wind, blowing along you; the sun shining brightly so the body may be seen — from the smell of blood, from the festering, dislodge yourself; free yourself from the wound that is there in you.
+
+**4.14.4**  Dislodge yourself from there, come back this way; we know your many purposes, those that are outside. These are your sisters, this indeed is your father, this is your mother — come here to this kinsman.
+
+**4.14.5**  Whether you were shot by enemies or by friends, or sent forth and released by gods or by a goddess — having pierced and left the horn in the man, O arrow, let the horn and point be conjoined and depart from here.
+
+**4.14.6**  If you are lodged among the tips, or lodged at the front, or lodged in the flesh of a man — like one who looses a noose and sets free the fetter, let the splinter from the eye make its way for departure.
+
+**4.14.7**  Carried from hand to hand, the metal may see you out by the power of healing plants; cleansed with waters, anointed as one lying down, placed harmless in the sheath of the kinswomen.
+
+**4.14.8**  For the sixty-fold śalya an enclosure of sixty nights has been made. Today we dislodge it from its station away from here for you.
+
+**4.15.1**  Let marrow be joined with marrow; let joint be united with joint for you. Let that which has been scattered of your bodily frame come together; let sinew and let joint be joined for you.
+
+**4.15.2**  Let marrow be laid together with marrow; let bone grow upon bone. We bind your sinew together with sinew; let skin grow upon skin.
+
+**4.15.3**  Let hair be joined together with hair; let skin knit itself together with skin. Let your blood grow upon bone; let flesh grow upon flesh.
+
+**4.15.4**  Rohiṇī is the fully healing one, Rohiṇī of broken bone. Born on the day of Rohiṇī (the lunar asterism), you are Rohiṇī, O herb.
+
+**4.15.5**  If the bone is broken, if it is shattered, the grinding agent against your own body — may Dhātṛ (the Divine Ordainer) set all that right, joining joint to joint.
+
+**4.15.6**  If a thunderbolt was hurled against you, or if it fell and pierced into the cut, or if you were shattered; or if you fell from a tree — O ten-headed, O Ṛbhu, I join your joints together as craftsmen join together the parts of a chariot.
+
+**4.15.7**  Rise up, go forward — your joint has been set in place; may Dhātṛ set together the broken part of your body. As a well-wheeled, well-felly'd, smooth, well-hubbed chariot rolls along — stand firm just so.
+
+**4.16.1**  Rising, may Āditya slay the woodworms; setting, may Sūrya slay them with his rays. So long has he been marshalled against us.
+
+**4.16.2**  The Apsarā dug out the root; the Gandharva recited it round about. By that very means may Sūrya, slayer of Vṛtra, crush you woodworms and strip you of immortality.
+
+**4.16.3**  Let her coming slay the woodworms; let her going slay the woodworms. Let her striking slay the woodworms; let her who grinds grind the woodworms to dust.
+
+**4.16.4**  Woodworms, let there be nothing of yours here; you have been detected, like thieves caught at nightfall.
+
+**4.16.5**  Among the woodworms, the eldest, and likewise the youngest and the middle one — slain are all your kindred, slain is the mother, slain is the father.
+
+**4.16.6**  Just as foam, seen upon the water, is swept away, so we with one utterance drive out all the woodworms together.
+
+**4.16.7**  The cows have settled in the stall; the wild beasts have retreated. You, O Āditya, with your rays have driven all the woodworms down.
+
+**4.16.8**  Rising, stretch forth your rays; dispatch them like arrows. You, O Āditya, scorch all the woodworms with your terrible body.
+
+**4.17.1**  You who are curved and bent back, chipping away like a piece of wood — Śarkoṭa is indeed your name. Whence have you come to possess venom?
+
+**4.17.2**  You who strike with both — with your tail and with your mouth — even in your mouth there is no venom; whence should venom reside in the track of your tail?
+
+**4.17.3**  You are the grandson of the Dānava Vidutsura. His venom was rendered powerless at the start; therefore your venom too is powerless.
+
+**4.17.4**  I have made you utterly powerless, impotent — a castrate I have made you. The immortal gods made you, the demonic one, a castrate.
+
+**4.17.5**  Such a tiny, little creature — I split that creature with a peg. Thereupon I poured away the venom in the southern direction along the year.
+
+**4.17.6**  These seven peahens to the west, sisters, unmarried virgins — they drew out your venom, as water-bearers draw water from a well, as those who own pitchers draw it.
+
+**4.17.7**  "Of the nine nineties" — thus the one verse.
+
+**4.18.1**  I drive away the troop of the wing-clipped ones, the troop of the baldheads, and also the troop of the shaven-headed ones, even as crows are chased away.
+
+**4.18.2**  The prattler, the infatuator, Drowsiness, Languor, and Fever-of-the-third-day — all of them we burn up with the fire of the jaṅgiḍa plant.
+
+**4.18.3**  Protect us, O Jaṅgiḍa, from the unclean ones, and from the Rakṣases. From the Yātudhāna and the Kimīdin — from these protect us, O Jaṅgiḍa.
+
+**4.18.4**  From Apsarases, from Gandharvas, from gods, from Asuras, and moreover from all evil — from these protect us, O Jaṅgiḍa.
+
+**4.18.5**  The divine Agni burns down your enemies, drives away hostility, folly, and the Yātudhānas. Come forth, destroyer of enemies and misfortune; protect us, O Jaṅgiḍa, from a hundred diseases.
+
+**4.18.6**  Attach yourself to the divine Agni, its overlord, with divine power — the one who does the work. May the powerful Jaṅgiḍa guard us with power, so that we may be victorious in battles.
+
+**4.18.7**  True is Agni, true are the Waters, true to me are Heaven and Earth, the two that bring welfare to all. True shall be this sacred formula of ours that is made. The jaṅgiḍa that Uśanas bound for Indra — that same I bind upon you.
+
+**4.19.1**  The little śakuntikā bird has eaten your poison along with her companion. Let me not die, nor let yonder man die. He shall not die; let us not die. Far from him be its operation — the green plant shall make you sweet, the honey-sweet one shall render you honey.
+
+**4.19.2**  Into the sun I release the poison, into the wineskin in the house of the soma-presser. [Remainder fragmentary.]
+
+**4.19.3**  The thrice-seven sparkling ones have destroyed the blossom of the poison. [Remainder fragmentary.]
+
+**4.19.4**  The poison of the ālvantaruṭa plant is sapless venom; vidārī and karambha render the poison devoid of sap. [Remainder fragmentary.]
+
+**4.19.5**  The fierce, sapless poison of water — and Agni, the all-beholding — [neutralize it]. [Remainder fragmentary.]
+
+**4.19.6**  The śakuntikā bird spoke to me — she who sucks the flower of the poison: [she declared it harmless]. [Remainder fragmentary.]
+
+**4.19.7**  It does not fester, it does not intoxicate, the poison does not slay the man. Let me not die, nor let yonder man die. He shall not die; let us not die. Far from him be its operation — the green plant shall make you sweet, the honey-sweet one shall render you honey.
+
+**4.19.8**  Of the ninety-nine, this is one.
+
+**4.20.1**  Honey-sweet am I to my husband; yet sweeter than honey to my lover. Moreover, my vulva is honeyed; I am honey at the moment of union.
+
+**4.20.2**  With honey I blend myself, as one blends fermented grain with māsara-liquor. This speech of mine is commingled with honey; my two eyes are honey-radiant in their gaze.
+
+**4.20.3**  Honey is the sky, honey the earth, honey is Indra, honey is the sun. The women who were born honey — from all of them I am yet more honey-sweet.
+
+**4.20.4**  Honey-sweet are the plants, and honey-sweet are the waters too. The cows that were born as honey — from all of them I am yet more honey-sweet.
+
+**4.20.5**  Born of honey, producing honey — the most powerful among plants — with him I make an impression in the heart of every man.
+
+**4.20.6**  Just as a horse stalled in the tether rushes toward the mare, so do you, O potent herb, bring that man to me, neighing as he comes.
+
+**4.20.7**  How like delight his very breath, how like delight his very breast! Desiring other women, intent on surpassing them — yet your mind followed after me, as a shadow follows one who walks.
+
+**4.21.1**  The Dāsas with sapless arms dig you up on the dark side of the mother. You are a slave-woman, you are a bought-thing, you are uprooted — a sapless, impotent poison.
+
+**4.21.2**  The kakkaṭa crabs eat you; the kuruṅga deer eat you on the ridges. You are a wicked thing whose seeds have been eaten; dug up with a spade, you have caused no further harm.
+
+**4.21.3**  As the string is let down from the bow, so I unstring your virulence, O poison. Let its festering shoots fall down, as the sun makes the earlier dawns fall away.
+
+**4.21.4**  The Sindhu is spread behind, the rising-place of the sun is in front. Whatever forest lies between those two — all of that is the bane of poison.
+
+**4.21.5**  May the honey-maker render you honey; may the food-maker render you food — both for sitting down to drink and for standing upright.
+
+**4.21.6**  Lomakarṇa devoured you and sank you into the Paruṣṇī river. The Bhaimīs fashioned garlands from that — all the poison is food for the great buffalo.
+
+**4.21.7**  By the wide, the far-striding, the swift, and by that of the afflicted — for the earth has seized its name. Let the poison be warded off, let the poison be made impotent.
+
+**4.22.1**  I have brought hither the herb that is Indra's mother, Indra's strength, Indra's sister — the herb that speaks under Indra's patronage — the poison-destroyer.
+
+**4.22.2**  Whatever moves on feet, whatever has hooves, whatever has a stalk, whatever has blossoms, whatever Prajāpati causes to stir — all that is a poison-neutralizer.
+
+**4.22.3**  The Sindhu river stands as support behind; the rising of the sun stands ahead — the poison that lies between those two, that we corrupt with our utterance.
+
+**4.22.4**  As far as the sun blazes, as far as it looks out upon all — over that whole extent we chant forth the corruption of poison.
+
+**4.22.5**  My tongue flows with sweetness; my tongue speaks sweetness. O tongue, become possessed of brilliance — let not this man of mine come to harm.
+
+**4.22.6**  Hā! Hai! O auspicious, blessed, healthy Pṛśniparṇī — lead this man of mine today toward long life!
+
+**4.22.7**  Those by whom the rains rain down, those by whom the inviolable cows live — Savitṛ has illumined those as my poison-corrupters.
+
+**4.23.1**  Prajāpati first bound you, the unvanquished one, for valor. I bind that one upon you for life, for brilliance, for might, and for strength. May the unvanquished one protect you on all sides.
+
+**4.23.2**  Stand upright, guarding alertly, O unvanquished one. Let not the Paṇis, let not the Yātudhānas deceive you. Shake off the assailants as Indra shakes off the Dasyus; overpower all enemies who would fight you. May the unvanquished one protect you on all sides.
+
+**4.23.3**  Even a hundred striking and smiting him could not exhaust him. Upon him Indra has bestowed sight, breath, and strength. May the unvanquished one protect you on all sides.
+
+**4.23.4**  We clothe you about with the armor of Indra, who became the high king of the gods. May all the gods lead you forward. May the unvanquished one protect you on all sides.
+
+**4.23.5**  In this amulet reside one hundred heroic powers; in this unvanquished one a thousand life-breaths. Stand over all enemies like a tiger — whoever would fight you, let him be the lower one. May the unvanquished one protect you on all sides.
+
+**4.23.6**  Anointed with ghee, sweet, full of nourishment, possessing a thousand life-breaths, having a hundred birthplaces, bestowing vigor — both benevolent and bliss-giving, both vigorous and rich in sap. May the unvanquished one protect you on all sides.
+
+**4.23.7**  As you shall be the highest, without a rival, the slayer of rivals, the master of those born together — so may Savitṛ make you. May the unvanquished one protect you on all sides.
+
+**4.24.1**  The watery kind and the spotted kind, the burning kind and the steaming kind; the painful kind and the severe kind, the tertian kind and the ever-recurring kind — O fever demons, vanish from here!
+
+**4.24.2**  I know your name, O Takman — you are named Fire. We lead you away from here as a gentle fever.
+
+**4.24.3**  You are the burning heat of Vṛtra; you are the offspring of the cloud. May Heaven and Earth destroy the fever from here.
+
+**4.24.4**  Your mother is named Pañcapsinī; and you yourself are called Ekapsinī. I know your name — therefore, O Takman, run away from here!
+
+**4.24.5**  And you are named Audumbara; and you are named Priyātithi. We destroy you hence with powerful sacred utterance.
+
+**4.24.6**  The chattering kind and the babbling kind, the dampening kind and the burning kind; the tertian kind and the Mauñjigala kind — O fever demons, vanish from here!
+
+**4.24.7**  O Vikilīda, O Vilohita, O Vikāśa, O Kraṃdarajjana — go to the mountain, O Dhūmaketu! Let homages be made to you in the forest.
+
+**4.24.8**  O Agni, the mighty one, slay the lowest demon, cast down the middling one, crush the highest. May Agni, whose face is light, be benevolent to us; may Heaven and Earth be benevolent to us without fail.
+
+**4.24.9**  Like a mother, like a father — protect him, release him from distress on all sides.
+
+**4.25.1**  Born from the wind, from the atmosphere, from the lightning, from the light — may that golden-born conch-shell, the kṛśana-gem, guard us from distress.
+
+**4.25.2**  You are the chief among golden things; you were born from Soma. You are the radiant one in the chariot, luminous in the quiver.
+
+**4.25.3**  You who, radiant in the front, were born from the ocean — by means of the conch-shell, having struck down the rākṣasas and the devourers, we overpower them.
+
+**4.25.4**  Those who are devourers, the sorcerers, the rākṣasas, those who are kimīdins — all of them, O conch-shell, by means of you we overpower in every direction.
+
+**4.25.5**  With the conch-shell we drive away disease and wretchedness; with the conch-shell we also drive away the ever-gnawing ones. The conch-shell, the universal remedy, the kṛśana-gem — may it guard us from distress.
+
+**4.25.6**  Born in heaven, brought from the ocean, fetched from the river — that golden-born conch-shell, the jewel that extends life, shall be ours.
+
+**4.25.7**  The kṛśana became the bone of the gods; endowed with vital essence it moves amid the waters. I bind it upon you for life, for radiance, for vigor, and for strength — may the kṛśana-gem guard you on all sides.
+
+**4.26.1**  A maiden, going to fetch water, found Soma flowing beside it. While carrying it homeward she spoke: "For Indra I press you; for Śakra I press you."
+
+**4.26.2**  O you hero who goes about, peering into house after house — drink this Soma pressed by Jambha's mouth, accompanied by parched grain and gruel, with cakes, worthy of the uktha-hymn.
+
+**4.26.3**  Will he perhaps be able? Will he perhaps act? Will he perhaps make us more prosperous? Will those women who hate their husbands come to unite with Indra?
+
+**4.26.4**  We do not even seek to cure you; we do not even press you hard. Gently, gently — O Indu, flow around for Indra.
+
+**4.26.5**  These three expanses, O Indra, cause to grow apart — the head of that man, the field, and this here upon my belly.
+
+**4.26.6**  That which is our field, and this body of mine, and the head of that spread-out one — make all of those hairy and abundant.
+
+**4.26.7**  Through the hole of the chariot, through the hole of the wagon, through the hole of the yoke, O Śatakratu — Apālā, O Indra, you purified three times, you made her sun-skinned.
+
+**4.27.1**  On the back of heaven, fifty honey-mixing suparṇas, guardians of the world — fierce, they protect rank by rank, those who stirred up Indra to heroic valor.
+
+**4.27.2**  The supreme chaplain Bṛhaspati made the abhīvardha-amulet for him for sovereignty. By means of it, lay your rivals low; having multiplied your cattle abundantly in peace, may your chariot-vehicle go forth to victory.
+
+**4.27.3**  Those who are your peers, all of them together steadfastly brought along your share of cattle. Grow in power over your rivals, over those who make war on you.
+
+**4.27.4**  Crush down all the injurers, be as the abhīvardha — the grower-in-superiority, the overcomer, the one with the overwhelming host. May all the clans come to you, may the heavenly, milk-laden waters come to you.
+
+**4.27.5**  Grow in power with offspring, waxing strong; may you prevail with armies and with cattle. Waxing strong with brāhmaṇas, rājanya warriors, and vaiśyas, with śūdras — overcome with your assembly those who make war on you.
+
+**4.27.6**  Grow in power with fields; spread wide with offspring; grow in power with heroes; become abundant with cattle. With glory and with tribute — whoever strives against you, let him, having been overcome, stand before you bringing tribute.
+
+**4.28.1**  For aid we invoke Indra, Mitra, Varuṇa, Agni, the Marut host, and Aditi. O Vasus, liberal givers, as [one frees] a chariot from a difficult pass, deliver us wholly from every distress.
+
+**4.28.2**  Come, O Ādityas, for our complete welfare; be gods who bestow bliss in the victories against Vṛtra. [Deliver us wholly from every distress.]
+
+**4.28.3**  May the Fathers, whose invocation is auspicious, protect us; and also the two divine daughters of the gods, fosterers of the cosmic order. [Deliver us wholly from every distress.]
+
+**4.28.4**  With hymns of praise we entreat Narāśaṃsa, the vigorous one who bestows vigor, Pūṣan the lord of heroes, with his favors. [Deliver us wholly from every distress.]
+
+**4.28.5**  O Bṛhaspati, make our path forever easy; that which of thine is ordained by Manu for well-being and bliss, that we implore. [Deliver us wholly from every distress.]
+
+**4.28.6**  In the tight pass the seer Kutsa called upon Indra, the Vṛtra-slayer, the lord of mighty deeds, for aid. O Vasus, liberal givers, as [one frees] a chariot from a difficult pass, deliver us wholly from every distress.
+
+**4.28.7**  Together with the gods, may divine Aditi protect us; may the divine protector shield us without ceasing. May Mitra and Varuṇa be gracious to us, and Aditi, Sindhu, Pṛthivī, and Dyaus.
+
+**4.29.1**  Burn away from us the sin that blazes. O Agni, blaze bright — bring us wealth.
+
+**4.29.2**  Burn away from us the sin that blazes. We sacrifice for good fields, for easy passage, and for the gaining of riches.
+
+**4.29.3**  Burn away from us the sin that blazes. So that their wise men, and ours too, may prosper most gloriously.
+
+**4.29.4**  Burn away from us the sin that blazes. So that we may be born of thy wise men, O Agni; so that we may prosper through thee.
+
+**4.29.5**  Burn away from us the sin that blazes. When the rays of Agni the mighty one go forth on every side.
+
+**4.29.6**  Burn away from us the sin that blazes. For thou, O thou of face turned everywhere, art he who encompasses all from every side.
+
+**4.29.7**  Burn away from us the sin that blazes. O thou of face turned everywhere, carry us across our enemies, as across [water] in a boat.
+
+**4.30.1**  O gods who make refuge, be my refuge from the eastern quarter, with Agni as king and overseer. May I become possessed of glory; make me glorious; make me pleasing and a good eater of food; smite down the one who hates [me].
+
+**4.30.2**  [O gods who make refuge, be my refuge] from the southern quarter, with Indra as king [and overseer. May I become possessed of glory; make me glorious; make me pleasing and a good eater of food; smite down the one who hates me].
+
+**4.30.3**  [O gods who make refuge, be my refuge] from the western quarter, with Varuṇa as king [and overseer. May I become possessed of glory; make me glorious; make me pleasing and a good eater of food; smite down the one who hates me].
+
+**4.30.4**  [O gods who make refuge, be my refuge] from the northern quarter, with Soma as king [and overseer. May I become possessed of glory; make me glorious; make me pleasing and a good eater of food; smite down the one who hates me].
+
+**4.30.5**  [O gods who make refuge, be my refuge] from the fixed (nadir) quarter, with Viṣṇu as king [and overseer. May I become possessed of glory; make me glorious; make me pleasing and a good eater of food; smite down the one who hates me].
+
+**4.30.6**  [O gods who make refuge, be my refuge] from the upper (zenith) quarter, with Bṛhaspati as king [and overseer. May I become possessed of glory; make me glorious; make me pleasing and a good eater of food; smite down the one who hates me].
+
+**4.30.7**  [O gods who make refuge, be my refuge] from the uttermost quarter, with Prajāpati as king [and overseer. May I become possessed of glory; make me glorious; make me pleasing and a good eater of food; smite down the one who hates me].
+
+**4.30.8**  [O gods who make refuge, be my refuge] from the supreme (transcendent) quarter, with Parameṣṭhin as king [and overseer. May I become possessed of glory; make me glorious; make me pleasing and a good eater of food; smite down the one who hates me].
+
+**4.30.9**  O gods who make refuge, be my refuge from all the quarters, with Īśāna as king and overseer. May I become possessed of glory; make me glorious; make me pleasing and a good eater of food; smite down the one who hates [me].
+
+**4.31.1**  At dawn we invoke Agni, at dawn Indra, at dawn Mitra and Varuṇa, at dawn the Aśvins; at dawn may we invoke Bhaga and Pūṣan, Brahmaṇaspati, and at dawn Soma and Rudra.
+
+**4.31.2**  We invoke fierce Bhaga, conqueror of the dawn, son of Aditi who is the apportioner; even the destitute man, though he be shrewd, and even a king says of him: 'May I partake of Bhaga's portion.'
+
+**4.31.3**  O Bhaga, leader, O Bhaga of true bounty — O Bhaga, uphold this prayer of ours, granting it; O Bhaga, generate for us cattle and horses; O Bhaga, may we be rich in men, with heroes.
+
+**4.31.4**  May we be rich in Bhaga's blessing now, and at the departure of day, and in the middle of the day; and when the generous sun has risen, O Maghavan, may we be in the good graces of the gods.
+
+**4.31.5**  May Bhaga himself be the blessed one among the gods; through him may we be blessed. All people call upon you, O Bhaga — be for us, O Bhaga, a forerunner here.
+
+**4.31.6**  The dawns bow together for the sacrifice, as Dadhikrāvan bows toward the bright track; may swift steeds carry toward us Bhaga who finds wealth, drawing him as horses draw a chariot.
+
+**4.31.7**  May the auspicious dawns ever shine upon us, rich in horses, rich in cattle, rich in heroes; milking out ghee, drunk all around — do you always protect us with blessings.
+
+**4.32.1**  O Manyu, that bolt of yours which was kindled as an arrow, which nourishes all power in succession — with you as our ally, O fashioner of strength, with might overcoming all, may we overcome the Dāsa and the Ārya.
+
+**4.32.2**  Manyu is Indra, Manyu himself was the god; Manyu is the Hotṛ-priest, Varuṇa, Jātavedas; Manyu is besought by the human clans — protect us, O Manyu, with your ardor, united in goodwill.
+
+**4.32.3**  Come forward, O Manyu, mightier than the mighty; with ardor as your ally, smite the enemies asunder; slayer of foes, slayer of Vṛtra, slayer of Dasyus — bring to us all treasures.
+
+**4.32.4**  For you, O Manyu, are of overpowering might, self-born, radiant, conqueror of the arrogant, ranging over all peoples, overpowering, the mightier of the mighty — place your vigor in us in battles.
+
+**4.32.5**  Without a share and exiled as I am, O discerning one, through your will of the mighty — I, the impotent one, have irritated you, O Manyu; come to me yourself as a strength-giver, my own body's ally.
+
+**4.32.6**  I am yours — come here facing me, O overpowering one, giver of all; O Manyu, bearer of the thunderbolt, turn back toward us; may we smite the Dasyus and be awake to the waters.
+
+**4.32.7**  March forward, be to us on the right side; then may we smite enemies abundantly; I pour for you the first drop of the sustaining sweet drink — let us two drink together in a whisper, as the first.
+
+**4.33.1**  I reflect on Agni, the first, the discerning, Pāñcajanya, whom the people kindle in many ways; we supplicate him who has entered each and every clan — may he release us from distress.
+
+**4.33.2**  We invoke well-born Jātavedas, Agni Vaiśvānara, the all-pervading, the carrier of oblations — may he release us from distress.
+
+**4.33.3**  As you carry the oblation, O Jātavedas, as you arrange the sacrifice in your wisdom — so bring here right-mindedness for the gods; may he release us from distress.
+
+**4.33.4**  In every journey, the best carrier for the work; in every ritual act, the one taking his due share — I praise Agni, slayer of demons, increaser of sacrifice, fed with ghee; may he release us from distress.
+
+**4.33.5**  He with whom as ally the ṛṣis shone apart Vala, through whom the sorceries of the Asuras were cut away, that Agni with whom Indra conquered the Paṇis — may he release us from distress.
+
+**4.33.6**  He through whom the gods found the immortal draught, through whom they made the herbs honey-sweet, through whom they brought forth this heavenly light — may he release us from distress.
+
+**4.33.7**  In whose direction all this shines forth, whatever has been born and whatever is yet to be born in its entirety — I praise Agni, being in need I call him repeatedly; may he release us from distress.
+
+**4.34.1**  We meditate upon the sacred ordinances of Vāyu and Savitṛ — you two who preside over the life-breath of those sacred councils and who guard them; you two who have become the all-encompassing lords of the universe — release us from distress.
+
+**4.34.2**  You two by whom the breadths of the earthly realm have been reckoned, by whom the atmosphere and the middle space are guarded; whose path none has ever reached or traversed — release us from distress.
+
+**4.34.3**  Peoples submit to your ordinance; at your rising they are stirred to action, O Citrabhānu; you two — Vāyu and Savitṛ — guard all the worlds together — release us from distress.
+
+**4.34.4**  O Savitṛ and Vāyu, bestow for our aid a bountiful benevolence, and fill us with the exhilarating, gladdening draught; guide hither the good things in a flowing stream of abundance — release us from distress.
+
+**4.34.5**  May Savitṛ and Vāyu press forth for me riches, nourishment, and sweet capacity for bodily vigour; establish in us great freedom from disease — release us from distress.
+
+**4.34.6**  O Vāyu and Savitṛ, drive away evil-doing, drive away wasting disease and calamity to a distance; for you two unite us with vital energy, you unite us with strength — release us from distress.
+
+**4.34.7**  The most excellent blessings of the two gods have come to rest in their divine abode for us; I praise the god Savitṛ and Vāyu — release us from distress.
+
+**4.35.1**  I meditate upon the Maruts; let them speak on my behalf; as victors in contest of strength, may they bring forth abundant nourishment; I call them, as well-controlled swift steeds, for our aid — may they release us from distress.
+
+**4.35.2**  Who ever draw upon the inexhaustible spring, or who pour vital sap into the herbs — I set before me those Maruts, the sons of Pṛśni — may they release us from distress.
+
+**4.35.3**  O seers, you who set in motion the milk of cows, the vital sap of herbs, the swiftness of horses — may those Maruts be beneficent and gracious — may they release us from distress.
+
+**4.35.4**  Who carry waters from the ocean up to the sky, and who release them from the sky onto the earth; those Maruts who move about as lords over the waters — may they release us from distress.
+
+**4.35.5**  Who satiate with sweet liquors and with ghee, or who pervade the atmosphere with life-giving fat; those Maruts who, as lords, cause the rains to fall — may they release us from distress.
+
+**4.35.6**  If, O Maruts, this affliction came by the power of the Maruts, or if O gods it came from a divine source — you Vasus are the masters of its remedy — may they release us from distress.
+
+**4.35.7**  The sharp-edged face, well-known for might, the Marut host — fierce and terrible in battles — I praise, O Maruts; as one who seeks refuge I cry out to you — may they release us from distress.
+
+**4.36.1**  I meditate upon you two, O Heaven and Earth, rich in sustenance, who have extended yourselves through immeasurable distances; for you two have become the firm foundation of all treasures — release us from distress.
+
+**4.36.2**  For you two have become the firm foundation of riches, you two divine goddesses, grown vast, auspicious, wide-spreading — O Heaven and Earth, be gracious to me — release us from distress.
+
+**4.36.3**  You two who sustain the flowing streams and who sustain humankind, who sustain the immortal nectar and who sustain the oblations — O Heaven and Earth, be gracious to me — release us from distress.
+
+**4.36.4**  You two who sustain the beams of sunlight and who sustain the forest trees, within whose embrace all the worlds abide — O Heaven and Earth, be gracious to me — release us from distress.
+
+**4.36.5**  You two who give satisfaction with sweet liquors and with ghee, without whom nothing whatsoever is able to exist — O Heaven and Earth, be gracious to me — release us from distress.
+
+**4.36.6**  I invoke you two, wide and deep, who cause no scorching torment but who are rich in austere power; I pay homage to you as the seers do — O Heaven and Earth, be gracious to me — release us from distress.
+
+**4.36.7**  Whatever now burns and afflicts me, by whatever means — whether it was done by human agency and not by divine — I praise Heaven and Earth; as one seeking refuge I cry out to you — release us from distress.
+
+**4.37.1**  I invoke you two, O Bhava and Śarva — take cognizance of that which is your due. You two between whom all this that exists is spread out, who have lordship over the two-footed and the four-footed of this world — release us from sin.
+
+**4.37.2**  You two whose realm is the nearby road and also whatever is far off, you two who are known as the most powerful among arrow-bearers — be gracious to me, O Bhava and Śarva; release us from sin.
+
+**4.37.3**  From whose stroke nothing whatsoever escapes, whether among the gods or among human beings — be gracious to me, O Bhava and Śarva; release us from sin.
+
+**4.37.4**  You two who, both fierce, undertake manifold tasks at once, and who have let loose your sovereignty overwhelming among peoples — be gracious to me, O Bhava and Śarva; release us from sin.
+
+**4.37.5**  I call upon you two, the thousand-eyed, the slayers of Vṛtra, whose missiles fly far, who roar like the humming of a wheel, fierce ones — be gracious to me, O Bhava and Śarva; release us from sin.
+
+**4.37.6**  He who is a maker of sorcery, a demon (yātudhāna), a great deceiver — upon such a one hurl down the thunderbolt, O fierce ones — be gracious to me, O Bhava and Śarva; release us from sin.
+
+**4.37.7**  Speak over me in the battles, O fierce ones; loose the thunderbolt upon whoever is the reviler. I praise you, O Bhava and Śarva, as one seeking refuge I call upon you loudly — release us from sin.
+
+**4.38.1**  I invoke you two, O Mitra and Varuṇa, increaser of ṛta, of true strength, who thrust aside the one who injures; who protect Satyāvan in his invocations — release us from sin.
+
+**4.38.2**  You two of true strength who thrust aside the one who injures, who protect Satyāvan further in his invocations, who come with the human-watching, tawny-brown one to the pressed soma — release us from sin.
+
+**4.38.3**  You who protect the Aṅgirasas, you who protect Agasti, O Mitra and Varuṇa — Jamadagni and Atri; who protect Kaśyapa, who protect Vasiṣṭha — release us from sin.
+
+**4.38.4**  You who protect Bharadvāja and Vadhryaśva, Viśvāmitra, O Varuṇa and Mitra, and Kutsa; who protect Kakṣīvat and also Kaṇva — release us from sin.
+
+**4.38.5**  You who protect Śyāvāśya and who protect Gaviṣṭhira, O Mitra and Varuṇa — Purumīḍha and Atri; who protect Vimada and Saptavadhri — release us from sin.
+
+**4.38.6**  You who protect Medhātithi and who protect Triśoka, O Mitra and Varuṇa, and the sage Uśanas; who protect Mudgala and Gotama — release us from sin.
+
+**4.38.7**  The chariot of you two whose path is truth and whose reins are straight overtakes and corrupts the one who walks in falsehood. I praise you, O Mitra and Varuṇa, as one seeking refuge I call upon you loudly — release us from sin.
+
+**4.39.1**  I invoke Indra, of whom they have ever taken thought, to whom the praises of the Vṛtra-slayer have come near and established themselves — he who, for the pious worshipper of right conduct, comes to the invocation — may he release us from sin.
+
+**4.39.2**  He who fills up the tribes with abundance, the bull, the finder of heavenly light, whose pressing-stones ring out in heroic might; whose sacrifice with seven officiants pours forth exhilaration — may he release us from sin.
+
+**4.39.3**  He who is the mighty-armed one, the mantric power among the fierce, who has overcome the strength of the Dānavas; by whom the rivers were won, by whom the cows were won — may he release us from sin.
+
+**4.39.4**  For whom the barren cows, the bulls, the young bulls are measured out; for whom, the finder of the heavenly world, the resonant hymns are measured; for whom the bright soma flows, adorned with sacred prayer — may he release us from sin.
+
+**4.39.5**  Whose favor the soma-pressers desire, whom they invoke, he who is armed with arrows in the battle for cattle; in whom the hymn of praise resides, in whom vital force abides — may he release us from sin.
+
+**4.39.6**  He who was born foremost for the accomplishment of mighty deeds, whose heroic power was awakened as that of the first one; by whom the thunderbolt was lifted to strike against the serpent Ahi — may he release us from sin.
+
+**4.39.7**  He who leads armies together into combat, the sovereign one, who joins together the two kinds of prosperity; I praise Indra, as one seeking refuge I call upon him loudly — may he release us from sin.
+
+**4.40.1**  I drive away the calves for good fortune; I bind them to the tether-rope for good fortune. The first-offering, the oblation of the Brahmaṇas — over that Kaśyapa has kept vigil.
+
+**4.40.2**  Leading the calf forward by the foreleg, milking the cow into the vessel, he spoke: "May Kaśyapa make the oblation free from harm, auspicious for the Brahmaṇas."
+
+**4.40.3**  Three stand firm in the world of the well-performed rite; three shine forth beyond; these have three heads. Three stand firmly grasping the water-pot, so that the oblation, O Kaśyapa, may not go amiss.
+
+**4.40.4**  Born from truth, he speaks while scattering the rice-grains into the milk. May Kaśyapa the seer announce the first-offering to the Brahmaṇas.
+
+**4.40.5**  At the opening of the season, Candrabhāga lifted the rice-dish out of the vessel. May the Brahmaṇas partake of the oblation, even as Kaśyapa does so in accordance with the Veda.
+
+**4.40.6**  Those who brought the beings into creation, those who arranged the beings in order — Kaśyapa, the adhvaryu who knows all things, may he be the master of the six.
+
+**4.40.7**  Auspicious be the waters for the calves; auspicious may the herbs be. Auspicious be the wind for the calves, auspicious Kaśyapa; may the sun shine with beneficence.
