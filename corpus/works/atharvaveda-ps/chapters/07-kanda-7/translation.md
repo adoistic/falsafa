@@ -1,0 +1,401 @@
+**7.1.1**  The eagle found you out; the boar dug you up with his snout. O herb that harms the harmer — you who would harm us — burn back the maker of the sorcery.
+
+**7.1.2**  Burn back the sorcerers, burn back the maker of the sorcery. And whoever seeks to harm us — him, too, do you strike down, O herb.
+
+**7.1.3**  O Agni, crusher of armies, overpower the armies. We carry the sorcery back to the sorcerer by means of this counter-charm.
+
+**7.1.4**  Straight as an arrow may it fly. Heaven and Earth — let them press it out. May the sorcery, thus fashioned, pierce its maker as an arrow pierces a beast.
+
+**7.1.5**  Let evil befall the evil-doer; let curses befall the curser. We send them back, forward and straight — let them find the one who fashioned them.
+
+**7.1.6**  "He who has sorcery done to him" — this is the single verse.
+
+**7.1.7**  Seizing the sorcery by the hand, carry it back again to the sorcerer. We place it full in his presence, that it may slay the sorcery's maker.
+
+**7.1.8**  Go to him as a son to his father; cling and bite as a serpent coiled around its prey. Come unwinding like a thread, O sorcery fashioned — strike the sorcery's maker.
+
+**7.1.9**  As a doe leaps up into the water, as a female deer leaps forth — so may the sorcery find its maker.
+
+**7.1.10**  Measuring around like the hide of a spotted deer, encircling the skin — fasten the sorcery back around the necks of those with evil hearts who performed it.
+
+**7.1.11**  Whether you, O sorcery, were fashioned by gods or were born of men — we send you back with this counter-formula directed against the source.
+
+**7.1.12**  Whether a woman or a man performed the sorcery for the sake of harm — we lead it back to that one, as a mare-tether leads a horse.
+
+**7.2.1**  Heaven and Earth have been invoked for me; the divine Sarasvatī has been invoked. Both Indra and Agni have been invoked for me — may they crush this worm.
+
+**7.2.2**  O Indra, O Lord of Wealth, slay the worm of this boy. Slain are all adversaries by this utterance of mine.
+
+**7.2.3**  The one that creeps around the eyes, the one that creeps around the nostrils, the one that goes into the middle of the teeth — that worm we crush.
+
+**7.2.4**  Two of unlike form, two of like form, two black ones, two reddish ones; the tawny one and the tawny-eared one; vultures and crows — these are slain.
+
+**7.2.5**  The worms that have white armpits, those that are black with white arms, and whatever they are of all various forms — those worms we crush.
+
+**7.2.6**  The worm that is two-headed and four-eyed, the speckled one, the white one — I shatter its ribs and I cut off its head.
+
+**7.2.7**  That sun has risen, visible to all, the slayer of the unseen. Striking those that are seen and those unseen, crushing all worms altogether.
+
+**7.2.8**  The yevāṣas, the kaṣkaṣas, the dhrūkṣṇas, the śipavitnus — let the worm that is seen be slain, and let the worm that is unseen be slain as well.
+
+**7.2.9**  Slain is the yevāṣa, slain the śipavit, slain likewise the gaṅgaṇi. Slain are all adversaries by my fierce utterance.
+
+**7.2.10**  Of all worms, male and female alike — I split the head with a stone, I burn the mouth with fire.
+
+**7.3.1**  With your sharp flames, O Agni, with your bright blazing light, O god — carry away the raw-flesh eater; make him settle his mouth elsewhere.
+
+**7.3.2**  With your blazing light and your flame, O Agni, burn out the evil-doer. Let the two of us forge a friendship, and may the raw-flesh eater be at peace — elsewhere.
+
+**7.3.3**  We lead forth the raw-flesh eater, we lead forth the carrion eater from the houses. Those gods called the grain-eaters, O Agni — may they not harm you.
+
+**7.3.4**  The raw-flesh eater and the carrion eater and the grain-eater — both kinds together — those who have made offspring their share, them we lead forth from here.
+
+**7.3.5**  Those who take pleasure in raw things, who have not stooped to the cooked — let all of them gather together and go hence, the evil-doers, to another place.
+
+**7.3.6**  He who is sinful, a doer of evil deeds, he whose success is made of transgression — may the gods worthy of sacrifice lead them back whence they have come.
+
+**7.3.7**  Wash away the dust, wash away the impurity; cleanse the filth belonging to the elephant. May Dhātṛ lead us with good fortune; may he protect our offspring.
+
+**7.3.8**  I make of Heaven and Earth my armor; may we be in the impulsion of Savitṛ. May Earth, our mother, with good fortune, and Heaven protect us from distress.
+
+**7.3.9**  Whatever evil things belonging to the Asuras have approached us on those days — may the milk of the gods and these divine waters cleanse me.
+
+**7.3.10**  I come to your grace, O father of the Maruts; keep us not away from the sight of the Sun. May the hero prevail for us in the contests of steeds; may we propagate, O Rudra, with offspring.
+
+**7.3.11**  He who slays the unborn, he who is within the womb, he who slays the man already born or yet to be born — may I prosper against him today with oblation; may he grant us offspring that lives to old age.
+
+**7.4.1**  Indra's two arms — sturdy, bull-powerful, these two wondrous bulls that carry across — I shall yoke them first when the time of yoking arrives, those two by which the heavenly light of the asuras was won.
+
+**7.4.2**  Swift, being whetted, terrible as a bull, crusher of crushers, shaker of the peoples — the Saṃkrandana, unwinking, sole hero: may Indra conquer a hundred armies together.
+
+**7.4.3**  With the Saṃkrandana, with the unwinking, with the victorious, with the irresistible, with the hard-to-dislodge, with the bold — conquer through Indra; hold firm together, O men of battle, through the rain-bull who holds the arrow in hand.
+
+**7.4.4**  He, the subduer, with arrow-wielders, with quiver-bearers, Indra who enters battle joined with his troop — victor in close combat, soma-drinker, bold-armed, bow-upraised: may he shoot with fitted arrows.
+
+**7.4.5**  Distinguished by strength, ancient, foremost warrior, enduring, prize-winning, bearing-down, fierce — hero-against-hero, who overwhelms fighters, victor through might — mount the chariot for conquest, O Indra, the cow-finder.
+
+**7.4.6**  Exult after this fierce hero; O battle-men, rally together after Indra — the village-conquerer, cattle-conquerer, bolt-armed, conquering in his onrush, crushing with might.
+
+**7.4.7**  Plunging into the cattle-herds with force, taking them away unstopped, the fierce, hundred-thoughted Indra — hard to dislodge, battle-overwhelming, irresistible — may he protect our army, driving them forward in combat.
+
+**7.4.8**  O Bṛhaspati, wheel around with your chariot, repelling demons and foes — breaking enemies, crushing adversaries: be our protector of bodies.
+
+**7.4.9**  Indra is their leader, Bṛhaspati the sacrificial fee, let the sacrifice go before, let Soma advance first — may the Maruts march in the midst of the divine armies that overwhelm, that are victorious.
+
+**7.4.10**  Of Indra the bull, of Varuṇa the king, of the Ādityans, of the fierce host of the Maruts — of the great-minded, the world-shaking — the battle-roar of the gods has risen to victory.
+
+**7.4.11**  Indra is ours at the clashing of banners; may our arrows be victorious; may our heroes be uppermost; may the gods protect us at our callings.
+
+**7.5.1**  From Vaiśvānara there shone forth, newborn, the golden amulet. Bṛhaspati brought it, Kaśyapa brought it, for power indeed.
+
+**7.5.2**  Bṛhaspati fashioned that amulet as Vaiśvānara's might. The Seven Seers, increasers of life, have bestowed you for strength.
+
+**7.5.3**  All the gods and the Seven Seers have together bestowed your virile power. You were born as a golden amulet from Agni Vaiśvānara.
+
+**7.5.4**  The aśvattha tree was born first, the dearest body of Agni — by the creative power of Vaiśvānara this amulet was made the neutralizer of kṛtyā.
+
+**7.5.5**  I know you as kṛtyā-neutralizer; I carry you as kṛtyā-neutralizer; I make you the kṛtyā-neutralizer, the kṛtyā-neutralizer that sustains life.
+
+**7.5.6**  The winged one, the feathered, the powerful kṛtyā-neutralizer, the rival-slayer — the broadly extended, all-healing, fierce, suddenly-striking amulet.
+
+**7.5.7**  The winged one is for your strength; the broadly extended one for your healing. May the golden amulet, newborn, drive away the demons.
+
+**7.5.8**  The divine amulet, rival-slayer, demon-killer, disease-chaser — of golden womb, full of rays: the might brought by Kaśyapa.
+
+**7.5.9**  They call the Vaiśvānara one a sharpener, born from the womb of Agni together with the Moon — the prosperer of households, the one that carries across, the sustainer of life; you are a fierce kṛtyā-neutralizer, you who smash the valagaha.
+
+**7.5.10**  Whoever's footprint is impressed upon this dusty earth — cleansing away whatever bodily taint is his, bathe upon his body.
+
+**7.5.11**  We, deserving of the smiting, carry you at the impulsion of divine Savitṛ — for living, for our great unharmed state.
+
+**7.5.12**  The cutting-through, the piercing-through, the scorcher of the enemy — this amulet: the enemy-conquering rival-slayer. May it drive away the one who hates.
+
+**7.6.1**  The pillar of truth upheld the earth; through cosmic order the gods found immortality. With the firm oblation I uphold you — may Heaven and Earth acclaim that.
+
+**7.6.2**  With those oblations by which Viśvakarman upheld this earth, our mother — with those oblations I uphold you here. May the oblations follow upon cosmic order and truth.
+
+**7.6.3**  Be established here on the foundation of earth, in the lap of the willing, auspicious mother — undriven-away, rejoicing in greatness: in this dwelling may you be blessed with good offspring.
+
+**7.6.4**  Blessed with good offspring, rejoicing in greatness, rest above on the summit of the earth. May the gods grant shelter to this house; may the earth fill it with streams.
+
+**7.6.5**  May we, with unharmed heroes, approach together this house, the best of good things. May her roof-posts be firm; may the house-dwellers be steadfast and heroic.
+
+**7.6.6**  May Savitṛ, Vāyu, Indra, Bṛhaspati wisely establish this house. May the Maruts sprinkle it with water and ghee; may Bhaga our king establish prosperity.
+
+**7.6.7**  O wife of the house-master, take pleasure in the oblation, of him whose end is keen and whose middle is copious. May a young child cry out to you, may a boy cry out, may the milk-cows with their perpetual calves cry out.
+
+**7.6.8**  May your posts be firm, firmly planted in the earth; may your roof-beams be firm, O divine house. Be one with steadfast heroes and no enemies; grant us shelter for two-footed and four-footed.
+
+**7.6.9**  The divine house is fitted for the householder's fire; clothed in grass, well-pleasing to the world. O wife of the house-master, may the heroes approach you with steadfast limbs, steadfast people, and steadfast dwelling.
+
+**7.6.10**  O Lord of the Dwelling, recognize us; be one of easy entry and free from sickness. What we pray to you for — take delight in that for us; let the four-footed and two-footed settle here.
+
+**7.7.1**  Darbha, foremost of plants, was born with a hundred stalks; that one of a thousand powers shall guard us on every side.
+
+**7.7.2**  Just as Darbha, being born, splits open the skin of the earth, so let that person be split asunder who plots evil against us.
+
+**7.7.3**  We drive away the disease-carrier, we drive away the sorcery, we drive away the Rakṣas with the ever-flowing stream; we chase off all afflictions and all sorcerous fiends.
+
+**7.7.4**  There is indeed a low-lying place and a high-lying place; not everything floats freely upon the stream. You, O Darbha, are the corrupter of that one who plots evil against us.
+
+**7.7.5**  At evening round about, at morning round about, at midday round about — Darbha, whose golden hand strikes down the foe, shall guard us round on every side.
+
+**7.7.6**  Born on the mountain, you have won the heavenly light together with the tawny Soma. Spare not the workers of evil; let no ignorant person come to harm.
+
+**7.7.7**  With its root stretched down from heaven and set firm in the earth — Darbha of a thousand powers shall guard us on every side.
+
+**7.7.8**  Thousand-stalked, mighty, sharp-twigged, withstanding poison — with Darbha we burn away all Rakṣases and all afflictions.
+
+**7.7.9**  Burned away is the evil dream; burned away are the ill-wishers and all the sorcerous fiends.
+
+**7.7.10**  Let the sorcerous fiends not afflict you; let not the tawny bird swoop down upon you. Darbha, the sea-born king, shall guard us on every side.
+
+**7.8.1**  He who speaks an ill word against us, voicelessly muttering an evil utterance — that curse, unable to reach us, shall depart from us on every side.
+
+**7.8.2**  Whatever a stranger curses upon us, whatever a rival curses, or a mother-in-law, or a father-in-law — we drive away those mighty curses with barley.
+
+**7.8.3**  Whatever curses are heaped together, taking effect through speech that is unworthy of its season — you, bearing barley in your two arms, ward those off beforehand.
+
+**7.8.4**  Straight-haired, tawny Yava, munificent one worthy of our joy — golden-bowed, let him approach and deal with the curses.
+
+**7.8.5**  When Indra drank you, Śakra the Vāsava slew Vṛtra; he who bears poison like a bull — O Yava, overcome the curses.
+
+**7.8.6**  Let the curses roam far away, held off from here; let all their tongues that have been uttered become powerless. From the naming of names, from the anger of speech, from the glance of the evil-eyed — we make shelter and armor for you.
+
+**7.8.7**  Let the curses go backward, shot by that ill-intentioned person — he who would harm us, though we live by our own innocence.
+
+**7.8.8**  May he guard me round from the curse, from untruth, and from wrong; may Yava guard me round from the declaration of the mighty one — let me not be harmed.
+
+**7.8.9**  Neither to be brought low by curses nor to be pierced through — I release for you the great armor that is Yava.
+
+**7.8.10**  As winged birds, as flying creatures, enter back into him — let the curses return to the one who cursed.
+
+**7.9.1**  Grant to us, O Arāti; do not stand around us; do not guard from us the dakṣiṇā that we are begging. Let Savitṛ and the giver extend to us — we make obeisance to craving and to non-prosperity.
+
+**7.9.2**  The person whom, O Arāti, you place in front as one who despoils all around — we make obeisance to you on his account; do not confound the acquisition belonging to me.
+
+**7.9.3**  He whom today we harness with mind and with heart — O Arāti, do not thwart him for us, him who is willing to give, O all-despoiling one.
+
+**7.9.4**  May the god-wrought acquisition prosper for us by day and by night. We follow after Arāti — obeisance be to Arāti.
+
+**7.9.5**  And you, naked and roaming as one who brings sleep, you pursue people — O Arāti, thwarting the mind and the intention of a person.
+
+**7.9.6**  Go far away, O Non-prosperer; we deflect your weapon. Pursue him whom we hate — appear as a maiden, garlanded and wearing golden ornaments.
+
+**7.9.7**  Obeisance be to you, O Non-prosperer; do not place me in front. I know you, O Arāti — winking, goading, denouncing mortals above other mortals.
+
+**7.9.8**  Do not thwart our acquisition, do not thwart our speech; let the mighty pair Indra and Agni apportion goods to us. May all who are willing to give today be pleased to resist Arāti.
+
+**7.9.9**  Going our way, we call upon Savitṛ, Anumati, and Bhaga. May I speak a well-beloved, honeyed speech in the divine invocations of the gods.
+
+**7.9.10**  That which I beg with the tongue of the mongoose and with lips as its lid — may Śraddhā find that today, given by the tawny Soma.
+
+**7.10.1**  Let the god Kuṣṭha, the protector, come hither from beyond the Himavat, destroying all fever and all sorcery-born afflictions.
+
+**7.10.2**  Three are thy names, O Kuṣṭha: Naghamāra, Naghāriṣa, Naghāyus — may no man of this sort come to harm. On behalf of him for whom I proclaim thee, evening and morning, and also by day.
+
+**7.10.3**  Jīvalā by name is thy mother, Jīvanta by name is thy father, Māriṣā by name is thy sister — [and so may no man perish].
+
+**7.10.4**  Thou art the highest among plants, as the bull among cattle, as the tiger among beasts of prey — may no man of this sort come to harm, on behalf of him for whom I proclaim thee, evening and morning, and also by day.
+
+**7.10.5**  Born thrice from the Śāmbu-spirits of the mountains, thrice from the Ādityas, thrice born from the Viśvedevas — that Kuṣṭha, the universal remedy, stands together with Soma, destroying all fever and all sorcery-born afflictions.
+
+**7.10.6**  The aśvattha tree is the seat of the gods in the third heaven from here; there is the fount of the immortal nectar — from there Kuṣṭha was born. He [is the universal remedy].
+
+**7.10.7**  A golden boat, bound with golden mooring-ropes, coursed through the sky [bearing Kuṣṭha thence].
+
+**7.10.8**  Where the boat alights, where is the summit of the Himavat — there is the fount of the immortal nectar; from there Kuṣṭha was born. That Kuṣṭha, the universal remedy, stands together with Soma, destroying all fever and all sorcery-born afflictions.
+
+**7.10.9**  Thee whom the ancient Aikṣvāka knew, thee whom the Kāśya knew, O Kuṣṭha, whom the Śāvasa knew, whom the Mātsya knew — by that [knowledge] thou art the universal remedy.
+
+**7.10.10**  The headache, the tertian fever, the sadandir, and whatever is the annual fever — drive away downward the takman of every variety, of all-pervading power.
+
+**7.11.1**  The mountains whose backs are Soma, the waters that lie spread open, the wind, Parjanya, and Agni — they have appeased the flesh-devouring demon.
+
+**7.11.2**  That which strikes down whatever moves or is still, whatever is about to rise up, whatever creeps, and the ten-month embryo — that we drive away from here.
+
+**7.11.3**  If the Apsarasas strike, if the Gandharvas of the household strike, the flesh-devourers, the foolish-deity-followers — those we drive away from here.
+
+**7.11.4**  That which mounts thy thighs, lapping thy blood — the raw-flesh-eating, flesh-devouring enemies — those we drive away from here.
+
+**7.11.5**  That which causes thy hips to fail, which lies between husband and wife at rest, that which licks within the womb — that we drive away from here.
+
+**7.11.6**  That which, having bewildered thee with the darkness of sleep, falls upon thee, that which desires to devour thy progeny — that [we drive away from here].
+
+**7.11.7**  That which, assuming the likeness of thy husband, falls upon thee as a lover — that niggard, that blind wretched sinner — that we drive away from here.
+
+**7.11.8**  Ha, hai! O crooked one, O bald one, O hidden-eared one, O great-snouted one — with the sharp weapon of Indra we destroy thee.
+
+**7.11.9**  Homage to Taṇḍa, homage to Kusuma, homage to Pratipāva, homage to Kaḥsvadhaya; homage to thee, O Nirṛti, all-desirable one — may she of all forms nourish this man to old age.
+
+**7.11.10**  As far as the sky extends, as far as the earth, as far as the sun courses round — for that long, O fierce Gulgulu, guard me on all sides from every quarter.
+
+**7.12.1**  We address the Pāṭā plant, sole queen, of single vow, dwelling in one place, of single mark — the expeller of rivals — for the sake of victory.
+
+**7.12.2**  O Pāṭā, sole queen, of single vow, dwelling in one place, of single mark — neither the rival wife born of the mountain nor the one from outside has overcome thee.
+
+**7.12.3**  I am higher than those above, I rise above those below; may my rival wife sink downward, lower than those who are lowest.
+
+**7.12.4**  The sun does not wither the skin of the Saindhava flower; with thee, O Pāṭā, who dost not fade, I take the radiance from my rival wife.
+
+**7.12.5**  Not merely Pāṭā art thou, O Pāṭā — thou art the maker of good fortune; place the boon of Bhaga upon us, O Pāṭā, and moreover make me the chief wife.
+
+**7.12.6**  Inasmuch as thou, O Pāṭā, dost exalt thyself upon the tree, wave-borne by the wind, standing forward in victory, thy name is indeed Saṃjayā — the all-conquering one.
+
+**7.12.7**  Speak forth with loud voice to the Pāṭā, whose leaves face upward, the auspicious, the overwhelming, the powerful — the expeller of rivals.
+
+**7.12.8**  Indra spread out the Pāṭā for the purpose of smiting the Asuras; with her may I overcome my rival wife, as great Indra overcame the Dānavas.
+
+**7.12.9**  Pāṭā bears a golden goad, hook-tipped; with it I strip away the radiance of my rival wife, so that it may be mine.
+
+**7.12.10**  I dig up this plant, the most powerful of creeping herbs, by which one represses the rival wife and makes the husband hers alone.
+
+**7.13.1**  Of those whose howling from afar we hear, moving separately like the wind — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.2**  Those who roam in front together with the rays of the sun — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.3**  Those who follow the wind through the mid-air below the sky — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.4**  Those whose golden swing is fastened in heaven, in the mid-air — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.5**  Those who dance along the golden couches in the mid-air — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.6**  Those who fly on wind-chariots, supine, striking with their feet — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.7**  Those who creep about a tree, with sidelong eyes, chattering and clamorous — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.8**  Those who assemble at the crossroads, disheveled, dwelling amid rags — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.9**  Those whose golden home is secretly hidden in sandbank pools — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.10**  Those who mount upon elevated places like kinswomen with lotus-flowers — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.11**  Those who plunge headlong into rivers, clinging together like maidens — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.12**  Those who wade into fords, hissing like inviolable cows — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.13**  Those who rise up out of the ocean, uttering loud cries, chattering and clamorous — of those dog-companied ones, Indra has cut off the head.
+
+**7.13.14**  Those who go from person to person desiring many by the myriad — of those dog-companied ones, Indra has cut off the head.
+
+**7.14.1**  Agni is long-lived; long-lived is he together with the forest-trees. May he make me long-lived and make this one long-lived.
+
+**7.14.2**  Vāyu is long-lived; long-lived is he together with the mid-air. May he make me long-lived and make this one long-lived.
+
+**7.14.3**  Sūrya is long-lived; long-lived is he together with the sky. May he make me long-lived and make this one long-lived.
+
+**7.14.4**  Candra is long-lived; long-lived is he together with the asterisms. May he make me long-lived and make this one long-lived.
+
+**7.14.5**  Soma is long-lived; long-lived is he together with the plants. May he make me long-lived and make this one long-lived.
+
+**7.14.6**  The sacrifice is long-lived; long-lived is it together with the sacrificial fees. May it make me long-lived and make this one long-lived.
+
+**7.14.7**  The ocean is long-lived; long-lived is it together with the rivers. May it make me long-lived and make this one long-lived.
+
+**7.14.8**  Brahman is replete with long life; long-lived is it together with brahma-students. May it make me replete with long life and make this one long-lived.
+
+**7.14.9**  Indra is long-lived; long-lived is he together with heroic power. May he make me long-lived and make this one long-lived.
+
+**7.14.10**  The gods are long-lived; long-lived are they together with immortality. May they make me long-lived and make this one long-lived.
+
+**7.14.11**  Prajāpati is long-lived; long-lived is he together with progeny. May he make me long-lived and make this one long-lived.
+
+**7.15.1**  May the sacrificial gift (dakṣiṇā) protect me from the right; may the dakṣiṇā protect me from the left. May it protect me from behind, from whatever shaft the world may discharge.
+
+**7.15.2**  O Paśupati, lord of cattle, having given two-footed and four-footed animals, giving the dakṣiṇā that possesses the very self, giving life-breath — breathe on!
+
+**7.15.3**  The dakṣiṇā that you, with faith, give on behalf of a brahmin — may that carry you across from disease (yakṣman), from the scorching heat of fire, from the grief of divine affliction.
+
+**7.15.4**  You give this dakṣiṇā; may it not be raw for you. We pluck out for you the sharp diseases, the yakṣman. Knocking down the ear-ache and all hostilities, may all diseases withdraw together.
+
+**7.15.5**  With food one wins life-breath; with clothing one wards off disease (yakṣman). One who gives gold, a horse, a cow makes of the dakṣiṇā an armor.
+
+**7.15.6**  A turban given as dakṣiṇā — may it protect you from head-ailment; a garment — from bodily disease; a shining bright gold ornament given as dakṣiṇā — from blindness of the eye, from affliction of the ear, from deafness.
+
+**7.15.7**  A pillow given as dakṣiṇā — may it protect you from neck-ailments; beads from the flesh-eating yakṣman; an ointment from disease of the limbs; food from internal intestinal disease.
+
+**7.15.8**  Sandals given as dakṣiṇā — may they protect the ailing foot from disease of the foot from below the sole. A staff given as dakṣiṇā — may it protect you on all sides from the serpent, as you go forth to the south, on the right.
+
+**7.15.9**  Presenting the dakṣiṇā with good-will, receiving together the dakṣiṇā as food and strength, we turn to the stream of Bhaga for our protection.
+
+**7.15.10**  Of a thousand limbs, a hundred are the lights of this sacrifice; the dakṣiṇā is its fulfiller, immortal, celestial. May the all-formed dakṣiṇā come to us; we receive her as one who brings no harm.
+
+**7.16.1**  May Agni with the Vasus guard me from the east. Upon that I step forward; upon that I rest; into that stronghold I enter. May he protect me, may he keep me safe; to him I surrender myself — svāhā!
+
+**7.16.2**  May Vāyu together with the Atmosphere guard me from that direction. Upon that I step forward; upon that I rest; into that stronghold I enter. May he protect me, may he keep me safe; to him I surrender myself — svāhā!
+
+**7.16.3**  May Soma with the Rudras guard me from the southern direction. Upon that I step forward; upon that I rest; into that stronghold I enter. May he protect me, may he keep me safe; to him I surrender myself — svāhā!
+
+**7.16.4**  May Varuṇa with the Ādityas guard me from that direction. Upon that I step forward; upon that I rest; into that stronghold I enter. May he protect me, may he keep me safe; to him I surrender myself — svāhā!
+
+**7.16.5**  May Sūrya together with Heaven-and-Earth guard me from the western direction. Upon that I step forward; upon that I rest; into that stronghold I enter. May he protect me, may he keep me safe; to him I surrender myself — svāhā!
+
+**7.16.6**  May the Waters rich in healing herbs guard me from that direction. Upon them I step forward; upon them I rest; into that stronghold I enter. May they protect me, may they keep me safe; to them I surrender myself — svāhā!
+
+**7.16.7**  May Viśvakarmā with the Seven Seers guard me from the northern direction. Upon that I step forward; upon that I rest; into that stronghold I enter. May he protect me, may he keep me safe; to him I surrender myself — svāhā!
+
+**7.16.8**  May Indra, attended by the Maruts, guard me from that direction. Upon that I step forward; upon that I rest; into that stronghold I enter. May he protect me, may he keep me safe; to him I surrender myself — svāhā!
+
+**7.16.9**  May Prajāpati, endowed with procreative power together with the steadfast ground, guard me from the fixed (nadir) direction. Upon that I step forward; upon that I rest; into that stronghold I enter. May he protect me, may he keep me safe; to him I surrender myself — svāhā!
+
+**7.16.10**  May Bṛhaspati with all the gods guard me from the upward direction. Upon that I step forward; upon that I rest; into that stronghold I enter. May he protect me, may he keep me safe; to him I surrender myself — svāhā!
+
+**7.17.1**  May those who are malicious towards you and would assail you from the eastern direction reach Agni together with the Vasus.
+
+**7.17.2**  May those who are malicious towards you and would assail you from that direction reach Vāyu together with the Atmosphere.
+
+**7.17.3**  May those who are malicious towards you and would assail you from the southern direction reach Soma together with the Rudras.
+
+**7.17.4**  May those who are malicious towards you and would assail you from that direction reach Varuṇa together with the Ādityas.
+
+**7.17.5**  May those who are malicious towards you and would assail you from the western direction reach Sūrya together with Heaven-and-Earth.
+
+**7.17.6**  May those who are malicious towards you and would assail you from that direction reach the Waters rich in healing herbs.
+
+**7.17.7**  May those who are malicious towards you and would assail you from the northern direction reach Viśvakarmān together with the Seven Seers.
+
+**7.17.8**  May those who are malicious towards you and would assail you from that direction reach Indra together with the Maruts.
+
+**7.17.9**  May those who are malicious towards you and would assail you from the fixed (nadir) direction reach Prajāpati endowed with procreative power.
+
+**7.17.10**  May those who are malicious towards you and would assail you from the upward direction reach Bṛhaspati together with all the gods.
+
+**7.18.1**  With vaikaṅkata wood as kindling, carry the clarified butter to the gods. O Agni, gladden them here; may they all come to my call.
+
+**7.18.2**  O Indra, come to my call; hear what I am about to do. May these ati-sara charms consecrated to Indra bend their intentions toward me. Through them may we achieve heroic power, O Jātavedas, O master of bodies.
+
+**7.18.3**  Whatever that impious one over there, O gods, is plotting to do — may Agni not carry his oblation; may the gods not go to his call. Come instead to my call alone.
+
+**7.18.4**  Run forward, O ati-sara charms, you who are lords of all strength. Cut down that one's life-force, together with Indra as your ally.
+
+**7.18.5**  Having surged forward, O ati-sara charms, strike him with Indra's might. Crush him as a wolf crushes a sheep. From that point let him not be released alive; bind tight the breath of this one.
+
+**7.18.6**  Whatever counter-charms (pratisara) that man has made or may yet make — turn them back against himself, O Indra, slayer of Vṛtra, so that he may be crushed, that man.
+
+**7.18.7**  That brahmin whom those men have installed in front for their own support — him I deliver beneath the foot of Indra for Death; let the flesh-eating one silence him.
+
+**7.18.8**  If, having gone before, they have fashioned divine strongholds as armor, have fashioned body-guards and all-round protective shields — render all of that powerless.
+
+**7.18.9**  Here, O Indra, slayer of Vṛtra, pierce him fiercely in his vital spot. Here indeed stand over him, O Śakra; I am your ally. We take hold of you, O Indra; may we be in your good grace.
+
+**7.18.10**  Just as Indra, having obtained the formal utterance, placed him beneath his foot — so I make that one inferior for all ages to come.
+
+**7.19.1**  By birth thou art of the Āṅgirasa lineage — so they call thee, O lord of the forest. Do thou, the Pīlu tree, drive off the rākṣasas together with Indra the ally.
+
+**7.19.2**  Drive away the rākṣasas, drive away those that prowl about; O Pīlu, drive away the piśācas, the flesh-devouring, the ill-omened ones.
+
+**7.19.3**  She of whom they speak — whose fruit-cluster is bitter, pungent, and hidden away — to that golden-haired one, Arāti, we pay homage.
+
+**7.19.4**  She who, vast and of great measure, has pervaded all the quarters of space — to that golden-haired one, Arāti, we pay homage.
+
+**7.19.5**  Whoever licks at thy womb, the devourer of eggs, the corrupter of embryos — may the Pīlu tree smite from here that miserly one who would take thy son.
+
+**7.19.6**  When thou, O Pīlu of Āṅgirasa lineage, stood ripened, O lord of the forest — then they proclaimed Indra born, mighty Śakra, facing Bṛhaspati.
+
+**7.19.7**  As thou didst press back the furrow while ripening, O lord of the forest — even so, O Pīlu tree, drive off the rākṣasas together with Indra the ally.
+
+**7.19.8**  Whatever of a man's own self has been consumed by piśācas — the Pīlu tree restores it again, and he eats of thy berry.
+
+**7.19.9**  They call thee Pīlu; they call thee the fat one; they also call thee lord of the forest. All thy names are auspicious — with them do thou guard us from distress.
+
+**7.19.10**  The Pīlu — slayer of rākṣasas, slayer of Vṛtra, crusher of piśācas — born first among trees: thee I bind upon thee for long life.
