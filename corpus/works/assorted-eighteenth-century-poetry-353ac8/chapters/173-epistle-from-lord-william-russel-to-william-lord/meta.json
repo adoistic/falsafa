@@ -1,0 +1,44 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 173,
+  "chapter_title": "EPISTLE FROM LORD WILLIAM RUSSEL TO WILLIAM LORD CAVENDISH.",
+  "chapter_slug": "173-epistle-from-lord-william-russel-to-william-lord",
+  "author": "George Canning",
+  "author_slug": "george-canning",
+  "ecpa_poem_id": "o4986-w0400",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 404
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "640e7b17-38c2-5294-8c75-12cc4c41d6a6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3113,
+      "line_count": 406,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

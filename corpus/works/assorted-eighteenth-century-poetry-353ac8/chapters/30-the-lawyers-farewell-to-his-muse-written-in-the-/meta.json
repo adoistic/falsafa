@@ -1,0 +1,41 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 30,
+  "chapter_title": "The Lawyer's Farewell to his Muse. Written in the Year 1744.",
+  "chapter_slug": "30-the-lawyers-farewell-to-his-muse-written-in-the-",
+  "author": "Sir William Blackstone",
+  "author_slug": "sir-william-blackstone",
+  "ecpa_poem_id": "o5155-w0440",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 100
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "18c7eb35-9540-519f-8642-064642385c92",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 630,
+      "line_count": 102,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

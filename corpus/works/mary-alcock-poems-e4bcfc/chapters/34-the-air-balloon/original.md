@@ -1,0 +1,115 @@
+---
+work_id: "e4bcfc7e-0373-5b8b-9058-df1de5d0f1f2"
+work_slug: "mary-alcock-poems-e4bcfc"
+work_title: Poems
+author: Mary Alcock
+author_slug: "mary-alcock"
+ecpa_poem_id: "pma99-w0340"
+chapter_number: 34
+chapter_title: THE AIR BALLOON.
+chapter_slug: "34-the-air-balloon"
+variant_id: "6d148a0f-6bc0-507b-bdfc-377ee5d5986b"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 562
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - occasional poem
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - sestet (6 lines)
+rhyme_scheme: aabbcc
+syllable_pattern: 10.10.10.10.10.10
+---
+
+THE AIR BALLOON.
+
+No more of Phaeton let poets tell,
+ I care not where he drove nor where he fell;
+ No more I'll wish for fam'd Aurora's car,
+ To drive me forth, high as the morning star;
+ In Air Balloon to distant realms I go,
+ "And leave the gazing multitude below." 
+
+No more I'll hear of Venus and her doves,
+ Nor Cupid flying with the little loves;
+ Nor would I now in Juno's chariot ride
+ In princely pomp, with peacock by my side;
+ In higher state, in Air Balloon I go,
+ I'd have the gods and goddesses to know. 
+
+No more in oriental language fair
+ I'll read of Genii wafting through the air;
+ Nor longer will I seek (by Persian wrought)
+ A carpet, to transport me by a thought;
+ Enough for me in Air Balloon to go,
+ And leave th' enquiring multitude below. 
+
+No more of Pegasus (unruly steed)
+ To reach Parnassus' Mount, shall I have need;
+ Nor will I now the Muses favour court,
+ To shew me Pindus' Hill, their chief resort;
+ To these fair realms in Air Balloon I go,
+ And leave the grov'ling multitude below. 
+
+No more shall Fancy now (betwitching fair!) 
+Erect me castles, floating in the air;
+ Such vague, such feeble structures I despise,
+ I'll kick them down as I ascend the skies;
+ For higher far in Air Balloon I go,
+ And leave the wond'ring multitude below. 
+
+No longer, now, at distance need I try
+ To trace each planet with perspective eye;
+ Nor longer wish, with fairies from afar;
+ To slide me gently down on falling star;
+ For up or down with equal ease I steer,
+ And view with naked eye the splendid sphere. 
+
+Alas poor Newton! late for learning fam'd,
+ No more shall thy researches e'er be nam'd;
+ For greater Newtons now each day shall soar,
+ High up to Heaven, and new worlds explore;
+ Since swift, in Air Balloons, aloft we go,
+ And leave the stupid multitude below. 
+
+No more the terrors of the deep I fear;
+ Alike to me, if friend be far or near;
+ This sea-girt isle I distant leave behind,
+ Visit each kingdom and survey mankind;
+ For now with ease in Air Balloon I ride,
+ No more compell'd to wait for wind or tide. 
+
+Hail, happy lovers! late by distance curst,
+ (Of all the worldly tortures sure the worst)
+ No more condemn'd an absence to deplore,
+ And, sighing, breathe your vows from shore to shore;
+ For through the air, swift in Balloons ye roll,
+ "And waft yourselves from India to the pole." 
+
+In vain may party rage assail mine ear;
+ If war or peace, alike I'm free from care;
+ Should plague or pestilence infect the land,
+ The purest regions are at my command;
+ Where safe from harm, in Air Balloon I go,
+ And leave the sickly multitude below. 
+
+No more of judge or jury will I hear,
+ The laws of land extend not to the air;
+ Nor bailiff now my spirits can affright,
+ For up I mount, and soon am out of sight;
+ Thus, screen'd from justice, in Balloon I go,
+ And leave th' insolvent multitude below. 
+
+How few the worldly evils now I dread,
+ No more confin'd this narrow earth to tread:
+ Should fire, or water, spread destruction drear,
+ Or earthquake shake this sublunary sphere,
+ In Air Balloon to distant realms I fly,
+ And leave the creeping world to sink and die.

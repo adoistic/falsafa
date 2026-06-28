@@ -1,0 +1,44 @@
+{
+  "work_slug": "robert-burns-poems-a27207",
+  "work_title": "Poems",
+  "chapter_number": 38,
+  "chapter_title": "[EPITAPH] ON A CELEBRATED RULING ELDER.",
+  "chapter_slug": "38-epitaph-on-a-celebrated-ruling-elder",
+  "author": "Robert Burns",
+  "author_slug": "robert-burns",
+  "ecpa_poem_id": "cbu86-w0380",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epitaph"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 4
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e9f7eb39-2335-5e96-975c-6488d8002f59",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 31,
+      "line_count": 5,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

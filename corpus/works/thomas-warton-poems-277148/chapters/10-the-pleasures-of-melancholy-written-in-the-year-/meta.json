@@ -1,0 +1,40 @@
+{
+  "work_slug": "thomas-warton-poems-277148",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "THE PLEASURES of MELANCHOLY. Written in the Year 1745.",
+  "chapter_slug": "10-the-pleasures-of-melancholy-written-in-the-year-",
+  "author": "Thomas Warton",
+  "author_slug": "thomas-warton",
+  "ecpa_poem_id": "o5155-w0390",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 316
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dbbb4329-7939-5d35-aaa1-60203a9d3ca7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2313,
+      "line_count": 319,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

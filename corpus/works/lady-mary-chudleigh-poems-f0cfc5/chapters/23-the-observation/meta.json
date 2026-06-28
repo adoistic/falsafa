@@ -1,0 +1,35 @@
+{
+  "work_slug": "lady-mary-chudleigh-poems-f0cfc5",
+  "work_title": "Poems",
+  "chapter_number": 23,
+  "chapter_title": "The Observation.",
+  "chapter_slug": "23-the-observation",
+  "author": "Lady Mary Chudleigh",
+  "author_slug": "lady-mary-chudleigh",
+  "ecpa_poem_id": "clc03-w0230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 61
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a7f52e42-3143-585f-9e3d-0d08258cdf4d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 436,
+      "line_count": 65,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

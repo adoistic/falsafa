@@ -1,0 +1,44 @@
+{
+  "work_slug": "janet-little-poems-df0dac",
+  "work_title": "Poems",
+  "chapter_number": 31,
+  "chapter_title": "FROM SNIPE, A FAVOURITE DOG, TO HIS MASTER. May, 1791.",
+  "chapter_slug": "31-from-snipe-a-favourite-dog-to-his-master-may-179",
+  "author": "Janet Little",
+  "author_slug": "janet-little",
+  "ecpa_poem_id": "bjl92-w0310",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "beast tale"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "-+|--+|--+|--+|-/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c708d7c6-1e17-538a-b5fc-775abf07b6f0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 340,
+      "line_count": 38,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "christopher-smart-poems-d6d852",
+  "work_title": "Poems",
+  "chapter_number": 19,
+  "chapter_title": "The DECISION. BALLAD III.",
+  "chapter_slug": "19-the-decision-ballad-iii",
+  "author": "Christopher Smart",
+  "author_slug": "christopher-smart",
+  "ecpa_poem_id": "o4103-w0240",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "563b40b8-f53c-59d2-9f2b-bdbe0bd8d0d8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 145,
+      "line_count": 30,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

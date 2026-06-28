@@ -1,0 +1,41 @@
+{
+  "work_slug": "joanna-baillie-poems-dfa2df",
+  "work_title": "Poems",
+  "chapter_number": 51,
+  "chapter_title": "A SONG, (WRITTEN FOR MR. STRUTHER'S COLLECTION OF SONGS.)",
+  "chapter_slug": "51-a-song-written-for-mr-struthers-collection-of-so",
+  "author": "Joanna Baillie",
+  "author_slug": "joanna-baillie",
+  "ecpa_poem_id": "bjb18-w0510",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abbacdcd",
+    "metrical_pattern": "irregular",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1d8b5e40-14eb-5a26-8095-7d04773d9410",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 445,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

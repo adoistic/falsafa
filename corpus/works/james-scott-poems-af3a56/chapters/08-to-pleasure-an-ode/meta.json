@@ -1,0 +1,41 @@
+{
+  "work_slug": "james-scott-poems-af3a56",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "TO PLEASURE. AN ODE.",
+  "chapter_slug": "08-to-pleasure-an-ode",
+  "author": "James Scott",
+  "author_slug": "james-scott",
+  "ecpa_poem_id": "o5089-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "irregular",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 120
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4a143a74-3267-5a28-b7e5-5b9a5d0691b6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 795,
+      "line_count": 132,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

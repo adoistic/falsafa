@@ -1,0 +1,45 @@
+{
+  "work_slug": "isabella-kelly-poems-dc1cc7",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "TO THE MEMORY OF THE LATE CAPTAIN T. H. ABBOTT. RESPECTFULLY ADDRESSED TO THE OFFICERS OF THE ARTILLERY.",
+  "chapter_slug": "07-to-the-memory-of-the-late-captain-t-h-abbott-res",
+  "author": "Isabella Kelly",
+  "author_slug": "isabella-kelly",
+  "ecpa_poem_id": "pik94-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 56
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f93aebb-f9f7-54ea-b32d-4ff65285f481",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 435,
+      "line_count": 58,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

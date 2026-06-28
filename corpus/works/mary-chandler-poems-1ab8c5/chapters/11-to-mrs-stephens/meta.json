@@ -1,0 +1,45 @@
+{
+  "work_slug": "mary-chandler-poems-1ab8c5",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "To Mrs. Stephens.",
+  "chapter_slug": "11-to-mrs-stephens",
+  "author": "Mary Chandler",
+  "author_slug": "mary-chandler",
+  "ecpa_poem_id": "pmc36-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 109
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7d7ae465-f918-5eef-9cfe-c522c947f63a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 813,
+      "line_count": 110,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

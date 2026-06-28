@@ -1,0 +1,45 @@
+{
+  "work_slug": "moses-mendez-poems-097cec",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "TO MR. S. TUCKER.",
+  "chapter_slug": "04-to-mr-s-tucker",
+  "author": "Moses Mendez",
+  "author_slug": "moses-mendez",
+  "ecpa_poem_id": "o5089-w0680",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 172
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2d61acff-00df-5470-81f7-f7f271d1f881",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1383,
+      "line_count": 174,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

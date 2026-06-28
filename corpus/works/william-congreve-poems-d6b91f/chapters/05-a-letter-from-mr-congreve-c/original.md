@@ -1,0 +1,114 @@
+---
+work_id: "d6b91f4e-f7d7-5817-936b-59114b1811b5"
+work_slug: "william-congreve-poems-d6b91f"
+work_title: Poems
+author: William Congreve
+author_slug: "william-congreve"
+ecpa_poem_id: "o5295-w0010"
+chapter_number: 5
+chapter_title: "A LETTER FROM Mr. Congreve, &c."
+chapter_slug: "05-a-letter-from-mr-congreve-c"
+variant_id: "b1fc34e1-a228-5ce1-8ecb-ef7ae4b85968"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 629
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - address
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 10
+---
+
+A LETTER FROM Mr. Congreve, &c.
+
+SINCEREST Critick of my Prose, or Rhime,
+Tell how thy pleasing STOWE employs thy Time,
+Say, COBHAM, what amuses thy Retreat?
+Or Stratagems of War, or Schemes of State?
+Dost thou recal to Mind with Joy, or Grief,
+Great MALBRO's Actions? That immortal Chief,
+Whose slightest Trophy rais'd in each Campaign,
+More than suffic'd to signalize a Reign?
+Does thy remembrance rising warm thy Heart,
+With Glory past, where Thou thy self hadst Part,
+Or dost thou grieve indignant, now to see,
+The fruitless End of all thy Victory?
+To see th' Audacious Foe, so late subdu'd,
+Dispute those Terms for which so long they su'd,
+As if BRITANNIA now were sunk so low,
+To beg that Peace she wonted to bestow,
+Be far that Guilt! be never known that Shame!
+That ENGLAND shou'd retract her rightful Claim,
+Or ceasing to be dreaded and ador'd,
+Stain with her Pen the Lustre of her Sword,
+Or dost thou give the Winds a far to blow.
+Each vexing Thought, and heart-devouring Woe,
+And fix thy Mind alone on rural Scenes,
+To turn the level'd Lawns to liquid Plains,
+To raise the creeping Rills from humble Beds,
+And force the latent Springs to lift their Heads,
+On watry Columns, Capitals to rear,
+That mix their flowing Curls with upper Air.
+Or dost Thou, weary grown, these Works neglect,
+No Temples Statues, Obblisques erect,
+But catch the morning Breeze from fragrant Meads,
+Or shun the noontide Ray in wholsome Shades,
+Or slowly walk along the mazy Wood,
+To mediate on all that's wise and good,
+For Nature bountiful in thee has join'd,
+A Person pleasing with a worthy Mind,
+Not given the Form alone, but Means, and Art,
+To draw the Eye, or to allure the Heart,
+Poor were the Praise in Fortune to excel,
+Yet want the Way to use that Fortune well.
+While thus adorn'd, while thus with Virtue crown'd,
+At Home in Peace, Abroad in Arms renown'd,
+Graceful in Form, and winning in Address
+While well you think, what aptly you express,
+With Health, with Honour, with a fair Estate,
+A Table free, and eloquently neat.
+What can be added more to mortal Bliss?
+What can he want who stands possest of this?
+What can the fondest wishing Mother more
+Of Heaven attentive for her Son implore?
+And yet a Happiness remains unknown,
+Or to Philosophy reveal'd alone;
+A Precept, which unpractis'd renders vain,
+Thy flowing Hopes, and Pleasure turns to Pain.
+Shou'd Hope, and Fear thy Heart alternate tear,
+Or Love, or Hate, or Rage, or anxious Care,
+Whatever Passions may thy Mind infest,
+(Where is that Mind which Passions ne'er molest?)
+Amidst the Pangs of such intestine Strife,
+Still think the present Day, the last of Life;
+Defer not till to Morrow to be wise,
+To Morrow's Sun to thee may never rise.
+Or shou'd to Morrow chance to cheer thy Sight,
+With her enliv'ning and unlookt-for Light,
+How grateful will appear her dawning Rays!
+As Favours unexpected doubly please.
+Who thus can think and who such thoughts pursues,
+Content may keep his Life, or calmly lose;
+All Proofs of this Thou may'st thy self receive,
+When Leisure from Affairs will give thee Leave,
+Come, see thy Friend, retir'd without Regret,
+Forgetting Care, or striving to forget;
+In easy Contemplation soothing Time
+With Morals much, and now and then with Rhime,
+Not so robust in Body, as in Mind,
+And always undejected, tho' declin'd;
+Not wondering at the World's new wicked Ways,
+Compar'd with those of our Fore-fathers Days,
+For Virtue now is neither more or less,
+And Vice is only varied in the Dress;
+Believe it, Men have ever been the same,
+And all the Golden Age, is but a Dream.

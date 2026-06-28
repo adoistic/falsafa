@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-duncombe-poems-3a49f5",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "ODE to HEALTH.",
+  "chapter_slug": "03-ode-to-health",
+  "author": "John Duncombe",
+  "author_slug": "john-duncombe",
+  "ecpa_poem_id": "o5155-w0590",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aabbccdd",
+    "syllable_pattern": "8.8.8.8.8.8.10.12",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+|-+/",
+    "line_count": 56
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a1adae71-8115-50fe-9407-934bfbdebdeb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 370,
+      "line_count": 65,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

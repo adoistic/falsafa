@@ -1,0 +1,86 @@
+---
+work_id: "3bacb3ef-6179-50ff-872e-0c6374127a19"
+work_slug: "mary-matilda-betham-poems-3bacb3"
+work_title: Poems
+author: (Mary) Matilda Betham
+author_slug: "mary-matilda-betham"
+ecpa_poem_id: "bmb97-w0230"
+chapter_number: 23
+chapter_title: TO M. I.
+chapter_slug: "23-to-m-i"
+variant_id: "94259188-635b-5bd4-a025-21cfdb281ff8"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 243
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - ode
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - quatrain (4 lines)
+rhyme_scheme: abab
+syllable_pattern: 8.6.8.6
+---
+
+TO M. I. 
+
+LIGHT breezes dance along the air,
+ The sky in smiles is drest,
+ And heav'ns pure vault, serene and fair,
+ Pourtrays the cheerful breast. 
+
+Each object on this moving ball
+ Assumes a lovely hue;
+ So fair good-humour brightens all
+ That comes within her view. 
+
+Her presence glads the youthful train,
+ Reanimates the gay,
+ And, round her, by the couch of pain,
+ The light-wing'd graces play. 
+
+Her winning mien and prompt reply,
+ Can sullen pride appease;
+ And the sweet arching of her eye
+ E'en apathy must please. 
+
+To you, with whom the damsel dwells
+ A voluntary guest,
+ To you, Maria, memory tells,
+ This tribute is addrest. 
+
+The feeble strains that I bequeath,
+ With melody o'erpay;
+ And let thy lov'd piano breathe
+ A sweet responsive lay. 
+
+Although the mellow sounds will rise,
+ So distant from my ear,
+ The charmer Fancy, when she tries,
+ Can make them present here. 
+
+Can paint thee, as with raptur'd bend,
+ You hail the powers of song;
+ When the light fingers quick descend,
+ And fly the notes along:
+
+Feel the soft chord of sadness meet,
+ An echo in the soul,
+ And waking joy the strains repeat,
+ When Mirth's quick measures roll,
+
+This "mistress of the powerful spell,"
+ Can every joy impart;
+ And ah! you doubtless know too well
+ How she can wring the heart. 
+
+She rules me with despotic reign,
+ As now I say adieu;
+ And makes me feel a sort of pain,
+ As if I spoke to you.

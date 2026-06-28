@@ -1,0 +1,45 @@
+{
+  "work_slug": "amelia-opie-poems-eeda95",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "SONG.",
+  "chapter_slug": "30-song",
+  "author": "Amelia Opie",
+  "author_slug": "amelia-opie",
+  "ecpa_poem_id": "bao18-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1378d067-f78f-5844-9990-d56339715d6a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 73,
+      "line_count": 13,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

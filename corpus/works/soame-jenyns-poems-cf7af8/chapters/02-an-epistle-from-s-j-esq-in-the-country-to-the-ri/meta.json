@@ -1,0 +1,44 @@
+{
+  "work_slug": "soame-jenyns-poems-cf7af8",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "An EPISTLE from S. J. Esq; in the Country, to the Right Hon. the Lord LOVELACE in Town. Written in the Year 1735.",
+  "chapter_slug": "02-an-epistle-from-s-j-esq-in-the-country-to-the-ri",
+  "author": "Soame Jenyns",
+  "author_slug": "soame-jenyns",
+  "ecpa_poem_id": "o5154-w0230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 188
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "94230357-3e83-5841-a0cf-5c2485d09af9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1197,
+      "line_count": 190,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

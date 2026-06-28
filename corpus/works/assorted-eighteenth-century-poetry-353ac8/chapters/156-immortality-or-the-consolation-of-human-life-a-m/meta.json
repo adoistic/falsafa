@@ -1,0 +1,43 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 156,
+  "chapter_title": "IMMORTALITY: or, the Consolation of HUMAN LIFE. A MONODY.",
+  "chapter_slug": "156-immortality-or-the-consolation-of-human-life-a-m",
+  "author": "Thomas Denton",
+  "author_slug": "thomas-denton",
+  "ecpa_poem_id": "o5156-w0780",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "alexandrine"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "ten-line stanza"
+    ],
+    "rhyme": "ababcdcdee",
+    "metrical_pattern": "-+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+/          -+|-+|-+|-+|-+|-+/",
+    "line_count": 310
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f10b25a1-cee5-5e27-9d5d-0925bab93b9e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2454,
+      "line_count": 344,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

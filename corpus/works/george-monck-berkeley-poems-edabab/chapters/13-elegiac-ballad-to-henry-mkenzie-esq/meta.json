@@ -1,0 +1,46 @@
+{
+  "work_slug": "george-monck-berkeley-poems-edabab",
+  "work_title": "Poems",
+  "chapter_number": 13,
+  "chapter_title": "ELEGIAC BALLAD. TO HENRY M'KENZIE ESQ.",
+  "chapter_slug": "13-elegiac-ballad-to-henry-mkenzie-esq",
+  "author": "George Monck Berkeley",
+  "author_slug": "george-monck-berkeley",
+  "ecpa_poem_id": "o5280-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy",
+      "ballad metre",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 52
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "278e36ab-e9a5-591e-ba18-62ef71f0e903",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 347,
+      "line_count": 54,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

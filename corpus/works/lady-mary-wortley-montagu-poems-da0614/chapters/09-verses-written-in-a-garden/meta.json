@@ -1,0 +1,41 @@
+{
+  "work_slug": "lady-mary-wortley-montagu-poems-da0614",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "VERSES written in a GARDEN.",
+  "chapter_slug": "09-verses-written-in-a-garden",
+  "author": "Lady Mary Wortley Montagu",
+  "author_slug": "lady-mary-wortley-montagu",
+  "ecpa_poem_id": "o5155-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 20
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9aafc286-4dd1-57b0-acfd-bd01007c90ec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 126,
+      "line_count": 22,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

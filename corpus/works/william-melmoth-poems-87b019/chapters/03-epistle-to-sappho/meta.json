@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-melmoth-poems-87b019",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "EPISTLE TO SAPPHO.",
+  "chapter_slug": "03-epistle-to-sappho",
+  "author": "William Melmoth",
+  "author_slug": "william-melmoth",
+  "ecpa_poem_id": "o4985-w0260",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 34
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e1e3e6a8-8415-5e01-b52e-61b87ddba7fa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 273,
+      "line_count": 36,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

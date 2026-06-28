@@ -1,0 +1,45 @@
+{
+  "work_slug": "amelia-opie-poems-eeda95",
+  "work_title": "Poems",
+  "chapter_number": 36,
+  "chapter_title": "[SONG.]",
+  "chapter_slug": "36-song",
+  "author": "Amelia Opie",
+  "author_slug": "amelia-opie",
+  "ecpa_poem_id": "bao18-w0360",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "lyric",
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "11.11.11.11",
+    "metrical_pattern": "-+|--+|--+|--+/ -+|--+|--+|--+/ -+|--+|--+|--+/ -+|--+|--+|--+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a1775400-1b21-5afd-b79b-43bc757e48b6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 148,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

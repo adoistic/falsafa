@@ -1,0 +1,45 @@
+{
+  "work_slug": "mary-robinson-poems-8abf50",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "ODE to SPRING.",
+  "chapter_slug": "17-ode-to-spring",
+  "author": "Mary Robinson",
+  "author_slug": "mary-robinson",
+  "ecpa_poem_id": "pro75-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "refrain"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "ababcc",
+    "syllable_pattern": "8.8.8.8.10.10",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bd5f2a62-60b6-5b3b-bd3f-888a6912ddc4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 239,
+      "line_count": 43,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

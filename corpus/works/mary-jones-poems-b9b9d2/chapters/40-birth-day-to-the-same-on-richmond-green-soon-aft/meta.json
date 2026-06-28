@@ -1,0 +1,45 @@
+{
+  "work_slug": "mary-jones-poems-b9b9d2",
+  "work_title": "Poems",
+  "chapter_number": 40,
+  "chapter_title": "BIRTH-DAY To the same, on Richmond-Green, Soon after her being Maid of Honour to Queen CAROLINE.",
+  "chapter_slug": "40-birth-day-to-the-same-on-richmond-green-soon-aft",
+  "author": "Mary Jones",
+  "author_slug": "mary-jones",
+  "ecpa_poem_id": "pjo50-w0400",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 13
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8827e385-9da3-55d2-9159-a82d4854a035",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 115,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

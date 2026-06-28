@@ -1,0 +1,41 @@
+{
+  "work_slug": "matthew-green-poems-bcef0f",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "The GROTTO. Printed in the Year 1732, but never published.",
+  "chapter_slug": "07-the-grotto-printed-in-the-year-1732-but-never-pu",
+  "author": "Matthew Green",
+  "author_slug": "matthew-green",
+  "ecpa_poem_id": "o5156-w0640",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 254
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dfa6c053-01d5-5ca4-84ba-779a77869d46",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1558,
+      "line_count": 257,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

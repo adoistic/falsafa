@@ -1,0 +1,102 @@
+---
+work_id: "353ac83c-1a56-5075-8f90-c830a422aee4"
+work_slug: "assorted-eighteenth-century-poetry-353ac8"
+work_title: "An Assorted Collection of Eighteenth-Century Poetry"
+author: Anonymous
+author_slug: anonymous
+ecpa_poem_id: "o5156-w1190"
+chapter_number: 36
+chapter_title: ELEGY.
+chapter_slug: "36-elegy"
+variant_id: "4cbcd8a6-df16-5b38-bb1b-3842bf3a9b50"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 311
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - heroic quatrain
+  - elegy
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - quatrain (4 lines)
+rhyme_scheme: abab
+syllable_pattern: 10.10.10.10
+---
+
+ELEGY.
+
+I.
+
+AH me! that restless bliss so soon should flie!
+Still as I think my yielding maid to gain,
+And flatt'ring hope says all my joys are nigh,
+Officious jealousy renews my pain.
+
+II.
+
+When cold suspense and torturing despair,
+When pausing doubt, and anxious fear's no more,
+Some idle falshood haunts my list'ning ear,
+And wakes my heart to all it felt before.
+
+III.
+
+One treads the mazes of the puzzled dance,
+With easy step, and unaffected air,
+False rapture feigns, or rolls a meaning glance,
+To catch the open, easy-hearted fair.
+
+IV.
+
+Another boasts a more substantial claim,
+For him fair Plenty fills her golden horn,
+A thousand flocks support his haughty flame,
+A thousand acres crown'd with waving corn.
+
+V.
+
+But I nor tread the mazes of the dance
+With easy step, and unaffected air,
+Nor rapture feign, nor roll a meaning glance,
+To catch the open, easy-hearted fair.
+
+VI.
+
+I boast not Fortune's more substantial claim,
+For me nor Plenty fills her golden horn,
+Nor wealthy flocks support my humble flame,
+Nor smiling acres crown'd with waving corn.
+
+VII.
+
+Say will thy gen'rous heart for these reject
+A tender passion, and a soul sincere?
+For tho' with me you've little to expect,
+Believe me, Sylvia, you have less to fear.
+
+VIII.
+
+Come, let us tread the flow'ry paths of peace,
+'Till Fate shall seal th' irrevocable doom;
+Then soar together to yon realms of bliss,
+And leave our mingled ashes in the tomb.
+
+IX.
+
+Perhaps some tender sympathetic breast,
+Who knows with Sorrow's elegance to moan,
+May search the enamel where our relicks rest,
+And grave our mem'ry on the faithful stone.
+
+X.
+
+"Tread soft, ye lovers, o'er this hallow'd ground,
+"Here lies fond Damon by his Sylvia's side;
+"Their souls in life by mutual love were bound,
+"Nor death the lasting union could divide. "

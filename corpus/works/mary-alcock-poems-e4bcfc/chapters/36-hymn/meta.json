@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-alcock-poems-e4bcfc",
+  "work_title": "Poems",
+  "chapter_number": 36,
+  "chapter_title": "HYMN.",
+  "chapter_slug": "36-hymn",
+  "author": "Mary Alcock",
+  "author_slug": "mary-alcock",
+  "ecpa_poem_id": "pma99-w0360",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aabbccdd",
+    "syllable_pattern": "11.11.11.11.11.11.11.12",
+    "metrical_pattern": "-+|--+|--+|--+/ -+|--+|--+|--+/ -+|--+|--+|--+/ --+|--+|--+|--+/ -+|--+|--+|--+/ -+|--+|--+|--+/ -+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ed8255f7-c682-5e8c-b971-e3a2a7ecf603",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 153,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "work_slug": "mary-tighe-poems-fb2218",
+  "work_title": "Poems",
+  "chapter_number": 45,
+  "chapter_title": "Sonnet Written at Woodstock, in the County of Kilkenny, the Seat of William Tighe. June 30, 1809.",
+  "chapter_slug": "45-sonnet-written-at-woodstock-in-the-county-of-kil",
+  "author": "Mary Tighe",
+  "author_slug": "mary-tighe",
+  "ecpa_poem_id": "pmt18-w0400",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "abbacddcefefef",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2069f1cb-52d8-5670-934a-d0075a9d8141",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 125,
+      "line_count": 16,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

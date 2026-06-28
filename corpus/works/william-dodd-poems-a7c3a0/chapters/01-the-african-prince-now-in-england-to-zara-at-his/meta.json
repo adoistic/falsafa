@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-dodd-poems-a7c3a0",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE AFRICAN PRINCE, NOW IN ENGLAND, TO ZARA AT HIS FATHER'S COURT, WRITTEN IN THE YEAR MDCCXLIX.",
+  "chapter_slug": "01-the-african-prince-now-in-england-to-zara-at-his",
+  "author": "William Dodd",
+  "author_slug": "william-dodd",
+  "ecpa_poem_id": "o4987-w0740",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 190
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "101a3538-96d9-52a8-bc5d-e1048e3734b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1521,
+      "line_count": 193,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

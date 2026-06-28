@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-cowper-poems-ded728",
+  "work_title": "Poems",
+  "chapter_number": 21,
+  "chapter_title": "ON THE SAME.",
+  "chapter_slug": "21-on-the-same",
+  "author": "William Cowper",
+  "author_slug": "william-cowper",
+  "ecpa_poem_id": "o3794-w0210",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "eulogy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e5aad18f-c680-5309-a71c-c767b0f96c1d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 101,
+      "line_count": 21,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

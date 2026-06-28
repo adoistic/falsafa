@@ -1,0 +1,38 @@
+{
+  "work_slug": "tobias-smollett-poems-7805f1",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "ODE TO MIRTH.",
+  "chapter_slug": "02-ode-to-mirth",
+  "author": "Tobias Smollett",
+  "author_slug": "tobias-smollett",
+  "ecpa_poem_id": "o4987-w0530",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3cd59dae-7f09-5a8d-8eef-f0a92247d42e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 290,
+      "line_count": 46,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+---
+work_id: "b0d78412-2203-5dbe-8d72-088d7ed5c005"
+work_slug: "ann-batten-cristall-poems-b0d784"
+work_title: Poems
+author: Ann Batten Cristall
+author_slug: "ann-batten-cristall"
+ecpa_poem_id: "cac95-w0100"
+chapter_number: 10
+chapter_title: WRITTEN IN DEVONSHIRE, NEAR THE DART.
+chapter_slug: "10-written-in-devonshire-near-the-dart"
+variant_id: "9da9b93c-c823-55fd-8be5-212ce8a499a7"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 464
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - occasional poem
+rhyme_scheme: irregular
+---
+
+WRITTEN IN DEVONSHIRE, NEAR THE DART.
+
+HAIL, Devon! in thy bosom let me rest,
+ And pour forth music from my raptur'd breast:
+ I'll stray thy meadow'd hills
+ And plains along,
+ And loudly sing the widely-varied song,
+ Tracing thy rivers, and thy bubbling rills. 
+
+Oft, rising from the sea, the tempest lours,
+ And buoy'd on winds the clouds majestic sail,
+ While scattering burst in wide and frequent showers,
+ Swelling the streams which glide thro' every vale;
+ Yet are the marshy plains bedeck'd with flowers,
+ And balmy sweets are borne on every gale. 
+
+Where DART romantic winds its mazy course,
+ And mossy rocks set 'neath the woody hills,
+ From whence each creeping rill its store distils,
+ And wandering waters join with rapid force;
+ There Nature's hand has wildly strewn her flowers,
+ And varying prospects strike the roving eyes;
+ Rough-hanging woods o'er cultur'd hills arise;
+ Thick ivy spreads around huge antic towers,
+ And fruitful groves
+ Scatter their blossoms fast as falling showers,
+ Perfuming ev'ry stream which o'er the landscape pours. 
+
+Along the grassy banks how sweet to stray,
+ When the mild eve smiles in the glowing west,
+ And lengthen'd shades proclaim departing day,
+ And fainting sun-beams in the waters play,
+ When every bird seeks its accustom'd rest! 
+How grand, to see the burning orb descend,
+ And the grave sky wrapp'd in its nightly robes,
+ Whether resplendent with the starry globes,
+ Or silver'd by the mildly-solemn moon,
+ When nightingales their lonely songs resume,
+ And folly's sons their babbling noise suspend! 
+
+Or when the darkening clouds fly o'er the sea,
+ And early morning beams a chearful ray,
+ Waking melodious songsters from each tree;
+ How sweet beneath each dewy hill
+ Amid the pleasing shades to stray,
+ Where nectar'd flowers their sweets distil,
+ Whose watery pearls reflect the day! 
+To scent the jonquil's rich perfume,
+ To pluck the hawthorn's tender briars,
+ As wild beneath each flowery hedge
+ Fair strawberries with violets bloom,
+ And every joy of spring conspires! 
+
+Nature's wild songsters from each bush and tree
+ Invite the early walk, and breathe delight;
+ What bosom heaves not with warm sympathy
+ When the gay lark salutes the new-born light? 
+Hark! where the shrill-ton'd thrush,
+ Sweet whistling, carols the wild harmony! 
+The linnet warbles, and from yonder bush
+ The robin pours soft strains of melody! 
+
+Hail Devon! while through the lov'd woods I stray,
+ O! let me loudly pour the grateful lay! 
+Tell each luxuriant bank where violets grow,
+ Each mazy vale, where fragrant woodbines wind,
+ How much of their bewitching charms they owe
+ To the sweet peace which fills my happy mind. 
+Ah! where again will it such pleasures find? 
+O, lov'd society! the heartfelt lay
+ Is all the humble Muse can now bestow;
+ Thy praises still I sing, as on I stray,
+ Writ in my heart amid each strain they flow.

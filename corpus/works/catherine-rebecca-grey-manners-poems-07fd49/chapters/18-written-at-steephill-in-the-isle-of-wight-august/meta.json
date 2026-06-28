@@ -1,0 +1,44 @@
+{
+  "work_slug": "catherine-rebecca-grey-manners-poems-07fd49",
+  "work_title": "Poems",
+  "chapter_number": 18,
+  "chapter_title": "Written at Steephill, in the Isle of Wight, August, M DCC XC.",
+  "chapter_slug": "18-written-at-steephill-in-the-isle-of-wight-august",
+  "author": "Catherine Rebecca Grey Manners",
+  "author_slug": "catherine-rebecca-grey-manners",
+  "ecpa_poem_id": "pcm93-w0180",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 76
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "19388c6a-f4dc-5cf0-b147-be3fb9133804",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 554,
+      "line_count": 78,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

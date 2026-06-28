@@ -1,0 +1,45 @@
+{
+  "work_slug": "john-straight-poems-92ad55",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "Answer to the foregoing, 1731.",
+  "chapter_slug": "02-answer-to-the-foregoing-1731",
+  "author": "John Straight",
+  "author_slug": "john-straight",
+  "ecpa_poem_id": "o5156-w0830",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle",
+      "answer/reply"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 58
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b6f7a583-6804-503f-97ec-a19cbdb45899",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 372,
+      "line_count": 60,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

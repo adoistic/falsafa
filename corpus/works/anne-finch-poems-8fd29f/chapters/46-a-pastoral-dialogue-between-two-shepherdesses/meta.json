@@ -1,0 +1,46 @@
+{
+  "work_slug": "anne-finch-poems-8fd29f",
+  "work_title": "Poems",
+  "chapter_number": 46,
+  "chapter_title": "A Pastoral DIALOGUE between Two Shepherdesses.",
+  "chapter_slug": "46-a-pastoral-dialogue-between-two-shepherdesses",
+  "author": "Anne Finch",
+  "author_slug": "anne-finch",
+  "ecpa_poem_id": "o4784-w0460",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "dialogue",
+      "pastoral",
+      "satire"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "+-|+-|+-|+-/",
+    "line_count": 82
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fddea8f5-f039-5031-8868-cccb4851a7c5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 492,
+      "line_count": 99,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

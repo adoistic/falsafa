@@ -1,0 +1,41 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 51,
+  "chapter_title": "PRE-EXISTENCE: A POEM, In Imitation of MILTON.",
+  "chapter_slug": "51-pre-existence-a-poem-in-imitation-of-milton",
+  "author": "Abel Evans",
+  "author_slug": "abel-evans",
+  "ecpa_poem_id": "o5152-w0240",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 386
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "01d5f7aa-80cf-52ad-b2c9-aa9c87eb448c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2895,
+      "line_count": 388,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

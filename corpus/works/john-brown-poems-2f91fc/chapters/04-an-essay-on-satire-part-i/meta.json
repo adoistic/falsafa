@@ -1,0 +1,45 @@
+{
+  "work_slug": "john-brown-poems-2f91fc",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "AN ESSAY on SATIRE. PART I.",
+  "chapter_slug": "04-an-essay-on-satire-part-i",
+  "author": "John Brown",
+  "author_slug": "john-brown",
+  "ecpa_poem_id": "o5154-w0680",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "essay"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 516
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "32014c3a-31bd-53c2-b05b-624fe0ca54d8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3915,
+      "line_count": 521,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

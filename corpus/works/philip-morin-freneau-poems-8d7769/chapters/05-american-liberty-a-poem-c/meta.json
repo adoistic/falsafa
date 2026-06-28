@@ -1,0 +1,41 @@
+{
+  "work_slug": "philip-morin-freneau-poems-8d7769",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "American Liberty, A POEM, &c.",
+  "chapter_slug": "05-american-liberty-a-poem-c",
+  "author": "Philip Morin Freneau",
+  "author_slug": "philip-morin-freneau",
+  "ecpa_poem_id": "n11pf-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 314
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ed481984-7387-5b10-962f-8bb7bfb0fc8e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2415,
+      "line_count": 316,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

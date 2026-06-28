@@ -1,0 +1,41 @@
+{
+  "work_slug": "richard-jago-poems-57279a",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "The SWALLOWS. Written September, 1748.",
+  "chapter_slug": "04-the-swallows-written-september-1748",
+  "author": "Richard Jago",
+  "author_slug": "richard-jago",
+  "ecpa_poem_id": "o5156-w0330",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/",
+    "line_count": 108
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "14214fc7-ce41-55a6-bfd1-8d72a73392ae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 837,
+      "line_count": 113,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+---
+work_id: "281dffad-ef3b-5f32-81fd-62597bb283a4"
+work_slug: "eliza-day-poems-281dff"
+work_title: Poems
+author: Eliza Day
+author_slug: "eliza-day"
+ecpa_poem_id: "bed98-w0340"
+chapter_number: 34
+chapter_title: ON THE DEATH OF MRS. ANNE GILLISON.
+chapter_slug: "34-on-the-death-of-mrs-anne-gillison"
+variant_id: "bbfb0736-0404-5be0-b522-ed6424d8c92a"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 430
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - occasional poem
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 10
+---
+
+ON THE DEATH OF MRS. ANNE GILLISON.
+
+THE deep-toned bell arrests my listening ear,
+And pensive sadness shades the opening year;
+Chain'd to a bed of languor, and of pain,
+My lyre untuned has lost its wonted strain.
+Yet all its trembling strings o'er Anna's urn,
+Again would vibrate, with my heart would mourn.
+Friend of the good, farewell! my friend adieu!
+The heart you often cheer'd, must mourn for you,
+Ever was seen your hospitable door,
+Opening to cheer the friendless, feed the poor.
+Oft on my solitary hours this knell,
+By brooding fancy heard, shall sound — farewell!
+Where adulation sooths a rising name,
+The comment marks perhaps a dubious aim,
+But from the tomb be cold suspicion fled,
+No pity melts, or flattery sooths the dead.
+So freed — to virtue and affection true,
+The mourning muse this finish'd course would view,
+For points contending be the bigot found,
+Declaring zeal and resting in a sound.
+Truths uncontested here could force impart
+To stamp the Christian's duties on the heart.
+Benevolence thence gave her open smile,
+Sincerity her tongue that spake no guile;
+Forgiveness there thro' transient anger shone,
+The heart that free from harm, suspected none,
+The tears of wealth in smiles of ease may end,
+But ah! when poverty has lost a friend,
+Remembrance, that in prosperous days may sleep,
+Must with the sick and poor sad vigils keep.
+Grateful to feeling hearts and friendly eyes,
+Oh quickly let the sheltering pile arise,
+Where misery most forlorn for years to come,
+Skreen'd from the world's contempt, shall find a home.
+When winter rages, there in future days,
+Rever'd tradition shall repeat her praise.
+While round their blazing fires these sit and tell,
+What they have heard of her who built that cell.
+Ambitious each to rescue from the grave,
+How good she was, what charities she gave;
+By faithful records shall her memory shine,
+And still fresh olives round the cypress twine.
+
+Minist'ring angels of the grace of Heaven,
+To you ye poor, the rich and good were given:
+If faithful thus, their treasures they employ,
+Your present comfort yields their future joy.
+When at the voice of All-commanding Power,
+What braved the wreck of time shall be no more;
+And in one general ruin shall resolve,
+"This globe, and all which it inherit shall dissolve."
+Unfading honors then, and joys unknown,
+Which clouds of witnesses for them have sown.
+Shall He, whose bright example they pursued,
+With these approving words reward imperfect good;
+"I was an hungred and ye gave me bread. " —

@@ -1,0 +1,39 @@
+{
+  "work_slug": "william-mason-poems-ec0935",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "An ODE Performed in the Senate-House at Cambridge July 1, 1749, At the Installation of his Grace THOMAS HOLLES Duke of NEWCASTLE CHANCELLOR of the University. Recitative.",
+  "chapter_slug": "10-an-ode-performed-in-the-senate-house-at-cambridg",
+  "author": "William Mason",
+  "author_slug": "william-mason",
+  "ecpa_poem_id": "o5155-w0570",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "occasional poem"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 107
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e62ea6c4-edfc-5635-ada4-adc1338e255d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 764,
+      "line_count": 133,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "work_slug": "william-lisle-bowles-poems-44faf8",
+  "work_title": "Poems",
+  "chapter_number": 92,
+  "chapter_title": "THE WINDS.",
+  "chapter_slug": "92-the-winds",
+  "author": "William Lisle Bowles",
+  "author_slug": "william-lisle-bowles",
+  "ecpa_poem_id": "glb19-w0920",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "rhyme": "aa",
+    "metrical_pattern": "irregular",
+    "line_count": 89
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bbc625a2-105f-56a2-b6a0-f5c5cbabe4a7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 627,
+      "line_count": 93,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

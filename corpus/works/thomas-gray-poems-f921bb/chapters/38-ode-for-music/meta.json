@@ -1,0 +1,35 @@
+{
+  "work_slug": "thomas-gray-poems-f921bb",
+  "work_title": "Poems",
+  "chapter_number": 38,
+  "chapter_title": "Ode for Music",
+  "chapter_slug": "38-ode-for-music",
+  "author": "Thomas Gray",
+  "author_slug": "thomas-gray",
+  "ecpa_poem_id": "tgaen-wocmu",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 94
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7dff3b05-78d5-5f6a-ae59-b5542a13fef2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 615,
+      "line_count": 105,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

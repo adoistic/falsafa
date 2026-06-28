@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-matilda-betham-poems-3bacb3",
+  "work_title": "Poems",
+  "chapter_number": 15,
+  "chapter_title": "THE COMPLAINT OF FANCY. To A. R. C.",
+  "chapter_slug": "15-the-complaint-of-fancy-to-a-r-c",
+  "author": "(Mary) Matilda Betham",
+  "author_slug": "mary-matilda-betham",
+  "ecpa_poem_id": "bmb97-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 82
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1d989025-a6d4-54f9-b630-ab970bb2d05d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 546,
+      "line_count": 84,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

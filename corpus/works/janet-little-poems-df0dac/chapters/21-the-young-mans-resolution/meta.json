@@ -1,0 +1,44 @@
+{
+  "work_slug": "janet-little-poems-df0dac",
+  "work_title": "Poems",
+  "chapter_number": 21,
+  "chapter_title": "THE YOUNG MAN'S RESOLUTION.",
+  "chapter_slug": "21-the-young-mans-resolution",
+  "author": "Janet Little",
+  "author_slug": "janet-little",
+  "ecpa_poem_id": "bjl92-w0210",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "tale"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "11.8.11.8",
+    "metrical_pattern": "-+|--+|--+|--+/ -+|--+|--+/ -+|--+|--+|--+/ -+|--+|--+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "85e91f50-e99c-5464-9f34-7aa275ea8ba3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 131,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

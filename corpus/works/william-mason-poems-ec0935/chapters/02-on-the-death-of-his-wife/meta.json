@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-mason-poems-ec0935",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "ON THE DEATH OF HIS WIFE.",
+  "chapter_slug": "02-on-the-death-of-his-wife",
+  "author": "William Mason",
+  "author_slug": "william-mason",
+  "ecpa_poem_id": "o4984-w0410",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic quatrain",
+      "epitaph"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "41668103-2bc0-5013-95a2-26c11bc5605a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 143,
+      "line_count": 18,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

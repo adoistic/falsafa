@@ -1,0 +1,41 @@
+{
+  "work_slug": "ann-radcliffe-poems-d56a37",
+  "work_title": "Poems",
+  "chapter_number": 24,
+  "chapter_title": "THE PILGRIM.",
+  "chapter_slug": "24-the-pilgrim",
+  "author": "Ann Radcliffe",
+  "author_slug": "ann-radcliffe",
+  "ecpa_poem_id": "par19-w0240",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "ababbcbcdedefgfgfhihiklklmm",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 27
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "87cdee38-acc0-5f51-9cce-4093d0c55917",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 217,
+      "line_count": 28,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

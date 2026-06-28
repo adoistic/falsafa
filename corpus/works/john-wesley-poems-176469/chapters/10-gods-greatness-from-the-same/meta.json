@@ -1,0 +1,45 @@
+{
+  "work_slug": "john-wesley-poems-176469",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "GOD's Greatness. From the same.",
+  "chapter_slug": "10-gods-greatness-from-the-same",
+  "author": "John Wesley",
+  "author_slug": "john-wesley",
+  "ecpa_poem_id": "o3900-w1040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn",
+      "translation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "twelve-line stanza"
+    ],
+    "rhyme": "ababcdcdefef",
+    "syllable_pattern": "8.8.8.8.8.8.8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 96
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7465725a-7e32-541d-965f-a0b477aba0eb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 598,
+      "line_count": 106,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

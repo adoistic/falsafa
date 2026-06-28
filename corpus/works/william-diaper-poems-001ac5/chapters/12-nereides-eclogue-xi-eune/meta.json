@@ -1,0 +1,46 @@
+{
+  "work_slug": "william-diaper-poems-001ac5",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "[Nereides:] Eclogue XI. Eune.",
+  "chapter_slug": "12-nereides-eclogue-xi-eune",
+  "author": "William Diaper",
+  "author_slug": "william-diaper",
+  "ecpa_poem_id": "pdi12-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "pastoral",
+      "eclogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 65
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9d081cfe-d7d9-581b-9cfb-c6f617539323",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 526,
+      "line_count": 67,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

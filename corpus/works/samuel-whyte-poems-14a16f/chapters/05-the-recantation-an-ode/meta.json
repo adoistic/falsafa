@@ -1,0 +1,44 @@
+{
+  "work_slug": "samuel-whyte-poems-14a16f",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "THE RECANTATION. AN ODE.",
+  "chapter_slug": "05-the-recantation-an-ode",
+  "author": "Samuel Whyte",
+  "author_slug": "samuel-whyte",
+  "ecpa_poem_id": "o4987-w0830",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aabbccdd",
+    "syllable_pattern": "8.8.8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 64
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0ab6652b-a41b-59ac-bb3d-4a296254ef7b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 423,
+      "line_count": 66,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

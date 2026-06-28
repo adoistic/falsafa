@@ -1,0 +1,45 @@
+{
+  "work_slug": "isabella-kelly-poems-dc1cc7",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "TO THE MEMORY OF THE LAMENTED MR. ROBERT HAWKE K——Y.",
+  "chapter_slug": "01-to-the-memory-of-the-lamented-mr-robert-hawke-k-",
+  "author": "Isabella Kelly",
+  "author_slug": "isabella-kelly",
+  "ecpa_poem_id": "pik94-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "lament"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 58
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "da3168dd-e40d-5971-9491-938ab63e88b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 464,
+      "line_count": 59,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

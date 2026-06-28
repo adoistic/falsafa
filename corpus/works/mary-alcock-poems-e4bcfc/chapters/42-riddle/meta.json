@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-alcock-poems-e4bcfc",
+  "work_title": "Poems",
+  "chapter_number": 42,
+  "chapter_title": "RIDDLE.",
+  "chapter_slug": "42-riddle",
+  "author": "Mary Alcock",
+  "author_slug": "mary-alcock",
+  "ecpa_poem_id": "pma99-w0420",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "riddle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 4
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "99d3acb7-48d9-519c-843f-635a6adcd803",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 36,
+      "line_count": 5,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

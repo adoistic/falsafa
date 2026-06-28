@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-chandler-poems-1ab8c5",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "A SONG.",
+  "chapter_slug": "12-a-song",
+  "author": "Mary Chandler",
+  "author_slug": "mary-chandler",
+  "ecpa_poem_id": "pmc36-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "9.9.9.9.9.9.9.9",
+    "metrical_pattern": "--+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7f97232e-40ba-5714-9f62-3d532ad87a3e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 220,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "work_slug": "william-whitehead-poems-1bdb04",
+  "work_title": "Poems",
+  "chapter_number": 13,
+  "chapter_title": "ODE TO THE TIBER. WRITTEN ABROAD.",
+  "chapter_slug": "13-ode-to-the-tiber-written-abroad",
+  "author": "William Whitehead",
+  "author_slug": "william-whitehead",
+  "ecpa_poem_id": "o5157-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "ababcdcdeeffgghihikklmml",
+    "syllable_pattern": "8.8.8.8.8.8.8.6.8.8.8.8.10.12.10.10.10.10.8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/",
+    "line_count": 96
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8f23e4fe-1301-54ee-83fa-bcade7cda240",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 628,
+      "line_count": 104,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

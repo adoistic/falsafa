@@ -1,0 +1,40 @@
+{
+  "work_slug": "anne-finch-poems-8fd29f",
+  "work_title": "Poems",
+  "chapter_number": 18,
+  "chapter_title": "The following Lines occasion'd by the Marriage of Edward Herbert Esquire, and Mrs. Elizabeth Herbert.",
+  "chapter_slug": "18-the-following-lines-occasiond-by-the-marriage-of",
+  "author": "Anne Finch",
+  "author_slug": "anne-finch",
+  "ecpa_poem_id": "o4784-w0180",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "syllable_pattern": "8",
+    "metrical_pattern": "+-|+-|+-|+-/",
+    "line_count": 13
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cf42956c-c14a-5d80-97be-51c328aa92c3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 89,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 177,
+  "chapter_title": "ELEGY, TO THE MEMORY OF MR. THOMAS CHATTERTON, LATE OF BRISTOL.",
+  "chapter_slug": "177-elegy-to-the-memory-of-mr-thomas-chatterton-late",
+  "author": "Thomas Cary",
+  "author_slug": "thomas-cary",
+  "ecpa_poem_id": "o4039-w0220",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic quatrain",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 92
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4f3dbbc4-1b59-5122-a771-daae5b87a2b3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 672,
+      "line_count": 93,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

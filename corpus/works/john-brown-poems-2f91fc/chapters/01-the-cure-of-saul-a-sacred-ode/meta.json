@@ -1,0 +1,38 @@
+{
+  "work_slug": "john-brown-poems-2f91fc",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE CURE OF SAUL. A SACRED ODE.",
+  "chapter_slug": "01-the-cure-of-saul-a-sacred-ode",
+  "author": "John Brown",
+  "author_slug": "john-brown",
+  "ecpa_poem_id": "o4985-w0200",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 308
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b13730c1-78b0-52c8-96b5-ff2e343a3dc8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1937,
+      "line_count": 311,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

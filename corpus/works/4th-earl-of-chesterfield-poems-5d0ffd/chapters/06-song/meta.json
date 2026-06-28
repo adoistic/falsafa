@@ -1,0 +1,44 @@
+{
+  "work_slug": "4th-earl-of-chesterfield-poems-5d0ffd",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "SONG.",
+  "chapter_slug": "06-song",
+  "author": "4th Earl of Chesterfield",
+  "author_slug": "4th-earl-of-chesterfield",
+  "ecpa_poem_id": "o5152-w0430",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "6",
+    "metrical_pattern": "-+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "43a2c7d1-e7c4-530f-b5d8-3e2e543824e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 149,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

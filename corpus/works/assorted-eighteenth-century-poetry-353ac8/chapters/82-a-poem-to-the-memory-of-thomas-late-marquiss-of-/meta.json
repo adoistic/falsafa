@@ -1,0 +1,45 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 82,
+  "chapter_title": "A POEM to the Memory of THOMAS, late Marquiss of WHARTON, Lord Privy Seal.",
+  "chapter_slug": "82-a-poem-to-the-memory-of-thomas-late-marquiss-of-",
+  "author": "Anonymous",
+  "author_slug": "anonymous",
+  "ecpa_poem_id": "o5156-w1200",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "eulogy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 196
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "16dd7e26-a8a3-55e5-9a69-6456fd9efb14",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1477,
+      "line_count": 197,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

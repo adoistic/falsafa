@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-congreve-poems-d6b91f",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "AN IMPOSSIBLE THING. A TALE.",
+  "chapter_slug": "06-an-impossible-thing-a-tale",
+  "author": "William Congreve",
+  "author_slug": "william-congreve",
+  "ecpa_poem_id": "o5354-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "tale"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 208
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "88313601-bd4f-5bab-8082-a2ae870aa4d4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1380,
+      "line_count": 210,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

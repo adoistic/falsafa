@@ -1,0 +1,45 @@
+{
+  "work_slug": "robert-craggs-nugent-poems-84926b",
+  "work_title": "Poems",
+  "chapter_number": 27,
+  "chapter_title": "EPIGRAM XIII.",
+  "chapter_slug": "27-epigram-xiii",
+  "author": "Robert Craggs Nugent",
+  "author_slug": "robert-craggs-nugent",
+  "ecpa_poem_id": "o5153-w0802",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)",
+      "octet (8 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "7",
+    "metrical_pattern": "+-|+-|+-|+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cf76b57f-49e3-5530-947f-fffcb1a89a3d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 64,
+      "line_count": 13,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

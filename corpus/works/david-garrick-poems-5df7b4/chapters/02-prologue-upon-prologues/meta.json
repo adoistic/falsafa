@@ -1,0 +1,44 @@
+{
+  "work_slug": "david-garrick-poems-5df7b4",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "PROLOGUE upon PROLOGUES.",
+  "chapter_slug": "02-prologue-upon-prologues",
+  "author": "David Garrick",
+  "author_slug": "david-garrick",
+  "ecpa_poem_id": "o5089-w0220",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prologue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 51
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dac3e2b3-96ea-5758-a4c4-a8fa51bafb0a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 365,
+      "line_count": 53,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

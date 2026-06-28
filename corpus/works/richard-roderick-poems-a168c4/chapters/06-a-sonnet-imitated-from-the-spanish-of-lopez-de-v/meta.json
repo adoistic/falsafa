@@ -1,0 +1,45 @@
+{
+  "work_slug": "richard-roderick-poems-a168c4",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "A SONNET. Imitated from the Spanish of LOPEZ DE VEGA. Menagiana tom. iv. p. 176.",
+  "chapter_slug": "06-a-sonnet-imitated-from-the-spanish-of-lopez-de-v",
+  "author": "Richard Roderick",
+  "author_slug": "richard-roderick",
+  "ecpa_poem_id": "o5153-w0760",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet",
+      "Italian (Petrarchan) sonnet",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "abbacddcefefef",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "99115aec-d3c2-5766-9021-2c21c0bf26d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 142,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

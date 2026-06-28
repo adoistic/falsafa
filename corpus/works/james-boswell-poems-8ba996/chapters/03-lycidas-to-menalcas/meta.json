@@ -1,0 +1,44 @@
+{
+  "work_slug": "james-boswell-poems-8ba996",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "LYCIDAS to MENALCAS.",
+  "chapter_slug": "03-lycidas-to-menalcas",
+  "author": "James Boswell",
+  "author_slug": "james-boswell",
+  "ecpa_poem_id": "o3913-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "060dcfd1-3714-5d93-9b8e-abf2a1953b35",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 298,
+      "line_count": 49,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

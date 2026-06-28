@@ -1,0 +1,44 @@
+{
+  "work_slug": "catherine-rebecca-grey-manners-poems-07fd49",
+  "work_title": "Poems",
+  "chapter_number": 21,
+  "chapter_title": "Lines on the Late Partition of Poland.",
+  "chapter_slug": "21-lines-on-the-late-partition-of-poland",
+  "author": "Catherine Rebecca Grey Manners",
+  "author_slug": "catherine-rebecca-grey-manners",
+  "ecpa_poem_id": "pcm93-w0210",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "7.7.7.7",
+    "metrical_pattern": "+-|+-|+-|+/ +-|+-|+-|+/ +-|+-|+-|+/ +-|+-|+-|+/",
+    "line_count": 56
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1be07471-5483-52a1-acc5-19664bb1ec3b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 280,
+      "line_count": 57,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

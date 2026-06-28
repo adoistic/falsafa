@@ -1,0 +1,44 @@
+{
+  "work_slug": "philip-morin-freneau-poems-8d7769",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "Upon a very ANCIENT DUTCH HOUSE on LONG-ISLAND.",
+  "chapter_slug": "04-upon-a-very-ancient-dutch-house-on-long-island",
+  "author": "Philip Morin Freneau",
+  "author_slug": "philip-morin-freneau",
+  "ecpa_poem_id": "n09pf-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d22964f5-9c65-5857-8e3b-ad114f09375e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 265,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

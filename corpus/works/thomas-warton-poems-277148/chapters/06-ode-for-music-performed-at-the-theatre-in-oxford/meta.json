@@ -1,0 +1,38 @@
+{
+  "work_slug": "thomas-warton-poems-277148",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "ODE FOR MUSIC. PERFORMED AT THE THEATRE IN OXFORD, ON THE SECOND OF JULY, MDCCLI, BEING THE ANNIVERSARY APPOINTED BY THE LATE LORD CREW, BISHOP OF DURHAM, FOR THE COMMEMORATION OF BENEFACTORS TO THE UNIVERSITY.",
+  "chapter_slug": "06-ode-for-music-performed-at-the-theatre-in-oxford",
+  "author": "Thomas Warton",
+  "author_slug": "thomas-warton",
+  "ecpa_poem_id": "o4984-w0490",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 159
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4090595a-7217-5e85-92b3-a0c4fed4c86d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1039,
+      "line_count": 171,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

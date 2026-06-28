@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-parnell-poems-2f0378",
+  "work_title": "Poems",
+  "chapter_number": 16,
+  "chapter_title": "An ALLEGORY on MAN.",
+  "chapter_slug": "16-an-allegory-on-man",
+  "author": "Thomas Parnell",
+  "author_slug": "thomas-parnell",
+  "ecpa_poem_id": "o4106-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "allegory"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 100
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "27281983-fc91-5a08-87de-7c7873294c46",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 659,
+      "line_count": 101,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

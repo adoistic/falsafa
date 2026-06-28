@@ -1,0 +1,44 @@
+{
+  "work_slug": "sir-james-marriott-poems-531359",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "RINALDO AND ARMIDA. TO A LADY SINGING.",
+  "chapter_slug": "02-rinaldo-and-armida-to-a-lady-singing",
+  "author": "Sir James Marriott",
+  "author_slug": "sir-james-marriott",
+  "ecpa_poem_id": "o4985-w0530",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 51
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e58802b8-55f3-5754-b538-659a5c323974",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 322,
+      "line_count": 54,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

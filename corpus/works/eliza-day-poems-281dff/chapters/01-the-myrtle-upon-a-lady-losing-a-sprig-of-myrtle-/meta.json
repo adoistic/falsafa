@@ -1,0 +1,44 @@
+{
+  "work_slug": "eliza-day-poems-281dff",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "[THE MYRTLE] Upon a lady losing a sprig of Myrtle, presented to her by her husband, on the morning of their marriage.",
+  "chapter_slug": "01-the-myrtle-upon-a-lady-losing-a-sprig-of-myrtle-",
+  "author": "Eliza Day",
+  "author_slug": "eliza-day",
+  "ecpa_poem_id": "bed98-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "7",
+    "metrical_pattern": "+-|+-|+-|+(-)/",
+    "line_count": 96
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "05c7b3fd-4c08-5bb5-8717-1a69a0a8a9b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 556,
+      "line_count": 98,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

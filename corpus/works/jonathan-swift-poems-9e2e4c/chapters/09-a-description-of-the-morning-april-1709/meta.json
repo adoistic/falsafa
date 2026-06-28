@@ -1,0 +1,44 @@
+{
+  "work_slug": "jonathan-swift-poems-9e2e4c",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "A DESCRIPTION OF THE MORNING. April, 1709.",
+  "chapter_slug": "09-a-description-of-the-morning-april-1709",
+  "author": "Jonathan Swift",
+  "author_slug": "jonathan-swift",
+  "ecpa_poem_id": "psw11-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "georgic"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 18
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "992ad007-d591-5c76-8270-7d2bcf591a73",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 146,
+      "line_count": 20,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

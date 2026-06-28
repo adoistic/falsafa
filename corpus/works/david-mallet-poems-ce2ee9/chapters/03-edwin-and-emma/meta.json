@@ -1,0 +1,44 @@
+{
+  "work_slug": "david-mallet-poems-ce2ee9",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "EDWIN AND EMMA.",
+  "chapter_slug": "03-edwin-and-emma",
+  "author": "David Mallet",
+  "author_slug": "david-mallet",
+  "ecpa_poem_id": "o4984-w0180",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 96
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ee5b90a2-9e14-51de-8951-a7ca76353315",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 548,
+      "line_count": 98,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

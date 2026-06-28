@@ -1,0 +1,41 @@
+{
+  "work_slug": "william-shenstone-poems-e4f343",
+  "work_title": "Poems",
+  "chapter_number": 41,
+  "chapter_title": "The Progress of ADVICE. A common Case.",
+  "chapter_slug": "41-the-progress-of-advice-a-common-case",
+  "author": "William Shenstone",
+  "author_slug": "william-shenstone",
+  "ecpa_poem_id": "o5156-w0220",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "aabb",
+    "syllable_pattern": "12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/         --+|--+|--+|--+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "26d5fd56-9af2-5f64-8761-47972b42b92c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 168,
+      "line_count": 18,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

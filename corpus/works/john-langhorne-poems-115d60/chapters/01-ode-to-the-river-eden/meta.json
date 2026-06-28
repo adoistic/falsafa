@@ -1,0 +1,38 @@
+{
+  "work_slug": "john-langhorne-poems-115d60",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "ODE TO THE RIVER EDEN.",
+  "chapter_slug": "01-ode-to-the-river-eden",
+  "author": "John Langhorne",
+  "author_slug": "john-langhorne",
+  "ecpa_poem_id": "o4987-w0590",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 60
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "960c377b-dcdb-57b7-ba41-3464c24e84bf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 379,
+      "line_count": 62,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

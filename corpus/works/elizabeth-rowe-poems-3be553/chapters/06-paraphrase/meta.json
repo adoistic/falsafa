@@ -1,0 +1,38 @@
+{
+  "work_slug": "elizabeth-rowe-poems-3be553",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "PARAPHRASE",
+  "chapter_slug": "06-paraphrase",
+  "author": "Elizabeth Rowe",
+  "author_slug": "elizabeth-rowe",
+  "ecpa_poem_id": "oar96-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 56
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b076266e-9675-5ea6-85a9-66459cd9a088",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 364,
+      "line_count": 66,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

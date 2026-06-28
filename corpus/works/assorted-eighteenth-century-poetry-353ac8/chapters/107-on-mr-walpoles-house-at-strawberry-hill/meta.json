@@ -1,0 +1,45 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 107,
+  "chapter_title": "ON MR. WALPOLE's HOUSE AT STRAWBERRY HILL.",
+  "chapter_slug": "107-on-mr-walpoles-house-at-strawberry-hill",
+  "author": "Jael Henrietta Pye",
+  "author_slug": "jael-henrietta-pye",
+  "ecpa_poem_id": "o5089-w0620",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "prospect poem / topographical poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 46
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4260ae10-3fc7-53ad-ba19-5890c526a793",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 361,
+      "line_count": 48,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

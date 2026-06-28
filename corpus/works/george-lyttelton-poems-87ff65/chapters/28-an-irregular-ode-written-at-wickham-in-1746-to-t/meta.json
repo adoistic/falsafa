@@ -1,0 +1,41 @@
+{
+  "work_slug": "george-lyttelton-poems-87ff65",
+  "work_title": "Poems",
+  "chapter_number": 28,
+  "chapter_title": "An Irregular ODE written at Wickham, in 1746. To the Same.",
+  "chapter_slug": "28-an-irregular-ode-written-at-wickham-in-1746-to-t",
+  "author": "George Lyttelton",
+  "author_slug": "george-lyttelton",
+  "ecpa_poem_id": "o5153-w0280",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "irregular",
+    "syllable_pattern": "10.8.10.8.8.10.10.10.10.8.10.10.8.8.10.10.10.8.10.8.8.10.10.8.6.10.10.6.10.8.10.10.8.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+/             -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+/             -+|-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+/             -+|-+|-+|-+|-+/     -+|-+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+|-+/",
+    "line_count": 34
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "84b2ebf6-4a03-5115-932d-ed3ae6e9a483",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 251,
+      "line_count": 40,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

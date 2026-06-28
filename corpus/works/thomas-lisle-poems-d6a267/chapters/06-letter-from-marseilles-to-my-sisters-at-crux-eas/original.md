@@ -1,0 +1,132 @@
+---
+work_id: "d6a26700-56ba-5448-a914-d638eff78dc1"
+work_slug: "thomas-lisle-poems-d6a267"
+work_title: Poems
+author: Thomas Lisle
+author_slug: "thomas-lisle"
+ecpa_poem_id: "o5157-w0320"
+chapter_number: 6
+chapter_title: "LETTER from MARSEILLES to my Sisters at CRUX-EASTON, MAY 1735."
+chapter_slug: "06-letter-from-marseilles-to-my-sisters-at-crux-eas"
+variant_id: "067975aa-3ed8-57cb-9bed-f652ea6fe515"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 599
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - epistle
+  - dialogue
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 8
+---
+
+LETTER from MARSEILLES to my Sisters at CRUX-EASTON, MAY 1735.
+
+By the Same.
+
+HARRIOT.
+
+LORD! sister, here's the butcher come,
+And not one word from brother Tom;
+The punctual spark, that made his boast
+He'd write by ev'ry other post!
+That ever I was so absurd
+To take a man upon his word!
+Quoth Frances, Child, I wonder much
+You cou'd expect him to keep touch:
+'Tis so, my dear, with all mankind;
+When out of sight you're out of mind,
+Think you he'd to his sisters write?
+Was ever girl so unpolite!
+Some fair Italian stands possess'd,
+And reigns sole mistress in his breast;
+To her he dedicates his time,
+And fawns in prose, or sighs in rhyme.
+She'll give him tokens of her love,
+Perhaps not easy to remove;
+Such as will make him large amends
+For loss of sisters, and of friends.
+
+Cries Harriot, when he comes to France,
+I hope in God he'll learn to dance,
+And leave his aukward habits there,
+I'm sure he has enough to spare.
+
+O cou'd he leave his faults, saith Fanny,
+And bring the good alone, if any,
+Poor brother Tom, he'd grow so light,
+The wind might rob us of him quite!
+Of habits he may well get clear;
+Ill humours are the faults I fear,
+For in my life I ne'er saw yet
+A creature half so passionate,
+Good heav'ns! how did he rave and tear,
+On my not going you know where;
+I scarcely yet have got my dread off:
+I thought he'd bite my sister's head off.
+'Tween him and Jenny what a clatter
+About a fig, a mighty matter!
+I cou'd recount a thousand more,
+But scandal's what I most abhor.
+
+Molly, who long had patient sate,
+And heard in silence all their chat,
+Observing how they spoke with rancour,
+Took up my cause, for which I thank her.
+What eloquence was then display'd,
+The charming things that Molly said,
+Perhaps it suits not me to tell;
+But faith! she spoke extremely well.
+She first, with much ado, put on
+A prudish face, then thus begun.
+
+Heyday! quoth she, you let your tongue
+Run on most strangely, right or wrong.
+'Tis what I never can connive at;
+Besides, consider whom you drive at;
+A person of establish'd credit,
+Nobody better, tho' I said it.
+In all that's good, so tried and known,
+Why, girls, he's quite a proverb grown,
+His worth no mortal dares dispute:
+Then he's your brother too to boot.
+
+At this she made a moment's pause,
+Then with a sigh resum'd the cause.
+Alas! my dears, you little know
+A sailor's toil, a trav'ler's woe;
+Perhaps this very hour he strays
+A lonely wretch thro' desart ways;
+Or shipwreck'd on a foreign strand,
+He falls beneath some ruffian's hand:
+Or on the naked rock he lies,
+And pinch'd by famine wastes and dies.
+Can you this hated brother see
+Floating, the sport of wind and sea?
+Can you his feeble accents hear,
+Tho' but in thought, nor drop a tear?
+He faintly strives, his hopes are fled,
+The billows booming o'er his head;
+He mounts upon the waves again,
+He calls on us, but calls in vain;
+To death preserves his friendship true,
+And mutters out a kind adieu.
+See now he rises to our sight,
+Now sinks in everlasting night.
+
+Here Fanny's colour rose and fell,
+And Harriot's throat began to swell:
+One sidled to the window quite,
+Pretending some unusual sight,
+The other left the room outright;
+While Molly laugh'd, her ends obtain'd,
+To think how artfully she feign'd.

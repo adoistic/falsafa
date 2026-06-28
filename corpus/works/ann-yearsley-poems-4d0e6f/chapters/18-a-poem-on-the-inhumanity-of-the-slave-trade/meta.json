@@ -1,0 +1,41 @@
+{
+  "work_slug": "ann-yearsley-poems-4d0e6f",
+  "work_title": "Poems",
+  "chapter_number": 18,
+  "chapter_title": "A POEM ON THE INHUMANITY OF THE SLAVE-TRADE.",
+  "chapter_slug": "18-a-poem-on-the-inhumanity-of-the-slave-trade",
+  "author": "Ann Yearsley",
+  "author_slug": "ann-yearsley",
+  "ecpa_poem_id": "yye88-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 425
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8171137b-d8c6-590a-ab61-4c1440766a47",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3284,
+      "line_count": 426,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

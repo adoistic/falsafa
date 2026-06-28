@@ -1,0 +1,41 @@
+{
+  "work_slug": "lady-mary-chudleigh-poems-f0cfc5",
+  "work_title": "Poems",
+  "chapter_number": 26,
+  "chapter_title": "On the Death of my dear Daughter Eliza Maria Chudleigh: A Dialogue between Lucinda and Marissa.",
+  "chapter_slug": "26-on-the-death-of-my-dear-daughter-eliza-maria-chu",
+  "author": "Lady Mary Chudleigh",
+  "author_slug": "lady-mary-chudleigh",
+  "ecpa_poem_id": "clc03-w0260",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "metrical_pattern": "irregular",
+    "line_count": 149
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "95d7cbdf-8041-5b26-95ce-31873d93e786",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1204,
+      "line_count": 155,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

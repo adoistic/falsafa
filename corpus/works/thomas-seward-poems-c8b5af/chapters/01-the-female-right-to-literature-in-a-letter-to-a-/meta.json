@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-seward-poems-c8b5af",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "The Female Right to LITERATURE, in a Letter to a young Lady from FLORENCE.",
+  "chapter_slug": "01-the-female-right-to-literature-in-a-letter-to-a-",
+  "author": "Thomas Seward",
+  "author_slug": "thomas-seward",
+  "ecpa_poem_id": "o5153-w0650",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 166
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "181992e4-875d-55e8-a5bc-4a6b05bc459d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1256,
+      "line_count": 169,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

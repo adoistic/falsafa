@@ -1,0 +1,41 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 155,
+  "chapter_title": "To the Memory of a GENTLEMAN, who died on his Travels to ROME. Written in 1738.",
+  "chapter_slug": "155-to-the-memory-of-a-gentleman-who-died-on-his-tra",
+  "author": "Jonathan Shipley",
+  "author_slug": "jonathan-shipley",
+  "ecpa_poem_id": "o5156-w0790",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "eulogy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "syllable_pattern": "8.10",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+|-+/",
+    "line_count": 30
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "869d2c27-7091-5f20-a6a7-a3638fe2159b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 204,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

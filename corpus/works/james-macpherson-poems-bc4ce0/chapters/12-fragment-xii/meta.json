@@ -1,0 +1,40 @@
+{
+  "work_slug": "james-macpherson-poems-bc4ce0",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "[FRAGMENT] XII.",
+  "chapter_slug": "12-fragment-xii",
+  "author": "James Macpherson",
+  "author_slug": "james-macpherson",
+  "ecpa_poem_id": "o4688-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prose poem",
+      "imitation",
+      "translation",
+      "paraphrase",
+      "fragment"
+    ],
+    "line_count": 7
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "17c38ca5-90b3-506a-8489-d7e23cd70ce4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 535,
+      "line_count": 10,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "robert-burns-poems-a27207",
+  "work_title": "Poems",
+  "chapter_number": 17,
+  "chapter_title": "DESPONDENCY, AN ODE.",
+  "chapter_slug": "17-despondency-an-ode",
+  "author": "Robert Burns",
+  "author_slug": "robert-burns",
+  "ecpa_poem_id": "cbu86-w0170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "fourteen-line stanza"
+    ],
+    "rhyme": "aabccbdedexfxf",
+    "syllable_pattern": "8.8.6.8.8.6.8.6.8.6.6.6.6.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+/ -+|-+|-+/ -+|-+|-+/ -+|-+|-+/",
+    "line_count": 70
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a744ad43-894b-5282-a2fd-405aafefffc2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 366,
+      "line_count": 77,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

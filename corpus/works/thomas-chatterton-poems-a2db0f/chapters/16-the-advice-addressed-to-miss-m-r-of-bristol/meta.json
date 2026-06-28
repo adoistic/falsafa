@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-chatterton-poems-a2db0f",
+  "work_title": "Poems",
+  "chapter_number": 16,
+  "chapter_title": "THE ADVICE. ADDRESSED TO MISS M—— R——, OF BRISTOL.",
+  "chapter_slug": "16-the-advice-addressed-to-miss-m-r-of-bristol",
+  "author": "Thomas Chatterton",
+  "author_slug": "thomas-chatterton",
+  "ecpa_poem_id": "o4039-w0160",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "afbd7d56-0a16-56aa-a15b-b2a4d68e0ce2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 256,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

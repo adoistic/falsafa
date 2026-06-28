@@ -1,0 +1,41 @@
+{
+  "work_slug": "mark-akenside-poems-7a5821",
+  "work_title": "Poems",
+  "chapter_number": 13,
+  "chapter_title": "HYMN TO THE NAIADS. MDCCXLVI.",
+  "chapter_slug": "13-hymn-to-the-naiads-mdccxlvi",
+  "author": "Mark Akenside",
+  "author_slug": "mark-akenside",
+  "ecpa_poem_id": "o5157-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "hymn"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 325
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0fddce38-4a67-5489-bb79-4d52b021a724",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2399,
+      "line_count": 327,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

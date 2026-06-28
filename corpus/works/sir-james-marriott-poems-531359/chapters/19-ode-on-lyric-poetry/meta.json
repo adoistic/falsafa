@@ -1,0 +1,38 @@
+{
+  "work_slug": "sir-james-marriott-poems-531359",
+  "work_title": "Poems",
+  "chapter_number": 19,
+  "chapter_title": "ODE on Lyric POETRY.",
+  "chapter_slug": "19-ode-on-lyric-poetry",
+  "author": "Sir James Marriott",
+  "author_slug": "sir-james-marriott",
+  "ecpa_poem_id": "o5157-w0540",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 78
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4068f4bc-34ae-5eff-b5d4-ab8153286e97",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 542,
+      "line_count": 86,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-chandler-poems-1ab8c5",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "To the Reverend Mr. Sam. Chandler. On WISDOM.",
+  "chapter_slug": "07-to-the-reverend-mr-sam-chandler-on-wisdom",
+  "author": "Mary Chandler",
+  "author_slug": "mary-chandler",
+  "ecpa_poem_id": "pmc36-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 66
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "95947368-6255-5c32-874e-a20a3fcd4cf0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 392,
+      "line_count": 68,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

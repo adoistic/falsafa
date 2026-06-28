@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-shenstone-poems-e4f343",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "The Princess ELIZABETH: A Ballad, alluding to a Story recorded of her, when she was a Prisoner at Woodstock, 1554.",
+  "chapter_slug": "03-the-princess-elizabeth-a-ballad-alluding-to-a-st",
+  "author": "William Shenstone",
+  "author_slug": "william-shenstone",
+  "ecpa_poem_id": "o5155-w0900",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.7.8.7",
+    "metrical_pattern": "+-|+-|+-|+-/         +-|+-|+-|+/         +-|+-|+-|+-/         +-|+-|+-|+/",
+    "line_count": 52
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "524e8fbb-f6c5-5bcc-a1aa-a1d18435901f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 310,
+      "line_count": 55,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

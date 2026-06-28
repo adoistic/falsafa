@@ -1,0 +1,44 @@
+{
+  "work_slug": "james-barclay-poems-1c4e19",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "THE SINE QUÔ NON.",
+  "chapter_slug": "04-the-sine-quo-non",
+  "author": "James Barclay",
+  "author_slug": "james-barclay",
+  "ecpa_poem_id": "o4986-w0470",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "44fa7203-1b5c-57df-a008-b86fb15a04a1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 180,
+      "line_count": 30,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

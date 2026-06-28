@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-gray-poems-f921bb",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "ODE.",
+  "chapter_slug": "06-ode",
+  "author": "Thomas Gray",
+  "author_slug": "thomas-gray",
+  "ecpa_poem_id": "o5153-w0570",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "ten-line stanza"
+    ],
+    "rhyme": "ababccdeed",
+    "syllable_pattern": "8.6.8.6.8.8.8.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/     -+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+|-+/     -+|-+|-+/",
+    "line_count": 50
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7ecc2d37-796f-5574-92a4-593daeb42069",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 290,
+      "line_count": 57,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

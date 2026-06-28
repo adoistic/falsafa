@@ -1,0 +1,38 @@
+{
+  "work_slug": "charlotte-lennox-poems-16d8a7",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "PHILANDER.",
+  "chapter_slug": "01-philander",
+  "author": "Charlotte Lennox",
+  "author_slug": "charlotte-lennox",
+  "ecpa_poem_id": "o3754-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "drama"
+    ],
+    "metrical_pattern": "irregular",
+    "line_count": 581
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c7a1ee9f-e0fe-57ec-a858-dee4832d9a73",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4211,
+      "line_count": 740,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

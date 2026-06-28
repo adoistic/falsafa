@@ -1,0 +1,44 @@
+{
+  "work_slug": "richard-graves-poems-ea0032",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "AN INVITATION TO THE FEATHERED RACE, MDCCLXIII. WRITTEN AT CLAVERTON, NEAR BATH.",
+  "chapter_slug": "01-an-invitation-to-the-feathered-race-mdcclxiii-wr",
+  "author": "Richard Graves",
+  "author_slug": "richard-graves",
+  "ecpa_poem_id": "o4986-w0280",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ab614da8-c783-59f4-ae9e-996b0f82dfa7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 262,
+      "line_count": 47,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+---
+work_id: "3984993b-dd21-56f9-aac1-9537a0a3ee1b"
+work_slug: "isaac-watts-poems-398499"
+work_title: Poems
+author: Isaac Watts
+author_slug: "isaac-watts"
+ecpa_poem_id: "o4672-w0030"
+chapter_number: 3
+chapter_title: GOD Appears most Glorious IN OUR Salvation by CHRIST.
+chapter_slug: "03-god-appears-most-glorious-in-our-salvation-by-ch"
+variant_id: "70e176a9-afd5-52b9-b9de-af3c8ef46d2a"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 219
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - hymn
+metrical_foot: iambic (˘′)
+metrical_count: tetrameter (4 feet)
+stanza_form:
+  - quatrain (4 lines)
+rhyme_scheme: abab
+syllable_pattern: 8.6.8.6
+---
+
+GOD Appears most Glorious IN OUR Salvation by CHRIST.
+
+I.
+
+FAther, how wide thy Glory shines! 
+How high thy Wonders rise! 
+Known thro' the Earth by thousand Signs,
+ By thousand thro' the Skies. 
+
+II.
+
+Those mighty Orbs proclaim thy Power,
+ Their Motions speak thy Skill;
+ And on the Wings of every Hour
+ We read thy Patience still. 
+
+III.
+
+Part of thy Name Divinely stands
+ On all thy Creatures writ;
+ They show the Labour of thine Hands,
+ Or Impress of thy Feet. 
+
+IV.
+
+But when We view thy Strange Design
+ To save Rebellious Worms,
+ Where Vengeance and Compassion joyn
+ In their Divinest Forms:
+
+V.
+
+Our Thoughts are lost in Reverend Awe,
+ We Love and we Adore;
+ The tallest Angel never saw
+ So much of God before. 
+
+VI.
+
+Here the whole Deity is known,
+ Nor dares a Creature guess
+ Which of the Glories brightest shone,
+ The Justice or the Grace. 
+
+VII.
+
+When we transgress'd the Fathers Laws,
+ The dying Son atones;
+ Oh the Dear Mysteries of his Cross! 
+The Triumph of his Groans! 
+
+VIII.
+
+Now the full Glories of the Lamb
+ Adorn the Heavenly Plains;
+ And the Young Cherubs learn his Name,
+ And try their choicest Strains. 
+
+IX.
+
+O may I bear some humble Part
+ In that Immortal Song;
+ Wonder and Joy shall tune my Heart,
+ And Love command my Tongue.

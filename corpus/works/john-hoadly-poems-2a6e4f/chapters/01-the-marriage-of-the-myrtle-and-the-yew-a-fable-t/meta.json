@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-hoadly-poems-2a6e4f",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "The Marriage of the MYRTLE and the YEW. A FABLE. To DELIA, about to marry beneath herself. 1744.",
+  "chapter_slug": "01-the-marriage-of-the-myrtle-and-the-yew-a-fable-t",
+  "author": "John Hoadly",
+  "author_slug": "john-hoadly",
+  "ecpa_poem_id": "o5154-w0570",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 68
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2d53354b-50dc-5b80-8135-08205c6f1496",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 443,
+      "line_count": 71,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "work_slug": "richard-graves-poems-ea0032",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "The CABINET. Or, Verses on Roman Medals.",
+  "chapter_slug": "04-the-cabinet-or-verses-on-roman-medals",
+  "author": "Richard Graves",
+  "author_slug": "richard-graves",
+  "ecpa_poem_id": "o5155-w0850",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "Chevy Chase stanza"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/          -+|-+|-+/         -+|-+|-+|-+/          -+|-+|-+/",
+    "line_count": 72
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "53db2c26-6a0e-5bee-b7f1-cd10c897396f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 402,
+      "line_count": 94,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

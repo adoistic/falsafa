@@ -1,0 +1,43 @@
+{
+  "work_slug": "henry-carey-poems-65d065",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "Village Courtship.",
+  "chapter_slug": "04-village-courtship",
+  "author": "Henry Carey",
+  "author_slug": "henry-carey",
+  "ecpa_poem_id": "o4221-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "syllable_pattern": "11.7.11.7.11.7.11.7",
+    "metrical_pattern": "-+|--+|--+|--+/ +--|+--|+/ -+|--+|--+|--+/ +--|+--|+/ -+|--+|--+|--+/ +--|+--|+/ -+|--+|--+|--+/ +--|+--|+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3751eb96-57a0-51e2-a089-eb20a031a7fb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 191,
+      "line_count": 33,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

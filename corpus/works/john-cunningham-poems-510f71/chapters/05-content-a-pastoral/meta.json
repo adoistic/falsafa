@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-cunningham-poems-510f71",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "CONTENT: A PASTORAL.",
+  "chapter_slug": "05-content-a-pastoral",
+  "author": "John Cunningham",
+  "author_slug": "john-cunningham",
+  "ecpa_poem_id": "o5089-w0810",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "12.9.12.9",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+/ -+|--+|--+|--+/ --+|--+|--+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bbc6a26b-aa0e-578e-a3e4-91df98176c38",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 255,
+      "line_count": 39,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

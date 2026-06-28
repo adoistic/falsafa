@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-matilda-betham-poems-3bacb3",
+  "work_title": "Poems",
+  "chapter_number": 19,
+  "chapter_title": "[LA FORTUNA. DELLO STESSO.] TRANSLATION.",
+  "chapter_slug": "19-la-fortuna-dello-stesso-translation",
+  "author": "(Mary) Matilda Betham",
+  "author_slug": "mary-matilda-betham",
+  "ecpa_poem_id": "bmb97-w0190",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 8
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0a7f6d95-7a4e-5be0-be9f-acab194f4ee8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 50,
+      "line_count": 10,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

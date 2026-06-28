@@ -1,0 +1,41 @@
+{
+  "work_slug": "james-thomson-poems-24b480",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "HYMN on SOLITUDE.",
+  "chapter_slug": "11-hymn-on-solitude",
+  "author": "James Thomson",
+  "author_slug": "james-thomson",
+  "ecpa_poem_id": "o5154-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "aa",
+    "syllable_pattern": "8.8",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/",
+    "line_count": 49
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2e2d6e55-fcdd-5536-9ae4-47a9cbc3b6e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 307,
+      "line_count": 51,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

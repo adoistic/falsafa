@@ -1,0 +1,46 @@
+{
+  "work_slug": "john-duncombe-poems-3a49f5",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE FEMINEAD: OR FEMALE GENIUS.",
+  "chapter_slug": "01-the-feminead-or-female-genius",
+  "author": "John Duncombe",
+  "author_slug": "john-duncombe",
+  "ecpa_poem_id": "o4987-w0700",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epic",
+      "panegyric"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 376
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "314bdba2-8d1d-526b-a036-b437090bdb61",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2840,
+      "line_count": 380,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

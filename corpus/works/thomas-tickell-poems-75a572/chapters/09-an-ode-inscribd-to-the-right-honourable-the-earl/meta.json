@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-tickell-poems-75a572",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "AN ODE Inscrib'd to the Right Honourable the EARL of SUNDERLAND at WINDSOR.",
+  "chapter_slug": "09-an-ode-inscribd-to-the-right-honourable-the-earl",
+  "author": "Thomas Tickell",
+  "author_slug": "thomas-tickell",
+  "ecpa_poem_id": "o5152-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 64
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fd792f8f-8013-5aeb-87ff-7cb204a31004",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 421,
+      "line_count": 74,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

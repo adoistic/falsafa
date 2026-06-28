@@ -1,0 +1,42 @@
+{
+  "work_slug": "joanna-baillie-poems-dfa2df",
+  "work_title": "Poems",
+  "chapter_number": 23,
+  "chapter_title": "LINES ON THE DEATH OF WILLIAM SOTHEBY, ESQ.",
+  "chapter_slug": "23-lines-on-the-death-of-william-sotheby-esq",
+  "author": "Joanna Baillie",
+  "author_slug": "joanna-baillie",
+  "ecpa_poem_id": "bjb18-w0230",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem",
+      "eulogy"
+    ],
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "metrical_pattern": "irregular",
+    "line_count": 74
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "94f36cbb-065e-5ba3-85ab-5ceab898a640",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 496,
+      "line_count": 75,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

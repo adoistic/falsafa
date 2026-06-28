@@ -1,0 +1,44 @@
+{
+  "work_slug": "joanna-baillie-poems-dfa2df",
+  "work_title": "Poems",
+  "chapter_number": 58,
+  "chapter_title": "SONG, WRITTEN FOR AN IRISH AIR.",
+  "chapter_slug": "58-song-written-for-an-irish-air",
+  "author": "Joanna Baillie",
+  "author_slug": "joanna-baillie",
+  "ecpa_poem_id": "bjb18-w0580",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababccxc",
+    "syllable_pattern": "8.7.8.7.6.6.8.7",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-/ -+|-+|-+|-+/ -+|-+|-+|-/ +|-+|-+|-/ +|-+|-+|-/ -+|-+|-+|-+/ -+|-+|-+|-/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eef7dafd-af5b-54a9-af05-c55aaa9112fa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 185,
+      "line_count": 34,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

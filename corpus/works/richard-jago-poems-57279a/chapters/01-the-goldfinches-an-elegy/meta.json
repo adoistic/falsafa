@@ -1,0 +1,45 @@
+{
+  "work_slug": "richard-jago-poems-57279a",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "The GOLDFINCHES. An Elegy.",
+  "chapter_slug": "01-the-goldfinches-an-elegy",
+  "author": "Richard Jago",
+  "author_slug": "richard-jago",
+  "ecpa_poem_id": "o5155-w0800",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic quatrain",
+      "elegiac stanza"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/         -+|-+|-+|-+|-+/",
+    "line_count": 80
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1d2d7537-12ec-571e-a04c-80c531b974ef",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 637,
+      "line_count": 83,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "work_slug": "lady-mary-chudleigh-poems-f0cfc5",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "The Wish.",
+  "chapter_slug": "10-the-wish",
+  "author": "Lady Mary Chudleigh",
+  "author_slug": "lady-mary-chudleigh",
+  "ecpa_poem_id": "clc03-w0100",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 26
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b0baeb90-6600-50ad-8a08-e9998687ec87",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 166,
+      "line_count": 27,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

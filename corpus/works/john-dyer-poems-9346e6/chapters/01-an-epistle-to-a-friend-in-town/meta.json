@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-dyer-poems-9346e6",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "AN EPISTLE TO A FRIEND IN TOWN.",
+  "chapter_slug": "01-an-epistle-to-a-friend-in-town",
+  "author": "John Dyer",
+  "author_slug": "john-dyer",
+  "ecpa_poem_id": "o4984-w0300",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "12.9.12.9",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+/",
+    "line_count": 20
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "68ba2240-b36c-5b65-a643-3c4117463537",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 160,
+      "line_count": 22,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

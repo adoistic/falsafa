@@ -1,0 +1,41 @@
+{
+  "work_slug": "philip-morin-freneau-poems-8d7769",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "THE FARMER'S WINTER EVENING, A POEM. To the NYMPH I never saw.",
+  "chapter_slug": "02-the-farmers-winter-evening-a-poem-to-the-nymph-i",
+  "author": "Philip Morin Freneau",
+  "author_slug": "philip-morin-freneau",
+  "ecpa_poem_id": "n09pf-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 74
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7b2379be-c004-5526-8468-04a2e2519eae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 485,
+      "line_count": 76,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

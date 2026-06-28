@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-taylor-poems-a36e7a",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "The DROPSICAL MAN.",
+  "chapter_slug": "10-the-dropsical-man",
+  "author": "William Taylor",
+  "author_slug": "william-taylor",
+  "ecpa_poem_id": "o5157-w0130",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "comic verse"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "--+|--+|--+|--+/",
+    "line_count": 25
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5b1ece0e-5293-55e6-923a-334bc37a1df0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 244,
+      "line_count": 27,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

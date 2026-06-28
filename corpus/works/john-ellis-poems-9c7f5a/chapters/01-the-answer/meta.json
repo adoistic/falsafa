@@ -1,0 +1,45 @@
+{
+  "work_slug": "john-ellis-poems-9c7f5a",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "The ANSWER.",
+  "chapter_slug": "01-the-answer",
+  "author": "John Ellis",
+  "author_slug": "john-ellis",
+  "ecpa_poem_id": "o5089-w0670",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "answer/reply",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 62
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "469398d4-f4e5-5711-95f0-95992cf223d7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 381,
+      "line_count": 63,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

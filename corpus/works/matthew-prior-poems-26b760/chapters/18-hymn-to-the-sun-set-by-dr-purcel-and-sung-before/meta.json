@@ -1,0 +1,40 @@
+{
+  "work_slug": "matthew-prior-poems-26b760",
+  "work_title": "Poems",
+  "chapter_number": 18,
+  "chapter_title": "HYMN to the SUN. Set by Dr. PURCEL, And Sung before their Majesties On New-Years-Day, 1694.",
+  "chapter_slug": "18-hymn-to-the-sun-set-by-dr-purcel-and-sung-before",
+  "author": "Matthew Prior",
+  "author_slug": "matthew-prior",
+  "ecpa_poem_id": "pmp18-w0130",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "Pindaric ode",
+      "address"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 78
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "97d0e071-c1d9-52c9-bbae-48a5efdd7cf7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 522,
+      "line_count": 87,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "samuel-henley-poems-ef4485",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "INSCRIPTION UNDER THE SHADE OF A LADY, GIVEN BY HER TO THE AUTHOR.",
+  "chapter_slug": "05-inscription-under-the-shade-of-a-lady-given-by-h",
+  "author": "Samuel Henley",
+  "author_slug": "samuel-henley",
+  "ecpa_poem_id": "o4986-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "inscription"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ba774016-ac00-5424-825b-9b10ce162778",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 206,
+      "line_count": 26,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "edward-moore-poems-516d92",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "THE POET AND HIS PATRON.",
+  "chapter_slug": "02-the-poet-and-his-patron",
+  "author": "Edward Moore",
+  "author_slug": "edward-moore",
+  "ecpa_poem_id": "o5089-w0700",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "fable"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 82
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d7b0fdc9-7877-5da1-8a87-f2be47911c47",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 515,
+      "line_count": 84,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

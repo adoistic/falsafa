@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-taylor-poems-a36e7a",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "HULL ALE.",
+  "chapter_slug": "06-hull-ale",
+  "author": "William Taylor",
+  "author_slug": "william-taylor",
+  "ecpa_poem_id": "o5156-w1030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "comic verse"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "--+|--+|--+|--+/",
+    "line_count": 20
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d3d3656c-9db5-51d9-9a72-d738191655b3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 197,
+      "line_count": 22,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

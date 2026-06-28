@@ -1,0 +1,39 @@
+{
+  "work_slug": "gilbert-west-poems-0d6c1e",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "Father FRANCIS'S Prayer. Written in Lord WESTMORLAND'S Hermitage.",
+  "chapter_slug": "06-father-franciss-prayer-written-in-lord-westmorla",
+  "author": "Gilbert West",
+  "author_slug": "gilbert-west",
+  "ecpa_poem_id": "o5155-w0550",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "line_count": 34
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "235e20e5-650f-5e98-916c-4a0e4fc1dfbb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 233,
+      "line_count": 38,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

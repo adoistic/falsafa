@@ -1,0 +1,45 @@
+{
+  "work_slug": "nathaniel-cotton-poems-076182",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "On Lord COBHAM'S Gardens.",
+  "chapter_slug": "05-on-lord-cobhams-gardens",
+  "author": "Nathaniel Cotton",
+  "author_slug": "nathaniel-cotton",
+  "ecpa_poem_id": "o5155-w0530",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "Chevy Chase stanza"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/",
+    "line_count": 8
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fc266fc0-bbfe-5a66-bb53-11b6b091f903",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 51,
+      "line_count": 10,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

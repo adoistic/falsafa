@@ -1,0 +1,44 @@
+{
+  "work_slug": "janet-little-poems-df0dac",
+  "work_title": "Poems",
+  "chapter_number": 27,
+  "chapter_title": "EPISTLE TO NELL, WROTE FROM LOUDOUN CASTLE.",
+  "chapter_slug": "27-epistle-to-nell-wrote-from-loudoun-castle",
+  "author": "Janet Little",
+  "author_slug": "janet-little",
+  "ecpa_poem_id": "bjl92-w0270",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aa943eb2-50a1-5c03-992b-1a1376f3f53f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 313,
+      "line_count": 50,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "work_slug": "joseph-giles-poems-17ca2e",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "Some Reflections upon hearing the Bell toll for the Death of a FRIEND.",
+  "chapter_slug": "01-some-reflections-upon-hearing-the-bell-toll-for-",
+  "author": "Joseph Giles",
+  "author_slug": "joseph-giles",
+  "ecpa_poem_id": "o5156-w0390",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/",
+    "line_count": 56
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c7f3b449-8958-5563-bdb1-b65af19eae98",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 379,
+      "line_count": 58,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

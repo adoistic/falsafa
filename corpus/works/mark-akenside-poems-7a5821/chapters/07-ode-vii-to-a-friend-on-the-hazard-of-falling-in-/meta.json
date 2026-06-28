@@ -1,0 +1,44 @@
+{
+  "work_slug": "mark-akenside-poems-7a5821",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "ODE VII. To a FRIEND, on the hazard of falling in LOVE.",
+  "chapter_slug": "07-ode-vii-to-a-friend-on-the-hazard-of-falling-in-",
+  "author": "Mark Akenside",
+  "author_slug": "mark-akenside",
+  "ecpa_poem_id": "o3776-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "septet (7 lines)"
+    ],
+    "rhyme": "ababccc",
+    "syllable_pattern": "8.8.8.8.8.8.10",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 70
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5cefaa47-b8e2-593c-984f-c9a03fc51942",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 464,
+      "line_count": 71,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

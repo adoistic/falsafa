@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-tickell-poems-75a572",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "ON THE Death of the Earl of CADOGAN.",
+  "chapter_slug": "08-on-the-death-of-the-earl-of-cadogan",
+  "author": "Thomas Tickell",
+  "author_slug": "thomas-tickell",
+  "ecpa_poem_id": "o5152-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ced4e50e-b124-5f4f-b476-96e8cbdf4dfc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 268,
+      "line_count": 34,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

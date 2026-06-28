@@ -1,0 +1,45 @@
+{
+  "work_slug": "edward-jerningham-poems-659c4b",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "AN ELEGY WRITTEN AMONG THE RUINS OF AN ABBEY.",
+  "chapter_slug": "01-an-elegy-written-among-the-ruins-of-an-abbey",
+  "author": "Edward Jerningham",
+  "author_slug": "edward-jerningham",
+  "ecpa_poem_id": "o4985-w0220",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy",
+      "graveyard school"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 136
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3900d8eb-ea7a-51e9-bb5d-f471a2c8ff32",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 975,
+      "line_count": 138,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

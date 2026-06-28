@@ -1,0 +1,45 @@
+{
+  "work_slug": "john-scott-poems-b94c17",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "WINTER PROSPECTS IN THE COUNTRY. AN EPISTLE TO A FRIEND IN LONDON, 1756.",
+  "chapter_slug": "07-winter-prospects-in-the-country-an-epistle-to-a-",
+  "author": "John Scott",
+  "author_slug": "john-scott",
+  "ecpa_poem_id": "o4987-w0390",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0eaed739-27e2-5042-83b3-9fc1997d5d87",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 368,
+      "line_count": 51,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

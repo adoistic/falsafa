@@ -1,0 +1,45 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 58,
+  "chapter_title": "An EPISTLE from the Elector of BAVARIA to the FRENCH King, after the Battle of RAMILLIES.",
+  "chapter_slug": "58-an-epistle-from-the-elector-of-bavaria-to-the-fr",
+  "author": "Stephen Clay",
+  "author_slug": "stephen-clay",
+  "ecpa_poem_id": "o5156-w0520",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 304
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4abad2e4-240e-5b9d-96dc-2b6ccbd68e73",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2348,
+      "line_count": 305,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

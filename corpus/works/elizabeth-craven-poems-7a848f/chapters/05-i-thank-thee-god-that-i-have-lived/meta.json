@@ -1,0 +1,40 @@
+{
+  "work_slug": "elizabeth-craven-poems-7a848f",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "[I thank thee God, that I have lived]",
+  "chapter_slug": "05-i-thank-thee-god-that-i-have-lived",
+  "author": "Elizabeth Craven",
+  "author_slug": "elizabeth-craven",
+  "ecpa_poem_id": "ilc21-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 26
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8c44f8b7-00ef-5fc3-995e-f5f4b7943284",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 207,
+      "line_count": 27,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

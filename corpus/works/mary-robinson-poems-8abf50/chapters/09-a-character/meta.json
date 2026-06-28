@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-robinson-poems-8abf50",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "A CHARACTER.",
+  "chapter_slug": "09-a-character",
+  "author": "Mary Robinson",
+  "author_slug": "mary-robinson",
+  "ecpa_poem_id": "pro75-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "character"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "7",
+    "metrical_pattern": "+-|+-|+-|+",
+    "line_count": 18
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fabb8693-d950-5c83-a62c-b595a5b100bd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 95,
+      "line_count": 19,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

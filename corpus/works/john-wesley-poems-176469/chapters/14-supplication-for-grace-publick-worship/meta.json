@@ -1,0 +1,45 @@
+{
+  "work_slug": "john-wesley-poems-176469",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "Supplication for Grace. PUBLICK WORSHIP.",
+  "chapter_slug": "14-supplication-for-grace-publick-worship",
+  "author": "John Wesley",
+  "author_slug": "john-wesley",
+  "ecpa_poem_id": "o3900-w1170",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn",
+      "translation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "ababcc",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "36709868-7509-5f45-a626-4f2b0b619aca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 255,
+      "line_count": 45,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

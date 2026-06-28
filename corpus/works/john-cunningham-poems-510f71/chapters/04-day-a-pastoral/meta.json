@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-cunningham-poems-510f71",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "DAY: A PASTORAL.",
+  "chapter_slug": "04-day-a-pastoral",
+  "author": "John Cunningham",
+  "author_slug": "john-cunningham",
+  "ecpa_poem_id": "o5089-w0800",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "7.7.7.7",
+    "metrical_pattern": "+-|+-|+-|+/        +-|+-|+-|+/ +-|+-|+-|+/ +-|+-|+-|+/",
+    "line_count": 108
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "77161ecd-8c86-502e-9aea-4aebc6e322ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 608,
+      "line_count": 141,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

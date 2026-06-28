@@ -1,0 +1,41 @@
+{
+  "work_slug": "william-hall-poems-8be186",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "To a LADY very handsome, but too fond of DRESS.",
+  "chapter_slug": "04-to-a-lady-very-handsome-but-too-fond-of-dress",
+  "author": "William Hall",
+  "author_slug": "william-hall",
+  "ecpa_poem_id": "o5157-w0210",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "9.9.9.9.9.9.9.9",
+    "metrical_pattern": "--+|--+|--+/         --+|--+|--+/         --+|--+|--+/         --+|--+|--+/         --+|--+|--+/         --+|--+|--+/         --+|--+|--+/         --+|--+|--+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f90b732e-9bff-5676-9e9a-7632abe1f48e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 251,
+      "line_count": 42,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

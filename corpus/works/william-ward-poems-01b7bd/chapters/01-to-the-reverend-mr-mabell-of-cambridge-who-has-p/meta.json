@@ -1,0 +1,46 @@
+{
+  "work_slug": "william-ward-poems-01b7bd",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "To the Reverend Mr. Mabell, of Cambridge, who has publish'd Proposals for a Translation of Longinus. Bath, Dec. 20. 1731.",
+  "chapter_slug": "01-to-the-reverend-mr-mabell-of-cambridge-who-has-p",
+  "author": "William Ward",
+  "author_slug": "william-ward",
+  "ecpa_poem_id": "pba35-w0950",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "address",
+      "essay"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 66
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6d69aad3-ecc4-50ba-9ce5-bc8432fab828",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 533,
+      "line_count": 69,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

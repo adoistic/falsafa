@@ -1,0 +1,40 @@
+{
+  "work_slug": "anne-finch-poems-8fd29f",
+  "work_title": "Poems",
+  "chapter_number": 43,
+  "chapter_title": "An EPISTLE from a Gentleman to Madam Deshouliers, returning Money she had lent him at Bassette, upon the first Day of their Acquaintance. Translated with Liberty from the French.",
+  "chapter_slug": "43-an-epistle-from-a-gentleman-to-madam-deshouliers",
+  "author": "Anne Finch",
+  "author_slug": "anne-finch",
+  "ecpa_poem_id": "o4784-w0430",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle",
+      "translation"
+    ],
+    "rhyme": "irregular",
+    "syllable_pattern": "8",
+    "metrical_pattern": "irregular",
+    "line_count": 46
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "16d95f9a-d96b-5643-85a7-0f383e7003c9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 316,
+      "line_count": 48,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

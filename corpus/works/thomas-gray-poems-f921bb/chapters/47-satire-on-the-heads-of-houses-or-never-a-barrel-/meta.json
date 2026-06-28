@@ -1,0 +1,43 @@
+{
+  "work_slug": "thomas-gray-poems-f921bb",
+  "work_title": "Poems",
+  "chapter_number": 47,
+  "chapter_title": "Satire on the Heads of Houses; or, Never a Barrel the Better Herring",
+  "chapter_slug": "47-satire-on-the-heads-of-houses-or-never-a-barrel-",
+  "author": "Thomas Gray",
+  "author_slug": "thomas-gray",
+  "ecpa_poem_id": "tgaen-wsahh",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "satire"
+    ],
+    "footnum": "dimeter (2 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "6",
+    "metrical_pattern": "--+|--+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3fc22876-0e28-5107-88d7-a86aa2c4da8c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 188,
+      "line_count": 37,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

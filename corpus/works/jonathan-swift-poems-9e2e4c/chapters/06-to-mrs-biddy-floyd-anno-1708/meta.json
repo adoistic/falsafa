@@ -1,0 +1,44 @@
+{
+  "work_slug": "jonathan-swift-poems-9e2e4c",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "To Mrs. BIDDY FLOYD. Anno. 1708.",
+  "chapter_slug": "06-to-mrs-biddy-floyd-anno-1708",
+  "author": "Jonathan Swift",
+  "author_slug": "jonathan-swift",
+  "ecpa_poem_id": "psw11-w0070",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "comic verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2ac775c0-baff-5eb9-a5b2-8d1fc733f7e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 96,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

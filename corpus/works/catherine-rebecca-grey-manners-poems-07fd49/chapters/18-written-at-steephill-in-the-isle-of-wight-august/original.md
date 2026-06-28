@@ -1,0 +1,128 @@
+---
+work_id: "07fd49f8-69c0-54d0-bd53-e02138a2b8c5"
+work_slug: "catherine-rebecca-grey-manners-poems-07fd49"
+work_title: Poems
+author: Catherine Rebecca Grey Manners
+author_slug: "catherine-rebecca-grey-manners"
+ecpa_poem_id: "pcm93-w0180"
+chapter_number: 18
+chapter_title: Written at Steephill, in the Isle of Wight, August, M DCC XC.
+chapter_slug: "18-written-at-steephill-in-the-isle-of-wight-august"
+variant_id: "19388c6a-f4dc-5cf0-b147-be3fb9133804"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 554
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - occasional poem
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - quatrain (4 lines)
+rhyme_scheme: abab
+syllable_pattern: 10.10.10.10
+---
+
+Written at Steephill, in the Isle of Wight,
+
+August, M DCC XC.
+
+WHAT joy, escaping from the restless throng,
+ Who in Augusta waste their trifling day,
+ To wander, Vecta, thy wild rocks among,
+ Or careless o'er thy airy summits stray! 
+
+Or musing loiter in thy waving groves,
+ Or mark thy limpid streamlets as they flow;
+ Or view thy hamlets, where mild Patience loves
+ To shade with olive Labour's sun-burnt brow! 
+
+Where the calm villagers content abide,
+ Blest in the sweets of Liberty and Peace,
+ Crop the luxuriant harvest's golden pride,
+ Or spread their nets to catch the finny race. 
+
+No wild ambition damps the genuine joys
+ Which bounteous Nature to her sons affords;
+ No keen remorse their quiet rest annoys,
+ Or sick disgust attends their frugal boards. 
+
+Ah! why should Fortune, with deceitful smile,
+ Lure free-born Britons from the rural plain,
+ In courts deprav'd for sordid wealth to toil,
+ And meanly drag a golden idiot's chain? 
+
+What numbers, Vecta, on thy sea-girt shore,
+ Unpractis'd in the world's pernicious strife,
+ Rich in simplicity, ne'er sought for more,
+ And clos'd where they receiv'd their blameless life! 
+
+Yet tho' thy hills no costly metals yield,
+ To draw oppressive Avarice from afar,
+ Even here the rustic in his native field
+ Has sunk beneath the iron hand of war. 
+
+When banish'd Harold with destructive rage
+ Against thine Isle his vengeful fury turn'd,
+ What crowds, unnoted in the historic page,
+ Here o'er their murder'd friends in anguish mourn'd! 
+
+The dreadful scene, methinks, even now I see! 
+O Harold, be this cruelty abhorr'd! 
+Spare the low cot of helpless Poverty,
+ And 'gainst the powerful turn thy conquering sword. 
+
+Here amid sanguine heaps Earl Goodwin stands;
+ Relentless Tosti hears the suppliants cry;
+ Those cries restrain not the fierce victor's hands,
+ And the pale Islanders unpitied die. 
+
+Unhappy victims, who with fruitless prayers
+ To savage conquerors have sued in vain! 
+To avenge your wrongs, impending Fate prepares
+ For your unfeeling foes an equal pain. 
+
+Soon civil discord, and fraternal hate,
+ Shall destine Tosti to an early tomb;
+ While madly proud, usurping regal state,
+ Harold on Hastings' plain shall meet his doom. 
+
+Where the insignia now of kingly pride,
+ The dazzling sceptre and imperial throne? 
+For him each vain distinction's laid aside! 
+ "UNHAPPY HAROLD! "only marks the stone. 
+
+Thus shall the monarch mingle with the slave,
+ Thus shall the noble and ignoble meet:
+ Death, all-subduing, opens in the grave,
+ To wealth and wretchedness a like retreat. 
+
+But turn, my mind, from ages long past o'er,
+ Far brighter prospects to thy view remain;
+ Vecta can dread a hostile force no more,
+ While England's navy triumphs o'er the main. 
+
+Behold the warlike fleet in proud array,
+ Majestic moving o'er the liquid plain:
+ Loose to the wind their flags and streamers play,
+ And menace ruin to insulting Spain. 
+
+Thrice happy land, where the directing care
+ Of a wise Statesman in each step we trace;
+ Whose active vigilance prepares for war,
+ Even when reclining in the lap of Peace! 
+
+Long may he, Albion, near thy throne preside;
+ And ne'er inconstant Fortune's falsehood prove,
+ Humble the Spanish and the Gallic pride,
+ And be rewarded by his country's love! 
+
+Here pause, my Muse! no more the theme pursue,
+ Fix on the present thine enraptur'd eye:
+ A brighter scene can ne'er attract thy view;
+ O, may its cheering lustre never die!

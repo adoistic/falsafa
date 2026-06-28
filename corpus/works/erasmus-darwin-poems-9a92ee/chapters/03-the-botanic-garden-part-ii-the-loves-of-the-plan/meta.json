@@ -1,0 +1,45 @@
+{
+  "work_slug": "erasmus-darwin-poems-9a92ee",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "[THE BOTANIC GARDEN. PART II. THE LOVES OF THE PLANTS.]",
+  "chapter_slug": "03-the-botanic-garden-part-ii-the-loves-of-the-plan",
+  "author": "Erasmus Darwin",
+  "author_slug": "erasmus-darwin",
+  "ecpa_poem_id": "o4671-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "essay"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 1930
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bbca96c4-9aaf-5d37-9839-6fd67ab89b25",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 15017,
+      "line_count": 2002,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

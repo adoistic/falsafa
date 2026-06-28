@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-hervey-poems-99f74a",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "To Mr. FOX, written at FLORENCE. In Imitation of HORACE, Ode 4. Book 2.",
+  "chapter_slug": "01-to-mr-fox-written-at-florence-in-imitation-of-ho",
+  "author": "John Hervey",
+  "author_slug": "john-hervey",
+  "ecpa_poem_id": "o5154-w0350",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 54
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1cd48f18-190c-5925-a89b-003aa96c2c78",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 417,
+      "line_count": 57,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

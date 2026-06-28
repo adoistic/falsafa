@@ -1,0 +1,45 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 96,
+  "chapter_title": "ALLEN AND ELLA. A FRAGMENT.",
+  "chapter_slug": "96-allen-and-ella-a-fragment",
+  "author": "Andrew Hervey Mills",
+  "author_slug": "andrew-hervey-mills",
+  "ecpa_poem_id": "o4984-w0720",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "fragment"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "trimeter (3 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "9.9.9.9",
+    "metrical_pattern": "--+|--+|--+/ --+|--+|--+/ --+|--+|--+/ --+|--+|--+/",
+    "line_count": 100
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "38dae0cf-0e1e-5aef-ab18-b92eee5938c0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 686,
+      "line_count": 103,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

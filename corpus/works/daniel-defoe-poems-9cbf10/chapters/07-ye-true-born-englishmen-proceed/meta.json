@@ -1,0 +1,41 @@
+{
+  "work_slug": "daniel-defoe-poems-9cbf10",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "[Ye true-born Englishmen proceed]",
+  "chapter_slug": "07-ye-true-born-englishmen-proceed",
+  "author": "Daniel Defoe",
+  "author_slug": "daniel-defoe",
+  "ecpa_poem_id": "o4539-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quintet (5 lines)"
+    ],
+    "rhyme": "abaab",
+    "syllable_pattern": "8.7.8.8.7",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 185
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4c1eb78f-69bf-54da-a936-217a0554cae5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1083,
+      "line_count": 223,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

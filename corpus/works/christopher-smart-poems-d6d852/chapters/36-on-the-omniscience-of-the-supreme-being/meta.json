@@ -1,0 +1,41 @@
+{
+  "work_slug": "christopher-smart-poems-d6d852",
+  "work_title": "Poems",
+  "chapter_number": 36,
+  "chapter_title": "ON THE OMNISCIENCE OF THE SUPREME BEING.",
+  "chapter_slug": "36-on-the-omniscience-of-the-supreme-being",
+  "author": "Christopher Smart",
+  "author_slug": "christopher-smart",
+  "ecpa_poem_id": "o4987-w0920",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "essay"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 187
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eb15b262-72c3-58e2-81e7-fa4b5292c33f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1387,
+      "line_count": 189,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

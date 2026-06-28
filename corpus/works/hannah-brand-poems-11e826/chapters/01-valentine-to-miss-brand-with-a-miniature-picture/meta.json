@@ -1,0 +1,45 @@
+{
+  "work_slug": "hannah-brand-poems-11e826",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "VALENTINE TO MISS BRAND, WITH A Miniature Picture, Laid upon her Toilet on Saint Valentine's Eve, 1786.",
+  "chapter_slug": "01-valentine-to-miss-brand-with-a-miniature-picture",
+  "author": "Hannah Brand",
+  "author_slug": "hannah-brand",
+  "ecpa_poem_id": "o4091-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 26
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "42bb26b1-09a1-5053-9fc1-108be37b801f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 228,
+      "line_count": 28,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

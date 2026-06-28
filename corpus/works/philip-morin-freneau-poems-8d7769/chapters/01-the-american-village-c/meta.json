@@ -1,0 +1,41 @@
+{
+  "work_slug": "philip-morin-freneau-poems-8d7769",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE AMERICAN VILLAGE, &c.",
+  "chapter_slug": "01-the-american-village-c",
+  "author": "Philip Morin Freneau",
+  "author_slug": "philip-morin-freneau",
+  "ecpa_poem_id": "n09pf-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 438
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b505d3ae-a1af-5989-9eca-2b5836d32047",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3399,
+      "line_count": 439,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "work_slug": "john-scott-poems-b94c17",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "SONNET. TO BRITANNIA.",
+  "chapter_slug": "12-sonnet-to-britannia",
+  "author": "John Scott",
+  "author_slug": "john-scott",
+  "ecpa_poem_id": "o4987-w0440",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet",
+      "Italian (Petrarchan) sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "ababababccdeed",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a8e23d0b-426f-576e-a2d6-ee16443b38ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 109,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

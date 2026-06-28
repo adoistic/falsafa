@@ -1,0 +1,39 @@
+{
+  "work_slug": "james-macpherson-poems-bc4ce0",
+  "work_title": "Poems",
+  "chapter_number": 26,
+  "chapter_title": "CARRIC-THURA: A POEM.",
+  "chapter_slug": "26-carric-thura-a-poem",
+  "author": "James Macpherson",
+  "author_slug": "james-macpherson",
+  "ecpa_poem_id": "o5164-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prose poem",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "line_count": 59
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ce5d80ef-7905-5af0-840d-1fa3145eda45",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4011,
+      "line_count": 72,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

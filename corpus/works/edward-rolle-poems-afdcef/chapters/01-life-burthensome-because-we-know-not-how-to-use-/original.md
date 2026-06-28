@@ -1,0 +1,101 @@
+---
+work_id: "afdcef1c-c2ca-5582-9cfc-5c7c8aab4564"
+work_slug: "edward-rolle-poems-afdcef"
+work_title: Poems
+author: Edward Rolle
+author_slug: "edward-rolle"
+ecpa_poem_id: "o5154-w0100"
+chapter_number: 1
+chapter_title: LIFE burthensome, because we know not how to use it. An EPISTLE.
+chapter_slug: "01-life-burthensome-because-we-know-not-how-to-use-"
+variant_id: "850cd2f0-e233-5dff-b07a-28ddc8750d19"
+content_type: original
+layout: verse
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 534
+source_url: "https://www.eighteenthcenturypoetry.org/"
+license: "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+genres:
+  - heroic couplet
+  - epistle
+metrical_foot: iambic (˘′)
+metrical_count: pentameter (5 feet)
+stanza_form:
+  - couplet (2 lines)
+rhyme_scheme: aa
+syllable_pattern: 10
+---
+
+LIFE burthensome, because we know not how to use it.
+
+An EPISTLE.
+
+WHAT, sir, a month, and not one line afford?
+'Tis well: — how finely some folk keep their word!
+I own my promise. — But to steal an hour,
+'Midst all this hurry — 'tis not in my pow'r,
+Where life each day does one fix'd order keep,
+Successive journies, weariness and sleep.
+Or if our scheme some interval allows,
+Some hours design'd for thought and for repose;
+Soon as the scatter'd images begin
+In the mind to rally — company comes in:
+Reason, adieu! there's no more room to think;
+For all the day behind is noise and drink.
+Thus life rolls on, but not without regret;
+Whene'er at morning, in some cool retreat,
+I walk alone: — 'tis then in thought I view
+Some sage of old; 'tis then I think of you:
+Whose breast no tyrant passions ever seize,
+No pulse that riots, blood that disobeys;
+Who follow but where judgment points the way,
+And whom too busy sense ne'er led astray.
+Not that you joys with moderation shun,
+You taste all pleasures, but indulge in none.
+Fir'd by this image, I resolve anew:
+'Tis reason calls, and peace and joy's in view.
+How bless'd a change! a long adieu to sense:
+O shield me, sapience! virtue's reign commence!
+Alas, how short a reign? — the walk is o'er,
+The dinner waits, and friends some half a score:
+At first to virtue firm, the glass I fly;
+'Till some sly sot, — "Not drink the family!"
+Thus gratitude is made to plead for sin;
+My trait'rous breast a party forms within:
+And inclination brib'd, we never want
+Excuse — "'Tis hot, and walking makes one faint."
+Now sense gets strength; my bright resolves decay,
+Like stars that melt at the approach of day:
+Thought dies, and ev'n, at last, your image fades away.
+My head grows warm; all reason I despise:
+"To-day be happy, and to-morrow wise!"
+Betray'd so oft, I'm half persuaded now,
+Surely to fail, the first step is to vow.
+
+The country lately, 'twas my wish: oh there!
+Gardens, diversions, friends, relations, air:
+For London now, dear London, how I burn!
+I must be happy, sure, when I return.
+Whoever hopes true happiness to see,
+Hopes for what never was, nor e'er will be:
+The nearest ease, since we must suffer still,
+Are they, who dare be patient under ill.
+
+Whilom a fool saw where a fiddle lay;
+And after pouring round it, strove to play:
+Above, below, across, all ways he tries;
+He tries in vain, 'tis discord all and noise:
+Fretting he threw it by: then thus the lout;
+"There's musick in it, could I fetch it out."
+If life does not its harmony impart,
+We want not instruments, but have not art.
+'Tis endless to defer our hopes of ease,
+Till crosses end, and disappointments cease.
+The sage is happy, not that all goes right,
+His cattle feel no rot, his corn no blight;
+The mind for ease is fitted to the wise,
+Not so the fool's; — 'tis here the difference lies:
+Their prospect is the same, but various are their eyes.

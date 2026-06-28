@@ -1,0 +1,46 @@
+{
+  "work_slug": "alexander-pope-poems-2de8d3",
+  "work_title": "Poems",
+  "chapter_number": 13,
+  "chapter_title": "WINDSOR-FOREST. To the Right Honourable GEORGE Lord LANSDOWN.",
+  "chapter_slug": "13-windsor-forest-to-the-right-honourable-george-lo",
+  "author": "Alexander Pope",
+  "author_slug": "alexander-pope",
+  "ecpa_poem_id": "o3704-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "georgic",
+      "prospect poem / topographical poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 432
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "403b9a95-0b66-51dd-905e-99ea4d6198c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3337,
+      "line_count": 434,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

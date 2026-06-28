@@ -1,0 +1,46 @@
+{
+  "work_slug": "thomas-tickell-poems-75a572",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "To the Right Honourable the Earl of WARWICK, &c. On the Death of Mr. ADDISON.",
+  "chapter_slug": "04-to-the-right-honourable-the-earl-of-warwick-c-on",
+  "author": "Thomas Tickell",
+  "author_slug": "thomas-tickell",
+  "ecpa_poem_id": "o5152-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "elegy",
+      "address"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 114
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7f0ea364-8025-5576-8c76-297cd0899f43",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 905,
+      "line_count": 116,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

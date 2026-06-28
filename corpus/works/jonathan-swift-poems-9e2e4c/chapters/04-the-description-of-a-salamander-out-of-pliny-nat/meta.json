@@ -1,0 +1,45 @@
+{
+  "work_slug": "jonathan-swift-poems-9e2e4c",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "THE DESCRIPTION OF A Salamander. Out of Pliny Nat. Hist. L. 10. C. 67 and L. 29 C. 4.",
+  "chapter_slug": "04-the-description-of-a-salamander-out-of-pliny-nat",
+  "author": "Jonathan Swift",
+  "author_slug": "jonathan-swift",
+  "ecpa_poem_id": "psw11-w0050",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "satire",
+      "answer/reply"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 70
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1793a0f8-8cc8-5446-b829-6ac7cfedea7a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 465,
+      "line_count": 73,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

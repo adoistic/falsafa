@@ -1,0 +1,44 @@
+{
+  "work_slug": "elizabeth-craven-poems-7a848f",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "[A thing my dear Lord, that I ne'er should have thought on]",
+  "chapter_slug": "03-a-thing-my-dear-lord-that-i-neer-should-have-tho",
+  "author": "Elizabeth Craven",
+  "author_slug": "elizabeth-craven",
+  "ecpa_poem_id": "ilc19-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "comic verse"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "--+|--+|--+|--+/",
+    "line_count": 52
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "65ef140d-9256-5b70-ac14-1af0cf20b4e2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 507,
+      "line_count": 53,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

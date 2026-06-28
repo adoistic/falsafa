@@ -1,0 +1,43 @@
+{
+  "work_slug": "thomas-durfey-poems-452b4d",
+  "work_title": "Poems",
+  "chapter_number": 55,
+  "chapter_title": "TO CHLORIS: A SONG.",
+  "chapter_slug": "55-to-chloris-a-song",
+  "author": "Thomas D'Urfey",
+  "author_slug": "thomas-durfey",
+  "ecpa_poem_id": "oau90-w0550",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "stanzas": [
+      "ten-line stanza",
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababccdeed",
+    "syllable_pattern": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 20
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "76942ec3-de43-54a1-a2a3-c477ac9b1b9d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 134,
+      "line_count": 23,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

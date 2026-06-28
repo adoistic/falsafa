@@ -1,0 +1,44 @@
+{
+  "work_slug": "oliver-goldsmith-poems-7b74c6",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "THE HERMIT.",
+  "chapter_slug": "01-the-hermit",
+  "author": "Oliver Goldsmith",
+  "author_slug": "oliver-goldsmith",
+  "ecpa_poem_id": "o4987-w0570",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 156
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a524b5ec-a186-5381-a7e5-b8f63198f4dc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 922,
+      "line_count": 158,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "mary-robinson-poems-8abf50",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "An EPISTLE to a FRIEND.",
+  "chapter_slug": "11-an-epistle-to-a-friend",
+  "author": "Mary Robinson",
+  "author_slug": "mary-robinson",
+  "ecpa_poem_id": "pro75-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epistle"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 48
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d37bdcfc-0171-54a2-8d2b-e58bd044dcf3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 266,
+      "line_count": 57,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

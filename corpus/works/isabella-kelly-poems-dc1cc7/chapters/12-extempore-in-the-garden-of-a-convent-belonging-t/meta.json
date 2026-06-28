@@ -1,0 +1,45 @@
+{
+  "work_slug": "isabella-kelly-poems-dc1cc7",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "EXTEMPORE in the GARDEN of a CONVENT belonging to LES SOEURS NOIR, à BOURBURG.",
+  "chapter_slug": "12-extempore-in-the-garden-of-a-convent-belonging-t",
+  "author": "Isabella Kelly",
+  "author_slug": "isabella-kelly",
+  "ecpa_poem_id": "pik94-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 18
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c0547017-fdba-5943-b314-97082ac672f4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 148,
+      "line_count": 19,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

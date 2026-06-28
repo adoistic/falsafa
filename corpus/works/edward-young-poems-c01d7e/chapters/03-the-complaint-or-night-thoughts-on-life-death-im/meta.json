@@ -1,0 +1,42 @@
+{
+  "work_slug": "edward-young-poems-c01d7e",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "[The Complaint: or, Night-Thoughts on Life, Death & Immortality.] Night III. Narcissa.",
+  "chapter_slug": "03-the-complaint-or-night-thoughts-on-life-death-im",
+  "author": "Edward Young",
+  "author_slug": "edward-young",
+  "ecpa_poem_id": "ayo19-w0030",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "meditation",
+      "graveyard school"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 536
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "35ce19bd-ac9a-50cc-be18-e6d18be7b24b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4131,
+      "line_count": 539,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

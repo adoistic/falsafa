@@ -1,0 +1,47 @@
+{
+  "work_slug": "john-gilbert-cooper-poems-d9c6a6",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "THE ESTIMATE of LIFE, IN THREE PARTS. A POEM:",
+  "chapter_slug": "04-the-estimate-of-life-in-three-parts-a-poem",
+  "author": "John Gilbert Cooper",
+  "author_slug": "john-gilbert-cooper",
+  "ecpa_poem_id": "o5154-w0440",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "satire",
+      "character",
+      "advice",
+      "mock heroic"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 265
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "55aacc65-9127-566c-8be1-6e78e3e5fb09",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1566,
+      "line_count": 271,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

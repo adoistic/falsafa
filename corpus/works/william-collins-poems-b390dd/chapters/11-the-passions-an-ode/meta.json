@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-collins-poems-b390dd",
+  "work_title": "Poems",
+  "chapter_number": 11,
+  "chapter_title": "THE PASSIONS. AN ODE.",
+  "chapter_slug": "11-the-passions-an-ode",
+  "author": "William Collins",
+  "author_slug": "william-collins",
+  "ecpa_poem_id": "o4985-w0110",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 118
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1e7f8413-bf55-5e5c-badb-29fa26f6b898",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 776,
+      "line_count": 120,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

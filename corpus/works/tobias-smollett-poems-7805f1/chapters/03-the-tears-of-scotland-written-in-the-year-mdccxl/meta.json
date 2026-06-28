@@ -1,0 +1,45 @@
+{
+  "work_slug": "tobias-smollett-poems-7805f1",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "THE TEARS OF SCOTLAND. WRITTEN IN THE YEAR MDCCXLVI.",
+  "chapter_slug": "03-the-tears-of-scotland-written-in-the-year-mdccxl",
+  "author": "Tobias Smollett",
+  "author_slug": "tobias-smollett",
+  "ecpa_poem_id": "o5089-w0720",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy",
+      "lament"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aabbccdd",
+    "syllable_pattern": "8.8.8.8.8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 56
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2b2b178f-633c-59f4-a4d7-d9278e7380bf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 353,
+      "line_count": 65,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

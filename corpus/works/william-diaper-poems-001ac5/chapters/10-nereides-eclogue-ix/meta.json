@@ -1,0 +1,47 @@
+{
+  "work_slug": "william-diaper-poems-001ac5",
+  "work_title": "Poems",
+  "chapter_number": 10,
+  "chapter_title": "[Nereides:] Eclogue IX.",
+  "chapter_slug": "10-nereides-eclogue-ix",
+  "author": "William Diaper",
+  "author_slug": "william-diaper",
+  "ecpa_poem_id": "pdi12-w0100",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "dialogue",
+      "pastoral",
+      "eclogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 44
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "653602f5-389e-538c-902e-598eb95b8826",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 365,
+      "line_count": 51,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

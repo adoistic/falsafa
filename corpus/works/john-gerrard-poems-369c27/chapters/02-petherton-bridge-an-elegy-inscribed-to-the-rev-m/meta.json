@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-gerrard-poems-369c27",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "PETHERTON-BRIDGE. AN ELEGY. INSCRIBED TO THE REV. MR. BEAN, OF STOKE-SUB-HAMDON, SOMERSET.",
+  "chapter_slug": "02-petherton-bridge-an-elegy-inscribed-to-the-rev-m",
+  "author": "John Gerrard",
+  "author_slug": "john-gerrard",
+  "ecpa_poem_id": "o4987-w0870",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 60
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f490501b-0806-51f7-9493-092302a828ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 379,
+      "line_count": 63,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

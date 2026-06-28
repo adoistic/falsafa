@@ -1,0 +1,38 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 166,
+  "chapter_title": "ODE TO A SINGING BIRD.",
+  "chapter_slug": "166-ode-to-a-singing-bird",
+  "author": "Myles Cooper",
+  "author_slug": "myles-cooper",
+  "ecpa_poem_id": "o4987-w0540",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 70
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4c7055c1-213a-53f8-8c5a-1c0cb9bdd8dc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 461,
+      "line_count": 72,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

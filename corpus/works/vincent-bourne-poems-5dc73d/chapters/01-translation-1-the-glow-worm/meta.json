@@ -1,0 +1,44 @@
+{
+  "work_slug": "vincent-bourne-poems-5dc73d",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "[Translation] 1. THE GLOW-WORM,",
+  "chapter_slug": "01-translation-1-the-glow-worm",
+  "author": "Vincent Bourne",
+  "author_slug": "vincent-bourne",
+  "ecpa_poem_id": "o3794-w0310",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "translation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e6e5d0fa-0bf8-5326-9fca-256588dee56c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 173,
+      "line_count": 36,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

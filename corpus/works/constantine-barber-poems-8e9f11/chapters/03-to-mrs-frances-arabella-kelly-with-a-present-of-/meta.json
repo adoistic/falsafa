@@ -1,0 +1,44 @@
+{
+  "work_slug": "constantine-barber-poems-8e9f11",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "To Mrs. Frances-Arabella Kelly, with a Present of Fruit.",
+  "chapter_slug": "03-to-mrs-frances-arabella-kelly-with-a-present-of-",
+  "author": "Constantine Barber",
+  "author_slug": "constantine-barber",
+  "ecpa_poem_id": "pba35-w1180",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "12.12.12.12.12.12",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+|--+/",
+    "line_count": 6
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ff7d454f-cc68-5f5d-89c0-6f4194d3ba7e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 65,
+      "line_count": 8,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

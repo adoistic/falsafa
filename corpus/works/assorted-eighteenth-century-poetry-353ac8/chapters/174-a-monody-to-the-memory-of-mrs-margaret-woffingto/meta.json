@@ -1,0 +1,46 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 174,
+  "chapter_title": "A MONODY TO THE MEMORY OF MRS. MARGARET WOFFINGTON.",
+  "chapter_slug": "174-a-monody-to-the-memory-of-mrs-margaret-woffingto",
+  "author": "John Hoole",
+  "author_slug": "john-hoole",
+  "ecpa_poem_id": "o4985-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "monody",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 230
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2fc733a2-7c8d-528a-9685-f0b15d6287e7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1779,
+      "line_count": 232,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

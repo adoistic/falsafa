@@ -1,0 +1,41 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 29,
+  "chapter_title": "ON THE MUCH LAMENTED DEATH OF THE MARQUIS OF TAVISTOCK.",
+  "chapter_slug": "29-on-the-much-lamented-death-of-the-marquis-of-tav",
+  "author": "Christopher Anstey",
+  "author_slug": "christopher-anstey",
+  "ecpa_poem_id": "o4986-w0320",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 74
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cba260b1-201c-5ae4-b573-de70c524dc1a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 583,
+      "line_count": 76,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

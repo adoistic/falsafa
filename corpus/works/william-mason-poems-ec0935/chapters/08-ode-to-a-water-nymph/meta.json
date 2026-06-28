@@ -1,0 +1,39 @@
+{
+  "work_slug": "william-mason-poems-ec0935",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "ODE to a WATER NYMPH.",
+  "chapter_slug": "08-ode-to-a-water-nymph",
+  "author": "William Mason",
+  "author_slug": "william-mason",
+  "ecpa_poem_id": "o5154-w0660",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "rhyme": "abab",
+    "line_count": 76
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d29d3592-f3dc-56d6-997f-bc0595183c3f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 518,
+      "line_count": 78,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

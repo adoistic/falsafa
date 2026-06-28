@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-gambold-poems-c6ea61",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "To a FRIEND in LOVE.",
+  "chapter_slug": "04-to-a-friend-in-love",
+  "author": "John Gambold",
+  "author_slug": "john-gambold",
+  "ecpa_poem_id": "o3900-w0140",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 78
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8417989b-4844-51bc-9009-01be180f943a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 612,
+      "line_count": 79,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

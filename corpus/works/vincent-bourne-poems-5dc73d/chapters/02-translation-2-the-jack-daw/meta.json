@@ -1,0 +1,44 @@
+{
+  "work_slug": "vincent-bourne-poems-5dc73d",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "[Translation] 2. THE JACK DAW.",
+  "chapter_slug": "02-translation-2-the-jack-daw",
+  "author": "Vincent Bourne",
+  "author_slug": "vincent-bourne",
+  "ecpa_poem_id": "o3794-w0320",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "translation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 36
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "70df834f-7d41-5f6f-9655-a233c33bba26",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 223,
+      "line_count": 43,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

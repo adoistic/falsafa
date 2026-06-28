@@ -1,0 +1,41 @@
+{
+  "work_slug": "thomas-edwards-poems-e02caa",
+  "work_title": "Poems",
+  "chapter_number": 12,
+  "chapter_title": "SONNET IV.",
+  "chapter_slug": "12-sonnet-iv",
+  "author": "Thomas Edwards",
+  "author_slug": "thomas-edwards",
+  "ecpa_poem_id": "o5153-w0773",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet",
+      "Italian (Petrarchan) sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c25e22a7-32d2-5117-91ec-48e0406f490b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 115,
+      "line_count": 15,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 28,
+  "chapter_title": "AN ODE TO THE GENIUS OF SCANDAL.",
+  "chapter_slug": "28-an-ode-to-the-genius-of-scandal",
+  "author": "Richard Brinsley Sheridan",
+  "author_slug": "richard-brinsley-sheridan",
+  "ecpa_poem_id": "o4081-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "metrical_pattern": "irregular",
+    "line_count": 238
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f0587b8-1aa5-594e-b514-5df5895262ba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1537,
+      "line_count": 239,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

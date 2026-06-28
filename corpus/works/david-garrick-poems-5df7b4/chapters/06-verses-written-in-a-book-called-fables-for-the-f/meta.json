@@ -1,0 +1,46 @@
+{
+  "work_slug": "david-garrick-poems-5df7b4",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "VERSES written in a Book called, Fables for the Female Sex.",
+  "chapter_slug": "06-verses-written-in-a-book-called-fables-for-the-f",
+  "author": "David Garrick",
+  "author_slug": "david-garrick",
+  "ecpa_poem_id": "o5154-w0500",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ballad metre",
+      "Chevy Chase stanza",
+      "dedication"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/          -+|-+|-+/         -+|-+|-+|-+/          -+|-+|-+/",
+    "line_count": 8
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "43695b79-004a-5835-b2ac-cf710ebca06a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 57,
+      "line_count": 10,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

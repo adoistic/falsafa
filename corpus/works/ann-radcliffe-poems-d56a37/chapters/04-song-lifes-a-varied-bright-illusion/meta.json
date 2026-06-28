@@ -1,0 +1,44 @@
+{
+  "work_slug": "ann-radcliffe-poems-d56a37",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "SONG. [Life's a varied, bright illusion]",
+  "chapter_slug": "04-song-lifes-a-varied-bright-illusion",
+  "author": "Ann Radcliffe",
+  "author_slug": "ann-radcliffe",
+  "ecpa_poem_id": "par19-w0040",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.7.8.7",
+    "metrical_pattern": "+-|+-|+-|+-/ +-|+-|+-|+/ +-|+-|+-|+-/ +-|+-|+-|+/",
+    "line_count": 12
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "adc531c4-84bd-558c-b80e-60c45f9dacff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 78,
+      "line_count": 13,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

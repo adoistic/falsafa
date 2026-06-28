@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-campbell-poems-56c1cb",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "GILDEROY.",
+  "chapter_slug": "06-gilderoy",
+  "author": "Thomas Campbell",
+  "author_slug": "thomas-campbell",
+  "ecpa_poem_id": "n27tc-w0060",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2d6c4930-860f-5b03-805f-d3be3c9e1982",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 227,
+      "line_count": 41,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

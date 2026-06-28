@@ -1,0 +1,45 @@
+{
+  "work_slug": "william-mason-poems-ec0935",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "ELEGY TO A YOUNG NOBLEMAN LEAVING THE UNIVERSITY. MDCCLIII.",
+  "chapter_slug": "03-elegy-to-a-young-nobleman-leaving-the-university",
+  "author": "William Mason",
+  "author_slug": "william-mason",
+  "ecpa_poem_id": "o4984-w0420",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic quatrain",
+      "elegy"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "10.10.10.10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/",
+    "line_count": 76
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ffa7924d-9649-5bca-bc62-88d0d8164cc2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 595,
+      "line_count": 79,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

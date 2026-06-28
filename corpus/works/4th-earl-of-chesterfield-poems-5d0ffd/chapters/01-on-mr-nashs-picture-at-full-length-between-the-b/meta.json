@@ -1,0 +1,44 @@
+{
+  "work_slug": "4th-earl-of-chesterfield-poems-5d0ffd",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "ON MR. NASH's PICTURE AT FULL LENGTH BETWEEN THE BUSTS OF SIR ISAAC NEWTON AND MR. POPE, AT BATH.",
+  "chapter_slug": "01-on-mr-nashs-picture-at-full-length-between-the-b",
+  "author": "4th Earl of Chesterfield",
+  "author_slug": "4th-earl-of-chesterfield",
+  "ecpa_poem_id": "o4987-w0180",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3c827940-85d6-5764-b0d4-3a1f2a8780f0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 157,
+      "line_count": 26,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

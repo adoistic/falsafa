@@ -1,0 +1,45 @@
+{
+  "work_slug": "thomas-chatterton-poems-a2db0f",
+  "work_title": "Poems",
+  "chapter_number": 36,
+  "chapter_title": "SONG TO MR. G. CATCOTT. 1769.",
+  "chapter_slug": "36-song-to-mr-g-catcott-1769",
+  "author": "Thomas Chatterton",
+  "author_slug": "thomas-chatterton",
+  "ecpa_poem_id": "o4198-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song",
+      "address"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "11.8.11.8",
+    "metrical_pattern": "-+|--+|--+|--+/ -+|--+|--+/ -+|--+|--+|--+/ -+|--+|--+/",
+    "line_count": 28
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a876e7f3-c021-5bfc-9701-66fd2fb3fe26",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 221,
+      "line_count": 37,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

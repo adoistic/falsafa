@@ -1,0 +1,45 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 23,
+  "chapter_title": "JOVI ELEUTHERIO. Or, an OFFERING to LIBERTY.",
+  "chapter_slug": "23-jovi-eleutherio-or-an-offering-to-liberty",
+  "author": "Glocester Ridley",
+  "author_slug": "glocester-ridley",
+  "ecpa_poem_id": "o5154-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "panegyric"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 376
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9fb63e10-aaf0-5214-b723-cf09d685f9f6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2884,
+      "line_count": 378,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

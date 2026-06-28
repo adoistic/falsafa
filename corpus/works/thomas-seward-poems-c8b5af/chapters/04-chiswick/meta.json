@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-seward-poems-c8b5af",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "CHISWICK.",
+  "chapter_slug": "04-chiswick",
+  "author": "Thomas Seward",
+  "author_slug": "thomas-seward",
+  "ecpa_poem_id": "o5153-w0680",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prospect poem / topographical poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 8
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "78fe2e30-b446-5e45-822e-aac19821777c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 63,
+      "line_count": 10,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

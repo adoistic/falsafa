@@ -1,0 +1,41 @@
+{
+  "work_slug": "richard-jago-poems-57279a",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "HAMLET's SOLILOQUY, Imitated.",
+  "chapter_slug": "07-hamlets-soliloquy-imitated",
+  "author": "Richard Jago",
+  "author_slug": "richard-jago",
+  "ecpa_poem_id": "o5156-w0360",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "imitation"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e2de71f6-9192-51a5-8571-bf2d5ffa642f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 264,
+      "line_count": 34,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-lisle-poems-d6a267",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "The HISTORY of PORSENNA, King of RUSSIA IN TWO BOOKS.",
+  "chapter_slug": "07-the-history-of-porsenna-king-of-russia-in-two-bo",
+  "author": "Thomas Lisle",
+  "author_slug": "thomas-lisle",
+  "ecpa_poem_id": "o5157-w0330",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 897
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ccf45cdb-43e1-58cc-b9bb-6e7734ff8b3d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7072,
+      "line_count": 902,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

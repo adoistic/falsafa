@@ -1,0 +1,39 @@
+{
+  "work_slug": "william-mason-poems-ec0935",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "IL PACIFICO. WRITTEN ON THE CONCLUSION OF THE PEACE OF AIX-LA-CHAPELLE, MDCCXLVIII.",
+  "chapter_slug": "01-il-pacifico-written-on-the-conclusion-of-the-pea",
+  "author": "William Mason",
+  "author_slug": "william-mason",
+  "ecpa_poem_id": "o4984-w0400",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral",
+      "imitation"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 164
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4f8f9aa3-efe8-5021-a5ea-77beda9eb613",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 979,
+      "line_count": 167,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

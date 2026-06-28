@@ -1,0 +1,44 @@
+{
+  "work_slug": "william-congreve-poems-d6b91f",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "PROLOGUE TO THE COURT; On the QUEEN's Birth-Day, 1704.",
+  "chapter_slug": "01-prologue-to-the-court-on-the-queens-birth-day-17",
+  "author": "William Congreve",
+  "author_slug": "william-congreve",
+  "ecpa_poem_id": "o3309-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "75f85e03-0c77-5804-9415-69e9d5e5021d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 309,
+      "line_count": 41,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

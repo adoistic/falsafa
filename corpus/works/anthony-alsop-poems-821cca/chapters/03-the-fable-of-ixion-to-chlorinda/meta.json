@@ -1,0 +1,41 @@
+{
+  "work_slug": "anthony-alsop-poems-821cca",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "The Fable of IXION. To CHLORINDA.",
+  "chapter_slug": "03-the-fable-of-ixion-to-chlorinda",
+  "author": "Anthony Alsop",
+  "author_slug": "anthony-alsop",
+  "ecpa_poem_id": "o5157-w0520",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 97
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eacde0b7-bb1a-52d5-9956-303a33b23fdb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 691,
+      "line_count": 100,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

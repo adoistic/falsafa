@@ -1,0 +1,44 @@
+{
+  "work_slug": "rebekah-carmichael-poems-f536c3",
+  "work_title": "Poems",
+  "chapter_number": 18,
+  "chapter_title": "ON A LATE DISTURBANCE IN THE THEATRE",
+  "chapter_slug": "18-on-a-late-disturbance-in-the-theatre",
+  "author": "Rebekah Carmichael",
+  "author_slug": "rebekah-carmichael",
+  "ecpa_poem_id": "prc90-w0180",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "11.11.11.11.11.11",
+    "metrical_pattern": "-+|--+|--+|--+ -+|--+|--+|--+ -+|--+|--+|--+ -+|--+|--+|--+ -+|--+|--+|--+ -+|--+|--+|--+",
+    "line_count": 6
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "69083db7-1349-5e13-92fc-5761e746e493",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 62,
+      "line_count": 7,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

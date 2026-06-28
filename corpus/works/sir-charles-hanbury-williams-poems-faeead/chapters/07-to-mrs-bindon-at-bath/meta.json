@@ -1,0 +1,41 @@
+{
+  "work_slug": "sir-charles-hanbury-williams-poems-faeead",
+  "work_title": "Poems",
+  "chapter_number": 7,
+  "chapter_title": "To Mrs. BINDON at BATH.",
+  "chapter_slug": "07-to-mrs-bindon-at-bath",
+  "author": "Sir Charles Hanbury Williams",
+  "author_slug": "sir-charles-hanbury-williams",
+  "ecpa_poem_id": "o5156-w0600",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "12",
+    "metrical_pattern": "--+|--+|--+|--+/",
+    "line_count": 20
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "798adff6-1058-5454-936c-908900fa7ed3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 183,
+      "line_count": 22,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

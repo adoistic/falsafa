@@ -1,0 +1,39 @@
+{
+  "work_slug": "william-mason-poems-ec0935",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "MUSAEUS: A MONODY TO THE MEMORY of Mr. POPE. In Imitation of MILTON'S Lycidas.",
+  "chapter_slug": "09-musaeus-a-monody-to-the-memory-of-mr-pope-in-imi",
+  "author": "William Mason",
+  "author_slug": "william-mason",
+  "ecpa_poem_id": "o5154-w0670",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "elegy"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 283
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "18643878-e23d-5ba1-b407-bc156b07e3a6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2172,
+      "line_count": 291,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

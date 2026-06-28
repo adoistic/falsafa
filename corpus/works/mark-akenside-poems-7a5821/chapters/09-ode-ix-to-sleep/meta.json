@@ -1,0 +1,44 @@
+{
+  "work_slug": "mark-akenside-poems-7a5821",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "ODE IX. To SLEEP.",
+  "chapter_slug": "09-ode-ix-to-sleep",
+  "author": "Mark Akenside",
+  "author_slug": "mark-akenside",
+  "ecpa_poem_id": "o3776-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "ten-line stanza"
+    ],
+    "rhyme": "aabccbdede",
+    "syllable_pattern": "8.8.8.8.8.10.10.10.10.12",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+/ -+|-+|-+|-+|-+|-+/",
+    "line_count": 60
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "65eaa74f-9f8f-5dcb-a624-acf402f61975",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 427,
+      "line_count": 61,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

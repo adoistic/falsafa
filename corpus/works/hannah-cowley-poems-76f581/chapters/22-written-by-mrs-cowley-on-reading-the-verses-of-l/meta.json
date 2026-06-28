@@ -1,0 +1,44 @@
+{
+  "work_slug": "hannah-cowley-poems-76f581",
+  "work_title": "Poems",
+  "chapter_number": 22,
+  "chapter_title": "Written by MRS. COWLEY, On Reading the Verses of Lady Manners to Solitude.",
+  "chapter_slug": "22-written-by-mrs-cowley-on-reading-the-verses-of-l",
+  "author": "Hannah Cowley",
+  "author_slug": "hannah-cowley",
+  "ecpa_poem_id": "pcm93-w0290",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "7.7.7.7",
+    "metrical_pattern": "+-|+-|+-|+/ +-|+-|+-|+/ +-|+-|+-|+/ +-|+-|+-|+/",
+    "line_count": 56
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d638b40a-aab2-56f0-8b4f-67ae473b829e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 319,
+      "line_count": 57,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

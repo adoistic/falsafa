@@ -1,0 +1,44 @@
+{
+  "work_slug": "george-bubb-dodington-poems-37232e",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "VERSES UNDER THE BUSTO OF COMUS IN A BUFFET AT HAMMERSMITH. E AUGUST MDCCL.",
+  "chapter_slug": "02-verses-under-the-busto-of-comus-in-a-buffet-at-h",
+  "author": "George Bubb Dodington",
+  "author_slug": "george-bubb-dodington",
+  "ecpa_poem_id": "o4984-w0690",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 16
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6e4f8820-171e-5906-96cd-621dec258187",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 124,
+      "line_count": 19,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

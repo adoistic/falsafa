@@ -1,0 +1,44 @@
+{
+  "work_slug": "4th-earl-of-chesterfield-poems-5d0ffd",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "On a Lady drinking the Bath-Waters.",
+  "chapter_slug": "04-on-a-lady-drinking-the-bath-waters",
+  "author": "4th Earl of Chesterfield",
+  "author_slug": "4th-earl-of-chesterfield",
+  "ecpa_poem_id": "o5152-w0410",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "epigram"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 17
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fef1a2fd-0839-5bd7-b664-e9688a0166f3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 119,
+      "line_count": 18,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

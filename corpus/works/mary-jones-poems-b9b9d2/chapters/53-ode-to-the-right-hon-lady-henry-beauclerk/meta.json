@@ -1,0 +1,46 @@
+{
+  "work_slug": "mary-jones-poems-b9b9d2",
+  "work_title": "Poems",
+  "chapter_number": 53,
+  "chapter_title": "ODE To the Right Hon. Lady Henry Beauclerk.",
+  "chapter_slug": "53-ode-to-the-right-hon-lady-henry-beauclerk",
+  "author": "Mary Jones",
+  "author_slug": "mary-jones",
+  "ecpa_poem_id": "pjo50-w0530",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode",
+      "occasional poem",
+      "advice"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 42
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c3e7798f-92e2-5b18-8a2e-d33d31912d53",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 274,
+      "line_count": 51,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

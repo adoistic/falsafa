@@ -1,0 +1,45 @@
+{
+  "work_slug": "christopher-smart-poems-d6d852",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "AN OCCASIONAL PROLOGUE and EPILOGUE TO OTHELLO, EPILOGUE. Spoken by DESDEMONA.",
+  "chapter_slug": "30-an-occasional-prologue-and-epilogue-to-othello-e",
+  "author": "Christopher Smart",
+  "author_slug": "christopher-smart",
+  "ecpa_poem_id": "o4103-w0350",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prologue",
+      "epilogue"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 80
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2582f285-1bed-53b6-91a0-31d94280a658",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 632,
+      "line_count": 82,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

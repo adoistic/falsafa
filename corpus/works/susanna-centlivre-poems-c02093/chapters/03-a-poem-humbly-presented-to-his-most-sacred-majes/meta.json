@@ -1,0 +1,45 @@
+{
+  "work_slug": "susanna-centlivre-poems-c02093",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "A POEM. Humbly Presented to His most Sacred Majesty",
+  "chapter_slug": "03-a-poem-humbly-presented-to-his-most-sacred-majes",
+  "author": "Susanna Centlivre",
+  "author_slug": "susanna-centlivre",
+  "ecpa_poem_id": "o3871-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 66
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ee2f5fbf-443f-5e4e-8da2-e9bcebd506e4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 521,
+      "line_count": 68,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

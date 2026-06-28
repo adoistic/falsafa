@@ -1,0 +1,41 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 183,
+  "chapter_title": "Transcrib'd from the Rev. Mr. PIXEL'S Parsonage Garden near BIRMINGHAM, 1757.",
+  "chapter_slug": "183-transcribd-from-the-rev-mr-pixels-parsonage-gard",
+  "author": "John Prynne Parkes Pixell",
+  "author_slug": "john-prynne-parkes-pixell",
+  "ecpa_poem_id": "o5156-w0370",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "7",
+    "metrical_pattern": "+-|+-|+-|+/",
+    "line_count": 18
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7c7b7d1f-9e5f-57df-9b92-5d420862cb67",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 116,
+      "line_count": 19,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

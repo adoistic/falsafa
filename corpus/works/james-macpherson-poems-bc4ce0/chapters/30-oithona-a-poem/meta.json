@@ -1,0 +1,39 @@
+{
+  "work_slug": "james-macpherson-poems-bc4ce0",
+  "work_title": "Poems",
+  "chapter_number": 30,
+  "chapter_title": "OITHÓNA: A POEM.",
+  "chapter_slug": "30-oithona-a-poem",
+  "author": "James Macpherson",
+  "author_slug": "james-macpherson",
+  "ecpa_poem_id": "o5164-w0150",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "prose poem",
+      "imitation",
+      "translation",
+      "paraphrase"
+    ],
+    "line_count": 21
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "54520a62-0e7d-51f6-ac93-4f8cc076be32",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1872,
+      "line_count": 22,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

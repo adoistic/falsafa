@@ -1,0 +1,44 @@
+{
+  "work_slug": "christopher-smart-poems-d6d852",
+  "work_title": "Poems",
+  "chapter_number": 14,
+  "chapter_title": "To ETHELINDA, On her doing my Verses the honour of wearing them in her bosom. Written at Thirteen.",
+  "chapter_slug": "14-to-ethelinda-on-her-doing-my-verses-the-honour-o",
+  "author": "Christopher Smart",
+  "author_slug": "christopher-smart",
+  "ecpa_poem_id": "o4103-w0140",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabbcc",
+    "syllable_pattern": "8.8.8.8.8.8",
+    "metrical_pattern": "+-|+-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-|+-/ +-|+-|+-|+-/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "12d5ae80-72a4-55db-8059-a365f36a771f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 172,
+      "line_count": 30,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

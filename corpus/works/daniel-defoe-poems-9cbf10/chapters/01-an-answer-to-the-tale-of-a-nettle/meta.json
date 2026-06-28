@@ -1,0 +1,41 @@
+{
+  "work_slug": "daniel-defoe-poems-9cbf10",
+  "work_title": "Poems",
+  "chapter_number": 1,
+  "chapter_title": "An ANSWER To The Tale of a Nettle.",
+  "chapter_slug": "01-an-answer-to-the-tale-of-a-nettle",
+  "author": "Daniel Defoe",
+  "author_slug": "daniel-defoe",
+  "ecpa_poem_id": "o3328-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "answer/reply"
+    ],
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "metrical_pattern": "irregular",
+    "line_count": 59
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2fd7167e-a896-541e-b8bb-c73b8b89b424",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 539,
+      "line_count": 61,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

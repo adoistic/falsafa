@@ -1,0 +1,44 @@
+{
+  "work_slug": "james-beattie-poems-1f9abb",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "RETIREMENT. AN ODE.",
+  "chapter_slug": "02-retirement-an-ode",
+  "author": "James Beattie",
+  "author_slug": "james-beattie",
+  "ecpa_poem_id": "o4987-w0250",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "8.6.8.6.8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/",
+    "line_count": 80
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "be08a751-a3f6-5468-896d-22198fbbb48a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 450,
+      "line_count": 83,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

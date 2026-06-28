@@ -1,0 +1,38 @@
+{
+  "work_slug": "william-collins-poems-b390dd",
+  "work_title": "Poems",
+  "chapter_number": 9,
+  "chapter_title": "ODE ON THE POETICAL CHARACTER.",
+  "chapter_slug": "09-ode-on-the-poetical-character",
+  "author": "William Collins",
+  "author_slug": "william-collins",
+  "ecpa_poem_id": "o4985-w0090",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "ode"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 76
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e58ee867-10de-5afc-a388-ed85e3157142",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 506,
+      "line_count": 78,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

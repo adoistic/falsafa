@@ -1,0 +1,46 @@
+{
+  "work_slug": "william-ward-poems-01b7bd",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "To Mrs. Ward.",
+  "chapter_slug": "03-to-mrs-ward",
+  "author": "William Ward",
+  "author_slug": "william-ward",
+  "ecpa_poem_id": "pba35-w0970",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "address",
+      "panegyric"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 144
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "35fa9cd6-b334-534b-92cb-10c32131e27f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1071,
+      "line_count": 146,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

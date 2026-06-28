@@ -1,0 +1,42 @@
+{
+  "work_slug": "edward-young-poems-c01d7e",
+  "work_title": "Poems",
+  "chapter_number": 8,
+  "chapter_title": "[The Complaint: or, Night-Thoughts on Life, Death & Immortality.] Night VIII. Virtue's Apology; or, The Man of the World Answered.",
+  "chapter_slug": "08-the-complaint-or-night-thoughts-on-life-death-im",
+  "author": "Edward Young",
+  "author_slug": "edward-young",
+  "ecpa_poem_id": "ayo19-w0080",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "blank verse",
+      "meditation",
+      "graveyard school"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 1417
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "97d8f6df-1489-54a5-b1a1-32f7f169383e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10817,
+      "line_count": 1420,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "hannah-brand-poems-11e826",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "THE MONK OF LA TRAPPE; A TALE.",
+  "chapter_slug": "02-the-monk-of-la-trappe-a-tale",
+  "author": "Hannah Brand",
+  "author_slug": "hannah-brand",
+  "ecpa_poem_id": "o4091-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "narrative verse"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "xaxa",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+|-+/",
+    "line_count": 724
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "675d531e-8759-5f8d-af79-a34205d8d0d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4738,
+      "line_count": 728,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

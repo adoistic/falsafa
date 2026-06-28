@@ -1,0 +1,38 @@
+{
+  "work_slug": "assorted-eighteenth-century-poetry-353ac8",
+  "work_title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "chapter_number": 117,
+  "chapter_title": "LALLET: OR, The Tender Shepherdess.",
+  "chapter_slug": "117-lallet-or-the-tender-shepherdess",
+  "author": "Thomas Purney",
+  "author_slug": "thomas-purney",
+  "ecpa_poem_id": "o5099-w0020",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral"
+    ],
+    "rhyme": "irregular",
+    "metrical_pattern": "irregular",
+    "line_count": 364
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c375eb16-1cb2-58b0-99e8-fcbea745f364",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2474,
+      "line_count": 377,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "thomas-brerewood-poems-640ca3",
+  "work_title": "Poems",
+  "chapter_number": 5,
+  "chapter_title": "AUTUMN.",
+  "chapter_slug": "05-autumn",
+  "author": "Thomas Brerewood",
+  "author_slug": "thomas-brerewood",
+  "ecpa_poem_id": "o5089-w0390",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral"
+    ],
+    "foot": "anapaestic (˘˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "12.9.12.9",
+    "metrical_pattern": "--+|--+|--+|--+/ --+|--+|--+/ --+|--+|--+|--+/ --+|--+|--+/",
+    "line_count": 72
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b54c5515-2ff9-57a3-a891-e4e461fc476a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 599,
+      "line_count": 74,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

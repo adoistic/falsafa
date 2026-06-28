@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-cunningham-poems-510f71",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "MORNING.",
+  "chapter_slug": "02-morning",
+  "author": "John Cunningham",
+  "author_slug": "john-cunningham",
+  "ecpa_poem_id": "o4986-w0920",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "pastoral"
+    ],
+    "foot": "trochaic (′˘)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "7.7.7.7",
+    "metrical_pattern": "+-|+-|+-|+/ +-|+-|+-|+/ +-|+-|+-|+/ +-|+-|+-|+/",
+    "line_count": 108
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "89c976eb-3d42-53f2-91a0-e787625cac93",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 576,
+      "line_count": 114,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

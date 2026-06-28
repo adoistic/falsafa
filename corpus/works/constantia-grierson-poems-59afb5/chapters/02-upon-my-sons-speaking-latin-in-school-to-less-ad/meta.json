@@ -1,0 +1,45 @@
+{
+  "work_slug": "constantia-grierson-poems-59afb5",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "Upon my Son's speaking Latin in School to less Advantage than English: Written as from a Schoolfellow.",
+  "chapter_slug": "02-upon-my-sons-speaking-latin-in-school-to-less-ad",
+  "author": "Constantia Grierson",
+  "author_slug": "constantia-grierson",
+  "ecpa_poem_id": "pba35-w0410",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 40
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "69355c9e-a3b2-504c-9b46-d178f7e2727e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 322,
+      "line_count": 43,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

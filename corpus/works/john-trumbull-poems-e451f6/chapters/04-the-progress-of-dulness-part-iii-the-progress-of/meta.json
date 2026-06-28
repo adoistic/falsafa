@@ -1,0 +1,44 @@
+{
+  "work_slug": "john-trumbull-poems-e451f6",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "The Progress of DULNESS. [Part III.] The Progress of Coquetry.",
+  "chapter_slug": "04-the-progress-of-dulness-part-iii-the-progress-of",
+  "author": "John Trumbull",
+  "author_slug": "john-trumbull",
+  "ecpa_poem_id": "n12jt-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "allegory"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 708
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c605c364-d9ff-51ed-969b-a25058c8fab0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4578,
+      "line_count": 710,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

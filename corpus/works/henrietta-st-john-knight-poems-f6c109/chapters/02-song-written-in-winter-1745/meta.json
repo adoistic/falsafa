@@ -1,0 +1,45 @@
+{
+  "work_slug": "henrietta-st-john-knight-poems-f6c109",
+  "work_title": "Poems",
+  "chapter_number": 2,
+  "chapter_title": "SONG. Written in Winter 1745.",
+  "chapter_slug": "02-song-written-in-winter-1745",
+  "author": "Henrietta St. John Knight",
+  "author_slug": "henrietta-st-john-knight",
+  "ecpa_poem_id": "o5155-w0770",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "song",
+      "pastoral"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "octet (8 lines)"
+    ],
+    "rhyme": "ababcdcd",
+    "syllable_pattern": "8.6.8.6.8.6.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/",
+    "line_count": 32
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "73c91850-40d6-5d01-b48a-a3f244cdb0a8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 200,
+      "line_count": 39,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

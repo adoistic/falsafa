@@ -1,0 +1,42 @@
+{
+  "work_slug": "thomas-edwards-poems-e02caa",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "SONNET. TO W. HEBERDEN, M. D.",
+  "chapter_slug": "03-sonnet-to-w-heberden-m-d",
+  "author": "Thomas Edwards",
+  "author_slug": "thomas-edwards",
+  "ecpa_poem_id": "o4987-w0120",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "sonnet",
+      "Italian (Petrarchan) sonnet"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "rhyme": "abbaabbacdecde",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 14
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b070d1a8-848d-57b7-93c3-b8b0b0e69938",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 115,
+      "line_count": 17,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work_slug": "james-merrick-poems-485d0d",
+  "work_title": "Poems",
+  "chapter_number": 6,
+  "chapter_title": "The BENEDICITE Paraphrased.",
+  "chapter_slug": "06-the-benedicite-paraphrased",
+  "author": "James Merrick",
+  "author_slug": "james-merrick",
+  "ecpa_poem_id": "o5155-w0250",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "hymn"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "sestet (6 lines)"
+    ],
+    "rhyme": "aabccb",
+    "syllable_pattern": "8.8.6.8.8.6",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+/",
+    "line_count": 168
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fe6b8ad4-1f96-5f09-a486-49c88153110d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1006,
+      "line_count": 197,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

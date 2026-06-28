@@ -1,0 +1,44 @@
+{
+  "work_slug": "james-boswell-poems-8ba996",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "THE CUB, AT NEW-MARKET.",
+  "chapter_slug": "04-the-cub-at-new-market",
+  "author": "James Boswell",
+  "author_slug": "james-boswell",
+  "ecpa_poem_id": "o4257-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 200
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "25c69f1c-20e1-5e7c-ad43-b9d415fbba59",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1323,
+      "line_count": 201,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

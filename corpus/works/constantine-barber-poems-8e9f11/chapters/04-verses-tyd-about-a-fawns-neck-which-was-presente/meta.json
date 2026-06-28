@@ -1,0 +1,44 @@
+{
+  "work_slug": "constantine-barber-poems-8e9f11",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "Verses ty'd about a Fawn's Neck, which was presented to a very young Lady, call'd by her Friends the Ivory Maid.",
+  "chapter_slug": "04-verses-tyd-about-a-fawns-neck-which-was-presente",
+  "author": "Constantine Barber",
+  "author_slug": "constantine-barber",
+  "ecpa_poem_id": "pba35-w1190",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "occasional poem"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "8",
+    "metrical_pattern": "-+|-+|-+|-+/",
+    "line_count": 10
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "434bd1e7-56b5-5be7-ae0d-3ab7b5ccbe0b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 89,
+      "line_count": 12,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

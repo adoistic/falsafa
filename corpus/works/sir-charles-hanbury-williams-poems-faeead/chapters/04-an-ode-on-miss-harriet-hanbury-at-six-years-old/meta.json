@@ -1,0 +1,41 @@
+{
+  "work_slug": "sir-charles-hanbury-williams-poems-faeead",
+  "work_title": "Poems",
+  "chapter_number": 4,
+  "chapter_title": "An ODE on Miss HARRIET HANBURY at Six Years old.",
+  "chapter_slug": "04-an-ode-on-miss-harriet-hanbury-at-six-years-old",
+  "author": "Sir Charles Hanbury Williams",
+  "author_slug": "sir-charles-hanbury-williams",
+  "ecpa_poem_id": "o5156-w0540",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "foot": "iambic (˘′)",
+    "footnum": "tetrameter (4 feet)",
+    "stanzas": [
+      "quatrain (4 lines)"
+    ],
+    "rhyme": "abab",
+    "syllable_pattern": "8.8.8.8",
+    "metrical_pattern": "-+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/         -+|-+|-+|-+/",
+    "line_count": 24
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c5691bb2-fd60-5312-97c9-b18ebb5c5cb1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 187,
+      "line_count": 32,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}

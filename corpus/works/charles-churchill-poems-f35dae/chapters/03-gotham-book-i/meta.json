@@ -1,0 +1,45 @@
+{
+  "work_slug": "charles-churchill-poems-f35dae",
+  "work_title": "Poems",
+  "chapter_number": 3,
+  "chapter_title": "GOTHAM. BOOK I.",
+  "chapter_slug": "03-gotham-book-i",
+  "author": "Charles Churchill",
+  "author_slug": "charles-churchill",
+  "ecpa_poem_id": "o3587-w0010",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "prosody": {
+    "genres": [
+      "heroic couplet",
+      "satire"
+    ],
+    "foot": "iambic (˘′)",
+    "footnum": "pentameter (5 feet)",
+    "stanzas": [
+      "couplet (2 lines)"
+    ],
+    "rhyme": "aa",
+    "syllable_pattern": "10",
+    "metrical_pattern": "-+|-+|-+|-+|-+/",
+    "line_count": 500
+  },
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "be32c142-1597-5fa5-a88b-f3eb7bfa36ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3979,
+      "line_count": 502,
+      "has_image": false,
+      "source_url": "https://www.eighteenthcenturypoetry.org/",
+      "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)"
+    }
+  ]
+}
