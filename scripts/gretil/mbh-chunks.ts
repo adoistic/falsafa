@@ -53,19 +53,42 @@ export function translatedRefs(chapterDir: string): Set<string> {
   return s;
 }
 
-/** Pack missing refs (in source order) into ≤MAX_VERSES contiguous spans. */
+/**
+ * Pack missing refs into chunks that are BOTH ≤MAX_VERSES and CONTIGUOUS in the
+ * source. Contiguity matters for re-dispatch: a chunk is dispatched as "translate
+ * every verse from startRef through endRef inclusive", so a chunk must not contain
+ * any already-translated verse in its interior — otherwise the worker would redo
+ * (and possibly perturb) good verses. So we first split `missing` into maximal runs
+ * of source-adjacent missing refs (a translated verse between two missing ones ends
+ * a run), then slice each run into ≤max pieces. On a first full pass everything is
+ * one run; on re-dispatch each dropped block becomes its own clean span.
+ */
 export function planChunks(segFile: string, chapterDir: string, max = MAX_VERSES): MbhChunk[] {
   const src = sourceRefs(segFile);
   const have = translatedRefs(chapterDir);
-  const missing = src.filter((r) => !have.has(r));
+  // Maximal runs of consecutive-in-source missing refs.
+  const runs: string[][] = [];
+  let run: string[] = [];
+  for (const r of src) {
+    if (!have.has(r)) {
+      run.push(r);
+    } else if (run.length) {
+      runs.push(run);
+      run = [];
+    }
+  }
+  if (run.length) runs.push(run);
+
   const chunks: MbhChunk[] = [];
-  for (let i = 0; i < missing.length; i += max) {
-    const slice = missing.slice(i, i + max);
-    const startRef = slice[0]!;
-    const endRef = slice[slice.length - 1]!;
-    const [, adh, v] = startRef.split(".");
-    const part = `${parseInt(adh!, 10) * 1000 + parseInt(v!, 10)}`;
-    chunks.push({ part, startRef, endRef, count: slice.length });
+  for (const rn of runs) {
+    for (let i = 0; i < rn.length; i += max) {
+      const slice = rn.slice(i, i + max);
+      const startRef = slice[0]!;
+      const endRef = slice[slice.length - 1]!;
+      const [, adh, v] = startRef.split(".");
+      const part = `${parseInt(adh!, 10) * 1000 + parseInt(v!, 10)}`;
+      chunks.push({ part, startRef, endRef, count: slice.length });
+    }
   }
   return chunks;
 }
