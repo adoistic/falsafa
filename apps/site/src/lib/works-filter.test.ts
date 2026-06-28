@@ -2,7 +2,7 @@
 import { describe, it, expect } from "bun:test";
 import {
   filterWorks, facetCounts, sortWorks, parseFilterState, serializeFilterState,
-  emptyState, type BrowseWork, type FilterState,
+  emptyState, effectiveYear, ERA_START_YEAR, type BrowseWork, type FilterState,
 } from "./works-filter";
 
 const W = (o: Partial<BrowseWork>): BrowseWork => ({
@@ -44,14 +44,40 @@ describe("facetCounts", () => {
 });
 
 describe("sortWorks", () => {
-  it("chrono: ascending published_year, nulls last", () => {
-    expect(sortWorks(works, "chrono").map((w) => w.slug)).toEqual(["a", "b", "c", "d", "e"]);
+  it("chrono: ascending effectiveYear; null-year Imperial work sorts by ERA_START_YEAR[-27]", () => {
+    // "Untitled" (slug e) has era="Imperial", published_year=null → effectiveYear = -27
+    // So order: Iliad(-750) < Republic(-380) < Untitled(-27) < Aeneid(-19) < Sonnets(1609)
+    expect(sortWorks(works, "chrono").map((w) => w.slug)).toEqual(["a", "b", "e", "c", "d"]);
   });
   it("title: locale A-Z", () => {
     expect(sortWorks(works, "title").map((w) => w.title)[0]).toBe("Aeneid");
   });
   it("author: locale A-Z", () => {
     expect(sortWorks(works, "author").map((w) => w.author)[0]).toBe("Anon");
+  });
+});
+
+describe("effectiveYear + chrono sort (Vedas-before-Homer fix)", () => {
+  it("effectiveYear returns published_year when present", () => {
+    expect(effectiveYear(W({ published_year: -750, era: "Classical" }))).toBe(-750);
+  });
+  it("effectiveYear falls back to ERA_START_YEAR when published_year is null", () => {
+    expect(effectiveYear(W({ published_year: null, era: "Ancient" }))).toBe(ERA_START_YEAR["Ancient"]);
+    expect(effectiveYear(W({ published_year: null, era: "Classical" }))).toBe(ERA_START_YEAR["Classical"]);
+    expect(effectiveYear(W({ published_year: null, era: "Unknown" }))).toBe(3000);
+    expect(effectiveYear(W({ published_year: null, era: "NoSuchEra" }))).toBe(3000);
+  });
+  it("null-year Ancient work sorts BEFORE null-year Classical work (Vedas before Homer era)", () => {
+    const veda = W({ slug: "veda", title: "Rigveda", era: "Ancient", published_year: null });
+    const classical = W({ slug: "homer", title: "Iliad", era: "Classical", published_year: null });
+    const sorted = sortWorks([classical, veda], "chrono").map((w) => w.slug);
+    expect(sorted).toEqual(["veda", "homer"]);
+  });
+  it("null-year Ancient work sorts BEFORE a dated Classical work (Vedas before Homer)", () => {
+    const veda = W({ slug: "veda", title: "Rigveda", era: "Ancient", published_year: null });
+    const homer = W({ slug: "homer", title: "Iliad", era: "Classical", published_year: -750 });
+    const sorted = sortWorks([homer, veda], "chrono").map((w) => w.slug);
+    expect(sorted).toEqual(["veda", "homer"]);
   });
 });
 

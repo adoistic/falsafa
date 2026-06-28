@@ -26,12 +26,33 @@ export interface FilterState {
 
 export const FACET_DIMENSIONS: FacetDim[] = ["era", "language", "genre", "difficulty"];
 
-// Chronological era ordering for the chrono sort tiebreak + sidebar order.
+// Chronological era ordering for the sidebar facet order.
 export const ERA_ORDER = [
   "Ancient", "Classical", "Hellenistic", "Imperial", "Late Antiquity",
-  "Renaissance", "Medieval", "16th Century", "Enlightenment", "18th Century",
+  "Medieval", "Renaissance", "16th Century", "Enlightenment", "18th Century",
   "19th Century", "20th Century", "Unknown",
 ];
+
+// Representative start years for each era, used when published_year is null.
+export const ERA_START_YEAR: Record<string, number> = {
+  "Ancient": -1500,
+  "Classical": -600,
+  "Hellenistic": -323,
+  "Imperial": -27,
+  "Late Antiquity": 200,
+  "Medieval": 500,
+  "Renaissance": 1400,
+  "16th Century": 1500,
+  "Enlightenment": 1650,
+  "18th Century": 1700,
+  "19th Century": 1800,
+  "20th Century": 1900,
+  "Unknown": 3000,
+};
+
+export function effectiveYear(w: BrowseWork): number {
+  return w.published_year ?? ERA_START_YEAR[w.era] ?? 3000;
+}
 
 export function emptyState(): FilterState {
   return { q: "", era: [], language: [], genre: [], difficulty: [], sort: "chrono" };
@@ -71,13 +92,8 @@ export function sortWorks(works: BrowseWork[], sort: SortKey): BrowseWork[] {
   const out = works.slice();
   if (sort === "title") return out.sort((a, b) => a.title.localeCompare(b.title));
   if (sort === "author") return out.sort((a, b) => a.author.localeCompare(b.author));
-  const eraIdx = (e: string) => { const i = ERA_ORDER.indexOf(e); return i === -1 ? ERA_ORDER.length : i; };
   return out.sort((a, b) => {
-    const ay = a.published_year, by = b.published_year;
-    if (ay !== null && by !== null && ay !== by) return ay - by;
-    if (ay === null && by !== null) return 1;
-    if (ay !== null && by === null) return -1;
-    const d = eraIdx(a.era) - eraIdx(b.era);
+    const d = effectiveYear(a) - effectiveYear(b);
     return d !== 0 ? d : a.title.localeCompare(b.title);
   });
 }
