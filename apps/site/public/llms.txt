@@ -1,0 +1,47 @@
+# Falsafa
+
+> Falsafa is a free, open-access digital library and archive of philosophy and the history of thought — 2017 works spanning ancient, medieval, and modern traditions across Greek, Latin, Sanskrit, Arabic, and other languages, each presented with original text, English translation, and transliteration where applicable.
+
+Falsafa makes primary philosophical and literary sources directly readable. The corpus covers classical antiquity, Hellenistic and Roman thought, late antique and medieval philosophy, early modern and Enlightenment writing, and 19th–20th century philosophy — all in a clean reading interface with multiple text variants per chapter. Works are indexed by author, era, genre, and language. The site is fully static, open to crawling, and intended to be cited and quoted.
+
+## Corpus
+
+Total works: 2017
+Authors: 621
+Eras: 12
+Languages: 9
+Genres: 34
+
+**By language** (top 5: Greek (810), English (766), Latin (387), Sanskrit (26), Kawi (9)):
+  - Greek: 810
+  - English: 766
+  - Latin: 387
+  - Sanskrit: 26
+  - Kawi: 9
+  - French: 9
+  - Urdu: 5
+  - old_english: 4
+  - German: 1
+
+**By era** (chronological):
+  - Ancient: 36
+  - Classical: 327
+  - Hellenistic: 201
+  - Imperial: 521
+  - Late Antiquity: 150
+  - Medieval: 12
+  - Renaissance: 29
+  - 16th Century: 1
+  - Enlightenment: 75
+  - 18th Century: 176
+  - 19th Century: 241
+  - 20th Century: 248
+
+## Resources
+
+- [Browse all works](https://falsafa.ai/works/)
+- [About Falsafa](https://falsafa.ai/about/)
+- [Atlas — authors and traditions](https://falsafa.ai/atlas/)
+- [Numbers — corpus statistics](https://falsafa.ai/numbers/)
+- [Complete work index (llms-full.txt)](https://falsafa.ai/llms-full.txt)
+- [Sitemap](https://falsafa.ai/sitemap-index.xml)
