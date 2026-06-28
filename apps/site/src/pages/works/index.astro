@@ -13,8 +13,18 @@ for (const w of m.works) {
   byEra.set(w.era, arr);
 }
 
-const eraOrder = ["Ancient", "Antiquity", "Medieval", "Enlightenment", "19th Century", "20th Century", "Unknown"];
-const sortedEras = eraOrder.filter((e) => byEra.has(e)).map((e) => ({ era: e, works: byEra.get(e)! }));
+// Chronological display order. Any era present in the corpus but missing from
+// this list is appended (sorted) rather than dropped, so no work is ever hidden.
+const eraOrder = [
+  "Ancient", "Classical", "Hellenistic", "Imperial", "Late Antiquity",
+  "Renaissance", "Medieval", "16th Century", "Enlightenment", "18th Century",
+  "19th Century", "20th Century", "Unknown",
+];
+const knownEras = new Set(eraOrder);
+const extraEras = [...byEra.keys()].filter((e) => !knownEras.has(e)).sort();
+const sortedEras = [...eraOrder, ...extraEras]
+  .filter((e) => byEra.has(e))
+  .map((e) => ({ era: e, works: byEra.get(e)! }));
 
 // Pre-resolve cover URLs once for all works (the grid component will
 // reuse this map rather than re-walking index.md per render).
