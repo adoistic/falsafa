@@ -195,6 +195,18 @@ Sourcing note: there is no single GRETIL-equivalent TEI mirror for Arabic philos
 
 The completeness spec notes that Chinese and other civilizations **inherit the shared semantic ontology layer** built for the Indic expansion. Once the taxonomy and extractor are right, adding a tradition is ingest → extract → (optionally) translate.
 
+### The doha tranche (future, not now)
+
+**Doha** — the Hindi/Hindavi (Braj/Awadhi) rhymed couplet, the form the great poet-saints and nīti poets used to compress entire ethical and metaphysical positions into two lines. Deceptively simple, philosophically dense — exactly the kind of grounded, quotable material the ontology thrives on. A future acquisition category alongside Islamic and Chinese philosophy (compared with them as a tradition to bring in later, **not now**). Famous collections to target:
+
+- **Kabīr** — the _Kabīr ke Dohe_ / Bījak / Sākhī (nirguṇa bhakti, anti-dogma, the weaver-saint).
+- **Rahīm** (Abdur Rahīm Khān-i-Khānā) — the _Rahīm ke Dohe_ (worldly wisdom and devotion from a Mughal noble).
+- **Tulsīdās** — the dohas of the _Rāmcaritmānas_ and the _Dohāvalī_.
+- **Bihārī** — the _Bihārī Satsaī_ (700 dohas, śṛṅgāra + nīti).
+- **Surdās**, **Raidās/Ravidās**, and the wider sant/nīti corpus.
+
+Like Chinese and the rest, this inherits the shared ontology layer; ingest → extract → (optionally) translate when its turn comes.
+
 ---
 
 ## 7. The eval and the paper
