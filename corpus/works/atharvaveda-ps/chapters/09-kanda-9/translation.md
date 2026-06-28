@@ -449,3 +449,159 @@
 **9.21.11**  He who would offer an eleven-bowl portion — he offers it as it were to Rohita. For that Rohita is Indra. He wins both Indra and a world; he becomes possessed of sovereign power and dear to Indra — he who knows thus. He who, knowing thus, would eat of it, should meditate upon this very deity with his mind: "With the eye of Indra I behold thee; with the two hands of Indra I take hold of thee; with the mouth of Indra I eat thee; in the belly of Indra I place thee."
 
 **9.21.12**  He who would offer a twelve-bowl portion — he offers it as it were to all the Viśve Devāḥ. For those Viśve Devāḥ are all this universe. He wins both the Viśve Devāḥ and a world; all the Viśve Devāḥ serve him well, and he becomes dear to all the gods — he who knows thus. He who, knowing thus, would eat of it, should meditate upon these very deities with his mind: "With the eye of all the gods I behold thee; with the two hands of all the gods I take hold of thee; with the mouth of all the gods I eat thee; in the belly of all the gods I establish thee." He eats of it just as one eats of what has been duly offered in sacrifice.
+
+**9.22.1**  Measure out this portion of the purificatory rice-oblation; may its preparer be released from transgressions. From malice, from sin, from evil deed — may the pure one, with its purifying streams, purify me.
+
+**9.22.2**  Auspicious be my hands, auspicious my tongue, auspicious let my speech become. For me this purifying rice-oblation we portion out with sacred formula, with both hands we portion it out.
+
+**9.22.3**  Whatever evil deed my mother committed while I was yet in the womb — from that may this pure rice-oblation guard me from sin.
+
+**9.22.4**  Whatever falsehood we have uttered from the time of one year onward unto the present — from that may this pure rice-oblation guard me from sin.
+
+**9.22.5**  Whatever evil act, whatever defilement, whatever transgression we have committed — from that may this pure rice-oblation guard me from sin.
+
+**9.22.6**  Whatever injury we have done to mother, to father, or to a kinswoman — from that may this pure rice-oblation guard me from sin.
+
+**9.22.7**  Whatever we have shared in eating with slayers of mothers, slayers of fathers, slayers of embryos — from that may this pure rice-oblation guard me from sin.
+
+**9.22.8**  Whatever we have shared in eating with one of black teeth, one of diseased nails, or a thief — from that may this pure rice-oblation guard me from sin.
+
+**9.22.9**  Whatever food we have eaten of dog-keepers, of loose women, of carpenters — from that may this pure rice-oblation guard me from sin.
+
+**9.22.10**  Whatever we have taken away from the waters, having plunged in and drunk the sweet draught — from that may this pure rice-oblation guard me from sin.
+
+**9.23.1**  That in anger, in wrath, we have struck a brahmin, or with the foot have touched a cow — from that may this pure rice-oblation guard me from sin.
+
+**9.23.2**  Whatever falsehood we have uttered during the brahmacarya vow or during the snātaka's discipline — from that may this pure rice-oblation guard me from sin.
+
+**9.23.3**  Whatever we have eaten together with one afflicted by kilāsa-leprosy, one with diseased skin, a eunuch, or one who has approached a woman during her impure period — from that may this pure rice-oblation guard me from sin.
+
+**9.23.4**  Whatever field you have wrongfully occupied, or whatever horse you have driven off — from that may this pure rice-oblation guard me from sin.
+
+**9.23.5**  Whatever falsehood we have uttered regarding dice, gold, cattle, horses, or other wealth — from that may this pure rice-oblation guard me from sin.
+
+**9.23.6**  Whatever approach we have made to a friend's wife, to one's own female slave, to a woman in childbed, to a woman in her menstrual flow, or to one who is impure — from that may this pure rice-oblation guard me from sin.
+
+**9.23.7**  Whatever we have eaten together with one whose younger brother has married before him, or one who himself married out of turn, or one who has bathed after another's precedence, one who has eaten after another's precedence, or one who is the husband of a didhiṣū — from that may this pure rice-oblation guard me from sin.
+
+**9.23.8**  Whatever usurious debt we have distributed doubly, out of greed for wealth — from that may this pure rice-oblation guard me from sin.
+
+**9.23.9**  Whatever one gave as two-for-one, as three-for-one, as one added above — from that may this pure rice-oblation guard me from sin.
+
+**9.23.10**  Whatever tainted, undercooked meat we have eaten in haste — from that may this pure rice-oblation guard me from sin.
+
+**9.24.1**  Whatever non-food we have eaten as food, out of desire for food, out of the belly's craving — from that may this pure rice-oblation guard me from sin.
+
+**9.24.2**  Whatever falsehood we have uttered knowingly or unknowingly — from that may this pure rice-oblation guard me from sin.
+
+**9.24.3**  That which is the purifying filter of the god Savitṛ — the thousand-streamed, widespread golden sieve — by which the immortals and mortals purified Indra, by that let this one purify me wholly, along with all my cattle.
+
+**9.24.4**  By that with which Savitṛ purified the bountiful waters, by that with which Varuṇa was purified for his sovereign function, by that with which all these worlds were made pure — by that let this one purify me wholly, along with all my cattle.
+
+**9.24.5**  I stride beyond whatever sin and transgression I cast off the defilement at the highest station. That path by which the righteous go but the evildoer does not — upon that let us ascend, the world of the well-doers.
+
+**9.24.6**  Let no disease be left behind here; depart without tearing us apart. Let the merit remain with us alone; the sin follows after those who eat it.
+
+**9.24.7**  This purificatory rice-oblation I cook for the sake of purification. May it release me from evil deed, and from all transgression altogether.
+
+**9.25.1**  The purifier made by the seers, thousand-eyed, hundred-streamed — may Pavamāna purify me with that thousand-streamed one.
+
+**9.25.2**  By which the atmosphere was purified, in which Vāyu is established — may Pavamāna purify me with that thousand-streamed one.
+
+**9.25.3**  By which heaven and earth were purified, by which the waters were purified, and also the heavenly light — may Pavamāna purify me with that thousand-streamed one.
+
+**9.25.4**  By which day and night were purified, by which the quarters of the sky were purified, and the intermediate directions — may Pavamāna purify me with that thousand-streamed one.
+
+**9.25.5**  By which the sun and moon were purified, by which the asterisms — the makers of being — were purified together — may Pavamāna purify me with that thousand-streamed one.
+
+**9.25.6**  By which the sacrificial altar, Agni, and the enclosing sticks were purified together — may Pavamāna purify me with that thousand-streamed one.
+
+**9.25.7**  By which the sacrificial grass was purified, and the clarified butter, and likewise the oblation — may Pavamāna purify me with that thousand-streamed one.
+
+**9.25.8**  By which the sacrifice was purified, and the vaṣaṭ-exclamation, and the oblation poured — may Pavamāna purify me with that thousand-streamed one.
+
+**9.25.9**  By which rice and barley were purified — those two from which the sacrifice is fashioned — may Pavamāna purify me with that thousand-streamed one.
+
+**9.25.10**  By which horses and cattle were purified, and by which goats and sheep were purified — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.1**  By which the Ṛc-verses and Sāmans were purified, by which the Yajus together with the Brahman was purified — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.2**  By which the Atharvans and those belonging to the Atharvan tradition, the Aṅgirases, and the divine beings were purified together — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.3**  By which the seasons were purified, by which the seasonal phenomena were purified, from which the year is fashioned — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.4**  By which the forest trees and their fruits, the healing plants, and the creeping herbs were purified together — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.5**  By which the Gandharvas and Apsarases, the serpents and the holy folk, were purified together — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.6**  By which the rivers, the great streams, and the ocean were purified together — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.7**  By which the mountains, the snow-bearing Himālayas, and Vaiśvānara who pervades all were purified together — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.8**  By which the Viśve Devāḥ were purified, and Parameṣṭhin, and Prajāpati — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.9**  By which the thunder, the calf of the waters, and Prajāpati were purified — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.10**  By which Prajāpati, purified, bore up all the worlds, all existing beings, and the heavenly light — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.11**  By which cosmic order was purified, and truth, and by which austerity and consecration are purified — may Pavamāna purify me with that thousand-streamed one.
+
+**9.26.12**  By which all this was purified — whatever has been and whatever shall be — may Pavamāna purify me with that thousand-streamed one.
+
+**9.27.1**  The war-drum sounds aloud, this martial one made of timber, fashioned with the hide of the cow; cutting through speech, subduing adversaries — like a lion about to conquer, thundering with its reverberations.
+
+**9.27.2**  Like a lion it has roared, the drum-wood bound tight, bellowing like a bull toward a lowing cow. You are a bull-male; your rivals are the castrated ones; the vigor of Indra is yours, overcoming all assailants.
+
+**9.27.3**  Conquering armies, life upraised, grasping the prizes, look out in all directions! Summon hither the divine voice, inspire the wise man; carry knowledge to bear upon the enemies.
+
+**9.27.4**  Like a bull knowing the herd through his might, roaring toward the cattle, winning in combat — pierce the hearts of the foes with your flame; let the enemies, abandoning their villages, depart in rout.
+
+**9.27.5**  Hearing the voice of the war-drum as it speaks forth, aroused by the din, the enemy woman, frightened and wailing in battle, let her run seizing her sons by the hand, she the hostile one destined to be slain in the fray.
+
+**9.27.6**  Made by the inspired seers, send forth your voice; rouse up the weapons of the warriors! Devouring the army of the foes, speak brilliantly, O war-drum, with truth resounding.
+
+**9.27.7**  Going before, O war-drum, overcome the enemies; speak upon the back of the earth, shining brilliantly! Allied with Indra, call together the warriors; with allies, smite down the foes.
+
+**9.27.8**  Let your sound fill both the sky and the earth; let your reverberations go swiftly in all directions! Thunder toward those who hunger for the thunder-sound; make glory, resound for the trumpet-call of alliance!
+
+**9.27.9**  Shouter, announcer, with a bold army, maker of proclamations, resounding through the settlements in many ways — winning excellence, knowing the ways of wisdom, distribute glory widely for the king of both realms.
+
+**9.27.10**  Whose banner is excellence, victorious in winning wealth, the stronger, establishing friendship, blazing, wise — like the pressing-stone which presses the Soma stalks on the pressing-slab, dance over the bovine spoil, O war-drum, and proclaim knowledge.
+
+**9.27.11**  Destroyer of enemies, seated in the forefront, overpowering all assailants, seeking cattle, vanquishing, breaking through — endowed with voice, generate the sacred formula, O powerful one; here proclaim the impetus for victory in battle!
+
+**9.27.12**  Shaker of the unshakeable, most swift in the fray, conqueror of conflicts, vanquisher of armies, irresistible in battle — kitted out by Indra, discerning in the assembly, heart-illumining, go swiftly against those who hate us!
+
+**9.28.1**  May these herbs scorch you; this is the essence of all herbs. This aśvattha-fire, having become a flame in your heart, shall burn it utterly — fly hither, into my longing!
+
+**9.28.2**  As a thread dyed crimson with lac is suffused with clarified butter, so let desire for me creep into you, deep within your bones and marrow — fly hither!
+
+**9.28.3**  As the kuṣṭha plant pines and wastes, as it burns in the flame, so let your mind burn — fly hither!
+
+**9.28.4**  A drop laden with anguish trickles out from the kuṣṭha of a man; may that very drop churn round and round inside your heart — fly hither!
+
+**9.28.5**  Let this drop strike your heart like an arrow smeared with poison; as an arrow cleaves its target, may desire for me pierce you through — fly hither!
+
+**9.28.6**  Become pale, become hollow-eyed, ever sick at heart! Let no other woman please you; let longing for me blaze upon you — fly hither!
+
+**9.28.7**  Let your bed be full of burning torment, let your seat be full of burning torment, let your mind be full of burning torment — so that you shall find no rest here, nor turn your thoughts elsewhere — fly hither!
+
+**9.28.8**  You shall take no delight in assemblies; let longing torment you as you lie down; let the drop sting you and sting you again — fly hither!
+
+**9.28.9**  It burns within, laden with your skin, bones, and flesh. May this sacrificial rite rout all others, O Aiḍa, through your torments — fly hither!
+
+**9.28.10**  Let this fire blaze up in your heart, kindled by your own flesh — the great fire of desire; may that great one subdue you to me — fly hither!
+
+**9.29.1**  I make the aśvattha tree, Fire, and clarified butter my messengers, swift as thought. As Agni strikes a sacrificial oblation with his flame, may desire for me pierce you — fly hither!
+
+**9.29.2**  O Agni and Aśvattha, you two who dwell together — whether he lies down or sits, whether he walks or stands still, pierce him through with my anguish — fly hither!
+
+**9.29.3**  Whether you are walking, standing, or sitting, even in the assembly — let the fire-stick churn you like dry grass; may my chariot of desire burn you as it drives — fly hither!
+
+**9.29.4**  As Bṛhaspati subdued the Asuras for Indra's sake, so do you, O Agni of the aśvattha, bring those men here to me — fly hither!
+
+**9.29.5**  I take your mind and bind it together with Iḍā's fat portion. May the gods, human beings, and Gandharvas all subdue you to me — fly hither!
+
+**9.29.6**  As the leaves of the aśvattha tree never come to rest at any time, so may that man never sleep at peace because of his longing for me — fly hither, into my longing!
+
+**9.29.7**  The Maruts heat the kuṣṭha plant, excellent for meditation, known from afar, resounding with their flame — so may he not sleep; may not a single day pass but that he comes into my longing!
