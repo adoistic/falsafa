@@ -1,0 +1,493 @@
+{
+  "slug": "unknown-manusmrti-347b76",
+  "window": "08:130-375",
+  "entities": [
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-1112c8",
+          "quote": "so said Manu",
+          "role": "lawgiver cited as authority for the rule on bride-substitution"
+        },
+        {
+          "paragraph_id": "p-68d2d0",
+          "quote": "Manu has declared to be not punishable",
+          "role": "lawgiver cited as authority for the rule exempting certain cattle from fines"
+        },
+        {
+          "paragraph_id": "p-e58d81",
+          "quote": "Manu has declared this not to be theft",
+          "role": "lawgiver cited as authority for the rule permitting taking fruit, roots, and grass"
+        },
+        {
+          "paragraph_id": "p-46fb25",
+          "quote": "Manu has not declared a punishment",
+          "role": "lawgiver cited as authority for exempting certain vehicle accidents from punishment"
+        }
+      ],
+      "description": "The primordial lawgiver whose pronouncements are invoked throughout the chapter as the supreme authority for legal and dharmic rulings.",
+      "justification": "Manu is named four times in the window as the originating authority behind specific legal decisions, confirming his role as the foundational figure of the text."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-bd7268",
+          "quote": "the master, like Yama, having himself abandoned what is dear and not dear, should act with the conduct of Yama",
+          "role": "divine exemplar invoked as a model of impartial judgment for a king"
+        }
+      ],
+      "description": "The god of death and cosmic judge whose impartiality and self-control are held up as the ideal standard for a king administering justice.",
+      "justification": "Yama is named twice within a single verse as the explicit divine model the king must emulate, grounding him as a normative exemplar."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-02ca06",
+          "quote": "A king who desires the station of Indra and fame that is imperishable and unchanging must not overlook for even a moment a violent criminal",
+          "role": "cosmic reward representing the highest royal aspiration for a just king"
+        },
+        {
+          "paragraph_id": "p-4bb22d",
+          "quote": "he is a partaker of the world of Indra",
+          "role": "heavenly realm promised to a king who successfully suppresses crime in his domain"
+        }
+      ],
+      "description": "King of the gods whose station and realm are held out as the supreme reward for a king who diligently enforces the law and suppresses criminals.",
+      "justification": "Indra appears in two distinct verses as the eschatological reward for righteous kingship, making him a key motivational figure in this legal context."
+    },
+    {
+      "canonical_name": "Brahman (Self-existent One)",
+      "surface_names": ["Self-existent One", "Brahman"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-e6bdf4",
+          "quote": "he was created by the Self-existent One for the service of a Brahmana",
+          "role": "cosmic creator whose primordial act of creation grounds the cosmic-dharmic justification of Shudra servitude"
+        }
+      ],
+      "description": "The self-existent creator deity (Brahman / Svayambhu) invoked to provide cosmological sanction for the varna hierarchy and the Shudra's duty of service.",
+      "justification": "The Self-existent One is cited as the ultimate author of the social order prescribing Shudra servitude, grounding an ontological claim with divine authority."
+    },
+    {
+      "canonical_name": "Brahmana",
+      "surface_names": ["Brahmana", "Brahmin", "twice-born"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2ca524",
+          "quote": "A Kshatriya who insults a Brahmana deserves a fine of one hundred",
+          "role": "highest-varna group whose honor is protected by asymmetric fine schedules"
+        },
+        {
+          "paragraph_id": "p-30e5e8",
+          "quote": "For a Brahmana, it shall be sixty-fourfold, or a full hundred, or even twice sixty-four; for he is a knower of the good and bad qualities of that act",
+          "role": "subject of graduated theft-fine schedule, bearing the heaviest moral responsibility"
+        },
+        {
+          "paragraph_id": "p-5e0494",
+          "quote": "No greater non-Dharma is known on earth than the slaying of a Brahmana",
+          "role": "protected group whose killing is declared the supreme transgression"
+        },
+        {
+          "paragraph_id": "p-560d3e",
+          "quote": "in the defense of women and Brahmanas, one who slays according to Dharma is not tainted",
+          "role": "group whose defense legitimates defensive killing"
+        }
+      ],
+      "description": "The priestly varna occupying the highest rank in the social hierarchy, subject to the strictest moral expectations, the most severe moral fines, and the strongest protections against violence.",
+      "justification": "Brahmanas appear in dozens of verses throughout the window as the normative reference point for fines, punishments, and social protections, confirming their centrality to the window's legal framework."
+    },
+    {
+      "canonical_name": "Kshatriya",
+      "surface_names": ["Kshatriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2ca524",
+          "quote": "A Kshatriya who insults a Brahmana deserves a fine of one hundred",
+          "role": "second-varna group subject to asymmetric verbal-assault fines"
+        },
+        {
+          "paragraph_id": "p-fc6559",
+          "quote": "of a Kshatriya, thirty-twofold",
+          "role": "second-varna group in the graduated theft-fine schedule"
+        },
+        {
+          "paragraph_id": "p-17a450",
+          "quote": "a Kshatriya shall be fined a thousand and deserves to have his head shaved with urine",
+          "role": "second-varna group subject to sexual-offense punishments"
+        }
+      ],
+      "description": "The warrior-ruler varna ranked second in the social hierarchy, subject to intermediate fines for verbal, physical, and sexual offenses across the legal code.",
+      "justification": "Kshatriyas recur throughout the fine and punishment schedules as the second benchmark varna, establishing their consistent position in the text's normative framework."
+    },
+    {
+      "canonical_name": "Vaishya",
+      "surface_names": ["Vaishya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-2ca524",
+          "quote": "a Vaishya, one hundred and fifty or two hundred",
+          "role": "third-varna group in verbal-assault fine schedule"
+        },
+        {
+          "paragraph_id": "p-fc6559",
+          "quote": "of a Vaishya, sixteenfold",
+          "role": "third-varna group in graduated theft-fine schedule"
+        },
+        {
+          "paragraph_id": "p-23c5b8",
+          "quote": "He should make a Vaishya engage in trade, money-lending, and agriculture, and also in the protection of cattle",
+          "role": "group whose prescribed social duties are enumerated by the lawgiver"
+        }
+      ],
+      "description": "The merchant-farmer varna ranked third in the social hierarchy, whose prescribed occupations are trade, agriculture, and cattle-herding, and who face intermediate fines.",
+      "justification": "Vaishyas appear throughout the window in fine schedules and in the prescription of varna-specific duties, establishing their consistent middle-varna position."
+    },
+    {
+      "canonical_name": "Shudra",
+      "surface_names": ["Shudra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-e26690",
+          "quote": "A man of a single birth who assails the twice-born with harsh speech shall have his tongue cut out, for he is of low origin",
+          "role": "low-born group subject to corporal punishment for verbal transgression"
+        },
+        {
+          "paragraph_id": "p-fc6559",
+          "quote": "the guilt of a Shudra shall be eightfold",
+          "role": "lowest varna in the graduated theft-fine schedule"
+        },
+        {
+          "paragraph_id": "p-e6bdf4",
+          "quote": "he should make a Shudra perform the work of a slave, whether bought or not bought; for he was created by the Self-existent One for the service of a Brahmana",
+          "role": "group whose servitude is cosmologically grounded and legally enforced"
+        },
+        {
+          "paragraph_id": "p-d779ef",
+          "quote": "A Shudra, even if released by his master, is not freed from servitude; for that is innate in him",
+          "role": "group defined by inalienable hereditary servitude"
+        }
+      ],
+      "description": "The lowest varna in the social hierarchy, subject to corporal punishments for verbal offenses and prescribed by the text as constitutionally bound to servile labor.",
+      "justification": "Shudras appear throughout the window at the base of every fine and punishment scale and are the explicit subject of extended discussion of hereditary servitude at the window's close."
+    },
+    {
+      "canonical_name": "Chandala",
+      "surface_names": ["Chandala"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-488a88",
+          "quote": "for intercourse with a Vratya woman, and likewise with a Chandala woman, it is the same",
+          "role": "outcast group whose women are marked as objects of aggravated sexual offense"
+        }
+      ],
+      "description": "An outcast group placed below the four varnas whose women are referenced in the sexual offense schedule alongside Vratya women.",
+      "justification": "The Chandala woman is named as a distinct category in the punishment schedule for sexual offenses, marking the group's position outside and below the varna hierarchy."
+    },
+    {
+      "canonical_name": "Vratya",
+      "surface_names": ["Vratya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-488a88",
+          "quote": "for intercourse with a Vratya woman, and likewise with a Chandala woman, it is the same",
+          "role": "ritually degraded group referenced in the sexual offense fine schedule"
+        }
+      ],
+      "description": "A ritually irregular or degraded group whose women are listed alongside Chandala women as a category attracting doubled fines for sexual offenses after a year's accusation.",
+      "justification": "Vratya women are named as a distinct penalty category in Mn_8.373, grounding the entry in the text."
+    },
+    {
+      "canonical_name": "Adhvaryu",
+      "surface_names": ["Adhvaryu"],
+      "kind": "figure",
+      "figure_kind": "ritual-specialist",
+      "mentions": [
+        {
+          "paragraph_id": "p-523a21",
+          "quote": "The Adhvaryu should take the chariot, and the Brahma priest the horse at the establishment of the fire",
+          "role": "ritual officiant assigned specific sacrificial fees"
+        }
+      ],
+      "description": "The Adhvaryu is the Vedic priest responsible for the ritual actions in a sacrifice, assigned the chariot as his fee at the establishment of the fire.",
+      "justification": "The Adhvaryu is named with a specific fee-assignment at Mn_8.209, grounding him as a distinct ritual functionary in the sacrificial fee dispute section."
+    },
+    {
+      "canonical_name": "Hotri priest",
+      "surface_names": ["Hotri priest", "Hotri"],
+      "kind": "figure",
+      "figure_kind": "ritual-specialist",
+      "mentions": [
+        {
+          "paragraph_id": "p-523a21",
+          "quote": "the Hotri priest may also take a horse",
+          "role": "ritual officiant assigned a horse as his share of sacrificial fees"
+        }
+      ],
+      "description": "The Vedic reciter-priest (Hotri) who chants hymns at sacrifices and is assigned a horse as part of the fee distribution at the fire-establishment ceremony.",
+      "justification": "The Hotri priest is named at Mn_8.209 in the context of fee allocation, confirming his presence in the text."
+    },
+    {
+      "canonical_name": "Udgatri priest",
+      "surface_names": ["Udgatri priest", "Udgatri"],
+      "kind": "figure",
+      "figure_kind": "ritual-specialist",
+      "mentions": [
+        {
+          "paragraph_id": "p-523a21",
+          "quote": "the Udgatri priest a cart at the purchase of Soma",
+          "role": "ritual officiant assigned a cart as his share of sacrificial fees"
+        }
+      ],
+      "description": "The Vedic chanter-priest (Udgatri) who sings the Samaveda hymns and is assigned a cart as his fee at the Soma-purchasing rite.",
+      "justification": "The Udgatri priest is named at Mn_8.209 with a distinct fee-assignment, confirming his presence in this ritual-fee dispute passage."
+    },
+    {
+      "canonical_name": "Brahma priest",
+      "surface_names": ["Brahma priest"],
+      "kind": "figure",
+      "figure_kind": "ritual-specialist",
+      "mentions": [
+        {
+          "paragraph_id": "p-523a21",
+          "quote": "the Brahma priest the horse at the establishment of the fire",
+          "role": "overseer-priest assigned a horse as his share of sacrificial fees"
+        }
+      ],
+      "description": "The Brahma (overseer) priest at Vedic sacrifices who supervises the entire rite and is assigned a horse as fee at the fire-establishment ceremony.",
+      "justification": "The Brahma priest is named at Mn_8.209 alongside the other three main officiants, grounding the entry in the text."
+    },
+    {
+      "canonical_name": "wolf",
+      "surface_names": ["wolf"],
+      "kind": "animal",
+      "mentions": [
+        {
+          "paragraph_id": "p-cd6b92",
+          "quote": "a wolf should attack while the herdsman is not present, for any that the wolf seizes and kills, the guilt shall be the herdsman's",
+          "role": "natural predator whose attack on penned livestock triggers herdsman liability"
+        },
+        {
+          "paragraph_id": "p-88a5d7",
+          "quote": "a wolf should leap up and kill one, the herdsman is not guilty in that case",
+          "role": "natural predator whose attack on grazing livestock does not trigger herdsman liability"
+        }
+      ],
+      "description": "A wild predatory animal used in the text to distinguish two scenarios of livestock loss — one triggering and one exempting herdsman liability.",
+      "justification": "The wolf appears in two consecutive verses (Mn_8.235-236) as the operative agent in distinct liability determinations, making it a legally significant animal entity."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Varna hierarchy and differential legal treatment",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2ca524",
+          "quote": "A Kshatriya who insults a Brahmana deserves a fine of one hundred; a Vaishya, one hundred and fifty or two hundred; but a Shudra deserves corporal punishment"
+        },
+        {
+          "paragraph_id": "p-fc6559",
+          "quote": "For a theft, the guilt of a Shudra shall be eightfold; of a Vaishya, sixteenfold; of a Kshatriya, thirty-twofold"
+        },
+        {
+          "paragraph_id": "p-30e5e8",
+          "quote": "For a Brahmana, it shall be sixty-fourfold, or a full hundred, or even twice sixty-four"
+        }
+      ],
+      "justification": "The entire window from Mn_8.267 onward organizes verbal assault, physical assault, theft, and sexual offense punishments along varna lines, making differential treatment by social rank the dominant structural principle of the legal code."
+    },
+    {
+      "topic": "Royal duty to protect subjects and punish wrongdoers",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ce68bd",
+          "quote": "A sixth part of the Dharma from all belongs to the king who protects; but a sixth part of the non-Dharma also belongs to him who does not protect"
+        },
+        {
+          "paragraph_id": "p-9360de",
+          "quote": "A king should make the utmost effort in the suppression of thieves; for by the suppression of thieves, his fame and his kingdom increase"
+        },
+        {
+          "paragraph_id": "p-20b727",
+          "quote": "That king who, without protecting, takes tribute, taxes, tolls, and a share of fines, he goes immediately to hell"
+        }
+      ],
+      "justification": "Multiple verses (Mn_8.302-311) elaborate that the king's legitimacy derives entirely from protection: collecting revenue without protection is tantamount to theft, and the king earns or forfeits a portion of the moral merit/demerit of his subjects depending on whether he protects them."
+    },
+    {
+      "topic": "Property, debt, and deposits — contractual obligations",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-dc780b",
+          "quote": "A wise man should make a deposit with one who is of noble family, of good conduct, who knows the Dharma"
+        },
+        {
+          "paragraph_id": "p-169b80",
+          "quote": "He who does not return a deposit, and he who demands what he has not deposited, both should be punished like a thief"
+        },
+        {
+          "paragraph_id": "p-0aebac",
+          "quote": "Where enjoyment is seen, but no title is seen anywhere, there the title is the cause, not the enjoyment"
+        }
+      ],
+      "justification": "A substantial portion of the window (Mn_8.179-202) deals systematically with deposits, sealed deposits, fraudulent sales, and title-vs-possession disputes, establishing a law of contract and bailment."
+    },
+    {
+      "topic": "Theft — classification, graduated punishment, and limits",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c9105e",
+          "quote": "For one who steals more than ten kumbhas of grain, the punishment is death; for less, he shall be made to pay eleven times the value"
+        },
+        {
+          "paragraph_id": "p-3c5b86",
+          "quote": "With whatever limb a thief acts among men, that very limb the king should take away from him, for the sake of setting an example"
+        },
+        {
+          "paragraph_id": "p-e58d81",
+          "quote": "Fruit and roots from a wild tree, wood for the sake of a fire, and likewise grass for the sake of feeding cows — Manu has declared this not to be theft"
+        }
+      ],
+      "justification": "Mn_8.302-343 devotes an extended passage to theft: categories of stolen goods, quantity thresholds for death vs. mutilation vs. fines, varna-multiplied guilt, exceptions for travelers and forest produce, and the ritual of self-surrender to the king."
+    },
+    {
+      "topic": "Sexual offenses and the protection of women",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-9de175",
+          "quote": "For from that arises the mixing of varnas in the world, by which root-destroying non-Dharma is produced, leading to the destruction of all"
+        },
+        {
+          "paragraph_id": "p-97ff3d",
+          "quote": "He who defiles an unwilling maiden shall immediately receive the punishment of death"
+        },
+        {
+          "paragraph_id": "p-a2eb99",
+          "quote": "A non-Brahmana deserves the punishment of death for adultery; for the wives of all four varnas must always be most carefully protected"
+        }
+      ],
+      "justification": "Mn_8.352-385 systematically catalogs offenses against women — adultery, rape, consensual intercourse across varna lines — and derives punishments from the varna combination of perpetrator and victim, with varna mixing as the ultimate social danger."
+    },
+    {
+      "topic": "Boundary disputes and land ownership",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-61feb1",
+          "quote": "When a dispute has arisen between two villages concerning a boundary, he should settle the boundary in the month of Jyeshtha, when the boundary marks are most visible"
+        },
+        {
+          "paragraph_id": "p-a0f559",
+          "quote": "He should make boundary-trees, such as banyans, pipal trees, and palashas, silk-cotton trees, sal and palm trees, and also milky trees"
+        },
+        {
+          "paragraph_id": "p-9b7f6f",
+          "quote": "By these marks, the king should settle the boundary between two disputing parties"
+        }
+      ],
+      "justification": "Mn_8.245-265 constitutes an extended treatment of boundary law: seasonal timing of surveys, material markers (trees, buried objects, landmarks), witness procedures, and penalties for false testimony — covering the full procedural and evidentiary framework for land disputes."
+    },
+    {
+      "topic": "Legitimate use of force and self-defense",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-82ec99",
+          "quote": "A weapon may be taken up by the twice-born when Dharma is obstructed, and in a calamity caused by time that afflicts the twice-born and the varnas"
+        },
+        {
+          "paragraph_id": "p-560d3e",
+          "quote": "in the protection of oneself, and in a conflict over sacrificial fees, and in the defense of women and Brahmanas, one who slays according to Dharma is not tainted"
+        },
+        {
+          "paragraph_id": "p-411a10",
+          "quote": "There is no fault whatsoever for the slayer in the slaying of an aggressor, whether openly or secretly; fury meets fury"
+        }
+      ],
+      "justification": "Mn_8.348-351 constitutes an explicit statement of justified homicide, carving out contexts in which killing is dharmically permissible — defense of self, women, Brahmanas, and sacrificial property — making legitimate force a distinct doctrinal theme."
+    },
+    {
+      "topic": "Hereditary servitude and the Shudra's ontological status",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e6bdf4",
+          "quote": "he should make a Shudra perform the work of a slave, whether bought or not bought; for he was created by the Self-existent One for the service of a Brahmana"
+        },
+        {
+          "paragraph_id": "p-d779ef",
+          "quote": "A Shudra, even if released by his master, is not freed from servitude; for that is innate in him"
+        },
+        {
+          "paragraph_id": "p-5be08b",
+          "quote": "One captured under a banner, one who becomes a slave for food, one born in the house, one who is bought, one who is given, one inherited from his father, and one who becomes a slave to pay off a fine — these are the seven origins of slaves"
+        }
+      ],
+      "justification": "The window closes with Mn_8.413-415 making the boldest ontological claim in the chapter: Shudra servitude is innate, divinely ordained, and inalienable, culminating in a taxonomy of seven categories of slaves — giving hereditary servitude its own concluding doctrinal section."
+    },
+    {
+      "topic": "Karma, merit transfer, and eschatological consequences of kingship",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-4bb505",
+          "quote": "The slayer of a learned Brahmana wipes his sin on one who eats his food; an unfaithful wife, on her husband; a pupil and one for whom a sacrifice is performed, on the guru; and a thief, on the king",
+          "quote": "a thief, on the king"
+        },
+        {
+          "paragraph_id": "p-15ee9b",
+          "quote": "men who have committed sins and have been punished by kings, they go to heaven, pure, like the virtuous who have done good deeds"
+        },
+        {
+          "paragraph_id": "p-617eb4",
+          "quote": "the king becomes a sharer of the sixth part by means of righteous protection"
+        }
+      ],
+      "justification": "An implicit theological framework pervades the section: punishment purifies the offender, transferring sin to the negligent king; righteous protection earns the king a fraction of every subject's religious merit — establishing a karmic economy of royal governance not stated as a separate doctrine but underlying multiple verses."
+    },
+    {
+      "topic": "Regulation of commerce, wages, and market conduct",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-85b8a3",
+          "quote": "those who are skilled and expert in all merchandise should fix the price according to the goods, and from that the king should take a twentieth part"
+        },
+        {
+          "paragraph_id": "p-741f75",
+          "quote": "One who avoids a toll-station, who buys or sells at an improper time, and one who speaks falsely in counting shall be made to pay a fine of eight times the amount"
+        },
+        {
+          "paragraph_id": "p-26ae4a",
+          "quote": "The balance, the weights, and the measures should all be well-marked; and every six months, he should examine them again"
+        }
+      ],
+      "justification": "Mn_8.396-409 covers weaver fees, toll-station duties, price-fixing procedures, standardization of weights and measures, and ferry-tolls — constituting a coherent section on market regulation and royal economic governance."
+    }
+  ],
+  "citations": []
+}

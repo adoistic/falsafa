@@ -1,0 +1,373 @@
+{
+  "slug": "unknown-naradasmrti-7650d2",
+  "window": "01:731-967",
+  "entities": [
+    {
+      "canonical_name": "Brāhmaṇa",
+      "surface_names": ["Brāhmaṇa", "Brāhmaṇas", "twice-born", "Brāhmaṇical"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-afce27", "quote": "the property of a god, a Brāhmaṇa, or a king are to be known as high-value objects", "role": "protected class whose property is highest-value"},
+        {"paragraph_id": "p-fcf240", "quote": "A Kṣatriya who abuses a Brāhmaṇa deserves a fine of one hundred", "role": "victim in caste-graded defamation fines"},
+        {"paragraph_id": "p-df64b8", "quote": "two are declared to be unspeakable and unpunishable: a Brāhmaṇa and the king", "role": "legally inviolable person"},
+        {"paragraph_id": "p-97cd32", "quote": "With whatever limb a man of a lower class injures a Brāhmaṇa, that limb of his should be cut off", "role": "protected body against lower-caste assault"},
+        {"paragraph_id": "p-10f312", "quote": "The king should always serve Brāhmaṇas with a concentrated mind", "role": "recipient of royal service"},
+        {"paragraph_id": "p-14feb5", "quote": "One should never kill a Brāhmaṇa, even if he is involved in all sins", "role": "inviolable—exempt from capital punishment"},
+        {"paragraph_id": "p-9ba775", "quote": "In the case of a Brāhmaṇa's four great sins, branding is prescribed", "role": "subject of branding as substitute punishment"},
+        {"paragraph_id": "p-f5b4e7", "quote": "One should not give poison to a Brāhmaṇa", "role": "exempt from ordeal by poison"}
+      ],
+      "description": "The priestly class who enjoy supreme legal protection, exemption from capital punishment, and privileged ritual and social status throughout the Nāradasmṛti's penal and administrative rules.",
+      "justification": "Brāhmaṇas are the most frequently named social group in this window, with explicit legal exemptions, elevated fines for their abuse, and unique ritual privileges distinguishing them from all other varṇas."
+    },
+    {
+      "canonical_name": "King",
+      "surface_names": ["king", "lord of the earth", "lord of men", "thousand-eyed one"],
+      "kind": "figure",
+      "figure_kind": "royal",
+      "mentions": [
+        {"paragraph_id": "p-b556cd", "quote": "the king should pay from his own treasury. For if he is negligent, he becomes sinful", "role": "financially liable guarantor of public security"},
+        {"paragraph_id": "p-0d978c", "quote": "Command is the power of kings, and that is established in their speech", "role": "source of law"},
+        {"paragraph_id": "p-813acf", "quote": "This one, called the king, moves on earth as the thousand-eyed one in person", "role": "divine embodiment on earth"},
+        {"paragraph_id": "p-384e0a", "quote": "Kings of immeasurable power assume five forms: of Agni, of Indra, of Soma, of Yama, and of Dhanada", "role": "divine polymorph"},
+        {"paragraph_id": "p-f25450", "quote": "His duty is the protection of his subjects, attendance upon the aged and wise, the examination of legal disputes", "role": "obligated protector and judge"},
+        {"paragraph_id": "p-3fea4a", "quote": "The same amount of sin that a king incurs by executing one who should not be executed, he incurs by releasing one who should be executed", "role": "agent of just punishment"},
+        {"paragraph_id": "p-60f78e", "quote": "A king who knows Dharma, who administers the five ordeals to the accused according to the stated manner, rejoices hereafter and in this world", "role": "administrator of divine ordeals"}
+      ],
+      "description": "The king is the central legal and quasi-divine authority in the Nāradasmṛti: source of law, guarantor of public order, embodiment of five divine forms, and personally responsible for both just punishment and the sin of unjust execution or release.",
+      "justification": "The king is invoked in nearly every major section of this window—from theft tracking and gambling regulation to the five divine forms and the ordeal procedures—marking him as the pivotal institutional and theological figure of the text."
+    },
+    {
+      "canonical_name": "Agni",
+      "surface_names": ["Agni", "Fire", "fire"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-384e0a", "quote": "Kings of immeasurable power assume five forms: of Agni, of Indra, of Soma, of Yama, and of Dhanada", "role": "one of the five divine forms of the king"},
+        {"paragraph_id": "p-919dfd", "quote": "When the king, with or without cause, overcome by anger, burns his subjects, then he is called Agni", "role": "wrathful form of the king"},
+        {"paragraph_id": "p-91951a", "quote": "You, O Fire, move within all beings as a witness. The good and evil deeds in the world, unknown to men, are known by you", "role": "omniscient divine witness in the ordeal ritual"},
+        {"paragraph_id": "p-1e3f40", "quote": "Just as fire is not tainted while constantly burning these creatures, so a king is not tainted by inflicting punishment", "role": "analogical figure for the king's moral purity"}
+      ],
+      "description": "Agni (fire) functions both as one of the king's five divine manifestations and as the divine witness invoked in the ordeal by fire, into whose presence the accused carries a heated iron ball.",
+      "justification": "Agni is explicitly named as one of the king's five forms and is ritually invoked as an omniscient witness in the fire ordeal, making him a theologically active figure in both the governance and juridical sections of this window."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra", "thousand-eyed one"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-384e0a", "quote": "Kings of immeasurable power assume five forms: of Agni, of Indra, of Soma, of Yama, and of Dhanada", "role": "one of the five divine forms of the king"},
+        {"paragraph_id": "p-4aa94c", "quote": "When the king, having taken up his brilliant power, desirous of victory and with weapons raised, attacks his enemies, then he is called Indra", "role": "martial, victorious form of the king"},
+        {"paragraph_id": "p-813acf", "quote": "This one, called the king, moves on earth as the thousand-eyed one in person", "role": "epithet applied to the king on earth"}
+      ],
+      "description": "Indra, the storm-king of the gods and wielder of the thunderbolt, is invoked as the martial divine form assumed by the king when he goes to war, and his epithet 'thousand-eyed' is applied directly to the ruling monarch.",
+      "justification": "Indra is explicitly named among the king's five divine forms and his defining epithet is applied to the earthly king, giving him a textually active role in the theology of kingship in this window."
+    },
+    {
+      "canonical_name": "Soma",
+      "surface_names": ["Soma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-384e0a", "quote": "Kings of immeasurable power assume five forms: of Agni, of Indra, of Soma, of Yama, and of Dhanada", "role": "one of the five divine forms of the king"},
+        {"paragraph_id": "p-ec3dae", "quote": "When the king, his anger and heat having passed, with a joyful appearance, grants an audience to his subjects, he is then called Soma", "role": "gentle, beneficent form of the king"}
+      ],
+      "description": "Soma, the lunar deity and ritual drink, represents the king's gentle, favour-granting aspect when he receives subjects with a joyful appearance after anger has passed.",
+      "justification": "Soma is named as one of the king's five divine forms and is specifically elaborated as the king's benevolent, audience-granting manifestation in verse 18.27."
+    },
+    {
+      "canonical_name": "Yama Vaivasvata",
+      "surface_names": ["Yama", "Yama Vaivasvata"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-384e0a", "quote": "Kings of immeasurable power assume five forms: of Agni, of Indra, of Soma, of Yama, and of Dhanada", "role": "one of the five divine forms of the king"},
+        {"paragraph_id": "p-d04da6", "quote": "When the glorious king, seated on the throne of justice, wields the rod of punishment, being equal to all beings, then he is Yama Vaivasvata", "role": "just, impartial judge form of the king"},
+        {"paragraph_id": "p-4319d5", "quote": "The guru is the chastiser of the self-controlled; the king is the chastiser of the wicked. And the chastiser of those with hidden sins is Yama Vaivasvata", "role": "post-mortem chastiser of hidden sinners"}
+      ],
+      "description": "Yama Vaivasvata, the god of death and cosmic justice, is both one of the king's five divine forms when he dispenses equal justice and the ultimate chastiser of sins hidden from earthly punishment.",
+      "justification": "Yama Vaivasvata is named twice in this window: once as the king's judicial divine form (18.28) and once as the chastiser of hidden sins beyond the reach of kings (19.57), giving him a distinct soteriological role."
+    },
+    {
+      "canonical_name": "Dhanada",
+      "surface_names": ["Dhanada", "Kubera"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-384e0a", "quote": "Kings of immeasurable power assume five forms: of Agni, of Indra, of Soma, of Yama, and of Dhanada", "role": "one of the five divine forms of the king"},
+        {"paragraph_id": "p-d4a8bb", "quote": "When the lord of the earth bestows favor with gifts upon petitioners, gurus, the wise, servants, and others, then he is remembered as Dhanada", "role": "wealth-giving form of the king"}
+      ],
+      "description": "Dhanada (Kubera, lord of wealth) is the divine form assumed by the king when he bestows gifts and favours, representing the royal patronage dimension of sovereignty.",
+      "justification": "Dhanada is explicitly named as the fifth of the king's divine forms (18.24, 18.29), representing the gift-giving and patronage function of royal power."
+    },
+    {
+      "canonical_name": "Manu Svāyaṃbhuva",
+      "surface_names": ["Manu", "Manu Svāyaṃbhuva", "Svāyaṃbhuva", "Self-existent One"],
+      "kind": "figure",
+      "figure_kind": "sage-lawgiver",
+      "mentions": [
+        {"paragraph_id": "p-d3a9de", "quote": "the punishment is death. For a lesser amount, he should be made to pay a fine of eleven times the value, so said Manu", "role": "cited authority for grain-theft penalty"},
+        {"paragraph_id": "p-ca09c8", "quote": "With whatever particular limb a thief operates, that very limb of his should be cut off; this is the ordinance of Manu", "role": "lawgiver source for mutilation punishment"},
+        {"paragraph_id": "p-09310a", "quote": "Manu Svāyaṃbhuva declared ten places of punishment, which should apply to the three classes; a Brāhmaṇa is always protected", "role": "source for the ten bodily sites of punishment"},
+        {"paragraph_id": "p-bd47ca", "quote": "A perpetrator of violence, who has abandoned his own self, should not be released by the king because of friendship or a large monetary gain, said Manu", "role": "cited authority against clemency for violent offenders"},
+        {"paragraph_id": "p-1f3dfa", "quote": "This threefold punishment for crimes of violence was declared by the Self-existent One", "role": "divine source for the three-tier violence penalty"},
+        {"paragraph_id": "p-d58b41", "quote": "For a Brāhmaṇa, it is sixty-fourfold; thus said Svāyaṃbhuva", "role": "cited source for graduated theft-sin scale"},
+        {"paragraph_id": "p-ef3be1", "quote": "the ordeal is known to be of five kinds, so says the blessed Manu", "role": "authority for the fivefold ordeal typology"}
+      ],
+      "description": "Manu Svāyaṃbhuva, the primordial lawgiver, is repeatedly cited in the Appendix section as the authoritative source for penalties on theft, mutilation rules, the ten sites of punishment, and the fivefold ordeal system.",
+      "justification": "Manu is the most frequently cited individual authority in this window, invoked seven times across sections on theft penalties, bodily punishments, and ordeals, establishing him as the primary external legal tradition the Nāradasmṛti appeals to."
+    },
+    {
+      "canonical_name": "Prajāpati",
+      "surface_names": ["Prajāpati"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-23ea90", "quote": "remembering the Dharma of Prajāpati for his servants; this is the established rule", "role": "divine authority for the king's treatment of Brāhmaṇa servants"}
+      ],
+      "description": "Prajāpati, the lord of creatures and primordial creator-deity, is invoked as the divine precedent for the rule that a king may take a Brāhmaṇa's property or leave him a quarter, following Prajāpati's Dharma for servants.",
+      "justification": "Prajāpati is explicitly named as the divine model (19.49) for the king's restrained treatment of Brāhmaṇa offenders, grounding a legal rule in cosmogonic authority."
+    },
+    {
+      "canonical_name": "Brahmā",
+      "surface_names": ["Brahmā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {"paragraph_id": "p-994b4c", "quote": "You, O Poison, are the son of Brahmā, established in truth and Dharma", "role": "divine progenitor of the ordeal poison"}
+      ],
+      "description": "Brahmā, the creator god, is invoked in the poison-ordeal invocation as the divine progenitor of the ordeal poison, legitimising its ritual use through cosmogonic lineage.",
+      "justification": "Brahmā is explicitly named in the liturgical formula of the poison ordeal (20.40), making his mention textually grounded and ritually significant."
+    },
+    {
+      "canonical_name": "Nārada",
+      "surface_names": ["Nārada", "great-souled Nārada"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {"paragraph_id": "p-5b0560", "quote": "the means of distinguishing truth from untruth were again declared by the great-souled Nārada", "role": "attributed composer of the ordeal rules"},
+        {"paragraph_id": "p-ad052e", "quote": "The Dharmaśāstra of Nārada is complete", "role": "named author of the entire work"}
+      ],
+      "description": "Nārada, the divine sage, is named as the author of the Dharmaśāstra and as the one who declared the means of distinguishing truth from falsehood through ordeals, appearing at the close of the text.",
+      "justification": "Nārada is named in the colophon as the work's author and is also invoked within the ordeal section (20.7) as its specific authority, grounding both the work's title and its juridical method in his name."
+    },
+    {
+      "canonical_name": "Cāṇḍāla",
+      "surface_names": ["Cāṇḍālas", "Cāṇḍāla"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-a3d30f", "quote": "In villages, the search should be conducted by Cāṇḍālas, executioners, and others", "role": "assigned agents for tracking thieves"},
+        {"paragraph_id": "p-379077", "quote": "In the case of Śvapākas, eunuchs, Cāṇḍālas, the deformed, those who live by execution", "role": "member of the impure class exempt from assault-fault rules"}
+      ],
+      "description": "Cāṇḍālas are a ritually impure outcaste group assigned to carry out searches for thieves in villages and also listed among those whose transgression of propriety incurs immediate death rather than ordinary assault penalties.",
+      "justification": "Cāṇḍālas are mentioned in two distinct legal contexts—as designated search agents (14.25) and as members of a legally marginal class subject to extreme measures (15.12)—confirming their structural role in the text's social hierarchy."
+    },
+    {
+      "canonical_name": "Śūdra",
+      "surface_names": ["Śūdra", "low-born man", "man of a lower class"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-fcf240", "quote": "a Śūdra deserves death", "role": "subject of capital punishment for abusing a Brāhmaṇa"},
+        {"paragraph_id": "p-e24eb2", "quote": "For a Śūdra who, with intent to injure, takes the name and caste of the twice-born", "role": "subject of corporal punishment for caste impersonation"},
+        {"paragraph_id": "p-ca2356", "quote": "The sin of a Śūdra in theft is eightfold", "role": "lowest multiplier in the graduated theft-sin scale"},
+        {"paragraph_id": "p-f5b4e7", "quote": "a Śūdra should not be made to drink consecrated water", "role": "barred from the ordeal by consecrated water"}
+      ],
+      "description": "Śūdras, the lowest of the four varṇas, are subject to the harshest corporal penalties for verbal and physical transgressions against higher castes and bear an eightfold sin-multiplier for theft, while being excluded from the consecrated-water ordeal.",
+      "justification": "Śūdras appear across the verbal assault, physical assault, theft-sin scaling, and ordeal sections—each time in a legally disadvantaged position relative to the twice-born, making them a structurally defining group for the text's hierarchical legal logic."
+    },
+    {
+      "canonical_name": "Kṣatriya",
+      "surface_names": ["Kṣatriya", "Kṣatra power"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-fcf240", "quote": "A Kṣatriya who abuses a Brāhmaṇa deserves a fine of one hundred", "role": "subject of caste-graded defamation fine"},
+        {"paragraph_id": "p-10f312", "quote": "The Kṣatra power, when united with the Brāhmaṇa power, is the root of the protection of the world", "role": "co-pillar of world protection with Brāhmaṇas"},
+        {"paragraph_id": "p-f5b4e7", "quote": "nor should a Kṣatriya carry the iron", "role": "exempt from the fire ordeal"}
+      ],
+      "description": "Kṣatriyas, the warrior-ruler class, are liable to heavy fines for abusing Brāhmaṇas, ideologically paired with Brāhmaṇas as co-protectors of the world, and exempt from the fire ordeal.",
+      "justification": "Kṣatriyas appear in the defamation fine scale, the theological pairing with Brāhmaṇa power, and the ordeal exemption table, marking their distinct legal and cosmological position in this window."
+    },
+    {
+      "canonical_name": "Vaiśya",
+      "surface_names": ["Vaiśya"],
+      "kind": "group",
+      "mentions": [
+        {"paragraph_id": "p-fcf240", "quote": "A Vaiśya, one hundred and fifty or two hundred", "role": "subject of caste-graded defamation fine for abusing a Brāhmaṇa"},
+        {"paragraph_id": "p-b1f3ee", "quote": "a Vaiśya would abandon his own work", "role": "class that abandons its duty without royal enforcement"},
+        {"paragraph_id": "p-f5b4e7", "quote": "A Vaiśya should not be submerged in water", "role": "exempt from the water ordeal"}
+      ],
+      "description": "Vaiśyas, the merchant-agricultural class, incur higher defamation fines than Kṣatriyas for abusing Brāhmaṇas, depend on royal enforcement to maintain their dharmic role, and are barred from the water ordeal.",
+      "justification": "Vaiśyas are named in three distinct legal-functional contexts—fines, social order, and ordeal exemptions—situating them within the text's four-varṇa structural logic."
+    },
+    {
+      "canonical_name": "Śṛṅga mountain",
+      "surface_names": ["Śṛṅga", "Himavat"],
+      "kind": "place",
+      "mentions": [
+        {"paragraph_id": "p-0d72c4", "quote": "That from the Śṛṅga or Himavat mountains is praised, endowed with good smell, color, and taste", "role": "geographic source of the best ordeal poison"}
+      ],
+      "description": "Śṛṅga and Himavat (the Himalayan range) are named as the geographic sources of the highest-quality poison to be used in the ordeal by poison, distinguished by superior smell, colour, and taste.",
+      "justification": "These mountains are explicitly identified (20.35) as the provenance of the preferred ordeal poison, making them the only geographic place-entities introduced in this window."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Graduated punishment calibrated to caste rank and offence severity",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-fcf240", "quote": "A Kṣatriya who abuses a Brāhmaṇa deserves a fine of one hundred. A Vaiśya, one hundred and fifty or two hundred; a Śūdra deserves death"},
+        {"paragraph_id": "p-9ba054", "quote": "The same punishment that has been stated by the wise for the three kinds of crimes of violence is also the punishment for theft, in order, for the three kinds of objects"},
+        {"paragraph_id": "p-ca2356", "quote": "The sin of a Śūdra in theft is eightfold. It is sixteenfold for a Vaiśya, and thirty-twofold for a Kṣatriya"}
+      ],
+      "justification": "Every major offence category in this window—theft, verbal assault, physical assault, and ordeal administration—applies penalties in strict proportion to both the caste of the offender and the value/gravity of the target, making graduated hierarchy the organising principle of the entire penal system."
+    },
+    {
+      "topic": "Divine kingship: the king as embodiment of five deities and cosmic law",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-384e0a", "quote": "Kings of immeasurable power assume five forms: of Agni, of Indra, of Soma, of Yama, and of Dhanada"},
+        {"paragraph_id": "p-813acf", "quote": "This one, called the king, moves on earth as the thousand-eyed one in person"},
+        {"paragraph_id": "p-2a130b", "quote": "He at whose word an impure man becomes pure, and a pure man immediately becomes impure—how is the king not a divinity?"}
+      ],
+      "justification": "Chapter 18 develops an extended theology of kingship in which the monarch is not merely an administrator but a polymorph deity whose spoken word is law and whose five divine forms encompass the full spectrum from wrathful punishment to generous patronage."
+    },
+    {
+      "topic": "Punishment as spiritual purification and transfer of sin",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-fa7435", "quote": "Men who have committed sins, having been punished by kings, become pure and go to heaven, like good people who have done meritorious deeds"},
+        {"paragraph_id": "p-c207b7", "quote": "By this confession of his own deed, the thief becomes free from sin. That sin touches the king who releases the sinner"},
+        {"paragraph_id": "p-cd92b2", "quote": "Whether by punishment or by release, a thief is freed from sin. But by not punishing, the king incurs the sin of the thief"}
+      ],
+      "justification": "The Appendix (ch. 19) explicitly frames royal punishment as a mechanism of karmic purification: the sinner is cleansed, while unexecuted sin transfers to the negligent king, giving the penal system a soteriological rationale beyond mere social control."
+    },
+    {
+      "topic": "Ordeals (divya) as divine-juridical technology for truth-determination",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-6ade8c", "quote": "The balance, fire, and water, and poison, and the consecrated water as the fifth—these ordeals are declared for the purification of the accused"},
+        {"paragraph_id": "p-87395a", "quote": "You are called 'Balance' by words that are synonyms for Dharma. You know the sins and meritorious deeds of all beings"},
+        {"paragraph_id": "p-91951a", "quote": "You, O Fire, move within all beings as a witness. The good and evil deeds in the world, unknown to men, are known by you"}
+      ],
+      "justification": "The entire chapter 20 presents ordeals not as torture but as ritually sanctioned consultations with divine witnesses (fire, water, balance, poison) who have omniscient access to hidden truth, framing juridical uncertainty as a theological problem solved by ritual."
+    },
+    {
+      "topic": "Complicity and collective liability in theft and robbery",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-82c457", "quote": "Those who give food and shelter to roaming thieves, and those who, though able, are indifferent, they too share in that guilt"},
+        {"paragraph_id": "p-2143f6", "quote": "the buyers of stolen goods and those who receive them—all these are remembered as deserving the same punishment as the thieves"},
+        {"paragraph_id": "p-ab3bb4", "quote": "The officials in the districts and the local chiefs, when called upon, who remain neutral during attacks, they are just like thieves"}
+      ],
+      "justification": "The theft sections (14 and 19) consistently extend criminal liability beyond the direct thief to harborers, bystanders, receivers, buyers, and negligent officials, constructing a wide network of collective responsibility."
+    },
+    {
+      "topic": "Track-and-trace liability for stolen property recovery",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-65ba76", "quote": "Wherever the track leads, in a village, a pasture, or a clearing, the responsibility for the stolen goods falls on that place"},
+        {"paragraph_id": "p-c62686", "quote": "If the track is lost or broken, or is on uneven ground near a settlement, it should be traced to the nearest village or pasture"},
+        {"paragraph_id": "p-bb717c", "quote": "In whose pasture a theft occurs, he must diligently search for the thieves. Otherwise, he must pay for the theft, if the track does not lead out"}
+      ],
+      "justification": "Both sections 14 and 19 develop a detailed system of territorial liability anchored to the physical tracking of stolen goods, placing financial obligation on the locality or administrative unit where the trail ends—an early form of territorial culpability doctrine."
+    },
+    {
+      "topic": "Brahminical privilege and special exemptions as structural legal axiom",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-7efebc", "quote": "A Brāhmaṇa is not to be passed over; he has a seat in front of the king, the first audience in the morning"},
+        {"paragraph_id": "p-8684f9", "quote": "In taking sacrificial wood, flowers, and water, there is no theft, even from one who has property"},
+        {"paragraph_id": "p-14feb5", "quote": "One should never kill a Brāhmaṇa, even if he is involved in all sins. He should be banished at will; this is the established law"}
+      ],
+      "justification": "Chapter 18 and the Appendix articulate a systematic set of Brahminical exemptions—from theft charges, from capital punishment, from certain ordeals—that function as structural axioms underpinning the entire legal code rather than mere ad hoc privileges."
+    },
+    {
+      "topic": "Verbal and physical assault as parallel, symmetrically structured offences",
+      "implicit": true,
+      "mentions": [
+        {"paragraph_id": "p-1d6fd7", "quote": "Abusive language connected with insults to one's country, caste, family, and the like, which has a hostile meaning, is called verbal assault"},
+        {"paragraph_id": "p-9b43e7", "quote": "An attack on another's body with hands, feet, weapons, and the like, and injury with ashes and the like, is called physical assault"},
+        {"paragraph_id": "p-0ee301", "quote": "A fivefold rule is stated for both of these, as to how acquittal and liability to punishment are connected there"}
+      ],
+      "justification": "Chapters 15 and 16 are structurally mirrored—each defines its offence, grades it into three sub-types, and then applies a common fivefold liability rule—suggesting the text treats verbal and physical violence as analogous juridical categories governed by the same underlying logic."
+    },
+    {
+      "topic": "Spies and intelligence operations as tools of criminal justice",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-8b518d", "quote": "Having identified them through very skillful spies who practice the same trade, they should be pursued and caught by men who are secretly deployed"},
+        {"paragraph_id": "p-a9eb8b", "quote": "other trustworthy and clever-speaking spies, who were formerly thieves, should be deployed; they should incite those thieves"},
+        {"paragraph_id": "p-0cf301", "quote": "Assembly halls, watering places, cake shops, brothels, places selling liquor and food, crossroads, sacred trees, public gatherings, and spectacles"}
+      ],
+      "justification": "Section 19 devotes several verses to an organised intelligence apparatus—using reformed thieves as undercover agents, specifying surveillance venues, and describing sting operations—revealing a sophisticated state security methodology implicit in the Dharmaśāstra tradition."
+    },
+    {
+      "topic": "Gambling as a regulated, state-supervised institution",
+      "implicit": false,
+      "mentions": [
+        {"paragraph_id": "p-4929e5", "quote": "The keeper of the gambling house should arrange the game and should pay what is due from it. A tenth part of a hundred shall be his profit"},
+        {"paragraph_id": "p-fb75ef", "quote": "Gamblers should rely on other gamblers in case of a dispute. They themselves shall be the investigators of it"},
+        {"paragraph_id": "p-fcc085", "quote": "The king should banish from the gambling circle those sinful men who play with false dice"}
+      ],
+      "justification": "Chapter 17 frames gambling not as a blanket prohibition but as a legally regulated activity with prescribed house-keeper obligations, internal dispute resolution, and royal enforcement against cheating—treating it as an institution analogous to commerce."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Laws of Manu (Manusmṛti)",
+      "cited_author": "Manu Svāyaṃbhuva",
+      "stance": "authority",
+      "paragraph_id": "p-d3a9de",
+      "quote": "the punishment is death. For a lesser amount, he should be made to pay a fine of eleven times the value, so said Manu",
+      "justification": "Manu is directly quoted as the source for the specific grain-theft penalty, positioning the Manusmṛti as a prior authoritative text whose rulings the Nāradasmṛti endorses and incorporates."
+    },
+    {
+      "cited_work": "Laws of Manu (Manusmṛti)",
+      "cited_author": "Manu Svāyaṃbhuva",
+      "stance": "authority",
+      "paragraph_id": "p-ca09c8",
+      "quote": "With whatever particular limb a thief operates, that very limb of his should be cut off; this is the ordinance of Manu",
+      "justification": "The lex talionis-style mutilation rule is attributed to Manu's ordinance, treating the Manusmṛti as a legislative source whose authority the Nāradasmṛti explicitly cites."
+    },
+    {
+      "cited_work": "Laws of Manu (Manusmṛti)",
+      "cited_author": "Manu Svāyaṃbhuva",
+      "stance": "authority",
+      "paragraph_id": "p-09310a",
+      "quote": "Manu Svāyaṃbhuva declared ten places of punishment, which should apply to the three classes; a Brāhmaṇa is always protected",
+      "justification": "Manu Svāyaṃbhuva is named as the declarer of the ten bodily sites of punishment, directly attributing this juridical classification to his authority."
+    },
+    {
+      "cited_work": "Laws of Manu (Manusmṛti)",
+      "cited_author": "Manu Svāyaṃbhuva",
+      "stance": "authority",
+      "paragraph_id": "p-bd47ca",
+      "quote": "A perpetrator of violence, who has abandoned his own self, should not be released by the king because of friendship or a large monetary gain, said Manu",
+      "justification": "Manu is cited as the authority against releasing violent offenders, reinforcing the Manusmṛti's standing as a parallel legal text whose rulings the Nāradasmṛti endorses."
+    },
+    {
+      "cited_work": "Laws of Manu (Manusmṛti)",
+      "cited_author": "Manu Svāyaṃbhuva",
+      "stance": "authority",
+      "paragraph_id": "p-ef3be1",
+      "quote": "the ordeal is known to be of five kinds, so says the blessed Manu",
+      "justification": "Manu is invoked as the authority for the fivefold typology of ordeals, situating the ordeal chapter within a shared Dharmaśāstra tradition."
+    },
+    {
+      "cited_work": "Laws of Manu (Manusmṛti)",
+      "cited_author": "Svāyaṃbhuva",
+      "stance": "authority",
+      "paragraph_id": "p-1f3dfa",
+      "quote": "This threefold punishment for crimes of violence was declared by the Self-existent One",
+      "justification": "The epithet 'Self-existent One' (Svāyaṃbhuva) refers to Manu Svāyaṃbhuva, who is cited as the authority for the three-tier amercement scale for violent crime."
+    },
+    {
+      "cited_work": "Laws of Manu (Manusmṛti)",
+      "cited_author": "Svāyaṃbhuva",
+      "stance": "authority",
+      "paragraph_id": "p-d58b41",
+      "quote": "For a Brāhmaṇa, it is sixty-fourfold; thus said Svāyaṃbhuva",
+      "justification": "Svāyaṃbhuva (Manu) is credited with the graduated theft-sin multiplier table, again treating the Manusmṛti as the source text being cited."
+    }
+  ]
+}
