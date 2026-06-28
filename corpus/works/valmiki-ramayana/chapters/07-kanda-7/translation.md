@@ -17,6 +17,7 @@ word_count: 64463
 translator: thothica
 ---
 
+
 **7.1.1**  After Rāma had obtained his kingdom and the slaughter of the rākṣasas had been accomplished, all the sages came to pay homage to the Rāghava.
 
 **7.1.2**  Kauśika, Yavakrīta, Raibhya, Cyavana, and Kaṇva the son of Medhātithi — those who dwelt in the eastern quarter came.

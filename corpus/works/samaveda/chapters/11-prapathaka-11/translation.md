@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 11
+chapter_title: Prapāṭhaka 11
+chapter_slug: "11-prapathaka-11"
+variant_id: "9ed8aa15-dfe3-51a7-80e3-7a609c0fbd95"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2945
+translator: thothica
+---
+
 **11.1**  O Agni, with all fires, this sacrifice, this word — grant us delight by your might, O mighty one. O pressers, hasten to the inebriating soma, each one praiseworthy. The soma for the hero, for the warrior. Agni, with his ancient birth, adorning his own body, has grown great among the inspired seers.
 
 **11.2**  Even though we worship god after god throughout all time, to you alone the oblation is poured. Let the two bay steeds, yoked by prayer, bring hither a friend with good fortune — Indra, beloved of hymns. I call the offspring of strength, Agni of purifying flame, in this our well-conducted sacrifice.

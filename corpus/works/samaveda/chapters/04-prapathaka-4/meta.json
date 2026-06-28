@@ -1,0 +1,38 @@
+{
+  "work_slug": "samaveda",
+  "work_title": "Sāmaveda",
+  "chapter_number": 4,
+  "chapter_title": "Prapāṭhaka 4",
+  "chapter_slug": "04-prapathaka-4",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "8d8b8be9-9aff-5c49-9abe-0d6e241fa435",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1329,
+      "paragraph_count": 98,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6cdc854b-ed9f-5354-8407-88fdb9299b4e",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 2988,
+      "paragraph_count": 98,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

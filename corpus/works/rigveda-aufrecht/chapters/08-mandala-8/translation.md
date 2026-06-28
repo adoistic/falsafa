@@ -17,6 +17,7 @@ word_count: 42870
 translator: thothica
 ---
 
+
 **8.1.1**  Praise nothing else, O friends, and suffer no harm; be a praiser of Indra the bull, attending him at the pressing; again and again recite the lauds.
 
 **8.1.2**  Like a bull who charges without bend, like an ox bearing the plough-yoke unwearied — he who dispels enmity, who wins all over, most munificent, the ally of both sides.

@@ -17,6 +17,7 @@ word_count: 56551
 translator: thothica
 ---
 
+
 **10.1.1**  Tall, he stood foremost at the dawns, risen up; having driven away the darkness he came with light. Agni, with his own bright, shining radiance, newborn, has filled all dwellings.
 
 **10.1.2**  Born as the embryo of Heaven and Earth, O Agni, cherished and lovely among the plants, a wondrous child, crying aloud above his mothers, he passed beyond the darkness and the night-seasons.

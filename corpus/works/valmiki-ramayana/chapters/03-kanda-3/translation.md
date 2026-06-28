@@ -17,6 +17,7 @@ word_count: 50395
 translator: thothica
 ---
 
+
 **3.1.1**  Entering the great forest, the Daṇḍaka wilderness, the self-possessed and invincible Rāma beheld the precinct of the ascetics' hermitage.
 
 **3.1.2**  Surrounded by kuśa grass and bark cloth, pervaded by the radiance of Brahmā, it blazed forth, difficult to behold — like the disk of the sun flaming in the sky.

@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 6
+chapter_title: Prapāṭhaka 6
+chapter_slug: "06-prapathaka-6"
+variant_id: "d76885be-bbe0-58fb-91cb-13e9e712c38d"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2624
+translator: thothica
+---
+
 **6.1**  Come near to the one just born, swift-moving, purified with the cows' milk; the gods have eagerly approached the drop of Soma.
 
 **6.2**  Purifying himself, the all-seeing one strides forth against all enemies; they adorn the inspired sage with their thoughts.

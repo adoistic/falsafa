@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 3
+chapter_title: Prapāṭhaka 3
+chapter_slug: "03-prapathaka-3"
+variant_id: "763b6cae-654c-5980-9bd8-a2be2e07b15c"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2492
+translator: thothica
+---
+
 **3.1**  May the somas gladden you, O wielder of the stone; bestow your bounty. Strike down the enemies of sacred speech.
 
 **3.2**  O lover of hymns, protect our pressed soma; you are anointed with streams of sweetness. Indra, glory comes only from your gift.

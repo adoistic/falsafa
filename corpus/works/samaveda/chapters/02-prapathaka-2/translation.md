@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 2
+chapter_title: Prapāṭhaka 2
+chapter_slug: "02-prapathaka-2"
+variant_id: "76f18382-a18f-5c9c-ac6d-b7cbe0a47963"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 1983
+translator: thothica
+---
+
 **2.1**  I, ever-giving, call upon you much, O Agni — truly yours. Like a refuge from the sharp thorn, you are a shelter of greatness.
 
 **2.2**  Carry forth the ancient word, great and primal, to Agni the Hotṛ. Like a sage bearing the lights of the waters, he is the wise ordainer.

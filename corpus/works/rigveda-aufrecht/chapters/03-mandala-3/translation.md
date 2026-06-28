@@ -17,6 +17,7 @@ word_count: 19640
 translator: thothica
 ---
 
+
 **3.1.1**  O Agni, Soma's mighty one, you bear me — you have been made the conveyor at the sacrifice for worship. Shining toward the gods you harness the pressing-stone; for peace, O Agni, be pleased with your own body.
 
 **3.1.2**  We have directed the sacrifice eastward; let our song increase while we honour Agni with fuel and reverence. The wise ones who have ruled the assemblies of heaven have sought a path even to the mighty one for the Gṛtsamadas.

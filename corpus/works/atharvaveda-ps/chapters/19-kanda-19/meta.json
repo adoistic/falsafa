@@ -1,0 +1,38 @@
+{
+  "work_slug": "atharvaveda-ps",
+  "work_title": "Atharvaveda (Paippalāda)",
+  "chapter_number": 19,
+  "chapter_title": "Kāṇḍa 19",
+  "chapter_slug": "19-kanda-19",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "d0e8839c-0508-50c6-a1db-6252d623f854",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 15076,
+      "paragraph_count": 909,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a38b0af3-fe37-5304-a019-1625668e7fd7",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 25177,
+      "paragraph_count": 909,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

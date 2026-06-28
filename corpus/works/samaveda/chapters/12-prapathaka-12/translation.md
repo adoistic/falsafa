@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 12
+chapter_title: Prapāṭhaka 12
+chapter_slug: "12-prapathaka-12"
+variant_id: "238ed660-96dd-59ea-ad69-666e30235866"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2453
+translator: thothica
+---
+
 **12.1**  The streams of this mighty pressed soma flow with force, adorning the gods. O Agni, your fame and vigor are great; your flames blaze forth, O Vibhavasu. O Far-shining One, by your might you bestow the prize-hymn upon the worshipper, O sage. Swift, whetted, terrible as a bull, striking blow on blow, shaking all peoples — the roaring, unwinking, sole hero Indra conquered a hundred armies at once.
 
 **12.2**  The wise priests, praising with song, rub clean the swift steed. The light that was born, the hymn-prize — with pure radiance, bright splendor, full brilliance you rise with your beam. Like a son moving between two mothers you refresh and fill both worlds. With the roaring, unwinking, victorious, battle-rousing, hard-shaking, bold one — with that Indra conquer; endure in battle, O men, with that arrow-bearing mighty one.

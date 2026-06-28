@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 1
+chapter_title: Prapāṭhaka 1
+chapter_slug: "01-prapathaka-1"
+variant_id: "4aebf6d4-c62a-5575-80b5-01df88af7fa3"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2541
+translator: thothica
+---
+
 **1.1**  O Agni, come hither for our enjoyment, praised as you are, for the giving of oblations. Sit down, O priest, upon the sacred grass; you, O Agni, are the invoking priest of all sacrifices, placed here for the good.
 
 **1.2**  Among human beings, through the gods.

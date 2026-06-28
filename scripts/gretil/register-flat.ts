@@ -93,6 +93,32 @@ const WORKS: WorkDef[] = [
     chapterTitleTemplate: "Kāṇḍa {N}",
     chapterDirPattern: /^(\d+)-kanda-\d+$/,
   },
+  {
+    slug: "atharvaveda-ps",
+    title: "Atharvaveda (Paippalāda)",
+    author: "Anonymous (Vedic)",
+    era: "Ancient",
+    genre: "Vedic Literature",
+    language: "Sanskrit",
+    layout: "verse",
+    transliteration_scheme: "latin",
+    thothica_role: "gretil-root",
+    chapterTitleTemplate: "Kāṇḍa {N}",
+    chapterDirPattern: /^(\d+)-kanda-\d+$/,
+  },
+  {
+    slug: "samaveda",
+    title: "Sāmaveda",
+    author: "Anonymous (Vedic)",
+    era: "Ancient",
+    genre: "Vedic Literature",
+    language: "Sanskrit",
+    layout: "verse",
+    transliteration_scheme: "latin",
+    thothica_role: "gretil-root",
+    chapterTitleTemplate: "Prapāṭhaka {N}",
+    chapterDirPattern: /^(\d+)-prapathaka-\d+$/,
+  },
 ];
 
 // ---------------------------------------------------------------------------

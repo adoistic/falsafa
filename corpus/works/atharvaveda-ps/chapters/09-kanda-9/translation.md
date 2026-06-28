@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 9
+chapter_title: Kāṇḍa 9
+chapter_slug: "09-kanda-9"
+variant_id: "a638bbbb-2482-53d9-9fb6-de6191c8e827"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 9609
+translator: thothica
+---
+
 **9.1.1**  Upward rise his kindling-sticks, upward blaze the bright flames of Agni; most resplendent is the son of the fair-visaged one — Tanūnapāt, the Asura, the All-knowing.
 
 **9.1.2**  The god among gods, the god who anoints the paths with honey and ghee — gladly he attends the sacrifice with sweetness: Narāśaṃsa, the beneficent god Savitā, the All-desirable.

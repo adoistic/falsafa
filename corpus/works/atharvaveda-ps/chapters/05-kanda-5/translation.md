@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 5
+chapter_title: Kāṇḍa 5
+chapter_slug: "05-kanda-5"
+variant_id: "eb8aed68-be2d-5348-bd75-af9738d5d220"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 11434
+translator: thothica
+---
+
 **5.1.1**  Homage to the tawny-armed one, the fierce one born in the Sindhu — whoever pays homage to her, he departs away from this man's house.
 
 **5.1.2**  Depart from our houses, depart from the calf-rope! You will entangle yourself right here — come down from the kitchen.

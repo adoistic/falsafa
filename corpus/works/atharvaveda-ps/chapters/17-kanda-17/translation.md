@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 17
+chapter_title: Kāṇḍa 17
+chapter_slug: "17-kanda-17"
+variant_id: "027c96ca-ba57-5411-997f-916328fb8147"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 13378
+translator: thothica
+---
+
 **17.1.1**  Truth, the vast, cosmic order fierce, consecration, austerity, sacred knowledge, and sacrifice — these uphold the Earth. She, the mistress of what has been and what shall be, may Earth make a wide world for us, unobstructed, in the midst of humankind.
 
 **17.1.2**  She who bears the upland slopes, the plains, and the level stretches, the many-powered herbs — may Earth spread wide for us, may she prosper us.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "atharvaveda-ps",
+  "work_title": "Atharvaveda (Paippalāda)",
+  "chapter_number": 11,
+  "chapter_title": "Kāṇḍa 11",
+  "chapter_slug": "11-kanda-11",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "793c0c8c-e79e-59a5-85bf-4ec697572dca",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 2754,
+      "paragraph_count": 148,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8367c1c5-00df-5474-b812-db5b3650af1b",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 4783,
+      "paragraph_count": 148,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

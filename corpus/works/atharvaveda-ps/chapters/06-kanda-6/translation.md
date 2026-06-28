@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 6
+chapter_title: Kāṇḍa 6
+chapter_slug: "06-kanda-6"
+variant_id: "53dcc32c-ffd4-51f0-9b3c-a14546d0671f"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 6385
+translator: thothica
+---
+
 **6.1.1**  That was the foremost among the worlds from which was born the Fierce One, blazing with virile might; born forthwith, he shatters enemies; all the helpers exult after him.
 
 **6.1.2**  Swelling with power, abounding in strength, he places fear in the slave-foe; both the unclad and the clad bow down to thee, the champion, at the gift-offerings in the festal joys.

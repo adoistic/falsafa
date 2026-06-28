@@ -17,6 +17,7 @@ word_count: 14923
 translator: thothica
 ---
 
+
 **2.1.1**  You, O Agni, are born from the heavens; you, the swiftly blazing one, from the waters; you from the rock; you from the forests; you from the plants; you, O lord of men, are born pure.
 
 **2.1.2**  Yours, O Agni, is the Hotṛ-office; yours the seasonal Potṛ-office; yours the Neṣṭṛ-office; you, engaged in the rite, are the Āgnīdhra. Yours is the Praśāstṛ-function; you perform the Adhvaryu duties; and you are both the Brahman-priest and the master of our house.

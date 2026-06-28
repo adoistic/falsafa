@@ -17,6 +17,7 @@ word_count: 24420
 translator: thothica
 ---
 
+
 **6.1.1**  For thou, O Agni, wast the first to take thought of this hymn, and becamest the wondrous Hotṛ. Thou, O bull, hast made thy strength hard to overcome, thy might for every might, to be with every might.
 
 **6.1.2**  Then the Hotṛ, most worthy of worship, sat down in the seat of Iḷā, driving refreshment forward and being praised. Men devoted to the gods followed thee, the first, with minds fixed on great wealth.

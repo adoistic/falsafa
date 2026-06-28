@@ -1,0 +1,38 @@
+{
+  "work_slug": "samaveda",
+  "work_title": "Sāmaveda",
+  "chapter_number": 1,
+  "chapter_title": "Prapāṭhaka 1",
+  "chapter_slug": "01-prapathaka-1",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "c0898ec3-5f8f-52e6-8cfa-a182df767053",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1144,
+      "paragraph_count": 96,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4aebf6d4-c62a-5575-80b5-01df88af7fa3",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 2541,
+      "paragraph_count": 96,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

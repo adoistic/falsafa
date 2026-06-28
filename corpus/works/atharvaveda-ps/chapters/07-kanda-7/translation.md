@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 7
+chapter_title: Kāṇḍa 7
+chapter_slug: "07-kanda-7"
+variant_id: "0612f189-c66c-5c6d-842a-9d11801700a3"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 5660
+translator: thothica
+---
+
 **7.1.1**  The eagle found you out; the boar dug you up with his snout. O herb that harms the harmer — you who would harm us — burn back the maker of the sorcery.
 
 **7.1.2**  Burn back the sorcerers, burn back the maker of the sorcery. And whoever seeks to harm us — him, too, do you strike down, O herb.

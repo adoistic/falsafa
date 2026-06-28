@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 5
+chapter_title: Prapāṭhaka 5
+chapter_slug: "05-prapathaka-5"
+variant_id: "3c03932d-eecb-54ff-81f1-364d61de74a6"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2331
+translator: thothica
+---
+
 **5.1**  I praise that might of yours, O Indra, supreme among the divine — that by which you, O lord of power, smash Vṛtra with your strength.
 
 **5.2**  In whose exhilaration you subdued that Śambara for Divodāsa — this is that Soma, O Indra, pressed out for you; drink.

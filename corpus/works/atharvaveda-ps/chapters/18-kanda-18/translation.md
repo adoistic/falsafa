@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 18
+chapter_title: Kāṇḍa 18
+chapter_slug: "18-kanda-18"
+variant_id: "29dec395-00fb-546a-bb06-6545b820144c"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 22344
+translator: thothica
+---
+
 **18.1.1**  By truth the earth is upheld; by the sun the sky is upheld; by cosmic order (ṛta) the Ādityas stand firm; in heaven Soma is exalted.
 
 **18.1.2**  By Soma the Ādityas are mighty; by Soma the great earth endures; therefore Soma is placed in the lap of these constellations.

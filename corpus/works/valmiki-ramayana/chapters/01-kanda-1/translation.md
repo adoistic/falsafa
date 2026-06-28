@@ -17,6 +17,7 @@ word_count: 48126
 translator: thothica
 ---
 
+
 **1.1.1**  The ascetic Vālmīki questioned Nārada — the foremost among those devoted to austerity and sacred study, the best of the eloquent, the bull among sages.
 
 **1.1.2**  "Who in this world today is truly virtuous, and also mighty? Who knows righteousness, and is grateful, truthful in speech, and steadfast in his vows?

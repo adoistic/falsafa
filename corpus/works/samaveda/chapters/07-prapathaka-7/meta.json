@@ -1,0 +1,38 @@
+{
+  "work_slug": "samaveda",
+  "work_title": "Sāmaveda",
+  "chapter_number": 7,
+  "chapter_title": "Prapāṭhaka 7",
+  "chapter_slug": "07-prapathaka-7",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "1e1553de-0985-53ff-838a-2b4c0a1ac78c",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 655,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "35dc5153-8f3c-54cc-a420-bd3e22e4f5fa",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1466,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

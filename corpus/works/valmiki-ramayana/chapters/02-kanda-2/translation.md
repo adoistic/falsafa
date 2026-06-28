@@ -17,6 +17,7 @@ word_count: 79514
 translator: thothica
 ---
 
+
 **2.1.1**  Now, after some time had passed, king Daśaratha, that joy of the Raghu line, spoke to his son Bharata, the son of Kaikeyī.
 
 **2.1.2**  "My son, this man who is staying here is the son of the king of the Kekayas — your maternal uncle Yudhājit has come, O hero, to take you away."

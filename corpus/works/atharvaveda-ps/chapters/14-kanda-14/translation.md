@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 14
+chapter_title: Kāṇḍa 14
+chapter_slug: "14-kanda-14"
+variant_id: "3afb6d8d-a8b9-5d84-972e-f604d7228a8f"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2555
+translator: thothica
+---
+
 **14.1.1**  Indra, knowing, carried the divine waters with both arms for Varuṇa; all the Ādityas consecrated him, that fierce king, for the great battle. May those waters, the rājasūya waters, be favorable to us.
 
 **14.1.2**  [The four verses beginning with] 'Of golden hue' — [rubric indicating four verses of the Golden-Hued Waters hymn to be recited here].

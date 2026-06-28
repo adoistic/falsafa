@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 19
+chapter_title: Kāṇḍa 19
+chapter_slug: "19-kanda-19"
+variant_id: "a38b0af3-fe37-5304-a019-1625668e7fd7"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 25177
+translator: thothica
+---
+
 **19.1.1**  Sing at evening, sing the great hymn, sing it brilliantly, O Atharvan. Praise the god Savitṛ.
 
 **19.1.2**  Praise him, the one within the river, the son of truth, the youthful one — he of guileless speech, of goodly grace.

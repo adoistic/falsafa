@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 4
+chapter_title: Prapāṭhaka 4
+chapter_slug: "04-prapathaka-4"
+variant_id: "6cdc854b-ed9f-5354-8407-88fdb9299b4e"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2988
+translator: thothica
+---
+
 **4.1**  These soma draughts mixed with curds have been pressed out for Indra. Come to them, O thunderbolt-bearing one, for exhilaration and drinking — come home with your two bay horses.
 
 **4.2**  These soma juices, O Indra, bright and rich in sacred verse, have been pressed for your delight. Having drunk of the sweet, hear our hymns and give bounty to our praise, O lover of song.

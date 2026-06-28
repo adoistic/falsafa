@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 15
+chapter_title: Kāṇḍa 15
+chapter_slug: "15-kanda-15"
+variant_id: "0bd6509b-9b1a-512f-abb7-8aee2ef23cd2"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 6765
+translator: thothica
+---
+
 **15.1.1**  From all the quarters it blows together, resonant with heaven; from thence may Mādhava protect us with sweetness. May Agni the god, hard to cross, undeceivable, guard this sovereign power and protect us.
 
 **15.1.2**  May the Rathantara protect us with its sāman-chants, all-formed with the Gāyatrī metre. By the twelve-day sacrifice the praise-hymn of the days — may the ocean of speech fill this might.

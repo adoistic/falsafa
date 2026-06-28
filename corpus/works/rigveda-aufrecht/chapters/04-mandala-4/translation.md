@@ -17,6 +17,7 @@ word_count: 18011
 translator: thothica
 ---
 
+
 **4.1.1**  Thee, O Agni, the gods of one accord have ever sent as their divine messenger — by their will they sent thee forth. The immortal one established among mortals, the divine and all-knowing Ādeva — they generated thee, the all-wise Pracetas, the divine Pracetas.
 
 **4.1.2**  O Agni, bring hither thy brother Varuṇa together with the gods, by thy goodwill — him who is fond of sacrifice, the eldest, who delights in sacrifice. Bring the truth-bearing Āditya, upholder of peoples, the king who upholds the tribes.

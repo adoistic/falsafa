@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 1
+chapter_title: Kāṇḍa 1
+chapter_slug: "01-kanda-1"
+variant_id: "bbc96748-5004-5cf1-a1d9-26a8d60fb094"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 14532
+translator: thothica
+---
+
 **1.1.1**  May the divine Waters be auspicious to us for our succour, auspicious for us to drink; may they flow about us bringing well-being and ease.
 
 **1.1.2**  O Waters, fill me full of healing medicine, a shelter for my body; and may I long behold the sun.

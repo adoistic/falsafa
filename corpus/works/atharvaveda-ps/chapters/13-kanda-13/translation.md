@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 13
+chapter_title: Kāṇḍa 13
+chapter_slug: "13-kanda-13"
+variant_id: "a7b7205b-cada-5c23-a8f8-6abb74339a03"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 1991
+translator: thothica
+---
+
 **13.1.1**  Concealed for me is the vast mid-air; concealed for me are the mountains and the fires. Let not this sorcery of theirs succeed — I strike them back with the pratisara amulet.
 
 **13.1.2**  Tapas and toil I place as a double concealment around me; I set the brahma-sacrifice as a concealment within me. […]

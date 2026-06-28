@@ -1,0 +1,38 @@
+{
+  "work_slug": "atharvaveda-ps",
+  "work_title": "Atharvaveda (Paippalāda)",
+  "chapter_number": 13,
+  "chapter_title": "Kāṇḍa 13",
+  "chapter_slug": "13-kanda-13",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "d9a5ee8f-d0e3-5dce-bde1-12487ab98d09",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1188,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a7b7205b-cada-5c23-a8f8-6abb74339a03",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1991,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

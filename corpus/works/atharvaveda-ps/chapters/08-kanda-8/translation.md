@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 8
+chapter_title: Kāṇḍa 8
+chapter_slug: "08-kanda-8"
+variant_id: "34f36e5d-df4a-511c-a6dc-111302554bd0"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 6319
+translator: thothica
+---
+
 **8.1.1**  How shall we speak to the Asura of heaven, how to the tawny Father of fierce might? O Varuṇa, having given the dappled cow as the southern fee, O Punarmagha, thou hast deemed it good in thy mind.
 
 **8.1.2**  Not by desire alone do I become Punarmagha, having consulted whom I brought near this dappled cow. By what wisdom art thou greater than I, O Atharvan? By what birth art thou Jātavedas?

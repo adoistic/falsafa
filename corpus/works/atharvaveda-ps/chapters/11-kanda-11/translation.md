@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 11
+chapter_title: Kāṇḍa 11
+chapter_slug: "11-kanda-11"
+variant_id: "8367c1c5-00df-5474-b812-db5b3650af1b"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 4783
+translator: thothica
+---
+
 **11.1.1**  I, the potent one, place an embryo in your womb for one who craves a bull-like male offspring; if, sustained by the gods, you do not obtain progeny nor a child.
 
 **11.1.2**  May Dhātṛ grant you that; may Sinīvālī, may Varuṇānī bestow it; may Indrāṇī place in you a male son, one who bestows a hundredfold.

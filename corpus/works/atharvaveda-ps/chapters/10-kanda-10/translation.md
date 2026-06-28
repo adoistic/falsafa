@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 10
+chapter_title: Kāṇḍa 10
+chapter_slug: "10-kanda-10"
+variant_id: "25161095-89d0-5df9-9106-5956a196e73d"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 4498
+translator: thothica
+---
+
 **10.1.1**  Alas, O mother, O sharpening-stone, O cow with hanging udder — you do not know what you desire; and what is wealth, that you do not consume.
 
 **10.1.2**  The son who is yours, the spotted-armed one — him do thou render propitious; and also the granddaughter, the daughter's daughter; and do thou thyself become propitious.

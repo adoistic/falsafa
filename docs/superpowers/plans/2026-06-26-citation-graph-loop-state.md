@@ -13,10 +13,25 @@ AND recurring figures point to FOUNDING TEXTS we should acquire. So extraction i
   (2) FIGURES    → corpus/graph/figures/v1/<slug>.json
       each = {work_slug, canonical_name, surface_names[], figure_kind: mythological|deity|historical,
               mentions:[{paragraph_id, quote, role}], portrayal, founding_texts:[...]}
-FIGURE FILES DONE (9, 402 raw figures): ovid-ars-amatoria (131), seneca-medea (60),
-  hesiod-works-and-days (43), unknown-parasara-smrti (38), seneca-phaedra (33), seneca-oedipus (32),
-  homeric-hymn-to-aphrodite (24), plautus-poenulus (22), homeric-hymn-to-demeter (19).
-  hesiod-theogony: STILL MISSING (background worker ab229d6c never notified — re-dispatch it; keystone).
+FIGURE FILES DONE (20, 743 raw figures): +aristophanes-frogs (34) / clouds (23) [Socrates + tragedians +
+  Athenian politicians — the intellectual-reception dimension]. +INDIC manu (42), yajnavalkya (40), abhinavagupta-paramarthasara
+  (12); +Trojan/Pelopid seneca-agamemnon (36), seneca-thyestes (33), seneca-troades (20); + euripides-medea
+  (27), euripides-bacchae (21), seneca-hercules-furens (52), ovid (131), seneca-medea (60), hesiod-w&d (43),
+  parasara (38), seneca-phaedra (33), seneca-oedipus (32), hymn-aphrodite (24), plautus (22), hymn-demeter (19).
+  INDIC cross-work cluster CONFIRMED: Manu/Brahmā/Indra/Agni/Varuṇa/Atri each across 3 smṛtis (mirrors Zeus).
+  ACQUISITION now screams Indic: Mahābhārata ←54 figures, Ṛgveda ←53, Śatapatha Brāhmaṇa 10, + Purāṇas/
+  Upaniṣads → the archive's clearest acquisition signal = the Vedic/epic/Purāṇic corpus.
+  KEY FIND: we HOLD Plato (apology/symposium/republic/timaeus/protagoras) + Xenophon (memorabilia) →
+  Socrates' founding texts resolve IN-CORPUS → a "Socrates across the corpus" page (Aristophanes' hostile
+  caricature: Clouds 17 mentions / Frogs, vs the philosophers' portrait) is achievable just by extracting them.
+  hesiod-theogony CONFIRMED-FAILS both attempts (32k output ceiling — needs chunked writes / part files).
+  POLISH: founding-text normalizer should dedup "Atharva Veda"≈"Atharvaveda" and strip leading "the".
+  hesiod-theogony: ROOT CAUSE FOUND — workers FAIL with "response exceeded 32000 output token maximum"
+  (Theogony is figure-dense → the single JSON array of all figures+mentions is too big to Write in one
+  response). FIX: split by chapter-group into part files, OR have the worker append across MULTIPLE Writes
+  (write the first N figures, then Edit-append the rest). Same ceiling will hit any figure-DENSE big work
+  (Ovid Metamorphoses, Homer Iliad/Odyssey, Apollodorus Library). NOT blocking: "Hesiod, Theogony" already
+  resolves in-corpus via the manifest (←72 figures point to it as a target).
 KEY INSIGHT — founding texts mostly resolve IN-CORPUS: we hold Homer (Iliad/Odyssey/Hymns), Hesiod
   (Theogony/W&D), ALL Seneca tragedies (his own Medea/Phaedra/Oedipus/Hercules), Ovid's complete works
   (Metamorphoses), Virgil, Apuleius. So the figure layer draws mostly INTERNAL founding-text links (the
@@ -29,20 +44,28 @@ DONE (figure layer) — aggregator BUILT + TDD'd (11 tests pass), committed:
   scripts/graph/theonyms.ts (Greek/Roman merge table), figures.ts (canonicalFigureId/mergeFigures/
   normalizeFoundingText/resolveFoundingText/buildFoundingTextList), figures-run.ts (writes
   corpus/graph/{figure-index.json, figures.md, founding-texts.md}). resolve-references.ts now exports contains().
-  RESULTS (9 works): 301 distinct figures, 56 cross-work — Zeus 8 works/56 mentions (merges Jupiter+Zeus),
-  Aphrodite 5 works (merges Venus/Cytherea), Hades (Pluto/Dis/Orcus), Ares (Mars/Gradivus), Athena (Minerva/Pallas).
-  Founding texts: 267 total → 217 resolve IN-CORPUS (Hesiod Theogony←72 figures, Hesiod W&D←48, Homer Iliad←32,
+  RESULTS (20 works): 468 distinct figures, 132 cross-work; 340 founding texts → 275 in-corpus, 65 absent.
+  TOP cross-work ("X across the corpus" payoff):
+  Zeus 14 works/103 mentions (merges Jupiter+Zeus), Apollo 9w, Dionysus/Athena/Ares 8w, Aphrodite(Venus)/
+  Heracles(Hercules)/Hera(Juno) 7w, Tantalus/Poseidon 6w, Medea/Agamemnon/Oedipus/Helen 4w.
+  Founding texts: 296 total → 244 resolve IN-CORPUS (Hesiod Theogony←72 figures, Hesiod W&D←48, Homer Iliad←32,
   Ovid Metamorphoses←20, + Euripides Medea/Bacchae/Hippolytus, Apollodorus, Pindar, Sophocles, Virgil — the
-  corpus is a DEEP classical library); 50 ABSENT→acquire, ranked: Mahābhārata 23, Ṛgveda 20, Sophocles
+  corpus is a DEEP classical library); 52 ABSENT→acquire, ranked: Mahābhārata 23, Ṛgveda 20, Sophocles
   Oedipus Rex 11, Śatapatha Brāhmaṇa / Atharva Veda 8, + Purāṇic/Vedic/smṛti texts (Indic gaps dominate).
   Resolver verifies AUTHOR (Euripides-Medea ≠ Seneca-Medea we hold), routes "Homeric Hymn to X" to the held
   hymn work, tolerates author name-variants (Apollonius of Rhodes ≡ Rhodius), suppresses generic-title noise.
-NEXT (figure layer):
-  (a) re-dispatch hesiod-theogony figures (keystone, still missing — worker ab229d6c).
-  (b) keep grinding more works through BOTH layers — esp. the HELD founding texts (Homer Iliad/Odyssey,
-      Ovid Metamorphoses, Virgil Aeneid, more Seneca/Euripides tragedies) so cross-work figure pages deepen.
-  (c) polish later: collapse book-number variants ("Ovid, Metamorphoses VIII" → the work); minor.
-  (d) citation layer still at ~18 works — resume dual citation+figure grind on prose works.
+NEXT (figure layer) — NIGHT PUSH CONVERGED at 20 works (2026-06-27 ~04:20 IST). Figure layer proven across
+  3 dimensions: Greco-Roman myth, Indic dharma/Śaiva, Greek intellectual/comedy. Prioritized queue for the
+  2:15am cron / Adnan:
+  (a) SOCRATES-RECEPTION demo (high value, self-contained) — extract figures from the HELD Plato + Xenophon
+      works → "Socrates across the corpus": Aristophanes' hostile caricature vs the philosophers' portrait.
+  (b) ACT ON ACQUISITION SIGNAL (Adnan's call) — pull in the Mahābhārata + Ṛgveda (loudest gaps, ←54/←53).
+  (c) CHUNKED-WRITE fix for figure-DENSE works (Hesiod Theogony, Ovid Metamorphoses, Homer) — split by
+      chapter into part files to clear the 32k subagent output ceiling.
+  (d) resume the CITATION layer on prose works (still ~18) for broad archive coverage (dual citation+figure).
+  (e) polish: dedup founding-text variants ("Atharva Veda"≈"Atharvaveda", strip leading "the"); collapse
+      book-number variants ("Ovid, Metamorphoses VIII" → the work). Also normalize non-enum figure_kind
+      ("dramatic"/"allegorical" from the Aristophanes workers → historical/mythological).
 OPS: 5-hour usage limit resets 2:00am IST. Session cron 8723d66e fires ~2:15am daily to resume
   (reads THIS file first). It is session-only — relies on the Claude process staying alive; if it
   dies, re-arm a cron or run an OS-level launchd job off this file.

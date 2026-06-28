@@ -17,6 +17,7 @@ word_count: 28158
 translator: thothica
 ---
 
+
 **9.1.1**  Flow, O Soma, with thy sweetest, most exhilarating stream; thou art pressed out for Indra to drink.
 
 **9.1.2**  The slayer of Rākṣasas, beholder of all beings, settles upon the iron-firm birthplace, taking his seat in the wooden vessel.

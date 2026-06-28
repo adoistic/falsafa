@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 2
+chapter_title: Kāṇḍa 2
+chapter_slug: "02-kanda-2"
+variant_id: "cca0d4f0-7e33-591e-8963-a8a1e31cada8"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 13769
+translator: thothica
+---
+
 **2.1.1**  Powerless is the poison from the east, powerless what comes from the north; and this here from below is dissolved by the grain-gruel karamba.
 
 **2.1.2**  Having placed the karamba grain-gruel crosswise — full-fatted and excellently conveyed — hunger, they say, has devoured you, O malicious one; let it not wound.

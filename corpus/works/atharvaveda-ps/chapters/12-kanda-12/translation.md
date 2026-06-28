@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 12
+chapter_title: Kāṇḍa 12
+chapter_slug: "12-kanda-12"
+variant_id: "c2af84e7-23a1-5935-ad98-92b5706f2306"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 6138
+translator: thothica
+---
+
 **12.1.1**  May Agni drive the fever away from here; may Soma, the pressing-stones, and the Maruts of pure might — may the vedi, the barhis, and the blazing kindling-sticks blow the demons away by that same power.
 
 **12.1.2**  This one — the Ruru who burns with scorching heat, who renders all forms yellow-green — to him, to you, O Takman, the tawny, the reddish-brown, the fervid, the mighty: homage be!

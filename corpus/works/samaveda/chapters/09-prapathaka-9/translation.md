@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 9
+chapter_title: Prapāṭhaka 9
+chapter_slug: "09-prapathaka-9"
+variant_id: "49453362-4bbb-58f9-a1d6-637e6fb6cfa9"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2295
+translator: thothica
+---
+
 **9.1**  Flow forth, O rain-giver; bring us the wave of the waters from heaven. May the abundant nourishments be free of disease.
 
 **9.2**  Flow forth with that stream by which the cattle have come hither, and the people to our home.

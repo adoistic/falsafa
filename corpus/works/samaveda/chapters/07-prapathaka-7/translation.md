@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 7
+chapter_title: Prapāṭhaka 7
+chapter_slug: "07-prapathaka-7"
+variant_id: "35dc5153-8f3c-54cc-a420-bd3e22e4f5fa"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 1466
+translator: thothica
+---
+
 **7.1**  O Indra, bring to us the foremost, most powerful glory. When we would hold firm both heaven and earth, O wielder of the thunderbolt, O fair-cheeked one, you have filled them both.
 
 **7.2**  Indra is king of the world, of all peoples — whatever of all forms is his pervades the earth. From that wealth he gives to the worshipper; he who urges on, though praised, comes forward.

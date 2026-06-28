@@ -1,0 +1,38 @@
+{
+  "work_slug": "atharvaveda-ps",
+  "work_title": "Atharvaveda (Paippalāda)",
+  "chapter_number": 15,
+  "chapter_title": "Kāṇḍa 15",
+  "chapter_slug": "15-kanda-15",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "bb7c0072-c1b3-5b9b-9544-5dad3ff41c98",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 3848,
+      "paragraph_count": 224,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0bd6509b-9b1a-512f-abb7-8aee2ef23cd2",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 6765,
+      "paragraph_count": 224,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

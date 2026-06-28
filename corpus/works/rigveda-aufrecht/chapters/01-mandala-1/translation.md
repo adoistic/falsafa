@@ -17,6 +17,7 @@ word_count: 62533
 translator: thothica
 ---
 
+
 **1.1.1**  Agni I laud, the divine household-priest of the sacrifice, the seasonal officiant, the Hotṛ, the most generous bestower of treasures.
 
 **1.1.2**  Agni, lauded by the ancient seers and by those of today — may he convey the gods hither.

@@ -1,0 +1,794 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 12
+chapter_title: Kāṇḍa 12
+chapter_slug: "12-kanda-12"
+variant_id: "b67b68ad-667c-546f-8ffe-862bb0c830fa"
+content_type: transliteration
+layout: verse
+language: Sanskrit
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 3565
+transliterator: thothica
+---
+
+**12.1.1**
+
+agnis takmānam apa bādhatām itaḥ somo grāvā marutaḥ pūtadakṣāḥ | vedir barhiḥ samidhaḥ śośucānā apa rakṣāṃsy amuyā dhamantu ||
+
+**12.1.2**
+
+ayaṃ yo ruro abhiśocayiṣṇur viśvā rūpāṇi haritā kṛṇoti | tasmai te 'ruṇāya babhrave tapur maghāya namo 'stu takmane ||
+
+**12.1.3**
+
+takman sārthinam icchasva vaśī san mṛḍayāsi naḥ | athehi yatra te gṛhā aninūrtteṣu dasyuṣu ||
+
+**12.1.4**
+
+yaḥ puruṣaḥ pāruṣeyo 'vadhvaṃsa ivāruṇaḥ | takmānaṃ viśvadhāvīrya- -adharāñcaṃ parā suva ||
+
+**12.1.5**
+
+adharāñcaṃ pra hiṇomi manas kṛtvā takmane | śakambharasya muṣṭihā punar gaccha mahāvṛṣān ||
+
+**12.1.6**
+
+mahāvṛṣān mūjavata oka edhi paretya | vratāni takmane brūmo anyakṣetrāṇi vā imāḥ ||
+
+**12.1.7**
+
+oko asya mūjavanta oko asya mahāvṛṣāḥ | yāj jātas takmaṃ tād asi balihikeṣu nyocaraḥ ||
+
+**12.1.8**
+
+takman vyāla vigada vyaṅga bhūri yāvaya | dāsīṃ niṣṭakvarīm iccha tāṃ vajreṇa sam arpaya ||
+
+**12.1.9**
+
+giriṃ gaccha girijāsi girau te māhiṣo gṛhaḥ | dāsīm iccha prapharvyaṃ tāṃ takman vīva dhūnuhi ||
+
+**12.1.10**
+
+yas tvaṃ śīto atho rūraḥ saha kāsāvīviyaḥ | bhimās te takman hetayas tābhi sma pari vṛṅdhi naḥ ||
+
+**12.2.1**
+
+takman bhrātrā balāsena svasrā kāsikayā saha | pāmnā bhrātṛvyeṇa naśyeto maraṭāṅ abhi ||
+
+**12.2.2**
+
+gandhāribhyo mūjavadbhyaḥ kāśibhyo magadhebhyaḥ | jane priyam iva śevadhiṃ takmānaṃ pari dadhmasi ||
+
+**12.2.3**
+
+nārkavindān nārvidālān nānnadīṃ vartakāvatīm | vratāni takmane brūmo anyakṣetrāṇi vā imāḥ ||
+
+**12.2.4**
+
+anyakṣetre na ramate sahasrākṣo amartyaḥ | abhūd u prārthas takmā sa gamiṣyati balihikām ||
+
+**12.2.5**
+
+ado gaccha mūjavatas tato vā gha parastaram | mā smāto abhyair naḥ punas tat tvā takmann upa bruve ||
+
+**12.2.6**
+
+parasmaiva tvaṃ cara paramasyāṃ parāvati | yathā no nāntam āyasi yathā no nābhiśocayā ||
+
+**12.3.1**
+
+yatheyam urvī pṛthivī vṛddhaiva garbham ādadhe | evā dadhāmi te garbhaṃ tasmai tvām avase huve ||
+
+**12.3.2**
+
+parvatād divo yoner gātrād gātrāt samāśṛtam | reto devasya devasya tsarau parṇam ivā dhām ||
+
+**12.3.3**
+
+viṣṇur yoniṃ kalpayatu tvaṣṭā rupāṇi piṃśatu | ā siñcatu prajāpatir dhātā garbhaṃ dadhātu te ||
+
+**12.3.4**
+
+garbhaṃ dhehi sinīvāli garbhaṃ dhehi sarasvati | garbhaṃ yuvam aśvināsyāmā dhattaṃ puṣkarasrajā ||
+
+**12.3.5**
+
+garbhaṃ te rājā varuṇo garbhaṃ devo bṛhaspatiḥ | garbhaṃ ta indraś cāgniś ca garbhaṃ dhātā dadhātu te ||
+
+**12.3.6**
+
+garbho asy oṣadhīnāṃ garbho vanaspatīnām | garbho viśvasya bhūtasya so agne garbham eha dhāḥ ||
+
+**12.3.7**
+
+yenauṣadhayo garbhinīḥ paśavo yena garbhinaḥ | teṣāṃ garbhasya yo garbhas tena tvaṃ garbhiṇī bhava ||
+
+**12.3.8**
+
+vi te granthiṃ cṛtāmasi dhātā garbhaṃ dadhātu te | ā yoniṃ putro rohatu jananaṃ prati jāyatām ||
+
+**12.3.9**
+
+janiṣṭa hi mahiyā ā yoniṃ sam ihāsarat | athā soma iva bhakṣaṇam ā garbhaḥ sīdatv ṛtviyam ||
+
+**12.3.10**
+
+dhātaḥ śreṣṭhena rūpeṇa- -asyā nāryā gavīnyoḥ | pumāṃsaṃ putram ā dhehi daśame māsi sūtave ||
+
+**12.4.4**
+
+bhagaḥ śreṣṭhena rūpeṇa- -asyā nāryā gavīnyoḥ | pumāṃsaṃ putram ā dhehi daśame māsi sūtave ||
+
+**12.4.5**
+
+adhi skanda vīrayasva garbham ā dhehi yonyām | vṛṣāṇaṃ vṛṣṇyāvantaṃ prajāyai tvā nayāmasi ||
+
+**12.4.6**
+
+yad veda rājā varuṇo veda devo bṛhaspatiḥ | indro yad vṛtrahā veda taṃ garbhakaraṇaṃ piba ||
+
+**12.4.7**
+
+vi jihīṣva bārhatsāme garbhas te yonim ā śayām | dadan te putraṃ devāḥ somapām ubhayāvinam ||
+
+**12.4.8**
+
+somasya tva rtviyena- -upaimi garbhakṛtvane | tatas te putro jāyatāṃ kartavai vīryebhyaḥ ||
+
+**12.5.1**
+
+jāyasvāgne 'śvatthād asmai kṣatrāyaujase | ugra āpatikād adhi yo vṛkṣām̐ adhirohati ||
+
+**12.5.2**
+
+vibādhaṃ cit sahamānaṃ tvām agne janayāmasi | jātāṃ janiṣyamāṇāṃ sapatnān pra ṇudasva me ||
+
+**12.5.3**
+
+aśvatthasyārohasya vṛkṣasyāraṇayeḥ kṛtāḥ | tato jātāya te 'jani vīḍujambhāgnir agnaye ||
+
+**12.5.4**
+
+taṃ jātaṃ jātavedasam ā dadhāmy amartyam | pāvakam agnim ūtaye śucimantaṃ viṣāsahim ||
+
+**12.5.5**
+
+ut tanuṣva dhanuḥ prati muñcasva varma jahi śatrūn vīryā te kṛṇomi | atra radhyantu ya u te sapatnās tvam ekavṛṣo bhava ||
+
+**12.5.6**
+
+vṛṣabhaṃ tvā sajātānāṃ sapatnānāṃ viṣāsahim | hantāraṃ śatrūṇāṃ kṛṇmo virājaṃ gopatiṃ gavām ||
+
+**12.5.7**
+
+samudro 'sy apāṃ jyeṣṭha indro deveṣu vṛtrahā | vyāghraṃ siṃhaṃ tvā kṛṇmo damitāraṃ pṛtanyatām ||
+
+**12.5.8**
+
+indra iva dasyūn adharān kṛṇuṣva- -ugra iva vāto viśṛṇan sapatnān | te śuṣyantv apa dāvād iva- -agneḥ paryavīvarathā enān ||
+
+**12.5.9**
+
+saṃ vṛścaināṃs te śuṣyantu vṛścainān mopajāṃ śiṣaḥ | sapatnān sarvāṃs tṛḍhvā tvam ekavṛṣo bhava ||
+
+**12.5.10**
+
+tvam ugras tvaṃ balī tvam edhi vivācanam | tvaṃ pṛtanyataḥ pūrvaḥ sapatnām̐ ava dūnuṣva ||
+
+**12.6.1**
+
+asapatnaḥ sapatnahā- -indra ivāriṣṭo akṣitaḥ | adhaḥ sapatnās te padoḥ sarve santv abhiṣṭhitāḥ ||
+
+**12.6.2**
+
+mlāyantu te khātamūlāḥ sapatnā agnim eṣāṃ nir hvayāmi śarīrāt | haviṣaiṣām api dadhāmi prāṇāṃs tathaibhyo amuciḥ kṛtāḥ ||
+
+**12.6.3**
+
+abhivardham abhibhavaṃ sapatnakṣayaṇaṃ haviḥ | rāṣṭrāya tubhyaṃ kṛṇmaḥ sapatnebhyaḥ parābhavan ||
+
+**12.6.4**
+
+yo naḥ svo yo araṇo 'rātiyati pūruṣaḥ | idhmasyeva prakṣāyakas tasya moccheṣi kiṃ cana ||
+
+**12.6.5**
+
+asapatnam iti dve ||
+
+**12.7.1**
+
+tvayā pūrvam ātharvāṇo jaghnū rakṣāṃsy oṣadhe | tvayā jaghāna kaśyapas tvayā kṛṇvo agastyaḥ ||
+
+**12.7.2**
+
+tvayā vayam apsaraso gandharvāṃś cātayāmasi | ajaśṛṅgy aja rakṣaḥ sarvān gandhena nāśaya ||
+
+**12.7.3**
+
+nadīṃ yantv apsaraso apāntāram iva śvasan | gulgulū pīlā nalady aukṣagandhiḥ pramandinī ||
+
+**12.7.4**
+
+yatrāmartyā apsv antaḥ samudre turūr nīlī turvaśī puṇḍarīkā | tat paretā apsarasaḥ pratibuddhā abhūtana ||
+
+**12.7.5**
+
+yatra preṅkho gandharvāṇāṃ divi baddho hiraṇyayaḥ | (…) ||
+
+**12.7.6**
+
+gandharvāṇām apsarasām ānartam iti saṅgamam | (…) ||
+
+**12.7.7**
+
+yatrāśvatthā nyagrodhā mahārukmāḥ śikhaṇḍinaḥ | (…) ||
+
+**12.7.8**
+
+yatra vo 'kṣā haritā arjunā āghāṭāḥ kakaryaḥ saṃvadanti | tat paretā apsarasaḥ pratibuddhā abhūtana ||
+
+**12.7.9**
+
+iyaṃ vīrucchikhaṇḍino gandharvasyāpsarāpateḥ | bhinattu muṣkāv api yātu śephaḥ ||
+
+**12.7.10**
+
+eyam agann oṣadhir vīrudhāṃ vīryāvatī | ajaśṛṅgy arāṭakī tīkṣṇaśṛṅgī vy ṛṣatu ||
+
+**12.8.1**
+
+apeteto apsaraso gandharvā yatra vo gṛhāḥ | tīkṣṇaśṛṅgy arāṭaky ajaśṛṅgī vy ṛṣatu ||
+
+**12.8.2**
+
+jāyā veda vo apsaraso gandharvāḥ patayo yūyam | apa krāmat puruṣād amartyā martyaṃ mā sacadhvam ||
+
+**12.8.3**
+
+bhīmā indrasya hetayaḥ śatamṛṣṭīr ayasmai | tābhir gandharvān abhaidyān avakādān vy ṛṣatu ||
+
+**12.8.4**
+
+avakādām̐ abhiśoco bhitsu dyotayamāmakān | gandharvān sarvān oṣadhe pra ṇudasva parā ṇaya ||
+
+**12.8.5**
+
+unmādayantīr abhiśocayantīr muniṃ nagnaṃ kṛṇvatīr moghahāsinam | apsaraso raghaṭo yāś caranti gandharvapatnīr ajaśṛṅgy āśaye ||
+
+**12.8.6**
+
+śvetīkṛṇvānaḥ puruṣaṃ viśvā rūpāṇi bobhuvat | śvevaikaṃ kapir ivaikaṃ kumāraḥ sarvakeśakaḥ | priyo dṛśe bhūtvā gandharvaḥ sacate striyaṃ tam ito nāśayāmasi ||
+
+**12.9.1**
+
+yo vai vaśāṃ devayate pacate vāhutāmamā | mṛtyoḥ sa badhyate pāśe devānāṃ ca yamasya ca ||
+
+**12.9.2**
+
+dakṣiṇāṃ sūryām aditiṃ vadanti vaśāṃ vācaṃ kalpayantaḥ samānīm | sapta ṛṣayo ni dadhur vācam etāṃ sarasvatī mṛḍayā kalpayantaḥ ||
+
+**12.9.3**
+
+imāṃ vaśāṃ vācam āhur vaśeti tisro vaśā atihitāḥ sadhasthe | tāsām agnau manasaikāṃ juhomi tāṃ naḥ svādvīṃ bhūtapatiḥ kṛṇotu ||
+
+**12.9.4**
+
+svadvīṃ na etāṃ savitā kṛṇotu svadvīṃ na etāṃ janitā paśūnām | juhudhy agne vayunāni vidvāṃs tāṃ naḥ svādvīṃ bhūtapatiḥ kṛṇotu ||
+
+**12.9.5**
+
+idaṃ tṛtīyaṃ vaśinī vaśāśi mahimne tvā garbho abhy ā viveśa | uśatī tvam uśato gaccha devān satyāḥ santu yajamānasya kāmāḥ ||
+
+**12.9.6**
+
+iyam ambhasā vājasutastabhe gaur yasyām indro varuṇas titviṣāte | nṛmṇam anṛmṇaṃ sacata iyam āgan dhīraḥ paśur vīryam ā viveśa ||
+
+**12.9.7**
+
+vaśā sasūva sthaviraṃ vipaścitaṃ vaśā sasūva vaṣkayaṃ divispṛśan | vaśā sasūva taruṇaṃ vibhājane vaśā sasūva saṃjitaṃ dhanānām ||
+
+**12.9.8**
+
+yat prokṣaṇam apatad barhiṣas pari dakṣiṇato vedyā indriyāvat | vaśā saṃbhūtyādhi gaur amīmet tasyāḥ pīvo abhavad varmavāsasam ||
+
+**12.9.9**
+
+namo mahimna uta cakṣuṣe vāṃ vaśarṣabho manasā tat kṛṇomi | devām̐ apītaṃ pathibhiḥ śivebhir mā no hiṃsiṣṭaṃ harasā daivyena ||
+
+**12.9.10**
+
+vaśām askandad ṛṣabhas tiṣṭhantīm adhi tantuṣu | garbhaṃ tam adya ko veda yatidhā so akalpayat ||
+
+**12.10.1**
+
+rūpam ekaḥ pary abhavad rājā nāmaika ucyate | patīrūpasyaiko rūpaṃ rūpam ekaḥ sukṛtvanām ||
+
+**12.10.2**
+
+prajāpatiḥ parameṣṭhī mṛtyur viśvānaraḥ svaḥ | sarasvānasyā yajñasya vaśāyā adhi jajñire ||
+
+**12.10.3**
+
+yasya gṛha ādāyeta vaśā devakṛtaṃ haviḥ | nidhānam asyā eṣyaṃ duhitre patyām iva ||
+
+**12.10.4**
+
+nāsyāḥ sakṛd abhi tiṣṭhen nāsya śloṇā gṛhe syāt | vaśā kanyeva durmaṅkā- -apacityā vijānatā ||
+
+**12.10.5**
+
+naināṃ rakṣed brāhmaṇebhyo nāmā vi glāpayāti ca | yatīṃ na pratyāvartayed yasya goṣu vaśā syāt ||
+
+**12.10.6**
+
+nāsyā vaśām ā rundhed devā manuṣyā uta | vaśaṃ yad anvaid brahmaṇā tasmād eṣābhavad vaśā ||
+
+**12.10.7**
+
+vaśaṃ kṛṇvānā vaśinīyam āgan padaṃ kalyāṇy avapaśyamānā | aniṣṭyeṣṭim abhijāyamānā yajñasya mātrām abhikalpamānā ||
+
+**12.10.8**
+
+indravantas te marutas turīyaṃ bhejire vaśe | turīyam ādityā rudrās turīyaṃ vasavo vaśe ||
+
+**12.10.9**
+
+turīya bhāja ādityān vaśāyāḥ kavayo viduḥ | athāsyāḥ pathyaikā tanuś catasraś cakl̥pe diśaḥ ||
+
+**12.10.10**
+
+vaśā panthām anv apaśyan nākapṛṣṭhaṃ svarvidām | ādityā enām anv āyann ṛṣayaś ca tapasvinaḥ ||
+
+**12.11.1**
+
+padepade kalpayanta ādityāṅgiraso yajuḥ | īḍānā anv āyan vaśān tadaiḍaṃ sāmocyate ||
+
+**12.11.2**
+
+vaśeḍā vaśānumatir vaśām āhuḥ sarasvatīm | virājaṃ manyante vaśāṃ vāg vaśā pṛthivī vaśā ||
+
+**12.11.3**
+
+vaśā deṣṭrī sinīvālī vaśoṣā nirṛtir vaśā | vaśāyāṃ mṛtyum aviśad ā mṛtyum aviśad vaśā ||
+
+**12.11.4**
+
+agnir vāg udakaṃ cakṣur mano vāto vaśī vaśā | tanvaṃ ko asyās taṃ veda yayodakrāmad ekayā ||
+
+**12.11.5**
+
+yāṃ cakṣuṣā manasā saṃvidānā hṛdā paśyanti kavayo manīṣinaḥ | tasyāḥ prajādhipatiḥ paśūnāṃ vaśā rājñā nāṃtaveṣā sṛṣṭiḥ ||
+
+**12.11.6**
+
+ko vaśāyā ūdho veda ka ulbaṃ ca jarāyu ca | stanān asyāḥ ko veda ka i tad veda yad duhe ||
+
+**12.11.7**
+
+aham asyā ūdho veda- -aham ulbaṃ ca jarāyu ca | stanān asyā ahaṃ veda- -atho tad veda yad duhe ||
+
+**12.11.8**
+
+nainām̐ ahaṃ rakṣeyaṃ dadyām eva syāc ca me | stanā hy asyā ahaṃ veda kṣīram ulbaṃ ca jarāyu ca ||
+
+**12.11.9**
+
+kṛttir yonir adhivāso jarāyu pāṇḍam ulbaṃ nābhir uṣṇīṣam asyāḥ | ā jarasaṃ dhayatu mātaraṃ vaśī brahmabhiḥ kl̥ptaḥ sa hy asya bandhuḥ ||
+
+**12.12.1**
+
+indrasya nu vīryāṇi pra vocaṃ yāni cakāra prathamāni vajrī | ahann ahim anv apas tatarda pra vakṣaṇā abhinat parvatānām ||
+
+**12.12.2**
+
+ahann ahiṃ parvate śiśriyāṇaṃ tvaṣṭāsmai vajraṃ svaryaṃ tatakṣa | vāśrā iva dhenavaḥ syandamānā añjaḥ samudram ava jagmur āpaḥ ||
+
+**12.12.3**
+
+vṛṣāyamāṇo 'vṛṇīta somaṃ trikadrukeṣv apibat sutasya | ā sāyakaṃ maghavādatta vajram ahann enaṃ prathamajām ahīnam ||
+
+**12.12.4**
+
+yad indrāhan prathamajām ahīnām ān māyinām amināḥ prota māyāḥ | āt sūryaṃ janayan dyām uṣāsaṃ tādītnā śatruṃ na kilā vivitse ||
+
+**12.12.5**
+
+ahan vṛtraṃ vṛtrataraṃ vyaṃsam indro vajreṇa mahatā vadhena | skadhāṃsīva kuliśenā vivṛkṇā- -ahiḥ śayad upapṛk pṛthivyāḥ ||
+
+**12.12.6**
+
+ayoddheva durmada ā hi juhve mahāvīraṃ tu vibādham ṛjīṣam | nātārīd asya samṛtiṃ vadhānāṃ saṃ rujānāḥ pipiṣa indraśatruḥ ||
+
+**12.12.7**
+
+apād ahasto apṛtanyad indram āsya vajram adhi sānau jaghāna | vṛṣṇo vadhriḥ pratimānaṃ babhūṣan purutrā vṛtro aśayad vyastaḥ ||
+
+**12.12.8**
+
+nadaṃ na bhinnam amuyā śayānaṃ mano ruhāṇā ati yanty āpaḥ | yāś cid vṛtro mahinā paryatiṣṭhat tāsām ahiḥ patsutaḥśīr babhūva ||
+
+**12.12.9**
+
+nicāvayā abhavad vṛtraputra- -indro asyā ava vadhar jabhāra | uttarā sūr adharaḥ putra āsīd dānuḥ śaye sahavatsā na dhenuḥ ||
+
+**12.12.10**
+
+atiṣṭhantīnām aniveśanānāṃ kāṣṭhānāṃ madhye nihitaṃ śarīram | vṛkasya niṇyaṃ vi caranty āpo dīrghaṃ tama āśayad indraśatruḥ ||
+
+**12.13.1**
+
+dāsapatnīr ahigopā atiṣṭhan niruddhā āpaḥ paṇineva gāvaḥ | apāṃ bilam apihitaṃ yad āsīd vṛtraṃ jaghanvām̐ apa tad vavāra ||
+
+**12.13.2**
+
+aśvyo vāro abhavas tad indra sṛke yat tvā pratyahan deva ekaḥ | ajayo gā ajayaḥ śūra somam avāsṛjaḥ sartave sapta sindhūn ||
+
+**12.13.3**
+
+nāsmai vidyun na tanyatuḥ śiṣedha na yāmyaham akirad dhrāduniṃ ca indraś ca yad yuyudhāte ahiś ca- -utāparībhyo maghavā vi jigye ||
+
+**12.13.4**
+
+aher yātāraṃ kam apaśya indra hṛdi yat te jaghnuṣo bhīr agacchat | nava ca yan navatiṃ ca sravantīḥ śyeno na bhīto ataro rajāṃsi ||
+
+**12.13.5**
+
+indro yāto 'vasitasya rājā śamasya ca śṛṅgiṇo vajrabāhuḥ | sed u rājā kṣayati carṣaṇīṇām arān na nemiḥ pari tā babhūva ||
+
+**12.14.1**
+
+yo jāta eva prathamo manasvān devo devān kratunā paryabhūṣat | yasya śuṣmād rodasī abhyasetāṃ nṛmṇasya mahnā sa janāsa indraḥ ||
+
+**12.14.2**
+
+yaḥ pṛthivīṃ vyadhamānām adṛṃhad yaḥ parvatān prakupitām̐ aramṇāt | yo antarikṣaṃ vimame varīyo yo dyām astabhnāt sa (janāsa indraḥ) ||
+
+**12.14.3**
+
+yo hatvāhim ariṇāt sapta sindhūn yo gā udājad apadhā valasya | yo aśmanor antar agniṃ jajāna saṃvṛk samatsu sa (janāsa indraḥ) ||
+
+**12.14.4**
+
+yenemā viśvā cyavanā kṛtāni yo dāsaṃ varṇam adharaṃ guhākaḥ | śvaghnīva yo jigīvām̐l lakṣam ādad aryaḥ puṣṭāni sa (janāsa indraḥ) ||
+
+**12.14.5**
+
+yaṃ smā pṛcchanti kuha seti ghoram utem āhur naiṣo astīty enam | so aryaḥ puṣṭīr vija ivā mināti śrad asmai dhatta sa (janāsa indraḥ) ||
+
+**12.14.6**
+
+yo radhrasya coditā yaḥ kṛśasya yo brahmaṇo nādhamānasya kīreḥ | yuktagrāvṇo yo 'vitā suśipraḥ sutasomasya sa (janāsa indraḥ) ||
+
+**12.14.7**
+
+yasyāśvāsaḥ pradiśi yasya gāvo yasya grāmā yasya viśve rathāsaḥ | yaḥ sūryaṃ ya uṣasaṃ jajāna yo apāṃ netā sa (janāsa indraḥ) ||
+
+**12.14.8**
+
+yaṃ krandasī saṃyatī vihvayete pare 'vara ubhayā amitrāḥ | samānaṃ cid ratham ātasthivāṃsā nānā havete sa (janāsa indraḥ) ||
+
+**12.14.9**
+
+yasmān na rte vijayante janāso yaṃ yudhyamānā avase havante | yo viśvasya pratimānaṃ babhūva yo acyutacyut sa (janāsa indraḥ) ||
+
+**12.14.10**
+
+yaḥ śaśvato mahy eno dadhānān abudhyamānān sarvā jaghāna | yaḥ śardhate nānudadāti śṛdhyāṃ yo dasyor hantā sa (janāsa indraḥ) ||
+
+**12.15.1**
+
+yaḥ śambaraṃ parvateṣu kṣiyantaṃ catvāriṃśyāṃ śarady anvavindat | ojāyamānaṃ yo ahiṃ jaghāna dānuṃ śayānaṃ sa (janāsa indraḥ) ||
+
+**12.15.2**
+
+yaḥ śambaraṃ paryacarac chaśībir yo vā vṛkasya nāpibat sutam | antar girau yajamānaṃ bahuṃ janaṃ yas taṃ nāsūrukṣu sa (janāsa indraḥ) ||
+
+**12.15.3**
+
+yaḥ saptaraśmir vṛṣabhas tuviṣmān avāsṛjat sartave sapta sindhūn | yo rauhiṇam asphurad vajrabāhur dyām ārohantaṃ sa (janāsa indraḥ) ||
+
+**12.15.4**
+
+dyāvā cid asmai pṛthivī namete śuṣmāc cid asya parvatā bhayante | yaḥ somapā nicito vajrabāhur yo vajrahastaḥ sa (janāsa indraḥ) ||
+
+**12.15.5**
+
+yaḥ sunvantam avati yaḥ pacantaṃ yaḥ śaṃsantaṃ yaḥ śaśamānam ūtī | yasya brahma vardhanaṃ yasya somo yasyedaṃ rādhaḥ sa janāsa indraḥ ||
+
+**12.15.6**
+
+yaḥ sunvate pacate dudhra ā cid vājaṃ dadarṣi sa kilāsi satyaḥ | vayaṃ ta indra viśvaha priyāsaḥ suvīrāso vidatham ā vadema ||
+
+**12.15.7**
+
+jāto vyakhyat pitror upasthe bhuvo na veda janituḥ parasya | taviṣyamāṇo nv ojo akhyad vratā devānāṃ sa janāsa indraḥ ||
+
+**12.15.8**
+
+yaḥ somakāmo haryaśva āsu yasmād rejante bhuvanāni viśvā | yo jaghāna śambaraṃ yaś ca śuṣṇaṃ ya ekavīraḥ sa janāsa indraḥ ||
+
+**12.16.1**
+
+śaṃ na indrāgnī bhavatām avobhiḥ śaṃ na indrāvaruṇā rātahavyā | śam indrāsomā sa vitāya śaṃ yoḥ śaṃ na indrāpūṣaṇā vājasātau ||
+
+**12.16.2**
+
+śaṃ no bhagaḥ śam u naḥ śaṃso astu śaṃ naḥ purundhiḥ śam u santu rāyaḥ | śaṃ naḥ satyasya sūyamasya śaṃsaḥ śaṃ no aryamā purujāto astu ||
+
+**12.16.3**
+
+śaṃ no dhātā śam u dhartā no astu śaṃ na urūcī bhavatu svadhābhiḥ | śaṃ rodasī bṛhatī śaṃ no adriḥ śaṃ no devānāṃ suhavāni santu ||
+
+**12.16.4**
+
+śaṃ no agnir jyotiranīko astu śaṃ mitrāvaruṇāv aśvinā śam | śaṃ naḥ sukṛtāṃ sukṛtāni santu śaṃ na iṣiro abhi vātu vātaḥ ||
+
+**12.16.5**
+
+śaṃ no dyāvāpṛthivī pūrvahūtau śam antarikṣaṃ dṛśaye no astu | śaṃ na oṣadhīr vanino bhavantu śaṃ no rajasaḥ patir astu jiṣṇuḥ ||
+
+**12.16.6**
+
+śaṃ na indro vasubhir devo astu śam ādityebhir varuṇaḥ suśaṃsaḥ | śaṃ no rudro rudrebhir jalāṣaḥ śaṃ nas tvaṣṭā gnābhir iha śṛṇotu ||
+
+**12.16.7**
+
+śaṃ naḥ somo bhavatu brahma śaṃ naḥ śaṃ no grāvāṇaḥ śam u santu yajñāḥ | śaṃ naḥ svarūṇāṃ mitayo bhavantu śaṃ naḥ prasvaḥ śam v astu vediḥ ||
+
+**12.16.8**
+
+śaṃ naḥ sūrya urucakṣā ud etu śaṃ no bhavantu pradiśaś catasraḥ | śaṃ naḥ parvatā dhruvayo bhavantu śaṃ naḥ sindhavaḥ śam u santv āpaḥ ||
+
+**12.16.9**
+
+śaṃ no aditir bhavatu vratebhiḥ śaṃ no bhavantu marutaḥ svarkāḥ | śaṃ no viṣṇuḥ śam u pūṣā no astu śaṃ no bhavitraṃ śam v astu vāyuḥ ||
+
+**12.16.10**
+
+śaṃ no devaḥ savitā trāyamānaḥ śaṃ no bhavantūṣaso vibhātīḥ | śaṃ naḥ parjanyo bhavatu prajābhyaḥ śaṃ naḥ kṣetrasya patir astu śambhuḥ ||
+
+**12.17.1**
+
+śaṃ naḥ satyasya patayo bhavantu śaṃ no arvantaḥ śam u santu gāvaḥ | śaṃ na ṛbhavaḥ sukṛtaḥ suhastāḥ śaṃ no bhavantu pitaro haveṣu ||
+
+**12.17.2**
+
+śaṃ no devā viśvadevā bhavantu śaṃ sarasvatī saha dhībhir astu | śam abhiṣācaḥ śam u rātiṣācaḥ śaṃ no divyāḥ pārthivāḥ śaṃ no apyāḥ ||
+
+**12.17.3**
+
+śaṃ no aja ekapād devo astu śam ahir budhnyaḥ śaṃ samudraḥ | śaṃ no apāṃ nāpat perur astu śaṃ naḥ pṛśnir bhavatu devagopāḥ ||
+
+**12.17.4**
+
+ādityā rudrā vasavo juṣantām idaṃ brahma kriyamāṇaṃ navīyaḥ | śṛṇvantu no divyāḥ pārthivāso gojātā uta ye yajñiyāsaḥ ||
+
+**12.17.5**
+
+ye devānām ṛtvijo yajñiyāso manor yajatrā amṛtā ṛtajñāḥ | te no rāsantām urugāyam adya yūyaṃ pāta svastibhiḥ sadā naḥ ||
+
+**12.17.6**
+
+tad astu mitrāvaruṇā tad agne śaṃ yor asmabhyam idam astu śastam | aśīmahi gātum uta pratiṣṭhāṃ namo dive bṛhate sādanāya ||
+
+**12.18.1**
+
+agnāv agniś carati praviṣṭa ṛṣīṇāṃ putro adhirāja eṣaḥ | tasmai juhomi haviṣā ghṛtena mā devānāṃ yūyavad bhāgadheyam ||
+
+**12.18.2**
+
+yukto vaha jātavedaḥ purastād agne viddhi kriyamāṇaṃ yathedam | tvaṃ bhiṣag bheṣajasyāpi kartā tvayā gām aśvaṃ puruṣaṃ sanema ||
+
+**12.18.3**
+
+tathā tvam agne kṛṇu jātavedo 'nena vidvān haviṣā yaviṣṭha | piśāco asya yatamo jaghāsa yathā so asya paridhiṣ patāti ||
+
+**12.18.4**
+
+yo 'sya dideva yatamo jaghāsa yathā so asya paridhiṣ patāti | tathā tvam agne kṛṇu jātavedo viśvebhir devaiḥ saha saṃvidānaḥ ||
+
+**12.18.5**
+
+akṣyau ni vidhya hṛdayaṃ ni vidhya jihvāṃ ni tṛndhi pra dataḥ śṛṇīhi | piśāco asya yatamo jaghāsa- -agne yaviṣṭha prati taṃ śṛṇīhi ||
+
+**12.18.6**
+
+yad asya hṛtaṃ vihṛtaṃ yat parābhṛtam ātmano jagdham uta yat piśācaiḥ | tad agne vidvān punar ā bhara tvaṃ śarīre prāṇam asum erayāsya ||
+
+**12.18.7**
+
+apāṃ tvā pāne yatamo dadambha- -odane manthe yadi vota lehe | tad ātmanā prajayā piśācā vi yātayantām agado 'yam astu ||
+
+**12.18.8**
+
+kṣīre tvā māṃse yatamo dadambha- -akṛṣṭapacye aśane dhānye yaḥ | tad ātmanā prajayā piśācā vi yātayantām agado 'yam astu ||
+
+**12.18.9**
+
+āme supakve śabale vipakve ya imaṃ piśāco aśane dadambha | tam indro vājī vajreṇa hantu bhinattu somaḥ śiro asya dhṛṣṇuḥ ||
+
+**12.18.10**
+
+divā tvā naktaṃ yatamo dadambha kravyād yātuḥ śayane piśācaḥ | tad agne vidvān pra daha kṣiṇīhy apy enaṃ dhehi nirṛter upasthe ||
+
+**12.19.1**
+
+somasyendrasya varuṇasya rājño viṣṇor balena savituḥ savena | agner hotreṇa pra ṇude piśācān yaviṣṭhasya brahmaṇā jātavedasaḥ ||
+
+**12.19.2**
+
+kravyādam agne rudhiraṃ piśācaṃ manohanaṃ jahi jātavedaḥ sahobhiḥ | śraddhemaṃ brahma juṣatāṃ dakṣiṇāyur yathā jīvāty agado bhavāti ||
+
+**12.19.3**
+
+punas tvā prāṇaḥ punar aitv āyuḥ punaś cakṣuḥ punar aitu śrotram | apaghnā no duritāni viśvā śataṃ himāḥ sarvavīrā madema ||
+
+**12.19.4**
+
+punar asmai mano dhehi punar āyuḥ punar balam | apānām asya prāṇaṃ ca- -agne vardhaya jīvase ||
+
+**12.19.5**
+
+cakṣuḥ sūrya punar dehi vāta prāṇaṃ sam īraya | śarīram asya māṃsāny agne saṃ bhārayā tvam ||
+
+**12.19.6**
+
+sam ā bhara jātavedo yaj jagdhaṃ yat parābhṛtam | gātrāṇy asya kalpaya punar ā pyāyatām ayam ||
+
+**12.19.7**
+
+somasyeva jātavedo aṃśur ā pyāyatām ayam | agne virapsinaṃ medhyam ayakṣmaṃ kṛṇu jīvase ||
+
+**12.19.8**
+
+saṃ mā siñcantu maruta ity ekā ||
+
+**12.19.9**
+
+vi muñcāmi brahmaṇā jātavedasam agniṃ hotāram ajaraṃ rathaspṛtam | sarvā devānāṃ janimāni vidvān yathābhāgaṃ vahatu havyam agniḥ ||
+
+**12.19.10**
+
+ye pumāṃso yātudhāna yā striyo yātudhānyaḥ | balavad indrasya vajreṇa- -avācīnān ava hanmi tān ||
+
+**12.20.1**
+
+yaṃ śapāmo ya u naḥ śapāti yaṃ dviṣmo ya u dveṣat piśācaḥ | kravyādam agne mahatā vadhena tam atrāpi pra daha jātavedaḥ ||
+
+**12.20.2**
+
+ya ārebhe yasya vā ghāsy apsarā yaḥ kṛṇvena saṃvido yātumāvān | ulūkayātuṃ bhṛmalo yasya yātus tam (…) ||
+
+**12.20.3**
+
+ya ādade yasya vā ghāsi pitryā stena śvayātur uta saṃbhidhehibhiḥ | yaḥ patād rodhanasyādhidevanaṃ kravyāt piśācaḥ kraviṣas titṛpsan ulūkayātuṃ bhṛmalo yasya yātus tam (…) ||
+
+**12.20.4**
+
+yaḥ puruṣeṇeyate rathena kravyād yātuḥ piśunaḥ piśācaḥ | vaiśvānareṇa sayujā sūryeṇa tam (…) ||
+
+**12.20.5**
+
+yo no valiṃ mṛgayāṃ yaś ca naḥ kṛṣiṃ paritiṣṭhād yātubhir yaś ca naḥ śapāt | astā rudraḥ śrathatv āyur asya tam (…) ||
+
+**12.20.6**
+
+mā yātumān vidata mṛḍitāram alokā asmai pradiśo bhavantu | sam enaṃ tapatāṃ rodasī ubhe tam atrāpi pra daha jatavedaḥ ||
+
+**12.20.7**
+
+jyotiṣmatīs tapanā yāś ca rocanā pratyoṣantīs tanvo yās te agne | tābhir me marmāṇy abhito dadasva mā tvā dabhan yātudhānā nṛcakṣaḥ ||
+
+**12.20.8**
+
+āpo devīḥ piśācānām apa nahyantv āsyam | yathemaṃ mamātmānaṃ anādhṛṣya punaḥ patān ||
+
+**12.20.9**
+
+sadaṃ puṣpe sadaṃ phale sadam indrābhirakṣite | sadā piśācā mriyantāṃ maiṣām uc cheṣi kaś cana
+
+**12.20.10**
+
+ye patanto yātudhānā divānaktam upācarān | rātrī mā tebhyo rakṣatv ahna ātmānaṃ pari dade ||
+
+**12.21.1**
+
+imaṃ badhnāmi te maṇiṃ dīrghāyutvāya tejase | darbhaṃ sapatnajambhanaṃ dviṣatas tapanaṃ hṛdaḥ ||
+
+**12.21.2**
+
+dviṣatas tāpayan hṛdaḥ śatrūṇāṃ tāpayan manaḥ | durhārdaḥ sarvāṃs tvaṃ darbha gharma ivābhīt sutāpayan ||
+
+**12.21.3**
+
+gharma ivābhitapan darbha dviṣato nitapan maṇe | hṛdaḥ sapatnānāṃ bhindhi- -indra iva virujaṃ valam ||
+
+**12.21.4**
+
+bhindhi darbha sapatnānāṃ hṛdayaṃ dviṣatāṃ maṇe | udyaṃ tvacam iva bhūmyāḥ śira eṣāṃ vi pātaya ||
+
+**12.21.5**
+
+bhindhi darbha sapatnān me bhindhi me pṛtanāyataḥ | bhindhi me sarvān durhārdo bhindhi me dviṣato maṇe ||
+
+**12.21.6**
+
+chindhi darbha sapatnān me chindhi me pṛtanāyataḥ | chindhi me sarvān durhārdaś chindhi me dviṣato maṇe ||
+
+**12.21.7**
+
+vṛśca darbha sapatnān me vṛśca me pṛtanāyataḥ | vṛśca me sarvān durhārdo vṛśca me (dviṣato maṇe) ||
+
+**12.21.8**
+
+kṛnta darbha sapatnān me kṛnta me pṛtanāyataḥ | kṛnta me sarvān durhārdaḥ kṛnta me dviṣato maṇe ||
+
+**12.21.9**
+
+piṃśa darbha sapatnān me piṃśa me pṛtanāyataḥ | piṃśa me sarvān durhārdaḥ piṃśa me dviṣato maṇe ||
+
+**12.21.10**
+
+vidhya darbha sapatnān me vidhya me pṛtanāyataḥ | vidhya me sarvān durhārdo vidhya me dviṣato maṇe ||
+
+**12.22.1**
+
+nikṣa darbha sapatnān me nikṣa me pṛtanāyataḥ | nikṣa me sarvān durhārdo nikṣa me dviṣato maṇe ||
+
+**12.22.2**
+
+tṛndhi darbha sapatnān me tṛndhi me pṛtanāyataḥ | tṛndhi me sarvān durhārdas tṛndhi me dviṣato maṇe ||
+
+**12.22.3**
+
+bhaṅdhi darbha sapatnān me bhaṅdhi me pṛtanāyataḥ | bhaṅdhi me sarvān durhārdo bhaṅdhi me dviṣato maṇe ||
+
+**12.22.4**
+
+mṛṇa darbha sapatnān me mṛṇa me pṛtanāyataḥ | mṛṇa me sarvān durhārdo mṛṇa me dviṣato maṇe ||
+
+**12.22.5**
+
+mantha darbha sapatnān me mantha me pṛtanāyataḥ | mantha me sarvān durhārdo mantha me dviṣato maṇe ||
+
+**12.22.6**
+
+piṇḍhi darbha sapatnān me piṇḍhi me pṛtanāyataḥ | piṇḍhi me sarvān durhārdaḥ piṇḍhi me dviṣato maṇe ||
+
+**12.22.7**
+
+oṣa darbha sapatnān me oṣa me pṛtanāyataḥ | oṣa me sarvān durhārda oṣa me dviṣato maṇe ||
+
+**12.22.8**
+
+daha darbha sapatnān me daha me pṛtanāyataḥ | daha me sarvān durhārdo daha me dviṣato maṇe ||
+
+**12.22.9**
+
+jahi darbha sapatnān me jahi me pṛtanāyataḥ | jahi me sarvān durhārdo jahi me dviṣato maṇe ||
+
+**12.22.10**
+
+yat te darbha jarāmṛtyū sa te marmasu varma te | tenemaṃ varmiṇaṃ kṛtvā sapatnān jahi vīryaiḥ ||
+
+**12.22.11**
+
+śataṃ te darbha varmāṇi sahasraṃ vīryāṇi te | tam asmai viśve tvāṃ devā jarase bhartavā aduḥ ||
+
+**12.22.12**
+
+tvām āhur devavarma tvāṃ darbha brahmaṇaspatim | tvām indrasyāhur varma tvaṃ rāṣṭrāṇi rakṣasi ||
+
+**12.22.13**
+
+sapatnakṣayaṇaṃ darbhaṃ dviṣatas tapanaṃ hṛdaḥ | maṇiṃ kṣatrasya vardhanaṃ tanūpānaṃ kṛṇomi te ||
+
+**12.22.14**
+
+yat samudro abhyakrandat parjanyo vidyutā saha | tato hiraṇyayo bindus tato darbho ajāyata ||

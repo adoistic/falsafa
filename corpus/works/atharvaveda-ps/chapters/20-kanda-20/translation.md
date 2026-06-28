@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 20
+chapter_title: Kāṇḍa 20
+chapter_slug: "20-kanda-20"
+variant_id: "b1df8c84-0a77-5fe1-8239-d7f0619fb8ec"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 17729
+translator: thothica
+---
+
 **20.1.1**  Those who by thought led speech to its summit, or who by mind declared the truths — waxing great through the third sacred utterance, by the fourth they perceived the name of the milch-cow.
 
 **20.1.2**  He, the son, came to know his father; he, the son, came to know his mother; he became a son, he became again a munificent one. He disclosed the sky, he the atmosphere, he the sun; he became all the worlds — he came into being.

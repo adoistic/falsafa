@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 8
+chapter_title: Prapāṭhaka 8
+chapter_slug: "08-prapathaka-8"
+variant_id: "6650e5bd-6535-5800-9ec4-d527f5025c9d"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 325
+translator: thothica
+---
+
 **8.1**  Know, O Maghavan, know the path in the directions that have been proclaimed. Teach us, O lord of mighty deeds, O Purūvasu, of many ancient gifts.
 
 **8.2**  With aids of conquest thou art the conqueror; the soma ray is thine own. O all-knowing one, enlighten us, O Indra, for glory and for nourishment.

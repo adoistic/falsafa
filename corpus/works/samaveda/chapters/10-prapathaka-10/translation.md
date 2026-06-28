@@ -1,3 +1,22 @@
+---
+work_id: "f73d30f5-7284-5d7f-b933-2e02ca627032"
+work_slug: samaveda
+work_title: Sāmaveda
+author_name: Anonymous (Vedic)
+chapter_number: 10
+chapter_title: Prapāṭhaka 10
+chapter_slug: "10-prapathaka-10"
+variant_id: "11c3adb9-73a5-5aaa-8465-112869530e24"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 2521
+translator: thothica
+---
+
 **10.1**  Sing forth to the lord of cattle, the mountain-king Indra, as is fitting. Praise the guardian of truth, the true lord. Who among men is your kinsman, O Agni? Who has offered the sacrifice? On whom do you truly depend? The Āyus have praised you, O Indra, before all with their hymns, the first drinkers; the Ṛbhus, assembled in harmony, together praised the ancient Rudras.
 
 **10.2**  The bay steeds have been let loose; the red ones rest upon the sacred grass, where we now raise our voice in unison. You, O Agni, are the kinsman among men, beloved as Mitra, a friend worthy of praise to friends. So too has Indra grown in virile strength through the exhilaration of the pressed soma. The Āyus today follow and praise that greatness of his, as they did of old, O Viṣṇu.

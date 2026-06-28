@@ -1,3 +1,22 @@
+---
+work_id: "024dffd8-3c46-5746-9b2b-5525ce1a3e1c"
+work_slug: "valmiki-ramayana"
+work_title: Vālmīki Rāmāyaṇa
+author_name: Vālmīki
+chapter_number: 6
+chapter_title: Kāṇḍa 6
+chapter_slug: "06-kanda-6"
+variant_id: "12fccbcb-c6e6-52d4-8abf-2d41c2545649"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 105716
+translator: thothica
+---
+
 **6.1.1**  Having heard Hanumān's words spoken exactly as they were, Rāma, filled with joy, replied with the following words.
 
 **6.1.2**  Hanumān has accomplished an exceedingly great and difficult deed on earth — one that no other being on this earth could even conceive of in mind.

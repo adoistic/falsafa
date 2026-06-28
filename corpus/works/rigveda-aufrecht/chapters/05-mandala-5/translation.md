@@ -17,6 +17,7 @@ word_count: 22642
 translator: thothica
 ---
 
+
 **5.1.1**  Agni has awakened through the fuel of the people, going forth to meet the Dawn as she approaches like a cow; the great ones like young birds spreading their wings, the rays stream upward toward the vault of heaven.
 
 **5.1.2**  The Hotṛ has awakened to sacrifice to the gods; Agni, well-disposed and erect, has stood up at dawn. The blazing might of him, when kindled, has been seen; the great god has been freed from darkness.

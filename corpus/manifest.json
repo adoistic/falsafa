@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-27T16:21:07.480Z",
+  "generated_at": "2026-06-28T14:35:33.366Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 1838,
-    "authors": 444,
+    "works": 1840,
+    "authors": 445,
     "eras": 10,
     "genres": 34,
     "languages": 9
@@ -34930,6 +34930,44 @@
       "difficulty": "Advanced",
       "description": "Vālmīki Rāmāyaṇa, a Sanskrit Epic by Vālmīki, with transliteration and Thothica's English translation from the GRETIL source text.",
       "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "atharvaveda-ps",
+      "title": "Atharvaveda (Paippalāda)",
+      "author": "Anonymous (Vedic)",
+      "author_slug": "anonymous-vedic",
+      "era": "Ancient",
+      "era_slug": "ancient",
+      "genre": "Vedic Literature",
+      "genre_slug": "vedic-literature",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 20,
+      "total_variant_entries": 40,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Atharvaveda (Paippalāda), a Sanskrit Vedic Literature by Anonymous (Vedic), with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
+    },
+    {
+      "slug": "samaveda",
+      "title": "Sāmaveda",
+      "author": "Anonymous (Vedic)",
+      "author_slug": "anonymous-vedic",
+      "era": "Ancient",
+      "era_slug": "ancient",
+      "genre": "Vedic Literature",
+      "genre_slug": "vedic-literature",
+      "language": "Sanskrit",
+      "language_slug": "sanskrit",
+      "language_direction": "ltr",
+      "total_logical_chapters": 12,
+      "total_variant_entries": 24,
+      "published_year": null,
+      "difficulty": "Advanced",
+      "description": "Sāmaveda, a Sanskrit Vedic Literature by Anonymous (Vedic), with transliteration and Thothica's English translation from the GRETIL source text.",
+      "thothica_role": "gretil-root"
     }
   ],
   "authors": {
@@ -38990,6 +39028,13 @@
       "works": [
         "valmiki-ramayana"
       ]
+    },
+    "anonymous-vedic": {
+      "name": "Anonymous (Vedic)",
+      "works": [
+        "atharvaveda-ps",
+        "samaveda"
+      ]
     }
   },
   "eras": {
@@ -39046,7 +39091,9 @@
         "asanga-sarirarthagatha-503db2",
         "unknown-brahmabindupanisad-7fe70b",
         "rigveda-aufrecht",
-        "valmiki-ramayana"
+        "valmiki-ramayana",
+        "atharvaveda-ps",
+        "samaveda"
       ]
     },
     "20th-century": {
@@ -42882,7 +42929,9 @@
     "vedic-literature": {
       "name": "Vedic Literature",
       "works": [
-        "rigveda-aufrecht"
+        "rigveda-aufrecht",
+        "atharvaveda-ps",
+        "samaveda"
       ]
     },
     "epic": {
@@ -42928,7 +42977,9 @@
         "asanga-sarirarthagatha-503db2",
         "unknown-brahmabindupanisad-7fe70b",
         "rigveda-aufrecht",
-        "valmiki-ramayana"
+        "valmiki-ramayana",
+        "atharvaveda-ps",
+        "samaveda"
       ]
     },
     "urdu": {

@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 4
+chapter_title: Kāṇḍa 4
+chapter_slug: "04-kanda-4"
+variant_id: "66761419-a6a8-59cb-a693-46bf3e1246da"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 9653
+translator: thothica
+---
+
 **4.1.1**  Hiraṇyagarbha came into being at the first; he arose as the single lord of all that exists. He upheld this earth and yonder heaven — to that god let us offer with oblation.
 
 **4.1.2**  He who gives vital force and gives strength, he whose command all the gods attend — whose shadow is immortality, whose shadow is death — to that god let us offer with oblation.

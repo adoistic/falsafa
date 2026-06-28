@@ -1,0 +1,3654 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 19
+chapter_title: Kāṇḍa 19
+chapter_slug: "19-kanda-19"
+variant_id: "d0e8839c-0508-50c6-a1db-6252d623f854"
+content_type: transliteration
+layout: verse
+language: Sanskrit
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 15076
+transliterator: thothica
+---
+
+**19.1.1**
+
+doṣo gāya bṛhad gāya dyumad gāyātharvaṇa | stuhi devaṃ savitāram ||
+
+**19.1.2**
+
+tam u stuhy antaḥsindhuṃ sūnuṃ satyasya yuvānam | adroghavācaṃ suśevam ||
+
+**19.1.3**
+
+sa ghā no devaḥ savitā- -āsāviṣad vasupatir vasūni | ubhe suṣṭutī sugātum ||
+
+**19.1.4**
+
+indrāya somam ṛtvijaḥ sunotanā ca dhāvata | stotur yo havaṃ śṛṇavad dhavaṃ ca naḥ ||
+
+**19.1.5**
+
+sunotā somapāvne somam indrāya vajriṇe | yuvā jeteśānaḥ sa puruṣṭutaḥ ||
+
+**19.1.6**
+
+ā tvā viśantv indavo vayo na vṛkṣam andhasaḥ | virapśin vi mṛdho jahi rakṣasvinīḥ ||
+
+**19.1.7**
+
+āre asāv asmad astu hetir devāso asat | āre martānām aśastiḥ ||
+
+**19.1.8**
+
+sakhaiva no rātir astu sakhendraḥ sakhā savitā | sakhā bhagaḥ satyadharmā no astu ||
+
+**19.1.9**
+
+abhi no devīr avasā mahāśarmaṇā nṛpatnīḥ | acchinnapatrāḥ sacantām ||
+
+**19.1.10**
+
+īḍe agniṃ bhavaṃ sarvaṃ rakṣa ubjad ahiṃ balāsam uta sedim ugrām | āre asmad adite daivyaṃ bhayaṃ suvīryaṃ marutaḥ śarma yacchata ||
+
+**19.1.11**
+
+īḍe dyāvāpṛthivī parvatām̐ apaḥ svaḥ sūryam urv antarikṣam | vanaspatīn oṣadhīr gā uta rca ṛtasya naḥ patayo mṛḍayantu ||
+
+**19.1.12**
+
+huve viṣṇuṃ pūṣaṇaṃ brahmaṇaspatiṃ bhagaṃ nu śaṃsaṃ savitāram ūtaye | iha somo varuṇo vāyur agnir bhaga ugrā avase no gamantu ||
+
+**19.1.13**
+
+pātaṃ na indrāpūṣaṇā varuṇaḥ pāntu marutaḥ | apāṃ napāt sindhavaḥ sapta pātana pātu viṣṇur uta dyauḥ ||
+
+**19.1.14**
+
+pātāṃ no dyāvāpṛthivī abhiṣṭaye pātu grāvā pātu somo no aṃhasaḥ | pātu no devī suhavā sarasvatī pātv agnir ye śivā asya pāyavaḥ ||
+
+**19.1.15**
+
+pātāṃ no devāśvinā sudaṃsasā- -uṣāsānaktota na uruṣyatām | apāṃ napād avihrutī kayasya cid devo mūrdhann adite śarma yaccha naḥ ||
+
+**19.2.1**
+
+tvaṣṭā me daivyaṃ vacaḥ parjanyo brahmaṇaspatiḥ | putrair bhrātṛbhir aditir nu pātu no duṣṭaraṃ trāmaṇe śavaḥ ||
+
+**19.2.2**
+
+aṃśo bhago varuṇo mitro aryamā- -aditiḥ pātv aṃhasaḥ | apa tasya dveṣo gamed avihruto yāvayāc chatrum ?anti tam? ||
+
+**19.2.3**
+
+deva tvaṣṭar vardhaya sarvatātaye dhiye sam u śriye prāvatān naḥ | uruṣyā ṇa urutarāprayucchan dyauṣ pitar yāvaya ducchunām itaḥ ||
+
+**19.2.4**
+
+ye no vacobhir uta daṃsanābhis tanvaṃ soma paritāpayante | nīcais tān vṛśca na yathā virukṣan mā te dṛśan sūryam uccarantam ||
+
+**19.2.5**
+
+tvayeṣvā tvayā soma dhanvanā tvayā muṣṭighnā śāśadmahe vayam | tvaṃ tān vṛśca ya idaṃ na ?ādṛśākaren? hanāma daṇḍair uta daṃsanābhiḥ ||
+
+**19.2.6**
+
+padena tān padanyo nayantu vadhair enān pitaro daṃsayantu | yathā na jīvāt katamaś canaiṣām ||
+
+**19.2.7**
+
+yena somāditiḥ pathā mitrā vā yanty adruhaḥ | tenā no 'vitā bhuvaḥ ||
+
+**19.2.8**
+
+yo naḥ soma suśaṃsino duḥśaṃso abhidāsati | vajreṇāsya mukhe jahi sa saṃpiṣṭo apāyati ||
+
+**19.2.9**
+
+yo naḥ somābhidāsati sanābhir yaś ca niṣṭiyaḥ | apa tasya balaṃ tira mahīva dyaur vadha tmanā ||
+
+**19.2.10**
+
+punar agham aghakṛtam etu devāḥ punar ena enaskṛtaṃ vijānat | punaḥ putraḥ pitaram etu vidvān hatām uta yad asya svam asti ||
+
+**19.2.11**
+
+yena cāsau śapati yena cainaṃ śapāmasi | ubhau saṃvṛhya tau tasmād antikād dhetim asyatām ||
+
+**19.2.12**
+
+ye pārthivāsaḥ śapathā ya urāv antarikṣe | ye vātasya prabharmaṇi tebhiṣ ṭaṃ vartayāmasi yo 'smān dveṣṭi yaṃ vayaṃ dviṣmaḥ ||
+
+**19.2.13**
+
+ye asmān parisīsṛpuḥ kulīpayāni bibhrataḥ | ud devas teṣāṃ vṛścata mūlam urvārvo yathā ||
+
+**19.2.14**
+
+yad devā aghadhā agham anyasminn ā sisaṃkṣati | bhāro aghasya duḥsahaḥ pratyak kartāram ṛcchatu ||
+
+**19.2.15**
+
+punar evāghadhām aghaṃ dyumnam ?ivaitur arṣatu | ādityāduryāmahiṣā? mahī sindhor ivāvaniḥ ||
+
+**19.3.1**
+
+śaśvad didyut kriyamāṇā pratīcī ni hi paptat | pratyak kartāram ṛcchatu ||
+
+**19.3.2**
+
+śaśvantam ic chāśadānam anyasmā iṣuṃ dihānam | pratīcī śarur ṛcchatu ||
+
+**19.3.3**
+
+yad etad bhūri śāśadat pratīcīnam apohase | viṣād iva viṣam addhi tat ||
+
+**19.3.4**
+
+namas te pravato napād yatas tapaḥ samūhase | mṛḍā nas tanūbhyaś śaṃ nas tokebhyas kṛdhi ||
+
+**19.3.5**
+
+pravato napān namo astu tubhyaṃ namas te hetaye tapuṣyai | vidma te dhāma paramaṃ guhā yat samudre antar nihitāsi nābhiḥ ||
+
+**19.3.6**
+
+yāṃ tvā devā ajanayanta viśva iṣuṃ kṛṇvānā asanāya tṛṣvīm | sā no mṛḍa vidathe gṛṇānā mitrasya ca varuṇasya praśiṣṭau ||
+
+**19.3.7**
+
+yūyaṃ naḥ pravato napān marutaḥ sūryatvacaḥ | śarma yacchātha saprathaḥ ||
+
+**19.3.8**
+
+mamṛḍatā suṣūdatā mṛḍā no aghnyābhyaḥ | tokāya tanve ca ||
+
+**19.3.9**
+
+namas te astu vidyute namas te stanayitnave | namas te astv aśmane yenā dūḍāśe asyasi ||
+
+**19.3.10**
+
+yo asmān brahmaṇaspate 'devo abhidāsati | sarvaṃ taṃ rīradhāsi naḥ ||
+
+**19.3.11**
+
+yebhiḥ soma sāhantya- -asurān randhayāsai | tebhir no 'vitā bhuvaḥ ||
+
+**19.3.12**
+
+yāni devā asurāṇām ojāṃsy avṛṇīdhvam | tebhir no adhi vocata ||
+
+**19.3.13**
+
+ud enam uttaraṃ naya- -agne ghṛtebhir āhutaḥ | sam enaṃ varcasā sṛja devānāṃ bhāgadhā asat ||
+
+**19.3.14**
+
+indremaṃ prataraṃ kṛdhi sajātānām asad vaśī | rāyaspoṣeṇa saṃ sṛja prajayā ca bahuṃ kṛdhi ||
+
+**19.3.15**
+
+yasya kṛṇmo gṛhe havis tam agne vardhayā tvam | tasmai somo adhi bruvad ayaṃ ca brahmaṇaspatiḥ ||
+
+**19.4.1**
+
+ṛtāvānaṃ vaiśvānaram ṛtasya jyotiṣas patim | ajasraṃ gharmam īmahe ||
+
+**19.4.2**
+
+sa idaṃ prati paprathad yajñasya svar uttiran | ṛtūn ut sṛjate vaśī ||
+
+**19.4.3**
+
+agniḥ priyeṣu dhāmasu kāmo bhūtasya bhavyasya | samrāḍ eko vi rājati ||
+
+**19.4.4**
+
+pari dyām iva sūryo ahīnāṃ janim āgamam | rātrī jagad ivānyad dhaṃsād avārīr imaṃ viṣam ||
+
+**19.4.5**
+
+yad brahmabhir yad ṛṣibhir yad devair uditaṃ purā | yad bhūtaṃ bhavyam āsanvat tena te vāraye viṣam ||
+
+**19.4.6**
+
+madhunāpṛkṣi nadyaḥ parvatā girayo madhu | madhu paruṣṇī śīpālā śam āsne astu śaṃ hṛde ||
+
+**19.4.7**
+
+yatheyam urvī pṛthivī dādhāra viṣṭhitaṃ jagat | evā te dhriyatāṃ garbho anu sūtuṃ savitave ||
+
+**19.4.8**
+
+(…) dādhāremān vanaspatīn | (…) ||
+
+**19.4.9**
+
+yatheyam urvī pṛthivī dādhāra parvatān apaḥ | evā te dhriyatāṃ garbho anu sūtuṃ suvitave ||
+
+**19.4.10**
+
+sasruṣīs tad apaso divā naktaṃ ca sasruṣīḥ | vareṇyakratur aham apo devīr upa bruve ||
+
+**19.4.11**
+
+oktā āpaḥ karmaṇyā muñcantv itaḥ praṇītaye | sadyo bhavantv etave ||
+
+**19.4.12**
+
+devasya savituḥ save karma kṛṇvanti mānuṣāḥ | śaṃ no bhavantv apa oṣadhīr imāḥ ||
+
+**19.4.13**
+
+śatasya te dhamanīnāṃ sahasrasya hirāṇām | asthur in madhyamā yāḥ sākam antā araṃsata ||
+
+**19.4.14**
+
+pari vaḥ sikatāmayīr dhanūs tiraś cid asthiran | tiṣṭhatelayatā su kam ||
+
+**19.4.15**
+
+amūr yā yanti jāmayaḥ sarvā lohitavāsasaḥ | abhrātara iva yoṣās tiṣṭhanti hatavarcasaḥ ||
+
+**19.4.16**
+
+tiṣṭhāvare tiṣṭha para uta tvaṃ tiṣṭha madhyame | kaṇiṣṭhikā ca tiṣṭhāti tiṣṭhād id dhamanir mahī ||
+
+**19.5.1**
+
+namo devavadhebhyo namo rājavadhebhyaḥ | atho ye viśyānāṃ vadhās tebhyo mṛtyo namāṃsi te ||
+
+**19.5.2**
+
+namas te adhivākāya parāvākāya te namaḥ | sumatyai mṛtyo te namo durmatyai ta idaṃ namaḥ ||
+
+**19.5.3**
+
+namas te yātudhānebhyo namas te bheṣajebhyaḥ | mūlebhyo mṛtyo te namo brāhmaṇebhya idaṃ namaḥ ||
+
+**19.5.4**
+
+nava ca yā navatiś ca saṃyanti manyā abhi | itas tāḥ sarvā naśyantu vākā apacitām iva ||
+
+**19.5.5**
+
+sapta ca yāḥ saptatiś ca saṃyanti skandhyā abhi | (itas tāḥ sarvā naśyantu vākā apacitām iva) ||
+
+**19.5.6**
+
+pañca ca yāḥ pañcāśac ca saṃyanti graivyā abhi | itas tāḥ sarvā naśyantu vākā apacitām iva ||
+
+**19.5.7**
+
+āvayo anāvayo rasas ta ugra āvayo | ā te karambham adīmahi sa hi na tvam asi yas tvam ātmānam āvayaḥ ||
+
+**19.5.8**
+
+babhruś ca babhrukarṇaś ca nīlākalaśālā | śavaḥpaśya ||
+
+**19.5.9**
+
+tauvilike 'velayā- -avāyam ailava ailayīt | iha svām āhutiṃ juṣāṇo manasā svāhā ||
+
+**19.5.10**
+
+svāhā manasā yad idaṃ kṛṇomi yasyās ta āsañ juhomi ghore | eṣāṃ baddhānām avasarjanāya kam ||
+
+**19.5.11**
+
+bhūmir iti tvābhipramanvate janā nirṛtir iti tvāhaṃ pari veda viśvataḥ | bhūte haviṣmaty asy eṣa te bhagas tena te vidheyaṃ svāhā ||
+
+**19.5.12**
+
+evo ṣv asmat tvaṃ nirṛte viśvavāre ayasmayān pra mumugdhi pāśān | yamena tvaṃ yamyā saṃvidānā yo asmān dveṣṭi yaṃ vayaṃ dviṣmas tasmin tān pāśān prati muñca sarvān ||
+
+**19.5.13**
+
+uttamo asy oṣadhīnāṃ tava vṛkṣā upastayaḥ | upastir asmākaṃ bhūyād yo 'smām̐ abhidāsati ||
+
+**19.5.14**
+
+sabandhuś cāsabandhuś ca yo 'smām̐ abhidāsati | sabandhūn sarvāṃs tīrtvā- -ahaṃ bhūyāsam uttamaḥ ||
+
+**19.5.15**
+
+yathā soma oṣadhīnām uttamaṃ havir ucyate | evā tvam iva vṛkṣāṇām ahaṃ bhūyāsam uttamaḥ ||
+
+**19.6.2**
+
+indrasya vacasā vayaṃ mitrasya varuṇasya ca | devānāṃ sarveṣāṃ vācā yakṣmaṃ te vārayāmahe ||
+
+**19.6.3**
+
+yathā vṛtra imā āpas tastambha viśvadhā yatīḥ | evā te agninā yakṣmaṃ vaiśvānareṇa vāraye ||
+
+**19.6.4**
+
+dhruvaṃ dhruveṇa haviṣā- -abhi somaṃ mṛśāmasi | atrā ta indraḥ kevalīr viśo balihṛtas karat ||
+
+**19.6.5**
+
+ā tvāhārṣam antar abhūr dhruvas tiṣṭhāvicācalat | viśas tvā sarvā ā yantu mā tvad rāṣṭram adhi bhraśat ||
+
+**19.6.6**
+
+ihaivaidhi māpa cyoṣṭhāḥ parvata ivāvicācalat | indreha dhruvas tiṣṭha- -iha rāṣṭraṃ ni dhāraya ||
+
+**19.6.7**
+
+indra etam adīdharad dhruvaṃ dhruveṇa haviṣā | tasmai somo adhi bruvad ayaṃ ca brahmaṇaspatiḥ ||
+
+**19.6.8**
+
+dhruvaṃ te devaḥ savitā dhruvaṃ devo bṛhaspatiḥ | dhruvaṃ ta indraś cāgniś ca rāṣṭraṃ dhārayatāṃ dhruvam ||
+
+**19.6.9**
+
+dhruvā dyaur dhruvā pṛthivī samudrāḥ parvatā dhruvāḥ | dhruvā ha dharmaṇā dhruvā dhruvo rājā viśām ayam ||
+
+**19.6.10**
+
+vṛṣendrasya vṛṣā divo vṛṣā pṛthivyā ayam | vṛṣā viśvasya bhūtasya tvam ekavṛṣo bhava ||
+
+**19.6.11**
+
+samudra īśe sravatām agniḥ pṛthivyā vaśī | sūryo nakṣatrāṇām īśe tvam (…) ||
+
+**19.6.12**
+
+samrāḍ asy asurāṇāṃ kakun manuṣyāṇām | devānām ardhabhāg asi tvam ekavṛṣo bhava ||
+
+**19.6.13**
+
+pari vartmāny eṣām indraḥ pūṣā ca sasratuḥ | muhyantv adyāmūḥ senā amitrāṇāṃ parastarām ||
+
+**19.6.14**
+
+mugdhā amitrāś caranta- -aśīrṣāṇa ivāhayaḥ | athaiṣām agniruddhānām indro hantu varaṃ-varam ||
+
+**19.6.15**
+
+aiṣu nahya vṛṣājinaṃ hariṇasya bhiyaṃ kṛdhi | parāṅ amitra eṣatv arvācī gaur upeṣatu ||
+
+**19.7.1**
+
+saṃsam id yuvase vṛṣann agne viśvāny arya ā | iḍas pade sam idhyase sa no vasūny ā bhara ||
+
+**19.7.2**
+
+saṃ jānīdhvaṃ saṃ pṛcyadhvaṃ saṃ vo manāṃsi jānatām | devā bhāgaṃ yathā pūrve saṃjānānā upāsate ||
+
+**19.7.3**
+
+samāno mantraḥ samitiḥ samānī samānaṃ cittaṃ saha vo manāṃsi | samānena vo haviṣā juhomi yathā saṃmanaso 'satha ||
+
+**19.7.4**
+
+ut sūryo diva eti puro viśvāni yo 'ruhat | ādityaḥ parvatāṅ ati viśvadṛṣṭo adṛṣṭahā ||
+
+**19.7.5**
+
+āyurvidaṃ vipaścitaṃ śrutāṃ kaṇvasya vīrudham | āhārṣaṃ viśvabheṣajīm asyādṛṣṭān ni śamaya ||
+
+**19.7.6**
+
+ni gāvo goṣṭhe asadan ni mṛgāso avikṣata | ni ketavo janānāṃ ny adṛṣṭā alipsata ||
+
+**19.7.7**
+
+himavataḥ pra sravatha tāḥ sindhum upa gacchatha | āpo gha mahyaṃ tad devīr dadan hṛddyotabheṣajam ||
+
+**19.7.8**
+
+yad akṣībhyām ādidyota pārṣṇibhyāṃ hṛdayena ca | āpas tat sarvaṃ niṣ karan tvaṣṭā riṣṭam ivānasaḥ ||
+
+**19.7.9**
+
+sindhurājñīḥ sindhupatnīḥ sarvā yā nadya sthana | dattā nas tasya bheṣajaṃ tena vo bhunajāmahai ||
+
+**19.7.10**
+
+punantu mā devajanāḥ punantu manavo dhiyā | punantu viśvā bhūtāni pavamānaḥ punātu mā ||
+
+**19.7.11**
+
+punātu mā pavamānaḥ kratve dakṣāya jīvase | jyok ca sūryāya dṛśe ||
+
+**19.7.12**
+
+ubhābhyāṃ deva savitaḥ pavitreṇa savena ca | asmān punīhi cakṣase ||
+
+**19.7.13**
+
+īrṣyāyā dhrājiṃ prathamām adhamām uttamām uta | manyuṃ hṛdayyaṃ śokaṃ taṃ te nir mantrayāmahe ||
+
+**19.7.14**
+
+etad yat te hṛdi śritaṃ manaskaṃ patayiṣṇukam | tatas ta īrṣyāṃ muñcāmi nir ūṣmāṇaṃ dṛter iva ||
+
+**19.7.15**
+
+yathā bhūmir mṛtamanā mṛtān mṛtamanastarā | yathota mamruṣo mana everṣyor mṛtaṃ manaḥ ||
+
+**19.8.1**
+
+dyauś ca mā pṛthivī ca pracetasau śukro bṛhan dakṣiṇā mā pipartu | anu svadhā cikitāṃ somo agnir vāyur mā yātu savitā bhagaś ca ||
+
+**19.8.2**
+
+punar manaḥ punar āyur na āgan punaś cakṣuḥ punar ākūtir āgan | vaiśvānaro no adabdhas tanūpā antas tiṣṭhāti duritād avadyāt ||
+
+**19.8.3**
+
+saṃ varcasā payasā saṃ tanūbhir aganmahi manasā saṃ śivena | tvaṣṭā sudatro varivaḥ kṛṇotv anūnas tāṣṭu tanvo viriṣṭam ||
+
+**19.8.4**
+
+idaṃ tad yuja uttaraṃ yenendraṃ śumbhāmy aṣṭaye | asya kṣatraṃ śriyaṃ mahīṃ vṛṣṭir iva vardhayā tṛṇam ||
+
+**19.8.5**
+
+asya kṣatram agnīṣomāv asya vardhayataṃ rayim | atho rāṣṭrasyābhīvarge kṛṇutaṃ yuja uttaram ||
+
+**19.8.6**
+
+sabandhuś cāsabandhuś ca yo jāto yaś ca niṣṭiyaḥ | yajamānāya sunvate sarvaṃ taṃ rīradhāsi naḥ ||
+
+**19.8.7**
+
+yaśo bṛhad vardhatām indrajūtaṃ sahasrabhṛṣṭi sukṛtaṃ sahasvat | prasarsrāṇam anu dīrghāya jīvase haviṣmantaṃ vardhaya sarvatātaye ||
+
+**19.8.8**
+
+yaśā indro yaśā agnir yaśāḥ somo ajāyata | yaśā viśvasya bhūtasya- -aham asmi yaśastamaḥ ||
+
+**19.8.9**
+
+vayaṃ te agne yaśaso yaśobhir yaśasvino haviṣainā vidhema | sa no dhehi rāṣṭram indrajūtaṃ tava trātre adhivāke syāma ||
+
+**19.8.10**
+
+ava jyām iva dhanvano manyuṃ tanomi te hṛdaḥ | adhā saṃmanasau bhūtvā sakhikeva sacāvahai ||
+
+**19.8.11**
+
+vi te manyuṃ nayāmasi sakhikeva sacāvahai | adhas te aśmanā manyuṃ guruṇābhi ni dadhmasi ||
+
+**19.8.12**
+
+abhi tiṣṭhāmi te manyuṃ pārṣṇibhyāṃ prapadābhyām | parā te daṇḍyaṃ vadhaṃ parā manyuṃ suvāmi te ||
+
+**19.8.13**
+
+hiraṇyayaḥ panthā āsīd aritrāṇi hiraṇyayā | nāvo hiraṇyayīr āsan yābhiḥ kuṣṭhaṃ nirāvaham ||
+
+**19.8.14**
+
+suparṇasuvane girau jātaṃ himavatas pari | dhanair abhi śrutaṃ yanti kuṣṭhehi takmanāśanaḥ ||
+
+**19.8.15**
+
+yo giriṣu jāyase vīrudhāṃ balavattamaḥ | kuṣṭhehi takmanāśana takmānaṃ nāśayann itaḥ ||
+
+**19.9.1**
+
+idāvatsarāya parivatsarāya saṃvatsarāya kṛṇutā bṛhan namaḥ | teṣāṃ vayaṃ sumatau yajñiyānām api bhadre saumanase syāma ||
+
+**19.9.2**
+
+ye vaḥ panthā bahavo devayānā anu dyāvāpṛthivī saṃcarantī | teṣām ajyāniṃ yatamo na āvahāt tasmai no devāḥ pari dhatta sarve ||
+
+**19.9.3**
+
+śarad dhemantaḥ śiśiro vasanto grīṣmo varṣāḥ suvite no dadhāta | ā no goṣu bhajatauṣadhīṣu nivāta id vaḥ śaraṇe syāma ||
+
+**19.9.4**
+
+vaiśvānaro na ūtaya ā pra yātu parāvataḥ | agnir ukthair no aṃhasaḥ ||
+
+**19.9.5**
+
+vaiśvānaro na ā gamad imaṃ yajñaṃ sajūr upa- | -imāṃ suṣṭutiṃ mama ||
+
+**19.9.6**
+
+vaiśvānaro no aṅgirobhi stomaṃ yajñaṃ ca cākl̥pat | aiṣu dyumnaṃ svar yamat ||
+
+**19.9.7**
+
+ajaiṣaṃ tvā saṃlikhitam ajaiṣam uta saṃrudham | aviṃ vṛko yathā mathad evā mathnāmi te kṛtam ||
+
+**19.9.8**
+
+yathā vṛkṣam aśanir viśvahā hanty aprati | evāham amuṃ kitavam akṣair vadhyāsam aprati ||
+
+**19.9.9**
+
+turāṇām aturāṇāṃ viśāṃ devayatīnām | sam aitu viśvato bhago antarhastaṃ kṛtaṃ mama ||
+
+**19.9.10**
+
+yāvad dyaur yāvat pṛthivī yāvad ābhāti sūryaḥ | tāvat sṛjāmi te viṣaṃ yāvad arṣanti sindhavaḥ ||
+
+**19.9.11**
+
+ucchvasanta ud īrate gāva āvasathād iva | ahīnāṃ paśyatā viṣam apavaktā na vidyate ||
+
+**19.9.12**
+
+ā jaghāna pṛṣaddhanuḥ saṅgathe dhamanīnām | mūrdhānaṃ viṣam āskadya- -aṅgāni vy asisrasat ||
+
+**19.9.13**
+
+mā no devā ahir vadhīt santokān sahapūruṣān | saṃyataṃ na vi ṣparad vyāttaṃ na saṃ yamat ||
+
+**19.9.14**
+
+saṃ te dadhāmi dadbhir dataḥ saṃ te hanvā hanū | saṃ te jihvayā jihvāṃ saṃ ta āsnāha āsyam ||
+
+**19.9.15**
+
+namo 'haye asitāya namas tiraścirājaye | svajāya babhrave namo namo devajanebhyaḥ ||
+
+**19.10.1**
+
+manase cetase dhiya ākūtaya uta cittaye | matyai śrutāya cakṣase vidhema haviṣā vayam ||
+
+**19.10.2**
+
+prāṇāyāpānāya vyānāya bhūriretase | sarasvatyā uruvyace vidhema haviṣā vayam ||
+
+**19.10.3**
+
+mā no hāsiṣur ṛṣayo daivyāsas tanūpāvānaḥ śucayas tapojāḥ | amartyā martyām̐ abhi naḥ sacadhvam āyur naḥ prataraṃ jīvase dhuḥ ||
+
+**19.10.4**
+
+idam id vā u bheṣajam idaṃ rudrasya bheṣajam | yeneṣum ekatejanāṃ śataśalyām apabruvan ||
+
+**19.10.5**
+
+jālāṣenābhi ṣiñcata jālāṣenopa siñcata | jālāṣaṃ bhadraṃ bheṣajaṃ tasya no dhatta jīvase ||
+
+**19.10.6**
+
+śaṃ ca no mayaś ca no mā ca naḥ kiṃ canāmamat | kṣamā rapo viśvaṃ no astu bheṣajam ||
+
+**19.10.7**
+
+yaśasaṃ mendro maghavān kṛṇotu yaśasaṃ somo varuṇo vāyur agniḥ | yaśasaṃ mā devaḥ savitā kṛṇotu priyo dātur dakṣiṇāyāḥ syām aham ||
+
+**19.10.8**
+
+yathendro dyāvāpṛthivyor yaśasvān yathāpa oṣadhīṣu | yathā viśveṣu deveṣv evā deveṣu yaśasaḥ syāma ||
+
+**19.10.9**
+
+accha vayam indraṃ yaśasaṃ yaśobhir yaśasvino haviṣainā vidhema | sa no dadhad rāṣṭram indrajūtaṃ tasya trātre adhivāke syāma ||
+
+**19.10.10**
+
+eha yātu varuṇaḥ somo agnir bṛhaspatir vasubhir eha yātu | asya śriyam abhisaṃyāta sarva ugrasya cettuḥ saṃmanasaḥ sajātāḥ ||
+
+**19.10.11**
+
+eha yāta māpa yātādhy asmat pūṣā vaḥ parastād apathaṃ kṛṇotu | vāstoṣpatir anu vo 'yam ahvan mayi sajātā ramatir vo astu ||
+
+**19.10.12**
+
+yo vaḥ śuṣmo hṛdayeṣv antar yā ākūtir manasi praviṣṭā | tāñ chrevayāmi haviṣā ghṛtena mayi sajātā ramatir vo astu ||
+
+**19.10.13**
+
+mama cittaṃ prayavasanyutetve- -indrāgnyor iva havam eta sarve | bṛhaspatir vo ni yunaktu mahyaṃ mama vācam ekacittāḥ sacadhvam ||
+
+**19.10.14**
+
+ahaṃ gṛhṇāmi manasā manāṃsi mama cittam upa cittebhir eta | mama vaśe hṛdayaṃ vaḥ kṛṇomi mama yātam anuvartmāna eta ||
+
+**19.10.15**
+
+māṃ vaś cakṣur gacchatu māṃ prāṇo dhātā padam anu vartma vaḥ kṛṇotu | ye vo mahānta uta ye kumārā mama yātam anu yātebhir eta ||
+
+**19.11.2**
+
+devebhyo adhi jāto 'si somasya sakhā hitaḥ | sa prāṇāyāpānāya cakṣuse 'sya mṛḍa ||
+
+**19.11.3**
+
+ayasmaye drupade bedhiṣa id abhihito mṛtyubhir ye sahasram | yamo mahyaṃ punar it tvāṃ dadātu tasmai devāya haviṣā vidhema ||
+
+**19.11.4**
+
+yat te devī nirṛtir ābabandha dāma grīvāsv avicṛtyam | tat te vi ṣyāmy āyuṣe balāya- -anamīvaṃ pitum addhi prasūtaḥ ||
+
+**19.11.5**
+
+namo 'stu te nirṛte viśvavāre ayasmayaṃ vi cṛtā bandham etam | yamena tvaṃ pitṛbhiḥ saṃvidāna- -uttame nāke adhi rohayemam ||
+
+**19.11.6**
+
+antardāvāya juhutā sv etad yātudhānakṣayaṇaṃ ghṛtena | ārād rakṣāṃsi prati dahāgne māsmākaṃ tanvam upa tītapanta ||
+
+**19.11.7**
+
+śarvo vo grīvā aśarīt piśācāḥ pṛṣṭīr vo 'pi śṛṇātv agniḥ | vīrud vo viśvadhāvīryā mṛtyunā sam ajīgamat ||
+
+**19.11.8**
+
+apiśācaṃ no adharād apiśācaṃ na uttarāt | indrāpiśācaṃ naḥ paścād apiśācaṃ puras kṛdhi ||
+
+**19.11.9**
+
+indraś cakāra prathamo nairhastam asurebhyaḥ | vṛścāmaḥ śatrūṇāṃ bāhū anena haviṣā vayam ||
+
+**19.11.10**
+
+nirhastaḥ śatrur abhidāsan no astu ye senābhir yudham āyanty asmān | sam arpayendra mahatā vadhena drātv eṣām aghahāro vividdhaḥ ||
+
+**19.11.11**
+
+ava manyur avāyatā- -ava bāhū manoyujā | parāśara tvaṃ teṣāṃ parāñcaṃ śuṣmam ardayārvācīṃ rayim ā kṛdhi ||
+
+**19.11.12**
+
+ātanvānā āyacchanto 'syanto ye ca dhāvatha | nirhastāḥ śatrava sthana- -indro vo 'dya parāśarīt ||
+
+**19.11.13**
+
+nirhastāḥ santu śatravo 'ṅgaiṣāṃ mlāpayāmasi | yathaiṣām indra vedāṃsi yūtheṣu vi bhajāmahai ||
+
+**19.11.14**
+
+nirhastebhyo nairhastaṃ yaṃ devāḥ śarum asyatha | jayantu satvāno mama sthireṇendreṇa medinā ||
+
+**19.12.1**
+
+śamīm aśvattha ārūḍhas tatra puṃsavanaṃ kṛtam | tad eva tasya bheṣajaṃ yat strīṣv ā haranti tat ||
+
+**19.12.2**
+
+puṃsi vai reto bhavati tat striyām anu ṣicyate | tad vai putrasya vedanaṃ tat prajāpatir abravīt ||
+
+**19.12.3**
+
+prajāpatir anv amaṃsta sinīvāly acīkl̥pat | straiṣūyam anyatra dadhat pumāṃsam u dadhad iha ||
+
+**19.12.4**
+
+yā oṣadhayaḥ somarājñīr ity ekā
+
+**19.12.5**
+
+muñcantu mā śapathyād atho varuṇyād uta | atho yamasya paḍbīśād viśvasmād devaduṣkṛtāt ||
+
+**19.12.6**
+
+yac cakṣuṣā yan manasā yac ca vācopārima yaj jāgrato yat svapantaḥ | somo mā tasmād enasaḥ svadhayā punātu vidvān ||
+
+**19.12.7**
+
+abhibhūr yajño abhibhūr agnir astv abhibhūḥ somo abhibhūr indro astu | abhy ayaṃ viśvāḥ pṛtanā yathāsad evā vidhemāgnihotrā idaṃ haviḥ ||
+
+**19.12.8**
+
+svadhāstu mitrāvaruṇā prajāvat kṣatraṃ madhveha pinvatam | bādhethāṃ dveṣo nirṛtiṃ parācair asmai kṣatraṃ varca ā dhattam ojaḥ ||
+
+**19.12.9**
+
+imaṃ vīram ity ekā ||
+
+**19.12.10**
+
+agner iva prasitir asya śuṣmiṇa uteva matto vilapann apāyati | tasmai te aruṇāya babhrave tapurmaghāya namo 'stu takmane ||
+
+**19.12.11**
+
+namo yamāya namo 'stu mṛtyave namo rājñe varuṇāya tviṣīmate | namaḥ kṣetrasya pataye namo dive namaḥ pṛthivyai nama oṣadhībhyaḥ ||
+
+**19.12.12**
+
+ayaṃ yo janān haritān kṛṇoty ucchocayann agninevābhidunvan | adhā hi takmann araso hi bhūyā athā nyaṅ adharaṅ vā parehi ||
+
+**19.12.13**
+
+indro jayāti na parā jayātā adhirājo rājasu rājayātai | carkṛtya īḍyaḥ śaṃsyaś ca- -upasadyo namasyo bhaveha ||
+
+**19.12.14**
+
+tvam indrādhirājaḥ śravasyus tvaṃ bhavābhibhūtir janānām | tvaṃ daivīr viśa imā vi rāja- -āyuṣmat kṣatram ajaraṃ te astu ||
+
+**19.12.15**
+
+prācyāṃ diśi tvam indrādhirājā- -odīcyāṃ diśi vṛtrahan dasyuhāsi | yatra yanti śrotyās taj jitaṃ te dakṣiṇato vṛṣabho 'si havyaḥ ||
+
+**19.13.1**
+
+abhi tvendro varimataḥ purā tvāṃhūraṇebhyaḥ | hvayāmy ugraṃ cettaraṃ puruṇāmānam ekajam ||
+
+**19.13.2**
+
+yo adya senyo vadho jighāṃsan na udīrate | indrasya tatra bāhū samantaṃ pari dadhmahe ||
+
+**19.13.3**
+
+pari dadhma indrasya bāhū samantaṃ trātus trāyatāṃ naḥ | deva savitaḥ soma rājan sumanasaṃ mā kṛṇutaṃ svastaye ||
+
+**19.13.4**
+
+devā aduḥ sūryo adād dyaur adāt pṛthivy adāt | sarvāḥ sarasvatīr aduḥ sacittā viṣadūṣaṇam ||
+
+**19.13.5**
+
+yad vo devā upajīkā āsiñcan dhanvany udakam | tena devaprasūtā idaṃ dūṣayatā viṣam ||
+
+**19.13.6**
+
+asurāṇām asi duhitā devānām asi svasā | divas pṛthivyā jajñiṣe sā cakarthārasaṃ viṣam ||
+
+**19.13.7**
+
+asthisraṃsaṃ parusraṃsam āsthitaṃ hṛdayāmayam | balāsaṃ sarvaṃ niṣ kṛdhy aṅgeṣṭhā yaś ca parvasu ||
+
+**19.13.8**
+
+nir balāsaṃ balāsinaḥ kṣiṇomi puṣkaraṃ yathā | chinadmy asya bandhanaṃ mūlam urvārvo yathā ||
+
+**19.13.9**
+
+nir balāsetaḥ pra pata suparṇo vasater iva | adheṭa iva hāyano 'pa drāhy avīrahā ||
+
+**19.13.10**
+
+ā vṛṣāyasva śvasihi vardhasva prathayasva ca | yathāṅgaṃ vardhatāṃ te śepas tena yoṣitam uj jahi ||
+
+**19.13.11**
+
+yenā kṛśaṃ medayanti yena hinvanty āturam | tenāsya brahmaṇaspate dhanur ivā tānayā pasaḥ ||
+
+**19.13.12**
+
+āhaṃ tanomi te paso adhi jyām iva dhanvani | kramasva riśya iva rohitam anavaglāyatā tvam ||
+
+**19.13.13**
+
+devāḥ kapota iṣito yad icchan dūto nirṛtyā idam ājagāma | tasmā arcāma kṛṇavāma niṣkṛtiṃ śaṃ no astu dvipade catuṣpade ||
+
+**19.13.14**
+
+śivaḥ kapota iṣito no astv anāgā devāḥ śakuno gṛhe naḥ | agnir hi vipro juṣatāṃ havir naḥ pari hetiḥ pakṣiṇī no vṛṇaktu ||
+
+**19.13.15**
+
+hetiḥ pakṣiṇī na dabhāty asmān āṣṭrī padaṃ kṛṇute agnidhāne | śaṃ no gobhya uta puruṣebhyo mā no devā iha hiṃsīt kapotaḥ ||
+
+**19.13.16**
+
+iṣaṃ madantaḥ pari gāṃ nayāmaḥ saṃyopayanto duritā padāni | ṛcā kapotaṃ nudata praṇodaṃ hitvā na ūrjaṃ pra patāt patiṣṭhaḥ ||
+
+**19.13.17**
+
+nude tvā pra ṇude tvā kapota rakṣasā saha | yato na punar āyasi tatra tvā gamayāmasi ||
+
+**19.14.1**
+
+yathāyaṃ vāho aśvinā samaiti saṃ ca vartate | evā mām abhi te manaḥ samaitu saṃ ca vartatām ||
+
+**19.14.2**
+
+ahaṃ khidāmi te mano rājāśvaḥ pṛṣṭyām iva | reṣmacchinnaṃ yathā tṛṇaṃ mayi te veṣṭatāṃ manaḥ ||
+
+**19.14.3**
+
+āñjanasya madhughasya kuṣṭhasya naladasya ca | turo bhagasya hastābhyām anurodhanam ā bhare ||
+
+**19.14.4**
+
+ayam ā yāty aryamā purastād viṣitastukaḥ | sa icchād agruvai patim atho jāyām ajānaye ||
+
+**19.14.5**
+
+aśramad iyam aryamann anyāsāṃ samanaṃ yatī | aṅgo nv asyā aryamann anyā samanam āyati ||
+
+**19.14.6**
+
+dhātā dādhāra pṛthivīṃ dhātā dyām uta sūryam | dhātāsyā agruvai patiṃ dadhātu pratikāmyam ||
+
+**19.14.7**
+
+mahyam āpo madhumad erayanta mahyaṃ sūryo abharaj jyotiṣā kam | mahyaṃ devā uta viśve tapojā mahyaṃ devaḥ savitā vyaco dhāt ||
+
+**19.14.8**
+
+ahaṃ dādhāra pṛthivīm uta dyām ahaṃ sindhūn ajanaṃ sapta sākam | ahaṃ satyam anṛtaṃ yad vadāmy ahaṃ vācaṃ pari sarvām iṣiṃ ca ||
+
+**19.14.9**
+
+ahaṃ vivyajmi pṛthivīm uta dyām aham ṛtūn asṛje sapta sākam | ahaṃ vācaṃ pari sarvāṃ babhūva yo agnīṣomāv ajuṣe sakhāyau ||
+
+**19.14.10**
+
+anaḍudbhyo naḥ prathamaṃ dhenubhyas tvam arundhati | adhenave vayase śarma yaccha catuṣpade ||
+
+**19.14.11**
+
+śarma yacchāty oṣadhiḥ saha devair arundhatī | karat payasvantaṃ goṣṭham ayakṣmām̐ uta pūruṣān ||
+
+**19.14.12**
+
+viśvarūpāṃ subhagām acchā vadāmi jīvalām | sā no rudrasyāstāṃ hetiṃ dūraṃ nayatu gobhyaḥ ||
+
+**19.14.13**
+
+yamo mṛtyur aghamāro nirṛtho bhavaḥ śarvo astā nīlaśikhaṇḍī | devajanāḥ senām uttasthivāṃsas te asmākaṃ pari vṛñjantu vīrān ||
+
+**19.14.14**
+
+manasā homair harasā ghṛtena śarvāyāstra uta rājñe bhavāya | namasyebhyo nama ebhyaḥ kṛṇomy anyatrāsmad aghaviṣā nayantu ||
+
+**19.14.15**
+
+trāyadhvaṃ no aghaviṣābhyo vadhād agnīṣomā marutaḥ pūtadakṣāḥ | viśve devā maruto vaiśvadevā vātāparjanyayoḥ sumatau syāma ||
+
+**19.15.1**
+
+saṃ jānatāṃ manasā saṃ cikitvā mā yutsata manyunā daivyena | mā ghoṣa utthād bahule vinirhate meṣuḥ paptad indrasyāhany āgate ||
+
+**19.15.2**
+
+saṃ vo manāṃsi saṃ vratā sam ākūtīr nayāmasi | ime ye vivratā stha tān vaḥ saṃ jñapayāmasi ||
+
+**19.15.3**
+
+saṃjñapanaṃ vo manaso atho saṃ jñapanaṃ hṛdaḥ | atho bhagasya yac chrāntaṃ tena saṃ jñapayāti vaḥ ||
+
+**19.15.4**
+
+saṃ vaḥ pṛcyantāṃ tanvaḥ saṃ manāṃsi sam u tvacaḥ | saṃ vo brahmaṇaspatiḥ somaḥ saṃ jñapayāti vaḥ ||
+
+**19.15.5**
+
+saṃjñānaṃ naḥ svebhyaḥ saṃjñānam araṇebhyaḥ | saṃjñānam aśvinā yuvam ihāsmāsu ni yacchatam ||
+
+**19.15.6**
+
+yathādityā vasavaḥ saṃbabhūvur marudbhir ugrā ahṛṇīyamānāḥ | evā triṇāmann ahṛṇīyamāna imaṃ janaṃ saṃmanasaṃ kṛṇu tvam ||
+
+**19.15.7**
+
+nir amun nuda okasaḥ sapatno yaḥ pṛtanyati | nirbādhyena haviṣā- -indra enaṃ parāśarīt ||
+
+**19.15.8**
+
+ihi tisraḥ parāvata ihi pañca janām̐ ati | ihi saptāti rocanā yāvat sūryo asad divi ||
+
+**19.15.9**
+
+paramāṃ tvā parāvatam indro devo ajīgamat | yathā na punar āyasi śaśvatībhyaḥ samābhyaḥ ||
+
+**19.15.10**
+
+pratīcīnaphalo hi tvam apāmārga babhūvitha | sarvān mac chapathām̐ adhi varīyo yāvayā tvam ||
+
+**19.15.11**
+
+yac ca bhrātṛvyaḥ śapati yac ca jāmiḥ śapāti naḥ | brahmā yan manyutaḥ śapāt sarvaṃ tan no adhaspadam ||
+
+**19.15.12**
+
+aghadviṣṭā devajūtā vīruc chapathayāvanī | udnā malam ivāvānaik sarvān mac chapathām̐ adhi ||
+
+**19.15.13**
+
+yad enaṃ pariṣīdanti samādadhati cakṣase | saṃpreddho agnir jihvābhir ud eti hṛdayād adhi ||
+
+**19.15.14**
+
+agneḥ sāntapanasyāham āyuṣe padam ā rabhe | addhātir yasya paśyati dhūmam udyantam āsyataḥ ||
+
+**19.15.15**
+
+yo asya samidhaṃ veda kṣatriyeṇa samāhitām | nābhihvāre padaṃ ni dadhāti sa mṛtyave ||
+
+**19.15.16**
+
+nainaṃ ghnanti paryāyiṇo na sannām̐ ava gacchati | agner yaḥ kṣatriyo vidvān nāma gṛhṇāty āyuṣe ||
+
+**19.16.1**
+
+asthād dyaur asthāt pṛthivy asthād viśvam idaṃ jagat | tiṣṭhanti parvatā ime sthāmann aśvā araṃsata ||
+
+**19.16.2**
+
+ya udānaḍ vyāyane ya udānaṭ parāyaṇe | āvartanaṃ nivartanaṃ yo gopā api taṃ huve ||
+
+**19.16.3**
+
+āvṛto nyāvṛto 'bhyavartanam āyanam | agneś catasra āvṛtas tābhiṣ ṭvā tarpayāmasi ||
+
+**19.16.4**
+
+jātavedo ni vartaya śataṃ te santv āvṛtaḥ sahasraṃ ta upāvṛtaḥ | tābhir enaṃ ni vartaya ||
+
+**19.16.5**
+
+adārasṛd bhavatu deva soma- -asmin yajñe maruto mṛḍatā naḥ | mā no vidad abhibhā mo aśastir mā naḥ prāpad ducchunā dveṣyā yā ||
+
+**19.16.6**
+
+yo adya daivyo vadho jighāṃsan na upāyati | yuvaṃ taṃ mitrāvaruṇav asmad yāvayataṃ pari ||
+
+**19.16.7**
+
+itaś cāmutaś cāghaṃ varuṇa yāvaya | vi mahac charma yaccha varīyo yāvayā vadham ||
+
+**19.16.8**
+
+apendra prāco maghavann amitrān apāpāco abhibhūte nudasva | apodīco apa śūrādharāca urau yathā tava śarman madema ||
+
+**19.16.9**
+
+tena bhūtasya haviṣā punar ā pyāyatām ayam | jāyāṃ yām asmā avidaṃ sā rasenābhi vardhatām ||
+
+**19.16.10**
+
+abhi vardhatāṃ prajayā- -abhi rāṣṭreṇa vardhatām | īṣā sahasravīryāv imau stām anupakṣitau ||
+
+**19.16.11**
+
+tvaṣṭā jāyām ajanayat tvaṣṭāsyai tvāṃ patiṃ dadhau | tvaṣṭā sahasram āyūṃṣi dīrgham āyuḥ kṛṇotu vām ||
+
+**19.16.12**
+
+antarikṣeṇa patati viśvā bhūtāvacākaśat | śuno divyasyaitan mahas tasmā etena haviṣā juhomi ||
+
+**19.16.13**
+
+apsu te janma divi te sadhasthaṃ samudra ātmā mahimā te pṛthivyām | śuno divyasyaitan mahas tasmā etena haviṣā juhomi ||
+
+**19.16.14**
+
+ye trayaḥ kālakāñjā divi devā iva śritāḥ | tān sarvān ahva ūtaye 'smā ariṣṭatātaye ||
+
+**19.16.15**
+
+yaḥ puruṣaṃ hūrcchayasi śvā divyo avīrahā | taṃ tvāhaṃ brahmaṇā nude puruṣaṃ mā parā vadhīḥ ||
+
+**19.16.16**
+
+yaḥ piśaṅgo ayodaṃṣṭraḥ śvā divyaḥ pariplavaḥ | tasyāhaṃ nāma jagrabha- -asmā ariṣṭatātaye ayaṃ no jīvatād iti ||
+
+**19.16.17**
+
+ayaṃ no nabhasas patiḥ saṃsphāno abhi rakṣatu | asamātiṃ gṛheṣu naḥ ||
+
+**19.16.18**
+
+tvaṃ no nabhasas patir ūrjaṃ gṛheṣu dhāraya | ā puṣṭam etv ā vasu ||
+
+**19.16.19**
+
+deva saṃsphāna sahasrāpoṣasyeśiṣe | tasya no dhehi tasya te bhakṣīmahi tasya te bhaktivāṃso bhūyāsma svāhā ||
+
+**19.17.1**
+
+yantāsi yacchase hastam apa rakṣāṃsi sedhasi | prajāṃ dhanaṃ ca gṛhṇānaḥ parihasto abhūd ayam ||
+
+**19.17.2**
+
+parihasta vi dhāraya yoniṃ garbhāya kartave | maryāde putram ā dhehi taṃ tvam ā gamayāgama ||
+
+**19.17.3**
+
+yaṃ parihastam abibhar aditiḥ putrakāmyā | tvaṣṭā tam asyā ā badhnād yathā putraṃ suvād iti ||
+
+**19.17.4**
+
+āgacchata āgatasya nāma gṛhṇāmy āyataḥ | indrasya vṛtraghno rājño vāsavasya śatakratoḥ ||
+
+**19.17.5**
+
+yena sūryāṃ sāvitrīm aśvinohatuḥ pathā | tena sam abravīd bhago jāyām ā vahatād iti ||
+
+**19.17.6**
+
+yas te aṅkuśo vasudāno bṛhann indra hiraṇyayaḥ | tenā janīyate jāyāṃ tvaṃ dhehi śatakrato ||
+
+**19.17.7**
+
+tvaṃ no medhe prathamā gobhir aśvebhir ā gahi | tvaṃ sūryasya raśmiṣu tvaṃ no asi yajñiyā ||
+
+**19.17.8**
+
+medhām ahaṃ prathamāṃ brahmaṇvatīm ṛṣiṣṭutām | prapītāṃ brahmacāribhir | devānām avasā vṛṇe ||
+
+**19.17.9**
+
+medhāṃ sāyaṃ medhāṃ prātar medhāṃ madhyandinaṃ pari | medhāṃ sūryeṇodyatā- -udīrāṇā u tuṣṭuma ||
+
+**19.17.10**
+
+pārthivasya rase devā bhagasya tanvo bale | āyur asmai somo varca ā dhād bṛhaspatiḥ ||
+
+**19.17.11**
+
+āyur asmai dhehi jātavedaḥ prajāṃ tvaṣṭar adhinidhehy ojaḥ | rāyaspoṣaṃ savitar ā suvāsmai śataṃ jīvāti śaradas tavāyam ||
+
+**19.17.12**
+
+āśīr ṇa ūrjam uta suprajāstvaṃ dakṣaṃ dadhātu draviṇaṃ suvarcasam | saṃjayan kṣetrāṇi sahasāham indra kṛṇvāno anyān adharān sapatnān ||
+
+**19.17.13**
+
+āyam agan savitā kṣureṇa- -uṣṇena vāya udakenehi | ādityā rudrā vasavaḥ sacetasaḥ somasya rājño 'vapan pracetasaḥ ||
+
+**19.17.14**
+
+yenāvapat savitā kṣureṇa somasya rājño varuṇasya vidvān | tena brahmāṇo vapatedam asya- -asrāmo dīrghāyur ayam astu vīraḥ ||
+
+**19.17.15**
+
+aditiḥ śmaśru vapatv āpa undantu varcasā | dhārayatu prajāpatiḥ punaḥpunaḥ suvaptave ||
+
+**19.18.1**
+
+yās te hirā dhamanayo 'ṅgāny anu viṣṭhitāḥ | tāsāṃ te sarvāsāṃ sākaṃ nir viṣāṇi hvayāmasi ||
+
+**19.18.2**
+
+yāṃ te rudra iṣum āsthad aṅgebhyo hṛdayāya ca | imāṃ tām adya te vayaṃ viṣūcīṃ vi vṛhāmasi ||
+
+**19.18.3**
+
+namas te rudrāsyate namaḥ pratihitābhyaḥ | namo visṛjyamānābhyo namas ta āyatābhyaḥ ||
+
+**19.18.4**
+
+avācīḥ pari mūrdhno yās te dhamanayaḥ śatam | tās te pra bhidyantāṃ pṛthag anu tyaṃ lohitāvaṭam ||
+
+**19.18.5**
+
+syandantāṃ rodanāvatīr anu tyaṃ lohitāvaṭam | yathāsyām antar na raṃsantām anukūlam ivodakam ||
+
+**19.18.6**
+
+pratīcīnaḥ sūrya etu pratīcīḥ sravataḥ kṛtāḥ | avācīs te asnaḥ kulyā iyaṃ tṛṇattv oṣadhīḥ ||
+
+**19.18.7**
+
+imaṃ yavam aṣṭāyogaiḥ ṣaḍyogebhir acarkṛṣuḥ | sa ghā te tanvo rapaḥ pratīcīnam apa vyayat ||
+
+**19.18.8**
+
+nyag vāto vāti nyak tapati sūryaḥ | nīcīnam aghnyā duhe nyag bhavatu te rapaḥ ||
+
+**19.18.9**
+
+āpa id vā u bheṣajīr āpo amīvacātanīḥ | āpaḥ samudrārthā yatīḥ parā vahantu te rapaḥ ||
+
+**19.18.10**
+
+amī ye yudham āyanti ketūn kṛtvānīkaśaḥ | indras tān pary ahār dāmnā tān agne sandyā tvam ||
+
+**19.18.11**
+
+yāvatīḥ sica āyanty anīkāni yati ṣṭan | indras tān pary ahār dāmnā tān agne sandyā tvam ||
+
+**19.18.12**
+
+saṃ paramān sam avamān atho sandyāni madhyamān | indras tān pary ahār dāmnā tān agne sandyā tvam ||
+
+**19.18.13**
+
+sandānaṃ vo bṛhaspatiḥ sandānaṃ savitā karat | sandānam indraś cāgniś ca sandānaṃ bhago aśvinā ||
+
+**19.18.14**
+
+yās te ruco deva sūrya- -udyato divy ātatāḥ | tābhir mām adya sarvābhis tā manuṣyebhyo ruce kṛṇu ||
+
+**19.18.15**
+
+ruce mā dhehi brahmasu ruce rājasu dhehi mā | ruce viśyeṣu śūdreṣu mayi dhehi ruce rucim ||
+
+**19.18.16**
+
+yā ruco hiraṇye yā agnau yāś ca sūrye | indrāgnī mayi tā ruco ruco dhehi bṛhaspate ||
+
+**19.19.1**
+
+ava mā pāpman sṛja vaśī san mṛḍayāsi naḥ | ā mā bhadreṣu dhāmasu tvaṃ dhehy avihrutam ||
+
+**19.19.2**
+
+yo mā pāpman na jahāsi tam u tvā jahimo vayam | anyatrāsman ny ucya sahasrākṣāmartya ||
+
+**19.19.3**
+
+pathor vayaṃ vyāvartane niṣpāpmānaṃ suvāmasi | yo no dveṣṭi taṃ gaccha yaṃ dviṣmas taṃ jahi ||
+
+**19.19.4**
+
+śava ivāsi saṃnaddho na bhogam avidaṃ tvayi | śiro bhinadmi te pāpman yathā na punar āyasi ||
+
+**19.19.5**
+
+indro asmān divā pātu mṛtyoḥ pāśāt svastaye | dyaur no madhyataḥ pātu bhūmī rājñī svastaye ||
+
+**19.19.6**
+
+sūryo asmān divā pātu mṛtyoḥ pāśāt svastaye | vāto no madhyataḥ pātv ahorātrī svastaye ||
+
+**19.19.7**
+
+somo asmān divā pātu mṛtyoḥ pāśāt svastaye | āpo no madhyataḥ pāntu mā no nirṛtir īśata ||
+
+**19.19.8**
+
+saṃ vāṃ cakṣuḥ saṃ hṛdayaṃ manasāvīvanaṃ manaḥ | asyāḥ sarūpavatsāyā ghṛte homena sarpiṣā ||
+
+**19.19.9**
+
+yat kakṣīvān saṃvananaṃ putro aṅgirasām avet | tena vām adya devāḥ saṃ priyā sam avīvanan ||
+
+**19.19.10**
+
+saṃvananaṃ vāṃ manaso atho saṃvananaṃ hṛdaḥ | atho bhagasya yac chrāntaṃ tena saṃ vānayāmi vām ||
+
+**19.19.11**
+
+ahaṃ te manasā manaś cakṣur gṛhṇāmi cakṣuṣā | evā pari ṣvajasva mā yathāsan mayi te manaḥ ||
+
+**19.19.12**
+
+ā rathasyeva cakre abhi mā vartatām asau | reṣmacchinnaṃ yathā tṛṇaṃ veṣṭāsau manasā mayi ||
+
+**19.19.13**
+
+pari tvā yātur asaraṃ pari mātuḥ pari svasuḥ | pari tvānyābhya strībhyo 'nayauṣadhyāsaram ||
+
+**19.19.14**
+
+ya indrasya sabhādhāno yasmin samitim āsate | hiraṇyaṃ yasya parṇāni tasmā aśvattha te namaḥ ||
+
+**19.19.15**
+
+yaḥ śākhābhir antarikṣam ā pūrayati niṣṭhayā | chandāṃsi yasya parṇāni tasmā aśvattha te namaḥ ||
+
+**19.19.16**
+
+yaṃ mṛgo na samāpnoti pakṣābhyāṃ śakuniṣ patan | divaṃ yaḥ sarvāṃ stabhnāti tasmā aśvattha te namaḥ ||
+
+**19.20.1**
+
+jyeṣṭhaghnyāṃ jāto vicṛtor yamasya māyaṃ hiṃsīḥ pitarau vardhamānaḥ | syonau vyāghrā uta te śivau stām ati neṣaṃ duritāni viśvā ||
+
+**19.20.2**
+
+vyāghre ahny ajaniṣṭa vīro nakṣatrajāḥ sarvavīraḥ suvīraḥ | sa mā hiṃsīḥ pitarau vardhamānas tasya te devāḥ prati gṛhṇantu homam ||
+
+**19.20.3**
+
+yā rohiṇīr devapatyā pra dhenur iva pinvate | tatra tisro vyaṣṭakāḥ sarvām̐ adhi bruvantu prajāyai jagate ca vām ||
+
+**19.20.4**
+
+yad ārdrābhyām araṇibhyāṃ devāḥ śakrā amanthaṃ puruṣeṇa puruṣam | atrāpuṣyataṃ mithunā sayonī jīvāṃ prajāṃ jaradaṣṭiṃ sutejasā ||
+
+**19.20.5**
+
+hataṃ pataṅgam uta tardam ākhum aśvinā bhintaṃ śiro mṛṇataṃ hanū dataḥ | yathā naḥ sasyaṃ na ghasaṃ vyadvarā evābhayaṃ kṛṇutaṃ dhānyāya naḥ ||
+
+**19.20.6**
+
+tarda hai pataṅga hai jabhya hā upakvasa | anadanta idaṃ dhānyam ahiṃsanto apodita ||
+
+**19.20.7**
+
+tardapate vaghāpate tṛṣṭadaṃśmā śṛṇota naḥ | hotrevāprāśitaṃ havir vṛkṇajihvā upādhvam ||
+
+**19.20.8**
+
+tarda jabhyāpijihvayā ya imaṃ divyaṃ pīyūṣaṃ prathamas titṛpsāt | taṃ pratyañcam arciṣā vidhya marman ||
+
+**19.20.9**
+
+ye abhrajā ye vātajā ye divas pari jajñire | marīcyāḥ putrāṇāṃ vayam api nahyāma āsyam ||
+
+**19.20.10**
+
+ye arjunā ye haritā ye kṛṣṇā ye ca rohitāḥ | kabandhasya praśāsane śalabhyāñ jambhayāmasi ||
+
+**19.20.11**
+
+antarikṣeṇa patata mā sasyam abhi paddhvam | girīṇāṃ sānuṣu sīdata tṛṇaṃ kapālam attana śalabhās tad viśām iva ||
+
+**19.20.12**
+
+yathāśvāso yathā dhuraṃ yuktā vahanti sādhuyā | evā mūtra pra bhidyasva vi vaster āsyaṃ sṛja ||
+
+**19.20.13**
+
+viṣitaṃ te vastibilaṃ samudrasyodadher iva | pra te bhinadmi mehanaṃ vartraṃ veśantyā iva ||
+
+**19.20.14**
+
+yāḥ samudrād uccaranti jaratīr upajihvikāḥ | pramehaṇasya tā vidur ubhayor mehanasya ca ||
+
+**19.20.15**
+
+śīrṣṇo valīr āsno valīr aṅgādaṅgān mukhād valīḥ | sarvās tā indrāṇī valīr apa mārṣṭv adhi tvacaḥ ||
+
+**19.20.16**
+
+yās tvaci valayo jātā yā jātās tanvas pari | sarvās tā indrāṇī valīḥ śamīśākhāsv ā sajāt ||
+
+**19.20.17**
+
+ā śamīṃ māmakī valī rurohāti jahāti mām | etām indrasya jāyā validhānīm akṛṇvata ||
+
+**19.21.1**
+
+yathā sūryo nakṣatrāṇāṃ varcāṃsi yuvate divaḥ | evā sapatnānām ahaṃ varca indriyam ā dade ||
+
+**19.21.2**
+
+yac ca varcaḥ sapatnānāṃ bhrātṛvyeṣu ca yad yaśaḥ | tad indro vṛtrahā dhātā savitā dīdharan mayi ||
+
+**19.21.3**
+
+yāś ca gāvaḥ sapatnānāṃ bhrātṛvyeṣu ca yad vasu | tan nir jyeyam iva jītvā savitā dīdharan mayi ||
+
+**19.21.4**
+
+satyam eva jayatu nānṛtaṃ satyasya panthā ṛjur astu sādhuḥ | satyaṃ vadantaḥ samidhe vidhema satyena dyāvāpṛthivī aprathetām ||
+
+**19.21.5**
+
+vāgbhāgasya ca satyena rudrasya sumanasyayā | indreṇādhibruvatā vayaṃ viśaṃ prāśi videmahi ||
+
+**19.21.6**
+
+yā te rudreṣur āyatā vāci vā te araṃkṛtā | yenedaṃ vivadāmahe tasya prāśaṃ tvaṃ jahi ||
+
+**19.21.7**
+
+jahi tvaṃ tasya prāśam uta satyām utānṛtām | yo asmān indra vṛtrahan vācā prāśaṃ jigīṣati ||
+
+**19.21.8**
+
+ut pramut prāṇa bahvīha sīdedaṃ pṛṇa | utodiva sma siñcatāt samudrasyeva madhyataḥ ||
+
+**19.21.9**
+
+samudraś ca śatadhāraḥ sahasradhāro akṣitaḥ | purastād indra ācarat pūrṇagoṣṭha idaṃ pṛṇa ||
+
+**19.21.10**
+
+ihopa pṛṇa saṃ pṛṇa vṛṣa prajananāḥ kṛdhi | iha gāvaḥ pra jāyadhvam ihāśvā iha pūruṣāḥ | iho sahasradakṣiṇo abhi prāśā ni ṣīdatu ||
+
+**19.21.11**
+
+jyeṣṭhaghnyai nakṣatrāṇām ahne rātryā idaṃ namaḥ | juhomi viśvakarmaṇe sa śivo mṛḍayāti naḥ ||
+
+**19.21.12**
+
+mā jyeṣṭhaṃ vadhīd ayam agna eṣāṃ mūlabarhaṇaṃ pari vṛṇakty enam | grāhyāḥ pāśān vi cṛta prajānan pitāputrau mātaraṃ muñca sarvān ||
+
+**19.21.13**
+
+un muñca pāśāṃs tvam agna eṣāṃ trayas tribhir utthitā yebhir āsan | māyaṃ hiṃsīḥ pitaraṃ vardhamāno mā mātaraṃ pra minīr yā janitrī ||
+
+**19.21.14**
+
+grāhyāḥ pāśān vi cṛta ye sinanti yāṃ brahmaṇā parivṛñjanti vedhasaḥ | un muñca pāśāṃs tvam agna eṣāṃ tvajjātasyānv ahar-ahar astu bhadram ||
+
+**19.21.15**
+
+ni vartadhvaṃ mānu gāta- -asmān siṣakta revatīḥ | agnīṣomā punarvasū asya vardhayataṃ rayim ||
+
+**19.21.16**
+
+punar enā ni vartaya punar enā upā kuru | indra enā ni yacchatv agnir enā upājatu ||
+
+**19.21.17**
+
+pari vo viśvato dadha ūrjā ghṛtena payasā | ye devāḥ ke ca yajñiyās te rayyā saṃ sṛjantu mā ||
+
+**19.22.1**
+
+namo astu sarpebhyo ye ke ca pṛthivīm anu | ye antarikṣe ye divi tebhyaḥ sarpebhyo namaḥ ||
+
+**19.22.2**
+
+ye cāmī rocane divo ye ca sūryasya raśmiṣu | yeṣām apsu sadas kṛtaṃ tebhyaḥ sarpebhyo namaḥ ||
+
+**19.22.3**
+
+yā iṣavo yātudhānānāṃ yā vā vanaspatīnām | ye 'vaṭeṣu śerate tebhyaḥ sarpebhyo namaḥ ||
+
+**19.22.4**
+
+yavocchiṣṭaṃ haviṣā vardhayemaṃ yathā dyumnī kṛṇavad vīryāṇī | sajūr devebhir abhi bhūḥ sapatnān āyuṣmat kṣatram ajaraṃ te astu ||
+
+**19.22.5**
+
+puṃsā yavena haviṣā payasvatā- -ucchiṣṭasyāyū rakṣantu devāḥ | devā hy asmin ni dadhur nṛmṇaṃ bṛhad asmā indro vayo dadhātu ||
+
+**19.22.6**
+
+sam ucchiṣṭasya haviṣā sam ukthaiḥ sam āyuṣā varcasā payo dadhātu | devā hy asmin ni dadhur nṛmṇaṃ bṛhad asmā indro vayo dadhātu ||
+
+**19.22.7**
+
+vāyur enāḥ samākarat tvaṣṭā poṣāya dhriyatām | indra ābhyo adhi bruvad rudro bhūmne cikitsatu ||
+
+**19.22.8**
+
+yathā cakrur devāsurā yathā manuṣyā uta | evā sahasrapoṣāya kṛṇutaṃ lakṣmāśvinā ||
+
+**19.22.9**
+
+lohitena svadhitinā mithunaṃ karṇayoḥ kṛdhi | akartām aśvinā lakṣma tad astu prajayā bahu ||
+
+**19.22.10**
+
+kṛṣṇaṃ niyānaṃ harayaḥ suparṇā apo vasānā divam ut patanti | ā ca vartante sadanād ṛtasya- -ād id ghṛtena pṛthivī vy udyate ||
+
+**19.22.11**
+
+payasvatīḥ kṛṇutāpa oṣadhīr imā yad ejathā maruto rukmavakṣasaḥ | ūrjaṃ ca tatra sumatiṃ ca pinvatha yatrā naro marutaḥ siñcathā madhu ||
+
+**19.22.12**
+
+udapluto marutas tām̐ iyarta vṛṣṭyā yad viśvā nivatas pṛṇātha | ejāti galhā kanyeva tunnairun tundānā patyeva jāyā ||
+
+**19.22.13**
+
+tvaṣṭeva pūṣeryo damūnā mahī svastir vṛṣaṇā na āgan | viśvā āśāḥ sūyavasā saṃrarāṇo 'syā rayyāḥ puraetā na edhi ||
+
+**19.22.14**
+
+eha yantu madhumad duhānā anamīvā uśatīr viśvarūpāḥ | bahvīr bhavantīr upajāyamānā ihendro vo ramayatu gāvaḥ ||
+
+**19.22.15**
+
+prajāpatir janayatu prajā imās tvaṣṭā dadhātu sumanasyamānaḥ | saṃvatsara ṛtubhiḥ saṃvidāno mayi puṣṭaṃ puṣṭapatir dadhātu ||
+
+**19.23.1**
+
+sāhasī nāma vā asi sahasas pari jajñiṣe | sahasvān indro deveṣu sahase tvā khanāmasi ||
+
+**19.23.2**
+
+sahasyena bheṣajena divyena śataparvaṇā | tena sahasrakāṇḍena kṛṇomi punarābhṛtim ||
+
+**19.23.3**
+
+sahaso 'haṃ bheṣajasya divyasya nāma jagrabha | vy āśiṣaiva tasthire yakṣmāsaḥ puruṣād adhi ||
+
+**19.23.4**
+
+apeta etu nirṛtir nehāsyāḥ api kiṃ cana | apāsyāḥ satvanaḥ pāśān mṛtyūn ekaśataṃ nude ||
+
+**19.23.5**
+
+ye te pāśā ekaśataṃ mṛtyo martyāya hantave | tāṃs te yajñasya māyayā sarvām̐ apa yajāmasi ||
+
+**19.23.6**
+
+nir ito yantu nairṛtā mṛtyava ekaśataṃ paraḥ | sedhāma eṣāṃ yat tamaḥ prāṇaṃ jyotiś ca dadhmahe ||
+
+**19.23.7**
+
+triṣaptā vāraṇā imās tābhir mām indro abravīt | viṣaṃ vārayatām iti viṣaṃ dūṣayatād iti ||
+
+**19.23.8**
+
+apa brūtedaṃ maruto mahīndrasyāpavācanī | eṣā sahasram arhaty eṣā vārayate viṣam ||
+
+**19.23.9**
+
+asthād dyaur asthāt pṛthivy asthād viśvam idaṃ jagat | asthur viṣasyābhītayaḥ pratikūla ivābalaḥ ||
+
+**19.23.10**
+
+yathā bāṇaḥ susaṃśitaḥ parāpataty āśumat | evā kāśe parā pata sākaṃ vātasya dhrājyā ||
+
+**19.23.11**
+
+yathā cakṣuś cakṣuṣmataḥ parāpatati ketumat | (…) sākaṃ sūryasya raśmibhiḥ ||
+
+**19.23.12**
+
+yathā mano manyuketuṃ parāpatati yojanā | evā kāśe parā patat samudrasyānu vikṣaram ||
+
+**19.23.13**
+
+ita evāva gacchata- -ugrā bhavata mābalāḥ | hvayantu sarve vo devāḥ sarvā vo vṛṇatāṃ viśaḥ ||
+
+**19.23.14**
+
+yad avagamena haviṣā- -ava vo gamayāmasi | atrāta indraḥ kevalīr viśo balihṛtaḥ karat ||
+
+**19.23.15**
+
+indraḥ kaśyapa ād agnir iḍā turīyā vaḥ sakhā | yad bhūtaṃ bhavyam āsanvat tenāva gamayāmi vaḥ ||
+
+**19.24.1**
+
+na taṃ yakṣmā arundhate nainaṃ śapatho aśnute | yaṃ bheṣajasya gulguloḥ surabhir gandho aśnute ||
+
+**19.24.2**
+
+yaṃ gulgulor bheṣajasya surabhir gandho aśnute | viṣvañcas tasmād yakṣmā mṛgā iṣvā iverate ||
+
+**19.24.3**
+
+yad gulgulu saindhavaṃ yad vā ghāsi samudriyam | ubhayor agrabhaṃ nāma- -asmā ariṣṭatātaye ||
+
+**19.24.4**
+
+devā etaṃ madhunā saṃyutaṃ yavaṃ sarasvatyām adhi maṇāv acarkṛṣuḥ | indra āsīt sīrapatiḥ śatakratuḥ kīnāśā āsan marutaḥ sudānavaḥ ||
+
+**19.24.5**
+
+bṛhatpalāśe subhaga ūrdhvasvapna ṛtāvari | māteva putrebhyo mṛḍa keśebhyo naḥ śami ||
+
+**19.24.6**
+
+yas te mado +'vakeśo yo vikeśo yenābhihasyaṃ puruṣaṃ kṛṇoṣi | bhrūṇaghnovirivārā(c) cara tvaṃ tasya te prajāyāḥ suvāmi keśān ||
+
+**19.24.7**
+
+ākūtiṃ devīṃ subhagāṃ puro dadhe cittasya mātā suhavā no astu | yām āśām emi kevalī sā me astu videyam enāṃ manasi praviṣṭām ||
+
+**19.24.8**
+
+ākūtyā no bṛhaspata ākūtyā na upā gahi | atho bhagasya no dhehy atho naḥ suhavo bhava ||
+
+**19.24.9**
+
+bṛhaspatir ma ākūtim āṅgirasaḥ prati jānātu vācam etām | yasya devā devatāḥ sambabhūvuḥ suṣupraṇīḥ kāmo anv etv asmān ||
+
+**19.24.10**
+
+mano nv āhvāmahi nārāśaṃsena stomena | pitṝṇāṃ ca manmabhiḥ ||
+
+**19.24.11**
+
+ā na etu manaḥ punaḥ kratve dakṣāya jīvase | jyok ca sūryāya dṛśe ||
+
+**19.24.12**
+
+punar naḥ pitaro mano dadātu daivyo janaḥ | jīvaṃ vrātaṃ sacemahi ||
+
+**19.24.13**
+
+vayaṃ soma vrate tava manas tanūṣu bibhrataḥ | prajāvantaḥ sacemahi ||
+
+**19.24.14**
+
+varco me mitrāvaruṇā varco devī sarasvatī | varco me aśvinobhā dhattaṃ puṣkarasrajā ||
+
+**19.24.15**
+
+yac ca varco yajamāne yac ca yajñe 'dhy āhitam | surāyāṃ babhru yad varcas tasya bhakṣīya varcasaḥ ||
+
+**19.24.16**
+
+yā utsebhyaḥ prasravanti divo dhārā nadībhyaḥ | tāsāṃ tvā sarvāsām apām abhi ṣiñcāmi varcasā ||
+
+**19.24.17**
+
+yad rājānaṃ śakadhūmaṃ nakṣatrāṇy akṛṇvata | bhadrāham asmai prāyacchan tato rāṣṭram ajāyata ||
+
+**19.24.18**
+
+bhadrāham astu naḥ sāyaṃ bhadrāhaṃ prātar astu naḥ | bhadrāham asmabhyaṃ tvaṃ śakadhūma sadā kṛṇu ||
+
+**19.24.19**
+
+yo no bhadrāham akaraḥ sāyaṃ prātar atho divā | tasmai te nakṣatrarāja śakadhūma sadā namaḥ ||
+
+**19.24.20**
+
+yad āhuḥ śakadhūmāhaṃ nakṣatrāṇāṃ prathamajaṃ jyotir agre | tan naḥ saniṃ madhumatīṃ kṛṇotu rayiṃ ca naḥ sarvavīraṃ ni yacchāt ||
+
+**19.25.1**
+
+yūpe garte vidveṣaṇaṃ devānāṃ varcasā kṛtam | agnir vām astv antarā yathā vāṃ na sahāsati ||
+
+**19.25.2**
+
+yathāhiṃ dveṣṭi puruṣo ahir vā dveṣṭi puruṣam | girir vām astv antarā yathā vāṃ na sahāsati ||
+
+**19.25.3**
+
+nānāni vām ākūtāni nānā cittāni santu vām | viṣvañcau pary ā vartethāṃ yathā vāṃ na sahāsati ||
+
+**19.25.4**
+
+atra dve kamale dve tuṇḍe na maśīkataṃ taṃ galāpate | bhaṅgalāpato (⟨ bhaṅgurāvato) daha ||
+
+**19.25.5**
+
+etad yat te yad vā yad vā na cāsan no ca te bhavat | svapne vittaṃ yathā dhanaṃ naśyād id etad etataḥ ||
+
+**19.25.6**
+
+āgilo gilāpāpacito gila | naśyād bradhnakam arbhakam ||
+
+**19.25.7**
+
+dīrghāyutvāya sahase mahyā ariṣṭatātaye | suparṇo mahyam abravīd etad āśliṣṭabheṣajam ||
+
+**19.25.8**
+
+saktūn iva titaünā punanto vidvāṃso vācam akrata | aṅgebhyo viśvāṅgebhyaḥ pra te chinadmy āśliṣṭam ||
+
+**19.25.9**
+
+avacchindhy āśliṣṭam ūrvā hy asi bheṣajī | divyaḥ suparṇo abravid etad āśliṣṭabheṣajam ||
+
+**19.25.10**
+
+abhibhūr aham āgamaṃ viśvakarmā svāyudhaḥ | ahaṃ mitrasya kalpayann āsv āśāsu duṣṭaraḥ ||
+
+**19.25.11**
+
+ahaṃ samityayano ahaṃ viśāṃ purohitaḥ | ahaṃ mitrāṇi kalpayan mayi vāg astu dharṇasī ||
+
+**19.25.12**
+
+ā vaś cakṣur ā vo vācam ā vaḥ samitiṃ dade | yogakṣemaṃ va ādāya- -ahaṃ bhūyāsam uttamaḥ ||
+
+**19.25.13**
+
+brahmaṇāgniḥ saṃvidāno rakṣohā nudatām itaḥ | arāyo yas te tanvaṃ durṇāmā yonim āśaye ||
+
+**19.25.14**
+
+yas te 'rāyas tanvaṃ durṇāmā yonim āśaye | agniṣ ṭaṃ brahmaṇā yujā rakṣohā nudatām itaḥ ||
+
+**19.25.15**
+
+yāny abhvāni rakṣāṃsi ye 'rāyā yātudhānyaḥ | agniṣ ṭvā śagmayā tanvā rakṣohā pātu tebhyaḥ ||
+
+**19.26.1**
+
+agniś ca deva savitar iṣam ūrjaṃ dadhānau | pātaṃ mā duścaritād ā mā sucarite bhajataṃ yuvayor avasā sumnam aśīya ||
+
+**19.26.2**
+
+idaṃ tad upa yuva idaṃ tad upa hvaye yac chuśrumā tvat pari | vācaspatir ni yacchatu mayy evāstu mama śrutam ||
+
+**19.26.3**
+
+māpatyāya steyaṃ karaṃ mā śrutena vi rādhiṣi | amogham asmākaṃ śrāntam agne draviṇavat kṛdhi ||
+
+**19.26.4**
+
+madhyameṣṭhā varcasvatyā- -āyuṣe varcase kṛtam | vanuṣva viśvadeveṣu vanuṣva tvaṃ bṛhaspatau ||
+
+**19.26.5**
+
+ghṛtena prajāṃ vanute ghṛtena rayim aśnute | ghṛtenāyuṣyaṃ varcasyaṃ devebhyo vanute pari ||
+
+**19.26.6**
+
+parjanya pippalās tubhyaṃ nadyo garbhaṃ svastaye | maryādā brahmadevīr āyuṣyaṃ varca āsican ||
+
+**19.26.7**
+
+yathā hastī hastinyāḥ padena padam anv agāt | evā tvam aghnye vatsasya padena padam anv ihi ||
+
+**19.26.8**
+
+yathā rathasya cakre vi pathaḥ pāṃsum asyathaḥ | evā mano vy asyāmi hṛdayaṃ vananāya kam ||
+
+**19.26.9**
+
+indrasya prathamaṃ vaco devānām aparaṃ vacaḥ | tṛtīyam aśvinor vacas tena gāṃ vānayāmasi ||
+
+**19.26.10**
+
+ud itaḥ śyāvau vithurau divaṃ gṛdhrāv iveyathuḥ | śocanāv atiśocanāv asyocchocanau hṛdaḥ ||
+
+**19.26.11**
+
+śocayābhi śocayā dīpayopa dīpaya | aher agne viṣaṃ tvaṃ tṛṇam iva kalvalaṃ daha ||
+
+**19.26.12**
+
+sīdataṃ niṣattārāv avetaṃ mod gatam | kṛṣṇā vāṃ gauḥ sārasvatī ||
+
+**19.26.13**
+
+yathā rātrī kṛṣṇatamā gauḥ kṛṣṇā kṛṣṇavartaniḥ | śācīḥpyavo yathā rūpam evedaṃ māmakaṃ śiraḥ ||
+
+**19.26.14**
+
+yathāṅgaro 'bhiṣikto darvidāko yathāsitaḥ | anuṣyaṅgasya kalmaṣam evedaṃ māmakaṃ śiraḥ ||
+
+**19.26.15**
+
+yathā dāvād dahyamānāt kṛṣṇo jvālo 'padhvaṃsate | naiṣād asya yathā mukham evedaṃ māmakaṃ śiraḥ ||
+
+**19.27.1**
+
+yat kiṃ cāsau manasā yac ca vācā yajñair juhoti haviṣā yajurbhiḥ | tan mṛtyunā nirṛtiḥ saṃvidānā purā dṛṣṭād ājyaṃ hantv asya ||
+
+**19.27.2**
+
+yātudhānā nirṛtir ād u rakṣas te asya ghnantv anṛtena satyam | indreṣitā ājyam asya mathnantu mā tat saṃ pādi yad asau juhoti ||
+
+**19.27.3**
+
+pari tvāgne puraṃ vayaṃ vipraṃ sahasya dhīmahi | dhṛṣadvarṇa divedive hantāraṃ bhaṅgurāvatām ||
+
+**19.27.4**
+
+svarjid adhirājau śyenau saṃpātināv iva | ājyaṃ pṛtanyato hataṃ yo asmān pṛtanāyati ||
+
+**19.27.5**
+
+pṛthivyai vanaspatibhya oṣadhībhyo 'gnaye 'dhipataye svāhā ||
+
+**19.27.6**
+
+antarikṣāya prāṇāya vayobhyo vāyave 'dhipataye svāhā ||
+
+**19.27.7**
+
+dive cakṣuṣe nakṣatrebhyaḥ sūryāyādhipataye svāhā ||
+
+**19.27.8**
+
+pippalyaḥ sam avadanta- -āyatīr jananād adhi | yaṃ jīvam aśnavāmahai na sa riṣyāti pūruṣaḥ ||
+
+**19.27.9**
+
+pippalī kṣiptabheṣajy utāvaviddhabheṣajī | tāṃ devāḥ sam akalpayann alaṃ jīvātavā iti ||
+
+**19.27.10**
+
+asurās tvā ny akhanan devās tvod avapan punaḥ | vātīkṛtasya bheṣajī pippalī kṣiptabheṣajī ||
+
+**19.27.11**
+
+yad ulūko vadati mogham etad yat kapotaḥ padam agnau kṛṇoti | yasya dūtau prahitāv idam eyathus tasmai yamāya namo 'stu mṛtyave ||
+
+**19.27.12**
+
+yas te dūto nirṛta ājagāma- -aprahitaḥ prahito vā gṛhaṃ naḥ | kapotolūkāv apadaṃ tad astv avairahatyam idam ā jagantha suvīratāyā idam ā sasattha ||
+
+**19.27.13**
+
+yaḥ prathamaḥ pravata āsasāda bahubhyaḥ panthām anupaspaśānaḥ | ya īśe asya dvipado yaś catuṣpadas tasmai yamāya namo 'stu mṛtyave ||
+
+**19.27.14**
+
+yathāsitaḥ prathayate vaśām̐ anu vapūṃṣi kṛṇvann asurasya māyayā | evā me śepaḥ sahasāyam arka enāṅgena saṃsamakaṃ kṛṇotu ||
+
+**19.27.15**
+
+yāvad aṅgīnaṃ pārasvataṃ hāstinaṃ gārdabhaṃ ca yat | yāvad aśvasya vājinas tāvan me vardhatāṃ pasaḥ ||
+
+**19.27.16**
+
+yathā pasas tāyādaraṃ vātena sthūlabhaṃ kṛtam | yāvat parasvataḥ pasas tāvan me vardhatāṃ pasaḥ ||
+
+**19.28.1**
+
+yasyedam ā rajo yujas tuje janaṃ vanaṃ svaḥ | indrasya nādhṛṣe śavaḥ ||
+
+**19.28.2**
+
+dhṛṣāṇaṃ dhṛṣataḥ śavaḥ purā yathāyatiṣṭhan | indrasya rantyaṃ mahat ||
+
+**19.28.3**
+
+sa no dadhātu taṃ rayiṃ puruṃ piśaṅgapeśasam | indraḥ patis tuviṣṭamo janeṣv ā ||
+
+**19.28.4**
+
+āyur agna ihā vaha jātavedas tanūvaśin | yathāhaṃ jyog ihāsāni prajānām adhipā vaśī ||
+
+**19.28.5**
+
+āyur indro dadhātu ma āyur devo bṛhaspatiḥ | āyur me viśve devā ahorātre ca cakratuḥ ||
+
+**19.28.6**
+
+āyur āyuṣyā pavatāṃ prāṇaṃ prāṇo dadhātu me | devā yac cakrur devebhyaḥ svar yanto yathāyatham ||
+
+**19.28.7**
+
+utpatantu nabhasvatīḥ samudrād adhi ghoṣiṇīḥ | utsyāḥ samudriyā apas tābhiṣ ṭvā tarpayāmasi ||
+
+**19.28.8**
+
+yā āpo divyā yā vātāt parijajñire | indro marutvāṃs tṛptātmā tābhiṣ ṭvā tarpayāmasi ||
+
+**19.28.9**
+
+yāḥ śuṣkā yā hariṇīr yā bhūmim anuvāvṛdhuḥ | sarvāḥ samagrā oṣadhīs tābhiṣ ṭvā tarpayāmasi ||
+
+**19.28.10**
+
+ā no medhā sumatir viśvarūpā giro bṛhatīr āveśayantī | ṛco me bahvīr ny anaktu gā iva yathāsāma bhuvaneṣu karṇinaḥ ||
+
+**19.28.11**
+
+dīkṣā tapo manaso mātariśvā bṛhaspatir vāco asyāḥ sa yoniḥ | vedāṃsi vidyā mayi santu bahvīr agnīṣomā yaśo asmāsu dhattam ||
+
+**19.28.12**
+
+yad agne tapasā tapa upaprekṣāmahe vayam | priyāḥ śrutasya bhūyāsma- -āyuṣmantaḥ sumedhasaḥ ||
+
+**19.28.13**
+
+yas tvā mātur uta vā pituḥ parijāyamānam abhisaṃbabhūva | taṃ tvad yakṣmam adhi nāśayāmaḥ so 'nyasmiṃ chrayātai praviṣṭaḥ ||
+
+**19.28.14**
+
+yas te yakṣmo hṛdayeṣṭho nābhiṣṭhā udaraṃgamaḥ | atho yaḥ śiśriye parau taṃ tvad yakṣmam adhi nāśayāmaḥ so 'nyasmiṃ chrayātai praviṣṭaḥ ||
+
+**19.28.15**
+
+śīrṣarogam aṅgarogaṃ snāvabṛham abhiśāciṃ visalpakam | yas te yakṣmo majjasu paruḥsu yo gudāsu taṃ tvad yakṣmam adhi nāśayāmaḥ so 'nyasmiṃ chrayātai praviṣṭaḥ ||
+
+**19.29.1**
+
+agnī rakṣohā tigmas tigmaśṛṅgo hantu rakṣo nudatām arātim | apāghaśaṃsam asyatu ||
+
+**19.29.2**
+
+ā ta etu parāvato balam ojo divas pari | ā giribhyaḥ parvatebhya āyuṣ ṭe viśvato dadhat ||
+
+**19.29.3**
+
+punas te 'suṃ pṛthivī dadātu punar dyaur devo punar antarikṣam | punas te somas tanvaṃ dadhātu punaḥ pūṣā pathyāṃ yā svastiḥ ||
+
+**19.29.4**
+
+kaṣkiṣā kaṣpiṣā yevāṣā eṣā | iṣṭargava iṣayantaḥ saikatāḥ pāṃsavāḥ ||
+
+**19.29.5**
+
+adṛṣṭān na dṛṣṭān | dṛṣṭām̐ adṛṣṭān dhanapate jahīndrasya vadhena ||
+
+**19.29.6**
+
+etāś ca viśvarūpāś ca gṛdhrāḥ kokāś ca te hatāḥ ||
+
+**19.29.7**
+
+kāme kāmayasva mā pratīcī prati mā bhava | mām anu pra te mano vatsā pākeva dhāvatu ||
+
+**19.29.8**
+
+abhīle abhimādany asau mām abhi mādyatu | vidma patatriṇyā vayam iṣuke nāmakaṃ tava ||
+
+**19.29.9**
+
+ahaṃ te mana ā dade mano manomuṣir yathā | mayi te mana āhitaṃ ratha iva rathavāhane ||
+
+**19.29.10**
+
+ud asau sūryo agān mahyam avatunā saha | ahaṃ viśāṃ purohito madhuhasto madhujihvo mayi vāg astu dharṇasī ||
+
+**19.29.11**
+
+ahaṃ viśyena ketunā samakṣye mānuṣeṣv ā | asmākam astu kevalaṃ bṛhad diśo adhi viśveṣu rājasu ||
+
+**19.29.12**
+
+svādoś cin mā svādīyāṃsaṃ madhoś cin madhumattaram | priyāś cit sakhyur antaram ādityāsaḥ kṛṇota mā ||
+
+**19.29.13**
+
+agne brahma tvaṃ brahmāsi viddhi tvaṃ prāsmabhyaṃ brūhi | yadīdaṃ tathā bhaviṣyasi yadi vā nāthaitasya haviṣo vīha svāhā ||
+
+**19.29.14**
+
+vi pṛcche dyāvāpṛthivī vīndraṃ vi bṛhaspatim | vi devān yajñiyān pṛcche vy asaṃ jīvanāya kam ||
+
+**19.29.15**
+
+vijñānāyodyatā prastutā srug iyaṃ yama rājan havir idaṃ juṣasva | agatāsor haviṣo mādayasva nirṛtiṃ gacchatu yad gatāsoḥ ||
+
+**19.30.1**
+
+yat tvā māṃse apavavau yan manthe yad odane | agniṣ ṭvā viśvabheṣajas tasmāt pātv aṃhasaḥ ||
+
+**19.30.2**
+
+yas tvā vāta āvāty adharād uttarād uta | āpo yā viśvaśaṃbhuvas tās tvā pātv aṃhasaḥ ||
+
+**19.30.3**
+
+apa tvan mṛtyuṃ nirṛtim apa yakṣmaṃ ni dadhmasi | yathā tvam arapā asa udojā uttaro bhuvaḥ ||
+
+**19.30.4**
+
+vaiśvānaro raśmibhir naḥ punātu vātaḥ prāṇeneṣiro nabhobhiḥ | dyāvāpṛthivī payasā payasvatī ṛtāvarī yajñiye mā punītām ||
+
+**19.30.5**
+
+prajāpatir ṛtubhiḥ pañcabhiḥ saṃvatsaro dhāmabhiḥ pātu viśvaiḥ | ihaiva prāṇaḥ sakhye no astu tam ātmani punar ā veśayāmi ||
+
+**19.30.6**
+
+vaiśvadevīṃ sūnṛtām ā rabhadhvaṃ śuddhā bhavantaḥ śucayaḥ pāvakāḥ | tayā gṛṇantaḥ sadhamādeṣu vayaṃ syāma patayo rayīṇām ||
+
+**19.30.7**
+
+vaiśvānarīṃ varcasa ā rabhadhvaṃ yasyā āśās tanvo vītapṛṣṭhāḥ | īḍayeha sadhamādaṃ madanto jyok paśyema sūryam uccarantam ||
+
+**19.30.8**
+
+avatkaṃ mama bheṣajam avatkaṃ parivācanam | narācy asi mā tudo vanvānā rogabheṣajam ||
+
+**19.30.9**
+
+śambhuleham ihā hara tam u kṣīrā ud asyati | tad āsrāvasya bheṣajaṃ tad u rogam anīnaśat ||
+
+**19.30.10**
+
+nadīṣu naḍvalāsu kumbheṣu kalaśeṣu ca pratīṣecanabheṣajam | tat te kṛṇomi bheṣajam addhi māṃsaṃ pibodakaṃ paṭpaṭiṅgaṃ vipaścalaṃ vi paśya ||
+
+**19.30.11**
+
+avidāma yad aicchāma piśācakṣayaṇaṃ haviḥ | tena kravyādo hanmaḥ sarvāś ca yātudhānyāḥ ||
+
+**19.30.12**
+
+icchanti tvā padātaya icchanti rathinas tvā | krīṇanti gobhir aśvair amṛtasyeva vā asi ||
+
+**19.30.13**
+
+amamri nāma bheṣajaṃ pṛthivyā adhy udbhṛtam | vaktā tan mahyam abravīd idaṃ ha pārayād iti ||
+
+**19.30.14**
+
+cakṣur asi puruṣasya cakṣur goś cakṣur arvataḥ | cakṣur bhūtasya bhavyasya cakṣur apsarasām asi ||
+
+**19.30.15**
+
+cakṣur asi suparṇasya cakṣur aher atho śunaḥ | cakṣuḥ sarvasya paśyato 'tho yad viśvam ejati ||
+
+**19.30.16**
+
+ādadānaṃ sahasrākṣaṃ pratispāśanam abruvam | darśaya mā yātudhānān darśaya yātudhānyāḥ ||
+
+**19.31.1**
+
+atīmām akhyaṃ pṛthivīm ati dyām ati sūryam | ati viśvam idaṃ bhūtam aty akhyaṃ yātudhānyaḥ ||
+
+**19.31.2**
+
+darśaya mā yātudhānān darśaya yātudhānyaḥ | aghāyūn sarvān darśaya- -iti tvauṣadha ā rabhe ||
+
+**19.31.3**
+
+evā sahasracakṣo tvaṃ prati paśyāsy āyataḥ | saho 'si yātudhānajambhanam ||
+
+**19.31.4**
+
+imāḥ pāre pṛdākvas triṣaptā nirjarāyavaḥ | tāsāṃ jarāyuṇā vayam akṣyāv api vyayāmasy aghāyoḥ paripanthinaḥ ||
+
+**19.31.5**
+
+viṣūcy etu kṛntatī pinākam iva bibhratī | viṣvak punarbhuvā mano 'samṛddhā aghāyavaḥ ||
+
+**19.31.6**
+
+apetaḥ paripanthino +'po aghāyur arṣatu | na bahavaḥ saṃ śaknavan nārbhakā abhi dhṛṣṇavan ||
+
+**19.31.7**
+
+pretaṃ pādau pra sphurataṃ vahataṃ pṛṇato gṛham | indrāṇy etu prathamā- -ajītāmuṣitā pathā ||
+
+**19.31.8**
+
+āyam agan phālgumaṇir balena baladāḥ saha | yenendro dasyūnāṃ vīrām̐ asurāṇām avātirat ||
+
+**19.31.9**
+
+varcasā māṃ payasokṣantu devā varcasā dyāvāpṛthivī ubhe | varco me devaḥ savitā dadhātu varco vipraḥ kaśyapo me dadhātu ||
+
+**19.31.10**
+
+varco ma āpo dadhatu varco me vīrudho dadhan | bhūtāni sarvāḥ saṅgatya varca ā dhur mukhe mama ||
+
+**19.31.11**
+
+yāḥ purastād vitiṣṭhante gāvaḥ pravrājinīr iva | vātīkṛtasya bheṣajīḥ pippalīḥ pārayiṣṇavaḥ ||
+
+**19.31.12**
+
+rudrasya mūtram asy amṛtasya nābhiḥ | pṛthivyāṃ mūlaṃ niṣṭhitam asi viṣāṇā nāma vātīkṛtabheṣajī ||
+
+**19.31.13**
+
+śaṃ te astu matasnābhyāṃ śaṃ yakne śaṃ talīdyai | śaṃ te pṛṣṭibhyo majjabhyaḥ śam astu tanve tava ||
+
+**19.31.14**
+
+na hi te agne tanvaḥ krūram ānaṃśa martyam | kapir babhastu tejanaṃ svaṃ jarāyu gaur iva ||
+
+**19.31.15**
+
+tveṣa iva saṃ ca vi ca roruvaṇyate yad uttaradrā uparasya khādati | śīrṣṇā śiro apsasāpso ardayann aṃśūn babhastu haritebhir āśubhiḥ ||
+
+**19.31.16**
+
+suparṇā vācam akratopa dyavy ākhare kṛṣṇā iṣirā anartiṣuḥ | ni yan niyanty uparasya niṣkṛtiṃ purū reto dadhire sūryasyutaḥ ||
+
+**19.32.1**
+
+bhagena mā śāṃśapena sākam indreṇa medinā | kṛṇomi bhaginaṃ mā- -apa drāntv arātayaḥ ||
+
+**19.32.2**
+
+yo andho yaḥ punaḥsaro bhago vṛkṣeṣv ārpitaḥ | bhago me astu śāṃśapo 'pa drāntv arātayaḥ ||
+
+**19.32.3**
+
+yathā vṛkṣām̐ abhyabhavaḥ sākam indreṇa medinā | evā mā bhaginaṃ kṛṇv apa drāntv arātayaḥ ||
+
+**19.32.4**
+
+apeto nīlalohitaṃ jātaṃ himavatas pari | kīśmīlam urvarābhyo divo jātam anīnaśam ||
+
+**19.32.5**
+
+abhrāj jātaṃ varṣāj jātam atho jātaṃ divas pari | atho samudrād jātaṃ kīśmīlaṃ nāśayāmasi ||
+
+**19.32.6**
+
+yo nīhārād yaḥ pruṣvā yo adbhyas pari jāyase | garbho yo vidyutām asi sa naḥ kīśmīla mṛḍaya ||
+
+**19.32.7**
+
+nodeyīḥ sikatā imāḥ sindhutas paryābhṛtāḥ | tābhir yamasya kīśmīlaṃ saṃbhṛtābhir anīnaśam ||
+
+**19.32.8**
+
+tvayā pūrvaṃ vibhīdaka saṃjitā asurā hatāḥ | tvaṃ sapatnacātano bhrātṛvyām̐ ava dhūnuṣva ||
+
+**19.32.9**
+
+vi bhinattu vibhīdakas tīkṣṇaśṛṅga iva ṛṣabhaḥ | atho sapatnān ā dattām atho hantu durasyataḥ ||
+
+**19.32.10**
+
+vyavadhīt sahamānaḥ sapatnān dviṣato me 'dharām̐ akaḥ | abhy abhūd bhūtyobhayām ||
+
+**19.32.11**
+
+ya āskandaḥ parāskanda ākhuḥ kakubha āt krimiḥ | upajīkām̐ upakvasān tān sarvān jambhayāmasi ||
+
+**19.32.12**
+
+api nahyāmy ākhor muñjena mukham āsyam | anadaṃ yathā carād apaitum urvarābhyaḥ ||
+
+**19.32.13**
+
+apinahyamukha ākhuḥ paroktaḥ prāṭparāṇutaḥ | śṛṇāmy asya dantān nir akṣau pādayāmasi ||
+
+**19.32.14**
+
+aśvinā sāraghena mā madhunāṅkta śubhaspatī | yathā varcasvatīṃ vācam āvadāni janām̐ anu ||
+
+**19.32.15**
+
+yaśā ahaṃ nimiṣate pratikhyātre yaśā aham | atraimi tad yaśā aham uta tatra yaśā aham ||
+
+**19.32.16**
+
+asmai ca sarvasmai bhūtāya sarvasmai ca vipaśyate | sarvasmā id ahaṃ yaśāḥ ||
+
+**19.32.17**
+
+apottudāporṇuhi yadīdam asti vā na vā | vyandhyaṃ vyalguṇaṃ cakṣur akṣībhyāṃ kṛdhi ||
+
+**19.32.18**
+
+aṅgaṃ hiraṇyayaṃ kṛtvā laṅgalāṣam armaṃ ca | tad devā apa lumpata ||
+
+**19.32.19**
+
+cakṣuṣman me mano astu cakṣuṣmad dhṛdayaṃ mama | cakṣuṣmac cittam astu me cakṣuś cakṣuṣmad astu me cakṣur ā dhehi me 'kṣyoḥ ||
+
+**19.33.1**
+
+somo rājā savitā ca rājā bhavo rājā bhuvanaṃ ca rājā | śarvo rājā śarma ca rājā ta u naḥ śarma yacchantu devāḥ ||
+
+**19.33.2**
+
+ādityair no bṛhaspatir bhagaḥ somena naḥ saha | viśve devā urv antarikṣaṃ ta u naḥ śarma yacchantu devāḥ ||
+
+**19.33.3**
+
+utāviddhāṃ niṣkhidata- -atho śrathnīthāyatām | mā no viśve devā maruto hetim asthata ||
+
+**19.33.4**
+
+apām idaṃ nyayanaṃ samudrasya niveśanam | madhye hradasya no gṛhāḥ parācīnā mukhā kṛdhi ||
+
+**19.33.5**
+
+āyane te parāyaṇe dūrvā rohatu puṣpiṇī | utso vātra jāyatāṃ hrado vā puṇḍarīkavān ||
+
+**19.33.6**
+
+himasya tvā jarāyuṇā śāle pari vyayāmasi | śītahradāya no bhuvo 'gnir dadātu bheṣajam ||
+
+**19.33.7**
+
+ayaṃ darbho vimanyukaḥ svāya cāraṇāya ca | manyor vimanyuko manyuśamano astu te ||
+
+**19.33.8**
+
+ayaṃ yo bhūrimūlaḥ samudram avagacchati | darbhaḥ pṛthivyāṃ niṣṭhitaḥ sa te astu vimanyukaḥ ||
+
+**19.33.9**
+
+vi te hanavyāṃ śaraṇiṃ vi te mukhyāṃ nayāmasi | yathāvaśo na vādiṣo mama cittam upāsāsai ||
+
+**19.33.10**
+
+yebhiḥ pāśaiḥ parivitto vibaddhaḥ parauparāv ārpito aṅgeaṅge | vi te cṛtyantāṃ vicṛto hi santi bhrūṇaghni pūsan duritāni mṛṣṭām ||
+
+**19.33.11**
+
+trite devā amṛjataina etat trita enan manuṣyeṣv amṛṣṭa | tato yadi tvā madhye na ārat tad ahaṃ tvad brahmaṇāpā karomi ||
+
+**19.33.12**
+
+marīcīr dhūmaṃ pra viśānu vātam udārān gacchota vā nīhāram | nadīnāṃ phenam anu tad vi naśyatu bhrūṇaghni pūṣan duritāni mṛṣṭām ||
+
+**19.33.13**
+
+agne rakṣaḥ prati daha yat kumbhyābhir ābhṛtam | anādhṛṣyaḥ sa yāsyaty abhūj jīvātave ayam ||
+
+**19.33.14**
+
+yan nakhavad yac chaphavat prasūmat kiṃ ca puṣpavat | urvā matsyo madhūlakaṃ tasya pāsyaty ayam anāsrāvam arogaṇam ||
+
+**19.33.15**
+
+yāḥ samudrāt prasravanti devīr himavatas pari | āpo yā viśvaśambhuvas tā ihā yantu bheṣajīḥ ||
+
+**19.34.1**
+
+tvacāpidhāne subhage datparistaraṇe kave | ekām iva vraje gāṃ pari tvā varcasāsicam ||
+
+**19.34.2**
+
+agreṇīr iva haṃsānāṃ prapaśyantī puras patham | jihve mā vivyatho mā yathāpūrvaṃ tvaṃ vada ||
+
+**19.34.3**
+
+varcasvad aham udyāsaṃ brahmarājanyābhyāṃ śudrāya cāryāya ca | yasmai ca kāmayāmahe sarvasmai ca vipaśyate ||
+
+**19.34.4**
+
+arvāñcau pādau pra hara- -arvācīnaṃ manas tava | arvācīnasya te ataḥ parāṅ manyuṃ ni vartatām ||
+
+**19.34.5**
+
+chāgalāde bhagavo 'rvāg jyote parastamaḥ | ā tvā khalajñakād asmāt punar ā vartayāmasi ||
+
+**19.34.6**
+
+yathā vrīhīn vrīhikhale samākurvanti tūlibhiḥ | evā te viṣṭhitaṃ manaḥ sam ā karomi mām abhi ||
+
+**19.34.7**
+
+tvam uttamaṃ surabhiṣāṃ mādhyamaṃ vahator asi | tvayā vadhūr vi jaṅgahe taṃ tvā varcasa ā dade ||
+
+**19.34.8**
+
+mūrdhnas te mūrdhanyebhyo 'gruvaḥ pativittyāḥ | aukṣaṃ śīrṣata ā dade ||
+
+**19.34.9**
+
+yaś ca svādmā te aṅgeṣu yaḥ premā hṛdaye ca te | taṃ tvad ā veśayāmahe mayi bhrājāti dīdyat ||
+
+**19.34.10**
+
+vātaraṃhā vājin bhava yujyamāna indrasya yāhi prasave manojavāḥ | yuñjantu tvā maruto daivyāsa ā te tvaṣṭā patsu javaṃ dadhātu ||
+
+**19.34.11**
+
+javas te arvan nihito guhā yaḥ śyene carati yaś ca vāte | tena tvaṃ vājin balavān balena- -ājiñ jaya samane pārayiṣṇuḥ ||
+
+**19.34.12**
+
+āsīyāne 'dhi manasa āsīyāne 'dhi cakṣuṣaḥ | āsīyānasya vātād bhūtvā- -ājiñ jaya samane pārayiṣṇuḥ ||
+
+**19.34.13**
+
+tanūs te vājin tanvaṃ vahantī vāmam asmabhyaṃ dhātu śarma tubhyam | ahruto maho dharuṇāya devā divyam iva jyotiḥ svar ānamīyāḥ ||
+
+**19.34.14**
+
+indro mā vakṣad akṣataṃ vṛtrahā yo vṛtañjayaḥ | sa me rathaṃ sa sārathiṃ so aśvān sādhu me nayāt ||
+
+**19.34.15**
+
+indro mā tena nayatu panthā yo abhayaḥ sugaḥ | dakṣiṇā pārayāti mā mā riṣaṃ samare yudhām ||
+
+**19.34.16**
+
+hṛtsuke pari ṇo nama pārigaṃ tanve kṛdhi | yuyuta parṇinaṃ śaram utāparṇaṃ riśād iti ||
+
+**19.35.1**
+
+viśve devā idaṃ havir ādityāsaḥ saparyata | asmin yajñe mā vyathiṣy amṛtāya haviṣ kṛtam ||
+
+**19.35.2**
+
+avyasaś ca vyacasaś ca bilaṃ vi ṣyāmi māyayā | tābhyām udbhṛtya vedam atha karmāṇi kṛṇmahe ||
+
+**19.35.3**
+
+yasmāt kośād udabharāma vedaṃ tasminn antar ava dadhma enam | kṛtam iṣṭaṃ brahmaṇo vīryeṇa tena mā devās tapasāvateha ||
+
+**19.35.4**
+
+vaiśvānaro ajījanad agnir no navyāṃ sumatim | kṣmayā vṛdhāna ojasā ||
+
+**19.35.5**
+
+sa naḥ pāvaka dīhihy agne vaiśvānara dyumat | jamadagnibhir āhutaḥ ||
+
+**19.35.6**
+
+divas pṛṣṭho arocathā agnir vaiśvānaro bṛhan | jyotiṣā bādhate tamaḥ ||
+
+**19.35.7**
+
+hariṇasya patatriṇaḥ śīrṣṇo bheṣajam ābhṛtam | tan nīlavad vi lokavat tad u kṣetriyanāśanam ||
+
+**19.35.8**
+
+anvamaṃstānumatir anvaṃaṃsta vṛṣāyaveḥ | kīnāśā anvamaṃsata- -anu gāvo amaṃsata ||
+
+**19.35.9**
+
+namo astv āyāmibhyo nīvibhyo hṛdayāya ca | namaḥ kṣetrasya pataye namaḥ kṣetrasya patnyai ||
+
+**19.35.10**
+
+ut te hārdiṃ śocayāmi hastenābhimarīmṛśat | keśin vṛṣaṇyayā tava muṣkau mūrdhā na śuṣyatām ||
+
+**19.35.11**
+
+agniṣ ṭvā tapatu sūryas tvā tapatu vātas tvā yuṅktāṃ marutaś ca yuñjatām | mṛgān marīcīr apy etu te manaḥ ||
+
+**19.35.12**
+
+ut tvā hanmi nipadanād ut tvā hanmi gṛhebhyaḥ | mā spṛkṣathā niṣadanāya sādhava ut tiṣṭha prehi sabhām ||
+
+**19.35.13**
+
+ut tuda śimidāvaty atho ulkāvatīṃ kuru | patye ca śvaśurāya ca ||
+
+**19.35.14**
+
+vibarhaṃ harāṃsayo rasaṃ jñānam ati bhruvoḥ | sākam ṛṣe vi nāśaya ||
+
+**19.35.15**
+
+sākaṃ vātasya dhrājyā sākaṃ sūryasya raśmibhiḥ | sākaṃ sūryeṇodyatā sapatnīṃ nāśayāmasi ||
+
+**19.36.1**
+
+dīrghajihvā bṛhadvāco yābhir ārdrāṇi vāsāṃsi | gāvo ghṛtasya mātaro divi bheṣajam akrata ||
+
+**19.36.2**
+
+arjunīnām apacitāṃ kṛṣṇā māteti susrava | muner devasya mūlena sarvāś chinadmi tā aham ||
+
+**19.36.3**
+
+chinadmy āsāṃ prathamāṃ chinadmy uta madhyamām | atho jaghanyām āsām ā chinadmi stukām iva ||
+
+**19.36.4**
+
+apehi manasas pate kim aśastāni śaṃsasi | parehi na tvā kāmaye vṛkṣān vanāni saṃ cara ||
+
+**19.36.5**
+
+avaśasā niḥśasā yat parāśasā- -upārima yaj jāgrato yat svapantaḥ | agnir viśvāny apa duṣkṛtāny ajuṣṭāny āre asmad dadhātu ||
+
+**19.36.6**
+
+yad indra brahmaṇaspata uta mṛṣā carāmasi | pracetā na āṅgiraso dviṣatas pātu tebhyaḥ ||
+
+**19.36.7**
+
+eha mām uttaraṃ kṛdhi sahasva pṛtanāyataḥ | vy asmat kṛtyā vy asmac chapathām̐ aja ||
+
+**19.36.8**
+
+yo no dudhūrṣān manasā yaś ca pāpena nobhyamāt | ākūtiṃ tasya devā hṛdaś cittāni vi ṣyata ||
+
+**19.36.9**
+
+aśva iva dhuri duryogaḥ pratīhāya vahe daśa | kṛtvānaṃ brahmaṇaspate daṃṣṭrābhyām abhi saṃ jahi ||
+
+**19.36.10**
+
+yo 'nyā adhi prājāyathā mūrdhno 'dhy ud avardhatāḥ | tvaṃ sapatnacātano bhrātṛvyām̐ ava dhūnuṣva ||
+
+**19.36.11**
+
+bahur ayaṃ saṃgaruṣṭo nyakto bhūmyām adhi | tenāham asya kartsyāmi yathā sthāmā gamiṣyati ||
+
+**19.36.12**
+
+sthāmāgan bṛhad akṣatraḥ sthāmantākṣṇiṇo 'va syati | antaṣṭhānasya yo rājā sa utthāma gamiṣyati ||
+
+**19.36.13**
+
+agamad rājā sadanam agamat sūryo divam | udayan vṛtrahan plīhā aṅgarājo avīrahā ||
+
+**19.36.14**
+
+yathā panthāṃ kavāpatho apyeti mahāpatham | evā tvaṃ plīhan naḥ plīhi yato 'sy abhyāgataḥ ||
+
+**19.36.15**
+
+indreṇa dattaṃ balam āsurābhyāṃ śitaṅgaitac chālvatāyai ca tubhyam | tau nudethāṃ kaṇvā aśivā ajuṣṭā adhā gṛhāṇāṃ gṛhapā tvam eṣām ||
+
+**19.36.16**
+
+tvam agne gṛhapatir gṛhāṇāṃ tvaṃ prajānāṃ janitāsi dātā | tvaṃ nudasva kaṇvā aśivā ajuṣṭā sadānvā nirataḥ seda pāpīḥ ||
+
+**19.36.17**
+
+carmābhyaḥ krūram ānahya hariṇasya bhiyaṃ kṛdhi | mṛgām̐ anu pra pātaya marīcīr anu nāśaya ||
+
+**19.36.18**
+
+yady asy apsarāvīr yadi tvā rakṣo agrabhīt | tasmā apaplavaṃ havir manasā juhomi te ||
+
+**19.37.1**
+
+abhi tvā śatapāśayā- -atho sahasrapāśayā | dāśo matsyam iva tīdena mayi badhnāmi te manaḥ ||
+
+**19.37.2**
+
+ā hi te dakṣiṇaṃ padaṃ hṛdayyaṃ dade | upasthe padamopi ni tvām akri sve vaśe ||
+
+**19.37.3**
+
+pari tvā gām ivāsaraṃ mama patto nipattave | tan mārutaṃ ha vairudham āvataṃkaraṇaṃ kṛtam ||
+
+**19.37.4**
+
+ā nayāmi te mano aśvam ivāśvābhidhānyā | upa te muñce manaḥ pador upānahau yathā ||
+
+**19.37.5**
+
+yathā surā yathā madhu yathākṣā adhidevane | yathā ha gavyato mana evā mām abhi te manaḥ ||
+
+**19.37.6**
+
+evā kṛṇuṣva mā priyām antaḥ kṛṇuṣva mā hṛdi | yathā mannāpacetayā nānyāsāṃ kīrtayāś cana ||
+
+**19.37.7**
+
+yasyedaṃ vaiṣṭapaṃ havir bhagasya hastayor hitam | tenā tvābhi mṛśāmasi saubhāgyāya svastaye ||
+
+**19.37.8**
+
+bhaga memāṃ saṃ baṭ karo mā paścān mā paro daghaḥ | adhā bhagasya yo bhagas tenemāṃ saṃ sṛjā bhaga ||
+
+**19.37.9**
+
+bhagena tvā saṃ sṛjāmi māsureṇa surām iva | yathāsasi priyā patyur devṛbhyaḥ subhagāsasi ||
+
+**19.37.10**
+
+ud ito daivyaṃ vaca iṣum iva tunnaḥ khide | tenā sapatnān māmakān sāsahāni jahāni ca ||
+
+**19.37.11**
+
+agnir mā pātu vasubhiḥ purastāt savitādityair abhi pātu dakṣiṇāt | indro marudbhir abhi pātu paścād viśve devā abhi rakṣantu mottarāt ||
+
+**19.37.12**
+
+devarakṣasān mā pāhi manuṣyarakṣasān mā pāhi | viśvasmān mā rakṣasas pāhi ||
+
+**19.37.13**
+
+asau yas trikakud giriḥ śṛṅgābhyām abhitiṣṭhati | sa saṃpatatram udyugaṃ balāsam iva tiṣṭhatu ||
+
+**19.37.14**
+
+divyaḥ suparṇa ā patad ayodaṃṣṭro ayomukhaḥ | sa saṃpatatram udyugam ito yakṣmaṃ parā bhavat ||
+
+**19.37.15**
+
+sākaṃ balāsa pra pata cāṣeṇa kikidīvyā | sākaṃ vātasya dhrājyā saha naśya nihākayā ||
+
+**19.38.1**
+
+mābhi gāyaḥ śābaleyaṃ śauṇeyaṃ sādhuvāhinam | namas te bhadrayā kṛṇmo 'vihvṛtā cakṣuṣā tvaṃ śamakā śamayāti tvā ||
+
+**19.38.2**
+
+tṛndhi vi kṣiṇīhi peśaḥ kurvāṇikā tvam | jāreṇa patyā jakṣatī gṛhān gopāyamānikā śamakā śamayāti tvā ||
+
+**19.38.3**
+
+āṅkṣvābhyaṅkṣva- -abhyaktā śamanaṃ gamaḥ | atho pitṛbhyo gā iccha vijñānena bhagena ca śamakā śamayāti tvā ||
+
+**19.38.4**
+
+apehi manasas pāpa- -apa krāma parastaram | paro nirṛtyā ā cakṣur bahutrā jīvato manaḥ ||
+
+**19.38.5**
+
+bhadraṃ vai varaṃ vṛṇate bhadraṃ yuñjanti dakṣiṇam | bhadraṃ vaivasvataṃ cakṣur bahutrā jīvato manaḥ ||
+
+**19.38.6**
+
+yan me chidraṃ manaso yac ca vācaḥ sarasvatīṃ manyucittaṃ jagāma | viśvais tad devaiḥ saha saṃvidānaḥ saṃ dadhātu bṛhaspatiḥ ||
+
+**19.38.7**
+
+sphirā sphirataraṃ sphirā āttāraḥ | śatahasta samāhara sahasrahasta saṃ kira ||
+
+**19.38.8**
+
+ihaivā kira saṃ kira- -ihaiva sphātim asphiram | sphireyam astv oṣadhiḥ samudrasyeva saṃsravaḥ ||
+
+**19.38.9**
+
+ut tirā ā gamann upa- -ut tirāṇyāgaman | vṛṣṭe śāpaṃ nadīr iva- -iha sphātiṃ samāvahān ||
+
+**19.38.10**
+
+vi mayūkhā ā yacchantu gardabhā iva duryujaḥ | muhyantu sarve tantavo vṛtā nāḍī vitantrike ||
+
+**19.38.11**
+
+pra vām īṣve patatāṃ pra taṭā pra niveṣṭanam | muhyantu sarve tantavo andhe vitatavāyyau ||
+
+**19.38.12**
+
+āyavanī niveṣṭanaṃ vratā tasaram īṣve | muhyantu sarve tantavo andhe vitata vāyyau ||
+
+**19.38.13**
+
+mayārakārī prathamā- -ūrṇavābhir atho śakā | devānāṃ patnīḥ kṛttikā imaṃ tantum amūmuhan ||
+
+**19.38.14**
+
+agnir na etu prathamaḥ puraetā bṛhaspatiḥ | adhā bhaga pra ṇo yaccha tvaṃ hi dhanadā asi ||
+
+**19.38.15**
+
+pra ṇaḥ śūdra utāryaḥ pra ṇo rājota vṛtrahā | atho yat sarvam ātmanvat pra ṇo yacchatu dakṣiṇām ||
+
+**19.38.16**
+
+kavir yajñasya vi tanoṣi panthām ṛtasya pṛṣṭhe adhi dīdhyānaḥ | yena havyaṃ vahasi deva dūta itaḥ pracetā amuto vanīyān ||
+
+**19.38.17**
+
+madhuhasto madhujihvo madhuvarṇo madhuvrataḥ | atho madhupraśāsano bhago mā varcasāvatu ||
+
+**19.39.1**
+
+yā triṣaptaiḥ punar eti nānā rūpāṇi bibhratī | vācaspatir balā tasyā āre hetiṃ dadhātu mat ||
+
+**19.39.2**
+
+vācā nuttā kṛtyād indravatī jāgratā svapatī kṛtā | nuttā pākasya śaṃsena pratyak kartāram ṛcchatu ||
+
+**19.39.3**
+
+yad etad bhūri spardhase kṛtyāsmīti manyase | pratīcīnā paretya viṣād iva viṣamad dhataḥ ||
+
+**19.39.4**
+
+pareṇaitv aghaśaṃso mainena sam arāmahi | dyauś cāsmān pṛthivī ca- -ubhe pātām aṃhasaḥ ||
+
+**19.39.5**
+
+yava yāvayāsmad dveṣāṃsi yavamayena haviṣā | durhārde cakruṣe kṛtyāṃ grīvāsu prati muñcatam ||
+
+**19.39.6**
+
+anyā vo anyām avatv anyānyasyā upāvata | aśvā iva pravalgantīḥ kṛtyāṃ hatauṣadhayo 'rātiṃ hatauṣadhayaḥ ||
+
+**19.39.7**
+
+mehopa gā mopa raṃsthāḥ pathāṃ durgāṇy anv ihi | sapatni naśyatād ito dūraṃ gacchādhy okasaḥ ||
+
+**19.39.8**
+
+yasyās te nāma gṛhnāmi yasminn āramasecane | ā parasyāḥ parāvataḥ sapatnīṃ nāśayāmasi ||
+
+**19.39.9**
+
+triṃśataṃ trīṃś ca parvatāṃś caturaś ca girīn ati | sapatnīṃ brahmaṇaspate paro bhrūṇāny arpayā ||
+
+**19.39.10**
+
+un mādayata marutaḥ samudriyā ud dyāvāpṛthivī ubhe | ut tvā samudra ṛṣantu- -ut tvām agnir ayaṃ dahāt ||
+
+**19.39.11**
+
+yat sapatnī sapatnyā amuṣyā varca ādade | adhastād upavādiny asau syād aham uttarāt ||
+
+**19.39.12**
+
+ā te badhnāmy oṣadhiṃ sapatnībhyaḥ pracātanīm | yathā te 'sad ayaṃ patiḥ putrāṇāṃ te bhavat pitā ||
+
+**19.39.13**
+
+yāny ṛṇāny anuvartāny asmin yamasya yena balinā carāmi | idaṃ tad agne anṛṇo bhavāmi- -idaṃ tad agne avadānam astu ||
+
+**19.39.14**
+
+yās te sapta pravato yā u tisro yās te santi nivato yā abhīvataḥ | arvāvato aṣṭadhā trīṇi rocanā tās te agne saṃmanaso bhavantu jānan yamāya ni vahā kusīdam ||
+
+**19.39.15**
+
+yās ta ūrdhvās tanvo jātavedo yās tiraścīr uta yā anūcīḥ | tābhiṣ ṭvam agne sayujā gṛṇāno jānan yamāya ni vahā kusīdam ||
+
+**19.40.1**
+
+nāśaya palitaṃ śīrṣṇo yaḥ kṛṣṇas tan na ā bhara | tam oṣadhe tvaṃ vardhaya keśaṃ kṛṣṇataraṃ kṛdhi ||
+
+**19.40.2**
+
+yathāñjanaṃ tathāsasi yathā traikakudaṃ tathā | tat saṃbhavāt tat sabhas te vyucchantīr anūṣasaḥ ||
+
+**19.40.3**
+
+yatrāsti yatra tiṣṭhati yato naśyatvāsinam | divyaḥ suparṇo abravīd etat palitabheṣajam ||
+
+**19.40.4**
+
+divo nu mā bṛhato antarikṣād apāṃ stoko abhy apaptad rasāya | sam indriyeṇa payasā ham agne ṛṣīṇāṃ yajñaiḥ sukṛtāṃ kṛtena ||
+
+**19.40.5**
+
+yadi vṛkṣād abhy apaptat phalaṃ tad yady antarikṣāt tad u vāyur eva | yatrāspṛṣṭa tanvo yatra vāsaso na tat prāpnoti nirṛtiḥ parastāt ||
+
+**19.40.6**
+
+abhyañjanaṃ surabhyād u vāsaś candraṃ hiraṇyam adhi pūtrimaṃ yat | sarvā pavitrā vitatādhy asmiṃc chataṃ jīvāti śaradas tavāyam ||
+
+**19.40.7**
+
+yaḥ kīkasāḥ praśṛṇāti talīḍyam upatiṣṭhati | parāsthaṃ sarvaṃ jāyānyaṃ yaḥ kaś ca kakubhi śritaḥ ||
+
+**19.40.8**
+
+pakṣī jāyānyaḥ patati ya āviśati pūruṣam | tasyāhaṃ veda te nāma yato jāyānya jāyase ||
+
+**19.40.9**
+
+veda vai te nāma yato jāyānya jāyase | kathaṃ hi tatra tvaṃ hanyā yat kuryām ahaṃ haviḥ ||
+
+**19.40.10**
+
+ya āsyaṃ praviśati karoty udaraṃ mahat | yakṣmo yo atra jāyase taṃ jāyānyam anīnaśam ||
+
+**19.40.11**
+
+ārohān me mukhaṃ jātam ārohāj jaghanaṃ mama | ārohāt sarvā jātāsmy ṛṣabhasyopayodhanāt ||
+
+**19.40.12**
+
+svādīyasī surāyā lavaṇāc cārumattarā | gobhyo vanīyasīd aham ||
+
+**19.40.13**
+
+yāṃ tvā vāto 'vārayad ārdranābhā maharṣabhaḥ | tasyās te devi pṛthivyā ahaṃ saṃvananaṃ dada ā te śauṣkāsyaṃ dade ||
+
+**19.40.14**
+
+yuktau manasā saṃ suretasā devebhyo havyaṃ kṛṇavāva sādhu | yeṣāṃ bhāgas ta idaṃ juṣantām avikṣubdhāv udayāva bhadrayā ||
+
+**19.40.15**
+
+yena devā jyotiṣā dyām udāyan yenādityā vasavo yena rudrāḥ | yenāṅgirasaḥ svar āruruhus tenod ayāva yajamānau svasti ||
+
+**19.40.16**
+
+yaṃ papācāditiḥ putrakāmā yena prajāḥ kaśyapaḥ paryagṛhnāt | ya odanaḥ pacyate vaiśvadevaḥ sa no yame akṣito bhāgo astu ||
+
+**19.41.1**
+
+somasya prāṇaḥ pavate purastād dakṣiṇata aindra ā vātu vātaḥ | asya diśo māturo yā pratīcī sa no devāḥ śivo astv iha vātaḥ ||
+
+**19.41.2**
+
+mitrasya prāṇaḥ pavate ya uttarād bṛhaspater ūrdhva ud vātu vātaḥ | yo antarikṣam anu vāti vidvān sa no devaḥ śivo astv iha vātaḥ ||
+
+**19.41.3**
+
+ya uttarāt pavate yaḥ purastād yo dakṣiṇāt pavate yaś ca paścāt | ūrdhvām̐ uddeśām̐ anu yaḥ pravāti sa no devaḥ śivo astv iha vātaḥ ||
+
+**19.41.4**
+
+trīṇy antarikṣāṇy anu vāsi vāta tisro vāsi parāvataḥ | sahasrākṣau vṛtrahā pāhy arvāṅ vinudaṃ kṣetriyaṃ rapaḥ ||
+
+**19.41.5**
+
+na tatra dāraḥ kṛpaṇaṃ sasāra na pratighnānā rudatī na bibhratī | indro no yatrorukṛd vicakṣaṇaḥ sa no *'jyāni mahatīṃ ni yacchāt ||
+
+**19.41.6**
+
+indraḥ senāṃ mohayatu maruto ghnantv ojasā | agner vātasya dhrājyā tān viṣūco vi nāśaya ||
+
+**19.41.7**
+
+na dyaur eṣāṃ na pṛthivī nāditir na dhanaṃjayā | cakṣūṃṣy agnir ā dhattāṃ punar yantu parājitāḥ ||
+
+**19.41.8**
+
+amitrāṇāṃ daraya grāmam indra yo naḥ śatrur abhyeti jighāṃsan | yathaiṣām indranuttānām agninā veśo anu vartayāni me ||
+
+**19.41.9**
+
+jihmaṃ yugaṃ kṛṇvatām indranuttāḥ parācīnaiḥ pathibhir yantu riṣyantaḥ | tañ jayanto anv āsadema- -agninā veśo anu vartayantaḥ ||
+
+**19.41.10**
+
+amitrāṇāṃ grāmam upayuktam indreṇa nuttaṃ vi radāty agniḥ | satvānaḥ santv anumādyā ime yebhyaś carāmi haviṣā ghṛtena ||
+
+**19.41.11**
+
+aryamaṇaṃ hi devaṃ bhadraṃ kanyā yam ayakṣata | sa enā vṛtrahā deva ito muñcātu māmutaḥ ||
+
+**19.41.12**
+
+iyaṃ te rājan varuṇa jāmikā kṛṇute haviḥ | tasyai patiṃ ny ā vaha subhadraṃ pratikāmyam ||
+
+**19.41.13**
+
+ā krandaya dhanapate varam āmanasaṃ kṛṇu | sarvaṃ pradakṣiṇaṃ kṛdhi patim asyai pratikāmyam ||
+
+**19.41.14**
+
+ā paścād ā purastād ottarād adharād uta | pūrṇā bhagasya vartanis tenemām abhi vartayāmasi varcasā ca bhagena ca ||
+
+**19.41.15**
+
+nāsṛg asti pataṅgasya tardasya maśakadyāḥ | na saṃpatatram udyugo nyag glaur atra bhaviṣyati ||
+
+**19.41.16**
+
+apadasvad apādasat tuṇḍivyadhmāpādasat | apāpacid ito 'dasad apeto glaur naśiṣyaty apivyadhman naśiṣyati ||
+
+**19.41.17**
+
+yathā sūryaś candramasam udyann evāpagūhati | evā tvam ugra oṣadha imāṃ glāvam apagūhatād itaḥ ||
+
+**19.42.1**
+
+apadasvad apādasat tuṇḍivyadhmāpādasat | apāpacid ito 'dasad apeto glaur naśiṣyaty apivyadhman naśiṣyati ||
+
+**19.42.2**
+
+mā śile mā śilāvati mā te śeṣi śilaṃ cana | yāvac chilasya te śilaṃ tāvac cheṣaḥ śilaṃ tava ||
+
+**19.42.3**
+
+yathā yūpāgrād udakaṃ viniṣṭaṃ bhūmim aśnute | evā tvam arase śile viniṣṭā bhūmim aśnuhi ||
+
+**19.42.4**
+
+vajro 'si sapatnahā tvayādya vṛtraṃ sākṣīya | tvām adya vanaspate vṛkṣāṇām ud ayuṣmahi ||
+
+**19.42.5**
+
+sa na indra purohito viśvatas pāhi rakṣasaḥ | abhi gāvo anūṣata- -abhi dyumnaṃ bṛhaspate ||
+
+**19.42.6**
+
+prāṇa prāṇaṃ trāyasva- -aso asave mṛḍa | nirṛte nirṛtyā naḥ pāśebhyo muñca ||
+
+**19.42.7**
+
+hatsuke pari ṇo nama pārigaṃ tanve kṛdhi | yuyuta parṇinaṃ śaram utāparṇaṃ riśād iti ||
+
+**19.42.8**
+
+prajāpatiṣ ṭvā prajayā saṃ putreṇa sṛjatu saṃ bhagena | diṣṭaṃ deṣṭīha kāmo brāhmaṇasya pumāṃsaṃ dhatsva savituḥ savena ||
+
+**19.42.9**
+
+pra tvā sarpatv aṅkataḥ kumāraḥ puruṣād adhi | ṛtor yam ṛtviyād adhi yaṃ te dhātā acīkl̥pat ||
+
+**19.42.10**
+
+yaṃ te dhātā yaṃ te tvaṣṭā yaṃ te brahmācīkl̥pat | taṃ tvaṃ putraṃ vindasva tasmai tvaṃ jīva jīvase ||
+
+**19.42.11**
+
+dhvasrās tiṣṭhanti rajasā samaktā yajñasya hotrāḥ pruśitāso aśnāḥ | āsāṃ somasya yad ihāvayanti tad amūtra yajamānasya rūpam ||
+
+**19.42.12**
+
+ye brāhmaṇaṃ varco hitvāya malvā reṇo varṇena paridhāpayanti | āsāṃ somasya yad ihāvayanti tad amūtra yajamānasya rūpam ||
+
+**19.42.13**
+
+asārathiḥ sumanaso yathā ratho hitvā savyaṣṭhāṃ rakṣaso yāti yāmam | evā yajño yajamānaṃ jahāti yatra somyaṃ somapīthān nayanti ||
+
+**19.42.14**
+
+chandāṃsi tad yajamānasya yanti yatra somyaṃ somapīthān nayanti | abrāhmaṇo yat pibati somam asya tad vai chidraṃ dakṣiṇayāpidheyam ||
+
+**19.42.15**
+
+'bradhno 'si vājī paripānī prathamā devebhyas paryābhṛtā | mā te riṣaṃ khanitā yasmai ca tvā khanāmasi ||
+
+**19.42.16**
+
+mā devāḥ pāpam ārāma mā karta pāpayāmuyā | māhaṃ pariṣyajo hastam ā rapsi dhanakāmyā ||
+
+**19.42.17**
+
+mā mā devāḥ parā dāta mā mā karta vyādhyam | māhaṃ pariṣvajaḥ śira ā rapsi mo ahaṃ mṛṣi ||
+
+**19.43.1**
+
+pratīkaṃ me vicakṣaṇam akṣau me madhukāśinī | karṇābhyāṃ bhūrisusravaḥ ||
+
+**19.43.2**
+
+jihvā me madhusaṃsrāvā jihvā me madhuvādinī | tayāham adya jihvayā- -udyāsaṃ madhumad vacaḥ ||
+
+**19.43.3**
+
+yathā madhu madhukṛtaḥ saṃbharanti madhāv adhi | evāham adya chandobhir udyāsaṃ madhumad vacaḥ ||
+
+**19.43.4**
+
+vāyoḥ pūtaḥ pavitreṇa pratyak somo adhiśritaḥ | indrasya yujyaḥ sakhā ||
+
+**19.43.5**
+
+yat kiñ cedaṃ varuṇa daivye jane abhidrohaṃ manuṣyāś caranti | ati cet tava dharmā yuyopima mā nas tasmād enaso deva rīriṣaḥ ||
+
+**19.43.6**
+
+āpo asmān mātaraḥ sūdayantu ghṛtena no ghṛtapavaḥ punantu | viśvaṃ hi ripraṃ pravahanti devīr ud id ābhyaḥ śucir ā pūta emi ||
+
+**19.43.7**
+
+mitraś ca samrāḍ varuṇaś ca rājā tau te bhakṣaṃ kṛṇutāṃ prātar agne | tayor aham anu bhakṣaṃ kṛṇomi sūryavarcā bhaga bhakto na ā viśa ||
+
+**19.43.8**
+
+sūryavarcā na ā viśa viśvavin manasas patiḥ | anehā soma jāgṛvir indraḥ prīta stuto nṛbhiḥ ||
+
+**19.43.9**
+
+indra prītasya te vayaṃ śukrasya rocanāvataḥ | bhakṣīmahi prajām iṣaṃ sāhasrasya yaśasvinaḥ ||
+
+**19.43.10**
+
+agniḥ prātaḥsavane pātv asmān vaiśvānaraḥ pathikṛd viśvakṛṣṭiḥ | sa naḥ pāvako draviṇe dadhāty āyuṣmantaḥ sahabhakṣāḥ syāma ||
+
+**19.43.11**
+
+viśve devā maruta indro asmān asmin dvitīye savane na jahyuḥ | āyuṣmantaḥ priyam eṣāṃ vadanto vayaṃ devānāṃ sumatau syāma ||
+
+**19.43.12**
+
+idaṃ tṛtīyaṃ savanaṃ kavīnām ṛtena yac camasaṃ samairayan | saudhanvanā amṛtam ānaśānāḥ sviṣṭin no abhi vasyo nayātha ||
+
+**19.43.13**
+
+saṃ saṃ sravantu nadyaḥ saṃ vātāḥ saṃ patatriṇaḥ | yajñam imaṃ vardhayatā giraḥ saṃsrāvyeṇa haviṣā juhomi ||
+
+**19.43.14**
+
+imaṃ homā yajñam avata- -imaṃ saṃsrāvaṇā uta | yajñam imaṃ vardhayatā giraḥ saṃsrāvyeṇa haviṣā juhomi ||
+
+**19.43.15**
+
+rūpaṃrūpaṃ vayovayaḥ saṃrabhyainaṃ pari ṣvaje | yajñam imaṃ catasraḥ pradiśo vardhayantu saṃsrāvyeṇa haviṣā juhomi ||
+
+**19.44.1**
+
+syūtā devebhir amṛtair na āgann ukhā svasāram adhi me dimasthāt | satyaṃ pūrvā ṛṣayaś cākṛpānā yajñapateḥ su pra tirantv āyuḥ ||
+
+**19.44.2**
+
+ukhāṃ sravantīm agadām akarma tvaṣṭā vāyuḥ pṛthivy antarikṣam | yata ścutad dhutam agnau tad astu na tat prāpnoti nirṛtiḥ parastāt ||
+
+**19.44.3**
+
+antar agnāv aścutat stoka eṣa nainaṃ suvātai nirṛtiḥ parastāt | viśvāvasor haviṣo vāvṛdhāno 'yaṃ yajñaḥ sukṛtām etu lokam ||
+
+**19.44.4**
+
+śyeno 'si gāyatracchandā anu tvā rabhe svasti mā saṃ pāraya ||
+
+**19.44.5**
+
+samrāḍ asi triṣṭupchandā anu tvā rabhe svasti mā saṃ pāraya ||
+
+**19.44.6**
+
+svaro 'si gayo 'si jagacchandā anu tvā rabhe svasti mā saṃpāraya ||
+
+**19.44.7**
+
+trāyamāṇe sarvavide mā pari dehi | sarvavid dvipāc ca sarvaṃ rakṣa catuṣpād yac ca naḥ svam ||
+
+**19.44.8**
+
+sarvavid viśvavide mā pari dehi | viśvavid dvipāc ca sarvaṃ rakṣa catuṣpād yac ca naḥ svam ||
+
+**19.44.9**
+
+viśvavit kalyāṇyai mā pari dehi | kalyāṇi dvipāc ca sarvaṃ rakṣa catuṣpād yac ca naḥ svam ||
+
+**19.44.10**
+
+kalyāṇi trāyaṃāṇāyai mā pari dehi | trāyamāṇe dvipāc ca sarvaṃ rakṣa catuṣpād yac ca naḥ svam ||
+
+**19.44.11**
+
+vi khana vi ruja vi jahy atraivānākṛtaś cara | sam aham āyuṣā saṃ mayāyuḥ ||
+
+**19.44.12**
+
+vi khana vi ruja vi jahy atraivānākṛtaś cara | sam ahaṃ varcasā saṃ mayā varcaḥ ||
+
+**19.44.13**
+
+vi khana vi ruja vi jahy atraivānākṛtaś cara | sam ahaṃ tejasā saṃ mayā tejaḥ ||
+
+**19.44.14**
+
+vi khana vi ruja vi jahy atraivānākṛtaś cara | sam ahaṃ prajayā saṃ mayā prajā ||
+
+**19.44.15**
+
+vi khana vi ruja vi jahy atraivānākṛtaś cara | sam ahaṃ paśubhiḥ saṃ mayā paśavaḥ ||
+
+**19.44.16**
+
+divo reto 'si pṛthivyā nabhyam | nabhyam asi nabhyaṃ mā kṛṇu ||
+
+**19.44.17**
+
+divo reto 'si pṛthivyāḥ śaktiḥ | śaktir asi śaktaye te vidheyam ||
+
+**19.44.18**
+
+divo reto 'si pṛthivyā vittiḥ | vittir asi vittaye te vidheyam ||
+
+**19.44.19**
+
+divo reto 'si pṛthivyāḥ puṣṭiḥ | puṣṭir asi puṣṭaye te vidheyam ||
+
+**19.44.20**
+
+divo reto 'si pṛthivyā bhūtiḥ | bhūtir asi bhūtaye te vidheyaṃ bhūtir asi bhūtāsi bhūyāsam ||
+
+**19.44.21**
+
+śukro 'si bhrājo 'si | sa yathā tvaṃ bhrājato bhrājo 'sy evāhaṃ bhrājato bhrājyāsam ||
+
+**19.44.22**
+
+sāyaṃsāyaṃ gṛhapatir no agniḥ prātaḥprātaḥ saumanasasya dātā | vasorvasor vasudhāna edhi vayaṃ tvendhānās tanvaṃ puṣema ||
+
+**19.44.23**
+
+prātaḥprātar gṛhapatir no agniḥ sāyaṃsāyaṃ saumanasasya dātā | vasorvasor vasudhāna edhi- -indhānās tvā śataṃ himā ṛdhema ||
+
+**19.44.24**
+
+yo na āviḥ śapati yaś ca stāyad yadi cittyā manyunā yat sapatnaḥ | agniṣ ṭān pāśān pra mumoktu devo yāvayatu śapathām̐ varuṇo dhṛtavrataḥ ||
+
+**19.45.1**
+
+prāgnaye vācam īraya vṛṣabhāya kṣitīnām | sa naḥ parṣad ati dviṣaḥ ||
+
+**19.45.2**
+
+yaḥ parasyāḥ parāvatas tiro viśvābhirocate | sa naḥ parṣad ati dviṣaḥ ||
+
+**19.45.3**
+
+yo rakṣāṃsi nijūrvaty agniḥ śukreṇa śociṣā | sa naḥ parṣad ati dviṣaḥ ||
+
+**19.45.4**
+
+yo viśvābhi vipaśyati bhuvanā saṃ ca paśyati | sa naḥ parṣad ati dviṣaḥ ||
+
+**19.45.5**
+
+madhu vātā ṛtāyate madhu kṣaranti sindhavaḥ | mādhvīr gāvo bhavantu naḥ ||
+
+**19.45.6**
+
+madhu naktam utoṣaso madhumat pārthivaṃ rajaḥ | mādhvīr naḥ santv oṣadhīḥ ||
+
+**19.45.7**
+
+madhumān no vanaspatir madhumām̐ astu sūryaḥ | madhu dyaur astu naḥ pitā ||
+
+**19.45.8**
+
+āpo hi ṣṭhā mayobhuvas tā na ūrje dadhātana | mahe raṇāya cakṣase ||
+
+**19.45.9**
+
+yo vaḥ śivatamo rasas tasya bhājayateha naḥ | uśatīr iva mātaraḥ ||
+
+**19.45.10**
+
+tasmā araṅgamāma vo yasya kṣayāya jinvatha | āpo janayathā ca naḥ ||
+
+**19.45.11**
+
+āyaṃ gauḥ pṛśnir akramīd asadan mātaraṃ punaḥ | pitaraṃ ca prayaṃtsvaḥ ||
+
+**19.45.12**
+
+asya prāṇād apānaty antaś carati rocanā | vy akhyan mahiṣo divam ||
+
+**19.45.13**
+
+triṃśad dhāma vi rājati vāk pataṅgāya śiśriyat | prati vastor aha dyubhiḥ ||
+
+**19.45.14**
+
+yac chakrā vācam āruhann antarikṣaṃ siṣāsantaḥ | saṃ devā amadan vṛṣā ||
+
+**19.45.15**
+
+śakro vācam adhiṣṭhāya- -uruvāco asṛṣṭa hi | mahiṣā amadan divi ||
+
+**19.45.16**
+
+śakro vācam asṛṣṭa hi dhāmadharman vi rājati | vimadaṃ barhir ā sarat ||
+
+**19.46.1**
+
+dhruvo 'si dharuṇo 'stṛto viśvakarmaṇā sudhṛtaḥ | mā tvā samudra ud vadhīn mā suparṇo 'vyathamāna imaṃ dṛṃha ||
+
+**19.46.2**
+
+āṣāḍho 'si sahamānaḥ sahasva- -ārātiṃ sahasva pṛtanāyataḥ | sahasravīryo 'si sa imaṃ jinva ||
+
+**19.46.3**
+
+adbhyaḥ saṃbhūto 'si pṛthivyā rasāc ca viśvakarmaṇaḥ samavartathā adhi | tasya tvaṣṭā vidadhad eti rūpaṃ vidvān tat te devam ājānam agre ||
+
+**19.46.4**
+
+ṣaṣṭiś cādhvaryo navatiś ca pāśā hotāram agnim antarā vicṛttāḥ | sinanti pākam ati dhīra ety ṛtasya panthām anv eti vidvān ||
+
+**19.46.5**
+
+yo adhvaryuḥ sapta hotrāṇi vidvān pūrvo hotur yajata ājigharti | ūrdhvaṃ sa yajñam adhvaraṃ kṛṇoti ya īṃ ciketa haviṣo vibhāge ||
+
+**19.46.6**
+
+atro vibhaktari haviṣo vibhāge mā nir bhākṣīd bhāginaṃ mopahaty | mo abhāgo vidita yo mumoha ||
+
+**19.46.7**
+
+vāta ā vātu bheṣajaṃ śambhu mayobhu no hṛde | pra ṇa āyūṃṣi tāriṣat ||
+
+**19.46.8**
+
+uta vāta pitāsi na uta bhrātota naḥ sakhā | sa no jīvātave kṛdhi ||
+
+**19.46.9**
+
+yad ado vāta te gṛhe nihitaṃ bheṣajaṃ guhā | tasya no dehi jīvase ||
+
+**19.46.10**
+
+yo na jīvo 'si na mṛto devānām amṛtagarbho 'si svapna | varuṇaṇī te mātā yamaḥ pitā ||
+
+**19.46.11**
+
+yathā kalāṃ yathā śaphaṃ yatha rṇaṃ saṃnayanti | evāha duṣvapnyaṃ sarvam apriye saṃ nayāmasi ||
+
+**19.46.12**
+
+ararur nāmāsi taṃ tvā svapna tathā vidma sa naḥ svapna susvapnyatāṃ dhehi ||
+
+**19.46.13**
+
+naitasyāgre havir adanti devā nirbhakta eṣa sukṛtasya lokāt | pāpīṃ dhiyaṃ jujuṣa ātmanaiṣa sa hi duṣkṛn manuṣyeṣv antaḥ ||
+
+**19.46.14**
+
+yo mātṛhā pitṛhā svasṛhā ye ca duṣkṛtaḥ | vidhiṣau te amṛkṣata malaṃ manuṣyā iva ||
+
+**19.46.15**
+
+etad evaitaṃ nirarṣur devā bhrūṇaghnyā lokam apy ety eṣaḥ | na te cṛtye haviṣā nāthitasya rāṣṭram ete śakrā vi cṛtanti pāśam ||
+
+**19.47.1**
+
+ya ākho yo vyukho vīṇavām̐ iha sarpati | taṃ pari paribheṣajaṃ vṛścikajambhanam asi ||
+
+**19.47.2**
+
+mayūro atti vṛścikaṃ mayūraṃ vayam admasi | taṃ pari paribheṣajaṃ vṛścikajambhanam asi ||
+
+**19.47.3**
+
+āpa id vā u bheṣajīr āpo amīvacātanīḥ | āpo viśvasya bheṣajīr āpo vṛścikajambhanīḥ ||
+
+**19.47.4**
+
+tvam agne vratapā asi deva ā martyeṣv ā | tvaṃ yajñeṣv īḍyaḥ ||
+
+**19.47.5**
+
+yad vo vayaṃ pramināma vratāni viduṣāṃ devā aviduṣṭarāsaḥ | agniṣ ṭad viśvād ā pṛṇātu vidvān somasya yo brāhmaṇām̐ āviveśa ||
+
+**19.47.6**
+
+ā devānām api panthām aganma yac chaknavāma tad anu pravodhum | agnir vidvān sa yajāt sa id dhotā so adhvaraṃ sa ṛtūn kalpayāti ||
+
+**19.47.7**
+
+ut tudā i śimidvatīṃ vi duryoṇā iva dupadā i | ud asyāḥ pātayā manaḥ śaśvatībhyaḥ samābhyaḥ ||
+
+**19.47.8**
+
+pakvaṃ māṃsam ivāsinā śakuniprapatanāṃ kṛdhi | mṛgām̐ anu pra pātaya marīcīr anu nāśaya ||
+
+**19.47.9**
+
+viṣvañcau gāvāv ā kuru viṣvañcau yugyā uta | utāsau sūrya ūrdhvaṃ viṣvañcau vāṃ vy ā karat ||
+
+**19.47.10**
+
+viṣam ugraṃ viṣaṃ sthiraṃ viṣasya mahimā mahān | viṣaṃ parasvataḥ śiraḥ śatadhā vy apātayat ||
+
+**19.47.11**
+
+saṃ daha vrajaṃ yathā vasudhā vasu vartayat | yaṃ viṣa prasarpasi sam agnir iva taṃ daha ||
+
+**19.47.12**
+
+gṛhāṇa māṃsāny ava lomāni pātaya | pāṃśūn kṛkāṭa ā vāpāc chindhy uttānapādam ardaya ||
+
+**19.47.13**
+
+madhor ahaṃ madhutaro madhughān madhumattaraḥ | āsani kila me madhu mukhe nimandanaṃ kṛtam ||
+
+**19.47.14**
+
+mām it tvam abhi cākaśo mṛgas tṛṣyann ivodakam | adhaspadān ma ud vadān maṇḍūko gośaphād iva ||
+
+**19.47.15**
+
+ud vadā me adhaspadān maṇḍūko gośaphād iva | atho 'pa cakrā āsāsai śvā bandha ivāhataḥ ||
+
+**19.48.1**
+
+ā vada bahulaṃ goṣṭhaṃ suvīraṃ bahupūruṣam | yatheto na pramīyātā evā me goṣṭham ā vada ||
+
+**19.48.2**
+
+ā vada duhituṣ pate bhrātur jāmātar ā vada | paścā ta udbhūtaḥ sphigaḥ kiṣkindhānām avīr jahi ||
+
+**19.48.3**
+
+yad ulūko vadati mogham etad yat kapotaḥ padam agnau kṛṇoti | śrutakarṇāya kavaye stomyāya tasmai yamāya namo astv adya ||
+
+**19.48.4**
+
+ya aindrāḥ pāśā ye ca vāruṇā āre asmat tān devī nirṛtir dadhātu ||
+
+**19.48.5**
+
+ye vaiśvānarāḥ pāśā ye ca mārutā āre asmat tān devī nirṛtir dadhātu ||
+
+**19.48.6**
+
+ye vaiśvadevāḥ pāśā ye ca vaiśvakarmaṇā āre asmat tān devī nirṛtir dadhātu ||
+
+**19.48.7**
+
+nārade kitave varuṇe soma aicchan mahimānaṃ mahāntam | avindat taṃ viśvakarmā samudre akṣāṇāṃ klandam ainam asmin dadhāmi ||
+
+**19.48.8**
+
+yad dhastayor yac cakṣuṣor mano yat praviveśa te | skandān asya praskandena klandena klandayāmi tat ||
+
+**19.48.9**
+
+tisro devīr apsarasa ākaikā sākaikā pretaprayām ety ekasyā nāma | juṣāṇā apsarasa ājyasya sahaso vyantu svāhā ||
+
+**19.48.10**
+
+atyākṣaṃ tvā manasā- -atyākṣaṃ hṛdayena tvā | atyākṣaṃ sarvair aṅgais tvā tathā hi tyajanaṃ kṛtam ||
+
+**19.48.11**
+
+imā yāḥ prati nandatha striyaḥ pumāṃsam anvitam | sarvāḥ saṃgatya brūta tejane tyajanaṃ kṛtam ||
+
+**19.48.12**
+
+tyajanaṃ me dyāvāpṛthivī adhātāṃ tyajanaṃ devaḥ savitā bṛhaspatiḥ | agniś ca tubhyaṃ sūryaś ca tejane tyajanaṃ kṛtam ||
+
+**19.48.13**
+
+saṃ divaḥ saṃ pṛthivyāḥ saṃ vātāt saṃ nadībhyaḥ | saṃskandam indra ābharat sa āgāt so 'gād idam ||
+
+**19.48.14**
+
+saṃskandam oja ojasā devebhir nāma te hitam | hiraṇyanāma nāma te saṃskandāsy oṣadhe ||
+
+**19.48.15**
+
+saṃ samudro nadībhiḥ saṃ dyāvāpṛthivī ubhe | saṃ jāyā patyā yonyāṃ saṃskandāsy oṣadhe ||
+
+**19.48.16**
+
+saṃ te śīrṣṇaḥ kapālāni saṃ yoniṃ saṃgavīnyau | saṃ te sarvāṇy aṅgāni saṃ skandenābhi dadhmasi ||
+
+**19.48.17**
+
+śriyaṃ dhātur mayi dhehi śriyā mādhipatiṃ kṛṇu | viśām īśāno maghavān indro mā yaśasā nayat ||
+
+**19.48.18**
+
+mayi tyad indriyaṃ bṛhan mayi dakṣa uta kratuḥ | gharmas triś cid vi bhātu mā gāyatrīcchandasā virāḍjyotiṣā tasya doham aśīya ||
+
+**19.48.19**
+
+arkāsadhasthau kavimātariśvānau yamāṅgirasaḥ | yaśasvinaṃ mā devā yaśasaḥ kṛṇuta svāhā ||
+
+**19.49.1**
+
+indraṃ vayaṃ vaṇijo havāmahe sa nas trātā pura etu prajānan | ghnann arātiṃ paripanthinaṃ mṛgaṃ sa īśāno dhanadā astu mahyam ||
+
+**19.49.2**
+
+paṇo no astu prapaṇo vikrayaś ca pratipaṇo no dhaninaḥ kṛṇotu | saṃrarāṇā āhutiṃ juṣantāṃ śunaṃ no astu caritam utthitaṃ ca ||
+
+**19.49.3**
+
+yat paṇena pratipaṇaṃ carāmi svena devā dhanam icchamānaḥ | indro me tasmin rucam ā dadhātu bṛhaspatiḥ savitā somo agniḥ ||
+
+**19.49.4**
+
+ye vaḥ panthā bahavo devayānā anu dyāvāpṛthivī saṃcaranti | teṣām ahaṃ māṃ varcasyā dadhāmi yathā krītvā dhanam ā vahāni ||
+
+**19.49.5**
+
+viddhavāsase nirṛter ye ca pāśā apaśritāḥ | tebhyaḥ pra mucyate varmī viṣkandham upa sādayan ||
+
+**19.49.6**
+
+na vai tad vāso bhavati yasmin vidhyanti pūruṣam | asnā samajyate rūpaṃ tasmāt tad apalopyam ||
+
+**19.49.7**
+
+uttiṣṭhann apriyāyata- -avidvān bahubhājyam | na panthāṃ bhadram aśnute ya enena carāt saha ||
+
+**19.49.8**
+
+brahmaṇaitat pratigṛhyaṃ tena tat kṛṇute śivam | ārkāt pramucyate pāśāt tena dātā vi paśyati ||
+
+**19.49.9**
+
+yau vyāghrāv avarūḍhāv avāñcau jighatsataḥ pitaraṃ mātaraṃ ca | tau dantau brahmaṇā brahmaṇaspate śivau kṛṇu tvam iha jātavedaḥ ||
+
+**19.49.10**
+
+vrīhim attaṃ yavam attaṃ māṣam attam atho tilam | sa vāṃ bhāgo nihito ratnadheyaṃ mā hiṃsiṣṭaṃ pitaraṃ mātaraṃ ca ||
+
+**19.49.11**
+
+aghorau sayujā saṃvidānau syonau dantau sumaṅgalau | mā hiṃsiṣṭaṃ pitaraṃ mātaraṃ ca- -anyatra vāṃ tanvo ghoram astu ||
+
+**19.49.12**
+
+enā yutām indrāgnī rājñā somena medinā | indro marutvān ādānam amitrebhyaḥ kṛṇotu me ||
+
+**19.49.13**
+
+idam ādānam akaraṃ tapasendreṇa saṃśitam | amitrā yatra santi me tān ādāṃ dviṣato mama ||
+
+**19.49.14**
+
+ādānena saṃdānena- -amitrān saṃ dyāmasi | apānā ye caiṣāṃ prāṇā asunāsūn sam acchidam ||
+
+**19.49.15**
+
+pratūrtāya marutvate svāhā ||
+
+**19.49.16**
+
+jayadvīrāyābhiṣatvane svāhā ||
+
+**19.49.17**
+
+bṛhaspataye viśvadevāvate svāhā ||
+
+**19.50.1**
+
+pra dyauḥ pra pṛthivī prāntarikṣaṃ svam arhat | pretaḥ samudriyā āpaḥ śalyam acucyavuḥ ||
+
+**19.50.2**
+
+pra tvā vātaś cyāvayatu pra bhūmiḥ sahasā saha | pretaḥ samudriyā āpaḥ śalyam acucyavuḥ ||
+
+**19.50.3**
+
+pra tvā sūryaś cyāvayatu nakṣatraiḥ saha medibhiḥ | pretaḥ samudriyā āpaḥ śalyam acucyavuḥ ||
+
+**19.50.4**
+
+yo mā pautudruvo maṇir viśvabheṣaja āgamat | so asmat sarvaṃ duṣvapnyam apa hantu tamaś ca yat ||
+
+**19.50.5**
+
+apāsmat sarvaṃ duṣvapnyam apa pāpīṃ ca lakṣmyam | adhā hiraṇyavarcasaṃ sarvadā mā maṇe kṛdhi ||
+
+**19.50.6**
+
+sarvadaivāhaṃ bhagavān indriyāvān viṣāsahiḥ | yo mā pautudruvo maṇir draviṇena sahāruhad indreṇa sahāruhat ||
+
+**19.50.7**
+
+pumān aśvo dhanaṃ vittiṃ pumān niṣko hiraṇyayaḥ | pumāṃsaṃ putram oṣadhe 'syā ā dhehi nāryai ||
+
+**19.50.8**
+
+yathānandāḥ puṃsi jāte na vravastīti kaś cana | evā tvaṃ putram oṣadhe 'syā ā dhehi nāryai ||
+
+**19.50.9**
+
+aśvena riṣyena gavā krītāsy oṣadhe | aśvaḥ śveto dhanaṃ tava hiraṇyaṃ haritaṃ tava | dattā somena rājñeha puṃsavanaṃ bhava ||
+
+**19.50.10**
+
+yan me nṛmṇaṃ draviṇaṃ brāhmaṇaṃ ca yac ca śrutaṃ yac ca ratnaṃ bibharmi | etan no atra nidhipānu pātu yāvad aimi strīyaṇamajmā vyajya ||
+
+**19.50.11**
+
+yan me nṛmṇaṃ draviṇaṃ brāhmaṇaṃ ca ye agnayo dhṛṣṇiyāso mayīme | hariścandro rakṣatu tan no atra yāvad aimi paro grāmaṃ caritvā ||
+
+**19.50.12**
+
+eṣa aimi paro grāmaṃ caritvā- -accha nṛmṇaṃ draviṇaṃ brāhmaṇaṃ ca | yad atrāpi tve śuci- -idaṃ tad aham ā dade ||
+
+**19.50.13**
+
+ā sūryo hi prathamaṃ dasyuhatyāya śakra hārī yuñjāno maghavan sahasram | dāsaṃ varṇaṃ randhayann āryāya yuñjāno bāhū puruhūta vajram ||
+
+**19.50.14**
+
+āhṛḍate dasyuhatyāya tūrṇa dṛḍhāni parvā śṛṇīhīndra | tīvrāśraddho bahulāny eṣām ayujvano arpaya saṃ vadhena ||
+
+**19.50.15**
+
+darśan nu citrapāvānam indraṃ bahu sākaṃ śarām̐ iva patyamānān | ye no ghṛṣviṃ maghavānaṃ pṛtanyān abhīru teṣu kavayo vavṛtyuḥ ||
+
+**19.51.1**
+
+idāvatsarāya parivatsarāya saṃvatsarāya prati vedayāma etat | yad vrateṣu duritaṃ nijagmima durhārdaṃ tena śamalenāñjmaḥ ||
+
+**19.51.2**
+
+yan me vrataṃ vratapate lulobha- -ahorātre sam adhātāṃ ma etat | udyan purastād bhiṣag astu candramāḥ sūryo raśmibhir abhi gṛṇātv etat ||
+
+**19.51.3**
+
+yad vratam atipede cittyā manasā hṛdā | ādityā rudrās tan mayi vasavaś ca sam indhatām ||
+
+**19.51.4**
+
+vratāni vratapataya upā karomy agnaye | sa me dyumnaṃ bṛhad yaśo dīrgham āyuṣ kṛṇotu me ||
+
+**19.51.5**
+
+mayobhūr vāto abhi vātūsrā ūrjasvatīr oṣadhīr ā riśantām | medasvatīr jīvadhanyā mayobhuvaḥ padvate 'vasāya rudra mṛḍa ||
+
+**19.51.6**
+
+yā ekarūpā viśvarūpāḥ sarūpā yāsām agnir ūdho vo janma veda | yā aṅgirasas tapaseha cakrus tābhyaḥ parjanya mahi śarma yacchāt ||
+
+**19.51.7**
+
+yā deveṣu tanva airayanta yāsāṃ somo rūpadheyāni veda | tā asmabhyaṃ bahulāḥ pinvamānāḥ prajāvatīr indra goṣṭhe didiśyāḥ ||
+
+**19.51.8**
+
+prajāpatir mahyam etā rarāṇo bahvīḥ satīr upa me goṣṭha ākaḥ | tāsāṃ vayaṃ prajayā saṃ sadema jyog jīvantaḥ śaradaḥ purūcīḥ ||
+
+**19.51.9**
+
+abhiṣṭhitā carkardīti piśaṅgī bahukardinī | kardo ha jajñe hālīkṣṇād vrīher māṣād atho yavāt ||
+
+**19.51.10**
+
+yathā bhasad dhālīkṣṇasya na saṃbhavati kardave | evā halagna kardaya nir grāmān nir diśo jahi ||
+
+**19.51.11**
+
+yathā parasvāṃ chardhate gardabhaḥ kṛdhusandṛśaḥ | evā te śardhatāṃ bhasad dhālīkṣṇaparṇa śardhaya vṛtrahā śākī śardhaya ||
+
+**19.51.12**
+
+pavīraval lāṅgalaṃ suśevaṃ somapitsaram | tad ut kṛṣati gām aviṃ prapharvyaṃ ca pīvarīṃ prastāvaṃ rathavāhanam ||
+
+**19.51.13**
+
+śunaṃ varatrām ā yaccha śunam aṣṭrām ud iṅgaya | śunaṃ vāhasya yuktasya- -aṣṭrayā jahi dakṣiṇam ||
+
+**19.51.14**
+
+madhumantaṃ ni gṛhāṇa phālaṃ kṣetreṣu sarvadā | tat parjanyo 'bhi varṣatu bhūmne dhānyāya kartave ||
+
+**19.51.15**
+
+etā u tyā adṛkṣata- -āyatīr vedyām adhi | prāhāgnir havyaṃ devebhyo mantro hotā haviṣpatiḥ ||
+
+**19.51.16**
+
+emā agur mayobhuvo madhor ūdhāṃsi bibhratīḥ | tā upa pra śikṣata duhānā akṣitaṃ payaḥ ||
+
+**19.51.17**
+
+iḍā stha madhupṛco viśvarūpās tā mā viśata | saha prāṇena tejasā harasā balena ||
+
+**19.52.1**
+
+divo nabhaḥ śukraṃ payo duhānā- -rtasya nābhir amṛtaṃ vi caṣṭe ||
+
+**19.52.2**
+
+ghṛtaṃ duhānā viśvataḥ prapītām ūrjaṃ duhānā anapasphurantīm | upāsatāṃ sukṛtaḥ svadhābhiḥ ||
+
+**19.52.3**
+
+ghṛtam iccha pinvamānām imāṃ yonim upādhvam | svadhā yāś cakṛṣe jīvan tās te santu madhuścutaḥ ||
+
+**19.52.4**
+
+saṃ rasā oṣadhīnāṃ sam ākūtīr namantu me | ūrjasvantaṃ payasvantaṃ pṛthivyā hastam anv agām ||
+
+**19.52.5**
+
+pariṇītir asi hastasya pathaḥ pariṇītir asi | evā ha duṣvapnyaṃ sarvaṃ stambe pari ṇayāmasi ||
+
+**19.52.6**
+
+payasvan me kṣetram astu payasvad uta dhānyam | kṛṣiḥ payasvatī mama- -ahaṃ payasvān bhūyāsam ||
+
+**19.52.7**
+
+vṛṣṇe bṛhate svarvide 'gnaye śuklaṃ harāmi tviṣīmate | sa na sthirān balavataḥ kṛṇotu jyok ca no jīvātave dadhātu ||
+
+**19.52.8**
+
+veda vai te 'gne nāma- -adbhir nāmāsi trivarūthaḥ | trayaḥ poṣās trivṛd asmān yajñaḥ sacatām ||
+
+**19.52.9**
+
+prajāpateḥ payasā vāvṛdhānā āyuṣmanto varcasvinaḥ | jyog jīvanta upa tvā sadema ||
+
+**19.52.10**
+
+urūṇasāv asutṛpā udumbalau yamasya dūtau carato janām̐ anu | vedāhaṃ veda sūryaḥ kim etau kiṃ kariṣyataḥ ||
+
+**19.52.11**
+
+na mā dadambha dabhasādabhīyaṃ na pāko asmi januṣā na śiṣyaḥ | abhīṣāḍ asmi viśvāṣāṭ pṛtanāṣāṭ svarvid yad idaṃ viśvaṃ bhuvanaṃ so asmi ||
+
+**19.52.12**
+
+āsthād ud asthād ajaniṣṭa vipro 'mimīta varimāṇaṃ pṛthivyāḥ | āsīdat saṃrāḍ bhuvanāni viśvā sa icchā veda varuṇasya vratāni ||
+
+**19.52.13**
+
+prajāpatiḥ prajāvān sa mā prajāvān prajāvantaṃ kṛṇotu ||
+
+**19.52.14**
+
+sūryo varcasvān sa mā varcasvān varcasvantaṃ kṛṇotu ||
+
+**19.52.15**
+
+somaḥ payasvān sa mā payasvān payasvantaṃ kṛṇotu ||
+
+**19.52.16**
+
+triṃśan muṣkāḥ kābavasya daśa muṣkā ulūkyāḥ | catvāras tava kardama ||
+
+**19.52.17**
+
+tāṃs tvam ugrakāśini mūle api kṛntatāt | āsuro 'si janmanā taṃ tveto nāśayāmasi ||
+
+**19.52.18**
+
+indrajā asi somajās taṃ tveto niṣ pra hiṇmasi | urvā matsyo madhūdakaṃ tasya pāsy atyayam anāsrāvam arogaṇam ||
+
+**19.53.1**
+
+iṣirā cāsy ajirā cāsi | prajāpateḥ samid asi saṃsitir nāma lomaśā | prajāpatiṣ ṭvayā pratiṣṭhākāmo 'ruruta sa praty atiṣṭhat | sa yathā tvayā prajāpatiḥ pratiṣṭhākāmaḥ pratyatiṣṭhad evāhaṃ tvayā pratiṣṭhākāmaḥ prati tiṣṭheṣam | ā mā varo gamed ā mā brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.2**
+
+bhūtiś cāsi pratiṣṭhā cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.3**
+
+asvapnā cāsy anilayā cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.4**
+
+ruciś cāsi yakṣaṃ cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.5**
+
+kīrtiś cāsi yaśaś cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.6**
+
+ambhaś cāsi mahaś cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.7**
+
+annaṃ cāsy annādyaṃ cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.8**
+
+prayacchantī cāsi pradadatī cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.9**
+
+anukāmā cāsi kāmadughā cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.10**
+
+āharantī cāsi samāharantī cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.11**
+
+diśantī cāsi pradiśantī cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.12**
+
+anumatiś cāsy anumanyamānā cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.13**
+
+jitiś cāsi vijitiś cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.14**
+
+sañjitiś cāsi sandhanājitaṃ cāsi | prajāpateḥ (…) brahmacāriṇo gameyuḥ svāhā ||
+
+**19.53.15**
+
+agniḥ pṛthivyā adhipatiḥ somas tvāvatu vidma tvā viddhi mā | adhipatir asy adhipatiṃ mā kṛṇu gavām aśvānāṃ puruṣāṇāṃ brahmacāriṇāṃ bhūtyā annādyasya ||
+
+**19.53.16**
+
+vāyur antarikṣasyādhipatiḥ somas (…) annādyasya ||
+
+**19.53.17**
+
+sūryo divo adhipatiḥ somas tvāvatu vidma tvā viddhi mā | adhipatir asy adhipatiṃ mā kṛṇu gavām aśvānāṃ puruṣāṇāṃ brahmacāriṇāṃ bhūtyā annādyasya ||
+
+**19.53.18**
+
+vindad vasavo vindantu me gṛhān prajāṃ paśūn vittiṃ bhūtiṃ pratiṣṭhām ||
+
+**19.53.19**
+
+āyadvasava ā yantu me gṛhāḥ prajāḥ paśavo vittir bhūtiḥ pratiṣṭhā ||
+
+**19.53.20**
+
+saṃyad vasavaḥ saṃ yantu me gṛhāḥ | prajāḥ paśavo vittir bhūtiḥ pratiṣṭhā ||
+
+**19.53.21**
+
+jitir asi jīyāsaṃ pārthvīḥ pṛtanā jīyāsam ||
+
+**19.53.22**
+
+vijitir asi vi jeṣīya mānuṣīḥ pṛtanā jīyāsam ||
+
+**19.53.23**
+
+saṃjitir asi saṃ jīyāsaṃ sarvāḥ pṛtanā jīyāsam ||
+
+**19.54.1**
+
+bodhayainaṃ pra bodhaya svaptave mānu manyathāḥ | ūrdhvas tiṣṭhān mamādhyā nānyāsāṃ kīrtayāś cana ||
+
+**19.54.2**
+
+ā vartaya ni vartaya- -abhy ā vartayā kuru | idam asya sarvā cittāni smareṇa pra jayāmasi ||
+
+**19.54.3**
+
+smaraṃ tapanti marutaḥ samiddhe jātavedasi | ud asya patatāṃ manas tad asya ramatāṃ mayi ||
+
+**19.54.4**
+
+gaṇapate gaṇapatiṃ mā kṛṇu tasmān mā yavam ||
+
+**19.54.5**
+
+apigaṇāpigaṇaṃ mā kṛṇu tasmān mā chitsi ||
+
+**19.54.6**
+
+sagaṇa sagaṇaṃ mā kṛṇu tasmān mā naśam ||
+
+**19.54.7**
+
+gaṇavardhana gaṇaṃ me vardhaya gavām aśvānāṃ puruṣāṇāṃ brahmacāriṇāṃ bhūtyā annādyasya ||
+
+**19.54.8**
+
+gaṇābhivardhana gaṇaṃ me 'bhi vardhaya gavām (…) annādyasya ||
+
+**19.54.9**
+
+gaṇapravardhana gaṇaṃ me pra vardhaya gavām aśvānāṃ puruṣāṇāṃ brahmacāriṇām bhūtyā annādyasya ||
+
+**19.54.10**
+
+yac ca khātaṃ yac cākhātaṃ sarvaṃ tad arasaṃ viṣam ||
+
+**19.54.11**
+
+yac ca piṣṭaṃ yac cāpiṣṭaṃ sarvaṃ tad arasaṃ viṣam ||
+
+**19.54.12**
+
+yac ca digdhaṃ yac cādigdhaṃ sarvaṃ tad arasaṃ viṣam ||
+
+**19.54.13**
+
+yathā vṛkī jagdhaputrā vyāghrī vālalā bhavet | evā tvam alalā bhava- -ādhībhiḥ preṣito mama ||
+
+**19.54.14**
+
+yathā dīptaṃ śaratūlam agninālalā bhavet | evā tvam alalā bhava- -ādhībhiḥ preṣito mama ||
+
+**19.54.15**
+
+ā krandayālalā bhava dasya kāmena śuṣya ca | ādhībhiḥ preṣito mama ||
+
+**19.55.1**
+
+yayoḥ sarvam idam ārpitaṃ vaśe bhūtaṃ ca nimiṣac ca ceṣṭat | tau mā vadantaṃ gṛhṇītām upadraṣṭāram atra māsyoc cheṣy ayathāvat prajāpate ||
+
+**19.55.2**
+
+yo mā vadantaṃ hṛdayena vācā vācā śrotreṇa manasā jihṛkṣāt | tam indro devo varuṇo bṛhaspatir īśāno devo abhi yātu mṛtyur yathā na jīvād uṣasaṃ tṛtīyām ||
+
+**19.55.3**
+
+yo mā jihṛkṣād brahmīyān manyamāna itthaṃ vidvāṃsaṃ pramatir matīnām | tam indro devo varuṇo bṛhaspatir īśāno devo abhi yātu mṛtyur yathā na jīvād uṣasaṃ tṛtīyām ||
+
+**19.55.4**
+
+pratyagvadhenāsyāpi dadhāmi prāṇaṃ mo dānaṃ vidata yo mā jihṛkṣāt | so asyāyur ā chinattu kuliśeneva vṛkṣaṃ yathā na jīvād uṣasaṃ tṛtīyām ||
+
+**19.55.5**
+
+yasyā akṣaram ekam eva paraḥ sahasrā ayutaṃ ca śākhāḥ | tasyā vāco vidathāvadantaṃ yo mā jihṛkṣāt sa nv etv ārtim ||
+
+**19.55.6**
+
+uṣā vā ādityam aindha sa uṣaseddha ud ait sa udyan prajābhya ātapat so 'pa tamo 'hata so 'nnādyam avārundha | apa tamo hate 'nnādo bhavati ya evaṃ veda ||
+
+**19.55.7**
+
+vāto vā agnim aindha sa vāteneddho 'jvalat so 'dīpyata so 'pa tamo 'hata so 'nnādyam avārundha | apa tamo hate 'nnādo bhavati ya evaṃ veda ||
+
+**19.55.8**
+
+manomayī brāhmaṇam aindha sa brahmacaryam avasat sa vedam anv abrūta so 'pa tamo 'hata so 'nnādyam avārundha | apa tamo hate 'nnādo bhavati ya evaṃ veda ||
+
+**19.55.9**
+
+homena pratiran prajāpate dampatī pari dadhāmi puṣṭyā | rāyaspoṣaṃ savitar ni yaccha jarāmṛtyū kṛṇuhi sarvavīrau ||
+
+**19.55.10**
+
+ayaṃ homo vardhayann etu dampatī prajāvantau paśuvantau suvīrau | rāyaspoṣaṃ savitar ni yaccha jarāmṛtyū kṛṇuhi sarvavīrau ||
+
+**19.55.11**
+
+gomantaṃ paśumantam aśvamantaṃ homaṃ dampatībhyāṃ juhomi | rāyaspoṣaṃ savitar ni yaccha jarāmṛtyū kṛṇuhi sarvavīrau ||
+
+**19.55.12**
+
+jīvā stha jīvyāsaṃ sarvam āyur jīvyāsam ||
+
+**19.55.13**
+
+upajīvā sthopa jīvyāsaṃ sarvam āyur jīvyāsam ||
+
+**19.55.14**
+
+saṃjīvā stha saṃ jīvyāsaṃ sarvam āyur jīvyāsam ||
+
+**19.55.15**
+
+jīvalā stha jīvyāsaṃ sarvam āyur jīvyāsam ||
+
+**19.55.16**
+
+prajāpater ākūtir asi sāhasrī puṣṭiḥ | prajāpater ākūtyāhaṃ sāhasryā puṣṭyā sāhasrān paśūn puṣeyam ||
+
+**19.55.17**
+
+bṛhaspater ākūtiḥ (…) | bṛhaspater ākūtyā (…) ||
+
+**19.55.18**
+
+brahmaṇa ākūtir asi sāhasrī puṣṭiḥ | brahmaṇa ākūtyāhaṃ sāhasryā puṣṭyā sāhasrān paśūn puṣeyam ||
+
+**19.56.1**
+
+virāḍ asi virājaṃ mā kṛṇu tasyās te yaśo bhakṣīya ||
+
+**19.56.2**
+
+svarāḍ asi svarājaṃ mā kṛṇu tasyās te madhu bhakṣīya ||
+
+**19.56.3**
+
+samrāḍ asi samrājaṃ mā kṛṇu tasyās te annaṃ bhakṣīya ||
+
+**19.56.4**
+
+vīryāvatā te haviṣā juhomi jīvātave na martave | dakṣaṃ te bhadram āhārṣaṃ parā suvāmy āmayat ||
+
+**19.56.5**
+
+abhivīreṇa te (…) ||
+
+**19.56.6**
+
+suvīreṇa te (…) ||
+
+**19.56.7**
+
+sarvavīreṇa te haviṣā juhomi jīvātave na martave | dakṣaṃ te bhadram āhārṣaṃ parā suvāmy āmayat ||
+
+**19.56.8**
+
+prajāvatā te haviṣā juhomi garbham ā dhatsva yonyām | sa kāle jāyatāṃ punar daśame māsi sūtave ||
+
+**19.56.9**
+
+suprajasā te (…) ||
+
+**19.56.10**
+
+suputreṇa te haviṣā juhomi garbham ā dhatsva yonyām | sa kāle jāyatāṃ punar daśame māsi sūtave ||
+
+**19.56.11**
+
+bhūtaye te haviṣā juhomi- -imaṃ devāso abhi hiṅ karātha | asminn eva paśavaḥ saṃ viśantu catuṣpāda uta vā ye dvipādaḥ ||
+
+**19.56.12**
+
+vittaye te (…) ||
+
+**19.56.13**
+
+svṛddhena te (…) ||
+
+**19.56.14**
+
+samṛddhena te haviṣā juhomi- -imaṃ devāso abhi hiṅ karātha | asminn eva paśavaḥ saṃ viśantu catuṣpāda uta vā ye dvipādaḥ ||
+
+**19.56.15**
+
+kṣemyeṇa te haviṣā juhomi kṣemyo bhavāsi paśubhiś ca vīraiḥ | indrāgnī tvā sayujā sakhāyau viśvebhir devair anu saṃ dadetām ||
+
+**19.56.16**
+
+pratiṣṭhitena te haviṣā juhomi prati tiṣṭhāsi paśubhiḥ (…) ||
+
+**19.56.17**
+
+sambhūtena te haviṣā juhomi saṃ bhavāsi paśubhiḥ (…) ||
+
+**19.56.18**
+
+prabhūtena te haviṣā juhomi pra bhavāsi paśubhiś ca vīraiḥ | indrāgnī tvā sayujā sakhāyau viśvebhir devair anu saṃ dadetām ||

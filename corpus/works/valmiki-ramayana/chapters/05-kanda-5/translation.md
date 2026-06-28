@@ -17,6 +17,7 @@ word_count: 61834
 translator: thothica
 ---
 
+
 **5.1.1**  Then he, the crusher of foes, resolved to seek the track of Sītā who had been carried off by Rāvaṇa, on the path frequented by the Cāraṇas.
 
 **5.1.2**  Then the mighty, steadfast one roamed at ease over the verdant meadows colored like vaidūrya gems, which were as level as water.

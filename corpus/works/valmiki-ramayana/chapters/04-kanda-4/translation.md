@@ -17,6 +17,7 @@ word_count: 49018
 translator: thothica
 ---
 
+
 **4.1.1**  Having reached that lotus-pond teeming with blue lotuses and fish, Rāma, accompanied by Saumitri, lamented with distraught senses.
 
 **4.1.2**  At the very sight of it his senses trembled with delight; overpowered by longing, he spoke thus to Saumitri.

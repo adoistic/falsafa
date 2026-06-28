@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 3
+chapter_title: Kāṇḍa 3
+chapter_slug: "03-kanda-3"
+variant_id: "8f9bba86-ce34-5d0d-b042-8b13402dbdd7"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 8802
+translator: thothica
+---
+
 **3.1.1**  The kingdom has come to you together with lustre; advance eastward as lord of the clans, sole sovereign — reign widely! May all the regions summon you, O king; be here one worthy of approach, worthy of homage.
 
 **3.1.2**  May the clans choose you for kingship; may these five divine regions choose you. Ascend to the crest, the crown of the kingdom; from there, O mighty one, distribute the good things.

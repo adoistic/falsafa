@@ -1,3 +1,22 @@
+---
+work_id: "cd25864e-7679-52be-ba0b-2f8796bfc12b"
+work_slug: "atharvaveda-ps"
+work_title: Atharvaveda (Paippalāda)
+author_name: Anonymous (Vedic)
+chapter_number: 16
+chapter_title: Kāṇḍa 16
+chapter_slug: "16-kanda-16"
+variant_id: "2f33b56d-0c40-5199-afe8-75930cdf3242"
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 42342
+translator: thothica
+---
+
 **16.1.1**  Homage to Antaka, to Mṛtyu — let this man remain here together with his vital breath. In the portion of Sūrya, in the realm of immortality, may your in-breath and out-breath take their delight here.
 
 **16.1.2**  Bhaga has seized him upward, the radiant Soma has seized him upward; the Maruts, the gods, have raised him up — Indra and Agni have raised him for well-being.
