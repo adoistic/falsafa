@@ -1,0 +1,725 @@
+{
+  "slug": "unknown-katyayana-smrti-1e06d2",
+  "window": "24-36",
+  "entities": [
+    {
+      "canonical_name": "Bhṛgu",
+      "surface_names": ["Bhṛgu", "Bhṛgu says"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-6ca9e4",
+          "quote": "Bhṛgu says one should ascertain the truth by means of a divine ordeal, even when good witnesses are present.",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-07b6a3",
+          "quote": "Bhṛgu has declared these to be classes.",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-152f83",
+          "quote": "Bhṛgu says it is of a different time.",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-dbe717",
+          "quote": "Bhṛgu says it is not a capital case there.",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Ancient sage and legal authority cited multiple times as a source for procedural rules on ordeals and witness classes.",
+      "justification": "Bhṛgu is explicitly named as an authoritative source across chapters 24, 29, 30, and 32, establishing evidentiary and ordeal rules."
+    },
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Bṛhaspati"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e64420",
+          "quote": "that statement of the witness is admissible; otherwise, it is not, says Bṛhaspati.",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Sage and legal authority cited for the rule that witness testimony is only admissible when the witness was present before both parties.",
+      "justification": "Bṛhaspati is named as the source of an admissibility rule for witness statements in chapter 29."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8f5186",
+          "quote": "Manu says one should not abandon an accused person.",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Foundational lawgiver cited as authority for the rule that accused persons must not be abandoned in dispute proceedings.",
+      "justification": "Manu is explicitly cited in chapter 33 as the source of a normative rule about the treatment of accused persons."
+    },
+    {
+      "canonical_name": "King",
+      "surface_names": ["king", "the king"],
+      "kind": "figure",
+      "figure_kind": "ruler",
+      "mentions": [
+        {
+          "paragraph_id": "p-ea81bc",
+          "quote": "the king should accept the human proof in that case, not the divine ordeal.",
+          "role": "adjudicating authority"
+        },
+        {
+          "paragraph_id": "p-f2a2a9",
+          "quote": "The king himself should examine the witnesses who are present.",
+          "role": "adjudicating authority"
+        },
+        {
+          "paragraph_id": "p-ccb49b",
+          "quote": "he should determine the defects of the document after deliberating with Brahmins.",
+          "role": "adjudicating authority"
+        },
+        {
+          "paragraph_id": "p-5fe10c",
+          "quote": "A king should reject divine ordeals even if given according to the rules, if they were administered by the foolish, greedy, or wicked.",
+          "role": "supervisory authority"
+        },
+        {
+          "paragraph_id": "p-dc2916",
+          "quote": "A king, judging thus, is not deprived of righteousness and wealth.",
+          "role": "adjudicating authority"
+        }
+      ],
+      "description": "The king is the supreme judicial officer who oversees trials, examines witnesses, evaluates documents, and administers ordeals in civil and criminal disputes.",
+      "justification": "The king appears throughout chapters 24–36 as the central figure of the judicial process, with explicit duties to examine witnesses, accept proof, and supervise ordeals."
+    },
+    {
+      "canonical_name": "Chief Judge",
+      "surface_names": ["Chief Judge"],
+      "kind": "figure",
+      "figure_kind": "official",
+      "mentions": [
+        {
+          "paragraph_id": "p-bc7958",
+          "quote": "The Chief Judge, in the presence of the plaintiff and defendant, should appoint all the witnesses in the courtroom.",
+          "role": "judicial officer"
+        },
+        {
+          "paragraph_id": "p-514494",
+          "quote": "The scribe, the Chief Judge, and the assessors in order, when a case is being decided in the king's sight, are declared to be witnesses.",
+          "role": "witness"
+        },
+        {
+          "paragraph_id": "p-fb5136",
+          "quote": "the village, the Chief Judge, and the king, for the litigants.",
+          "role": "witness"
+        }
+      ],
+      "description": "The Chief Judge presides over the courtroom in the king's presence, appoints and questions witnesses, and may himself serve as a witness.",
+      "justification": "The Chief Judge is named as a distinct judicial officer in chapters 29 with specific procedural duties."
+    },
+    {
+      "canonical_name": "Assessors",
+      "surface_names": ["assessors"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-cae588",
+          "quote": "after the victory has been determined by the assessors.",
+          "role": "judicial decision-makers"
+        },
+        {
+          "paragraph_id": "p-91f8b4",
+          "quote": "the decision of the assessors, the Chief Judge, or the family councils should be entered.",
+          "role": "judicial decision-makers"
+        },
+        {
+          "paragraph_id": "p-3f9d6e",
+          "quote": "Hidden defects are to be revealed by the assessors at the proper time by showing the scriptures.",
+          "role": "evidentiary officers"
+        },
+        {
+          "paragraph_id": "p-514494",
+          "quote": "The scribe, the Chief Judge, and the assessors in order, when a case is being decided in the king's sight, are declared to be witnesses.",
+          "role": "witnesses"
+        }
+      ],
+      "description": "Panel of learned men who evaluate evidence, determine victory in legal disputes, and may serve as witnesses when cases are decided in the king's presence.",
+      "justification": "Assessors are a recurring institutional group across chapters 24–29 with defined functions in evaluating proof and recording decisions."
+    },
+    {
+      "canonical_name": "Brahmins",
+      "surface_names": ["Brahmins", "Brahmin", "twice-born", "best of the twice-born"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-7b0318",
+          "quote": "he should question the twice-born for true testimony, having them face north or east, in the forenoon, being himself pure and they being pure.",
+          "role": "witness category"
+        },
+        {
+          "paragraph_id": "p-ccb49b",
+          "quote": "he should determine the defects of the document after deliberating with Brahmins.",
+          "role": "legal consultants"
+        },
+        {
+          "paragraph_id": "p-9f579b",
+          "quote": "to a Brahmin, the ordeal of the balance; avoiding poison for the best of the twice-born (Brahmin).",
+          "role": "ordeal subject"
+        },
+        {
+          "paragraph_id": "p-4f16cf",
+          "quote": "the wealth of a minor or a learned Brahmin, which comes from the mother's or father's side respectively.",
+          "role": "protected category"
+        },
+        {
+          "paragraph_id": "p-477077",
+          "quote": "those who have killed their mother, father, a Brahmin, a preceptor, a child, a woman, or a king",
+          "role": "victim category (in major sins)"
+        }
+      ],
+      "description": "The priestly varna, subject to the ordeal of the balance (not poison), whose property is protected, who serve as legal consultants and witness category.",
+      "justification": "Brahmins appear across chapters 24–33 in multiple roles: as consultants to the king, as witness groups, and as a specially protected caste category in ordeal law."
+    },
+    {
+      "canonical_name": "Kshatriyas",
+      "surface_names": ["Kshatriya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-9f579b",
+          "quote": "To a Kshatriya, the ordeal of fire.",
+          "role": "ordeal subject category"
+        }
+      ],
+      "description": "The warrior/ruling varna, to whom the ordeal of fire is specifically assigned in legal disputes.",
+      "justification": "Kshatriyas are named in chapter 33 as the caste category specifically assigned the fire ordeal."
+    },
+    {
+      "canonical_name": "Vaishyas",
+      "surface_names": ["Vaishya"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-9f579b",
+          "quote": "to a Vaishya, one should apply the ordeal of water.",
+          "role": "ordeal subject category"
+        }
+      ],
+      "description": "The merchant/agricultural varna assigned the water ordeal in legal proceedings.",
+      "justification": "Vaishyas are named in chapter 33 in the caste-based ordeal assignment scheme."
+    },
+    {
+      "canonical_name": "Shudras",
+      "surface_names": ["Shudras", "Shudra"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-e4d6d7",
+          "quote": "virtuous Shudras for Shudras, and those of the lowest castes for the lowest castes.",
+          "role": "witness category"
+        },
+        {
+          "paragraph_id": "p-e9e8b3",
+          "quote": "even if they are twice-born, one should treat them like Shudras (in ordeals).",
+          "role": "ordeal comparator"
+        }
+      ],
+      "description": "The servile varna whose members may only testify for fellow Shudras and whose ordeal treatment is used as a comparator for certain twice-born professionals.",
+      "justification": "Shudras appear in chapters 29 and 33 as a witness category and as the reference class for ordeal treatment of certain occupational groups."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": ["Indra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-dff497",
+          "quote": "At the temple of Indra for those accused of major sins.",
+          "role": "sacred location marker"
+        }
+      ],
+      "description": "The Vedic king of gods whose temple is prescribed as the site for ordeals in cases of major sins.",
+      "justification": "Indra's temple is named in chapter 34 as the sacred venue for serious ordeal proceedings."
+    },
+    {
+      "canonical_name": "Shiva",
+      "surface_names": ["Shiva"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-08da71",
+          "quote": "If there is testimony in a case of killing a living being, one should have it stated in the presence of Shiva.",
+          "role": "sacred witness/sanctifier"
+        }
+      ],
+      "description": "Hindu deity in whose presence testimony must be given in cases involving the killing of a living being.",
+      "justification": "Shiva is specified in chapter 30 as the divine presence before whom testimony on killing must be given."
+    },
+    {
+      "canonical_name": "Smṛti scriptures",
+      "surface_names": ["Smṛti scriptures", "Smṛti"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-91f8b4",
+          "quote": "The opinion of the Smṛti scriptures should also be written therein.",
+          "role": "legal authority to be recorded"
+        },
+        {
+          "paragraph_id": "p-495239",
+          "quote": "those assessors present there who are learned in the Smṛti scriptures.",
+          "role": "body of knowledge for assessors"
+        }
+      ],
+      "description": "The body of remembered law-texts whose opinions are to be recorded in judicial documents and which assessors must be learned in.",
+      "justification": "Smṛti scriptures are invoked in chapter 25 as a required element of judicial records and as the knowledge base for qualified assessors."
+    },
+    {
+      "canonical_name": "Vedas",
+      "surface_names": ["Vedas"],
+      "kind": "object",
+      "mentions": [
+        {
+          "paragraph_id": "p-84eebd",
+          "quote": "one should have the testimony given through a document sent by three men learned in the Vedas.",
+          "role": "qualification standard for proxy testimony"
+        },
+        {
+          "paragraph_id": "p-d5bc93",
+          "quote": "For students of the Vedas, a period of twelve years is prescribed.",
+          "role": "field of study governing possession rights"
+        }
+      ],
+      "description": "The canonical Vedic scriptures whose study defines student status (protecting property rights) and whose scholars may transmit testimony by document.",
+      "justification": "The Vedas appear in chapters 27 and 29 as the standard of qualification for both proxy witness and student status with legal implications."
+    },
+    {
+      "canonical_name": "Crossroads",
+      "surface_names": ["crossroads"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-4d9cb6",
+          "quote": "For those born of mixed unions against the natural order, the divine ordeal should be given at a crossroads.",
+          "role": "prescribed ordeal site"
+        }
+      ],
+      "description": "A public intersection designated as the proper site for ordeals involving persons of mixed-caste birth.",
+      "justification": "The crossroads is named in chapter 34 as a specific ritual location for a defined category of ordeal subjects."
+    },
+    {
+      "canonical_name": "Ordeal of Fire",
+      "surface_names": ["ordeal of fire", "fire ordeal"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-9f579b",
+          "quote": "To a Kshatriya, the ordeal of fire.",
+          "role": "caste-assigned ordeal"
+        },
+        {
+          "paragraph_id": "p-c8377d",
+          "quote": "For a loss of eighty, one should indeed administer the ordeal of fire.",
+          "role": "value-calibrated ordeal"
+        },
+        {
+          "paragraph_id": "p-c24edd",
+          "quote": "One should not apply the ordeal of fire to blacksmiths.",
+          "role": "prohibited ordeal type"
+        },
+        {
+          "paragraph_id": "p-e0168b",
+          "quote": "One should avoid the ordeal of fire for lepers.",
+          "role": "medically contraindicated ordeal"
+        },
+        {
+          "paragraph_id": "p-5cc85d",
+          "quote": "If the accused stumbles or is burnt in a place other than the designated spot, the gods do not consider him burnt.",
+          "role": "procedural ordeal event"
+        }
+      ],
+      "description": "A divine ordeal by fire assigned to Kshatriyas and calibrated to losses of eighty gold pieces, with procedural rules about valid burning and contraindications for certain persons.",
+      "justification": "The fire ordeal is substantively described across chapters 32–35 with rules for assignment, calibration, and procedure."
+    },
+    {
+      "canonical_name": "Ordeal of Water",
+      "surface_names": ["ordeal of water", "water ordeal"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-9f579b",
+          "quote": "to a Vaishya, one should apply the ordeal of water.",
+          "role": "caste-assigned ordeal"
+        },
+        {
+          "paragraph_id": "p-6cfd11",
+          "quote": "For a loss of sixty, the ordeal of water should be given.",
+          "role": "value-calibrated ordeal"
+        },
+        {
+          "paragraph_id": "p-f98c39",
+          "quote": "When the arrow is shot, the submersion should be done, and the going (of the retriever) should be simultaneous.",
+          "role": "procedural ordeal event"
+        },
+        {
+          "paragraph_id": "p-742d9a",
+          "quote": "If only the top of his head is visible, but not his ears or his nose, one should declare him pure.",
+          "role": "procedural outcome"
+        }
+      ],
+      "description": "A divine ordeal by submersion in water, assigned to Vaishyas and calibrated to losses of sixty gold pieces, with detailed procedural rules for administering and reading the result.",
+      "justification": "The water ordeal is described across chapters 32, 33, and 36 with caste assignment, value calibration, and a detailed procedural account."
+    },
+    {
+      "canonical_name": "Ordeal of Poison",
+      "surface_names": ["ordeal of poison", "poison ordeal"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-c8377d",
+          "quote": "for a loss of one hundred, the ordeal of poison is prescribed.",
+          "role": "value-calibrated ordeal"
+        },
+        {
+          "paragraph_id": "p-9f579b",
+          "quote": "avoiding poison for the best of the twice-born (Brahmin).",
+          "role": "prohibited ordeal type"
+        },
+        {
+          "paragraph_id": "p-c24edd",
+          "quote": "one should never give poison to those who know mantras and yoga.",
+          "role": "prohibited ordeal type"
+        }
+      ],
+      "description": "The most severe divine ordeal, calibrated to the highest value losses (one hundred gold pieces) and prohibited for Brahmins and those who know mantras and yoga.",
+      "justification": "The poison ordeal is described in chapters 32 and 33 with its value threshold and its contraindications."
+    },
+    {
+      "canonical_name": "Ordeal of the Balance",
+      "surface_names": ["ordeal of the balance", "balance ordeal"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-9f579b",
+          "quote": "to a Brahmin, the ordeal of the balance.",
+          "role": "caste-assigned ordeal"
+        },
+        {
+          "paragraph_id": "p-6cfd11",
+          "quote": "for forty, indeed the ordeal of the balance.",
+          "role": "value-calibrated ordeal"
+        },
+        {
+          "paragraph_id": "p-4e2dfc",
+          "quote": "For those suspected by kings, one should employ the ordeal of the balance and others.",
+          "role": "ordeal for suspected persons"
+        },
+        {
+          "paragraph_id": "p-00c8ab",
+          "quote": "If the sling breaks, or the balance beam, or the cord, or if there is doubt about the purity, one should test the man again.",
+          "role": "procedural ordeal event"
+        }
+      ],
+      "description": "A divine ordeal by weighing, assigned to Brahmins and calibrated to losses of forty gold pieces, with procedural rules for equipment failure.",
+      "justification": "The balance ordeal is described across chapters 32–34 with caste assignment, value calibration, and procedural details."
+    },
+    {
+      "canonical_name": "Ordeal of Consecrated Water",
+      "surface_names": ["ordeal of consecrated water", "drinking of consecrated water"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-33a95e",
+          "quote": "For a loss of twenty or ten, the drinking of consecrated water is prescribed.",
+          "role": "value-calibrated ordeal"
+        },
+        {
+          "paragraph_id": "p-1d5276",
+          "quote": "one should administer only the ordeal of consecrated water.",
+          "role": "restricted ordeal type"
+        },
+        {
+          "paragraph_id": "p-04d254",
+          "quote": "The ordeal of consecrated water should not be administered by the wise to drunkards, those addicted to women, and gamblers.",
+          "role": "prohibited ordeal category"
+        }
+      ],
+      "description": "A divine ordeal by drinking sacred water, prescribed for moderate losses (ten to twenty gold pieces) and for cases of suspicion, but forbidden for gamblers, drunkards, and atheists.",
+      "justification": "The consecrated water ordeal is described in chapters 32–33 with value calibration, prescribed uses, and specific prohibitions."
+    },
+    {
+      "canonical_name": "Guilds",
+      "surface_names": ["guilds", "guild"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-a67677",
+          "quote": "whatever custom has been declared for guilds, corporations, assemblies, and the like, the proof for it is a document.",
+          "role": "custom-holding body"
+        },
+        {
+          "paragraph_id": "p-3bdd86",
+          "quote": "The established custom of learned Brahmins, cities, guilds, assemblies, and citizens.",
+          "role": "custom-holding body"
+        },
+        {
+          "paragraph_id": "p-07b6a3",
+          "quote": "Ascetics, members of guilds and corporations, and groups of merchants, and others who are in groups.",
+          "role": "witness class"
+        }
+      ],
+      "description": "Organized trade or professional bodies whose established customs are provable only by document, and whose members form a distinct witness class.",
+      "justification": "Guilds appear across chapters 24, 25, and 29 as legal entities whose customs require documentary proof and as a defined witness class."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Hierarchy of evidence: preference of human over divine proof",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ae7704",
+          "quote": "When witnesses are available, a wise man should avoid a divine ordeal."
+        },
+        {
+          "paragraph_id": "p-ea81bc",
+          "quote": "the king should accept the human proof in that case, not the divine ordeal."
+        },
+        {
+          "paragraph_id": "p-e58803",
+          "quote": "If human proof is available, even if it covers only a part of the case, it should be accepted, and not a divine ordeal, even if it is complete."
+        }
+      ],
+      "justification": "Chapter 24 systematically establishes that human evidence (document, witnesses) is preferred over divine proof whenever available, constituting the foundational evidentiary principle of the text."
+    },
+    {
+      "topic": "Caste as a structuring principle in legal procedure",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e4d6d7",
+          "quote": "Women should give evidence for women, similar twice-born for the twice-born, virtuous Shudras for Shudras."
+        },
+        {
+          "paragraph_id": "p-9f579b",
+          "quote": "To a Kshatriya, the ordeal of fire; to a Brahmin, the ordeal of the balance; to a Vaishya, one should apply the ordeal of water."
+        },
+        {
+          "paragraph_id": "p-403c7a",
+          "quote": "Whatever kind of person is to be proven by the plaintiff, he should prove it with similar persons."
+        }
+      ],
+      "justification": "Across chapters 29 and 33, the text explicitly calibrates both witness eligibility and the type of divine ordeal to the caste of the litigants, revealing caste as a pervasive organising principle of dharmaśāstra procedure."
+    },
+    {
+      "topic": "Procedural purity and ritual validity of ordeals",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0137e4",
+          "quote": "Those (ordeals) given at an improper time or place, or performed outside, undoubtedly cause a miscarriage of justice in all matters."
+        },
+        {
+          "paragraph_id": "p-5fe10c",
+          "quote": "A king should reject divine ordeals even if given according to the rules, if they were administered by the foolish, greedy, or wicked."
+        },
+        {
+          "paragraph_id": "p-51e9f7",
+          "quote": "a divine ordeal should be administered by experts according to the prescribed procedure. One that is applied contrary to the rules is not capable of establishing the case."
+        }
+      ],
+      "justification": "Chapters 34–36 emphasise that ordeals derive their probative force from ritual correctness in time, place, and administrator — procedural invalidity nullifies the divine verdict."
+    },
+    {
+      "topic": "The epistemic value of possession in property disputes",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6eb82d",
+          "quote": "A witness is superior to inference, a document is superior to witnesses, and possession, uninterrupted for three generations, is weightier than these."
+        },
+        {
+          "paragraph_id": "p-08124b",
+          "quote": "just as milk, over time, produces curd endowed with flavor, so does possession, come down through three generations, become a cause for ownership over time."
+        },
+        {
+          "paragraph_id": "p-2dc79e",
+          "quote": "If possession for three generations is independent, it is valid; if it is for a shorter period, it must be with title."
+        }
+      ],
+      "justification": "Chapter 27 develops the concept of multi-generational possession (tri-generational continuity) as surpassing even written documents, making it the apex of the evidentiary hierarchy for property."
+    },
+    {
+      "topic": "Documentary integrity and the problem of forgery",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e6591c",
+          "quote": "When letters are out of place, not in line, ambiguous, or lacking proper form, then the document becomes a forged document."
+        },
+        {
+          "paragraph_id": "p-1ea6ed",
+          "quote": "He who forges a document concerning immovable property, a sale, or a pledge, upon being duly convicted, should be made deprived of his tongue, hands, and feet."
+        },
+        {
+          "paragraph_id": "p-ffea01",
+          "quote": "Just as an image in a mirror, though unreal, appears real, so do skillful people create copies of documents."
+        }
+      ],
+      "justification": "Chapter 26 devotes substantial attention to the formal markers of forgery, the penalties for it, and the epistemological challenge of detecting false documents — framing forgery as the central threat to documentary evidence."
+    },
+    {
+      "topic": "Temporal limitation and the lapse of legal rights",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-8c8c51",
+          "quote": "A document that is past thirty years, and has not been seen or mentioned, does not attain validity, even if the witnesses are still present."
+        },
+        {
+          "paragraph_id": "p-f897f1",
+          "quote": "When an asset is enjoyed for twenty years by means of a document in the presence of a capable owner, that document is free from defect."
+        },
+        {
+          "paragraph_id": "p-b1f733",
+          "quote": "Uninterrupted by these three, possession for sixty years is considered firm."
+        }
+      ],
+      "justification": "Chapters 26–27 implicitly develop a statute-of-limitations doctrine through repeated time thresholds (20, 30, 60 years) that govern when documents become invalid and when possession becomes incontestable."
+    },
+    {
+      "topic": "Moral character and ritual fitness as conditions of witness competence",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e5def8",
+          "quote": "Those who are of renowned family and character, free from greed and delusion, trustworthy, pure, and distinguished—their testimony is beyond doubt."
+        },
+        {
+          "paragraph_id": "p-3dea61",
+          "quote": "Within a week, it becomes known where a witness speaks falsely: by disease, fire, or the death of a kinsman."
+        },
+        {
+          "paragraph_id": "p-4afeb0",
+          "quote": "Those who live by the same profession, those who work for his service and benefit, his relatives, friends, and servants—they are his partisans and not witnesses."
+
+        }
+      ],
+      "justification": "Chapters 29–31 ground witness reliability in moral and ritual purity, and link false testimony to divine retribution — framing legal competence as inseparable from character."
+    },
+    {
+      "topic": "Parity between parties as a principle of fair procedure",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-3d5192",
+          "quote": "One should never subject the plaintiff to a divine ordeal. A divine ordeal should be administered to the accused by those skilled in ordeals."
+        },
+        {
+          "paragraph_id": "p-403c7a",
+          "quote": "Whatever kind of person is to be proven by the plaintiff, he should prove it with similar persons. One should not ever prove a case with witnesses of a higher or lower station."
+        },
+        {
+          "paragraph_id": "p-bdfb42",
+          "quote": "Where the witnesses are of equal standing, one should ascertain the truth there also by divine ordeals."
+        }
+      ],
+      "justification": "The text repeatedly insists that ordeals fall only on the accused (not the plaintiff) and that witnesses must match the social station of the parties, implicitly invoking a symmetry principle of equal treatment between litigants."
+    },
+    {
+      "topic": "Exclusion of the morally corrupt from divine ordeals",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-477077",
+          "quote": "For those who have killed their mother, father, a Brahmin, a preceptor, a child, a woman, or a king; for those guilty of major sins."
+        },
+        {
+          "paragraph_id": "p-04d254",
+          "quote": "The ordeal of consecrated water should not be administered by the wise to drunkards, those addicted to women, and gamblers, nor to those who live as atheists."
+        },
+        {
+          "paragraph_id": "p-6da393",
+          "quote": "Especially for those guilty of major sins, for atheists, and for those who delight in the practice of sin, a divine ordeal should not be administered to them."
+        }
+      ],
+      "justification": "Chapter 33 establishes a substantial list of persons for whom divine ordeals are categorically forbidden, reflecting the theological premise that ordeals test the gods' verdict on persons presumed capable of truthful engagement."
+    },
+    {
+      "topic": "Sign-reading and behavioral inference as evidentiary tools",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-16d78b",
+          "quote": "examination by means of reasoning, signs, gestures, appearance, speech, eyes, and actions of men."
+        },
+        {
+          "paragraph_id": "p-3c46b5",
+          "quote": "Trembling, sweating, dejection, licking dry lips, drawing on the ground, shifting from one's place, looking sideways and upwards, and a change in voice—these the wise have declared to be the signs of a guilty person."
+        },
+        {
+          "paragraph_id": "p-f27df3",
+          "quote": "By his appearance, gestures, and movements, one should discern his state of mind. The defendant becomes defeated; he is marked by inference."
+        }
+      ],
+      "justification": "Chapters 24 and 30 describe a proto-forensic system of behavioral sign-reading as a supplement to formal proof, treating bodily and vocal signs as evidence of guilt."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "unspecified legal ruling",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-6ca9e4",
+      "quote": "Bhṛgu says one should ascertain the truth by means of a divine ordeal, even when good witnesses are present.",
+      "justification": "Bhṛgu is named as an authority who specifically overrides the general preference for witnesses in cases of the most serious violent crimes."
+    },
+    {
+      "cited_work": "unspecified legal classification",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-07b6a3",
+      "quote": "Bhṛgu has declared these to be classes.",
+      "justification": "Bhṛgu is cited as the authority for the classification of ascetics, guild members, and merchant groups as distinct witness classes."
+    },
+    {
+      "cited_work": "unspecified ruling on witness timing",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-152f83",
+      "quote": "Bhṛgu says it is of a different time.",
+      "justification": "Bhṛgu is cited for the rule that acts witnessed at different times must be testified to separately."
+    },
+    {
+      "cited_work": "unspecified ruling on ordeals for suspected persons",
+      "cited_author": "Bhṛgu",
+      "stance": "authority",
+      "paragraph_id": "p-dbe717",
+      "quote": "Bhṛgu says it is not a capital case there.",
+      "justification": "Bhṛgu is cited to establish that ordeals for those tainted by public slander are not capital in nature."
+    },
+    {
+      "cited_work": "unspecified ruling on witness admissibility",
+      "cited_author": "Bṛhaspati",
+      "stance": "authority",
+      "paragraph_id": "p-e64420",
+      "quote": "that statement of the witness is admissible; otherwise, it is not, says Bṛhaspati.",
+      "justification": "Bṛhaspati is directly cited as the source for the rule that only eyewitness testimony from someone present before both parties is admissible."
+    },
+    {
+      "cited_work": "unspecified ruling on the treatment of accused persons",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-8f5186",
+      "quote": "Manu says one should not abandon an accused person.",
+      "justification": "Manu is directly cited as authority for the requirement that even morally problematic accused persons must not be abandoned in legal proceedings."
+    }
+  ]
+}
