@@ -1764,6 +1764,12 @@
 
 **16.98.6**  "From the back of the earth"—thus the four [verses are recited].
 
+**16.98.7**  [Verse lost in transmission — text not preserved in this manuscript.]
+
+**16.98.8**  [Verse lost in transmission — text not preserved in this manuscript.]
+
+**16.98.9**  [Verse lost in transmission — text not preserved in this manuscript.]
+
 **16.98.10**  Lift this five-rice dish with five fingers from the ladle, this fivefold rice offering. Stride out toward the eastern quarter, the southern, the western, the northern, the fixed, and the upward direction.
 
 **16.99.1**  Place the goat's head in the eastern quarter; place the right flank in the southern quarter. Place its hindquarters in the western quarter; place the left flank in the northern quarter.
@@ -1793,6 +1799,16 @@
 **16.100.3**  This sacrifice is indeed the scorching fire—namely, the five-rice-dish goat. It burns away the hostile rival; by his own self he becomes one whose hostile rival has been driven off [from him].
 
 **16.100.4**  Whoever knows the season as "the approaching one"—he takes away the approaching prosperity of the hostile rival; by his own self he becomes one [who has prevailed].
+
+**16.100.5**  [He who knows the season called] "the converging one" — he takes away even the converging [prosperity of his rival — remainder not preserved in this manuscript].
+
+**16.100.6**  [He who knows the season called] "the becoming one" — he takes away even the becoming [prosperity of his rival — remainder not preserved in this manuscript].
+
+**16.100.7**  [He who knows the season called] "the overpowering one" — he takes away even the overpowering [prosperity of his rival — remainder not preserved in this manuscript].
+
+**16.100.8**  [He who knows the season called] "the rising one" — he takes away even the rising [prosperity of his rival — remainder not preserved in this manuscript].
+
+**16.100.9**  [He who knows the season called] "the summit" — he takes away even the summit [prosperity of his rival — remainder not preserved in this manuscript].
 
 **16.100.10**  Whoever knows the season as "the all"—he takes away all the prosperity of the hostile rival; by his own self he becomes one whose hostile rival has been driven off from him—he who gives the five-rice-dish goat to one who knows thus.
 
