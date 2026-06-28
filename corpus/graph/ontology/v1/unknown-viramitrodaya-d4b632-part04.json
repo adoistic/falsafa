@@ -1,0 +1,1139 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:191-466",
+  "entities": [
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-be39c1",
+          "quote": "from the *yugma-śāstra* in the *Nigama* of Vyāsa",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Vyāsa is cited as the source of a yugma-śāstra (pairing-rule scripture) in the Nigama that prescribes Pañcamī conjoined with Caturthī.",
+      "justification": "Vyāsa is named as a scriptural authority whose Nigama text is quoted to resolve the determination of Pañcamī."
+    },
+    {
+      "canonical_name": "Āpastamba",
+      "surface_names": ["Āpastamba"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-be39c1",
+          "quote": "from the *yugma-śāstra* cited by Āpastamba and others",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Āpastamba is cited alongside other authorities for a yugma-śāstra that prescribes Pañcamī conjoined with Ṣaṣṭhī.",
+      "justification": "Āpastamba is named as the source of a competing pairing-rule that creates a conflict requiring resolution by the śukla-kṛṣṇa-śāstra."
+    },
+    {
+      "canonical_name": "Nārada",
+      "surface_names": ["Nārada"],
+      "kind": "figure",
+      "figure_kind": "divine-sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-71ee32",
+          "quote": "And Pañcamī should be performed when conjoined with Ṣaṣṭhī, O Nārada!",
+          "role": "addressee in quoted verse"
+        }
+      ],
+      "description": "Nārada is addressed as the interlocutor in a verse from Āpastamba's yugma-śāstra prescribing tithī-pairing rules.",
+      "justification": "Nārada appears as the second-person addressee in a quoted verse, a common convention in Purāṇic and smṛti dialogues."
+    },
+    {
+      "canonical_name": "Hārīta",
+      "surface_names": ["Hārīta"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-b7f722",
+          "quote": "it is said in the verse of Hārīta, \"in the bright fortnight as well as in the dark\"",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Hārīta is a smṛti authority whose verse is quoted to demonstrate that the śukla-kṛṣṇa (bright-and-dark) rule applies in both fortnights.",
+      "justification": "Hārīta is directly named as the author of a verse used to refute the position that the contradictory yugma-śāstra of Āpastamba applies universally."
+    },
+    {
+      "canonical_name": "Sumantu",
+      "surface_names": ["Sumantu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ab9a99",
+          "quote": "This is also from Sumantu, who, after prohibiting one conjoined with Pañcamī, enjoins one conjoined with Saptamī",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Sumantu is a smṛti authority whose text prohibits Ṣaṣṭhī conjoined with Nāga (Pañcamī) and prescribes the one conjoined with Saptamī for divine rites.",
+      "justification": "Sumantu is named as the source of the verse about Ṣaṣṭhī-Nāga prohibition in the determination of Ṣaṣṭhī."
+    },
+    {
+      "canonical_name": "Vasiṣṭha",
+      "surface_names": ["Vasiṣṭha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-7ee61e",
+          "quote": "As for the verse of Vasiṣṭha",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Vasiṣṭha is a smṛti sage whose verse on Ekādaśī, Tṛtīyā, Ṣaṣṭhī, and Trayodaśī is analyzed and reinterpreted in the context of the Skanda fast.",
+      "justification": "Vasiṣṭha is named as the author of a verse whose application to all divine rites is contested and restricted in the discussion of Ṣaṣṭhī."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-51d9d6",
+          "quote": "This is also determined to be the view of Hemādri, who says that the conjunction of twelve *nāḍīs*, etc., applies to rites other than a night meal (*nakta*), single meal (*ekabhakta*), etc.",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-fcd7d9",
+          "quote": "Therefore, Hemādri, Mādhava, and others say that if the Rohiṇī conjunction is only on the succeeding day, even a pure *tithi* pervading midnight on the preceding day should be abandoned.",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-a3b3d6",
+          "quote": "And it is said in the *Hemādri*, in the *Skanda Purāṇa*, that it is most praised when conjoined with Mūla",
+          "role": "cited work"
+        },
+        {
+          "paragraph_id": "p-9feb8b",
+          "quote": "This is from a verse cited in the *Hemādri*.",
+          "role": "cited work"
+        },
+        {
+          "paragraph_id": "p-b09a5a",
+          "quote": "Hemādri, however, says that the *pāraṇa* at the end of both is for one who is able",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Hemādri is a prominent medieval dharmaśāstra scholar-digester whose positions on tithi-determination, nāḍī counts, and pāraṇa rules are repeatedly cited, endorsed, or rebutted.",
+      "justification": "Hemādri is named multiple times as an authority on rules for Ṣaṣṭhī, Janmāṣṭamī, and the pāraṇa ritual, making him a key interlocutor in this section."
+    },
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": ["Mādhava", "Ācāryacūḍāmaṇi"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-fcd7d9",
+          "quote": "Therefore, Hemādri, Mādhava, and others say that if the Rohiṇī conjunction is only on the succeeding day, even a pure *tithi* pervading midnight on the preceding day should be abandoned.",
+          "role": "cited authority"
+        },
+        {
+          "paragraph_id": "p-c041c5",
+          "quote": "by this, the view of Ācāryacūḍāmaṇi that the conjunction with Wednesday, etc., is a determiner is refuted",
+          "role": "refuted authority"
+        },
+        {
+          "paragraph_id": "p-880b07",
+          "quote": "Mādhava says that the Nīlajyeṣṭhā vow mentioned in the *Mātsya Purāṇa* is also performed on this day.",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Mādhava (identified also as Ācāryacūḍāmaṇi) is a dharmaśāstra authority on Janmāṣṭamī determination; his view that Wednesday conjunction is a determiner is explicitly refuted by the text.",
+      "justification": "Mādhava appears as a named scholarly interlocutor whose position on the determiner role of nakṣatra conjunctions is debated and rejected."
+    },
+    {
+      "canonical_name": "Paiṭhīnasī",
+      "surface_names": ["Paiṭhīnasī"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-577ef3",
+          "quote": "From the verse of Paiṭhīnasī",
+          "role": "cited authority"
+        }
+      ],
+      "description": "Paiṭhīnasī is a smṛti authority whose verse on the pairing of Pañcamī, Saptamī, Daśamī, and other tithis is cited in the determination of Saptamī.",
+      "justification": "Paiṭhīnasī is directly named as the author of the verse prescribing which tithis should be 'facing' (conjoined with preceding day)."
+    },
+    {
+      "canonical_name": "Mitra Miśra",
+      "surface_names": ["Mitra Miśra"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-e738e7",
+          "quote": "Thus ends the determination of Janmāṣṭamī in the *Samayaprakāśa* of the treatise named *Vīramitrodaya*, composed by the honorable Mitra Miśra—son of the honorable Paraśurāma Miśra",
+          "role": "author"
+        }
+      ],
+      "description": "Mitra Miśra is identified as the author of the Vīramitrodaya, composed at the prompting of King Vīrasiṃhadeva; this colophon ends the Janmāṣṭamī section.",
+      "justification": "The text explicitly names Mitra Miśra as author in the formal section-closing colophon, the only named authorial statement in this window."
+    },
+    {
+      "canonical_name": "Vīrasiṃhadeva",
+      "surface_names": ["Vīrasiṃhadeva", "glorious King Vīrasiṃhadeva"],
+      "kind": "figure",
+      "figure_kind": "king",
+      "mentions": [
+        {
+          "paragraph_id": "p-e738e7",
+          "quote": "who was prompted by the glorious King Vīrasiṃhadeva, who was the sun causing the lotus of the earth encircled by the four oceans to bloom, son of the glorious Mahārāja Madhukarasāha",
+          "role": "patron"
+        }
+      ],
+      "description": "Vīrasiṃhadeva is the royal patron who commissioned the Vīramitrodaya; he is lauded in royal panegyric as son of Mahārāja Madhukarasāha and grandson of Mahārājādhirāja Pratāparudra.",
+      "justification": "The colophon identifies Vīrasiṃhadeva as the patron at whose prompting the entire treatise was composed."
+    },
+    {
+      "canonical_name": "Skanda",
+      "surface_names": ["Skanda"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-a47e60",
+          "quote": "the verses stating a Pañcamī conjoined with the succeeding day are given a specific scope by the verse on the Skanda fast",
+          "role": "deity whose vow determines tithi rules"
+        },
+        {
+          "paragraph_id": "p-8c4938",
+          "quote": "in all divine rites other than the Skanda vow",
+          "role": "deity whose vow is excepted"
+        },
+        {
+          "paragraph_id": "p-04660f",
+          "quote": "Skanda-ṣaṣṭhī, however, from the *Brahmavaivarta* verse",
+          "role": "deity whose special festival is discussed"
+        }
+      ],
+      "description": "Skanda is a deity whose specific vow (Skanda-ṣaṣṭhī, Skanda fast) constitutes an exception to general tithi-conjunction rules, requiring a Ṣaṣṭhī conjoined with the preceding day (Pañcamī).",
+      "justification": "Skanda's fast is repeatedly invoked as a specific counter-injunction within the determination of Pañcamī and Ṣaṣṭhī."
+    },
+    {
+      "canonical_name": "Śiva",
+      "surface_names": ["Śiva", "Rudra", "Māheśvara"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-f732c0",
+          "quote": "Saptamī conjoined with Śiva, and Ekādaśī conjoined with Daśamī should not be fasted on in any way",
+          "role": "deity-name for a tithi"
+        },
+        {
+          "paragraph_id": "p-bb7272",
+          "quote": "Śiva and Rudra are Aṣṭamī.",
+          "role": "deity-name equated to tithi"
+        },
+        {
+          "paragraph_id": "p-093828",
+          "quote": "In a festival of Śiva and Śakti, however, it is always the succeeding one.",
+          "role": "deity of festival"
+        },
+        {
+          "paragraph_id": "p-9a4d76",
+          "quote": "In all vows to Rudra, the *tithi* that is facing should be performed.",
+          "role": "deity of vow"
+        },
+        {
+          "paragraph_id": "p-d94d13",
+          "quote": "is a *tithi* like Ardhanārīśvara, of Umā and Māheśvara",
+          "role": "deity in simile"
+        }
+      ],
+      "description": "Śiva/Rudra/Māheśvara is a major deity whose vows and festivals determine special tithi rules; Aṣṭamī is equated to Śiva/Rudra in the tithi-deity correspondences.",
+      "justification": "Śiva appears under multiple names as both a tithi-deity equivalent and the presiding deity of specific observances with distinct conjunction rules."
+    },
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Viṣṇu", "Hari", "Śauri", "the wielder of the discus"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-113998",
+          "quote": "Viṣṇu conjoined with Kāma—those days should not be taken",
+          "role": "deity-name for a tithi"
+        },
+        {
+          "paragraph_id": "p-bb7272",
+          "quote": "Viṣṇu is Dvādaśī.",
+          "role": "deity-name equated to tithi"
+        },
+        {
+          "paragraph_id": "p-a0d5db",
+          "quote": "the worship of Śauri on it destroys the sin of three births",
+          "role": "deity of worship"
+        },
+        {
+          "paragraph_id": "p-4b12f1",
+          "quote": "Having performed the worship of Hari with a fast, one does not suffer there.",
+          "role": "deity of worship"
+        },
+        {
+          "paragraph_id": "p-347ea9",
+          "quote": "should be performed year after year for the pleasure of the wielder of the discus",
+          "role": "deity of obligatory vow"
+        },
+        {
+          "paragraph_id": "p-f5630d",
+          "quote": "Navamī conjoined with Aṣṭamī should be rejected by those devoted to Viṣṇu.",
+          "role": "deity whose devotees observe the fast"
+        }
+      ],
+      "description": "Viṣṇu (also Hari, Śauri) is the presiding deity of Janmāṣṭamī and the Rāma-navamī vow; Dvādaśī is equated to Viṣṇu in tithi-deity correspondences, and the Janmāṣṭamī worship-and-fast is prescribed for his pleasure.",
+      "justification": "Viṣṇu appears across multiple sections as both the tithi-deity of Dvādaśī and the central deity whose devotees are bound by specific fast obligations."
+    },
+    {
+      "canonical_name": "Rāma",
+      "surface_names": ["Rāma", "Śrī Rāma"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-cb89cb",
+          "quote": "in the ascendant sign of Cancer, the Supreme Person manifested Himself with His parts in Kosalyā",
+          "role": "deity whose birth is the basis of Rāma-navamī"
+        },
+        {
+          "paragraph_id": "p-cfba9a",
+          "quote": "because the word Viṣṇu refers to Rāma, who is a form of Viṣṇu in this context",
+          "role": "identified as form of Viṣṇu"
+        },
+        {
+          "paragraph_id": "p-cb4b21",
+          "quote": "The deluded mortal who, on the day of Śrī Rāma-navamī, does not perform the fast, is cooked in the Kumbhīpāka hells.",
+          "role": "deity of obligatory vow"
+        },
+        {
+          "paragraph_id": "p-8b6d34",
+          "quote": "Whatever fruit is obtained by making great gifts again and again at Kurukṣetra during a solar eclipse, that is obtained from the Rāma-navamī vow.",
+          "role": "deity of optional vow"
+        }
+      ],
+      "description": "Rāma is the deity whose birth at midday on Navamī of the bright fortnight of Caitra is the basis of Rāma-navamī; identified as a form of Viṣṇu, the vow is obligatory for those initiated into the Rāma-mantra.",
+      "justification": "Rāma-navamī is the central topic of the Navamī section; Rāma's birth-time, nakṣatra conjunction, and the obligatory/optional nature of the vow are all extensively discussed."
+    },
+    {
+      "canonical_name": "Kṛṣṇa",
+      "surface_names": ["Kṛṣṇa"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-ddf515",
+          "quote": "Now Kṛṣṇa-janmāṣṭamī is determined.",
+          "role": "deity of Janmāṣṭamī vow"
+        },
+        {
+          "paragraph_id": "p-15aa0c",
+          "quote": "Kṛṣṇāṣṭamī = the Aṣṭamī of the dark fortnight.",
+          "role": "deity-name equated to tithi"
+        }
+      ],
+      "description": "Kṛṣṇa is the deity of the Janmāṣṭamī (birth-eighth) vow; the dark Aṣṭamī is called Kṛṣṇāṣṭamī and the entire section on Aṣṭamī culminates in an extended determination of his birth-festival.",
+      "justification": "Kṛṣṇa-janmāṣṭamī receives the most detailed treatment in the window, covering conjunction rules, Rohiṇī nakṣatra, midnight worship, pāraṇa, and the obligatory vs. optional nature of the vow."
+    },
+    {
+      "canonical_name": "Durgā",
+      "surface_names": ["Durgā", "the Goddess", "Bhadrā", "Bhadrakālī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-a162dc",
+          "quote": "the awakening of the Goddess is mentioned on the dark Aṣṭamī in the *Devī Purāṇa*",
+          "role": "deity of Durgāṣṭamī"
+        },
+        {
+          "paragraph_id": "p-29ddbd",
+          "quote": "The act of worship should be between Bhadrā and Bhadrakālī. Therefore, Durgāṣṭamī should be performed by the wise when conjoined with Saptamī.",
+          "role": "deity of Durgāṣṭamī"
+        },
+        {
+          "paragraph_id": "p-bd2bbe",
+          "quote": "I am Bhadrā and Bhadrā is I; there is no difference between us. Worshipped in Bhadrā, I will grant all success.",
+          "role": "deity speaking in first person"
+        },
+        {
+          "paragraph_id": "p-af3c5b",
+          "quote": "One with a son should not perform a fast on Mahāṣṭamī. In one way or another, with a pure soul, the votary should worship the Goddess.",
+          "role": "deity of worship"
+        }
+      ],
+      "description": "Durgā (also Bhadrā, Bhadrakālī) is the presiding deity of Durgāṣṭamī in Āśvina; her worship requires specific Aṣṭamī-Saptamī conjunction rules and she speaks in the first person in the quoted Devī Purāṇa verse.",
+      "justification": "Durgā/Bhadrā is the central deity of the Durgāṣṭamī sub-section, with multiple authoritative texts prescribing the timing of her worship."
+    },
+    {
+      "canonical_name": "Śakti",
+      "surface_names": ["Śakti"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-093828",
+          "quote": "In a festival of Śiva and Śakti, however, it is always the succeeding one.",
+          "role": "deity of festival"
+        },
+        {
+          "paragraph_id": "p-06f052",
+          "quote": "it is a great festival for Śiva and Śakti in a Śiva-kṣetra, in both fortnights",
+          "role": "deity of festival"
+        }
+      ],
+      "description": "Śakti is co-presiding deity with Śiva at Śiva-kṣetras; the Aṣṭamī-Navamī conjunction festival for both deities always uses the succeeding Aṣṭamī regardless of fortnight.",
+      "justification": "Śakti is named as a paired festival deity with Śiva in the Padma Purāṇa verse that prescribes succeeding-day Aṣṭamī for their joint worship."
+    },
+    {
+      "canonical_name": "Agastya",
+      "surface_names": ["Agastya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ec6703",
+          "quote": "And this should not be performed when the sun is in Virgo or when Agastya has risen.",
+          "role": "figure whose rising defines a prohibited period"
+        },
+        {
+          "paragraph_id": "p-3c2518",
+          "quote": "O Tāta, he who worships the one born of nectar when Agastya has risen, suffers widowhood and prior sorrow for ten and five years.",
+          "role": "figure whose rising is inauspicious for Dūrvāṣṭamī"
+        }
+      ],
+      "description": "Agastya is the sage whose heliacal rising marks a prohibited period for Dūrvāṣṭamī worship; performing the rite after Agastya rises causes fifteen years of widowhood and sorrow.",
+      "justification": "Agastya's rising is specified as an astrological boundary condition that disqualifies performance of Dūrvāṣṭamī in both a general statement and a specific verse."
+    },
+    {
+      "canonical_name": "Umā",
+      "surface_names": ["Umā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-d94d13",
+          "quote": "is a *tithi* like Ardhanārīśvara, of Umā and Māheśvara",
+          "role": "deity in simile"
+        }
+      ],
+      "description": "Umā appears as one half of the Ardhanārīśvara (half-male, half-female) simile to describe the mutually dependent Aṣṭamī-Navamī pair.",
+      "justification": "Umā is named in the Padma Purāṇa verse that uses the Ardhanārīśvara image to explain the pairing requirement of Navamī with Aṣṭamī."
+    },
+    {
+      "canonical_name": "Kosalyā",
+      "surface_names": ["Kosalyā"],
+      "kind": "figure",
+      "figure_kind": "human",
+      "mentions": [
+        {
+          "paragraph_id": "p-cb89cb",
+          "quote": "the Supreme Person manifested Himself with His parts in Kosalyā",
+          "role": "mother of Rāma"
+        }
+      ],
+      "description": "Kosalyā is the mother in whom Rāma manifested at midday on the Navamī of the bright fortnight of Caitra when the sun was in Aries.",
+      "justification": "Kosalyā is named in the Agastyasaṃhitā verse establishing the precise astronomical moment of Rāma's birth, which determines the karma-kāla of Rāma-navamī."
+    },
+    {
+      "canonical_name": "Gaṅgā",
+      "surface_names": ["Gaṅgā", "Gaṅgā water"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-c25d74",
+          "quote": "then it should be especially avoided, just as Gaṅgā water is by liquor",
+          "role": "simile reference"
+        },
+        {
+          "paragraph_id": "p-c97abc",
+          "quote": "On the Saptamī of the bright fortnight of Vaiśākha, for the worship of the Gaṅgā",
+          "role": "deity of worship on Saptamī"
+        }
+      ],
+      "description": "Gaṅgā is referenced both as the sacred river whose water is used in a simile for purity and as the deity worshipped on the Saptamī of the bright fortnight of Vaiśākha when it pervades midday.",
+      "justification": "Gaṅgā appears as both a simile anchor for purity and as a named deity with a specific tithi-worship prescription."
+    },
+    {
+      "canonical_name": "Kurukṣetra",
+      "surface_names": ["Kurukṣetra"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-8b6d34",
+          "quote": "Whatever fruit is obtained by making great gifts again and again at Kurukṣetra during a solar eclipse",
+          "role": "sacred site used for comparison of merit"
+        }
+      ],
+      "description": "Kurukṣetra is a sacred pilgrimage site used as the benchmark for supreme merit; the fruit of the Rāma-navamī vow is compared to the fruit of repeated great gifts at Kurukṣetra during a solar eclipse.",
+      "justification": "Kurukṣetra is named in a verse about the optional Rāma-navamī vow to indicate the extraordinary merit obtainable by all performers of the vow."
+    },
+    {
+      "canonical_name": "Mahālakṣmī",
+      "surface_names": ["Mahālakṣmī", "Śrī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-fa3316",
+          "quote": "For the conclusion of the Mahālakṣmī vow on the dark Aṣṭamī of Āśvina",
+          "role": "deity of vow"
+        },
+        {
+          "paragraph_id": "p-90365b",
+          "quote": "The worship of Śrī should not be begun when the sun has entered Virgo.",
+          "role": "deity of worship with sun-position prohibition"
+        }
+      ],
+      "description": "Mahālakṣmī (Śrī) is the deity of a vow concluded on the dark Aṣṭamī of Āśvina; her worship has a special rule requiring consideration of whether the tithi extends from moonrise and prohibiting commencement when the sun is in Virgo.",
+      "justification": "The Mahālakṣmī-aṣṭamī section explicitly names her as the deity of this vow and provides specific tithi-determination rules for her worship."
+    },
+    {
+      "canonical_name": "Pataṅga",
+      "surface_names": ["Pataṅga", "the sun", "Ravi", "divākara"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-655110",
+          "quote": "For the worship of Pataṅga, they say the fast is on Ṣaṣṭhī.",
+          "role": "solar deity whose fast day is specified"
+        },
+        {
+          "paragraph_id": "p-66ba18",
+          "quote": "*Pataṅga* is the sun.",
+          "role": "gloss"
+        },
+        {
+          "paragraph_id": "p-163b79",
+          "quote": "Saptamī conjoined with Ṣaṣṭhī should always be performed, O Tāta! Where Ṣaṣṭhī and Saptamī are, there Ravi (the sun) is present.",
+          "role": "solar deity whose presence marks the auspicious conjunction"
+        },
+        {
+          "paragraph_id": "p-bb7272",
+          "quote": "The sun (*divākara*) = Saptamī.",
+          "role": "deity-name equated to tithi"
+        }
+      ],
+      "description": "Pataṅga/Ravi/divākara is the sun-deity equated to Saptamī in tithi-deity correspondences; the Bhaviṣyat Purāṇa specifies the fast for his worship is on a Saptamī conjoined with Ṣaṣṭhī.",
+      "justification": "The sun appears under multiple names as both a tithi-deity equivalent and the presiding deity of solar fasts, with explicit glosses provided by the text."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Tithi-determination (nirṇaya): rules for selecting the correct day when a lunar date spans two solar days",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-6b842f",
+          "quote": "Pañcamī in both fortnights should be conjoined with the preceding day"
+        },
+        {
+          "paragraph_id": "p-26cad9",
+          "quote": "Now Ṣaṣṭhī is determined."
+        },
+        {
+          "paragraph_id": "p-2014c9",
+          "quote": "Now Saptamī is determined."
+        },
+        {
+          "paragraph_id": "p-3e4db3",
+          "quote": "Now the determination of Aṣṭamī."
+        },
+        {
+          "paragraph_id": "p-b35c0e",
+          "quote": "Now Navamī is determined."
+        }
+      ],
+      "justification": "The entire window is structured as systematic tithi-determination sections (Pañcamī through Navamī), establishing the central organizational and doctrinal theme of the text."
+    },
+    {
+      "topic": "Conflict resolution between competing smṛti authorities through hierarchical rule-application",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-2c8e42",
+          "quote": "since there is a conflict between the *yugma-śāstras*, and another regulating verse is required, the regulation by the *śukla-kṛṣṇa-śāstra* is proper"
+        },
+        {
+          "paragraph_id": "p-b7f722",
+          "quote": "the contradictory *yugma-śāstra* of Āpastamba, etc., applies to the Skanda fast. Therefore, the previously stated regulation is superior."
+        },
+        {
+          "paragraph_id": "p-51d9d6",
+          "quote": "This is also determined to be the view of Hemādri, who says that the conjunction of twelve *nāḍīs*, etc., applies to rites other than a night meal"
+        }
+      ],
+      "justification": "A repeated structural move in this window is the presentation of conflicting scriptural verses followed by a meta-rule that resolves the conflict through scope-restriction, stronger scripture, or counter-injunction (pratiprasava)."
+    },
+    {
+      "topic": "Pratiprasava (counter-injunction): the technique of creating exceptions to general rules for specific vows",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-15aa0c",
+          "quote": "This verse is for the purpose of a counter-injunction (*pratiprasava*) for the Skanda vow, regarding the Ṣaṣṭhī conjoined with a Pañcamī of twelve *nāḍīs*, which is generally prohibited for all divine rites."
+        },
+        {
+          "paragraph_id": "p-51d9d6",
+          "quote": "it is for the purpose of a counter-injunction: if it is not on the next day at the time of a single meal (*ekabhakta*)"
+        }
+      ],
+      "justification": "The concept of pratiprasava (counter-injunction creating a specific exception to a general prohibition) is explicitly invoked as a technical hermeneutic tool in multiple sub-sections."
+    },
+    {
+      "topic": "Karma-kāla (time of the rite) as a stronger determinant than conjunction rules",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e96052",
+          "quote": "in a divine rite, since the forenoon is the time of the rite, and the scripture on the time of the rite is stronger"
+        },
+        {
+          "paragraph_id": "p-a8459f",
+          "quote": "since midnight is the time of the rite (*karma-kāla*) in the manner to be explained, and the scripture on the time of the rite is stronger than all others"
+        },
+        {
+          "paragraph_id": "p-a46cd6",
+          "quote": "in Jayantīs, the time of birth is itself the time of the rite (*karma-kāla*) in the form of worship"
+        }
+      ],
+      "justification": "The text repeatedly applies the hermeneutic principle that the scripture specifying the karma-kāla (ritual time) is stronger than conjunctive-pairing rules, especially for Janmāṣṭamī and Rāma-navamī."
+    },
+    {
+      "topic": "Nakṣatra conjunction as meritorious qualifier vs. determiner of tithi selection",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-fcd7d9",
+          "quote": "Hemādri, Mādhava, and others say that if the Rohiṇī conjunction is only on the succeeding day, even a pure *tithi* pervading midnight on the preceding day should be abandoned."
+        },
+        {
+          "paragraph_id": "p-c041c5",
+          "quote": "by this, the view of Ācāryacūḍāmaṇi that the conjunction with Wednesday, etc., is a determiner is refuted"
+        },
+        {
+          "paragraph_id": "p-16fae7",
+          "quote": "this same *tithi*, if it is conjoined with midday and also with the Punarvasu *nakṣatra*, is most meritorious"
+        }
+      ],
+      "justification": "A sustained debate across the Janmāṣṭamī and Rāma-navamī sections concerns whether nakṣatra conjunction (Rohiṇī, Punarvasu) functions as a determiner (choosing which day to observe) or merely as a qualifier adding extra merit."
+    },
+    {
+      "topic": "Nityatva (obligatory nature) vs. kāmya (optional performance) of vows",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f972a1",
+          "quote": "From the hearing of repetition (*vīpsā*), its obligatory nature (*nityatva*) is established."
+        },
+        {
+          "paragraph_id": "p-b2a650",
+          "quote": "the obligatory nature (*nityatva*) of this vow, which is understood from the use of the word 'always', applies only to those initiated into the Rāma-mantra"
+        },
+        {
+          "paragraph_id": "p-fb5acc",
+          "quote": "The optional (*kāmya*) performance, enjoined by verses like..."
+        }
+      ],
+      "justification": "The Janmāṣṭamī and Rāma-navamī sections both explicitly debate whether these vows are obligatory for all or only for initiated devotees, using standard Mīmāṃsā hermeneutic categories of nityatva and kāmya."
+    },
+    {
+      "topic": "Astronomical and calendrical qualifications: solar position (rāśi), lunar mansion (nakṣatra), and day-of-week as modifiers of tithi rites",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ec6703",
+          "quote": "And this should not be performed when the sun is in Virgo or when Agastya has risen.",
+          "paragraph_id": "p-ec6703"
+        },
+        {
+          "paragraph_id": "p-6a670c",
+          "quote": "The Aṣṭamī of the bright fortnight of Pauṣa, conjoined with Wednesday, is Mahābhadrā."
+        },
+        {
+          "paragraph_id": "p-0a19b2",
+          "quote": "When on Aṣṭamī, the day of the week is Sunday and the lunar mansion is also Jyeṣṭhā"
+        }
+      ],
+      "justification": "Throughout the Aṣṭamī section, solar sign (sun in Virgo/Leo), nakṣatra (Rohiṇī, Punarvasu, Jyeṣṭhā, Mūla, Bharaṇī), and day-of-week (Wednesday, Sunday) function as additional qualifications that modify or restrict which Aṣṭamī may be observed."
+    },
+    {
+      "topic": "Mahāniśā (deep night) and pāraṇa (fast-breaking): rules for when to break the Janmāṣṭamī fast",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-824fb3",
+          "quote": "The *mahāniśā* is the one-*yāma* portion of the night after one and a half *yāmas*.",
+          "paragraph_id": "p-824fb3"
+        },
+        {
+          "paragraph_id": "p-e991ee",
+          "quote": "One should not perform the *pāraṇa* at night, except for the Rohiṇī vow. Here, one should perform it even at night, avoiding the *mahāniśā*."
+        },
+        {
+          "paragraph_id": "p-647b3c",
+          "quote": "this *pāraṇa* at the end of both is when there is sufficient time for a meal before the *mahāniśā*"
+        }
+      ],
+      "justification": "The Janmāṣṭamī pāraṇa section is entirely devoted to rules about when to break the fast relative to the mahāniśā (deep night), creating a distinct sub-theme about nocturnal ritual timing."
+    },
+    {
+      "topic": "Regional scholarly traditions (Gauḍa vs. others) as competing interpretive communities",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-abc82d",
+          "quote": "from the *Viṣṇurahasyā* verse cited by the Gauḍas"
+        },
+        {
+          "paragraph_id": "p-d90135",
+          "quote": "The Gauḍas, however, reading \"one should not perform it at midnight,\" say that if the end of both or either is at midnight..."
+        },
+        {
+          "paragraph_id": "p-824fb3",
+          "quote": "This is from the *Brahmāṇḍa Purāṇa* cited in the Gauḍa treatises."
+        }
+      ],
+      "justification": "The Gauḍas (scholars of the Bengal/eastern India tradition) are repeatedly invoked as a distinct interpretive community with different manuscript readings and rule-applications, implicitly situating the Vīramitrodaya's author in a rival tradition."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Nigama of Vyāsa",
+      "cited_author": "Vyāsa",
+      "stance": "authority",
+      "paragraph_id": "p-be39c1",
+      "quote": "from the *yugma-śāstra* in the *Nigama* of Vyāsa, it is understood that a Pañcamī conjoined with Caturthī should be taken",
+      "justification": "Vyāsa's Nigama is cited as the primary scriptural authority prescribing Pañcamī-Caturthī pairing, creating the conflict with Āpastamba's rule."
+    },
+    {
+      "cited_work": "yugma-śāstra of Āpastamba",
+      "cited_author": "Āpastamba",
+      "stance": "extend",
+      "paragraph_id": "p-be39c1",
+      "quote": "from the *yugma-śāstra* cited by Āpastamba and others",
+      "justification": "Āpastamba's pairing-rule text is cited as a competing authority whose scope is ultimately restricted to the Skanda fast, extending the general rule's exceptions."
+    },
+    {
+      "cited_work": "verse of Hārīta",
+      "cited_author": "Hārīta",
+      "stance": "authority",
+      "paragraph_id": "p-b7f722",
+      "quote": "it is said in the verse of Hārīta, \"in the bright fortnight as well as in the dark.\"",
+      "justification": "Hārīta's verse is cited to defeat the śukla-kṛṣṇa-śāstra objection and confirm the restriction of Āpastamba's rule to the Skanda fast."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7291f6",
+      "quote": "This is also from a verse of the *Viṣṇudharmottara*.",
+      "justification": "The Viṣṇudharmottara is cited as an additional authority for the list of tithis to be fasted on when conjoined with the succeeding day."
+    },
+    {
+      "cited_work": "Śivarahasya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-2ea3ad",
+      "quote": "This is from the *Śivarahasya* and *Saurapurāṇa*.",
+      "justification": "The Śivarahasya and Saurapurāṇa are jointly cited as sources for the prohibition against Ṣaṣṭhī conjoined with Nāga, Saptamī conjoined with Śiva, and Ekādaśī conjoined with Daśamī."
+    },
+    {
+      "cited_work": "Saurapurāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-2ea3ad",
+      "quote": "This is from the *Śivarahasya* and *Saurapurāṇa*.",
+      "justification": "The Saurapurāṇa is jointly cited with the Śivarahasya for tithi-prohibition rules in the Ṣaṣṭhī section."
+    },
+    {
+      "cited_work": "Nigama (Ṣaṣṭhī section)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9ee503",
+      "quote": "This is also from the *Nigama*, which prohibits a *tithi* conjoined with the preceding day.",
+      "justification": "The Nigama is cited again as a source prohibiting tithis conjoined with the preceding day; it provides the symbolic equations Nāga=Pañcamī, Śiva/Rudra=Aṣṭamī, sun=Saptamī, Kāma=Trayodaśī, Viṣṇu=Dvādaśī."
+    },
+    {
+      "cited_work": "Skanda Purāṇa (Nāga-nāḍī verse)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d4f5b5",
+      "quote": "from the *Skanda Purāṇa* verse: > Nāga with twelve *nāḍīs*, Dik with fifteen, and Bhūta with eighteen *nāḍīs* defile the succeeding *tithi*.",
+      "justification": "The Skanda Purāṇa is cited to establish the nāḍī-measure of six muhūrtas for the defilement-causing Pañcamī conjunction with Ṣaṣṭhī."
+    },
+    {
+      "cited_work": "Brahmavaivarta (Kṛṣṇāṣṭamī verse)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-588a5f",
+      "quote": "from the *Brahmavaivarta* verse: > Kṛṣṇāṣṭamī, Skanda-ṣaṣṭhī, and Śivarātri-caturdaśī—these should be performed when conjoined with the preceding day",
+      "justification": "The Brahmavaivarta is cited as the source for the counter-injunction prescribing Skanda-ṣaṣṭhī conjoined with Pañcamī; the same verse is re-cited later in the Aṣṭamī section in a different context."
+    },
+    {
+      "cited_work": "verse of Vasiṣṭha (Ṣaṣṭhī section)",
+      "cited_author": "Vasiṣṭha",
+      "stance": "extend",
+      "paragraph_id": "p-7ee61e",
+      "quote": "As for the verse of Vasiṣṭha: > Ekādaśī, Tṛtīyā, Ṣaṣṭhī, and also Trayodaśī should be performed even if conjoined with the preceding day, if they are not on the next day.",
+      "justification": "Vasiṣṭha's verse is cited and its scope restricted: it does not apply to all divine rites but is a counter-injunction for specific cases where the tithi is absent on the next day."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-fc2aa8",
+      "quote": "From the *Brahma Purāṇa* verse: > Ṣaṣṭhī and Saptamī, O Tāta, are mutually dependent.",
+      "justification": "The Brahma Purāṇa is cited as an authority establishing the mutual dependence of Ṣaṣṭhī and Saptamī and prescribing Saptamī conjoined with the preceding day."
+    },
+    {
+      "cited_work": "verse of Paiṭhīnasī",
+      "cited_author": "Paiṭhīnasī",
+      "stance": "authority",
+      "paragraph_id": "p-577ef3",
+      "quote": "From the verse of Paiṭhīnasī: > Pañcamī and Saptamī, and Daśamī and Trayodaśī, Pratipad and Navamī—these *tithis* should be performed when they are facing.",
+      "justification": "Paiṭhīnasī's verse is cited as a supporting authority for the rule that Saptamī should be conjoined with the preceding day."
+    },
+    {
+      "cited_work": "Bhaviṣyat Purāṇa (Saptamī section)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-655110",
+      "quote": "from the *Bhaviṣyat Purāṇa* verse: > Saptamī should be performed when conjoined with Ṣaṣṭhī, not with Aṣṭamī. For the worship of Pataṅga, they say the fast is on Ṣaṣṭhī.",
+      "justification": "The Bhaviṣyat Purāṇa is cited to show that the solar fast prescribes Saptamī conjoined with Ṣaṣṭhī, used as an indicative example for all divine rites."
+    },
+    {
+      "cited_work": "Skanda Purāṇa (Saptamī-Ṣaṣṭhī verse)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9cbfed",
+      "quote": "from the *Skanda Purāṇa* verse: > Saptamī conjoined with Ṣaṣṭhī should always be performed, O Tāta!",
+      "justification": "The Skanda Purāṇa is cited as an additional authority confirming Saptamī-Ṣaṣṭhī conjunction; its scope is debated and ultimately extended to all vows, not just solar fasts."
+    },
+    {
+      "cited_work": "Brahmavaivarta (Saptamī-Aṣṭamī verse)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8332b1",
+      "quote": "Because in the *Brahmavaivarta* verse: > Saptamī should not be conjoined with Aṣṭamī, nor Aṣṭamī with Saptamī. In all vow-texts, Aṣṭamī is auspicious when succeeding.",
+      "justification": "The Brahmavaivarta is cited to prohibit Saptamī conjoined with Aṣṭamī for all vows, refuting the argument that the Bhaviṣyat and Skanda verses apply only to solar fasts."
+    },
+    {
+      "cited_work": "Nigama (Aṣṭamī section)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5d0a2b",
+      "quote": "This is from the *Nigama*.",
+      "justification": "The Nigama is cited in the Aṣṭamī section for the rule distinguishing bright-fortnight Aṣṭamī (succeeding) from dark-fortnight Aṣṭamī (preceding) for general vows."
+    },
+    {
+      "cited_work": "Padma Purāṇa (Śiva-Śakti festival)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a52337",
+      "quote": "This is from the *Padma Purāṇa*.",
+      "justification": "The Padma Purāṇa is cited for the rule that Aṣṭamī conjoined with Navamī is a great festival for Śiva and Śakti in Śiva-kṣetras."
+    },
+    {
+      "cited_work": "Nāradīya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-20c7e1",
+      "quote": "This is from a verse of the *Nāradīya*, which prohibits a *tithi* conjoined with Saptamī in both fortnights.",
+      "justification": "The Nāradīya is cited as the source of the verse prohibiting Aṣṭamī conjoined with Saptamī for fasts in both fortnights."
+    },
+    {
+      "cited_work": "Bṛhad-Yama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5b524b",
+      "quote": "This is from Bṛhad-Yama.",
+      "justification": "Bṛhad-Yama is cited as the source listing Śrāvaṇī, Durgā-navamī, Dūrvā, Hutāśanī, Śivarātri, and the day of Bali as vows to be performed when conjoined with the preceding day."
+    },
+    {
+      "cited_work": "Purāṇasamuccaya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7d6d82",
+      "quote": "This is also from the *Purāṇasamuccaya*.",
+      "justification": "The Purāṇasamuccaya is cited as a secondary authority confirming that Dūrvāṣṭamī should be the preceding Aṣṭamī in Bhādrapada."
+    },
+    {
+      "cited_work": "Skānda Purāṇa (Dūrvāṣṭamī)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5d8e17",
+      "quote": "This is from the *Skānda Purāṇa*.",
+      "justification": "The Skānda Purāṇa is cited for the prohibition of Dūrvāṣṭamī when the sun is in Virgo."
+    },
+    {
+      "cited_work": "Laiṅga Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0084b0",
+      "quote": "In this very context, the Jyeṣṭhā vow is mentioned in the *Laiṅga Purāṇa*",
+      "justification": "The Laiṅga Purāṇa is cited as the source for the Jyeṣṭhā vow performed on Aṣṭamī in the Jyeṣṭhā nakṣatra when the sun is in Virgo."
+    },
+    {
+      "cited_work": "Skānda Purāṇa (Jyeṣṭhā vow)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4d4dac",
+      "quote": "This is from the *Skānda Purāṇa*.",
+      "justification": "The Skānda Purāṇa is cited for the rule that the Jyeṣṭhā vow's conjunction with the lunar mansion is after the preceding-day Aṣṭamī is accepted."
+    },
+    {
+      "cited_work": "Mātsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-880b07",
+      "quote": "Mādhava says that the Nīlajyeṣṭhā vow mentioned in the *Mātsya Purāṇa* is also performed on this day.",
+      "justification": "The Mātsya Purāṇa is cited (via Mādhava) as the source for the Nīlajyeṣṭhā vow, which Mādhava associates with the same Aṣṭamī-Sunday-Jyeṣṭhā conjunction."
+    },
+    {
+      "cited_work": "Saṅgraha (Mahālakṣmī)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-eb04e6",
+      "quote": "This is from the *Saṅgraha*.",
+      "justification": "The Saṅgraha is cited for the rule about Mahālakṣmī-aṣṭamī when the tithi extends upward from moonrise."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-76ba18",
+      "quote": "This is from the *Devī Purāṇa*.",
+      "justification": "The Devī Purāṇa is cited for the goddess's speech identifying herself with Bhadrā and for the prohibition on worship during Viṣṭi karaṇa at Durgāṣṭamī."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a24b08",
+      "quote": "And in the *Madanaratna*: > The bright Mahāṣṭamī in the month of Āśvina is auspicious.",
+      "justification": "The Madanaratna is cited multiple times (Durgāṣṭamī, Janmāṣṭamī, pāraṇa sections) as a dharmaśāstra digest authority; here for the rule about Durgāṣṭamī with Mūla nakṣatra."
+    },
+    {
+      "cited_work": "Nirṇayāmṛta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-046c78",
+      "quote": "And in the *Nirṇayāmṛta*: > I am Bhadrā and Bhadrā is I",
+      "justification": "The Nirṇayāmṛta is cited for the Devī's speech and later for the prohibition on Aṣṭamī conjoined with Saptamī even when conjoined with Mūla in the Durgotsava."
+    },
+    {
+      "cited_work": "Kālikā Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-056e81",
+      "quote": "In the *Kālikā Purāṇa*: > One with a son should not perform a fast on Mahāṣṭamī.",
+      "justification": "The Kālikā Purāṇa is cited for the restriction that a person with a son may not fast on Mahāṣṭamī but should worship the Goddess by other means."
+    },
+    {
+      "cited_work": "Smṛtisaṅgraha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5270ab",
+      "quote": "This is from the *Smṛtisaṅgraha*, says the *Madanaratna*.",
+      "justification": "The Smṛtisaṅgraha is cited (via the Madanaratna) for the verse about performing Durgāṣṭamī conjoined with Saptamī when Navamī is absent on the next day."
+    },
+    {
+      "cited_work": "Bhaviṣyottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7735cf",
+      "quote": "and from the *Bhaviṣyottara*: > In the month of Bhādrapada, on the eighth day of the dark fortnight, at midnight...",
+      "justification": "The Bhaviṣyottara is cited as a source locating Janmāṣṭamī in Bhādrapada (new-moon-ending month reckoning), to be harmonized with the Viṣṇudharmottara's Śrāvaṇa reference."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara (Janmāṣṭamī)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-08b448",
+      "quote": "Although from the *Viṣṇudharmottara*: > The dark Aṣṭamī in the month of Nabhas, conjoined with the Prajāpati lunar mansion...",
+      "justification": "The Viṣṇudharmottara is cited as placing Janmāṣṭamī in Nabhas (Śrāvaṇa), creating the apparent conflict with the Bhaviṣyottara that is resolved by full-moon vs. new-moon month reckoning."
+    },
+    {
+      "cited_work": "Viṣṇurahasyā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-fcd7d9",
+      "quote": "This is from the *Viṣṇurahasyā*.",
+      "justification": "The Viṣṇurahasyā is cited for the verse praising the Rohiṇī-Janmāṣṭamī conjunction; this forms the basis for Hemādri and Mādhava's position, which the text's 'learned' (śiṣṭāḥ) then rebutted."
+    },
+    {
+      "cited_work": "Padma Purāṇa (pretahood verse)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-481842",
+      "quote": "from the *Padma Purāṇa*: > The pretahood of those who have gone to the realm of ghosts is destroyed by men who have performed the Aṣṭamī of the month of Śrāvaṇa conjoined with Rohiṇī.",
+      "justification": "The Padma Purāṇa verse about Wednesday, Monday, and Navamī as subordinate fruit-qualifiers is cited to refute Mādhava's view that nakṣatra-conjunction functions as a determiner."
+    },
+    {
+      "cited_work": "Vahni Purāṇa (Rohiṇī counter-injunction)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-fd04e2",
+      "quote": "from the *Vahni Purāṇa* verse, which is for the purpose of a counter-injunction to the prohibition of a *tithi* conjoined with Saptamī",
+      "justification": "The Vahni Purāṇa is cited for the counter-injunction that Aṣṭamī conjoined with Saptamī is meritorious when Rohiṇī is at midnight on the preceding day."
+    },
+    {
+      "cited_work": "Brahmavaivarta (Janmāṣṭamī-Saptamī prohibition)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a2f822",
+      "quote": "This is from the *Brahmavaivarta* verse.",
+      "justification": "The Brahmavaivarta is cited again in the Janmāṣṭamī section to prohibit Aṣṭamī conjoined with Saptamī even when conjoined with Rohiṇī nakṣatra."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa (Śauri worship)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-eb409e",
+      "quote": "From the *Bhaviṣya Purāṇa*: > When the dark Aṣṭamī is with Rohiṇī at midnight, the worship of Śauri on it destroys the sin of three births.",
+      "justification": "The Bhaviṣya Purāṇa is cited to establish that midnight worship and fasting are both principal elements of Janmāṣṭamī, jointly prescribed."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara (Jayantī-pāraṇa)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-fe5c9c",
+      "quote": "In the *Viṣṇudharmottara*: > Jayantī and Śivarātri should be performed when conjoined with Bhadrā and Jayā. Having performed the fast, one should perform the *pāraṇa* at the end of the *tithi*.",
+      "justification": "The Viṣṇudharmottara is cited for the rule on pāraṇa timing for Janmāṣṭamī alone (at the end of the tithi), distinguishing it from Aṣṭamī-Rohiṇī pāraṇa rules."
+    },
+    {
+      "cited_work": "Padma Purāṇa (Aṣṭamī-Rohiṇī pāraṇa)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-863099",
+      "quote": "From the *Padma Purāṇa*: > Aṣṭamī conjoined with Rohiṇī should be performed when conjoined with Saptamī. One should fast there and perform the *pāraṇa* at the end of the *tithi* and the lunar mansion.",
+      "justification": "The Padma Purāṇa is cited for the rule that the pāraṇa of Aṣṭamī-Rohiṇī fast should be at the end of both the tithi and the nakṣatra."
+    },
+    {
+      "cited_work": "Brahmāṇḍa Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-824fb3",
+      "quote": "This is from the *Brahmāṇḍa Purāṇa* cited in the Gauḍa treatises.",
+      "justification": "The Brahmāṇḍa Purāṇa (as cited in Gauḍa treatises) is the source for the exception allowing pāraṇa at night for the Rohiṇī vow, avoiding the mahāniśā."
+    },
+    {
+      "cited_work": "smṛti (mahāniśā definition)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-824fb3",
+      "quote": "From the *smṛti*: > The *mahāniśā* is known as the middle of the middle two *yāmas*.",
+      "justification": "An unnamed smṛti is cited to define the mahāniśā as the middle of the middle two yāmas of the night, establishing the boundary for pāraṇa timing."
+    },
+    {
+      "cited_work": "Garuḍa Purāṇa",
+      "cited_author": null,
+      "stance": "extend",
+      "paragraph_id": "p-f0b48a",
+      "quote": "And so, the prohibition of *pāraṇa* at night in the *Garuḍa Purāṇa*, etc.",
+      "justification": "The Garuḍa Purāṇa is cited for the general prohibition of nocturnal pāraṇa; its scope is restricted to fasts other than Janmāṣṭamī."
+    },
+    {
+      "cited_work": "Vahni Purāṇa (pāraṇa at end of nakṣatra)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c406ea",
+      "quote": "This is from the *Vahni Purāṇa*, in the context of Janmāṣṭamī.",
+      "justification": "The Vahni Purāṇa is cited for the verse allowing pāraṇa at the end of either the tithi or the nakṣatra for one who cannot complete both."
+    },
+    {
+      "cited_work": "Hemādri (verse at mahāniśā)",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-9feb8b",
+      "quote": "This is from a verse cited in the *Hemādri*.",
+      "justification": "Hemādri's digest is cited for the verse allowing pāraṇa even at mahāniśā when the tithi or nakṣatra ends there."
+    },
+    {
+      "cited_work": "Kālādarśa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-676322",
+      "quote": "As for the *Kālādarśa* verse: > A votary should perform the *pāraṇa* at the end of the *tithi* or at the end of the festival.",
+      "justification": "The Kālādarśa is cited for the fallback rule allowing pāraṇa at the end of the festival for one unable to perform it at the end of the tithi or nakṣatra."
+    },
+    {
+      "cited_work": "Padma Purāṇa (Navamī-Daśamī prohibition)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a76b78",
+      "quote": "And this is from the *Padma Purāṇa*.",
+      "justification": "The Padma Purāṇa is cited for the verse stating that Navamī (and Ekādaśī) conjoined with Daśamī should be especially avoided, like Gaṅgā water by liquor."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa (Navamī)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-e99fc1",
+      "quote": "The rule that Navamī should be conjoined with Aṣṭamī, and the prohibition that it should not be conjoined with Daśamī, are both shown in the *Brahmavaivarta Purāṇa*",
+      "justification": "The Brahmavaivarta Purāṇa is cited for both the positive rule (Navamī with Aṣṭamī) and the prohibition (Navamī not with Daśamī) in a single verse."
+    },
+    {
+      "cited_work": "Skanda Purāṇa (Navamī-Daśamī)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-75357b",
+      "quote": "This is from the *Skanda Purāṇa*.",
+      "justification": "The Skanda Purāṇa is cited for the direct prohibition: Navamī should never be performed with Daśamī."
+    },
+    {
+      "cited_work": "Agastyasaṃhitā",
+      "cited_author": "Agastya",
+      "stance": "authority",
+      "paragraph_id": "p-a46cd6",
+      "quote": "From this verse of the *Agastyasaṃhitā*, it is known that midday is the time of birth.",
+      "justification": "The Agastyasaṃhitā is cited three times as the primary source for Rāma-navamī: establishing the birth-time (midday), the meritoriousness of Punarvasu conjunction, and the prohibition on Navamī conjoined with Aṣṭamī for Viṣṇu devotees."
+    },
+    {
+      "cited_work": "Tithitattva",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-c041c5",
+      "quote": "The author of the *Tithitattva* and others also hold that the conjunction with Wednesday, etc., is not a determiner.",
+      "justification": "The Tithitattva is cited as supporting the text's position that nakṣatra-day conjunctions are merit-qualifiers, not determiners of which Janmāṣṭamī day to observe."
+    },
+    {
+      "cited_work": "Kalpataru",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-3a1712",
+      "quote": "The *Kalpataru* says it is Ārdrā. That is not so, because its conjunction there is impossible.",
+      "justification": "The Kalpataru's identification of the Raudra nakṣatra as Ārdrā (rather than Bharaṇī) is cited and explicitly refuted as astronomically impossible."
+    },
+    {
+      "cited_work": "Padma Purāṇa (Ardhanārīśvara simile)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-892c8f",
+      "quote": "In the *Padma Purāṇa* also: > Aṣṭamī conjoined with Navamī, and Navamī conjoined with Aṣṭamī, is a *tithi* like Ardhanārīśvara, of Umā and Māheśvara.",
+      "justification": "The Padma Purāṇa is cited for the Ardhanārīśvara simile that captures the mutual pairing requirement of Aṣṭamī and Navamī."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa (Dvādaśīkalpa)",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-20f562",
+      "quote": "In the *Bhaviṣya Purāṇa* also, in the Dvādaśīkalpa: > Aṣṭamī should be performed with Navamī, and likewise Navamī.",
+      "justification": "The Bhaviṣya Purāṇa's Dvādaśīkalpa section is cited as a secondary supporting authority for the Aṣṭamī-Navamī mutual pairing rule."
+    }
+  ]
+}

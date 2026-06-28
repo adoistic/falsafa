@@ -1,0 +1,1094 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:3235-3536",
+  "entities": [
+    {
+      "canonical_name": "Kātyāyana",
+      "surface_names": ["Kātyāyana", "Kātyāyana Gṛhya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-2f1c12",
+          "quote": "By Kātyāyana: On the fourth, fifth, and on the ninth and eleventh days, / what is given to the deceased, that is called navaśrāddha.",
+          "role": "cited authority on navaśrāddha days"
+        },
+        {
+          "paragraph_id": "p-ef94cf",
+          "quote": "In the Kātyāyana Gṛhya also, this is called nāvam.",
+          "role": "cited authority on terminology"
+        },
+        {
+          "paragraph_id": "p-523",
+          "quote": "the option of Kātyāyana for the Sapiṇḍīkaraṇa, \"Then, when the year is complete, the Sapiṇḍīkaraṇa\"",
+          "role": "cited authority on Sapiṇḍīkaraṇa timing"
+        },
+        {
+          "paragraph_id": "p-936ad4",
+          "quote": "Because in the statement of Kātyāyana also, it is possible to explain it as \"when the year is complete, the Sapiṇḍīkaraṇa is on the second day.\"",
+          "role": "cited authority reconciled with Āśvalāyana"
+        }
+      ],
+      "description": "Vedic sage and smṛti authority cited multiple times on the schedule of navaśrāddha and Sapiṇḍīkaraṇa rites.",
+      "justification": "Kātyāyana is directly quoted by name at p-2f1c12 on navaśrāddha days and at p-936ad4 on the timing of Sapiṇḍīkaraṇa."
+    },
+    {
+      "canonical_name": "Aṅgiras",
+      "surface_names": ["Aṅgiras", "Āṅgirasa", "Āṅgirāḥ"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-9343b1",
+          "quote": "Aṅgiras says: On the first day, on the third day, on the fifth and seventh likewise, / on the ninth and eleventh, the navaśrāddhas are six.",
+          "role": "cited authority on navaśrāddha count"
+        },
+        {
+          "paragraph_id": "p-b32789",
+          "quote": "And from the statement of Āṅgirasa, the view that impurity is for ten days for all is the one now widely followed.",
+          "role": "authority on ten-day impurity rule"
+        },
+        {
+          "paragraph_id": "p-6d7059",
+          "quote": "Thus says Āṅgirāḥ: For one without fires, from the departure; for one with fires, from the rite of cremation.",
+          "role": "cited authority on bone-collection timing"
+        }
+      ],
+      "description": "Vedic sage cited as authority on the number of navaśrāddhas, universal ten-day impurity rule, and bone-collection rites.",
+      "justification": "Aṅgiras appears by name at p-9343b1, p-b32789, and p-6d7059 as a primary smṛti authority throughout this window."
+    },
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-fff3d9",
+          "quote": "Vyāsa says: On the first, seventh, and on the ninth and eleventh days, / what is given to the deceased, that is called navaśrāddha.",
+          "role": "cited authority on navaśrāddha days"
+        },
+        {
+          "paragraph_id": "p-0dfe86",
+          "quote": "Vyāsa says: On the twelfth day, in the third fortnight, and in the sixth month, in the monthly and annual rites, / these sixteen śrāddhas are remembered by the wise.",
+          "role": "cited authority on the sixteen śrāddhas"
+        }
+      ],
+      "description": "Smṛti authority cited on the days of navaśrāddha and on the enumeration of the sixteen śrāddhas.",
+      "justification": "Vyāsa is directly quoted at p-fff3d9 and p-0dfe86 as a smṛti source for śrāddha scheduling."
+    },
+    {
+      "canonical_name": "Vṛddha Vasiṣṭha",
+      "surface_names": ["Vṛddha Vasiṣṭha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-cc1b19",
+          "quote": "those stated by Vṛddha Vasiṣṭha— On the first day, on the third day, on the seventh and ninth likewise, / on the eleventh and fifth days, the navaśrāddhas are thus six.",
+          "role": "normative authority whose schedule is currently followed"
+        },
+        {
+          "paragraph_id": "p-1a47ac",
+          "quote": "The necessity of the navaśrāddhas is stated by Vṛddha Vasiṣṭha: Without having received the navaśrāddha, one is not released from the state of a ghost (pretatva).",
+          "role": "cited authority on soteriological necessity of navaśrāddha"
+        }
+      ],
+      "description": "Ancient smṛti sage whose six-fold navaśrāddha schedule is described as the current normative practice among the learned.",
+      "justification": "Vṛddha Vasiṣṭha is cited at p-cc1b19 as providing the currently followed navaśrāddha schedule and at p-1a47ac for the doctrine of pretatva release."
+    },
+    {
+      "canonical_name": "Baudhāyana",
+      "surface_names": ["Baudhāyana"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-83cd7c",
+          "quote": "Baudhāyana, however, has stated only five. There too, if the navaśrāddha to be performed on the ninth day is interrupted by an obstruction, etc., it should be performed on the eleventh day.",
+          "role": "dissenting authority on navaśrāddha count"
+        }
+      ],
+      "description": "Vedic smṛti sage who holds that only five navaśrāddhas are required, differing from the six of Vṛddha Vasiṣṭha.",
+      "justification": "Baudhāyana is named at p-83cd7c as stating only five navaśrāddhas, providing a dissenting view in the digest's comparative discussion."
+    },
+    {
+      "canonical_name": "Śivasvāmī",
+      "surface_names": ["Śivasvāmī"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-a7b721",
+          "quote": "Śivasvāmī, however, says: The followers of the Āśvalāyana school say there are five navaśrāddhas. / The Āpastambas say six; the Aitareyins have an option.",
+          "role": "authority differentiating navaśrāddha count by Vedic school"
+        }
+      ],
+      "description": "Dharmaśāstra scholar who differentiates the number of navaśrāddhas by Vedic school affiliation (Āśvalāyana, Āpastamba, Aitareyin).",
+      "justification": "Śivasvāmī is quoted by name at p-a7b721 as providing a school-based breakdown of navaśrāddha practice."
+    },
+    {
+      "canonical_name": "Atri",
+      "surface_names": ["Atri"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-89b849",
+          "quote": "By Atri, only one is stated.",
+          "role": "minority authority holding only one navaśrāddha occasion"
+        },
+        {
+          "paragraph_id": "p-cad1f5",
+          "quote": "Atri says: For the sake of the deceased, at the end of the impurity period, one should then feed the Brahmins.",
+          "role": "authority on post-impurity Brahmin-feeding"
+        }
+      ],
+      "description": "Vedic sage cited as a minority authority who enjoins only a single navaśrāddha occasion, and also on post-impurity Brahmin-feeding.",
+      "justification": "Atri is cited at p-89b849 with a minimal navaśrāddha ruling and at p-cad1f5 on Brahmin-feeding at impurity's end."
+    },
+    {
+      "canonical_name": "Śaṅkha",
+      "surface_names": ["Śaṅkha"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ef94cf",
+          "quote": "in this verse of Śaṅkha, what is called 'the first' is also explained as navam.",
+          "role": "cited for defining 'first śrāddha' as navaśrāddha"
+        },
+        {
+          "paragraph_id": "p-46542b",
+          "quote": "the first śrāddha, even if impure, one should perform on the eleventh day. / The purity of the agent is for that moment; he becomes impure again.",
+          "role": "cited authority on performing first śrāddha during impurity"
+        },
+        {
+          "paragraph_id": "p-8bd44f",
+          "quote": "Even in a case of immediate purity, it should be given for the deceased on the eleventh day. / That very day is his for the śrāddha, bed, seat, etc.",
+          "role": "authority on eleventh-day universality of śrāddha"
+        },
+        {
+          "paragraph_id": "p-d5111d",
+          "quote": "Because it would lead to a contradiction with the statement of Śaṅkha, \"The first śrāddha, even if impure...\"",
+          "role": "touchstone for resolving contradictions in śrāddha scheduling"
+        }
+      ],
+      "description": "Smṛti sage whose ruling that the first śrāddha must be performed on the eleventh day even during impurity is a key touchstone in the digest's deliberations.",
+      "justification": "Śaṅkha is repeatedly cited (p-ef94cf, p-46542b, p-8bd44f, p-d5111d) as a decisive authority on performing the eleventh-day śrāddha irrespective of impurity state."
+    },
+    {
+      "canonical_name": "Yājñavalkya",
+      "surface_names": ["Yājñavalkya", "Yājñavalkya Smṛti"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-83f8b2",
+          "quote": "having said (Yājñavalkya Smṛti, a. 1, śrā. pra. ślo. 256)",
+          "role": "primary smṛti text being expounded"
+        },
+        {
+          "paragraph_id": "p-1f5007",
+          "quote": "Yājñavalkya, by stating the postponement of the first monthly rite, which would fall on the day of death, to the eleventh day with \"the first is on the eleventh day,\" has also made the first monthly rite applicable there.",
+          "role": "base text authority for the postponement rule"
+        },
+        {
+          "paragraph_id": "p-98dd25",
+          "quote": "It should be performed on the day of death, every month for a year. / And likewise every year; the first is on the eleventh day.",
+          "role": "primary verse on monthly śrāddha schedule"
+        }
+      ],
+      "description": "The primary smṛti author whose Yājñavalkya Smṛti (1.256) provides the foundational verse on monthly śrāddha timing that the digest expounds.",
+      "justification": "Yājñavalkya is cited at p-83f8b2 and p-98dd25 as the base text authority, with his verse on the monthly and eleventh-day śrāddha forming the core of the exegetical discussion."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-6e5235",
+          "quote": "In the Nāgarakhaṇḍa cited by Hemādri, by Bhartṛyajña",
+          "role": "intermediary source for Nāgarakhaṇḍa citation"
+        },
+        {
+          "paragraph_id": "p-f123b8",
+          "quote": "This being so, Hemādri understands that the feeding of Brahmins enjoined at the end of the impurity is a different rite from the eleventh-day rite and the navaśrāddha.",
+          "role": "interpreter of competing śrāddha obligations"
+        },
+        {
+          "paragraph_id": "p-351928",
+          "quote": "the sequence of śrāddhas taught by the sūtra cited by Hemādri",
+          "role": "authority for the sixteen-śrāddha sequence"
+        }
+      ],
+      "description": "Medieval nibandha author whose Caturvargacintāmaṇi is used as an intermediary source for purāṇic and sūtra citations throughout this window.",
+      "justification": "Hemādri is cited at p-6e5235, p-f123b8, and p-351928 as a secondary authority and source for embedded citations from earlier texts."
+    },
+    {
+      "canonical_name": "Bṛhaspati",
+      "surface_names": ["Bṛhaspati"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-b5d89a",
+          "quote": "This and other duties stated by Bṛhaspati should be known in detail elsewhere.",
+          "role": "secondary authority on post-death gift-giving"
+        },
+        {
+          "paragraph_id": "p-d4efec",
+          "quote": "Bṛhaspati also says: By the procedure of an ekoddiṣṭa, what is given to one, / without the invocation and the agnaukaraṇa, and devoid of the rite for the gods...",
+          "role": "authority on ekoddiṣṭa procedure and gifts to Brahmins"
+        },
+        {
+          "paragraph_id": "p-a614b5",
+          "quote": "Bṛhaspati says: Learned Brahmins should be fed, nine, seven, or thirteen.",
+          "role": "authority on number of Brahmins to feed"
+        }
+      ],
+      "description": "Smṛti sage cited on the ekoddiṣṭa ritual procedure, the gift-giving protocol for the deceased, and the odd-number rule for Brahmin guests.",
+      "justification": "Bṛhaspati is quoted by name at p-b5d89a, p-d4efec, and p-a614b5 on different aspects of śrāddha observance."
+    },
+    {
+      "canonical_name": "Śātātapa",
+      "surface_names": ["Śātātapa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-115b46",
+          "quote": "Śātātapa says: The navaśrāddha, the Sapiṇḍatva, and also the sixteen śrāddhas, / should be performed by one alone, even when the wealth has been divided.",
+          "role": "authority on sole-performer rule"
+        },
+        {
+          "paragraph_id": "p-bd09f7",
+          "quote": "For all the social classes, whether in impurity of birth or death, // their purity is after ten days; thus said Śātātapa.",
+          "role": "authority for universal ten-day impurity rule"
+        },
+        {
+          "paragraph_id": "p-b30fd9",
+          "quote": "Even when the impurity is reduced, one should give only ten piṇḍas.",
+          "role": "authority on piṇḍa-count under reduced impurity"
+        },
+        {
+          "paragraph_id": "p-df8b32",
+          "quote": "Śātātapa says: To go from the earthly world to the world of the deceased, one should perform a śrāddha. / That becomes the journey-provision for the deceased man.",
+          "role": "authority on pātheyaśrāddha"
+        },
+        {
+          "paragraph_id": "p-651e0b",
+          "quote": "Ṛṣyaśṛṅga has stated another special rule: The navaśrāddha and the Sapiṇḍatva should be performed with cooked food.",
+          "role": "see Ṛṣyaśṛṅga entry"
+        }
+      ],
+      "description": "Smṛti sage cited on the universal ten-day impurity rule, the sole-performer rule for śrāddha obligations, and the pātheyaśrāddha.",
+      "justification": "Śātātapa is cited by name at p-115b46, p-bd09f7, p-b30fd9, and p-df8b32 as an authority on multiple śrāddha regulations."
+    },
+    {
+      "canonical_name": "Gālava",
+      "surface_names": ["Gālava"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-443913",
+          "quote": "Gālava says: If there is impurity (sūtaka) at the time of death (śāve), and likewise in the remainder of the night, / the navaśrāddhas should be given according to the time and according to the rules.",
+          "role": "authority on navaśrāddha during overlapping impurities"
+        },
+        {
+          "paragraph_id": "p-952505",
+          "quote": "Gālava says: By three days deficient, or by two, or by one, likewise, / in the first, etc., months, one should perform the ūnābdika, etc.",
+          "role": "authority on deficiency options for ūna śrāddhas"
+        },
+        {
+          "paragraph_id": "p-e37728",
+          "quote": "Even in the impurity for one's parents, if a new moon should occur, / the subsequent rite should end then, after three days.",
+          "role": "authority on new-moon cutoff for parental impurity"
+        }
+      ],
+      "description": "Smṛti sage cited on the treatment of overlapping impurities, the days-deficient options for the ūna śrāddhas, and the new-moon rule during parental impurity.",
+      "justification": "Gālava is quoted by name at p-443913, p-952505, and p-e37728 on distinct aspects of śrāddha scheduling."
+    },
+    {
+      "canonical_name": "Pāraskara",
+      "surface_names": ["Pāraskara"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-5c877a",
+          "quote": "Pāraskara also says: For a Brahmin, there are ten piṇḍas; for a Kṣatriya, twelve are remembered. / For a Vaiśya, fifteen are proclaimed; for a Śūdra, thirty are declared.",
+          "role": "authority on caste-differentiated piṇḍa counts"
+        },
+        {
+          "paragraph_id": "p-d19f7d",
+          "quote": "Another option of ten piṇḍas is also stated by him: \"For the deceased of all social classes, they should give only ten piṇḍas.\"",
+          "role": "authority on unified ten-piṇḍa option"
+        },
+        {
+          "paragraph_id": "p-e32376",
+          "quote": "Pāraskara says: On the first day, three piṇḍas should be given by those who are restrained. / On the second, one should give four...",
+          "role": "authority on day-by-day piṇḍa schedule for three-day impurity"
+        }
+      ],
+      "description": "Gṛhyasūtra author cited on the caste-wise number of piṇḍas and their day-by-day distribution under three-day impurity.",
+      "justification": "Pāraskara is cited at p-5c877a, p-d19f7d, and p-e32376 as a key authority on the body-completing piṇḍa schedule."
+    },
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Viṣṇu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-b43177",
+          "quote": "Viṣṇu, however, has stated the number of piṇḍas by the number of days of impurity: \"As long as the impurity lasts, they should give water and one piṇḍa for the deceased.\"",
+          "role": "authority on duration-based piṇḍa giving"
+        },
+        {
+          "paragraph_id": "p-7679c6",
+          "quote": "By Viṣṇu, with \"as many as one is able,\" many are also stated.",
+          "role": "authority on flexible number of Brahmins"
+        },
+        {
+          "paragraph_id": "p-f190e3",
+          "quote": "Viṣṇu, however, also states the fourth day: \"On the fourth day, one should perform the collection of bones, and their immersion in the water of the Gaṅgā.\"",
+          "role": "authority on bone-collection day"
+        }
+      ],
+      "description": "Dharmaśāstra authority (Viṣṇusmṛti) cited on piṇḍa duration, Brahmin-feeding numbers, and the fourth-day bone collection.",
+      "justification": "Viṣṇu is cited by name at p-b43177, p-7679c6, and p-f190e3 as a distinct textual authority in the comparative analysis."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": ["Manu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-23fea3",
+          "quote": "For one killed in battle with weapons raised, according to the duty of a Kṣatriya, / the sacrifice is completed immediately, and likewise the impurity; this is the rule.",
+          "role": "authority on immediate ritual completion for battle-death"
+        },
+        {
+          "paragraph_id": "p-4ad85d",
+          "quote": "For him, the impurity is for three nights; on the second day is the collection of bones.",
+          "role": "authority on rules for death by self-immolation (Bhṛgu's case)"
+        }
+      ],
+      "description": "Primary dharmaśāstra authority (Manusmṛti 5.98) cited on the immediate completion of rites and impurity for warriors killed in battle and for self-immolation cases.",
+      "justification": "Manu is cited by name with chapter and verse reference at p-87ed9a / p-23fea3 and at p-4ad85d for special cases of impurity and piṇḍa-giving."
+    },
+    {
+      "canonical_name": "Dakṣa",
+      "surface_names": ["Dakṣa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-eada14",
+          "quote": "Dakṣa, however, says otherwise: On the first day, one piṇḍa, and on the second, four. / On the third, one should give five; the rule of ten piṇḍas is remembered.",
+          "role": "dissenting authority on piṇḍa schedule for three-day impurity"
+        }
+      ],
+      "description": "Smṛti sage who provides a different day-by-day piṇḍa schedule for three-day impurity, contrasting with Pāraskara's arrangement.",
+      "justification": "Dakṣa is quoted by name at p-eada14 offering a dissenting piṇḍa schedule in explicit contrast to Pāraskara."
+    },
+    {
+      "canonical_name": "Śūlapāṇi",
+      "surface_names": ["Śūlapāṇi"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-57d2ad",
+          "quote": "In Śūlapāṇi, however, the reading is: One should feed an odd number of Brahmins; that is called navaśrāddha.",
+          "role": "textual authority with a variant reading"
+        },
+        {
+          "paragraph_id": "p-eaa47e",
+          "quote": "Śūlapāṇi and others, however, from \"then, at the end of the impurity\"... say that by Kṣatriyas, etc... the eleventh-day śrāddha should be performed at the end of their respective impurity periods, not on the eleventh day.",
+          "role": "dissenting scholarly view on timing for non-Brahmins"
+        },
+        {
+          "paragraph_id": "p-fd80cd",
+          "quote": "what is said by Śūlapāṇi—that the derivation of the name is only \"what occurs in a month,\" and it is not so that all monthly rites would fall on the first death-tithi...",
+          "role": "dissenting view on monthly śrāddha timing refuted by digest"
+        }
+      ],
+      "description": "Medieval nibandha author (Śrāddhakṛtya) whose views on navaśrāddha readings and śrāddha timing are noted and in the last case refuted by the Vīramitrodaya.",
+      "justification": "Śūlapāṇi is cited by name at p-57d2ad, p-eaa47e, and p-fd80cd as an important but sometimes contested scholarly voice."
+    },
+    {
+      "canonical_name": "Satyavrata",
+      "surface_names": ["Satyavrata"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-fa0e39",
+          "quote": "Satyavrata also says this: \"Having risen in the morning and invited eleven Brahmins for the deceased, in the afternoon, with various kinds of prepared foods and sauces,\" etc.",
+          "role": "authority on the eleven-Brahmin rule for ekoddiṣṭa"
+        }
+      ],
+      "description": "Smṛti sage cited on the primary rule of inviting eleven Brahmins for the eleventh-day ekoddiṣṭa śrāddha.",
+      "justification": "Satyavrata is cited by name at p-fa0e39 in support of the eleven-Brahmin primary rule for the ekoddiṣṭa."
+    },
+    {
+      "canonical_name": "Paiṭhīnasī",
+      "surface_names": ["Paiṭhīnasī"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-6f8c08",
+          "quote": "The śrāddha that is on the eleventh day is declared as general. / For all the social classes, the impurity period is separate for each.",
+          "role": "authority on the universality of the eleventh-day śrāddha"
+        },
+        {
+          "paragraph_id": "p-3db1d1",
+          "quote": "Paiṭhīnasī says: The ṣāṇmāsika and ābdika śrāddhas should be on the preceding day. / The monthly rites, on their own day, or on the twelfth day.",
+          "role": "authority on ūna and monthly śrāddha timing"
+        },
+        {
+          "paragraph_id": "p-00620d",
+          "quote": "Paiṭhīnasī also says: The rites of the piṇḍa and water for the deceased should be performed on the first moon only. / One who performs them on two moons partakes of the impurity of death again.",
+          "role": "authority on new-moon completion rule"
+        }
+      ],
+      "description": "Smṛti authority cited on the general applicability of the eleventh-day śrāddha, on the timing of the ūna and monthly śrāddhas, and on the one-moon completion rule.",
+      "justification": "Paiṭhīnasī is quoted by name at p-de1d13/p-6f8c08, p-fba371/p-3db1d1, and p-5b869d/p-00620d on distinct scheduling questions."
+    },
+    {
+      "canonical_name": "Saṃvarta",
+      "surface_names": ["Saṃvarta"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-5ac16e",
+          "quote": "Saṃvarta says: On the first day, or on the third, or on the seventh and ninth, / the collection of bones should be done on that day, together with those of the same gotra.",
+          "role": "authority on asthisañcayana timing"
+        }
+      ],
+      "description": "Smṛti sage cited as a primary authority on the permissible days for the collection of bones (asthisañcayana).",
+      "justification": "Saṃvarta is quoted by name at p-3bbd1c/p-5ac16e on the timing of bone collection."
+    },
+    {
+      "canonical_name": "Gautama",
+      "surface_names": ["Gautama", "Ślokagautama"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-d3dd45",
+          "quote": "Gautama says: \"The water-rite is on the first, third, fifth, seventh, and ninth days.\"",
+          "role": "authority on water-offering days"
+        },
+        {
+          "paragraph_id": "p-0cd82d",
+          "quote": "Ślokagautama says: If a new moon falls within the ten-day period, one should complete everything there. / For one's parents, however, one should give piṇḍas and sesame-water until the impurity ends.",
+          "role": "authority on new-moon and parental impurity rule"
+        }
+      ],
+      "description": "Dharmasūtra sage cited both in prose form and in verse form (Ślokagautama) on water-offering timing and on the new-moon rite completion rule for parental impurity.",
+      "justification": "Gautama is quoted at p-d3dd45 on water-offering days and at p-8860ff/p-0cd82d on the new-moon rule for parental piṇḍa rites."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": ["Yama"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-3f92f1",
+          "quote": "One should avoid it on the days of Mars, the Sun, and Saturn, and on paired tithis. / One should avoid the collection of bones on a one-footed or two-footed lunar mansion.",
+          "role": "authority on prohibited times for bone collection"
+        }
+      ],
+      "description": "The deity and dharmaśāstra authority Yama is cited on the days and lunar mansions to avoid for the collection of bones.",
+      "justification": "Yama is cited at p-9e4331/p-3f92f1 as a named authority (Yamasmṛti) on astrological prohibitions for the asthisañcayana."
+    },
+    {
+      "canonical_name": "Śaunaka",
+      "surface_names": ["Śaunaka"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-bac51b",
+          "quote": "Śaunaka says: In the case of burning the bones with Palāśa, the collection should be immediate.",
+          "role": "authority on bone-collection timing when Palāśa wood is used"
+        }
+      ],
+      "description": "Vedic authority cited on the rule of immediate bone collection when Palāśa wood is used in cremation.",
+      "justification": "Śaunaka is quoted by name at p-27a05f/p-bac51b on a specific exception for Palāśa cremation."
+    },
+    {
+      "canonical_name": "Bhṛgu",
+      "surface_names": ["Bhṛgu"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4ad85d",
+          "quote": "In the case of death by self-immolation for Bhṛgu, etc., a special rule is stated by Manu: For him, the impurity is for three nights; on the second day is the collection of bones.",
+          "role": "representative figure for the special rule on self-immolation"
+        }
+      ],
+      "description": "Vedic sage named as the representative case for the special Manu-rule on impurity and bone-collection following self-immolation on the funeral pyre.",
+      "justification": "Bhṛgu is named at p-911371/p-4ad85d as the exemplar for the self-immolation exception treated by Manu."
+    },
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": ["Mādhava", "Mādhava (Nirṇayāmṛta)"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-1aa8a6",
+          "quote": "In the Mādhava, Nirṇayāmṛta, etc., if a new moon falls after three days, even the rite for one's mother and father is completed; but not if a new moon falls within the three days.",
+          "role": "cited for the three-day threshold rule under new-moon"
+        },
+        {
+          "paragraph_id": "p-d3c1da",
+          "quote": "Mādhava, however, says that the ūnaṣāṇmāsika should be performed on the day before the death-anniversary day that falls in the seventh month...",
+          "role": "authority with a distinct view on ūna śrāddha timing"
+        }
+      ],
+      "description": "Medieval commentator (likely Mādhava Ācārya) cited on the three-day threshold for new-moon śrāddha completion and on ūna śrāddha timing.",
+      "justification": "Mādhava is cited at p-1aa8a6 and p-d3c1da as a named scholarly authority with a distinctive interpretive position."
+    },
+    {
+      "canonical_name": "Ṛṣyaśṛṅga",
+      "surface_names": ["Ṛṣyaśṛṅga"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-d2d859",
+          "quote": "Ṛṣyaśṛṅga has stated another special rule",
+          "role": "authority on special navaśrāddha rules"
+        },
+        {
+          "paragraph_id": "p-651e0b",
+          "quote": "Ṛṣyaśṛṅga has stated another special rule: The navaśrāddha and the Sapiṇḍatva should be performed with cooked food.",
+          "role": "authority requiring cooked food for navaśrāddha and Sapiṇḍīkaraṇa"
+        },
+        {
+          "paragraph_id": "p-ff81a5",
+          "quote": "Ṛṣyaśṛṅga says: If a new moon should fall within the impurity period for any of the social classes, / one should complete the rite for the deceased; thus says Gautama.",
+          "role": "transmitter of Gautama's new-moon rule"
+        }
+      ],
+      "description": "Smṛti sage cited on the requirement of cooked food for navaśrāddha and Sapiṇḍīkaraṇa, and on the new-moon rite-completion rule.",
+      "justification": "Ṛṣyaśṛṅga is cited by name at p-d2d859/p-651e0b and p-820de0/p-ff81a5 on distinct ritual rules."
+    },
+    {
+      "canonical_name": "Gobhila",
+      "surface_names": ["Gobhila"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-1ff2e8",
+          "quote": "Says Gobhila: The ūnaṣāṇmāsika is in the deficient sixth month; the ūnamāsika, in the deficient month. / The traipakṣika is in the third fortnight; the ūnābda, likewise, in the twelfth.",
+          "role": "authority on the four ūna śrāddhas and their timing"
+        }
+      ],
+      "description": "Gṛhyasūtra author cited on the precise timing of the four ūna (deficient) śrāddhas within the annual mourning cycle.",
+      "justification": "Gobhila is cited by name at p-b7cdf1/p-1ff2e8 on the scheduling of all four ūna śrāddhas."
+    },
+    {
+      "canonical_name": "Jātūkarṇya",
+      "surface_names": ["Jātūkarṇya"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-e4993c",
+          "quote": "Says Jātūkarṇya: The twelve monthly rites, and the first, the six-monthly, likewise, / the three-fortnightly, and the annual; these śrāddhas are sixteen.",
+          "role": "authority enumerating the sixteen śrāddhas"
+        },
+        {
+          "paragraph_id": "p-8d9ce7",
+          "quote": "Jātūkarṇya says: When the six months are deficient by one day, or by three, / and the year likewise, then the two six-monthly rites should be performed.",
+          "role": "authority on deficiency trigger for six-monthly rites"
+        }
+      ],
+      "description": "Smṛti sage cited on the canonical enumeration of the sixteen śrāddhas and on the deficiency rule for the six-monthly rites.",
+      "justification": "Jātūkarṇya is quoted by name at p-56903c/p-e4993c and p-28a45f/p-8d9ce7 on the sixteen-śrāddha framework."
+    },
+    {
+      "canonical_name": "Āśvalāyana",
+      "surface_names": ["Āśvalāyana", "Āśvalāyana school"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-6189dd",
+          "quote": "Āśvalāyana says: \"The new-mixed is for six seasons.\"",
+          "role": "authority on navamiśra duration"
+        },
+        {
+          "paragraph_id": "p-b88a66",
+          "quote": "the option of Āśvalāyana, \"Now, the Sapiṇḍīkaraṇa, at the end of a year,\" is taken",
+          "role": "authority on Sapiṇḍīkaraṇa timing option"
+        }
+      ],
+      "description": "Vedic school founder and gṛhyasūtra author cited on the duration of the navamiśra śrāddha and on the timing of Sapiṇḍīkaraṇa.",
+      "justification": "Āśvalāyana is cited by name at p-6189dd and p-b88a66 as an authority on two distinct aspects of the śrāddha calendar."
+    },
+    {
+      "canonical_name": "Vyāghrapāda",
+      "surface_names": ["Vyāghrapāda"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-9c0d3d",
+          "quote": "Vyāghrapāda also says: On the eleventh and on the fourth, and month by month for a year, / and every year, the ekoddiṣṭa is on the death anniversary.",
+          "role": "authority on the overall schedule of the ekoddiṣṭa śrāddhas"
+        }
+      ],
+      "description": "Smṛti sage cited on the complete yearly schedule of the ekoddiṣṭa śrāddha from the eleventh day onward.",
+      "justification": "Vyāghrapāda is cited by name at p-edb82f/p-9c0d3d on the ekoddiṣṭa yearly schedule."
+    },
+    {
+      "canonical_name": "Kārṣṇājini",
+      "surface_names": ["Kārṣṇājini"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-5e510b",
+          "quote": "Kārṣṇājini states the time for the traipakṣika: The deficient ones are in the deficient months, on an odd or even day. / The traipakṣika is in the third fortnight; the others, on the death anniversaries.",
+          "role": "authority on traipakṣika and monthly śrāddha timing"
+        }
+      ],
+      "description": "Smṛti sage cited on the timing of the traipakṣika and the placement of other śrāddhas on death anniversaries.",
+      "justification": "Kārṣṇājini is cited by name at p-e3b96a/p-5e510b on śrāddha scheduling, and cross-referenced at p-04a22b."
+    },
+    {
+      "canonical_name": "Kāṇva",
+      "surface_names": ["Kāṇva"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-7a9e03",
+          "quote": "Kāṇva, however, says that if any navaśrāddha is interrupted, it should be performed together with the succeeding one: If a navaśrāddha or a monthly rite is interrupted, / that should be performed together with the succeeding one; thus they say.",
+          "role": "authority on make-up rule for interrupted navaśrāddhas"
+        }
+      ],
+      "description": "Vedic smṛti authority cited on the rule that an interrupted navaśrāddha should be combined with the next one rather than performed separately.",
+      "justification": "Kāṇva is quoted by name at p-7a9e03 with a distinctive make-up rule for interrupted navaśrāddhas."
+    },
+    {
+      "canonical_name": "Divodāsa",
+      "surface_names": ["Divodāsa"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-afae00",
+          "quote": "In the treatise of Divodāsa, in the Brahma Purāṇa, a specific time is also stated with reference to the social class",
+          "role": "author of a smṛti treatise embedded in the Brahma Purāṇa"
+        }
+      ],
+      "description": "Ancient sage whose treatise embedded in the Brahma Purāṇa provides caste-specific times for the collection of bones.",
+      "justification": "Divodāsa is cited by name at p-afae00 as the author of a treatise providing caste-specific bone-collection timing."
+    },
+    {
+      "canonical_name": "Bhartṛyajña",
+      "surface_names": ["Bhartṛyajña"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-6e5235",
+          "quote": "In the Nāgarakhaṇḍa cited by Hemādri, by Bhartṛyajña: Three are for the sake of the collection of bones; listen to them now.",
+          "role": "named author of verses in the Nāgarakhaṇḍa on bone-related śrāddhas"
+        }
+      ],
+      "description": "Author of verses within the Nāgarakhaṇḍa (cited via Hemādri) specifying the three śrāddhas performed in connection with the collection of bones.",
+      "justification": "Bhartṛyajña is named at p-6e5235 as the author of a specific passage within the Nāgarakhaṇḍa."
+    },
+    {
+      "canonical_name": "Pracetaḥ",
+      "surface_names": ["Pracetaḥ"],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-2662af",
+          "quote": "Pracetaḥ also says: A piṇḍa should be given for a Śūdra for eight or nine days. / Then, when the month is complete, one should complete the remainder of the piṇḍas.",
+          "role": "authority on Śūdra piṇḍa schedule"
+        }
+      ],
+      "description": "Smṛti authority cited on the specific piṇḍa schedule for a Śūdra, who receives piṇḍas for eight or nine days with the remainder given at month's end.",
+      "justification": "Pracetaḥ is cited by name at p-1fc05c/p-2662af on the Śūdra piṇḍa schedule."
+    },
+    {
+      "canonical_name": "Gaṅgā",
+      "surface_names": ["Gaṅgā", "water of the Gaṅgā"],
+      "kind": "place",
+      "mentions": [
+        {
+          "paragraph_id": "p-f190e3",
+          "quote": "Viṣṇu, however, also states the fourth day: \"On the fourth day, one should perform the collection of bones, and their immersion in the water of the Gaṅgā.\"",
+          "role": "sacred river designated for immersion of bones"
+        }
+      ],
+      "description": "The sacred river Gaṅgā specified by Viṣṇu as the water body for the immersion of collected bones after cremation.",
+      "justification": "The Gaṅgā is mentioned by name at p-f190e3 as the designated location for bone immersion following the asthisañcayana."
+    },
+    {
+      "canonical_name": "Bhārgava (weekday)",
+      "surface_names": ["day of Bhārgava", "Bhārgava"],
+      "kind": "event",
+      "mentions": [
+        {
+          "paragraph_id": "p-4675a1",
+          "quote": "On a Nandā tithi, on the day of Bhārgava, on Caturdaśī, in a Tripuṣkara, / one should not perform a navaśrāddha, and likewise in a Tripāda or Pañcaka.",
+          "role": "inauspicious time when navaśrāddha is prohibited"
+        }
+      ],
+      "description": "Friday (the day of Venus/Bhārgava) is listed as one of the inauspicious times at which a navaśrāddha must not be performed.",
+      "justification": "Bhārgava-day (Friday) is explicitly named at p-4675a1 as a prohibited time for the navaśrāddha."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Timing and scheduling of navaśrāddhas (ten-day death rites)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-79abc1",
+          "quote": "the rites for the deceased are of two kinds: new (navāni) and new-mixed (navamiśrāṇi). The navaśrāddha is for ten days; the navamiśra, for six seasons."
+        },
+        {
+          "paragraph_id": "p-9d4a28",
+          "quote": "Thus ends the determination of the time for the navaśrāddhas."
+        }
+      ],
+      "justification": "The entire opening section of the window (p-79abc1 through p-9d4a28) is devoted to adjudicating conflicting smṛti authorities on which specific days within the ten-day mourning period the navaśrāddhas must be performed."
+    },
+    {
+      "topic": "Harmonisation of conflicting smṛti authorities",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-83cd7c",
+          "quote": "—are the ones currently followed by the learned. Baudhāyana, however, has stated only five."
+        },
+        {
+          "paragraph_id": "p-8df1d7",
+          "quote": "Therefore, the previously stated arrangement is superior. Thus it is established."
+        }
+      ],
+      "justification": "Throughout the window the digest systematically presents divergent rulings from multiple smṛti sages and attempts to resolve them without contradiction, which is the defining hermeneutical theme of this section."
+    },
+    {
+      "topic": "Social-class differentiation in death rites",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-865e49",
+          "quote": "Nine for Vaiśyas, seven for Kṣatriyas, and six for Brahmins and Śūdras."
+        },
+        {
+          "paragraph_id": "p-6b7fd5",
+          "quote": "They should perform it on the third day for a Brahmin, on the fourth for a Kṣatriya, / on the fifth for one of the Vaiśya caste, and on the tenth day for a Śūdra."
+        }
+      ],
+      "justification": "Multiple passages differentiate the count of navaśrāddhas, the number of piṇḍas, and the timing of bone collection explicitly by the four varṇas (Brahmin, Kṣatriya, Vaiśya, Śūdra)."
+    },
+    {
+      "topic": "Release from the state of being a ghost (pretatva) through śrāddha",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1a47ac",
+          "quote": "Without having received the navaśrāddha, one is not released from the state of a ghost (pretatva). / Before the twelfth day, having received it, one crosses over one's evil deeds."
+        },
+        {
+          "paragraph_id": "p-b6c1a7",
+          "quote": "When the Sapiṇḍīkaraṇa has been performed, it is again called pārvaṇa. / From then on, released from the state of a ghost (pretatva), he attains the state of a Father (pitṛtā)."
+        }
+      ],
+      "justification": "The soteriological rationale for the entire śrāddha calendar—that the deceased soul remains a preta until the requisite rites are performed—is stated explicitly at p-1a47ac and p-b6c1a7."
+    },
+    {
+      "topic": "Role of impurity (āśauca) in determining ritual timing",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-bd09f7",
+          "quote": "For all the social classes, whether in impurity of birth or death, // their purity is after ten days; thus said Śātātapa."
+        },
+        {
+          "paragraph_id": "p-71ef97",
+          "quote": "by Kṣatriyas, etc., also, by the force of the verse, the first śrāddha should be performed on the eleventh day from the death, even while the impurity is present."
+        }
+      ],
+      "justification": "A major jurisprudential question running through the window is whether ritual impurity (āśauca) delays or merely complicates the performance of required rites, with the normative answer being a universal ten-day impurity settled at p-bd09f7."
+    },
+    {
+      "topic": "Vedic school affiliation as a factor in ritual variation",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-a7b721",
+          "quote": "The followers of the Āśvalāyana school say there are five navaśrāddhas. / The Āpastambas say six; the Eitareyins have an option."
+        },
+        {
+          "paragraph_id": "p-4b17e0",
+          "quote": "for the followers of the Āśvalāyana school, there are five; for the Āpastambas, six; and for the Eitareyins, there is an option between five and six."
+        }
+      ],
+      "justification": "Śivasvāmī's passage at p-a7b721 introduces the principle that śrāddha practice legitimately varies by Vedic school (śākhā), which is one of the digest's explanatory frameworks for reconciling divergent rulings."
+    },
+    {
+      "topic": "The role of contemporary learned practice in adjudicating smṛti disputes",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-83cd7c",
+          "quote": "—are the ones currently followed by the learned."
+        },
+        {
+          "paragraph_id": "p-b32789",
+          "quote": "the view that impurity is for ten days for all is the one now widely followed and is in agreement with the practice of Kṣatriyas, etc."
+        }
+      ],
+      "justification": "The digest implicitly treats the practice of the learned (śiṣṭācāra) as a tiebreaker when smṛti texts conflict, a standard dharmaśāstra hermeneutical principle applied here without being thematized explicitly."
+    },
+    {
+      "topic": "New-moon (amāvāsyā) as a ritual deadline within the mourning period",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-c62240",
+          "quote": "Now, if a new moon falls within the ten days, in the Bhaviṣya Purāṇa: If, when the rite of impurity has begun, a new moon should occur, / having completed the water and piṇḍas, one should perform only the bath."
+        },
+        {
+          "paragraph_id": "p-00620d",
+          "quote": "The rites of the piṇḍa and water for the deceased should be performed on the first moon only. / One who performs them on two moons partakes of the impurity of death again."
+        }
+      ],
+      "justification": "A dedicated sub-section of the window (p-c62240 through p-d29076) treats the new moon's occurrence within the ten-day impurity period as a significant ritual deadline that forces early completion, with special exceptions for parental impurity."
+    },
+    {
+      "topic": "Sixteen śrāddhas as the canonical mourning cycle for a year",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e4993c",
+          "quote": "The twelve monthly rites, and the first, the six-monthly, likewise, / the three-fortnightly, and the annual; these śrāddhas are sixteen."
+        },
+        {
+          "paragraph_id": "p-351928",
+          "quote": "the sequence of śrāddhas taught by the sūtra cited by Hemādri—\"one should give the first monthly, the ūnamāsika, the traipakṣika...sixteen śrāddhas\"—is also consistent."
+        }
+      ],
+      "justification": "The second major section of the window (from p-0afc27 onward) systematically defines and schedules the sixteen śrāddhas of the annual mourning cycle, treated as the authoritative framework by multiple authorities."
+    },
+    {
+      "topic": "Sapiṇḍīkaraṇa as the transformative rite ending preta status",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-115b46",
+          "quote": "The navaśrāddha, the Sapiṇḍatva, and also the sixteen śrāddhas, / should be performed by one alone, even when the wealth has been divided."
+        },
+        {
+          "paragraph_id": "p-b6c1a7",
+          "quote": "When the Sapiṇḍīkaraṇa has been performed, it is again called pārvaṇa. / From then on, released from the state of a ghost (pretatva), he attains the state of a Father (pitṛtā)."
+        }
+      ],
+      "justification": "The Sapiṇḍīkaraṇa is treated across multiple paragraphs as the terminal rite that converts the deceased from a preta into a pitṛ (ancestral spirit), making it the eschatological goal of the entire śrāddha sequence."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Nāgarakhaṇḍa",
+      "cited_author": "Bhartṛyajña",
+      "stance": "authority",
+      "paragraph_id": "p-6e5235",
+      "quote": "In the Nāgarakhaṇḍa cited by Hemādri, by Bhartṛyajña: Three are for the sake of the collection of bones; listen to them now.",
+      "justification": "The Nāgarakhaṇḍa is cited via Hemādri as an authoritative source for the typology of bone-related śrāddhas and the days of navaśrāddha."
+    },
+    {
+      "cited_work": "Yājñavalkya Smṛti",
+      "cited_author": "Yājñavalkya",
+      "stance": "authority",
+      "paragraph_id": "p-83f8b2",
+      "quote": "having said (Yājñavalkya Smṛti, a. 1, śrā. pra. ślo. 256): It should be performed on the day of death, every month for a year.",
+      "justification": "The Yājñavalkya Smṛti (1.256) is the primary base text being expounded, cited with chapter and verse, functioning as the foundational authority throughout this window."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5257c8",
+      "quote": "In the Brahma Purāṇa: On the third day, it should be performed on the ground of the burning of the deceased, O twice-born! / At the end of the impurity, in the house, the śrāddha is called ekoddiṣṭa.",
+      "justification": "The Brahma Purāṇa is cited multiple times as an authority on the location, timing, and type of śrāddhas, functioning as one of the principal purāṇic sources in this digest."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4b17e0",
+      "quote": "In the Bhaviṣya Purāṇa: Nine for Vaiśyas, seven for Kṣatriyas, are the navaśrāddhas, in order. / For the first and last classes, the great sages say six.",
+      "justification": "The Bhaviṣya Purāṇa is cited for the caste-specific number of navaśrāddhas, providing one of the several competing enumerations adjudicated in this section."
+    },
+    {
+      "cited_work": "Bhaviṣyottara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-dd41ee",
+      "quote": "In the Bhaviṣyottara: The śrāddha that is on the eleventh day is declared as general. / To eleven Brahmins one should give on the eleventh day.",
+      "justification": "The Bhaviṣyottara (supplement to the Bhaviṣya Purāṇa) is cited on the universal eleventh-day śrāddha and on the specific rule of feeding eleven Brahmins."
+    },
+    {
+      "cited_work": "Varāha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5f8011",
+      "quote": "And in the Varāha Purāṇa: On the eleventh day, the śrāddha for the deceased should be performed with effort.",
+      "justification": "The Varāha Purāṇa is cited as corroborating the universality of the eleventh-day śrāddha and the option of a single Brahmin in the ekoddiṣṭa."
+    },
+    {
+      "cited_work": "Kūrma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6e4564",
+      "quote": "This is from the Kūrma Purāṇa. On the fourth day, the collection of bones should be done by all the relatives. / One should invite the preceding Brahmins, who are even in number, with faith and purity.",
+      "justification": "The Kūrma Purāṇa is cited for the rule of even-numbered Brahmins and the fourth-day bone collection, and as the source for the model of the eleventh-day ekoddiṣṭa extended to monthly rites."
+    },
+    {
+      "cited_work": "Matsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-66fc90",
+      "quote": "In the Matsya Purāṇa also: Then on the eleventh day, eleven Brahmins indeed, / a Kṣatriya, etc., at the end of the impurity period, should feed an odd number of twice-born.",
+      "justification": "The Matsya Purāṇa is cited as a primary source for the eleven-Brahmin rule on the eleventh day and as a potential source of textual contradiction requiring resolution."
+    },
+    {
+      "cited_work": "Brahmāṇḍa Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-fa484e",
+      "quote": "from this verse of the Brahmāṇḍa Purāṇa: They perform the navaśrāddhas for the sake of the deceased with effort, / by the ekoddiṣṭa procedure, and not otherwise in any way.",
+      "justification": "The Brahmāṇḍa Purāṇa is cited for the rule that navaśrāddhas take the form of the ekoddiṣṭa procedure."
+    },
+    {
+      "cited_work": "Hemādri (Caturvargacintāmaṇi), Kālakāṇḍa",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-89b849",
+      "quote": "In the Hemādri, in the Kālakāṇḍa, however— The first śrāddha, even if impure, one should perform on the eleventh day.",
+      "justification": "The Kālakāṇḍa section of Hemādri's Caturvargacintāmaṇi is cited as a secondary source transmitting the Śaṅkha verse on performing the first śrāddha despite impurity."
+    },
+    {
+      "cited_work": "Kālādarśa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5257c8",
+      "quote": "\"The ninth and the eleventh\" is a dvandva compound, says the Kālādarśa.",
+      "justification": "The Kālādarśa is cited for grammatical interpretation of compound terms and for providing additional verses on the new-moon rite-completion rule."
+    },
+    {
+      "cited_work": "Dharmapradīpa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8de2a4",
+      "quote": "In some places, it is written, having said \"in the Dharmapradīpa\": If by chance the navaśrāddha has passed on the first day, / it should be performed on the third day, or on an odd day if that is not possible.",
+      "justification": "The Dharmapradīpa is cited for the make-up rule when the first-day navaśrāddha is missed, and for the piṇḍa schedule in the Dharmapradīpa section."
+    },
+    {
+      "cited_work": "Smṛtyarthasāra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3cc3e0",
+      "quote": "In the Smṛtyarthasāra, however, it is said that after the collection of bones has been done, for one going from the world of men to the world of the deceased, the pātheyaśrāddha should be performed with uncooked food by the ekoddiṣṭa procedure.",
+      "justification": "The Smṛtyarthasāra is cited for an alternative rule on the timing and food-type of the pātheyaśrāddha and for the tantra-option in the ekoddiṣṭa."
+    },
+    {
+      "cited_work": "Śrāddhacintāmaṇi",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-509574",
+      "quote": "Because in the Śrāddhacintāmaṇi, the reading \"on the seventh for one of the Vaiśya caste, on the ninth for one of the Śūdra caste\" is accepted.",
+      "justification": "The Śrāddhacintāmaṇi is cited as an authority for a specific textual reading that extends the bone-collection day options to include the seventh and ninth days for Vaiśya and Śūdra respectively."
+    },
+    {
+      "cited_work": "Saṅgraha",
+      "cited_author": null,
+      "stance": "neutral",
+      "paragraph_id": "p-a0e207",
+      "quote": "A verse is written in the Saṅgraha: If a new moon, a solar ingress, or a Vyatīpāta occurs within the ten days, / the subsequent rite should be completed then; thus say some.",
+      "justification": "The Saṅgraha is cited for the minority view extending the new-moon rite-completion rule to solar ingress and Vyatīpāta, but this view is subsequently dismissed by the digest as unsubstantiated."
+    },
+    {
+      "cited_work": "Viśvādarśa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-61ce2a",
+      "quote": "In the Viśvādarśa also, it is clearly stated that the monthly rites are on the first death-tithi: In the eleven months, it is stated to be on the days of death; the first, on the eleventh day.",
+      "justification": "The Viśvādarśa is cited as corroborating the rule that monthly śrāddhas fall on the death anniversary, supporting the digest's preferred interpretation against Śūlapāṇi."
+    },
+    {
+      "cited_work": "Madanapārijāta",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-2b135b",
+      "quote": "Thus says the Madanapārijāta.",
+      "justification": "The Madanapārijāta (a later nibandha) is cited as the source for the interpretation that different son-types (aurasa, Kṣetraja, adopted) follow different new-moon rules for parental impurity."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-312825",
+      "quote": "Ṣāṇmāsikābdike = the ūnaṣāṇmāsika and the ūnābdika, says the Madanaratna.",
+      "justification": "The Madanaratna is cited for a specific lexical gloss identifying the referents of a compound term in a Paiṭhīnasī verse."
+    },
+    {
+      "cited_work": "Nirṇayāmṛta",
+      "cited_author": "Mādhava",
+      "stance": "authority",
+      "paragraph_id": "p-1aa8a6",
+      "quote": "In the Mādhava, Nirṇayāmṛta, etc., if a new moon falls after three days, even the rite for one's mother and father is completed.",
+      "justification": "The Nirṇayāmṛta (attributed to Mādhava) is cited alongside the Mādhava commentary for the three-day threshold rule governing new-moon rite completion during parental impurity."
+    },
+    {
+      "cited_work": "Pāṇini's Aṣṭādhyāyī",
+      "cited_author": "Pāṇini",
+      "stance": "authority",
+      "paragraph_id": "p-bc129a",
+      "quote": "'For a year' means until the completion of a year; the second case is by \"in the case of an uninterrupted connection of time and space\" (Pāṇ. 2.3.5).",
+      "justification": "Pāṇini's grammar (Aṣṭādhyāyī 2.3.5) is cited to justify the grammatical case used in the Yājñavalkya verse, demonstrating the digest's philological approach."
+    },
+    {
+      "cited_work": "Manusmṛti",
+      "cited_author": "Manu",
+      "stance": "authority",
+      "paragraph_id": "p-23fea3",
+      "quote": "Manu also says (a. 5, ślo. 98): For one killed in battle with weapons raised, according to the duty of a Kṣatriya, / the sacrifice is completed immediately, and likewise the impurity; this is the rule.",
+      "justification": "Manusmṛti (5.98) is cited with chapter and verse as an authority for the immediate completion of rites and impurity in the case of a warrior's death in battle."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-681741",
+      "quote": "if a new moon falls within the ten days, in the Bhaviṣya Purāṇa: If, when the rite of impurity has begun, a new moon should occur, / having completed the water and piṇḍas, one should perform only the bath.",
+      "justification": "The Bhaviṣya Purāṇa is cited for the new-moon rite-completion rule within the mourning period, a separate citation from its earlier use on navaśrāddha counts."
+    }
+  ]
+}

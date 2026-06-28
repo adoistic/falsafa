@@ -1,0 +1,525 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:1880-2192",
+  "entities": [
+    {
+      "canonical_name": "Rāhu",
+      "surface_names": ["Rāhu", "sight of Rāhu"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-e8dfa9",
+          "quote": "Having fasted for one night, having seen Rāhu, a man obtains imperishable merit, having performed a bath and an ancestral rite according to the rules.",
+          "role": "Eclipse demon whose sighting occasions ritual duties of bathing and ancestral rites"
+        },
+        {
+          "paragraph_id": "p-59939f",
+          "quote": "An ancestral rite given at the sight of Rāhu lasts as long as the moon and stars. Bathing, giving, austerity, and the ancestral rite are infinite at the sight of Rāhu.",
+          "role": "Occasion-setter for meritorious eclipse rites"
+        },
+        {
+          "paragraph_id": "p-82133b",
+          "quote": "For all social classes, there is ritual impurity at the sight of Rāhu.",
+          "role": "Source of universal ritual impurity upon sighting"
+        },
+        {
+          "paragraph_id": "p-aa8edf",
+          "quote": "an impure person should not look at Rāhu or the stars",
+          "role": "Object prohibited from being seen by the ritually impure"
+        },
+        {
+          "paragraph_id": "p-791f88",
+          "quote": "There is no fault in the sight of Rāhu in a period of birth or death impurity.",
+          "role": "Subject of a counter-injunction discussed in relation to birth/death impurity"
+        },
+        {
+          "paragraph_id": "p-0c5bb2",
+          "quote": "bathing, giving, austerity, and the ancestral rite are infinite at the sight of Rāhu",
+          "role": "Reference point for understanding subordinate elements of eclipse rites"
+        }
+      ],
+      "description": "Rāhu is the eclipse demon in Hindu cosmology whose sighting during a solar or lunar eclipse triggers compulsory ritual duties including bathing, giving, austerity, and ancestral rites, and simultaneously causes universal ritual impurity.",
+      "justification": "Rāhu appears repeatedly as the pivot of the entire section's legal-hermeneutical debate about whether the eclipse itself or the act of seeing Rāhu constitutes the ritual occasion (nimitta)."
+    },
+    {
+      "canonical_name": "Nārada",
+      "surface_names": ["Nārada"],
+      "kind": "figure",
+      "figure_kind": "author-sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-f86aa0",
+          "quote": "This is because Nārada states an exclusion (paryudāsa).",
+          "role": "Cited authority whose ruling on paryudāsa is examined"
+        }
+      ],
+      "description": "Nārada is cited as a dharmaśāstra authority whose ruling about a householder-with-son's exclusion (paryudāsa) from fasting during eclipses is subjected to Mīmāṃsā analysis.",
+      "justification": "Nārada is explicitly named as the source of the paryudāsa ruling at p-f86aa0, making him a cited textual authority in this section."
+    },
+    {
+      "canonical_name": "Mārkaṇḍeya",
+      "surface_names": ["Mārkaṇḍeya"],
+      "kind": "figure",
+      "figure_kind": "author-sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-8ab7ad",
+          "quote": "As for the independent fast prompted by the eclipse, stated by Mārkaṇḍeya:",
+          "role": "Author of a verse enjoining an independent eclipse fast"
+        }
+      ],
+      "description": "Mārkaṇḍeya is a ṛṣi-author cited for a verse enjoining an independent night-fast prompted by the eclipse, which is then distinguished from the subordinate fast of a puraścaraṇa.",
+      "justification": "Mārkaṇḍeya is directly credited at p-8ab7ad as the authority for the verse on independent eclipse fasting, which anchors the subsequent distinction between independent and subordinate fasts."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": ["Hemādri"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-403e70",
+          "quote": "Here, the prohibition of time for an auspicious rite is in the Hemādri:",
+          "role": "Source text cited for prohibition of auspicious rites during eclipses"
+        },
+        {
+          "paragraph_id": "p-d4d03d",
+          "quote": "Midday here is by a threefold division, says Hemādri; by a fivefold division, says Mādhava.",
+          "role": "Authority on the threefold division of day for ekabhakta"
+        },
+        {
+          "paragraph_id": "p-4ffa97",
+          "quote": "This is from a verse cited in the Hemādri.",
+          "role": "Digest text as source of a verse on tithi determination"
+        },
+        {
+          "paragraph_id": "p-ce1520",
+          "quote": "Hemādri, however, says that when the time of the rite pervades on two days, the determination is from the yugma-vākya.",
+          "role": "Authority whose view on the yugma-vākya is presented and then refuted"
+        },
+        {
+          "paragraph_id": "p-2d9c6e",
+          "quote": "the performance of nakta there is stated by Hemādri and others.",
+          "role": "Authority cited for performing nakta despite night-eating prohibition on Sundays"
+        }
+      ],
+      "description": "Hemādri is a medieval nibandha (digest) author whose work is repeatedly cited on questions of ekabhakta time-division, auspicious-rite prohibitions, and nakta determination; the Vīramitrodaya often disagrees with his rulings.",
+      "justification": "Hemādri is named across five paragraphs as both a digest text and a named scholar whose specific views on day-division and the yugma-vākya the Vīramitrodaya engages with directly."
+    },
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": ["Mādhava"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-d4d03d",
+          "quote": "by a fivefold division, says Mādhava.",
+          "role": "Authority offering an alternative fivefold day-division for ekabhakta"
+        },
+        {
+          "paragraph_id": "p-93ab3b",
+          "quote": "the statement of Mādhava and others that the Navarātra vow is also a nakta vow is consistent, they say.",
+          "role": "Authority cited for classifying Navarātra as a nakta vow"
+        },
+        {
+          "paragraph_id": "p-cb48fc",
+          "quote": "Mādhava, however, says that from the verse 'those on a Sunday,' nakta on a Sunday, etc., is during the day itself, in the secondary time.",
+          "role": "Authority whose view on Sunday nakta-timing is considered"
+        }
+      ],
+      "description": "Mādhava is a dharmaśāstra scholar cited for his views on the fivefold day-division for ekabhakta, the classification of the Navarātra vow as nakta, and Sunday nakta-timing.",
+      "justification": "Mādhava appears at three distinct points offering views on ekabhakta and nakta determination that the Vīramitrodaya weighs against other authorities."
+    },
+    {
+      "canonical_name": "Bhaṭṭa Someśvara",
+      "surface_names": ["Bhaṭṭa Someśvara"],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-4987cf",
+          "quote": "This has been explained by Bhaṭṭa Someśvara.",
+          "role": "Scholar whose prior explanation of the entitlement-to-optional-rite question is endorsed"
+        }
+      ],
+      "description": "Bhaṭṭa Someśvara is a Mīmāṃsā scholar cited with approbation for having explained the principle that entitlement to an occasional rite exists even with the omission of some subordinate element.",
+      "justification": "Named explicitly at p-4987cf as the explainer of the preceding argument, placing him in a chain of Mīmāṃsā authorities whose positions the Vīramitrodaya draws upon."
+    },
+    {
+      "canonical_name": "Devala",
+      "surface_names": ["Devala"],
+      "kind": "figure",
+      "figure_kind": "author-sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-122ae6",
+          "quote": "Here, Devala states a special rule:",
+          "role": "Smṛti author cited for a special ruling on ekabhakta with reduced mouthfuls"
+        }
+      ],
+      "description": "Devala is a smṛti author whose special rule on ekabhakta—specifying eating after midday with three mouthfuls less—is cited to refine the general definition given by the Skanda Purāṇa.",
+      "justification": "Devala is explicitly named at p-122ae6 as the source of a special ruling (viśeṣa) on the ekabhakta vow, making him a discrete cited authority."
+    },
+    {
+      "canonical_name": "Vatsa",
+      "surface_names": ["Vatsa"],
+      "kind": "figure",
+      "figure_kind": "author-sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-1b1887",
+          "quote": "This is from the statement of Vatsa.",
+          "role": "Authority cited for the rule that the tithi pervading the evening twilight should be taken for a nakta vow"
+        }
+      ],
+      "description": "Vatsa is a smṛti authority cited for the foundational rule governing tithi determination for the nakta vow—namely that the tithi pervading the evening twilight (pradoṣa) should be adopted.",
+      "justification": "Vatsa is directly credited at p-1b1887 for the verse governing nakta's primary time, which becomes the baseline from which all further nakta-timing discussions proceed."
+    },
+    {
+      "canonical_name": "Vyāsa",
+      "surface_names": ["Vyāsa"],
+      "kind": "figure",
+      "figure_kind": "author-sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-4f64c9",
+          "quote": "This is from the statement of Vyāsa.",
+          "role": "Authority cited for defining evening twilight as three muhūrtas after sunset for nakta"
+        }
+      ],
+      "description": "Vyāsa is cited as a smṛti authority whose definition of the evening twilight as three muhūrtas after sunset is the primary temporal framework for the nakta vow.",
+      "justification": "Vyāsa is named at p-4f64c9 as the source of the core temporal definition of pradoṣa, which structures the entire nakta-determination discussion."
+    },
+    {
+      "canonical_name": "Sumantu",
+      "surface_names": ["Sumantu"],
+      "kind": "figure",
+      "figure_kind": "author-sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-520b6b",
+          "quote": "Because Sumantu, with the word 'only', prohibits the eating at night which is generally obtained for a solar nakta.",
+          "role": "Authority whose use of the exclusive particle 'only' restricts night-eating in solar nakta"
+        }
+      ],
+      "description": "Sumantu is a smṛti authority cited for a restrictive ruling using the exclusive particle 'only' (eva) to prohibit night-eating in the context of a solar nakta performed on a Sunday.",
+      "justification": "Sumantu is named at p-520b6b as the source of a specific verbal restriction that the Vīramitrodaya uses to adjudicate the conflict between the Bhaviṣya Purāṇa verse and general nakta rules."
+    },
+    {
+      "canonical_name": "Jāvāli",
+      "surface_names": ["Jāvāli"],
+      "kind": "figure",
+      "figure_kind": "author-sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-80b2b9",
+          "quote": "Because of the statement of Jāvāli, \"Tithis are meritorious during the day,\" etc.",
+          "role": "Authority cited to support taking the daytime-pervading tithi for ayācita"
+        }
+      ],
+      "description": "Jāvāli is a smṛti authority whose statement that tithis are meritorious during the day is cited as a supporting principle for the determination of the tithi for the ayācita vow.",
+      "justification": "Jāvāli is explicitly named at p-80b2b9 as the source of the maxim anchoring ayācita tithi-determination, closing the window's discussion."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Eclipse as ritual occasion (nimitta): eclipse versus seeing as the trigger",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-e8dfa9",
+          "quote": "Having fasted for one night, having seen Rāhu, a man obtains imperishable merit, having performed a bath and an ancestral rite according to the rules."
+        },
+        {
+          "paragraph_id": "p-cf5c98",
+          "quote": "Furthermore, since the eclipse is without relation, its being an occasion is proper, not that of the seeing, which is with relation."
+        },
+        {
+          "paragraph_id": "p-0a32d8",
+          "quote": "In sentences with 'seeing' in the seventh case, such as \"one should bathe at the sight of Rāhu,\" by the rule \"and when by the existence of one thing, another thing is indicated\" (Pāṇ. 2.3.37)"
+        }
+      ],
+      "justification": "The dominant topic from p-1882 to p-2070 is the sustained Mīmāṃsā debate over whether the eclipse itself (graha) or the act of seeing it (darśana) constitutes the ritual occasion that obligates bathing, ancestral rites, and other eclipse-duties."
+    },
+    {
+      "topic": "Ritual purity, impurity, and entitlement (adhikāra) during eclipses",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-0bf4ff",
+          "quote": "At an eclipse, the impurity is like that of a corpse; at liberation, it is remembered as like that of birth."
+        },
+        {
+          "paragraph_id": "p-82133b",
+          "quote": "For all social classes, there is ritual impurity at the sight of Rāhu."
+        },
+        {
+          "paragraph_id": "p-655747",
+          "quote": "in a period of birth, etc., impurity, since the prohibition applies, and there is no possibility of seeing, the restatement 'there is no fault in the sight of Rāhu' is inconsistent"
+        }
+      ],
+      "justification": "A substantial sub-debate from p-1932 to p-1976 concerns who is ritually entitled (adhikārin) to perform eclipse rites given that seeing Rāhu itself causes impurity, exploring the interaction of birth/death impurity with eclipse impurity."
+    },
+    {
+      "topic": "Subordinate versus independent ritual elements (aṅga vs. pradhāna) in eclipse observances",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-5f2c4e",
+          "quote": "Therefore, the fast that is a subordinate element in 'having fasted for a day and a night, having bathed,' etc., is independent of the prohibition on a solar ingress, etc."
+        },
+        {
+          "paragraph_id": "p-3c6667",
+          "quote": "And its being a subordinate element is understood from the fact that the fast is understood as a purification of the agent."
+        },
+        {
+          "paragraph_id": "p-cae936",
+          "quote": "In reality, however, since the injunction of the optional rite is fulfilled with respect to one who is not entitled to the principal rite"
+        }
+      ],
+      "justification": "The question of whether a fast is a subordinate element of the puraścaraṇa or an independent observance prompted by the eclipse runs through p-1883 to p-1900 and returns in p-2028–2066, structuring the discussion of householder-with-son exceptions."
+    },
+    {
+      "topic": "Hermeneutical analysis of paryudāsa (exclusion) versus prasajya-pratiṣedha (simple negation)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-f86aa0",
+          "quote": "This is because Nārada states an exclusion (paryudāsa)."
+        },
+        {
+          "paragraph_id": "p-85fc94",
+          "quote": "This is not a paryudāsa. Because there is no syntactical unity, as in \"one should not choose the Hotṛ priest.\""
+        },
+        {
+          "paragraph_id": "p-f42842",
+          "quote": "Or, let it be a paryudāsa; even so, it is proper that it applies only to an independent fast prompted by a solar ingress, etc."
+        }
+      ],
+      "justification": "The opening of the window (p-1885–1900) is devoted to a technical Mīmāṃsā dispute over whether Nārada's prohibition for householders-with-sons is a paryudāsa (presupposing an injunction) or a simple prohibition, with practical implications for which fasts are covered."
+    },
+    {
+      "topic": "Ekabhakta: definition, primary and secondary times, and tithi determination",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-3fb11f",
+          "quote": "What is eaten with restraint after the midday point has passed is called ekabhakta; therefore, it should be during the day only."
+        },
+        {
+          "paragraph_id": "p-d4d03d",
+          "quote": "Midday here is by a threefold division, says Hemādri; by a fivefold division, says Mādhava."
+        },
+        {
+          "paragraph_id": "p-ac6527",
+          "quote": "And the performance of ekabhakta is at the primary time, even if it does not touch the primary time."
+        }
+      ],
+      "justification": "The section from p-2072 to p-2116 constitutes a self-contained determination of the ekabhakta vow, covering its etymological meaning, timing debates between Hemādri and Mādhava, tithi selection rules for two-day pervasion, and its treatment as subordinate element."
+    },
+    {
+      "topic": "Nakta: definition, primary and secondary times, tithi determination, and special cases",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-55c965",
+          "quote": "And that is in the form of eating at night, qualified by the absence of eating during the day."
+        },
+        {
+          "paragraph_id": "p-fc20b5",
+          "quote": "The evening twilight is for three muhūrtas when the sun has set. One should perform nakta there; this is the firm decision of the scriptures."
+        },
+        {
+          "paragraph_id": "p-5fb7f6",
+          "quote": "A householder should perform nakta at night, endowed with the rules. An ascetic and a widow should perform it while the sun is up."
+        }
+      ],
+      "justification": "The section from p-2118 to p-2178 systematically defines nakta, adjudicates between multiple authorities (Vatsa, Vyāsa, Mādhava, Bhaviṣya, Kaurma) on primary and secondary times, and resolves special cases for householders, ascetics, widows, and Sundays."
+    },
+    {
+      "topic": "Conflict resolution when multiple vows (nakta, ekabhakta) fall on the same day",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7f96f7",
+          "quote": "when two contradictory rites, such as ekabhakta and nakta, prompted by two tithis, are applicable on a single day, then of the two that whose secondary time is not available on another day should be performed on that day"
+        },
+        {
+          "paragraph_id": "p-09514e",
+          "quote": "And this is when the secondary time for the second rite is not available on the succeeding day."
+        }
+      ],
+      "justification": "The brief section p-2180–2185 applies the tantra/āvāpa framework to resolve clashes between concurrent vow-obligations by prioritising whichever vow lacks an alternative time-slot."
+    },
+    {
+      "topic": "Mīmāṃsā maxims (nyāyas) and Pāṇinian grammar as tools of ritual adjudication",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-0a32d8",
+          "quote": "by the rule 'and when by the existence of one thing, another thing is indicated' (Pāṇ. 2.3.37), since the seventh case, which is enjoined for indicating the occasion, is proved"
+        },
+        {
+          "paragraph_id": "p-d8607a",
+          "quote": "(a. 12, pā. 2, adhi. 9, sū. 25) For this very reason"
+        },
+        {
+          "paragraph_id": "p-0dba26",
+          "quote": "(a. 6, pā. 4, adhi. 6) And it should not be argued that just as the affliction is qualified by the oblation by the maxim 'we accept the qualification of the oblation'"
+        }
+      ],
+      "justification": "Throughout the window, arguments are grounded by citing specific adhikaraṇas of the Pūrva Mīmāṃsā Sūtras and Pāṇini's Ashtādhyāyī, revealing the implicit methodological commitment to these canonical interpretive frameworks as the operating logic of the text."
+    },
+    {
+      "topic": "Ayācita (eating what is obtained without asking) and its tithi determination",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-d33097",
+          "quote": "And that is a single meal of what is obtained without asking."
+        },
+        {
+          "paragraph_id": "p-a15abc",
+          "quote": "And since that, like a fast, is to be accomplished over a day and a night, the tithi that is conjoined with both should be taken."
+        },
+        {
+          "paragraph_id": "p-80b2b9",
+          "quote": "Because of the statement of Jāvāli, \"Tithis are meritorious during the day,\" etc."
+        }
+      ],
+      "justification": "The window closes with a determination of the ayācita vow (p-2187–2192), identifying two positions on its nature and establishing the tithi rule by appeal to Jāvāli's maxim."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Brahmāṇḍa Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a557f7",
+      "quote": "This is from the Brahmāṇḍa Purāṇa.",
+      "justification": "The Brahmāṇḍa Purāṇa is cited (p-1935) for the verse stating that impurity at an eclipse is like that of a corpse, and is then argued at p-1938 and p-1942 to be explaining the severity of contact-impurity rather than establishing the eclipse itself as the impurity-cause."
+    },
+    {
+      "cited_work": "Laiṅga Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-55fdbb",
+      "quote": "This contradicts the statement of the Laiṅga Purāṇa.",
+      "justification": "The Laiṅga Purāṇa is cited at p-1947 and p-1975 for the injunction to bathe even during birth/death impurity at an eclipse; the author uses it as a limiting constraint that refutes interpretations leading to contradictions with this text."
+    },
+    {
+      "cited_work": "Aitareya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-34988b",
+      "quote": "And in the Aitareya also:",
+      "justification": "The Aitareya (Brāhmaṇa or Āraṇyaka) is cited at p-1996 for a verse using the word 'eye' (netra) in a context where visual perception is implied, supporting the argument that the verb 'see' (dṛś) can indicate knowledge in general."
+    },
+    {
+      "cited_work": "dharmaśāstra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-29c946",
+      "quote": "For this very reason, the dharmaśāstra says:",
+      "justification": "An unspecified dharmaśāstra is cited at p-2001 for the rule that a woman who sees her menstrual flow is impure for three nights, used to illustrate that 'see' (dṛś) can refer to knowledge rather than strict visual perception."
+    },
+    {
+      "cited_work": "Śāntiprakāśa",
+      "cited_author": null,
+      "stance": "neutral",
+      "paragraph_id": "p-7509db",
+      "quote": "The faults in an eclipse in one's birth-sign, etc., and the propitiatory rites for them should be seen in the Śāntiprakāśa.",
+      "justification": "The Śāntiprakāśa is a cross-reference text cited at p-2048 for propitiatory rites related to birth-sign eclipses; the Vīramitrodaya defers that topic to this other work without further elaboration."
+    },
+    {
+      "cited_work": "Sārasaṅgraha",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0d3774",
+      "quote": "This is from a verse in the Sārasaṅgraha, etc.",
+      "justification": "The Sārasaṅgraha is cited at p-2053 for the verse enabling mantra-initiation (puraścaraṇa) at sacred fords, eclipses, and certain festivals, without requiring examination of month or lunar mansion."
+    },
+    {
+      "cited_work": "Puraścaraṇacāndrikā",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d1eef1",
+      "quote": "Here, the procedure for puraścaraṇa is in the Puraścaraṇacāndrikā:",
+      "justification": "The Puraścaraṇacāndrikā is cited at p-2054 as the authoritative procedural text for puraścaraṇa practice during eclipses, including the prescription for standing in navel-deep river water."
+    },
+    {
+      "cited_work": "Hemādri (nibandha)",
+      "cited_author": "Hemādri",
+      "stance": "authority",
+      "paragraph_id": "p-403e70",
+      "quote": "Here, the prohibition of time for an auspicious rite is in the Hemādri:",
+      "justification": "Hemādri's nibandha is cited at p-2067 for the nine-day prohibition beginning with Trayodaśī for all auspicious rites; this is distinct from the author Hemādri named for his views on ekabhakta, but may refer to the same composite work."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-36734b",
+      "quote": "Its nature is stated in the Skanda Purāṇa:",
+      "justification": "The Skanda Purāṇa is cited at p-2073 for the foundational definition of ekabhakta as eating with restraint after midday, which serves as the definitional baseline for the entire ekabhakta section."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-a52337",
+      "quote": "This is from the Padma Purāṇa.",
+      "justification": "The Padma Purāṇa is cited at p-2083 for the rule that the tithi pervading midday should be taken for ekabhakta, establishing the primary temporal criterion for the vow."
+    },
+    {
+      "cited_work": "Sauradharma",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-3e5315",
+      "quote": "As for the time qualified by a double shadow, which is for one muhūrta at the end of the day, which is enjoined in the Sauradharma, etc.:",
+      "justification": "The Sauradharma is cited at p-2129 for an alternative secondary-time definition of nakta based on a double shadow at day's end; the Vīramitrodaya classifies this as a secondary (gauṇa) time."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4ba1d2",
+      "quote": "From the Bhaviṣya verse, since the time of the seeing of the stars is stated as his own view, its being primary is understood.",
+      "justification": "The Bhaviṣya Purāṇa is cited at p-2133 (verse at p-2132) for the author's personal opinion that nakta begins from the seeing of stars (tārodaya), which the Vīramitrodaya treats as the primary time within the primary evening twilight."
+    },
+    {
+      "cited_work": "Kaurma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1e440b",
+      "quote": "This is from the Kaurma Purāṇa.",
+      "justification": "The Kaurma Purāṇa is cited at p-2136 for a more secondary time for nakta when the tithi pervades the evening twilight during the daytime (three muhūrtas before sunset), graded as less authoritative than star-sighting and full pradoṣa."
+    },
+    {
+      "cited_work": "Skānda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5d8e17",
+      "quote": "This is from the Skānda Purāṇa.",
+      "justification": "The Skānda Purāṇa is cited at p-2170 for the rule that when the nakta tithi does not touch the primary evening time, daytime nakta (with double shadow as trigger) is enjoined—used to support the secondary-time framework."
+    },
+    {
+      "cited_work": "Pūrva Mīmāṃsā Sūtra",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0dba26",
+      "quote": "(a. 6, pā. 4, adhi. 6) And it should not be argued that just as the affliction is qualified by the oblation by the maxim 'we accept the qualification of the oblation'",
+      "justification": "Multiple adhikaraṇas of the Pūrva Mīmāṃsā Sūtra are cited throughout (a.1/pā.8/adhi.2-3 at p-1889–1890, a.6/pā.4/adhi.6 at p-1930, a.9/pā.2/adhi.5 at p-1967, a.11/pā.2/adhi.7 and a.11/pā.3/adhi.3,5 at p-2022–2025, a.12/pā.2/adhi.9 at p-2113) as interpretive authorities for deciding the eclipse-occasion dispute."
+    },
+    {
+      "cited_work": "Ashtādhyāyī",
+      "cited_author": "Pāṇini",
+      "stance": "authority",
+      "paragraph_id": "p-0a32d8",
+      "quote": "by the rule 'and when by the existence of one thing, another thing is indicated' (Pāṇ. 2.3.37)",
+      "justification": "Pāṇini's Ashtādhyāyī sūtra 2.3.37 is cited at p-2038 to support the interpretation that the seventh-case 'at the sight of Rāhu' indicates temporal occasion (nimitta), underpinning the eclipse-as-occasion argument."
+    }
+  ]
+}

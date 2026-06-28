@@ -1,0 +1,1252 @@
+{
+  "slug": "unknown-viramitrodaya-d4b632",
+  "window": "01:467-766",
+  "entities": [
+    {
+      "canonical_name": "Viṣṇu",
+      "surface_names": ["Hari", "Keśava", "Janārdana", "Madhusūdana", "Mādhava", "Lord of gods"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-458f82",
+          "quote": "by those devoted to Viṣṇu",
+          "role": "deity whose devotees have ritual obligations"
+        },
+        {
+          "paragraph_id": "p-bb7164",
+          "quote": "the blessed Lord Hari always sleeps on the serpent-couch in the ocean of milk",
+          "role": "deity who undergoes cosmic sleep and awakening"
+        },
+        {
+          "paragraph_id": "p-bb7164",
+          "quote": "one should awaken the sleeping Keśava at night, full of faith and devotion",
+          "role": "deity to be ritually awakened"
+        },
+        {
+          "paragraph_id": "p-deb7c2",
+          "quote": "the turning of the side of Viṣṇu occurs, which destroys great sins",
+          "role": "deity whose ritual turning-over is performed"
+        },
+        {
+          "paragraph_id": "p-97472b",
+          "quote": "On the Ekādaśī of the bright fortnight of Āṣāḍha, Janārdana is praised by the gods, ṛṣis, and hosts of Gandharvas and Apsarases",
+          "role": "deity praised on Ekādaśī"
+        },
+        {
+          "paragraph_id": "p-1f2f28",
+          "quote": "the blessed Madhusūdana attains His own illusion, the yogic sleep, on the serpent's body",
+          "role": "deity entering cosmic yogic sleep"
+        },
+        {
+          "paragraph_id": "p-8dc49e",
+          "quote": "Viṣṇu sleeps in the first quarter of Maitra (Anurādhā), turns over in the middle of Śruti (Śravaṇa)",
+          "role": "deity whose sleep, turning, and awakening correspond to nakṣatras"
+        },
+        {
+          "paragraph_id": "p-89d71b",
+          "quote": "Viṣṇu does not sleep during the day, nor does He awaken at night",
+          "role": "subject of ritual timing regulation"
+        },
+        {
+          "paragraph_id": "p-54a68c",
+          "quote": "A mortal over eight years old, and not yet eighty, who eats in my kingdom on Viṣṇu's day, is a sinner",
+          "role": "deity whose sacred day prohibits eating"
+        }
+      ],
+      "description": "The deity Viṣṇu, referred to by multiple names, is the central figure of the Ekādaśī section—his cosmic sleep, turning over, and awakening structure the Cāturmāsya rituals, and his day (Ekādaśī) is the primary occasion for fasting obligations.",
+      "justification": "Viṣṇu appears by multiple names across dozens of paragraphs as the theological anchor of the Ekādaśī and Cāturmāsya discussions."
+    },
+    {
+      "canonical_name": "Durgā",
+      "surface_names": ["Aparājitā", "slayer of the buffalo demon"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-10f9ad",
+          "quote": "The Navamī of the bright fortnight of Āśvina is Durgā-navamī",
+          "role": "deity whose navamī is the occasion of the festival"
+        },
+        {
+          "paragraph_id": "p-188e47",
+          "quote": "one should worship Durgā, the slayer of the buffalo demon",
+          "role": "deity to be worshipped on Mahānavamī"
+        },
+        {
+          "paragraph_id": "p-5da8e3",
+          "quote": "men should properly worship Aparājitā, facing the northeast direction, in the afternoon, with effort",
+          "role": "deity worshipped on Vijayā-daśamī"
+        },
+        {
+          "paragraph_id": "p-3853b4",
+          "quote": "on it Aparājitā should be worshipped",
+          "role": "deity of Vijayā-daśamī worship"
+        }
+      ],
+      "description": "Durgā, also called Aparājitā ('the unconquered') and identified as the slayer of the buffalo demon, is the presiding deity of Durgā-navamī and Vijayā-daśamī, requiring ritual worship with specific directional and temporal prescriptions.",
+      "justification": "Durgā is explicitly named as the deity of Navamī and Daśamī festivals in multiple quoted Purāṇic verses."
+    },
+    {
+      "canonical_name": "Mārkaṇḍeya",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-9a294f",
+          "quote": "This regulation, stated by Mārkaṇḍeya, does exist",
+          "role": "authoritative sage whose ruling on tithi-selection regulates ritual choice"
+        },
+        {
+          "paragraph_id": "p-15f8c6",
+          "quote": "This is also from the Mārkaṇḍeya Purāṇa",
+          "role": "author of cited scriptural text"
+        }
+      ],
+      "description": "Mārkaṇḍeya is cited as an authoritative sage whose regulation on accepting tithis in bright and dark fortnights resolves the otherwise unrestricted choice of Daśamī.",
+      "justification": "Mārkaṇḍeya is explicitly named as the source of a regulatory verse on tithi selection in paragraph p-9a294f."
+    },
+    {
+      "canonical_name": "Nārada",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-f34e92",
+          "quote": "As for the verse of Nārada: The animal sacrifice is praised on Navamī in the afternoon",
+          "role": "sage whose verse is cited on timing of animal sacrifice"
+        },
+        {
+          "paragraph_id": "p-a66305",
+          "quote": "In every fortnight, a fast should be performed on Ekādaśī",
+          "role": "scriptural authority enjoining Ekādaśī fasting"
+        },
+        {
+          "paragraph_id": "p-f9ef3d",
+          "quote": "This is from the statement of Nārada",
+          "role": "sage whose verse prescribes fasting on Dvādaśī when Ekādaśī is extended"
+        }
+      ],
+      "description": "Nārada is cited multiple times as an authoritative sage whose verses determine the timing of animal sacrifice on Navamī and the injunction to fast on Ekādaśī every fortnight.",
+      "justification": "Nārada is explicitly named as source for verses on Navamī sacrifice timing and the Ekādaśī fast injunction."
+    },
+    {
+      "canonical_name": "Manu",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-e3b90e",
+          "quote": "The ten sins are stated by Manu as follows: Harshness, falsehood, and also slander of every kind",
+          "role": "lawgiver who enumerates the ten sins removed by Daśaharā"
+        }
+      ],
+      "description": "Manu is cited in a footnote-like explanatory passage as the authority who enumerates the ten sins (bodily, verbal, and mental) that Daśaharā is said to remove.",
+      "justification": "Manu is explicitly named as the source of the classification of ten sins in paragraph p-e3b90e."
+    },
+    {
+      "canonical_name": "Jaimini",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "philosopher",
+      "mentions": [
+        {
+          "paragraph_id": "p-e18609",
+          "quote": "This is from a verse of Jaimini",
+          "role": "Mīmāṃsā authority whose verse distinguishes occasion-prompted from context-prompted fasts"
+        }
+      ],
+      "description": "Jaimini is cited as a Mīmāṃsā philosopher-authority whose verse on occasion-prompted versus non-occasion-prompted rites is used to reconcile apparently conflicting injunctions about Sunday fasting and Ekādaśī.",
+      "justification": "Jaimini is explicitly named as the author of a verse on ritual occasion in paragraph p-e18609."
+    },
+    {
+      "canonical_name": "Hemādri",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-f7c5f7",
+          "quote": "in the Bhaviṣya Purāṇa cited by Hemādri",
+          "role": "digest-compiler whose citation is referenced"
+        },
+        {
+          "paragraph_id": "p-25324c",
+          "quote": "This meaning is also accepted by Hemādri and others",
+          "role": "commentator whose interpretation is endorsed"
+        },
+        {
+          "paragraph_id": "p-bd582a",
+          "quote": "the verse is accepted by all treatises, such as the Hemādri",
+          "role": "authoritative digest that accepts the verse"
+        },
+        {
+          "paragraph_id": "p-e0b1a1",
+          "quote": "Hemādri, however, says that this verse is for the purpose of preventing the austerity of fasting until death",
+          "role": "commentator whose interpretation is considered but not fully accepted"
+        },
+        {
+          "paragraph_id": "p-ce7df0",
+          "quote": "Hemādri and others say that this verse is for the purpose of an exclusion for a householder with a son",
+          "role": "commentator on exclusion of dark Ekādaśī"
+        },
+        {
+          "paragraph_id": "p-e2afbc",
+          "quote": "This is from a verse cited by Hemādri",
+          "role": "compiler citing a verse on optional Vaiṣṇava vow"
+        }
+      ],
+      "description": "Hemādri is a medieval digest-compiler whose work (*Caturvargacintāmaṇi*) is repeatedly cited as an authoritative reference for Purāṇic verses and interpretive positions across tithi determination.",
+      "justification": "Hemādri is explicitly named six times as both compiler and commentator on questions of Ekādaśī fasting and Viṣṇu's sleep rituals."
+    },
+    {
+      "canonical_name": "Mādhava",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "scholar",
+      "mentions": [
+        {
+          "paragraph_id": "p-fc7789",
+          "quote": "the interpretation of the Kalpataru, that Āṣāḍhī is Ekādaśī, and Kārttikī is Ekādaśī, is refuted",
+          "role": "scholastic work whose interpretation is refuted (contextual)"
+        },
+        {
+          "paragraph_id": "p-734770",
+          "quote": "Mādhava and others say that this is for the purpose of indicating a greater fault for a householder with a son",
+          "role": "commentator whose view is cited then rejected"
+        },
+        {
+          "paragraph_id": "p-ff81dc",
+          "quote": "Mādhava and others say that it applies to those other than Vaiṣṇavas, by elimination",
+          "role": "commentator on sūryodaya-vedha applicability"
+        }
+      ],
+      "description": "Mādhava (likely Mādhavācārya) is cited as a commentator whose interpretations on Kṛṣṇa-ekādaśī prohibition and vedha applicability are engaged with and in some cases refuted.",
+      "justification": "Mādhava is named explicitly in paragraphs p-734770 and p-ff81dc as a commentator whose positions are evaluated by the Vīramitrodaya."
+    },
+    {
+      "canonical_name": "Devala",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-4d78ca",
+          "quote": "This is from the statement of Devala",
+          "role": "smṛti author whose verse distinguishes householder rights on Ekādaśī"
+        }
+      ],
+      "description": "Devala is a smṛti authority whose verse distinguishing householders (bright fortnight only) from forest-dwellers and ascetics (both fortnights) for the Ekādaśī vow is cited and endorsed.",
+      "justification": "Devala is explicitly named as source of verse on Ekādaśī rights in paragraph p-4d78ca."
+    },
+    {
+      "canonical_name": "Kaśyapa",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-ef6ee4",
+          "quote": "This is from the statement of Kaśyapa",
+          "role": "sage whose verse defines Vijayā-daśamī when Ekādaśī predominates"
+        }
+      ],
+      "description": "Kaśyapa is cited as a sage-authority whose verse specifies that Vijayā-daśamī should be taken when Daśamī is present only briefly at sunrise and Ekādaśī is complete with Śravaṇa nakṣatra.",
+      "justification": "Kaśyapa is explicitly named in paragraph p-ef6ee4 as the source of the Vijayā-daśamī definition verse."
+    },
+    {
+      "canonical_name": "Kātyāyana",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-393353",
+          "quote": "This is from the statement of Kātyāyana",
+          "role": "smṛti authority whose verse requires husband's consent for wife's vows"
+        }
+      ],
+      "description": "Kātyāyana is a smṛti lawgiver whose verse requiring husbandly consent for a wife's vows and fasts is cited in the discussion of women's Ekādaśī rights.",
+      "justification": "Kātyāyana is explicitly named as source of the consent-verse in paragraph p-393353."
+    },
+    {
+      "canonical_name": "Vṛddha Yājñavalkya",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-23da73",
+          "quote": "This is from the statement of Vṛddha Yājñavalkya",
+          "role": "elder smṛti authority whose verse resolves conflict of śrāddha and fast"
+        }
+      ],
+      "description": "Vṛddha Yājñavalkya ('the elder Yājñavalkya') is cited as a smṛti authority whose verse instructs that when an obligatory fast coincides with an occasional śrāddha, the fast takes precedence (with smelling the food).",
+      "justification": "Vṛddha Yājñavalkya is explicitly named in paragraph p-23da73 as the source of the śrāddha-fast conflict resolution."
+    },
+    {
+      "canonical_name": "Yama",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-50ba5f",
+          "quote": "And so, Yama says",
+          "role": "deity-lawgiver whose verse on Viṣṇu's sleep on Āṣāḍhī is cited"
+        }
+      ],
+      "description": "Yama, the deity of death and dharma, is cited as a smṛti-like authority whose verse states that Hari sleeps on Āṣāḍhī (full moon of Āṣāḍha) and awakens on Kārttikī.",
+      "justification": "Yama is explicitly named in paragraph p-50ba5f as the speaker of the verse on Viṣṇu's cosmic sleep."
+    },
+    {
+      "canonical_name": "Vāsa",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-620cff",
+          "quote": "When there is an increase of Dvādaśī alone, beginning with a complete tithi, Vāsa says",
+          "role": "sage whose verse prescribes fasting on Dvādaśī when Ekādaśī is elided"
+        }
+      ],
+      "description": "Vāsa is cited as a sage-authority whose verse addresses the case where Ekādaśī is elided (consumed) and Dvādaśī extends to the next day, prescribing a fast on Dvādaśī.",
+      "justification": "Vāsa is explicitly named in paragraph p-620cff as the source of a verse on elided Ekādaśī and Dvādaśī fasting."
+    },
+    {
+      "canonical_name": "Sāṅkhyāyana",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "sage",
+      "mentions": [
+        {
+          "paragraph_id": "p-fdecfa",
+          "quote": "As for the verse of Sāṅkhyāyana: One who has established the sacred fires, a bull, and a Brahmacārī—these three attain success by eating",
+          "role": "vedic authority whose verse is cited on eating versus fasting for fire-keepers"
+        }
+      ],
+      "description": "Sāṅkhyāyana is cited as a ritual-text authority whose verse argues that those who maintain sacred fires, bulls, and brahmacharins achieve results through eating rather than fasting.",
+      "justification": "Sāṅkhyāyana is explicitly named in paragraph p-fdecfa as the author of the verse on the three who succeed by eating."
+    },
+    {
+      "canonical_name": "Saṃvarta",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "lawgiver",
+      "mentions": [
+        {
+          "paragraph_id": "p-44e8f0",
+          "quote": "And the fast prompted by a Sunday, etc., is stated by Saṃvarta",
+          "role": "smṛti authority whose verse enumerates auspicious occasions for fasting"
+        }
+      ],
+      "description": "Saṃvarta is a smṛti lawgiver whose verse listing auspicious occasions (new moon, Dvādaśī, solar ingress, Sunday) and their associated rites is cited to clarify the nature of occasion-prompted versus Ekādaśī fasts.",
+      "justification": "Saṃvarta is explicitly named in paragraph p-44e8f0 as the authority for the verse on fasting on Sunday and other auspicious occasions."
+    },
+    {
+      "canonical_name": "Gāndhārī",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "historical-mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-a787a3",
+          "quote": "Gāndhārī fasted on one conjoined with a remainder of Daśamī. Her hundred sons were destroyed; therefore, one should avoid it",
+          "role": "negative exemplar whose error of fasting on a conjoined Ekādaśī caused destruction of her hundred sons"
+        }
+      ],
+      "description": "Gāndhārī, the Mahābhārata queen and mother of the hundred Kauravas, is cited as a negative exemplar whose mistaken fasting on a Daśamī-conjoined Ekādaśī caused the destruction of her hundred sons, illustrating the danger of the prohibited tithi.",
+      "justification": "Gāndhārī is explicitly named in paragraph p-a787a3 as the cautionary example for fasting on a conjoined Ekādaśī."
+    },
+    {
+      "canonical_name": "Jambha",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-bdecc6",
+          "quote": "This, conjoined with a remainder of Daśamī, was formerly given to Jambha",
+          "role": "mythological figure to whom the defective conjoined Ekādaśī was assigned as a curse or trick"
+        }
+      ],
+      "description": "Jambha is a mythological demon-figure to whom the Daśamī-conjoined Ekādaśī was 'given' in mythological time, used here as precedent for the penance required of one who inadvertently fasts on it.",
+      "justification": "Jambha is explicitly named in paragraph p-bdecc6 in the context of the origin of the defective conjoined Ekādaśī."
+    },
+    {
+      "canonical_name": "Śeṣa",
+      "surface_names": ["serpent-couch", "Śeṣa", "serpent's body"],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-bb7164",
+          "quote": "the blessed Lord Hari always sleeps on the serpent-couch in the ocean of milk",
+          "role": "cosmic serpent serving as Viṣṇu's bed"
+        },
+        {
+          "paragraph_id": "p-a7d0c3",
+          "quote": "by me who sleep on Śeṣa",
+          "role": "serpent on whom Viṣṇu rests during cosmic sleep"
+        },
+        {
+          "paragraph_id": "p-1f2f28",
+          "quote": "the blessed Madhusūdana attains His own illusion, the yogic sleep, on the serpent's body",
+          "role": "cosmic serpent-couch for Viṣṇu's yogic sleep"
+        }
+      ],
+      "description": "Śeṣa is the cosmic serpent on whom Viṣṇu reclines during his four-month cosmic sleep in the ocean of milk, serving as the divine couch central to the Cāturmāsya mythology.",
+      "justification": "Śeṣa is mentioned in paragraphs p-bb7164, p-a7d0c3, and p-1f2f28 as Viṣṇu's cosmic serpent-bed during the yogic sleep of Cāturmāsya."
+    },
+    {
+      "canonical_name": "Skanda",
+      "surface_names": ["Guha", "peacock-rider"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-441a81",
+          "quote": "and on that same day, O Tāta, the Ekādaśī vow falls, or any other vow, O Skanda, what should be done then",
+          "role": "deity addressed as interlocutor in śrāddha-fast conflict verse"
+        },
+        {
+          "paragraph_id": "p-441a81",
+          "quote": "O peacock-rider! When a fast falls on the day of a śrāddha, then having performed the śrāddha, whatever is the remainder of the food",
+          "role": "deity addressed in verse on how to handle conflicting obligations"
+        }
+      ],
+      "description": "Skanda (also called Guha and the 'peacock-rider'), the war-deity and son of Śiva and Pārvatī, appears as the interlocutor in a Skanda Purāṇa verse where the dilemma of coinciding śrāddha and Ekādaśī fast is resolved.",
+      "justification": "Skanda is addressed by name and epithets in paragraph p-441a81 in the context of resolving a ritual conflict."
+    },
+    {
+      "canonical_name": "Kubera",
+      "surface_names": ["Dhanada"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-02c03a",
+          "quote": "Pratipad is said to be the tithi of Dhanada (Kubera) for the Pavitrāropaṇa rite",
+          "role": "deity assigned to Pratipad tithi"
+        }
+      ],
+      "description": "Kubera (called Dhanada, 'giver of wealth') is the deity of wealth assigned to Pratipad (first tithi) in a Matsya Purāṇa verse enumerating the patron deities of each tithi.",
+      "justification": "Kubera/Dhanada is explicitly named in paragraph p-02c03a as the deity associated with Pratipad in the tithi-deity correspondence table."
+    },
+    {
+      "canonical_name": "Lakṣmī",
+      "surface_names": ["goddess Śrī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-02c03a",
+          "quote": "Dvitīyā, the tithi of the goddess Śrī, is remembered as the best of tithis",
+          "role": "goddess of prosperity assigned to Dvitīyā"
+        }
+      ],
+      "description": "Lakṣmī, the goddess of prosperity (called Śrī), is assigned to Dvitīyā (second tithi) and called the best of tithis in the Matsya Purāṇa verse on tithi-deity correspondences.",
+      "justification": "Śrī/Lakṣmī is named in paragraph p-02c03a as the deity of Dvitīyā in the tithi enumeration."
+    },
+    {
+      "canonical_name": "Bhavānī",
+      "surface_names": ["Pārvatī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-02c03a",
+          "quote": "Tṛtīyā is of Bhavānī, and Caturthī of her son",
+          "role": "goddess assigned to Tṛtīyā tithi"
+        }
+      ],
+      "description": "Bhavānī (Pārvatī, consort of Śiva) is the deity of Tṛtīyā (third tithi) in the Matsya Purāṇa's tithi-deity table; her son (Gaṇeśa) is assigned to Caturthī.",
+      "justification": "Bhavānī is named in paragraph p-02c03a in the tithi-deity correspondence verse."
+    },
+    {
+      "canonical_name": "Gaṇeśa",
+      "surface_names": ["her son", "son of Bhavānī"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-02c03a",
+          "quote": "Caturthī of her son",
+          "role": "deity assigned to Caturthī tithi"
+        }
+      ],
+      "description": "Gaṇeśa, son of Bhavānī (Pārvatī), is the deity assigned to Caturthī (fourth tithi) in the Matsya Purāṇa verse on tithi-deity correspondences.",
+      "justification": "Gaṇeśa ('her son') is named in paragraph p-02c03a in the tithi-deity enumeration."
+    },
+    {
+      "canonical_name": "Dharmarāja",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-02c03a",
+          "quote": "Pañcamī is of Dharmarāja, and Ṣaṣṭhī of Guha",
+          "role": "deity of Pañcamī tithi"
+        }
+      ],
+      "description": "Dharmarāja (a title of Yama as upholder of dharma) is assigned to Pañcamī (fifth tithi) in the Matsya Purāṇa tithi-deity table.",
+      "justification": "Dharmarāja is named in paragraph p-02c03a in the tithi-deity correspondence verse."
+    },
+    {
+      "canonical_name": "Sūrya",
+      "surface_names": ["Bhāskara", "the sun"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-02c03a",
+          "quote": "Saptamī is said to be of Bhāskara (the sun)",
+          "role": "solar deity assigned to Saptamī"
+        },
+        {
+          "paragraph_id": "p-8caf4f",
+          "quote": "in the month of Jyeṣṭha, in the bright fortnight, on Daśamī, with Wednesday and Hasta, in the Garā, Ānanda, and Vyatīpāta yogas, with the moon in Virgo and the sun in Taurus",
+          "role": "astronomical body whose position marks the special Daśaharā yoga"
+        }
+      ],
+      "description": "Sūrya (the sun god, called Bhāskara 'the illuminator') is the deity of Saptamī tithi and appears as an astronomical reference point in the Daśaharā yoga passage.",
+      "justification": "Bhāskara/Sūrya is named in the tithi-deity verse in paragraph p-02c03a and appears astronomically in paragraph p-8caf4f."
+    },
+    {
+      "canonical_name": "Vāsuki",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "mythological",
+      "mentions": [
+        {
+          "paragraph_id": "p-02c03a",
+          "quote": "Daśamī is said to be of Vāsuki",
+          "role": "serpent-deity assigned to Daśamī tithi"
+        }
+      ],
+      "description": "Vāsuki, the king of serpents, is assigned to Daśamī (tenth tithi) in the Matsya Purāṇa's tithi-deity correspondence table.",
+      "justification": "Vāsuki is explicitly named in paragraph p-02c03a in the tithi-deity enumeration."
+    },
+    {
+      "canonical_name": "Kāma",
+      "surface_names": ["Anaṅga"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-02c03a",
+          "quote": "Trayodaśī is of Anaṅga (Kāma)",
+          "role": "deity of love assigned to Trayodaśī"
+        }
+      ],
+      "description": "Kāma (the god of love, called Anaṅga 'the bodiless one') is the deity of Trayodaśī in the Matsya Purāṇa tithi-deity table.",
+      "justification": "Kāma/Anaṅga is named in paragraph p-02c03a in the tithi-deity verse."
+    },
+    {
+      "canonical_name": "Śiva",
+      "surface_names": ["Śiva", "wielder of the trident", "Rudra"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-87167f",
+          "quote": "from the yugma-vākya 'conjoined with Rudra (11th) is Dvādaśī'",
+          "role": "deity identified with Ekādaśī through the number eleven (Rudra)"
+        },
+        {
+          "paragraph_id": "p-8216ce",
+          "quote": "Saptamī conjoined with Śiva",
+          "role": "deity associated with nakṣatra-conjuncted tithi prohibition"
+        },
+        {
+          "paragraph_id": "p-02c03a",
+          "quote": "Caturdaśī is said to be of Śiva",
+          "role": "deity assigned to Caturdaśī tithi"
+        }
+      ],
+      "description": "Śiva (also called Rudra, a name identifying him with the eleven Rudras) is referenced as the deity of Caturdaśī and appears in tithi-prohibitions and the yugma-vākya formula linking Ekādaśī to Dvādaśī.",
+      "justification": "Śiva/Rudra is named in paragraphs p-87167f, p-8216ce, and p-02c03a in tithi-deity and fasting-prohibition contexts."
+    },
+    {
+      "canonical_name": "Indra",
+      "surface_names": [],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-4bd59a",
+          "quote": "the gods, with Indra, go and awaken the Lord of gods",
+          "role": "king of gods who leads the divine assembly in awakening Viṣṇu at Kārtika Ekādaśī"
+        }
+      ],
+      "description": "Indra, king of the gods, leads the divine assembly that awakens Viṣṇu from his four-month yogic sleep at the Ekādaśī of Kārtika, as described in the Viṣṇudharmottara.",
+      "justification": "Indra is explicitly named in paragraph p-4bd59a as leading the gods who awaken Viṣṇu at Kārtika Ekādaśī."
+    },
+    {
+      "canonical_name": "Brahman (deity)",
+      "surface_names": ["Brahmā", "equal to Brahmā"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-4bd59a",
+          "quote": "the sleeping one is attended by ṛṣis equal to Brahmā",
+          "role": "deity invoked as standard of comparison for the attending sages"
+        },
+        {
+          "paragraph_id": "p-02c03a",
+          "quote": "And Paurṇamāsī, O best of sages, is remembered as my tithi",
+          "role": "deity claiming the full moon day as his own tithi"
+        }
+      ],
+      "description": "Brahmā, the creator deity, appears as the standard of comparison for the ṛṣis attending Viṣṇu's sleep and as the speaker-deity who claims Paurṇamāsī (full moon) as his own tithi.",
+      "justification": "Brahmā appears in paragraphs p-4bd59a and p-02c03a in contexts of Viṣṇu's sleep attendants and the tithi-deity table."
+    },
+    {
+      "canonical_name": "Gandharvas",
+      "surface_names": ["hosts of Gandharvas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-97472b",
+          "quote": "Janārdana is praised by the gods, ṛṣis, and hosts of Gandharvas and Apsarases",
+          "role": "celestial musicians praising Viṣṇu at Āṣāḍha Ekādaśī"
+        }
+      ],
+      "description": "The Gandharvas are celestial musicians who, along with gods, ṛṣis, and Apsarases, praise Janārdana (Viṣṇu) for five days beginning with the bright Ekādaśī of Āṣāḍha.",
+      "justification": "The Gandharvas are named in paragraph p-97472b as one of the groups performing the five-day festival for Viṣṇu."
+    },
+    {
+      "canonical_name": "Apsarases",
+      "surface_names": [],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-97472b",
+          "quote": "hosts of Gandharvas and Apsarases",
+          "role": "celestial dancers praising Viṣṇu at Āṣāḍha Ekādaśī"
+        }
+      ],
+      "description": "The Apsarases are celestial nymphs who participate in the five-day festival of song and dance in praise of Viṣṇu at Āṣāḍha Ekādaśī alongside gods, ṛṣis, and Gandharvas.",
+      "justification": "The Apsarases are named in paragraph p-97472b as participants in the divine festival for Viṣṇu's sleep."
+    },
+    {
+      "canonical_name": "Mātṛs",
+      "surface_names": ["the Mothers"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-02c03a",
+          "quote": "Navamī is of the Mātṛs",
+          "role": "group of mother-goddesses assigned to Navamī"
+        }
+      ],
+      "description": "The Mātṛs (the divine Mothers, a group of goddess-energies) are assigned to Navamī (ninth tithi) in the Matsya Purāṇa's tithi-deity table.",
+      "justification": "The Mātṛs are explicitly named in paragraph p-02c03a as the deities of Navamī."
+    },
+    {
+      "canonical_name": "Vaiṣṇava",
+      "surface_names": ["Vaiṣṇavas", "those devoted to Viṣṇu"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-458f82",
+          "quote": "by those devoted to Viṣṇu",
+          "role": "category of practitioners with specific ritual obligations"
+        },
+        {
+          "paragraph_id": "p-4b4529",
+          "quote": "And this is for those other than Vaiṣṇavas",
+          "role": "group for whom a specific dark Ekādaśī exception does not apply"
+        },
+        {
+          "paragraph_id": "p-2f4d8d",
+          "quote": "And this aruṇodaya-vedha is only for Vaiṣṇavas",
+          "role": "group for whom dawn-conjunction vedha applies"
+        },
+        {
+          "paragraph_id": "p-d280",
+          "quote": "A Vaiṣṇava is one who has received initiation into a Viṣṇu mantra",
+          "role": "defined category of Viṣṇu-initiates"
+        },
+        {
+          "paragraph_id": "p-d82a06",
+          "quote": "It is undisputed that an Ekādaśī conjoined at dawn should always be rejected by Vaiṣṇavas",
+          "role": "group for whom the conjoined Ekādaśī is unambiguously forbidden"
+        }
+      ],
+      "description": "Vaiṣṇavas—defined as those who have received initiation into a Viṣṇu mantra—form a distinct ritual category with stricter Ekādaśī rules (aruṇodaya-vedha applies, both fortnights obligatory) compared to Smārtas.",
+      "justification": "Vaiṣṇavas are defined and distinguished from Smārtas throughout the Ekādaśī determination section, beginning with paragraph p-458f82."
+    },
+    {
+      "canonical_name": "Smārta",
+      "surface_names": ["Smārtas"],
+      "kind": "group",
+      "mentions": [
+        {
+          "paragraph_id": "p-269e82",
+          "quote": "Now, for Smārtas",
+          "role": "distinct ritual category with different Ekādaśī rules from Vaiṣṇavas"
+        },
+        {
+          "paragraph_id": "p-5825ac",
+          "quote": "Therein, Ekādaśī, though of two kinds by the division of pure and conjoined, is of nine kinds for each",
+          "role": "group for whom the eighteen-fold Ekādaśī classification applies"
+        }
+      ],
+      "description": "Smārtas are practitioners following smṛti tradition (as opposed to Vaiṣṇava āgamic initiation), for whom the Ekādaśī determination is more complex, involving an eighteen-fold classification based on the lengths of Ekādaśī and Dvādaśī.",
+      "justification": "Smārtas are explicitly distinguished from Vaiṣṇavas starting at paragraph p-269e82 and given their own detailed Ekādaśī rules."
+    },
+    {
+      "canonical_name": "Gaṅgā",
+      "surface_names": ["pure river descended from heaven"],
+      "kind": "figure",
+      "figure_kind": "deity",
+      "mentions": [
+        {
+          "paragraph_id": "p-8caf4f",
+          "quote": "On the Daśamī of the bright fortnight, in the month of Jyeṣṭha, on a Tuesday, in the Hasta nakṣatra, the pure river descended from heaven",
+          "role": "sacred river whose heavenly descent marks Daśaharā"
+        }
+      ],
+      "description": "Gaṅgā, the sacred river descended from heaven, whose descent on the Daśamī of Jyeṣṭha is the mythological event commemorated by Daśaharā, the festival that removes ten sins.",
+      "justification": "The Gaṅgā's descent is the defining mythological event of Daśaharā, described in paragraph p-8caf4f from the Skanda Purāṇa."
+    }
+  ],
+  "themes": [
+    {
+      "topic": "Tithi determination: rules for accepting a tithi when it spans two days",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-458f82",
+          "quote": "the performance of an optional rite on a divided tithi is prohibited"
+        },
+        {
+          "paragraph_id": "p-bba4ad",
+          "quote": "For Daśamī, there is no such regulating verse. Therefore, if Daśamī pervades the time of the rite on both days, either the preceding or the succeeding day may be taken by choice"
+        },
+        {
+          "paragraph_id": "p-5eaf2c",
+          "quote": "an option is flawed by eight faults, and it is improper for mere human choice to prevail, some regulating scripture must necessarily be accepted"
+        }
+      ],
+      "justification": "The digest's primary legal-hermeneutic task throughout this window is determining which day to take when a tithi spans two calendar days, applying Mīmāṃsā principles to reconcile conflicting Purāṇic verses."
+    },
+    {
+      "topic": "Cāturmāsya and the cosmic sleep of Viṣṇu: ritual structure of the four-month vow",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-bb7164",
+          "quote": "On the bright Ekādaśī of Āṣāḍha, the blessed Lord Hari always sleeps on the serpent-couch in the ocean of milk"
+        },
+        {
+          "paragraph_id": "p-9c0cf1",
+          "quote": "On this same bright Ekādaśī of Āṣāḍha, the commencement of the Cāturmāsya vow is stated in the Mahābhārata"
+        },
+        {
+          "paragraph_id": "p-1f2f28",
+          "quote": "He sleeps for four months, until Kārttikī arrives. During that time, special rites such as sacrifices are not performed"
+        }
+      ],
+      "justification": "The Cāturmāsya section (paragraphs around p-bb7164 through p-3d3d39) explores the theology and ritual timing of Viṣṇu's four-month cosmic sleep and its associated ceremonies of sleep, turning-over, and awakening."
+    },
+    {
+      "topic": "Ekādaśī fasting rights: differentiation by social category (householder, renunciant, widow, woman, Vaiṣṇava, Smārta)",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-1eda1a",
+          "quote": "In the vow, however, in its obligatory performance, those other than householders have the right in both fortnights. But a householder has it only in the bright fortnight"
+        },
+        {
+          "paragraph_id": "p-797c9a",
+          "quote": "And this should be performed by a widow in both fortnights"
+        },
+        {
+          "paragraph_id": "p-3c0365",
+          "quote": "it is flawless that a married woman, like a householder, has the right only on the bright fortnight"
+        }
+      ],
+      "justification": "The Ekādaśī section systematically differentiates fasting obligations by social and ritual category, a central organizational theme of dharmaśāstra."
+    },
+    {
+      "topic": "Vedha (ritual contamination by adjacent tithi): aruṇodaya-vedha vs. sūryodaya-vedha",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-b765c3",
+          "quote": "The Ekādaśī that is conjoined with the two muhūrtas before the time of sunrise is complete; the other is declared to be conjoined"
+        },
+        {
+          "paragraph_id": "p-e68ff2",
+          "quote": "If the dawn is conjoined with Daśamī, it should not be fasted on by a Vaiṣṇava; that is not the Ekādaśī vow"
+        },
+        {
+          "paragraph_id": "p-f14cef",
+          "quote": "the aruṇodaya-vedha is also for everyone, because of the general statement on conjunction"
+        }
+      ],
+      "justification": "The concept of vedha—contamination of a tithi by contact with an adjacent tithi at dawn or sunrise—is a central technical theme running through the entire Ekādaśī section."
+    },
+    {
+      "topic": "Conflict resolution between simultaneous ritual obligations using Mīmāṃsā hermeneutics",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-ac7c6a",
+          "quote": "a resolve is enjoined by metaphorical interpretation (lakṣaṇā). The censure of eating there, by the maxim 'censure does not proceed to censure,' is for the praise of the vow"
+        },
+        {
+          "paragraph_id": "p-64af7f",
+          "quote": "When a fast is obligatory (nitya), and a śrāddha is occasional (naimittika), one should then perform the fast, having smelled what has been offered to the ancestors"
+        },
+        {
+          "paragraph_id": "p-d290",
+          "quote": "the truth, however, is that by the maxim 'a mention of a fruit for a subordinate element is an explanatory statement'"
+        }
+      ],
+      "justification": "Throughout this window, the Vīramitrodaya applies Mīmāṃsā interpretive principles (lakṣaṇā, paryudāsa, arthavāda, the nitya-naimittika hierarchy) to resolve conflicts between injunctions."
+    },
+    {
+      "topic": "Nakṣatra-tithi conjunctions as determinants of ritual timing",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-188e47",
+          "quote": "the Navamī conjoined with the three nakṣatras beginning with Mūla is declared to be great"
+        },
+        {
+          "paragraph_id": "p-8dc49e",
+          "quote": "Viṣṇu sleeps in the first quarter of Maitra (Anurādhā), turns over in the middle of Śruti (Śravaṇa), and the slayer of the Suras' enemies awakens at the end of Pauṣṇa (Revatī)"
+        },
+        {
+          "paragraph_id": "p-e7b949",
+          "quote": "If Daśamī is present for a little at sunrise, and Ekādaśī is complete, at the time when it is in the Śravaṇa nakṣatra, that tithi is called Vijayā"
+        }
+      ],
+      "justification": "The specific combination of tithi and nakṣatra is a recurring technical determinant throughout this window, shaping which day is chosen for Navamī, Daśamī, and Ekādaśī observances."
+    },
+    {
+      "topic": "Scriptural hierarchy: smṛti vs. śruti vs. Purāṇa and the principle of analogical extension",
+      "implicit": true,
+      "mentions": [
+        {
+          "paragraph_id": "p-adfcd0",
+          "quote": "An optional (kāmya) fast, however, supersedes even the obligatory śrauta Agnihotra, etc., because the strength of the object of the injunction is greater than the strength of the authority"
+        },
+        {
+          "paragraph_id": "p-164",
+          "quote": "because the Agnihotra, etc., are śrauta (based on śruti), it is proper that they should supersede the smārta (based on smṛti) cessation of eating"
+        }
+      ],
+      "justification": "The text implicitly develops a hierarchy in which śrauta rites generally supersede smārta ones, but obligatory smārta fasts coexist with obligatory śrauta rites, and optional rites of any category can override obligatory ones of lower authority."
+    },
+    {
+      "topic": "Festival calendar: Navamī, Daśamī, Ekādaśī, and their named observances",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-10f9ad",
+          "quote": "The Navamī of the bright fortnight of Āśvina is Durgā-navamī; it is also Mahānavamī"
+        },
+        {
+          "paragraph_id": "p-9d6f56",
+          "quote": "The Daśamī of the bright fortnight of Jyeṣṭha is Daśaharā"
+        },
+        {
+          "paragraph_id": "p-3e4e5e",
+          "quote": "The Daśamī of the bright fortnight of Āśvina is Vijayā-daśamī"
+        }
+      ],
+      "justification": "The window systematically covers the named festival observances for Navamī through Ekādaśī—Durgā-navamī/Mahānavamī, Daśaharā, Vijayā-daśamī, the Cāturmāsya vow—organized by tithi."
+    },
+    {
+      "topic": "Women's ritual agency: dependence on husband's permission and differential Ekādaśī rights",
+      "implicit": false,
+      "mentions": [
+        {
+          "paragraph_id": "p-7d7e7f",
+          "quote": "The woman who, while her husband is alive, performs a fast or a vow, shortens the life of her husband and goes to hell"
+        },
+        {
+          "paragraph_id": "p-312622",
+          "quote": "A wife should always perform vows, etc., only with the consent of her husband"
+        },
+        {
+          "paragraph_id": "p-3c0365",
+          "quote": "it is flawless that a married woman, like a householder, has the right only on the bright fortnight"
+        }
+      ],
+      "justification": "The window contains an explicit sub-discussion of women's ritual rights, conditioning fasting on husbandly consent and distinguishing widows (both fortnights) from married women (bright fortnight only)."
+    }
+  ],
+  "citations": [
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-282ff6",
+      "quote": "And so, in the Bhaviṣya Purāṇa: The Aṣṭamī of the bright fortnight of Āṣvayuj, conjoined with Mūla, is named Mahānavamī",
+      "justification": "The Bhaviṣya Purāṇa is cited as a scriptural authority on the identification of Mahānavamī."
+    },
+    {
+      "cited_work": "Padma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d35e58",
+      "quote": "And so, in the Padma Purāṇa: Śrāvaṇī, Durgā-navamī, Dūrvā, and Hutāśanī, Śivarātri, and the day of Bali should be performed when conjoined with the preceding day",
+      "justification": "The Padma Purāṇa is cited as authoritative for the rule that Durgā-navamī should be taken when conjoined with the preceding day."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-10007c",
+      "quote": "And from the Skānda Purāṇa: One should never perform Navamī, O Tāta, when it is conjoined with Daśamī",
+      "justification": "The Skanda Purāṇa is cited on the prohibition of performing Navamī when conjoined with Daśamī."
+    },
+    {
+      "cited_work": "Devī Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-5c355f",
+      "quote": "This is from the Devī Purāṇa",
+      "justification": "The Devī Purāṇa is cited for verses on the animal sacrifice timing relative to Aṣṭamī and Navamī."
+    },
+    {
+      "cited_work": "Saura Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-d53a1d",
+      "quote": "This is from the Saura Purāṇa. This also pertains only to the animal sacrifice",
+      "justification": "The Saura Purāṇa is cited for a verse on the completeness of Navamī for animal sacrifice purposes."
+    },
+    {
+      "cited_work": "Madanaratna",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-b8ab14",
+      "quote": "the Madanaratna says it is a prohibition when the tithi is pure and of increased duration",
+      "justification": "The Madanaratna (a dharmaśāstra digest) is cited for interpreting Nārada's verse as a prohibition applying only to pure and extended tithis."
+    },
+    {
+      "cited_work": "Purāṇasamuccaya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7ae5e2",
+      "quote": "Beginning with it, in the Purāṇasamuccaya: On Daśamī, men should properly worship Aparājitā, facing the northeast direction, in the afternoon, with effort",
+      "justification": "The Purāṇasamuccaya is cited as the source for the Vijayā-daśamī worship prescription."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-8e4b4f",
+      "quote": "This is from the Skanda Purāṇa. 'Complete' means on both days",
+      "justification": "The Skanda Purāṇa is cited for the rule that a complete Daśamī may be taken on either day."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-10ba26",
+      "quote": "This is stated in the Skanda Purāṇa itself. 'With Durgā' means conjoined with Navamī",
+      "justification": "The Skanda Purāṇa is cited again for the rule that Daśamī should be performed conjoined with Navamī."
+    },
+    {
+      "cited_work": "Kūrma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7717da",
+      "quote": "in the Kūrma Purāṇa. Here, Pūrṇā = Daśamī. It is understood that when conjoined with Nandā = Ekādaśī, it is fruitless",
+      "justification": "The Kūrma Purāṇa is cited for the verse identifying the paraviddhā Daśamī-Ekādaśī conjunction as fruitless."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1fd193",
+      "quote": "This is in the Brahmavaivarta Purāṇa",
+      "justification": "The Brahmavaivarta Purāṇa is cited for prohibiting fasting on several tithis including Daśamī when conjoined with the succeeding day."
+    },
+    {
+      "cited_work": "Śivarahasya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-13ac2b",
+      "quote": "These verses in the Śivarahasya, Saurapurāṇa, etc., apply only to the dark fortnight, not to cases of pervasion",
+      "justification": "The Śivarahasya is cited (and its applicability limited) in the discussion of Ṣaṣṭhī-Nāga and Saptamī-Śiva conjunction prohibitions."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-75357b",
+      "quote": "This is from the Skanda Purāṇa",
+      "justification": "The Skanda Purāṇa is cited for the verse on the descent of the Gaṅgā marking Daśaharā."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9cf8d6",
+      "quote": "This is from the Brahma Purāṇa, in that context",
+      "justification": "The Brahma Purāṇa is cited for the prescription of Vāstu-pūjana by Vaiśyas on the bright Ekādaśī of Caitra."
+    },
+    {
+      "cited_work": "Brahma Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0d1e94",
+      "quote": "Therein, in the Brahma Purāṇa",
+      "justification": "The Brahma Purāṇa is cited for the injunction of Viṣṇu's sleep on the bright Ekādaśī of Āṣāḍha and awakening on Kārtika Ekādaśī."
+    },
+    {
+      "cited_work": "Bhaviṣyottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-deb7c2",
+      "quote": "In the Bhaviṣyottara also: When the month of Bhādrapada has arrived, on the day of the bright Ekādaśī, the turning of the side of Viṣṇu occurs",
+      "justification": "The Bhaviṣyottara Purāṇa is cited for the turning-of-the-side (Pārśvaikādaśī) observance in Bhādrapada."
+    },
+    {
+      "cited_work": "Varāha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9e6abb",
+      "quote": "In the Varāha Purāṇa, etc., however, the sleep, etc., are stated for the bright Dvādaśīs of these same months",
+      "justification": "The Varāha Purāṇa is cited as an alternative tradition placing Viṣṇu's sleep ceremonies on Dvādaśī rather than Ekādaśī."
+    },
+    {
+      "cited_work": "Matsya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-46c372",
+      "quote": "It would also contradict this verse of the Matsya Purāṇa",
+      "justification": "The Matsya Purāṇa is cited for the tithi-deity correspondence table (Dvādaśī belongs to Viṣṇu) used to refute the identification of Āṣāḍhī as Ekādaśī."
+    },
+    {
+      "cited_work": "Kalpataru",
+      "cited_author": null,
+      "stance": "refute",
+      "paragraph_id": "p-fc7789",
+      "quote": "the interpretation of the Kalpataru, that Āṣāḍhī is Ekādaśī, and Kārttikī is Ekādaśī, is refuted",
+      "justification": "The Kalpataru (another dharmaśāstra digest) is explicitly cited and then refuted by the Vīramitrodaya for its interpretation that Āṣāḍhī and Kārttikī refer to Ekādaśī rather than the full moon."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-527a2e",
+      "quote": "And in the Viṣṇudharmottara, it is clearly stated 'at the end of the fortnight'",
+      "justification": "The Viṣṇudharmottara is cited to confirm that the full moon (end of fortnight) is one valid time for Viṣṇu's sleep ceremony."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f3c5f7",
+      "quote": "In the Viṣṇudharmottara, however, the sleep and awakening are stated for a period of five days beginning with Ekādaśī",
+      "justification": "The Viṣṇudharmottara is also cited for the five-day festival beginning on Ekādaśī as yet another alternative time."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4bfee3",
+      "quote": "This is from the Bhaviṣya Purāṇa",
+      "justification": "The Bhaviṣya Purāṇa is cited for the prescription that Viṣṇu sleeps at night, awakens during the day, and turns over at twilight."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6ded0c",
+      "quote": "This is also from the Viṣṇudharmottara",
+      "justification": "The Viṣṇudharmottara is cited to confirm that Viṣṇu does not sleep during the day or awaken at night."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-282ff6",
+      "quote": "And so, in the Bhaviṣya Purāṇa: Viṣṇu sleeps in the first quarter of Maitra (Anurādhā)",
+      "justification": "The Bhaviṣya Purāṇa is cited for the nakṣatra-based timing of Viṣṇu's sleep, turning, and awakening."
+    },
+    {
+      "cited_work": "Varāha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-918337",
+      "quote": "This is from a verse of the Varāha Purāṇa",
+      "justification": "The Varāha Purāṇa is cited for the rule that when nakṣatra-quarter conjunction is absent, the nakṣatra alone suffices for timing the sleep ceremonies."
+    },
+    {
+      "cited_work": "Varāha Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-960a8b",
+      "quote": "And so, in the Varāha Purāṇa: On Dvādaśī, at the time of the junction, when there is no possibility of the nakṣatras",
+      "justification": "The Varāha Purāṇa is cited again for the fallback rule of performing sleep ceremonies at twilight on Dvādaśī when no nakṣatra conjunction is available."
+    },
+    {
+      "cited_work": "Mahābhārata",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9c0cf1",
+      "quote": "On this same bright Ekādaśī of Āṣāḍha, the commencement of the Cāturmāsya vow is stated in the Mahābhārata",
+      "justification": "The Mahābhārata is cited as an epic authority prescribing the commencement of the Cāturmāsya vow on Āṣāḍha bright Ekādaśī."
+    },
+    {
+      "cited_work": "Nāradīya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-72f8cb",
+      "quote": "Therein, in verses such as this from the Nāradīya: In every fortnight, a fast should be performed on Ekādaśī",
+      "justification": "The Nāradīya Purāṇa is cited for the general injunction to fast on Ekādaśī every fortnight."
+    },
+    {
+      "cited_work": "Agni Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-7a06b8",
+      "quote": "This is from the Agni Purāṇa",
+      "justification": "The Agni Purāṇa is cited for the injunction that householders, brahmacharins, and those with established fires should not eat on Ekādaśī in either fortnight."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-839fe3",
+      "quote": "This is also from the prohibition of a pūrvaviddhā tithi in the Skanda Purāṇa and Bhaviṣya Purāṇa",
+      "justification": "Both the Skanda Purāṇa and Bhaviṣya Purāṇa are cited for prohibiting Ekādaśī conjoined with Daśamī."
+    },
+    {
+      "cited_work": "Bhaviṣyottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-94d759",
+      "quote": "This is also from the Bhaviṣyottara",
+      "justification": "The Bhaviṣyottara Purāṇa is cited for the verse distinguishing householders (bright Ekādaśī only) from brahmacharins and women (both fortnights)."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-53ad8b",
+      "quote": "This is also from the Bhaviṣya Purāṇa",
+      "justification": "The Bhaviṣya Purāṇa is cited for distinguishing bright and dark Ekādaśī fasting by householders (bright, for enjoyment) vs. liberation-seekers (dark)."
+    },
+    {
+      "cited_work": "Tattvasāgara",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-186578",
+      "quote": "From these verses of the Nāradīya and Tattvasāgara, it is understood that he should fast on all dark Ekādaśīs",
+      "justification": "The Tattvasāgara is cited alongside the Nāradīya as authority for the Vaiṣṇava obligation to fast on all Ekādaśīs including dark fortnight."
+    },
+    {
+      "cited_work": "Gāruḍa Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-0c6321",
+      "quote": "This is from the Gāruḍa Purāṇa",
+      "justification": "The Gāruḍa Purāṇa is cited for the rule that a Vaiṣṇava should not fast on an Ekādaśī conjoined with Daśamī at dawn."
+    },
+    {
+      "cited_work": "Gāruḍa Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-f2e3e2",
+      "quote": "This is from the Gāruḍa Purāṇa",
+      "justification": "The Gāruḍa Purāṇa is cited again for the rule on 'doubtful Ekādaśī' (vedha of three ghaṭikās before sunrise) and the prescription to fast on Dvādaśī instead."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-247a6d",
+      "quote": "This is from the Bhaviṣya Purāṇa. 'Moon' (soma) = Ekādaśī",
+      "justification": "The Bhaviṣya Purāṇa is cited for the rule on increasing/decreasing Ekādaśī and the vedha rule adjustment."
+    },
+    {
+      "cited_work": "Viṣṇurahasya",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-1869e3",
+      "quote": "This is from the Viṣṇurahasya",
+      "justification": "The Viṣṇurahasya is cited for the conditional rule on fasting on a Daśamī-conjoined Ekādaśī depending on Dvādaśī extension into Trayodaśī."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-caad82",
+      "quote": "For this very reason, in the Skanda Purāṇa: All the tithis, beginning with Pratipad, from one sunrise of the sun to the next, are known as complete, with the exception of Harivāsara (Ekādaśī)",
+      "justification": "The Skanda Purāṇa is cited for the definition of completeness for all tithis, with the explicit exception of Ekādaśī (Harivāsara)."
+    },
+    {
+      "cited_work": "Brahmavaivarta Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-6c9ff8",
+      "quote": "As for the Brahmavaivarta Purāṇa: Four ghaṭikās in the morning are desired as the dawn",
+      "justification": "The Brahmavaivarta Purāṇa is cited for the definition of aruṇodaya (dawn) as four ghaṭikās before sunrise."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-9e70b5",
+      "quote": "This is also from the Viṣṇudharmottara",
+      "justification": "The Viṣṇudharmottara is cited for the rule that nakṣatra quarter conjunction, not the nakṣatra itself, is not the determining cause when Dvādaśī is involved."
+    },
+    {
+      "cited_work": "Vaikhanāsa Āgama",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-91fba1",
+      "quote": "He who has received the initiation stated in the Vaikhānasa and other āgamas is a Vaiṣṇava",
+      "justification": "The Vaikhanāsa Āgama is cited as the defining scriptural source for what constitutes a Vaiṣṇava (one who has received Viṣṇu-mantra initiation)."
+    },
+    {
+      "cited_work": "Mārkaṇḍeya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-15f8c6",
+      "quote": "This is also from the Mārkaṇḍeya Purāṇa. Here, the mention of father, etc., applies to a case where the husband is not present",
+      "justification": "The Mārkaṇḍeya Purāṇa is cited for the rule that a woman's vow performed without permission of husband, father, or son is fruitless."
+    },
+    {
+      "cited_work": "Skanda Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4169fd",
+      "quote": "This is also from the Skanda Purāṇa",
+      "justification": "The Skanda Purāṇa is cited for the detailed resolution of śrāddha-Ekādaśī conflict (smelling leftover food to satisfy both obligations)."
+    },
+    {
+      "cited_work": "Bhaviṣya Purāṇa",
+      "cited_author": null,
+      "stance": "authority",
+      "paragraph_id": "p-4bfee3",
+      "quote": "This is from the Bhaviṣya Purāṇa",
+      "justification": "The Bhaviṣya Purāṇa is cited for the complete Ekādaśī definition (conjoined with two muhūrtas before sunrise)."
+    },
+    {
+      "cited_work": "Viṣṇudharmottara Purāṇa",
+      "cited_author": "Viṣṇudharmottara",
+      "stance": "authority",
+      "paragraph_id": "p-f7c5f7",
+      "quote": "And also in the Bhaviṣya Purāṇa cited by Hemādri: On the Dvādaśī of the bright fortnight are the festivals of sleep and turning over",
+      "justification": "Hemādri's citation of the Bhaviṣya Purāṇa is referenced as an additional authority for the Dvādaśī placement of sleep festivals."
+    }
+  ]
+}
