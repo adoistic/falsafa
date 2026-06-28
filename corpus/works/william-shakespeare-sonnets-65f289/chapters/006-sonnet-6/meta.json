@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 6,
+  "chapter_title": "Sonnet 6",
+  "chapter_slug": "006-sonnet-6",
+  "incipit": "Then let not winter’s ragged hand deface,",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "553d2dd4-6e92-58d8-a977-f32c16f7630b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 108,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-28T16:31:25.698Z",
+  "generated_at": "2026-06-28T16:35:22.207Z",
   "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
   "counts": {
-    "works": 2016,
-    "authors": 620,
-    "eras": 11,
+    "works": 2017,
+    "authors": 621,
+    "eras": 12,
     "genres": 34,
     "languages": 9
   },
@@ -38137,6 +38137,26 @@
       "license": "CC BY-SA 3.0 — Eighteenth-Century Poetry Archive, ed. Alexander Huber (Bodleian Libraries, University of Oxford)",
       "thothica_role": "ecpa-root",
       "is_assorted": true
+    },
+    {
+      "slug": "william-shakespeare-sonnets-65f289",
+      "title": "Sonnets",
+      "author": "William Shakespeare",
+      "author_slug": "william-shakespeare",
+      "era": "16th Century",
+      "era_slug": "16th-century",
+      "genre": "Poetry",
+      "genre_slug": "poetry",
+      "language": "English",
+      "language_slug": "english",
+      "language_direction": "ltr",
+      "published_year": 1609,
+      "nationality": "English",
+      "total_logical_chapters": 154,
+      "total_variant_entries": 154,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)",
+      "thothica_role": "catalog"
     }
   ],
   "authors": {
@@ -43255,6 +43275,12 @@
       "works": [
         "assorted-eighteenth-century-poetry-353ac8"
       ]
+    },
+    "william-shakespeare": {
+      "name": "William Shakespeare",
+      "works": [
+        "william-shakespeare-sonnets-65f289"
+      ]
     }
   },
   "eras": {
@@ -45327,6 +45353,12 @@
         "william-whitehead-poems-1bdb04",
         "william-woty-poems-a97dc5",
         "assorted-eighteenth-century-poetry-353ac8"
+      ]
+    },
+    "16th-century": {
+      "name": "16th Century",
+      "works": [
+        "william-shakespeare-sonnets-65f289"
       ]
     }
   },
@@ -47440,7 +47472,8 @@
         "william-ward-poems-01b7bd",
         "william-whitehead-poems-1bdb04",
         "william-woty-poems-a97dc5",
-        "assorted-eighteenth-century-poetry-353ac8"
+        "assorted-eighteenth-century-poetry-353ac8",
+        "william-shakespeare-sonnets-65f289"
       ]
     },
     "literary-criticism": {
@@ -49577,7 +49610,8 @@
         "william-ward-poems-01b7bd",
         "william-whitehead-poems-1bdb04",
         "william-woty-poems-a97dc5",
-        "assorted-eighteenth-century-poetry-353ac8"
+        "assorted-eighteenth-century-poetry-353ac8",
+        "william-shakespeare-sonnets-65f289"
       ]
     }
   }

@@ -1,0 +1,28 @@
+{
+  "work_slug": "william-shakespeare-sonnets-65f289",
+  "work_title": "Sonnets",
+  "chapter_number": 89,
+  "chapter_title": "Sonnet 89",
+  "chapter_slug": "089-sonnet-89",
+  "incipit": "Say that thou didst forsake me for some fault,",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3a212139-2f02-5550-bbc6-af9bb405d123",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 112,
+      "line_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1041",
+      "license": "Public domain — from Project Gutenberg (https://www.gutenberg.org)"
+    }
+  ]
+}
