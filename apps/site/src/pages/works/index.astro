@@ -1,59 +1,38 @@
 ---
 import Base from "../../layouts/Base.astro";
-import WorkCardGrid from "../../components/WorkCardGrid.astro";
-import { manifest, readWorkIndex } from "../../lib/corpus";
+import WorksBrowser from "../../islands/WorksBrowser.tsx";
+import { manifest } from "../../lib/corpus";
+import type { BrowseWork } from "../../lib/works-filter";
 
 const m = manifest();
-
-// Group works by era for display
-const byEra = new Map<string, typeof m.works>();
-for (const w of m.works) {
-  const arr = byEra.get(w.era) ?? [];
-  arr.push(w);
-  byEra.set(w.era, arr);
-}
-
-// Chronological display order. Any era present in the corpus but missing from
-// this list is appended (sorted) rather than dropped, so no work is ever hidden.
-const eraOrder = [
-  "Ancient", "Classical", "Hellenistic", "Imperial", "Late Antiquity",
-  "Renaissance", "Medieval", "16th Century", "Enlightenment", "18th Century",
-  "19th Century", "20th Century", "Unknown",
-];
-const knownEras = new Set(eraOrder);
-const extraEras = [...byEra.keys()].filter((e) => !knownEras.has(e)).sort();
-const sortedEras = [...eraOrder, ...extraEras]
-  .filter((e) => byEra.has(e))
-  .map((e) => ({ era: e, works: byEra.get(e)! }));
-
-// Pre-resolve cover URLs once for all works (the grid component will
-// reuse this map rather than re-walking index.md per render).
-const coversByWork = new Map<string, string | null>();
-for (const w of m.works) {
-  const idx = readWorkIndex(w.slug);
-  coversByWork.set(w.slug, idx?.cover_url ?? null);
-}
+const works: BrowseWork[] = m.works.map((w) => ({
+  slug: w.slug,
+  title: w.title,
+  author: w.author,
+  author_slug: w.author_slug,
+  era: w.era ?? "Unknown",
+  genre: w.genre ?? "Other",
+  language: w.language ?? "Unknown",
+  difficulty: w.difficulty ?? "",
+  published_year: w.published_year ?? null,
+  total_logical_chapters: w.total_logical_chapters ?? 0,
+}));
 ---
 
 <Base
   title="Works"
-  description={`Browse all ${m.counts.works} works in the Falsafa catalog. Translations and transliterations by Thothica.`}
+  description={`Browse all ${m.counts.works} works in the Falsafa catalog.`}
 >
   <div class="container">
-    <header class="page-header">
-      <p class="kicker">The catalog</p>
-      <h1>{m.counts.works} works, {m.counts.languages} languages</h1>
-      <p class="lede">Browse by era. Each work ships with 2-3 language variants.</p>
+    <header class="page-head">
+      <p class="kicker">The library</p>
+      <h1>Works</h1>
+      <p class="lede">
+        Browse all {m.counts.works} works — filter by era, language, genre and
+        difficulty, or search by title and author.
+      </p>
     </header>
-
-    {
-      sortedEras.map(({ era, works }) => (
-        <section class="era-section">
-          <h2>{era}</h2>
-          <WorkCardGrid works={works} coverByWork={coversByWork} />
-        </section>
-      ))
-    }
+    <WorksBrowser client:load works={works} />
   </div>
 </Base>
 
@@ -64,7 +43,7 @@ for (const w of m.works) {
     padding: var(--s-12) var(--s-8) var(--s-24);
   }
 
-  .page-header {
+  .page-head {
     max-width: 60ch;
     margin: 0 0 var(--s-16);
   }
@@ -93,18 +72,5 @@ for (const w of m.works) {
     color: var(--ink-muted);
     font-size: var(--fs-h3);
     line-height: 1.4;
-  }
-
-  .era-section {
-    margin-bottom: var(--s-16);
-  }
-
-  .era-section h2 {
-    font-family: var(--font-display);
-    font-size: var(--fs-h2);
-    font-weight: 600;
-    margin: 0 0 var(--s-6);
-    padding-bottom: var(--s-3);
-    border-bottom: 1px solid var(--rule);
   }
 </style>
